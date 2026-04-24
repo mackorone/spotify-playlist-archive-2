@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 
 > Cutting\-edge dance music emerging from Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,380 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,439 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 25 | [Quiet Town of Tokyo](https://open.spotify.com/track/0kb67RaD8MDgyRNKgLJaFu) | [Shinichiro Yokota](https://open.spotify.com/artist/37CyZqs6qCIOn5nj7L04bV) | [Shinichiro Yokota Presents Do It Again and Again](https://open.spotify.com/album/6mZgfFzwF7kWToQgcUh9me) | 6:06 |
 | 26 | [GORILLA](https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGURI ZOO](https://open.spotify.com/album/6oyRi1OJMpPhUtvNGd3zNL) | 2:19 |
 | 27 | [Miyanosawa](https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Miyanosawa](https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu) | 3:28 |
-| 28 | [who do u love?](https://open.spotify.com/track/6xyl77bg5JgjxgJvsIpkml) | [Keep in Touch](https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd), [mee mee mee](https://open.spotify.com/artist/64ogzjxH3ZXoCbXmmySiUB), [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [who do u love?](https://open.spotify.com/album/6Ixz4Oy2ZEmFQgdhQOUOgM) | 3:17 |
-| 29 | [Feeling](https://open.spotify.com/track/16vnGjVUbGeniz8aXAxUxk) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [Feeling](https://open.spotify.com/album/1j5koOWuY2kIoCX3hsPayx) | 3:20 |
+| 28 | [Feeling](https://open.spotify.com/track/16vnGjVUbGeniz8aXAxUxk) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [Feeling](https://open.spotify.com/album/1j5koOWuY2kIoCX3hsPayx) | 3:20 |
+| 29 | [who do u love?](https://open.spotify.com/track/6xyl77bg5JgjxgJvsIpkml) | [Keep in Touch](https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd), [mee mee mee](https://open.spotify.com/artist/64ogzjxH3ZXoCbXmmySiUB), [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [who do u love?](https://open.spotify.com/album/6Ixz4Oy2ZEmFQgdhQOUOgM) | 3:17 |
 | 30 | [Wwww](https://open.spotify.com/track/5L54V8jEQeSJAUdTiRX3jf) | [DJ Nobu](https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9) | [ON\-Netoh](https://open.spotify.com/album/70VkH9GIjlBwo1gFTA9dLT) | 6:15 |
 | 31 | [Let's go](https://open.spotify.com/track/4uaI8J5stgjiOi8Tmq4o9U) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGRHYTHM](https://open.spotify.com/album/5o8ATHooApz4U9coWaM8Cw) | 2:26 |
 | 32 | [TRASHURE](https://open.spotify.com/track/0x9hcN9M7tZL8VipEkh6b4) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [TRASHURE](https://open.spotify.com/album/2YDyOI32WjvZLSaFlOfn1U) | 2:41 |
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 42 | [Life, Dream, Love](https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r) | [Daishi Dance](https://open.spotify.com/artist/01HEACGPo5xyiXgAJKEvxQ), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Oh Jieun](https://open.spotify.com/artist/0yhoq5pPSa7eCpA65358cU), [Himekami](https://open.spotify.com/artist/7F1bUE2y2JjoReZ4hESAAV) | [Life, Dream, Love](https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P) | 3:52 |
 | 43 | [You Ain't My Friend](https://open.spotify.com/track/2kW15aO83Ix1lFGreg9F7l) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [RHYME](https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ) | [You Ain't My Friend](https://open.spotify.com/album/1XyrELP834fbjigvHSIaEl) | 2:57 |
 | 44 | [SWARMER](https://open.spotify.com/track/29YUKiGMxEvmtXml3egDpE) | [SYCLES](https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I) | [SWARMER](https://open.spotify.com/album/0DknbcyRqXrm11Zs1wZps6) | 6:01 |
-| 45 | [Mizukami](https://open.spotify.com/track/1SNUUPgkHHOAnMsyCUbPCu) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r) | [Mizukami](https://open.spotify.com/album/521QOxLFhoz3ocRjZWVoNV) | 5:32 |
-| 46 | [Attracted to you](https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL), [AFAMoo](https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl), [Lily June](https://open.spotify.com/artist/0bspB4ERg4mbPRwlsYW8k6) | [Attracted to you](https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z) | 2:42 |
-| 47 | [Fabric](https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [Love Flutter](https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z) | 4:03 |
-| 48 | [glowing arcade](https://open.spotify.com/track/4QD3PW1ziWyTbduNcIznEG) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [glowing arcade](https://open.spotify.com/album/5JQaDQbsFfYOO27LqAdJS2) | 2:48 |
+| 45 | [Attracted to you](https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL), [AFAMoo](https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl), [Lily June](https://open.spotify.com/artist/0bspB4ERg4mbPRwlsYW8k6) | [Attracted to you](https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z) | 2:42 |
+| 46 | [Mizukami](https://open.spotify.com/track/1SNUUPgkHHOAnMsyCUbPCu) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r) | [Mizukami](https://open.spotify.com/album/521QOxLFhoz3ocRjZWVoNV) | 5:32 |
+| 47 | [glowing arcade](https://open.spotify.com/track/4QD3PW1ziWyTbduNcIznEG) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [glowing arcade](https://open.spotify.com/album/5JQaDQbsFfYOO27LqAdJS2) | 2:48 |
+| 48 | [Fabric](https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [Love Flutter](https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z) | 4:03 |
 | 49 | [Nulife](https://open.spotify.com/track/58YPHNk3iFesdE22u5giwN) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj) | [Nulife](https://open.spotify.com/album/6wzmYBtzA90cXIUvTuD5I3) | 3:56 |
 | 50 | [KURU KURU HARAJUKU](https://open.spotify.com/track/0J4rHdjYkIRCVn6DvEg7aD) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [KURU KURU HARAJUKU](https://open.spotify.com/album/72Rq4jmmzkQ4db2CgliNvP) | 4:17 |
 

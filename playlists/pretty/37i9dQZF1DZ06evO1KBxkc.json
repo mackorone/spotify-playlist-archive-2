@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 204096,
+  "num_followers": 204109,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAABmwhGPZjwQIzkD5U5YbZ3C",
+  "snapshot_id": "aegPgAAAAAATyx0fKdjaN/FqhqyV10+a",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Artist",
+        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 214857,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/1sXJ0TZDdYBIV4mlzQFi4j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PGD (feat. Kyle Richh & ZEDDY WILL)",
         "url": "https://open.spotify.com/album/55PVyRV3IhOpKAzLcPxFs3"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 217013,
       "name": "PGD (feat. Kyle Richh & ZEDDY WILL)",
       "url": "https://open.spotify.com/track/2qxaBUnihi6tbLnAUE2pye"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Artist",
-        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 214857,
-      "name": "Fall in Love",
-      "url": "https://open.spotify.com/track/1sXJ0TZDdYBIV4mlzQFi4j"
     },
     {
       "added_at": null,
@@ -963,30 +963,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
-        "url": "https://open.spotify.com/album/1O3wGX19uKgXZZuW7uKb9l"
+        "name": "Hood Life Krisis Vol. 3 EP",
+        "url": "https://open.spotify.com/album/7hnTROF1tApL0cLtQIztFA"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
         },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 158994,
-      "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz"
+      "duration_ms": 212695,
+      "name": "R&B Shit (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/70C5mlnBodNJqRYpQi7O9x"
     }
   ],
   "unique_name": "This Is A Boogie Wit da Hoodie",

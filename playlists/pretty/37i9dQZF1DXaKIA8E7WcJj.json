@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1960s. Cover: Aretha Franklin",
-  "num_followers": 3196439,
+  "num_followers": 3196466,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Dusty... Definitely (Expanded Edtion)",
-        "url": "https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 164173,
-      "name": "Spooky",
-      "url": "https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 119880,
       "name": "Hit the Road Jack",
       "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Dusty... Definitely (Expanded Edtion)",
+        "url": "https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 164173,
+      "name": "Spooky",
+      "url": "https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
-        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 154733,
-      "name": "Put Your Head On My Shoulder",
-      "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Let It Bleed",
         "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 448720,
       "name": "You Can't Always Get What You Want",
       "url": "https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
+        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 154733,
+      "name": "Put Your Head On My Shoulder",
+      "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "The Times They Are A-Changin'",
-        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 197020,
-      "name": "The Times They Are A-Changin'",
-      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Under the Boardwalk",
         "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 161960,
       "name": "Under the Boardwalk",
       "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "The Times They Are A-Changin'",
+        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 197020,
+      "name": "The Times They Are A-Changin'",
+      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Do you Believe In Magic",
-        "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
+        "name": "The Exciting Wilson Pickett",
+        "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
       },
       "artists": [
         {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
         }
       ],
-      "duration_ms": 125826,
-      "name": "Do You Believe in Magic?",
-      "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
+      "duration_ms": 146973,
+      "name": "Land of 1000 Dances",
+      "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "The Exciting Wilson Pickett",
-        "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
+        "name": "Do you Believe In Magic",
+        "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
       },
       "artists": [
         {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
         }
       ],
-      "duration_ms": 146973,
-      "name": "Land of 1000 Dances",
-      "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
+      "duration_ms": 125826,
+      "name": "Do You Believe in Magic?",
+      "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 139733,
-      "name": "Think",
-      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Diana Ross Presents The Jackson 5",
         "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 235640,
       "name": "Who's Lovin' You",
       "url": "https://open.spotify.com/track/6cZrsaNb4Zo9E5KHk7gcz5"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "Think",
+      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/0CMD71ge42KYLaPZVor3bp"
-      },
-      "artists": [
-        {
-          "name": "Tom Jones",
-          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "Delilah",
-      "url": "https://open.spotify.com/track/2v8B8d17Xxu9uLU5sNiHSL"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Parsley, Sage, Rosemary And Thyme",
         "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 152895,
       "name": "Homeward Bound",
       "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/0CMD71ge42KYLaPZVor3bp"
+      },
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/2v8B8d17Xxu9uLU5sNiHSL"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Green, Green Grass Of Home",
-        "url": "https://open.spotify.com/album/15QRC2FhT659a5YJIS0Nff"
-      },
-      "artists": [
-        {
-          "name": "Tom Jones",
-          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Green Green Grass Of Home",
-      "url": "https://open.spotify.com/track/5BFWQXNGPYadZxNKxY1UfU"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "The Man Who Invented Soul",
         "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 125440,
       "name": "(What A) Wonderful World",
       "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Green, Green Grass Of Home",
+        "url": "https://open.spotify.com/album/15QRC2FhT659a5YJIS0Nff"
+      },
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Green Green Grass Of Home",
+      "url": "https://open.spotify.com/track/5BFWQXNGPYadZxNKxY1UfU"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 215285,
-      "name": "America",
-      "url": "https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "This Time I'm Swingin'",
         "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 133933,
       "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
       "url": "https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 215285,
+      "name": "America",
+      "url": "https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Album 1700",
-        "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
-      },
-      "artists": [
-        {
-          "name": "Peter, Paul and Mary",
-          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
-        }
-      ],
-      "duration_ms": 207240,
-      "name": "Leaving on a Jet Plane",
-      "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
         "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 166666,
       "name": "Come A Little Bit Closer",
       "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Album 1700",
+        "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
+      },
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+        }
+      ],
+      "duration_ms": 207240,
+      "name": "Leaving on a Jet Plane",
+      "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Moon River And Other Great Movie Themes",
-        "url": "https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 162893,
-      "name": "Moon River (From \"Breakfast at Tiffany's\")",
-      "url": "https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Wheatfield Soul",
         "url": "https://open.spotify.com/album/5AXYslqV5fXOt8ayqflk4g"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 226605,
       "name": "These Eyes",
       "url": "https://open.spotify.com/track/5lEyMg4GNKnMbaarvT4sRd"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Moon River And Other Great Movie Themes",
+        "url": "https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 162893,
+      "name": "Moon River (From \"Breakfast at Tiffany's\")",
+      "url": "https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Hey, Brother Pour The Wine",
-        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 162960,
-      "name": "Sway (Quien Sera)",
-      "url": "https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Georgia on My Mind (Original Master Recording)",
         "url": "https://open.spotify.com/album/77Qcn4aTbV27aarq2CHrGb"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 217414,
       "name": "Georgia on My Mind - Original Master Recording",
       "url": "https://open.spotify.com/track/47mA6f44zxLtdATOoY7GjN"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Hey, Brother Pour The Wine",
+        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 162960,
+      "name": "Sway (Quien Sera)",
+      "url": "https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Eve Of Destruction",
-        "url": "https://open.spotify.com/album/1ue4XKSgfovqJp8wgoyaOX"
-      },
-      "artists": [
-        {
-          "name": "Barry McGuire",
-          "url": "https://open.spotify.com/artist/6xdkfNRMtBzeu7t4wyum2X"
-        }
-      ],
-      "duration_ms": 215826,
-      "name": "Eve Of Destruction",
-      "url": "https://open.spotify.com/track/1Zi2ezNOqt9y9irC11xYpN"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "I Left My Heart In San Francisco",
         "url": "https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 177307,
       "name": "(I Left My Heart) In San Francisco",
       "url": "https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Eve Of Destruction",
+        "url": "https://open.spotify.com/album/1ue4XKSgfovqJp8wgoyaOX"
+      },
+      "artists": [
+        {
+          "name": "Barry McGuire",
+          "url": "https://open.spotify.com/artist/6xdkfNRMtBzeu7t4wyum2X"
+        }
+      ],
+      "duration_ms": 215826,
+      "name": "Eve Of Destruction",
+      "url": "https://open.spotify.com/track/1Zi2ezNOqt9y9irC11xYpN"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Save the Last Dance for Me",
-        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "Save the Last Dance for Me",
-      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "A's, B's & EP's",
         "url": "https://open.spotify.com/album/1GocNvETatEei10ng7bpJ9"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 174333,
       "name": "No Milk Today - Mono Version",
       "url": "https://open.spotify.com/track/02Y0CtzmhTLjTOg0cWvAhq"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Save the Last Dance for Me",
+        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Save the Last Dance for Me",
+      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
     },
     {
       "added_at": "2026-02-06 15:24:01",

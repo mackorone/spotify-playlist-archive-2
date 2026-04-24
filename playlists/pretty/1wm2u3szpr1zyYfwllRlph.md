@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/1wm2u3szpr1zyYfwllRlph.md) - [plain]
 
 > Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Lost Frequencies
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 54,348 likes - 100 songs - 5 hr 6 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 54,340 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [So Much Beauty \(Around Us\)](https://open.spotify.com/track/1QNK97rGcsv0EuG7b6Bdey) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [So Much Beauty \(Around Us\)](https://open.spotify.com/album/21Mv7U24CtuCynPMhZGihK) | 2:34 |
-| 2 | [ifidiewouldyoucry](https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [ifidiewouldyoucry](https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV) | 2:55 |
+| 2 | [ifidiewouldyoucry](https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [ifidiewouldyoucry](https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV) | 2:55 |
 | 3 | [Turn The Lights Off \- Radio Edit](https://open.spotify.com/track/7apywiCuMzvSZIa0SKeH99) | [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Turn The Lights Off](https://open.spotify.com/album/4Xo7jcwuvnxDQoYq9N1yA6) | 2:58 |
 | 4 | [I Run](https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs) | [I Run](https://open.spotify.com/album/6gePAokYlEquPQ4LDVc1ri) | 2:09 |
 | 5 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |

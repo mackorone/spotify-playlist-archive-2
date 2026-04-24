@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 59995,
+  "num_followers": 60005,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAA4E9s8EpNMKRXAXMYTTiD0abmVDRhw",
+  "snapshot_id": "AAA4HnW3qa7FC390vVi4GMvwNWX7LyOe",
   "tracks": [
     {
       "added_at": "2026-04-18 08:49:40",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-04-18 08:49:40",
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/1DyYJvWbSQP1fp5hEHF0gj"
+      },
+      "artists": [
+        {
+          "name": "Zoe Bayani",
+          "url": "https://open.spotify.com/artist/0qAiQ7a5epCnbBeqex8loG"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/6sjcgBfGrYFAcEIgXYt9oK"
+    },
+    {
+      "added_at": "2026-04-18 08:49:40",
+      "album": {
         "name": "Ocd",
         "url": "https://open.spotify.com/album/4t7S4yeLzxbD81H6PmA7qc"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 212363,
       "name": "Levee",
       "url": "https://open.spotify.com/track/5VNHYYSeKCC17sgM4y6ebo"
-    },
-    {
-      "added_at": "2026-04-18 08:49:40",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/1DyYJvWbSQP1fp5hEHF0gj"
-      },
-      "artists": [
-        {
-          "name": "Zoe Bayani",
-          "url": "https://open.spotify.com/artist/0qAiQ7a5epCnbBeqex8loG"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/6sjcgBfGrYFAcEIgXYt9oK"
     },
     {
       "added_at": "2026-04-18 08:49:40",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2026-04-18 08:49:40",
       "album": {
-        "name": "WIMMER",
-        "url": "https://open.spotify.com/album/7taNf5zdIvNwgbt7Uxe5lJ"
+        "name": "Emotional Hangover",
+        "url": "https://open.spotify.com/album/3lwnl9LPus34poI7UHhTHL"
       },
       "artists": [
         {
-          "name": "bill.",
-          "url": "https://open.spotify.com/artist/0Db56HcSi6EuL36ocgBYXs"
+          "name": "ROREY",
+          "url": "https://open.spotify.com/artist/5MpF35XujtDAV7ufakSToU"
         }
       ],
-      "duration_ms": 233892,
-      "name": "claw.",
-      "url": "https://open.spotify.com/track/41TQh29m5ux1v5onxHk0c6"
+      "duration_ms": 176873,
+      "name": "Sit w It",
+      "url": "https://open.spotify.com/track/7ey6rKB3IrG1CrWp4gkWCh"
     },
     {
       "added_at": "2026-04-18 08:49:40",
@@ -1323,18 +1323,98 @@
     {
       "added_at": "2026-04-18 08:49:40",
       "album": {
-        "name": "Emotional Hangover",
-        "url": "https://open.spotify.com/album/3lwnl9LPus34poI7UHhTHL"
+        "name": "Lovey",
+        "url": "https://open.spotify.com/album/3A8J8WKiPDt3OedYMUMOv0"
       },
       "artists": [
         {
-          "name": "ROREY",
-          "url": "https://open.spotify.com/artist/5MpF35XujtDAV7ufakSToU"
+          "name": "Burglar",
+          "url": "https://open.spotify.com/artist/1crXzUsGgiuxMRoWyjTl4i"
         }
       ],
-      "duration_ms": 176873,
-      "name": "Sit w It",
-      "url": "https://open.spotify.com/track/7ey6rKB3IrG1CrWp4gkWCh"
+      "duration_ms": 193226,
+      "name": "Lovey",
+      "url": "https://open.spotify.com/track/0AQKOi0Q0Dn2Ez15xRQYaX"
+    },
+    {
+      "added_at": "2026-04-18 08:49:40",
+      "album": {
+        "name": "Hungry Animal",
+        "url": "https://open.spotify.com/album/2bDwzSCwrHMlHWGyjInoqb"
+      },
+      "artists": [
+        {
+          "name": "Luke Temple",
+          "url": "https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85"
+        }
+      ],
+      "duration_ms": 168062,
+      "name": "Shake Me Awake",
+      "url": "https://open.spotify.com/track/521Q6FkHBEzFEVO7TXaLqo"
+    },
+    {
+      "added_at": "2026-04-18 08:49:40",
+      "album": {
+        "name": "Crooked Lines",
+        "url": "https://open.spotify.com/album/6UuUCP3nMgScASnE3OER2L"
+      },
+      "artists": [
+        {
+          "name": "Gaspard Eden",
+          "url": "https://open.spotify.com/artist/11BISbBI3xYpovdOS1DKBu"
+        }
+      ],
+      "duration_ms": 186409,
+      "name": "In Your Car",
+      "url": "https://open.spotify.com/track/06pEBsCbgcPKQIVACD9Ieu"
+    },
+    {
+      "added_at": "2026-04-18 08:49:40",
+      "album": {
+        "name": "Let It Win",
+        "url": "https://open.spotify.com/album/4LbqBSgcZEpRAwE0vFg3ot"
+      },
+      "artists": [
+        {
+          "name": "Neu Blume",
+          "url": "https://open.spotify.com/artist/5or4rwSv2Ks3c3X0rPJq5Z"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/1lnFQX4R2vruphrrx6goEn"
+    },
+    {
+      "added_at": "2026-04-18 08:49:40",
+      "album": {
+        "name": "Vernon Manner",
+        "url": "https://open.spotify.com/album/3yFiuB8ZLSYsqhUwRyW1Y5"
+      },
+      "artists": [
+        {
+          "name": "Webb Chapel",
+          "url": "https://open.spotify.com/artist/6UwNFwY6xPCvLQiaH0S83d"
+        }
+      ],
+      "duration_ms": 117700,
+      "name": "Fall All Around",
+      "url": "https://open.spotify.com/track/4RDFCyD0KL9h80d7oa6Djb"
+    },
+    {
+      "added_at": "2026-04-18 08:49:40",
+      "album": {
+        "name": "Inside Your Mind",
+        "url": "https://open.spotify.com/album/4kBsZ4ttLcaXlX691aDdXB"
+      },
+      "artists": [
+        {
+          "name": "Blaize Jenkins",
+          "url": "https://open.spotify.com/artist/7FCM7W3EeI7rNfLGKYFrAn"
+        }
+      ],
+      "duration_ms": 246931,
+      "name": "Inside Your Mind",
+      "url": "https://open.spotify.com/track/6y6xSY6aJAMfiiBDoyKDZb"
     },
     {
       "added_at": "2026-04-18 08:49:40",
@@ -1447,102 +1527,6 @@
       "duration_ms": 374382,
       "name": "Freedom Layers (Pilchard Rounds)",
       "url": "https://open.spotify.com/track/2pZi2zw4KxigMhYD3k0okB"
-    },
-    {
-      "added_at": "2026-04-18 08:49:40",
-      "album": {
-        "name": "Lovey",
-        "url": "https://open.spotify.com/album/3A8J8WKiPDt3OedYMUMOv0"
-      },
-      "artists": [
-        {
-          "name": "Burglar",
-          "url": "https://open.spotify.com/artist/1crXzUsGgiuxMRoWyjTl4i"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Lovey",
-      "url": "https://open.spotify.com/track/0AQKOi0Q0Dn2Ez15xRQYaX"
-    },
-    {
-      "added_at": "2026-04-18 08:49:40",
-      "album": {
-        "name": "Hungry Animal",
-        "url": "https://open.spotify.com/album/2bDwzSCwrHMlHWGyjInoqb"
-      },
-      "artists": [
-        {
-          "name": "Luke Temple",
-          "url": "https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85"
-        }
-      ],
-      "duration_ms": 168062,
-      "name": "Shake Me Awake",
-      "url": "https://open.spotify.com/track/521Q6FkHBEzFEVO7TXaLqo"
-    },
-    {
-      "added_at": "2026-04-18 08:49:40",
-      "album": {
-        "name": "Crooked Lines",
-        "url": "https://open.spotify.com/album/6UuUCP3nMgScASnE3OER2L"
-      },
-      "artists": [
-        {
-          "name": "Gaspard Eden",
-          "url": "https://open.spotify.com/artist/11BISbBI3xYpovdOS1DKBu"
-        }
-      ],
-      "duration_ms": 186409,
-      "name": "In Your Car",
-      "url": "https://open.spotify.com/track/06pEBsCbgcPKQIVACD9Ieu"
-    },
-    {
-      "added_at": "2026-04-18 08:49:40",
-      "album": {
-        "name": "Let It Win",
-        "url": "https://open.spotify.com/album/4LbqBSgcZEpRAwE0vFg3ot"
-      },
-      "artists": [
-        {
-          "name": "Neu Blume",
-          "url": "https://open.spotify.com/artist/5or4rwSv2Ks3c3X0rPJq5Z"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/1lnFQX4R2vruphrrx6goEn"
-    },
-    {
-      "added_at": "2026-04-18 08:49:40",
-      "album": {
-        "name": "Vernon Manner",
-        "url": "https://open.spotify.com/album/3yFiuB8ZLSYsqhUwRyW1Y5"
-      },
-      "artists": [
-        {
-          "name": "Webb Chapel",
-          "url": "https://open.spotify.com/artist/6UwNFwY6xPCvLQiaH0S83d"
-        }
-      ],
-      "duration_ms": 117700,
-      "name": "Fall All Around",
-      "url": "https://open.spotify.com/track/4RDFCyD0KL9h80d7oa6Djb"
-    },
-    {
-      "added_at": "2026-04-18 08:49:40",
-      "album": {
-        "name": "Inside Your Mind",
-        "url": "https://open.spotify.com/album/4kBsZ4ttLcaXlX691aDdXB"
-      },
-      "artists": [
-        {
-          "name": "Blaize Jenkins",
-          "url": "https://open.spotify.com/artist/7FCM7W3EeI7rNfLGKYFrAn"
-        }
-      ],
-      "duration_ms": 246931,
-      "name": "Inside Your Mind",
-      "url": "https://open.spotify.com/track/6y6xSY6aJAMfiiBDoyKDZb"
     },
     {
       "added_at": "2026-04-18 08:49:40",
@@ -1711,6 +1695,22 @@
       "duration_ms": 68346,
       "name": "Low Testosterone",
       "url": "https://open.spotify.com/track/14pSclx17YuVGjobl1LBbT"
+    },
+    {
+      "added_at": "2026-04-18 08:49:40",
+      "album": {
+        "name": "WIMMER",
+        "url": "https://open.spotify.com/album/7taNf5zdIvNwgbt7Uxe5lJ"
+      },
+      "artists": [
+        {
+          "name": "bill.",
+          "url": "https://open.spotify.com/artist/0Db56HcSi6EuL36ocgBYXs"
+        }
+      ],
+      "duration_ms": 233892,
+      "name": "claw.",
+      "url": "https://open.spotify.com/track/41TQh29m5ux1v5onxHk0c6"
     },
     {
       "added_at": "2026-04-18 08:49:40",
@@ -7339,22 +7339,6 @@
     {
       "added_at": "2026-04-18 08:49:40",
       "album": {
-        "name": "Still Still",
-        "url": "https://open.spotify.com/album/1C8IpN1JW5e7gJ3kqRZqfy"
-      },
-      "artists": [
-        {
-          "name": "Si Forrest",
-          "url": "https://open.spotify.com/artist/5n45q6eiQVcT0ySIyNQ5Nz"
-        }
-      ],
-      "duration_ms": 92340,
-      "name": "Still Still",
-      "url": "https://open.spotify.com/track/3FiESm2KHKEEGfjmCHdCqh"
-    },
-    {
-      "added_at": "2026-04-18 08:49:40",
-      "album": {
         "name": "Between Friends",
         "url": "https://open.spotify.com/album/7uEzDozYguL8pMLePK1x2D"
       },
@@ -7495,6 +7479,22 @@
       "duration_ms": 245225,
       "name": "Hercules",
       "url": "https://open.spotify.com/track/443Dw2Vzji2Udf7rFwb3gv"
+    },
+    {
+      "added_at": "2026-04-18 08:49:40",
+      "album": {
+        "name": "Still Still",
+        "url": "https://open.spotify.com/album/1C8IpN1JW5e7gJ3kqRZqfy"
+      },
+      "artists": [
+        {
+          "name": "Si Forrest",
+          "url": "https://open.spotify.com/artist/5n45q6eiQVcT0ySIyNQ5Nz"
+        }
+      ],
+      "duration_ms": 92340,
+      "name": "Still Still",
+      "url": "https://open.spotify.com/track/3FiESm2KHKEEGfjmCHdCqh"
     },
     {
       "added_at": "2026-04-18 08:49:40",

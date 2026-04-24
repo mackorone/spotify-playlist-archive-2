@@ -1,13 +1,29 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1079,
+  "num_followers": 1080,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFPtXmr6kONFpXyVUdG/ZXcJ5Kyx36",
+  "snapshot_id": "AAAFQNfXn4Ceuu4i9LmryHVn6GOgx/2o",
   "tracks": [
+    {
+      "added_at": "2026-04-23 22:00:47",
+      "album": {
+        "name": "The Air That You And I Breathe Is Not The Same (ECLIPSED)",
+        "url": "https://open.spotify.com/album/3I1KfgTO9cIaiV72Eigz1y"
+      },
+      "artists": [
+        {
+          "name": "Biscuit",
+          "url": "https://open.spotify.com/artist/75RaPp7xp9Czh1CpzWyUUR"
+        }
+      ],
+      "duration_ms": 295636,
+      "name": "The Air That You And I Breathe Is Not The Same - ECLIPSED",
+      "url": "https://open.spotify.com/track/46pdXv8YDVVPk558tchreU"
+    },
     {
       "added_at": "2026-04-15 18:25:06",
       "album": {

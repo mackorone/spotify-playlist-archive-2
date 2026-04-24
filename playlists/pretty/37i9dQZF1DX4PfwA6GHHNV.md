@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,131 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,134 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 50 | [A Beira Mar](https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH) | [Jhayam](https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I), [Zeferina](https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr), [D3javú](https://open.spotify.com/artist/06T09O5s3kk54TE8jrCngJ) | [A Beira Mar](https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N) | 3:48 |
 | 51 | [BRINDE](https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8) | [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP), [Avicena](https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L) | [BRINDE](https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac) | 2:56 |
 | 52 | [Halo](https://open.spotify.com/track/32VgModyfPye3imxW4Q7DC) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Halo](https://open.spotify.com/album/6YcTAftsSUNPC0gJTMYvM4) | 3:11 |
-| 53 | [12 de Junho](https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [12 de Junho](https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4) | 3:10 |
+| 53 | [Doce Veneno](https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Doce Veneno](https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm) | 2:15 |
 | 54 | [Segredo](https://open.spotify.com/track/0PjmCUmfHEwlXp6LjdmNmA) | [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh) | [Dengo](https://open.spotify.com/album/295G8XvTS3wV4qpysbaa4L) | 4:05 |
-| 55 | [Doce Veneno](https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Doce Veneno](https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm) | 2:15 |
+| 55 | [12 de Junho](https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [12 de Junho](https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4) | 3:10 |
 | 56 | [Bóra](https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Bóra](https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv) | 3:55 |
 | 57 | [RINGUE](https://open.spotify.com/track/5fwp4Me529FOYNKxyVAz1n) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Hobb The Goat](https://open.spotify.com/artist/6BY8aKKdrEbzOYWoD2EOAZ) | [RINGUE](https://open.spotify.com/album/5U60uRO6qeJOfwIiluPyTk) | 3:02 |
 | 58 | [Só pra você](https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc) | [Dash Foreal](https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA) | [Músicas Para Mulheres, Vol\. 1](https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF) | 2:47 |

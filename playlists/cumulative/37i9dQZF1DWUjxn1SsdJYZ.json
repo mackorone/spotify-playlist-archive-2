@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: The Kid LAROI",
+  "description": "The best new AUS & NZ Rap. Cover: Hooligan Hefs",
   "name": "Local Hype",
   "tracks": [
     {
@@ -220,7 +220,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 153085,
       "name": "23 \u2018Til Infinity",
       "url": "https://open.spotify.com/track/6xhlaFJ69ylW7yYslj77hS"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 180000,
       "name": "5 STAR GENERAL",
       "url": "https://open.spotify.com/track/4EJpPG6PoPdttDNpJznUs3"
@@ -1664,7 +1664,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 173419,
       "name": "ATTITUDE ADJUSTMENT",
       "url": "https://open.spotify.com/track/3OE3whaLAYffsbsADVObMw"
@@ -5323,6 +5323,24 @@
     },
     {
       "album": {
+        "name": "Coi Leray",
+        "url": "https://open.spotify.com/album/4d5HWzF7qoTHmf2tRtSQrJ"
+      },
+      "artists": [
+        {
+          "name": "CV",
+          "url": "https://open.spotify.com/artist/5KJ5ykum0wqQtJF4krqGiS"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127411,
+      "name": "Coi Leray",
+      "url": "https://open.spotify.com/track/63gT4CgElNJRW3OlDwgctz"
+    },
+    {
+      "album": {
         "name": "COLD BLOOD",
         "url": "https://open.spotify.com/album/6dYhxyHSvfiwMRGkccHAt1"
       },
@@ -6464,7 +6482,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 134145,
       "name": "DIAMONDS",
       "url": "https://open.spotify.com/track/2IgeAzEPYReAtN6SCy2Jm9"
@@ -8728,6 +8746,24 @@
       "duration_ms": 206157,
       "name": "FINALE",
       "url": "https://open.spotify.com/track/3VOeBY0XjyFtSIiByOOZUQ"
+    },
+    {
+      "album": {
+        "name": "Finally Famous",
+        "url": "https://open.spotify.com/album/1KEIzZ7QFC2ShQxem0lfIg"
+      },
+      "artists": [
+        {
+          "name": "Eliezer",
+          "url": "https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194219,
+      "name": "Finally Famous",
+      "url": "https://open.spotify.com/track/2pMqYRUsxAd6ZtIlkRIF4t"
     },
     {
       "album": {
@@ -13124,7 +13160,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 140769,
       "name": "If I Fall",
       "url": "https://open.spotify.com/track/0BsoTz47r45kfXXt9IQFg7"
@@ -14885,6 +14921,24 @@
     },
     {
       "album": {
+        "name": "LIAR LIAR",
+        "url": "https://open.spotify.com/album/1tKj4C8y6lNnb6HUFU8GCZ"
+      },
+      "artists": [
+        {
+          "name": "AMARNI",
+          "url": "https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144300,
+      "name": "LIAR LIAR",
+      "url": "https://open.spotify.com/track/3fF5ltp7sd68DKlI9Me0pb"
+    },
+    {
+      "album": {
         "name": "Lie (feat. ZieZie)",
         "url": "https://open.spotify.com/album/64JqQQYogCAbXgY0f6LPtR"
       },
@@ -15526,6 +15580,28 @@
       "duration_ms": 237010,
       "name": "Lockdown Party",
       "url": "https://open.spotify.com/track/1hxWMYOIP6r8mi6uBq6Kpx"
+    },
+    {
+      "album": {
+        "name": "Locked In",
+        "url": "https://open.spotify.com/album/2FQYwqNkQhyTO8vmC2vGpz"
+      },
+      "artists": [
+        {
+          "name": "AMUthaMC",
+          "url": "https://open.spotify.com/artist/4IdDa7k5yOYE7PBlCKKxI0"
+        },
+        {
+          "name": "Stallyano",
+          "url": "https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186995,
+      "name": "Locked In",
+      "url": "https://open.spotify.com/track/5tDEoiUX14BdAA8YsJezM2"
     },
     {
       "album": {
@@ -16332,7 +16408,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 184886,
       "name": "Maroubra Villain (feat. Hellcat Speedracer)",
       "url": "https://open.spotify.com/track/1bDwBMX4ssdrvWOmTi63Xz"
@@ -20413,6 +20489,24 @@
     },
     {
       "album": {
+        "name": "PENTHOUSE",
+        "url": "https://open.spotify.com/album/7HaBdu4Z4JMVMYvuZw0gjI"
+      },
+      "artists": [
+        {
+          "name": "Anfa Rose",
+          "url": "https://open.spotify.com/artist/6QyD04sHvKf1AjxkXrNRk1"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141751,
+      "name": "PENTHOUSE",
+      "url": "https://open.spotify.com/track/4v2FKavHU5zVItKJzEYXuf"
+    },
+    {
+      "album": {
         "name": "PHONE CALL",
         "url": "https://open.spotify.com/album/3ZeJ9Lo4KfxPDzYD6GrW1M"
       },
@@ -20570,6 +20664,24 @@
       "duration_ms": 134265,
       "name": "Playing For Keeps",
       "url": "https://open.spotify.com/track/1vF8QBmwJqzaB3AQkRqiBP"
+    },
+    {
+      "album": {
+        "name": "Playing For Keeps",
+        "url": "https://open.spotify.com/album/4mb6hp99zL7cEyk0iXCmZn"
+      },
+      "artists": [
+        {
+          "name": "TAKTiX",
+          "url": "https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179975,
+      "name": "Playing For Keeps",
+      "url": "https://open.spotify.com/track/5GdVcbQNi5opA5L39G0MDF"
     },
     {
       "album": {
@@ -21142,7 +21254,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 178144,
       "name": "Promises",
       "url": "https://open.spotify.com/track/6HVvCFU4ibH3bvfcgrL7dx"
@@ -21672,6 +21784,28 @@
       "duration_ms": 206870,
       "name": "Rage Against The Fatigue",
       "url": "https://open.spotify.com/track/3qP8F1NNIIBiU2mtQytkz9"
+    },
+    {
+      "album": {
+        "name": "RAIN (feat. Muller Made)",
+        "url": "https://open.spotify.com/album/2cY1d9zko3axOYBa8P8ejz"
+      },
+      "artists": [
+        {
+          "name": "Tbish",
+          "url": "https://open.spotify.com/artist/2APhRc0C4DiTjfpuzBm2Xw"
+        },
+        {
+          "name": "Muller Made",
+          "url": "https://open.spotify.com/artist/2zlE0CgBTd8L8SgQu0J2lR"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172486,
+      "name": "RAIN (feat. Muller Made)",
+      "url": "https://open.spotify.com/track/6HCjmMkawStybTsHZaOabx"
     },
     {
       "album": {
@@ -22408,7 +22542,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 223750,
       "name": "Rock With You",
       "url": "https://open.spotify.com/track/6cQ1olRF5rEyvrQvSlKeus"
@@ -25438,6 +25572,24 @@
       "duration_ms": 149189,
       "name": "Stunnin",
       "url": "https://open.spotify.com/track/6VzbKc2VYA3KikW8x9Q3Sn"
+    },
+    {
+      "album": {
+        "name": "Stuntn",
+        "url": "https://open.spotify.com/album/2A8KqE7vvH5f8lIjWfvYny"
+      },
+      "artists": [
+        {
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151212,
+      "name": "Stuntn",
+      "url": "https://open.spotify.com/track/7FpBSmSsI3AHNTVptxEv1K"
     },
     {
       "album": {
@@ -28578,6 +28730,24 @@
       "duration_ms": 176748,
       "name": "VANDETTA",
       "url": "https://open.spotify.com/track/1qhvll21IN5QWvE9lzLMb3"
+    },
+    {
+      "album": {
+        "name": "VENTIN",
+        "url": "https://open.spotify.com/album/0JF8GljcODXnuuCNp8bKdZ"
+      },
+      "artists": [
+        {
+          "name": "DRIZZZ",
+          "url": "https://open.spotify.com/artist/1cr4aKJ1SFmSVZBbmukJB0"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126811,
+      "name": "VENTIN",
+      "url": "https://open.spotify.com/track/2NMa13i7VhlDEwiwM4Hwgk"
     },
     {
       "album": {

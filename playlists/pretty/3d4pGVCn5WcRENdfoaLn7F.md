@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 638 likes - 91 songs - 5 hr 19 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 639 likes - 92 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,5 +99,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 89 | [7 M 7](https://open.spotify.com/track/4vCG7nI3o8GaqG8JgGJADs) | [Cromo](https://open.spotify.com/artist/0Bxu4pu1OwbJQAMUOPe4fZ) | [Atomic Mass 51.996](https://open.spotify.com/album/4d39mxsDZnsMOJSRfyoPBx) | 4:33 |
 | 90 | [Guardián](https://open.spotify.com/track/2htQimkUR0Pmgoy2btuzhE) | [Nacho Sarmiento](https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr) | [Guardián](https://open.spotify.com/album/17Z51LeroL1wjzeowHSI1V) | 4:36 |
 | 91 | [Si todo sale bien](https://open.spotify.com/track/1Gn9ykSzLlZvaCa1pukJnj) | [Los flashbacks](https://open.spotify.com/artist/7nTHQqaADpTSns4HYfMw1Y) | [Extraños](https://open.spotify.com/album/63KyCcPToU4kF3w03sSZMB) | 2:39 |
+| 92 | [Last Dance](https://open.spotify.com/track/7pCxiJ03tUx5u1ZkaUIsT0) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [Nervous Systems](https://open.spotify.com/album/4w1MzmNEvgMWzLApXX3eml) | 3:17 |
 
-Snapshot ID: `AAADVuryhZNnSHoNthgOlU0jA43lLCDg`
+Snapshot ID: `AAADVzg4l62cwk3gxXzguRq+OK7N/Hz3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 
 > 2023
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 likes - 118 songs - 6 hr 55 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 likes - 119 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,5 +126,6 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 | 116 | [hold on, we're going home by alex](https://open.spotify.com/episode/6Zut0QtyPNItirwEliKmzq) | [louis, this is for u](https://open.spotify.com/show/66Mz7S5bGPRJ9gWE5upXjL) | [louis, this is for u](https://open.spotify.com/album/66Mz7S5bGPRJ9gWE5upXjL) | 3:20 |
 | 117 | [New Song](https://open.spotify.com/track/5XHCdXhFUpWMp5lYgpfbXT) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Heads Up](https://open.spotify.com/album/18REqENWyDEdkdERylgdgw) | 4:16 |
 | 118 | [Off & On](https://open.spotify.com/track/2viPnE2LOAPQEVdF3ocNwM) | [Findlay](https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn) | [Off & On](https://open.spotify.com/album/3aCbx4OWv5srNk0RkDAqMO) | 2:47 |
+| 119 | [Harness Your Hopes \- B\-side](https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners: Nicene Creedence Ed.](https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7) | 3:26 |
 
-Snapshot ID: `AAAA45RzGPtbPDR/2im/uefI3A271f9b`
+Snapshot ID: `AAAA5BB7dAmg+vsrp4xm1SEUPoRXUtPw`

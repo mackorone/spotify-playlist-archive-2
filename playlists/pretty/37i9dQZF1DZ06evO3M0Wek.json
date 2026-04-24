@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 115713,
+  "num_followers": 115731,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAD5XmwQ9OKfB7+06j/6DjjK",
+  "snapshot_id": "aegPgAAAAADQ0cve6cwvXkWJIYAjeFzj",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 205228,
+      "name": "Psycho Crazy",
+      "url": "https://open.spotify.com/track/5TAdz0I4uEIOnUiJ3Q6YPd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ReAniMate: The CoVeRs eP",
         "url": "https://open.spotify.com/album/2fwH1QL0wgnbbXiHWCYs1D"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 302413,
       "name": "All I Wanna Do Is Make Love to You - EP Version",
       "url": "https://open.spotify.com/track/0TqBBrdwai3zdM90Tmyt8J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 206959,
-      "name": "Wicked Ways",
-      "url": "https://open.spotify.com/track/7dIObUjmQfXbs56UsaBIHT"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 206959,
+      "name": "Wicked Ways",
+      "url": "https://open.spotify.com/track/7dIObUjmQfXbs56UsaBIHT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everest",
         "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 230903,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/5PoYmKGOgfakgnYkc85TVG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 205228,
-      "name": "Psycho Crazy",
-      "url": "https://open.spotify.com/track/5TAdz0I4uEIOnUiJ3Q6YPd"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 273399,
-      "name": "Fallen Star",
-      "url": "https://open.spotify.com/track/5uIbZFaGgc8aYcXaIhPASi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Into the Wild Life (Deluxe)",
         "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 193613,
       "name": "Apocalyptic",
       "url": "https://open.spotify.com/track/4DveRhd1VBtZyPodE3sbLj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 273399,
+      "name": "Fallen Star",
+      "url": "https://open.spotify.com/track/5uIbZFaGgc8aYcXaIhPASi"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 254838,
-      "name": "Rain Your Blood On Me",
-      "url": "https://open.spotify.com/track/7dIuRuZCs8MeF8BjOsGW3l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back From the Dead",
         "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 222010,
       "name": "Strange Girl",
       "url": "https://open.spotify.com/track/6lsQurvT97J67VKSXuCDSx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 254838,
+      "name": "Rain Your Blood On Me",
+      "url": "https://open.spotify.com/track/7dIuRuZCs8MeF8BjOsGW3l"
     },
     {
       "added_at": null,

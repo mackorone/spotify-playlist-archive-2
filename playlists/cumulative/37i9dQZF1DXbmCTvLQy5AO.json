@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Empowered rhymes and vibes. Cover: Amaarae",
+  "description": "Empowered rhymes and vibes. Cover: JT",
   "name": "Work It, Own It",
   "tracks": [
     {
@@ -366,7 +366,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 178413,
       "name": "Blick Blick (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
@@ -634,6 +634,32 @@
       "duration_ms": 224268,
       "name": "Da Girls",
       "url": "https://open.spotify.com/track/0Vv7lPT21u7YjxpCYdCYwq"
+    },
+    {
+      "album": {
+        "name": "Delincuente",
+        "url": "https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226490,
+      "name": "Delincuente",
+      "url": "https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV"
     },
     {
       "album": {
@@ -1886,7 +1912,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 161801,
       "name": "Next 2 U",
       "url": "https://open.spotify.com/track/3qV20sy8VPyt5R8aminfhA"
@@ -1908,6 +1934,24 @@
       "duration_ms": 174588,
       "name": "Not My Job",
       "url": "https://open.spotify.com/track/6uxNcrFJL76jjkufNmI0xc"
+    },
+    {
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154469,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou"
     },
     {
       "album": {
@@ -2085,6 +2129,28 @@
     },
     {
       "album": {
+        "name": "PARTYGYAL",
+        "url": "https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167355,
+      "name": "PARTYGYAL",
+      "url": "https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA"
+    },
+    {
+      "album": {
         "name": "Pick It Up",
         "url": "https://open.spotify.com/album/7MPk6lrA9jYQTbrcQuXmxF"
       },
@@ -2136,7 +2202,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 225492,
       "name": "Point Me 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"

@@ -2123,6 +2123,24 @@
     },
     {
       "album": {
+        "name": "BL\u00c9DARD",
+        "url": "https://open.spotify.com/album/2OBXa64D1E29baFKKwJGOq"
+      },
+      "artists": [
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183673,
+      "name": "AKHI",
+      "url": "https://open.spotify.com/track/6Ylgcr82E1I8Ypn6yMfN16"
+    },
+    {
+      "album": {
         "name": "\u0664in (Act 2)",
         "url": "https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1"
       },
@@ -3936,7 +3954,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 219212,
       "name": "BABOUR LOU7",
       "url": "https://open.spotify.com/track/72h1HdEtR4XzLPvOigW8u8"
@@ -5478,7 +5496,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 172826,
       "name": "BOUHALI",
       "url": "https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY"
@@ -23876,7 +23894,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 179782,
       "name": "MOOD",
       "url": "https://open.spotify.com/track/3LR2AShmeh0dhIdjDIw0R6"
@@ -29740,7 +29758,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-07",
+      "date_removed": null,
       "duration_ms": 205000,
       "name": "RBI M3ANA",
       "url": "https://open.spotify.com/track/0TeZxZZUZUoNXRcSglL7h4"
@@ -38984,7 +39002,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 200599,
       "name": "Zahri",
       "url": "https://open.spotify.com/track/7tbdg8jBXvkdqo1LiuKZ2l"

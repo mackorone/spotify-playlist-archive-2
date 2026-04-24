@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Viniloversus",
-  "num_followers": 294244,
+  "num_followers": 294208,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2026-04-17 04:04:10",
       "album": {
+        "name": "\u00bfD\u00f3nde est\u00e1 la ONU cuando m\u00e1s la necesitas?",
+        "url": "https://open.spotify.com/album/0MIm8YYJllama2KsU9urpg"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Polaca",
+          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
+        }
+      ],
+      "duration_ms": 197383,
+      "name": "\u00bfD\u00f3nde est\u00e1 la ONU cuando m\u00e1s la necesitas?",
+      "url": "https://open.spotify.com/track/1MD5h9LOBrvEw64rkbv7sa"
+    },
+    {
+      "added_at": "2026-04-17 04:04:10",
+      "album": {
         "name": "Problema Cabr\u00f3n",
         "url": "https://open.spotify.com/album/6JJ0dHtZQWNZP2kDd7j4Dv"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 203250,
       "name": "Coraz\u00f3n de pollo",
       "url": "https://open.spotify.com/track/2AmBHtF9A6mvsVz7QNRbB1"
-    },
-    {
-      "added_at": "2026-04-17 04:04:10",
-      "album": {
-        "name": "\u00bfD\u00f3nde est\u00e1 la ONU cuando m\u00e1s la necesitas?",
-        "url": "https://open.spotify.com/album/0MIm8YYJllama2KsU9urpg"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Polaca",
-          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
-        }
-      ],
-      "duration_ms": 197383,
-      "name": "\u00bfD\u00f3nde est\u00e1 la ONU cuando m\u00e1s la necesitas?",
-      "url": "https://open.spotify.com/track/1MD5h9LOBrvEw64rkbv7sa"
     },
     {
       "added_at": "2026-04-17 04:04:10",
@@ -435,6 +435,26 @@
     {
       "added_at": "2026-04-17 04:04:10",
       "album": {
+        "name": "primera clase",
+        "url": "https://open.spotify.com/album/6SiEcSRLpI7eWaYCzRnZx1"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        },
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "primera clase",
+      "url": "https://open.spotify.com/track/4cg2lesjwza3wlwxF7r8eI"
+    },
+    {
+      "added_at": "2026-04-17 04:04:10",
+      "album": {
         "name": "Noviembre",
         "url": "https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 256986,
       "name": "Ya No Te Vuelvo a Ver",
       "url": "https://open.spotify.com/track/0TJJcJEw9e92KKNqtPQC8W"
-    },
-    {
-      "added_at": "2026-04-17 04:04:10",
-      "album": {
-        "name": "primera clase",
-        "url": "https://open.spotify.com/album/6SiEcSRLpI7eWaYCzRnZx1"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        },
-        {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "primera clase",
-      "url": "https://open.spotify.com/track/4cg2lesjwza3wlwxF7r8eI"
     },
     {
       "added_at": "2026-04-17 04:04:10",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-04-17 04:04:10",
       "album": {
-        "name": "0%",
-        "url": "https://open.spotify.com/album/7mZ4SWBx5IMJLXqQ2Fdx6W"
-      },
-      "artists": [
-        {
-          "name": "Winona Riders",
-          "url": "https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp"
-        }
-      ],
-      "duration_ms": 130114,
-      "name": "El Rock and Roll est\u00e1 matando mi Rock and Roll",
-      "url": "https://open.spotify.com/track/64ZOcVsJlDloqNgApIQrzt"
-    },
-    {
-      "added_at": "2026-04-17 04:04:10",
-      "album": {
         "name": "En El Aire",
         "url": "https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 203333,
       "name": "En El Aire",
       "url": "https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j"
+    },
+    {
+      "added_at": "2026-04-17 04:04:10",
+      "album": {
+        "name": "0%",
+        "url": "https://open.spotify.com/album/7mZ4SWBx5IMJLXqQ2Fdx6W"
+      },
+      "artists": [
+        {
+          "name": "Winona Riders",
+          "url": "https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp"
+        }
+      ],
+      "duration_ms": 130114,
+      "name": "El Rock and Roll est\u00e1 matando mi Rock and Roll",
+      "url": "https://open.spotify.com/track/64ZOcVsJlDloqNgApIQrzt"
     },
     {
       "added_at": "2026-04-17 04:04:10",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-04-17 04:04:10",
       "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/5QDvlYXI4uBI8101Yk4QYT"
-      },
-      "artists": [
-        {
-          "name": "Ultraligera",
-          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
-        }
-      ],
-      "duration_ms": 233751,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/2QAfRkVhetHCwKGXhtIBQo"
-    },
-    {
-      "added_at": "2026-04-17 04:04:10",
-      "album": {
         "name": "Qu\u00e9 Rocker",
         "url": "https://open.spotify.com/album/3cnwciLwmd7auNlyFCrRVq"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 180874,
       "name": "Qu\u00e9 Rocker",
       "url": "https://open.spotify.com/track/4DJZiHbEvr3qoGJcDHLxLZ"
+    },
+    {
+      "added_at": "2026-04-17 04:04:10",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/5QDvlYXI4uBI8101Yk4QYT"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "duration_ms": 233751,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/2QAfRkVhetHCwKGXhtIBQo"
     },
     {
       "added_at": "2026-04-17 04:04:10",

@@ -1,12 +1,12 @@
 {
   "description": "This is Murda Beatz. The essential tracks, all in one playlist.",
-  "num_followers": 3288,
+  "num_followers": 3289,
   "original_name": "This Is Murda Beatz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAABqr8BefbBWqnsgYvZ0f6tU",
+  "snapshot_id": "aegPgAAAAABVTAxyDhTT++6sgavXN6zi",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Memory Lane 2",
+        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 143941,
+      "name": "Contacts",
+      "url": "https://open.spotify.com/track/5AhNq2KzWTlgJwx5oKybwD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Winter's Over",
         "url": "https://open.spotify.com/album/5FiAdqj0b6uDckZ1vU8Xcq"
       },
@@ -75,26 +95,6 @@
       "duration_ms": 150002,
       "name": "Winter's Over",
       "url": "https://open.spotify.com/track/1zKTAM10B7Z5ES2A0SsQ3W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memory Lane 2",
-        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 143941,
-      "name": "Contacts",
-      "url": "https://open.spotify.com/track/5AhNq2KzWTlgJwx5oKybwD"
     },
     {
       "added_at": null,
@@ -143,30 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "By My Side",
-        "url": "https://open.spotify.com/album/0ZrJErz3iGVMuEf8TPZNox"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Loe Shimmy",
-          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
-        },
-        {
-          "name": "Cash Cobain",
-          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
-        }
-      ],
-      "duration_ms": 207230,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/6czMVryRhYgdMJz47iki8s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memory Lane 2",
         "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
       },
@@ -211,6 +187,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/0ZrJErz3iGVMuEf8TPZNox"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "duration_ms": 207230,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/6czMVryRhYgdMJz47iki8s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
       },
@@ -227,34 +227,6 @@
       "duration_ms": 137640,
       "name": "Good Evening",
       "url": "https://open.spotify.com/track/5HG4ipny0N1oGdeYkHbggO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bless Yo Trap",
-        "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
-      },
-      "artists": [
-        {
-          "name": "Smokepurpp",
-          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 157557,
-      "name": "Do Not Disturb (feat. Lil Yachty & Offset)",
-      "url": "https://open.spotify.com/track/5Ojb9dF8VoBHUwbDfPxMlg"
     },
     {
       "added_at": null,
@@ -299,6 +271,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bless Yo Trap",
+        "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
+      },
+      "artists": [
+        {
+          "name": "Smokepurpp",
+          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 157557,
+      "name": "Do Not Disturb (feat. Lil Yachty & Offset)",
+      "url": "https://open.spotify.com/track/5Ojb9dF8VoBHUwbDfPxMlg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coke Wave 3.5: Narcos",
         "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
       },
@@ -319,6 +319,26 @@
       "duration_ms": 143757,
       "name": "The Race",
       "url": "https://open.spotify.com/track/4F2CPlyoNxK6JbeAcmZGjT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memory Lane 2",
+        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 119016,
+      "name": "On You",
+      "url": "https://open.spotify.com/track/4c6ZGF26kGR2Nr1AMG6PCL"
     },
     {
       "added_at": null,
@@ -347,26 +367,6 @@
       "duration_ms": 231100,
       "name": "Milano Town (with DJ Drama, Shiva & Murda Beatz)",
       "url": "https://open.spotify.com/track/1KQ52QetE9tJ1ZABpt8hoo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memory Lane 2",
-        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 119016,
-      "name": "On You",
-      "url": "https://open.spotify.com/track/4c6ZGF26kGR2Nr1AMG6PCL"
     },
     {
       "added_at": null,
@@ -411,6 +411,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Memory Lane 2",
+        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 156819,
+      "name": "Don't Forget Me",
+      "url": "https://open.spotify.com/track/54VfgEoBYuplzLH4gS7y7u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GRoCERIES",
         "url": "https://open.spotify.com/album/4ukKkRaCiWcgJ3YZ3jmUfu"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 226845,
       "name": "GRoCERIES",
       "url": "https://open.spotify.com/track/2ZueZJriwJi7vFXD1UVEVj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memory Lane 2",
-        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 156819,
-      "name": "Don't Forget Me",
-      "url": "https://open.spotify.com/track/54VfgEoBYuplzLH4gS7y7u"
     },
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eat It Uh",
-        "url": "https://open.spotify.com/album/4uTwrDdiUyyYR8fNtp3jnr"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Zukenee",
-          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
-        }
-      ],
-      "duration_ms": 99428,
-      "name": "Eat It Uh",
-      "url": "https://open.spotify.com/track/61lsu3ZWd1JIoE4vUmusLa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 138680,
       "name": "Same Niggas",
       "url": "https://open.spotify.com/track/5QKOme2dkvt6P3J0makF7b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eat It Uh",
+        "url": "https://open.spotify.com/album/4uTwrDdiUyyYR8fNtp3jnr"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Zukenee",
+          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
+        }
+      ],
+      "duration_ms": 99428,
+      "name": "Eat It Uh",
+      "url": "https://open.spotify.com/track/61lsu3ZWd1JIoE4vUmusLa"
     },
     {
       "added_at": null,
@@ -575,6 +575,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 61600,
+      "name": "Ride With Shordie",
+      "url": "https://open.spotify.com/track/1naMgvsd1NQQFXjY3UlrZz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LUCY",
         "url": "https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 251128,
       "name": "EUPHORIA",
       "url": "https://open.spotify.com/track/0kpDa6Wl0DT6rUcAuFKjYL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 61600,
-      "name": "Ride With Shordie",
-      "url": "https://open.spotify.com/track/1naMgvsd1NQQFXjY3UlrZz"
     },
     {
       "added_at": null,
@@ -735,6 +735,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Same Shit (feat. dj gummy bear)",
+        "url": "https://open.spotify.com/album/3M6UTcla235hx0kxmBdevZ"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "BKTHERULA",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        },
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        }
+      ],
+      "duration_ms": 185205,
+      "name": "Same Shit (feat. dj gummy bear)",
+      "url": "https://open.spotify.com/track/4nVyUYaZVAN7dMZ5MytGxF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Culture Jam Presents: Legend In My Hood",
         "url": "https://open.spotify.com/album/4Bvbm845mhiltIsO6stBPc"
       },
@@ -763,34 +791,6 @@
       "duration_ms": 153529,
       "name": "Eye Spy (feat. Nardo Wick, Key Glock, Tay Keith & Murda Beatz)",
       "url": "https://open.spotify.com/track/21DBRZQmH2RIkI7pZybCiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Same Shit (feat. dj gummy bear)",
-        "url": "https://open.spotify.com/album/3M6UTcla235hx0kxmBdevZ"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "BKTHERULA",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
-        },
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        }
-      ],
-      "duration_ms": 185205,
-      "name": "Same Shit (feat. dj gummy bear)",
-      "url": "https://open.spotify.com/track/4nVyUYaZVAN7dMZ5MytGxF"
     },
     {
       "added_at": null,

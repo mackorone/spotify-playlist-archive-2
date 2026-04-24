@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAACUZE7DtNoVnskk8TPmejjX",
+  "snapshot_id": "aegPgAAAAAAiaZHz2BmMEk7PW2y5oAYh",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Persecuci\u00f3n",
-        "url": "https://open.spotify.com/album/6PymX3BNs2gmr23Ire8CG0"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 205414,
-      "name": "La Persecuci\u00f3n",
-      "url": "https://open.spotify.com/track/3PCjpBibAqNnD5dGlLBNQN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Lynwood Transito",
         "url": "https://open.spotify.com/album/0CECKpMVo8kFrGfFdIPkrI"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 235440,
       "name": "En Lynwood Transito",
       "url": "https://open.spotify.com/track/5FIaAzVDQoAWc4bQdrkuz2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Persecuci\u00f3n",
+        "url": "https://open.spotify.com/album/6PymX3BNs2gmr23Ire8CG0"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 205414,
+      "name": "La Persecuci\u00f3n",
+      "url": "https://open.spotify.com/track/3PCjpBibAqNnD5dGlLBNQN"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Payonazo Exoticos",
-        "url": "https://open.spotify.com/album/4RdLhLXeCGo3xDAFH0lwNR"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Payonazo Exoticos",
-      "url": "https://open.spotify.com/track/6Sr29vvXfxPaV8wlfW6If8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Camioneta Alterada",
         "url": "https://open.spotify.com/album/5AKUeJnTKAPQOKk3KmoX0t"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 209898,
       "name": "Camioneta Alterada",
       "url": "https://open.spotify.com/track/0fvHIf04ujurWHXX7NLx5l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Payonazo Exoticos",
+        "url": "https://open.spotify.com/album/4RdLhLXeCGo3xDAFH0lwNR"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Payonazo Exoticos",
+      "url": "https://open.spotify.com/track/6Sr29vvXfxPaV8wlfW6If8"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dash",
-        "url": "https://open.spotify.com/album/6yPZzcF4xp64gOdDB7lxfI"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Dash",
-      "url": "https://open.spotify.com/track/3mGNfLaiEjokEf4IGN5eI5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Tengo Viendo",
         "url": "https://open.spotify.com/album/22YgCj8XGrlDQjlJGT8faI"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 234410,
       "name": "Los Tengo Viendo",
       "url": "https://open.spotify.com/track/7hGcGzrh6Bl6OLubzHbLb2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dash",
+        "url": "https://open.spotify.com/album/6yPZzcF4xp64gOdDB7lxfI"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Dash",
+      "url": "https://open.spotify.com/track/3mGNfLaiEjokEf4IGN5eI5"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taking Over La Ciudad",
-        "url": "https://open.spotify.com/album/3HxHOSPPzMhJnnDr5BS3Cx"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 225532,
-      "name": "Taking Over La Ciudad",
-      "url": "https://open.spotify.com/track/5I3qTu8ug0qP5BzOey5An6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Ni\u00f1o Fame",
         "url": "https://open.spotify.com/album/0g0PfLThD4vHLK8DIZZGKF"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 161029,
       "name": "El Ni\u00f1o Fame",
       "url": "https://open.spotify.com/track/2EzRb90iPu15kFq0Ia1evR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Taking Over La Ciudad",
+        "url": "https://open.spotify.com/album/3HxHOSPPzMhJnnDr5BS3Cx"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 225532,
+      "name": "Taking Over La Ciudad",
+      "url": "https://open.spotify.com/track/5I3qTu8ug0qP5BzOey5An6"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Despu\u00e9s los Miro",
-        "url": "https://open.spotify.com/album/0MtwfoBQyAntAOUx7cGQq3"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 163245,
-      "name": "Despu\u00e9s los Miro",
-      "url": "https://open.spotify.com/track/1Fn05klztwWCRBzqabkTLt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo a la Sorda",
         "url": "https://open.spotify.com/album/3ByNTbZMgtQCZF4pzUVvwa"
       },
@@ -571,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Despu\u00e9s los Miro",
+        "url": "https://open.spotify.com/album/0MtwfoBQyAntAOUx7cGQq3"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 163245,
+      "name": "Despu\u00e9s los Miro",
+      "url": "https://open.spotify.com/track/1Fn05klztwWCRBzqabkTLt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Los Angeles Hay Que Tenerle Cuidado",
         "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
       },
@@ -580,13 +580,13 @@
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         },
         {
-          "name": "Los Juniors de California",
-          "url": "https://open.spotify.com/artist/3Eqt4YgWB1MBq9E692lhk1"
+          "name": "Grupo Agrado",
+          "url": "https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh"
         }
       ],
-      "duration_ms": 194783,
-      "name": "Hay Les Voy De Nuevo",
-      "url": "https://open.spotify.com/track/72oyJ4ZmOWPuqyXw2d6I6m"
+      "duration_ms": 206831,
+      "name": "Sin Saber De Mi",
+      "url": "https://open.spotify.com/track/2bfDHwOhVLJFRyMV23hiLR"
     },
     {
       "added_at": null,
@@ -652,13 +652,13 @@
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         },
         {
-          "name": "Grupo Agrado",
-          "url": "https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh"
+          "name": "Los Juniors de California",
+          "url": "https://open.spotify.com/artist/3Eqt4YgWB1MBq9E692lhk1"
         }
       ],
-      "duration_ms": 206831,
-      "name": "Sin Saber De Mi",
-      "url": "https://open.spotify.com/track/2bfDHwOhVLJFRyMV23hiLR"
+      "duration_ms": 194783,
+      "name": "Hay Les Voy De Nuevo",
+      "url": "https://open.spotify.com/track/72oyJ4ZmOWPuqyXw2d6I6m"
     },
     {
       "added_at": null,
@@ -699,18 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Underground 3",
-        "url": "https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11"
+        "name": "El Uno Al 7 (En Vivo)",
+        "url": "https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs"
       },
       "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
         {
           "name": "Los Desvelados",
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 227866,
-      "name": "Gucci",
-      "url": "https://open.spotify.com/track/7kSRQrZzc36I1XYFFMiDlW"
+      "duration_ms": 204826,
+      "name": "El Uno Al 7 - En Vivo",
+      "url": "https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj"
     },
     {
       "added_at": null,
@@ -735,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Uno Al 7 (En Vivo)",
-        "url": "https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs"
+        "name": "Corridos Underground 3",
+        "url": "https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11"
       },
       "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
         {
           "name": "Los Desvelados",
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 204826,
-      "name": "El Uno Al 7 - En Vivo",
-      "url": "https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj"
+      "duration_ms": 227866,
+      "name": "Gucci",
+      "url": "https://open.spotify.com/track/7kSRQrZzc36I1XYFFMiDlW"
     },
     {
       "added_at": null,
@@ -795,6 +795,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mafia De Corridos",
+        "url": "https://open.spotify.com/album/1PJ8GIADR9QBlM1kXRzmSp"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 210841,
+      "name": "El Famoso Chino Antrax",
+      "url": "https://open.spotify.com/track/5XZQUalNyeSKUWYQynX1Gq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Underground 3",
+        "url": "https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 157512,
+      "name": "Crit\u00edquenme",
+      "url": "https://open.spotify.com/track/5y35zXJMQ53ebkJGm8ZlSJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yo Soy El Que Soy",
         "url": "https://open.spotify.com/album/0XMpQx7hguTme7QdNMnufW"
       },
@@ -811,22 +843,6 @@
       "duration_ms": 160264,
       "name": "De aqu\u00ed pa all\u00e1",
       "url": "https://open.spotify.com/track/61DvcN30XR5Z7tE0nkbAn3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mafia De Corridos",
-        "url": "https://open.spotify.com/album/1PJ8GIADR9QBlM1kXRzmSp"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 210841,
-      "name": "El Famoso Chino Antrax",
-      "url": "https://open.spotify.com/track/5XZQUalNyeSKUWYQynX1Gq"
     },
     {
       "added_at": null,
@@ -859,22 +875,6 @@
       "duration_ms": 257124,
       "name": "Soy El Ace Para Ganar (Live)",
       "url": "https://open.spotify.com/track/3SF3muQ7uwi4cFrFjycJ4D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Underground 3",
-        "url": "https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 157512,
-      "name": "Crit\u00edquenme",
-      "url": "https://open.spotify.com/track/5y35zXJMQ53ebkJGm8ZlSJ"
     },
     {
       "added_at": null,

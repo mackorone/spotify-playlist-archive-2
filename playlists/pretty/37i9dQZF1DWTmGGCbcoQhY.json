@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1399116,
+  "num_followers": 1399196,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Tus Mentiras",
-        "url": "https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Cumbia Nova",
-          "url": "https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw"
-        }
-      ],
-      "duration_ms": 253884,
-      "name": "Tus Mentiras",
-      "url": "https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 266015,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Tus Mentiras",
+        "url": "https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cumbia Nova",
+          "url": "https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw"
+        }
+      ],
+      "duration_ms": 253884,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Palabras No",
-        "url": "https://open.spotify.com/album/6nyVwXMNI2h6NdbpKB11av"
-      },
-      "artists": [
-        {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
-        }
-      ],
-      "duration_ms": 249234,
-      "name": "Palabras No",
-      "url": "https://open.spotify.com/track/75LiifjwTF6cpyVILANf4q"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Toquin en Am\u00e9rica",
         "url": "https://open.spotify.com/album/6sZgQ0ACy8yOIDpAmxz8Nj"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 207728,
       "name": "Caricias - Acar\u00edciame",
       "url": "https://open.spotify.com/track/0bxMHP8ltPjqDe6JCkEd9p"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Palabras No",
+        "url": "https://open.spotify.com/album/6nyVwXMNI2h6NdbpKB11av"
+      },
+      "artists": [
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+        }
+      ],
+      "duration_ms": 249234,
+      "name": "Palabras No",
+      "url": "https://open.spotify.com/track/75LiifjwTF6cpyVILANf4q"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Un Monton De Estrellas",
-        "url": "https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ju-Juy",
-          "url": "https://open.spotify.com/artist/1pTAkO3OrwVOKUh3bfGv5m"
-        }
-      ],
-      "duration_ms": 283678,
-      "name": "La Triste Despedida",
-      "url": "https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Enamoradas",
         "url": "https://open.spotify.com/album/3ZLUqvji6GFOP3sAw04gJA"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 177213,
       "name": "Por Un Rato",
       "url": "https://open.spotify.com/track/1tuNezfWG1gxqSiyOOQhDt"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Un Monton De Estrellas",
+        "url": "https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ju-Juy",
+          "url": "https://open.spotify.com/artist/1pTAkO3OrwVOKUh3bfGv5m"
+        }
+      ],
+      "duration_ms": 283678,
+      "name": "La Triste Despedida",
+      "url": "https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Sabor A Cumbia",
-        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
-      },
-      "artists": [
-        {
-          "name": "Los Dinamiteros de Colombia",
-          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Mu\u00f1eca Esquiva",
-      "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Si Te Hubieras Quedado",
         "url": "https://open.spotify.com/album/6hzxNwknOcWOvoVlCQk08F"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 278931,
       "name": "Si Te Hubieras Quedado",
       "url": "https://open.spotify.com/track/2lxgLyM4PgdRb1E7jrSfaZ"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Sabor A Cumbia",
+        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
+      },
+      "artists": [
+        {
+          "name": "Los Dinamiteros de Colombia",
+          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Mu\u00f1eca Esquiva",
+      "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Masterizados",
-        "url": "https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "\u00a1Ay! El Amor",
-      "url": "https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 236360,
       "name": "Mi Corazon Es un Vagabundo",
       "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Masterizados",
+        "url": "https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "\u00a1Ay! El Amor",
+      "url": "https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Gran Encuentro",
-        "url": "https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L"
-      },
-      "artists": [
-        {
-          "name": "Super Grupo G",
-          "url": "https://open.spotify.com/artist/40vlmUq8Zn9LIYysuGL8Z7"
-        }
-      ],
-      "duration_ms": 196586,
-      "name": "Princesa Talibana",
-      "url": "https://open.spotify.com/track/0f0czUFLxXOPGj91ib5L2X"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Cumbias de Colecci\u00f3n",
         "url": "https://open.spotify.com/album/3vUBhhUFYjEC84W5cUpBhw"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 243986,
       "name": "So\u00f1e Contigo",
       "url": "https://open.spotify.com/track/4TODthHaTIikA7zyVMBaEk"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Gran Encuentro",
+        "url": "https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L"
+      },
+      "artists": [
+        {
+          "name": "Super Grupo G",
+          "url": "https://open.spotify.com/artist/40vlmUq8Zn9LIYysuGL8Z7"
+        }
+      ],
+      "duration_ms": 196586,
+      "name": "Princesa Talibana",
+      "url": "https://open.spotify.com/track/0f0czUFLxXOPGj91ib5L2X"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Exitos Sonideros, Vol. 2",
-        "url": "https://open.spotify.com/album/41dKt9tSQwLw5eDcY1CUFz"
-      },
-      "artists": [
-        {
-          "name": "Sonideros de MEX USA",
-          "url": "https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm"
-        }
-      ],
-      "duration_ms": 196637,
-      "name": "Cumbia Yemaya",
-      "url": "https://open.spotify.com/track/14CUTkk5h1JfIg6InMMgxS"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "20 Exitos Originales 20",
         "url": "https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 277028,
       "name": "El Amor de la Nena",
       "url": "https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Exitos Sonideros, Vol. 2",
+        "url": "https://open.spotify.com/album/41dKt9tSQwLw5eDcY1CUFz"
+      },
+      "artists": [
+        {
+          "name": "Sonideros de MEX USA",
+          "url": "https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm"
+        }
+      ],
+      "duration_ms": 196637,
+      "name": "Cumbia Yemaya",
+      "url": "https://open.spotify.com/track/14CUTkk5h1JfIg6InMMgxS"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. III",
-        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "Echarme Al Olvido",
-      "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Dejame Pensar",
         "url": "https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 277455,
       "name": "Dejame Pensar",
       "url": "https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Grupo Ca\u00f1averal, Vol. III",
+        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "Echarme Al Olvido",
+      "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 216317,
+      "name": "Quedate Con \u00c9l",
+      "url": "https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
         "name": "Donde Estaras",
         "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
       },
@@ -1891,18 +1907,34 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
+        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
       },
       "artists": [
         {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
         }
       ],
-      "duration_ms": 216317,
-      "name": "Quedate Con \u00c9l",
-      "url": "https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4"
+      "duration_ms": 224666,
+      "name": "Alma De Acero",
+      "url": "https://open.spotify.com/track/36L3qqhm1COyggnY3aOGvX"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC"
+      },
+      "artists": [
+        {
+          "name": "Grupo la Cumbia",
+          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+        }
+      ],
+      "duration_ms": 213744,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1939,38 +1971,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Conga Y Timbal",
-        "url": "https://open.spotify.com/album/0KkFcyHUrtHjSjrdMmX7Wi"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Conga Y Timbal",
-      "url": "https://open.spotify.com/track/7LXEJkLmNUCXD4WNbshFdy"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
-        "name": "Cumbia Buena",
-        "url": "https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC"
-      },
-      "artists": [
-        {
-          "name": "Grupo la Cumbia",
-          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
-        }
-      ],
-      "duration_ms": 213744,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Cumbias y Bachatas Vol.2",
         "url": "https://open.spotify.com/album/2VKXFDOa49Xj9Bby34QqxJ"
       },
@@ -1983,6 +1983,22 @@
       "duration_ms": 253236,
       "name": "El Fantasma del Amor",
       "url": "https://open.spotify.com/track/7sQTaMi77raGv1nTPhLRcZ"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Conga Y Timbal",
+        "url": "https://open.spotify.com/album/0KkFcyHUrtHjSjrdMmX7Wi"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Conga Y Timbal",
+      "url": "https://open.spotify.com/track/7LXEJkLmNUCXD4WNbshFdy"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -2015,22 +2031,6 @@
       "duration_ms": 243457,
       "name": "Coraz\u00f3n Solitario",
       "url": "https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
-        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
-        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Alma De Acero",
-      "url": "https://open.spotify.com/track/36L3qqhm1COyggnY3aOGvX"
     },
     {
       "added_at": "2025-05-16 06:00:15",

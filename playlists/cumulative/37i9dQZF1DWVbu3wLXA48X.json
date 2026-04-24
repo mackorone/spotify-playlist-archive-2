@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Lykke Li",
+  "description": "Current indie tunes from Asia and around the world. Cover: grantperez",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -378,7 +378,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 177473,
       "name": "2SIDED",
       "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
@@ -2582,6 +2582,24 @@
       "duration_ms": 233152,
       "name": "Aphrodite",
       "url": "https://open.spotify.com/track/1SDJc7GlAZWHf7E72DUbSA"
+    },
+    {
+      "album": {
+        "name": "Aphrodite Blues",
+        "url": "https://open.spotify.com/album/5eOhKfzXhT0LdWmcJIlG4Y"
+      },
+      "artists": [
+        {
+          "name": "notyourwife",
+          "url": "https://open.spotify.com/artist/6hd9tFRIzVJ5nuZwrosbNL"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Aphrodite Blues, Part 2",
+      "url": "https://open.spotify.com/track/0Kq1LwAKrwEH85mKxGapsn"
     },
     {
       "album": {
@@ -5477,6 +5495,42 @@
     },
     {
       "album": {
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/78wMwOnARAhRxBv7Q37XOl"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186285,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/3eFUpyUIWFMSQ3RvUpxZXu"
+    },
+    {
+      "album": {
+        "name": "boy that's loving you",
+        "url": "https://open.spotify.com/album/1wjkQnmMpbXyNkMJjmmLgW"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184694,
+      "name": "boy that's loving you",
+      "url": "https://open.spotify.com/track/3zuhn8OqdMQFjrQdlZJ5Hw"
+    },
+    {
+      "album": {
         "name": "BOYFRIEND (Chinese ver.)",
         "url": "https://open.spotify.com/album/1qWQtefX62aeppgwWdTYXW"
       },
@@ -6156,6 +6210,24 @@
       "duration_ms": 333166,
       "name": "Butterfly Net (feat. Weyes Blood)",
       "url": "https://open.spotify.com/track/0NL61fJiDf07EAd2HzsNCW"
+    },
+    {
+      "album": {
+        "name": "bye<3",
+        "url": "https://open.spotify.com/album/62l6WIYBl2b17KWP3H4qZd"
+      },
+      "artists": [
+        {
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215033,
+      "name": "bye<3",
+      "url": "https://open.spotify.com/track/6LrOegJFrpML859y73HkpS"
     },
     {
       "album": {
@@ -11319,6 +11391,24 @@
     },
     {
       "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231086,
+      "name": "Doors",
+      "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
+    },
+    {
+      "album": {
         "name": "Doubt",
         "url": "https://open.spotify.com/album/1vezGOGezdPu9GzJaFEjZF"
       },
@@ -11492,7 +11582,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 190901,
       "name": "Drama King",
       "url": "https://open.spotify.com/track/2BeddMVJY8DhWZAC4uKPqx"
@@ -15406,7 +15496,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 364800,
       "name": "Fuck Me Eyes",
       "url": "https://open.spotify.com/track/4Ozk6GESL4KkJ0C1yXgDLf"
@@ -19102,7 +19192,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
@@ -19946,7 +20036,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 150613,
       "name": "I Did This To Myself",
       "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
@@ -20522,6 +20612,24 @@
       "duration_ms": 185631,
       "name": "I Saw You",
       "url": "https://open.spotify.com/track/15NpCPY8rbRALzaNl6hY7p"
+    },
+    {
+      "album": {
+        "name": "I Saw Your Face",
+        "url": "https://open.spotify.com/album/6PM2d4YZxyXLO05TWXoSm7"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189569,
+      "name": "I Saw Your Face",
+      "url": "https://open.spotify.com/track/3cLBx0lEWPKSM99hx5RVcx"
     },
     {
       "album": {
@@ -26548,7 +26656,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 221066,
       "name": "Memory Be a Blade",
       "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
@@ -27172,6 +27280,24 @@
       "duration_ms": 248999,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/6U8UbKRwGuRqqr8tm92shg"
+    },
+    {
+      "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/7lTUctoVU6VuJj0jvk3n7F"
+      },
+      "artists": [
+        {
+          "name": "\u6771\u4eac\u9152\u5410\u5ea7(Tokyo Shoegazer)",
+          "url": "https://open.spotify.com/artist/0dzZimiT5lEvERCEXHdaTX"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234390,
+      "name": "Missing",
+      "url": "https://open.spotify.com/track/1xZiJQuvH4AMNjUPrd6P2g"
     },
     {
       "album": {
@@ -31384,7 +31510,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 259495,
       "name": "Opening Night",
       "url": "https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB"
@@ -32759,6 +32885,24 @@
     },
     {
       "album": {
+        "name": "Planting Tomatoes",
+        "url": "https://open.spotify.com/album/2jTEkfhpIXBVmppYgAf4u4"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215948,
+      "name": "Planting Tomatoes",
+      "url": "https://open.spotify.com/track/0BuI2IX8F4HlGjIxywA09L"
+    },
+    {
+      "album": {
         "name": "life goes on",
         "url": "https://open.spotify.com/album/33KdBrMkUCSch1zIEEHllg"
       },
@@ -33534,7 +33678,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 235344,
       "name": "PUNK ROCKY",
       "url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
@@ -36106,7 +36250,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 163559,
       "name": "savior",
       "url": "https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0"
@@ -37324,7 +37468,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 244591,
       "name": "Sisters With Me",
       "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
@@ -39402,6 +39546,24 @@
       "duration_ms": 228727,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1xqkbi0rZNNcbGv8r6kK8p"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1oA3WqpcTfAGsYzMixuToO"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242366,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1Mk7OXg1AxopGOWsPL5GQf"
     },
     {
       "album": {
@@ -41986,7 +42148,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 229760,
       "name": "The Banjo Song",
       "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
@@ -45829,6 +45991,24 @@
     },
     {
       "album": {
+        "name": "Vampire at the Beach",
+        "url": "https://open.spotify.com/album/2oiYk3sjV14nv6vukULSv5"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Vampire at the Beach",
+      "url": "https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR"
+    },
+    {
+      "album": {
         "name": "Vampire Empire",
         "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
       },
@@ -47712,10 +47892,28 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 189853,
       "name": "Where's My Phone?",
       "url": "https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI"
+    },
+    {
+      "album": {
+        "name": "where's your girlfriend",
+        "url": "https://open.spotify.com/album/4allJNrFZH7Ob9jO98TofS"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213722,
+      "name": "where's your girlfriend",
+      "url": "https://open.spotify.com/track/3a660Cnhydjs5O5g0yQ1ME"
     },
     {
       "album": {
@@ -48190,6 +48388,24 @@
       "duration_ms": 183839,
       "name": "Window",
       "url": "https://open.spotify.com/track/6eMPkhwJpkBPagyC54s8wo"
+    },
+    {
+      "album": {
+        "name": "really got me thinking",
+        "url": "https://open.spotify.com/album/2eCynagPAxKpvIDDqG0E7X"
+      },
+      "artists": [
+        {
+          "name": "Clara Benin",
+          "url": "https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "wings",
+      "url": "https://open.spotify.com/track/102mh8O3nCjmJNVPWlG4ry"
     },
     {
       "album": {
@@ -48880,6 +49096,24 @@
       "duration_ms": 168513,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2ia6zPFz6SF8ZOT5mpR2TA"
+    },
+    {
+      "album": {
+        "name": "you call it love, i call it lie",
+        "url": "https://open.spotify.com/album/1pRXCnckXX7ixU1fXTadFR"
+      },
+      "artists": [
+        {
+          "name": "CClaire \u99ac\u6137\u4f36",
+          "url": "https://open.spotify.com/artist/61G4xTzT6aWI7CyJBhY79o"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182771,
+      "name": "you call it love, i call it lie",
+      "url": "https://open.spotify.com/track/3rPxI0MTRbYp86Eb4Et8VA"
     },
     {
       "album": {

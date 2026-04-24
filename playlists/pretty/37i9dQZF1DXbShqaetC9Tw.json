@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 147488,
+  "num_followers": 147482,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,18 @@
     {
       "added_at": "2026-04-01 10:59:09",
       "album": {
-        "name": "stars burn out",
-        "url": "https://open.spotify.com/album/7zR88DU7qfwRM8LujvL4EZ"
+        "name": "My blue wavy room",
+        "url": "https://open.spotify.com/album/7BVdZTMTaqFoXbXXlg1DLr"
       },
       "artists": [
         {
-          "name": "cykim",
-          "url": "https://open.spotify.com/artist/2X35vslJoAwfxLhu3wAdjq"
-        },
-        {
-          "name": "justin",
-          "url": "https://open.spotify.com/artist/0JyJ6hyu6CYpX6AKH9e5bv"
+          "name": "Redoor",
+          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
         }
       ],
-      "duration_ms": 215852,
-      "name": "stars burn out",
-      "url": "https://open.spotify.com/track/2SZkuX2KgTCugNYcKCoEqH"
+      "duration_ms": 229854,
+      "name": "Blue rain",
+      "url": "https://open.spotify.com/track/3R56jKicl9gSzdJxcr4wrd"
     },
     {
       "added_at": "2026-04-01 10:59:09",
@@ -291,18 +287,22 @@
     {
       "added_at": "2026-04-01 10:59:09",
       "album": {
-        "name": "My blue wavy room",
-        "url": "https://open.spotify.com/album/7BVdZTMTaqFoXbXXlg1DLr"
+        "name": "stars burn out",
+        "url": "https://open.spotify.com/album/7zR88DU7qfwRM8LujvL4EZ"
       },
       "artists": [
         {
-          "name": "Redoor",
-          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
+          "name": "cykim",
+          "url": "https://open.spotify.com/artist/2X35vslJoAwfxLhu3wAdjq"
+        },
+        {
+          "name": "justin",
+          "url": "https://open.spotify.com/artist/0JyJ6hyu6CYpX6AKH9e5bv"
         }
       ],
-      "duration_ms": 229854,
-      "name": "Blue rain",
-      "url": "https://open.spotify.com/track/3R56jKicl9gSzdJxcr4wrd"
+      "duration_ms": 215852,
+      "name": "stars burn out",
+      "url": "https://open.spotify.com/track/2SZkuX2KgTCugNYcKCoEqH"
     },
     {
       "added_at": "2026-04-01 10:59:09",

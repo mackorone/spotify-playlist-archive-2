@@ -98,6 +98,28 @@
     {
       "album": {
         "name": "Mary",
+        "url": "https://open.spotify.com/album/6f2ShNSV829Nn5L7A4r0gq"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287261,
+      "name": "Always on My Mind",
+      "url": "https://open.spotify.com/track/3ctX0ZD94IwqTYLTX8ZahE"
+    },
+    {
+      "album": {
+        "name": "Mary",
         "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
       },
       "artists": [
@@ -112,7 +134,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 287261,
       "name": "Always on My Mind (feat. Obrafour)",
       "url": "https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp"

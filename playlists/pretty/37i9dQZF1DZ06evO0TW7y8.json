@@ -1,12 +1,12 @@
 {
   "description": "This is Jorja Smith. The essential tracks, all in one playlist.",
-  "num_followers": 324611,
+  "num_followers": 324621,
   "original_name": "This Is Jorja Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAADnmhJIVEz+HAmh2yVn1L9T",
+  "snapshot_id": "aegPgAAAAAAsVxokUDVz6l67HfyL+f1v",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Price Of It All (Music From the Original Series \"Bait\")",
-        "url": "https://open.spotify.com/album/05qGKQXREYEZ8664u1Dn96"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Price Of It All",
-      "url": "https://open.spotify.com/track/3k6anb87t7yI9bcLgZqHso"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "falling or flying (Deluxe)",
         "url": "https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 131000,
       "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
       "url": "https://open.spotify.com/track/2AlCe2DDxELeESF5IP3t9K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Price Of It All (Music From the Original Series \"Bait\")",
+        "url": "https://open.spotify.com/album/05qGKQXREYEZ8664u1Dn96"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Price Of It All",
+      "url": "https://open.spotify.com/track/3k6anb87t7yI9bcLgZqHso"
     },
     {
       "added_at": null,
@@ -303,6 +303,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forever Ends Someday",
+        "url": "https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y"
+      },
+      "artists": [
+        {
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 152493,
+      "name": "July",
+      "url": "https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
       },
@@ -315,22 +335,6 @@
       "duration_ms": 226906,
       "name": "Teenage Fantasy",
       "url": "https://open.spotify.com/track/0fIFjeeLJjIBliWUCsxyMF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Way I Love You",
-        "url": "https://open.spotify.com/album/5LM2wQNoA6LlS5aTR4PKJj"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 203813,
-      "name": "The Way I Love You",
-      "url": "https://open.spotify.com/track/6u1xR1LKAiahXPrwjNCkky"
     },
     {
       "added_at": null,
@@ -355,22 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever Ends Someday",
-        "url": "https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y"
+        "name": "The Way I Love You",
+        "url": "https://open.spotify.com/album/5LM2wQNoA6LlS5aTR4PKJj"
       },
       "artists": [
-        {
-          "name": "Wesley Joseph",
-          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
-        },
         {
           "name": "Jorja Smith",
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 152493,
-      "name": "July",
-      "url": "https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl"
+      "duration_ms": 203813,
+      "name": "The Way I Love You",
+      "url": "https://open.spotify.com/track/6u1xR1LKAiahXPrwjNCkky"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 127680,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/2DEUiGcDxB4QpImgydZmTi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MALIK",
         "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
       },
@@ -467,38 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "falling or flying",
-        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 127680,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/2DEUiGcDxB4QpImgydZmTi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204174,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
       },
@@ -515,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ten Cane Row (feat. Jorja Smith)",
-        "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
       },
       "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
         {
           "name": "Jorja Smith",
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 209586,
-      "name": "Ten Cane Row (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
+      "duration_ms": 204174,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
     },
     {
       "added_at": null,
@@ -555,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
+        "name": "Ten Cane Row (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
       },
       "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
         {
           "name": "Jorja Smith",
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 204600,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
+      "duration_ms": 209586,
+      "name": "Ten Cane Row (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
     },
     {
       "added_at": null,
@@ -587,26 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinite",
-        "url": "https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3"
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
       },
       "artists": [
-        {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
         {
           "name": "Jorja Smith",
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Down For You",
-      "url": "https://open.spotify.com/track/5hKjvZFDOkBcJgeT7bF61A"
+      "duration_ms": 204600,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
     },
     {
       "added_at": null,
@@ -651,6 +627,30 @@
       "duration_ms": 229999,
       "name": "In The Night (feat. Jorja Smith & Amaarae)",
       "url": "https://open.spotify.com/track/11bJ1ws3dathgY9uzADUhL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infinite",
+        "url": "https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3"
+      },
+      "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Down For You",
+      "url": "https://open.spotify.com/track/5hKjvZFDOkBcJgeT7bF61A"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Panther The Album Music From And Inspired By",
-        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 208760,
-      "name": "I Am",
-      "url": "https://open.spotify.com/track/0DJBgBiYeSn6n1AXAkFVE8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 195275,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 208760,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/0DJBgBiYeSn6n1AXAkFVE8"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Skindred. The essential tracks, all in one playlist.",
-  "num_followers": 29919,
+  "num_followers": 29932,
   "original_name": "This Is Skindred",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAABDrD9bqT0ZRPOGzVeZDWQh",
+  "snapshot_id": "aegPgAAAAAB68yv1NXgxEz+Pr0P17KS1",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Tings",
-        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
+        "name": "You Got This",
+        "url": "https://open.spotify.com/album/4A4hmu0p8DWp10Nf85BraJ"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 196051,
-      "name": "That's My Jam",
-      "url": "https://open.spotify.com/track/5q8PArV4Tbt6efvP7qxp0u"
+      "duration_ms": 160064,
+      "name": "My People",
+      "url": "https://open.spotify.com/track/2wY6YBHBYqa0R3161HheFu"
     },
     {
       "added_at": null,
@@ -87,6 +87,22 @@
       "duration_ms": 195320,
       "name": "Set Fazers",
       "url": "https://open.spotify.com/track/1IYOdwWpd4IQKwqhRPpklu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Tings",
+        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 196051,
+      "name": "That's My Jam",
+      "url": "https://open.spotify.com/track/5q8PArV4Tbt6efvP7qxp0u"
     },
     {
       "added_at": null,
@@ -116,25 +132,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 160064,
-      "name": "My People",
-      "url": "https://open.spotify.com/track/2wY6YBHBYqa0R3161HheFu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kill The Power",
-        "url": "https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 274386,
-      "name": "Kill the Power",
-      "url": "https://open.spotify.com/track/0u3KER6mLv2qD9lKLuRW4v"
+      "duration_ms": 199926,
+      "name": "Born Fe Dis",
+      "url": "https://open.spotify.com/track/3gvNUbSO3tjs4iKEXd6WlL"
     },
     {
       "added_at": null,
@@ -151,6 +151,22 @@
       "duration_ms": 209626,
       "name": "If I Could",
       "url": "https://open.spotify.com/track/3VzfopejqgC2PWOvX9smzP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kill The Power",
+        "url": "https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 274386,
+      "name": "Kill the Power",
+      "url": "https://open.spotify.com/track/0u3KER6mLv2qD9lKLuRW4v"
     },
     {
       "added_at": null,
@@ -180,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 199926,
-      "name": "Born Fe Dis",
-      "url": "https://open.spotify.com/track/3gvNUbSO3tjs4iKEXd6WlL"
+      "duration_ms": 217992,
+      "name": "Do It Like This",
+      "url": "https://open.spotify.com/track/45O1FqujO4aNZjcX1stSLw"
     },
     {
       "added_at": null,
@@ -244,9 +260,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 217992,
-      "name": "Do It Like This",
-      "url": "https://open.spotify.com/track/45O1FqujO4aNZjcX1stSLw"
+      "duration_ms": 214604,
+      "name": "Big Em Up",
+      "url": "https://open.spotify.com/track/48C8Th93jI84e6Zmq8YR5t"
     },
     {
       "added_at": null,
@@ -372,9 +388,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 214604,
-      "name": "Big Em Up",
-      "url": "https://open.spotify.com/track/48C8Th93jI84e6Zmq8YR5t"
+      "duration_ms": 252917,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/1by5IzR9lGMtFoW5IUes8t"
     },
     {
       "added_at": null,
@@ -431,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Got This",
-        "url": "https://open.spotify.com/album/4A4hmu0p8DWp10Nf85BraJ"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 252917,
-      "name": "Glass",
-      "url": "https://open.spotify.com/track/1by5IzR9lGMtFoW5IUes8t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roots Rock Riot",
         "url": "https://open.spotify.com/album/7zl0NrhsqIqAXSFe3tPnAR"
       },
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 170466,
-      "name": "State of the Union",
-      "url": "https://open.spotify.com/track/1Ngcg8YWXXlhsf6KRQzLuw"
+      "duration_ms": 240320,
+      "name": "Black Stars",
+      "url": "https://open.spotify.com/track/4zgWUBeiO5MTF66G2CgWIz"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 201677,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/6wMnoiVacP8zT6jXgeJfQY"
+      "duration_ms": 211444,
+      "name": "Loud and Clear",
+      "url": "https://open.spotify.com/track/2o7PvxONvn3b5n8uRben7D"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 211444,
-      "name": "Loud and Clear",
-      "url": "https://open.spotify.com/track/2o7PvxONvn3b5n8uRben7D"
+      "duration_ms": 201677,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/6wMnoiVacP8zT6jXgeJfQY"
     },
     {
       "added_at": null,

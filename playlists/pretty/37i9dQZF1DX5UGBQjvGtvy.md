@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UGBQjvGtvy.md) - [plain]
 
 > Listen to the soundtracks of Disney+'s original drama Big Bet\. \(디즈니+ 오리지널 드라마 카지노의 사운드 트랙들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 31 likes - 96 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7 likes - 96 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UGBQjvGtvy.md) - [plain]
 | 95 | [Casino Not Over Yet](https://open.spotify.com/track/4GzhO1OgjRO6QYeFFk5aJs) | [Ilsang Yoon](https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf) | [Big Bet \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs) | 0:34 |
 | 96 | [I′m A Money \- Extended Version](https://open.spotify.com/track/17N5lSxck4j20w2mEnxD2d) | [Ilsang Yoon](https://open.spotify.com/artist/01g83SIzNTcHF63AIb9fXf) | [Big Bet \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/2Mu1UndYrXjIOYCLjbV6Vs) | 3:02 |
 
-Snapshot ID: `AAAAAMw91+h+pjIl1RazTERR1R1lzVcX`
+Snapshot ID: `AAAAACIlIypV81kOjVqR0woXHvJ8V8kw`

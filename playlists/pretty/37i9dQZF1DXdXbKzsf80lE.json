@@ -1,6 +1,6 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 282240,
+  "num_followers": 282248,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2025-11-07 18:48:09",
       "album": {
+        "name": "Furduncinho do Rogerinho",
+        "url": "https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a"
+      },
+      "artists": [
+        {
+          "name": "Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "duration_ms": 179701,
+      "name": "Furduncinho do Rogerinho",
+      "url": "https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n"
+    },
+    {
+      "added_at": "2025-11-07 18:48:09",
+      "album": {
         "name": "Chorei na Vaquejada",
         "url": "https://open.spotify.com/album/74uZDSboar6fdmC3PpI2F2"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 157170,
       "name": "Chorei na Vaquejada",
       "url": "https://open.spotify.com/track/6iLVE0VWAaT9LcJQsyZ9JU"
-    },
-    {
-      "added_at": "2025-11-07 18:48:09",
-      "album": {
-        "name": "Furduncinho do Rogerinho",
-        "url": "https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a"
-      },
-      "artists": [
-        {
-          "name": "Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        }
-      ],
-      "duration_ms": 179701,
-      "name": "Furduncinho do Rogerinho",
-      "url": "https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n"
     },
     {
       "added_at": "2025-11-07 18:48:09",

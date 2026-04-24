@@ -714,6 +714,24 @@
     {
       "album": {
         "name": "White Noise For Parents (Loopable no fade)",
+        "url": "https://open.spotify.com/album/1mY0KCjvKfbDY2anS7EhRv"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Clean Baby Sleep White Noise (Loopable)",
+      "url": "https://open.spotify.com/track/4yVBarJHjhhzP1q7fU4p0W"
+    },
+    {
+      "album": {
+        "name": "White Noise For Parents (Loopable no fade)",
         "url": "https://open.spotify.com/album/22w1zhjVejwCblDKLgjFDt"
       },
       "artists": [
@@ -724,7 +742,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 142222,
       "name": "Clean Baby Sleep White Noise (Loopable)",
       "url": "https://open.spotify.com/track/6OFCzD4d8kjBOJHxz41gqA"
@@ -808,7 +826,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 248133,
       "name": "Confident",
       "url": "https://open.spotify.com/track/3JsydWaf2Ev4ehaLUjj3SY"
@@ -830,7 +848,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 248146,
       "name": "Confident - Single Version",
       "url": "https://open.spotify.com/track/6czM6UMQD9qE5GAUp68oud"
@@ -1032,7 +1050,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 258816,
       "name": "Dreams - 2001 Remaster",
       "url": "https://open.spotify.com/track/53qkszfgztIvkFyF31GfdQ"
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 227364,
       "name": "Everywhere",
       "url": "https://open.spotify.com/track/38iKuyifRL4mQ36F2hIxmF"
@@ -1284,7 +1302,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 226653,
       "name": "Everywhere - 2017 Remaster",
       "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
@@ -2438,7 +2456,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/2kvgmr5CFhSvleQqTjB3eP"

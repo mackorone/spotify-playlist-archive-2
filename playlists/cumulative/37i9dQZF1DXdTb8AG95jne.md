@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 볼빨간사춘기 \(BOL4\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,325 songs - 3 day 8 hr 6 min
+1,326 songs - 3 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -751,7 +751,7 @@
 | [My Spring 나의 봄](https://open.spotify.com/track/4rUy3pIN5GqvGyAUJ43ZFP) | [no reply](https://open.spotify.com/artist/0vDKj2G8ADlhR5aM7BfeUL), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [My Spring 나의 봄](https://open.spotify.com/album/4n0GVSSyL5607USoObqcLX) | 3:28 | 2022-04-12 | 2022-04-15 |
 | [My star](https://open.spotify.com/track/6j9lOM0mmJsS4fP7s4GTrU) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [My star](https://open.spotify.com/album/1qlznH1GRH7VBXxd1AZ9Xs) | 3:14 | 2025-10-21 | 2025-11-29 |
 | [My Trouble](https://open.spotify.com/track/0OQQTmbThttTpDoF4t5DmP) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [My Trouble](https://open.spotify.com/album/6ZTQpZMX8i1RMzq2S27OuY) | 3:17 | 2022-03-31 | 2022-04-04 |
-| [My you](https://open.spotify.com/track/1FyUjNw4Hwp1inYeEi48Nw) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [My you](https://open.spotify.com/album/7tRboLC40qkLLZFH3wf3GY) | 3:31 | 2026-02-16 |  |
+| [My you](https://open.spotify.com/track/1FyUjNw4Hwp1inYeEi48Nw) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [My you](https://open.spotify.com/album/7tRboLC40qkLLZFH3wf3GY) | 3:31 | 2026-02-16 | 2026-04-24 |
 | [Mystery Happy](https://open.spotify.com/track/3nmOPSrQzdG81KgZXW0HGy) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Mystery Happy](https://open.spotify.com/album/0bqb26fZao4mdtE8TOolNF) | 3:55 | 2022-07-05 | 2022-07-09 |
 | [Name 이름](https://open.spotify.com/track/4CQhnpPfX9mX14VZlXI0q2) | [Azzul 아줄](https://open.spotify.com/artist/5nuzNvC1OBb7iFQMttCDGX) | [Afterimages 잔상들](https://open.spotify.com/album/3Su8wjhHX8RGeP6QgCUvkC) | 4:37 | 2022-03-31 | 2022-04-18 |
 | [nameless love](https://open.spotify.com/track/6j5RWLGNV3sfgPQ88dRXTq) | [Lee O Neul](https://open.spotify.com/artist/2FL8mim5b0Dd0LUkPE9c6t) | [nameless love](https://open.spotify.com/album/5hGXjFHSROCrD7h5WdmUzq) | 3:06 | 2025-08-07 | 2025-09-19 |
@@ -1163,6 +1163,7 @@
 | [Unconditional love](https://open.spotify.com/track/0KXSnbjfcF3MLOK1RNWNgJ) | [Kimmuse](https://open.spotify.com/artist/6qfCoY8Md1jcT1vBQwsmHN) | [Unconditional love](https://open.spotify.com/album/6v2Sga9KGrbiYUwbbkVE1n) | 3:50 | 2025-05-14 | 2025-05-23 |
 | [undefined](https://open.spotify.com/track/6kkBsWMqkyqe3RtSYUuUGl) | [imzoo](https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y) | [undefined](https://open.spotify.com/album/4b8VZ8cCzAXecskgIwyTE4) | 3:42 | 2026-03-24 |  |
 | [Undelivered](https://open.spotify.com/track/6CKUQCPdVYwmqRf0ffGwGg) | [nib](https://open.spotify.com/artist/2EQbMHjBpX8rpHLYeZ0AES) | [Undelivered](https://open.spotify.com/album/6SRWV3F4mdqKNu5czq34XT) | 2:24 | 2026-03-23 |  |
+| [Under The Blue Moon](https://open.spotify.com/track/5lgjWj5fEdcp365k59SiOM) | [O.O.O](https://open.spotify.com/artist/0YMpM4y1fUUHhBLFnYVOaD) | [Under The Blue Moon](https://open.spotify.com/album/5DQMc4cSacAPweb4q1d7dQ) | 3:46 | 2026-04-23 |  |
 | [Under the night we were facing our breakup](https://open.spotify.com/track/0H1aG96BRR4VfDayFuEZ4C) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [T\_wo](https://open.spotify.com/album/6ICh5ekibNXg1CJEWztazW) | 3:46 | 2022-06-13 | 2022-06-19 |
 | [Under the Sea](https://open.spotify.com/track/67fKXyqK3xnvMYlw4FQymk) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Under the Sea](https://open.spotify.com/album/4InYjC8pfuvMnE0Qih3Fs6) | 4:53 | 2023-03-06 | 2023-03-28 |
 | [Underwater](https://open.spotify.com/track/6MrjuOlP7stTrxno2dJGs9) | [coldnight](https://open.spotify.com/artist/0lkK1zrc663DxBxvR13yEj) | [Underwater](https://open.spotify.com/album/3JEfQIglXMJz3D5imP88m0) | 3:26 | 2023-01-10 | 2023-01-26 |

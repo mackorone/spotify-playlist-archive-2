@@ -1493,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Chase Your Tail",
+        "url": "https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193915,
+      "name": "Chase Your Tail",
+      "url": "https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF"
+    },
+    {
+      "album": {
         "name": "Chucks (feat. Channel Tres)",
         "url": "https://open.spotify.com/album/1dOzRhBdpIFjBJXxGWJnyg"
       },
@@ -1816,7 +1834,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 178378,
       "name": "Could It Be Love",
       "url": "https://open.spotify.com/track/4SGuRDKb78T5tJMGhGPdR9"

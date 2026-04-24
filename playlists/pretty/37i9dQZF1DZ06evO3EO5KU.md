@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,279 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,284 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 28 | [El Güero Colorado](https://open.spotify.com/track/6lY8neQ9mPQnUge2Gsex14) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ) | 3:39 |
 | 29 | [Por No Perderte Te Perdí](https://open.spotify.com/track/0kOhwMN7TRxbxIgS0SBCaI) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:20 |
 | 30 | [Mi Complemento](https://open.spotify.com/track/53m15VomGDsuaV71S8gXD0) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Mi Complemento](https://open.spotify.com/album/1boUaFfBiyugoYGOQIGsQi) | 2:54 |
-| 31 | [Demasiado Tarde](https://open.spotify.com/track/2v9qicGSoOgaa9lz5djEze) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Demasiado Tarde](https://open.spotify.com/album/56kTxnxogCqBKbGmPMZkHH) | 2:12 |
-| 32 | [Buscábamos Lo Mismo](https://open.spotify.com/track/7AtzltjKi7N6ga5qSNUAXh) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Buscábamos Lo Mismo](https://open.spotify.com/album/6sys2zlZ6to8LH8JKVqDfH) | 2:49 |
+| 31 | [Buscábamos Lo Mismo](https://open.spotify.com/track/7AtzltjKi7N6ga5qSNUAXh) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Buscábamos Lo Mismo](https://open.spotify.com/album/6sys2zlZ6to8LH8JKVqDfH) | 2:49 |
+| 32 | [Demasiado Tarde](https://open.spotify.com/track/2v9qicGSoOgaa9lz5djEze) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Demasiado Tarde](https://open.spotify.com/album/56kTxnxogCqBKbGmPMZkHH) | 2:12 |
 | 33 | [El Plebe del Rancho](https://open.spotify.com/track/2WrtMLBOcdUr3BmHBaCUly) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Plebe del Rancho](https://open.spotify.com/album/3KJspmEBkGrfOPEXyvgeUK) | 3:27 |
 | 34 | [La Careada](https://open.spotify.com/track/4Pd3xEDmWKuUGf0aa6nxeK) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Careada](https://open.spotify.com/album/3NIvjlWLDeJ5L2IXuMgnsZ) | 3:11 |
 | 35 | [Me Gustas y Se Nota](https://open.spotify.com/track/7LYmBT9PfyeduAS32PCrBU) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Haciendo Memoria](https://open.spotify.com/album/0MTVPqh9dN7NLQbpqRzigC) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [El Karma](https://open.spotify.com/track/6e1Kq7zm6Tu4XZrSTGxgqt) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [5 Años Despues](https://open.spotify.com/album/2w5x87DU6Bzd3kLqwHjzd6) | 3:30 |
 | 50 | [Alguien Como Tú](https://open.spotify.com/track/3j6kzaCBhFDkRkh8z5091f) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Alguien Como Tú](https://open.spotify.com/album/09wUfoNd6G7TR1o5E9ezMQ) | 3:21 |
 
-Snapshot ID: `aeVsgAAAAAA92K6Wmsr105hDBAhg7iPk`
+Snapshot ID: `aegPgAAAAADkFS8topPYsw6GfpHR0wqT`

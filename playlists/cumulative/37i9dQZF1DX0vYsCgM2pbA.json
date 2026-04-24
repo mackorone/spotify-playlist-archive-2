@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "Actin' Tough",
+        "url": "https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ"
+      },
+      "artists": [
+        {
+          "name": "Dean Turnley",
+          "url": "https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187285,
+      "name": "Actin' Tough",
+      "url": "https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM"
+    },
+    {
+      "album": {
         "name": "Deadbeat",
         "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
       },
@@ -444,7 +462,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 297391,
       "name": "Backwards Step",
       "url": "https://open.spotify.com/track/44dAUybkWmNpfqVCYxo592"
@@ -666,6 +684,24 @@
       "duration_ms": 236434,
       "name": "Blue Light",
       "url": "https://open.spotify.com/track/72ikMuRcLGZZxzNOJTRNha"
+    },
+    {
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/01S9vuZSu35loQTJTSS6tS"
+      },
+      "artists": [
+        {
+          "name": "Lance Savali",
+          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150468,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/1RgWXkfJJ5fYbNx4ENnFQx"
     },
     {
       "album": {
@@ -1932,7 +1968,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 200813,
       "name": "Feel It - Claptone Remix",
       "url": "https://open.spotify.com/track/4Gnz8xgMWStsGMSU8ITxNS"
@@ -1976,6 +2012,24 @@
       "duration_ms": 170377,
       "name": "Feel This (How Long Will I)",
       "url": "https://open.spotify.com/track/6S7bSBiayEPAWNwCpARM9P"
+    },
+    {
+      "album": {
+        "name": "Feel You",
+        "url": "https://open.spotify.com/album/3uBHz77NGhAuxozj6CUIzL"
+      },
+      "artists": [
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178066,
+      "name": "Feel You",
+      "url": "https://open.spotify.com/track/0AkQIzDWxywsrtnY6f0oYB"
     },
     {
       "album": {
@@ -2226,7 +2280,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 216838,
       "name": "Frauds (Mall Grab Remix)",
       "url": "https://open.spotify.com/track/6scCpOSEfY7FfDRjkHnUwL"
@@ -2252,6 +2306,42 @@
       "duration_ms": 197639,
       "name": "Function",
       "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
+    },
+    {
+      "album": {
+        "name": "Funk2",
+        "url": "https://open.spotify.com/album/2XKBME9TrQvSEWEeUNFxyA"
+      },
+      "artists": [
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249473,
+      "name": "Funk2",
+      "url": "https://open.spotify.com/track/4cuLoHDFHh0RKa8NcraeAP"
+    },
+    {
+      "album": {
+        "name": "Garden (Bang Goes the Drum)",
+        "url": "https://open.spotify.com/album/0F3GbkflTypBRivJQAtNNL"
+      },
+      "artists": [
+        {
+          "name": "Becca Hatch",
+          "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Garden (Bang Goes the Drum)",
+      "url": "https://open.spotify.com/track/3XBIRvFmD3Az0karsCXVr3"
     },
     {
       "album": {
@@ -2828,7 +2918,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 196375,
       "name": "Hold On (Young Heart)",
       "url": "https://open.spotify.com/track/3LvEDt0pBDKzsODbpZk9e3"
@@ -2923,6 +3013,28 @@
     },
     {
       "album": {
+        "name": "HU4D",
+        "url": "https://open.spotify.com/album/0hgyPBuj4JvRQ6adRvkkAP"
+      },
+      "artists": [
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        },
+        {
+          "name": "Matthew Dear",
+          "url": "https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230202,
+      "name": "HU4D",
+      "url": "https://open.spotify.com/track/5MPZyHWn8YpxQEw4KqQ8FR"
+    },
+    {
+      "album": {
         "name": "Hurt This Bad",
         "url": "https://open.spotify.com/album/0S87KAjBtCfieA9T5KlFKv"
       },
@@ -2934,7 +3046,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 172800,
       "name": "Hurt This Bad",
       "url": "https://open.spotify.com/track/4yLLisoMs9LKTWIcAsUn96"
@@ -2959,6 +3071,24 @@
     },
     {
       "album": {
+        "name": "I Did You Wrong",
+        "url": "https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi"
+      },
+      "artists": [
+        {
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172965,
+      "name": "I Did You Wrong",
+      "url": "https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX"
+    },
+    {
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
       },
@@ -2974,6 +3104,28 @@
       "duration_ms": 269480,
       "name": "I Don't Wanna Leave",
       "url": "https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk"
+    },
+    {
+      "album": {
+        "name": "EIGHT",
+        "url": "https://open.spotify.com/album/0RPquFmrpgt3KYLpQt1bYt"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        },
+        {
+          "name": "IsGwan",
+          "url": "https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263887,
+      "name": "I Want Ya",
+      "url": "https://open.spotify.com/track/46YPT8AJc1OTx8RxD0jJyQ"
     },
     {
       "album": {
@@ -3299,6 +3451,24 @@
     },
     {
       "album": {
+        "name": "Home Is True",
+        "url": "https://open.spotify.com/album/5sCZV4unPO5Hme36JC0ZFH"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252393,
+      "name": "Let Me Say This",
+      "url": "https://open.spotify.com/track/19iQuyF5zc3zT1LdY3y5G7"
+    },
+    {
+      "album": {
         "name": "Let Them Bells Ring",
         "url": "https://open.spotify.com/album/1kUem2rJeRdoVwB2UG9nlT"
       },
@@ -3416,7 +3586,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 150927,
       "name": "Like That",
       "url": "https://open.spotify.com/track/5qqVN5D69aOkN0lf8OIQ2b"
@@ -3561,6 +3731,28 @@
     },
     {
       "album": {
+        "name": "Luxury",
+        "url": "https://open.spotify.com/album/5NUzHrq6GfY8gbix8VIu0h"
+      },
+      "artists": [
+        {
+          "name": "Alyz\u00e9e",
+          "url": "https://open.spotify.com/artist/7qVwsLEso0qnI6kYDjNWsO"
+        },
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206777,
+      "name": "Luxury",
+      "url": "https://open.spotify.com/track/5bx1aS5zltF4dNAgKidK4Z"
+    },
+    {
+      "album": {
         "name": "MACHINE",
         "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
       },
@@ -3634,7 +3826,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 184886,
       "name": "Maroubra Villain (feat. Hellcat Speedracer)",
       "url": "https://open.spotify.com/track/1bDwBMX4ssdrvWOmTi63Xz"
@@ -3812,7 +4004,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 206349,
       "name": "Missing Piece - Sofi Tukker Remix",
       "url": "https://open.spotify.com/track/79GPVGNiZyRrlWwYMrCPmW"
@@ -4325,6 +4517,24 @@
     },
     {
       "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/6MA44mXNLr5Pl0MKUl3G8y"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284271,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/6m43tLKocZydaFrfu1lGXt"
+    },
+    {
+      "album": {
         "name": "What I Breathe",
         "url": "https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw"
       },
@@ -4774,7 +4984,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 234831,
       "name": "Royalty",
       "url": "https://open.spotify.com/track/4j5jyPieqmrFSaKmPKIwoo"
@@ -5096,7 +5306,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 150266,
       "name": "Skin & Bones (feat. Winona Oak)",
       "url": "https://open.spotify.com/track/0kisDgW1eYNqJhyvkKeyxJ"
@@ -5241,6 +5451,28 @@
     },
     {
       "album": {
+        "name": "Soulseek",
+        "url": "https://open.spotify.com/album/6qglld3ixSlI4JzqRV6ZtK"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        },
+        {
+          "name": "Soltera",
+          "url": "https://open.spotify.com/artist/5hQc6i1QccCvRafrAxR8do"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311666,
+      "name": "Soulseek",
+      "url": "https://open.spotify.com/track/6CnA2MIKasna7I4rp1RsXV"
+    },
+    {
+      "album": {
         "name": "Mosquito Love",
         "url": "https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V"
       },
@@ -5292,10 +5524,32 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 202858,
       "name": "Spend It (feat. Circa Waves)",
       "url": "https://open.spotify.com/track/0Fa39rh1TcvQlt3pLlxn7e"
+    },
+    {
+      "album": {
+        "name": "Stay Blessed",
+        "url": "https://open.spotify.com/album/1xMdQvYKJovlIwMroBAYkE"
+      },
+      "artists": [
+        {
+          "name": "Hellcat Speedracer",
+          "url": "https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV"
+        },
+        {
+          "name": "LEGZDINA",
+          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203583,
+      "name": "Stay Blessed",
+      "url": "https://open.spotify.com/track/6I2J6iwtx4DpuFF5YX1Tav"
     },
     {
       "album": {
@@ -5696,7 +5950,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 234428,
       "name": "the floor - skin on skin remix",
       "url": "https://open.spotify.com/track/3fdaWWHmFhQgAXsgRUkOrZ"
@@ -6131,6 +6385,24 @@
     },
     {
       "album": {
+        "name": "UGETME?",
+        "url": "https://open.spotify.com/album/5TqFpG0ivHJJQBgWOxzrXD"
+      },
+      "artists": [
+        {
+          "name": "Arky Waters",
+          "url": "https://open.spotify.com/artist/1cxe1pFJnavjEUC9hRKZli"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "UGETME?",
+      "url": "https://open.spotify.com/track/7k9QjWexvVU4668f4UhsBH"
+    },
+    {
+      "album": {
         "name": "The Remixes",
         "url": "https://open.spotify.com/album/1oW0C4vcjbCdSJDSyw90ig"
       },
@@ -6364,7 +6636,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 181330,
       "name": "wish that i could - Memphis LK Remix",
       "url": "https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM"
@@ -6404,7 +6676,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 200314,
       "name": "Work Your Body",
       "url": "https://open.spotify.com/track/0cLBjsy97A5FpKQ6eZyLe0"

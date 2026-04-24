@@ -5985,6 +5985,24 @@
     },
     {
       "album": {
+        "name": "Reloj Espiritual",
+        "url": "https://open.spotify.com/album/3LYQCmohEV9m7cVWhpWuam"
+      },
+      "artists": [
+        {
+          "name": "Viejo Furgon",
+          "url": "https://open.spotify.com/artist/4WyH8DQAXLGiVTtqniULWG"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197368,
+      "name": "Siempre Estar\u00e9",
+      "url": "https://open.spotify.com/track/7e8MvyqagvlJOJaQDNdh5m"
+    },
+    {
+      "album": {
         "name": "Sign Of The Horns",
         "url": "https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4"
       },

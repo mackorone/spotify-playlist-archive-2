@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 98373,
+  "num_followers": 98379,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAAY/2wujXMcf5oUDaB2nsI5",
+  "snapshot_id": "aegPgAAAAADj+3fuszOLT+HdrGXr0SJO",
   "tracks": [
     {
       "added_at": null,
@@ -283,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Su Poder",
-        "url": "https://open.spotify.com/album/3CTS3cRwUso9FkNqxY4pEV"
-      },
-      "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 302587,
-      "name": "Su Poder",
-      "url": "https://open.spotify.com/track/4ggL9CpFu2bIr4nxpIoQpz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legado",
         "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 271266,
       "name": "Temprano Yo Te Buscar\u00e9 / Yo Te Busco",
       "url": "https://open.spotify.com/track/3kmbEbnVlar5dcNtBE4hxx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Su Poder",
+        "url": "https://open.spotify.com/album/3CTS3cRwUso9FkNqxY4pEV"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 302587,
+      "name": "Su Poder",
+      "url": "https://open.spotify.com/track/4ggL9CpFu2bIr4nxpIoQpz"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poderoso",
-        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 260022,
-      "name": "A Ti",
-      "url": "https://open.spotify.com/track/67ibn8cmXlzQtOjCprZ08w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legado",
         "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 365600,
       "name": "Mas El Dios De Toda Gracia / Quiero Levantar Mis Manos",
       "url": "https://open.spotify.com/track/77xMmii3Dsmx3PLjFIImC1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 260022,
+      "name": "A Ti",
+      "url": "https://open.spotify.com/track/67ibn8cmXlzQtOjCprZ08w"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/1EDofreiBInsrMtMbpt7hL"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 474546,
-      "name": "Poderoso Dios",
-      "url": "https://open.spotify.com/track/4eMnZja2FGmWuagYRLrQBw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poderoso",
         "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 380342,
       "name": "Ex\u00e1ltate",
       "url": "https://open.spotify.com/track/1gkSSTrGjnwr904VOykCOj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/1EDofreiBInsrMtMbpt7hL"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 474546,
+      "name": "Poderoso Dios",
+      "url": "https://open.spotify.com/track/4eMnZja2FGmWuagYRLrQBw"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Volver\u00e1 (En Vivo)",
-        "url": "https://open.spotify.com/album/4fzp1eex4YNmJaaPJR8aiQ"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 329377,
-      "name": "\u00bfA qui\u00e9n ir\u00e9?",
-      "url": "https://open.spotify.com/track/6bjDSczvenKmtEqLJAiftS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homenaje a Jes\u00fas (En Vivo)",
         "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 321619,
       "name": "Somos el pueblo de Dios",
       "url": "https://open.spotify.com/track/3MF7cqKTCqQ6Xm8Pe2igJh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Volver\u00e1 (En Vivo)",
+        "url": "https://open.spotify.com/album/4fzp1eex4YNmJaaPJR8aiQ"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 329377,
+      "name": "\u00bfA qui\u00e9n ir\u00e9?",
+      "url": "https://open.spotify.com/track/6bjDSczvenKmtEqLJAiftS"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venci\u00f3",
-        "url": "https://open.spotify.com/album/4rhVnJvuqXXEnaTbH3EaWw"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 248893,
-      "name": "Al que es Digno",
-      "url": "https://open.spotify.com/track/14ZqaxUjFW2Fhq5CcJ5mhm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sana Nuestra Tierra (En Vivo)",
         "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 358086,
       "name": "Mi Primer Amor",
       "url": "https://open.spotify.com/track/6Ba2sP6ehhMlwNKHcverwl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Venci\u00f3",
+        "url": "https://open.spotify.com/album/4rhVnJvuqXXEnaTbH3EaWw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 248893,
+      "name": "Al que es Digno",
+      "url": "https://open.spotify.com/track/14ZqaxUjFW2Fhq5CcJ5mhm"
     },
     {
       "added_at": null,
@@ -687,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un Coraz\u00f3n (En Vivo desde el Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/4T4uX4tt64Zhn3Ig2lcuNU"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 93254,
+      "name": "Dios Ha Sido Bueno - En Vivo desde el Auditorio Nacional",
+      "url": "https://open.spotify.com/track/2E4OmIhuppQYuBomMV37lx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuan Grande Es el",
         "url": "https://open.spotify.com/album/36XJXcA1jx5BZcZqlzjIxt"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 412708,
       "name": "S\u00e1nanos",
       "url": "https://open.spotify.com/track/3pf1Pa1b4Vd1KuilOA0CpH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Coraz\u00f3n (En Vivo desde el Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/4T4uX4tt64Zhn3Ig2lcuNU"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 93254,
-      "name": "Dios Ha Sido Bueno - En Vivo desde el Auditorio Nacional",
-      "url": "https://open.spotify.com/track/2E4OmIhuppQYuBomMV37lx"
     },
     {
       "added_at": null,

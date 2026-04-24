@@ -2,9 +2,9 @@
 
 ### [Beste van NL](https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL)
 
-> De beste Nederlandse liedjes\. Cover: Zoë Livay \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a><br/>\-artiest\)
+> De beste Nederlandse liedjes\. Cover: Antoon
 
-490 songs - 1 day 0 hr 56 min
+492 songs - 1 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [How Do I Feel](https://open.spotify.com/track/3EsjWjJBj1uRUHdRdwJc4U) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [How Do I Feel](https://open.spotify.com/album/02xxO3zXFAZezAzyuaLpVQ) | 2:46 | 2025-05-12 | 2026-02-13 |
 | [How Many Nights](https://open.spotify.com/track/565PkWWdrqFITixrqoNSRi) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:20 | 2024-04-03 | 2024-10-25 |
 | [How My Heart Was Won](https://open.spotify.com/track/7aI0nca5m0wSGYcBdwRL8r) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [How My Heart Was Won](https://open.spotify.com/album/7o2JbjqQZjSX26mG6v2RsE) | 3:39 | 2023-03-30 | 2023-09-15 |
-| [Huis van Zwart en Rood](https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [Huis van Zwart en Rood / Cederhout](https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe) | 2:16 | 2025-11-04 |  |
+| [Huis van Zwart en Rood](https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [Huis van Zwart en Rood / Cederhout](https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe) | 2:16 | 2025-11-04 | 2026-04-24 |
 | [Huisje Aan De Zee](https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Huisje Aan De Zee](https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc) | 2:46 | 2025-08-28 |  |
 | [Hurt Me](https://open.spotify.com/track/2rkf3F19As1KUykfS45TQv) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Hurt Me](https://open.spotify.com/album/36Wlc2fxWoilGfYwd7SaC4) | 3:05 | 2024-07-25 | 2025-05-13 |
 | [Hypnose](https://open.spotify.com/track/4qghq0qfx432ZSTF7DhUPT) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Hypnose](https://open.spotify.com/album/3SyrnhZBklWC6wMamSxfQF) | 2:32 | 2023-09-21 | 2023-12-11 |
@@ -277,6 +277,7 @@
 | [Levenslang](https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Levenslang](https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s) | 3:44 | 2024-10-24 | 2025-06-17 |
 | [Levenslang](https://open.spotify.com/track/0eoKebZgSvWn9Po7HWDHza) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Levenslang](https://open.spotify.com/album/7GkEwAWC4mXglJjTl23wJi) | 2:52 | 2025-08-25 | 2026-04-03 |
 | [Levenslang](https://open.spotify.com/track/39up5WgPdJqPTi56C4mEJq) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Levenslang](https://open.spotify.com/album/2dHMo4Cb6qfR1DjpuayvCm) | 3:17 | 2025-05-26 | 2025-12-12 |
+| [Liar](https://open.spotify.com/track/2OWXbIn2geYwaSLgBxwkOM) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Liar](https://open.spotify.com/album/5zGqHfBnD4Lpk3dTwQT2b9) | 3:37 | 2026-04-23 |  |
 | [Lichtje Branden](https://open.spotify.com/track/16VFlUdJfBnF2UoMgTJIDI) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Dromen In Kleur](https://open.spotify.com/album/2JtjfJrGUOWfmT3AZ65IZF) | 2:52 | 2025-05-28 | 2026-04-17 |
 | [Liefde Maakt Blind](https://open.spotify.com/track/2O7T7IQ7mwNIIyp4zdSMb7) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Liefde Maakt Blind](https://open.spotify.com/album/5VIxDz4HWkGoson19nG93o) | 2:45 | 2025-11-14 |  |
 | [Liefde Van Later](https://open.spotify.com/track/2x7ltK4hyYsRUALOqlKFk7) | [Paskal Jakobsen](https://open.spotify.com/artist/22shUi37uDfZmZQ8H6YuWr) | [Liefde Van Later](https://open.spotify.com/album/1vA8Pw95YH4zNCxOPaM1Zm) | 4:43 | 2024-04-16 | 2024-05-24 |
@@ -307,7 +308,7 @@
 | [Morgen Gaan We Praten](https://open.spotify.com/track/5sxNsqIte1Yjkf470Z8u0B) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS), [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Morgen Gaan We Praten](https://open.spotify.com/album/42BHKZiJziE1bGdozzHuMF) | 2:48 | 2023-12-21 | 2024-03-20 |
 | [Morgen Wordt Fantastisch](https://open.spotify.com/track/2UI9rmmINuXVWeOrprjWBy) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Morgen Wordt Fantastisch](https://open.spotify.com/album/2gwvQ8E4bcZbua78zLrj61) | 2:38 | 2023-03-30 | 2026-02-13 |
 | [Morning](https://open.spotify.com/track/4VQ9pA1QmZW8pdR5T0AB3R) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Morning](https://open.spotify.com/album/4sHcIgIww30W4pqcm9PEKi) | 2:57 | 2025-09-25 | 2026-02-19 |
-| [Morning Dawns Again](https://open.spotify.com/track/7mWqW5NWE6ijQ2MSXKEwVZ) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Morning Dawns Again](https://open.spotify.com/album/4yQlOGtEMAj1aetMqrowWx) | 3:58 | 2025-08-04 |  |
+| [Morning Dawns Again](https://open.spotify.com/track/7mWqW5NWE6ijQ2MSXKEwVZ) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Morning Dawns Again](https://open.spotify.com/album/4yQlOGtEMAj1aetMqrowWx) | 3:58 | 2025-08-04 | 2026-04-24 |
 | [Moët Dat Nou](https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE) | [Moët Dat Nou](https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze) | 2:34 | 2026-02-12 |  |
 | [Muziek](https://open.spotify.com/track/7vlevLM94u3K5zTI3aEOLX) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Muziek](https://open.spotify.com/album/4oIvuFaHvK30SRN9zuGWN9) | 2:08 | 2025-07-14 | 2026-03-31 |
 | [My Blood](https://open.spotify.com/track/2cZePrelIrMYPgwoWsuKIJ) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [My Blood](https://open.spotify.com/album/07QS9kZSBXmEIDj7knle6G) | 3:41 | 2024-03-19 | 2025-04-26 |
@@ -465,6 +466,7 @@
 | [We doen wat we kunnen \(feat\. Geike\) \- Single Edit](https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [We doen wat we kunnen \(feat\. Geike\)](https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ) | 4:00 | 2023-02-24 | 2023-12-11 |
 | [We Hebben De Tijd](https://open.spotify.com/track/6YbyOC4jqn7P9bsIJWdVSq) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 2:32 | 2024-06-20 | 2024-10-10 |
 | [We Leven Nu](https://open.spotify.com/track/6iwZINFNsfDcfKZFarAsTn) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [We Leven Nu](https://open.spotify.com/album/5C3EV0dEs7nycg5r0zTxhS) | 3:10 | 2026-02-05 |  |
+| [Weer Een Dagje Ouder](https://open.spotify.com/track/7zAYKczeN7LibBSPX48qrW) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Samen Is Leuker Dan Alleen](https://open.spotify.com/album/48Y7pJ00km4Md3neQJM9Tf) | 2:43 | 2026-04-23 |  |
 | [Weer Verliefd](https://open.spotify.com/track/382bIgVx578F9aKeu4JfXZ) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Mijn Haren Ruiken Naar Vuur](https://open.spotify.com/album/5hcGtGFDxmlpKhpD07XXaE) | 3:21 | 2025-04-03 | 2025-05-16 |
 | [Wereldwonder](https://open.spotify.com/track/4NZ15Gn3KJrmflE8jwiMBU) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Wereldwonder](https://open.spotify.com/album/3rmTpJlbHeChLSFdItMpY7) | 2:31 | 2025-06-24 | 2026-04-03 |
 | [What a Woman](https://open.spotify.com/track/4ee5TfmRuMfAD1nMuDuEOU) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [What a Woman](https://open.spotify.com/album/02cclGu8ZWqe3Bs5DEyGjp) | 3:33 | 2025-11-20 |  |

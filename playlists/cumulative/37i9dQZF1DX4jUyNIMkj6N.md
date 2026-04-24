@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-406 songs - 1 day 0 hr 25 min
+407 songs - 1 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Moon](https://open.spotify.com/track/6YebT1WtZUxbF8gzbQULlC) | [Vilde Bye](https://open.spotify.com/artist/2Z3WutA2qjveq0AHqoJ6fC) | [Moon](https://open.spotify.com/album/6Ng5W9DCk4r5SesHpInNPN) | 3:16 | 2022-03-24 | 2022-07-29 |
 | [Morgan, I might](https://open.spotify.com/track/4iVOmOgUWI6tyqKvwyINXN) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni was right](https://open.spotify.com/album/65l2iPEXg8EDMUY8lUs50z) | 3:17 | 2021-12-02 | 2022-07-28 |
 | [Morgan, I Might](https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right](https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7) | 3:17 | 2022-07-14 | 2023-11-24 |
-| [Morning Sun](https://open.spotify.com/track/1ZxNxL8fk2VlmMz4vQmBUI) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Morning Sun / Waiting Line](https://open.spotify.com/album/7EQkdll2ybgca0Ekd07haO) | 3:31 | 2025-06-26 |  |
+| [Morning Sun](https://open.spotify.com/track/1ZxNxL8fk2VlmMz4vQmBUI) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Morning Sun / Waiting Line](https://open.spotify.com/album/7EQkdll2ybgca0Ekd07haO) | 3:31 | 2025-06-26 | 2026-04-24 |
 | [Mornings and Afternoons](https://open.spotify.com/track/4YlmenydUtibsOpCxzrwEf) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [La Comitiva](https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh) | [Mornings and Afternoons](https://open.spotify.com/album/1duiNMdrh9VgXabofunWIF) | 2:52 | 2023-08-24 | 2024-07-27 |
 | [Most Of The Time](https://open.spotify.com/track/0l2InC8mdtw15OskL9a7id) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Most Of The Time](https://open.spotify.com/album/2J2OK7D88vrNQ9nzOiPwkS) | 4:23 | 2022-04-28 | 2022-04-29 |
 | [Most of the Time](https://open.spotify.com/track/2PixfzvK60AWzXRDLeElhb) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Most of the Time](https://open.spotify.com/album/3PLL8twrREWBIpP1aBLF5D) | 4:23 | 2022-04-29 | 2022-12-24 |
@@ -350,6 +350,7 @@
 | [Time of the Blue](https://open.spotify.com/track/0e1GAQ4Cm74D1A0zvXVhdT) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Time of the Blue](https://open.spotify.com/album/41w6j5UiScGhghsSxAp2mM) | 3:46 | 2022-07-14 | 2022-09-30 |
 | [Time Of The Blue](https://open.spotify.com/track/5w07hToyU4dsmmlZNFWfhR) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Time Of The Blue](https://open.spotify.com/album/5ZFwywhpxDFt2dBbWIfXEo) | 3:46 | 2021-12-02 | 2022-07-29 |
 | [Time of Waiting](https://open.spotify.com/track/0ouq2rgrnZ71KmnkW4xUmq) | [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt), [Roberto Dalla Vecchia](https://open.spotify.com/artist/7bfm99qXAlGJQrkcudmwyA) | [Time of Waiting](https://open.spotify.com/album/55d318EyF219Cbnei0f0wV) | 2:48 | 2023-02-16 | 2023-07-25 |
+| [To Know A Girl](https://open.spotify.com/track/1Wym8u72A2GXzdJnr1LV37) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [To Know A Girl](https://open.spotify.com/album/6KnpVvB8AeJmxnVSscHgOg) | 2:01 | 2026-04-23 |  |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-06 | 2026-04-13 |
 | [Tranøy fyr](https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Tranøy fyr](https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy) | 3:56 | 2022-01-06 | 2024-01-19 |
 | [Turning Onto You](https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Turning Onto You](https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF) | 3:21 | 2022-09-29 | 2026-03-23 |

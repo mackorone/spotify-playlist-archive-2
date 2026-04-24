@@ -1,6 +1,6 @@
 {
   "description": "Get the party going with these classics from across the decades.",
-  "num_followers": 917521,
+  "num_followers": 917538,
   "original_name": "Ultimate Party Classics",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,18 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Hot Space (2011 Remaster)",
-        "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 248440,
-      "name": "Under Pressure - Remastered 2011",
-      "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
+      "duration_ms": 364441,
+      "name": "Don't Stop 'Til You Get Enough",
+      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -239,18 +235,22 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+        "name": "Hot Space (2011 Remaster)",
+        "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 364441,
-      "name": "Don't Stop 'Til You Get Enough",
-      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
+      "duration_ms": 248440,
+      "name": "Under Pressure - Remastered 2011",
+      "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Jazz (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "Happy Together",
         "url": "https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 176293,
       "name": "Happy Together",
       "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "Jazz (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Footloose (15th Anniversary Collectors' Edition)",
-        "url": "https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC"
-      },
-      "artists": [
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        }
-      ],
-      "duration_ms": 226826,
-      "name": "Footloose - From \"Footloose\" Soundtrack",
-      "url": "https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "World Clique",
         "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 231786,
       "name": "Groove Is in the Heart",
       "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "Footloose (15th Anniversary Collectors' Edition)",
+        "url": "https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 226826,
+      "name": "Footloose - From \"Footloose\" Soundtrack",
+      "url": "https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "YMCA",
-        "url": "https://open.spotify.com/album/3I3YSq7ArvlwK3l49pq4oE"
-      },
-      "artists": [
-        {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
-        }
-      ],
-      "duration_ms": 286800,
-      "name": "YMCA - Original Version 1978",
-      "url": "https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "The Essential Bangles",
         "url": "https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 271466,
       "name": "Ice Ice Baby",
       "url": "https://open.spotify.com/track/11d9oUiwHuYt216EFA2tiz"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "YMCA",
+        "url": "https://open.spotify.com/album/3I3YSq7ArvlwK3l49pq4oE"
+      },
+      "artists": [
+        {
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+        }
+      ],
+      "duration_ms": 286800,
+      "name": "YMCA - Original Version 1978",
+      "url": "https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "The Best Of The 80's",
-        "url": "https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 228120,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/7sMGwiS4vOMcz86ZY3vKYM"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "It's Raining Men",
         "url": "https://open.spotify.com/album/6KrLqH25xsKvJwyiSRis5A"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 212680,
       "name": "It's Raining Men - Single Version",
       "url": "https://open.spotify.com/track/5kErKPSPv8EgdZ04R3el1K"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "The Best Of The 80's",
+        "url": "https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 228120,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/7sMGwiS4vOMcz86ZY3vKYM"
     },
     {
       "added_at": "2024-07-12 09:33:21",

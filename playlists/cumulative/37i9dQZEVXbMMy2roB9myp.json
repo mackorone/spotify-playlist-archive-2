@@ -569,6 +569,32 @@
     },
     {
       "album": {
+        "name": "666",
+        "url": "https://open.spotify.com/album/4P89Sy36vHWynHr8PPc4LL"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Panda Black",
+          "url": "https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "666",
+      "url": "https://open.spotify.com/track/5DSlJ0cO7WlcJcSK82yn20"
+    },
+    {
+      "album": {
         "name": "QUIMERA",
         "url": "https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql"
       },
@@ -4758,7 +4784,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 228541,
       "name": "Cicatrices",
       "url": "https://open.spotify.com/track/23FJGRug9hlYUIBnrmkIBX"
@@ -8006,7 +8032,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 185826,
       "name": "El Loco",
       "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
@@ -11072,7 +11098,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
@@ -11582,7 +11608,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 156197,
       "name": "Irresponsables",
       "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
@@ -13696,7 +13722,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 208813,
       "name": "Loca",
       "url": "https://open.spotify.com/track/06BpwwnyaWnR1F60j1MNOg"
@@ -17120,7 +17146,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 80480,
       "name": "NO LES DA",
       "url": "https://open.spotify.com/track/6pryujEohwqSNKGTW33SKE"
@@ -17302,7 +17328,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 215372,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/1Zh6HllrXT0Khrwk2j3TrZ"
@@ -17420,7 +17446,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 158036,
       "name": "no tiene sentido",
       "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
@@ -21346,7 +21372,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 234346,
       "name": "QU\u00c9 GANAS DE COMERTE",
       "url": "https://open.spotify.com/track/0MmbPDBxrlSLSgcfZPrGe0"

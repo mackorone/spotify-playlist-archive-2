@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 129242,
+  "num_followers": 129257,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAACTJP8c+jyQ5Qov6sH3YmYH",
+  "snapshot_id": "aegPgAAAAACbH1tnXzp0WYmhj6OoqpG3",
   "tracks": [
     {
       "added_at": null,
@@ -595,26 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK"
+        "name": "LA PARRANDHA",
+        "url": "https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM"
       },
       "artists": [
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 283747,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM"
+      "duration_ms": 238792,
+      "name": "LA PARRANDHA",
+      "url": "https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ"
     },
     {
       "added_at": null,
@@ -635,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA PARRANDHA",
-        "url": "https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM"
+        "name": "Bien Perro",
+        "url": "https://open.spotify.com/album/1RRnsMYBuDtrRjwkiULkK0"
       },
       "artists": [
         {
@@ -644,9 +636,9 @@
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 238792,
-      "name": "LA PARRANDHA",
-      "url": "https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ"
+      "duration_ms": 160242,
+      "name": "Bien Perro",
+      "url": "https://open.spotify.com/track/4N2GoKa7cuyjiArYHVopzD"
     },
     {
       "added_at": null,
@@ -667,6 +659,30 @@
       "duration_ms": 160150,
       "name": "Sin Dormir (Ya Se Arm\u00f3)",
       "url": "https://open.spotify.com/track/1HfHDbNHzafjjxnLoAobRA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 283747,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM"
     },
     {
       "added_at": null,
@@ -739,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Perro",
-        "url": "https://open.spotify.com/album/1RRnsMYBuDtrRjwkiULkK0"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 160242,
-      "name": "Bien Perro",
-      "url": "https://open.spotify.com/track/4N2GoKa7cuyjiArYHVopzD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Directo Hasta Arriba",
         "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
       },
@@ -767,6 +767,26 @@
       "duration_ms": 223626,
       "name": "El After Porky",
       "url": "https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retumbando en la Ciudad",
+        "url": "https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 214736,
+      "name": "Retumbando en la Ciudad",
+      "url": "https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb"
     },
     {
       "added_at": null,
@@ -807,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retumbando en la Ciudad",
-        "url": "https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 214736,
-      "name": "Retumbando en la Ciudad",
-      "url": "https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Bols\u00f3n",
         "url": "https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe"
       },
@@ -843,26 +843,6 @@
       "duration_ms": 231177,
       "name": "El Bols\u00f3n",
       "url": "https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 227647,
-      "name": "Tony Montana (feat. Tornillo)",
-      "url": "https://open.spotify.com/track/1gY3TMlLkEujxg0g5vSlTw"
     },
     {
       "added_at": null,
@@ -891,6 +871,26 @@
       "duration_ms": 223565,
       "name": "Troca Mamalona (feat. Eme Malafe)",
       "url": "https://open.spotify.com/track/5NDjqJI5Z2U5Vzbh5vKRhS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 227647,
+      "name": "Tony Montana (feat. Tornillo)",
+      "url": "https://open.spotify.com/track/1gY3TMlLkEujxg0g5vSlTw"
     },
     {
       "added_at": null,

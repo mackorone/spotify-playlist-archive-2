@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Maggie Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,442 likes - 90 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,448 likes - 90 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,15 +26,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 16 | [Staring at the Wall](https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Staring at the Wall](https://open.spotify.com/album/5tknEZvydcc1zkg5CWOcym) | 4:31 |
 | 17 | [Jackie and Wilson](https://open.spotify.com/track/0PywzrV955BnXDC8FHAf0n) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:43 |
 | 18 | [No Tengo Valor](https://open.spotify.com/track/16Eou1I5su9dxDKCYAVkmH) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [No Tengo Valor](https://open.spotify.com/album/7JvcNuFQT1h2e2IcyQUXhL) | 3:02 |
-| 19 | [All I Really Wanna Do](https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [All I Really Wanna Do](https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks) | 3:42 |
-| 20 | [Supernova](https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Supernova](https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW) | 3:55 |
+| 19 | [Supernova](https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Supernova](https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW) | 3:55 |
+| 20 | [All I Really Wanna Do](https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [All I Really Wanna Do](https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks) | 3:42 |
 | 21 | [Stay](https://open.spotify.com/track/353A1eattWX5QjVnE5yd5X) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Act I](https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R) | 3:12 |
 | 22 | [Revival](https://open.spotify.com/track/1Q9BAEptV3nrj8sXBHU70M) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Utah](https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7) | 3:33 |
 | 23 | [Sushi and Coca\-Cola](https://open.spotify.com/track/5pGdWJIkt47ovJcBOKHl2S) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sushi and Coca\-Cola](https://open.spotify.com/album/3QSjD8VyfUBGICacKVLzk4) | 2:37 |
 | 24 | [Devil in Me](https://open.spotify.com/track/3LcrBMmEejUO09Lrmyixzb) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 3:41 |
 | 25 | [Lie To Me](https://open.spotify.com/track/29VmWHsaU3HhRn88PSLg0M) | [The Jaws of Brooklyn](https://open.spotify.com/artist/0G8ZAUGVk9uCR2xycfkepP) | [Lie To Me](https://open.spotify.com/album/0OanktBjwWfJ6rdNICU5ET) | 2:52 |
-| 26 | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 2:52 |
-| 27 | [S.O.B.](https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [S.O.B.](https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI) | 4:07 |
+| 26 | [S.O.B.](https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [S.O.B.](https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI) | 4:07 |
+| 27 | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 2:52 |
 | 28 | [Summer Sun](https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9) | [Ruen Brothers](https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go) | [All My Shades Of Blue](https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ) | 3:21 |
 | 29 | [Madelyn](https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Madelyn](https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0) | 3:15 |
 | 30 | [Morning Coffee](https://open.spotify.com/track/5JChez1hix3cio2LrHgScq) | [Jesper Munk](https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw) | [CLAIM](https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br) | 3:35 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 72 | [Hands on the Radio](https://open.spotify.com/track/0S1NJoM1JHfd2x9Orm2j2G) | [The Weeks](https://open.spotify.com/artist/3zE5jV6Uw9hhdWCXM8hS3j) | [Hands on the Radio](https://open.spotify.com/album/08noPcSJhhNl1KayiNivkS) | 3:32 |
 | 73 | [On My Mind](https://open.spotify.com/track/4vmgP10TH0YYqJkzr8yLW0) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [On My Mind](https://open.spotify.com/album/58m6x0iCKILGzU5jNlN2C0) | 3:33 |
 | 74 | [Stay Right Here](https://open.spotify.com/track/0jQTagUb62PG7IcaFdR4s7) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Stay Right Here](https://open.spotify.com/album/5fSnsS6vf9eovM8R3nvKNn) | 4:09 |
-| 75 | [Blue](https://open.spotify.com/track/6n2lgYmsqtJoOp2Qy4YNpJ) | [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [Blue](https://open.spotify.com/album/7bFB8mpZVwH3prnKZIJJzw) | 3:06 |
-| 76 | [Bend](https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Bend](https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq) | 4:06 |
+| 75 | [Bend](https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Bend](https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq) | 4:06 |
+| 76 | [Blue](https://open.spotify.com/track/6n2lgYmsqtJoOp2Qy4YNpJ) | [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [Blue](https://open.spotify.com/album/7bFB8mpZVwH3prnKZIJJzw) | 3:06 |
 | 77 | [Believe](https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud) | [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT) | [Believe](https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O) | 3:57 |
 | 78 | [Trouble in Mind](https://open.spotify.com/track/0zAaoA2iJEYEL08wOc2F61) | [The Bumper Jacksons](https://open.spotify.com/artist/4orJo2KYI4j5rBsD7mAboN) | [Too Big World](https://open.spotify.com/album/0boScp6oqklWFnLxHXNlf2) | 4:37 |
 | 79 | [How Do You Get By](https://open.spotify.com/track/5sYG1duOFihEPSqvZEJzlQ) | [Cornelia Murr](https://open.spotify.com/artist/1FdUgjmEeGCpmAxXatjiEG) | [How Do You Get By](https://open.spotify.com/album/698NNT71NehpuCIDRFXWic) | 4:10 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 86 | [Cheap Champagne](https://open.spotify.com/track/6kd0JbGLweEJi7wpsAkSyw) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Cheap Champagne](https://open.spotify.com/album/1ZXj47ZiDPJMlO7uyhlQ05) | 3:53 |
 | 87 | [Hang My Head in Shame](https://open.spotify.com/track/7lxHif999XHcMA3ER65kBy) | [Pete Molinari](https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57), [Barrie Cadogan](https://open.spotify.com/artist/43hBfQ8nPDcugjA8L6w1iy) | [Theosophy](https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs) | 3:45 |
 | 88 | [Oporto\-Madrid Blvd](https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Oporto\-Madrid Blvd](https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo) | 3:29 |
-| 89 | [Don't Please Yourself](https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt) | [Foy Vance](https://open.spotify.com/artist/19KpAubI0RsVw5AZjvnDGk) | [Watermelon Oranges](https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF) | 3:27 |
+| 89 | [Who's Gonna Love You When I'm Gone](https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Who's Gonna Love You When I'm Gone](https://open.spotify.com/album/3UmOFxs2sglqh0XuFez1iy) | 3:39 |
 | 90 | [I Wonder Why](https://open.spotify.com/track/6m0BtKf29IaY6KlxHBJhGZ) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [I Wonder Why](https://open.spotify.com/album/23Kl1huMr3rcUyLvkxNBZF) | 2:05 |
 
 Snapshot ID: `AAAAAOCBRMMj93nj4ZdLYk5uyp2mrIOS`

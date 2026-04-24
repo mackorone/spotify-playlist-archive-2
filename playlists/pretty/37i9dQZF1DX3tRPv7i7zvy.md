@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 
 > We Outsideeeee!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,780 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,798 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 | 5 | [Kakalika](https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kakalika](https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK) | 3:01 |
 | 6 | [FUN](https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [FUN](https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ) | 3:08 |
 | 7 | [BADMAN GANGSTA](https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BADMAN GANGSTA](https://open.spotify.com/album/2SbCA6xhQQ2cvE5yylnl01) | 2:23 |
-| 8 | [What I Like \(with Moliy, Ayetian, & Tyga\)](https://open.spotify.com/track/6QOOnaoczEeWw4zEICAJyB) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Ayetian](https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [What I Like \(with Moliy, Ayetian, & Tyga\)](https://open.spotify.com/album/2SFaRmuiD59d9evBFmET8W) | 2:36 |
-| 9 | [Very Soon](https://open.spotify.com/track/2IocWgGPI0o6rmRDeb7Zrz) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 2:17 |
+| 8 | [Very Soon](https://open.spotify.com/track/2IocWgGPI0o6rmRDeb7Zrz) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 2:17 |
+| 9 | [What I Like \(with Moliy, Ayetian, & Tyga\)](https://open.spotify.com/track/6QOOnaoczEeWw4zEICAJyB) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Ayetian](https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [What I Like \(with Moliy, Ayetian, & Tyga\)](https://open.spotify.com/album/2SFaRmuiD59d9evBFmET8W) | 2:36 |
 | 10 | [Babylon](https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Babylon](https://open.spotify.com/album/55CLjgXBq4zuAnGYeGM8VB) | 2:40 |
 | 11 | [Hot Body](https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hot Body](https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z) | 2:40 |
 | 12 | [Darkest Style](https://open.spotify.com/track/1PcHLgffCAgtPcHjFkIM0W) | [D Global](https://open.spotify.com/artist/4FQzUw5iPegRxTuJyKphkY), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Darkest Style](https://open.spotify.com/album/7GvXEXzV1KzVVicSTLcge3) | 2:18 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 | 29 | [Xtra Cool](https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG) | [Young Jonn](https://open.spotify.com/artist/7z2IXfZ1431JlqkQNFg85l) | [Xtra Cool](https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL) | 2:30 |
 | 30 | [Electric Energy](https://open.spotify.com/track/0F9ZICuk35THKXQD8uoJpp) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Mix Master Garzy](https://open.spotify.com/artist/4daEluk44yipMYsuYqZBXX) | [ORIGIN8A](https://open.spotify.com/album/0aaTaQX3Nu9Z5fdH7uZX5x) | 2:58 |
 | 31 | [Na So](https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Na So](https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs) | 3:34 |
-| 32 | [That Way](https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [That Way](https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1) | 2:35 |
-| 33 | [Body & Soul](https://open.spotify.com/track/2AaZJAh9FifPCQdba87Hzr) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 2:34 |
+| 32 | [Body & Soul](https://open.spotify.com/track/2AaZJAh9FifPCQdba87Hzr) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 2:34 |
+| 33 | [That Way](https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [That Way](https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1) | 2:35 |
 | 34 | [Puul](https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Puul](https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj) | 2:52 |
 | 35 | [GROOVING \(feat\. Davido and Seun Kuti\)](https://open.spotify.com/track/73rLXBXwSfBqGmWw2x8i8t) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [INDUSTRY MACHINE](https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63) | 2:46 |
 | 36 | [Shakabulizzy](https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Shakabulizzy](https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s) | 2:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 | 59 | [It Is Finished](https://open.spotify.com/track/6vmcwvjJHvAdlWurRHC96N) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [It Is Finished](https://open.spotify.com/album/1lYbe3Gt2yDLeBgR1rhEls) | 3:00 |
 | 60 | [Awurade Aye](https://open.spotify.com/track/5MO3ZW5mDhQiUmrYoYfitt) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Awurade Aye](https://open.spotify.com/album/0iMv1LDtzvVJWrZ1nBAjs4) | 3:39 |
 
-Snapshot ID: `AAAAADZ6JgAyrP6x3ysLB5uX5N6EqDRl`
+Snapshot ID: `AAAAAN+5LPpqwLYsgHGUW0SGSWP+HA1z`

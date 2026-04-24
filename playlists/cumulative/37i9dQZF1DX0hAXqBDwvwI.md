@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-846 songs - 2 day 6 hr 38 min
+848 songs - 2 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [ADAMAS](https://open.spotify.com/track/7xsTPnzpEcqCQguRxnBxOR) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Akai Wana \(Who Loves It?\) / ADAMAS](https://open.spotify.com/album/1uiFlT3cdQeNlhuOsjjh2d) | 3:45 | 2022-06-14 | 2022-07-12 |
 | [again](https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [HOLIDAYS IN THE SUN](https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX) | 4:14 | 2022-07-28 | 2024-04-19 |
 | [again](https://open.spotify.com/track/5Ywyag9zGnY8w11MKIszuP) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [HOLIDAYS IN THE SUN](https://open.spotify.com/album/71Qzr6Dzym3jDLB11eSqZk) | 4:14 | 2022-06-03 | 2022-07-23 |
+| [AIZO](https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [AIZO](https://open.spotify.com/album/7BAFUXup2XFZpcnCmLjXmM) | 3:35 | 2026-04-23 |  |
 | [aLIEz](https://open.spotify.com/track/7tciSZq2IbazfaWU90mQwk) | [WACAVA](https://open.spotify.com/artist/6K5fW2F91aYNzfy4FiYgMg), [Chalili](https://open.spotify.com/artist/0MyxJqsZVZRjb1hGUYi07Z) | [aLIEz](https://open.spotify.com/album/2p3uIQSq9IAZ22L0ZJVqWf) | 4:28 | 2022-06-03 | 2022-07-28 |
 | [ALIVE](https://open.spotify.com/track/5cBmwNnKGLPRCQWzFS0r0Y) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ALIVE](https://open.spotify.com/album/7lpsmkTYFRiDNIDyKRRLXP) | 3:37 | 2022-11-11 | 2022-11-13 |
 | [Alive](https://open.spotify.com/track/75Irhne2WdGiOrGcXVEoOQ) | [Mashiro Ayano](https://open.spotify.com/artist/3GnM9zjuaItYitYvN8lneJ) | [Alive](https://open.spotify.com/album/0ldv1EQXFt1svRfEVBQ3Rx) | 3:55 | 2022-06-03 | 2022-07-26 |
@@ -73,7 +74,7 @@
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-10-17 | 2025-10-22 |
 | [Call of Silence](https://open.spotify.com/track/1fN2JjN9Sj2kOPJXLDovSe) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」Season 2 オリジナルサウンドトラック](https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg) | 2:58 | 2022-06-03 | 2022-07-28 |
 | [Call of Silence](https://open.spotify.com/track/7k1HoUdskuBhyWvm7hPctM) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 2:58 | 2022-07-28 | 2024-04-19 |
-| [CASANOVA POSSE](https://open.spotify.com/track/26Lip4WX1oWceF9tb8m2qw) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [CASANOVA POSSE](https://open.spotify.com/album/2xfq9tUp4QOlCGT6j4k0g9) | 4:00 | 2025-04-18 |  |
+| [CASANOVA POSSE](https://open.spotify.com/track/26Lip4WX1oWceF9tb8m2qw) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [CASANOVA POSSE](https://open.spotify.com/album/2xfq9tUp4QOlCGT6j4k0g9) | 4:00 | 2025-04-18 | 2026-04-24 |
 | [Catch the Moment](https://open.spotify.com/track/25UWsqfdAYrJDS2LqVP2hv) | [WACAVA](https://open.spotify.com/artist/6K5fW2F91aYNzfy4FiYgMg), [PelleK](https://open.spotify.com/artist/1qLwXsUtyW2Ba2Iotg4gE3) | [Catch the Moment](https://open.spotify.com/album/1KWkZSBw5YlrB24exegOCQ) | 4:42 | 2022-06-24 | 2022-07-15 |
 | [Celebration \(Movie Edit\) \[feat\. Toko Miura\]](https://open.spotify.com/track/2AmRjWxvLxJK3DjCYNruLI) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [Weathering With You](https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q) | 2:36 | 2022-06-03 | 2022-07-28 |
 | [CHAIN](https://open.spotify.com/track/2ZsDN8E5DL92MFDGV2cM6r) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [CHAIN](https://open.spotify.com/album/48ei3gYn7at2b2eO6ZXMQr) | 4:03 | 2022-06-03 | 2022-07-26 |
@@ -392,6 +393,7 @@
 | [The Rumbling](https://open.spotify.com/track/5JJKkuYGj99dfws5MiiJSR) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/6WNTfLApSKQPPlqWHwgLq8) | 3:40 | 2022-06-03 | 2022-07-29 |
 | [The Rumbling](https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg) | 3:40 | 2022-07-28 | 2024-04-19 |
 | [The Sound Of Voltage](https://open.spotify.com/track/3kOkZp9RyrsqHyHZ593tTS) | [朱雀野アレン](https://open.spotify.com/artist/3L2R5NrRednQ8aK3fCrsqn), [矢戸乃上可波汰](https://open.spotify.com/artist/2V7qMRMjNcuZmu3JQyFkqa) | [Paradox Live Shuffle Team Show \(Vol.2\)](https://open.spotify.com/album/0Rnc7ihMXSzdvQ02iVvfu3) | 3:25 | 2022-06-24 | 2022-07-01 |
+| [The Story of Us](https://open.spotify.com/track/3cchjsY4n2pxyv0qYqMTGq) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/2MTlaXlJD4aTeh1XaAeqzV) | 4:27 | 2026-04-23 |  |
 | [The Warrior](https://open.spotify.com/track/3T0YnUKkgr17L17H12wUSD) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [The Warrior](https://open.spotify.com/album/1oZJXVW5o64KgRKB6WyOZS) | 3:14 | 2022-06-03 | 2022-07-26 |
 | [the WORLD](https://open.spotify.com/track/1g0SlTCGN9j3OicWHfSKEn) | [Nightmare](https://open.spotify.com/artist/11CxpTfZC60MYKjL7HESKR) | [the WORLD Ruler](https://open.spotify.com/album/1QnwkCaZYTMXlAk4b9DZJ2) | 3:48 | 2022-07-28 | 2022-10-19 |
 | [the WORLD](https://open.spotify.com/track/5W53797BOyrbASWrZq24lp) | [Nightmare](https://open.spotify.com/artist/11CxpTfZC60MYKjL7HESKR) | [the WORLD Ruler](https://open.spotify.com/album/0ckCTCvo6W7poV4HFuUsdU) | 3:53 | 2024-01-09 | 2024-04-19 |
@@ -718,7 +720,7 @@
 | [最後の花弁 \(The meaning of love\)](https://open.spotify.com/track/1jRdam0Y2o2vVtvltJK0tH) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [最後の花弁 \(The meaning of love\)](https://open.spotify.com/album/5rfLPlqWZDU3nB30V6Zn8Y) | 3:51 | 2022-06-03 | 2022-07-28 |
 | [最深](https://open.spotify.com/track/40tZIkyZZGw1a4oQAFZL2P) | [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [最深](https://open.spotify.com/album/2Gh6LdxVej8gzAPU68hHSj) | 4:03 | 2022-07-14 | 2022-07-25 |
 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 | 2024-01-18 |  |
-| [月に向かって撃て](https://open.spotify.com/track/2aQpmTVc26tkNVChUYzZcS) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [月に向かって撃て](https://open.spotify.com/album/5aZz8n89Y0VpdCEioB05NS) | 3:13 | 2026-04-12 |  |
+| [月に向かって撃て](https://open.spotify.com/track/2aQpmTVc26tkNVChUYzZcS) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [月に向かって撃て](https://open.spotify.com/album/5aZz8n89Y0VpdCEioB05NS) | 3:13 | 2026-04-12 | 2026-04-24 |
 | [月並みに輝け](https://open.spotify.com/track/22IFbzcuLrK7ZAoj6Ms9I0) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [月並みに輝け / 今、僕、アンダーグラウンドから](https://open.spotify.com/album/7zLObKK7vTZaVbrM12bLVT) | 4:07 | 2024-07-23 | 2024-10-26 |
 | [月海の揺り籠](https://open.spotify.com/track/0eJHx15sQRZ57dLG2jebRH) | [Mia REGINA](https://open.spotify.com/artist/5C3jCbCsFbz3gAIc7HZyEk) | [月海の揺り籠](https://open.spotify.com/album/5ADyQt4kG3HKdVSlIsGyLd) | 4:35 | 2022-06-14 | 2022-07-22 |
 | [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 | 2022-06-03 | 2025-10-12 |

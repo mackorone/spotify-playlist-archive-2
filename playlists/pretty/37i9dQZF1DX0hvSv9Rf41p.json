@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 featuring Subtronics",
-  "num_followers": 993029,
+  "num_followers": 993074,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -828,16 +828,16 @@
       },
       "artists": [
         {
-          "name": "INFEKT",
-          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
-        },
-        {
           "name": "Modal Nodes",
           "url": "https://open.spotify.com/artist/7IiQzwRO9HsEcSzTDT6OSS"
+        },
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
         }
       ],
       "duration_ms": 168827,
-      "name": "INFECTED",
+      "name": "INFECTED (feat. INFEKT)",
       "url": "https://open.spotify.com/track/5V6Yx8L9ItQUOYq0REdFGj"
     },
     {

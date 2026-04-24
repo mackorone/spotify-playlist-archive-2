@@ -872,7 +872,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 232133,
       "name": "1998 (mam to we krwi)",
       "url": "https://open.spotify.com/track/5WOnkFszDc0OY8PZw4gygY"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 183941,
       "name": "24/7",
       "url": "https://open.spotify.com/track/6Y4NRk2afKRBAYeJqNP6eJ"
@@ -14086,7 +14086,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 195704,
       "name": "Dom Nad Wod\u0105",
       "url": "https://open.spotify.com/track/3fsukGRaCYqfoQ010VQGcC"
@@ -35118,6 +35118,36 @@
       "duration_ms": 126285,
       "name": "narcyz w klubie",
       "url": "https://open.spotify.com/track/0yb5tP8GHm9zHYTnEYVTss"
+    },
+    {
+      "album": {
+        "name": "Nareszcie",
+        "url": "https://open.spotify.com/album/70G6XGkSM2CWedDGAS22Dm"
+      },
+      "artists": [
+        {
+          "name": "M\u0119skie Granie Orkiestra",
+          "url": "https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG"
+        },
+        {
+          "name": "Igor Herbut",
+          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
+        },
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        },
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182339,
+      "name": "Nareszcie",
+      "url": "https://open.spotify.com/track/1p4M9If0oTyeUsGsmAfmAI"
     },
     {
       "album": {

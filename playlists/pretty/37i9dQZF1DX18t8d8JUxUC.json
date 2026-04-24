@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Andrea Bejar",
-  "num_followers": 34074,
+  "num_followers": 34096,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Disfruto",
-      "url": "https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "arco\u00edris (extra\u00eddo de LA NUBE EN EL JARD\u00cdN)",
         "url": "https://open.spotify.com/album/3cJ9mookr6KuCby7KwoE7W"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 203950,
       "name": "La Ola",
       "url": "https://open.spotify.com/track/0bg3L5f70z9iEaJki8Cgfa"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Disfruto",
+      "url": "https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "El Invento",
-        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "El Invento",
-      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "\u00bfC\u00f3mo decir adi\u00f3s?",
         "url": "https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 156610,
       "name": "Atardeci\u00f3 sin vos",
       "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "El Invento",
+        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Iridiscente",
-        "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "Aguaceros",
-      "url": "https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "donde van los perros",
         "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 124365,
       "name": "yo as\u00ed",
       "url": "https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Iridiscente",
+        "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "Aguaceros",
+      "url": "https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
+        "name": "todos menos yo",
+        "url": "https://open.spotify.com/album/0LNQEWpmVnfqfncP5KE7Ag"
+      },
+      "artists": [
+        {
+          "name": "Anna Garc\u00eda",
+          "url": "https://open.spotify.com/artist/7BaSeoQcti9uDTykvmXC0e"
+        },
+        {
+          "name": "Abraham G\u00dc",
+          "url": "https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc"
+        }
+      ],
+      "duration_ms": 196675,
+      "name": "todos menos yo",
+      "url": "https://open.spotify.com/track/0h0Yt8CZxudSESeTFfRclh"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
         "name": "Neblina Sesiones desde el Bosque",
         "url": "https://open.spotify.com/album/2lMcIJqzPaS4qJahlHpUHA"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 215791,
       "name": "Entre Los Dos",
       "url": "https://open.spotify.com/track/4WwstqolWpfzFlfWkijyCL"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
-        "name": "todos menos yo",
-        "url": "https://open.spotify.com/album/0LNQEWpmVnfqfncP5KE7Ag"
-      },
-      "artists": [
-        {
-          "name": "Anna Garc\u00eda",
-          "url": "https://open.spotify.com/artist/7BaSeoQcti9uDTykvmXC0e"
-        },
-        {
-          "name": "Abraham G\u00dc",
-          "url": "https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc"
-        }
-      ],
-      "duration_ms": 196675,
-      "name": "todos menos yo",
-      "url": "https://open.spotify.com/track/0h0Yt8CZxudSESeTFfRclh"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Lila Alel\u00ed",
-        "url": "https://open.spotify.com/album/2if5JlMd0QhkF93PKGashv"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 205767,
-      "name": "Lila Alel\u00ed",
-      "url": "https://open.spotify.com/track/1pv8kjnd68qQt0dM22reqP"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "OTRX",
         "url": "https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 175412,
       "name": "Ficci\u00f3n",
       "url": "https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Lila Alel\u00ed",
+        "url": "https://open.spotify.com/album/2if5JlMd0QhkF93PKGashv"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 205767,
+      "name": "Lila Alel\u00ed",
+      "url": "https://open.spotify.com/track/1pv8kjnd68qQt0dM22reqP"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Dicen Que Llora",
         "url": "https://open.spotify.com/album/10BgwJJWRUbdyVMFLwbW8d"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 209326,
       "name": "Dicen Que Llora",
       "url": "https://open.spotify.com/track/4ZIwUpohs7PVmyVJDWPprt"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "no me culpes por sentir",
-        "url": "https://open.spotify.com/album/5nzJbUqiBTfaAOXe8cT8be"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 228226,
-      "name": "no me culpes por sentir",
-      "url": "https://open.spotify.com/track/251OT3yt4toRcJkwyNR7R4"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Luces de bengala",
         "url": "https://open.spotify.com/album/40mdyXPVKvGinpTommcy3h"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 165715,
       "name": "Luces de bengala",
       "url": "https://open.spotify.com/track/7F2wex0mYEbekHkmCuaUMy"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "no me culpes por sentir",
+        "url": "https://open.spotify.com/album/5nzJbUqiBTfaAOXe8cT8be"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 228226,
+      "name": "no me culpes por sentir",
+      "url": "https://open.spotify.com/track/251OT3yt4toRcJkwyNR7R4"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Pasar\u00e1s",
-        "url": "https://open.spotify.com/album/3lSjYPhPyPXIxOEYKIGi9e"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 256920,
-      "name": "Pasar\u00e1s",
-      "url": "https://open.spotify.com/track/4jJ1iOeBNSBLhhtJhfxJxQ"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Valles",
         "url": "https://open.spotify.com/album/07QLMgEF08qGJldtkjoNzm"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 165500,
       "name": "Valles",
       "url": "https://open.spotify.com/track/5giedFuwGdJ15xqJPuEHvg"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Pasar\u00e1s",
+        "url": "https://open.spotify.com/album/3lSjYPhPyPXIxOEYKIGi9e"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 256920,
+      "name": "Pasar\u00e1s",
+      "url": "https://open.spotify.com/track/4jJ1iOeBNSBLhhtJhfxJxQ"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Tu mirar",
-        "url": "https://open.spotify.com/album/3WUjsvkyxszrRvahbUR4ae"
-      },
-      "artists": [
-        {
-          "name": "Sara S\u00edstole",
-          "url": "https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8"
-        }
-      ],
-      "duration_ms": 162661,
-      "name": "Tu mirar",
-      "url": "https://open.spotify.com/track/4at07WEnwnZhY9j3FiJeRd"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Estrellas En El Mar",
         "url": "https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 251040,
       "name": "Estrellas En El Mar",
       "url": "https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Tu mirar",
+        "url": "https://open.spotify.com/album/3WUjsvkyxszrRvahbUR4ae"
+      },
+      "artists": [
+        {
+          "name": "Sara S\u00edstole",
+          "url": "https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8"
+        }
+      ],
+      "duration_ms": 162661,
+      "name": "Tu mirar",
+      "url": "https://open.spotify.com/track/4at07WEnwnZhY9j3FiJeRd"
     }
   ],
   "unique_name": "Latin Folk",

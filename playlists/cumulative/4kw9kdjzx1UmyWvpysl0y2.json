@@ -19547,6 +19547,28 @@
     },
     {
       "album": {
+        "name": "Should've Known Better",
+        "url": "https://open.spotify.com/album/3VWWyCDqXWHxWwfyhEQBqy"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "KENNEDY",
+          "url": "https://open.spotify.com/artist/5K7mrmnGRjR2Yf4UQnyi6R"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142235,
+      "name": "Should've Known Better",
+      "url": "https://open.spotify.com/track/6xC8SOWsbewQ7c7NRMsrje"
+    },
+    {
+      "album": {
         "name": "Show Me!",
         "url": "https://open.spotify.com/album/5JuSjDOYp2huFAToRSDTYi"
       },

@@ -112,7 +112,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 240000,
       "name": "Ain't No Love (feat. BabyChiefDoit & BAK Jay)",
       "url": "https://open.spotify.com/track/6bI8DN3LF8EzHkYbh065Ei"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 138208,
       "name": "blood",
       "url": "https://open.spotify.com/track/373tYv4yykESwVkPjDkuzf"
@@ -594,7 +594,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 97012,
       "name": "can i get a kiss?",
       "url": "https://open.spotify.com/track/1zwiH0mNMsGXUAPAHc9bij"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 185317,
       "name": "carry it (extended)",
       "url": "https://open.spotify.com/track/52AsGGwpvnCMoeuEwDXv9G"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 102738,
       "name": "drama queen",
       "url": "https://open.spotify.com/track/39Q83U8EJjNU90MIQA1Wgh"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 187803,
       "name": "Drugs And Pretty Girls",
       "url": "https://open.spotify.com/track/1mKC9dh2Ly6Vmzu6KfmLZS"
@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "So Im The Bad Guy",
+        "url": "https://open.spotify.com/album/4HVNcXuZeQWbJFZd2vG34F"
+      },
+      "artists": [
+        {
+          "name": "Nfe Tummy",
+          "url": "https://open.spotify.com/artist/5kYpfTaZup3Da12sn2KKP8"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131633,
+      "name": "Gotta Go",
+      "url": "https://open.spotify.com/track/0MZA9uJHEuqDqQwGrae35J"
+    },
+    {
+      "album": {
         "name": "Great White",
         "url": "https://open.spotify.com/album/0jvmiGfGsEj1PjfOoP2WQF"
       },
@@ -1537,6 +1555,24 @@
     },
     {
       "album": {
+        "name": "So Im The Bad Guy",
+        "url": "https://open.spotify.com/album/4HVNcXuZeQWbJFZd2vG34F"
+      },
+      "artists": [
+        {
+          "name": "Nfe Tummy",
+          "url": "https://open.spotify.com/artist/5kYpfTaZup3Da12sn2KKP8"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110062,
+      "name": "I Might Drive",
+      "url": "https://open.spotify.com/track/6DCrWJbZPqqmnd0WpoB7su"
+    },
+    {
+      "album": {
         "name": "yit.mp3",
         "url": "https://open.spotify.com/album/0GQgKhXbtJ3jJ8DnwfxKXj"
       },
@@ -1610,7 +1646,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 108437,
       "name": "imposter",
       "url": "https://open.spotify.com/track/14DqYafHROsQH834bFBVbt"
@@ -1704,6 +1740,28 @@
       "duration_ms": 130168,
       "name": "It's a Stick Up",
       "url": "https://open.spotify.com/track/26HB2IAUsyDenlJWmkD4zk"
+    },
+    {
+      "album": {
+        "name": "DYNAMIC DUO 2",
+        "url": "https://open.spotify.com/album/1MfGGsHxJD4dL43So9yg0M"
+      },
+      "artists": [
+        {
+          "name": "Majin Glock",
+          "url": "https://open.spotify.com/artist/2uGi4yRGoDdOFlvUCbMXMm"
+        },
+        {
+          "name": "srsclay",
+          "url": "https://open.spotify.com/artist/46QXFg6u88kkcpZxoUU9sd"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "its coo",
+      "url": "https://open.spotify.com/track/4YPr8NRp3P9mRlESfiVsLv"
     },
     {
       "album": {
@@ -2732,7 +2790,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 194594,
       "name": "Pub Sub",
       "url": "https://open.spotify.com/track/0vtfVaApMNkfJr5yhEmnX4"
@@ -3594,7 +3652,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 211931,
       "name": "Trifling",
       "url": "https://open.spotify.com/track/3wMUXSD6foKvnl9asEbEA4"

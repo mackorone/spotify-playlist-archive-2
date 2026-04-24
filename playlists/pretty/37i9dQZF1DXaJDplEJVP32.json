@@ -1,6 +1,6 @@
 {
   "description": "Spotify music editors' choice for the best Christian & Gospel songs of 2010s. Cover: MercyMe",
-  "num_followers": 152313,
+  "num_followers": 152329,
   "original_name": "2010s Christian & Gospel",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "God's Not Dead",
-        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "God's Not Dead (Like A Lion)",
-      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
         "name": "Chain Breaker (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 196466,
       "name": "Chain Breaker",
       "url": "https://open.spotify.com/track/17GmwQ9Q3MTAz05OokmNNB"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
+        "name": "God's Not Dead",
+        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "God's Not Dead (Like A Lion)",
+      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 221079,
-      "name": "Just Be Held",
-      "url": "https://open.spotify.com/track/5t35FJYwzRt9MG3ae2O41L"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
         "name": "RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)",
         "url": "https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 215933,
       "name": "Fix My Eyes",
       "url": "https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 221079,
+      "name": "Just Be Held",
+      "url": "https://open.spotify.com/track/5t35FJYwzRt9MG3ae2O41L"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "We Cry Out: The Worship Project",
-        "url": "https://open.spotify.com/album/2WgiNIVBxWssJZbmdM53do"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 483560,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/1xBIgVOzLS8zbi4vcFSqMK"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
         "name": "The Light Meets The Dark",
         "url": "https://open.spotify.com/album/2c9nNyXr5tQu37gqH480Hq"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 217400,
       "name": "You Are More",
       "url": "https://open.spotify.com/track/72VNLbfQELdPaKMTNjT2eB"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
+        "name": "We Cry Out: The Worship Project",
+        "url": "https://open.spotify.com/album/2WgiNIVBxWssJZbmdM53do"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 483560,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/1xBIgVOzLS8zbi4vcFSqMK"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "Hope In Front of Me",
-        "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
+        "name": "The Generous Mr. Lovewell",
+        "url": "https://open.spotify.com/album/5YkrF5dVcUvDtL5k3vtob0"
       },
       "artists": [
         {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 233774,
-      "name": "Tell Your Heart To Beat Again",
-      "url": "https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x"
+      "duration_ms": 178066,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/4LyO5F0qQrST8XIVEPPk6P"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "The Generous Mr. Lovewell",
-        "url": "https://open.spotify.com/album/5YkrF5dVcUvDtL5k3vtob0"
+        "name": "Hope In Front of Me",
+        "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
       },
       "artists": [
         {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
         }
       ],
-      "duration_ms": 178066,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/4LyO5F0qQrST8XIVEPPk6P"
+      "duration_ms": 233774,
+      "name": "Tell Your Heart To Beat Again",
+      "url": "https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/7uJRbzmSGkzrDW7sT5SSWA"
-      },
-      "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 248217,
-      "name": "Manolo",
-      "url": "https://open.spotify.com/track/5QKG74VmetNQybSi4Hli9B"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
         "name": "Fresh Start",
         "url": "https://open.spotify.com/album/5x2mlaqEWywJ8YioOj2OpC"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 331613,
       "name": "Eye of the Storm (feat. Gabe Real)",
       "url": "https://open.spotify.com/track/4Uvjwj4KWFlyCULhR9zeTx"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/7uJRbzmSGkzrDW7sT5SSWA"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 248217,
+      "name": "Manolo",
+      "url": "https://open.spotify.com/track/5QKG74VmetNQybSi4Hli9B"
     },
     {
       "added_at": "2025-12-12 06:15:47",

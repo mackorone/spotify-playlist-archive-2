@@ -4,7 +4,7 @@
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-132 songs - 7 hr 18 min
+133 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Celebrate](https://open.spotify.com/track/2A9Pvf7B26rVgg6zE2rQ6v) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder: Book I](https://open.spotify.com/album/4S8qjpWwtNIFhD85SqEQ4v) | 2:40 | 2024-11-23 |  |
 | [Chainsmoking](https://open.spotify.com/track/1EZfCViOJ9XKFbwX8FkZUF) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 3:12 | 2021-12-28 |  |
 | [Claim To Fame](https://open.spotify.com/track/1QFzbzgffdy4XxxZvtxXAi) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Claim To Fame](https://open.spotify.com/album/787LMvGOkQv1Zx24FpscpJ) | 4:46 | 2026-03-15 | 2026-04-12 |
-| [Claim To Fame](https://open.spotify.com/track/4rBGEMauvu7JaEjFSG6p3s) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Claim To Fame](https://open.spotify.com/album/3ZoQcnaE1wrq2RjvgjMQBL) | 4:46 | 2026-04-12 |  |
+| [Claim To Fame](https://open.spotify.com/track/2oV0vuWcqfUxsXWDHtKiK8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Limerence](https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F) | 4:46 | 2026-04-24 |  |
+| [Claim To Fame](https://open.spotify.com/track/4rBGEMauvu7JaEjFSG6p3s) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Claim To Fame](https://open.spotify.com/album/3ZoQcnaE1wrq2RjvgjMQBL) | 4:46 | 2026-04-12 | 2026-04-24 |
 | [Coffee \(feat\. Jacob Banks\)](https://open.spotify.com/track/0sgWmb5j8NoyTFv97Wo3IW) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Postcards](https://open.spotify.com/album/5YYcCrRlLW0eyUJIghzV8p) | 2:22 | 2021-12-28 | 2024-07-14 |
 | [Come As You Are](https://open.spotify.com/track/3My1ZpeUT3Fc56GvxqtDo8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder: Book I](https://open.spotify.com/album/4S8qjpWwtNIFhD85SqEQ4v) | 2:30 | 2024-11-24 | 2025-04-19 |
 | [Come As You Are](https://open.spotify.com/track/4eG8ReP1LxznexabYaI6XH) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder](https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx) | 2:30 | 2025-08-02 | 2025-08-07 |
@@ -93,7 +94,7 @@
 | [On My Soul](https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [On My Soul](https://open.spotify.com/album/1I5QGY6wFJp0LjgDvbfV87) | 2:40 | 2023-05-20 |  |
 | [Only Way Is Up](https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ) | [Gaël Faye](https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lundi Méchant](https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv) | 3:51 | 2021-12-28 |  |
 | [Our Song](https://open.spotify.com/track/1nqvZEiWm2mNTma5dZOziC) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:22 | 2022-08-31 |  |
-| [Parachute](https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:11 | 2022-08-28 | 2026-04-13 |
+| [Parachute](https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:11 | 2022-08-28 |  |
 | [Parade](https://open.spotify.com/track/6qzA5ZUivvw1FCZJSVYoNE) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:16 | 2021-12-28 |  |
 | [Paris \(Interlude\)](https://open.spotify.com/track/5IGgGCX3RegkeEAgNvNQAr) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Limerence](https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F) | 0:56 | 2026-04-13 |  |
 | [Part Time Love](https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 2:49 | 2021-12-28 |  |
@@ -130,7 +131,7 @@
 | [Unknown \(To You\)](https://open.spotify.com/track/4jDDaKTqcZQWvgubuW6N7l) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 3:53 | 2021-12-28 |  |
 | [What Do You Love](https://open.spotify.com/track/4aB4udr3pcJuENmfDitPSZ) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [What Do You Love](https://open.spotify.com/album/4ltuKyjrU6A8AEo9JkNRdN) | 3:31 | 2021-12-28 |  |
 | [Where You Are](https://open.spotify.com/track/3SorhVpZkjyqRQJKJ4zM1g) | [Sons of Sonix](https://open.spotify.com/artist/24ml2a3Gc8V9UX6DfAhdqZ), [Seyi Shay](https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Time Zones & Tylenol](https://open.spotify.com/album/7ENBhxS8JNn1ZOs3aMk7wv) | 2:54 | 2024-08-15 | 2024-11-23 |
-| [Who Made You King?](https://open.spotify.com/track/5mEOVfaAOXSgHWoBZXvoWU) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Limerence](https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F) | 3:58 | 2026-04-14 |  |
+| [Who Made You King?](https://open.spotify.com/track/5mEOVfaAOXSgHWoBZXvoWU) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Limerence](https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F) | 3:58 | 2026-04-14 | 2026-04-24 |
 | [Won't Turn Back](https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 4:00 | 2022-08-27 |  |
 | [Worthy](https://open.spotify.com/track/0lUt61v9PK6Qrl0GjkTXAw) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL) | 3:17 | 2021-12-28 | 2022-09-25 |
 | [Worthy](https://open.spotify.com/track/1CZbcH7PL9aa5x6FCAtUKT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 3:17 | 2022-09-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWXT1CF0lO2.md) - [plain]
 
 > Ajude seu bebê a dormir com músicas relaxantes da Disney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,872 likes - 167 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,039 likes - 167 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWXT1CF0lO2.md) - [plain]
 | 146 | [Disney Junior Theme Song 2017 Refresh](https://open.spotify.com/track/0W1QZAOadJm7NlEGzFhESf) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:23 |
 | 147 | [Chim Chim Cher\-ee \- Instrumental](https://open.spotify.com/track/5W0fd00Zc88aHmSxX9BFJq) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Lullaby & Goodnight](https://open.spotify.com/album/5XM8EEuQ4D9EsygINToYny) | 2:39 |
 | 148 | [Bringing This Baby Home](https://open.spotify.com/track/3iYjMwH7KXoVU2gFVUC5kz) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:21 |
-| 149 | [Bedtime](https://open.spotify.com/track/6Fk3FHkenVKzkppY122Jsr) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 1:22 |
+| 149 | [Bedtime](https://open.spotify.com/track/6Fk3FHkenVKzkppY122Jsr) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [J.A.C\. Redford](https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 1:22 |
 | 150 | [A Dream Is A Wish Your Heart Makes](https://open.spotify.com/track/4tw2MGyKR4FW8vIShly7T9) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Princess Lullaby: Soothing Instrumental Lullabies For Little Princesses](https://open.spotify.com/album/3diwNCScanKXsiDgO1Etxn) | 2:55 |
 | 151 | [Lullaby and Goodnight](https://open.spotify.com/track/78DGsk0TY2sjHRfTVZmp4I) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 2](https://open.spotify.com/album/520WQQc962SKwk7dGYojxQ) | 1:23 |
 | 152 | [Rock\-a\-Bye Baby](https://open.spotify.com/track/337NNxsOqWueShlE1lozpQ) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:26 |

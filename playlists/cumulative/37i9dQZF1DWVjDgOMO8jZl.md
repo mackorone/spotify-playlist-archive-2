@@ -4,7 +4,7 @@
 
 > Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia\. Marte in cover.
 
-214 songs - 10 hr 9 min
+215 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Cuore Spezzato](https://open.spotify.com/track/7zKKDIJ2O9hU60D0QAMovz) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [Cuore Spezzato](https://open.spotify.com/album/6XhfFeVmH0ZjtKfhGRDRTq) | 3:46 | 2022-08-31 | 2023-04-12 |
 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 | 2024-12-12 | 2025-05-14 |
 | [Demo 14\_02\_daeliminare.mp3](https://open.spotify.com/track/4KYe7UW8G9LQqGTn8V52cf) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [Demo 14\_02\_daeliminare.mp3](https://open.spotify.com/album/6NeVjxs2Jg6e83nMTpjFcP) | 1:42 | 2023-04-11 | 2024-04-24 |
+| [DIOR$AVAGE](https://open.spotify.com/track/6hJZntir08iWIAVRx8YAEh) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [DIOR$AVAGE](https://open.spotify.com/album/5NtMHvTP6K9N6xwtQ9q7R5) | 2:30 | 2026-04-23 |  |
 | [DIPINGERE LA NOTTE](https://open.spotify.com/track/3Z5Pbe2pvKFwAAbL8E2rQY) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE 2.0](https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo) | 2:34 | 2022-11-07 | 2022-11-13 |
 | [DIPINGERE LA NOTTE](https://open.spotify.com/track/5A6Rrz4XBXPMRAlVN1tLOR) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 2:34 | 2022-08-31 | 2023-04-12 |
 | [Domani](https://open.spotify.com/track/3yMk7pMnagDE4UX7H70RFp) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Domani](https://open.spotify.com/album/07z28nrfMwEHEZCJM4Mecu) | 2:32 | 2022-08-31 | 2023-04-12 |

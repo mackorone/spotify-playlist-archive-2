@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-322 songs - 19 hr 36 min
+323 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [La Ciudad de las Estrellas](https://open.spotify.com/track/677GnwOJwoEG51xaRdYMe4) | [Pablopatodo](https://open.spotify.com/artist/14owTErTcmgIPS30z27tBA) | [La Ciudad de las Estrellas](https://open.spotify.com/album/7GSkEzkfsVnoy4uIykt7XE) | 3:48 | 2026-02-04 | 2026-02-25 |
 | [La Loca Con Ancla](https://open.spotify.com/track/1x582FY63ErBAC5CafxTnM) | [Sexbasstian](https://open.spotify.com/artist/4p5dHOfoagYZjykFlyClIf) | [ACT](https://open.spotify.com/album/2T0zUxpubg0QwiCn8NTiRZ) | 3:58 | 2026-01-29 | 2026-02-25 |
 | [Last Chance](https://open.spotify.com/track/5lAdDCVg6gDfwnYqdtdolh) | [StainTown](https://open.spotify.com/artist/3F32cBk6qpCF5882GQck5o) | [Last Chance](https://open.spotify.com/album/4SBD0xXWkovvYJVlFdZi1D) | 3:09 | 2026-03-20 | 2026-04-15 |
+| [Last Dance](https://open.spotify.com/track/7pCxiJ03tUx5u1ZkaUIsT0) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [Nervous Systems](https://open.spotify.com/album/4w1MzmNEvgMWzLApXX3eml) | 3:17 | 2026-04-23 |  |
 | [Last String](https://open.spotify.com/track/1c3Nso9d1oMWGR9YCWsNhI) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Down](https://open.spotify.com/album/41OIZc7GGve2d6Upc7MRhu) | 4:12 | 2025-12-13 | 2026-01-05 |
 | [Le Voyage Dans La Lune\`](https://open.spotify.com/track/2DynYhI3uQaG4noHkRTcun) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Le Voyage Dans La Lune\`](https://open.spotify.com/album/6kZea5A0pO9KcmLb8L5u7X) | 4:23 | 2025-12-22 | 2026-01-21 |
 | [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 | 2026-01-19 | 2026-02-25 |

@@ -341,6 +341,32 @@
     },
     {
       "album": {
+        "name": "HOPE!!",
+        "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Bando (feat. Pharrell Williams & Quavo)",
+      "url": "https://open.spotify.com/track/2QfnsYXUpkiCNG56W2aW7I"
+    },
+    {
+      "album": {
         "name": "barry wonder",
         "url": "https://open.spotify.com/album/6TNtDvgFGVACXM3JUWtzRt"
       },
@@ -690,7 +716,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 172053,
       "name": "COMMAS",
       "url": "https://open.spotify.com/track/1RVBT05e3P6vtziIXxTfZB"

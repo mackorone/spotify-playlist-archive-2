@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Manuel Turizo , Shakira, Rauw Alejandro and more!!! Cover: Shakira &amp; Beéle
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 52,785 likes - 96 songs - 5 hr 1 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 52,780 likes - 97 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,5 +104,6 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 | 94 | [La Culpa](https://open.spotify.com/track/0HrjmpsXPaCGm5wnDRA1rJ) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [PUERTA ABIERTA](https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P) | 2:39 |
 | 95 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 |
 | 96 | [Divina \- En Vivo Coliseo de Puerto Rico](https://open.spotify.com/track/18cnKKqYMWyCGDYoBZUGT9) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Divina \(En Vivo Coliseo de Puerto Rico\)](https://open.spotify.com/album/3CmeFFS7qeZFdsohBBPqut) | 3:31 |
+| 97 | [Dando Vueltas](https://open.spotify.com/track/60vtpwMWSvG50mv5419s4R) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Dando Vueltas](https://open.spotify.com/album/3U31M9OPy3eT9v4cxaePof) | 3:12 |
 
-Snapshot ID: `AAAUdmpw9tvCDzHwznh4uK8fX2YeQHFH`
+Snapshot ID: `AAAUd8TgPxG7Qp6U2RF+e2ZYdeQVnk59`

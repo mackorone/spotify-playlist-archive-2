@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 81394,
+  "num_followers": 81391,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-04-21 07:35:35",
       "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 140637,
+      "name": "Chill Baby",
+      "url": "https://open.spotify.com/track/0qpdzfTxAkOREtvvGO5oew"
+    },
+    {
+      "added_at": "2026-04-21 07:35:35",
+      "album": {
         "name": "On The Lips",
         "url": "https://open.spotify.com/album/2EaFjK4isYVM689kcpyIAY"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 195266,
       "name": "Crushed Velvet",
       "url": "https://open.spotify.com/track/0ot8VA36fmxBlIqa5xbnf7"
-    },
-    {
-      "added_at": "2026-04-21 07:35:35",
-      "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 140637,
-      "name": "Chill Baby",
-      "url": "https://open.spotify.com/track/0qpdzfTxAkOREtvvGO5oew"
     },
     {
       "added_at": "2026-04-21 07:35:35",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-04-21 07:35:35",
       "album": {
-        "name": "Two Star & The Dream Police",
-        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 198295,
-      "name": "Alesis",
-      "url": "https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG"
-    },
-    {
-      "added_at": "2026-04-21 07:35:35",
-      "album": {
         "name": "I Love You Out Loud",
         "url": "https://open.spotify.com/album/4duEYFqitqYj9e7jD2B80M"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 213023,
       "name": "I Love You Out Loud",
       "url": "https://open.spotify.com/track/7svayygEZXPdOBQ2MoH2ZP"
+    },
+    {
+      "added_at": "2026-04-21 07:35:35",
+      "album": {
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 198295,
+      "name": "Alesis",
+      "url": "https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG"
     },
     {
       "added_at": "2026-04-21 07:35:35",

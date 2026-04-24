@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWW4igXXl2Qkp)
 
-> The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:6rYO569C4mZHQUP7Q2oiDN">ffawty</a>
+> The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:1MPNKNARfonIxUk1GXsEKx">Shaudie Man</a>
 
 2,302 songs - 4 day 1 hr 57 min
 

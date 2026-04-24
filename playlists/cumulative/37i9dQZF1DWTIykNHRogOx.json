@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Noor",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec ESTL",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -505,6 +505,24 @@
     },
     {
       "album": {
+        "name": "bonjour mon amour, bonne nuit.",
+        "url": "https://open.spotify.com/album/2JYLJM6efgqZQ7treAnsn1"
+      },
+      "artists": [
+        {
+          "name": "Hermance",
+          "url": "https://open.spotify.com/artist/06pkb3CsbufVE05fENCofS"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163359,
+      "name": "bonjour mon amour, bonne nuit.",
+      "url": "https://open.spotify.com/track/02JicXcJJFbV2J5c8RkQxX"
+    },
+    {
+      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/1njh9CTA7moOYkmr6BdaNl"
       },
@@ -729,6 +747,24 @@
     },
     {
       "album": {
+        "name": "Chaussures Roses",
+        "url": "https://open.spotify.com/album/7BbGTT6BxkSEK9nyIzwi8t"
+      },
+      "artists": [
+        {
+          "name": "TeddyBear",
+          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201299,
+      "name": "Chaussures Roses",
+      "url": "https://open.spotify.com/track/4cLspfLk7lebgQMDoZgSKD"
+    },
+    {
+      "album": {
         "name": "Chevaleresse",
         "url": "https://open.spotify.com/album/3c36IcRSFD58b9daUvhIXl"
       },
@@ -892,6 +928,24 @@
       "duration_ms": 196920,
       "name": "D'avoir v\u00e9cu assez",
       "url": "https://open.spotify.com/track/6tesGbKz1I8Cj4dqfbzUe5"
+    },
+    {
+      "album": {
+        "name": "failles",
+        "url": "https://open.spotify.com/album/59KVd55KRAsVfJZnll4Mvk"
+      },
+      "artists": [
+        {
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177863,
+      "name": "dans dix ans",
+      "url": "https://open.spotify.com/track/3UtLuUgIu1112NWvRb4g4G"
     },
     {
       "album": {
@@ -3286,7 +3340,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 167111,
       "name": "Les ins\u00e9parables",
       "url": "https://open.spotify.com/track/2mJInqoONdxGcDDdf2A5Hb"
@@ -3748,7 +3802,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 148834,
       "name": "mieux",
       "url": "https://open.spotify.com/track/6TT84kS4SrX4HX191MiTJK"
@@ -4354,6 +4408,24 @@
       "duration_ms": 188253,
       "name": "Plusieurs",
       "url": "https://open.spotify.com/track/3iSW2g3seqcGRihjkwwh6l"
+    },
+    {
+      "album": {
+        "name": "Pour ce qui nous attend de mieux",
+        "url": "https://open.spotify.com/album/74VybRhzx6qlglHu0lWZb6"
+      },
+      "artists": [
+        {
+          "name": "Ys\u00e9",
+          "url": "https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249480,
+      "name": "Pour ce qui nous attend de mieux",
+      "url": "https://open.spotify.com/track/5kcR5em23qzAuYno6IiOuX"
     },
     {
       "album": {
@@ -4986,7 +5058,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 251893,
       "name": "Soleil profond",
       "url": "https://open.spotify.com/track/29kFcRcb57sJwNSpFs9HaL"
@@ -5774,7 +5846,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 196800,
       "name": "\u00c6thernit\u00e9",
       "url": "https://open.spotify.com/track/0UDavOLP39jnNVJR1fg3wO"

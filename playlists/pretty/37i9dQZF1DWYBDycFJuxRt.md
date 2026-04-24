@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Kan Sano \*👉 <a href="https://spice.eplus.jp/articles/345643">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,221 likes - 78 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,246 likes - 78 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 33 | [黄色い](https://open.spotify.com/track/2Pzo1bYmtWfAVcPHUD6Ypm) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [なんてHAPPY LUCKY](https://open.spotify.com/album/1NTvfq8M9U8vEBmY0rQwo3) | 2:14 |
 | 34 | [TOKYO TECHNOLOGIA!](https://open.spotify.com/track/4cT1ru5d4nKmLWNhxyU1yk) | [ผ้าอ้อม99999](https://open.spotify.com/artist/5tpfTW6vWImBBePPUQgAq8) | [pop slop](https://open.spotify.com/album/12cADfSP507N0PA5xVT57v) | 2:10 |
 | 35 | [SAITAMA DANCE MIRROR BALLERS!!! 2](https://open.spotify.com/track/5JSmrjxtVtve0YSL4bsA5j) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ) | [THIS IS A DISCO CALL!!!](https://open.spotify.com/album/7uDdlyqhRRz8cLzEmUrwIe) | 3:52 |
-| 36 | [Star](https://open.spotify.com/track/3ciMhT60bphuNXyJSymDGm) | [HekA](https://open.spotify.com/artist/2KpKJbe1qq9BW4Fm50zTwx), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Star](https://open.spotify.com/album/4MI8Nc2mprUYMMqSpQppjd) | 2:27 |
+| 36 | [Star](https://open.spotify.com/track/3ciMhT60bphuNXyJSymDGm) | [HekA](https://open.spotify.com/artist/2KpKJbe1qq9BW4Fm50zTwx), [KM](https://open.spotify.com/artist/4ROi1OhyKNZTE9MH2L8rA8) | [Star](https://open.spotify.com/album/4MI8Nc2mprUYMMqSpQppjd) | 2:27 |
 | 37 | [Unfinished Story](https://open.spotify.com/track/3qoOdiMH0Fx4UcikyqDbZ4) | [YDIZZY](https://open.spotify.com/artist/7IhH3sGwKqQCdtYylRSewz), [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Unfinished Story](https://open.spotify.com/album/0BqHCVVZ4ksNUX8K48AYuV) | 2:55 |
 | 38 | [MISS U \(feat\. Harashima"Domannaka"Michiyoshi\)](https://open.spotify.com/track/0VdfClVG3p3rSPaPbUgR7I) | [TAXMEN](https://open.spotify.com/artist/3jPLkrcUodhzpbCXABDixk), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [OMSB](https://open.spotify.com/artist/69qFe6XoI53jVctgtSug7d), [Harashima"Domannaka"Michiyoshi](https://open.spotify.com/artist/1uVH5Q72TdNzI5AJYiQGs6) | [MISS U \(feat\. Harashima"Domannaka"Michiyoshi\)](https://open.spotify.com/album/1NUNJC2RWzoLz6qgf1bloP) | 3:11 |
 | 39 | [Heart of Rainbow](https://open.spotify.com/track/5aBMOm2RJe0mlKaNKDirot) | [.ENDRECHERI.](https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78) | [Heart of Rainbow](https://open.spotify.com/album/78ACz5XAT1ZGgaF8wAU7Kr) | 4:37 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvqwwMRhV5l.md) - [plain]
 
 > Allerbeste songs uit de 00's! Cover: Dinand Woesthoff \(Kane\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,557 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,567 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 |
 | 2 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 |
-| 3 | [This Love](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 3:26 |
-| 4 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 |
+| 3 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 |
+| 4 | [This Love](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 3:26 |
 | 5 | [Somewhere Only We Know](https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd) | 3:57 |
 | 6 | [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:07 |
 | 7 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvqwwMRhV5l.md) - [plain]
 | 85 | [Built to Last](https://open.spotify.com/track/4x907tqu1ai70Sz6xLrK2E) | [Mêlée](https://open.spotify.com/artist/1koahA4L2b5ZFjaFC05pbk) | [Devils & Angels \(Standard Version\)](https://open.spotify.com/album/61odM371Gpn80O2CxwvRfW) | 3:41 |
 | 86 | [Inside My Head](https://open.spotify.com/track/5UtvhLYNU64o73VrYjzbZY) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Discover](https://open.spotify.com/album/2gfEHNSCClgdKQB4VeoYV7) | 3:24 |
 | 87 | [Rain Down on Me](https://open.spotify.com/track/2rRY9uu2SQge80Ifw58cfU) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [What If](https://open.spotify.com/album/017yxja9vdCVr1lBnD22f1) | 4:06 |
-| 88 | [Nine Million Bicycles](https://open.spotify.com/track/258WCBHPsUHZvyBJcY2LCw) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Piece By Piece](https://open.spotify.com/album/4BoYXQwGGdlxKEKXNZcxjJ) | 3:15 |
-| 89 | [Left Outside Alone](https://open.spotify.com/track/3OLf2Gid7GdhRBPKi1ZPeP) | [Anastacia](https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH) | [The Best of Anastacia](https://open.spotify.com/album/0uO5BAM0HsJoC4PQxXKDAf) | 4:18 |
+| 88 | [Left Outside Alone](https://open.spotify.com/track/3OLf2Gid7GdhRBPKi1ZPeP) | [Anastacia](https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH) | [The Best of Anastacia](https://open.spotify.com/album/0uO5BAM0HsJoC4PQxXKDAf) | 4:18 |
+| 89 | [Nine Million Bicycles](https://open.spotify.com/track/258WCBHPsUHZvyBJcY2LCw) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Piece By Piece](https://open.spotify.com/album/4BoYXQwGGdlxKEKXNZcxjJ) | 3:15 |
 | 90 | [Hallelujah](https://open.spotify.com/track/0m86OeKQHxdpygDPzGQUPK) | [Lisa Lois](https://open.spotify.com/artist/1dGsUN9Hwx78H6MdDquxLL) | [Hallelujah](https://open.spotify.com/album/6gBHHYfOLj1FgZIqU3ujbr) | 3:46 |
 | 91 | [Human](https://open.spotify.com/track/2uun7r1VosRzqTQZmffCu6) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Human](https://open.spotify.com/album/27hKWiXQLpKFwX7BlQvQwI) | 4:06 |
 | 92 | [Chariot](https://open.spotify.com/track/08Vij9GYqUjyAgSvcJxWW6) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Finest Hour: The Best of Gavin DeGraw](https://open.spotify.com/album/0IMzbxnAqwRi6sm9s5oOJO) | 4:00 |

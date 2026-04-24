@@ -1,6 +1,6 @@
 {
   "description": "S\u00f3 pra quem usa a colher de pau como microfone.",
-  "num_followers": 194681,
+  "num_followers": 194690,
   "original_name": "Cantando na Cozinha",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-06-28 03:29:18",
       "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 364441,
+      "name": "Don't Stop 'Til You Get Enough",
+      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
+    },
+    {
+      "added_at": "2024-06-28 03:29:18",
+      "album": {
         "name": "Version",
         "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
       },
@@ -147,22 +163,6 @@
     {
       "added_at": "2024-06-28 03:29:18",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 364441,
-      "name": "Don't Stop 'Til You Get Enough",
-      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
-    },
-    {
-      "added_at": "2024-06-28 03:29:18",
-      "album": {
         "name": "She's So Unusual",
         "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-06-28 03:29:18",
       "album": {
-        "name": "G I R L",
-        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "Happy - From \"Despicable Me 2\"",
-      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
-    },
-    {
-      "added_at": "2024-06-28 03:29:18",
-      "album": {
         "name": "Confessions on a Dance Floor",
         "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 337733,
       "name": "Hung Up",
       "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
+    },
+    {
+      "added_at": "2024-06-28 03:29:18",
+      "album": {
+        "name": "G I R L",
+        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 233306,
+      "name": "Happy - From \"Despicable Me 2\"",
+      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
     },
     {
       "added_at": "2024-06-28 03:29:18",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-06-28 03:29:18",
       "album": {
-        "name": "Life, Love & The Blues",
-        "url": "https://open.spotify.com/album/4PixeMJJQqW5TjrwRK2Rzm"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 320840,
-      "name": "If You Want Me to Stay",
-      "url": "https://open.spotify.com/track/3ux4SABKVVgyXzB0A4D2zQ"
-    },
-    {
-      "added_at": "2024-06-28 03:29:18",
-      "album": {
         "name": "I'll Be There (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/6H6yQWiRb6Rm2JfBK7C7nB"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 217849,
       "name": "I'll Be There (feat. Nile Rodgers) - Single Version",
       "url": "https://open.spotify.com/track/6xKmaLfne8mU7DYcqvCtSB"
+    },
+    {
+      "added_at": "2024-06-28 03:29:18",
+      "album": {
+        "name": "Life, Love & The Blues",
+        "url": "https://open.spotify.com/album/4PixeMJJQqW5TjrwRK2Rzm"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 320840,
+      "name": "If You Want Me to Stay",
+      "url": "https://open.spotify.com/track/3ux4SABKVVgyXzB0A4D2zQ"
     },
     {
       "added_at": "2024-06-28 03:29:18",

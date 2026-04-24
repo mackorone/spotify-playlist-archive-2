@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1294,
+  "num_followers": 1295,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAATY+vbJRGH0y6KU6WpEyofOuyXLwZc",
+  "snapshot_id": "AAATahX4cy3IJn9rJZfMzijsRncYDqo5",
   "tracks": [
     {
       "added_at": "2026-04-10 10:13:55",
@@ -321,22 +321,6 @@
       "url": "https://open.spotify.com/track/0CZfa975EMmjpUrX7H4kxo"
     },
     {
-      "added_at": "2026-01-08 11:10:57",
-      "album": {
-        "name": "Allora come ti va",
-        "url": "https://open.spotify.com/album/2kIGDCh4ia1nJP38hvN6QH"
-      },
-      "artists": [
-        {
-          "name": "David Monni",
-          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
-        }
-      ],
-      "duration_ms": 278576,
-      "name": "Allora come ti va",
-      "url": "https://open.spotify.com/track/1e4XmtctCBleGXpwMFL2uS"
-    },
-    {
       "added_at": "2026-04-07 10:34:15",
       "album": {
         "name": "Confession to Make",
@@ -351,6 +335,22 @@
       "duration_ms": 233333,
       "name": "Confession to Make",
       "url": "https://open.spotify.com/track/4BWbeI8yxhm6syj4P3K9yl"
+    },
+    {
+      "added_at": "2026-01-08 11:10:57",
+      "album": {
+        "name": "Allora come ti va",
+        "url": "https://open.spotify.com/album/2kIGDCh4ia1nJP38hvN6QH"
+      },
+      "artists": [
+        {
+          "name": "David Monni",
+          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
+        }
+      ],
+      "duration_ms": 278576,
+      "name": "Allora come ti va",
+      "url": "https://open.spotify.com/track/1e4XmtctCBleGXpwMFL2uS"
     },
     {
       "added_at": "2026-02-27 10:41:07",
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/3SsGRoRZ4nkumHu6aNwxZ2"
     },
     {
-      "added_at": "2025-11-28 08:14:38",
-      "album": {
-        "name": "Ma Cos'\u00e8",
-        "url": "https://open.spotify.com/album/17ghqeoryUABi6pcl7lS1Z"
-      },
-      "artists": [
-        {
-          "name": "David Monni",
-          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
-        }
-      ],
-      "duration_ms": 255006,
-      "name": "Ma Cos'\u00e8",
-      "url": "https://open.spotify.com/track/1RceYnI7VePLr2haxuuRYw"
-    },
-    {
       "added_at": "2026-01-09 12:08:22",
       "album": {
         "name": "Mia Famiglia",
@@ -443,6 +427,22 @@
       "duration_ms": 257641,
       "name": "Mia Famiglia",
       "url": "https://open.spotify.com/track/0qW4zEOpPIKQffT2J9Vt4M"
+    },
+    {
+      "added_at": "2025-11-28 08:14:38",
+      "album": {
+        "name": "Ma Cos'\u00e8",
+        "url": "https://open.spotify.com/album/17ghqeoryUABi6pcl7lS1Z"
+      },
+      "artists": [
+        {
+          "name": "David Monni",
+          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
+        }
+      ],
+      "duration_ms": 255006,
+      "name": "Ma Cos'\u00e8",
+      "url": "https://open.spotify.com/track/1RceYnI7VePLr2haxuuRYw"
     },
     {
       "added_at": "2026-03-28 09:29:26",
@@ -2311,6 +2311,86 @@
       "duration_ms": 253128,
       "name": "Grace is Gone",
       "url": "https://open.spotify.com/track/5QyGhIs60QO3KOVMv7X54y"
+    },
+    {
+      "added_at": "2026-04-23 08:08:13",
+      "album": {
+        "name": "Why Not Take A Chance",
+        "url": "https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey"
+      },
+      "artists": [
+        {
+          "name": "Mary Wiles",
+          "url": "https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl"
+        }
+      ],
+      "duration_ms": 231040,
+      "name": "Moonlight In Her Eyes",
+      "url": "https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO"
+    },
+    {
+      "added_at": "2026-04-23 08:08:27",
+      "album": {
+        "name": "Look to the Left, Look to the Right",
+        "url": "https://open.spotify.com/album/6o7NXuKePoAU6DWH7qEGPB"
+      },
+      "artists": [
+        {
+          "name": "Aleksi Oksanen",
+          "url": "https://open.spotify.com/artist/57ykQsgvmUWPQbIMpiyiH2"
+        }
+      ],
+      "duration_ms": 112991,
+      "name": "Look to the Left, Look to the Right",
+      "url": "https://open.spotify.com/track/36ysdfAFO9qWTEdKWdQDiM"
+    },
+    {
+      "added_at": "2026-04-23 08:08:40",
+      "album": {
+        "name": "Per Sempre Noi",
+        "url": "https://open.spotify.com/album/6DaxUZvE65MuDKgQq4NUCP"
+      },
+      "artists": [
+        {
+          "name": "RYCKI",
+          "url": "https://open.spotify.com/artist/5tlokK5dnH5D4qunFcA6ZE"
+        }
+      ],
+      "duration_ms": 175695,
+      "name": "Per Sempre Noi",
+      "url": "https://open.spotify.com/track/02AlhDZDgOq5mR9Uqdpw9A"
+    },
+    {
+      "added_at": "2026-04-23 08:09:07",
+      "album": {
+        "name": "Clock Won't Fix Us",
+        "url": "https://open.spotify.com/album/54XyWhtJqkO2ihmc9VrXMK"
+      },
+      "artists": [
+        {
+          "name": "Zaara",
+          "url": "https://open.spotify.com/artist/0QuY5zWGOpvYWNTPltuTDd"
+        }
+      ],
+      "duration_ms": 267199,
+      "name": "Clock Won't Fix Us",
+      "url": "https://open.spotify.com/track/5IHk26pRARBqre0j3qW4us"
+    },
+    {
+      "added_at": "2026-04-23 08:09:20",
+      "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/4fFxum7G5Pm3RD94GHk2VY"
+      },
+      "artists": [
+        {
+          "name": "Maxine Louise",
+          "url": "https://open.spotify.com/artist/3vOuuR55nZMwjEluo4Su6d"
+        }
+      ],
+      "duration_ms": 184373,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/3PXC71Anog78H0WlzANi49"
     }
   ],
   "unique_name": "New Indie Music",

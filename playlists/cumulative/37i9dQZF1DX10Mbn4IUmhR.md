@@ -4,7 +4,7 @@
 
 > Your frequency for today's hottest pop tracks in Mzansi\. Cover: Tyla & Zara Larsson
 
-781 songs - 1 day 17 hr 25 min
+784 songs - 1 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 | 2025-03-20 | 2025-04-25 |
 | [All That I Am](https://open.spotify.com/track/6VcJDLVNppqqFHGkQcs0kb) | [PSILK](https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6) | [All That I Am](https://open.spotify.com/album/0Q3mPbwZR61xAOsvtXA95R) | 2:23 | 2025-06-20 | 2025-06-27 |
 | [All the Lovely Things](https://open.spotify.com/track/5J0uw6zmJFrng7Y8brIyaa) | [Tannah](https://open.spotify.com/artist/270Y3Rs9z9a0Ut9xBwpzC8) | [All the Lovely Things](https://open.spotify.com/album/7FHDb4L2YllAJvzfd5C99x) | 3:28 | 2025-09-25 | 2026-01-24 |
+| [All The Things](https://open.spotify.com/track/0Wknp7wThnRkNl2xw4h19g) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [All The Things](https://open.spotify.com/album/2RGi75eKSdLPC99WnzMggs) | 3:01 | 2026-04-23 |  |
 | [All This Love](https://open.spotify.com/track/5FJ9s2pIXu7Efs37yfM3JO) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [How To Be Human](https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe) | 3:25 | 2026-01-23 |  |
 | [Allegedly \(with Teddy Swims\)](https://open.spotify.com/track/5bugu0yAVStPJF7InoYUEG) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Allegedly \(with Teddy Swims\)](https://open.spotify.com/album/55Va9EHIUIhu1dGeFuvUvt) | 3:36 | 2026-01-23 |  |
 | [Almost Famous](https://open.spotify.com/track/4h58Iqv6QvNAasM5ePA2or) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx), [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB) | [Almost Famous](https://open.spotify.com/album/1SOSnWv762jANFBAXNtiSG) | 2:46 | 2025-12-19 | 2026-01-24 |
@@ -464,6 +465,7 @@
 | [MWA! \- English Version](https://open.spotify.com/track/5vnDIS4pm26ZoRDVlDjbNu) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [MWA!](https://open.spotify.com/album/6EzWTrfOQPvSUVkSUjGLOr) | 2:09 | 2025-06-12 | 2025-06-16 |
 | [My Calling](https://open.spotify.com/track/5aIqSdUGrgkpmx4IY99g4p) | [SONIQUE](https://open.spotify.com/artist/4aEmFQl0nUAtz6Rb0QreCB) | [My Calling](https://open.spotify.com/album/4ZtGUVXuRQv5Q9d2L9OLzB) | 3:31 | 2025-03-13 | 2025-03-21 |
 | [MY EVERYTHING](https://open.spotify.com/track/45SDkqqvrrJmTAC70jKcr8) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG) | [PARADISE LOST](https://open.spotify.com/album/57X2ytsj3pZbog809Pt7r9) | 3:16 | 2026-03-20 |  |
+| [My Hallelujah](https://open.spotify.com/track/1Dd3Id44SgNl259jeJGSQ6) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [My Hallelujah](https://open.spotify.com/album/1xe4bQw3TDN3sFzTD4nrcL) | 2:59 | 2026-04-23 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2026-01-23 |  |
 | [My Sweet Lullaby](https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [My Sweet Lullaby](https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5) | 3:25 | 2026-02-13 |  |
 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-04-24 | 2026-01-24 |
@@ -676,6 +678,7 @@
 | [There's Just Something About Her](https://open.spotify.com/track/7Ae3TUjIzn3gIHPMpZKhot) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [How To Be Human](https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe) | 3:12 | 2026-01-23 |  |
 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-06-27 | 2024-07-12 |
 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 | 2025-03-20 | 2025-05-23 |
+| [THIRTY THR33](https://open.spotify.com/track/72ENQ88U6QPVJKjeco45lW) | [Erin Elliot](https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1) | [THIRTY THR33](https://open.spotify.com/album/6nWpLB3vPx87yFsRxTf8tz) | 2:56 | 2026-04-23 |  |
 | [This Love](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 3:26 | 2025-03-27 | 2025-04-04 |
 | [Through](https://open.spotify.com/track/0fiS6BJQ5Kj10hbCR0Jmkp) | [Alexa Haasbroek](https://open.spotify.com/artist/2mzhvnhLntaNYheLVVmFEY) | [Through](https://open.spotify.com/album/4fllSvknMq23MM4pEzzQLl) | 2:49 | 2025-05-15 | 2025-06-24 |
 | [Through the Windowsill](https://open.spotify.com/track/6bWgljsieAr0YhZtKrqLzq) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Through the Windowsill](https://open.spotify.com/album/59KdqWni3CiDMMpnUQB00e) | 3:04 | 2024-07-11 | 2024-07-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">Fresh Finds</a>  tracks around the world this year\. Cover: The Belair Lip Bombs
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,946 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,947 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 43 | [other boys are boring](https://open.spotify.com/track/4GBZaVt4WS0OpK4WERsFZ3) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [other boys are boring](https://open.spotify.com/album/64pyxehnihFcz81L645ezR) | 2:20 |
 | 44 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
 | 45 | [Perfect](https://open.spotify.com/track/1ZE95YrQTRP8zqMNWhySjP) | [Ochaè](https://open.spotify.com/artist/3BQA6DkdnDx5Gd07dFgFeI) | [Perfect](https://open.spotify.com/album/5m1g4NScg6USxohPQIYpz2) | 3:25 |
-| 46 | [The Actor](https://open.spotify.com/track/4LtcR3gIVqoNDTf1KyTxdu) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 2:50 |
-| 47 | [Call U Back](https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Call U Back](https://open.spotify.com/album/3Pbiv3ZCM6WWehbB0nj2It) | 3:04 |
+| 46 | [Call U Back](https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Call U Back](https://open.spotify.com/album/3Pbiv3ZCM6WWehbB0nj2It) | 3:04 |
+| 47 | [The Actor](https://open.spotify.com/track/4LtcR3gIVqoNDTf1KyTxdu) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 2:50 |
 | 48 | [coming around](https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ) | [fliss](https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX) | [coming around](https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq) | 3:42 |
-| 49 | [After All This Time](https://open.spotify.com/track/6R6cldyeIPH1pBGrSUYBJ8) | [Van Buren](https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl) | [After All This Time](https://open.spotify.com/album/5DCcYRli3V8rdF0gn5BSz2) | 3:38 |
-| 50 | [take it anymore](https://open.spotify.com/track/1xhY8mN2VsxxOUpAYH93Pe) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [take it anymore](https://open.spotify.com/album/1IiXKFVzxOmjpQaGsrgbdz) | 2:41 |
+| 49 | [take it anymore](https://open.spotify.com/track/1xhY8mN2VsxxOUpAYH93Pe) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [take it anymore](https://open.spotify.com/album/1IiXKFVzxOmjpQaGsrgbdz) | 2:41 |
+| 50 | [After All This Time](https://open.spotify.com/track/6R6cldyeIPH1pBGrSUYBJ8) | [Van Buren](https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl) | [After All This Time](https://open.spotify.com/album/5DCcYRli3V8rdF0gn5BSz2) | 3:38 |
 | 51 | [IDK](https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Entries](https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx) | 1:57 |
 | 52 | [All I Really Want](https://open.spotify.com/track/0EQL9rp9Y1a8j7MfEmq62Q) | [Yes Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [All I Really Want](https://open.spotify.com/album/25d7TamaIpa6Z10bX0a8Lu) | 3:13 |
 | 53 | [you're such a good girl?](https://open.spotify.com/track/4ipDXHc66uOSZ1igOKvOvC) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [you're such a good girl?](https://open.spotify.com/album/6GdJmhqYSSqBuee6DsyjND) | 2:47 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 58 | [I CHOSE YOU](https://open.spotify.com/track/1PjO51wQ3ZdzaLorG3M7M1) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 3:44 |
 | 59 | [See You Around](https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [See You Around](https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf) | 4:02 |
 | 60 | [eYeSiGht](https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [eYeSiGht](https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y) | 2:23 |
-| 61 | [My Endeavour](https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Somersault Queen](https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm) | 4:05 |
-| 62 | [Sibeeria](https://open.spotify.com/track/7f7hbdmYKry7GJHLLw0my9) | [doggone](https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt) | [Sibeeria](https://open.spotify.com/album/16oynJh4jhy9XX1G2963zT) | 2:51 |
+| 61 | [Sibeeria](https://open.spotify.com/track/7f7hbdmYKry7GJHLLw0my9) | [doggone](https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt) | [Sibeeria](https://open.spotify.com/album/16oynJh4jhy9XX1G2963zT) | 2:51 |
+| 62 | [My Endeavour](https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Somersault Queen](https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm) | 4:05 |
 | 63 | [Nkosi's Fantasia](https://open.spotify.com/track/0imRQRfzB7MW7zruc0RbLZ) | [Miki Ikhifa](https://open.spotify.com/artist/1U99EbW3KOGlztHeHqSjfo), [Nubalix](https://open.spotify.com/artist/6VdWeYimGqEwBMc0PQ1E5A) | [Nkosi's Fantasia: Chapter One](https://open.spotify.com/album/3dyG11vpxbE57LPrqfJZ7v) | 4:16 |
 | 64 | [be careful](https://open.spotify.com/track/2fqJrp3PktgwVUzRnTBc2Z) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [be careful](https://open.spotify.com/album/3PxqagBffynXxUsGlEcgNr) | 3:23 |
 | 65 | [Yeh Duniya Jala Do](https://open.spotify.com/track/15Z1xuTPQjErBcsaFpunGg) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Yeh Duniya Jala Do](https://open.spotify.com/album/6PUDZpIB7D6WrRMI8DufL6) | 3:50 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 68 | [Mona Lisa \(Bang Bang\)](https://open.spotify.com/track/6v1JjezMLHbINEEq4Ch1lU) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [Mona Lisa \(Bang Bang\)](https://open.spotify.com/album/735qzpsVhgEYoPjTrnAHSD) | 2:55 |
 | 69 | [Play](https://open.spotify.com/track/4iE0gwQnXHc7I9bbTkzlhm) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Friend](https://open.spotify.com/album/5clpTIKRLA4BTRVwrtacPp) | 4:34 |
 | 70 | [BADASS](https://open.spotify.com/track/3xYk4ZSzHGS6lw5hBg0xKm) | [GENBLUE幻藍小熊](https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz) | [MIRROR](https://open.spotify.com/album/7II69468wP63QJ5ZevVFCP) | 2:55 |
-| 71 | [BLIND](https://open.spotify.com/track/2OmnzMLTn0mx6iXrp4VBjz) | [EJ Ross](https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB), [Jay Versace](https://open.spotify.com/artist/0FBoLKOReQgeA0Oe2pcDF5) | [BLIND](https://open.spotify.com/album/5MBqQGtqtrh3Vrw1aVA4ZB) | 3:02 |
-| 72 | [Rocky](https://open.spotify.com/track/3vtnL1iTgAL0ZBxgVkKFrs) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Rocky](https://open.spotify.com/album/4OpT4b3qqq8pxu5urbFCPB) | 2:23 |
+| 71 | [Rocky](https://open.spotify.com/track/3vtnL1iTgAL0ZBxgVkKFrs) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Rocky](https://open.spotify.com/album/4OpT4b3qqq8pxu5urbFCPB) | 2:23 |
+| 72 | [BLIND](https://open.spotify.com/track/2OmnzMLTn0mx6iXrp4VBjz) | [EJ Ross](https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB), [Jay Versace](https://open.spotify.com/artist/0FBoLKOReQgeA0Oe2pcDF5) | [BLIND](https://open.spotify.com/album/5MBqQGtqtrh3Vrw1aVA4ZB) | 3:02 |
 | 73 | [I Want It All](https://open.spotify.com/track/711qQxgXzTRc7UzXBG8MHe) | [Ullah](https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP) | [I Want It All](https://open.spotify.com/album/3RJmsUsvKZyneGHeZPOYqg) | 3:36 |
 | 74 | [Vital Loop](https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Vital Loop](https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3) | 3:56 |
-| 75 | [Pernah Dicinta](https://open.spotify.com/track/3H1rqS1WKdTGbO27XETY8V) | [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Pernah Dicinta](https://open.spotify.com/album/6TWJ0R2mziIZM97nBmAnQZ) | 4:16 |
+| 75 | [O’ Kay Tamis](https://open.spotify.com/track/1s1nPYN5ryw0OHejNO0eAV) | [It All Started In May](https://open.spotify.com/artist/1qWLxocXl9bpeqejuQ8zJX) | [O’ Kay Tamis](https://open.spotify.com/album/5TKMkaDXaNA84CswvnKokE) | 3:03 |
 
 Snapshot ID: `AAAAAHNoEb26yzPClN6w/R3GzcdXUzzx`

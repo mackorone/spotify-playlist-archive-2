@@ -4,7 +4,7 @@
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-165 songs - 8 hr 57 min
+166 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [My Eyes Are Gonna Shine](https://open.spotify.com/track/0rCu0jiqoJHsqaarwraeRA) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Okemah Rising](https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK) | 2:12 | 2023-05-14 | 2025-11-12 |
 | [Never Git Drunk No More \(feat\. Nikki Lane\)](https://open.spotify.com/track/0JuhSdmFY00TcRQZeslOep) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [This Machine Still Kills Fascists](https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3) | 3:25 | 2022-10-01 | 2023-02-09 |
 | [Never Git Drunk No More \(feat\. Nikki Lane\)](https://open.spotify.com/track/7IbJEpBPdVuec0WhORFwHJ) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 3:25 | 2023-02-08 | 2024-10-05 |
-| [NEW ENGLAND FOREVER](https://open.spotify.com/track/7GTDi9XB4eyzeHSVR286XM) | [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu), [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [New England Forever](https://open.spotify.com/album/1G1Hqkn18MubbXBvN8tY0g) | 2:05 | 2026-02-22 |  |
+| [NEW ENGLAND FOREVER](https://open.spotify.com/track/5IBkSg3jhXCr6cIseDgben) | [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu), [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [New England Forever](https://open.spotify.com/album/1QLd43rPsA1fPd0iDkbiJN) | 2:05 | 2026-04-24 |  |
+| [NEW ENGLAND FOREVER](https://open.spotify.com/track/7GTDi9XB4eyzeHSVR286XM) | [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu), [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [New England Forever](https://open.spotify.com/album/1G1Hqkn18MubbXBvN8tY0g) | 2:05 | 2026-02-22 | 2026-04-24 |
 | [Only The Strong](https://open.spotify.com/track/01PYqCU3EQi8jketudOH7h) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [New England Forever](https://open.spotify.com/album/1QLd43rPsA1fPd0iDkbiJN) | 2:40 | 2026-03-19 |  |
 | [Out of Our Heads](https://open.spotify.com/track/6pYfWV7I1M5vNU3DsVSXhS) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Signed and Sealed In Blood](https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc) | 3:11 | 2022-12-24 | 2023-01-09 |
 | [Paying My Way](https://open.spotify.com/track/4pMCoGppWrT0gL8oHvBfrV) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 3:54 | 2022-09-16 | 2023-02-05 |
@@ -129,8 +130,8 @@
 | [The Auld Triangle](https://open.spotify.com/track/0waMJXxhuGuyTt8epERx7m) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:41 | 2022-09-16 |  |
 | [The Big Man](https://open.spotify.com/track/5SZUmkADxNYj3E8Gj9WoZC) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People](https://open.spotify.com/album/2M3u2dW8uCvgzAIAqjPop5) | 2:53 | 2025-07-06 | 2025-11-22 |
 | [The Big Man](https://open.spotify.com/track/5hIsGzPEQzRHFvqdwtSAaS) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People \(Expanded Edition\)](https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM) | 2:53 | 2025-11-22 |  |
-| [The Boys Are Back](https://open.spotify.com/track/1tgjzmJnlRS6OGm4eBnvZ9) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/26FegJRCntpliel4dauJIG) | 3:19 | 2026-03-09 |  |
-| [The Boys Are Back](https://open.spotify.com/track/5ucsDWLvtuXORPi2QcZO39) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Signed and Sealed In Blood](https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc) | 3:19 | 2022-09-16 | 2026-03-09 |
+| [The Boys Are Back](https://open.spotify.com/track/1tgjzmJnlRS6OGm4eBnvZ9) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/26FegJRCntpliel4dauJIG) | 3:19 | 2026-03-09 | 2026-04-24 |
+| [The Boys Are Back](https://open.spotify.com/track/5ucsDWLvtuXORPi2QcZO39) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Signed and Sealed In Blood](https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc) | 3:19 | 2022-09-16 |  |
 | [The Boys Are Back](https://open.spotify.com/track/721vbd9Kof1A670dKDZyZh) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 3:19 | 2023-01-22 | 2025-11-10 |
 | [The Dirty Glass](https://open.spotify.com/track/2jggiA0przPmYj0Z96W7Q0) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 3:37 | 2022-09-16 |  |
 | [The Dirty Glass](https://open.spotify.com/track/0GlC0IeWvqlGLVJBuSnDP0) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [A Toast to St\. Patrick! \- Irish Drinking Songs](https://open.spotify.com/album/3b2jUk4GM9CcOXEnQ7kIXh) | 3:53 | 2022-09-16 | 2023-02-01 |

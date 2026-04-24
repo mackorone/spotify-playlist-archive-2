@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: CORTIS
 
-970 songs - 2 day 4 hr 52 min
+971 songs - 2 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,6 +592,7 @@
 | [Poppin’](https://open.spotify.com/track/7d2dl4KOfhTsw6lADzK9ta) | [Cool\-X](https://open.spotify.com/artist/61LvMTjrjLLjKODTNvpnCl) | [ENSEMBLE](https://open.spotify.com/album/4GfyEsSpRhbv8tOIuxnJPv) | 3:11 | 2025-02-11 | 2025-03-07 |
 | [Poppin’](https://open.spotify.com/track/0Li0jmcIZI1KDZ00Hfn1Xp) | [Cool\-X](https://open.spotify.com/artist/61LvMTjrjLLjKODTNvpnCl) | [Poppin’](https://open.spotify.com/album/0HO1vTjbfohJXItDbPi8NY) | 3:11 | 2024-03-19 | 2024-04-03 |
 | [poppop](https://open.spotify.com/track/1Y3Z8ZgjFse47Nt2ZR4EFU) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [poppop \- The 2nd Mini Album](https://open.spotify.com/album/46VvKhK6C8GC2Ew7nAIK3Y) | 3:02 | 2025-04-14 | 2025-07-16 |
+| [POSE](https://open.spotify.com/track/7LRaCfIHEdDSdDJkTO2l2A) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [OVEREXPOSED](https://open.spotify.com/album/40cJq43i8k7NbOZh3Oh7gK) | 2:30 | 2026-04-23 |  |
 | [Potion](https://open.spotify.com/track/28eKPYXgO3AeZuNzMHLCYp) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Potion](https://open.spotify.com/album/3wxpO3GVleiGFaD8OB0pWQ) | 2:39 | 2025-05-01 | 2025-06-02 |
 | [POWER](https://open.spotify.com/track/3czXRC1ZSS4aYlLAMoxg2y) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [POWER](https://open.spotify.com/album/0bvHQE5uTxsfNnm6x1JhQX) | 2:21 | 2026-01-15 | 2026-01-30 |
 | [Present](https://open.spotify.com/track/6Sj1YUpoWn3IsE0VlHCmMU) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Present](https://open.spotify.com/album/5tq7fJiO0PAXr5AZ9Wm73w) | 3:15 | 2025-11-07 | 2025-11-19 |
@@ -853,7 +854,7 @@
 | [Would You Like One?](https://open.spotify.com/track/4Fo6du4dMMqN72B3c9Dfea) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Would You Like One?](https://open.spotify.com/album/58FTaiaiSiLosIevaONenR) | 3:13 | 2025-06-02 | 2025-06-04 |
 | [WOW](https://open.spotify.com/track/4lZI7bshbcxNAtg7SlSK3Q) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [WOW](https://open.spotify.com/album/51PBeHxPU3xKSHR3ay3iFO) | 3:42 | 2024-10-01 | 2025-03-07 |
 | [WOW WAR TONIGHT ～時には起こせよムーヴメント \(JO1 ver.\)](https://open.spotify.com/track/4RH0fMDqhRYglSdEktBREs) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WOW WAR TONIGHT ～時には起こせよムーヴメント \(JO1 ver.\)](https://open.spotify.com/album/6kcJmk9ijWMla2SKUWEzrq) | 5:45 | 2024-01-19 | 2024-03-17 |
-| [X](https://open.spotify.com/track/2oZ2EKWo51eXQsn83pjNvj) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [blackout](https://open.spotify.com/album/10UGFED19zySy8M8bjI0rk) | 3:15 | 2025-11-11 |  |
+| [X](https://open.spotify.com/track/2oZ2EKWo51eXQsn83pjNvj) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [blackout](https://open.spotify.com/album/10UGFED19zySy8M8bjI0rk) | 3:15 | 2025-11-11 | 2026-04-24 |
 | [X](https://open.spotify.com/track/0XTt8RvNdO1zxxTf0L7ZLr) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [5x](https://open.spotify.com/album/549FaK4UMSSCdbxKVLWaYL) | 2:51 | 2025-06-28 | 2025-09-22 |
 | [XTC](https://open.spotify.com/track/76qI8ihfONou0gth5gHW18) | [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [XTC](https://open.spotify.com/album/6rwbsr75hgHJ6x8WX2cul2) | 2:52 | 2026-01-15 | 2026-02-18 |
 | [YELLOW](https://open.spotify.com/track/7dOvUyWUlpZP4UjwQY9fzk) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [SPECIAL MINI ALBUM \[PLEASURE\]](https://open.spotify.com/album/6ChUNqlCsnJEOf1PyRZm48) | 3:11 | 2025-03-06 | 2025-09-01 |

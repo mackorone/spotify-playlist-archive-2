@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 
 > Help ease your anxiety levels and enter an Alpha brainwave state with this session of ambient binaural beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,938 likes - 150 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,053 likes - 150 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 | 49 | [Omnis Flowstate Alpha 8 Hz](https://open.spotify.com/track/7z5XUVf9f0pCc1k1bFS0vV) | [Healing Touch](https://open.spotify.com/artist/3tSf7BvYRcSPRTsDDKmfVV) | [Omnis Flowstate Alpha 8 Hz](https://open.spotify.com/album/7iYpk3tFcJ5rE745DzshbT) | 3:15 |
 | 50 | [Inner Alpha 96.4\-100.8 Hz](https://open.spotify.com/track/6xTcHKa8CUBuRfrC2bsN4t) | [celstia](https://open.spotify.com/artist/1Ty8SzcuNwJd6INcdeZj0R) | [Inner Alpha 96.4\-100.8 Hz](https://open.spotify.com/album/6zvG97ARU2NWYVZOuvr25q) | 2:38 |
 | 51 | [Alpha Focus Waves 94Hz \- 102Hz](https://open.spotify.com/track/0haaebMQkYlDcfmgYLszaS) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Alpha Focus](https://open.spotify.com/album/0Kv4W0JNSSXCLe2RAPDVcp) | 3:09 |
-| 52 | [Alpha Sinus in the Rain 86Hz \- 94Hz](https://open.spotify.com/track/6uMJeQ4uEml6dT4DQuxBEG) | [Sonic Whales](https://open.spotify.com/artist/64wCZb1sv0BBcay25AYmBH) | [The Art of Relaxation](https://open.spotify.com/album/1ZC4JDYNuHthr2RREXxKrA) | 3:27 |
+| 52 | [Alpha Sinus in the Rain 86Hz \- 94Hz](https://open.spotify.com/track/6uMJeQ4uEml6dT4DQuxBEG) | [Sonic Whales](https://open.spotify.com/artist/4esxf0wFXhz31ZnbW5YDvO) | [The Art of Relaxation](https://open.spotify.com/album/1ZC4JDYNuHthr2RREXxKrA) | 3:27 |
 | 53 | [Stille \- Alpha Sinus 134Hz \- 141Hz](https://open.spotify.com/track/3ocQGhNuWunmbDK1IYzVBD) | [Blue Triangles](https://open.spotify.com/artist/6brKlPbQVltmtC6MCvfXFK) | [Stille Binaural](https://open.spotify.com/album/34DwcLP6FYLKDbpK0RoN8Y) | 4:06 |
 | 54 | [Adagio Alpha 105Hz \- 115Hz](https://open.spotify.com/track/3DOlYPzw4n17YiebOaWIdF) | [Floating States](https://open.spotify.com/artist/6nw5vPqjIUusQlaEkCagcN) | [Adagio Alpha 105Hz \- 115Hz](https://open.spotify.com/album/5bU15NPLGhunXm4IOnCYOr) | 2:40 |
 | 55 | [Alpha Binaural Subtle Dimensions](https://open.spotify.com/track/3LKoyEOW7ooSICHk6qYJtU) | [Binaural Dynamics](https://open.spotify.com/artist/1wbcnLXJ6NDTE15c7SUfR5) | [Alpha Binaural Subtle Dimensions](https://open.spotify.com/album/2U6OY9WUnTNZQWBJkrYCTq) | 2:46 |

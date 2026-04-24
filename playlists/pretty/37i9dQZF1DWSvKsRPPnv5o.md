@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Snoop Dogg
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,417 likes - 101 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,442 likes - 101 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

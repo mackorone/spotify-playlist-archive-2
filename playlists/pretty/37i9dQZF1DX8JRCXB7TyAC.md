@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,697 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,745 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 43 | [2 Numbari](https://open.spotify.com/track/44QLCfLlW3WAiyLyQxkVmk) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Anjali 99](https://open.spotify.com/artist/4QirDUwZFIIRDP3tL7gB6E) | [2 Numbari](https://open.spotify.com/album/5rf6ySbyNTgoYdhpZzKiRa) | 3:32 |
 | 44 | [Jhota](https://open.spotify.com/track/7HBufeUOfByxWXTRO8AhaR) | [D Naveen](https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb), [Daulatpuria](https://open.spotify.com/artist/0c8dHxShstYZeEkR4SIrBI), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB) | [Jhota](https://open.spotify.com/album/4zf8nXEvy8vsAWYVcbZ1vA) | 3:14 |
 | 45 | [KNL To LHR](https://open.spotify.com/track/7aaGOceIZaUaVGKzU4ZTfP) | [Prince Jamba](https://open.spotify.com/artist/6RDhaAavmBlrZKUqJ8YvJy), [Sameer](https://open.spotify.com/artist/6GITDzZHqhL9AuVVjHQFG7), [Brown Beats](https://open.spotify.com/artist/5oWrsQDyCV8GKaWikhwPfk) | [KNL To LHR](https://open.spotify.com/album/4eLwKIAxknztWvHmLMVl0x) | 2:23 |
-| 46 | [Jat Supremacy](https://open.spotify.com/track/5H8UVQwQKebV6PaB6iTQX8) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Jat Supremacy](https://open.spotify.com/album/3rDnXnhPvYyPVj0uT4MMzl) | 2:38 |
-| 47 | [Koi Na](https://open.spotify.com/track/64qn5oeo6Dcrur3dsu0gsJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Uchana Amit](https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Koi Na](https://open.spotify.com/album/7106si82R8FQw7KApQKk2n) | 2:39 |
+| 46 | [Koi Na](https://open.spotify.com/track/64qn5oeo6Dcrur3dsu0gsJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Uchana Amit](https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Koi Na](https://open.spotify.com/album/7106si82R8FQw7KApQKk2n) | 2:39 |
+| 47 | [Jat Supremacy](https://open.spotify.com/track/5H8UVQwQKebV6PaB6iTQX8) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Jat Supremacy](https://open.spotify.com/album/3rDnXnhPvYyPVj0uT4MMzl) | 2:38 |
 | 48 | [Tha Tha](https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Tha Tha](https://open.spotify.com/album/48tF1dtmzFTUflbODkZ6UO) | 2:49 |
 | 49 | [Dole Laadle](https://open.spotify.com/track/4vDGNh41YgJrSHPxnAJnOS) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Dole Laadle](https://open.spotify.com/album/5Ca9Nx2w4IUCXAtBy5vuyq) | 3:01 |
 | 50 | [Albedi](https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Albedi](https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H) | 3:00 |

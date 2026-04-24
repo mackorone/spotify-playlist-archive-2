@@ -445,8 +445,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 435 | [Carona](https://open.spotify.com/track/1ee2WbHDPOq0SlZoeRE82b) | [Karol Carvalho](https://open.spotify.com/artist/10PuUQcehqOhBiCZzAuEbS) | [START, Vol\. 2](https://open.spotify.com/album/3IitoCKKf3wW3mkzlseG3H) | 3:21 |
 | 436 | [Torcendo garrafa](https://open.spotify.com/track/4j6Mv6l37FEmNVOPhr7MJd) | [Camila e Thiago](https://open.spotify.com/artist/1Caueh3rE3yXl2FAjwjU1J) | [Uma nova história](https://open.spotify.com/album/4EcElS4Sk3K7jaVx1a8Hfj) | 2:40 |
 | 437 | [O Que Rola Com Você](https://open.spotify.com/track/1a2W5I2BKnUMhQJhfRyzkw) | [Laluna e Vinícius](https://open.spotify.com/artist/2FC4Om8SSHWcOzab7jTYGf) | [O Que Rola Com Você](https://open.spotify.com/album/1KTxeiiTjqZCPZKDM7LRsm) | 3:14 |
-| 438 | [Meio Atual](https://open.spotify.com/track/5mpoVgvCIiT3jGXIsYDBQW) | [Nayra Days](https://open.spotify.com/artist/0MgBvmLkWI0uhEa6zXFluu) | [Melhor Versão](https://open.spotify.com/album/7IMQeFgTaBlrTzbo26TL2E) | 2:52 |
-| 439 | [Vô Num Vô](https://open.spotify.com/track/3YQ23xhBbGAG0o4PM27FEX) | [Marcello Teodoro](https://open.spotify.com/artist/5YaJ30w1xFCq76GRWIMuvn) | [Vô Num Vô](https://open.spotify.com/album/2xVTqwTuXdsJUGhj1sHng3) | 2:45 |
+| 438 | [Vô Num Vô](https://open.spotify.com/track/3YQ23xhBbGAG0o4PM27FEX) | [Marcello Teodoro](https://open.spotify.com/artist/5YaJ30w1xFCq76GRWIMuvn) | [Vô Num Vô](https://open.spotify.com/album/2xVTqwTuXdsJUGhj1sHng3) | 2:45 |
+| 439 | [Meio Atual](https://open.spotify.com/track/5mpoVgvCIiT3jGXIsYDBQW) | [Nayra Days](https://open.spotify.com/artist/0MgBvmLkWI0uhEa6zXFluu) | [Melhor Versão](https://open.spotify.com/album/7IMQeFgTaBlrTzbo26TL2E) | 2:52 |
 | 440 | [Como Com Farinha](https://open.spotify.com/track/2D9Frgik5L1TndFdFsoWAG) | [Marcello Teodoro](https://open.spotify.com/artist/5YaJ30w1xFCq76GRWIMuvn) | [Vô Num Vô](https://open.spotify.com/album/2xVTqwTuXdsJUGhj1sHng3) | 2:49 |
 | 441 | [Buquê de Espinhos](https://open.spotify.com/track/0T4IDdXloPLMeyHIMaU8qU) | [Kiko Cigano](https://open.spotify.com/artist/0iEpXr3YdrrleP5JAoVjo3) | [Só Pedrada 2.0](https://open.spotify.com/album/5vG2exnvuLqSQYsPW4zQMO) | 3:28 |
 | 442 | [Aliança no Dedo \- Uai](https://open.spotify.com/track/5BsUKfX24bU0H8z5ArQakM) | [Andri & Hector](https://open.spotify.com/artist/6Z5H6o9sDFCMcAr43wcYRh) | [Aliança no Dedo \(Uai\)](https://open.spotify.com/album/6oKbggIQs3v1SLkYIEtVbn) | 2:54 |
@@ -489,4 +489,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 479 | [Atriz](https://open.spotify.com/track/1MQpRk7UufrJcbGaZz0bAO) | [Raffaow](https://open.spotify.com/artist/0sKN6JacROezQegp6odXKB), [DJ mussa](https://open.spotify.com/artist/2pCvidAw5BIyIdpaYJose1) | [Atriz](https://open.spotify.com/album/2nhQW4WrGNgKN9XIhbLEY4) | 2:16 |
 | 480 | [Tudo em Minha Volta](https://open.spotify.com/track/0u2JYPHwIoYCZV52UxDEIN) | [Ronny e Ronney](https://open.spotify.com/artist/6ITm7OZvd7ogcjDsQghri5) | [Tudo em Minha Volta](https://open.spotify.com/album/7G0Vbn40xoQtM4cc9hmPde) | 2:25 |
 
-Snapshot ID: `AcPkkgAAAAA7UwF0KVCtMkX+mwSsppa6`
+Snapshot ID: `AcPqKAAAAADJK+DcmSDbCIynuZLz6Zoi`

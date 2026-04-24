@@ -1838,6 +1838,28 @@
     {
       "album": {
         "name": "Dreams",
+        "url": "https://open.spotify.com/album/6cVEFe9OWE9dEInrgKzMwS"
+      },
+      "artists": [
+        {
+          "name": "Campsite Dream",
+          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
+        },
+        {
+          "name": "April Darby",
+          "url": "https://open.spotify.com/artist/3hYoiohAx0QaaQ6bKfBmyq"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236129,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/12mp8ljwBI86SnezFsDJkw"
+    },
+    {
+      "album": {
+        "name": "Dreams",
         "url": "https://open.spotify.com/album/0hPymjd6bx5kr8UQkRNAQZ"
       },
       "artists": [
@@ -3058,7 +3080,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 138516,
       "name": "Hold Me Tight",
       "url": "https://open.spotify.com/track/1BS6xdfTHuD0rsbarByQRF"
@@ -7268,7 +7290,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 133000,
       "name": "Used To Love",
       "url": "https://open.spotify.com/track/6MLmmZchetJCwxsefFtSnl"
@@ -7506,7 +7528,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 272000,
       "name": "Waves - :DARREN Remix",
       "url": "https://open.spotify.com/track/3o4evb4nIjAthxMify0LrF"

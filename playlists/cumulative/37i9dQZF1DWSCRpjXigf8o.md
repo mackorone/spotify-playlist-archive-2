@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-672 songs - 1 day 16 hr 48 min
+673 songs - 1 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Clementine](https://open.spotify.com/track/4Up73IctyyhfsqsKmAdJ7Z) | [Manta](https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ) | [Clementine](https://open.spotify.com/album/4Chqj5iMNiWuga9jhvSmrC) | 2:34 | 2023-02-23 | 2023-03-01 |
 | [Close to you](https://open.spotify.com/track/1KPm0gak2346hzH2TeZhir) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT COVER](https://open.spotify.com/album/0mBGh0XeyVwHbh9aceF2Sp) | 3:38 | 2025-09-05 |  |
 | [Close to you](https://open.spotify.com/track/02QcM5pBEymkl6gXb4RHex) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT COVER](https://open.spotify.com/album/1AHbVBPlzsI0k18agZQ6zr) | 3:40 | 2022-10-20 | 2023-03-01 |
-| [codepending](https://open.spotify.com/track/1WMTEpq5ngLwPGRV1fq5yx) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [codepending](https://open.spotify.com/album/6VdT3gkIWTkc9Jj4184Tna) | 3:17 | 2026-02-19 |  |
+| [codepending](https://open.spotify.com/track/1WMTEpq5ngLwPGRV1fq5yx) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [codepending](https://open.spotify.com/album/6VdT3gkIWTkc9Jj4184Tna) | 3:17 | 2026-02-19 | 2026-04-24 |
 | [Collide \- Acoustic Version](https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All the World Now \(Special Edition\)](https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y) | 4:37 | 2023-03-07 | 2025-09-06 |
 | [Colorblind](https://open.spotify.com/track/1jzGN7iqjlcSLEHrSJBTQ3) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Colorblind](https://open.spotify.com/album/3zdkYaid2hs38fk7Y5P6kK) | 2:35 | 2023-03-07 | 2023-03-09 |
 | [Comb Song](https://open.spotify.com/track/6F1OdnUbFzDBFXRWkZzFQt) | [天国姑娘](https://open.spotify.com/artist/60JSPE63xy6m6MWoY0D663) | [Being Polite \(In a Mean Way\)](https://open.spotify.com/album/5xMNi61LHTbEvHuk0DHZCI) | 2:32 | 2023-12-19 | 2024-09-28 |
@@ -403,6 +403,7 @@
 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 | 2022-12-15 | 2025-09-06 |
 | [PERFECT](https://open.spotify.com/track/0HjrhgjXi2yKUm1lTlm2Cq) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [TIME SLIP](https://open.spotify.com/album/0vS4ZBuvy8i8dibPsAp8fo) | 4:28 | 2025-06-06 |  |
 | [Pieces](https://open.spotify.com/track/5bwL1JGq1j4SFfCSGZtwZd) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Pieces](https://open.spotify.com/album/7wXDiXmcDVgqSQZeZwIM4d) | 4:24 | 2023-05-04 | 2023-07-07 |
+| [pineapple bun](https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [pineapple bun](https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md) | 3:29 | 2026-02-19 |  |
 | [pity dirty](https://open.spotify.com/track/1O12sL9Ekek4WY7U03cG06) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [pity dirty](https://open.spotify.com/album/5W332DB5DkfDUp6ma52tsJ) | 3:13 | 2025-09-05 |  |
 | [Place Your Hands](https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Place Your Hands](https://open.spotify.com/album/30sRu1LqGjOL28ocUx6TPh) | 3:15 | 2024-02-15 |  |
 | [Pools of Colour](https://open.spotify.com/track/4ivOVhC9eZzzK28qQMZdoC) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 3:48 | 2024-01-25 |  |

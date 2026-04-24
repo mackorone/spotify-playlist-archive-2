@@ -13930,7 +13930,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 211800,
       "name": "My you",
       "url": "https://open.spotify.com/track/1FyUjNw4Hwp1inYeEi48Nw"
@@ -21588,6 +21588,24 @@
       "duration_ms": 144274,
       "name": "Undelivered",
       "url": "https://open.spotify.com/track/6CKUQCPdVYwmqRf0ffGwGg"
+    },
+    {
+      "album": {
+        "name": "Under The Blue Moon",
+        "url": "https://open.spotify.com/album/5DQMc4cSacAPweb4q1d7dQ"
+      },
+      "artists": [
+        {
+          "name": "O.O.O",
+          "url": "https://open.spotify.com/artist/0YMpM4y1fUUHhBLFnYVOaD"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226361,
+      "name": "Under The Blue Moon",
+      "url": "https://open.spotify.com/track/5lgjWj5fEdcp365k59SiOM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Sena Şahin
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,225 likes - 86 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,216 likes - 86 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 85 | [Işıklar Yanar](https://open.spotify.com/track/6mpqBoqQ4rsxtdZGbyXpCp) | [Rüya Ersavcı](https://open.spotify.com/artist/057ReRdRcnTRIYOYOHM3ns) | [Işıklar Yanar](https://open.spotify.com/album/7pQq3MzyzSQxgPabrjtAxt) | 3:22 |
 | 86 | [Aşkın Güzelliği](https://open.spotify.com/track/2XlyEH3P1er4ydCzBrP3bV) | [Melike Demirağ](https://open.spotify.com/artist/2s6QqZySEQ9hVsqe59BqAa) | [Aşkın Güzelliği](https://open.spotify.com/album/2PHvHHSrDNt6fuUBYc8B4n) | 3:03 |
 
-Snapshot ID: `AAAAAEXSfMjycklTxCroZTrOqMziLCER`
+Snapshot ID: `AAAAALAi9nJHKzdSu+uWcbOKdgZGkFWN`

@@ -2,9 +2,9 @@
 
 ### [最Hit華語榜](https://open.spotify.com/playlist/37i9dQZF1DWWqC43bGTcPc)
 
-> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 派偉俊
+> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 周杰倫
 
-1,186 songs - 3 day 1 hr 49 min
+1,189 songs - 3 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [仍然](https://open.spotify.com/track/3djtiQFSLlw8V70G5GJZNE) | [Terry Zhong](https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg), [石玺彤](https://open.spotify.com/artist/1m4PLF4txR3ykHKa3uVWcd) | [仍然](https://open.spotify.com/album/2afkt5rXs94FJxUMNHkS5r) | 3:07 | 2024-09-09 | 2024-09-17 |
 | [他不愛我 \- 滾石撞樂隊2 \(原唱:莫文蔚\)](https://open.spotify.com/track/0oFAas3rJLL2evZiSGlSxm) | [莉莉周她說 Lily Chou\-Chou Lied](https://open.spotify.com/artist/5UfZ1oU7ItOTwb2AUqOfDK) | [滾石撞樂隊2 \- 他不愛我](https://open.spotify.com/album/4gxiKfR8AlCen1oiRsH6H1) | 3:27 | 2025-10-13 | 2025-11-04 |
 | [任性 \(電視劇《難哄》主題曲\)](https://open.spotify.com/track/0kFTS4OH2t44gsLN0a8Khr) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [任性](https://open.spotify.com/album/09rCpK2WyMHP7ymESozHgI) | 4:25 | 2025-01-06 | 2025-07-01 |
+| [众里寻他千百度 \(影视剧《逐玉》爱情主题曲\)](https://open.spotify.com/track/3G3V6OgmyypuHPaLvk7ycI) | [张碧晨](https://open.spotify.com/artist/3sLXiOBtBuK2uTq2JGunuB) | [《逐玉》 影视原声带](https://open.spotify.com/album/2k86NBEelfaj8iqDZ9ppqa) | 3:12 | 2026-04-23 |  |
 | [但](https://open.spotify.com/track/54hpc7UxPBdpcsC7xFKEWB) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 2:22 | 2024-04-08 | 2024-07-30 |
 | [住在心里的人](https://open.spotify.com/track/4WBWv09WcKhje5yyKNoPxb) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [住在心里的人](https://open.spotify.com/album/6ojwByhXjqY1YhOPQpL1XI) | 3:24 | 2025-02-03 | 2025-03-04 |
 | [你不一样](https://open.spotify.com/track/7IyqBWfoamcyDbnhaLC33K) | [Layla Sania](https://open.spotify.com/artist/7cgAsD4dJVqN4ckWT9jbEK) | [你不一样](https://open.spotify.com/album/3EI9J8bLfma96ELyIiVnMa) | 4:12 | 2024-12-02 | 2024-12-10 |
@@ -437,6 +438,7 @@
 | [吹不熄的我 \(影視劇《阿麥從軍》主題曲\)](https://open.spotify.com/track/72BGPUq4jT8k4PwpmFnYEi) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [吹不熄的我 \(影視劇《阿麥從軍》主題曲\)](https://open.spotify.com/album/4S4rF3A27L8VFo3kXmFuFM) | 4:18 | 2024-02-12 | 2024-03-12 |
 | [吹吹風](https://open.spotify.com/track/7qpNCIAEv55q1jkzsO1jxd) | [Lu Han](https://open.spotify.com/artist/3fS78kAWd9dVFyaPQ363YO) | [吹吹風](https://open.spotify.com/album/5vape6V9FymJGeFKZfugS4) | 2:55 | 2025-05-12 | 2025-06-03 |
 | [呱呱](https://open.spotify.com/track/1URFTVRFkrGddHUaRXnMY8) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [呱呱](https://open.spotify.com/album/3qnEi1LrUxi2SQ01HkAO6H) | 3:20 | 2024-07-15 | 2024-07-23 |
+| [味道 \- 滾石撞樂隊2 \(原唱:辛曉琪\)](https://open.spotify.com/track/1w0tGjx8KWV7mTSc5I9IwL) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9) | [滾石撞樂隊2 \- 味道](https://open.spotify.com/album/4VvqsY2Ti2IAXl6ns4p08r) | 4:33 | 2026-04-23 |  |
 | [呷飽未](https://open.spotify.com/track/7lvF3m9QnWYI2NxmDu1GDi) | [WONFU](https://open.spotify.com/artist/6JQ21JTWuZpfT06VAQObFy) | [呷飽未](https://open.spotify.com/album/2IS82cFgSXJPVhGHTg6oWq) | 3:39 | 2025-01-20 | 2025-01-28 |
 | [和你在聖誕](https://open.spotify.com/track/7rIBwENjxpa9zJLk7PWCeM) | [Sam Lin](https://open.spotify.com/artist/3EiW2e93LzyelaCJzRlNl1) | [和你在聖誕](https://open.spotify.com/album/3PESiaBF7S11TvnggR8BVu) | 2:42 | 2025-12-22 | 2025-12-30 |
 | [咖啡氤](https://open.spotify.com/track/5WYgEoOPQSCT8hHYV3bYo3) | [ZENBØ](https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG) | [咖啡氤](https://open.spotify.com/album/1EFDsuC0c063wiZFWFuW1V) | 3:23 | 2024-05-20 | 2024-05-28 |
@@ -530,6 +532,7 @@
 | [安全下船](https://open.spotify.com/track/2QdtRR0p5ppfcvVW19dBmv) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [安全下船](https://open.spotify.com/album/5ZFtWLcnryC8es4HfAvFQb) | 3:31 | 2025-01-20 | 2025-01-28 |
 | [完美的大人呐](https://open.spotify.com/track/2ABTH5CySaSPE8VRVQ9VCM) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [完美的大人呐](https://open.spotify.com/album/1ZOcpGeEqHRbgA1qQ2fIr9) | 3:02 | 2025-04-28 | 2025-05-27 |
 | [家具](https://open.spotify.com/track/7yvnVCRDFfSUw2jZK8m4Xo) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [家具](https://open.spotify.com/album/14SaJCAyUTMXtQigmEcqGc) | 3:47 | 2024-09-30 | 2024-10-22 |
+| [寂寞先生 \- 滾石撞樂隊2 \(原唱:曹格\)](https://open.spotify.com/track/3mnfuq9pALDNvh15QZw6m8) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm) | [滾石撞樂隊2 \- 寂寞先生](https://open.spotify.com/album/6i3uZiTnHHSTENjYoaxmox) | 3:22 | 2026-04-23 |  |
 | [寂寞而已](https://open.spotify.com/track/3vUk021iSWo8UQajmjBLL7) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [寂寞而已](https://open.spotify.com/album/03KZdAmIbygv24RUgb7dVi) | 4:26 | 2024-04-29 | 2024-05-07 |
 | [密语](https://open.spotify.com/track/6LSXxGhd2q4NcafYkx6GxG) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [密语](https://open.spotify.com/album/5gTk8XHwNc5lBycJEcBn9d) | 3:41 | 2024-09-16 | 2024-09-24 |
 | [寫DY神曲](https://open.spotify.com/track/5E99YbtnHBXevlTpJTJCQa) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6), [Danny Koo](https://open.spotify.com/artist/6wV3VcxKYg6ynYZOdjbwL9) | [寫DY神曲](https://open.spotify.com/album/2UVmIlQbLPenk1ByzaLaui) | 2:59 | 2024-07-01 | 2024-07-09 |
@@ -668,7 +671,7 @@
 | [我們知道就好](https://open.spotify.com/track/604LarVFaU0LywIOJPzS6E) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0) | [我們知道就好](https://open.spotify.com/album/7fycBnqqoFxhanu0HsGoQx) | 3:42 | 2024-03-11 | 2024-03-19 |
 | [我們都別改變](https://open.spotify.com/track/4daDENZSX8H2Z2T6Bu2kpC) | [晨悠 CHENYO](https://open.spotify.com/artist/69HAncV59CvB16M51q77AI) | [我們都別改變](https://open.spotify.com/album/1gmZsOuBGHKUOzqYftLcKm) | 4:04 | 2024-10-07 | 2024-10-15 |
 | [我們離開這](https://open.spotify.com/track/79ErC0WrpMTYdl9uM6S4kM) | [質感流氓](https://open.spotify.com/artist/0wmqwpMoYoxUBJIlmf48it), [修齊](https://open.spotify.com/artist/2I5T2tiJUUo0V2gri9oFG5) | [我們離開這](https://open.spotify.com/album/4nf9UZy8ZUexUt1JACkYnn) | 2:34 | 2025-03-10 | 2025-03-18 |
-| [我受夠了](https://open.spotify.com/track/3w71TlXbEeZeZcI7BtHy2G) | [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90), [吳霏 FEI](https://open.spotify.com/artist/4oZwnqHUPpMUBCCNniVVzP) | [我受夠了](https://open.spotify.com/album/156pIYY9nM5eJm6ppOwsCw) | 3:10 | 2025-12-08 |  |
+| [我受夠了](https://open.spotify.com/track/3w71TlXbEeZeZcI7BtHy2G) | [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90), [吳霏 FEI](https://open.spotify.com/artist/4oZwnqHUPpMUBCCNniVVzP) | [我受夠了](https://open.spotify.com/album/156pIYY9nM5eJm6ppOwsCw) | 3:10 | 2025-12-08 | 2026-04-24 |
 | [我只想過著最普通的生活](https://open.spotify.com/track/04p2eSK46Mxy0hi8UxQlX6) | [PA PUN BAND](https://open.spotify.com/artist/0jz8mea3EKbqvOxZY6skBz) | [我只想過著最普通的生活](https://open.spotify.com/album/1AXalZcMJnLzE9EJCbBp0O) | 3:31 | 2024-09-30 | 2024-11-19 |
 | [我喜歡你](https://open.spotify.com/track/6FpUCVpLvO0QXwsovSfWEa) | [芒果醬 Mango Jump](https://open.spotify.com/artist/1t1GIb4bb1lARAXwWEekUN) | [心跳保衛戰](https://open.spotify.com/album/7nGbf2KdoEMWtTKh3vViyK) | 3:27 | 2024-01-15 | 2024-10-01 |
 | [我喜歡我](https://open.spotify.com/track/6xSTphVc86dhex73ZryENf) | [Zen 俊倩](https://open.spotify.com/artist/07nkXNC5TYJ4N2J6JvKgMH) | [我喜歡我](https://open.spotify.com/album/6LznfHadflUwKQhyVPdOYy) | 3:04 | 2025-09-01 | 2025-09-10 |

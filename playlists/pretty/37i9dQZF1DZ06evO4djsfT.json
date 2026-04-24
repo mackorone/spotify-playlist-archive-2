@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 28555,
+  "num_followers": 28558,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAADAbsHUlsfSRBkk7h7LSvkz",
+  "snapshot_id": "aegPgAAAAAAjjP7Bu3dD43RBQQxiSAsq",
   "tracks": [
     {
       "added_at": null,
@@ -171,26 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLOOD 2",
-        "url": "https://open.spotify.com/album/3u5CY0qvMmaIIM6Smj2MyX"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "CALEB CONLEY",
-          "url": "https://open.spotify.com/artist/1qBL71UwVI5rFWyhIXuDA4"
-        }
-      ],
-      "duration_ms": 158330,
-      "name": "BLOOD 2",
-      "url": "https://open.spotify.com/track/3vYdFpkCK3OzNjLxEvhCMR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yes",
         "url": "https://open.spotify.com/album/2I2QPLI9AnfxTOC02rE2Ms"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 179527,
       "name": "Yes",
       "url": "https://open.spotify.com/track/7bM0sZ3LRW99DJvWVEXpBf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLOOD 2",
+        "url": "https://open.spotify.com/album/3u5CY0qvMmaIIM6Smj2MyX"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "CALEB CONLEY",
+          "url": "https://open.spotify.com/artist/1qBL71UwVI5rFWyhIXuDA4"
+        }
+      ],
+      "duration_ms": 158330,
+      "name": "BLOOD 2",
+      "url": "https://open.spotify.com/track/3vYdFpkCK3OzNjLxEvhCMR"
     },
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/0KtPKMW5xAzDQWSiZZ0dOa"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 170911,
-      "name": "Familia",
-      "url": "https://open.spotify.com/track/5pQa1bgDWn4xDOllIX3bMn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KEANU'S SONG",
         "url": "https://open.spotify.com/album/1k96DLD2VLtsuYtaHHZpbo"
       },
@@ -507,26 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just That Good",
-        "url": "https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA"
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/0KtPKMW5xAzDQWSiZZ0dOa"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
         },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 199065,
-      "name": "Glorious Day",
-      "url": "https://open.spotify.com/track/20pzbIjh5atZVcm0i8Bqnx"
+      "duration_ms": 170911,
+      "name": "Familia",
+      "url": "https://open.spotify.com/track/5pQa1bgDWn4xDOllIX3bMn"
     },
     {
       "added_at": null,
@@ -551,6 +527,30 @@
       "duration_ms": 238146,
       "name": "The Saints",
       "url": "https://open.spotify.com/track/6OJgPdiryjvefJC3fsDAuA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just That Good",
+        "url": "https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 199065,
+      "name": "Glorious Day",
+      "url": "https://open.spotify.com/track/20pzbIjh5atZVcm0i8Bqnx"
     },
     {
       "added_at": null,
@@ -611,6 +611,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Epilogue.",
+        "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 173179,
+      "name": "Built For This",
+      "url": "https://open.spotify.com/track/5ihWb5kpd7brDr32wNebn6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Long Live the Champion",
         "url": "https://open.spotify.com/album/0AN00aCqSqB60vYCBInkDW"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 263118,
       "name": "Long Live the Champion",
       "url": "https://open.spotify.com/track/6fUxgWa744fqILNOVFrysp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Epilogue.",
-        "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
-      },
-      "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 173179,
-      "name": "Built For This",
-      "url": "https://open.spotify.com/track/5ihWb5kpd7brDr32wNebn6"
     },
     {
       "added_at": null,
@@ -767,18 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone II (Deluxe)",
-        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
+        "name": "Wholehearted",
+        "url": "https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P"
       },
       "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 177664,
-      "name": "It Ain't Safe",
-      "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
+      "duration_ms": 182095,
+      "name": "Wholehearted",
+      "url": "https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo"
     },
     {
       "added_at": null,
@@ -807,22 +811,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wholehearted",
-        "url": "https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P"
+        "name": "His Glory Alone II (Deluxe)",
+        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
       },
       "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 182095,
-      "name": "Wholehearted",
-      "url": "https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo"
+      "duration_ms": 177664,
+      "name": "It Ain't Safe",
+      "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
     },
     {
       "added_at": null,
@@ -967,6 +967,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Worship in the Moshpit",
+        "url": "https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Worship in the Moshpit",
+      "url": "https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Santo (HLY FOREVER)",
         "url": "https://open.spotify.com/album/0CxDtqsBJbpiofMCp6MWtf"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 166803,
       "name": "Santo (HLY FOREVER)",
       "url": "https://open.spotify.com/track/6XBH2c7HSzkWGgr5OkziXm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Worship in the Moshpit",
-        "url": "https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "Worship in the Moshpit",
-      "url": "https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV"
     }
   ],
   "unique_name": "This Is KB",

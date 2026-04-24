@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: TRACK15
 
-3,180 songs - 8 day 6 hr 25 min
+3,182 songs - 8 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Bouquet](https://open.spotify.com/track/6AEiVvowy0FhIACwS9BROM) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [GLHF](https://open.spotify.com/album/5UosEfWZJZ7ol7WLerlTNq) | 3:35 | 2026-04-14 |  |
 | [BOW WOW](https://open.spotify.com/track/3O6zsuVBqMF0iNhfsM24mN) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [BOW WOW](https://open.spotify.com/album/7cdiNstthcIxvQRmbZfJ3g) | 3:37 | 2025-07-15 | 2025-07-23 |
 | [BOY](https://open.spotify.com/track/4UShpOJdauir54vMuaFLEV) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:54 | 2024-04-02 | 2024-10-09 |
+| [Boy](https://open.spotify.com/track/3eFUpyUIWFMSQ3RvUpxZXu) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [Boy](https://open.spotify.com/album/78wMwOnARAhRxBv7Q37XOl) | 3:06 | 2026-04-23 |  |
 | [BOY](https://open.spotify.com/track/3RHz99ylf2aJCjLfDAuhl9) | [Suchmos](https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24) | [Sunburst](https://open.spotify.com/album/4t85TRaVgDyJJEtCZ1W8xj) | 4:38 | 2025-07-02 | 2025-07-09 |
 | [Boy Boy](https://open.spotify.com/track/5xbOo5WvO0uYslwOH53Qu8) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [逆鱗](https://open.spotify.com/album/45TO32iipCiJXSAnhZOS5j) | 3:09 | 2025-12-23 | 2026-02-25 |
 | [Boy Fearless](https://open.spotify.com/track/4vLGPct3789wquUob4c6Uk) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Boy Fearless](https://open.spotify.com/album/34pC1BrMnoLUPicCEgsM2H) | 3:18 | 2024-09-10 | 2024-09-18 |
@@ -539,6 +540,7 @@
 | [Goodbye](https://open.spotify.com/track/3ZZAlk3bOrKA1KcXPJjSWW) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Goodbye / Tumbler](https://open.spotify.com/album/4VI6wFz5KdUsuaU3f5cCZl) | 1:53 | 2023-04-19 | 2023-05-31 |
 | [Goodbye angel](https://open.spotify.com/track/1KtI9hi73Ce7rhYq7rZuor) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [Hors d'oeuvre](https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D) | 4:27 | 2024-01-22 | 2024-02-21 |
 | [Goodbye Daily](https://open.spotify.com/track/6xQBjMyS77DebVGJ6DZkgA) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [Goodbye Daily](https://open.spotify.com/album/6GgzFP4IcSXzH0oIJ2jqQK) | 4:04 | 2026-02-24 | 2026-03-11 |
+| [Goodbye, So Long](https://open.spotify.com/track/68palNfwloV3lcjjNCPcKN) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Ballad](https://open.spotify.com/album/3lciWeGPHL9QDmBTGRcSsI) | 3:05 | 2026-04-23 |  |
 | [Gravity](https://open.spotify.com/track/445l20YWwFUp9EWyNB8HeR) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [Gravity / イノセントブルー](https://open.spotify.com/album/7kfIVD1wznLWfIzxjMuJvw) | 4:26 | 2025-10-28 | 2026-01-21 |
 | [greedY.](https://open.spotify.com/track/0gUsRTRIlB66uHP0J2mL20) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [greedY.](https://open.spotify.com/album/3tUtbSuG868JfEFLRkstDI) | 3:49 | 2024-09-24 | 2024-10-16 |
 | [Grind Gray](https://open.spotify.com/track/1VHzXxAlvfqre1TDZz5gh8) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [BRAND NEW OLD SHIT](https://open.spotify.com/album/7HDmSYvmd5O4egdHs2K6ju) | 2:40 | 2025-09-02 | 2025-09-11 |
@@ -1350,7 +1352,7 @@
 | [Sparkle Dancer](https://open.spotify.com/track/0uBrG0rTvuqcvl2jGFFgHh) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Sparkle Dancer](https://open.spotify.com/album/1ClZWnf2R7u3SRkRONNaZH) | 3:28 | 2023-01-24 | 2023-02-25 |
 | [Sparkle Dancer](https://open.spotify.com/track/4aHvOIHuAzl21N7D2gHwen) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Yuyukaneikaiyuroku](https://open.spotify.com/album/6hCKJeHH7NjYFMe04FcPmW) | 3:28 | 2023-02-23 | 2023-06-12 |
 | [SPARK！](https://open.spotify.com/track/4JrWvjdudCkLELRcFs898b) | [好芻](https://open.spotify.com/artist/2qeDcLCQcUBQWkit80w0aK) | [SPARK！](https://open.spotify.com/album/3Y83hpfJ7LeO6NJGI9t0ak) | 2:51 | 2025-02-18 | 2025-03-05 |
-| [Speak of the Devil](https://open.spotify.com/track/2cTKXbBQq9aMHPIWKqtff0) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh), [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Speak of the Devil](https://open.spotify.com/album/0xC2kMMJgBSWohWmTDeW8L) | 3:42 | 2026-01-20 |  |
+| [Speak of the Devil](https://open.spotify.com/track/2cTKXbBQq9aMHPIWKqtff0) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh), [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Speak of the Devil](https://open.spotify.com/album/0xC2kMMJgBSWohWmTDeW8L) | 3:42 | 2026-01-20 | 2026-04-24 |
 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 | 2023-11-28 | 2023-12-06 |
 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-08-31 | 2023-11-29 |
 | [Specter](https://open.spotify.com/track/7CvcVIkXP5GzAItfkRkRvQ) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [Specter](https://open.spotify.com/album/3wmlkHf58wYLXR4yVFupbM) | 3:11 | 2023-10-10 | 2023-11-08 |
@@ -2097,7 +2099,7 @@
 | [シアラ](https://open.spotify.com/track/2TalIR0qSpdyM1rwtO2JHO) | [Gesu No Kiwami Otome](https://open.spotify.com/artist/1ieluXFoq2RRxMXZIQksTz) | [ディスコの卵](https://open.spotify.com/album/5abpmCp73IMXcZ1ezGqQrh) | 3:57 | 2024-05-21 | 2024-05-29 |
 | [シェイプシフター](https://open.spotify.com/track/6EVVciBwPE9AUDmAHIWyt6) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [シェイプシフター](https://open.spotify.com/album/0LGgsmlcCxC7PAcif3bk0x) | 3:31 | 2025-10-08 | 2026-02-11 |
 | [シェードの埃は延長](https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [シェードの埃は延長](https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ) | 3:52 | 2025-01-21 | 2025-04-09 |
-| [シティホテル](https://open.spotify.com/track/3L2RXDGiE3CdalnwpJiE6s) | [Khaki](https://open.spotify.com/artist/0z60oOEtiYBZkMkZ93pxZd) | [シティホテル](https://open.spotify.com/album/34ITjp6W3YHh8AGyQiwvJW) | 3:53 | 2026-04-07 |  |
+| [シティホテル](https://open.spotify.com/track/3L2RXDGiE3CdalnwpJiE6s) | [Khaki](https://open.spotify.com/artist/0z60oOEtiYBZkMkZ93pxZd) | [シティホテル](https://open.spotify.com/album/34ITjp6W3YHh8AGyQiwvJW) | 3:53 | 2026-04-07 | 2026-04-24 |
 | [シュガースポット](https://open.spotify.com/track/5KQnoIToRhc46PsWoiv5iq) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [シュガースポット](https://open.spotify.com/album/7CogGI6l5nM7bXFcQfg0Wg) | 3:50 | 2023-10-24 | 2024-01-26 |
 | [シュガーソルト](https://open.spotify.com/track/791f4rwkhCje7i8h3pn4yK) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [シュガーソルト](https://open.spotify.com/album/5pxYvuvef8LYB270lBChvq) | 4:17 | 2023-12-19 | 2023-12-22 |
 | [ショーラー](https://open.spotify.com/track/1x6eEZDPHcmO4Zf7QKLzKk) | [Ooochie Koochie](https://open.spotify.com/artist/6C63Dia34mMK2wzE5uEvQF), [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0), [Koji Kikkawa](https://open.spotify.com/artist/1S6yZL1OIb51tEtbKg3iZ1) | [ショーラー](https://open.spotify.com/album/1vApXOGKLnmUoByOzRbvMx) | 3:04 | 2025-06-03 | 2025-06-11 |

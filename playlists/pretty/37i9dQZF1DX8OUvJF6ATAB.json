@@ -1,6 +1,6 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 212525,
+  "num_followers": 212538,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Improvisational Loops",
-        "url": "https://open.spotify.com/album/7sYiiE8J3sHHCALicu6MUU"
-      },
-      "artists": [
-        {
-          "name": "Terekke",
-          "url": "https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu"
-        }
-      ],
-      "duration_ms": 262358,
-      "name": "Wav1",
-      "url": "https://open.spotify.com/track/61nIFWvt5C2xpmy3B66YNN"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "outside of your lifetime",
         "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 237187,
       "name": "Moderato",
       "url": "https://open.spotify.com/track/5nihxnUMrvUAY7NweeNPbT"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Improvisational Loops",
+        "url": "https://open.spotify.com/album/7sYiiE8J3sHHCALicu6MUU"
+      },
+      "artists": [
+        {
+          "name": "Terekke",
+          "url": "https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu"
+        }
+      ],
+      "duration_ms": 262358,
+      "name": "Wav1",
+      "url": "https://open.spotify.com/track/61nIFWvt5C2xpmy3B66YNN"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Kwaidan",
-        "url": "https://open.spotify.com/album/0COOSP2TWDQQLdLE1HdGlO"
-      },
-      "artists": [
-        {
-          "name": "MEITEI",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Sankai",
-      "url": "https://open.spotify.com/track/6IQoOFscOOZqWTy6Hn6QnC"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Grass and Trees",
         "url": "https://open.spotify.com/album/5BWggRFjTVj5uC1lqjjFU7"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 231733,
       "name": "Existing Closer or Deeper in Space",
       "url": "https://open.spotify.com/track/6kzNAm0RiDW3UyxTOimSLU"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Kwaidan",
+        "url": "https://open.spotify.com/album/0COOSP2TWDQQLdLE1HdGlO"
+      },
+      "artists": [
+        {
+          "name": "MEITEI",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Sankai",
+      "url": "https://open.spotify.com/track/6IQoOFscOOZqWTy6Hn6QnC"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -823,6 +823,30 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Fading In And Out",
+        "url": "https://open.spotify.com/album/6j1FkmIUkgTADDADZUNnHh"
+      },
+      "artists": [
+        {
+          "name": "Soular Child",
+          "url": "https://open.spotify.com/artist/0UUiNe399XY6xl116DbUOn"
+        },
+        {
+          "name": "Kazuma Okabayashi",
+          "url": "https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa"
+        },
+        {
+          "name": "Tsunami Sounds",
+          "url": "https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Fading In",
+      "url": "https://open.spotify.com/track/1TbBWoY5ztVqoNcpdCiuE6"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/7gv0Nr7L0yZ8s0GM0gfDbO"
       },
@@ -839,22 +863,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Forest Dreams",
-        "url": "https://open.spotify.com/album/1FEt78mhUImIJ7UAVD2CsO"
-      },
-      "artists": [
-        {
-          "name": "Glacier Wave",
-          "url": "https://open.spotify.com/artist/4oUckuGBldRcLfLmZcMdBN"
-        }
-      ],
-      "duration_ms": 222511,
-      "name": "Forest Dreams",
-      "url": "https://open.spotify.com/track/70zia32aU9S7zvTdymWhCP"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Grial",
         "url": "https://open.spotify.com/album/0plvaGqOtMeRPkzUwDgd3X"
       },
@@ -867,6 +875,22 @@
       "duration_ms": 299892,
       "name": "Our New Order",
       "url": "https://open.spotify.com/track/71kdBwFjBFIMn4ZBsFOlYa"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Forest Dreams",
+        "url": "https://open.spotify.com/album/1FEt78mhUImIJ7UAVD2CsO"
+      },
+      "artists": [
+        {
+          "name": "Glacier Wave",
+          "url": "https://open.spotify.com/artist/4oUckuGBldRcLfLmZcMdBN"
+        }
+      ],
+      "duration_ms": 222511,
+      "name": "Forest Dreams",
+      "url": "https://open.spotify.com/track/70zia32aU9S7zvTdymWhCP"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -967,30 +991,6 @@
       "duration_ms": 309448,
       "name": "September Remember",
       "url": "https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Fading In And Out",
-        "url": "https://open.spotify.com/album/6j1FkmIUkgTADDADZUNnHh"
-      },
-      "artists": [
-        {
-          "name": "Soular Child",
-          "url": "https://open.spotify.com/artist/0UUiNe399XY6xl116DbUOn"
-        },
-        {
-          "name": "Kazuma Okabayashi",
-          "url": "https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa"
-        },
-        {
-          "name": "Tsunami Sounds",
-          "url": "https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Fading In",
-      "url": "https://open.spotify.com/track/1TbBWoY5ztVqoNcpdCiuE6"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Amplitudes",
-        "url": "https://open.spotify.com/album/41je9hrZffgF9mq47cGiMk"
-      },
-      "artists": [
-        {
-          "name": "Tapes and Topographies",
-          "url": "https://open.spotify.com/artist/6rmx6yRqggZxsha4WKns43"
-        }
-      ],
-      "duration_ms": 328083,
-      "name": "Everyone is Far Away",
-      "url": "https://open.spotify.com/track/4fmMywOoOP53r34yowvadz"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "The Long Count",
         "url": "https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 141500,
       "name": "1st Day",
       "url": "https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Amplitudes",
+        "url": "https://open.spotify.com/album/41je9hrZffgF9mq47cGiMk"
+      },
+      "artists": [
+        {
+          "name": "Tapes and Topographies",
+          "url": "https://open.spotify.com/artist/6rmx6yRqggZxsha4WKns43"
+        }
+      ],
+      "duration_ms": 328083,
+      "name": "Everyone is Far Away",
+      "url": "https://open.spotify.com/track/4fmMywOoOP53r34yowvadz"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Sublunar Oracles",
-        "url": "https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk"
+        "name": "Eternal Night",
+        "url": "https://open.spotify.com/album/7kWVSVCKdMFg3pKha9eCn5"
       },
       "artists": [
         {
-          "name": "Trans-4M",
-          "url": "https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj"
+          "name": "Microhm",
+          "url": "https://open.spotify.com/artist/2R34QK2WtkeIezUVWOEjRN"
         }
       ],
-      "duration_ms": 566333,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/4sBqFcXxQEfyqNYA7tDNwq"
+      "duration_ms": 435004,
+      "name": "Stargazers",
+      "url": "https://open.spotify.com/track/3PpzHsBBaQidL7kLGEspN3"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Eternal Night",
-        "url": "https://open.spotify.com/album/7kWVSVCKdMFg3pKha9eCn5"
+        "name": "Sublunar Oracles",
+        "url": "https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk"
       },
       "artists": [
         {
-          "name": "Microhm",
-          "url": "https://open.spotify.com/artist/2R34QK2WtkeIezUVWOEjRN"
+          "name": "Trans-4M",
+          "url": "https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj"
         }
       ],
-      "duration_ms": 435004,
-      "name": "Stargazers",
-      "url": "https://open.spotify.com/track/3PpzHsBBaQidL7kLGEspN3"
+      "duration_ms": 566333,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/4sBqFcXxQEfyqNYA7tDNwq"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1371,18 +1371,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "E2-XO",
-        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
+        "name": "Endlessness",
+        "url": "https://open.spotify.com/album/0pHwRR0CdmJTwTU96ZCrIE"
       },
       "artists": [
         {
-          "name": "GCOM",
-          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
+          "name": "Braulio Lam",
+          "url": "https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS"
+        },
+        {
+          "name": "Simonel",
+          "url": "https://open.spotify.com/artist/4x0ePWZjRP0nwFRuU174vR"
         }
       ],
-      "duration_ms": 475965,
-      "name": "XO 4 - Wolf 1061c",
-      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
+      "duration_ms": 199148,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/5lfY5qGSiGqpaVbkW3OCn9"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1403,6 +1407,22 @@
       "duration_ms": 385998,
       "name": "How A Spiral Works",
       "url": "https://open.spotify.com/track/7eGYkcCZMNTLpJZ0sc4Jgc"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "E2-XO",
+        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
+      },
+      "artists": [
+        {
+          "name": "GCOM",
+          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
+        }
+      ],
+      "duration_ms": 475965,
+      "name": "XO 4 - Wolf 1061c",
+      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1439,22 +1459,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Endlessness",
-        "url": "https://open.spotify.com/album/0pHwRR0CdmJTwTU96ZCrIE"
+        "name": "Inner Rage",
+        "url": "https://open.spotify.com/album/3k7kOAsZhqLlIO0pouLde8"
       },
       "artists": [
         {
-          "name": "Braulio Lam",
-          "url": "https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS"
-        },
-        {
-          "name": "Simonel",
-          "url": "https://open.spotify.com/artist/4x0ePWZjRP0nwFRuU174vR"
+          "name": "Edgar Mondrag\u00f3n",
+          "url": "https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D"
         }
       ],
-      "duration_ms": 199148,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/5lfY5qGSiGqpaVbkW3OCn9"
+      "duration_ms": 374679,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1499,18 +1515,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Inner Rage",
-        "url": "https://open.spotify.com/album/3k7kOAsZhqLlIO0pouLde8"
+        "name": "Whisper Fold Brush",
+        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
       },
       "artists": [
         {
-          "name": "Edgar Mondrag\u00f3n",
-          "url": "https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D"
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 374679,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd"
+      "duration_ms": 1190161,
+      "name": "Whisper Fold Brush, Pt. One",
+      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1531,22 +1547,6 @@
       "duration_ms": 241000,
       "name": "Murmur - Machinefabriek Remix",
       "url": "https://open.spotify.com/track/3sF0muGOQvjsV4ZKLxr7KQ"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Whisper Fold Brush",
-        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 1190161,
-      "name": "Whisper Fold Brush, Pt. One",
-      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Return Forever",
+        "url": "https://open.spotify.com/album/01zA9wGdao7OUKN9Ce2lyT"
+      },
+      "artists": [
+        {
+          "name": "Innere Tueren",
+          "url": "https://open.spotify.com/artist/7mVDs9l7aRtmHrnE4T768y"
+        }
+      ],
+      "duration_ms": 281228,
+      "name": "Return Forever",
+      "url": "https://open.spotify.com/track/3S2TaFyKQ03FAoBE75ikkK"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "On",
         "url": "https://open.spotify.com/album/555B251cduEoLSwUfspLxF"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 282500,
       "name": "On",
       "url": "https://open.spotify.com/track/2arFCnIZKZnFFl1OxQJCqV"
-    },
-    {
-      "added_at": "2023-10-22 04:29:48",
-      "album": {
-        "name": "Doxa",
-        "url": "https://open.spotify.com/album/5RYRAYaGjgDAaWUMeEwt2J"
-      },
-      "artists": [
-        {
-          "name": "Venus Ex Machina",
-          "url": "https://open.spotify.com/artist/70kUH4TKwLNkPozC2zye3p"
-        }
-      ],
-      "duration_ms": 416166,
-      "name": "The Abyss",
-      "url": "https://open.spotify.com/track/3lhesp9GC2OTAy7ANEKSmp"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1653,22 +1653,6 @@
       "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
     },
     {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Return Forever",
-        "url": "https://open.spotify.com/album/01zA9wGdao7OUKN9Ce2lyT"
-      },
-      "artists": [
-        {
-          "name": "Innere Tueren",
-          "url": "https://open.spotify.com/artist/7mVDs9l7aRtmHrnE4T768y"
-        }
-      ],
-      "duration_ms": 281228,
-      "name": "Return Forever",
-      "url": "https://open.spotify.com/track/3S2TaFyKQ03FAoBE75ikkK"
-    },
-    {
       "added_at": "2023-10-10 02:23:30",
       "album": {
         "name": "how will we get back to life again?",
@@ -1683,6 +1667,22 @@
       "duration_ms": 223735,
       "name": "how will we get back to life again?",
       "url": "https://open.spotify.com/track/2Ijzl5nr2rFV5FDFW6Fitn"
+    },
+    {
+      "added_at": "2023-10-22 04:29:48",
+      "album": {
+        "name": "Doxa",
+        "url": "https://open.spotify.com/album/5RYRAYaGjgDAaWUMeEwt2J"
+      },
+      "artists": [
+        {
+          "name": "Venus Ex Machina",
+          "url": "https://open.spotify.com/artist/70kUH4TKwLNkPozC2zye3p"
+        }
+      ],
+      "duration_ms": 416166,
+      "name": "The Abyss",
+      "url": "https://open.spotify.com/track/3lhesp9GC2OTAy7ANEKSmp"
     }
   ],
   "unique_name": "Exospheres",

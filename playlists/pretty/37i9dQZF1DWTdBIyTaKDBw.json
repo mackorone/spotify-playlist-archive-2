@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 27133,
+  "num_followers": 27160,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-04-17 03:01:58",
       "album": {
-        "name": "Way of Life",
-        "url": "https://open.spotify.com/album/4ktK0PC4NZjqmmLPLJlcI2"
-      },
-      "artists": [
-        {
-          "name": "Yasumu",
-          "url": "https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Midnight Thoughts",
-      "url": "https://open.spotify.com/track/6dgegoRp7BrEg1Rax4w4pq"
-    },
-    {
-      "added_at": "2026-04-17 03:01:58",
-      "album": {
         "name": "Cold Thoughts",
         "url": "https://open.spotify.com/album/3ZBkNWJe9esw2UmDK3klR3"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 146675,
       "name": "The Dawn",
       "url": "https://open.spotify.com/track/0aZ00bASQBIz6MmnH9rjdt"
+    },
+    {
+      "added_at": "2026-04-17 03:01:58",
+      "album": {
+        "name": "Way of Life",
+        "url": "https://open.spotify.com/album/4ktK0PC4NZjqmmLPLJlcI2"
+      },
+      "artists": [
+        {
+          "name": "Yasumu",
+          "url": "https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Midnight Thoughts",
+      "url": "https://open.spotify.com/track/6dgegoRp7BrEg1Rax4w4pq"
     },
     {
       "added_at": "2026-04-17 03:01:58",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-04-17 03:01:58",
       "album": {
+        "name": "Around the World",
+        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Shanghai Nights",
+      "url": "https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75"
+    },
+    {
+      "added_at": "2026-04-17 03:01:58",
+      "album": {
         "name": "D\u00e9j\u00e0 vu",
         "url": "https://open.spotify.com/album/4LTL70hnBdhDGxGcc42LzZ"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 151730,
       "name": "Sunlit",
       "url": "https://open.spotify.com/track/6CaNDQIdh5guSCXbg0MOgG"
-    },
-    {
-      "added_at": "2026-04-17 03:01:58",
-      "album": {
-        "name": "Around the World",
-        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Shanghai Nights",
-      "url": "https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75"
     },
     {
       "added_at": "2026-04-17 03:01:58",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-04-17 03:01:58",
       "album": {
-        "name": "Natsukashi",
-        "url": "https://open.spotify.com/album/5d6EIQCTKqReAEqWjFejrh"
-      },
-      "artists": [
-        {
-          "name": "oxinym",
-          "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
-        }
-      ],
-      "duration_ms": 117108,
-      "name": "Natsukashi",
-      "url": "https://open.spotify.com/track/2lzSlrmOmt1HSMIW6o3bnf"
-    },
-    {
-      "added_at": "2026-04-17 03:01:58",
-      "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/6TqEfURNizG4pHGCh5THZd"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 195500,
       "name": "Shinrin",
       "url": "https://open.spotify.com/track/0tvVGLB8YrW4JLezmfJZmN"
+    },
+    {
+      "added_at": "2026-04-17 03:01:58",
+      "album": {
+        "name": "Natsukashi",
+        "url": "https://open.spotify.com/album/5d6EIQCTKqReAEqWjFejrh"
+      },
+      "artists": [
+        {
+          "name": "oxinym",
+          "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
+        }
+      ],
+      "duration_ms": 117108,
+      "name": "Natsukashi",
+      "url": "https://open.spotify.com/track/2lzSlrmOmt1HSMIW6o3bnf"
     },
     {
       "added_at": "2026-04-17 03:01:58",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-04-17 03:01:58",
       "album": {
+        "name": "Orchid",
+        "url": "https://open.spotify.com/album/4dlomvtgamB44rvu30eWwv"
+      },
+      "artists": [
+        {
+          "name": "Shao Rong",
+          "url": "https://open.spotify.com/artist/6IhSYfuEsuKw2LNOzJ5O4R"
+        }
+      ],
+      "duration_ms": 279760,
+      "name": "Wild Rose",
+      "url": "https://open.spotify.com/track/7vZCViayCZr9sDFJbg5xh5"
+    },
+    {
+      "added_at": "2026-04-17 03:01:58",
+      "album": {
         "name": "Yugen",
         "url": "https://open.spotify.com/album/7KCwE6FNoDVt1vul0jQyUl"
       },
@@ -983,18 +999,18 @@
     {
       "added_at": "2026-04-17 03:01:58",
       "album": {
-        "name": "Orchid",
-        "url": "https://open.spotify.com/album/4dlomvtgamB44rvu30eWwv"
+        "name": "Tokyo Rooftop",
+        "url": "https://open.spotify.com/album/01WPd7sKlLqLGaJFsiVlr8"
       },
       "artists": [
         {
-          "name": "Shao Rong",
-          "url": "https://open.spotify.com/artist/6IhSYfuEsuKw2LNOzJ5O4R"
+          "name": "Zadbeatz",
+          "url": "https://open.spotify.com/artist/5eAVEXfUncEQ0klgSky3TY"
         }
       ],
-      "duration_ms": 279760,
-      "name": "Wild Rose",
-      "url": "https://open.spotify.com/track/7vZCViayCZr9sDFJbg5xh5"
+      "duration_ms": 132942,
+      "name": "Tokyo Rooftop",
+      "url": "https://open.spotify.com/track/0rJHr0Z3uMRGKNK2jg05Tx"
     },
     {
       "added_at": "2026-04-17 03:01:58",
@@ -1011,22 +1027,6 @@
       "duration_ms": 174545,
       "name": "Chinese Morning",
       "url": "https://open.spotify.com/track/7xRJpOn1TVd8uwzziaKQYU"
-    },
-    {
-      "added_at": "2026-04-17 03:01:58",
-      "album": {
-        "name": "Tokyo Rooftop",
-        "url": "https://open.spotify.com/album/01WPd7sKlLqLGaJFsiVlr8"
-      },
-      "artists": [
-        {
-          "name": "Zadbeatz",
-          "url": "https://open.spotify.com/artist/5eAVEXfUncEQ0klgSky3TY"
-        }
-      ],
-      "duration_ms": 132942,
-      "name": "Tokyo Rooftop",
-      "url": "https://open.spotify.com/track/0rJHr0Z3uMRGKNK2jg05Tx"
     },
     {
       "added_at": "2026-04-17 03:01:58",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-04-17 03:01:58",
       "album": {
-        "name": "rainy evening",
-        "url": "https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ"
-      },
-      "artists": [
-        {
-          "name": "Idealism",
-          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Controlla",
-      "url": "https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm"
-    },
-    {
-      "added_at": "2026-04-17 03:01:58",
-      "album": {
         "name": "Phase",
         "url": "https://open.spotify.com/album/3iILl7bjMEidc23SlypqAV"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 234782,
       "name": "Phase",
       "url": "https://open.spotify.com/track/2Tc9u95gqhnfn9Q79TpgIa"
+    },
+    {
+      "added_at": "2026-04-17 03:01:58",
+      "album": {
+        "name": "Vanishing Journey",
+        "url": "https://open.spotify.com/album/3oGLMzJCwhyBqy50CHoMwP"
+      },
+      "artists": [
+        {
+          "name": "Elijah Lee",
+          "url": "https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu"
+        }
+      ],
+      "duration_ms": 146925,
+      "name": "Night Drive",
+      "url": "https://open.spotify.com/track/33kQJiqhOOSkfs7dz3SQ1O"
     },
     {
       "added_at": "2026-04-17 03:01:58",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2026-04-17 03:01:58",
       "album": {
-        "name": "Vanishing Journey",
-        "url": "https://open.spotify.com/album/3oGLMzJCwhyBqy50CHoMwP"
+        "name": "rainy evening",
+        "url": "https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ"
       },
       "artists": [
         {
-          "name": "Elijah Lee",
-          "url": "https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu"
+          "name": "Idealism",
+          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
         }
       ],
-      "duration_ms": 146925,
-      "name": "Night Drive",
-      "url": "https://open.spotify.com/track/33kQJiqhOOSkfs7dz3SQ1O"
+      "duration_ms": 108000,
+      "name": "Controlla",
+      "url": "https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm"
     },
     {
       "added_at": "2026-04-17 03:01:58",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-04-17 03:01:58",
       "album": {
-        "name": "Calm",
-        "url": "https://open.spotify.com/album/2udB97O2aRJDluomPS7v9m"
-      },
-      "artists": [
-        {
-          "name": "Nomak",
-          "url": "https://open.spotify.com/artist/6XrpG3fOQBXzVBYjQUrsGv"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/4xVy2Ej4pV95vyMauBwToI"
-    },
-    {
-      "added_at": "2026-04-17 03:01:58",
-      "album": {
         "name": "Kodama",
         "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 186268,
       "name": "Kodama",
       "url": "https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8"
+    },
+    {
+      "added_at": "2026-04-17 03:01:58",
+      "album": {
+        "name": "Calm",
+        "url": "https://open.spotify.com/album/2udB97O2aRJDluomPS7v9m"
+      },
+      "artists": [
+        {
+          "name": "Nomak",
+          "url": "https://open.spotify.com/artist/6XrpG3fOQBXzVBYjQUrsGv"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/4xVy2Ej4pV95vyMauBwToI"
     },
     {
       "added_at": "2026-04-17 03:01:58",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2026-04-17 03:01:58",
       "album": {
+        "name": "Despair",
+        "url": "https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v"
+      },
+      "artists": [
+        {
+          "name": "NKOHA",
+          "url": "https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR"
+        }
+      ],
+      "duration_ms": 131240,
+      "name": "Death Curse",
+      "url": "https://open.spotify.com/track/3G6p8lXQ1qjQOzvZA1KB6A"
+    },
+    {
+      "added_at": "2026-04-17 03:01:58",
+      "album": {
         "name": "Red Lamps.",
         "url": "https://open.spotify.com/album/754cKk6njePm3Wx8zJ1Pyi"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 131294,
       "name": "Red Lamps.",
       "url": "https://open.spotify.com/track/1IkGsJo1MkPXHTC4rvdBTd"
-    },
-    {
-      "added_at": "2026-04-17 03:01:58",
-      "album": {
-        "name": "Despair",
-        "url": "https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v"
-      },
-      "artists": [
-        {
-          "name": "NKOHA",
-          "url": "https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR"
-        }
-      ],
-      "duration_ms": 131240,
-      "name": "Death Curse",
-      "url": "https://open.spotify.com/track/3G6p8lXQ1qjQOzvZA1KB6A"
     },
     {
       "added_at": "2026-04-17 03:01:58",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2026-04-17 03:01:58",
       "album": {
+        "name": "Aquilla",
+        "url": "https://open.spotify.com/album/1CscRBQ465UaSIPNjeIOnB"
+      },
+      "artists": [
+        {
+          "name": "Loafy Building",
+          "url": "https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs"
+        },
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "duration_ms": 124765,
+      "name": "Zhuki",
+      "url": "https://open.spotify.com/track/55K4HllSdmsXw1L7KmRBWv"
+    },
+    {
+      "added_at": "2026-04-17 03:01:58",
+      "album": {
         "name": "Lost in Japan II",
         "url": "https://open.spotify.com/album/4ouEJG6RaGAKTB6CwhnBtT"
       },
@@ -1635,22 +1655,6 @@
       "duration_ms": 211304,
       "name": "Song of the Samurai",
       "url": "https://open.spotify.com/track/5nG6besfk5Aoa24OBSdREv"
-    },
-    {
-      "added_at": "2026-04-17 03:01:58",
-      "album": {
-        "name": "Answer Love",
-        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
-      },
-      "artists": [
-        {
-          "name": "Lilac",
-          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
-        }
-      ],
-      "duration_ms": 145617,
-      "name": "Hatsukoi",
-      "url": "https://open.spotify.com/track/3wPK4mTmc3N5IU0SrrVlH4"
     },
     {
       "added_at": "2026-04-17 03:01:58",
@@ -1671,6 +1675,22 @@
     {
       "added_at": "2026-04-17 03:01:58",
       "album": {
+        "name": "Answer Love",
+        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
+      },
+      "artists": [
+        {
+          "name": "Lilac",
+          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
+        }
+      ],
+      "duration_ms": 145617,
+      "name": "Hatsukoi",
+      "url": "https://open.spotify.com/track/3wPK4mTmc3N5IU0SrrVlH4"
+    },
+    {
+      "added_at": "2026-04-17 03:01:58",
+      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
       },
@@ -1683,22 +1703,6 @@
       "duration_ms": 221832,
       "name": "rainy day",
       "url": "https://open.spotify.com/track/4qYZhVhOrj1SeuHbVAZJqj"
-    },
-    {
-      "added_at": "2026-04-17 03:01:58",
-      "album": {
-        "name": "Eternal Youth",
-        "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
-      },
-      "artists": [
-        {
-          "name": "R\u016eDE",
-          "url": "https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq"
-        }
-      ],
-      "duration_ms": 194899,
-      "name": "Rising Light",
-      "url": "https://open.spotify.com/track/2SvVkBk3CzOle7MQqViMzV"
     }
   ],
   "unique_name": "oriental lofi",

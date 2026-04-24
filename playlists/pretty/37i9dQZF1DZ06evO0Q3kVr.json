@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Bostik. The essential tracks, all in one playlist.",
-  "num_followers": 6626,
+  "num_followers": 6629,
   "original_name": "This Is Banda Bostik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAABaVfx0dWNCeE7iHKIZCHPW",
+  "snapshot_id": "aegPgAAAAADQSKCQbce3dbQ4ZgV5lTZY",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Del Barrio",
-        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 290481,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/0yXNbmCKjFjDwyhOOw8Ghn"
+      "duration_ms": 199146,
+      "name": "Llamarada de Petate",
+      "url": "https://open.spotify.com/track/4YiLBnH4LhvHZESn36OZj6"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 227760,
-      "name": "Al Diablo Con Mi Suerte",
-      "url": "https://open.spotify.com/track/0PHlq00lqPvLUQYpedHFsv"
+      "duration_ms": 290481,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/0yXNbmCKjFjDwyhOOw8Ghn"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En el Camino",
-        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 237840,
-      "name": "S.O.S. de Amor",
-      "url": "https://open.spotify.com/track/4BHg0cux6eWiKNtSckEh0q"
+      "duration_ms": 227760,
+      "name": "Al Diablo Con Mi Suerte",
+      "url": "https://open.spotify.com/track/0PHlq00lqPvLUQYpedHFsv"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+        "name": "En el Camino",
+        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 199146,
-      "name": "Llamarada de Petate",
-      "url": "https://open.spotify.com/track/4YiLBnH4LhvHZESn36OZj6"
+      "duration_ms": 237840,
+      "name": "S.O.S. de Amor",
+      "url": "https://open.spotify.com/track/4BHg0cux6eWiKNtSckEh0q"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Genoma Humano",
-        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Hipocres\u00eda",
-      "url": "https://open.spotify.com/track/1hTjikq5Pc0hfOgqHMTOVc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ataca de Nuevo: En Vivo, Vol. 1",
         "url": "https://open.spotify.com/album/1J414WmCyoFwbOb0Kz5sXD"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 390240,
       "name": "Exceso de Drogas - En Vivo",
       "url": "https://open.spotify.com/track/6E9ImakW9sqDliFdc6OS5w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Hipocres\u00eda",
+      "url": "https://open.spotify.com/track/1hTjikq5Pc0hfOgqHMTOVc"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Capturados",
-        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 236193,
-      "name": "Pandillero, Pt. 1",
-      "url": "https://open.spotify.com/track/1LB8vVSpazzZ9pQ0VzGuAj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Del Barrio",
         "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 312633,
       "name": "Una Leyenda Viviente",
       "url": "https://open.spotify.com/track/7Ir0MnAlJP6SwDQeAktB77"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Capturados",
+        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 236193,
+      "name": "Pandillero, Pt. 1",
+      "url": "https://open.spotify.com/track/1LB8vVSpazzZ9pQ0VzGuAj"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1638212,
+  "num_followers": 1638221,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAABwq4UDL3CpREJQD4nc/5p9",
+  "snapshot_id": "aegPgAAAAAAXv7BozuymuMrFBhJhymhC",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/2OmTdaXM8mvpi28xTxT5Y6"
+        "name": "World of Walker, Season One: Rise of the Drones",
+        "url": "https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
         }
       ],
-      "duration_ms": 191861,
-      "name": "Void",
-      "url": "https://open.spotify.com/track/6KwgfZhSWwrjDriUVNjVpI"
+      "duration_ms": 202210,
+      "name": "Eroina",
+      "url": "https://open.spotify.com/track/4KIy6jNEmGFl33RU84iL5P"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "World of Walker, Season One: Rise of the Drones",
-        "url": "https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS"
+        "name": "Void",
+        "url": "https://open.spotify.com/album/2OmTdaXM8mvpi28xTxT5Y6"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
         }
       ],
-      "duration_ms": 202210,
-      "name": "Eroina",
-      "url": "https://open.spotify.com/track/4KIy6jNEmGFl33RU84iL5P"
+      "duration_ms": 191861,
+      "name": "Void",
+      "url": "https://open.spotify.com/track/6KwgfZhSWwrjDriUVNjVpI"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Home",
-        "url": "https://open.spotify.com/album/1Q4uvSRVKnpA1P9RbiOjxM"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Alessia Labate",
-          "url": "https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd"
-        }
-      ],
-      "duration_ms": 120624,
-      "name": "Not Home",
-      "url": "https://open.spotify.com/track/19XUNscIDiBwOMRkRyTrG9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me, Myself and The Night",
         "url": "https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy"
       },
@@ -819,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerworld 2.0",
-        "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
+        "name": "Not Home",
+        "url": "https://open.spotify.com/album/1Q4uvSRVKnpA1P9RbiOjxM"
       },
       "artists": [
         {
@@ -828,13 +808,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "MEEK",
-          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+          "name": "Alessia Labate",
+          "url": "https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd"
         }
       ],
-      "duration_ms": 156937,
-      "name": "Dancing in love",
-      "url": "https://open.spotify.com/track/5KMVvlczBJnxDJJe3U4Tbn"
+      "duration_ms": 120624,
+      "name": "Not Home",
+      "url": "https://open.spotify.com/track/19XUNscIDiBwOMRkRyTrG9"
     },
     {
       "added_at": null,
@@ -855,6 +835,26 @@
       "duration_ms": 136563,
       "name": "Running Out Of Roses",
       "url": "https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walkerworld 2.0",
+        "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+        }
+      ],
+      "duration_ms": 156937,
+      "name": "Dancing in love",
+      "url": "https://open.spotify.com/track/5KMVvlczBJnxDJJe3U4Tbn"
     },
     {
       "added_at": null,
@@ -907,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerworld 2.0",
-        "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Anne Gudrun",
-          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
-        }
-      ],
-      "duration_ms": 136421,
-      "name": "Avalon",
-      "url": "https://open.spotify.com/track/2bhBxdo4dqqjCBvErJBZW7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barcelona",
         "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 205086,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walkerworld 2.0",
+        "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Anne Gudrun",
+          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
+        }
+      ],
+      "duration_ms": 136421,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/2bhBxdo4dqqjCBvErJBZW7"
     },
     {
       "added_at": null,

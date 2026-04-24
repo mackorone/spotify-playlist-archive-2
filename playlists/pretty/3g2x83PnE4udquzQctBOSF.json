@@ -1,13 +1,77 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2743,
+  "num_followers": 2742,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAASRkSHh83FXgb3D3+6/OCAZ+6/QpU5",
+  "snapshot_id": "AAASSqmpbxRFgD51NNOszRswK3Zoj1rN",
   "tracks": [
+    {
+      "added_at": "2026-04-23 15:26:51",
+      "album": {
+        "name": "Hacia delante",
+        "url": "https://open.spotify.com/album/73vmyx63AXRJdcqvaiJ5l3"
+      },
+      "artists": [
+        {
+          "name": "fabiom_dj",
+          "url": "https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP"
+        }
+      ],
+      "duration_ms": 204480,
+      "name": "mi cuerpo fluye",
+      "url": "https://open.spotify.com/track/3vh4zLgl4XpIyJIe0zokJw"
+    },
+    {
+      "added_at": "2026-04-23 14:34:31",
+      "album": {
+        "name": "Hacia delante",
+        "url": "https://open.spotify.com/album/73vmyx63AXRJdcqvaiJ5l3"
+      },
+      "artists": [
+        {
+          "name": "fabiom_dj",
+          "url": "https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "\u00e1frica es tu casa",
+      "url": "https://open.spotify.com/track/3FwbBwZp9Y13odbkzc93ML"
+    },
+    {
+      "added_at": "2026-04-23 08:50:36",
+      "album": {
+        "name": "Velvet Horizon",
+        "url": "https://open.spotify.com/album/0ORGbusaM6OiYrwOru1D5z"
+      },
+      "artists": [
+        {
+          "name": "Archi K",
+          "url": "https://open.spotify.com/artist/2t0eG7qAMeAL62ZdVzlcRY"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Velvet Horizon",
+      "url": "https://open.spotify.com/track/6iuXEPR04gGcSvRaJm4yI4"
+    },
+    {
+      "added_at": "2026-04-23 05:45:09",
+      "album": {
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/35ZjysQyPFdMFKQs9PsbEu"
+      },
+      "artists": [
+        {
+          "name": "Leo Effe",
+          "url": "https://open.spotify.com/artist/190T5d0VosWDsjeUzIDR4M"
+        }
+      ],
+      "duration_ms": 244741,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/2Ar5VJ09eGYZpL76GIXRNx"
+    },
     {
       "added_at": "2026-04-23 00:09:19",
       "album": {

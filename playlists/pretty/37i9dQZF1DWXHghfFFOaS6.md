@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,822 likes - 90 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,876 likes - 90 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,14 +89,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 79 | [Mr\. Jeckle](https://open.spotify.com/track/44gelCZF88DC5IRz5XmckW) | [Max Beesley's High Vibes](https://open.spotify.com/artist/3g3DY4k7sZVhr7qyXHXvtd) | [The Acid Jazz Collection: Jazz](https://open.spotify.com/album/079VY3Bq21ahpq9lAvfNpc) | 4:04 |
 | 80 | [Take Four](https://open.spotify.com/track/1kHc8mFnI7IkSf9Hi0c3UM) | [The Quiet Boys](https://open.spotify.com/artist/6iYeCjvRYeWPSp5LjaiIMt) | [Bosh!](https://open.spotify.com/album/2HbZzv8puv4OrDL90MluOh) | 3:33 |
 | 81 | [The Sun \)](https://open.spotify.com/track/6zQjXYLv8zx0FWezhp6yoo) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw), [Elson Nascimento \(of Sun Ra Arkestra\)](https://open.spotify.com/artist/0jHhgu1WcbzXfcTwyipyKn) | [The Sun \)](https://open.spotify.com/album/0c7qsiBET91icyneq7KccE) | 2:56 |
-| 82 | [Evil Vibrations](https://open.spotify.com/track/2kKP6f4FdVxOHvUG8ctLKY) | [The Rebirth](https://open.spotify.com/artist/69Jz3OjR3kdhCoJoAY8PSL) | [Rewind, Vol\. 4](https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp) | 5:33 |
-| 83 | [Bring It On](https://open.spotify.com/track/5oz5BN9nXXRrepQPDDb8pO) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [Bring It On](https://open.spotify.com/album/5kXQHuKM8aN4JuUXSZLup1) | 4:20 |
+| 82 | [Bring It On](https://open.spotify.com/track/5oz5BN9nXXRrepQPDDb8pO) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [Bring It On](https://open.spotify.com/album/5kXQHuKM8aN4JuUXSZLup1) | 4:20 |
+| 83 | [Evil Vibrations](https://open.spotify.com/track/2kKP6f4FdVxOHvUG8ctLKY) | [The Rebirth](https://open.spotify.com/artist/69Jz3OjR3kdhCoJoAY8PSL) | [Rewind, Vol\. 4](https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp) | 5:33 |
 | 84 | [Silver Rings](https://open.spotify.com/track/6eAlHHW5bf9duOMJP4SFTA) | [New Street Adventure](https://open.spotify.com/artist/6JEgSTui49GrTS57INox42), [Nick Corbin](https://open.spotify.com/artist/7DGzcNoNqaCLgCLhldp2jg) | [Silver Rings](https://open.spotify.com/album/2VPyx8rjYtmF0wVDDBGVbl) | 2:58 |
 | 85 | [Pushin On](https://open.spotify.com/track/2JySddvtTr1Cxsb6kteTrH) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin On](https://open.spotify.com/album/0KPkVfp35nc2BrsHEwdEh3) | 3:19 |
 | 86 | [Prince Of Peace](https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [A Joyful Noise Unto The Creator](https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j) | 5:55 |
 | 87 | [Crazy That You Love](https://open.spotify.com/track/3aNpDqzNSONgd2wJA8iBLx) | [Aurora Dee Raynes](https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg) | [Crazy That You Love](https://open.spotify.com/album/4itLRse7LQuZRpBiogq4Tf) | 3:29 |
 | 88 | [Broken Biscuits](https://open.spotify.com/track/0CVX6UKcZkfS2vGrqbQKXI) | [Rebecca Vasmant](https://open.spotify.com/artist/0a5lsotyiCdV0xmceU44oN), [Nadya Albertsson](https://open.spotify.com/artist/5Tth72I5bVVp0ndOMDnu3A) | [Broken Biscuits](https://open.spotify.com/album/4RWrAbKH3H9J3oAQLwFL8B) | 6:17 |
 | 89 | [Coffee Kingdom](https://open.spotify.com/track/4iGTyu7gIuqcs278VEZdPo) | [Nikitch](https://open.spotify.com/artist/7H9Yrb2KoVErAUw0S0UVvv), [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj) | [Back & Forth](https://open.spotify.com/album/55mgFgnWo4vJJc6pydpB1A) | 7:10 |
-| 90 | [Mellow My Man](https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz) | 4:41 |
+| 90 | [Slow Down](https://open.spotify.com/track/6i4Gu9ogL4kClgBzj3NZ6g) | [Brand Nubian](https://open.spotify.com/artist/3YyZFf9ZN2YbkqeZia8zHX) | [One for All](https://open.spotify.com/album/2R3q5gMNeQpSNRnAYay6Sm) | 5:03 |
 
 Snapshot ID: `AAAAAMZtH013VT9yo8MLTUxYxErI+AHq`

@@ -4,7 +4,7 @@
 
 > focus modus is aan en leren maar
 
-376 songs - 22 hr 15 min
+379 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Biblical](https://open.spotify.com/track/1rPiAgK5DD2ve9aPujSJB7) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Biblical](https://open.spotify.com/album/4GWFMj7p4nXeRkHs3k8vSH) | 3:49 | 2024-11-21 |  |
 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2024-05-30 |  |
 | [BLUE ft\. Berre](https://open.spotify.com/track/6W851KE7s5gwJvEk8L9h2q) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV), [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [BLUE](https://open.spotify.com/album/0IHMJOuhVv3YyFScmeX6RM) | 3:40 | 2024-03-19 | 2025-02-28 |
+| [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 | 2026-04-23 |  |
 | [Boys Like You \- Acoustic](https://open.spotify.com/track/51xRMJFRBrW9C1RI1qW4S0) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Boys Like You \(Acoustic\)](https://open.spotify.com/album/5vFQw6vOWYH9SaYVbSY9to) | 3:58 | 2022-11-11 | 2024-03-19 |
 | [Breakeven](https://open.spotify.com/track/38xWaVFKaxZlMFvzNff2aW) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/51Hn2Wiq1jmUfI0BLaUhuF) | 4:21 | 2023-04-13 |  |
 | [Breathe In, Breathe Out](https://open.spotify.com/track/6m16iU8EK8k38YqL8VoJQa) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Breathe In, Breathe Out](https://open.spotify.com/album/6wTd2YI5fFfIaVVEbBWXXU) | 2:24 | 2025-04-17 | 2026-02-04 |
@@ -295,6 +296,7 @@
 | [Sorry](https://open.spotify.com/track/07uuo1yEND3oinbFZnYOvx) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Control](https://open.spotify.com/album/2mDFaJRa8HHbUbWusiq3DF) | 3:47 | 2022-11-11 | 2024-04-19 |
 | [Sorry](https://open.spotify.com/track/39HyltGRsg2q0s5PMA9ala) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Control](https://open.spotify.com/album/7kunNk4rQrxOtatKGidJO4) | 3:47 | 2024-03-25 | 2025-02-21 |
 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 | 2022-11-11 |  |
+| [Steady](https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [a couple minutes out](https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t) | 3:26 | 2026-04-23 |  |
 | [Stuck In The Middle](https://open.spotify.com/track/44TzvSZLIkM7Y7MEnrvkIl) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 3:16 | 2022-11-11 | 2024-03-15 |
 | [Stuck with U \(with Justin Bieber\)](https://open.spotify.com/track/4HBZA5flZLE435QTztThqH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Stuck with U](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) | 3:48 | 2022-11-11 | 2024-03-19 |
 | [Sunset Lover](https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Sunset Lover](https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw) | 3:57 | 2022-11-11 |  |
@@ -370,6 +372,7 @@
 | [WITHOUT YOU](https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:41 | 2024-03-25 | 2024-11-09 |
 | [Woman I Am](https://open.spotify.com/track/7JDJimCnfNpiReuMNPXIVJ) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Woman I Am](https://open.spotify.com/album/2sgEblpbAegLtRuCpHJl70) | 3:31 | 2026-04-09 |  |
 | [Wonder](https://open.spotify.com/track/0J1P4EF3LvP3br9u9CjsxJ) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Wonder](https://open.spotify.com/album/4FCruvsrPX51W87OJudg3M) | 3:31 | 2026-03-02 |  |
+| [Yeah \(I'm In\)](https://open.spotify.com/track/5N8u8lYzT4DbFF6OdRsecH) | [Noonzy](https://open.spotify.com/artist/6dfDwONzmFyAlH27BUuiqJ) | [Yeah \(I'm In\)](https://open.spotify.com/album/01mmpZcpevMIwwpsF9VIZg) | 2:56 | 2026-04-23 |  |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2022-11-11 |  |
 | [You & I](https://open.spotify.com/track/2afCBiru10AFckfOa49wIa) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:57 | 2023-04-13 |  |
 | [You Are The Reason](https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 3:24 | 2022-11-11 | 2024-11-22 |

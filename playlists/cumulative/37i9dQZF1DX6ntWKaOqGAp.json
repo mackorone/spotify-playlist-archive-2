@@ -3839,6 +3839,24 @@
     },
     {
       "album": {
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/78wMwOnARAhRxBv7Q37XOl"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186285,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/3eFUpyUIWFMSQ3RvUpxZXu"
+    },
+    {
+      "album": {
         "name": "Sunburst",
         "url": "https://open.spotify.com/album/4t85TRaVgDyJJEtCZ1W8xj"
       },
@@ -9736,6 +9754,24 @@
       "duration_ms": 244659,
       "name": "Goodbye Daily",
       "url": "https://open.spotify.com/track/6xQBjMyS77DebVGJ6DZkgA"
+    },
+    {
+      "album": {
+        "name": "The Ballad",
+        "url": "https://open.spotify.com/album/3lciWeGPHL9QDmBTGRcSsI"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185199,
+      "name": "Goodbye, So Long",
+      "url": "https://open.spotify.com/track/68palNfwloV3lcjjNCPcKN"
     },
     {
       "album": {
@@ -24560,7 +24596,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 222222,
       "name": "Speak of the Devil",
       "url": "https://open.spotify.com/track/2cTKXbBQq9aMHPIWKqtff0"
@@ -38206,7 +38242,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 233399,
       "name": "\u30b7\u30c6\u30a3\u30db\u30c6\u30eb",
       "url": "https://open.spotify.com/track/3L2RXDGiE3CdalnwpJiE6s"

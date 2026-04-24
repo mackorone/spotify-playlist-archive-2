@@ -4,7 +4,7 @@
 
 > This is Megan Moroney\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 31 min
+66 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Ain't Nothing 'Bout You \(with Megan Moroney\)](https://open.spotify.com/track/0R51yMOPP9LixmZgGmyWv5) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 3:31 | 2024-11-18 |  |
 | [All I Want for Christmas is a Cowboy](https://open.spotify.com/track/3LelA67J3InQRCvUnyHomd) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Blue Christmas ...duh](https://open.spotify.com/album/2jAxdB4oHVxoEnqoEYbcOl) | 3:17 | 2024-11-04 | 2024-12-02 |
 | [Am I Okay?](https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:55 | 2024-07-14 |  |
+| [Beautiful Things](https://open.spotify.com/track/5i9qauzaBwZwHIo7KIs2sG) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:55 | 2026-04-24 |  |
 | [Beautiful Things](https://open.spotify.com/track/6WjwYL2tzzci2pvpv50rS4) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Beautiful Things](https://open.spotify.com/album/1vIdJxr4T63IHA5ex4rHEv) | 3:55 | 2025-10-26 | 2026-03-01 |
 | [Bells & Whistles \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/71uKhNSaUogUkjMRw5jiw7) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 2:55 | 2026-03-12 | 2026-03-19 |
 | [Bless Your Heart](https://open.spotify.com/track/0R7mbF0KQERtpLaTuugWZg) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay? \(I'll Be Fine\)](https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY) | 2:43 | 2024-10-07 |  |
@@ -26,7 +27,7 @@
 | [Cloud 9](https://open.spotify.com/track/4JwsoOcsHk8nObYh0JVVE0) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:33 | 2026-03-02 | 2026-04-21 |
 | [Cloud 9](https://open.spotify.com/track/5wbXC9b2b5JwOKTd5FhuRy) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:33 | 2026-04-21 |  |
 | [Cloud 9](https://open.spotify.com/track/7ufzuyyhu3u2vf78deWa9g) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/543FTm0pzQpBQXNsT6xmmh) | 3:33 | 2026-02-11 | 2026-03-02 |
-| [Convincing](https://open.spotify.com/track/2gR4GB0rVFtzbjTZr88FQS) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 2:57 | 2026-02-22 |  |
+| [Convincing](https://open.spotify.com/track/2gR4GB0rVFtzbjTZr88FQS) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 2:57 | 2026-02-22 | 2026-04-24 |
 | [Fix You Too](https://open.spotify.com/track/5omVNcqZuJUeAP6WUOMaXA) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:07 | 2023-09-15 | 2023-11-11 |
 | [Fix You Too \(feat\. Kameron Marlowe\)](https://open.spotify.com/track/4eIGig7wMD4iZfPKGinoGr) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Lucky \(Deluxe\)](https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4) | 3:19 | 2023-11-10 |  |
 | [Georgia Girl](https://open.spotify.com/track/7Hk5WvZzinaWXfJ1M6Knsf) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:37 | 2024-05-29 |  |
@@ -48,7 +49,8 @@
 | [Mama I Lied](https://open.spotify.com/track/6v9i26kpd5HeRx2XYjG3fp) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:27 | 2024-07-15 |  |
 | [Man on the Moon](https://open.spotify.com/track/22UE7ARZNnAJHq1TObXLcc) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Man on the Moon](https://open.spotify.com/album/42uGNihY12UIvkV5gEJLaI) | 3:07 | 2024-06-09 | 2024-07-27 |
 | [Man on the Moon](https://open.spotify.com/track/5222Jc6EoC3zLLa1MsslxU) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:07 | 2024-07-27 | 2024-09-08 |
-| [Medicine](https://open.spotify.com/track/4v9DYYPIivOlv2G3uMQ7mA) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:11 | 2026-02-22 |  |
+| [Medicine](https://open.spotify.com/track/3NrAVoBHOvYcmRur0vM9x8) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:11 | 2026-04-24 |  |
+| [Medicine](https://open.spotify.com/track/4v9DYYPIivOlv2G3uMQ7mA) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:11 | 2026-02-22 | 2026-04-24 |
 | [Miss Universe](https://open.spotify.com/track/5sQmEdWnALexmqT8e4q3dB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:01 | 2024-07-14 | 2024-07-27 |
 | [Never Left Me \(From Twisters: The Album\)](https://open.spotify.com/track/3IuBfjh6U8r2K0a5sP8Lvf) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Never Left Me \(From Twisters: The Album\)](https://open.spotify.com/album/7g8sRyHTnJBUuDb5VkzBP9) | 3:11 | 2024-06-02 |  |
 | [No Caller ID](https://open.spotify.com/track/2TOO5Dp8mlKhSq8xTGPXwX) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:28 | 2024-08-01 |  |
@@ -58,7 +60,7 @@
 | [Reasons to Stay](https://open.spotify.com/track/5OPc2fFtwlMsmhOhFcqAny) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky \(Deluxe\)](https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4) | 4:11 | 2023-09-25 |  |
 | [Sleep on My Side](https://open.spotify.com/track/0qOdElKqdDKN58aKCo3yHS) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:08 | 2023-09-15 |  |
 | [Something in the Whiskey](https://open.spotify.com/track/6cF9cMJ70NKWN7Db7cAp9p) | [Jeb Gipson](https://open.spotify.com/artist/3MG8H6zu9EvmL5sRtFpDMF), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Something in the Whiskey](https://open.spotify.com/album/23D8bKKH3aDkBWkU6oIR19) | 2:58 | 2024-09-12 |  |
-| [Stupid](https://open.spotify.com/track/4L8wCqX7DmID3UJ64w8Mrw) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:21 | 2026-02-22 |  |
+| [Stupid](https://open.spotify.com/track/4L8wCqX7DmID3UJ64w8Mrw) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:21 | 2026-02-22 | 2026-04-24 |
 | [Tennessee Orange](https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:43 | 2023-09-15 |  |
 | [The Best of Both Worlds \- Spotify Singles](https://open.spotify.com/track/0G72xBHu2lXcEAAbzo1Ehf) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [The Best of Both Worlds \(Spotify Singles\)](https://open.spotify.com/album/2ixVKMbXs7yUciceNEG2l9) | 3:00 | 2026-03-26 |  |
 | [Third Time's the Charm](https://open.spotify.com/track/3cHudlaM9wXHnk83WLlzBA) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:51 | 2024-07-14 |  |
@@ -67,6 +69,7 @@
 | [What Are You Listening To?](https://open.spotify.com/track/3FS0ghB392xRn9wdhk7IfM) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [What Are You Listening To?](https://open.spotify.com/album/7jd74KSRF0oENZovGN1oBx) | 4:11 | 2024-01-06 |  |
 | [Who Hurt You?](https://open.spotify.com/track/3Q7sDOGos4gxbOMkwVYgu8) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:54 | 2026-02-23 |  |
 | [Who's Your Daddy?](https://open.spotify.com/track/5i1UlApqcoXQqbGST2Q3pb) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Who's Your Daddy?](https://open.spotify.com/album/7q4S10v6Ja96voiKGL0fUm) | 3:08 | 2025-10-03 |  |
+| [Wish I Didn't](https://open.spotify.com/track/2qX8A5UFLm1cKUuB229jl3) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:29 | 2026-04-24 |  |
 | [Wish I Didn't](https://open.spotify.com/track/4GrcvxYshSyTp9pylMNtNc) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:29 | 2026-04-16 | 2026-04-20 |
 | [Wish I Didn't](https://open.spotify.com/track/5z5hTxmH4cAEYr9yg2L8OB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Wish I Didn't](https://open.spotify.com/album/243wXw1Fj2jEcBGfH3Jts6) | 3:29 | 2026-01-18 | 2026-03-21 |
 | [Wonder](https://open.spotify.com/track/1z89jCXIK0JzyBtaa7Sn58) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Wonder](https://open.spotify.com/album/3XL3TJkGqmZac0iXTL8kdC) | 3:42 | 2023-09-15 |  |

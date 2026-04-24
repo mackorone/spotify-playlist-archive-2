@@ -11714,7 +11714,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -13048,7 +13048,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 129594,
       "name": "El Trago (Edit)",
       "url": "https://open.spotify.com/track/6mVDIkTzlCfy8H7timQQwk"
@@ -15862,7 +15862,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 121200,
       "name": "FLEQUI",
       "url": "https://open.spotify.com/track/4aS8CUrHGqrf7VQ3HYSQOE"
@@ -16000,7 +16000,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 226533,
       "name": "FOREVER TU GANTEL",
       "url": "https://open.spotify.com/track/1YAWMfsmduIrpqrjP45pFn"
@@ -20030,6 +20030,32 @@
       "duration_ms": 205815,
       "name": "Insisto",
       "url": "https://open.spotify.com/track/1jVn0Q0bAQ8LjkxTeP4KAr"
+    },
+    {
+      "album": {
+        "name": "We Want an Unarmed and Disarming Peace",
+        "url": "https://open.spotify.com/album/48rtylsc2gyYHVHXXHYYpi"
+      },
+      "artists": [
+        {
+          "name": "Padre Guilherme",
+          "url": "https://open.spotify.com/artist/7Gl7M2tjlIWsDWYa061TWh"
+        },
+        {
+          "name": "Dre Guazzelli",
+          "url": "https://open.spotify.com/artist/4NnfyZ8ExJjtf6vuWHPoNl"
+        },
+        {
+          "name": "Liah Barrett",
+          "url": "https://open.spotify.com/artist/3SkyUhCLUnBimUPEW73HzF"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260569,
+      "name": "Instrumento de Paz - Radio edit",
+      "url": "https://open.spotify.com/track/6kan6AXfPhv3vxXJKkCmQd"
     },
     {
       "album": {
@@ -26940,7 +26966,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 123428,
       "name": "Miss",
       "url": "https://open.spotify.com/track/0Nak4J9sQgozKj2yAsKQlQ"
@@ -31506,6 +31532,24 @@
       "duration_ms": 121399,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
+    },
+    {
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229106,
+      "name": "One Less Lonely Girl",
+      "url": "https://open.spotify.com/track/69ghzc538EQSVon2Gm3wrr"
     },
     {
       "album": {
@@ -38653,6 +38697,24 @@
     },
     {
       "album": {
+        "name": "Skokka",
+        "url": "https://open.spotify.com/album/7zMvvxOXqVcXJDGQahGVEX"
+      },
+      "artists": [
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Skokka",
+      "url": "https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi"
+    },
+    {
+      "album": {
         "name": "Definitely Maybe",
         "url": "https://open.spotify.com/album/2zs3HNN9Mng4xTBZ6qqt1U"
       },
@@ -40846,7 +40908,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -47204,7 +47266,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 250285,
       "name": "Where Are \u00dc Now (with Justin Bieber)",
       "url": "https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f"

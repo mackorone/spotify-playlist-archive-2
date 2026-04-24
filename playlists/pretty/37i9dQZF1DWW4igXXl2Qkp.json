@@ -1,13 +1,29 @@
 {
-  "description": "The best new hip-hop tracks from independent artists & labels. Cover: <a href=\"spotify:artist:6rYO569C4mZHQUP7Q2oiDN\">ffawty</a> ",
-  "num_followers": 288752,
+  "description": "The best new hip-hop tracks from independent artists & labels. Cover: <a href=\"spotify:artist:1MPNKNARfonIxUk1GXsEKx\">Shaudie Man</a> ",
+  "num_followers": 288779,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADYbarMSIfKWJKkCoKGisOnjN6CI",
+  "snapshot_id": "AAAAAG3qO37n1DV5TuMPxGgGnWsrtd0N",
   "tracks": [
+    {
+      "added_at": "2026-04-22 05:44:14",
+      "album": {
+        "name": "TRUIST",
+        "url": "https://open.spotify.com/album/3V5MB8hQZQdvWEEJWsH2NA"
+      },
+      "artists": [
+        {
+          "name": "Shaudie Man",
+          "url": "https://open.spotify.com/artist/1MPNKNARfonIxUk1GXsEKx"
+        }
+      ],
+      "duration_ms": 184690,
+      "name": "T R U I S T",
+      "url": "https://open.spotify.com/track/1eSB69HilumiISGjVkjDMg"
+    },
     {
       "added_at": "2026-04-22 05:44:14",
       "album": {
@@ -63,6 +79,22 @@
       "duration_ms": 153600,
       "name": "The Spokesman",
       "url": "https://open.spotify.com/track/4gKr3DugzfrLMQRXeVnVRD"
+    },
+    {
+      "added_at": "2026-04-22 05:44:14",
+      "album": {
+        "name": "Smaxk Season 2",
+        "url": "https://open.spotify.com/album/6NnP5Ldvs5ICrNy5c3SjPr"
+      },
+      "artists": [
+        {
+          "name": "Hardnard",
+          "url": "https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX"
+        }
+      ],
+      "duration_ms": 111699,
+      "name": "Butta B",
+      "url": "https://open.spotify.com/track/2r7PywSTrql5YQFMUi5PlA"
     },
     {
       "added_at": "2026-04-22 05:44:14",
@@ -151,6 +183,26 @@
       "duration_ms": 147754,
       "name": "SF5 Intro",
       "url": "https://open.spotify.com/track/4HPXpgjciNBu8Wm6q0WHyi"
+    },
+    {
+      "added_at": "2026-04-22 05:44:14",
+      "album": {
+        "name": "Young Money",
+        "url": "https://open.spotify.com/album/2CPr6gBnbl3R4bS9cUC5WL"
+      },
+      "artists": [
+        {
+          "name": "Jbeezy.Lfg",
+          "url": "https://open.spotify.com/artist/3ag9Q03DMBdEd0IExnBmE4"
+        },
+        {
+          "name": "Drizzy",
+          "url": "https://open.spotify.com/artist/644w7UdzHcFzzL57E5j0z0"
+        }
+      ],
+      "duration_ms": 129299,
+      "name": "Young Money",
+      "url": "https://open.spotify.com/track/1fVvcblw9MiIfFT3XlmrO7"
     },
     {
       "added_at": "2026-04-22 05:44:14",
@@ -327,42 +379,6 @@
     {
       "added_at": "2026-04-22 05:44:14",
       "album": {
-        "name": "Smaxk Season 2",
-        "url": "https://open.spotify.com/album/6NnP5Ldvs5ICrNy5c3SjPr"
-      },
-      "artists": [
-        {
-          "name": "Hardnard",
-          "url": "https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX"
-        }
-      ],
-      "duration_ms": 111699,
-      "name": "Butta B",
-      "url": "https://open.spotify.com/track/2r7PywSTrql5YQFMUi5PlA"
-    },
-    {
-      "added_at": "2026-04-22 05:44:14",
-      "album": {
-        "name": "Young Money",
-        "url": "https://open.spotify.com/album/2CPr6gBnbl3R4bS9cUC5WL"
-      },
-      "artists": [
-        {
-          "name": "Jbeezy.Lfg",
-          "url": "https://open.spotify.com/artist/3ag9Q03DMBdEd0IExnBmE4"
-        },
-        {
-          "name": "Drizzy",
-          "url": "https://open.spotify.com/artist/644w7UdzHcFzzL57E5j0z0"
-        }
-      ],
-      "duration_ms": 129299,
-      "name": "Young Money",
-      "url": "https://open.spotify.com/track/1fVvcblw9MiIfFT3XlmrO7"
-    },
-    {
-      "added_at": "2026-04-22 05:44:14",
-      "album": {
         "name": "WIMPY KID",
         "url": "https://open.spotify.com/album/5PcBLNcO896vU5TS39z6Wu"
       },
@@ -395,6 +411,30 @@
       "duration_ms": 171177,
       "name": "YSL Sweats",
       "url": "https://open.spotify.com/track/1Vla18zl8sK8gMWdWvpYpg"
+    },
+    {
+      "added_at": "2026-04-22 05:44:14",
+      "album": {
+        "name": "opened gates",
+        "url": "https://open.spotify.com/album/6tj7EUZVnjQoQv4gibzw8w"
+      },
+      "artists": [
+        {
+          "name": "Mark Lux",
+          "url": "https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        },
+        {
+          "name": "CUZZOS",
+          "url": "https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "best. (feat. Kalan.FrFr & CUZZOS)",
+      "url": "https://open.spotify.com/track/6QYm0rw6lKf5auaxhW9Ebz"
     },
     {
       "added_at": "2026-04-22 05:44:14",
@@ -463,22 +503,6 @@
       "duration_ms": 112000,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/0yYDa9Zuu7qM9MZO2cbK4Y"
-    },
-    {
-      "added_at": "2026-04-22 05:44:14",
-      "album": {
-        "name": "TRUIST",
-        "url": "https://open.spotify.com/album/3V5MB8hQZQdvWEEJWsH2NA"
-      },
-      "artists": [
-        {
-          "name": "Shaudie Man",
-          "url": "https://open.spotify.com/artist/1MPNKNARfonIxUk1GXsEKx"
-        }
-      ],
-      "duration_ms": 184690,
-      "name": "T R U I S T",
-      "url": "https://open.spotify.com/track/1eSB69HilumiISGjVkjDMg"
     },
     {
       "added_at": "2026-04-22 05:44:14",
@@ -783,30 +807,6 @@
       "duration_ms": 119438,
       "name": "Windows 98",
       "url": "https://open.spotify.com/track/2HeWM9T5uXuh9U0g54fqwF"
-    },
-    {
-      "added_at": "2026-04-22 05:44:14",
-      "album": {
-        "name": "opened gates",
-        "url": "https://open.spotify.com/album/6tj7EUZVnjQoQv4gibzw8w"
-      },
-      "artists": [
-        {
-          "name": "Mark Lux",
-          "url": "https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5"
-        },
-        {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
-        },
-        {
-          "name": "CUZZOS",
-          "url": "https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "best. (feat. Kalan.FrFr & CUZZOS)",
-      "url": "https://open.spotify.com/track/6QYm0rw6lKf5auaxhW9Ebz"
     },
     {
       "added_at": "2026-04-22 05:44:14",

@@ -5110,7 +5110,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 201946,
       "name": "Eenie Meenie",
       "url": "https://open.spotify.com/track/4vVTI94F9uJ8lHNDWKv0i2"
@@ -5132,7 +5132,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 201973,
       "name": "Eenie Meenie - Radio Version",
       "url": "https://open.spotify.com/track/4Yaw2PmyOETOnEM3TCf98I"
@@ -7064,7 +7064,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -12571,6 +12571,24 @@
     },
     {
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229106,
+      "name": "One Less Lonely Girl",
+      "url": "https://open.spotify.com/track/69ghzc538EQSVon2Gm3wrr"
+    },
+    {
+      "album": {
         "name": "My World (Canada Version - All BP's)",
         "url": "https://open.spotify.com/album/0sTWDNDdByvpadJqLYTR2U"
       },
@@ -12582,7 +12600,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 229106,
       "name": "One Less Lonely Girl",
       "url": "https://open.spotify.com/track/6sj3SlT8e4JCcnK60ua1XX"
@@ -12738,10 +12756,28 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 215866,
       "name": "One Time",
       "url": "https://open.spotify.com/track/38dxwjNTN6sw1ZV3EivUUu"
+    },
+    {
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215866,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/6eDApnV9Jdb1nYahOlbbUh"
     },
     {
       "album": {
@@ -21568,7 +21604,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 234614,
       "name": "\u518d\u898b\u7684\u6642\u5019 - \u96fb\u5f71\u3008\u967d\u5149\u5973\u5b50\u5408\u5531\u5718\u3009\u4e3b\u984c\u66f2-\u518d\u898b\u7248",
       "url": "https://open.spotify.com/track/3IBYp3fKyydZ5dDtirLY6P"
@@ -23344,7 +23380,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 297240,
       "name": "\u5c0f\u534a",
       "url": "https://open.spotify.com/track/3QxWTqyIT4O9bokIZlNDpo"
@@ -23572,7 +23608,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 197384,
       "name": "\u5de6\u8f49\u71c8 (1000 Times+1)",
       "url": "https://open.spotify.com/track/3P6hXhSXC85qbaO9o9SaTz"
@@ -23594,7 +23630,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 197384,
       "name": "\u5de6\u8f49\u71c8 (1000 Times+1)",
       "url": "https://open.spotify.com/track/4UwZyC0wEV6XDEAr9kaQhi"
@@ -24954,7 +24990,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 282320,
       "name": "\u6211\u5c0d\u7de3\u5206\u5c0f\u5fc3\u7ffc\u7ffc (\u5287\u96c6\u300a\u9010\u7389\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/6pCp8j2MmywUs8vygmqNQ1"
@@ -24972,7 +25008,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 282320,
       "name": "\u6211\u5c0d\u7de3\u5206\u5c0f\u5fc3\u7ffc\u7ffc (\u5287\u96c6\u300a\u9010\u7389\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/72yIlZtNNS4i2b4FfVm619"
@@ -25622,7 +25658,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF"
@@ -25640,7 +25676,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04"
@@ -25910,7 +25946,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 269746,
       "name": "\u6674\u5929",
       "url": "https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm"
@@ -29184,7 +29220,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 333546,
       "name": "\u9023\u540d\u5e36\u59d3",
       "url": "https://open.spotify.com/track/3LlQoKvVnkVvq3KC8anUn8"
@@ -29372,7 +29408,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 223333,
       "name": "\u90a3\u5929\u4e0b\u96e8\u4e86",
       "url": "https://open.spotify.com/track/0bWGqfaEeTIvrnKGPJFD18"
@@ -29390,7 +29426,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 223333,
       "name": "\u90a3\u5929\u4e0b\u96e8\u4e86",
       "url": "https://open.spotify.com/track/3IDhIUeNCVmAxDt7XRMPQb"
@@ -29590,7 +29626,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 271493,
       "name": "\u958b\u59cb\u61c2\u4e86",
       "url": "https://open.spotify.com/track/68tZwwRuo9ip5gRQFG1XWF"

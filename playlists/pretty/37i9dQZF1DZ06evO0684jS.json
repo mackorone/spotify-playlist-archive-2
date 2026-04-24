@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 888836,
+  "num_followers": 888839,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAACKmtlVTspFHeF4PRljNzL+",
+  "snapshot_id": "aegPgAAAAAD4lAPp4Zr+WayKjOZQpZJH",
   "tracks": [
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Battle Of The Sexes (Deluxe)",
-        "url": "https://open.spotify.com/album/00kSgH9g6nYBQhjnRQFBew"
-      },
-      "artists": [
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "My Chick Bad",
-      "url": "https://open.spotify.com/track/3bMNprrp2JDKZsGbiXpsJl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Yourself \u7d50 'Answer'",
         "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 260233,
       "name": "IDOL",
       "url": "https://open.spotify.com/track/54azQnjuDYDFfImXimGFsA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Battle Of The Sexes (Deluxe)",
+        "url": "https://open.spotify.com/album/00kSgH9g6nYBQhjnRQFBew"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "My Chick Bad",
+      "url": "https://open.spotify.com/track/3bMNprrp2JDKZsGbiXpsJl"
     },
     {
       "added_at": null,
@@ -995,26 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Letting Go (Dutty Love) featuring Nicki Minaj (feat. Nicki Minaj)",
-        "url": "https://open.spotify.com/album/6b9hnQ1lP77DB40PbpHwWI"
-      },
-      "artists": [
-        {
-          "name": "Sean Kingston",
-          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Letting Go (Dutty Love) featuring Nicki Minaj (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/0wDbYIl4fN2mccHczCJqEf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trigga (Deluxe)",
         "url": "https://open.spotify.com/album/09ZagJCLFszgQZTlK99yqP"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 221971,
       "name": "Touchin, Lovin (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/3N8tI63CfkEc2WW5IkRfAj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Letting Go (Dutty Love) featuring Nicki Minaj (feat. Nicki Minaj)",
+        "url": "https://open.spotify.com/album/6b9hnQ1lP77DB40PbpHwWI"
+      },
+      "artists": [
+        {
+          "name": "Sean Kingston",
+          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Letting Go (Dutty Love) featuring Nicki Minaj (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0wDbYIl4fN2mccHczCJqEf"
     },
     {
       "added_at": null,

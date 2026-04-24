@@ -4,7 +4,7 @@
 
 > 
 
-1,342 songs - 3 day 4 hr 45 min
+1,343 songs - 3 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,6 +528,7 @@
 | [I Can Fix Him \(No Really I Can\)](https://open.spotify.com/track/5chnRTB9qMK3W1M41SnU9s) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 2:36 | 2024-04-26 |  |
 | [I Can See You \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:33 | 2023-07-11 |  |
 | [I Can’t Have You Around Me Anymore](https://open.spotify.com/track/3VtRreDlbPtko3AwdIED47) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:44 | 2025-08-10 |  |
+| [I CONDEMN](https://open.spotify.com/track/4JIC9Y4gNwefZ9UiCnZCvT) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I CONDEMN](https://open.spotify.com/album/3GGPWismNDtBFF8EJxoiFI) | 2:22 | 2026-04-23 |  |
 | [I Did Something Bad](https://open.spotify.com/track/4svZDCRz4cJoneBpjpx8DJ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:58 | 2023-07-08 |  |
 | [I Don't Know Better](https://open.spotify.com/track/6KiXDqNol1PhAHgyCx6bzx) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Early Twenties Torture](https://open.spotify.com/album/6HNDL6my8XFprSf8KRwaf8) | 2:40 | 2025-10-25 |  |
 | [I DON'T LOVE YOU ANYMORE](https://open.spotify.com/track/5A0M6B0RBSXSNWv0wcppZ9) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 2:41 | 2025-04-26 |  |

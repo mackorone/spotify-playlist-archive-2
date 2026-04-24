@@ -9835,6 +9835,24 @@
     },
     {
       "album": {
+        "name": "We Go So Good Together",
+        "url": "https://open.spotify.com/album/20BCMVFQWe0uvjXCOOnyHI"
+      },
+      "artists": [
+        {
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169630,
+      "name": "We Go So Good Together",
+      "url": "https://open.spotify.com/track/5u60vtj3BIty91oZw2xUVF"
+    },
+    {
+      "album": {
         "name": "We never talk",
         "url": "https://open.spotify.com/album/5BQQZMv1R1BpbopUPW96lZ"
       },

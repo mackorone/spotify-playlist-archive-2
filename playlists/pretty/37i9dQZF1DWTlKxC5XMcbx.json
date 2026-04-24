@@ -175,22 +175,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "The Unknown",
-        "url": "https://open.spotify.com/album/0cbgMntTRsvEASZAdPCrFo"
-      },
-      "artists": [
-        {
-          "name": "Harry Allen",
-          "url": "https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR"
-        }
-      ],
-      "duration_ms": 250364,
-      "name": "The Unknown",
-      "url": "https://open.spotify.com/track/4MQoAgfCZsw6iyv1olPb92"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Look Out! (Remastered)",
         "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 295200,
       "name": "Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "The Unknown",
+        "url": "https://open.spotify.com/album/0cbgMntTRsvEASZAdPCrFo"
+      },
+      "artists": [
+        {
+          "name": "Harry Allen",
+          "url": "https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR"
+        }
+      ],
+      "duration_ms": 250364,
+      "name": "The Unknown",
+      "url": "https://open.spotify.com/track/4MQoAgfCZsw6iyv1olPb92"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Go! (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 322000,
-      "name": "I Guess I'll Hang My Tears Out To Dry - Rudy Van Gelder Edition / Remastered 1999",
-      "url": "https://open.spotify.com/track/58ylMBq2yqYdHyevarkNWa"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Undercurrent",
         "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 280026,
       "name": "I Hear A Rhapsody",
       "url": "https://open.spotify.com/track/2oEvw0AfrT2fPNpEnBwVml"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Go! (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "I Guess I'll Hang My Tears Out To Dry - Rudy Van Gelder Edition / Remastered 1999",
+      "url": "https://open.spotify.com/track/58ylMBq2yqYdHyevarkNWa"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "The Great Ennui",
-        "url": "https://open.spotify.com/album/0rSMhyt4OaK93GhfJGDN0U"
-      },
-      "artists": [
-        {
-          "name": "Tadd Norman",
-          "url": "https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo"
-        }
-      ],
-      "duration_ms": 201153,
-      "name": "The Great Ennui",
-      "url": "https://open.spotify.com/track/0Inho965rlE38Rip2e9nJ6"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Reacquainted",
         "url": "https://open.spotify.com/album/7jttkH7iYONN0AoY3jTyeD"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 209594,
       "name": "Reacquainted",
       "url": "https://open.spotify.com/track/0MdFNrukQ56KurgxVNTNm2"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "The Great Ennui",
+        "url": "https://open.spotify.com/album/0rSMhyt4OaK93GhfJGDN0U"
+      },
+      "artists": [
+        {
+          "name": "Tadd Norman",
+          "url": "https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo"
+        }
+      ],
+      "duration_ms": 201153,
+      "name": "The Great Ennui",
+      "url": "https://open.spotify.com/track/0Inho965rlE38Rip2e9nJ6"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Solo Guitar",
-        "url": "https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX"
-      },
-      "artists": [
-        {
-          "name": "Ted Greene",
-          "url": "https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3"
-        }
-      ],
-      "duration_ms": 299880,
-      "name": "Send In The Clowns",
-      "url": "https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "All Blues (CTI Records 40th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 404026,
       "name": "Light Blue",
       "url": "https://open.spotify.com/track/1aScbLgIXdvopADfbla929"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Solo Guitar",
+        "url": "https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX"
+      },
+      "artists": [
+        {
+          "name": "Ted Greene",
+          "url": "https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3"
+        }
+      ],
+      "duration_ms": 299880,
+      "name": "Send In The Clowns",
+      "url": "https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Wind",
-        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
-        }
-      ],
-      "duration_ms": 387733,
-      "name": "Surprises",
-      "url": "https://open.spotify.com/track/6dlrKYdYDu3UTm3cSo6rFb"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Remembering Billie",
         "url": "https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 316866,
       "name": "Speak Low",
       "url": "https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Wind",
+        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        }
+      ],
+      "duration_ms": 387733,
+      "name": "Surprises",
+      "url": "https://open.spotify.com/track/6dlrKYdYDu3UTm3cSo6rFb"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Wind",
-        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
-        }
-      ],
-      "duration_ms": 294586,
-      "name": "Doubts 2",
-      "url": "https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Scott Hamilton Plays Ballads",
         "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
       },
@@ -1011,22 +995,6 @@
       "duration_ms": 220666,
       "name": "Maybe September",
       "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
-        "name": "And Suddenly There Was Love",
-        "url": "https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4"
-      },
-      "artists": [
-        {
-          "name": "Jonah Aardekker",
-          "url": "https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns"
-        }
-      ],
-      "duration_ms": 267142,
-      "name": "And Suddenly There Was Love",
-      "url": "https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -1047,6 +1015,38 @@
       "duration_ms": 221000,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/2Lz03NspvyxfiCjgdtpEVR"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Wind",
+        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        }
+      ],
+      "duration_ms": 294586,
+      "name": "Doubts 2",
+      "url": "https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "And Suddenly There Was Love",
+        "url": "https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4"
+      },
+      "artists": [
+        {
+          "name": "Jonah Aardekker",
+          "url": "https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns"
+        }
+      ],
+      "duration_ms": 267142,
+      "name": "And Suddenly There Was Love",
+      "url": "https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Out Here",
-        "url": "https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH"
+        "name": "The Mourning of a Star",
+        "url": "https://open.spotify.com/album/1dcuNuUNZNe33aMywoaTuP"
       },
       "artists": [
         {
-          "name": "Christian McBride Trio",
-          "url": "https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP"
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
         }
       ],
-      "duration_ms": 507534,
-      "name": "I Have Dreamed",
-      "url": "https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo"
+      "duration_ms": 77533,
+      "name": "Interlude No. 3",
+      "url": "https://open.spotify.com/track/0wvbb2MxlokwqSvbeoOOHv"
     }
   ],
   "unique_name": "\u50ac\u7720\u7235\u58eb",

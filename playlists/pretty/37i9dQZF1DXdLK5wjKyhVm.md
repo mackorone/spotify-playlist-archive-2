@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > blissed out beats and head nodding grooves \- relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,863 likes - 89 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,900 likes - 88 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,9 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 83 | [Just For The Night](https://open.spotify.com/track/0iBxNrMyD5IX0EPDaioTjn) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Just For The Night](https://open.spotify.com/album/0HtQQ7TQK1a23qPnn7YOmP) | 2:08 |
 | 84 | [Overlord](https://open.spotify.com/track/0kX0jZQieja8m7twj3LqYp) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Extras Extras](https://open.spotify.com/album/389hJo8QkrYFRDpAfSr2br) | 2:13 |
 | 85 | [JazzClub](https://open.spotify.com/track/665ucvhzTLPcPL6DK7cdGs) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [ChildNoah](https://open.spotify.com/artist/5H3mowogBSr0PYGW0JrtAg) | [JazzClub](https://open.spotify.com/album/50KxZIJaZJfM7VKxuiSk75) | 1:57 |
-| 86 | [always by your side](https://open.spotify.com/track/79q1pBgBHbtakGcIaoGLJs) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [always by your side](https://open.spotify.com/album/7zdxISh4gzSHasN6xBDyG2) | 1:48 |
-| 87 | [shelter](https://open.spotify.com/track/2RyZjcwgW7X3eMm38hZ0zo) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [shelter](https://open.spotify.com/album/2luq40AQDoOiR5hkbogFIc) | 2:05 |
-| 88 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 |
-| 89 | [blurred](https://open.spotify.com/track/1y9eslcDsTi75UfkTHuyQZ) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [blurred](https://open.spotify.com/album/3O5SG1lknx9ptWNp5wNj3J) | 1:52 |
+| 86 | [shelter](https://open.spotify.com/track/2RyZjcwgW7X3eMm38hZ0zo) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [shelter](https://open.spotify.com/album/2luq40AQDoOiR5hkbogFIc) | 2:05 |
+| 87 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 |
+| 88 | [blurred](https://open.spotify.com/track/1y9eslcDsTi75UfkTHuyQZ) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [blurred](https://open.spotify.com/album/3O5SG1lknx9ptWNp5wNj3J) | 1:52 |
 
-Snapshot ID: `AAAAAFhzd0IwpMHrxBWdn+fFPgUyTKVf`
+Snapshot ID: `AAAAABmu2wqjpY7moYNNh8Wx6ecIo6QF`

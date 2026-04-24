@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "From the trenches. Through the streets.\nCover: Wave$tar",
+  "description": "From the trenches. Through the streets.\nCover: Bella Shmurda",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -140,6 +140,28 @@
       "duration_ms": 124210,
       "name": "2am For Lekki",
       "url": "https://open.spotify.com/track/4JEUXVuNeR22Qwew8tFx9B"
+    },
+    {
+      "album": {
+        "name": "420",
+        "url": "https://open.spotify.com/album/2mUIIraqsiVonjQHS3R7JC"
+      },
+      "artists": [
+        {
+          "name": "Plutomania",
+          "url": "https://open.spotify.com/artist/018olXJmRtbs1Q0VTkspcH"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163768,
+      "name": "420",
+      "url": "https://open.spotify.com/track/6q8SsMtXvytOsP5CLDpxVU"
     },
     {
       "album": {
@@ -761,6 +783,28 @@
     },
     {
       "album": {
+        "name": "ARA",
+        "url": "https://open.spotify.com/album/7fluxAs5HSUVmyChevBl2W"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Ara (600M)",
+      "url": "https://open.spotify.com/track/7oHYgZelWF1QOTCtR75rnj"
+    },
+    {
+      "album": {
         "name": "Ara (Gen Gen Tin)",
         "url": "https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO"
       },
@@ -962,7 +1006,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 182142,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5"
@@ -1193,7 +1237,7 @@
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 139389,
+      "duration_ms": 142487,
       "name": "Bank Alert",
       "url": "https://open.spotify.com/track/4wEpSkZ9V6CNZu8gwiOw1a"
     },
@@ -1802,7 +1846,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 163944,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/7BOgyrWA7OURpdJ9YksRFR"
@@ -2130,6 +2174,24 @@
       "duration_ms": 170880,
       "name": "Comma",
       "url": "https://open.spotify.com/track/0X6KeoX1HANrLI20m4Hc1V"
+    },
+    {
+      "album": {
+        "name": "Coup\u00e9",
+        "url": "https://open.spotify.com/album/4qGZxpr6XVmHsoM3WKgDR0"
+      },
+      "artists": [
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168312,
+      "name": "Coup\u00e9",
+      "url": "https://open.spotify.com/track/7hyoqFb1SsoPW96pcOndPM"
     },
     {
       "album": {
@@ -8750,7 +8812,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 154689,
       "name": "Trending",
       "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"

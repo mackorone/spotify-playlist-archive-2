@@ -985,6 +985,24 @@
     },
     {
       "album": {
+        "name": "DIOR$AVAGE",
+        "url": "https://open.spotify.com/album/5NtMHvTP6K9N6xwtQ9q7R5"
+      },
+      "artists": [
+        {
+          "name": "Glocky",
+          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "DIOR$AVAGE",
+      "url": "https://open.spotify.com/track/6hJZntir08iWIAVRx8YAEh"
+    },
+    {
+      "album": {
         "name": "FARSI MALE A NOI VA BENE 2.0",
         "url": "https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo"
       },

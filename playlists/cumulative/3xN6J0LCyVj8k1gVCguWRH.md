@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,960 songs - 13 day 20 hr 57 min
+5,962 songs - 13 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -714,6 +714,7 @@
 | [Bright](https://open.spotify.com/track/7BAUtkWAdGoFLbFbjdqMfr) | [liquidfive](https://open.spotify.com/artist/5N8lMhIyJ5Qtasb02tmK47) | [Bright](https://open.spotify.com/album/6uNRomKIuONC2y8ljKqvQV) | 2:39 | 2021-06-19 | 2021-07-04 |
 | [Bright Spot II](https://open.spotify.com/track/2MQpOygB884YZAm56yjsLw) | [Blue Canopy](https://open.spotify.com/artist/4DafnLqAVXnrI6C0IAkhGE), [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Bright Spot II](https://open.spotify.com/album/7naMJmjNKKoMdJdadE9fhw) | 3:29 | 2024-04-26 | 2024-05-09 |
 | [BRIGHTER DAY](https://open.spotify.com/track/4G5pwamHl8oO31tPX4cF9j) | [Brian Loyde](https://open.spotify.com/artist/3YChbpxtV506Tup3EwFbJH) | [BRIGHTER DAY](https://open.spotify.com/album/7MM4IZJQ0mZmAnFgjLouYy) | 3:22 | 2024-11-22 | 2024-12-05 |
+| [Brighter Days](https://open.spotify.com/track/4xRPcv6C330TBNpCDsPXGr) | [Samuel Jack](https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb) | [Brighter Days](https://open.spotify.com/album/0qDPfgTu9c6E2SBZZ8y24E) | 2:40 | 2026-04-23 |  |
 | [Bring Me a Flower](https://open.spotify.com/track/3XBex8T8fOGuiJR7rLnYwS) | [Baldy Crawlers](https://open.spotify.com/artist/55h3BL4HJGVYVRkQF9L3z1) | [Bring Me a Flower](https://open.spotify.com/album/5GZ4MhgpDyA2JoMjD0RzAQ) | 3:35 | 2025-11-24 | 2025-12-05 |
 | [Bring On The Flood](https://open.spotify.com/track/3SrfAYezqfrkRkwjyj9ff7) | [Tasks](https://open.spotify.com/artist/4h0UTYf2qb7E9j0a7I2uZ8) | [The Grand Dissatisfaction](https://open.spotify.com/album/34uEvpv8GbYYllW1AHtBWg) | 4:06 | 2024-12-27 | 2025-01-08 |
 | [Bring On The Rain](https://open.spotify.com/track/1GbOsJIOKcxek838AvxYI6) | [PEP SAMMARTINO](https://open.spotify.com/artist/05G2yJEqbjhaBKN0pk4urS) | [Bring On The Rain](https://open.spotify.com/album/4YhFg9BuYVOVrrYFxVfYe2) | 4:00 | 2023-04-18 | 2023-05-02 |
@@ -2805,6 +2806,7 @@
 | [La frontière](https://open.spotify.com/track/4cn9EGp2xjQdyuV8zHXwte) | [Toma Sidibé](https://open.spotify.com/artist/3L1ScpLRzBRXUTBmh4UpNw), [Kandy Guira](https://open.spotify.com/artist/4KyEzCKVwhOaKxDR7ZFxjP) | [Dakan](https://open.spotify.com/album/1qy1GJBNaiUnp65pHdI220) | 3:30 | 2025-01-18 | 2025-01-30 |
 | [La mémoire des vaincus](https://open.spotify.com/track/3CFqtDU41E8wgBQ01D3v6V) | [Baba Wazo](https://open.spotify.com/artist/0vZ3ih2AY9SZgIQZkXnDqb) | [La mémoire des vaincus](https://open.spotify.com/album/1r4be4Ipu91VBIVpILlsTW) | 3:47 | 2025-01-11 | 2025-01-23 |
 | [La Nota](https://open.spotify.com/track/3SVzHzomKt0AfMsZwm23NZ) | [Ray Torres](https://open.spotify.com/artist/6VqdAtF2hlMv4MXNPQwWDs) | [La Nota](https://open.spotify.com/album/2tIRWo1Z00iitMVTghyzEx) | 2:04 | 2025-06-04 | 2025-06-17 |
+| [La Pavada](https://open.spotify.com/track/0kp2kmvtG3X84zkMPcDVXz) | [ENGUAYABÁ](https://open.spotify.com/artist/6bxJa8AAtLTuY8sLXpB21X) | [La Pavada](https://open.spotify.com/album/0i5dkXIHc9oxEbMC2BPM3z) | 4:06 | 2026-04-23 |  |
 | [La Soledad Me Elige](https://open.spotify.com/track/54jbUuPstiaL4r3YM3yYRU) | [TitoPappito](https://open.spotify.com/artist/7HfAECdNrDpIdYc1dCEZns) | [Extrañando El Verano](https://open.spotify.com/album/1syTWjwOV7WwyIkj1ZkgtM) | 3:28 | 2024-03-05 | 2024-03-13 |
 | [La Verdad](https://open.spotify.com/track/6oQ2uRDCGtbd4czC7NGTk6) | [Angel Bleu](https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO) | [La Verdad](https://open.spotify.com/album/7gHr8oPo0WCYFREtrbaTVb) | 3:01 | 2024-09-09 | 2024-09-17 |
 | [La Vuelta](https://open.spotify.com/track/4rQXUQZeXEQUsiAK55mPmY) | [Angel Bleu](https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO), [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [La Vuelta](https://open.spotify.com/album/4rRikAN8vEcBqcZayfzHFt) | 2:33 | 2024-09-09 | 2024-09-21 |

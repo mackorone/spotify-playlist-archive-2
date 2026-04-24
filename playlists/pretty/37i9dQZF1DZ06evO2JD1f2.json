@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 13446,
+  "num_followers": 13448,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAB0jP3u9rDwfe90wPIxYmU7",
+  "snapshot_id": "aegPgAAAAADnVqdQiG4BkCQNWTRsKoFo",
   "tracks": [
     {
       "added_at": null,
@@ -235,26 +235,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Gangsta\u2019s Pain: Reloaded",
-        "url": "https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB"
+        "name": "I Still Dont Feel Nun",
+        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
       },
       "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 133631,
-      "name": "Switches & Dracs (with Lil Durk feat. EST Gee)",
-      "url": "https://open.spotify.com/track/4c7LkE1lSNj3RR4cZo0jEi"
+      "duration_ms": 146959,
+      "name": "Opinion Base",
+      "url": "https://open.spotify.com/track/2IK9fOwtb9E9s28dRs56oA"
     },
     {
       "added_at": null,
@@ -279,18 +271,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Still Dont Feel Nun",
-        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
+        "name": "A Gangsta\u2019s Pain: Reloaded",
+        "url": "https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB"
       },
       "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 146959,
-      "name": "Opinion Base",
-      "url": "https://open.spotify.com/track/2IK9fOwtb9E9s28dRs56oA"
+      "duration_ms": 133631,
+      "name": "Switches & Dracs (with Lil Durk feat. EST Gee)",
+      "url": "https://open.spotify.com/track/4c7LkE1lSNj3RR4cZo0jEi"
     },
     {
       "added_at": null,
@@ -311,6 +311,22 @@
       "duration_ms": 94945,
       "name": "WOULDN'T HOLD YOU UP",
       "url": "https://open.spotify.com/track/6zUKuZMJflZgPWMS23nh7I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Still Dont Feel Nun",
+        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 155413,
+      "name": "Young Shiners",
+      "url": "https://open.spotify.com/track/1g2nx2OTpQqGV3hF1BnpIK"
     },
     {
       "added_at": null,
@@ -351,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Still Dont Feel Nun",
-        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 155413,
-      "name": "Young Shiners",
-      "url": "https://open.spotify.com/track/1g2nx2OTpQqGV3hF1BnpIK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NOT A CHANCE IN HELL",
         "url": "https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS"
       },
@@ -383,6 +383,26 @@
       "duration_ms": 106012,
       "name": "FO'Z",
       "url": "https://open.spotify.com/track/6Y0iDObG5dm6GeYh8XNFgW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Still Dont Feel Nun",
+        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 151956,
+      "name": "Members Only (feat. 42 Dugg)",
+      "url": "https://open.spotify.com/track/3pygdjgdMt04N8R6Mar0wF"
     },
     {
       "added_at": null,
@@ -427,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Still Dont Feel Nun",
-        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        }
-      ],
-      "duration_ms": 151956,
-      "name": "Members Only (feat. 42 Dugg)",
-      "url": "https://open.spotify.com/track/3pygdjgdMt04N8R6Mar0wF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NOT A CHANCE IN HELL",
         "url": "https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS"
       },
@@ -463,6 +463,26 @@
       "duration_ms": 179887,
       "name": "TURNT",
       "url": "https://open.spotify.com/track/0uBT90enmD0wDGH7bZWKoK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Still Dont Feel Nun",
+        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "Special Remix (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/5sXYCAzaTHonbB7OVqU0TI"
     },
     {
       "added_at": null,
@@ -507,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Still Dont Feel Nun",
-        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "Special Remix (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/5sXYCAzaTHonbB7OVqU0TI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NOT A CHANCE IN HELL",
         "url": "https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 168000,
       "name": "ROUNDS",
       "url": "https://open.spotify.com/track/3QmJTLrr5VC2HWIPNckGX8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Still Dont Feel Nun",
+        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 141015,
+      "name": "Ball Forever",
+      "url": "https://open.spotify.com/track/3YEvtD0NBLP9fFmvKkrnJN"
     },
     {
       "added_at": null,
@@ -595,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Still Dont Feel Nun",
-        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 124235,
-      "name": "I Still Dont Feel Nun",
-      "url": "https://open.spotify.com/track/46p6sJzt93LopLhYZHafHL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NOT A CHANCE IN HELL",
         "url": "https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 116363,
       "name": "STILL AIN'T PUT MY PISTOL DOWN",
       "url": "https://open.spotify.com/track/09KefauMAYSo6uwJq4ezTx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Still Dont Feel Nun",
+        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 124235,
+      "name": "I Still Dont Feel Nun",
+      "url": "https://open.spotify.com/track/46p6sJzt93LopLhYZHafHL"
     },
     {
       "added_at": null,
@@ -651,38 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Never Felt Nun",
-        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
+        "name": "Free Dem Boyz",
+        "url": "https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs"
       },
       "artists": [
         {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
         },
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 158431,
-      "name": "Backstage Passes (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Still Dont Feel Nun",
-        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
-      },
-      "artists": [
-        {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 141015,
-      "name": "Ball Forever",
-      "url": "https://open.spotify.com/track/3YEvtD0NBLP9fFmvKkrnJN"
+      "duration_ms": 185948,
+      "name": "Rose Gold (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/2SY4ib4Llku3au3gsGPPEW"
     },
     {
       "added_at": null,
@@ -727,22 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Dem Boyz",
-        "url": "https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs"
+        "name": "I Never Felt Nun",
+        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
       },
       "artists": [
         {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 185948,
-      "name": "Rose Gold (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/2SY4ib4Llku3au3gsGPPEW"
+      "duration_ms": 158431,
+      "name": "Backstage Passes (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj"
     },
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 132501,
-      "name": "All I Know (feat. Pooh Shiesty)",
-      "url": "https://open.spotify.com/track/2z24gKxpLTBgi0CNuvwgyd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breezy",
         "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 204533,
       "name": "Hmhmm (feat. EST Gee)",
       "url": "https://open.spotify.com/track/0Tnw0FXl9CYNec5VsPN0y8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 132501,
+      "name": "All I Know (feat. Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/2z24gKxpLTBgi0CNuvwgyd"
     },
     {
       "added_at": null,
@@ -927,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 175636,
-      "name": "Get Down V2 ext aug8",
-      "url": "https://open.spotify.com/track/07yO8pAFqUiJaMwy5WKHj3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAD",
         "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 139681,
       "name": "THE ONE & ONLY",
       "url": "https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 175636,
+      "name": "Get Down V2 ext aug8",
+      "url": "https://open.spotify.com/track/07yO8pAFqUiJaMwy5WKHj3"
     },
     {
       "added_at": null,

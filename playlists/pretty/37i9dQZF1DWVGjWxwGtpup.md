@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : Shakira x Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,856 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,871 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 49 | [ROSITA](https://open.spotify.com/track/4HyPxBQDLUnY3w7gukITrW) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [ROSITA](https://open.spotify.com/album/3kU2wmmT1ix5kSHtNm1rFD) | 4:05 |
 | 50 | [San Charly](https://open.spotify.com/track/7ghPrLoF9gcOm4jQpwzzMz) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ), [Alan Arrieta](https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr) | [San Charly](https://open.spotify.com/album/31Bc4KiyvpxhlHxps82U52) | 2:54 |
 
-Snapshot ID: `AAAAANgANY+2cylx1OHbkv+TT+dWJgCh`
+Snapshot ID: `AAAAAIvy/xLb8YCYCJj8iouunnTEL3cB`

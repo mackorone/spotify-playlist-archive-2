@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : D'accord Simon",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Zed Yun Pavarotti",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -1078,6 +1078,24 @@
       "duration_ms": 189059,
       "name": "Calme-toi bouge tes genoux",
       "url": "https://open.spotify.com/track/5YOjTNyz3YvHeGEbDYiCSB"
+    },
+    {
+      "album": {
+        "name": "Camille",
+        "url": "https://open.spotify.com/album/6ZPcFqW4BTfhhIVB16hluK"
+      },
+      "artists": [
+        {
+          "name": "Mr GISCARD",
+          "url": "https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131960,
+      "name": "Camille",
+      "url": "https://open.spotify.com/track/5GK1CetggLaP1FoVZyQBsy"
     },
     {
       "album": {
@@ -3332,7 +3350,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 192000,
       "name": "Je fume pour oublier que tu bois",
       "url": "https://open.spotify.com/track/3yig6fkLrwKm8nL3kS45oD"
@@ -4212,7 +4230,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 181001,
       "name": "le danger (feat. unisature)",
       "url": "https://open.spotify.com/track/6IgsTzTGhUXl3PwtWZPfEY"
@@ -4926,7 +4944,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 229746,
       "name": "mes d\u00e9g\u00e2ts",
       "url": "https://open.spotify.com/track/3BZVvt21W0x7ADbx0X4XrP"
@@ -6793,6 +6811,24 @@
     },
     {
       "album": {
+        "name": "Sa musique pr\u00e9f\u00e9r\u00e9e",
+        "url": "https://open.spotify.com/album/3zs8IOYRdbsP4O1wWS2Ivf"
+      },
+      "artists": [
+        {
+          "name": "TheFrenchKris",
+          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Sa musique pr\u00e9f\u00e9r\u00e9e",
+      "url": "https://open.spotify.com/track/3MOjw2NvdXvNkgCkcLdLvf"
+    },
+    {
+      "album": {
         "name": "Sans Cesse",
         "url": "https://open.spotify.com/album/5k9uPMU5VmYPDP3Zh5Iu1e"
       },
@@ -7566,7 +7602,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 203733,
       "name": "Take Off Late",
       "url": "https://open.spotify.com/track/03fygREX2cwp5eK4BSnd90"
@@ -7789,6 +7825,24 @@
     },
     {
       "album": {
+        "name": "Tomorrows",
+        "url": "https://open.spotify.com/album/76jh4BwTC5gObvqorzZahl"
+      },
+      "artists": [
+        {
+          "name": "Canine",
+          "url": "https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196644,
+      "name": "Tomorrows",
+      "url": "https://open.spotify.com/track/5oIHQx3Lng4NlSqWxbxgMd"
+    },
+    {
+      "album": {
         "name": "C'est comme \u00e7a",
         "url": "https://open.spotify.com/album/44OwQ3T3Iz5gROLNULcBH4"
       },
@@ -7872,7 +7926,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 140827,
       "name": "Tout seul",
       "url": "https://open.spotify.com/track/6VZ0v0TSl98xFn6rQuzVgy"
@@ -7894,6 +7948,24 @@
       "duration_ms": 165500,
       "name": "Tovsk",
       "url": "https://open.spotify.com/track/3eE3crzsKJ2PaNQ8Ql0nzD"
+    },
+    {
+      "album": {
+        "name": "FRAGILE HARDCORE",
+        "url": "https://open.spotify.com/album/3MuOzXHWsVlVfWTcwK4lOA"
+      },
+      "artists": [
+        {
+          "name": "Liv del Estal",
+          "url": "https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/223MDZteznzgYiVX9QT5vB"
     },
     {
       "album": {
@@ -8320,6 +8392,24 @@
       "duration_ms": 301959,
       "name": "We Walk",
       "url": "https://open.spotify.com/track/3jQDg6gtXG5c0F6a8k1xDg"
+    },
+    {
+      "album": {
+        "name": "WEBCAM",
+        "url": "https://open.spotify.com/album/0syMRhO9MFSDutNxM6ZZwK"
+      },
+      "artists": [
+        {
+          "name": "BLOWSOM",
+          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202775,
+      "name": "WEBCAM",
+      "url": "https://open.spotify.com/track/7ioVtUe6IAiWvVohQJvcNH"
     },
     {
       "album": {

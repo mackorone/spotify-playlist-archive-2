@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,395 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,423 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 33 | [Raining Whiskey](https://open.spotify.com/track/1qqs9kzZOuLXEbQU4LCQbH) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Raining Whiskey](https://open.spotify.com/album/2U7Wfc3Hd13vTJ7K3u8ebl) | 2:48 |
 | 34 | [SACRED HEART](https://open.spotify.com/track/0XOlRD5Q2foFN2hCOOyZc1) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU), [Kala](https://open.spotify.com/artist/1u94nEnxIMhDOMOScTHVTr) | [M.I.7](https://open.spotify.com/album/6TGoIu9hPSLt2fYgdThVKD) | 2:51 |
 | 35 | [Heart You Didn't Break](https://open.spotify.com/track/3LZ9tH82f13GAbbm97c8dN) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Heart You Didn't Break](https://open.spotify.com/album/5uUttORPPONM7o3vhYZO2m) | 3:12 |
-| 36 | [ifidiewouldyoucry](https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [ifidiewouldyoucry](https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV) | 2:55 |
+| 36 | [ifidiewouldyoucry](https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [ifidiewouldyoucry](https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV) | 2:55 |
 | 37 | [BLINDFOLD](https://open.spotify.com/track/14CHUiA5TOvpYvIl63TSI6) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [IT CALLS ME BY NAME](https://open.spotify.com/album/0dGjNVNmtc3ZkrK6YgwjLL) | 3:14 |
 | 38 | [Deep Water](https://open.spotify.com/track/528USB3qDsPEM7Gd0gnUxP) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Deep Water](https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78) | 2:33 |
 | 39 | [HunchO STEP! \(feat\. Quavo\)](https://open.spotify.com/track/5Q5q2dBnvn6CkpuB8RmLXr) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [HunchO STEP! \(feat\. Quavo\)](https://open.spotify.com/album/1QZeMcXY4qchahi6eQFzuT) | 3:20 |

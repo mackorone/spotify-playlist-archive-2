@@ -4,7 +4,7 @@
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-160 songs - 11 hr 16 min
+161 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [The Healer \- feat\. Carlos Santana & The Santana Band](https://open.spotify.com/track/7Efb2PkxBWN6b0fY8PiAzU) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ), [The Santana Band](https://open.spotify.com/artist/6pl0BgEA0h0mHralJp2DdE) | [The Healer](https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk) | 5:40 | 2024-02-06 |  |
 | [The Healing Game](https://open.spotify.com/track/0sbMYtcLDCPxBte1VxzNFd) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Don't Look Back](https://open.spotify.com/album/6R6gJ4JjmHEeUdimoHpIHE) | 5:09 | 2022-10-12 | 2024-02-06 |
 | [The Healing Game](https://open.spotify.com/track/1SSAVVIiMMfpukBfQ15vBP) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Don't Look Back](https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7) | 5:09 | 2024-02-06 |  |
-| [The Motor City Is Burning](https://open.spotify.com/track/3BEMA3t4qzJeV2oo3uH8pW) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Blues Legend](https://open.spotify.com/album/3gYuOHywliM9xrlMYgL94w) | 2:51 | 2022-08-05 |  |
+| [The Motor City Is Burning](https://open.spotify.com/track/4UBTrrSotbB1DaRbapsR0R) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Best Of John Lee Hooker 1965 To 1974](https://open.spotify.com/album/1cEQBXubvMi6htzSm1GKzI) | 2:49 | 2026-04-24 |  |
+| [The Motor City Is Burning](https://open.spotify.com/track/3BEMA3t4qzJeV2oo3uH8pW) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Blues Legend](https://open.spotify.com/album/3gYuOHywliM9xrlMYgL94w) | 2:51 | 2022-08-05 | 2026-04-24 |
 | [The Road Is So Rough \(aka When I Started Hoboing\)](https://open.spotify.com/track/3i5IiwoXpuLK5YGSzokPlP) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [John Lee Hooker \- On Vee\-Jay 1955\-1958](https://open.spotify.com/album/4S0rQVJxEMLQHZ8JGl9tXx) | 3:03 | 2024-04-24 | 2024-04-26 |
 | [The Wanderings of The Avener \- Continuous Mix](https://open.spotify.com/track/5FH2dK89RFAs293DDuV31z) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Kadebostany](https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57), [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W), [The Be Good Tanyas](https://open.spotify.com/artist/37PywjKNsxHji5F9eFODF2), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Adam Cohen](https://open.spotify.com/artist/1sKo8LpXbhcTHtd9moNCMk), [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [The Wanderings Of The Avener](https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP) | 54:10 | 2022-08-05 | 2026-04-15 |
 | [The Waterfront](https://open.spotify.com/track/6N4rqRMdQCfT0lTXuFx72D) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 5:19 | 2022-08-21 | 2022-10-06 |

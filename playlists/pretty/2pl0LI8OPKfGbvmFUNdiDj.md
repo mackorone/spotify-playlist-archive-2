@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 751 likes - 89 songs - 5 hr 3 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 755 likes - 92 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,5 +97,8 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 87 | [Mario Kart at Amy's Apartment](https://open.spotify.com/track/4KuCGB4hLRw8PMHnuzWVxS) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Emoticon](https://open.spotify.com/album/1ixiBOAbg2UXTxh5wf0Jj9) | 3:37 |
 | 88 | [Grace is Gone](https://open.spotify.com/track/5QyGhIs60QO3KOVMv7X54y) | [Austin\-Tucker](https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq) | [Grace is Gone](https://open.spotify.com/album/6NJPxxjLZ1gD0zNOQbKcbN) | 4:13 |
 | 89 | [backseat confessions](https://open.spotify.com/track/79lCZgjb8Sw6cVqsJTJ5FA) | [DeMonte Lavon](https://open.spotify.com/artist/417b6aqhC6zWo0I5iD8Q9K) | [backseat confessions](https://open.spotify.com/album/2ZxJeVllW06njTXqorI5P4) | 4:27 |
+| 90 | [Regrets](https://open.spotify.com/track/5OcfEtuClISKPdL7oXhnnL) | [Sasha Renee](https://open.spotify.com/artist/2ZAYFh5BoAhA9fCjAcuxwu) | [Regrets](https://open.spotify.com/album/1bhiWsTcsqmYvv3WqCu7vb) | 2:07 |
+| 91 | [Mangrovia](https://open.spotify.com/track/7IFpqolKCwcdzWPMEb5ywv) | [Stefano Nardon](https://open.spotify.com/artist/0KEWjwnCfRfmaialCXQU9T) | [Mangrovia](https://open.spotify.com/album/2YiWsFrnTH5IdjTwBlmKiz) | 4:14 |
+| 92 | [Cliffhanger](https://open.spotify.com/track/4JX8FWiyo3AeYQ2B5EZ5wL) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Tides](https://open.spotify.com/album/6IcFYhUAnyprfDg7kRlRZZ) | 3:43 |
 
-Snapshot ID: `AAADe1w/xIh8SVVvAudE9SKrArhlcrv3`
+Snapshot ID: `AAADfps6vibqXBtglYR5tAce4RXM+2GX`

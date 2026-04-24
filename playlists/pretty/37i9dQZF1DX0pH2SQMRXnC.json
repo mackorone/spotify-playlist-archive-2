@@ -1,6 +1,6 @@
 {
   "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
-  "num_followers": 1535846,
+  "num_followers": 1536042,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -1087,30 +1087,6 @@
     {
       "added_at": "2026-04-20 12:00:27",
       "album": {
-        "name": "The Upside Down",
-        "url": "https://open.spotify.com/album/1BWkYpg39kZo6kUO2cFgww"
-      },
-      "artists": [
-        {
-          "name": "Project One",
-          "url": "https://open.spotify.com/artist/7fMJN4fdEwmFWd8uz5pnKx"
-        },
-        {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
-        },
-        {
-          "name": "Wildstylez",
-          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
-        }
-      ],
-      "duration_ms": 212516,
-      "name": "The Upside Down",
-      "url": "https://open.spotify.com/track/0Ruke6176pqWxtKyktLUOb"
-    },
-    {
-      "added_at": "2026-04-20 12:00:27",
-      "album": {
         "name": "Can Can",
         "url": "https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi"
       },
@@ -1147,18 +1123,26 @@
     {
       "added_at": "2026-04-20 12:00:27",
       "album": {
-        "name": "The Unknown",
-        "url": "https://open.spotify.com/album/5iAXhh4YQQHZ4CKPvqye36"
+        "name": "The Upside Down",
+        "url": "https://open.spotify.com/album/1BWkYpg39kZo6kUO2cFgww"
       },
       "artists": [
         {
-          "name": "Frequencerz",
-          "url": "https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s"
+          "name": "Project One",
+          "url": "https://open.spotify.com/artist/7fMJN4fdEwmFWd8uz5pnKx"
+        },
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        },
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
         }
       ],
-      "duration_ms": 215000,
-      "name": "The Unknown",
-      "url": "https://open.spotify.com/track/7fF76vvWwpgilCXwIqA19p"
+      "duration_ms": 212516,
+      "name": "The Upside Down",
+      "url": "https://open.spotify.com/track/0Ruke6176pqWxtKyktLUOb"
     },
     {
       "added_at": "2026-04-20 12:00:27",
@@ -1183,6 +1167,22 @@
       "duration_ms": 150000,
       "name": "Free (feat. Starsplash)",
       "url": "https://open.spotify.com/track/1Juo1H8h7Gbg4m0d9qOdxq"
+    },
+    {
+      "added_at": "2026-04-20 12:00:27",
+      "album": {
+        "name": "The Unknown",
+        "url": "https://open.spotify.com/album/5iAXhh4YQQHZ4CKPvqye36"
+      },
+      "artists": [
+        {
+          "name": "Frequencerz",
+          "url": "https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "The Unknown",
+      "url": "https://open.spotify.com/track/7fF76vvWwpgilCXwIqA19p"
     },
     {
       "added_at": "2026-04-20 12:00:27",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-04-20 12:00:27",
       "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/0Jtp3OvYVQQtB8sFOZrtRA"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 191153,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/7xQwPes4zbdJNjKqwtshgd"
-    },
-    {
-      "added_at": "2026-04-20 12:00:27",
-      "album": {
         "name": "Shivers",
         "url": "https://open.spotify.com/album/5ZF6HWdSkytZGUSqZpL3eV"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 228340,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/7aIgUTEPXjRH19raLJwRMG"
+    },
+    {
+      "added_at": "2026-04-20 12:00:27",
+      "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/0Jtp3OvYVQQtB8sFOZrtRA"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "duration_ms": 191153,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/7xQwPes4zbdJNjKqwtshgd"
     },
     {
       "added_at": "2026-04-20 12:00:27",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2026-04-20 12:00:27",
       "album": {
+        "name": "Burning Down",
+        "url": "https://open.spotify.com/album/4XQenqlElkoMggcTGHj7VT"
+      },
+      "artists": [
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "duration_ms": 199941,
+      "name": "Burning Down",
+      "url": "https://open.spotify.com/track/1Es2uLFDtB3xHrjv7V2H9J"
+    },
+    {
+      "added_at": "2026-04-20 12:00:27",
+      "album": {
         "name": "Mona Lisa (All That She Wants)",
         "url": "https://open.spotify.com/album/0xx7kBAvYk2YVwPrkLE7t9"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 205028,
       "name": "Mona Lisa (All That She Wants)",
       "url": "https://open.spotify.com/track/6i2cqA5mFGSyWVtja0nwcu"
-    },
-    {
-      "added_at": "2026-04-20 12:00:27",
-      "album": {
-        "name": "Burning Down",
-        "url": "https://open.spotify.com/album/4XQenqlElkoMggcTGHj7VT"
-      },
-      "artists": [
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
-        }
-      ],
-      "duration_ms": 199941,
-      "name": "Burning Down",
-      "url": "https://open.spotify.com/track/1Es2uLFDtB3xHrjv7V2H9J"
     },
     {
       "added_at": "2026-04-20 12:00:27",
@@ -1907,22 +1907,22 @@
     {
       "added_at": "2026-04-20 12:00:27",
       "album": {
-        "name": "Alive 2Nite",
-        "url": "https://open.spotify.com/album/1XjyuAM33YDfB2MrT3YeXq"
+        "name": "FEELIN' HIGH",
+        "url": "https://open.spotify.com/album/54hbMGZhiGSoP7IwCoJN3U"
       },
       "artists": [
         {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+          "name": "Krowdexx",
+          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
         },
         {
-          "name": "Aversion",
-          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+          "name": "Mish",
+          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
         }
       ],
-      "duration_ms": 201914,
-      "name": "Alive 2Nite",
-      "url": "https://open.spotify.com/track/4WrWGFQakutzb7IZJGYNbD"
+      "duration_ms": 186750,
+      "name": "FEELIN' HIGH",
+      "url": "https://open.spotify.com/track/5WeFchK0FRpzVv9Z3c6ulH"
     },
     {
       "added_at": "2026-04-20 12:00:27",
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2026-04-20 12:00:27",
       "album": {
-        "name": "FEELIN' HIGH",
-        "url": "https://open.spotify.com/album/54hbMGZhiGSoP7IwCoJN3U"
-      },
-      "artists": [
-        {
-          "name": "Krowdexx",
-          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
-        },
-        {
-          "name": "Mish",
-          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
-        }
-      ],
-      "duration_ms": 186750,
-      "name": "FEELIN' HIGH",
-      "url": "https://open.spotify.com/track/5WeFchK0FRpzVv9Z3c6ulH"
-    },
-    {
-      "added_at": "2026-04-20 12:00:27",
-      "album": {
         "name": "Somebody That I Used To Know",
         "url": "https://open.spotify.com/album/73FFBX8d81xHVNwAINwfoy"
       },
@@ -1983,6 +1963,26 @@
       "duration_ms": 242345,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/5YPl1zxprbE2ZaHQqxJ5wZ"
+    },
+    {
+      "added_at": "2026-04-20 12:00:27",
+      "album": {
+        "name": "Alive 2Nite",
+        "url": "https://open.spotify.com/album/1XjyuAM33YDfB2MrT3YeXq"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        }
+      ],
+      "duration_ms": 201914,
+      "name": "Alive 2Nite",
+      "url": "https://open.spotify.com/track/4WrWGFQakutzb7IZJGYNbD"
     },
     {
       "added_at": "2026-04-20 12:00:27",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2026-04-20 12:00:27",
       "album": {
-        "name": "All Good Things (Come To An End)",
-        "url": "https://open.spotify.com/album/16WYdUkvGzVQpbH4RdcSVe"
-      },
-      "artists": [
-        {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
-        }
-      ],
-      "duration_ms": 134918,
-      "name": "All Good Things (Come To An End)",
-      "url": "https://open.spotify.com/track/2rYwSBIrv1HB29MJPoVhHX"
-    },
-    {
-      "added_at": "2026-04-20 12:00:27",
-      "album": {
         "name": "Cambodia",
         "url": "https://open.spotify.com/album/4HtUIpG6VJUovQ7Ki6rtIU"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 158940,
       "name": "Cambodia",
       "url": "https://open.spotify.com/track/43yq4RWhzp5nIxDUWlU3mD"
+    },
+    {
+      "added_at": "2026-04-20 12:00:27",
+      "album": {
+        "name": "All Good Things (Come To An End)",
+        "url": "https://open.spotify.com/album/16WYdUkvGzVQpbH4RdcSVe"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "duration_ms": 134918,
+      "name": "All Good Things (Come To An End)",
+      "url": "https://open.spotify.com/track/2rYwSBIrv1HB29MJPoVhHX"
     },
     {
       "added_at": "2026-04-20 12:00:27",
@@ -2159,6 +2159,22 @@
     {
       "added_at": "2026-04-20 12:00:27",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/5PacTGJNhF766ROoqHqPPn"
+      },
+      "artists": [
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        }
+      ],
+      "duration_ms": 174967,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1rT7b6aDpU8jERHwOoRbi4"
+    },
+    {
+      "added_at": "2026-04-20 12:00:27",
+      "album": {
         "name": "Nothing Ever Feels The Same",
         "url": "https://open.spotify.com/album/4JiWE7fRPJZJfyZrxOqmsc"
       },
@@ -2179,22 +2195,6 @@
     {
       "added_at": "2026-04-20 12:00:27",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/5PacTGJNhF766ROoqHqPPn"
-      },
-      "artists": [
-        {
-          "name": "DJ Isaac",
-          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
-        }
-      ],
-      "duration_ms": 174967,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/1rT7b6aDpU8jERHwOoRbi4"
-    },
-    {
-      "added_at": "2026-04-20 12:00:27",
-      "album": {
         "name": "Kiss Kiss Bang",
         "url": "https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29"
       },
@@ -2211,26 +2211,22 @@
     {
       "added_at": "2026-04-20 12:00:27",
       "album": {
-        "name": "The Age Of Love (Brennan Heart & ANDY SVGE Remix)",
-        "url": "https://open.spotify.com/album/4pk35uSAFZ7Q2MweAdCWN3"
+        "name": "Never Surrender",
+        "url": "https://open.spotify.com/album/0b0G6oXqDgy5NQDxvuHh5B"
       },
       "artists": [
         {
-          "name": "Age Of Love",
-          "url": "https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn"
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
         },
         {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        },
-        {
-          "name": "ANDY SVGE",
-          "url": "https://open.spotify.com/artist/4MciZ3SoIaHGhBecweONHp"
+          "name": "Nathalie Blue",
+          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
         }
       ],
-      "duration_ms": 187200,
-      "name": "The Age Of Love - Brennan Heart & ANDY SVGE Remix",
-      "url": "https://open.spotify.com/track/4h1igBodAXxo1IKsbV5h4Q"
+      "duration_ms": 159978,
+      "name": "Never Surrender",
+      "url": "https://open.spotify.com/track/5WUi83oaFYgo7Y54mLlt5J"
     },
     {
       "added_at": "2026-04-20 12:00:27",
@@ -2259,6 +2255,30 @@
     {
       "added_at": "2026-04-20 12:00:27",
       "album": {
+        "name": "The Age Of Love (Brennan Heart & ANDY SVGE Remix)",
+        "url": "https://open.spotify.com/album/4pk35uSAFZ7Q2MweAdCWN3"
+      },
+      "artists": [
+        {
+          "name": "Age Of Love",
+          "url": "https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "ANDY SVGE",
+          "url": "https://open.spotify.com/artist/4MciZ3SoIaHGhBecweONHp"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "The Age Of Love - Brennan Heart & ANDY SVGE Remix",
+      "url": "https://open.spotify.com/track/4h1igBodAXxo1IKsbV5h4Q"
+    },
+    {
+      "added_at": "2026-04-20 12:00:27",
+      "album": {
         "name": "The Tunnel",
         "url": "https://open.spotify.com/album/3jmkZoQR95gXny1yMmXXiV"
       },
@@ -2275,26 +2295,6 @@
       "duration_ms": 179612,
       "name": "The Tunnel",
       "url": "https://open.spotify.com/track/6ldvSkajnSb7ntkImkQjBP"
-    },
-    {
-      "added_at": "2026-04-20 12:00:27",
-      "album": {
-        "name": "Never Surrender",
-        "url": "https://open.spotify.com/album/0b0G6oXqDgy5NQDxvuHh5B"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        },
-        {
-          "name": "Nathalie Blue",
-          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
-        }
-      ],
-      "duration_ms": 159978,
-      "name": "Never Surrender",
-      "url": "https://open.spotify.com/track/5WUi83oaFYgo7Y54mLlt5J"
     },
     {
       "added_at": "2026-04-20 12:00:27",
@@ -2339,6 +2339,22 @@
     {
       "added_at": "2026-04-20 12:00:27",
       "album": {
+        "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
+        "url": "https://open.spotify.com/album/6xlEt6dy8ERoQLN6q7u999"
+      },
+      "artists": [
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "duration_ms": 295741,
+      "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
+      "url": "https://open.spotify.com/track/2ELEWmYpYWOIkZSMu9pkHW"
+    },
+    {
+      "added_at": "2026-04-20 12:00:27",
+      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/6WbTZEvD3EH9Av7d3sLPTW"
       },
@@ -2359,22 +2375,6 @@
       "duration_ms": 227254,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/7dh9svKRrcDuepZPLwYi4F"
-    },
-    {
-      "added_at": "2026-04-20 12:00:27",
-      "album": {
-        "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
-        "url": "https://open.spotify.com/album/6xlEt6dy8ERoQLN6q7u999"
-      },
-      "artists": [
-        {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
-        }
-      ],
-      "duration_ms": 295741,
-      "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
-      "url": "https://open.spotify.com/track/2ELEWmYpYWOIkZSMu9pkHW"
     },
     {
       "added_at": "2026-04-20 12:00:27",
@@ -2435,6 +2435,22 @@
     {
       "added_at": "2026-04-20 12:00:27",
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/2eCwDfttkmm40RzsvDQ9Ok"
+      },
+      "artists": [
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "duration_ms": 217532,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0zDUzxZaH3nuhuf1GbwdGs"
+    },
+    {
+      "added_at": "2026-04-20 12:00:27",
+      "album": {
         "name": "Blow Ya Mind",
         "url": "https://open.spotify.com/album/6WyKSr06KqwjYGYgLHIXzk"
       },
@@ -2455,22 +2471,6 @@
       "duration_ms": 167994,
       "name": "Blow Ya Mind",
       "url": "https://open.spotify.com/track/1IkE1saSXrs3IgDnlZeX3M"
-    },
-    {
-      "added_at": "2026-04-20 12:00:27",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/2eCwDfttkmm40RzsvDQ9Ok"
-      },
-      "artists": [
-        {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
-        }
-      ],
-      "duration_ms": 217532,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/0zDUzxZaH3nuhuf1GbwdGs"
     },
     {
       "added_at": "2026-04-20 12:00:27",
@@ -2595,22 +2595,6 @@
     {
       "added_at": "2026-04-20 12:00:27",
       "album": {
-        "name": "LIKE THIZ",
-        "url": "https://open.spotify.com/album/7rvyVTb7xGubWwU16rIlVa"
-      },
-      "artists": [
-        {
-          "name": "D-Charged",
-          "url": "https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy"
-        }
-      ],
-      "duration_ms": 135378,
-      "name": "LIKE THIZ",
-      "url": "https://open.spotify.com/track/4AqwkXbGNV7PUAHwyWepdQ"
-    },
-    {
-      "added_at": "2026-04-20 12:00:27",
-      "album": {
         "name": "Cornflakes",
         "url": "https://open.spotify.com/album/1lxsotpRESvh43wXTaHSfV"
       },
@@ -2675,6 +2659,22 @@
     {
       "added_at": "2026-04-20 12:00:27",
       "album": {
+        "name": "LIKE THIZ",
+        "url": "https://open.spotify.com/album/7rvyVTb7xGubWwU16rIlVa"
+      },
+      "artists": [
+        {
+          "name": "D-Charged",
+          "url": "https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy"
+        }
+      ],
+      "duration_ms": 135378,
+      "name": "LIKE THIZ",
+      "url": "https://open.spotify.com/track/4AqwkXbGNV7PUAHwyWepdQ"
+    },
+    {
+      "added_at": "2026-04-20 12:00:27",
+      "album": {
         "name": "Journey Through Sound",
         "url": "https://open.spotify.com/album/7gkZOkyID0R09lwlp9ri0i"
       },
@@ -2687,26 +2687,6 @@
       "duration_ms": 222732,
       "name": "Journey Through Sound",
       "url": "https://open.spotify.com/track/2SZLJfxcEzwtahQmvVoi7V"
-    },
-    {
-      "added_at": "2026-04-20 12:00:27",
-      "album": {
-        "name": "ZAAG 'N' NIGHT",
-        "url": "https://open.spotify.com/album/5r6wyx2ftkF84ceMbOnVrA"
-      },
-      "artists": [
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        },
-        {
-          "name": "TOZA",
-          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "ZAAG 'N' NIGHT",
-      "url": "https://open.spotify.com/track/64DeIvhYpTWUjEDihyOZMQ"
     },
     {
       "added_at": "2026-04-20 12:00:27",
@@ -2731,6 +2711,26 @@
       "duration_ms": 173571,
       "name": "Into the Night",
       "url": "https://open.spotify.com/track/2EPHUV16WoWXHVxxoJzvi2"
+    },
+    {
+      "added_at": "2026-04-20 12:00:27",
+      "album": {
+        "name": "ZAAG 'N' NIGHT",
+        "url": "https://open.spotify.com/album/5r6wyx2ftkF84ceMbOnVrA"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "TOZA",
+          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "ZAAG 'N' NIGHT",
+      "url": "https://open.spotify.com/track/64DeIvhYpTWUjEDihyOZMQ"
     },
     {
       "added_at": "2026-04-20 12:00:27",
@@ -2891,26 +2891,6 @@
     {
       "added_at": "2026-04-20 12:00:27",
       "album": {
-        "name": "PUMP THE MUSIC",
-        "url": "https://open.spotify.com/album/41AUfrg6qZ5cvRlqL7oKJ4"
-      },
-      "artists": [
-        {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
-        },
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        }
-      ],
-      "duration_ms": 177750,
-      "name": "PUMP THE MUSIC",
-      "url": "https://open.spotify.com/track/7LE3CsLJSY6un9R4JWB1rj"
-    },
-    {
-      "added_at": "2026-04-20 12:00:27",
-      "album": {
         "name": "DOOMSDAY 4EVER",
         "url": "https://open.spotify.com/album/0ANjZsI5VG8bkQ3TazrcsC"
       },
@@ -2927,6 +2907,26 @@
       "duration_ms": 192000,
       "name": "DOOMSDAY 4EVER",
       "url": "https://open.spotify.com/track/2poNhB4WFLrgRwL5tNsDm4"
+    },
+    {
+      "added_at": "2026-04-20 12:00:27",
+      "album": {
+        "name": "PUMP THE MUSIC",
+        "url": "https://open.spotify.com/album/41AUfrg6qZ5cvRlqL7oKJ4"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        },
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        }
+      ],
+      "duration_ms": 177750,
+      "name": "PUMP THE MUSIC",
+      "url": "https://open.spotify.com/track/7LE3CsLJSY6un9R4JWB1rj"
     },
     {
       "added_at": "2026-04-20 12:00:27",
@@ -3003,26 +3003,6 @@
     {
       "added_at": "2026-04-20 12:00:27",
       "album": {
-        "name": "Cambodia",
-        "url": "https://open.spotify.com/album/61luiakkDLCHhVZPFq50CT"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Vorwerk",
-          "url": "https://open.spotify.com/artist/0JiAaia66Exx0UcsxD4TiC"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "Cambodia",
-      "url": "https://open.spotify.com/track/4la0X6BxxFkKI7lFFMx4s4"
-    },
-    {
-      "added_at": "2026-04-20 12:00:27",
-      "album": {
         "name": "WHERE DID YOU GO",
         "url": "https://open.spotify.com/album/6omkRAcLFb68qKKfskT6gq"
       },
@@ -3039,6 +3019,26 @@
       "duration_ms": 204750,
       "name": "WHERE DID YOU GO",
       "url": "https://open.spotify.com/track/4sNBmBaD30oS78qxIVmEi0"
+    },
+    {
+      "added_at": "2026-04-20 12:00:27",
+      "album": {
+        "name": "Cambodia",
+        "url": "https://open.spotify.com/album/61luiakkDLCHhVZPFq50CT"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Vorwerk",
+          "url": "https://open.spotify.com/artist/0JiAaia66Exx0UcsxD4TiC"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "Cambodia",
+      "url": "https://open.spotify.com/track/4la0X6BxxFkKI7lFFMx4s4"
     }
   ],
   "unique_name": "Hardstyle Bangers",

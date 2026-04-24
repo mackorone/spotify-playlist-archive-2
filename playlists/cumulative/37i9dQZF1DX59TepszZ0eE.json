@@ -4555,6 +4555,24 @@
     },
     {
       "album": {
+        "name": "Ndafunyanwa",
+        "url": "https://open.spotify.com/album/7JMSbWh5K6dMUFWsL8lskI"
+      },
+      "artists": [
+        {
+          "name": "Njabulo Masinga",
+          "url": "https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277054,
+      "name": "Ndafunyanwa",
+      "url": "https://open.spotify.com/track/60F0Ui9qkPbQCS4QIEVlDZ"
+    },
+    {
+      "album": {
         "name": "Joyous Celebration 25 - Still We Rise: Live At The Joburg Theatre",
         "url": "https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz"
       },

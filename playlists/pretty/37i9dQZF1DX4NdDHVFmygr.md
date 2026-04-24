@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > Les hits marocains qui nous rassemblent, où qu’on soit 🇲🇦
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,722 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,821 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,15 +19,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 9 | [Tach](https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tach](https://open.spotify.com/album/2ZMe4OmL7R51leJ0RswRSl) | 3:25 |
 | 10 | [Nsak?](https://open.spotify.com/track/1Za6AEVzkw226m94Y0RGpf) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [MOVETA](https://open.spotify.com/album/7oPdq0spIZzvMv8EoTC7A1) | 3:02 |
 | 11 | [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 |
-| 12 | [MOON](https://open.spotify.com/track/4FK1eYp1arE2jiuAgluOtt) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:29 |
-| 13 | [Souvenir](https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 3:14 |
-| 14 | [Belbala](https://open.spotify.com/track/4Oagap5XW3qs8J9Kkmr855) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Belbala](https://open.spotify.com/album/6AmmvJiN4To7amchRSxEKm) | 2:39 |
-| 15 | [DEPART](https://open.spotify.com/track/2Jzn2clALwnSCrHdXPBXfB) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [DEPART](https://open.spotify.com/album/2wVXCvBj607fhsujknCH3y) | 2:41 |
-| 16 | [KATANA](https://open.spotify.com/track/6bvaZEeNfpGIzDGiAfAwWp) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [SSADA](https://open.spotify.com/album/49tV3jD78I0HdqhL5GsfgY) | 2:37 |
-| 17 | [TJENENY](https://open.spotify.com/track/15inJJqxM31I8sKAUxucEg) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:52 |
-| 18 | [Ya Lmossiba](https://open.spotify.com/track/403uDwdlwGqUXjSfBVVL0H) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Ya Lmossiba](https://open.spotify.com/album/5dMy0rn1uqWQrMu4SlqdEd) | 3:04 |
-| 19 | [Mimti](https://open.spotify.com/track/0hmkeziIYTAaytHCJEbJQi) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/1Vpex5wTTgsbK0HUm32eia) | 3:18 |
-| 20 | [Wswass](https://open.spotify.com/track/5zOVpTeOZU5k08J78R6tc6) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [PURA](https://open.spotify.com/album/3mlkgi42D7SWWuEKBRwRkF) | 2:42 |
+| 12 | [Wswass](https://open.spotify.com/track/5zOVpTeOZU5k08J78R6tc6) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [PURA](https://open.spotify.com/album/3mlkgi42D7SWWuEKBRwRkF) | 2:42 |
+| 13 | [MOON](https://open.spotify.com/track/4FK1eYp1arE2jiuAgluOtt) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:29 |
+| 14 | [Souvenir](https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 3:14 |
+| 15 | [Belbala](https://open.spotify.com/track/4Oagap5XW3qs8J9Kkmr855) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Belbala](https://open.spotify.com/album/6AmmvJiN4To7amchRSxEKm) | 2:39 |
+| 16 | [DEPART](https://open.spotify.com/track/2Jzn2clALwnSCrHdXPBXfB) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [DEPART](https://open.spotify.com/album/2wVXCvBj607fhsujknCH3y) | 2:41 |
+| 17 | [KATANA](https://open.spotify.com/track/6bvaZEeNfpGIzDGiAfAwWp) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [SSADA](https://open.spotify.com/album/49tV3jD78I0HdqhL5GsfgY) | 2:37 |
+| 18 | [TJENENY](https://open.spotify.com/track/15inJJqxM31I8sKAUxucEg) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:52 |
+| 19 | [Ya Lmossiba](https://open.spotify.com/track/403uDwdlwGqUXjSfBVVL0H) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Ya Lmossiba](https://open.spotify.com/album/5dMy0rn1uqWQrMu4SlqdEd) | 3:04 |
+| 20 | [Mimti](https://open.spotify.com/track/0hmkeziIYTAaytHCJEbJQi) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/1Vpex5wTTgsbK0HUm32eia) | 3:18 |
 | 21 | [BOOMX3](https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [BOOMX3](https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F) | 2:56 |
 | 22 | [Quand elle danse](https://open.spotify.com/track/0OSZ5lMaPbtAsP9vdXIMUa) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Quand elle danse](https://open.spotify.com/album/6Dn9V3wCwHeZdX0YrjKe3K) | 3:11 |
 | 23 | [Hassassiya](https://open.spotify.com/track/5w3WUacjjy4TgQI1ffGXaB) | [Salim Cravata ](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Hassassiya](https://open.spotify.com/album/3z6Qdj8k7H9OWYhuKhgcHP) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 49 | [Thunes](https://open.spotify.com/track/6aPXfQSEApJPZ6fXzkleF7) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq) | [The Last Race](https://open.spotify.com/album/7BhTEZolYdvJoxWB6ykCf8) | 4:12 |
 | 50 | [TABOUT](https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [TABOUT](https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN) | 3:19 |
 
-Snapshot ID: `AAAAAJDJmjW4WLcaCmV0Y5nsHHpuycA2`
+Snapshot ID: `AAAAAJ3gX+BXvriFgG3iLYKCGAOwSmDV`

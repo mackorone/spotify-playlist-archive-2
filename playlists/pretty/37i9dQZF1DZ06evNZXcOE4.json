@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAACni3Ap8xiyvofrGdkVFShI",
+  "snapshot_id": "aegPgAAAAAASW/qs03aGkmbYaLV7xSfP",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 344333,
-      "name": "The Riches",
-      "url": "https://open.spotify.com/track/0Cx7Zf4Aqlxd4lmHIRF7eL"
+      "duration_ms": 238106,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/6z4CTIToU7a03Rq07F9FF4"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 238106,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/6z4CTIToU7a03Rq07F9FF4"
+      "duration_ms": 344333,
+      "name": "The Riches",
+      "url": "https://open.spotify.com/track/0Cx7Zf4Aqlxd4lmHIRF7eL"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strays",
-        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+        "name": "Jane's Addiction (Live)",
+        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 272386,
-      "name": "Strays",
-      "url": "https://open.spotify.com/track/7fNLuDI0HJO61SWq0MctAn"
+      "duration_ms": 243664,
+      "name": "Rock & Roll",
+      "url": "https://open.spotify.com/track/5D3jslN9eR4jcbsVpt7x6g"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jane's Addiction (Live)",
-        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 243664,
-      "name": "Rock & Roll",
-      "url": "https://open.spotify.com/track/5D3jslN9eR4jcbsVpt7x6g"
+      "duration_ms": 272386,
+      "name": "Strays",
+      "url": "https://open.spotify.com/track/7fNLuDI0HJO61SWq0MctAn"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strays",
-        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+        "name": "Jane's Addiction (Live)",
+        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 327093,
-      "name": "Price I Pay",
-      "url": "https://open.spotify.com/track/7e9xEvXgrrzWxnJqzgQS4I"
+      "duration_ms": 325291,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/235s3YXmK3PiT4ALbl8cSF"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jane's Addiction (Live)",
-        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 325291,
-      "name": "Sympathy",
-      "url": "https://open.spotify.com/track/235s3YXmK3PiT4ALbl8cSF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kettle Whistle",
         "url": "https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 467493,
       "name": "Kettle Whistle",
       "url": "https://open.spotify.com/track/1dtmoGPBXf345SW4HT5QUM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 327093,
+      "name": "Price I Pay",
+      "url": "https://open.spotify.com/track/7e9xEvXgrrzWxnJqzgQS4I"
     },
     {
       "added_at": null,

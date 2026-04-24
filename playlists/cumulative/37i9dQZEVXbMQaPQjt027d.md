@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Netherlands.
 
-1,095 songs - 2 day 8 hr 56 min
+1,096 songs - 2 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -798,7 +798,7 @@
 | [SAMRA / سمرة](https://open.spotify.com/track/3RWrfl1qrnT9qOaO2cjjv2) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Love Letters / رسائل حب \(Deluxe\)](https://open.spotify.com/album/1L0410frQGcY66rOhygU6Z) | 2:51 | 2025-09-10 | 2025-09-16 |
 | [Sana Rağmen](https://open.spotify.com/track/6p17lQApoPFY2vBGccMzFH) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Sana Rağmen](https://open.spotify.com/album/1SG3xUjCDn7gndNJsIvIbv) | 3:30 | 2026-03-12 | 2026-03-18 |
 | [Sar Zamanımızı Geriye](https://open.spotify.com/track/5BuvzVuw5Y6h6dXseOJZSn) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Sar Zamanımızı Geriye](https://open.spotify.com/album/4Hbsjy5vfXCQG1YeNvXJQL) | 3:28 | 2025-09-30 | 2025-10-17 |
-| [Sarniezz](https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.II](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo) | 4:35 | 2026-04-21 |  |
+| [Sarniezz](https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.II](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo) | 4:35 | 2026-04-21 | 2026-04-24 |
 | [SCANDAL ANTHEM](https://open.spotify.com/track/08DchrgnFXBD6H142l4tvY) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy), [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [SCANDAL ANTHEM](https://open.spotify.com/album/1KGIRYw9xdet38N9JKZp7l) | 4:04 | 2025-12-16 | 2025-12-24 |
 | [Schepen Op Zee](https://open.spotify.com/track/4RJSPx4VzuC8jnsBI8ezhK) | [Else Lena](https://open.spotify.com/artist/6z3MeKgMc8aefi1TRFlvbe) | [Schepen Op Zee](https://open.spotify.com/album/6ba75Jarw7Fqeww0PJC1Yt) | 1:55 | 2026-01-27 | 2026-01-31 |
 | [Schweinsteiger](https://open.spotify.com/track/4VGvMXucEK4TjC6GZgyjRk) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [Schweinsteiger](https://open.spotify.com/album/2BTwcwPD1vISGzagEKkwlE) | 4:42 | 2025-09-02 | 2025-09-11 |
@@ -853,6 +853,7 @@
 | [Spookstad \- NewTone Remix](https://open.spotify.com/track/2vNwVqKapHlYQEkv99Piel) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [NewTone](https://open.spotify.com/artist/6xjjzzfzi4sSbwwZvRYENH) | [Spookstad \(NewTone Remix\)](https://open.spotify.com/album/0Z9HO43TwKGdAbyvyD7wiZ) | 5:13 | 2025-07-22 | 2025-08-05 |
 | [Spooky, Scary Skeletons \- Undead Tombstone Remix](https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music \(Deluxe Edition\)](https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4) | 2:05 | 2025-10-27 | 2025-11-09 |
 | [Spulleke!](https://open.spotify.com/track/2AituYi1jd8v7u0yW4kDGu) | [CV De Kòljakkers](https://open.spotify.com/artist/4KwO8DQbo5JHZL5LGTYYCO) | [Spulleke!](https://open.spotify.com/album/2OjSDC7vFdX0FORnFJyNeA) | 3:20 | 2026-02-10 | 2026-02-25 |
+| [Start with Yourself](https://open.spotify.com/track/4hXuD3lUDg1Lh4hREhnh4O) | [The Chordline](https://open.spotify.com/artist/5geqBUxi8vvBZ761nAttsU) | [Horizons](https://open.spotify.com/album/4aX3lbEX1whN9CsdFjz8D5) | 4:02 | 2026-04-23 |  |
 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-01-18 | 2026-03-18 |
 | [stay](https://open.spotify.com/track/56PS9rUrkwa1TYG6l1Vb0v) | [Aden Lou](https://open.spotify.com/artist/2SERlI6L4lfC7TOY8remiC) | [stay](https://open.spotify.com/album/6gROqlekZN4pD7DmuJeoJT) | 3:05 | 2025-07-19 | 2025-07-30 |
 | [STAY HERE 4 LIFE \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 5:46 | 2026-02-03 | 2026-02-06 |

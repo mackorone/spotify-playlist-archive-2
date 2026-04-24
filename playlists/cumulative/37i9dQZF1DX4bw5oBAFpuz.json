@@ -748,7 +748,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 195373,
       "name": "Be Yours",
       "url": "https://open.spotify.com/track/46lJyMkWR3BXZ6XLdZzhZ5"
@@ -5375,6 +5375,24 @@
     },
     {
       "album": {
+        "name": "Laps Around the Sun",
+        "url": "https://open.spotify.com/album/1mjMbSI9f1AYixV1CI7mLL"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206166,
+      "name": "Laps Around The Sun",
+      "url": "https://open.spotify.com/track/68ZVCePM9IP0MSbcmeZuup"
+    },
+    {
+      "album": {
         "name": "Laps Around The Sun",
         "url": "https://open.spotify.com/album/0nucTlCF9MJRacvHF4Oe8O"
       },
@@ -6918,7 +6936,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 152239,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
@@ -7588,7 +7606,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 230480,
       "name": "Plage",
       "url": "https://open.spotify.com/track/3WU1BGMLe9Tg2QuVmRPpw6"
@@ -9162,6 +9180,24 @@
       "duration_ms": 216946,
       "name": "Stay For Something",
       "url": "https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c"
+    },
+    {
+      "album": {
+        "name": "Survive - EP",
+        "url": "https://open.spotify.com/album/4ScfyWincbVs9Ingpb0zw6"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206106,
+      "name": "Stay Love",
+      "url": "https://open.spotify.com/track/3CyM2SZsivBrwxynIvN2K3"
     },
     {
       "album": {
@@ -11560,6 +11596,24 @@
       "duration_ms": 210066,
       "name": "Wonderful World",
       "url": "https://open.spotify.com/track/71LzkFemz0B8nmk8LcFyUg"
+    },
+    {
+      "album": {
+        "name": "Won\u2019t Fall",
+        "url": "https://open.spotify.com/album/4uSNgH9awhE0zRbG62IUek"
+      },
+      "artists": [
+        {
+          "name": "DI-RECT",
+          "url": "https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228900,
+      "name": "Won\u2019t Fall",
+      "url": "https://open.spotify.com/track/1f7P00oydj1vmqzPqk9AxN"
     },
     {
       "album": {

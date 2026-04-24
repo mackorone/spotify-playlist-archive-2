@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpKyeREPMg8.md) - [plain]
 
 > Fine art in the form of UK Hip\-Hop\. Cover: Dave, Kano
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,207 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,201 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chapter 16 \(feat\. Kano\)](https://open.spotify.com/track/1Vn4C8zBO7b2pZPQ8L0oZO) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 6:20 |
-| 2 | [Rest My Head](https://open.spotify.com/track/0G2Q5wbiyIQKJRTKLNcF0W) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [Rest My Head](https://open.spotify.com/album/4certibWxN9ja22PNj4xIe) | 3:33 |
+| 2 | [Healing Power](https://open.spotify.com/track/0YzQFpH5N1RBQJAtXUwzst) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Healing Power](https://open.spotify.com/album/1v65fLyHVIDVahmfkhJ9WI) | 2:48 |
 | 3 | [Nana’s Veranda](https://open.spotify.com/track/5WlK9nHuWqXlNtVPBfAnH6) | [Marnz Malone](https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4) | [Yaqeen](https://open.spotify.com/album/6Dfh1h3bNM26MVj9Ou3ekB) | 3:52 |
 | 4 | [Lion](https://open.spotify.com/track/2JnMEz1aD9m6bZAXUXFliU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 2:57 |
 | 5 | [time to go](https://open.spotify.com/track/7gUoNH4YHiIhyHUi5nRfSV) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [time to go](https://open.spotify.com/album/3XAiDJAvbbL2HHv3MsHOtf) | 3:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpKyeREPMg8.md) - [plain]
 | 79 | [Truth Is](https://open.spotify.com/track/7C6rXXS1Pugknat9anuR7L) | [Coops](https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR) | [Home Grown](https://open.spotify.com/album/3Gv1gWslGb52SfDCwXGzFg) | 3:40 |
 | 80 | [Grandma's Kitchen](https://open.spotify.com/track/2BU9FTy2ctWdTjiPiXLZZr) | [KwolleM](https://open.spotify.com/artist/5SFnJjOMV4N33wEpGvDwik), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Melo](https://open.spotify.com/album/3m8xFZm5azXCXreTC3rJ0Q) | 2:27 |
 
-Snapshot ID: `AAAAAL0+glX/GrR1LBZEliGjYHCUp6W1`
+Snapshot ID: `AAAAAKzdRAJPW0tFQ5RgAPwdLFr96yJN`

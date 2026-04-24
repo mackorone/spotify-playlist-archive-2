@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > 🪞 Not For Radio 🪞  <a href="https://docs.google.com/forms/d/e/1FAIpQLScMF3Bk85sf0Q8EtivfX\-sCFgsgIpORHNyGB28r1NujobZdmw/viewform?usp=header ">talk to us about music<3 </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,643 likes - 135 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,642 likes - 135 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

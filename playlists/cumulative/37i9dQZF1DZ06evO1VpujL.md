@@ -4,7 +4,7 @@
 
 > This is Skindred\. The essential tracks, all in one playlist.
 
-77 songs - 4 hr 35 min
+78 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Bad Man Ah Bad Man](https://open.spotify.com/track/3Mp33oV9ScXvMcFkX7RgEI) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 3:30 | 2024-09-17 |  |
 | [Big Em Up](https://open.spotify.com/track/48C8Th93jI84e6Zmq8YR5t) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [You Got This](https://open.spotify.com/album/4A4hmu0p8DWp10Nf85BraJ) | 3:34 | 2026-04-19 |  |
 | [Big Tings](https://open.spotify.com/track/3ddLVqFzW2KVnfOenMXsGS) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Big Tings](https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam) | 3:34 | 2024-09-17 |  |
+| [Black Stars](https://open.spotify.com/track/4zgWUBeiO5MTF66G2CgWIz) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Smile](https://open.spotify.com/album/7bS1WGyOPaE03hEBzwyZHm) | 4:00 | 2026-04-24 |  |
 | [Born Fe Dis](https://open.spotify.com/track/3gvNUbSO3tjs4iKEXd6WlL) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [You Got This](https://open.spotify.com/album/4A4hmu0p8DWp10Nf85BraJ) | 3:19 | 2026-04-19 |  |
 | [Broke](https://open.spotify.com/track/5A0gpEjDMnfTD9EV8ZNS8W) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [You Got This](https://open.spotify.com/album/4A4hmu0p8DWp10Nf85BraJ) | 3:00 | 2026-04-19 |  |
 | [Bruises](https://open.spotify.com/track/1N3m5G3ho2toLQCjAWZfes) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 2:42 | 2024-09-17 |  |
@@ -71,7 +72,7 @@
 | [Start First](https://open.spotify.com/track/0YiMuZ0z4xtfdkdj7wOiIl) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 2:49 | 2024-09-17 |  |
 | [State of Emergency](https://open.spotify.com/track/0z0IXlH0JZSIbLTq7oU06f) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/7zl0NrhsqIqAXSFe3tPnAR) | 4:03 | 2025-10-24 |  |
 | [State of Emergency](https://open.spotify.com/track/2usLPunZVyBZ5zP2AlTesu) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn) | 4:03 | 2024-09-17 | 2025-10-24 |
-| [State of the Union](https://open.spotify.com/track/1Ngcg8YWXXlhsf6KRQzLuw) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Smile](https://open.spotify.com/album/7bS1WGyOPaE03hEBzwyZHm) | 2:50 | 2024-09-17 |  |
+| [State of the Union](https://open.spotify.com/track/1Ngcg8YWXXlhsf6KRQzLuw) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Smile](https://open.spotify.com/album/7bS1WGyOPaE03hEBzwyZHm) | 2:50 | 2024-09-17 | 2026-04-24 |
 | [That's My Jam](https://open.spotify.com/track/5q8PArV4Tbt6efvP7qxp0u) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Big Tings](https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam) | 3:16 | 2024-09-17 |  |
 | [This Is The Sound](https://open.spotify.com/track/5u3LQf7tg1eS2AEGyguDPa) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [This Is The Sound](https://open.spotify.com/album/37Ixky407QDvoGFDx1vmrC) | 2:57 | 2026-01-30 |  |
 | [Trouble](https://open.spotify.com/track/2BIy81E5iBRqNYkGD61ImF) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn) | 3:49 | 2024-09-17 | 2025-10-23 |

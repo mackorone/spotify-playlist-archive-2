@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "\ud83d\udd25 den nyeste rap i dk \ud83d\udd25 cover: Lamin",
+  "description": "\ud83d\udd25 den nyeste rap i dk \ud83d\udd25 cover: GUSTO",
   "name": "rap dk",
   "tracks": [
     {
@@ -6179,6 +6179,24 @@
     },
     {
       "album": {
+        "name": "Louisiana",
+        "url": "https://open.spotify.com/album/6JsFn553CiwPbXFsvjVF9p"
+      },
+      "artists": [
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172111,
+      "name": "Louisiana",
+      "url": "https://open.spotify.com/track/3fxQ8GkReHrrN4zTYpQ1ex"
+    },
+    {
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/0iMw6rVmD1PzLnGslYulZJ"
       },
@@ -9146,6 +9164,24 @@
       "duration_ms": 141833,
       "name": "Topform (feat. Lamin)",
       "url": "https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH"
+    },
+    {
+      "album": {
+        "name": "DOUBLEPEACE",
+        "url": "https://open.spotify.com/album/5wtOAaJF1O5d7faLR2gUcZ"
+      },
+      "artists": [
+        {
+          "name": "Fed",
+          "url": "https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/3AEuNKucsjnPGvgOQRKMMV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Fine art in the form of UK Hip\-Hop\. Cover: Dave, Kano
 
-85 songs - 4 hr 15 min
+86 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Golden Brown](https://open.spotify.com/track/0yQWn4Ikzdn5rTV9AwmzbJ) | [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx) | [Golden Brown](https://open.spotify.com/album/49ZOWZt6s4Nwh7OTFcYyIO) | 1:46 | 2025-10-10 |  |
 | [Grandma's Kitchen](https://open.spotify.com/track/2BU9FTy2ctWdTjiPiXLZZr) | [KwolleM](https://open.spotify.com/artist/5SFnJjOMV4N33wEpGvDwik), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Melo](https://open.spotify.com/album/3m8xFZm5azXCXreTC3rJ0Q) | 2:27 | 2025-10-10 |  |
 | [Grimey](https://open.spotify.com/track/2vvhQW7s1czelKMplu7T1d) | [Silencer](https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE), [The Heavytrackerz](https://open.spotify.com/artist/6aTCNF8JTH5TFs9rheknQB), [Lil Shakz](https://open.spotify.com/artist/6NTFw23TXLxIhJaBokrhIG), [Lil ambush](https://open.spotify.com/artist/0uzLLwChVbUloexrVV2bxA), [YaroAlways](https://open.spotify.com/artist/7wykSIfmDzQ6QiRkzXwLl5) | [Grimey](https://open.spotify.com/album/7BvBtml5e9ZPiuD1rFh8eu) | 4:13 | 2025-10-10 |  |
+| [Healing Power](https://open.spotify.com/track/0YzQFpH5N1RBQJAtXUwzst) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Healing Power](https://open.spotify.com/album/1v65fLyHVIDVahmfkhJ9WI) | 2:48 | 2026-04-23 |  |
 | [Hear No Evil, See No Evil](https://open.spotify.com/track/61CmoFkjt58fNl821cgpB5) | [M1onTheBeat](https://open.spotify.com/artist/7gOJzXf9msdY8JUhMQypSH), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [M1onTheBeat The Mixtape](https://open.spotify.com/album/2eNxE5vYk1YgZGQx6BT8UL) | 4:32 | 2025-10-10 |  |
 | [Hocus Pocus](https://open.spotify.com/track/3gtbkrjOmjgLqznoV4PQS5) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Blood Diamond](https://open.spotify.com/album/0z3bbwLzSFO7ObKjmaI7TY) | 3:22 | 2025-10-10 |  |
 | [Holman Road](https://open.spotify.com/track/7wfsK4poDPV4Zid5UoAEF6) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [Holman Road](https://open.spotify.com/album/5VrV9zcPVfI1qQEuR3NAme) | 2:32 | 2025-10-10 |  |
@@ -68,7 +69,7 @@
 | [Puppies](https://open.spotify.com/track/3UNKXRqUOzfBIk6oXvs7YW) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Puppies](https://open.spotify.com/album/4XIIDKqlE05ITdEDeT7F4q) | 2:41 | 2025-10-10 |  |
 | [Rap Saved Me](https://open.spotify.com/track/5JJzfwx67N6HldPk15b1QV) | [BERNA](https://open.spotify.com/artist/4r533q4JGGMJ5ufDV6iOed) | [Rap Saved Me](https://open.spotify.com/album/0W1uhkopAyB1EDN8IrGViS) | 2:01 | 2025-10-10 |  |
 | [Remontada \(feat\. Blanco\)](https://open.spotify.com/track/362tD7hUEZ06izuWdVlRnP) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Remontada \(feat\. Blanco\)](https://open.spotify.com/album/1OTdy9AJVXEerYPUTDCmRd) | 2:41 | 2025-10-10 |  |
-| [Rest My Head](https://open.spotify.com/track/0G2Q5wbiyIQKJRTKLNcF0W) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [Rest My Head](https://open.spotify.com/album/4certibWxN9ja22PNj4xIe) | 3:33 | 2026-03-20 |  |
+| [Rest My Head](https://open.spotify.com/track/0G2Q5wbiyIQKJRTKLNcF0W) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [Rest My Head](https://open.spotify.com/album/4certibWxN9ja22PNj4xIe) | 3:33 | 2026-03-20 | 2026-04-24 |
 | [Rule One \(feat\. Bawo\)](https://open.spotify.com/track/7aZVYYzoE7Xlbz52mLTaQ6) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Rule One \(feat\. Bawo\)](https://open.spotify.com/album/1Qa6brrvZuzRTDszdsEZKz) | 2:54 | 2025-10-10 |  |
 | [S.A.S](https://open.spotify.com/track/02a3soEFabQ27HV6PLd1Fc) | [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [WHO DARES WINS](https://open.spotify.com/album/2r7Whdu2robw1TMlBmeLZl) | 2:11 | 2025-10-10 |  |
 | [Save Your Tears](https://open.spotify.com/track/46GFekGGrmoINYhMJInH4e) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [Save Your Tears](https://open.spotify.com/album/5OsEbjWD8EokWIDtnu7kB9) | 2:24 | 2025-10-10 |  |

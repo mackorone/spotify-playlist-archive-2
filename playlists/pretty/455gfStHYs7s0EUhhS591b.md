@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 55,714 likes - 200 songs - 11 hr 44 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 55,713 likes - 200 songs - 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 | 199 | [Nautique](https://open.spotify.com/track/7g7wn540OwEVUlC5AhgChj) | [Budakid](https://open.spotify.com/artist/2MNTXvxPuFuHRYSMN7EEFL), [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA) | [Nautique](https://open.spotify.com/album/0Izz0xflKHaPgg27IgaIDF) | 3:36 |
 | 200 | [Our Broken Mind Embassy](https://open.spotify.com/track/6Oj89UHfmYp9yR4t0t1q8F) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Disconnected](https://open.spotify.com/album/5Aq2fCmHIW0vICUIh3YpE9) | 4:26 |
 
-Snapshot ID: `AABys+BOexMIKLP/kJ4s0PFyvkVklsRs`
+Snapshot ID: `AAByt/HRrAO8Wlivlcf4CJ6YdC4n8hUT`

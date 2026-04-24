@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 937,
+  "num_followers": 940,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAF1Vl+EM1fXPPGz2ACJUv11cj3MKAo",
+  "snapshot_id": "AAAF1spe+VVWVX9zWhdCb+H6VXMurF6U",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1635,6 +1635,22 @@
       "duration_ms": 370194,
       "name": "Fantasia",
       "url": "https://open.spotify.com/track/3HQyqgoK7z6VY9bE8GlAli"
+    },
+    {
+      "added_at": "2026-04-23 03:56:54",
+      "album": {
+        "name": "Reloj Espiritual",
+        "url": "https://open.spotify.com/album/3LYQCmohEV9m7cVWhpWuam"
+      },
+      "artists": [
+        {
+          "name": "Viejo Furgon",
+          "url": "https://open.spotify.com/artist/4WyH8DQAXLGiVTtqniULWG"
+        }
+      ],
+      "duration_ms": 197368,
+      "name": "Siempre Estar\u00e9",
+      "url": "https://open.spotify.com/track/7e8MvyqagvlJOJaQDNdh5m"
     }
   ],
   "unique_name": "Unsigned Rock",

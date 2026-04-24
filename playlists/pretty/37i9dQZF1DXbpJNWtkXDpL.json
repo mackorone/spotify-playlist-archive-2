@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm",
-  "num_followers": 92267,
+  "num_followers": 92275,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2026-04-17 20:38:14",
       "album": {
+        "name": "HOSHI",
+        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "la estrella que quer\u00eda brillar",
+      "url": "https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU"
+    },
+    {
+      "added_at": "2026-04-17 20:38:14",
+      "album": {
         "name": "BRAZIL",
         "url": "https://open.spotify.com/album/7LNObuBTPKtOcm7ZF7GRRq"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 184000,
       "name": "C\u00ednico",
       "url": "https://open.spotify.com/track/5B7qTLdthcjJ7ZbIYjCDcv"
-    },
-    {
-      "added_at": "2026-04-17 20:38:14",
-      "album": {
-        "name": "HOSHI",
-        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "la estrella que quer\u00eda brillar",
-      "url": "https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU"
     },
     {
       "added_at": "2026-04-17 20:38:14",
@@ -371,26 +371,6 @@
     {
       "added_at": "2026-04-17 20:38:14",
       "album": {
-        "name": "a la mitad",
-        "url": "https://open.spotify.com/album/7BKm5M8gOpJIdxi5tdvdwY"
-      },
-      "artists": [
-        {
-          "name": "Majo Rivas",
-          "url": "https://open.spotify.com/artist/3S4muLLIYiYK4P9ApjyLbY"
-        },
-        {
-          "name": "Kendall Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
-        }
-      ],
-      "duration_ms": 174460,
-      "name": "a la mitad",
-      "url": "https://open.spotify.com/track/1dbDRlYvm4KaCVzMVUPlby"
-    },
-    {
-      "added_at": "2026-04-17 20:38:14",
-      "album": {
         "name": "ME VEIA BIEN",
         "url": "https://open.spotify.com/album/0L5kvaZLgtWyZmpRbQ8rY4"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 184832,
       "name": "CAMINO",
       "url": "https://open.spotify.com/track/7HrQQQeBpXAaZkvdeX24yU"
+    },
+    {
+      "added_at": "2026-04-17 20:38:14",
+      "album": {
+        "name": "a la mitad",
+        "url": "https://open.spotify.com/album/7BKm5M8gOpJIdxi5tdvdwY"
+      },
+      "artists": [
+        {
+          "name": "Majo Rivas",
+          "url": "https://open.spotify.com/artist/3S4muLLIYiYK4P9ApjyLbY"
+        },
+        {
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        }
+      ],
+      "duration_ms": 174460,
+      "name": "a la mitad",
+      "url": "https://open.spotify.com/track/1dbDRlYvm4KaCVzMVUPlby"
     },
     {
       "added_at": "2026-04-17 20:38:14",
@@ -567,26 +567,6 @@
     {
       "added_at": "2026-04-17 20:38:14",
       "album": {
-        "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
-        "url": "https://open.spotify.com/album/0QN6QF3sNEnbi8GgyHSjKv"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        },
-        {
-          "name": "matt",
-          "url": "https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
-      "url": "https://open.spotify.com/track/1lwrgze63fFxlH9F8g4Pzx"
-    },
-    {
-      "added_at": "2026-04-17 20:38:14",
-      "album": {
         "name": "Cuenta mis pasos",
         "url": "https://open.spotify.com/album/6OKxHgWUqC6BBwb8w8LHVg"
       },
@@ -599,22 +579,6 @@
       "duration_ms": 217473,
       "name": "Cuenta mis pasos",
       "url": "https://open.spotify.com/track/7HrVWuwDDCbOk5tTryM3tE"
-    },
-    {
-      "added_at": "2026-04-17 20:38:14",
-      "album": {
-        "name": "La Culpable",
-        "url": "https://open.spotify.com/album/5XMBK8fMW1S1oto6Qmyl6R"
-      },
-      "artists": [
-        {
-          "name": "eydrey",
-          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
-        }
-      ],
-      "duration_ms": 237005,
-      "name": "La Culpable",
-      "url": "https://open.spotify.com/track/3LcfsnsxE0AsUtry81FxsU"
     },
     {
       "added_at": "2026-04-17 20:38:14",
@@ -639,6 +603,58 @@
     {
       "added_at": "2026-04-17 20:38:14",
       "album": {
+        "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
+        "url": "https://open.spotify.com/album/0QN6QF3sNEnbi8GgyHSjKv"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        },
+        {
+          "name": "matt",
+          "url": "https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "NO S\u00c9 NI C\u00d3MO EST\u00c1S",
+      "url": "https://open.spotify.com/track/1lwrgze63fFxlH9F8g4Pzx"
+    },
+    {
+      "added_at": "2026-04-17 20:38:14",
+      "album": {
+        "name": "La Culpable",
+        "url": "https://open.spotify.com/album/5XMBK8fMW1S1oto6Qmyl6R"
+      },
+      "artists": [
+        {
+          "name": "eydrey",
+          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
+        }
+      ],
+      "duration_ms": 237005,
+      "name": "La Culpable",
+      "url": "https://open.spotify.com/track/3LcfsnsxE0AsUtry81FxsU"
+    },
+    {
+      "added_at": "2026-04-17 20:38:14",
+      "album": {
+        "name": "Trampa",
+        "url": "https://open.spotify.com/album/23TlzdTObc4hxFW0QoOO5T"
+      },
+      "artists": [
+        {
+          "name": "Fabio Capri",
+          "url": "https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq"
+        }
+      ],
+      "duration_ms": 152928,
+      "name": "Trampa",
+      "url": "https://open.spotify.com/track/7obwVq6dHi4WpWsdxvxnjF"
+    },
+    {
+      "added_at": "2026-04-17 20:38:14",
+      "album": {
         "name": "MBAPPE",
         "url": "https://open.spotify.com/album/6Lm5fhix3PtnS9dseMeYbM"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 144496,
       "name": "MBAPPE",
       "url": "https://open.spotify.com/track/13PnQ2i53c540Ai5o0vY77"
-    },
-    {
-      "added_at": "2026-04-17 20:38:14",
-      "album": {
-        "name": "Trampa",
-        "url": "https://open.spotify.com/album/23TlzdTObc4hxFW0QoOO5T"
-      },
-      "artists": [
-        {
-          "name": "Fabio Capri",
-          "url": "https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq"
-        }
-      ],
-      "duration_ms": 152928,
-      "name": "Trampa",
-      "url": "https://open.spotify.com/track/7obwVq6dHi4WpWsdxvxnjF"
     },
     {
       "added_at": "2026-04-17 20:38:14",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-04-17 20:38:14",
       "album": {
-        "name": "MONTAGEM BALENCI?",
-        "url": "https://open.spotify.com/album/21il8xM3gaZI08FHgTChWy"
-      },
-      "artists": [
-        {
-          "name": "BOWSY",
-          "url": "https://open.spotify.com/artist/6sdYo8XBiJTetz2XypUkCn"
-        }
-      ],
-      "duration_ms": 96471,
-      "name": "MONTAGEM BALENCI?",
-      "url": "https://open.spotify.com/track/6onwIzriGdWf16W2aDY2VE"
-    },
-    {
-      "added_at": "2026-04-17 20:38:14",
-      "album": {
         "name": "empezar al rev\u00e9s",
         "url": "https://open.spotify.com/album/0ubjYBDDdREIRUBqRgoY5D"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 202230,
       "name": "empezar al rev\u00e9s",
       "url": "https://open.spotify.com/track/6M2sc6l4w1wCSZSwE3HVMj"
+    },
+    {
+      "added_at": "2026-04-17 20:38:14",
+      "album": {
+        "name": "MONTAGEM BALENCI?",
+        "url": "https://open.spotify.com/album/21il8xM3gaZI08FHgTChWy"
+      },
+      "artists": [
+        {
+          "name": "BOWSY",
+          "url": "https://open.spotify.com/artist/6sdYo8XBiJTetz2XypUkCn"
+        }
+      ],
+      "duration_ms": 96471,
+      "name": "MONTAGEM BALENCI?",
+      "url": "https://open.spotify.com/track/6onwIzriGdWf16W2aDY2VE"
     },
     {
       "added_at": "2026-04-17 20:38:14",
@@ -879,26 +879,6 @@
     {
       "added_at": "2026-04-17 20:38:14",
       "album": {
-        "name": "YoPiensoEnTi",
-        "url": "https://open.spotify.com/album/3HvYLKvg7TQ3ieqLsxK2lZ"
-      },
-      "artists": [
-        {
-          "name": "flxbabu",
-          "url": "https://open.spotify.com/artist/7jhzu3iGN5BGNEcBWkT8GC"
-        },
-        {
-          "name": "matt",
-          "url": "https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "YoPiensoEnTi",
-      "url": "https://open.spotify.com/track/6lAP7P3vWHS84ktoyX2ZLQ"
-    },
-    {
-      "added_at": "2026-04-17 20:38:14",
-      "album": {
         "name": "10-4",
         "url": "https://open.spotify.com/album/6lOyEI09qmGpLUL1jSb7Yp"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 155970,
       "name": "Maniaque",
       "url": "https://open.spotify.com/track/4ktu95659EUN49KdEjGU28"
+    },
+    {
+      "added_at": "2026-04-17 20:38:14",
+      "album": {
+        "name": "YoPiensoEnTi",
+        "url": "https://open.spotify.com/album/3HvYLKvg7TQ3ieqLsxK2lZ"
+      },
+      "artists": [
+        {
+          "name": "flxbabu",
+          "url": "https://open.spotify.com/artist/7jhzu3iGN5BGNEcBWkT8GC"
+        },
+        {
+          "name": "matt",
+          "url": "https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "YoPiensoEnTi",
+      "url": "https://open.spotify.com/track/6lAP7P3vWHS84ktoyX2ZLQ"
     },
     {
       "added_at": "2026-04-17 20:38:14",

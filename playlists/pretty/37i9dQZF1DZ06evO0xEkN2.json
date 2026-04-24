@@ -1,12 +1,12 @@
 {
   "description": "This is Panteon Rococo. The essential tracks, all in one playlist.",
-  "num_followers": 239019,
+  "num_followers": 239047,
   "original_name": "This Is Panteon Rococo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAADrZEGENZMAchoh5b4f8oV6",
+  "snapshot_id": "aegPgAAAAAAo7Syp/CUWUhxB/rISddHG",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "XX A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 240186,
-      "name": "Viernes de Webeo - En Vivo",
-      "url": "https://open.spotify.com/track/4htoV9pXQmKENfn3LIKvVW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boca Chueca, Vol. 1",
         "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
@@ -351,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+        "name": "XX A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
       },
       "artists": [
         {
@@ -360,9 +344,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 240373,
-      "name": "Que Pasar\u00e1",
-      "url": "https://open.spotify.com/track/4DVU0z4zLAqPq2ShvB7Hl3"
+      "duration_ms": 240186,
+      "name": "Viernes de Webeo - En Vivo",
+      "url": "https://open.spotify.com/track/4htoV9pXQmKENfn3LIKvVW"
     },
     {
       "added_at": null,
@@ -383,6 +367,22 @@
       "duration_ms": 183040,
       "name": "Cari\u00f1ito - Mexican Institute of Sound Mix",
       "url": "https://open.spotify.com/track/2wwGmqiQTfr92XB7Lkx5i8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 240373,
+      "name": "Que Pasar\u00e1",
+      "url": "https://open.spotify.com/track/4DVU0z4zLAqPq2ShvB7Hl3"
     },
     {
       "added_at": null,
@@ -451,18 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infiernos",
-        "url": "https://open.spotify.com/album/2VZbdgo7xM6fdY9PFlqnqm"
+        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
+        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
       },
       "artists": [
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Liquits",
+          "url": "https://open.spotify.com/artist/6gtggUV7CgB7b7bCpWa6PC"
         }
       ],
-      "duration_ms": 293247,
-      "name": "Infiernos",
-      "url": "https://open.spotify.com/track/1IeYD7s1s656dhU68VwS4e"
+      "duration_ms": 204440,
+      "name": "No Me Digas Que Te Vas (feat. Liquits)",
+      "url": "https://open.spotify.com/track/3R6hm07kmnyFTKAqtjI6D0"
     },
     {
       "added_at": null,
@@ -515,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
-        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
+        "name": "Infiernos",
+        "url": "https://open.spotify.com/album/2VZbdgo7xM6fdY9PFlqnqm"
       },
       "artists": [
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "Liquits",
-          "url": "https://open.spotify.com/artist/6gtggUV7CgB7b7bCpWa6PC"
         }
       ],
-      "duration_ms": 204440,
-      "name": "No Me Digas Que Te Vas (feat. Liquits)",
-      "url": "https://open.spotify.com/track/3R6hm07kmnyFTKAqtjI6D0"
+      "duration_ms": 293247,
+      "name": "Infiernos",
+      "url": "https://open.spotify.com/track/1IeYD7s1s656dhU68VwS4e"
     },
     {
       "added_at": null,
@@ -562,15 +562,11 @@
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "To\u00f1o Lira",
-          "url": "https://open.spotify.com/artist/3SzI0qa8RrThX1grtj1IaX"
         }
       ],
-      "duration_ms": 222746,
-      "name": "Mar\u00eda (feat. To\u00f1o Lira) - En Vivo",
-      "url": "https://open.spotify.com/track/5Frqok1Wj7ljQJX7hBx23B"
+      "duration_ms": 161946,
+      "name": "Hostilidades - En Vivo",
+      "url": "https://open.spotify.com/track/6h0bu1UFTCDYP0wicZPoum"
     },
     {
       "added_at": null,
@@ -638,27 +634,15 @@
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "Hostilidades - En Vivo",
-      "url": "https://open.spotify.com/track/6h0bu1UFTCDYP0wicZPoum"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rigo Es Amor",
-        "url": "https://open.spotify.com/album/4nbp0G88SZuGOUCgVYHw26"
-      },
-      "artists": [
+        },
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+          "name": "To\u00f1o Lira",
+          "url": "https://open.spotify.com/artist/3SzI0qa8RrThX1grtj1IaX"
         }
       ],
-      "duration_ms": 195226,
-      "name": "Lamento De Amor",
-      "url": "https://open.spotify.com/track/2gNb1tTjQmPase1ZhrS83L"
+      "duration_ms": 222746,
+      "name": "Mar\u00eda (feat. To\u00f1o Lira) - En Vivo",
+      "url": "https://open.spotify.com/track/5Frqok1Wj7ljQJX7hBx23B"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
       "duration_ms": 212490,
       "name": "Cha Cha Love",
       "url": "https://open.spotify.com/track/5MfNp4vrtHeDzEHPr8vjxq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rigo Es Amor",
+        "url": "https://open.spotify.com/album/4nbp0G88SZuGOUCgVYHw26"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 195226,
+      "name": "Lamento De Amor",
+      "url": "https://open.spotify.com/track/2gNb1tTjQmPase1ZhrS83L"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ej\u00e9rcito de Paz",
-        "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "Abajo y a la Izquierda",
-      "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sonoro",
         "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
       },
@@ -743,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Eterno al Divo / Tributo de Rock",
-        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
+        "name": "Ej\u00e9rcito de Paz",
+        "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
       },
       "artists": [
         {
@@ -752,9 +736,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Inocente Pobre Amigo",
-      "url": "https://open.spotify.com/track/6KpWUri1N9k4yC80UKizLC"
+      "duration_ms": 225053,
+      "name": "Abajo y a la Izquierda",
+      "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
     },
     {
       "added_at": null,
@@ -771,6 +755,22 @@
       "duration_ms": 276906,
       "name": "C.D.A.",
       "url": "https://open.spotify.com/track/5rnhbKrkvUPvclA1Scjpp8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Eterno al Divo / Tributo de Rock",
+        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Inocente Pobre Amigo",
+      "url": "https://open.spotify.com/track/6KpWUri1N9k4yC80UKizLC"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 237813,
+      "name": "Seguir Bailando",
+      "url": "https://open.spotify.com/track/2Qe2zYpOydMAWtiliU6Rep"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. 1",
         "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 321120,
       "name": "Un Derecho de Nacimiento",
       "url": "https://open.spotify.com/track/5iRyYvj7aDYImzxBTDeN3J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Compa\u00f1eros Musicales",
-        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 237813,
-      "name": "Seguir Bailando",
-      "url": "https://open.spotify.com/track/2Qe2zYpOydMAWtiliU6Rep"
     },
     {
       "added_at": null,

@@ -22794,7 +22794,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 165282,
       "name": "Hey Shawty",
       "url": "https://open.spotify.com/track/6kaOpBVKINRaKX97gziDMh"
@@ -25614,7 +25614,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 186947,
       "name": "KAKO",
       "url": "https://open.spotify.com/track/28kpCoILnxmKUc6AMO6NEu"
@@ -27444,7 +27444,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 144374,
       "name": "KOKAIN",
       "url": "https://open.spotify.com/track/273MpYcpQa3VbF7ckPMAt8"
@@ -37416,7 +37416,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 188235,
       "name": "NTALAVERIA",
       "url": "https://open.spotify.com/track/4tFevjTUCMo0OBkIQzzQOj"
@@ -46000,7 +46000,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 161868,
       "name": "SALVATORE",
       "url": "https://open.spotify.com/track/5sCEPFsFxNr0FsMW6OaZbT"
@@ -48618,7 +48618,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 168428,
       "name": "SOSA",
       "url": "https://open.spotify.com/track/1j8aRXVJFYkDWEUpZeGrdc"
@@ -48654,7 +48654,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 231073,
       "name": "Sousouro",
       "url": "https://open.spotify.com/track/6Q9L85FERsbSTVmNaZjhd4"
@@ -49900,6 +49900,32 @@
       "duration_ms": 193846,
       "name": "STUDIO",
       "url": "https://open.spotify.com/track/6J6eNH31w5lmmx0pP5kaDs"
+    },
+    {
+      "album": {
+        "name": "STUFF",
+        "url": "https://open.spotify.com/album/3GJurEoDAY9JbMuefeCuyU"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Yanek",
+          "url": "https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171715,
+      "name": "STUFF",
+      "url": "https://open.spotify.com/track/01uh1vFxHx6tHAVslWrJdZ"
     },
     {
       "album": {

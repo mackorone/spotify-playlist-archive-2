@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-431 songs - 1 day 0 hr 12 min
+434 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Check Out My Fresh](https://open.spotify.com/track/6S5lWOVgwVkWcOMpfsoW1N) | [Dre RealA](https://open.spotify.com/artist/3FeXC6xCSU96xRlfMECBnR) | [Check Out My Fresh](https://open.spotify.com/album/7mfqFVuWZqgF2hcKaRbm0t) | 1:38 | 2025-11-18 | 2026-01-05 |
 | [Chrome](https://open.spotify.com/track/3QtF72W9s9CqVpCbo92wZi) | [ASHE](https://open.spotify.com/artist/5xTp3xrqM94mOTJdfOAUP8) | [Chrome](https://open.spotify.com/album/3Hqr8pojcX9LuT6Ewvqh8b) | 3:15 | 2025-11-08 | 2025-12-01 |
 | [Ciclos](https://open.spotify.com/track/4oIDPzkzzlZSWo2IKn6YfR) | [Peyote](https://open.spotify.com/artist/2jlDdJ58pw1y20cCSrmbPF) | [Ciclos](https://open.spotify.com/album/3XL3e4KxuMu0ty0nj8HW2F) | 3:57 | 2025-11-30 | 2026-01-05 |
+| [Cliffhanger](https://open.spotify.com/track/4JX8FWiyo3AeYQ2B5EZ5wL) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Tides](https://open.spotify.com/album/6IcFYhUAnyprfDg7kRlRZZ) | 3:43 | 2026-04-23 |  |
 | [Clocks Tick, Planet Burns](https://open.spotify.com/track/5K9fKoqF2l4EBCofO06KUT) | [Loggout me](https://open.spotify.com/artist/5eJtO6WkHhFjIWMBMGC52j) | [Clocks Tick, Planet Burns](https://open.spotify.com/album/0tS4aMNpo1CYfhHCQvUG8V) | 6:28 | 2025-11-17 | 2026-01-05 |
 | [Clocks, Sticks, and Geniuses](https://open.spotify.com/track/2xLo9uHN0Da4we9nrOuXYX) | [Met1hod](https://open.spotify.com/artist/1l40FvIvVg9uZyRZpwMXql) | [Clocks, Sticks, and Geniuses](https://open.spotify.com/album/0v6nvUvxbKGatqilL9rKbU) | 3:28 | 2025-11-08 | 2025-12-01 |
 | [Confessions \(Everything\)](https://open.spotify.com/track/76aFw99H01hPXzeFWwTOr5) | [Nosie Katzmann](https://open.spotify.com/artist/7BrkzGmCl8LM18udHQihhn), [Maria Blatz](https://open.spotify.com/artist/3ykTHboOuDmAKdOzwLSds0) | [Confessions \(Everything\)](https://open.spotify.com/album/2dOigKRlAdSsQt9yDbjJEP) | 2:34 | 2025-11-17 | 2026-01-05 |
@@ -251,6 +252,7 @@
 | [Maelstrom](https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 6:21 | 2026-03-16 |  |
 | [Make Believe](https://open.spotify.com/track/0qHxVLpEfjoFWlwwb1jPT2) | [Penelope](https://open.spotify.com/artist/10TjnjAFoOorE5NJoomfoN) | [Make Believe](https://open.spotify.com/album/6GM16JmN7ixpHYzoMOZ0XU) | 3:56 | 2026-04-04 |  |
 | [make it work \(interlude\)](https://open.spotify.com/track/27riDY0FZMGNIrJE3wjAQB) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Melodic Desire II](https://open.spotify.com/album/3zyNtvKFT6Fcgmr3B0APjn) | 2:40 | 2025-12-26 | 2026-01-25 |
+| [Mangrovia](https://open.spotify.com/track/7IFpqolKCwcdzWPMEb5ywv) | [Stefano Nardon](https://open.spotify.com/artist/0KEWjwnCfRfmaialCXQU9T) | [Mangrovia](https://open.spotify.com/album/2YiWsFrnTH5IdjTwBlmKiz) | 4:14 | 2026-04-23 |  |
 | [Marijuana Blues](https://open.spotify.com/track/5d5SmkTY9V0cPeuwJtCmPF) | [Gaz Kelly](https://open.spotify.com/artist/54GFxKUpAbaUPNkQKT2A7Q) | [Marijuana Blues](https://open.spotify.com/album/5DsQGDFsghYiHftfKqt1Be) | 3:23 | 2025-11-17 | 2026-01-05 |
 | [Mario Kart at Amy's Apartment](https://open.spotify.com/track/4KuCGB4hLRw8PMHnuzWVxS) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Emoticon](https://open.spotify.com/album/1ixiBOAbg2UXTxh5wf0Jj9) | 3:37 | 2026-04-21 |  |
 | [Maryjane](https://open.spotify.com/track/0CWzSOcdlhSB1XhfQOsndm) | [Perxo](https://open.spotify.com/artist/0fbe9EfOcFVBKWyPX4GXrk) | [Maryjane](https://open.spotify.com/album/3vgROf3t4kmic0I50Y8krM) | 3:02 | 2025-12-20 | 2026-01-15 |
@@ -314,6 +316,7 @@
 | [Real Talk](https://open.spotify.com/track/0VZonNcbe7t9baqsGVeU7n) | [Young JD](https://open.spotify.com/artist/4GeZGR2T3FNXXcQFqjvnuL) | [Real Talk](https://open.spotify.com/album/0Na2C3AJXAMGt1JDy6sCe8) | 4:33 | 2025-11-05 | 2025-12-01 |
 | [Recognize](https://open.spotify.com/track/5EpZwXMWUCS3sLKBPpl7oJ) | [ADAD Audio](https://open.spotify.com/artist/5E6ZCRSMAyeT15BqrWOdy5) | [Recognize](https://open.spotify.com/album/10lOKU6lpAZ6up58TCYNsR) | 3:09 | 2025-11-10 | 2025-12-01 |
 | [Recorramos La Ciudad](https://open.spotify.com/track/2zUAMwoBg9iC3Mhs9EiF9o) | [Cheo MC](https://open.spotify.com/artist/52uwZEe4PbjQGc2NshIbrM) | [Recorramos La Ciudad](https://open.spotify.com/album/04biMfu7QdHLpgR43tK4mf) | 3:16 | 2025-11-13 | 2026-01-05 |
+| [Regrets](https://open.spotify.com/track/5OcfEtuClISKPdL7oXhnnL) | [Sasha Renee](https://open.spotify.com/artist/2ZAYFh5BoAhA9fCjAcuxwu) | [Regrets](https://open.spotify.com/album/1bhiWsTcsqmYvv3WqCu7vb) | 2:07 | 2026-04-23 |  |
 | [Remedy Show](https://open.spotify.com/track/2qkvsI8NAf5cq4qmNM2NZ5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Remedy Show](https://open.spotify.com/album/6eaiUGRsmpH6UPPXRcsiWP) | 2:29 | 2026-03-07 |  |
 | [Ridiculous](https://open.spotify.com/track/47qSQWO2wok6EKRZV2ACII) | [Jody Lo](https://open.spotify.com/artist/3B0ssaf53mJDwpO1lXe2B2) | [Ridiculous](https://open.spotify.com/album/4p3IxHthUEfy1wUfUUchxH) | 2:28 | 2026-02-16 | 2026-03-10 |
 | [RIEN AU FINAL](https://open.spotify.com/track/6rmnhkP5lHQQXlA7SHfNUe) | [Dracy Drace](https://open.spotify.com/artist/1o6LtXhpbTN1DsxuXEJ0mr), [wiz beatz](https://open.spotify.com/artist/1M1KSRzo4svI2Pvp6s58Qo) | [A DEUX](https://open.spotify.com/album/7J56vsYcm4StAiKupVqoqh) | 2:38 | 2026-03-08 | 2026-04-14 |

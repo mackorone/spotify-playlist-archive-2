@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,216 songs - 2 day 19 hr 43 min
+1,217 songs - 2 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -945,6 +945,7 @@
 | [Shine](https://open.spotify.com/track/1RR19k1GVV2Sl0vi65wFTh) | [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Shine](https://open.spotify.com/album/42WL9WgN516xT16NhXVUyb) | 3:24 | 2022-01-10 | 2022-03-18 |
 | [Shock Limit](https://open.spotify.com/track/2owaCr59xQqepG1ihELFlq) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Shock Limit](https://open.spotify.com/album/2cXC2ZxK1jjJwPAUcWyemZ) | 3:26 | 2026-03-16 |  |
 | [Should've Known Better](https://open.spotify.com/track/0lZmRfdj1CpstyZzFIGGxQ) | [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Should've Known Better](https://open.spotify.com/album/53ECP7lpXO3iCOwPREqy4U) | 3:24 | 2025-07-08 | 2025-09-30 |
+| [Should've Known Better](https://open.spotify.com/track/6xC8SOWsbewQ7c7NRMsrje) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [KENNEDY](https://open.spotify.com/artist/5K7mrmnGRjR2Yf4UQnyi6R) | [Should've Known Better](https://open.spotify.com/album/3VWWyCDqXWHxWwfyhEQBqy) | 2:22 | 2026-04-23 |  |
 | [Show Me!](https://open.spotify.com/track/2dXeTLbQO9pzYMXnRAzMMJ) | [Franky Nuts](https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ), [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [Show Me!](https://open.spotify.com/album/5JuSjDOYp2huFAToRSDTYi) | 2:47 | 2025-02-10 | 2025-05-03 |
 | [SICKO](https://open.spotify.com/track/5e9Pd60eHsH6ERbuzh6krO) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [SLEEPER / SICKO](https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY) | 1:45 | 2022-10-20 | 2023-01-07 |
 | [Silk Road](https://open.spotify.com/track/545nphHUuiPLuiPIGT3Inn) | [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk), [Roald Velden](https://open.spotify.com/artist/1ezY8w6yikBekrZCUVYkLP) | [Silk Road](https://open.spotify.com/album/6mEFavBMsLDQQsbzzIzman) | 3:49 | 2022-04-27 | 2022-07-08 |

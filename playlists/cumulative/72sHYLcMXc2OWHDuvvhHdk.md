@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,263 songs - 5 day 12 hr 20 min
+2,267 songs - 5 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Anniversary](https://open.spotify.com/track/1yhipUehqA9JeGciUa7663) | [Blister Soul](https://open.spotify.com/artist/3S5y0rfL05mwwT0RwoIbLZ) | [Seasons](https://open.spotify.com/album/2mC7ZRxQckh8OUns75zeAF) | 6:21 | 2025-03-06 |  |
 | [Another Day](https://open.spotify.com/track/1SREr3Hg5w7tc2cDj91SgK) | [S.O.S](https://open.spotify.com/artist/4ovLj8UgslXe1lWvaaSZ5w) | [Another Day](https://open.spotify.com/album/6dxtqZ6wTUByUTf0xTkSQn) | 2:50 | 2025-07-18 |  |
 | [Another Mile of Pain](https://open.spotify.com/track/4fLyZ46nySmdogmA476KBc) | [Raised by Clowns](https://open.spotify.com/artist/4VT6GVYiJ0EiXL3QY8vReC) | [Another Mile of Pain](https://open.spotify.com/album/5icNjlNpIo78W2qoxZM3Wu) | 2:45 | 2024-08-28 |  |
+| [ANTIFREEZE](https://open.spotify.com/track/6kDPMixv9i79sc2X0bxcUI) | [Grand Chef Bandit](https://open.spotify.com/artist/3atkGj8Cu30coOd6uraow4) | [SALOON](https://open.spotify.com/album/4LC7xW4c5ggyCS2ROdHb3f) | 2:07 | 2026-04-23 |  |
 | [Anxiety](https://open.spotify.com/track/2r2UYTxeSHutVFcH7KO5mA) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Boxing Day \(Deluxe\)](https://open.spotify.com/album/09jVFVWEuvz7mq4GSvgi2h) | 2:56 | 2026-03-04 |  |
 | [Anybody Out There](https://open.spotify.com/track/4Dulb3Cng8qV360NJFtEBr) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [Anybody Out There](https://open.spotify.com/album/0cVV8otUnb6rE5SisKVgUk) | 3:21 | 2025-12-27 |  |
 | [anymore \- butterfly](https://open.spotify.com/track/2lWvjy1uwbDNv2o0LiZUmp) | [Peterson](https://open.spotify.com/artist/75GKFnQxwp1FIBqzseSrKC) | [WANT 2 BE 3](https://open.spotify.com/album/4IhdgtgY206V0NATs0V694) | 2:22 | 2025-04-14 |  |
@@ -1723,6 +1724,7 @@
 | [Something Or Nothing \- STONED](https://open.spotify.com/track/4rWM5DxW5Cizk916d9fUQz) | [TRUE VIOLENCE](https://open.spotify.com/artist/4Nd2abwG3lQaZFAOJkrKc5), [Semzo](https://open.spotify.com/artist/6B5ZIMPRas4DEOC5j9mGii) | [TRUE VIOLENCE \("Stoned"\)](https://open.spotify.com/album/1wuH19CAIrZ043SihJ9OAY) | 3:56 | 2024-04-23 |  |
 | [Sometimes I Worry](https://open.spotify.com/track/5G8Y2haze8izDuRce2dyFP) | [Jonny Bombay](https://open.spotify.com/artist/3b2pwRvI1SJgb7ZkBibb2J) | [I Don't Feel That Way](https://open.spotify.com/album/3CQjbalYincwvDTawN517l) | 3:41 | 2024-05-06 |  |
 | [Sometimes Love Is Quiet](https://open.spotify.com/track/65o9zUfBxlj85UhcUhdFcx) | [Megan Marie Montez](https://open.spotify.com/artist/2NjsKgtMgHGqy0nbBNy1kd) | [Sometimes Love Is Quiet](https://open.spotify.com/album/2pyFAIaCg1xrNB8OMy0f9m) | 3:17 | 2025-05-30 |  |
+| [Son](https://open.spotify.com/track/1sZL6rANV38pXvRQsKsCKZ) | [Pien](https://open.spotify.com/artist/0M3W0VPiLEjryaAfMEoP8z) | [Son](https://open.spotify.com/album/1zR2k48nl1O1EAsJnBZaif) | 2:53 | 2026-04-23 |  |
 | [Song For Roaming Alone](https://open.spotify.com/track/4C3jR4t2lNa14ZnKOxK5l5) | [Moujo](https://open.spotify.com/artist/0PbmFiJmYHIFmmYx4It54y) | [Song For Roaming Alone](https://open.spotify.com/album/5Ydh5cFnZilwjI68pC0TvJ) | 2:30 | 2025-12-01 |  |
 | [Song Four \(The Romance is Over\)](https://open.spotify.com/track/1GGD21rTG2O2tRtKr3gzZ5) | [Camille Delaquise](https://open.spotify.com/artist/0xNUOkexhRT1OJkQz7xpwr) | [Living on the edge of time](https://open.spotify.com/album/2lNBSmQZrfCHZn8T3dbysz) | 3:38 | 2025-06-13 |  |
 | [Song Four \(The Romance Is Over\)](https://open.spotify.com/track/7x0JAxeGzZ2bzg74OTn5UB) | [Camille Delaquise](https://open.spotify.com/artist/0xNUOkexhRT1OJkQz7xpwr) | [Song Four \(The romance is over\)](https://open.spotify.com/album/5Ak7udXRJM47NNCZ8LD4pY) | 3:38 | 2025-06-03 |  |
@@ -1839,6 +1841,7 @@
 | [Take Time \(Acoustic Version\)](https://open.spotify.com/track/3BFTuAtiUkqBB7NITQVjsL) | [The Summer Fruits](https://open.spotify.com/artist/28x9gjrLuZt7qXjgjNOh0w) | [Take Time \(Acoustic Version\)](https://open.spotify.com/album/23cmjxtWjwfsd6WUMc07pc) | 2:33 | 2026-02-24 |  |
 | [Take your time](https://open.spotify.com/track/3PRVb66rBX6vzTIaf1tShk) | [Rei Luiz](https://open.spotify.com/artist/0riT29BvCgCamxH6TXqzvJ) | [Heart, soul and machine](https://open.spotify.com/album/0DUSZVFOuwOuOgG8nttJRN) | 2:30 | 2024-12-17 |  |
 | [Taken](https://open.spotify.com/track/1hjHMOee5iGRcTYoaoCGit) | [Arrhizal](https://open.spotify.com/artist/0DA0O3ZMVUqBk9QEV7Asjr), [Shru\-ti](https://open.spotify.com/artist/2qAjfkWS46yOEI3L5uH8Hh) | [Melancholy](https://open.spotify.com/album/4VXXa3YNx8UNmljqX5Q1JU) | 3:40 | 2026-02-28 |  |
+| [Takeoff](https://open.spotify.com/track/0rCFOJiWC4CtyllWN1FzTI) | [Deep Shoq](https://open.spotify.com/artist/7vdWVGhRjWiT8VHuS9D9a5) | [Libra](https://open.spotify.com/album/4vlThC8yGepna19qTYL9fK) | 3:29 | 2026-04-23 |  |
 | [Talkin' Ugly Truth, Tellin' Pretty Lies](https://open.spotify.com/track/1uzCL7XoZ6bwg3vkUrbRpC) | [Bruce Sudano](https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ) | [Talkin' Ugly Truth, Tellin' Pretty Lies](https://open.spotify.com/album/30hSDxBhr4JnFry1yPCHZm) | 3:39 | 2024-07-12 |  |
 | [Talking To A Dove](https://open.spotify.com/track/2VBWGfh1WorNT0yHkbG2Va) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Talking To A Dove](https://open.spotify.com/album/22XaF4IHvqBCIlWic1GNEb) | 3:19 | 2026-04-13 |  |
 | [TALVEZ](https://open.spotify.com/track/1MP4OuWiTnOWF5wHzkV6hZ) | [ETEFEEL](https://open.spotify.com/artist/0FmEehEkAsZNczuIjkYwjB) | [TALVEZ](https://open.spotify.com/album/07U3TPfxrvyKD8UL9YRgjw) | 4:03 | 2025-02-04 |  |
@@ -1944,6 +1947,7 @@
 | [The World's Got a Broken Heart](https://open.spotify.com/track/4WDR7Mh4CgnJMm8521geAO) | [Chillin''](https://open.spotify.com/artist/08OE1oQavpFMQU51ZnkWFO) | [The World's Got a Broken Heart](https://open.spotify.com/album/3VtIGdxVwjhIA3zgP1596R) | 2:55 | 2025-07-25 |  |
 | [Then I Met You](https://open.spotify.com/track/3FyvD6sx4OX2uIUUGsxIxU) | [JaShaku](https://open.spotify.com/artist/0ZsfYSlTGxS0e97MtJZbge) | [Then I Met You](https://open.spotify.com/album/62obecHMJmWIs8hcgnXN30) | 2:06 | 2026-02-07 |  |
 | [There Are Many](https://open.spotify.com/track/60yOsAtoDzuEmswChRZDcP) | [Igła](https://open.spotify.com/artist/374zxRgrWQVVjAoDcMIRNY) | [There Are Many](https://open.spotify.com/album/4bqrukizHHZNQN4zG1bjXL) | 4:36 | 2026-04-21 |  |
+| [There'll be a Sunrise](https://open.spotify.com/track/0uxCeYS2LVTzEInl1IhJ9I) | [Nathaniel Hayes](https://open.spotify.com/artist/1c8SsGyGAeOkEwJ3jn8z6L) | [There'll be a Sunrise](https://open.spotify.com/album/3JIjMJuYNZe4Ihkix1mRL4) | 2:06 | 2026-04-23 |  |
 | [These City Streets](https://open.spotify.com/track/3ZocmxFRkWcx2hLp0hce18) | [VaterSon](https://open.spotify.com/artist/3NqBT0IASKLOBA3yjWh7kl) | [These City Streets](https://open.spotify.com/album/2tnlxcijFM3RZP3yj2sGqE) | 4:48 | 2026-01-22 |  |
 | [These Days](https://open.spotify.com/track/6OmhyzNc5npG63GgGaPtJm) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [These Days](https://open.spotify.com/album/5TIcIHvjz2ydUJFBQB7L3M) | 3:33 | 2026-04-06 |  |
 | [These Dire Days](https://open.spotify.com/track/3zDaDP3FAbUc3P9aupg6Q1) | [Calum Baird](https://open.spotify.com/artist/04J4L4jowMcqbzD05TnGGk) | [These Dire Days](https://open.spotify.com/album/63Ry66N5f57UIkuVbIUhGs) | 3:29 | 2026-03-24 |  |

@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sharan Kumar
 
-769 songs - 1 day 19 hr 34 min
+771 songs - 1 day 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [enna vittu](https://open.spotify.com/track/6OLDFUpW6fpsWONdqW7HEC) | [AE Prince](https://open.spotify.com/artist/1PD5zYoXUX1xKPcV0TOHgS) | [enna vittu](https://open.spotify.com/album/5ZDXqTsFkUB0xcIm69yrf6) | 1:16 | 2024-07-16 | 2024-12-06 |
 | [Ennai Katti Kondaaye](https://open.spotify.com/track/7AvKUGf658C5vXVDdWNGPV) | [Nijil Dhinakar](https://open.spotify.com/artist/0Y4SyLXBpdQUJAml0K2Qmn), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Vaish](https://open.spotify.com/artist/3UUCWlU2bPEuKMAoUeiJBD), [Santh Bojan](https://open.spotify.com/artist/3UZOknx0f4s5Ki0d9SAREn) | [Ennai Katti Kondaaye](https://open.spotify.com/album/2hhY6CMdcPH8ZQDhfAiB7H) | 3:32 | 2025-09-04 | 2026-01-28 |
 | [Ennai vittu](https://open.spotify.com/track/4OAtGQFrZR2hyqBqxve6kE) | [Roshith abdulrahman](https://open.spotify.com/artist/1cmSRUsjBAxwwN0fiYAd1F) | [Ennai vittu](https://open.spotify.com/album/2nEeJ3kvZ23FNldHwJQOHX) | 2:08 | 2025-03-30 | 2025-04-18 |
+| [Ey Pulla](https://open.spotify.com/track/1A81vwNeY6ghuNo6llNePU) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [BSP](https://open.spotify.com/artist/6iOuI0IPcd6hbU1AK6jI3A) | [Ey Pulla](https://open.spotify.com/album/0larnrAJuEKwu116l7ewJN) | 2:55 | 2026-04-23 |  |
 | [Fake Escobar](https://open.spotify.com/track/2bc5OEFuJgcEOoLxpmXD0t) | [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Fake Escobar](https://open.spotify.com/album/0GxmBhQxX8F95Ck7BzR9Wy) | 2:38 | 2024-01-16 | 2024-03-01 |
 | [FLYHIGH](https://open.spotify.com/track/09rtkeKUT1QU1GnC1kud4O) | [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue) | [FLYHIGH \- Tamil](https://open.spotify.com/album/4jSkcXuCqfl9fJ1rpOEQ7w) | 3:55 | 2023-06-29 | 2024-02-01 |
 | [Gang Hood](https://open.spotify.com/track/7D0R0Uvg629nn7oejhsMR2) | [Mc Azy](https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G), [Ice Roy](https://open.spotify.com/artist/6DQkxcm0dnMxOHybgePB7r), [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf) | [Gang Hood](https://open.spotify.com/album/36airy06GYpsfs4FStuLDI) | 3:00 | 2023-07-17 | 2024-02-13 |
@@ -357,6 +358,7 @@
 | [manase](https://open.spotify.com/track/2rAkyTAdRsQmqUMQaOC5jj) | [cavya sound](https://open.spotify.com/artist/1bHLrn1seutyUjIUCJnMyj), [Pritt](https://open.spotify.com/artist/5UBfs4W6ckxE7jCcqapRPn), [dilushselva](https://open.spotify.com/artist/0kmN7hZGqNtmFNgJz4YvKZ) | [manase](https://open.spotify.com/album/4e9da6j9leq62ET06iCrGK) | 3:30 | 2026-04-16 |  |
 | [Manase](https://open.spotify.com/track/3y99gwxzYZAmDZSwStWD6N) | [Kaushik Mahalengam](https://open.spotify.com/artist/7DtfoijsVtoll8W6IgINsA) | [Manase](https://open.spotify.com/album/3swHZKoMAmokLakWLNecto) | 2:44 | 2024-06-07 | 2024-12-06 |
 | [Manasu Mattume](https://open.spotify.com/track/6MPLKOG3Y05uI7wcmwAjZE) | [Siennor](https://open.spotify.com/artist/7llcZ59fwsSv4nEx3mgu31) | [Manasu Mattume](https://open.spotify.com/album/0g5fCX40MYY9lJxKr09tvi) | 3:05 | 2025-05-02 | 2025-07-25 |
+| [Mande Odu](https://open.spotify.com/track/6tNCgBEoagUn4kV1mGt6MH) | [Santesh](https://open.spotify.com/artist/7DWSfLX0stZ7Fm4JssbiN6) | [Mande Odu](https://open.spotify.com/album/3GM7apWz8pKSMQRxVWfAue) | 3:47 | 2026-04-22 |  |
 | [Manidha](https://open.spotify.com/track/4JQDUgiZD9wqDiA6Aza5Rs) | [Julius Gnanagar](https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V), [Rahul Vishwa](https://open.spotify.com/artist/2AOfxBVOmX5Qz8hbPm7iMu), [Prawin Ganesh](https://open.spotify.com/artist/4PDzwP2wyBqHYfjWdaf3ae) | [Manidha](https://open.spotify.com/album/0NAdnBQzZNm3IGqkr6kLnm) | 4:31 | 2023-09-15 | 2024-05-04 |
 | [Manidha](https://open.spotify.com/track/1KbhAS7n23D0C9ddIuCRoV) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM), [Kalyani Nair](https://open.spotify.com/artist/38ICMLYuHXcYd3HrZiEdds), [Gana Balamurugan](https://open.spotify.com/artist/2tLTofyDbjGDLJ5yqiffic) | [Manidha](https://open.spotify.com/album/1QJmiNyPqkAEjLOn8c5WXB) | 3:48 | 2023-06-30 | 2023-11-29 |
 | [Manithakaari Sevvi](https://open.spotify.com/track/01TQhZMxTdsgDs7L76BwD5) | [Revaa](https://open.spotify.com/artist/3DhIQFmfDUjsiW0S0OqmCc), [Bshaa](https://open.spotify.com/artist/6irJTMyYRu8hCEuOOsPRMh), [Gana Vimala](https://open.spotify.com/artist/6dIbB2yuIeQ9pHCPWn522k) | [Manithakaari Sevvi](https://open.spotify.com/album/7xWL735eBbUjdHKPBXL7f0) | 5:22 | 2024-03-08 | 2024-10-12 |

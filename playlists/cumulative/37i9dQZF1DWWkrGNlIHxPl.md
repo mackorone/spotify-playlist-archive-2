@@ -2,9 +2,9 @@
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by Arab artists\. Cover: YAZ
+> Global crossovers by Arab artists\. Cover: Saint Levant
 
-377 songs - 20 hr 35 min
+380 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Astronaut In The Ocean \- The Synaptik & Freek Remix](https://open.spotify.com/track/5xSHLDWdeIEpBa84mQRoJX) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS), [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Astronaut In The Ocean \(International Remixes\)](https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw) | 3:18 | 2021-12-16 | 2022-08-05 |
 | [ATARAXIA](https://open.spotify.com/track/11TdG2gdwYU6Cmt6Lb7Yvz) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [HOME IS CHANGING](https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O) | 2:56 | 2024-10-18 |  |
 | [Awake](https://open.spotify.com/track/4hLN4fsuA4E5HyOQM7d5Fo) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Awake](https://open.spotify.com/album/4EVEmumfv1Maw79Kipv0Uw) | 3:00 | 2021-12-16 | 2022-10-09 |
+| [AYZANI](https://open.spotify.com/track/65opn1GI1WWZ5j7NJMQuRL) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [AYZANI](https://open.spotify.com/album/6fEpLvYXIRJCB2aHN3QeQo) | 2:45 | 2026-04-23 |  |
 | [Bahja Bidha](https://open.spotify.com/track/75pvUJiPQ2Eg0wSiZokVe9) | [Dahmane El Harrachi](https://open.spotify.com/artist/0WtlXlCzfp2mJyINCsf1tb) | [Le Chaâbi, Vol\. 2](https://open.spotify.com/album/0kNtY2VnymD3B7veZcLoaR) | 5:57 | 2022-06-06 | 2022-06-24 |
 | [Bansa 7aly](https://open.spotify.com/track/4eJk6TUT561QX2BE73Q208) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Bansa 7aly](https://open.spotify.com/album/01cwuv9Yy87R1HmNsKJsbi) | 2:36 | 2023-12-15 | 2024-02-14 |
 | [Baroudeh](https://open.spotify.com/track/2YtYdhCh20iGSkI6oHHhor) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [96 Miles From Bethlehem](https://open.spotify.com/album/5n7u0Fwf8gE54F9rwPrz2O) | 2:35 | 2024-05-30 |  |
@@ -101,7 +102,7 @@
 | [ELEPHANT in the room](https://open.spotify.com/track/6ZyM3trBytgnYgRfh2stYu) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [ELEPHANT in the room](https://open.spotify.com/album/3t98yciKCkgEvjLYwtrNPg) | 2:54 | 2023-07-31 | 2023-09-20 |
 | [Enta](https://open.spotify.com/track/1mRSA7bk3iEvAyKLXHL7bi) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Arab Trap \- EP.1](https://open.spotify.com/album/3dQpnLxtGSzIRi7TEA8MzC) | 3:08 | 2022-04-22 | 2023-06-15 |
 | [Escape Plan](https://open.spotify.com/track/57nPLBMMNk8w4KDNSwDxdz) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Escape Plan](https://open.spotify.com/album/3kt4vMSt4GLQQ7M5pS5Dpx) | 2:19 | 2024-06-15 | 2024-09-14 |
-| [Everlasting Dance](https://open.spotify.com/track/7w4iy6gupo2mDSPlnvidGv) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Everlasting Dance](https://open.spotify.com/album/4lR6iy0jlBIctr2Pwg2Fe1) | 3:23 | 2023-06-07 |  |
+| [Everlasting Dance](https://open.spotify.com/track/7w4iy6gupo2mDSPlnvidGv) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Everlasting Dance](https://open.spotify.com/album/4lR6iy0jlBIctr2Pwg2Fe1) | 3:23 | 2023-06-07 | 2026-04-24 |
 | [EXCUSE U](https://open.spotify.com/track/7mvyMA1kzEdASKIZVIo25t) | [NARCY](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg), [Tribe of Monsters](https://open.spotify.com/artist/6ZBkSEQim7hD4OpsvDuCh3) | [EXCUSE U](https://open.spotify.com/album/2OjfODnTf5wHLMr8qvzInN) | 2:54 | 2023-09-19 | 2023-09-30 |
 | [EXILE / معاكي](https://open.spotify.com/track/6FG3f1wZKl2IESCJQJb1tj) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [EXILE / معاكي](https://open.spotify.com/album/0xfkU5Pja7FSa8ZRHbG1fs) | 4:08 | 2025-01-22 |  |
 | [Exist With You](https://open.spotify.com/track/2Ql5hqShctiwksSLN3XRiM) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Exist With You](https://open.spotify.com/album/3RNA3HxO5AskgF6QxPqqiA) | 2:35 | 2021-12-16 | 2022-11-20 |
@@ -137,7 +138,7 @@
 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 | 2022-09-13 | 2023-08-01 |
 | [GO CRAZY](https://open.spotify.com/track/72gh4ZobtjRMcpYUxpPNTJ) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Wazic](https://open.spotify.com/artist/4MYk7nIQMJ8Zj8p6AeZOmN) | [freakuency](https://open.spotify.com/album/1nWH43v7RtIdKznMvrVi4W) | 2:19 | 2024-09-13 | 2025-09-30 |
 | [Gone](https://open.spotify.com/track/0kwtH6NmbB9fsl772LgPL8) | [K.K.](https://open.spotify.com/artist/3PQxqn5ALBERvhCNx8JSPw) | [Gone](https://open.spotify.com/album/1Gc0fo6yZxyna5k1Ozlc6s) | 3:04 | 2021-12-16 | 2022-02-05 |
-| [Good Girl](https://open.spotify.com/track/6kNSoY1EvwNK1O9jBj5KTd) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Good Girl](https://open.spotify.com/album/5tZWQSuWSeW96L59PCll80) | 3:02 | 2023-06-02 |  |
+| [Good Girl](https://open.spotify.com/track/6kNSoY1EvwNK1O9jBj5KTd) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Good Girl](https://open.spotify.com/album/5tZWQSuWSeW96L59PCll80) | 3:02 | 2023-06-02 | 2026-04-24 |
 | [Good Lovin'](https://open.spotify.com/track/4wAedCvD43jQ2jnl9ADEgk) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Anchor Baby](https://open.spotify.com/album/2FA3MmXyGWjL0IhoCdktU1) | 2:39 | 2021-12-16 | 2022-07-18 |
 | [Good Torture \(with Elyanna\)](https://open.spotify.com/track/3s29qreJr2KU7BFSiDtw0U) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Good Torture \(with Elyanna\)](https://open.spotify.com/album/5xhbojvUylmbWTsaCgISZr) | 3:20 | 2024-03-01 | 2024-06-01 |
 | [Got That Money](https://open.spotify.com/track/00nsIq2SgXZgTjCfmtKGet) | [DD Foxx](https://open.spotify.com/artist/3DyPuuZcBKl2eJyuU4kUS9) | [Got That Money](https://open.spotify.com/album/2QnEfbGT0qwHzBuRAxCccX) | 2:44 | 2021-12-16 | 2022-10-09 |
@@ -176,7 +177,7 @@
 | [If I Must Die](https://open.spotify.com/track/1bUdNH9WMnKjjJtMJeVPjy) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [If I Must Die](https://open.spotify.com/album/6d9ZXeO25MhLiiThjPq0W5) | 2:44 | 2025-10-06 |  |
 | [If You Were Mine](https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [If You Were Mine](https://open.spotify.com/album/0O8mBcnG7nKSN6LEgfLrYw) | 3:38 | 2023-03-12 | 2023-03-15 |
 | [IL0V3Y0U](https://open.spotify.com/track/0MdcE5oHji8C8XCJCR5o3z) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [IL0V3Y0U](https://open.spotify.com/album/3f2hRnl0alXw9bz8PpQSWz) | 2:43 | 2023-09-19 | 2024-03-12 |
-| [Illbealright](https://open.spotify.com/track/1hr63UH982HEO8UqlOAZha) | [Ghita Askari](https://open.spotify.com/artist/6CdVgCCzJoLF4ijz2o7iE1) | [Illbealright](https://open.spotify.com/album/7IT7FGfFe25oFkx4KQhJM6) | 3:32 | 2023-06-02 |  |
+| [Illbealright](https://open.spotify.com/track/1hr63UH982HEO8UqlOAZha) | [Ghita Askari](https://open.spotify.com/artist/6CdVgCCzJoLF4ijz2o7iE1) | [Illbealright](https://open.spotify.com/album/7IT7FGfFe25oFkx4KQhJM6) | 3:32 | 2023-06-02 | 2026-04-24 |
 | [Illusion](https://open.spotify.com/track/2du5P5ONNBbrn4vHiqV0dY) | [TILILA](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Illusion](https://open.spotify.com/album/4z3b2ipdkf4WijSlYcI6Gv) | 2:38 | 2024-02-08 | 2025-07-02 |
 | [IMY](https://open.spotify.com/track/3KvNIhdszIHOsCCWzXqhBH) | [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV) | [IMY](https://open.spotify.com/album/4pV0NErJZFSPIVQ7XTknPW) | 2:41 | 2025-09-29 | 2025-10-07 |
 | [In My Head](https://open.spotify.com/track/6ijfznxnQ4bxt3aESRanLG) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [In My Head](https://open.spotify.com/album/5p5RkbJwuXyM5lfmgfoPF6) | 2:35 | 2022-11-19 | 2022-12-08 |
@@ -193,6 +194,7 @@
 | [Jananto](https://open.spotify.com/track/2y6nmfpAadpzXaDyhOEEHM) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Jananto](https://open.spotify.com/album/2CQgwTs4d2wtPVpQsYn7tU) | 3:01 | 2025-08-08 |  |
 | [Je Cours](https://open.spotify.com/track/34W8tiXQUXw5f8l3HhI55J) | [Taxi 404](https://open.spotify.com/artist/0k1rMwxE4WYQWR0bInEY0c) | [Je Cours](https://open.spotify.com/album/2SEuflFdsEI5pcq3Zo1FtP) | 2:59 | 2022-02-04 | 2022-12-08 |
 | [Kalam Ennas](https://open.spotify.com/track/31xnf3zZUIX9w33rIlg9bH) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Kalam Ennas](https://open.spotify.com/album/4NRYYEbwnAtGi9UIcH9Qqc) | 7:02 | 2022-06-06 | 2022-06-24 |
+| [La Meen](https://open.spotify.com/track/4LhsN0DW1p2BrpWansbdsy) | [Maro](https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh) | [La Meen](https://open.spotify.com/album/0NpIJIEXpGdTAr6BW0B2xb) | 1:48 | 2026-04-23 |  |
 | [Laba Staifia \- Ammar 808 Remix](https://open.spotify.com/track/5cGFm8KSWsRgeIh1wSrkqI) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Ammar 808](https://open.spotify.com/artist/0TAPEEcG2NQAfSKkreQWAM) | [Remixed](https://open.spotify.com/album/47PKSAWJ4hdcgTF0qzkhx8) | 6:20 | 2022-06-06 | 2022-06-24 |
 | [Land Of The Heroes \(Arabic Version\)](https://open.spotify.com/track/2ZE4lde5AU8RFCi8nH3WCn) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Stray](https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X), [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Land Of The Heroes \(Arabic Version\)](https://open.spotify.com/album/0OZ5oCTYCP4DLByyJtG98x) | 2:53 | 2023-09-06 |  |
 | [Learning To Live Without You](https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Learning To Live Without You](https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB) | 3:13 | 2021-12-16 | 2023-02-07 |
@@ -285,6 +287,7 @@
 | [Rocketship](https://open.spotify.com/track/5q2zRUEMUMh51Ipd97bmAa) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Rocketship](https://open.spotify.com/album/4za3vqGRKS1vFTQAhYnLwQ) | 2:36 | 2023-05-05 | 2023-08-01 |
 | [Rockstar Baby \(feat\. Mougleta\)](https://open.spotify.com/track/27ooJRSmsdwshBQGoUZE3p) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Rockstar Baby \(feat\. Mougleta\)](https://open.spotify.com/album/6Kamhcf55KpgHpbAMvQqp5) | 2:54 | 2022-12-07 | 2023-04-28 |
 | [ROLLERCOASTER](https://open.spotify.com/track/3QjwfqkglQOeUuyNKiK5oC) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ROLLERCOASTER](https://open.spotify.com/album/1XUuF8s801LBGjloJZDBsm) | 3:14 | 2023-08-13 |  |
+| [RULES](https://open.spotify.com/track/05LtudsqIIZHZaFBPpoXiR) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [RULES](https://open.spotify.com/album/34njvyqDdhVg8CvLnJx5GK) | 2:49 | 2026-04-23 |  |
 | [Sad Baby](https://open.spotify.com/track/6yDO6Sc8BqeAKruur5601B) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Sad Baby](https://open.spotify.com/album/1MMgsQcs2mV3XalOFcJIo9) | 3:40 | 2022-07-07 | 2022-12-08 |
 | [Saudi Most Wanted](https://open.spotify.com/track/6k2J7DVv8lwAW0XXUPMVQv) | [$kinny](https://open.spotify.com/artist/1DwFdML6JPf7SSeXmSRnVN) | [Saudi Most Wanted](https://open.spotify.com/album/2so57oOfGe2N1p42xc4qg7) | 2:28 | 2022-03-11 | 2022-12-08 |
 | [Say Hi To My Demons \(feat\. Dounia\)](https://open.spotify.com/track/1QzEynjWm4RPAmFUZsYZVN) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [Say Hi To My Demons \(feat\. Dounia\)](https://open.spotify.com/album/6kvEYQBniePtBTOTXYukBC) | 3:18 | 2022-05-13 | 2022-12-08 |

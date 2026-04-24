@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Iceage",
-  "num_followers": 86647,
+  "num_followers": 86702,
   "original_name": "Editors' Picks: Best Songs of March",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-04-02 14:51:09",
       "album": {
-        "name": "Doctrine of Love",
-        "url": "https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Doctrine of Love",
-      "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
-    },
-    {
-      "added_at": "2026-04-02 14:51:09",
-      "album": {
         "name": "How It Feels",
         "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 156000,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
+    },
+    {
+      "added_at": "2026-04-02 14:51:09",
+      "album": {
+        "name": "Doctrine of Love",
+        "url": "https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Doctrine of Love",
+      "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
     },
     {
       "added_at": "2026-04-02 14:51:09",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-04-02 14:51:09",
       "album": {
-        "name": "Jean",
-        "url": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 184481,
-      "name": "Earth, Wind & California",
-      "url": "https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L"
-    },
-    {
-      "added_at": "2026-04-02 14:51:09",
-      "album": {
         "name": "Aren't You Curious?",
         "url": "https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 184294,
       "name": "Curious",
       "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
+    },
+    {
+      "added_at": "2026-04-02 14:51:09",
+      "album": {
+        "name": "Jean",
+        "url": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 184481,
+      "name": "Earth, Wind & California",
+      "url": "https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L"
     },
     {
       "added_at": "2026-04-02 14:51:09",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-04-02 14:51:09",
       "album": {
+        "name": "Written into Changes",
+        "url": "https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "duration_ms": 233113,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9"
+    },
+    {
+      "added_at": "2026-04-02 14:51:09",
+      "album": {
         "name": "SYRINX",
         "url": "https://open.spotify.com/album/4HdLXXUpDyCKgLbSXN5Clh"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 147428,
       "name": "SYRINX",
       "url": "https://open.spotify.com/track/5tAVZKH9CE6EkGJTRaqgG1"
-    },
-    {
-      "added_at": "2026-04-02 14:51:09",
-      "album": {
-        "name": "Written into Changes",
-        "url": "https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU"
-      },
-      "artists": [
-        {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
-        }
-      ],
-      "duration_ms": 233113,
-      "name": "Happy Birthday",
-      "url": "https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9"
     },
     {
       "added_at": "2026-04-02 14:51:09",

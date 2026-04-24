@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Jo Soegono
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Sliver
 
-292 songs - 20 hr 18 min
+294 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Berbunga \- Bunga](https://open.spotify.com/track/3NtqKyA6WU6AR6ajEAntjO) | [The Groove](https://open.spotify.com/artist/4QaAmS47H6ZCc5JtXP5933), [Tiara Effendy](https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg) | [Sejiwa](https://open.spotify.com/album/4rEgxywUFenTE0CSvJxUAO) | 3:56 | 2023-08-24 |  |
 | [Berdansa Sejenak](https://open.spotify.com/track/4wQc5aLDPH58ncFsv1EpnD) | [djalto](https://open.spotify.com/artist/17s3iWyEdWg6OnUePMXG7r) | [Berdansa Sejenak](https://open.spotify.com/album/2Hk1gGS699WYzv1L3UpHjp) | 3:15 | 2022-09-02 | 2024-08-16 |
 | [Berlalu](https://open.spotify.com/track/0svH95InfPxfc4F0FUN9EM) | [Sliver](https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W), [nadhira](https://open.spotify.com/artist/2M51WRjsROkHmqoTRKrlDM) | [Cita Cinta](https://open.spotify.com/album/7HEXcM3rUIwmU9kueJKsza) | 3:47 | 2025-11-27 |  |
+| [Berubah](https://open.spotify.com/track/6P4dRibGfA4VRizaoPQOX7) | [Sliver](https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W) | [Berubah](https://open.spotify.com/album/1WB8OEzRWFp3AwuBQBj31P) | 3:56 | 2026-04-23 |  |
 | [Best Friend](https://open.spotify.com/track/0QMKNY9xswyHRqA7OjVrNj) | [Koko Wijanarko](https://open.spotify.com/artist/0c26hbkWSxPK07pXEzTvFK) | [Best Friend](https://open.spotify.com/album/1HJWP2NJ19Sa1TxZtpTou0) | 3:09 | 2022-09-02 | 2024-02-23 |
 | [Bintang\-bintang](https://open.spotify.com/track/1cDCkIiIRIYGMcizh9bxnU) | [Sliver](https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W) | [Bintang\-bintang](https://open.spotify.com/album/7to0vEoiHNNpYKkVasZMtE) | 4:18 | 2025-05-08 |  |
 | [bitterlove](https://open.spotify.com/track/74OLXYsvpfmSgPCMMi898K) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [bitterlove](https://open.spotify.com/album/5pSxeG2bdlj3MYdBVRBexK) | 3:36 | 2022-09-02 | 2023-07-14 |
@@ -160,7 +161,7 @@
 | [Kanaya Tidore](https://open.spotify.com/track/7fzNvMZUf36MlIBTnSGrUg) | [Tesla Manaf](https://open.spotify.com/artist/6LkomW0B7xs6zolDBJRUFt) | [Rembah Pribumi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Z2Yhg12LYvI1rW6v48jJM) | 3:29 | 2023-03-03 | 2023-06-09 |
 | [Kasi Kasi Kasi](https://open.spotify.com/track/7hlngcokcrvJ3NQQdlHjli) | [Jo Soegono](https://open.spotify.com/artist/4g10GFwD6GAtYbugb9Ur7p) | [Kasi Kasi Kasi](https://open.spotify.com/album/2KPZYDFpNBekXVCblbrFbp) | 3:05 | 2026-04-09 |  |
 | [Katakan Saja](https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Katakan Saja](https://open.spotify.com/album/6Jc1f9u2q0sIe3xwvZeRCH) | 3:56 | 2024-02-22 |  |
-| [Kejar Terus](https://open.spotify.com/track/7LR3VRJQIWtuHs5kVkjVk5) | [Hezky Jo](https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy) | [Teras Dan Angin Malam](https://open.spotify.com/album/0zUzJIuniSzSPmwEwNweUp) | 3:23 | 2023-08-18 |  |
+| [Kejar Terus](https://open.spotify.com/track/7LR3VRJQIWtuHs5kVkjVk5) | [Hezky Jo](https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy) | [Teras Dan Angin Malam](https://open.spotify.com/album/0zUzJIuniSzSPmwEwNweUp) | 3:23 | 2023-08-18 | 2026-04-24 |
 | [Kejar Waktu](https://open.spotify.com/track/1Eo6TNhL7ydD7HFHPFc9bE) | [Marini Nainggolan](https://open.spotify.com/artist/68CRp4uznB4jlgbcNEqbTp) | [Kejar Waktu](https://open.spotify.com/album/3Q8ZezQuRlmq8xsVfYsw3F) | 4:36 | 2022-09-02 | 2022-11-18 |
 | [Kembali](https://open.spotify.com/track/212IXh4olT2VzhkTkR941u) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Klise](https://open.spotify.com/album/3py2U2L6UzHMMEoVuu8cD6) | 4:42 | 2025-05-29 |  |
 | [Kembali Bersama](https://open.spotify.com/track/5uCEXd94GXJrediRWmF9Mx) | [Sequoia Projects](https://open.spotify.com/artist/3yyjWdipsrJk6edPtRUpfF), [Danto](https://open.spotify.com/artist/1DdCPXzmVDJnPKiH1AnUL2) | [Kembali Bersama](https://open.spotify.com/album/41fNuj0KJtHoR3Rger2nfL) | 4:00 | 2022-09-02 | 2025-09-26 |
@@ -184,6 +185,7 @@
 | [Los Feliz](https://open.spotify.com/track/2j1ZS4MtTGhtNXtWNaA5GG) | [Donny Suhendra](https://open.spotify.com/artist/2uU9BWmJcTzd8EeVh6V8Le), [Adi Darmawan](https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX), [Demas Narawangsa](https://open.spotify.com/artist/1YRn1rD5gEoNZUMXjuwtyQ) | [Origin](https://open.spotify.com/album/2Xbhp3BaYjZlAg9gSxa1uo) | 3:44 | 2025-06-26 | 2026-02-13 |
 | [Love In Peace](https://open.spotify.com/track/3BguNO1FHJs4KRqNp1hC2K) | [Praya Tjondro](https://open.spotify.com/artist/5ByAOpFqqD2MzptfchAEiM) | [Love In Peace](https://open.spotify.com/album/72PHHKpw2zuBHrDgPx0Mfl) | 4:24 | 2023-08-17 |  |
 | [LOVE IS](https://open.spotify.com/track/1Sx3NLx0k01HRqA2JhVguv) | [Jason Mountario](https://open.spotify.com/artist/6ibPIgByjCH7qYPlBbN4Tr), [Sri Hanuraga](https://open.spotify.com/artist/6oBbSq1WI51saPC5Vys7z2), [Kelvin Andreas](https://open.spotify.com/artist/2hl3KpfiMWRSP51mLLi4Pd) | [LOVE IS](https://open.spotify.com/album/23f2kd0MMf7L6aJZ5vOkAb) | 6:00 | 2023-03-12 | 2023-06-30 |
+| [Main\-Main](https://open.spotify.com/track/1m9h7Yv78PrOi0ugL6yUex) | [Gabriella Fernaldi](https://open.spotify.com/artist/5zGnoscN1lVq4vWNExbDZO), [De Robinsar](https://open.spotify.com/artist/3bzvsI6XPz5OzhZ1Of2p6n) | [Main\-Main](https://open.spotify.com/album/6ENAT4ust37xJcEYuNyVSg) | 3:10 | 2026-04-23 |  |
 | [Makan Teman](https://open.spotify.com/track/7MHKaG1rgfunhfW1bbsw1S) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Makan Teman](https://open.spotify.com/album/4F99lV3Ql04YNP8P3WV3mh) | 2:40 | 2022-09-02 | 2025-02-07 |
 | [Makna Nostalgia](https://open.spotify.com/track/5UzwDbdDqEyU7pQc9kh1Bu) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Detik Waktu \#2 : Perjalanan Karya Cipta Candra Darusman](https://open.spotify.com/album/4HnAERSlErB6VxHNkUZrhB) | 5:16 | 2022-09-02 | 2024-04-19 |
 | [Makna Nostalgia](https://open.spotify.com/track/5oEZn7bhmZwTxeJTdKchXK) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Makna Nostalgia](https://open.spotify.com/album/1q7bfBILGBE6SALzgqZEKo) | 5:16 | 2024-04-18 | 2025-12-19 |
@@ -276,7 +278,7 @@
 | [Talking to Myself](https://open.spotify.com/track/72hbDZ7MMYjweTu3ItXysl) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn) | [Talking to Myself](https://open.spotify.com/album/181Fo4Z0LGLGVTjy2VPm2n) | 3:23 | 2022-09-02 | 2023-06-30 |
 | [Tanya](https://open.spotify.com/track/2OF4WQCcU0j99WWVjyj9UL) | [Satrio Rachmadi](https://open.spotify.com/artist/6ijmsL08ScEX44davlIGV5) | [Perasa](https://open.spotify.com/album/6aOJTpyar68TCZy6XAZ65i) | 4:16 | 2024-09-19 |  |
 | [Target Operasi](https://open.spotify.com/track/15hr0SZZ74yhugQjEgW3Ru) | [Mevlied Nahla](https://open.spotify.com/artist/7F4LyPxmKrxFC4xNkdSAhl) | [Target Operasi](https://open.spotify.com/album/004BHvhs8Z2dYTcacFxRoa) | 4:21 | 2025-12-18 |  |
-| [Tarian Panen](https://open.spotify.com/track/3GhczFPojHhZ6XmxDTiDv2) | [5Petani](https://open.spotify.com/artist/2gcy19PBJyMIGP5avLkzCp) | [Tarian Panen](https://open.spotify.com/album/1lMep6P15PRNw9N8TG5yst) | 5:46 | 2023-07-13 |  |
+| [Tarian Panen](https://open.spotify.com/track/3GhczFPojHhZ6XmxDTiDv2) | [5Petani](https://open.spotify.com/artist/2gcy19PBJyMIGP5avLkzCp) | [Tarian Panen](https://open.spotify.com/album/1lMep6P15PRNw9N8TG5yst) | 5:46 | 2023-07-13 | 2026-04-24 |
 | [Tasty](https://open.spotify.com/track/4OssZd7mNskFiUZ40ukFkx) | [Rafi Muhammad](https://open.spotify.com/artist/3OY1W74oTsOWz9iM2S8WcF) | [Laughter Master](https://open.spotify.com/album/2PV9HDLaFPcepNYU6iJDY8) | 5:29 | 2022-11-17 | 2023-08-25 |
 | [Terjebak Rasa](https://open.spotify.com/track/1mCbEnBemrfcJlOVBzDKbm) | [Dony Koeswinarno](https://open.spotify.com/artist/2Hayo3Hkb9m2qOcyRKkzFG), [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Terjebak Rasa](https://open.spotify.com/album/1JZnaNG5spkRUh7eV8y99e) | 3:41 | 2022-09-02 | 2023-08-25 |
 | [The Moment With You](https://open.spotify.com/track/3cG6irfHaVbQfEZEShv9V2) | [Alsa](https://open.spotify.com/artist/6dL42hXSnnoaGCn77eumjF) | [The Moment with You](https://open.spotify.com/album/3CJbn7rPgzZo0MljADYFPL) | 4:58 | 2024-11-15 | 2025-07-18 |

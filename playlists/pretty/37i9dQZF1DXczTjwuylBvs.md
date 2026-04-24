@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczTjwuylBvs.md) - [plain]
 
 > All the best songs from your favorite classic Disney films, TV shows and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,142 likes - 119 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,180 likes - 119 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczTjwuylBvs.md) - [plain]
 | 44 | [One Little Spark \- From "Journey Into Imagination"](https://open.spotify.com/track/3N9AhvVYdBneTR8905wB3O) | [Chuck McCann](https://open.spotify.com/artist/0I8FRZzuNoPE08vtplODjU), [Billy Barty](https://open.spotify.com/artist/0QyGSG3nv8tZPnIqogmsVm) | [The Sherman Brothers Songbook](https://open.spotify.com/album/1Hrim7KTK1mNyAYAw17Q1s) | 3:35 |
 | 45 | [California Screamin' \- From "California Screamin'"](https://open.spotify.com/track/7H2qQ7bU8uPZziCBoR4voa) | [Gary Hoey](https://open.spotify.com/artist/1so07AHiowjXxc3KVUqp76) | [Disney Classics](https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0) | 2:33 |
 | 46 | [Zero To Hero \- From "Hercules"](https://open.spotify.com/track/685FssvXssY1hyIZWDb7WX) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [We Love Disney](https://open.spotify.com/album/3VZhtobnayfWeRS5Nm2uSu) | 2:39 |
-| 47 | [Under the Sea](https://open.spotify.com/track/6oYkwjI1TKP9D0Y9II1GT7) | [Samuel E\. Wright](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 3:15 |
+| 47 | [Under the Sea](https://open.spotify.com/track/6oYkwjI1TKP9D0Y9II1GT7) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Howard Ashman](https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN), [Samuel E\. Wright](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 3:15 |
 | 48 | [Duck Tales Theme \- From “Duck Tales“](https://open.spotify.com/track/5pRpPmMdvAM0sHInhqRZXl) | [The Disney Afternoon Studio Chorus](https://open.spotify.com/artist/0kzp6Ezum8UhblfmLkcyPq) | [The Disney Afternoon](https://open.spotify.com/album/0sKZZI3UI2foLkTaiWupSI) | 2:53 |
 | 49 | [A Spoonful of Sugar \- From "Mary Poppins" / Soundtrack Version](https://open.spotify.com/track/3BBJ1Cy7bcUl6dpfmQilOO) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO) | [Saving Mr\. Banks \(Original Motion Picture Soundtrack \[Deluxe Edition\]\)](https://open.spotify.com/album/1cuE3waPR1CDFUpYd6fX12) | 4:07 |
 | 50 | [Best of Friends \- From "The Fox & The Hound" / Soundtrack](https://open.spotify.com/track/3lP9eoNsz04dMCfPIG0PpK) | [Pearl Bailey](https://open.spotify.com/artist/2cskX7NGnrWMjA4PRSxVPL) | [Disney's Greatest Vol\. 3](https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh) | 2:15 |

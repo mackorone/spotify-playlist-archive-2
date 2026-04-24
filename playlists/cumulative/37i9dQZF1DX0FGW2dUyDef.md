@@ -2,9 +2,9 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: manifest<br/>23 Nisan Ulusal Egemenlik ve Çocuk Bayramımız kutlu olsun! 🇹🇷
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Serkan Nişancı
 
-289 songs - 14 hr 13 min
+290 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Ağla](https://open.spotify.com/track/2fnTOxrBmArhS5SZSE20zM) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Ağla](https://open.spotify.com/album/49vH7j0N445dlfC9jnXeiy) | 3:04 | 2025-04-29 | 2025-08-06 |
 | [Aşiyan](https://open.spotify.com/track/00Yab3ZoSz1nfy6iyGPJOG) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Aşiyan](https://open.spotify.com/album/5Cv1gREuQjfm8vM2b0SrsT) | 2:43 | 2025-07-08 | 2026-03-24 |
 | [Aşk Yok Olmaktır](https://open.spotify.com/track/0F7e5Ot8PrsdHBW0SmeXi7) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Aşkperest](https://open.spotify.com/album/2fWCOHMMAq9vZXwjQGMkhp) | 4:40 | 2025-05-13 | 2026-01-15 |
-| [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-04-09 |  |
+| [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-04-09 | 2026-04-24 |
 | [Bak](https://open.spotify.com/track/4zAy3I7Amhup6JeDLFkKhH) | [Pilli Bebek](https://open.spotify.com/artist/63RFns47gk00mnHIQ8zTR1) | [Olsun](https://open.spotify.com/album/6wrS2IS6GGyJHVbIZaVLjq) | 4:35 | 2026-02-05 | 2026-02-24 |
 | [BAL](https://open.spotify.com/track/2RojZW2380o281z4LF0wTh) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [BAL](https://open.spotify.com/album/14jmglD62tPPu5yptZcSv4) | 2:37 | 2024-07-02 | 2024-11-26 |
 | [BALMAIN](https://open.spotify.com/track/05uQNxZ5VUPPIimHA2IG9b) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [BALMAIN](https://open.spotify.com/album/64jjF2rwGJs9ptn6HXHhwM) | 2:03 | 2025-05-13 | 2025-07-09 |
@@ -225,6 +225,7 @@
 | [Sana Güvenmiyorum \- Dedub Sessions](https://open.spotify.com/track/1lNcnIU4jtqD69Qtfjh8EJ) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Sana Güvenmiyorum \(Dedub Sessions\)](https://open.spotify.com/album/5ZcHiC8fUSjtOSDw0JaJGv) | 3:24 | 2024-11-04 | 2026-02-24 |
 | [Sana Rağmen](https://open.spotify.com/track/6p17lQApoPFY2vBGccMzFH) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Sana Rağmen](https://open.spotify.com/album/1SG3xUjCDn7gndNJsIvIbv) | 3:30 | 2026-03-02 |  |
 | [Sana Yıldızları Ödediğimden](https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Sana Yıldızları Ödediğimden](https://open.spotify.com/album/745xmwLY8UKgHtxDa9UMYU) | 4:18 | 2024-07-02 | 2024-09-03 |
+| [sanma ki yaşıyorum](https://open.spotify.com/track/7zH71HbdpGVES8lVRIcDDs) | [ASLAR](https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA), [Lessio](https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [sanma ki yaşıyorum](https://open.spotify.com/album/2LEhF3vteB6Yd6Nqgliq6G) | 2:29 | 2026-04-23 |  |
 | [Sar Zamanımızı Geriye](https://open.spotify.com/track/5BuvzVuw5Y6h6dXseOJZSn) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Sar Zamanımızı Geriye](https://open.spotify.com/album/4Hbsjy5vfXCQG1YeNvXJQL) | 3:28 | 2025-10-01 | 2026-02-20 |
 | [Saygımdan](https://open.spotify.com/track/4E10qEzOmTIVmrg6Wz2RHj) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [İkinci Hal](https://open.spotify.com/album/7kbrSSi5xv57YkwkyiijFe) | 4:31 | 2026-03-26 |  |
 | [Sen Ağla](https://open.spotify.com/track/1QTxQQfJjNYzMcOpilX3Bf) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:06 | 2025-06-30 | 2025-10-27 |

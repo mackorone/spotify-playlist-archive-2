@@ -1,6 +1,6 @@
 {
   "description": "you look so cool. Cover: The 1975",
-  "num_followers": 170804,
+  "num_followers": 170813,
   "original_name": "reblog",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-06-23 15:40:57",
       "album": {
+        "name": "21st Century Breakdown",
+        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 321093,
+      "name": "21 Guns",
+      "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
+    },
+    {
+      "added_at": "2025-06-23 15:40:57",
+      "album": {
         "name": "LONG.LIVE.A$AP (Deluxe Version)",
         "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 233786,
       "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
       "url": "https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5"
-    },
-    {
-      "added_at": "2025-06-23 15:40:57",
-      "album": {
-        "name": "21st Century Breakdown",
-        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 321093,
-      "name": "21 Guns",
-      "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
     },
     {
       "added_at": "2025-06-23 15:40:57",

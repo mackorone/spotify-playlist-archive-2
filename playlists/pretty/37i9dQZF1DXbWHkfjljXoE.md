@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbWHkfjljXoE.md) - [plain]
 
 ### [Power To The People](https://open.spotify.com/playlist/37i9dQZF1DXbWHkfjljXoE)
 
-> Melodies of the movement\. Cover: Michael Jackson and Jesse Jackson
+> Melodies of the movement\. Cover: Michael Jackson and Sammy Davis Jr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,889 likes - 70 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,920 likes - 70 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbWHkfjljXoE.md) - [plain]
 | 69 | [Look At Mary Wonder \(How I Got Over\)](https://open.spotify.com/track/1MzXNdH5xGDCffxUh3rC8t) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 2:05 |
 | 70 | [The Harder They Come](https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7) | 3:39 |
 
-Snapshot ID: `AAAAAKZvTXTaAuDpIo3ClcNsliw6o9HD`
+Snapshot ID: `AAAAAF2I6VljYLJXPej+yfM3/Divjdvf`

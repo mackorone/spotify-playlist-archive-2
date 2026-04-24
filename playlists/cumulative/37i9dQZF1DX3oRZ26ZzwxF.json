@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Didi B",
+  "description": "Le meilleur du rap africain francophone. Photo : L'Oiseau Rare",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -1808,7 +1808,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 205975,
       "name": "Djamanan",
       "url": "https://open.spotify.com/track/47mShCfPhEryfSvUEzVmZm"
@@ -2555,6 +2555,28 @@
     },
     {
       "album": {
+        "name": "Gas Station",
+        "url": "https://open.spotify.com/album/2NsHcQ54rp9vfrBqajwg5c"
+      },
+      "artists": [
+        {
+          "name": "Lesky",
+          "url": "https://open.spotify.com/artist/0VogK6a2ytEmfv2Eg2ZvBp"
+        },
+        {
+          "name": "Widgunz",
+          "url": "https://open.spotify.com/artist/3sIJ8AYWsQmlgIcLxwiFkt"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133572,
+      "name": "Gas Station",
+      "url": "https://open.spotify.com/track/7z1igJsgr1XHmBZoHNl5ey"
+    },
+    {
+      "album": {
         "name": "5th DIMENSION",
         "url": "https://open.spotify.com/album/1emaOwFSpZg1TgP0u2Jzz8"
       },
@@ -2614,7 +2636,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 125793,
       "name": "GLA\u00c7ON",
       "url": "https://open.spotify.com/track/3Vmi87TB58H0d3Nk3iujk6"
@@ -2818,6 +2840,24 @@
       "duration_ms": 215918,
       "name": "I BORI LA (feat. Enfant Noir)",
       "url": "https://open.spotify.com/track/4IRjUlhjOlWkVaRpeHLsGt"
+    },
+    {
+      "album": {
+        "name": "ICI BAS",
+        "url": "https://open.spotify.com/album/4KJM2SjzoiywefTP8MJAz6"
+      },
+      "artists": [
+        {
+          "name": "Philipayne",
+          "url": "https://open.spotify.com/artist/4yqT8sbLpKfUkQX64ujh8D"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189933,
+      "name": "ICI BAS",
+      "url": "https://open.spotify.com/track/0hUN28dCmieC5vupzznOxT"
     },
     {
       "album": {
@@ -3380,6 +3420,28 @@
       "duration_ms": 186028,
       "name": "Les gens",
       "url": "https://open.spotify.com/track/03E63cMopu2W92QcEk2VK1"
+    },
+    {
+      "album": {
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/5g4ATbwYF1jQAb50qhT3dS"
+      },
+      "artists": [
+        {
+          "name": "FETTY ND0SS",
+          "url": "https://open.spotify.com/artist/3qnEYx6CH97HzOhFZPWasv"
+        },
+        {
+          "name": "Le Petit Mandelha",
+          "url": "https://open.spotify.com/artist/43pdc0kZ3PvkKhcA7CfDij"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143606,
+      "name": "Lifestyle",
+      "url": "https://open.spotify.com/track/2GXIob6eYx6EpWi2PbfhRd"
     },
     {
       "album": {
@@ -4905,6 +4967,24 @@
     },
     {
       "album": {
+        "name": "Praise the Lord",
+        "url": "https://open.spotify.com/album/2xUK7mW9ZsZoHHZTpqomy6"
+      },
+      "artists": [
+        {
+          "name": "Toofan",
+          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142941,
+      "name": "Praise the Lord",
+      "url": "https://open.spotify.com/track/3IvprOUbcFgjfFFeh37doB"
+    },
+    {
+      "album": {
         "name": "INVASION TOME II",
         "url": "https://open.spotify.com/album/7uG8F9BVGaYGeAHZ2OqQnX"
       },
@@ -5365,6 +5445,28 @@
     },
     {
       "album": {
+        "name": "SOUS LES TROPIQUES",
+        "url": "https://open.spotify.com/album/0514g32t8eplrr7p81Yloy"
+      },
+      "artists": [
+        {
+          "name": "Jukee",
+          "url": "https://open.spotify.com/artist/1i9homO4nYExDaat8J9BOU"
+        },
+        {
+          "name": "OG Mahilet",
+          "url": "https://open.spotify.com/artist/3WbcgjqtToJiTxZ3IlibGT"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "SOUS LES TROPIQUES",
+      "url": "https://open.spotify.com/track/52APcM6MVQCcBwyx0QMiKG"
+    },
+    {
+      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/3qyBToiIgjktJ1OACLNpvj"
       },
@@ -5398,7 +5500,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 172885,
       "name": "STREET VIE",
       "url": "https://open.spotify.com/track/4xmlrpcsnCERJts76tYhBi"
@@ -5818,7 +5920,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 172977,
       "name": "TROP PARLER",
       "url": "https://open.spotify.com/track/3qSDfip8jB4de8n7YzuRyj"
@@ -6274,7 +6376,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 146155,
       "name": "Ye connin",
       "url": "https://open.spotify.com/track/1WyYTcHZk45GAHnW6SQXML"

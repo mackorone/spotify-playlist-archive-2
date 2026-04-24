@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Minister GUC
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,347 likes - 80 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,389 likes - 80 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 61 | [Holy Spirit](https://open.spotify.com/track/6U2QzcexhOvb7Lxw8RaWsR) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Holy Spirit](https://open.spotify.com/album/7s4KFFw83SK8KLoNKJ6D1p) | 3:39 |
 | 62 | [Oluwatosin II](https://open.spotify.com/track/6WjfbwsyCYAO4ukmityPSY) | [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI), [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [Oluwatosin II](https://open.spotify.com/album/2Syvc9YD0TePtXKUvPSlfc) | 10:56 |
 | 63 | [Give Me Chance](https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Give Me Chance](https://open.spotify.com/album/2HHg2RR0qXRg1GtziqSP4q) | 4:15 |
-| 64 | [Ebenezeri](https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId) | [Kent Edunjobi](https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE), [APEX CHOIR](https://open.spotify.com/artist/6tbSCyDNRxBtF922LryPyn), [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz) | [Ebenezeri](https://open.spotify.com/album/3R0zYN0v6fjnMIbzGTQK03) | 4:53 |
+| 64 | [Be Lifted \(Live\)](https://open.spotify.com/track/0mdAgU0AmtvFkQAwnpEpKz) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Better Me](https://open.spotify.com/album/1Ry5NqQ2mLK26TRq23B3So) | 8:25 |
 | 65 | [The Journey](https://open.spotify.com/track/1BwtXJJhh2WHMCzGEmOr3X) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG), [Victorious Lucas](https://open.spotify.com/artist/1pHZMBHrislFKRnW5mto8q), [House of Faith](https://open.spotify.com/artist/2gd3Nx0mLp4GLIODtehPDy) | [The Journey](https://open.spotify.com/album/6rlWTLxhAEjkWyF3LACWRL) | 3:26 |
-| 66 | [Be Lifted \(Live\)](https://open.spotify.com/track/0mdAgU0AmtvFkQAwnpEpKz) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Better Me](https://open.spotify.com/album/1Ry5NqQ2mLK26TRq23B3So) | 8:25 |
+| 66 | [Ebenezeri](https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId) | [Kent Edunjobi](https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE), [APEX CHOIR](https://open.spotify.com/artist/6tbSCyDNRxBtF922LryPyn), [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz) | [Ebenezeri](https://open.spotify.com/album/3R0zYN0v6fjnMIbzGTQK03) | 4:53 |
 | 67 | [Too Oiled](https://open.spotify.com/track/3fPWeU5dawXN52Z9geFYFR) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Too Oiled](https://open.spotify.com/album/0aqXe5YKPqIkGQgoTuDZKE) | 12:14 |
 | 68 | [Breathe](https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 11:36 |
 | 69 | [In The Room \(feat\. Annatoria\) \- Afro Beat Version](https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [In The Room \(feat\. Annatoria\) \[Afro Beat Version\]](https://open.spotify.com/album/0SfELcnowsKzozIy31NqXn) | 3:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 79 | [Citizen](https://open.spotify.com/track/6NYcrgToyDj04al4ZMtHxz) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Citizen](https://open.spotify.com/album/2jPZbmDIJ7TCb3DMh0Fywl) | 4:59 |
 | 80 | [Ranmilowo \(Help me\)](https://open.spotify.com/track/5sPaqTbtkx7Jt2TJ8ODJF9) | [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI) | [Ranmilowo \(Help me\)](https://open.spotify.com/album/2gHd3qqLd7Kh19vk4MtIeM) | 2:53 |
 
-Snapshot ID: `AAAAADYLqjpoZ3r//U8sxX8dqW/riDAJ`
+Snapshot ID: `AAAAAECS59sOUsiTuknqmFSqdnuzHyN9`

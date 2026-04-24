@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17hgFa.md) - [plain]
 
 > This is Billie Holiday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,027 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,046 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17hgFa.md) - [plain]
 | 18 | [Easy Living](https://open.spotify.com/track/0XsbCr34semDxq0ZX84BCh) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday Love Songs](https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4) | 3:01 |
 | 19 | [On The Sunny Side Of The Street](https://open.spotify.com/track/16ARXAJAcL8ubHDpBLcqDQ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 2:59 |
 | 20 | [Easy To Love](https://open.spotify.com/track/5FVAdaE6kYzs49jpQviM05) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:59 |
-| 21 | [How Deep Is The Ocean?](https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 2:59 |
-| 22 | [Love Is Here To Stay](https://open.spotify.com/track/1OO3dnVkQTe3gQM1ItasyR) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/1q9Yh4EDALgMa8VYsI7bn5) | 3:42 |
+| 21 | [Love Is Here To Stay](https://open.spotify.com/track/1OO3dnVkQTe3gQM1ItasyR) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/1q9Yh4EDALgMa8VYsI7bn5) | 3:42 |
+| 22 | [How Deep Is The Ocean?](https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 2:59 |
 | 23 | [Fine And Mellow](https://open.spotify.com/track/1QdQ4r05QWhtcTTXOgRtyA) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:16 |
 | 24 | [I'm a Fool to Want You](https://open.spotify.com/track/6Rvz1jM5eUqzNs2Pi8RMTG) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady In Satin](https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA) | 3:25 |
-| 25 | [Good Morning Heartache](https://open.spotify.com/track/5jGqJTsejbAy7QdhAH2Qwp) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Lady Sings](https://open.spotify.com/album/12Ie61TJvvha9qm27suytg) | 3:08 |
-| 26 | [Do Nothin' Till You Hear From Me \- 1956 Version](https://open.spotify.com/track/2b27XKoKxVf2OpoSPnJilL) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/1q9Yh4EDALgMa8VYsI7bn5) | 4:15 |
+| 25 | [Do Nothin' Till You Hear From Me \- 1956 Version](https://open.spotify.com/track/2b27XKoKxVf2OpoSPnJilL) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/1q9Yh4EDALgMa8VYsI7bn5) | 4:15 |
+| 26 | [Good Morning Heartache](https://open.spotify.com/track/5jGqJTsejbAy7QdhAH2Qwp) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Lady Sings](https://open.spotify.com/album/12Ie61TJvvha9qm27suytg) | 3:08 |
 | 27 | [You Turned The Tables On Me](https://open.spotify.com/track/1Aa2phci2wSI0PWyoESUJA) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:26 |
 | 28 | [It Had To Be You](https://open.spotify.com/track/1l3tnchl5noYMXhMjjTvhf) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Music For Torching](https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY) | 4:03 |
 | 29 | [Too Marvelous For Words](https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 2:12 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17hgFa.md) - [plain]
 | 44 | [Baby, I Don't Cry Over You](https://open.spotify.com/track/5gXoSVnLyvxRFdvIhUElXS) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Billy Kyle and His Trio](https://open.spotify.com/artist/2Ru6Dj5tdUgAzLrXcXje7q) | [The Blues Are Brewin'](https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ) | 3:13 |
 | 45 | [No More](https://open.spotify.com/track/75yWDS1C4ZXKoJscUK1cdg) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday's Greatest Hits](https://open.spotify.com/album/6CqXthOJBMMmagymEEa8pl) | 2:45 |
 | 46 | [Willow Weep For Me](https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 3:06 |
-| 47 | [Foolin' Myself \(with Teddy Wilson & His Orchestra\)](https://open.spotify.com/track/3nIpFMbuhstntUZT4FpuPG) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [A Musical Romance](https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu) | 2:59 |
-| 48 | [There Is No Greater Love](https://open.spotify.com/track/2fSlY7Sv6ZKcTOkp1ki9xL) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lover Man](https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH) | 2:59 |
+| 47 | [There Is No Greater Love](https://open.spotify.com/track/2fSlY7Sv6ZKcTOkp1ki9xL) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lover Man](https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH) | 2:59 |
+| 48 | [Foolin' Myself \(with Teddy Wilson & His Orchestra\)](https://open.spotify.com/track/3nIpFMbuhstntUZT4FpuPG) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [A Musical Romance](https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu) | 2:59 |
 | 49 | [Come Rain Or Come Shine](https://open.spotify.com/track/20lPX0g0lacr7c72M8A0OR) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Music For Torching](https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY) | 4:24 |
 | 50 | [Gloomy Sunday \(with Teddy Wilson & His Orchestra\) \- Take 1](https://open.spotify.com/track/41CHb7F7SXcmkj0h8wekeF) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [Lady Day: The Complete Billie Holiday On Columbia \(1933\-1944\)](https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy) | 3:10 |
 
-Snapshot ID: `aeVsgAAAAAB2Ju8YaVKvcu18Qq+1MMqO`
+Snapshot ID: `aegPgAAAAABaP4qpsXDnXXABwcqkE5EI`

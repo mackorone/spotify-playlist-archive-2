@@ -1,6 +1,6 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2182531,
+  "num_followers": 2182543,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
@@ -71,38 +71,6 @@
     {
       "added_at": "2026-04-10 09:21:37",
       "album": {
-        "name": "Fair Weather",
-        "url": "https://open.spotify.com/album/0WElMAVB4r6VX75zorqBcd"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        }
-      ],
-      "duration_ms": 284493,
-      "name": "Fair Weather",
-      "url": "https://open.spotify.com/track/1dgCELvPBCSpPGYNNNNU9q"
-    },
-    {
-      "added_at": "2026-04-10 09:21:37",
-      "album": {
-        "name": "Omega",
-        "url": "https://open.spotify.com/album/2MxcrtQBHD4YbrPdCJaAY0"
-      },
-      "artists": [
-        {
-          "name": "Immanuel Wilkins",
-          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
-        }
-      ],
-      "duration_ms": 217800,
-      "name": "The Dreamer",
-      "url": "https://open.spotify.com/track/2UqYwWfjMDyCRnJc1Eebnn"
-    },
-    {
-      "added_at": "2026-04-10 09:21:37",
-      "album": {
         "name": "This Is Our Year",
         "url": "https://open.spotify.com/album/0vly6DrBxbf2tIUB33vOh0"
       },
@@ -131,6 +99,38 @@
       "duration_ms": 371894,
       "name": "This Is Our Year",
       "url": "https://open.spotify.com/track/24USzMZvsczfg3WsjUruPc"
+    },
+    {
+      "added_at": "2026-04-10 09:21:37",
+      "album": {
+        "name": "Omega",
+        "url": "https://open.spotify.com/album/2MxcrtQBHD4YbrPdCJaAY0"
+      },
+      "artists": [
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        }
+      ],
+      "duration_ms": 217800,
+      "name": "The Dreamer",
+      "url": "https://open.spotify.com/track/2UqYwWfjMDyCRnJc1Eebnn"
+    },
+    {
+      "added_at": "2026-04-10 09:21:37",
+      "album": {
+        "name": "Fair Weather",
+        "url": "https://open.spotify.com/album/0WElMAVB4r6VX75zorqBcd"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 284493,
+      "name": "Fair Weather",
+      "url": "https://open.spotify.com/track/1dgCELvPBCSpPGYNNNNU9q"
     },
     {
       "added_at": "2026-04-10 09:21:37",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-04-10 09:21:37",
       "album": {
+        "name": "Caris Hermes",
+        "url": "https://open.spotify.com/album/0MKfKZSFjgGYuBZsxe4HNz"
+      },
+      "artists": [
+        {
+          "name": "Caris Hermes",
+          "url": "https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0"
+        }
+      ],
+      "duration_ms": 166983,
+      "name": "Twelve for J.",
+      "url": "https://open.spotify.com/track/0B8qcFnV8anELirOWmOQQS"
+    },
+    {
+      "added_at": "2026-04-10 09:21:37",
+      "album": {
         "name": "Uncle John's Band",
         "url": "https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY"
       },
@@ -539,18 +555,18 @@
     {
       "added_at": "2026-04-10 09:21:37",
       "album": {
-        "name": "Caris Hermes",
-        "url": "https://open.spotify.com/album/0MKfKZSFjgGYuBZsxe4HNz"
+        "name": "The Shadow of Your Smile",
+        "url": "https://open.spotify.com/album/5qz2663lHFjJC9QYTu4JRC"
       },
       "artists": [
         {
-          "name": "Caris Hermes",
-          "url": "https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0"
+          "name": "Dominick Farinacci",
+          "url": "https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB"
         }
       ],
-      "duration_ms": 166983,
-      "name": "Twelve for J.",
-      "url": "https://open.spotify.com/track/0B8qcFnV8anELirOWmOQQS"
+      "duration_ms": 155741,
+      "name": "The Shadow of Your Smile",
+      "url": "https://open.spotify.com/track/1I7OMSoMhToGtA1QCTyTBw"
     },
     {
       "added_at": "2026-04-10 09:21:37",
@@ -567,22 +583,6 @@
       "duration_ms": 423813,
       "name": "Stream",
       "url": "https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0"
-    },
-    {
-      "added_at": "2026-04-10 09:21:37",
-      "album": {
-        "name": "The Shadow of Your Smile",
-        "url": "https://open.spotify.com/album/5qz2663lHFjJC9QYTu4JRC"
-      },
-      "artists": [
-        {
-          "name": "Dominick Farinacci",
-          "url": "https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB"
-        }
-      ],
-      "duration_ms": 155741,
-      "name": "The Shadow of Your Smile",
-      "url": "https://open.spotify.com/track/1I7OMSoMhToGtA1QCTyTBw"
     },
     {
       "added_at": "2026-04-10 09:21:37",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-04-10 09:21:37",
       "album": {
-        "name": "I Love Music",
-        "url": "https://open.spotify.com/album/7222mnyJDInGd0gsVn8GIY"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        }
-      ],
-      "duration_ms": 259252,
-      "name": "I Love Music",
-      "url": "https://open.spotify.com/track/6oAni9EYklGVd1ZOLThaW1"
-    },
-    {
-      "added_at": "2026-04-10 09:21:37",
-      "album": {
         "name": "Second Strike",
         "url": "https://open.spotify.com/album/3EaWLcF0zw4bj1EtGR7M4F"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 267565,
       "name": "Blue Sunday",
       "url": "https://open.spotify.com/track/4Xv1uPcCBF6vnh6cIEGJcR"
+    },
+    {
+      "added_at": "2026-04-10 09:21:37",
+      "album": {
+        "name": "I Love Music",
+        "url": "https://open.spotify.com/album/7222mnyJDInGd0gsVn8GIY"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 259252,
+      "name": "I Love Music",
+      "url": "https://open.spotify.com/track/6oAni9EYklGVd1ZOLThaW1"
     },
     {
       "added_at": "2026-04-10 09:21:37",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-04-10 09:21:37",
       "album": {
-        "name": "The Past Is What Changes The Most",
-        "url": "https://open.spotify.com/album/45BE8DHFlNKhNborMY1080"
-      },
-      "artists": [
-        {
-          "name": "Peace Flag Ensemble",
-          "url": "https://open.spotify.com/artist/3osiBkb0uSyLyMuWkWxjlU"
-        }
-      ],
-      "duration_ms": 225206,
-      "name": "The Past Is What Changes The Most",
-      "url": "https://open.spotify.com/track/6wJpJyoDAPr5wQ7w0hapGx"
-    },
-    {
-      "added_at": "2026-04-10 09:21:37",
-      "album": {
         "name": "Winter Rose",
         "url": "https://open.spotify.com/album/23yajgtCvy40lAZQswKdLr"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 412573,
       "name": "Winter Rose",
       "url": "https://open.spotify.com/track/181M7BzqRfNNcTB8uHDmyZ"
+    },
+    {
+      "added_at": "2026-04-10 09:21:37",
+      "album": {
+        "name": "The Past Is What Changes The Most",
+        "url": "https://open.spotify.com/album/45BE8DHFlNKhNborMY1080"
+      },
+      "artists": [
+        {
+          "name": "Peace Flag Ensemble",
+          "url": "https://open.spotify.com/artist/3osiBkb0uSyLyMuWkWxjlU"
+        }
+      ],
+      "duration_ms": 225206,
+      "name": "The Past Is What Changes The Most",
+      "url": "https://open.spotify.com/track/6wJpJyoDAPr5wQ7w0hapGx"
     },
     {
       "added_at": "2026-04-10 09:21:37",
@@ -1607,30 +1607,6 @@
     {
       "added_at": "2026-04-10 09:21:37",
       "album": {
-        "name": "Round Midnight",
-        "url": "https://open.spotify.com/album/2Pu9QJRzryo3Nxy8Yej26u"
-      },
-      "artists": [
-        {
-          "name": "Gustav Lundgren",
-          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
-        },
-        {
-          "name": "Par-Ola Landin",
-          "url": "https://open.spotify.com/artist/3NJu7iWtCAtWMAWhaWKwEr"
-        },
-        {
-          "name": "Karl-Henrik Ousb\u00e4ck",
-          "url": "https://open.spotify.com/artist/4S3y6LL6sBcjwwSEYknBwV"
-        }
-      ],
-      "duration_ms": 379245,
-      "name": "Round Midnight",
-      "url": "https://open.spotify.com/track/77Ws7XMrgFRt0wAulJ6UHF"
-    },
-    {
-      "added_at": "2026-04-10 09:21:37",
-      "album": {
         "name": "Familiar Route",
         "url": "https://open.spotify.com/album/6NaqAOB06PtpwTLyVxPBLd"
       },
@@ -1663,6 +1639,30 @@
       "duration_ms": 274760,
       "name": "Familiar Route",
       "url": "https://open.spotify.com/track/5PRynZnjxSqRUpVn0XeAor"
+    },
+    {
+      "added_at": "2026-04-10 09:21:37",
+      "album": {
+        "name": "Round Midnight",
+        "url": "https://open.spotify.com/album/2Pu9QJRzryo3Nxy8Yej26u"
+      },
+      "artists": [
+        {
+          "name": "Gustav Lundgren",
+          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
+        },
+        {
+          "name": "Par-Ola Landin",
+          "url": "https://open.spotify.com/artist/3NJu7iWtCAtWMAWhaWKwEr"
+        },
+        {
+          "name": "Karl-Henrik Ousb\u00e4ck",
+          "url": "https://open.spotify.com/artist/4S3y6LL6sBcjwwSEYknBwV"
+        }
+      ],
+      "duration_ms": 379245,
+      "name": "Round Midnight",
+      "url": "https://open.spotify.com/track/77Ws7XMrgFRt0wAulJ6UHF"
     },
     {
       "added_at": "2026-04-10 09:21:37",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2026-04-10 09:21:37",
       "album": {
-        "name": "No Cure",
-        "url": "https://open.spotify.com/album/23EyzXYYutdXgXOmYYJ9Xi"
-      },
-      "artists": [
-        {
-          "name": "Joel Lyssarides",
-          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
-        }
-      ],
-      "duration_ms": 263971,
-      "name": "No Cure",
-      "url": "https://open.spotify.com/track/0rKzWTVtKrYBaHzUFsbRA8"
-    },
-    {
-      "added_at": "2026-04-10 09:21:37",
-      "album": {
         "name": "Red Orange and Blue",
         "url": "https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 432226,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/5GSriSRLRA71Td2F3CR1Ni"
+    },
+    {
+      "added_at": "2026-04-10 09:21:37",
+      "album": {
+        "name": "No Cure",
+        "url": "https://open.spotify.com/album/23EyzXYYutdXgXOmYYJ9Xi"
+      },
+      "artists": [
+        {
+          "name": "Joel Lyssarides",
+          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
+        }
+      ],
+      "duration_ms": 263971,
+      "name": "No Cure",
+      "url": "https://open.spotify.com/track/0rKzWTVtKrYBaHzUFsbRA8"
     },
     {
       "added_at": "2026-04-10 09:21:37",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2026-04-10 09:21:37",
       "album": {
+        "name": "Tripwire",
+        "url": "https://open.spotify.com/album/3JfSiufEqo9JHzBhjyIa91"
+      },
+      "artists": [
+        {
+          "name": "Will Vinson",
+          "url": "https://open.spotify.com/artist/39xJEa28eWbVz5f3FSZLp5"
+        }
+      ],
+      "duration_ms": 369466,
+      "name": "Blue and Sentimental",
+      "url": "https://open.spotify.com/track/3ekVMZX5rGIrr8NJzPGnUN"
+    },
+    {
+      "added_at": "2026-04-10 09:21:37",
+      "album": {
         "name": "Secondo",
         "url": "https://open.spotify.com/album/7oJ1XC8Bd9jQqFKgxAFG7o"
       },
@@ -2043,22 +2059,6 @@
     {
       "added_at": "2026-04-10 09:21:37",
       "album": {
-        "name": "Tripwire",
-        "url": "https://open.spotify.com/album/3JfSiufEqo9JHzBhjyIa91"
-      },
-      "artists": [
-        {
-          "name": "Will Vinson",
-          "url": "https://open.spotify.com/artist/39xJEa28eWbVz5f3FSZLp5"
-        }
-      ],
-      "duration_ms": 369466,
-      "name": "Blue and Sentimental",
-      "url": "https://open.spotify.com/track/3ekVMZX5rGIrr8NJzPGnUN"
-    },
-    {
-      "added_at": "2026-04-10 09:21:37",
-      "album": {
         "name": "Afflicted",
         "url": "https://open.spotify.com/album/4v06oJOfNl5gZ6nOjb33VA"
       },
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2026-04-10 09:21:37",
       "album": {
-        "name": "The Deep",
-        "url": "https://open.spotify.com/album/4QzD6FhbxRYxBLrIgixMN7"
-      },
-      "artists": [
-        {
-          "name": "Juraj Stanik Trio",
-          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
-        }
-      ],
-      "duration_ms": 176871,
-      "name": "Close Enough for Love",
-      "url": "https://open.spotify.com/track/6AeSkcai2NrmpJkSltzYsS"
-    },
-    {
-      "added_at": "2026-04-10 09:21:37",
-      "album": {
         "name": "Love Letters (The Ballad Sessions)",
         "url": "https://open.spotify.com/album/1S9fKb1LsKDJge0X5KvsaO"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 310182,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/26pIDw68F6bO8Qk0IHtXE7"
+    },
+    {
+      "added_at": "2026-04-10 09:21:37",
+      "album": {
+        "name": "The Deep",
+        "url": "https://open.spotify.com/album/4QzD6FhbxRYxBLrIgixMN7"
+      },
+      "artists": [
+        {
+          "name": "Juraj Stanik Trio",
+          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
+        }
+      ],
+      "duration_ms": 176871,
+      "name": "Close Enough for Love",
+      "url": "https://open.spotify.com/track/6AeSkcai2NrmpJkSltzYsS"
     },
     {
       "added_at": "2026-04-10 09:21:37",
@@ -2311,6 +2311,30 @@
     {
       "added_at": "2026-04-10 09:21:37",
       "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/6dg81LClJnOYRrxsQMKrw3"
+      },
+      "artists": [
+        {
+          "name": "Ari Bragi K\u00e1rason",
+          "url": "https://open.spotify.com/artist/14dnPD91TVkTNQ09DDXkDW"
+        },
+        {
+          "name": "Karl-Martin Almqvist",
+          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        }
+      ],
+      "duration_ms": 198709,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/6arlOMZlYZZffIyRh3brB8"
+    },
+    {
+      "added_at": "2026-04-10 09:21:37",
+      "album": {
         "name": "Cycles",
         "url": "https://open.spotify.com/album/2tkvHgxZAjDZZb6eQ2lGkZ"
       },
@@ -2343,22 +2367,6 @@
     {
       "added_at": "2026-04-10 09:21:37",
       "album": {
-        "name": "Nancy (with the Laughing Face)",
-        "url": "https://open.spotify.com/album/2Lj7miVFzrkyI0d3dbc1aO"
-      },
-      "artists": [
-        {
-          "name": "CLC TRIO",
-          "url": "https://open.spotify.com/artist/55Nzzm5voEkVZ1rzKq10Rr"
-        }
-      ],
-      "duration_ms": 378197,
-      "name": "Nancy (with the Laughing Face)",
-      "url": "https://open.spotify.com/track/6TKM3SZVfwS7G0qsqyWfzk"
-    },
-    {
-      "added_at": "2026-04-10 09:21:37",
-      "album": {
         "name": "We'll Be Together Again",
         "url": "https://open.spotify.com/album/1bzgX2nMfXveMPGZOYNzZ7"
       },
@@ -2379,6 +2387,22 @@
       "duration_ms": 308193,
       "name": "We'll Be Together Again",
       "url": "https://open.spotify.com/track/7a4Pzn2ppZP1GNLyrgL4J8"
+    },
+    {
+      "added_at": "2026-04-10 09:21:37",
+      "album": {
+        "name": "Nancy (with the Laughing Face)",
+        "url": "https://open.spotify.com/album/2Lj7miVFzrkyI0d3dbc1aO"
+      },
+      "artists": [
+        {
+          "name": "CLC TRIO",
+          "url": "https://open.spotify.com/artist/55Nzzm5voEkVZ1rzKq10Rr"
+        }
+      ],
+      "duration_ms": 378197,
+      "name": "Nancy (with the Laughing Face)",
+      "url": "https://open.spotify.com/track/6TKM3SZVfwS7G0qsqyWfzk"
     },
     {
       "added_at": "2026-04-10 09:21:37",
@@ -2463,22 +2487,6 @@
     {
       "added_at": "2026-04-10 09:21:37",
       "album": {
-        "name": "From The Mountains",
-        "url": "https://open.spotify.com/album/6eSbOxKBVFiUUF8iKSs9aB"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        }
-      ],
-      "duration_ms": 500435,
-      "name": "From The Mountains",
-      "url": "https://open.spotify.com/track/7evvPuIQkcJEPki0t5nkxd"
-    },
-    {
-      "added_at": "2026-04-10 09:21:37",
-      "album": {
         "name": "Never Let Me Go",
         "url": "https://open.spotify.com/album/5VrAw3xklXBNIGVelKK2pG"
       },
@@ -2503,6 +2511,22 @@
     {
       "added_at": "2026-04-10 09:21:37",
       "album": {
+        "name": "From The Mountains",
+        "url": "https://open.spotify.com/album/6eSbOxKBVFiUUF8iKSs9aB"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "duration_ms": 500435,
+      "name": "From The Mountains",
+      "url": "https://open.spotify.com/track/7evvPuIQkcJEPki0t5nkxd"
+    },
+    {
+      "added_at": "2026-04-10 09:21:37",
+      "album": {
         "name": "Alfie",
         "url": "https://open.spotify.com/album/4ZkR2XXyHE373ZUv8k2CNY"
       },
@@ -2523,30 +2547,6 @@
       "duration_ms": 499328,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/6WiOLR12myN6odhdOcwC9P"
-    },
-    {
-      "added_at": "2026-04-10 09:21:37",
-      "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/6dg81LClJnOYRrxsQMKrw3"
-      },
-      "artists": [
-        {
-          "name": "Ari Bragi K\u00e1rason",
-          "url": "https://open.spotify.com/artist/14dnPD91TVkTNQ09DDXkDW"
-        },
-        {
-          "name": "Karl-Martin Almqvist",
-          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
-        },
-        {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
-        }
-      ],
-      "duration_ms": 198709,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/6arlOMZlYZZffIyRh3brB8"
     },
     {
       "added_at": "2026-04-10 09:21:37",

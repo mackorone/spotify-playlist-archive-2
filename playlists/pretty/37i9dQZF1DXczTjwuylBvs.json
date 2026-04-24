@@ -1,6 +1,6 @@
 {
   "description": "All the best songs from your favorite classic Disney films, TV shows and more.",
-  "num_followers": 410142,
+  "num_followers": 410180,
   "original_name": "Disney Classics",
   "owner": {
     "name": "Spotify",
@@ -911,6 +911,14 @@
         "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
       },
       "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
         {
           "name": "Samuel E. Wright",
           "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"

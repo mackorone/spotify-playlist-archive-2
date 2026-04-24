@@ -2912,7 +2912,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 180832,
       "name": "Arrependida\u00e7o (Onde Voc\u00ea Anda)",
       "url": "https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces"
@@ -7886,10 +7886,32 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 248133,
       "name": "Confident",
       "url": "https://open.spotify.com/track/3JsydWaf2Ev4ehaLUjj3SY"
+    },
+    {
+      "album": {
+        "name": "Journals",
+        "url": "https://open.spotify.com/album/0PZY8Rxtm8ujGlGIQISqRL"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248146,
+      "name": "Confident - Single Version",
+      "url": "https://open.spotify.com/track/6czM6UMQD9qE5GAUp68oud"
     },
     {
       "album": {
@@ -10488,7 +10510,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -17766,7 +17788,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -27448,7 +27470,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 110769,
       "name": "PEGA A MALDADE DA BANDIDA",
       "url": "https://open.spotify.com/track/588PdhJdtsuypJdUb4ms4K"
@@ -32504,7 +32526,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 518783,
       "name": "SET DO JAPA NK 2.0",
       "url": "https://open.spotify.com/track/1JZDwJgE9VSC0V2GR66z63"
@@ -37644,7 +37666,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 168047,
       "name": "Tu na Tua",
       "url": "https://open.spotify.com/track/0dKgbCUSt2Ig01fWrPriHk"

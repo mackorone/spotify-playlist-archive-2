@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: モナキ
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,765 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,781 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,20 +20,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 10 | [two](https://open.spotify.com/track/02qqbVSYkDc6FTClN5gwH5) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [bbno$](https://open.spotify.com/album/6NnOcPG7uLUSpJTS83Ra1T) | 2:15 |
 | 11 | [君の恋人になったら](https://open.spotify.com/track/0k4KaqElLVjdR6sVHPTS6h) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ハッピーエンド](https://open.spotify.com/album/756KBTfY0YiHQNkg3UJhR6) | 4:04 |
 | 12 | [ツンデレ](https://open.spotify.com/track/4ZV0sDpdtIScjt8oeBNEHV) | [なえなの](https://open.spotify.com/artist/4AkYIS5laEOXhlRNBEPaiM), [セカンドバッカー](https://open.spotify.com/artist/1eoddE8A9kEX2amRoYSZJr) | [ツンデレ](https://open.spotify.com/album/1Q5qwdHsxSh4MwRQusVLpd) | 3:05 |
-| 13 | [Theater](https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [STARRING](https://open.spotify.com/album/32NZKUbT5ls5kYZy1j6yAM) | 3:20 |
-| 14 | [SWEET STEP](https://open.spotify.com/track/1tZ8w3UVU4KbABQArIlUmk) | [SWEET STEADY](https://open.spotify.com/artist/1UyIqMBjk0DMexWtQF2X1i) | [SWEET STEP](https://open.spotify.com/album/5wovGLGVXOz9b0yRVqszEL) | 2:43 |
-| 15 | [TOKYO DRIFT](https://open.spotify.com/track/4bNEc5GcevI0JyvVgTv2nZ) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [GATHER](https://open.spotify.com/album/5RMTQ1Qu7bGVyDmyhAXzdC) | 3:08 |
-| 16 | [Fly\-day Chinatown](https://open.spotify.com/track/2uXlHiOE4o5xHOCiob8DKn) | [Yasuha](https://open.spotify.com/artist/0W2BSNBblzlWTk4bD2A9uR) | [Fly\-day Chinatown](https://open.spotify.com/album/0dO2tsQmsZzsPnR9qDWTlP) | 3:28 |
-| 17 | [冬の魔法](https://open.spotify.com/track/7Ez0TwE0PKAkJG9x7mhBEU) | [Aogumo](https://open.spotify.com/artist/605C4AcUUwB66JjpKjX1aO) | [冬の魔法](https://open.spotify.com/album/5S7Lefial9F6o8iX5OxSpe) | 3:07 |
-| 18 | [Chatter Chatter](https://open.spotify.com/track/5nUfkXOhypzToRLwVrNNGE) | [宝鐘マリン](https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Chatter Chatter](https://open.spotify.com/album/682wGcWnOVdyjfrzJVwLMb) | 2:38 |
-| 19 | [パズル](https://open.spotify.com/track/2vdoeTuRLpYeyo3JZC9yzR) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [パズル](https://open.spotify.com/album/374nxZf7LeBYBvUVKx4fMt) | 3:16 |
-| 20 | [favorite song](https://open.spotify.com/track/4QH4KTgj0wYHDj5fTMCRmN) | [ふみの](https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx) | [favorite song](https://open.spotify.com/album/2Xf4q86Yo6rSRA1w8lS6nH) | 3:21 |
-| 21 | [君がおじいちゃんあたしがおばあちゃん](https://open.spotify.com/track/1SgwiPVpQ6tV3UnWGPlv5H) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [日々愛々](https://open.spotify.com/album/7A82mHia7alj13QXGc6MDQ) | 3:41 |
-| 22 | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/track/7L1gMHl2Hd65Yt4J8IhIk5) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/album/2RoCdV0YAeOcc96olS0Tyj) | 5:22 |
-| 23 | [アニョハセヨ](https://open.spotify.com/track/79o6CP5pgfHARPPXRHOcBN) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy) | [アニョハセヨ](https://open.spotify.com/album/2Vxwq1HTQ54jYHyinyIgWl) | 1:56 |
-| 24 | [犬とバカ猫](https://open.spotify.com/track/5CifiKtU7pNzCQ9GdV3xfE) | [セカンドバッカー](https://open.spotify.com/artist/1eoddE8A9kEX2amRoYSZJr) | [犬とバカ猫](https://open.spotify.com/album/65467rSxnHNRnRlHHY6412) | 3:14 |
-| 25 | [プロポーズ](https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [プロポーズ](https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq) | 2:58 |
-| 26 | [medicine](https://open.spotify.com/track/72SOp62ne2tErJqwlGEHQj) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [medicine](https://open.spotify.com/album/4zJib3YlaVcLh9NLRpg8MV) | 2:42 |
+| 13 | [mosi mosi?](https://open.spotify.com/track/76oCvJj6LRoed2754GybpH) | [楽音](https://open.spotify.com/artist/4W11pDowC8EO7a6cR5WO9L) | [mosi mosi?](https://open.spotify.com/album/7f1NEFlfunI7TMwrE886W5) | 2:43 |
+| 14 | [Theater](https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [STARRING](https://open.spotify.com/album/32NZKUbT5ls5kYZy1j6yAM) | 3:20 |
+| 15 | [SWEET STEP](https://open.spotify.com/track/1tZ8w3UVU4KbABQArIlUmk) | [SWEET STEADY](https://open.spotify.com/artist/1UyIqMBjk0DMexWtQF2X1i) | [SWEET STEP](https://open.spotify.com/album/5wovGLGVXOz9b0yRVqszEL) | 2:43 |
+| 16 | [TOKYO DRIFT](https://open.spotify.com/track/4bNEc5GcevI0JyvVgTv2nZ) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [GATHER](https://open.spotify.com/album/5RMTQ1Qu7bGVyDmyhAXzdC) | 3:08 |
+| 17 | [Fly\-day Chinatown](https://open.spotify.com/track/2uXlHiOE4o5xHOCiob8DKn) | [Yasuha](https://open.spotify.com/artist/0W2BSNBblzlWTk4bD2A9uR) | [Fly\-day Chinatown](https://open.spotify.com/album/0dO2tsQmsZzsPnR9qDWTlP) | 3:28 |
+| 18 | [冬の魔法](https://open.spotify.com/track/7Ez0TwE0PKAkJG9x7mhBEU) | [Aogumo](https://open.spotify.com/artist/605C4AcUUwB66JjpKjX1aO) | [冬の魔法](https://open.spotify.com/album/5S7Lefial9F6o8iX5OxSpe) | 3:07 |
+| 19 | [Chatter Chatter](https://open.spotify.com/track/5nUfkXOhypzToRLwVrNNGE) | [宝鐘マリン](https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Chatter Chatter](https://open.spotify.com/album/682wGcWnOVdyjfrzJVwLMb) | 2:38 |
+| 20 | [パズル](https://open.spotify.com/track/2vdoeTuRLpYeyo3JZC9yzR) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [パズル](https://open.spotify.com/album/374nxZf7LeBYBvUVKx4fMt) | 3:16 |
+| 21 | [favorite song](https://open.spotify.com/track/4QH4KTgj0wYHDj5fTMCRmN) | [ふみの](https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx) | [favorite song](https://open.spotify.com/album/2Xf4q86Yo6rSRA1w8lS6nH) | 3:21 |
+| 22 | [君がおじいちゃんあたしがおばあちゃん](https://open.spotify.com/track/1SgwiPVpQ6tV3UnWGPlv5H) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [日々愛々](https://open.spotify.com/album/7A82mHia7alj13QXGc6MDQ) | 3:41 |
+| 23 | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/track/7L1gMHl2Hd65Yt4J8IhIk5) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/album/2RoCdV0YAeOcc96olS0Tyj) | 5:22 |
+| 24 | [アニョハセヨ](https://open.spotify.com/track/79o6CP5pgfHARPPXRHOcBN) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy) | [アニョハセヨ](https://open.spotify.com/album/2Vxwq1HTQ54jYHyinyIgWl) | 1:56 |
+| 25 | [犬とバカ猫](https://open.spotify.com/track/5CifiKtU7pNzCQ9GdV3xfE) | [セカンドバッカー](https://open.spotify.com/artist/1eoddE8A9kEX2amRoYSZJr) | [犬とバカ猫](https://open.spotify.com/album/65467rSxnHNRnRlHHY6412) | 3:14 |
+| 26 | [プロポーズ](https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [プロポーズ](https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq) | 2:58 |
 | 27 | [織姫とBABY](https://open.spotify.com/track/2RMBCQdXkfFArpX3NIuuNm) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld), [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [織姫とBABY](https://open.spotify.com/album/3kDCegnvxc2zbSHrghMhQD) | 3:42 |
 | 28 | [シルエット](https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/45z2ntx53Y0d42S9IpN6OH) | 4:00 |
 | 29 | [中華料理屋の酢豚が食べたい](https://open.spotify.com/track/4V6SOpJTzJALfNivDuouLJ) | [Rinko](https://open.spotify.com/artist/6eOehyQmnIKAN8ahkzMglf) | [中華料理屋の酢豚が食べたい](https://open.spotify.com/album/2vd7mmBOx2C9XmmLiS90Xp) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [Kawaii Kaiwai](https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl) | [PiKi](https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T) | [Kawaii Kaiwai](https://open.spotify.com/album/1XHqGyZQTFzkomOfVttZtm) | 2:33 |
 | 50 | [野良猫](https://open.spotify.com/track/208BzJ6J8QKcmvRt77hOtv) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [YUKAKO](https://open.spotify.com/album/6LOKVxFzL25htq0rK4z1oI) | 4:01 |
 
-Snapshot ID: `AAAAAERTr9jTrv1HuLk4+tGT0eHGJOj2`
+Snapshot ID: `AAAAAJ3+u6VOY7/rivXswD/CwiVHauK/`

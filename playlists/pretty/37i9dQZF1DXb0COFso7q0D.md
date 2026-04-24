@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > La playlist sin fronteras, elevando a la Música Mexicana\. Cover: Clave Especial, Los Gemelos De Sinaloa & Fuerza Regida
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,255,613 likes - 67 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,255,080 likes - 67 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

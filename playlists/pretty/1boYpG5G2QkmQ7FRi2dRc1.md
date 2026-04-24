@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 278,320 likes - 64 songs - 3 hr 32 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 278,299 likes - 64 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 32 | [If You](https://open.spotify.com/track/2PvVkI3P9Z2on1G1vNn2uB) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [If You](https://open.spotify.com/album/2KvJjcipHCM9DsjwEJXblM) | 3:20 |
 | 33 | [ur world](https://open.spotify.com/track/6sebQAJWYYNyRwHLIeDvko) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [ur world](https://open.spotify.com/album/0PYMW2KuyFzeeSThG5wAny) | 3:08 |
 | 34 | [In Love](https://open.spotify.com/track/7LiBdIjTaowl2NIy92FA3g) | [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Gwen Guthrie](https://open.spotify.com/artist/77HthcNFa6SbicRaQKdhyy) | [In Love](https://open.spotify.com/album/5S8RSxz5dhVO1hEwbhl9JK) | 3:44 |
-| 35 | [ifidiewouldyoucry](https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [ifidiewouldyoucry](https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV) | 2:55 |
+| 35 | [ifidiewouldyoucry](https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [ifidiewouldyoucry](https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV) | 2:55 |
 | 36 | [I Want Ya](https://open.spotify.com/track/46YPT8AJc1OTx8RxD0jJyQ) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [IsGwan](https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz) | [EIGHT](https://open.spotify.com/album/0RPquFmrpgt3KYLpQt1bYt) | 4:23 |
 | 37 | [Right Nahh](https://open.spotify.com/track/0WMZSRpCfrUwmqTUaqQZa3) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Right Nahh](https://open.spotify.com/album/2g99IUCFyi04QOYvPd6NDn) | 2:29 |
 | 38 | [In The Night](https://open.spotify.com/track/4WXZPZN2NiscRBsKgnyP1u) | [Konfluence](https://open.spotify.com/artist/7JyasTOKEafH9yCQehDDbh) | [In The Night](https://open.spotify.com/album/46HQBy5t9gY4NatGZm57vO) | 3:44 |

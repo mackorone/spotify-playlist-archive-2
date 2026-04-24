@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 
 > Use Delta frequencies for the best night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,604 likes - 148 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,996 likes - 148 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 | 95 | [Mystic Melodie \(Delta 79.3 \- 83.5 Hz\)](https://open.spotify.com/track/4x57yPzbKBubRutoe9rCHg) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Mystic Melodie \(Delta 79.3 \- 83.5 Hz\)](https://open.spotify.com/album/4fiARSvNosXQsXx9QNjb3R) | 2:50 |
 | 96 | [Fragancia Delta 91Hz \- 94 Hz](https://open.spotify.com/track/5ThUIvyrQ0vmFRyUaAgQeT) | [Rerose](https://open.spotify.com/artist/6LcZxTjlhi7vsqM2acZonn) | [Fragancia Delta 91Hz \- 94 Hz](https://open.spotify.com/album/2VGGX8pqpJTIYluUNaoRj7) | 2:06 |
 | 97 | [Behind the Wall \(Delta Wave 2.5 Hz\)](https://open.spotify.com/track/7HLvT7GdFDKARKPx4Kqs4M) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Obsidian \(Binaural Beat Remix\)](https://open.spotify.com/album/5MDw4nbZfhpreocqNAShM1) | 3:44 |
-| 98 | [Unter dem Himmelszelt Delta Sinus 99Hz \- 102Hz](https://open.spotify.com/track/17oMg9bmY7DCU1VO4ucXyI) | [Sleeping Stars](https://open.spotify.com/artist/54dYMs8urBZyC8MDEifWuc) | [Subconcious](https://open.spotify.com/album/0PR5aydbGJutcoABq6Ja3o) | 3:24 |
+| 98 | [Unter dem Himmelszelt Delta Sinus 99Hz \- 102Hz](https://open.spotify.com/track/17oMg9bmY7DCU1VO4ucXyI) | [Sleeping Stars](https://open.spotify.com/artist/1AfGmFpuMLBOHl2nWCqjYt) | [Subconcious](https://open.spotify.com/album/0PR5aydbGJutcoABq6Ja3o) | 3:24 |
 | 99 | [Dark Blue \(Delta 124 Hz \- 127 Hz\)](https://open.spotify.com/track/3XrAci11gTweKd4odCVBAO) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Colors](https://open.spotify.com/album/5YRZc34LMwheVAwDJX9u2x) | 2:46 |
 | 100 | [Binaural Waves 120Hz \- 123Hz Delta](https://open.spotify.com/track/44W2LMIF4TmESsTF1uqjIz) | [Orbinaural](https://open.spotify.com/artist/773OVPfLKsc6qeX8adasFj) | [Binaural Dreams](https://open.spotify.com/album/0LpUvovOq0Fh4XFaWtKRZ6) | 2:43 |
 | 101 | [Exit Delta 65\-68 Hz](https://open.spotify.com/track/3HFVCgUl49XPQ38eIAmSep) | [Oxling](https://open.spotify.com/artist/73SkmKIR5vRmySvCyc45cQ) | [Exit Delta 65\-68 Hz](https://open.spotify.com/album/63hlDltd4wd3lEoak3lYUH) | 3:18 |
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 | 111 | [Zen Delta Waves](https://open.spotify.com/track/5vrwJbrwiJRhLIin2qpoyn) | [Sonoramic](https://open.spotify.com/artist/4CAMxaEbGwkhKqWBLcI7AA) | [Binaural Sounds for Studying](https://open.spotify.com/album/6QXRYdfKCtYXKG0CiNK7Sc) | 3:32 |
 | 112 | [Higher Dreams \(Delta Waves\)](https://open.spotify.com/track/6Zw4Jka2SBzuEeEquCobrB) | [Higher Dreams](https://open.spotify.com/artist/0FflPWbB901dNyJ5vLQMGs) | [Higher Dreams](https://open.spotify.com/album/5qdxTZUkIRXux6K5bWFxLb) | 2:34 |
 | 113 | [Quiet Repose \(Delta Binaural\)](https://open.spotify.com/track/1SSyFNx4h5oSZXf8o3l6U1) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Quiet Repose & Undulating Peace \(Delta Binaural\)](https://open.spotify.com/album/4YG95wbpFpc0R98BprpowX) | 3:22 |
-| 114 | [Subconcious Delta Sinus 104Hz \- 106Hz](https://open.spotify.com/track/0TPns33GmXwiHO40SqeE4q) | [Sleeping Stars](https://open.spotify.com/artist/54dYMs8urBZyC8MDEifWuc) | [Subconcious](https://open.spotify.com/album/0PR5aydbGJutcoABq6Ja3o) | 3:07 |
+| 114 | [Subconcious Delta Sinus 104Hz \- 106Hz](https://open.spotify.com/track/0TPns33GmXwiHO40SqeE4q) | [Sleeping Stars](https://open.spotify.com/artist/1AfGmFpuMLBOHl2nWCqjYt) | [Subconcious](https://open.spotify.com/album/0PR5aydbGJutcoABq6Ja3o) | 3:07 |
 | 115 | [Slow Delta Soothe 96Hz \- 98Hz](https://open.spotify.com/track/6VEEg3q83KL26gj3zuT7Fn) | [Northern Sines](https://open.spotify.com/artist/6TWxyoPlukVztmpleDmXl3) | [Slow Delta Soothe 96Hz \- 98Hz](https://open.spotify.com/album/3epBpB6BhuQH5mAI3QqqDt) | 3:02 |
 | 116 | [Delta 4 Hz Drone](https://open.spotify.com/track/4frZaw0LM9m8OpE9wbs8O3) | [Source Dimension](https://open.spotify.com/artist/3z3CegfPYP7ql4oU0pfCWf) | [Sinus Drones](https://open.spotify.com/album/6GleEVvhpKS2K8ftr68BIF) | 3:18 |
 | 117 | [Deep Sleep Binaural Delta 78.5Hz \- 79.9Hz](https://open.spotify.com/track/0WmfEIR6NXfT84mMFJsUHz) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [Delta Still](https://open.spotify.com/album/1KbXBAzOSYmSKc2REocKZZ) | 3:07 |

@@ -946,7 +946,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 340194,
       "name": "Dawa Yangu (feat. Bony Mwaitege)",
       "url": "https://open.spotify.com/track/2Tk34qaKsggZJNRzBnoBlR"
@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 228682,
       "name": "God Is Good",
       "url": "https://open.spotify.com/track/0LFir0yRLOrcTwTOcIe7P1"
@@ -1672,7 +1672,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 289938,
       "name": "Jina Takatifu",
       "url": "https://open.spotify.com/track/7tUw7l5NOyvzfLr6EFjjMf"
@@ -2361,6 +2361,28 @@
     },
     {
       "album": {
+        "name": "Mimi Ni Nani",
+        "url": "https://open.spotify.com/album/5k7aWih3d9gWADUBYeXbrk"
+      },
+      "artists": [
+        {
+          "name": "Les Rachats Classic",
+          "url": "https://open.spotify.com/artist/1B0JEDCX84c3ausYRdI3vS"
+        },
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231490,
+      "name": "Mimi Ni Nani",
+      "url": "https://open.spotify.com/track/44ncfiUgX6yALTpPTaFaL1"
+    },
+    {
+      "album": {
         "name": "Mimi Ni Wa Juu",
         "url": "https://open.spotify.com/album/6OYWPLTZstNkzi8de2fRdB"
       },
@@ -2702,7 +2724,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 244500,
       "name": "Msaada",
       "url": "https://open.spotify.com/track/3QxGvXzFz43WkhdhwOXDGY"
@@ -2804,6 +2826,32 @@
       "duration_ms": 187200,
       "name": "Mtoto Wa Mfalme",
       "url": "https://open.spotify.com/track/14YcZqpGB5iO1W3AQGRue8"
+    },
+    {
+      "album": {
+        "name": "Muite",
+        "url": "https://open.spotify.com/album/13Pn0xSbyT6pdR6BS9DSP7"
+      },
+      "artists": [
+        {
+          "name": "Eve Nyasha Ngoloma",
+          "url": "https://open.spotify.com/artist/3SQ5WVOVJxLhEWztbS3Ba5"
+        },
+        {
+          "name": "PAUL CLEMENT",
+          "url": "https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR"
+        },
+        {
+          "name": "Kambua",
+          "url": "https://open.spotify.com/artist/5dIF0Bc36g8YZ5UHYwGHFo"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1170434,
+      "name": "Muite",
+      "url": "https://open.spotify.com/track/10sMPOHkPKyglRQCjLUJyC"
     },
     {
       "album": {
@@ -5242,7 +5290,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 197333,
       "name": "Timiza",
       "url": "https://open.spotify.com/track/33OumnvH7kcJDrLA75ayVb"
@@ -5450,7 +5498,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 235200,
       "name": "Umenipendelea",
       "url": "https://open.spotify.com/track/7vtGFwGDUSkxwaENLmTy8t"
@@ -5544,7 +5592,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 214088,
       "name": "Unamuwinda Nani",
       "url": "https://open.spotify.com/track/5OCq8laibCFBy2U6XyBZvX"
@@ -6250,7 +6298,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 181090,
       "name": "Weza",
       "url": "https://open.spotify.com/track/6w4BSdXsQzPF6BVcV0Zao4"
@@ -6468,6 +6516,28 @@
       "duration_ms": 142996,
       "name": "Yesu Nitie Nguvu",
       "url": "https://open.spotify.com/track/6ei3elKMjid5GSnWAXwS6q"
+    },
+    {
+      "album": {
+        "name": "Yesu Tu",
+        "url": "https://open.spotify.com/album/2h7bZxmqya57VGujgafvgV"
+      },
+      "artists": [
+        {
+          "name": "Henrick Mruma",
+          "url": "https://open.spotify.com/artist/75HhdVUtJVRpYK4vRtClCU"
+        },
+        {
+          "name": "Pastor Josiah",
+          "url": "https://open.spotify.com/artist/6PypfrJLo9zmwthye6qEwh"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 970500,
+      "name": "Yesu Tu",
+      "url": "https://open.spotify.com/track/1y7pd47wfMl8bnoBPyJXLv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXa9bqOzK42BZ"

@@ -148,7 +148,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 315882,
       "name": "A Very Tender Mind",
       "url": "https://open.spotify.com/track/60gRmXVCRBtFjhBiTyuO8E"
@@ -1595,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "Rock Like This EP",
+        "url": "https://open.spotify.com/album/6gSmK3aSu26VRpaaOlFqjt"
+      },
+      "artists": [
+        {
+          "name": "Amour Propre",
+          "url": "https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200951,
+      "name": "Blurred Signal",
+      "url": "https://open.spotify.com/track/3KhfmxD6U9ll0mFgArrQTe"
+    },
+    {
+      "album": {
         "name": "Boavista Remixes",
         "url": "https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa"
       },
@@ -1858,7 +1876,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 252412,
       "name": "BURN",
       "url": "https://open.spotify.com/track/3LWRykdR0ZkYiljTRqnPcq"
@@ -2238,6 +2256,24 @@
       "duration_ms": 208358,
       "name": "Cinecitt\u00e0",
       "url": "https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0nI7aCghT6qgLfWzTkS3XA"
+      },
+      "artists": [
+        {
+          "name": "Kristian Llov",
+          "url": "https://open.spotify.com/artist/5I8TkdfxJsKIEGhGQSBmyc"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178616,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/6XeyK7aMTmNbS9G7VKQdhw"
     },
     {
       "album": {
@@ -4975,6 +5011,24 @@
     },
     {
       "album": {
+        "name": "Sandoz EP",
+        "url": "https://open.spotify.com/album/2fSpPnAKojM3pZbz05NGvO"
+      },
+      "artists": [
+        {
+          "name": "Samer Soltan",
+          "url": "https://open.spotify.com/artist/5cOdeiFBqRyXSDUJbnInuX"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222376,
+      "name": "Horagon",
+      "url": "https://open.spotify.com/track/587PvnSzSvgRju1m8TAPmY"
+    },
+    {
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/1Vc0JlTLauPwn1lXC7mfCV"
       },
@@ -5400,6 +5454,24 @@
       "duration_ms": 361703,
       "name": "I Won't Go",
       "url": "https://open.spotify.com/track/4wihcfLFZXBu783CbgRHyZ"
+    },
+    {
+      "album": {
+        "name": "I've Been Cooking",
+        "url": "https://open.spotify.com/album/1Jc8HGh06pA7sWHKAWDD5K"
+      },
+      "artists": [
+        {
+          "name": "Kellerkind",
+          "url": "https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324738,
+      "name": "I've Been Cooking",
+      "url": "https://open.spotify.com/track/7Co8TyGtGyqRdfvnFqwZYh"
     },
     {
       "album": {
@@ -7374,6 +7446,24 @@
     {
       "album": {
         "name": "Move",
+        "url": "https://open.spotify.com/album/0TmAvoXHWAGgzteBGHGVob"
+      },
+      "artists": [
+        {
+          "name": "Anna Reusch",
+          "url": "https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228387,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/1XyO7zz6B4zMtUzVrP5G1C"
+    },
+    {
+      "album": {
+        "name": "Move",
         "url": "https://open.spotify.com/album/2O1q3IboqaR8KEDRy2cDRc"
       },
       "artists": [
@@ -7934,7 +8024,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 161000,
       "name": "nothin lasts 4ever",
       "url": "https://open.spotify.com/track/1uriDwfQjwE54CXc14xkSo"
@@ -8934,7 +9024,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 144960,
       "name": "RACER",
       "url": "https://open.spotify.com/track/7IqrsY0SHIDdWgIJMIUzpZ"
@@ -8978,6 +9068,24 @@
       "duration_ms": 408866,
       "name": "Radix",
       "url": "https://open.spotify.com/track/500IbSzCDw1kwSCQJTI1HO"
+    },
+    {
+      "album": {
+        "name": "Rafat / Dunya",
+        "url": "https://open.spotify.com/album/0TvFRq331qEssVIo6KsLgA"
+      },
+      "artists": [
+        {
+          "name": "Ninetoes",
+          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327272,
+      "name": "Rafat",
+      "url": "https://open.spotify.com/track/4nTRXtFhtg3CpvlujnfEOL"
     },
     {
       "album": {
@@ -9250,6 +9358,28 @@
       "duration_ms": 446999,
       "name": "Resistance",
       "url": "https://open.spotify.com/track/76TAjkJMvZIjpxWlbRN8sE"
+    },
+    {
+      "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/69hh2tQ34vrWH6VnbOJ7OP"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "THELMA",
+          "url": "https://open.spotify.com/artist/6FmmPwPeUC5mYKHF6mkulm"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156850,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/6NGgmMjUaqD8dAM2lszTPI"
     },
     {
       "album": {
@@ -9883,6 +10013,24 @@
     },
     {
       "album": {
+        "name": "Setting Off",
+        "url": "https://open.spotify.com/album/0VWJeZKcSOa5JX2ZwwAJ4L"
+      },
+      "artists": [
+        {
+          "name": "PALASTIC",
+          "url": "https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158671,
+      "name": "Setting Off",
+      "url": "https://open.spotify.com/track/3yoSGnKXjego8YDQC4z1m7"
+    },
+    {
+      "album": {
         "name": "She Could!",
         "url": "https://open.spotify.com/album/1lrDC0vFrAASm3z1K3iTW5"
       },
@@ -10145,6 +10293,24 @@
     },
     {
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/38MBdNMbf3lra9AWJkqmZG"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365689,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/340fN3ZYdRrcc7ybSYNglo"
+    },
+    {
+      "album": {
         "name": "Silence & Secrets (Adriatique Remix)",
         "url": "https://open.spotify.com/album/0Y0xhBcScceez0FfDnap8p"
       },
@@ -10226,7 +10392,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 200620,
       "name": "Simulate",
       "url": "https://open.spotify.com/track/0QBerdsjOmIdSCAKgKr5HP"
@@ -10270,6 +10436,24 @@
       "duration_ms": 411676,
       "name": "Siren - Original Mix",
       "url": "https://open.spotify.com/track/49iFrXYyyHFvWC1gKnfZcR"
+    },
+    {
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/4QGu7AvOfVauFWqzfywklJ"
+      },
+      "artists": [
+        {
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206868,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/7r1SZaJhXDTod2cXakbAJ5"
     },
     {
       "album": {
@@ -10614,7 +10798,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 187608,
       "name": "Space Sheriff",
       "url": "https://open.spotify.com/track/5xcpW0GNQnbclubBvNNSzy"
@@ -11122,7 +11306,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 220918,
       "name": "The Bassline",
       "url": "https://open.spotify.com/track/7hJSI8Sbe9BYLB8RquvhBs"
@@ -11944,7 +12128,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 181301,
       "name": "Try To Box Me",
       "url": "https://open.spotify.com/track/4nyaKx1PQjU27dYZlgdtgV"
@@ -12600,7 +12784,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 213582,
       "name": "When I Push - Edit",
       "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
@@ -12724,7 +12908,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 318660,
       "name": "WORK/OUT",
       "url": "https://open.spotify.com/track/7Lgw8DpNeb8fxt0LVjEyLZ"

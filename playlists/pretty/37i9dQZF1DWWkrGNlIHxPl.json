@@ -1,44 +1,116 @@
 {
-  "description": "Global crossovers by Arab artists. Cover: YAZ",
-  "num_followers": 166979,
+  "description": "Global crossovers by Arab artists. Cover: Saint Levant",
+  "num_followers": 166976,
   "original_name": "Arab X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGvNoCBfzq6lpbfiL6TtaYPuFcUA",
+  "snapshot_id": "AAAAANjCEOALZku0Rk7QwUZQ31J6gLof",
   "tracks": [
     {
-      "added_at": "2026-03-16 14:06:51",
+      "added_at": "2025-10-06 11:50:22",
       "album": {
-        "name": "Big Deal",
-        "url": "https://open.spotify.com/album/51uAGsbJyrxwXBfClOUAlu"
+        "name": "EXILE / \u0645\u0639\u0627\u0643\u064a",
+        "url": "https://open.spotify.com/album/0xfkU5Pja7FSa8ZRHbG1fs"
       },
       "artists": [
         {
-          "name": "YAZ",
-          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
         }
       ],
-      "duration_ms": 150264,
-      "name": "Big Deal",
-      "url": "https://open.spotify.com/track/4Ic6XMfevsaGJ73loZAt05"
+      "duration_ms": 248420,
+      "name": "EXILE / \u0645\u0639\u0627\u0643\u064a",
+      "url": "https://open.spotify.com/track/6FG3f1wZKl2IESCJQJb1tj"
+    },
+    {
+      "added_at": "2026-04-23 21:16:32",
+      "album": {
+        "name": "AYZANI",
+        "url": "https://open.spotify.com/album/6fEpLvYXIRJCB2aHN3QeQo"
+      },
+      "artists": [
+        {
+          "name": "Bayou",
+          "url": "https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3"
+        }
+      ],
+      "duration_ms": 165274,
+      "name": "AYZANI",
+      "url": "https://open.spotify.com/track/65opn1GI1WWZ5j7NJMQuRL"
     },
     {
       "added_at": "2025-10-06 11:50:22",
       "album": {
-        "name": "Jacquemus",
-        "url": "https://open.spotify.com/album/0ONGZLVJwJXgRGwkZzGBAk"
+        "name": "Land Of The Heroes (Arabic Version)",
+        "url": "https://open.spotify.com/album/0OZ5oCTYCP4DLByyJtG98x"
       },
       "artists": [
         {
-          "name": "Jeed",
-          "url": "https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sophie Stray",
+          "url": "https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X"
+        },
+        {
+          "name": "Zena Emad",
+          "url": "https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH"
         }
       ],
-      "duration_ms": 153644,
-      "name": "Jacquemus",
-      "url": "https://open.spotify.com/track/4ydkHlS4tJYEjoANmUDEol"
+      "duration_ms": 173253,
+      "name": "Land Of The Heroes (Arabic Version)",
+      "url": "https://open.spotify.com/track/2ZE4lde5AU8RFCi8nH3WCn"
+    },
+    {
+      "added_at": "2026-04-23 21:16:32",
+      "album": {
+        "name": "La Meen",
+        "url": "https://open.spotify.com/album/0NpIJIEXpGdTAr6BW0B2xb"
+      },
+      "artists": [
+        {
+          "name": "Maro",
+          "url": "https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "La Meen",
+      "url": "https://open.spotify.com/track/4LhsN0DW1p2BrpWansbdsy"
+    },
+    {
+      "added_at": "2026-01-21 08:38:39",
+      "album": {
+        "name": "Dalou3a (Nari)",
+        "url": "https://open.spotify.com/album/5xsqoVCvXyEWDWVghb34Z3"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Dalou3a (Nari)",
+      "url": "https://open.spotify.com/track/6uyHqVoPvzSySzDe2Famfl"
+    },
+    {
+      "added_at": "2026-04-23 21:16:32",
+      "album": {
+        "name": "RULES",
+        "url": "https://open.spotify.com/album/34njvyqDdhVg8CvLnJx5GK"
+      },
+      "artists": [
+        {
+          "name": "Felukah",
+          "url": "https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F"
+        }
+      ],
+      "duration_ms": 169565,
+      "name": "RULES",
+      "url": "https://open.spotify.com/track/05LtudsqIIZHZaFBPpoXiR"
     },
     {
       "added_at": "2025-10-06 11:50:22",
@@ -89,110 +161,6 @@
       "url": "https://open.spotify.com/track/6lX0AWScOl2M3xEPRKkVRy"
     },
     {
-      "added_at": "2025-11-19 17:26:39",
-      "album": {
-        "name": "Shargeeya!",
-        "url": "https://open.spotify.com/album/3ZwKkJtBjpTaexWlF5QPiV"
-      },
-      "artists": [
-        {
-          "name": "Shargeeya",
-          "url": "https://open.spotify.com/artist/3d3ra9wZ8mOWqIV04cNSVK"
-        }
-      ],
-      "duration_ms": 131179,
-      "name": "Shargeeya!",
-      "url": "https://open.spotify.com/track/2SRGSFyInuOAIdJmzGOlWp"
-    },
-    {
-      "added_at": "2025-11-19 17:26:39",
-      "album": {
-        "name": "I Promise No One's Watching",
-        "url": "https://open.spotify.com/album/5IVW9XdJ8w9MFB6VO66AXZ"
-      },
-      "artists": [
-        {
-          "name": "Nxdia",
-          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
-        }
-      ],
-      "duration_ms": 129056,
-      "name": "She Likes a Boy",
-      "url": "https://open.spotify.com/track/76frYoCK0lRG96SBXpJPp0"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "ya sirri",
-        "url": "https://open.spotify.com/album/5xzNDEQHzMiI3xFN6lt7RQ"
-      },
-      "artists": [
-        {
-          "name": "fulana",
-          "url": "https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe"
-        },
-        {
-          "name": "Input/Output",
-          "url": "https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM"
-        }
-      ],
-      "duration_ms": 185749,
-      "name": "ya sirri",
-      "url": "https://open.spotify.com/track/0xzGx0wgTBsqx89iabR5Iy"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "NAZARETH",
-        "url": "https://open.spotify.com/album/7cfzLoxdqBkiJP8AvbOLfd"
-      },
-      "artists": [
-        {
-          "name": "Lana Lubany",
-          "url": "https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "NAZARETH",
-      "url": "https://open.spotify.com/track/0ZEMeEQErtSTxRhHivmwWQ"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "time",
-        "url": "https://open.spotify.com/album/27PcxS2E8HCGb1Q1xotN4u"
-      },
-      "artists": [
-        {
-          "name": "Maleka",
-          "url": "https://open.spotify.com/artist/3eB1VORmzwBeOxRGJ259u1"
-        }
-      ],
-      "duration_ms": 167228,
-      "name": "time",
-      "url": "https://open.spotify.com/track/5bxN3kcVUZFWuFNwmbu9sc"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "DEIRA",
-        "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 163183,
-      "name": "Allah Yihmeeki",
-      "url": "https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1"
-    },
-    {
       "added_at": "2025-10-06 11:50:22",
       "album": {
         "name": "HOME IS CHANGING",
@@ -207,374 +175,6 @@
       "duration_ms": 176213,
       "name": "ATARAXIA",
       "url": "https://open.spotify.com/track/11TdG2gdwYU6Cmt6Lb7Yvz"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "ROLLERCOASTER",
-        "url": "https://open.spotify.com/album/1XUuF8s801LBGjloJZDBsm"
-      },
-      "artists": [
-        {
-          "name": "Tamtam",
-          "url": "https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio"
-        }
-      ],
-      "duration_ms": 194195,
-      "name": "ROLLERCOASTER",
-      "url": "https://open.spotify.com/track/3QjwfqkglQOeUuyNKiK5oC"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "If I Must Die",
-        "url": "https://open.spotify.com/album/6d9ZXeO25MhLiiThjPq0W5"
-      },
-      "artists": [
-        {
-          "name": "Nai Barghouti",
-          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "If I Must Die",
-      "url": "https://open.spotify.com/track/1bUdNH9WMnKjjJtMJeVPjy"
-    },
-    {
-      "added_at": "2025-11-19 17:26:39",
-      "album": {
-        "name": "MA3ASSALAMA Side B: Begin Again",
-        "url": "https://open.spotify.com/album/0XEe9rqLNBP8nlQi9DaAi7"
-      },
-      "artists": [
-        {
-          "name": "Tamtam",
-          "url": "https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio"
-        }
-      ],
-      "duration_ms": 203570,
-      "name": "Reality Check",
-      "url": "https://open.spotify.com/track/6k7qOESVYyZM8diZIR1BFE"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "ITTY BITTY",
-        "url": "https://open.spotify.com/album/6tL83xMBrDJcRrbSqBelO3"
-      },
-      "artists": [
-        {
-          "name": "Mishaal Tamer",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
-        }
-      ],
-      "duration_ms": 143133,
-      "name": "ITTY BITTY",
-      "url": "https://open.spotify.com/track/0pcvgRYZOEujTeQIe4LUVj"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "Who Pulled Up? (feat. Jeed)",
-        "url": "https://open.spotify.com/album/7FYFckeLTVNxOzCHsMLuNC"
-      },
-      "artists": [
-        {
-          "name": "Kali-B",
-          "url": "https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j"
-        },
-        {
-          "name": "Jeed",
-          "url": "https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "Who Pulled Up? (feat. Jeed)",
-      "url": "https://open.spotify.com/track/4DkNc7OeBsd4a95Sb86Xnt"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "Call Her Right Now",
-        "url": "https://open.spotify.com/album/3UUqKY7fBTEr4pVVpJQU14"
-      },
-      "artists": [
-        {
-          "name": "Bayou",
-          "url": "https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3"
-        },
-        {
-          "name": "HADY MOAMER",
-          "url": "https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD"
-        },
-        {
-          "name": "Motif Alumni",
-          "url": "https://open.spotify.com/artist/00FC4KkW4wnmRtEA7tq7mC"
-        }
-      ],
-      "duration_ms": 137110,
-      "name": "Call Her Right Now",
-      "url": "https://open.spotify.com/track/3ZZNpESGS4HnRlT1iZQVWq"
-    },
-    {
-      "added_at": "2025-12-18 11:50:07",
-      "album": {
-        "name": "STATIC",
-        "url": "https://open.spotify.com/album/1AEZQgZKNEPq6mWgFwUzVB"
-      },
-      "artists": [
-        {
-          "name": "Amir Obe",
-          "url": "https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "STATIC",
-      "url": "https://open.spotify.com/track/2ouy8vmFQw644Wj2Mbi2iS"
-    },
-    {
-      "added_at": "2026-01-21 08:38:39",
-      "album": {
-        "name": "Dalou3a (Nari)",
-        "url": "https://open.spotify.com/album/5xsqoVCvXyEWDWVghb34Z3"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "Dalou3a (Nari)",
-      "url": "https://open.spotify.com/track/6uyHqVoPvzSySzDe2Famfl"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "96 Miles From Bethlehem",
-        "url": "https://open.spotify.com/album/5n7u0Fwf8gE54F9rwPrz2O"
-      },
-      "artists": [
-        {
-          "name": "Belly",
-          "url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
-        },
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        },
-        {
-          "name": "MC Abdul",
-          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
-        }
-      ],
-      "duration_ms": 208608,
-      "name": "Maktub",
-      "url": "https://open.spotify.com/track/7kdHCa0m0ZycuAELmeyMB4"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "Eastend Confessions",
-        "url": "https://open.spotify.com/album/0JgRxOdiWpJKfP1uiVzKvJ"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 162578,
-      "name": "Hot",
-      "url": "https://open.spotify.com/track/1PYzbO75HFtcX9xa210DFF"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "LIARS CAN'T HIDE",
-        "url": "https://open.spotify.com/album/11hKCgN02XVRY1gDycGKDY"
-      },
-      "artists": [
-        {
-          "name": "Tamtam",
-          "url": "https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio"
-        }
-      ],
-      "duration_ms": 136564,
-      "name": "LIARS CAN'T HIDE",
-      "url": "https://open.spotify.com/track/0lVpfIsQ336HysPSP5PlPx"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "Season One",
-        "url": "https://open.spotify.com/album/09DOEdhTpnzRcSpqLM3AI2"
-      },
-      "artists": [
-        {
-          "name": "Jana Diab",
-          "url": "https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq"
-        }
-      ],
-      "duration_ms": 125004,
-      "name": "Season One",
-      "url": "https://open.spotify.com/track/5RExNfLho0l9WtHNXpAiof"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "Strong Enough",
-        "url": "https://open.spotify.com/album/3dYM0BYJAqAFdlyWoGrKXM"
-      },
-      "artists": [
-        {
-          "name": "kiiko",
-          "url": "https://open.spotify.com/artist/4Ep8X40XkFWjCDSViceiQy"
-        }
-      ],
-      "duration_ms": 188205,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/6HBSPmhSQfD2ftLDcQnoye"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "EXILE / \u0645\u0639\u0627\u0643\u064a",
-        "url": "https://open.spotify.com/album/0xfkU5Pja7FSa8ZRHbG1fs"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        }
-      ],
-      "duration_ms": 248420,
-      "name": "EXILE / \u0645\u0639\u0627\u0643\u064a",
-      "url": "https://open.spotify.com/track/6FG3f1wZKl2IESCJQJb1tj"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "MOVE",
-        "url": "https://open.spotify.com/album/0lf0yUHujZT9dNmTGTWbla"
-      },
-      "artists": [
-        {
-          "name": "Rita Kamale",
-          "url": "https://open.spotify.com/artist/4O67ere8Zi4xRPeR90umD0"
-        },
-        {
-          "name": "ALBI X",
-          "url": "https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56"
-        }
-      ],
-      "duration_ms": 186206,
-      "name": "MOVE",
-      "url": "https://open.spotify.com/track/7KkZsYEhcAEvQJIP5iauyZ"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "ground:from",
-        "url": "https://open.spotify.com/album/1LymeeHyg8sG6IUR2Olt4k"
-      },
-      "artists": [
-        {
-          "name": "fulana",
-          "url": "https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe"
-        },
-        {
-          "name": "Input/Output",
-          "url": "https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM"
-        }
-      ],
-      "duration_ms": 192845,
-      "name": "decompose",
-      "url": "https://open.spotify.com/track/7bCD7NDkiRs5Hu9EqA72Wc"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "Land Of The Heroes (Arabic Version)",
-        "url": "https://open.spotify.com/album/0OZ5oCTYCP4DLByyJtG98x"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sophie Stray",
-          "url": "https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X"
-        },
-        {
-          "name": "Zena Emad",
-          "url": "https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH"
-        }
-      ],
-      "duration_ms": 173253,
-      "name": "Land Of The Heroes (Arabic Version)",
-      "url": "https://open.spotify.com/track/2ZE4lde5AU8RFCi8nH3WCn"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "Scarred Hearts Love Better =\u25cb<",
-        "url": "https://open.spotify.com/album/3ujSdcdB2xTbwTCS93dBBC"
-      },
-      "artists": [
-        {
-          "name": "Hadi X",
-          "url": "https://open.spotify.com/artist/6IoMp72EAMD3JogASNYTLa"
-        }
-      ],
-      "duration_ms": 230635,
-      "name": "Scarred Hearts Love Better =\u25cb<",
-      "url": "https://open.spotify.com/track/5HZK9QjVSAHdoxXw8J8YHM"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "SUMMER GLOW (feat. NBL)",
-        "url": "https://open.spotify.com/album/1FRtoshJo9OLt6TMrVooQj"
-      },
-      "artists": [
-        {
-          "name": "AZIZ.wav",
-          "url": "https://open.spotify.com/artist/31hBwYTq1BDVU9Yr1eD3aQ"
-        },
-        {
-          "name": "Ntitled",
-          "url": "https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd"
-        },
-        {
-          "name": "Jeed",
-          "url": "https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF"
-        },
-        {
-          "name": "NBL",
-          "url": "https://open.spotify.com/artist/5mEoje9uiOkieG0o7eKZ5D"
-        }
-      ],
-      "duration_ms": 233052,
-      "name": "SUMMER GLOW (feat. NBL)",
-      "url": "https://open.spotify.com/track/3uiOGSMGTj2QPjBoJEqq3J"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "HOME IS CHANGING",
-        "url": "https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O"
-      },
-      "artists": [
-        {
-          "name": "Mishaal Tamer",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "NASKAR",
-      "url": "https://open.spotify.com/track/6wnSQh2JzBCIj1kVFq1kPM"
     },
     {
       "added_at": "2025-10-06 11:50:22",
@@ -671,22 +271,6 @@
     {
       "added_at": "2025-10-06 11:50:22",
       "album": {
-        "name": "Everlasting Dance",
-        "url": "https://open.spotify.com/album/4lR6iy0jlBIctr2Pwg2Fe1"
-      },
-      "artists": [
-        {
-          "name": "Llunr",
-          "url": "https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2"
-        }
-      ],
-      "duration_ms": 203231,
-      "name": "Everlasting Dance",
-      "url": "https://open.spotify.com/track/7w4iy6gupo2mDSPlnvidGv"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
         "name": "The Pen & The Sword",
         "url": "https://open.spotify.com/album/0701R6QU1xnQFYxy8mVTaW"
       },
@@ -771,22 +355,6 @@
     {
       "added_at": "2025-10-06 11:50:22",
       "album": {
-        "name": "Good Girl",
-        "url": "https://open.spotify.com/album/5tZWQSuWSeW96L59PCll80"
-      },
-      "artists": [
-        {
-          "name": "Tasneem Elaidy",
-          "url": "https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/6kNSoY1EvwNK1O9jBj5KTd"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
         "name": "Sirens",
         "url": "https://open.spotify.com/album/7h5gLixz0Kl723RxDr6Fcv"
       },
@@ -799,22 +367,6 @@
       "duration_ms": 159575,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/4Y2UCKOJ7jvvgasA7FJSNE"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "Illbealright",
-        "url": "https://open.spotify.com/album/7IT7FGfFe25oFkx4KQhJM6"
-      },
-      "artists": [
-        {
-          "name": "Ghita Askari",
-          "url": "https://open.spotify.com/artist/6CdVgCCzJoLF4ijz2o7iE1"
-        }
-      ],
-      "duration_ms": 212368,
-      "name": "Illbealright",
-      "url": "https://open.spotify.com/track/1hr63UH982HEO8UqlOAZha"
     },
     {
       "added_at": "2025-10-06 11:50:22",
@@ -851,6 +403,170 @@
     {
       "added_at": "2025-10-06 11:50:22",
       "album": {
+        "name": "ROLLERCOASTER",
+        "url": "https://open.spotify.com/album/1XUuF8s801LBGjloJZDBsm"
+      },
+      "artists": [
+        {
+          "name": "Tamtam",
+          "url": "https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio"
+        }
+      ],
+      "duration_ms": 194195,
+      "name": "ROLLERCOASTER",
+      "url": "https://open.spotify.com/track/3QjwfqkglQOeUuyNKiK5oC"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "If I Must Die",
+        "url": "https://open.spotify.com/album/6d9ZXeO25MhLiiThjPq0W5"
+      },
+      "artists": [
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        }
+      ],
+      "duration_ms": 164250,
+      "name": "If I Must Die",
+      "url": "https://open.spotify.com/track/1bUdNH9WMnKjjJtMJeVPjy"
+    },
+    {
+      "added_at": "2025-11-19 17:26:39",
+      "album": {
+        "name": "Shargeeya!",
+        "url": "https://open.spotify.com/album/3ZwKkJtBjpTaexWlF5QPiV"
+      },
+      "artists": [
+        {
+          "name": "Shargeeya",
+          "url": "https://open.spotify.com/artist/3d3ra9wZ8mOWqIV04cNSVK"
+        }
+      ],
+      "duration_ms": 131179,
+      "name": "Shargeeya!",
+      "url": "https://open.spotify.com/track/2SRGSFyInuOAIdJmzGOlWp"
+    },
+    {
+      "added_at": "2025-11-19 17:26:39",
+      "album": {
+        "name": "I Promise No One's Watching",
+        "url": "https://open.spotify.com/album/5IVW9XdJ8w9MFB6VO66AXZ"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "duration_ms": 129056,
+      "name": "She Likes a Boy",
+      "url": "https://open.spotify.com/track/76frYoCK0lRG96SBXpJPp0"
+    },
+    {
+      "added_at": "2025-11-19 17:26:39",
+      "album": {
+        "name": "MA3ASSALAMA Side B: Begin Again",
+        "url": "https://open.spotify.com/album/0XEe9rqLNBP8nlQi9DaAi7"
+      },
+      "artists": [
+        {
+          "name": "Tamtam",
+          "url": "https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio"
+        }
+      ],
+      "duration_ms": 203570,
+      "name": "Reality Check",
+      "url": "https://open.spotify.com/track/6k7qOESVYyZM8diZIR1BFE"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "ITTY BITTY",
+        "url": "https://open.spotify.com/album/6tL83xMBrDJcRrbSqBelO3"
+      },
+      "artists": [
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "duration_ms": 143133,
+      "name": "ITTY BITTY",
+      "url": "https://open.spotify.com/track/0pcvgRYZOEujTeQIe4LUVj"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "ya sirri",
+        "url": "https://open.spotify.com/album/5xzNDEQHzMiI3xFN6lt7RQ"
+      },
+      "artists": [
+        {
+          "name": "fulana",
+          "url": "https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe"
+        },
+        {
+          "name": "Input/Output",
+          "url": "https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM"
+        }
+      ],
+      "duration_ms": 185749,
+      "name": "ya sirri",
+      "url": "https://open.spotify.com/track/0xzGx0wgTBsqx89iabR5Iy"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "NAZARETH",
+        "url": "https://open.spotify.com/album/7cfzLoxdqBkiJP8AvbOLfd"
+      },
+      "artists": [
+        {
+          "name": "Lana Lubany",
+          "url": "https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "NAZARETH",
+      "url": "https://open.spotify.com/track/0ZEMeEQErtSTxRhHivmwWQ"
+    },
+    {
+      "added_at": "2026-03-16 14:06:51",
+      "album": {
+        "name": "Big Deal",
+        "url": "https://open.spotify.com/album/51uAGsbJyrxwXBfClOUAlu"
+      },
+      "artists": [
+        {
+          "name": "YAZ",
+          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
+        }
+      ],
+      "duration_ms": 150264,
+      "name": "Big Deal",
+      "url": "https://open.spotify.com/track/4Ic6XMfevsaGJ73loZAt05"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "time",
+        "url": "https://open.spotify.com/album/27PcxS2E8HCGb1Q1xotN4u"
+      },
+      "artists": [
+        {
+          "name": "Maleka",
+          "url": "https://open.spotify.com/artist/3eB1VORmzwBeOxRGJ259u1"
+        }
+      ],
+      "duration_ms": 167228,
+      "name": "time",
+      "url": "https://open.spotify.com/track/5bxN3kcVUZFWuFNwmbu9sc"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
         "name": "96 Miles From Bethlehem",
         "url": "https://open.spotify.com/album/5n7u0Fwf8gE54F9rwPrz2O"
       },
@@ -867,6 +583,290 @@
       "duration_ms": 155173,
       "name": "Baroudeh",
       "url": "https://open.spotify.com/track/2YtYdhCh20iGSkI6oHHhor"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "DEIRA",
+        "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 163183,
+      "name": "Allah Yihmeeki",
+      "url": "https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "Jacquemus",
+        "url": "https://open.spotify.com/album/0ONGZLVJwJXgRGwkZzGBAk"
+      },
+      "artists": [
+        {
+          "name": "Jeed",
+          "url": "https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF"
+        }
+      ],
+      "duration_ms": 153644,
+      "name": "Jacquemus",
+      "url": "https://open.spotify.com/track/4ydkHlS4tJYEjoANmUDEol"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "Who Pulled Up? (feat. Jeed)",
+        "url": "https://open.spotify.com/album/7FYFckeLTVNxOzCHsMLuNC"
+      },
+      "artists": [
+        {
+          "name": "Kali-B",
+          "url": "https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j"
+        },
+        {
+          "name": "Jeed",
+          "url": "https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "Who Pulled Up? (feat. Jeed)",
+      "url": "https://open.spotify.com/track/4DkNc7OeBsd4a95Sb86Xnt"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "Call Her Right Now",
+        "url": "https://open.spotify.com/album/3UUqKY7fBTEr4pVVpJQU14"
+      },
+      "artists": [
+        {
+          "name": "Bayou",
+          "url": "https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3"
+        },
+        {
+          "name": "HADY MOAMER",
+          "url": "https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD"
+        },
+        {
+          "name": "Motif Alumni",
+          "url": "https://open.spotify.com/artist/00FC4KkW4wnmRtEA7tq7mC"
+        }
+      ],
+      "duration_ms": 137110,
+      "name": "Call Her Right Now",
+      "url": "https://open.spotify.com/track/3ZZNpESGS4HnRlT1iZQVWq"
+    },
+    {
+      "added_at": "2025-12-18 11:50:07",
+      "album": {
+        "name": "STATIC",
+        "url": "https://open.spotify.com/album/1AEZQgZKNEPq6mWgFwUzVB"
+      },
+      "artists": [
+        {
+          "name": "Amir Obe",
+          "url": "https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "STATIC",
+      "url": "https://open.spotify.com/track/2ouy8vmFQw644Wj2Mbi2iS"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "96 Miles From Bethlehem",
+        "url": "https://open.spotify.com/album/5n7u0Fwf8gE54F9rwPrz2O"
+      },
+      "artists": [
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        },
+        {
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+        }
+      ],
+      "duration_ms": 208608,
+      "name": "Maktub",
+      "url": "https://open.spotify.com/track/7kdHCa0m0ZycuAELmeyMB4"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "Eastend Confessions",
+        "url": "https://open.spotify.com/album/0JgRxOdiWpJKfP1uiVzKvJ"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 162578,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/1PYzbO75HFtcX9xa210DFF"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "LIARS CAN'T HIDE",
+        "url": "https://open.spotify.com/album/11hKCgN02XVRY1gDycGKDY"
+      },
+      "artists": [
+        {
+          "name": "Tamtam",
+          "url": "https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio"
+        }
+      ],
+      "duration_ms": 136564,
+      "name": "LIARS CAN'T HIDE",
+      "url": "https://open.spotify.com/track/0lVpfIsQ336HysPSP5PlPx"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "Season One",
+        "url": "https://open.spotify.com/album/09DOEdhTpnzRcSpqLM3AI2"
+      },
+      "artists": [
+        {
+          "name": "Jana Diab",
+          "url": "https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq"
+        }
+      ],
+      "duration_ms": 125004,
+      "name": "Season One",
+      "url": "https://open.spotify.com/track/5RExNfLho0l9WtHNXpAiof"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "Strong Enough",
+        "url": "https://open.spotify.com/album/3dYM0BYJAqAFdlyWoGrKXM"
+      },
+      "artists": [
+        {
+          "name": "kiiko",
+          "url": "https://open.spotify.com/artist/4Ep8X40XkFWjCDSViceiQy"
+        }
+      ],
+      "duration_ms": 188205,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/6HBSPmhSQfD2ftLDcQnoye"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "MOVE",
+        "url": "https://open.spotify.com/album/0lf0yUHujZT9dNmTGTWbla"
+      },
+      "artists": [
+        {
+          "name": "Rita Kamale",
+          "url": "https://open.spotify.com/artist/4O67ere8Zi4xRPeR90umD0"
+        },
+        {
+          "name": "ALBI X",
+          "url": "https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56"
+        }
+      ],
+      "duration_ms": 186206,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/7KkZsYEhcAEvQJIP5iauyZ"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "ground:from",
+        "url": "https://open.spotify.com/album/1LymeeHyg8sG6IUR2Olt4k"
+      },
+      "artists": [
+        {
+          "name": "fulana",
+          "url": "https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe"
+        },
+        {
+          "name": "Input/Output",
+          "url": "https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM"
+        }
+      ],
+      "duration_ms": 192845,
+      "name": "decompose",
+      "url": "https://open.spotify.com/track/7bCD7NDkiRs5Hu9EqA72Wc"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "Scarred Hearts Love Better =\u25cb<",
+        "url": "https://open.spotify.com/album/3ujSdcdB2xTbwTCS93dBBC"
+      },
+      "artists": [
+        {
+          "name": "Hadi X",
+          "url": "https://open.spotify.com/artist/6IoMp72EAMD3JogASNYTLa"
+        }
+      ],
+      "duration_ms": 230635,
+      "name": "Scarred Hearts Love Better =\u25cb<",
+      "url": "https://open.spotify.com/track/5HZK9QjVSAHdoxXw8J8YHM"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "SUMMER GLOW (feat. NBL)",
+        "url": "https://open.spotify.com/album/1FRtoshJo9OLt6TMrVooQj"
+      },
+      "artists": [
+        {
+          "name": "AZIZ.wav",
+          "url": "https://open.spotify.com/artist/31hBwYTq1BDVU9Yr1eD3aQ"
+        },
+        {
+          "name": "Ntitled",
+          "url": "https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd"
+        },
+        {
+          "name": "Jeed",
+          "url": "https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF"
+        },
+        {
+          "name": "NBL",
+          "url": "https://open.spotify.com/artist/5mEoje9uiOkieG0o7eKZ5D"
+        }
+      ],
+      "duration_ms": 233052,
+      "name": "SUMMER GLOW (feat. NBL)",
+      "url": "https://open.spotify.com/track/3uiOGSMGTj2QPjBoJEqq3J"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "HOME IS CHANGING",
+        "url": "https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O"
+      },
+      "artists": [
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "duration_ms": 206680,
+      "name": "NASKAR",
+      "url": "https://open.spotify.com/track/6wnSQh2JzBCIj1kVFq1kPM"
     },
     {
       "added_at": "2025-10-06 11:50:22",

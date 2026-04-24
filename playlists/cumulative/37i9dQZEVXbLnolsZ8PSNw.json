@@ -8804,6 +8804,24 @@
     {
       "album": {
         "name": "Clean Baby Sleep Multi Color Noises (Loopable)",
+        "url": "https://open.spotify.com/album/5HgYJl8I4fnSDyF0HnWimQ"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Clean Baby Sleep White Noise (Loopable no fade)",
+      "url": "https://open.spotify.com/track/3BgK59BTBUs8iQtnegfMfz"
+    },
+    {
+      "album": {
+        "name": "Clean Baby Sleep Multi Color Noises (Loopable)",
         "url": "https://open.spotify.com/album/2H7n4za6FUcXi3UyNxbjOc"
       },
       "artists": [
@@ -14248,7 +14266,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 226653,
       "name": "Everywhere - 2017 Remaster",
       "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
@@ -26716,7 +26734,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -26734,7 +26752,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/2kvgmr5CFhSvleQqTjB3eP"
@@ -30152,7 +30170,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-20",
+      "date_removed": null,
       "duration_ms": 209000,
       "name": "Nice To Each Other",
       "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
@@ -30170,7 +30188,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 209000,
       "name": "Nice To Each Other",
       "url": "https://open.spotify.com/track/7qEiBWlztvDFrILdizFULx"

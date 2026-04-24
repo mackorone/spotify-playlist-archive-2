@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Joshua in cover della playlist dell'R&B italiano \ud83e\udec0",
+  "description": "najma in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -880,6 +880,24 @@
       "duration_ms": 226285,
       "name": "Alice",
       "url": "https://open.spotify.com/track/5zQZLyhTWu7sOWni4HrFrJ"
+    },
+    {
+      "album": {
+        "name": "All Blacks",
+        "url": "https://open.spotify.com/album/2rvjp6edShEJWZ6rfAsbD4"
+      },
+      "artists": [
+        {
+          "name": "Adri",
+          "url": "https://open.spotify.com/artist/6y985VEM5UDacD7lG3Zq9C"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159795,
+      "name": "All Blacks",
+      "url": "https://open.spotify.com/track/7xSfeDjjuWHToasmNaGyd9"
     },
     {
       "album": {
@@ -1826,7 +1844,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 147775,
       "name": "Babilonia",
       "url": "https://open.spotify.com/track/2vJvbnqyitMFw5NCGBMer4"
@@ -8850,7 +8868,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 246000,
       "name": "L'odore della pioggia",
       "url": "https://open.spotify.com/track/4LhHRIWSbaw8AOA2mcc4qO"
@@ -11690,7 +11708,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 212459,
       "name": "Nen\u00e8",
       "url": "https://open.spotify.com/track/65UY8dcWKmyuOilr3KYede"
@@ -13944,6 +13962,28 @@
       "duration_ms": 164919,
       "name": "PE' FA PACE",
       "url": "https://open.spotify.com/track/0HrL7MoXE2ePNLyashGu2L"
+    },
+    {
+      "album": {
+        "name": "Pelle Viola",
+        "url": "https://open.spotify.com/album/1Dw5ALyiF14VaIcc7XsqiX"
+      },
+      "artists": [
+        {
+          "name": "Dea Culpa",
+          "url": "https://open.spotify.com/artist/6X4wWxYIAoGnnNN6jh5jPI"
+        },
+        {
+          "name": "Ciao sono Vale",
+          "url": "https://open.spotify.com/artist/4F9QCOBWpH7P6zZwF6kKOc"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203013,
+      "name": "Pelle Viola",
+      "url": "https://open.spotify.com/track/6gv0zBiZrGB6VAUbcBcRWN"
     },
     {
       "album": {
@@ -19422,6 +19462,28 @@
       "duration_ms": 163053,
       "name": "Universo",
       "url": "https://open.spotify.com/track/7ASGGiTB8dAfD0Qj7h2E6x"
+    },
+    {
+      "album": {
+        "name": "dentro le storie degli altri, sprazzi di me",
+        "url": "https://open.spotify.com/album/0VxowtRp5BKHQUdFoH5mAN"
+      },
+      "artists": [
+        {
+          "name": "ZANI",
+          "url": "https://open.spotify.com/artist/0O4N2Ygu1I6YUN1KWCw2DT"
+        },
+        {
+          "name": "fil",
+          "url": "https://open.spotify.com/artist/2Dgp0r5wvNCnj5XdvGaK7u"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176298,
+      "name": "Universo",
+      "url": "https://open.spotify.com/track/6OJcGx9xPbg6XoaypjKvMM"
     },
     {
       "album": {

@@ -12750,6 +12750,10 @@
         {
           "name": "DarkoVibes",
           "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "King Wizard",
+          "url": "https://open.spotify.com/artist/7BjXmKO4yIHUP7BTi1ZGUc"
         }
       ],
       "date_added": "2026-04-17",
@@ -20096,6 +20100,24 @@
       "duration_ms": 113776,
       "name": "TRABAYE",
       "url": "https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS"
+    },
+    {
+      "album": {
+        "name": "Modern Fantasy",
+        "url": "https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y"
     },
     {
       "album": {

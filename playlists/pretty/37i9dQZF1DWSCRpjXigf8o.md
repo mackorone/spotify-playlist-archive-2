@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,941 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,942 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 78 | [This must be the place](https://open.spotify.com/track/3rDfFPybJVMqBiFbhMGDMi) | [Marina Balenciaga](https://open.spotify.com/artist/6wvMmbfuW3vADgH3zzJGII) | [This must be the place](https://open.spotify.com/album/1FJVVG53D8ZTMwqn85UfMy) | 3:52 |
 | 79 | [Tunes for Suly](https://open.spotify.com/track/4IRNgiLaOrg0RvEWNBjveK) | [野巢 Nosu](https://open.spotify.com/artist/30pJXiYdUEUSVVbizHKjTs) | [Turntable in the Lift](https://open.spotify.com/album/7c4niJGLB25XRgVNlDH1Lk) | 7:06 |
 | 80 | [FASHION](https://open.spotify.com/track/3CiiEGvgEoq31zPMY93Z4A) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo) | [BALLOONS & BUBBLES](https://open.spotify.com/album/6m4m0bomFQOpBMgkDbRDwT) | 3:27 |
-| 81 | [Place Your Hands](https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Place Your Hands](https://open.spotify.com/album/30sRu1LqGjOL28ocUx6TPh) | 3:15 |
-| 82 | [MY夢中](https://open.spotify.com/track/02EC8p59zsfwJmyHzXXDGw) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [MY夢中](https://open.spotify.com/album/4aDn3y7PU3lAMdGE9C62Ka) | 4:09 |
+| 81 | [MY夢中](https://open.spotify.com/track/02EC8p59zsfwJmyHzXXDGw) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [MY夢中](https://open.spotify.com/album/4aDn3y7PU3lAMdGE9C62Ka) | 4:09 |
+| 82 | [Place Your Hands](https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Place Your Hands](https://open.spotify.com/album/30sRu1LqGjOL28ocUx6TPh) | 3:15 |
 | 83 | [ceremony](https://open.spotify.com/track/4PP7K0az3fUMKGez4yDkMk) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [ceremony](https://open.spotify.com/album/77msxPT6qZ75VPxAUJsmIL) | 4:35 |
 | 84 | [鼓動](https://open.spotify.com/track/33HrWYjijsnYrjiETDlHEk) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [鼓動](https://open.spotify.com/album/47YNWei4YtzRWYs5eYNvRR) | 2:41 |
 | 85 | [Time](https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [TIME](https://open.spotify.com/album/1TWjKSJNJ7WUbSxSqelrES) | 2:25 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 94 | [Your Light](https://open.spotify.com/track/4qEnCuCn5N4gO2TyWyIOeZ) | [8WHAT](https://open.spotify.com/artist/7sUI7Wt3xbG60XRh00Kf6i), [Alisara Arial](https://open.spotify.com/artist/181vxGPS6gV3SWQUXzNpZP), [YiDD](https://open.spotify.com/artist/1YeTLfx7aPF0T5hmNHTsMk) | [Your Light](https://open.spotify.com/album/3D2AoXbOpUScjeH9zOWwWJ) | 2:44 |
 | 95 | [burn blister](https://open.spotify.com/track/6osnNgkB3IkVFYeeDJqi88) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [burn blister](https://open.spotify.com/album/2shLrT8Uep0RA7uDq2GxEY) | 3:09 |
 | 96 | [Sweet Lies \(feat\. Miyu Takeuchi\)](https://open.spotify.com/track/7G1A0oCpYCpOiXe05VyNBy) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [竹内美宥](https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7), [MIYUMIYU](https://open.spotify.com/artist/5lZiZQ5xaxp94Z9naAVKmg) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 3:11 |
-| 97 | [ユメのはじまり。](https://open.spotify.com/track/66oYFwtVhj0zSayFxcNaSj) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ユメのはじまり。](https://open.spotify.com/album/3b3WoVqAc6zcXApOjchHvj) | 4:05 |
-| 98 | [Here with me](https://open.spotify.com/track/3mjO7GpUGG8ltpmxm8JsL1) | [Marter](https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1) | [Here with me](https://open.spotify.com/album/5MFOtHKYiQaxG9Ge3M26Zi) | 4:03 |
+| 97 | [Here with me](https://open.spotify.com/track/3mjO7GpUGG8ltpmxm8JsL1) | [Marter](https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1) | [Here with me](https://open.spotify.com/album/5MFOtHKYiQaxG9Ge3M26Zi) | 4:03 |
+| 98 | [ユメのはじまり。](https://open.spotify.com/track/66oYFwtVhj0zSayFxcNaSj) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ユメのはじまり。](https://open.spotify.com/album/3b3WoVqAc6zcXApOjchHvj) | 4:05 |
 | 99 | [Responder \(Live Session\)](https://open.spotify.com/track/4VYZuxJh4HwZgvWiPmcvSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD) | 3:37 |
-| 100 | [codepending](https://open.spotify.com/track/1WMTEpq5ngLwPGRV1fq5yx) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [codepending](https://open.spotify.com/album/6VdT3gkIWTkc9Jj4184Tna) | 3:17 |
+| 100 | [pineapple bun](https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [pineapple bun](https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md) | 3:29 |
 
 Snapshot ID: `AAAAADiqvu+Ko/XjD0PHj3Oq60n/MWiT`

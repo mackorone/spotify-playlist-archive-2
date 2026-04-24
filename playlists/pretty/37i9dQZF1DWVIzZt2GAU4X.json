@@ -1,6 +1,6 @@
 {
   "description": "Vocals and keys, front and center. Cover: Bruno Mars",
-  "num_followers": 1819083,
+  "num_followers": 1819008,
   "original_name": "Piano Ballads",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-10-09 03:40:03",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 171727,
-      "name": "Liability",
-      "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
-    },
-    {
-      "added_at": "2024-10-09 03:40:03",
-      "album": {
         "name": "Back to Bedlam",
         "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 258653,
       "name": "Goodbye My Lover",
       "url": "https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P"
+    },
+    {
+      "added_at": "2024-10-09 03:40:03",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 171727,
+      "name": "Liability",
+      "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
     },
     {
       "added_at": "2024-10-09 03:40:03",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-10-09 03:40:03",
       "album": {
-        "name": "1000 Forms Of Fear (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 250133,
-      "name": "Elastic Heart - Piano Version",
-      "url": "https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B"
-    },
-    {
-      "added_at": "2024-10-09 03:40:03",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 250000,
       "name": "Turning Tables",
       "url": "https://open.spotify.com/track/4oy98QoABnGKpvapDkI525"
+    },
+    {
+      "added_at": "2024-10-09 03:40:03",
+      "album": {
+        "name": "1000 Forms Of Fear (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 250133,
+      "name": "Elastic Heart - Piano Version",
+      "url": "https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B"
     },
     {
       "added_at": "2024-10-09 03:40:03",

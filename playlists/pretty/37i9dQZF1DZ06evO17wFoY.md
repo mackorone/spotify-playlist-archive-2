@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 
 > This is Lang Lang\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,702 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,703 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 | 17 | [Orchestral Suite No\. 3 in D Major, BWV 1068: II\. Air "On a G String" \(Arr\. for Piano\)](https://open.spotify.com/track/4ksxLnn1ymLGRKnwhba45Y) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Gran Turismo 5 \(Original Game Soundtrack\)](https://open.spotify.com/album/2fopqZRJz4oYR3ftxBAUWy) | 5:27 |
 | 18 | [Limu, limu, lima \(Arr\. Schindler for Piano\)](https://open.spotify.com/track/1ZpnptUG5sISwRx6fJQrXN) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 5:35 |
 | 19 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/4GFuyvrYOQYDS497hffJXT) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Bach: Goldberg Variations \(Extended Edt.\)](https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95) | 5:21 |
-| 20 | [Piano Sonata No\. 16 in C Major, K\. 545 "Sonata facile": I\. Allegro](https://open.spotify.com/track/0iGDZom5WctL4eSQogMhMp) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Mozart: Piano Sonata No\. 16 in C Major, K\. 545 "Sonata facile"](https://open.spotify.com/album/2j6Cg49cL6PtyDODubUzGY) | 4:51 |
-| 21 | [Romance "O pourquoi donc" in E Minor, S\. 169](https://open.spotify.com/track/4wKGetA5crT9tZhjqTLTka) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Liszt \- My Piano Hero](https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu) | 3:05 |
+| 20 | [Romance "O pourquoi donc" in E Minor, S\. 169](https://open.spotify.com/track/4wKGetA5crT9tZhjqTLTka) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Liszt \- My Piano Hero](https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu) | 3:05 |
+| 21 | [Piano Sonata No\. 16 in C Major, K\. 545 "Sonata facile": I\. Allegro](https://open.spotify.com/track/0iGDZom5WctL4eSQogMhMp) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Mozart: Piano Sonata No\. 16 in C Major, K\. 545 "Sonata facile"](https://open.spotify.com/album/2j6Cg49cL6PtyDODubUzGY) | 4:51 |
 | 22 | [To Zanarkand \(From "Final Fantasy X"\)](https://open.spotify.com/track/1k1zai8aT3y6BSlxAxQMTF) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book 2](https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx) | 2:50 |
 | 23 | [Valse lente](https://open.spotify.com/track/5LRwngQ52nUePgI91FNhfz) | [Germaine Tailleferre](https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Tailleferre: Valse lente](https://open.spotify.com/album/1ZYsAlMxGeLxcflbZOV7pZ) | 2:46 |
 | 24 | [River Waltz \- From "The Painted Veil" Original Soundtrack](https://open.spotify.com/track/4ymJo2WLb6jikYZHaZDdL9) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Prague Symphony Orchestra](https://open.spotify.com/artist/6D3rLhEkc3t1zLltUNOSxg) | [The Painted Veil](https://open.spotify.com/album/2ERLWWYpis2WUsKxeJsAHz) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 | 49 | [The Merry Shepherd Boy](https://open.spotify.com/track/04WtM8HBVMGUY3r5LEX4Dr) | [Hu\-Wei Huang](https://open.spotify.com/artist/61g9t43Yf5am1yo8MioU3p), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 1:33 |
 | 50 | [Jasmine Flower \(Arr\. Schindler for Piano\)](https://open.spotify.com/track/5e1AEXbrepdeMVB8YuRtNQ) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Encore Edition\)](https://open.spotify.com/album/2lAoaPfFfBkOQPTcLBZ6pI) | 6:44 |
 
-Snapshot ID: `aeVsgAAAAAB1v/m/jWlwhiNT8A/bs71H`
+Snapshot ID: `aegPgAAAAACgrbY8tLFJ8zT3rs6n+eYT`

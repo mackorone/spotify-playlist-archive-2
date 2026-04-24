@@ -285,6 +285,24 @@
     },
     {
       "album": {
+        "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
+        "url": "https://open.spotify.com/album/4YkZWo36gl5YrcyFxT6foX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189738,
+      "name": "Chuyito y el Mayo - En Vivo",
+      "url": "https://open.spotify.com/track/6R6tPbzeB6ZI0rIfhERHT3"
+    },
+    {
+      "album": {
         "name": "Resiliencia",
         "url": "https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve"
       },
@@ -796,7 +814,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 185973,
       "name": "El Mas Poderoso - En Vivo",
       "url": "https://open.spotify.com/track/6IZeXUMcCxZyqMcgOuXAC8"
@@ -850,10 +868,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 162047,
       "name": "El Mochomo (En vivo)",
       "url": "https://open.spotify.com/track/6A7FBChw6dVmf5UX1IXUyR"
+    },
+    {
+      "album": {
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7hNQQRF3XiRDSVvkC4l4bI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162047,
+      "name": "El Mochomo - En Vivo",
+      "url": "https://open.spotify.com/track/12wXSVnqH4FK0S4jQs9jhK"
     },
     {
       "album": {
@@ -1106,6 +1142,28 @@
       "duration_ms": 186000,
       "name": "En La Cima (En vivo)",
       "url": "https://open.spotify.com/track/3SCJI8X7N0RYHcCaivNa1P"
+    },
+    {
+      "album": {
+        "name": "Jalando La Bandona (feat. Los Populares del Llano) [En Vivo]",
+        "url": "https://open.spotify.com/album/73JejPFzvxbgBDxUAH54Z0"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Los Populares Del Llano",
+          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "En La Cima (feat. Los Populares del Llano) - En Vivo",
+      "url": "https://open.spotify.com/track/0WhZSuX5NPDFhNKNM79dC0"
     },
     {
       "album": {
@@ -1544,10 +1602,28 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 149695,
       "name": "La Pasadita (En vivo)",
       "url": "https://open.spotify.com/track/09YX9qkzkVAPnAOxdC3PFV"
+    },
+    {
+      "album": {
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7hNQQRF3XiRDSVvkC4l4bI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149695,
+      "name": "La Pasadita - En Vivo",
+      "url": "https://open.spotify.com/track/0TWZuDxWncmYDJjGiHQ8qW"
     },
     {
       "album": {
@@ -2280,7 +2356,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 134307,
       "name": "Te Da Igual",
       "url": "https://open.spotify.com/track/1XnP7dgmDdTDo8MYCR6ZjQ"

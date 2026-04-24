@@ -1,29 +1,13 @@
 {
   "description": "This is M\u00e5neskin. The essential tracks, all in one playlist.",
-  "num_followers": 970368,
+  "num_followers": 970414,
   "original_name": "This Is M\u00e5neskin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAADmp7yhGKTxCpX+B+pLG0YE",
+  "snapshot_id": "aegPgAAAAAD5DiIrWEgjSJ5qs9pSczH0",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "MAMMAMIA",
-        "url": "https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 186789,
-      "name": "MAMMAMIA",
-      "url": "https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP"
-    },
     {
       "added_at": null,
       "album": {
@@ -392,9 +376,9 @@
           "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 191856,
-      "name": "OWN MY MIND",
-      "url": "https://open.spotify.com/track/71tM20RVoYqUUs9EDOso2v"
+      "duration_ms": 186809,
+      "name": "MAMMAMIA",
+      "url": "https://open.spotify.com/track/7oJ3Nb3LIY1ond1fHF3xio"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1231457,
+  "num_followers": 1231531,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAAx+p7PNhIEr3rR/kQ3BnZq",
+  "snapshot_id": "aegPgAAAAACaPTZfaYyCAGIC5h5r6Zwk",
   "tracks": [
     {
       "added_at": null,
@@ -895,6 +895,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Above The Rim (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Stretch",
+          "url": "https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/0YYLatZXRuNdjgu1Hduwry"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quentin Tarantino\u2019s Django Unchained Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 230493,
       "name": "Soldier Like Me",
       "url": "https://open.spotify.com/track/36UjTTrSwaAqLkAlf2Ooc4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Above The Rim (Original Motion Picture Soundtrack) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Stretch",
-          "url": "https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj"
-        }
-      ],
-      "duration_ms": 274626,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/0YYLatZXRuNdjgu1Hduwry"
     }
   ],
   "unique_name": "This Is 2Pac",

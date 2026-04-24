@@ -556,7 +556,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 121652,
       "name": "Agapornis",
       "url": "https://open.spotify.com/track/5bZpKJ49bODtbnwP4jo1dr"
@@ -3760,7 +3760,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 225790,
       "name": "Cueste Lo Que Cueste",
       "url": "https://open.spotify.com/track/1IRrTzByPmQHoQLLZ7RzvO"
@@ -6352,7 +6352,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 160170,
       "name": "GENIO",
       "url": "https://open.spotify.com/track/4EaZjCAFQMHiDQynvjtQUR"
@@ -9840,7 +9840,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 237745,
       "name": "Mi ausencia",
       "url": "https://open.spotify.com/track/7lkLuEZmHXzsaKZFQ6xsvg"
@@ -10559,6 +10559,28 @@
     },
     {
       "album": {
+        "name": "Naik",
+        "url": "https://open.spotify.com/album/6tYx1dP5YVoFLo8B5wPv3y"
+      },
+      "artists": [
+        {
+          "name": "Nieto666",
+          "url": "https://open.spotify.com/artist/33KBvXRNqHfcTPhBZC8Njp"
+        },
+        {
+          "name": "Marcelus Airlinez",
+          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173103,
+      "name": "Naik",
+      "url": "https://open.spotify.com/track/6ylg552EUq92Sb4xd8yJVX"
+    },
+    {
+      "album": {
         "name": "Nana",
         "url": "https://open.spotify.com/album/78CkLda43EMXmQ20Brjb9D"
       },
@@ -10680,7 +10702,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 187221,
       "name": "Ni Llamarte Ni Verte",
       "url": "https://open.spotify.com/track/6Ryo7zQuDrnPlGBpV3brLp"
@@ -11346,6 +11368,28 @@
       "duration_ms": 235204,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/3lhBtkwoZuzjaykxbQvQzX"
+    },
+    {
+      "album": {
+        "name": "Ojeras",
+        "url": "https://open.spotify.com/album/5exNO860I3ZD9VOnh2qQFM"
+      },
+      "artists": [
+        {
+          "name": "Midas Alonso",
+          "url": "https://open.spotify.com/artist/4YbohdhSehUUc7RT3STcKW"
+        },
+        {
+          "name": "Delson Aravena",
+          "url": "https://open.spotify.com/artist/7z3WDAzeazNjQckDeenDAf"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Ojeras",
+      "url": "https://open.spotify.com/track/6T04vQzhtNhmDrklr6UKO8"
     },
     {
       "album": {
@@ -12062,7 +12106,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 153962,
       "name": "Plato y alquiler",
       "url": "https://open.spotify.com/track/4MGx51u4U8bIzZ61PTpmPb"
@@ -13007,6 +13051,24 @@
     },
     {
       "album": {
+        "name": "RAPSINCORTE 59",
+        "url": "https://open.spotify.com/album/5DA5EcnDn8CORM4PH7bPlK"
+      },
+      "artists": [
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121086,
+      "name": "RAPSINCORTE 59",
+      "url": "https://open.spotify.com/track/1ycRDBbStnNJHOW8ifp2ED"
+    },
+    {
+      "album": {
         "name": "Real OG",
         "url": "https://open.spotify.com/album/5SnjSg1F3RtAtu7OYeNx5z"
       },
@@ -13380,6 +13442,32 @@
       "duration_ms": 160682,
       "name": "RUPIAS",
       "url": "https://open.spotify.com/track/0npNncu4hkA3aJ9L5ipZqI"
+    },
+    {
+      "album": {
+        "name": "GHETTO APOSTOL",
+        "url": "https://open.spotify.com/album/12JLqHodYyxkeoCJCySdVy"
+      },
+      "artists": [
+        {
+          "name": "Cecilio G.",
+          "url": "https://open.spotify.com/artist/2Q2fYVYxFSmodq53BFyD6p"
+        },
+        {
+          "name": "Phonkid Prod",
+          "url": "https://open.spotify.com/artist/09evNvugynu8n9Q9yzyhkT"
+        },
+        {
+          "name": "PatataOnStereo",
+          "url": "https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Rusowsky",
+      "url": "https://open.spotify.com/track/1NI48Ca6xyuUnykx8mV6Ke"
     },
     {
       "album": {

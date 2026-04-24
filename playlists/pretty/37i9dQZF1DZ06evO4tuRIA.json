@@ -1,13 +1,29 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 103093,
+  "num_followers": 103139,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAC7xbWFx7sy/IW6li4z74+p",
+  "snapshot_id": "aegPgAAAAADd9mMg9Cndk8MHZ6l7ry8x",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOS MENSAJES DE WHATSAPP",
+        "url": "https://open.spotify.com/album/5LoyP8npqd0X2iSiAjFM1A"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 199848,
+      "name": "LOS MENSAJES DE WHATSAPP",
+      "url": "https://open.spotify.com/track/4KMB2zLUtiQAnEFclWnjND"
+    },
     {
       "added_at": null,
       "album": {
@@ -411,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BARBAS",
-        "url": "https://open.spotify.com/album/2ttACERvbFesn4xcMfsatr"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 134173,
-      "name": "BARBAS",
-      "url": "https://open.spotify.com/track/4pr58HZduqoPXqe04ILjOr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4-20-20",
         "url": "https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD"
       },
@@ -447,6 +447,22 @@
       "duration_ms": 180082,
       "name": "Soy Lo Que Soy",
       "url": "https://open.spotify.com/track/1l3pEeeJygmbS1yVnrd7Cq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BARBAS",
+        "url": "https://open.spotify.com/album/2ttACERvbFesn4xcMfsatr"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 134173,
+      "name": "BARBAS",
+      "url": "https://open.spotify.com/track/4pr58HZduqoPXqe04ILjOr"
     },
     {
       "added_at": null,
@@ -531,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e1cil no Fue",
-        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 194929,
-      "name": "Chevrolet 4X4",
-      "url": "https://open.spotify.com/track/6kZs6GbMlGVkMpf6jWPGnq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy de Michoacan",
         "url": "https://open.spotify.com/album/6JNBghccdWUKfOdfVXDS5A"
       },
@@ -567,6 +563,26 @@
       "duration_ms": 162375,
       "name": "Soy de Michoacan",
       "url": "https://open.spotify.com/track/5ZwLG5AaxZuRLoIBZE5KR4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00e1cil no Fue",
+        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 194929,
+      "name": "Chevrolet 4X4",
+      "url": "https://open.spotify.com/track/6kZs6GbMlGVkMpf6jWPGnq"
     },
     {
       "added_at": null,
@@ -607,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "4-20-20",
+        "url": "https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 124574,
+      "name": "Yo",
+      "url": "https://open.spotify.com/track/5rZl5rUeKfkP6MNXfezGYw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F\u00e1cil no Fue",
         "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
       },
@@ -623,22 +655,6 @@
       "duration_ms": 162013,
       "name": "Pura Adrenalina",
       "url": "https://open.spotify.com/track/5Ho2PsKBXFpSjRBrnDwF3N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "4-20-20",
-        "url": "https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 124574,
-      "name": "Yo",
-      "url": "https://open.spotify.com/track/5rZl5rUeKfkP6MNXfezGYw"
     },
     {
       "added_at": null,
@@ -791,22 +807,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Disney",
-        "url": "https://open.spotify.com/album/71pONzODuum62WjG779fN1"
+        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
+        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
       "artists": [
         {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 149624,
-      "name": "El Disney",
-      "url": "https://open.spotify.com/track/7s6HTRJUUZ9WCY9gPDhjdj"
+      "duration_ms": 191652,
+      "name": "SOLDADO BLANCO - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/3r2kOgyTJ7ECwh6zr62BVL"
     },
     {
       "added_at": null,
@@ -831,26 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
-        "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
+        "name": "El Disney",
+        "url": "https://open.spotify.com/album/71pONzODuum62WjG779fN1"
       },
       "artists": [
         {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 191652,
-      "name": "SOLDADO BLANCO - En Vivo desde Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/3r2kOgyTJ7ECwh6zr62BVL"
+      "duration_ms": 149624,
+      "name": "El Disney",
+      "url": "https://open.spotify.com/track/7s6HTRJUUZ9WCY9gPDhjdj"
     },
     {
       "added_at": null,
@@ -939,22 +955,6 @@
       "duration_ms": 168298,
       "name": "MIKE TYSON",
       "url": "https://open.spotify.com/track/1iMecXQc0ajPS2by6Bzp5B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chambeando Recio",
-        "url": "https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 157749,
-      "name": "Chambeando Recio",
-      "url": "https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T"
     }
   ],
   "unique_name": "This Is LEGADO 7",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: \uc6b0\ub514 (Woody)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: \uc774\ucc3d\uc12d (LEECHANGSUB ) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -9079,6 +9079,24 @@
     },
     {
       "album": {
+        "name": "He'story (Shin Ye Young X Lulu-lala Friends 2)",
+        "url": "https://open.spotify.com/album/4csirJdWT7NZ1cFYRcPXXV"
+      },
+      "artists": [
+        {
+          "name": "Sin Ye Young",
+          "url": "https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "He'story",
+      "url": "https://open.spotify.com/track/5i1eunjj1liTM6lwNygo8v"
+    },
+    {
+      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/5RioRsDCuLZA1FJ274ZvEA"
       },
@@ -13107,6 +13125,24 @@
     },
     {
       "album": {
+        "name": "Isle of Me (from Sold Out On You (Original Soundtrack) part 2)",
+        "url": "https://open.spotify.com/album/4s2GLhmj4bOfhQWs71kG5L"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227286,
+      "name": "Isle of Me",
+      "url": "https://open.spotify.com/track/4zSqQbvvLk9zguQGaWiWzF"
+    },
+    {
+      "album": {
         "name": "It has to be you",
         "url": "https://open.spotify.com/album/5Z3B3zzGkNhjDa03rlPBQw"
       },
@@ -14406,7 +14442,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 243853,
       "name": "Let\u2019s Say Goodbye",
       "url": "https://open.spotify.com/track/2rj6rzz1qLMrZf8yWFwp9r"
@@ -23654,7 +23690,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 241353,
       "name": "Still In The Dream",
       "url": "https://open.spotify.com/track/3bGqReIYmdiHYoUfMDQAKX"
@@ -28190,7 +28226,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 222000,
       "name": "When the First Snow Falls",
       "url": "https://open.spotify.com/track/74e4D8f76A1nTPkWceb1Pj"
@@ -30288,6 +30324,24 @@
       "duration_ms": 288586,
       "name": "Your Word",
       "url": "https://open.spotify.com/track/4Nfd8DComTbLZtpfEdxncz"
+    },
+    {
+      "album": {
+        "name": "Youth",
+        "url": "https://open.spotify.com/album/3DBcr68sNqelCiUNAV5PdB"
+      },
+      "artists": [
+        {
+          "name": "LEECHANGSUB",
+          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/2BOh2a5CH0xGYCBx66CwsV"
     },
     {
       "album": {

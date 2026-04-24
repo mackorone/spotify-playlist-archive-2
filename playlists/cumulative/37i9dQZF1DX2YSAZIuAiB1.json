@@ -1239,6 +1239,28 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4lu8tyKC1EfmKR4pIlKJIU"
+      },
+      "artists": [
+        {
+          "name": "Curtis Kane",
+          "url": "https://open.spotify.com/artist/7LGeqJcTk3qJ23m7ROwIw6"
+        },
+        {
+          "name": "Tayron Kwidan's",
+          "url": "https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/764crxwqaxWFykvSIUtRGT"
+    },
+    {
+      "album": {
         "name": "Baby (Is it a Crime)",
         "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
       },
@@ -1410,6 +1432,32 @@
       "duration_ms": 154261,
       "name": "Balloon (feat. Doechii)",
       "url": "https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ"
+    },
+    {
+      "album": {
+        "name": "HOPE!!",
+        "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Bando (feat. Pharrell Williams & Quavo)",
+      "url": "https://open.spotify.com/track/2QfnsYXUpkiCNG56W2aW7I"
     },
     {
       "album": {
@@ -2556,7 +2604,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 169687,
       "name": "Colombina",
       "url": "https://open.spotify.com/track/2BORRiSmyXBAMAZTsppmBw"
@@ -2622,6 +2670,24 @@
       "duration_ms": 157200,
       "name": "Commas",
       "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
+    },
+    {
+      "album": {
+        "name": "Como Ouro",
+        "url": "https://open.spotify.com/album/4hZTIQF4MrNJRwGbmIA7MT"
+      },
+      "artists": [
+        {
+          "name": "Mari Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Como Ouro",
+      "url": "https://open.spotify.com/track/1QRZnXM3lEUifwEzl9xtV1"
     },
     {
       "album": {
@@ -7198,7 +7264,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 206467,
       "name": "MURAL (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/6mIiV28R5NjFBuSo31u2ER"
@@ -8392,7 +8458,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 206296,
       "name": "Pal Agua",
       "url": "https://open.spotify.com/track/5oG6xYYuukHrsK1SLagCn0"
@@ -8872,7 +8938,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 189197,
       "name": "PONGO",
       "url": "https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu"
@@ -9925,6 +9991,28 @@
     },
     {
       "album": {
+        "name": "Kehlani",
+        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186112,
+      "name": "Shoulda Never (feat. USHER)",
+      "url": "https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK"
+    },
+    {
+      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
       },
@@ -10362,6 +10450,28 @@
       "duration_ms": 171743,
       "name": "sommer (feat. CRO)",
       "url": "https://open.spotify.com/track/1SaSTeiR7cqi5fUXZlGr4e"
+    },
+    {
+      "album": {
+        "name": "Sorry Papi",
+        "url": "https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170671,
+      "name": "Sorry Papi",
+      "url": "https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk"
     },
     {
       "album": {
@@ -11684,7 +11794,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 190153,
       "name": "WACUKA",
       "url": "https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4"

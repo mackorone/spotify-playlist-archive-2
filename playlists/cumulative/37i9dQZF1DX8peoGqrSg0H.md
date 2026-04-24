@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: FOURTH
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: LYKN
 
-868 songs - 2 day 2 hr 57 min
+870 songs - 2 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Dum Dum](https://open.spotify.com/track/4XhdM1Ku9JM4abVuRWAsgk) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Dum Dum](https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1) | 3:15 | 2023-03-15 | 2023-06-16 |
 | [Everytime](https://open.spotify.com/track/5PYOHo2Nbd6bQI1RovNJLN) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Everytime](https://open.spotify.com/album/5w8irJm7unlKJ6gIzlTaLe) | 3:04 | 2022-10-13 | 2022-11-04 |
 | [Expire](https://open.spotify.com/track/7oliYDhzo6s3QtwYpQMoRH) | [Jackie Jackrin](https://open.spotify.com/artist/61wBtGF8ryUlEeb5lq4cnX) | [Expire](https://open.spotify.com/album/4tzE6Gv1L50X43CJ3PmNY2) | 4:07 | 2024-08-29 | 2024-09-06 |
-| [Eyes On You](https://open.spotify.com/track/7JfRmPoogaRCpLEZgLDOH6) | [CIR\*CRL](https://open.spotify.com/artist/5QoCHy2Npdzy9xuAkpoczL) | [Eyes On You](https://open.spotify.com/album/3h4xDeLkbj1YCTtlciGlOY) | 2:50 | 2026-04-09 |  |
+| [Eyes On You](https://open.spotify.com/track/7JfRmPoogaRCpLEZgLDOH6) | [CIR\*CRL](https://open.spotify.com/artist/5QoCHy2Npdzy9xuAkpoczL) | [Eyes On You](https://open.spotify.com/album/3h4xDeLkbj1YCTtlciGlOY) | 2:50 | 2026-04-09 | 2026-04-24 |
 | [FAKE NEWS \(หะ อะไรนะคะ?\)](https://open.spotify.com/track/1SnCcjLCMnK0Gyw9gjn3eB) | [Benzkhaokhwan](https://open.spotify.com/artist/7yH4XTziOEA3lmES4RExCy) | [FAKE NEWS \(หะ อะไรนะคะ?\)](https://open.spotify.com/album/4Z0RmooEv7EDEDv97WABCC) | 2:56 | 2025-10-09 | 2025-10-17 |
 | [Farewell](https://open.spotify.com/track/2zzZRBWWrUYPo6oTV7uHxV) | [ป๊ายปาย โอริโอ้](https://open.spotify.com/artist/0S8ls21KmpF9VJmXErvnCd) | [Farewell](https://open.spotify.com/album/53NfraNID8xEMGzsCfWGlw) | 4:07 | 2024-10-10 | 2024-10-18 |
 | [FEAT](https://open.spotify.com/track/5oa8CjmEAboPvZdtEM6W7w) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [FEAT](https://open.spotify.com/album/6W3l1MkqhGy7A7k4fZeoNw) | 2:59 | 2024-05-07 | 2025-03-02 |
@@ -157,7 +157,7 @@
 | [Mona Lisa](https://open.spotify.com/track/3H4k0YdtIxrZVORbW57wtp) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [Mona Lisa](https://open.spotify.com/album/69xnGRhLkV3mQcV30IEWMn) | 3:49 | 2024-03-21 | 2024-06-14 |
 | [Moonlight \- From "เพียงเธอ Only You"](https://open.spotify.com/track/1RoQ4rXuqDcRRD317ZzIuO) | [หลิงหลิง คอง](https://open.spotify.com/artist/1St0LTo9RMbzZWv6hvBuh5) | [Moonlight \(From "เพียงเธอ Only You"\)](https://open.spotify.com/album/4WaXszEsesYEkI5EMUwKHF) | 3:49 | 2025-07-24 | 2025-08-08 |
 | [Move In Or Move On](https://open.spotify.com/track/2ZF7OJDJxFNHHDVQAWYqvg) | [G\-ERA](https://open.spotify.com/artist/0sk3GEZlEzQC57yIbYZnES) | [Move In Or Move On](https://open.spotify.com/album/7AZ0SveImdNSLqPCBgQSBL) | 2:59 | 2025-06-13 | 2025-06-20 |
-| [MOVE YA BODY \- Prod.by NINO](https://open.spotify.com/track/6OIZ97phPBB3MqmsjZDqbP) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [MOVE YA BODY \(Prod.by NINO\)](https://open.spotify.com/album/3Zq2RLzQCTR2chmXu2sY1k) | 2:53 | 2026-04-09 |  |
+| [MOVE YA BODY \- Prod.by NINO](https://open.spotify.com/track/6OIZ97phPBB3MqmsjZDqbP) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [MOVE YA BODY \(Prod.by NINO\)](https://open.spotify.com/album/3Zq2RLzQCTR2chmXu2sY1k) | 2:53 | 2026-04-09 | 2026-04-24 |
 | [Mr\. Everything](https://open.spotify.com/track/4CHnBhfsGuReet1IMOrueC) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Mr\. Everything](https://open.spotify.com/album/51RzDgbBhPdH4MqFCFHJ30) | 3:21 | 2022-12-08 | 2024-06-01 |
 | [Mr.Sea \(feat\. LAZYLOXY\)](https://open.spotify.com/track/4HvqRt04XmIwjOlnPUXm7c) | [Tommy Sittichok](https://open.spotify.com/artist/5Phq9wNCXtNt8b0ZDwuBjF), [LAZYLOXY](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [Mr.Sea \(feat\. LAZYLOXY\)](https://open.spotify.com/album/0k0quJKuMQU2jUPrQTP1sC) | 3:50 | 2024-03-28 | 2024-04-05 |
 | [My Angel \(The Original Soundtrack ”Boyband The Series”\)](https://open.spotify.com/track/55b97MkUuNNL0rRbgqYqR0) | [XI](https://open.spotify.com/artist/00EYO9tpVSk1YkXQs1awnQ) | [My Angel \(The Original Soundtrack ”Boyband The Series”\)](https://open.spotify.com/album/4w1kRtxK4swO4nagj3sgOd) | 4:34 | 2023-02-10 | 2023-02-17 |
@@ -440,6 +440,7 @@
 | [ถ้าพี่ยังว่างอยู่..\. \(Come to be mine\) \- Special Track](https://open.spotify.com/track/29o0NtvmnO9LqXA3SLBAzp) | [THI\-O&TUTOR](https://open.spotify.com/artist/0iQRr3ewj0oFUnhccKmx0b) | [ถ้าพี่ยังว่างอยู่..\. \(Come to be mine\) \[Special Track\]](https://open.spotify.com/album/2aWjMiLMRKZDM2sytFHuVZ) | 3:54 | 2023-05-26 | 2023-06-02 |
 | [ถ้ามันคือเรื่องจริง \(Imagine\)](https://open.spotify.com/track/2vMyzG2h4OtF5iC5FB3JWW) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Ready or Not?](https://open.spotify.com/album/0e5GwPIz7IVwz7YLKPpgKn) | 3:52 | 2022-05-26 | 2023-08-08 |
 | [ถ้ารู้ว่าจะเป็นวันสุดท้าย \(What If\)](https://open.spotify.com/track/1QEcjyNgnbMKGx3O3cyql3) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ถ้ารู้ว่าจะเป็นวันสุดท้าย \(What If\)](https://open.spotify.com/album/6RbkOgLaSyRje54Rsv7D8B) | 3:12 | 2025-01-25 | 2025-02-21 |
+| [ถ้าเกิด \(If Only\)](https://open.spotify.com/track/2Fy0wd6wmL9QSujVYizVbp) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [ถ้าเกิด \(If Only\)](https://open.spotify.com/album/09ohr5Op86uFo9tGRhOxbv) | 4:24 | 2026-04-23 |  |
 | [ถ้าเขาไม่ดี \(Back To Me\)](https://open.spotify.com/track/76z7LacX96wN87m6sQd4Y6) | [PRIMETIME](https://open.spotify.com/artist/0cxjtDzPYTQ718EiPNXUbi) | [ถ้าเขาไม่ดี \(Back To Me\)](https://open.spotify.com/album/2iS7dgWOi50pagVFoS7Xt0) | 3:00 | 2024-03-26 | 2024-03-29 |
 | [ถ้าเธอ feat\. Violette Wautier](https://open.spotify.com/track/2bGK8OZkr2IH4XHFMWS3CZ) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ถ้าเธอ](https://open.spotify.com/album/5ZyBwGsykmsxmxk8qNu7pD) | 3:19 | 2022-05-26 | 2022-08-26 |
 | [ถ้าเธอจะรักก็รักไปนานแล้ว](https://open.spotify.com/track/0n325RDOa9owgXvUtuxlO7) | [GoyNattyDream](https://open.spotify.com/artist/3FkXFqPqFF7nZgNTAYXBFU) | [ถ้าเธอจะรักก็รักไปนานแล้ว](https://open.spotify.com/album/7IGF03KO1vRanMOaROicVI) | 3:44 | 2022-12-01 | 2023-04-13 |
@@ -565,6 +566,7 @@
 | [รักแรก \(First Love\) \[เพลงประกอบภาพยนตร์ รักแรกโคตรลืมยาก My Precious\]](https://open.spotify.com/track/5Zlwu2g4rzTNfyu28L1bWv) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [รักแรก \(First Love\) \- Single](https://open.spotify.com/album/0ekYRFwm00v69rJfTS0W3s) | 4:26 | 2023-06-01 | 2024-08-30 |
 | [รักแรกพบ \(Knock Knock\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/6jo2rnrIYLXUUcJOpuTfaq) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 2:37 | 2025-03-31 | 2025-08-30 |
 | [รักในวันฝนมา \- เพลงจากละคร วิวาห์ฟ้าแลบ](https://open.spotify.com/track/34HpfHhOP7iajSuZHlexDa) | [CINCIN IRADA X DIAMOND LAZ1](https://open.spotify.com/artist/5rGodrPbDeEJti8no09ppe) | [เพลงจากละคร วิวาห์ฟ้าแลบ](https://open.spotify.com/album/7npbOU0f6TqTUmrRfy1Xsz) | 2:55 | 2022-08-18 | 2023-02-14 |
+| [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/track/0jmSojJLnjiQpGGM3HHlYS) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/album/0UEgkWQcEQ9pvIHUpuxbmH) | 3:22 | 2026-04-23 |  |
 | [รักได้แล้ว \(NEXT STATUS\) \(From "ด้วงกับเธอ Duang With You"\)](https://open.spotify.com/track/1rJceKkVcWiRrvclYG5CQr) | [DEXX](https://open.spotify.com/artist/00xcYloqQIi9MrDTP7NUuA) | [รักได้แล้ว \(NEXT STATUS\) \(From "ด้วงกับเธอ Duang With You"\)](https://open.spotify.com/album/226RxI5ZNyh78F0UOi0JqP) | 3:37 | 2026-04-02 |  |
 | [รักไม่รัก \(Close Friend\)](https://open.spotify.com/track/3wCdrlyRJ2zuBIZRbmDVZW) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ), [NONNY9](https://open.spotify.com/artist/3iOF8kiG0peRzcvbFSa9xS) | [รักไม่รัก \(Close Friend\)](https://open.spotify.com/album/5QCYOx0c5M06VH2OtkCoYA) | 2:57 | 2025-03-20 | 2025-05-09 |
 | [รักไม่รู้ตัว](https://open.spotify.com/track/3hiEqyzUZEs9pThJOhad8j) | [Yin War](https://open.spotify.com/artist/1KABNMgqq6AVxBNyNGMdr0) | [รักไม่รู้ตัว](https://open.spotify.com/album/6zPPp3G1wfTCc6F2v11cDR) | 3:39 | 2023-11-02 | 2023-11-10 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-18",
-  "description": "Your new favourite songs! Cover: Matt Corby",
+  "description": "Your new favourite songs! Cover: KATSEYE",
   "name": "Breaking Hits",
   "tracks": [
     {
@@ -3005,6 +3005,24 @@
     },
     {
       "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
+    },
+    {
+      "album": {
         "name": "BOTH",
         "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
       },
@@ -5671,6 +5689,24 @@
     },
     {
       "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231086,
+      "name": "Doors",
+      "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
+    },
+    {
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
       },
@@ -7747,6 +7783,24 @@
     },
     {
       "album": {
+        "name": "GO",
+        "url": "https://open.spotify.com/album/6H1P4U7vkFCorLUxgoOAlt"
+      },
+      "artists": [
+        {
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180461,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/1KAV8Xo95JU3eNwmvW2imc"
+    },
+    {
+      "album": {
         "name": "GO GO GO",
         "url": "https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S"
       },
@@ -8392,6 +8446,24 @@
       "duration_ms": 153016,
       "name": "Hass Hass",
       "url": "https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD"
+    },
+    {
+      "album": {
+        "name": "Hate Myself",
+        "url": "https://open.spotify.com/album/0rbrIJIWuQUEFDxgVzAXXp"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152508,
+      "name": "Hate Myself",
+      "url": "https://open.spotify.com/track/16F28Z5FEqGUbglyMtz6Yz"
     },
     {
       "album": {
@@ -10636,6 +10708,24 @@
       "duration_ms": 250681,
       "name": "Keith",
       "url": "https://open.spotify.com/track/4Jw5EpH27DZLcnKrITo7en"
+    },
+    {
+      "album": {
+        "name": "KGB",
+        "url": "https://open.spotify.com/album/06wdsqUb4GSuR29Luwiu8n"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157316,
+      "name": "KGB",
+      "url": "https://open.spotify.com/track/7C7vnAW3L8ahsOGsZKY6EP"
     },
     {
       "album": {
@@ -15114,7 +15204,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 262726,
       "name": "Porch Light",
       "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
@@ -17904,6 +17994,24 @@
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "album": {
+        "name": "Stuntn",
+        "url": "https://open.spotify.com/album/2A8KqE7vvH5f8lIjWfvYny"
+      },
+      "artists": [
+        {
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151212,
+      "name": "Stuntn",
+      "url": "https://open.spotify.com/track/7FpBSmSsI3AHNTVptxEv1K"
     },
     {
       "album": {

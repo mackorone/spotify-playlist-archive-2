@@ -2,9 +2,9 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover: Calema
+> Fall in love with the sensual sounds of Kizomba! Cover: Mr\. Marley, Toy
 
-666 songs - 1 day 14 hr 13 min
+667 songs - 1 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [Plena](https://open.spotify.com/track/5DbCRhNJEROHB1VlMaVMsU) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Plena](https://open.spotify.com/album/3sm5aFmxL0Wle47WKnjeQk) | 3:37 | 2021-12-10 | 2022-07-29 |
 | [Podem Até Tentar](https://open.spotify.com/track/4kceEw4hLkTDCUZkt8Dv49) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Podem Até Tentar](https://open.spotify.com/album/5cJgnQcq4EAQRcSRWPZFZC) | 3:01 | 2023-11-10 | 2024-03-08 |
 | [Pondodu](https://open.spotify.com/track/0hfdyksAPklSdEcZEeen5q) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi), [Boy Game](https://open.spotify.com/artist/0uUqFjPffTb1fW3spN0spk), [Pcc](https://open.spotify.com/artist/2iBToyDbE9ZmciHQTxmSTy) | [Pondodu](https://open.spotify.com/album/51gfGpmvSvZnVwxnnwWHpa) | 3:23 | 2024-05-16 | 2024-07-27 |
+| [Ponto Fraco](https://open.spotify.com/track/2skOe09LFNltnIf5fvNOI3) | [Afroplug](https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK), [Tony Z](https://open.spotify.com/artist/1LQV4iAHmqsgD14kDSm3Pt) | [Ponto Fraco](https://open.spotify.com/album/6Obzb9NI2fOREY6NX7FYuw) | 4:09 | 2026-04-23 |  |
 | [Ponto Fraco](https://open.spotify.com/track/3nR6Dqo6GNFU6TFPO2dlHK) | [Felishia](https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm) | [Ponto Fraco](https://open.spotify.com/album/36yV217SdLgdCwKvSZLLTb) | 2:58 | 2025-10-16 | 2025-11-21 |
 | [Ponto Fraco](https://open.spotify.com/track/3rVRiXccJGkY2LnO4JbjIx) | [Veré](https://open.spotify.com/artist/22ETMn3YclHsYBIh4iKuQp) | [Ponto Fraco](https://open.spotify.com/album/4BLNPhgHzxIWpbKNlJn68y) | 3:04 | 2023-01-04 | 2023-06-23 |
 | [Por Amor](https://open.spotify.com/track/2cFS3igl7hfUukhW9yf884) | [Dj Ademar](https://open.spotify.com/artist/1cvPuORQS4Mihsv28cWjpX), [Edix](https://open.spotify.com/artist/5oNpL3NI6Ddrlc1D93Nf60) | [Por Amor](https://open.spotify.com/album/6TFy6a1zOGefONH4GMYcIG) | 3:19 | 2026-02-13 | 2026-02-27 |
@@ -558,7 +559,7 @@
 | [Ta fazer](https://open.spotify.com/track/685ACRruMNaRg7fvTi3UFA) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Mula Jr](https://open.spotify.com/artist/47JefxkE3SEp3z2QP8H4Oz) | [Ta fazer](https://open.spotify.com/album/0ENtycVf0qDIQHzdu9p80A) | 3:58 | 2024-08-15 | 2024-08-23 |
 | [Tamu Numa](https://open.spotify.com/track/0Fgdh3VyT4Fpzkyk0TC96P) | [Ronaldo Fernandes](https://open.spotify.com/artist/47LXVWC7NdpaeeRruejUZu) | [Tamu Numa](https://open.spotify.com/album/5Bs0buHAWwayzsMLT0gF66) | 2:40 | 2025-01-17 | 2025-08-15 |
 | [TANTO PR’A VIVER \(feat\. Matias Damásio\)](https://open.spotify.com/track/3gom9XHytg4YnDKzOVDVI4) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj), [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2) | [TANTO PR’A VIVER \(feat\. Matias Damásio\)](https://open.spotify.com/album/4n7bQ38B5YqWTXmJ19ABHi) | 3:03 | 2026-01-30 |  |
-| [Tarraxinha](https://open.spotify.com/track/5zFiKis35K7y8G4H5Y1A9j) | [Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [CEF Tanzy](https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ) | [Tarraxinha](https://open.spotify.com/album/74ausXGM4e3XqEi8Ew7wda) | 2:24 | 2024-01-12 |  |
+| [Tarraxinha](https://open.spotify.com/track/5zFiKis35K7y8G4H5Y1A9j) | [Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [CEF Tanzy](https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ) | [Tarraxinha](https://open.spotify.com/album/74ausXGM4e3XqEi8Ew7wda) | 2:24 | 2024-01-12 | 2026-04-24 |
 | [Tarraxinha](https://open.spotify.com/track/3TTp0EFRE1gIewd5cTOOZq) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Skuco](https://open.spotify.com/artist/4nLc6AQhRPQKGWc615P1B6) | [Tarraxinha](https://open.spotify.com/album/2BxU96Wg6dVoFxSuEAsw0X) | 3:37 | 2025-08-28 | 2025-10-03 |
 | [Tayanna](https://open.spotify.com/track/5koelUYXOtUwFvRvuaNu2n) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Tayanna](https://open.spotify.com/album/4SUO5EOORH2ofi8H5gBlkC) | 3:49 | 2021-12-10 | 2022-02-17 |
 | [Te Amo](https://open.spotify.com/track/1pcARA1iBjvjnHgrMeo9c9) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Te Amo](https://open.spotify.com/album/4xCCW00iAqMGJArZCBIVNZ) | 4:15 | 2021-12-10 |  |

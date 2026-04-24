@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "Sommarland",
+        "url": "https://open.spotify.com/album/3Fs1NyFLebhVWHyYTW4cSz"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172596,
+      "name": "Allt jag har",
+      "url": "https://open.spotify.com/track/0grHyIry2NnHHfH7oPQi7G"
+    },
+    {
+      "album": {
         "name": "Alltid f\u00f6r alltid",
         "url": "https://open.spotify.com/album/2dMsFd4EfIc2MagYvYlSQO"
       },
@@ -2669,6 +2687,24 @@
     },
     {
       "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+    },
+    {
+      "album": {
         "name": "Eaten by Worms",
         "url": "https://open.spotify.com/album/2B10ChD0Pr0MW5ljca4jIS"
       },
@@ -2894,6 +2930,24 @@
       "duration_ms": 161940,
       "name": "even if my heart breaks",
       "url": "https://open.spotify.com/track/1zjLuFuezkngtOgUQhAwjX"
+    },
+    {
+      "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248902,
+      "name": "EVERYTHING HALLELUJAH",
+      "url": "https://open.spotify.com/track/5AwNJ5mr7mHyIhlKnQICEJ"
     },
     {
       "album": {

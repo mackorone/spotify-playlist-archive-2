@@ -6,8 +6,24 @@
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAOSFOFBDDeNgqG/UVCwcbqgiX4r4jL",
+  "snapshot_id": "AAAOXHY8/CjbE9rDXUnwTZcEz9fEgc/0",
   "tracks": [
+    {
+      "added_at": "2026-04-23 04:57:04",
+      "album": {
+        "name": "doomed from the start",
+        "url": "https://open.spotify.com/album/3yt9kSR0VqhASkjMHSJcOz"
+      },
+      "artists": [
+        {
+          "name": "dredge",
+          "url": "https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "captain oblivious",
+      "url": "https://open.spotify.com/track/4HZks0OCQtWbrjh8MbgZtH"
+    },
     {
       "added_at": "2026-04-22 14:07:35",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 232959,
       "name": "Get Motivated",
       "url": "https://open.spotify.com/track/3kravhCwMvloxttZIygnMo"
-    },
-    {
-      "added_at": "2026-02-26 08:38:44",
-      "album": {
-        "name": "drink beer, hail satan",
-        "url": "https://open.spotify.com/album/4eKZhihizzJ7U1m5zqdnPs"
-      },
-      "artists": [
-        {
-          "name": "dredge",
-          "url": "https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W"
-        }
-      ],
-      "duration_ms": 288875,
-      "name": "drink beer, hail satan",
-      "url": "https://open.spotify.com/track/4fgUwLlbpgGGXCkBYWokai"
     },
     {
       "added_at": "2025-09-16 08:32:18",
@@ -159,6 +159,122 @@
       "duration_ms": 185777,
       "name": "Can't Get You Out of My Head - Audio Pulleys Remix",
       "url": "https://open.spotify.com/track/0TizK9mGVoFiRebj7JP3AP"
+    },
+    {
+      "added_at": "2026-04-23 15:06:40",
+      "album": {
+        "name": "D.O.G.",
+        "url": "https://open.spotify.com/album/2ZIBlxvJlVIkorxSJ3KUZk"
+      },
+      "artists": [
+        {
+          "name": "Liptards",
+          "url": "https://open.spotify.com/artist/4LioiOqNVrpnq1ViuUbhgn"
+        }
+      ],
+      "duration_ms": 263391,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/1PqDb9WwBPx3dsSYGzvOrJ"
+    },
+    {
+      "added_at": "2026-04-23 15:02:48",
+      "album": {
+        "name": "Pogs",
+        "url": "https://open.spotify.com/album/70PbdxbodrHsk2LLgPJ7r8"
+      },
+      "artists": [
+        {
+          "name": "Ounce Of Pain",
+          "url": "https://open.spotify.com/artist/7wz7tcrXP2SuydYXyQY0lJ"
+        }
+      ],
+      "duration_ms": 80957,
+      "name": "Pogs",
+      "url": "https://open.spotify.com/track/5QXJuP29zZA6TQgI0FKUF2"
+    },
+    {
+      "added_at": "2026-04-23 15:00:16",
+      "album": {
+        "name": "Ready. Set. GO!",
+        "url": "https://open.spotify.com/album/560BVfgLQhDZYNqOeWDJXU"
+      },
+      "artists": [
+        {
+          "name": "The Lyrics",
+          "url": "https://open.spotify.com/artist/1FfgK1y6boiZv49RIflpaO"
+        }
+      ],
+      "duration_ms": 194788,
+      "name": "Ready. Set. GO!",
+      "url": "https://open.spotify.com/track/2bKMI2zOzySL2Fv3NzvFHb"
+    },
+    {
+      "added_at": "2026-04-23 14:56:05",
+      "album": {
+        "name": "Live Easy. Make More.",
+        "url": "https://open.spotify.com/album/6V1XEAWCLGOtIcwzTRdgpa"
+      },
+      "artists": [
+        {
+          "name": "Loose Dirt",
+          "url": "https://open.spotify.com/artist/4FFAYPL0VMUxNNN9Hjj6gO"
+        }
+      ],
+      "duration_ms": 172540,
+      "name": "Computer. NOW",
+      "url": "https://open.spotify.com/track/2pQVIMYF5rIM01FzHaG9vK"
+    },
+    {
+      "added_at": "2026-04-23 14:44:51",
+      "album": {
+        "name": "Era Viscera",
+        "url": "https://open.spotify.com/album/2mX5nj6KOCPU7akHs3LaSB"
+      },
+      "artists": [
+        {
+          "name": "The Operating Room",
+          "url": "https://open.spotify.com/artist/4EvlkZr3kmmMH3w3cZ7yfP"
+        }
+      ],
+      "duration_ms": 155800,
+      "name": "Nightshade",
+      "url": "https://open.spotify.com/track/6Y4wVPUTaUwhfL4F0Bt8cz"
+    },
+    {
+      "added_at": "2026-04-23 14:43:34",
+      "album": {
+        "name": "I Wanna Get High",
+        "url": "https://open.spotify.com/album/0HxgZQkueLCVW6SC48s8kI"
+      },
+      "artists": [
+        {
+          "name": "CADE",
+          "url": "https://open.spotify.com/artist/0OmXq0se9DLi3mEgxcL70O"
+        },
+        {
+          "name": "Fox Fagan",
+          "url": "https://open.spotify.com/artist/6kDeko7eYsULS2Tmt3Q0ym"
+        }
+      ],
+      "duration_ms": 185068,
+      "name": "I Wanna Get High",
+      "url": "https://open.spotify.com/track/1TZ2TX2rugTPhN1mYDqLSf"
+    },
+    {
+      "added_at": "2026-04-23 14:00:27",
+      "album": {
+        "name": "Eat Your Feelings",
+        "url": "https://open.spotify.com/album/74NZnykHWNs2RzrxmUbbcD"
+      },
+      "artists": [
+        {
+          "name": "Our Lives In Cinema",
+          "url": "https://open.spotify.com/artist/5BwHD6aQUcPkdaji5CLBMT"
+        }
+      ],
+      "duration_ms": 197700,
+      "name": "Selective History",
+      "url": "https://open.spotify.com/track/3Sp0CkHlVfQjM6VjMFMFDu"
     },
     {
       "added_at": "2026-04-22 15:29:59",
@@ -1685,22 +1801,6 @@
       "url": "https://open.spotify.com/track/6RERmuoi4zQ42gm5M7pSvC"
     },
     {
-      "added_at": "2026-03-24 03:28:29",
-      "album": {
-        "name": "PELUCA",
-        "url": "https://open.spotify.com/album/4XEHb88Irn4IBcQg0g6uhQ"
-      },
-      "artists": [
-        {
-          "name": "Mercedes & Marxx",
-          "url": "https://open.spotify.com/artist/11Biva5YYueJ1lSg2UzoS8"
-        }
-      ],
-      "duration_ms": 193826,
-      "name": "PELUCA",
-      "url": "https://open.spotify.com/track/3KbY5CV42zjVCBxS5PAUty"
-    },
-    {
       "added_at": "2025-08-03 07:15:47",
       "album": {
         "name": "White Blood Cells",
@@ -2693,20 +2793,20 @@
       "url": "https://open.spotify.com/track/4Zro22fXDS05ypKWJOasZZ"
     },
     {
-      "added_at": "2025-11-14 07:25:19",
+      "added_at": "2026-02-26 08:38:44",
       "album": {
-        "name": "Symbol of Absence",
-        "url": "https://open.spotify.com/album/3GeTP3sWi4i4acX36zKfDo"
+        "name": "drink beer, hail satan",
+        "url": "https://open.spotify.com/album/4eKZhihizzJ7U1m5zqdnPs"
       },
       "artists": [
         {
-          "name": "D\u00e9j\u00e0 Young",
-          "url": "https://open.spotify.com/artist/6FXPElF9E7z8LEe21uMzr7"
+          "name": "dredge",
+          "url": "https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W"
         }
       ],
-      "duration_ms": 246607,
-      "name": "Symbol of Absence",
-      "url": "https://open.spotify.com/track/3aGQqnQXTlEASZuDh4d6C3"
+      "duration_ms": 288875,
+      "name": "drink beer, hail satan",
+      "url": "https://open.spotify.com/track/4fgUwLlbpgGGXCkBYWokai"
     },
     {
       "added_at": "2025-08-03 07:09:52",
@@ -3173,186 +3273,6 @@
       "url": "https://open.spotify.com/track/4ZgBrpzGjzlgZrl6C9QNoS"
     },
     {
-      "added_at": "2026-04-04 05:14:52",
-      "album": {
-        "name": "Abaddon",
-        "url": "https://open.spotify.com/album/4qFzmjuuTKUKtsLfwlzli6"
-      },
-      "artists": [
-        {
-          "name": "Peak Level",
-          "url": "https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss"
-        }
-      ],
-      "duration_ms": 276521,
-      "name": "Abaddon",
-      "url": "https://open.spotify.com/track/06sblMoAO7CaPcIAcamm9B"
-    },
-    {
-      "added_at": "2026-04-04 05:13:18",
-      "album": {
-        "name": "Get Outta My Head",
-        "url": "https://open.spotify.com/album/4IXPVKy739ap5syrDJguG5"
-      },
-      "artists": [
-        {
-          "name": "TV Screams",
-          "url": "https://open.spotify.com/artist/00mAGDlNPbLOc8Bugv6iz4"
-        }
-      ],
-      "duration_ms": 158521,
-      "name": "Get Outta My Head",
-      "url": "https://open.spotify.com/track/7hKZGgTrWm2S8jvGLs9Pdl"
-    },
-    {
-      "added_at": "2026-04-03 10:46:11",
-      "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/5cjxDenutIFsdXTJ10m61f"
-      },
-      "artists": [
-        {
-          "name": "The Lovekiller",
-          "url": "https://open.spotify.com/artist/3XTgWLoxDGFr3VLC5Wq4j2"
-        }
-      ],
-      "duration_ms": 282437,
-      "name": "Stripped",
-      "url": "https://open.spotify.com/track/6vorScXqRtKXUm6czL5qh5"
-    },
-    {
-      "added_at": "2026-04-03 06:09:36",
-      "album": {
-        "name": "Before It's Too Late",
-        "url": "https://open.spotify.com/album/5IMxv9leayaxEaPw3swLWr"
-      },
-      "artists": [
-        {
-          "name": "Melexo",
-          "url": "https://open.spotify.com/artist/5rOtSodS6Uf2sAWsjhjHXM"
-        },
-        {
-          "name": "JET",
-          "url": "https://open.spotify.com/artist/6mIbZws8iW0fnafaUnlNJz"
-        }
-      ],
-      "duration_ms": 177726,
-      "name": "Before It's Too Late",
-      "url": "https://open.spotify.com/track/6IdxAzlM1h5wkM6JRztFUh"
-    },
-    {
-      "added_at": "2026-04-03 06:10:15",
-      "album": {
-        "name": "Somebody Better",
-        "url": "https://open.spotify.com/album/7gbPQEUfxR5cH7s2dAMzZJ"
-      },
-      "artists": [
-        {
-          "name": "Enjoy Less",
-          "url": "https://open.spotify.com/artist/4ghXiXTuhVBizmDdrR7W5x"
-        }
-      ],
-      "duration_ms": 240653,
-      "name": "Somebody Better",
-      "url": "https://open.spotify.com/track/6Z8QO6fM6aUyqYdMOA47uC"
-    },
-    {
-      "added_at": "2026-04-04 05:12:42",
-      "album": {
-        "name": "She",
-        "url": "https://open.spotify.com/album/0bAZFkJk4WmmttHvTwGoOb"
-      },
-      "artists": [
-        {
-          "name": "TV Screams",
-          "url": "https://open.spotify.com/artist/00mAGDlNPbLOc8Bugv6iz4"
-        }
-      ],
-      "duration_ms": 141688,
-      "name": "She",
-      "url": "https://open.spotify.com/track/4D3PrNYtV7Il9QOQsX2nYK"
-    },
-    {
-      "added_at": "2026-04-03 06:12:30",
-      "album": {
-        "name": "Crowned",
-        "url": "https://open.spotify.com/album/6ctZD4a26o1JQciJ9g5mW7"
-      },
-      "artists": [
-        {
-          "name": "Hurakan",
-          "url": "https://open.spotify.com/artist/5w35Gt5153qhoSwR4MVtEU"
-        }
-      ],
-      "duration_ms": 114600,
-      "name": "Crowned",
-      "url": "https://open.spotify.com/track/0tyZM3OawPGQc0heX67clL"
-    },
-    {
-      "added_at": "2026-04-03 10:48:22",
-      "album": {
-        "name": "Archive",
-        "url": "https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH"
-      },
-      "artists": [
-        {
-          "name": "Vann's Nebula",
-          "url": "https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM"
-        }
-      ],
-      "duration_ms": 178502,
-      "name": "Zenith",
-      "url": "https://open.spotify.com/track/6OrjMdW9uD4sDkJueoK3Jh"
-    },
-    {
-      "added_at": "2026-04-04 05:14:16",
-      "album": {
-        "name": "TRUCKIN' EP",
-        "url": "https://open.spotify.com/album/6WXiAv8LsKlQHT26HAin7f"
-      },
-      "artists": [
-        {
-          "name": "TV Screams",
-          "url": "https://open.spotify.com/artist/00mAGDlNPbLOc8Bugv6iz4"
-        }
-      ],
-      "duration_ms": 132469,
-      "name": "Runnin",
-      "url": "https://open.spotify.com/track/4OLphiU0dKvFTkIPSdOS5j"
-    },
-    {
-      "added_at": "2026-04-04 05:37:06",
-      "album": {
-        "name": "Into The Abyss",
-        "url": "https://open.spotify.com/album/6mFmaXf3aTwmLFUPasr0Dc"
-      },
-      "artists": [
-        {
-          "name": "Banner Of The Sun",
-          "url": "https://open.spotify.com/artist/2mXehPu27jCUu7PuQgYoZq"
-        }
-      ],
-      "duration_ms": 295312,
-      "name": "Into The Abyss",
-      "url": "https://open.spotify.com/track/2i3wLIHbtIfAAV8IIWv18p"
-    },
-    {
-      "added_at": "2026-04-04 16:00:29",
-      "album": {
-        "name": "You Know",
-        "url": "https://open.spotify.com/album/53LzGxN4ZxyrfQtOkB8xDa"
-      },
-      "artists": [
-        {
-          "name": "The Multides",
-          "url": "https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG"
-        }
-      ],
-      "duration_ms": 163855,
-      "name": "You Know",
-      "url": "https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC"
-    },
-    {
       "added_at": "2026-04-07 20:55:43",
       "album": {
         "name": "Fuel The Flame EP",
@@ -3383,38 +3303,6 @@
       "duration_ms": 185000,
       "name": "Bab L\u2019bhair (Puerta del mar)",
       "url": "https://open.spotify.com/track/1bTFBacpVR1OGMsK6moVPK"
-    },
-    {
-      "added_at": "2026-04-05 03:22:59",
-      "album": {
-        "name": "InMyPocket",
-        "url": "https://open.spotify.com/album/5UD14tyo9S72nM4t1hJl0F"
-      },
-      "artists": [
-        {
-          "name": "kiftoh",
-          "url": "https://open.spotify.com/artist/4vU0G9EFI6KcI3wlswQZux"
-        }
-      ],
-      "duration_ms": 158414,
-      "name": "InMyPocket",
-      "url": "https://open.spotify.com/track/53MV9GVk3mwPEER5k9a6uS"
-    },
-    {
-      "added_at": "2026-04-05 03:22:17",
-      "album": {
-        "name": "Suffocate",
-        "url": "https://open.spotify.com/album/2Lf5lv42euE8VEV1ypzDX3"
-      },
-      "artists": [
-        {
-          "name": "Thryne",
-          "url": "https://open.spotify.com/artist/1h0DVLrg1C8l3gUo0ZgFnT"
-        }
-      ],
-      "duration_ms": 256549,
-      "name": "Suffocate",
-      "url": "https://open.spotify.com/track/1HKpxECheP56EpoEf2552h"
     },
     {
       "added_at": "2026-04-07 20:56:56",
@@ -4335,6 +4223,70 @@
       "duration_ms": 110718,
       "name": "Burn The Boats",
       "url": "https://open.spotify.com/track/6iWf8nIPY949D9hPEtTeto"
+    },
+    {
+      "added_at": "2026-04-23 09:02:39",
+      "album": {
+        "name": "I'm Fine",
+        "url": "https://open.spotify.com/album/2tUxkqeBFtI7vQ7JmL3xnn"
+      },
+      "artists": [
+        {
+          "name": "Just Arrogant Animals",
+          "url": "https://open.spotify.com/artist/5nNS162iNQSZVgyNdV0Egf"
+        }
+      ],
+      "duration_ms": 205061,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/3hTtLzmLOQlCQjQ72kYsUo"
+    },
+    {
+      "added_at": "2026-04-23 09:03:14",
+      "album": {
+        "name": "Blow Me Away",
+        "url": "https://open.spotify.com/album/2EWmStaVxqkLH70deH87vo"
+      },
+      "artists": [
+        {
+          "name": "Dk Shawtyy",
+          "url": "https://open.spotify.com/artist/6LLz47c8x1gOSzzftIKdVs"
+        }
+      ],
+      "duration_ms": 100056,
+      "name": "Blow Me Away",
+      "url": "https://open.spotify.com/track/4sZhowjeiEUXY4X0hfVAQb"
+    },
+    {
+      "added_at": "2026-04-23 14:30:52",
+      "album": {
+        "name": "Acid Viking",
+        "url": "https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz"
+      },
+      "artists": [
+        {
+          "name": "Lady Owl",
+          "url": "https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO"
+        }
+      ],
+      "duration_ms": 218906,
+      "name": "Chilly",
+      "url": "https://open.spotify.com/track/0fhXATRQObAWuSEUlNY6td"
+    },
+    {
+      "added_at": "2026-04-23 15:12:27",
+      "album": {
+        "name": "Life's Still Fucked",
+        "url": "https://open.spotify.com/album/2Ocn4rGqryiDjI1QagjVTn"
+      },
+      "artists": [
+        {
+          "name": "Kodin Hill 'N The Pressed Pills",
+          "url": "https://open.spotify.com/artist/3PHByAugCg7AlaC2Nunccy"
+        }
+      ],
+      "duration_ms": 122823,
+      "name": "Life's Still Fucked",
+      "url": "https://open.spotify.com/track/5A8kgUPV50z7mEBqdGF1rJ"
     }
   ],
   "unique_name": "Shuffle Roulette",

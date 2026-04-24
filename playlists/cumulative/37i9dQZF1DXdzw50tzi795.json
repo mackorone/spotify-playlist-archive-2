@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JOEY PHUWASIT",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: guncharlie",
   "name": "\u0e09\u0e31\u0e19\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22",
   "tracks": [
     {
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 224497,
       "name": "\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23",
       "url": "https://open.spotify.com/track/4sQjVDas1lw04lj3NGsoDC"
@@ -4434,6 +4434,28 @@
       "duration_ms": 245000,
       "name": "\u0e43\u0e08\u0e40\u0e1b\u0e47\u0e19\u0e19\u0e32\u0e22 \u0e01\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e1a\u0e48\u0e32\u0e27",
       "url": "https://open.spotify.com/track/1gagehYgkm4azlIyIasuAO"
+    },
+    {
+      "album": {
+        "name": "ROOM101",
+        "url": "https://open.spotify.com/album/5KyBfveZb2nGL3Hl4qlwz3"
+      },
+      "artists": [
+        {
+          "name": "GAVIN:D",
+          "url": "https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22"
+        },
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227785,
+      "name": "\u0e44\u0e14\u0e49\u0e41\u0e04\u0e48\u0e40\u0e14\u0e34\u0e19\u0e21\u0e32\u0e2a\u0e48\u0e07 (The Last Walk)",
+      "url": "https://open.spotify.com/track/1FhxX1Su9kwKFEqM4qqEJ6"
     },
     {
       "album": {

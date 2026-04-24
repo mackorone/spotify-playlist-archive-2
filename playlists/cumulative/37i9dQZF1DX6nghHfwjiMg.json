@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "EL QUE COMPR\u00d3 PERDI\u00d3",
+        "url": "https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio"
+      },
+      "artists": [
+        {
+          "name": "Little Boogie",
+          "url": "https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0"
+        },
+        {
+          "name": "Bebox",
+          "url": "https://open.spotify.com/artist/60fauDyOXHxbclrKkyJNGV"
+        },
+        {
+          "name": "STEREO",
+          "url": "https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139020,
+      "name": "1.ROCHO TURRO - BONUS TRACK",
+      "url": "https://open.spotify.com/track/4GrOlepVlDYzN3p8YaA22V"
+    },
+    {
+      "album": {
         "name": "Principio del Fin",
         "url": "https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m"
       },
@@ -480,6 +506,24 @@
       "duration_ms": 244090,
       "name": "Bailarina",
       "url": "https://open.spotify.com/track/6aKDevkHNVtAXRUVC5aiu3"
+    },
+    {
+      "album": {
+        "name": "bajare",
+        "url": "https://open.spotify.com/album/7H1sGpah9AY06xW4QB3rPW"
+      },
+      "artists": [
+        {
+          "name": "Lito",
+          "url": "https://open.spotify.com/artist/3y7HnEVrtqMCiz1I7gLjGW"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147898,
+      "name": "bajare",
+      "url": "https://open.spotify.com/track/2W6X9hHAYlVDW9ksl2d68D"
     },
     {
       "album": {
@@ -1196,10 +1240,28 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 136470,
       "name": "DEJA DE SUFRIR",
       "url": "https://open.spotify.com/track/1YopQmeeJjiwp1BYPaCvtK"
+    },
+    {
+      "album": {
+        "name": "Dejame de Joder",
+        "url": "https://open.spotify.com/album/0tw7URjGOJqmjdH55c1zu6"
+      },
+      "artists": [
+        {
+          "name": "SOFA",
+          "url": "https://open.spotify.com/artist/1qq6GushnQDP09yNO9VcEX"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146747,
+      "name": "Dejame de Joder",
+      "url": "https://open.spotify.com/track/7edfsFmsbjrcKKsCxxQzBE"
     },
     {
       "album": {
@@ -2715,6 +2777,28 @@
     },
     {
       "album": {
+        "name": "Libros",
+        "url": "https://open.spotify.com/album/1afjwi14YT8ZfrHu7asnSl"
+      },
+      "artists": [
+        {
+          "name": "Joako Garcia",
+          "url": "https://open.spotify.com/artist/0UDzdnndviQU4dtzQ47zqz"
+        },
+        {
+          "name": "Cofran Olima",
+          "url": "https://open.spotify.com/artist/3HtJSyjCHB5mii6zpG5967"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210810,
+      "name": "Libros",
+      "url": "https://open.spotify.com/track/1HNbpzg02LwvscJiyR5Adk"
+    },
+    {
+      "album": {
         "name": "MARTTEIN",
         "url": "https://open.spotify.com/album/0D56WWn0u7w5UWeqx1WzOV"
       },
@@ -2734,6 +2818,24 @@
       "duration_ms": 177814,
       "name": "LLAMALO",
       "url": "https://open.spotify.com/track/7jt4CMYzHjlwYV6AiSqFBX"
+    },
+    {
+      "album": {
+        "name": "Lo mejor",
+        "url": "https://open.spotify.com/album/60OPdho3AHL5dXBMLlsTzr"
+      },
+      "artists": [
+        {
+          "name": "Catalina Bay\u00e1",
+          "url": "https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205819,
+      "name": "Lo mejor",
+      "url": "https://open.spotify.com/track/7FcL1jwNdxTTqpGOzfxYGC"
     },
     {
       "album": {
@@ -5310,6 +5412,24 @@
       "duration_ms": 154376,
       "name": "un tiro",
       "url": "https://open.spotify.com/track/2XwuYSEl8sYgTWPmsBtAJP"
+    },
+    {
+      "album": {
+        "name": "Hola Desde Lejos",
+        "url": "https://open.spotify.com/album/5XJBbtZ52efSi8ahmDh3y2"
+      },
+      "artists": [
+        {
+          "name": "Pupa",
+          "url": "https://open.spotify.com/artist/4DeufbCPBkq8eqpPRAiuqh"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223910,
+      "name": "Un Verano",
+      "url": "https://open.spotify.com/track/4KmifMKGyC8kQ326lEgVUP"
     },
     {
       "album": {

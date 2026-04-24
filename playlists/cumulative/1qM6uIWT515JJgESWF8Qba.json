@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Broken Wings",
+        "url": "https://open.spotify.com/album/2Mz0dXbN2s0tRdOTujMPCT"
+      },
+      "artists": [
+        {
+          "name": "Deully",
+          "url": "https://open.spotify.com/artist/1tttcmDgOPmadXhAVQZLyr"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261133,
+      "name": "Broken Wings",
+      "url": "https://open.spotify.com/track/5AxJgG2erlDiiwqPaRizts"
+    },
+    {
+      "album": {
         "name": "Buio Deluxe",
         "url": "https://open.spotify.com/album/7agcgNqIzHnBH7E8dcj0xx"
       },

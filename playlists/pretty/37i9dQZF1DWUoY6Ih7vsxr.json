@@ -1,6 +1,6 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 349281,
+  "num_followers": 349413,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 236817,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/7GLlnuHjYIKy3YR59ziaQe"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
         "name": "Trouble Maker",
         "url": "https://open.spotify.com/album/130MEXfaPjOmSkE18F9rJm"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 232333,
       "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry",
       "url": "https://open.spotify.com/track/5w18nowVMRZrC5Na9Vxoth"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 236817,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/7GLlnuHjYIKy3YR59ziaQe"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Mr. Simple - The 5th Album",
-        "url": "https://open.spotify.com/album/0eouyQPmljivHfUuG5nYBa"
-      },
-      "artists": [
-        {
-          "name": "SUPER JUNIOR",
-          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
-        }
-      ],
-      "duration_ms": 241826,
-      "name": "Mr. Simple",
-      "url": "https://open.spotify.com/track/6QTBYKLlV2PQniwAWrBV2z"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "MIROTIC - The 4th Album",
         "url": "https://open.spotify.com/album/51Wmrzs9O87YlKp2vqDwln"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 208466,
       "name": "MIROTIC",
       "url": "https://open.spotify.com/track/4BZhUnXvXYRQJPClr0hhIC"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Mr. Simple - The 5th Album",
+        "url": "https://open.spotify.com/album/0eouyQPmljivHfUuG5nYBa"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "duration_ms": 241826,
+      "name": "Mr. Simple",
+      "url": "https://open.spotify.com/track/6QTBYKLlV2PQniwAWrBV2z"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
+        "name": "Electric Shock - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "Electric Shock",
+      "url": "https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/7ufUDUerN7wKhTTQ6yefmy"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 193153,
       "name": "Catallena",
       "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
-        "name": "Electric Shock - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "Electric Shock",
-      "url": "https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Invitation",
-        "url": "https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "\ubcf4\uc5ec\uc904\uac8c",
-      "url": "https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "ALONE",
         "url": "https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 206266,
       "name": "Alone",
       "url": "https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Invitation",
+        "url": "https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "\ubcf4\uc5ec\uc904\uac8c",
+      "url": "https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Hoot - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/2qEugS42uGnquWJnufwjyg"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "Hoot",
-      "url": "https://open.spotify.com/track/1uLBl4JvBl7bwSRkxmggkS"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "SHAKE IT",
         "url": "https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 208506,
       "name": "SHAKE IT",
       "url": "https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Hoot - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/2qEugS42uGnquWJnufwjyg"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "Hoot",
+      "url": "https://open.spotify.com/track/1uLBl4JvBl7bwSRkxmggkS"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Hot Summer - The 1st Album Repackage",
-        "url": "https://open.spotify.com/album/5hr3fB4sBOMC7kZr4VvsUu"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 190546,
-      "name": "Chu~\u2661",
-      "url": "https://open.spotify.com/track/2NAT52rmZWuQWv3F3SolId"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "\uaf43\ubcf4\ub2e4 \ub0a8\uc790 (Original Television Soundtrack) Pt. 2",
         "url": "https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 195693,
       "name": "\uc560\uc778\ub9cc\ub4e4\uae30",
       "url": "https://open.spotify.com/track/0S5b4F4ZT8EImBRIg9Mxjc"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Hot Summer - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/5hr3fB4sBOMC7kZr4VvsUu"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 190546,
+      "name": "Chu~\u2661",
+      "url": "https://open.spotify.com/track/2NAT52rmZWuQWv3F3SolId"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1027,8 +1027,8 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/6xtwhgCQDV11P8MPmM4nIu"
+        "name": "Shock Of The New Era",
+        "url": "https://open.spotify.com/album/1B7oXzVqP0X5AS8HsMaUtg"
       },
       "artists": [
         {
@@ -1036,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
         }
       ],
-      "duration_ms": 218566,
-      "name": "Beautiful Night",
-      "url": "https://open.spotify.com/track/3NlzcNh6rPwP0FAVXgt8rG"
+      "duration_ms": 225594,
+      "name": "Shock",
+      "url": "https://open.spotify.com/track/2nzKrSghWXVnpudod8SKoY"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1107,8 +1107,8 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Shock Of The New Era",
-        "url": "https://open.spotify.com/album/1B7oXzVqP0X5AS8HsMaUtg"
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/6xtwhgCQDV11P8MPmM4nIu"
       },
       "artists": [
         {
@@ -1116,9 +1116,9 @@
           "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
         }
       ],
-      "duration_ms": 225594,
-      "name": "Shock",
-      "url": "https://open.spotify.com/track/2nzKrSghWXVnpudod8SKoY"
+      "duration_ms": 218566,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/3NlzcNh6rPwP0FAVXgt8rG"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Hard to love, How to love",
-        "url": "https://open.spotify.com/album/2x29rw7sHezje8lFwT1XCn"
-      },
-      "artists": [
-        {
-          "name": "Beast",
-          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
-        }
-      ],
-      "duration_ms": 216868,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/0yiW0iUlPQg5htp6GyR7v7"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Timeless : The Best",
         "url": "https://open.spotify.com/album/2IOJzhoCZo6MNjMGMMQcp2"
       },
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "\uae30\ub300",
-        "url": "https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM"
+        "name": "Hard to love, How to love",
+        "url": "https://open.spotify.com/album/2x29rw7sHezje8lFwT1XCn"
       },
       "artists": [
         {
-          "name": "Girl's Day",
-          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
+          "name": "Beast",
+          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
         }
       ],
-      "duration_ms": 186493,
-      "name": "\ubc18\uc9dd\ubc18\uc9dd",
-      "url": "https://open.spotify.com/track/3GYjMYmmvBIk0xwbQhAnQ8"
+      "duration_ms": 216868,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/0yiW0iUlPQg5htp6GyR7v7"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1347,6 +1331,22 @@
       "duration_ms": 213400,
       "name": "Kiss (Dara)",
       "url": "https://open.spotify.com/track/4kay2XPHGRBS1VaKIEL39K"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "\uae30\ub300",
+        "url": "https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM"
+      },
+      "artists": [
+        {
+          "name": "Girl's Day",
+          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "\ubc18\uc9dd\ubc18\uc9dd",
+      "url": "https://open.spotify.com/track/3GYjMYmmvBIk0xwbQhAnQ8"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Name is 4minute",
-        "url": "https://open.spotify.com/album/5KgCib0zfgBuKVuIFr3jhU"
+        "name": "A's Doll House",
+        "url": "https://open.spotify.com/album/7LAxFe8bbiNDWWDtMTL0hC"
       },
       "artists": [
         {
-          "name": "4Minute",
-          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
         }
       ],
-      "duration_ms": 186775,
-      "name": "What's your name?",
-      "url": "https://open.spotify.com/track/13xfTHyEclnBd7XAS1P5Er"
+      "duration_ms": 194712,
+      "name": "U & I",
+      "url": "https://open.spotify.com/track/1wKOJ2fTflDiABy1EbFflM"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "A's Doll House",
-        "url": "https://open.spotify.com/album/7LAxFe8bbiNDWWDtMTL0hC"
+        "name": "Mona Lisa",
+        "url": "https://open.spotify.com/album/72wKfG02gkSv77CiPamZao"
       },
       "artists": [
         {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+          "name": "MBLAQ",
+          "url": "https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG"
         }
       ],
-      "duration_ms": 194712,
-      "name": "U & I",
-      "url": "https://open.spotify.com/track/1wKOJ2fTflDiABy1EbFflM"
+      "duration_ms": 221532,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/5FPaK0UNFA124uvUMJgIFE"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Mona Lisa",
-        "url": "https://open.spotify.com/album/72wKfG02gkSv77CiPamZao"
+        "name": "Name is 4minute",
+        "url": "https://open.spotify.com/album/5KgCib0zfgBuKVuIFr3jhU"
       },
       "artists": [
         {
-          "name": "MBLAQ",
-          "url": "https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG"
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
         }
       ],
-      "duration_ms": 221532,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/5FPaK0UNFA124uvUMJgIFE"
+      "duration_ms": 186775,
+      "name": "What's your name?",
+      "url": "https://open.spotify.com/track/13xfTHyEclnBd7XAS1P5Er"
     },
     {
       "added_at": "2024-03-27 14:24:46",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The future hits of today. Up Next: Amma",
+  "description": "The future hits of today. Up Next: TAR1Q",
   "name": "NXT",
   "tracks": [
     {
@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Attack",
+        "url": "https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Attack",
+      "url": "https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ"
+    },
+    {
+      "album": {
         "name": "Breaking",
         "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
       },
@@ -2084,6 +2102,28 @@
       "duration_ms": 182142,
       "name": "Bobo",
       "url": "https://open.spotify.com/track/48fNM8TUHTZbndUYoWnEUy"
+    },
+    {
+      "album": {
+        "name": "BOBO",
+        "url": "https://open.spotify.com/album/66gCIlSy7wrGshPZAp0dLK"
+      },
+      "artists": [
+        {
+          "name": "Zarion Uti",
+          "url": "https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg"
+        },
+        {
+          "name": "Boybreed",
+          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205128,
+      "name": "BOBO",
+      "url": "https://open.spotify.com/track/3ojkCh9xRGNUihupY3Tb8o"
     },
     {
       "album": {
@@ -2907,6 +2947,24 @@
     },
     {
       "album": {
+        "name": "COLD OUTSIDE",
+        "url": "https://open.spotify.com/album/1V9JGN8fMNMtFJvpJmFYWR"
+      },
+      "artists": [
+        {
+          "name": "Mckay",
+          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "COLD OUTSIDE",
+      "url": "https://open.spotify.com/track/2w5sflB3yU87VPmyfHhhN8"
+    },
+    {
+      "album": {
         "name": "Cold War",
         "url": "https://open.spotify.com/album/5EjNSzsV0sgEcXO7u00f0y"
       },
@@ -3176,6 +3234,24 @@
       "duration_ms": 162893,
       "name": "Count My Blessings",
       "url": "https://open.spotify.com/track/43ZHlCWp1TAA1dyMxNh28L"
+    },
+    {
+      "album": {
+        "name": "Coup\u00e9",
+        "url": "https://open.spotify.com/album/4qGZxpr6XVmHsoM3WKgDR0"
+      },
+      "artists": [
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168312,
+      "name": "Coup\u00e9",
+      "url": "https://open.spotify.com/track/7hyoqFb1SsoPW96pcOndPM"
     },
     {
       "album": {
@@ -11437,6 +11513,24 @@
     },
     {
       "album": {
+        "name": "Sesi",
+        "url": "https://open.spotify.com/album/3yBUvZ7lmnGicfM5Of3xTt"
+      },
+      "artists": [
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173658,
+      "name": "Sesi",
+      "url": "https://open.spotify.com/track/3Ov8MLsFdrNDcSp4KzdLhi"
+    },
+    {
+      "album": {
         "name": "Set (Baby)",
         "url": "https://open.spotify.com/album/36vZKHC4Lhms8VbbOh8bhu"
       },
@@ -11528,7 +11622,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 175000,
       "name": "Shakabulizzy - Remix",
       "url": "https://open.spotify.com/track/3yzs58LteW16AjEb4J5vvi"
@@ -12842,6 +12936,24 @@
       "duration_ms": 181606,
       "name": "Titi",
       "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
+    },
+    {
+      "album": {
+        "name": "KURIMA TOO",
+        "url": "https://open.spotify.com/album/47xYOo6w2pzlhKqjKn1YZy"
+      },
+      "artists": [
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147561,
+      "name": "Tobi",
+      "url": "https://open.spotify.com/track/3Iuoa61V8hB9IQj2DCBLVJ"
     },
     {
       "album": {

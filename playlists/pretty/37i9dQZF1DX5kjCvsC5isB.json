@@ -1,6 +1,6 @@
 {
   "description": "the bold women of rock & alternative today. Cover: The Warning",
-  "num_followers": 315927,
+  "num_followers": 315937,
   "original_name": "Fierce Femmes",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/2sNqTVi6uSJ99YIjIuiilx"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 208586,
+      "name": "Coma",
+      "url": "https://open.spotify.com/track/0ztuxnri8ShWvmhZkZN9fA"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
         "name": "She\u2019s So Cool (with Pale Waves)",
         "url": "https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/2sNqTVi6uSJ99YIjIuiilx"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 208586,
-      "name": "Coma",
-      "url": "https://open.spotify.com/track/0ztuxnri8ShWvmhZkZN9fA"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Like I Say (I runaway)",
         "url": "https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Always Get This Way",
-        "url": "https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 174258,
-      "name": "Always Get This Way",
-      "url": "https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Don't Need You",
         "url": "https://open.spotify.com/album/35gFs2xTjmciWt5UXv4RwC"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 206470,
       "name": "Don't Need You",
       "url": "https://open.spotify.com/track/6tpwK4QEA9IlWGv3KuaR6n"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Always Get This Way",
+        "url": "https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 174258,
+      "name": "Always Get This Way",
+      "url": "https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/7BDvfsNZv6e5LqgqPppEuy"
-      },
-      "artists": [
-        {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
-        }
-      ],
-      "duration_ms": 127383,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/1hf9bnNxtokh6t6pT8pnva"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "I Kill Everything",
         "url": "https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 216333,
       "name": "I Kill Everything",
       "url": "https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/7BDvfsNZv6e5LqgqPppEuy"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "duration_ms": 127383,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/1hf9bnNxtokh6t6pT8pnva"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "The CARR Show",
-        "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
-      },
-      "artists": [
-        {
-          "name": "CARR",
-          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
-        }
-      ],
-      "duration_ms": 149106,
-      "name": "Spiral City",
-      "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Shortest Fuse",
         "url": "https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 220649,
       "name": "Shortest Fuse",
       "url": "https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "The CARR Show",
+        "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
+      },
+      "artists": [
+        {
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+        }
+      ],
+      "duration_ms": 149106,
+      "name": "Spiral City",
+      "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Holy Touch",
-        "url": "https://open.spotify.com/album/1Ew7k7kcMCmJ19GoDntcrN"
-      },
-      "artists": [
-        {
-          "name": "Suzy Clue",
-          "url": "https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK"
-        }
-      ],
-      "duration_ms": 224395,
-      "name": "Holy Touch",
-      "url": "https://open.spotify.com/track/4OX2oCV4aZHnmCf1Woh0FG"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Welcome to My House",
         "url": "https://open.spotify.com/album/07UT7tQ1llvdiYSdhz1brM"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 207008,
       "name": "Welcome to My House",
       "url": "https://open.spotify.com/track/0q1EgphEnjNphQaiG1wHnw"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Holy Touch",
+        "url": "https://open.spotify.com/album/1Ew7k7kcMCmJ19GoDntcrN"
+      },
+      "artists": [
+        {
+          "name": "Suzy Clue",
+          "url": "https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK"
+        }
+      ],
+      "duration_ms": 224395,
+      "name": "Holy Touch",
+      "url": "https://open.spotify.com/track/4OX2oCV4aZHnmCf1Woh0FG"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1639,22 +1639,18 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "FCKN IN LOVE (Mute Choir Remix)",
-        "url": "https://open.spotify.com/album/4rGngww6I50IfgUAZAnDxs"
+        "name": "The Pain",
+        "url": "https://open.spotify.com/album/7joUWLYVbBN7QllFU1hTsD"
       },
       "artists": [
         {
-          "name": "Fefe Dobson",
-          "url": "https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ"
-        },
-        {
-          "name": "Mute Choir",
-          "url": "https://open.spotify.com/artist/3gpigA0gozgJpoFVyhVUPu"
+          "name": "Another Sky",
+          "url": "https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr"
         }
       ],
-      "duration_ms": 189818,
-      "name": "FCKN IN LOVE (Mute Choir Remix)",
-      "url": "https://open.spotify.com/track/7LzZoRUTE997XJlJakYyBF"
+      "duration_ms": 221080,
+      "name": "The Pain",
+      "url": "https://open.spotify.com/track/7436W6cDzihQ5AJvTsa0Vw"
     }
   ],
   "unique_name": "Fierce Femmes",

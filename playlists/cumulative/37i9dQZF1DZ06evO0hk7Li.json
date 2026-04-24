@@ -429,6 +429,24 @@
     },
     {
       "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286099,
+      "name": "Claim To Fame",
+      "url": "https://open.spotify.com/track/2oV0vuWcqfUxsXWDHtKiK8"
+    },
+    {
+      "album": {
         "name": "Claim To Fame",
         "url": "https://open.spotify.com/album/3ZoQcnaE1wrq2RjvgjMQBL"
       },
@@ -440,7 +458,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 286099,
       "name": "Claim To Fame",
       "url": "https://open.spotify.com/track/4rBGEMauvu7JaEjFSG6p3s"
@@ -1678,7 +1696,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 191613,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn"
@@ -2416,7 +2434,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 238165,
       "name": "Who Made You King?",
       "url": "https://open.spotify.com/track/5mEOVfaAOXSgHWoBZXvoWU"

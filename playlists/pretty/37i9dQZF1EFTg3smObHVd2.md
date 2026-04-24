@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 361 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 77 | [Subtitles](https://open.spotify.com/track/4rcuPpjHrjDiS2xvxzUigK) | [Neon Hitch](https://open.spotify.com/artist/2TnJ7VOpGzjtKUn0ObpEYe), [Kinetics](https://open.spotify.com/artist/6MbdoQknD1A8JsZByxbUmB) | [301 to Paradise Mixtape](https://open.spotify.com/album/7fkEYyakqwhcQyNemwQBMr) | 5:28 |
 | 78 | [Tidal Wave](https://open.spotify.com/track/2JpPFrqMUw6l6FinaP0THY) | [Zank](https://open.spotify.com/artist/6xI9Q6HuhHUxiYhcRdeHKN) | [Tidal Wave](https://open.spotify.com/album/3t5UI2nBI1ui1asvIq2Bpe) | 2:46 |
 | 79 | [Higher \(feat\. Autumn Rowe\)](https://open.spotify.com/track/2y3zuCRyrhUKqZpC5iwU0e) | [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [Chapter II \(Deluxe\)](https://open.spotify.com/album/1IMBoaFPmzHBHQjR8vVO2v) | 3:19 |
-| 80 | [Stars](https://open.spotify.com/track/7lkwr08KZ3un9SKYNHZhf9) | [Zen Freeman](https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stars](https://open.spotify.com/album/1vL7KWDVXbMncqdJQOImn7) | 6:28 |
-| 81 | [Gentleman](https://open.spotify.com/track/6URTOfc0nxjdDOW78EpWSR) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Gentleman](https://open.spotify.com/album/1zjogtorX0HTkEfUQ1zot7) | 3:35 |
+| 80 | [Gentleman](https://open.spotify.com/track/6URTOfc0nxjdDOW78EpWSR) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Gentleman](https://open.spotify.com/album/1zjogtorX0HTkEfUQ1zot7) | 3:35 |
+| 81 | [Stars](https://open.spotify.com/track/7lkwr08KZ3un9SKYNHZhf9) | [Zen Freeman](https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stars](https://open.spotify.com/album/1vL7KWDVXbMncqdJQOImn7) | 6:28 |
 | 82 | [Good for You](https://open.spotify.com/track/6xkRlf3PL1rJrUWltDJh2o) | [Ashley Campbell](https://open.spotify.com/artist/49mvmawPDTzmEaEPY5z0ew) | [The Lonely One](https://open.spotify.com/album/1cwovZdlVDJarqdYdRxeIh) | 3:54 |
 | 83 | [I C U](https://open.spotify.com/track/3qab885LkthLRoVxIw6Ek2) | [Th3rdstream](https://open.spotify.com/artist/4NlVHWGq2M57GbUzcBqEAS), [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [Love & Blood](https://open.spotify.com/album/6kNlBaFUALYiVCieaO3oqp) | 2:21 |
 | 84 | [Bullshit in Disguise](https://open.spotify.com/track/1GvB8lPblkTIVKWmHei9VI) | [Marie Noreger](https://open.spotify.com/artist/5xyRNaMYYZySaNqjiFyR47) | [Gravity](https://open.spotify.com/album/230NAWq6YRHMKTFkw3gYON) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 99 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 100 | [Have You Seen My Light](https://open.spotify.com/track/0BeaAtd0znjz9AfXAyD1XW) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [October 8](https://open.spotify.com/album/6PTt3Rv4JQrQ6NkT1Fgn7z) | 3:07 |
 
-Snapshot ID: `AcPkfgAAAAAcotTOz1KP/OxPwc9jI1PH`
+Snapshot ID: `AcPqHgAAAACIbIFHg1nEDtWvV/I9FdM2`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Yammi",
+  "description": "What is your love language? Say it in Swahili.  Cover: Aslay",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -1740,7 +1740,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 180000,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/3DoeIKVIwZfspIP4IzOlj6"
@@ -2150,7 +2150,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 204029,
       "name": "I\u2019m in Love",
       "url": "https://open.spotify.com/track/0S8sYk7nIChReBozy6jj4v"
@@ -3370,6 +3370,24 @@
     {
       "album": {
         "name": "Moyo",
+        "url": "https://open.spotify.com/album/4OEjsxaYkOs9T5rR5uqSMu"
+      },
+      "artists": [
+        {
+          "name": "Tommy Flavour",
+          "url": "https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Moyo",
+      "url": "https://open.spotify.com/track/0YsbBzLZiOXFwTQ0mFYSX5"
+    },
+    {
+      "album": {
+        "name": "Moyo",
         "url": "https://open.spotify.com/album/6G4pydEf93kthE5qJlxQ8i"
       },
       "artists": [
@@ -3974,7 +3992,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 200602,
       "name": "Naoa (feat. Alikiba)",
       "url": "https://open.spotify.com/track/6ETg6zK0OdMIODhjDxvEp9"
@@ -5365,6 +5383,24 @@
     },
     {
       "album": {
+        "name": "Searching for Love",
+        "url": "https://open.spotify.com/album/7EgruAjgY7cV4YEbn4zZbK"
+      },
+      "artists": [
+        {
+          "name": "Vanillah",
+          "url": "https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "Searching for Love",
+      "url": "https://open.spotify.com/track/0nkrOVuEuIXmTeM20SfPeA"
+    },
+    {
+      "album": {
         "name": "Sele (feat. Chley)",
         "url": "https://open.spotify.com/album/4KJZg1xvNwfRkbJYDuz4Wc"
       },
@@ -5660,7 +5696,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 183370,
       "name": "Sioni Sisikii",
       "url": "https://open.spotify.com/track/5WfRCsZXVVbsxYSjYD8E1h"

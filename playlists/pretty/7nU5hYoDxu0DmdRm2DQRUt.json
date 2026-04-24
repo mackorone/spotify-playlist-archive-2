@@ -1,13 +1,113 @@
 {
   "description": "New Arrivals keeps you posted on the latest records arriving in our record store and online shop &#x2F; kompakt.fm",
-  "num_followers": 7933,
+  "num_followers": 7934,
   "original_name": "KOMPAKT: New Arrivals",
   "owner": {
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAPCp4AcMIh/vurzx4UweZ/n6IzrsBx",
+  "snapshot_id": "AAAPE04APi0jqO1jiJUcXmoFQ+O0ouMH",
   "tracks": [
+    {
+      "added_at": "2026-04-23 10:05:37",
+      "album": {
+        "name": "Lurk",
+        "url": "https://open.spotify.com/album/2wIOfIOoEi1t3HVYeTMhmZ"
+      },
+      "artists": [
+        {
+          "name": "Joachim Spieth",
+          "url": "https://open.spotify.com/artist/2EwAX9aQZtKjs0EmZ1LrQJ"
+        }
+      ],
+      "duration_ms": 389333,
+      "name": "Phobia - Original",
+      "url": "https://open.spotify.com/track/4PAOF7C1H3Viy5ekCn3w4V"
+    },
+    {
+      "added_at": "2026-04-23 10:05:54",
+      "album": {
+        "name": "Dominus",
+        "url": "https://open.spotify.com/album/36rHlMdZnjAc7bp2NHaddG"
+      },
+      "artists": [
+        {
+          "name": "Parallel 9",
+          "url": "https://open.spotify.com/artist/5VWshOLeHwzhDjFl3HrbMG"
+        }
+      ],
+      "duration_ms": 465741,
+      "name": "Dominus",
+      "url": "https://open.spotify.com/track/000cvWxObL9QPOqGwKOpD4"
+    },
+    {
+      "added_at": "2026-04-23 10:06:05",
+      "album": {
+        "name": "Virton",
+        "url": "https://open.spotify.com/album/77pz7iks2dLTGM7qg6myug"
+      },
+      "artists": [
+        {
+          "name": "Ignacio",
+          "url": "https://open.spotify.com/artist/1nROvklQGtPA1ZssB6OJMb"
+        }
+      ],
+      "duration_ms": 497169,
+      "name": "Virton",
+      "url": "https://open.spotify.com/track/4qH4qZnaKhucSVKh9KiVun"
+    },
+    {
+      "added_at": "2026-04-23 10:07:17",
+      "album": {
+        "name": "Untitled (Spectra)",
+        "url": "https://open.spotify.com/album/20Jq7UMHzHmHtQBo4jAtqS"
+      },
+      "artists": [
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "duration_ms": 329704,
+      "name": "Untitled (Spectra)",
+      "url": "https://open.spotify.com/track/1ee7RHeiiPU2kgslXjBUjv"
+    },
+    {
+      "added_at": "2026-04-23 10:07:35",
+      "album": {
+        "name": "Plastic Venus",
+        "url": "https://open.spotify.com/album/7I4DHdsLSalBWnFaBNMZUJ"
+      },
+      "artists": [
+        {
+          "name": "Luigi Tozzi",
+          "url": "https://open.spotify.com/artist/3gqqyAsMBj22JNd5zPx2cY"
+        }
+      ],
+      "duration_ms": 360937,
+      "name": "Helix",
+      "url": "https://open.spotify.com/track/15OqaRF1TDu18UTiAs5zkI"
+    },
+    {
+      "added_at": "2026-04-23 10:04:35",
+      "album": {
+        "name": "Harmony (Edit)",
+        "url": "https://open.spotify.com/album/51XYRhXky1ldFXOkZjc0jS"
+      },
+      "artists": [
+        {
+          "name": "Dirty Channels",
+          "url": "https://open.spotify.com/artist/6Mfp25l60MUxx8MWkA0vil"
+        },
+        {
+          "name": "Minyeshu",
+          "url": "https://open.spotify.com/artist/3ntsRdTDNao8vYPk3aMmPQ"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Harmony - Edit",
+      "url": "https://open.spotify.com/track/3t7m84EKJ4yQ5y8xM05dFP"
+    },
     {
       "added_at": "2026-04-17 14:05:39",
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's country crop. Cover: Lane Pittman",
+  "description": "The cream of today's country crop. Cover: Cameron Whitcomb",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -4471,6 +4471,24 @@
     },
     {
       "album": {
+        "name": "CROOKED ROAD",
+        "url": "https://open.spotify.com/album/2zxfSHnDIzxmnfCsHrMgm3"
+      },
+      "artists": [
+        {
+          "name": "Dylan Wright",
+          "url": "https://open.spotify.com/artist/0XjUzkpgj8t1MnxhROumUe"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202359,
+      "name": "CROOKED ROAD",
+      "url": "https://open.spotify.com/track/47sb7pIsZeJ7v19Pcy8yZy"
+    },
+    {
+      "album": {
         "name": "Cruise Control",
         "url": "https://open.spotify.com/album/5xEP796HQV7XpByVpgZC9e"
       },
@@ -4875,6 +4893,24 @@
     },
     {
       "album": {
+        "name": "Dead Man Walkin'",
+        "url": "https://open.spotify.com/album/1OQQ8s6Ia3cmioSbZNNkZ2"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159607,
+      "name": "Dead Man Walkin'",
+      "url": "https://open.spotify.com/track/547opdfofRbb8cQRgyjFrH"
+    },
+    {
+      "album": {
         "name": "Dead To Me",
         "url": "https://open.spotify.com/album/07VQaRYNPQrX5q74HYMlqF"
       },
@@ -4998,6 +5034,24 @@
       "duration_ms": 232133,
       "name": "Deeper Well",
       "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
+    },
+    {
+      "album": {
+        "name": "Demons In Your Choir",
+        "url": "https://open.spotify.com/album/1dAKuCI09fY46OiAzjTlHz"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256095,
+      "name": "Demons In Your Choir",
+      "url": "https://open.spotify.com/track/39Ra5S4b4srNRbPScFDKo7"
     },
     {
       "album": {
@@ -5846,7 +5900,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 152360,
       "name": "Empty Words",
       "url": "https://open.spotify.com/track/42Zw3Z5xOv7bTV6C6PVwRg"
@@ -6206,7 +6260,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 201586,
       "name": "Feels Like Love",
       "url": "https://open.spotify.com/track/2IKIlZ4epdAuFnsytqZrJN"
@@ -9872,7 +9926,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 212929,
       "name": "If I Don't Leave I'm Gonna Stay",
       "url": "https://open.spotify.com/track/5RehL4XyHKmmOvBwADqYt9"
@@ -11012,7 +11066,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 195933,
       "name": "Levee",
       "url": "https://open.spotify.com/track/0oLyWbuXqkSM8mBeWs5YSj"
@@ -11156,7 +11210,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 176837,
       "name": "Like God Intended",
       "url": "https://open.spotify.com/track/1dPKGWxMILRedoNtjUa8mh"
@@ -11420,7 +11474,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 184383,
       "name": "Lonesome Dove",
       "url": "https://open.spotify.com/track/3ossErA68C3bYNofQgQDsB"
@@ -12794,6 +12848,24 @@
       "duration_ms": 224108,
       "name": "Music for the Soul",
       "url": "https://open.spotify.com/track/2CkZIsVGVK7vOpWlPjJ2SE"
+    },
+    {
+      "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/36WMj8Of34pEoLiWippTVg"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210379,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/1CmtShhBd1Ep9WecIZKhpv"
     },
     {
       "album": {
@@ -17221,6 +17293,28 @@
     },
     {
       "album": {
+        "name": "Songs About Us",
+        "url": "https://open.spotify.com/album/59lMZSEM0zreLqcLhhx8cE"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172491,
+      "name": "Songs About Us",
+      "url": "https://open.spotify.com/track/7Mt9l5xWp9u5eP0KOfF7Ss"
+    },
+    {
+      "album": {
         "name": "Hey World",
         "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
       },
@@ -19078,7 +19172,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 190000,
       "name": "Thorns",
       "url": "https://open.spotify.com/track/00mF2mWX2yYQehNfDDrY11"
@@ -19114,7 +19208,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 199681,
       "name": "THOSE NIGHTS",
       "url": "https://open.spotify.com/track/4A7v4y1K55aqbgx43oekIv"
@@ -21550,6 +21644,24 @@
       "duration_ms": 190500,
       "name": "You Can Admit You Like Country Music",
       "url": "https://open.spotify.com/track/5iSJvRx1NeyCiexSFNkMLw"
+    },
+    {
+      "album": {
+        "name": "You Can Have Him",
+        "url": "https://open.spotify.com/album/2sLwRHswcURQ3Oe0chhcN8"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195924,
+      "name": "You Can Have Him",
+      "url": "https://open.spotify.com/track/2Fk3aGFUTMniC8tNSJWe4S"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-293 songs - 17 hr 13 min
+294 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,12 +144,13 @@
 | [I'm The Problem](https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm The Problem](https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD) | 2:57 | 2025-04-17 |  |
 | [In Between](https://open.spotify.com/track/3ff9CeRsa0eIyVqHwcmUSi) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [In Between](https://open.spotify.com/album/2Ppz3Hw0YEXsKuC5PCisjT) | 3:08 | 2024-07-19 | 2025-01-17 |
 | [In The Middle Of It](https://open.spotify.com/track/1RwZ3acl6fKP04Yv3zWtPW) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [In The Middle Of It](https://open.spotify.com/album/2JOSogTvcer7AY1zZLRSIE) | 4:00 | 2025-09-18 | 2026-01-31 |
+| [In The Moment](https://open.spotify.com/track/7MCTDFpYb66IBlwwuFgBgL) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [In The Moment](https://open.spotify.com/album/0EDAnrrOZsdcGyT73cExJd) | 3:55 | 2026-04-23 |  |
 | [Inconsolable](https://open.spotify.com/track/2iF3DCqqC0tUzaqJp4EQ93) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Inconsolable](https://open.spotify.com/album/5ZU7CTzoZzvji3RgLRr7tl) | 3:32 | 2024-09-26 | 2025-02-08 |
 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 | 2025-01-16 |  |
 | [Into The Wild](https://open.spotify.com/track/2Fu4lrs00YKBQ1sIHUT4Kl) | [Jennifer Ewbank](https://open.spotify.com/artist/4u4FMpLyYiyJzP3AULKdO8) | [Into The Wild](https://open.spotify.com/album/10JOoOnHzsKLifj0g1DTJy) | 2:45 | 2023-08-24 | 2025-01-17 |
 | [It Takes A Woman](https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [It Takes A Woman](https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR) | 4:06 | 2025-02-03 |  |
 | [It's So Easy](https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [Alpine Gold](https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK) | 3:16 | 2023-10-31 | 2025-02-04 |
-| [Joyride](https://open.spotify.com/track/7ow3RLEhU7vpiGAq26BFkN) | [MISTER & MRS](https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS) | [Joyride](https://open.spotify.com/album/23UG1n839vfkWKbciCBIyA) | 2:37 | 2026-01-29 |  |
+| [Joyride](https://open.spotify.com/track/7ow3RLEhU7vpiGAq26BFkN) | [MISTER & MRS](https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS) | [Joyride](https://open.spotify.com/album/23UG1n839vfkWKbciCBIyA) | 2:37 | 2026-01-29 | 2026-04-24 |
 | [Keep It Simple](https://open.spotify.com/track/30V2xXhFd3tEnxNo3suBKa) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Keep It Simple](https://open.spotify.com/album/7GazVXm5O9ETxTyNcvO6Yi) | 3:13 | 2023-11-09 | 2024-08-30 |
 | [Kingdom Of Mine](https://open.spotify.com/track/4nbxAUtL0FDDIv4GWLk40H) | [Timo de Jong](https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x) | [Kingdom Of Mine](https://open.spotify.com/album/4H41jpFZJXfteb9EmmtTWq) | 3:00 | 2024-01-25 | 2025-01-17 |
 | [Know Your Demons](https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Know Your Demons](https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8) | 3:26 | 2023-02-23 | 2024-03-13 |

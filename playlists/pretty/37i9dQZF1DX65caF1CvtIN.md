@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,039 likes - 151 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,062 likes - 151 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

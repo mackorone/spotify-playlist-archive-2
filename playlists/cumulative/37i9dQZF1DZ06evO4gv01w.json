@@ -716,10 +716,28 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 273237,
       "name": "Bluephoria",
       "url": "https://open.spotify.com/track/1VBIGJaKmOPcVcblzIlZk4"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273237,
+      "name": "Bluephoria",
+      "url": "https://open.spotify.com/track/7Do8H5FJLqlNWucdTN7AmN"
     },
     {
       "album": {
@@ -2106,7 +2124,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 246472,
       "name": "Little Bit",
       "url": "https://open.spotify.com/track/0zC6UhoAauAwCJ4vaEtcA9"
@@ -2534,7 +2552,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 243496,
       "name": "Pearls",
       "url": "https://open.spotify.com/track/6UmsDKfCYFre7UcMGo0eer"

@@ -1615,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "FRI",
+        "url": "https://open.spotify.com/album/2BKqivqcfDmcWWQGSxI9LA"
+      },
+      "artists": [
+        {
+          "name": "Streetboys",
+          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185960,
+      "name": "Fri",
+      "url": "https://open.spotify.com/track/5yuzzYiP9DZru2es7nTolF"
+    },
+    {
+      "album": {
         "name": "Fr\u00f8ken Oslo V",
         "url": "https://open.spotify.com/album/4qm9mJcERZOQJvIJ0UN6c1"
       },
@@ -2352,7 +2370,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 198814,
       "name": "Hold d\u00e6 fast",
       "url": "https://open.spotify.com/track/62z5Gj6uZQshGKaUFqV3dN"
@@ -3991,6 +4009,24 @@
     },
     {
       "album": {
+        "name": "Neste Stasjon",
+        "url": "https://open.spotify.com/album/2pgbVdXdl68canQtk1rLRw"
+      },
+      "artists": [
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154466,
+      "name": "Neste Stasjon",
+      "url": "https://open.spotify.com/track/77PiddX78Zwf0RThBBmytY"
+    },
+    {
+      "album": {
         "name": "Can't Get the Hang of It",
         "url": "https://open.spotify.com/album/46ilRFIfzaCTSALgNnsr9E"
       },
@@ -4618,7 +4654,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 229731,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/0niEhSYvPA0C5Z0WlgDX8E"

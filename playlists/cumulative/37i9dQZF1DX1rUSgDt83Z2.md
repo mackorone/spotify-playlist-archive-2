@@ -4,7 +4,7 @@
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-206 songs - 10 hr 42 min
+207 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Hoe Zou Het Nu Gaan?](https://open.spotify.com/track/4v4FKaaPqjDJcvLGqJ6ubz) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Hoe Zou Het Nu Gaan?](https://open.spotify.com/album/4l2fsFB7cnPiYkVk7JrlGi) | 3:10 | 2025-11-06 | 2025-11-21 |
 | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm) | 3:28 | 2024-09-19 | 2026-01-06 |
 | [Horizon \(ft\. Julia Zahra\)](https://open.spotify.com/track/1BmKQoSJjf617wC1zbQ8WR) | [ANDRO](https://open.spotify.com/artist/2VOCs6lYNw7KgXminnltr5), [Julia Zahra](https://open.spotify.com/artist/57QuHq7IzyUgZsgl0g5fMI) | [Horizon \(ft\. Julia Zahra\)](https://open.spotify.com/album/7rOWMke1nsdCGJgwtceL9B) | 3:11 | 2024-07-22 | 2024-12-13 |
+| [Hou van mezelf](https://open.spotify.com/track/0FcqV3x0ctMnnK82W2TA43) | [Pleun](https://open.spotify.com/artist/3pb53tofp8YlvcYAlWHNjx) | [Hou van mezelf](https://open.spotify.com/album/2yDI54RFHQgh3MvGPAhcqD) | 3:00 | 2026-04-23 |  |
 | [Houden Van Is Voor Altijd](https://open.spotify.com/track/5D9WdVs3ge60agllfVHZVo) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Houden van is voor altijd](https://open.spotify.com/album/3ROIn9vmPzyQ1dXpONbOqu) | 3:14 | 2025-11-21 | 2026-02-16 |
 | [Huil maar niet om mij](https://open.spotify.com/track/7mC3mnQrv7Q7qXpIYzlQIa) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Huil Maar Niet Om Mij](https://open.spotify.com/album/17myds3ynEuOM29OFacYpD) | 2:27 | 2024-06-24 | 2024-10-04 |
 | [Huis van Zwart en Rood](https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [Huis van Zwart en Rood / Cederhout](https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe) | 2:16 | 2025-07-09 | 2025-11-07 |
@@ -178,7 +179,7 @@
 | [The Story Ain't Over Yet](https://open.spotify.com/track/0FFzjVyx9nfRxl9QpBvH68) | [Zen Link](https://open.spotify.com/artist/4iTOzQGkd3SdaJcTE6Mn6F) | [The Story Ain't Over Yet](https://open.spotify.com/album/5M65FcMQe2v0Ev5ZJltFKn) | 3:43 | 2024-06-24 | 2024-07-12 |
 | [Thuis & Vliegen](https://open.spotify.com/track/4QU7b7cffYGrzVk0jayBeA) | [VOS](https://open.spotify.com/artist/0l8iUSzBzrpKtRAa8norAw) | [Thuis & Vliegen](https://open.spotify.com/album/4qLWvDi7OaLGMpkfQdxIzw) | 2:29 | 2024-07-25 | 2024-12-13 |
 | [Tijd Genoeg](https://open.spotify.com/track/42McJVUcfS9EsBiGKrGRf6) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Tijd Genoeg](https://open.spotify.com/album/4siS27nBLU55Lq1yXkomP3) | 2:40 | 2025-07-09 | 2026-03-19 |
-| [Tijd Genoeg](https://open.spotify.com/track/7JGJexoaC9puUyX51N5JJe) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv), [Holly Mae Brood](https://open.spotify.com/artist/7KmE9e7DEnGRV4ZPhBj83k) | [Tijd Genoeg](https://open.spotify.com/album/4A6d7ZUpUrfpmcRG2RdTVF) | 2:51 | 2024-10-24 |  |
+| [Tijd Genoeg](https://open.spotify.com/track/7JGJexoaC9puUyX51N5JJe) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv), [Holly Mae Brood](https://open.spotify.com/artist/7KmE9e7DEnGRV4ZPhBj83k) | [Tijd Genoeg](https://open.spotify.com/album/4A6d7ZUpUrfpmcRG2RdTVF) | 2:51 | 2024-10-24 | 2026-04-24 |
 | [Tikkie Voor De Tranen](https://open.spotify.com/track/6qhH43TLfe30AvzKPsvTEl) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Tikkie Voor De Tranen](https://open.spotify.com/album/44MrnLxg9BLf7PX7N8cDFm) | 2:35 | 2024-06-24 | 2025-04-11 |
 | [Toen Ik Je Zag](https://open.spotify.com/track/5AM4yh4nq6shKIJqyhBvSI) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Beste Zangers 2024 \(Claude\)](https://open.spotify.com/album/7cFYcG7GHXLS29svnOSWw7) | 3:36 | 2024-12-12 |  |
 | [Tranen](https://open.spotify.com/track/7747domZyQuAyHPMy6jvAn) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Gerson Main](https://open.spotify.com/artist/4Dx8d8fm84Z6b1RDuF4Co7) | [Tranen](https://open.spotify.com/album/1w1Jg5FgU11wyjh06ly8cU) | 3:19 | 2025-09-09 |  |

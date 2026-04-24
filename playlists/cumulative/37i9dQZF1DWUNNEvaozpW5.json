@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "A mis 50",
+        "url": "https://open.spotify.com/album/7pOiadUFsi28OFOJSl2L44"
+      },
+      "artists": [
+        {
+          "name": "Arco",
+          "url": "https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197082,
+      "name": "A mis 50",
+      "url": "https://open.spotify.com/track/0DzGpuc4mhTkygWnY1aAXa"
+    },
+    {
+      "album": {
         "name": "Cada vez cad\u00e1ver",
         "url": "https://open.spotify.com/album/2xai9qYyjquGekqPXAEFFI"
       },
@@ -436,7 +454,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 375119,
       "name": "Acabo de llegar",
       "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
@@ -2872,7 +2890,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 176953,
       "name": "Cuando Todo Explote",
       "url": "https://open.spotify.com/track/0Br8jJOeuTKp6qEJyt3XqG"
@@ -4362,7 +4380,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 256849,
       "name": "El Hilo",
       "url": "https://open.spotify.com/track/037dFpmycsrLop2QDZiZWu"
@@ -7524,7 +7542,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 178404,
       "name": "La silla de las fieras",
       "url": "https://open.spotify.com/track/2pKg6jDZreex3cPnYq9ZQr"
@@ -9791,6 +9809,24 @@
     },
     {
       "album": {
+        "name": "Todas las luces",
+        "url": "https://open.spotify.com/album/7MgiZLcqlzL4c0WrP5ahE9"
+      },
+      "artists": [
+        {
+          "name": "Santero y Los Muchachos",
+          "url": "https://open.spotify.com/artist/1KX80l2v6D9jbexW3IkWvR"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251890,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/5tnIkOu6Fyh4dYFUMX5fJu"
+    },
+    {
+      "album": {
         "name": "Gente Estridente",
         "url": "https://open.spotify.com/album/2FWtIR7EW8caMUjm7LweWL"
       },
@@ -10032,6 +10068,28 @@
       "duration_ms": 234645,
       "name": "No creo en Dios",
       "url": "https://open.spotify.com/track/6b50qodJHOdoIlWHb8orCt"
+    },
+    {
+      "album": {
+        "name": "No creo en Dios",
+        "url": "https://open.spotify.com/album/4FtSAiTBNy554mHZniF0Se"
+      },
+      "artists": [
+        {
+          "name": "Tu Otra Bonita",
+          "url": "https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a"
+        },
+        {
+          "name": "Pu\u00f1o Drag\u00f3n",
+          "url": "https://open.spotify.com/artist/0y2duNe3eRERelKB3su9UK"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244781,
+      "name": "No creo en Dios",
+      "url": "https://open.spotify.com/track/1VZKxaYZxp8ZeKoxvGWVKF"
     },
     {
       "album": {
@@ -10706,7 +10764,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 234936,
       "name": "Padres hu\u00e9rfanos - Canci\u00f3n original para la pel\u00edcula Lap\u00f6nia",
       "url": "https://open.spotify.com/track/0M6KVwE9J1MRCv8yXV7T0L"
@@ -11701,6 +11759,24 @@
     },
     {
       "album": {
+        "name": "Quiero vivir m\u00e1s lento",
+        "url": "https://open.spotify.com/album/7H6skbfu51fwnlPH6gR7lB"
+      },
+      "artists": [
+        {
+          "name": "Sarria",
+          "url": "https://open.spotify.com/artist/6vLjZKs3kZtOdbWFF4Kz68"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171787,
+      "name": "Quiero vivir m\u00e1s lento",
+      "url": "https://open.spotify.com/track/6v2viWx5nVei98893lY7oV"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Maravilla Ser\u00eda",
         "url": "https://open.spotify.com/album/0iJBQnQ4P7g3XblM1RQmsH"
       },
@@ -12602,6 +12678,24 @@
       "duration_ms": 183073,
       "name": "Sin Antifaz (feat. Rayden)",
       "url": "https://open.spotify.com/track/790vlvIwUc0KIb1A3nr79w"
+    },
+    {
+      "album": {
+        "name": "Sin decir adi\u00f3s (BSO Despu\u00e9s de Kim)",
+        "url": "https://open.spotify.com/album/1mXw5HrMCLV31KT355eitc"
+      },
+      "artists": [
+        {
+          "name": "Christina Rosenvinge",
+          "url": "https://open.spotify.com/artist/7MignPwWd7ZxlPi54KtLpp"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166073,
+      "name": "Sin decir adi\u00f3s (BSO Despu\u00e9s de Kim)",
+      "url": "https://open.spotify.com/track/4f4EeMfjsckRzjiwmcxm6A"
     },
     {
       "album": {

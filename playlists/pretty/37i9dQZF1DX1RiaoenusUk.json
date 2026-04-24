@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 34851,
+  "num_followers": 34852,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
+        "name": "Puerta Abierta",
+        "url": "https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "duration_ms": 171788,
+      "name": "Puerta Abierta",
+      "url": "https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
         "name": "Sinestesia",
         "url": "https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT"
       },
@@ -863,22 +879,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Puerta Abierta",
-        "url": "https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ"
-      },
-      "artists": [
-        {
-          "name": "DARUMAS",
-          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
-        }
-      ],
-      "duration_ms": 171788,
-      "name": "Puerta Abierta",
-      "url": "https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "Tony 70",
         "url": "https://open.spotify.com/album/6BKVskjcx78fG8bPWQ3Ypx"
       },
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
         }
       ],
-      "duration_ms": 190790,
-      "name": "Aceituna",
-      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
+      "duration_ms": 236858,
+      "name": "Alergica",
+      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -992,9 +992,9 @@
           "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
         }
       ],
-      "duration_ms": 236858,
-      "name": "Alergica",
-      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
+      "duration_ms": 190790,
+      "name": "Aceituna",
+      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Chicas on Fire - Single",
-        "url": "https://open.spotify.com/album/19hyihRj65Z9jPhBAXaErH"
-      },
-      "artists": [
-        {
-          "name": "Shocklenders",
-          "url": "https://open.spotify.com/artist/45F0w3u4aSG89gClIx4QIR"
-        }
-      ],
-      "duration_ms": 240085,
-      "name": "Chicas on Fire",
-      "url": "https://open.spotify.com/track/1OJTHnR95k4N0mNfYYkoFB"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "en m\u00ed",
         "url": "https://open.spotify.com/album/37vwRCD6CDp518j2giijxd"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 246910,
       "name": "en m\u00ed",
       "url": "https://open.spotify.com/track/2U6ANiDunDYjHwFw8SY1Ff"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "Chicas on Fire - Single",
+        "url": "https://open.spotify.com/album/19hyihRj65Z9jPhBAXaErH"
+      },
+      "artists": [
+        {
+          "name": "Shocklenders",
+          "url": "https://open.spotify.com/artist/45F0w3u4aSG89gClIx4QIR"
+        }
+      ],
+      "duration_ms": 240085,
+      "name": "Chicas on Fire",
+      "url": "https://open.spotify.com/track/1OJTHnR95k4N0mNfYYkoFB"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1343,18 +1343,26 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Que Me Pasa",
-        "url": "https://open.spotify.com/album/36Yq1giRnYqaPbscTc49HX"
+        "name": "Miro donde miro",
+        "url": "https://open.spotify.com/album/1hmxgsxgH0yXncwFUGCEps"
       },
       "artists": [
         {
-          "name": "Ale Zurita",
-          "url": "https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq"
+          "name": "Lautaro Veppo",
+          "url": "https://open.spotify.com/artist/39nFQtYZlQlxsPJBHZyHmB"
+        },
+        {
+          "name": "jjjuli\u00e1n",
+          "url": "https://open.spotify.com/artist/1QQyeUqjjqvo9CNTIkzTAE"
+        },
+        {
+          "name": "Evan Bitz",
+          "url": "https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt"
         }
       ],
-      "duration_ms": 184421,
-      "name": "Que Me Pasa",
-      "url": "https://open.spotify.com/track/0BvV03WShjAUdRJHkL33u2"
+      "duration_ms": 175249,
+      "name": "Miro donde miro",
+      "url": "https://open.spotify.com/track/5f1p28relsH2D16FT3qXpQ"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1403,26 +1411,18 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Miro donde miro",
-        "url": "https://open.spotify.com/album/1hmxgsxgH0yXncwFUGCEps"
+        "name": "Que Me Pasa",
+        "url": "https://open.spotify.com/album/36Yq1giRnYqaPbscTc49HX"
       },
       "artists": [
         {
-          "name": "Lautaro Veppo",
-          "url": "https://open.spotify.com/artist/39nFQtYZlQlxsPJBHZyHmB"
-        },
-        {
-          "name": "jjjuli\u00e1n",
-          "url": "https://open.spotify.com/artist/1QQyeUqjjqvo9CNTIkzTAE"
-        },
-        {
-          "name": "Evan Bitz",
-          "url": "https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt"
+          "name": "Ale Zurita",
+          "url": "https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq"
         }
       ],
-      "duration_ms": 175249,
-      "name": "Miro donde miro",
-      "url": "https://open.spotify.com/track/5f1p28relsH2D16FT3qXpQ"
+      "duration_ms": 184421,
+      "name": "Que Me Pasa",
+      "url": "https://open.spotify.com/track/0BvV03WShjAUdRJHkL33u2"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn"
+        "name": "Clover",
+        "url": "https://open.spotify.com/album/5BPFjfOxGzEo7z8Ttd9g31"
       },
       "artists": [
         {
-          "name": "Croupier Funk",
-          "url": "https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p"
+          "name": "Cami Brooks",
+          "url": "https://open.spotify.com/artist/0umsL7xYMs6A9SOaarE93x"
         }
       ],
-      "duration_ms": 230250,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
+      "duration_ms": 226871,
+      "name": "Clover",
+      "url": "https://open.spotify.com/track/5po0wdASiFRcFUXydOEKye"
     }
   ],
   "unique_name": "Nota Funk",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: From Ashes to New",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Korn",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 212720,
       "name": "(I'm a) Rock \"N\" Roller",
       "url": "https://open.spotify.com/track/1GxE8KmP1PRhLsh0ttixvf"
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 128874,
       "name": "AMERICAN NIGHTMARE",
       "url": "https://open.spotify.com/track/53i9GNkUlsdTCVTs0O5h7U"
@@ -3247,6 +3247,24 @@
     },
     {
       "album": {
+        "name": "clouds",
+        "url": "https://open.spotify.com/album/6tgGRfXHgo0BWDkeHmFXcB"
+      },
+      "artists": [
+        {
+          "name": "unpeople",
+          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196374,
+      "name": "clouds",
+      "url": "https://open.spotify.com/track/4C5PFMmtVD179UsJ2U5jBH"
+    },
+    {
+      "album": {
         "name": "Coalesce",
         "url": "https://open.spotify.com/album/42snHn8Vza1imWtr3Wmjcc"
       },
@@ -3678,6 +3696,24 @@
       "duration_ms": 153120,
       "name": "Cryin' Underwater",
       "url": "https://open.spotify.com/track/3PBhB1nhhOgFgArGTQicYC"
+    },
+    {
+      "album": {
+        "name": "Cryogen",
+        "url": "https://open.spotify.com/album/4uW6onE6t6FUwLV9yr2E9f"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301825,
+      "name": "Cryogen",
+      "url": "https://open.spotify.com/track/5ITICFtTKxzcbR43ehRvsI"
     },
     {
       "album": {
@@ -4390,7 +4426,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 203200,
       "name": "DON'T B E L O N G",
       "url": "https://open.spotify.com/track/7cBK7AcFMiOhCCfMyA0xba"
@@ -5269,6 +5305,24 @@
     },
     {
       "album": {
+        "name": "Favorite Way to Die",
+        "url": "https://open.spotify.com/album/6vujUsNgEEvUlVSlisxCfK"
+      },
+      "artists": [
+        {
+          "name": "The Haunt",
+          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163764,
+      "name": "Favorite Way to Die",
+      "url": "https://open.spotify.com/track/1AUmYwGtMzXxTia4ZAaedu"
+    },
+    {
+      "album": {
         "name": "Feedback",
         "url": "https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP"
       },
@@ -5494,6 +5548,24 @@
       "duration_ms": 232117,
       "name": "Forever Unsatisfied",
       "url": "https://open.spotify.com/track/5KfRUsIYytC508Eq85bSEN"
+    },
+    {
+      "album": {
+        "name": "Forever/Always",
+        "url": "https://open.spotify.com/album/1mNFIIEOv5zRkhlBfSYqSt"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222957,
+      "name": "Forever/Always",
+      "url": "https://open.spotify.com/track/1MoRo6wa0WcfjlOcutsnui"
     },
     {
       "album": {
@@ -7310,7 +7382,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 159315,
       "name": "I Don't Wanna Go!",
       "url": "https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0"
@@ -7668,7 +7740,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 167306,
       "name": "ILY More Than Myself",
       "url": "https://open.spotify.com/track/1XbCyOBZjHBHT14NuQUZO1"
@@ -7762,6 +7834,24 @@
       "duration_ms": 258239,
       "name": "In the Barn of the Goat Giving Birth to Satan\u2019s Spawn in a Dying World of Doom",
       "url": "https://open.spotify.com/track/2F87iqCphBSMOtH4hnAuXV"
+    },
+    {
+      "album": {
+        "name": "In the name of God",
+        "url": "https://open.spotify.com/album/2XzjfIOFA43WYEgqmiq73G"
+      },
+      "artists": [
+        {
+          "name": "Letters Sent Home",
+          "url": "https://open.spotify.com/artist/6VS6UnMmEtkcyYumRHZUI1"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "In the name of God",
+      "url": "https://open.spotify.com/track/3F7oJIcz2XijgqfK96YBRo"
     },
     {
       "album": {
@@ -8256,7 +8346,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 198345,
       "name": "Kind Regards",
       "url": "https://open.spotify.com/track/7FlX1sOzmuSZyzCmxwAcj5"
@@ -8902,7 +8992,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 258509,
       "name": "LOSE YOUR SELF",
       "url": "https://open.spotify.com/track/5suLEhSjprXsUQ5ofXJH8Q"
@@ -10679,6 +10769,24 @@
     },
     {
       "album": {
+        "name": "Oh Boy",
+        "url": "https://open.spotify.com/album/3VO3gzkcCYzixuIV5Jh7W0"
+      },
+      "artists": [
+        {
+          "name": "ITCHY",
+          "url": "https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177267,
+      "name": "Oh Boy",
+      "url": "https://open.spotify.com/track/5YD7ZlbGkj2G8BrGKU3XnC"
+    },
+    {
+      "album": {
         "name": "Oh No!",
         "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
       },
@@ -11114,7 +11222,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 226588,
       "name": "Panic Stations",
       "url": "https://open.spotify.com/track/3O5g6EdaPSxmGhvtGqWmSJ"
@@ -12024,6 +12132,24 @@
       "duration_ms": 192911,
       "name": "Revery",
       "url": "https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1"
+    },
+    {
+      "album": {
+        "name": "Reward the Scars",
+        "url": "https://open.spotify.com/album/3BXffIPyB5ihJw0Zu7uWYl"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215455,
+      "name": "Reward the Scars",
+      "url": "https://open.spotify.com/track/4oZFqhv200v5rOCPHfwIec"
     },
     {
       "album": {
@@ -16272,7 +16398,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 252128,
       "name": "WE\u2019RE IN THIS TOGETHER",
       "url": "https://open.spotify.com/track/7GSbGu5TD9PEIpo3qsBp75"
@@ -16366,6 +16492,24 @@
       "duration_ms": 176250,
       "name": "When I'm Dead",
       "url": "https://open.spotify.com/track/2kKdUQ3awNwDxivN3zFsbd"
+    },
+    {
+      "album": {
+        "name": "When We Were Young",
+        "url": "https://open.spotify.com/album/5g5uc1XspaLcXDhcbvFfrX"
+      },
+      "artists": [
+        {
+          "name": "Fury In The Slaughterhouse",
+          "url": "https://open.spotify.com/artist/6eswqLpEm9AhDIguGzRswT"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224626,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/5GSfHSjOkecCbzgTEh0Dm3"
     },
     {
       "album": {
@@ -16608,6 +16752,24 @@
       "duration_ms": 204000,
       "name": "Wildfires",
       "url": "https://open.spotify.com/track/0oFMLBF1GaN3xMCAxKfmKm"
+    },
+    {
+      "album": {
+        "name": "Your Favorite Toy",
+        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217373,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/1N8fvq9XcxxpRdGydlSqC1"
     },
     {
       "album": {

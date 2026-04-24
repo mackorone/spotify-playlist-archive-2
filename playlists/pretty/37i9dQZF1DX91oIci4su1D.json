@@ -1,6 +1,6 @@
 {
   "description": "Setting sights on banging <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a> with the one & only Ti\u00ebsto",
-  "num_followers": 873403,
+  "num_followers": 873466,
   "original_name": "Trance Mission",
   "owner": {
     "name": "Spotify",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-04-17 04:02:51",
       "album": {
-        "name": "Broken Tides",
-        "url": "https://open.spotify.com/album/2VRO8WvL4g0TnIv2L0N7QQ"
-      },
-      "artists": [
-        {
-          "name": "Gareth Emery",
-          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
-        }
-      ],
-      "duration_ms": 175425,
-      "name": "Broken Tides",
-      "url": "https://open.spotify.com/track/0S2J2eSoA2Ml569yBCyyHU"
-    },
-    {
-      "added_at": "2026-04-17 04:02:51",
-      "album": {
         "name": "Lytherion",
         "url": "https://open.spotify.com/album/09BtIowmQdyFVis1nyjzVY"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 199436,
       "name": "Lytherion",
       "url": "https://open.spotify.com/track/3uAlKLXTAqdnVHRYija2kY"
+    },
+    {
+      "added_at": "2026-04-17 04:02:51",
+      "album": {
+        "name": "Broken Tides",
+        "url": "https://open.spotify.com/album/2VRO8WvL4g0TnIv2L0N7QQ"
+      },
+      "artists": [
+        {
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+        }
+      ],
+      "duration_ms": 175425,
+      "name": "Broken Tides",
+      "url": "https://open.spotify.com/track/0S2J2eSoA2Ml569yBCyyHU"
     },
     {
       "added_at": "2026-04-17 04:02:51",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-04-17 04:02:51",
       "album": {
+        "name": "Each Other",
+        "url": "https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv"
+      },
+      "artists": [
+        {
+          "name": "Amy Wiles",
+          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
+        }
+      ],
+      "duration_ms": 184737,
+      "name": "Each Other",
+      "url": "https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA"
+    },
+    {
+      "added_at": "2026-04-17 04:02:51",
+      "album": {
         "name": "On The Beach",
         "url": "https://open.spotify.com/album/56lOHHE2NonimuVxn69mfy"
       },
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2026-04-17 04:02:51",
       "album": {
-        "name": "Each Other",
-        "url": "https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv"
-      },
-      "artists": [
-        {
-          "name": "Amy Wiles",
-          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
-        }
-      ],
-      "duration_ms": 184737,
-      "name": "Each Other",
-      "url": "https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA"
-    },
-    {
-      "added_at": "2026-04-17 04:02:51",
-      "album": {
         "name": "Don't Say Goodbye",
         "url": "https://open.spotify.com/album/6uNfsZPWn63GJG3p3PmuwH"
       },
@@ -1235,26 +1235,6 @@
       "duration_ms": 191956,
       "name": "Don't Say Goodbye",
       "url": "https://open.spotify.com/track/6UaUhR4vtXyCbcHmIRveQb"
-    },
-    {
-      "added_at": "2026-04-17 04:02:51",
-      "album": {
-        "name": "Who You Are",
-        "url": "https://open.spotify.com/album/5VWET59iP5mSb7FXmI7f7j"
-      },
-      "artists": [
-        {
-          "name": "Doppenberg",
-          "url": "https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF"
-        },
-        {
-          "name": "MIDI Kittyy",
-          "url": "https://open.spotify.com/artist/0MskAXm9cAVHMKcrBziwV4"
-        }
-      ],
-      "duration_ms": 232285,
-      "name": "Who You Are",
-      "url": "https://open.spotify.com/track/6eb8m9i9YfjdyqiOOrgXCR"
     },
     {
       "added_at": "2026-04-17 04:02:51",
@@ -1295,6 +1275,42 @@
     {
       "added_at": "2026-04-17 04:02:51",
       "album": {
+        "name": "Who You Are",
+        "url": "https://open.spotify.com/album/5VWET59iP5mSb7FXmI7f7j"
+      },
+      "artists": [
+        {
+          "name": "Doppenberg",
+          "url": "https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF"
+        },
+        {
+          "name": "MIDI Kittyy",
+          "url": "https://open.spotify.com/artist/0MskAXm9cAVHMKcrBziwV4"
+        }
+      ],
+      "duration_ms": 232285,
+      "name": "Who You Are",
+      "url": "https://open.spotify.com/track/6eb8m9i9YfjdyqiOOrgXCR"
+    },
+    {
+      "added_at": "2026-04-17 04:02:51",
+      "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/2RxoQZVEWaNX5VLZIaBU73"
+      },
+      "artists": [
+        {
+          "name": "Nifra",
+          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/1N0SMPZllogg6bH4ueBSw4"
+    },
+    {
+      "added_at": "2026-04-17 04:02:51",
+      "album": {
         "name": "Don't Give Up",
         "url": "https://open.spotify.com/album/6k04ReQfN1QF9MGZ6XmGEG"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 194427,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/6X6VfWNIwggxsqcDlHsC5M"
-    },
-    {
-      "added_at": "2026-04-17 04:02:51",
-      "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/2RxoQZVEWaNX5VLZIaBU73"
-      },
-      "artists": [
-        {
-          "name": "Nifra",
-          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/1N0SMPZllogg6bH4ueBSw4"
     },
     {
       "added_at": "2026-04-17 04:02:51",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-04-17 04:02:51",
       "album": {
-        "name": "Ride Of Your Life (Scarborough Fair)",
-        "url": "https://open.spotify.com/album/5PV3Y5996bW2eZrrj8E4V7"
-      },
-      "artists": [
-        {
-          "name": "AVA CROWN",
-          "url": "https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "Ride Of Your Life (Scarborough Fair)",
-      "url": "https://open.spotify.com/track/1sPIWtbLJNa4vCkK8wv4tI"
-    },
-    {
-      "added_at": "2026-04-17 04:02:51",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/3xVfY9ZhHPuISECdkKFXuw"
       },
@@ -1675,18 +1659,18 @@
     {
       "added_at": "2026-04-17 04:02:51",
       "album": {
-        "name": "Worlds Apart",
-        "url": "https://open.spotify.com/album/1FoqbOLOodOl0cNOwdFseH"
+        "name": "Ride Of Your Life (Scarborough Fair)",
+        "url": "https://open.spotify.com/album/5PV3Y5996bW2eZrrj8E4V7"
       },
       "artists": [
         {
-          "name": "Doppenberg",
-          "url": "https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF"
+          "name": "AVA CROWN",
+          "url": "https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC"
         }
       ],
-      "duration_ms": 189428,
-      "name": "Worlds Apart",
-      "url": "https://open.spotify.com/track/7Gmx3VyoHBVdqoHFqDYcmh"
+      "duration_ms": 132413,
+      "name": "Ride Of Your Life (Scarborough Fair)",
+      "url": "https://open.spotify.com/track/1sPIWtbLJNa4vCkK8wv4tI"
     },
     {
       "added_at": "2026-04-17 04:02:51",
@@ -1707,6 +1691,22 @@
       "duration_ms": 281250,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/75JEQxjvZKEBCSAIFEkZnz"
+    },
+    {
+      "added_at": "2026-04-17 04:02:51",
+      "album": {
+        "name": "Worlds Apart",
+        "url": "https://open.spotify.com/album/1FoqbOLOodOl0cNOwdFseH"
+      },
+      "artists": [
+        {
+          "name": "Doppenberg",
+          "url": "https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF"
+        }
+      ],
+      "duration_ms": 189428,
+      "name": "Worlds Apart",
+      "url": "https://open.spotify.com/track/7Gmx3VyoHBVdqoHFqDYcmh"
     },
     {
       "added_at": "2026-04-17 04:02:51",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2026-04-17 04:02:51",
       "album": {
+        "name": "King's Secret Garden",
+        "url": "https://open.spotify.com/album/7rK8O7wufgwaB3QKTfjLUB"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Helmy",
+          "url": "https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m"
+        }
+      ],
+      "duration_ms": 179142,
+      "name": "King's Secret Garden",
+      "url": "https://open.spotify.com/track/0VNjHw4IngGNVHw8eyqlqx"
+    },
+    {
+      "added_at": "2026-04-17 04:02:51",
+      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/1UvxwgWrs8DLfvAWkFFemm"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 196964,
       "name": "Rush",
       "url": "https://open.spotify.com/track/3FHsOdgDllqBw2yG2l0WMh"
-    },
-    {
-      "added_at": "2026-04-17 04:02:51",
-      "album": {
-        "name": "King's Secret Garden",
-        "url": "https://open.spotify.com/album/7rK8O7wufgwaB3QKTfjLUB"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Helmy",
-          "url": "https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m"
-        }
-      ],
-      "duration_ms": 179142,
-      "name": "King's Secret Garden",
-      "url": "https://open.spotify.com/track/0VNjHw4IngGNVHw8eyqlqx"
     },
     {
       "added_at": "2026-04-17 04:02:51",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-04-17 04:02:51",
       "album": {
-        "name": "The Cave",
-        "url": "https://open.spotify.com/album/1qLNZq74AegSSEfALf3a4U"
-      },
-      "artists": [
-        {
-          "name": "Jaytech",
-          "url": "https://open.spotify.com/artist/5mpJ1Z8BYEOG0rrdO4a2nG"
-        }
-      ],
-      "duration_ms": 226340,
-      "name": "The Cave",
-      "url": "https://open.spotify.com/track/5B8nT3UfCkkeDVFsfAGWXp"
-    },
-    {
-      "added_at": "2026-04-17 04:02:51",
-      "album": {
         "name": "Luz Del Infinito",
         "url": "https://open.spotify.com/album/3mzePtHDE7WTfnpG7MwgSj"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 230400,
       "name": "Luz del Infinito - Radio Edit",
       "url": "https://open.spotify.com/track/6FhsVFKL2Pyw9TXI20zILu"
+    },
+    {
+      "added_at": "2026-04-17 04:02:51",
+      "album": {
+        "name": "The Cave",
+        "url": "https://open.spotify.com/album/1qLNZq74AegSSEfALf3a4U"
+      },
+      "artists": [
+        {
+          "name": "Jaytech",
+          "url": "https://open.spotify.com/artist/5mpJ1Z8BYEOG0rrdO4a2nG"
+        }
+      ],
+      "duration_ms": 226340,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/5B8nT3UfCkkeDVFsfAGWXp"
     },
     {
       "added_at": "2026-04-17 04:02:51",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2026-04-17 04:02:51",
       "album": {
-        "name": "Loyalty",
-        "url": "https://open.spotify.com/album/3YKNaB4SFqIMIDCxi6x1t8"
-      },
-      "artists": [
-        {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
-        }
-      ],
-      "duration_ms": 228809,
-      "name": "Loyalty",
-      "url": "https://open.spotify.com/track/2xY7icfJSoWq3QGu9ZgLMH"
-    },
-    {
-      "added_at": "2026-04-17 04:02:51",
-      "album": {
         "name": "ResuRection (Call Me)",
         "url": "https://open.spotify.com/album/6MfwXxqZWKDS1B0nVMYrW6"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 164560,
       "name": "ResuRection (Call Me)",
       "url": "https://open.spotify.com/track/7w5eVOIt7g0DhUWvoqvhq9"
+    },
+    {
+      "added_at": "2026-04-17 04:02:51",
+      "album": {
+        "name": "Loyalty",
+        "url": "https://open.spotify.com/album/3YKNaB4SFqIMIDCxi6x1t8"
+      },
+      "artists": [
+        {
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+        }
+      ],
+      "duration_ms": 228809,
+      "name": "Loyalty",
+      "url": "https://open.spotify.com/track/2xY7icfJSoWq3QGu9ZgLMH"
     },
     {
       "added_at": "2026-04-17 04:02:51",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2026-04-17 04:02:51",
       "album": {
-        "name": "Collide",
-        "url": "https://open.spotify.com/album/5vNgoFH4MvtScyYyWMQSos"
-      },
-      "artists": [
-        {
-          "name": "Taylor Torrence",
-          "url": "https://open.spotify.com/artist/4PhWdminU7odBReTmyyZrH"
-        }
-      ],
-      "duration_ms": 171998,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/3cV9sNCtVcTGqNabn599Sd"
-    },
-    {
-      "added_at": "2026-04-17 04:02:51",
-      "album": {
         "name": "Have Me (If You Want Me Too)",
         "url": "https://open.spotify.com/album/6h1GkjgJKgu97nQ9Zd68U8"
       },
@@ -2331,6 +2315,26 @@
       "duration_ms": 177116,
       "name": "Have Me (If You Want Me Too)",
       "url": "https://open.spotify.com/track/0dZiD65nVUS5eeuowSpmNo"
+    },
+    {
+      "added_at": "2026-04-17 04:02:51",
+      "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/3gVgIjc3A4v1O75QDH2Cr6"
+      },
+      "artists": [
+        {
+          "name": "Paul Webster",
+          "url": "https://open.spotify.com/artist/2xxQ1Dy2fyyhVqJodKB4OC"
+        },
+        {
+          "name": "Yasmin Jane",
+          "url": "https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/3IO2i18iLklayyLyRY1T3y"
     },
     {
       "added_at": "2026-04-17 04:02:51",
@@ -2359,22 +2363,34 @@
     {
       "added_at": "2026-04-17 04:02:51",
       "album": {
-        "name": "Live Forever",
-        "url": "https://open.spotify.com/album/3gVgIjc3A4v1O75QDH2Cr6"
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/5vNgoFH4MvtScyYyWMQSos"
       },
       "artists": [
         {
-          "name": "Paul Webster",
-          "url": "https://open.spotify.com/artist/2xxQ1Dy2fyyhVqJodKB4OC"
-        },
-        {
-          "name": "Yasmin Jane",
-          "url": "https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4"
+          "name": "Taylor Torrence",
+          "url": "https://open.spotify.com/artist/4PhWdminU7odBReTmyyZrH"
         }
       ],
-      "duration_ms": 176666,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/3IO2i18iLklayyLyRY1T3y"
+      "duration_ms": 171998,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/3cV9sNCtVcTGqNabn599Sd"
+    },
+    {
+      "added_at": "2026-04-17 04:02:51",
+      "album": {
+        "name": "Your Fantasy",
+        "url": "https://open.spotify.com/album/4FlngEyJ1IgnOnMSCyHB6i"
+      },
+      "artists": [
+        {
+          "name": "Trance Wax",
+          "url": "https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE"
+        }
+      ],
+      "duration_ms": 158869,
+      "name": "Your Fantasy",
+      "url": "https://open.spotify.com/track/5dwfo5go6ijUJoTekFaI9D"
     },
     {
       "added_at": "2026-04-17 04:02:51",
@@ -2395,22 +2411,6 @@
       "duration_ms": 244000,
       "name": "For A Feeling",
       "url": "https://open.spotify.com/track/7em1ClnL48z9Cak7rIyNrT"
-    },
-    {
-      "added_at": "2026-04-17 04:02:51",
-      "album": {
-        "name": "Your Fantasy",
-        "url": "https://open.spotify.com/album/4FlngEyJ1IgnOnMSCyHB6i"
-      },
-      "artists": [
-        {
-          "name": "Trance Wax",
-          "url": "https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE"
-        }
-      ],
-      "duration_ms": 158869,
-      "name": "Your Fantasy",
-      "url": "https://open.spotify.com/track/5dwfo5go6ijUJoTekFaI9D"
     },
     {
       "added_at": "2026-04-17 04:02:51",

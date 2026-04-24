@@ -4,7 +4,7 @@
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-211 songs - 12 hr 7 min
+212 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Spring Day](https://open.spotify.com/track/0WNGsQ1oAuHzNTk8jivBKW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/7LF4N7lvyDhrPBuCJ1rplJ) | 4:34 | 2022-05-11 | 2022-07-29 |
 | [Spring Day](https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 4:34 | 2022-07-04 | 2024-04-19 |
 | [Spring Day](https://open.spotify.com/track/5AkCOaaVZ7GQoKnH3cRxg9) | [HAN HYE RI](https://open.spotify.com/artist/3Puh5THs0wd7lu8Ecr3x0P) | [Spring Day](https://open.spotify.com/album/10XrrbDSCPH6W8sJo1nTRK) | 3:22 | 2022-05-11 | 2022-07-28 |
-| [spring days](https://open.spotify.com/track/0OVk9RkmgYHmCimocRmtcq) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [our, spring days](https://open.spotify.com/album/5WOSmhpNQrH9uey5jSTtgt) | 3:08 | 2022-05-11 |  |
+| [spring days](https://open.spotify.com/track/0OVk9RkmgYHmCimocRmtcq) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [our, spring days](https://open.spotify.com/album/5WOSmhpNQrH9uey5jSTtgt) | 3:08 | 2022-05-11 | 2026-04-24 |
 | [Spring Flowers](https://open.spotify.com/track/0FAI7639ZRr1bJfFgy0Q9O) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [LOVIN'](https://open.spotify.com/album/2CMfMvcjtBXHT3XhLCvgyH) | 3:36 | 2022-07-04 | 2024-04-19 |
 | [Spring Flowers](https://open.spotify.com/track/63tzhE9woGEnPVhgWzUTtk) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [LOVIN'](https://open.spotify.com/album/5tRixYdXfa2t5C6YTUSjdF) | 3:36 | 2022-05-11 | 2022-07-29 |
 | [Spring has come](https://open.spotify.com/track/3DiFdxy4BRNL1obLqYNDh5) | [The Lime](https://open.spotify.com/artist/6h6EOVgNFYGIQ29hg4ZcjY) | [Song of spring](https://open.spotify.com/album/6wSoAwQbrwKlOn4yroa1CP) | 3:23 | 2022-06-09 | 2022-06-27 |
@@ -207,6 +207,7 @@
 | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi) | 3:41 | 2022-05-11 |  |
 | [will you and me fall in love \(feat\. Gawon\)](https://open.spotify.com/track/1NR4zjXtuxMvwGIh8i5XqC) | [Espresso](https://open.spotify.com/artist/6MqxpdnAX09GQsbhc0bvrZ), [Gawon](https://open.spotify.com/artist/5HlsOSLKz3NaCFAjpizas1) | [will you and me fall in love](https://open.spotify.com/album/2TdJT39j1H1JJv2VFPiVbG) | 2:38 | 2022-06-20 | 2022-07-29 |
 | [Wish](https://open.spotify.com/track/3vvJdhNvwogyNhmgaGONZw) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Wish](https://open.spotify.com/album/7DagjiIwCFeivyBSZYTsy7) | 3:11 | 2022-10-10 | 2024-11-27 |
+| [With You](https://open.spotify.com/track/63KtXm5kjHE6Y1c5TeSvT1) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [sido](https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn) | [With You](https://open.spotify.com/album/0BZvg9IGUoW11JIbOycQeM) | 2:36 | 2026-04-21 |  |
 | [with you \(feat\. g0nny\)](https://open.spotify.com/track/32CXBkgJ0rRsvEvBPT5bYP) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [with you \(feat\. g0nny\)](https://open.spotify.com/album/38jEKpk2q846icctNoaDKk) | 2:59 | 2023-07-07 | 2025-03-10 |
 | [You\(=I\)](https://open.spotify.com/track/6IBPrw5nYj84x8JpiOvXUp) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 2:49 | 2022-05-11 | 2025-04-03 |
 | [Your Shampoo Scent In The Flowers](https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5ceWbG2nV9xM9z9ZYdD3Mg) | 2:48 | 2022-05-11 |  |

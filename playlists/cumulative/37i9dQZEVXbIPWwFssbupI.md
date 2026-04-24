@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,686 songs - 5 day 20 hr 37 min
+2,687 songs - 5 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1503,6 +1503,7 @@
 | [Mafiosa](https://open.spotify.com/track/6d29vrc4oW2eLnce53XFCK) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mise à jour](https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ) | 5:08 | 2024-06-08 | 2024-06-11 |
 | [Mafiosi](https://open.spotify.com/track/4LIZDbjLNK9N0fugJ0z4Pf) | [Le classico organisé](https://open.spotify.com/artist/791x09Ix1mNc1hGhbD7IOW), [Bosh](https://open.spotify.com/artist/6Mm2g25BTeJ6BICPFWGkPg), [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Sysa](https://open.spotify.com/artist/5xwkZR4IElUHC9y1Yu23mE), [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU), [Kamikaz](https://open.spotify.com/artist/3tNQ0aWtzDKGwyWz2oOAFG), [Graya](https://open.spotify.com/artist/6AmKZ6kQdFR64iIiUsRMHT) | [Le classico organisé](https://open.spotify.com/album/5Qiln6hgo90OKyf9x0ci4y) | 5:16 | 2021-11-07 | 2021-11-09 |
 | [Magic \(feat\. I.A.\)](https://open.spotify.com/track/26AJYfDkqXUTOXLW7fYOZO) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [I.A.](https://open.spotify.com/artist/1X3wBxJjbLALzN8QqaXIFZ) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 3:00 | 2025-05-31 | 2025-06-20 |
+| [magique](https://open.spotify.com/track/0ffrrCB5IKs1oOLAr16c0D) | [Willylancien](https://open.spotify.com/artist/3gzMRa6kszVHxXUiTpHFWb) | [demain c'est vide](https://open.spotify.com/album/3Tv5VLxck3h3VkUlKW359T) | 2:32 | 2026-04-23 |  |
 | [Magnum](https://open.spotify.com/track/4trWevN28OiAmWa617Zb4N) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Autobahn](https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII) | 3:45 | 2022-11-19 | 2022-12-03 |
 | [Magot](https://open.spotify.com/track/3lplytmhfrA7rHrIDeBx9E) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Telegram 2](https://open.spotify.com/album/2tHT02WkJ4Fqas0cuwWHCk) | 3:16 | 2023-10-28 | 2023-11-05 |
 | [Magot](https://open.spotify.com/track/69zAnyBtarXinChSUq925t) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Telegram 2](https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc) | 3:16 | 2023-09-23 | 2023-10-29 |
@@ -2000,7 +2001,7 @@
 | [Pélican](https://open.spotify.com/track/4liOLSxxEllQ61qaR4pFJL) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Nés Pour Briller : Book I](https://open.spotify.com/album/4pkxr9kk78jM6pX5sIS29b) | 2:45 | 2025-02-22 | 2025-11-05 |
 | [Périph](https://open.spotify.com/track/0J8Ff1p7vpxBMLnZuAwAUb) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Périph](https://open.spotify.com/album/4ImOyHSUym1ZFnmV3SKXDI) | 2:48 | 2023-12-16 | 2024-01-21 |
 | [Périph](https://open.spotify.com/track/65w1B0wLPnEICOfSl7C4Op) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Chambre 140 \(Part.1\)](https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s) | 2:48 | 2024-01-20 | 2024-02-11 |
-| [Pétunias](https://open.spotify.com/track/3Byu179ofnuChb4zF1fMhu) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pyramide](https://open.spotify.com/album/1g5NH7uMyGKDHL9DxMDLdS) | 3:30 | 2024-10-05 |  |
+| [Pétunias](https://open.spotify.com/track/3Byu179ofnuChb4zF1fMhu) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pyramide](https://open.spotify.com/album/1g5NH7uMyGKDHL9DxMDLdS) | 3:30 | 2024-10-05 | 2026-04-24 |
 | [Quand j'y repense](https://open.spotify.com/track/3BsYL1gVsiFpo0bM8oTbi0) | [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Toujours +](https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs) | 3:14 | 2022-10-01 | 2022-10-30 |
 | [Quand tout s'enflamme](https://open.spotify.com/track/04M7hgJo8KgONKo4OL91jz) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Années Sauvages](https://open.spotify.com/album/3zsnpMh0K6pM1Rbo7btDtN) | 2:50 | 2023-02-04 | 2023-02-19 |
 | [Quand T’es Là](https://open.spotify.com/track/5ZDWCmJWZIGeNQfXmXbD9z) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [OMERTA](https://open.spotify.com/album/6GBLnzPmNPkumYGkHBEzDQ) | 2:49 | 2023-03-11 | 2023-03-13 |

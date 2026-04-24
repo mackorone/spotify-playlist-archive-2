@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > We're celebrating the 40th anniversary of The Judd's album "Why Not Me" on 80s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,156 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,268 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,9 +117,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 107 | [What I'd Say](https://open.spotify.com/track/6qdaMyeAxixEtIiI1Wqr4l) | [Earl Thomas Conley](https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj) | [The Heart of It All](https://open.spotify.com/album/5sgaAKTYixY72uzVOKHlJG) | 3:52 |
 | 108 | [I Told You So](https://open.spotify.com/track/4HNj7TkT9VnfVjtV2HRlpl) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 3:39 |
 | 109 | [80's Ladies](https://open.spotify.com/track/3cyRqqiu2lrDq06PU3fvce) | [K.T\. Oslin](https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b) | [80s Ladies](https://open.spotify.com/album/34cBmDds6qdKYCwwZdy0XT) | 4:11 |
-| 110 | [Sunday In the South](https://open.spotify.com/track/4txNtoBnQ3OgazfeTS8iGP) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Super Hits](https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it) | 4:01 |
+| 110 | [The Bluest Eyes In Texas](https://open.spotify.com/track/1XUiXn0r5o9EDS6BhAYdIA) | [Restless Heart](https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H) | [Big Dreams In A Small Town](https://open.spotify.com/album/5gY4mK9vwSYGcouC8u6oIz) | 4:47 |
 | 111 | [I Loved 'Em Every One](https://open.spotify.com/track/4td6tN1J2QlESZyUhlD77m) | [T.G\. Sheppard](https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh) | [Super Hits](https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu) | 3:40 |
-| 112 | [The Bluest Eyes In Texas](https://open.spotify.com/track/1XUiXn0r5o9EDS6BhAYdIA) | [Restless Heart](https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H) | [Big Dreams In A Small Town](https://open.spotify.com/album/5gY4mK9vwSYGcouC8u6oIz) | 4:47 |
+| 112 | [Sunday In the South](https://open.spotify.com/track/4txNtoBnQ3OgazfeTS8iGP) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Super Hits](https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it) | 4:01 |
 | 113 | [The Conversation \(with Hank Williams Jr.\)](https://open.spotify.com/track/1O2AIet2IjgK6A4vrJQPAK) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Nashville Rebel](https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg) | 3:50 |
 | 114 | [Old Hippie](https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 4:05 |
 | 115 | [She Got the Goldmine \(I Got the Shaft\)](https://open.spotify.com/track/0AbYscoIblUGiNqn2Iw6fq) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O) | 3:16 |
@@ -150,13 +150,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 140 | [C.C\. Waterback](https://open.spotify.com/track/1MQYA59Whe8zRBnGqgAvMP) | [George Jones](https://open.spotify.com/artist/4w3SbKx9G1XOV8TeMOEmTi), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [His Epic Hits](https://open.spotify.com/album/2PTryP6kpdTQ19gRluZcHB) | 3:35 |
 | 141 | [Got No Reason Now For Goin' Home](https://open.spotify.com/track/0suqXVpX1uJpSrmaDOnxwx) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Best Of Gene Watson](https://open.spotify.com/album/4aXbfgzVBIXaed4zapgq6J) | 2:44 |
 | 142 | [Two Story House](https://open.spotify.com/track/6PzCKkM1FLgIVCaAQkKyuZ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [George Jones and Tammy Wynette \- 16 Biggest Hits](https://open.spotify.com/album/5h63tAdWuGRqDkCrdvm4Gs) | 2:40 |
-| 143 | [Dim Lights, Thick Smoke \(And Loud, Loud Music\)](https://open.spotify.com/track/06ziqwxm8aiNcxr3f5FBHl) | [Vern Gosdin](https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl) | [The Truly Great Hits](https://open.spotify.com/album/4ygIRvkTyFylbFFzwfE47N) | 3:29 |
-| 144 | [Give Me One More Chance](https://open.spotify.com/track/3yaillNLF2RYHeHw2bBX96) | [Exile](https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7) | [Kentucky Hearts](https://open.spotify.com/album/0lNKmPEUsnsrVc4vLSnd0x) | 2:48 |
+| 143 | [Give Me One More Chance](https://open.spotify.com/track/3yaillNLF2RYHeHw2bBX96) | [Exile](https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7) | [Kentucky Hearts](https://open.spotify.com/album/0lNKmPEUsnsrVc4vLSnd0x) | 2:48 |
+| 144 | [Dim Lights, Thick Smoke \(And Loud, Loud Music\)](https://open.spotify.com/track/06ziqwxm8aiNcxr3f5FBHl) | [Vern Gosdin](https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl) | [The Truly Great Hits](https://open.spotify.com/album/4ygIRvkTyFylbFFzwfE47N) | 3:29 |
 | 145 | [I Know How He Feels](https://open.spotify.com/track/663cPxUHnCzvboxjGgvIoT) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Reba](https://open.spotify.com/album/5efZ49lsxMlKnJ5abphtMr) | 3:20 |
 | 146 | [Crackers \- Single Version](https://open.spotify.com/track/3VSkgyqT0jkV68t5QCX8iQ) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Love Is Fair](https://open.spotify.com/album/6sVMfY88I8a7xkmSaXCruy) | 2:34 |
 | 147 | [We Believe In Happy Endings \(with Emmylou Harris\)](https://open.spotify.com/track/7sEmUltyPUy9v2Of7Whzpy) | [Earl Thomas Conley](https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [The Heart of It All](https://open.spotify.com/album/5sgaAKTYixY72uzVOKHlJG) | 3:35 |
-| 148 | [War Is Hell \- Re\-Recorded](https://open.spotify.com/track/2QaKxNtOx8bT7Q8ogqB7P6) | [T.G\. Sheppard](https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh) | [Do You Want to Go to Heaven](https://open.spotify.com/album/0mMewKMunFjw7JJsJsUwkw) | 3:23 |
-| 149 | [Woke Up In Love](https://open.spotify.com/track/0t2EyDBuMiQ3iHi3rXrFtR) | [Exile](https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7) | [Super Hits](https://open.spotify.com/album/2ktMx6m6ivjS1Pqm9tSrkJ) | 3:06 |
+| 148 | [Woke Up In Love](https://open.spotify.com/track/0t2EyDBuMiQ3iHi3rXrFtR) | [Exile](https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7) | [Super Hits](https://open.spotify.com/album/2ktMx6m6ivjS1Pqm9tSrkJ) | 3:06 |
+| 149 | [War Is Hell \- Re\-Recorded](https://open.spotify.com/track/2QaKxNtOx8bT7Q8ogqB7P6) | [T.G\. Sheppard](https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh) | [Do You Want to Go to Heaven](https://open.spotify.com/album/0mMewKMunFjw7JJsJsUwkw) | 3:23 |
 | 150 | [Takin' It Easy](https://open.spotify.com/track/11enveFO56ghu7Az89ekd3) | [Lacy J\. Dalton](https://open.spotify.com/artist/3JTFILRsbbqmkb740jjT0l) | [Takin' It Easy](https://open.spotify.com/album/2emdvvcPKBgIMCJkA4nzZa) | 3:28 |
 
 Snapshot ID: `AAAAAKcAo4qA5rxICKOskMNH42Q4PLfq`

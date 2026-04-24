@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAACb2vtJYvMDlgglwdgeTCLa",
+  "snapshot_id": "aegPgAAAAAA5AMz8Smh0gTjqdMGKBHmr",
   "tracks": [
     {
       "added_at": null,
@@ -267,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swing (From \"Marvel's Spider-Man 2\")",
-        "url": "https://open.spotify.com/album/6TLVVF2wznR6RYKnmVEH0U"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Benji.",
-          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Swing - From \"Marvel's Spider-Man 2\"",
-      "url": "https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PERFECT FANTASY",
         "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 195200,
       "name": "BOBBY BOUCHER (feat. Benji.)",
       "url": "https://open.spotify.com/track/37zzOqUUXvKxKns9Ri0JUh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swing (From \"Marvel's Spider-Man 2\")",
+        "url": "https://open.spotify.com/album/6TLVVF2wznR6RYKnmVEH0U"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Benji.",
+          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Swing - From \"Marvel's Spider-Man 2\"",
+      "url": "https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3"
     },
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Never Story",
-        "url": "https://open.spotify.com/album/1gPqbxhs90kppgOVxGOPzd"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 265882,
-      "name": "D/vision",
-      "url": "https://open.spotify.com/track/0DcBQ7dMhCMvk9t6L4XI7G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GHETTO GODS",
         "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 303400,
       "name": "WATERBOYZ (with JID & J. Cole)",
       "url": "https://open.spotify.com/track/1KyXCd04yHni5pMGFwgzuE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Never Story",
+        "url": "https://open.spotify.com/album/1gPqbxhs90kppgOVxGOPzd"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 265882,
+      "name": "D/vision",
+      "url": "https://open.spotify.com/track/0DcBQ7dMhCMvk9t6L4XI7G"
     },
     {
       "added_at": null,
@@ -455,6 +455,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rags",
+        "url": "https://open.spotify.com/album/6vWPa9ZBLjjh7jsG4hRskQ"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 278083,
+      "name": "Meditate (feat. J.I.D.)",
+      "url": "https://open.spotify.com/track/0Eqm7hD828cATBLUx2fJox"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Here For Now",
         "url": "https://open.spotify.com/album/12BBYEXH7hGF6io8xNuXSJ"
       },
@@ -479,22 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rags",
-        "url": "https://open.spotify.com/album/6vWPa9ZBLjjh7jsG4hRskQ"
+        "name": "Revenge Of The Dreamers III",
+        "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
       "artists": [
         {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
         },
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 278083,
-      "name": "Meditate (feat. J.I.D.)",
-      "url": "https://open.spotify.com/track/0Eqm7hD828cATBLUx2fJox"
+      "duration_ms": 194613,
+      "name": "Swivel (with EARTHGANG) - From The Album \"Mirrorland\"",
+      "url": "https://open.spotify.com/track/03XfngWwNfhEjrnEga73Rg"
     },
     {
       "added_at": null,
@@ -515,26 +535,6 @@
       "duration_ms": 202500,
       "name": "You Comfort Me",
       "url": "https://open.spotify.com/track/6YT5x2mq6uSyhjjrmGEbir"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revenge Of The Dreamers III",
-        "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
-      },
-      "artists": [
-        {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 194613,
-      "name": "Swivel (with EARTHGANG) - From The Album \"Mirrorland\"",
-      "url": "https://open.spotify.com/track/03XfngWwNfhEjrnEga73Rg"
     },
     {
       "added_at": null,
@@ -1059,18 +1059,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GHETTO GODS",
-        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
+        "name": "Strays with Rabies",
+        "url": "https://open.spotify.com/album/3bYMVNcOHLDv2z6yWEl3yb"
       },
       "artists": [
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
         }
       ],
-      "duration_ms": 240288,
-      "name": "ALL EYES ON ME",
-      "url": "https://open.spotify.com/track/6NxpWAcnqCE6J9pVyLZLeQ"
+      "duration_ms": 296586,
+      "name": "Liquor Sto'",
+      "url": "https://open.spotify.com/track/6fUHMhwKBSmetq2T1PvCKK"
     },
     {
       "added_at": null,
@@ -1131,22 +1135,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strays with Rabies",
-        "url": "https://open.spotify.com/album/3bYMVNcOHLDv2z6yWEl3yb"
+        "name": "GHETTO GODS",
+        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
       },
       "artists": [
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
         }
       ],
-      "duration_ms": 296586,
-      "name": "Liquor Sto'",
-      "url": "https://open.spotify.com/track/6fUHMhwKBSmetq2T1PvCKK"
+      "duration_ms": 240288,
+      "name": "ALL EYES ON ME",
+      "url": "https://open.spotify.com/track/6NxpWAcnqCE6J9pVyLZLeQ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > e don cast
 
-288 songs - 14 hr 44 min
+289 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Citrus Tears](https://open.spotify.com/track/5T17angrfy3Gdmh4Y3aeQR) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 3:49 | 2022-11-25 | 2023-02-04 |
 | [Close Friends List](https://open.spotify.com/track/3GimyMOvSuE3mGQE6ck2Me) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Blue Disco](https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t) | 2:36 | 2025-11-28 |  |
 | [Closure](https://open.spotify.com/track/2AgQh0XQEYKybUvP9QM3Mf) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nae](https://open.spotify.com/artist/2BlQIEUVv6FAUGMCf5aOCJ) | [Closure](https://open.spotify.com/album/71R0HfuCZtkH69OyEyMMU3) | 2:28 | 2023-02-10 | 2023-03-18 |
+| [COLD OUTSIDE](https://open.spotify.com/track/2w5sflB3yU87VPmyfHhhN8) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [COLD OUTSIDE](https://open.spotify.com/album/1V9JGN8fMNMtFJvpJmFYWR) | 2:50 | 2026-04-24 |  |
 | [Come Back \(Stronger\)](https://open.spotify.com/track/7aOmyFWxC21fZLrBB5o8s7) | [Evelle](https://open.spotify.com/artist/4gnYRqleM3nNYczHoj5rYa) | [Come Back](https://open.spotify.com/album/26ll6od4Q86oQG0okA25XO) | 2:44 | 2024-10-25 | 2025-03-01 |
 | [Complete](https://open.spotify.com/track/5JTSPWFJqK2T0ys6LWZcGN) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Complete](https://open.spotify.com/album/3WfxzL7q64BWBupbgHhhSD) | 2:40 | 2023-05-11 | 2023-11-10 |
 | [Crazy](https://open.spotify.com/track/6xPBy6PlnWvWHBaGyyusvv) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Crazy](https://open.spotify.com/album/4n58L3DcofQSva9E78JtsB) | 2:02 | 2023-09-21 | 2023-09-29 |
@@ -229,7 +230,7 @@
 | [Red Flags](https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Red Flags](https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz) | 2:55 | 2022-11-18 | 2024-01-30 |
 | [Relationship](https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Relationship](https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F) | 2:52 | 2023-05-11 | 2025-06-20 |
 | [Routine Lover](https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Routine Lover](https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj) | 2:48 | 2023-09-29 | 2024-03-06 |
-| [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 | 2024-02-02 |  |
+| [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 | 2024-02-02 | 2026-04-24 |
 | [Runaway](https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Runaway](https://open.spotify.com/album/2r1ln8Z5prTPO5qGQkBA4T) | 3:40 | 2022-04-07 | 2024-02-20 |
 | [San](https://open.spotify.com/track/0yYDvvZMeTqSUV5wLyP2Wm) | [Maayaa](https://open.spotify.com/artist/7rGlPTV1a2qZygXRYutXoP), [Akan](https://open.spotify.com/artist/01oqDvyAJgoEp2C8k9nOfS) | [Chapter Red](https://open.spotify.com/album/79HVNi9MisNf7sJsLo3Trz) | 3:33 | 2022-02-11 | 2022-07-28 |
 | [SCAR](https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy) | [Song bird](https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [SCAR](https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5) | 3:23 | 2023-04-20 | 2024-07-19 |

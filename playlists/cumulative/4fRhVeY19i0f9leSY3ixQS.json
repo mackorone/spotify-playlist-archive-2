@@ -362,7 +362,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 276521,
       "name": "Abaddon",
       "url": "https://open.spotify.com/track/06sblMoAO7CaPcIAcamm9B"
@@ -1750,7 +1750,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 177726,
       "name": "Before It's Too Late",
       "url": "https://open.spotify.com/track/6IdxAzlM1h5wkM6JRztFUh"
@@ -2346,6 +2346,24 @@
       "duration_ms": 200969,
       "name": "BLOOM",
       "url": "https://open.spotify.com/track/5UL1zKgQS6mCR849t6w2qM"
+    },
+    {
+      "album": {
+        "name": "Blow Me Away",
+        "url": "https://open.spotify.com/album/2EWmStaVxqkLH70deH87vo"
+      },
+      "artists": [
+        {
+          "name": "Dk Shawtyy",
+          "url": "https://open.spotify.com/artist/6LLz47c8x1gOSzzftIKdVs"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100056,
+      "name": "Blow Me Away",
+      "url": "https://open.spotify.com/track/4sZhowjeiEUXY4X0hfVAQb"
     },
     {
       "album": {
@@ -3477,6 +3495,24 @@
     },
     {
       "album": {
+        "name": "doomed from the start",
+        "url": "https://open.spotify.com/album/3yt9kSR0VqhASkjMHSJcOz"
+      },
+      "artists": [
+        {
+          "name": "dredge",
+          "url": "https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "captain oblivious",
+      "url": "https://open.spotify.com/track/4HZks0OCQtWbrjh8MbgZtH"
+    },
+    {
+      "album": {
         "name": "Reibregal",
         "url": "https://open.spotify.com/album/4dBKiXCD2Bj8Ap2KFLasK5"
       },
@@ -4097,6 +4133,24 @@
     },
     {
       "album": {
+        "name": "Live Easy. Make More.",
+        "url": "https://open.spotify.com/album/6V1XEAWCLGOtIcwzTRdgpa"
+      },
+      "artists": [
+        {
+          "name": "Loose Dirt",
+          "url": "https://open.spotify.com/artist/4FFAYPL0VMUxNNN9Hjj6gO"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172540,
+      "name": "Computer. NOW",
+      "url": "https://open.spotify.com/track/2pQVIMYF5rIM01FzHaG9vK"
+    },
+    {
+      "album": {
         "name": "Concrete",
         "url": "https://open.spotify.com/album/3cDTeTgcq7zXxPqTWHHitB"
       },
@@ -4400,7 +4454,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 114600,
       "name": "Crowned",
       "url": "https://open.spotify.com/track/0tyZM3OawPGQc0heX67clL"
@@ -8196,7 +8250,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 158521,
       "name": "Get Outta My Head",
       "url": "https://open.spotify.com/track/7hKZGgTrWm2S8jvGLs9Pdl"
@@ -10095,6 +10149,28 @@
     },
     {
       "album": {
+        "name": "I Wanna Get High",
+        "url": "https://open.spotify.com/album/0HxgZQkueLCVW6SC48s8kI"
+      },
+      "artists": [
+        {
+          "name": "CADE",
+          "url": "https://open.spotify.com/artist/0OmXq0se9DLi3mEgxcL70O"
+        },
+        {
+          "name": "Fox Fagan",
+          "url": "https://open.spotify.com/artist/6kDeko7eYsULS2Tmt3Q0ym"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185068,
+      "name": "I Wanna Get High",
+      "url": "https://open.spotify.com/track/1TZ2TX2rugTPhN1mYDqLSf"
+    },
+    {
+      "album": {
         "name": "Embrace The Noiz",
         "url": "https://open.spotify.com/album/0pCuyOegRhg7KiPIZwwcbV"
       },
@@ -10290,6 +10366,24 @@
       "duration_ms": 119720,
       "name": "I'M DONE I'M GONE",
       "url": "https://open.spotify.com/track/3zlKQzzNXOlqlcixqlopSX"
+    },
+    {
+      "album": {
+        "name": "I'm Fine",
+        "url": "https://open.spotify.com/album/2tUxkqeBFtI7vQ7JmL3xnn"
+      },
+      "artists": [
+        {
+          "name": "Just Arrogant Animals",
+          "url": "https://open.spotify.com/artist/5nNS162iNQSZVgyNdV0Egf"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205061,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/3hTtLzmLOQlCQjQ72kYsUo"
     },
     {
       "album": {
@@ -10708,7 +10802,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 158414,
       "name": "InMyPocket",
       "url": "https://open.spotify.com/track/53MV9GVk3mwPEER5k9a6uS"
@@ -10852,7 +10946,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 295312,
       "name": "Into The Abyss",
       "url": "https://open.spotify.com/track/2i3wLIHbtIfAAV8IIWv18p"
@@ -12052,6 +12146,24 @@
       "duration_ms": 148666,
       "name": "Life's Close",
       "url": "https://open.spotify.com/track/5YV615cDSYrOUoPcAb3dD5"
+    },
+    {
+      "album": {
+        "name": "Life's Still Fucked",
+        "url": "https://open.spotify.com/album/2Ocn4rGqryiDjI1QagjVTn"
+      },
+      "artists": [
+        {
+          "name": "Kodin Hill 'N The Pressed Pills",
+          "url": "https://open.spotify.com/artist/3PHByAugCg7AlaC2Nunccy"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122823,
+      "name": "Life's Still Fucked",
+      "url": "https://open.spotify.com/track/5A8kgUPV50z7mEBqdGF1rJ"
     },
     {
       "album": {
@@ -14303,6 +14415,24 @@
     },
     {
       "album": {
+        "name": "Era Viscera",
+        "url": "https://open.spotify.com/album/2mX5nj6KOCPU7akHs3LaSB"
+      },
+      "artists": [
+        {
+          "name": "The Operating Room",
+          "url": "https://open.spotify.com/artist/4EvlkZr3kmmMH3w3cZ7yfP"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155800,
+      "name": "Nightshade",
+      "url": "https://open.spotify.com/track/6Y4wVPUTaUwhfL4F0Bt8cz"
+    },
+    {
+      "album": {
         "name": "Nine Circles Deep",
         "url": "https://open.spotify.com/album/0N2HiAO3HuSd7b4G4cutQq"
       },
@@ -15648,7 +15778,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 193826,
       "name": "PELUCA",
       "url": "https://open.spotify.com/track/3KbY5CV42zjVCBxS5PAUty"
@@ -15980,6 +16110,24 @@
       "duration_ms": 197360,
       "name": "Pocket Of His Raincoat",
       "url": "https://open.spotify.com/track/3h7AavHHz3EQ8Pq6mpMv7T"
+    },
+    {
+      "album": {
+        "name": "Pogs",
+        "url": "https://open.spotify.com/album/70PbdxbodrHsk2LLgPJ7r8"
+      },
+      "artists": [
+        {
+          "name": "Ounce Of Pain",
+          "url": "https://open.spotify.com/artist/7wz7tcrXP2SuydYXyQY0lJ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80957,
+      "name": "Pogs",
+      "url": "https://open.spotify.com/track/5QXJuP29zZA6TQgI0FKUF2"
     },
     {
       "album": {
@@ -16654,6 +16802,24 @@
       "duration_ms": 189250,
       "name": "Reading With the Lights Off",
       "url": "https://open.spotify.com/track/49k7nCIIwZiQQNt04owuYX"
+    },
+    {
+      "album": {
+        "name": "Ready. Set. GO!",
+        "url": "https://open.spotify.com/album/560BVfgLQhDZYNqOeWDJXU"
+      },
+      "artists": [
+        {
+          "name": "The Lyrics",
+          "url": "https://open.spotify.com/artist/1FfgK1y6boiZv49RIflpaO"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194788,
+      "name": "Ready. Set. GO!",
+      "url": "https://open.spotify.com/track/2bKMI2zOzySL2Fv3NzvFHb"
     },
     {
       "album": {
@@ -17466,7 +17632,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 132469,
       "name": "Runnin",
       "url": "https://open.spotify.com/track/4OLphiU0dKvFTkIPSdOS5j"
@@ -17833,6 +17999,24 @@
     },
     {
       "album": {
+        "name": "Eat Your Feelings",
+        "url": "https://open.spotify.com/album/74NZnykHWNs2RzrxmUbbcD"
+      },
+      "artists": [
+        {
+          "name": "Our Lives In Cinema",
+          "url": "https://open.spotify.com/artist/5BwHD6aQUcPkdaji5CLBMT"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197700,
+      "name": "Selective History",
+      "url": "https://open.spotify.com/track/3Sp0CkHlVfQjM6VjMFMFDu"
+    },
+    {
+      "album": {
         "name": "Self Defense",
         "url": "https://open.spotify.com/album/6CJ9mRl7IY07nypm4D0osV"
       },
@@ -18103,6 +18287,24 @@
     },
     {
       "album": {
+        "name": "D.O.G.",
+        "url": "https://open.spotify.com/album/2ZIBlxvJlVIkorxSJ3KUZk"
+      },
+      "artists": [
+        {
+          "name": "Liptards",
+          "url": "https://open.spotify.com/artist/4LioiOqNVrpnq1ViuUbhgn"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263391,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/1PqDb9WwBPx3dsSYGzvOrJ"
+    },
+    {
+      "album": {
         "name": "Smoke 'em if you got 'em",
         "url": "https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff"
       },
@@ -18222,7 +18424,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 141688,
       "name": "She",
       "url": "https://open.spotify.com/track/4D3PrNYtV7Il9QOQsX2nYK"
@@ -19088,7 +19290,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 240653,
       "name": "Somebody Better",
       "url": "https://open.spotify.com/track/6Z8QO6fM6aUyqYdMOA47uC"
@@ -19874,7 +20076,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 282437,
       "name": "Stripped",
       "url": "https://open.spotify.com/track/6vorScXqRtKXUm6czL5qh5"
@@ -19968,7 +20170,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 256549,
       "name": "Suffocate",
       "url": "https://open.spotify.com/track/1HKpxECheP56EpoEf2552h"
@@ -20274,7 +20476,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 246607,
       "name": "Symbol of Absence",
       "url": "https://open.spotify.com/track/3aGQqnQXTlEASZuDh4d6C3"
@@ -24658,7 +24860,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 163855,
       "name": "You Know",
       "url": "https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC"
@@ -24874,7 +25076,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 178502,
       "name": "Zenith",
       "url": "https://open.spotify.com/track/6OrjMdW9uD4sDkJueoK3Jh"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest crossover songs from the islands and the diaspora. Cover: Mahalia",
+  "description": "Inspired by the islands and into the mainstream. Cover: Tyla, Zara Larsson",
   "name": "Island Pop",
   "tracks": [
     {
@@ -692,7 +692,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 221123,
       "name": "Currency Called Time",
       "url": "https://open.spotify.com/track/6SDAQpax26v24Q1p7JApWL"
@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 176666,
       "name": "Out Of This World",
       "url": "https://open.spotify.com/track/63a1huPGwNTMBXIkpIjr8X"
@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 243094,
       "name": "Party Girls (feat. Buju Banton)",
       "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
@@ -2354,7 +2354,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 138000,
       "name": "POV",
       "url": "https://open.spotify.com/track/5NPzaYhcsbqhRN1AlFOMjs"
@@ -2719,6 +2719,58 @@
     },
     {
       "album": {
+        "name": "Shake It To The Max (FLY) (Remix)",
+        "url": "https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Silent Addy",
+          "url": "https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Shake It To The Max (FLY) - Remix",
+      "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
+    },
+    {
+      "album": {
+        "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213241,
+      "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
+    },
+    {
+      "album": {
         "name": "Sidepiece (feat. Ruger)",
         "url": "https://open.spotify.com/album/5fn47w1LhCu4qHmayD2Rgx"
       },
@@ -2738,6 +2790,24 @@
       "duration_ms": 196800,
       "name": "Sidepiece (feat. Ruger)",
       "url": "https://open.spotify.com/track/5YHjORRRTB0vXlFp8XaCaN"
+    },
+    {
+      "album": {
+        "name": "Soft Girl Era",
+        "url": "https://open.spotify.com/album/7bnW1IEaWKXSp02B6TY5js"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145707,
+      "name": "Soft Girl Era",
+      "url": "https://open.spotify.com/track/0mu4jp4klSihBJ7RFvIDfW"
     },
     {
       "album": {
@@ -2999,6 +3069,32 @@
     },
     {
       "album": {
+        "name": "Talk To Me Nuh",
+        "url": "https://open.spotify.com/album/2m47uENn2jQv3q5muu3z1S"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126042,
+      "name": "Talk To Me Nuh",
+      "url": "https://open.spotify.com/track/57OHpXh84fu4FwL02ykMoI"
+    },
+    {
+      "album": {
         "name": "Vibes Don't Lie",
         "url": "https://open.spotify.com/album/6Dl92Rb1qVMsN0cBzTVwMU"
       },
@@ -3039,6 +3135,36 @@
     },
     {
       "album": {
+        "name": "The Greatest Bend Over (Take It Easy) [Chl\u00f6e x MOLIY Remix]",
+        "url": "https://open.spotify.com/album/5odK6dmKpJWenZo10gOCMh"
+      },
+      "artists": [
+        {
+          "name": "Full Blown",
+          "url": "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
+        },
+        {
+          "name": "Yung Bredda",
+          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208353,
+      "name": "The Greatest Bend Over (Take It Easy) - Chl\u00f6e x MOLIY Remix",
+      "url": "https://open.spotify.com/track/33LEmmSf7GIjngduAHQ8VF"
+    },
+    {
+      "album": {
         "name": "The Harder They Fall (The Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3whjvbBxG7j2FfTImRdqBw"
       },
@@ -3050,7 +3176,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 168704,
       "name": "The Harder They Fall",
       "url": "https://open.spotify.com/track/6AxSYAHq0U6fKykB7uScPl"

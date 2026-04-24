@@ -964,7 +964,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 222302,
       "name": "Basta!",
       "url": "https://open.spotify.com/track/4RZVU3ZTz7nOI4WRfB3He6"
@@ -2462,7 +2462,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 146341,
       "name": "DARMI PACE",
       "url": "https://open.spotify.com/track/4mgK6He9J9GYwzDEsJ0sRg"
@@ -3080,6 +3080,24 @@
       "duration_ms": 165548,
       "name": "FELLINI (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/0rjVRGqVuNwnGCxwBkBZXd"
+    },
+    {
+      "album": {
+        "name": "FIENO",
+        "url": "https://open.spotify.com/album/5BxrieW7n92Mhhi0psWgQY"
+      },
+      "artists": [
+        {
+          "name": "Zizzu",
+          "url": "https://open.spotify.com/artist/0zpSxvKs0CT4aktl3RAs0v"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "FIENO",
+      "url": "https://open.spotify.com/track/4V5GC7zyjWJpz7MbPXGjCm"
     },
     {
       "album": {
@@ -3934,7 +3952,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 159605,
       "name": "INFAMI (feat. Side Baby, Ketama126 & Close Listen)",
       "url": "https://open.spotify.com/track/4O6POAxljB6cfjKx3I2s8A"
@@ -5665,6 +5683,24 @@
     },
     {
       "album": {
+        "name": "Niente Esiste",
+        "url": "https://open.spotify.com/album/5jCMfgXc5WE6OONqFHS8nk"
+      },
+      "artists": [
+        {
+          "name": "Due G",
+          "url": "https://open.spotify.com/artist/7ICNoOv4dBRG72UaFP5Aba"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "Niente Esiste",
+      "url": "https://open.spotify.com/track/09hTZ0uD59JDvmyPDu8iW6"
+    },
+    {
+      "album": {
         "name": "Penna Capitale",
         "url": "https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL"
       },
@@ -5810,7 +5846,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 181600,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3tQ4vI8ejqXEhwR4hZI9yT"
@@ -8156,6 +8192,28 @@
       "duration_ms": 170100,
       "name": "True Story",
       "url": "https://open.spotify.com/track/1y6okCY7BRD80ckBFf9wkv"
+    },
+    {
+      "album": {
+        "name": "Tu mi Fai",
+        "url": "https://open.spotify.com/album/2ZthohZoAlS5pJ0YBQHYcG"
+      },
+      "artists": [
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161657,
+      "name": "Tu mi Fai",
+      "url": "https://open.spotify.com/track/2D3FslngNUdbeynfwSecP0"
     },
     {
       "album": {

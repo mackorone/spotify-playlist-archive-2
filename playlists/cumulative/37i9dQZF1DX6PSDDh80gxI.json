@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cosmo \u00e8 tornato alla fonte ed \u00e8 in cover di Indie Italia \u26f2\ufe0f\ud83e\ude75",
+  "description": "Birthh ha un nuovo album e ha anche la cover di Indie Italia \ud83d\udc9a ",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 187500,
       "name": "(siamo tutti) animali notturni",
       "url": "https://open.spotify.com/track/4rXfzp0P7yZCH3JEz2eXzy"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 256375,
       "name": "alla luna",
       "url": "https://open.spotify.com/track/0OuHeXyrPEZNbCJZ9raCIH"
@@ -795,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Aranciata",
+        "url": "https://open.spotify.com/album/58oNEAAdQ2eFvX2GZNBL8x"
+      },
+      "artists": [
+        {
+          "name": "Frah Quintale",
+          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212542,
+      "name": "Aranciata",
+      "url": "https://open.spotify.com/track/6Ytq1UqEa7M6JU3viWheCO"
+    },
+    {
+      "album": {
         "name": "Ascoltare gli alberi",
         "url": "https://open.spotify.com/album/5PkdD1nN3vygejhLOh4l4p"
       },
@@ -1008,10 +1026,28 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 175786,
       "name": "Bella Mossa (feat. Coez)",
       "url": "https://open.spotify.com/track/4VW9kBi5TB2QlhihKgP6tn"
+    },
+    {
+      "album": {
+        "name": "SENZA FIATO",
+        "url": "https://open.spotify.com/album/0gZdzP3fDtPZmxZbf3iX6Z"
+      },
+      "artists": [
+        {
+          "name": "Birthh",
+          "url": "https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137575,
+      "name": "Bene (da sola)",
+      "url": "https://open.spotify.com/track/5NPY05T2iSHZpGnK5f6tmS"
     },
     {
       "album": {
@@ -1600,6 +1636,24 @@
       "duration_ms": 201521,
       "name": "Cielo Aperto",
       "url": "https://open.spotify.com/track/13ApPxDYcUcGUdBfQ8d3Pb"
+    },
+    {
+      "album": {
+        "name": "Cip Cip",
+        "url": "https://open.spotify.com/album/51DtXMdWyTTW7QU5Go6ixD"
+      },
+      "artists": [
+        {
+          "name": "Dov'\u00e8 Liana",
+          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207902,
+      "name": "Cip Cip",
+      "url": "https://open.spotify.com/track/765v05EkFFIAgyeeDrTyu7"
     },
     {
       "album": {
@@ -2809,6 +2863,24 @@
     },
     {
       "album": {
+        "name": "GANGE",
+        "url": "https://open.spotify.com/album/3W7CcPkyuIfksCe2GQRbOv"
+      },
+      "artists": [
+        {
+          "name": "Ciliari",
+          "url": "https://open.spotify.com/artist/2jY7Xu5VNC7pW6Zji5ui9T"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213469,
+      "name": "GANGE",
+      "url": "https://open.spotify.com/track/3je22anDSg6Xk23Dn60LAW"
+    },
+    {
+      "album": {
         "name": "Gangsta Story",
         "url": "https://open.spotify.com/album/0mmVqF87bpTP5PtZcwT7EX"
       },
@@ -3436,6 +3508,24 @@
       "duration_ms": 161183,
       "name": "Il mio risveglio",
       "url": "https://open.spotify.com/track/3PgPdRH5lf65fRNeUXptju"
+    },
+    {
+      "album": {
+        "name": "Il mondo in quel cofanetto",
+        "url": "https://open.spotify.com/album/73Ew0VyzDxZS1KRfcgBaYH"
+      },
+      "artists": [
+        {
+          "name": "Primogenito",
+          "url": "https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178941,
+      "name": "Il mondo in quel cofanetto",
+      "url": "https://open.spotify.com/track/5YjpgZqKRfSvR8haog51M2"
     },
     {
       "album": {
@@ -4195,6 +4285,24 @@
     },
     {
       "album": {
+        "name": "la Mia paura",
+        "url": "https://open.spotify.com/album/48aXrrDxJG80pPvgPpaXjE"
+      },
+      "artists": [
+        {
+          "name": "@gabriele",
+          "url": "https://open.spotify.com/artist/6RyYnt3Q1ebcbLxYOtE9bb"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180454,
+      "name": "la Mia paura",
+      "url": "https://open.spotify.com/track/51jCHYRmZDj9ZPi2Fw55Xl"
+    },
+    {
+      "album": {
         "name": "La mia preghiera (feat. Sick Tamburo)",
         "url": "https://open.spotify.com/album/7E5wvDTv3sh4PPeltBtfyo"
       },
@@ -4426,7 +4534,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 164554,
       "name": "Le cose che voglio",
       "url": "https://open.spotify.com/track/0gDYEEbX6OoNFsNSNrXZUT"
@@ -4574,7 +4682,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 181577,
       "name": "Linea D'aria",
       "url": "https://open.spotify.com/track/6xCWD6BL7qxBdCMKfkzA7n"
@@ -4632,6 +4740,24 @@
       "duration_ms": 159074,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/0HJd4ynGL3mn0p2o6WE9DI"
+    },
+    {
+      "album": {
+        "name": "lontano da casa",
+        "url": "https://open.spotify.com/album/41zTZFM3GfP4PjZ4F2hThE"
+      },
+      "artists": [
+        {
+          "name": "eroCaddeo",
+          "url": "https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190215,
+      "name": "lontano da casa",
+      "url": "https://open.spotify.com/track/425YBgWxr3xbhXhJ6yHV5U"
     },
     {
       "album": {
@@ -4722,7 +4848,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 185529,
       "name": "Luned\u00ec",
       "url": "https://open.spotify.com/track/2jPlIUcJMsCZiwDaUCZCvK"
@@ -4932,6 +5058,28 @@
       "duration_ms": 179284,
       "name": "Maledetto me",
       "url": "https://open.spotify.com/track/0RkFzXmEJzSv4Bu6YwZJx6"
+    },
+    {
+      "album": {
+        "name": "SOLITO CINEMA",
+        "url": "https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD"
+      },
+      "artists": [
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199205,
+      "name": "Maledizione",
+      "url": "https://open.spotify.com/track/3PIFOW1UKwebiblSzb0Quk"
     },
     {
       "album": {
@@ -5244,7 +5392,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 256813,
       "name": "Meravigliosa incoscienza",
       "url": "https://open.spotify.com/track/1SYFFK3hcbQqT4v7Ebnfx0"
@@ -5356,6 +5504,24 @@
       "duration_ms": 147906,
       "name": "MIELE (scusa)",
       "url": "https://open.spotify.com/track/6pmIgVimnQs8dgohYE9SSB"
+    },
+    {
+      "album": {
+        "name": "Miez o' viento",
+        "url": "https://open.spotify.com/album/5Vjfcc0am2Wg1vQ9eI27HW"
+      },
+      "artists": [
+        {
+          "name": "Anna and Vulkan",
+          "url": "https://open.spotify.com/artist/338OK54trmorxC1704hKpD"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206880,
+      "name": "Miez o' viento",
+      "url": "https://open.spotify.com/track/5yWGi8r9zK8epjpmMD4VIF"
     },
     {
       "album": {
@@ -5634,7 +5800,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 174424,
       "name": "Niente di particolare",
       "url": "https://open.spotify.com/track/3azkH8zt6JVM0ckeww7r3i"
@@ -6271,6 +6437,24 @@
     },
     {
       "album": {
+        "name": "Panico",
+        "url": "https://open.spotify.com/album/4aWVRvuSmJJSFDBKqZpllx"
+      },
+      "artists": [
+        {
+          "name": "ceneri",
+          "url": "https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Panico",
+      "url": "https://open.spotify.com/track/55qzd1RyoS4A9BxmMTk7Zr"
+    },
+    {
+      "album": {
         "name": "Panino d'idiota (feat. Casadilego)",
         "url": "https://open.spotify.com/album/4Njayjpp1zthtWEimoWDnX"
       },
@@ -6362,6 +6546,28 @@
       "duration_ms": 157170,
       "name": "passanti",
       "url": "https://open.spotify.com/track/3MwGT0qVzLY59vBqJv0hng"
+    },
+    {
+      "album": {
+        "name": "SOLITO CINEMA",
+        "url": "https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD"
+      },
+      "artists": [
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        },
+        {
+          "name": "Fulminacci",
+          "url": "https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183679,
+      "name": "Passatempo",
+      "url": "https://open.spotify.com/track/63YhORu1k9MMrp6FFsJOnl"
     },
     {
       "album": {
@@ -6958,6 +7164,24 @@
       "duration_ms": 202071,
       "name": "PREFERIREI",
       "url": "https://open.spotify.com/track/4nysRMbEV59xna3xREH6i1"
+    },
+    {
+      "album": {
+        "name": "PRIMAVERA",
+        "url": "https://open.spotify.com/album/5fVD8qrIAGZY39dfVjfoBK"
+      },
+      "artists": [
+        {
+          "name": "Fares",
+          "url": "https://open.spotify.com/artist/0bmKJDoc5Nu9by7Us2WRGo"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185853,
+      "name": "PRIMAVERA",
+      "url": "https://open.spotify.com/track/7Ahvbxc9jxwec9ZwUa3XUW"
     },
     {
       "album": {
@@ -7608,7 +7832,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 351174,
       "name": "Sboccia il fiore",
       "url": "https://open.spotify.com/track/1K0ndX9B9nETaVGwRYa9XD"
@@ -7684,6 +7908,24 @@
       "duration_ms": 226192,
       "name": "Sconosciuti",
       "url": "https://open.spotify.com/track/5DgwdDsoYLtHIp0wAbkrHf"
+    },
+    {
+      "album": {
+        "name": "1000%",
+        "url": "https://open.spotify.com/album/6vQCEFtHhdqwfLjzXTPpe9"
+      },
+      "artists": [
+        {
+          "name": "Umarell",
+          "url": "https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Se mi succede qualcosa",
+      "url": "https://open.spotify.com/track/36F3y9PuRW7JCUU76WwADe"
     },
     {
       "album": {

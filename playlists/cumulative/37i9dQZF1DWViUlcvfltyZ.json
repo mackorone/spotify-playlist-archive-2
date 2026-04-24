@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 ma soprattutto da Torino, Subsonica in cover",
+  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Glazyhaze in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "1000%",
+        "url": "https://open.spotify.com/album/6vQCEFtHhdqwfLjzXTPpe9"
+      },
+      "artists": [
+        {
+          "name": "Umarell",
+          "url": "https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "A dir il vero",
+      "url": "https://open.spotify.com/track/3JKnV3A1hioqP3dL6HsbXO"
+    },
+    {
+      "album": {
         "name": "A fly on the wall",
         "url": "https://open.spotify.com/album/13VyjgC0uplNM8xjYuUDHj"
       },
@@ -766,6 +784,24 @@
       "duration_ms": 215760,
       "name": "A New Light",
       "url": "https://open.spotify.com/track/3OU1LHgAN5jN8ACshKZAqE"
+    },
+    {
+      "album": {
+        "name": "a proposito della neve bagnata",
+        "url": "https://open.spotify.com/album/0uTGblN00dM8pYzZb4Gzum"
+      },
+      "artists": [
+        {
+          "name": "Forse fa solo freddo",
+          "url": "https://open.spotify.com/artist/0cKGZFaR4VqpykFHa0CRYq"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105600,
+      "name": "a proposito della neve bagnata",
+      "url": "https://open.spotify.com/track/6dmLwIck9rCnPxDKOW8y04"
     },
     {
       "album": {
@@ -7124,6 +7160,24 @@
       "duration_ms": 203920,
       "name": "Cristallo metallo",
       "url": "https://open.spotify.com/track/2GNllavhO7WsdE2yRuKWnO"
+    },
+    {
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/3Zj1dzN5Zt6bYGCMYGwpex"
+      },
+      "artists": [
+        {
+          "name": "Krizia",
+          "url": "https://open.spotify.com/artist/6qtURBu4WaAuC5Vhy48Sok"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165542,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/7jMEp2rf351kMn6O7QeMNh"
     },
     {
       "album": {
@@ -13543,6 +13597,24 @@
     },
     {
       "album": {
+        "name": "Modern Vintage Wave",
+        "url": "https://open.spotify.com/album/0s0TDAVVCKSYdVsFYvKv1A"
+      },
+      "artists": [
+        {
+          "name": "Frigidaire Tango",
+          "url": "https://open.spotify.com/artist/5TVE5Fiwqufq5eKkuuBerU"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203384,
+      "name": "I creatori",
+      "url": "https://open.spotify.com/track/5C0kgAksOYdl0s7REhD0Ri"
+    },
+    {
+      "album": {
         "name": "I Do",
         "url": "https://open.spotify.com/album/7JCeYpigHOXBYNnZEUgQdk"
       },
@@ -13774,7 +13846,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 150493,
       "name": "I Won't Give Up",
       "url": "https://open.spotify.com/track/2tS1ua5WnmQ2qvQGj1ZwyZ"
@@ -19282,7 +19354,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 161390,
       "name": "MEGANUVOLE",
       "url": "https://open.spotify.com/track/6kwhOlMxmY7jXRb1WTWMbx"
@@ -20242,7 +20314,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 215225,
       "name": "Move on up",
       "url": "https://open.spotify.com/track/216spG6qcRbq1lISn3P0eP"
@@ -22276,7 +22348,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 208636,
       "name": "Nuova Fabbrica",
       "url": "https://open.spotify.com/track/4cYsTjNjncB2pBKANMcgCq"
@@ -22720,7 +22792,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 217221,
       "name": "Oltre le palpebre",
       "url": "https://open.spotify.com/track/5qKDw2a4TuyfsyrEnUIm48"
@@ -23066,7 +23138,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 170263,
       "name": "Palpebre",
       "url": "https://open.spotify.com/track/0gNrm5y8qGnhaGlj1QwA9i"
@@ -28207,6 +28279,24 @@
     },
     {
       "album": {
+        "name": "SEX DRIVE",
+        "url": "https://open.spotify.com/album/4wBm066DRpxGoX2TFWOZsk"
+      },
+      "artists": [
+        {
+          "name": "Stunt Pilots",
+          "url": "https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181285,
+      "name": "SEX DRIVE",
+      "url": "https://open.spotify.com/track/4yeg2fjEvsebk75Dx5RGp2"
+    },
+    {
+      "album": {
         "name": "Sexy solitudini",
         "url": "https://open.spotify.com/album/0DJNBmiNV1FbNjvWpL9pVP"
       },
@@ -29976,6 +30066,32 @@
       "duration_ms": 129457,
       "name": "Stoccolma",
       "url": "https://open.spotify.com/track/7hsbFCXE4Q3GWHyAO8SJZE"
+    },
+    {
+      "album": {
+        "name": "STOMPERS",
+        "url": "https://open.spotify.com/album/2aOfGuE41IPzgXYhRbBjvX"
+      },
+      "artists": [
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        },
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        },
+        {
+          "name": "Mazare",
+          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "STOMPERS",
+      "url": "https://open.spotify.com/track/2x0sxWxnaELYhUlDv6DSv3"
     },
     {
       "album": {
@@ -35474,7 +35590,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 156508,
       "name": "Your Mom",
       "url": "https://open.spotify.com/track/0fs4BbyzfVI77EgBPafQs0"

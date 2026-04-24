@@ -5206,7 +5206,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 88346,
       "name": "Bad Actors",
       "url": "https://open.spotify.com/track/1oOUhect64PiuYFboTjbnq"
@@ -39492,7 +39492,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 126375,
       "name": "Luther (Live)",
       "url": "https://open.spotify.com/track/7MWlp2mpDsmARC1mpLHON3"
@@ -50928,7 +50928,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 1166904,
       "name": "Prison from Einstein on the Beach (arranged for Two Pianos)",
       "url": "https://open.spotify.com/track/0pgA6dDBQWT4CeTsve9wyD"
@@ -51144,7 +51144,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 886034,
       "name": "Protest from Satyagraha (arranged for Two Pianos)",
       "url": "https://open.spotify.com/track/1fKeRYlYHNpqanDN86hdd2"
@@ -56148,6 +56148,24 @@
       "duration_ms": 188235,
       "name": "Shifty",
       "url": "https://open.spotify.com/track/6y4iFrtv7ZkuFYlT2bFXfM"
+    },
+    {
+      "album": {
+        "name": "1983",
+        "url": "https://open.spotify.com/album/2WdDBUfqvkdZ7hsudUNs5m"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88640,
+      "name": "Shifty",
+      "url": "https://open.spotify.com/track/7MG2w7DGUT4JrFXV3KG4oK"
     },
     {
       "album": {
@@ -68794,6 +68812,24 @@
       "duration_ms": 187173,
       "name": "Use My Heart Against Me",
       "url": "https://open.spotify.com/track/2P22tnR1gYGUeavmski4Nz"
+    },
+    {
+      "album": {
+        "name": "Recycle Bin, Vol. 5",
+        "url": "https://open.spotify.com/album/4szoQ2487NjuiZsZkWN6qO"
+      },
+      "artists": [
+        {
+          "name": "Black Alley",
+          "url": "https://open.spotify.com/artist/4O7xE3mpAOnolHQovF4C2R"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179815,
+      "name": "Use Somebody (Live)",
+      "url": "https://open.spotify.com/track/3Dsa9Iw9GcM6ODPMr1pFN4"
     },
     {
       "album": {

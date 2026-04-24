@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UrwvHIj5b1.md) - [plain]
 
 > Meditative dubstep rhythms for focus and contemplation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,101 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,154 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UrwvHIj5b1.md) - [plain]
 | 82 | [Competition](https://open.spotify.com/track/3LWEhJL5SNZG0Qur9VRd9V) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz) | [Competition](https://open.spotify.com/album/6ETGOvIFKT7MQw8hiZyRmZ) | 6:00 |
 | 83 | [Laboratorium](https://open.spotify.com/track/6AiUEg8OnSWDxTwgVqEvXk) | [Joel Rampage](https://open.spotify.com/artist/26Pc0Rk8c6QKuskiME4F3E) | [Laboratorium](https://open.spotify.com/album/5YHyfwKoqNPDrE9CSNERHC) | 3:02 |
 | 84 | [Slow Waves](https://open.spotify.com/track/29SS6TB8ndmcr2YnyVuTF8) | [Khromi](https://open.spotify.com/artist/3rc9ONB9LXLOFeDSEqqwer) | [Slow Waves](https://open.spotify.com/album/04y570E9mDBEKHOMHvMSx6) | 4:20 |
-| 85 | [Escapism](https://open.spotify.com/track/2bpcS4vhQ0ngBKkHXGb2i8) | [Nina](https://open.spotify.com/artist/0u4uzzMGK1exfnG33MII0b) | [Escapism](https://open.spotify.com/album/1vyoUffD7rCKnTYe2zpr9y) | 3:16 |
+| 85 | [Escapism](https://open.spotify.com/track/2bpcS4vhQ0ngBKkHXGb2i8) | [NINA](https://open.spotify.com/artist/0u4uzzMGK1exfnG33MII0b) | [Escapism](https://open.spotify.com/album/1vyoUffD7rCKnTYe2zpr9y) | 3:16 |
 | 86 | [Tusk](https://open.spotify.com/track/2icSoosXMB1U1WUhk3Qxlj) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Substrada](https://open.spotify.com/artist/1c27zyfou3LpncKmjvbtLd) | [Ghost Talk / Tusk](https://open.spotify.com/album/579NIcHU4u4K2nUBPqaiVF) | 4:24 |
 | 87 | [Subconscious](https://open.spotify.com/track/49tZayx9YX7rAFwOVdwQhw) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 5:37 |
 | 88 | [Hypno](https://open.spotify.com/track/0XIQGF60UK9RiKZ4Io2v6O) | [Argo](https://open.spotify.com/artist/2Bu1m703YGSP774s3Dafi7) | [One More for My Father](https://open.spotify.com/album/5OqWugesLlR8Gj3Fz43U7w) | 4:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > ¡Las mujeres de la Música Mexicana! Rosalia León en portada 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,095 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,121 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 51 | [Ojo Por Ojo](https://open.spotify.com/track/2aLFy6p8TtSRwUhi3UYxV4) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Ojo Por Ojo](https://open.spotify.com/album/1DupAlEMZXO1evsuZmYYG4) | 3:01 |
 | 52 | [Veracruz](https://open.spotify.com/track/3PEV3y8RtnPxU90ACL0SIG) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [José Carrillo](https://open.spotify.com/artist/3kmTyamfgyWHD7CNRMS7Uz) | [Veracruz](https://open.spotify.com/album/6tCecFMuaL2t6XKMEpaik5) | 3:42 |
 | 53 | [El Puente Roto \- Tema Remasterizado](https://open.spotify.com/track/6wnDVV9h7318nHps7MVsd1) | [Irma Serrano](https://open.spotify.com/artist/7b3e0cQmBGnt2RP2IEYfd6) | [La Gran Colección del 60 Aniversario CBS \- Irma Serrano](https://open.spotify.com/album/6RpmQdyqrhvwJJD4rIVMXP) | 2:37 |
-| 54 | [Popurrí LAS PALOMAS: Paloma Negra / Cucurrucucú Paloma](https://open.spotify.com/track/2eMTCNV9m28ennYMidNW1C) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo) | [Popurrí LAS PALOMAS: Paloma Negra / Cucurrucucú Paloma](https://open.spotify.com/album/2yTsPPSAnsMjOO5bwOM343) | 5:10 |
-| 55 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Fue Tan Poco Tu Cariño](https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU) | 3:15 |
+| 54 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Fue Tan Poco Tu Cariño](https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU) | 3:15 |
+| 55 | [Popurrí LAS PALOMAS: Paloma Negra / Cucurrucucú Paloma](https://open.spotify.com/track/2eMTCNV9m28ennYMidNW1C) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo) | [Popurrí LAS PALOMAS: Paloma Negra / Cucurrucucú Paloma](https://open.spotify.com/album/2yTsPPSAnsMjOO5bwOM343) | 5:10 |
 | 56 | [La Que Baje La Guardia](https://open.spotify.com/track/0Bns3v6umxVjOxgg0nD5yZ) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [16 Éxitos De Oro](https://open.spotify.com/album/4Y0ngjTprxXbjjjzVw1rDR) | 3:51 |
 | 57 | [Desarmada \- Spotify Singles](https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Desarmada \- Spotify Singles](https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih) | 2:31 |
 | 58 | [Este Corazón](https://open.spotify.com/track/2J1DaejaydbQARqL1sj3sr) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Este Corazón](https://open.spotify.com/album/38nAVrZCvLZG6gGas28yd2) | 3:47 |

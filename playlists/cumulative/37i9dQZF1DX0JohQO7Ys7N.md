@@ -4,7 +4,7 @@
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Bridget Blue
 
-318 songs - 17 hr 59 min
+319 songs - 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Digestive's Interlude](https://open.spotify.com/track/4HtPQfPIefNlbD1tS8vln7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Digestive's Interlude](https://open.spotify.com/album/58e3kFKcmQ2eiHiOlJeKV6) | 1:37 | 2024-10-17 | 2025-07-04 |
 | [Dilly Darling](https://open.spotify.com/track/5KXvjxNDjDMqw3yzs3Hdm4) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Dilly Darling](https://open.spotify.com/album/5ev4H9jy1ftkDODd5HXiKN) | 3:47 | 2026-01-29 |  |
 | [Dizzy](https://open.spotify.com/track/3x3RkNq6HRBa35zuo0kcx8) | [Kuiyu](https://open.spotify.com/artist/57FPDvahreSlCOtOh6k3UD), [Wambura Mugo](https://open.spotify.com/artist/5mOh1wmnmL8QqIvbb3KY96) | [Dizzy](https://open.spotify.com/album/1hImerDNye4ff7EyRwmi4L) | 4:07 | 2022-06-16 | 2023-05-19 |
-| [DON'T CALL ME \(Live\)](https://open.spotify.com/track/7pXrvCW8LkIqdqQGYZx6la) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [ANGARITA](https://open.spotify.com/artist/3i4OsTUD79iYLEVlXJavgS) | [DON'T CALL ME \(Live\)](https://open.spotify.com/album/1qJK7MGwPnmwr4pJ7tPLMp) | 3:17 | 2025-07-03 |  |
+| [DON'T CALL ME \(Live\)](https://open.spotify.com/track/7pXrvCW8LkIqdqQGYZx6la) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [ANGARITA](https://open.spotify.com/artist/3i4OsTUD79iYLEVlXJavgS) | [DON'T CALL ME \(Live\)](https://open.spotify.com/album/1qJK7MGwPnmwr4pJ7tPLMp) | 3:17 | 2025-07-03 | 2026-04-24 |
 | [Don't Wanna Lose You \(From Kito the Soundtrack\)](https://open.spotify.com/track/7ktsnwhy3hVAIzR4ItrS5q) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Don't Wanna Lose You \(From Kito the Soundtrack\)](https://open.spotify.com/album/1dcRWf7n33BMslTRIONwO0) | 3:16 | 2026-02-12 |  |
 | [Drug](https://open.spotify.com/track/0CSstPj1rRmpxoLojrIYVU) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Drug](https://open.spotify.com/album/5nSi4krADjtHDVziZ6zGsF) | 3:05 | 2021-12-28 | 2023-05-27 |
 | [EAST2HWOOD](https://open.spotify.com/track/7nsQGkE4LbDnGCp9lDs83t) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [EAST2HWOOD](https://open.spotify.com/album/2hpKS3D3i4J0UK9vkGmuVV) | 3:28 | 2025-10-09 |  |
@@ -314,6 +314,7 @@
 | [Waza](https://open.spotify.com/track/6o0v1jNUgMpBwT3RQe2Wae) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Waza](https://open.spotify.com/album/5ClSrFIsxh8jwLiNxS0jQY) | 3:11 | 2026-03-16 |  |
 | [We're Made For Each Other](https://open.spotify.com/track/2G5EyrYbvXoUIpwqzGLgK1) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters II](https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY) | 2:28 | 2022-03-03 | 2024-06-01 |
 | [Weapon](https://open.spotify.com/track/2Ycm5ifNu1SC0ff8sJKero) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Weapon](https://open.spotify.com/album/2DmSvDDCxoM0KqwmoPrBVo) | 2:35 | 2024-05-30 | 2025-12-12 |
+| [Wema](https://open.spotify.com/track/0E15zmK9lBCInCo576aeDD) | [nk\_njoroge](https://open.spotify.com/artist/306o9lJc6Kl3fBopcMGWm6) | [Wema](https://open.spotify.com/album/2q7OrlfGsSKKZTgpTsaeB7) | 2:23 | 2026-04-23 |  |
 | [Wendo Mwaki \- From Un\-Adult\-Erated](https://open.spotify.com/track/4FQ7pGtcUpFVMGLxDHij79) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24) | [Wendo Mwaki \- From Un\-Adult\-Erated](https://open.spotify.com/album/2mkFVIgMDrSG6BaHVQdFiM) | 3:36 | 2023-03-30 | 2025-05-30 |
 | [Wewe ni wangu](https://open.spotify.com/track/46s9rwtP41bvXAylPmOmgo) | [2wentysixx](https://open.spotify.com/artist/7EzZxvZRR2cwbGP5W7116h) | [Wewe ni wangu](https://open.spotify.com/album/45R7Je3EQxcywOoOOEAxc7) | 3:40 | 2025-12-15 |  |
 | [What I See](https://open.spotify.com/track/7jDkmNjxPQ0F2b7D4agmTG) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [What I See](https://open.spotify.com/album/1GeUTD1xqgMWH0qzOffTMX) | 2:54 | 2021-12-28 |  |

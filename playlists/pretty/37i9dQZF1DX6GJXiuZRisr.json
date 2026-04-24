@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1613005,
+  "num_followers": 1613045,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -459,26 +459,6 @@
     {
       "added_at": "2026-04-17 04:01:13",
       "album": {
-        "name": "Another World",
-        "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Another World",
-      "url": "https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO"
-    },
-    {
-      "added_at": "2026-04-17 04:01:13",
-      "album": {
         "name": "Feels Like Us",
         "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 234545,
       "name": "Feels Like Us",
       "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
+    },
+    {
+      "added_at": "2026-04-17 04:01:13",
+      "album": {
+        "name": "Another World",
+        "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO"
     },
     {
       "added_at": "2026-04-17 04:01:13",
@@ -871,22 +871,26 @@
     {
       "added_at": "2026-04-17 04:01:13",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/3ZzkgSv5FF4L7BKt0ZqzlV"
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/6Rqbqt40cj7E7FUO9z7XS8"
       },
       "artists": [
         {
-          "name": "Mathame",
-          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
         },
         {
-          "name": "Jex",
-          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+          "name": "Saksham",
+          "url": "https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF"
+        },
+        {
+          "name": "sadHAPPY",
+          "url": "https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3"
         }
       ],
-      "duration_ms": 196691,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/1I7qxmsvOhsQpJLL5s7WET"
+      "duration_ms": 219047,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/5oh6FVaL2VQYqdXglEI59T"
     },
     {
       "added_at": "2026-04-17 04:01:13",
@@ -911,6 +915,26 @@
       "duration_ms": 233604,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/3TnVOV85DaxEMP02xWbQfH"
+    },
+    {
+      "added_at": "2026-04-17 04:01:13",
+      "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/3ZzkgSv5FF4L7BKt0ZqzlV"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+        }
+      ],
+      "duration_ms": 196691,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/1I7qxmsvOhsQpJLL5s7WET"
     },
     {
       "added_at": "2026-04-17 04:01:13",
@@ -955,30 +979,6 @@
     {
       "added_at": "2026-04-17 04:01:13",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/6Rqbqt40cj7E7FUO9z7XS8"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Saksham",
-          "url": "https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF"
-        },
-        {
-          "name": "sadHAPPY",
-          "url": "https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/5oh6FVaL2VQYqdXglEI59T"
-    },
-    {
-      "added_at": "2026-04-17 04:01:13",
-      "album": {
         "name": "Tidal Wave",
         "url": "https://open.spotify.com/album/7qPWRxHCpAciE2ZmHaFamE"
       },
@@ -995,6 +995,26 @@
       "duration_ms": 184620,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/0Ec7CMUXnfpSCZsJL26lhS"
+    },
+    {
+      "added_at": "2026-04-17 04:01:13",
+      "album": {
+        "name": "Super Powers",
+        "url": "https://open.spotify.com/album/22SPaE9g83ouMfV19VdZoi"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Super Powers",
+      "url": "https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c"
     },
     {
       "added_at": "2026-04-17 04:01:13",
@@ -1051,26 +1071,6 @@
       "duration_ms": 167792,
       "name": "I Hear No More",
       "url": "https://open.spotify.com/track/3oY5EVIaukufx6K7FNoNLK"
-    },
-    {
-      "added_at": "2026-04-17 04:01:13",
-      "album": {
-        "name": "Super Powers",
-        "url": "https://open.spotify.com/album/22SPaE9g83ouMfV19VdZoi"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "Super Powers",
-      "url": "https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c"
     },
     {
       "added_at": "2026-04-17 04:01:13",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-04-17 04:01:13",
       "album": {
-        "name": "Communicate +",
-        "url": "https://open.spotify.com/album/6DkELtmQhl5I9Bbysogi0v"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 351666,
-      "name": "Crayons",
-      "url": "https://open.spotify.com/track/21d9pu4cQrc8Pcs3FN1eap"
-    },
-    {
-      "added_at": "2026-04-17 04:01:13",
-      "album": {
         "name": "Beside You",
         "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 281826,
       "name": "Beside You",
       "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
+    },
+    {
+      "added_at": "2026-04-17 04:01:13",
+      "album": {
+        "name": "Communicate +",
+        "url": "https://open.spotify.com/album/6DkELtmQhl5I9Bbysogi0v"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 351666,
+      "name": "Crayons",
+      "url": "https://open.spotify.com/track/21d9pu4cQrc8Pcs3FN1eap"
     },
     {
       "added_at": "2026-04-17 04:01:13",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2026-04-17 04:01:13",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 204593,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF"
-    },
-    {
-      "added_at": "2026-04-17 04:01:13",
-      "album": {
         "name": "Seventeen",
         "url": "https://open.spotify.com/album/18n4STVyi9RQAlFSYINDf3"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 203760,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/7JWcNzIEvT4YIS0hplWZBs"
+    },
+    {
+      "added_at": "2026-04-17 04:01:13",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 204593,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF"
     },
     {
       "added_at": "2026-04-17 04:01:13",
@@ -1791,6 +1791,26 @@
     {
       "added_at": "2026-04-17 04:01:13",
       "album": {
+        "name": "The Good Part",
+        "url": "https://open.spotify.com/album/5b566QQbdtpFn1z7G6ONsL"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "LORYN",
+          "url": "https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "The Good Part",
+      "url": "https://open.spotify.com/track/6kzR79ao3TNnigymnhJoGI"
+    },
+    {
+      "added_at": "2026-04-17 04:01:13",
+      "album": {
         "name": "Now We Are Free (B Jones Remix)",
         "url": "https://open.spotify.com/album/57f75W90HKQrPNKXLkU4kf"
       },
@@ -1811,26 +1831,6 @@
       "duration_ms": 210490,
       "name": "Now We Are Free - B Jones Remix",
       "url": "https://open.spotify.com/track/1J8k92DuKPAmJEOfKmCTYQ"
-    },
-    {
-      "added_at": "2026-04-17 04:01:13",
-      "album": {
-        "name": "The Good Part",
-        "url": "https://open.spotify.com/album/5b566QQbdtpFn1z7G6ONsL"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "LORYN",
-          "url": "https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "The Good Part",
-      "url": "https://open.spotify.com/track/6kzR79ao3TNnigymnhJoGI"
     },
     {
       "added_at": "2026-04-17 04:01:13",
@@ -1891,30 +1891,6 @@
     {
       "added_at": "2026-04-17 04:01:13",
       "album": {
-        "name": "Wherever You Go",
-        "url": "https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT"
-      },
-      "artists": [
-        {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
-        },
-        {
-          "name": "B Jones",
-          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
-        },
-        {
-          "name": "EKE",
-          "url": "https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I"
-        }
-      ],
-      "duration_ms": 197272,
-      "name": "Wherever You Go",
-      "url": "https://open.spotify.com/track/1EbzSgAawjmMdC4onsVj3Q"
-    },
-    {
-      "added_at": "2026-04-17 04:01:13",
-      "album": {
         "name": "Surrender Your Love (Progressive Edit)",
         "url": "https://open.spotify.com/album/2EeOstsC8o495Fjb86li1Z"
       },
@@ -1935,6 +1911,30 @@
       "duration_ms": 185629,
       "name": "Surrender Your Love - Progressive Edit",
       "url": "https://open.spotify.com/track/2XI1oczyrtHmyZ5daThTwk"
+    },
+    {
+      "added_at": "2026-04-17 04:01:13",
+      "album": {
+        "name": "Wherever You Go",
+        "url": "https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT"
+      },
+      "artists": [
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "B Jones",
+          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
+        },
+        {
+          "name": "EKE",
+          "url": "https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I"
+        }
+      ],
+      "duration_ms": 197272,
+      "name": "Wherever You Go",
+      "url": "https://open.spotify.com/track/1EbzSgAawjmMdC4onsVj3Q"
     },
     {
       "added_at": "2026-04-17 04:01:13",
@@ -1991,18 +1991,18 @@
     {
       "added_at": "2026-04-17 04:01:13",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/411WDzcQy7CVDVt1UYUiPj"
+        "name": "Blink",
+        "url": "https://open.spotify.com/album/3ZXDOcCdVL2RE4WnuzJwyY"
       },
       "artists": [
         {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
         }
       ],
-      "duration_ms": 213281,
-      "name": "You",
-      "url": "https://open.spotify.com/track/6srHm0yHwDO6bALuR253JJ"
+      "duration_ms": 314462,
+      "name": "Blink",
+      "url": "https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV"
     }
   ],
   "unique_name": "Night Rider",

@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 166153,
       "name": "Like A Star",
       "url": "https://open.spotify.com/track/7mMi0mUPohV2X0nNsCeH57"
@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 176809,
       "name": "Right Side",
       "url": "https://open.spotify.com/track/7LjXtIApPh4G81nAMMCB1b"
@@ -1842,6 +1842,28 @@
       "duration_ms": 145000,
       "name": "should i give it up?",
       "url": "https://open.spotify.com/track/1p93g3SrDbIBvA4yK5RaQU"
+    },
+    {
+      "album": {
+        "name": "Kehlani",
+        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186112,
+      "name": "Shoulda Never (feat. USHER)",
+      "url": "https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK"
     },
     {
       "album": {
@@ -2412,6 +2434,24 @@
       "duration_ms": 176828,
       "name": "Walk",
       "url": "https://open.spotify.com/track/7sOU63ay88RLvacLn4Gra1"
+    },
+    {
+      "album": {
+        "name": "We Still Good??",
+        "url": "https://open.spotify.com/album/58Tex34A783zyGDC1amh2v"
+      },
+      "artists": [
+        {
+          "name": "Leah Music",
+          "url": "https://open.spotify.com/artist/3FrtVf61eHTo2BZNG1qTOK"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "We Still Good??",
+      "url": "https://open.spotify.com/track/42LIEv6ZRSrouYUhz5UT71"
     },
     {
       "album": {

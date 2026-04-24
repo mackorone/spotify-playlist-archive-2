@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,309 likes - 138 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,311 likes - 138 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 84 | [quicksand](https://open.spotify.com/track/1dyugO0mpJrBT3DEl56NeI) | [Simone Ledet](https://open.spotify.com/artist/2ySae0f4QEDCgMmjKAxVbX) | [quicksand](https://open.spotify.com/album/30tD4DWOJeez9i4WTA59Bo) | 2:26 |
 | 85 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
 | 86 | [Nyhavn \(feat\. Ella Augusta\)](https://open.spotify.com/track/1IcCUdRb9sHuJUd7jsC8Vd) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X), [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Nyhavn \(feat\. Ella Augusta\)](https://open.spotify.com/album/1XQzJCS5yuvSJ2ByPqnv2F) | 2:54 |
-| 87 | [Anerkender Mig](https://open.spotify.com/track/1VQNksI6HaBjTw1nw4YONz) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Anerkender Mig](https://open.spotify.com/album/0tXVCbmzKHXKsHmHroaTop) | 2:58 |
+| 87 | [Anerkender Mig](https://open.spotify.com/track/1VQNksI6HaBjTw1nw4YONz) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Anerkender Mig](https://open.spotify.com/album/0tXVCbmzKHXKsHmHroaTop) | 2:55 |
 | 88 | [En Anden Planet](https://open.spotify.com/track/4aCHy34GzQKexIRsZS695f) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [En Anden Planet](https://open.spotify.com/album/5ryILNPx3K0Op6YWVZNSrd) | 3:05 |
 | 89 | [Alle Pigerne Herinde](https://open.spotify.com/track/5RtYUyVHXiAchhXT8i99YE) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [Alle Pigerne Herinde](https://open.spotify.com/album/0XXFSpRpYNzk0GBWvpDZXl) | 2:17 |
 | 90 | [Vågn Op \(feat\. SELMA MILT\)](https://open.spotify.com/track/5YKRlWWfI9bIj2mulsfFdG) | [Kvadrillers](https://open.spotify.com/artist/7cGbT709Ly8AR5xjPJPeac), [SELMA MILT](https://open.spotify.com/artist/0FoWZNznH566l2BJHGXwE5) | [Vågn Op \(feat\. SELMA MILT\)](https://open.spotify.com/album/2vB1Moo3roCiVHIsuu3yId) | 2:51 |

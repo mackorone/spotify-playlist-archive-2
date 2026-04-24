@@ -4,7 +4,7 @@
 
 > This is Fuerza Regida\. The essential tracks, all in one playlist.
 
-154 songs - 7 hr 35 min
+155 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,9 +147,10 @@
 | [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 | 2023-12-26 |  |
 | [Te Quiero Besar](https://open.spotify.com/track/3iwKWIaEZ5jafPYZZSCDLz) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Quiero Besar](https://open.spotify.com/album/3nzB6RJLeWrgaATXF5ZIkr) | 3:10 | 2023-08-08 | 2024-02-12 |
 | [Tiki Taka Toco](https://open.spotify.com/track/4aDnEQkzc61DwlWTeHQqRr) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [Tiki Taka Toco](https://open.spotify.com/album/3ui3IGS12RkzjSBhG1D3NC) | 2:28 | 2023-08-08 | 2024-07-31 |
+| [Todos nos Shipean](https://open.spotify.com/track/1oeOCmZsqxNOKTE4AWqojs) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Todos nos Shipean](https://open.spotify.com/album/3SPczqBl3VuAwAHWfHQwa4) | 2:16 | 2026-04-24 |  |
 | [Toretto](https://open.spotify.com/track/0VasDy6KoTzvJJ5vBoGAmD) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [TORETTO](https://open.spotify.com/album/0evL1VIdJIPvOBUFJcXu6M) | 3:52 | 2024-01-10 | 2024-02-12 |
 | [TQM](https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [TQM](https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e) | 2:38 | 2023-08-08 |  |
-| [triston \(Fuerza's Version\)](https://open.spotify.com/track/0yTrk714y7eCeqWCzuN42s) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [triston \(Fuerza's Version\)](https://open.spotify.com/album/1grOYC0gd3zyEuVSVMlp1n) | 3:36 | 2026-04-09 |  |
+| [triston \(Fuerza's Version\)](https://open.spotify.com/track/0yTrk714y7eCeqWCzuN42s) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [triston \(Fuerza's Version\)](https://open.spotify.com/album/1grOYC0gd3zyEuVSVMlp1n) | 3:36 | 2026-04-09 | 2026-04-24 |
 | [Tu Boda](https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Tu Boda](https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA) | 3:45 | 2024-09-29 |  |
 | [tu favorito](https://open.spotify.com/track/3pRGHJs44yC68rQU9hAWa9) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [LO QUE ME FALTA POR LLORAR](https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi) | 3:25 | 2025-11-09 | 2025-12-13 |
 | [TU SANCHO](https://open.spotify.com/track/6eLQXa6uk2EW8drsiKbABZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 2:57 | 2025-05-07 |  |

@@ -63614,7 +63614,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 192075,
       "name": "\u6765\u4e16\u306f\u3069\u3046\u305b",
       "url": "https://open.spotify.com/track/4TSwjM55mVyZQ4Cwhi3F8v"
@@ -66992,6 +66992,24 @@
       "duration_ms": 369333,
       "name": "\u7d9a\u304f",
       "url": "https://open.spotify.com/track/0YyUlNv2qbddtg9nbXcnzz"
+    },
+    {
+      "album": {
+        "name": "\u7dba\u7f85",
+        "url": "https://open.spotify.com/album/2ylq1to8eVacAzHi4gpC3J"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188982,
+      "name": "\u7dba\u7f85",
+      "url": "https://open.spotify.com/track/4dSWGjuW29GHffKWwx0bGw"
     },
     {
       "album": {

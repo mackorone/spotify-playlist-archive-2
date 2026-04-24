@@ -2457,6 +2457,28 @@
     },
     {
       "album": {
+        "name": "Strathspey Queens II",
+        "url": "https://open.spotify.com/album/6mwsv1qk0D9S35n1zdfTGG"
+      },
+      "artists": [
+        {
+          "name": "Alice Allen",
+          "url": "https://open.spotify.com/artist/5EhYBIoWiClQb9d8lPBnlC"
+        },
+        {
+          "name": "Patsy Reid",
+          "url": "https://open.spotify.com/artist/1lqXI4ay0Qy7Sx210Yihko"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114600,
+      "name": "Mrs McPherson's Reel - Gibston",
+      "url": "https://open.spotify.com/track/6ytS9ji0orpQamdc6F7NYb"
+    },
+    {
+      "album": {
         "name": "Broster & West",
         "url": "https://open.spotify.com/album/4RznIm7ujwdFFt24irOUXJ"
       },

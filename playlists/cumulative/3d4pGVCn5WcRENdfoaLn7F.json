@@ -2625,6 +2625,24 @@
     },
     {
       "album": {
+        "name": "Nervous Systems",
+        "url": "https://open.spotify.com/album/4w1MzmNEvgMWzLApXX3eml"
+      },
+      "artists": [
+        {
+          "name": "House of Light",
+          "url": "https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197146,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/7pCxiJ03tUx5u1ZkaUIsT0"
+    },
+    {
+      "album": {
         "name": "Down",
         "url": "https://open.spotify.com/album/41OIZc7GGve2d6Upc7MRhu"
       },

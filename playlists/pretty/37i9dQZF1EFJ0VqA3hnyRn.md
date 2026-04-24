@@ -232,8 +232,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 222 | [All Good](https://open.spotify.com/track/579ctiuYd1ZLAfM3X1UWyz) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:39 |
 | 223 | [King](https://open.spotify.com/track/7iezOg5ENMqIpq0HVVZqgz) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Rock City](https://open.spotify.com/artist/4JLxuWOMYM50zRMCjYaHvH) | [0.9](https://open.spotify.com/album/4kvVqavqTyVWqXURC0fRqF) | 4:07 |
 | 224 | [NEW MISTAKES](https://open.spotify.com/track/2i8qZfW5H5xCG3YJBqZ0ZA) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 3:17 |
-| 225 | [Exit Wounds](https://open.spotify.com/track/1CTadyC9JCazf75DtdY97p) | [Luke James](https://open.spotify.com/artist/4E7AV8mtElSjHZP3xA9kyU) | [Luke James \(Deluxe\)](https://open.spotify.com/album/55Oye0FffojvyoADZteEFT) | 4:26 |
-| 226 | [Winning \(feat\. Big Freedia\)](https://open.spotify.com/track/71S0amxrIugHC94xfD9jLW) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [CiCi](https://open.spotify.com/album/37B5Zjn3VTORs1APCtOsRY) | 2:30 |
+| 225 | [Winning \(feat\. Big Freedia\)](https://open.spotify.com/track/71S0amxrIugHC94xfD9jLW) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [CiCi](https://open.spotify.com/album/37B5Zjn3VTORs1APCtOsRY) | 2:30 |
+| 226 | [Exit Wounds](https://open.spotify.com/track/1CTadyC9JCazf75DtdY97p) | [Luke James](https://open.spotify.com/artist/4E7AV8mtElSjHZP3xA9kyU) | [Luke James \(Deluxe\)](https://open.spotify.com/album/55Oye0FffojvyoADZteEFT) | 4:26 |
 | 227 | [New Nu](https://open.spotify.com/track/4TPUO4r8jEkWmCSQ5nzNs9) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Point Of No Return \(Deluxe\)](https://open.spotify.com/album/2OlVVFS8QZfQLmAKkfIwmz) | 2:56 |
 | 228 | [U Know U Want To](https://open.spotify.com/track/2u7YARIkovzhLheDX8RB04) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [M.O.](https://open.spotify.com/album/5JY8LOSVlqydub7b7W7MlE) | 3:50 |
 | 229 | [Rollercoaster](https://open.spotify.com/track/7xzGEPX7A2pUFa6VdnJLt3) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Discipline](https://open.spotify.com/album/5hDjUyxqB0g8uwn3M0g9MM) | 3:50 |
@@ -290,4 +290,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 280 | [Get Spooky](https://open.spotify.com/track/0n6S7kvJmwFBzjjh5qqaD0) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 1:29 |
 | 281 | [Ghosts](https://open.spotify.com/track/5FB0kBWrG11JP9IbaK502G) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 2:25 |
 
-Snapshot ID: `AcPkdAAAAAAkqxoru0mQRYT/DxkV5ejq`
+Snapshot ID: `AcPqFAAAAABgmZ74ahnquxUNSow6Ookz`

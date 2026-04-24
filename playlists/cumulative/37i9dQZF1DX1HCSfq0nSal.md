@@ -2,9 +2,9 @@
 
 ### [PEGAO](https://open.spotify.com/playlist/37i9dQZF1DX1HCSfq0nSal)
 
-> Si está pegao, está aquí\. Feat\. Omar Courtz
+> Si está pegao, está aquí\. Feat\. Quevedo
 
-952 songs - 2 day 4 hr 26 min
+954 songs - 2 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Ahora Y Siempre](https://open.spotify.com/track/1AhNxunSSizAllibrQ7jhu) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora Y Siempre](https://open.spotify.com/album/3jTzodvOzhVKQgNbLjM93z) | 2:29 | 2022-02-14 | 2022-07-13 |
 | [Airplane Tickets](https://open.spotify.com/track/2v1FKs8SR6tYEYREKM6MNN) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Airplane Tickets](https://open.spotify.com/album/6xEpW40GaWcE663h7cA3Ws) | 3:18 | 2023-12-11 | 2024-01-09 |
 | [Alejarme de Ti](https://open.spotify.com/track/4SVrkrtAeQLXoNOfQdmSAw) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Alejarme de Ti](https://open.spotify.com/album/20gN79b9t0habJ5tWsANC8) | 3:53 | 2022-01-07 | 2022-02-19 |
+| [ALGO VA A PASAR](https://open.spotify.com/track/4cAgxAadH8i2QmPtQmK6BK) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0) | [EL BAIFO](https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5) | 4:08 | 2026-04-23 |  |
 | [All Eyes On Me](https://open.spotify.com/track/3FKwkGb7Cd96TiXgv69dNc) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS) | [All Eyes On Me](https://open.spotify.com/album/4Gzj1NVk6KksUf56sJiIF3) | 2:41 | 2025-04-07 | 2025-06-13 |
 | [ALL TIME](https://open.spotify.com/track/7lKEEchVEUdxZUJrqNbnUN) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [FX De La Rose](https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3) | 2:54 | 2025-11-14 | 2025-11-25 |
 | [Amanece](https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Amanece](https://open.spotify.com/album/464FQ8gr0oKlQ1a0TCK4Yj) | 3:10 | 2023-03-13 | 2024-01-23 |
@@ -668,6 +669,7 @@
 | [PONGO](https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [PONGO](https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y) | 3:09 | 2026-03-20 |  |
 | [Ponte Pa' Mi](https://open.spotify.com/track/10u2iOS0r6plfb9GknD7g4) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [Ponte Pa' Mi](https://open.spotify.com/album/26DBrzosCFxgTFBzhcbDPp) | 3:04 | 2022-01-07 | 2022-06-24 |
 | [Pop Up](https://open.spotify.com/track/3a2u5U83KPHneJx8A30Rt1) | [mvrk](https://open.spotify.com/artist/6WCTfR8dIuTqWrFrzt2yl0) | [Please Behave Radio Vol.1](https://open.spotify.com/album/3RZUXlDgrgHwFmCtn93Nku) | 2:08 | 2026-04-21 |  |
+| [POR QUÉ SERÁ](https://open.spotify.com/track/7BzlQEYv3pmwVkIZNViGgr) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ) | [POR QUÉ SERÁ](https://open.spotify.com/album/0k5P4aqC9iza7uIT9vuZ7F) | 2:40 | 2026-04-23 |  |
 | [POR TI](https://open.spotify.com/track/3Ip1sc72P5uz8BUB9kb4QQ) | [Yapi](https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn), [SOUNDPLUG](https://open.spotify.com/artist/3V27gyl5V5dvei7a0U8zuX) | [POR TI](https://open.spotify.com/album/0NnW0UN9DFuNIzJHgUdaJa) | 1:55 | 2026-04-13 |  |
 | [Por Vos](https://open.spotify.com/track/6pXo0WoRNLSid8mbpmJ4Wz) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Por Vos](https://open.spotify.com/album/5y4gn8YJaRqaN5JQLgCZ0n) | 3:05 | 2025-03-25 | 2025-04-04 |
 | [Porsche Carrera](https://open.spotify.com/track/1lPWHfrvpun8ZnxrWp3HH8) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Le Clique: Vida Rockstar \(X\)](https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG) | 4:14 | 2024-09-09 | 2024-09-26 |
@@ -769,7 +771,7 @@
 | [Sensual Bebé](https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Sensual Bebé](https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC) | 3:29 | 2022-03-10 | 2022-07-27 |
 | [SERIO CON ESE Q](https://open.spotify.com/track/4kCGXKoHyfvpSF535X4Z4p) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [SERIO CON ESE Q](https://open.spotify.com/album/3zo7zq13zlZS9rVG6MQbdf) | 4:07 | 2024-07-31 | 2024-11-26 |
 | [SETEADORA](https://open.spotify.com/track/7DprNQSiwC4jBV7bwY761J) | [LAJA](https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb) | [SETEADORA](https://open.spotify.com/album/52NbDHSGAaS67ows7hTgaq) | 2:17 | 2025-08-11 | 2025-11-25 |
-| [SETEADORA REMIX \(with JC Reyes\)](https://open.spotify.com/track/55ZSaezLr7fNrkLL0WCpOD) | [LAJA](https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [SETEADORA REMIX \(with JC Reyes\)](https://open.spotify.com/album/0bvKMOZuhOUU0cbxfcmqEl) | 2:01 | 2026-02-03 |  |
+| [SETEADORA REMIX \(with JC Reyes\)](https://open.spotify.com/track/55ZSaezLr7fNrkLL0WCpOD) | [LAJA](https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [SETEADORA REMIX \(with JC Reyes\)](https://open.spotify.com/album/0bvKMOZuhOUU0cbxfcmqEl) | 2:01 | 2026-02-03 | 2026-04-24 |
 | [SexeSexy](https://open.spotify.com/track/5YfGs3ieDe7tYnI0yOajp9) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexeSexy](https://open.spotify.com/album/4enqG7rEC8J7vwzgSgrwrN) | 3:52 | 2024-04-01 | 2024-04-12 |
 | [Shampoo de Coco](https://open.spotify.com/track/6W8qT0SkyfZRfqaB3nWIan) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Shampoo de Coco](https://open.spotify.com/album/2s85lQ8aH3Uw6Wff9nzYKZ) | 4:00 | 2024-08-30 | 2024-09-03 |
 | [SHE TELLS ME](https://open.spotify.com/track/1srH58DEczLtwZL7vp6Inr) | [3dnan](https://open.spotify.com/artist/0sYwl6DQa61XcXmqaWQldz), [RIFISOUL](https://open.spotify.com/artist/45bEt8NEILygekiRTbsBhz) | [SHE TELLS ME](https://open.spotify.com/album/1jIZdx4Gk1UrsnDNerYqFb) | 2:40 | 2024-04-25 | 2024-04-30 |

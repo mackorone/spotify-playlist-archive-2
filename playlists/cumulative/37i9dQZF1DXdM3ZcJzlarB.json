@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Bring the Bit Back",
+        "url": "https://open.spotify.com/album/7hpuDv2j70KvmpZExYDmF0"
+      },
+      "artists": [
+        {
+          "name": "Inda Jani",
+          "url": "https://open.spotify.com/artist/2H871Uedpzv7asnQX3gLVk"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230127,
+      "name": "Bring the Bit Back",
+      "url": "https://open.spotify.com/track/4OlR8t8CzGEWOCgJwjPSCt"
+    },
+    {
+      "album": {
         "name": "Buenos Aires (en la cara)",
         "url": "https://open.spotify.com/album/40Q0V0xD8JZ1ueBT7qlPb3"
       },
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 377704,
       "name": "Calling My Name - Larrosa (AR), Nico Sparvieri Remix",
       "url": "https://open.spotify.com/track/23WyK7BdcF8gPXORh6oXnW"
@@ -2065,6 +2083,24 @@
     },
     {
       "album": {
+        "name": "Elevator",
+        "url": "https://open.spotify.com/album/46mVoYZJz2b6DoQtTRyb5K"
+      },
+      "artists": [
+        {
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128874,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/3zW2p2IIK885aOrjfDJEXv"
+    },
+    {
+      "album": {
         "name": "ELLA QUIERE TECHNO",
         "url": "https://open.spotify.com/album/1epUliWrbqCZbbaVorlTRu"
       },
@@ -2654,7 +2690,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 412095,
       "name": "Frecuencias - Mariano Mellino & FOLGAR Remix",
       "url": "https://open.spotify.com/track/1H7KcfmKY5Jwc4U41A4G49"
@@ -3040,6 +3076,32 @@
       "duration_ms": 407500,
       "name": "Hemofilia - Remix",
       "url": "https://open.spotify.com/track/5OK0uhqJ6OZYonsxGK17lQ"
+    },
+    {
+      "album": {
+        "name": "HEY!",
+        "url": "https://open.spotify.com/album/74rDLCP0IyFhrPkZFGjA6n"
+      },
+      "artists": [
+        {
+          "name": "Agustin Giri",
+          "url": "https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5"
+        },
+        {
+          "name": "Gespona",
+          "url": "https://open.spotify.com/artist/59ewWwEHhZ0yq7SKXxUj0d"
+        },
+        {
+          "name": "Last Men On Earth",
+          "url": "https://open.spotify.com/artist/4aUgXgIAcqvWeMjweQWTKy"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329523,
+      "name": "HEY!",
+      "url": "https://open.spotify.com/track/2cRNX2gFO9QhrcbhYMyoGZ"
     },
     {
       "album": {
@@ -5451,6 +5513,28 @@
     },
     {
       "album": {
+        "name": "Ricota",
+        "url": "https://open.spotify.com/album/0IBSOQFCbrtAMcfjygozLN"
+      },
+      "artists": [
+        {
+          "name": "ZULAN",
+          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
+        },
+        {
+          "name": "Debians",
+          "url": "https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145853,
+      "name": "Ricota",
+      "url": "https://open.spotify.com/track/4uZh7m5a3DFqI1WCUniio6"
+    },
+    {
+      "album": {
         "name": "Right Place, Right Time",
         "url": "https://open.spotify.com/album/0twzm14CGnFeRwn1tJpPvS"
       },
@@ -5858,7 +5942,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 260000,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/0bnwqccKNwhB8ZXMuT39zV"
@@ -5916,7 +6000,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 426000,
       "name": "Smoothy",
       "url": "https://open.spotify.com/track/1kKlDmOKaMLAj3gbu0O1xK"

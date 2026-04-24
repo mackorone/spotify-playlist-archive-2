@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: Ceaese
 
-261 songs - 14 hr 43 min
+262 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Amor de Rapper](https://open.spotify.com/track/2fVWpipkpZI5Zgpke12llF) | [Gran Rah](https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ), [Negro Sambo](https://open.spotify.com/artist/44D02T0aBZrnN7GKfB3VUk) | [Amor de Rapper](https://open.spotify.com/album/1BYbc7WeVIRr0SUCuxb7tW) | 3:31 | 2022-01-06 |  |
 | [Amor por los Textos](https://open.spotify.com/track/4yOaISnqGLg23DCcKACit2) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Falsalarma](https://open.spotify.com/artist/5vHV7UQFBAZzW0gNb3TaZr), [Guille Scherping](https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq), [DJ Rune](https://open.spotify.com/artist/7DCqRohWWetdxLeLe3Dwmr) | [Amor por los Textos](https://open.spotify.com/album/27obZ45657IggM1O5x3vdw) | 3:35 | 2022-01-06 | 2025-02-28 |
 | [Amor Por Los Textos](https://open.spotify.com/track/5U3tgtfJSkx99KPsVDN4wP) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Guille Scherping](https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq), [Falsalarma](https://open.spotify.com/artist/5vHV7UQFBAZzW0gNb3TaZr), [DJ Rune](https://open.spotify.com/artist/7DCqRohWWetdxLeLe3Dwmr) | [Hip Hope](https://open.spotify.com/album/4keg6ZuJj3Lbp9OWtpd2ld) | 3:37 | 2022-07-15 | 2024-04-19 |
+| [APAGON](https://open.spotify.com/track/2nqChcNFEKA3dz47RuggX3) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Dj Dacel](https://open.spotify.com/artist/5Nj8sBYPlnStp5EkE2f0Lf) | [97](https://open.spotify.com/album/2MMbc6h4YH9POnrHPmfjzz) | 2:55 | 2026-04-23 |  |
 | [Aprendo, perdono, olvido](https://open.spotify.com/track/3soedRe9JzyQAMekm1ss82) | [Cerounno](https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf), [Vinyltracker](https://open.spotify.com/artist/3C1LbhIokOcNVlfGF9k6Qz), [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9) | [Aprendo, perdono, olvido](https://open.spotify.com/album/6KJQUDqov7BDZ0gkmgwCbs) | 3:08 | 2025-02-28 |  |
 | [Aquí Tal Vez](https://open.spotify.com/track/5FbGyCGFYVafzQyXK4fHDP) | [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju), [JeanPatrick](https://open.spotify.com/artist/2LeoKJiUP0Sz8k2bH8IDbu) | [Aquí Tal Vez](https://open.spotify.com/album/0j5aSXUhaGsSvdwQ4QwOVI) | 3:16 | 2024-11-08 | 2024-11-16 |
 | [Arde](https://open.spotify.com/track/7r4YZXOYoMYYaV57gC5hvG) | [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu) | [Arde](https://open.spotify.com/album/24JvZOj09o2rTeLXDWR8mC) | 2:47 | 2022-01-06 | 2022-05-24 |

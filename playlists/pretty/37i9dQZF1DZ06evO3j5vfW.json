@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72447,
+  "num_followers": 72449,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAACFb9J+Kri7CkFDKtPF+mdT",
+  "snapshot_id": "aegPgAAAAACRk0Gm6VikNgE699nXyjVv",
   "tracks": [
     {
       "added_at": null,
@@ -231,26 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funky Bitz",
-        "url": "https://open.spotify.com/album/2lVGe0ESR5rhrn4dYBQwwP"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "SMACK",
-          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
-        }
-      ],
-      "duration_ms": 201250,
-      "name": "Funky Bitz",
-      "url": "https://open.spotify.com/track/0cte9r80XqyGs6sg1r1B4h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carry On (Nicky Romero Remix)",
         "url": "https://open.spotify.com/album/14BprFzfLNat9osGVdFmXM"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 175312,
       "name": "Carry On - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/4fK2NU9UyQJV74ZGiSVYsr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Funky Bitz",
+        "url": "https://open.spotify.com/album/2lVGe0ESR5rhrn4dYBQwwP"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        }
+      ],
+      "duration_ms": 201250,
+      "name": "Funky Bitz",
+      "url": "https://open.spotify.com/track/0cte9r80XqyGs6sg1r1B4h"
     },
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Like Home - Radio Edit",
-      "url": "https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Okay",
         "url": "https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE"
       },
@@ -415,6 +395,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        }
+      ],
+      "duration_ms": 200156,
+      "name": "Like Home - Radio Edit",
+      "url": "https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/4GQU85w8eqKBl48Vod1i0A"
       },
@@ -431,6 +431,26 @@
       "duration_ms": 267812,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/6nwq6sGohaaGlijGLEvdgg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/4SnEzerWvY2jHhNiMu0iKE"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Stadiumx",
+          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Harmony - Radio Edit",
+      "url": "https://open.spotify.com/track/0qwPUvS4Eofc19Uw2IDodG"
     },
     {
       "added_at": null,
@@ -487,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harmony",
-        "url": "https://open.spotify.com/album/4SnEzerWvY2jHhNiMu0iKE"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/3b9BQMfHHnjSGrBOV30qp6"
       },
       "artists": [
         {
@@ -496,13 +516,17 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Stadiumx",
-          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        },
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
         }
       ],
-      "duration_ms": 213750,
-      "name": "Harmony - Radio Edit",
-      "url": "https://open.spotify.com/track/0qwPUvS4Eofc19Uw2IDodG"
+      "duration_ms": 215336,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6N6BTxTwykM2YI06SeL1ap"
     },
     {
       "added_at": null,
@@ -527,30 +551,6 @@
       "duration_ms": 167194,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/2NlTJMj84ewpinOR5kKIEu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/3b9BQMfHHnjSGrBOV30qp6"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Deniz Koyu",
-          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
-        },
-        {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        }
-      ],
-      "duration_ms": 215336,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6N6BTxTwykM2YI06SeL1ap"
     },
     {
       "added_at": null,
@@ -635,46 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Higher Off The Ground",
-        "url": "https://open.spotify.com/album/3MN43OG1psXq1XMGDCGF4a"
+        "name": "Ups & Downs",
+        "url": "https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
         },
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         }
       ],
-      "duration_ms": 185850,
-      "name": "Higher Off The Ground",
-      "url": "https://open.spotify.com/track/2rDmxVMmUbozYlSDzktwMo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Colorful",
-        "url": "https://open.spotify.com/album/06jFHzXc8qua7eKYZuD0VH"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Dan Soleil",
-          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 196992,
-      "name": "Colorful",
-      "url": "https://open.spotify.com/track/1ZNA97eexX3HC41WgD0dab"
+      "duration_ms": 182192,
+      "name": "Ups & Downs",
+      "url": "https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k"
     },
     {
       "added_at": null,
@@ -707,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ups & Downs",
-        "url": "https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 182192,
-      "name": "Ups & Downs",
-      "url": "https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Need You To Know",
         "url": "https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt"
       },
@@ -747,6 +703,26 @@
       "duration_ms": 180000,
       "name": "I Need You To Know",
       "url": "https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Higher Off The Ground",
+        "url": "https://open.spotify.com/album/3MN43OG1psXq1XMGDCGF4a"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 185850,
+      "name": "Higher Off The Ground",
+      "url": "https://open.spotify.com/track/2rDmxVMmUbozYlSDzktwMo"
     },
     {
       "added_at": null,
@@ -831,6 +807,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Colorful",
+        "url": "https://open.spotify.com/album/06jFHzXc8qua7eKYZuD0VH"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Dan Soleil",
+          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 196992,
+      "name": "Colorful",
+      "url": "https://open.spotify.com/track/1ZNA97eexX3HC41WgD0dab"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let Me Feel (Radio Edit)",
         "url": "https://open.spotify.com/album/0zdMvVziBUVHQn2fyBbnWV"
       },
@@ -859,30 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Alone",
-        "url": "https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "FARLEY",
-          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 186263,
-      "name": "Never Alone",
-      "url": "https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stay A Little Longer",
         "url": "https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav"
       },
@@ -903,6 +879,30 @@
       "duration_ms": 211406,
       "name": "Stay A Little Longer",
       "url": "https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Alone",
+        "url": "https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "FARLEY",
+          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 186263,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw"
     },
     {
       "added_at": null,
@@ -947,6 +947,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hot Summer Nights",
+        "url": "https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "duration_ms": 158671,
+      "name": "Hot Summer Nights",
+      "url": "https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waiting For Me",
         "url": "https://open.spotify.com/album/7AmzbrQgJx0ziEaObGoyR5"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 138102,
       "name": "Waiting For Me",
       "url": "https://open.spotify.com/track/69FsZtKV3syfUMApe92Spf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hot Summer Nights",
-        "url": "https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        }
-      ],
-      "duration_ms": 158671,
-      "name": "Hot Summer Nights",
-      "url": "https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc"
     },
     {
       "added_at": null,
@@ -1031,6 +1031,30 @@
       "duration_ms": 245538,
       "name": "Desire",
       "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomorrow Comes",
+        "url": "https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+        }
+      ],
+      "duration_ms": 211771,
+      "name": "Tomorrow Comes",
+      "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
     },
     {
       "added_at": null,
@@ -1083,30 +1107,6 @@
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tomorrow Comes",
-        "url": "https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Deniz Koyu",
-          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
-        },
-        {
-          "name": "Jaimes",
-          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
-        }
-      ],
-      "duration_ms": 211771,
-      "name": "Tomorrow Comes",
-      "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Outkast. The essential tracks, all in one playlist.",
-  "num_followers": 167692,
+  "num_followers": 167709,
   "original_name": "This Is Outkast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAADXbS6Y8nktGT2gHV3wg+Bl",
+  "snapshot_id": "aegPgAAAAAC1H3siXh6FzokGBLFP0L2Y",
   "tracks": [
     {
       "added_at": null,
@@ -603,42 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Due Time",
-        "url": "https://open.spotify.com/album/06ECofyrsfq7eyIoeWV0QU"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "CeeLo Green",
-          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
-        }
-      ],
-      "duration_ms": 260284,
-      "name": "In Due Time (with Cee-Lo)",
-      "url": "https://open.spotify.com/track/0F7IWMsRmk9P9ML4prVlr0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 237160,
-      "name": "Spaghetti Junction",
-      "url": "https://open.spotify.com/track/1ZosUXeZM3qlTWdL1uTrhm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gangsta Grillz The Album",
         "url": "https://open.spotify.com/album/68lSPhhVV4hoe95OIaAwec"
       },
@@ -659,6 +623,42 @@
       "duration_ms": 297280,
       "name": "The Art of Storytellin, Pt. 4 (feat. Outkast & Marsha Ambrosius)",
       "url": "https://open.spotify.com/track/6SMwDEKfm0hlVErawcdRAK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 237160,
+      "name": "Spaghetti Junction",
+      "url": "https://open.spotify.com/track/1ZosUXeZM3qlTWdL1uTrhm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/06ECofyrsfq7eyIoeWV0QU"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        }
+      ],
+      "duration_ms": 260284,
+      "name": "In Due Time (with Cee-Lo)",
+      "url": "https://open.spotify.com/track/0F7IWMsRmk9P9ML4prVlr0"
     },
     {
       "added_at": null,
@@ -770,11 +770,19 @@
         {
           "name": "Outkast",
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 204160,
-      "name": "Idlewild Blue (Don'tchu Worry 'Bout Me)",
-      "url": "https://open.spotify.com/track/3tkbjyAmQnGsD52Rn8TCX8"
+      "duration_ms": 323000,
+      "name": "Hollywood Divorce (feat. Snoop Dogg & Lil' Wayne)",
+      "url": "https://open.spotify.com/track/1gZZyC3EEw8hwqoYRZqypC"
     },
     {
       "added_at": null,
@@ -835,6 +843,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stankonia (25th Anniversary)",
+        "url": "https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 304059,
+      "name": "Speedballin'",
+      "url": "https://open.spotify.com/track/6JyWKkyjS2wazRaPuRPQFP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Idlewild",
+        "url": "https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "Idlewild Blue (Don'tchu Worry 'Bout Me)",
+      "url": "https://open.spotify.com/track/3tkbjyAmQnGsD52Rn8TCX8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let's Get Ready",
         "url": "https://open.spotify.com/album/388lv1ynvLzyJooZsNmf0l"
       },
@@ -851,46 +891,6 @@
       "duration_ms": 243440,
       "name": "Neck Uv Da Woods (feat. Outkast)",
       "url": "https://open.spotify.com/track/5rX4diK1dOmikCV8ffQOEl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Idlewild",
-        "url": "https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Hollywood Divorce (feat. Snoop Dogg & Lil' Wayne)",
-      "url": "https://open.spotify.com/track/1gZZyC3EEw8hwqoYRZqypC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stankonia (25th Anniversary)",
-        "url": "https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 304059,
-      "name": "Speedballin'",
-      "url": "https://open.spotify.com/track/6JyWKkyjS2wazRaPuRPQFP"
     },
     {
       "added_at": null,

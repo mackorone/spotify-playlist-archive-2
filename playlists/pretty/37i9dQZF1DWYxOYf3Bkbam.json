@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 64654,
+  "num_followers": 64672,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -479,38 +479,6 @@
     {
       "added_at": "2026-04-17 18:48:35",
       "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/0cLWAd2Twque4NuHbsqKix"
-      },
-      "artists": [
-        {
-          "name": "Los Troperos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/6rWPHXNkJ29ThBSYOc92iE"
-        }
-      ],
-      "duration_ms": 202786,
-      "name": "Km. 11",
-      "url": "https://open.spotify.com/track/6jzjQlZblGsdrqQKZnlkJt"
-    },
-    {
-      "added_at": "2026-04-17 18:48:35",
-      "album": {
-        "name": "Sobredosis De Chamame",
-        "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
-      },
-      "artists": [
-        {
-          "name": "Ambo\u00e9",
-          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
-        }
-      ],
-      "duration_ms": 296653,
-      "name": "La Fiesta Del Chamam\u00e9",
-      "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
-    },
-    {
-      "added_at": "2026-04-17 18:48:35",
-      "album": {
         "name": "El Guachito",
         "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
       },
@@ -527,6 +495,22 @@
     {
       "added_at": "2026-04-17 18:48:35",
       "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/0cLWAd2Twque4NuHbsqKix"
+      },
+      "artists": [
+        {
+          "name": "Los Troperos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/6rWPHXNkJ29ThBSYOc92iE"
+        }
+      ],
+      "duration_ms": 202786,
+      "name": "Km. 11",
+      "url": "https://open.spotify.com/track/6jzjQlZblGsdrqQKZnlkJt"
+    },
+    {
+      "added_at": "2026-04-17 18:48:35",
+      "album": {
         "name": "Nuestras Mejores 30 Canciones",
         "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 146600,
       "name": "Mi \u00daltima Flor",
       "url": "https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs"
+    },
+    {
+      "added_at": "2026-04-17 18:48:35",
+      "album": {
+        "name": "Sobredosis De Chamame",
+        "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
+      },
+      "artists": [
+        {
+          "name": "Ambo\u00e9",
+          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
+        }
+      ],
+      "duration_ms": 296653,
+      "name": "La Fiesta Del Chamam\u00e9",
+      "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
     },
     {
       "added_at": "2026-04-17 18:48:35",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-04-17 18:48:35",
       "album": {
-        "name": "Las Nuevas Estrellas del Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
-        }
-      ],
-      "duration_ms": 167592,
-      "name": "Por Tus Besos",
-      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
-    },
-    {
-      "added_at": "2026-04-17 18:48:35",
-      "album": {
         "name": "Los 55 Anos del Cuarteto Santa Ana",
         "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 187013,
       "name": "Rumbeando Pal Litoral",
       "url": "https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf"
+    },
+    {
+      "added_at": "2026-04-17 18:48:35",
+      "album": {
+        "name": "Las Nuevas Estrellas del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
+        }
+      ],
+      "duration_ms": 167592,
+      "name": "Por Tus Besos",
+      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
     },
     {
       "added_at": "2026-04-17 18:48:35",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-04-17 18:48:35",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw"
-        }
-      ],
-      "duration_ms": 132213,
-      "name": "Te amare eternamente",
-      "url": "https://open.spotify.com/track/3HMpThyVex1VpyiFU6KKEo"
-    },
-    {
-      "added_at": "2026-04-17 18:48:35",
-      "album": {
         "name": "P\u00e1jaro Chog\u00fc\u00ed",
         "url": "https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 138893,
       "name": "P\u00e1jaro Chog\u00fc\u00ed",
       "url": "https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh"
+    },
+    {
+      "added_at": "2026-04-17 18:48:35",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw"
+        }
+      ],
+      "duration_ms": 132213,
+      "name": "Te amare eternamente",
+      "url": "https://open.spotify.com/track/3HMpThyVex1VpyiFU6KKEo"
     },
     {
       "added_at": "2026-04-17 18:48:35",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-04-17 18:48:35",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Fito Ledesma",
-          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
-        }
-      ],
-      "duration_ms": 120720,
-      "name": "Jineteando",
-      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
-    },
-    {
-      "added_at": "2026-04-17 18:48:35",
-      "album": {
         "name": "Por Siempre Chamam\u00e9",
         "url": "https://open.spotify.com/album/0KQtJNmeSj88kxgtresuLu"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 145840,
       "name": "Por Siempre Chamam\u00e9",
       "url": "https://open.spotify.com/track/4jTm8wb7chFcVFwcWXhHpN"
+    },
+    {
+      "added_at": "2026-04-17 18:48:35",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Fito Ledesma",
+          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
+        }
+      ],
+      "duration_ms": 120720,
+      "name": "Jineteando",
+      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
     },
     {
       "added_at": "2026-04-17 18:48:35",
@@ -1356,13 +1356,13 @@
       },
       "artists": [
         {
-          "name": "Toto Maidana",
-          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
+          "name": "Duo Aranda Palacio",
+          "url": "https://open.spotify.com/artist/7C9BHhkvyUhC9HvP6WhC2M"
         }
       ],
-      "duration_ms": 139586,
-      "name": "Compa\u00f1era",
-      "url": "https://open.spotify.com/track/1uoa6sDuL8PJnsnQAxKLF2"
+      "duration_ms": 124360,
+      "name": "Porque te fuiste",
+      "url": "https://open.spotify.com/track/1bjm33yl3ulDy3NZuKlr3D"
     },
     {
       "added_at": "2026-04-17 18:48:35",
@@ -1372,13 +1372,13 @@
       },
       "artists": [
         {
-          "name": "Duo Aranda Palacio",
-          "url": "https://open.spotify.com/artist/7C9BHhkvyUhC9HvP6WhC2M"
+          "name": "Toto Maidana",
+          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
         }
       ],
-      "duration_ms": 124360,
-      "name": "Porque te fuiste",
-      "url": "https://open.spotify.com/track/1bjm33yl3ulDy3NZuKlr3D"
+      "duration_ms": 139586,
+      "name": "Compa\u00f1era",
+      "url": "https://open.spotify.com/track/1uoa6sDuL8PJnsnQAxKLF2"
     },
     {
       "added_at": "2026-04-17 18:48:35",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-04-17 18:48:35",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Toto Maidana",
-          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
-        }
-      ],
-      "duration_ms": 134240,
-      "name": "La dama misteriosa",
-      "url": "https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw"
-    },
-    {
-      "added_at": "2026-04-17 18:48:35",
-      "album": {
         "name": "Muchachita Sos Mi Sue\u00f1o",
         "url": "https://open.spotify.com/album/0QYObb1RYFFEdKtxxAQK4A"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 139173,
       "name": "Sentimiento Correntino",
       "url": "https://open.spotify.com/track/2mE721bufkCtgsJl2vlxy1"
+    },
+    {
+      "added_at": "2026-04-17 18:48:35",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Toto Maidana",
+          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
+        }
+      ],
+      "duration_ms": 134240,
+      "name": "La dama misteriosa",
+      "url": "https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw"
     },
     {
       "added_at": "2026-04-17 18:48:35",

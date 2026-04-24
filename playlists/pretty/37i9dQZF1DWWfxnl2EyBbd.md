@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > Unwind and relax to the soft sound of jazz piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,686 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,709 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 9 | [Be Mine](https://open.spotify.com/track/3tPUKFwVYYA71e1rOlwIDb) | [Galeazzo](https://open.spotify.com/artist/616VGbzD5uDsj07r4cX7Uw) | [Be Mine](https://open.spotify.com/album/42F6ToeNoU8B0P0hKLIutt) | 3:02 |
 | 10 | [World Spinning](https://open.spotify.com/track/5jeCcXDCQ9Si433XSmb0Js) | [Alex Flynn](https://open.spotify.com/artist/64CqRzs6YJbEYzCHJWHXdF) | [World Spinning](https://open.spotify.com/album/6BRZGCg1sBoAaweLlbUdHh) | 2:19 |
 | 11 | [always you](https://open.spotify.com/track/6CiSQLqDIwgyJKLbYsKXwR) | [Niels Henningsen](https://open.spotify.com/artist/6j9utDobDDjqHOlkOlpg0x) | [always you](https://open.spotify.com/album/2vnxbOxcXicmqlAfXsV2x4) | 2:43 |
-| 12 | [The Opposite Corner](https://open.spotify.com/track/676hef7iLF9stIZAYifYfz) | [Hveiti Brauo](https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK) | [The Opposite Corner](https://open.spotify.com/album/3wjvtmCqr1rEHAOfyUgls0) | 2:38 |
-| 13 | [Late Supper](https://open.spotify.com/track/7bg7LYbKyx7QurwgvVvaRV) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Late Supper](https://open.spotify.com/album/40P9mq2kbHM1Pc3LVOqq7o) | 3:05 |
+| 12 | [Late Supper](https://open.spotify.com/track/7bg7LYbKyx7QurwgvVvaRV) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Late Supper](https://open.spotify.com/album/40P9mq2kbHM1Pc3LVOqq7o) | 3:05 |
+| 13 | [The Opposite Corner](https://open.spotify.com/track/676hef7iLF9stIZAYifYfz) | [Hveiti Brauo](https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK) | [The Opposite Corner](https://open.spotify.com/album/3wjvtmCqr1rEHAOfyUgls0) | 2:38 |
 | 14 | [A Moment To Give](https://open.spotify.com/track/3Q7dTZa2B78SGCc1HHPieB) | [Zach Dawson](https://open.spotify.com/artist/4GyXgwCG3FYaJwWSYrKzZv) | [A Moment To Give](https://open.spotify.com/album/3SBA201Y91QNWpBhnQcl2C) | 3:11 |
 | 15 | [Everything Happens to Me](https://open.spotify.com/track/34n5jH1GILDlv376VLMmDm) | [Nimelle](https://open.spotify.com/artist/0rFMKPWPxL6DpWH4aFDDME) | [Everything Happens to Me](https://open.spotify.com/album/1YCNmU1CSAyVsrEzw7oSNz) | 2:42 |
 | 16 | [Look at the Moon](https://open.spotify.com/track/50UZdAaPu71v0haQr2vLKg) | [Portiere Woodtar](https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb) | [Look at the Moon](https://open.spotify.com/album/1yAUVbxGkA3JqvijlHPmtW) | 2:48 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 64 | [A Fourth Thought](https://open.spotify.com/track/163uckCvEz1DOUbpDqjJ7V) | [Alur Mcrose](https://open.spotify.com/artist/4yKXNGfD6RAqqj8VmLQSvF) | [A Fourth Thought](https://open.spotify.com/album/2C2Qx2Gu3J2rpV1nflr0zE) | 2:27 |
 | 65 | [Moonlit Moods](https://open.spotify.com/track/1l3zd90ouLAM4yEwmRSQUK) | [Lecce Mchano](https://open.spotify.com/artist/0KHaLdxI5krYRoJtHFlLbR) | [Moonlit Moods](https://open.spotify.com/album/75mZ4x4uJIz5pdvOpvdjls) | 2:12 |
 | 66 | [A Trip Down Memory Lane](https://open.spotify.com/track/5vu73iGAuH5Lm5TYnEG46U) | [Nicola Gisin](https://open.spotify.com/artist/1XsdKXs0gUh582UBPUL88s) | [A Trip Down Memory Lane](https://open.spotify.com/album/5imUoAQsH4jj4sBpG4oG5c) | 3:22 |
-| 67 | [A Few Horizons](https://open.spotify.com/track/2s2stQDViffflCkrdkC8MD) | [Harper Avery](https://open.spotify.com/artist/6wkcjnTRQKVK4YoRcWgy8L) | [A Few Horizons](https://open.spotify.com/album/4mx4n0shq5AdIy5TfFNaGP) | 2:20 |
-| 68 | [Right Up](https://open.spotify.com/track/4fxc65XRk6q6EfUpdhBTP3) | [Montenegro Garner](https://open.spotify.com/artist/0jEJWpBlQoEGME65oJi0ms) | [Right Up](https://open.spotify.com/album/1bh9rnAoHm9lRBzsZJy74i) | 3:12 |
+| 67 | [Right Up](https://open.spotify.com/track/4fxc65XRk6q6EfUpdhBTP3) | [Montenegro Garner](https://open.spotify.com/artist/0jEJWpBlQoEGME65oJi0ms) | [Right Up](https://open.spotify.com/album/1bh9rnAoHm9lRBzsZJy74i) | 3:12 |
+| 68 | [A Few Horizons](https://open.spotify.com/track/2s2stQDViffflCkrdkC8MD) | [Harper Avery](https://open.spotify.com/artist/6wkcjnTRQKVK4YoRcWgy8L) | [A Few Horizons](https://open.spotify.com/album/4mx4n0shq5AdIy5TfFNaGP) | 2:20 |
 | 69 | [A forgotten love](https://open.spotify.com/track/15CzeZ2i4g2DtEw170jUId) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [A forgotten love](https://open.spotify.com/album/7kzdaMOWgM4zQBx8Fvlz6d) | 2:48 |
 | 70 | [Nothing at All](https://open.spotify.com/track/7p770xH0e5lOhKQoU1EABy) | [Morgan Meir](https://open.spotify.com/artist/7HdYC7Q87kENtjqLlTf6x9) | [Nothing at All](https://open.spotify.com/album/7qbbUiyMyAFOHhRY1NGBse) | 2:47 |
 | 71 | [Here with Me](https://open.spotify.com/track/1Ea4Xe2SCtPJmdeJk4bI17) | [Jakob Schröder](https://open.spotify.com/artist/2bZm8QiZFS3VRCfRqVP5kE) | [Here with Me](https://open.spotify.com/album/5zn6x74Z6tctMhmWTHBxHf) | 3:17 |
@@ -98,13 +98,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 88 | [Time to Go Home](https://open.spotify.com/track/7CygJxe6oFIuwdWw8eadq5) | [Morgan Meir](https://open.spotify.com/artist/7HdYC7Q87kENtjqLlTf6x9) | [Time to Go Home](https://open.spotify.com/album/0Bsg4sc3NLfWk0KJN4q8Tu) | 3:21 |
 | 89 | [The old train](https://open.spotify.com/track/5ymsU4g64so81Y4LyFs2PJ) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [The old train](https://open.spotify.com/album/0AMT378RSZtNOXrzDNkkZJ) | 3:03 |
 | 90 | [Staying for Tomorrow](https://open.spotify.com/track/61MUfbGgxhdkzlVlgx2ur3) | [Hveiti Brauo](https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK) | [Staying for Tomorrow](https://open.spotify.com/album/4nACEscwiD9bixym2zCTmc) | 3:23 |
-| 91 | [I'm Coming Home](https://open.spotify.com/track/2HcSR6uNSe18KXGrHEG3Oi) | [Trey Patton](https://open.spotify.com/artist/16YBPq22nB5oyX5exXWfSn) | [I'm Coming Home](https://open.spotify.com/album/3KqaOrhsc00OigqSepxDUT) | 2:42 |
-| 92 | [Strangers by Midnight](https://open.spotify.com/track/3aiSarqjyxbdllRulzUTJj) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [Strangers by Midnight](https://open.spotify.com/album/0dRBbv4SyKDfMtcmebe37h) | 3:20 |
+| 91 | [Strangers by Midnight](https://open.spotify.com/track/3aiSarqjyxbdllRulzUTJj) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [Strangers by Midnight](https://open.spotify.com/album/0dRBbv4SyKDfMtcmebe37h) | 3:20 |
+| 92 | [I'm Coming Home](https://open.spotify.com/track/2HcSR6uNSe18KXGrHEG3Oi) | [Trey Patton](https://open.spotify.com/artist/16YBPq22nB5oyX5exXWfSn) | [I'm Coming Home](https://open.spotify.com/album/3KqaOrhsc00OigqSepxDUT) | 2:42 |
 | 93 | [How Should I Know](https://open.spotify.com/track/0D3KPdUM0rYY455Lg6pnId) | [Morgan Meir](https://open.spotify.com/artist/7HdYC7Q87kENtjqLlTf6x9) | [How Should I Know](https://open.spotify.com/album/1kgaRh1UG0wVAsroy0xWFO) | 2:47 |
 | 94 | [You're glowing](https://open.spotify.com/track/5TsR9Rig5dmMzMuAhz9XSM) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [You're glowing](https://open.spotify.com/album/5IJeiLHGAAjCYSos8mkp02) | 2:41 |
 | 95 | [I miss your laughter](https://open.spotify.com/track/7J43Mh4UvelypkEw3VfzAp) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [I miss your laughter](https://open.spotify.com/album/0pAU1cL8tBWrwH65s1NLe7) | 2:39 |
-| 96 | [Last light on 52nd street](https://open.spotify.com/track/2UIMFV8wrYW4QthT9oODXX) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [Last light on 52nd street](https://open.spotify.com/album/1ewztXs9EIdDaY5szpP2cS) | 2:39 |
-| 97 | [Maybe Next Week](https://open.spotify.com/track/3hJvvzM5Db68F7nvySa3eP) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Maybe Next Week](https://open.spotify.com/album/4S13x0lSNQI1eeVHDUK24l) | 2:30 |
+| 96 | [Maybe Next Week](https://open.spotify.com/track/3hJvvzM5Db68F7nvySa3eP) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Maybe Next Week](https://open.spotify.com/album/4S13x0lSNQI1eeVHDUK24l) | 2:30 |
+| 97 | [Last light on 52nd street](https://open.spotify.com/track/2UIMFV8wrYW4QthT9oODXX) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [Last light on 52nd street](https://open.spotify.com/album/1ewztXs9EIdDaY5szpP2cS) | 2:39 |
 | 98 | [Be Quiet](https://open.spotify.com/track/0z3HE3jSdHGCypxyUArO0p) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Be Quiet](https://open.spotify.com/album/45EfXaVn5S70mQOyQBae8M) | 2:50 |
 | 99 | [Drift Away](https://open.spotify.com/track/70bHt1pbqpofJt4JaP6TUD) | [Nova Blanche](https://open.spotify.com/artist/5jiNBpPFvATaOvPifxoOGf) | [Drift Away](https://open.spotify.com/album/76BJgGibNh2LYqQfZETaQR) | 2:45 |
 | 100 | [Slumber](https://open.spotify.com/track/15puYvwdrHY0sZUzSQBaNq) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [Slumber](https://open.spotify.com/album/1p5YyXdqlySUTkTRhe41aq) | 2:48 |

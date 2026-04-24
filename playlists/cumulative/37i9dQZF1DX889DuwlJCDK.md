@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: 至福ぽんちょ
 
-1,746 songs - 4 day 9 hr 25 min
+1,747 songs - 4 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [basement](https://open.spotify.com/track/3MIc6RMb83SodnfE7T5XNU) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK! / DIMWORK](https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ) | 1:48 | 2023-08-08 | 2023-08-23 |
 | [bath towel](https://open.spotify.com/track/2lGke9fAXi9CgEth5SYxYl) | [Ibe CALLER](https://open.spotify.com/artist/4Rtes03Wneo2iF5YD0aCDo) | [bath towel](https://open.spotify.com/album/2OBD5zoic2ELtu8Ak0zVvT) | 3:30 | 2023-12-05 | 2023-12-13 |
 | [BEAT](https://open.spotify.com/track/3hu0rFbcbMCC5mzdmL6JPr) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BEAT](https://open.spotify.com/album/6lSiYV5LPdVrw1gTXF51ww) | 3:37 | 2025-04-29 | 2026-02-12 |
+| [BEAUTIFUL PARADOX](https://open.spotify.com/track/2Rt8iINYVyzRlGSwwFrvOs) | [WHISPER OUT LOUD](https://open.spotify.com/artist/7594VeFTC59RzlfoXUq8VP) | [BEAUTIFUL PARADOX](https://open.spotify.com/album/6WlgobcU6XyVXy2zKmcUiw) | 2:45 | 2026-04-21 |  |
 | [beautifulね](https://open.spotify.com/track/5PH4OEOxFrUCGBRJORhCMh) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [beautifulね](https://open.spotify.com/album/5NI6YBLxZhIoaNHiQeNuV3) | 4:43 | 2025-03-11 | 2025-04-22 |
 | [Beauty and the Beast](https://open.spotify.com/track/60AlhgBWHsGEcKXix3FFNZ) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [Beauty and the Beast](https://open.spotify.com/album/3VfPRyqrBengV19luJEGNz) | 4:10 | 2024-04-02 | 2024-04-19 |
 | [Because of the Night](https://open.spotify.com/track/4S5mEnMUixAl2ZKFqaayen) | [コロブチカ](https://open.spotify.com/artist/13DtUTAgjkfoHgimlJQYwC) | [Because of the Night](https://open.spotify.com/album/6vMJUHLvZHaVBCRFssJdG8) | 3:38 | 2025-03-11 | 2025-03-19 |
@@ -174,7 +175,7 @@
 | [Dramatic Blue](https://open.spotify.com/track/1qH6BAQHjpBxl8wphvAcU9) | [パーカーズ](https://open.spotify.com/artist/6TVg7Kq9FSpdPLWMlHUhfW) | [Dramatic Blue](https://open.spotify.com/album/6kPbKnBEnbzc8diuugavN2) | 4:08 | 2024-04-30 | 2024-05-08 |
 | [Dream](https://open.spotify.com/track/1xhsV79FmBv9USjz21eaLE) | [KEPURA](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [Abduct](https://open.spotify.com/album/1VsXeUHXkh8MaGqw7csHSN) | 4:24 | 2025-12-09 | 2025-12-17 |
 | [Dream in the Sunny Spot](https://open.spotify.com/track/16UQxH9n14xk0QreeKIuiD) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [Dream in the Sunny Spot](https://open.spotify.com/album/4FDCsFuJ1BvXV7mphpV1rp) | 4:29 | 2024-09-03 | 2024-10-02 |
-| [Dreamer Believer](https://open.spotify.com/track/4BSjXW2S0gOrM1Eg5bjsAw) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [Dreamer Believer](https://open.spotify.com/album/36Y2APiuiAwJHYuyxzUA3z) | 4:12 | 2026-02-11 |  |
+| [Dreamer Believer](https://open.spotify.com/track/4BSjXW2S0gOrM1Eg5bjsAw) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [Dreamer Believer](https://open.spotify.com/album/36Y2APiuiAwJHYuyxzUA3z) | 4:12 | 2026-02-11 | 2026-04-24 |
 | [DREAMING](https://open.spotify.com/track/1LfAIH5nQ4l6TroHIK0eDr) | [ナキシラベ](https://open.spotify.com/artist/21JFi8x5t39v1BXNANlyNc) | [DREAMING](https://open.spotify.com/album/5n31FJk4YywyQyeiTWU1nq) | 3:45 | 2023-12-05 | 2023-12-13 |
 | [Dreams!!!!](https://open.spotify.com/track/0jVfP4tliQXqD5gV1pD7Ng) | [NEK!](https://open.spotify.com/artist/69bgop9pQQD8inX5vVOl5r) | [Dreams!!!!](https://open.spotify.com/album/5UO9oSZFnTVWiQrQM2mMDT) | 3:40 | 2024-12-17 | 2025-01-22 |
 | [Dreamy Soul Of Language](https://open.spotify.com/track/2VwjtQtzLbss67dDHtjSr0) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [Dreamy Soul Of Language](https://open.spotify.com/album/28BP4mS8hNnYdC6qtzlI1O) | 3:23 | 2023-09-05 | 2023-09-27 |
@@ -1260,7 +1261,7 @@
 | [ワールド](https://open.spotify.com/track/2l7xrbWYunR98alxyRjlZw) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [ワールド](https://open.spotify.com/album/6imGT2DvcwbGE6B6kIa11M) | 4:17 | 2023-09-12 | 2023-09-14 |
 | [一揆](https://open.spotify.com/track/0dVNJHo0xIt3uaCQDUsfve) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [一揆](https://open.spotify.com/album/5ikYdBpLMYXadwfkJIPfje) | 3:13 | 2024-04-16 | 2024-04-24 |
 | [一日数秒の良いシーン](https://open.spotify.com/track/6sgCpPWZ2Te19RLgCaqVv2) | [ハシリコミーズ](https://open.spotify.com/artist/4NVdO6VBd0AiwHr1byOcmP) | [I Love you! next to music](https://open.spotify.com/album/6mF00aG39MlCQnZkjJm6xx) | 4:30 | 2024-03-12 | 2024-03-14 |
-| [一生仲仔](https://open.spotify.com/track/3NOSJZOUY8azb5MX8D7JAw) | [三四少女](https://open.spotify.com/artist/5vvyC8VELrIam8i6hKfyBS) | [一生仲仔](https://open.spotify.com/album/52NX5ubdAIfLeX9Ih0UOoi) | 3:27 | 2026-04-07 | 2026-04-22 |
+| [一生仲仔](https://open.spotify.com/track/3NOSJZOUY8azb5MX8D7JAw) | [三四少女](https://open.spotify.com/artist/5vvyC8VELrIam8i6hKfyBS) | [一生仲仔](https://open.spotify.com/album/52NX5ubdAIfLeX9Ih0UOoi) | 3:27 | 2026-04-07 |  |
 | [一生僕ら恋をしよう](https://open.spotify.com/track/2Tvzvp5zBYht7JEh7c6YV3) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [一生僕ら恋をしよう](https://open.spotify.com/album/1UdbM46SSl7ijPvnv2Usn5) | 4:16 | 2026-02-24 |  |
 | [一目惚れ](https://open.spotify.com/track/0Hf5QDObwSrceexKd0Xre5) | [ガラクタ](https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA) | [雨のち君で晴れに変わる](https://open.spotify.com/album/33xIgOBdbzlabS2vHTiNQH) | 2:26 | 2025-03-04 | 2025-03-12 |
 | [三日月](https://open.spotify.com/track/2OySFMcSp7sQme28OZrm0B) | [suiheisen](https://open.spotify.com/artist/2JDltXALEgRIAukd403crv) | [希望の匂い](https://open.spotify.com/album/0nuQNH81AYkyvXharmEYzN) | 3:44 | 2026-02-24 | 2026-03-30 |
@@ -1707,7 +1708,7 @@
 | [道の途中](https://open.spotify.com/track/03V3gmMDZZa8U3CGXTEOsu) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [道の途中](https://open.spotify.com/album/2I2XSTxcPhYvozdRWKswAj) | 4:05 | 2023-08-22 | 2023-10-09 |
 | [遥か](https://open.spotify.com/track/4wBFubvNAwVox8q4SYXHqU) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [塩、コショウ](https://open.spotify.com/album/0gRsmuwDsneIbR53ggNloo) | 5:36 | 2023-11-28 | 2023-12-13 |
 | [部屋とガラクタと私](https://open.spotify.com/track/7agOQwYZK5SYmzsbbOuBWK) | [ミーマイナー](https://open.spotify.com/artist/7G8KRjagUdAsleZIfe2juo) | [部屋とガラクタと私](https://open.spotify.com/album/1G4WRoKBf3vj49N0cHyEIQ) | 3:28 | 2026-04-14 |  |
-| [酩酊](https://open.spotify.com/track/1vkRsVW9ELTHPHAjk1pdEc) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [酩酊](https://open.spotify.com/album/6PLubcSxUjShdXdOpSc9i9) | 3:29 | 2026-04-07 |  |
+| [酩酊](https://open.spotify.com/track/1vkRsVW9ELTHPHAjk1pdEc) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [酩酊](https://open.spotify.com/album/6PLubcSxUjShdXdOpSc9i9) | 3:29 | 2026-04-07 | 2026-04-24 |
 | [金星](https://open.spotify.com/track/7x2HAt5GncMkvYI4dVrwpQ) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [金星](https://open.spotify.com/album/3El28GIdiUaHziptKtw5d0) | 3:37 | 2023-09-05 | 2024-12-18 |
 | [金木犀](https://open.spotify.com/track/1VlUWjaVvYriHH6luqNndp) | [ゆらる](https://open.spotify.com/artist/2QTmBxZwuMH45Grak3UpQk) | [金木犀](https://open.spotify.com/album/3m42mkumPerhSWZDR2zQUM) | 3:25 | 2024-03-12 | 2024-03-20 |
 | [銃電中](https://open.spotify.com/track/1LxDnRK7p9eXuag3TB3GNF) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [銃電中](https://open.spotify.com/album/3xJTbByKy6q3Suq4FM7tDw) | 3:31 | 2024-11-26 | 2025-07-09 |

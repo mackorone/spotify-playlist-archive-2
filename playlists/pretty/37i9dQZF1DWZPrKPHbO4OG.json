@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 37104,
+  "num_followers": 37126,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-03-18 08:55:51",
       "album": {
+        "name": "Koliwada Jhingla",
+        "url": "https://open.spotify.com/album/6MApVLobvbC1PzRIVkouUo"
+      },
+      "artists": [
+        {
+          "name": "Siddhi Ture",
+          "url": "https://open.spotify.com/artist/5wesFSpvU7ZDe0pnXFziA1"
+        }
+      ],
+      "duration_ms": 227606,
+      "name": "Koliwada Jhingla",
+      "url": "https://open.spotify.com/track/3lhpuZdgqKdcX0WocldP8e"
+    },
+    {
+      "added_at": "2026-03-18 08:55:51",
+      "album": {
         "name": "Ajay - Atul Hits",
         "url": "https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 306464,
       "name": "Kombdi Palali - From \"Jatra\"",
       "url": "https://open.spotify.com/track/5MWLOVaXix2p4UtD3UpRen"
-    },
-    {
-      "added_at": "2026-03-18 08:55:51",
-      "album": {
-        "name": "Koliwada Jhingla",
-        "url": "https://open.spotify.com/album/6MApVLobvbC1PzRIVkouUo"
-      },
-      "artists": [
-        {
-          "name": "Siddhi Ture",
-          "url": "https://open.spotify.com/artist/5wesFSpvU7ZDe0pnXFziA1"
-        }
-      ],
-      "duration_ms": 227606,
-      "name": "Koliwada Jhingla",
-      "url": "https://open.spotify.com/track/3lhpuZdgqKdcX0WocldP8e"
     },
     {
       "added_at": "2026-03-18 08:55:51",

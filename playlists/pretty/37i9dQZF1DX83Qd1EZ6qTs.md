@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 
 > Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Zakir Hussain
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,803 likes - 47 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,806 likes - 47 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 35 | [Tabla Music for Meditation](https://open.spotify.com/track/6GQeKCaqhezSIkRcURoVjN) | [Adho Vrikshasana](https://open.spotify.com/artist/3HEuFjuF3gbxD2pj6evcHx) | [Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music](https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44) | 6:20 |
 | 36 | [Ecstasy](https://open.spotify.com/track/3cpUVxVvbZ42OhVC7MF07h) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Get Recharged!!!](https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL) | 6:48 |
 | 37 | [Wander](https://open.spotify.com/track/7j53xRQzT5VXy5hz8WnQLT) | [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Wander](https://open.spotify.com/album/0NtsRlMtC5jJiPwi8QxlJG) | 3:00 |
-| 38 | [Delirio de Ale](https://open.spotify.com/track/7LeCJLskRnBq1Bz0l98tC3) | [Fausto Palma](https://open.spotify.com/artist/6NWmBPZdw4rP461AyF197Q) | [Lagrima](https://open.spotify.com/album/0EphHGiWwMpfirdRG3gp3J) | 2:39 |
-| 39 | [Blue Curry](https://open.spotify.com/track/1H9o3KJZSNhJURgywmZwkS) | [Bhangra Beats](https://open.spotify.com/artist/2BozhfzPEFME4tBKO8PSjv) | [Blue Curry](https://open.spotify.com/album/3KeLxy9vd1vB3N0IRvLqmt) | 2:32 |
+| 38 | [Blue Curry](https://open.spotify.com/track/1H9o3KJZSNhJURgywmZwkS) | [Bhangra Beats](https://open.spotify.com/artist/2BozhfzPEFME4tBKO8PSjv) | [Blue Curry](https://open.spotify.com/album/3KeLxy9vd1vB3N0IRvLqmt) | 2:32 |
+| 39 | [Delirio de Ale](https://open.spotify.com/track/7LeCJLskRnBq1Bz0l98tC3) | [Fausto Palma](https://open.spotify.com/artist/6NWmBPZdw4rP461AyF197Q) | [Lagrima](https://open.spotify.com/album/0EphHGiWwMpfirdRG3gp3J) | 2:39 |
 | 40 | [LITTLE KRISHNA'S DANCE](https://open.spotify.com/track/1ab08g5dW8AIEJzXcD561V) | [Indraneel Hariharan](https://open.spotify.com/artist/5WPiQNj0DTvWhYBrp1hiIC), [Krishang Hariharan](https://open.spotify.com/artist/0gNWJkcDHN7t3Hg6JEi2hv) | [LITTLE KRISHNA'S DANCE](https://open.spotify.com/album/2WqDvVSYLHj1HgxPhnHysc) | 4:38 |
 | 41 | [Drut Teentaal \(Tabla solo\)](https://open.spotify.com/track/3lduWcXFj4zjMVsSlL4qdd) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Taaleem](https://open.spotify.com/album/3mjbUgpIzaDUbT3uTGFARj) | 9:30 |
 | 42 | [Euphoria](https://open.spotify.com/track/25gcjUAUwRC2CH7uLkh9aN) | [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Euphoria](https://open.spotify.com/album/4BD93NQSsyizGs0sEIffLy) | 3:16 |

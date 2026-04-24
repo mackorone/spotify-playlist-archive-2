@@ -1,13 +1,97 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: RINNI",
-  "num_followers": 14154,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Dominique Adhadiaz",
+  "num_followers": 14159,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKtPdKyXV6rS68LPlkouaA452Q1O",
+  "snapshot_id": "AAAAACjK9xG/18s/iHtQEkO5vpUop8IT",
   "tracks": [
+    {
+      "added_at": "2026-04-23 18:00:11",
+      "album": {
+        "name": "fokusku kedelay",
+        "url": "https://open.spotify.com/album/7qnncMLNhFafWkHUeewg1I"
+      },
+      "artists": [
+        {
+          "name": "Dominique Adhadiaz",
+          "url": "https://open.spotify.com/artist/1CdlXDQpcRaeFOdY8eEiws"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "fokusku kedelay",
+      "url": "https://open.spotify.com/track/0I9XRB2ibh4uijHSk7IgyF"
+    },
+    {
+      "added_at": "2026-04-23 18:00:11",
+      "album": {
+        "name": "Kubuka Pintu",
+        "url": "https://open.spotify.com/album/5IchrfWDYZmoJEaZKlUAcM"
+      },
+      "artists": [
+        {
+          "name": "KELJO",
+          "url": "https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Kubuka Pintu",
+      "url": "https://open.spotify.com/track/5PP3Qbc5yDA7zvg3MPjpQm"
+    },
+    {
+      "added_at": "2026-04-23 18:00:11",
+      "album": {
+        "name": "S 90 3",
+        "url": "https://open.spotify.com/album/2XbedfHomAGEkFcbeeP6CL"
+      },
+      "artists": [
+        {
+          "name": "yuandirty",
+          "url": "https://open.spotify.com/artist/5ijgD6jZ7Xn1ofH75kQtsQ"
+        },
+        {
+          "name": "GAZM",
+          "url": "https://open.spotify.com/artist/3wnEMTyjnqE2ay6ObaZVes"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "GREEN",
+      "url": "https://open.spotify.com/track/7f7anP2UCwgiJqvnBXcVFq"
+    },
+    {
+      "added_at": "2026-04-23 18:00:11",
+      "album": {
+        "name": "I DON'T WANNA (BE YOU)",
+        "url": "https://open.spotify.com/album/0neAOjh7pob5T9hroLg3Pz"
+      },
+      "artists": [
+        {
+          "name": "Gavendri",
+          "url": "https://open.spotify.com/artist/3EMLBUicqUKN1tBFUj718w"
+        }
+      ],
+      "duration_ms": 228270,
+      "name": "I DON'T WANNA (BE YOU)",
+      "url": "https://open.spotify.com/track/2WCMo9QlX9wxYhMPNS7OiF"
+    },
+    {
+      "added_at": "2026-04-23 18:00:11",
+      "album": {
+        "name": "Cantikkuuuuu",
+        "url": "https://open.spotify.com/album/0a50H8wn696CVLTOVn4zLY"
+      },
+      "artists": [
+        {
+          "name": "William Sihombing",
+          "url": "https://open.spotify.com/artist/1HXxCMWL1jyKHQ2odKWR3j"
+        }
+      ],
+      "duration_ms": 196049,
+      "name": "Cantikkuuuuu",
+      "url": "https://open.spotify.com/track/0Opos1749YAMnjC2htWzYV"
+    },
     {
       "added_at": "2026-04-09 19:00:11",
       "album": {

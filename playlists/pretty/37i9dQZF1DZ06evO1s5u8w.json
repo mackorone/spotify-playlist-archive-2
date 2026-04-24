@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 202120,
+  "num_followers": 202125,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAABy2DZxFpBzXxW5fHARtXyN",
+  "snapshot_id": "aegPgAAAAADMarJBLf1kR8giMWdAlAPv",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stop Making Sense (Live)",
-        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 297226,
-      "name": "This Must Be the Place (Naive Melody) - Live",
-      "url": "https://open.spotify.com/track/0cAPfvvqFZsqsIz3ZDSKIa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Creatures",
         "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 238906,
       "name": "The Lady Don't Mind - 2005 Remaster",
       "url": "https://open.spotify.com/track/6xaYStR8hIimvEmKLwv4Gh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stop Making Sense (Live)",
+        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 297226,
+      "name": "This Must Be the Place (Naive Melody) - Live",
+      "url": "https://open.spotify.com/track/0cAPfvvqFZsqsIz3ZDSKIa"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6iOPhFscLxdpzGug0qxpcZ"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 333000,
-      "name": "(Nothing But) Flowers",
-      "url": "https://open.spotify.com/track/3tLolIaNbQSoIv6Usvhboh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Creatures (Deluxe Version)",
         "url": "https://open.spotify.com/album/1ErneCyxOnZ1KTiEcNmnjw"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 222413,
       "name": "Stay up Late - 2005 Remaster",
       "url": "https://open.spotify.com/track/5DAW2q6DYyfNe4npGYKaHt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 273200,
+      "name": "Houses in Motion - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2hDMI3I7WGgHmP4EGAk7la"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6iOPhFscLxdpzGug0qxpcZ"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 273200,
-      "name": "Houses in Motion - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2hDMI3I7WGgHmP4EGAk7la"
+      "duration_ms": 333000,
+      "name": "(Nothing But) Flowers",
+      "url": "https://open.spotify.com/track/3tLolIaNbQSoIv6Usvhboh"
     },
     {
       "added_at": null,

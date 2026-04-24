@@ -4,7 +4,7 @@
 
 > Diese Beats machen garantiert gute Laune!
 
-213 songs - 9 hr 58 min
+214 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,8 +90,9 @@
 | [Good For You](https://open.spotify.com/track/5pn9ofs8pPX6bFZO3Dzg6i) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Good For You](https://open.spotify.com/album/3CBgdlkaFZHwyfrrHVQ0WD) | 2:50 | 2024-02-09 | 2024-03-12 |
 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-09-01 | 2026-03-24 |
 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 | 2024-03-21 | 2025-05-16 |
-| [Have You Ever Seen The Rain](https://open.spotify.com/track/1yzgMzhlFNdGAlL5Mopdoq) | [Outliers](https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL), [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t), [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Have You Ever Seen The Rain](https://open.spotify.com/album/5oDYNgWJJAzoqk5u5jZj8k) | 2:05 | 2025-04-10 |  |
+| [Have You Ever Seen The Rain](https://open.spotify.com/track/1yzgMzhlFNdGAlL5Mopdoq) | [Outliers](https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL), [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t), [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Have You Ever Seen The Rain](https://open.spotify.com/album/5oDYNgWJJAzoqk5u5jZj8k) | 2:05 | 2025-04-10 | 2026-04-24 |
 | [Head Down](https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Head Down](https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2) | 2:53 | 2024-03-19 | 2025-02-28 |
+| [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW) | 2:38 | 2026-04-23 |  |
 | [Heart Like Mine \(feat\. Rosa Linn\)](https://open.spotify.com/track/4xqekuN4lfu6MBeWov0Icl) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Heart Like Mine \(feat\. Rosa Linn\)](https://open.spotify.com/album/2k7ml7X0RXedgJaW7nkjak) | 2:29 | 2024-09-16 | 2025-02-02 |
 | [Heaven](https://open.spotify.com/track/6p8uRRGziFLcA3QDvWxEPM) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Heaven](https://open.spotify.com/album/3L9kENKyJtn4kaPV6zP89y) | 2:58 | 2023-09-01 | 2024-08-04 |
 | [Hold On Me](https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Hold On Me](https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO) | 2:51 | 2024-11-18 | 2025-05-13 |

@@ -4,7 +4,7 @@
 
 > New tunes from Ireland for your discovery\. Cover: F3miii
 
-434 songs - 23 hr 51 min
+436 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [21](https://open.spotify.com/track/42G2iOzg2XJ1AGixhNV6cE) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Halcyon](https://open.spotify.com/album/6qozXyj0x4k9gvSuKm6Jlq) | 2:59 | 2025-11-14 |  |
 | [21](https://open.spotify.com/track/19DYo3z33u99Ic14HbqUDC) | [NAOMI JEREMIAH](https://open.spotify.com/artist/4mhXKME7vxoBUyjO7uIU5h) | [21](https://open.spotify.com/album/07fOd3xbSXCr0sd16Mtkk2) | 3:01 | 2024-02-02 | 2024-02-16 |
 | [25BAG](https://open.spotify.com/track/6gTr4jaNiIUCz8pwA4UrYN) | [Kurtis](https://open.spotify.com/artist/1ZV5RU7ViRwlv7vqWuOHRf) | [25BAG](https://open.spotify.com/album/79JXoGgUwWV1QnGO6B8rnc) | 2:13 | 2024-07-19 | 2025-01-10 |
-| [2gether4ever](https://open.spotify.com/track/3Jkc22l04XEYYHZBEh3kbI) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [2gether4ever](https://open.spotify.com/album/2s0G1l2d6DKZrdBkK9kVGG) | 3:30 | 2025-11-14 |  |
+| [2gether4ever](https://open.spotify.com/track/3Jkc22l04XEYYHZBEh3kbI) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [2gether4ever](https://open.spotify.com/album/2s0G1l2d6DKZrdBkK9kVGG) | 3:30 | 2025-11-14 | 2026-04-24 |
 | [305](https://open.spotify.com/track/494f07w2ArJNlkwnWWZViK) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 2:33 | 2025-01-31 | 2025-11-14 |
 | [33s](https://open.spotify.com/track/6Xib9snQv0CJ2NmY8SV4vW) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [33s](https://open.spotify.com/album/2lJOSCuyYCXf9HTgAhUhK0) | 3:44 | 2024-02-02 | 2024-04-12 |
 | [501s](https://open.spotify.com/track/6feJvH2JJNmrsXiAeUDAZb) | [Conchúr White](https://open.spotify.com/artist/3CKoNNHadnfwIuDzOmX7vF) | [501s](https://open.spotify.com/album/5JVHvHnv7bCaQqEMyygAkR) | 3:31 | 2024-02-02 | 2024-05-24 |
@@ -161,7 +161,7 @@
 | [Heed the Call](https://open.spotify.com/track/45gBuQSHm4yZRRnfkmkiGw) | [Lee Brady](https://open.spotify.com/artist/2xxz4Kk59zp8EMtBELzymP) | [Heed the Call](https://open.spotify.com/album/1fxEVq4aEH5erwSoZXO0EC) | 3:08 | 2024-11-15 | 2025-05-31 |
 | [help wanted.](https://open.spotify.com/track/5Ik93O75khhwx6QlITqgOi) | [Ahmed, With Love.](https://open.spotify.com/artist/1qYmvB1zTqFQRaRL6j2ZuK), [Curtisy](https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35) | [help wanted.](https://open.spotify.com/album/4ljKOpCU8yzngx02jrARL1) | 2:42 | 2024-08-22 | 2025-04-24 |
 | [Hey Ma](https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hey Ma](https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi) | 4:00 | 2025-05-30 | 2026-02-27 |
-| [HIGH](https://open.spotify.com/track/70rtaYi2AprbjQQCz8rgTF) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [HIGH](https://open.spotify.com/album/0M2wuRfrnrfM9QWLmMtEnr) | 3:36 | 2025-11-28 |  |
+| [HIGH](https://open.spotify.com/track/70rtaYi2AprbjQQCz8rgTF) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [HIGH](https://open.spotify.com/album/0M2wuRfrnrfM9QWLmMtEnr) | 3:36 | 2025-11-28 | 2026-04-24 |
 | [Hold Me Down](https://open.spotify.com/track/0P2Oin9RGR8ILP5xYNSBiy) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Halcyon \(Deluxe\)](https://open.spotify.com/album/4P1BBeZSJSknyrfkLbD2Ab) | 2:34 | 2025-11-28 |  |
 | [Hold On](https://open.spotify.com/track/5HEx0ZwJEmZhvjlrMYnSuf) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [Hold On](https://open.spotify.com/album/7d9whArUbh3cK93jfmS3Ui) | 2:18 | 2024-05-09 | 2024-09-13 |
 | [HOLIDAY](https://open.spotify.com/track/6ooWTk9uZe4ma7Um04NJ7W) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP) | [HOLIDAY](https://open.spotify.com/album/698Z3Is8sbK4V6wdgeLHMe) | 2:17 | 2024-08-16 | 2024-09-20 |
@@ -225,6 +225,7 @@
 | [Lost and Found](https://open.spotify.com/track/5NwOMleiL1o2QFxoDx8Vib) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [Lost and Found](https://open.spotify.com/album/4wr0lfbZEZunDHgP99Ev82) | 3:19 | 2024-02-23 | 2024-05-17 |
 | [LOSTWITHOUTMARIA](https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [LOSTWITHOUTMARIA](https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT) | 2:34 | 2024-02-16 | 2024-07-19 |
 | [Love & Crisis](https://open.spotify.com/track/4pfQbrzANC8DuqbmRiVEJ3) | [Will Troy](https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1) | [Love & Crisis](https://open.spotify.com/album/4hBD2h0Ky9M6xr8EJwtmLt) | 3:01 | 2024-02-02 | 2024-07-27 |
+| [Love Free](https://open.spotify.com/track/01jbsYrGogrTEsaUvv77db) | [AE MAK](https://open.spotify.com/artist/2VQ0jNisT4VhPs41VGvvTX) | [Love Free](https://open.spotify.com/album/27uIZq8o3E8qoSAGiBqIp3) | 3:30 | 2026-04-23 |  |
 | [Love Is Enough](https://open.spotify.com/track/48tTHKvnKpFwifzHJ4VwRT) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Love Is Enough](https://open.spotify.com/album/1PzVn1ZGQAIT83GPKnjweC) | 3:44 | 2026-02-27 |  |
 | [Love Somebody](https://open.spotify.com/track/3ZvOClU4FkMqWU5ACbotsZ) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Love Somebody](https://open.spotify.com/album/2J7tYKElXD3sH6iqJVsMzm) | 2:57 | 2024-02-02 | 2024-02-16 |
 | [Lover](https://open.spotify.com/track/28dtxcixT4F0lINR8B1nFM) | [Odhran Murphy](https://open.spotify.com/artist/33flJthxKOZaTdeOZHJez0) | [Lover](https://open.spotify.com/album/0UEV9fFQ4GATHDx8eaLltu) | 3:06 | 2025-06-19 | 2025-11-29 |
@@ -288,6 +289,7 @@
 | [Passenger Seat](https://open.spotify.com/track/1d0fuygCq7natWK8kelMoY) | [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb) | [Passenger Seat](https://open.spotify.com/album/3NFGSk4DZw8ne96ApAJyqY) | 3:44 | 2024-04-25 | 2024-09-27 |
 | [Patchwork](https://open.spotify.com/track/2iCu9AHyRd7SGtqM2Njczy) | [Oisín](https://open.spotify.com/artist/3cEXUDLDM6nSC5dd13sBBB) | [Patchwork](https://open.spotify.com/album/14FwliJLQLlA2WPaYWUDNM) | 2:53 | 2024-06-20 | 2024-12-07 |
 | [People](https://open.spotify.com/track/0xi7qZJw7b1colPIEGG8bB) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [People](https://open.spotify.com/album/3FFC8lDz8RhvpHtO89NLix) | 3:44 | 2024-02-02 | 2024-03-08 |
+| [Perfume](https://open.spotify.com/track/5luOK6MRqAI0ZWT7ibbXvl) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Perfume](https://open.spotify.com/album/3UZ05jaikHRAGlsGwOsn4w) | 3:17 | 2026-04-23 |  |
 | [Pick a Cheek](https://open.spotify.com/track/3P5rCffH5bHysyS3TjoBiQ) | [Big Sleep](https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a) | [Pick a Cheek](https://open.spotify.com/album/2S26A9sg9dQOuaVplEPdEd) | 3:01 | 2025-04-23 | 2025-11-29 |
 | [Plans](https://open.spotify.com/track/73wrWfbOAms1ZouKuBuh0D) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Plans](https://open.spotify.com/album/3fGvMYRJ29zRyoHfsPU9z6) | 2:55 | 2024-02-02 | 2024-03-29 |
 | [PLAY HARD!](https://open.spotify.com/track/0nHVBKax5stRHnSjA249t7) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Earthday](https://open.spotify.com/album/5daBB3dy2KLzIOnZnG4mzm) | 3:00 | 2025-10-02 |  |

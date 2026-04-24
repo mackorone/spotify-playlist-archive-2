@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 261649,
+  "num_followers": 261676,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAACz8b9RA4lk9ysdgO5QY1NS",
+  "snapshot_id": "aegPgAAAAABinl8UzBfAxaIAglHy+MNv",
   "tracks": [
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 209133,
-      "name": "Velcro Fly",
-      "url": "https://open.spotify.com/track/0RdncvNPTN9NVX8VffgKsR"
+      "duration_ms": 221626,
+      "name": "Delirious",
+      "url": "https://open.spotify.com/track/0AhIMik5qSUqlTLLRI9mdV"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 221626,
-      "name": "Delirious",
-      "url": "https://open.spotify.com/track/0AhIMik5qSUqlTLLRI9mdV"
+      "duration_ms": 209133,
+      "name": "Velcro Fly",
+      "url": "https://open.spotify.com/track/0RdncvNPTN9NVX8VffgKsR"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 203613,
-      "name": "Goin' Down to Mexico",
-      "url": "https://open.spotify.com/track/0Pm15uaCb1apAbVG1c1FY1"
+      "duration_ms": 207706,
+      "name": "Certified Blues",
+      "url": "https://open.spotify.com/track/2WecIwijceRnfYDxwUGJPK"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 207706,
-      "name": "Certified Blues",
-      "url": "https://open.spotify.com/track/2WecIwijceRnfYDxwUGJPK"
+      "duration_ms": 203613,
+      "name": "Goin' Down to Mexico",
+      "url": "https://open.spotify.com/track/0Pm15uaCb1apAbVG1c1FY1"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 
 > This is Evanescence\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,746 likes - 45 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,822 likes - 45 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,24 +34,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 | 24 | [Weight Of The World](https://open.spotify.com/track/1UfCIFhRr8Bci9LUJ68dvp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:37 |
 | 25 | [The End Of The Dream](https://open.spotify.com/track/39UzUACTcDknfjc7umPcuM) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence](https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO) | 3:49 |
 | 26 | [Wasted On You](https://open.spotify.com/track/4aKT05gqcKBw2q6mnvzIzM) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:24 |
-| 27 | [Say You Will](https://open.spotify.com/track/4cfoU2UXXsbES5qwvdLHCO) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence \(Deluxe Version\)](https://open.spotify.com/album/0CHgu3JbE3Y0XQSejmQqLU) | 3:43 |
-| 28 | [Even In Death \- 2016 Version](https://open.spotify.com/track/4VO8CRItRuli3cnQLBDpvv) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 4:21 |
+| 27 | [Even In Death \- 2016 Version](https://open.spotify.com/track/4VO8CRItRuli3cnQLBDpvv) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 4:21 |
+| 28 | [Say You Will](https://open.spotify.com/track/4cfoU2UXXsbES5qwvdLHCO) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence \(Deluxe Version\)](https://open.spotify.com/album/0CHgu3JbE3Y0XQSejmQqLU) | 3:43 |
 | 29 | [Thoughtless \- Live From Le Zénith,France/2004](https://open.spotify.com/track/3FJQNtWFNNUlF2pi3razfk) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Anywhere But Home \(Live\)](https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF) | 4:37 |
 | 30 | [Better Without You](https://open.spotify.com/track/11yL2znOQCOSNqiS7Sw6K1) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:05 |
-| 31 | [Secret Door](https://open.spotify.com/track/1ium9V09FUQ32Co0D3B6Dz) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence \(Deluxe Version\)](https://open.spotify.com/album/0CHgu3JbE3Y0XQSejmQqLU) | 3:53 |
-| 32 | [Breathe No More \- B\-Side Version](https://open.spotify.com/track/2lH8hMXxuIcjpbIok9KbUj) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 3:48 |
+| 31 | [Breathe No More \- B\-Side Version](https://open.spotify.com/track/2lH8hMXxuIcjpbIok9KbUj) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 3:48 |
+| 32 | [Secret Door](https://open.spotify.com/track/1ium9V09FUQ32Co0D3B6Dz) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence \(Deluxe Version\)](https://open.spotify.com/album/0CHgu3JbE3Y0XQSejmQqLU) | 3:53 |
 | 33 | [Imperfection](https://open.spotify.com/track/0TXI0l6soKX2UhB4bA69ts) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Synthesis](https://open.spotify.com/album/6NNgZE7QZi5mvDkA6aJsuF) | 4:23 |
 | 34 | [Broken Pieces Shine](https://open.spotify.com/track/6LmgYdsFplTB7GEuqYqTVF) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 3:50 |
-| 35 | [The Chain \(from Gears 5\)](https://open.spotify.com/track/1Wnh6j4MzTyYIjDH1NmGIT) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Chain \(from Gears 5\)](https://open.spotify.com/album/0oP07JNydHXvXKegHE675I) | 4:12 |
-| 36 | [If You Don’t Mind](https://open.spotify.com/track/5XFvhTjWWDttRY2pi4SIwx) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 2:57 |
+| 35 | [If You Don’t Mind](https://open.spotify.com/track/5XFvhTjWWDttRY2pi4SIwx) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 2:57 |
+| 36 | [The Chain \(from Gears 5\)](https://open.spotify.com/track/1Wnh6j4MzTyYIjDH1NmGIT) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Chain \(from Gears 5\)](https://open.spotify.com/album/0oP07JNydHXvXKegHE675I) | 4:12 |
 | 37 | [Hi\-Lo \- feat\. Lindsey Stirling](https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Hi\-Lo \(feat\. Lindsey Stirling\)](https://open.spotify.com/album/73CyYEWFPeRGWPuI1VJxsw) | 4:16 |
 | 38 | [Part Of Me](https://open.spotify.com/track/74TiAd5cXM1vW5H7rCFBBI) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 3:58 |
-| 39 | [Tourniquet \- Live From Le Zénith,France/2004](https://open.spotify.com/track/2IR6jzSjOjp8X3Ib4SYDI8) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Anywhere But Home \(Live\)](https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF) | 4:17 |
-| 40 | [The Last Song I'm Wasting on You](https://open.spotify.com/track/0BeBYa53MXh2aQmzc64BHd) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 4:07 |
+| 39 | [The Last Song I'm Wasting on You](https://open.spotify.com/track/0BeBYa53MXh2aQmzc64BHd) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 4:07 |
+| 40 | [Tourniquet \- Live From Le Zénith,France/2004](https://open.spotify.com/track/2IR6jzSjOjp8X3Ib4SYDI8) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Anywhere But Home \(Live\)](https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF) | 4:17 |
 | 41 | [Across The Universe](https://open.spotify.com/track/75Ov0ZIMoV0HuRwaPQsicp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Across The Universe](https://open.spotify.com/album/3EsATrrGKDb76NIdrOMk2F) | 3:42 |
 | 42 | [The Game Is Over](https://open.spotify.com/track/1IjNTBTAFtqRZHvrezeG1n) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:22 |
-| 43 | [Haunted \- Live From Le Zénith,France/2004](https://open.spotify.com/track/4CJGuGDU0Uf3Z9amdY5bji) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Anywhere But Home \(Live\)](https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF) | 4:04 |
-| 44 | [Together Again](https://open.spotify.com/track/4J0TPFdHcy2z4u3myLlGXe) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 3:18 |
+| 43 | [Together Again](https://open.spotify.com/track/4J0TPFdHcy2z4u3myLlGXe) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 3:18 |
+| 44 | [Haunted \- Live From Le Zénith,France/2004](https://open.spotify.com/track/4CJGuGDU0Uf3Z9amdY5bji) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Anywhere But Home \(Live\)](https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF) | 4:04 |
 | 45 | [Use My Voice](https://open.spotify.com/track/1Buo891X2sWO0mFEr0VAmm) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:01 |
 
-Snapshot ID: `aeVsgAAAAAC/KuycaSuawKBSow1hsZGZ`
+Snapshot ID: `aegPgAAAAABooAwcH/OVsizSQJ4aMqfg`

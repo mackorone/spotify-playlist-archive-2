@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 
 > Taking it back to the 2000s\. Cover: Cam'ron
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,332 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,473 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 46 | [Lollipop](https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Static Major](https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:59 |
 | 47 | [Houstatlantavegas](https://open.spotify.com/track/3XLSlQLJf3Ut0zvMUxnF1h) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 4:50 |
 | 48 | [Lose Control \(feat\. Ciara & Fat Man Scoop\)](https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [The Cookbook](https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K) | 3:46 |
-| 49 | [Hypnotized \(feat\. Akon\)](https://open.spotify.com/track/3LN41NUdHkyNqQhi9gExMm) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Real Testament](https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW) | 3:08 |
-| 50 | [Hustlin'](https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Port Of Miami](https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk) | 4:14 |
+| 49 | [Hustlin'](https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Port Of Miami](https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk) | 4:14 |
+| 50 | [Hypnotized \(feat\. Akon\)](https://open.spotify.com/track/3LN41NUdHkyNqQhi9gExMm) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Real Testament](https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW) | 3:08 |
 | 51 | [Lean Back](https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI) | [Terror Squad](https://open.spotify.com/artist/2BvzbqWWwLN11XGBYgDZzx), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6), [remy](https://open.spotify.com/artist/4JMR34sJ8DghoiLOuIllCZ) | [True Story](https://open.spotify.com/album/0NTYMm0B7adXejff1phD3F) | 4:07 |
 | 52 | [Soul Survivor](https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Let's Get It: Thug Motivation 101](https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN) | 4:40 |
 | 53 | [Mrs\. Officer](https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Bobby V.](https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb), [Kidd Kidd](https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:46 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 95 | [Successful \(feat\. Trey Songz & Lil Wayne\)](https://open.spotify.com/track/6NwhtCYkfwWlcR62Ac4E7y) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 6:15 |
 | 96 | [Clap Back](https://open.spotify.com/track/1FK0sZfZzCAIDUn7htCemp) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6) | [Blood In My Eye](https://open.spotify.com/album/0O11EhdLUWCOErqA4Xm3b6) | 4:56 |
 | 97 | [So What](https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x) | [Field Mob](https://open.spotify.com/artist/0Uo6kyjrbQoZBlcXsMb8Vm), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Light Poles And Pine Trees](https://open.spotify.com/album/4ZIvx3lm0ytWm06bH8DAwR) | 3:36 |
-| 98 | [Some Cut \(feat\. Cutty\)](https://open.spotify.com/track/07u02f6biDHx5VexfAs41b) | [Trillville](https://open.spotify.com/artist/3jahzTuztFVegfKXChatkY), [Cutty](https://open.spotify.com/artist/3jhkLfgJKRu9Lb0AQd7fkB) | [The King Of Crunk & BME Recordings Present: Welcome to Trillville USA](https://open.spotify.com/album/2fDTnW5KAZZvuuguWrECbu) | 4:43 |
-| 99 | [Whoa!](https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi) | [Black Rob](https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49) | [Life Story](https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR) | 3:58 |
+| 98 | [Whoa!](https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi) | [Black Rob](https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49) | [Life Story](https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR) | 3:58 |
+| 99 | [Some Cut \(feat\. Cutty\)](https://open.spotify.com/track/07u02f6biDHx5VexfAs41b) | [Trillville](https://open.spotify.com/artist/3jahzTuztFVegfKXChatkY), [Cutty](https://open.spotify.com/artist/3jhkLfgJKRu9Lb0AQd7fkB) | [The King Of Crunk & BME Recordings Present: Welcome to Trillville USA](https://open.spotify.com/album/2fDTnW5KAZZvuuguWrECbu) | 4:43 |
 | 100 | [I Just Wanna Love U \(Give It 2 Me\)](https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Dynasty: Roc La Familia](https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E) | 3:47 |
 
 Snapshot ID: `AAAAAAVAR0YRmbDqxi7rLwJj6gg9YZYu`

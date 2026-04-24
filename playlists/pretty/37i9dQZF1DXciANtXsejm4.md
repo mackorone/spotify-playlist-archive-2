@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,696 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,771 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 60 | [Enganchados 2 \(Contigo me gusta / No me acostumbro\)](https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA), [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Juntando Las Almas](https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To) | 3:20 |
 | 61 | [Unx100to](https://open.spotify.com/track/7kr36sySH1DHmWxII9fGou) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Un x100to](https://open.spotify.com/album/4SKmMNd4CTjfgWLX3YpJJe) | 3:24 |
 | 62 | [No Me Dolió](https://open.spotify.com/track/0CsuYDjeRALnsoncHcqt16) | [Marcos Castelló Kaniche](https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8) | [Abrázame](https://open.spotify.com/album/7lIRBo7Uvkxfo6qYASWBcw) | 2:55 |
-| 63 | [Te Llevas Mi Vida](https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Llevas Mi Vida](https://open.spotify.com/album/1sXfRjfRtUWwwBwugKsxzR) | 3:52 |
-| 64 | [Como Fui a Enamorarme de Ti](https://open.spotify.com/track/0il6l9iz9KKcLPJR6RCSiJ) | [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Como Fui a Enamorarme de Ti](https://open.spotify.com/album/4FcwPA4QdPzgXsDykQHblR) | 4:14 |
+| 63 | [Como Fui a Enamorarme de Ti](https://open.spotify.com/track/0il6l9iz9KKcLPJR6RCSiJ) | [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Como Fui a Enamorarme de Ti](https://open.spotify.com/album/4FcwPA4QdPzgXsDykQHblR) | 4:14 |
+| 64 | [Te Llevas Mi Vida](https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Llevas Mi Vida](https://open.spotify.com/album/1sXfRjfRtUWwwBwugKsxzR) | 3:52 |
 | 65 | [Enganchados 1 \(No la estoy pasando bien / El no es mejor que yo / No puedo con otra\)](https://open.spotify.com/track/6A58b2EXiYUGC9PJIyV2U2) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA), [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Juntando Las Almas](https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To) | 3:58 |
 | 66 | [Dime Quien](https://open.spotify.com/track/7AKR1lkC72e7oD722zkKbz) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Dime Quien](https://open.spotify.com/album/5JGEI3LM5WuF2EIbSS4JQw) | 2:43 |
 | 67 | [El dolor de tu presencia](https://open.spotify.com/track/4byhAA0TOe5OdWxXVPyh9l) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Cumbia Viva Sesion \#13 Walter Encina](https://open.spotify.com/album/2aPJEbhBwr52NO4yLre2pd) | 1:52 |

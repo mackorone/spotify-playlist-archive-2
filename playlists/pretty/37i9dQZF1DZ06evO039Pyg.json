@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 333826,
+  "num_followers": 333861,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAA5Zbn8yOvyzxJ80sDUdOrA",
+  "snapshot_id": "aegPgAAAAAD2PKIAR/MhEWvWohbNgUhZ",
   "tracks": [
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 278715,
-      "name": "Hate the Club (feat. Masego)",
-      "url": "https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 185426,
       "name": "Get Me (feat. Kehlani)",
       "url": "https://open.spotify.com/track/5VwwpU7KsLhgfbMEecedhJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 278715,
+      "name": "Hate the Club (feat. Masego)",
+      "url": "https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN"
     },
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 197120,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/7MTIDmToGs0I5Oue9V0CHl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SLIDER II",
         "url": "https://open.spotify.com/album/7EuLS6i7d3LU7eFxnbz2or"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 142768,
       "name": "go",
       "url": "https://open.spotify.com/track/5WFfJAPeILmZdjjDF4zw6k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 197120,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/7MTIDmToGs0I5Oue9V0CHl"
     },
     {
       "added_at": null,

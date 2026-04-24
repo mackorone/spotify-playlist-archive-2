@@ -1,13 +1,37 @@
 {
   "description": "Apne mulk ki homegrown hits \ud83c\udfb6 Cover: Abdul Hannan",
-  "num_followers": 81822,
+  "num_followers": 81864,
   "original_name": "Pakka Hit Hai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOu7Pbs7k6iysMOGviACjzLDoeto",
+  "snapshot_id": "AAAAAGEVpAM5+0JF2w8D2c2K9oOtCl8j",
   "tracks": [
+    {
+      "added_at": "2026-04-13 06:08:26",
+      "album": {
+        "name": "Chann Taara",
+        "url": "https://open.spotify.com/album/2J7l3VtgICYrL7UFl8Ncxp"
+      },
+      "artists": [
+        {
+          "name": "Ali Raza",
+          "url": "https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC"
+        },
+        {
+          "name": "Kinza Hashmi",
+          "url": "https://open.spotify.com/artist/6hU2CnAt7QXBk9qEUkIztR"
+        },
+        {
+          "name": "Ali & Shjr",
+          "url": "https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy"
+        }
+      ],
+      "duration_ms": 227027,
+      "name": "Chann Taara",
+      "url": "https://open.spotify.com/track/2vFxIYeArqtWEFkvXCgfSt"
+    },
     {
       "added_at": "2026-04-13 06:08:26",
       "album": {
@@ -27,6 +51,26 @@
       "duration_ms": 160000,
       "name": "Khasara",
       "url": "https://open.spotify.com/track/1TWkdQ2k7ysSYwla66Ys6I"
+    },
+    {
+      "added_at": "2026-04-24 03:00:37",
+      "album": {
+        "name": "Shona",
+        "url": "https://open.spotify.com/album/3ACyKQQ1vsvdHfGtplfli6"
+      },
+      "artists": [
+        {
+          "name": "NAYEL",
+          "url": "https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO"
+        },
+        {
+          "name": "Shehryar Khan",
+          "url": "https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp"
+        }
+      ],
+      "duration_ms": 177700,
+      "name": "Shona",
+      "url": "https://open.spotify.com/track/2MUmVyz7yYOauvSm1DhoTf"
     },
     {
       "added_at": "2026-04-13 06:08:26",
@@ -63,30 +107,6 @@
       "duration_ms": 205714,
       "name": "Bewajah",
       "url": "https://open.spotify.com/track/3N3KsOsPrLxxWNQHTl0Kkz"
-    },
-    {
-      "added_at": "2026-04-13 06:08:26",
-      "album": {
-        "name": "Chann Taara",
-        "url": "https://open.spotify.com/album/2J7l3VtgICYrL7UFl8Ncxp"
-      },
-      "artists": [
-        {
-          "name": "Ali Raza",
-          "url": "https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC"
-        },
-        {
-          "name": "Kinza Hashmi",
-          "url": "https://open.spotify.com/artist/6hU2CnAt7QXBk9qEUkIztR"
-        },
-        {
-          "name": "Ali & Shjr",
-          "url": "https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy"
-        }
-      ],
-      "duration_ms": 227027,
-      "name": "Chann Taara",
-      "url": "https://open.spotify.com/track/2vFxIYeArqtWEFkvXCgfSt"
     },
     {
       "added_at": "2026-04-13 06:08:26",

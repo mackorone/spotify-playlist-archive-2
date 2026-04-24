@@ -4,7 +4,7 @@
 
 > Het zomergevoel met Nederlandstalig ☀️🧡\. Cover: Donnie & Senna
 
-112 songs - 5 hr 15 min
+113 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Bootje](https://open.spotify.com/track/5d2IGh09FDfvqixHtIXjv8) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [Engel](https://open.spotify.com/album/6Lx749ebGXdmDxQ0jXUffV) | 2:05 | 2026-04-07 |  |
 | [CD van mij](https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [CD van mij](https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a) | 2:50 | 2026-04-07 |  |
 | [Cheerio](https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Cheerio](https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh) | 2:28 | 2026-04-16 |  |
-| [De Eerste Keer](https://open.spotify.com/track/4o1Hhg6PfdbsWGtfy9ARBs) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K), [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [De Eerste Keer](https://open.spotify.com/album/6U53g89WwY7vnrmHVFB8tL) | 2:44 | 2025-07-01 |  |
+| [De Eerste Keer](https://open.spotify.com/track/4o1Hhg6PfdbsWGtfy9ARBs) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K), [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [De Eerste Keer](https://open.spotify.com/album/6U53g89WwY7vnrmHVFB8tL) | 2:44 | 2025-07-01 | 2026-04-24 |
 | [De Tapster Uit Tijuana](https://open.spotify.com/track/3VKUZemyzO52vCdZrXl7A9) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [De Tapster Uit Tijuana](https://open.spotify.com/album/43Xdl2v1kht5oRtsp8a6qL) | 3:06 | 2026-04-16 |  |
 | [Do Or Die](https://open.spotify.com/track/2Y63yg1Lgdp96IoiZIvjKz) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Goed Teken](https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn) | 3:45 | 2026-04-07 |  |
 | [Doe Je Dansie](https://open.spotify.com/track/6GETV2s1Q9LqLhPKFogakp) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Doe Je Dansie](https://open.spotify.com/album/5YoAnpgWnsJHrBQuFgwUiv) | 2:28 | 2025-07-01 |  |
@@ -95,6 +95,7 @@
 | [Stapje](https://open.spotify.com/track/49BzgE7lD0hPwN8ixEK85c) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G), [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Stapje](https://open.spotify.com/album/7iEOSSkLuDrWH71uk8nTw4) | 2:13 | 2025-07-01 |  |
 | [Stiekem](https://open.spotify.com/track/1ulgMAx95xb3N33SMklfG3) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Stiekem ft\. Goldband](https://open.spotify.com/album/1ZzRJDpsGzs8wkkI0w6F8G) | 3:23 | 2025-07-01 |  |
 | [Sugardaddy](https://open.spotify.com/track/67wewfYRTUs6OxfmgGfRho) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:11 | 2026-04-07 |  |
+| [Track 3](https://open.spotify.com/track/3T2r47vW6PdiNRL62zFQ0K) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Akoestische Sessie](https://open.spotify.com/album/0r4P6VRT9rB1sUuRf706bx) | 0:00 | 2026-04-23 |  |
 | [Tranquilo](https://open.spotify.com/track/2MdohxuwIfNPtEdknrsv7z) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Tranquilo](https://open.spotify.com/album/30N0u0pWGa9VuPuWvMUjhA) | 3:20 | 2026-02-03 |  |
 | [Treur Niet \(Ode Aan Het Leven\)](https://open.spotify.com/track/11iIeclbEWUhkmLArE9Hr0) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA), [JW Roy](https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d) | [Golven](https://open.spotify.com/album/6Z4IOHGEP8RsMxjgCAwgZO) | 3:44 | 2025-07-01 |  |
 | [Tussen Jou en Mij](https://open.spotify.com/track/0GbBLC50dJxjPiTglbxcy6) | [Willem & Jan](https://open.spotify.com/artist/56bIft42o8T6nn1awj4hjq), [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ), [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Tussen Jou en Mij](https://open.spotify.com/album/5vIgGlwoi1hLNQfhn5PVcm) | 2:58 | 2025-07-01 |  |

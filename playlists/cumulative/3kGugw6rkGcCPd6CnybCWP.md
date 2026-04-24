@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-324 songs - 18 hr 44 min
+327 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Different Way Home](https://open.spotify.com/track/6eGTAZZz8DC0ZXDpK0ub87) | [The Casbahs](https://open.spotify.com/artist/41Op3ON8O72S14pbBEJ6bd) | [Different Way Home](https://open.spotify.com/album/6yZz5dt5wZDrdE4QtXsqy0) | 3:21 | 2025-12-12 | 2026-02-07 |
 | [Dig It To The Grave](https://open.spotify.com/track/5lDGOi92xSkz905rpTZT4L) | [MAGNUS BERG](https://open.spotify.com/artist/2MqQsfiXjKmpwSMqzc1BHj) | [Dig It To The Grave](https://open.spotify.com/album/4wj2VyvU4P8y0HTKp3rbZ5) | 4:26 | 2026-03-31 |  |
 | [Dirty Soul](https://open.spotify.com/track/3yHiEP169PW8FQVLOBn0Ph) | [Wreckless Strangers](https://open.spotify.com/artist/3niRRJFTVQEmQAVtrCHMu5) | [Dirty Soul](https://open.spotify.com/album/0VcUcURCY02Tv33uTlfgTd) | 5:04 | 2026-02-23 | 2026-04-16 |
+| [Do It for the Love](https://open.spotify.com/track/1H9OJ0qE5I2595jeG72ZMZ) | [Narcotic Hearts](https://open.spotify.com/artist/4icQIBDsvhbkTnrFuctLV0) | [Open up Your Mind's Eye](https://open.spotify.com/album/5n09KMS0CKmlOdQ7TQYAn5) | 2:24 | 2026-04-23 |  |
 | [Dollface](https://open.spotify.com/track/2gJlmzqblAarjB9FPa3WaD) | [Wikka](https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq) | [Dollface](https://open.spotify.com/album/4JxQ2wpp7DQKnPoAsvxMNq) | 3:09 | 2026-04-08 |  |
 | [Don't Be The Victim](https://open.spotify.com/track/3GfM3bTP0qnoD43WPBBeqD) | [Elli Hart](https://open.spotify.com/artist/6TeYsug4ZJPQF4FdFm2Cc0) | [Don't Be The Victim](https://open.spotify.com/album/7JDzrgzkJcP4O53rugLCCZ) | 3:44 | 2025-11-09 | 2026-01-17 |
 | [Don't Give Up On Me](https://open.spotify.com/track/2GhvGTzsq4Q5Uts53zNali) | [IAMDWX](https://open.spotify.com/artist/7w2jiVgHPyBIahw5NZkPHU), [Kevin Hadley](https://open.spotify.com/artist/4nBjWiNV8ofFeQdnMbijqk) | [Don't Give Up On Me](https://open.spotify.com/album/2WGUdDm9QTCnzFhXOwERi7) | 2:49 | 2026-03-04 | 2026-04-16 |
@@ -142,6 +143,7 @@
 | [I Gave It All For You](https://open.spotify.com/track/0I2olXnVSONShdDVSZmofa) | [Will Sims](https://open.spotify.com/artist/4VqIqqCAubwTlYYIQ2baD5) | [I Gave It All For You](https://open.spotify.com/album/5eiIXuyFyUmzcFQwbjhOFC) | 3:49 | 2026-03-10 | 2026-04-16 |
 | [I Heard You](https://open.spotify.com/track/7mXEeXZHgJADXpA6sibuEA) | [Moonsette](https://open.spotify.com/artist/1KtNJP9zW7ZZIByvCCPwnF) | [Invisible Chameleon](https://open.spotify.com/album/6qJ2aQIuviVelqtS7pgPpx) | 5:15 | 2026-02-09 | 2026-03-29 |
 | [I stood for u \(Girlfriends\)](https://open.spotify.com/track/1jH06cHxmyraxNtV9HFoTo) | [Zombisickle](https://open.spotify.com/artist/3IrjzOB8AmlZx3mQdhl5By) | [I stood for u \(Girlfriends\)](https://open.spotify.com/album/6nIS7SShPtBYrWeeRltyAF) | 1:41 | 2026-04-06 |  |
+| [I Tried](https://open.spotify.com/track/31n6laL6k7g4t1DhsFePcS) | [MALØNE](https://open.spotify.com/artist/2kjoQ9U3dMg6YcrUiP6540) | [Energy](https://open.spotify.com/album/3hvmpzjC41l5LXXl0JT73N) | 2:10 | 2026-04-23 |  |
 | [I'm Only Sleeping](https://open.spotify.com/track/5uXA2Ss4v2WaqujWoTTmsT) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [OK UK](https://open.spotify.com/album/0GEnQQPbmgngYDDxvEz2CM) | 3:43 | 2026-02-08 | 2026-03-29 |
 | [I'm so Scared of You](https://open.spotify.com/track/29myHNF0WVbPbwZmc3Al7x) | [Everything Velvet](https://open.spotify.com/artist/0J3Bsaj91QTSMVpxpAY8NE) | [I'm so Scared of You](https://open.spotify.com/album/6FNFV9J1mhqFVz53nzXIOb) | 4:53 | 2025-11-01 | 2026-01-17 |
 | [i've](https://open.spotify.com/track/46CHFOn4ayNjzKQ31B7sbM) | [North Shy](https://open.spotify.com/artist/2A3nZ5WhiMaBI2NgsXa4aV) | [aftermath](https://open.spotify.com/album/3YF6DBphL3fpTWSVrIj2Og) | 3:25 | 2025-10-24 | 2025-12-02 |
@@ -263,6 +265,7 @@
 | [SUPREME](https://open.spotify.com/track/6ErKUvYCfx6SjTye09G4Pe) | [MOSES](https://open.spotify.com/artist/1y3itK0FVcrhTZoCIhXmum) | [SUPREME](https://open.spotify.com/album/26CoKHg8FTNbHbKN8gOKfF) | 2:49 | 2025-11-02 | 2026-01-17 |
 | [Surge](https://open.spotify.com/track/4tQsM9IalKTHhkhHVQiltP) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Surge](https://open.spotify.com/album/7N230KyMTKvE3eGFjov7ew) | 3:22 | 2026-01-12 | 2026-02-08 |
 | [Sweet Lover](https://open.spotify.com/track/7bV3prZwAoq9mekXMRXm0U) | [Miller Matthews](https://open.spotify.com/artist/18qZ4JJVQNtaFfreNnZkFr), [KAY BRETTE](https://open.spotify.com/artist/5upymWMVUM7pZ2XvrUDyZo) | [Sweet Lover](https://open.spotify.com/album/1KulyKHZhq2GB61l239sbp) | 2:59 | 2025-10-30 | 2026-01-17 |
+| [System Fallin](https://open.spotify.com/track/21SPd4SsKN5BpE5QL0NwHU) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [System Fallin](https://open.spotify.com/album/2mulFAqmG4VU57DNtHnjUZ) | 4:26 | 2026-04-23 |  |
 | [Take It](https://open.spotify.com/track/0L1IruULPPjjwAhsgIfVx6) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [A Bridge Across the Sea](https://open.spotify.com/album/5y4kycwvx8BLd7tXfyAg6d) | 3:08 | 2026-04-08 |  |
 | [Take Me](https://open.spotify.com/track/7rtj9ELtA6y0zFxv12pOEN) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j) | [Blue, Deepest Blue](https://open.spotify.com/album/33pzXi7wLOKUn1Xzn21UOm) | 3:29 | 2026-03-31 |  |
 | [That's Cool](https://open.spotify.com/track/2k7SrfAazc3aXOSGcBT66L) | [Slaney Bay](https://open.spotify.com/artist/6jfR9Na2d55xoFOK5mQT1I) | [That's Cool](https://open.spotify.com/album/7aPGxG33vGIZrTO3YQ5xQb) | 3:46 | 2026-04-12 |  |

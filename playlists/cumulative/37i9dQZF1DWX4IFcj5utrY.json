@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in Africa. Cover: GoldFish",
+  "description": "The best dance hits in Africa. Cover: Darque",
   "name": "mint Africa",
   "tracks": [
     {
@@ -1542,7 +1542,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 207804,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/0fFRFFCiaZaExkXRfQyCJE"
@@ -9762,7 +9762,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 176000,
       "name": "Forevermore",
       "url": "https://open.spotify.com/track/67oInsUfvZZajnohju01XN"
@@ -18020,7 +18020,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 420190,
       "name": "Mamma",
       "url": "https://open.spotify.com/track/40Df6EY2SezSKLvAkvNsbz"
@@ -25113,6 +25113,32 @@
     },
     {
       "album": {
+        "name": "Sfede (Remix Pack)",
+        "url": "https://open.spotify.com/album/1Y6PfuxBIvj35wgsuTgTAD"
+      },
+      "artists": [
+        {
+          "name": "Drega",
+          "url": "https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG"
+        },
+        {
+          "name": "Thandi Draai",
+          "url": "https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG"
+        },
+        {
+          "name": "General C'Mamane",
+          "url": "https://open.spotify.com/artist/3EJuq3QjLiJfFc3SaTaN9g"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287626,
+      "name": "Sfede - General C'mamane Remix",
+      "url": "https://open.spotify.com/track/376p6zyHczxRSRR7DljBNU"
+    },
+    {
+      "album": {
         "name": "Shades Of Love (feat. The Joy)",
         "url": "https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR"
       },
@@ -29031,6 +29057,28 @@
     },
     {
       "album": {
+        "name": "OPEN YOUR EYES",
+        "url": "https://open.spotify.com/album/688SQM8Cth3pbTyNWEYiXX"
+      },
+      "artists": [
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        },
+        {
+          "name": "Zawadi Yamungu",
+          "url": "https://open.spotify.com/artist/1cfkRhGxegzAt8KlgVF0vl"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333633,
+      "name": "Thula Thula",
+      "url": "https://open.spotify.com/track/4dB7cVVakfGIT629qVYEwr"
+    },
+    {
+      "album": {
         "name": "Bella Mar 09",
         "url": "https://open.spotify.com/album/0bnn0FMVvWpqoG7TkGT10F"
       },
@@ -29348,6 +29396,24 @@
       "duration_ms": 373437,
       "name": "Touch - Extended Mix",
       "url": "https://open.spotify.com/track/3itypsvYnEdQpIP77edzsh"
+    },
+    {
+      "album": {
+        "name": "Izinja Zam: Vol. I",
+        "url": "https://open.spotify.com/album/0HQLuYklJlPPnAH4Fk3IsH"
+      },
+      "artists": [
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/2i640R1xpVapryc9QKdVeo"
     },
     {
       "album": {

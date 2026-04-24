@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Rezz
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,891 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,893 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 18 | [2 u](https://open.spotify.com/track/5bx9sEQYEJ1thvxHhq7uLB) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [2 u](https://open.spotify.com/album/2cqdDAdGDlpBV2guQtg9Bw) | 2:16 |
 | 19 | [Beautiful \(with Joji\)](https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Beautiful \(with Joji\)](https://open.spotify.com/album/2CpahiICjXexEynp7scGe4) | 3:35 |
 | 20 | [Catharina](https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Catharina](https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc) | 3:27 |
-| 21 | [ifidiewouldyoucry](https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [ifidiewouldyoucry](https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV) | 2:55 |
+| 21 | [ifidiewouldyoucry](https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [ifidiewouldyoucry](https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV) | 2:55 |
 | 22 | [All Cried Out](https://open.spotify.com/track/7MrxCW1dD1GatsnCqsj25F) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [All Cried Out](https://open.spotify.com/album/5ZFTkQX5WhU0xKQau9x9xo) | 3:21 |
 | 23 | [Awake Tonight](https://open.spotify.com/track/4Vdes3GjtIqdFskoWbVYnP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Awake Tonight](https://open.spotify.com/album/2JVYUljpOqknjBvxeSIFB0) | 3:10 |
 | 24 | [OUT LATE.](https://open.spotify.com/track/7tIkEd5g0uw5AaFkPbdqJE) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [OUT LATE.](https://open.spotify.com/album/06NpXQuTDji61kozOOUVfc) | 2:09 |

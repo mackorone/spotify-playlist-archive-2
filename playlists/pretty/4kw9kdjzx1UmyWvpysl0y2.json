@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124039,
+  "num_followers": 124029,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVVbZB+Uqun6x09mrNvGwTjCYRzKSP",
+  "snapshot_id": "AAAVVjpBaw79un6bpOAweKmu8nzCjDI1",
   "tracks": [
+    {
+      "added_at": "2026-04-23 14:17:51",
+      "album": {
+        "name": "Should've Known Better",
+        "url": "https://open.spotify.com/album/3VWWyCDqXWHxWwfyhEQBqy"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "KENNEDY",
+          "url": "https://open.spotify.com/artist/5K7mrmnGRjR2Yf4UQnyi6R"
+        }
+      ],
+      "duration_ms": 142235,
+      "name": "Should've Known Better",
+      "url": "https://open.spotify.com/track/6xC8SOWsbewQ7c7NRMsrje"
+    },
     {
       "added_at": "2026-04-22 13:48:05",
       "album": {

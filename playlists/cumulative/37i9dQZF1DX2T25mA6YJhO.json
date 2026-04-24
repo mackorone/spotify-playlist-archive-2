@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: vangoura con La Milagrosa.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Parquesvr.",
   "name": "Rock 2026",
   "tracks": [
     {
@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Mitos y leyendas",
+        "url": "https://open.spotify.com/album/3j73rrBVZGr0smSUzB1Eal"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220207,
+      "name": "Aftersun",
+      "url": "https://open.spotify.com/track/4yUgg8iNXXSNpR6qLdW3Cq"
+    },
+    {
+      "album": {
         "name": "agosto",
         "url": "https://open.spotify.com/album/0eIk5M7jExLB3SLpmgitMz"
       },
@@ -302,6 +320,42 @@
       "duration_ms": 164906,
       "name": "ahora es diferente",
       "url": "https://open.spotify.com/track/5kzRmChVusM1Vu3fRc0yW4"
+    },
+    {
+      "album": {
+        "name": "Ahora lo entiendo",
+        "url": "https://open.spotify.com/album/3R3eZWaVZDltaDsA2krR5g"
+      },
+      "artists": [
+        {
+          "name": "Amor L\u00edquido",
+          "url": "https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142584,
+      "name": "Ahora lo entiendo",
+      "url": "https://open.spotify.com/track/02bgvNU1qzfzKhDklJsyQm"
+    },
+    {
+      "album": {
+        "name": "MUJERES AL BORDE DE UN ATAQUE DE TERCIOS",
+        "url": "https://open.spotify.com/album/3i6kjslXu7JRs7ZQqcqE5C"
+      },
+      "artists": [
+        {
+          "name": "TRONKAS!",
+          "url": "https://open.spotify.com/artist/1L0Cp9n72dvWPY66JC0dmt"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "AHORRO DE ENERG\u00cdA",
+      "url": "https://open.spotify.com/track/1d675JRJcYCu7w6kS4lc9w"
     },
     {
       "album": {
@@ -1982,7 +2036,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 172913,
       "name": "Conf\u00eda",
       "url": "https://open.spotify.com/track/0ezvNxR65UXJbWIY4PfU2A"
@@ -2563,6 +2617,24 @@
     },
     {
       "album": {
+        "name": "Denver, Colorado",
+        "url": "https://open.spotify.com/album/7wrVeoKSUxmXjyO96OtQQc"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1or Torrance",
+          "url": "https://open.spotify.com/artist/7uaAm14EP7uflcACRPYAD6"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226386,
+      "name": "Denver, Colorado",
+      "url": "https://open.spotify.com/track/5M20UikR4ugUlgOCdvMW86"
+    },
+    {
+      "album": {
         "name": "DEPRIMIDA PERO ALTERNATIVA",
         "url": "https://open.spotify.com/album/0heEVcwGbnziEE8tkMLbaC"
       },
@@ -2682,7 +2754,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 216203,
       "name": "Despu\u00e9s Destello",
       "url": "https://open.spotify.com/track/5INfMe9hEpGqjWt5bB8ovt"
@@ -3867,6 +3939,24 @@
     },
     {
       "album": {
+        "name": "Familia S.L.",
+        "url": "https://open.spotify.com/album/6BAH4s6nSJhWAtr8okkX1w"
+      },
+      "artists": [
+        {
+          "name": "CARLANGAS",
+          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182007,
+      "name": "Familia S.L.",
+      "url": "https://open.spotify.com/track/6CJue4k0mzZbe0jquaU06N"
+    },
+    {
+      "album": {
         "name": "Fantasma",
         "url": "https://open.spotify.com/album/5GVjWzf8rgSXBafLaqavPl"
       },
@@ -3904,6 +3994,24 @@
       "duration_ms": 140487,
       "name": "FATAL, GRACIAS",
       "url": "https://open.spotify.com/track/074wAQGPvi3hOFzwsA94yE"
+    },
+    {
+      "album": {
+        "name": "FENOMENAL",
+        "url": "https://open.spotify.com/album/1T6ndugcvN228kGI5awEPW"
+      },
+      "artists": [
+        {
+          "name": "Nadie Pat\u00edn",
+          "url": "https://open.spotify.com/artist/1EVcueF5J7XTuYH0nTGJsB"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126927,
+      "name": "FENOMENAL",
+      "url": "https://open.spotify.com/track/0tUA0gxt6YQ8VFgm8vH7No"
     },
     {
       "album": {
@@ -5578,7 +5686,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 216897,
       "name": "La ropa ancha",
       "url": "https://open.spotify.com/track/4yfFxNgrdPrYPJZRzrq4RY"
@@ -6962,7 +7070,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 201490,
       "name": "Miedo",
       "url": "https://open.spotify.com/track/6NvyNlnRhvh6zGXDcooKHH"
@@ -7576,6 +7684,24 @@
       "duration_ms": 178394,
       "name": "No Me Voy a Vengar",
       "url": "https://open.spotify.com/track/1eNhxuRrDUB5B1cK8hpX4T"
+    },
+    {
+      "album": {
+        "name": "No me vuelvas a escribir",
+        "url": "https://open.spotify.com/album/1i2DZ1V0h74uyFFS6LETmv"
+      },
+      "artists": [
+        {
+          "name": "arrec\u00ed0",
+          "url": "https://open.spotify.com/artist/7q8u6C6inUWxNOA4ZPPxHT"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211395,
+      "name": "No me vuelvas a escribir",
+      "url": "https://open.spotify.com/track/5JR33jAMURLQz8xOczBAnh"
     },
     {
       "album": {
@@ -8374,7 +8500,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 375320,
       "name": "Pat a trenca",
       "url": "https://open.spotify.com/track/2ZD2Th5vJoKNB2A0bMsHRB"
@@ -8464,7 +8590,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 139125,
       "name": "Paz mundial",
       "url": "https://open.spotify.com/track/2LsEgx2J7J720kE2zr8UcV"
@@ -10339,6 +10465,24 @@
     },
     {
       "album": {
+        "name": "el uno por el otro",
+        "url": "https://open.spotify.com/album/7h9XlyWGpF4EXfpgQVCR6t"
+      },
+      "artists": [
+        {
+          "name": "Victorias",
+          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144079,
+      "name": "talento natural",
+      "url": "https://open.spotify.com/track/1aQTHE9NGTGnV4hc9BsSPt"
+    },
+    {
+      "album": {
         "name": "Tampoco Pasa Nada",
         "url": "https://open.spotify.com/album/04Yu6Y47Goe7vEht6rI5HT"
       },
@@ -10586,6 +10730,24 @@
       "duration_ms": 235840,
       "name": "Tirant lo Blanc",
       "url": "https://open.spotify.com/track/4xv0OxmZ1p2gJLxxVDAA8m"
+    },
+    {
+      "album": {
+        "name": "Todo Igual",
+        "url": "https://open.spotify.com/album/6zIwjmV4OU5zUmUKEzbN8v"
+      },
+      "artists": [
+        {
+          "name": "Nuevos Vicios",
+          "url": "https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270880,
+      "name": "Todo Igual",
+      "url": "https://open.spotify.com/track/5i9BjMMjV6saaKFhkBigf7"
     },
     {
       "album": {
@@ -11256,7 +11418,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 171246,
       "name": "Un bitllet per tu",
       "url": "https://open.spotify.com/track/2e2eWTxiAZ95cmMQfhLxSA"
@@ -12310,7 +12472,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 172059,
       "name": "\u00bfQu\u00e9 Ha Pasado?",
       "url": "https://open.spotify.com/track/31kq12P5zS0Xtlr4RjuPV1"
@@ -12364,7 +12526,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 139440,
       "name": "\u00danete a Kokoshca",
       "url": "https://open.spotify.com/track/44sMwOLRs2NTtsX17yCn7R"

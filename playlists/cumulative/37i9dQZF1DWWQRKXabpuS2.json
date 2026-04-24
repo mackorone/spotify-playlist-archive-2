@@ -113,6 +113,32 @@
     },
     {
       "album": {
+        "name": "Abshir Wa Sam",
+        "url": "https://open.spotify.com/album/3sOegAUz9hgwGTdB2XWQR0"
+      },
+      "artists": [
+        {
+          "name": "Zena Emad",
+          "url": "https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH"
+        },
+        {
+          "name": "Borhan",
+          "url": "https://open.spotify.com/artist/0Cqxw4TpB3KidRUI3IQBgi"
+        },
+        {
+          "name": "Sultan Khalifa",
+          "url": "https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130063,
+      "name": "Abshir Wa Sam",
+      "url": "https://open.spotify.com/track/5T8FoIb2JCufW7QZYgg4yr"
+    },
+    {
+      "album": {
         "name": "Adaaj Ghanaj",
         "url": "https://open.spotify.com/album/29M2nQ39KDDWBP1nIRz5Ns"
       },

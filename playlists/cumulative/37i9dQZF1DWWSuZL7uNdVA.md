@@ -2,9 +2,9 @@
 
 ### [Top of the Rock](https://open.spotify.com/playlist/37i9dQZF1DWWSuZL7uNdVA)
 
-> Turnstile au top des meilleurs morceaux rock du moment.
+> Evanescence au top des meilleurs morceaux rock du moment.
 
-474 songs - 1 day 3 hr 7 min
+476 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Iconic \(feat\. Jax\)](https://open.spotify.com/track/4r0AbYYtiklnWyNRgEHPM8) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Iconic \(feat\. Jax\)](https://open.spotify.com/album/4GgLfWDhquj9jKv7Fiwt8d) | 3:06 | 2023-10-19 | 2024-08-30 |
 | [if i had a gun](https://open.spotify.com/track/4rYoirkxujHEP1hhKZcMrl) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [FOREVER](https://open.spotify.com/album/52iIfDstVzVMMAuOsFJ2YA) | 2:32 | 2025-05-29 | 2025-11-14 |
 | [Illusion](https://open.spotify.com/track/0rAg1EXU8PNb3t4tYYEfwD) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Illusion](https://open.spotify.com/album/147gy4rgELPkH5pZVXVA08) | 4:02 | 2024-10-10 | 2025-01-10 |
+| [In A Life](https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:33 | 2026-04-23 |  |
 | [In Your Head](https://open.spotify.com/track/1ib6xwfqPhHZnxZlinxiyn) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [In Your Head](https://open.spotify.com/album/64DKyYtO5tU7MCxJOgJQNv) | 2:28 | 2025-01-16 | 2025-04-18 |
 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 | 2025-10-02 | 2026-04-10 |
 | [It's Amazing To Be Young](https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [It's Amazing To Be Young](https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs) | 3:30 | 2025-02-28 | 2025-07-04 |
@@ -266,7 +267,7 @@
 | [My Front Door](https://open.spotify.com/track/6tBzEPbhZO9AzTTzRRlBjC) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [My Front Door](https://open.spotify.com/album/1hxKu3AkWaNPUbMzZUU3RH) | 3:43 | 2024-05-30 | 2024-06-14 |
 | [My House](https://open.spotify.com/track/7i1FxvxQeTkPzdFeXukZ0j) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [My House](https://open.spotify.com/album/0L4RnqTg3JE7PtHVTkYQTT) | 3:14 | 2024-01-11 | 2024-03-22 |
 | [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 | 2025-08-21 | 2026-01-02 |
-| [My Only Angel](https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [My Only Angel](https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f) | 4:15 | 2025-10-02 |  |
+| [My Only Angel](https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [My Only Angel](https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f) | 4:15 | 2025-10-02 | 2026-04-24 |
 | [NEVER ENOUGH](https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY) | 4:47 | 2025-04-17 | 2026-01-02 |
 | [Never Know](https://open.spotify.com/track/1qaFMnI1eVDa4arwNN8nMa) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Never Know](https://open.spotify.com/album/1wIKBow4Y0MtCFSWBdohuC) | 2:55 | 2025-02-13 | 2025-05-16 |
 | [Never Said Goodbye](https://open.spotify.com/track/019IPf1J7LiN9yBUBp0f8d) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [A Modern Day Distraction](https://open.spotify.com/album/6mQQg0TOprhR2mCpMb5Kl2) | 3:38 | 2025-04-24 | 2025-07-18 |
@@ -411,7 +412,7 @@
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-05 | 2025-04-04 |
 | [The Flame](https://open.spotify.com/track/5FRbDF08K2nmXqMnedRc9n) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Fireworks \(Deluxe Edition\)](https://open.spotify.com/album/6dQMtxmBIkaPHYi7Oln9HU) | 2:24 | 2026-01-29 |  |
 | [the garden](https://open.spotify.com/track/70yMk0UK1BTtPvhqcSXvnF) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [the garden](https://open.spotify.com/album/4iHuwtCHVOlMC4u09kbIYg) | 3:23 | 2024-10-24 | 2024-11-29 |
-| [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF) | 4:44 | 2025-09-25 |  |
+| [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF) | 4:44 | 2025-09-25 | 2026-04-24 |
 | [The Hives Forever Forever The Hives](https://open.spotify.com/track/2jfiQnjMbn7tnvcNiJIml2) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/4dhvyOGnFrrfCIYoENyUiL) | 3:03 | 2025-09-05 | 2026-02-20 |
 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 | 2025-02-06 | 2025-07-04 |
 | [The Old Law](https://open.spotify.com/track/1JeJ5XwrM2qPa7tDS2CRQx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [The Old Law](https://open.spotify.com/album/0mLjKw7vC6pyyV1Fy2C8Na) | 4:41 | 2026-02-12 |  |
@@ -460,6 +461,7 @@
 | [Where Does The Light Get In?](https://open.spotify.com/track/58eF1vpClUyeL5SfXN6N1x) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Where Does The Light Get In?](https://open.spotify.com/album/5iN0xqyvImRpLehFSWZhbx) | 3:08 | 2024-09-12 | 2025-01-10 |
 | [White Horses](https://open.spotify.com/track/28lKZhxCDxqJEPyK8G4y91) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [White Horses](https://open.spotify.com/album/6tEb8Sfv84ZzelGTWS7Ni0) | 4:29 | 2025-08-28 | 2026-04-03 |
 | [Who Goes There](https://open.spotify.com/track/6jUjGdh2prOWyI0RlU5Z9B) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Who Goes There](https://open.spotify.com/album/3nF1aawj6u5mpFRe1qc4jA) | 3:28 | 2024-11-28 | 2025-01-10 |
+| [Who Will You Follow](https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Who Will You Follow](https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR) | 3:55 | 2026-04-23 |  |
 | [Wild Woman](https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [One More Time](https://open.spotify.com/album/2R33Pd9eM5qDQTHO66LGJS) | 3:35 | 2025-11-27 |  |
 | [Wonderwall \- Spotify Singles](https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c) | 4:00 | 2025-01-30 | 2025-06-06 |
 | [World Class Entertainment](https://open.spotify.com/track/5lpL6jOF11mnl4lNP6jJLu) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [World Class Entertainment](https://open.spotify.com/album/6DjaWyS3BXCSTPjlzGdGgR) | 3:02 | 2024-03-14 | 2024-04-24 |

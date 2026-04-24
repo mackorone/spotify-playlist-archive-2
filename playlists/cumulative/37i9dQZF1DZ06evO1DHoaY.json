@@ -460,7 +460,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 253573,
       "name": "Jah Live",
       "url": "https://open.spotify.com/track/1SxXBJgUk4z1dZdpdtTB7F"
@@ -907,6 +907,24 @@
     },
     {
       "album": {
+        "name": "One Love (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2VbmXDBkPj34TiyMNYaboj"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217106,
+      "name": "Roots, Rock, Reggae",
+      "url": "https://open.spotify.com/track/1j3ANZgokEc0jKztEDV34l"
+    },
+    {
+      "album": {
         "name": "Rastaman Vibration",
         "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
       },
@@ -918,7 +936,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 218400,
       "name": "Roots, Rock, Reggae",
       "url": "https://open.spotify.com/track/1ATZfYmZOcm24vl5oQtPdC"

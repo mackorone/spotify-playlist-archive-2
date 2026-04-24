@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKnYm9qqW04.md) - [plain]
 
 > Floor fillers and big streamers of 2015.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,701 likes - 98 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,781 likes - 98 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKnYm9qqW04.md) - [plain]
 | 32 | [Mind \(feat\. Kai\)](https://open.spotify.com/track/6ZpR2XFuQJSHAQwg9495KZ) | [Jack Ü](https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Skrillex and Diplo present Jack Ü](https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd) | 4:02 |
 | 33 | [Catch & Release \- Deepend Remix](https://open.spotify.com/track/11Yp4S3WZA7yqWIbUmMJSd) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Catch & Release](https://open.spotify.com/album/3GXs3mom2sIaz3FMjPTrxv) | 3:16 |
 | 34 | [Ghost Town](https://open.spotify.com/track/44aN5xKL3kGHvQ5bXVk6B8) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [The Original High \(Deluxe Version\)](https://open.spotify.com/album/3kaQUt8Mp906u1fI0LDqO6) | 3:28 |
-| 35 | [Show Me Love](https://open.spotify.com/track/0aHOXu219Z4MqEKwiKsddl) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 4:15 |
-| 36 | [Forbidden Voices](https://open.spotify.com/track/6EsH66Uto1zwZlDGQ6RokU) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Forbidden Voices](https://open.spotify.com/album/3COyh97TYskmV4cOqPed49) | 3:50 |
+| 35 | [Forbidden Voices](https://open.spotify.com/track/6EsH66Uto1zwZlDGQ6RokU) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Forbidden Voices](https://open.spotify.com/album/3COyh97TYskmV4cOqPed49) | 3:50 |
+| 36 | [Show Me Love](https://open.spotify.com/track/0aHOXu219Z4MqEKwiKsddl) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 4:15 |
 | 37 | [Goodbye \(feat\. Lyse\) \- Radio Edit](https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7) | [Feder](https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM), [Lyse](https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM) | [Goodbye \(feat\. Lyse\) \[Radio Edit\]](https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4) | 3:21 |
 | 38 | [Stay \(feat\. Maty Noyes\)](https://open.spotify.com/track/2FiSTH0GYpIioUgjfzMIja) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Maty Noyes](https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:58 |
 | 39 | [House Every Weekend \- Radio Edit](https://open.spotify.com/track/2rWisQk9hxSap9ZtTx45sv) | [David Zowie](https://open.spotify.com/artist/2yEkeJoFOvm6qHuECSDHFg) | [House Every Weekend \(Radio Edit\)](https://open.spotify.com/album/031BavphdODJzUm0ziV3XN) | 3:02 |

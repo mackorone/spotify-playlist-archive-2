@@ -4,11 +4,12 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-266 songs - 14 hr 31 min
+267 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [16 Lines](https://open.spotify.com/track/6akBF8JWM8lrpqejdwIfYI) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 4:04 | 2024-06-13 |  |
+| [16 Summers](https://open.spotify.com/track/7Ftzsq58catsPcpSoWzjlo) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Superbloom](https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN) | 4:41 | 2026-04-23 |  |
 | [2nd Nature](https://open.spotify.com/track/6HxJmedXOuP3jomJguAsJF) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 2:42 | 2024-06-13 |  |
 | [5 in the Morning](https://open.spotify.com/track/62VpKdGyA7OIyUCj3a3LPU) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [5 in the Morning](https://open.spotify.com/album/5XHUZmTmB9naGhgQrkqKwF) | 2:49 | 2024-06-13 |  |
 | [Adidas](https://open.spotify.com/track/06HKxLqbWQ5wDPn5i0CP0C) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Adidas](https://open.spotify.com/album/4COlKY7Juqsy5EPddDEeRN) | 3:11 | 2024-06-13 |  |

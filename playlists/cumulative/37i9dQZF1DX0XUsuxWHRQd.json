@@ -26167,6 +26167,24 @@
     },
     {
       "album": {
+        "name": "Lupe Fiasco's Food & Liquor",
+        "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254466,
+      "name": "Kick, Push",
+      "url": "https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j"
+    },
+    {
+      "album": {
         "name": "Kickboxer",
         "url": "https://open.spotify.com/album/7jX65RgVNEKN649tBrLEAn"
       },

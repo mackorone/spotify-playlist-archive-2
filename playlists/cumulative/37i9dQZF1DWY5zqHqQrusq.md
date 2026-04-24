@@ -4,7 +4,7 @@
 
 > Chill, take a long walk and clear your mind\. Cover: Iken
 
-141 songs - 8 hr 2 min
+142 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Amini](https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Love Struck](https://open.spotify.com/album/1XtJucTeSOb8USgV6x2Bzw) | 3:36 | 2024-05-23 | 2026-04-03 |
 | [Asali](https://open.spotify.com/track/0RDjgKJuFxZVUk93ov59o6) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Love Language](https://open.spotify.com/album/1vF0nqkfedSTlQrXh0Feoa) | 3:03 | 2022-11-11 | 2025-01-10 |
 | [Athena, am I beautiful?](https://open.spotify.com/track/2brYh8EuopGb0C1NsJtOZt) | [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP) | [Speak to me](https://open.spotify.com/album/0dzjosZvWYTFaUAcv3d9nL) | 4:39 | 2025-07-25 |  |
-| [Bad Side](https://open.spotify.com/track/1nbpsyj6OIfPV2O6DQsc5r) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Bad Side](https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE) | 2:38 | 2024-08-16 |  |
+| [Bad Side](https://open.spotify.com/track/1nbpsyj6OIfPV2O6DQsc5r) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Bad Side](https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE) | 2:38 | 2024-08-16 | 2026-04-24 |
 | [Blinding Blocks Incorporated \(BBI\)](https://open.spotify.com/track/5EMLJj0bq2bYeVW2UCd62D) | [Dorphanage](https://open.spotify.com/artist/0lLs1XSa8ZCeAkOz91UgnN), [Zawadi](https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ) | [Blinding Blocks Incorporated \(BBI\)](https://open.spotify.com/album/4VhCyAOTmopRYaiJpKpEM5) | 5:55 | 2022-11-11 | 2023-09-02 |
 | [Bright Outside](https://open.spotify.com/track/1zUdoJf7QiUx9fvCDzz4Qq) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Bright Outside](https://open.spotify.com/album/66dHkOodHx6Bnm566qPrwx) | 2:12 | 2022-11-11 | 2025-01-10 |
 | [Bright Outside](https://open.spotify.com/track/4cuhSC70d2pVMkgiQXQNd9) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Bright Outside](https://open.spotify.com/album/0rTeZFpcIKYjfp3sMLsiDM) | 2:12 | 2022-11-11 | 2024-04-19 |
@@ -143,6 +143,7 @@
 | [Vile Inafaa](https://open.spotify.com/track/6U2X9YMZrcc3hOMmnzpIhk) | [Garvin Mungai](https://open.spotify.com/artist/1ySToM2gqZ2iLR89TBJX81), [Bonnie Afreeka](https://open.spotify.com/artist/2fTgPrdZSSYcuCywFKTvXg) | [Vile Inafaa](https://open.spotify.com/album/2W6B908mrzSZ88ZaXPPuJ8) | 3:30 | 2024-04-19 | 2024-05-17 |
 | [Wait](https://open.spotify.com/track/7zbQtW2Xb7NADsW6Yw6dIM) | [Barbara Wangui](https://open.spotify.com/artist/1Q79hWCBC3dZSZmAcF5DrZ) | [Shorts \-EP](https://open.spotify.com/album/4ZxY4aQytI7Ydd1213HZRu) | 2:25 | 2022-11-11 | 2024-08-31 |
 | [Wajue ni wewe](https://open.spotify.com/track/0UPlAIbhAWe3haaO0jTjj0) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO), [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J) | [Sherehe Ya Disemba](https://open.spotify.com/album/42e58tqc1HUw9fHUqN32aV) | 3:06 | 2025-02-14 | 2025-10-17 |
+| [Wema](https://open.spotify.com/track/0E15zmK9lBCInCo576aeDD) | [nk\_njoroge](https://open.spotify.com/artist/306o9lJc6Kl3fBopcMGWm6) | [Wema](https://open.spotify.com/album/2q7OrlfGsSKKZTgpTsaeB7) | 2:23 | 2026-04-23 |  |
 | [What A Feeling](https://open.spotify.com/track/0fbUhnyv8am12WLEORxJZK) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [What A Feeling](https://open.spotify.com/album/1JApQO7MXqN3g9MSwDNpPs) | 2:34 | 2024-08-30 | 2026-01-17 |
 | [Who I Am](https://open.spotify.com/track/10tynOIFqckNWnTwKoydlU) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be), [AfroNautiq](https://open.spotify.com/artist/0L6AmIetS4zqs79IC1jQpX) | [Konke](https://open.spotify.com/album/443uREi4EtPJTxpKgGJVG4) | 2:41 | 2023-09-01 |  |
 | [Wild Fire](https://open.spotify.com/track/2IlLqx0326Pp2R97v4KbeK) | [Sasha Shlain](https://open.spotify.com/artist/4CC6yEE48Z0O0YdTrqtkAv), [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx), [SocraTess](https://open.spotify.com/artist/0mzvlQnjgwxlWSeAUyd9iB) | [Wild Fire](https://open.spotify.com/album/3P0EiEK7f7qGnImyINOKlu) | 5:24 | 2026-01-16 |  |

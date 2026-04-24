@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00KN2M.md) - [plain]
 
 > This is Fleetwood Mac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,160,851 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,161,026 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00KN2M.md) - [plain]
 | 3 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 |
 | 4 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:43 |
 | 5 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:30 |
-| 6 | [Little Lies \- 2017 Remaster](https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:41 |
-| 7 | [Gypsy](https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:24 |
+| 6 | [Gypsy](https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:24 |
+| 7 | [Little Lies \- 2017 Remaster](https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:41 |
 | 8 | [Rhiannon](https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:12 |
 | 9 | [Silver Springs \- 2004 Remaster](https://open.spotify.com/track/4nZi6XNe36Ut4Nij3IQ1yC) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:48 |
 | 10 | [You Make Loving Fun \- 2004 Remaster](https://open.spotify.com/track/28H3wOEKsaEa8NBEYCLl4j) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:33 |
@@ -36,20 +36,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00KN2M.md) - [plain]
 | 26 | [Songbird \- 2004 Remaster](https://open.spotify.com/track/2JoUtztTqCN4ZhmbRDGPIL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:20 |
 | 27 | [Monday Morning](https://open.spotify.com/track/0qjfjKFoP7LaqLI2KI9M1Q) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 2:47 |
 | 28 | [Say You Will](https://open.spotify.com/track/3YrjFJwsOPWShEkIvxbqwW) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Say You Will](https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx) | 3:47 |
-| 29 | [No Questions Asked](https://open.spotify.com/track/356134ums8iF3GNIrheeYX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:40 |
-| 30 | [Storms \- 2015 Remaster](https://open.spotify.com/track/3h9T2wLTy4FEKulLDkUjlX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(2015 Remaster\)](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) | 5:30 |
+| 29 | [Storms \- 2015 Remaster](https://open.spotify.com/track/3h9T2wLTy4FEKulLDkUjlX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(2015 Remaster\)](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) | 5:30 |
+| 30 | [No Questions Asked](https://open.spotify.com/track/356134ums8iF3GNIrheeYX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:40 |
 | 31 | [Tusk \- 2015 Remaster](https://open.spotify.com/track/0iINibMKtoS8duvexsqnm5) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 3:37 |
 | 32 | [Albatross](https://open.spotify.com/track/3iZ5twPwvFeOUQA4Deu8tP) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [English Rose](https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe) | 3:10 |
 | 33 | [That's Alright \- 2016 Remaster](https://open.spotify.com/track/01Ad3YljWv9gfMVYpn6cL7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 3:10 |
 | 34 | [Family Man \- 2017 Remaster](https://open.spotify.com/track/56yLJIyy1EfAyujm5HSxJR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 4:07 |
 | 35 | [Sunny Side of Heaven](https://open.spotify.com/track/3kpH1izy0QrjIDBFbz83YD) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Bare Trees](https://open.spotify.com/album/4yjFzAgg5VcidLwoZiQmbi) | 3:10 |
 | 36 | [Bleed to Love Her](https://open.spotify.com/track/2hl6XZ8nztFfVDv2qHPnwt) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Say You Will](https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx) | 4:05 |
-| 37 | [Over & Over \- 2015 Remaster](https://open.spotify.com/track/4SUF4kyuSX9siVjzpjEibr) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(2015 Remaster\)](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) | 4:34 |
-| 38 | [I'm so Afraid](https://open.spotify.com/track/1fXvxcQdz9OEe5IeNHQh72) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:22 |
+| 37 | [I'm so Afraid](https://open.spotify.com/track/1fXvxcQdz9OEe5IeNHQh72) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:22 |
+| 38 | [Over & Over \- 2015 Remaster](https://open.spotify.com/track/4SUF4kyuSX9siVjzpjEibr) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(2015 Remaster\)](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) | 4:34 |
 | 39 | [Mystified \- 2017 Remaster](https://open.spotify.com/track/524nCOIQg9fi0pETVnbpv8) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:09 |
 | 40 | [Oh Well, Pt\. 1 \- 2013 Remaster](https://open.spotify.com/track/0QdagWnOd3GzMCBu57efgp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Then Play On \(2013 Remaster; Expanded Edition\)](https://open.spotify.com/album/5Z83CVFqNYSIoItAZVaHeR) | 3:22 |
-| 41 | [Angel \- 2015 Remaster](https://open.spotify.com/track/6HKx5ERVgH7NYmYo9iAlMH) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(2015 Remaster\)](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) | 4:54 |
-| 42 | [Black Magic Woman](https://open.spotify.com/track/2SL0h7FKhJ1O5DcvmvPqU5) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [English Rose](https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe) | 2:46 |
+| 41 | [Black Magic Woman](https://open.spotify.com/track/2SL0h7FKhJ1O5DcvmvPqU5) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [English Rose](https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe) | 2:46 |
+| 42 | [Angel \- 2015 Remaster](https://open.spotify.com/track/6HKx5ERVgH7NYmYo9iAlMH) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(2015 Remaster\)](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) | 4:54 |
 | 43 | [Sisters of the Moon \- 2015 Remaster](https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 4:43 |
 | 44 | [Emerald Eyes](https://open.spotify.com/track/4GspmdJjNjZKCHtjJ0fWxb) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mystery to Me](https://open.spotify.com/album/7MprjyJe4SD8Sq9Nn7oYD5) | 3:34 |
 | 45 | [Landslide \- Live at Warner Brothers Studios in Burbank, CA 5/23/97](https://open.spotify.com/track/06h9kk12VjJ2bqcBc6IScR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Dance](https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ) | 4:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00KN2M.md) - [plain]
 | 49 | [Oh Diane \- 2016 Remaster](https://open.spotify.com/track/5JNOmrqg6hee3mtWMwYMPN) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(2016 Remaster\)](https://open.spotify.com/album/2962eYkQa0R7EnIGZqeARS) | 2:38 |
 | 50 | [I Loved Another Woman](https://open.spotify.com/track/1bElCb3PUzvfpxEPCA6fmY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/45i41n53udGyswkJ9uR8pB) | 2:55 |
 
-Snapshot ID: `aeVsgAAAAAAj21OR5jR6X+queW8DuDBF`
+Snapshot ID: `aegPgAAAAAA0nD/A6E9/Yey6IQZ8lapH`

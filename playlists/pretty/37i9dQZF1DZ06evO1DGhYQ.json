@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 9542,
+  "num_followers": 9548,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAABkcaMFVLmvpHxRYs8s4oE2",
+  "snapshot_id": "aegPgAAAAAAa0cfrpOGNEa6bEOF7Yi9C",
   "tracks": [
     {
       "added_at": null,
@@ -179,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVE IS KILLING ME",
-        "url": "https://open.spotify.com/album/2D49n0F5LDppEWbzuot6IS"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "eill",
-          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
-        }
-      ],
-      "duration_ms": 209433,
-      "name": "LOVE IS KILLING ME",
-      "url": "https://open.spotify.com/track/2VgleP55EwSjpFU7710gkj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BEYOND",
         "url": "https://open.spotify.com/album/6kC3TwttInYBMtp7jQK06T"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 207487,
       "name": "CHOOSE LIFE",
       "url": "https://open.spotify.com/track/5ytLPnqIkYOGp84vuUDsCl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOVE IS KILLING ME",
+        "url": "https://open.spotify.com/album/2D49n0F5LDppEWbzuot6IS"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "duration_ms": 209433,
+      "name": "LOVE IS KILLING ME",
+      "url": "https://open.spotify.com/track/2VgleP55EwSjpFU7710gkj"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VIVA LA MUSICA",
+        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 266900,
+      "name": "THE SWEETEST TABOO",
+      "url": "https://open.spotify.com/track/554GjmgJLkRvxvovKMMpbb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LONELY LONELY",
         "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 277700,
       "name": "LONELY LONELY",
       "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VIVA LA MUSICA",
-        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 180766,
-      "name": "I Want A Chance For Romance",
-      "url": "https://open.spotify.com/track/2e4PuGWRWMLa18XR5Ox4q2"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VIVA LA MUSICA",
+        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 180766,
+      "name": "I Want A Chance For Romance",
+      "url": "https://open.spotify.com/track/2e4PuGWRWMLa18XR5Ox4q2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MY LIFE. MY DESTINY",
         "url": "https://open.spotify.com/album/3sOmp9cI7NafWSHkFNUs4b"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 239600,
       "name": "MY LIFE. MY DESTINY",
       "url": "https://open.spotify.com/track/2O0918C9OEIB5uxg0RwdPd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VIVA LA MUSICA",
-        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 266900,
-      "name": "THE SWEETEST TABOO",
-      "url": "https://open.spotify.com/track/554GjmgJLkRvxvovKMMpbb"
     },
     {
       "added_at": null,
@@ -923,22 +923,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONELY LONELY",
-        "url": "https://open.spotify.com/album/34Q9DMv5RDZhMuNPByXufh"
+        "name": "VIVA LA MUSICA",
+        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "age",
-          "url": "https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg"
         }
       ],
-      "duration_ms": 386933,
-      "name": "LONELY LONELY -ULTRA HEAVEN REMIX by ALI\u00d7\u92ed\u5150-",
-      "url": "https://open.spotify.com/track/57CUn3paq7FpjozT9ZXSHX"
+      "duration_ms": 194733,
+      "name": "GABBA GABBA HEY HEY",
+      "url": "https://open.spotify.com/track/3XlHHnZSpjLwGAkhosJIbw"
     }
   ],
   "unique_name": "This Is ALI",

@@ -4,7 +4,7 @@
 
 > 
 
-516 songs - 1 day 9 hr 30 min
+517 songs - 1 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [Wait For It](https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Wait For It](https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh) | 3:59 | 2023-02-06 | 2023-06-10 |
 | [Water](https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Water](https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B) | 4:58 | 2022-07-28 | 2022-08-31 |
 | [We Change \- Part I](https://open.spotify.com/track/3FbfmIk5HTatLxCrGH22z5) | [Brandon Coleman](https://open.spotify.com/artist/1bCEhVC3192xS5WteIaXOs), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Interstellar Black Space](https://open.spotify.com/album/4hwDNOEvEfPSKCsByLpapO) | 4:54 | 2022-05-20 | 2022-09-21 |
+| [We Go So Good Together](https://open.spotify.com/track/5u60vtj3BIty91oZw2xUVF) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [We Go So Good Together](https://open.spotify.com/album/20BCMVFQWe0uvjXCOOnyHI) | 2:49 | 2026-04-23 |  |
 | [We never talk](https://open.spotify.com/track/3ZVt3Q14d9Xxj0HX4XhHbt) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [We never talk](https://open.spotify.com/album/5BQQZMv1R1BpbopUPW96lZ) | 2:47 | 2025-08-19 | 2025-11-07 |
 | [WEARY](https://open.spotify.com/track/2ZZbZZmUVqgdKLJdiOXmwp) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [WEARY](https://open.spotify.com/album/6TwZUO3jqcX5SGJlh1FLXQ) | 2:18 | 2024-05-09 | 2024-08-09 |
 | [Weaver](https://open.spotify.com/track/5CMlbzwepoJp88Uvqp1WTF) | [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ) | [Weaver](https://open.spotify.com/album/067ufogz1TAr7npEfLq2mz) | 3:12 | 2026-04-16 |  |

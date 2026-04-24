@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1160851,
+  "num_followers": 1161026,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAAj21OR5jR6X+queW8DuDBF",
+  "snapshot_id": "aegPgAAAAAA0nD/A6E9/Yey6IQZ8lapH",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Little Lies - 2017 Remaster",
-      "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 264906,
       "name": "Gypsy",
       "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Little Lies - 2017 Remaster",
+      "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 280933,
-      "name": "No Questions Asked",
-      "url": "https://open.spotify.com/track/356134ums8iF3GNIrheeYX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tusk (2015 Remaster)",
         "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 330746,
       "name": "Storms - 2015 Remaster",
       "url": "https://open.spotify.com/track/3h9T2wLTy4FEKulLDkUjlX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 280933,
+      "name": "No Questions Asked",
+      "url": "https://open.spotify.com/track/356134ums8iF3GNIrheeYX"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tusk (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 274666,
-      "name": "Over & Over - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4SUF4kyuSX9siVjzpjEibr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 262533,
       "name": "I'm so Afraid",
       "url": "https://open.spotify.com/track/1fXvxcQdz9OEe5IeNHQh72"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tusk (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 274666,
+      "name": "Over & Over - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4SUF4kyuSX9siVjzpjEibr"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tusk (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 294053,
-      "name": "Angel - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6HKx5ERVgH7NYmYo9iAlMH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "English Rose",
         "url": "https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 166653,
       "name": "Black Magic Woman",
       "url": "https://open.spotify.com/track/2SL0h7FKhJ1O5DcvmvPqU5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tusk (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 294053,
+      "name": "Angel - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6HKx5ERVgH7NYmYo9iAlMH"
     },
     {
       "added_at": null,

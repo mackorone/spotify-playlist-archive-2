@@ -1,12 +1,12 @@
 {
   "description": "Les hits marocains qui nous rassemblent, o\u00f9 qu\u2019on soit \ud83c\uddf2\ud83c\udde6",
-  "num_followers": 122722,
+  "num_followers": 122821,
   "original_name": "Hit Maghribi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJDJmjW4WLcaCmV0Y5nsHHpuycA2",
+  "snapshot_id": "AAAAAJ3gX+BXvriFgG3iLYKCGAOwSmDV",
   "tracks": [
     {
       "added_at": "2026-04-20 09:39:15",
@@ -207,6 +207,22 @@
     {
       "added_at": "2026-04-20 09:39:15",
       "album": {
+        "name": "PURA",
+        "url": "https://open.spotify.com/album/3mlkgi42D7SWWuEKBRwRkF"
+      },
+      "artists": [
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Wswass",
+      "url": "https://open.spotify.com/track/5zOVpTeOZU5k08J78R6tc6"
+    },
+    {
+      "added_at": "2026-04-20 09:39:15",
+      "album": {
         "name": "ICEBERG",
         "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 198595,
       "name": "Mimti",
       "url": "https://open.spotify.com/track/0hmkeziIYTAaytHCJEbJQi"
-    },
-    {
-      "added_at": "2026-04-20 09:39:15",
-      "album": {
-        "name": "PURA",
-        "url": "https://open.spotify.com/album/3mlkgi42D7SWWuEKBRwRkF"
-      },
-      "artists": [
-        {
-          "name": "RYM",
-          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Wswass",
-      "url": "https://open.spotify.com/track/5zOVpTeOZU5k08J78R6tc6"
     },
     {
       "added_at": "2026-04-20 09:39:15",

@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 119637,
+  "num_followers": 119647,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAB6vC4Ks+5ozqHgkaSwdNpJ",
+  "snapshot_id": "aegPgAAAAADAJhhWfXOlV0bCaY7/3Nhb",
   "tracks": [
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FATHER OF 4",
+        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "Red Room",
+      "url": "https://open.spotify.com/track/4TWflhgevIGo448fWc6mQq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Style Rare (with Gunna)",
         "url": "https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 208800,
       "name": "Style Rare (with Gunna)",
       "url": "https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FATHER OF 4",
-        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "Red Room",
-      "url": "https://open.spotify.com/track/4TWflhgevIGo448fWc6mQq"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
       "duration_ms": 192779,
       "name": "Startender (feat. Offset and Tyga)",
       "url": "https://open.spotify.com/track/0jAfdqv18goRTUxm3ilRjb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Best of Rap",
-        "url": "https://open.spotify.com/album/5QpweNFfnaNFd0gfU0Jr6z"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 204515,
-      "name": "Lick",
-      "url": "https://open.spotify.com/track/44uF8DNeuCzdr6SnjydJ7x"
     },
     {
       "added_at": null,
@@ -855,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Best of Rap",
+        "url": "https://open.spotify.com/album/5QpweNFfnaNFd0gfU0Jr6z"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 204515,
+      "name": "Lick",
+      "url": "https://open.spotify.com/track/44uF8DNeuCzdr6SnjydJ7x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Droptopwop",
         "url": "https://open.spotify.com/album/0smWYh2nQsaZNonBGZpZMn"
       },
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby On Baby",
-        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 157693,
-      "name": "Baby Sitter (feat. Offset)",
-      "url": "https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FATHER OF 4",
         "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
       },
@@ -911,22 +891,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurts Like Hell (feat. Offset)",
-        "url": "https://open.spotify.com/album/1oLgEL9h1BcRpntPNBDQyE"
+        "name": "Baby On Baby",
+        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         },
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 207108,
-      "name": "Hurts Like Hell (feat. Offset)",
-      "url": "https://open.spotify.com/track/1thsMfc9Z8zztIx7Le3JQM"
+      "duration_ms": 157693,
+      "name": "Baby Sitter (feat. Offset)",
+      "url": "https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk"
     },
     {
       "added_at": null,
@@ -995,6 +975,26 @@
       "duration_ms": 172976,
       "name": "Came A Long Way",
       "url": "https://open.spotify.com/track/1X5F8qFnvUe4sYmIqowEkB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hurts Like Hell (feat. Offset)",
+        "url": "https://open.spotify.com/album/1oLgEL9h1BcRpntPNBDQyE"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 207108,
+      "name": "Hurts Like Hell (feat. Offset)",
+      "url": "https://open.spotify.com/track/1thsMfc9Z8zztIx7Le3JQM"
     },
     {
       "added_at": null,
@@ -1075,8 +1075,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HAUNTED BY FAME",
-        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
+        "name": "JEALOUSY (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
       },
       "artists": [
         {
@@ -1084,13 +1084,13 @@
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         },
         {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 158980,
-      "name": "I HEARD (FT. YOUNGBOY NEVER BROKE AGAIN)",
-      "url": "https://open.spotify.com/track/20wdBNbpmvXjrltf1646PQ"
+      "duration_ms": 174466,
+      "name": "JEALOUSY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
     }
   ],
   "unique_name": "This Is Offset",

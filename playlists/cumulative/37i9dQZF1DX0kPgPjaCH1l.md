@@ -2,9 +2,9 @@
 
 ### [afro adura ](https://open.spotify.com/playlist/37i9dQZF1DX0kPgPjaCH1l)
 
-> Baba God, run am 🙏\. <br/>Cover:  Asake
+> Baba God, run am 🙏\. <br/>Cover:  Bella Shmurda
 
-145 songs - 6 hr 49 min
+147 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,10 @@
 | [Amiri \(Trumpet\)](https://open.spotify.com/track/37arTqMOOr919yJ47a5bBa) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Amiri \(Trumpet\)](https://open.spotify.com/album/2zM1mfrXUWl3Aedhq2xlxC) | 2:42 | 2025-10-17 | 2026-03-21 |
 | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY) | 3:12 | 2025-06-20 |  |
 | [Applaudize \(Father's Song\)](https://open.spotify.com/track/1x4FtaeuGzzpIqLePqPYv8) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Applaudize \(Father's Song\)](https://open.spotify.com/album/6CEzk5u4GMv8E9J0x5qclR) | 2:29 | 2025-06-20 | 2025-08-01 |
+| [Ara \(600M\)](https://open.spotify.com/track/7oHYgZelWF1QOTCtR75rnj) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [ARA](https://open.spotify.com/album/7fluxAs5HSUVmyChevBl2W) | 3:05 | 2026-04-24 |  |
 | [Are you there?](https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [MAFFIAN](https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi) | 2:36 | 2025-06-20 |  |
 | [Ashimolowo](https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:07 | 2025-07-04 |  |
+| [Attack](https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Attack](https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM) | 2:33 | 2026-04-24 |  |
 | [Baba God](https://open.spotify.com/track/5GLAHK3yCLCZ9lzmb44EVM) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ololade Asake](https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4) | 2:44 | 2025-06-20 |  |
 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bad Vibes](https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g) | 2:48 | 2025-06-20 | 2026-01-15 |
 | [Bag of Vibes](https://open.spotify.com/track/5zHdXMi4oTkowQvBaKuftu) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Kaizen](https://open.spotify.com/album/7oxgkgER8SwORZr7Yejlmu) | 2:51 | 2025-11-07 | 2026-01-15 |
@@ -100,11 +102,11 @@
 | [Nzaza](https://open.spotify.com/track/0VjzaXw81JQJM61pzWwP8b) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 3:03 | 2025-06-20 |  |
 | [Oblee](https://open.spotify.com/track/6dSmpNvpSWZy88ZOyZSLVr) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [Oblee](https://open.spotify.com/album/5xIATxfcsyTr21fMTSmplp) | 2:37 | 2025-06-20 | 2025-07-26 |
 | [OBT \(feat\. BhadBoi OML\)](https://open.spotify.com/track/7hc0ewHtET7bp7yBQphhex) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [OBT \(feat\. BhadBoi OML\)](https://open.spotify.com/album/2PhhHwEPTxu0OwhcKQb8b5) | 2:50 | 2026-02-06 |  |
-| [Of Course](https://open.spotify.com/track/07g4rBsJAXS0GXvc0IR6kk) | [Glassface](https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP), [Ayotemi](https://open.spotify.com/artist/6Iz4XoNjK2jKKRAnXTlY7E), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Of Course](https://open.spotify.com/album/4eb1Vf93F0qgJOo8vOBphV) | 3:18 | 2026-04-03 |  |
+| [Of Course](https://open.spotify.com/track/07g4rBsJAXS0GXvc0IR6kk) | [Glassface](https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP), [Ayotemi](https://open.spotify.com/artist/6Iz4XoNjK2jKKRAnXTlY7E), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Of Course](https://open.spotify.com/album/4eb1Vf93F0qgJOo8vOBphV) | 3:18 | 2026-04-03 | 2026-04-24 |
 | [OLAITAN \- OLAOLUWA](https://open.spotify.com/track/24Tx4htE4jbGXiDa864tHN) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:03 | 2025-06-20 | 2025-07-05 |
 | [Omo](https://open.spotify.com/track/2JePyTyj5nmjDe2ovgCChq) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [Omo](https://open.spotify.com/album/0Q4bqBS5jE3GpU0bOmnen6) | 2:36 | 2026-02-27 |  |
 | [Orin Halleluyah](https://open.spotify.com/track/4tsuoqyKW9Ra1pRaUUy2ox) | [Kashy](https://open.spotify.com/artist/0DYnwgN5Jo8G58o26XIfK6), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Kashamadupe](https://open.spotify.com/album/1gpTlRqHbK7VW6E4atLb6D) | 2:28 | 2025-06-20 |  |
-| [Panic](https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Panic](https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv) | 2:32 | 2025-06-20 |  |
+| [Panic](https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Panic](https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv) | 2:32 | 2025-06-20 | 2026-04-24 |
 | [Pay Day](https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 2:11 | 2025-10-17 |  |
 | [Peace](https://open.spotify.com/track/0ESoMa1oGHddkMeNodec7u) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Peace](https://open.spotify.com/album/1GGfruBunSIXTQgArMbzX9) | 3:26 | 2025-06-20 |  |
 | [Phoenix](https://open.spotify.com/track/7JqZQ4T2F4UZiVIYAqRuPW) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Phoenix](https://open.spotify.com/album/4HnyJWFKX90D1FoaA614mT) | 2:51 | 2026-03-06 | 2026-03-20 |

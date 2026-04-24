@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A perfect link up to soundtrack your day. Cover: Adekunle Gold, Olamide",
+  "description": "A perfect link up to soundtrack your day. Cover: BNXN",
   "name": "The ACS",
   "tracks": [
     {
@@ -612,7 +612,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 122592,
       "name": "Anyting",
       "url": "https://open.spotify.com/track/2pVZlbHWvJHjqLxSUM40Au"
@@ -832,6 +832,28 @@
       "duration_ms": 205568,
       "name": "Bacchanal Lady",
       "url": "https://open.spotify.com/track/1oYRLc55gfdloCPbP4lQgD"
+    },
+    {
+      "album": {
+        "name": "Back Outside",
+        "url": "https://open.spotify.com/album/267RcozdqaQbY90DqurUBZ"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211090,
+      "name": "Back Outside",
+      "url": "https://open.spotify.com/track/5WTj1jVzufTuSzFMyjy60M"
     },
     {
       "album": {
@@ -1474,6 +1496,24 @@
       "duration_ms": 187000,
       "name": "Bloody Samaritan",
       "url": "https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf"
+    },
+    {
+      "album": {
+        "name": "Boasty",
+        "url": "https://open.spotify.com/album/42n8NMDi7al7lkUgcb2hEY"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Boasty",
+      "url": "https://open.spotify.com/track/5QNkPqJgBEVWp8cOvYnudA"
     },
     {
       "album": {
@@ -2479,6 +2519,24 @@
     },
     {
       "album": {
+        "name": "Cyah Behave",
+        "url": "https://open.spotify.com/album/23u2ssQcJy2eaZ4fRhax9G"
+      },
+      "artists": [
+        {
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161736,
+      "name": "Cyah Behave",
+      "url": "https://open.spotify.com/track/5XrReM1qnTTG04tLjfKg7c"
+    },
+    {
+      "album": {
         "name": "Fleur froide - Second \u00e9tat : la cristallisation",
         "url": "https://open.spotify.com/album/1uPEctEKBVjCRO5iGsya3b"
       },
@@ -3024,7 +3082,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 195589,
       "name": "Dive In",
       "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
@@ -5338,6 +5396,28 @@
       "duration_ms": 258320,
       "name": "In Da Car",
       "url": "https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13"
+    },
+    {
+      "album": {
+        "name": "In Di Corner",
+        "url": "https://open.spotify.com/album/0rXVoVOKyBNxyzExYVODzS"
+      },
+      "artists": [
+        {
+          "name": "1T1",
+          "url": "https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we"
+        },
+        {
+          "name": "Miimii KDS",
+          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136066,
+      "name": "In Di Corner",
+      "url": "https://open.spotify.com/track/7chGWWO7xUpnmmXB1goxp7"
     },
     {
       "album": {
@@ -7978,7 +8058,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 159219,
       "name": "NEW TINGZ",
       "url": "https://open.spotify.com/track/4Pl2d8rQHO8hnFZR3RO244"
@@ -11358,7 +11438,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 232269,
       "name": "Superfuji(GOBE)",
       "url": "https://open.spotify.com/track/0WheF6yGnxE4gzGg8ScAji"
@@ -11580,6 +11660,32 @@
       "duration_ms": 176453,
       "name": "Talibans II",
       "url": "https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB"
+    },
+    {
+      "album": {
+        "name": "Talk To Me Nuh",
+        "url": "https://open.spotify.com/album/2m47uENn2jQv3q5muu3z1S"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126042,
+      "name": "Talk To Me Nuh",
+      "url": "https://open.spotify.com/track/57OHpXh84fu4FwL02ykMoI"
     },
     {
       "album": {
@@ -12374,7 +12480,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 156190,
       "name": "US III",
       "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"

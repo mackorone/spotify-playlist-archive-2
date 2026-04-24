@@ -1,6 +1,6 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Santi Celli & Ale Sergi",
-  "num_followers": 279348,
+  "num_followers": 279362,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-04-10 03:00:20",
       "album": {
-        "name": "el cielo",
-        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 188671,
-      "name": "el cielo",
-      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
-    },
-    {
-      "added_at": "2026-04-10 03:00:20",
-      "album": {
         "name": "Amapolas (Remix)",
         "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 267338,
       "name": "Amapolas - Remix",
       "url": "https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc"
+    },
+    {
+      "added_at": "2026-04-10 03:00:20",
+      "album": {
+        "name": "el cielo",
+        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 188671,
+      "name": "el cielo",
+      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
     },
     {
       "added_at": "2026-04-10 03:00:20",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-04-10 03:00:20",
       "album": {
+        "name": "ser humano",
+        "url": "https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Plan",
+      "url": "https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx"
+    },
+    {
+      "added_at": "2026-04-10 03:00:20",
+      "album": {
         "name": "Djadja (feat. Maluma) [Remix]",
         "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 166850,
       "name": "Djadja (feat. Maluma) - Remix",
       "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
-    },
-    {
-      "added_at": "2026-04-10 03:00:20",
-      "album": {
-        "name": "ser humano",
-        "url": "https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Plan",
-      "url": "https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx"
     },
     {
       "added_at": "2026-04-10 03:00:20",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2026-04-10 03:00:20",
       "album": {
-        "name": "Ojos Noche (feat. Carla Morrison)",
-        "url": "https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 254929,
-      "name": "Ojos Noche (feat. Carla Morrison)",
-      "url": "https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k"
-    },
-    {
-      "added_at": "2026-04-10 03:00:20",
-      "album": {
         "name": "Mesa Para Dos",
         "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 206674,
       "name": "Lo Que en Ti Veo",
       "url": "https://open.spotify.com/track/2cLOSF54zDP52z6ma8mivK"
+    },
+    {
+      "added_at": "2026-04-10 03:00:20",
+      "album": {
+        "name": "Ojos Noche (feat. Carla Morrison)",
+        "url": "https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 254929,
+      "name": "Ojos Noche (feat. Carla Morrison)",
+      "url": "https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k"
     },
     {
       "added_at": "2026-04-10 03:00:20",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2026-04-10 03:00:20",
       "album": {
-        "name": "Desastres Fabulosos",
-        "url": "https://open.spotify.com/album/2OGrbIbMpKM9mZiIY95F09"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 163546,
-      "name": "Desastres Fabulosos",
-      "url": "https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl"
-    },
-    {
-      "added_at": "2026-04-10 03:00:20",
-      "album": {
         "name": "Indios y Vaqueros",
         "url": "https://open.spotify.com/album/2t9PxUaBK9Jk2G9vPOaqy5"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 217476,
       "name": "Muero",
       "url": "https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2"
+    },
+    {
+      "added_at": "2026-04-10 03:00:20",
+      "album": {
+        "name": "Desastres Fabulosos",
+        "url": "https://open.spotify.com/album/2OGrbIbMpKM9mZiIY95F09"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 163546,
+      "name": "Desastres Fabulosos",
+      "url": "https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl"
     },
     {
       "added_at": "2026-04-10 03:00:20",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2026-04-10 03:00:20",
       "album": {
+        "name": "Como T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 192757,
+      "name": "Como T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9"
+    },
+    {
+      "added_at": "2026-04-10 03:00:20",
+      "album": {
         "name": "Mu\u00e9rdeme",
         "url": "https://open.spotify.com/album/7K2XAZBsgSATKy4F3zCFRt"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 184506,
       "name": "Mu\u00e9rdeme",
       "url": "https://open.spotify.com/track/6FRyG3kJCYp6Hswy73ISGV"
-    },
-    {
-      "added_at": "2026-04-10 03:00:20",
-      "album": {
-        "name": "Como T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 192757,
-      "name": "Como T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9"
     },
     {
       "added_at": "2026-04-10 03:00:20",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2026-04-10 03:00:20",
       "album": {
+        "name": "DOS DOS DOS",
+        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 190580,
+      "name": "Toda la Vida",
+      "url": "https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we"
+    },
+    {
+      "added_at": "2026-04-10 03:00:20",
+      "album": {
         "name": "Uno los Dos",
         "url": "https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 215426,
       "name": "Uno los Dos",
       "url": "https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp"
-    },
-    {
-      "added_at": "2026-04-10 03:00:20",
-      "album": {
-        "name": "DOS DOS DOS",
-        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 190580,
-      "name": "Toda la Vida",
-      "url": "https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we"
     },
     {
       "added_at": "2026-04-10 03:00:20",

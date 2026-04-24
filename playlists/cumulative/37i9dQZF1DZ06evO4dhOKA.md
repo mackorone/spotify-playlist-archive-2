@@ -4,7 +4,7 @@
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-148 songs - 7 hr 30 min
+149 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [El Rogón \(En Vivo\)](https://open.spotify.com/track/7t1X9xoDduvrcaoOVallpV) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Rosendo Cantú](https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [La Borrachera Perfecta \(En Vivo\)](https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5) | 2:54 | 2025-11-11 |  |
 | [El Árbol De La Horca](https://open.spotify.com/track/2p811QLlje4MuDOqEUCBJs) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:21 | 2022-06-01 |  |
 | [En Eso No Quedamos](https://open.spotify.com/track/6hZFTHGFwLWWiaGq73Z3p8) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:57 | 2022-06-04 | 2026-03-17 |
+| [En Eso No Quedamos](https://open.spotify.com/track/3lHqvYnBGgzGcq0RFekmY6) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [La Historia](https://open.spotify.com/album/5F4xNCItmfNFGutmKLbwEa) | 2:57 | 2026-04-24 |  |
 | [En Mil Pedazos](https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [También De Los Ranchos Bajan](https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj) | 3:14 | 2022-06-04 | 2026-03-12 |
 | [Entre La Vida Y La Muerte](https://open.spotify.com/track/4HZgxD2MQ8mWcmwhsLSMln) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Serie Diamante\-15 Súper Éxitos](https://open.spotify.com/album/3Sz9S8n4MQUoyW4t8MM6JR) | 3:18 | 2024-05-28 | 2025-12-19 |
 | [Eslabón Por Eslabón](https://open.spotify.com/track/1oystWhvsBVxFmDeXiY0Az) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:58 | 2022-06-01 |  |
@@ -63,7 +64,7 @@
 | [Herida De Amor](https://open.spotify.com/track/1bq6FVl1BWHIDC4MkirNyg) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Hombre Que Más Te Amo](https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE) | 3:35 | 2022-06-01 | 2023-05-13 |
 | [Hermosisimo Lucero](https://open.spotify.com/track/3dkgdxG4wDk3UQkVETh7YU) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [15 Éxitos del Recuerdo, Vol\. 2](https://open.spotify.com/album/5UGuEWfqs1JU8ZnUrpfjsX) | 3:40 | 2022-06-01 | 2024-04-01 |
 | [Invert](https://open.spotify.com/track/0pVJDqSsklEzcFklw8X5aL) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8), [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Invert](https://open.spotify.com/album/3hTexdhwgTHA61czoJpJW7) | 3:22 | 2022-06-01 | 2022-07-12 |
-| [La Carga Ladeada](https://open.spotify.com/track/1RhGBWA0En6KadlMY0a9rh) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:43 | 2022-06-01 |  |
+| [La Carga Ladeada](https://open.spotify.com/track/1RhGBWA0En6KadlMY0a9rh) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:43 | 2022-06-01 | 2026-04-24 |
 | [La Casita De Adobe](https://open.spotify.com/track/2OCEVBnAtKJlwFqnOhPolb) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [La Casita De Adobe](https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ) | 3:11 | 2022-07-14 |  |
 | [La Novia De Mi Hermano AKA No Te Apasiones](https://open.spotify.com/track/6uHagy7oY3oRrAHu2cJRGe) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 2:42 | 2022-07-23 | 2024-08-18 |
 | [La Ultima Vez Que Te Vi](https://open.spotify.com/track/6Fn36MsJjqogLne6tHJ3LG) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Desilucionado](https://open.spotify.com/album/5enzZnUz32i62BGj5HwjNF) | 3:29 | 2025-08-30 | 2025-09-01 |

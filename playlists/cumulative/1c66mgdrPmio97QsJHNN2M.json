@@ -1862,7 +1862,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 222644,
       "name": "Atomic Nucleus",
       "url": "https://open.spotify.com/track/5hD7s4IhEGs213qBeo0L98"
@@ -8704,7 +8704,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 349599,
       "name": "Faded dreams",
       "url": "https://open.spotify.com/track/4fVL9f92jHmaQ4IysUOIoY"
@@ -13152,7 +13152,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 166153,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/6LvHkTsHjLcunW7v2PuWzQ"
@@ -13430,6 +13430,24 @@
       "duration_ms": 197999,
       "name": "I'm Golden",
       "url": "https://open.spotify.com/track/1yAdoHbXcto43hmoUn6eK0"
+    },
+    {
+      "album": {
+        "name": "I'm Just Sayin'",
+        "url": "https://open.spotify.com/album/5pzYrzrF5weeWkK8U0XD01"
+      },
+      "artists": [
+        {
+          "name": "Nick Liberty",
+          "url": "https://open.spotify.com/artist/7gZABCcTRzonnDKgDt0lV1"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "I'm Just Sayin'",
+      "url": "https://open.spotify.com/track/0tL7rKshMHdFX0upUogEO8"
     },
     {
       "album": {
@@ -15534,7 +15552,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 185703,
       "name": "letting love go bye",
       "url": "https://open.spotify.com/track/4RnT8VNFXW0ycQDsO5RrDQ"
@@ -21280,7 +21298,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 146400,
       "name": "Photo",
       "url": "https://open.spotify.com/track/3AskBZkfkNxWS4FKsmyHom"
@@ -25364,7 +25382,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 142001,
       "name": "Sonya",
       "url": "https://open.spotify.com/track/4ANXgJ1i25WvFHQELlScPI"
@@ -26263,6 +26281,24 @@
     },
     {
       "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/0SzByzSjWtvfJNtJ4geh0h"
+      },
+      "artists": [
+        {
+          "name": "BDA",
+          "url": "https://open.spotify.com/artist/4GC3RnnR4vkDlsPeqYh03s"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188411,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/0AJFPbFu6oNXLQjEgSUd9n"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/25Yk4h4LLjo2GfBJfDAZ8T"
       },
@@ -26704,7 +26740,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 200329,
       "name": "Take My Hand - Radio Version",
       "url": "https://open.spotify.com/track/6mfWT8HkVpdvzqBEQ5uYV0"
@@ -29939,6 +29975,24 @@
     },
     {
       "album": {
+        "name": "Violet Grey",
+        "url": "https://open.spotify.com/album/25TwFATsUIEcrYoKKR4MlV"
+      },
+      "artists": [
+        {
+          "name": "Exit Guide",
+          "url": "https://open.spotify.com/artist/5tirJptlTAwx3fM1ZQW4x7"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248892,
+      "name": "Violet Grey",
+      "url": "https://open.spotify.com/track/4JtyDVk5HJRDaxzSMrREf6"
+    },
+    {
+      "album": {
         "name": "VIP",
         "url": "https://open.spotify.com/album/1KOAcEgLl3gn4pJWdnqCH2"
       },
@@ -31140,7 +31194,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 136250,
       "name": "who am i supposed to be",
       "url": "https://open.spotify.com/track/2TJ5eQGp8CE2xhDMoUSttm"

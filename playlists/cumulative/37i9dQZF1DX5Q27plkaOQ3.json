@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 217714,
       "name": "Around The World (La La La)",
       "url": "https://open.spotify.com/track/1Ob2xtKYCrDW8DAdW31BDV"
@@ -11104,7 +11104,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 266400,
       "name": "GATEKEEPER",
       "url": "https://open.spotify.com/track/0Kltu5cCMc2r82fnkeK49g"
@@ -13936,19 +13936,19 @@
       },
       "artists": [
         {
-          "name": "INFEKT",
-          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
-        },
-        {
           "name": "Modal Nodes",
           "url": "https://open.spotify.com/artist/7IiQzwRO9HsEcSzTDT6OSS"
+        },
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
         }
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 168827,
-      "name": "INFECTED",
+      "name": "INFECTED (feat. INFEKT)",
       "url": "https://open.spotify.com/track/5V6Yx8L9ItQUOYq0REdFGj"
     },
     {
@@ -19410,7 +19410,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 144000,
       "name": "PERFECT",
       "url": "https://open.spotify.com/track/4aYB6rQFGFLwQLMiM5OSJC"
@@ -27974,7 +27974,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 267428,
       "name": "Ups and Downs",
       "url": "https://open.spotify.com/track/4H3lfEQqrv1Kh3CXVYmMwW"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Jaden Bojsen x David Guetta au top des bangers dance/electro du moment !",
+  "description": "Global Deejays au top des bangers dance/electro du moment !",
   "name": "BANGER",
   "tracks": [
     {
@@ -1210,6 +1210,28 @@
       "duration_ms": 180091,
       "name": "Chasing Paradise",
       "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
+    },
+    {
+      "album": {
+        "name": "CHICA 305",
+        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188085,
+      "name": "CHICA 305",
+      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
     },
     {
       "album": {
@@ -4055,6 +4077,32 @@
     },
     {
       "album": {
+        "name": "Listen To Me",
+        "url": "https://open.spotify.com/album/0lJlw16y8q0tfo9P6uZu5w"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "CIEL.",
+          "url": "https://open.spotify.com/artist/7k3cId1oZqUxRM5QgjMKJU"
+        },
+        {
+          "name": "Radio Cargo",
+          "url": "https://open.spotify.com/artist/2DlWR4iwXq2J7SUpqPdQbE"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162214,
+      "name": "Listen To Me",
+      "url": "https://open.spotify.com/track/3fPXv60Pp9jLGYrjd1RoNd"
+    },
+    {
+      "album": {
         "name": "Living On Video (feat. DTale) [Festival Mix]",
         "url": "https://open.spotify.com/album/3ilMBUiEE7oTOExAPwkV84"
       },
@@ -4410,6 +4458,40 @@
       "duration_ms": 186240,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
+    },
+    {
+      "album": {
+        "name": "Makina Time",
+        "url": "https://open.spotify.com/album/2GglSuNrhoPfB0lFSoho5G"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "Dj Konik",
+          "url": "https://open.spotify.com/artist/47FkgvgZtCjQaBswo5E531"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130090,
+      "name": "Makina Time",
+      "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
     },
     {
       "album": {
@@ -5046,7 +5128,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -5730,7 +5812,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 176010,
       "name": "QUE CE SOIT CLAIR",
       "url": "https://open.spotify.com/track/6eDKyG6jvCXaTyTdFOh9wA"
@@ -7470,7 +7552,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 176718,
       "name": "Walking On A Dream (Resurrection)",
       "url": "https://open.spotify.com/track/0yfyF16cCITZcWsIF4oGZs"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"La lune\" de Christophe Ma\u00e9 est le Grand Hit de la semaine.  ",
+  "description": "\"Dansons\" de C\u00e9line Dion est le Grand Hit de la semaine.  ",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 192128,
       "name": "Ailleurs",
       "url": "https://open.spotify.com/track/2lwLLpCLIQ6lc5EvvdjG5C"
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 167431,
       "name": "Comme toutes les filles",
       "url": "https://open.spotify.com/track/45BhIKShrRfxQjuP9povgy"
@@ -1173,6 +1173,24 @@
     },
     {
       "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/20RGe7E8FpGuhkcTLa4LpG"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164911,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/02IIarJdHe8u4n0XcOEzHN"
+    },
+    {
+      "album": {
         "name": "Creep (Reprise)",
         "url": "https://open.spotify.com/album/0CRmRKpMa7LpbNCkHzgwBD"
       },
@@ -1282,6 +1300,24 @@
       "duration_ms": 158006,
       "name": "Dans la moyenne",
       "url": "https://open.spotify.com/track/5sZcLGRDMSyQK1nR7ykDQN"
+    },
+    {
+      "album": {
+        "name": "Dansons",
+        "url": "https://open.spotify.com/album/18y0UlYOveexsqLeSswHG5"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206002,
+      "name": "Dansons",
+      "url": "https://open.spotify.com/track/7qRK8GXzeSjfOOjDASmXs8"
     },
     {
       "album": {
@@ -1438,6 +1474,28 @@
       "duration_ms": 236119,
       "name": "Dis-moi oui",
       "url": "https://open.spotify.com/track/5pO0JOpugwMgkNetEiA452"
+    },
+    {
+      "album": {
+        "name": "Naufrag\u00e9",
+        "url": "https://open.spotify.com/album/6Tl529HhyHytN5UG1iBCMf"
+      },
+      "artists": [
+        {
+          "name": "Julien Lieb",
+          "url": "https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i"
+        },
+        {
+          "name": "OTTA",
+          "url": "https://open.spotify.com/artist/4NMvzpqVsDCC0Cte4GTG3d"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161539,
+      "name": "Dis-moi o\u00f9 (feat. OTTA)",
+      "url": "https://open.spotify.com/track/6FNnrwCYdfGwDiO1x76ReL"
     },
     {
       "album": {
@@ -1820,7 +1878,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 183762,
       "name": "Etincelles",
       "url": "https://open.spotify.com/track/3GzRPVyhL4nsmd6mtrrV7b"
@@ -1986,6 +2044,24 @@
       "duration_ms": 168720,
       "name": "fou",
       "url": "https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B"
+    },
+    {
+      "album": {
+        "name": "Fr\u00e9rot",
+        "url": "https://open.spotify.com/album/6Ma7L5f2hce8QCHaol5V4h"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9my Frerot",
+          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163806,
+      "name": "Fr\u00e9rot",
+      "url": "https://open.spotify.com/track/6aZhAyAkZDl00J7c6o35Qc"
     },
     {
       "album": {
@@ -2613,6 +2689,24 @@
     },
     {
       "album": {
+        "name": "Jet Lag",
+        "url": "https://open.spotify.com/album/4cUQUMvniiMM4NVpIxH1Kh"
+      },
+      "artists": [
+        {
+          "name": "LUIZA",
+          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Jet Lag",
+      "url": "https://open.spotify.com/track/7fRTjRTHXx2NeDsU6V0585"
+    },
+    {
+      "album": {
         "name": "Aliocha Schneider",
         "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
       },
@@ -2776,6 +2870,24 @@
       "duration_ms": 287000,
       "name": "L'amour fou",
       "url": "https://open.spotify.com/track/6IcAoHgXFkaBvY47cv6Osq"
+    },
+    {
+      "album": {
+        "name": "L'amour \u00e7a se donne",
+        "url": "https://open.spotify.com/album/7anE94rdl6gEVx4rNiiY5J"
+      },
+      "artists": [
+        {
+          "name": "Amel Bent",
+          "url": "https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166127,
+      "name": "L'amour \u00e7a se donne",
+      "url": "https://open.spotify.com/track/1PvhUPOjMlmbcRKFmHastU"
     },
     {
       "album": {
@@ -2970,7 +3082,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 154866,
       "name": "la maison",
       "url": "https://open.spotify.com/track/6LwRx3YAwMp3VmDxAHVpP6"
@@ -3194,7 +3306,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 193960,
       "name": "Le Chat",
       "url": "https://open.spotify.com/track/1svFj5Qv4sCtzEYINSphtP"
@@ -4150,7 +4262,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 215919,
       "name": "Mieux que moi",
       "url": "https://open.spotify.com/track/582fzdZiGTRxGigvLVZ7V7"
@@ -4548,7 +4660,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 179560,
       "name": "particule",
       "url": "https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS"
@@ -4747,6 +4859,24 @@
     },
     {
       "album": {
+        "name": "Il faut que tu saches",
+        "url": "https://open.spotify.com/album/7BwLmkpKWQg9CQkJ09xDIp"
+      },
+      "artists": [
+        {
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160053,
+      "name": "Premi\u00e8re fois",
+      "url": "https://open.spotify.com/track/6dawBmrwlRk6ZRy04J2VoE"
+    },
+    {
+      "album": {
         "name": "[pr\u00e8chof]",
         "url": "https://open.spotify.com/album/2aBKPRAq1UDHecxexXz0lq"
       },
@@ -4906,6 +5036,28 @@
       "duration_ms": 168394,
       "name": "Reflet",
       "url": "https://open.spotify.com/track/5JeDH8xInnb7tAXBJgIfla"
+    },
+    {
+      "album": {
+        "name": "JE RENTRE \u00c0 LA MAISON",
+        "url": "https://open.spotify.com/album/7CwhsAwkHtLClJkgJWKnrU"
+      },
+      "artists": [
+        {
+          "name": "Boulevard des Airs",
+          "url": "https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx"
+        },
+        {
+          "name": "L.E.J",
+          "url": "https://open.spotify.com/artist/7kKKMBmEtyQcPb9idicNr7"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224320,
+      "name": "Regarde-moi (feat. L.E.J)",
+      "url": "https://open.spotify.com/track/4h3mtjDcmSQORnctBV3n43"
     },
     {
       "album": {
@@ -5339,6 +5491,24 @@
     },
     {
       "album": {
+        "name": "Soleil",
+        "url": "https://open.spotify.com/album/5IwocCJFXNPDoBVSY88Bcw"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131563,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG"
+    },
+    {
+      "album": {
         "name": "Soleil Bleu",
         "url": "https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA"
       },
@@ -5678,7 +5848,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 161266,
       "name": "Tout l'or du monde",
       "url": "https://open.spotify.com/track/6TxZK3SClZIkrdE89ZoYFJ"
@@ -5714,7 +5884,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 237272,
       "name": "Tout se casse - Version radio",
       "url": "https://open.spotify.com/track/7mso93CqDezz9i3Hd4Z151"

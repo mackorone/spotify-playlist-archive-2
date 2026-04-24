@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni per una primavera non proprio felice (blanco in cover) ",
+  "description": "canzoni per una primavera non proprio felice (rob in cover) ",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -2840,7 +2840,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 141666,
       "name": "ASSALTO AL POLLAIO",
       "url": "https://open.spotify.com/track/2lJ5zOpBj0UHxo6fZ31kif"
@@ -5138,6 +5138,24 @@
       "duration_ms": 162624,
       "name": "CENTO RAGAZZE",
       "url": "https://open.spotify.com/track/2YzoQKJwvo0ZBeQc6Ro7LT"
+    },
+    {
+      "album": {
+        "name": "CHAOS PERFETTO",
+        "url": "https://open.spotify.com/album/0s8Lqd1REuYNENvLrlIbQQ"
+      },
+      "artists": [
+        {
+          "name": "rob",
+          "url": "https://open.spotify.com/artist/3l27L67Ia3t46fkOZ7B7o7"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165795,
+      "name": "CHAOS PERFETTO",
+      "url": "https://open.spotify.com/track/5tnxoaFOYSmGEaNVQDbyCF"
     },
     {
       "album": {
@@ -7876,7 +7894,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 145152,
       "name": "Di certo mi capirai",
       "url": "https://open.spotify.com/track/0d2ciFsuSvTZnL3hWhkzVe"
@@ -11512,6 +11530,24 @@
       "duration_ms": 164034,
       "name": "Fuck",
       "url": "https://open.spotify.com/track/1kFEvhWfwYP5Ct75HuETBv"
+    },
+    {
+      "album": {
+        "name": "Love You Madly Hate You Badly",
+        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162309,
+      "name": "Fuck The Whole World",
+      "url": "https://open.spotify.com/track/4Z6VhX6RFl1rT6CUbtTVkr"
     },
     {
       "album": {
@@ -15505,6 +15541,24 @@
     },
     {
       "album": {
+        "name": "la Mia paura",
+        "url": "https://open.spotify.com/album/48aXrrDxJG80pPvgPpaXjE"
+      },
+      "artists": [
+        {
+          "name": "@gabriele",
+          "url": "https://open.spotify.com/artist/6RyYnt3Q1ebcbLxYOtE9bb"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180454,
+      "name": "la Mia paura",
+      "url": "https://open.spotify.com/track/51jCHYRmZDj9ZPi2Fw55Xl"
+    },
+    {
+      "album": {
         "name": "La mia ragazza \u00e8 una bambola mezza morta",
         "url": "https://open.spotify.com/album/2Lhn3iMde6NCLR99gjFtEk"
       },
@@ -15534,7 +15588,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 173506,
       "name": "LA MIA STORIA",
       "url": "https://open.spotify.com/track/1xTTY2MpWNW0A9DwuMbPeB"
@@ -21559,6 +21613,24 @@
     },
     {
       "album": {
+        "name": "PARTE DI ME",
+        "url": "https://open.spotify.com/album/4bldiLMTqGJBr0zM2oEKIY"
+      },
+      "artists": [
+        {
+          "name": "Knfuzed",
+          "url": "https://open.spotify.com/artist/0iLJo0Dem6c216e2jQjQBB"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128823,
+      "name": "PARTE DI ME",
+      "url": "https://open.spotify.com/track/3qL2ZQhJpEEB3mUbWoDeA7"
+    },
+    {
+      "album": {
         "name": "party",
         "url": "https://open.spotify.com/album/4korbCXYCK2jdAUykA7Q2r"
       },
@@ -24106,7 +24178,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 158200,
       "name": "ragni",
       "url": "https://open.spotify.com/track/50pdIXnMcKjbDDBJq6WeZ5"

@@ -2,9 +2,9 @@
 
 ### [Mezzanotte Chill Rap](https://open.spotify.com/playlist/37i9dQZF1DX37pZLd58ED5)
 
-> Solo beat e rime avvolgenti\. Cover: Tony Boy
+> Solo beat e rime avvolgenti\. Cover: Paky
 
-345 songs - 17 hr 43 min
+347 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [+ A Nulla \(feat\. Achille Lauro\)](https://open.spotify.com/track/3kGhaaqbLCaiutjANySN5W) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [4U EP](https://open.spotify.com/album/3AIwaSKtnuwwbdgHZeXcYm) | 2:42 | 2026-02-13 | 2026-03-13 |
 | [07:34](https://open.spotify.com/track/7wkntyph9MUtz9nz0xFsyz) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ), [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T) | [07:34](https://open.spotify.com/album/0zFqRRSuXePG8S0wrRM32f) | 3:11 | 2024-03-13 | 2024-06-28 |
 | [1 ora d'aria, 1 ora d'ansia \(feat\. Tony Boy\)](https://open.spotify.com/track/1Cx82FHMvNMoug9qldg8yb) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Amor Proprio](https://open.spotify.com/album/2g4FPbzrHL94RwOnPNGe7u) | 3:11 | 2025-10-09 | 2025-11-07 |
+| [1 quore](https://open.spotify.com/track/1Ztjs0XzgoDRZE1PwFB7M4) | [Quest](https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw) | [1 quore](https://open.spotify.com/album/2ihs8kzqc6duDwJQEENriy) | 2:56 | 2026-04-23 |  |
 | [10 secondi\. \(con Nayt\)](https://open.spotify.com/track/0qydifwz9boGqz6S3sWARZ) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [decrescendo.](https://open.spotify.com/album/2oV2fJQbYBswcOptTNAKpd) | 2:30 | 2025-05-22 | 2025-07-04 |
 | [100 MESSAGGI](https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [100 MESSAGGI](https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N) | 4:04 | 2024-02-26 |  |
 | [15 Piani](https://open.spotify.com/track/05wb6MEyJeG2z1MVCIXxC8) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:26 | 2023-11-17 |  |
@@ -334,6 +335,7 @@
 | [Tre Winston \(feat\. Chakra & Yung Snapp\) \- prod\. Kanesh](https://open.spotify.com/track/6CCFwUKqPxiR48VoU2paUa) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [Teoria Del Contrario Mixtape Vol\. 2](https://open.spotify.com/album/0IAX2njGSfQczvl5oN5ZLx) | 3:18 | 2023-03-17 | 2023-04-21 |
 | [Tristano e Isotta](https://open.spotify.com/track/7dFfkSJrAHnUdKM5jaUOLt) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 3:37 | 2026-02-02 |  |
 | [Tu ed io \(feat\. thasup, Finesse\)](https://open.spotify.com/track/4JFt4pwBLb2Zsy44QRBG88) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [UFORIA](https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB) | 2:59 | 2025-06-26 | 2025-10-10 |
+| [Tu mi Fai](https://open.spotify.com/track/2D3FslngNUdbeynfwSecP0) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [Tu mi Fai](https://open.spotify.com/album/2ZthohZoAlS5pJ0YBQHYcG) | 2:41 | 2026-04-23 |  |
 | [Tutto Di Me](https://open.spotify.com/track/2OPbCVmIYfDo6KVvPmcBfL) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 3:55 | 2022-04-28 | 2022-05-20 |
 | [Tutto Ok](https://open.spotify.com/track/5jzjIA5ygCPfRUCNvhT262) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [Glocky vs Kiddo](https://open.spotify.com/album/53DRh8HCYyMHCyMF7HbHJe) | 2:34 | 2025-05-15 | 2025-07-04 |
 | [Un milione di volte \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:01 | 2023-06-08 |  |

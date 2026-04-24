@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2074530,
+  "num_followers": 2074570,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAABLKRPtTLYYXgosSoA0S7kw",
+  "snapshot_id": "aegPgAAAAACRnYk/HRc46wT28dPNVXyY",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legend - The Best Of Bob Marley And The Wailers",
-        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
+        "name": "One Love (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2VbmXDBkPj34TiyMNYaboj"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 177440,
-      "name": "Easy Skanking",
-      "url": "https://open.spotify.com/track/1efuoLEUL1K0D96d63svRO"
+      "duration_ms": 217106,
+      "name": "Roots, Rock, Reggae",
+      "url": "https://open.spotify.com/track/1j3ANZgokEc0jKztEDV34l"
     },
     {
       "added_at": null,
@@ -327,6 +327,22 @@
       "duration_ms": 231466,
       "name": "Ride Natty Ride",
       "url": "https://open.spotify.com/track/5cTsXX5qwa6zmG80OCz4hR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legend - The Best Of Bob Marley And The Wailers",
+        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "Easy Skanking",
+      "url": "https://open.spotify.com/track/1efuoLEUL1K0D96d63svRO"
     },
     {
       "added_at": null,
@@ -363,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 191866,
-      "name": "Crazy Baldhead",
-      "url": "https://open.spotify.com/track/1zWr2alhnYrRBy1M28d3z7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Survival",
         "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 231266,
       "name": "Zimbabwe",
       "url": "https://open.spotify.com/track/5ApfJDLibIoWL0mRZ5uOKu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 191866,
+      "name": "Crazy Baldhead",
+      "url": "https://open.spotify.com/track/1zWr2alhnYrRBy1M28d3z7"
     },
     {
       "added_at": null,
@@ -427,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Roots, Rock, Reggae",
-      "url": "https://open.spotify.com/track/1ATZfYmZOcm24vl5oQtPdC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Survival",
         "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 192680,
       "name": "Ambush In The Night",
       "url": "https://open.spotify.com/track/6kAye2WmX9RVnheY3QmF54"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1TLTUhEUYOyORxufZlCOWj"
     },
     {
       "added_at": null,
@@ -487,22 +503,6 @@
       "duration_ms": 197573,
       "name": "Get Up, Stand Up",
       "url": "https://open.spotify.com/track/0q5giEtY4wsFTwjWqswLwx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1TLTUhEUYOyORxufZlCOWj"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 213533,
-      "name": "Blackman Redemption",
-      "url": "https://open.spotify.com/track/6jI6sujyu6aHmnAOZTvqz3"
+      "duration_ms": 205693,
+      "name": "Stiff Necked Fools",
+      "url": "https://open.spotify.com/track/1eN3VT6F8JNkjF9b4AMhzd"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 205693,
-      "name": "Stiff Necked Fools",
-      "url": "https://open.spotify.com/track/1eN3VT6F8JNkjF9b4AMhzd"
+      "duration_ms": 213533,
+      "name": "Blackman Redemption",
+      "url": "https://open.spotify.com/track/6jI6sujyu6aHmnAOZTvqz3"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
       "duration_ms": 215666,
       "name": "Natty Dread",
       "url": "https://open.spotify.com/track/2fvi4GCSJn9XYdYrLGLX5f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 253573,
+      "name": "Jah Live",
+      "url": "https://open.spotify.com/track/1SxXBJgUk4z1dZdpdtTB7F"
     },
     {
       "added_at": null,

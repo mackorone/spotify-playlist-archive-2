@@ -2666,7 +2666,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 212360,
       "name": "Flammer og Bensin",
       "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
@@ -3300,7 +3300,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 187206,
       "name": "GUT OG KAR",
       "url": "https://open.spotify.com/track/46fuiumV19QtKLPU6JolRF"
@@ -3852,7 +3852,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 136981,
       "name": "Her og n\u00e5",
       "url": "https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X"
@@ -5175,6 +5175,24 @@
     },
     {
       "album": {
+        "name": "Kveldssang til bonden",
+        "url": "https://open.spotify.com/album/4uufMBFyhdWMv8EMNtTzUH"
+      },
+      "artists": [
+        {
+          "name": "Randi Oline",
+          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173163,
+      "name": "Kveldssang til bonden",
+      "url": "https://open.spotify.com/track/2qK9qwG8vrRcVCaqz5K4JK"
+    },
+    {
+      "album": {
         "name": "B\u00e6st I Test",
         "url": "https://open.spotify.com/album/4xAMXHwSNXIej5EYS2xUyO"
       },
@@ -5736,6 +5754,24 @@
       "duration_ms": 148124,
       "name": "Mekke bil (feat. Tor-Anders Ringnes)",
       "url": "https://open.spotify.com/track/4dqrmHVAq0GtWgb0oGXGAA"
+    },
+    {
+      "album": {
+        "name": "Mer Enn Venner",
+        "url": "https://open.spotify.com/album/73b1BuYeDuDi1FO26feGgI"
+      },
+      "artists": [
+        {
+          "name": "ZadeKing",
+          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173592,
+      "name": "Mer Enn Venner",
+      "url": "https://open.spotify.com/track/0cTKIp9VeombtHGaR3uu3b"
     },
     {
       "album": {
@@ -6328,6 +6364,24 @@
       "duration_ms": 144586,
       "name": "Oslo - Takk, jeg er ferdig",
       "url": "https://open.spotify.com/track/1KRshP62zz9fFXfRzqHOD8"
+    },
+    {
+      "album": {
+        "name": "Paradis",
+        "url": "https://open.spotify.com/album/4Uo1p4zIRlg3LZz3YmmxkJ"
+      },
+      "artists": [
+        {
+          "name": "Br\u00e5tabrann",
+          "url": "https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166663,
+      "name": "Paradis",
+      "url": "https://open.spotify.com/track/6tuZftxxSZFcH8ZxV5uw3w"
     },
     {
       "album": {

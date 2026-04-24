@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: APON",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Ellize",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -217,6 +217,24 @@
     },
     {
       "album": {
+        "name": "Aigaio",
+        "url": "https://open.spotify.com/album/0uNhF7NbXx5MHKICl0f5Dk"
+      },
+      "artists": [
+        {
+          "name": "Anna Vissi",
+          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244600,
+      "name": "Aigaio",
+      "url": "https://open.spotify.com/track/7fjXdCjbcpxRxCbTJHEiOi"
+    },
+    {
+      "album": {
         "name": "Alitheia?!",
         "url": "https://open.spotify.com/album/257lYQDJzkowQA06qh5FfL"
       },
@@ -276,7 +294,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 228387,
       "name": "Alleluia",
       "url": "https://open.spotify.com/track/0qToKOjoIshAsxGuSJ7DhY"
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 192974,
       "name": "Disco Boy",
       "url": "https://open.spotify.com/track/4ee7heyCvxcuffx9XMwMXO"
@@ -2315,6 +2333,32 @@
     },
     {
       "album": {
+        "name": "GET LOW",
+        "url": "https://open.spotify.com/album/6evd7cFqSRXyJ4t1Fimxit"
+      },
+      "artists": [
+        {
+          "name": "ZiZZi",
+          "url": "https://open.spotify.com/artist/4m8Ii85JYC5nIAD9RYE8iL"
+        },
+        {
+          "name": "DJ Stephan",
+          "url": "https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142909,
+      "name": "GET LOW",
+      "url": "https://open.spotify.com/track/4IcDfTKEPoCyZNbPWDLV32"
+    },
+    {
+      "album": {
         "name": "Gia Panta",
         "url": "https://open.spotify.com/album/7Fw9abn6hgQYgypa7uIz3w"
       },
@@ -2635,6 +2679,24 @@
     },
     {
       "album": {
+        "name": "Isos",
+        "url": "https://open.spotify.com/album/7jMvYA8RxzBQ0o0nFJvY81"
+      },
+      "artists": [
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188308,
+      "name": "Isos",
+      "url": "https://open.spotify.com/track/6Khu7menFiVNlj6938Qqv5"
+    },
+    {
+      "album": {
         "name": "ISOS SICARIO REMIX",
         "url": "https://open.spotify.com/album/48QgTIugLApqfKWm2Ypqfd"
       },
@@ -2840,7 +2902,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 206400,
       "name": "KONTEVW",
       "url": "https://open.spotify.com/track/4hSKkLxvckNq8iEz32ojGW"
@@ -3030,7 +3092,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 140144,
       "name": "Lapdance",
       "url": "https://open.spotify.com/track/5kAHbA12A14SpAXkLMt5hl"
@@ -4039,6 +4101,24 @@
     },
     {
       "album": {
+        "name": "Polemos",
+        "url": "https://open.spotify.com/album/3PrtVwGdi5aiDF6NFeXLEW"
+      },
+      "artists": [
+        {
+          "name": "Nikos Ganos",
+          "url": "https://open.spotify.com/artist/5p69MKTTWD8xdt3bWkeggK"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Polemos",
+      "url": "https://open.spotify.com/track/2iAp9vJZp7queqUFGr88kS"
+    },
+    {
+      "album": {
         "name": "Poso To Thes",
         "url": "https://open.spotify.com/album/4CKGz5ZZfTwQdIekLRk6yT"
       },
@@ -4590,6 +4670,24 @@
       "duration_ms": 200610,
       "name": "STIN IYIA MAS",
       "url": "https://open.spotify.com/track/2QhPkTSjL4Tisn0y7jSbEb"
+    },
+    {
+      "album": {
+        "name": "Ta Pagkakia",
+        "url": "https://open.spotify.com/album/4sKble7tOl2ka7mAmLcbSB"
+      },
+      "artists": [
+        {
+          "name": "Malu",
+          "url": "https://open.spotify.com/artist/7yRdQVDlefMJhDk3vbhjah"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170464,
+      "name": "Ta Pagkakia",
+      "url": "https://open.spotify.com/track/15OwfEKAhTnQovplNkR0Ms"
     },
     {
       "album": {

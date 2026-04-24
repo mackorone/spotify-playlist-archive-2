@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: FLEMMING, Trobi & Snelle",
+  "description": "Frisse Nederlandse pop. Cover: Samuel Welten & Lil Kleine",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -206,6 +206,24 @@
       "duration_ms": 151493,
       "name": "100%",
       "url": "https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv"
+    },
+    {
+      "album": {
+        "name": "100.000 Flitsen",
+        "url": "https://open.spotify.com/album/2G3pcI8wzrER29yfhIVbA6"
+      },
+      "artists": [
+        {
+          "name": "Muda",
+          "url": "https://open.spotify.com/artist/7m6avB4kU97EWWo2W7vrIm"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180030,
+      "name": "100.000 Flitsen",
+      "url": "https://open.spotify.com/track/0rbgTt2zmkR44lE94FuC58"
     },
     {
       "album": {
@@ -3126,7 +3144,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 149023,
       "name": "Beter Kon Het Niet",
       "url": "https://open.spotify.com/track/43rcATuC2d2u4KiRbqyyiN"
@@ -4121,6 +4139,28 @@
     },
     {
       "album": {
+        "name": "Constant in beweging",
+        "url": "https://open.spotify.com/album/6pKZupLQoqrC9QBcH0lVVK"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184076,
+      "name": "Constant in beweging",
+      "url": "https://open.spotify.com/track/27A3bay3r6t8017eO0AyrA"
+    },
+    {
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/5K3M8cOMFr6ITmE4FgMdI8"
       },
@@ -4668,7 +4708,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 128780,
       "name": "Dansvloer Dilemma",
       "url": "https://open.spotify.com/track/5hm19T0tQzMHTnC3lZA8PC"
@@ -5677,6 +5717,24 @@
     },
     {
       "album": {
+        "name": "Dit Is Liefde",
+        "url": "https://open.spotify.com/album/63jINBUTovCUxqzXj4dCta"
+      },
+      "artists": [
+        {
+          "name": "Maxim Froger",
+          "url": "https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161760,
+      "name": "Dit Is Liefde",
+      "url": "https://open.spotify.com/track/12Pp1mW2jMyBExl6lbl4pg"
+    },
+    {
+      "album": {
         "name": "Metejoor",
         "url": "https://open.spotify.com/album/5i4UsOo0PWot8lF2p1JW0W"
       },
@@ -6342,7 +6400,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 194910,
       "name": "Echt Zo",
       "url": "https://open.spotify.com/track/5RiNPHQmTZeLHiVPZFg0jn"
@@ -7148,7 +7206,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 165500,
       "name": "Gedoemd Te Mislukken",
       "url": "https://open.spotify.com/track/08usYSVEgY0R01aoWgiVFf"
@@ -8695,6 +8753,24 @@
     },
     {
       "album": {
+        "name": "het moment.",
+        "url": "https://open.spotify.com/album/4NDFBa0zlbwAjO6FqQk8Zb"
+      },
+      "artists": [
+        {
+          "name": "YUKI",
+          "url": "https://open.spotify.com/artist/612yT1I01LbUQMbc1kU9yw"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155880,
+      "name": "het moment.",
+      "url": "https://open.spotify.com/track/7eEFlrFQv8bLlo7guYIS3v"
+    },
+    {
+      "album": {
         "name": "Het verleden",
         "url": "https://open.spotify.com/album/6fT11QCpe47VOzs8kqvL2T"
       },
@@ -8888,6 +8964,24 @@
       "duration_ms": 173731,
       "name": "Hier En Nu",
       "url": "https://open.spotify.com/track/6hnYPBzulu0m7M18FwjD1m"
+    },
+    {
+      "album": {
+        "name": "Hier Met Jou",
+        "url": "https://open.spotify.com/album/1OsiWUC1B5oGSLnRBHO15N"
+      },
+      "artists": [
+        {
+          "name": "Kiya",
+          "url": "https://open.spotify.com/artist/5AmyUXItyIVvSaIMO4seW9"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179253,
+      "name": "Hier Met Jou",
+      "url": "https://open.spotify.com/track/4HFfDfPBalc5yyGZ67aiG3"
     },
     {
       "album": {
@@ -12052,7 +12146,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 149032,
       "name": "Kom Je Langs",
       "url": "https://open.spotify.com/track/6LmSV5LnSxTBRvGA4sXhOD"
@@ -13129,6 +13223,24 @@
     },
     {
       "album": {
+        "name": "Leven Lang",
+        "url": "https://open.spotify.com/album/5i0BtoioGdq7b1ozEfclKI"
+      },
+      "artists": [
+        {
+          "name": "Romy Monteiro",
+          "url": "https://open.spotify.com/artist/7JPsdOU0xVePMa20YsbZdY"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156071,
+      "name": "Leven Lang",
+      "url": "https://open.spotify.com/track/0bS9eVEQ2bN2i5WrnVnFFb"
+    },
+    {
+      "album": {
         "name": "Levensecht",
         "url": "https://open.spotify.com/album/7zJD5mnLr5NQc9taRrFuDb"
       },
@@ -13758,6 +13870,32 @@
       "duration_ms": 162985,
       "name": "Maak Me Los",
       "url": "https://open.spotify.com/track/0UwJA6CPUTinpIPXw8KLx7"
+    },
+    {
+      "album": {
+        "name": "Maak Me Nou Niet Gek",
+        "url": "https://open.spotify.com/album/5jOHbWlFPTHrQbkrIXP5kI"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        },
+        {
+          "name": "De Amsterdamse Zomer",
+          "url": "https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177205,
+      "name": "Maak Me Nou Niet Gek",
+      "url": "https://open.spotify.com/track/0q8Ft87t6fIUZdtve5PwKW"
     },
     {
       "album": {
@@ -15186,7 +15324,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 138360,
       "name": "Na\u00efef",
       "url": "https://open.spotify.com/track/5p78CX7uVPoy6FOQpRbcyp"
@@ -17648,7 +17786,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 176366,
       "name": "Rekensom",
       "url": "https://open.spotify.com/track/5fP2wbY8JNWrjRmzxdIBlk"
@@ -22329,6 +22467,24 @@
     },
     {
       "album": {
+        "name": "Wat Er Allemaal Al Is",
+        "url": "https://open.spotify.com/album/60uGogykzONylIhI17Jcj3"
+      },
+      "artists": [
+        {
+          "name": "Lola Ced\u00e8s",
+          "url": "https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149090,
+      "name": "Wat Er Allemaal Al Is",
+      "url": "https://open.spotify.com/track/4dFy0k1lCs6KUgNT10DRwY"
+    },
+    {
+      "album": {
         "name": "Wat Er Ook Gebeurt",
         "url": "https://open.spotify.com/album/68nAyxzH7dJkcsGnifgI5k"
       },
@@ -22622,7 +22778,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 190910,
       "name": "We Leven Nu",
       "url": "https://open.spotify.com/track/6iwZINFNsfDcfKZFarAsTn"
@@ -23626,7 +23782,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 193129,
       "name": "Zo gaat het niet",
       "url": "https://open.spotify.com/track/24KohgDbQQbyWumhZmKa0e"

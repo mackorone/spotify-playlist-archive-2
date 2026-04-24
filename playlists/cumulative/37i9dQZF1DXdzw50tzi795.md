@@ -2,9 +2,9 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: JOEY PHUWASIT
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: guncharlie
 
-235 songs - 15 hr 11 min
+236 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [WONDERING](https://open.spotify.com/track/0ghEYrlqpL0BBcuEJzKP01) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [HOMETOWN](https://open.spotify.com/album/5XhVclR4Vb6o4TNOzRtVzP) | 2:48 | 2025-10-15 | 2025-11-10 |
 | [You Give Me Butterflies](https://open.spotify.com/track/4VjdrMPJtXDEAzbaiNmh7O) | [BLUE PONGTIWAT](https://open.spotify.com/artist/2qOLzlqMqg4sUAcwdO4tYJ), [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [You Give Me Butterflies](https://open.spotify.com/album/1zaRbxugwNRnSY0HeJDx4b) | 3:30 | 2026-02-12 | 2026-03-06 |
 | [Yours Ever](https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:19 | 2024-10-10 |  |
-| [กรุงเทพมหานคร](https://open.spotify.com/track/4sQjVDas1lw04lj3NGsoDC) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 3:44 | 2025-10-31 |  |
+| [กรุงเทพมหานคร](https://open.spotify.com/track/4sQjVDas1lw04lj3NGsoDC) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 3:44 | 2025-10-31 | 2026-04-24 |
 | [กลับมาเพื่อบอกลา \(Just To Let Me Know\)](https://open.spotify.com/track/36VP0QLf0R3KqcWeyJxuEO) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW) | [กลับมาเพื่อบอกลา \(Just To Let Me Know\) \- Single](https://open.spotify.com/album/2HgDU0bpa2LwPdFpXJLsBL) | 3:34 | 2024-01-26 | 2025-01-17 |
 | [กลัวความเสียใจ](https://open.spotify.com/track/52ijTzD9HujnkPswlVPGrF) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [Pearpilincys](https://open.spotify.com/artist/3Htj1ew5zqwv3nJNNFfXxP) | [กลัวความเสียใจ](https://open.spotify.com/album/1q2TDtJfts6Q393yMdgGXU) | 4:51 | 2025-12-18 |  |
 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 | 2025-04-16 |  |
@@ -236,6 +236,7 @@
 | [ใจลอย](https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ใจลอย](https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG) | 3:17 | 2024-01-26 | 2024-07-13 |
 | [ใจหล่น \(Ruined\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/3eU8rU2yr6GFhR6gpWhNBA) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 4:58 | 2025-04-02 | 2025-04-29 |
 | [ใจเป็นนาย กายเป็นบ่าว](https://open.spotify.com/track/1gagehYgkm4azlIyIasuAO) | [เล็ก รัชเมศฐ์](https://open.spotify.com/artist/4zqN3dav6iuwb2djzhhtSz) | [ใจเป็นนาย กายเป็นบ่าว \- Single](https://open.spotify.com/album/4s1mjwdNWPBmrKERf7n0DM) | 4:05 | 2024-12-06 | 2025-04-25 |
+| [ได้แค่เดินมาส่ง \(The Last Walk\)](https://open.spotify.com/track/1FhxX1Su9kwKFEqM4qqEJ6) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ROOM101](https://open.spotify.com/album/5KyBfveZb2nGL3Hl4qlwz3) | 3:47 | 2026-04-23 |  |
 | [ไม่ติด](https://open.spotify.com/track/5ARFnqIJJc9OgCRB7tEygC) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg), [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22) | [URMAN](https://open.spotify.com/album/5m5nxgIvm1W9Cp5FYoYayd) | 3:32 | 2024-05-30 | 2026-02-13 |
 | [ไม่มีที่ไปก็ต้องไป](https://open.spotify.com/track/34bbjxV7eJWOWdHHs5ZKn7) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [ไม่มีที่ไปก็ต้องไป](https://open.spotify.com/album/3duBUGLDS0P8MpuWEeSOrR) | 3:43 | 2025-01-15 | 2025-04-17 |
 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 | 2024-01-26 | 2025-04-11 |

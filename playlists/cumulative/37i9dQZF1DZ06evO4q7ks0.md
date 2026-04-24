@@ -4,12 +4,13 @@
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-79 songs - 5 hr 0 min
+80 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/5NIa8SEODJX1c3Byy9XqCv) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 2:39 | 2025-09-10 |  |
 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/4EbqnubLpWIxPbIVcMH305) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 2:41 | 2025-08-17 | 2025-08-23 |
+| [A Place I Know](https://open.spotify.com/track/2a1BmTCTkwJNoxgqnh813G) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 4:26 | 2026-04-24 |  |
 | [All Over Now](https://open.spotify.com/track/7EkcnNdxjcdCjLa9K0CHYI) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 4:16 | 2025-03-08 |  |
 | [Analyse](https://open.spotify.com/track/4jMEymCdvlhqCYZdzLO0JM) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Wake Up And Smell The Coffee](https://open.spotify.com/album/2E1EmeusDZXP7KhF2yayPp) | 4:10 | 2025-03-08 |  |
 | [Animal Instinct](https://open.spotify.com/track/3J58Ccc5iTbCRnYx2xjo6d) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:31 | 2025-03-08 |  |
@@ -77,7 +78,7 @@
 | [What's On My Mind](https://open.spotify.com/track/3SQN0ve67YrlWeRSQL2Qaw) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Dreaming My Dreams With You](https://open.spotify.com/album/4ftBEHJfbJz1awnWnhztdl) | 3:12 | 2025-03-08 | 2025-11-20 |
 | [When You're Gone](https://open.spotify.com/track/2Qdnk7tbc4onLOIPd1eSNE) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Stars: The Best Of The Cranberries 1992\-2002](https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl) | 3:52 | 2025-03-08 |  |
 | [When You're Gone](https://open.spotify.com/track/3EXrtClWmgsM7dw75Mw2M1) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:56 | 2025-03-08 |  |
-| [Why](https://open.spotify.com/track/1UZns15TdY7BFYFrs51bJo) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 5:01 | 2025-12-02 |  |
+| [Why](https://open.spotify.com/track/1UZns15TdY7BFYFrs51bJo) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 5:01 | 2025-12-02 | 2026-04-24 |
 | [Yeats' Grave \- 2025 Remastered](https://open.spotify.com/track/5fiiSF02DqfoyixcTTc2x0) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 2:59 | 2025-09-04 | 2025-12-02 |
 | [Yesterday's Gone \- Live MTV Unplugged](https://open.spotify.com/track/1fjfSafHHZE6SpmA958ApR) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [MTV Unplugged](https://open.spotify.com/album/3nd1Edu2U0C78WMCsDHF1d) | 4:04 | 2025-11-11 |  |
 | [You And Me](https://open.spotify.com/track/6jEcFhllWB0clBHFylomJZ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:35 | 2025-03-08 |  |

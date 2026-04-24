@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,593,476 likes - 100 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,596,570 likes - 100 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 70 | [SLAY!](https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [SLAY!](https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx) | 1:47 |
 | 71 | [AUTOMOTIVO MANGOS](https://open.spotify.com/track/3c0WrRkh70gTxFA8giZYKE) | [DJ BRZ 013](https://open.spotify.com/artist/08UocCSHPNRC6aopHvlBr8) | [AUTOMOTIVO MANGOS](https://open.spotify.com/album/2OJB6ABzxfzLn779Oil5aC) | 1:35 |
 | 72 | [OLHA MENSAGEM](https://open.spotify.com/track/4bRgPiewooIntAQfPx4sCG) | [SEKIMANE](https://open.spotify.com/artist/1yevH7mkPMXeSTnA9SwHvq), [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX), [NXGHT!](https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL), [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee), [KGJ](https://open.spotify.com/artist/23zmS2d4hkOtvBlJ6T5dqM) | [OLHA MENSAGEM](https://open.spotify.com/album/6L63sOxoncxwRrf2ktyudM) | 1:40 |
-| 73 | [COSMO](https://open.spotify.com/track/2pfzrnyx8Rt5Zv7hN9NYud) | [nashi](https://open.spotify.com/artist/0KOqhZfks5Ga03qPrSFu0I) | [COSMO](https://open.spotify.com/album/18kvjBvrw3ayJYWrXsCsWf) | 2:05 |
+| 73 | [COSMO](https://open.spotify.com/track/2pfzrnyx8Rt5Zv7hN9NYud) | [nashi](https://open.spotify.com/artist/0KOqhZfks5Ga03qPrSFu0I), [MC Fluup](https://open.spotify.com/artist/5HgsNSjZkPGDfSfAzKUhlm) | [COSMO](https://open.spotify.com/album/18kvjBvrw3ayJYWrXsCsWf) | 2:05 |
 | 74 | [MONTAGEM SETHRON \- Super Slowed](https://open.spotify.com/track/4HsZFyw4DxL0VPl924UFfd) | [SASORIIXPP](https://open.spotify.com/artist/772qrOP3rf2diFapP3Mujd), [Zhanbxqq](https://open.spotify.com/artist/2ZsdtIXkb3DCIVaw4Xjdbn), [DJ Javi26](https://open.spotify.com/artist/0JGZRsRtFTQ0ZVBq9b2ZEj) | [MONTAGEM SETHRON](https://open.spotify.com/album/5hQYD62I2iQ0GcvYcmaQD7) | 1:40 |
 | 75 | [UH VEI VEI](https://open.spotify.com/track/5Uph2AVeAtXBBdNIBUKeB1) | [KREZUS](https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq) | [UH VEI VEI](https://open.spotify.com/album/64Qg2tLfJaSj9wSlrIwt8y) | 1:30 |
 | 76 | [MONTAGEM VOZES TALENTINHO \- Super Slowed](https://open.spotify.com/track/4gtz0OTJdBWZReh77LgBJT) | [heapper](https://open.spotify.com/artist/7I9nmXtGIFw9XUxNG36Q7N), [DJ JUAN](https://open.spotify.com/artist/0iPVlUddVxi8XrL3Ju8GAw), [Mc Luizinho](https://open.spotify.com/artist/5kFKWKOi67GISDFKogGbRP) | [MONTAGEM VOZES TALENTINHO](https://open.spotify.com/album/2UPwhike9Qp0u3p0OaUzcP) | 1:41 |

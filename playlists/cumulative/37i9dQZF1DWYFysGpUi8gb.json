@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "unearthing music that makes us feel interesting, featuring mary in the junkyard",
+  "description": "unearthing music that makes life feel interesting, featuring basht.",
   "name": "melomania",
   "tracks": [
     {
@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "5/4",
+        "url": "https://open.spotify.com/album/5Kn9RIFslr4c3fU92Ibn2m"
+      },
+      "artists": [
+        {
+          "name": "Alien Chicks",
+          "url": "https://open.spotify.com/artist/1V2a5Mkw4VP93kP1vrB4T4"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188006,
+      "name": "5/4",
+      "url": "https://open.spotify.com/track/1CbmC1QwFE5DCFtIvr6G9K"
+    },
+    {
+      "album": {
         "name": "5words",
         "url": "https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl"
       },
@@ -200,7 +218,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 257461,
       "name": "6:30 AM",
       "url": "https://open.spotify.com/track/2M83Z5hPHmyGpS97ApOu2q"
@@ -600,6 +618,24 @@
       "duration_ms": 191000,
       "name": "And As Always",
       "url": "https://open.spotify.com/track/0nAFGEYRPtyshBBswoFUAr"
+    },
+    {
+      "album": {
+        "name": "Anger",
+        "url": "https://open.spotify.com/album/5RQTl5CeOw0ZgodtWqdGZB"
+      },
+      "artists": [
+        {
+          "name": "Big Fear",
+          "url": "https://open.spotify.com/artist/0rB1OW3G0q3Dfy5fVWF6mS"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164613,
+      "name": "Anger",
+      "url": "https://open.spotify.com/track/6jmBhTbpiFQjGWiakDnajK"
     },
     {
       "album": {
@@ -1272,6 +1308,24 @@
       "duration_ms": 293129,
       "name": "Bleary Eyes",
       "url": "https://open.spotify.com/track/2LAjXMH1tI47GrUvh9F3LP"
+    },
+    {
+      "album": {
+        "name": "The dirt pt. 2",
+        "url": "https://open.spotify.com/album/2GCJ2Q2vB526WoqL1q8O1e"
+      },
+      "artists": [
+        {
+          "name": "Pollyfromthedirt",
+          "url": "https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150666,
+      "name": "Blow my lid",
+      "url": "https://open.spotify.com/track/6dIqq1fS01fSAHxKuOXHsb"
     },
     {
       "album": {
@@ -2534,7 +2588,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 181870,
       "name": "Don't Throw Rocks",
       "url": "https://open.spotify.com/track/4B31jv3HqAJ3yYDlpo5ZYm"
@@ -2870,6 +2924,24 @@
       "duration_ms": 243314,
       "name": "ellipsis",
       "url": "https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV"
+    },
+    {
+      "album": {
+        "name": "KILL Bathing Suits",
+        "url": "https://open.spotify.com/album/0BxVovOSYiv5mOUq2zmr3p"
+      },
+      "artists": [
+        {
+          "name": "Bathing Suits",
+          "url": "https://open.spotify.com/artist/0wAHOA5JY06O6TbyGLn9zR"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444586,
+      "name": "Empathy",
+      "url": "https://open.spotify.com/track/2pT6X95VPoqUNaenqPm9sY"
     },
     {
       "album": {
@@ -3943,6 +4015,24 @@
     },
     {
       "album": {
+        "name": "Heaven Now",
+        "url": "https://open.spotify.com/album/56GuwmBG96bnEg8448znWq"
+      },
+      "artists": [
+        {
+          "name": "Bone China",
+          "url": "https://open.spotify.com/artist/4I1YcszhhE7Uq09zbZ1Yzw"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141146,
+      "name": "Heaven Now",
+      "url": "https://open.spotify.com/track/6754QvJuh7U1XbvgGPhPNv"
+    },
+    {
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/169ybGzGpv1UjjWJ37ckhx"
       },
@@ -4008,7 +4098,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 363918,
       "name": "Hit My Head All Day",
       "url": "https://open.spotify.com/track/0JIKmYZmtDKqXAU37ZqwbN"
@@ -4926,7 +5016,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 194586,
       "name": "Kitchen II",
       "url": "https://open.spotify.com/track/5GxMlvq1LU0gIbzcisgFw7"
@@ -5376,7 +5466,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 213959,
       "name": "Lucky Now",
       "url": "https://open.spotify.com/track/6Cn0MQUzbmmAlboRmcUTw4"
@@ -5650,6 +5740,24 @@
       "duration_ms": 237997,
       "name": "Miss Together",
       "url": "https://open.spotify.com/track/3zE59ue2d81Hu4RshNXs5w"
+    },
+    {
+      "album": {
+        "name": "Modern Love",
+        "url": "https://open.spotify.com/album/45o7um1I2zw7Pe4b79xo28"
+      },
+      "artists": [
+        {
+          "name": "two blinks, i love you",
+          "url": "https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224194,
+      "name": "Modern Love",
+      "url": "https://open.spotify.com/track/0WEQo9Ps3t2XXzO7S6SaEW"
     },
     {
       "album": {
@@ -6175,6 +6283,24 @@
     },
     {
       "album": {
+        "name": "Nosedive",
+        "url": "https://open.spotify.com/album/6qY5K6aLJkQFfd6mwTnTka"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339424,
+      "name": "Nosedive",
+      "url": "https://open.spotify.com/track/0TbUriU2INQ0wqNubRpFTX"
+    },
+    {
+      "album": {
         "name": "Not Been Back",
         "url": "https://open.spotify.com/album/4A1OVgJG37n9mHNbtOUZ9X"
       },
@@ -6485,6 +6611,24 @@
     },
     {
       "album": {
+        "name": "Out of Context",
+        "url": "https://open.spotify.com/album/2qT8Za2HwhNkGPoSgPJuYQ"
+      },
+      "artists": [
+        {
+          "name": "Library Card",
+          "url": "https://open.spotify.com/artist/2PNgtvSYvlo95zq1d5uEiT"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178648,
+      "name": "Out of Context",
+      "url": "https://open.spotify.com/track/5fJTo2ubmucz5Q5A981p3o"
+    },
+    {
+      "album": {
         "name": "Racing Mount Pleasant",
         "url": "https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv"
       },
@@ -6608,6 +6752,24 @@
       "duration_ms": 193910,
       "name": "Peel",
       "url": "https://open.spotify.com/track/0AmeoPjCxl4SoX7YUS69NC"
+    },
+    {
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/3UZ05jaikHRAGlsGwOsn4w"
+      },
+      "artists": [
+        {
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197791,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/5luOK6MRqAI0ZWT7ibbXvl"
     },
     {
       "album": {
@@ -7238,6 +7400,24 @@
       "duration_ms": 263500,
       "name": "Safe Room",
       "url": "https://open.spotify.com/track/23p21Dgy3zEXNbcWRlBMZl"
+    },
+    {
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb"
+      },
+      "artists": [
+        {
+          "name": "Swapmeet",
+          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204202,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL"
     },
     {
       "album": {
@@ -8833,6 +9013,24 @@
     },
     {
       "album": {
+        "name": "The Standard Model / I Watched You as Your Mind Slipped Far (Away from Me)",
+        "url": "https://open.spotify.com/album/15ZXKA3K33WXyYMU87DcxI"
+      },
+      "artists": [
+        {
+          "name": "MORN",
+          "url": "https://open.spotify.com/artist/0kyIsGsq7em6p0dOUwOAI3"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216800,
+      "name": "The Standard Model",
+      "url": "https://open.spotify.com/track/7BPVpfnypd2ivsSiyoZpzC"
+    },
+    {
+      "album": {
         "name": "The View From Your Room",
         "url": "https://open.spotify.com/album/75z3cXY8WYibWTxiyhLV0d"
       },
@@ -9060,7 +9258,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 240482,
       "name": "to earth will you tell me when we land",
       "url": "https://open.spotify.com/track/1tTycAzC9CoC3ODkT6kE81"

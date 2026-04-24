@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
+    },
+    {
+      "album": {
         "name": "Boys Like You (Acoustic)",
         "url": "https://open.spotify.com/album/5vFQw6vOWYH9SaYVbSY9to"
       },
@@ -5287,6 +5305,24 @@
     },
     {
       "album": {
+        "name": "a couple minutes out",
+        "url": "https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206022,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh"
+    },
+    {
+      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
       },
@@ -6650,6 +6686,24 @@
       "duration_ms": 211706,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/0J1P4EF3LvP3br9u9CjsxJ"
+    },
+    {
+      "album": {
+        "name": "Yeah (I'm In)",
+        "url": "https://open.spotify.com/album/01mmpZcpevMIwwpsF9VIZg"
+      },
+      "artists": [
+        {
+          "name": "Noonzy",
+          "url": "https://open.spotify.com/artist/6dfDwONzmFyAlH27BUuiqJ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176738,
+      "name": "Yeah (I'm In)",
+      "url": "https://open.spotify.com/track/5N8u8lYzT4DbFF6OdRsecH"
     },
     {
       "album": {

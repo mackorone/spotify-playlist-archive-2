@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-463 songs - 1 day 3 hr 23 min
+464 songs - 1 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,7 +356,7 @@
 | [Sete](https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/6WaNGIAh8MhT4IkqvAhfec) | 3:29 | 2022-08-26 | 2024-04-19 |
 | [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-08-26 | 2023-02-26 |
 | [Sex & The City \- MK Remix](https://open.spotify.com/track/3DtxjODCIa3IsMYlIpmbWt) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Sex & The City \(MK Remix\)](https://open.spotify.com/album/0wN4OH4Vp79ziKQS8mRX5e) | 3:07 | 2023-05-19 | 2025-04-18 |
-| [Sexy](https://open.spotify.com/track/5AHCTrPI8AL2jjBcyOdIhK) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Sexy](https://open.spotify.com/album/2YZJWEowEOfEshYbrHumi1) | 2:16 | 2025-06-26 |  |
+| [Sexy](https://open.spotify.com/track/5AHCTrPI8AL2jjBcyOdIhK) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Sexy](https://open.spotify.com/album/2YZJWEowEOfEshYbrHumi1) | 2:16 | 2025-06-26 | 2026-04-24 |
 | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-06-02 | 2024-04-20 |
 | [Shake Body](https://open.spotify.com/track/1cBGFuYOmBFvl8gvWenZLR) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Shake Body](https://open.spotify.com/album/0fLeleRD32oW4nq1uLwUt8) | 3:11 | 2024-09-18 | 2024-12-15 |
 | [Shake My Booty](https://open.spotify.com/track/3IBB4CapSuRZRcG4Hw9rve) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Shake My Booty](https://open.spotify.com/album/1GZQmpFcCXz8rVVNmMQpSi) | 3:22 | 2022-08-26 | 2023-03-31 |
@@ -401,6 +401,7 @@
 | [Talamanca \- Carl Cox Remix](https://open.spotify.com/track/4aFUd8Kilk401OLNMugJDg) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Talamanca \(Carl Cox Remix\)](https://open.spotify.com/album/4UWvyZcVY2xOzXoWOetaSA) | 4:35 | 2024-04-19 | 2025-04-18 |
 | [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 | 2022-08-26 | 2024-04-20 |
 | [Talk To Me](https://open.spotify.com/track/3C36l5eSjFMaziG7buBbQK) | [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB) | [Talk To Me](https://open.spotify.com/album/3URwEJGF4PEt0wjxudHoCS) | 2:24 | 2025-04-17 | 2025-05-21 |
+| [Talking Nonsense](https://open.spotify.com/track/0UzqPZC6D8DAuuX11XPRwV) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [Talking Nonsense](https://open.spotify.com/album/4kzIIARfEc7NdB7U0evxBy) | 5:39 | 2026-04-10 |  |
 | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg) | 2:23 | 2022-08-26 | 2024-07-19 |
 | [Tell Me It’s True](https://open.spotify.com/track/6SeM0zpB4jqfB3z7notUGE) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 4:53 | 2024-04-19 | 2024-07-19 |
 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 | 2022-08-26 | 2024-04-20 |

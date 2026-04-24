@@ -705,6 +705,28 @@
     },
     {
       "album": {
+        "name": "Desah\u00f3gate",
+        "url": "https://open.spotify.com/album/2lRg660je3IBftd8DnTgNK"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118588,
+      "name": "Desah\u00f3gate",
+      "url": "https://open.spotify.com/track/1BSB5vq75OxagxoJbjnnjs"
+    },
+    {
+      "album": {
         "name": "Navegando",
         "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
       },

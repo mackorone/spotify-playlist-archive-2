@@ -2527,6 +2527,24 @@
     },
     {
       "album": {
+        "name": "bye<3",
+        "url": "https://open.spotify.com/album/62l6WIYBl2b17KWP3H4qZd"
+      },
+      "artists": [
+        {
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215033,
+      "name": "bye<3",
+      "url": "https://open.spotify.com/track/6LrOegJFrpML859y73HkpS"
+    },
+    {
+      "album": {
         "name": "Cactus Water",
         "url": "https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR"
       },
@@ -2648,6 +2666,28 @@
       "duration_ms": 216603,
       "name": "Can't Get Over You",
       "url": "https://open.spotify.com/track/178ZvO20GAGgrxSDitOaYG"
+    },
+    {
+      "album": {
+        "name": "CANAIMA",
+        "url": "https://open.spotify.com/album/0mwHC4EpVfJ1y2hY7PvfYX"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151967,
+      "name": "CANAIMA",
+      "url": "https://open.spotify.com/track/5QsTUq4tWI0QiVAMNoKDFs"
     },
     {
       "album": {
@@ -5018,7 +5058,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 199477,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U"
@@ -8540,7 +8580,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 221586,
       "name": "I Could Get Used To This",
       "url": "https://open.spotify.com/track/4m9uyukaB0AEC5BKZb5Svw"
@@ -9784,7 +9824,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 145663,
       "name": "Keep Me Satisfied",
       "url": "https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr"
@@ -18383,6 +18423,24 @@
     },
     {
       "album": {
+        "name": "Superbloom",
+        "url": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251200,
+      "name": "Superbloom",
+      "url": "https://open.spotify.com/track/56imCiO83oUJj6z9favCWt"
+    },
+    {
+      "album": {
         "name": "Superman",
         "url": "https://open.spotify.com/album/6TNjfpFlH6GqH8ZIUp7ziV"
       },
@@ -23217,6 +23275,28 @@
     },
     {
       "album": {
+        "name": "MOJACAT",
+        "url": "https://open.spotify.com/album/5zNpZyxG3A0mrLA73E8VQJ"
+      },
+      "artists": [
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        },
+        {
+          "name": "UA",
+          "url": "https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215327,
+      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2 feat. UA",
+      "url": "https://open.spotify.com/track/5XspVlFqxMOrhEW5tNpq4S"
+    },
+    {
+      "album": {
         "name": "\u30e9\u30f3\u30bf\u30f3",
         "url": "https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe"
       },
@@ -24318,7 +24398,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 159000,
       "name": "\u7768\u3081\u3063\u5a18",
       "url": "https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq"

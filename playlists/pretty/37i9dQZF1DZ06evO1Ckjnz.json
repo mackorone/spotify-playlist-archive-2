@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 20129,
+  "num_followers": 20133,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAABQM0QPsFp/wxtQBzKn6qbd",
+  "snapshot_id": "aegPgAAAAAB2sM/GSmLbnTovKoPCHIEQ",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/0d3pSVPhCfuzAJLyMUZYjT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "None Of It",
         "url": "https://open.spotify.com/album/7xeloBzihT4ZCf8knxy73f"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 144000,
       "name": "None Of It",
       "url": "https://open.spotify.com/track/2WCGdTnNiLVbQifzsxL9Qc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/0d3pSVPhCfuzAJLyMUZYjT"
     },
     {
       "added_at": null,
@@ -635,78 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Speed It Up (feat. Rico Nasty)",
-        "url": "https://open.spotify.com/album/3CJJ9CzPOMItOHiVBctGEa"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 143277,
-      "name": "Speed It Up (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/6B0nCPXnBSCUiQTF5IUa05"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LETHAL",
-        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 102386,
-      "name": "GRAVE",
-      "url": "https://open.spotify.com/track/7AIqr8LmpHg1dkbQTcLDIA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LETHAL-ER",
-        "url": "https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 118000,
-      "name": "STUNNA",
-      "url": "https://open.spotify.com/track/13gAKY859qFzAzpxzWsEjO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Money (feat. Flo Milli)",
-        "url": "https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 150652,
-      "name": "Money (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "+/-",
         "url": "https://open.spotify.com/album/76360gDUYhTAsphjiXM9gA"
       },
@@ -736,9 +664,49 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 136120,
-      "name": "ON THE LOW",
-      "url": "https://open.spotify.com/track/4o5bxjpANU9AXdvoBSietM"
+      "duration_ms": 102386,
+      "name": "GRAVE",
+      "url": "https://open.spotify.com/track/7AIqr8LmpHg1dkbQTcLDIA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Speed It Up (feat. Rico Nasty)",
+        "url": "https://open.spotify.com/album/3CJJ9CzPOMItOHiVBctGEa"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 143277,
+      "name": "Speed It Up (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/6B0nCPXnBSCUiQTF5IUa05"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Money (feat. Flo Milli)",
+        "url": "https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 150652,
+      "name": "Money (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
     },
     {
       "added_at": null,
@@ -755,6 +723,38 @@
       "duration_ms": 158663,
       "name": "IPHONE",
       "url": "https://open.spotify.com/track/2dMvqE5MHPH7Ksd5pQqFmL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LETHAL",
+        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 136120,
+      "name": "ON THE LOW",
+      "url": "https://open.spotify.com/track/4o5bxjpANU9AXdvoBSietM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LETHAL-ER",
+        "url": "https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "STUNNA",
+      "url": "https://open.spotify.com/track/13gAKY859qFzAzpxzWsEjO"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Ruinas",
-        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "BKTHERULA",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
-        }
-      ],
-      "duration_ms": 109788,
-      "name": "Vaderz (feat. Bktherula)",
-      "url": "https://open.spotify.com/track/4weoQ8CuXh0X9xvFfWsT6X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jealous (feat. Rico Nasty)",
         "url": "https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 199680,
       "name": "Jealous (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Ruinas",
+        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "BKTHERULA",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        }
+      ],
+      "duration_ms": 109788,
+      "name": "Vaderz (feat. Bktherula)",
+      "url": "https://open.spotify.com/track/4weoQ8CuXh0X9xvFfWsT6X"
     },
     {
       "added_at": null,
@@ -923,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Ruinas",
-        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 201061,
-      "name": "Blow Me",
-      "url": "https://open.spotify.com/track/0nFR1Wu0GKCVpBdQG4RMwm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nightmare Vacation",
         "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 136829,
       "name": "STFU",
       "url": "https://open.spotify.com/track/01793uMHGj38bP3ZtXeeeL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Ruinas",
+        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 201061,
+      "name": "Blow Me",
+      "url": "https://open.spotify.com/track/0nFR1Wu0GKCVpBdQG4RMwm"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 138074,
+  "num_followers": 138084,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAABFNxElXxJgi8udAJas9E1w",
+  "snapshot_id": "aegPgAAAAAAPnJtCaQy7V2CH1fkR5LwT",
   "tracks": [
     {
       "added_at": null,
@@ -683,6 +683,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 265888,
+      "name": "Deserve Me (with Summer Walker)",
+      "url": "https://open.spotify.com/track/0vQffWKfl0JyRqtdoZINEM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Finally Over It",
         "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 267440,
       "name": "Dead (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/3gnBcl5KRYTzIQyCOQug6F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 265888,
-      "name": "Deserve Me (with Summer Walker)",
-      "url": "https://open.spotify.com/track/0vQffWKfl0JyRqtdoZINEM"
     },
     {
       "added_at": null,

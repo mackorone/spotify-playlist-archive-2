@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo beat e rime avvolgenti. Cover: Tony Boy",
+  "description": "Solo beat e rime avvolgenti. Cover: Paky",
   "name": "Mezzanotte Chill Rap",
   "tracks": [
     {
@@ -108,6 +108,24 @@
       "duration_ms": 191280,
       "name": "1 ora d'aria, 1 ora d'ansia (feat. Tony Boy)",
       "url": "https://open.spotify.com/track/1Cx82FHMvNMoug9qldg8yb"
+    },
+    {
+      "album": {
+        "name": "1 quore",
+        "url": "https://open.spotify.com/album/2ihs8kzqc6duDwJQEENriy"
+      },
+      "artists": [
+        {
+          "name": "Quest",
+          "url": "https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176471,
+      "name": "1 quore",
+      "url": "https://open.spotify.com/track/1Ztjs0XzgoDRZE1PwFB7M4"
     },
     {
       "album": {
@@ -7066,6 +7084,28 @@
       "duration_ms": 179210,
       "name": "Tu ed io (feat. thasup, Finesse)",
       "url": "https://open.spotify.com/track/4JFt4pwBLb2Zsy44QRBG88"
+    },
+    {
+      "album": {
+        "name": "Tu mi Fai",
+        "url": "https://open.spotify.com/album/2ZthohZoAlS5pJ0YBQHYcG"
+      },
+      "artists": [
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161657,
+      "name": "Tu mi Fai",
+      "url": "https://open.spotify.com/track/2D3FslngNUdbeynfwSecP0"
     },
     {
       "album": {

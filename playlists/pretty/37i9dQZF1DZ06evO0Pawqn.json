@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 10371,
+  "num_followers": 10374,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAB4hAooTrOINTP6BoBFGPLp",
+  "snapshot_id": "aegPgAAAAADOX8bKVm8s5bWbLK0pwGvW",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns"
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 198520,
-      "name": "MI Amiga,MI Amor",
-      "url": "https://open.spotify.com/track/6OhVAKo5GdXlSiPsZYqCpZ"
+      "duration_ms": 177706,
+      "name": "Dulce Morena",
+      "url": "https://open.spotify.com/track/409X5sXZG9PIbFSD2aic7S"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ"
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 177706,
-      "name": "Dulce Morena",
-      "url": "https://open.spotify.com/track/409X5sXZG9PIbFSD2aic7S"
+      "duration_ms": 198520,
+      "name": "MI Amiga,MI Amor",
+      "url": "https://open.spotify.com/track/6OhVAKo5GdXlSiPsZYqCpZ"
     },
     {
       "added_at": null,

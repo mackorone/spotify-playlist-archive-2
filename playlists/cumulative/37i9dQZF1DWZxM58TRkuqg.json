@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Bernadya",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Keisya Levronka",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "rombak",
+        "url": "https://open.spotify.com/album/3gCYKx8ycJ82m6yDA5eGPu"
+      },
+      "artists": [
+        {
+          "name": "Keisya Levronka",
+          "url": "https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206228,
+      "name": "Aku Bukan Dia",
+      "url": "https://open.spotify.com/track/2gZFehEUKqx2reDVtX1FGh"
+    },
+    {
+      "album": {
         "name": "Aku Bukan Untukmu",
         "url": "https://open.spotify.com/album/0eXUnKcyUFHZnDoBMQM6YD"
       },
@@ -432,6 +450,24 @@
       "duration_ms": 225195,
       "name": "Aku Mengerti (Prologue Version)",
       "url": "https://open.spotify.com/track/3ps6Y7PHQ9rh6HbHnu0IFd"
+    },
+    {
+      "album": {
+        "name": "Aku Minta Maaf",
+        "url": "https://open.spotify.com/album/4QI39QpWAnJsGvSngT53J3"
+      },
+      "artists": [
+        {
+          "name": "Halstage",
+          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259560,
+      "name": "Aku Minta Maaf",
+      "url": "https://open.spotify.com/track/3GxVrNjPSjSW1vIm6plmyK"
     },
     {
       "album": {
@@ -762,6 +798,24 @@
       "duration_ms": 272000,
       "name": "Apanya Dong",
       "url": "https://open.spotify.com/track/4kMvDpPbuOaHznBY9TY1Wo"
+    },
+    {
+      "album": {
+        "name": "april",
+        "url": "https://open.spotify.com/album/22f6AxI0IyIyqd4qiMOKiB"
+      },
+      "artists": [
+        {
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243370,
+      "name": "april",
+      "url": "https://open.spotify.com/track/2zoT19GQEv6XsZsINsMlc9"
     },
     {
       "album": {
@@ -6837,6 +6891,24 @@
     },
     {
       "album": {
+        "name": "iqro'",
+        "url": "https://open.spotify.com/album/3XqIOufqMUKfSTpzuz4ok3"
+      },
+      "artists": [
+        {
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271343,
+      "name": "Menari-nari",
+      "url": "https://open.spotify.com/track/0UZOqGXaMzOSuhgew24neL"
+    },
+    {
+      "album": {
         "name": "Mamiu",
         "url": "https://open.spotify.com/album/2LGwwFntQoPzu17MlS2QvE"
       },
@@ -7350,6 +7422,28 @@
       "duration_ms": 271800,
       "name": "Nada Nada Cinta",
       "url": "https://open.spotify.com/track/6CuuUDWvmwNqeDDrhHXPxP"
+    },
+    {
+      "album": {
+        "name": "Nafas",
+        "url": "https://open.spotify.com/album/1GjbkUaBNpuegmGAr9PpFN"
+      },
+      "artists": [
+        {
+          "name": "Dipha Barus",
+          "url": "https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr"
+        },
+        {
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Nafas",
+      "url": "https://open.spotify.com/track/0HydcejUZ63IGT7ff4Rurs"
     },
     {
       "album": {
@@ -10699,6 +10793,24 @@
     },
     {
       "album": {
+        "name": "Tak Searah",
+        "url": "https://open.spotify.com/album/05bXBasbAt8H28Mw4WkuiH"
+      },
+      "artists": [
+        {
+          "name": "Betrand Putra Onsu",
+          "url": "https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178394,
+      "name": "Tak Searah",
+      "url": "https://open.spotify.com/track/4YORBiimffFDtOa6PFQLkg"
+    },
+    {
+      "album": {
         "name": "Tak Secinta Itu",
         "url": "https://open.spotify.com/album/6l4mo22pd6Mxxq2rViRGOQ"
       },
@@ -11260,6 +11372,24 @@
       "duration_ms": 233004,
       "name": "Terima Kasih",
       "url": "https://open.spotify.com/track/6VvqrT2ptFQjM5aMWAcxSH"
+    },
+    {
+      "album": {
+        "name": "Terima Kasih",
+        "url": "https://open.spotify.com/album/1P5hoqOAFi5vB34J5cTlhS"
+      },
+      "artists": [
+        {
+          "name": "Naura Ayu",
+          "url": "https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205400,
+      "name": "Terima Kasih",
+      "url": "https://open.spotify.com/track/7u62OWKY03qJhdG2Xuty6G"
     },
     {
       "album": {

@@ -5,6 +5,60 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/66dJRbBzcvfug5X4M0K4WF"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/4xznW7HGSngMmCrIeBPgmT"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/66dJRbBzcvfug5X4M0K4WF"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/6K8USOdsYF97ToIjUgq7pt"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/66dJRbBzcvfug5X4M0K4WF"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/7DV8csJMyGQ1jR0g3CzIfP"
+    },
+    {
+      "album": {
         "name": "15 Grandes Exitos - Joan Sebastian",
         "url": "https://open.spotify.com/album/3BUKCyMR8wUcz7ekY5Oxjy"
       },
@@ -154,24 +208,6 @@
       "duration_ms": 158476,
       "name": "Ahora Si Va En Serio",
       "url": "https://open.spotify.com/track/4JN3IkAjaa0J3sPNXsbWWh"
-    },
-    {
-      "album": {
-        "name": "Homenaje A Joan Sebastian",
-        "url": "https://open.spotify.com/album/66dJRbBzcvfug5X4M0K4WF"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "date_added": "2023-04-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 158476,
-      "name": "Ahora Si Va En Serio",
-      "url": "https://open.spotify.com/track/7DV8csJMyGQ1jR0g3CzIfP"
     },
     {
       "album": {
@@ -1329,24 +1365,6 @@
     },
     {
       "album": {
-        "name": "Homenaje A Joan Sebastian",
-        "url": "https://open.spotify.com/album/66dJRbBzcvfug5X4M0K4WF"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "date_added": "2023-04-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 176237,
-      "name": "Hasta Que Amanezca",
-      "url": "https://open.spotify.com/track/4xznW7HGSngMmCrIeBPgmT"
-    },
-    {
-      "album": {
         "name": "Las Rom\u00e1nticas de Cuisillos, Vol. 2",
         "url": "https://open.spotify.com/album/0HyVOgHfsFUl6XFu2ZDXmd"
       },
@@ -2268,24 +2286,6 @@
       "duration_ms": 135964,
       "name": "Ojitos De Golondrina",
       "url": "https://open.spotify.com/track/0Gwv52FGhlkE9P2tLCaCmy"
-    },
-    {
-      "album": {
-        "name": "Homenaje A Joan Sebastian",
-        "url": "https://open.spotify.com/album/66dJRbBzcvfug5X4M0K4WF"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "date_added": "2023-04-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 135964,
-      "name": "Ojitos De Golondrina",
-      "url": "https://open.spotify.com/track/6K8USOdsYF97ToIjUgq7pt"
     },
     {
       "album": {

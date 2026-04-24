@@ -1,12 +1,12 @@
 {
   "description": "This is Def Leppard. The essential tracks, all in one playlist.",
-  "num_followers": 290253,
+  "num_followers": 290261,
   "original_name": "This Is Def Leppard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAABB8slZCMqAfcvGGhfTxVLo",
+  "snapshot_id": "aegPgAAAAABh+GU4MmPHUDbFgV3VntRg",
   "tracks": [
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenalize",
-        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 423016,
-      "name": "White Lightning",
-      "url": "https://open.spotify.com/track/4tcYRfRxsgo7yMEAmSAoB6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adrenalize (Deluxe)",
         "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 255624,
       "name": "Make Love Like A Man",
       "url": "https://open.spotify.com/track/4kmsbka0IvuC1x4GdK3FcH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adrenalize",
+        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 423016,
+      "name": "White Lightning",
+      "url": "https://open.spotify.com/track/4tcYRfRxsgo7yMEAmSAoB6"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenalize",
-        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 243321,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/5Q4M16AsBdGZc31KDm0kU8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On Through The Night",
         "url": "https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 188819,
       "name": "Rock Brigade",
       "url": "https://open.spotify.com/track/3d3xx7YIqxTqizaeL5tDUX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adrenalize",
+        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 243321,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5Q4M16AsBdGZc31KDm0kU8"
     },
     {
       "added_at": null,

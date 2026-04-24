@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 110822,
+  "num_followers": 110914,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAADE8Mm+oqsP+x1Nha3NbefD",
+  "snapshot_id": "aegPgAAAAABoIc3aMHahTUTxGfkMChws",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Younger You (featuring Lainey Wilson) [From the \"Hannah Montana 20th Anniversary Special\"]",
+        "url": "https://open.spotify.com/album/3vClILXGeaZyBu4IqdpDAG"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "Younger You (featuring Lainey Wilson) - From the \"Hannah Montana 20th Anniversary Special\"",
+      "url": "https://open.spotify.com/track/3Gk6bI1kJDkEftel3suQSa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hang Tight Honey",
         "url": "https://open.spotify.com/album/5WyXnepLcbyDzp4qhBZ5f2"
       },
@@ -443,22 +463,6 @@
       "duration_ms": 189786,
       "name": "Hang Tight Honey",
       "url": "https://open.spotify.com/track/6w7OpHp3Y3ByHzmfQXYCRN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "Hold My Halo",
-      "url": "https://open.spotify.com/track/29O197ONSFNzq063eb0869"
     },
     {
       "added_at": null,
@@ -483,22 +487,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Younger You (featuring Lainey Wilson) [From the \"Hannah Montana 20th Anniversary Special\"]",
-        "url": "https://open.spotify.com/album/3vClILXGeaZyBu4IqdpDAG"
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
       },
       "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 167800,
-      "name": "Younger You (featuring Lainey Wilson) - From the \"Hannah Montana 20th Anniversary Special\"",
-      "url": "https://open.spotify.com/track/3Gk6bI1kJDkEftel3suQSa"
+      "duration_ms": 206240,
+      "name": "Hold My Halo",
+      "url": "https://open.spotify.com/track/29O197ONSFNzq063eb0869"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
       "duration_ms": 228323,
       "name": "Play Something Country (with Lainey Wilson)",
       "url": "https://open.spotify.com/track/1Lvj1RFU2bF24KIi0c3Kku"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "Atta Girl",
-      "url": "https://open.spotify.com/track/5yDmKWFlzwTRU4LPyD9MCi"
     },
     {
       "added_at": null,
@@ -575,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "Atta Girl",
+      "url": "https://open.spotify.com/track/5yDmKWFlzwTRU4LPyD9MCi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Two Story House",
         "url": "https://open.spotify.com/album/2UBvZ8c8E5LVMKf6ZZMcfj"
       },
@@ -587,22 +587,6 @@
       "duration_ms": 199986,
       "name": "Two Story House",
       "url": "https://open.spotify.com/track/2poxiFKQTbULSdjWagcb3g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "Hillbilly Hippie",
-      "url": "https://open.spotify.com/track/6LkYprJuqpmKVRvkSG4DnL"
     },
     {
       "added_at": null,
@@ -647,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "Hillbilly Hippie",
+      "url": "https://open.spotify.com/track/6LkYprJuqpmKVRvkSG4DnL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unlocked",
         "url": "https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC"
       },
@@ -663,30 +663,6 @@
       "duration_ms": 179811,
       "name": "Thicc As Thieves (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/75UueUZoKTAcpXlc3EOlYF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wild Woman (Lainey Wilson Version)",
-        "url": "https://open.spotify.com/album/4AXJv2lxOUj6eOyMRxJ2gA"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 212175,
-      "name": "Wild Woman - Lainey Wilson Version",
-      "url": "https://open.spotify.com/track/1Dl7benysRqzPFFynBmYCt"
     },
     {
       "added_at": null,
@@ -727,6 +703,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wild Woman (Lainey Wilson Version)",
+        "url": "https://open.spotify.com/album/4AXJv2lxOUj6eOyMRxJ2gA"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 212175,
+      "name": "Wild Woman - Lainey Wilson Version",
+      "url": "https://open.spotify.com/track/1Dl7benysRqzPFFynBmYCt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
         "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 201653,
       "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
       "url": "https://open.spotify.com/track/5AzFlhzijKM7xFPY5b1taP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lainey Wilson - EP",
+        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 174891,
+      "name": "Microphone",
+      "url": "https://open.spotify.com/track/6cueuTpOgXVUWd5dPkNGU8"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lainey Wilson - EP",
-        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 174891,
-      "name": "Microphone",
-      "url": "https://open.spotify.com/track/6cueuTpOgXVUWd5dPkNGU8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whirlwind (Deluxe)",
         "url": "https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Workin' Overtime",
-        "url": "https://open.spotify.com/album/7lSO4tNS7QRbsJXY8PAq7O"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 197685,
-      "name": "Workin' Overtime",
-      "url": "https://open.spotify.com/track/7moCajI0QyQ4mHf1ayiihD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lainey Wilson - EP",
         "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 157200,
       "name": "Middle Finger",
       "url": "https://open.spotify.com/track/5dTHvmgkPqjYk8aW6LxZos"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Workin' Overtime",
+        "url": "https://open.spotify.com/album/7lSO4tNS7QRbsJXY8PAq7O"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 197685,
+      "name": "Workin' Overtime",
+      "url": "https://open.spotify.com/track/7moCajI0QyQ4mHf1ayiihD"
     },
     {
       "added_at": null,

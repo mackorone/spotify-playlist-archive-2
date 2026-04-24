@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[𝓁𝒾𝒶¹²](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,259 songs - 3 day 0 hr 8 min
+[𝓁𝒾𝒶¹²](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,260 songs - 3 day 0 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1267,5 +1267,6 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1257 | [Hard Times](https://open.spotify.com/track/7JPmhsHbjaDGmTCKBZxVVU) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 5:03 |
 | 1258 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 |
 | 1259 | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B) | 3:33 |
+| 1260 | [I CONDEMN](https://open.spotify.com/track/4JIC9Y4gNwefZ9UiCnZCvT) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I CONDEMN](https://open.spotify.com/album/3GGPWismNDtBFF8EJxoiFI) | 2:22 |
 
-Snapshot ID: `AAAISVuRW8D22BPz0Nbb0QkJXm6k6DWr`
+Snapshot ID: `AAAISic8sT3vipr5Dm4zNc2Ptyzi0zQm`

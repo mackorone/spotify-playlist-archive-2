@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,782 likes - 73 songs - 4 hr 55 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,787 likes - 81 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,5 +81,13 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 71 | [A Million Miles Away](https://open.spotify.com/track/4rU2hKYGURP7h18SYQ0Nzf) | [Whisky Sugar](https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6) | [A Million Miles Away](https://open.spotify.com/album/5NNokKgXWExS1Pu54fIJ6G) | 7:12 |
 | 72 | [Waltz of the Ghosts \- New Mix 2026](https://open.spotify.com/track/7fGRrfantyLYbQu1BeebhP) | [The Insomnia Night](https://open.spotify.com/artist/1kf6je9RrHLLxg5ocFLVbD) | [Waltz of the Ghosts \(New Mix 2026\)](https://open.spotify.com/album/4VC8SAbA8EtjUzNfqPfnpm) | 6:09 |
 | 73 | [GO, ASPES, GO!](https://open.spotify.com/track/1mpuTkfVafb22RRsbyVYqm) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [GO, ASPES, GO!](https://open.spotify.com/album/5v5VtoURQd0LyfEumtJwW9) | 2:13 |
+| 74 | [Monsters](https://open.spotify.com/track/70VhhKKdIEEudf6DQV6U5v) | [Mister Co.](https://open.spotify.com/artist/4OKRsuISYqu54looIiF1qw), [Mason Jay](https://open.spotify.com/artist/1Zw5coqD6AmGDFp5eLW6Cl), [Tahlia Eve](https://open.spotify.com/artist/3TqT9LO38ojg10swNydIDi) | [Monsters](https://open.spotify.com/album/7h72tlOVHXBapt15VlpvXn) | 4:49 |
+| 75 | [Addressed To Me](https://open.spotify.com/track/65fzBanf8FMM5NIbmPfWLe) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Addressed To Me](https://open.spotify.com/album/3i69gB3JO3RUfKcTiLxdV6) | 3:47 |
+| 76 | [Dans l'ombre des heures](https://open.spotify.com/track/6siro0UcA1DAOiHGxpMYCb) | [Zaré](https://open.spotify.com/artist/7bSj4WmjeZYWoUnRSG8yz1) | [Dans l'ombre des heures](https://open.spotify.com/album/69LAwjnFepT1M6CKhXd4KK) | 2:52 |
+| 77 | [Bad Omens](https://open.spotify.com/track/6avpcNvUmrYvdX0egVyjeU) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [Bad Omens](https://open.spotify.com/album/0uIbKWU808kXMrY9KJLRSD) | 3:53 |
+| 78 | [Bitch \- Live](https://open.spotify.com/track/2u5Kvn12kWyOzL9D6aWXRb) | [The Jay Howie Trio](https://open.spotify.com/artist/3oxYJ2fyfQDUvmf4N3bCkh), [Jay Howie](https://open.spotify.com/artist/3eeXaYeN8szJWw3ziUOWdD) | [Live in Halls Gap](https://open.spotify.com/album/7bZM8wuUwI8adikXR78mrW) | 3:07 |
+| 79 | [Big Momma's Door](https://open.spotify.com/track/7E1RuXLuvhrfr42uvYe3lj) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [The Way We Roll](https://open.spotify.com/album/1QkiIps2aHo0aqkw3xWukw) | 5:13 |
+| 80 | [Efimero Amor](https://open.spotify.com/track/6Ms8BHznJ328BEW4hGPEo1) | [Kort Funes](https://open.spotify.com/artist/5C5AL8ee4M0UzxPxjK1oLQ) | [Efimero Amor](https://open.spotify.com/album/1CGTRd3Gm6f8d5tQTqcvtR) | 4:44 |
+| 81 | [Trainliner \- Sweet Country](https://open.spotify.com/track/423mrCTB07MUDpNAnGrjx7) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:39 |
 
-Snapshot ID: `AAALHDGw3Sp5iXmCMZTZrfqxYrPjbAq7`
+Snapshot ID: `AAALJEtKj+jOtDfL83uvQT13YX9OOH8Q`

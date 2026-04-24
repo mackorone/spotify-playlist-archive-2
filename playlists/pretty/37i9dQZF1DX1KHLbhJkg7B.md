@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique covers by your favorite country artists\. Cover: Gavin Adcock
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,017 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,026 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 75 | [Jersey Giant](https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Jersey Giant](https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO) | 4:26 |
 | 76 | [John Deere Green](https://open.spotify.com/track/2yZ8YizgareeDNcqI3NbAH) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [HIXTAPE: Vol 3: DIFFTAPE \(Small Batch\)](https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy) | 4:27 |
 | 77 | [Dammit](https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Dammit](https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU) | 3:19 |
-| 78 | [Whoever's in New England](https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Whoever's In New England](https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4) | 3:46 |
-| 79 | [Wild And Blue](https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Wild And Blue](https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo) | 3:06 |
+| 78 | [Wild And Blue](https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Wild And Blue](https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo) | 3:06 |
+| 79 | [Whoever's in New England](https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Whoever's In New England](https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4) | 3:46 |
 | 80 | [Changes](https://open.spotify.com/track/7gwGD2p8hy7Rphsx6n9NTL) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Changes](https://open.spotify.com/album/4OMQzJZkwj82nPQ5FqZr0f) | 5:29 |
 | 81 | [There’s Your Trouble \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/track/3XNThMhQwdrRvPax42wzKQ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [There’s Your Trouble \- Spotify Singles](https://open.spotify.com/album/3mdDFYUab8j947TvSXLeMC) | 3:11 |
 | 82 | [I Told You So](https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:19 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 88 | [Much Too Young \(To Feel This Damn Old\)](https://open.spotify.com/track/31XLwwMjxFRQ6CpvCkGYc5) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV), [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Much Too Young \(To Feel This Damn Old\)](https://open.spotify.com/album/0QD8L2AaVBlUtuWB7SYPga) | 2:53 |
 | 89 | [Someone Like You \(with The Travelin' McCourys & Sierra Ferrell\)](https://open.spotify.com/track/0FzCkQZyXg3RAVe8hF3TbA) | [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Someone Like You \(with The Travelin' McCourys & Sierra Ferrell\)](https://open.spotify.com/album/6sAcLktZfPlaSfI6asWalH) | 5:01 |
 | 90 | [I'm A Ram](https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [I'm A Ram](https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm) | 3:59 |
-| 91 | [Pretty When It's New](https://open.spotify.com/track/1UmPE10DDHeEGxptZ7MzaY) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Pretty When It's New](https://open.spotify.com/album/2yLLtIlTfUOWjYWgElFE1N) | 5:28 |
-| 92 | [If You Want Love](https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [If You Want Love](https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0) | 3:24 |
+| 91 | [If You Want Love](https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [If You Want Love](https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0) | 3:24 |
+| 92 | [Pretty When It's New](https://open.spotify.com/track/1UmPE10DDHeEGxptZ7MzaY) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Pretty When It's New](https://open.spotify.com/album/2yLLtIlTfUOWjYWgElFE1N) | 5:28 |
 | 93 | [Eastside](https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Eastside](https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k) | 2:47 |
 | 94 | [You're Still The One](https://open.spotify.com/track/2krzZT5Sk5268fKCalESbe) | [Ryan Waters Band](https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi) | [You're Still The One](https://open.spotify.com/album/7eDDPso1MhI1Uc4SsbLVnD) | 3:15 |
 | 95 | [3 Am](https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [15 Years, the Wild Ride](https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW) | 4:32 |

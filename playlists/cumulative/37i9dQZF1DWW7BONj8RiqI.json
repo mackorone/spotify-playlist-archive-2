@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
+  "description": "The Soca hits we all love from back then til right now. Cover: Voice",
   "name": "Massive Soca Hits",
   "tracks": [
     {
@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 138897,
       "name": "Dansa",
       "url": "https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6"
@@ -1881,6 +1881,28 @@
     },
     {
       "album": {
+        "name": "Doux Doux Darlin",
+        "url": "https://open.spotify.com/album/2UKUrjsnHJx0B4V4Po68sM"
+      },
+      "artists": [
+        {
+          "name": "Christo",
+          "url": "https://open.spotify.com/artist/0KnjqOM3FNDO3SUSKWRDLj"
+        },
+        {
+          "name": "AdvoKit",
+          "url": "https://open.spotify.com/artist/1iCwskOTDRHaM4NgMM0KVf"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192601,
+      "name": "Doux Doux Darlin",
+      "url": "https://open.spotify.com/track/77efykPXrKPWQUVN7CTvPa"
+    },
+    {
+      "album": {
         "name": "Down Dey",
         "url": "https://open.spotify.com/album/246WFT6xDiyEoqaAy7YH8F"
       },
@@ -1948,7 +1970,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 173124,
       "name": "Down Dey - Refix",
       "url": "https://open.spotify.com/track/6ergIagYJbc09n51JHK3y1"
@@ -2842,7 +2864,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 200769,
       "name": "Good Spirits",
       "url": "https://open.spotify.com/track/4d5wU16s66y4En0zB56MWS"
@@ -3557,6 +3579,24 @@
     },
     {
       "album": {
+        "name": "Inch by Inch",
+        "url": "https://open.spotify.com/album/7iP5idqSBn2LgjslsqXYgy"
+      },
+      "artists": [
+        {
+          "name": "Yung Bredda",
+          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189810,
+      "name": "Inch by Inch",
+      "url": "https://open.spotify.com/track/6VtkZ454trSSjvLLW9QxiU"
+    },
+    {
+      "album": {
         "name": "Instruction 2",
         "url": "https://open.spotify.com/album/0DaEvN8WyTxy74wNvZZFpe"
       },
@@ -3860,6 +3900,24 @@
       "duration_ms": 151588,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/0MaI2ZRUC1atONjvt5Jr6T"
+    },
+    {
+      "album": {
+        "name": "Last Train",
+        "url": "https://open.spotify.com/album/0yFAOpoi7SAzwDmx3zAEX5"
+      },
+      "artists": [
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217777,
+      "name": "Last Train",
+      "url": "https://open.spotify.com/track/0YWDVOZE0phKo6ZWYJG4kn"
     },
     {
       "album": {
@@ -4585,6 +4643,32 @@
     },
     {
       "album": {
+        "name": "Move Out D Way",
+        "url": "https://open.spotify.com/album/1uRHuI74AGg69bsLhzlV3G"
+      },
+      "artists": [
+        {
+          "name": "Paris Coutain",
+          "url": "https://open.spotify.com/artist/57EGf3uPUy2maRE9G2kpRS"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Move Out D Way",
+      "url": "https://open.spotify.com/track/4XKEKCOyl0aAIuG3n8aD1A"
+    },
+    {
+      "album": {
         "name": "Mr. Fete - Single",
         "url": "https://open.spotify.com/album/5eGmGmPuRrwqkio8StYeBK"
       },
@@ -4824,6 +4908,28 @@
       "duration_ms": 186393,
       "name": "Ola",
       "url": "https://open.spotify.com/track/60pyY398ZW4YAt2onJXy09"
+    },
+    {
+      "album": {
+        "name": "Blockbuster Riddim",
+        "url": "https://open.spotify.com/album/4SJV6OFqadRJCroiyZJ2Rr"
+      },
+      "artists": [
+        {
+          "name": "Full Blown",
+          "url": "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
+        },
+        {
+          "name": "Tano",
+          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197607,
+      "name": "One For The Team",
+      "url": "https://open.spotify.com/track/1hEcR23cJ3K9GRlEPsvavJ"
     },
     {
       "album": {
@@ -5179,6 +5285,24 @@
     },
     {
       "album": {
+        "name": "Money Bounce Riddim",
+        "url": "https://open.spotify.com/album/5qJu0aZcs8YI9iaRp7orQq"
+      },
+      "artists": [
+        {
+          "name": "Nadia Batson",
+          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234337,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/63dsxfAwjhBQ21xlNEeDBx"
+    },
+    {
+      "album": {
         "name": "Plat",
         "url": "https://open.spotify.com/album/7DS6yYLRHHGgXPcyWcDG0j"
       },
@@ -5288,7 +5412,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 166588,
       "name": "Position",
       "url": "https://open.spotify.com/track/5q4NYj1C7JN2SaP6xgbpRT"
@@ -6380,7 +6504,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 188842,
       "name": "Spoil You",
       "url": "https://open.spotify.com/track/1PR6TnBCQncxQPtUC3o0ZE"
@@ -7616,7 +7740,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 188372,
       "name": "Who Drinking Rum?",
       "url": "https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe"

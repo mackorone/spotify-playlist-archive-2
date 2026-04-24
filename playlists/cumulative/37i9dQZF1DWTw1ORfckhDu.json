@@ -349,6 +349,24 @@
     },
     {
       "album": {
+        "name": "444",
+        "url": "https://open.spotify.com/album/0NNUK2fQnIKiHjqL2g87Ud"
+      },
+      "artists": [
+        {
+          "name": "GRIGO",
+          "url": "https://open.spotify.com/artist/4r72HpQFw70wM50M3b0o9F"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179284,
+      "name": "444",
+      "url": "https://open.spotify.com/track/7ry3vlrSmJrd4ezpmRSOFK"
+    },
+    {
+      "album": {
         "name": "5 AM",
         "url": "https://open.spotify.com/album/5mNjJqe9nQmR4LoMa9mGSj"
       },
@@ -2618,7 +2636,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 115834,
       "name": "DD",
       "url": "https://open.spotify.com/track/1bqtP940InJ6mnv1wbIJY0"
@@ -4318,7 +4336,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 158225,
       "name": "Fake Love (feat. Sicario Jr)",
       "url": "https://open.spotify.com/track/5vdl2SUnd7qwE1BSmiNrXc"
@@ -5238,7 +5256,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 131020,
       "name": "HENKIVAKUUS",
       "url": "https://open.spotify.com/track/7cYGCSkNwAJTHdRIMIkeJJ"
@@ -5272,6 +5290,24 @@
       "duration_ms": 232500,
       "name": "Hennessy",
       "url": "https://open.spotify.com/track/0QOBCavteYsPL8QRJYrB68"
+    },
+    {
+      "album": {
+        "name": "HENNY",
+        "url": "https://open.spotify.com/album/37b4KnqnX3Dj64YQwf4pzy"
+      },
+      "artists": [
+        {
+          "name": "M//O",
+          "url": "https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153382,
+      "name": "HENNY",
+      "url": "https://open.spotify.com/track/3woF4U1wkxyrczjGogDxvK"
     },
     {
       "album": {
@@ -7154,7 +7190,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 140583,
       "name": "J\u00e4ttebra (feat. SVANI)",
       "url": "https://open.spotify.com/track/5hRMgkefRQTIlY5xdSGUUd"
@@ -12063,6 +12099,28 @@
     },
     {
       "album": {
+        "name": "MILF",
+        "url": "https://open.spotify.com/album/6ZiSRd9Io1mxoQbVjYXJyX"
+      },
+      "artists": [
+        {
+          "name": "JMNEN",
+          "url": "https://open.spotify.com/artist/3jE6h52fXvhscUCUtgMrst"
+        },
+        {
+          "name": "Jonihey",
+          "url": "https://open.spotify.com/artist/1WtBrJQdsrplnLjCjWzLsf"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136082,
+      "name": "MILF",
+      "url": "https://open.spotify.com/track/6Y6Vw1Eo42FraZVuQoYwXT"
+    },
+    {
+      "album": {
         "name": "MILJON\u00c4\u00c4RI",
         "url": "https://open.spotify.com/album/6nyYCDTAQRDTAOUKlFy8rT"
       },
@@ -16371,6 +16429,28 @@
     },
     {
       "album": {
+        "name": "P\u00e4\u00e4t\u00e4 P\u00e4\u00e4t\u00e4 P\u00e4\u00e4t\u00e4",
+        "url": "https://open.spotify.com/album/35hMM1YOcRj7pLrx5FcUEq"
+      },
+      "artists": [
+        {
+          "name": "Lakko",
+          "url": "https://open.spotify.com/artist/48wDYb8J9emrtnfRJvYEdZ"
+        },
+        {
+          "name": "Herba",
+          "url": "https://open.spotify.com/artist/4ifckgu18HJ94DG43ys4Ae"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193689,
+      "name": "P\u00e4\u00e4t\u00e4 P\u00e4\u00e4t\u00e4 P\u00e4\u00e4t\u00e4",
+      "url": "https://open.spotify.com/track/2svYJOAWAVkCTd9oLu2iOE"
+    },
+    {
+      "album": {
         "name": "P\u00e4\u00e4t\u00f6n hevonen",
         "url": "https://open.spotify.com/album/1iPDNTEwYy1kl2uDigD6bb"
       },
@@ -16830,7 +16910,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 175945,
       "name": "Riehuu rikkoo rakastaa",
       "url": "https://open.spotify.com/track/14OFcRcbrnoacVCFZ2aypL"
@@ -20885,6 +20965,24 @@
     },
     {
       "album": {
+        "name": "Turvasatama",
+        "url": "https://open.spotify.com/album/4oDeKn7NHJTURvQQAsdFX1"
+      },
+      "artists": [
+        {
+          "name": "Diogi",
+          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142301,
+      "name": "Turvasatama",
+      "url": "https://open.spotify.com/track/3a44ANm1GszUeUDe3sDa7k"
+    },
+    {
+      "album": {
         "name": "TURVAT KII",
         "url": "https://open.spotify.com/album/069qbLMU4TU7tUPwo2gXh0"
       },
@@ -20958,6 +21056,28 @@
       "duration_ms": 201459,
       "name": "Tyhj\u00e4",
       "url": "https://open.spotify.com/track/0cDiCLdv3DR0KObUE4L3Zm"
+    },
+    {
+      "album": {
+        "name": "Tyhj\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/3g9WaXyqcuEI89Xvrd2192"
+      },
+      "artists": [
+        {
+          "name": "Axel Kala",
+          "url": "https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD"
+        },
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133301,
+      "name": "Tyhj\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/2LQ34GR8SSdlgqukKC36YH"
     },
     {
       "album": {
@@ -21254,7 +21374,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 145191,
       "name": "t\u00e4\u00e4 ei vaan oo sulle",
       "url": "https://open.spotify.com/track/7EZWQeAyOfpOQGVacA5Xcx"

@@ -985,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Ankhiyan Nigodi",
+        "url": "https://open.spotify.com/album/220OnLhJAzkYLGgDxKwePi"
+      },
+      "artists": [
+        {
+          "name": "Shalini Mamgain",
+          "url": "https://open.spotify.com/artist/1xUBrkqouhUTbiQbFwXUhY"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185462,
+      "name": "Ankhiyan Nigodi",
+      "url": "https://open.spotify.com/track/2gXCEGUg2zmQODJLfAVJmu"
+    },
+    {
+      "album": {
         "name": "Apni Maati",
         "url": "https://open.spotify.com/album/4UdNX6WKekchW7uIGFfszR"
       },
@@ -3382,7 +3400,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 163761,
       "name": "Dil Na Jaane Kyun",
       "url": "https://open.spotify.com/track/7M4GnvGPQmHgCti9m9Juwi"
@@ -7316,6 +7334,24 @@
       "duration_ms": 199591,
       "name": "Kya Hi Hai",
       "url": "https://open.spotify.com/track/29SvIDiQWM8qoGaN0TvXRh"
+    },
+    {
+      "album": {
+        "name": "Kya Jadoo",
+        "url": "https://open.spotify.com/album/7ap8UnewwWe1OS6EO7ButY"
+      },
+      "artists": [
+        {
+          "name": "Arunima Wali",
+          "url": "https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146882,
+      "name": "Kya Jadoo",
+      "url": "https://open.spotify.com/track/5sO4478w8eDvL6xZpZj8wc"
     },
     {
       "album": {
@@ -14672,7 +14708,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 301207,
       "name": "Vaada Hai",
       "url": "https://open.spotify.com/track/5NTdWOWF2UVxOYVoj1KAga"

@@ -1,6 +1,6 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Aldo Trujillo en cover.",
-  "num_followers": 823448,
+  "num_followers": 823496,
   "original_name": "Sierre\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-04-23 00:03:56",
       "album": {
-        "name": "Pasta",
-        "url": "https://open.spotify.com/album/0EOkVu6Sp54EakQ5B0af0P"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 194858,
-      "name": "Pasta",
-      "url": "https://open.spotify.com/track/5m6bsa7qhZXjSDDqwRRfTD"
-    },
-    {
-      "added_at": "2026-04-23 00:03:56",
-      "album": {
         "name": "No Le Aflojo",
         "url": "https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 202875,
       "name": "No Le Aflojo",
       "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
+    },
+    {
+      "added_at": "2026-04-23 00:03:56",
+      "album": {
+        "name": "Pasta",
+        "url": "https://open.spotify.com/album/0EOkVu6Sp54EakQ5B0af0P"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 194858,
+      "name": "Pasta",
+      "url": "https://open.spotify.com/track/5m6bsa7qhZXjSDDqwRRfTD"
     },
     {
       "added_at": "2026-04-23 00:03:56",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-04-23 00:03:56",
       "album": {
-        "name": "Del Barrio Hasta Aqu\u00ed, Vol. 2",
-        "url": "https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 140983,
-      "name": "Me Acostumbre A Lo Bueno",
-      "url": "https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC"
-    },
-    {
-      "added_at": "2026-04-23 00:03:56",
-      "album": {
         "name": "Hombre Afortunado",
         "url": "https://open.spotify.com/album/2ytqh02AFF134GwECr7Q4V"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 202573,
       "name": "Qui\u00e9n Te Entiende",
       "url": "https://open.spotify.com/track/0VYFakqQG8p6yHrqq9TAoY"
+    },
+    {
+      "added_at": "2026-04-23 00:03:56",
+      "album": {
+        "name": "Del Barrio Hasta Aqu\u00ed, Vol. 2",
+        "url": "https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 140983,
+      "name": "Me Acostumbre A Lo Bueno",
+      "url": "https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC"
     },
     {
       "added_at": "2026-04-23 00:03:56",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-04-23 00:03:56",
       "album": {
-        "name": "Si Me Ven",
-        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 174432,
-      "name": "Si Me Ven",
-      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
-    },
-    {
-      "added_at": "2026-04-23 00:03:56",
-      "album": {
         "name": "En Vivo desde El Foro Lizos Music",
         "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 152186,
       "name": "Es Que Me Gustas - En Vivo",
       "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
+    },
+    {
+      "added_at": "2026-04-23 00:03:56",
+      "album": {
+        "name": "Si Me Ven",
+        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 174432,
+      "name": "Si Me Ven",
+      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
     },
     {
       "added_at": "2026-04-23 00:03:56",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-04-23 00:03:56",
       "album": {
-        "name": "CUANDO SE ACABE EL TIEMPO",
-        "url": "https://open.spotify.com/album/6HGYuGJSPyusItg6CnOBM4"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "duration_ms": 212678,
-      "name": "CUANDO SE ACABE EL TIEMPO",
-      "url": "https://open.spotify.com/track/7wHVwHUYy2IPQjele1yTV8"
-    },
-    {
-      "added_at": "2026-04-23 00:03:56",
-      "album": {
         "name": "Aqui Voy",
         "url": "https://open.spotify.com/album/6tQC4IL4LPhYP2iXvgCt6F"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 242232,
       "name": "Aqui Voy",
       "url": "https://open.spotify.com/track/5kJRw7qC03YRRAUo6An5AO"
+    },
+    {
+      "added_at": "2026-04-23 00:03:56",
+      "album": {
+        "name": "CUANDO SE ACABE EL TIEMPO",
+        "url": "https://open.spotify.com/album/6HGYuGJSPyusItg6CnOBM4"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 212678,
+      "name": "CUANDO SE ACABE EL TIEMPO",
+      "url": "https://open.spotify.com/track/7wHVwHUYy2IPQjele1yTV8"
     },
     {
       "added_at": "2026-04-23 00:03:56",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-04-23 00:03:56",
       "album": {
-        "name": "Como Pancho Villa",
-        "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 143661,
-      "name": "Como Pancho Villa",
-      "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
-    },
-    {
-      "added_at": "2026-04-23 00:03:56",
-      "album": {
         "name": "ME PORTO BONITO",
         "url": "https://open.spotify.com/album/24ZfOunWyvWR3mcAEvg8mN"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 182750,
       "name": "ME PORTO BONITO",
       "url": "https://open.spotify.com/track/6utwmYBwLhVwxCGsZEfG0i"
+    },
+    {
+      "added_at": "2026-04-23 00:03:56",
+      "album": {
+        "name": "Como Pancho Villa",
+        "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 143661,
+      "name": "Como Pancho Villa",
+      "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
     },
     {
       "added_at": "2026-04-23 00:03:56",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-04-23 00:03:56",
       "album": {
-        "name": "Pr\u00e9stame Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
-      },
-      "artists": [
-        {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
-        }
-      ],
-      "duration_ms": 182073,
-      "name": "Pr\u00e9stame Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
-    },
-    {
-      "added_at": "2026-04-23 00:03:56",
-      "album": {
         "name": "Brindo",
         "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 185173,
       "name": "Ya Te Supere - En Vivo",
       "url": "https://open.spotify.com/track/788e0doWXCkDlnufoDndcy"
+    },
+    {
+      "added_at": "2026-04-23 00:03:56",
+      "album": {
+        "name": "Pr\u00e9stame Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "duration_ms": 182073,
+      "name": "Pr\u00e9stame Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
     },
     {
       "added_at": "2026-04-23 00:03:56",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2026-04-23 00:03:56",
       "album": {
-        "name": "Uno Mas Uno Igual A Zero",
-        "url": "https://open.spotify.com/album/4Kn4jPceGT1pgHDjMk9WQL"
-      },
-      "artists": [
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 159683,
-      "name": "Uno mas Uno Igual a Zero",
-      "url": "https://open.spotify.com/track/3TrePR8cFXMlMvlLD9lapD"
-    },
-    {
-      "added_at": "2026-04-23 00:03:56",
-      "album": {
         "name": "CADA D\u00cdA TE QUIERO M\u00c1S",
         "url": "https://open.spotify.com/album/1voHWj6Rv8pXCwjmcQ0aTn"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 223125,
       "name": "CADA D\u00cdA TE QUIERO M\u00c1S",
       "url": "https://open.spotify.com/track/3x7uJYGhVAV5KkNqwbMA9L"
+    },
+    {
+      "added_at": "2026-04-23 00:03:56",
+      "album": {
+        "name": "Uno Mas Uno Igual A Zero",
+        "url": "https://open.spotify.com/album/4Kn4jPceGT1pgHDjMk9WQL"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 159683,
+      "name": "Uno mas Uno Igual a Zero",
+      "url": "https://open.spotify.com/track/3TrePR8cFXMlMvlLD9lapD"
     },
     {
       "added_at": "2026-04-23 00:03:56",
@@ -2215,22 +2215,18 @@
     {
       "added_at": "2026-04-23 00:03:56",
       "album": {
-        "name": "Te Vi Con \u00c9l",
-        "url": "https://open.spotify.com/album/54ZF7BXU10BXqefAZYaWUY"
+        "name": "Sano Juicio",
+        "url": "https://open.spotify.com/album/2D4sY79H7laQOO40E5gdmB"
       },
       "artists": [
         {
-          "name": "Juli\u00e1n Mercado",
-          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
         }
       ],
-      "duration_ms": 187536,
-      "name": "Te Vi Con \u00c9l",
-      "url": "https://open.spotify.com/track/3pLvf1cD0QOQ6b8JaU6l4t"
+      "duration_ms": 248770,
+      "name": "Sano Juicio",
+      "url": "https://open.spotify.com/track/2WnVpQbsI4o8T1TOCuk8cl"
     }
   ],
   "unique_name": "Sierre\u00f1o 2026",

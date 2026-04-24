@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 135680,
+  "num_followers": 135689,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAAesi20sviciT0KHjtU0crK",
+  "snapshot_id": "aegPgAAAAAD3eMa2CB+AaiUTerN6GUKD",
   "tracks": [
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venomous Rat Regeneration Vendor",
-        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 273720,
-      "name": "Teenage Nosferatu Pussy",
-      "url": "https://open.spotify.com/track/1WHVjInrsVm6kt9D3Dtgw8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Educated Horses",
         "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 249226,
       "name": "Let It All Bleed Out",
       "url": "https://open.spotify.com/track/2pdD9sxt4WuYADKACM2JYN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Venomous Rat Regeneration Vendor",
+        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 273720,
+      "name": "Teenage Nosferatu Pussy",
+      "url": "https://open.spotify.com/track/1WHVjInrsVm6kt9D3Dtgw8"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venomous Rat Regeneration Vendor",
-        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 236706,
-      "name": "The Girl Who Loved The Monsters",
-      "url": "https://open.spotify.com/track/4rtzNf8AcFARJf7wv6AfyP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Wrong Side of Heaven Volume 1 + 2",
         "url": "https://open.spotify.com/album/2lEUy2FQGa4QchYQRbkN6t"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 217847,
       "name": "Burn MF (feat. Rob Zombie)",
       "url": "https://open.spotify.com/track/1rH3m5jxL3TkznX0owKS39"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Venomous Rat Regeneration Vendor",
+        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 236706,
+      "name": "The Girl Who Loved The Monsters",
+      "url": "https://open.spotify.com/track/4rtzNf8AcFARJf7wv6AfyP"
     },
     {
       "added_at": null,

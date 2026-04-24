@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 547128,
+  "num_followers": 547225,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAB4DqtvCc0nFghXG4CI43Wt",
+  "snapshot_id": "aegPgAAAAAAmgq4lxHFsgstdhZm0tutr",
   "tracks": [
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 223920,
-      "name": "Mirame",
-      "url": "https://open.spotify.com/track/2lxiwqCxyXDxL8xks4aXBu"
+      "duration_ms": 160880,
+      "name": "Cuanto Te Debo",
+      "url": "https://open.spotify.com/track/5YnM1ANB0hhm9Jk2O53Zrl"
     },
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 160880,
-      "name": "Cuanto Te Debo",
-      "url": "https://open.spotify.com/track/5YnM1ANB0hhm9Jk2O53Zrl"
+      "duration_ms": 223920,
+      "name": "Mirame",
+      "url": "https://open.spotify.com/track/2lxiwqCxyXDxL8xks4aXBu"
     },
     {
       "added_at": null,

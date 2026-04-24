@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: As Cristinas",
+  "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Cristinas",
   "name": "Gera\u00e7\u00e3o Sertaneja",
   "tracks": [
     {
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 158885,
       "name": "Choveu",
       "url": "https://open.spotify.com/track/0rmy34atB4k5LOACKtsMJM"
@@ -1670,6 +1670,28 @@
       "duration_ms": 157742,
       "name": "Cora\u00e7\u00e3o Tem Lei",
       "url": "https://open.spotify.com/track/37lVQEks1MubkdoxU1md9d"
+    },
+    {
+      "album": {
+        "name": "Cora\u00e7\u00f5es Ego\u00edstas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5EJ3gqKytGFbpTcCqa2i1d"
+      },
+      "artists": [
+        {
+          "name": "Leandro & Rom\u00e1rio",
+          "url": "https://open.spotify.com/artist/3BwrR3T9qKOrTV42JkJkOk"
+        },
+        {
+          "name": "\u00cdcaro e Gilmar",
+          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200446,
+      "name": "Cora\u00e7\u00f5es Ego\u00edstas - Ao Vivo",
+      "url": "https://open.spotify.com/track/2qkQepMIeGGSJJUMpADU4T"
     },
     {
       "album": {
@@ -2060,7 +2082,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 145535,
       "name": "Depois Nois Melhora",
       "url": "https://open.spotify.com/track/2yU5H3o6QnEfNrqF6USOE5"
@@ -3501,6 +3523,24 @@
     },
     {
       "album": {
+        "name": "Hist\u00f3rico de Trai\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1UQiTjTiE8pUWjyYtophZJ"
+      },
+      "artists": [
+        {
+          "name": "Matheus e Turelli",
+          "url": "https://open.spotify.com/artist/5MPzeoZaH4CcqyHnGrTgjd"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164746,
+      "name": "Hist\u00f3rico de Trai\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/78FtKsMjLYpliAWk6uoSGl"
+    },
+    {
+      "album": {
         "name": "Hoje \u00e0s 10",
         "url": "https://open.spotify.com/album/5rqIbKV9muOMiMZGKCNv8J"
       },
@@ -3872,6 +3912,28 @@
       "duration_ms": 181674,
       "name": "Luz de Velas - Ao Vivo",
       "url": "https://open.spotify.com/track/75KywIpqhZ0cwZJcsvqrjv"
+    },
+    {
+      "album": {
+        "name": "Mais 18",
+        "url": "https://open.spotify.com/album/5LSNuS83GtsRNFOYTsmb6h"
+      },
+      "artists": [
+        {
+          "name": "Jayne Martins",
+          "url": "https://open.spotify.com/artist/4lOuQLXOSijhR3rectatOm"
+        },
+        {
+          "name": "Lucca e Mateus",
+          "url": "https://open.spotify.com/artist/0410LsuDnINVvVPRBE7pOo"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163605,
+      "name": "Mais 18",
+      "url": "https://open.spotify.com/track/2D5BT7DLrPLcz8CCGyvsAF"
     },
     {
       "album": {
@@ -4928,10 +4990,32 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 189379,
       "name": "N\u00e3o \u00e9 s\u00f3 Terminar - Ao Vivo",
       "url": "https://open.spotify.com/track/1Kq2Ujy7r6G8aXw6ZfBrwl"
+    },
+    {
+      "album": {
+        "name": "N\u00famero Chato (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1eHpcJfss839hxB07LtRfu"
+      },
+      "artists": [
+        {
+          "name": "Leo Balbinotti",
+          "url": "https://open.spotify.com/artist/4d6z6mxq6eHpFojPtbYIkx"
+        },
+        {
+          "name": "Danilo e Davi",
+          "url": "https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194459,
+      "name": "N\u00famero Chato - Ao Vivo",
+      "url": "https://open.spotify.com/track/6AOBP3LgN0y8DgqwqD7913"
     },
     {
       "album": {
@@ -5228,7 +5312,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 151049,
       "name": "Parava De Beber - Ao Vivo",
       "url": "https://open.spotify.com/track/2Y3L8NDqMnlXpjJEenRyeW"
@@ -7227,6 +7311,24 @@
     },
     {
       "album": {
+        "name": "Tampa da Silverado",
+        "url": "https://open.spotify.com/album/6KU7uc58KPi2VIXtjY0rxj"
+      },
+      "artists": [
+        {
+          "name": "May e Gabi",
+          "url": "https://open.spotify.com/artist/7Hp5amK5MrJdUFx1r9QrVq"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142558,
+      "name": "Tampa da Silverado",
+      "url": "https://open.spotify.com/track/3AmUBqYceSmsF7wfE3pkDa"
+    },
+    {
+      "album": {
         "name": "Nando Moreno na Cavalgada, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/08fgG5VnLebtUQvFqb8pYQ"
       },
@@ -7372,7 +7474,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 157284,
       "name": "Tequila, Lim\u00e3o e Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/0FmwbvoDjwQsGsujpyUVfw"
@@ -7522,6 +7624,24 @@
       "duration_ms": 140486,
       "name": "Torre de Lata - Ao Vivo",
       "url": "https://open.spotify.com/track/0Ju7RoU09KIcVLiTu99qAZ"
+    },
+    {
+      "album": {
+        "name": "No Rancho, Vol. 01 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01bDZkfxolGLZ2kG18EHK6"
+      },
+      "artists": [
+        {
+          "name": "Ana Karla",
+          "url": "https://open.spotify.com/artist/7mw9XzFeAIy1kpWqdnuRG3"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/5UThpd6uiIEi9cJWmNpKe6"
     },
     {
       "album": {
@@ -7844,7 +7964,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 128059,
       "name": "Vestidinho - Ao Vivo",
       "url": "https://open.spotify.com/track/5kODFBJhzygSg6dyhMW0NR"

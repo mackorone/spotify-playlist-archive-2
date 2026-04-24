@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 30098,
+  "num_followers": 30116,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAAJ5/Z5UJmv9AnPkezmzaAs",
+  "snapshot_id": "aegPgAAAAAAJCyEa8LrHmcvfGtTLRV1T",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo Favorite Trappa Favorite Rappa",
+        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+        }
+      ],
+      "duration_ms": 173806,
+      "name": "Rackies (feat. ATL Jacob)",
+      "url": "https://open.spotify.com/track/0UcuymskcvzMYexnJiVBmd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Sexyy We Trust",
         "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
       },
@@ -459,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Favorite Trappa Favorite Rappa",
-        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "ATL Jacob",
-          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
-        }
-      ],
-      "duration_ms": 173806,
-      "name": "Rackies (feat. ATL Jacob)",
-      "url": "https://open.spotify.com/track/0UcuymskcvzMYexnJiVBmd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hood Hottest Princess (Deluxe)",
         "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
       },
@@ -495,22 +495,6 @@
       "duration_ms": 175125,
       "name": "Hood Rats (with Sukihana)",
       "url": "https://open.spotify.com/track/7iSPXk5AFvZGhfOSQpisSQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "Hellcats SRTs",
-      "url": "https://open.spotify.com/track/1iK1hVN9o1zkpxw396QGbd"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
       "duration_ms": 192676,
       "name": "Motion (feat. Sexyy Red & NaNaski)",
       "url": "https://open.spotify.com/track/5Ryy52nsMyZhYhAxypC2b8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 153666,
+      "name": "Hellcats SRTs",
+      "url": "https://open.spotify.com/track/1iK1hVN9o1zkpxw396QGbd"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo Favorite Trappa Favorite Rappa",
+        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 155317,
+      "name": "David Ruffin",
+      "url": "https://open.spotify.com/track/5qm8RDbGx8l6T87Y9K0Q7y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
         "url": "https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj"
       },
@@ -687,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo Favorite Trappa Favorite Rappa",
+        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "It Bitches",
+      "url": "https://open.spotify.com/track/1QmTZzRri0uhYtXhUiAz06"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bow Bow Bow (F My Baby Daddy Freestyle)",
         "url": "https://open.spotify.com/album/68hjCuAod6dhaeLvNnYS7l"
       },
@@ -727,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Favorite Trappa Favorite Rappa",
-        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 155317,
-      "name": "David Ruffin",
-      "url": "https://open.spotify.com/track/5qm8RDbGx8l6T87Y9K0Q7y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somethin' (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs"
       },
@@ -759,6 +775,22 @@
       "duration_ms": 149245,
       "name": "Somethin' (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Favorite Trappa Favorite Rappa",
+        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 143423,
+      "name": "Richer Than Alla My Opps",
+      "url": "https://open.spotify.com/track/4c5X8bGPA5jbgcNmghr2Ee"
     },
     {
       "added_at": null,
@@ -803,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Favorite Trappa Favorite Rappa",
-        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 169811,
-      "name": "It Bitches",
-      "url": "https://open.spotify.com/track/1QmTZzRri0uhYtXhUiAz06"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/3hnstzTuprnjM56Xm1MRSr"
       },
@@ -839,6 +855,26 @@
       "duration_ms": 174967,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/69uzomsgzj5yG6CztWeC56"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Favorite Trappa Favorite Rappa",
+        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "DJ Holiday",
+          "url": "https://open.spotify.com/artist/6Q4MFlysvdbBeEhoKgAUbY"
+        }
+      ],
+      "duration_ms": 181117,
+      "name": "Her Her Her (feat. DJ Holiday)",
+      "url": "https://open.spotify.com/track/2eRRo7gznC0swKmvyiZRAO"
     },
     {
       "added_at": null,
@@ -887,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Favorite Trappa Favorite Rappa",
-        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 143423,
-      "name": "Richer Than Alla My Opps",
-      "url": "https://open.spotify.com/track/4c5X8bGPA5jbgcNmghr2Ee"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Sexyy We Trust",
         "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
       },
@@ -919,6 +939,22 @@
       "duration_ms": 164002,
       "name": "Sexyy Love Money",
       "url": "https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Favorite Trappa Favorite Rappa",
+        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 117325,
+      "name": "Top Notch",
+      "url": "https://open.spotify.com/track/2IjJlpakhh6HgZ9avNbkl3"
     },
     {
       "added_at": null,
@@ -963,26 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Favorite Trappa Favorite Rappa",
-        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "DJ Holiday",
-          "url": "https://open.spotify.com/artist/6Q4MFlysvdbBeEhoKgAUbY"
-        }
-      ],
-      "duration_ms": 181117,
-      "name": "Her Her Her (feat. DJ Holiday)",
-      "url": "https://open.spotify.com/track/2eRRo7gznC0swKmvyiZRAO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Trust Em",
         "url": "https://open.spotify.com/album/5XcP3WvR8fGJKIVi1QzWwV"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 210102,
       "name": "Don't Trust Em",
       "url": "https://open.spotify.com/track/1eMTwnuRrFNYlVbIjCCkSq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hood Hottest Princess (Deluxe)",
-        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 177902,
-      "name": "Shake Yo Dreads",
-      "url": "https://open.spotify.com/track/3CPu3e1CVKItYWdoCgSXzm"
     }
   ],
   "unique_name": "This Is Sexyy Red",

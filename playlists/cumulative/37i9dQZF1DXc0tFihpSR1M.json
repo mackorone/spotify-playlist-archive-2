@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Olivia Rodrigo",
+  "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: May",
   "name": "Ny Pop (3)",
   "tracks": [
     {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 220779,
       "name": "Almost",
       "url": "https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u"
@@ -808,6 +808,24 @@
       "duration_ms": 178853,
       "name": "Berghain",
       "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
+    },
+    {
+      "album": {
+        "name": "Dancing x Fighting",
+        "url": "https://open.spotify.com/album/46LBWCrmaqTt4wkySpOvih"
+      },
+      "artists": [
+        {
+          "name": "Ida Fiona",
+          "url": "https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168557,
+      "name": "Better Than Me",
+      "url": "https://open.spotify.com/track/2aFTwiRhQf2MuNXnnaSPuC"
     },
     {
       "album": {
@@ -1282,7 +1300,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 184133,
       "name": "Changes",
       "url": "https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM"
@@ -1636,7 +1654,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 134373,
       "name": "De kalder",
       "url": "https://open.spotify.com/track/6HEEUGl2JaPG8llo9YKQzc"
@@ -2060,6 +2078,24 @@
       "duration_ms": 148932,
       "name": "Don\u2019t Click Play",
       "url": "https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ"
+    },
+    {
+      "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231086,
+      "name": "Doors",
+      "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
     },
     {
       "album": {
@@ -3229,6 +3265,28 @@
     },
     {
       "album": {
+        "name": "G\u00e5r videre",
+        "url": "https://open.spotify.com/album/2WhpXPDNfkWgSsUqXlFBID"
+      },
+      "artists": [
+        {
+          "name": "Kl\u00f8verr",
+          "url": "https://open.spotify.com/artist/5qkTrW1lkAENJMZ0QlNUSx"
+        },
+        {
+          "name": "Hkeem",
+          "url": "https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "G\u00e5r videre",
+      "url": "https://open.spotify.com/track/4iekvj8fLwdkua4RSkictW"
+    },
+    {
+      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/2li6aS2EY8t7dLtV53GUaP"
       },
@@ -4031,6 +4089,24 @@
     },
     {
       "album": {
+        "name": "I Feel So Free",
+        "url": "https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303528,
+      "name": "I Feel So Free",
+      "url": "https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk"
+    },
+    {
+      "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
       },
@@ -4798,7 +4874,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 183247,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O"
@@ -5642,7 +5718,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 213000,
       "name": "Metamorphosis",
       "url": "https://open.spotify.com/track/0ceif8GsGZ3C2gjqx3feud"
@@ -5772,7 +5848,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 148292,
       "name": "Mot deg",
       "url": "https://open.spotify.com/track/2EnvKnpV4nYr7WfcN2kfzB"
@@ -5887,6 +5963,24 @@
     },
     {
       "album": {
+        "name": "Neste Stasjon",
+        "url": "https://open.spotify.com/album/2pgbVdXdl68canQtk1rLRw"
+      },
+      "artists": [
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154466,
+      "name": "Neste Stasjon",
+      "url": "https://open.spotify.com/track/77PiddX78Zwf0RThBBmytY"
+    },
+    {
+      "album": {
         "name": "Nesten narkoman",
         "url": "https://open.spotify.com/album/5Xwt2LIrD7s0njAEZvRylz"
       },
@@ -5916,7 +6010,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 172343,
       "name": "never did",
       "url": "https://open.spotify.com/track/3ZSI6HlscZTVy86ToS8HPW"
@@ -6093,6 +6187,24 @@
     },
     {
       "album": {
+        "name": "Not That Serious",
+        "url": "https://open.spotify.com/album/5aWnUZsHsnJsvPUy2jT8XE"
+      },
+      "artists": [
+        {
+          "name": "May",
+          "url": "https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172212,
+      "name": "Not That Serious",
+      "url": "https://open.spotify.com/track/7B6yrPp2vBtm57Q8HM2cyb"
+    },
+    {
+      "album": {
         "name": "Now and Then",
         "url": "https://open.spotify.com/album/63zT7eYEKnsaX434DWA6Up"
       },
@@ -6216,7 +6328,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 221831,
       "name": "Old Phone",
       "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
@@ -6502,6 +6614,24 @@
       "duration_ms": 186800,
       "name": "PLZ",
       "url": "https://open.spotify.com/track/07nJ9f5kZiGA2KfOf1dp8m"
+    },
+    {
+      "album": {
+        "name": "Popcorn",
+        "url": "https://open.spotify.com/album/1FwcAj7ki63yzWNytK1Tf3"
+      },
+      "artists": [
+        {
+          "name": "lille Caesar",
+          "url": "https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179819,
+      "name": "Popcorn",
+      "url": "https://open.spotify.com/track/0zV8lHOu8LmNAmsgtZsWxc"
     },
     {
       "album": {
@@ -8230,6 +8360,24 @@
       "duration_ms": 156779,
       "name": "Te de som elske han",
       "url": "https://open.spotify.com/track/71v24NBD6unbjT9OHVytA9"
+    },
+    {
+      "album": {
+        "name": "te me ses igjen",
+        "url": "https://open.spotify.com/album/0qxpVBb2PTr3dyqFahnQS0"
+      },
+      "artists": [
+        {
+          "name": "Isah",
+          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186199,
+      "name": "te me ses igjen",
+      "url": "https://open.spotify.com/track/0b7gI7vFO2dRCypT3wGtRU"
     },
     {
       "album": {

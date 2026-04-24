@@ -1,6 +1,6 @@
 {
   "description": "Release your inner jock with these badass jams. ",
-  "num_followers": 387894,
+  "num_followers": 387906,
   "original_name": "Jock Jams",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
+        "name": "Trapt",
+        "url": "https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk"
+      },
+      "artists": [
+        {
+          "name": "Trapt",
+          "url": "https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Headstrong",
+      "url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
+    },
+    {
+      "added_at": "2024-07-15 15:51:37",
+      "album": {
         "name": "Oxymoron (Deluxe)",
         "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 299960,
       "name": "Collard Greens",
       "url": "https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ"
-    },
-    {
-      "added_at": "2024-07-15 15:51:37",
-      "album": {
-        "name": "Trapt",
-        "url": "https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk"
-      },
-      "artists": [
-        {
-          "name": "Trapt",
-          "url": "https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Headstrong",
-      "url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
     },
     {
       "added_at": "2024-07-15 15:51:37",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
-        "name": "I Love Rock 'N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "I Love Rock 'N Roll",
-      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
-    },
-    {
-      "added_at": "2024-07-15 15:51:37",
-      "album": {
         "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
         "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 134466,
       "name": "Blitzkrieg Bop - 2016 Remaster",
       "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+    },
+    {
+      "added_at": "2024-07-15 15:51:37",
+      "album": {
+        "name": "I Love Rock 'N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "I Love Rock 'N Roll",
+      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
     },
     {
       "added_at": "2024-07-15 15:51:37",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
-        "name": "Tha Carter III",
-        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 221840,
-      "name": "A Milli",
-      "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
-    },
-    {
-      "added_at": "2024-07-15 15:51:37",
-      "album": {
         "name": "Hell: The Sequel (Deluxe)",
         "url": "https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 249560,
       "name": "Fast Lane",
       "url": "https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig"
+    },
+    {
+      "added_at": "2024-07-15 15:51:37",
+      "album": {
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 221840,
+      "name": "A Milli",
+      "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
     },
     {
       "added_at": "2024-07-15 15:51:37",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
+        "name": "DS2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "Fuck Up Some Commas",
+      "url": "https://open.spotify.com/track/49zD0wr2S3d0lZPib0K4e1"
+    },
+    {
+      "added_at": "2024-07-15 15:51:37",
+      "album": {
         "name": "Blackout!",
         "url": "https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 136093,
       "name": "Da Rockwilder",
       "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
-    },
-    {
-      "added_at": "2024-07-15 15:51:37",
-      "album": {
-        "name": "DS2 (Deluxe)",
-        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 237400,
-      "name": "Fuck Up Some Commas",
-      "url": "https://open.spotify.com/track/49zD0wr2S3d0lZPib0K4e1"
     },
     {
       "added_at": "2024-07-15 15:51:37",

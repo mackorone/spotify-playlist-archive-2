@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Sweden.",
-  "num_followers": 621712,
+  "num_followers": 621699,
   "original_name": "Top 50 - Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MXw5oAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MX2LIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "Somna med Humlan Djojj",
         "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/0j2JcSeuF8ElJTrC8g6493"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
@@ -69,23 +69,7 @@
       "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-    },
-    {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
@@ -105,7 +89,7 @@
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "iloveitiloveitiloveit",
         "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
@@ -121,23 +105,23 @@
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "My System (Acoustic)",
         "url": "https://open.spotify.com/album/4SJkfGs1KQDsfFGbN7LAfZ"
@@ -153,7 +137,23 @@
       "url": "https://open.spotify.com/track/74s87wGi4ZIqgoBPg7fzyj"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "Upp och ner och hit och dit med Babblarna",
         "url": "https://open.spotify.com/album/6P4rV3154g0xVp9vrOyYH1"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/3GygspQIcYy5OnRiw245Qh"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "FEVER DREAM",
         "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "Viva L\u2019Amor",
         "url": "https://open.spotify.com/album/4b0SCc4EWD8oAJmkpo0wr7"
@@ -217,43 +217,7 @@
       "url": "https://open.spotify.com/track/7AfJuBQaZQxmKDofbP73TT"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
-      "album": {
-        "name": "drop dead",
-        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 224998,
-      "name": "drop dead",
-      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
-    },
-    {
-      "added_at": "2026-04-22 17:05:02",
-      "album": {
-        "name": "Dracula (Remix)",
-        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "Dracula - JENNIE Remix",
-      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
-    },
-    {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "Somna med Humlan Djojj",
         "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
@@ -273,7 +237,7 @@
       "url": "https://open.spotify.com/track/5jlAu4lHHVzheutRcbDklk"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "Somna med Humlan Djojj",
         "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
@@ -293,55 +257,27 @@
       "url": "https://open.spotify.com/track/401N7rbd6MSziVSDVTaQr7"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
-        "name": "White Keys",
-        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 144101,
-      "name": "White Keys",
-      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
-    },
-    {
-      "added_at": "2026-04-22 17:05:02",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/0mYXRQpTGjaLJt1l9MY4ps"
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
-    },
-    {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "Sov med Humlan Djojj",
         "url": "https://open.spotify.com/album/6K3aPGyRCE1EgmcTyftjxu"
@@ -361,23 +297,55 @@
       "url": "https://open.spotify.com/track/6F0EAXG5D1iFZU57wfa0Ys"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
-        "name": "Rakt in i elden",
-        "url": "https://open.spotify.com/album/6XuydZFqxMp82Yusswe9sl"
+        "name": "White Keys",
+        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
       },
       "artists": [
         {
-          "name": "Brandsta City Sl\u00e4ckers",
-          "url": "https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l"
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Rakt in i elden",
-      "url": "https://open.spotify.com/track/65xzEd5KnACVqZ6sDHMEuw"
+      "duration_ms": 144101,
+      "name": "White Keys",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
+      "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
+    {
+      "added_at": "2026-04-23 15:11:52",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
+    },
+    {
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -397,7 +365,23 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/0mYXRQpTGjaLJt1l9MY4ps"
+    },
+    {
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "Homewrecker",
         "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
@@ -413,47 +397,23 @@
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
-        "name": "Fel p\u00e5 dig",
-        "url": "https://open.spotify.com/album/4dVOq4Bs0pF1VqnQZcEUiA"
+        "name": "Rakt in i elden",
+        "url": "https://open.spotify.com/album/6XuydZFqxMp82Yusswe9sl"
       },
       "artists": [
         {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
-        },
-        {
-          "name": "Dante",
-          "url": "https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5"
+          "name": "Brandsta City Sl\u00e4ckers",
+          "url": "https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l"
         }
       ],
-      "duration_ms": 154117,
-      "name": "Fel p\u00e5 dig",
-      "url": "https://open.spotify.com/track/4UGJVXMoSyTUl61OdVJ3N0"
+      "duration_ms": 177000,
+      "name": "Rakt in i elden",
+      "url": "https://open.spotify.com/track/65xzEd5KnACVqZ6sDHMEuw"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
-      "album": {
-        "name": "Eenie Meenie EP",
-        "url": "https://open.spotify.com/album/6DOZI2LfBRYHRhZV21LrOu"
-      },
-      "artists": [
-        {
-          "name": "Sean Kingston",
-          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "Eenie Meenie - Radio Version",
-      "url": "https://open.spotify.com/track/4Yaw2PmyOETOnEM3TCf98I"
-    },
-    {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "THIS MUSIC MAY CONTAIN HOPE.",
         "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
@@ -469,7 +429,7 @@
       "url": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "Somna med Humlan Djojj",
         "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
@@ -489,39 +449,47 @@
       "url": "https://open.spotify.com/track/7qLwjBWh3M2JLFlEokIjUP"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
-        "name": "K\u00e4rlek & brott",
-        "url": "https://open.spotify.com/album/4EZhLDlDFGcxhNGIgS0kxS"
+        "name": "Fel p\u00e5 dig",
+        "url": "https://open.spotify.com/album/4dVOq4Bs0pF1VqnQZcEUiA"
       },
       "artists": [
         {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        },
+        {
+          "name": "Dante",
+          "url": "https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5"
         }
       ],
-      "duration_ms": 126000,
-      "name": "K\u00e4rlek & brott",
-      "url": "https://open.spotify.com/track/0jZIXTGOxUkKvk0wwzabKI"
+      "duration_ms": 154117,
+      "name": "Fel p\u00e5 dig",
+      "url": "https://open.spotify.com/track/4UGJVXMoSyTUl61OdVJ3N0"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+        "name": "Eenie Meenie EP",
+        "url": "https://open.spotify.com/album/6DOZI2LfBRYHRhZV21LrOu"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Sean Kingston",
+          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+      "duration_ms": 201973,
+      "name": "Eenie Meenie - Radio Version",
+      "url": "https://open.spotify.com/track/4Yaw2PmyOETOnEM3TCf98I"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "Livet kommer d\u00f6da oss, vi lever det \u00e4nd\u00e5",
         "url": "https://open.spotify.com/album/0Go4LuZjdNYuwmyT7S3VlO"
@@ -537,59 +505,39 @@
       "url": "https://open.spotify.com/track/63kBt6KKF2qGoPwhNXdZnv"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
-        "name": "Delulu",
-        "url": "https://open.spotify.com/album/3ftcsAGyeSOi1orDQVZPDc"
+        "name": "K\u00e4rlek & brott",
+        "url": "https://open.spotify.com/album/4EZhLDlDFGcxhNGIgS0kxS"
       },
       "artists": [
         {
-          "name": "Lilla Al-Fadji",
-          "url": "https://open.spotify.com/artist/2R4c3b62zoVN4269pxHJWU"
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
         }
       ],
-      "duration_ms": 173721,
-      "name": "Delulu",
-      "url": "https://open.spotify.com/track/30xAneAHxuzOE7MPZ1mssU"
+      "duration_ms": 126000,
+      "name": "K\u00e4rlek & brott",
+      "url": "https://open.spotify.com/track/0jZIXTGOxUkKvk0wwzabKI"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 233720,
-      "name": "Love Yourself",
-      "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
-      "album": {
-        "name": "My Worlds (International Version)",
-        "url": "https://open.spotify.com/album/0ALfQaGYSvcRNV5OLbixA3"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 213973,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/0VNDOpBbUYtSpCFY7HUA3D"
-    },
-    {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
@@ -605,23 +553,39 @@
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
-        "name": "Handen i fickan fast jag bryr mig",
-        "url": "https://open.spotify.com/album/6FDDd5kzWGXVm1qbKRGqEg"
+        "name": "Delulu",
+        "url": "https://open.spotify.com/album/3ftcsAGyeSOi1orDQVZPDc"
       },
       "artists": [
         {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+          "name": "Lilla Al-Fadji",
+          "url": "https://open.spotify.com/artist/2R4c3b62zoVN4269pxHJWU"
         }
       ],
-      "duration_ms": 189680,
-      "name": "Tr\u00e4dg\u00e5rden en fredag",
-      "url": "https://open.spotify.com/track/1oFoY6INRnHIpHY6ssPxBm"
+      "duration_ms": 173721,
+      "name": "Delulu",
+      "url": "https://open.spotify.com/track/30xAneAHxuzOE7MPZ1mssU"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
+    },
+    {
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "Somna med Humlan Djojj",
         "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
@@ -641,7 +605,23 @@
       "url": "https://open.spotify.com/track/5MxHurfskrN1RvkKez2ofd"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "Tusen sp\u00e4nn",
         "url": "https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL"
@@ -661,59 +641,55 @@
       "url": "https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
         }
       ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+        "name": "Handen i fickan fast jag bryr mig",
+        "url": "https://open.spotify.com/album/6FDDd5kzWGXVm1qbKRGqEg"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
         }
       ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
+      "duration_ms": 189680,
+      "name": "Tr\u00e4dg\u00e5rden en fredag",
+      "url": "https://open.spotify.com/track/1oFoY6INRnHIpHY6ssPxBm"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
-        "name": "Journals",
-        "url": "https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA"
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 248133,
-      "name": "Confident",
-      "url": "https://open.spotify.com/track/3JsydWaf2Ev4ehaLUjj3SY"
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "Superlim & silvertejp",
         "url": "https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm"
@@ -733,7 +709,23 @@
       "url": "https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
+      "album": {
+        "name": "Infruset",
+        "url": "https://open.spotify.com/album/6jhxK856780OlBlvzsYude"
+      },
+      "artists": [
+        {
+          "name": "Mando Diao",
+          "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND"
+        }
+      ],
+      "duration_ms": 249573,
+      "name": "Str\u00f6vt\u00e5g i hembygden",
+      "url": "https://open.spotify.com/track/7KOegFQMd13ETQry4A6Tu1"
+    },
+    {
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "95",
         "url": "https://open.spotify.com/album/4NkP7NAalf7pM8rtG1u6H4"
@@ -749,7 +741,27 @@
       "url": "https://open.spotify.com/track/2XajET1AbW1AYBgTVJvDo3"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
+      "album": {
+        "name": "Journals",
+        "url": "https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Confident",
+      "url": "https://open.spotify.com/track/3JsydWaf2Ev4ehaLUjj3SY"
+    },
+    {
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "(When You Gonna) Give It Up to Me",
         "url": "https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3"
@@ -769,71 +781,59 @@
       "url": "https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
-        "name": "Satan i gatan (Bonus Version)",
-        "url": "https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 212453,
-      "name": "V\u00e4lkommen in",
-      "url": "https://open.spotify.com/track/5MEuFY2DxrozPEgGpR8Fji"
-    },
-    {
-      "added_at": "2026-04-22 17:05:02",
-      "album": {
-        "name": "Och vinnaren \u00e4r...",
-        "url": "https://open.spotify.com/album/7K3z58HrZ2RJR2j82xWbsc"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 220520,
-      "name": "17 \u00e5r",
-      "url": "https://open.spotify.com/track/7MzmBmyI9KkyQJaPNLdtUi"
-    },
-    {
-      "added_at": "2026-04-22 17:05:02",
-      "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+        "name": "My Worlds (International Version)",
+        "url": "https://open.spotify.com/album/0ALfQaGYSvcRNV5OLbixA3"
       },
       "artists": [
         {
           "name": "Justin Bieber",
           "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
         }
       ],
-      "duration_ms": 200786,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
+      "duration_ms": 213973,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/0VNDOpBbUYtSpCFY7HUA3D"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
-        "name": "Kan Inte G\u00e5",
-        "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
+        "name": "Tandtr\u00e5d",
+        "url": "https://open.spotify.com/album/3kJ38NKMZpSKvCTyAdmppm"
       },
       "artists": [
         {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
         }
       ],
-      "duration_ms": 146718,
-      "name": "Kan Inte G\u00e5",
-      "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
+      "duration_ms": 242320,
+      "name": "Tandtr\u00e5d",
+      "url": "https://open.spotify.com/track/1K2a8QcaPTDTZ1e4M0s8gQ"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
+      "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
+    },
+    {
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "Mr. Know It All",
         "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
         "name": "Ny\u00e5rsfest",
         "url": "https://open.spotify.com/album/0ta1G1js5DAxfFJ2PFpvvu"
@@ -865,20 +865,20 @@
       "url": "https://open.spotify.com/track/3JMDzxsIAxgfEMvmjOgpRr"
     },
     {
-      "added_at": "2026-04-22 17:05:02",
+      "added_at": "2026-04-23 15:11:52",
       "album": {
-        "name": "Tandtr\u00e5d",
-        "url": "https://open.spotify.com/album/3kJ38NKMZpSKvCTyAdmppm"
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
       "artists": [
         {
-          "name": "Tjuvjakt",
-          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 242320,
-      "name": "Tandtr\u00e5d",
-      "url": "https://open.spotify.com/track/1K2a8QcaPTDTZ1e4M0s8gQ"
+      "duration_ms": 233720,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
     }
   ],
   "unique_name": "Top 50 - Sweden",

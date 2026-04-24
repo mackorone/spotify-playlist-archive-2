@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Global crossovers by Arab artists. Cover: YAZ",
+  "description": "Global crossovers by Arab artists. Cover: Saint Levant",
   "name": "Arab X",
   "tracks": [
     {
@@ -540,6 +540,24 @@
       "duration_ms": 180550,
       "name": "Awake",
       "url": "https://open.spotify.com/track/4hLN4fsuA4E5HyOQM7d5Fo"
+    },
+    {
+      "album": {
+        "name": "AYZANI",
+        "url": "https://open.spotify.com/album/6fEpLvYXIRJCB2aHN3QeQo"
+      },
+      "artists": [
+        {
+          "name": "Bayou",
+          "url": "https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165274,
+      "name": "AYZANI",
+      "url": "https://open.spotify.com/track/65opn1GI1WWZ5j7NJMQuRL"
     },
     {
       "album": {
@@ -1830,7 +1848,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 203231,
       "name": "Everlasting Dance",
       "url": "https://open.spotify.com/track/7w4iy6gupo2mDSPlnvidGv"
@@ -2514,7 +2532,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 182000,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/6kNSoY1EvwNK1O9jBj5KTd"
@@ -3300,7 +3318,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 212368,
       "name": "Illbealright",
       "url": "https://open.spotify.com/track/1hr63UH982HEO8UqlOAZha"
@@ -3616,6 +3634,24 @@
       "duration_ms": 422653,
       "name": "Kalam Ennas",
       "url": "https://open.spotify.com/track/31xnf3zZUIX9w33rIlg9bH"
+    },
+    {
+      "album": {
+        "name": "La Meen",
+        "url": "https://open.spotify.com/album/0NpIJIEXpGdTAr6BW0B2xb"
+      },
+      "artists": [
+        {
+          "name": "Maro",
+          "url": "https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "La Meen",
+      "url": "https://open.spotify.com/track/4LhsN0DW1p2BrpWansbdsy"
     },
     {
       "album": {
@@ -5428,6 +5464,24 @@
       "duration_ms": 194195,
       "name": "ROLLERCOASTER",
       "url": "https://open.spotify.com/track/3QjwfqkglQOeUuyNKiK5oC"
+    },
+    {
+      "album": {
+        "name": "RULES",
+        "url": "https://open.spotify.com/album/34njvyqDdhVg8CvLnJx5GK"
+      },
+      "artists": [
+        {
+          "name": "Felukah",
+          "url": "https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "RULES",
+      "url": "https://open.spotify.com/track/05LtudsqIIZHZaFBPpoXiR"
     },
     {
       "album": {

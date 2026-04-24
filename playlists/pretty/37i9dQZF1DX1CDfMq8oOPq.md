@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > CADÊ O BONDE DO ESCULACHO?? // Ciça
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,859 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,889 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 27 | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt) | 2:10 |
 | 28 | [Umami](https://open.spotify.com/track/0uSI4ZBnEMBdAKDulLPX1b) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [Serena & Venus \(Lado A\)](https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68) | 4:47 |
 | 29 | [Tô de Nave](https://open.spotify.com/track/5qRmRNCQNFe7bVlUXnUy3Z) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Vinex](https://open.spotify.com/artist/3QiKNSMhR18TwE4JRv8yQK) | [Tô de Nave](https://open.spotify.com/album/2DDiIuwuXd6mzgJWNxbhDw) | 3:42 |
-| 30 | [Set Btrem \- As Minas do Rio](https://open.spotify.com/track/1FLx838ihRkUoYGncP31fz) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [taldiBruna](https://open.spotify.com/artist/3snpFKva3dzwybLBYseLP8), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP), [Mahai](https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy) | [Mina Quente](https://open.spotify.com/album/3mZPi8KKKgXTikzueaK10i) | 3:53 |
+| 30 | [Lace](https://open.spotify.com/track/0GX4NMzSBnseCSEqwPzrJu) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Subestimada](https://open.spotify.com/album/6vE1WHyTRdcvJx1IOUGXS9) | 3:44 |
 | 31 | [tropa do espanca sub](https://open.spotify.com/track/3RJJAT1dCpGU2h6ovjSlVS) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Cris SNJ](https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf) | [tropa do espanca sub](https://open.spotify.com/album/0Pmiifu72WdrZcj5LwiB9U) | 2:54 |
-| 32 | [Lace](https://open.spotify.com/track/0GX4NMzSBnseCSEqwPzrJu) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Subestimada](https://open.spotify.com/album/6vE1WHyTRdcvJx1IOUGXS9) | 3:44 |
+| 32 | [Set Btrem \- As Minas do Rio](https://open.spotify.com/track/1FLx838ihRkUoYGncP31fz) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [taldiBruna](https://open.spotify.com/artist/3snpFKva3dzwybLBYseLP8), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP), [Mahai](https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy) | [Mina Quente](https://open.spotify.com/album/3mZPi8KKKgXTikzueaK10i) | 3:53 |
 | 33 | [Amina](https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Amina](https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O) | 3:05 |
 | 34 | [Bonita](https://open.spotify.com/track/4MI74pChD6IazETUmHdAoH) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Vinex](https://open.spotify.com/artist/3QiKNSMhR18TwE4JRv8yQK) | [Soffisticada](https://open.spotify.com/album/2u6XX2uoP8vFrJrmkaAzrt) | 2:30 |
 | 35 | [Setor Norte](https://open.spotify.com/track/0zdTPSdNRsIHL7eYzGtek1) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [O Jogo Virou](https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Taurus](https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [TAURUS/ ÚNICA](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 2:06 |
 | 50 | [TÃOQUENTE](https://open.spotify.com/track/23Z1lShTFinifegJBwhOaz) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [TÃOQUENTE \- No Meu Club](https://open.spotify.com/album/6rBy862OKIVHmQeMStkcUC) | 1:49 |
 
-Snapshot ID: `AAAAAG7FqEqm03acGCybGOP7e9lBfY5Y`
+Snapshot ID: `AAAAAL0RdCHFK4W58q7Zxkf3VzdsWygv`

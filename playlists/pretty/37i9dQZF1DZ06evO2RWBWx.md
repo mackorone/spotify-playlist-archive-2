@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RWBWx.md) - [plain]
 
 > This is imase\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,292 likes - 46 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,295 likes - 46 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RWBWx.md) - [plain]
 | 18 | [僕らだ](https://open.spotify.com/track/4JpBGlsUytujGQohsnqmxb) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [僕らだ](https://open.spotify.com/album/0qXnV13j7XEHdiS8LvcQEV) | 3:18 |
 | 19 | [Happy Order?](https://open.spotify.com/track/4xl4ZDZi9V5ZnWKUJyQzeW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [凡才](https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM) | 3:32 |
 | 20 | [I say bye](https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [I say bye](https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ) | 3:00 |
-| 21 | [渦](https://open.spotify.com/track/5J1xalv6l7lze1AvFeLstR) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [渦](https://open.spotify.com/album/7kYLEXVhvTilbDM67hrBub) | 3:09 |
-| 22 | [惑星ロマンス](https://open.spotify.com/track/53NuLWR6rTIO2IqQ4x1Skx) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [惑星ロマンス](https://open.spotify.com/album/5scniruALOkj4WOg3xDHuR) | 3:37 |
+| 21 | [boy \- feat\. asmi & imase](https://open.spotify.com/track/5ZpYanxEoJRJjfWJORq2Jf) | [KERENMI](https://open.spotify.com/artist/2vieV6ozoaMtYS6QsuScfn), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [boy \(feat\. asmi & imase\)](https://open.spotify.com/album/3hAkBmRP4YFi2wappHJ4ps) | 3:14 |
+| 22 | [渦](https://open.spotify.com/track/5J1xalv6l7lze1AvFeLstR) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [渦](https://open.spotify.com/album/7kYLEXVhvTilbDM67hrBub) | 3:09 |
 | 23 | [BONSAI](https://open.spotify.com/track/4gv9id0HvLVhaQWp4jtfH7) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [凡才](https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM) | 2:08 |
-| 24 | [boy \- feat\. asmi & imase](https://open.spotify.com/track/5ZpYanxEoJRJjfWJORq2Jf) | [KERENMI](https://open.spotify.com/artist/2vieV6ozoaMtYS6QsuScfn), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [boy \(feat\. asmi & imase\)](https://open.spotify.com/album/3hAkBmRP4YFi2wappHJ4ps) | 3:14 |
+| 24 | [惑星ロマンス](https://open.spotify.com/track/53NuLWR6rTIO2IqQ4x1Skx) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [惑星ロマンス](https://open.spotify.com/album/5scniruALOkj4WOg3xDHuR) | 3:37 |
 | 25 | [ミッドナイトガール](https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ミッドナイトガール](https://open.spotify.com/album/6NrSFJtu41DaJPQ6gpjZAw) | 3:22 |
 | 26 | [Soyokaze](https://open.spotify.com/track/7vQK53ZEP7RVS8WQ2EwzNs) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Soyokaze](https://open.spotify.com/album/153YmjTil9pifgOigfs315) | 3:36 |
 | 27 | [文通](https://open.spotify.com/track/7cZswqhGUHmoi7fsjstVQ7) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Wormhole / Yumi AraI](https://open.spotify.com/album/2BJD3fJ7bkUkGlkH0H0Yuv) | 3:52 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RWBWx.md) - [plain]
 | 45 | [Greedy Greedy \- feat.imase](https://open.spotify.com/track/6I3iulO4fB0hbsWV62CeK9) | [KUROMI](https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Greedy Greedy \(feat.imase\)](https://open.spotify.com/album/6rxL4plJ3rWifn4MwpmBR1) | 3:10 |
 | 46 | [いい湯だな 2025 \- imase × mabanua MIX](https://open.spotify.com/track/5kHa1Ag8bUjrdE6siBrW4N) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [いい湯だな 2025 \(imase × mabanua MIX\)](https://open.spotify.com/album/2O5ETs89V5gXynbnNXMd2z) | 3:54 |
 
-Snapshot ID: `aeVsgAAAAACbpMoiE2qprpg2dhUXQ+Cb`
+Snapshot ID: `aegPgAAAAAB36JgdPVBCxs1m40swaRo/`

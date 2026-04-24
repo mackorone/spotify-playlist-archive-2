@@ -4,13 +4,15 @@
 
 > Japanese music duo formed in 2019, consisting of vocalist ikura and producer Ayase\. YOASOBIの楽曲をひとつのプレイリストに。
 
-81 songs - 5 hr 46 min
+90 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [ADRENA](https://open.spotify.com/track/4sI0LiGHJV7Gj7Tw8DsJZF) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 4](https://open.spotify.com/album/2uJ9eFPa3ehM06NSh5IcFm) | 3:07 | 2026-04-23 |  |
 | [Adventure](https://open.spotify.com/track/1Gh9LJf99CIpcr0z8hMIOf) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:19 | 2024-04-11 |  |
 | [Adventure](https://open.spotify.com/track/69O0RdcJkH7eimOTXw41L7) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Adventure](https://open.spotify.com/album/4h9tiuZQB6hXz68dzZED6g) | 3:20 | 2024-02-15 |  |
 | [BABY](https://open.spotify.com/track/7j0fGg4xd1Lo1zPcUDV1T6) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [BABY](https://open.spotify.com/album/2dp6XnYilNlELoSnGzSIdG) | 3:50 | 2026-01-10 |  |
+| [BABY \- English Version](https://open.spotify.com/track/0U6XBIQEyaAkgSTz9XCxVr) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 4](https://open.spotify.com/album/2uJ9eFPa3ehM06NSh5IcFm) | 3:52 | 2026-04-23 |  |
 | [Biri\-Biri](https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Biri\-Biri](https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz) | 3:07 | 2023-11-17 |  |
 | [Biri\-Biri \- English Version](https://open.spotify.com/track/6f8RGfNa1cSk7I04vfFEQp) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:06 | 2024-04-11 |  |
 | [Biri\-Biri \- English Version](https://open.spotify.com/track/1oZ8KYg3WAt9PtBQkWhWBr) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Biri\-Biri](https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz) | 3:07 | 2024-04-11 | 2024-04-13 |
@@ -21,6 +23,7 @@
 | [Haruka](https://open.spotify.com/track/0jFon5RVg19KlwNVnXVX0s) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 4:02 | 2022-11-17 |  |
 | [Haven't](https://open.spotify.com/track/33ALvsldNGJduk3Bqr7VjS) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 4:16 | 2022-11-17 |  |
 | [HEART BEAT](https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [HEART BEAT](https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF) | 5:35 | 2023-12-25 |  |
+| [HEART BEAT \- English Version](https://open.spotify.com/track/2eKl0Rfd8LkU896lqkvBp1) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 4](https://open.spotify.com/album/2uJ9eFPa3ehM06NSh5IcFm) | 5:34 | 2026-04-23 |  |
 | [Idol](https://open.spotify.com/track/6hBPSAsflvq3VVl3O34FfW) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:32 | 2024-04-11 |  |
 | [Idol](https://open.spotify.com/track/1zVsw1SqQKgtzE4aqmE8nE) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Idol](https://open.spotify.com/album/2t5eAUqMwN0Kb2JGTxW2w0) | 3:33 | 2023-05-25 |  |
 | [If I Could Draw Life](https://open.spotify.com/track/5ASNsnnOvreLu9FtvA3jpR) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:22 | 2022-11-17 |  |
@@ -32,11 +35,15 @@
 | [Loving You](https://open.spotify.com/track/7nN7TkxDGH8DeXs2Vy67nv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:37 | 2024-04-11 |  |
 | [manimani](https://open.spotify.com/track/0JXxrmM7bHmpwHczGTjCUm) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 4:16 | 2024-04-11 |  |
 | [Mister](https://open.spotify.com/track/6sHinRfFGZcxeTTdCvxgCG) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:04 | 2024-04-11 |  |
+| [Monotone](https://open.spotify.com/track/4hqaYZL1vi0FBOUfoi1DLg) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 4](https://open.spotify.com/album/2uJ9eFPa3ehM06NSh5IcFm) | 3:30 | 2026-04-23 |  |
 | [Monster](https://open.spotify.com/track/7M9lc2hHXKQobbHQ31Yg2v) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Monster](https://open.spotify.com/album/3GUW4WpvJPXgzsOW1hVifv) | 3:25 | 2022-11-17 |  |
 | [New me](https://open.spotify.com/track/43DrDpSiIZWEiEfsQQHoQi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [New me](https://open.spotify.com/album/0YXJVcVH0uFhYSBc2duxyf) | 3:26 | 2024-11-10 |  |
 | [New me \- English Version](https://open.spotify.com/track/271zNzzoDjTFdoJBVIZ0JN) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [New me \(English Version\)](https://open.spotify.com/album/0j1tTvqx4RK3xwzRocBTJY) | 3:22 | 2025-07-10 |  |
+| [New me \- English Version](https://open.spotify.com/track/7AWkMUqKn6ud8O6Tz8YWnD) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 4](https://open.spotify.com/album/2uJ9eFPa3ehM06NSh5IcFm) | 3:23 | 2026-04-23 |  |
 | [On the Stage](https://open.spotify.com/track/72n66qrnruvdjh2Ndpc86g) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [On the Stage](https://open.spotify.com/album/4qN1V7yOkQxuxw6l0BNwge) | 3:27 | 2024-08-09 |  |
+| [On the Stage](https://open.spotify.com/track/6nGNPI0WfDs9958n7i0c5X) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 4](https://open.spotify.com/album/2uJ9eFPa3ehM06NSh5IcFm) | 3:28 | 2026-04-23 |  |
 | [PLAYERS](https://open.spotify.com/track/30GGgQDoRSBsjck9tMmDDP) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [PLAYERS](https://open.spotify.com/album/6OtUkMrwUzUzhPqvKiRIVe) | 3:21 | 2025-03-20 |  |
+| [PLAYERS \- English Version](https://open.spotify.com/track/0zsPR5FPw60WXokejB9UI8) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 4](https://open.spotify.com/album/2uJ9eFPa3ehM06NSh5IcFm) | 3:21 | 2026-04-23 |  |
 | [RGB](https://open.spotify.com/track/55O5PJor96At64xOQSWnkc) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [RGB](https://open.spotify.com/album/1lFZcTOrL1ZukflkJg9zX2) | 3:42 | 2022-11-17 |  |
 | [Romance](https://open.spotify.com/track/0dSPApaBoWn6SA4GKWq9QK) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd) | 2:46 | 2022-11-17 | 2024-04-19 |
 | [Romance](https://open.spotify.com/track/6Kh3obD8LG4yeXxQDhr6Vr) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 2:46 | 2022-11-17 |  |
@@ -48,7 +55,9 @@
 | [Tracing A Dream](https://open.spotify.com/track/4L9Iuupn2JTSCHSn8uVdD6) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 4:01 | 2022-11-17 |  |
 | [UNDEAD](https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [UNDEAD](https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e) | 3:02 | 2024-06-30 |  |
 | [UNDEAD \- English Version](https://open.spotify.com/track/6OjOhAEAIToQ4VrJxrNvLS) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [UNDEAD \(English Version\)](https://open.spotify.com/album/1Sr8cnhI92bL74ycNIkFO8) | 3:02 | 2025-02-27 |  |
+| [UNDEAD \- English Version](https://open.spotify.com/track/1hXpctb0HC0z28ackYxYVH) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 4](https://open.spotify.com/album/2uJ9eFPa3ehM06NSh5IcFm) | 3:02 | 2026-04-23 |  |
 | [Watch me!](https://open.spotify.com/track/2XlTBc7XOzyunDf3Oqsfpk) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Watch me!](https://open.spotify.com/album/1M2XEzXjHUbVfMVfwMTPYc) | 3:06 | 2025-05-17 |  |
+| [Watch me! \- English Version](https://open.spotify.com/track/7MCzzZbr1oF7COzi7Qi3y8) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 4](https://open.spotify.com/album/2uJ9eFPa3ehM06NSh5IcFm) | 3:05 | 2026-04-23 |  |
 | [YOASOBI THE BOOK 2 Spotify Edition](https://open.spotify.com/episode/0sPNGPetAt5PP9IXKD6Bko) | [YOASOBI THE BOOK 2 Spotify Edition](https://open.spotify.com/show/5SkUpm1BgQpKmWwP5YkfCn) | [YOASOBI THE BOOK 2 Spotify Edition](https://open.spotify.com/show/5SkUpm1BgQpKmWwP5YkfCn) | 1:06:00 | 2022-11-17 | 2023-01-20 |
 | [あの夢をなぞって](https://open.spotify.com/track/4BE1OloRc9xwjyqA4wFFuN) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [あの夢をなぞって](https://open.spotify.com/album/6VtHuuDn351LBXwpxmvZqt) | 4:02 | 2022-11-17 |  |
 | [たぶん](https://open.spotify.com/track/62Lv9WcrfzJqhvYDbilJy3) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [たぶん](https://open.spotify.com/album/2882DYZkYy3UOYyWOvbnnl) | 4:18 | 2022-11-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > ¡Música tropical, cumbia, guasca y de carrilera para recordar y disfrutar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,277 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,272 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,15 +32,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 22 | [Por Tu Maldito Amor](https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1) | 3:56 |
 | 23 | [Mujeres y Despecho](https://open.spotify.com/track/6qF6Nq12QRlFMjS2mP4ziN) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Mujeres y Despecho](https://open.spotify.com/album/0jxQqR3kCi0WXbUElGHM4Z) | 3:00 |
 | 24 | [Me Tragaba Tus Mentiras](https://open.spotify.com/track/0Z2KrRMIL80GrzQUmXsLeu) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [No Hay Porqué Esperar](https://open.spotify.com/album/37ipB2Anm6xNkDUu8nubbX) | 2:56 |
-| 25 | [Muñeco de Vitrina](https://open.spotify.com/track/0PZ81A2LmrXzbjH6wscL3Z) | [Dario Dario](https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG) | [Darío Darío Esclavo de las Mujeres](https://open.spotify.com/album/7y3218iXz2iwxVBMe8Qqcm) | 3:41 |
-| 26 | [Dos Pasajes](https://open.spotify.com/track/471SfF1VL5AjkWXMzYXout) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [15 Éxitos](https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy) | 2:20 |
-| 27 | [Alma de Mujer](https://open.spotify.com/track/75BNaMn4byhntMskKRWxeo) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Reminiscencias](https://open.spotify.com/album/2CqMZ1naORerdin55yWPbP) | 2:26 |
-| 28 | [Que Hablen de Mí](https://open.spotify.com/track/1rIL6nlc53iQmjqkbWtpmY) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Usted Señor](https://open.spotify.com/album/2SpEO8hPD7oex66mFUnngz) | 2:47 |
+| 25 | [Dos Pasajes](https://open.spotify.com/track/471SfF1VL5AjkWXMzYXout) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [15 Éxitos](https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy) | 2:20 |
+| 26 | [Muñeco de Vitrina](https://open.spotify.com/track/0PZ81A2LmrXzbjH6wscL3Z) | [Dario Dario](https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG) | [Darío Darío Esclavo de las Mujeres](https://open.spotify.com/album/7y3218iXz2iwxVBMe8Qqcm) | 3:41 |
+| 27 | [Que Hablen de Mí](https://open.spotify.com/track/1rIL6nlc53iQmjqkbWtpmY) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Usted Señor](https://open.spotify.com/album/2SpEO8hPD7oex66mFUnngz) | 2:47 |
+| 28 | [Alma de Mujer](https://open.spotify.com/track/75BNaMn4byhntMskKRWxeo) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Reminiscencias](https://open.spotify.com/album/2CqMZ1naORerdin55yWPbP) | 2:26 |
 | 29 | [El Camionero](https://open.spotify.com/track/2EfWBfYDonXIXrQWXwYA5O) | [El Gato Negro](https://open.spotify.com/artist/37WhXkqoj8aJT0GFsxRvoq) | [Te Vas a Acordar de Mi](https://open.spotify.com/album/0dXOEFH4cnhtEJXDcsZ2rp) | 3:17 |
 | 30 | [El Preso](https://open.spotify.com/track/5N8HRh3pKXakJrdxQKMi1j) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Narcos, Vol\. 2 \(More Music from the Netflix Original Series\)](https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB) | 4:53 |
 | 31 | [Un Amor Nuevo](https://open.spotify.com/track/6rKmXI301yQOsDaUYpVrYW) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Reina Sin Rey](https://open.spotify.com/album/2fECMt9Lkan8sO5MfGoc49) | 3:01 |
-| 32 | [Amor Indio](https://open.spotify.com/track/43lK3lgzMgjhZjIzqKMaWR) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Coleccion Grandes Figuras](https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe) | 2:36 |
-| 33 | [Pobre y Sincero](https://open.spotify.com/track/1yhED0FBKVrLiOKOCYlkar) | [Olider Montana](https://open.spotify.com/artist/2RtSSs1N2mOsGE6ojLrW49) | [Pobre y Sincero](https://open.spotify.com/album/5a6O3hJLxCLjHASaAbTtdY) | 2:41 |
+| 32 | [Pobre y Sincero](https://open.spotify.com/track/1yhED0FBKVrLiOKOCYlkar) | [Olider Montana](https://open.spotify.com/artist/2RtSSs1N2mOsGE6ojLrW49) | [Pobre y Sincero](https://open.spotify.com/album/5a6O3hJLxCLjHASaAbTtdY) | 2:41 |
+| 33 | [Amor Indio](https://open.spotify.com/track/43lK3lgzMgjhZjIzqKMaWR) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Coleccion Grandes Figuras](https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe) | 2:36 |
 | 34 | [Me Voy para Olvidarte](https://open.spotify.com/track/6XZvZmCuUsWtQDGXJDxy2f) | [El Gato Negro](https://open.spotify.com/artist/37WhXkqoj8aJT0GFsxRvoq) | [Te Vas a Acordar de Mi](https://open.spotify.com/album/0dXOEFH4cnhtEJXDcsZ2rp) | 3:35 |
 | 35 | [Tu Hora Pasó](https://open.spotify.com/track/0CVLRvqGHaG38Mw86QVhuo) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/0QPKuA73byh081OeZVmHxI) | 3:04 |
 | 36 | [El Mujeriego](https://open.spotify.com/track/66hMCXEj9s7yMfMUa0HCEY) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [El Mujeriego](https://open.spotify.com/album/2txJvfyWUlQSjWV6RNtHiv) | 3:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,472,128 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,472,160 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,15 +79,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 69 | [Paciência](https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Lenine In Cité \(Deluxe\)](https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI) | 3:51 |
 | 70 | [Deus Me Proteja](https://open.spotify.com/track/4Ijct6HkKsC9HQVgcnMe7C) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [francisco forró y frevo](https://open.spotify.com/album/08J9fO5TtYRrAO4LkplP8D) | 4:53 |
 | 71 | [Bom\-Senso](https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Racional \(Vol 1\)](https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj) | 5:05 |
-| 72 | [Se Eu Quiser Falar Com Deus](https://open.spotify.com/track/6j7cLMzPmnmlP5f6qQk9Cl) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Se Eu Quiser Falar Com Deus](https://open.spotify.com/album/6IIhhDMiY6Abab01TmzLiV) | 4:35 |
+| 72 | [Andar Com Fé](https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Andar Com Fé](https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w) | 3:14 |
 | 73 | [Aliança](https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb) | 3:56 |
-| 74 | [Depois](https://open.spotify.com/track/6nMFcVqjimSo5mj7Btfkym) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [O Que Você Quer Saber De Verdade \(Standard Version\)](https://open.spotify.com/album/2zPP7zLELwMI57kRyZKaPf) | 2:53 |
-| 75 | [Brasil Pandeiro](https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:55 |
+| 74 | [Brasil Pandeiro](https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:55 |
+| 75 | [Depois](https://open.spotify.com/track/6nMFcVqjimSo5mj7Btfkym) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [O Que Você Quer Saber De Verdade \(Standard Version\)](https://open.spotify.com/album/2zPP7zLELwMI57kRyZKaPf) | 2:53 |
 | 76 | [A Palo Seco](https://open.spotify.com/track/1rQ0viTAi8pxDy53iNvKNn) | [Belchior](https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52), [Gilvan de Oliveira](https://open.spotify.com/artist/68MpNrGnDXG9d8qdBuPXwS) | [Belchior Acústico](https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC) | 2:35 |
-| 77 | [Andar Com Fé](https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Andar Com Fé](https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w) | 3:14 |
+| 77 | [Se Eu Quiser Falar Com Deus](https://open.spotify.com/track/6j7cLMzPmnmlP5f6qQk9Cl) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Se Eu Quiser Falar Com Deus](https://open.spotify.com/album/6IIhhDMiY6Abab01TmzLiV) | 4:35 |
 | 78 | [Águas De Março](https://open.spotify.com/track/1CFpxBiLtcnBVIbnmAJCBk) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Antonio Carlos Jobim: Finest Hour](https://open.spotify.com/album/2iBlbJFXs5U3dY8G9UGyTB) | 3:34 |
-| 79 | [Carnavália \- Ao Vivo](https://open.spotify.com/track/5YpDmhY73LENoh0JMEvEZV) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Carnavália \(Ao Vivo\)](https://open.spotify.com/album/205INdvEuLF2IfLOA3yTOl) | 4:30 |
-| 80 | [Preta Pretinha](https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 6:37 |
+| 79 | [Preta Pretinha](https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 6:37 |
+| 80 | [Carnavália \- Ao Vivo](https://open.spotify.com/track/5YpDmhY73LENoh0JMEvEZV) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Carnavália \(Ao Vivo\)](https://open.spotify.com/album/205INdvEuLF2IfLOA3yTOl) | 4:30 |
 | 81 | [Construção](https://open.spotify.com/track/1ECean5dVz7mYQ07mdVGKT) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/5YARZzYbonX4CbZ5hucHPc) | 6:23 |
 | 82 | [Barato Total](https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Em Casa Com os Gil](https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE) | 3:54 |
 | 83 | [Eu Sei Que Vou Te Amar](https://open.spotify.com/track/3s4gwVdy6g4KmBLerpNMIK) | [Vinícius](https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Bossa Nova](https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr) | 3:49 |

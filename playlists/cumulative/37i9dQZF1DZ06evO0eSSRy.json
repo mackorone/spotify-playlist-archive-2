@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 234065,
       "name": "412",
       "url": "https://open.spotify.com/track/4HAUQ35gRU5GS1VuhqlqLw"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 246231,
       "name": "Albert Suffers",
       "url": "https://open.spotify.com/track/6mRqJM62E7KH4zXOWvFmAt"
@@ -344,6 +344,24 @@
       "duration_ms": 261301,
       "name": "Fixed It All",
       "url": "https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv"
+    },
+    {
+      "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261301,
+      "name": "Fixed It All",
+      "url": "https://open.spotify.com/track/4StSImJMmm9Lq9FqaVWhiG"
     },
     {
       "album": {
@@ -582,6 +600,24 @@
     {
       "album": {
         "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241920,
+      "name": "Mike + Susan",
+      "url": "https://open.spotify.com/track/14iRhVzDOc9EKuRIbzsczQ"
+    },
+    {
+      "album": {
+        "name": "Fixed It All",
         "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
       },
       "artists": [
@@ -592,7 +628,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 241920,
       "name": "Mike + Susan",
       "url": "https://open.spotify.com/track/4wpfVf67akZfMUhwybFNml"
@@ -996,6 +1032,24 @@
     {
       "album": {
         "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264306,
+      "name": "The Luck You Had",
+      "url": "https://open.spotify.com/track/2j4oiDGeldw98B8kf8VWKY"
+    },
+    {
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
         "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
       },
       "artists": [
@@ -1006,7 +1060,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 264306,
       "name": "The Luck You Had",
       "url": "https://open.spotify.com/track/4Ulj9Yqe2F5GwhplK2WXm8"
@@ -1132,10 +1186,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 252169,
       "name": "Violet",
       "url": "https://open.spotify.com/track/6j9WxIbqbib7SjGKePRPkQ"
+    },
+    {
+      "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218334,
+      "name": "Water Doctor",
+      "url": "https://open.spotify.com/track/0dXhvuHICapK14lW6huwO3"
     },
     {
       "album": {
@@ -1244,7 +1316,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 259327,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0hcvSKPootQFoAVpqKBebJ"

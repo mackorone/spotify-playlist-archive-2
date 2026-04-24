@@ -2640,12 +2640,24 @@
       },
       "artists": [
         {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
           "name": "Pat Carroll",
           "url": "https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW"
         },
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
         }
       ],
       "date_added": "2024-01-08",

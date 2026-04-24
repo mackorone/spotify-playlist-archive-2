@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 
 > Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,499 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,606 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 14 | [Maine Payal Hai Chhankai](https://open.spotify.com/track/51EUKH2M1QGN50iGUlnxmU) | [Falguni Pathak](https://open.spotify.com/artist/6nAVJkZZ55jorZmO5bpezv) | [Maine Payal Hai Chhankai & Other Hits](https://open.spotify.com/album/4qahs4ZSSw4yVX6HIghALw) | 4:39 |
 | 15 | [Ab Mujhe Raat Din](https://open.spotify.com/track/4y5mqhrI0tdYI4M3EFluxP) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Deewana](https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI) | 6:25 |
 | 16 | [Leja Leja](https://open.spotify.com/track/5kWMV8yuPP6zSdz4MZhjVh) | [Ustad Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Ustad And The Divas](https://open.spotify.com/album/01s2aUyGKULtAK1Q6BEdV7) | 4:29 |
-| 17 | [Dil Le Gayee](https://open.spotify.com/track/69c3TizFHuPtBa7WTBTnXx) | [Jassi](https://open.spotify.com/artist/0QicOPoGCIHxlRFG0I4r9H) | [Nishani Pyar Di](https://open.spotify.com/album/2FQZblRJlJsEKrXWqWk1vz) | 4:52 |
-| 18 | [Aankhon Mein](https://open.spotify.com/track/77y2yW2spk3HCkZXjlbhCD) | [Jai Walia](https://open.spotify.com/artist/7gb0T42rJzDEc83fXialHZ) | [Aankhon Mein Tera Hi Chehra](https://open.spotify.com/album/6mCDTT1XGTf48p6FkK9qFL) | 4:31 |
+| 17 | [Aankhon Mein](https://open.spotify.com/track/77y2yW2spk3HCkZXjlbhCD) | [Jai Walia](https://open.spotify.com/artist/7gb0T42rJzDEc83fXialHZ) | [Aankhon Mein Tera Hi Chehra](https://open.spotify.com/album/6mCDTT1XGTf48p6FkK9qFL) | 4:31 |
+| 18 | [Dil Le Gayee](https://open.spotify.com/track/69c3TizFHuPtBa7WTBTnXx) | [Jassi](https://open.spotify.com/artist/0QicOPoGCIHxlRFG0I4r9H) | [Nishani Pyar Di](https://open.spotify.com/album/2FQZblRJlJsEKrXWqWk1vz) | 4:52 |
 | 19 | [Kehdoon Tumhen \(Close To U\)](https://open.spotify.com/track/2up5kZEADyiPGQNDhgdDVl) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8), [Ramona](https://open.spotify.com/artist/4AlZlo4zQrs1xVL37oZsIl), [Blazee](https://open.spotify.com/artist/0DfkTmaYSHh3urEl71R9A0), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [The Return Of Daddy Mix](https://open.spotify.com/album/3XureElTa0Ra4VRxbn72oa) | 4:56 |
 | 20 | [Dholna](https://open.spotify.com/track/2wl5TR6jkmnU0gE16p6fzH) | [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Pyar Ke Geet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6j1UaM7zAqvnQ9WYdvRwy7) | 4:40 |
 | 21 | [Pyaar Ke Pal](https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Pal](https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0) | 5:59 |

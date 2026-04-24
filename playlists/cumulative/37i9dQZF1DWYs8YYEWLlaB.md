@@ -2,9 +2,9 @@
 
 ### [trend 2026](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\.  Kapak: Poizi<br/>23 Nisan Ulusal Egemenlik ve Çocuk Bayramımız kutlu olsun! 🇹🇷
+> viral, trend ve yükselenler\.  Kapak: ASLAR x Lessio x Astral x AKDO
 
-269 songs - 13 hr 47 min
+270 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [DACIA X YATIYA \- Remix](https://open.spotify.com/track/4RC8B7vYRcM6Kkg5x80ezG) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Melis Kar](https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj) | [DACIA X YATIYA \(Remix\)](https://open.spotify.com/album/2U6D1xZHeEoe7zmzPJmiVG) | 2:38 | 2024-07-02 | 2024-09-27 |
 | [Daha İyi](https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Daha İyi](https://open.spotify.com/album/7rkBjeuLQ7UgSty5yAOLpx) | 3:18 | 2026-04-02 |  |
 | [Dale Don Dale](https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Dale Don Dale](https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV) | 1:58 | 2024-07-02 | 2024-11-22 |
-| [Delirme](https://open.spotify.com/track/406d7gGhsq9TWw1OKMojxC) | [Fettah Can](https://open.spotify.com/artist/17fJCykpa2EqIioh0zamN9) | [Sen En Çok Aşksın](https://open.spotify.com/album/58wGB7x2oPTBxEPaul9oMw) | 3:28 | 2025-12-18 |  |
+| [Delirme](https://open.spotify.com/track/406d7gGhsq9TWw1OKMojxC) | [Fettah Can](https://open.spotify.com/artist/17fJCykpa2EqIioh0zamN9) | [Sen En Çok Aşksın](https://open.spotify.com/album/58wGB7x2oPTBxEPaul9oMw) | 3:28 | 2025-12-18 | 2026-04-24 |
 | [Derdo](https://open.spotify.com/track/0O8jfIL9rjYbWRypxBA9LN) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Derdo](https://open.spotify.com/album/7pSGtJE2RQjIGwdkgKZpwY) | 3:38 | 2024-11-27 | 2024-12-20 |
 | [Değişmene Rağmen](https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Değişmene Rağmen](https://open.spotify.com/album/3hWHNYRxeve7LZzwW4i3dz) | 3:05 | 2024-07-08 | 2024-09-27 |
 | [Dilerim Ki](https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Dilerim Ki](https://open.spotify.com/album/3b8J9uYshIDindPqgT2cno) | 3:20 | 2024-07-02 | 2025-02-19 |
@@ -200,6 +200,7 @@
 | [Sana El Pençe Durmam](https://open.spotify.com/track/1cnx5g8kHElNAf28sV3mRJ) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [Sana El Pençe Durmam](https://open.spotify.com/album/7cstnexGC8wmiP8eQJpm3j) | 3:31 | 2024-07-02 | 2024-11-22 |
 | [Sana Güvenmiyorum \- Dedub Sessions](https://open.spotify.com/track/1lNcnIU4jtqD69Qtfjh8EJ) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Sana Güvenmiyorum \(Dedub Sessions\)](https://open.spotify.com/album/5ZcHiC8fUSjtOSDw0JaJGv) | 3:24 | 2024-11-06 | 2025-10-24 |
 | [Sana Yıldızları Ödediğimden](https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Sana Yıldızları Ödediğimden](https://open.spotify.com/album/745xmwLY8UKgHtxDa9UMYU) | 4:18 | 2024-07-02 | 2024-11-22 |
+| [sanma ki yaşıyorum](https://open.spotify.com/track/7zH71HbdpGVES8lVRIcDDs) | [ASLAR](https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA), [Lessio](https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [sanma ki yaşıyorum](https://open.spotify.com/album/2LEhF3vteB6Yd6Nqgliq6G) | 2:29 | 2026-04-23 |  |
 | [Sar Zamanımızı Geriye](https://open.spotify.com/track/5BuvzVuw5Y6h6dXseOJZSn) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Sar Zamanımızı Geriye](https://open.spotify.com/album/4Hbsjy5vfXCQG1YeNvXJQL) | 3:28 | 2025-10-01 |  |
 | [Sarılırım Birine](https://open.spotify.com/track/0d7qHnB6CNvn1UsO5i3ElE) | [Adamlar](https://open.spotify.com/artist/1g4J8P1JWwanNyyXckRX5W) | [Dünya Günlükleri](https://open.spotify.com/album/3OIhzweJb5vgDOnPHTl3Dp) | 6:33 | 2025-04-09 | 2025-06-19 |
 | [Sen Ağla](https://open.spotify.com/track/1QTxQQfJjNYzMcOpilX3Bf) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:06 | 2025-06-30 | 2026-04-11 |

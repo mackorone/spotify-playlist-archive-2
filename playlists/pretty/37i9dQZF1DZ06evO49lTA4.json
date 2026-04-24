@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 926057,
+  "num_followers": 926153,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAAsBxqtPc07ffS5xQJnQYUc",
+  "snapshot_id": "aegPgAAAAABomgzlMzmIWBDZhUgbBcxZ",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This One's for You",
-        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 222573,
-      "name": "One Number Away",
-      "url": "https://open.spotify.com/track/4gB7HrYHbJVJ5RFOjxmoq4"
+      "duration_ms": 186360,
+      "name": "Beer Never Broke My Heart",
+      "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What You See Is What You Get",
-        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 186360,
-      "name": "Beer Never Broke My Heart",
-      "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
+      "duration_ms": 222573,
+      "name": "One Number Away",
+      "url": "https://open.spotify.com/track/4gB7HrYHbJVJ5RFOjxmoq4"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 183677,
-      "name": "Daytona 499",
-      "url": "https://open.spotify.com/track/5WqHkU4Y6BfDeI4WXnBQqk"
+      "duration_ms": 231734,
+      "name": "Wish Upon a Whiskey",
+      "url": "https://open.spotify.com/track/0HA2PyxStG4hcVsgGnsv1u"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 231734,
-      "name": "Wish Upon a Whiskey",
-      "url": "https://open.spotify.com/track/0HA2PyxStG4hcVsgGnsv1u"
+      "duration_ms": 183677,
+      "name": "Daytona 499",
+      "url": "https://open.spotify.com/track/5WqHkU4Y6BfDeI4WXnBQqk"
     },
     {
       "added_at": null,
@@ -539,6 +539,38 @@
       "duration_ms": 192253,
       "name": "Houston, We Got a Problem",
       "url": "https://open.spotify.com/track/6guWjUuNYziyNXgjFo1IpF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 191789,
+      "name": "You Found Yours",
+      "url": "https://open.spotify.com/track/5OGCd9NL8XcwpkTmSxL5YI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7"
     },
     {
       "added_at": null,
@@ -563,38 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What You See Is What You Get",
-        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 191789,
-      "name": "You Found Yours",
-      "url": "https://open.spotify.com/track/5OGCd9NL8XcwpkTmSxL5YI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Hope You're Happy (Commentary Version)",
         "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
       },
@@ -615,22 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "FATHER FIGURE",
-        "url": "https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR"
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
       "artists": [
-        {
-          "name": "Jon Bellion",
-          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
-        },
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 177760,
-      "name": "WHY (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/4VDXj2X5I2fOQRN7tiztmq"
+      "duration_ms": 210850,
+      "name": "5 Leaf Clover",
+      "url": "https://open.spotify.com/track/52ChYmfu792MW2Ezv0whpk"
     },
     {
       "added_at": null,
@@ -651,18 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+        "name": "FATHER FIGURE",
+        "url": "https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR"
       },
       "artists": [
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        },
         {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 210850,
-      "name": "5 Leaf Clover",
-      "url": "https://open.spotify.com/track/52ChYmfu792MW2Ezv0whpk"
+      "duration_ms": 177760,
+      "name": "WHY (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/4VDXj2X5I2fOQRN7tiztmq"
     }
   ],
   "unique_name": "This Is Luke Combs",

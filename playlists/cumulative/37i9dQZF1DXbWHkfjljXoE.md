@@ -2,7 +2,7 @@
 
 ### [Power To The People](https://open.spotify.com/playlist/37i9dQZF1DXbWHkfjljXoE)
 
-> Melodies of the movement\. Cover: Michael Jackson and Jesse Jackson
+> Melodies of the movement\. Cover: Michael Jackson and Sammy Davis Jr.
 
 122 songs - 10 hr 5 min
 

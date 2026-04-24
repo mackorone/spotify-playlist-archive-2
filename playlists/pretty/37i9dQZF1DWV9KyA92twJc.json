@@ -1,6 +1,6 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05db\u05dd. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e2\u05d8\u05d9\u05e4\u05d4: \u05e2\u05d3\u05df \u05d7\u05e1\u05d5\u05df ",
-  "num_followers": 25783,
+  "num_followers": 25784,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284068,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
         "name": "Fancy That",
         "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 149666,
       "name": "Illegal",
       "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
-      },
-      "artists": [
-        {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
-        }
-      ],
-      "duration_ms": 218692,
-      "name": "\u05e9\u05d9\u05e8 \u05dc\u05dc\u05d0 \u05e9\u05dd",
-      "url": "https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
         "name": "\u05d1\u05d7\u05d9\u05d1\u05e7",
         "url": "https://open.spotify.com/album/0Mzp2CgjhTvKqeIIYTI76s"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 147296,
       "name": "\u05d1\u05d7\u05d9\u05d1\u05e7",
       "url": "https://open.spotify.com/track/0OIq7kRsGg7UkLKtO7Srqd"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+      },
+      "artists": [
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 218692,
+      "name": "\u05e9\u05d9\u05e8 \u05dc\u05dc\u05d0 \u05e9\u05dd",
+      "url": "https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -1619,6 +1619,26 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
+        "name": "\u05e0\u05d4\u05e8 \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/6wI63Cyq2GddBiACSov0jB"
+      },
+      "artists": [
+        {
+          "name": "Shlomo Artzi",
+          "url": "https://open.spotify.com/artist/2W0dQPsEPd0tz7cj95gUse"
+        },
+        {
+          "name": "\u05e4\u05d0\u05e8 \u05d8\u05e1\u05d9",
+          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "\u05e0\u05d4\u05e8 \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/0LqFPyHVwoYxJnZsa3Ji8x"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
         "name": "\u05d0\u05d4 \u05d5\u05d5\u05d0\u05d5",
         "url": "https://open.spotify.com/album/4CTHpPBeE6Fvx8uSYh98gs"
       },
@@ -1643,26 +1663,6 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "\u05e0\u05d4\u05e8 \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/6wI63Cyq2GddBiACSov0jB"
-      },
-      "artists": [
-        {
-          "name": "Shlomo Artzi",
-          "url": "https://open.spotify.com/artist/2W0dQPsEPd0tz7cj95gUse"
-        },
-        {
-          "name": "\u05e4\u05d0\u05e8 \u05d8\u05e1\u05d9",
-          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "\u05e0\u05d4\u05e8 \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/0LqFPyHVwoYxJnZsa3Ji8x"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
         "name": "\u05e1\u05d5\u05e4\u05e8\u05de\u05df",
         "url": "https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS"
       },
@@ -1675,6 +1675,22 @@
       "duration_ms": 217000,
       "name": "\u05dc\u05ea\u05ea \u05dc\u05d7\u05d9\u05d9\u05dd \u05dc\u05e8\u05e7\u05d5\u05d3",
       "url": "https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl"
+    },
+    {
+      "added_at": "2026-01-16 15:38:53",
+      "album": {
+        "name": "\u05d4\u05d9\u05d9 \u05d0\u05d4\u05d5\u05d1\u05d4",
+        "url": "https://open.spotify.com/album/5am6d33LlJu2GhvsLEIVLE"
+      },
+      "artists": [
+        {
+          "name": "Anna Zak",
+          "url": "https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo"
+        }
+      ],
+      "duration_ms": 170216,
+      "name": "\u05d4\u05d9\u05d9 \u05d0\u05d4\u05d5\u05d1\u05d4",
+      "url": "https://open.spotify.com/track/5WTyArd4ylPYTAifaqKDyM"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -1695,22 +1711,6 @@
       "duration_ms": 209890,
       "name": "\u05e7\u05e9\u05e8 \u05d1\u05ea\u05e7\u05e6\u05d5\u05e8\u05ea",
       "url": "https://open.spotify.com/track/5xlMI2eRQgUsDAl8vRmhJC"
-    },
-    {
-      "added_at": "2026-01-16 15:38:53",
-      "album": {
-        "name": "\u05d4\u05d9\u05d9 \u05d0\u05d4\u05d5\u05d1\u05d4",
-        "url": "https://open.spotify.com/album/5am6d33LlJu2GhvsLEIVLE"
-      },
-      "artists": [
-        {
-          "name": "Anna Zak",
-          "url": "https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo"
-        }
-      ],
-      "duration_ms": 170216,
-      "name": "\u05d4\u05d9\u05d9 \u05d0\u05d4\u05d5\u05d1\u05d4",
-      "url": "https://open.spotify.com/track/5WTyArd4ylPYTAifaqKDyM"
     },
     {
       "added_at": "2026-01-16 15:38:53",

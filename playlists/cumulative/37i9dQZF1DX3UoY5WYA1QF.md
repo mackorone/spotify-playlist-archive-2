@@ -4,10 +4,13 @@
 
 > Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.
 
-171 songs - 9 hr 0 min
+171 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/4xznW7HGSngMmCrIeBPgmT) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/66dJRbBzcvfug5X4M0K4WF) | 0:00 | 2023-04-10 |  |
+| [](https://open.spotify.com/track/6K8USOdsYF97ToIjUgq7pt) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/66dJRbBzcvfug5X4M0K4WF) | 0:00 | 2023-04-10 |  |
+| [](https://open.spotify.com/track/7DV8csJMyGQ1jR0g3CzIfP) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/66dJRbBzcvfug5X4M0K4WF) | 0:00 | 2023-04-10 |  |
 | [25 Rosas](https://open.spotify.com/track/3w08iUjYVTFdpaUKDdek0U) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Grandes Exitos \- Joan Sebastian](https://open.spotify.com/album/3BUKCyMR8wUcz7ekY5Oxjy) | 3:00 | 2023-04-10 | 2024-07-13 |
 | [25 Rosas](https://open.spotify.com/track/0lrDFehYH6mT8tycGoZ7Z8) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 3:15 | 2024-05-06 |  |
 | [A Quién Vas A Amar Más Que A Mí](https://open.spotify.com/track/5s6D3aH0ZJPVW2BmQBPpaJ) | [Los Nietos De Terán](https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf), [La Abuela Irma Silva](https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq) | [Para Siempre Los Nietos De Terán](https://open.spotify.com/album/3tUjVgBRVOdcwmCyRiPdrt) | 2:51 | 2023-04-10 | 2024-04-19 |
@@ -16,7 +19,6 @@
 | [Adios y Bienvenida](https://open.spotify.com/track/2wAfySktAbT2ho6UTCyv1O) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 3:10 | 2023-04-10 |  |
 | [Adorado Tormento](https://open.spotify.com/track/2ytaRTBFbnd3o9AXRC6I0h) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:42 | 2023-04-10 | 2024-05-07 |
 | [Ahora Si Va En Serio](https://open.spotify.com/track/4JN3IkAjaa0J3sPNXsbWWh) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Joyas Musicales: Lo Ranchero De Cuisillos De Arturo Macías, Vol\. 2](https://open.spotify.com/album/3eQMPyj1pDRSlLoF1TA7K5) | 2:38 | 2023-04-10 | 2024-04-19 |
-| [Ahora Si Va En Serio](https://open.spotify.com/track/7DV8csJMyGQ1jR0g3CzIfP) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Homenaje A Joan Sebastian](https://open.spotify.com/album/66dJRbBzcvfug5X4M0K4WF) | 2:38 | 2023-04-10 |  |
 | [Amor Limosnero](https://open.spotify.com/track/4QaBFS1O4AvlWrqzaYdz4S) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 4:00 | 2023-04-10 |  |
 | [Amor Sin Cuenta](https://open.spotify.com/track/1L4TJJpR4uJpir4AxWjICU) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:26 | 2023-04-10 |  |
 | [Amorcito Mio](https://open.spotify.com/track/70Gg7ZAnrEzhcIB2zOiyVt) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados \(Live Vol\. 1\)](https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj) | 3:23 | 2023-04-10 |  |
@@ -78,7 +80,6 @@
 | [Estos Celos](https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:10 | 2023-04-10 |  |
 | [Estuve](https://open.spotify.com/track/2NLAraJgphfdy2sWQ4LWm4) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 3:15 | 2023-04-10 |  |
 | [Estuve](https://open.spotify.com/track/7ajsD2zgkQv3XnW05CGXPL) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 3:32 | 2024-05-06 |  |
-| [Hasta Que Amanezca](https://open.spotify.com/track/4xznW7HGSngMmCrIeBPgmT) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Homenaje A Joan Sebastian](https://open.spotify.com/album/66dJRbBzcvfug5X4M0K4WF) | 2:56 | 2023-04-10 |  |
 | [Hasta Que Amanezca](https://open.spotify.com/track/5X7wauGH8wlaU4XLNb8ERv) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Las Románticas de Cuisillos, Vol\. 2](https://open.spotify.com/album/0HyVOgHfsFUl6XFu2ZDXmd) | 2:56 | 2023-04-10 | 2024-04-19 |
 | [Hasta Que Amanezca](https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 2:45 | 2023-04-10 |  |
 | [Hay Un Tren A Las 5](https://open.spotify.com/track/6p6gClXVVCKssTgrdg9fTC) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Grandes De Joan Sebastián](https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb) | 2:42 | 2023-04-10 |  |
@@ -129,7 +130,6 @@
 | [Oiga](https://open.spotify.com/track/1eXyQgh9G5L8KDzKo9DA5V) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Grandes Exitos \- Joan Sebastian](https://open.spotify.com/album/3BUKCyMR8wUcz7ekY5Oxjy) | 3:31 | 2023-04-10 | 2024-07-13 |
 | [Oiga](https://open.spotify.com/track/2kPmtoTWr2vusy8qw1iFiB) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Prisma](https://open.spotify.com/artist/1TyHjg9GOQ8b2oFSRAQhf3) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 3:29 | 2023-04-10 | 2024-04-19 |
 | [Ojitos De Golondrina](https://open.spotify.com/track/0Gwv52FGhlkE9P2tLCaCmy) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Joyas Musicales: Lo Ranchero de Cuisillos de Arturo Macías, Vol\. 1](https://open.spotify.com/album/1IymVjJhDpdibw7S4dPho9) | 2:15 | 2023-04-10 | 2024-04-19 |
-| [Ojitos De Golondrina](https://open.spotify.com/track/6K8USOdsYF97ToIjUgq7pt) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Homenaje A Joan Sebastian](https://open.spotify.com/album/66dJRbBzcvfug5X4M0K4WF) | 2:15 | 2023-04-10 |  |
 | [Para Siempre](https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:51 | 2023-04-10 |  |
 | [Pienso En Ti](https://open.spotify.com/track/53yWukI5ywNKVkAd6dWFs8) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 2:29 | 2024-05-06 |  |
 | [Prisionero De La Ciudad](https://open.spotify.com/track/65nHDfhLe607gawYa1m1Dx) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Alberto Vázquez Interpreta A Joan Sebastian](https://open.spotify.com/album/0Zyjce2YUDw3TG9ex2EblK) | 3:22 | 2023-04-10 |  |

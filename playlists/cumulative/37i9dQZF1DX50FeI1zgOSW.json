@@ -3231,6 +3231,28 @@
     },
     {
       "album": {
+        "name": "Ey Pulla",
+        "url": "https://open.spotify.com/album/0larnrAJuEKwu116l7ewJN"
+      },
+      "artists": [
+        {
+          "name": "Vidusan Kaneswaran",
+          "url": "https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs"
+        },
+        {
+          "name": "BSP",
+          "url": "https://open.spotify.com/artist/6iOuI0IPcd6hbU1AK6jI3A"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "Ey Pulla",
+      "url": "https://open.spotify.com/track/1A81vwNeY6ghuNo6llNePU"
+    },
+    {
+      "album": {
         "name": "Fake Escobar",
         "url": "https://open.spotify.com/album/0GxmBhQxX8F95Ck7BzR9Wy"
       },
@@ -7744,6 +7766,24 @@
       "duration_ms": 185400,
       "name": "Manasu Mattume",
       "url": "https://open.spotify.com/track/6MPLKOG3Y05uI7wcmwAjZE"
+    },
+    {
+      "album": {
+        "name": "Mande Odu",
+        "url": "https://open.spotify.com/album/3GM7apWz8pKSMQRxVWfAue"
+      },
+      "artists": [
+        {
+          "name": "Santesh",
+          "url": "https://open.spotify.com/artist/7DWSfLX0stZ7Fm4JssbiN6"
+        }
+      ],
+      "date_added": "2026-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227796,
+      "name": "Mande Odu",
+      "url": "https://open.spotify.com/track/6tNCgBEoagUn4kV1mGt6MH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-547 songs - 1 day 8 hr 17 min
+548 songs - 1 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,7 @@
 | [Love vs\. The World](https://open.spotify.com/track/1dJ0YjXLjbBpnosumLsdgo) | [Sivert Høyem](https://open.spotify.com/artist/2xMBy2SwN1OMgSSCKmX3IG) | [Love vs\. The World](https://open.spotify.com/album/47PnCVscxYlXZoH772Y13G) | 3:53 | 2025-01-09 | 2025-03-10 |
 | [Low](https://open.spotify.com/track/1fp4bZAAzicpIRFlnPANrP) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Low](https://open.spotify.com/album/4uymGW41PoRSJkM6vt1YRv) | 3:37 | 2024-08-08 | 2024-10-25 |
 | [Lucy Rider](https://open.spotify.com/track/7JhHxjF89Nd3c6MEtjXx24) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Lucy Rider](https://open.spotify.com/album/5CD61BtzWq6aPXULvnAnve) | 3:17 | 2024-06-27 | 2024-08-09 |
-| [Lägg den här, bredvid min](https://open.spotify.com/track/1TkC227DT4BR0JycJbkPYJ) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Mjuk extas](https://open.spotify.com/album/5hMT1bc5eT9HQaHGwggoYP) | 4:31 | 2025-09-22 |  |
+| [Lägg den här, bredvid min](https://open.spotify.com/track/1TkC227DT4BR0JycJbkPYJ) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Mjuk extas](https://open.spotify.com/album/5hMT1bc5eT9HQaHGwggoYP) | 4:31 | 2025-09-22 | 2026-04-24 |
 | [Längs den långa vägen hem](https://open.spotify.com/track/5ukUg5wFfgwbsAPfWfTAy4) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [Längs den långa vägen hem](https://open.spotify.com/album/0d5l4YtBo05EtOpBNbhDgP) | 3:51 | 2024-06-27 | 2024-08-23 |
 | [Långholmsgatan 2](https://open.spotify.com/track/5rwGiXG9q84ah927p7Vcdo) | [Niklas Strömstedt](https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu), [Johanna Frostling](https://open.spotify.com/artist/4vbrC3LBk1yySodkSbG3IY) | [Långholmsgatan 2](https://open.spotify.com/album/6i7vOaZpfoy0qyYCocPAJM) | 4:03 | 2025-05-22 | 2026-02-13 |
 | [Löften](https://open.spotify.com/track/1FoM1Ru3Rm19LUvkjTn0k4) | [Patrik Isaksson](https://open.spotify.com/artist/79XSzUC0yAPPoxiuss55qC) | [Löften](https://open.spotify.com/album/6NzPAIljksxn9B6OqfAJWO) | 4:44 | 2025-04-03 | 2025-07-18 |
@@ -336,6 +336,7 @@
 | [Mordbrand](https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Mordbrand](https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D) | 3:38 | 2024-06-27 | 2024-10-11 |
 | [More Than Words](https://open.spotify.com/track/0Y2qS45YYbYfxPVp0RfWLc) | [Angelo Perrelli](https://open.spotify.com/artist/1v1b1VJKeXticlHnYyJDbs), [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [More Than Words](https://open.spotify.com/album/3raSM95Yq7o3qC7CcXxkzP) | 3:55 | 2025-08-07 | 2025-08-22 |
 | [Mother's Love Conquers All](https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP) | [Amanda Jenssen](https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9) | [Mother's Love Conquers All](https://open.spotify.com/album/69AGXPie59h3BozlQ728ew) | 5:17 | 2025-10-02 |  |
+| [Muscle In](https://open.spotify.com/track/3ch0DUTirH85StJjiTNqFq) | [The Magnolia](https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb) | [Muscle In](https://open.spotify.com/album/6FxRfieHkLJ0mhHZixMQQT) | 4:04 | 2026-04-23 |  |
 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 | 2024-06-27 | 2024-08-16 |
 | [Månen](https://open.spotify.com/track/0K983v0A3vx4mtWv2TxjXQ) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Månen](https://open.spotify.com/album/1l5Mvjssz7K5HfIyTHD0g2) | 2:39 | 2025-06-26 | 2026-03-15 |
 | [Möt mig i Gamla Stan \(Swing Version\)](https://open.spotify.com/track/6MIqXeG9H9NCqzlrEVwS7s) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Se mig bara för den jag är](https://open.spotify.com/album/76ffJEYzoFrQlS9hQ4UUzh) | 3:06 | 2024-06-27 | 2024-08-23 |

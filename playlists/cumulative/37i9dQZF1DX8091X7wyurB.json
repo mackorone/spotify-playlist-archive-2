@@ -1045,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "Are You Ready?",
+        "url": "https://open.spotify.com/album/6MnbJtW31m6jmW0UUkObeU"
+      },
+      "artists": [
+        {
+          "name": "Uwa",
+          "url": "https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Are You Ready?",
+      "url": "https://open.spotify.com/track/2sSnrrIN2DIUJv24bz0hlj"
+    },
+    {
+      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/5tACiCnhsiZv8pM2nFZlck"
       },
@@ -1318,7 +1336,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 721945,
       "name": "Baami (My Father)",
       "url": "https://open.spotify.com/track/3g733yTRwGNbjYpjaFAUMe"
@@ -1576,7 +1594,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 262325,
       "name": "Beautiful Exchange",
       "url": "https://open.spotify.com/track/7clvto32JaAp4fcLcHD1Lf"
@@ -2278,7 +2296,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 133333,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1CEJTnMr4DoPrYvbNbdAmS"
@@ -3328,7 +3346,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 319180,
       "name": "Elohim",
       "url": "https://open.spotify.com/track/206d91DwnGAY1quOz8auKi"
@@ -4838,7 +4856,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 260500,
       "name": "God Alone - Live",
       "url": "https://open.spotify.com/track/3dWxH0XNHZgC4A8Nbz8n12"
@@ -6034,6 +6052,28 @@
       "duration_ms": 329600,
       "name": "Heal Our Land",
       "url": "https://open.spotify.com/track/22A8LtBraZbTlhEBWRlA50"
+    },
+    {
+      "album": {
+        "name": "Heart of Worship",
+        "url": "https://open.spotify.com/album/6EEeFZ86I2ajYjcE40tE0G"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        },
+        {
+          "name": "Mayo",
+          "url": "https://open.spotify.com/artist/2vcjogMCAZpBE9uJGGDY6o"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242790,
+      "name": "Heart of Worship",
+      "url": "https://open.spotify.com/track/24nHidYHfPkAkdhFvv9tKL"
     },
     {
       "album": {
@@ -10043,6 +10083,32 @@
     },
     {
       "album": {
+        "name": "My Elshaddai",
+        "url": "https://open.spotify.com/album/38CdwH27OsQF185txvPw1z"
+      },
+      "artists": [
+        {
+          "name": "Evans Ogboi",
+          "url": "https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0"
+        },
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        },
+        {
+          "name": "Purist Ogboi",
+          "url": "https://open.spotify.com/artist/4XDbxHH7eeR8BTf0OnkMvE"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276083,
+      "name": "My Elshaddai",
+      "url": "https://open.spotify.com/track/7z81J8HgIVSpyeF2996zDy"
+    },
+    {
+      "album": {
         "name": "Wind of Revival",
         "url": "https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY"
       },
@@ -10210,7 +10276,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 628504,
       "name": "My Praise - Live Recording",
       "url": "https://open.spotify.com/track/0fDkeonrdhmAxCCRS1rXQ1"
@@ -14865,6 +14931,24 @@
     },
     {
       "album": {
+        "name": "Izililo (Live on Freedom Day)",
+        "url": "https://open.spotify.com/album/3HQXFddTqWqHoE9lBfi2KN"
+      },
+      "artists": [
+        {
+          "name": "We Will Worship",
+          "url": "https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/4LBA3NfC5bTyqeiarMIqkg"
+    },
+    {
+      "album": {
         "name": "Glory & Wonder",
         "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
       },
@@ -15798,6 +15882,28 @@
       "duration_ms": 343080,
       "name": "What A Beautiful Name - Live",
       "url": "https://open.spotify.com/track/4EiKZxDgW0sbT8BZ9Gl6dC"
+    },
+    {
+      "album": {
+        "name": "What a God",
+        "url": "https://open.spotify.com/album/1DyLKb4iSa43X1H2H6a9dX"
+      },
+      "artists": [
+        {
+          "name": "Dr Ugonma",
+          "url": "https://open.spotify.com/artist/1ezWgINGP5TC8PIOm0pSJc"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298449,
+      "name": "What a God",
+      "url": "https://open.spotify.com/track/4LOq6oCUo0zs5rMus1wEWQ"
     },
     {
       "album": {

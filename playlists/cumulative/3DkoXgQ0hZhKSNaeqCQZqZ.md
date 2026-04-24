@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-512 songs - 1 day 3 hr 6 min
+513 songs - 1 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [Tension](https://open.spotify.com/track/3j6EwWAqg0e0tit4zCV03D) | [SubCorv](https://open.spotify.com/artist/4bgP9dOf4yyE1fehFa4UaJ), [Tygre](https://open.spotify.com/artist/4we0HjU8pyJbI5IE3BHLIP) | [Le Vide](https://open.spotify.com/album/6Z7X2WHdRhSq4Qq2OXCY8I) | 4:07 | 2024-04-08 | 2025-09-22 |
 | [tether](https://open.spotify.com/track/4mSyDYm6dYl5Qx6rNUIp2r) | [ghostsocial](https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN) | [tether](https://open.spotify.com/album/5VDFtcYSBVLuuyF126Nh92) | 1:46 | 2025-06-08 |  |
 | [That Spark](https://open.spotify.com/track/124urhdKEhZ6Fm3yft6SE8) | [Eris Soundworks](https://open.spotify.com/artist/5X1SwenxpH0EvoxYsQZNxz), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Visitor](https://open.spotify.com/album/4VOMEobaVteSEzw688Bkkj) | 5:05 | 2024-03-06 | 2026-03-01 |
+| [The Air That You And I Breathe Is Not The Same \- ECLIPSED](https://open.spotify.com/track/46pdXv8YDVVPk558tchreU) | [Biscuit](https://open.spotify.com/artist/75RaPp7xp9Czh1CpzWyUUR) | [The Air That You And I Breathe Is Not The Same \(ECLIPSED\)](https://open.spotify.com/album/3I1KfgTO9cIaiV72Eigz1y) | 4:55 | 2026-04-23 |  |
 | [THE ANSWER](https://open.spotify.com/track/1WAjkenGGMIGhDL6bK5BRn) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY) | [IN THE DARK / THE ANSWER](https://open.spotify.com/album/5XFda23kFtFtWgGSAU1NaK) | 3:50 | 2023-11-17 | 2025-11-10 |
 | [THE FLIES \- REMIX](https://open.spotify.com/track/19HjBefvsg5MYOTULhFxvX) | [Operation Sodasteal](https://open.spotify.com/artist/23eeNX6dS8S89HHUSEPVZ6), [Kaj Strife](https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w), [slaneyinfamous](https://open.spotify.com/artist/68DUtGydtnSsqVgAKvMSsu) | [SLANEY VS SODASTEAL](https://open.spotify.com/album/6oscn67zVVf4v7GjZibGxd) | 2:20 | 2024-07-14 |  |
 | [The Flower](https://open.spotify.com/track/2gRC0oHnH8t5l6qlgmpttT) | [Siv Kyne](https://open.spotify.com/artist/4VFrZg2IkVBK66DEnA8CK4), [Melodinumbra](https://open.spotify.com/artist/2o5GlEfiErzi5R8dzihueQ) | [The Flower](https://open.spotify.com/album/5xkLgn7UBRDbmGsxoU77hj) | 1:26 | 2025-04-14 |  |

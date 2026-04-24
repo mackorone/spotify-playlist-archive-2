@@ -556,7 +556,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 237162,
       "name": "Anlad\u0131m",
       "url": "https://open.spotify.com/track/2pzbuLuY8PWqMMkKqpeoKU"
@@ -2550,7 +2550,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 204200,
       "name": "Bundan Gayr\u0131",
       "url": "https://open.spotify.com/track/6UVUuNq21sRH4iAxB0xJf9"
@@ -4847,6 +4847,24 @@
     },
     {
       "album": {
+        "name": "RUH HASSASI",
+        "url": "https://open.spotify.com/album/2s8crPj9fbE1ErzejEj1gE"
+      },
+      "artists": [
+        {
+          "name": "Ersay \u00dcner",
+          "url": "https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260373,
+      "name": "Hicaz Sevda",
+      "url": "https://open.spotify.com/track/71Zeipgvhe6qMEdXu5mQgD"
+    },
+    {
+      "album": {
         "name": "K\u0131rlar",
         "url": "https://open.spotify.com/album/6KBFknDUvv8okkhIqRmZRc"
       },
@@ -5166,6 +5184,28 @@
       "duration_ms": 212634,
       "name": "\u0130\u00e7in Rahat Olsun",
       "url": "https://open.spotify.com/track/41dhf0sMVkUFvgdCbJGBzf"
+    },
+    {
+      "album": {
+        "name": "\u0130\u00e7iyorum Ederimize",
+        "url": "https://open.spotify.com/album/3QwHFGdwqnnfDn18Lv9jwo"
+      },
+      "artists": [
+        {
+          "name": "\u0130kilem",
+          "url": "https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3"
+        },
+        {
+          "name": "Tu\u011fba Yurt",
+          "url": "https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206624,
+      "name": "\u0130\u00e7iyorum Ederimize",
+      "url": "https://open.spotify.com/track/4vXroPxK5zJnymovmYD6SX"
     },
     {
       "album": {

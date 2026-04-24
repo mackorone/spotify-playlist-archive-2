@@ -1,12 +1,12 @@
 {
   "description": "This is Bo Bundy. The essential tracks, all in one playlist.",
-  "num_followers": 1396,
+  "num_followers": 1397,
   "original_name": "This Is Bo Bundy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAAit9MGQYLMAjCKrviK5Ltx",
+  "snapshot_id": "aegPgAAAAAArWSvJpljqHDCxTQyi64E7",
   "tracks": [
     {
       "added_at": null,
@@ -115,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Unico Desmadre De Mi Madre",
+        "url": "https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 179263,
+      "name": "Colorados",
+      "url": "https://open.spotify.com/track/0DBmi0hlNhVsU76vcxo1sh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sola Y Triste",
         "url": "https://open.spotify.com/album/0ODvHoyygM4uAzueYPyFxb"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 262870,
       "name": "Sola Y Triste",
       "url": "https://open.spotify.com/track/7B3dffBBy8YqJnWITEKOu4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Unico Desmadre De Mi Madre",
-        "url": "https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 179263,
-      "name": "Colorados",
-      "url": "https://open.spotify.com/track/0DBmi0hlNhVsU76vcxo1sh"
     },
     {
       "added_at": null,
@@ -442,11 +442,15 @@
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Izzy93",
+          "url": "https://open.spotify.com/artist/2AfyzCxD2WTuEbV0XoZajq"
         }
       ],
-      "duration_ms": 159712,
-      "name": "Touring Tx",
-      "url": "https://open.spotify.com/track/3QUhAIRAiWTAZXPPWsDinU"
+      "duration_ms": 107000,
+      "name": "Mexicanos",
+      "url": "https://open.spotify.com/track/6HfnFJBz9UClB8nJKzcp2u"
     },
     {
       "added_at": null,
@@ -510,15 +514,11 @@
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Izzy93",
-          "url": "https://open.spotify.com/artist/2AfyzCxD2WTuEbV0XoZajq"
         }
       ],
-      "duration_ms": 107000,
-      "name": "Mexicanos",
-      "url": "https://open.spotify.com/track/6HfnFJBz9UClB8nJKzcp2u"
+      "duration_ms": 159712,
+      "name": "Touring Tx",
+      "url": "https://open.spotify.com/track/3QUhAIRAiWTAZXPPWsDinU"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lonestar (Side A)",
+        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 135531,
+      "name": "135",
+      "url": "https://open.spotify.com/track/1FaOmKrjEERabl63Kcr3NU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Mi Gente",
         "url": "https://open.spotify.com/album/28Ipfx3KvKxvEhTIsjxg7X"
       },
@@ -751,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lonestar (Side A)",
-        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
+        "name": "Nino de Oro",
+        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
       },
       "artists": [
         {
@@ -760,29 +776,9 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 135531,
-      "name": "135",
-      "url": "https://open.spotify.com/track/1FaOmKrjEERabl63Kcr3NU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Terp Wars DELUXE",
-        "url": "https://open.spotify.com/album/5Go5g0fiuc1y5QflfPkpIJ"
-      },
-      "artists": [
-        {
-          "name": "TheWaterBoyz710",
-          "url": "https://open.spotify.com/artist/04S7sRw8LXmqGKRTXsZszc"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 146357,
-      "name": "Bo Bundy In Japan",
-      "url": "https://open.spotify.com/track/3MQCDOv07b0Kg5PP9mfdVZ"
+      "duration_ms": 256161,
+      "name": "Slumped Freestyle",
+      "url": "https://open.spotify.com/track/14JQQGwSxxhznG0OMfzNb0"
     },
     {
       "added_at": null,
@@ -803,18 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nino de Oro",
-        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
+        "name": "Terp Wars DELUXE",
+        "url": "https://open.spotify.com/album/5Go5g0fiuc1y5QflfPkpIJ"
       },
       "artists": [
+        {
+          "name": "TheWaterBoyz710",
+          "url": "https://open.spotify.com/artist/04S7sRw8LXmqGKRTXsZszc"
+        },
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 256161,
-      "name": "Slumped Freestyle",
-      "url": "https://open.spotify.com/track/14JQQGwSxxhznG0OMfzNb0"
+      "duration_ms": 146357,
+      "name": "Bo Bundy In Japan",
+      "url": "https://open.spotify.com/track/3MQCDOv07b0Kg5PP9mfdVZ"
     },
     {
       "added_at": null,

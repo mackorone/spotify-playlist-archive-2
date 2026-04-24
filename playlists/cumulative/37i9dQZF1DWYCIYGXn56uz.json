@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u26a1\ufe0f qui un sacco di musica giovane \u26a1\ufe0f Cover: Sissi\n",
+  "description": "\u26a1\ufe0f qui un sacco di musica giovane \u26a1\ufe0f Cover: BLANCHITO BEBE",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -212,7 +212,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 226587,
       "name": "27 luglio (dopo)",
       "url": "https://open.spotify.com/track/6vFonAQ0ynn5crVmS54Xbr"
@@ -2863,6 +2863,28 @@
     },
     {
       "album": {
+        "name": "SOLITO CINEMA",
+        "url": "https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD"
+      },
+      "artists": [
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        },
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239330,
+      "name": "Cantilene",
+      "url": "https://open.spotify.com/track/3yaRrdo3DDeKgDaubuBsId"
+    },
+    {
+      "album": {
         "name": "DICIOTTO",
         "url": "https://open.spotify.com/album/3bZLYAernqrP4Dx9apLDgT"
       },
@@ -3513,6 +3535,24 @@
     },
     {
       "album": {
+        "name": "Chiara",
+        "url": "https://open.spotify.com/album/2MjOfY43xNseRcGjMYly2I"
+      },
+      "artists": [
+        {
+          "name": "Disco Club Paradiso",
+          "url": "https://open.spotify.com/artist/45tjTaIY56HcSaLJLUmlut"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147786,
+      "name": "Chiara",
+      "url": "https://open.spotify.com/track/25NzuGg3C1MaXhZ8sTe25J"
+    },
+    {
+      "album": {
         "name": "CHICHI (feat. nenot)",
         "url": "https://open.spotify.com/album/67wivYlPKPfpOSZ0afaAGQ"
       },
@@ -3868,7 +3908,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 194481,
       "name": "Colline toscane",
       "url": "https://open.spotify.com/track/5Cr9H5Is1GPtXhGU45EDSO"
@@ -6970,7 +7010,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 149395,
       "name": "Fuochi per aria (la fortuna)",
       "url": "https://open.spotify.com/track/1aWreoOaeqvNGC5fXCMwSC"
@@ -7250,6 +7290,24 @@
       "duration_ms": 186078,
       "name": "Giovane e triste",
       "url": "https://open.spotify.com/track/56WecW5HnWstqg0GvhseEP"
+    },
+    {
+      "album": {
+        "name": "VITA VERA PARADISO",
+        "url": "https://open.spotify.com/album/7ujoimoSquqdm5EKAhtnf6"
+      },
+      "artists": [
+        {
+          "name": "Leo Gassmann",
+          "url": "https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181428,
+      "name": "GIRASOLE",
+      "url": "https://open.spotify.com/track/6i8q7geqsUuj9Uhkv8zvuf"
     },
     {
       "album": {
@@ -7954,6 +8012,24 @@
       "duration_ms": 174770,
       "name": "I colori dell'alba",
       "url": "https://open.spotify.com/track/2vDF8vtgjK2PRbeea9QAYS"
+    },
+    {
+      "album": {
+        "name": "i ragazzi non piangono",
+        "url": "https://open.spotify.com/album/73EkYb9oqE8FrUzocAUYk4"
+      },
+      "artists": [
+        {
+          "name": "GionnyScandal",
+          "url": "https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151571,
+      "name": "i ragazzi non piangono",
+      "url": "https://open.spotify.com/track/4xXdUqdwmOSPGUohtXky0b"
     },
     {
       "album": {
@@ -8968,7 +9044,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 215821,
       "name": "LA CURA PER ME (feat. BLANCO)",
       "url": "https://open.spotify.com/track/3TkSWRxnvQX6uKGA709Ohb"
@@ -9008,6 +9084,24 @@
       "duration_ms": 178991,
       "name": "La mia canzone per te",
       "url": "https://open.spotify.com/track/5UeIcE8opHwuFFk6em1U0l"
+    },
+    {
+      "album": {
+        "name": "LA MIA NATURA",
+        "url": "https://open.spotify.com/album/3Fm8nnldpUkDMe84J0tf2A"
+      },
+      "artists": [
+        {
+          "name": "SENZA CRI",
+          "url": "https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221714,
+      "name": "LA MIA NATURA",
+      "url": "https://open.spotify.com/track/1X9EPxwDC2jmAG9W6E8JNe"
     },
     {
       "album": {
@@ -13143,6 +13237,24 @@
     },
     {
       "album": {
+        "name": "Oh, Maria!",
+        "url": "https://open.spotify.com/album/0FVo6YC9EPxZLuhGyumnIg"
+      },
+      "artists": [
+        {
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191600,
+      "name": "Oh, Maria!",
+      "url": "https://open.spotify.com/track/76AUGMgXgac6mPBF2gvjlb"
+    },
+    {
+      "album": {
         "name": "OK Scusa Errore Mio",
         "url": "https://open.spotify.com/album/1MXXmolM5zHQu2VOzWSXup"
       },
@@ -14338,7 +14450,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 174250,
       "name": "Piccolo Principe",
       "url": "https://open.spotify.com/track/6Brh16ooql7ayzLvOQOwVY"
@@ -16248,7 +16360,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 134666,
       "name": "Scomparso",
       "url": "https://open.spotify.com/track/08RpHWvVDlItEYkLHXecq6"
@@ -16642,6 +16754,28 @@
       "duration_ms": 139209,
       "name": "senza te",
       "url": "https://open.spotify.com/track/6A4D5wJNi4NB2w2FTezJfh"
+    },
+    {
+      "album": {
+        "name": "SOLITO CINEMA",
+        "url": "https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD"
+      },
+      "artists": [
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        },
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196434,
+      "name": "Serenamente",
+      "url": "https://open.spotify.com/track/5ZliWdrEfiHceXVGnGzlxA"
     },
     {
       "album": {
@@ -18892,6 +19026,24 @@
       "duration_ms": 149464,
       "name": "Tutte Le Ragazze Vogliono Canzoni D'Amore",
       "url": "https://open.spotify.com/track/1D8tT3ubjjLQJlPV6OPSey"
+    },
+    {
+      "album": {
+        "name": "Stargirl",
+        "url": "https://open.spotify.com/album/0ai27Yvob0d3nXS5WGlvXW"
+      },
+      "artists": [
+        {
+          "name": "Dennis",
+          "url": "https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175624,
+      "name": "Tutto Apposto",
+      "url": "https://open.spotify.com/track/1ngpzaCSbgF9U51xOgA3KL"
     },
     {
       "album": {

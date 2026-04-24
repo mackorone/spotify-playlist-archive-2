@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Buraka Som Sistema",
+  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: In\u00eas Marques Lucas",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -1656,10 +1656,28 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 162266,
       "name": "Cinnamon",
       "url": "https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3"
+    },
+    {
+      "album": {
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190842,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
     },
     {
       "album": {
@@ -1948,7 +1966,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 242000,
       "name": "dancing in the forest",
       "url": "https://open.spotify.com/track/2tOzni2inAVxI1hUOvXSfp"
@@ -3957,6 +3975,24 @@
     },
     {
       "album": {
+        "name": "Inglaterra",
+        "url": "https://open.spotify.com/album/2lbQSaJMhk1z44fQMaKLMg"
+      },
+      "artists": [
+        {
+          "name": "Cari",
+          "url": "https://open.spotify.com/artist/5W3WfKsYcIFReQZ7Rm4cZV"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144406,
+      "name": "Inglaterra",
+      "url": "https://open.spotify.com/track/0qx14q3TAwoBjRkEB171gy"
+    },
+    {
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -4688,7 +4724,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 187397,
       "name": "Mal Vestido",
       "url": "https://open.spotify.com/track/1fs3LcYdxXA5nObQpOx42i"
@@ -5566,7 +5602,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 172279,
       "name": "Noites \u00e0 Beira-Mar",
       "url": "https://open.spotify.com/track/2skmwTOhvOPQxKPzHGfpZT"
@@ -6070,6 +6106,24 @@
       "duration_ms": 224971,
       "name": "Parece, Parece",
       "url": "https://open.spotify.com/track/6WCE4KO1yZ2ao8YonWbUSx"
+    },
+    {
+      "album": {
+        "name": "Pedra e Cal",
+        "url": "https://open.spotify.com/album/79C8UT8WJDHjaYCbWxxAjx"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00eds Sequeira",
+          "url": "https://open.spotify.com/artist/6i3ur5iI4BWjY17S3cCund"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222440,
+      "name": "Pedra e Cal",
+      "url": "https://open.spotify.com/track/7o5wovj2AW5zA4vFju7iO0"
     },
     {
       "album": {
@@ -8217,6 +8271,24 @@
     },
     {
       "album": {
+        "name": "Traz-me o Ver\u00e3o a Casa",
+        "url": "https://open.spotify.com/album/6LNBH6sYVUG4XfpaDS5Quv"
+      },
+      "artists": [
+        {
+          "name": "In\u00eas Marques Lucas",
+          "url": "https://open.spotify.com/artist/6eVIiykMS1MiFG8AkH7ILn"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200547,
+      "name": "Traz-me o Ver\u00e3o a Casa",
+      "url": "https://open.spotify.com/track/11CKxyt74nFUG36rxtKpx6"
+    },
+    {
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -8570,7 +8642,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 179330,
       "name": "Venham Mais Cinco",
       "url": "https://open.spotify.com/track/24RPUmfObFNqkYG3xuwP9S"
@@ -8936,6 +9008,28 @@
       "duration_ms": 364533,
       "name": "Wild Long Lie",
       "url": "https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm"
+    },
+    {
+      "album": {
+        "name": "Wishful Thinker",
+        "url": "https://open.spotify.com/album/23RuE1o41l3e9dZITI4lbU"
+      },
+      "artists": [
+        {
+          "name": "Rue Gale",
+          "url": "https://open.spotify.com/artist/4D9p7KMV97cr41GH94Fa9V"
+        },
+        {
+          "name": "NEXT GENERATION",
+          "url": "https://open.spotify.com/artist/23mVTTijlJBZUXFwV0GWH0"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166015,
+      "name": "Wishful Thinker",
+      "url": "https://open.spotify.com/track/4ixOrGaJGSvx1D2RecrjnG"
     },
     {
       "album": {

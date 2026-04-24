@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 7955,
+  "num_followers": 7966,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAACXnLRBGJUClei/6szAsBy1",
+  "snapshot_id": "aegPgAAAAAAcjGX/YDlRIt8m1NqWUUfJ",
   "tracks": [
     {
       "added_at": null,
@@ -215,26 +215,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "EZIOKWU",
-        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
+        "name": "Dance for Jesus",
+        "url": "https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "ECko Miles",
-          "url": "https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD"
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
         },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 184077,
-      "name": "PICANTO (feat. Zlatan and ECko Miles)",
-      "url": "https://open.spotify.com/track/08tSNwcNYM9yjuYF9jFvOu"
+      "duration_ms": 200948,
+      "name": "Dance for Jesus",
+      "url": "https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR"
     },
     {
       "added_at": null,
@@ -259,6 +259,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "EZIOKWU",
+        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "ECko Miles",
+          "url": "https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 184077,
+      "name": "PICANTO (feat. Zlatan and ECko Miles)",
+      "url": "https://open.spotify.com/track/08tSNwcNYM9yjuYF9jFvOu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BlownBoy RU",
         "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
       },
@@ -275,30 +299,6 @@
       "duration_ms": 180000,
       "name": "Giveaway",
       "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dance for Jesus",
-        "url": "https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 200948,
-      "name": "Dance for Jesus",
-      "url": "https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR"
     },
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 223531,
-      "name": "Killin Dem (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/7tZkNNRpseecV80chiIeDT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Astalavista",
         "url": "https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 171921,
       "name": "Astalavista",
       "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 223531,
+      "name": "Killin Dem (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/7tZkNNRpseecV80chiIeDT"
     },
     {
       "added_at": null,
@@ -952,13 +952,13 @@
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         },
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 167213,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/7nZYHOgh3h09onNIZIFLOm"
+      "duration_ms": 194823,
+      "name": "Alubarika",
+      "url": "https://open.spotify.com/track/6G242ZcM4Ic3WauviZ7w9S"
     },
     {
       "added_at": null,
@@ -1036,13 +1036,13 @@
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         },
         {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 194823,
-      "name": "Alubarika",
-      "url": "https://open.spotify.com/track/6G242ZcM4Ic3WauviZ7w9S"
+      "duration_ms": 167213,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/7nZYHOgh3h09onNIZIFLOm"
     },
     {
       "added_at": null,

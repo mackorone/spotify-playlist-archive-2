@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 338329,
+  "num_followers": 338372,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAAxjCcc3jNGmI+SZTKhvS5S",
+  "snapshot_id": "aegPgAAAAADfeFRC/8P/RMdIGAl4B93a",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Sign Of Weakness",
+        "url": "https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 176159,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/6fXDXIPwX97mqCrqLFAt2p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Fall-Off",
         "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 286866,
       "name": "Only You (with Burna Boy)",
       "url": "https://open.spotify.com/track/0nn0Z1o1WI01pB7oEPiJeE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Sign Of Weakness",
-        "url": "https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 176159,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/6fXDXIPwX97mqCrqLFAt2p"
     },
     {
       "added_at": null,

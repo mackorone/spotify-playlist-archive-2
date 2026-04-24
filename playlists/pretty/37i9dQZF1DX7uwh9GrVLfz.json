@@ -1,6 +1,6 @@
 {
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. / \u30ec\u30b8\u30a7\u30f3\u30c9\u3082\u65b0\u4e16\u4ee3\u3082\u4e00\u3064\u306e\u53eb\u3073\u306b\u3002\u9032\u5316\u3057\u7d9a\u3051\u308b\u65e5\u672c\u306e\u30d1\u30f3\u30af\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: TENDOUJI",
-  "num_followers": 133814,
+  "num_followers": 133838,
   "original_name": "Punk Japan",
   "owner": {
     "name": "Spotify",
@@ -495,8 +495,8 @@
     {
       "added_at": "2026-04-21 15:00:35",
       "album": {
-        "name": "\u66d6\u6627",
-        "url": "https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY"
+        "name": "\u3042\u306e\u65e5\u3001\u3042\u306e\u5834\u6240/\u7729\u5149",
+        "url": "https://open.spotify.com/album/1VSTDVmonKezz5ZiBtc66c"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
         }
       ],
-      "duration_ms": 222125,
-      "name": "\u66d6\u6627",
-      "url": "https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH"
+      "duration_ms": 214500,
+      "name": "\u7729\u5149",
+      "url": "https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp"
     },
     {
       "added_at": "2026-04-21 15:00:35",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-04-21 15:00:35",
       "album": {
+        "name": "Screaming Newborn Baby",
+        "url": "https://open.spotify.com/album/09nuQw1Ef5RiQ7fK2oSjrE"
+      },
+      "artists": [
+        {
+          "name": "Hi-STANDARD",
+          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "Song About Fat Mike",
+      "url": "https://open.spotify.com/track/1UPe0076tHq77WAd7NMOtD"
+    },
+    {
+      "added_at": "2026-04-21 15:00:35",
+      "album": {
         "name": "ETERNAL RECURRENCE",
         "url": "https://open.spotify.com/album/6KxD8LRLX3WRXM7pr7eEJW"
       },
@@ -559,6 +575,22 @@
     {
       "added_at": "2026-04-21 15:00:35",
       "album": {
+        "name": "\u66d6\u6627",
+        "url": "https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 222125,
+      "name": "\u66d6\u6627",
+      "url": "https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH"
+    },
+    {
+      "added_at": "2026-04-21 15:00:35",
+      "album": {
         "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
         "url": "https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v"
       },
@@ -571,38 +603,6 @@
       "duration_ms": 234627,
       "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
       "url": "https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj"
-    },
-    {
-      "added_at": "2026-04-21 15:00:35",
-      "album": {
-        "name": "\u3042\u306e\u65e5\u3001\u3042\u306e\u5834\u6240/\u7729\u5149",
-        "url": "https://open.spotify.com/album/1VSTDVmonKezz5ZiBtc66c"
-      },
-      "artists": [
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "\u7729\u5149",
-      "url": "https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp"
-    },
-    {
-      "added_at": "2026-04-21 15:00:35",
-      "album": {
-        "name": "Screaming Newborn Baby",
-        "url": "https://open.spotify.com/album/09nuQw1Ef5RiQ7fK2oSjrE"
-      },
-      "artists": [
-        {
-          "name": "Hi-STANDARD",
-          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "Song About Fat Mike",
-      "url": "https://open.spotify.com/track/1UPe0076tHq77WAd7NMOtD"
     },
     {
       "added_at": "2026-04-21 15:00:35",
@@ -883,22 +883,18 @@
     {
       "added_at": "2026-04-21 15:00:35",
       "album": {
-        "name": "Straight Up (feat. Kj)",
-        "url": "https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5"
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1"
       },
       "artists": [
         {
           "name": "The BONEZ",
           "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
-        },
-        {
-          "name": "Kj",
-          "url": "https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq"
         }
       ],
-      "duration_ms": 252300,
-      "name": "Straight Up (feat. Kj)",
-      "url": "https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ"
+      "duration_ms": 153866,
+      "name": "Love song",
+      "url": "https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4"
     },
     {
       "added_at": "2026-04-21 15:00:35",
@@ -967,18 +963,22 @@
     {
       "added_at": "2026-04-21 15:00:35",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1"
+        "name": "Straight Up (feat. Kj)",
+        "url": "https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5"
       },
       "artists": [
         {
           "name": "The BONEZ",
           "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
+        },
+        {
+          "name": "Kj",
+          "url": "https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq"
         }
       ],
-      "duration_ms": 153866,
-      "name": "Love song",
-      "url": "https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4"
+      "duration_ms": 252300,
+      "name": "Straight Up (feat. Kj)",
+      "url": "https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ"
     },
     {
       "added_at": "2026-04-21 15:00:35",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-04-21 15:00:35",
       "album": {
-        "name": "\u305a\u3063\u304d\u3085\u3093\u2661",
-        "url": "https://open.spotify.com/album/5HuFjY4PmfgCk3JDxdbJ2o"
-      },
-      "artists": [
-        {
-          "name": "\u30ab\u30e9\u30a4\u30c9\u30b9\u30b3\u30fc\u30d7",
-          "url": "https://open.spotify.com/artist/5VPAcL1oXbwABg16QXigGK"
-        }
-      ],
-      "duration_ms": 180828,
-      "name": "\u305a\u3063\u304d\u3085\u3093\u2661",
-      "url": "https://open.spotify.com/track/6Mc9ye2PRb8Fb2AggnvFV7"
-    },
-    {
-      "added_at": "2026-04-21 15:00:35",
-      "album": {
         "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc\u30fb\u30b7\u30fc\u30b5\u30a4\u30c9",
         "url": "https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 197269,
       "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc\u30fb\u30b7\u30fc\u30b5\u30a4\u30c9",
       "url": "https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH"
+    },
+    {
+      "added_at": "2026-04-21 15:00:35",
+      "album": {
+        "name": "\u305a\u3063\u304d\u3085\u3093\u2661",
+        "url": "https://open.spotify.com/album/5HuFjY4PmfgCk3JDxdbJ2o"
+      },
+      "artists": [
+        {
+          "name": "\u30ab\u30e9\u30a4\u30c9\u30b9\u30b3\u30fc\u30d7",
+          "url": "https://open.spotify.com/artist/5VPAcL1oXbwABg16QXigGK"
+        }
+      ],
+      "duration_ms": 180828,
+      "name": "\u305a\u3063\u304d\u3085\u3093\u2661",
+      "url": "https://open.spotify.com/track/6Mc9ye2PRb8Fb2AggnvFV7"
     },
     {
       "added_at": "2026-04-21 15:00:35",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-04-21 15:00:35",
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/4wdkJEh3CqOjgNx9FW5JDn"
-      },
-      "artists": [
-        {
-          "name": "Okazaki Taiiku",
-          "url": "https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW"
-        }
-      ],
-      "duration_ms": 139773,
-      "name": "Suffer",
-      "url": "https://open.spotify.com/track/3wBJ9ZwrL74MC4IjfUwrBb"
-    },
-    {
-      "added_at": "2026-04-21 15:00:35",
-      "album": {
         "name": "Beginning",
         "url": "https://open.spotify.com/album/69fiqV5Tge5nuNaaf1MJye"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 254053,
       "name": "Place of Fire - Beginning mix",
       "url": "https://open.spotify.com/track/7vcx8In5HIZGG5ZsH0J6IH"
+    },
+    {
+      "added_at": "2026-04-21 15:00:35",
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/4wdkJEh3CqOjgNx9FW5JDn"
+      },
+      "artists": [
+        {
+          "name": "Okazaki Taiiku",
+          "url": "https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW"
+        }
+      ],
+      "duration_ms": 139773,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/3wBJ9ZwrL74MC4IjfUwrBb"
     },
     {
       "added_at": "2026-04-21 15:00:35",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2026-04-21 15:00:35",
       "album": {
-        "name": "\u83ef\u91d1",
-        "url": "https://open.spotify.com/album/0D5jEFP28lc26QE0tZjjWb"
+        "name": "\u52dd\u624b\u306b\u30ed\u30c3\u30af\u30f3\u30ed\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/3iXjHOdyjZ7mkiFVeF2CFZ"
       },
       "artists": [
         {
-          "name": "\u304b\u3089\u3042\u3052\u5f01\u5f53",
-          "url": "https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz"
+          "name": "The Inazuma Sentai",
+          "url": "https://open.spotify.com/artist/5tJXdkYUGeqkd1OiHDaNLD"
         }
       ],
-      "duration_ms": 165583,
-      "name": "\u83ef\u91d1",
-      "url": "https://open.spotify.com/track/4gINvq2qevbFHwyynmqDZL"
+      "duration_ms": 329066,
+      "name": "\u5fdc\u63f4\u6b4c",
+      "url": "https://open.spotify.com/track/4Jr2oNi8Tt6W5WZHYvqAsd"
     },
     {
       "added_at": "2026-04-21 15:00:35",
@@ -1487,22 +1487,6 @@
       "duration_ms": 186706,
       "name": "BEK",
       "url": "https://open.spotify.com/track/4XADQSC4BZQle5UYYkGhSY"
-    },
-    {
-      "added_at": "2026-04-21 15:00:35",
-      "album": {
-        "name": "\u52dd\u624b\u306b\u30ed\u30c3\u30af\u30f3\u30ed\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/3iXjHOdyjZ7mkiFVeF2CFZ"
-      },
-      "artists": [
-        {
-          "name": "The Inazuma Sentai",
-          "url": "https://open.spotify.com/artist/5tJXdkYUGeqkd1OiHDaNLD"
-        }
-      ],
-      "duration_ms": 329066,
-      "name": "\u5fdc\u63f4\u6b4c",
-      "url": "https://open.spotify.com/track/4Jr2oNi8Tt6W5WZHYvqAsd"
     },
     {
       "added_at": "2026-04-21 15:00:35",
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2026-04-21 15:00:35",
       "album": {
+        "name": "\u83ef\u91d1",
+        "url": "https://open.spotify.com/album/0D5jEFP28lc26QE0tZjjWb"
+      },
+      "artists": [
+        {
+          "name": "\u304b\u3089\u3042\u3052\u5f01\u5f53",
+          "url": "https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz"
+        }
+      ],
+      "duration_ms": 165583,
+      "name": "\u83ef\u91d1",
+      "url": "https://open.spotify.com/track/4gINvq2qevbFHwyynmqDZL"
+    },
+    {
+      "added_at": "2026-04-21 15:00:35",
+      "album": {
         "name": "STEADY",
         "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-04-21 15:00:35",
       "album": {
-        "name": "\u6c38\u9060\u885d\u52d5",
-        "url": "https://open.spotify.com/album/1qmSmgNIWi1DwyXGv4Fbtz"
-      },
-      "artists": [
-        {
-          "name": "I's",
-          "url": "https://open.spotify.com/artist/2nLJEolH6pXx09IC4LrWBU"
-        }
-      ],
-      "duration_ms": 254130,
-      "name": "\u6c38\u9060\u885d\u52d5",
-      "url": "https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE"
-    },
-    {
-      "added_at": "2026-04-21 15:00:35",
-      "album": {
         "name": "Rest In Punk",
         "url": "https://open.spotify.com/album/7n7WePqrUPA7JcC7XY9lY4"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 152941,
       "name": "Rest In Punk",
       "url": "https://open.spotify.com/track/5bHgEvzoyK9OAVtQhGWLMJ"
+    },
+    {
+      "added_at": "2026-04-21 15:00:35",
+      "album": {
+        "name": "\u6c38\u9060\u885d\u52d5",
+        "url": "https://open.spotify.com/album/1qmSmgNIWi1DwyXGv4Fbtz"
+      },
+      "artists": [
+        {
+          "name": "I's",
+          "url": "https://open.spotify.com/artist/2nLJEolH6pXx09IC4LrWBU"
+        }
+      ],
+      "duration_ms": 254130,
+      "name": "\u6c38\u9060\u885d\u52d5",
+      "url": "https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE"
     },
     {
       "added_at": "2026-04-21 15:00:35",

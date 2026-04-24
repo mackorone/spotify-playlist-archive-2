@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,951 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,973 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 7 | [1 Dag](https://open.spotify.com/track/4zQh8F0jxyUsKBdKjVvy2x) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd) | [1 Dag](https://open.spotify.com/album/1SIgkWVynAWhGZ1s5wyME6) | 3:24 |
 | 8 | [\(Die Man Is\) Verliefd](https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [\(Die Man Is\) Verliefd](https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2) | 3:06 |
 | 9 | [Bij Deze](https://open.spotify.com/track/4z4K2NBEoW9qugu9JfSYjZ) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Bij Deze](https://open.spotify.com/album/29h7wT24Rbq5nQz3thyXek) | 2:48 |
-| 10 | [Op Jou Heb Ik Gewacht](https://open.spotify.com/track/0uOc3SO3ZkrNeL5khr4GUn) | [De Poema's](https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh), [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Op Jou Heb Ik Gewacht](https://open.spotify.com/album/2FNg6ZrAoDT0KxI1sy97b2) | 2:55 |
+| 10 | [Mijn Liefste](https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Mijn Liefste](https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo) | 3:10 |
 | 11 | [Patronen](https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh) | 2:53 |
 | 12 | [Voor Je ‘t Weet](https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Voor Je ‘t Weet](https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc) | 3:17 |
-| 13 | [Mijn Liefste](https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Mijn Liefste](https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo) | 3:10 |
+| 13 | [Op Jou Heb Ik Gewacht](https://open.spotify.com/track/0uOc3SO3ZkrNeL5khr4GUn) | [De Poema's](https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh), [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Op Jou Heb Ik Gewacht](https://open.spotify.com/album/2FNg6ZrAoDT0KxI1sy97b2) | 2:55 |
 | 14 | [We Leven Nu](https://open.spotify.com/track/6iwZINFNsfDcfKZFarAsTn) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [We Leven Nu](https://open.spotify.com/album/5C3EV0dEs7nycg5r0zTxhS) | 3:10 |
 | 15 | [Oktober](https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Oktober](https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW) | 3:21 |
 | 16 | [Nergens Liever](https://open.spotify.com/track/5PhLJO4IkwuWwUlnRr0VKH) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Nergens Liever](https://open.spotify.com/album/7BfMAnfZJBqhrRy16FbpzB) | 3:15 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 42 | [Ik neem jou mee](https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Ik neem jou mee](https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18) | 2:49 |
 | 43 | [Plus 1](https://open.spotify.com/track/3ypWTDKWHj7dtfYB6zXVrt) | [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Plus 1](https://open.spotify.com/album/6qlG8hIZMSR6DOamCzu5rE) | 3:03 |
 | 44 | [Alles Wat Ik Zoek \- Radio Edit](https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Alles Wat Ik Zoek \(Radio Edit\)](https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt) | 2:48 |
-| 45 | [Je bent de lente](https://open.spotify.com/track/7iFnSru1Fn45zNVQnWcLCL) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Ruimte](https://open.spotify.com/album/0ReBNgHoYi3Mh0lUzDJ5p8) | 2:44 |
-| 46 | [Tranen](https://open.spotify.com/track/7747domZyQuAyHPMy6jvAn) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Gerson Main](https://open.spotify.com/artist/4Dx8d8fm84Z6b1RDuF4Co7) | [Tranen](https://open.spotify.com/album/1w1Jg5FgU11wyjh06ly8cU) | 3:19 |
-| 47 | [Ik Mis Je Nu Wel Hier](https://open.spotify.com/track/3My7OXHwp10NwgbCoR3KRt) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Ik Mis Je Nu Wel Hier](https://open.spotify.com/album/0SUcRdL1V8ddBXH3MKjkf6) | 3:01 |
-| 48 | [Bennie](https://open.spotify.com/track/4CI8h2cW6luzQtcJRr8ApQ) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Bennie](https://open.spotify.com/album/5wpuCWPH2uf6fVOQBLxWve) | 2:37 |
-| 49 | [Ik Weet Dat Jij Het Niet Weet](https://open.spotify.com/track/3IkpXUu95h0zEOnkxzbqjU) | [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd) | [Ik Weet Dat Jij Het Niet Weet](https://open.spotify.com/album/1ybW8KtzTEhTOuEp1JFXLi) | 3:42 |
-| 50 | [Tijd Genoeg](https://open.spotify.com/track/7JGJexoaC9puUyX51N5JJe) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv), [Holly Mae Brood](https://open.spotify.com/artist/7KmE9e7DEnGRV4ZPhBj83k) | [Tijd Genoeg](https://open.spotify.com/album/4A6d7ZUpUrfpmcRG2RdTVF) | 2:51 |
+| 45 | [Hou van mezelf](https://open.spotify.com/track/0FcqV3x0ctMnnK82W2TA43) | [Pleun](https://open.spotify.com/artist/3pb53tofp8YlvcYAlWHNjx) | [Hou van mezelf](https://open.spotify.com/album/2yDI54RFHQgh3MvGPAhcqD) | 3:00 |
+| 46 | [Je bent de lente](https://open.spotify.com/track/7iFnSru1Fn45zNVQnWcLCL) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Ruimte](https://open.spotify.com/album/0ReBNgHoYi3Mh0lUzDJ5p8) | 2:44 |
+| 47 | [Tranen](https://open.spotify.com/track/7747domZyQuAyHPMy6jvAn) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Gerson Main](https://open.spotify.com/artist/4Dx8d8fm84Z6b1RDuF4Co7) | [Tranen](https://open.spotify.com/album/1w1Jg5FgU11wyjh06ly8cU) | 3:19 |
+| 48 | [Ik Mis Je Nu Wel Hier](https://open.spotify.com/track/3My7OXHwp10NwgbCoR3KRt) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Ik Mis Je Nu Wel Hier](https://open.spotify.com/album/0SUcRdL1V8ddBXH3MKjkf6) | 3:01 |
+| 49 | [Bennie](https://open.spotify.com/track/4CI8h2cW6luzQtcJRr8ApQ) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Bennie](https://open.spotify.com/album/5wpuCWPH2uf6fVOQBLxWve) | 2:37 |
+| 50 | [Ik Weet Dat Jij Het Niet Weet](https://open.spotify.com/track/3IkpXUu95h0zEOnkxzbqjU) | [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd) | [Ik Weet Dat Jij Het Niet Weet](https://open.spotify.com/album/1ybW8KtzTEhTOuEp1JFXLi) | 3:42 |
 
-Snapshot ID: `AAAAAKMFVDwtonFW3qmU6hVk70Wu11le`
+Snapshot ID: `AAAAAMrSeA/0uGF6gxVdFi+J2mngzgMb`

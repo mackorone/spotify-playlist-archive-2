@@ -816,7 +816,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 205700,
       "name": "Buku Karangan",
       "url": "https://open.spotify.com/track/438qCNAcK8KnU88dezHPbB"
@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 232727,
       "name": "Harus Terpisah",
       "url": "https://open.spotify.com/track/4h5HFfqHYTtZRIIecbFqj6"
@@ -1644,7 +1644,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-07",
+      "date_removed": null,
       "duration_ms": 293320,
       "name": "Kasih Tak Sampai",
       "url": "https://open.spotify.com/track/1oAWbr6TXkRajJKgSm1vF5"
@@ -2659,6 +2659,24 @@
     },
     {
       "album": {
+        "name": "Mungkin di Depan Buram",
+        "url": "https://open.spotify.com/album/7A2XPc9WgnKN3S4yGUJVLo"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157969,
+      "name": "Mungkin di Depan Buram",
+      "url": "https://open.spotify.com/track/7Jg5lblHcvzWRHppWHa7ff"
+    },
+    {
+      "album": {
         "name": "Keterkaitan Keterikatan",
         "url": "https://open.spotify.com/album/2neCA2QvCmVvpfT00Oz7Bi"
       },
@@ -3027,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "Rabun Jauh",
+        "url": "https://open.spotify.com/album/0gD4VL7vdxZfeUkRfTpLRM"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175176,
+      "name": "Rabun Jauh",
+      "url": "https://open.spotify.com/track/670sqeIKIxTu0DweRjnjKt"
+    },
+    {
+      "album": {
         "name": "Paradoks",
         "url": "https://open.spotify.com/album/1qJp3Va3JzFE3FPVClJDQc"
       },
@@ -3305,6 +3341,24 @@
     },
     {
       "album": {
+        "name": "Sakit Tak Bertepi",
+        "url": "https://open.spotify.com/album/1MGTOliljedWpKTE4JniPV"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333400,
+      "name": "Sakit Tak Bertepi",
+      "url": "https://open.spotify.com/track/2ywVsiYrLd6OjFMSFAVTn2"
+    },
+    {
+      "album": {
         "name": "A Portrait Of Yovie",
         "url": "https://open.spotify.com/album/3tqFD0rkjl4GNerGRfAA5q"
       },
@@ -3562,7 +3616,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 254900,
       "name": "Semusim",
       "url": "https://open.spotify.com/track/0F0usCZL8B4ichHqUWAAI2"
@@ -4578,7 +4632,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 240473,
       "name": "Terserah",
       "url": "https://open.spotify.com/track/4opS1cEuIRYchI8O85kZ0r"

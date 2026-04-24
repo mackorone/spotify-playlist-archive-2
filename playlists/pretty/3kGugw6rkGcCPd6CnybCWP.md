@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 76 songs - 4 hr 23 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 79 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,5 +84,8 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 74 | [INVITE ONLY](https://open.spotify.com/track/01GXPg6mBgZndeB0R5pxZj) | [TONE](https://open.spotify.com/artist/7BTanMvfNlUM7nc1GSeiAu) | [INVITE ONLY](https://open.spotify.com/album/3YJmqiyXFF8QokbmiUQLxt) | 1:42 |
 | 75 | [Freakuency](https://open.spotify.com/track/6L5zC9NF2GgTXtlV9lyQaN) | [eyrin](https://open.spotify.com/artist/4pj5GKqMmzVNKsJHEgmiQb) | [Freakuency](https://open.spotify.com/album/5fTRffrRAXmip1mUb0r2Aw) | 4:25 |
 | 76 | [Sticks and Mud](https://open.spotify.com/track/0pOUxLuxxUMWDV6DUUxprJ) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Daydreams](https://open.spotify.com/album/08LOH6LRX9CGSqsRDV0Tpr) | 3:03 |
+| 77 | [Do It for the Love](https://open.spotify.com/track/1H9OJ0qE5I2595jeG72ZMZ) | [Narcotic Hearts](https://open.spotify.com/artist/4icQIBDsvhbkTnrFuctLV0) | [Open up Your Mind's Eye](https://open.spotify.com/album/5n09KMS0CKmlOdQ7TQYAn5) | 2:24 |
+| 78 | [I Tried](https://open.spotify.com/track/31n6laL6k7g4t1DhsFePcS) | [MALØNE](https://open.spotify.com/artist/2kjoQ9U3dMg6YcrUiP6540) | [Energy](https://open.spotify.com/album/3hvmpzjC41l5LXXl0JT73N) | 2:10 |
+| 79 | [System Fallin](https://open.spotify.com/track/21SPd4SsKN5BpE5QL0NwHU) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [System Fallin](https://open.spotify.com/album/2mulFAqmG4VU57DNtHnjUZ) | 4:26 |
 
-Snapshot ID: `AAAOlumA2mnWocmSYXw3ZCvIPXx/IBQW`
+Snapshot ID: `AAAOmf2FyOiYIUi7JpAL+z0TzGIC9q1R`

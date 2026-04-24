@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,091 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,099 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 47 | [UNA CUMBITA](https://open.spotify.com/track/3GpnVe55oNyrjtrKy8ZMQJ) | [Qmbia Base](https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU) | [UNA CUMBITA](https://open.spotify.com/album/2xQpj4BrjTCrMmPgHYs4Az) | 2:15 |
 | 48 | [Estación Lunar](https://open.spotify.com/track/2enrZW8F0pWuC5oNvIyQ0L) | [Joshua Dietrich](https://open.spotify.com/artist/4vPrmLDojtC3tm1jXb4XfM) | [Estación Lunar](https://open.spotify.com/album/4Ub0A1BZ6b4wGetZC8KrbI) | 3:16 |
 | 49 | [Auto](https://open.spotify.com/track/2deq9FLu0FHizs9pPsPCNv) | [El Culto Casero](https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Auto](https://open.spotify.com/album/3ZdRSfSaKDElyVwAvpRaQf) | 2:22 |
-| 50 | [Si Tú Te Vas \- Acústico en Vivo](https://open.spotify.com/track/4OTFNviyg8qHuASnJX0O9S) | [Diego Ríos](https://open.spotify.com/artist/32An3BhfaGxJr8qCVDgGwR), [So pra Voce](https://open.spotify.com/artist/0JIPol8rpq423zn3iZ4V9n), [Talento De Barrio](https://open.spotify.com/artist/4475BmzzuqYgDqvJZCySZ3) | [Acústico en Paraguay \(En Vivo\)](https://open.spotify.com/album/4yspRKo0YaXP6MwxK1OaFV) | 4:08 |
+| 50 | [Alpha](https://open.spotify.com/track/3694uSFilgXYyEGFalAlJV) | [Flou](https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk) | [Alpha](https://open.spotify.com/album/16r1WIgldvVmCchytQQT2S) | 3:18 |
 
 Snapshot ID: `AAAAAOGNLgadf1RFYhS1Psm444jkrjCR`

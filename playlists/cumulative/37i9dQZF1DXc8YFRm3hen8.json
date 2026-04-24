@@ -675,6 +675,28 @@
     },
     {
       "album": {
+        "name": "Asuntos Pendientes",
+        "url": "https://open.spotify.com/album/7tSKFATSiDcq7ICjqTNkw2"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Btesh",
+          "url": "https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p"
+        },
+        {
+          "name": "Los Asuntos Pendientes",
+          "url": "https://open.spotify.com/artist/1IwFwWTYrADJ1S25hJGVrZ"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230919,
+      "name": "Asuntos Pendientes",
+      "url": "https://open.spotify.com/track/44RYW95jREvGqOeq7XxJ1j"
+    },
+    {
+      "album": {
         "name": "AUTOESTIMA",
         "url": "https://open.spotify.com/album/2WIPTovvQmyBCVLBIouNOv"
       },
@@ -1882,7 +1904,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 204822,
       "name": "Dispuesto A Morir",
       "url": "https://open.spotify.com/track/67SlD9Piai5B0tHaFaUbbY"
@@ -2156,7 +2178,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 161644,
       "name": "El Golpe",
       "url": "https://open.spotify.com/track/0tWi5fpKo2zTMY06uehmDd"
@@ -2558,6 +2580,24 @@
       "duration_ms": 208818,
       "name": "En Llamas",
       "url": "https://open.spotify.com/track/5o6PX1e55av0a4X8sDg95V"
+    },
+    {
+      "album": {
+        "name": "En m\u00ed",
+        "url": "https://open.spotify.com/album/0bC4S7c0yVxmCd2zC9fF1l"
+      },
+      "artists": [
+        {
+          "name": "Joystick",
+          "url": "https://open.spotify.com/artist/4jLnkyQUqdN35FQGBPAhji"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226360,
+      "name": "En m\u00ed",
+      "url": "https://open.spotify.com/track/7nE6zApRgCNaNl22OYIQOZ"
     },
     {
       "album": {
@@ -2982,7 +3022,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 168354,
       "name": "F\u00f3sforo",
       "url": "https://open.spotify.com/track/0mooC37jaDgZ7voFkUqh5p"
@@ -3022,6 +3062,28 @@
       "duration_ms": 195039,
       "name": "Gracias a Vos",
       "url": "https://open.spotify.com/track/76VjyP6ZghLdYKSg1HINbN"
+    },
+    {
+      "album": {
+        "name": "Viaje 20 A\u00f1os",
+        "url": "https://open.spotify.com/album/6eDW35cJsD69VBDyWPE6gh"
+      },
+      "artists": [
+        {
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+        },
+        {
+          "name": "Wayra Iglesias",
+          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198976,
+      "name": "Guerrero",
+      "url": "https://open.spotify.com/track/3ChYPpfRYezxGMAIEGuJ0o"
     },
     {
       "album": {
@@ -3858,7 +3920,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 207770,
       "name": "La otra mitad",
       "url": "https://open.spotify.com/track/5FNvd2CvzZoxDc02a6ivRf"
@@ -6651,6 +6713,28 @@
     },
     {
       "album": {
+        "name": "IKIGAI",
+        "url": "https://open.spotify.com/album/2xBlVIjO8LnbZZTyyMMoO6"
+      },
+      "artists": [
+        {
+          "name": "Los Perez Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
+        },
+        {
+          "name": "Manuel Moretti",
+          "url": "https://open.spotify.com/artist/2OHC8FLow0MAt62MoMRzZk"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Seguiran",
+      "url": "https://open.spotify.com/track/4Md1pw0055pp0mmSBfTeuB"
+    },
+    {
+      "album": {
         "name": "Gente en la ventana",
         "url": "https://open.spotify.com/album/1n0QvQJB2suA5fO2fLkNTN"
       },
@@ -6894,6 +6978,28 @@
       "duration_ms": 223182,
       "name": "Suelto",
       "url": "https://open.spotify.com/track/6pCeEWCyIlOuwG5J3q2pKP"
+    },
+    {
+      "album": {
+        "name": "Suenan Alarmas",
+        "url": "https://open.spotify.com/album/4wn3FA0UJWdZEqGP4aMyqW"
+      },
+      "artists": [
+        {
+          "name": "Charlie 3",
+          "url": "https://open.spotify.com/artist/3RwrtPalOirm2bzT7B1NPS"
+        },
+        {
+          "name": "Walas",
+          "url": "https://open.spotify.com/artist/1vn1P4IIBrr7MB0glpcYJc"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177386,
+      "name": "Suenan Alarmas",
+      "url": "https://open.spotify.com/track/5Gl9TRphsimqFZEwFt0KBK"
     },
     {
       "album": {
@@ -8366,7 +8472,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 223532,
       "name": "Ya No Mires Atr\u00e1s",
       "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"

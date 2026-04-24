@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 95889,
+  "num_followers": 95913,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAABqWpEtQSOPjZxFa2atJvJ2",
+  "snapshot_id": "aegPgAAAAABrpSK7YW11Tv5VhuBp3T/u",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRAVES\u00cdA",
-        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 140876,
-      "name": "Colombiana",
-      "url": "https://open.spotify.com/track/039aOHBd1WzJdbN2RVVNAG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Punto y Aparte",
         "url": "https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 180208,
       "name": "Simbolo Sexual",
       "url": "https://open.spotify.com/track/3fYV6za0eCj6b692AnOgDA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRAVES\u00cdA",
+        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 140876,
+      "name": "Colombiana",
+      "url": "https://open.spotify.com/track/039aOHBd1WzJdbN2RVVNAG"
     },
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Punto y Aparte",
+        "url": "https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 177949,
+      "name": "Sin Evidencias",
+      "url": "https://open.spotify.com/track/4xCdzDuxh7H8HaU3xgrm8r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Dos de los Antrax",
         "url": "https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 199769,
       "name": "El Dos de los Antrax",
       "url": "https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Punto y Aparte",
-        "url": "https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 177949,
-      "name": "Sin Evidencias",
-      "url": "https://open.spotify.com/track/4xCdzDuxh7H8HaU3xgrm8r"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Punto y Aparte",
+        "url": "https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 151498,
+      "name": "El 10 De Mayo",
+      "url": "https://open.spotify.com/track/3byxpMlO1fibRSCunq8iXj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Borracho Enamorado",
         "url": "https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 152776,
       "name": "Borracho Enamorado",
       "url": "https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Punto y Aparte",
-        "url": "https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 151498,
-      "name": "El 10 De Mayo",
-      "url": "https://open.spotify.com/track/3byxpMlO1fibRSCunq8iXj"
     },
     {
       "added_at": null,
@@ -548,7 +548,7 @@
       "added_at": null,
       "album": {
         "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+        "url": "https://open.spotify.com/album/4MlTW5nN0Ao1cPqudPiCnE"
       },
       "artists": [
         {
@@ -557,14 +557,14 @@
         }
       ],
       "duration_ms": 168552,
-      "name": "Hay Unos Ojos (En Vivo)",
-      "url": "https://open.spotify.com/track/2xnNGK1hk6CPmiRczR2eWS"
+      "name": "Hay Unos Ojos - En Vivo",
+      "url": "https://open.spotify.com/track/5XYqS4FF4WSfyhiGvn1dkh"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Punto Y Aparte",
-        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+        "name": "Punto y Aparte",
+        "url": "https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z"
       },
       "artists": [
         {
@@ -574,7 +574,7 @@
       ],
       "duration_ms": 133261,
       "name": "GPI",
-      "url": "https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc"
+      "url": "https://open.spotify.com/track/7DsD9yMF1utdPikPX8qDWc"
     },
     {
       "added_at": null,
@@ -767,8 +767,24 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/4MlTW5nN0Ao1cPqudPiCnE"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 187943,
+      "name": "Hombre Del Rancho - En Vivo",
+      "url": "https://open.spotify.com/track/5dVaCEZyRUS3VzYY9kfJT2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ramo Buch\u00f3n",
-        "url": "https://open.spotify.com/album/3XszKeKNdXtEMRKBhThpi8"
+        "url": "https://open.spotify.com/album/2arbYfprda4X7sQCtvvHua"
       },
       "artists": [
         {
@@ -782,7 +798,7 @@
       ],
       "duration_ms": 213333,
       "name": "Ramo Buch\u00f3n",
-      "url": "https://open.spotify.com/track/4Td2A1bW1NP1Utc9WZDfWr"
+      "url": "https://open.spotify.com/track/1FJDNq6RPx8TelKBmAe8RI"
     },
     {
       "added_at": null,
@@ -803,22 +819,6 @@
       "duration_ms": 240292,
       "name": "El Se\u00f1or De La Monta\u00f1a - Live",
       "url": "https://open.spotify.com/track/1eWdYjw95seoa2kSlEaLQE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/4MlTW5nN0Ao1cPqudPiCnE"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 187943,
-      "name": "Hombre Del Rancho - En Vivo",
-      "url": "https://open.spotify.com/track/5dVaCEZyRUS3VzYY9kfJT2"
     },
     {
       "added_at": null,
@@ -867,6 +867,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/4MlTW5nN0Ao1cPqudPiCnE"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
+        }
+      ],
+      "duration_ms": 118656,
+      "name": "El 50 - En Vivo",
+      "url": "https://open.spotify.com/track/7BaMloayPXaFVmrS962HUk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Buena Cepa",
         "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
       },
@@ -883,28 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Los Nuevos Rebeldes",
-          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
-        }
-      ],
-      "duration_ms": 118656,
-      "name": "El 50 (En Vivo)",
-      "url": "https://open.spotify.com/track/5bTY4jYz6tqdGyPIID96ke"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CORAZ\u00d3N ERRANTE",
-        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
+        "url": "https://open.spotify.com/album/0n8PHR1DzK3a1Yk2YUeW21"
       },
       "artists": [
         {
@@ -914,7 +914,7 @@
       ],
       "duration_ms": 198144,
       "name": "Tus Videos Virales",
-      "url": "https://open.spotify.com/track/1DvapZBB0AjOOMUbFkoj0Z"
+      "url": "https://open.spotify.com/track/001e1ksYKtxc72s6Cr0DLg"
     },
     {
       "added_at": null,

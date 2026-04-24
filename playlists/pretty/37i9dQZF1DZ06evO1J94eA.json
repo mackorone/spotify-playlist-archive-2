@@ -1,12 +1,12 @@
 {
   "description": "This is Herbie Hancock. The essential tracks, all in one playlist.",
-  "num_followers": 42200,
+  "num_followers": 42212,
   "original_name": "This Is Herbie Hancock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAC26TfMLm7rcR/+5OGGLozq",
+  "snapshot_id": "aegPgAAAAAA/M7+AmmtoREez8/OC8VPv",
   "tracks": [
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 361453,
-      "name": "The Eye Of The Hurricane - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3FBHUgNaKpWvTn9ArrGFmH"
+      "duration_ms": 527266,
+      "name": "Little One - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1D8x6XmpSuobQopGIXRo8u"
     },
     {
       "added_at": null,
@@ -528,25 +528,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 527266,
-      "name": "Little One - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1D8x6XmpSuobQopGIXRo8u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Point Of View (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 395466,
-      "name": "And What If I Don't Know",
-      "url": "https://open.spotify.com/track/27f0Yf20I6CITv7q1BwEr3"
+      "duration_ms": 361453,
+      "name": "The Eye Of The Hurricane - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3FBHUgNaKpWvTn9ArrGFmH"
     },
     {
       "added_at": null,
@@ -587,6 +571,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mr. Hands",
+        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 385048,
+      "name": "Spiraling Prism",
+      "url": "https://open.spotify.com/track/1FeJFOwVnDVgXA5VCORBtY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Point Of View (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 395466,
+      "name": "And What If I Don't Know",
+      "url": "https://open.spotify.com/track/27f0Yf20I6CITv7q1BwEr3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Imagine Project",
         "url": "https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Hands",
-        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 397804,
-      "name": "Textures",
-      "url": "https://open.spotify.com/track/6wyjGiFFJMNxFyY4h0ttYY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gershwin's World",
         "url": "https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG"
       },
@@ -631,6 +631,22 @@
       "duration_ms": 356160,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/0L1S8G9IuCssiPQgr0uEBo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Hands",
+        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 397804,
+      "name": "Textures",
+      "url": "https://open.spotify.com/track/6wyjGiFFJMNxFyY4h0ttYY"
     },
     {
       "added_at": null,
@@ -667,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Hands",
-        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 385048,
-      "name": "Spiraling Prism",
-      "url": "https://open.spotify.com/track/1FeJFOwVnDVgXA5VCORBtY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Funny Valentine (feat. Herbie Hancock)",
         "url": "https://open.spotify.com/album/12PDBrKzyuJal63TCuyd5Y"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 293493,
       "name": "My Funny Valentine (feat. Herbie Hancock)",
       "url": "https://open.spotify.com/track/2XlwQp17g1hnMGueyMY6pr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Hands",
+        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 323427,
+      "name": "4 A.M.",
+      "url": "https://open.spotify.com/track/6HFhLv0wa8129Y7AXgnQC7"
     },
     {
       "added_at": null,
@@ -735,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Hands",
-        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 323427,
-      "name": "4 A.M.",
-      "url": "https://open.spotify.com/track/6HFhLv0wa8129Y7AXgnQC7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Possibilities",
         "url": "https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH"
       },
@@ -775,38 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/67PT7U66Ql5HXNf5hP5zzC"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 538743,
-      "name": "I Thought It Was You",
-      "url": "https://open.spotify.com/track/0taRW8bPp2xW6ewm6PDMTZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 677893,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/2YQBDxMbQbOsdXixdL4ZyE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mr. Hands",
         "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
       },
@@ -819,6 +787,22 @@
       "duration_ms": 456104,
       "name": "Just Around the Corner",
       "url": "https://open.spotify.com/track/157EYJlm1CLRdjmEw3dCqG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/67PT7U66Ql5HXNf5hP5zzC"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 538743,
+      "name": "I Thought It Was You",
+      "url": "https://open.spotify.com/track/0taRW8bPp2xW6ewm6PDMTZ"
     },
     {
       "added_at": null,
@@ -839,38 +823,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Schizophrenia",
-        "url": "https://open.spotify.com/album/4Ngkptf4tipkoTOIjoF2kW"
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
       },
       "artists": [
         {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        },
-        {
-          "name": "Curtis Fuller",
-          "url": "https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK"
-        },
-        {
-          "name": "James Spaulding",
-          "url": "https://open.spotify.com/artist/6F5uZAPmezDckVTqNpmpn2"
-        },
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 677893,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/2YQBDxMbQbOsdXixdL4ZyE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gershwin's World",
+        "url": "https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG"
+      },
+      "artists": [
         {
           "name": "Herbie Hancock",
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         },
         {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        },
-        {
-          "name": "Joe Chambers",
-          "url": "https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 300800,
-      "name": "Miyako",
-      "url": "https://open.spotify.com/track/2m8F1DopzoORa4jbV4c3C4"
+      "duration_ms": 349160,
+      "name": "St. Louis Blues",
+      "url": "https://open.spotify.com/track/1rzV9wr9myXgDWvTcfIiq4"
     }
   ],
   "unique_name": "This Is Herbie Hancock",

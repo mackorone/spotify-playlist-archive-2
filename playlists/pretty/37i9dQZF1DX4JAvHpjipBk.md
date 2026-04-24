@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Olivia Rodrigo, Lana Del Rey, Sombr, Tyla & Zara Larsson, John Summit, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,553,181 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,553,073 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 50 | [The Fall](https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT) | [THEATRE](https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc) | [The Fall](https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx) | 4:19 |
 | 51 | [White Flag](https://open.spotify.com/track/1Lk4rIjW0TcZ0KGTClWsPE) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [White Flag](https://open.spotify.com/album/2uB5nyQCsFejw9e0cpzlVm) | 2:51 |
 | 52 | [Wannabe](https://open.spotify.com/track/0JeY4GvsnwccrpxqPbdnqC) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wannabe](https://open.spotify.com/album/0pXgJekW0XCYpsXpmEkht2) | 2:30 |
-| 53 | [ifidiewouldyoucry](https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [ifidiewouldyoucry](https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV) | 2:55 |
+| 53 | [ifidiewouldyoucry](https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [ifidiewouldyoucry](https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV) | 2:55 |
 | 54 | [Enough](https://open.spotify.com/track/0f5EhuNMwbizCKWPxo4j6s) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7) | [Enough](https://open.spotify.com/album/6IiC7JXB47i74ybfGV4xcx) | 1:42 |
 | 55 | [Rent Free](https://open.spotify.com/track/4nqmjJRPy28DAM7URfrR4K) | [Alexia Jayy](https://open.spotify.com/artist/13qhBGFWNzC29m0Cq2inta), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Rent Free](https://open.spotify.com/album/1kMBG2Mxs7VC6loY4vMqRH) | 3:15 |
 | 56 | [FERRARI](https://open.spotify.com/track/6LPA5jARmoB8MYsZoHFjIW) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [FERRARI](https://open.spotify.com/album/2gwCniqY1EvKAjcZYwhAto) | 2:14 |

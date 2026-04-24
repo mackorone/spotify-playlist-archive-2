@@ -4,7 +4,7 @@
 
 > Canciones directas y banderas al viento\. Foto: reybruja
 
-223 songs - 15 hr 7 min
+224 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [La Razón Que Te Demora](https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Detonador de Sueños](https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ) | 4:24 | 2022-04-01 | 2026-03-22 |
 | [Las cosas que no se tocan](https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 3:34 | 2022-04-01 |  |
 | [Lejos](https://open.spotify.com/track/69abH6M0C97G5sT52PWA6T) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Hermanos](https://open.spotify.com/album/4Y6sjWEwLfRco4b75rZmOW) | 3:38 | 2024-11-11 |  |
+| [Lejos de ser](https://open.spotify.com/track/1sp0nMEZ3FsA3CzjfdkB6e) | [Pity](https://open.spotify.com/artist/6HD4DyMa0dpNb1TPCWFg2g) | [Lejos de ser](https://open.spotify.com/album/1y6a4tBFAnVWo1npWeapZm) | 5:42 | 2026-04-24 |  |
 | [Lo Artesanal](https://open.spotify.com/track/0TP3GRBiXt5aTS0J6f7Onj) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Oro](https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m) | 5:39 | 2024-01-03 | 2024-04-19 |
 | [Lo Artesanal \- Remix](https://open.spotify.com/track/6G69Rca1fS52ypIOp5KJBX) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Sigue Pegando](https://open.spotify.com/album/5Nv6koWaTbbunAJhE8cYeT) | 5:40 | 2022-04-01 |  |
 | [Lo Frágil De La Locura](https://open.spotify.com/track/53LovEbSOlvxq2qj8EMWub) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:19 | 2022-04-01 | 2022-07-29 |
@@ -165,7 +166,7 @@
 | [Ruleta](https://open.spotify.com/track/2tWlLCwEN7slVfcPjemDYJ) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Verde Paisaje del Infierno](https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP) | 4:16 | 2024-01-03 | 2024-04-19 |
 | [Ruleta](https://open.spotify.com/track/3cTcRPhf3Kal3UOmtVpwKo) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Verde Paisaje del Infierno](https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO) | 4:16 | 2022-04-01 | 2024-11-12 |
 | [Sacrificio y Rock N' Roll](https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Gladiadores del rock](https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp) | 4:29 | 2022-04-01 |  |
-| [Sacrificio y Rock N´Roll](https://open.spotify.com/track/5vFBQCqiP7cRnvH88o4Ecx) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog), [Toti Iglesias](https://open.spotify.com/artist/2B106N6sZ5SeN8fYZl3DmE), [Maximiliano Tymczyszyn](https://open.spotify.com/artist/6jUpz1NJBC2yX07MW2hbg9), [Walter Sidotti](https://open.spotify.com/artist/01gEiG8Qqr24wBUdJZ8qlc), [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Sacrificio y Rock N´Roll](https://open.spotify.com/album/2u93GKmDeIBJAxk95uuCVM) | 4:01 | 2024-08-22 |  |
+| [Sacrificio y Rock N´Roll](https://open.spotify.com/track/5vFBQCqiP7cRnvH88o4Ecx) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog), [Toti Iglesias](https://open.spotify.com/artist/2B106N6sZ5SeN8fYZl3DmE), [Maximiliano Tymczyszyn](https://open.spotify.com/artist/6jUpz1NJBC2yX07MW2hbg9), [Walter Sidotti](https://open.spotify.com/artist/01gEiG8Qqr24wBUdJZ8qlc), [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Sacrificio y Rock N´Roll](https://open.spotify.com/album/2u93GKmDeIBJAxk95uuCVM) | 4:01 | 2024-08-22 | 2026-04-24 |
 | [Salgo A Recorrer](https://open.spotify.com/track/5Wq9FCjJFuJ34L49a98Nlr) | [Gabriel Carámbula](https://open.spotify.com/artist/5B5uB2qgf8cY4j5n9FdMNV), [Nigel Walker](https://open.spotify.com/artist/1wdOYq4dlX4EhFcrFtX4Xi) | [Carámbula](https://open.spotify.com/album/4Da8L42GmoNpAmNfdbEBja) | 3:22 | 2022-07-08 | 2022-07-16 |
 | [Sangrecaliente](https://open.spotify.com/track/6fkCxYCuTdwS9vAmGE9TYy) | [Revanchistas](https://open.spotify.com/artist/0doxvsFqliwpll9oqvUGEQ) | [De Sangre Caliente](https://open.spotify.com/album/54L6YD2YIuEGajL1v3RIs1) | 4:26 | 2024-01-03 | 2025-10-30 |
 | [Sapo de Otro Pozo](https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fulanos de Nadie](https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB) | 4:19 | 2022-04-01 | 2024-11-12 |

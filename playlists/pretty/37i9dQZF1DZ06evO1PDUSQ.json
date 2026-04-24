@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAAVFpQqcI2xDKWzKvzwjsGP",
+  "snapshot_id": "aegPgAAAAAAYcxFi8hzYo/abXYtaXddE",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Z-Sides",
-        "url": "https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T"
+        "name": "I Go Crazy",
+        "url": "https://open.spotify.com/album/2xrrcq31pRHAPdQ322aOFy"
       },
       "artists": [
-        {
-          "name": "Tom Rosenthal",
-          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
-        },
         {
           "name": "Orla Gartland",
           "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 176981,
-      "name": "All of Them Dreams",
-      "url": "https://open.spotify.com/track/6owLSHQ9u2jU9CRidHyA9B"
+      "duration_ms": 214574,
+      "name": "I Go Crazy",
+      "url": "https://open.spotify.com/track/2Rj9HWaNkUsxdjM2khuqNd"
     },
     {
       "added_at": null,
@@ -151,18 +147,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Go Crazy",
-        "url": "https://open.spotify.com/album/2xrrcq31pRHAPdQ322aOFy"
+        "name": "Z-Sides",
+        "url": "https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T"
       },
       "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        },
         {
           "name": "Orla Gartland",
           "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 214574,
-      "name": "I Go Crazy",
-      "url": "https://open.spotify.com/track/2Rj9HWaNkUsxdjM2khuqNd"
+      "duration_ms": 176981,
+      "name": "All of Them Dreams",
+      "url": "https://open.spotify.com/track/6owLSHQ9u2jU9CRidHyA9B"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 211693,
-      "name": "Simple",
-      "url": "https://open.spotify.com/track/6sLxgkI2xALwGPUqQNzHLY"
+      "duration_ms": 169693,
+      "name": "SOUND OF LETTING GO",
+      "url": "https://open.spotify.com/track/1Q07Uf3XjKyBW0dq1NkcuS"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 169693,
-      "name": "SOUND OF LETTING GO",
-      "url": "https://open.spotify.com/track/1Q07Uf3XjKyBW0dq1NkcuS"
+      "duration_ms": 211693,
+      "name": "Simple",
+      "url": "https://open.spotify.com/track/6sLxgkI2xALwGPUqQNzHLY"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 188108,
-      "name": "Get Back",
-      "url": "https://open.spotify.com/track/7N2PRq96UsOxI3ItwnrJDx"
+      "duration_ms": 237002,
+      "name": "Souvenirs",
+      "url": "https://open.spotify.com/track/49TDjRAG3v2MViatvPqDBZ"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 237002,
-      "name": "Souvenirs",
-      "url": "https://open.spotify.com/track/49TDjRAG3v2MViatvPqDBZ"
+      "duration_ms": 188108,
+      "name": "Get Back",
+      "url": "https://open.spotify.com/track/7N2PRq96UsOxI3ItwnrJDx"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=glHBHJpWRtmJpm62ielH0w>Xolly Mncwango</a>"
 
-460 songs - 2 day 1 hr 2 min
+461 songs - 2 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [My Prayer](https://open.spotify.com/track/0krXgqqRNthzcZb33awA4J) | [Romeo ThaGreatwhite](https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew) | [My Prayer](https://open.spotify.com/album/0QfuwQkiU7MXWTwyNZzRDv) | 3:03 | 2025-06-27 | 2025-09-12 |
 | [Nang'Mthokozisi \(Live\)](https://open.spotify.com/track/6LMbTgPem4BpEhVQ4nMUNU) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 10:46 | 2022-09-15 |  |
 | [Nanti Izwi Elomemo](https://open.spotify.com/track/5ZTaobTZjvlOQwgDtBqSjB) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Nanti Izwi Elomemo](https://open.spotify.com/album/3gCtfFA7XmqrmYR2dd5lAo) | 11:00 | 2023-11-24 | 2024-02-02 |
+| [Ndafunyanwa](https://open.spotify.com/track/60F0Ui9qkPbQCS4QIEVlDZ) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Ndafunyanwa](https://open.spotify.com/album/7JMSbWh5K6dMUFWsL8lskI) | 4:37 | 2026-04-24 |  |
 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 | 2021-04-19 |  |
 | [Ndikhokhele Bawo](https://open.spotify.com/track/6OV3Qs8BamgJ7TR3M6rYGW) | [Cape Town Camerata](https://open.spotify.com/artist/20F4DiCjbeeDmTFODuhhQH) | [Ndikhokhele Bawo](https://open.spotify.com/album/5OgGg48gEHDs3KsUxWoVFX) | 3:32 | 2020-06-05 | 2025-04-11 |
 | [Ndincedeni \- Revisit](https://open.spotify.com/track/0zQwnZkXQJzhSQlrncqcaF) | [Dalom Kids](https://open.spotify.com/artist/6Xx0iUrLjmGwk8RWqgDwSg), [King Khustah](https://open.spotify.com/artist/2OeJAwEHcmTrY8hN8KaY7E), [Myy Gerald](https://open.spotify.com/artist/4e7JCY44Wr1TDHPK3KVzhl), [Gash Beats](https://open.spotify.com/artist/5KuOKkfVLTYxjLLpglBUpE) | [Ndincedeni \(Revisit\)](https://open.spotify.com/album/0KLqMnVd4DLDOPhrpCY5nA) | 4:40 | 2024-05-17 | 2025-02-14 |

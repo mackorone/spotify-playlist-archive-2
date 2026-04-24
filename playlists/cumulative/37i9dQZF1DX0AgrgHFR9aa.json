@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : A2h",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : ABSOLEM",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Baisse d'un ton",
+        "url": "https://open.spotify.com/album/0GA8nC64SkMe1YSx0KOtWL"
+      },
+      "artists": [
+        {
+          "name": "Mohand Baha",
+          "url": "https://open.spotify.com/artist/5Lz6hyIn2iDwHEesU4idwl"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158653,
+      "name": "Baisse d'un ton",
+      "url": "https://open.spotify.com/track/2T1q5BsRghH2iuZbW8JeNn"
+    },
+    {
+      "album": {
         "name": "KONSIGLIERE!",
         "url": "https://open.spotify.com/album/7444gWdcL0cd1CH6wGKYln"
       },
@@ -1686,7 +1704,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 143448,
       "name": "Colissimo",
       "url": "https://open.spotify.com/track/2WxjdmU8EnJuRternZWCzm"
@@ -2202,7 +2220,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 137898,
       "name": "Du tout au rien",
       "url": "https://open.spotify.com/track/4YnN4WHu61OFWKSmVHIFmR"
@@ -2617,6 +2635,24 @@
     },
     {
       "album": {
+        "name": "Otoko",
+        "url": "https://open.spotify.com/album/0VSWyR98NU6W6u9sOj6kze"
+      },
+      "artists": [
+        {
+          "name": "Jewel Usain",
+          "url": "https://open.spotify.com/artist/24lRU7Y7ZWpVa3v23FZqS6"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178695,
+      "name": "Fou",
+      "url": "https://open.spotify.com/track/57KEumnwu38AudWHRll82l"
+    },
+    {
+      "album": {
         "name": "Foudroie les",
         "url": "https://open.spotify.com/album/4Q7BID0udWc2yRK2jqMNVE"
       },
@@ -2690,7 +2726,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 152000,
       "name": "FVCK OFF",
       "url": "https://open.spotify.com/track/44VV7mRpaRW6AGfBxKBqUI"
@@ -2730,6 +2766,28 @@
       "duration_ms": 121248,
       "name": "GAVROCHE",
       "url": "https://open.spotify.com/track/7tS5th1dPmFgZYCggjRzh9"
+    },
+    {
+      "album": {
+        "name": "Ghetto Litt\u00e9rature",
+        "url": "https://open.spotify.com/album/4sfOLGeudLwk2UJLEPoQcy"
+      },
+      "artists": [
+        {
+          "name": "Gr\u00f6dash",
+          "url": "https://open.spotify.com/artist/5UkzlzLr46wmFHyqFJXjSu"
+        },
+        {
+          "name": "Coazart",
+          "url": "https://open.spotify.com/artist/1pWMKPxthd1jCeBXp4s1KA"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169723,
+      "name": "Ghetto litt\u00e9rature",
+      "url": "https://open.spotify.com/track/6FnONEGPhIiiutSyxkvXa6"
     },
     {
       "album": {
@@ -3133,6 +3191,32 @@
     },
     {
       "album": {
+        "name": "HOMARD BLEU",
+        "url": "https://open.spotify.com/album/4FlbnErXCcpBW2iyKcP8DB"
+      },
+      "artists": [
+        {
+          "name": "Zek",
+          "url": "https://open.spotify.com/artist/0ZvXadOwtNaacnVKZVFzLr"
+        },
+        {
+          "name": "Jungle Jack",
+          "url": "https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT"
+        },
+        {
+          "name": "Caballero",
+          "url": "https://open.spotify.com/artist/5DE0by3fZT0nrlJSutY2D7"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206447,
+      "name": "HOMARD BLEU",
+      "url": "https://open.spotify.com/track/6cN0l5Jx1EgprpKnnLevT5"
+    },
+    {
+      "album": {
         "name": "HORCRUXE",
         "url": "https://open.spotify.com/album/6C2qmJMcNN4EiPlDs4d7YP"
       },
@@ -3412,7 +3496,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 192000,
       "name": "J'fais pas croquer",
       "url": "https://open.spotify.com/track/0d1z622tKpTR0JivawN2Xs"
@@ -3670,7 +3754,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 258996,
       "name": "Karma",
       "url": "https://open.spotify.com/track/28kLe1YD8fxrUTf6duHVs8"
@@ -3924,7 +4008,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 165806,
       "name": "L'ombre sur le mur",
       "url": "https://open.spotify.com/track/2MZ4mIdlRFfA1aEj2CIyMF"
@@ -5737,6 +5821,28 @@
     },
     {
       "album": {
+        "name": "Champagne en canette",
+        "url": "https://open.spotify.com/album/1us9LOlrL2I6jySgwAJ21N"
+      },
+      "artists": [
+        {
+          "name": "ABSOLEM",
+          "url": "https://open.spotify.com/artist/4jELC7j0cRWJVQ8QkpDcvU"
+        },
+        {
+          "name": "BEN plg",
+          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139493,
+      "name": "Nieuport Beach Ft. BEN PLG",
+      "url": "https://open.spotify.com/track/4rqBGwPRAMjxMb6XMKRjFd"
+    },
+    {
+      "album": {
         "name": "LA FIEV",
         "url": "https://open.spotify.com/album/4YtctFMzVZeJbrF2pdUsJe"
       },
@@ -6072,6 +6178,24 @@
       "duration_ms": 163906,
       "name": "On n\u2019oublie pas",
       "url": "https://open.spotify.com/track/1cgCXtPTSyPjKVEGsj8bkT"
+    },
+    {
+      "album": {
+        "name": "On s'barre",
+        "url": "https://open.spotify.com/album/3tsDCjFTNvfeOlbpEOIxOG"
+      },
+      "artists": [
+        {
+          "name": "MC Max",
+          "url": "https://open.spotify.com/artist/5XiqGza6oKi2XX27Yhkh4j"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206782,
+      "name": "On s'barre",
+      "url": "https://open.spotify.com/track/7vWeM6QjFTKVlLNWgC3Ccr"
     },
     {
       "album": {
@@ -6451,6 +6575,24 @@
     },
     {
       "album": {
+        "name": "MAGMA",
+        "url": "https://open.spotify.com/album/2geoHqkmDMIJFFsL96liD7"
+      },
+      "artists": [
+        {
+          "name": "Le Rat Luciano",
+          "url": "https://open.spotify.com/artist/5QuZ9HdvnXcX8kEG782Phv"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196319,
+      "name": "POST MORTEM",
+      "url": "https://open.spotify.com/track/3TCCU4uJ1InKQ8ELemwJDo"
+    },
+    {
+      "album": {
         "name": "Encore, un peu",
         "url": "https://open.spotify.com/album/1smR6IL2gb4hkqx0wlMNOr"
       },
@@ -6758,7 +6900,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 170078,
       "name": "Purple Rain",
       "url": "https://open.spotify.com/track/57O4FCmMnvJq5zBmpyFcfr"
@@ -7058,7 +7200,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 136260,
       "name": "Remets",
       "url": "https://open.spotify.com/track/7mMJg9Vw6icyk2J4fUhjuI"
@@ -8690,6 +8832,24 @@
       "duration_ms": 184361,
       "name": "\u00c9toiles et satellites",
       "url": "https://open.spotify.com/track/4rIuseQQZbyvOzkTOJL4Ul"
+    },
+    {
+      "album": {
+        "name": "Les monstres",
+        "url": "https://open.spotify.com/album/4w8l9RgrnoYB6EvRkZhmdo"
+      },
+      "artists": [
+        {
+          "name": "Sheldon",
+          "url": "https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "\u00catre une fille",
+      "url": "https://open.spotify.com/track/6s7PgvBT8yKRtoogdwZzna"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: JT",
+  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Young T & Bugsey",
   "name": "Who We Be",
   "tracks": [
     {
@@ -2450,6 +2450,28 @@
       "duration_ms": 273684,
       "name": "back of the club",
       "url": "https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5"
+    },
+    {
+      "album": {
+        "name": "Back Outside",
+        "url": "https://open.spotify.com/album/267RcozdqaQbY90DqurUBZ"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211090,
+      "name": "Back Outside",
+      "url": "https://open.spotify.com/track/5WTj1jVzufTuSzFMyjy60M"
     },
     {
       "album": {
@@ -13541,6 +13563,28 @@
     },
     {
       "album": {
+        "name": "Healing Power",
+        "url": "https://open.spotify.com/album/1v65fLyHVIDVahmfkhJ9WI"
+      },
+      "artists": [
+        {
+          "name": "Guvna B",
+          "url": "https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Healing Power",
+      "url": "https://open.spotify.com/track/0YzQFpH5N1RBQJAtXUwzst"
+    },
+    {
+      "album": {
         "name": "Heart Ain't Empty",
         "url": "https://open.spotify.com/album/7s00wxQvavyaVWYPJjL9gr"
       },
@@ -18226,7 +18270,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 218000,
       "name": "Like That (bomboclatt) (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0zMMCk14o9OSRjTfanJUv6"
@@ -25076,7 +25120,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 138343,
       "name": "Playdoh",
       "url": "https://open.spotify.com/track/5q4BwNIFR4n5d2vGMbyg6Q"
@@ -26498,7 +26542,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 213000,
       "name": "Rest My Head",
       "url": "https://open.spotify.com/track/0G2Q5wbiyIQKJRTKLNcF0W"
@@ -26596,6 +26640,28 @@
       "duration_ms": 144026,
       "name": "Rhythm & Blues",
       "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
+    },
+    {
+      "album": {
+        "name": "Rice Bowl",
+        "url": "https://open.spotify.com/album/2Trn9ft8Tc9aZ8gyzLdoyO"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Rice Bowl",
+      "url": "https://open.spotify.com/track/3QZugtgEClvPtugTwxu5jn"
     },
     {
       "album": {
@@ -28239,6 +28305,28 @@
     },
     {
       "album": {
+        "name": "Kehlani",
+        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186112,
+      "name": "Shoulda Never (feat. USHER)",
+      "url": "https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK"
+    },
+    {
+      "album": {
         "name": "Show Me",
         "url": "https://open.spotify.com/album/3NI0wO8r93MQrdYrvsvQe9"
       },
@@ -29850,7 +29938,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 180202,
       "name": "Straight Drop X6",
       "url": "https://open.spotify.com/track/1glsTkHUf9IOL3XwlVCtLv"

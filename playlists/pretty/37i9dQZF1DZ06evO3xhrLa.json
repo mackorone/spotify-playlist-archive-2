@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 245630,
+  "num_followers": 245644,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAABv9InU4nK9G6jphjFUJViw",
+  "snapshot_id": "aegPgAAAAAAaJn8fOLjiv5qQd3T4/TYh",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 200720,
+      "name": "3:16AM",
+      "url": "https://open.spotify.com/track/4QoFwqgLw1CtoeSv6N80mU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Because the Internet",
         "url": "https://open.spotify.com/album/5h0KYWMZIg8xT6eRGYkNMh"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 207066,
       "name": "I. Pink Toes",
       "url": "https://open.spotify.com/track/5rmmw20qm7TDplJvyQAhIn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 200720,
-      "name": "3:16AM",
-      "url": "https://open.spotify.com/track/4QoFwqgLw1CtoeSv6N80mU"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chilombo (Deluxe)",
-        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "Above And Beyond",
-      "url": "https://open.spotify.com/track/2p5QtNGyfnT5MhQex3WOte"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sail Out",
         "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 321826,
       "name": "Comfort Inn Ending (Freestyle)",
       "url": "https://open.spotify.com/track/03mfJFcTsxfldb0DPI4ygj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chilombo (Deluxe)",
+        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Above And Beyond",
+      "url": "https://open.spotify.com/track/2p5QtNGyfnT5MhQex3WOte"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chilombo",
-        "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 100386,
-      "name": "Pray For You",
-      "url": "https://open.spotify.com/track/3JHQY6VnwmUMuYb0XI2O7Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Gangsta\u2019s Pain",
         "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 143533,
       "name": "One Of Dem Nights (with Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/5CSID3PvGYFa3zNgid3ClE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chilombo",
+        "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 100386,
+      "name": "Pray For You",
+      "url": "https://open.spotify.com/track/3JHQY6VnwmUMuYb0XI2O7Y"
     },
     {
       "added_at": null,
@@ -895,6 +895,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
+        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 161146,
+      "name": "In The Dark (with Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Type (feat. City Girls & Jhen\u00e9 Aiko) [Remix]",
         "url": "https://open.spotify.com/album/3zA4avOuepGbVtebFZzAz5"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 172313,
       "name": "My Type (feat. City Girls & Jhen\u00e9 Aiko) - Remix",
       "url": "https://open.spotify.com/track/5LTdRSQOg63EazLbKZbWn2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
-        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
-      },
-      "artists": [
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 161146,
-      "name": "In The Dark (with Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC"
     },
     {
       "added_at": null,

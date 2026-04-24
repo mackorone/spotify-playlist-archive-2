@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-332 songs - 15 hr 55 min
+333 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Andaaze](https://open.spotify.com/track/2xfIFQON97MGpE1ewc6f3n) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Andaaze](https://open.spotify.com/album/32nIGDQBehbZAM8ocu0qZs) | 5:29 | 2025-02-03 | 2025-02-25 |
 | [ANIMAL Pre\-Teaser Audio](https://open.spotify.com/track/39uuqD3qzHp5qPRONIrgSe) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [ANIMAL Pre\-Teaser Audio](https://open.spotify.com/album/4jYN9icTE1NDqCSE0YvHVB) | 0:49 | 2023-10-03 | 2023-11-23 |
 | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K) | 3:02 | 2023-11-18 | 2024-04-07 |
+| [Aroma](https://open.spotify.com/track/1KIsvlm6wauRW1BkLZTiub) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [The Call of Panjab](https://open.spotify.com/album/58nSQhJ6jxFam34jgoZyul) | 3:08 | 2026-04-23 |  |
 | [Asla](https://open.spotify.com/track/2evIekFZQjJZJSetzjUBgA) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM) | [Asla](https://open.spotify.com/album/48ksAgJxBlNxQhjAb5Im8Z) | 2:06 | 2026-03-13 |  |
 | [Assault](https://open.spotify.com/track/373YKVi1jskf5VEOQLHe2y) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Kanji Porh](https://open.spotify.com/artist/1b98mtrHsQw4TsaFTZTNFt), [Sobit](https://open.spotify.com/artist/0IHV9OaDBM0RQ4I3ZBrVv4) | [Assault](https://open.spotify.com/album/5Bcvt4DnYTfJUrrq1aRvYt) | 2:17 | 2024-10-24 | 2024-11-28 |
 | [Assin Munde Aan Punjab De \- From "Kanneda"](https://open.spotify.com/track/40L5DfAjir9sc90D7NbQkK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE) | [Kanneda \(Original Series Soundtrack\)](https://open.spotify.com/album/2HF4aHW9ZSlzbLhidUnDLJ) | 2:06 | 2025-04-01 | 2025-05-07 |
@@ -217,7 +218,7 @@
 | [Mandeer](https://open.spotify.com/track/2nxQsbR0Cqy4MPI6vftwyX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:10 | 2023-07-18 | 2023-09-05 |
 | [MANIAC \- Bonus Track \[From "GLORY"\]](https://open.spotify.com/track/7flUTy7LFKqIqERV7qgxeO) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [MANIAC \- Bonus Track \[From "GLORY"\]](https://open.spotify.com/album/625teJ2rC8nsi8dfGUYjU6) | 2:53 | 2025-02-24 | 2025-04-02 |
 | [Many](https://open.spotify.com/track/7h91UP2SFrGnKRzHwxT9qs) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W) | [I "M" Possible](https://open.spotify.com/album/1muIL8Oey6fZdc3VDHFh43) | 2:10 | 2025-06-13 | 2025-06-25 |
-| [Masle](https://open.spotify.com/track/07uzhqz2HYgso40g6o80R6) | [Jai Sidhu](https://open.spotify.com/artist/3gLCQjgXhuQsRrnsFAzXlR), [Yamdoot](https://open.spotify.com/artist/5PTAr7X2GnIupP3NXudjRg) | [Masle](https://open.spotify.com/album/7xfNnDReFR8wrlo4WqCfLl) | 2:13 | 2026-03-13 |  |
+| [Masle](https://open.spotify.com/track/07uzhqz2HYgso40g6o80R6) | [Jai Sidhu](https://open.spotify.com/artist/3gLCQjgXhuQsRrnsFAzXlR), [Yamdoot](https://open.spotify.com/artist/5PTAr7X2GnIupP3NXudjRg) | [Masle](https://open.spotify.com/album/7xfNnDReFR8wrlo4WqCfLl) | 2:13 | 2026-03-13 | 2026-04-24 |
 | [Match](https://open.spotify.com/track/01m5RLW5cGPN1yuH80lutI) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3) | [Goreyan Naal Lagdi Zameen Jatt Di](https://open.spotify.com/album/4Ta1GnvFoU3T7fFrOxJ3WE) | 3:01 | 2024-10-22 | 2024-11-12 |
 | [Matthe Te Chamkan](https://open.spotify.com/track/3g2WZIOYjpTkz9IPDtU8VK) | [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [DAWgeek](https://open.spotify.com/artist/1ZQrXHNpfWtP9jIzUSoSFD) | [Matthe Te Chamkan](https://open.spotify.com/album/7p3s1PZHAVJ8by9m7vdXhs) | 2:41 | 2024-12-09 | 2024-12-23 |
 | [Mean](https://open.spotify.com/track/468Ifkgbs7PLVbhRT0RNZC) | [Sukhan Verma](https://open.spotify.com/artist/1AcRMgaDzeSN68BhA9mH2m), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Mean](https://open.spotify.com/album/31UWYMlGmuzLkNa3wDamf9) | 2:43 | 2025-08-04 | 2025-08-14 |

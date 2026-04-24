@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Omar Courtz",
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Quevedo",
   "name": "PEGAO",
   "tracks": [
     {
@@ -1056,6 +1056,36 @@
       "duration_ms": 233600,
       "name": "Alejarme de Ti",
       "url": "https://open.spotify.com/track/4SVrkrtAeQLXoNOfQdmSAw"
+    },
+    {
+      "album": {
+        "name": "EL BAIFO",
+        "url": "https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        },
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        },
+        {
+          "name": "Juseph",
+          "url": "https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248374,
+      "name": "ALGO VA A PASAR",
+      "url": "https://open.spotify.com/track/4cAgxAadH8i2QmPtQmK6BK"
     },
     {
       "album": {
@@ -14849,6 +14879,24 @@
     },
     {
       "album": {
+        "name": "POR QU\u00c9 SER\u00c1",
+        "url": "https://open.spotify.com/album/0k5P4aqC9iza7uIT9vuZ7F"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160159,
+      "name": "POR QU\u00c9 SER\u00c1",
+      "url": "https://open.spotify.com/track/7BzlQEYv3pmwVkIZNViGgr"
+    },
+    {
+      "album": {
         "name": "POR TI",
         "url": "https://open.spotify.com/album/0NnW0UN9DFuNIzJHgUdaJa"
       },
@@ -17034,7 +17082,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 121858,
       "name": "SETEADORA REMIX (with JC Reyes)",
       "url": "https://open.spotify.com/track/55ZSaezLr7fNrkLL0WCpOD"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best of current & contemporary Reggae.  Cover: Tessellated",
+  "description": "The best of current & contemporary Reggae.  Cover: Buju Banton",
   "name": "Irie",
   "tracks": [
     {
@@ -616,6 +616,24 @@
       "duration_ms": 217114,
       "name": "Born A Rebel",
       "url": "https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6"
+    },
+    {
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/0nMqTIKccDako5MXgaGD8i"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154503,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/6rJ4Wf8HZZNIukRXINmuv6"
     },
     {
       "album": {
@@ -2280,7 +2298,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 246688,
       "name": "Is This A Dream",
       "url": "https://open.spotify.com/track/3YNNEmBaB2xrNUKxf51n78"

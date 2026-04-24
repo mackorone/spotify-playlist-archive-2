@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Flaco G in cover della playlist dello street rap italiano \u26d3\ufe0f",
+  "description": "Shiva in cover della playlist dello street rap italiano \u26d3\ufe0f",
   "name": "Street Culto",
   "tracks": [
     {
@@ -1810,6 +1810,24 @@
       "duration_ms": 130909,
       "name": "Angioletto & Ivan",
       "url": "https://open.spotify.com/track/3E8CHshsY22HCd4mfNCj3h"
+    },
+    {
+      "album": {
+        "name": "Anima",
+        "url": "https://open.spotify.com/album/4ovWKB40xL8e5H95RbgvGV"
+      },
+      "artists": [
+        {
+          "name": "Lubi",
+          "url": "https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165207,
+      "name": "Anima",
+      "url": "https://open.spotify.com/track/5S73czgYmEvRRyW191Ylsy"
     },
     {
       "album": {
@@ -6301,6 +6319,24 @@
     },
     {
       "album": {
+        "name": "David Bowie",
+        "url": "https://open.spotify.com/album/2Yt5pwHYwOjvWGDdeeoqfE"
+      },
+      "artists": [
+        {
+          "name": "Marshe",
+          "url": "https://open.spotify.com/artist/7Fl8QB9g3Mc3n90XPXferx"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114473,
+      "name": "David Bowie",
+      "url": "https://open.spotify.com/track/1v8ouYS23vfLGaaJKUS8Al"
+    },
+    {
+      "album": {
         "name": "LA BELLAVITA",
         "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
       },
@@ -6436,7 +6472,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 163034,
       "name": "Devo",
       "url": "https://open.spotify.com/track/2Q77HvI20PQhaUWZVamln1"
@@ -6466,7 +6502,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 141369,
       "name": "devo cambiare i vestiti (feat. Lubi, Astro)",
       "url": "https://open.spotify.com/track/33tSYUrYTXKdxh3jqHCpo7"
@@ -6606,6 +6642,24 @@
       "duration_ms": 171370,
       "name": "Dio Non C'\u00e8 (feat. Alessandra Amoroso)",
       "url": "https://open.spotify.com/track/6zWGONZ4N03Yknef4scWZa"
+    },
+    {
+      "album": {
+        "name": "DIOR$AVAGE",
+        "url": "https://open.spotify.com/album/5NtMHvTP6K9N6xwtQ9q7R5"
+      },
+      "artists": [
+        {
+          "name": "Glocky",
+          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "DIOR$AVAGE",
+      "url": "https://open.spotify.com/track/6hJZntir08iWIAVRx8YAEh"
     },
     {
       "album": {
@@ -13660,7 +13714,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 121904,
       "name": "MODALIT\u00c0 DARK",
       "url": "https://open.spotify.com/track/2HnE0Q1fnanFPgM5NvQuS2"
@@ -18673,6 +18727,24 @@
     },
     {
       "album": {
+        "name": "Scendo E Cerco Un\u2019Altra",
+        "url": "https://open.spotify.com/album/1g9x6zzynCJggRwNaeAExc"
+      },
+      "artists": [
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129090,
+      "name": "Scendo E Cerco Un\u2019Altra",
+      "url": "https://open.spotify.com/track/0qFzTGufPnqkI4GrAwXCg1"
+    },
+    {
+      "album": {
         "name": "Sciamanin",
         "url": "https://open.spotify.com/album/6g2gDp4v2h6JiQjoJCQt0O"
       },
@@ -23250,7 +23322,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 168000,
       "name": "ZAINO GUCCI",
       "url": "https://open.spotify.com/track/2prQiacFHWgk5TCigkAyv4"

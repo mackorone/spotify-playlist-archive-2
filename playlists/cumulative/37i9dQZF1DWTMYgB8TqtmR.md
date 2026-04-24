@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-1,060 songs - 2 day 5 hr 13 min
+1,061 songs - 2 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Alla Ska Dö](https://open.spotify.com/track/42JjxAcdxkqNOkx1HpPizt) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Alla Ska Dö](https://open.spotify.com/album/4FGa0t6nw3MaVpLGs0cIif) | 2:46 | 2025-03-18 | 2025-06-25 |
 | [Alla vill \(feat\. estraden\)](https://open.spotify.com/track/2EFfc7Z7rMneOxLfezQKxI) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Alla vill \(feat\. estraden\)](https://open.spotify.com/album/3mzjCTMgep2TJKZCJfwgvI) | 2:53 | 2024-03-08 | 2024-06-14 |
 | [Alla våra minnen](https://open.spotify.com/track/7kV2ZRMkpozWRusXJ8Lr2q) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Alla våra minnen](https://open.spotify.com/album/7MqregKC8Neq9ab630ZeGI) | 3:10 | 2022-04-21 | 2022-08-26 |
-| [Allt jag har](https://open.spotify.com/track/0grHyIry2NnHHfH7oPQi7G) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/3Fs1NyFLebhVWHyYTW4cSz) | 2:52 | 2025-08-21 |  |
+| [Allt jag har](https://open.spotify.com/track/0grHyIry2NnHHfH7oPQi7G) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/3Fs1NyFLebhVWHyYTW4cSz) | 2:52 | 2025-08-21 | 2026-04-24 |
 | [Alright \(feat\. KIDDO\)](https://open.spotify.com/track/1vUOJpWc091SBYULNvz9mp) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Alright \(feat\. KIDDO\)](https://open.spotify.com/album/0Nn6sMoZFBIUIsy8fpILrI) | 2:49 | 2021-12-16 | 2022-01-08 |
 | [AM:PM](https://open.spotify.com/track/7DwVS1naLT9jP0PE78jg4P) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [AM:PM](https://open.spotify.com/album/6VddpmwRbN12eh98innuj7) | 3:02 | 2023-03-24 | 2023-05-05 |
 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 | 2026-03-05 |  |
@@ -185,6 +185,7 @@
 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 | 2023-04-13 | 2023-07-14 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-20 | 2024-06-14 |
 | [Chit Chat](https://open.spotify.com/track/3HQ2hJIvStlHS8SRWFGdId) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Chit Chat](https://open.spotify.com/album/1JMiRE2UTSrnGIBZT0KNDZ) | 2:52 | 2022-10-06 | 2022-11-11 |
+| [Choosin' Texas](https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 3:51 | 2026-04-23 |  |
 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 | 2023-09-08 | 2023-10-27 |
 | [Close Your Eyes](https://open.spotify.com/track/3h2aYVv7RHnOW0qGGYdYIT) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Close Your Eyes](https://open.spotify.com/album/2nhQIxy5I5vLZZc5jPLiJP) | 2:48 | 2022-02-03 | 2022-03-18 |
 | [Cocktails \(feat\. Asme\)](https://open.spotify.com/track/45bLmakv73Jwg5XwoEEGMq) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Cocktails \(feat\. Asme\)](https://open.spotify.com/album/0ZrYAHvPy0aTXpWhRN5es6) | 2:27 | 2023-03-31 | 2023-05-03 |

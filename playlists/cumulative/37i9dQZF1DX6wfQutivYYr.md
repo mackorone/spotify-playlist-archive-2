@@ -2,9 +2,9 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Shiva sulla cover della playlist più grande in Italia 🔥
+> Fred De Palma, Anitta e Emis Killa  sulla cover della playlist più grande in Italia 🔥
 
-320 songs - 16 hr 40 min
+322 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [DISINCANTO](https://open.spotify.com/track/4lxrVDGmkUTivSFDylC26Z) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [DISINCANTO](https://open.spotify.com/album/5uUhwToRipr5CJerXxNz8K) | 3:27 | 2026-03-16 | 2026-04-21 |
 | [Donna](https://open.spotify.com/track/5t0pLWfUeP5fYVxKaMB2MD) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Donna](https://open.spotify.com/album/0yugiV59QadnQxtXExqjXb) | 2:59 | 2024-10-25 | 2024-12-06 |
 | [DOPO LE 4 \(feat\. Bresh & Tedua\)](https://open.spotify.com/track/2mU3I4jfQp1K14JO2PmmQA) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 3:02 | 2024-06-28 | 2024-10-19 |
+| [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-04-23 |  |
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-13 |  |
 | [DUOMO](https://open.spotify.com/track/4vamBYGnZNodN7lp2Ma6iL) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [MATTIA](https://open.spotify.com/album/4v9jvZy9cIvTceWv4XQy0O) | 3:44 | 2025-10-09 | 2025-11-06 |
 | [DÉSOLÉE](https://open.spotify.com/track/2bT6QX29M7GLSuTDSirwaS) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [DÉSOLÉE](https://open.spotify.com/album/14aEL5lLrcr9ohOnpdIeVi) | 2:39 | 2025-06-16 |  |
@@ -191,7 +192,7 @@
 | [MALE NECESSARIO](https://open.spotify.com/track/4kK4uxstY0lTdun71200Al) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Marco Masini](https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD) | [MALE NECESSARIO](https://open.spotify.com/album/2bewKhlwZYgeHhXPf7xyqs) | 3:07 | 2026-02-25 |  |
 | [Maledetta Rabbia](https://open.spotify.com/track/0GeIXUfthmnfMLfPRdDiVt) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Maledetta Rabbia](https://open.spotify.com/album/5hJ80aNRyLVqXoQhN4qMmy) | 2:35 | 2025-06-26 | 2025-12-16 |
 | [MAMMAMÌ](https://open.spotify.com/track/5ewubv7hwvNzi43bQ191Ix) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [MAMMAMÌ](https://open.spotify.com/album/4GQgb01NvO5hV7qgLe5Bc9) | 3:03 | 2024-06-28 | 2024-09-21 |
-| [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-11-06 |  |
+| [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-11-06 | 2026-04-24 |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-12 | 2025-07-04 |
 | [MANESKIN \(feat\. Ghali, Shiva\)](https://open.spotify.com/track/1z9adRe4kaugMq3E8HX3c6) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [NO REGULAR MUSIC 2](https://open.spotify.com/album/1P6Pfl8VSFeu4hJjhp0xB1) | 2:28 | 2025-07-29 | 2025-10-10 |
 | [Maschio](https://open.spotify.com/track/1gIahX2xZu1ir2qLmALtUc) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Maschio](https://open.spotify.com/album/226WGnFxk9frinhGY4Uhwy) | 3:24 | 2025-05-08 | 2025-11-28 |
@@ -219,6 +220,7 @@
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2025-02-12 | 2025-02-28 |
 | [Nottetempo \(feat\. Giorgio Poi\)](https://open.spotify.com/track/2ALrq527Q49iISVve4PEkn) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Giorgio Poi](https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW) | [Futuri Possibili](https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD) | 2:55 | 2025-04-03 | 2025-06-20 |
 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2025-01-16 |  |
+| [Obsessed](https://open.spotify.com/track/3CaLAEZ5u8PEiylYQVIv10) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:00 | 2026-04-23 |  |
 | [Oh Mamma Mia \(feat\. Rose Villain\)](https://open.spotify.com/track/4GkgNC3bpLqXyuxWvlNfKI) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:48 | 2025-01-10 | 2025-12-12 |
 | [ON FIRE](https://open.spotify.com/track/3fMv8yD3CR4KuOEddovifJ) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq) | [RANCH](https://open.spotify.com/album/4Yaw3xvAIJicXibGvmatbs) | 3:21 | 2025-05-09 | 2025-05-30 |
 | [Oppio \(feat\. Simba La Rue\)](https://open.spotify.com/track/0Jnatpmn5qwvwUC4FSUXMq) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [UFORIA](https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB) | 2:47 | 2025-06-30 | 2025-07-29 |
@@ -275,7 +277,7 @@
 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 | 2024-09-27 | 2024-10-12 |
 | [SOGNO AMERICANO](https://open.spotify.com/track/7i0zYckMTyvLyKAFxfOKIS) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:56 | 2025-03-31 | 2025-07-04 |
 | [Soldi Arrotolati \(feat\. ANNA\)](https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:31 | 2024-06-28 | 2024-07-19 |
-| [Spie](https://open.spotify.com/track/6RRxP0B9bVZnbTnSpxfo9W) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:05 | 2026-04-13 |  |
+| [Spie](https://open.spotify.com/track/6RRxP0B9bVZnbTnSpxfo9W) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:05 | 2026-04-13 | 2026-04-24 |
 | [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 | 2024-11-25 | 2024-12-13 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-07-18 | 2025-02-04 |
 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-03-17 | 2026-04-08 |

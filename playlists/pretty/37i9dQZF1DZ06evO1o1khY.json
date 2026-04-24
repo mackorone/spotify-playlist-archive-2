@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 44203,
+  "num_followers": 44227,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAACk8o4t6y5kcATpNHZNz0vS",
+  "snapshot_id": "aegPgAAAAABgx1hUEFAlXmpTYu461WW7",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lick Or Sum",
+        "url": "https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 141604,
+      "name": "Lick Or Sum",
+      "url": "https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WHAM (Extended Version)",
         "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 132000,
       "name": "Redbone (with GloRilla)",
       "url": "https://open.spotify.com/track/7nP8jrKvubPXbVHE52OPdo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lick Or Sum",
-        "url": "https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 141604,
-      "name": "Lick Or Sum",
-      "url": "https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig"
     },
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Part 3",
-        "url": "https://open.spotify.com/album/2wboAwulksF118O1TkNeBc"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 153232,
-      "name": "To The Side (with GloRilla)",
-      "url": "https://open.spotify.com/track/4B0nsYvTtZ0oAyr5MjkXU9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lay Down (feat. GloRilla) [Remix]",
         "url": "https://open.spotify.com/album/1o6b0z1PJwMSPcPXfQQHir"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 213608,
       "name": "Lay Down (feat. GloRilla) - Remix",
       "url": "https://open.spotify.com/track/65XnjGELsYIUOLsEYZKwKn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Part 3",
+        "url": "https://open.spotify.com/album/2wboAwulksF118O1TkNeBc"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 153232,
+      "name": "To The Side (with GloRilla)",
+      "url": "https://open.spotify.com/track/4B0nsYvTtZ0oAyr5MjkXU9"
     },
     {
       "added_at": null,

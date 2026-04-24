@@ -715,6 +715,28 @@
     },
     {
       "album": {
+        "name": "Healing Power",
+        "url": "https://open.spotify.com/album/1v65fLyHVIDVahmfkhJ9WI"
+      },
+      "artists": [
+        {
+          "name": "Guvna B",
+          "url": "https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Healing Power",
+      "url": "https://open.spotify.com/track/0YzQFpH5N1RBQJAtXUwzst"
+    },
+    {
+      "album": {
         "name": "M1onTheBeat The Mixtape",
         "url": "https://open.spotify.com/album/2eNxE5vYk1YgZGQx6BT8UL"
       },
@@ -1292,7 +1314,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 213000,
       "name": "Rest My Head",
       "url": "https://open.spotify.com/track/0G2Q5wbiyIQKJRTKLNcF0W"

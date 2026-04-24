@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Delia",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: rares",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -812,6 +812,24 @@
       "duration_ms": 168750,
       "name": "Apari \u00een vise",
       "url": "https://open.spotify.com/track/5JA2h10ZUi5vAEZViXJamz"
+    },
+    {
+      "album": {
+        "name": "Apus de soare",
+        "url": "https://open.spotify.com/album/5yCUtIrrw70tgDcubK8nys"
+      },
+      "artists": [
+        {
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177120,
+      "name": "Apus de soare",
+      "url": "https://open.spotify.com/track/6Xy52ktg6FlcuLueKHUNzf"
     },
     {
       "album": {
@@ -2584,7 +2602,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 139239,
       "name": "Dieta",
       "url": "https://open.spotify.com/track/2bmfb3aEfVSKobRwJROhev"
@@ -2642,6 +2660,24 @@
       "duration_ms": 121250,
       "name": "Doare inima",
       "url": "https://open.spotify.com/track/2rNyrtpLI4SB3e8rd4BRXM"
+    },
+    {
+      "album": {
+        "name": "Doi Eroi",
+        "url": "https://open.spotify.com/album/687HFSpdsJoldHzogxa1If"
+      },
+      "artists": [
+        {
+          "name": "Andrei Ursu",
+          "url": "https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Doi Eroi",
+      "url": "https://open.spotify.com/track/3jNbjFryn449AQejgoDPRT"
     },
     {
       "album": {
@@ -3418,7 +3454,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 155412,
       "name": "Fluturi",
       "url": "https://open.spotify.com/track/3SWHzg17hqXGkiOdox5jkS"
@@ -5366,7 +5402,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 198073,
       "name": "M\u00e2inile",
       "url": "https://open.spotify.com/track/3800i4uUPQ0TousOW9Kw9f"
@@ -7763,6 +7799,24 @@
     },
     {
       "album": {
+        "name": "Tac",
+        "url": "https://open.spotify.com/album/46xuoT7rDK8Efs3PP4aFjc"
+      },
+      "artists": [
+        {
+          "name": "Eva Timush",
+          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137978,
+      "name": "Tac",
+      "url": "https://open.spotify.com/track/0nDXhEJze3n3rvhJO3XUnD"
+    },
+    {
+      "album": {
         "name": "Talk To You Later",
         "url": "https://open.spotify.com/album/6FxcMkrFUyQIA5IVwUg6CG"
       },
@@ -8318,7 +8372,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 193089,
       "name": "Ultimul Act De Iubire",
       "url": "https://open.spotify.com/track/1buiIaSSMetSAW3guTSRFO"
@@ -8402,6 +8456,28 @@
       "duration_ms": 172500,
       "name": "Ultimul s\u0103rut",
       "url": "https://open.spotify.com/track/4uBWKMNcZWaFGKFB617Xn2"
+    },
+    {
+      "album": {
+        "name": "Un s\u0103rut c\u00e2t o via\u021b\u0103",
+        "url": "https://open.spotify.com/album/3DbR0ut6rmjLF5usRt2eeg"
+      },
+      "artists": [
+        {
+          "name": "3 Sud Est",
+          "url": "https://open.spotify.com/artist/0niQ4Q9nI1Qh0BHpT3b4NC"
+        },
+        {
+          "name": "Andra",
+          "url": "https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213830,
+      "name": "Un s\u0103rut c\u00e2t o via\u021b\u0103",
+      "url": "https://open.spotify.com/track/5RYdHdkUVNu3T61x5EH8vb"
     },
     {
       "album": {

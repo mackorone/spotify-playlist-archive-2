@@ -773,6 +773,32 @@
     },
     {
       "album": {
+        "name": "666",
+        "url": "https://open.spotify.com/album/4P89Sy36vHWynHr8PPc4LL"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Panda Black",
+          "url": "https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "666",
+      "url": "https://open.spotify.com/track/5DSlJ0cO7WlcJcSK82yn20"
+    },
+    {
+      "album": {
         "name": "69",
         "url": "https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2"
       },
@@ -8204,7 +8230,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 198102,
       "name": "DIOMEDEZ",
       "url": "https://open.spotify.com/track/6qDTm2QbRSLlSmaUSJE6bF"
@@ -10888,7 +10914,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -15508,7 +15534,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/5jnAEIq2TjcuC50BYcpY4s"
@@ -25062,7 +25088,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 177528,
       "name": "Por Qu\u00e9 la Envidia",
       "url": "https://open.spotify.com/track/433eYQkvCgJKXh1o7LtplV"
@@ -32888,7 +32914,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-20",
+      "date_removed": null,
       "duration_ms": 207723,
       "name": "URUS BLUE",
       "url": "https://open.spotify.com/track/4sTnItbNUAcS5KDG6vTA5B"

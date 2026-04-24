@@ -635,6 +635,32 @@
     },
     {
       "album": {
+        "name": "BAD & BBC RICH",
+        "url": "https://open.spotify.com/album/3TVrtike7vgZl86oDfEyAW"
+      },
+      "artists": [
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        },
+        {
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+        },
+        {
+          "name": "CrashDummy",
+          "url": "https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144169,
+      "name": "BAD & BBC RICH",
+      "url": "https://open.spotify.com/track/3wARNOXPa2RTE8tkmZ7pLV"
+    },
+    {
+      "album": {
         "name": "Shyne",
         "url": "https://open.spotify.com/album/3HjNR0QUTdQ5xPBp7ymw2N"
       },
@@ -1110,6 +1136,24 @@
       "duration_ms": 147692,
       "name": "Bloodclarrt Business",
       "url": "https://open.spotify.com/track/0x3VmItOxAzDKLOT94FQSv"
+    },
+    {
+      "album": {
+        "name": "Boasty",
+        "url": "https://open.spotify.com/album/42n8NMDi7al7lkUgcb2hEY"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Boasty",
+      "url": "https://open.spotify.com/track/5QNkPqJgBEVWp8cOvYnudA"
     },
     {
       "album": {
@@ -3552,7 +3596,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 106600,
       "name": "Flavour",
       "url": "https://open.spotify.com/track/4LQl3iSZun8gZA5vIh0kik"
@@ -3930,7 +3974,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 134720,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/0QcTSw3i8w3KL3ls0QaQHy"
@@ -4018,6 +4062,24 @@
       "duration_ms": 139206,
       "name": "Gwehh",
       "url": "https://open.spotify.com/track/074C7GyF5fdmHBtOiXt4QU"
+    },
+    {
+      "album": {
+        "name": "NPT",
+        "url": "https://open.spotify.com/album/1k6YrBd7JHIBxpfeDpQ40Z"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152234,
+      "name": "Gyal Good",
+      "url": "https://open.spotify.com/track/60L2FqkzM2yYMxVvyFOZbu"
     },
     {
       "album": {
@@ -4382,7 +4444,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 220808,
       "name": "Heart of Carnival",
       "url": "https://open.spotify.com/track/3Iq1wvKVm62usdyRYSpgll"
@@ -4796,7 +4858,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 255221,
       "name": "Hustling In My Blood",
       "url": "https://open.spotify.com/track/4frqa3VmTDu8uPiflqdmoQ"
@@ -4965,6 +5027,28 @@
     },
     {
       "album": {
+        "name": "In Di Corner",
+        "url": "https://open.spotify.com/album/0rXVoVOKyBNxyzExYVODzS"
+      },
+      "artists": [
+        {
+          "name": "1T1",
+          "url": "https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we"
+        },
+        {
+          "name": "Miimii KDS",
+          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136066,
+      "name": "In Di Corner",
+      "url": "https://open.spotify.com/track/7chGWWO7xUpnmmXB1goxp7"
+    },
+    {
+      "album": {
         "name": "In the Water",
         "url": "https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo"
       },
@@ -4984,6 +5068,24 @@
       "duration_ms": 159873,
       "name": "In the Water",
       "url": "https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42"
+    },
+    {
+      "album": {
+        "name": "Inch by Inch",
+        "url": "https://open.spotify.com/album/7iP5idqSBn2LgjslsqXYgy"
+      },
+      "artists": [
+        {
+          "name": "Yung Bredda",
+          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189810,
+      "name": "Inch by Inch",
+      "url": "https://open.spotify.com/track/6VtkZ454trSSjvLLW9QxiU"
     },
     {
       "album": {
@@ -5561,6 +5663,24 @@
     },
     {
       "album": {
+        "name": "Last Train",
+        "url": "https://open.spotify.com/album/0yFAOpoi7SAzwDmx3zAEX5"
+      },
+      "artists": [
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217777,
+      "name": "Last Train",
+      "url": "https://open.spotify.com/track/0YWDVOZE0phKo6ZWYJG4kn"
+    },
+    {
+      "album": {
         "name": "Soca Future Riddim",
         "url": "https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm"
       },
@@ -5960,7 +6080,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 171230,
       "name": "Mas Go Play",
       "url": "https://open.spotify.com/track/6sGDRMlfRR4czucvMo8Wu1"
@@ -6263,6 +6383,28 @@
     },
     {
       "album": {
+        "name": "Money Fragrance",
+        "url": "https://open.spotify.com/album/58FOWNhxpBQ1ES17RtwxR7"
+      },
+      "artists": [
+        {
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/56wMNEAcTJhxIKMqwgfoI9"
+        },
+        {
+          "name": "Extol",
+          "url": "https://open.spotify.com/artist/3ReabnaThIxgrhVNwiGIQj"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158424,
+      "name": "Money Fragrance",
+      "url": "https://open.spotify.com/track/22outyIZo4xM2S6v1xfdQo"
+    },
+    {
+      "album": {
         "name": "Lil Rick HD & Friends",
         "url": "https://open.spotify.com/album/4NkaIWh2F7u6nTRvK5UFVb"
       },
@@ -6304,7 +6446,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 159013,
       "name": "Monster Winer",
       "url": "https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H"
@@ -6330,6 +6472,32 @@
       "duration_ms": 217009,
       "name": "Mood (feat. Kes)",
       "url": "https://open.spotify.com/track/4fYB2DqsRfxBlANK6gxVVC"
+    },
+    {
+      "album": {
+        "name": "Move Out D Way",
+        "url": "https://open.spotify.com/album/1uRHuI74AGg69bsLhzlV3G"
+      },
+      "artists": [
+        {
+          "name": "Paris Coutain",
+          "url": "https://open.spotify.com/artist/57EGf3uPUy2maRE9G2kpRS"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Move Out D Way",
+      "url": "https://open.spotify.com/track/4XKEKCOyl0aAIuG3n8aD1A"
     },
     {
       "album": {
@@ -6420,7 +6588,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 186665,
       "name": "My Woman",
       "url": "https://open.spotify.com/track/1RVgadqAdYuOrMYamHJsNx"
@@ -8554,7 +8722,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 180347,
       "name": "Status",
       "url": "https://open.spotify.com/track/7z7XyRQ2zFoFINcfod4gLl"

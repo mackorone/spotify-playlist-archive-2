@@ -4,7 +4,7 @@
 
 > This is Laufey\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 6 min
+57 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Promise](https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:54 | 2025-03-04 |  |
 | [Santa Claus Is Comin' To Town](https://open.spotify.com/track/5h1LioQgmLvWoRU7V4pjma) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/32gqZfrZ51UMunez3CZDJZ) | 2:39 | 2025-11-07 | 2025-12-04 |
 | [Second Best](https://open.spotify.com/track/4Y9Ge3i5r0vgFAZq653Yx3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:24 | 2025-03-04 |  |
-| [Seems Like Old Times \- Bonus Track](https://open.spotify.com/track/5mAFfXu5wUJWicmzxjJRKo) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time \(Standard Edition\)](https://open.spotify.com/album/6lauK4mNENDUMSoekDVDNG) | 2:59 | 2025-09-05 |  |
+| [Seems Like Old Times](https://open.spotify.com/track/3Ci1aN2eXmaPEwdaTe968z) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 2:59 | 2026-04-24 |  |
+| [Seems Like Old Times \- Bonus Track](https://open.spotify.com/track/5mAFfXu5wUJWicmzxjJRKo) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time \(Standard Edition\)](https://open.spotify.com/album/6lauK4mNENDUMSoekDVDNG) | 2:59 | 2025-09-05 | 2026-04-24 |
 | [Silver Lining](https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy) | 3:17 | 2025-04-06 | 2025-09-03 |
 | [Silver Lining](https://open.spotify.com/track/4tyjNEHKos3lZPYAfTiMKH) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 3:17 | 2025-09-03 |  |
 | [Slow Down](https://open.spotify.com/track/4KLZOU5V5XuEkvytSgyW6u) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/777K2ytcKbDsX0AZ2y8CBS) | 2:25 | 2025-03-04 |  |

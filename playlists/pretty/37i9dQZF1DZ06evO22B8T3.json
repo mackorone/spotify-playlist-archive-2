@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1308688,
+  "num_followers": 1308698,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAD/qXA/em9HsBIaFmkLrC6T",
+  "snapshot_id": "aegPgAAAAADwcfnDI4lDI2ayPyuymuWr",
   "tracks": [
     {
       "added_at": null,
@@ -695,38 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Posdata:",
-        "url": "https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 169162,
-      "name": "Posdata:",
-      "url": "https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VERSUS",
-        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 142769,
-      "name": "SIN CADENAS",
-      "url": "https://open.spotify.com/track/6SKKyjAlI1MwB7kjvte9Li"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -751,22 +719,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERREITO PA LLORAR",
-        "url": "https://open.spotify.com/album/4IXouaHajcxSQwD8rlYwhv"
+        "name": "VERSUS",
+        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
       },
       "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 213095,
-      "name": "PERREITO PA LLORAR",
-      "url": "https://open.spotify.com/track/3ZcUKMaqWY7jGEzAoU5mQs"
+      "duration_ms": 142769,
+      "name": "SIN CADENAS",
+      "url": "https://open.spotify.com/track/6SKKyjAlI1MwB7kjvte9Li"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Posdata:",
+        "url": "https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 169162,
+      "name": "Posdata:",
+      "url": "https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9"
     },
     {
       "added_at": null,
@@ -795,6 +775,26 @@
       "duration_ms": 207600,
       "name": "No la Puedo Olvidar",
       "url": "https://open.spotify.com/track/0DAAUZcROuFcGSWMyiWnkv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERREITO PA LLORAR",
+        "url": "https://open.spotify.com/album/4IXouaHajcxSQwD8rlYwhv"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 213095,
+      "name": "PERREITO PA LLORAR",
+      "url": "https://open.spotify.com/track/3ZcUKMaqWY7jGEzAoU5mQs"
     },
     {
       "added_at": null,

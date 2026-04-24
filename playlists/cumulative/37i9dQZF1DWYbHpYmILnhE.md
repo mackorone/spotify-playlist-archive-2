@@ -4,7 +4,7 @@
 
 > Drilling through Naij\. Cover: Wizard Chan
 
-143 songs - 6 hr 33 min
+144 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,14 +54,15 @@
 | [Go Home](https://open.spotify.com/track/0WREazGSegTBW0deOqpOTV) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Go Home](https://open.spotify.com/album/0nCaveQokllncgYPf3K9Qm) | 2:18 | 2024-06-28 |  |
 | [Grace](https://open.spotify.com/track/47ACx4QM5utvprs5ecI0bO) | [Stahgee](https://open.spotify.com/artist/1V2bR5y4rXl7gJHskZJyaj) | [Different 1](https://open.spotify.com/album/5SdBedpAlk3lCjX3BaLtn7) | 2:28 | 2026-03-23 |  |
 | [Healers Chapel](https://open.spotify.com/track/1toGWaj2vdYFyoJCgoan24) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Boma Nime](https://open.spotify.com/artist/2tkw8FFnCrgenakG7wml4B) | [Healers Chapel](https://open.spotify.com/album/26EFuAiv2fxVd44jxz9oHN) | 2:59 | 2025-09-05 | 2026-04-17 |
+| [Healing](https://open.spotify.com/track/0mx2fFFQ1QfflCduFtFlR6) | [Rudolf](https://open.spotify.com/artist/1EhOX6NlwtrsZyXTmuawiU), [OOSHA](https://open.spotify.com/artist/6OhHuHGJe5YfFNsaoIAWZm) | [Healing](https://open.spotify.com/album/3LO64Vb9QnnRbw8P8tZQYL) | 2:27 | 2026-04-24 |  |
 | [Heaven](https://open.spotify.com/track/0kNyR0PXqgaKmtJV7Y9Zvp) | [Jumabee](https://open.spotify.com/artist/2tCzAP8SegAFwLqQrLOWxv), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Heaven](https://open.spotify.com/album/4agMiPmznVVvOWd3JhvAcb) | 2:30 | 2024-06-28 | 2024-09-10 |
 | [High As Fuck](https://open.spotify.com/track/4rCNAyarEBQagsU86tpwzg) | [Houseofnoregret](https://open.spotify.com/artist/3J6v498ZVQVUMSM7oIUH3H), [KINGICON](https://open.spotify.com/artist/0yT0vIdMNKPh8ONPYSsLTP), [B.I.G Pandah](https://open.spotify.com/artist/09HH6z5ApPKsV4ZIlIv0jZ), [4:44](https://open.spotify.com/artist/29WLPf8ADJ9wJgrLJ4MGrr) | [High As Fuck](https://open.spotify.com/album/6Zv8HT9bHWAd0OGbOocHC1) | 2:33 | 2024-06-28 | 2024-11-09 |
 | [Homecoming](https://open.spotify.com/track/0nqRxAaO2AzoEQABbDh6n6) | [Highstarlavista](https://open.spotify.com/artist/2s5bPUY4vDNWYeaktbdh9V) | [The Prophecy](https://open.spotify.com/album/6RlIFWszpqQnDTiBW9ZmTQ) | 3:27 | 2024-06-28 |  |
 | [IFUNANYA](https://open.spotify.com/track/55BwTz7GYfkfDfyDWM1swO) | [Geezyshore](https://open.spotify.com/artist/7yjMthvrGoCgkFKy69KNY9), [SHAENA](https://open.spotify.com/artist/2CtwtJ0vQVRBSMFMxXrIXb) | [EBOBOBURST!](https://open.spotify.com/album/5TLCH5tVRpClObjnTKXfmz) | 2:41 | 2024-06-28 | 2024-09-20 |
 | [Igbo](https://open.spotify.com/track/5yz4hoAl0eaOG2N7hK16OY) | [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [Igbo](https://open.spotify.com/album/3goOtAKuLnu6m5qIMcv31L) | 3:03 | 2024-06-28 |  |
-| [Ije Nwoke](https://open.spotify.com/track/0yeE2B1raXnYil6MiAJPA1) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Ije Nwoke](https://open.spotify.com/album/7q8Vopxx2mj4DSe04qHP1X) | 2:37 | 2024-06-28 |  |
+| [Ije Nwoke](https://open.spotify.com/track/0yeE2B1raXnYil6MiAJPA1) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Ije Nwoke](https://open.spotify.com/album/7q8Vopxx2mj4DSe04qHP1X) | 2:37 | 2024-06-28 | 2026-04-24 |
 | [Jagbajantis](https://open.spotify.com/track/3g1uzNvPhVUClJLA52yvZU) | [Chibuzor](https://open.spotify.com/artist/5q7Zr4GT2BW2aNSonvKOjd), [Pelf Sounds](https://open.spotify.com/artist/0GA51vnRGOfE5yBxCIOPHm) | [DIMGBA](https://open.spotify.com/album/4Ocje5tr0Fs1PSgzIoDYq7) | 1:44 | 2025-09-26 | 2025-12-19 |
-| [JAIYE EVERYDAY](https://open.spotify.com/track/0nhnrU29FPbsVAubi8kMJx) | [KIING LU](https://open.spotify.com/artist/4C7iRcWxuDWQ62JUuSll1k), [DAPO TUBURNA](https://open.spotify.com/artist/5qGa60tcmi61tvYmoIjgJO), [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc) | [MILITANT MINDSET](https://open.spotify.com/album/6ieLnbH2PWN2DPyLHWJPbk) | 3:01 | 2024-06-28 |  |
+| [JAIYE EVERYDAY](https://open.spotify.com/track/0nhnrU29FPbsVAubi8kMJx) | [KIING LU](https://open.spotify.com/artist/4C7iRcWxuDWQ62JUuSll1k), [DAPO TUBURNA](https://open.spotify.com/artist/5qGa60tcmi61tvYmoIjgJO), [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc) | [MILITANT MINDSET](https://open.spotify.com/album/6ieLnbH2PWN2DPyLHWJPbk) | 3:01 | 2024-06-28 | 2026-04-24 |
 | [JALOLO](https://open.spotify.com/track/4eHT0E0R3I97sS06kBY3ox) | [Lucky Boyy](https://open.spotify.com/artist/3U1ObYsXZrSPTafQqatJ6V), [Dami Drizzy](https://open.spotify.com/artist/2bn1VtEgnNAF8B4TdyAbjQ) | [JALOLO](https://open.spotify.com/album/3ftY0sJBC2fywdDCHxlM9f) | 2:16 | 2025-06-20 | 2025-06-28 |
 | [Jericho](https://open.spotify.com/track/7ddW60kwiu0jeUjhPDR9Wf) | [Kishboy](https://open.spotify.com/artist/5sc1htwJcqKWKiFd3E4pPn), [CYZA](https://open.spotify.com/artist/3xBse1Q9J2t9QD3FjQqNcY) | [Jericho](https://open.spotify.com/album/5Dc4vOJp7kEGlaynskuMIQ) | 2:45 | 2024-06-28 | 2025-08-15 |
 | [Jesu L'oba](https://open.spotify.com/track/4jViEhNnW1ssArb7I53JiP) | [8tch](https://open.spotify.com/artist/4FWaqkWWKH14AibDK0LIEg) | [Toranjitto](https://open.spotify.com/album/11wIPN7GEFMUAEuxRvqfQO) | 3:14 | 2024-10-18 | 2025-05-17 |

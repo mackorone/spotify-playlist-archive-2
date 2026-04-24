@@ -4,7 +4,7 @@
 
 > where future beats meet timeless soul.
 
-481 songs - 1 day 4 hr 12 min
+482 songs - 1 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [Marrakech](https://open.spotify.com/track/4YLbQGnk6iIgelpUIwbmxm) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Beat Tape 1](https://open.spotify.com/album/2FVfODkF1inBzSwB2plsYk) | 2:08 | 2021-12-07 | 2022-07-22 |
 | [Marrakech](https://open.spotify.com/track/5HP7n0axbv3DfevQioA0AC) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Beat Tape 1](https://open.spotify.com/album/40Mqbtsj8nLldcDFHCyJ82) | 2:08 | 2022-06-20 | 2023-06-06 |
 | [ME!](https://open.spotify.com/track/5bOj8Ld0sxtbUsIAkGOhgu) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [ME!](https://open.spotify.com/album/0mGi37LiQDvXXMFT1nrM86) | 3:11 | 2021-12-07 | 2023-02-11 |
-| [Melodies](https://open.spotify.com/track/0Bnat14c6fH2h1MUTPVaTN) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Secular Music Vol\. 1](https://open.spotify.com/album/2wlYFoF3Ac1JII1SYrUudf) | 4:34 | 2025-12-12 |  |
+| [Melodies](https://open.spotify.com/track/0Bnat14c6fH2h1MUTPVaTN) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Secular Music Vol\. 1](https://open.spotify.com/album/2wlYFoF3Ac1JII1SYrUudf) | 4:34 | 2025-12-12 | 2026-04-24 |
 | [Mescaline Smoke](https://open.spotify.com/track/5cWFCHcQCw7swhzccfL2C7) | [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx) | [Soundless Motion](https://open.spotify.com/album/3ncn7vbzU56hjVsrTmdXm1) | 4:34 | 2022-04-11 | 2022-04-19 |
 | [Microwave](https://open.spotify.com/track/41R9u68DM9XHUlDoceGgLY) | [Zoee](https://open.spotify.com/artist/4ah1FGJr1ISh6DUmYFivSo) | [Microwave](https://open.spotify.com/album/4DPu5cmCZrfYf5jwa9XvLY) | 3:20 | 2022-04-11 | 2022-04-19 |
 | [Middle of Things, Beautiful Wife \(feat\. Xavier Omär\)\)](https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [North](https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP) | 3:42 | 2023-10-20 |  |
@@ -379,6 +379,7 @@
 | [See Through](https://open.spotify.com/track/2o2nTbQ1LV0yycDLykgIHx) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO) | [See Through](https://open.spotify.com/album/2kXgvPzC5fX5kbbRChFOWl) | 3:31 | 2024-04-04 | 2024-09-23 |
 | [Sensational](https://open.spotify.com/track/6uwDGdmI9CCQGyey5AQtHJ) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L) | [Love So Strong / Sensational](https://open.spotify.com/album/6w4vcsCC6xMVoMmmMvhRAR) | 3:28 | 2025-08-28 | 2025-10-31 |
 | [Sensitive \(feat\. Lily McKenzie\)](https://open.spotify.com/track/00fG8oeJxajguXsXrFtR9t) | [T.Williams](https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20), [Lily McKenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Emotions](https://open.spotify.com/album/39taI2bbSNT7fnGryosOcA) | 3:40 | 2024-06-14 | 2024-10-25 |
+| [Serenity](https://open.spotify.com/track/6E1wMj9RapVx9yVajUPctG) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy), [Kaesu](https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ) | [Serenity](https://open.spotify.com/album/1EMYcLuml95vQGCoAbb4aC) | 3:20 | 2026-03-13 |  |
 | [Seven](https://open.spotify.com/track/1t8G3u5OSk1fCx6p2qfvx6) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Seven](https://open.spotify.com/album/1QKWxr9CgCYTjctWwOMj9I) | 2:20 | 2021-12-07 | 2022-04-20 |
 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 | 2021-12-07 | 2024-07-19 |
 | [Shaken To My Soul \(feat\. Ruti\)](https://open.spotify.com/track/4R6zTX10cS2t8CLIhDkolC) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Shaken To My Soul \(feat\. Ruti\)](https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L) | 3:31 | 2024-07-26 | 2025-02-21 |

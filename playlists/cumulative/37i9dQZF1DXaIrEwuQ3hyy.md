@@ -4,7 +4,7 @@
 
 > wenn du mal kurz durchatmen musst 🌻
 
-323 songs - 18 hr 8 min
+325 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [bittersweet](https://open.spotify.com/track/4tMx9TwsMwvPKJKpQZcxDV) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [bittersweet](https://open.spotify.com/album/4uoI23bnRkWOMWg3N2kOQk) | 2:39 | 2025-01-02 | 2025-03-08 |
 | [Bittersweet \- Radio Edit](https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Bittersweet \(Radio Edit\)](https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST) | 3:56 | 2023-07-26 | 2024-04-19 |
 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-09-26 | 2024-07-02 |
+| [Blanc](https://open.spotify.com/track/3rT4gJN45VHbkPguDsE4Op) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Blanc](https://open.spotify.com/album/6Dsu7W8rO1eq2n2aYrLGPC) | 3:14 | 2026-04-23 |  |
 | [Blau](https://open.spotify.com/track/27BDgmEjgMdHLYIWogdnIU) | [CCOSMO](https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4) | [Blau](https://open.spotify.com/album/23SHHCFDCsNhSvCPH4Y63O) | 2:40 | 2024-08-05 | 2025-05-29 |
 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 | 2024-03-21 | 2024-07-10 |
 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2025-01-02 | 2026-01-31 |
@@ -87,7 +88,7 @@
 | [effort in](https://open.spotify.com/track/45EMmryo2aQRD7HMDHlVzj) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [effort in](https://open.spotify.com/album/7rC7eOZPlaNImntVvrhRRi) | 2:25 | 2024-02-09 | 2024-03-16 |
 | [Empty Of You](https://open.spotify.com/track/4mtvX2WPw0Z92zwjx4KFsO) | [Dirty Blond](https://open.spotify.com/artist/3ztI1lGY2ZwrmOJ5Kr6wsM) | [Empty Of You](https://open.spotify.com/album/0eUjjndcDx6aGnoMFGvjn2) | 3:01 | 2026-03-26 |  |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-02-23 |  |
-| [Endless Summer](https://open.spotify.com/track/2D3Yv3Iy8T5KX7En0d1rUy) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Endless Summer](https://open.spotify.com/album/2d0GHy5vzIgohDkHDXhUzJ) | 2:49 | 2024-07-01 |  |
+| [Endless Summer](https://open.spotify.com/track/2D3Yv3Iy8T5KX7En0d1rUy) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Endless Summer](https://open.spotify.com/album/2d0GHy5vzIgohDkHDXhUzJ) | 2:49 | 2024-07-01 | 2026-04-24 |
 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 | 2023-07-26 |  |
 | [evermore \(feat\. Bon Iver\)](https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 5:04 | 2023-07-26 |  |
 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 | 2023-07-26 |  |
@@ -173,7 +174,7 @@
 | [Maker](https://open.spotify.com/track/2OX9uITulRbPtILYQ2totl) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Tragic Magic](https://open.spotify.com/album/7oLX84jA6AHnCyELknktHA) | 4:31 | 2026-04-16 |  |
 | [Man Man](https://open.spotify.com/track/1Ibiuakl4eDRoOpA7jYyRM) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Man Man](https://open.spotify.com/album/3N4rKiNU9T3WAuv6Xg9TIR) | 2:52 | 2023-09-08 | 2024-02-12 |
 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 | 2023-07-26 |  |
-| [Mary](https://open.spotify.com/track/6kqr9XZcHzVnIN5Oz4u4C3) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [For Mary](https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh) | 4:19 | 2026-03-12 |  |
+| [Mary](https://open.spotify.com/track/6kqr9XZcHzVnIN5Oz4u4C3) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [For Mary](https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh) | 4:19 | 2026-03-12 | 2026-04-24 |
 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 | 2024-02-23 | 2024-07-14 |
 | [maybe](https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [maybe](https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6) | 3:07 | 2024-05-01 | 2026-02-28 |
 | [Meant To Be](https://open.spotify.com/track/0wxGIpOZbDR4RGy1sh3XhR) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/5tkaijq9MpGmzgkGAWYDEN) | 2:43 | 2023-07-26 | 2024-04-19 |
@@ -227,6 +228,7 @@
 | [Rage](https://open.spotify.com/track/4kAoE56A4sK26S72AmnN07) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [Rage](https://open.spotify.com/album/1hkBhuDxZZcakXatV1RVvG) | 2:18 | 2025-11-07 | 2026-01-03 |
 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 | 2025-05-22 |  |
 | [Regen \(Piano Version\)](https://open.spotify.com/track/67pt4LpKzOe86oFtrMPb9V) | [Fynn Kliemann](https://open.spotify.com/artist/2YIxQoGvBukvoC1CbJ7opS), [Philipp Schwär](https://open.spotify.com/artist/21zpknhD3wjZyfgr6WF0lg), [Klinger](https://open.spotify.com/artist/5IZvbL90N2vOjH9Cjqrgqr) | [Nur](https://open.spotify.com/album/5bDisUecxjM8WhpK7HKmrK) | 3:36 | 2023-09-15 | 2024-02-09 |
+| [Ride It Out](https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Ride It Out](https://open.spotify.com/album/6vMuk0DhZDM1wClWe6ZjIA) | 3:29 | 2026-04-23 |  |
 | [rosa rugosa](https://open.spotify.com/track/6JbEv82gvOqbjEMJs24MiF) | [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [rosa rugosa](https://open.spotify.com/album/1ywF3kbsYJUOa0hxfbZY08) | 2:16 | 2023-07-26 | 2023-11-06 |
 | [rosa rugosa](https://open.spotify.com/track/6reIioBTYw7UIskhcQ2Biw) | [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [rosa rugosa](https://open.spotify.com/album/25FDIN1CcSE8ayxKqQbicc) | 2:16 | 2023-10-27 | 2024-04-19 |
 | [Rote Flaggen](https://open.spotify.com/track/7bkUa9kDFGxgCC7d36dzFI) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [ROTE FLAGGEN](https://open.spotify.com/album/0EWCRqTiWqdumuQKybIzWa) | 3:44 | 2023-10-20 | 2024-05-23 |

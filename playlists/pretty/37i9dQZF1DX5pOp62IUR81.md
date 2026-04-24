@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pOp62IUR81.md) - [plain]
 
 > Go inside the music from the Marvel worlds that you love\. Marvel Studios' The Fantastic Four: First Steps is now streaming on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,087 likes - 76 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,085 likes - 76 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pOp62IUR81.md) - [plain]
 | 75 | [Greater Together \(Album Version\)](https://open.spotify.com/track/7D3owndTfR0iPyRO7sHR3g) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz), [Ben Billions](https://open.spotify.com/artist/5sPlkg8kBNhEMGNTMy8Ey5) | [Marvel's Spider\-Man 2 \(Original Video Game Soundtrack\)](https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR) | 3:18 |
 | 76 | [The Final Battle Begins](https://open.spotify.com/track/3dmbpL8b6XIi3B0iM7G3Bw) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [Guardians of the Galaxy \(Original Score\)](https://open.spotify.com/album/3KxwtSwqC6Ed49laQpSlJM) | 4:21 |
 
-Snapshot ID: `AAAAALMLErsuu71ku+85duupI7P2NkzT`
+Snapshot ID: `AAAAANQr352Kx54MmNR9TDHeQ871m6vl`

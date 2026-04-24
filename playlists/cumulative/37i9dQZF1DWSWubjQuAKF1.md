@@ -2,9 +2,9 @@
 
 ### [up next](https://open.spotify.com/playlist/37i9dQZF1DWSWubjQuAKF1)
 
-> świeże brzmienia na horyzoncie ✨ Cover: Marissa
+> świeże brzmienia na horyzoncie ✨ Cover: Jea Mira
 
-811 songs - 1 day 15 hr 35 min
+815 songs - 1 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [chłopcy](https://open.spotify.com/track/4BupR2P5QwoQNudwGNz2f4) | [RYSIA](https://open.spotify.com/artist/3sobbRn7Mx3TM6HAACPYTp) | [chłopcy](https://open.spotify.com/album/0HyxlVOaa4Cf7KTSdDGzWN) | 2:24 | 2024-06-28 | 2024-07-19 |
 | [Ciarki](https://open.spotify.com/track/1wxdw5LIrYTJiURdxfwlfk) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Ciarki](https://open.spotify.com/album/4a3miPuMVYQHWvjev8qMHy) | 3:52 | 2025-07-03 | 2025-11-05 |
 | [Cienie Przeszłości](https://open.spotify.com/track/6hoBYZ9kZiBWrwMGWrBdqo) | [Jeremi Sikorski](https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw) | [Cienie Przeszłości](https://open.spotify.com/album/5ZrpZyPmuPY9nkhTivObsX) | 2:46 | 2026-01-22 |  |
+| [Cinnamon](https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Cinnamon](https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY) | 3:10 | 2026-04-23 |  |
 | [cisza nocna](https://open.spotify.com/track/6c6lldByHVVBfqha25sOor) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [cisza nocna](https://open.spotify.com/album/4QEgNqclBN0zi57MznoAZr) | 3:02 | 2026-03-12 |  |
 | [ciut za bardzo](https://open.spotify.com/track/1cfhGqNhInqt31NyvuF4vB) | [Kacper Garncarz](https://open.spotify.com/artist/0mU3KNJmSgtwHH6D6UHs2V) | [ciut za bardzo](https://open.spotify.com/album/3GGGhT2VKHSNSwYJhpK1bG) | 2:27 | 2025-04-24 | 2025-06-06 |
 | [Clean girl era](https://open.spotify.com/track/2IXBRcjntKv4h9TNYwun2B) | [Klaudia](https://open.spotify.com/artist/3dWkm8gaXw4aS2fKk36z2o) | [Clean girl era](https://open.spotify.com/album/1Yn1UeZ9gBYllO6S1mzfdE) | 2:37 | 2024-07-18 | 2024-10-19 |
@@ -247,7 +248,7 @@
 | [Gut Feelings](https://open.spotify.com/track/3ywowXgaDXWyYt9S9w9fXI) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Gut Feelings](https://open.spotify.com/album/4qCCYyhWUZPvHS8XfnQayK) | 3:24 | 2025-06-27 | 2025-07-18 |
 | [Głupi Lovesong](https://open.spotify.com/track/5cySYs07FKA5ZKWb3uzDRx) | [Julya](https://open.spotify.com/artist/3HLw79MyKKNt74t4hn3XgT) | [Głupi Lovesong](https://open.spotify.com/album/1EIKyJiAbP56pa14RorzQM) | 3:25 | 2025-02-06 | 2025-03-09 |
 | [Haj](https://open.spotify.com/track/7Bz45WFQCVlSs72wP9HpRz) | [Odet](https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl) | [Haj](https://open.spotify.com/album/4rsF9yduhombRynfWOpOFV) | 3:30 | 2026-03-05 |  |
-| [HALO?](https://open.spotify.com/track/7jOOHCWvNYb2oDJ4F2CVry) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [HALO?](https://open.spotify.com/album/3o1aehL37sKqxz3x99m2rj) | 2:08 | 2026-01-30 |  |
+| [HALO?](https://open.spotify.com/track/7jOOHCWvNYb2oDJ4F2CVry) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [HALO?](https://open.spotify.com/album/3o1aehL37sKqxz3x99m2rj) | 2:08 | 2026-01-30 | 2026-04-24 |
 | [Happy End](https://open.spotify.com/track/0HkaC7DTxaRhYZToZBK0lc) | [Aria Martelle](https://open.spotify.com/artist/4eD0JcSnBvEtyvY3QF2U0K) | [Happy End](https://open.spotify.com/album/3mX7EsVUFJWupywxSmmOVa) | 2:26 | 2025-11-28 | 2026-03-08 |
 | [Happy End](https://open.spotify.com/track/3QXntjMCbriyV6eUNtQB5e) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Happy End](https://open.spotify.com/album/125nGtnN3Je2tyzuiuDLXr) | 2:41 | 2025-01-16 | 2025-01-24 |
 | [have fun bby](https://open.spotify.com/track/1HEBn1kTxE6fwDofeN1abq) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [have fun bby](https://open.spotify.com/album/2dyS6p9Ng1KLP5JGMVlgx6) | 2:36 | 2026-03-05 |  |
@@ -287,7 +288,7 @@
 | [Jak się dziś masz?](https://open.spotify.com/track/4072h3LkxudmZImsxR9fCQ) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Po zmroku](https://open.spotify.com/album/0eqe0KUqvdMqa2GB3YtcQz) | 4:02 | 2025-03-13 | 2025-03-21 |
 | [Jak się trzymasz?](https://open.spotify.com/track/3UVT5F9UB61H6Q0p1fksI3) | [Promień](https://open.spotify.com/artist/7eijvMViYR2Qh5a3APXCwl) | [Jak się trzymasz?](https://open.spotify.com/album/72ki9XRChViCzvMWsn2ZBN) | 2:33 | 2024-07-18 | 2024-08-23 |
 | [jak to jest?](https://open.spotify.com/track/0ubUWjVsO0HcIThLXkEEff) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [jak to jest?](https://open.spotify.com/album/1YmW3cBML2TmEKWE82r8A6) | 3:41 | 2024-07-25 | 2024-09-28 |
-| [Jeans](https://open.spotify.com/track/30zdqL78rZFXVRCTFDw8zu) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Jeans](https://open.spotify.com/album/3oxAD1pjomOuHWlDlZkk1R) | 2:35 | 2026-04-17 |  |
+| [Jeans](https://open.spotify.com/track/30zdqL78rZFXVRCTFDw8zu) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Jeans](https://open.spotify.com/album/3oxAD1pjomOuHWlDlZkk1R) | 2:35 | 2026-04-17 | 2026-04-24 |
 | [Jellyfish](https://open.spotify.com/track/75Xur1uT892l0A6ypOxrhw) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Jellyfish](https://open.spotify.com/album/2iCLCNU6syUwGxn8wa6VCi) | 3:06 | 2025-07-10 | 2025-08-20 |
 | [Jersey In July](https://open.spotify.com/track/17YAmnbsjNbnA2Cp4XbWtV) | [Dom Innarella](https://open.spotify.com/artist/48rd4biBGjgoUUtzDBsJoV) | [Jersey In July](https://open.spotify.com/album/2EK0qh8sBulbiiij4dZA0H) | 2:05 | 2025-06-27 | 2025-08-20 |
 | [jesień](https://open.spotify.com/track/6pty2jiElxYbooIRAnXnfe) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [jesień](https://open.spotify.com/album/3SJym37rMN5fMO5H5E06WZ) | 2:04 | 2025-11-18 | 2026-01-17 |
@@ -390,6 +391,7 @@
 | [mirabelkowy asfalt](https://open.spotify.com/track/7EeJGX9o9uVsYQ3jVyTEGg) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [mirabelkowy asfalt](https://open.spotify.com/album/4poh2MHhgQthdH6byXneK2) | 2:18 | 2025-04-17 | 2025-05-02 |
 | [Miracle](https://open.spotify.com/track/1Rc955GBwPGvCoWLNQokoE) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Miracle](https://open.spotify.com/album/4IyYlHAeJrECsT7VSXCH6Y) | 3:00 | 2024-10-11 | 2025-01-24 |
 | [Miracle \- Eurovision Version](https://open.spotify.com/track/43aFX2LZpCnZXEhNVKBk1z) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Miracle \(Eurovision Version\)](https://open.spotify.com/album/5v8wOqN8GWvKy7fkPsCW4S) | 2:50 | 2025-01-16 | 2025-03-14 |
+| [mięknę&więdnę](https://open.spotify.com/track/5VGl9p1HU0lBGmyZtfitbG) | [Qncicka](https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ) | [mięknę&więdnę](https://open.spotify.com/album/1bN93Gj7Xry16P81TlCulw) | 2:39 | 2026-04-23 |  |
 | [Miłości](https://open.spotify.com/track/3HlomvmvwMNdo1z7DCuG93) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [8 piosenek o miłości](https://open.spotify.com/album/3ahEDNAQfFCsUZqjRYaXcG) | 2:30 | 2025-11-11 | 2026-01-15 |
 | [miłość ma sens](https://open.spotify.com/track/0kpr6xDUfLddVs0zMB63Ie) | [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk) | [miłość ma sens](https://open.spotify.com/album/6YRvbIP5VB3XwTGHdvOrPd) | 2:24 | 2024-11-07 | 2025-01-24 |
 | [MIŁOŚĆ PRZEZWYCIĘŻA WSZYSTKO](https://open.spotify.com/track/5I4eDKoHhURJvawKiWMyN9) | [AZ\-YL](https://open.spotify.com/artist/3QnXWCrjJLdxs8UbRr5qNb), [Franczi](https://open.spotify.com/artist/0Tf0q2oKVyabinfD2MdDh6) | [MIŁOŚĆ PRZEZWYCIĘŻA WSZYSTKO](https://open.spotify.com/album/793lbl7hLzoC5ECysxXZAO) | 3:01 | 2025-05-15 | 2025-05-23 |
@@ -477,6 +479,7 @@
 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 | 2025-02-27 | 2025-06-06 |
 | [Not What’s Going On](https://open.spotify.com/track/22j1qFcWhyPMQjXWtq0bKc) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet](https://open.spotify.com/album/2CIPnWHj8eIK8i99SZy3Mb) | 2:54 | 2025-10-21 | 2025-11-05 |
 | [Nowa Era](https://open.spotify.com/track/4FdrZ3wiKbpIRoEKfRSDAB) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Nowa Era](https://open.spotify.com/album/1l4RC3SFVx7g4JCe91lLpg) | 2:56 | 2024-06-28 | 2024-07-27 |
+| [Nowe Serce](https://open.spotify.com/track/2d8j0ayjXQQ7lPXl1jPTnV) | [Joulie Fox](https://open.spotify.com/artist/5hE1IPeVSiRpzsHBBBpzy4) | [Nowe Serce](https://open.spotify.com/album/5rAtf1iuT80MuU0BgLKxG8) | 2:27 | 2026-04-23 |  |
 | [nwcojestgrane](https://open.spotify.com/track/0rrUFLkf13Qx5XhUxDw6CK) | [sonia](https://open.spotify.com/artist/5tJewiRCbFJHbFzRWn2OS3) | [nwcojestgrane](https://open.spotify.com/album/3oYY4VqBeh8fORA6WczZBi) | 2:43 | 2025-05-22 | 2025-05-30 |
 | [o tobie wers](https://open.spotify.com/track/4uN1jM22d2v3l2IRIJe1Af) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [o tobie wers](https://open.spotify.com/album/3nAZGqA6gK1p546TGFuL1E) | 2:45 | 2025-03-13 | 2025-06-20 |
 | [obiecuję](https://open.spotify.com/track/5agSZ8Jl4NHLslHfrTCm6F) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [obiecuję](https://open.spotify.com/album/74ErgwTtPEZI1spfbR4SxI) | 2:38 | 2026-01-30 | 2026-04-03 |
@@ -526,8 +529,9 @@
 | [pijama party](https://open.spotify.com/track/5Lq1A1RyFYEMa08j7ynZJk) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [FREE WIFI](https://open.spotify.com/album/2GKIvHvN2ZmWMNOouIhUQE) | 1:38 | 2025-02-27 | 2025-03-07 |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2025-02-06 | 2025-03-28 |
 | [piosenka o smutnych ludziach](https://open.spotify.com/track/1EXS8qtTTCUZlwfyXiqMSn) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [o smutnych ludziach](https://open.spotify.com/album/5UMxjPRWqpHWjceBhznKop) | 2:37 | 2025-07-03 | 2025-08-27 |
-| [Piosenka z Portugalii](https://open.spotify.com/track/2O9i6Ye9T6CgWDATXWSyRx) | [BEMY](https://open.spotify.com/artist/2gZ0KjfMstAdkcs5NaFHCb), [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Piosenka z Portugalii](https://open.spotify.com/album/6JBx159DslaGqOkmsM7Sxn) | 2:50 | 2026-04-09 |  |
+| [Piosenka z Portugalii](https://open.spotify.com/track/2O9i6Ye9T6CgWDATXWSyRx) | [BEMY](https://open.spotify.com/artist/2gZ0KjfMstAdkcs5NaFHCb), [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Piosenka z Portugalii](https://open.spotify.com/album/6JBx159DslaGqOkmsM7Sxn) | 2:50 | 2026-04-09 | 2026-04-24 |
 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 | 2025-10-21 | 2025-12-06 |
+| [Piątki](https://open.spotify.com/track/7hN6LIVSU8WlbZ383vtLPA) | [michał od kości](https://open.spotify.com/artist/4SWaZDXBz7FgqxwOi0iVtI) | [Piosenki z filmów, których nie było](https://open.spotify.com/album/7s2bGUQv7ftvuBe7F372sA) | 3:54 | 2026-04-23 |  |
 | [Playing House](https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Playing House](https://open.spotify.com/album/6asLr7iRg5ruj1vatTv75u) | 3:38 | 2025-07-10 | 2025-09-17 |
 | [playlista](https://open.spotify.com/track/42xk0YQdDMjas0cefk5mww) | [shane.](https://open.spotify.com/artist/3tDcEwPEYCO45ks2GFURkT), [didi](https://open.spotify.com/artist/52x2PpXaL6h6JesQPInDei) | [PARADOKS LP](https://open.spotify.com/album/4ApLaVSGtglh0DYmPpEkCJ) | 3:32 | 2024-08-01 | 2024-08-23 |
 | [Plot Twist](https://open.spotify.com/track/5LYMiqTgWew8ycVe0J6nCE) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Plot Twist](https://open.spotify.com/album/4j88MgnY8SnxwQYncvsSOX) | 3:42 | 2025-05-01 | 2025-08-27 |
@@ -564,7 +568,7 @@
 | [Psy](https://open.spotify.com/track/2EAjmK1F2Rb9afmzRUmdCB) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Psy](https://open.spotify.com/album/5JnhZB6ht5DA1YV9SbQxjB) | 3:20 | 2025-02-20 | 2025-08-20 |
 | [PSYCHO](https://open.spotify.com/track/4mzarp4qJVXipOOpzs5MB5) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PSYCHO](https://open.spotify.com/album/6d4okERqK0BiadzjBBOsEL) | 3:06 | 2024-10-11 | 2025-01-24 |
 | [psychokiller](https://open.spotify.com/track/09V4HW3dQhhYrKYOQE2JIb) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [psychokiller / myself](https://open.spotify.com/album/2IUOsRFVSNNxG5bbEfWMTB) | 1:53 | 2026-02-27 | 2026-03-13 |
-| [psychoza](https://open.spotify.com/track/70IiZpYyEN0LeQDfW7kCF7) | [Jan Majewski](https://open.spotify.com/artist/22jvbmwhlcx0iogTUmMMyi) | [psychoza](https://open.spotify.com/album/5drcL43jmDI0vV2htMyXRg) | 2:58 | 2026-04-17 |  |
+| [psychoza](https://open.spotify.com/track/70IiZpYyEN0LeQDfW7kCF7) | [Jan Majewski](https://open.spotify.com/artist/22jvbmwhlcx0iogTUmMMyi) | [psychoza](https://open.spotify.com/album/5drcL43jmDI0vV2htMyXRg) | 2:58 | 2026-04-17 | 2026-04-24 |
 | [Ptak](https://open.spotify.com/track/7owZ1yAKJvTs8xrjZnAlTh) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Ptak](https://open.spotify.com/album/6B7rqtm0PHoJxnSivZ1eTr) | 2:33 | 2026-03-05 | 2026-03-30 |
 | [Ptaki](https://open.spotify.com/track/2LwA6OrbN2DFP9osByAYEY) | [Markus ivi](https://open.spotify.com/artist/2tqi9ifoIBbWNsUxzzscaY) | [Ptaki](https://open.spotify.com/album/2he62aL4O9Bg03NYRK9LvA) | 4:06 | 2025-02-13 | 2025-04-25 |
 | [Punch Drunk Love](https://open.spotify.com/track/3z2obVsOJkPHUXTgRjjbHe) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Punch Drunk Love](https://open.spotify.com/album/6bAQ0jnn6C7MWgjevnkPT6) | 3:17 | 2025-09-23 | 2025-10-01 |

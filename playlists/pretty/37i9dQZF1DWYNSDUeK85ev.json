@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 696690,
+  "num_followers": 696712,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -331,26 +331,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "ROZE | DJ TAO Turreo Sessions #22",
-        "url": "https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 155291,
-      "name": "ROZE | DJ TAO Turreo Sessions #22",
-      "url": "https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "En La Intimidad | CROSSOVER #1",
         "url": "https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 165854,
       "name": "En La Intimidad | CROSSOVER #1",
       "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "ROZE | DJ TAO Turreo Sessions #22",
+        "url": "https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 155291,
+      "name": "ROZE | DJ TAO Turreo Sessions #22",
+      "url": "https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -935,26 +935,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/2QJA6xKUpxD0PoLg0SEFLj"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        },
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        }
-      ],
-      "duration_ms": 217072,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/2oA9whiinAF0PBKmz2X3Lx"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "Yendo No, Llegando",
         "url": "https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 211875,
       "name": "Yendo No, Llegando",
       "url": "https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/2QJA6xKUpxD0PoLg0SEFLj"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "duration_ms": 217072,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/2oA9whiinAF0PBKmz2X3Lx"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/58HBA04dwaoOM4MphbQVpq"
-      },
-      "artists": [
-        {
-          "name": "Saint LL",
-          "url": "https://open.spotify.com/artist/3jXlA6AEpnqfqsR2DPaHIw"
-        },
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        }
-      ],
-      "duration_ms": 141692,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/6vfkShpWclG05YXZqwcjpU"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "Los Fiesteros Se Enamoran (Remix)",
         "url": "https://open.spotify.com/album/3z1snLxIVsIFt8xz4lEivr"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 163106,
       "name": "Los Fiesteros Se Enamoran - Remix",
       "url": "https://open.spotify.com/track/3rYqPU4O9XoUIsUL0PjLcX"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/58HBA04dwaoOM4MphbQVpq"
+      },
+      "artists": [
+        {
+          "name": "Saint LL",
+          "url": "https://open.spotify.com/artist/3jXlA6AEpnqfqsR2DPaHIw"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "duration_ms": 141692,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/6vfkShpWclG05YXZqwcjpU"
     },
     {
       "added_at": "2026-02-20 03:00:09",

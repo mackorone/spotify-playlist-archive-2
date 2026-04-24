@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 38598,
+  "num_followers": 38611,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAAKuFRyXuQGVsGcOlZxTn1m",
+  "snapshot_id": "aegPgAAAAADbSUvsQdlZ5ELYO6A6PQp5",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 190493,
-      "name": "Girl's Not Grey",
-      "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
+      "duration_ms": 176506,
+      "name": "Miseria Cantare - The Beginning",
+      "url": "https://open.spotify.com/track/5unomAZop0VloK8vwwuPpi"
     },
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 250706,
-      "name": "Silver And Cold",
-      "url": "https://open.spotify.com/track/6RGV97HIkgZJjme2dzilfg"
+      "duration_ms": 190493,
+      "name": "Girl's Not Grey",
+      "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 211040,
-      "name": "The Leaving Song Pt. II",
-      "url": "https://open.spotify.com/track/7rFhh71IiBfOCM4EhMwuEb"
+      "duration_ms": 250706,
+      "name": "Silver And Cold",
+      "url": "https://open.spotify.com/track/6RGV97HIkgZJjme2dzilfg"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 176506,
-      "name": "Miseria Cantare - The Beginning",
-      "url": "https://open.spotify.com/track/5unomAZop0VloK8vwwuPpi"
+      "duration_ms": 211040,
+      "name": "The Leaving Song Pt. II",
+      "url": "https://open.spotify.com/track/7rFhh71IiBfOCM4EhMwuEb"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Very Proud of Ya",
-        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 110733,
-      "name": "He Who Laughs Last...",
-      "url": "https://open.spotify.com/track/6UozCMoPjXvjj6z6sEnqgr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burials",
         "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 177373,
       "name": "17 Crimes",
       "url": "https://open.spotify.com/track/5uT6m9pcWDKPP6fovtOqLw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Very Proud of Ya",
+        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 110733,
+      "name": "He Who Laughs Last...",
+      "url": "https://open.spotify.com/track/6UozCMoPjXvjj6z6sEnqgr"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 186933,
-      "name": "Ever And A Day",
-      "url": "https://open.spotify.com/track/1jrXJefkU4DQdM2XOJDENu"
+      "duration_ms": 118866,
+      "name": "Sacrifice Theory",
+      "url": "https://open.spotify.com/track/5fMmhitM2K9CDxiZGPzzbP"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFI",
-        "url": "https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw"
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 201973,
-      "name": "God Called In Sick Today",
-      "url": "https://open.spotify.com/track/1KlroNpIZRQuLK236qrfog"
+      "duration_ms": 241720,
+      "name": "Malleus Maleficarum",
+      "url": "https://open.spotify.com/track/259UpfomIaTr9PdBvR6R1c"
     },
     {
       "added_at": null,
@@ -436,15 +436,15 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 118866,
-      "name": "Sacrifice Theory",
-      "url": "https://open.spotify.com/track/5fMmhitM2K9CDxiZGPzzbP"
+      "duration_ms": 186933,
+      "name": "Ever And A Day",
+      "url": "https://open.spotify.com/track/1jrXJefkU4DQdM2XOJDENu"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Black Sails In The Sunset",
-        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+        "name": "AFI",
+        "url": "https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 241720,
-      "name": "Malleus Maleficarum",
-      "url": "https://open.spotify.com/track/259UpfomIaTr9PdBvR6R1c"
+      "duration_ms": 201973,
+      "name": "God Called In Sick Today",
+      "url": "https://open.spotify.com/track/1KlroNpIZRQuLK236qrfog"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Very Proud of Ya",
-        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 108773,
-      "name": "File 13",
-      "url": "https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7"
+      "duration_ms": 182693,
+      "name": "The Last Kiss",
+      "url": "https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sails In The Sunset",
-        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+        "name": "Very Proud of Ya",
+        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 182693,
-      "name": "The Last Kiss",
-      "url": "https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf"
+      "duration_ms": 108773,
+      "name": "File 13",
+      "url": "https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7"
     },
     {
       "added_at": null,
@@ -532,9 +532,25 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 184900,
-      "name": "Marguerite",
-      "url": "https://open.spotify.com/track/5FRoSL3BeHF28QqiXYFa85"
+      "duration_ms": 198003,
+      "name": "Ash Speck in a Green Eye",
+      "url": "https://open.spotify.com/track/3MIpe4qqcTLRKsWEyaxnfx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 127133,
+      "name": "Porphyria Cutanea Tarda",
+      "url": "https://open.spotify.com/track/66NSMMosLnBZ81ufOYIyIg"
     },
     {
       "added_at": null,
@@ -571,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sails In The Sunset",
-        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 127133,
-      "name": "Porphyria Cutanea Tarda",
-      "url": "https://open.spotify.com/track/66NSMMosLnBZ81ufOYIyIg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Silver Bleeds the Black Sun...",
         "url": "https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5"
       },
@@ -596,9 +596,25 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 198003,
-      "name": "Ash Speck in a Green Eye",
-      "url": "https://open.spotify.com/track/3MIpe4qqcTLRKsWEyaxnfx"
+      "duration_ms": 184900,
+      "name": "Marguerite",
+      "url": "https://open.spotify.com/track/5FRoSL3BeHF28QqiXYFa85"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 93426,
+      "name": "Strength Through Wounding",
+      "url": "https://open.spotify.com/track/6I3ICkKo3D5oOPitKYZS65"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sails In The Sunset",
-        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 149906,
-      "name": "Narrative Of Soul Against Soul",
-      "url": "https://open.spotify.com/track/69zFVq4NkAhjiYGdznM23B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Silver Bleeds the Black Sun...",
         "url": "https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5"
       },
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burials",
-        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 277840,
-      "name": "I Hope You Suffer",
-      "url": "https://open.spotify.com/track/1bl434nynICAlETvh9kf4e"
+      "duration_ms": 149906,
+      "name": "Narrative Of Soul Against Soul",
+      "url": "https://open.spotify.com/track/69zFVq4NkAhjiYGdznM23B"
     },
     {
       "added_at": null,
@@ -695,38 +695,6 @@
       "duration_ms": 174133,
       "name": "Aurelia",
       "url": "https://open.spotify.com/track/7DlLTbTiZiM1Yye5roUYku"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Sails In The Sunset",
-        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 93426,
-      "name": "Strength Through Wounding",
-      "url": "https://open.spotify.com/track/6I3ICkKo3D5oOPitKYZS65"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bodies",
-        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 140579,
-      "name": "Begging For Trouble",
-      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
     },
     {
       "added_at": null,
@@ -775,6 +743,38 @@
       "duration_ms": 168573,
       "name": "Exsanguination",
       "url": "https://open.spotify.com/track/6OdabvInaZXWONggJSLncn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 140579,
+      "name": "Begging For Trouble",
+      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burials",
+        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 277840,
+      "name": "I Hope You Suffer",
+      "url": "https://open.spotify.com/track/1bl434nynICAlETvh9kf4e"
     },
     {
       "added_at": null,

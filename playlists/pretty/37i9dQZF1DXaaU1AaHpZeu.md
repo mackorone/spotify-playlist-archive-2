@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español con Trucha en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,537 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,509 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 30 | [BK4DA2624804](https://open.spotify.com/track/5A2XuhLbc1ND9ZGKWu3ECz) | [RUVENRUVEN](https://open.spotify.com/artist/1E3V2kpvd2LneDVg8FYR17), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [BK4DA2624804](https://open.spotify.com/album/2cJB0LqOGLsb4A2WfduBsX) | 3:39 |
 | 31 | [105](https://open.spotify.com/track/6alc7s6nlzXgNS5pIFRGpa) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [105](https://open.spotify.com/album/3iOwhiQRnwYhkn2hGRoiJ7) | 3:43 |
 | 32 | [LOCO](https://open.spotify.com/track/2jw60Jk2GxakKCGZFLYGo6) | [Sienna](https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA) | [LOCO](https://open.spotify.com/album/4VTWnvNKQHL2nPyHth566s) | 3:07 |
-| 33 | [MAMITA](https://open.spotify.com/track/0xVDh9opWO7gNZveb9Zpts) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK), [Medio Picky](https://open.spotify.com/artist/13O8wsEj25pT1bgPSaMUgt) | [MAMITA](https://open.spotify.com/album/4E1DEFdB6crQuWzbohw74u) | 3:19 |
+| 33 | [MAMITA](https://open.spotify.com/track/0xVDh9opWO7gNZveb9Zpts) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK), [mediopicky](https://open.spotify.com/artist/6vOfSVXZAWvuZliupPw4Wm) | [MAMITA](https://open.spotify.com/album/4E1DEFdB6crQuWzbohw74u) | 3:19 |
 | 34 | [Si tu quieres bien y si no también](https://open.spotify.com/track/3tflYsVAn0Tqhb2u4rmfte) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Refresco, Vol.4: Cheo Goes Dancing](https://open.spotify.com/album/55gdE1s4pkxI66QHQNx28T) | 4:23 |
 | 35 | [Tus Palabras](https://open.spotify.com/track/3VjvJoKQxfis2veBgSYdQ2) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Tus Palabras](https://open.spotify.com/album/6g1P0TRgSoPgVBq1fmNq8h) | 3:40 |
 | 36 | [Déjalo Ir](https://open.spotify.com/track/3dwNV44galFE5WawZyK9Z7) | [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [La Insolación](https://open.spotify.com/album/2MXZYf9orI7MEZhgSs0j5j) | 3:07 |

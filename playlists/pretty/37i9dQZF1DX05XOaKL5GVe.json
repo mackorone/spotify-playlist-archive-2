@@ -1,6 +1,6 @@
 {
   "description": "Tesoros musicales del ayer.",
-  "num_followers": 979352,
+  "num_followers": 979499,
   "original_name": "Viejitas pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -203,18 +203,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+        "name": "Amarte Es Un Placer",
+        "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
       },
       "artists": [
         {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 212226,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
+      "duration_ms": 211760,
+      "name": "Amarte es un placer",
+      "url": "https://open.spotify.com/track/4lQWZGUrquRfH9se6nlmp3"
     },
     {
       "added_at": "2024-12-27 17:55:26",
@@ -251,18 +251,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Amarte Es Un Placer",
-        "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 211760,
-      "name": "Amarte es un placer",
-      "url": "https://open.spotify.com/track/4lQWZGUrquRfH9se6nlmp3"
+      "duration_ms": 212226,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -279,6 +279,22 @@
       "duration_ms": 256706,
       "name": "Evidencias",
       "url": "https://open.spotify.com/track/5YndFYZkywO0F5taLwCEQR"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Usted",
+      "url": "https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -331,22 +347,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Usted",
-      "url": "https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Pecado Original",
         "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
       },
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
     },
     {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "Volcan",
-        "url": "https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 285360,
-      "name": "Volc\u00e1n",
-      "url": "https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus"
-    },
-    {
       "added_at": "2025-01-03 04:07:41",
       "album": {
         "name": "Como un Le\u00f3n",
@@ -407,6 +391,22 @@
       "duration_ms": 222573,
       "name": "P\u00eddeme la Luna",
       "url": "https://open.spotify.com/track/3DDtJh2PeHXUQ90uSZOoyg"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Volcan",
+        "url": "https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 285360,
+      "name": "Volc\u00e1n",
+      "url": "https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus"
     },
     {
       "added_at": "2022-07-14 15:59:59",
@@ -863,22 +863,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Historia De Un Amor",
-        "url": "https://open.spotify.com/album/6ZqE68apCVUrnZh0nRe5x5"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 180986,
-      "name": "B\u00e9same Mucho",
-      "url": "https://open.spotify.com/track/5lqY7EmoAu9rwV4hHxhEzB"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Que Nada Nos Separe",
         "url": "https://open.spotify.com/album/0tv0ugArh5TtRPMORE70RY"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 152093,
       "name": "Gema",
       "url": "https://open.spotify.com/track/6CtFzFcak77qpA0ll1guMN"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Historia De Un Amor",
+        "url": "https://open.spotify.com/album/6ZqE68apCVUrnZh0nRe5x5"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 180986,
+      "name": "B\u00e9same Mucho",
+      "url": "https://open.spotify.com/track/5lqY7EmoAu9rwV4hHxhEzB"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Llorar\u00e1s",
-        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
+        "name": "Mensajes De F\u00e9",
+        "url": "https://open.spotify.com/album/0fn4QTKt2uL68GexFfRhS5"
       },
       "artists": [
         {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
         }
       ],
-      "duration_ms": 241626,
-      "name": "Te Juro Que Te Amo",
-      "url": "https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9"
+      "duration_ms": 226866,
+      "name": "La Monta\u00f1a (A Montanha)",
+      "url": "https://open.spotify.com/track/4VlGrvfdv6p3DoFUaN2sph"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Mensajes De F\u00e9",
-        "url": "https://open.spotify.com/album/0fn4QTKt2uL68GexFfRhS5"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "La Monta\u00f1a (A Montanha)",
-      "url": "https://open.spotify.com/track/4VlGrvfdv6p3DoFUaN2sph"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Si Quieres Verme Llorar",
         "url": "https://open.spotify.com/album/2P8oEuWa3QRF4zgU8dvmrD"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 190807,
       "name": "Si Quieres Verme Llorar",
       "url": "https://open.spotify.com/track/07yJLjgSez4kdmQEqYxtP7"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Llorar\u00e1s",
+        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Te Juro Que Te Amo",
+      "url": "https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9"
     },
     {
       "added_at": "2021-04-22 14:20:49",

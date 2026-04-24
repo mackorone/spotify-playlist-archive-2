@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 879 likes - 140 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 880 likes - 140 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 32 | [Safe Place](https://open.spotify.com/track/2AZdiY1K4r7SQipu72LSZf) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Safe Place](https://open.spotify.com/album/70A7S2OYJtGLQ1PAn9YFjN) | 2:36 |
 | 33 | [Cocaine](https://open.spotify.com/track/0ZjWz3lufHaVRXURSspnfw) | [Jez Dior](https://open.spotify.com/artist/2tmWjaROlvLpahIZcvPLwi) | [Handle With Care](https://open.spotify.com/album/52WqdSNr8hQioPuM1mHNIF) | 3:10 |
 | 34 | [Never Letting Go](https://open.spotify.com/track/0ioKRStsEBHQsHPb0N9kAE) | [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0), [Moon Willis](https://open.spotify.com/artist/4QsYLEjgSItbA6PI2i8xAU), [Tayá](https://open.spotify.com/artist/0QHXPsTQVqvNPfK6edjInM) | [Never Letting Go](https://open.spotify.com/album/2b5HwXYmdfZB6CkxteIM7J) | 3:55 |
-| 35 | [Turn It Up](https://open.spotify.com/track/19j14tCOxrcR655XaodsBB) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Turn It Up](https://open.spotify.com/album/4S2rMIWiGeYCe5pxZxycyN) | 3:16 |
-| 36 | [Every Wish Deserves a Dream](https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Every Wish Deserves a Dream](https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol) | 3:51 |
+| 35 | [Every Wish Deserves a Dream](https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Every Wish Deserves a Dream](https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol) | 3:51 |
+| 36 | [Turn It Up](https://open.spotify.com/track/19j14tCOxrcR655XaodsBB) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Turn It Up](https://open.spotify.com/album/4S2rMIWiGeYCe5pxZxycyN) | 3:16 |
 | 37 | [Still In Love \- Acoustic](https://open.spotify.com/track/1dZOrtdSrudj4krblF2MEG) | [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Cold Heart](https://open.spotify.com/album/3UJW1p1qiGScFrGKLwBptB) | 3:51 |
 | 38 | [Everybody Wants You \(feat\. Sam Fischer\)](https://open.spotify.com/track/6bXi3POdPDmcJJ2A43pLIw) | [Black Saint](https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Everybody Wants You \(feat\. Sam Fischer\)](https://open.spotify.com/album/4fGbB2oX0mUJWRpYJpf1PU) | 3:20 |
 | 39 | [Never Did This Before](https://open.spotify.com/track/27skPro3ahG0esoPhkNEs4) | [Black Saint](https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5) | [Never Did This Before](https://open.spotify.com/album/1UcbXv32GuCvEFo9A2t1Qr) | 3:25 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 109 | [Love Me Like I Do](https://open.spotify.com/track/4QNgPUoNFCvDhLhZa6oYA3) | [Erica\-Cody](https://open.spotify.com/artist/6h9boYU490q7cRC64QsEBI) | [Love Me Like I Do](https://open.spotify.com/album/7BfFYi1geUe3L0HEGlLs6S) | 3:01 |
 | 110 | [Complete Me](https://open.spotify.com/track/7IkYCTXuAvQZXDFtspmR3V) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:41 |
 | 111 | [The Way I'm Wired](https://open.spotify.com/track/1EU1P8r2tF089QQjM5dUIA) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:39 |
-| 112 | [Nothing Without You](https://open.spotify.com/track/1KAvlqjLQJOnyk3lLQ51jd) | [Samantha Jade](https://open.spotify.com/artist/5i84V8Zk7YqCN6xxb7SWgw) | [Nothing Without You](https://open.spotify.com/album/7BpHdk6Qvop3mio148WJrC) | 3:41 |
-| 113 | [The Best Is Yet To Come](https://open.spotify.com/track/28kMV2V5n3ETtyATjsYFrJ) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA), [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:18 |
+| 112 | [The Best Is Yet To Come](https://open.spotify.com/track/28kMV2V5n3ETtyATjsYFrJ) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA), [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:18 |
+| 113 | [Nothing Without You](https://open.spotify.com/track/1KAvlqjLQJOnyk3lLQ51jd) | [Samantha Jade](https://open.spotify.com/artist/5i84V8Zk7YqCN6xxb7SWgw) | [Nothing Without You](https://open.spotify.com/album/7BpHdk6Qvop3mio148WJrC) | 3:41 |
 | 114 | [Grow Old](https://open.spotify.com/track/7mCNqfvqoRHro7rshNW6g8) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Rivers](https://open.spotify.com/album/22ZVcZ2qJSbcQR5VCugOPk) | 2:57 |
 | 115 | [All the Same \- From 'Toy Show the Musical'](https://open.spotify.com/track/41Y7ubE2nP2RygF98iue60) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [All the Same \(From 'Toy Show the Musical'\)](https://open.spotify.com/album/18SvYdlvillTP8vxA37C7G) | 3:56 |
 | 116 | [Honest Man](https://open.spotify.com/track/6hvwdsJpK0YWAi6Zf8jyRf) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:46 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 139 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 140 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `AcPkkgAAAAAewzjGP+vXhFdRo15ZmIfw`
+Snapshot ID: `AcPqMgAAAAA9ppm9D3xC5+JhYt/CiebJ`

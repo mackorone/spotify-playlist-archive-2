@@ -2,16 +2,16 @@
 
 ### [Hot Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DXc51TI5dx7RC)
 
-> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: Anyma, LISA
+> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: GAVIN:D
 
-252 songs - 15 hr 8 min
+254 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 OF 1](https://open.spotify.com/track/5kMl8givhqRWmrDTKauySB) | [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY), [SURIYA MQT](https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P) | [1 OF 1](https://open.spotify.com/album/4K9YECaZ2GRmWyfYLyNOrk) | 4:21 | 2025-07-25 |  |
 | [2AM \(คุณเคยรักใครมากๆมั้ย?\)](https://open.spotify.com/track/50D7ptFXhgR9GZ9g7G20SF) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [Rifle](https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D) | [2AM \(คุณเคยรักใครมากๆมั้ย?\)](https://open.spotify.com/album/3CDUojnPiIiyslUq2WuTWb) | 3:53 | 2024-12-16 | 2025-02-01 |
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-07 | 2025-03-07 |
-| [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 | 2026-03-05 |  |
+| [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 | 2026-03-05 | 2026-04-24 |
 | [Anxiety](https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal \(Extended\)](https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq) | 4:09 | 2025-03-24 | 2025-04-25 |
 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 | 2026-01-23 | 2026-02-28 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-18 | 2025-03-28 |
@@ -246,14 +246,16 @@
 | [เหนื่อยหน่อยนะ \(SOMEONE LIKE ME\)](https://open.spotify.com/track/1iB4DlhihIiLpXB6rTDtkO) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เหนื่อยหน่อยนะ \(SOMEONE LIKE ME\) \- Single](https://open.spotify.com/album/083WVo2isnQjzo2Z0IiYHZ) | 2:56 | 2024-08-23 | 2024-09-14 |
 | [เหนื่อยเกินไป](https://open.spotify.com/track/3bPvxXyKTHq7Pd2IFA10HX) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [เหนื่อยเกินไป](https://open.spotify.com/album/6Nym9IqxppaZR3kJJd8riA) | 5:07 | 2026-03-05 |  |
 | [เหมือนวิวาห์ \(Rain wedding\) \[From "วิมานหนาม"\]](https://open.spotify.com/track/5F4fAhzhdHtaQ8nNqWAufl) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [เหมือนวิวาห์ \(Rain wedding\) \[From "วิมานหนาม"\]](https://open.spotify.com/album/4Ye2Vfc3DIjifg1jyuzBB8) | 4:21 | 2024-08-25 | 2025-02-13 |
-| [แก้บน](https://open.spotify.com/track/1tBFg7D6aSmZb9KUl7FPbu) | [Kantong Tungngern](https://open.spotify.com/artist/5j2wM66qbeuJAygcWdMNpv) | [แก้บน](https://open.spotify.com/album/5fBqn3HW1usEd3Cl5Y5lq8) | 3:48 | 2025-10-31 |  |
+| [แก้บน](https://open.spotify.com/track/1tBFg7D6aSmZb9KUl7FPbu) | [Kantong Tungngern](https://open.spotify.com/artist/5j2wM66qbeuJAygcWdMNpv) | [แก้บน](https://open.spotify.com/album/5fBqn3HW1usEd3Cl5Y5lq8) | 3:48 | 2025-10-31 | 2026-04-24 |
 | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 | 2024-06-20 | 2025-01-24 |
 | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt) | 4:38 | 2024-06-20 | 2024-11-23 |
 | [โลกทั้งใบ](https://open.spotify.com/track/0L5mkLRkk05Mfz4Tk0zU70) | [เล็ก รัชเมศฐ์](https://open.spotify.com/artist/4zqN3dav6iuwb2djzhhtSz) | [โลกทั้งใบ](https://open.spotify.com/album/6eN1MV5bdmZbuwgUcoTC21) | 3:42 | 2025-08-15 | 2025-10-04 |
 | [โลกที่แบกไว้](https://open.spotify.com/track/1BAIaOr39e7FsxRYjbPiyz) | [มนัสวีร์](https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS) | [โลกที่แบกไว้](https://open.spotify.com/album/7Kd7MwlHvyBxiwAFaqhTqJ) | 4:40 | 2024-06-20 | 2024-08-24 |
 | [ใจฉันตามเธอไป](https://open.spotify.com/track/75mFrseCKSI6Nz8WANXq90) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 4:24 | 2025-11-09 |  |
+| [ใจบาง](https://open.spotify.com/track/1znP3iOktHkMy0P8ZFPFe9) | [LUMMUN](https://open.spotify.com/artist/6Qk2g62cWGo8Ji8hSBoriS) | [ใจบาง](https://open.spotify.com/album/2nIEGU77LAyQSuP2oVVtSj) | 3:41 | 2026-04-23 |  |
 | [ใจหล่น \(Ruined\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/3eU8rU2yr6GFhR6gpWhNBA) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 4:58 | 2025-04-02 | 2025-04-29 |
 | [ใจเป็นนาย กายเป็นบ่าว](https://open.spotify.com/track/1gagehYgkm4azlIyIasuAO) | [เล็ก รัชเมศฐ์](https://open.spotify.com/artist/4zqN3dav6iuwb2djzhhtSz) | [ใจเป็นนาย กายเป็นบ่าว \- Single](https://open.spotify.com/album/4s1mjwdNWPBmrKERf7n0DM) | 4:05 | 2024-12-05 | 2025-03-24 |
+| [ได้แค่เดินมาส่ง \(The Last Walk\)](https://open.spotify.com/track/1FhxX1Su9kwKFEqM4qqEJ6) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ROOM101](https://open.spotify.com/album/5KyBfveZb2nGL3Hl4qlwz3) | 3:47 | 2026-04-23 |  |
 | [ไม่มีที่ไปก็ต้องไป](https://open.spotify.com/track/34bbjxV7eJWOWdHHs5ZKn7) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [ไม่มีที่ไปก็ต้องไป](https://open.spotify.com/album/3duBUGLDS0P8MpuWEeSOrR) | 3:43 | 2025-01-16 | 2025-02-07 |
 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 | 2024-06-20 | 2025-02-22 |
 | [ไม่ใช่ไม่รัก](https://open.spotify.com/track/2UYCVz38O2zoQICICt9ZzU) | [PORZAX](https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP) | [ไม่ใช่ไม่รัก](https://open.spotify.com/album/3DqJ2YjutAdb7xv55GTFTd) | 4:31 | 2026-01-15 | 2026-02-21 |

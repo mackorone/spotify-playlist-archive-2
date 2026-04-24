@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Evil Level Live, JUST LIZZY, Ann'so M and more",
+  "description": "With Evil Level Live, Queenadreena, Ann'so M and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -472,7 +472,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 328543,
       "name": "Anemoia",
       "url": "https://open.spotify.com/track/7I9EspieSI4qoKlW2rTMex"
@@ -660,10 +660,28 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 240431,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/2MYdE4abRFwX5ga74BklCT"
+    },
+    {
+      "album": {
+        "name": "Venus In Flux",
+        "url": "https://open.spotify.com/album/0YbTGBJiD5ymkPCj6wyjoX"
+      },
+      "artists": [
+        {
+          "name": "B O I",
+          "url": "https://open.spotify.com/artist/0WiWO8olpTnc1FXkxZHLln"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212973,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5hoIcBep3hJYXPJDKcrQSL"
     },
     {
       "album": {
@@ -772,7 +790,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 152842,
       "name": "Bar Fight with Buzz Aldrin (Robo Mix)",
       "url": "https://open.spotify.com/track/7qHzNi3KQOrMKAitWSd8rM"
@@ -1044,7 +1062,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 224163,
       "name": "Bleed (Everything You Bury)",
       "url": "https://open.spotify.com/track/06Ob4A38WigiFXNsu48vzs"
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 156980,
       "name": "Calling the Rain",
       "url": "https://open.spotify.com/track/2zixwyPGq4YuqVUuPbWEa8"
@@ -1568,7 +1586,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 211981,
       "name": "Castle of love II",
       "url": "https://open.spotify.com/track/5S7AVhwllnAQ3ZOgf7SnLn"
@@ -1886,7 +1904,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 196573,
       "name": "Comfortably Numb",
       "url": "https://open.spotify.com/track/7sRuGGOjQ8fl43PYTZgfvJ"
@@ -2294,7 +2312,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 168000,
       "name": "Cycle Breaker",
       "url": "https://open.spotify.com/track/5dQwM41uDGiyyWHKAbiwqV"
@@ -2366,7 +2384,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-20",
+      "date_removed": null,
       "duration_ms": 171284,
       "name": "Dance in the Dungeon",
       "url": "https://open.spotify.com/track/1djlouVTNO65GRUQ6kV44G"
@@ -4054,7 +4072,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 196025,
       "name": "Good For You",
       "url": "https://open.spotify.com/track/3qCPJ2JFgFsjpBo8x0h48f"
@@ -4459,6 +4477,28 @@
     },
     {
       "album": {
+        "name": "A DISTORTED VIEW",
+        "url": "https://open.spotify.com/album/465jxzwoW4n4QRQRBWEi80"
+      },
+      "artists": [
+        {
+          "name": "Dekad",
+          "url": "https://open.spotify.com/artist/29IK3xMFyz4R6EgE9uRyAm"
+        },
+        {
+          "name": "JB Lacassagne",
+          "url": "https://open.spotify.com/artist/1OIIGQ4Zwd4rT9DOKzaSlb"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199311,
+      "name": "Hidden",
+      "url": "https://open.spotify.com/track/4WmzoBRVjSsDpzXrt7CJED"
+    },
+    {
+      "album": {
         "name": "Chasing Desire",
         "url": "https://open.spotify.com/album/6lfx5CwRgWeV0wmULh2Dam"
       },
@@ -4492,6 +4532,24 @@
       "duration_ms": 272359,
       "name": "Hingi \"Beauty\" (Part II)",
       "url": "https://open.spotify.com/track/0SoaBgTod3yMZLzI8sGCJ0"
+    },
+    {
+      "album": {
+        "name": "History",
+        "url": "https://open.spotify.com/album/3S9NUXITCMD2KMmXbftuxg"
+      },
+      "artists": [
+        {
+          "name": "Fragile Animals",
+          "url": "https://open.spotify.com/artist/3gyJTWjf5CdT9tuQVAcwq7"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288446,
+      "name": "History",
+      "url": "https://open.spotify.com/track/5mL1kwRdQPKLSs5FEueCn9"
     },
     {
       "album": {
@@ -4542,7 +4600,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 265533,
       "name": "Hollows End",
       "url": "https://open.spotify.com/track/2FLwrC0qmuyRZayLXuM8eH"
@@ -4668,7 +4726,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 199037,
       "name": "I Adore You",
       "url": "https://open.spotify.com/track/3jb4kOqfzz1lE0ImqsPcmi"
@@ -4784,6 +4842,24 @@
       "duration_ms": 190093,
       "name": "I Love to Hate You",
       "url": "https://open.spotify.com/track/3YfGhW4ljKzQyPkWPMEFzK"
+    },
+    {
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/1cyNAQ5iSlv5pTlHKJyjQ5"
+      },
+      "artists": [
+        {
+          "name": "Matilyn",
+          "url": "https://open.spotify.com/artist/3r4xe1pxIgWogwnfO8PA5C"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263001,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/1YzLNFuz7Ux6EjaNfs1JRQ"
     },
     {
       "album": {
@@ -5086,7 +5162,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 205000,
       "name": "Innocent Smile",
       "url": "https://open.spotify.com/track/3Zyxr5jVP7wYUMumD5S4uy"
@@ -5396,7 +5472,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 186803,
       "name": "Just Like Honey",
       "url": "https://open.spotify.com/track/4468rcPpL0NyU9uu2NCPQm"
@@ -5739,6 +5815,24 @@
     },
     {
       "album": {
+        "name": "Let Me Breathe",
+        "url": "https://open.spotify.com/album/0tI4bZ9HInCthVtsUYGoIM"
+      },
+      "artists": [
+        {
+          "name": "7 Seconds Later",
+          "url": "https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257741,
+      "name": "Let Me Breathe",
+      "url": "https://open.spotify.com/track/0q0MMaOaEXFwzemhLZWuCI"
+    },
+    {
+      "album": {
         "name": "Skyscrapers Soaring, Yet We're Drowning",
         "url": "https://open.spotify.com/album/0WDiRpJ2HB8y8KORt2WtK2"
       },
@@ -5956,7 +6050,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 199857,
       "name": "Lobotomize",
       "url": "https://open.spotify.com/track/4vsSkXM6cT2qEFfSVHPY1d"
@@ -5974,7 +6068,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 236615,
       "name": "Long Distance to Go",
       "url": "https://open.spotify.com/track/5CpzD2bjv4G7R7xZsg7jCL"
@@ -6619,6 +6713,24 @@
     },
     {
       "album": {
+        "name": "AREA 52",
+        "url": "https://open.spotify.com/album/4V7eSqNpIdrZV0FZTL4fht"
+      },
+      "artists": [
+        {
+          "name": "noha ichou",
+          "url": "https://open.spotify.com/artist/3o4qmobDaKgjEEBUI8VkLc"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326507,
+      "name": "mosquito's wing",
+      "url": "https://open.spotify.com/track/3V5DsjUPjon53mu0iF4GaH"
+    },
+    {
+      "album": {
         "name": "MOST PERSONAL",
         "url": "https://open.spotify.com/album/2o9MPCgy5XATTSqlOv4DRL"
       },
@@ -6898,7 +7010,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 141016,
       "name": "No Lock, No Prayer",
       "url": "https://open.spotify.com/track/5jbUTMJKGtUGdLqrlMdYpK"
@@ -7118,7 +7230,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 246413,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/0CA8XgSRKkaiBa0OzmqS7b"
@@ -7406,7 +7518,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 274000,
       "name": "Penumbra",
       "url": "https://open.spotify.com/track/32sr7MGilJxTBCUxPSOVlL"
@@ -8866,7 +8978,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 248000,
       "name": "Slipping away",
       "url": "https://open.spotify.com/track/67iGteenwJZQbZJ4yTBb2m"
@@ -9181,6 +9293,24 @@
     },
     {
       "album": {
+        "name": "Ride A Cock Horse (Remix 2026)",
+        "url": "https://open.spotify.com/album/5B7bqnNoOr3Ls1wdiISCQ0"
+      },
+      "artists": [
+        {
+          "name": "Queenadreena",
+          "url": "https://open.spotify.com/artist/0zYVtVMZPpfEaupL6jn0Zi"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176949,
+      "name": "Spider Spider",
+      "url": "https://open.spotify.com/track/2KzArEhoiR0aHmEodyuTi0"
+    },
+    {
+      "album": {
         "name": "Split Realities",
         "url": "https://open.spotify.com/album/6vdDOrHiJnguQ03fpIc4Fi"
       },
@@ -9394,7 +9524,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 208793,
       "name": "Street",
       "url": "https://open.spotify.com/track/5oNPKMYx14cj8XqQPe6ahN"
@@ -9506,7 +9636,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 225640,
       "name": "Sugar Baby",
       "url": "https://open.spotify.com/track/6ZtLXd2xnNKVmU3I9OCKJ3"
@@ -9814,7 +9944,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 280320,
       "name": "The Againsters - To Die In Beauty Remix",
       "url": "https://open.spotify.com/track/53KjYy69KuICpeKvQcCV7h"
@@ -10172,6 +10302,24 @@
       "duration_ms": 201104,
       "name": "The Passengers",
       "url": "https://open.spotify.com/track/68rIFfMmZCP75TXUPbZe5B"
+    },
+    {
+      "album": {
+        "name": "The Sacred Air",
+        "url": "https://open.spotify.com/album/4BiVozB3KjCYWRE74xwEPI"
+      },
+      "artists": [
+        {
+          "name": "Dale Nester",
+          "url": "https://open.spotify.com/artist/2ebLNnMvvhMUzgLyxMmjBy"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220043,
+      "name": "The Sacred Air",
+      "url": "https://open.spotify.com/track/6JS3cvKJc3jkDMITVsknRl"
     },
     {
       "album": {
@@ -12082,7 +12230,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 232040,
       "name": "Your Blood Is Like Mine",
       "url": "https://open.spotify.com/track/68DA4SFMI6X3c9KWuAt9sR"

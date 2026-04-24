@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40305,
+  "num_followers": 40312,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAABHqgH5h0ku2Xt0GiZqn8rj",
+  "snapshot_id": "aegPgAAAAAA3QXP4/1n+uDYdAVyhkWqc",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "everything is a lot.",
-        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 213954,
-      "name": "Where To Start",
-      "url": "https://open.spotify.com/track/2r0dMcbpDjaopop0lwp5Ld"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Album About Nothing",
         "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
       },
@@ -283,22 +267,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folarin II",
-        "url": "https://open.spotify.com/album/2hWG79pDHBFMCr5PQsCtF9"
+        "name": "everything is a lot.",
+        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
       },
       "artists": [
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Jamie Foxx",
-          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
         }
       ],
-      "duration_ms": 109000,
-      "name": "Dearly Beloved (feat. Jamie Foxx)",
-      "url": "https://open.spotify.com/track/0JQ0F7iBZ3rIZaY9PTlBpT"
+      "duration_ms": 213954,
+      "name": "Where To Start",
+      "url": "https://open.spotify.com/track/2r0dMcbpDjaopop0lwp5Ld"
     },
     {
       "added_at": null,
@@ -327,18 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "everything is a lot.",
-        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
+        "name": "Folarin II",
+        "url": "https://open.spotify.com/album/2hWG79pDHBFMCr5PQsCtF9"
       },
       "artists": [
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
         }
       ],
-      "duration_ms": 175417,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/6boHVtRiLPHR1sm1I1ZdJr"
+      "duration_ms": 109000,
+      "name": "Dearly Beloved (feat. Jamie Foxx)",
+      "url": "https://open.spotify.com/track/0JQ0F7iBZ3rIZaY9PTlBpT"
     },
     {
       "added_at": null,
@@ -363,22 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+        "name": "everything is a lot.",
+        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
       },
       "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 209182,
-      "name": "FEELINGS ON SILENT (feat. Wale)",
-      "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
+      "duration_ms": 175417,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/6boHVtRiLPHR1sm1I1ZdJr"
     },
     {
       "added_at": null,
@@ -407,22 +387,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "everything is a lot.",
-        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
       },
       "artists": [
         {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         },
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 153935,
-      "name": "City On Fire",
-      "url": "https://open.spotify.com/track/5hvt3s4LH6kZETJ18nxgYa"
+      "duration_ms": 209182,
+      "name": "FEELINGS ON SILENT (feat. Wale)",
+      "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
     },
     {
       "added_at": null,
@@ -443,6 +423,26 @@
       "duration_ms": 212500,
       "name": "Love... (Her Fault) [feat. Bryson Tiller]",
       "url": "https://open.spotify.com/track/6cSBm4mtcuFtClN6yDvjQo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "everything is a lot.",
+        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 153935,
+      "name": "City On Fire",
+      "url": "https://open.spotify.com/track/5hvt3s4LH6kZETJ18nxgYa"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "everything is a lot.",
-        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 188205,
-      "name": "Belly",
-      "url": "https://open.spotify.com/track/1pfEXj4djveb3DtBylxSDi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N.W.A",
         "url": "https://open.spotify.com/album/5r769GiqpMgMx4vAzCT7Kz"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 230413,
       "name": "N.W.A",
       "url": "https://open.spotify.com/track/43X9WjjrCMIQ7lM4TjRbZm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "everything is a lot.",
+        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 188205,
+      "name": "Belly",
+      "url": "https://open.spotify.com/track/1pfEXj4djveb3DtBylxSDi"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "everything is a lot.",
-        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 128157,
-      "name": "Conundrum",
-      "url": "https://open.spotify.com/track/2j3ZeRQLyJyMTWzNkHFRtb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 228706,
       "name": "My Love (feat. Major Lazer, WizKid, Dua Lipa)",
       "url": "https://open.spotify.com/track/7rfiXyFb5M9BqdkvKvVEiB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "everything is a lot.",
+        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 128157,
+      "name": "Conundrum",
+      "url": "https://open.spotify.com/track/2j3ZeRQLyJyMTWzNkHFRtb"
     },
     {
       "added_at": null,
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Constellations",
-        "url": "https://open.spotify.com/album/0X4X4hGytNt85z9zZQW8F9"
-      },
-      "artists": [
-        {
-          "name": "RINI",
-          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 219686,
-      "name": "Red Lights (feat. Wale)",
-      "url": "https://open.spotify.com/track/2A9l1TsM78JQqQMYqAQEZe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stay Trippy",
         "url": "https://open.spotify.com/album/7h1ut6IUbndKY7QrqcbAND"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 260560,
       "name": "Bounce It (feat. Wale & Trey Songz)",
       "url": "https://open.spotify.com/track/3N5oiETJEStSB71TjTFkWV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Constellations",
+        "url": "https://open.spotify.com/album/0X4X4hGytNt85z9zZQW8F9"
+      },
+      "artists": [
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 219686,
+      "name": "Red Lights (feat. Wale)",
+      "url": "https://open.spotify.com/track/2A9l1TsM78JQqQMYqAQEZe"
     },
     {
       "added_at": null,
@@ -931,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Since I Have A Lover",
-        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "Stories In Motion (with Wale)",
-      "url": "https://open.spotify.com/track/6gvhqnL1MUehL9g5mp1A0I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Album About Nothing",
         "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
       },
@@ -971,26 +951,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Attention Deficit (Explicit Version)",
-        "url": "https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI"
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
       },
       "artists": [
         {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Melanie Fiona",
-          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 304613,
-      "name": "Beautiful Bliss",
-      "url": "https://open.spotify.com/track/5Ys7Mcr0n8NBTFiwqbTR8m"
+      "duration_ms": 206693,
+      "name": "Stories In Motion (with Wale)",
+      "url": "https://open.spotify.com/track/6gvhqnL1MUehL9g5mp1A0I"
     },
     {
       "added_at": null,
@@ -1039,26 +1015,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Never Visit Me (feat. Wale & Enny)",
-        "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
+        "name": "Attention Deficit (Explicit Version)",
+        "url": "https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI"
       },
       "artists": [
         {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         },
         {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+          "name": "Melanie Fiona",
+          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
         },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 304613,
+      "name": "Beautiful Bliss",
+      "url": "https://open.spotify.com/track/5Ys7Mcr0n8NBTFiwqbTR8m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wow... That's Crazy",
+        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
+      },
+      "artists": [
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 264000,
-      "name": "You Never Visit Me (feat. Wale & Enny)",
-      "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
+      "duration_ms": 209104,
+      "name": "Poledancer (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4ln1WvasZSvmKQFOQJBNZr"
     }
   ],
   "unique_name": "This Is Wale",

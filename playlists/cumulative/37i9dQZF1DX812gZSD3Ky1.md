@@ -4,7 +4,7 @@
 
 > เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ศิลปิน: Tyla, Zara Larsson
 
-1,036 songs - 2 day 8 hr 22 min
+1,037 songs - 2 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,7 +524,7 @@
 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 | 2024-06-28 | 2024-12-21 |
 | [Made it Awkward](https://open.spotify.com/track/3WEN3tPFH7JkKgo1wSPIeC) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Made it Awkward](https://open.spotify.com/album/3euoJYDOrowJiYU7Tbr3JV) | 2:31 | 2024-11-22 | 2024-11-29 |
 | [Made Me a Man](https://open.spotify.com/track/3upOe7HfDqa3Q9PKdd9eKs) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [MAGICMAN 2](https://open.spotify.com/album/2oG5VfrcnXl0jZp8i2kYSB) | 3:15 | 2025-07-17 | 2025-07-28 |
-| [Madwoman](https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:59 | 2026-04-10 |  |
+| [Madwoman](https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:59 | 2026-04-10 | 2026-04-24 |
 | [Magic](https://open.spotify.com/track/1urNcISPElPL9gIcYd1VNu) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Magic](https://open.spotify.com/album/653aKK0vOZIlyWmq8B0RSd) | 3:20 | 2024-08-16 |  |
 | [Make A Move](https://open.spotify.com/track/73DmfC0n2mX5lVIc0ytmEy) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \- Deluxe](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:35 | 2024-08-16 | 2024-08-29 |
 | [Make It Hot \(feat\. Pink Sweat$\)](https://open.spotify.com/track/7kJ4Q6YTfePxfKuVxVFRzT) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Make It Hot \(feat\. Pink Sweat$\)](https://open.spotify.com/album/3vXyaAkOtyBIYFsGdrJVkS) | 2:17 | 2024-06-28 | 2025-03-07 |
@@ -897,6 +897,7 @@
 | [The Mountain](https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 2:55 | 2024-11-15 | 2024-11-29 |
 | [the next time i'll cry \(will be at ur wedding\)](https://open.spotify.com/track/6DGlFKczI69ObIJhoKAqGX) | [twlips](https://open.spotify.com/artist/44oBe1r8Bp8z8ARJOWcfHP) | [the next time i'll cry \(will be at ur wedding\)](https://open.spotify.com/album/5fQ3DbKoAkMAb41ej1MFp6) | 4:26 | 2024-12-27 | 2025-01-10 |
 | [The Ocean Blue](https://open.spotify.com/track/3jhwpegbuY8k2UrpS1Jsko) | [PANNAGUS](https://open.spotify.com/artist/3hKi4HjosQk2QDyG3VF5CG), [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [The Ocean Blue](https://open.spotify.com/album/0tirQDcdpPagk0HiouXZtH) | 3:44 | 2025-10-25 | 2025-11-08 |
+| [The One That Got Away](https://open.spotify.com/track/4ZXYHN8YsbMALXZdGWzKZU) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Thinking of The One That Got Away](https://open.spotify.com/album/6WEro8v298l2vOhzUNHYgL) | 3:47 | 2026-04-23 |  |
 | [The Other Piece Of My Heart](https://open.spotify.com/track/7Glllm4Dytz70wdJizyZt6) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [HONEYMOOD](https://open.spotify.com/album/7K9xdvayXXWMHwPdXvNCun) | 2:29 | 2025-08-15 | 2025-09-20 |
 | [The Other Side](https://open.spotify.com/track/4XQ3KhcNJ1FYTVMb4honlK) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [The Other Side](https://open.spotify.com/album/1HuOAu4VK1usRAUcip0WhY) | 3:18 | 2024-09-27 | 2024-10-05 |
 | [The pillow's calling](https://open.spotify.com/track/4d7OmTFcZdMSQT9cwyRFEf) | [Flour in the Garden](https://open.spotify.com/artist/6uBXXIUE4QVatDS70UcHzD) | [The pillow's calling](https://open.spotify.com/album/7rWuoRvCZQhxaUtGyStiAb) | 3:26 | 2024-10-04 | 2024-10-12 |

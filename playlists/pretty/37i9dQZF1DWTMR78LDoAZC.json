@@ -1,6 +1,6 @@
 {
   "description": "Left of center indie/alternative/rock LGBTQIA+ artists. Cover: Perfume Genius",
-  "num_followers": 185417,
+  "num_followers": 185428,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-05-30 04:00:14",
       "album": {
+        "name": "HARDCORE HAPPY",
+        "url": "https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG"
+      },
+      "artists": [
+        {
+          "name": "THE BLSSM",
+          "url": "https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "HARDCORE HAPPY",
+      "url": "https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5"
+    },
+    {
+      "added_at": "2025-05-30 04:00:14",
+      "album": {
         "name": "To Be Yours",
         "url": "https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 211782,
       "name": "To Be Yours",
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
-    },
-    {
-      "added_at": "2025-05-30 04:00:14",
-      "album": {
-        "name": "HARDCORE HAPPY",
-        "url": "https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG"
-      },
-      "artists": [
-        {
-          "name": "THE BLSSM",
-          "url": "https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "HARDCORE HAPPY",
-      "url": "https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5"
     },
     {
       "added_at": "2025-05-30 04:00:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Kacey Musgraves
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,705,873 likes - 113 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,705,729 likes - 113 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

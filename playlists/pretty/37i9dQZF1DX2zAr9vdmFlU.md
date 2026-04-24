@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,653 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,638 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 44 | [Tiene Sabor](https://open.spotify.com/track/56zLMDP0ZacyFkQwxHz8yr) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Valentín Puentes](https://open.spotify.com/artist/0ssydpx5rK6vZlXkIeHnw5) | [Tiene Sabor](https://open.spotify.com/album/5B5XX53acuLFw8JHXK1UU2) | 4:00 |
 | 45 | [Chocolat \(Swing\)](https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Bailables](https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW) | 3:44 |
 | 46 | [Un Telegrama](https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754) | [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [La Marisoul & The Love Notes Orchestra \(Vol\. 1\)](https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO) | 2:42 |
-| 47 | [Bienvenido a mi habitación](https://open.spotify.com/track/4NtU5Yq5SqaIbGjpbPmXw7) | [Georgina](https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b) | [Bienvenido a mi habitación](https://open.spotify.com/album/4nEsMSMUDN7x646cLbaXBp) | 3:12 |
-| 48 | [Esperando Verte](https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Esperando Verte](https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT) | 3:52 |
+| 47 | [Esperando Verte](https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Esperando Verte](https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT) | 3:52 |
+| 48 | [Bienvenido a mi habitación](https://open.spotify.com/track/4NtU5Yq5SqaIbGjpbPmXw7) | [Georgina](https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b) | [Bienvenido a mi habitación](https://open.spotify.com/album/4nEsMSMUDN7x646cLbaXBp) | 3:12 |
 | 49 | [Mariposas Blancas](https://open.spotify.com/track/2eOyh4AuxBnX5uAwWLrgsB) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Mariposas](https://open.spotify.com/album/6mc4GtVnrTUk5lScACco4q) | 4:21 |
 | 50 | [Curita](https://open.spotify.com/track/0Ryshb3D6BVfHvfqcRnGVa) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Curita](https://open.spotify.com/album/1JgFkTn2qpYY8bPIduQMmF) | 3:26 |
 | 51 | [Si estuvieras aquí](https://open.spotify.com/track/1IivIUAoeg6IobElqVjRMY) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Si estuvieras aquí](https://open.spotify.com/album/3rUFmrQOullkx18XKni9O1) | 5:02 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 70 | [Porro Maracatu](https://open.spotify.com/track/3Fj0USmSNBcOwu4oeFXtZu) | [LADAMA](https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9) | [LADAMA](https://open.spotify.com/album/0ZS5LZAEaWFcZEpdqwwub6) | 3:46 |
 | 71 | [American Boy](https://open.spotify.com/track/40cHpU5FQkXlDxfayeWqsO) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [American Boy](https://open.spotify.com/album/634SbzHMwQgsFIq977CQiW) | 3:45 |
 | 72 | [Bachata Rosa](https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Legados Bachata](https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5) | 4:06 |
-| 73 | [El Barrio](https://open.spotify.com/track/77UYRQsKWcspsz2pnh47kD) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [BITA](https://open.spotify.com/artist/0eVKCSDfAQbvznCYHmqjki) | [El Barrio](https://open.spotify.com/album/2O4CUtzU5HwDfLhtwyHfv5) | 3:00 |
-| 74 | [Los Palos](https://open.spotify.com/track/52NTNT8dND7VzOF9jaHJyz) | [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [Los Palos](https://open.spotify.com/album/3fTYIIkdPaTguCnNvT7BkY) | 3:19 |
+| 73 | [Los Palos](https://open.spotify.com/track/52NTNT8dND7VzOF9jaHJyz) | [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [Los Palos](https://open.spotify.com/album/3fTYIIkdPaTguCnNvT7BkY) | 3:19 |
+| 74 | [El Barrio](https://open.spotify.com/track/77UYRQsKWcspsz2pnh47kD) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [BITA](https://open.spotify.com/artist/0eVKCSDfAQbvznCYHmqjki) | [El Barrio](https://open.spotify.com/album/2O4CUtzU5HwDfLhtwyHfv5) | 3:00 |
 | 75 | [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/track/10oji60Sz18msn5AgTQI58) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3), [Georgina](https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b) | [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/album/2aaxxiwKt6qDtMnw9awlXi) | 3:28 |
 | 76 | [Caminando por Quisqueya](https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou) | [Caminando por Quisqueya](https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4) | 6:00 |
 | 77 | [Picadillo](https://open.spotify.com/track/3F69z89dC8NVDaWzcMwzAE) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Delicate & Jumpy](https://open.spotify.com/album/6Us6eV06MKN8d41bMz040J) | 5:34 |

@@ -1,6 +1,6 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 39476,
+  "num_followers": 39479,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,26 @@
     {
       "added_at": "2025-12-15 11:39:00",
       "album": {
+        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
+        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "Lyric Pieces, Op. 43: VI. To the Spring",
+      "url": "https://open.spotify.com/track/7FdTdDt7bRTFo4x4hmdadD"
+    },
+    {
+      "added_at": "2025-12-15 11:39:00",
+      "album": {
         "name": "Sibelius: Karelia Suite; Swan of Tuonela/Grieg: Holberg Suite",
         "url": "https://open.spotify.com/album/0UEtCD7OMAWij6pzFxjbz8"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 406666,
       "name": "Holberg Suite, Op. 40: 4. Air (Andante religioso)",
       "url": "https://open.spotify.com/track/00shcLNgwxFoIWDCCiQB6i"
-    },
-    {
-      "added_at": "2025-12-15 11:39:00",
-      "album": {
-        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
-        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Lyric Pieces, Op. 43: VI. To the Spring",
-      "url": "https://open.spotify.com/track/7FdTdDt7bRTFo4x4hmdadD"
     },
     {
       "added_at": "2025-12-15 11:39:00",

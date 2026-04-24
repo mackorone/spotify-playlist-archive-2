@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,283 songs - 2 day 7 hr 22 min
+1,285 songs - 2 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,6 +514,7 @@
 | [I'll be here](https://open.spotify.com/track/6VqkM59stutFeaHnD54jAF) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy) | [I'll be here](https://open.spotify.com/album/7szuwsBylOUx3kchJ26q9i) | 3:16 | 2023-09-22 | 2025-06-03 |
 | [I'll Be There](https://open.spotify.com/track/6ToE2TSyqyKTNfSgcHxyA4) | [AALLAR](https://open.spotify.com/artist/0Zo4tbJKj4xYiidcaYRtz1), [DeejaVu](https://open.spotify.com/artist/3mvjFFkdgBRCeaSu51XM30), [Lynnzee Fraye](https://open.spotify.com/artist/0srxVut4bs3rtFg9lTtTMS) | [I'll Be There](https://open.spotify.com/album/2gcoDqXMPugGYmZ1uYS4MN) | 2:43 | 2024-07-08 | 2024-07-29 |
 | [I'll Be Waiting](https://open.spotify.com/track/09aDzP8kamZbe1IImnjY17) | [Saxena](https://open.spotify.com/artist/4RmAlZapfAsWhj2k1pHsKe), [live to love](https://open.spotify.com/artist/4fthU4xExNwotqJYN2fq3w), [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [I'll Be Waiting](https://open.spotify.com/album/5mT18YiGtav50szSmwO2Nf) | 2:30 | 2024-07-30 | 2025-03-03 |
+| [I'll Follow](https://open.spotify.com/track/2tMAfaYEUXy7EveuutkMTd) | [Palmero](https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn), [Nico Sol](https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ) | [I'll Follow](https://open.spotify.com/album/5sFllkcvCrmGt2qzym5xxl) | 1:55 | 2026-04-23 |  |
 | [I'm Good](https://open.spotify.com/track/1H27IgTftbtLwK4HrdGV3x) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [I'm Good](https://open.spotify.com/album/7FptgpHqLvYf6sgYhiey41) | 2:32 | 2024-06-07 | 2024-06-23 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/5Yo5PpwKlekpbOd8JucLAP) | [Cupido](https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB) | [I'm Good \(Blue\)](https://open.spotify.com/album/4Glni7CfaUZ2NV3ZmPQJV7) | 2:17 | 2023-09-22 | 2024-11-18 |
 | [I'm on Fire](https://open.spotify.com/track/6JRbMrGIQbvE9Ybd6xW0u6) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [I'm on Fire](https://open.spotify.com/album/3lcFCM3TAzFv72DjC7CtbS) | 2:06 | 2024-08-16 | 2024-09-30 |
@@ -1276,6 +1277,7 @@
 | [You'll Be Calling Me](https://open.spotify.com/track/0Z7GvNuGtRfi5nJsx4hdmT) | [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [You'll Be Calling Me](https://open.spotify.com/album/4uiUWMgRWLWRk0NDRVKKmG) | 2:54 | 2024-09-27 | 2025-03-31 |
 | [You'll Stay](https://open.spotify.com/track/4zsoGq0jlYwgphTSiNiEZ6) | [Goldaine](https://open.spotify.com/artist/1QftYA5x2E5cUTutfjtcfg) | [You'll Stay](https://open.spotify.com/album/3DeTUOcnCPixWoSVVar5pk) | 2:08 | 2025-12-29 |  |
 | [You're Not There](https://open.spotify.com/track/06sM4pTTiD9JWxleV7Uc4e) | [Alena Kita](https://open.spotify.com/artist/7LTWM8PV0mAaqfP6a7krq9) | [You're Not There](https://open.spotify.com/album/5m2E42XewclsCnfvX3gERa) | 2:07 | 2025-10-03 |  |
+| [You're On My Mind](https://open.spotify.com/track/0NuRQ8T08FBaoWm0fYIHbN) | [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [Aizu](https://open.spotify.com/artist/6tAUpk1pE9QXUrDSMbPn81), [Danny CLLS](https://open.spotify.com/artist/6d3nH8GbnopYSzp2u5qaFG) | [You're On My Mind](https://open.spotify.com/album/20qYbl8xZfqVdrU8HLTwKd) | 2:41 | 2026-04-23 |  |
 | [You're Somebody Else](https://open.spotify.com/track/2wLIUEezoxZDKBtK3Qzmbk) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [You're Somebody Else](https://open.spotify.com/album/7rfuNg4YLJnnAOCni8HEfq) | 2:38 | 2024-02-10 | 2025-04-07 |
 | [You're The One](https://open.spotify.com/track/5HHDQBZzFWm00giwxPSF51) | [Jelen](https://open.spotify.com/artist/0OkJaMHmOycCjKUHObnGtT) | [You're The One](https://open.spotify.com/album/5b0KyQO9kGU0w9z4nmWU8A) | 2:53 | 2024-05-04 | 2024-07-05 |
 | [You've Got the Love](https://open.spotify.com/track/0VYbWQ55gP8h8WepmgJjHI) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Louise CS](https://open.spotify.com/artist/0dn1gA4vEmgPxarhdWcLCM) | [You've Got the Love](https://open.spotify.com/album/0qRHUIyo4izAh674KJrMe2) | 3:00 | 2023-09-22 | 2024-06-10 |

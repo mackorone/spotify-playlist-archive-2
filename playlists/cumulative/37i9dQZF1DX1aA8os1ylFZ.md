@@ -4,7 +4,7 @@
 
 > Nieuwe R&B releases \| Cover: Neema Nekesa
 
-739 songs - 1 day 14 hr 5 min
+740 songs - 1 day 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [go \(feat\. Sam Fischer\)](https://open.spotify.com/track/54FVfRWXJwZbTUmKFen2nu) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Go \(Remixes\)](https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu) | 3:35 | 2022-07-22 | 2023-01-13 |
 | [Go Girlfriend](https://open.spotify.com/track/7sDsbFNNQmG2UmRjHtO7fW) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:55 | 2025-02-05 | 2025-03-08 |
 | [Gone Girl](https://open.spotify.com/track/2l3UrQ9RRUDHH2H6vUV723) | [Maya Mae](https://open.spotify.com/artist/3Rf9Szpp2LkKOc3SffGinv), [May](https://open.spotify.com/artist/1qUYX7PH6ubHnoCGWbjEW6) | [Gone Girl](https://open.spotify.com/album/0KGCksTaW4MwH3omcckWWU) | 3:01 | 2024-02-29 | 2025-02-06 |
-| [Good Day](https://open.spotify.com/track/6Go0mbl0KkPgQ5lCU4rT06) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Good Day](https://open.spotify.com/album/1dmyYsIIRVePvCLhFb7Dd1) | 4:35 | 2025-05-06 |  |
+| [Good Day](https://open.spotify.com/track/6Go0mbl0KkPgQ5lCU4rT06) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Good Day](https://open.spotify.com/album/1dmyYsIIRVePvCLhFb7Dd1) | 4:35 | 2025-05-06 | 2026-04-24 |
 | [Good Day](https://open.spotify.com/track/6UzeqhR2HzAp71r7FToxaP) | [ROMAN S](https://open.spotify.com/artist/6tuerTyQCwlUIhVdfmQGKE), [Zachery V](https://open.spotify.com/artist/4aYcKpn8h3uilaFJ9Lbnqd) | [Good Day](https://open.spotify.com/album/5e62sirP6DFfV8Hx2J5tVP) | 2:48 | 2025-06-02 | 2025-08-16 |
 | [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 | 2023-08-14 | 2024-09-28 |
 | [Goofy](https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Goofy](https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW) | 3:21 | 2023-01-12 | 2023-09-22 |
@@ -337,6 +337,7 @@
 | [It's All There \(Secrets\)](https://open.spotify.com/track/3Sf2u44aaU4WYJ3jcTNJco) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Truth Be Told](https://open.spotify.com/album/2O5nHhevgApYSTlSgyVcbg) | 3:20 | 2024-08-29 | 2025-03-08 |
 | [JACKIE BROWN](https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 2:49 | 2023-04-23 | 2023-09-22 |
 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 | 2023-08-23 | 2024-09-28 |
+| [July](https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Forever Ends Someday](https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y) | 2:32 | 2026-04-23 |  |
 | [Just Another Day](https://open.spotify.com/track/10mwoA7R21BMQBd37HPMtF) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Auryln](https://open.spotify.com/artist/1wDX3rlWCfdHvB31ExxX79) | [Just Another Day](https://open.spotify.com/album/5R2XoxoxFQ8hAS1PJa4LMk) | 2:40 | 2024-10-25 | 2025-11-21 |
 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 | 2023-02-23 | 2024-03-01 |
 | [Just Hold Me Close](https://open.spotify.com/track/376ZUWgxe1oqkE2xawiKDg) | [Stef Classens](https://open.spotify.com/artist/2GIBqEMeHWoMZuxlmyc3ac) | [Just Hold Me Close](https://open.spotify.com/album/2R8Tj9vXLOlQwXXxQYB4C2) | 3:12 | 2021-12-16 | 2022-01-21 |

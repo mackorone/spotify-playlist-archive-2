@@ -135,6 +135,28 @@
     },
     {
       "album": {
+        "name": "60/40",
+        "url": "https://open.spotify.com/album/4VyvFHptC1TcCjCjuWiqtg"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Ramiro Gomez",
+          "url": "https://open.spotify.com/artist/58Fsud74KD6O4z47awEKGD"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142588,
+      "name": "60/40",
+      "url": "https://open.spotify.com/track/4RMBsnZcRBz8clopV3TWV8"
+    },
+    {
+      "album": {
         "name": "A Chillar a Otra Parte (Remix)",
         "url": "https://open.spotify.com/album/06IlqAtT5PKCvrAAattY50"
       },
@@ -1810,7 +1832,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 167553,
       "name": "Chica Brasile\u00f1a Remix",
       "url": "https://open.spotify.com/track/4lIGf1AhxbdiEpDUwosSLU"
@@ -1882,7 +1904,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 149155,
       "name": "Cicatrices",
       "url": "https://open.spotify.com/track/0G4XRrTl6etz8zGK2yfW2T"
@@ -2404,7 +2426,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 176666,
       "name": "Cuantas veces yo me Enamore",
       "url": "https://open.spotify.com/track/6DRWWjnqhAfHrTw6xJwuts"
@@ -4488,7 +4510,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 188286,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/5pruxfqtpxNBKvdjqThMrg"
@@ -6596,7 +6618,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 186360,
       "name": "Lo Mismo Que A M\u00ed",
       "url": "https://open.spotify.com/track/6sIvFhsKL8by5feYLeqawQ"
@@ -7850,6 +7872,32 @@
       "duration_ms": 127244,
       "name": "Mirame - Versi\u00f3n Cumbia",
       "url": "https://open.spotify.com/track/6UVw3cOnIQ0XqCYaeVKGGI"
+    },
+    {
+      "album": {
+        "name": "Mix Cumbiero 4, Solo Quedate en Silencio, Tu Rival, Equivocada",
+        "url": "https://open.spotify.com/album/6aKCKLtXabnxc8pzlwjdK1"
+      },
+      "artists": [
+        {
+          "name": "KINGTO",
+          "url": "https://open.spotify.com/artist/338Grz8ebmeku4xVYVqUHQ"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        },
+        {
+          "name": "Four Plack",
+          "url": "https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263598,
+      "name": "Mix Cumbiero 4, Solo Quedate en Silencio, Tu Rival, Equivocada",
+      "url": "https://open.spotify.com/track/0de7BUjF6YdMZ24zh7V5ih"
     },
     {
       "album": {
@@ -9233,6 +9281,24 @@
     },
     {
       "album": {
+        "name": "Otra Noche Mas",
+        "url": "https://open.spotify.com/album/0Mvrn4eGpmzkCQY2PkBFG6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "Otra Noche Mas",
+      "url": "https://open.spotify.com/track/3SBXbgiaXIQY0d7Pn54Skd"
+    },
+    {
+      "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/5nfewzXfoREFMLTWmCpkxW"
       },
@@ -9866,7 +9932,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 179850,
       "name": "Pienso en Ti - Remix",
       "url": "https://open.spotify.com/track/2mbM9uzxVIPXO71GNOYIxy"
@@ -10486,7 +10552,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 168693,
       "name": "Que Guapa Que Estabas Ayer",
       "url": "https://open.spotify.com/track/19Jv4IR7bvARnby917j5Q2"
@@ -12574,7 +12640,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 182616,
       "name": "Te Regalo Amores",
       "url": "https://open.spotify.com/track/5FK7198AnbdywXfS4JI6sc"
@@ -13871,6 +13937,32 @@
     },
     {
       "album": {
+        "name": "Una Condena",
+        "url": "https://open.spotify.com/album/0pWk2Zw0cz9PnuNHyxmMWr"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Amigo de Artistas",
+          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157131,
+      "name": "Una Condena",
+      "url": "https://open.spotify.com/track/3o0ixYcpGqYjHpXJb7vgN3"
+    },
+    {
+      "album": {
         "name": "Una Cumbia",
         "url": "https://open.spotify.com/album/0x5gIzkxBkX890iLnH2oKM"
       },
@@ -14515,6 +14607,24 @@
     },
     {
       "album": {
+        "name": "Y Yo Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2vVXc22FCyfmmTtj0fKkEd"
+      },
+      "artists": [
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "Y Yo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/0QBin4pWtOHZbSZ514WfoL"
+    },
+    {
+      "album": {
         "name": "Ya Fue",
         "url": "https://open.spotify.com/album/08qxaTG7kPlbBEzz8BCBrz"
       },
@@ -14984,7 +15094,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 157269,
       "name": "Yo Tengo Tu Amor",
       "url": "https://open.spotify.com/track/0ey0YZ9ccNR2CsnNntiILw"

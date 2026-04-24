@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: Lijadu Sisters",
-  "num_followers": 129707,
+  "num_followers": 129752,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,26 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
+        "name": "Fatteliku (Live in Athens 1987)",
+        "url": "https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        },
+        {
+          "name": "Youssou N'Dour",
+          "url": "https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY"
+        }
+      ],
+      "duration_ms": 643022,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/3MjmFVzp41XxLlKpkhfn4q"
+    },
+    {
+      "added_at": "2025-09-30 11:32:09",
+      "album": {
         "name": "Horizon Unlimted",
         "url": "https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 415090,
       "name": "Love and Death",
       "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
-    },
-    {
-      "added_at": "2025-09-30 11:32:09",
-      "album": {
-        "name": "Fatteliku (Live in Athens 1987)",
-        "url": "https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        },
-        {
-          "name": "Youssou N'Dour",
-          "url": "https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY"
-        }
-      ],
-      "duration_ms": 643022,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/3MjmFVzp41XxLlKpkhfn4q"
     },
     {
       "added_at": "2025-09-30 11:32:09",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
+        "name": "Life Stories",
+        "url": "https://open.spotify.com/album/5vf9w7uDuKx6FbaC82TlYg"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        }
+      ],
+      "duration_ms": 365693,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6lx5aHjUesS2XEyLxXknLQ"
+    },
+    {
+      "added_at": "2025-09-30 11:32:09",
+      "album": {
         "name": "Sibongile",
         "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 351053,
       "name": "Ndihamba Nawe",
       "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
-    },
-    {
-      "added_at": "2025-09-30 11:32:09",
-      "album": {
-        "name": "Daddy Lumba Essentials",
-        "url": "https://open.spotify.com/album/5DnSlaXpIKEvWgMEDhPyUE"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 337606,
-      "name": "Theresa",
-      "url": "https://open.spotify.com/track/6YJQB5lQWD4GrYZA1SFmB6"
     },
     {
       "added_at": "2025-09-30 11:32:09",

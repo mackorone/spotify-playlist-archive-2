@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: DIMO REX)",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: Olivia Marsh)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -6176,7 +6176,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
@@ -12606,6 +12606,24 @@
       "duration_ms": 218039,
       "name": "Paraglide",
       "url": "https://open.spotify.com/track/6dmRJBF95zrUIB2BXFCHDc"
+    },
+    {
+      "album": {
+        "name": "Paraglider",
+        "url": "https://open.spotify.com/album/5cvnpaz0cgbLl0wNruE7b6"
+      },
+      "artists": [
+        {
+          "name": "Olivia Marsh",
+          "url": "https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152333,
+      "name": "Paraglider",
+      "url": "https://open.spotify.com/track/08YjBjAWR1DOlNpUHDZYpt"
     },
     {
       "album": {

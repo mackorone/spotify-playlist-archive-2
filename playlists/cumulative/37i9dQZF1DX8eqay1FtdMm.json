@@ -9048,7 +9048,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 233000,
       "name": "SUZUME",
       "url": "https://open.spotify.com/track/6qoAZFEGqZcr9oIKYV43we"
@@ -11446,6 +11446,24 @@
       "duration_ms": 262562,
       "name": "\ub098\uc600\uc73c\uba74",
       "url": "https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO"
+    },
+    {
+      "album": {
+        "name": "\uc6b0\ub9ac\ub294 \ub9e4\uc77c\ub9e4\uc77c OST Part.7 \u2013 \ub098\uc758 \ubc14\ub78c\uc740 (Before We Knew OST Part.7 \u2013 My Wish)",
+        "url": "https://open.spotify.com/album/5mxc5C915JkW8yWmwRYeRg"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "\ub098\uc758 \ubc14\ub78c\uc740 (My Wish)",
+      "url": "https://open.spotify.com/track/4nBrz3SZL65qMNf2oF4i5O"
     },
     {
       "album": {

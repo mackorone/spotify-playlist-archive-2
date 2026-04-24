@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative & rock releases. Cover: Foo Fighters",
+  "description": "Nieuwe alternative & rock releases. Cover: Triggerfinger",
   "name": "New Alternative",
   "tracks": [
     {
@@ -834,7 +834,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 186984,
       "name": "And Now It Shows",
       "url": "https://open.spotify.com/track/08twlX0G9SbnMUUcZQ9XOX"
@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 145181,
       "name": "Broken Record",
       "url": "https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu"
@@ -2898,6 +2898,24 @@
       "duration_ms": 196057,
       "name": "Cry About It",
       "url": "https://open.spotify.com/track/6jefLCZQhql1E1toGgfnRT"
+    },
+    {
+      "album": {
+        "name": "Cryogen",
+        "url": "https://open.spotify.com/album/4uW6onE6t6FUwLV9yr2E9f"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301825,
+      "name": "Cryogen",
+      "url": "https://open.spotify.com/track/5ITICFtTKxzcbR43ehRvsI"
     },
     {
       "album": {
@@ -4469,6 +4487,24 @@
     },
     {
       "album": {
+        "name": "Freakin\u2019 Out",
+        "url": "https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217897,
+      "name": "Freakin\u2019 Out",
+      "url": "https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7"
+    },
+    {
+      "album": {
         "name": "Fuck Everything Up",
         "url": "https://open.spotify.com/album/6pr1PVk9f2mKJZ5w7cSQD8"
       },
@@ -5144,7 +5180,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 132621,
       "name": "Happy",
       "url": "https://open.spotify.com/track/5QKcL7RswXActSPNhFn899"
@@ -5922,7 +5958,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 235429,
       "name": "I got god",
       "url": "https://open.spotify.com/track/19LhmxhZyk5LrMWCMMMF0I"
@@ -6034,6 +6070,24 @@
       "duration_ms": 92376,
       "name": "I Say",
       "url": "https://open.spotify.com/track/4N6hqgiMNLnMDTHY8zy1fT"
+    },
+    {
+      "album": {
+        "name": "I Smell",
+        "url": "https://open.spotify.com/album/2sZUFiwJ8Th2jeK3DpqIw1"
+      },
+      "artists": [
+        {
+          "name": "My Purse",
+          "url": "https://open.spotify.com/artist/72xKwzomFXRApIyHghBrO4"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139800,
+      "name": "I Smell",
+      "url": "https://open.spotify.com/track/3NDaOM30AL1mNttddHoTBA"
     },
     {
       "album": {
@@ -7364,7 +7418,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 170093,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/5yY2Cq3U7vnzyBsagjGslg"
@@ -8276,6 +8330,24 @@
       "duration_ms": 190153,
       "name": "Miss Parfaite",
       "url": "https://open.spotify.com/track/7zCFZ8DzmxVwEhAGdeCJZt"
+    },
+    {
+      "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/7lTUctoVU6VuJj0jvk3n7F"
+      },
+      "artists": [
+        {
+          "name": "\u6771\u4eac\u9152\u5410\u5ea7(Tokyo Shoegazer)",
+          "url": "https://open.spotify.com/artist/0dzZimiT5lEvERCEXHdaTX"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234390,
+      "name": "Missing",
+      "url": "https://open.spotify.com/track/1xZiJQuvH4AMNjUPrd6P2g"
     },
     {
       "album": {
@@ -9371,6 +9443,24 @@
     },
     {
       "album": {
+        "name": "Out of Context",
+        "url": "https://open.spotify.com/album/2qT8Za2HwhNkGPoSgPJuYQ"
+      },
+      "artists": [
+        {
+          "name": "Library Card",
+          "url": "https://open.spotify.com/artist/2PNgtvSYvlo95zq1d5uEiT"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178648,
+      "name": "Out of Context",
+      "url": "https://open.spotify.com/track/5fJTo2ubmucz5Q5A981p3o"
+    },
+    {
+      "album": {
         "name": "Out of Control",
         "url": "https://open.spotify.com/album/78zbr7euooZyuQe1bYCHCC"
       },
@@ -9382,7 +9472,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 225558,
       "name": "Out of Control",
       "url": "https://open.spotify.com/track/7FBw6kSua2hIgthzY7U9B2"
@@ -9454,7 +9544,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 210213,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/6mOl6NqrhLWZz4pVfkgHLQ"
@@ -9893,6 +9983,24 @@
     },
     {
       "album": {
+        "name": "Unmade In Minutes",
+        "url": "https://open.spotify.com/album/1cIv3fU962BGxhDvuSJQC4"
+      },
+      "artists": [
+        {
+          "name": "Pastel Blank",
+          "url": "https://open.spotify.com/artist/4v8MCErhmubUGQhwRVbnlN"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189358,
+      "name": "Radiator",
+      "url": "https://open.spotify.com/track/3TgsD5DxiSzhnhLhdkJMDK"
+    },
+    {
+      "album": {
         "name": "Rain Can't Reach Us",
         "url": "https://open.spotify.com/album/4Zz6Sy6FAQWKQTgQMWiHTS"
       },
@@ -10135,6 +10243,24 @@
     },
     {
       "album": {
+        "name": "Ride Lonesome",
+        "url": "https://open.spotify.com/album/47450DcHOgvjj4D21gBHGC"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272878,
+      "name": "Ride Lonesome",
+      "url": "https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j"
+    },
+    {
+      "album": {
         "name": "Riot_",
         "url": "https://open.spotify.com/album/1B8cSzMR43EybdL9bIInps"
       },
@@ -10362,7 +10488,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 208213,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1k4upv7m2USXZdXEbXvgzf"
@@ -11511,6 +11637,24 @@
     },
     {
       "album": {
+        "name": "Still In The Race",
+        "url": "https://open.spotify.com/album/3om1AQ9TzeEQShMLe5wMEj"
+      },
+      "artists": [
+        {
+          "name": "RubinCarter",
+          "url": "https://open.spotify.com/artist/5WUSDnKoPvMBYVpAbK4nLn"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210964,
+      "name": "Still In The Race",
+      "url": "https://open.spotify.com/track/7fZEE5t9703JUVjdNPv7zq"
+    },
+    {
+      "album": {
         "name": "CONSEQUENCES",
         "url": "https://open.spotify.com/album/4OhmQGOwwhUEsZEfLZa40v"
       },
@@ -11792,7 +11936,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 397448,
       "name": "Sunburned in London",
       "url": "https://open.spotify.com/track/3yl2nZ7PzggmJ0QOqA8OZT"
@@ -13145,6 +13289,24 @@
     },
     {
       "album": {
+        "name": "Tiny Raisin",
+        "url": "https://open.spotify.com/album/3dBccCBVyx1YO1ZGXPMIAs"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178600,
+      "name": "Tiny Raisin",
+      "url": "https://open.spotify.com/track/1mSO89SOD17R1dFyrxdSBT"
+    },
+    {
+      "album": {
         "name": "Tiny Tears",
         "url": "https://open.spotify.com/album/4QcyTQC84yloOslmljuBjc"
       },
@@ -14359,6 +14521,24 @@
     },
     {
       "album": {
+        "name": "Your Favorite Toy",
+        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217373,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/1N8fvq9XcxxpRdGydlSqC1"
+    },
+    {
+      "album": {
         "name": "Winged Seeds",
         "url": "https://open.spotify.com/album/2OMsUTk3gRWGrtBQDEopHI"
       },
@@ -14814,7 +14994,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 195626,
       "name": "\u00a1CUT THE WIRE!",
       "url": "https://open.spotify.com/track/1iQ2afFJ2Xzr3qUFe93qeB"

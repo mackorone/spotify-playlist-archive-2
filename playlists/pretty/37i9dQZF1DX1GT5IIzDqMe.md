@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,309 likes - 50 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,324 likes - 50 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 37 | [The Color of Love \- Reese Deep Mix](https://open.spotify.com/track/1Qg29ZSo2roSr6ghY08jhn) | [The Reese Project](https://open.spotify.com/artist/0BshoWL6YCwwdSTLXETd6d) | [Faith, Hope & Clarity](https://open.spotify.com/album/1kPIn4PuSmvGDsXDCxVDB7) | 5:46 |
 | 38 | [Black Water \- Full Strings Vocal Mix](https://open.spotify.com/track/4GGjMkxZiV3Z7KqxcIMZJQ) | [Octave One](https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH), [Ann Saunderson](https://open.spotify.com/artist/7IItD0N1A3unbTmcIzsCEK) | [Space Ibiza 2014 \(25th Anniversary\) \[Unmixed DJ Version\]](https://open.spotify.com/album/6Un9KGv9hSJYnxKSxl2Txf) | 8:38 |
 | 39 | [Strings Of Life](https://open.spotify.com/track/7DXfJX286N3ZBURaq8D9mc) | [Derrick May](https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51) | [Innovator](https://open.spotify.com/album/1tCTyOZrTwwmIK4yV8KImY) | 6:02 |
-| 40 | [Feel It](https://open.spotify.com/track/7AjK0QATXS2Ee857NmZABa) | [Stacey Pullen](https://open.spotify.com/artist/0GJpYdmVCgg90TkyB1nB1y) | [Feel It / Circus Act](https://open.spotify.com/album/4UapkYniEMCTYnA9SzZgh0) | 7:38 |
-| 41 | [Lightyears](https://open.spotify.com/track/3MbMCoPu0hE0nZZMspr26k) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh), [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q) | [Juan Atkins & Moritz von Oswald Present Borderland: Transport](https://open.spotify.com/album/0SvoaQ0WhkPJNGjXQT7zOk) | 6:07 |
-| 42 | [Q](https://open.spotify.com/track/5aCcZlUVkBrkQyMl2owvWb) | [Kenny Larkin](https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV) | [Azimuth](https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53) | 6:23 |
-| 43 | [Elements](https://open.spotify.com/track/4aZXoNpqXVZ8tAyoaLNrPh) | [Psyche/BFC](https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw) | [Psyche/BFC \- DELUXE DIGITAL VERSION](https://open.spotify.com/album/505rV6smETxuNFTgRphph7) | 6:51 |
-| 44 | [Right There](https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Right There / Holy Ghost](https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX) | 2:57 |
-| 45 | [The Dance](https://open.spotify.com/track/1RxgS5N5HzgFh5YU1SqTYX) | [Derrick May](https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51) | [Innovator](https://open.spotify.com/album/1tCTyOZrTwwmIK4yV8KImY) | 7:12 |
-| 46 | [Riod](https://open.spotify.com/track/6v4tA05iYtUZ7N7l2Nd6HD) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh), [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q) | [Juan Atkins & Moritz von Oswald Present Borderland: Transport](https://open.spotify.com/album/2qL2XDMFnnmoUWrwUuIEHp) | 9:14 |
-| 47 | [A Wonderful Life \- Version](https://open.spotify.com/track/5yXoaywtrfHi1dcoSn69CV) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [The Album Formerly Known As ...](https://open.spotify.com/album/6BP19StMYNWhcV0bv9zAZr) | 6:55 |
-| 48 | [Starz](https://open.spotify.com/track/0tbtAd8TDRmHKbuPTolInF) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [On A Journey](https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412) | 8:04 |
-| 49 | [Never Grow Old \- Re\-Plant](https://open.spotify.com/track/4ylwhtHT57G5VbpVMyUIBR) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Never Grow Old \(Re\-Plant\) / Phobia \(Re\-Plant\)](https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2) | 7:19 |
+| 40 | [Never Grow Old \- Re\-Plant](https://open.spotify.com/track/4ylwhtHT57G5VbpVMyUIBR) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Never Grow Old \(Re\-Plant\) / Phobia \(Re\-Plant\)](https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2) | 7:19 |
+| 41 | [Feel It](https://open.spotify.com/track/7AjK0QATXS2Ee857NmZABa) | [Stacey Pullen](https://open.spotify.com/artist/0GJpYdmVCgg90TkyB1nB1y) | [Feel It / Circus Act](https://open.spotify.com/album/4UapkYniEMCTYnA9SzZgh0) | 7:38 |
+| 42 | [Lightyears](https://open.spotify.com/track/3MbMCoPu0hE0nZZMspr26k) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh), [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q) | [Juan Atkins & Moritz von Oswald Present Borderland: Transport](https://open.spotify.com/album/0SvoaQ0WhkPJNGjXQT7zOk) | 6:07 |
+| 43 | [Q](https://open.spotify.com/track/5aCcZlUVkBrkQyMl2owvWb) | [Kenny Larkin](https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV) | [Azimuth](https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53) | 6:23 |
+| 44 | [Elements](https://open.spotify.com/track/4aZXoNpqXVZ8tAyoaLNrPh) | [Psyche/BFC](https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw) | [Psyche/BFC \- DELUXE DIGITAL VERSION](https://open.spotify.com/album/505rV6smETxuNFTgRphph7) | 6:51 |
+| 45 | [Right There](https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Right There / Holy Ghost](https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX) | 2:57 |
+| 46 | [The Dance](https://open.spotify.com/track/1RxgS5N5HzgFh5YU1SqTYX) | [Derrick May](https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51) | [Innovator](https://open.spotify.com/album/1tCTyOZrTwwmIK4yV8KImY) | 7:12 |
+| 47 | [Riod](https://open.spotify.com/track/6v4tA05iYtUZ7N7l2Nd6HD) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh), [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q) | [Juan Atkins & Moritz von Oswald Present Borderland: Transport](https://open.spotify.com/album/2qL2XDMFnnmoUWrwUuIEHp) | 9:14 |
+| 48 | [A Wonderful Life \- Version](https://open.spotify.com/track/5yXoaywtrfHi1dcoSn69CV) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [The Album Formerly Known As ...](https://open.spotify.com/album/6BP19StMYNWhcV0bv9zAZr) | 6:55 |
+| 49 | [Starz](https://open.spotify.com/track/0tbtAd8TDRmHKbuPTolInF) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [On A Journey](https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412) | 8:04 |
 | 50 | [Tedra](https://open.spotify.com/track/6Au8dwqW17E3rykzOtXzqn) | [Kenny Larkin](https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV) | [Azimuth](https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53) | 5:41 |
 
 Snapshot ID: `AAAAANniIhISWusDKRNqElFWS5COGINz`

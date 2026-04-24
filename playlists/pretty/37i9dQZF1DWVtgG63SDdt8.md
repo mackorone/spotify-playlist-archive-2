@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: M.I.A.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,594 likes - 98 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,596 likes - 98 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

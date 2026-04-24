@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 24 | [Invoice \(feat\. Rylo Rodriguez\)](https://open.spotify.com/track/063nJW2YbI0LBZLrO6qwDG) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Before I Disappear Again](https://open.spotify.com/album/6agdmpAaTKDYHrG2R7dl0U) | 2:24 |
 | 25 | [Touch & Go](https://open.spotify.com/track/4UAfFOvpghqEbatFJZEoG0) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Touch & Go](https://open.spotify.com/album/4FVAdXCpUKOmtPy2D9Kkg6) | 3:28 |
 | 26 | [Hat Trick](https://open.spotify.com/track/02Y5afO1mCHxKp9ozmBv1Q) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [2030](https://open.spotify.com/album/3EDheqSnBlJIST8dU7baWF) | 2:49 |
-| 27 | [Bad Boy](https://open.spotify.com/track/4cqeHoB8cBcoXeZPmP2YqI) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Tommy Genesis](https://open.spotify.com/album/4FiBRYFIb9xBJaJl9Uvpri) | 2:02 |
-| 28 | [Hard To Get](https://open.spotify.com/track/76EsDQYBWuwOSh8BBf8fIT) | [KUN](https://open.spotify.com/artist/4SfFh31iZGOER3ajjaeior) | [Hard To Get](https://open.spotify.com/album/11lQK5t31grTuIBjhCyL47) | 2:39 |
+| 27 | [Hard To Get](https://open.spotify.com/track/76EsDQYBWuwOSh8BBf8fIT) | [KUN](https://open.spotify.com/artist/4SfFh31iZGOER3ajjaeior) | [Hard To Get](https://open.spotify.com/album/11lQK5t31grTuIBjhCyL47) | 2:39 |
+| 28 | [Bad Boy](https://open.spotify.com/track/4cqeHoB8cBcoXeZPmP2YqI) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Tommy Genesis](https://open.spotify.com/album/4FiBRYFIb9xBJaJl9Uvpri) | 2:02 |
 | 29 | [who?](https://open.spotify.com/track/6GO4Wjcz1yiZHtPBE4DzAJ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [who?](https://open.spotify.com/album/4pGFupinAniBUGQbNEeFuW) | 2:29 |
 | 30 | [EVERYTHING](https://open.spotify.com/track/0e5VVBA3Y3w0uCiHoWgXNQ) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black \(Deluxe\)](https://open.spotify.com/album/0mYQnhiqwscLVlk0LgVia1) | 1:45 |
 | 31 | [God Sent](https://open.spotify.com/track/0MyOenr6UKkwTFlBvO5dQz) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Tommy Genesis](https://open.spotify.com/album/4FiBRYFIb9xBJaJl9Uvpri) | 0:54 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 111 | [Voices](https://open.spotify.com/track/25ZeuWx1B76UrJyAw1QkFl) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Voices](https://open.spotify.com/album/1JShKB2CB7LY4woAzIznr6) | 1:48 |
 | 112 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `AcPkdAAAAAADpm70yqKQ11AiMqR7AgDo`
+Snapshot ID: `AcPqCgAAAAAEd+KJqh/wmnar22CSeWy8`

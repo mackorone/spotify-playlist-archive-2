@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop\. Cover: Rezz \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,901 likes - 125 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,954 likes - 125 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 102 | [Sugar, We're Goin Down](https://open.spotify.com/track/1FC8XVf7JM1F6PFTbv26DR) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Social Repose](https://open.spotify.com/artist/2KGgkFhzF8mQwDy321OHIy) | [Sugar, We're Goin Down](https://open.spotify.com/album/5TkZOiEJTzAmOOKLTG2nJG) | 3:29 |
 | 103 | [Run Rabbit](https://open.spotify.com/track/1znGDCclMTeWASFVF8tj2N) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Run Rabbit](https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK) | 3:06 |
 | 104 | [Till I Met You](https://open.spotify.com/track/67XgQqWDwFbnP256WayxaG) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Till I Met You](https://open.spotify.com/album/3CUAAmoJWX9g7EkJvvMFhk) | 3:15 |
-| 105 | [Never Come Back](https://open.spotify.com/track/26rKyTQhCCBojRnx8znqFr) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [DJ DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Never Come Back](https://open.spotify.com/album/5dP2FwZDkFa1bvOuyKTIPk) | 2:22 |
-| 106 | [Throne](https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Throne](https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0) | 3:40 |
+| 105 | [Throne](https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Throne](https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0) | 3:40 |
+| 106 | [Never Come Back](https://open.spotify.com/track/26rKyTQhCCBojRnx8znqFr) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [DJ DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Never Come Back](https://open.spotify.com/album/5dP2FwZDkFa1bvOuyKTIPk) | 2:22 |
 | 107 | [Take It Back](https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Take It Back](https://open.spotify.com/album/3jYN8ZuvgXap2QtNQgl4Td) | 3:31 |
 | 108 | [Liar \(with OST\)](https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [OST](https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB) | [Liar \(with OST\)](https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn) | 4:56 |
 | 109 | [On My Own](https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [On My Own](https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO) | 4:15 |
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 121 | [The Wild Hunt](https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [The Wild Hunt](https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km) | 3:18 |
 | 122 | [Ritual](https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC) | [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij), [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [Ritual](https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq) | 4:06 |
 | 123 | [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 |
-| 124 | [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 |
-| 125 | [Bad Blood \- Weird Genius Remix](https://open.spotify.com/track/1ztPHFuEadFj9SdFPsD1HQ) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ) | [Bad Blood \(Weird Genius Remix\)](https://open.spotify.com/album/2YsuUjmQ2ycwqIh6tWmsV4) | 3:17 |
+| 124 | [Bad Blood \- Weird Genius Remix](https://open.spotify.com/track/1ztPHFuEadFj9SdFPsD1HQ) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ) | [Bad Blood \(Weird Genius Remix\)](https://open.spotify.com/album/2YsuUjmQ2ycwqIh6tWmsV4) | 3:17 |
+| 125 | [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 |
 
 Snapshot ID: `AAAAAOosefFwXsplkP1+L0UYIWM170ic`

@@ -18941,6 +18941,28 @@
     },
     {
       "album": {
+        "name": "Charlotte Original Soundtrack",
+        "url": "https://open.spotify.com/album/6VC4hyTRbttuMiw5w2rhDG"
+      },
+      "artists": [
+        {
+          "name": "Lia",
+          "url": "https://open.spotify.com/artist/1Z0sSjjlCFNG4WvU0DUG8t"
+        },
+        {
+          "name": "VISUAL ARTS / Key",
+          "url": "https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331653,
+      "name": "Bravely You",
+      "url": "https://open.spotify.com/track/4svcLG3SimzCbxH0RT7Omb"
+    },
+    {
+      "album": {
         "name": "a Gift & a Curse",
         "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
       },
@@ -97090,12 +97112,24 @@
       },
       "artists": [
         {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
           "name": "Jodi Benson",
           "url": "https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH"
         },
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
         }
       ],
       "date_added": "2025-01-03",
@@ -135826,6 +135860,14 @@
       },
       "artists": [
         {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
           "name": "Samuel E. Wright",
           "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
         },
@@ -161026,6 +161068,24 @@
       "duration_ms": 205200,
       "name": "\u795e\u3063\u307d\u3044\u306a (feat. \u5bb5\u5d0e\u594f&\u671d\u6bd4\u5948\u307e\u3075\u3086&\u6771\u96f2\u7d75\u540d&\u6681\u5c71\u745e\u5e0c&\u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/1mMHpH9Do7VgRb0e80orUG"
+    },
+    {
+      "album": {
+        "name": "Fate/stay night [Realta Nua] Soundtrack Reproduction",
+        "url": "https://open.spotify.com/album/5EfoCdBxPfGkXwmnMiZ3Xf"
+      },
+      "artists": [
+        {
+          "name": "KATE",
+          "url": "https://open.spotify.com/artist/1kHLKBFBmwip3x5aAiKBeq"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149653,
+      "name": "\u795e\u306e\u540d\u306e\u3082\u3068\u306b(2012 Version)",
+      "url": "https://open.spotify.com/track/61o2X2U0pbtfnerMsxTMUK"
     },
     {
       "album": {

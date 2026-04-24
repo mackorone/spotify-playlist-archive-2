@@ -4,7 +4,7 @@
 
 > For those who like a little bit of coffee with their Jesus.
 
-432 songs - 1 day 3 hr 38 min
+433 songs - 1 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [Saved](https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Saved](https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi) | 2:54 | 2020-08-31 | 2024-06-24 |
 | [Saving Me Still](https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV) | [Justin Jarvis](https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj) | [Saving Me Still](https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca) | 6:20 | 2020-08-31 | 2025-10-11 |
 | [Savior More Than Life](https://open.spotify.com/track/7AdCYNyx0N3QAUVifInB0s) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Kenny Banks Jr.](https://open.spotify.com/artist/6rSheR9c3wYRRsfhYKBUmg) | [Savior More Than Life](https://open.spotify.com/album/2cdrRPuiOLwCgIc0kOV2UJ) | 3:40 | 2025-12-12 | 2026-03-24 |
+| [Seasons](https://open.spotify.com/track/2yfww2fXM4qCZVUSw6iSQ8) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo) | [Seasons](https://open.spotify.com/album/0kx2b0TYDAj9oA9JVi8jdN) | 3:01 | 2026-04-17 |  |
 | [Secret Place](https://open.spotify.com/track/1ALad9pAC3JSK7SvqGAwKa) | [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Secret Place](https://open.spotify.com/album/29pydTpePrgdD4rHOMohlz) | 3:01 | 2023-07-28 | 2024-08-03 |
 | [Shadowfeet](https://open.spotify.com/track/4nvxOpUIhsI9XCSAOkFqpC) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Albertine](https://open.spotify.com/album/692STu3cT5sFQbvSO8qd2X) | 3:35 | 2020-08-31 | 2023-06-01 |
 | [Shepherd](https://open.spotify.com/track/6uqJDM00DgCXTSWuvzZuxb) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Shepherd](https://open.spotify.com/album/5P3mOe2SPlO7FZGtV7WvAD) | 2:15 | 2025-08-06 | 2026-03-24 |
@@ -330,7 +331,7 @@
 | [Standing Tall](https://open.spotify.com/track/5gdW2FJUYLBeWv8mtOIp3m) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Standing Tall](https://open.spotify.com/album/2zvfb567grDEsVSfO5R9Iw) | 2:49 | 2025-10-10 |  |
 | [Stars](https://open.spotify.com/track/7jqM7vs0H9BclTriFLiznu) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Stars](https://open.spotify.com/album/5vM0ubp8Z4ID1BemFQvak1) | 2:50 | 2025-12-12 | 2026-03-24 |
 | [Stay Close](https://open.spotify.com/track/3OAL4fkGJ2sImt2Lhy4D7V) | [Austin Sebek](https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8) | [Stay Close](https://open.spotify.com/album/7oYNsctXYKRxdbcvrvXXmN) | 3:14 | 2024-08-03 |  |
-| [Stay Right Here](https://open.spotify.com/track/6dEJoY3SQaBPDJL0Bwvf98) | [Diamone](https://open.spotify.com/artist/4EmeC8wiEpiOFr0yaO6GoW) | [Stay Right Here](https://open.spotify.com/album/5INWkEegfUdYRSkIg4EKnx) | 2:56 | 2025-10-19 |  |
+| [Stay Right Here](https://open.spotify.com/track/6dEJoY3SQaBPDJL0Bwvf98) | [Diamone](https://open.spotify.com/artist/4EmeC8wiEpiOFr0yaO6GoW) | [Stay Right Here](https://open.spotify.com/album/5INWkEegfUdYRSkIg4EKnx) | 2:56 | 2025-10-19 | 2026-04-24 |
 | [STEADY](https://open.spotify.com/track/6pBnwzuBSzIN9AaOaop5aa) | [Kelsey Breedlove](https://open.spotify.com/artist/0RylJjG2CawOJWWxRD6Qts) | [HONEY FROM THE ROCK](https://open.spotify.com/album/1PfgghMzB0dGoB1IKpfCZN) | 3:00 | 2025-10-10 |  |
 | [Still I Will Praise \[Live at Burgess Barn\] \[Radio Edit\]](https://open.spotify.com/track/6DMNym6nYxh5VuymM6kGyW) | [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq), [Bianca Rose](https://open.spotify.com/artist/3L06eylvgeEkGmkNyi4uPo) | [Still I Will Praise \[Live at Burgess Barn\] \[Radio Edit\]](https://open.spotify.com/album/5jTcdgdYuicOViLgJMqOUh) | 4:04 | 2020-08-31 | 2025-10-11 |
 | [Still There's Something](https://open.spotify.com/track/7J7EFGoV9XA0LDni9IDSPP) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Melody Lynn](https://open.spotify.com/artist/382qatBmbrqa56uxbMhsNM) | [Still There's Something](https://open.spotify.com/album/4d4EkrXfLUpuQMviLTdNXV) | 3:38 | 2023-07-28 | 2026-04-18 |

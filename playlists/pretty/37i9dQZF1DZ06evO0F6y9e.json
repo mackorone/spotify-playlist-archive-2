@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1114231,
+  "num_followers": 1114445,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAAAIC886Iny6vHEYHTFm/Gh",
+  "snapshot_id": "aegPgAAAAAAHtkrvi3+FhSQUGWgt5V96",
   "tracks": [
     {
       "added_at": null,
@@ -211,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Fuimos (En Vivo)",
-        "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Hernan Sepulveda",
-          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
-        }
-      ],
-      "duration_ms": 230034,
-      "name": "Qu\u00e9 Fuimos (En Vivo)",
-      "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
         "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9 Fuimos (En Vivo)",
+        "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+        }
+      ],
+      "duration_ms": 230034,
+      "name": "Qu\u00e9 Fuimos (En Vivo)",
+      "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Anaheim, CA",
-        "url": "https://open.spotify.com/album/4D44ytY7f3XZaOrZ1cAmi1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 264832,
-      "name": "Pideme (En Vivo)",
-      "url": "https://open.spotify.com/track/77XkGdcroOIcaekrKJUwvq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 192550,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2loeTQj6eGWcqzRCslS4To"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde Anaheim, CA",
+        "url": "https://open.spotify.com/album/4D44ytY7f3XZaOrZ1cAmi1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 264832,
+      "name": "Pideme (En Vivo)",
+      "url": "https://open.spotify.com/track/77XkGdcroOIcaekrKJUwvq"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
-        "url": "https://open.spotify.com/album/2EPeCWh8O4lxM4OGT3NTIH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 250686,
-      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
-      "url": "https://open.spotify.com/track/0oEv4Hy4kWmKUqdWHleOua"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cada Quien",
         "url": "https://open.spotify.com/album/4f3BZxJxrHhzoec0R2ElUe"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 197781,
       "name": "Cada Quien",
       "url": "https://open.spotify.com/track/6ykDm6SPMVUC9TLoqvDIdj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+        "url": "https://open.spotify.com/album/2EPeCWh8O4lxM4OGT3NTIH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 250686,
+      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/0oEv4Hy4kWmKUqdWHleOua"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Mazatl\u00e1n, Sinaloa (En Vivo)",
-        "url": "https://open.spotify.com/album/6VE5VAjHrptT2rWYr8xeIW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 241536,
-      "name": "Vali\u00f3 La Pena Equivocarme (En Vivo)",
-      "url": "https://open.spotify.com/track/43dC0MzrNgB0yY6nnuNfgT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde La Playa, Vol. 3 (En Vivo)",
         "url": "https://open.spotify.com/album/34cKEFiNsJI3o0Nl1TB88I"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 209000,
       "name": "C\u00f3mo Pudiste (En Vivo)",
       "url": "https://open.spotify.com/track/6qioUHZ4zBU3v9k3lQAJx2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde Mazatl\u00e1n, Sinaloa (En Vivo)",
+        "url": "https://open.spotify.com/album/6VE5VAjHrptT2rWYr8xeIW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 241536,
+      "name": "Vali\u00f3 La Pena Equivocarme (En Vivo)",
+      "url": "https://open.spotify.com/track/43dC0MzrNgB0yY6nnuNfgT"
     },
     {
       "added_at": null,

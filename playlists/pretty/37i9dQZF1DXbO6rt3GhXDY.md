@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbO6rt3GhXDY.md) - [plain]
 
 > You know em, you love em, these are indie pop hits\. Cover: Malcolm Todd
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,114 likes - 127 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,198 likes - 127 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

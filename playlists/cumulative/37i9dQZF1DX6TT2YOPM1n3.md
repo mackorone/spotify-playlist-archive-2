@@ -4,7 +4,7 @@
 
 > Apne mulk ki homegrown hits 🎶 Cover: Abdul Hannan
 
-310 songs - 21 hr 14 min
+311 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Shatir](https://open.spotify.com/track/5yuTexOifpmPst6HKSZP3x) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Zahid Jaggi](https://open.spotify.com/artist/56cO7nXqr5US1gvzghPUiZ) | [Shatir](https://open.spotify.com/album/35q2tgzbNljiOc5mpoepke) | 2:40 | 2024-01-12 | 2024-01-26 |
 | [Shikayat](https://open.spotify.com/track/7e2dvR0ySx1bBJRDxVJiG1) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Shikayat](https://open.spotify.com/album/5n4KPrFtZcpw8dogHM0jxJ) | 4:30 | 2024-01-25 | 2025-12-10 |
 | [SHIKWA](https://open.spotify.com/track/3G6HBmFkfeuK6dNrnyFfO9) | [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ) | [SHIKWA \(Side B\)](https://open.spotify.com/album/18grR25zEvxF4ToDL2zLde) | 3:22 | 2024-12-04 | 2025-11-04 |
+| [Shona](https://open.spotify.com/track/2MUmVyz7yYOauvSm1DhoTf) | [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp) | [Shona](https://open.spotify.com/album/3ACyKQQ1vsvdHfGtplfli6) | 2:57 | 2026-04-24 |  |
 | [Sila](https://open.spotify.com/track/4UKjQODokAfEMaTgvTHbVX) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Khasara](https://open.spotify.com/album/6YqbrXnmuh8lxNEFeHNOcA) | 4:08 | 2026-04-01 |  |
 | [Siyah](https://open.spotify.com/track/6xFWVY7hS55qaF7fXBEw7X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Siyah](https://open.spotify.com/album/0PedR8249zcLWFtNNkAEcZ) | 2:51 | 2023-05-04 |  |
 | [Sometimes](https://open.spotify.com/track/6FqF5CMHIMreHf11oZJSZo) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Sometimes](https://open.spotify.com/album/1cOZA8wUxpo3L79cAMzkic) | 3:16 | 2023-12-21 | 2024-12-29 |

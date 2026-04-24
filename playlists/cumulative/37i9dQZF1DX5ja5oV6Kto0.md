@@ -4,7 +4,7 @@
 
 > The new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Yorkk & ARTSALGHUL
 
-1,064 songs - 2 day 3 hr 22 min
+1,065 songs - 2 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,7 +623,7 @@
 | [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 | 2024-05-17 | 2024-10-26 |
 | [My Dear](https://open.spotify.com/track/4BLiX8Qq3Q2fZgeu0BQEaw) | [OGC](https://open.spotify.com/artist/75TOSyYZpqUWnbMzpfKV57) | [My Dear](https://open.spotify.com/album/2xztOGVgCO2E0GUDhrPepL) | 2:36 | 2024-02-23 | 2024-03-22 |
 | [My Killa](https://open.spotify.com/track/5KOWD6wjr3SYferAnSVYt4) | [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv), [Anjeli](https://open.spotify.com/artist/6at7m0HyAUud3CXlhwOuqC), [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4) | [SITW/My Killa](https://open.spotify.com/album/21QRyfpVgNvixeecZxqF7j) | 2:49 | 2022-09-01 | 2023-06-17 |
-| [My letter to Zayn](https://open.spotify.com/track/5NEh3NHichnlvVYBFmgpgC) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [My letter to Zayn](https://open.spotify.com/album/7aAhZv5SRsHdezmOU5o2tJ) | 3:57 | 2026-04-17 |  |
+| [My letter to Zayn](https://open.spotify.com/track/5NEh3NHichnlvVYBFmgpgC) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [King Wizard](https://open.spotify.com/artist/7BjXmKO4yIHUP7BTi1ZGUc) | [My letter to Zayn](https://open.spotify.com/album/7aAhZv5SRsHdezmOU5o2tJ) | 3:57 | 2026-04-17 |  |
 | [My Ones](https://open.spotify.com/track/1KLUIuk9LJKbZRJ37VXOEG) | [Kwxd](https://open.spotify.com/artist/6KZdCl4t1H7ljuC3v5eYxM) | [My Ones](https://open.spotify.com/album/0y8QIkp9MCg8cTgWFTEhIC) | 2:42 | 2024-08-16 | 2024-09-20 |
 | [My Way](https://open.spotify.com/track/46o3CbNVM2vIAMDSpP22os) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH) | [My Way](https://open.spotify.com/album/7wMILMc50Vv0OQ1JktsEfx) | 2:33 | 2024-10-12 | 2024-10-26 |
 | [myfavourite.mp3](https://open.spotify.com/track/6GWhGNVv8OveWv7WK0sd0l) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [the gift](https://open.spotify.com/album/7L2PvlXP8x4sGGmXDf46LV) | 2:31 | 2025-02-21 | 2025-08-01 |
@@ -977,6 +977,7 @@
 | [Toxic Love Story](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 | 2024-01-08 | 2024-05-03 |
 | [Toyin Tomato](https://open.spotify.com/track/4M4FJYE3mTKtpvUld3cXJn) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [Love is War](https://open.spotify.com/album/4T7WOGmFKYhXwGYMTylhfq) | 2:48 | 2021-10-15 | 2022-02-11 |
 | [TRABAYE](https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS) | [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [OLORIN PACK](https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ) | 1:53 | 2026-04-03 |  |
+| [Track 3](https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [Modern Fantasy](https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy) | 0:00 | 2026-04-24 |  |
 | [Trappin'](https://open.spotify.com/track/5plaVEdji1xkIuEEKvuVEt) | [Re.decay](https://open.spotify.com/artist/0PDj0ZH3LHrGifJSeDZKWF), [Tinuke](https://open.spotify.com/artist/5AzAEBREBwVj9AOmHNG5X1), [Eze Jackson](https://open.spotify.com/artist/5tPCFmRzyUGp5ZNqSC54QM) | [Trappin'](https://open.spotify.com/album/5hryGF4CvfTG6IIeK5SLVq) | 3:00 | 2022-05-12 | 2022-05-27 |
 | [Tropicana](https://open.spotify.com/track/3owm3LW9jSaF0UjULZvGJw) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Flash](https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p) | [Palmwine Music 2](https://open.spotify.com/album/40nNC1WqyKr4IHIJH0cxS5) | 4:15 | 2024-03-21 | 2024-03-25 |
 | [Tropicana](https://open.spotify.com/track/1wTupR6XF1y1yduWbrBa1x) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si), [Oshunda](https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C), [9roovy](https://open.spotify.com/artist/1vcTEePkCTv3XMyuVNSAMy) | [Tropicana](https://open.spotify.com/album/3iESACtNvFj9ow5aQOTicl) | 2:27 | 2026-03-20 |  |

@@ -4,21 +4,21 @@
 
 > This is Celia Hollander\. The essential tracks, all in one playlist.
 
-41 songs - 2 hr 18 min
+42 songs - 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11:01 PM](https://open.spotify.com/track/3TqfeqqdhRhZsGIE37pHSS) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 4:42 | 2026-03-12 |  |
 | [12:55 PM](https://open.spotify.com/track/2q3F6iTCazDYB4tLqNWUIP) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 3:18 | 2026-03-12 |  |
-| [1:17 PM](https://open.spotify.com/track/7gKej7VfNxa70InVtO8fn3) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 3:29 | 2026-03-12 |  |
-| [1:23 AM](https://open.spotify.com/track/12hd2wt0VMJuurnKaCdALe) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 1:14 | 2026-03-15 | 2026-04-22 |
+| [1:17 PM](https://open.spotify.com/track/7gKej7VfNxa70InVtO8fn3) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 3:29 | 2026-03-12 | 2026-04-24 |
+| [1:23 AM](https://open.spotify.com/track/12hd2wt0VMJuurnKaCdALe) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 1:14 | 2026-03-15 |  |
 | [4:36 PM](https://open.spotify.com/track/6BcXA332jXYmK0xC1SGk7E) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 2:58 | 2026-03-14 |  |
 | [5:59 PM](https://open.spotify.com/track/65a36g817qG0hmI4jMgQHA) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 3:24 | 2026-03-12 |  |
 | [6:33 AM](https://open.spotify.com/track/0yeDAJ4yH08Y4Cf3SKPn8s) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 1:37 | 2026-03-12 |  |
 | [6:58 PM](https://open.spotify.com/track/1DtTh0W0xqJuZSS3RsuIAS) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 2:32 | 2026-03-12 | 2026-04-15 |
 | [9:02 AM](https://open.spotify.com/track/6nngjm3eqHmAh8adSMYgNB) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 2:40 | 2026-03-14 | 2026-03-17 |
 | [Air / Air](https://open.spotify.com/track/1rmAETkfG9OThL9kPKU6yU) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 1:20 | 2026-03-12 | 2026-04-20 |
-| [Air / Earth](https://open.spotify.com/track/1gQXtJnmO1w3LCpBATX6RU) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 4:12 | 2026-03-12 |  |
+| [Air / Earth](https://open.spotify.com/track/1gQXtJnmO1w3LCpBATX6RU) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 4:12 | 2026-03-12 | 2026-04-24 |
 | [Air / Fire](https://open.spotify.com/track/5btS3BJXgTGBccCAmsYFL4) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Air / Fire](https://open.spotify.com/album/0tXTynobq2R4O7UmEdqBZo) | 3:32 | 2026-03-12 |  |
 | [Air / Water](https://open.spotify.com/track/0lYFtSLs42bCRf8tN7T7u8) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 4:18 | 2026-03-12 |  |
 | [Beginner](https://open.spotify.com/track/7oUDEfKHRK7fY8WS7ItenO) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [2nd Draft](https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT) | 3:38 | 2026-03-12 | 2026-03-25 |
@@ -26,11 +26,12 @@
 | [Cumulus](https://open.spotify.com/track/6RoynqvKPYmIZkXE6isMU7) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [2nd Draft](https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT) | 4:02 | 2026-03-12 |  |
 | [Dense Dusk](https://open.spotify.com/track/2gwAB3X1wUtn3qPfP5hGeN) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA), [Evan Shornstein](https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv) | [Unexpected Music II](https://open.spotify.com/album/39OUhtfrInkdjDWezSaH1b) | 7:18 | 2026-03-12 |  |
 | [Earth / Air](https://open.spotify.com/track/7jKsMSQHza9Pt7FVf4RkcK) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 2:35 | 2026-03-12 |  |
-| [Earth / Water](https://open.spotify.com/track/6vbANraif8b0DaaJI7ELuZ) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 1:00 | 2026-03-19 | 2026-04-18 |
+| [Earth / Earth](https://open.spotify.com/track/51JXFYjuemyyf0LOYSyJtm) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 2:40 | 2026-04-24 |  |
+| [Earth / Water](https://open.spotify.com/track/6vbANraif8b0DaaJI7ELuZ) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 1:00 | 2026-03-19 |  |
 | [Fielder](https://open.spotify.com/track/6FD56LJ4nnfU1CAH4hVOzW) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [2nd Draft](https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT) | 2:52 | 2026-03-26 | 2026-04-04 |
 | [Fire / Earth](https://open.spotify.com/track/7Kqi570gTIl6oxQQXpwzCd) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 2:33 | 2026-03-12 |  |
 | [Fire / Fire](https://open.spotify.com/track/2NYYHQJvWv2MvI3ygpQ96t) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 4:10 | 2026-03-12 | 2026-03-28 |
-| [Fire / Water](https://open.spotify.com/track/6HlU5CCc6mav55VydY7ApD) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 3:02 | 2026-03-28 |  |
+| [Fire / Water](https://open.spotify.com/track/6HlU5CCc6mav55VydY7ApD) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 3:02 | 2026-03-28 | 2026-04-24 |
 | [First Sustain](https://open.spotify.com/track/5QN78sb8FUoWJffvxiuOKE) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [2nd Draft](https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT) | 0:31 | 2026-03-12 |  |
 | [Friendly Glow](https://open.spotify.com/track/1m7rLMGoH3EIHQhzgAgRFb) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA), [Evan Shornstein](https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv) | [Unexpected Music II](https://open.spotify.com/album/39OUhtfrInkdjDWezSaH1b) | 5:08 | 2026-03-12 |  |
 | [In Plain Sight](https://open.spotify.com/track/5QB8pXweZvjJSjtRwGta5Y) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [2nd Draft](https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT) | 2:36 | 2026-03-12 |  |

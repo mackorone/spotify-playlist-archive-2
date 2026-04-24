@@ -2,9 +2,9 @@
 
 ### [Palco POP](https://open.spotify.com/playlist/37i9dQZF1DX7GWlXStIq5M)
 
-> Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Day Limns
+> Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Mari Froes
 
-1,130 songs - 2 day 8 hr 0 min
+1,131 songs - 2 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [colorida](https://open.spotify.com/track/6RmkIFg8AnHjG3rhITyGJV) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [JOVEM \(DELUXE\)](https://open.spotify.com/album/7tDVAA2c0ipIHUaJD9kj0M) | 2:54 | 2023-11-24 | 2024-01-20 |
 | [Com a Mala](https://open.spotify.com/track/3IoMFT989cZDnmv8ubiUY2) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [Com a Mala](https://open.spotify.com/album/68VIy8aT7JQvqzScbWSGFd) | 3:33 | 2020-10-20 | 2022-07-28 |
 | [Combinadinho](https://open.spotify.com/track/3o1wkALMRxFgotr82yUnSY) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Combinadinho](https://open.spotify.com/album/2TqritjMLjbcYejnZvZElm) | 2:43 | 2023-04-14 | 2023-07-15 |
+| [Como Ouro](https://open.spotify.com/track/1QRZnXM3lEUifwEzl9xtV1) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Como Ouro](https://open.spotify.com/album/4hZTIQF4MrNJRwGbmIA7MT) | 2:34 | 2026-04-24 |  |
 | [Como Posso Amar Assim?](https://open.spotify.com/track/2YRY4fYbGfmvBQK7aEiaZ0) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Como Posso Amar Assim?](https://open.spotify.com/album/6ipkpdX3Wry0Yq97mMnIrs) | 3:13 | 2024-12-20 | 2025-04-04 |
 | [Como É Que Faz](https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx) | [Dogge](https://open.spotify.com/artist/7J39epHKObBDnn6fWcDHSF) | [Como É Que Faz](https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e) | 2:40 | 2023-02-14 | 2023-03-11 |
 | [COMPLEXO](https://open.spotify.com/track/0Ra8z7O5XHfkVs3JtNzzys) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Dj Nb](https://open.spotify.com/artist/2GZUy5017hx1rotZruGpee) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 3:02 | 2025-05-30 | 2025-08-23 |
@@ -836,7 +837,7 @@
 | [Quadro](https://open.spotify.com/track/55tDrclRHCHXIoPwyPHlVn) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Quadro](https://open.spotify.com/album/5yjcqNWevRGMwuJckk1yo3) | 2:47 | 2020-10-20 | 2022-07-29 |
 | [Quando a gente ama \(Versão Xamã\)](https://open.spotify.com/track/0isC8YBpo5h3b1vOnJ0aNw) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Quando a gente ama \(Versão Xamã\)](https://open.spotify.com/album/7dmSRqUYOrnaovRY3q5CFk) | 2:35 | 2024-03-04 | 2025-05-03 |
 | [Quando a noite vem](https://open.spotify.com/track/29KMeIz2xKL26X6UzvPHd7) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU), [Chai](https://open.spotify.com/artist/0qmpXpjY0ofSr1J7H2G6a8) | [BROKEN HEARTS CLUB](https://open.spotify.com/album/43OjImDFvgDCXHysNVNhUS) | 2:09 | 2023-08-25 | 2023-09-23 |
-| [quanto tempo tem o tempo?](https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [quanto tempo tem o tempo?](https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI) | 3:26 | 2025-05-03 |  |
+| [quanto tempo tem o tempo?](https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [quanto tempo tem o tempo?](https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI) | 3:26 | 2025-05-03 | 2026-04-24 |
 | [Quarto Proibido](https://open.spotify.com/track/14hzkK45Q3OCPhA4eJjqD2) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Quarto Proibido](https://open.spotify.com/album/39m3B3HKLRDbBdvDWNeKrI) | 1:46 | 2025-01-31 | 2025-03-07 |
 | [Quase](https://open.spotify.com/track/59etIptmwHHugnoAAsNxvi) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Quase](https://open.spotify.com/album/60yKZCX7criKmfmYIblG4Z) | 2:40 | 2026-01-23 | 2026-03-21 |
 | [Quase Não Namoro](https://open.spotify.com/track/6eWx9pOK1JkIhUjeVmGYJr) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Quase Não Namoro](https://open.spotify.com/album/2yg5pbW47YD4HVQ34cgfkC) | 2:15 | 2023-08-04 | 2024-08-17 |

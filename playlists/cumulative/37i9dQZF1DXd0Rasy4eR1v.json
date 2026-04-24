@@ -552,6 +552,24 @@
     {
       "album": {
         "name": "Aarzu",
+        "url": "https://open.spotify.com/album/0tfP4IZ60GWhk3WVpGbrIJ"
+      },
+      "artists": [
+        {
+          "name": "Azaan Ali Bagga",
+          "url": "https://open.spotify.com/artist/2KsVY0RjkAIPUPvQvqhUdQ"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123970,
+      "name": "Aarzu",
+      "url": "https://open.spotify.com/track/73cVsFbmc6wl2yqwPIMCzK"
+    },
+    {
+      "album": {
+        "name": "Aarzu",
         "url": "https://open.spotify.com/album/2tkM38XBxvUecZ518C5Fcl"
       },
       "artists": [
@@ -1485,6 +1503,28 @@
     },
     {
       "album": {
+        "name": "Yaad",
+        "url": "https://open.spotify.com/album/2XCEvEmUCbIIhpJGTOCnJr"
+      },
+      "artists": [
+        {
+          "name": "Saif Altaf",
+          "url": "https://open.spotify.com/artist/2dIHcU5M4hH1kv6xthhqnV"
+        },
+        {
+          "name": "Seventean",
+          "url": "https://open.spotify.com/artist/1KbWZUNoYa35zBcd7LjbRd"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234007,
+      "name": "Alvida",
+      "url": "https://open.spotify.com/track/7vyObKl2SkW6KyxRogk9DL"
+    },
+    {
+      "album": {
         "name": "Always into you",
         "url": "https://open.spotify.com/album/511xSyTlzoewwQ3VA1G4Ap"
       },
@@ -1830,6 +1870,28 @@
       "duration_ms": 215357,
       "name": "Arz e Dil",
       "url": "https://open.spotify.com/track/5xm5sFLCrI7uNgk7nHYLpo"
+    },
+    {
+      "album": {
+        "name": "Ashes & Roses",
+        "url": "https://open.spotify.com/album/1N3xRpHBtmRvOJtMBVECbE"
+      },
+      "artists": [
+        {
+          "name": "Baqir Jafri",
+          "url": "https://open.spotify.com/artist/3KcgHMwtM9y5HxATtpLJRt"
+        },
+        {
+          "name": "SAYF",
+          "url": "https://open.spotify.com/artist/2BcCC0BfNPqCQuH2tlPG30"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143283,
+      "name": "Ashes & Roses",
+      "url": "https://open.spotify.com/track/0t2VM10v6UBekkGfsmBm3K"
     },
     {
       "album": {
@@ -4989,6 +5051,24 @@
     },
     {
       "album": {
+        "name": "Dard",
+        "url": "https://open.spotify.com/album/6BIwaxpdZ3Sqy1S2q7QHTp"
+      },
+      "artists": [
+        {
+          "name": "Hakim Shah",
+          "url": "https://open.spotify.com/artist/04qQDDudqOSq47u6PBxgP6"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200317,
+      "name": "Dard",
+      "url": "https://open.spotify.com/track/65pVPyMZRHySw7G1bOArfk"
+    },
+    {
+      "album": {
         "name": "DARD",
         "url": "https://open.spotify.com/album/6fOYWqWndK4wJvPLWrvuE4"
       },
@@ -5787,6 +5867,46 @@
     },
     {
       "album": {
+        "name": "Dil Maybe",
+        "url": "https://open.spotify.com/album/3a0nbnv2YEEIGMbXUmYWsZ"
+      },
+      "artists": [
+        {
+          "name": "Fazeel Khan",
+          "url": "https://open.spotify.com/artist/3530GQmL0oxC219Lphkr1h"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184478,
+      "name": "Dil Maybe",
+      "url": "https://open.spotify.com/track/5jBbJugL4sFNbCDMih4bxp"
+    },
+    {
+      "album": {
+        "name": "Dil Mera",
+        "url": "https://open.spotify.com/album/62RpPNizLaOBNZRcvGyYwV"
+      },
+      "artists": [
+        {
+          "name": "Malihaa",
+          "url": "https://open.spotify.com/artist/60nVICLgl6zIgetp48OZCZ"
+        },
+        {
+          "name": "ayn umar",
+          "url": "https://open.spotify.com/artist/0LG8nLbsmyEL3W3wnYNIAi"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155714,
+      "name": "Dil Mera",
+      "url": "https://open.spotify.com/track/11uthFtN4FApACycx0RE9c"
+    },
+    {
+      "album": {
         "name": "Dil Meray",
         "url": "https://open.spotify.com/album/5SNyeHiR83UfwWS9hCRLLM"
       },
@@ -6274,6 +6394,24 @@
       "duration_ms": 156571,
       "name": "Distance",
       "url": "https://open.spotify.com/track/60KpyXxcYbfposaQh60ksh"
+    },
+    {
+      "album": {
+        "name": "Distracted",
+        "url": "https://open.spotify.com/album/3X8DMqhDdOa66rcxLndoKg"
+      },
+      "artists": [
+        {
+          "name": "Hamzay",
+          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221204,
+      "name": "Distracted",
+      "url": "https://open.spotify.com/track/2tSkRDbsIRWQJtMmRr2HvV"
     },
     {
       "album": {
@@ -11433,6 +11571,24 @@
     },
     {
       "album": {
+        "name": "Kaaliyan Raatan",
+        "url": "https://open.spotify.com/album/4JSQfgK5QfRtvs9E4eShpB"
+      },
+      "artists": [
+        {
+          "name": "Junaid Joji",
+          "url": "https://open.spotify.com/artist/0oIGrHon7PIZtHhXf1kbs3"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103312,
+      "name": "Kaaliyan Raatan",
+      "url": "https://open.spotify.com/track/2IRQAAp4Wtp2I7PDbt5X5r"
+    },
+    {
+      "album": {
         "name": "Kab Se",
         "url": "https://open.spotify.com/album/7d0kHKDL5IIwD1dTy2EjmC"
       },
@@ -12441,6 +12597,32 @@
     },
     {
       "album": {
+        "name": "Kiwe Mukhre",
+        "url": "https://open.spotify.com/album/1oCccH0SpOsF055q3mzsXy"
+      },
+      "artists": [
+        {
+          "name": "Ezio",
+          "url": "https://open.spotify.com/artist/62CF5EoeOLRByAlX3Z2axx"
+        },
+        {
+          "name": "Ahtasham Syed",
+          "url": "https://open.spotify.com/artist/371fQrVhcOHe9T9nG8JK5b"
+        },
+        {
+          "name": "Ramzan Jani",
+          "url": "https://open.spotify.com/artist/7m3ldTvNh0FdYnXKJhIRd2"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186154,
+      "name": "Kiwe Mukhre",
+      "url": "https://open.spotify.com/track/5xllbFeRpcMvXuKZeOfyCt"
+    },
+    {
+      "album": {
         "name": "Ko Ko Korina",
         "url": "https://open.spotify.com/album/0wpYxOiTlWWNyqbSgBW9yf"
       },
@@ -12580,6 +12762,24 @@
       "duration_ms": 243076,
       "name": "Ktkht",
       "url": "https://open.spotify.com/track/4yVIeBLzHzzGw2lFRBMtk7"
+    },
+    {
+      "album": {
+        "name": "Kuch Baatain",
+        "url": "https://open.spotify.com/album/4b3ySuDiClA6PIq05Dq8we"
+      },
+      "artists": [
+        {
+          "name": "SingingCrow",
+          "url": "https://open.spotify.com/artist/73WZ1kCWLsf8jeNvd6zJDz"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244848,
+      "name": "Kuch Baatain",
+      "url": "https://open.spotify.com/track/2G9WXQ9iZEgDvlsjqMpGxS"
     },
     {
       "album": {
@@ -16620,6 +16820,32 @@
       "duration_ms": 231529,
       "name": "Noor Jahan",
       "url": "https://open.spotify.com/track/1G1jeoE3BibTVbRfHzoOZ9"
+    },
+    {
+      "album": {
+        "name": "Noor-e-Nazar",
+        "url": "https://open.spotify.com/album/3oDSeHLB5Mn1F8NXOEqhro"
+      },
+      "artists": [
+        {
+          "name": "Humnava",
+          "url": "https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI"
+        },
+        {
+          "name": "Noman Asmet",
+          "url": "https://open.spotify.com/artist/380nMOwFuoQU0cbb1Lcwey"
+        },
+        {
+          "name": "Noorima Rehan",
+          "url": "https://open.spotify.com/artist/29kMoXQCAKBsVOM9HeO5KY"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411805,
+      "name": "Noor-e-Nazar",
+      "url": "https://open.spotify.com/track/5v70pg7hpYuWsaoU4Udoof"
     },
     {
       "album": {
@@ -22614,6 +22840,24 @@
       "duration_ms": 211234,
       "name": "Tere Bin",
       "url": "https://open.spotify.com/track/2iN3jaESZIwDYGDPuYJcrO"
+    },
+    {
+      "album": {
+        "name": "Tere Bina",
+        "url": "https://open.spotify.com/album/0uXbKMd8VxfueCVtI4s5cg"
+      },
+      "artists": [
+        {
+          "name": "Zaighum Naeem",
+          "url": "https://open.spotify.com/artist/7fxYREX9WH1m6TsIR7ggYn"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184351,
+      "name": "Tere Bina",
+      "url": "https://open.spotify.com/track/6lHP7A5mDQOHGimTUcv3ux"
     },
     {
       "album": {

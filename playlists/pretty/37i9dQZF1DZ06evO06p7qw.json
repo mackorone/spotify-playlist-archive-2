@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 194131,
+  "num_followers": 194162,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAADUSl+1yq8Fh3vZ6kS0f+tP",
+  "snapshot_id": "aegPgAAAAAAwPFPoVf3JLNeCTMSSNWRf",
   "tracks": [
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verano En NY",
-        "url": "https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 186617,
-      "name": "Verano En NY",
-      "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde Que Te Vi",
         "url": "https://open.spotify.com/album/6tajRRPxnmdcp24vdnq6Vd"
       },
@@ -647,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Verano En NY",
+        "url": "https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 186617,
+      "name": "Verano En NY",
+      "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SUPERIOR",
         "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
       },
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 199933,
-      "name": "Alguien Como T\u00fa",
-      "url": "https://open.spotify.com/track/5tU9ASFW06aP69DNB5ewP0"
+      "duration_ms": 139733,
+      "name": "Cuando Te Beso",
+      "url": "https://open.spotify.com/track/2iMnAAwsMGn2YSD9R6wAhj"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 139733,
-      "name": "Cuando Te Beso",
-      "url": "https://open.spotify.com/track/2iMnAAwsMGn2YSD9R6wAhj"
+      "duration_ms": 199933,
+      "name": "Alguien Como T\u00fa",
+      "url": "https://open.spotify.com/track/5tU9ASFW06aP69DNB5ewP0"
     },
     {
       "added_at": null,

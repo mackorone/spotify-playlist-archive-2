@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 2,991 songs - 6 day 10 hr 34 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 2,994 songs - 6 day 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2999,5 +2999,8 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2989 | [FEEL THE MADNESS](https://open.spotify.com/track/5lY8zrMf0Pkfn9Tq3uxZwk) | [MADGRRL](https://open.spotify.com/artist/5kDQRbBoi2kxCHuR3YXzaX) | [THE PRESSURE EP](https://open.spotify.com/album/2TWpmwlGRpj3CfA5RcRbIP) | 3:21 |
 | 2990 | [DON'T GO](https://open.spotify.com/track/5orSO1B3QM4WSKVSe47XwH) | [Kenai](https://open.spotify.com/artist/4ieHqqeITt9Fmhxk20Ueqf) | [DON'T GO](https://open.spotify.com/album/2LUgqawXp0JOneJDQyj5ZM) | 2:18 |
 | 2991 | [How Low Can You Go](https://open.spotify.com/track/1hjR6X6rGOIAhupzEmMJZC) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [How Low Can You Go](https://open.spotify.com/album/6qpMulQRyycYDAHFWzyIOF) | 2:33 |
+| 2992 | [Move It](https://open.spotify.com/track/1O5XRBzrBgR2bdfSfJj5Rc) | [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq), [HETZKINEN](https://open.spotify.com/artist/6bERDnPnoFBo4ERukfbtuj) | [Move It](https://open.spotify.com/album/1GdfJwzwLIj80p5fE5XwGJ) | 2:31 |
+| 2993 | [we build the hype](https://open.spotify.com/track/34l06X6vqBeKqITmvpuA3b) | [Bumloco](https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M) | [we build the hype](https://open.spotify.com/album/1efyMQK0J8ZjjtL8igznFf) | 2:11 |
+| 2994 | [FKN LOUD](https://open.spotify.com/track/6KefiS7DtDW4XGNrXzMhrk) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Manji](https://open.spotify.com/artist/3kKttmkT96hcdqjZUvlhmn) | [FKN LOUD](https://open.spotify.com/album/7jFH4LtFcNXSpBDB6sw4Bk) | 3:00 |
 
-Snapshot ID: `AAAMCPXe79HH0ewPKPSZ0gDQavqC4Jvb`
+Snapshot ID: `AAAMC0TF5FDhmGvsEBCytqG4SKRyFqsl`

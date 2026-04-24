@@ -181,6 +181,28 @@
     },
     {
       "album": {
+        "name": "ABATHU",
+        "url": "https://open.spotify.com/album/2OHoLsytHq6waEzMrzYAxD"
+      },
+      "artists": [
+        {
+          "name": "JAXK",
+          "url": "https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq"
+        },
+        {
+          "name": "Tony James",
+          "url": "https://open.spotify.com/artist/71RrfwS2c8N12HclIkLeBn"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127011,
+      "name": "ABATHU",
+      "url": "https://open.spotify.com/track/2OeapeRZY7A1SdusvwUT8t"
+    },
+    {
+      "album": {
         "name": "Ace Anthem (From \"Ace\")",
         "url": "https://open.spotify.com/album/7M4HfCk1Hj2AZAJtg2yIbr"
       },
@@ -480,6 +502,28 @@
       "duration_ms": 139493,
       "name": "Arnakairu",
       "url": "https://open.spotify.com/track/4h6tOVR29BsAfR4BdONDM4"
+    },
+    {
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/7Hk71HhbEu0yhYE08YGedL"
+      },
+      "artists": [
+        {
+          "name": "Treple A",
+          "url": "https://open.spotify.com/artist/0y1kNEwY0TQP6Nt9U5g0Qr"
+        },
+        {
+          "name": "Rapkid 02",
+          "url": "https://open.spotify.com/artist/3ofhK23vIRn61FSQvP4TJA"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195666,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/4norMr5Qt05nxvnX42m1N7"
     },
     {
       "album": {
@@ -1328,6 +1372,24 @@
       "duration_ms": 283480,
       "name": "En Jannal Vandha",
       "url": "https://open.spotify.com/track/04fYoQSUTfPhVjyW8aXkix"
+    },
+    {
+      "album": {
+        "name": "En Rathiye",
+        "url": "https://open.spotify.com/album/5jc178NqJDyw9NHQSNEZAQ"
+      },
+      "artists": [
+        {
+          "name": "Mc Azy",
+          "url": "https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "En Rathiye",
+      "url": "https://open.spotify.com/track/6S5Jm4AvNbWLpfsva0Y9fp"
     },
     {
       "album": {
@@ -4526,7 +4588,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 145945,
       "name": "PANANTHOPPU",
       "url": "https://open.spotify.com/track/4NT2wkeGlUBLPxHpsdbiQo"
@@ -5772,7 +5834,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 126000,
       "name": "SUMMER SHOT",
       "url": "https://open.spotify.com/track/0V4SJS6mJas5o2Aafcpqf8"
@@ -7180,6 +7242,28 @@
       "duration_ms": 251428,
       "name": "Yaana Katha",
       "url": "https://open.spotify.com/track/7u3856hcrH8n7ijjDel4E4"
+    },
+    {
+      "album": {
+        "name": "Yakuza - Still Exist",
+        "url": "https://open.spotify.com/album/1Y884mgQv1aIBprDeTSZRK"
+      },
+      "artists": [
+        {
+          "name": "Zy Scenez",
+          "url": "https://open.spotify.com/artist/6Dv2e5rJCOuKLZ606S24ik"
+        },
+        {
+          "name": "MAD-D",
+          "url": "https://open.spotify.com/artist/3UsL1DCgQGOJdiUfn80wCb"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "Yakuza - Still Exist",
+      "url": "https://open.spotify.com/track/1Z6ilv70RY4tdZpDebJHFm"
     },
     {
       "album": {

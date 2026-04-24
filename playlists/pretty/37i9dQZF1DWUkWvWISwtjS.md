@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,261 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,215 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 11 | [Amante Não Tem Lar \- Ao Vivo](https://open.spotify.com/track/6P8v1a8jyfwG5kc7Si1kUp) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Realidade \(Ao Vivo Em Manaus\)](https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry) | 2:53 |
 | 12 | [Amiga Linda](https://open.spotify.com/track/11iB0tgmTc9smIam2IfIic) | [João Bosco & Vinícius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [João Bosco & Vinicius E Seus Ídolos \- Estrada De Chão](https://open.spotify.com/album/5ktSlHT6uyJIDRjAg8rHtd) | 2:46 |
 | 13 | [Por Nossos Filhos \- Ao Vivo](https://open.spotify.com/track/2ejpjaqOYKYMxQWY30RAyK) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Um Novo Sonho \(Deluxe\)](https://open.spotify.com/album/2uWVAReCZBKft4bKCDSEMy) | 3:20 |
-| 14 | [Tijolão \- Ao Vivo](https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tijolão \(ao Vivo\)](https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49) | 2:55 |
-| 15 | [Quem É Seu Favorito \- Ao Vivo](https://open.spotify.com/track/7h4XA0Kz2YCKAJNYSdJVdd) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ter Amigos É Melhor Que Ter Dinheiro, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3R8CMeFQ1xbdFDCCIblgqn) | 2:42 |
+| 14 | [Quem É Seu Favorito \- Ao Vivo](https://open.spotify.com/track/7h4XA0Kz2YCKAJNYSdJVdd) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ter Amigos É Melhor Que Ter Dinheiro, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3R8CMeFQ1xbdFDCCIblgqn) | 2:42 |
+| 15 | [Tijolão \- Ao Vivo](https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tijolão \(ao Vivo\)](https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49) | 2:55 |
 | 16 | [Silêncio \- Ao Vivo](https://open.spotify.com/track/0snqnBbzkmkHPEdkUIdxIu) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Marília Mendonça \(Ao Vivo\)](https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4) | 2:53 |
 | 17 | [choque térmico \- ao vivo](https://open.spotify.com/track/159ntSAEWJ9zIMOSXmQ530) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [VIVA \(Ao Vivo\)](https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR) | 3:00 |
 | 18 | [Mulher Maravilha \- Ao Vivo](https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo \| Deluxe\)](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 2:37 |

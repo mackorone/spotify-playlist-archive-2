@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAOlumA2mnWocmSYXw3ZCvIPXx/IBQW",
+  "snapshot_id": "AAAOmf2FyOiYIUi7JpAL+z0TzGIC9q1R",
   "tracks": [
     {
       "added_at": "2026-04-15 23:19:40",
@@ -1267,6 +1267,54 @@
       "duration_ms": 183879,
       "name": "Sticks and Mud",
       "url": "https://open.spotify.com/track/0pOUxLuxxUMWDV6DUUxprJ"
+    },
+    {
+      "added_at": "2026-04-23 09:24:33",
+      "album": {
+        "name": "Open up Your Mind's Eye",
+        "url": "https://open.spotify.com/album/5n09KMS0CKmlOdQ7TQYAn5"
+      },
+      "artists": [
+        {
+          "name": "Narcotic Hearts",
+          "url": "https://open.spotify.com/artist/4icQIBDsvhbkTnrFuctLV0"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Do It for the Love",
+      "url": "https://open.spotify.com/track/1H9OJ0qE5I2595jeG72ZMZ"
+    },
+    {
+      "added_at": "2026-04-23 09:25:03",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/3hvmpzjC41l5LXXl0JT73N"
+      },
+      "artists": [
+        {
+          "name": "MAL\u00d8NE",
+          "url": "https://open.spotify.com/artist/2kjoQ9U3dMg6YcrUiP6540"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "I Tried",
+      "url": "https://open.spotify.com/track/31n6laL6k7g4t1DhsFePcS"
+    },
+    {
+      "added_at": "2026-04-23 09:25:27",
+      "album": {
+        "name": "System Fallin",
+        "url": "https://open.spotify.com/album/2mulFAqmG4VU57DNtHnjUZ"
+      },
+      "artists": [
+        {
+          "name": "The Dreamers Roots",
+          "url": "https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb"
+        }
+      ],
+      "duration_ms": 266032,
+      "name": "System Fallin",
+      "url": "https://open.spotify.com/track/21SPd4SsKN5BpE5QL0NwHU"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 75794,
+  "num_followers": 75806,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAACwSG5pEzV4ZehvaKy3A4Xy",
+  "snapshot_id": "aegPgAAAAACxQdtg5stXRwapYXi2Kizt",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 350712,
+      "name": "Demasiado Tarde",
+      "url": "https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muchachos",
         "url": "https://open.spotify.com/album/35cgI9kKr9N6pZfTmWdakM"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pachanga",
-        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 350712,
-      "name": "Demasiado Tarde",
-      "url": "https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
       },
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 210266,
-      "name": "Nada Mas",
-      "url": "https://open.spotify.com/track/5JthbTqrtjNapSS7L8Xep9"
+      "duration_ms": 300053,
+      "name": "Hechicera Crayon",
+      "url": "https://open.spotify.com/track/0HE9ttmrZ1Ir01F82oBKh7"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Vilma Palma",
-        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Son tus ojos",
-      "url": "https://open.spotify.com/track/4I8H3JhKwTFTG8I3vzVkUy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hecatombe Disco",
         "url": "https://open.spotify.com/album/2ZGCpjlSEH00JNwAPjY1o0"
       },
@@ -619,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 300053,
-      "name": "Hechicera Crayon",
-      "url": "https://open.spotify.com/track/0HE9ttmrZ1Ir01F82oBKh7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fondo Profundo",
         "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
       },
@@ -647,6 +615,38 @@
       "duration_ms": 362920,
       "name": "Toque de Queda",
       "url": "https://open.spotify.com/track/2k3SYulMPRrbKIMy1RQAZW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Nada Mas",
+      "url": "https://open.spotify.com/track/5JthbTqrtjNapSS7L8Xep9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mejor de Vilma Palma",
+        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Son tus ojos",
+      "url": "https://open.spotify.com/track/4I8H3JhKwTFTG8I3vzVkUy"
     },
     {
       "added_at": null,
@@ -715,22 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailalo",
-        "url": "https://open.spotify.com/album/6xgu82r1BESKZptFU9E0cv"
+        "name": "Psic\u00f3tico",
+        "url": "https://open.spotify.com/album/5Nb3kbLr4Y6I7SX25Xwzkc"
       },
       "artists": [
         {
-          "name": "Agus Cassano",
-          "url": "https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY"
+          "name": "El\u00edas Rampello",
+          "url": "https://open.spotify.com/artist/1OO4dbmG9Fvz897JRIWiys"
         },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 159590,
-      "name": "Bailalo",
-      "url": "https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz"
+      "duration_ms": 201596,
+      "name": "Psic\u00f3tico",
+      "url": "https://open.spotify.com/track/6PuU2HHnLqiaUf1bKUMuHT"
     },
     {
       "added_at": null,
@@ -767,6 +767,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bailalo",
+        "url": "https://open.spotify.com/album/6xgu82r1BESKZptFU9E0cv"
+      },
+      "artists": [
+        {
+          "name": "Agus Cassano",
+          "url": "https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY"
+        },
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 159590,
+      "name": "Bailalo",
+      "url": "https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Pachanga",
         "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 202801,
       "name": "La Caca del Bandido",
       "url": "https://open.spotify.com/track/7BgrrQesQnHXefzJsM9jKg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Psic\u00f3tico",
-        "url": "https://open.spotify.com/album/5Nb3kbLr4Y6I7SX25Xwzkc"
-      },
-      "artists": [
-        {
-          "name": "El\u00edas Rampello",
-          "url": "https://open.spotify.com/artist/1OO4dbmG9Fvz897JRIWiys"
-        },
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 201596,
-      "name": "Psic\u00f3tico",
-      "url": "https://open.spotify.com/track/6PuU2HHnLqiaUf1bKUMuHT"
     },
     {
       "added_at": null,

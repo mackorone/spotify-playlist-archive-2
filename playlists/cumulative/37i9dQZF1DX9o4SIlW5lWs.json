@@ -5423,6 +5423,28 @@
     },
     {
       "album": {
+        "name": "MALA",
+        "url": "https://open.spotify.com/album/1ntZkQLCuUz5G5wlUPO8ar"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        },
+        {
+          "name": "Cacho Deicas",
+          "url": "https://open.spotify.com/artist/0rekO119G0yO5gjzM4nxZ2"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197121,
+      "name": "MALA",
+      "url": "https://open.spotify.com/track/5zmOqNbUyYFRKzmwFauNgj"
+    },
+    {
+      "album": {
         "name": "Maldita Flor",
         "url": "https://open.spotify.com/album/02pZs137dI76WI0aNsHMz6"
       },
@@ -8956,7 +8978,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 161874,
       "name": "Sin Valent\u00edn",
       "url": "https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY"

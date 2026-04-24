@@ -1,6 +1,6 @@
 {
   "description": "Grab a drink and relax to the Jazz played in the background at the bar.",
-  "num_followers": 194430,
+  "num_followers": 194503,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,26 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
+        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 163106,
+      "name": "That Old Feeling",
+      "url": "https://open.spotify.com/track/6PmKatJs99z0fDXi9624pk"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
         "name": "Something Cool (1955 Version)",
         "url": "https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 260240,
       "name": "Ev'ry Time We Say Goodbye",
       "url": "https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
-        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 163106,
-      "name": "That Old Feeling",
-      "url": "https://open.spotify.com/track/6PmKatJs99z0fDXi9624pk"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
+        "name": "All About Chris",
+        "url": "https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA"
+      },
+      "artists": [
+        {
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+        }
+      ],
+      "duration_ms": 180146,
+      "name": "All About Ronnie",
+      "url": "https://open.spotify.com/track/4s5MqP3R5MiKit4wauAGNH"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
         "name": "Autumn Leaves",
         "url": "https://open.spotify.com/album/0G6O2FuXK2CrwyzxcEpGsK"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 285693,
       "name": "If I Had You - Bonus Track",
       "url": "https://open.spotify.com/track/54U0BdTlsSah7SI6bxJeF6"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
-        "name": "All About Chris",
-        "url": "https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA"
-      },
-      "artists": [
-        {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
-        }
-      ],
-      "duration_ms": 180146,
-      "name": "All About Ronnie",
-      "url": "https://open.spotify.com/track/4s5MqP3R5MiKit4wauAGNH"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "The Imperious Dinah Washington",
-        "url": "https://open.spotify.com/album/0vHivwpqcKaKn3CmXY7SvK"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 154933,
-      "name": "Our Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/5cxRemrNoI9DUqQxqd2sir"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "Helen Merill",
         "url": "https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 360133,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/4GlQQ5hDC6HMnArUvrgva3"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "The Imperious Dinah Washington",
+        "url": "https://open.spotify.com/album/0vHivwpqcKaKn3CmXY7SvK"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 154933,
+      "name": "Our Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/5cxRemrNoI9DUqQxqd2sir"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Verve Jazz Masters 43: Ben Webster",
-        "url": "https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Come Rain Or Come Shine",
-      "url": "https://open.spotify.com/track/02ptMhCrjCMFVzXKMGbF1E"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "Jazz 'Round Midnight",
         "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 258160,
       "name": "Time On My Hands",
       "url": "https://open.spotify.com/track/4xqIedpD7DajzLlyS9b7rl"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "Verve Jazz Masters 43: Ben Webster",
+        "url": "https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Come Rain Or Come Shine",
+      "url": "https://open.spotify.com/track/02ptMhCrjCMFVzXKMGbF1E"
     },
     {
       "added_at": "2026-04-01 09:07:54",

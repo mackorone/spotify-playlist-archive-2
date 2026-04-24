@@ -2,9 +2,9 @@
 
 ### [Tendenze Rap 2026](https://open.spotify.com/playlist/37i9dQZF1DWXRPjCBAuFj3)
 
-> Giovani re, piccole star, si ricorderanno di noi 📈  Sfera in cover
+> Brani virali e trend, rap e urban 📈  Shiva in cover
 
-1,016 songs - 2 day 4 hr 27 min
+1,019 songs - 2 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Connexion](https://open.spotify.com/track/3OiVezwUqRu6R5byvFV6qA) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Connexion](https://open.spotify.com/album/3bPPFbT0uMsq5Ma3IoeCUI) | 2:34 | 2023-03-30 | 2023-04-29 |
 | [Contento](https://open.spotify.com/track/4xuxWQbprzIOE3BGRULn75) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Contento](https://open.spotify.com/album/4iyoO6tOGnEaR2CYrUmukL) | 3:30 | 2025-03-03 |  |
 | [Control \(feat\. Jay Electronica & Big Sean\)](https://open.spotify.com/track/32aCWjphTWNgtcXQrkvEsJ) | [Black Hippy](https://open.spotify.com/artist/7a9KRWdaSZktpGGnWndzbC), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [Black Hippy 2](https://open.spotify.com/album/7ql2A3kwa0MUy2vH2nMf6d) | 7:30 | 2024-04-23 | 2024-06-01 |
+| [COOOK PARDON](https://open.spotify.com/track/0P45YtqtAT6AkNDDX1lySE) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [COOOK PARDON](https://open.spotify.com/album/6SuKw9pZ6ryLoUz3b93zUw) | 1:32 | 2026-04-23 |  |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 | 2022-05-18 | 2024-06-14 |
 | [Corazón Puro](https://open.spotify.com/track/1yNYyCDT267YVxs5qSmnYZ) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Corazón Puro](https://open.spotify.com/album/5VxwWfcKYIpcp4OCjjaIQp) | 3:46 | 2025-01-24 | 2025-05-03 |
 | [CORONER](https://open.spotify.com/track/0fU8nZlFxeplNx9SeuYEQL) | [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [KH\-22](https://open.spotify.com/album/1zqvKz8fhd93s4GPYFDYAP) | 2:51 | 2023-12-07 | 2023-12-13 |
@@ -949,8 +950,10 @@
 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 | 2023-02-01 | 2023-07-27 |
 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 | 2024-03-22 | 2025-07-04 |
 | [U My Everything \(feat\. Drake\)](https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 3:45 | 2024-05-24 | 2025-07-04 |
+| [UCCIDERMI/DROGARMI](https://open.spotify.com/track/40N9mmfRHFIy5GnVLuQVKB) | [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ) | [PENSIERI CATTIVI](https://open.spotify.com/album/5SCrMyqREI1Qybkqp7HxoP) | 2:31 | 2026-04-23 |  |
 | [UK Rap](https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:18 | 2023-06-09 | 2025-07-04 |
 | [Umm Hmm](https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:12 | 2022-08-05 | 2022-10-15 |
+| [UNA BABY EN SANTIAGO](https://open.spotify.com/track/7CGUgOBXrfaXXvY73GzOXE) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [THE MVP OF THE YEAR](https://open.spotify.com/album/1NDIUPPPe1e55wi9JTnEfY) | 2:45 | 2026-04-23 |  |
 | [Understand](https://open.spotify.com/track/0g1im1B9PnwuSexz7BogHb) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:02 | 2024-03-15 | 2024-04-24 |
 | [UNLIMITED \(FT PLAYBOI CARTI\)](https://open.spotify.com/track/4j8n7cA99r729g1nAtA6qV) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [OMW2 REXDALE](https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8) | 3:28 | 2025-03-28 | 2025-05-30 |
 | [Unplugged \- Spotify Singles](https://open.spotify.com/track/5Gk7ZvxmrBbRonwlFh9STN) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [Unplugged \(Spotify Singles\)](https://open.spotify.com/album/157sF3l27tLvkrIJzqFUeg) | 2:56 | 2023-12-12 | 2024-01-09 |

@@ -1,6 +1,6 @@
 {
   "description": "Timeless Salsa from your favorite legends.",
-  "num_followers": 1517695,
+  "num_followers": 1518015,
   "original_name": "Salsa Classics",
   "owner": {
     "name": "Spotify",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2025-03-07 05:00:25",
       "album": {
+        "name": "B\u00fascame",
+        "url": "https://open.spotify.com/album/2NCLhGDYACSCs0UHT9jLAL"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "duration_ms": 233325,
+      "name": "Aquel Lugar",
+      "url": "https://open.spotify.com/track/2vHNqDJe1qvt1sroQfNHSI"
+    },
+    {
+      "added_at": "2025-03-07 05:00:25",
+      "album": {
         "name": "La Voz",
         "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 342173,
       "name": "Toro Mata",
       "url": "https://open.spotify.com/track/0lXxj5T6jeovmtd460qrFN"
-    },
-    {
-      "added_at": "2025-03-07 05:00:25",
-      "album": {
-        "name": "B\u00fascame",
-        "url": "https://open.spotify.com/album/2NCLhGDYACSCs0UHT9jLAL"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 233325,
-      "name": "Aquel Lugar",
-      "url": "https://open.spotify.com/track/2vHNqDJe1qvt1sroQfNHSI"
     },
     {
       "added_at": "2025-03-07 05:00:25",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2025-03-07 05:00:25",
       "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 351813,
+      "name": "Esa Mujer",
+      "url": "https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI"
+    },
+    {
+      "added_at": "2025-03-07 05:00:25",
+      "album": {
         "name": "Lo Qu\u00e9 Pide La Gente",
         "url": "https://open.spotify.com/album/4Nw5le2E6AhNXU4GDFIGl0"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 402360,
       "name": "El Rey De La Puntualidad",
       "url": "https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ"
-    },
-    {
-      "added_at": "2025-03-07 05:00:25",
-      "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 351813,
-      "name": "Esa Mujer",
-      "url": "https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI"
     },
     {
       "added_at": "2025-03-07 05:00:25",

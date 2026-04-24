@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Sons of Legion",
-  "num_followers": 1068596,
+  "num_followers": 1068642,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-04-17 04:00:31",
       "album": {
-        "name": "Dark and Stormy",
-        "url": "https://open.spotify.com/album/5mR5SYkDxay9IuM5624fDx"
-      },
-      "artists": [
-        {
-          "name": "The Brudi Brothers",
-          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Dark and Stormy",
-      "url": "https://open.spotify.com/track/0jC82twXzqYaIiOQKaOlTl"
-    },
-    {
-      "added_at": "2026-04-17 04:00:31",
-      "album": {
         "name": "Satisfied",
         "url": "https://open.spotify.com/album/4IqsiNwUfcrA7RrUHwAo6k"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 191454,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/3RWOkWVdve8HZG4vIg6bkF"
+    },
+    {
+      "added_at": "2026-04-17 04:00:31",
+      "album": {
+        "name": "Dark and Stormy",
+        "url": "https://open.spotify.com/album/5mR5SYkDxay9IuM5624fDx"
+      },
+      "artists": [
+        {
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Dark and Stormy",
+      "url": "https://open.spotify.com/track/0jC82twXzqYaIiOQKaOlTl"
     },
     {
       "added_at": "2026-04-17 04:00:31",
@@ -387,26 +387,6 @@
     {
       "added_at": "2026-04-17 04:00:31",
       "album": {
-        "name": "Six Shades of Grey",
-        "url": "https://open.spotify.com/album/2gZyv5yJdXHkZppvO6k8l9"
-      },
-      "artists": [
-        {
-          "name": "Lindsey Troy",
-          "url": "https://open.spotify.com/artist/14EbKjtHqgxm0Z3XVIev0H"
-        },
-        {
-          "name": "Deap Vally",
-          "url": "https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl"
-        }
-      ],
-      "duration_ms": 203757,
-      "name": "Six Shades of Grey",
-      "url": "https://open.spotify.com/track/32EA0LfAv3JBxXHGqRiPAy"
-    },
-    {
-      "added_at": "2026-04-17 04:00:31",
-      "album": {
         "name": "JPEG RAW",
         "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 279359,
       "name": "What About The Children",
       "url": "https://open.spotify.com/track/4bGTNdEbmrDlvqYJKRKJxR"
+    },
+    {
+      "added_at": "2026-04-17 04:00:31",
+      "album": {
+        "name": "Six Shades of Grey",
+        "url": "https://open.spotify.com/album/2gZyv5yJdXHkZppvO6k8l9"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Troy",
+          "url": "https://open.spotify.com/artist/14EbKjtHqgxm0Z3XVIev0H"
+        },
+        {
+          "name": "Deap Vally",
+          "url": "https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl"
+        }
+      ],
+      "duration_ms": 203757,
+      "name": "Six Shades of Grey",
+      "url": "https://open.spotify.com/track/32EA0LfAv3JBxXHGqRiPAy"
     },
     {
       "added_at": "2026-04-17 04:00:31",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-04-17 04:00:31",
       "album": {
+        "name": "Upside",
+        "url": "https://open.spotify.com/album/4b2rsJxm5i3BTj1mkhGGSJ"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 301395,
+      "name": "Upside",
+      "url": "https://open.spotify.com/track/2mYnzR2Gm5mGNft7rZsInE"
+    },
+    {
+      "added_at": "2026-04-17 04:00:31",
+      "album": {
         "name": "Revelations",
         "url": "https://open.spotify.com/album/3HWmAVWwH6PGfEdePj3ik9"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2026-04-17 04:00:31",
       "album": {
-        "name": "Upside",
-        "url": "https://open.spotify.com/album/4b2rsJxm5i3BTj1mkhGGSJ"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 301395,
-      "name": "Upside",
-      "url": "https://open.spotify.com/track/2mYnzR2Gm5mGNft7rZsInE"
-    },
-    {
-      "added_at": "2026-04-17 04:00:31",
-      "album": {
         "name": "Sweet Southern Sounds",
         "url": "https://open.spotify.com/album/6eAO9mBoyOKyh8CLcopqzB"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 301430,
       "name": "Sweet Southern Sounds",
       "url": "https://open.spotify.com/track/0MSeSaQgYPbcDcvsUMNA0d"
+    },
+    {
+      "added_at": "2026-04-17 04:00:31",
+      "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Fancy Drones (Fracture Me)",
+      "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
     },
     {
       "added_at": "2026-04-17 04:00:31",
@@ -671,22 +687,6 @@
       "duration_ms": 234596,
       "name": "Everything's Fine",
       "url": "https://open.spotify.com/track/4zAonFIPy28okpnSUMzceT"
-    },
-    {
-      "added_at": "2026-04-17 04:00:31",
-      "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Fancy Drones (Fracture Me)",
-      "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
     },
     {
       "added_at": "2026-04-17 04:00:31",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-04-17 04:00:31",
       "album": {
-        "name": "Out of All the Stars",
-        "url": "https://open.spotify.com/album/6leH7jcoSppPjueeyLOJlM"
-      },
-      "artists": [
-        {
-          "name": "Deltaphonic",
-          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
-        }
-      ],
-      "duration_ms": 239241,
-      "name": "Out of All the Stars",
-      "url": "https://open.spotify.com/track/5N7ZvlLi9OUmVbBYfuqSwc"
-    },
-    {
-      "added_at": "2026-04-17 04:00:31",
-      "album": {
         "name": "The Love Endeavour",
         "url": "https://open.spotify.com/album/40IiLXS7PRcNBriqxjkZlE"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 275712,
       "name": "The Love Endeavour",
       "url": "https://open.spotify.com/track/6BcEUibSqPqWJAxHgiZrle"
+    },
+    {
+      "added_at": "2026-04-17 04:00:31",
+      "album": {
+        "name": "Out of All the Stars",
+        "url": "https://open.spotify.com/album/6leH7jcoSppPjueeyLOJlM"
+      },
+      "artists": [
+        {
+          "name": "Deltaphonic",
+          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
+        }
+      ],
+      "duration_ms": 239241,
+      "name": "Out of All the Stars",
+      "url": "https://open.spotify.com/track/5N7ZvlLi9OUmVbBYfuqSwc"
     },
     {
       "added_at": "2026-04-17 04:00:31",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-04-17 04:00:31",
       "album": {
+        "name": "Roots & Wings",
+        "url": "https://open.spotify.com/album/31VSvPpkcluGFzHwBWP9uL"
+      },
+      "artists": [
+        {
+          "name": "Amani Burnham",
+          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Roots & Wings",
+      "url": "https://open.spotify.com/track/7eGKkTJGAjTHckLuIEsmjG"
+    },
+    {
+      "added_at": "2026-04-17 04:00:31",
+      "album": {
         "name": "Heaven Knows",
         "url": "https://open.spotify.com/album/0YpOrdUp8zE96Z9Xm0gjE8"
       },
@@ -983,26 +999,6 @@
     {
       "added_at": "2026-04-17 04:00:31",
       "album": {
-        "name": "What Good Is My Love?",
-        "url": "https://open.spotify.com/album/1Jno4Yu87PMgGpMQ1uSkvc"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        },
-        {
-          "name": "Orianthi",
-          "url": "https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "What Good Is My Love?",
-      "url": "https://open.spotify.com/track/4OyR0bZxleusBdQMQ83Afh"
-    },
-    {
-      "added_at": "2026-04-17 04:00:31",
-      "album": {
         "name": "Gathering Forces",
         "url": "https://open.spotify.com/album/4n5fU42lZ03DP7fSatbpXF"
       },
@@ -1019,6 +1015,38 @@
       "duration_ms": 185399,
       "name": "Gathering Forces",
       "url": "https://open.spotify.com/track/6JTI6WG7Y8ZmFya41ksK4E"
+    },
+    {
+      "added_at": "2026-04-17 04:00:31",
+      "album": {
+        "name": "I\u2019m Done Runnin'",
+        "url": "https://open.spotify.com/album/4If94wqhZcb8clR5HOT9tt"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 185751,
+      "name": "I'm Done Runnin'",
+      "url": "https://open.spotify.com/track/19qNi1II1ih7b1Aq236oPh"
+    },
+    {
+      "added_at": "2026-04-17 04:00:31",
+      "album": {
+        "name": "Let the Music Get Down in Your Soul",
+        "url": "https://open.spotify.com/album/1rozu7rLvTKozl701ahTly"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        }
+      ],
+      "duration_ms": 204986,
+      "name": "Let the Music Get Down in Your Soul",
+      "url": "https://open.spotify.com/track/3Kt8zwpgfewy0mespQa7Ew"
     },
     {
       "added_at": "2026-04-17 04:00:31",
@@ -1043,34 +1071,22 @@
     {
       "added_at": "2026-04-17 04:00:31",
       "album": {
-        "name": "Let the Music Get Down in Your Soul",
-        "url": "https://open.spotify.com/album/1rozu7rLvTKozl701ahTly"
+        "name": "What Good Is My Love?",
+        "url": "https://open.spotify.com/album/1Jno4Yu87PMgGpMQ1uSkvc"
       },
       "artists": [
         {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        }
-      ],
-      "duration_ms": 204986,
-      "name": "Let the Music Get Down in Your Soul",
-      "url": "https://open.spotify.com/track/3Kt8zwpgfewy0mespQa7Ew"
-    },
-    {
-      "added_at": "2026-04-17 04:00:31",
-      "album": {
-        "name": "I\u2019m Done Runnin'",
-        "url": "https://open.spotify.com/album/4If94wqhZcb8clR5HOT9tt"
-      },
-      "artists": [
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        },
         {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+          "name": "Orianthi",
+          "url": "https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs"
         }
       ],
-      "duration_ms": 185751,
-      "name": "I'm Done Runnin'",
-      "url": "https://open.spotify.com/track/19qNi1II1ih7b1Aq236oPh"
+      "duration_ms": 213733,
+      "name": "What Good Is My Love?",
+      "url": "https://open.spotify.com/track/4OyR0bZxleusBdQMQ83Afh"
     },
     {
       "added_at": "2026-04-17 04:00:31",
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2026-04-17 04:00:31",
       "album": {
-        "name": "You Still Got Me",
-        "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 260458,
-      "name": "You Still Got Me - Edit",
-      "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
-    },
-    {
-      "added_at": "2026-04-17 04:00:31",
-      "album": {
         "name": "Slow Lightning (Deluxe)",
         "url": "https://open.spotify.com/album/7Mz65cNLCpxl7qzFIxfCVA"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 234266,
       "name": "Out for Blood",
       "url": "https://open.spotify.com/track/7739yFrjY8ZOg3619Y07yH"
+    },
+    {
+      "added_at": "2026-04-17 04:00:31",
+      "album": {
+        "name": "You Still Got Me",
+        "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 260458,
+      "name": "You Still Got Me - Edit",
+      "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
     },
     {
       "added_at": "2026-04-17 04:00:31",
@@ -1167,22 +1183,6 @@
       "duration_ms": 154980,
       "name": "Days of Mellow",
       "url": "https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx"
-    },
-    {
-      "added_at": "2026-04-17 04:00:31",
-      "album": {
-        "name": "Roots & Wings",
-        "url": "https://open.spotify.com/album/31VSvPpkcluGFzHwBWP9uL"
-      },
-      "artists": [
-        {
-          "name": "Amani Burnham",
-          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Roots & Wings",
-      "url": "https://open.spotify.com/track/7eGKkTJGAjTHckLuIEsmjG"
     },
     {
       "added_at": "2026-04-17 04:00:31",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-04-17 04:00:31",
       "album": {
-        "name": "Plus One",
-        "url": "https://open.spotify.com/album/5I11qjCOCm0tLcBwX82sMj"
-      },
-      "artists": [
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Love Like Whiskey",
-      "url": "https://open.spotify.com/track/6opRiNYlpcAzBN5fYlzWfX"
-    },
-    {
-      "added_at": "2026-04-17 04:00:31",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 243219,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
+    },
+    {
+      "added_at": "2026-04-17 04:00:31",
+      "album": {
+        "name": "Plus One",
+        "url": "https://open.spotify.com/album/5I11qjCOCm0tLcBwX82sMj"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Love Like Whiskey",
+      "url": "https://open.spotify.com/track/6opRiNYlpcAzBN5fYlzWfX"
     },
     {
       "added_at": "2026-04-17 04:00:31",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-04-17 04:00:31",
       "album": {
-        "name": "Dark Days",
-        "url": "https://open.spotify.com/album/2Yl1dW63gqEpM4WlUo9eDn"
-      },
-      "artists": [
-        {
-          "name": "Moose Miller",
-          "url": "https://open.spotify.com/artist/5VZSk60xNyoK3vTJmzoHlV"
-        }
-      ],
-      "duration_ms": 251197,
-      "name": "Dark Days",
-      "url": "https://open.spotify.com/track/72FXmE7sYz78NpGFzO0ogl"
-    },
-    {
-      "added_at": "2026-04-17 04:00:31",
-      "album": {
         "name": "All The Things I Said",
         "url": "https://open.spotify.com/album/0wSIwTKTUh0MiXcS5jRhyQ"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 287986,
       "name": "All The Things I Said",
       "url": "https://open.spotify.com/track/5viV8dro184RtltNGT0JiZ"
+    },
+    {
+      "added_at": "2026-04-17 04:00:31",
+      "album": {
+        "name": "Dark Days",
+        "url": "https://open.spotify.com/album/2Yl1dW63gqEpM4WlUo9eDn"
+      },
+      "artists": [
+        {
+          "name": "Moose Miller",
+          "url": "https://open.spotify.com/artist/5VZSk60xNyoK3vTJmzoHlV"
+        }
+      ],
+      "duration_ms": 251197,
+      "name": "Dark Days",
+      "url": "https://open.spotify.com/track/72FXmE7sYz78NpGFzO0ogl"
     },
     {
       "added_at": "2026-04-17 04:00:31",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2026-04-17 04:00:31",
       "album": {
+        "name": "Seasons Change",
+        "url": "https://open.spotify.com/album/1DjF9YaLZ3PKdzmwNPdwok"
+      },
+      "artists": [
+        {
+          "name": "Chadwick Johnson",
+          "url": "https://open.spotify.com/artist/21iVIpVgIhkCIkz7yQfKgV"
+        }
+      ],
+      "duration_ms": 207931,
+      "name": "Seasons Change",
+      "url": "https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu"
+    },
+    {
+      "added_at": "2026-04-17 04:00:31",
+      "album": {
         "name": "What's Not To Love?",
         "url": "https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 199174,
       "name": "I Guess I\u2019ll Get The Papers And Go Home",
       "url": "https://open.spotify.com/track/26qinPvPXEC2rYkg2288K0"
-    },
-    {
-      "added_at": "2026-04-17 04:00:31",
-      "album": {
-        "name": "Seasons Change",
-        "url": "https://open.spotify.com/album/1DjF9YaLZ3PKdzmwNPdwok"
-      },
-      "artists": [
-        {
-          "name": "Chadwick Johnson",
-          "url": "https://open.spotify.com/artist/21iVIpVgIhkCIkz7yQfKgV"
-        }
-      ],
-      "duration_ms": 207931,
-      "name": "Seasons Change",
-      "url": "https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu"
     },
     {
       "added_at": "2026-04-17 04:00:31",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2026-04-17 04:00:31",
       "album": {
+        "name": "Neon Sounds",
+        "url": "https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL"
+      },
+      "artists": [
+        {
+          "name": "The Delta Bombers",
+          "url": "https://open.spotify.com/artist/2QDX87l1pAGzTn0D6tX8fz"
+        }
+      ],
+      "duration_ms": 247013,
+      "name": "Hey! You Know You Wanna!",
+      "url": "https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk"
+    },
+    {
+      "added_at": "2026-04-17 04:00:31",
+      "album": {
         "name": "A Thousand Heartaches",
         "url": "https://open.spotify.com/album/7IybesqhT7t0B0njDaTdAj"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 300240,
       "name": "A Thousand Heartaches",
       "url": "https://open.spotify.com/track/6lOBccfSzr20xcr5L7Y8AS"
-    },
-    {
-      "added_at": "2026-04-17 04:00:31",
-      "album": {
-        "name": "Neon Sounds",
-        "url": "https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL"
-      },
-      "artists": [
-        {
-          "name": "The Delta Bombers",
-          "url": "https://open.spotify.com/artist/2QDX87l1pAGzTn0D6tX8fz"
-        }
-      ],
-      "duration_ms": 247013,
-      "name": "Hey! You Know You Wanna!",
-      "url": "https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk"
     }
   ],
   "unique_name": "Blues Roots",

@@ -1,6 +1,6 @@
 {
   "description": "Jelly, arcades and a man on the moon, this one's for you!",
-  "num_followers": 97019,
+  "num_followers": 97038,
   "original_name": "Born in the 60s",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Still Crazy After All These Years",
-        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "50 Ways to Leave Your Lover",
-      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Best Of Blondie",
         "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 212893,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "50 Ways to Leave Your Lover",
+      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Breakfast In America (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 159346,
-      "name": "Breakfast In America - Remastered 2010",
-      "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Rejoice",
         "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 220560,
       "name": "Best of My Love",
       "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 159346,
+      "name": "Breakfast In America - Remastered 2010",
+      "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
+      },
+      "artists": [
+        {
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+        }
+      ],
+      "duration_ms": 229106,
+      "name": "Rhythm Of The Night",
+      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
         "name": "Ring My Bell",
         "url": "https://open.spotify.com/album/5iGr1ahzViyPqmOUxSzYWo"
       },
@@ -579,22 +595,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Rhythm Of The Night",
-        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
-      },
-      "artists": [
-        {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
-        }
-      ],
-      "duration_ms": 229106,
-      "name": "Rhythm Of The Night",
-      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "The Very Best Of Ram Jam",
         "url": "https://open.spotify.com/album/6s1bwzTzWK3u9I4YPjp3lr"
       },
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
-      },
-      "artists": [
-        {
-          "name": "Climie Fisher",
-          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Love Changes (Everything)",
-      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Freedom for the Stallion (Expanded Edition)",
         "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 202573,
       "name": "Rock the Boat",
       "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
+      },
+      "artists": [
+        {
+          "name": "Climie Fisher",
+          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Love Changes (Everything)",
+      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "Save a Prayer - Single Version",
-      "url": "https://open.spotify.com/track/5zNf8MI40Us66R3zutaxvt"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Tuneweaving",
         "url": "https://open.spotify.com/album/3mrqSIFeycc3CccoaHR0Tq"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 206253,
       "name": "Tie a Yellow Ribbon Round the Ole Oak Tree (feat. Tony Orlando) - 1998 Remastered",
       "url": "https://open.spotify.com/track/12UzVR0M7asW2MHAZRJk0I"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Save a Prayer - Single Version",
+      "url": "https://open.spotify.com/track/5zNf8MI40Us66R3zutaxvt"
     },
     {
       "added_at": "2024-03-26 13:49:34",

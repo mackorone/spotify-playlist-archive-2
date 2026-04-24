@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAByCL+YwIjA+kkFPtqhr0zQ",
+  "snapshot_id": "aegPgAAAAAAbDF56u4akt7pAM7vBquLb",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nick Of Time",
-        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Thing Called Love",
-      "url": "https://open.spotify.com/track/3g6lXYay6mqmtFmjzSYr66"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Give It Up (2008 Remaster)",
         "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 178733,
       "name": "Too Long at the Fair - 2008 Remaster",
       "url": "https://open.spotify.com/track/1oMhFBq8JndGlXmknlkSjp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Thing Called Love",
+      "url": "https://open.spotify.com/track/3g6lXYay6mqmtFmjzSYr66"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 216093,
-      "name": "I Ain't Blue - 2008 Remaster",
-      "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luck Of The Draw",
         "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
       },
@@ -431,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nick Of Time",
-        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
       "artists": [
         {
@@ -440,9 +424,25 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 289970,
-      "name": "Have A Heart",
-      "url": "https://open.spotify.com/track/5DXvq6kWCNefq4qTSVGGGC"
+      "duration_ms": 216093,
+      "name": "I Ain't Blue - 2008 Remaster",
+      "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweet Forgiveness",
+        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 208093,
+      "name": "Home - 2008 Remaster",
+      "url": "https://open.spotify.com/track/4SgIuqaMyQSckMOCrZBBPe"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Forgiveness",
-        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 208093,
-      "name": "Home - 2008 Remaster",
-      "url": "https://open.spotify.com/track/4SgIuqaMyQSckMOCrZBBPe"
+      "duration_ms": 289970,
+      "name": "Have A Heart",
+      "url": "https://open.spotify.com/track/5DXvq6kWCNefq4qTSVGGGC"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music From The Motion Picture Michael",
-        "url": "https://open.spotify.com/album/52LfK1ML8u7Xj1ArC8oC22"
+        "name": "Sweet Forgiveness",
+        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 264786,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/7mUQ0w8i88ObXwSnrUwfZO"
+      "duration_ms": 165000,
+      "name": "Louise - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Forgiveness",
-        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+        "name": "Music From The Motion Picture Michael",
+        "url": "https://open.spotify.com/album/52LfK1ML8u7Xj1ArC8oC22"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Louise - 2008 Remaster",
-      "url": "https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl"
+      "duration_ms": 264786,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/7mUQ0w8i88ObXwSnrUwfZO"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 347840,
+      "name": "Blame it On Me",
+      "url": "https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Luck Of The Draw",
         "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
       },
@@ -663,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Like That...",
-        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 347840,
-      "name": "Blame it On Me",
-      "url": "https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs from the Rainbow Room 1972 (Live)",
         "url": "https://open.spotify.com/album/6UKKvudJfkgZcw59mNOy0c"
       },
@@ -691,26 +691,6 @@
       "duration_ms": 187533,
       "name": "Can't Find My Way Home - Live",
       "url": "https://open.spotify.com/track/1TITZdtKEabZzhm9EtfOCm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dog Ear",
-        "url": "https://open.spotify.com/album/4QY53gmPaPnWAIHFiENYhK"
-      },
-      "artists": [
-        {
-          "name": "The Bros. Landreth",
-          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
-        },
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 254688,
-      "name": "Knuckles",
-      "url": "https://open.spotify.com/track/51tNPtfL97T3VIzWdRfKEL"
     },
     {
       "added_at": null,
@@ -747,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dog Ear",
+        "url": "https://open.spotify.com/album/4QY53gmPaPnWAIHFiENYhK"
+      },
+      "artists": [
+        {
+          "name": "The Bros. Landreth",
+          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 254688,
+      "name": "Knuckles",
+      "url": "https://open.spotify.com/track/51tNPtfL97T3VIzWdRfKEL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea"
       },
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home Plate (2008 Remaster)",
-        "url": "https://open.spotify.com/album/5yBKOUYfEPb2CgFLpgeFLX"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "Your Sweet and Shiny Eyes - 2008 Remaster",
-      "url": "https://open.spotify.com/track/34FN0vnOsqW7okjKNJ2uUE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bonnie Raitt (2008 Remaster)",
         "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 143933,
       "name": "Any Day Woman - 2008 Remaster",
       "url": "https://open.spotify.com/track/6hH5c3iQ0z1RjyOuz4D0c2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home Plate (2008 Remaster)",
+        "url": "https://open.spotify.com/album/5yBKOUYfEPb2CgFLpgeFLX"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Your Sweet and Shiny Eyes - 2008 Remaster",
+      "url": "https://open.spotify.com/track/34FN0vnOsqW7okjKNJ2uUE"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
       "duration_ms": 283160,
       "name": "Kisses Sweeter than Wine",
       "url": "https://open.spotify.com/track/03XiG8UT6iWa3kDVGHcTW4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 194908,
+      "name": "Nobody's Girl",
+      "url": "https://open.spotify.com/track/3N3Pa8T8epLgjMplqbetq8"
     },
     {
       "added_at": null,
@@ -863,22 +879,6 @@
       "duration_ms": 212106,
       "name": "Not Cause I Wanted To",
       "url": "https://open.spotify.com/track/2eddW5VE76XGnS9iOkaGv3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nick Of Time",
-        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 194908,
-      "name": "Nobody's Girl",
-      "url": "https://open.spotify.com/track/3N3Pa8T8epLgjMplqbetq8"
     },
     {
       "added_at": null,

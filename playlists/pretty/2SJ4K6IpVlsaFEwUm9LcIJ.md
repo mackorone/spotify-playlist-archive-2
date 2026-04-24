@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,303 likes - 43 songs - 3 hr 0 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,305 likes - 52 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,5 +51,14 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 41 | [1842](https://open.spotify.com/track/3QBeMDPyMqnqkTcIzajuJN) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [But This Chicken Proved Falsehearted](https://open.spotify.com/album/3vNTpXPg2fxhMv5pEGi9DH) | 4:59 |
 | 42 | [ក្រមុំដណ្តឹងម្តាយ](https://open.spotify.com/track/0zbstp77qF4re3PT8VvC6j) | [Sinn Sisamouth](https://open.spotify.com/artist/5Vp49PDKCSLwmRI1qhb0oa), [Huoy Meas](https://open.spotify.com/artist/6cFq8stOxHqx5gmbrj0f5t) | [ក្រមុំដណ្តឹងម្តាយ & ពស់វែកសកស្រកា](https://open.spotify.com/album/5OG4mmYvGq2IFKpzsAJuOm) | 2:30 |
 | 43 | [With or Without Me](https://open.spotify.com/track/0zokHpdhq69de6KcOWMMRj) | [Petite Garçon](https://open.spotify.com/artist/24Yfuj1uVoF1YznzjXcVDV) | [Let Go of Stress](https://open.spotify.com/album/29F6gRiX93yNCW9BzQe6Hr) | 2:34 |
+| 44 | [Birds & A Whale](https://open.spotify.com/track/5N6Qu249TFvL5qHOsqlKZ3) | [Mister Baby](https://open.spotify.com/artist/4HKikdbtrOubEtDLih0xzg) | [Sidewalk Pop](https://open.spotify.com/album/1y6jvHyQdO5nhCvSCEwQic) | 1:51 |
+| 45 | [Early Morning Play Ground](https://open.spotify.com/track/0PyPskqahKHpjkkocj5Xtv) | [red go\-cart](https://open.spotify.com/artist/3bh4sa1uDFgiarsXJtqv2z) | [Very Beginning of Red Go\-Cart](https://open.spotify.com/album/63BMtPFOOm2sqMkdEID25P) | 2:17 |
+| 46 | [natsu no shizuku \(senkohanabi potori\) \- Remastered](https://open.spotify.com/track/4wNNJuJM6yJFu6pbBSXbM3) | [800 cherries](https://open.spotify.com/artist/47mrO8UvhD1Qt6iAIy4fCO) | [opuscula \(2022 Remaster\)](https://open.spotify.com/album/0eI5aHdJzGCuUStzA7S9IT) | 3:27 |
+| 47 | [Mess](https://open.spotify.com/track/71oc1nwWr2oX6NjiI7unJ8) | [Peatmos](https://open.spotify.com/artist/4nHWehV7XefjitpBo7v8Ll) | [Watching Us With Archaic Smile](https://open.spotify.com/album/2hJlXYH9cOv6aRNj3a5IOu) | 2:49 |
+| 48 | [I Can't Help But Wonder Where I'm Bound](https://open.spotify.com/track/0ks7kfcwUrIM4sOqu17bZk) | [Dion & The Wanderers](https://open.spotify.com/artist/20mie1gDgd9CTMQxYyfj10) | [Kickin' Child: The Lost Album 1965](https://open.spotify.com/album/3yOfc5cP8x1x2Un1F0QkgT) | 2:53 |
+| 49 | [Now](https://open.spotify.com/track/5i83a3f8uIJQuOEWPMVz0D) | [Dion & The Wanderers](https://open.spotify.com/artist/20mie1gDgd9CTMQxYyfj10) | [Kickin' Child: The Lost Album 1965](https://open.spotify.com/album/3yOfc5cP8x1x2Un1F0QkgT) | 2:42 |
+| 50 | [Purple Haze](https://open.spotify.com/track/5opz11K4IkIVD9gv90MToF) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Dion](https://open.spotify.com/album/323GIk4Y4kaO9XcEPNlBq6) | 2:33 |
+| 51 | [Abraham, Martin And John](https://open.spotify.com/track/41tl6xfIKib7fexaHudvV0) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Dion](https://open.spotify.com/album/323GIk4Y4kaO9XcEPNlBq6) | 3:20 |
+| 52 | [Jagger the Dagger](https://open.spotify.com/track/2reLffYiqlc8aF9c6tRFZ1) | [Eugene McDaniels](https://open.spotify.com/artist/4k6kxW9Xv4kVbTblyLfygN) | [Headless Heroes of the Apocalypse](https://open.spotify.com/album/3d6r8XuRKejXiqXisnMNoi) | 6:03 |
 
-Snapshot ID: `AAAOK45uAHsz2gDjDhGGzHTwC+hiOrgR`
+Snapshot ID: `AAAONPfR/DeRH9lohTQfDsIv1RAiMjtE`

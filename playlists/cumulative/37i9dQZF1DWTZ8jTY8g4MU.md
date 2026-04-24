@@ -4,7 +4,7 @@
 
 > شيلات تشيل الليلة\. الغلاف: بندر بن عوير
 
-285 songs - 19 hr 0 min
+286 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [فرحتنا خيالية](https://open.spotify.com/track/4oPm1gYvMhP7fQNLlY2tEu) | [ابو امير](https://open.spotify.com/artist/2pVOkIFcX2OfYIfOqxXjdg) | [فرحتنا خيالية](https://open.spotify.com/album/1fYhJHOd2rQK3GbSeIaMOc) | 7:47 | 2023-02-22 | 2023-02-25 |
 | [فرصة سعيدة](https://open.spotify.com/track/2L1JHgt9UiSbssDZ2lZfuw) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [فرصة سعيدة](https://open.spotify.com/album/2048egsIYfGJWAt53DabSw) | 4:24 | 2022-03-30 | 2022-12-09 |
 | [فرصة سعيدة](https://open.spotify.com/track/7BVm5vLbEhLPWJJ58UGMRk) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [فرصة سعيدة](https://open.spotify.com/album/3UBchXbtssuqRgB3Ur6ZZw) | 4:24 | 2022-10-06 | 2023-02-23 |
-| [فقدنا الحبايب](https://open.spotify.com/track/0WXqWrWhraiWz0oMbzRGmV) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [فقدنا الحبايب](https://open.spotify.com/album/7C1hdT0xwFC6Go9dEAduKs) | 4:36 | 2024-06-26 |  |
+| [فقدنا الحبايب](https://open.spotify.com/track/0WXqWrWhraiWz0oMbzRGmV) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [فقدنا الحبايب](https://open.spotify.com/album/7C1hdT0xwFC6Go9dEAduKs) | 4:36 | 2024-06-26 | 2026-04-24 |
 | [فيني مايكفيني](https://open.spotify.com/track/5kxeYsWK6nqyBe928myoA0) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [فيني مايكفيني](https://open.spotify.com/album/5PcvXS7I6sBsDyyoD2xzYH) | 3:25 | 2022-03-30 | 2022-11-02 |
 | [فيني مايكفيني](https://open.spotify.com/track/5np7Iyt9i8EDmKSpSVJR58) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [فيني مايكفيني](https://open.spotify.com/album/3x0qCf5FPJ96XQS1X4xUvt) | 3:25 | 2022-08-31 | 2023-09-19 |
 | [قد علموة](https://open.spotify.com/track/32erzTQUUgGoCsqnpp0Wd8) | [فلاح المسردي](https://open.spotify.com/artist/21Thm4pTSbEQCsFEbausED) | [قد علموة](https://open.spotify.com/album/5FOH3Ti6fCHQHaVMWMlueJ) | 4:44 | 2023-02-22 | 2023-09-02 |
@@ -247,6 +247,7 @@
 | [نظرته قتالة](https://open.spotify.com/track/7DHZR2oLRk4E78BLcsStej) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [نظرته قتالة](https://open.spotify.com/album/1BD5Jn39AJStfjxJlrv2B3) | 3:26 | 2023-11-14 | 2024-12-20 |
 | [هذا سنابي](https://open.spotify.com/track/3doZhyrtZ1p1ofO0hAp1Ve) | [ابو حنظله](https://open.spotify.com/artist/6VKZZWZui2euVAS6CbIbbj) | [هذا سنابي](https://open.spotify.com/album/2qJ04Mg4Xe8zhQTjB34slE) | 3:20 | 2023-07-11 | 2024-04-11 |
 | [هذي السعودية](https://open.spotify.com/track/2ALbR9ZUg2ZCyvSKLUj8iU) | [فهد بن جازع](https://open.spotify.com/artist/7zomIMNBDA13luA3e2VZZH) | [هذي السعودية](https://open.spotify.com/album/7zoH3dM5vkCTk813x4g49z) | 4:29 | 2025-09-22 |  |
+| [هزتك الطواري](https://open.spotify.com/track/1J4dgHB8BPkch94uf6xdMg) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg), [فالح بن فصلا](https://open.spotify.com/artist/1DHRyIdhWKNu1nQzLP1A1T) | [هزتك الطواري](https://open.spotify.com/album/7sOTNZnBic4iN1MOp2X6WV) | 3:08 | 2026-04-23 |  |
 | [هويتك](https://open.spotify.com/track/2wCwMq1udMs7TbMpFg13D2) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [هويتك](https://open.spotify.com/album/2OX0k9xbA3TaBCL5NWl3mN) | 3:37 | 2022-08-31 | 2023-03-15 |
 | [هويتك](https://open.spotify.com/track/6U7cxsbmsvF0NRssvWBWid) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep), [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [هويتك](https://open.spotify.com/album/5YCf0zGLkiAv7vE13eP859) | 3:37 | 2022-03-30 | 2022-11-03 |
 | [هيهات يا قلب](https://open.spotify.com/track/5goAVl38dQSTuFOrr79cjL) | [فالح الطوق](https://open.spotify.com/artist/5Qt6zyL5RYskgj1bH9fK6g) | [هيهات يا قلب](https://open.spotify.com/album/3RKuWvYBRL1bgrBtOgzscL) | 2:22 | 2024-04-10 |  |

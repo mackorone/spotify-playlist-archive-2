@@ -2,7 +2,7 @@
 
 ### [Studenten Zomerhits](https://open.spotify.com/playlist/7fJS0hmCN1MYleLBQDJrqy)
 
-> De beste studentenbangers in één playlist 🍺🔥  \| Cover: Samuel Welten, Bankzitters
+> De beste studentenbangers in één playlist 🍺🔥  \| Cover: Roxy Dekker
 
 136 songs - 6 hr 5 min
 

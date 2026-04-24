@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Myshaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,933 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,948 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 7 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 |
 | 8 | [Cool Down](https://open.spotify.com/track/6uJaTP7EbaHXJ5PM09s0uV) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [This Is The Life](https://open.spotify.com/album/3m89meycBx0T7hYBhj2kkq) | 3:31 |
 | 9 | [Let's Do It Again](https://open.spotify.com/track/2hU6oM0KUN1gzBf8PY0MOD) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog](https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI) | 3:12 |
-| 10 | [Love Me](https://open.spotify.com/track/6HwcP1XamKZwjAmcdBN2Pk) | [Fia](https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W) | [Love Me](https://open.spotify.com/album/3XedtVc8Dx4e5kXLK36uYB) | 4:24 |
-| 11 | [Stone Love](https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Kona Town](https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4) | 4:14 |
+| 10 | [Stone Love](https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Kona Town](https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4) | 4:14 |
+| 11 | [Love Me](https://open.spotify.com/track/6HwcP1XamKZwjAmcdBN2Pk) | [Fia](https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W) | [Love Me](https://open.spotify.com/album/3XedtVc8Dx4e5kXLK36uYB) | 4:24 |
 | 12 | [Every Night Every Morning](https://open.spotify.com/track/47NGRxSaEtJznNQ17dFg4c) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Maoli Music Overload](https://open.spotify.com/album/01tY1pAcZ2Lp4Pys8ah19d) | 3:17 |
 | 13 | [Wade In Your Water](https://open.spotify.com/track/6DoYk3QIvkDs60S1d01vbx) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Summer Anthems](https://open.spotify.com/album/5sFwkNJZg9vxc9YhiGtxZk) | 3:04 |
 | 14 | [Love I](https://open.spotify.com/track/4H1aZMAqnzICsnFVDf6Lxc) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh) | [The Green](https://open.spotify.com/album/37Qr8WHL9Pa1BYEeKDxaJ6) | 3:38 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 55 | [Coming Home](https://open.spotify.com/track/1U5RZIFFdCSGC3M66Hfz7C) | [PAUA](https://open.spotify.com/artist/0qmDXiQHxN2ErIEJ0ShYoD) | [Paua](https://open.spotify.com/album/53Fwh7HQpRAdnjjMFVVzj1) | 5:32 |
 | 56 | [Roady](https://open.spotify.com/track/2qSQ3ecDCuhp3NiY6Jc8Mh) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Based on a True Story](https://open.spotify.com/album/7eX7m3vqI4ovUBMEh3f4GU) | 7:09 |
 | 57 | [One Night Dance](https://open.spotify.com/track/4AxBpENBK3iT3uLiKTkm8D) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Kennyon Brown](https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5) | [One Night Dance](https://open.spotify.com/album/4ChcRmEy1d7Nq0OOEDM0hP) | 3:14 |
-| 58 | [Souljah Feeling](https://open.spotify.com/track/2Plq6KG55s843PdMT1Yurn) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Chad Chambers](https://open.spotify.com/artist/3afbPu5x8f61qABONqINA3) | [One](https://open.spotify.com/album/77Qc0TCXokpAnt751M6ii5) | 3:24 |
-| 59 | [Island King](https://open.spotify.com/track/6eDyCEs63asmKPLRIBL3wc) | [Tenelle](https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs), [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6) | [This Is X](https://open.spotify.com/album/1Ll3kmja01oIbbLKJkLv7t) | 3:49 |
+| 58 | [Island King](https://open.spotify.com/track/6eDyCEs63asmKPLRIBL3wc) | [Tenelle](https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs), [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6) | [This Is X](https://open.spotify.com/album/1Ll3kmja01oIbbLKJkLv7t) | 3:49 |
+| 59 | [Souljah Feeling](https://open.spotify.com/track/2Plq6KG55s843PdMT1Yurn) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Chad Chambers](https://open.spotify.com/artist/3afbPu5x8f61qABONqINA3) | [One](https://open.spotify.com/album/77Qc0TCXokpAnt751M6ii5) | 3:24 |
 | 60 | [That's The Way It Is](https://open.spotify.com/track/7KqpvPegNT530G3nAIfZ49) | [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA), [Folau](https://open.spotify.com/artist/0jj9Os8Krjis4OFaps08Km) | [That's The Way It Is](https://open.spotify.com/album/6pbOzrWNjX71ImAKpJSlvu) | 3:51 |
 | 61 | [What's Up](https://open.spotify.com/track/0hb5i5zsp4hPA0WMXu3Kf7) | [KUKI](https://open.spotify.com/artist/0Ys93xAGNkGBgPuPxYpv49), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [What's Up](https://open.spotify.com/album/4CS7k60oGImQ1J6tuUFQeg) | 4:38 |
 | 62 | [Long White Cloud](https://open.spotify.com/track/5GoOe77gWuqjzp8ESNFdZ9) | [Israel Starr](https://open.spotify.com/artist/2RU8SlXTX6tBiFAKCGioui), [Awa](https://open.spotify.com/artist/19LpP7w37NXREZFCZ0K87P), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [The Producers Chair Dancehall, Vol\. 1](https://open.spotify.com/album/3zIR1sUyNwgVOuNdjBHEow) | 3:29 |

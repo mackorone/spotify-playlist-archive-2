@@ -4,7 +4,7 @@
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-193 songs - 11 hr 14 min
+194 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Blue Ridge Mountains](https://open.spotify.com/track/6uMLaQcGvs5Jv9Cgiq3nWo) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs) | 2:51 | 2023-11-10 | 2026-02-21 |
 | [Bluephoria](https://open.spotify.com/track/5tovAkdf2TFnrGjIky5AoA) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bluephoria](https://open.spotify.com/album/0ysRyDkvfLlzOMPGOYzNZe) | 4:32 | 2024-07-14 | 2024-08-10 |
 | [Bluephoria](https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bluephoria](https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB) | 4:32 | 2024-08-10 | 2025-02-03 |
-| [Bluephoria](https://open.spotify.com/track/1VBIGJaKmOPcVcblzIlZk4) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 4:33 | 2025-02-03 |  |
+| [Bluephoria](https://open.spotify.com/track/1VBIGJaKmOPcVcblzIlZk4) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 4:33 | 2025-02-03 | 2026-04-24 |
+| [Bluephoria](https://open.spotify.com/track/7Do8H5FJLqlNWucdTN7AmN) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2) | 4:33 | 2026-04-24 |  |
 | [Blunt](https://open.spotify.com/track/22KxHFvbIk1r3N5gK7Q5vD) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo) | 3:24 | 2022-08-05 | 2022-11-14 |
 | [Bolt Cutters & The Family Name](https://open.spotify.com/track/1RCqVVgPQNfUT1LCEwGJnY) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:15 | 2022-11-13 |  |
 | [Bolt Cutters & The Family Name](https://open.spotify.com/track/2fot2MgDtVoInxjid9SeLf) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 | 2025-04-29 | 2025-07-20 |
@@ -119,7 +120,7 @@
 | [Kick the Blues](https://open.spotify.com/track/3Ew6JCug88Q7ErOEuivKvO) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:26 | 2022-11-13 | 2023-02-16 |
 | [Killing Time](https://open.spotify.com/track/6m9keSvNWf8XFzs5aTK1co) | [Blair Dunlop](https://open.spotify.com/artist/7n6bYneSU1ygSj0CevdvTD), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Killing Time](https://open.spotify.com/album/5ZQXwmQwqasO0qWa7yIO1R) | 2:22 | 2023-08-30 | 2026-01-26 |
 | [Lips as Cold as Diamond](https://open.spotify.com/track/6upK1XPCPnq0uO6hyLA0yE) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:42 | 2022-11-13 | 2022-11-19 |
-| [Little Bit](https://open.spotify.com/track/0zC6UhoAauAwCJ4vaEtcA9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 4:06 | 2025-01-30 | 2026-04-11 |
+| [Little Bit](https://open.spotify.com/track/0zC6UhoAauAwCJ4vaEtcA9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 4:06 | 2025-01-30 |  |
 | [Little Bit](https://open.spotify.com/track/3sLdMFrezce5J3vwH3yVYK) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Little Bit](https://open.spotify.com/album/6FcCMcEt2qmaHtkZaJuWEh) | 4:06 | 2024-12-06 | 2025-01-30 |
 | [Look Away](https://open.spotify.com/track/3Fs7ryKbs2I90v1BCYWet0) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 3:24 | 2022-08-05 | 2023-06-19 |
 | [Look Away](https://open.spotify.com/track/3jDyuGn0phTE1pqNrBXRek) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi) | 3:24 | 2023-06-18 | 2026-02-05 |
@@ -141,7 +142,7 @@
 | [Nowhere Fast](https://open.spotify.com/track/4O65OTIE0r8ak5klJoJUe5) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 4:00 | 2025-01-27 |  |
 | [One and Lonely](https://open.spotify.com/track/0mEFu5GO1uwtO6ld9MUCON) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Electrified](https://open.spotify.com/album/0w5dfWITAlYVsInFzVtnXH) | 2:43 | 2024-05-12 | 2025-06-22 |
 | [P\-R\-O\-B\-L\-E\-M](https://open.spotify.com/track/39H4oaLj3DgbkFmFSY76fY) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo) | 3:23 | 2022-08-05 | 2022-11-14 |
-| [Pearls](https://open.spotify.com/track/6UmsDKfCYFre7UcMGo0eer) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 4:03 | 2025-01-27 |  |
+| [Pearls](https://open.spotify.com/track/6UmsDKfCYFre7UcMGo0eer) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 4:03 | 2025-01-27 | 2026-04-24 |
 | [Preachin' Blues](https://open.spotify.com/track/2oVDBaesJPlOsvr3FmRIFW) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 3:21 | 2022-08-05 | 2023-06-18 |
 | [Preachin' Blues](https://open.spotify.com/track/3Mi6mtEZ2MopQ7MKfkWl9f) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz) | 3:21 | 2024-03-10 |  |
 | [Preachin' Blues](https://open.spotify.com/track/4EawAVDF7WBbWj7gGLSjP3) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi) | 3:21 | 2023-06-17 | 2026-03-23 |

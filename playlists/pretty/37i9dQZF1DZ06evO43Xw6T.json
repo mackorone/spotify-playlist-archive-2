@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 183056,
+  "num_followers": 183077,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAABwF/aIeiDQ0Qa+hpE08MPi",
+  "snapshot_id": "aegPgAAAAAD/mh68XmlB6rMH9RT8Ps4K",
   "tracks": [
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE GB",
-        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 181503,
-      "name": "Sad Loqueron",
-      "url": "https://open.spotify.com/track/1VykDC2twhsRrlhgxJHKRZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Si Me Miran",
         "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
       },
@@ -779,22 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viernes",
-        "url": "https://open.spotify.com/album/0MKiLFZDfMtcE3Rm0q97np"
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
       },
       "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 158146,
-      "name": "Viernes",
-      "url": "https://open.spotify.com/track/65XrIEcTcp5AshJT4Q3LOm"
+      "duration_ms": 181503,
+      "name": "Sad Loqueron",
+      "url": "https://open.spotify.com/track/1VykDC2twhsRrlhgxJHKRZ"
     },
     {
       "added_at": null,
@@ -819,6 +799,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/0MKiLFZDfMtcE3Rm0q97np"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 158146,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/65XrIEcTcp5AshJT4Q3LOm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Vida Mi Muerte",
         "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
       },
@@ -835,26 +835,6 @@
       "duration_ms": 187281,
       "name": "Pegaso",
       "url": "https://open.spotify.com/track/2fsGiCx2MgrM0zKLt55S7v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On The Road",
-        "url": "https://open.spotify.com/album/7yQ1S9MYxf97ODMA9cdZiW"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "La Pelinegra",
-      "url": "https://open.spotify.com/track/4kVrTtUI2bVYk25HcoHFHt"
     },
     {
       "added_at": null,
@@ -879,22 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "REGALO DE DIOS",
-        "url": "https://open.spotify.com/album/7v0P9sc9ZS62U6UB9c7B16"
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/7yQ1S9MYxf97ODMA9cdZiW"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         },
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 270328,
-      "name": "REGALO DE DIOS",
-      "url": "https://open.spotify.com/track/1CpICQpUz3ZrHcJs84oAbH"
+      "duration_ms": 155560,
+      "name": "La Pelinegra",
+      "url": "https://open.spotify.com/track/4kVrTtUI2bVYk25HcoHFHt"
     },
     {
       "added_at": null,
@@ -919,6 +899,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "REGALO DE DIOS",
+        "url": "https://open.spotify.com/album/7v0P9sc9ZS62U6UB9c7B16"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 270328,
+      "name": "REGALO DE DIOS",
+      "url": "https://open.spotify.com/track/1CpICQpUz3ZrHcJs84oAbH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Redenci\u00f3n",
         "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
       },
@@ -935,26 +935,6 @@
       "duration_ms": 180720,
       "name": "Te Enga\u00f1\u00e9",
       "url": "https://open.spotify.com/track/4Gl4DGopis01oDfkmM5BWF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eso Si Es De Gangster",
-        "url": "https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 164627,
-      "name": "Esa Wera",
-      "url": "https://open.spotify.com/track/2AF5ZgfsVm16nnHQju7oPM"
     },
     {
       "added_at": null,
@@ -979,22 +959,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV",
-        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+        "name": "Eso Si Es De Gangster",
+        "url": "https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
         },
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 169758,
-      "name": "M\u00e1s Perr\u00f3n Con los Balenciaga",
-      "url": "https://open.spotify.com/track/0iTAeCd05itdDZFkIkwmq3"
+      "duration_ms": 164627,
+      "name": "Esa Wera",
+      "url": "https://open.spotify.com/track/2AF5ZgfsVm16nnHQju7oPM"
     },
     {
       "added_at": null,
@@ -1015,6 +995,26 @@
       "duration_ms": 189869,
       "name": "SARGENTO",
       "url": "https://open.spotify.com/track/4zi3rwIYv1Q6slxn620w8P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 169758,
+      "name": "M\u00e1s Perr\u00f3n Con los Balenciaga",
+      "url": "https://open.spotify.com/track/0iTAeCd05itdDZFkIkwmq3"
     },
     {
       "added_at": null,

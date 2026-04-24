@@ -8771,6 +8771,24 @@
     },
     {
       "album": {
+        "name": "Far",
+        "url": "https://open.spotify.com/album/4uBudhdPJ0Qq6irWpmZrrH"
+      },
+      "artists": [
+        {
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141265,
+      "name": "Far",
+      "url": "https://open.spotify.com/track/5Fg1ecVcWgzrAV7IkVjuLC"
+    },
+    {
+      "album": {
         "name": "FARA F\u00d6R TRAFIKEN",
         "url": "https://open.spotify.com/album/7vjxp2ZjvCwrwts0KrpBlQ"
       },
@@ -15621,6 +15639,28 @@
     },
     {
       "album": {
+        "name": "Ja Eller Nej",
+        "url": "https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        },
+        {
+          "name": "Basshunter",
+          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152691,
+      "name": "Ja Eller Nej",
+      "url": "https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR"
+    },
+    {
+      "album": {
         "name": "Ja m\u00e5 han supa",
         "url": "https://open.spotify.com/album/42ogQLxh4J7sfFIEnuEwIn"
       },
@@ -18838,7 +18878,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 172390,
       "name": "Lys Levende",
       "url": "https://open.spotify.com/track/1mTnJlYhJn44ZjcfMYHdQb"
@@ -19576,7 +19616,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 117333,
       "name": "MER JUL",
       "url": "https://open.spotify.com/track/6tcKK7eoOISx1sIKVlAdDP"
@@ -20270,6 +20310,28 @@
       "duration_ms": 219000,
       "name": "My Feelings",
       "url": "https://open.spotify.com/track/7DIXoZRRwog4KbDTIN7fgN"
+    },
+    {
+      "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/1igBUnHek3kjOoc3KjAJTr"
+      },
+      "artists": [
+        {
+          "name": "Hjorterud All\u00e9",
+          "url": "https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7"
+        },
+        {
+          "name": "Sleiken",
+          "url": "https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128307,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/5PRkEy2WzT2fYeWo65u9Yx"
     },
     {
       "album": {

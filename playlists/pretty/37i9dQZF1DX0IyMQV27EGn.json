@@ -1,6 +1,6 @@
 {
   "description": "sultry and seductive feminine energy \ud83d\udd2a cover: Marilyn Monroe",
-  "num_followers": 1453021,
+  "num_followers": 1453374,
   "original_name": "Femme Fatale",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-08-15 15:05:01",
       "album": {
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 298400,
+      "name": "Heaven or Las Vegas",
+      "url": "https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok"
+    },
+    {
+      "added_at": "2025-08-15 15:05:01",
+      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 206722,
       "name": "Paris, Texas (feat. SYML)",
       "url": "https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO"
-    },
-    {
-      "added_at": "2025-08-15 15:05:01",
-      "album": {
-        "name": "Heaven or Las Vegas",
-        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 298400,
-      "name": "Heaven or Las Vegas",
-      "url": "https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok"
     },
     {
       "added_at": "2025-08-15 15:05:01",

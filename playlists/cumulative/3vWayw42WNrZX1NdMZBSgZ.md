@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Manuel Turizo , Shakira, Rauw Alejandro and more!!! Cover: Shakira &amp; Beéle
 
-954 songs - 2 day 2 hr 45 min
+955 songs - 2 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Dame Break](https://open.spotify.com/track/7LVyfGaXMOu4bsLdluFFLc) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Dame Break](https://open.spotify.com/album/6bMIvydO8SPINO43xbqiJF) | 3:31 | 2022-07-07 | 2023-05-26 |
 | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg) | 3:00 | 2023-03-29 | 2023-06-01 |
 | [Dancing in the Moonlight](https://open.spotify.com/track/3H0MZWoFs9THnbYbjFkeHn) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ETERNO](https://open.spotify.com/album/2QIiq3VZhg6GNB2JGdU7tm) | 2:40 | 2025-05-21 | 2025-11-22 |
+| [Dando Vueltas](https://open.spotify.com/track/60vtpwMWSvG50mv5419s4R) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Dando Vueltas](https://open.spotify.com/album/3U31M9OPy3eT9v4cxaePof) | 3:12 | 2026-04-23 |  |
 | [Dangerous](https://open.spotify.com/track/1B7Wxx58QV4xrCjxI4Uu3i) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Parte de Mí](https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP) | 2:39 | 2022-02-10 | 2023-05-26 |
 | [Dardos](https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Better Late Than Never](https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t) | 4:03 | 2025-11-28 |  |
 | [Darte un Beso](https://open.spotify.com/track/5t0utbhFAKXft3KS1votgM) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Peter Nieto](https://open.spotify.com/artist/3awr6bI2IAMghTMbzv4Pi6) | [Darte un Beso](https://open.spotify.com/album/2DQGvsdkyMxONRjpy7E3Iq) | 4:02 | 2023-05-26 | 2023-06-02 |

@@ -4,7 +4,7 @@
 
 > Hand\-picked grooves.
 
-475 songs - 1 day 4 hr 17 min
+476 songs - 1 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Celebrate](https://open.spotify.com/track/61PmSBnABgBhqKhv33P27n) | [Ebony Winter](https://open.spotify.com/artist/1Ekh3b1IXXH4buiLX1oBJk) | [Celebrate](https://open.spotify.com/album/6w6fnwF3to11WEGJCzM715) | 3:03 | 2024-03-14 | 2025-04-25 |
 | [Ceramic](https://open.spotify.com/track/2jN9H14xlf2KuDsqKV6wsG) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i), [IJALE](https://open.spotify.com/artist/0z2CwWat2P7ABje9hBHfoo) | [Ceramic](https://open.spotify.com/album/7ooSC9euPaRQCGjPMwOMQL) | 4:01 | 2022-09-09 | 2022-09-16 |
 | [CHANTE'S GROOVE](https://open.spotify.com/track/2qMKGSiQvgJAT7J94kloTB) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [CHANTE'S GROOVE](https://open.spotify.com/album/1TV2Jx7E5y7Yg9jul0CP3X) | 3:15 | 2024-01-11 | 2025-05-30 |
+| [Chase Your Tail](https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Chase Your Tail](https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby) | 3:13 | 2026-04-23 |  |
 | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/track/3LCZyDlOXrGPzTESP4PqXt) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/album/1dOzRhBdpIFjBJXxGWJnyg) | 2:55 | 2023-11-02 | 2024-02-02 |
 | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/track/3VnDDruJDou1AIVjloQBzh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/album/1EI3034vDdMkoMD2NgV9z1) | 2:55 | 2023-02-02 | 2023-11-04 |
 | [circles](https://open.spotify.com/track/26EQGfXXAxCnrNA3d5BpfC) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [circles](https://open.spotify.com/album/5QQyX1Cc3XJ4oxLK3Wvpzc) | 2:28 | 2024-03-07 | 2025-11-14 |
@@ -94,7 +95,7 @@
 | [Company](https://open.spotify.com/track/5IDu7Pb1pqeWpmkDarfQwZ) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [SammyB](https://open.spotify.com/artist/5GFqETG1gTsyg32HCBNmjQ), [Dux](https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr) | [Housewife](https://open.spotify.com/album/7y8yy64nFLCHR0NB6VsH0z) | 3:38 | 2024-10-21 |  |
 | [Competition](https://open.spotify.com/track/5dn0MR5bno68I4XDlbqmzI) | [City Park](https://open.spotify.com/artist/6sBplUXsbsTyUAgWo0xHzQ) | [Competition](https://open.spotify.com/album/0rrHKCszdH61BLjgwOu8cn) | 3:20 | 2023-02-17 | 2025-03-28 |
 | [Control](https://open.spotify.com/track/1C26HwnwtIwLlSHJdB2iZw) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Control](https://open.spotify.com/album/3o3OAEZXFVzDavifKXa1aV) | 3:07 | 2022-09-09 | 2023-07-08 |
-| [Could It Be Love](https://open.spotify.com/track/4SGuRDKb78T5tJMGhGPdR9) | [IAMNOBODI](https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg), [Hugh Augustine](https://open.spotify.com/artist/48ehq0jR23nak2ZDDU6uff), [Todd Zack Jr.](https://open.spotify.com/artist/2bt82NyaCILDtSoTHlwdMl) | [Could It Be Love](https://open.spotify.com/album/0Q0IYSjbhb4jRLuBgcDMsI) | 2:58 | 2024-07-29 |  |
+| [Could It Be Love](https://open.spotify.com/track/4SGuRDKb78T5tJMGhGPdR9) | [IAMNOBODI](https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg), [Hugh Augustine](https://open.spotify.com/artist/48ehq0jR23nak2ZDDU6uff), [Todd Zack Jr.](https://open.spotify.com/artist/2bt82NyaCILDtSoTHlwdMl) | [Could It Be Love](https://open.spotify.com/album/0Q0IYSjbhb4jRLuBgcDMsI) | 2:58 | 2024-07-29 | 2026-04-24 |
 | [Counterfeit](https://open.spotify.com/track/5qIRiXFqGI65EZuYtfyY53) | [HOLOW](https://open.spotify.com/artist/0iFmnAL0wjQU7r07tV4J09), [Eliza Roe](https://open.spotify.com/artist/1Y0jbCdHXiQlyV2fhxroqW) | [Counterfeit](https://open.spotify.com/album/24dCga7ILfqzQWDmAppQiy) | 2:49 | 2022-09-09 | 2022-10-15 |
 | [Curious](https://open.spotify.com/track/5xzBNmj3NUGsQ9O1VLelKe) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Curious](https://open.spotify.com/album/5hOKdnm5Aba2WQI7k64Pom) | 3:42 | 2022-09-09 | 2022-10-15 |
 | [Currency \(Count On Me\) \(ft Cimafunk and PAMÉ\)](https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [On A Trip](https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN) | 3:17 | 2025-02-03 |  |

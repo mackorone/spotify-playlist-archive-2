@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: supercatkei
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,452 likes - 38 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,453 likes - 38 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 | 37 | [Tulips \(Stage Edit\)](https://open.spotify.com/track/2zc01klD7NZTPeHiPHQiS8) | [WHYLUCAS](https://open.spotify.com/artist/4Q2XtNhjSHHeEC1q4QbM5z) | [ORANGE JUICE BOX](https://open.spotify.com/album/0BQUOCZhZ7Tr7kkF004AQn) | 2:23 |
 | 38 | [Weekend Plans \(Stage Edit\)](https://open.spotify.com/track/0oOCNePtMw1xp5Gz4wYyge) | [WHYLUCAS](https://open.spotify.com/artist/4Q2XtNhjSHHeEC1q4QbM5z) | [ORANGE JUICE BOX](https://open.spotify.com/album/0BQUOCZhZ7Tr7kkF004AQn) | 3:25 |
 
-Snapshot ID: `AAAAAEFZj1cC2/0iHRzyd7Drxpf/H05y`
+Snapshot ID: `AAAAADglIuTa9EXx/f8gsHFglQIiMBYL`

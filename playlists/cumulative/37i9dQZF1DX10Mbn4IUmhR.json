@@ -573,6 +573,24 @@
     },
     {
       "album": {
+        "name": "All The Things",
+        "url": "https://open.spotify.com/album/2RGi75eKSdLPC99WnzMggs"
+      },
+      "artists": [
+        {
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "All The Things",
+      "url": "https://open.spotify.com/track/0Wknp7wThnRkNl2xw4h19g"
+    },
+    {
+      "album": {
         "name": "How To Be Human",
         "url": "https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe"
       },
@@ -8585,6 +8603,24 @@
     },
     {
       "album": {
+        "name": "My Hallelujah",
+        "url": "https://open.spotify.com/album/1xe4bQw3TDN3sFzTD4nrcL"
+      },
+      "artists": [
+        {
+          "name": "SaxbyTwins",
+          "url": "https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179893,
+      "name": "My Hallelujah",
+      "url": "https://open.spotify.com/track/1Dd3Id44SgNl259jeJGSQ6"
+    },
+    {
+      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
@@ -12538,6 +12574,24 @@
       "duration_ms": 281560,
       "name": "Thinking out Loud",
       "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "album": {
+        "name": "THIRTY THR33",
+        "url": "https://open.spotify.com/album/6nWpLB3vPx87yFsRxTf8tz"
+      },
+      "artists": [
+        {
+          "name": "Erin Elliot",
+          "url": "https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176656,
+      "name": "THIRTY THR33",
+      "url": "https://open.spotify.com/track/72ENQ88U6QPVJKjeco45lW"
     },
     {
       "album": {

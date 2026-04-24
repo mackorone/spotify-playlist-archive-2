@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 339696,
+  "num_followers": 339771,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-12-01 13:20:09",
       "album": {
-        "name": "Te Llevas Mi Vida",
-        "url": "https://open.spotify.com/album/1sXfRjfRtUWwwBwugKsxzR"
-      },
-      "artists": [
-        {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
-        }
-      ],
-      "duration_ms": 232248,
-      "name": "Te Llevas Mi Vida",
-      "url": "https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N"
-    },
-    {
-      "added_at": "2025-12-01 13:20:09",
-      "album": {
         "name": "Como Fui a Enamorarme de Ti",
         "url": "https://open.spotify.com/album/4FcwPA4QdPzgXsDykQHblR"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 254194,
       "name": "Como Fui a Enamorarme de Ti",
       "url": "https://open.spotify.com/track/0il6l9iz9KKcLPJR6RCSiJ"
+    },
+    {
+      "added_at": "2025-12-01 13:20:09",
+      "album": {
+        "name": "Te Llevas Mi Vida",
+        "url": "https://open.spotify.com/album/1sXfRjfRtUWwwBwugKsxzR"
+      },
+      "artists": [
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+        }
+      ],
+      "duration_ms": 232248,
+      "name": "Te Llevas Mi Vida",
+      "url": "https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N"
     },
     {
       "added_at": "2025-12-01 13:20:09",

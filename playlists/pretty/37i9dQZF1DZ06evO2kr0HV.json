@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 41788,
+  "num_followers": 41793,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAADB1HSDIhUDipT2cmS8NgrP",
+  "snapshot_id": "aegPgAAAAABZSQHk0vUZgMZ8SCPKjuK/",
   "tracks": [
     {
       "added_at": null,
@@ -131,18 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+        "name": "Problemas de Conversaci\u00f3n",
+        "url": "https://open.spotify.com/album/2PfTXHRmn6UVpa48VXFtc8"
       },
       "artists": [
+        {
+          "name": "Ana Torroja",
+          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
+        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 187746,
-      "name": "Reina Leona",
-      "url": "https://open.spotify.com/track/4fcZ0HZdaloV9ZSU3xPPD5"
+      "duration_ms": 176639,
+      "name": "Problemas de Conversaci\u00f3n",
+      "url": "https://open.spotify.com/track/0g28lX74uH6EYchTkuY26O"
     },
     {
       "added_at": null,
@@ -167,22 +171,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Problemas de Conversaci\u00f3n",
-        "url": "https://open.spotify.com/album/2PfTXHRmn6UVpa48VXFtc8"
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
       },
       "artists": [
-        {
-          "name": "Ana Torroja",
-          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
-        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 176639,
-      "name": "Problemas de Conversaci\u00f3n",
-      "url": "https://open.spotify.com/track/0g28lX74uH6EYchTkuY26O"
+      "duration_ms": 187746,
+      "name": "Reina Leona",
+      "url": "https://open.spotify.com/track/4fcZ0HZdaloV9ZSU3xPPD5"
     },
     {
       "added_at": null,
@@ -283,22 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piensa en m\u00ed",
-        "url": "https://open.spotify.com/album/5rMtRy2rK07v1CSthUb8ev"
+        "name": "El Observador",
+        "url": "https://open.spotify.com/album/2LKVBvvtASD8v1213UXXw3"
       },
       "artists": [
         {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+          "name": "Duplat",
+          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
         },
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 173102,
-      "name": "Piensa en m\u00ed",
-      "url": "https://open.spotify.com/track/1XwNYoMOeD7399kxslic0Q"
+      "duration_ms": 155179,
+      "name": "El Observador",
+      "url": "https://open.spotify.com/track/21tti59fYYrESA5SjxY5Ep"
     },
     {
       "added_at": null,
@@ -323,18 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ca\u00f3tica Belleza",
-        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+        "name": "Piensa en m\u00ed",
+        "url": "https://open.spotify.com/album/5rMtRy2rK07v1CSthUb8ev"
       },
       "artists": [
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 222573,
-      "name": "Baila",
-      "url": "https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt"
+      "duration_ms": 173102,
+      "name": "Piensa en m\u00ed",
+      "url": "https://open.spotify.com/track/1XwNYoMOeD7399kxslic0Q"
     },
     {
       "added_at": null,
@@ -359,22 +363,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Observador",
-        "url": "https://open.spotify.com/album/2LKVBvvtASD8v1213UXXw3"
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
       "artists": [
-        {
-          "name": "Duplat",
-          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
-        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 155179,
-      "name": "El Observador",
-      "url": "https://open.spotify.com/track/21tti59fYYrESA5SjxY5Ep"
+      "duration_ms": 222573,
+      "name": "Baila",
+      "url": "https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt"
     },
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 238508,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esa Parte de M\u00ed",
         "url": "https://open.spotify.com/album/1fzcF6XsOj2O9UfxJm0LZd"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 215200,
       "name": "Esa Parte de M\u00ed",
       "url": "https://open.spotify.com/track/5zE2XYc6zON8lIYgDi6ZvP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 238508,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n"
     },
     {
       "added_at": null,

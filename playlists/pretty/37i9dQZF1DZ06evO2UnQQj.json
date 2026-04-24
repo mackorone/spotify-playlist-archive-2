@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAACWfJZDPSuDR1qRmyBm03/z",
+  "snapshot_id": "aegPgAAAAAD/cHr6Dif1k3XbxN73LBux",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cris\u00e1lida",
+        "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
+      },
+      "artists": [
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "GvsnoBeat",
+          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
+        }
+      ],
+      "duration_ms": 209190,
+      "name": "Pr\u00f3logo",
+      "url": "https://open.spotify.com/track/1RID9maPNRdtSnoeoQcZ6K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prefacio De Rua",
         "url": "https://open.spotify.com/album/2sBruaXjia3MXwFtfV9MKK"
       },
@@ -87,30 +111,6 @@
       "duration_ms": 288000,
       "name": "Prefacio De Rua",
       "url": "https://open.spotify.com/track/2K0823iX1o3hIQmdJJ2K47"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cris\u00e1lida",
-        "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
-      },
-      "artists": [
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
-        },
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "GvsnoBeat",
-          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
-        }
-      ],
-      "duration_ms": 209190,
-      "name": "Pr\u00f3logo",
-      "url": "https://open.spotify.com/track/1RID9maPNRdtSnoeoQcZ6K"
     },
     {
       "added_at": null,
@@ -207,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oxig\u00eanio (Corona Disco)",
+        "url": "https://open.spotify.com/album/7K4Sn0GxfcQnlcV46ZOaT2"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "O Mundo \u00c9 Mal",
+      "url": "https://open.spotify.com/track/1y4YjracziQfQsq8nnGPFz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lado Sul",
         "url": "https://open.spotify.com/album/02f3dECJtPG9gSY84a9p0A"
       },
@@ -279,26 +299,6 @@
       "duration_ms": 414703,
       "name": "Poetisas no Topo 4",
       "url": "https://open.spotify.com/track/5eAsjTMGdKEUgNhRJUc9YU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oxig\u00eanio (Corona Disco)",
-        "url": "https://open.spotify.com/album/7K4Sn0GxfcQnlcV46ZOaT2"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "O Mundo \u00c9 Mal",
-      "url": "https://open.spotify.com/track/1y4YjracziQfQsq8nnGPFz"
     },
     {
       "added_at": null,
@@ -563,6 +563,66 @@
     {
       "added_at": null,
       "album": {
+        "name": "As Ruas Sabem",
+        "url": "https://open.spotify.com/album/3l5UJy9plzuyP5JtimkmwN"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Smile",
+          "url": "https://open.spotify.com/artist/5qnRxQly5FwObKQHVRHRGD"
+        },
+        {
+          "name": "Madre Beatz",
+          "url": "https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj"
+        }
+      ],
+      "duration_ms": 170501,
+      "name": "Demanda",
+      "url": "https://open.spotify.com/track/4ZT9Qr6fbClWgOQ4miaGm8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hey Marciano",
+        "url": "https://open.spotify.com/album/5fWT4FPBFchp0aLGMaMAS2"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Novivo Shomon",
+          "url": "https://open.spotify.com/artist/3C3whOcgUxNtP5PPupMaFP"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        }
+      ],
+      "duration_ms": 387653,
+      "name": "Hey Marciano",
+      "url": "https://open.spotify.com/track/0mKumhHljkgCIRgdoLo5OJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cavalo de Tr\u00f3ia #2",
         "url": "https://open.spotify.com/album/4NVBuisgPTrEQ4qBha0O5N"
       },
@@ -619,42 +679,6 @@
       "duration_ms": 220417,
       "name": "Carac\u00f3is",
       "url": "https://open.spotify.com/track/6yLFf48QrEUjYNv8tH60Xt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hey Marciano",
-        "url": "https://open.spotify.com/album/5fWT4FPBFchp0aLGMaMAS2"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Novivo Shomon",
-          "url": "https://open.spotify.com/artist/3C3whOcgUxNtP5PPupMaFP"
-        },
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        }
-      ],
-      "duration_ms": 387653,
-      "name": "Hey Marciano",
-      "url": "https://open.spotify.com/track/0mKumhHljkgCIRgdoLo5OJ"
     },
     {
       "added_at": null,
@@ -795,6 +819,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "SOLAR",
+        "url": "https://open.spotify.com/album/4eUgqY4dye3VLv1WPvx1U5"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 170890,
+      "name": "Sem Pressa",
+      "url": "https://open.spotify.com/track/2OXDQSebDxwzT7hdIwvnA2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SELFIE",
         "url": "https://open.spotify.com/album/53QAxf8tki7iAQqmVrFfKT"
       },
@@ -815,6 +863,26 @@
       "duration_ms": 172486,
       "name": "Tudo Muda",
       "url": "https://open.spotify.com/track/3i9LDg1PoYhwnHW5F4KFGh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As Ruas Sabem",
+        "url": "https://open.spotify.com/album/3l5UJy9plzuyP5JtimkmwN"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Marab\u00e1",
+          "url": "https://open.spotify.com/artist/1OFNGjmUYfbEvwMFcqgJgB"
+        }
+      ],
+      "duration_ms": 98899,
+      "name": "Bom Dia",
+      "url": "https://open.spotify.com/track/6x9A2UGJpBPBP0lJSFyLoU"
     },
     {
       "added_at": null,
@@ -847,50 +915,6 @@
       "duration_ms": 328728,
       "name": "Inimigos",
       "url": "https://open.spotify.com/track/2WQ317B0bYBxDgQ5MJfh72"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "As Ruas Sabem",
-        "url": "https://open.spotify.com/album/3l5UJy9plzuyP5JtimkmwN"
-      },
-      "artists": [
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Marab\u00e1",
-          "url": "https://open.spotify.com/artist/1OFNGjmUYfbEvwMFcqgJgB"
-        }
-      ],
-      "duration_ms": 98899,
-      "name": "Bom Dia",
-      "url": "https://open.spotify.com/track/6x9A2UGJpBPBP0lJSFyLoU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOLAR",
-        "url": "https://open.spotify.com/album/4eUgqY4dye3VLv1WPvx1U5"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 170890,
-      "name": "Sem Pressa",
-      "url": "https://open.spotify.com/track/2OXDQSebDxwzT7hdIwvnA2"
     },
     {
       "added_at": null,
@@ -943,8 +967,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "As Ruas Sabem",
-        "url": "https://open.spotify.com/album/3l5UJy9plzuyP5JtimkmwN"
+        "name": "Transgress\u00e3o",
+        "url": "https://open.spotify.com/album/5ac65gr68DChHCJXUgp5h0"
       },
       "artists": [
         {
@@ -952,17 +976,13 @@
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
         },
         {
-          "name": "Smile",
-          "url": "https://open.spotify.com/artist/5qnRxQly5FwObKQHVRHRGD"
-        },
-        {
-          "name": "Madre Beatz",
-          "url": "https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj"
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/2cKrwI4ZsJcAUFji0X28Qo"
         }
       ],
-      "duration_ms": 170501,
-      "name": "Demanda",
-      "url": "https://open.spotify.com/track/4ZT9Qr6fbClWgOQ4miaGm8"
+      "duration_ms": 220177,
+      "name": "Vida Luxo",
+      "url": "https://open.spotify.com/track/7LLJ3MTatewTrIfWhzJfj2"
     },
     {
       "added_at": null,
@@ -983,34 +1003,6 @@
       "duration_ms": 240018,
       "name": "Hoje Eu to Bem",
       "url": "https://open.spotify.com/track/09pmWLs3EKOLEzPZ1vrxGs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vinhos & Fuma\u00e7a",
-        "url": "https://open.spotify.com/album/1PBarGUYAMSwXOAouGVLDw"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Black Queen",
-          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
-        },
-        {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        }
-      ],
-      "duration_ms": 192631,
-      "name": "Sequencia de Bal\u00e3ozada",
-      "url": "https://open.spotify.com/track/652yunYQ9VhDXwrm20cx5N"
     },
     {
       "added_at": null,
@@ -1043,70 +1035,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Transgress\u00e3o",
-        "url": "https://open.spotify.com/album/5ac65gr68DChHCJXUgp5h0"
+        "name": "Vinhos & Fuma\u00e7a",
+        "url": "https://open.spotify.com/album/1PBarGUYAMSwXOAouGVLDw"
       },
       "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
         {
           "name": "Clara Lima",
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
         },
         {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/2cKrwI4ZsJcAUFji0X28Qo"
+          "name": "Black Queen",
+          "url": "https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv"
+        },
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
         }
       ],
-      "duration_ms": 220177,
-      "name": "Vida Luxo",
-      "url": "https://open.spotify.com/track/7LLJ3MTatewTrIfWhzJfj2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eskibaile",
-        "url": "https://open.spotify.com/album/5AA7WwdqI8dQheLWmYpleQ"
-      },
-      "artists": [
-        {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        },
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        }
-      ],
-      "duration_ms": 211485,
-      "name": "Andar (feat. Clara Lima)",
-      "url": "https://open.spotify.com/track/6s2qzMIO4ZkbDCae8dADAX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A LIRA",
-        "url": "https://open.spotify.com/album/2EytQiE1KroK9Bq9d9H4mq"
-      },
-      "artists": [
-        {
-          "name": "Bandolla Records BD2L",
-          "url": "https://open.spotify.com/artist/5e5cOOlUYn0IAMpLBC5eQ4"
-        },
-        {
-          "name": "Braga BD2L",
-          "url": "https://open.spotify.com/artist/5YJ9N78nzojEG1eTlvLvEt"
-        },
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "N\u00e3o Ta F\u00e1cil Pra Malandro",
-      "url": "https://open.spotify.com/track/2Gam9oDYQ4tc57sZMqZB9c"
+      "duration_ms": 192631,
+      "name": "Sequencia de Bal\u00e3ozada",
+      "url": "https://open.spotify.com/track/652yunYQ9VhDXwrm20cx5N"
     },
     {
       "added_at": null,
@@ -1139,6 +1091,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eskibaile",
+        "url": "https://open.spotify.com/album/5AA7WwdqI8dQheLWmYpleQ"
+      },
+      "artists": [
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        }
+      ],
+      "duration_ms": 211485,
+      "name": "Andar (feat. Clara Lima)",
+      "url": "https://open.spotify.com/track/6s2qzMIO4ZkbDCae8dADAX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SELFIE",
         "url": "https://open.spotify.com/album/53QAxf8tki7iAQqmVrFfKT"
       },
@@ -1159,6 +1135,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "A LIRA",
+        "url": "https://open.spotify.com/album/2EytQiE1KroK9Bq9d9H4mq"
+      },
+      "artists": [
+        {
+          "name": "Bandolla Records BD2L",
+          "url": "https://open.spotify.com/artist/5e5cOOlUYn0IAMpLBC5eQ4"
+        },
+        {
+          "name": "Braga BD2L",
+          "url": "https://open.spotify.com/artist/5YJ9N78nzojEG1eTlvLvEt"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "N\u00e3o Ta F\u00e1cil Pra Malandro",
+      "url": "https://open.spotify.com/track/2Gam9oDYQ4tc57sZMqZB9c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "6Ballas",
         "url": "https://open.spotify.com/album/0e7Nh9nhOSiydvU1P49co7"
       },
@@ -1175,62 +1175,6 @@
       "duration_ms": 182666,
       "name": "6Ballas",
       "url": "https://open.spotify.com/track/3KyLB6cbfcAtGS5S3ixfSv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S\u00f3 Sei Falar de Amor",
-        "url": "https://open.spotify.com/album/1tzwzVZ0PtMU8dCr58Qje6"
-      },
-      "artists": [
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Donces\u00e3o",
-          "url": "https://open.spotify.com/artist/7D5NN6IlLcm4Mo2QPqAQFx"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 193043,
-      "name": "S\u00f3 por uma Noite",
-      "url": "https://open.spotify.com/track/6p7L4142HdxEcZAwaWYivJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dia Ap\u00f3s Dia",
-        "url": "https://open.spotify.com/album/1Sn7h4iRurPRkiLoZPsYmK"
-      },
-      "artists": [
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Pedro Trick",
-          "url": "https://open.spotify.com/artist/1WLVUunmc5UgrR7gGCdiKa"
-        },
-        {
-          "name": "Becks",
-          "url": "https://open.spotify.com/artist/3Y8piIfN1Dbettwo0uDg7F"
-        },
-        {
-          "name": "SART\u00d8R",
-          "url": "https://open.spotify.com/artist/5eYrkPg5M0I9uZQXbhTho4"
-        },
-        {
-          "name": "CAMPING",
-          "url": "https://open.spotify.com/artist/05ugEOR6Mr3l27oIegLhYj"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Dia Ap\u00f3s Dia",
-      "url": "https://open.spotify.com/track/1ioR9hWlldRsM5didqwgrl"
     },
     {
       "added_at": null,
@@ -1263,26 +1207,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "O EIXO CATIA O CERRADO",
-        "url": "https://open.spotify.com/album/6zKhje6g0UfD3fZDrDgGfZ"
+        "name": "S\u00f3 Sei Falar de Amor",
+        "url": "https://open.spotify.com/album/1tzwzVZ0PtMU8dCr58Qje6"
       },
       "artists": [
         {
-          "name": "RealLamak",
-          "url": "https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb"
-        },
-        {
-          "name": "Fehlix",
-          "url": "https://open.spotify.com/artist/6LmzY32ZqarMetNDkzUmo0"
-        },
-        {
           "name": "Clara Lima",
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Donces\u00e3o",
+          "url": "https://open.spotify.com/artist/7D5NN6IlLcm4Mo2QPqAQFx"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
         }
       ],
-      "duration_ms": 131200,
-      "name": "novo feudalismo",
-      "url": "https://open.spotify.com/track/3VBrkwBPoE1rQC2x7b0aDS"
+      "duration_ms": 193043,
+      "name": "S\u00f3 por uma Noite",
+      "url": "https://open.spotify.com/track/6p7L4142HdxEcZAwaWYivJ"
     },
     {
       "added_at": null,
@@ -1319,6 +1263,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dia Ap\u00f3s Dia",
+        "url": "https://open.spotify.com/album/1Sn7h4iRurPRkiLoZPsYmK"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Pedro Trick",
+          "url": "https://open.spotify.com/artist/1WLVUunmc5UgrR7gGCdiKa"
+        },
+        {
+          "name": "Becks",
+          "url": "https://open.spotify.com/artist/3Y8piIfN1Dbettwo0uDg7F"
+        },
+        {
+          "name": "SART\u00d8R",
+          "url": "https://open.spotify.com/artist/5eYrkPg5M0I9uZQXbhTho4"
+        },
+        {
+          "name": "CAMPING",
+          "url": "https://open.spotify.com/artist/05ugEOR6Mr3l27oIegLhYj"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Dia Ap\u00f3s Dia",
+      "url": "https://open.spotify.com/track/1ioR9hWlldRsM5didqwgrl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nada Veio De Gra\u00e7a",
         "url": "https://open.spotify.com/album/0E7Uf7ezNRuV4WUbSwravI"
       },
@@ -1339,6 +1315,26 @@
       "duration_ms": 183870,
       "name": "Nada Veio De Gra\u00e7a",
       "url": "https://open.spotify.com/track/5Gd4yYAI4pLb0hju5RS5iy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Visando L\u00e1 Na Frente",
+        "url": "https://open.spotify.com/album/1NJ7cztZq3Np18J6bQOTLl"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Ribb",
+          "url": "https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE"
+        }
+      ],
+      "duration_ms": 113057,
+      "name": "Visando L\u00e1 Na Frente",
+      "url": "https://open.spotify.com/track/5sj4zjkOTskufUYwbi6TZQ"
     }
   ],
   "unique_name": "This Is Clara Lima",

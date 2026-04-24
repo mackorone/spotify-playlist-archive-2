@@ -1,15 +1,31 @@
 {
-  "description": "\ud83d\udd25 den nyeste rap i dk \ud83d\udd25 cover: Lamin",
-  "num_followers": 187797,
+  "description": "\ud83d\udd25 den nyeste rap i dk \ud83d\udd25 cover: GUSTO",
+  "num_followers": 187785,
   "original_name": "rap dk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGX4ZdBuVR2IfZ5rLyKj2XFXWm77",
+  "snapshot_id": "AAAAAJ7vewpQWJcbUbsPqyB0Dnz/r14z",
   "tracks": [
     {
-      "added_at": "2026-04-16 22:02:04",
+      "added_at": "2026-04-23 22:00:34",
+      "album": {
+        "name": "$AMMEN",
+        "url": "https://open.spotify.com/album/7C2AQA02ZhqeKf8UPYDcTD"
+      },
+      "artists": [
+        {
+          "name": "GUSTO",
+          "url": "https://open.spotify.com/artist/2ePd2b0RlMm7txE4D4SXpL"
+        }
+      ],
+      "duration_ms": 182589,
+      "name": "$AMMEN",
+      "url": "https://open.spotify.com/track/2eEUhbrrR7ZwYkOKDIO9oh"
+    },
+    {
+      "added_at": "2026-04-23 22:00:34",
       "album": {
         "name": "L\u00e5st Inde",
         "url": "https://open.spotify.com/album/5OwonuqW871q6LmAmxE3nw"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/1o7wzFWTUv2My3ulZIPlqw"
     },
     {
-      "added_at": "2026-04-16 22:02:04",
+      "added_at": "2026-04-23 22:00:34",
       "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/1HguiuA7Gq99gj7rpLln1g"
@@ -41,7 +57,23 @@
       "url": "https://open.spotify.com/track/3vv6DL1Pl8bf6GeUtL9Zjh"
     },
     {
-      "added_at": "2026-04-16 22:02:04",
+      "added_at": "2026-04-23 22:00:34",
+      "album": {
+        "name": "Louisiana",
+        "url": "https://open.spotify.com/album/6JsFn553CiwPbXFsvjVF9p"
+      },
+      "artists": [
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "duration_ms": 172111,
+      "name": "Louisiana",
+      "url": "https://open.spotify.com/track/3fxQ8GkReHrrN4zTYpQ1ex"
+    },
+    {
+      "added_at": "2026-04-23 22:00:34",
       "album": {
         "name": "Stadig Her",
         "url": "https://open.spotify.com/album/3Hwefv9rT5iHnMvD6prWTx"
@@ -61,7 +93,7 @@
       "url": "https://open.spotify.com/track/1Qf940bnF9nnS95GNClHFu"
     },
     {
-      "added_at": "2026-04-16 22:02:04",
+      "added_at": "2026-04-23 22:00:34",
       "album": {
         "name": "blessed",
         "url": "https://open.spotify.com/album/2SGhFr27vLpx0QCG4MU6Ic"
@@ -77,7 +109,7 @@
       "url": "https://open.spotify.com/track/15cjK5y0kli27DFjxZUCt7"
     },
     {
-      "added_at": "2026-04-16 22:02:04",
+      "added_at": "2026-04-23 22:00:34",
       "album": {
         "name": "Mentally",
         "url": "https://open.spotify.com/album/2nRMyEBaMtQ9riwmv47Ga9"
@@ -93,7 +125,7 @@
       "url": "https://open.spotify.com/track/1Yx9f4IEoor3fwHhZ2NC3H"
     },
     {
-      "added_at": "2026-04-16 22:02:04",
+      "added_at": "2026-04-23 22:00:34",
       "album": {
         "name": "26",
         "url": "https://open.spotify.com/album/5RTwUXP4jGsHyEbbjmgGhF"
@@ -109,23 +141,7 @@
       "url": "https://open.spotify.com/track/5jT5wsWSCmQUYuqvrU879E"
     },
     {
-      "added_at": "2026-04-16 22:02:04",
-      "album": {
-        "name": "$AMMEN",
-        "url": "https://open.spotify.com/album/7C2AQA02ZhqeKf8UPYDcTD"
-      },
-      "artists": [
-        {
-          "name": "GUSTO",
-          "url": "https://open.spotify.com/artist/2ePd2b0RlMm7txE4D4SXpL"
-        }
-      ],
-      "duration_ms": 182589,
-      "name": "$AMMEN",
-      "url": "https://open.spotify.com/track/2eEUhbrrR7ZwYkOKDIO9oh"
-    },
-    {
-      "added_at": "2026-04-16 22:02:04",
+      "added_at": "2026-04-23 22:00:34",
       "album": {
         "name": "Anderledes Aura",
         "url": "https://open.spotify.com/album/68TaBEOIlGQjolKMIDThPa"
@@ -145,7 +161,7 @@
       "url": "https://open.spotify.com/track/0Y3i5QMg6gkiNNXQl2fBAM"
     },
     {
-      "added_at": "2026-04-16 22:02:04",
+      "added_at": "2026-04-23 22:00:34",
       "album": {
         "name": "Planet",
         "url": "https://open.spotify.com/album/0irkTGOgtcESdDAqcDmZdi"
@@ -165,7 +181,7 @@
       "url": "https://open.spotify.com/track/2z8ren6BAtcW6VWKjy0aTu"
     },
     {
-      "added_at": "2026-04-16 22:02:04",
+      "added_at": "2026-04-23 22:00:34",
       "album": {
         "name": "Udenlands",
         "url": "https://open.spotify.com/album/6MdVTllUWzvSPF6JSOrEYx"
@@ -181,7 +197,7 @@
       "url": "https://open.spotify.com/track/36LhHBZSbY7Z1BKqQQpI6M"
     },
     {
-      "added_at": "2026-04-16 22:02:04",
+      "added_at": "2026-04-23 22:00:34",
       "album": {
         "name": "Der Kommer En Dag",
         "url": "https://open.spotify.com/album/2qWaptQGTODsiCzrYt3QmS"
@@ -197,7 +213,7 @@
       "url": "https://open.spotify.com/track/0FdCmsOZQmExwEUda6WvNI"
     },
     {
-      "added_at": "2026-04-16 22:02:04",
+      "added_at": "2026-04-23 22:00:34",
       "album": {
         "name": "Walo",
         "url": "https://open.spotify.com/album/7wqu8glYkOk1hzqp2qCQDr"
@@ -213,7 +229,7 @@
       "url": "https://open.spotify.com/track/5lt9tqbYBlVJnYcHlrcTN6"
     },
     {
-      "added_at": "2026-04-16 22:02:04",
+      "added_at": "2026-04-23 22:00:34",
       "album": {
         "name": "Tal I",
         "url": "https://open.spotify.com/album/1eglgzn0PahdeAbUsOnYHq"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/2r8QgkyOQD3scdt2s96Tan"
     },
     {
-      "added_at": "2026-04-16 22:02:04",
+      "added_at": "2026-04-23 22:00:34",
       "album": {
         "name": "BUSINESS",
         "url": "https://open.spotify.com/album/4fYJvKqr8znK81X29kPdYS"
@@ -245,7 +261,7 @@
       "url": "https://open.spotify.com/track/7Aj7h6dyHJvlM9eihUBPa6"
     },
     {
-      "added_at": "2026-04-16 22:02:04",
+      "added_at": "2026-04-23 22:00:34",
       "album": {
         "name": "Hver Dag",
         "url": "https://open.spotify.com/album/5Dicwkd8fam4tqR6nCGyEL"
@@ -261,7 +277,7 @@
       "url": "https://open.spotify.com/track/2oaR5QU69kcdbeQvJV3yLd"
     },
     {
-      "added_at": "2026-04-16 22:02:04",
+      "added_at": "2026-04-23 22:00:34",
       "album": {
         "name": "INITIALER",
         "url": "https://open.spotify.com/album/6ubm3y76MDFZpEvpBOjxGp"
@@ -277,7 +293,7 @@
       "url": "https://open.spotify.com/track/4oCEv3TMIR40w5Ymju5GQl"
     },
     {
-      "added_at": "2026-04-16 22:02:04",
+      "added_at": "2026-04-23 22:00:34",
       "album": {
         "name": "Bad",
         "url": "https://open.spotify.com/album/2pt92EysnA3W9rTFOt5jct"
@@ -293,7 +309,7 @@
       "url": "https://open.spotify.com/track/1NVupq5lOcX0PAlbcoauxy"
     },
     {
-      "added_at": "2026-04-16 22:02:04",
+      "added_at": "2026-04-23 22:00:34",
       "album": {
         "name": "HIMMELSENDT",
         "url": "https://open.spotify.com/album/1SLP82qp6FDgLFmCJGiqjN"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/3RTfF3z9LBQReOjWYBVcDO"
     },
     {
-      "added_at": "2026-04-16 22:02:04",
+      "added_at": "2026-04-23 22:00:34",
       "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/6pUqW06fBNLb6cmPg7cw8D"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/64uzNBLwjR0ZkSS3R8xKe1"
     },
     {
-      "added_at": "2026-04-16 22:02:04",
+      "added_at": "2026-04-23 22:00:34",
       "album": {
         "name": "ALLEREDE",
         "url": "https://open.spotify.com/album/2JyzgAsW974AJslkCtyGs4"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/7zemG7X02GuBnJEUiKj2RN"
     },
     {
-      "added_at": "2026-04-16 22:02:04",
+      "added_at": "2026-04-23 22:00:34",
       "album": {
         "name": "Er du med mig?",
         "url": "https://open.spotify.com/album/5CF47ZbFyakSVTPkavX5CC"
@@ -361,7 +377,23 @@
       "url": "https://open.spotify.com/track/0IcZtFpwvgf6zQw3aPwyFe"
     },
     {
-      "added_at": "2026-04-16 22:02:04",
+      "added_at": "2026-04-23 22:00:34",
+      "album": {
+        "name": "DOUBLEPEACE",
+        "url": "https://open.spotify.com/album/5wtOAaJF1O5d7faLR2gUcZ"
+      },
+      "artists": [
+        {
+          "name": "Fed",
+          "url": "https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/3AEuNKucsjnPGvgOQRKMMV"
+    },
+    {
+      "added_at": "2026-04-23 22:00:34",
       "album": {
         "name": "DOKU",
         "url": "https://open.spotify.com/album/1dYA6H6pefJSyWs7HT1I4d"

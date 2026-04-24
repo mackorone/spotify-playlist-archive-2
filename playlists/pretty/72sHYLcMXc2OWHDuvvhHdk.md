@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 567 likes - 2,541 songs - 6 day 4 hr 28 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 567 likes - 2,548 songs - 6 day 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2549,5 +2549,12 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2539 | [Runaway](https://open.spotify.com/track/6fVrdZhPQDPFX78HqcUu24) | [Nate the Great](https://open.spotify.com/artist/4EHovbr428q6Tnj15gQWu8) | [Runaway](https://open.spotify.com/album/7loqwEQe6W5HYObon40D0H) | 2:40 |
 | 2540 | [Sildim Her Şeyi](https://open.spotify.com/track/3xeNOyy2aO1GUkDn87fr2O) | [Kağan](https://open.spotify.com/artist/73EL679o3oxZEmAES587Yn) | [Sildim Her Şeyi](https://open.spotify.com/album/1hkdWp1vcrhmNWzcbNUh9t) | 3:13 |
 | 2541 | [Ticket Home](https://open.spotify.com/track/565heuQCrqPr9PE4ECfyLS) | [The Waterforge](https://open.spotify.com/artist/5Za10Ihv4sUll8jCqvuyHv) | [Ticket Home](https://open.spotify.com/album/1gOeXbrfeL6dNyPG7aihgn) | 4:20 |
+| 2542 | [Home](https://open.spotify.com/track/3X4rv70OsNzQmQ4viTgwC8) | [Midnite](https://open.spotify.com/artist/2dOwO9pZoe3qI0EWoXmCC6), [Donja](https://open.spotify.com/artist/42N8gqPCAOmpTtSpINYQYr) | [Home](https://open.spotify.com/album/7fE6iOCOIxKC77Gno7UHlR) | 3:58 |
+| 2543 | [Teresa](https://open.spotify.com/track/5sPIvKwhJXjk3lWhEGNmHK) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [El regreso de Misha](https://open.spotify.com/album/1WzQvW37ruDPOL1jPk9FKb) | 4:11 |
+| 2544 | [ANTIFREEZE](https://open.spotify.com/track/6kDPMixv9i79sc2X0bxcUI) | [Grand Chef Bandit](https://open.spotify.com/artist/3atkGj8Cu30coOd6uraow4) | [SALOON](https://open.spotify.com/album/4LC7xW4c5ggyCS2ROdHb3f) | 2:07 |
+| 2545 | [Backyard Kings](https://open.spotify.com/track/7qrRSrYdSbW7ESfOFhbat1) | [nwmhb](https://open.spotify.com/artist/1MJR8Z36dtmgxMjwqwTsxl) | [Backyard Kings](https://open.spotify.com/album/0XigRjeeyL65dPAdnQYdJL) | 2:26 |
+| 2546 | [Son](https://open.spotify.com/track/1sZL6rANV38pXvRQsKsCKZ) | [Pien](https://open.spotify.com/artist/0M3W0VPiLEjryaAfMEoP8z) | [Son](https://open.spotify.com/album/1zR2k48nl1O1EAsJnBZaif) | 2:53 |
+| 2547 | [Takeoff](https://open.spotify.com/track/0rCFOJiWC4CtyllWN1FzTI) | [Deep Shoq](https://open.spotify.com/artist/7vdWVGhRjWiT8VHuS9D9a5) | [Libra](https://open.spotify.com/album/4vlThC8yGepna19qTYL9fK) | 3:29 |
+| 2548 | [There'll be a Sunrise](https://open.spotify.com/track/0uxCeYS2LVTzEInl1IhJ9I) | [Nathaniel Hayes](https://open.spotify.com/artist/1c8SsGyGAeOkEwJ3jn8z6L) | [There'll be a Sunrise](https://open.spotify.com/album/3JIjMJuYNZe4Ihkix1mRL4) | 2:06 |
 
-Snapshot ID: `AAAKhl3JlIbfPTfUlCuBfF4xDy57p02n`
+Snapshot ID: `AAAKjcDZfnzyanvdl5e4eSrlMkow1WWy`

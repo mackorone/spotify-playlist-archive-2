@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,270 songs - 4 day 0 hr 46 min
+2,274 songs - 4 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [CATCH UP \(Offical soundtrack of Hood\)](https://open.spotify.com/track/3gt7WTgGThtJDeWTHPD4hg) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [CATCH UP \(Offical soundtrack of Hood\)](https://open.spotify.com/album/1HHCAqYPy7SyPPVDPCpIUX) | 1:56 | 2025-09-04 | 2026-02-13 |
 | [Catfish](https://open.spotify.com/track/6lW1r61qewMDG7oJGVP1EZ) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Selfmade \(Deluxe\)](https://open.spotify.com/album/1c3QSPsycCCADNQZopSJIV) | 2:30 | 2022-08-18 | 2022-10-21 |
 | [CATWALK](https://open.spotify.com/track/5YoHjWEXKCkJbRcvs8846Y) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [CATWALK](https://open.spotify.com/album/0G2HYdfhqWeyuigwQdObeX) | 2:01 | 2023-05-19 | 2023-09-22 |
+| [Catwalk](https://open.spotify.com/track/54HwnROSx62M92JqmMNcll) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [Catwalk](https://open.spotify.com/album/6pGfiPeV3kIyVIDtSD6Oba) | 1:53 | 2026-04-23 |  |
 | [Cecilia Lind](https://open.spotify.com/track/1nPjwnKrO6imcSiaXNu8CX) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Cecilia Lind](https://open.spotify.com/album/6NqS3FF5codZXspRchbNbD) | 1:41 | 2024-10-11 | 2025-03-28 |
 | [CEO](https://open.spotify.com/track/4ZxNVN1ho8jCTklpEvkhwy) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl) | [CEO](https://open.spotify.com/album/6Zpl9w47VYqErTZ64d9Ybw) | 2:57 | 2023-06-15 | 2023-09-01 |
 | [CERTIFIED](https://open.spotify.com/track/0EFtToC9idjsqfK0TMgCTv) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [CERTIFIED](https://open.spotify.com/album/2ayIy2hshIcg1VefJ9SDlX) | 2:40 | 2024-05-30 | 2024-09-27 |
@@ -714,6 +715,7 @@
 | [FNM](https://open.spotify.com/track/5B3jedHeAo1g8r9iUGcE0m) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [FNM](https://open.spotify.com/album/409QAf2a77VlR1sjWqG0D7) | 2:09 | 2026-03-12 |  |
 | [Foden](https://open.spotify.com/track/66peWWXAtQd881xF5lXNWv) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Vägen in](https://open.spotify.com/album/0smEsXiVAXkvD59HHKpMxh) | 2:46 | 2025-01-16 | 2025-05-02 |
 | [Fokus](https://open.spotify.com/track/2gOw09j1y8pnUFtOIgrSQi) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Fokus](https://open.spotify.com/album/3BFYzUaYAdpOV98Ke6muIQ) | 3:16 | 2024-07-11 | 2024-10-25 |
+| [FOKUS](https://open.spotify.com/track/1JKyRBQ92mwrFULKGrmmxQ) | [LB](https://open.spotify.com/artist/3jaXGj5Sjt07nAhZ2b70yv) | [FOKUS](https://open.spotify.com/album/66GhseQ10eY0c9QcooB0O5) | 2:37 | 2026-04-23 |  |
 | [FOLDAR](https://open.spotify.com/track/1bBWTXr5oqZz9SPGnWPztC) | [Treeze](https://open.spotify.com/artist/7hZDZfokZxVjYsydfPvC3K) | [FOLDAR](https://open.spotify.com/album/5qoHfQBeDfEOHxSKcZktCL) | 2:30 | 2025-09-04 | 2026-02-13 |
 | [Foreign Car](https://open.spotify.com/track/0NoQ7FsKRWSIDcRqeIQXTn) | [ALAN MAX](https://open.spotify.com/artist/4OVGNBPR9zKzQRLRj98AHY), [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [Foreign Car](https://open.spotify.com/album/0c5iL8tUeY1S1JQV4n75uw) | 2:33 | 2024-06-06 | 2024-09-27 |
 | [FOREVER](https://open.spotify.com/track/3cDQCtkUOkdwxPjNRp652b) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [INLOGGAD 2](https://open.spotify.com/album/6hnfGHMjUdFgaAdnX442Yy) | 2:22 | 2022-06-09 | 2022-06-23 |
@@ -990,6 +992,7 @@
 | [IKV \(Du gör mig\)](https://open.spotify.com/track/65j6bTTnD3cC7Zgydl49wD) | [JAE](https://open.spotify.com/artist/3DltM2SHSd93FMWwaGdAW2) | [IKV \(Du gör mig\)](https://open.spotify.com/album/5FNmZhsuK06xtOCUnJPP3q) | 2:20 | 2024-03-14 | 2024-06-07 |
 | [ILLEGALA](https://open.spotify.com/track/0sYRsbvwuLxEU58Zo32IMA) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [ILLEGALA](https://open.spotify.com/album/0dxLk7vwbumKHQ6a6iztJe) | 3:24 | 2021-12-16 | 2022-01-20 |
 | [In & Out](https://open.spotify.com/track/4sqOblDzBHDAuYFgeWeRLq) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [In & Out](https://open.spotify.com/album/21yu803fqJ9OG9E18eRcs1) | 1:57 | 2025-05-01 | 2025-07-15 |
+| [IN DA CLUB](https://open.spotify.com/track/7k8EU2zUZmaM4JIA52gnPK) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [IN DA CLUB](https://open.spotify.com/album/6JqgXUKCbKwo5IvZQLzcN8) | 1:56 | 2026-04-23 |  |
 | [IN DA CLUB](https://open.spotify.com/track/04il8IncHXE0z8S1QQdvnq) | [TMA](https://open.spotify.com/artist/7HooMDZWSlS5FmEzJKrHix), [N Kayani](https://open.spotify.com/artist/61hIpqLKwM0zcjNRLinT8d) | [VALVET EP.1](https://open.spotify.com/album/2T6RixmSGDkFUx99x73KjO) | 2:20 | 2023-04-06 | 2023-05-12 |
 | [In Memory Of Some Stand Up Guys](https://open.spotify.com/track/1PSc8P84bB11Ase9bh4qFc) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:04 | 2024-01-04 | 2024-02-09 |
 | [In My Zone](https://open.spotify.com/track/2qbIOwDRoPbuvahK6Fcghj) | [Macky](https://open.spotify.com/artist/7yptUupX4aIIkXwXhggAgk) | [In My Zone](https://open.spotify.com/album/1PBx6uXL22msGAgcTckra6) | 2:41 | 2023-07-19 | 2023-09-01 |
@@ -1664,6 +1667,7 @@
 | [QUE PASA?](https://open.spotify.com/track/3ZGxEFPmgKtrGXzCWCb04l) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [QUE PASA?](https://open.spotify.com/album/6YoQO2lhDjISo3XmzD2Kos) | 2:20 | 2023-11-09 | 2024-01-18 |
 | [QURBANI \(KOM TBX\)](https://open.spotify.com/track/1Xa3BK62uD9mzrzU0S6UMz) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [QURBANI \(KOM TBX\)](https://open.spotify.com/album/2jlobVYL62mvN3Wm4XvJJQ) | 3:11 | 2025-01-09 | 2025-04-25 |
 | [Qué Te](https://open.spotify.com/track/5CV1M3cMolBFhuXXdcIXmF) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Qué Te](https://open.spotify.com/album/0FI0Ih60ulMByc4uYrW8FH) | 2:41 | 2022-04-14 | 2022-05-13 |
+| [R2](https://open.spotify.com/track/15ltSBsDtEQimlr1gDZZVx) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13), [Olwin](https://open.spotify.com/artist/6zxwDNMPwg469SxaS0lrOO) | [R2](https://open.spotify.com/album/2Glnu4xZHmlpXK3iDOGIeg) | 2:06 | 2026-04-23 |  |
 | [R2D](https://open.spotify.com/track/3SClMZgefvLryRNC8lziLf) | [9liv](https://open.spotify.com/artist/1CoE5ue29WuTIHn0QE5mrO) | [R2D](https://open.spotify.com/album/36PIJanACdLpvfOeX1H8Xb) | 2:25 | 2022-02-17 | 2022-03-25 |
 | [Radarn](https://open.spotify.com/track/4UE7hlOZn503ENaMi6Nilm) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Radarn](https://open.spotify.com/album/7jIXkYfDU9nZ9Y01ehHYte) | 2:03 | 2024-07-25 | 2025-01-17 |
 | [RASAR](https://open.spotify.com/track/2lJGXcdxk8HdaGlZrMIkQ2) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0) | [RASAR](https://open.spotify.com/album/1edci0RQ0JGZ7amW2eEFZf) | 3:26 | 2024-12-05 | 2025-01-10 |

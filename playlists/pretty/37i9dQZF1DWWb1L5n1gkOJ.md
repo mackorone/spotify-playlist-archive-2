@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 
 > Gentle, soft Ambient music for focus and concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,550 likes - 170 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,600 likes - 170 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 | 169 | [Ascend](https://open.spotify.com/track/1135ODK6OVlseiV2XYIhgb) | [Matheo Lyon](https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4) | [Ascend](https://open.spotify.com/album/0OR0RkOp6ZIpipC8mcj3jT) | 2:44 |
 | 170 | [Continuum](https://open.spotify.com/track/6swozrqHhagXLafbMLCHKJ) | [The Stillframe](https://open.spotify.com/artist/4TWhLQyfVIOv12m4OUExUe) | [Continuum](https://open.spotify.com/album/4EFmKbg7Omvl6LEaTiZpsX) | 3:03 |
 
-Snapshot ID: `AAAAAOyzyHMaJOUsTcjCfG4bnLvP8zDH`
+Snapshot ID: `AAAAAPq5xHHqrlGdcdOV1aSEng119UGk`

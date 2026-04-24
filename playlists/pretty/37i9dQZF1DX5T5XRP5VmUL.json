@@ -1,6 +1,6 @@
 {
   "description": "Get in the holiday spirit with these festive essentials \u2728\u2744\ufe0f",
-  "num_followers": 151623,
+  "num_followers": 151614,
   "original_name": "Christmastime",
   "owner": {
     "name": "Spotify",
@@ -399,38 +399,6 @@
     {
       "added_at": "2025-10-24 17:43:09",
       "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 152570,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
-    },
-    {
-      "added_at": "2025-10-24 17:43:09",
-      "album": {
-        "name": "Chansons tristes pour No\u00ebl",
-        "url": "https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI"
-      },
-      "artists": [
-        {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/5HWZjYN4MTNOHe9i4UcrIl"
-    },
-    {
-      "added_at": "2025-10-24 17:43:09",
-      "album": {
         "name": "If I Should Fall from Grace with God (Expanded Edition)",
         "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
       },
@@ -451,6 +419,38 @@
     {
       "added_at": "2025-10-24 17:43:09",
       "album": {
+        "name": "Chansons tristes pour No\u00ebl",
+        "url": "https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/5HWZjYN4MTNOHe9i4UcrIl"
+    },
+    {
+      "added_at": "2025-10-24 17:43:09",
+      "album": {
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 152570,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
+    },
+    {
+      "added_at": "2025-10-24 17:43:09",
+      "album": {
         "name": "A Tyler Shaw Christmas",
         "url": "https://open.spotify.com/album/54t92A7UnB3Y7ht3OYT5OL"
       },
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-10-24 17:43:09",
       "album": {
-        "name": "McCartney II (Special Edition)",
-        "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 227653,
-      "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
-      "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
-    },
-    {
-      "added_at": "2025-10-24 17:43:09",
-      "album": {
         "name": "Please Come Home for Christmas / Funky New Year (2013 Remaster)",
         "url": "https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 177440,
       "name": "Please Come Home for Christmas - 2013 Remaster",
       "url": "https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC"
+    },
+    {
+      "added_at": "2025-10-24 17:43:09",
+      "album": {
+        "name": "McCartney II (Special Edition)",
+        "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 227653,
+      "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
+      "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
     },
     {
       "added_at": "2025-10-24 17:43:09",
@@ -531,18 +531,18 @@
     {
       "added_at": "2025-10-24 17:43:09",
       "album": {
-        "name": "A Christmas Gift For You From Phil Spector",
-        "url": "https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu"
+        "name": "That's Christmas To Me (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn"
       },
       "artists": [
         {
-          "name": "The Ronettes",
-          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
         }
       ],
-      "duration_ms": 186241,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/5ASM6Qjiav2xPe7gRkQMsQ"
+      "duration_ms": 202869,
+      "name": "Mary, Did You Know?",
+      "url": "https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni"
     },
     {
       "added_at": "2025-10-24 17:43:09",
@@ -563,18 +563,18 @@
     {
       "added_at": "2025-10-24 17:43:09",
       "album": {
-        "name": "That's Christmas To Me (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn"
+        "name": "A Christmas Gift For You From Phil Spector",
+        "url": "https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu"
       },
       "artists": [
         {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
         }
       ],
-      "duration_ms": 202869,
-      "name": "Mary, Did You Know?",
-      "url": "https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni"
+      "duration_ms": 186241,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/5ASM6Qjiav2xPe7gRkQMsQ"
     },
     {
       "added_at": "2025-10-24 17:43:09",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-10-24 17:43:09",
       "album": {
-        "name": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
-        "url": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 267600,
-      "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
-      "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
-    },
-    {
-      "added_at": "2025-10-24 17:43:09",
-      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2025-10-24 17:43:09",
       "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+        "name": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
+        "url": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 68760,
-      "name": "Deck The Hall",
-      "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
+      "duration_ms": 267600,
+      "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
+      "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
     },
     {
       "added_at": "2025-10-24 17:43:09",
@@ -895,18 +879,34 @@
     {
       "added_at": "2025-10-24 17:43:09",
       "album": {
-        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
-        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
       },
       "artists": [
         {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 241626,
-      "name": "Driving Home for Christmas - 2019 Remaster",
-      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
+      "duration_ms": 68760,
+      "name": "Deck The Hall",
+      "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
+    },
+    {
+      "added_at": "2025-10-24 17:43:09",
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 206539,
+      "name": "Santa's Coming for Us",
+      "url": "https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv"
     },
     {
       "added_at": "2025-10-24 17:43:09",
@@ -927,18 +927,18 @@
     {
       "added_at": "2025-10-24 17:43:09",
       "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
+        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
         }
       ],
-      "duration_ms": 206539,
-      "name": "Santa's Coming for Us",
-      "url": "https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv"
+      "duration_ms": 241626,
+      "name": "Driving Home for Christmas - 2019 Remaster",
+      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
     },
     {
       "added_at": "2025-10-24 17:43:09",
@@ -1027,18 +1027,22 @@
     {
       "added_at": "2025-10-24 17:43:09",
       "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+        "name": "Love to Keep Me Warm",
+        "url": "https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
         }
       ],
-      "duration_ms": 175986,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4"
+      "duration_ms": 158133,
+      "name": "Love to Keep Me Warm",
+      "url": "https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"
     },
     {
       "added_at": "2025-10-24 17:43:09",
@@ -1059,22 +1063,18 @@
     {
       "added_at": "2025-10-24 17:43:09",
       "album": {
-        "name": "Love to Keep Me Warm",
-        "url": "https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi"
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 158133,
-      "name": "Love to Keep Me Warm",
-      "url": "https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"
+      "duration_ms": 175986,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4"
     },
     {
       "added_at": "2025-10-24 17:43:09",

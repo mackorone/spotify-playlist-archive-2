@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 523039,
+  "num_followers": 523112,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAABHpWm+RHCpKMnqeXDzsCle",
+  "snapshot_id": "aegPgAAAAABlMQgosvNZVCfQBNJus3jy",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nada Es Color De Rosa",
+        "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 239626,
+      "name": "No Me Preguntes M\u00e1s",
+      "url": "https://open.spotify.com/track/7AV5Uh7QsSZuWa9MP4oy9k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Habla el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/43UFrMP3JHPl7W4MqfWWcA"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 324493,
       "name": "Eclipse Total del Amor (Total Eclipse of the Heart) (with Patricio Borghetti)",
       "url": "https://open.spotify.com/track/5X5e8H5D9SikfhcXCHxqvY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Es Color De Rosa",
-        "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 239626,
-      "name": "No Me Preguntes M\u00e1s",
-      "url": "https://open.spotify.com/track/7AV5Uh7QsSZuWa9MP4oy9k"
     },
     {
       "added_at": null,

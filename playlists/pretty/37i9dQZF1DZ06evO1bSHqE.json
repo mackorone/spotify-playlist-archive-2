@@ -1,12 +1,12 @@
 {
   "description": "This is Britney Spears. The essential tracks, all in one playlist.",
-  "num_followers": 948907,
+  "num_followers": 949020,
   "original_name": "This Is Britney Spears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAABAFw9T47UWq0scY5Z0cgey",
+  "snapshot_id": "aegPgAAAAAB2S1rBWUT/yPiYaD7j61HO",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "S&M Remix",
-        "url": "https://open.spotify.com/album/4rLvbAUc2aqGSwkG4TQRgs"
+        "name": "Greatest Hits: My Prerogative",
+        "url": "https://open.spotify.com/album/3caKTh2tJMowPiMz0cguLI"
       },
       "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
         {
           "name": "Britney Spears",
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 257293,
-      "name": "S&M Remix",
-      "url": "https://open.spotify.com/track/44FAj28ivN0HJ0xVYwQ9nL"
+      "duration_ms": 213893,
+      "name": "My Prerogative",
+      "url": "https://open.spotify.com/track/2JxftzENN2rhpXxnOmtQBR"
     },
     {
       "added_at": null,
@@ -503,18 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits: My Prerogative",
-        "url": "https://open.spotify.com/album/3caKTh2tJMowPiMz0cguLI"
+        "name": "S&M Remix",
+        "url": "https://open.spotify.com/album/4rLvbAUc2aqGSwkG4TQRgs"
       },
       "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
         {
           "name": "Britney Spears",
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 213893,
-      "name": "My Prerogative",
-      "url": "https://open.spotify.com/track/2JxftzENN2rhpXxnOmtQBR"
+      "duration_ms": 257293,
+      "name": "S&M Remix",
+      "url": "https://open.spotify.com/track/44FAj28ivN0HJ0xVYwQ9nL"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glory (Deluxe)",
-        "url": "https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "Slumber Party",
-      "url": "https://open.spotify.com/track/5xohcwt1FZVGBzdfNRMhfp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 285075,
       "name": "Get Naked (I Got a Plan)",
       "url": "https://open.spotify.com/track/0PGxTaUcMggyJxTyLy0uOx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Glory (Deluxe)",
+        "url": "https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Slumber Party",
+      "url": "https://open.spotify.com/track/5xohcwt1FZVGBzdfNRMhfp"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glory (Deluxe)",
-        "url": "https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        },
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        }
-      ],
-      "duration_ms": 230253,
-      "name": "Make Me... (feat. G-Eazy)",
-      "url": "https://open.spotify.com/track/7JGoiIouGqreRXOrHFAIyr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Britney (Digital Deluxe Version)",
         "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
       },
@@ -715,18 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits: My Prerogative",
-        "url": "https://open.spotify.com/album/3caKTh2tJMowPiMz0cguLI"
+        "name": "Glory (Deluxe)",
+        "url": "https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV"
       },
       "artists": [
         {
           "name": "Britney Spears",
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
         }
       ],
-      "duration_ms": 202720,
-      "name": "Do Somethin'",
-      "url": "https://open.spotify.com/track/77rzoJ5VaC2BLB1IkjGnoi"
+      "duration_ms": 230253,
+      "name": "Make Me... (feat. G-Eazy)",
+      "url": "https://open.spotify.com/track/7JGoiIouGqreRXOrHFAIyr"
     },
     {
       "added_at": null,
@@ -751,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Circus (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+        "name": "Greatest Hits: My Prerogative",
+        "url": "https://open.spotify.com/album/3caKTh2tJMowPiMz0cguLI"
       },
       "artists": [
         {
@@ -760,9 +744,9 @@
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 239072,
-      "name": "Kill the Lights",
-      "url": "https://open.spotify.com/track/263w5yLLnexUUOMc5Py9m5"
+      "duration_ms": 202720,
+      "name": "Do Somethin'",
+      "url": "https://open.spotify.com/track/77rzoJ5VaC2BLB1IkjGnoi"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
       "duration_ms": 219226,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/4PoTu14Wi2o9l0Rb09gBCa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 239072,
+      "name": "Kill the Lights",
+      "url": "https://open.spotify.com/track/263w5yLLnexUUOMc5Py9m5"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Sit back, thand rakho te Chill Karlo with Yo Yo Honey Singh
 
-83 songs - 3 hr 53 min
+84 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Tension](https://open.spotify.com/track/0BlESrrPor7TRRpRz3nRZ5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Advisory](https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj) | 2:48 | 2025-10-17 |  |
 | [Tere Piche](https://open.spotify.com/track/4wdImu26A6CjDems2AfAic) | [Zaildar](https://open.spotify.com/artist/1AQ9kfR9Yyi7EftsSI6T2n), [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Tere Piche](https://open.spotify.com/album/0Ku1nx3SBzwAJrZR8ouyQx) | 3:14 | 2026-01-14 | 2026-02-07 |
 | [That Girl](https://open.spotify.com/track/2lHslGtLZJe0IGhiGwswBy) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Judaa 3 Chapter 2](https://open.spotify.com/album/6d5G9vxugneVH3l4id4XCO) | 2:37 | 2025-10-17 | 2025-11-27 |
+| [Tu Hi Tu](https://open.spotify.com/track/6CJJrzYY70oy6cxA8BkVIL) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Tu Hi Tu](https://open.spotify.com/album/3ut0f8F0cZvrZQGwP2gcoe) | 2:38 | 2026-04-23 |  |
 | [UNO REVERSE](https://open.spotify.com/track/4Nu4Yrk5SRK7KLRwSJ1iGi) | [Xvir Grewal](https://open.spotify.com/artist/6kGxwXzhQX2OfUcGNi5Rh6) | [UNO REVERSE](https://open.spotify.com/album/2S0ihVhOLkBCfk5T1ZFCK2) | 2:36 | 2025-10-17 | 2025-11-07 |
 | [VOGUE](https://open.spotify.com/track/1JdCyAEy9YLNj5LDDpz73F) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [VOGUE](https://open.spotify.com/album/1PawA1kXPiDO3BHKow7VzH) | 2:22 | 2026-03-25 |  |
 | [Volcano Lava](https://open.spotify.com/track/04aAGNvZUMU8RVivF8yBRn) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg), [Sulfa](https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0) | [Volcano Lava](https://open.spotify.com/album/1Aj5Uo9cWxGXhYAAXltefQ) | 2:36 | 2026-03-13 |  |
@@ -86,7 +87,7 @@
 | [Winning](https://open.spotify.com/track/18ixfNtdcpUWWUQJfPf0jg) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Legal Robbery](https://open.spotify.com/album/1eyna4oK9epImEisREJYu9) | 2:47 | 2025-10-17 | 2025-11-04 |
 | [Without Me](https://open.spotify.com/track/7geJy2YZjqHe1oOjaSyRAE) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Without Me](https://open.spotify.com/album/3ZIaRzsiL9ue12E2duQgiM) | 2:36 | 2025-10-17 |  |
 | [You & Me](https://open.spotify.com/track/5DKaO8NUYB0nIThR0dw7xy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:59 | 2025-10-17 | 2025-11-26 |
-| [You Know It](https://open.spotify.com/track/79zNAvAw7yTz2GviAcnENr) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [You Know It](https://open.spotify.com/album/4ransVUAW2Jdk2qmAlfK5l) | 2:42 | 2026-03-26 |  |
+| [You Know It](https://open.spotify.com/track/79zNAvAw7yTz2GviAcnENr) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [You Know It](https://open.spotify.com/album/4ransVUAW2Jdk2qmAlfK5l) | 2:42 | 2026-03-26 | 2026-04-24 |
 | [You're U Tho](https://open.spotify.com/track/7E4EhLK8mG4ORi3QR52r2A) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:03 | 2025-10-17 |  |
 | [Young G.O.A.T](https://open.spotify.com/track/6xHPBEvcG0RQDfyTq7jc8P) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 3:45 | 2025-10-17 |  |
 | [Zero Cares](https://open.spotify.com/track/57XP21lBcIam7LS72yDFFe) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Zero Cares](https://open.spotify.com/album/2IFRgC80176V6oTn1nna5B) | 2:29 | 2025-12-10 |  |

@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: モナキ
 
-583 songs - 1 day 9 hr 10 min
+584 songs - 1 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Malatanghulu](https://open.spotify.com/track/7wAEsALVvqyTNZAoTuChV1) | [서이브](https://open.spotify.com/artist/3Sl8JLbi0kVTxW9Yh6AusV) | [Malatanghulu](https://open.spotify.com/album/4P75bhbZJEMUVlRW70USlf) | 2:35 | 2024-06-03 | 2024-10-04 |
 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2024-07-11 | 2024-11-22 |
 | [Margarita](https://open.spotify.com/track/49Ea2kgsKwfTPlr1QNXflY) | [Repezen Foxx](https://open.spotify.com/artist/7hflj6zifcC4waqD6JIL7U), [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9), [P\-Hot](https://open.spotify.com/artist/7cDMujRxnEJ0wPd5XwP24G), [Dreamhigh](https://open.spotify.com/artist/47KvsGdH37n9amrSJHPvLe) | [Margarita](https://open.spotify.com/album/6430Ft5sjjAVr7sZqYI3iY) | 2:43 | 2023-09-01 | 2023-10-06 |
-| [medicine](https://open.spotify.com/track/72SOp62ne2tErJqwlGEHQj) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [medicine](https://open.spotify.com/album/4zJib3YlaVcLh9NLRpg8MV) | 2:42 | 2025-05-01 |  |
+| [medicine](https://open.spotify.com/track/72SOp62ne2tErJqwlGEHQj) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [medicine](https://open.spotify.com/album/4zJib3YlaVcLh9NLRpg8MV) | 2:42 | 2025-05-01 | 2026-04-24 |
 | [Medicine](https://open.spotify.com/track/6oQd9KEbRMERESY1pftFyn) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [Medicine](https://open.spotify.com/album/3drg6tbDTAYqmpjejScu3f) | 2:00 | 2024-03-21 | 2024-04-19 |
 | [Meiteika](https://open.spotify.com/track/4Jfy4KEi4H0YX0dyvaQDk5) | [あすくーる](https://open.spotify.com/artist/4mtzJEsnw8kOF6zmxYatok), [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK), [あらの](https://open.spotify.com/artist/1lbHbxaaPWLNcAfYaxyVZy) | [Meiteika](https://open.spotify.com/album/1Bg08HJ6DV7pyJPRk9OWXS) | 3:07 | 2023-09-07 | 2023-12-14 |
 | [meow bell](https://open.spotify.com/track/0u8kiQsb059uWLMxL5Foio) | [nogika chaba](https://open.spotify.com/artist/3vbtMfAWkjNFOFrcQRFZyZ) | [TEA TIME](https://open.spotify.com/album/4pLBNMAi00WNFyiBSUgq29) | 2:08 | 2023-04-13 | 2023-05-19 |
@@ -210,6 +210,7 @@
 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 | 2023-09-07 | 2023-11-11 |
 | [Moshi Moshi](https://open.spotify.com/track/1NUIKmqkxfTrAHZaU6uHf2) | [Nozomi Kitay](https://open.spotify.com/artist/3iNcdTXdoEJYM1O10q3Ump), [GAL D](https://open.spotify.com/artist/12XCqO4rH8dTgYZiYzcLOD), [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR) | [Moshi Moshi](https://open.spotify.com/album/6C3rZZEZcaycHs0yrVrSpf) | 2:56 | 2024-02-15 | 2024-04-19 |
 | [Moshi Moshi \(feat\. 百足\)](https://open.spotify.com/track/0FJVGU0hNhCtohkjKB6uKQ) | [Nozomi Kitay](https://open.spotify.com/artist/3iNcdTXdoEJYM1O10q3Ump), [GAL D](https://open.spotify.com/artist/12XCqO4rH8dTgYZiYzcLOD), [百足](https://open.spotify.com/artist/4WgGn0neagCUyjQExpUBX7) | [Moshi Moshi \(feat\. 百足\)](https://open.spotify.com/album/3yJzboBD9EvdIEnVH9DuMr) | 2:56 | 2024-04-18 | 2025-04-01 |
+| [mosi mosi?](https://open.spotify.com/track/76oCvJj6LRoed2754GybpH) | [楽音](https://open.spotify.com/artist/4W11pDowC8EO7a6cR5WO9L) | [mosi mosi?](https://open.spotify.com/album/7f1NEFlfunI7TMwrE886W5) | 2:43 | 2026-04-23 |  |
 | [MOTTAI](https://open.spotify.com/track/6mHZYuJSurWBl6ne142xiz) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [MOTTAI](https://open.spotify.com/album/2hzMW3wgt1nmHUhTjAR7bF) | 2:40 | 2024-01-18 | 2024-04-02 |
 | [MOTTAI](https://open.spotify.com/track/59kkHKD21U2A0zoQwkq2Kd) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [ラブホリック](https://open.spotify.com/album/1sJvXdzjZ7FYbftQyPDZBc) | 2:41 | 2024-04-01 | 2025-01-10 |
 | [Motto](https://open.spotify.com/track/1Y6YzmcAplb3PJVql7vHd4) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [May Dream](https://open.spotify.com/album/5b4Ch2PIXd1p3ve5CT1nYk) | 4:50 | 2023-06-29 | 2023-08-18 |

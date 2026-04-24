@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 
 > 
 
-[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 77 songs - 5 hr 26 min
+[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 78 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,5 +85,6 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 | 75 | [The Funeral](https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time](https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3) | 5:22 |
 | 76 | [Under Pressure \- Remastered 2011](https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hot Space \(Deluxe Remastered Version\)](https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf) | 4:08 |
 | 77 | [Look for the Force](https://open.spotify.com/track/7mHVL6sPURkaYe5kqCv5aH) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Look for the Force](https://open.spotify.com/album/4hid5dlCRtnbGVydxpCijo) | 2:49 |
+| 78 | [RUNNING](https://open.spotify.com/track/1l0wPhFZP1kWkZNQrrYrGy) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 4:13 |
 
-Snapshot ID: `AAAG5BZcjy0yIDMN4HhLEfMUVJ3rzI+0`
+Snapshot ID: `AAAG5Z3zKHBUmSDaNFEbzDtgUyUNlaNI`

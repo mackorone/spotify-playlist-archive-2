@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: K\-Trap, Headie One
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,776 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,783 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 49 | [Life I Chose](https://open.spotify.com/track/2VL873YktGaHovvP1xCuc0) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Life I Chose](https://open.spotify.com/album/530cEtWkb3pn6NTwMiD6Nu) | 3:33 |
 | 50 | [promised land](https://open.spotify.com/track/1Xsk798mnogV1DcrVgdJYe) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [promised land](https://open.spotify.com/album/19CjpdahSIGd2n1h025Cvv) | 2:37 |
 
-Snapshot ID: `AAAAAKvHiwfJjXiIL4IwF1z9ux8NGJxu`
+Snapshot ID: `AAAAABwk+rA2YS2CNYlcq4pSKKL5qzlz`

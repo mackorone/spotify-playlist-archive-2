@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best in new rock. Cover: Seether",
+  "description": "The best in new rock. Cover: Beck",
   "name": "Rock Out.",
   "tracks": [
     {
@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Alive After Death (Last Plane Out)",
+        "url": "https://open.spotify.com/album/6RDXbeog920l0aeMyaeCd7"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210590,
+      "name": "Alive After Death (Last Plane Out)",
+      "url": "https://open.spotify.com/track/49PG0rD4WocV3Swhkc4et1"
+    },
+    {
+      "album": {
         "name": "All",
         "url": "https://open.spotify.com/album/708D6WkdNPfM91oo4dbZWp"
       },
@@ -564,7 +582,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 298210,
       "name": "Animation",
       "url": "https://open.spotify.com/track/5LuKJcBBm1jYR9uPmIHFXD"
@@ -816,7 +834,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 206385,
       "name": "Back Of My Hand",
       "url": "https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB"
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 215196,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP"
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 146933,
       "name": "BIRDS",
       "url": "https://open.spotify.com/track/0k9JIBszlCqCa4SpXI353F"
@@ -1678,7 +1696,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 242373,
       "name": "Caught In The Echo",
       "url": "https://open.spotify.com/track/0B6cG6HOupKy2GaWOgfeOH"
@@ -2208,6 +2226,24 @@
       "duration_ms": 152613,
       "name": "CRUISING TO SELF SOOTHE",
       "url": "https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv"
+    },
+    {
+      "album": {
+        "name": "Cryogen",
+        "url": "https://open.spotify.com/album/4uW6onE6t6FUwLV9yr2E9f"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301825,
+      "name": "Cryogen",
+      "url": "https://open.spotify.com/track/5ITICFtTKxzcbR43ehRvsI"
     },
     {
       "album": {
@@ -3153,6 +3189,28 @@
     },
     {
       "album": {
+        "name": "FIX UR FACE (with Fred Durst)",
+        "url": "https://open.spotify.com/album/5V2DOzyXq1zx7yRgebZZIv"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Fred Durst",
+          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199068,
+      "name": "FIX UR FACE (with Fred Durst)",
+      "url": "https://open.spotify.com/track/0zcU626JV9kV61raS5sGu4"
+    },
+    {
+      "album": {
         "name": "Flood",
         "url": "https://open.spotify.com/album/1yRHBzcfygy0krP0wqVwk7"
       },
@@ -3204,6 +3262,24 @@
       "duration_ms": 193154,
       "name": "Forever Overdose",
       "url": "https://open.spotify.com/track/07FeCdaFiJYdynFyJW515F"
+    },
+    {
+      "album": {
+        "name": "Forever/Always",
+        "url": "https://open.spotify.com/album/1mNFIIEOv5zRkhlBfSYqSt"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222957,
+      "name": "Forever/Always",
+      "url": "https://open.spotify.com/track/1MoRo6wa0WcfjlOcutsnui"
     },
     {
       "album": {
@@ -3330,6 +3406,24 @@
       "duration_ms": 123464,
       "name": "Fuck Off",
       "url": "https://open.spotify.com/track/52L8TAHmnao8FWoMiOj9hZ"
+    },
+    {
+      "album": {
+        "name": "Love You Madly Hate You Badly",
+        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162309,
+      "name": "Fuck The Whole World",
+      "url": "https://open.spotify.com/track/4Z6VhX6RFl1rT6CUbtTVkr"
     },
     {
       "album": {
@@ -3500,7 +3594,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 163120,
       "name": "God's Lonely Man",
       "url": "https://open.spotify.com/track/3U80KdOoVGGekiTv2hQAk2"
@@ -4921,6 +5015,24 @@
     },
     {
       "album": {
+        "name": "House of Cards",
+        "url": "https://open.spotify.com/album/5V0ZWdLXKyHg9Ry1tRhVv5"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166711,
+      "name": "Kickboxer",
+      "url": "https://open.spotify.com/track/08Q6bcPGaSSeBttJjToFJN"
+    },
+    {
+      "album": {
         "name": "Endemic Intelligence in Multiple Dimensions",
         "url": "https://open.spotify.com/album/1N2LHCJgUEy8GzXItAuNKg"
       },
@@ -5094,7 +5206,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 162206,
       "name": "Lapdog",
       "url": "https://open.spotify.com/track/3519Kdoa7IqSOjDTKPdWTJ"
@@ -5952,7 +6064,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 212215,
       "name": "Monolith",
       "url": "https://open.spotify.com/track/2qWJ3H3iMEnkeyi8t0QfGr"
@@ -7434,7 +7546,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 176706,
       "name": "R.I.P. ME",
       "url": "https://open.spotify.com/track/2hrjSnIMbnOpNEhnkK9Tvd"
@@ -7575,6 +7687,24 @@
     },
     {
       "album": {
+        "name": "Reward the Scars",
+        "url": "https://open.spotify.com/album/3BXffIPyB5ihJw0Zu7uWYl"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215455,
+      "name": "Reward the Scars",
+      "url": "https://open.spotify.com/track/4oZFqhv200v5rOCPHfwIec"
+    },
+    {
+      "album": {
         "name": "Ricochet",
         "url": "https://open.spotify.com/album/12u4H6lUktpqPGSamFd8tk"
       },
@@ -7590,6 +7720,24 @@
       "duration_ms": 221093,
       "name": "Ricochet",
       "url": "https://open.spotify.com/track/06daWaRQMjUCGUUWggs5Cs"
+    },
+    {
+      "album": {
+        "name": "Ride Lonesome",
+        "url": "https://open.spotify.com/album/47450DcHOgvjj4D21gBHGC"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272878,
+      "name": "Ride Lonesome",
+      "url": "https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j"
     },
     {
       "album": {
@@ -8268,7 +8416,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 235413,
       "name": "Song Of The Future",
       "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
@@ -9646,7 +9794,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 207200,
       "name": "Time Will Tell",
       "url": "https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx"
@@ -9776,6 +9924,42 @@
       "duration_ms": 208510,
       "name": "tower of memories",
       "url": "https://open.spotify.com/track/0qhVpwKivK3u4OMLb7Z9Ah"
+    },
+    {
+      "album": {
+        "name": "GLORY (Deluxe)",
+        "url": "https://open.spotify.com/album/7MIsmUZTR5rR4jYZbOGXFV"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 12",
+      "url": "https://open.spotify.com/track/7DFfCiPrHqsI0Qa1qFDu33"
+    },
+    {
+      "album": {
+        "name": "Limbo, Please Be Good To Me",
+        "url": "https://open.spotify.com/album/2rtXYGytrHQqEjQs8Lt50m"
+      },
+      "artists": [
+        {
+          "name": "Crocodylus",
+          "url": "https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/3yfr9G9ORQHGbgsfSG9cqa"
     },
     {
       "album": {
@@ -10490,6 +10674,24 @@
       "duration_ms": 193798,
       "name": "Will You Love Me When I\u2019m Dead",
       "url": "https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK"
+    },
+    {
+      "album": {
+        "name": "Your Favorite Toy",
+        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217373,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/1N8fvq9XcxxpRdGydlSqC1"
     },
     {
       "album": {

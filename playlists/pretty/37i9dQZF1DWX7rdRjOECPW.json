@@ -1,6 +1,6 @@
 {
   "description": "Sommer kann kommen \ud83d\ude42\u200d\u2194\ufe0f",
-  "num_followers": 1574237,
+  "num_followers": 1574176,
   "original_name": "Sommerhits 2026",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
     },
     {
       "added_at": "2025-08-29 06:03:40",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
-        "name": "Summer Baby",
-        "url": "https://open.spotify.com/album/7la8ldIlZqwMs1hgFFJVPG"
-      },
-      "artists": [
-        {
-          "name": "Azet",
-          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
-        },
-        {
-          "name": "The Underdog Project",
-          "url": "https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb"
-        }
-      ],
-      "duration_ms": 143276,
-      "name": "Summer Baby",
-      "url": "https://open.spotify.com/track/1OH0dxRdfoKbZG9ubxiT7I"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
         "name": "Rude Boi",
         "url": "https://open.spotify.com/album/4QhOiWhPeXjjhS3kSOwMrB"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 215409,
       "name": "Rude Boi",
       "url": "https://open.spotify.com/track/6RhszueRE6SiDnXkv3i88r"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
+        "name": "Summer Baby",
+        "url": "https://open.spotify.com/album/7la8ldIlZqwMs1hgFFJVPG"
+      },
+      "artists": [
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        },
+        {
+          "name": "The Underdog Project",
+          "url": "https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb"
+        }
+      ],
+      "duration_ms": 143276,
+      "name": "Summer Baby",
+      "url": "https://open.spotify.com/track/1OH0dxRdfoKbZG9ubxiT7I"
     },
     {
       "added_at": "2025-08-29 06:03:40",

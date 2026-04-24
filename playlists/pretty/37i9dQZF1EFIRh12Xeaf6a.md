@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,281 likes - 280 songs - 14 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,282 likes - 280 songs - 14 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 108 | [There's A Space Between Us](https://open.spotify.com/track/6AebtnBPxHNDfsPE21Qhxr) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:23 |
 | 109 | [Old Smoky Locomotion](https://open.spotify.com/track/0ygmlVc2gBejVna2DPz1Va) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Sunshine Boulevard](https://open.spotify.com/album/2xLW7PijPtzLeFXEyu24GY) | 2:33 |
 | 110 | [I Can't Hear You No More](https://open.spotify.com/track/1b2XVfjc6MIJbfUKwqarjp) | [Helen Reddy](https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO) | [Love Songs](https://open.spotify.com/album/0tgyeTIjag0u6wTtwoN4xA) | 2:48 |
-| 111 | [2 L8](https://open.spotify.com/track/69eyNEmESnyqiqS89PQyPO) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [time machine](https://open.spotify.com/album/6TPeuDAS4Bo24rgZTE0go6) | 3:07 |
-| 112 | [I Happen to Love You](https://open.spotify.com/track/5xXm5vwzXKIOdHt8fYXiBt) | [The Electric Prunes](https://open.spotify.com/artist/1kkpNi8Ii5MhBMxmUhN5g9) | [Underground](https://open.spotify.com/album/2mipvxkj3QDjpQjWaEdq7w) | 3:15 |
+| 111 | [I Happen to Love You](https://open.spotify.com/track/5xXm5vwzXKIOdHt8fYXiBt) | [The Electric Prunes](https://open.spotify.com/artist/1kkpNi8Ii5MhBMxmUhN5g9) | [Underground](https://open.spotify.com/album/2mipvxkj3QDjpQjWaEdq7w) | 3:15 |
+| 112 | [2 L8](https://open.spotify.com/track/69eyNEmESnyqiqS89PQyPO) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [time machine](https://open.spotify.com/album/6TPeuDAS4Bo24rgZTE0go6) | 3:07 |
 | 113 | [Ferguson Road](https://open.spotify.com/track/3uxZ4AsLRki16vSsb6NytJ) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:38 |
 | 114 | [Brighter](https://open.spotify.com/track/549L2p4KIzVRAjclYLB7BK) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 2:45 |
 | 115 | [You Gentle Me](https://open.spotify.com/track/0lFkZ2hBMSguq0EgM2y9Ia) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 3:46 |
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 132 | [Weekdays](https://open.spotify.com/track/188S3CUlO4CMprDBzzXVPx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/04C5gSGZHzAlVsngSkqFtZ) | 2:44 |
 | 133 | [I Don't Think You Know Me \- Second Recorded Version; 2006 Remaster](https://open.spotify.com/track/7yUemsSDDVpsm1ismCVPTl) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:20 |
 | 134 | [Blues For A Young Girl Gone](https://open.spotify.com/track/3Y0pyyBki4gOjIqO4u3eTU) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [The World In A Sea Shell](https://open.spotify.com/album/74ipe6kA1lEYQE2Asr6rGZ) | 2:30 |
-| 135 | [Screaming and Yelling](https://open.spotify.com/track/2oM2lFz3AscyEWb3aT5nj0) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 1:17 |
-| 136 | [Down Home](https://open.spotify.com/track/53VcK1ZiDZ2C3LI7u5JRlZ) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Rick Nelson Sings For You](https://open.spotify.com/album/3mendizPjqVORmu6mBQIDV) | 2:44 |
+| 135 | [Down Home](https://open.spotify.com/track/53VcK1ZiDZ2C3LI7u5JRlZ) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Rick Nelson Sings For You](https://open.spotify.com/album/3mendizPjqVORmu6mBQIDV) | 2:44 |
+| 136 | [Screaming and Yelling](https://open.spotify.com/track/2oM2lFz3AscyEWb3aT5nj0) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 1:17 |
 | 137 | [I Can't Stop Talking about You](https://open.spotify.com/track/1S3HwyddiVAR18ZYOqxRZ8) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p), [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [The Greatest Hits Vol\. 2](https://open.spotify.com/album/4hKXMzhgsG1YMUMBHTEEB8) | 2:07 |
 | 138 | [Raspberry Jam](https://open.spotify.com/track/4MeARHhXvNJ2hhbkTSj7O3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 4:34 |
 | 139 | [What Have You Got to Lose](https://open.spotify.com/track/75TZ0xBZiHI09OHm3fu9JR) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:30 |
@@ -262,8 +262,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 252 | [Dreamin' About You](https://open.spotify.com/track/0cbJpZkWLOL0etGXm6xoE8) | [Annette And The Vonnair Sisters](https://open.spotify.com/artist/4MW9tyMCzCz8y8cLj0jCN2) | [The Singles & Albums Collection 1958\-62](https://open.spotify.com/album/0oVIj5WJyWMIJH03EUwYI6) | 2:04 |
 | 253 | [YOU’RE MY GIRL](https://open.spotify.com/track/6nVQiM8TBD5TM1C2ngE8dW) | [The Rockin' Berries](https://open.spotify.com/artist/6G18NLfr5luyGYgMKIupm3) | [イン・タウン](https://open.spotify.com/album/7kN6xIFWxiHwu1b2xlwpqB) | 2:24 |
 | 254 | [Du host an Freind](https://open.spotify.com/track/0WA3flY3EvqhxIPWrkitkt) | [Seer](https://open.spotify.com/artist/55PFCVxZdhFTclW84nNMIJ) | [Grundlsee](https://open.spotify.com/album/3vmcbqUdRBQszOxR2mFeXF) | 4:44 |
-| 255 | [Will Power](https://open.spotify.com/track/1n2XLTsZOaMsAcQJpFmZhT) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Sweet Girl Group Harmony](https://open.spotify.com/album/0QavcOAN5eIcjTH8kuJIUL) | 2:33 |
-| 256 | [Lady Pleasure](https://open.spotify.com/track/0KnOxl9AL6EDBwvZK9zKTh) | [The Grass Roots](https://open.spotify.com/artist/2IU5UBup85LmAXh5U36DeC) | [Anthology: 1965\-1975](https://open.spotify.com/album/3bEbRbS0Rx7j1R96u604la) | 2:55 |
+| 255 | [Lady Pleasure](https://open.spotify.com/track/0KnOxl9AL6EDBwvZK9zKTh) | [The Grass Roots](https://open.spotify.com/artist/2IU5UBup85LmAXh5U36DeC) | [Anthology: 1965\-1975](https://open.spotify.com/album/3bEbRbS0Rx7j1R96u604la) | 2:55 |
+| 256 | [Will Power](https://open.spotify.com/track/1n2XLTsZOaMsAcQJpFmZhT) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Sweet Girl Group Harmony](https://open.spotify.com/album/0QavcOAN5eIcjTH8kuJIUL) | 2:33 |
 | 257 | [Echoes](https://open.spotify.com/track/4sG208ZylYAV8cgz1xhcB5) | [Teddy Randazzo](https://open.spotify.com/artist/7IAvIH8JtrxdwsydRKwh24) | [Melodies for Young Lovers](https://open.spotify.com/album/5FxoAaAW1ML9DcNHSY8FaW) | 2:48 |
 | 258 | [They're Jealous of Me](https://open.spotify.com/track/187xOao5osxvhgVktYCEyC) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Here come..\. The Cookies!](https://open.spotify.com/album/3BNDuPc2XRfeDMI6sCFBvG) | 2:54 |
 | 259 | [The Sheik](https://open.spotify.com/track/13RS52E25mjvFudrAA9zKR) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [The Best Of The Clovers \(Love Potion No\. 9\)](https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y) | 2:29 |
@@ -289,4 +289,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 279 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 280 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcPkkgAAAADbGyr3H3IWN1cdnpae+Zcx`
+Snapshot ID: `AcPqKAAAAABJ0hKvqbKRQ2apuz26AFrm`

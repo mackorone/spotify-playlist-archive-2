@@ -1,33 +1,13 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 57285,
+  "num_followers": 57349,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAACprpHnsZjIAc8PGcMLtem4",
+  "snapshot_id": "aegPgAAAAAA+FxUBeAyOiNV8LnyN2zR+",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vengache Pa\u2019 Aca",
-        "url": "https://open.spotify.com/album/4GOxdFhYCiDqefzmrJt4sF"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 163667,
-      "name": "Vengache Pa\u2019 Aca",
-      "url": "https://open.spotify.com/track/6FoFdGkO3BZ1HElmfj7PZl"
-    },
     {
       "added_at": null,
       "album": {
@@ -171,6 +151,26 @@
       "duration_ms": 162676,
       "name": "VVS",
       "url": "https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vengache Pa\u2019 Aca",
+        "url": "https://open.spotify.com/album/4GOxdFhYCiDqefzmrJt4sF"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 163667,
+      "name": "Vengache Pa\u2019 Aca",
+      "url": "https://open.spotify.com/track/6FoFdGkO3BZ1HElmfj7PZl"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 180083,
-      "name": "Las Edades - En Vivo",
-      "url": "https://open.spotify.com/track/01NTntNkCtZXVhLnKgzVFs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Polvo Soy",
         "url": "https://open.spotify.com/album/3SWmKgWCz1IOYbkdPjqVc7"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 173793,
       "name": "Polvo Soy",
       "url": "https://open.spotify.com/track/7rzEV4j9gxblnC9DHN53iC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 180083,
+      "name": "Las Edades - En Vivo",
+      "url": "https://open.spotify.com/track/01NTntNkCtZXVhLnKgzVFs"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 151927,
-      "name": "Ebrio De Amor",
-      "url": "https://open.spotify.com/track/6Tkg79X9NrpYwWyl4dspKU"
+      "duration_ms": 191600,
+      "name": "El Piyi",
+      "url": "https://open.spotify.com/track/4aJPDh3dn3MVppavGXs3ao"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 191600,
-      "name": "El Piyi",
-      "url": "https://open.spotify.com/track/4aJPDh3dn3MVppavGXs3ao"
+      "duration_ms": 151927,
+      "name": "Ebrio De Amor",
+      "url": "https://open.spotify.com/track/6Tkg79X9NrpYwWyl4dspKU"
     },
     {
       "added_at": null,
@@ -763,22 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un D\u00eda Como Hoy",
-        "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
       },
       "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 171175,
-      "name": "Te Quiero As\u00ed",
-      "url": "https://open.spotify.com/track/0qtzYtLntMIT2rLmxrqbYg"
+      "duration_ms": 172000,
+      "name": "Fruta Prohibida - En Vivo",
+      "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
     },
     {
       "added_at": null,
@@ -799,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
+        "name": "Un D\u00eda Como Hoy",
+        "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
       },
       "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Fruta Prohibida - En Vivo",
-      "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
+      "duration_ms": 171175,
+      "name": "Te Quiero As\u00ed",
+      "url": "https://open.spotify.com/track/0qtzYtLntMIT2rLmxrqbYg"
     },
     {
       "added_at": null,
@@ -851,30 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dicen y Dicen",
-        "url": "https://open.spotify.com/album/1KOlHmExRD42dLpWE4GwkF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        }
-      ],
-      "duration_ms": 173135,
-      "name": "Dicen y Dicen",
-      "url": "https://open.spotify.com/track/6mzQvzXGWVoNjWhdhup27l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor x Dosis",
         "url": "https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny"
       },
@@ -911,6 +887,30 @@
       "duration_ms": 157874,
       "name": "HDTPM",
       "url": "https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dicen y Dicen",
+        "url": "https://open.spotify.com/album/1KOlHmExRD42dLpWE4GwkF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        }
+      ],
+      "duration_ms": 173135,
+      "name": "Dicen y Dicen",
+      "url": "https://open.spotify.com/track/6mzQvzXGWVoNjWhdhup27l"
     },
     {
       "added_at": null,

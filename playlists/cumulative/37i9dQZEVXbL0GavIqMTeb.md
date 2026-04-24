@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-1,612 songs - 3 day 16 hr 49 min
+1,613 songs - 3 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1185,7 +1185,7 @@
 | [Qué Más Pues?](https://open.spotify.com/track/6D2TCm4nf5nxAcdGJ7w3QP) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:37 | 2021-09-12 | 2022-01-12 |
 | [Qué Más Pues?](https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Qué Más Pues?](https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK) | 3:37 | 2021-06-06 | 2021-09-12 |
 | [Qué Pasa?](https://open.spotify.com/track/5u0EnFzLd5WmsncTG5uMSP) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Qué Pasa?](https://open.spotify.com/album/6uj6pADiKvNoqF38wAcbdn) | 2:33 | 2021-11-02 | 2022-04-20 |
-| [Qué Pasaría...](https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:11 | 2024-11-16 |  |
+| [Qué Pasaría...](https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:11 | 2024-11-16 | 2026-04-24 |
 | [Qué Será](https://open.spotify.com/track/1Ms2WIZyWzz1Z3RhX7WZRO) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [Qué Será](https://open.spotify.com/album/50z9qlI7EkD3HqIXVyI2Vq) | 2:22 | 2025-09-10 | 2026-02-24 |
 | [quédate](https://open.spotify.com/track/6VfL3MEuYeJbDlD8m011HR) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:56 | 2025-06-14 | 2025-11-30 |
 | [Ram](https://open.spotify.com/track/3KE79Zt2aM32NwURw5FCjr) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [6.5](https://open.spotify.com/album/5QFR1S8bcR3YA68BC5tTUO) | 2:03 | 2023-09-08 | 2023-09-11 |
@@ -1519,6 +1519,7 @@
 | [Vagabundo Soy](https://open.spotify.com/track/7aH3CDNxVE8xDlVK7ZXHp1) | [Giolito Y Su Combo](https://open.spotify.com/artist/7eGr6AxHNDZQ0PWbb8apY0) | [La Herencia De La Fiesta](https://open.spotify.com/album/4Iu8NphqFcyWniaXNICcvG) | 2:25 | 2025-01-02 | 2025-01-04 |
 | [Vagabundo Soy](https://open.spotify.com/track/3qxq8EvAskFrjDIVVwgOck) | [Giolito Y Su Combo](https://open.spotify.com/artist/7eGr6AxHNDZQ0PWbb8apY0) | [Grandes Éxitos](https://open.spotify.com/album/709TtLplk2diNNueSxaarE) | 2:27 | 2026-01-02 | 2026-01-04 |
 | [Vamo a Bailotear](https://open.spotify.com/track/5lCk0ZeN8h76QxNqHEGMZJ) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Apocalipsis](https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w) | 2:40 | 2025-06-28 | 2025-10-18 |
+| [VAMOaCOCHI](https://open.spotify.com/track/1oghNMGW42IhtQPNU6leZz) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:19 | 2026-04-23 |  |
 | [Vamono Lejos](https://open.spotify.com/track/4xdl8WUxPsgG0gZdIP4yS8) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Sacra Mr Melody](https://open.spotify.com/artist/03A4rAqMAxVwjkRIPZxZ9Y) | [Vamono Lejos](https://open.spotify.com/album/2XJ0HDrDyFqGuzGP4vQbGg) | 3:07 | 2024-02-28 | 2024-03-01 |
 | [VeLDÁ](https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:55 | 2025-01-06 |  |
 | [VEN ACÁ](https://open.spotify.com/track/67VOcsWPZ38BXFL2NnJWs6) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [VEN ACÁ](https://open.spotify.com/album/28opQKCs6mjHJ7egVgMj60) | 2:14 | 2025-10-25 | 2025-11-30 |

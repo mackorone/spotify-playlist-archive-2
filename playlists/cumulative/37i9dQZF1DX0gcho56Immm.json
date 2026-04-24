@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-03-14",
-  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: A Good Year",
+  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Smerz",
   "name": "Cph+",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 219029,
       "name": "a little too late",
       "url": "https://open.spotify.com/track/4PEvteEE1h2J3QlSygiaMU"
@@ -293,6 +293,28 @@
     },
     {
       "album": {
+        "name": "hollis",
+        "url": "https://open.spotify.com/album/3vKkVu1TQWct7R5JIjpwzO"
+      },
+      "artists": [
+        {
+          "name": "GB",
+          "url": "https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8"
+        },
+        {
+          "name": "Ninna Lundberg",
+          "url": "https://open.spotify.com/artist/6k0RXaRQWP1oiq4pmEFbyR"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/23dlDcfYKSosr7uOqvcizd"
+    },
+    {
+      "album": {
         "name": "Anymore",
         "url": "https://open.spotify.com/album/2erxKF4TfbJnSZ9cSD44ef"
       },
@@ -402,6 +424,24 @@
       "duration_ms": 218998,
       "name": "Big Solo",
       "url": "https://open.spotify.com/track/6hXZ1dD9oNhJ0ircyjsrjR"
+    },
+    {
+      "album": {
+        "name": "Bitches Talk Shit",
+        "url": "https://open.spotify.com/album/7qpKgKDoZQhrvnZIeIaRKq"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219969,
+      "name": "Bitches Talk Shit",
+      "url": "https://open.spotify.com/track/2zeOTTt5w7lSwKtbUXcnTQ"
     },
     {
       "album": {
@@ -738,7 +778,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 227555,
       "name": "Clear Sky Rain",
       "url": "https://open.spotify.com/track/4pXvRTrdLDHIzbtWpY5Vey"
@@ -796,7 +836,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 253910,
       "name": "Corners - Chanel Beads Rework",
       "url": "https://open.spotify.com/track/5LXtMPwVposSskplKpGDtw"
@@ -2706,7 +2746,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 233666,
       "name": "Limerence (feat. DUMMY THICC & akselturbo)",
       "url": "https://open.spotify.com/track/6byBU4PixqN7HpVm3Q4N4U"
@@ -2862,7 +2902,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 178083,
       "name": "Love90",
       "url": "https://open.spotify.com/track/6UKPGUV7Qt7PfDR1H3lRN7"
@@ -3365,6 +3405,24 @@
     },
     {
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/5iMuYMgn6229IR2g1221Vs"
+      },
+      "artists": [
+        {
+          "name": "Alana Markel",
+          "url": "https://open.spotify.com/artist/6PC5HPcQCXiidE2DKTAwoY"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170330,
+      "name": "Place Like Home",
+      "url": "https://open.spotify.com/track/5mQqlb1fRJ2pt3NKocO2cQ"
+    },
+    {
+      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/6ftc3vTUK6umbu9YvAtXJo"
       },
@@ -3492,7 +3550,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 141864,
       "name": "Postinternetfame",
       "url": "https://open.spotify.com/track/1EiHTft00amQg7z5TX2lLh"
@@ -3536,7 +3594,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 199344,
       "name": "Push & Pull",
       "url": "https://open.spotify.com/track/5GQ6CEB6IXh4fUj8FTpRWi"
@@ -4064,7 +4122,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 299784,
       "name": "Something in the way you move",
       "url": "https://open.spotify.com/track/6i4QWDj0FaZq0DNlzDOEBc"
@@ -4122,7 +4180,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 165500,
       "name": "Spirals On My Tongue",
       "url": "https://open.spotify.com/track/7C73dQdKGFB59kUCL5C2jV"
@@ -4144,6 +4202,24 @@
       "duration_ms": 214106,
       "name": "Spring",
       "url": "https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl"
+    },
+    {
+      "album": {
+        "name": "Spring summer",
+        "url": "https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128012,
+      "name": "Spring summer",
+      "url": "https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4"
     },
     {
       "album": {
@@ -4364,7 +4440,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 155266,
       "name": "The artist is absent - 89 seconds rewrite",
       "url": "https://open.spotify.com/track/2ukYn5UsXjyaTskqf8x9Xe"
@@ -4599,6 +4675,24 @@
     },
     {
       "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/4YoCbEExp7Zmo6wbcYaR6c"
+      },
+      "artists": [
+        {
+          "name": "Carla dal Forno",
+          "url": "https://open.spotify.com/artist/6FVxEgfQsGrJ0BogIOYCd6"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 11",
+      "url": "https://open.spotify.com/track/2gng4BVSuskEfAo4nFiE2E"
+    },
+    {
+      "album": {
         "name": "TWINK",
         "url": "https://open.spotify.com/album/0tjF35e4vUYR2Af1UULxhB"
       },
@@ -4704,7 +4798,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 235106,
       "name": "Under the Covers",
       "url": "https://open.spotify.com/track/7waKVeTZb1D5a5r6aqyDF3"
@@ -4819,6 +4913,24 @@
     },
     {
       "album": {
+        "name": "Under My Umbrella",
+        "url": "https://open.spotify.com/album/6I3jAD916rESCOEmqmtzTx"
+      },
+      "artists": [
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192504,
+      "name": "Waste Me",
+      "url": "https://open.spotify.com/track/65pXLi3OL3aoRKM4SkFgjq"
+    },
+    {
+      "album": {
         "name": "Cleo",
         "url": "https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K"
       },
@@ -4830,7 +4942,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 200546,
       "name": "Watching You",
       "url": "https://open.spotify.com/track/0SsKmpQnyk4AAOY11yXS40"
@@ -5044,6 +5156,24 @@
       "duration_ms": 238000,
       "name": "You Know I Hate it (How The World Moves On)",
       "url": "https://open.spotify.com/track/0d7Gjq2qwvcaoXpeLWFtnf"
+    },
+    {
+      "album": {
+        "name": "Blue Angel Sparkling Silver 2",
+        "url": "https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor"
+      },
+      "artists": [
+        {
+          "name": "Quiet Light",
+          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186446,
+      "name": "You Say I Love You",
+      "url": "https://open.spotify.com/track/2kv2epe0oiyQs8msJXbn9w"
     },
     {
       "album": {

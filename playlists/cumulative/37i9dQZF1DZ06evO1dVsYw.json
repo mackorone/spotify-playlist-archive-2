@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Raio X do Brasil",
+        "url": "https://open.spotify.com/album/3RwDSMSj82TPDkKMnamGeZ"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256826,
+      "name": "Fio da Navalha",
+      "url": "https://open.spotify.com/track/0c14FM10q46bBQUPm4EGuU"
+    },
+    {
+      "album": {
         "name": "1000 Trutas 1000 Tretas (Ao Vivo)",
         "url": "https://open.spotify.com/album/4QvlTHd5GdQje8nxm9Bude"
       },
@@ -650,7 +668,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 278333,
       "name": "Panico na Zona Sul",
       "url": "https://open.spotify.com/track/6uNitskNYppKgkaQQgjKmZ"
@@ -738,7 +756,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 195919,
       "name": "P\u00e2nico na Zona Sul - Ao Vivo",
       "url": "https://open.spotify.com/track/7pD1bfCSOr5i5VN8k4OeR0"

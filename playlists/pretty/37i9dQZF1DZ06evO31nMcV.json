@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 25699,
+  "num_followers": 25716,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAABxHCgDpPZ3X54UieHNhDVh",
+  "snapshot_id": "aegPgAAAAAApfXGmNsSgqs+PewnYYqu0",
   "tracks": [
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 133647,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/0SaUNOXFFmziEOyn0Gyi9E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 181952,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/0aHTww4G1siCKZu7ewNpsd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 133647,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/0SaUNOXFFmziEOyn0Gyi9E"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 181758,
-      "name": "Carousel",
-      "url": "https://open.spotify.com/track/7qUR44mhbatVB3p4OPw3Qd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paper Hearts",
         "url": "https://open.spotify.com/album/4Qqrbs0aM85WekFlyqnCHR"
       },
@@ -647,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
       },
       "artists": [
         {
@@ -656,9 +640,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 202069,
-      "name": "Still Life",
-      "url": "https://open.spotify.com/track/5Zo96jw2gqhA6JpUsmPrSu"
+      "duration_ms": 181758,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/7qUR44mhbatVB3p4OPw3Qd"
     },
     {
       "added_at": null,
@@ -683,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
       },
       "artists": [
         {
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 233530,
-      "name": "Heartbeats - Solo Piano Version",
-      "url": "https://open.spotify.com/track/2MLNOCTrPGCgnfiBCosdB2"
+      "duration_ms": 202069,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/5Zo96jw2gqhA6JpUsmPrSu"
     },
     {
       "added_at": null,
@@ -751,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 233530,
+      "name": "Heartbeats - Solo Piano Version",
+      "url": "https://open.spotify.com/track/2MLNOCTrPGCgnfiBCosdB2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
         "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 76923,
       "name": "Midnight Reverie",
       "url": "https://open.spotify.com/track/0dVL9nYiBF9ioCpq2oWR67"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Piano Whisperer",
-        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 238510,
-      "name": "Labyrinth",
-      "url": "https://open.spotify.com/track/4w8N32GjuYFBUZh2Z7CQBK"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
       "duration_ms": 195144,
       "name": "Crest of a Wave",
       "url": "https://open.spotify.com/track/2pJFbZazTwTdPsU8tTuBoF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Piano Whisperer",
+        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 238510,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/4w8N32GjuYFBUZh2Z7CQBK"
     },
     {
       "added_at": null,

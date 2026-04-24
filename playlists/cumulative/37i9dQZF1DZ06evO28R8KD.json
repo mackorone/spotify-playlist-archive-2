@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Double Moon",
+        "url": "https://open.spotify.com/album/4HQF4jl7OnwYBUslOWJPbA"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143198,
+      "name": "Double Moon",
+      "url": "https://open.spotify.com/track/1XVWwG1CS3wV89rVEualNq"
+    },
+    {
+      "album": {
         "name": "Cloud Time",
         "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
       },
@@ -218,6 +236,24 @@
       "duration_ms": 446000,
       "name": "Nagoya",
       "url": "https://open.spotify.com/track/5VfCcjwti5OSQrq37CE9xT"
+    },
+    {
+      "album": {
+        "name": "full/new",
+        "url": "https://open.spotify.com/album/2QjD5gBRPzvQDtASXMaitU"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 940000,
+      "name": "New (Part 1)",
+      "url": "https://open.spotify.com/track/4xPbiTndGD1qA52NsXSova"
     },
     {
       "album": {

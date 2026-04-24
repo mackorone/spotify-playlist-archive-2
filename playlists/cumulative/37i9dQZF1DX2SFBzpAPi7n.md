@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 휘인 \(Whee In\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,181 songs - 2 day 23 hr 41 min
+1,182 songs - 2 day 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Beep\-Boop, Beep\-Boop](https://open.spotify.com/track/579uHOz2E7JtV3YNNOwJqu) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 3:23 | 2025-03-17 | 2025-04-12 |
 | [Being](https://open.spotify.com/track/7ulCWv7e24VBTQ7lzGWrFP) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Madness Always Turns to Sadness](https://open.spotify.com/album/6GcZjO7MFfAGaYqeSBcF6v) | 3:33 | 2024-09-10 | 2024-09-14 |
 | [Being a Good Girl Hurts](https://open.spotify.com/track/1NfnlTT4fpkaxmhzxWJqCj) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [Blooming Wings](https://open.spotify.com/album/6gXzhQ5MYvl2Fvept2LjhP) | 2:47 | 2025-07-31 | 2026-04-18 |
-| [Best Scene](https://open.spotify.com/track/4pvUtXwvtZx0kl7vlv8gf9) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Curtain Up, Class, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0g2BHosqUn3yz5GOSnzLdZ) | 3:50 | 2026-03-27 |  |
+| [Best Scene](https://open.spotify.com/track/4pvUtXwvtZx0kl7vlv8gf9) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Curtain Up, Class, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0g2BHosqUn3yz5GOSnzLdZ) | 3:50 | 2026-03-27 | 2026-04-24 |
 | [better \(with you\)](https://open.spotify.com/track/7xzeekIeM7lFruBSfK6iIm) | [Crying City](https://open.spotify.com/artist/324QqTOkQyG8CUlphElsdD) | [better \(with you\)](https://open.spotify.com/album/4Z5JK8GrGgp8JYSxxjUYAn) | 2:26 | 2024-07-30 | 2024-11-07 |
 | [BICCOY \(Baby I Can′t Concentrate On You\)](https://open.spotify.com/track/39ujFBADdM2S4XyFF48mzc) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [\[LIFE AFTER\]](https://open.spotify.com/album/3bAEQ8KYhz99OWFLGWE2Oy) | 3:11 | 2022-06-13 | 2022-06-16 |
 | [Bichulae \(feat\. Luli Lee\)](https://open.spotify.com/track/0Ygqbr8k7lp9VQpmRWVkzY) | [BULGOGIDISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL), [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Bichulae](https://open.spotify.com/album/0wqZQ4tOQj6pB1MlURlFof) | 3:09 | 2022-06-23 | 2022-07-19 |
@@ -506,6 +506,7 @@
 | [It’ll Be Okay](https://open.spotify.com/track/3aSizsRBTLW7NjuypC13fY) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [20](https://open.spotify.com/album/4XjciqB3gdIikbiA45OqvP) | 4:27 | 2024-10-24 | 2025-01-31 |
 | [It′s Red \(Feat\. Park Dawool\)](https://open.spotify.com/track/7oB8XYkkN0oPKMoex43HeL) | [ID:Earth](https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt), [Park Da Wool](https://open.spotify.com/artist/3eklnSBKrfc9XqVH3xmESe) | [Bloody Heart, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/6hMNXNNTQJH2qlEwdLLUKC) | 3:39 | 2022-06-20 | 2022-06-24 |
 | [It′s You](https://open.spotify.com/track/2XtNYB72kf5QEhYDdPZdc7) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Resident Playbook, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/6V21UD13g0tZrqe5UCps16) | 3:47 | 2025-05-07 | 2025-08-07 |
+| [I’ll Be There](https://open.spotify.com/track/7rjEBs5JvSrZK09MihMBFQ) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [I’ll Be There](https://open.spotify.com/album/6Rth7jw99l85WitzcYDPth) | 3:17 | 2026-04-23 |  |
 | [I’m Alive](https://open.spotify.com/track/4HKzIW8jGEqf5BWIC0T3JS) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Broken Kaleidoscope](https://open.spotify.com/album/1xaaxoERaH0Mq1kdA13G0E) | 2:55 | 2022-04-12 | 2022-07-25 |
 | [Jayu 자유](https://open.spotify.com/track/5vlUplZyrXnN0bbejrKfqu) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Jayu 자유](https://open.spotify.com/album/2ikSIntGYyG6biNQC0UgnH) | 3:55 | 2022-05-03 | 2022-07-20 |
 | [Jogging](https://open.spotify.com/track/2U4fODlayH2blucJuyjBrU) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [PANORAMA](https://open.spotify.com/album/5KCwE9Ev3dhkvQOzPCR6Yx) | 3:23 | 2022-04-12 | 2022-07-27 |

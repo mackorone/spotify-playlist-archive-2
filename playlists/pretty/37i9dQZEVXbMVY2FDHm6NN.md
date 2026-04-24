@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,690 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,696 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 9 | [一個人想著一個人](https://open.spotify.com/track/3n3zzFH7zzO0gJNaw4RKSm) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [終極一班2 \(電視原聲帶\)](https://open.spotify.com/album/0TB9rXuSN99QhTnI5lYwvM) | 4:03 |
 | 10 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 |
 | 11 | [一念 \(影视剧《逐玉》插曲\)](https://open.spotify.com/track/1iZVXRo5IcIradUoVYymRW) | [张紫宁 / 李鑫一](https://open.spotify.com/artist/2OL7dKjcDZjMiPjFohbmAZ) | [《逐玉》 影视原声带](https://open.spotify.com/album/2k86NBEelfaj8iqDZ9ppqa) | 3:10 |
-| 12 | [RUDE!](https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz) | 3:20 |
+| 12 | [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 |
 | 13 | [離開我的依賴](https://open.spotify.com/track/28VBdtYc5Cpmey4Cpvcrby) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [離開我的依賴](https://open.spotify.com/album/4SvBcrlinZopwRdfZsAEFz) | 3:53 |
 | 14 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
 | 15 | [特別的人](https://open.spotify.com/track/0VTzUEuHYD8s7CgQ15cDPo) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [危險世界](https://open.spotify.com/album/3QR6UyUXB4KclN8HwSIhx9) | 4:19 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 21 | [Love Yourself](https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:53 |
 | 22 | [多遠都要在一起](https://open.spotify.com/track/55d0jw269HE9pbOt5ntCo8) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [新的心跳](https://open.spotify.com/album/1tEl9cDFkTKGmaRpZLB7zW) | 3:37 |
 | 23 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 |
-| 24 | [我對緣分小心翼翼 \(劇集《逐玉》主題曲\)](https://open.spotify.com/track/72yIlZtNNS4i2b4FfVm619) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [我對緣分小心翼翼 \(劇集《逐玉》主題曲\)](https://open.spotify.com/album/77DbiSm5R4EduZCAk6ZH7x) | 4:42 |
-| 25 | [Eenie Meenie](https://open.spotify.com/track/4vVTI94F9uJ8lHNDWKv0i2) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Eenie Meenie](https://open.spotify.com/album/7yCXgxWLZZEAiVsISKN3BF) | 3:21 |
+| 24 | [我對緣分小心翼翼 \(劇集《逐玉》主題曲\)](https://open.spotify.com/track/6pCp8j2MmywUs8vygmqNQ1) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [我對緣分小心翼翼 \(劇集《逐玉》主題曲\)](https://open.spotify.com/album/1sghudyFk3KX0L7Y2aCkQZ) | 4:42 |
+| 25 | [Eenie Meenie \- Radio Version](https://open.spotify.com/track/4Yaw2PmyOETOnEM3TCf98I) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Eenie Meenie EP](https://open.spotify.com/album/6DOZI2LfBRYHRhZV21LrOu) | 3:21 |
 | 26 | [幾分之幾 \- 電影<花甲大人轉男孩>主題曲](https://open.spotify.com/track/4F7ZAsndEIJXyFzJUHNlRu) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [幾分之幾](https://open.spotify.com/album/2yBLZVs24cFju6t8Jrnpbx) | 3:48 |
 | 27 | [一半一半](https://open.spotify.com/track/21x0N6lu6D9kO8rVtTU3mH) | [Top Barry](https://open.spotify.com/artist/3CSQfCUHVB3sZBfUfdWuph), [INDEcompany](https://open.spotify.com/artist/3bFdBTYErmHlLmdRZZxffh) | [一半一半](https://open.spotify.com/album/1Cr1Wuyr8H1Kh3vx4w9y8x) | 3:55 |
 | 28 | [遇見](https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [The Moment](https://open.spotify.com/album/6CGJuQoWMkq1rmStrYbRzr) | 3:29 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 39 | [再見的時候 \- 電影〈陽光女子合唱團〉主題曲\-再見版](https://open.spotify.com/track/3IBYp3fKyydZ5dDtirLY6P) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [再見的時候 \(電影〈陽光女子合唱團〉主題曲\-再見版\)](https://open.spotify.com/album/6a1qQ7TMu8Gwj3yijI5xHF) | 3:54 |
 | 40 | [左轉燈 \(1000 Times+1\)](https://open.spotify.com/track/4UwZyC0wEV6XDEAr9kaQhi) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [mac ova seas](https://open.spotify.com/artist/1a3bTQmBNmgiY3U7sMh9pf) | [左轉燈 \(1000 Times+1\)](https://open.spotify.com/album/4i9a1vM9oimwgR1z8zCCxs) | 3:17 |
 | 41 | [太陽之子](https://open.spotify.com/track/64Odl9Q0nrMjUlCfmBZKCp) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 4:57 |
-| 42 | [BANG BANG](https://open.spotify.com/track/7pBE8YpFoZ9ankC2Ci5z9X) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x) | 2:58 |
+| 42 | [BANG BANG](https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 2:58 |
 | 43 | [若無你我欲去佗位](https://open.spotify.com/track/76EfpqmO6JUL2TTR1SIGwz) | [黃奇斌](https://open.spotify.com/artist/7td0pZH6CpEX2f36bU1H2D) | [若無你我欲去佗位](https://open.spotify.com/album/62aFcrZppdH6tQqYX5ncIQ) | 3:41 |
 | 44 | [一夜一夜一夜](https://open.spotify.com/track/3wofqqt5YJWdhLI9IFaX39) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [HeartBreakFast 傷心早餐店](https://open.spotify.com/album/3B4ldF0a4F6FXi2SB94m4U) | 4:07 |
 | 45 | [愛琴海](https://open.spotify.com/track/3lzHO8msJ0ykGa0v8s4vu0) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [愛情的大壞蛋](https://open.spotify.com/track/5HVq8nS0pbM6G7YK8M7DY4) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI) | [Amazing Show同名專輯](https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau) | 3:07 |
 | 50 | [小半](https://open.spotify.com/track/3QxWTqyIT4O9bokIZlNDpo) | [陳粒](https://open.spotify.com/artist/3SyC3U06X0DjdWd2Jf6V8Q) | [小梦大半](https://open.spotify.com/album/7jXDJuL3KJ9N28rVjmuUrl) | 4:57 |
 
-Snapshot ID: `MXw5oAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MX2LIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

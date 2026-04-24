@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 
 > Pronto pra pool party? Vem com a gente!
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,826 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,814 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 27 | [Cheia de Manias \- Ao Vivo](https://open.spotify.com/track/5JQQylp65Mlpm6yC2JxHHr) | [Raça Negra](https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Raça Negra e Amigos II \(Ao Vivo\)](https://open.spotify.com/album/0hSUBFqEpxTYTXyYfVncOw) | 4:37 |
 | 28 | [Ao Vivo E A Cores](https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Ao Vivo E A Cores](https://open.spotify.com/album/446dHiuQt06TAh4sWU02vo) | 3:00 |
 | 29 | [12 Horas](https://open.spotify.com/track/7B826fTyDa3DkjnKpOgXFo) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [12 Horas](https://open.spotify.com/album/2ook1jniY6KP7rr7xmgpcW) | 4:00 |
-| 30 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
-| 31 | [Aí Eu Bebo \- Ao Vivo](https://open.spotify.com/track/6lK3nCiigk34SGqEjpQoqO) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Aí Eu Bebo \(ao Vivo\)](https://open.spotify.com/album/6xWyByyXTcL2MUSi0mKewj) | 2:53 |
-| 32 | [Finalidade Era Ficar em Casa](https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Finalidade Era Ficar em Casa](https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP) | 3:05 |
+| 30 | [Finalidade Era Ficar em Casa](https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Finalidade Era Ficar em Casa](https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP) | 3:05 |
+| 31 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
+| 32 | [Aí Eu Bebo \- Ao Vivo](https://open.spotify.com/track/6lK3nCiigk34SGqEjpQoqO) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Aí Eu Bebo \(ao Vivo\)](https://open.spotify.com/album/6xWyByyXTcL2MUSi0mKewj) | 2:53 |
 | 33 | [Inquilina \- Ao Vivo](https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Xperience Na Praia \(ao Vivo\)](https://open.spotify.com/album/04wtAfOnYEQvi7i6Iu9tA5) | 4:05 |
 | 34 | [GALOPA](https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Danflin](https://open.spotify.com/artist/5FAaE0nqQcRWZUOIObttHr) | [GALOPA](https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV) | 2:20 |
 | 35 | [Isso Que é Vida](https://open.spotify.com/track/1dKYlw6v9wofuqb7EXSvPn) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Cantini](https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3) | [Isso Que é Vida](https://open.spotify.com/album/7wXkUm13tvmKQ9LJjmkkfm) | 2:39 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 56 | [Jenifer](https://open.spotify.com/track/5ixqGGFu0hdHfErdp32QwT) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [Jenifer](https://open.spotify.com/album/6YwWXICxS8FALgq3cZclsH) | 2:40 |
 | 57 | [Pagodão in the Usa](https://open.spotify.com/track/0innc8nhrzOD2So8Chekvi) | [Ventura](https://open.spotify.com/artist/0awYrHoDgY7bTDlAb3wGuF), [DJ Nardini](https://open.spotify.com/artist/1zGxPsrLbk8aVWBRmdQD9E) | [Quarenight](https://open.spotify.com/album/3LEo6WorscdkYEUYBedWud) | 2:32 |
 | 58 | [Só Depois do Carnaval](https://open.spotify.com/track/6HtVFR6WAeJRgYtleNcEE8) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [Só Depois do Carnaval](https://open.spotify.com/album/4UPVYuREwSxXKWtAHlSz7E) | 2:46 |
-| 59 | [Solta a batida](https://open.spotify.com/track/4yjljBusKH0hgsIzHlF85T) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Solta a batida](https://open.spotify.com/album/37ENHzff2cXEOqVbJ4WjY4) | 2:49 |
-| 60 | [Permanecer \(feat\. MC G15\)](https://open.spotify.com/track/3sIMCkwUZbQbWeNOTG3ET4) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Permanecer \(feat\. MC G15\)](https://open.spotify.com/album/5w9U9duIPCVzHmgzEQWeZX) | 3:22 |
+| 59 | [Permanecer \(feat\. MC G15\)](https://open.spotify.com/track/3sIMCkwUZbQbWeNOTG3ET4) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Permanecer \(feat\. MC G15\)](https://open.spotify.com/album/5w9U9duIPCVzHmgzEQWeZX) | 3:22 |
+| 60 | [Solta a batida](https://open.spotify.com/track/4yjljBusKH0hgsIzHlF85T) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Solta a batida](https://open.spotify.com/album/37ENHzff2cXEOqVbJ4WjY4) | 2:49 |
 | 61 | [Século 21](https://open.spotify.com/track/7jiGFTWeO3MmMN9dpHRjUZ) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Século 21](https://open.spotify.com/album/5k9YDvQ6t8iHsfWGyJVox7) | 2:47 |
 | 62 | [Pot\-Pourri: Outdoor / Curtindo a Vida \- Ao Vivo](https://open.spotify.com/track/2xl2TBSYbuUm46UXwPKK1g) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Tardezinha 2 \(Ao Vivo\)](https://open.spotify.com/album/3H3Pd9vGhDAp9bt3JWUgCA) | 4:03 |
 | 63 | [O Impossível](https://open.spotify.com/track/3RVylAtukXgF7xSXFn2OwA) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [O Impossível](https://open.spotify.com/album/0VrpBbLjRWbR2abs4Y7vOx) | 2:57 |

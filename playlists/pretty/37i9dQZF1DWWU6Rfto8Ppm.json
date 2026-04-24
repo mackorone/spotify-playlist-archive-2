@@ -1,6 +1,6 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 3962569,
+  "num_followers": 3963253,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -1303,6 +1303,30 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/7lGCEseaqunqtGS0q7QBt1"
+      },
+      "artists": [
+        {
+          "name": "Nigga",
+          "url": "https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd"
+        },
+        {
+          "name": "Flex",
+          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
+        },
+        {
+          "name": "Japanese",
+          "url": "https://open.spotify.com/artist/0gMAKyA5gWUJiVU5S082KT"
+        }
+      ],
+      "duration_ms": 182186,
+      "name": "Eras Una Ni\u00f1a (feat. Japanese)",
+      "url": "https://open.spotify.com/track/7kCCtz3tsrJDXHROROt5bw"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/14YMgKbaj0NVyvOckxX6AZ"
       },
@@ -1367,30 +1391,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/7lGCEseaqunqtGS0q7QBt1"
-      },
-      "artists": [
-        {
-          "name": "Nigga",
-          "url": "https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd"
-        },
-        {
-          "name": "Flex",
-          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
-        },
-        {
-          "name": "Japanese",
-          "url": "https://open.spotify.com/artist/0gMAKyA5gWUJiVU5S082KT"
-        }
-      ],
-      "duration_ms": 182186,
-      "name": "Eras Una Ni\u00f1a (feat. Japanese)",
-      "url": "https://open.spotify.com/track/7kCCtz3tsrJDXHROROt5bw"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "El Sobreviviente",
         "url": "https://open.spotify.com/album/4k5YrELX73vK5ALegjEReh"
       },
@@ -1427,6 +1427,26 @@
       "duration_ms": 188733,
       "name": "Siente El Boom",
       "url": "https://open.spotify.com/track/2iHr1co9ElgzHredwMNKOy"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "La Evoluci\u00f3n Romantic Style",
+        "url": "https://open.spotify.com/album/2LPVQyIdBHQC4ToANsvjMV"
+      },
+      "artists": [
+        {
+          "name": "Nigga",
+          "url": "https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd"
+        },
+        {
+          "name": "Mr. Saik",
+          "url": "https://open.spotify.com/artist/7fzjOp0zWBmu7M5R7kZW60"
+        }
+      ],
+      "duration_ms": 233659,
+      "name": "Dime Si Te Vas con \u00c9l",
+      "url": "https://open.spotify.com/track/2SgI67b7Kei5FE4hT9SxDv"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -1479,26 +1499,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "La Evoluci\u00f3n Romantic Style",
-        "url": "https://open.spotify.com/album/2LPVQyIdBHQC4ToANsvjMV"
-      },
-      "artists": [
-        {
-          "name": "Nigga",
-          "url": "https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd"
-        },
-        {
-          "name": "Mr. Saik",
-          "url": "https://open.spotify.com/artist/7fzjOp0zWBmu7M5R7kZW60"
-        }
-      ],
-      "duration_ms": 233659,
-      "name": "Dime Si Te Vas con \u00c9l",
-      "url": "https://open.spotify.com/track/2SgI67b7Kei5FE4hT9SxDv"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "Luny Tunes Presents ERRE XI",
         "url": "https://open.spotify.com/album/0PKXKZ0k8BPkxT4nOVFESl"
       },
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/7lGCEseaqunqtGS0q7QBt1"
+      },
+      "artists": [
+        {
+          "name": "Nigga",
+          "url": "https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd"
+        },
+        {
+          "name": "Flex",
+          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Si No Te Tengo",
+      "url": "https://open.spotify.com/track/5CxTmO3ri43RrwK1CZ8HTW"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
         "name": "El Abayarde",
         "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
@@ -1563,26 +1583,6 @@
       "duration_ms": 208840,
       "name": "Bata Bata 2",
       "url": "https://open.spotify.com/track/1N1KlnNm1NE4INLOrKN3fi"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/7lGCEseaqunqtGS0q7QBt1"
-      },
-      "artists": [
-        {
-          "name": "Nigga",
-          "url": "https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd"
-        },
-        {
-          "name": "Flex",
-          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Si No Te Tengo",
-      "url": "https://open.spotify.com/track/5CxTmO3ri43RrwK1CZ8HTW"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "Quien Contra Mi",
-        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 136026,
-      "name": "Te Suelto el Pelo",
-      "url": "https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "Tocarte Toa (2008 / Remix)",
         "url": "https://open.spotify.com/album/0rlXTj8oXS1sQbDXHhmBnf"
       },
@@ -2059,18 +2043,18 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "Mas Flow - Los Benjamins",
-        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
+        "name": "Quien Contra Mi",
+        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
       },
       "artists": [
         {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 152613,
-      "name": "Alocate",
-      "url": "https://open.spotify.com/track/6Xc5cfbWz7MUxqAZpxj2bT"
+      "duration_ms": 136026,
+      "name": "Te Suelto el Pelo",
+      "url": "https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -2087,6 +2071,22 @@
       "duration_ms": 212493,
       "name": "A Ti No",
       "url": "https://open.spotify.com/track/5o16Hl9vooRuiQ5aiWNSJo"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "Mas Flow - Los Benjamins",
+        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Alocate",
+      "url": "https://open.spotify.com/track/6Xc5cfbWz7MUxqAZpxj2bT"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -2783,22 +2783,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "It's My Time",
-        "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        }
-      ],
-      "duration_ms": 157291,
-      "name": "El Tra",
-      "url": "https://open.spotify.com/track/14nnQDyyoTuRYfOgGQBjDD"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "Quiero Una Chica",
         "url": "https://open.spotify.com/album/24onBhnqUpvHxa86tmKpNe"
       },
@@ -2811,6 +2795,22 @@
       "duration_ms": 175673,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/1QYQaNlkmzIol3BdqFtGqb"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "It's My Time",
+        "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "duration_ms": 157291,
+      "name": "El Tra",
+      "url": "https://open.spotify.com/track/14nnQDyyoTuRYfOgGQBjDD"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -2887,6 +2887,22 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
+        "name": "Mis Ojos Lloran Por Ti",
+        "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
+      },
+      "artists": [
+        {
+          "name": "Big Boy",
+          "url": "https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "Voz Sensual",
+      "url": "https://open.spotify.com/track/4eBRM5oc92XWVomWI3OsUf"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
         "name": "Guillaera",
         "url": "https://open.spotify.com/album/6MmriVAm5hv6bVImoUWRpP"
       },
@@ -2903,18 +2919,18 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "Mis Ojos Lloran Por Ti",
-        "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
+        "name": "Masterpiece: Nuestra Obra Maestra",
+        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
       },
       "artists": [
         {
-          "name": "Big Boy",
-          "url": "https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG"
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
         }
       ],
-      "duration_ms": 171066,
-      "name": "Voz Sensual",
-      "url": "https://open.spotify.com/track/4eBRM5oc92XWVomWI3OsUf"
+      "duration_ms": 214973,
+      "name": "Dame Lo Que Quiero",
+      "url": "https://open.spotify.com/track/71sr98qRCe9ppXFv2QCQr1"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -2935,22 +2951,6 @@
       "duration_ms": 256756,
       "name": "Ella Se Contradice (feat. Plan B)",
       "url": "https://open.spotify.com/track/4nNeRNXmdZWfw3IjAnITZR"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
-        "name": "Masterpiece: Nuestra Obra Maestra",
-        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
-      },
-      "artists": [
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Dame Lo Que Quiero",
-      "url": "https://open.spotify.com/track/71sr98qRCe9ppXFv2QCQr1"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -3007,22 +3007,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "2K20, Pt. 1 (Live)",
-        "url": "https://open.spotify.com/album/0N091826fEGbqVB1NnKguC"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 128259,
-      "name": "Mayor Que Yo - Live",
-      "url": "https://open.spotify.com/track/5JXopnXnBeEH4eiiFvhMSc"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "The Royalty",
         "url": "https://open.spotify.com/album/7j07WDJHBIEwhu7mkbT9bI"
       },
@@ -3035,6 +3019,22 @@
       "duration_ms": 189506,
       "name": "Tuve un Sueno",
       "url": "https://open.spotify.com/track/7LfXCNzYnWfTeDRDe1sU08"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "2K20, Pt. 1 (Live)",
+        "url": "https://open.spotify.com/album/0N091826fEGbqVB1NnKguC"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 128259,
+      "name": "Mayor Que Yo - Live",
+      "url": "https://open.spotify.com/track/5JXopnXnBeEH4eiiFvhMSc"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -3687,26 +3687,6 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
-        "name": "Goldstar Music La Familia Reggaeton Hits",
-        "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        },
-        {
-          "name": "Yomo",
-          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
-        }
-      ],
-      "duration_ms": 248406,
-      "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
-      "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
         "name": "La Reunion",
         "url": "https://open.spotify.com/album/7tZ6A3h843NyVgqtOD4e8Q"
       },
@@ -3731,6 +3711,26 @@
     {
       "added_at": "2026-03-19 17:34:20",
       "album": {
+        "name": "Goldstar Music La Familia Reggaeton Hits",
+        "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        },
+        {
+          "name": "Yomo",
+          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
+        }
+      ],
+      "duration_ms": 248406,
+      "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
+      "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
         "name": "Chosen Few El Documental II",
         "url": "https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe"
       },
@@ -3743,22 +3743,6 @@
       "duration_ms": 183133,
       "name": "Frikitona",
       "url": "https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU"
-    },
-    {
-      "added_at": "2026-03-19 17:34:20",
-      "album": {
-        "name": "e5",
-        "url": "https://open.spotify.com/album/50m6CwGzwKsAcVPz9SCMrp"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 183053,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/4HNlRF6Nux7jU68kTpX7CP"
     },
     {
       "added_at": "2026-03-19 17:34:20",
@@ -3779,6 +3763,26 @@
       "duration_ms": 208106,
       "name": "Gata Fiera (feat. Joan)",
       "url": "https://open.spotify.com/track/3UnbRNCJlDzSKz5Yq0dIOs"
+    },
+    {
+      "added_at": "2026-03-19 17:34:20",
+      "album": {
+        "name": "Te Pintaron Pajaritos",
+        "url": "https://open.spotify.com/album/3DQCcUo4IlRoSAMo8MPl9m"
+      },
+      "artists": [
+        {
+          "name": "Yandar & Yostin",
+          "url": "https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl"
+        },
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "duration_ms": 172374,
+      "name": "Te Pintaron Pajaritos",
+      "url": "https://open.spotify.com/track/419w8oZaqevgyZfdvFZEHa"
     }
   ],
   "unique_name": "Reggaet\u00f3n Viejito",

@@ -1,6 +1,6 @@
 {
   "description": "All your favorite Disney hits, including classics from Encanto, Descendants, Frozen, Mufasa: The Lion King, and Lilo & Stitch. ",
-  "num_followers": 5769134,
+  "num_followers": 5770073,
   "original_name": "Disney Hits",
   "owner": {
     "name": "Spotify",
@@ -168,6 +168,14 @@
       },
       "artists": [
         {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
           "name": "Samuel E. Wright",
           "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
         },
@@ -224,12 +232,24 @@
       },
       "artists": [
         {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
           "name": "Jodi Benson",
           "url": "https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH"
         },
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
         }
       ],
       "duration_ms": 195493,

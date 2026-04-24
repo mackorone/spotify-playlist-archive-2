@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 11466,
+  "num_followers": 11467,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAACPAUq/1kYUE2byDkui4xVd",
+  "snapshot_id": "aegPgAAAAADx8K/LWwgWFHOPmlTlJqQ5",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
         }
       ],
-      "duration_ms": 124626,
-      "name": "Outlander - The Skye Boat Song (Castle Leoch Version) [feat. Raya Yarbrough]",
-      "url": "https://open.spotify.com/track/3RQPR2TN3DIj4dqDUEE2LO"
+      "duration_ms": 278946,
+      "name": "Dance of the Druids (feat. Raya Yarbrough)",
+      "url": "https://open.spotify.com/track/39IOkz6LpC1qc5Wnt0T07r"
     },
     {
       "added_at": null,
@@ -144,9 +144,9 @@
           "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
         }
       ],
-      "duration_ms": 278946,
-      "name": "Dance of the Druids (feat. Raya Yarbrough)",
-      "url": "https://open.spotify.com/track/39IOkz6LpC1qc5Wnt0T07r"
+      "duration_ms": 124626,
+      "name": "Outlander - The Skye Boat Song (Castle Leoch Version) [feat. Raya Yarbrough]",
+      "url": "https://open.spotify.com/track/3RQPR2TN3DIj4dqDUEE2LO"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War (PlayStation Soundtrack)",
-        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+        "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 223866,
-      "name": "Lullaby of the Giants (From \"God of War\" Soundtrack)",
-      "url": "https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v"
+      "duration_ms": 154560,
+      "name": "Godzilla Main Title",
+      "url": "https://open.spotify.com/track/6EscmbDWTIP17ZgNWOqPlf"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 154560,
-      "name": "Godzilla Main Title",
-      "url": "https://open.spotify.com/track/6EscmbDWTIP17ZgNWOqPlf"
+      "duration_ms": 223866,
+      "name": "Lullaby of the Giants (From \"God of War\" Soundtrack)",
+      "url": "https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlander: Season 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "The New Fraser's Ridge",
+      "url": "https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God of War (PlayStation Soundtrack)",
         "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 369640,
       "name": "Ashes (From \"God of War\" Soundtrack) (feat. Eiv\u00f8r)",
       "url": "https://open.spotify.com/track/0bNt9DVNAQi8CeMGSP7mQr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Season 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "The New Fraser's Ridge",
-      "url": "https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe"
     },
     {
       "added_at": null,
@@ -687,6 +687,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlander: Blood of my Blood (Season 1 Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 238314,
+      "name": "The Julia and Henry Theme",
+      "url": "https://open.spotify.com/track/5L97IMqGQrDaHMQaCeg3pQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 160069,
+      "name": "Forgiveness Takes an Age",
+      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Raya Yarbrough",
+          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
+        }
+      ],
+      "duration_ms": 306906,
+      "name": "On the Road",
+      "url": "https://open.spotify.com/track/1ZvTNTwGDDQ3lZdFHGniSQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Eight: Alloyed - Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/6ZqOU4HF77DpP42vXG09rP"
       },
@@ -699,6 +751,26 @@
       "duration_ms": 209624,
       "name": "Black Flags",
       "url": "https://open.spotify.com/track/2JDiNTQYlq0ok8ZI0G9S3M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Four: The Great Wave - Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sophia Nomvete",
+          "url": "https://open.spotify.com/artist/4psdBvyZ9koExsBkXNWvrW"
+        }
+      ],
+      "duration_ms": 227386,
+      "name": "A Plea to the Rocks",
+      "url": "https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l"
     },
     {
       "added_at": null,
@@ -736,61 +808,9 @@
           "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
         }
       ],
-      "duration_ms": 306906,
-      "name": "On the Road",
-      "url": "https://open.spotify.com/track/1ZvTNTwGDDQ3lZdFHGniSQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Blood of my Blood (Season 1 Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 238314,
-      "name": "The Julia and Henry Theme",
-      "url": "https://open.spotify.com/track/5L97IMqGQrDaHMQaCeg3pQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Four: The Great Wave - Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Sophia Nomvete",
-          "url": "https://open.spotify.com/artist/4psdBvyZ9koExsBkXNWvrW"
-        }
-      ],
-      "duration_ms": 227386,
-      "name": "A Plea to the Rocks",
-      "url": "https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 160069,
-      "name": "Forgiveness Takes an Age",
-      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
+      "duration_ms": 429440,
+      "name": "The Key to Lallybroch",
+      "url": "https://open.spotify.com/track/1zWAmJcTnSmDFdGknjMiNl"
     },
     {
       "added_at": null,
@@ -807,26 +827,6 @@
       "duration_ms": 182186,
       "name": "Witch of the Woods (From \"God of War\" Soundtrack)",
       "url": "https://open.spotify.com/track/4w0ZGptbkHLkKZhLVTg5He"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Raya Yarbrough",
-          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
-        }
-      ],
-      "duration_ms": 429440,
-      "name": "The Key to Lallybroch",
-      "url": "https://open.spotify.com/track/1zWAmJcTnSmDFdGknjMiNl"
     },
     {
       "added_at": null,
@@ -867,6 +867,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Raya Yarbrough",
+          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "Charge of the Highland Cattle",
+      "url": "https://open.spotify.com/track/1cmoHziGJcSbOkJ8jw83C3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
       },
@@ -883,22 +903,6 @@
       "duration_ms": 141720,
       "name": "The Echo and the River",
       "url": "https://open.spotify.com/track/44s77gJbPi0QizWRLJDhz8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Sails (A Starz Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 202440,
-      "name": "A Nation of Thieves",
-      "url": "https://open.spotify.com/track/7AVTt9u2sWa3q1YXRLqyxx"
     }
   ],
   "unique_name": "This Is Bear McCreary",

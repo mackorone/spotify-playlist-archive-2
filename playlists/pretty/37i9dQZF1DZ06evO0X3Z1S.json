@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 88134,
+  "num_followers": 88137,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAACRz1blOqDcw1SesycBvQ+7",
+  "snapshot_id": "aegPgAAAAAATtY+oojRJiLH5rE7aFsdn",
   "tracks": [
     {
       "added_at": null,
@@ -675,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
-        }
-      ],
-      "duration_ms": 188891,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Younger",
         "url": "https://open.spotify.com/album/26IuzA897QHyOQVYBWXtTD"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 194720,
       "name": "Younger",
       "url": "https://open.spotify.com/track/4D7ERaKgv8NAeck8RzUtRz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 188891,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV"
     },
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/7koSts2YQyNIzS6unvkTfU"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 200694,
-      "name": "You're The One",
-      "url": "https://open.spotify.com/track/4WLQxsTTcTE8eFhdv5Wl83"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Wanna Dance",
         "url": "https://open.spotify.com/album/3niF8tyjfJw8pmfc6VYKGa"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 167040,
       "name": "MOONLIGHT SUNRISE (Jonas Blue Remix)",
       "url": "https://open.spotify.com/track/0H8vXZHYrbMfYJlojEjiS3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/7koSts2YQyNIzS6unvkTfU"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 200694,
+      "name": "You're The One",
+      "url": "https://open.spotify.com/track/4WLQxsTTcTE8eFhdv5Wl83"
     },
     {
       "added_at": null,

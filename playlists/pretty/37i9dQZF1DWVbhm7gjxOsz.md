@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,874 likes - 150 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,938 likes - 150 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 21 | [Whatcha See Is Whatcha Get](https://open.spotify.com/track/5lYpHO6ZO4Shys3GD8rav6) | [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [The Very Best Of The Dramatics](https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7) | 3:34 |
 | 22 | [Baby, I'm Yours](https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Baby, I'm Yours](https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN) | 2:28 |
 | 23 | [Suavecito](https://open.spotify.com/track/5QoFWpXoaUyT44VmR98wLl) | [Malo](https://open.spotify.com/artist/2vmTJisPQCD5ThbxbFehAB) | [Malo](https://open.spotify.com/album/0idohj8jELOTtI3sUdGWUo) | 6:35 |
-| 24 | [Yes, I'm Ready](https://open.spotify.com/track/2gZpW5pTZkimGG98loFSl2) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [Yes I'm Ready](https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj) | 3:04 |
+| 24 | [Natural High](https://open.spotify.com/track/7aKrysuyZvDnU3JwnlO3dd) | [Bloodstone](https://open.spotify.com/artist/7z1zaOeWiHpl4SD2N9ZBgk) | [Natural High](https://open.spotify.com/album/4kjf1C8Xpqr2e7pTDwblG2) | 4:00 |
 | 25 | [Gimme Little Sign](https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Oogum Boogum](https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf) | 2:21 |
-| 26 | [Natural High](https://open.spotify.com/track/7aKrysuyZvDnU3JwnlO3dd) | [Bloodstone](https://open.spotify.com/artist/7z1zaOeWiHpl4SD2N9ZBgk) | [Natural High](https://open.spotify.com/album/4kjf1C8Xpqr2e7pTDwblG2) | 4:00 |
+| 26 | [Yes, I'm Ready](https://open.spotify.com/track/2gZpW5pTZkimGG98loFSl2) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [Yes I'm Ready](https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj) | 3:04 |
 | 27 | [Hello Stranger](https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Hello Stranger](https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw) | 2:46 |
 | 28 | [I Wanna Get Next To You](https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Car Wash](https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz) | 3:58 |
 | 29 | [Duke of Earl](https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy) | [Gene Chandler](https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW) | [The Duke Of Earl](https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl) | 2:27 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 66 | [Sabor A Mi](https://open.spotify.com/track/35EQEi6Od5PWvI8XHEmttd) | [El Chicano](https://open.spotify.com/artist/3vkhZMoCdp5lBgrk9l2nCL) | [Revolución](https://open.spotify.com/album/3F8b7LBhlewYqU1MQrKTus) | 3:17 |
 | 67 | [I'm On The Outside \(Looking In\)](https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [I'm On The Outside \(Looking In\)](https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys) | 3:12 |
 | 68 | [Two Lovers](https://open.spotify.com/track/00CmjeeHvAVKvx3tcIiZTy) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Two Lovers](https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL) | 2:46 |
-| 69 | [I Want A Love I Can See](https://open.spotify.com/track/5XOGZdDM17WzrXRQz96Fu1) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Meet The Temptations](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) | 2:32 |
-| 70 | [Baby It's You](https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Will You Still Love Me Tomorrow](https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ) | 2:41 |
+| 69 | [Baby It's You](https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Will You Still Love Me Tomorrow](https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ) | 2:41 |
+| 70 | [I Want A Love I Can See](https://open.spotify.com/track/5XOGZdDM17WzrXRQz96Fu1) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Meet The Temptations](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) | 2:32 |
 | 71 | [Going In Circles](https://open.spotify.com/track/5gUk26spbkbYgXmDTMbW3C) | [The Friends Of Distinction](https://open.spotify.com/artist/2KK4fR5VwOjGzJxjbGxMIu) | [Grazin'](https://open.spotify.com/album/3LPgvdYSDRmaRmZV0KA0Kw) | 4:12 |
 | 72 | [The Town I Live In](https://open.spotify.com/track/4vGzFH1JVhQTkTCidx2pnE) | [Thee Midniters](https://open.spotify.com/artist/2Z66arG61B0TdhwE9kWy23) | [Greatest Slow Jams](https://open.spotify.com/album/0zMWHOjYyuv41k1Aw7Logw) | 3:18 |
 | 73 | [You're Still a Young Man](https://open.spotify.com/track/0LDauNxnqI5nsyCa2Xsc5W) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Bump City](https://open.spotify.com/album/4LXDYSJXbPftFYawbEMMLI) | 5:37 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 108 | [Angel Baby \(Spanglish\)](https://open.spotify.com/track/6H81RwUg1lNqJr7jI1KAHi) | [Rosie & The Originals](https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf) | [The Chicano Alliance](https://open.spotify.com/album/26vF6HjaflI30q1EXqsfC1) | 3:34 |
 | 109 | [Porque Te Quiero](https://open.spotify.com/track/7FAA8FEuRTmHlIT3dP9zSo) | [La Mission](https://open.spotify.com/artist/1TVxYSi4P15H2g58HDdWaG), [Orlando Torriente](https://open.spotify.com/artist/378d3VKREhA9ih9n29qSno) | [Songs from La Mission \(Original Motion Soundtrack\)](https://open.spotify.com/album/7ynAgX8j9lBMzF7oiVZnNJ) | 4:11 |
 | 110 | [You'll Lose a Good Thing \(Rerecorded\)](https://open.spotify.com/track/6Iqd5wxINx22rdhfBYc3vl) | [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [The Love Album](https://open.spotify.com/album/6OvMYEEqX0kJhUab0G591A) | 2:36 |
-| 111 | [Young Love](https://open.spotify.com/track/0gGGMJtavPCoD5Ydobp6JV) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Irons In The Fire](https://open.spotify.com/album/5xkX5ZagTMNm1xEYNHht5a) | 5:29 |
-| 112 | [Grow Forever](https://open.spotify.com/track/7lMJlw5lkmFXHjlH6KP5tt) | [Lizette & Quevin](https://open.spotify.com/artist/1Ja8gq8kybmwpYcCSVNBqY) | [Grow Forever b/w Now It’s Your Turn To Sing](https://open.spotify.com/album/1T6sOXNigseNAd33KdLGXL) | 3:13 |
+| 111 | [Grow Forever](https://open.spotify.com/track/7lMJlw5lkmFXHjlH6KP5tt) | [Lizette & Quevin](https://open.spotify.com/artist/1Ja8gq8kybmwpYcCSVNBqY) | [Grow Forever b/w Now It’s Your Turn To Sing](https://open.spotify.com/album/1T6sOXNigseNAd33KdLGXL) | 3:13 |
+| 112 | [Young Love](https://open.spotify.com/track/0gGGMJtavPCoD5Ydobp6JV) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Irons In The Fire](https://open.spotify.com/album/5xkX5ZagTMNm1xEYNHht5a) | 5:29 |
 | 113 | [Pure Intentions \(feat\. Gabriella\)](https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Pure Intentions](https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP) | 2:56 |
 | 114 | [I Love You for All Seasons](https://open.spotify.com/track/7tZFmAL5qNhry1hCWIUyng) | [Monica Rocha](https://open.spotify.com/artist/5hmUF4owAsrwthZ4K5k5dy), [Malik Malo](https://open.spotify.com/artist/3CvU8v4vOHDYPw6G7rPqWZ) | [I Love You for All Seasons](https://open.spotify.com/album/06difTfbdKd1uUlYeOxllX) | 3:16 |
 | 115 | [Going Out of My Head \- Remastered](https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Essential Delfonics](https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ) | 2:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 
 > The ultimate classical playlist for soothing stretching, practicing pliés and point at the barre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,639 likes - 44 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,707 likes - 44 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 | 17 | [Let It Go \- From "Frozen"](https://open.spotify.com/track/0mQzAOKpgaG0h85AGjuFuA) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Christian Li](https://open.spotify.com/artist/06h3rv6B0pED0LXjFgODBR) | [Disney Goes Classical](https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg) | 3:43 |
 | 18 | [Canon in D](https://open.spotify.com/track/4z975AdWUSskIhqKoVxdrq) | [Kassia](https://open.spotify.com/artist/3m8qh3adp23dCoZBHZt5IH) | [Canon in D](https://open.spotify.com/album/5pyMYXty2dJ66sO1gxqxw3) | 2:43 |
 | 19 | [A Whole New World \- From "Aladdin"](https://open.spotify.com/track/5TeXMYKNT0Ab8Bk0kCjd3m) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Disney Goes Classical](https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg) | 2:43 |
-| 20 | [Main Titles \- The Little Mermaid](https://open.spotify.com/track/09HBvmj0dUeQYHGbKJefR5) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 1:26 |
+| 20 | [Main Titles \- The Little Mermaid](https://open.spotify.com/track/09HBvmj0dUeQYHGbKJefR5) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [J.A.C\. Redford](https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 1:26 |
 | 21 | [Vivaldi 4 Seasons, Winter 2 \- Largo](https://open.spotify.com/track/7IkaWG9DyvnjZvKRxyCxST) | [Manuele Cid](https://open.spotify.com/artist/61r0gpyOLgDz7475HFaJop) | [Vivaldi's 4 Seasons \- Piano Transcription](https://open.spotify.com/album/3lWVrYODncw4IA2Jkdrwhx) | 1:59 |
 | 22 | [Cardigan](https://open.spotify.com/track/0IHBDsG5J6qu6e8v1lJ8Qt) | [Minnz Piano](https://open.spotify.com/artist/0IqjJsWlAPR2IafHTtnjPQ) | [Folklore: Piano Instrumentals, Vol\. 1](https://open.spotify.com/album/3PD14fJEhU6pvXMhu1h9hU) | 3:40 |
 | 23 | [Dancing Queen \- Piano Version](https://open.spotify.com/track/0Wk9J0w4kRqRfyCaF2o8fe) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [70s Piano Covers \(Vol\. 1\)](https://open.spotify.com/album/4x73ONdkagOCvwenmR22hc) | 3:59 |

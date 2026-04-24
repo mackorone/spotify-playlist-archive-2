@@ -1557,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "BEAUTIFUL PARADOX",
+        "url": "https://open.spotify.com/album/6WlgobcU6XyVXy2zKmcUiw"
+      },
+      "artists": [
+        {
+          "name": "WHISPER OUT LOUD",
+          "url": "https://open.spotify.com/artist/7594VeFTC59RzlfoXUq8VP"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165077,
+      "name": "BEAUTIFUL PARADOX",
+      "url": "https://open.spotify.com/track/2Rt8iINYVyzRlGSwwFrvOs"
+    },
+    {
+      "album": {
         "name": "beautiful\u306d",
         "url": "https://open.spotify.com/album/5NI6YBLxZhIoaNHiQeNuV3"
       },
@@ -3016,7 +3034,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 252765,
       "name": "Dreamer Believer",
       "url": "https://open.spotify.com/track/4BSjXW2S0gOrM1Eg5bjsAw"
@@ -22644,7 +22662,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 207786,
       "name": "\u4e00\u751f\u4ef2\u4ed4",
       "url": "https://open.spotify.com/track/3NOSJZOUY8azb5MX8D7JAw"
@@ -30722,7 +30740,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 209537,
       "name": "\u9169\u914a",
       "url": "https://open.spotify.com/track/1vkRsVW9ELTHPHAjk1pdEc"

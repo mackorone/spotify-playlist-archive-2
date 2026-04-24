@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOTEEDNE926.md) - [plain]
 
 > las mujeres ya no lloran ✨ DANNA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,966 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,007 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOTEEDNE926.md) - [plain]
 | 13 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 |
 | 14 | [DESAYUNO](https://open.spotify.com/track/0HzR43DWFYrLKz4TZRhOgE) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Eiti](https://open.spotify.com/artist/6Q1zzyq7SwqX6JhLAIKl3I) | [DESAYUNO](https://open.spotify.com/album/6HHvcp0vkHkmyDJOmiNBp2) | 2:27 |
 | 15 | [bellaka](https://open.spotify.com/track/3SXcjqgF74D9saMLxD9GGC) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Confesiones de las que me voy a arrepentir](https://open.spotify.com/album/5OFNXI0QU9h4LTj9FIlTqE) | 2:40 |
-| 16 | [MAMITA](https://open.spotify.com/track/0xVDh9opWO7gNZveb9Zpts) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK), [Medio Picky](https://open.spotify.com/artist/13O8wsEj25pT1bgPSaMUgt) | [MAMITA](https://open.spotify.com/album/4E1DEFdB6crQuWzbohw74u) | 3:19 |
+| 16 | [MAMITA](https://open.spotify.com/track/0xVDh9opWO7gNZveb9Zpts) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK), [mediopicky](https://open.spotify.com/artist/6vOfSVXZAWvuZliupPw4Wm) | [MAMITA](https://open.spotify.com/album/4E1DEFdB6crQuWzbohw74u) | 3:19 |
 | 17 | [PERREO LLORANDO](https://open.spotify.com/track/44n0bJGRKc0aaKsYXZGq06) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [AMOR & DROGA](https://open.spotify.com/album/2nEcbAjssahw9l2VdiZswg) | 3:08 |
 | 18 | [Yo te conozco :\):](https://open.spotify.com/track/4GU8aQf9KGg6XgIr4x4T3I) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Yo te conozco :\):](https://open.spotify.com/album/7J309IvtGDlvmFZPcfpNge) | 1:58 |
 | 19 | [HACE CALOR](https://open.spotify.com/track/4tabsd3NLLwuT90wkuNh7C) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [QUIMERA](https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql) | 2:26 |

@@ -1,6 +1,6 @@
 {
   "description": "Enjoy your favorite Disney tunes, including \"Zoo\" from Zootopia 2!",
-  "num_followers": 2075077,
+  "num_followers": 2075124,
   "original_name": "Disney Favorites",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,14 @@
         "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
       },
       "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
         {
           "name": "Samuel E. Wright",
           "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
@@ -1484,12 +1492,24 @@
       },
       "artists": [
         {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
           "name": "Pat Carroll",
           "url": "https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW"
         },
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
         }
       ],
       "duration_ms": 291693,

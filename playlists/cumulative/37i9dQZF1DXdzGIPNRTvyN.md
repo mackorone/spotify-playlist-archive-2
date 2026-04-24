@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-517 songs - 1 day 0 hr 15 min
+519 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,7 +461,7 @@
 | [Summer Night Meditation](https://open.spotify.com/track/5wdxNFZD8ZRglYh65JikGO) | [Syla Lo](https://open.spotify.com/artist/3zNfKSIPCXKHZqlo2HQQl2) | [Summer Night Meditation](https://open.spotify.com/album/4nU5XjoyGoCLJbJ7lvXKts) | 2:57 | 2024-11-11 | 2025-05-31 |
 | [Sun\-drenched Greenery](https://open.spotify.com/track/3NNQpaLBsVHJrumz9inhFf) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Sun\-drenched Greenery](https://open.spotify.com/album/0mF5YSe2ziMY1EpNX4im50) | 3:24 | 2023-09-05 | 2025-10-02 |
 | [Sunray Meditation](https://open.spotify.com/track/0Sd3u27bXyYGW4mkRNOjeC) | [Astra Far](https://open.spotify.com/artist/1l8inXQNhMUFaDofdVS94T) | [Sunray Meditation](https://open.spotify.com/album/7yhDdHQVrlVMfuayOjVXyq) | 2:52 | 2026-03-16 | 2026-04-04 |
-| [Sunrise](https://open.spotify.com/track/08x0lo9qXTPOHpmJXOIUGV) | [Constant Future](https://open.spotify.com/artist/0MhUXfJGaHfNudsEeha6iA) | [Sunrise](https://open.spotify.com/album/32ag8xH70wLTbKDS6Rcq7Q) | 3:11 | 2024-12-04 |  |
+| [Sunrise](https://open.spotify.com/track/08x0lo9qXTPOHpmJXOIUGV) | [Constant Future](https://open.spotify.com/artist/0MhUXfJGaHfNudsEeha6iA) | [Sunrise](https://open.spotify.com/album/32ag8xH70wLTbKDS6Rcq7Q) | 3:11 | 2024-12-04 | 2026-04-24 |
 | [Sunrise In Zen](https://open.spotify.com/track/15ykqWIK6EJzZZqOcClrtF) | [Lost Lumina](https://open.spotify.com/artist/6hxR80dFvGZxlRm3Sd33KQ) | [Sunrise In Zen](https://open.spotify.com/album/6mNo4Z9EMW0iAvCkbMwtPq) | 2:36 | 2026-03-16 |  |
 | [Swells of Peace](https://open.spotify.com/track/2dIc6DpyULpWApOIcfrJ9R) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Swells of Peace](https://open.spotify.com/album/0JdcL1uvu23PI3A0pdYEPF) | 2:23 | 2024-01-30 | 2025-07-02 |
 | [Taigara](https://open.spotify.com/track/7K7ZAr3k3yiDTkBbYjTn3r) | [Pristeen](https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj) | [Taigara](https://open.spotify.com/album/4vDUobGl0tDNkhC45JOZYD) | 2:36 | 2026-01-21 |  |
@@ -480,6 +480,7 @@
 | [The Endel](https://open.spotify.com/track/0MZW4FxzYpMSBqnreMgl3t) | [C\. Lindquist](https://open.spotify.com/artist/59yCLT7odiMwxirAZ4YZaw) | [The Endel](https://open.spotify.com/album/7MpIqdRDsyxbCSyTcIkvIQ) | 3:41 | 2025-03-14 |  |
 | [The Forest Waking Up](https://open.spotify.com/track/3qw8EyWRVEci8CXhRybfz6) | [Taeda Trees](https://open.spotify.com/artist/100QpEbfbYFTY7RKL4zko0) | [The Forest Waking Up](https://open.spotify.com/album/0j9w6EhbopJaIyr5fFLde8) | 3:00 | 2023-03-20 | 2025-02-11 |
 | [The Golden Path](https://open.spotify.com/track/1n6RWCdlR1noijUCeoU1bn) | [Salome Azul](https://open.spotify.com/artist/0ukN1ypDmoKy71vfx6xw1j) | [The Golden Path](https://open.spotify.com/album/2gFNaNjUKztfUjenabaluq) | 2:14 | 2026-04-03 |  |
+| [The Ground Beneath](https://open.spotify.com/track/0DLDgts6WSS6c7JW9fpDWk) | [Aurelin](https://open.spotify.com/artist/4WxaQLOx5d0XXzj20fTd4X) | [The Ground Beneath](https://open.spotify.com/album/78rNE8rWFyf7Nv5o29c6xS) | 3:01 | 2026-04-17 |  |
 | [The Long Way Home](https://open.spotify.com/track/7waW8AXCVZvytfmgxdKuNf) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 3:49 | 2023-01-24 | 2023-07-29 |
 | [The Riddle of Dreams](https://open.spotify.com/track/3p8EPHwGsP6nX7UrwqzJlp) | [Epilogue Gravity](https://open.spotify.com/artist/1ujQ7yELrx9UJkxV0NiSCe) | [The Riddle of Dreams](https://open.spotify.com/album/0jWXe3O5djbov0RcnXJZFG) | 2:36 | 2023-04-24 | 2026-01-22 |
 | [The River Song](https://open.spotify.com/track/0jzdpv1d3C0k76jenFwPKI) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [The River Song](https://open.spotify.com/album/2obhenLWAFKvEz8J4Lza9q) | 2:44 | 2024-12-04 |  |
@@ -514,9 +515,10 @@
 | [WATERFALLS](https://open.spotify.com/track/6Y8AeQZTqpfDp3kynbzbBV) | [Keypling](https://open.spotify.com/artist/2V5UxuaY21iAxgMEqBBvFz) | [Cozy Cabin Piano Pieces](https://open.spotify.com/album/2szgUkYQvh2eYfiKtNxxNM) | 2:54 | 2023-01-24 | 2023-09-06 |
 | [Wayanad](https://open.spotify.com/track/5KzU3RczgJSImkXul9s3hm) | [Özone One](https://open.spotify.com/artist/4OCpAOPZviS8AW5gyBNn26) | [Wayanad](https://open.spotify.com/album/1QeAo6C6W5TPwj7cPqFbQn) | 3:01 | 2023-09-28 |  |
 | [Welcome Home](https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Welcome Home](https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr) | 2:15 | 2023-01-24 | 2023-05-20 |
-| [What the Earth Holds Gently](https://open.spotify.com/track/1prYa2Re5n3jIHv7wENSv6) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [What the Earth Holds Gently](https://open.spotify.com/album/0wEa1vIK9tVnyg7bv24J2w) | 3:20 | 2026-03-16 |  |
+| [What the Earth Holds Gently](https://open.spotify.com/track/1prYa2Re5n3jIHv7wENSv6) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [What the Earth Holds Gently](https://open.spotify.com/album/0wEa1vIK9tVnyg7bv24J2w) | 3:20 | 2026-03-16 | 2026-04-24 |
 | [Where the Rain Begins to Sing](https://open.spotify.com/track/12Yi9MWiPV33nFiccg7zzI) | [Lush Aura](https://open.spotify.com/artist/0rO9DA4in8mFpPhCTluEMW) | [Where the Rain Begins to Sing](https://open.spotify.com/album/4nA7eft1WMWMBNRqOLJsIR) | 3:20 | 2026-04-03 |  |
 | [Whispering Stream](https://open.spotify.com/track/1pmvW9hcN5WngmDjEZIOb8) | [BlunD](https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T) | [Whispering Stream](https://open.spotify.com/album/7gTsoPZiP1jy2I3CWGKpkX) | 2:49 | 2024-12-12 | 2026-04-16 |
+| [Whispers in the Pine Forest](https://open.spotify.com/track/6p6gKm0X8RdwcKx9l8Zrhp) | [Veldt Echoes](https://open.spotify.com/artist/1pKgi9vX4GjRUTo6tSt0Fd) | [Whispers in the Pine Forest](https://open.spotify.com/album/34l4g7qFPCUw2nwvMXw8Oa) | 2:31 | 2026-04-17 |  |
 | [White Light](https://open.spotify.com/track/6oGtCltZ2qtAjguWpxEXRT) | [Heal Divisions](https://open.spotify.com/artist/0kAuGd32wX67fzHjIJtSWn) | [White Light](https://open.spotify.com/album/0H3vdaaoJS6l7E8TDn49jy) | 2:58 | 2024-01-30 |  |
 | [Willamette Falls](https://open.spotify.com/track/7ksLJPOQmbSdCsHOB7ND4y) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Willamette Falls](https://open.spotify.com/album/093ls5rr0CjLaUmW4unO8i) | 2:57 | 2023-10-26 | 2025-07-02 |
 | [Willow](https://open.spotify.com/track/6ddY8fgnSHxHtgKB3BUjbp) | [Moonweaver](https://open.spotify.com/artist/14KfIfabF3QwyvJCIXZOHU) | [Willow](https://open.spotify.com/album/3fuCKYpyum8p0gliwfJhkC) | 2:38 | 2026-04-03 |  |

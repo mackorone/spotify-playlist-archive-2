@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 221778,
+  "num_followers": 221797,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
+        "name": "From Afar",
+        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
+      },
+      "artists": [
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 297253,
+      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
+      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
         "name": "Dear, Piano",
         "url": "https://open.spotify.com/album/1MrAfbbO15n2Y1odaVOt9u"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 271760,
       "name": "Patterns, Erase - Simeon Walker Rework",
       "url": "https://open.spotify.com/track/1Biw7PpA3W0wCSl4PPspsa"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
-        "name": "From Afar",
-        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
-      },
-      "artists": [
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 297253,
-      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
-      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -627,6 +627,26 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
+        "name": "Gjeilo: Winter Light",
+        "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        },
+        {
+          "name": "Roberto Sorrentino",
+          "url": "https://open.spotify.com/artist/0qMo8J1UbKsYkjFjS2PwRH"
+        }
+      ],
+      "duration_ms": 170080,
+      "name": "Winter Light",
+      "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
         "name": "J.S. Bach: Come, Sweet Death (Arr. for 5 Cellos)",
         "url": "https://open.spotify.com/album/7DuFXiU4QVs2ZNXPPGvNXD"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 197200,
       "name": "Come, Sweet Death, BWV 478 (Arr. for 5 Cellos)",
       "url": "https://open.spotify.com/track/4zdyJk5NEGXiWIZ87zfRVQ"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
-        "name": "Gjeilo: Winter Light",
-        "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
-      },
-      "artists": [
-        {
-          "name": "Ola Gjeilo",
-          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
-        },
-        {
-          "name": "Roberto Sorrentino",
-          "url": "https://open.spotify.com/artist/0qMo8J1UbKsYkjFjS2PwRH"
-        }
-      ],
-      "duration_ms": 170080,
-      "name": "Winter Light",
-      "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
-        "name": "Alexandre Tharaud: Baroque",
-        "url": "https://open.spotify.com/album/43QScdpgNzcF9vw3dcSWmn"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        }
-      ],
-      "duration_ms": 253413,
-      "name": "Concerto en r\u00e9 mineur, BWV 974: II. Adagio",
-      "url": "https://open.spotify.com/track/3CkbfNMYISwMGg2guJtTe4"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
         "name": "Couperin: Les Ombres Errantes",
         "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 139974,
       "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
       "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
+        "name": "Alexandre Tharaud: Baroque",
+        "url": "https://open.spotify.com/album/43QScdpgNzcF9vw3dcSWmn"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "duration_ms": 253413,
+      "name": "Concerto en r\u00e9 mineur, BWV 974: II. Adagio",
+      "url": "https://open.spotify.com/track/3CkbfNMYISwMGg2guJtTe4"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
+        "name": "Bach: Inventions & Sinfonias",
+        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+        }
+      ],
+      "duration_ms": 98120,
+      "name": "Invention No. 14 in B-Flat Major, BWV 785",
+      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
         "name": "Dancing Michelangelo (Andante Piano Sessions)",
         "url": "https://open.spotify.com/album/5BpXpfoLktI95OkrIGUCj0"
       },
@@ -1339,6 +1359,30 @@
       "duration_ms": 110583,
       "name": "Dancing Michelangelo - Andante Piano Sessions",
       "url": "https://open.spotify.com/track/4F9DSKCYPJfErYF2ZWkepj"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
+        "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
+        "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Jean-Claude Vanden Eynden",
+          "url": "https://open.spotify.com/artist/2vmsTRj0IgajXmCE8G5ALg"
+        },
+        {
+          "name": "Pierre-Alain Volondat",
+          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
+        }
+      ],
+      "duration_ms": 153640,
+      "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
+      "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -1367,50 +1411,6 @@
       "duration_ms": 425466,
       "name": "Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
       "url": "https://open.spotify.com/track/39Msge9Ii3X14GUuoAjdfk"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
-        "name": "Bach: Inventions & Sinfonias",
-        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Simone Dinnerstein",
-          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
-        }
-      ],
-      "duration_ms": 98120,
-      "name": "Invention No. 14 in B-Flat Major, BWV 785",
-      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
-        "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
-        "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Jean-Claude Vanden Eynden",
-          "url": "https://open.spotify.com/artist/2vmsTRj0IgajXmCE8G5ALg"
-        },
-        {
-          "name": "Pierre-Alain Volondat",
-          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
-        }
-      ],
-      "duration_ms": 153640,
-      "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
-      "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -1763,6 +1763,26 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
+        "name": "Birgisson: Where Life and Death May Dwell (Icelandic Folk Song)",
+        "url": "https://open.spotify.com/album/2bnR1j7bZ507HnOO3QVMsJ"
+      },
+      "artists": [
+        {
+          "name": "Snorri Sigf\u00fas Birgisson",
+          "url": "https://open.spotify.com/artist/69TbTWdCCyin22T8h1NUS6"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 105386,
+      "name": "Where Life and Death May Dwell (Icelandic Folk Song) - Upright Piano",
+      "url": "https://open.spotify.com/track/7CcujsBHI04yRbGvuGImWl"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
         "name": "She moved through the fair",
         "url": "https://open.spotify.com/album/6DhrJ0s37p4uEQOXBRnGVO"
       },
@@ -1795,26 +1815,6 @@
       "duration_ms": 138146,
       "name": "She moved through the fair",
       "url": "https://open.spotify.com/track/7nlbtYFtUBCJ82EjAIHGRR"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
-        "name": "Birgisson: Where Life and Death May Dwell (Icelandic Folk Song)",
-        "url": "https://open.spotify.com/album/2bnR1j7bZ507HnOO3QVMsJ"
-      },
-      "artists": [
-        {
-          "name": "Snorri Sigf\u00fas Birgisson",
-          "url": "https://open.spotify.com/artist/69TbTWdCCyin22T8h1NUS6"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 105386,
-      "name": "Where Life and Death May Dwell (Icelandic Folk Song) - Upright Piano",
-      "url": "https://open.spotify.com/track/7CcujsBHI04yRbGvuGImWl"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -2207,6 +2207,26 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
+        "name": "Klassieke Muziek voor Zondagochtend",
+        "url": "https://open.spotify.com/album/3dL5xXrW6tsjQNH6rml5Rn"
+      },
+      "artists": [
+        {
+          "name": "Enrique Granados",
+          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
+        },
+        {
+          "name": "Xavier De Maistre",
+          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
+        }
+      ],
+      "duration_ms": 96786,
+      "name": "Valses Po\u00e9ticos H. 147, DLR 7:8: No. 1: Mel\u00f3dico",
+      "url": "https://open.spotify.com/track/1UT4F8DOvzM616ZTOm1z6s"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
         "name": "Norway",
         "url": "https://open.spotify.com/album/5CO47sQ8DX7uMbJbQ8uM38"
       },
@@ -2227,26 +2247,6 @@
       "duration_ms": 294848,
       "name": "V\u00e5ren",
       "url": "https://open.spotify.com/track/3oBshZ7DMS9sAgja2M1JVV"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
-        "name": "Klassieke Muziek voor Zondagochtend",
-        "url": "https://open.spotify.com/album/3dL5xXrW6tsjQNH6rml5Rn"
-      },
-      "artists": [
-        {
-          "name": "Enrique Granados",
-          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
-        },
-        {
-          "name": "Xavier De Maistre",
-          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
-        }
-      ],
-      "duration_ms": 96786,
-      "name": "Valses Po\u00e9ticos H. 147, DLR 7:8: No. 1: Mel\u00f3dico",
-      "url": "https://open.spotify.com/track/1UT4F8DOvzM616ZTOm1z6s"
     },
     {
       "added_at": "2025-12-23 11:21:37",

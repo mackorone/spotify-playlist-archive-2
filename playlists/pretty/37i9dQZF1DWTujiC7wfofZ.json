@@ -1,6 +1,6 @@
 {
   "description": "100% indie floorfillers.",
-  "num_followers": 457038,
+  "num_followers": 457052,
   "original_name": "Indie Party",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Back On 74",
-      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "Never Trust a Happy Song",
         "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 218013,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "added_at": "2024-12-30 11:00:05",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Lungs (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "You've Got The Love",
-      "url": "https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 215149,
       "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Lungs (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "You've Got The Love",
+      "url": "https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+        "name": "Gossamer",
+        "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
         }
       ],
-      "duration_ms": 177641,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/1yQkAv4xtapCBCzI8q1QGF"
+      "duration_ms": 264546,
+      "name": "Take a Walk",
+      "url": "https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Gossamer",
-        "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
       "artists": [
         {
-          "name": "Passion Pit",
-          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 264546,
-      "name": "Take a Walk",
-      "url": "https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F"
+      "duration_ms": 177641,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/1yQkAv4xtapCBCzI8q1QGF"
     },
     {
       "added_at": "2024-12-30 11:00:05",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Movin' on Up",
-      "url": "https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "Bon Bon",
         "url": "https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 210133,
       "name": "Bon Bon",
       "url": "https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Movin' on Up",
+      "url": "https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Women In Music Pt III (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79thwyFL6Uo6rgTp3YWEAf"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Now I'm In It - Bonus Track",
-      "url": "https://open.spotify.com/track/1DR2KXb0UvibcLsdDGVwwt"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "The Warning",
         "url": "https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 347880,
       "name": "Over And Over",
       "url": "https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Women In Music Pt III (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79thwyFL6Uo6rgTp3YWEAf"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Now I'm In It - Bonus Track",
+      "url": "https://open.spotify.com/track/1DR2KXb0UvibcLsdDGVwwt"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "Want Want",
-      "url": "https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "Made In The Dark",
         "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 234240,
       "name": "Ready For The Floor",
       "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "Want Want",
+      "url": "https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -2253,22 +2253,6 @@
       "url": "https://open.spotify.com/track/6fcZNs8sOkLwMK2NPzfVWC"
     },
     {
-      "added_at": "2024-12-30 11:00:05",
-      "album": {
-        "name": "Every Open Eye",
-        "url": "https://open.spotify.com/album/6TEN694l8ifhIRfknsG8DX"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 233769,
-      "name": "Clearest Blue",
-      "url": "https://open.spotify.com/track/0ptjIq1XKNYBtfjzXQ3dXE"
-    },
-    {
       "added_at": "2024-12-20 01:31:11",
       "album": {
         "name": "It's Blitz!",
@@ -2283,6 +2267,22 @@
       "duration_ms": 265786,
       "name": "Zero",
       "url": "https://open.spotify.com/track/6RnfjXnNuKK6zca1d9W0Ir"
+    },
+    {
+      "added_at": "2024-12-30 11:00:05",
+      "album": {
+        "name": "Every Open Eye",
+        "url": "https://open.spotify.com/album/6TEN694l8ifhIRfknsG8DX"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 233769,
+      "name": "Clearest Blue",
+      "url": "https://open.spotify.com/track/0ptjIq1XKNYBtfjzXQ3dXE"
     },
     {
       "added_at": "2024-12-30 11:00:05",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 122338,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "Days Are Gone (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 245800,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5hfP8cKSzpfBisP3R24cAy"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 122338,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
     },
     {
       "added_at": "2024-12-20 01:31:11",

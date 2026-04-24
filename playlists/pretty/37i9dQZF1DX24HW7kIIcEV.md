@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 
 > 20 years of hannah montana, say whaaat?
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,804 likes - 93 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,885 likes - 93 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 | 72 | [Can't Back Down \- From "Camp Rock 2: The Final Jam"](https://open.spotify.com/track/51NrdlQOSTeq0d6U7xRKsz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Alyson Stoner](https://open.spotify.com/artist/5ZuWrQzWBgJXbAfcLx2WTL), [Anna Maria Perez de Taglé](https://open.spotify.com/artist/4Sq9ZAY2paQJhzhuBSRoKf) | [Camp Rock 2: The Final Jam](https://open.spotify.com/album/5iK842b9xnZblgZkRxWCFe) | 3:19 |
 | 73 | [You Are the Music in Me](https://open.spotify.com/track/0Qd6nAlCe5RCSpFpQVT4JI) | [Troy](https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn), [Gabriella](https://open.spotify.com/artist/0GyAZiIV45rnBBf4KdGLS7) | [High School Musical 2](https://open.spotify.com/album/4EqBweuKsDW4wd0CNZYSrG) | 3:27 |
 | 74 | [Do You Believe In Magic](https://open.spotify.com/track/7zBq7YCjuIxQRxqhtKJNbI) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Into The Rush](https://open.spotify.com/album/1Qx0TayWQYtbHAR7ECJyj7) | 2:14 |
-| 75 | [Kiss the Girl](https://open.spotify.com/track/6kkFjjMbO9EL1YxNt8BKm3) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 3:22 |
+| 75 | [Kiss the Girl](https://open.spotify.com/track/6kkFjjMbO9EL1YxNt8BKm3) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 3:22 |
 | 76 | [Can I Have This Dance](https://open.spotify.com/track/3djksanOn8sJGbAtm2TMeN) | [High School Musical Cast](https://open.spotify.com/artist/2gUMs9PE8XZVQyzCDqaYmW), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [Zac Efron](https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg) | [High School Musical 3: Senior Year](https://open.spotify.com/album/5eA47xsLoI0YWRdm6LyAyP) | 4:03 |
 | 77 | [We Rock](https://open.spotify.com/track/7r6ubHsaieaig4kORmmsDy) | [Cast Of Camp Rock](https://open.spotify.com/artist/6BaEtrOzEuvmxmHZRR1nNa) | [Camp Rock](https://open.spotify.com/album/1v1i6nqVmLWXKv2a7ByqxJ) | 3:10 |
 | 78 | [Fly On The Wall](https://open.spotify.com/track/2f6s0AcBRBE0vIOU0NMdXw) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Breakout](https://open.spotify.com/album/0Yu3czJNOQ68fZgkvpjuHL) | 2:31 |

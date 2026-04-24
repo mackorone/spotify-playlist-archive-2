@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Iceage
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,647 likes - 48 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,702 likes - 48 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 21 | [AAA](https://open.spotify.com/track/7LSZyRFY3SzFFocAGnyJXV) | [John Pollõn](https://open.spotify.com/artist/4fJie9zmEW6VmFoQKrx4Lh) | [AAA](https://open.spotify.com/album/3CM4KNAWHvvgAB83gydKOS) | 2:23 |
 | 22 | [Lonely](https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:58 |
 | 23 | [barquito \- bonus track](https://open.spotify.com/track/2W7HbOnu7ivBFXGrcdcwDB) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [barquito \(bonus track\)](https://open.spotify.com/album/6vyb0NaK9u3StlgRlYxFuZ) | 3:24 |
-| 24 | [Doctrine of Love](https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Doctrine of Love](https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l) | 3:20 |
-| 25 | [How It Feels](https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [How It Feels](https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH) | 2:36 |
+| 24 | [How It Feels](https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [How It Feels](https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH) | 2:36 |
+| 25 | [Doctrine of Love](https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Doctrine of Love](https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l) | 3:20 |
 | 26 | [Automatic](https://open.spotify.com/track/0PEcIO2gpBApHbsVSlRaPh) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Automatic](https://open.spotify.com/album/43UHKjoE3zZjtiD9nmIt0A) | 2:57 |
 | 27 | [Through The Pain \(feat\. Pozer\)](https://open.spotify.com/track/0AFTmRJtR1AorwJ6XlOn8I) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Through The Pain \(feat\. Pozer\)](https://open.spotify.com/album/10jaP6iO7YACKWJrrChMm2) | 3:00 |
-| 28 | [Earth, Wind & California](https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Jean](https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY) | 3:04 |
-| 29 | [Curious](https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o) | [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [Aren't You Curious?](https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA) | 3:04 |
+| 28 | [Curious](https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o) | [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [Aren't You Curious?](https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA) | 3:04 |
+| 29 | [Earth, Wind & California](https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Jean](https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY) | 3:04 |
 | 30 | [Losing Streak](https://open.spotify.com/track/3OTN972oOsFGjHvjRbdSnU) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Losing Streak](https://open.spotify.com/album/53R2ayL23t6b6oPJWFyGnV) | 3:38 |
 | 31 | [Warning](https://open.spotify.com/track/0RVh6eHyE6wxV0MSl3KYep) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 4:32 |
 | 32 | [NOISE](https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [NOISE](https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj) | 2:42 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 40 | [Light as a Feather](https://open.spotify.com/track/7pucKxQeLhLzu84oZLnkHf) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Light as a Feather](https://open.spotify.com/album/2Bd7Z2Gpsgje6AeP3iAeCy) | 3:36 |
 | 41 | [Sweet Surrender](https://open.spotify.com/track/0GYC0TTILK7gGBNUdt5Erj) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 1:54 |
 | 42 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 |
-| 43 | [SYRINX](https://open.spotify.com/track/5tAVZKH9CE6EkGJTRaqgG1) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [RHR](https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6), [Me Jesmay](https://open.spotify.com/artist/1p3gsovsSOdWucOGKaMEFv), [Lucas Swatch](https://open.spotify.com/artist/23IdyGJLgKTvopNrHG3XfF) | [SYRINX](https://open.spotify.com/album/4HdLXXUpDyCKgLbSXN5Clh) | 2:27 |
-| 44 | [Happy Birthday](https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Written into Changes](https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU) | 3:53 |
+| 43 | [Happy Birthday](https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Written into Changes](https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU) | 3:53 |
+| 44 | [SYRINX](https://open.spotify.com/track/5tAVZKH9CE6EkGJTRaqgG1) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [RHR](https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6), [Me Jesmay](https://open.spotify.com/artist/1p3gsovsSOdWucOGKaMEFv), [Lucas Swatch](https://open.spotify.com/artist/23IdyGJLgKTvopNrHG3XfF) | [SYRINX](https://open.spotify.com/album/4HdLXXUpDyCKgLbSXN5Clh) | 2:27 |
 | 45 | [Strong](https://open.spotify.com/track/336Ear6GlKMVrwgshhf6CH) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Strong](https://open.spotify.com/album/3M9w4YSLJbRKaBITj8OqNd) | 2:36 |
 | 46 | [oooshxt!](https://open.spotify.com/track/5g7ekg0eed42JuSCUEuSEe) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [oooshxt!](https://open.spotify.com/album/5lati9k4WZBRfjaDU28IyN) | 2:15 |
 | 47 | [Must Be](https://open.spotify.com/track/5TJtMHbfSSHrWPcnMHdjUy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Must Be](https://open.spotify.com/album/1FUgbYn6lHaVS4RrpAEMSE) | 2:55 |

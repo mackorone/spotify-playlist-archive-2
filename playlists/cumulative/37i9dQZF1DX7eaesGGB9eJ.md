@@ -4,7 +4,7 @@
 
 > Los temas legendarios de la escena de rap nacional: Control Machete en portada.
 
-86 songs - 5 hr 55 min
+87 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Bómboro](https://open.spotify.com/track/2xvaPbaFiZO4nhkVWJKGva) | [Kartel Aztlán](https://open.spotify.com/artist/249NypbZvEmdeVoeF6TQ45) | [Vieja Guardia](https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN) | 3:45 | 2022-03-07 |  |
 | [Camaleones \- Remasterizado](https://open.spotify.com/track/4miCCObbx713lWPnTAZXHh) | [Elote el Barbaro](https://open.spotify.com/artist/0yWcBatdQPfGvY4XEGeD6m) | [Camaleones \(Remasterizado\)](https://open.spotify.com/album/3qbeaGHvshA1NZDv0slOpj) | 2:33 | 2023-07-14 |  |
 | [Chingo de Cheve](https://open.spotify.com/track/15zmYFxKIToe8TlX3JbHLm) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Millonario Sin Corona](https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3) | 3:29 | 2022-03-07 | 2024-04-19 |
-| [Chingo de Cheve](https://open.spotify.com/track/1GUK48Vm37ng2jwxWjWb4z) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Millonario Sin Corona](https://open.spotify.com/album/4T7ICgMnMPR72nLkQCEWE2) | 3:29 | 2024-07-12 |  |
+| [Chingo de Cheve](https://open.spotify.com/track/1GUK48Vm37ng2jwxWjWb4z) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Millonario Sin Corona](https://open.spotify.com/album/4T7ICgMnMPR72nLkQCEWE2) | 3:29 | 2024-07-12 | 2026-04-24 |
 | [Comprendes, Mendes?](https://open.spotify.com/track/1yshNtExWJOfvjfvUqGcnu) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/1OGemrG3upLMC7nVj8OZX2) | 3:35 | 2022-03-07 |  |
 | [Comprendes, Mendes?](https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:35 | 2022-03-07 | 2024-04-19 |
 | [Cómo, Cuándo Y Dónde](https://open.spotify.com/track/11eACiyPuD3biN1BkR3KXx) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [KOMP 104.9 Radio Compa](https://open.spotify.com/album/0XTuj69Q39D7KPKbH69ceD) | 4:18 | 2022-03-07 | 2023-09-15 |
@@ -58,6 +58,7 @@
 | [Mañanero](https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [High Con Class XIII](https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh) | 3:29 | 2022-03-07 | 2026-04-10 |
 | [Me Gustas](https://open.spotify.com/track/5p6S0LXowt9jTCJfCP9A5S) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP) | [Todo Bien](https://open.spotify.com/album/3ZDwja1a3VLSqjMAX8RxlJ) | 3:28 | 2022-03-07 |  |
 | [Me Puse Pedo](https://open.spotify.com/track/3ixbxMZyybv4j4iLrwc7gx) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Me Puse Pedo](https://open.spotify.com/album/5U5Qffh1u1LA7thN8NS5kx) | 3:10 | 2022-03-07 | 2024-04-19 |
+| [Me Puse Pedo](https://open.spotify.com/track/54ujGZRlMaAMFBel97ebyZ) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Yo Quería Hacer Rock](https://open.spotify.com/album/14qhWZrJJqIvMxOvDtn0ds) | 3:10 | 2024-07-12 |  |
 | [Mextasis](https://open.spotify.com/track/7hUGy5dnyRVXzHOv9LoZB9) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [El Morroeste](https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe) | 3:16 | 2022-03-07 | 2024-04-19 |
 | [Mr\. P\-Mosh](https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Aquamosh](https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk) | 4:22 | 2022-03-07 |  |
 | [Neza No\. 1](https://open.spotify.com/track/1IhQVNCnyu52lH1kR89Vt0) | [Sociedad Café](https://open.spotify.com/artist/7FJZ5oy5kdpkqWYL2RGvRR) | [Rap Latino](https://open.spotify.com/album/3BoZH8XQ34zLmEtrtnggFz) | 4:33 | 2022-03-07 |  |

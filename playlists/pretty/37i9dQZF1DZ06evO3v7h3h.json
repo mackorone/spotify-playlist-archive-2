@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 46004,
+  "num_followers": 46003,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAB1cIcjWDQO/rAe9MXXErok",
+  "snapshot_id": "aegPgAAAAACvllnA8BRTzvZF13xciF7W",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Conversas Que Nunca Tivemos",
+        "url": "https://open.spotify.com/album/1MLyVrnXygy0ObhQyvAg90"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 283469,
+      "name": "Conversas Que Nunca Tivemos",
+      "url": "https://open.spotify.com/track/2Dh5TVjbQc6jb1swFQ7dLr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BUNMI",
         "url": "https://open.spotify.com/album/6sjV2tmRDy7Wql7El5rPPX"
       },
@@ -295,38 +311,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conversas Que Nunca Tivemos",
-        "url": "https://open.spotify.com/album/1MLyVrnXygy0ObhQyvAg90"
+        "name": "Canjer\u00ea",
+        "url": "https://open.spotify.com/album/2usxZrlp6sPvWjp3qGNSOC"
       },
       "artists": [
         {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 283469,
-      "name": "Conversas Que Nunca Tivemos",
-      "url": "https://open.spotify.com/track/2Dh5TVjbQc6jb1swFQ7dLr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crise",
-        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
-      },
-      "artists": [
+          "name": "Thiago Elni\u00f1o",
+          "url": "https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED"
+        },
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "Ellen Ol\u00e9ria",
-          "url": "https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B"
+          "name": "Da\u00fade",
+          "url": "https://open.spotify.com/artist/2k8L3UVACU2peplfnHAFb0"
+        },
+        {
+          "name": "ZucaBeatz",
+          "url": "https://open.spotify.com/artist/62Lt5eSVlvLLuRM12qBTIV"
         }
       ],
-      "duration_ms": 255914,
-      "name": "Se Tudo Der Errado Amanh\u00e3 (feat. Ellen Ol\u00e9ria)",
-      "url": "https://open.spotify.com/track/2COHyMe84ZLbkZRXt4MUK7"
+      "duration_ms": 187818,
+      "name": "Futuros Ancestrais",
+      "url": "https://open.spotify.com/track/1NGm9FsyN9yzJ6kMUQUtav"
     },
     {
       "added_at": null,
@@ -347,6 +355,26 @@
       "duration_ms": 235740,
       "name": "V\u00edcio",
       "url": "https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crise",
+        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Ellen Ol\u00e9ria",
+          "url": "https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B"
+        }
+      ],
+      "duration_ms": 255914,
+      "name": "Se Tudo Der Errado Amanh\u00e3 (feat. Ellen Ol\u00e9ria)",
+      "url": "https://open.spotify.com/track/2COHyMe84ZLbkZRXt4MUK7"
     },
     {
       "added_at": null,
@@ -495,34 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canjer\u00ea",
-        "url": "https://open.spotify.com/album/2usxZrlp6sPvWjp3qGNSOC"
-      },
-      "artists": [
-        {
-          "name": "Thiago Elni\u00f1o",
-          "url": "https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Da\u00fade",
-          "url": "https://open.spotify.com/artist/2k8L3UVACU2peplfnHAFb0"
-        },
-        {
-          "name": "ZucaBeatz",
-          "url": "https://open.spotify.com/artist/62Lt5eSVlvLLuRM12qBTIV"
-        }
-      ],
-      "duration_ms": 187818,
-      "name": "Futuros Ancestrais",
-      "url": "https://open.spotify.com/track/1NGm9FsyN9yzJ6kMUQUtav"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D\u00e1diva & D\u00edvida",
         "url": "https://open.spotify.com/album/69FEbB83gglKjWddcLHRs1"
       },
@@ -539,6 +539,26 @@
       "duration_ms": 249800,
       "name": "Plantar o Bem",
       "url": "https://open.spotify.com/track/4n1fk1y5Jn0hL8EsrGyIbO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guizo de Cascavel",
+        "url": "https://open.spotify.com/album/2N7w7GgMZi5zik4jPOLrHa"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 226026,
+      "name": "Pegapacap\u00e1",
+      "url": "https://open.spotify.com/track/7MZhs8zhPIEKSs5VKsEs4e"
     },
     {
       "added_at": null,
@@ -707,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fiquei assim",
-        "url": "https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 218662,
-      "name": "Fiquei assim",
-      "url": "https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hora de Acordar",
         "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
       },
@@ -739,26 +739,6 @@
       "duration_ms": 273320,
       "name": "E Se",
       "url": "https://open.spotify.com/track/3QTZCqej24Zyd5WGRXWJuJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Guizo de Cascavel",
-        "url": "https://open.spotify.com/album/2N7w7GgMZi5zik4jPOLrHa"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 226026,
-      "name": "Pegapacap\u00e1",
-      "url": "https://open.spotify.com/track/7MZhs8zhPIEKSs5VKsEs4e"
     },
     {
       "added_at": null,
@@ -795,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 261478,
-      "name": "Um Tom de Azul",
-      "url": "https://open.spotify.com/track/7iob0Rybbkh8xdrqLxs8wD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At\u00e9 O Amanhecer",
         "url": "https://open.spotify.com/album/3zSLT2ErzzistZs3ij9wce"
       },
@@ -831,6 +791,46 @@
       "duration_ms": 179818,
       "name": "At\u00e9 O Amanhecer",
       "url": "https://open.spotify.com/track/1oeFF7vzI6vqdX35mj6JAl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fiquei assim",
+        "url": "https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 218662,
+      "name": "Fiquei assim",
+      "url": "https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 261478,
+      "name": "Um Tom de Azul",
+      "url": "https://open.spotify.com/track/7iob0Rybbkh8xdrqLxs8wD"
     },
     {
       "added_at": null,
@@ -887,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Grou",
-          "url": "https://open.spotify.com/artist/07DFKI84JMzC8YCkUdfDzV"
-        }
-      ],
-      "duration_ms": 252279,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/7sNpgkGQkHjZsRoOf5qRDf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Retic\u00eancias",
         "url": "https://open.spotify.com/album/4W1RbWJIHhZn101nz56IWK"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 196440,
       "name": "Retic\u00eancias",
       "url": "https://open.spotify.com/track/3qwT7fQN8TB1Gx0mFMUygy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Grou",
+          "url": "https://open.spotify.com/artist/07DFKI84JMzC8YCkUdfDzV"
+        }
+      ],
+      "duration_ms": 252279,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/7sNpgkGQkHjZsRoOf5qRDf"
     },
     {
       "added_at": null,
@@ -963,30 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "Ruxell",
-          "url": "https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg"
-        }
-      ],
-      "duration_ms": 184445,
-      "name": "Sem Norte",
-      "url": "https://open.spotify.com/track/76oZnQuNBeUOZulyZpKZD5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Planos Pra N\u00f3s",
         "url": "https://open.spotify.com/album/5oGkjDXvk1QGMFORSBdN0B"
       },
@@ -1011,6 +987,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "Ruxell",
+          "url": "https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg"
+        }
+      ],
+      "duration_ms": 184445,
+      "name": "Sem Norte",
+      "url": "https://open.spotify.com/track/76oZnQuNBeUOZulyZpKZD5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hora de Acordar",
         "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
       },
@@ -1027,22 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confundindo S\u00e1bios",
-        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 206982,
-      "name": "A Fila Anda",
-      "url": "https://open.spotify.com/track/0LewYp7T0K8wpkPBprMpEK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Assim Seja",
         "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 265896,
       "name": "Tudo Ou Nada",
       "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confundindo S\u00e1bios",
+        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 206982,
+      "name": "A Fila Anda",
+      "url": "https://open.spotify.com/track/0LewYp7T0K8wpkPBprMpEK"
     },
     {
       "added_at": null,
@@ -1103,6 +1103,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00e3o Real",
+        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 255274,
+      "name": "T\u00e3o Real",
+      "url": "https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Confundindo S\u00e1bios",
         "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 304692,
       "name": "Um Sonho S\u00f3",
       "url": "https://open.spotify.com/track/46j8R60lIlLcilPzLj1rR1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00e3o Real",
-        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 255274,
-      "name": "T\u00e3o Real",
-      "url": "https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8"
     }
   ],
   "unique_name": "This Is Rashid",

@@ -106,6 +106,10 @@
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
         }
       ],
       "date_added": "2023-10-20",
@@ -176,12 +180,24 @@
       },
       "artists": [
         {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
           "name": "Daughters of Triton",
           "url": "https://open.spotify.com/artist/32Lw7bsIKsecEhwXGUbdlp"
         },
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
         }
       ],
       "date_added": "2023-10-20",
@@ -298,6 +314,10 @@
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
         }
       ],
       "date_added": "2023-10-20",
@@ -372,6 +392,10 @@
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
         }
       ],
       "date_added": "2023-10-20",
@@ -448,6 +472,10 @@
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
         }
       ],
       "date_added": "2023-10-20",
@@ -474,6 +502,40 @@
       "duration_ms": 28226,
       "name": "Fanfare - Remastered 2014",
       "url": "https://open.spotify.com/track/6QVcoBQnMJgsFCZHILZtvt"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
+          "name": "Ship's Chorus",
+          "url": "https://open.spotify.com/artist/6lVfv13tNN5AORH9RWA6aN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101266,
+      "name": "Fathoms Below",
+      "url": "https://open.spotify.com/track/7qiVTClmhIrNT0fqDO8a6g"
     },
     {
       "album": {
@@ -534,28 +596,6 @@
       "duration_ms": 154506,
       "name": "Fathoms Below",
       "url": "https://open.spotify.com/track/5IbCV9Icebx8rR6wAp5hhP"
-    },
-    {
-      "album": {
-        "name": "The Little Mermaid Special Edition",
-        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
-      },
-      "artists": [
-        {
-          "name": "Ship's Chorus",
-          "url": "https://open.spotify.com/artist/6lVfv13tNN5AORH9RWA6aN"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "date_added": "2023-10-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 101266,
-      "name": "Fathoms Below",
-      "url": "https://open.spotify.com/track/7qiVTClmhIrNT0fqDO8a6g"
     },
     {
       "album": {
@@ -690,6 +730,10 @@
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
         }
       ],
       "date_added": "2023-10-20",
@@ -748,6 +792,10 @@
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
         }
       ],
       "date_added": "2023-10-20",
@@ -840,16 +888,24 @@
       },
       "artists": [
         {
-          "name": "Disney Studio Chorus",
-          "url": "https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW"
-        },
-        {
           "name": "Alan Menken",
           "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
         },
         {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
+          "name": "Disney Studio Chorus",
+          "url": "https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW"
+        },
+        {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
         }
       ],
       "date_added": "2023-10-20",
@@ -1212,6 +1268,10 @@
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
         }
       ],
       "date_added": "2023-10-20",
@@ -1246,6 +1306,10 @@
       },
       "artists": [
         {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
           "name": "Ashley Tisdale",
           "url": "https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL"
         }
@@ -1256,6 +1320,36 @@
       "duration_ms": 202893,
       "name": "Kiss the Girl",
       "url": "https://open.spotify.com/track/6kkFjjMbO9EL1YxNt8BKm3"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
+          "name": "Samuel E. Wright",
+          "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163400,
+      "name": "Kiss the Girl",
+      "url": "https://open.spotify.com/track/4HGIPyqDxSf863tPOwXiLJ"
     },
     {
       "album": {
@@ -1373,28 +1467,6 @@
     },
     {
       "album": {
-        "name": "The Little Mermaid Special Edition",
-        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
-      },
-      "artists": [
-        {
-          "name": "Samuel E. Wright",
-          "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "date_added": "2023-10-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 163400,
-      "name": "Kiss the Girl",
-      "url": "https://open.spotify.com/track/4HGIPyqDxSf863tPOwXiLJ"
-    },
-    {
-      "album": {
         "name": "The Little Mermaid: Original Broadway Cast Recording",
         "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
       },
@@ -1493,6 +1565,40 @@
     },
     {
       "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
+          "name": "Rene Auberjonois",
+          "url": "https://open.spotify.com/artist/5vLv7RBpAmIPypST2zhKUw"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95706,
+      "name": "Les Poissons",
+      "url": "https://open.spotify.com/track/04LkB4linu702YDzlrQNDi"
+    },
+    {
+      "album": {
         "name": "The Little Mermaid: Original Broadway Cast Recording",
         "url": "https://open.spotify.com/album/3ULJeOMgroG27dpn27MDfS"
       },
@@ -1508,28 +1614,6 @@
       "duration_ms": 114826,
       "name": "Les Poissons",
       "url": "https://open.spotify.com/track/1ZexZ95CxsvvDqsG2FTtwM"
-    },
-    {
-      "album": {
-        "name": "The Little Mermaid Special Edition",
-        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
-      },
-      "artists": [
-        {
-          "name": "Rene Auberjonois",
-          "url": "https://open.spotify.com/artist/5vLv7RBpAmIPypST2zhKUw"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "date_added": "2023-10-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 95706,
-      "name": "Les Poissons",
-      "url": "https://open.spotify.com/track/04LkB4linu702YDzlrQNDi"
     },
     {
       "album": {
@@ -1664,6 +1748,10 @@
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
         }
       ],
       "date_added": "2023-10-20",
@@ -1819,6 +1907,66 @@
     },
     {
       "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
+          "name": "Jessica Simpson",
+          "url": "https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207440,
+      "name": "Part of Your World",
+      "url": "https://open.spotify.com/track/45Ho6P0rArsyEyFkT5hvp0"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
+          "name": "Jodi Benson",
+          "url": "https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195493,
+      "name": "Part of Your World",
+      "url": "https://open.spotify.com/track/7tUSJY4nsDBJTjd1UXKRsT"
+    },
+    {
+      "album": {
         "name": "Part of Your World",
         "url": "https://open.spotify.com/album/0FtycwGYu9y81sqzreqg1o"
       },
@@ -1896,46 +2044,6 @@
       "duration_ms": 214373,
       "name": "Part of Your World",
       "url": "https://open.spotify.com/track/2HRhVQ0yo1jIvXoRTCIdEz"
-    },
-    {
-      "album": {
-        "name": "The Little Mermaid Special Edition",
-        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
-      },
-      "artists": [
-        {
-          "name": "Jessica Simpson",
-          "url": "https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma"
-        }
-      ],
-      "date_added": "2023-10-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207440,
-      "name": "Part of Your World",
-      "url": "https://open.spotify.com/track/45Ho6P0rArsyEyFkT5hvp0"
-    },
-    {
-      "album": {
-        "name": "The Little Mermaid Special Edition",
-        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
-      },
-      "artists": [
-        {
-          "name": "Jodi Benson",
-          "url": "https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "date_added": "2023-10-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 195493,
-      "name": "Part of Your World",
-      "url": "https://open.spotify.com/track/7tUSJY4nsDBJTjd1UXKRsT"
     },
     {
       "album": {
@@ -2038,12 +2146,24 @@
       },
       "artists": [
         {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
           "name": "Jodi Benson",
           "url": "https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH"
         },
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
         }
       ],
       "date_added": "2023-10-20",
@@ -2230,6 +2350,10 @@
       },
       "artists": [
         {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
           "name": "Jonas Brothers",
           "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
@@ -2240,6 +2364,40 @@
       "duration_ms": 146800,
       "name": "Poor Unfortunate Souls",
       "url": "https://open.spotify.com/track/3nGQdDpPPUGeCLwnXUf4BY"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Pat Carroll",
+          "url": "https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291693,
+      "name": "Poor Unfortunate Souls",
+      "url": "https://open.spotify.com/track/7zsw78LtXUD7JfEwH64HK2"
     },
     {
       "album": {
@@ -2258,28 +2416,6 @@
       "duration_ms": 282013,
       "name": "Poor Unfortunate Souls",
       "url": "https://open.spotify.com/track/2OOdeu2Q1yQmQabgp07FOe"
-    },
-    {
-      "album": {
-        "name": "The Little Mermaid Special Edition",
-        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
-      },
-      "artists": [
-        {
-          "name": "Pat Carroll",
-          "url": "https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "date_added": "2023-10-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 291693,
-      "name": "Poor Unfortunate Souls",
-      "url": "https://open.spotify.com/track/7zsw78LtXUD7JfEwH64HK2"
     },
     {
       "album": {
@@ -2784,6 +2920,10 @@
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
         }
       ],
       "date_added": "2023-10-20",
@@ -2940,6 +3080,10 @@
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
         }
       ],
       "date_added": "2023-10-20",
@@ -3023,6 +3167,62 @@
     },
     {
       "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
+          "name": "Raven-Symon\u00e9",
+          "url": "https://open.spotify.com/artist/6kUQJlewgd3UFKVYrrmILh"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194480,
+      "name": "Under the Sea",
+      "url": "https://open.spotify.com/track/6KRhCrxN8dY35Eq6SDZH2i"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
+          "name": "Samuel E. Wright",
+          "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195146,
+      "name": "Under the Sea",
+      "url": "https://open.spotify.com/track/6oYkwjI1TKP9D0Y9II1GT7"
+    },
+    {
+      "album": {
         "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
       },
@@ -3068,46 +3268,6 @@
       "duration_ms": 194933,
       "name": "Under the Sea",
       "url": "https://open.spotify.com/track/3hY1WHSoTcXupacS3ffmz7"
-    },
-    {
-      "album": {
-        "name": "The Little Mermaid Special Edition",
-        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
-      },
-      "artists": [
-        {
-          "name": "Raven-Symon\u00e9",
-          "url": "https://open.spotify.com/artist/6kUQJlewgd3UFKVYrrmILh"
-        }
-      ],
-      "date_added": "2023-10-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194480,
-      "name": "Under the Sea",
-      "url": "https://open.spotify.com/track/6KRhCrxN8dY35Eq6SDZH2i"
-    },
-    {
-      "album": {
-        "name": "The Little Mermaid Special Edition",
-        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
-      },
-      "artists": [
-        {
-          "name": "Samuel E. Wright",
-          "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "date_added": "2023-10-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 195146,
-      "name": "Under the Sea",
-      "url": "https://open.spotify.com/track/6oYkwjI1TKP9D0Y9II1GT7"
     },
     {
       "album": {
@@ -3336,6 +3496,10 @@
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
         }
       ],
       "date_added": "2023-10-20",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
+  "description": "Solo hit rap da ascoltare in loop. Cover: Salmo",
   "name": "Hit Rap Italiane",
   "tracks": [
     {
@@ -552,10 +552,32 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 159840,
       "name": "BIANCA (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/5SnMK1oThJv22NFumoKVw4"
+    },
+    {
+      "album": {
+        "name": "BIANCA (feat. Kid Yugi)",
+        "url": "https://open.spotify.com/album/2IE8pMvL0GmykYaNLOP8S0"
+      },
+      "artists": [
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160282,
+      "name": "BIANCA (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/420QMNPnHsbAqkkxBt2ifJ"
     },
     {
       "album": {
@@ -1046,7 +1068,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 155526,
       "name": "Cadillac (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/7IpsNYgP87QkLCSnctxSif"
@@ -2014,7 +2036,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 160496,
       "name": "Eva (feat. Tedua)",
       "url": "https://open.spotify.com/track/29nqe5lhK8JmNcVXum7UuA"

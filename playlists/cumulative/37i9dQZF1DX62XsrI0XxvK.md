@@ -2,9 +2,9 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: RINNI
+> Irama R&B tanah air yang merasuk jiwa\. Cover: Dominique Adhadiaz
 
-231 songs - 13 hr 39 min
+236 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Buktinya Baik\-Baik Saja](https://open.spotify.com/track/3cn9Fhd4UbxokJLDFLYZgK) | [Glenn Samuel](https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV) | [Buktinya Baik\-Baik Saja](https://open.spotify.com/album/70gWvpQaa7gQtr4jOuAnZd) | 3:25 | 2025-07-24 | 2026-04-10 |
 | [BULAN](https://open.spotify.com/track/0sbqnT2yCqhZbMcDHrZTFd) | [Raina Gumay](https://open.spotify.com/artist/1ANlamE7Sj9Kf70tVz35Ck) | [BULAN](https://open.spotify.com/album/3jIpal5Mo7hWXSypXGXJku) | 3:06 | 2025-02-21 | 2025-08-01 |
 | [BYE](https://open.spotify.com/track/2qCXWSd8AtolyVTZRatjZH) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [BYE](https://open.spotify.com/album/3nawUQoRQ9QlaATlotBQNj) | 3:03 | 2025-11-13 |  |
+| [Cantikkuuuuu](https://open.spotify.com/track/0Opos1749YAMnjC2htWzYV) | [William Sihombing](https://open.spotify.com/artist/1HXxCMWL1jyKHQ2odKWR3j) | [Cantikkuuuuu](https://open.spotify.com/album/0a50H8wn696CVLTOVn4zLY) | 3:16 | 2026-04-23 |  |
 | [Capek Banget](https://open.spotify.com/track/2llpJaxtJREV6VxDeG9SBz) | [Nabila Ellisa](https://open.spotify.com/artist/7MwrsCIC6ViKMHiVFNJw5Q), [Bianura](https://open.spotify.com/artist/0KXKIxr1NN8aICdaA183Xc) | [Capek Banget](https://open.spotify.com/album/3Kimas3OtK9RTpFnQnTspL) | 3:16 | 2025-12-11 |  |
 | [Caught In Distress](https://open.spotify.com/track/1wJuaDeHSCN5fqZkBR0Qwu) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9) | [Caught In Distress](https://open.spotify.com/album/1vr2ljTHi4yTfcUHdqSsqy) | 3:36 | 2024-12-06 | 2025-05-30 |
 | [Cerita](https://open.spotify.com/track/6Sa1QuExIuLuZwyDrmgbN3) | [TADI](https://open.spotify.com/artist/6hpZLcLqVjqzWWA0ZXTThF) | [Cerita](https://open.spotify.com/album/5RLgxuk2wPeTU9KxSuNF01) | 3:19 | 2024-10-03 | 2025-05-02 |
@@ -79,12 +80,14 @@
 | [Figaro](https://open.spotify.com/track/13BOpGnIOTDvQPNtOuX4K6) | [Fathan Maulana](https://open.spotify.com/artist/2pHmELtftQpKpB1SMNpIM4), [Monica Karina](https://open.spotify.com/artist/4uz19Fx4VF6BHhzmTuSCOR) | [Figaro](https://open.spotify.com/album/3YqvLwy54tEMwiGwfTUFNh) | 2:48 | 2025-07-17 | 2025-11-14 |
 | [Fighter](https://open.spotify.com/track/0qG2qBOkGXPOplavjmTs9h) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Kamga](https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O) | [Fighter](https://open.spotify.com/album/2KBqdVBjVrF5iFRznyxRGA) | 3:37 | 2025-07-31 | 2025-11-14 |
 | [floating in love](https://open.spotify.com/track/7ilFeaB4SQ5RnQOtzpHaee) | [Michael Aldi](https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4), [Alvin Wardiman](https://open.spotify.com/artist/1C1xHPlFYwO4XsngjC87yt) | [floating in love](https://open.spotify.com/album/2r7mRLacB3Dk1ws8pNwLMJ) | 3:41 | 2025-10-23 | 2026-03-13 |
+| [fokusku kedelay](https://open.spotify.com/track/0I9XRB2ibh4uijHSk7IgyF) | [Dominique Adhadiaz](https://open.spotify.com/artist/1CdlXDQpcRaeFOdY8eEiws) | [fokusku kedelay](https://open.spotify.com/album/7qnncMLNhFafWkHUeewg1I) | 2:51 | 2026-04-23 |  |
 | [Gadisku](https://open.spotify.com/track/4cJ0rC60m1KNCq9Ie0rGje) | [Mike Mohede](https://open.spotify.com/artist/0uGUpFXAdhKMgiHwbueiuf), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Gadisku](https://open.spotify.com/album/6WbER6eqWKwSJCP2Tt1Cs9) | 3:29 | 2024-11-07 | 2025-10-10 |
 | [Game 4 2](https://open.spotify.com/track/7CbXF4RZUPoQyEdAlY3QkZ) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Game 4 2](https://open.spotify.com/album/6WZkKEJEhTO1F8kP81flBp) | 5:01 | 2025-06-26 | 2025-10-24 |
 | [Game For Two](https://open.spotify.com/track/1F5Oci0fJkRxcIFNMuHoJn) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA), [Ezra Kunze](https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm) | [Game For Two](https://open.spotify.com/album/5KYHeW8EoSYqFXji9DuV4c) | 3:38 | 2025-03-20 | 2025-08-01 |
 | [Gelora Bertemu](https://open.spotify.com/track/3nErXdVzREIXdSxxMuPaYL) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Gelora Bertemu](https://open.spotify.com/album/309Xx2lM5PhrOk3pBaNXt9) | 4:02 | 2024-10-03 | 2025-05-02 |
 | [Glow](https://open.spotify.com/track/6xWfKqMv4ebAIVGYbvo7o4) | [Wizzy](https://open.spotify.com/artist/3nFxNn6bmS2fT5WMgF87Ls) | [Glow](https://open.spotify.com/album/05rZ3AQMXe6OwkU53QoCPy) | 3:00 | 2025-08-07 | 2026-04-10 |
 | [Good Fellas](https://open.spotify.com/track/2FmT90UyNwTNSWMHFzWBYq) | [Zhizaa](https://open.spotify.com/artist/1kjUmnL4PHjLmfVg9G4PyZ) | [Good Fellas](https://open.spotify.com/album/3x0oNPgMi1nHkpKhJozTzr) | 4:38 | 2025-11-13 | 2026-02-13 |
+| [GREEN](https://open.spotify.com/track/7f7anP2UCwgiJqvnBXcVFq) | [yuandirty](https://open.spotify.com/artist/5ijgD6jZ7Xn1ofH75kQtsQ), [GAZM](https://open.spotify.com/artist/3wnEMTyjnqE2ay6ObaZVes) | [S 90 3](https://open.spotify.com/album/2XbedfHomAGEkFcbeeP6CL) | 2:48 | 2026-04-23 |  |
 | [Handle It \(feat\. Fangtatis\)](https://open.spotify.com/track/3m2ABv3l7QRwccPgN8XIb0) | [Wizzy](https://open.spotify.com/artist/3nFxNn6bmS2fT5WMgF87Ls), [Fangtatis](https://open.spotify.com/artist/0nLDPz8ZYzbVSaR49Lo9LY) | [Handle It \(feat\. Fangtatis\)](https://open.spotify.com/album/77YYFOxDJa6IYxQzS2B5q7) | 2:54 | 2025-11-06 |  |
 | [Hanya Harapku](https://open.spotify.com/track/4CXS1Bnuk0xzPd3zP7Jmsb) | [Fourtune](https://open.spotify.com/artist/0MLJ6wDKP8xAPYeXjisC7k) | [Hanya Harapku](https://open.spotify.com/album/6pLzF6GCDzqmFIpi4GZuGw) | 3:30 | 2024-11-15 | 2025-07-18 |
 | [Hanya Ingin](https://open.spotify.com/track/1UykQjY4mcTp66AqJ2kLvt) | [R2 Rhythm](https://open.spotify.com/artist/1NMndAY1nq64GSsGuccTrM) | [Hanya Ingin](https://open.spotify.com/album/2cEMBuXaGurxFImXVwOFWC) | 3:09 | 2024-11-21 | 2025-05-09 |
@@ -99,6 +102,7 @@
 | [How Much Love's at Stake?](https://open.spotify.com/track/6p12a8y5vpkcp7PZa8FFvo) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9), [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS), [Grill Dg Lopo](https://open.spotify.com/artist/0wyjg41UeDkSPH2zPawbNb) | [A SINNER WHO WILL DIE SINGING](https://open.spotify.com/album/1GADp4d6kTo2dOuuQQnwVY) | 2:46 | 2025-10-16 | 2026-03-06 |
 | [hush](https://open.spotify.com/track/6Dv7W37km5fOeuHdAUdJJD) | [gabsav](https://open.spotify.com/artist/2vBkfyTQ8dShwOjhTnVfgZ) | [hush](https://open.spotify.com/album/25udfmqeT2f2ZrTSt2H9Sa) | 4:34 | 2025-05-15 | 2025-08-29 |
 | [I Don't Know Anymore \(Live Session\)](https://open.spotify.com/track/2sxP2jSVMq59dDj5nVpoTn) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [I Don't Know Anymore \(Live Session\)](https://open.spotify.com/album/7LC8lDS175rIUcWD83IAzo) | 4:23 | 2026-01-08 |  |
+| [I DON'T WANNA \(BE YOU\)](https://open.spotify.com/track/2WCMo9QlX9wxYhMPNS7OiF) | [Gavendri](https://open.spotify.com/artist/3EMLBUicqUKN1tBFUj718w) | [I DON'T WANNA \(BE YOU\)](https://open.spotify.com/album/0neAOjh7pob5T9hroLg3Pz) | 3:48 | 2026-04-23 |  |
 | [I Got It](https://open.spotify.com/track/4Ls4LzbMz0EeOzAU56SOQZ) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [I Got It](https://open.spotify.com/album/08lXeWhZXYVe6SSVF7EFxX) | 3:00 | 2025-02-14 | 2025-08-01 |
 | [I'd Be Lost](https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I'd Be Lost](https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij) | 2:47 | 2025-07-17 | 2026-03-06 |
 | [i'm still here](https://open.spotify.com/track/5eMUGXMkukhd4GUB5aENaF) | [BLINGOUTKID](https://open.spotify.com/artist/0pvy9ziaOLKxLQvyB4WGeN) | [i'm still here](https://open.spotify.com/album/1fAms58lBFVczbL1ZYD8xy) | 3:00 | 2026-03-12 |  |
@@ -123,6 +127,7 @@
 | [kenapa?](https://open.spotify.com/track/13HHsKH1SuuMvoUwoZ6ngD) | [Jakarta Soul System](https://open.spotify.com/artist/5twqzbPbyXbM4qrZejp5QP), [Bryan Renaldo](https://open.spotify.com/artist/31cKcUefYLDo9XeNCPbWrR), [Jay Yen](https://open.spotify.com/artist/3JgETLiorvAt8Xfsz6HcRt) | [kenapa?](https://open.spotify.com/album/0o8h3D5b6oQqk4bdnmvVtx) | 3:15 | 2025-11-20 | 2026-03-13 |
 | [Kiss Me Through the Phone](https://open.spotify.com/track/6PrVvWP4SDaKOMweP5PKMt) | [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL) | [Kiss Me Through the Phone](https://open.spotify.com/album/3HhUAxZKzNOjTyTxc5zvzk) | 3:08 | 2025-07-10 | 2026-04-10 |
 | [Ku Tak Bisa](https://open.spotify.com/track/2K9g1BHo6ILnSotpjqEnhd) | [KidQuest](https://open.spotify.com/artist/2lfQ3ZMcgbom8T8iSrtbbb) | [Ku Tak Bisa](https://open.spotify.com/album/0Fto9zAm9zcvIaceOHMFP9) | 2:54 | 2024-12-20 | 2025-07-18 |
+| [Kubuka Pintu](https://open.spotify.com/track/5PP3Qbc5yDA7zvg3MPjpQm) | [KELJO](https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o) | [Kubuka Pintu](https://open.spotify.com/album/5IchrfWDYZmoJEaZKlUAcM) | 3:53 | 2026-04-23 |  |
 | [LA DA DI](https://open.spotify.com/track/3rGqFXA11MnvgrypxlvHbL) | [Andrea Najla](https://open.spotify.com/artist/2yjgwD4t4KZpeSM782W8YE) | [LA DA DI](https://open.spotify.com/album/3KKGdhGCpBoVBW1VXXvEp5) | 2:34 | 2025-01-09 | 2025-07-18 |
 | [Labuan Hati](https://open.spotify.com/track/0ic1OT8aHvTpDU71X5MXfP) | [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g), [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Labuan Hati](https://open.spotify.com/album/6N8etUnE4H5VTFdAtDAOaU) | 3:56 | 2024-11-21 |  |
 | [Lagi Lagi Kamu](https://open.spotify.com/track/3rxEIopqXo7oAfgszpHfRc) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Lagi Lagi Kamu](https://open.spotify.com/album/4hKgQmeauO0tKOapTtyOv2) | 2:51 | 2025-12-11 |  |

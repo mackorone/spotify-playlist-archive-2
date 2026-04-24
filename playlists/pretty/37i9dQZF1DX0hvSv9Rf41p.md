@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 featuring Subtronics
 
-[Spotify](https://open.spotify.com/user/spotify) - 993,029 likes - 90 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 993,074 likes - 90 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 40 | [DOMAIN](https://open.spotify.com/track/4yVHIc6FXkBj40FkVAywkb) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [VLCN](https://open.spotify.com/artist/4jTgru4XsqeKA1L9xB9AzW) | [DOMAIN](https://open.spotify.com/album/6bxY1d3DvnKcHidbDnbJ1A) | 3:00 |
 | 41 | [Born Again](https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Born Again](https://open.spotify.com/album/1pwBeGAONzyEHFJyFdWUv7) | 2:38 |
 | 42 | [lanadelrey](https://open.spotify.com/track/3kjYDRDhykMPFgkCkYhHrs) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [lanadelrey](https://open.spotify.com/album/39Li2oAsxCMhoJjwgSf0zV) | 2:44 |
-| 43 | [INFECTED](https://open.spotify.com/track/5V6Yx8L9ItQUOYq0REdFGj) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl), [Modal Nodes](https://open.spotify.com/artist/7IiQzwRO9HsEcSzTDT6OSS) | [ORGANIC DUBSTEP EP](https://open.spotify.com/album/7Cntu1kPNfvnBjA5Bw74mp) | 2:48 |
+| 43 | [INFECTED \(feat\. INFEKT\)](https://open.spotify.com/track/5V6Yx8L9ItQUOYq0REdFGj) | [Modal Nodes](https://open.spotify.com/artist/7IiQzwRO9HsEcSzTDT6OSS), [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [ORGANIC DUBSTEP EP](https://open.spotify.com/album/7Cntu1kPNfvnBjA5Bw74mp) | 2:48 |
 | 44 | [Crush](https://open.spotify.com/track/3HaRFJZ3QSjn3ffXN1f0Cl) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [AVELLO](https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ) | [Crush](https://open.spotify.com/album/6ds4c90F7yuFG7KWZquDGm) | 3:45 |
 | 45 | [Once In A Lifetime](https://open.spotify.com/track/4NZRpnuP4EZl6yohxQofP2) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Once In A Lifetime](https://open.spotify.com/album/1m7XvswwabGbeR72Lsbyeh) | 3:21 |
 | 46 | [Back In It](https://open.spotify.com/track/7gKeRFpNRSZyWCzzsYGATM) | [SubDocta](https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk), [AceMyth](https://open.spotify.com/artist/3lx0iq7PFYTo4IW4vFQtYj) | [Second Opinion](https://open.spotify.com/album/5BA7KTHsTBMHjiuhJMBO77) | 3:32 |

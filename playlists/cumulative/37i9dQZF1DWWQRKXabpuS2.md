@@ -4,7 +4,7 @@
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-456 songs - 1 day 7 hr 12 min
+457 songs - 1 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A3eesh Elyoum](https://open.spotify.com/track/3eSG8kCHjXHcXb5THol7Ch) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [A3eesh Elyoum](https://open.spotify.com/album/0ruoI8m2TFS6oiodKiEwPy) | 4:31 | 2022-09-16 | 2023-03-25 |
 | [Abghani](https://open.spotify.com/track/2dCjWuh8bNEU0gkWrlUbvD) | [Abdulwahab](https://open.spotify.com/artist/29o5B68ocp085sHaHjae8e) | [Abghani](https://open.spotify.com/album/6BPDqnmk4okiP45OUTQo6F) | 3:55 | 2023-12-29 | 2024-07-27 |
 | [Abiha Mn Allah](https://open.spotify.com/track/2k8rxQ1tEnKuwVFEX93jEx) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Abiha Mn Allah](https://open.spotify.com/album/2L7BvhoQ39OAFx6CPITA7r) | 4:11 | 2023-06-13 | 2023-12-30 |
+| [Abshir Wa Sam](https://open.spotify.com/track/5T8FoIb2JCufW7QZYgg4yr) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH), [Borhan](https://open.spotify.com/artist/0Cqxw4TpB3KidRUI3IQBgi), [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Abshir Wa Sam](https://open.spotify.com/album/3sOegAUz9hgwGTdB2XWQR0) | 2:10 | 2026-04-23 |  |
 | [Adaaj Ghanaj](https://open.spotify.com/track/7IwJ3zBLTGKpl9pnG6EVnq) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Adaaj Ghanaj](https://open.spotify.com/album/29M2nQ39KDDWBP1nIRz5Ns) | 4:30 | 2024-02-13 | 2024-09-20 |
 | [Admentik](https://open.spotify.com/track/7mY9OBHRc2m2eViCN4dTR1) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Admentik](https://open.spotify.com/album/0paz1ms5cAX0ZqOim3tJKi) | 4:18 | 2024-09-05 | 2025-04-27 |
 | [Aezerouni](https://open.spotify.com/track/11baN3TyznC1nY9Lw2tPG4) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [Aezerouni](https://open.spotify.com/album/0qdcpe5wD6AP9bkGm5VF0I) | 3:41 | 2022-12-15 | 2023-06-14 |

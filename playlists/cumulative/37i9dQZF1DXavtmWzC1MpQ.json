@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 128918,
       "name": "Ambient Woods",
       "url": "https://open.spotify.com/track/3UaXmGGrnybMEdNe5rh941"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 244931,
       "name": "arkansas forest reserve downpour",
       "url": "https://open.spotify.com/track/3hSEPqX0iqXLcFIaVjFAQ3"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 146000,
       "name": "Bird Life",
       "url": "https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH"
@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 209090,
       "name": "Birds by the Stream",
       "url": "https://open.spotify.com/track/3458IPEk4hUgltmvecrYsJ"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-13",
+      "date_removed": null,
       "duration_ms": 154338,
       "name": "Birds in Village Park",
       "url": "https://open.spotify.com/track/0QzUxmfNfouNor0fUpslhn"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 119603,
       "name": "Birds near the river in Columbia",
       "url": "https://open.spotify.com/track/4YjV6QkrEGCIq66DBeO4Ky"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-14",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Bustling River Sounds",
       "url": "https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI"
@@ -280,10 +280,28 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 104374,
       "name": "Calming Creek",
       "url": "https://open.spotify.com/track/5R113kfoXvoFBlIPpUUuRd"
+    },
+    {
+      "album": {
+        "name": "Calming Water Noise",
+        "url": "https://open.spotify.com/album/0cOplbgtR7MRa1zUJf3Sck"
+      },
+      "artists": [
+        {
+          "name": "Amsonia Star",
+          "url": "https://open.spotify.com/artist/3qlVZpNlhxCVf5xIuDd7kL"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165428,
+      "name": "Calming Water Noise",
+      "url": "https://open.spotify.com/track/0X7LWNqMNDZTG3mWg1tmAK"
     },
     {
       "album": {
@@ -302,10 +320,28 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 155071,
       "name": "Canto",
       "url": "https://open.spotify.com/track/13xuyCrZJoVhdWLbSMePxY"
+    },
+    {
+      "album": {
+        "name": "Catskill Forest Preserve",
+        "url": "https://open.spotify.com/album/3hXgvl77LoBLLxZ83jfxb8"
+      },
+      "artists": [
+        {
+          "name": "Waveseekers",
+          "url": "https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247466,
+      "name": "Catskill Forest Preserve",
+      "url": "https://open.spotify.com/track/13NGtQYPvPqAt4e02LpDJz"
     },
     {
       "album": {
@@ -338,7 +374,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 241374,
       "name": "Chill Waves & Wind in Leaves",
       "url": "https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm"
@@ -374,7 +410,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 183028,
       "name": "Distant Thunder in the East of the City",
       "url": "https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At"
@@ -396,6 +432,24 @@
       "duration_ms": 228500,
       "name": "Dripping Wet Leaves and Thunder",
       "url": "https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ"
+    },
+    {
+      "album": {
+        "name": "Forest Sounds",
+        "url": "https://open.spotify.com/album/4IGucO2BmKvLu7ynVb6r20"
+      },
+      "artists": [
+        {
+          "name": "Mother Earth Sounds",
+          "url": "https://open.spotify.com/artist/682dFb5qW5sDv3urY7IEqp"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263236,
+      "name": "Far Away Forest",
+      "url": "https://open.spotify.com/track/22r1o9aEsXPTD47TEPOpYK"
     },
     {
       "album": {
@@ -446,7 +500,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-11",
+      "date_removed": null,
       "duration_ms": 185276,
       "name": "Forest of Calamity",
       "url": "https://open.spotify.com/track/1ZOWaxy3FBZd10a2YTqIYD"
@@ -482,7 +536,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 170000,
       "name": "Forest Rain",
       "url": "https://open.spotify.com/track/6ADPydLM8fmi6fjO9ZXAb8"
@@ -518,10 +572,28 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Gentle River Sounds",
       "url": "https://open.spotify.com/track/1k7bLn8N7hq9oaHCf4To4Y"
+    },
+    {
+      "album": {
+        "name": "Green Until Morning",
+        "url": "https://open.spotify.com/album/3vNdLwCQ5Eo6sjyTqjsnhn"
+      },
+      "artists": [
+        {
+          "name": "The Long Nap",
+          "url": "https://open.spotify.com/artist/2fTkJnbdhe9vfUyUbo7kaU"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124693,
+      "name": "Green Until Morning",
+      "url": "https://open.spotify.com/track/1ITX87YFb7grS21U6fmLRt"
     },
     {
       "album": {
@@ -554,7 +626,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 183763,
       "name": "Hidden Birds of the Jungle",
       "url": "https://open.spotify.com/track/7bYZLycurOWi4nyO5bfOAy"
@@ -572,7 +644,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 192000,
       "name": "in the flow (river)",
       "url": "https://open.spotify.com/track/2OQIDMa3dyuHuXrwITnTEA"
@@ -644,7 +716,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 146000,
       "name": "Light Forest Rain 1",
       "url": "https://open.spotify.com/track/14oV03JSrcUShNmJw0qUvH"
@@ -752,7 +824,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 192000,
       "name": "Nature Night-time",
       "url": "https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp"
@@ -770,7 +842,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 194410,
       "name": "Night Forest",
       "url": "https://open.spotify.com/track/3OrDEsaqIYNaXMjtoNTmGn"
@@ -788,7 +860,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 138000,
       "name": "Noise Of The Forest",
       "url": "https://open.spotify.com/track/3archW4qVggMhQVrWnnYje"
@@ -810,7 +882,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 189741,
       "name": "Northern UK Forest Birds",
       "url": "https://open.spotify.com/track/00MSSYGZ5IjVBy4JcK3ZYk"
@@ -868,7 +940,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 179938,
       "name": "Power and Meditation",
       "url": "https://open.spotify.com/track/24XDOa1lefrRyMMoqEgmze"
@@ -1124,7 +1196,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 175813,
       "name": "Singing Birds by the Stream",
       "url": "https://open.spotify.com/track/4x01eyysDx5Y4xS1LP6nHK"
@@ -1142,10 +1214,46 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 170294,
       "name": "Sleepy Rain Noise",
       "url": "https://open.spotify.com/track/0lyKoc6Batb1kDGCtw6pdF"
+    },
+    {
+      "album": {
+        "name": "Sleepy Stream XIII",
+        "url": "https://open.spotify.com/album/4HOPK4G0nBdZwZ6oVTIWrl"
+      },
+      "artists": [
+        {
+          "name": "Mill Pond",
+          "url": "https://open.spotify.com/artist/1mCcjn2RW5BVsvDc8th5K7"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115409,
+      "name": "Sleepy Stream XIII",
+      "url": "https://open.spotify.com/track/1iGgsgW34vp3wnl1LL0ybf"
+    },
+    {
+      "album": {
+        "name": "Sleepy Stream XIV",
+        "url": "https://open.spotify.com/album/7sX5U6EO4Y8whRL59FenOc"
+      },
+      "artists": [
+        {
+          "name": "Mill Pond",
+          "url": "https://open.spotify.com/artist/1mCcjn2RW5BVsvDc8th5K7"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118625,
+      "name": "Sleepy Stream XIV",
+      "url": "https://open.spotify.com/track/4Dh5KMfMrGzyiNaUFBeMpU"
     },
     {
       "album": {
@@ -1214,7 +1322,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 169242,
       "name": "Songbirds at Dawn",
       "url": "https://open.spotify.com/track/6fdR2xhj9S7xZ46U8cw9H1"
@@ -1232,7 +1340,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 184186,
       "name": "Soothing Birdsong by the River",
       "url": "https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1"
@@ -1358,7 +1466,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 243919,
       "name": "Summmer Forest",
       "url": "https://open.spotify.com/track/2zWCsaxlGbohARJlNQ5aSM"
@@ -1376,7 +1484,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 248000,
       "name": "Sunny Windy Day",
       "url": "https://open.spotify.com/track/2Eej9iJAvO0Ar1RYrwfTl5"
@@ -1412,7 +1520,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 125610,
       "name": "The Millpond XI",
       "url": "https://open.spotify.com/track/3eeuBEStklq9Kjf7Bknx8K"
@@ -1596,7 +1704,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 116987,
       "name": "Wind My Waterfall",
       "url": "https://open.spotify.com/track/5v7R6BktiMgdeBfTfy8Sqy"
@@ -1614,7 +1722,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 138103,
       "name": "Woodland Drops",
       "url": "https://open.spotify.com/track/6yHL4GvpL9m5JqToTuG014"
@@ -1632,7 +1740,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-18",
+      "date_removed": null,
       "duration_ms": 165296,
       "name": "Zen Nature Sounds",
       "url": "https://open.spotify.com/track/5AltIifJScpUdJyQNxf3oj"

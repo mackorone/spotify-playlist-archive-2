@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-638 songs - 1 day 12 hr 14 min
+641 songs - 1 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [barcelona](https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [barcelona](https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU) | 2:55 | 2024-03-26 |  |
 | [Be Mine](https://open.spotify.com/track/2bE8jinb3xXxHirFy1yCF9) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Be Mine](https://open.spotify.com/album/3OkEGNuUPN2wUDAQBUhFs4) | 3:12 | 2024-04-04 | 2024-08-16 |
 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 | 2023-08-17 |  |
-| [Be Yours](https://open.spotify.com/track/46lJyMkWR3BXZ6XLdZzhZ5) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Be Yours](https://open.spotify.com/album/5niw3k5NSVyeBxDcdA3umi) | 3:15 | 2024-03-21 |  |
+| [Be Yours](https://open.spotify.com/track/46lJyMkWR3BXZ6XLdZzhZ5) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Be Yours](https://open.spotify.com/album/5niw3k5NSVyeBxDcdA3umi) | 3:15 | 2024-03-21 | 2026-04-24 |
 | [Beach House \- Acoustic](https://open.spotify.com/track/3glDKUTH8sQ1Cwlh0OY1OC) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Beach House \(Acoustic\)](https://open.spotify.com/album/7sSzWkRHmUv2lqt9keqCFi) | 3:43 | 2023-04-25 |  |
 | [Before I Go](https://open.spotify.com/track/5vlTxb7BP5DWzpw8RgnzxR) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Before I Go](https://open.spotify.com/album/0NTMWAuT544WcHhDgyyzyb) | 3:29 | 2023-02-23 | 2023-09-11 |
 | [Before It Might Be Gone](https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM) | 4:56 | 2026-02-06 |  |
@@ -299,6 +299,7 @@
 | [Knocked Out](https://open.spotify.com/track/13cFJziN6qRk7ZBQ57DtZ4) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Wrecks We Adore](https://open.spotify.com/album/1jf8StBAfVpC7IBPtqdcqx) | 4:39 | 2023-02-23 | 2025-06-21 |
 | [Lady Lady](https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Lady Lady](https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39) | 3:29 | 2025-08-28 | 2026-03-27 |
 | [Laps Around The Sun](https://open.spotify.com/track/3U0UzEdzd45T81FHdPPbfC) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around The Sun](https://open.spotify.com/album/6JYmn58l1Lj90pF1a9mdh5) | 3:26 | 2023-02-23 | 2024-02-03 |
+| [Laps Around The Sun](https://open.spotify.com/track/68ZVCePM9IP0MSbcmeZuup) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around the Sun](https://open.spotify.com/album/1mjMbSI9f1AYixV1CI7mLL) | 3:26 | 2026-04-23 |  |
 | [Laps Around The Sun](https://open.spotify.com/track/6TfJaJV86gzlrXy1K0S5Wp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around The Sun](https://open.spotify.com/album/0nucTlCF9MJRacvHF4Oe8O) | 3:26 | 2024-01-16 | 2024-04-19 |
 | [Last Goodbyes](https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Last Goodbyes](https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk) | 3:23 | 2026-01-08 |  |
 | [Last Request](https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:40 | 2023-02-23 | 2025-08-31 |
@@ -381,7 +382,7 @@
 | [No Worries](https://open.spotify.com/track/1T6928Jai5vaFUIP7XhXhS) | [Simon Webbe](https://open.spotify.com/artist/3P6nMEGXn0hzBlMndKfLQH) | [Sanctuary](https://open.spotify.com/album/3721OxBl0D7wkRrKhfJl03) | 3:29 | 2024-04-11 | 2026-03-06 |
 | [No Worries](https://open.spotify.com/track/0Q95QAw0HKaykvMZA3tMOb) | [Simon Webbe](https://open.spotify.com/artist/3P6nMEGXn0hzBlMndKfLQH) | [Sanctuary](https://open.spotify.com/album/4zlJk4dH9eE5wQGOrKvKhs) | 3:29 | 2023-02-23 | 2024-04-19 |
 | [Nobody Just Like You](https://open.spotify.com/track/6c1LPZcvGFR61iNceP77q9) | [Human Nature](https://open.spotify.com/artist/72BTmmAO3QfETWlFjwjfJ1) | [Nobody Just Like You](https://open.spotify.com/album/1T17JPPFnkMa9hd9fkqblx) | 2:44 | 2023-02-23 | 2024-08-03 |
-| [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 | 2024-10-24 |  |
+| [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 | 2024-10-24 | 2026-04-24 |
 | [Not Our Fault](https://open.spotify.com/track/0q7EANvg9S0AUFaE7iINZB) | [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [Not Our Fault](https://open.spotify.com/album/5Nc2dtfzKdxu7ri2YbMSGZ) | 4:31 | 2023-05-01 | 2024-01-24 |
 | [Not Our Fault](https://open.spotify.com/track/1LTtiJn18l2cYDjYxK3OQU) | [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [Not Our Fault](https://open.spotify.com/album/1IOX8G95QttETwSCr0EI4k) | 4:31 | 2023-04-25 | 2023-05-10 |
 | [Not Our Fault](https://open.spotify.com/track/6QuwHuwgucbVeqJBlIWD0h) | [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [Not Our Fault](https://open.spotify.com/album/5H7nCfkt7ovBwVG7LqU2xA) | 4:31 | 2024-01-16 | 2024-03-21 |
@@ -416,7 +417,7 @@
 | [Pennies From Heaven](https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe) | [Josh Island](https://open.spotify.com/artist/5VJxJ1utvXvjDV14FzaeN4) | [Pennies From Heaven](https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2) | 4:15 | 2023-02-23 |  |
 | [Perfect timing](https://open.spotify.com/track/15Obnb8DCcSeLJeiTPlko0) | [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Perfect timing](https://open.spotify.com/album/3polefX1SBxQITeLo2Dwc0) | 3:02 | 2023-02-23 | 2024-04-19 |
 | [Places To Go](https://open.spotify.com/track/2kIMDGHkZPCwK0MD2IlXzR) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Paradise And Back Again](https://open.spotify.com/album/1taypDxNMQORzlU7YfZlk1) | 3:46 | 2023-02-23 |  |
-| [Plage](https://open.spotify.com/track/3WU1BGMLe9Tg2QuVmRPpw6) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star of Love \(+ acoustic version\)](https://open.spotify.com/album/5z6klKjs2g01A8z5sHljhQ) | 3:50 | 2026-04-16 |  |
+| [Plage](https://open.spotify.com/track/3WU1BGMLe9Tg2QuVmRPpw6) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star of Love \(+ acoustic version\)](https://open.spotify.com/album/5z6klKjs2g01A8z5sHljhQ) | 3:50 | 2026-04-16 | 2026-04-24 |
 | [Plage](https://open.spotify.com/track/6jPNXRnTy37ADxbihf56rM) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star Of Love](https://open.spotify.com/album/00v21bgN2da5KonMWEAMec) | 3:50 | 2023-02-23 | 2024-04-19 |
 | [Plan B](https://open.spotify.com/track/5VznAumfWkTREKil1KIr2Z) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Plan B](https://open.spotify.com/album/6oRNdc43yuhj9QC0IJgmzd) | 3:05 | 2023-02-23 |  |
 | [Plastic Cigarette](https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 3:05 | 2026-02-12 |  |
@@ -502,6 +503,7 @@
 | [Starship Fantasy](https://open.spotify.com/track/0XKLRDrYJwxGuel9cKhIbd) | [Christian Kratzsch](https://open.spotify.com/artist/3c8IBhwIzheO7S7AfMfNqt), [Vinny G.](https://open.spotify.com/artist/7vN5IWvscJYNUzlNEBUZDL) | [Starship Fantasy](https://open.spotify.com/album/45ac94aq4QwSvQ0Q5DotFO) | 3:10 | 2023-04-25 |  |
 | [Start Again](https://open.spotify.com/track/5Km6e8PWkwEPVKlifElIDB) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Start Again](https://open.spotify.com/album/6AZP6Qm8YD7hUALhn0pd6O) | 3:37 | 2023-02-23 | 2025-08-29 |
 | [Stay For Something](https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:36 | 2025-01-09 |  |
+| [Stay Love](https://open.spotify.com/track/3CyM2SZsivBrwxynIvN2K3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4ScfyWincbVs9Ingpb0zw6) | 3:26 | 2026-04-23 |  |
 | [Stay the Night](https://open.spotify.com/track/7FFl1IHSsPWsfUCladsCl9) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Some Kind of Trouble \(Deluxe Edition\)](https://open.spotify.com/album/5b6T7m3DbNlWTwnaiuic2W) | 3:36 | 2024-03-21 |  |
 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 | 2024-03-21 | 2024-04-19 |
 | [Steam](https://open.spotify.com/track/0JhOWLV0il0wcoyOr2kaCx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:23 | 2024-03-26 | 2024-09-25 |
@@ -631,6 +633,7 @@
 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 | 2024-03-26 |  |
 | [Wonderful World](https://open.spotify.com/track/7EfHlhxyYJ5pfh0H34j7oe) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 3:29 | 2023-04-06 | 2024-04-19 |
 | [Wonderful World](https://open.spotify.com/track/71LzkFemz0B8nmk8LcFyUg) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered \(International Version\)](https://open.spotify.com/album/0cHXj1g4NdFEQinwxj4soZ) | 3:30 | 2024-04-11 |  |
+| [Won’t Fall](https://open.spotify.com/track/1f7P00oydj1vmqzPqk9AxN) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Won’t Fall](https://open.spotify.com/album/4uSNgH9awhE0zRbG62IUek) | 3:48 | 2026-04-23 |  |
 | [Word's Out](https://open.spotify.com/track/5hfI4QZTb4KgGO358YWh6J) | [Novastar](https://open.spotify.com/artist/3r2qdoM2Ryp8aBb3S3qIG1) | [In The Cold Light of Monday](https://open.spotify.com/album/4dcllgpFwPz84zxxv0sC4i) | 3:47 | 2023-02-23 |  |
 | [World At My Feet](https://open.spotify.com/track/1wvqFqy2sYYQN7Eyrnva2S) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I WILL.](https://open.spotify.com/album/2BYVPJNyBUltJDH4rrxvwl) | 2:51 | 2025-06-26 |  |
 | [World's Worst Girlfriend](https://open.spotify.com/track/22NOtyVXO6HsxpmEZFHdMh) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [World's Worst Girlfriend](https://open.spotify.com/album/4VQtiwqwug58DnnejHvGv6) | 2:41 | 2025-06-26 |  |

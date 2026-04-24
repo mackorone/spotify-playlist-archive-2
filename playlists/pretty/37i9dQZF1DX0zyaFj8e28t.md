@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 
 > Les plus grands tubes français des années 80\. Photo : France Gall
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,090 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,121 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 24 | [Week\-end à Rome](https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Week End À Rome](https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl) | 4:14 |
 | 25 | [Je dois m'en aller](https://open.spotify.com/track/7fxvGz4A606ADmsAGT5r4Q) | [Niagara](https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU) | [Encore un dernier baiser](https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN) | 3:26 |
 | 26 | [Mise au point](https://open.spotify.com/track/2hSSHgViCLNwV5TozS0otN) | [Jakie Quartz](https://open.spotify.com/artist/5wGprTHwvhRJpnN4vWlLDT) | [Mise au point \(Edition Deluxe\)](https://open.spotify.com/album/5SPAEEOKhwl0dYJflmQ1L7) | 4:43 |
-| 27 | [Eve lève\-toi](https://open.spotify.com/track/3MPmRgJHfD7CADCibQfNgG) | [Julie Pietri](https://open.spotify.com/artist/4siBlVknVhh8jtVy9jHsDG) | [Eve lève\-toi](https://open.spotify.com/album/5P5GtHwVOmZEVqqapr0F1w) | 4:32 |
-| 28 | [T'en va pas](https://open.spotify.com/track/6JCIbXPH5LIawW4NRLvYE8) | [Elsa Lunghini](https://open.spotify.com/artist/4Uk5eLOfWucThb2X4QLcX1) | [L'essentiel](https://open.spotify.com/album/0jfDIK7wBs6kp2RbEy3iym) | 5:28 |
+| 27 | [T'en va pas](https://open.spotify.com/track/6JCIbXPH5LIawW4NRLvYE8) | [Elsa Lunghini](https://open.spotify.com/artist/4Uk5eLOfWucThb2X4QLcX1) | [L'essentiel](https://open.spotify.com/album/0jfDIK7wBs6kp2RbEy3iym) | 5:28 |
+| 28 | [Eve lève\-toi](https://open.spotify.com/track/3MPmRgJHfD7CADCibQfNgG) | [Julie Pietri](https://open.spotify.com/artist/4siBlVknVhh8jtVy9jHsDG) | [Eve lève\-toi](https://open.spotify.com/album/5P5GtHwVOmZEVqqapr0F1w) | 4:32 |
 | 29 | [Le parking des anges](https://open.spotify.com/track/0gNkBJ8M4S5pKaxEJuQEI5) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Marc Lavoine](https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc) | 3:56 |
 | 30 | [Pourvu qu'elles soient douces](https://open.spotify.com/track/2gNyCHDGyHrw3lCpT9LqlY) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Ainsi Soit Je](https://open.spotify.com/album/69x2VirNYhaRWQDxV1EX7F) | 4:52 |
 | 31 | [Si j'étais un homme](https://open.spotify.com/track/0qnN7RceovLP58nCY0fdME) | [Diane Tell](https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h) | [En flèche](https://open.spotify.com/album/2ywSgXs2EVLGQMQGy2ZRIi) | 4:49 |
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 34 | [Duel au soleil \- 2006 Remaster](https://open.spotify.com/track/0DmECgkk7chNyhf4kaHaLN) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Pop Satori \(2006 Remaster\)](https://open.spotify.com/album/0epJLxAqo8DfByqlQs1Xdb) | 4:21 |
 | 35 | [Besoin de personne](https://open.spotify.com/track/2EdqnePuFG7FDPsiy5YGov) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Exclusivement féminin](https://open.spotify.com/album/40ab89bLPpUS6kmt44vNjS) | 2:47 |
 | 36 | [Disparue](https://open.spotify.com/track/280p8WbpK05bAptetUzEcx) | [Jean\-Pierre Mader](https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI) | [Disparue \- EP](https://open.spotify.com/album/6InWfWweFfuMQ7kCn5CBoc) | 3:09 |
-| 37 | [Joue pas](https://open.spotify.com/track/4DhapD9hNxw9vAT7RKbWZH) | [François Feldman](https://open.spotify.com/artist/3marwXSwSzZctZtvg35LOe), [Joniece Jamison](https://open.spotify.com/artist/1cv4XgiZ8UewYxrtk4XO3Q) | [Two Feldman](https://open.spotify.com/album/1nHQK7vhvM4WZgKI825yr9) | 4:11 |
-| 38 | [Tropique](https://open.spotify.com/track/0ygcmX3L2rL0fEO45NN9k0) | [Muriel Dacq](https://open.spotify.com/artist/5hqvbA1LcyFLRhTQGZQzKP) | [Tropique](https://open.spotify.com/album/45QTuP5zs9QwKdS0y0znIO) | 3:32 |
+| 37 | [Tropique](https://open.spotify.com/track/0ygcmX3L2rL0fEO45NN9k0) | [Muriel Dacq](https://open.spotify.com/artist/5hqvbA1LcyFLRhTQGZQzKP) | [Tropique](https://open.spotify.com/album/45QTuP5zs9QwKdS0y0znIO) | 3:32 |
+| 38 | [Joue pas](https://open.spotify.com/track/4DhapD9hNxw9vAT7RKbWZH) | [François Feldman](https://open.spotify.com/artist/3marwXSwSzZctZtvg35LOe), [Joniece Jamison](https://open.spotify.com/artist/1cv4XgiZ8UewYxrtk4XO3Q) | [Two Feldman](https://open.spotify.com/album/1nHQK7vhvM4WZgKI825yr9) | 4:11 |
 | 39 | [Elle a les yeux revolver](https://open.spotify.com/track/3uXVAyaaYadFSbbj1SQBK4) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Best Of 85\-95](https://open.spotify.com/album/0FpLSt6Q2HLXdomOYL9oFN) | 3:36 |
 | 40 | [En l'an 2001](https://open.spotify.com/track/4Lv1Xqqu5vvl3jjiyhGn4j) | [Pierre Bachelet](https://open.spotify.com/artist/473XDcWSxnSaxptauf6fg4) | [Le Meilleur De](https://open.spotify.com/album/5JFBGYglZem8jUTB5QOGSN) | 5:27 |
 | 41 | [Elle préfère l'amour en mer](https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H) | [Philippe Lavil](https://open.spotify.com/artist/7doURsj1UtIUUeW2kwNwWw) | [Nonchalances](https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr) | 2:59 |
-| 42 | [Désir, désir, Pt\. 1](https://open.spotify.com/track/2tr24VBF280hvO14tSNBEO) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z), [Véronique Jannot](https://open.spotify.com/artist/3AySyGIRlpIhkjan8dOSbN) | [Belle Ile En Mer](https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl) | 4:56 |
-| 43 | [La p'tite Lady](https://open.spotify.com/track/7jeK414Hj68dYeLzEUVGe8) | [Vivien Savage](https://open.spotify.com/artist/4JB4YibTxVBeW30DtePCZT) | [EP La P'tite Lady](https://open.spotify.com/album/0Lg340OEMHB1qyi919yiZQ) | 3:35 |
+| 42 | [La p'tite Lady](https://open.spotify.com/track/7jeK414Hj68dYeLzEUVGe8) | [Vivien Savage](https://open.spotify.com/artist/4JB4YibTxVBeW30DtePCZT) | [EP La P'tite Lady](https://open.spotify.com/album/0Lg340OEMHB1qyi919yiZQ) | 3:35 |
+| 43 | [Désir, désir, Pt\. 1](https://open.spotify.com/track/2tr24VBF280hvO14tSNBEO) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z), [Véronique Jannot](https://open.spotify.com/artist/3AySyGIRlpIhkjan8dOSbN) | [Belle Ile En Mer](https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl) | 4:56 |
 | 44 | [C'est la ouate \- Radio Edit Original Version 1987](https://open.spotify.com/track/2dgbgBcWg5iKQ0jmChAb3l) | [Caroline Loeb](https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm) | [C'est la ouate](https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb) | 3:48 |
 | 45 | [Embrasse moi idiot \- .](https://open.spotify.com/track/418hg3W91QSVSI7S6l3baJ) | [Bill Baxter](https://open.spotify.com/artist/3KpXJFls6MeNgtt8uyBfmf) | [Embrasse Moi Idiot](https://open.spotify.com/album/03ZiFpoAZNWSHvQAkfHM6z) | 3:45 |
 | 46 | [Lili voulait aller danser](https://open.spotify.com/track/5W8DHtd2JOU9q7X3pvzafw) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Femmes, indiscrétion, blasphème](https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f) | 3:58 |
 | 47 | [Les brunes comptent pas pour des prunes](https://open.spotify.com/track/2FO8AfQVGJsmxgg6RlI5jK) | [Lio](https://open.spotify.com/artist/48sZWxnqspohWtxJNg7OsI) | [Les brunes comptent pas pour des prunes](https://open.spotify.com/album/48Hn4QRWsu9vLDNLdmBPxb) | 3:09 |
 | 48 | [Le temps est assassin \- Remasterisé en 2008](https://open.spotify.com/track/4lMDfQ7hIwwcbRgsY870LU) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Véronique Sanson \(Edition Deluxe\)](https://open.spotify.com/album/5xOuC8UkYnYXiqeHN21bqS) | 5:13 |
-| 49 | [Cargo \- 2024 Remaster](https://open.spotify.com/track/60WiEteADDUQKn62YIrlBx) | [Axel Bauer](https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd) | [Cargo \- EP \(2024 Remaster\)](https://open.spotify.com/album/6qDDn1u921qNWzS8FqHfk5) | 4:50 |
-| 50 | [Tombé pour la France \- Version maximum](https://open.spotify.com/track/5DlrHsAjvzsR1z4vOLZPN3) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Tombé pour la France](https://open.spotify.com/album/16kl4uJMSvFCfiyBl2cXFv) | 6:30 |
+| 49 | [Tombé pour la France \- Version maximum](https://open.spotify.com/track/5DlrHsAjvzsR1z4vOLZPN3) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Tombé pour la France](https://open.spotify.com/album/16kl4uJMSvFCfiyBl2cXFv) | 6:30 |
+| 50 | [Cargo \- 2024 Remaster](https://open.spotify.com/track/60WiEteADDUQKn62YIrlBx) | [Axel Bauer](https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd) | [Cargo \- EP \(2024 Remaster\)](https://open.spotify.com/album/6qDDn1u921qNWzS8FqHfk5) | 4:50 |
 
 Snapshot ID: `AAAAAFEuN5VnO3be9ztDZVc8zIl2Emeb`

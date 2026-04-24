@@ -4,7 +4,7 @@
 
 > The \#1 Destination for the best melodies in the world\. Cover: Tyla, Zara Larsson
 
-131 songs - 6 hr 37 min
+133 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Impact](https://open.spotify.com/track/4mGAgHZ5kZwxvXEYqOxbOu) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Impact](https://open.spotify.com/album/2M4e4YtEp2Dyrozz7ghg1U) | 4:59 | 2025-07-10 | 2025-10-10 |
 | [Leak It](https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Leak It](https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K) | 3:03 | 2026-03-20 |  |
 | [Life After Love](https://open.spotify.com/track/4iI3VuXTaRHhPtIukeljkU) | [Leah Music](https://open.spotify.com/artist/3FrtVf61eHTo2BZNG1qTOK) | [Life After Love](https://open.spotify.com/album/026mGyAjIYXJVinjFvWF8X) | 2:10 | 2025-07-10 | 2025-10-17 |
-| [Like A Star](https://open.spotify.com/track/7mMi0mUPohV2X0nNsCeH57) | [Sophie Castillo](https://open.spotify.com/artist/4LoRVyF2R00cUR8q3oatMb) | [Like A Star](https://open.spotify.com/album/5Pb8ViifCseDip08mLNnsT) | 2:46 | 2025-07-10 |  |
+| [Like A Star](https://open.spotify.com/track/7mMi0mUPohV2X0nNsCeH57) | [Sophie Castillo](https://open.spotify.com/artist/4LoRVyF2R00cUR8q3oatMb) | [Like A Star](https://open.spotify.com/album/5Pb8ViifCseDip08mLNnsT) | 2:46 | 2025-07-10 | 2026-04-24 |
 | [Long Time](https://open.spotify.com/track/3lWOHVuJFczaKbt3gDsbwU) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Long Time](https://open.spotify.com/album/5WasWcm3Dhuk1YuyDwDBqB) | 1:54 | 2025-07-10 | 2025-11-21 |
 | [Love Letter](https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Love Letter](https://open.spotify.com/album/11koFUb2flCfP4dELQ388y) | 2:56 | 2026-02-27 |  |
 | [Made 4 U](https://open.spotify.com/track/0HCNNk73IcblEA8fcncvYc) | [ABIR](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) | [Made 4 U](https://open.spotify.com/album/0Z95ZYpPatQwxStl1eociG) | 2:42 | 2025-07-10 | 2025-10-10 |
@@ -98,12 +98,13 @@
 | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai) | 3:10 | 2025-07-10 | 2026-04-17 |
 | [Ready](https://open.spotify.com/track/0dDciQvSUTEbcLugnDXRCX) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Ready](https://open.spotify.com/album/27b6q0H567oGVedA8bAuwg) | 2:52 | 2025-07-10 | 2025-09-12 |
 | [Rhythm](https://open.spotify.com/track/75DV6KHoL58McX0a9S8vap) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS), [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Rhythm](https://open.spotify.com/album/7cqi9bRIdSljdeDXdWDgB0) | 2:37 | 2025-07-10 |  |
-| [Right Side](https://open.spotify.com/track/7LjXtIApPh4G81nAMMCB1b) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Right Side](https://open.spotify.com/album/4Qqc5yB1u7LQPDhpAZw0MT) | 2:56 | 2025-07-10 |  |
+| [Right Side](https://open.spotify.com/track/7LjXtIApPh4G81nAMMCB1b) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Right Side](https://open.spotify.com/album/4Qqc5yB1u7LQPDhpAZw0MT) | 2:56 | 2025-07-10 | 2026-04-24 |
 | [RUDUMB?](https://open.spotify.com/track/1RH05bSUuaRN1aq7l0lMtN) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [RUDUMB?](https://open.spotify.com/album/27zzEm2EZCnaEg7Gz6BpX4) | 1:57 | 2025-07-10 | 2025-10-10 |
 | [Selfish](https://open.spotify.com/track/479iOebjPbBBXPXZvGKcYc) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Selfish](https://open.spotify.com/album/5epAkQBKiF1AbHuK3OjI2R) | 2:50 | 2025-07-10 | 2026-04-17 |
 | [Shawa Shawa \(Ashawo\)](https://open.spotify.com/track/0L83TBAR0ad6GJH7q2GtJP) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Shawa Shawa \(Ashawo\)](https://open.spotify.com/album/02YMGf7oSXURkxXAblr1sw) | 2:08 | 2025-11-21 |  |
 | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B) | 3:33 | 2026-04-16 |  |
 | [should i give it up?](https://open.spotify.com/track/1p93g3SrDbIBvA4yK5RaQU) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [should i give it up?](https://open.spotify.com/album/1uJTd7634MZTlEXlWjuE8F) | 2:25 | 2026-03-20 |  |
+| [Shoulda Never \(feat\. USHER\)](https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 3:06 | 2026-04-23 |  |
 | [Side Effects](https://open.spotify.com/track/5hkceiJGJl4qcWUtyjXaJm) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [KONNAKOL](https://open.spotify.com/album/1gNQgz2ZDk9XNEBdJcs9zG) | 3:17 | 2026-04-16 |  |
 | [SILHOUETTE](https://open.spotify.com/track/5DkoUIMteaXpHncWUjZILJ) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Efosa](https://open.spotify.com/artist/6bMDcfWfOVl5mWw8DUgLO3) | [SILHOUETTE](https://open.spotify.com/album/3E6j663E4ImUvaRh3gXfII) | 2:38 | 2025-07-10 |  |
 | [SINCERITY](https://open.spotify.com/track/6vsviYXBwZkX3LUdXcnxC1) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [SINCERITY](https://open.spotify.com/album/6hQ3ZgQh0JAaNDP2GOwBOQ) | 2:47 | 2025-07-10 | 2026-01-16 |
@@ -133,6 +134,7 @@
 | [Until the End](https://open.spotify.com/track/0LjJC9ng4HLCzGxSP04Yer) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Until the End](https://open.spotify.com/album/5qrj8PIjfUsdoWZTjuOlvU) | 2:25 | 2025-07-10 | 2025-07-25 |
 | [US III](https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [US III](https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO) | 2:36 | 2025-09-11 |  |
 | [Walk](https://open.spotify.com/track/7sOU63ay88RLvacLn4Gra1) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Walk](https://open.spotify.com/album/4tW125aMDVLb8CZ9iXltpM) | 2:56 | 2026-02-27 |  |
+| [We Still Good??](https://open.spotify.com/track/42LIEv6ZRSrouYUhz5UT71) | [Leah Music](https://open.spotify.com/artist/3FrtVf61eHTo2BZNG1qTOK) | [We Still Good??](https://open.spotify.com/album/58Tex34A783zyGDC1amh2v) | 2:18 | 2026-04-23 |  |
 | [Who’s Dat Girl](https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Who’s Dat Girl](https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW) | 2:52 | 2025-10-17 |  |
 | [Winter & Summer](https://open.spotify.com/track/3a7rELDtWE9gb6DBwxsNPt) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Winter & Summer](https://open.spotify.com/album/73Z3iEJZUJxplEjmD5UZkw) | 3:14 | 2025-07-10 | 2025-09-12 |
 | [World At My Feet](https://open.spotify.com/track/1wvqFqy2sYYQN7Eyrnva2S) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I WILL.](https://open.spotify.com/album/2BYVPJNyBUltJDH4rrxvwl) | 2:51 | 2025-07-10 |  |

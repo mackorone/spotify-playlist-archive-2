@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Big Up",
-  "num_followers": 291221,
+  "num_followers": 291211,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -551,30 +551,6 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
-        "name": "Barulho Das Ondas",
-        "url": "https://open.spotify.com/album/4dz9jnGDmEIzi9YaKXC6c6"
-      },
-      "artists": [
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        },
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "UCHA",
-          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
-        }
-      ],
-      "duration_ms": 208365,
-      "name": "Barulho Das Ondas",
-      "url": "https://open.spotify.com/track/4gdlltsXloVZhtJhPYw1PN"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
         "name": "Sempre Que Me V\u00ea",
         "url": "https://open.spotify.com/album/0gjyJm3JIFWXueTBg318dI"
       },
@@ -615,6 +591,22 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
+        "name": "assim",
+        "url": "https://open.spotify.com/album/6EzAHlYYoA8st7fQ9gwdj3"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "assim",
+      "url": "https://open.spotify.com/track/7weSnNG6RFVsfY3z5DABdZ"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
         "name": "Para todas as mulheres que j\u00e1 rimei Pt. 2",
         "url": "https://open.spotify.com/album/2IN1uMCXQMgEkAmQO48apf"
       },
@@ -635,18 +627,26 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
-        "name": "assim",
-        "url": "https://open.spotify.com/album/6EzAHlYYoA8st7fQ9gwdj3"
+        "name": "Barulho Das Ondas",
+        "url": "https://open.spotify.com/album/4dz9jnGDmEIzi9YaKXC6c6"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        },
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "UCHA",
+          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
         }
       ],
-      "duration_ms": 171000,
-      "name": "assim",
-      "url": "https://open.spotify.com/track/7weSnNG6RFVsfY3z5DABdZ"
+      "duration_ms": 208365,
+      "name": "Barulho Das Ondas",
+      "url": "https://open.spotify.com/track/4gdlltsXloVZhtJhPYw1PN"
     },
     {
       "added_at": "2026-02-23 14:14:13",

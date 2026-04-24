@@ -2,9 +2,9 @@
 
 ### [indie.nl](https://open.spotify.com/playlist/37i9dQZF1DX2wnn4eczZBS)
 
-> Indiepop in het Nederlands\. Cover: IDA
+> Indiepop in het Nederlands\. Cover: Eva van Manen
 
-324 songs - 16 hr 48 min
+326 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Dwars](https://open.spotify.com/track/0DIs9izFeabve5fCncW1p8) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Dwars](https://open.spotify.com/album/5S2TQKLJWNzu7nJIwSVzaQ) | 2:56 | 2024-11-14 | 2025-02-27 |
 | [Een Filosofie Van Het Riool](https://open.spotify.com/track/3iNVdekvdmLW4FwcTU1mxS) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Een Filosofie Van Het Riool](https://open.spotify.com/album/76VF1Aj51hR66X4lcYBXaV) | 5:26 | 2025-01-10 | 2025-03-08 |
 | [Eerste Date](https://open.spotify.com/track/5yduJBegePsnWGlm6QK6DY) | [LE MOTAT](https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO) | [Eerste Date](https://open.spotify.com/album/1RRZ8lGxb3EToVRya8zsNi) | 2:38 | 2025-03-20 | 2025-07-18 |
+| [Eindig](https://open.spotify.com/track/5EIwMiCK3VAz8bl4Ghzs2p) | [Eva van Manen](https://open.spotify.com/artist/39fsjaOkLW4Gq6X6URiWRj) | [Tussenruimte](https://open.spotify.com/album/70EeqsXtdXZRMzV9qrnRUL) | 3:57 | 2026-04-23 |  |
 | [Even Offline](https://open.spotify.com/track/4SMkHRkwYl3bblqG0LyfQ0) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Nachttarief](https://open.spotify.com/album/7AgqovNQYhxzDxp9k4B6wS) | 1:35 | 2025-10-21 | 2025-11-08 |
 | [Evenwicht](https://open.spotify.com/track/4YCIKgw9G0YNaN5vOzmxhI) | [LE MOTAT](https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO), [Fé](https://open.spotify.com/artist/0m73YFCtlwhxvn3LiOHDNY) | [Het Moment Suprême](https://open.spotify.com/album/5hLf8KGSoR9cvf4ZPyFgRQ) | 2:24 | 2025-09-26 | 2025-12-02 |
 | [Femboy](https://open.spotify.com/track/7AvfGrqPE0TbgcQgsGeXJU) | [Stippenlift](https://open.spotify.com/artist/0YR2zBCixKxGg5go4LvjA9) | [Femboy](https://open.spotify.com/album/1qzm7lB5pNO6ZFPiIRQ3Mp) | 2:59 | 2024-06-26 | 2024-08-30 |
@@ -160,7 +161,7 @@
 | [Kijk me aan als je met me vrijt](https://open.spotify.com/track/1be5nDVqn24PE8cbhtqc61) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Eeuwig Voor Een Tijdje](https://open.spotify.com/album/1WYFO1LEcm6BatRKJApR2g) | 2:41 | 2024-06-26 | 2024-07-19 |
 | [KIJK NAAR M'N NAAM](https://open.spotify.com/track/6MyIwypcSrNwZYGPPRCUPO) | [Boter bij de Vis](https://open.spotify.com/artist/7tuinFXD42LyO2UDBb5LEy) | [KIJK NAAR M'N NAAM](https://open.spotify.com/album/3lUb5MgtePsBVwgMnkWLaT) | 2:28 | 2024-06-26 | 2024-08-30 |
 | [Kinderboerderij \(Keiblij\)](https://open.spotify.com/track/3ZznsGB1HNDojZ00AlEQ1M) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Kinderboerderij \(Keiblij\)](https://open.spotify.com/album/31HYeaRSdC9sVSY2uVsNa9) | 3:17 | 2024-08-29 | 2025-02-08 |
-| [Komt Goed](https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [Kubus In Een Ballenbak](https://open.spotify.com/album/2qCMxawxzGP2g3dJ8q0eNR) | 2:33 | 2026-01-12 |  |
+| [Komt Goed](https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [Kubus In Een Ballenbak](https://open.spotify.com/album/2qCMxawxzGP2g3dJ8q0eNR) | 2:33 | 2026-01-12 | 2026-04-24 |
 | [Koortsdroom](https://open.spotify.com/track/1Cor9T7xkYxRBdVX3hbaPN) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Koortsdroom](https://open.spotify.com/album/6CSACtHjdRc1cUXaqHnebL) | 2:36 | 2024-11-14 | 2025-06-27 |
 | [Koortsdroom \(Nooit Spijt\)](https://open.spotify.com/track/6x0n4XHHsxD2XLNXE8F2j0) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Koortsdroom](https://open.spotify.com/album/4JYA7GDjDCSkHM401aXVXG) | 2:42 | 2024-10-24 | 2025-01-22 |
 | [Koude Kermis](https://open.spotify.com/track/00l6XjUBc3JGWGM0EpBkyD) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Koude Kermis](https://open.spotify.com/album/3Ve9qOBRn7LGDOWeXsZUkR) | 2:49 | 2024-07-25 | 2024-08-30 |
@@ -176,7 +177,7 @@
 | [Liefdesliedjes](https://open.spotify.com/track/4PzyPRTRkMB6JsDlVGjuNu) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw), [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea) | [Liefdesliedjes](https://open.spotify.com/album/2QtZT3JR3tOkPhdLtm3Juz) | 2:13 | 2025-06-06 | 2025-11-08 |
 | [Love Dames](https://open.spotify.com/track/0KChwotHeMkZomXUpOTqs5) | [Bruin Jackson](https://open.spotify.com/artist/4EJv3g9E8EPNOTogUqBDoe), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Love Dames](https://open.spotify.com/album/3GoPsLI4xQS4cU7VO9NSJN) | 2:32 | 2024-07-19 | 2024-11-15 |
 | [Madeliefje](https://open.spotify.com/track/3A2dIRZrzkQp4GeYOJADpr) | [Jan.O & De Overige Bandleden](https://open.spotify.com/artist/6QbHdqdozdcEdCE3DHeyeV) | [Madeliefje](https://open.spotify.com/album/2wrtfGKVHTLvS8Rb2OHhLa) | 2:33 | 2024-07-19 | 2025-01-11 |
-| [Magneten](https://open.spotify.com/track/5OHgSlszGzcqsmcIGigxkD) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Magneten](https://open.spotify.com/album/41tDTfgCQ1Ybl7TAAERFIw) | 3:10 | 2026-01-26 |  |
+| [Magneten](https://open.spotify.com/track/5OHgSlszGzcqsmcIGigxkD) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Magneten](https://open.spotify.com/album/41tDTfgCQ1Ybl7TAAERFIw) | 3:10 | 2026-01-26 | 2026-04-24 |
 | [Mannenbaby](https://open.spotify.com/track/5kWFwP8DUlHKW4rCKOvU0n) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Mannenbaby](https://open.spotify.com/album/5oFYxSZlGEL5dpqLHMvDPe) | 2:24 | 2025-03-28 | 2025-09-05 |
 | [Marco Polo](https://open.spotify.com/track/4zfP0WFEXS7HJ1rZfGRwtX) | [De Zweefclub](https://open.spotify.com/artist/67bciYwiIDwTuPynYTV44x), [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Marco Polo](https://open.spotify.com/album/5JcrshQcKj2TcWXn0LHFB4) | 3:47 | 2025-11-07 | 2025-12-13 |
 | [Marlboro Rood](https://open.spotify.com/track/4AkQUl0cEU858gwomf7PNg) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Marlboro Rood](https://open.spotify.com/album/5wgh4F5UvFecOsjLGXXuxd) | 3:11 | 2025-02-20 | 2025-02-27 |
@@ -185,6 +186,7 @@
 | [Maskers](https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG) | [Elias Mazian](https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU) | [Maskers](https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO) | 3:21 | 2025-09-04 | 2026-03-28 |
 | [MASQUERADE](https://open.spotify.com/track/4lItc3a4LKpKeTlpKvlj4r) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [MASQUERADE](https://open.spotify.com/album/0VFnIiRSSQgULtV8kZPEcr) | 2:48 | 2024-07-05 | 2024-10-25 |
 | [Meisje](https://open.spotify.com/track/66D4eimPmZGxOoXhVuv42r) | [Emilia Mabel](https://open.spotify.com/artist/5ui9cV71wlarlXk0uKYWVV) | [Meisje](https://open.spotify.com/album/0Ol64rdLJ5hRI6nmdT0GG7) | 2:19 | 2025-01-10 | 2025-01-14 |
+| [Melatonine](https://open.spotify.com/track/1SToGBuiseBcTdqw25jMiu) | [DR!PD](https://open.spotify.com/artist/0Ad3eq5NlHomMSWNJAdXoA) | [Melatonine](https://open.spotify.com/album/6SdOJFhWGi0aDoFmwHblxo) | 3:13 | 2026-04-23 |  |
 | [Meneer de Tijd](https://open.spotify.com/track/0TccteiGTooJVCSwuD0t6x) | [Jordy Dijkshoorn](https://open.spotify.com/artist/2rxfs3NQmggU6tSbZZJ3Ke) | [Meneer de Tijd](https://open.spotify.com/album/4xmBBbbst60Q106LfQvKMS) | 2:21 | 2024-06-26 | 2024-07-06 |
 | [met jou](https://open.spotify.com/track/4DOneCtZZViYswKaadndP8) | [Laura Sjin](https://open.spotify.com/artist/6bf1bbhtxECuliHnaTAJ8L) | [met jou](https://open.spotify.com/album/1YlOnWP0tGyRf7o1jhd2Mb) | 2:44 | 2024-10-11 | 2024-11-15 |
 | [Mezelf niet meer](https://open.spotify.com/track/3qgS9HI3Ezcbf3SbIhxCBY) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT), [Louis Beton](https://open.spotify.com/artist/6nV8WGgQdzHZHzWhg20vAP) | [Mezelf niet meer](https://open.spotify.com/album/2HW4uhjwhY39zp0rtpLSJK) | 2:50 | 2024-10-09 | 2025-01-11 |

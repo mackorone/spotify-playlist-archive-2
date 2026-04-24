@@ -4,12 +4,13 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-192 songs - 12 hr 56 min
+195 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1+1](https://open.spotify.com/track/5faImH2zpFQUn30yWNsbi1) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Rayhan Maditra](https://open.spotify.com/artist/2HYwIpyNXvSyC71IigLtgm) | [1+1](https://open.spotify.com/album/5JSl6xmvvbkANHFAoopYAG) | 4:08 | 2023-02-03 | 2024-09-10 |
 | [1000 Tahun Lamanya](https://open.spotify.com/track/2x9UGhofPBZdeam4uZCUID) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Pongki Barata Meets The Stars](https://open.spotify.com/album/38D2z2TJ00G6qViXbvslpy) | 3:52 | 2023-02-03 |  |
+| [1000X](https://open.spotify.com/track/6xrP29JvvYP5ftteZ7nubf) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [1000X](https://open.spotify.com/album/1praH9t2dBOUP9IcLgjpVc) | 4:12 | 2026-04-23 |  |
 | [11 Januari](https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Peace, Love And Respect](https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I) | 3:32 | 2023-02-03 | 2025-09-26 |
 | [123456](https://open.spotify.com/track/2CFpkbOfYe23ZoMfufNKVB) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [1 Hari Yang Cerah](https://open.spotify.com/album/3BSay8BCZZFWaLlSIqt4D2) | 3:39 | 2025-06-19 | 2025-07-26 |
 | [123456 \(New Version\)](https://open.spotify.com/track/1ZJIvnW9R0r12jJXcnX41O) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [123456 \(New Version\)](https://open.spotify.com/album/23mJFFYLo7WPVPaHSrG4z3) | 3:24 | 2025-07-25 |  |
@@ -88,6 +89,7 @@
 | [Janji Kita](https://open.spotify.com/track/1yaS5CVpNYQWV2OGiVoXug) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Janji Kita](https://open.spotify.com/album/22W5ioNqkaJrSPvgPm9oA2) | 4:39 | 2023-10-06 | 2024-04-19 |
 | [Janji Kita](https://open.spotify.com/track/6ZEChRRRAQECMkEXXDVQTC) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Journey of Love](https://open.spotify.com/album/53cOSsrFmKTIWSBiBB81vf) | 4:39 | 2023-09-20 | 2023-10-13 |
 | [Janji Suci](https://open.spotify.com/track/6eekwSXpB57v26oEzcAhcf) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [The Special One](https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp) | 3:18 | 2023-02-03 |  |
+| [Jantung Aman Kan?](https://open.spotify.com/track/0MhLGM30nBiaRdpAdpxHi0) | [Fani Rahmansyah](https://open.spotify.com/artist/2yfoFECTnaFjyHrHNjJm7x) | [Jantung Aman Kan?](https://open.spotify.com/album/73Y7wzyF59nD3mObgkIcxu) | 3:47 | 2026-04-23 |  |
 | [Jatuh Cinta \- Keluarga Cemara 2 Original Soundtrack](https://open.spotify.com/track/1bqkmiujAzPU2YOvCB3Mxj) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Jatuh Cinta \(Keluarga Cemara 2 Original Soundtrack\)](https://open.spotify.com/album/2ZCF3Bul4PckNko2bqSfRO) | 3:27 | 2023-02-03 | 2023-05-04 |
 | [Jatuh Suka](https://open.spotify.com/track/6PqWdGIYq5xdLaa4zCZfRp) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 3:55 | 2023-02-03 |  |
 | [Jikalau](https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp) | [Naif](https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:06 | 2023-02-03 | 2025-04-15 |
@@ -134,6 +136,7 @@
 | [O..Ya](https://open.spotify.com/track/44B5higF4TQLQpRmZRCnvF) | [K3S](https://open.spotify.com/artist/7CBWAW33Sq5axOZmxrmfIk) | [O…Ya](https://open.spotify.com/album/48yt55yCovNEEMwqG8y5L5) | 3:07 | 2023-04-17 | 2023-06-23 |
 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 | 2023-02-03 | 2025-07-01 |
 | [Panah Asmara](https://open.spotify.com/track/2n5MdJ8bdz4QYOTdeZaBd5) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 4:34 | 2024-06-05 |  |
+| [Pencuri Malam](https://open.spotify.com/track/7qQNus2U0jlt1JHvKyraYZ) | [Samuel Cipta](https://open.spotify.com/artist/7zJZ3KU0oAP3yxu0HzYnOc) | [Pencuri Malam](https://open.spotify.com/album/2mXqT7R18luoyawLOuyluD) | 3:21 | 2026-04-23 |  |
 | [Pendampingmu \#TahtaHatiku](https://open.spotify.com/track/0peDS2F3fH9U5YKSF9SZmm) | [Shabrina Leanor](https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f) | [Pendampingmu \#TahtaHatiku](https://open.spotify.com/album/5XvTmKurqOPaImImbDBDFv) | 4:04 | 2025-05-23 |  |
 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 | 2024-02-13 |  |
 | [Perahu Kertas](https://open.spotify.com/track/0eFl0s1v88DTqsXFJWFTmO) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Perahu Kertas](https://open.spotify.com/album/7KKKg80jCzCksVtgRc88r6) | 3:54 | 2023-02-03 |  |

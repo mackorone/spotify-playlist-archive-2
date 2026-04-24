@@ -4,7 +4,7 @@
 
 > The best indie of then and the best of now\. Cover: Daniela Andrade
 
-841 songs - 2 day 2 hr 36 min
+842 songs - 2 day 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,7 +522,7 @@
 | [Nothing But You](https://open.spotify.com/track/49X1d9QKZKU2WFBtm4GUzN) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Battle Lines](https://open.spotify.com/album/42aWQU8pO4KLq2aNwidEZS) | 3:39 | 2021-01-18 | 2022-04-13 |
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2024-02-02 | 2025-07-29 |
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2022-08-23 |  |
-| [Numb](https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Numb](https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb) | 3:39 | 2023-02-10 |  |
+| [Numb](https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Numb](https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb) | 3:39 | 2023-02-10 | 2026-04-24 |
 | [Oh Dear](https://open.spotify.com/track/3uwJ3HLp0FtMuYmwYDHt4R) | [JEFFE](https://open.spotify.com/artist/1Hgq78NaXI41PHyKKDEExF) | [One Hundred Percent](https://open.spotify.com/album/2v24Dl7q1XdzOJp3EB6wVt) | 3:28 | 2021-02-22 | 2022-04-16 |
 | [Oh Mama](https://open.spotify.com/track/6Lg8oR8gLFlZsQHt60nobd) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Mind The Moon](https://open.spotify.com/album/6y2JMtge8HqlTcwBVpBlsG) | 3:33 | 2020-10-29\* | 2022-04-06 |
 | [Oh My God](https://open.spotify.com/track/6OhkOasd2Mume69b87jwbN) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Shabrang](https://open.spotify.com/album/54tTC9UQtLnu5Wldhlnstr) | 3:14 | 2024-01-08 | 2024-02-03 |
@@ -724,6 +724,7 @@
 | [Take Some Time](https://open.spotify.com/track/0Ie1ea9VHGbktOaz5PsazO) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Take Some Time](https://open.spotify.com/album/3vA1f9U8MaUieQWJcOqrgT) | 3:22 | 2020-10-29\* | 2022-04-16 |
 | [Take Your Time](https://open.spotify.com/track/0fqjy5gVNVmQQmxOLLfb3c) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:37 | 2021-01-16 | 2022-04-03 |
 | [Talk Too Much](https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 3:08 | 2023-02-10 | 2025-11-29 |
+| [tangerine!](https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [tangerine!](https://open.spotify.com/album/4e4WfNz2OUB7oqsRJL2PQl) | 2:38 | 2026-04-23 |  |
 | [Teardrops](https://open.spotify.com/track/3GdogCZTpPHBODiiEJbqQm) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Teardrops](https://open.spotify.com/album/6SbuufeFjg252z6GFG1lXV) | 3:18 | 2023-02-10 |  |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-05-04 | 2022-08-24 |
 | [Tell Me](https://open.spotify.com/track/2e17lXoDibAex4sbmL2330) | [BROS](https://open.spotify.com/artist/4b2FejUQCLbLbalnwPyLQc) | [Vol\. 1](https://open.spotify.com/album/3VTQi4RnJqcRMvEHfvoD5Q) | 3:51 | 2021-02-08 | 2022-04-16 |

@@ -1,6 +1,6 @@
 {
   "description": "Stank face activated. Cover: Nostalgix",
-  "num_followers": 271020,
+  "num_followers": 271038,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -959,30 +959,6 @@
     {
       "added_at": "2026-04-17 04:01:12",
       "album": {
-        "name": "Hell Yeah (Feat. Waxmaster)",
-        "url": "https://open.spotify.com/album/6dl23YahpDggLsz3CUStQR"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Parris Mitchell",
-          "url": "https://open.spotify.com/artist/58cT4ua09AH5Le3Ch6Vy5p"
-        },
-        {
-          "name": "Waxmaster",
-          "url": "https://open.spotify.com/artist/5Z53U9BFMK9ndmnMW4HHR7"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "Hell Yeah (Feat. Waxmaster)",
-      "url": "https://open.spotify.com/track/4fX5TrTpbze93zEzkhDOBb"
-    },
-    {
-      "added_at": "2026-04-17 04:01:12",
-      "album": {
         "name": "Till I Die (feat. Claudia Valentina)",
         "url": "https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK"
       },
@@ -1023,6 +999,30 @@
       "duration_ms": 193005,
       "name": "Faded (Blacklizt Version) - HNTR Remix",
       "url": "https://open.spotify.com/track/3NWERP0Tt6CTnBp86jFRxB"
+    },
+    {
+      "added_at": "2026-04-17 04:01:12",
+      "album": {
+        "name": "Hell Yeah (Feat. Waxmaster)",
+        "url": "https://open.spotify.com/album/6dl23YahpDggLsz3CUStQR"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Parris Mitchell",
+          "url": "https://open.spotify.com/artist/58cT4ua09AH5Le3Ch6Vy5p"
+        },
+        {
+          "name": "Waxmaster",
+          "url": "https://open.spotify.com/artist/5Z53U9BFMK9ndmnMW4HHR7"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Hell Yeah (Feat. Waxmaster)",
+      "url": "https://open.spotify.com/track/4fX5TrTpbze93zEzkhDOBb"
     },
     {
       "added_at": "2026-04-17 04:01:12",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2026-04-17 04:01:12",
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/6cuJMnp9mc3QMtvtveBwvz"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        },
+        {
+          "name": "LYNY",
+          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/2x7yuFzNDoD2BABAlZEk2L"
+    },
+    {
+      "added_at": "2026-04-17 04:01:12",
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/4xQKZ1vTOvkaPJWaA0AFEg"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 125625,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ"
-    },
-    {
-      "added_at": "2026-04-17 04:01:12",
-      "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/6cuJMnp9mc3QMtvtveBwvz"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        },
-        {
-          "name": "LYNY",
-          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/2x7yuFzNDoD2BABAlZEk2L"
     },
     {
       "added_at": "2026-04-17 04:01:12",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2026-04-17 04:01:12",
       "album": {
+        "name": "Mind Dimension (Adam Sellouk Remix)",
+        "url": "https://open.spotify.com/album/5JcItSeupngDftJZmxCEiz"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        }
+      ],
+      "duration_ms": 219692,
+      "name": "Mind Dimension - Adam Sellouk Remix",
+      "url": "https://open.spotify.com/track/7e5S2rMuJtJNdqTGXflxsn"
+    },
+    {
+      "added_at": "2026-04-17 04:01:12",
+      "album": {
         "name": "Bass Dhol",
         "url": "https://open.spotify.com/album/6zPVFPc0OjKODf5SkRSlNu"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 218069,
       "name": "Bass Dhol",
       "url": "https://open.spotify.com/track/2rVhkoMwbeOzsBdqMUnm0p"
-    },
-    {
-      "added_at": "2026-04-17 04:01:12",
-      "album": {
-        "name": "Mind Dimension (Adam Sellouk Remix)",
-        "url": "https://open.spotify.com/album/5JcItSeupngDftJZmxCEiz"
-      },
-      "artists": [
-        {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Adam Sellouk",
-          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Mind Dimension - Adam Sellouk Remix",
-      "url": "https://open.spotify.com/track/7e5S2rMuJtJNdqTGXflxsn"
     },
     {
       "added_at": "2026-04-17 04:01:12",
@@ -1531,26 +1531,18 @@
     {
       "added_at": "2026-04-17 04:01:12",
       "album": {
-        "name": "Loose Pt. 3",
-        "url": "https://open.spotify.com/album/21BkFek37rkAQcrALu8uk2"
+        "name": "Bang That",
+        "url": "https://open.spotify.com/album/73s8sslEkwHlhjshOg3RbI"
       },
       "artists": [
         {
-          "name": "WILL K",
-          "url": "https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn"
-        },
-        {
-          "name": "JAY1",
-          "url": "https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi"
-        },
-        {
-          "name": "Ms Banks",
-          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+          "name": "Dansyn",
+          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
         }
       ],
-      "duration_ms": 169308,
-      "name": "Loose Pt. 3",
-      "url": "https://open.spotify.com/track/2Hg1IXJ36JXi40dmTqJ5T4"
+      "duration_ms": 170898,
+      "name": "Bang That",
+      "url": "https://open.spotify.com/track/1ZLOK7hel7evmw4zrDC3Gs"
     },
     {
       "added_at": "2026-04-17 04:01:12",
@@ -1575,18 +1567,26 @@
     {
       "added_at": "2026-04-17 04:01:12",
       "album": {
-        "name": "Bang That",
-        "url": "https://open.spotify.com/album/73s8sslEkwHlhjshOg3RbI"
+        "name": "Loose Pt. 3",
+        "url": "https://open.spotify.com/album/21BkFek37rkAQcrALu8uk2"
       },
       "artists": [
         {
-          "name": "Dansyn",
-          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
+          "name": "WILL K",
+          "url": "https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn"
+        },
+        {
+          "name": "JAY1",
+          "url": "https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi"
+        },
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
         }
       ],
-      "duration_ms": 170898,
-      "name": "Bang That",
-      "url": "https://open.spotify.com/track/1ZLOK7hel7evmw4zrDC3Gs"
+      "duration_ms": 169308,
+      "name": "Loose Pt. 3",
+      "url": "https://open.spotify.com/track/2Hg1IXJ36JXi40dmTqJ5T4"
     },
     {
       "added_at": "2026-04-17 04:01:12",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2026-04-17 04:01:12",
       "album": {
-        "name": "Light Up",
-        "url": "https://open.spotify.com/album/06nLUPKyyeAf9HChi6prrn"
-      },
-      "artists": [
-        {
-          "name": "Hermitude",
-          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
-        },
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 161641,
-      "name": "Light Up",
-      "url": "https://open.spotify.com/track/2F5hNtbNmIFHE2c4hVKmiC"
-    },
-    {
-      "added_at": "2026-04-17 04:01:12",
-      "album": {
         "name": "As The Pendulum Swings",
         "url": "https://open.spotify.com/album/6lWtjIwHMyJdZlRaiGwVnd"
       },
@@ -1747,6 +1727,26 @@
     {
       "added_at": "2026-04-17 04:01:12",
       "album": {
+        "name": "Light Up",
+        "url": "https://open.spotify.com/album/06nLUPKyyeAf9HChi6prrn"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        },
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 161641,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/2F5hNtbNmIFHE2c4hVKmiC"
+    },
+    {
+      "added_at": "2026-04-17 04:01:12",
+      "album": {
         "name": "Off The Hook",
         "url": "https://open.spotify.com/album/38MnYhXdB2kS4gQlCmhPNq"
       },
@@ -1759,22 +1759,6 @@
       "duration_ms": 154384,
       "name": "Off The Hook",
       "url": "https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1"
-    },
-    {
-      "added_at": "2026-04-17 04:01:12",
-      "album": {
-        "name": "CHARIOT",
-        "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
-      },
-      "artists": [
-        {
-          "name": "ROSSY",
-          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "move! (that body)",
-      "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
     },
     {
       "added_at": "2026-04-17 04:01:12",
@@ -1799,6 +1783,22 @@
     {
       "added_at": "2026-04-17 04:01:12",
       "album": {
+        "name": "CHARIOT",
+        "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "move! (that body)",
+      "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
+    },
+    {
+      "added_at": "2026-04-17 04:01:12",
+      "album": {
         "name": "TECHY MF",
         "url": "https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX"
       },
@@ -1811,22 +1811,6 @@
       "duration_ms": 174240,
       "name": "TECHY MF",
       "url": "https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb"
-    },
-    {
-      "added_at": "2026-04-17 04:01:12",
-      "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/2wUoe5FrQIOGxdta7BY56D"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 129920,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/7n8tTtvLjKYHZUVPclLUIl"
     },
     {
       "added_at": "2026-04-17 04:01:12",
@@ -1851,6 +1835,22 @@
       "duration_ms": 231300,
       "name": "Rome Is Burning",
       "url": "https://open.spotify.com/track/1n7MNtaIkGYXiOCOSqKuD3"
+    },
+    {
+      "added_at": "2026-04-17 04:01:12",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/2wUoe5FrQIOGxdta7BY56D"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 129920,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/7n8tTtvLjKYHZUVPclLUIl"
     },
     {
       "added_at": "2026-04-17 04:01:12",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2026-04-17 04:01:12",
       "album": {
+        "name": "Red Card",
+        "url": "https://open.spotify.com/album/5ItAWdxHl4m7IJHfXpGBuk"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        }
+      ],
+      "duration_ms": 135937,
+      "name": "Red Card",
+      "url": "https://open.spotify.com/track/2s31yShX3eYxF85njyerZZ"
+    },
+    {
+      "added_at": "2026-04-17 04:01:12",
+      "album": {
         "name": "All The Money In The World",
         "url": "https://open.spotify.com/album/3cMXPuYSRoIhNCGLGDVAz0"
       },
@@ -1951,22 +1967,6 @@
     {
       "added_at": "2026-04-17 04:01:12",
       "album": {
-        "name": "Lick It",
-        "url": "https://open.spotify.com/album/4mT1c8jk8dlzROX7mSMvWD"
-      },
-      "artists": [
-        {
-          "name": "WILL K",
-          "url": "https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn"
-        }
-      ],
-      "duration_ms": 204695,
-      "name": "Lick It",
-      "url": "https://open.spotify.com/track/0JoaUkfqUIonNgxBq8wvwD"
-    },
-    {
-      "added_at": "2026-04-17 04:01:12",
-      "album": {
         "name": "The Pit",
         "url": "https://open.spotify.com/album/7C8pJDrZvHs3c36NtzAT1X"
       },
@@ -1987,18 +1987,18 @@
     {
       "added_at": "2026-04-17 04:01:12",
       "album": {
-        "name": "Red Card",
-        "url": "https://open.spotify.com/album/5ItAWdxHl4m7IJHfXpGBuk"
+        "name": "Lick It",
+        "url": "https://open.spotify.com/album/4mT1c8jk8dlzROX7mSMvWD"
       },
       "artists": [
         {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+          "name": "WILL K",
+          "url": "https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn"
         }
       ],
-      "duration_ms": 135937,
-      "name": "Red Card",
-      "url": "https://open.spotify.com/track/2s31yShX3eYxF85njyerZZ"
+      "duration_ms": 204695,
+      "name": "Lick It",
+      "url": "https://open.spotify.com/track/0JoaUkfqUIonNgxBq8wvwD"
     },
     {
       "added_at": "2026-04-17 04:01:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,914 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,920 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 40 | [CBMASS is my friend](https://open.spotify.com/track/6ZByy9slBDE3OSP0Kyih6g) | [CB MASS](https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL) | [Matics](https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx) | 3:45 |
 | 41 | [Movement 4](https://open.spotify.com/track/6kXS78PdKrHwpzTnAtKp13) | [Bizzy](https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41) | [Bizzionary](https://open.spotify.com/album/6iEkOP0oNzQz7yiJNHhoOM) | 7:57 |
 | 42 | [거울 \- New Version](https://open.spotify.com/track/067JwMslZJtxRP7NdriuM5) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi), [조아](https://open.spotify.com/artist/0cUT9wKaL6ZUt8n5EQF3oI) | [Best of Best](https://open.spotify.com/album/2AVhUS6I0EUAVdJlwV7iZ7) | 4:16 |
-| 43 | [You Don’t Know](https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA) | [DOK2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Thunderground](https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw) | 3:43 |
-| 44 | [Overclass \- 2021 Remaster](https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 3:43 |
+| 43 | [Overclass \- 2021 Remaster](https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 3:43 |
+| 44 | [You Don’t Know](https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA) | [DOK2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Thunderground](https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw) | 3:43 |
 | 45 | [Give It to H.E.R\. \(feat\. Leo Kekoa, Dok2 & Simon Dominic\)](https://open.spotify.com/track/1O9ISbgA6X0XnasYehWRtS) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Leo Kekoa, Dok2 & Simon Dominic](https://open.spotify.com/artist/2qkxAjAlyP3hsxOIpXdXjK) | [The Real Me](https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE) | 4:14 |
 | 46 | [Hip Hop For Respect \(feat\. Verbal Jint, Gaknakunae, TBNY, BILL STAX, Simon Dominic, Garion, Dok2, Sean2Slow, MC Sungchun\)](https://open.spotify.com/track/4arB8dvHCT1jlEPfYrAU2N) | [Infinite Flow \(I.F\)](https://open.spotify.com/artist/3AoHwyG0A5hOD0EywkjsSc), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Gaknakunae](https://open.spotify.com/artist/2yQejP6mTFmyGyWpLldS6u), [TBNY](https://open.spotify.com/artist/6j2rVUUU99PvJcHYN4G02j), [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD), [Simon Dominic](https://open.spotify.com/artist/2CCOH71cTG7cd0YmfPf2H8), [Garion](https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp), [DOK2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Sean2Slow](https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU), [MC Sungchun](https://open.spotify.com/artist/3hNMJ3sJifoHCYBjGLtTRl) | [More Than Music](https://open.spotify.com/album/0LmooMzTUYiGpGAdesf5Vq) | 5:33 |
 | 47 | [선문답](https://open.spotify.com/track/5I4uO1Ff81E0ltkPbQl5Uw) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Yangdonggeun a.k.a Madman](https://open.spotify.com/album/305r3dhQ3aVqsfwHCf531R) | 4:03 |

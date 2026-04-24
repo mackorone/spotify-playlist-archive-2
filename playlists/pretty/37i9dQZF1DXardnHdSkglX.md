@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,718 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,792 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 | 97 | [The Look of Love](https://open.spotify.com/track/4QFWdoVXNASnP4bVOA3K5j) | [Lisa Östergren](https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q) | [The Look of Love](https://open.spotify.com/album/30vVCXct2rsJHLGVVUW9pT) | 2:21 |
 | 98 | [You´re The Sunshine Of My Life \(Bossa Version\)](https://open.spotify.com/track/7srEWzdPORw4bj3ymCvm4h) | [Dudu Braga](https://open.spotify.com/artist/3ZwqQ2XrPNiYRomLoN94n7) | [Relaxing Bossa Lounge](https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw) | 3:36 |
 | 99 | [Something Just Like This \- Bossa Mix](https://open.spotify.com/track/1oMTC7wvZCf7zeUpodLlQf) | [Purple Sparks](https://open.spotify.com/artist/0haWJk8mUdWGoSmbR08pns) | [Something Just Like this \(Bossa Mix\)](https://open.spotify.com/album/4i2kgflT74xkWmiHSbEOZk) | 3:35 |
-| 100 | [The Middle](https://open.spotify.com/track/5Rzymd9Rm6MnQOxqlnaOcK) | [Gabriela Silva](https://open.spotify.com/artist/4yjMLpy60dZKf0teUyRNmb) | [The Middle](https://open.spotify.com/album/4uG552NeMwBnvwyDqqR7ix) | 3:48 |
+| 100 | [The Middle](https://open.spotify.com/track/5Rzymd9Rm6MnQOxqlnaOcK) | [Gabriela Silva](https://open.spotify.com/artist/7aG9ko9uh8oQK0py75VWDr) | [The Middle](https://open.spotify.com/album/4uG552NeMwBnvwyDqqR7ix) | 3:48 |
 
 Snapshot ID: `AAAAALGg+GORX01yYrPxe/daoeV6IVn3`

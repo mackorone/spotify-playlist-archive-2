@@ -4,7 +4,7 @@
 
 > 🌱🌸🌾🌼
 
-337 songs - 17 hr 33 min
+339 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [forever on my mind](https://open.spotify.com/track/7Mgl85DExMmXZQK63YoyBJ) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [forever on my mind](https://open.spotify.com/album/3PTXIacmqhTYHyO4txzx7p) | 2:53 | 2024-10-24 | 2025-01-10 |
 | [Forever Young \(feat\. May\)](https://open.spotify.com/track/1Kf59Rq6P8zUVjH8PbLBot) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF), [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Bedre dager](https://open.spotify.com/album/5HHcnHBqXIUVRMnhPiBco4) | 3:21 | 2026-02-05 | 2026-03-06 |
 | [Free My Mind](https://open.spotify.com/track/1C5zAJjoB3cdMBu7Xse28r) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Free My Mind](https://open.spotify.com/album/5uRciE7HeFREekWm21S2qC) | 3:02 | 2025-09-18 | 2025-11-29 |
+| [Fri](https://open.spotify.com/track/5yuzzYiP9DZru2es7nTolF) | [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [FRI](https://open.spotify.com/album/2BKqivqcfDmcWWQGSxI9LA) | 3:05 | 2026-04-23 |  |
 | [Frøken Oslo V](https://open.spotify.com/track/78LCLrKFF22QHmNExXnlWr) | [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Frøken Oslo V](https://open.spotify.com/album/4qm9mJcERZOQJvIJ0UN6c1) | 2:07 | 2024-06-27 | 2024-10-25 |
 | [Fy faen du e deili](https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tobias Sten](https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH) | 3:35 | 2025-06-12 | 2025-11-14 |
 | [Fy Faen Så Deilig](https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [Fy Faen Så Deilig](https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0) | 2:36 | 2024-06-27 | 2024-10-25 |
@@ -132,7 +133,7 @@
 | [Herper alt](https://open.spotify.com/track/1e2n5a34HwZWBLqW0xPyMT) | [Kaja Gunnufsen](https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa) | [Herper alt](https://open.spotify.com/album/0nRhjJaw8O3VzHpu1RQ2tb) | 2:40 | 2026-03-05 |  |
 | [Hjemme](https://open.spotify.com/track/6FPKJnJMghrBQUQuSY5nnQ) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [Hjemme](https://open.spotify.com/album/5EVeTeHyY3IvVXYmz29rZr) | 3:56 | 2025-06-26 |  |
 | [HJERTET MITT ER HELT OK](https://open.spotify.com/track/4vpI1R5pmRKAS9pbMDb8Vg) | [Hkeem](https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH), [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [HJERTET MITT ER HELT OK](https://open.spotify.com/album/52qTuKqpnm3PtCtMRFa3i4) | 2:24 | 2024-06-27 | 2025-05-03 |
-| [Hold dæ fast](https://open.spotify.com/track/62z5Gj6uZQshGKaUFqV3dN) | [Paul Fjell](https://open.spotify.com/artist/0i1LGaibJwWVJlJKNXftS7) | [Hold dæ fast](https://open.spotify.com/album/22CpNiSjlxIcFTcUS2Mqbr) | 3:18 | 2026-02-26 |  |
+| [Hold dæ fast](https://open.spotify.com/track/62z5Gj6uZQshGKaUFqV3dN) | [Paul Fjell](https://open.spotify.com/artist/0i1LGaibJwWVJlJKNXftS7) | [Hold dæ fast](https://open.spotify.com/album/22CpNiSjlxIcFTcUS2Mqbr) | 3:18 | 2026-02-26 | 2026-04-24 |
 | [Hold ut](https://open.spotify.com/track/6b1I45GG5aaC5Wa25dRr5A) | [Bendik](https://open.spotify.com/artist/4krYRNHjKcETSEY2Ghf9Mo) | [Hold ut](https://open.spotify.com/album/27V8eibnHQyrU0FcJr33Bq) | 2:59 | 2025-05-08 | 2025-06-23 |
 | [Hollow](https://open.spotify.com/track/3VT6jFPE7PwrvTh94UtDoN) | [Sivert Høyem](https://open.spotify.com/artist/2xMBy2SwN1OMgSSCKmX3IG) | [Hollow](https://open.spotify.com/album/2uKlK7Oq7GYrk74HJhU4oQ) | 3:56 | 2024-12-19 | 2025-01-10 |
 | [Hollywood Hills](https://open.spotify.com/track/5jeRRvj8X1DWDrlCG23EI2) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Hollywood Hills](https://open.spotify.com/album/6NJMVeFDvI0egKuknUyRWH) | 2:37 | 2024-10-24 | 2025-10-05 |
@@ -219,6 +220,7 @@
 | [Månen](https://open.spotify.com/track/6dwd8GYLeFP1sfDWUKD9ol) | [Erika Norwich](https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK) | [Månen](https://open.spotify.com/album/2fRdT0ii5ti8TCPQ0072uD) | 2:57 | 2025-12-11 | 2026-01-28 |
 | [Nakna](https://open.spotify.com/track/4MCoAGbqnf0qyUmtiQTao1) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd), [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Nakna](https://open.spotify.com/album/4RMs8zDTlJw0myt5YEYb4B) | 3:12 | 2024-06-27 | 2025-03-26 |
 | [Nanana](https://open.spotify.com/track/5x1Hh2KQ8qXYxxSHC6ATAG) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Nanana](https://open.spotify.com/album/6eWJBjH4era5edw2r5XmlL) | 2:26 | 2025-02-06 | 2025-04-18 |
+| [Neste Stasjon](https://open.spotify.com/track/77PiddX78Zwf0RThBBmytY) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Neste Stasjon](https://open.spotify.com/album/2pgbVdXdl68canQtk1rLRw) | 2:34 | 2026-04-23 |  |
 | [never did](https://open.spotify.com/track/3ZSI6HlscZTVy86ToS8HPW) | [tiri](https://open.spotify.com/artist/2eFsG8AlPcPY6FJ7mGTluZ) | [Can't Get the Hang of It](https://open.spotify.com/album/46ilRFIfzaCTSALgNnsr9E) | 2:52 | 2026-03-19 | 2026-04-08 |
 | [Never have I ever](https://open.spotify.com/track/0IcgxTESfN2LKZZC7l6Mw4) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Never have I ever](https://open.spotify.com/album/4PjHE0kHGMXGfzqHUnevHg) | 3:27 | 2026-01-29 |  |
 | [Never Let Me Go](https://open.spotify.com/track/4eU6WBjr2RXhTJSmJ0r22c) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Never Let Me Go](https://open.spotify.com/album/5K91iGlsM7YxI6JIojSZzm) | 3:36 | 2024-06-27 | 2024-10-31 |
@@ -251,7 +253,7 @@
 | [På besøk](https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Vendepunkt](https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI) | 3:17 | 2024-10-10 | 2026-01-15 |
 | [Real To Me](https://open.spotify.com/track/5mThLXcmnbDgoudfO6HBNm) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Real To Me](https://open.spotify.com/album/5JhzejBKo3M8xRbKsdOjqD) | 3:10 | 2025-11-06 | 2026-03-06 |
 | [Rekk opp hånda](https://open.spotify.com/track/0cnyiYBUwlP64AtIN5FrRI) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Rekk opp hånda](https://open.spotify.com/album/60FlhXTrzZb0lNYC5KqYbN) | 3:00 | 2024-06-27 | 2024-12-12 |
-| [Remember Me](https://open.spotify.com/track/0niEhSYvPA0C5Z0WlgDX8E) | [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [It Will Never Be The Right Time](https://open.spotify.com/album/0qLmrn1RXhXBJ88xdeVKBY) | 3:49 | 2026-03-19 |  |
+| [Remember Me](https://open.spotify.com/track/0niEhSYvPA0C5Z0WlgDX8E) | [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [It Will Never Be The Right Time](https://open.spotify.com/album/0qLmrn1RXhXBJ88xdeVKBY) | 3:49 | 2026-03-19 | 2026-04-24 |
 | [Revolve](https://open.spotify.com/track/4c4SBx9iL4E8qqxOCNBHLP) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Revolve](https://open.spotify.com/album/5gl0GYihYgfulQPOEZMKEH) | 3:29 | 2024-10-10 | 2026-01-04 |
 | [Ringdans](https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Ringdans](https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A) | 3:32 | 2024-12-19 | 2025-09-09 |
 | [rodeo](https://open.spotify.com/track/34nIcQQXvkjjfTM7GEshdr) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [rodeo](https://open.spotify.com/album/66AqHmHsVMuo6ZwDYfUM1e) | 2:46 | 2025-08-28 | 2025-09-19 |

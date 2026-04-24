@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "Baba God, run am \ud83d\ude4f. \nCover:  Asake",
+  "description": "Baba God, run am \ud83d\ude4f. \nCover:  Bella Shmurda",
   "name": "afro adura ",
   "tracks": [
     {
@@ -311,6 +311,28 @@
     },
     {
       "album": {
+        "name": "ARA",
+        "url": "https://open.spotify.com/album/7fluxAs5HSUVmyChevBl2W"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Ara (600M)",
+      "url": "https://open.spotify.com/track/7oHYgZelWF1QOTCtR75rnj"
+    },
+    {
+      "album": {
         "name": "MAFFIAN",
         "url": "https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi"
       },
@@ -344,6 +366,24 @@
       "duration_ms": 187590,
       "name": "Ashimolowo",
       "url": "https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv"
+    },
+    {
+      "album": {
+        "name": "Attack",
+        "url": "https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Attack",
+      "url": "https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ"
     },
     {
       "album": {
@@ -1856,7 +1896,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 198620,
       "name": "Of Course",
       "url": "https://open.spotify.com/track/07g4rBsJAXS0GXvc0IR6kk"
@@ -1932,7 +1972,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 152544,
       "name": "Panic",
       "url": "https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N"

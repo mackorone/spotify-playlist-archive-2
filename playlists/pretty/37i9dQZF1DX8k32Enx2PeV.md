@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,302 likes - 110 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,312 likes - 110 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 45 | [Invierno En Caracas](https://open.spotify.com/track/31ObtUfkfMdKlE2QkwM5im) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Invierno en Caracas](https://open.spotify.com/album/6OQsyfvIYHid8J8OIRAN1W) | 3:08 |
 | 46 | [Chamba](https://open.spotify.com/track/2luUwuzmpbFo1FqPGfqUce) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [Chamba](https://open.spotify.com/album/4DiXDXU9SExY3wnRPqwxCg) | 3:22 |
 | 47 | [Te Va A Doler](https://open.spotify.com/track/26WlY5PqG24m80ImVzp4HM) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [Reggi El Autentico](https://open.spotify.com/artist/3wguwjQfKIni7Ih0FIHTq6), [Kénsel Tell Them](https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5) | [Te Va A Doler](https://open.spotify.com/album/1sPYDfOaNxgzqyTDKzQabM) | 3:03 |
-| 48 | [No me opongo](https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [R\-A\-B\-I\-A](https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33) | 3:05 |
-| 49 | [Conexión Total](https://open.spotify.com/track/73AxVFai5zsrY8JBgF1pIA) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Deja](https://open.spotify.com/album/5znLnc0oe8wA9On08nv8gd) | 3:35 |
+| 48 | [Conexión Total](https://open.spotify.com/track/73AxVFai5zsrY8JBgF1pIA) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Deja](https://open.spotify.com/album/5znLnc0oe8wA9On08nv8gd) | 3:35 |
+| 49 | [No me opongo](https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [R\-A\-B\-I\-A](https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33) | 3:05 |
 | 50 | [Búho](https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM) | [Mr\. Bleat](https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb) | [Búho](https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX) | 5:00 |
 | 51 | [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 |
 | 52 | [Saltas Por Mí](https://open.spotify.com/track/4sDMrCZp5s9U2RcQkc5KY2) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII) | [Saltas Por Mí](https://open.spotify.com/album/2btt6J3HVUYtncmPqrueGW) | 2:40 |

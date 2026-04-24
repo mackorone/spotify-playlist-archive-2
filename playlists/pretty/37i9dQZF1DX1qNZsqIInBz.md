@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 
 > smooth drifting only
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,511 likes - 100 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,682 likes - 100 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Montagem Lunar Diamante \- Slowed](https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr) | [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee), [WXCHSXN](https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O), [MC SILLVEER](https://open.spotify.com/artist/6wAILWxcHaJocdPbGLPW3o) | [Montagem Lunar Diamante](https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN) | 3:05 |
 | 2 | [AKAI \- Slowed](https://open.spotify.com/track/4Td5Zqi4XzkMdesiBJRZTh) | [UdieNnx](https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC), [HXVSAGE](https://open.spotify.com/artist/6iokCqd4ghi6IqTEJKT12q), [Mc Luizinho](https://open.spotify.com/artist/5kFKWKOi67GISDFKogGbRP) | [UDIXSTATE](https://open.spotify.com/album/7GODu9f4tFoKxU1oPtPVa7) | 1:36 |
 | 3 | [AURA](https://open.spotify.com/track/2TNv2GxMpIO8AyPiD7TLxj) | [Ogryzek](https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm) | [AURA](https://open.spotify.com/album/06a7H7nusNMvM7yL8m3fy1) | 1:55 |
-| 4 | [COSMO](https://open.spotify.com/track/2pfzrnyx8Rt5Zv7hN9NYud) | [nashi](https://open.spotify.com/artist/0KOqhZfks5Ga03qPrSFu0I) | [COSMO](https://open.spotify.com/album/18kvjBvrw3ayJYWrXsCsWf) | 2:05 |
+| 4 | [COSMO](https://open.spotify.com/track/2pfzrnyx8Rt5Zv7hN9NYud) | [nashi](https://open.spotify.com/artist/0KOqhZfks5Ga03qPrSFu0I), [MC Fluup](https://open.spotify.com/artist/5HgsNSjZkPGDfSfAzKUhlm) | [COSMO](https://open.spotify.com/album/18kvjBvrw3ayJYWrXsCsWf) | 2:05 |
 | 5 | [VISION](https://open.spotify.com/track/4gkFITdBI8imDCSrukDT6p) | [UdieNnx](https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC), [HXVSAGE](https://open.spotify.com/artist/6iokCqd4ghi6IqTEJKT12q), [Duduzinho](https://open.spotify.com/artist/5lneW4gwuALhTWZSDdz1rY) | [UDISTRUCT](https://open.spotify.com/album/50i96D7O8CCFwS0VAiuC5o) | 1:49 |
 | 6 | [INSONAMIA \(Slowed\)](https://open.spotify.com/track/1yMaQ0gJ9XPkJh3t6aMrgN) | [Ronald Figo](https://open.spotify.com/artist/5AOzeroMxe112GJoFnCcyG) | [INSONAMIA \(Slowed\)](https://open.spotify.com/album/0mCml60WkuwX5963VhM83t) | 3:23 |
 | 7 | [archangel \- Slowed](https://open.spotify.com/track/0ZYOD9MHcg51Z0ZJ4axhb5) | [DJ Anemia](https://open.spotify.com/artist/6vvNcm1On2wFwZNXB63a7B), [crier](https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl), [sixnite](https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk) | [archangel \(Slowed\)](https://open.spotify.com/album/5iARmzSSFYnDi5tnu5TCCN) | 3:06 |

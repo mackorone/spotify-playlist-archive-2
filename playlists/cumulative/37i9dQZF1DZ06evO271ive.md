@@ -4,7 +4,7 @@
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-129 songs - 6 hr 0 min
+130 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Sexyy Red For President](https://open.spotify.com/track/7p1A4L2XrwfswpkWOxCzaw) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:20 | 2023-12-13 | 2024-04-09 |
 | [Sexyy Walk](https://open.spotify.com/track/4EN1lLc3xt2hOazpC4LabP) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:33 | 2023-11-10 | 2023-12-14 |
 | [SHAKE SUMN \(with Sexyy Red\) \- REMIX](https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SHAKE SUMN \(with Sexyy Red\) \[REMIX\]](https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS) | 2:04 | 2023-11-10 |  |
-| [Shake Yo Dreads](https://open.spotify.com/track/3CPu3e1CVKItYWdoCgSXzm) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:57 | 2024-04-09 |  |
+| [Shake Yo Dreads](https://open.spotify.com/track/3CPu3e1CVKItYWdoCgSXzm) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:57 | 2024-04-09 | 2026-04-24 |
 | [Shake Yo Dreads](https://open.spotify.com/track/5n2V631qeQri7jI6Kvbm4j) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Shake Yo Dreads](https://open.spotify.com/album/2xQmFSVYsk6qOvFCwVXqgh) | 2:57 | 2023-11-10 | 2024-04-09 |
 | [She's Back](https://open.spotify.com/track/3PR8q1B3b6hsJlwphfgCZK) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:42 | 2024-05-26 |  |
 | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T) | 3:36 | 2023-11-10 | 2025-06-01 |
@@ -126,6 +126,7 @@
 | [Throw That Mf](https://open.spotify.com/track/7sWUDFmphDkMZI5GboXscb) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Throw That Mf](https://open.spotify.com/album/0cHwkVrWatS1hHHfDzewJ2) | 2:07 | 2023-11-10 | 2024-05-26 |
 | [Throwin' It](https://open.spotify.com/track/1EC19TqO0rHpqwMHJrzOgk) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Throwin' It](https://open.spotify.com/album/4YR9YTU8b8PmQqDDkh9HKN) | 2:29 | 2023-11-10 | 2024-06-03 |
 | [Tired \(feat\. Rob49\)](https://open.spotify.com/track/2ayYyt1AKc5eFIVbzieG6y) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Tired \(feat\. Rob49\)](https://open.spotify.com/album/7DX362BKElkVx87g476jeA) | 2:40 | 2023-11-10 | 2024-06-01 |
+| [Top Notch](https://open.spotify.com/track/2IjJlpakhh6HgZ9avNbkl3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Yo Favorite Trappa Favorite Rappa](https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk) | 1:57 | 2026-04-24 |  |
 | [TTG \(Go\)](https://open.spotify.com/track/4hKmlJ6sSCvDgQm50pTW05) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:20 | 2024-05-27 | 2024-08-13 |
 | [U Kno What To Do \(UKWTD\)](https://open.spotify.com/track/1ZrzdArzDJj71mCOFa2qmV) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [U Kno What To Do \(UKWTD\)](https://open.spotify.com/album/2MBtDCT8SgVFw5VHU8lWX7) | 2:38 | 2024-09-08 |  |
 | [U My Everything](https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 3:45 | 2024-05-26 |  |

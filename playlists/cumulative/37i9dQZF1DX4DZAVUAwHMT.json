@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: thistle.",
+  "description": "The UK's biggest rock playlist. Cover: Foo Fighters",
   "name": "The Rock List",
   "tracks": [
     {
@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 143891,
       "name": "ASSIGNMENT",
       "url": "https://open.spotify.com/track/039v69B31n5qbJ0mkCCqZM"
@@ -2326,7 +2326,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 215196,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP"
@@ -4821,6 +4821,24 @@
     },
     {
       "album": {
+        "name": "Cryogen",
+        "url": "https://open.spotify.com/album/4uW6onE6t6FUwLV9yr2E9f"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301825,
+      "name": "Cryogen",
+      "url": "https://open.spotify.com/track/5ITICFtTKxzcbR43ehRvsI"
+    },
+    {
+      "album": {
         "name": "Cult of Celebrity",
         "url": "https://open.spotify.com/album/0WI41FEVRdFwjcVdrTSBrm"
       },
@@ -5045,6 +5063,24 @@
     },
     {
       "album": {
+        "name": "Dance In The USA",
+        "url": "https://open.spotify.com/album/5s1MU2zNr7wTsNBpGRgbXg"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179280,
+      "name": "Dance In The USA",
+      "url": "https://open.spotify.com/track/6OgQCTbeqEI2rjmmkfkFOV"
+    },
+    {
+      "album": {
         "name": "DANCE WITH ME",
         "url": "https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh"
       },
@@ -5132,7 +5168,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 279373,
       "name": "Dark Days Are Coming",
       "url": "https://open.spotify.com/track/5Hpgp8un1ef1VMdmI6perX"
@@ -7205,6 +7241,24 @@
     },
     {
       "album": {
+        "name": "Finish Line",
+        "url": "https://open.spotify.com/album/3hSn5sirwtHG66b3pcnOTB"
+      },
+      "artists": [
+        {
+          "name": "CQ Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303174,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/1iGDydzF1qxVqW7N1JdQP0"
+    },
+    {
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/1KCWO9riv5TIiv1V2jUYQk"
       },
@@ -7220,6 +7274,28 @@
       "duration_ms": 201333,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4t4veTYSVvPHSWSlLMAvRC"
+    },
+    {
+      "album": {
+        "name": "FIX UR FACE (with Fred Durst)",
+        "url": "https://open.spotify.com/album/5V2DOzyXq1zx7yRgebZZIv"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Fred Durst",
+          "url": "https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199068,
+      "name": "FIX UR FACE (with Fred Durst)",
+      "url": "https://open.spotify.com/track/0zcU626JV9kV61raS5sGu4"
     },
     {
       "album": {
@@ -7418,6 +7494,24 @@
       "duration_ms": 140666,
       "name": "forever",
       "url": "https://open.spotify.com/track/4uKPYoDkFqrCbN9vCseMoH"
+    },
+    {
+      "album": {
+        "name": "Forever/Always",
+        "url": "https://open.spotify.com/album/1mNFIIEOv5zRkhlBfSYqSt"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222957,
+      "name": "Forever/Always",
+      "url": "https://open.spotify.com/track/1MoRo6wa0WcfjlOcutsnui"
     },
     {
       "album": {
@@ -7908,7 +8002,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 149558,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/3rNePDz5uV8FGnpuuq63RO"
@@ -9044,6 +9138,24 @@
       "duration_ms": 236951,
       "name": "Haze",
       "url": "https://open.spotify.com/track/7pmOVNGWu1lRBWVpYTcKH1"
+    },
+    {
+      "album": {
+        "name": "Head Alight",
+        "url": "https://open.spotify.com/album/1LaBF87xj1NLlsxVDh7vY7"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206780,
+      "name": "Head Alight",
+      "url": "https://open.spotify.com/track/7rZ9v828KtoWTNjHpMwLBb"
     },
     {
       "album": {
@@ -10388,7 +10500,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 132597,
       "name": "I Used To Go To This Bar",
       "url": "https://open.spotify.com/track/1Uwq1uMR3GEY3KTLzZrRN2"
@@ -11542,10 +11654,28 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 229334,
       "name": "Kick",
       "url": "https://open.spotify.com/track/14wokvToKGCEFqAhxMUjFp"
+    },
+    {
+      "album": {
+        "name": "KIDS THESE DAYS",
+        "url": "https://open.spotify.com/album/6gMPmjCfM0RlymPPWCmvqf"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8RY",
+          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190441,
+      "name": "KIDS THESE DAYS",
+      "url": "https://open.spotify.com/track/27EYzBA2Gsd5TsvKyLJQBu"
     },
     {
       "album": {
@@ -12468,7 +12598,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 237240,
       "name": "Looking For Fun",
       "url": "https://open.spotify.com/track/35YExK6fDrmHnO5OYJjYpi"
@@ -12934,7 +13064,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 166840,
       "name": "Magnificent Seven",
       "url": "https://open.spotify.com/track/0RUvT91RC8FCmueE2xTYxj"
@@ -13226,7 +13356,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 189473,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/1pTxyXWghFl2utQ5vEeit0"
@@ -15180,7 +15310,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 154293,
       "name": "Of All People",
       "url": "https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc"
@@ -16016,7 +16146,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 193922,
       "name": "Pacifico",
       "url": "https://open.spotify.com/track/7xoKUJyENctTQh64oBTpMY"
@@ -16312,6 +16442,24 @@
       "duration_ms": 239640,
       "name": "Perfect Soul",
       "url": "https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN"
+    },
+    {
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/3UZ05jaikHRAGlsGwOsn4w"
+      },
+      "artists": [
+        {
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197791,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/5luOK6MRqAI0ZWT7ibbXvl"
     },
     {
       "album": {
@@ -16881,6 +17029,24 @@
     },
     {
       "album": {
+        "name": "pretty ugly",
+        "url": "https://open.spotify.com/album/4in7sttZpgJwqxNXhVdKVb"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183386,
+      "name": "pretty ugly",
+      "url": "https://open.spotify.com/track/6DcwcXgTaxY4lHeHJVT14c"
+    },
+    {
+      "album": {
         "name": "Problems",
         "url": "https://open.spotify.com/album/7q8APfy5c1dRc78xh2gQVg"
       },
@@ -17314,7 +17480,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 163315,
       "name": "Rain",
       "url": "https://open.spotify.com/track/0TkAD1a7uXJkt7HqDbp6YT"
@@ -17614,6 +17780,24 @@
       "duration_ms": 202992,
       "name": "Resolution/Revolution",
       "url": "https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5"
+    },
+    {
+      "album": {
+        "name": "Restless in Bloom",
+        "url": "https://open.spotify.com/album/1YynRD3szUoJPmQbH9fbAx"
+      },
+      "artists": [
+        {
+          "name": "Tooth",
+          "url": "https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264481,
+      "name": "Restless in Bloom",
+      "url": "https://open.spotify.com/track/4mS6vO5MKQnrv2iObSlU6y"
     },
     {
       "album": {
@@ -19642,7 +19826,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 129938,
       "name": "St. Agnes",
       "url": "https://open.spotify.com/track/1iXcHOr7lFCEsGgQvrr2G5"
@@ -20681,6 +20865,24 @@
     },
     {
       "album": {
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164800,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
+    },
+    {
+      "album": {
         "name": "TEETHSUCKER (YEA3x)",
         "url": "https://open.spotify.com/album/3pS5fcf4omfdgFP14wvmqJ"
       },
@@ -21600,7 +21802,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 171450,
       "name": "The Way I Feel",
       "url": "https://open.spotify.com/track/0CtDXpf55FygKZeWkuX5Px"
@@ -22609,6 +22811,24 @@
     },
     {
       "album": {
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/1sI5zExyPAZDiL4GYrKeGC"
+      },
+      "artists": [
+        {
+          "name": "Bleech 9:3",
+          "url": "https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209760,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/6d1Zurp6nbAdUztdtu3XEF"
+    },
+    {
+      "album": {
         "name": "Uno II",
         "url": "https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg"
       },
@@ -23060,6 +23280,28 @@
       "duration_ms": 166844,
       "name": "Waiting On A Twist Of Fate",
       "url": "https://open.spotify.com/track/5PCMU8scAoT4sz4Fn2Umua"
+    },
+    {
+      "album": {
+        "name": "Waiting To Know",
+        "url": "https://open.spotify.com/album/09UUsrLflP1LU7GxcI1zr7"
+      },
+      "artists": [
+        {
+          "name": "Death Lens",
+          "url": "https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8"
+        },
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176455,
+      "name": "Waiting To Know",
+      "url": "https://open.spotify.com/track/3COerH8qeZERHv69TypVPT"
     },
     {
       "album": {
@@ -24038,6 +24280,24 @@
       "duration_ms": 249946,
       "name": "Will You Marry Me",
       "url": "https://open.spotify.com/track/4rFkzKag2uHEYQ4FFUABM9"
+    },
+    {
+      "album": {
+        "name": "Your Favorite Toy",
+        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217373,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/1N8fvq9XcxxpRdGydlSqC1"
     },
     {
       "album": {

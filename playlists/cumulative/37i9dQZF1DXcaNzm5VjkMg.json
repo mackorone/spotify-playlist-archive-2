@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "1000X",
+        "url": "https://open.spotify.com/album/1praH9t2dBOUP9IcLgjpVc"
+      },
+      "artists": [
+        {
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252249,
+      "name": "1000X",
+      "url": "https://open.spotify.com/track/6xrP29JvvYP5ftteZ7nubf"
+    },
+    {
+      "album": {
         "name": "Peace, Love And Respect",
         "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
       },
@@ -1521,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "Jantung Aman Kan?",
+        "url": "https://open.spotify.com/album/73Y7wzyF59nD3mObgkIcxu"
+      },
+      "artists": [
+        {
+          "name": "Fani Rahmansyah",
+          "url": "https://open.spotify.com/artist/2yfoFECTnaFjyHrHNjJm7x"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227451,
+      "name": "Jantung Aman Kan?",
+      "url": "https://open.spotify.com/track/0MhLGM30nBiaRdpAdpxHi0"
+    },
+    {
+      "album": {
         "name": "Jatuh Cinta (Keluarga Cemara 2 Original Soundtrack)",
         "url": "https://open.spotify.com/album/2ZCF3Bul4PckNko2bqSfRO"
       },
@@ -2402,6 +2438,24 @@
       "duration_ms": 274539,
       "name": "Panah Asmara",
       "url": "https://open.spotify.com/track/2n5MdJ8bdz4QYOTdeZaBd5"
+    },
+    {
+      "album": {
+        "name": "Pencuri Malam",
+        "url": "https://open.spotify.com/album/2mXqT7R18luoyawLOuyluD"
+      },
+      "artists": [
+        {
+          "name": "Samuel Cipta",
+          "url": "https://open.spotify.com/artist/7zJZ3KU0oAP3yxu0HzYnOc"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "Pencuri Malam",
+      "url": "https://open.spotify.com/track/7qQNus2U0jlt1JHvKyraYZ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 410280,
+  "num_followers": 410190,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "D\u00edas De Fuego",
-        "url": "https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "D\u00edas De Fuego",
-      "url": "https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Un D\u00eda en el Mundo",
         "url": "https://open.spotify.com/album/7ozOQXEfKskKDTtDpmTnuh"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 303693,
       "name": "Copenhague",
       "url": "https://open.spotify.com/track/4bZEZhCq2kqUxnMacXVl5x"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "D\u00edas De Fuego",
+        "url": "https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "D\u00edas De Fuego",
+      "url": "https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Ca\u00f3tica Belleza",
-        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 222573,
-      "name": "Baila",
-      "url": "https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Pol\u00edtico",
         "url": "https://open.spotify.com/album/7vkBraQBpz7zEjbtjUR9Zt"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 226742,
       "name": "M\u00e9xico",
       "url": "https://open.spotify.com/track/7p4VHeroqCBJJL0RbCf8yx"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 222573,
+      "name": "Baila",
+      "url": "https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Te debo una canci\u00f3n",
-        "url": "https://open.spotify.com/album/4qsaZeogZgYAFJGbMi0qhz"
-      },
-      "artists": [
-        {
-          "name": "Shinova",
-          "url": "https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO"
-        }
-      ],
-      "duration_ms": 211491,
-      "name": "Te debo una canci\u00f3n",
-      "url": "https://open.spotify.com/track/3OZ0BqpkRr5NiZSDzlLLV1"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Pi\u00f1ata",
         "url": "https://open.spotify.com/album/4NNsCRL4LuWbspwc4F0RRu"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 214733,
       "name": "El Micr\u00f3fono",
       "url": "https://open.spotify.com/track/2hfGuADMk6YBgciFuJnv5s"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Te debo una canci\u00f3n",
+        "url": "https://open.spotify.com/album/4qsaZeogZgYAFJGbMi0qhz"
+      },
+      "artists": [
+        {
+          "name": "Shinova",
+          "url": "https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO"
+        }
+      ],
+      "duration_ms": 211491,
+      "name": "Te debo una canci\u00f3n",
+      "url": "https://open.spotify.com/track/3OZ0BqpkRr5NiZSDzlLLV1"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Por su Atenci\u00f3n, Gracias",
+        "url": "https://open.spotify.com/album/25mt05Oju0dvQc0M0DXCvS"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        }
+      ],
+      "duration_ms": 217173,
+      "name": "Reina Japonesa",
+      "url": "https://open.spotify.com/track/0E47pBZ2vm2NkEDKONAIuo"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Canciones Sin Ropa",
         "url": "https://open.spotify.com/album/0L9cqmT0jwp00pj6r49Ttj"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 213487,
       "name": "Enamorada",
       "url": "https://open.spotify.com/track/5crUoUnVrtjHaHHhDQuf8z"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Por su Atenci\u00f3n, Gracias",
-        "url": "https://open.spotify.com/album/25mt05Oju0dvQc0M0DXCvS"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        }
-      ],
-      "duration_ms": 217173,
-      "name": "Reina Japonesa",
-      "url": "https://open.spotify.com/track/0E47pBZ2vm2NkEDKONAIuo"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Mojigata",
-        "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 127723,
-      "name": "Sushi en Lata",
-      "url": "https://open.spotify.com/track/0ay8DzY6bSJ7Ok85oR34Mn"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Norte",
         "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "O Marineros",
-        "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
+        "name": "Mojigata",
+        "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
       },
       "artists": [
         {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
         }
       ],
-      "duration_ms": 222242,
-      "name": "El Lado Oscuro de Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4i2Yg55oDJdPLZtg01nwRi"
+      "duration_ms": 127723,
+      "name": "Sushi en Lata",
+      "url": "https://open.spotify.com/track/0ay8DzY6bSJ7Ok85oR34Mn"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1423,6 +1407,22 @@
       "duration_ms": 134888,
       "name": "Todas las Flores de Enero",
       "url": "https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "O Marineros",
+        "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
+      },
+      "artists": [
+        {
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+        }
+      ],
+      "duration_ms": 222242,
+      "name": "El Lado Oscuro de Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4i2Yg55oDJdPLZtg01nwRi"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "O Marineros",
-        "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
-      },
-      "artists": [
-        {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
-        }
-      ],
-      "duration_ms": 266925,
-      "name": "Espero",
-      "url": "https://open.spotify.com/track/05fzteOLEheflpw2UEb6LY"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Run... The Sun Is Burning All Your Hopes",
         "url": "https://open.spotify.com/album/1c7DoDLM0uRXXOGOE2wjes"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Teoria Espacial",
-        "url": "https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi"
+        "name": "O Marineros",
+        "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
       },
       "artists": [
         {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
         }
       ],
-      "duration_ms": 230833,
-      "name": "Teoria Espacial",
-      "url": "https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym"
+      "duration_ms": 266925,
+      "name": "Espero",
+      "url": "https://open.spotify.com/track/05fzteOLEheflpw2UEb6LY"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1543,6 +1527,22 @@
       "duration_ms": 205346,
       "name": "No Longer Fun",
       "url": "https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Teoria Espacial",
+        "url": "https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 230833,
+      "name": "Teoria Espacial",
+      "url": "https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym"
     },
     {
       "added_at": "2024-06-14 04:59:00",

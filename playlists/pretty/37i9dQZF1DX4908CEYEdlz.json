@@ -1,6 +1,6 @@
 {
   "description": "Lan\u00e7amentos de rock que voc\u00ea precisa conhecer, AUMENTA O VOLUME! Foto: Sepultura",
-  "num_followers": 926190,
+  "num_followers": 926074,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-04-06 20:07:59",
       "album": {
+        "name": "Bad Friend",
+        "url": "https://open.spotify.com/album/3cyXgBvwkhf1rIO5B23H8m"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 211363,
+      "name": "Bad Friend",
+      "url": "https://open.spotify.com/track/304JMEIUEQw4t5MKsY0Ad6"
+    },
+    {
+      "added_at": "2026-04-06 20:07:59",
+      "album": {
         "name": "Enter Sandman",
         "url": "https://open.spotify.com/album/1DDaQfNe1xrphcpezscTf7"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 322393,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/494G3Mjgv0bLEQ3DGzG9t4"
-    },
-    {
-      "added_at": "2026-04-06 20:07:59",
-      "album": {
-        "name": "Bad Friend",
-        "url": "https://open.spotify.com/album/3cyXgBvwkhf1rIO5B23H8m"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 211363,
-      "name": "Bad Friend",
-      "url": "https://open.spotify.com/track/304JMEIUEQw4t5MKsY0Ad6"
     },
     {
       "added_at": "2026-04-06 20:07:59",
@@ -1003,8 +1003,8 @@
     {
       "added_at": "2026-04-06 20:07:59",
       "album": {
-        "name": "One Eyed Bastard",
-        "url": "https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd"
+        "name": "Saviors (\u00e9dition de luxe)",
+        "url": "https://open.spotify.com/album/6j1TdmSs8ROkx7pDBwSJrO"
       },
       "artists": [
         {
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 172899,
-      "name": "One Eyed Bastard",
-      "url": "https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok"
+      "duration_ms": 123464,
+      "name": "Fuck Off",
+      "url": "https://open.spotify.com/track/52L8TAHmnao8FWoMiOj9hZ"
     },
     {
       "added_at": "2026-04-06 20:07:59",
@@ -1083,8 +1083,8 @@
     {
       "added_at": "2026-04-06 20:07:59",
       "album": {
-        "name": "Saviors (\u00e9dition de luxe)",
-        "url": "https://open.spotify.com/album/6j1TdmSs8ROkx7pDBwSJrO"
+        "name": "One Eyed Bastard",
+        "url": "https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd"
       },
       "artists": [
         {
@@ -1092,9 +1092,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 123464,
-      "name": "Fuck Off",
-      "url": "https://open.spotify.com/track/52L8TAHmnao8FWoMiOj9hZ"
+      "duration_ms": 172899,
+      "name": "One Eyed Bastard",
+      "url": "https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok"
     },
     {
       "added_at": "2026-04-06 20:07:59",

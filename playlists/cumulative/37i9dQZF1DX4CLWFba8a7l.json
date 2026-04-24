@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/2u4dlmnEW2hdq7E2yv4V4p"
+      },
+      "artists": [
+        {
+          "name": "Human Movement",
+          "url": "https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225865,
+      "name": "10 HRS",
+      "url": "https://open.spotify.com/track/5gPo2F7Swj0goIYl7i6ASQ"
+    },
+    {
+      "album": {
         "name": "A Love For Strangers",
         "url": "https://open.spotify.com/album/2TU0EWGL5Xj54K2254HToc"
       },
@@ -1674,6 +1692,24 @@
       "duration_ms": 210909,
       "name": "Changing",
       "url": "https://open.spotify.com/track/1L9ihx86nr6vzWjB7PDSeR"
+    },
+    {
+      "album": {
+        "name": "Chase Your Tail",
+        "url": "https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193915,
+      "name": "Chase Your Tail",
+      "url": "https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF"
     },
     {
       "album": {
@@ -3412,7 +3448,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 260000,
       "name": "Garden (Bang Goes the Drum)",
       "url": "https://open.spotify.com/track/3XBIRvFmD3Az0karsCXVr3"
@@ -4632,7 +4668,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 214304,
       "name": "I Know!",
       "url": "https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t"
@@ -4708,7 +4744,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 263887,
       "name": "I Want Ya",
       "url": "https://open.spotify.com/track/46YPT8AJc1OTx8RxD0jJyQ"
@@ -5543,6 +5579,24 @@
     },
     {
       "album": {
+        "name": "LIFE KEEPS GOING",
+        "url": "https://open.spotify.com/album/25ck4PVSVUW7h54ZHGX34m"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219204,
+      "name": "LIFE KEEPS GOING",
+      "url": "https://open.spotify.com/track/7bUGV0iRkAlZ4qeGix6O9H"
+    },
+    {
+      "album": {
         "name": "Like A Girl Does",
         "url": "https://open.spotify.com/album/5IktkodoE8Wr2heQRXyBfW"
       },
@@ -6220,7 +6274,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 170526,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx"
@@ -7538,7 +7592,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 179520,
       "name": "Perfect Pain",
       "url": "https://open.spotify.com/track/58cpluWUBHARQKwRnnfisW"
@@ -8324,6 +8378,24 @@
       "duration_ms": 244106,
       "name": "Sage",
       "url": "https://open.spotify.com/track/3BrHd9alz5uL6KwI2A5fmG"
+    },
+    {
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb"
+      },
+      "artists": [
+        {
+          "name": "Swapmeet",
+          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204202,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL"
     },
     {
       "album": {
@@ -9263,6 +9335,24 @@
     },
     {
       "album": {
+        "name": "Stuntn",
+        "url": "https://open.spotify.com/album/2A8KqE7vvH5f8lIjWfvYny"
+      },
+      "artists": [
+        {
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151212,
+      "name": "Stuntn",
+      "url": "https://open.spotify.com/track/7FpBSmSsI3AHNTVptxEv1K"
+    },
+    {
+      "album": {
         "name": "Sugarcat",
         "url": "https://open.spotify.com/album/1Z8ssIYHiBTNsCTwUCpOHP"
       },
@@ -9802,7 +9892,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 239173,
       "name": "Terrestrials",
       "url": "https://open.spotify.com/track/0Rz8hTX3IDEzJnsraQSYJG"
@@ -11424,6 +11514,24 @@
       "duration_ms": 157853,
       "name": "XTC",
       "url": "https://open.spotify.com/track/5LPJ9swDvm6EKh8cW52I4A"
+    },
+    {
+      "album": {
+        "name": "Catch and Release",
+        "url": "https://open.spotify.com/album/3wawyCj5SI0X8CLZkVorKW"
+      },
+      "artists": [
+        {
+          "name": "Hannah Brewer",
+          "url": "https://open.spotify.com/artist/0MYPoaaBk0uz7ZrS2VHFWk"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171111,
+      "name": "Yes, Man",
+      "url": "https://open.spotify.com/track/1DyR1urVZMo5DeGdCI9dqS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,977 likes - 50 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,980 likes - 50 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 17 | [Jesus We Love You](https://open.spotify.com/track/1OMwaR5rsyfT2wB48Dm5aK) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz) | [We Will Not Be Shaken](https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux) | 6:55 |
 | 18 | [Peace](https://open.spotify.com/track/6Jk2ueMBIuTZU3aNKjUTGR) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Holy Water](https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf) | 4:57 |
 | 19 | [Touch of Heaven / Alabaster Heart \(Live\)](https://open.spotify.com/track/5YlH7CeaNAoRKsaSzTXojM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Touch of Heaven / Alabaster Heart \(Live\)](https://open.spotify.com/album/1ugdTIc8PRDPPUBtv7ECzd) | 10:30 |
-| 20 | [Sing Of Your Love](https://open.spotify.com/track/6DLdrBq8O4phg4ZG9Fzcdx) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Garett & Kate](https://open.spotify.com/artist/0XGtfaGeQDd2jje9soKMPM) | [Sing Of Your Love](https://open.spotify.com/album/01T3olM6t6V6Ey188YPFO9) | 4:46 |
-| 21 | [Only Jesus \(Instrumental\)](https://open.spotify.com/track/02i6EK1A76R7wX8DBIlF4o) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years](https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft) | 4:52 |
+| 20 | [Only Jesus \(Instrumental\)](https://open.spotify.com/track/02i6EK1A76R7wX8DBIlF4o) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years](https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft) | 4:52 |
+| 21 | [Sing Of Your Love](https://open.spotify.com/track/6DLdrBq8O4phg4ZG9Fzcdx) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Garett & Kate](https://open.spotify.com/artist/0XGtfaGeQDd2jje9soKMPM) | [Sing Of Your Love](https://open.spotify.com/album/01T3olM6t6V6Ey188YPFO9) | 4:46 |
 | 22 | [Reign Above It All \(Live\)](https://open.spotify.com/track/6tV85GbrePXSeMFenLmUDa) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9) | 5:47 |
 | 23 | [God I Look to You](https://open.spotify.com/track/4WfjgumRvSWeQNpHZZAI2u) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Be Lifted High](https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9) | 7:32 |
 | 24 | [In Over My Head \(Crash Over Me\) \[Live\]](https://open.spotify.com/track/13myOXIfOSldZ7GVz7LqQl) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [We Will Not Be Shaken](https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux) | 4:58 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 46 | [Jesus Have It All \(Spontaneous\) \- Live](https://open.spotify.com/track/4t2nKUddnq1ST2Fi6dZdJy) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [We Must Respond \(Live\)](https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH) | 8:07 |
 | 47 | [Holy Hands \- Live](https://open.spotify.com/track/1CRnlPeWgRyep3kfulcaVp) | [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Holy Hands \(Live\)](https://open.spotify.com/album/0TlNPCiRxU36TmSo9ovB6P) | 7:14 |
 | 48 | [Ten Fe Corazón \(En Vivo\)](https://open.spotify.com/track/2lDF0n9AO9SKTt8NkSxHkj) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8), [Raquel Vega](https://open.spotify.com/artist/3CWGrUvzZCBCxLI1bc9RgM) | [Bethel Music en Español \(Live\)](https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn) | 5:12 |
-| 49 | [Elohim \- Live From Church](https://open.spotify.com/track/7crAY5NVt4JB7oDEy7rEI6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Aubree Archibeck](https://open.spotify.com/artist/604TmIQowwYB89ZXdgnc8t) | [Elohim \(Live\)](https://open.spotify.com/album/2tZSh33eyL3zDIbC73nVdJ) | 7:27 |
+| 49 | [This Is a Move](https://open.spotify.com/track/3y3NMcB0IuMKrLbqwFKU8N) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Genesis](https://open.spotify.com/album/6i1NqxIGiZ5PmI4LAXDF4H) | 4:59 |
 | 50 | [Another Like You \- Live](https://open.spotify.com/track/6cJ2Kbbbe5AT6M1SjZefqw) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [We Must Respond \(Live\)](https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH) | 10:16 |
 
-Snapshot ID: `aeVsgAAAAADqpoPjhjO40so1dBkJI836`
+Snapshot ID: `aegPgAAAAADCrpWc/0mhojwndSVjYaXe`

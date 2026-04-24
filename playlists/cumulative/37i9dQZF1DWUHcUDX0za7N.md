@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Blaqbonez
 
-742 songs - 1 day 10 hr 56 min
+743 songs - 1 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [3AM](https://open.spotify.com/track/6OHJx893brg4fNrgDOEPfH) | [May D](https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5), [Belu Vuitton](https://open.spotify.com/artist/0aMcHs9KqS3BM83hwR9Kk9), [Blakkboi](https://open.spotify.com/artist/1irKyDpZ6RCRkVlCm6Sn73) | [3AM](https://open.spotify.com/album/1IqjNIMWcVuDQnvwPxAdtC) | 2:52 | 2025-05-30 | 2025-06-28 |
 | [4 U](https://open.spotify.com/track/51MR8SzQI8jD0JGvw8J8mI) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [4 U](https://open.spotify.com/album/4x7FRzw7GiTHGaoQP1xU98) | 2:48 | 2025-10-17 | 2026-02-15 |
 | [42](https://open.spotify.com/track/2Kui4WxXbqrxVO7q0H1XBA) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Make E No Cause Fight 3](https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56) | 2:51 | 2023-11-17 | 2024-02-28 |
+| [420](https://open.spotify.com/track/6q8SsMtXvytOsP5CLDpxVU) | [Plutomania](https://open.spotify.com/artist/018olXJmRtbs1Q0VTkspcH), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [420](https://open.spotify.com/album/2mUIIraqsiVonjQHS3R7JC) | 2:43 | 2026-04-24 |  |
 | [4GET IT](https://open.spotify.com/track/6hogdxOHNGVWVAnVBWOCz1) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [4GET IT](https://open.spotify.com/album/13V4cvGODBdA92iQT4DTXY) | 2:56 | 2025-05-09 | 2025-05-30 |
 | [500 DEGREES](https://open.spotify.com/track/3vtiHUVpP0d4CJmaqNxjfM) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [500 DEGREES](https://open.spotify.com/album/12DMWu6jgeqicdxuJcb75A) | 2:10 | 2022-11-15 | 2022-11-25 |
 | [6am in Accra \- Freestyle](https://open.spotify.com/track/0foXd0m4rkk6yudp5bWf9m) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [6am in Accra \(Freestyle\)](https://open.spotify.com/album/2PvPnsNQfY1iq5FtJI9Owq) | 1:53 | 2023-10-13 | 2023-11-05 |
@@ -464,7 +465,7 @@
 | [NO CAP](https://open.spotify.com/track/2QH6xWPxHauaum2WJK6m6O) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw), [MOJO AF](https://open.spotify.com/artist/0O0V4TRjySfTG6HugFLY92) | [RELOAD X NO CAP](https://open.spotify.com/album/107Z1g0gYhZWLi2NFfhhVv) | 2:58 | 2023-05-19 | 2023-05-27 |
 | [No Gree For Anybody](https://open.spotify.com/track/3n4RST5zDQxlWEO1RimMVe) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won), [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [No Gree For Anybody](https://open.spotify.com/album/2XSghG0PK3xIgovbRiOq1N) | 2:57 | 2024-01-19 | 2024-01-26 |
 | [No Joke](https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [No Joke](https://open.spotify.com/album/6N9L2cPBhx54BGLIQBZzvj) | 2:42 | 2023-11-03 | 2024-04-29 |
-| [No Less](https://open.spotify.com/track/32wGNSA3W124qObuGWW2i6) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [The Feast](https://open.spotify.com/album/0mfWmn7nIuZuJHVsaZ8An9) | 3:10 | 2025-05-30 |  |
+| [No Less](https://open.spotify.com/track/32wGNSA3W124qObuGWW2i6) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [The Feast](https://open.spotify.com/album/0mfWmn7nIuZuJHVsaZ8An9) | 3:10 | 2025-05-30 | 2026-04-24 |
 | [No Love In Lagos](https://open.spotify.com/track/3S612TExInLWnYOsQ9Ti9y) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Nsikak David](https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy) | [No Love In Lagos](https://open.spotify.com/album/3qUxHQMBLeBWsBTkPnhXb3) | 3:09 | 2024-07-05 | 2024-11-17 |
 | [No Option](https://open.spotify.com/track/3mxm7OJDadZK1HYN9ZP8gf) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Gbagada Express Vol 2: Moving Mad](https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p) | 2:32 | 2023-06-02 | 2023-06-17 |
 | [No Peace \(Violence\)](https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Bad Boy Etiquette 101](https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA) | 2:35 | 2022-12-08 | 2023-06-17 |

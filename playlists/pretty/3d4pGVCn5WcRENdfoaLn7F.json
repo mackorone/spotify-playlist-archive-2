@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 638,
+  "num_followers": 639,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADVuryhZNnSHoNthgOlU0jA43lLCDg",
+  "snapshot_id": "AAADVzg4l62cwk3gxXzguRq+OK7N/Hz3",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1475,6 +1475,22 @@
       "duration_ms": 159000,
       "name": "Si todo sale bien",
       "url": "https://open.spotify.com/track/1Gn9ykSzLlZvaCa1pukJnj"
+    },
+    {
+      "added_at": "2026-04-23 15:03:24",
+      "album": {
+        "name": "Nervous Systems",
+        "url": "https://open.spotify.com/album/4w1MzmNEvgMWzLApXX3eml"
+      },
+      "artists": [
+        {
+          "name": "House of Light",
+          "url": "https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/7pCxiJ03tUx5u1ZkaUIsT0"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

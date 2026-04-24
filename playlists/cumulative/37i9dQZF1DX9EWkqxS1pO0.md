@@ -159,7 +159,7 @@
 | [Göz Bebeklerim](https://open.spotify.com/track/7tajCR4ppglEkZ0n2QHSAq) | [TurkodiRoma](https://open.spotify.com/artist/5ms13kENAqc7SAFQvPQz7L) | [Göz Bebeklerim](https://open.spotify.com/album/2VmXk4Lm0INsUzfQFBVgqU) | 2:58 | 2025-03-06 |  |
 | [Göz Bebeğim](https://open.spotify.com/track/70GZmG1OXwNGhVy2vxinAT) | [İdil Ateş](https://open.spotify.com/artist/69pbpuvOtuRw0isQSCBFyR) | [Göz Bebeğim](https://open.spotify.com/album/0ym9RZLlFkIuZFMrmY8tp7) | 3:17 | 2026-02-12 | 2026-04-14 |
 | [Gücüm Yok](https://open.spotify.com/track/0yXU2mHp4li95DiqWX2K9X) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Gücüm Yok](https://open.spotify.com/album/1ywWSw85x5lEAPb8mi49HM) | 2:48 | 2024-10-10 | 2024-12-20 |
-| [Gün Batarken](https://open.spotify.com/track/0vEbYeEU4jLKM0OFkLXKi1) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Gün Batarken](https://open.spotify.com/album/7ztxgxUW6llbRujo4udfEF) | 2:53 | 2024-10-10 | 2026-03-30 |
+| [Gün Batarken](https://open.spotify.com/track/0vEbYeEU4jLKM0OFkLXKi1) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Gün Batarken](https://open.spotify.com/album/7ztxgxUW6llbRujo4udfEF) | 2:53 | 2024-10-10 |  |
 | [Günebakan](https://open.spotify.com/track/0kve63qUZXfXLRTOm6H3YI) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Günebakan](https://open.spotify.com/album/6FspaOaszVqDuYgkRtjiAw) | 3:14 | 2024-06-20 | 2026-01-30 |
 | [Güzel Olmaz Mı?](https://open.spotify.com/track/4aiPmZeZmXgDGaFzm51PNW) | [Kaset](https://open.spotify.com/artist/3D272RoVaG7oXSBIOgqgnJ) | [Güzel Olmaz Mı?](https://open.spotify.com/album/2HVpwKFTAkn2fSCfS2biRi) | 2:56 | 2024-08-29 | 2026-01-15 |
 | [habibi](https://open.spotify.com/track/3xnVE6SAxqsADMKQUoB8wl) | [ÖzgürCan](https://open.spotify.com/artist/6m1bPVZMf5Hsi8cgmEs1yy) | [habibi](https://open.spotify.com/album/4Jrz7mxwQ9guFQ38PJHgvi) | 3:00 | 2026-02-19 | 2026-03-28 |
@@ -396,7 +396,7 @@
 | [Şahmeran](https://open.spotify.com/track/2jP9NYOlGnShU3oG7scr3a) | [Melis Yelman](https://open.spotify.com/artist/5293MFbMbXTTvCZP8hezDv) | [Şahmeran](https://open.spotify.com/album/3cI2gQFC9RAh1xM45auIbP) | 2:40 | 2025-01-09 | 2025-03-16 |
 | [Şarap İstiyorum](https://open.spotify.com/track/1IOO7cJ9uMKJPFK0a55aKy) | [Aziz Piyade](https://open.spotify.com/artist/207ge5nlUkftKtQYe76iW4) | [Şarap İstiyorum](https://open.spotify.com/album/2xOT9oRk6LfeexjAO8Bd1v) | 4:56 | 2025-01-09 | 2025-01-16 |
 | [Şehrin Işıkları](https://open.spotify.com/track/76A20QpQga3jqEgnMnUlwT) | [Kaan Malkoç](https://open.spotify.com/artist/7aDwkYjLH6yvueCOmZNYtZ) | [Şehrin Işıkları](https://open.spotify.com/album/1cWPJgAD816wwOmSNpEGIr) | 3:33 | 2025-01-30 | 2025-02-14 |
-| [ŞEYTAN](https://open.spotify.com/track/5p0JxVuXeY99jNjdzuD7CH) | [Elif Kozan](https://open.spotify.com/artist/78Yd6q4H8kIaTRGItJaFee) | [ŞEYTAN](https://open.spotify.com/album/2YBtroigjinFr6CHYs5nKD) | 3:05 | 2026-04-03 |  |
+| [ŞEYTAN](https://open.spotify.com/track/5p0JxVuXeY99jNjdzuD7CH) | [Elif Kozan](https://open.spotify.com/artist/78Yd6q4H8kIaTRGItJaFee) | [ŞEYTAN](https://open.spotify.com/album/2YBtroigjinFr6CHYs5nKD) | 3:05 | 2026-04-03 | 2026-04-24 |
 | [Şikayet](https://open.spotify.com/track/6sbbry86W7EUiXGs7haJnS) | [artun](https://open.spotify.com/artist/3VNxudvX3h9TzgzaCW3WEO) | [Şikayet](https://open.spotify.com/album/2vkTeCqOTbZ0BMJlVpuiyV) | 4:18 | 2024-08-01 | 2024-09-06 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

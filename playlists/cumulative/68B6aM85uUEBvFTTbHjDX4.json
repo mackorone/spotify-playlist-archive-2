@@ -835,6 +835,24 @@
     },
     {
       "album": {
+        "name": "Inhale / Exhale",
+        "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257280,
+      "name": "Fire / Desire",
+      "url": "https://open.spotify.com/track/4CMN7EA8k4J3MJ0y8mLCvQ"
+    },
+    {
+      "album": {
         "name": "For a Feeling (feat. RHODES) [Layton Giordani Remix]",
         "url": "https://open.spotify.com/album/0yHBN7E9bGRdOqHVP0dKhQ"
       },

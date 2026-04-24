@@ -428,7 +428,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 167899,
       "name": "bully",
       "url": "https://open.spotify.com/track/6NUT1Vezwr0surmLC6cvk5"
@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 229099,
       "name": "Midnight Blue",
       "url": "https://open.spotify.com/track/60qwBKu1GnzJmfbISwAl3T"
@@ -1658,6 +1658,28 @@
       "duration_ms": 167000,
       "name": "Only Love is Real",
       "url": "https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m"
+    },
+    {
+      "album": {
+        "name": "SHIXA",
+        "url": "https://open.spotify.com/album/66Tn0GUWkMOlEG104m6sRk"
+      },
+      "artists": [
+        {
+          "name": "Egozi",
+          "url": "https://open.spotify.com/artist/06FcDNksGd8xlNOgN8f04x"
+        },
+        {
+          "name": "Tapash",
+          "url": "https://open.spotify.com/artist/5lFPOMWvkv7TcxZ5sN7jLU"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182980,
+      "name": "OOPSSSSssss",
+      "url": "https://open.spotify.com/track/07EhaErIT8xwDHxIq1LyR4"
     },
     {
       "album": {
@@ -4096,6 +4118,28 @@
       "duration_ms": 294750,
       "name": "\u05d4\u05e4\u05d7\u05d3 \u05de\u05d4\u05e8\u05d9\u05e7",
       "url": "https://open.spotify.com/track/4zr0ZkygtS6I8IMOdEonz6"
+    },
+    {
+      "album": {
+        "name": "\u05d4\u05e8\u05e6\u05dc \u05d0\u05de\u05e8",
+        "url": "https://open.spotify.com/album/1KXJAMxb5PXgs2DcvJInEE"
+      },
+      "artists": [
+        {
+          "name": "Ronit Rolland",
+          "url": "https://open.spotify.com/artist/4Nyvx3VELvjdYreQCqak4n"
+        },
+        {
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187038,
+      "name": "\u05d4\u05e8\u05e6\u05dc \u05d0\u05de\u05e8",
+      "url": "https://open.spotify.com/track/2PCdrBR6FfyPZSDXXaKPOm"
     },
     {
       "album": {

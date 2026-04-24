@@ -1,6 +1,6 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 274846,
+  "num_followers": 274949,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,38 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
+        "name": "Whispering Ln",
+        "url": "https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951"
+      },
+      "artists": [
+        {
+          "name": "Volodja Brodsky",
+          "url": "https://open.spotify.com/artist/3j7qT7OdjOJBQTkJS5jwtd"
+        }
+      ],
+      "duration_ms": 234828,
+      "name": "Serenade of Secrets",
+      "url": "https://open.spotify.com/track/15eZJIz2RatCBhAWXVhVoS"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
+        "name": "good morning, harrison, it\u2019s time to go",
+        "url": "https://open.spotify.com/album/6P8N6YlPkuWW90TBba6kx2"
+      },
+      "artists": [
+        {
+          "name": "Okkyung Lee",
+          "url": "https://open.spotify.com/artist/0fVfcPcdnLfSeH0ZAAEeCQ"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "good morning, harrison, it\u2019s time to go",
+      "url": "https://open.spotify.com/track/3AXlDaG17OiCG4YvbotG7c"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
         "name": "Attract",
         "url": "https://open.spotify.com/album/5J2fHqmcPXesKLfGDFtekA"
       },
@@ -203,38 +235,6 @@
       "duration_ms": 174855,
       "name": "Integration",
       "url": "https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
-        "name": "good morning, harrison, it\u2019s time to go",
-        "url": "https://open.spotify.com/album/6P8N6YlPkuWW90TBba6kx2"
-      },
-      "artists": [
-        {
-          "name": "Okkyung Lee",
-          "url": "https://open.spotify.com/artist/0fVfcPcdnLfSeH0ZAAEeCQ"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "good morning, harrison, it\u2019s time to go",
-      "url": "https://open.spotify.com/track/3AXlDaG17OiCG4YvbotG7c"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
-        "name": "Whispering Ln",
-        "url": "https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951"
-      },
-      "artists": [
-        {
-          "name": "Volodja Brodsky",
-          "url": "https://open.spotify.com/artist/3j7qT7OdjOJBQTkJS5jwtd"
-        }
-      ],
-      "duration_ms": 234828,
-      "name": "Serenade of Secrets",
-      "url": "https://open.spotify.com/track/15eZJIz2RatCBhAWXVhVoS"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
+        "name": "From Shores To Mountains",
+        "url": "https://open.spotify.com/album/1jtEPkPm0pQeNBJ6ygS8OO"
+      },
+      "artists": [
+        {
+          "name": "The 2 Inversions",
+          "url": "https://open.spotify.com/artist/2v62tGVulAui917rxpcmVJ"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "From Shores To Mountains",
+      "url": "https://open.spotify.com/track/5kOy4Ap0QsN24vCL9H3KTt"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
         "name": "R\u00e9gate",
         "url": "https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 284415,
       "name": "R\u00e9gate",
       "url": "https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
-        "name": "From Shores To Mountains",
-        "url": "https://open.spotify.com/album/1jtEPkPm0pQeNBJ6ygS8OO"
-      },
-      "artists": [
-        {
-          "name": "The 2 Inversions",
-          "url": "https://open.spotify.com/artist/2v62tGVulAui917rxpcmVJ"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "From Shores To Mountains",
-      "url": "https://open.spotify.com/track/5kOy4Ap0QsN24vCL9H3KTt"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
-        "name": "Golden Pear",
-        "url": "https://open.spotify.com/album/3QakGzV0tV7NxaapmxmUF1"
-      },
-      "artists": [
-        {
-          "name": "Omni Gardens",
-          "url": "https://open.spotify.com/artist/1LCXHSFYrRpIN27BkeU4Pc"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Wild Marionberries",
-      "url": "https://open.spotify.com/track/5LZd5SC4qHF5NJMvw1VrZn"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
         "name": "Elements",
         "url": "https://open.spotify.com/album/21ARxTWYYBim8u58eH9NRi"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 204580,
       "name": "Earth",
       "url": "https://open.spotify.com/track/6UFSJF8pGDYJelHoadqPEe"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
+        "name": "Golden Pear",
+        "url": "https://open.spotify.com/album/3QakGzV0tV7NxaapmxmUF1"
+      },
+      "artists": [
+        {
+          "name": "Omni Gardens",
+          "url": "https://open.spotify.com/artist/1LCXHSFYrRpIN27BkeU4Pc"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Wild Marionberries",
+      "url": "https://open.spotify.com/track/5LZd5SC4qHF5NJMvw1VrZn"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
-        "name": "Smoke Rings",
-        "url": "https://open.spotify.com/album/0C78B0ZoYWpfbNll4f8Wum"
-      },
-      "artists": [
-        {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
-        }
-      ],
-      "duration_ms": 486000,
-      "name": "Smoke Rings",
-      "url": "https://open.spotify.com/track/51Zmeoly6CMVFwqHps8068"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
         "name": "Eating 1+2",
         "url": "https://open.spotify.com/album/3ilPF0O3UM5BqZjc02cXVd"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 168986,
       "name": "Fore",
       "url": "https://open.spotify.com/track/6X74EHCnSKxtPmq3HFj4yt"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
+        "name": "Smoke Rings",
+        "url": "https://open.spotify.com/album/0C78B0ZoYWpfbNll4f8Wum"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        }
+      ],
+      "duration_ms": 486000,
+      "name": "Smoke Rings",
+      "url": "https://open.spotify.com/track/51Zmeoly6CMVFwqHps8068"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
-        "name": "Film Still / The Sea",
-        "url": "https://open.spotify.com/album/5hNCHDOKsp1go4MpfnQjaq"
-      },
-      "artists": [
-        {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
-        },
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Film Still / The Sea",
-      "url": "https://open.spotify.com/track/7pDwKh76SxyY1t8a1i0nE6"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
         "name": "Hornworm Metamorphosis",
         "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
       },
@@ -1147,6 +1127,26 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
+        "name": "Film Still / The Sea",
+        "url": "https://open.spotify.com/album/5hNCHDOKsp1go4MpfnQjaq"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        },
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Film Still / The Sea",
+      "url": "https://open.spotify.com/track/7pDwKh76SxyY1t8a1i0nE6"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
         "name": "Sea Of Colors",
         "url": "https://open.spotify.com/album/3aW96az8cTGpSCGBw0UsUI"
       },
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
-        "name": "Pantano Lontano",
-        "url": "https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE"
-      },
-      "artists": [
-        {
-          "name": "Nodes",
-          "url": "https://open.spotify.com/artist/7wr6W82k7PmCoyYgKKxmPv"
-        }
-      ],
-      "duration_ms": 341621,
-      "name": "Sin\u00fa",
-      "url": "https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/0Hy3urqOl5IArDdoycKlJP"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 211320,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/3WdPwK49grEfkW5cw9C3Lo"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
+        "name": "Pantano Lontano",
+        "url": "https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE"
+      },
+      "artists": [
+        {
+          "name": "Nodes",
+          "url": "https://open.spotify.com/artist/7wr6W82k7PmCoyYgKKxmPv"
+        }
+      ],
+      "duration_ms": 341621,
+      "name": "Sin\u00fa",
+      "url": "https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
+        "name": "Meditations for Woods & Winds",
+        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
+      },
+      "artists": [
+        {
+          "name": "Northern Lights",
+          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
+        }
+      ],
+      "duration_ms": 172563,
+      "name": "Nature Calling",
+      "url": "https://open.spotify.com/track/3Wj156M6wtJeAC0DeIuy9h"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
         "name": "Aves del Sur",
         "url": "https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 189811,
       "name": "Aves del Sur",
       "url": "https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
-        "name": "Meditations for Woods & Winds",
-        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
-      },
-      "artists": [
-        {
-          "name": "Northern Lights",
-          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
-        }
-      ],
-      "duration_ms": 172563,
-      "name": "Nature Calling",
-      "url": "https://open.spotify.com/track/3Wj156M6wtJeAC0DeIuy9h"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -1363,22 +1363,6 @@
       "duration_ms": 168210,
       "name": "Instrumental",
       "url": "https://open.spotify.com/track/3Hxes5uYUnKwT7CVAiL2Zm"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
-        "name": "Articulation",
-        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 219820,
-      "name": "Melodica",
-      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
+        "name": "Articulation",
+        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
         }
       ],
-      "duration_ms": 435070,
-      "name": "Parallel 9",
-      "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
+      "duration_ms": 219820,
+      "name": "Melodica",
+      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -1463,6 +1447,22 @@
       "duration_ms": 103360,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 435070,
+      "name": "Parallel 9",
+      "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
-        "name": "@0",
-        "url": "https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
-        }
-      ],
-      "duration_ms": 454576,
-      "name": "Another Dream",
-      "url": "https://open.spotify.com/track/6ZUTsxms7QYaG06q37VRZp"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
         "name": "Jardin au fou",
         "url": "https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 268400,
       "name": "Le jardin",
       "url": "https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
+        "name": "@0",
+        "url": "https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        }
+      ],
+      "duration_ms": 454576,
+      "name": "Another Dream",
+      "url": "https://open.spotify.com/track/6ZUTsxms7QYaG06q37VRZp"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
-        "name": "Nausea",
-        "url": "https://open.spotify.com/album/4nwc9ShqSEBItmnmiJkDtj"
-      },
-      "artists": [
-        {
-          "name": "drkmnd",
-          "url": "https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C"
-        }
-      ],
-      "duration_ms": 186634,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/0XQoOGwbUn930qZGji0885"
-    },
-    {
-      "added_at": "2026-03-31 07:20:55",
-      "album": {
         "name": "Maracuy\u00e1",
         "url": "https://open.spotify.com/album/782NCRRX6A2vjARVbugrIi"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 182000,
       "name": "Maracuy\u00e1",
       "url": "https://open.spotify.com/track/61y9vPnl8sdCcitbzjZBr3"
+    },
+    {
+      "added_at": "2026-03-31 07:20:55",
+      "album": {
+        "name": "Nausea",
+        "url": "https://open.spotify.com/album/4nwc9ShqSEBItmnmiJkDtj"
+      },
+      "artists": [
+        {
+          "name": "drkmnd",
+          "url": "https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C"
+        }
+      ],
+      "duration_ms": 186634,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/0XQoOGwbUn930qZGji0885"
     },
     {
       "added_at": "2026-03-31 07:20:55",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2026-03-31 07:20:55",
       "album": {
-        "name": "Northern Spirit",
-        "url": "https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL"
+        "name": "FOREVERANDEVERNOMORE",
+        "url": "https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W"
       },
       "artists": [
         {
-          "name": "Alyas",
-          "url": "https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Northern Spirit",
-      "url": "https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ"
+      "duration_ms": 501453,
+      "name": "Making Gardens Out of Silence",
+      "url": "https://open.spotify.com/track/1WqVCOMjOOWjamob3A2DsK"
     }
   ],
   "unique_name": "Music for Plants",

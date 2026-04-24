@@ -4,7 +4,7 @@
 
 > 
 
-166 songs - 13 hr 33 min
+167 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Falling For You](https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Falling For You](https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS) | 3:55 | 2024-10-15 |  |
 | [Feel It](https://open.spotify.com/track/2lLwkWjsdCZ7CcQu5f01LF) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [You and Me](https://open.spotify.com/album/0IGpJTaj2t5dsb7OVeKFBt) | 4:18 | 2023-11-17 |  |
 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 | 2023-06-02 |  |
+| [Fire / Desire](https://open.spotify.com/track/4CMN7EA8k4J3MJ0y8mLCvQ) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:17 | 2026-04-23 |  |
 | [For a Feeling \(feat\. RHODES\) \- Layton Giordani Remix](https://open.spotify.com/track/2ae8Zir5qhtyjzlnqtJzX4) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [For a Feeling \(feat\. RHODES\) \[Layton Giordani Remix\]](https://open.spotify.com/album/0yHBN7E9bGRdOqHVP0dKhQ) | 8:04 | 2021-04-13 |  |
 | [For Tha Shot](https://open.spotify.com/track/4nkxVUmWW2sNVzSAmElsrp) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [For Tha Shot](https://open.spotify.com/album/29xMerDSgERnGqXyU4VX0T) | 4:22 | 2023-08-28 |  |
 | [Forbidden Voices](https://open.spotify.com/track/21kPwrdkfoolgxjiRQeGiH) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Forbidden Voices](https://open.spotify.com/album/7o06LXJpKCaA1zUcw4hDF5) | 3:20 | 2025-05-14 |  |

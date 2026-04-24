@@ -1,29 +1,13 @@
 {
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 194629,
+  "num_followers": 194641,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAADcNahq2aQ1UikZn+iIpP2Q",
+  "snapshot_id": "aegPgAAAAAB2wK917/CzaO3LpTenraOg",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Monica",
-        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 182972,
-      "name": "Trade Places",
-      "url": "https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh"
-    },
     {
       "added_at": null,
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 182972,
+      "name": "Trade Places",
+      "url": "https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh"
     },
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monica",
-        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 177183,
-      "name": "All Of My Friends",
-      "url": "https://open.spotify.com/track/2LTRSoho4n35jXJBYZrpwp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 177183,
+      "name": "All Of My Friends",
+      "url": "https://open.spotify.com/track/2LTRSoho4n35jXJBYZrpwp"
     },
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monica",
-        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 196150,
-      "name": "Lonesome",
-      "url": "https://open.spotify.com/track/6XeAixOyTbaI2DMOtBfC37"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweet Action",
         "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 139741,
       "name": "WHATS POPPIN",
       "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 196150,
+      "name": "Lonesome",
+      "url": "https://open.spotify.com/track/6XeAixOyTbaI2DMOtBfC37"
     },
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monica",
-        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 195516,
-      "name": "Prague",
-      "url": "https://open.spotify.com/track/7hAxgUuJmeIAyGvObHQ5MJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jackman.",
         "url": "https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 241848,
       "name": "Blame On Me",
       "url": "https://open.spotify.com/track/76hpb4zuwh6bsBZCDfVYJy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 195516,
+      "name": "Prague",
+      "url": "https://open.spotify.com/track/7hAxgUuJmeIAyGvObHQ5MJ"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monica",
-        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 192582,
-      "name": "Living Alone",
-      "url": "https://open.spotify.com/track/6f4umZL8qLZeY2p9Qc3iGy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jackman.",
         "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 113292,
       "name": "They Don't Love It",
       "url": "https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 192582,
+      "name": "Living Alone",
+      "url": "https://open.spotify.com/track/6f4umZL8qLZeY2p9Qc3iGy"
     },
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monica",
-        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "James Savage",
-          "url": "https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5"
-        }
-      ],
-      "duration_ms": 54671,
-      "name": "Move Along",
-      "url": "https://open.spotify.com/track/6wex38tbUhTco21wXPSo2a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Us (feat. Doja Cat)",
         "url": "https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 172877,
       "name": "Just Us (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "James Savage",
+          "url": "https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5"
+        }
+      ],
+      "duration_ms": 54671,
+      "name": "Move Along",
+      "url": "https://open.spotify.com/track/6wex38tbUhTco21wXPSo2a"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 126217,
-      "name": "Like A Blade Of Grass",
-      "url": "https://open.spotify.com/track/22xea6Z2a8BbyVeCksSBX9"
+      "duration_ms": 138781,
+      "name": "I Got A Shot",
+      "url": "https://open.spotify.com/track/5hNsSrWcClSp0tg4Jdd4UY"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 138781,
-      "name": "I Got A Shot",
-      "url": "https://open.spotify.com/track/5hNsSrWcClSp0tg4Jdd4UY"
+      "duration_ms": 126217,
+      "name": "Like A Blade Of Grass",
+      "url": "https://open.spotify.com/track/22xea6Z2a8BbyVeCksSBX9"
     },
     {
       "added_at": null,

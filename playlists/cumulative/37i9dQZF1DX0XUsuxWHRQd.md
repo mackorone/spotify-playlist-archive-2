@@ -4,7 +4,7 @@
 
 > New music from Yeat, DJ Khaled and Don Toliver.
 
-2,732 songs - 5 day 21 hr 47 min
+2,733 songs - 5 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1247,6 +1247,7 @@
 | [KEHLANI](https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz) | 2:02 | 2024-06-21 | 2024-10-26 |
 | [Khabib](https://open.spotify.com/track/55wjPy1tWmBFyVVtYrGl9a) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Straight Back To It](https://open.spotify.com/album/3FWN0P76YHiCIKqK0Nw0Ji) | 3:18 | 2022-02-25 | 2022-03-05 |
 | [KICK OUT](https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 2:50 | 2025-07-13 | 2025-11-01 |
+| [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 | 2026-04-23 |  |
 | [Kickboxer](https://open.spotify.com/track/1DZVU51224wv6TtRvAzmaZ) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Kickboxer](https://open.spotify.com/album/7jX65RgVNEKN649tBrLEAn) | 3:50 | 2025-07-04 | 2025-07-19 |
 | [Kid That Kidd \(feat\. Future and Doe Boy\)](https://open.spotify.com/track/6EudabsFkMkxL9ZDVDqn0W) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Pegasus](https://open.spotify.com/album/2vMi9So8GxXiqaT2zJXbQG) | 3:37 | 2020-10-30 | 2020-11-06 |
 | [Killa Season](https://open.spotify.com/track/3dEPpPJ5Foe1g50GSKb84f) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Just Got A Lot On My Shoulders](https://open.spotify.com/album/6vxwZzJVRrQKuJK6AcXwbn) | 3:03 | 2024-11-16 | 2024-12-07 |

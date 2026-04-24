@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Rvssian, Rauw Alejandro & Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,358 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,369 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 42 | [Sirenita](https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Sirenita](https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ) | 2:49 |
 | 43 | [Mi Reina](https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Mi Reina](https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9) | 3:03 |
 | 44 | [Pretty GIRL](https://open.spotify.com/track/2lW7JV6gBtF6vApavqbzGG) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 1:56 |
-| 45 | [Botecito](https://open.spotify.com/track/5nhB1ijVzD2PKCkPAHP8Qy) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Botecito](https://open.spotify.com/album/7HHY5Rr3nTYhQrmXBt1uTH) | 2:36 |
-| 46 | [1+1=1](https://open.spotify.com/track/3aJCdoXJpMXaGOMttPeR6R) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [1+1=1](https://open.spotify.com/album/1FWB8Xe1840KMmDWKsfS7b) | 2:43 |
+| 45 | [1+1=1](https://open.spotify.com/track/3aJCdoXJpMXaGOMttPeR6R) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [1+1=1](https://open.spotify.com/album/1FWB8Xe1840KMmDWKsfS7b) | 2:43 |
+| 46 | [Botecito](https://open.spotify.com/track/5nhB1ijVzD2PKCkPAHP8Qy) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Botecito](https://open.spotify.com/album/7HHY5Rr3nTYhQrmXBt1uTH) | 2:36 |
 | 47 | [A POCA LUZ](https://open.spotify.com/track/5QXYkpzNspqQ1PsgWRfu86) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [A POCA LUZ](https://open.spotify.com/album/13escHm15J7Hg5BQPsqSX1) | 3:14 |
 | 48 | [Eva Longoria](https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:19 |
 | 49 | [El Lugar Más Feliz Del Mundo](https://open.spotify.com/track/2mMB3bgO0f3gDRyM1PbwPS) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [El Lugar Más Feliz Del Mundo](https://open.spotify.com/album/4rET9WXD1nROQJvW4u2alP) | 3:13 |

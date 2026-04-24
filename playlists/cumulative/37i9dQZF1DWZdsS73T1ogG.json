@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Rowma",
+  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: GeezyDee",
   "name": "el nuevo urbano",
   "tracks": [
     {
@@ -9567,6 +9567,36 @@
     },
     {
       "album": {
+        "name": "COBRONA REMIX",
+        "url": "https://open.spotify.com/album/0K81v43EITD6fa2bWqC1is"
+      },
+      "artists": [
+        {
+          "name": "CARABIN3",
+          "url": "https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Los Money Makers",
+          "url": "https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx"
+        },
+        {
+          "name": "SVNTI",
+          "url": "https://open.spotify.com/artist/16dsBR4zAkt54kTENN56bN"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211468,
+      "name": "COBRONA REMIX",
+      "url": "https://open.spotify.com/track/7dFRzhfVgfVUAGUAMslmdi"
+    },
+    {
+      "album": {
         "name": "Cochinadas",
         "url": "https://open.spotify.com/album/2PZl0xl2fz8y8SQyKk8A3P"
       },
@@ -12016,6 +12046,28 @@
       "duration_ms": 170624,
       "name": "De Chamaquito",
       "url": "https://open.spotify.com/track/3Ftr6NITDE2yTPCpT5A1Nr"
+    },
+    {
+      "album": {
+        "name": "Ricos y Malos",
+        "url": "https://open.spotify.com/album/51J4yX4tSktLWRayAJlY0g"
+      },
+      "artists": [
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185744,
+      "name": "De chinga yo",
+      "url": "https://open.spotify.com/track/62wdjSArTA3qDwl5lPNHfV"
     },
     {
       "album": {
@@ -20725,6 +20777,28 @@
     },
     {
       "album": {
+        "name": "Hasta Abajo",
+        "url": "https://open.spotify.com/album/1M9KqI7pdiXrWxB0XuwqcB"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169058,
+      "name": "Hasta Abajo",
+      "url": "https://open.spotify.com/track/4DVROTv3t33sqQX59kWfop"
+    },
+    {
+      "album": {
         "name": "El Cambio",
         "url": "https://open.spotify.com/album/5js6CdkxePKw4aOD3Brnj1"
       },
@@ -26400,6 +26474,44 @@
       "duration_ms": 135757,
       "name": "Loyalty 4 Ever",
       "url": "https://open.spotify.com/track/1IWwMgp1Wm6VobriqpuDp4"
+    },
+    {
+      "album": {
+        "name": "Loyalty 4 Ever Remix (feat. Kendo Kaponi, \u00d1engo Flow)",
+        "url": "https://open.spotify.com/album/4fMMNDPrNNBLBVatoeTGkd"
+      },
+      "artists": [
+        {
+          "name": "Hanzel La H",
+          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Kendo Kaponi",
+          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361844,
+      "name": "Loyalty 4 Ever Remix (feat. Kendo Kaponi, \u00d1engo Flow)",
+      "url": "https://open.spotify.com/track/3AKfIiT8uYN5VQhVHqyafd"
     },
     {
       "album": {
@@ -49438,6 +49550,24 @@
       "duration_ms": 156521,
       "name": "TURRA & BANDIDA",
       "url": "https://open.spotify.com/track/68RJWlNTd1cj61yBYGJVOJ"
+    },
+    {
+      "album": {
+        "name": "TURR4ZO",
+        "url": "https://open.spotify.com/album/5nUfysd9pD76m2nxU0qHmU"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138161,
+      "name": "TURRAZO",
+      "url": "https://open.spotify.com/track/7MUu6jrCvu48LSrMRDQKv0"
     },
     {
       "album": {

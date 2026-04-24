@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-595 songs - 1 day 7 hr 42 min
+598 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Alla Ska Dö](https://open.spotify.com/track/42JjxAcdxkqNOkx1HpPizt) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Alla Ska Dö](https://open.spotify.com/album/4FGa0t6nw3MaVpLGs0cIif) | 2:46 | 2025-03-20 |  |
 | [Alla Tittar På Mig](https://open.spotify.com/track/1NTRILHCdM1JLeLJZ6lAYG) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Alla Tittar På Mig](https://open.spotify.com/album/5S1ATUDgqCdYRei7UEIxkr) | 2:24 | 2025-01-16 | 2025-06-27 |
 | [Allt jag har](https://open.spotify.com/track/0LDw8mHf4tJcYbf5PvInGu) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/38dw8O2dALUkElF0nicULR) | 2:52 | 2026-04-02 |  |
+| [Allt jag har](https://open.spotify.com/track/0grHyIry2NnHHfH7oPQi7G) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/3Fs1NyFLebhVWHyYTW4cSz) | 2:52 | 2026-04-23 |  |
 | [Alltid för alltid](https://open.spotify.com/track/05NfDxkW5lY35zcEMyoaNQ) | [Tiger](https://open.spotify.com/artist/13daebbVeDg0MQzofle4hQ) | [Alltid för alltid](https://open.spotify.com/album/2dMsFd4EfIc2MagYvYlSQO) | 3:20 | 2024-06-28 | 2024-08-23 |
 | [and is it really over](https://open.spotify.com/track/5RAInZ6ZRVYhgf31HLECFZ) | [Joonas](https://open.spotify.com/artist/06bXpbtpgnaU0cklDrSqlg) | [and is it really over](https://open.spotify.com/album/4uW3H526QlOeBveCV2sgSL) | 3:47 | 2025-05-15 | 2025-06-18 |
 | [Andarna](https://open.spotify.com/track/3LbU3hQgMSyRHqYcGXVFLx) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Andarna](https://open.spotify.com/album/7xzfbsn3XlOxsemWxzykqY) | 3:46 | 2025-05-22 | 2026-02-13 |
@@ -152,6 +153,7 @@
 | [Där Jag Fann Dig Sist](https://open.spotify.com/track/3K0gRKBAK1Iux4hEZwamyD) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [¿Kan Du Höra Det?](https://open.spotify.com/album/6EZN2n5FRDb3vaFVSCx6ay) | 3:51 | 2024-06-28 | 2024-08-30 |
 | [DÉJÀ VU](https://open.spotify.com/track/1em9RQjkGpFaASpp7jvTJ6) | [Bella Leonette](https://open.spotify.com/artist/0Qzh6QfLR7zubyDl581ZOt) | [DÉJÀ VU](https://open.spotify.com/album/0j9hFcsDrRYHSCKRIkXEkr) | 3:04 | 2025-05-15 | 2025-07-04 |
 | [DÖ](https://open.spotify.com/track/6xQhvjACkxeuaRIH25UizF) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [DÖ](https://open.spotify.com/album/2nkEqixxTmd9E7umk0OUwG) | 2:35 | 2024-11-08 | 2025-06-27 |
+| [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2026-04-23 |  |
 | [Eaten by Worms](https://open.spotify.com/track/6BP7AAUtI2GU9wUVFBMWB6) | [Varas](https://open.spotify.com/artist/7cqV19335f0Yhf76d76D8I), [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff) | [Eaten by Worms](https://open.spotify.com/album/2B10ChD0Pr0MW5ljca4jIS) | 3:49 | 2025-02-21 | 2025-03-08 |
 | [EGO](https://open.spotify.com/track/0kIhtDAUHCIw8V8vWC738L) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:35 | 2026-04-02 |  |
 | [EGO](https://open.spotify.com/track/6KfyfEiMAQJrMhRrP2Epm4) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [EGO](https://open.spotify.com/album/5YYgM8HfCKUsWkT4vwWmL8) | 3:36 | 2025-09-04 | 2026-03-20 |
@@ -164,6 +166,7 @@
 | [ett minne i taget](https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [ett minne i taget](https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX) | 2:50 | 2025-03-27 |  |
 | [Ett år \- Bonus Track](https://open.spotify.com/track/4OJOZJLUnGun7f2qeIc7h7) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 3:37 | 2026-02-26 | 2026-04-03 |
 | [even if my heart breaks](https://open.spotify.com/track/1zjLuFuezkngtOgUQhAwjX) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [even if my heart breaks](https://open.spotify.com/album/4OFGAubLuL2b3tPQW9dG7J) | 2:41 | 2025-01-16 | 2025-02-28 |
+| [EVERYTHING HALLELUJAH](https://open.spotify.com/track/5AwNJ5mr7mHyIhlKnQICEJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 4:08 | 2026-04-23 |  |
 | [Fakta: Fucked Up](https://open.spotify.com/track/7Jk9NlMb2fThaDOYRC52kC) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Fakta: Fucked Up](https://open.spotify.com/album/3N3rwYkqqBRkzMmo6uqShJ) | 3:59 | 2024-09-19 | 2025-03-21 |
 | [Falla](https://open.spotify.com/track/2TRoPIfG2IqShh7ZQ9MWE2) | [Albin Tingwall](https://open.spotify.com/artist/3lcVkEoGO0JFaJBUCGQw2H) | [Falla](https://open.spotify.com/album/0eTb1CdlXs84iS51y9LCeD) | 2:57 | 2025-04-17 | 2025-08-10 |
 | [Faller för dig](https://open.spotify.com/track/3YJx3c9LSgPWX22gfCFVrr) | [KarreV](https://open.spotify.com/artist/3U47KYSzkeq9AGPP5uYBuu) | [Faller för dig](https://open.spotify.com/album/1pZLDunu0XtnXH0B2lX4A5) | 2:46 | 2025-10-23 | 2026-04-03 |

@@ -4,7 +4,7 @@
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: 씨야 \(SEEYA\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-648 songs - 1 day 18 hr 22 min
+649 songs - 1 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,7 +490,7 @@
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-01-27 |  |
 | [Sunﬁsh](https://open.spotify.com/track/1VQwQsaa6aUHg9gQP0llyU) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 7th Album 'GROWTH THEORY'](https://open.spotify.com/album/7B2dOs6eNhgmIWsP3zHKpm) | 3:38 | 2024-09-02 | 2025-08-30 |
 | [Surrender](https://open.spotify.com/track/3giNZ1ZVKFVRPJZq4ckF7o) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [DIVA](https://open.spotify.com/album/4sOFEOAhkVbcV3QiIJIRaT) | 3:57 | 2024-11-28 | 2024-12-06 |
-| [SUZUME](https://open.spotify.com/track/6qoAZFEGqZcr9oIKYV43we) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [SUZUME](https://open.spotify.com/album/0jIf0pFZslLCWgTfJbuvUx) | 3:53 | 2025-09-01 |  |
+| [SUZUME](https://open.spotify.com/track/6qoAZFEGqZcr9oIKYV43we) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [SUZUME](https://open.spotify.com/album/0jIf0pFZslLCWgTfJbuvUx) | 3:53 | 2025-09-01 | 2026-04-24 |
 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 | 2024-05-29 | 2024-06-06 |
 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 | 2022-08-03 | 2023-07-21 |
 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 | 2022-11-23 | 2023-06-19 |
@@ -620,6 +620,7 @@
 | [꿈길](https://open.spotify.com/track/6ONESVJurYMVmCfwV6yKjF) | [E HYUK](https://open.spotify.com/artist/2YhKoOmf0diUvydhEoreDa) | [꿈길](https://open.spotify.com/album/1c1rE5Ijbnm2NdR7iaHpYS) | 4:13 | 2023-01-25 | 2023-02-25 |
 | [나를 슬프게 하는 사람들](https://open.spotify.com/track/2p66I5H2IQco9xh6egJjTE) | [Kim Kyung Ho](https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl) | [KimKyungho 1997](https://open.spotify.com/album/3rgaj3Bsq4NwfOliBX83aN) | 4:20 | 2024-05-29 | 2024-06-06 |
 | [나였으면](https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [중독](https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK) | 4:22 | 2023-12-01 |  |
+| [나의 바람은 \(My Wish\)](https://open.spotify.com/track/4nBrz3SZL65qMNf2oF4i5O) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [우리는 매일매일 OST Part.7 – 나의 바람은 \(Before We Knew OST Part.7 – My Wish\)](https://open.spotify.com/album/5mxc5C915JkW8yWmwRYeRg) | 3:59 | 2026-04-23 |  |
 | [난 널 사랑해](https://open.spotify.com/track/6j2BkzEgwFm5CSWPgULBqS) | [Shin Hyobum](https://open.spotify.com/artist/0VFz55Ht1prPpW3W9WAIUB) | [Shin Hyo Bum](https://open.spotify.com/album/1do2rIPMo5xR6ElF3y80vj) | 4:12 | 2023-12-01 | 2023-12-14 |
 | [내가 저지른 사랑](https://open.spotify.com/track/6s5QnuRQq0ANOo1pkz7mJv) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [I'M](https://open.spotify.com/album/6Z2EMjSuDFt6BHXgn479zw) | 3:58 | 2022-03-24 | 2022-04-20 |
 | [내가 저지른 사랑](https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [I'M](https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa) | 3:58 | 2022-09-06 | 2024-04-19 |

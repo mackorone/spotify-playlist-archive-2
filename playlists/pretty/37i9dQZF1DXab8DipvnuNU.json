@@ -1,6 +1,6 @@
 {
   "description": "Essential tunes for time with the family.",
-  "num_followers": 47970,
+  "num_followers": 47998,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "No More Drama",
-        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 265866,
-      "name": "Family Affair",
-      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
         "name": "September (sped up + slowed)",
         "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 364441,
       "name": "Don't Stop 'Til You Get Enough",
       "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "No More Drama",
+        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 265866,
+      "name": "Family Affair",
+      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "Return of the Mack",
-        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
-      },
-      "artists": [
-        {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Return of the Mack",
-      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
         "name": "Raise!",
         "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 240134,
       "name": "Remember the Time",
       "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Return of the Mack",
+        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
+      },
+      "artists": [
+        {
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "Return of the Mack",
+      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
     },
     {
       "added_at": "2020-07-23 21:45:59",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
-        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 238333,
       "name": "P.Y.T. (Pretty Young Thing)",
       "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
     },
     {
       "added_at": "2020-07-23 21:45:59",
@@ -819,22 +819,6 @@
     {
       "added_at": "2020-07-23 21:45:59",
       "album": {
-        "name": "The Very Best Of The Staple Singers",
-        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "I'll Take You There",
-      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
-    },
-    {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
         "name": "All I Have",
         "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 159293,
       "name": "Why Don't We Fall in Love",
       "url": "https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "The Very Best Of The Staple Singers",
+        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "I'll Take You There",
+      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
     },
     {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
-        "name": "In My House",
-        "url": "https://open.spotify.com/album/4W5tAjZ4fF60N6a2v8EWnF"
-      },
-      "artists": [
-        {
-          "name": "Mary Jane Girls",
-          "url": "https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr"
-        }
-      ],
-      "duration_ms": 343933,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/7iyjZ4paFWpTrJJenM0yZb"
-    },
-    {
       "added_at": "2023-06-16 17:58:31",
       "album": {
         "name": "House Of Music",
@@ -1203,6 +1187,22 @@
       "duration_ms": 299506,
       "name": "Let's Get Down",
       "url": "https://open.spotify.com/track/7qdo6JOOaaY9LadOAhfXq7"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "In My House",
+        "url": "https://open.spotify.com/album/4W5tAjZ4fF60N6a2v8EWnF"
+      },
+      "artists": [
+        {
+          "name": "Mary Jane Girls",
+          "url": "https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr"
+        }
+      ],
+      "duration_ms": 343933,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/7iyjZ4paFWpTrJJenM0yZb"
     },
     {
       "added_at": "2020-07-23 21:45:59",

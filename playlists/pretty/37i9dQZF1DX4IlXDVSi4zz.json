@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 1013199,
+  "num_followers": 1013402,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-04-10 04:01:48",
       "album": {
-        "name": "CHICA 305",
-        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 188085,
-      "name": "CHICA 305",
-      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
-    },
-    {
-      "added_at": "2026-04-10 04:01:48",
-      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP"
       },
@@ -919,22 +899,38 @@
     {
       "added_at": "2026-04-10 04:01:48",
       "album": {
-        "name": "Jamaican (Bam Bam)",
-        "url": "https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G"
+        "name": "CHICA 305",
+        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 188085,
+      "name": "CHICA 305",
+      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
+    },
+    {
+      "added_at": "2026-04-10 04:01:48",
+      "album": {
+        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
+        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
       },
       "artists": [
         {
           "name": "HUGEL",
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "SOLTO (FR)",
-          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
         }
       ],
-      "duration_ms": 156393,
-      "name": "Jamaican (Bam Bam)",
-      "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
+      "duration_ms": 186341,
+      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
+      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
     },
     {
       "added_at": "2026-04-10 04:01:48",
@@ -1039,18 +1035,22 @@
     {
       "added_at": "2026-04-10 04:01:48",
       "album": {
-        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
-        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
+        "name": "Jamaican (Bam Bam)",
+        "url": "https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G"
       },
       "artists": [
         {
           "name": "HUGEL",
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
         }
       ],
-      "duration_ms": 186341,
-      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
-      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
+      "duration_ms": 156393,
+      "name": "Jamaican (Bam Bam)",
+      "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
     },
     {
       "added_at": "2026-04-10 04:01:48",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2026-04-10 04:01:48",
       "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH"
+      },
+      "artists": [
+        {
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        }
+      ],
+      "duration_ms": 162684,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W"
+    },
+    {
+      "added_at": "2026-04-10 04:01:48",
+      "album": {
         "name": "Meu Ver\u00e3o",
         "url": "https://open.spotify.com/album/5lLsA0pN0mU93uFl7GU9VY"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 215433,
       "name": "Meu Ver\u00e3o",
       "url": "https://open.spotify.com/track/1M3osJunuDlz44RtVyCacx"
-    },
-    {
-      "added_at": "2026-04-10 04:01:48",
-      "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH"
-      },
-      "artists": [
-        {
-          "name": "Eats Everything",
-          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
-        }
-      ],
-      "duration_ms": 162684,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W"
     },
     {
       "added_at": "2026-04-10 04:01:48",
@@ -2039,6 +2039,26 @@
     {
       "added_at": "2026-04-10 04:01:48",
       "album": {
+        "name": "Ricota",
+        "url": "https://open.spotify.com/album/0IBSOQFCbrtAMcfjygozLN"
+      },
+      "artists": [
+        {
+          "name": "ZULAN",
+          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
+        },
+        {
+          "name": "Debians",
+          "url": "https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd"
+        }
+      ],
+      "duration_ms": 145853,
+      "name": "Ricota",
+      "url": "https://open.spotify.com/track/4uZh7m5a3DFqI1WCUniio6"
+    },
+    {
+      "added_at": "2026-04-10 04:01:48",
+      "album": {
         "name": "ASTROPICAL",
         "url": "https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl"
       },
@@ -2079,26 +2099,6 @@
       "duration_ms": 183830,
       "name": "La Musa (with Miluhska)",
       "url": "https://open.spotify.com/track/5IGqDVkK8bDHuQqsYvUvMt"
-    },
-    {
-      "added_at": "2026-04-10 04:01:48",
-      "album": {
-        "name": "Ricota",
-        "url": "https://open.spotify.com/album/0IBSOQFCbrtAMcfjygozLN"
-      },
-      "artists": [
-        {
-          "name": "ZULAN",
-          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
-        },
-        {
-          "name": "Debians",
-          "url": "https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd"
-        }
-      ],
-      "duration_ms": 145853,
-      "name": "Ricota",
-      "url": "https://open.spotify.com/track/4uZh7m5a3DFqI1WCUniio6"
     },
     {
       "added_at": "2026-04-10 04:01:48",

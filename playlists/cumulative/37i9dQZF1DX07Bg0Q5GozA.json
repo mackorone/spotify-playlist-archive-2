@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Digitalism",
+  "description": "New music off the beaten track. Cover: ratbag",
   "name": "OFF POP",
   "tracks": [
     {
@@ -2499,6 +2499,24 @@
     },
     {
       "album": {
+        "name": "Bitches Talk Shit",
+        "url": "https://open.spotify.com/album/7qpKgKDoZQhrvnZIeIaRKq"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219969,
+      "name": "Bitches Talk Shit",
+      "url": "https://open.spotify.com/track/2zeOTTt5w7lSwKtbUXcnTQ"
+    },
+    {
+      "album": {
         "name": "So Nice To Be In Love",
         "url": "https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW"
       },
@@ -2834,7 +2852,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 224943,
       "name": "Boundary Rider",
       "url": "https://open.spotify.com/track/5w9XvpOBv2FviDF7lSV5Kb"
@@ -4637,6 +4655,24 @@
     },
     {
       "album": {
+        "name": "Cowboy Mouth",
+        "url": "https://open.spotify.com/album/2AqkGAoflreArNrZQVQMCL"
+      },
+      "artists": [
+        {
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209868,
+      "name": "Cowboy Mouth",
+      "url": "https://open.spotify.com/track/7qgYR8fHsHyyS5WKvA9srS"
+    },
+    {
+      "album": {
         "name": "Create-A-Dance",
         "url": "https://open.spotify.com/album/02L5fOvPVQcqe59P0vvXz2"
       },
@@ -5928,7 +5964,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 158906,
       "name": "Do you remember",
       "url": "https://open.spotify.com/track/7eJFQbRRceQpsvwSmDGqSI"
@@ -6626,6 +6662,28 @@
       "duration_ms": 222926,
       "name": "Drink In Paris",
       "url": "https://open.spotify.com/track/18CpVX2rKdyGGZYtQmLKTh"
+    },
+    {
+      "album": {
+        "name": "Driver Idle",
+        "url": "https://open.spotify.com/album/0NkvhwzA8UOOfEvi36swRT"
+      },
+      "artists": [
+        {
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+        },
+        {
+          "name": "Perry Maysun",
+          "url": "https://open.spotify.com/artist/7F4201ESA6AFfxjHpb9Bc0"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254163,
+      "name": "Driver Idle",
+      "url": "https://open.spotify.com/track/4NDaB0Q9jOL0DnyfI346SA"
     },
     {
       "album": {
@@ -7416,7 +7474,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 321859,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/5j7sM5f8lOSn65S1ZU1DzZ"
@@ -9098,7 +9156,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 162890,
       "name": "Fumes",
       "url": "https://open.spotify.com/track/1a5kGB5Kp5N8GvToc1PQr5"
@@ -9990,6 +10048,24 @@
       "duration_ms": 567106,
       "name": "HALCYON + ON + ON",
       "url": "https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A"
+    },
+    {
+      "album": {
+        "name": "halftime oranges",
+        "url": "https://open.spotify.com/album/0NAMPUg46S6mRCVZtJT40d"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213409,
+      "name": "halftime oranges",
+      "url": "https://open.spotify.com/track/5Aaa6F1n8j7ZVM7JV0t1Mw"
     },
     {
       "album": {
@@ -15078,7 +15154,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 178280,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
@@ -19401,6 +19477,24 @@
     },
     {
       "album": {
+        "name": "Happiness in Liquid Form (Deluxe Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0LjkZkVyTOt2qJMMbXz47d"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212204,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/3ncIV72iL27Tsj85wHOH3w"
+    },
+    {
+      "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/7IpNzqCWJdezEDt1SunvBL"
       },
@@ -19448,7 +19542,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 184207,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/5mkvS4pcwZ9z4PmBhPY77l"
@@ -19568,6 +19662,28 @@
       "duration_ms": 213706,
       "name": "Our Home",
       "url": "https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv"
+    },
+    {
+      "album": {
+        "name": "AMi Vol. 1",
+        "url": "https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Miette Hope",
+          "url": "https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250533,
+      "name": "Outline",
+      "url": "https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr"
     },
     {
       "album": {
@@ -28018,7 +28134,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 219013,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/7CdKgelWaFAubv36vIUNPA"
@@ -28160,6 +28276,24 @@
       "duration_ms": 179487,
       "name": "We Could Be Falling In Love - Edit",
       "url": "https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT"
+    },
+    {
+      "album": {
+        "name": "We Go So Good Together",
+        "url": "https://open.spotify.com/album/20BCMVFQWe0uvjXCOOnyHI"
+      },
+      "artists": [
+        {
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169630,
+      "name": "We Go So Good Together",
+      "url": "https://open.spotify.com/track/5u60vtj3BIty91oZw2xUVF"
     },
     {
       "album": {

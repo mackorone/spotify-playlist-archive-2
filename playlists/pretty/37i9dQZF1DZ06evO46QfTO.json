@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 75235,
+  "num_followers": 75236,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAC4ctbieKDg9QZJomscHr/k",
+  "snapshot_id": "aegPgAAAAADc5ylYvsDQLtR8ZO01A4Vi",
   "tracks": [
     {
       "added_at": null,
@@ -83,26 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Texas (feat. Maren Morris)",
-        "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Texas (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Changes",
         "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 223626,
       "name": "Craving You",
       "url": "https://open.spotify.com/track/2d48mamATjby7wgPjdrSOQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Texas (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Texas (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
     },
     {
       "added_at": null,
@@ -975,6 +975,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "D R E A M S I C L E",
+        "url": "https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "i hope i never fall in love",
+      "url": "https://open.spotify.com/track/19v4Pp2J8bkpZYmVcFRvjA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Friends From Your Hometown",
         "url": "https://open.spotify.com/album/4xyhhzhRAm1u4lstjybyWk"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 202653,
       "name": "The Middle (feat. Maren Morris) - Live",
       "url": "https://open.spotify.com/track/03iUGNlXGf02woPw1r8qFy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D R E A M S I C L E",
-        "url": "https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 216200,
-      "name": "i hope i never fall in love",
-      "url": "https://open.spotify.com/track/19v4Pp2J8bkpZYmVcFRvjA"
     },
     {
       "added_at": null,

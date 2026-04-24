@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 152411,
+  "num_followers": 152438,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAA1a2y0kopVRaQGoBZhT3I8",
+  "snapshot_id": "aegPgAAAAACtYFSB6xp7IS+Ff2wbWPhG",
   "tracks": [
     {
       "added_at": null,
@@ -99,6 +99,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nobody Wants This Season 2: The Soundtrack",
+        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232771,
+      "name": "If The World Burns Down",
+      "url": "https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cloud 9",
         "url": "https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 175472,
       "name": "Bells & Whistles (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/71uKhNSaUogUkjMRw5jiw7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nobody Wants This Season 2: The Soundtrack",
-        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232771,
-      "name": "If The World Burns Down",
-      "url": "https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9"
     },
     {
       "added_at": null,
@@ -340,25 +340,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 241466,
-      "name": "Oh, What A World",
-      "url": "https://open.spotify.com/track/5ToJzoVfLYyF7ohMOBNObi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pageant Material",
-        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 217880,
-      "name": "Late To The Party",
-      "url": "https://open.spotify.com/track/0E5ZrgbRKXwGvNhwzRaDGL"
+      "duration_ms": 213693,
+      "name": "High Horse",
+      "url": "https://open.spotify.com/track/2U2Z1IXnmJIvlknWizFykZ"
     },
     {
       "added_at": null,
@@ -375,6 +359,22 @@
       "duration_ms": 158880,
       "name": "Flower Child",
       "url": "https://open.spotify.com/track/0xknocuUfiYGuW3BW1BDhH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pageant Material",
+        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 217880,
+      "name": "Late To The Party",
+      "url": "https://open.spotify.com/track/0E5ZrgbRKXwGvNhwzRaDGL"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 213693,
-      "name": "High Horse",
-      "url": "https://open.spotify.com/track/2U2Z1IXnmJIvlknWizFykZ"
+      "duration_ms": 241466,
+      "name": "Oh, What A World",
+      "url": "https://open.spotify.com/track/5ToJzoVfLYyF7ohMOBNObi"
     },
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
+        "name": "Pageant Material",
+        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 168266,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
+      "duration_ms": 196520,
+      "name": "Biscuits",
+      "url": "https://open.spotify.com/track/4vHVfwVi2CEc4r7P1Pr9iu"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pageant Material",
-        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
+        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 196520,
-      "name": "Biscuits",
-      "url": "https://open.spotify.com/track/4vHVfwVi2CEc4r7P1Pr9iu"
+      "duration_ms": 168266,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
     },
     {
       "added_at": null,
@@ -579,6 +579,38 @@
       "duration_ms": 139413,
       "name": "Irish Goodbye",
       "url": "https://open.spotify.com/track/4o5pcDRVUdkMeyq5l5dWh7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pageant Material",
+        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "Dime Store Cowgirl",
+      "url": "https://open.spotify.com/track/43xanDcfSBWuURZCWbItzf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "breadwinner",
+      "url": "https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o"
     },
     {
       "added_at": null,
@@ -603,38 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "breadwinner",
-      "url": "https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pageant Material",
-        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Dime Store Cowgirl",
-      "url": "https://open.spotify.com/track/43xanDcfSBWuURZCWbItzf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deeper Well: Deeper into the Well",
         "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
       },
@@ -642,15 +642,11 @@
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 182946,
-      "name": "Superbloom (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/7FSHsMrNTP7umpgVHuR7IS"
+      "duration_ms": 238493,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL"
     },
     {
       "added_at": null,
@@ -710,11 +706,15 @@
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 238493,
-      "name": "Arm's Length",
-      "url": "https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL"
+      "duration_ms": 182946,
+      "name": "Superbloom (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/7FSHsMrNTP7umpgVHuR7IS"
     },
     {
       "added_at": null,

@@ -251,6 +251,28 @@
     },
     {
       "album": {
+        "name": "97",
+        "url": "https://open.spotify.com/album/2MMbc6h4YH9POnrHPmfjzz"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        },
+        {
+          "name": "Dj Dacel",
+          "url": "https://open.spotify.com/artist/5Nj8sBYPlnStp5EkE2f0Lf"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175483,
+      "name": "APAGON",
+      "url": "https://open.spotify.com/track/2nqChcNFEKA3dz47RuggX3"
+    },
+    {
+      "album": {
         "name": "Aprendo, perdono, olvido",
         "url": "https://open.spotify.com/album/6KJQUDqov7BDZ0gkmgwCbs"
       },

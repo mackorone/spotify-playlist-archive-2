@@ -1,13 +1,49 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Jo Soegono",
-  "num_followers": 114569,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Sliver",
+  "num_followers": 114577,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHLp0ihaSIDBMT8eZdwd29G/9Ril",
+  "snapshot_id": "AAAAAAXUbsEUBQyu48IiYFVocYrplfAT",
   "tracks": [
+    {
+      "added_at": "2026-04-23 18:00:12",
+      "album": {
+        "name": "Berubah",
+        "url": "https://open.spotify.com/album/1WB8OEzRWFp3AwuBQBj31P"
+      },
+      "artists": [
+        {
+          "name": "Sliver",
+          "url": "https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W"
+        }
+      ],
+      "duration_ms": 236334,
+      "name": "Berubah",
+      "url": "https://open.spotify.com/track/6P4dRibGfA4VRizaoPQOX7"
+    },
+    {
+      "added_at": "2026-04-23 18:00:12",
+      "album": {
+        "name": "Main-Main",
+        "url": "https://open.spotify.com/album/6ENAT4ust37xJcEYuNyVSg"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Fernaldi",
+          "url": "https://open.spotify.com/artist/5zGnoscN1lVq4vWNExbDZO"
+        },
+        {
+          "name": "De Robinsar",
+          "url": "https://open.spotify.com/artist/3bzvsI6XPz5OzhZ1Of2p6n"
+        }
+      ],
+      "duration_ms": 190698,
+      "name": "Main-Main",
+      "url": "https://open.spotify.com/track/1m9h7Yv78PrOi0ugL6yUex"
+    },
     {
       "added_at": "2026-04-09 19:00:14",
       "album": {
@@ -1571,22 +1607,6 @@
     {
       "added_at": "2025-06-26 17:47:30",
       "album": {
-        "name": "Tarian Panen",
-        "url": "https://open.spotify.com/album/1lMep6P15PRNw9N8TG5yst"
-      },
-      "artists": [
-        {
-          "name": "5Petani",
-          "url": "https://open.spotify.com/artist/2gcy19PBJyMIGP5avLkzCp"
-        }
-      ],
-      "duration_ms": 346397,
-      "name": "Tarian Panen",
-      "url": "https://open.spotify.com/track/3GhczFPojHhZ6XmxDTiDv2"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
         "name": "Love In Peace",
         "url": "https://open.spotify.com/album/72PHHKpw2zuBHrDgPx0Mfl"
       },
@@ -1599,22 +1619,6 @@
       "duration_ms": 264340,
       "name": "Love In Peace",
       "url": "https://open.spotify.com/track/3BguNO1FHJs4KRqNp1hC2K"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
-        "name": "Teras Dan Angin Malam",
-        "url": "https://open.spotify.com/album/0zUzJIuniSzSPmwEwNweUp"
-      },
-      "artists": [
-        {
-          "name": "Hezky Jo",
-          "url": "https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Kejar Terus",
-      "url": "https://open.spotify.com/track/7LR3VRJQIWtuHs5kVkjVk5"
     },
     {
       "added_at": "2025-06-26 17:47:30",

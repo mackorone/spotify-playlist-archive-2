@@ -13505,6 +13505,24 @@
     },
     {
       "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/0qDPfgTu9c6E2SBZZ8y24E"
+      },
+      "artists": [
+        {
+          "name": "Samuel Jack",
+          "url": "https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160044,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/4xRPcv6C330TBNpCDsPXGr"
+    },
+    {
+      "album": {
         "name": "Bring Me a Flower",
         "url": "https://open.spotify.com/album/5GZ4MhgpDyA2JoMjD0RzAQ"
       },
@@ -53204,6 +53222,24 @@
       "duration_ms": 124000,
       "name": "La Nota",
       "url": "https://open.spotify.com/track/3SVzHzomKt0AfMsZwm23NZ"
+    },
+    {
+      "album": {
+        "name": "La Pavada",
+        "url": "https://open.spotify.com/album/0i5dkXIHc9oxEbMC2BPM3z"
+      },
+      "artists": [
+        {
+          "name": "ENGUAYAB\u00c1",
+          "url": "https://open.spotify.com/artist/6bxJa8AAtLTuY8sLXpB21X"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "La Pavada",
+      "url": "https://open.spotify.com/track/0kp2kmvtG3X84zkMPcDVXz"
     },
     {
       "album": {

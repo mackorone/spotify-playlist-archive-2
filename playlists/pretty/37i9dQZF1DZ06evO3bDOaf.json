@@ -1,12 +1,12 @@
 {
   "description": "This is Liam Payne. The essential tracks, all in one playlist.",
-  "num_followers": 100678,
+  "num_followers": 100672,
   "original_name": "This Is Liam Payne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAD9R2aTDMLdzc5vTepu2NFf",
+  "snapshot_id": "aegPgAAAAACJmpM6DBtA0FtS1chAobnG",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strip That Down (Acoustic)",
-        "url": "https://open.spotify.com/album/3r0jAzmzY8r6tF1E6lYFr5"
-      },
-      "artists": [
-        {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
-        }
-      ],
-      "duration_ms": 184475,
-      "name": "Strip That Down - Acoustic",
-      "url": "https://open.spotify.com/track/1Ddj6nkhUP3lHpLvDqPsvC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sunshine (From the Motion Picture \u201cRon\u2019s Gone Wrong\u201d)",
         "url": "https://open.spotify.com/album/3EUNQSlJDx66zBXQFtRXjZ"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 164000,
       "name": "Sunshine - From the Motion Picture \u201cRon\u2019s Gone Wrong\u201d",
       "url": "https://open.spotify.com/track/48oN0dm8zwleoUvuLBqIOp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strip That Down (Acoustic)",
+        "url": "https://open.spotify.com/album/3r0jAzmzY8r6tF1E6lYFr5"
+      },
+      "artists": [
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        }
+      ],
+      "duration_ms": 184475,
+      "name": "Strip That Down - Acoustic",
+      "url": "https://open.spotify.com/track/1Ddj6nkhUP3lHpLvDqPsvC"
     },
     {
       "added_at": null,

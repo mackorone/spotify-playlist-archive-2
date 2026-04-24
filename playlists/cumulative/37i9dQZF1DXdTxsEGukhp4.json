@@ -3772,7 +3772,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 162643,
       "name": "medicine",
       "url": "https://open.spotify.com/track/72SOp62ne2tErJqwlGEHQj"
@@ -4002,6 +4002,24 @@
       "duration_ms": 176951,
       "name": "Moshi Moshi (feat. \u767e\u8db3)",
       "url": "https://open.spotify.com/track/0FJVGU0hNhCtohkjKB6uKQ"
+    },
+    {
+      "album": {
+        "name": "mosi mosi?",
+        "url": "https://open.spotify.com/album/7f1NEFlfunI7TMwrE886W5"
+      },
+      "artists": [
+        {
+          "name": "\u697d\u97f3",
+          "url": "https://open.spotify.com/artist/4W11pDowC8EO7a6cR5WO9L"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163750,
+      "name": "mosi mosi?",
+      "url": "https://open.spotify.com/track/76oCvJj6LRoed2754GybpH"
     },
     {
       "album": {

@@ -6309,6 +6309,24 @@
     },
     {
       "album": {
+        "name": "Dark Love",
+        "url": "https://open.spotify.com/album/2GNCMmvymEw8GW4e3MBsmt"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192230,
+      "name": "Dark Love",
+      "url": "https://open.spotify.com/track/272zNOGMxYSxDP9kAaCnPn"
+    },
+    {
+      "album": {
         "name": "Dark Side Of The Moon",
         "url": "https://open.spotify.com/album/17PJtxBGAjvkgHGBZgCJ9O"
       },
@@ -12720,6 +12738,36 @@
       "duration_ms": 170000,
       "name": "Good For You",
       "url": "https://open.spotify.com/track/5pn9ofs8pPX6bFZO3Dzg6i"
+    },
+    {
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/6SIJVH2p0eLprExmSDDCml"
+      },
+      "artists": [
+        {
+          "name": "ALISHA",
+          "url": "https://open.spotify.com/artist/1zUgvtlUR6jXtCUCF0j3fe"
+        },
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "Dantiez",
+          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181363,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/5dtFOeNz6FEtZSPkm5f1Ed"
     },
     {
       "album": {
@@ -19594,6 +19642,32 @@
       "duration_ms": 180000,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/1fg2EDQRqMdrkDZE0JS2Wu"
+    },
+    {
+      "album": {
+        "name": "Like A Child",
+        "url": "https://open.spotify.com/album/21kP7foJu4VQRhlnkVgrgC"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Marlo Rex",
+          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183181,
+      "name": "Like A Child",
+      "url": "https://open.spotify.com/track/0wGlXAZU2OQlOiCghAOCqm"
     },
     {
       "album": {
@@ -27754,6 +27828,28 @@
       "duration_ms": 159309,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/2n08N1ofRMc9dfbjGnxS6l"
+    },
+    {
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/145fVzUQ46KQYdwDg5YIH4"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "ARA",
+          "url": "https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185996,
+      "name": "River",
+      "url": "https://open.spotify.com/track/5CVfpoHb8yDLy8JOIU8AiM"
     },
     {
       "album": {
@@ -38256,6 +38352,32 @@
       "duration_ms": 167619,
       "name": "Where Have You Been",
       "url": "https://open.spotify.com/track/5XZXl7asBflC33KL5zaLXW"
+    },
+    {
+      "album": {
+        "name": "Where Have You Been",
+        "url": "https://open.spotify.com/album/2pfVvPhv9H05U3NYcyaxW8"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "Vikkstar",
+          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
+        },
+        {
+          "name": "Annie Schindel",
+          "url": "https://open.spotify.com/artist/4wSUq2vI7L0BzOQ9pTgozP"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209523,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/56vuQPpk63A5GUIKpTqwAp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,850 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,843 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 40 | [Não Fala Não pra Mim](https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Não Fala Não pra Mim](https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG) | 3:16 |
 | 41 | [Eu Quero Tchu Eu Quero Tcha](https://open.spotify.com/track/3xrYgdz1QEj2q3f5T1OGxb) | [João Lucas & Marcelo](https://open.spotify.com/artist/07qXCavgZGcwnfNHSvSPtG) | [Eu Quero Tchu Eu Quero Tcha \- Single](https://open.spotify.com/album/5YoSOrOY8x9bWnLheZ07vt) | 2:39 |
 | 42 | [Beijinho no Ombro](https://open.spotify.com/track/4k3HBeh98WWN2ybGHC0WQI) | [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [Beijinho no Ombro](https://open.spotify.com/album/0ofNAjXeTd2H2co7rKhKTE) | 2:44 |
-| 43 | [País do Futebol](https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD) | [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [País do Futebol](https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009) | 2:29 |
-| 44 | [Amiga Parceira](https://open.spotify.com/track/26Vmg97Pv0MaxIdKsBrXTq) | [Pikeno & Menor](https://open.spotify.com/artist/3gJK5PRn2FUQIT7cbgVryV) | [Amiga Parceira](https://open.spotify.com/album/5VmlupfS69IXynlBcA6IAa) | 3:17 |
+| 43 | [Amiga Parceira](https://open.spotify.com/track/26Vmg97Pv0MaxIdKsBrXTq) | [Pikeno & Menor](https://open.spotify.com/artist/3gJK5PRn2FUQIT7cbgVryV) | [Amiga Parceira](https://open.spotify.com/album/5VmlupfS69IXynlBcA6IAa) | 3:17 |
+| 44 | [País do Futebol](https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD) | [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [País do Futebol](https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009) | 2:29 |
 | 45 | [Invocada \(Participação especial de Léo Santana\) \- Ao vivo](https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Hello mundo \(Ao vivo\)](https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw) | 2:37 |
 | 46 | [Corpo Sensual \(feat\. Mateus Carrilho\)](https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:50 |
 | 47 | [Ao Vivo E A Cores](https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Ao Vivo E A Cores](https://open.spotify.com/album/446dHiuQt06TAh4sWU02vo) | 3:00 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 51 | [Encaixa](https://open.spotify.com/track/6VXpxDMdPfMrFF8UmZRm87) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Encaixa](https://open.spotify.com/album/2aIFyJR1TbFuxBjRXt3UMA) | 2:49 |
 | 52 | [Bebe e Vem Me Procurar](https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Bebe e Vem Me Procurar](https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz) | 2:34 |
 | 53 | [Assim Você Mata O Papai](https://open.spotify.com/track/03UlQzmQHLb3fnvfhipq0B) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Assim Você Mata O Papai](https://open.spotify.com/album/6t1NT9hDfx7V3B3fB3e9UK) | 3:16 |
-| 54 | [Favela chegou](https://open.spotify.com/track/7hpa8WPLkkSmpSHwls3FWt) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Hello mundo](https://open.spotify.com/album/4U50KjTvyDPWy06dw6KqSq) | 2:40 |
+| 54 | [Cheguei](https://open.spotify.com/track/6cbZb9mVAc5s8HtwklLoI0) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [A danada sou eu](https://open.spotify.com/album/4JZQXCD2TwUZmxSLlMDRoX) | 2:54 |
 | 55 | [Ginga \(Participação especial de Rincon Sapiência\)](https://open.spotify.com/track/1QqIcxyTz2G7I31wcrnERf) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:00 |
 | 56 | [Ta Tum Tum](https://open.spotify.com/track/6etab3UBCo5GOTMZqUvRka) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Ta Tum Tum](https://open.spotify.com/album/7ebtmJ8DgEa0AranPQOcBI) | 2:44 |
 | 57 | [Louquinha](https://open.spotify.com/track/3nXdCzDouMQKfAiiHffYxL) | [João Lucas & Marcelo](https://open.spotify.com/artist/07qXCavgZGcwnfNHSvSPtG), [MC K9](https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag) | [Louquinha](https://open.spotify.com/album/36VTJk6RkDOJnMnmMH4KuQ) | 3:30 |
 | 58 | [Quem Me Dera](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Quem Me Dera](https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7) | 2:27 |
-| 59 | [Cheguei](https://open.spotify.com/track/6cbZb9mVAc5s8HtwklLoI0) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [A danada sou eu](https://open.spotify.com/album/4JZQXCD2TwUZmxSLlMDRoX) | 2:54 |
+| 59 | [Favela chegou](https://open.spotify.com/track/7hpa8WPLkkSmpSHwls3FWt) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Hello mundo](https://open.spotify.com/album/4U50KjTvyDPWy06dw6KqSq) | 2:40 |
 | 60 | [Não sou obrigada](https://open.spotify.com/track/0nkDm27DGppCSk8dnGtvPa) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Não sou obrigada](https://open.spotify.com/album/3tPNupBNXriclh9KYZOmyJ) | 2:28 |
 
 Snapshot ID: `AAAAALMIgtiC7/CIRaoLp7VmwBYIY9CL`

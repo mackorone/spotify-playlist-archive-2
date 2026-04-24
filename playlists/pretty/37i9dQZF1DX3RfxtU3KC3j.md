@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Can Bonomo<br/><br/>23 Nisan Ulusal Egemenlik ve Çocuk Bayramımız kutlu olsun! 🇹🇷
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,410 likes - 76 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,411 likes - 76 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

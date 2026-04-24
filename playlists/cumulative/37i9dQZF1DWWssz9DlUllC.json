@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Where afrobeats meets amapiano.\nCover:  NO11",
+  "description": "Where afrobeats meets amapiano.\nCover:  Smur Lee",
   "name": "afro-piano",
   "tracks": [
     {
@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Attack",
+        "url": "https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Attack",
+      "url": "https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ"
+    },
+    {
+      "album": {
         "name": "Breaking",
         "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
       },
@@ -449,7 +467,7 @@
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 139389,
+      "duration_ms": 142487,
       "name": "Bank Alert",
       "url": "https://open.spotify.com/track/4wEpSkZ9V6CNZu8gwiOw1a"
     },
@@ -1081,6 +1099,28 @@
     },
     {
       "album": {
+        "name": "Fire in your Eyes",
+        "url": "https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215384,
+      "name": "Fire in your Eyes",
+      "url": "https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d"
+    },
+    {
+      "album": {
         "name": "Forex Boys",
         "url": "https://open.spotify.com/album/7sCoQZBfoNTdGlTdR2Fcgg"
       },
@@ -1348,7 +1388,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 165063,
       "name": "Happy Day",
       "url": "https://open.spotify.com/track/6x1R2hxbuFu8SfwnfuEddZ"
@@ -1436,6 +1476,24 @@
       "duration_ms": 135941,
       "name": "Hi Hi",
       "url": "https://open.spotify.com/track/7udshzJFOOChc3pUehXDbf"
+    },
+    {
+      "album": {
+        "name": "Afghanistans",
+        "url": "https://open.spotify.com/album/6IbS4932vgFWufdwMxZBkb"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129557,
+      "name": "Hilux",
+      "url": "https://open.spotify.com/track/7fxJixThxRS7DdBxcrVJ0s"
     },
     {
       "album": {
@@ -1846,7 +1904,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 125879,
       "name": "Kawasaki",
       "url": "https://open.spotify.com/track/14bzgxQBrUAyntSm0L41N6"
@@ -2290,7 +2348,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 358550,
       "name": "Mnike (Remix) (feat. DJ Maphorisa, Shallipopi, Lojay, Ceeka RSA, Tyrone Dee & Nandipha808)",
       "url": "https://open.spotify.com/track/77q3rIpcqFsTo7qNvKNiOh"
@@ -2584,6 +2642,24 @@
       "duration_ms": 187368,
       "name": "NO SLEEP $$$ (feat. Young Jonn)",
       "url": "https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/1kNoTSNjuWqCNUiqU60Uzz"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/6DQu81A5iHhpxbl2isjP9m"
     },
     {
       "album": {
@@ -3150,7 +3226,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 197522,
       "name": "Scenes",
       "url": "https://open.spotify.com/track/0Pdp2f6EmVtuaDciWeg32N"

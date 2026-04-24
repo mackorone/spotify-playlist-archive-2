@@ -269,6 +269,28 @@
     },
     {
       "album": {
+        "name": "TURR4ZO",
+        "url": "https://open.spotify.com/album/5nUfysd9pD76m2nxU0qHmU"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169597,
+      "name": "90s",
+      "url": "https://open.spotify.com/track/4JVmGFR0Qfx2XzF2pNg46Z"
+    },
+    {
+      "album": {
         "name": "A Donde Vas Si Te Vas | CROSSOVER #6",
         "url": "https://open.spotify.com/album/5BtAmX3V5FPwiFYSlJYa8C"
       },
@@ -3431,6 +3453,28 @@
     },
     {
       "album": {
+        "name": "FIFA",
+        "url": "https://open.spotify.com/album/213uunndQ2NsIwSA6ryD3e"
+      },
+      "artists": [
+        {
+          "name": "doppel gangs",
+          "url": "https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207111,
+      "name": "FIFA",
+      "url": "https://open.spotify.com/track/6vCJt3yr9ww6EtnaSnx1Mg"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
       },
@@ -5408,7 +5452,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 219201,
       "name": "Mamichula - con Nicki Nicole",
       "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"
@@ -10312,7 +10356,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 187172,
       "name": "Young Miko: Bzrp Music Sessions, Vol. 58/66",
       "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
@@ -10330,7 +10374,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 174546,
       "name": "\u00bfC\u00f3mo Pas\u00f3?",
       "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"

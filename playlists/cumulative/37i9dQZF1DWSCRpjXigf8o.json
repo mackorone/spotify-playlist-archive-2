@@ -2184,7 +2184,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 197746,
       "name": "codepending",
       "url": "https://open.spotify.com/track/1WMTEpq5ngLwPGRV1fq5yx"
@@ -7352,6 +7352,24 @@
       "duration_ms": 264690,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/5bwL1JGq1j4SFfCSGZtwZd"
+    },
+    {
+      "album": {
+        "name": "pineapple bun",
+        "url": "https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md"
+      },
+      "artists": [
+        {
+          "name": "Dessy",
+          "url": "https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209655,
+      "name": "pineapple bun",
+      "url": "https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd"
     },
     {
       "album": {

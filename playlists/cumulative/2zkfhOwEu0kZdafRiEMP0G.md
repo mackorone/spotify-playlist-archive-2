@@ -4,7 +4,7 @@
 
 > 
 
-125 songs - 8 hr 41 min
+126 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Rebirthing](https://open.spotify.com/track/1OG0QQa2zZe4QeFwVhCiiA) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:53 | 2026-03-30 |  |
 | [Rent](https://open.spotify.com/track/26RykSLUNpC2BymCxJgvTn) | [Anthony Rapp](https://open.spotify.com/artist/3GZGJ33pJdAdUL6IQpK8mR), [Adam Pascal](https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi), [Jesse L\. Martin](https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I), [Taye Diggs](https://open.spotify.com/artist/7kVuFisXCpEHzbw8DVp2Zf), [Cast of the Motion Picture RENT](https://open.spotify.com/artist/1x1j39j1KEKsI1oCMQov7K) | [RENT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JR7tGOAvqFSpVmDlCzHIJ) | 3:59 | 2025-07-13 | 2025-10-23 |
 | [Ricochet](https://open.spotify.com/track/1ocR8gUE4fBfNJZtBr0TFQ) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Vessels](https://open.spotify.com/album/4iJ9B2uDKJzclQo7U9BqS8) | 5:10 | 2025-06-01 | 2026-03-31 |
+| [RUNNING](https://open.spotify.com/track/1l0wPhFZP1kWkZNQrrYrGy) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 4:13 | 2026-04-23 |  |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2025-12-27 |  |
 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2025-05-22 |  |
 | [Santa Fe](https://open.spotify.com/track/6aWJOPC5gpjTpRiyvrFOQm) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub) | [Newsies \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk) | 3:12 | 2025-10-11 |  |

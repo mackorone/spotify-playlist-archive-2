@@ -643,6 +643,24 @@
     },
     {
       "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/7anasJl63DD4VHcxvyV5wA"
+      },
+      "artists": [
+        {
+          "name": "$pacely",
+          "url": "https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/1HetMT1bAScgMKcwxJLyuN"
+    },
+    {
+      "album": {
         "name": "Agenda",
         "url": "https://open.spotify.com/album/1WJBC1VH6AkS5JXChdxcf1"
       },
@@ -5063,6 +5081,28 @@
     },
     {
       "album": {
+        "name": "Healing Power",
+        "url": "https://open.spotify.com/album/1v65fLyHVIDVahmfkhJ9WI"
+      },
+      "artists": [
+        {
+          "name": "Guvna B",
+          "url": "https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Healing Power",
+      "url": "https://open.spotify.com/track/0YzQFpH5N1RBQJAtXUwzst"
+    },
+    {
+      "album": {
         "name": "Heard You Trouble",
         "url": "https://open.spotify.com/album/3yj8UL3JnT7wlYhVoQBML0"
       },
@@ -6746,7 +6786,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 164745,
       "name": "Makoma",
       "url": "https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC"
@@ -8301,6 +8341,24 @@
     },
     {
       "album": {
+        "name": "Obiaa Nte Mase",
+        "url": "https://open.spotify.com/album/2AHcKhDSVatchekMAEZGET"
+      },
+      "artists": [
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Obiaa Nte Mase",
+      "url": "https://open.spotify.com/track/30a0k5w2WkXeqsIdXCiwNk"
+    },
+    {
+      "album": {
         "name": "Obrempong",
         "url": "https://open.spotify.com/album/1Ha74jk2foDfMrWRVzKAHP"
       },
@@ -9016,7 +9074,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 140166,
       "name": "Paris",
       "url": "https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ"
@@ -13230,7 +13288,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 184615,
       "name": "Zormizor (Asabone)",
       "url": "https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj"

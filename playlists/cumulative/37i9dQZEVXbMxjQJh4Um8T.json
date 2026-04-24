@@ -5632,7 +5632,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 248133,
       "name": "Confident",
       "url": "https://open.spotify.com/track/3JsydWaf2Ev4ehaLUjj3SY"
@@ -5654,7 +5654,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 248146,
       "name": "Confident - Single Version",
       "url": "https://open.spotify.com/track/6czM6UMQD9qE5GAUp68oud"
@@ -8400,10 +8400,32 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 201946,
       "name": "Eenie Meenie",
       "url": "https://open.spotify.com/track/4vVTI94F9uJ8lHNDWKv0i2"
+    },
+    {
+      "album": {
+        "name": "Eenie Meenie EP",
+        "url": "https://open.spotify.com/album/6DOZI2LfBRYHRhZV21LrOu"
+      },
+      "artists": [
+        {
+          "name": "Sean Kingston",
+          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201973,
+      "name": "Eenie Meenie - Radio Version",
+      "url": "https://open.spotify.com/track/4Yaw2PmyOETOnEM3TCf98I"
     },
     {
       "album": {
@@ -15436,7 +15458,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 192111,
       "name": "LA VILLA",
       "url": "https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI"
@@ -17170,7 +17192,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 130090,
       "name": "Makina Time",
       "url": "https://open.spotify.com/track/0pbejM4t6ipTdwmvYCQsfX"
@@ -17204,7 +17226,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 130090,
       "name": "Makina Time",
       "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
@@ -19148,7 +19170,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 187016,
       "name": "nana triste",
       "url": "https://open.spotify.com/track/721Lxh9pNJJhNERON4Zjmw"
@@ -19376,7 +19398,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 248440,
       "name": "NI BORRACHO",
       "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
@@ -22562,7 +22584,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 126335,
       "name": "Que culpa tiene el lunes de no ser un sabado",
       "url": "https://open.spotify.com/track/5bDRGw4njjPCO5ZYvSgRXr"
@@ -25042,7 +25064,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 251360,
       "name": "SI EST\u00c1S CON ALGUIEN",
       "url": "https://open.spotify.com/track/7nyk5uxevcijIfl1FlJgmA"
@@ -29402,7 +29424,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 182368,
       "name": "Tutu Tur\u00fa",
       "url": "https://open.spotify.com/track/0nMNmyhAnUSNNJ8YjzCnWA"

@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 204465,
+  "num_followers": 204475,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAB9jmibMTnHj/EAdch6L7n+",
+  "snapshot_id": "aegPgAAAAADUCPiiYdvJWPnwxqLxupdU",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waylon & Willie",
-        "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 157913,
-      "name": "Mammas Don't Let Your Babies Grow up to Be Cowboys",
-      "url": "https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ol' Waylon",
         "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 201898,
       "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waylon & Willie",
+        "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 157913,
+      "name": "Mammas Don't Let Your Babies Grow up to Be Cowboys",
+      "url": "https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy"
     },
     {
       "added_at": null,
@@ -199,6 +199,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live - American Outlaws",
+        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "(Ghost) Riders in the Sky - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "url": "https://open.spotify.com/track/3ST1SVHTxxiGodhUeASN3h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Willie Nelson American Outlaw (Live)",
         "url": "https://open.spotify.com/album/5heTM7q5ly9IPwJIFSbKLp"
       },
@@ -287,38 +319,6 @@
       "duration_ms": 134266,
       "name": "Roll Me Up and Smoke Me When I Die - Live",
       "url": "https://open.spotify.com/track/5iis9J2sptrUy0VIpFVIg1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live - American Outlaws",
-        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 198133,
-      "name": "(Ghost) Riders in the Sky - Live at Nassau Coliseum, Uniondale, NY - March 1990",
-      "url": "https://open.spotify.com/track/3ST1SVHTxxiGodhUeASN3h"
     },
     {
       "added_at": null,
@@ -591,38 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live - American Outlaws",
-        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 147453,
-      "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys - Live at Nassau Coliseum, Uniondale, NY - March 1990",
-      "url": "https://open.spotify.com/track/4yxlMScRJzhghqmccPhgQP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -651,6 +619,38 @@
       "duration_ms": 169326,
       "name": "Big River",
       "url": "https://open.spotify.com/track/1ip07xbQWgehduEDY6j8r8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live - American Outlaws",
+        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 147453,
+      "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "url": "https://open.spotify.com/track/4yxlMScRJzhghqmccPhgQP"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yesterday's Wine",
-        "url": "https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "Me and Paul",
-      "url": "https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shotgun Willie",
         "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 157053,
       "name": "Shotgun Willie",
       "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yesterday's Wine",
+        "url": "https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "Me and Paul",
+      "url": "https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO"
     },
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 148293,
+      "name": "Cruel World",
+      "url": "https://open.spotify.com/track/166Dyvfibu4SOygA4vub85"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tuskegee (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 270573,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 148293,
-      "name": "Cruel World",
-      "url": "https://open.spotify.com/track/166Dyvfibu4SOygA4vub85"
     },
     {
       "added_at": null,
@@ -931,22 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Willie Nelson",
-        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 183453,
-      "name": "My Heroes Have Always Been Cowboys",
-      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "And Then I Wrote",
         "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 173001,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Willie Nelson",
+        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 183453,
+      "name": "My Heroes Have Always Been Cowboys",
+      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
     },
     {
       "added_at": null,
@@ -1079,8 +1079,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+        "name": "Red Headed Stranger",
+        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
       },
       "artists": [
         {
@@ -1088,9 +1088,9 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 233749,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/7iyd0aOJ2J54hENgLeGxCk"
+      "duration_ms": 239564,
+      "name": "Red Headed Stranger",
+      "url": "https://open.spotify.com/track/5buJ3E5gcaJvM3wRgwenFi"
     },
     {
       "added_at": null,
@@ -1111,8 +1111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red Headed Stranger",
-        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
       },
       "artists": [
         {
@@ -1120,9 +1120,9 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 239564,
-      "name": "Red Headed Stranger",
-      "url": "https://open.spotify.com/track/5buJ3E5gcaJvM3wRgwenFi"
+      "duration_ms": 233749,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/7iyd0aOJ2J54hENgLeGxCk"
     }
   ],
   "unique_name": "This Is Willie Nelson",

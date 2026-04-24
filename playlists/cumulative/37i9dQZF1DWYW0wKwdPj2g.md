@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-318 songs - 1 day 19 hr 17 min
+319 songs - 1 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [My Lover \- Live](https://open.spotify.com/track/7DdZb0zDfmg7dXGsUICh2E) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 8:24 | 2024-03-01 |  |
 | [My Worship \- Live](https://open.spotify.com/track/7nwC7KGXARrDEAw3kzP3MK) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [My Worship \(Live\)](https://open.spotify.com/album/5TQiS6WdCz1HEKnbSOsUAb) | 10:37 | 2024-02-23 |  |
 | [Nakupenda \- Live](https://open.spotify.com/track/7FhBF3erXmu9EwpIw2Wr3V) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Nakupenda \(Live\)](https://open.spotify.com/album/1lj8OzHxosFnVOahWkk6Xp) | 14:38 | 2026-01-23 | 2026-04-17 |
+| [Nana\-Owei Mbana \- Live](https://open.spotify.com/track/2i96rQ7m2wbNViszpMPOj3) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV) | [Nana\-Owei Mbana \(Live\)](https://open.spotify.com/album/4KNGV9MIjWGuxiQOvUFOhU) | 8:08 | 2026-04-24 |  |
 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 | 2024-04-05 |  |
 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 | 2024-02-23 |  |
 | [Never Again \- Live](https://open.spotify.com/track/0avSfabWivCociv7l1vKRM) | [Anthony Kani](https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO), [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Never Again \(Live\)](https://open.spotify.com/album/2YUIEDZNAge8KlCfIC8oam) | 11:04 | 2025-06-06 |  |

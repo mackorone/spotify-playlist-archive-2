@@ -4,7 +4,7 @@
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: LANA \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,455 songs - 5 day 3 hr 28 min
+2,457 songs - 5 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [143 \(feat\. MuKuRo & 13ELL\)](https://open.spotify.com/track/3lArJXJ4aEBQGX9XSpIC3E) | [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [MuKuRo](https://open.spotify.com/artist/7tTAJHjW4myAy5ivdgwhJc), [13ELL](https://open.spotify.com/artist/5QVAFVj5ujNUpjurU1wW9s) | [143 \(feat\. MuKuRo & 13ELL\)](https://open.spotify.com/album/5XF1GMZTcvLWf9hnxTY81A) | 2:26 | 2024-11-07 | 2025-01-08 |
 | [180](https://open.spotify.com/track/0UWUBGIvqn4sD479lvLhDx) | [CreativeDrugStore](https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn) | [180](https://open.spotify.com/album/6L0WrUO7vJaQowiMSNqu8C) | 3:05 | 2023-12-06 | 2023-12-13 |
 | [180](https://open.spotify.com/track/5xP7qZWK23N78R1ssYKdZ7) | [CreativeDrugStore](https://open.spotify.com/artist/6DejSeYRifbnPEN5mcRgRn) | [180](https://open.spotify.com/album/63BT3kAHpgwL3BEgCAMNyb) | 3:05 | 2023-12-06 | 2023-12-07 |
+| [19](https://open.spotify.com/track/3AAnGhMV7rfPpYbdyheboH) | [27AM](https://open.spotify.com/artist/2is0dsRjGdhfOeHUnFfJFm) | [19](https://open.spotify.com/album/0GFAE3KFTj4ginFYqXstJq) | 2:07 | 2026-04-23 |  |
 | [1942 \(feat\. YZERR\)](https://open.spotify.com/track/5C0hw5Fbygeep9k6tKn8zX) | [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [JUST ALBUM](https://open.spotify.com/album/3cQJs0ELJ6UsgtjNfXVCyu) | 3:30 | 2025-07-15 | 2025-10-01 |
 | [1997](https://open.spotify.com/track/6ZHRNjoMCSSJgqcAXGMdmR) | [Gypsey Well](https://open.spotify.com/artist/21rWxXkAd3jEw6299Rkv2V) | [1997](https://open.spotify.com/album/6ucrPncsZJ9bxIaix659N8) | 2:19 | 2023-09-26 | 2023-09-28 |
 | [1997](https://open.spotify.com/track/1HvkpFUSpO10BAgWYOb2ZN) | [Gypsy Well](https://open.spotify.com/artist/1VsvKeGxliar6b9Ps7MqGO) | [1997](https://open.spotify.com/album/5bJxaqYY3Nve9ekPeMht83) | 2:19 | 2023-09-26 | 2023-10-18 |
@@ -427,6 +428,7 @@
 | [CLOVER](https://open.spotify.com/track/3tEPX2fSLx5ugdhl0QpKng) | [Sound's Deli](https://open.spotify.com/artist/7dd46Nuonbm2HO2pZ8bdgB) | [CLOVER](https://open.spotify.com/album/1AKbPWDyGF2nTwVWuOsz7D) | 3:59 | 2024-01-30 | 2024-06-05 |
 | [coco freestyle](https://open.spotify.com/track/0PRduxqXvtIlqGoFuQrJzQ) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [Re:Born Tape](https://open.spotify.com/album/7Ab9dMLW61DCd83WtO8NaL) | 2:43 | 2024-07-31 | 2024-08-30 |
 | [COLD BLOOD POWER™](https://open.spotify.com/track/0ZopSzD46pwGzpaRkQIIz6) | [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY), [Roland Jones](https://open.spotify.com/artist/19deba9lIgvZdIThv0kykj) | [ENTER DA 凍京®︎](https://open.spotify.com/album/1lmwHtqjmHmbzUp7f5OAIl) | 2:10 | 2025-06-17 | 2025-07-30 |
+| [COLD DINNERCOLD DINNER](https://open.spotify.com/track/6aryaaeKpWhIz7aBgat7XT) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [Harka](https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze) | [COLD DINNERCOLD DINNER](https://open.spotify.com/album/2Pl0EDzQXKvczBgxlMk4om) | 2:43 | 2026-04-23 |  |
 | [Cold Life](https://open.spotify.com/track/2dr8YOQ4qVdwe7quKIhSph) | [Eric.B.Jr](https://open.spotify.com/artist/5iiCEORKky6Ecc38uEUXX0), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [EASTSIDEBABY](https://open.spotify.com/album/78aZZPnT74tVsYwP9kMMvs) | 3:34 | 2024-07-10 | 2024-09-18 |
 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 | 2024-01-23 | 2024-04-17 |
 | [COMFORTABLE](https://open.spotify.com/track/2AlJhfTeZbbotAlPPV3D8G) | [Shurkn Pap](https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB), [KOWICHI](https://open.spotify.com/artist/6CbooCqOA6MI23syacRER2) | [JIYU](https://open.spotify.com/album/1DlOMgYpMzmGrcBSoioKHB) | 2:45 | 2023-09-28 | 2023-09-30 |
@@ -1813,7 +1815,7 @@
 | [STAND BY ME](https://open.spotify.com/track/0eSnqzlCv7im0zOHzXW2fD) | [Cz Tiger](https://open.spotify.com/artist/2NddVWWEA3PMqhHXjgvBH1), [Bic](https://open.spotify.com/artist/7FVYaIFlCqgSIkIsLHUF9S) | [STAND BY ME](https://open.spotify.com/album/1J6BzneiHw9GADh715F14W) | 2:45 | 2024-09-03 | 2024-09-11 |
 | [Stand The Rain](https://open.spotify.com/track/2eGqB55ZbTK2MdPkW4UgjR) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Stand The Rain](https://open.spotify.com/album/2RHJMAAdxF2gAkRG8ovomg) | 2:50 | 2025-07-01 | 2025-11-12 |
 | [Stand up](https://open.spotify.com/track/25NezywSMkr06BEnNLgzik) | [AI jacky](https://open.spotify.com/artist/6cOuEef5ejInNSGz7d2OLU), [yus](https://open.spotify.com/artist/2m8tDoogfl5j6NF5qynNsq) | [Stand up](https://open.spotify.com/album/1CiZsUyseDBb5YqUPyq1Lg) | 3:48 | 2026-03-24 | 2026-04-08 |
-| [Star](https://open.spotify.com/track/3ciMhT60bphuNXyJSymDGm) | [HekA](https://open.spotify.com/artist/2KpKJbe1qq9BW4Fm50zTwx), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Star](https://open.spotify.com/album/4MI8Nc2mprUYMMqSpQppjd) | 2:27 | 2026-04-21 |  |
+| [Star](https://open.spotify.com/track/3ciMhT60bphuNXyJSymDGm) | [HekA](https://open.spotify.com/artist/2KpKJbe1qq9BW4Fm50zTwx), [KM](https://open.spotify.com/artist/4ROi1OhyKNZTE9MH2L8rA8) | [Star](https://open.spotify.com/album/4MI8Nc2mprUYMMqSpQppjd) | 2:27 | 2026-04-21 |  |
 | [STAR](https://open.spotify.com/track/6m77FBq2SlO1j6A3wSVBdD) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4) | [STAR](https://open.spotify.com/album/2WbdMXXKTrA9ZYhUBsHrNP) | 3:16 | 2024-06-25 | 2024-08-14 |
 | [STAR](https://open.spotify.com/track/2R8qKbBl22PixPZSs8Y8N6) | [Satussy](https://open.spotify.com/artist/5X1sEG0os9bpGVs9PMvEDq), [Jambo Lacquer](https://open.spotify.com/artist/0eCTHbWkpE5PHesKzCf4cQ), [COCOLO BLAND](https://open.spotify.com/artist/3qYpP7aCDOYMIFf8FloJ18) | [STAR](https://open.spotify.com/album/1kXl0u1fCIX9E36uLZSapB) | 3:12 | 2024-04-24 | 2024-05-01 |
 | [Starfish \(feat\. TOSHIKI HAYASHI \(%C\)\)](https://open.spotify.com/track/56voauWdYEIyL8yuZaeMka) | [maco marets](https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi), [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Starfish \(feat\. TOSHIKI HAYASHI \(%C\)\)](https://open.spotify.com/album/4zVkWuOsNvePd2Gjy79wPI) | 4:31 | 2024-11-06 | 2024-11-20 |

@@ -1,13 +1,37 @@
 {
   "description": "\u062a\u062f\u0648\u0651\u0631 \u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629\u061f \u0648\u0635\u0644\u062a \u062e\u064a\u0631",
-  "num_followers": 45817,
+  "num_followers": 45823,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL1QStdKEFaQSMJji2ptV0OxKK4J",
+  "snapshot_id": "AAAAAFMLs0HyYMyoh7/ITJE2k41hIruR",
   "tracks": [
+    {
+      "added_at": "2026-04-23 21:24:51",
+      "album": {
+        "name": "Abshir Wa Sam",
+        "url": "https://open.spotify.com/album/3sOegAUz9hgwGTdB2XWQR0"
+      },
+      "artists": [
+        {
+          "name": "Zena Emad",
+          "url": "https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH"
+        },
+        {
+          "name": "Borhan",
+          "url": "https://open.spotify.com/artist/0Cqxw4TpB3KidRUI3IQBgi"
+        },
+        {
+          "name": "Sultan Khalifa",
+          "url": "https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB"
+        }
+      ],
+      "duration_ms": 130063,
+      "name": "Abshir Wa Sam",
+      "url": "https://open.spotify.com/track/5T8FoIb2JCufW7QZYgg4yr"
+    },
     {
       "added_at": "2026-04-14 18:29:59",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Ramy Sabry
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,951 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,960 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 54 | [Jarh 9Dim](https://open.spotify.com/track/2D90uQttl2UcZRgYDKDIMD) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Jarh 9dim](https://open.spotify.com/album/7K2R7t8bkj3N8T58r48tVw) | 2:57 |
 | 55 | [محدش مرتاح](https://open.spotify.com/track/0XdQriStcL1WXypbanUGbJ) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [محدش مرتاح](https://open.spotify.com/album/4osmODYCVbGqmWomQzQUAc) | 3:58 |
 | 56 | [Mazag \(تتر مسلسل مناعة\)](https://open.spotify.com/track/5B848rXELrdNBgMncVUJ1Q) | [Houda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [Mazag \(تتر مسلسل مناعة\)](https://open.spotify.com/album/1uhzU9QVyP6VrRwXgNsvjh) | 2:58 |
-| 57 | [الكينج](https://open.spotify.com/track/3TfALiNXqwnBxm1ZU2P31w) | [Felo](https://open.spotify.com/artist/4JhWEqWfwTQywn7lKkNWt5), [Mohamed Flestiny](https://open.spotify.com/artist/040pip7wl4JckfZ6P87GE8) | [الكينج](https://open.spotify.com/album/4rYGZR8WORC0cI0ZhmjaUu) | 2:22 |
-| 58 | [حضرات السادة](https://open.spotify.com/track/1Z4Rd2m5gjmyU4BIXqzUZo) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Mariam Aziz](https://open.spotify.com/artist/563PinGcFs6wzMU2fxgeXD) | [حضرات السادة](https://open.spotify.com/album/7M5PupuhIP6Y5GzMnHsGlp) | 2:26 |
-| 59 | [تتر بداية مسلسل حضرة المتهم ابى](https://open.spotify.com/track/5COgLbmTHp3B8yK0jNwM4Q) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0) | [تتر بداية مسلسل حضرة المتهم ابى](https://open.spotify.com/album/57XMDkPtykpcx6STtVMPlh) | 3:54 |
-| 60 | [تحية \- من مسلسل لعبة وقلبت بجد](https://open.spotify.com/track/47ZPOStAXyjOvmO8MNPyGQ) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [تحية \(من مسلسل لعبة وقلبت بجد\)](https://open.spotify.com/album/4EQMImTVpj4VJrd5rdFjRk) | 2:24 |
+| 57 | [حضرات السادة](https://open.spotify.com/track/1Z4Rd2m5gjmyU4BIXqzUZo) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Mariam Aziz](https://open.spotify.com/artist/563PinGcFs6wzMU2fxgeXD) | [حضرات السادة](https://open.spotify.com/album/7M5PupuhIP6Y5GzMnHsGlp) | 2:26 |
+| 58 | [تتر بداية مسلسل حضرة المتهم ابى](https://open.spotify.com/track/5COgLbmTHp3B8yK0jNwM4Q) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0) | [تتر بداية مسلسل حضرة المتهم ابى](https://open.spotify.com/album/57XMDkPtykpcx6STtVMPlh) | 3:54 |
+| 59 | [الكينج](https://open.spotify.com/track/3TfALiNXqwnBxm1ZU2P31w) | [Felo](https://open.spotify.com/artist/4JhWEqWfwTQywn7lKkNWt5), [Mohamed Flestiny](https://open.spotify.com/artist/040pip7wl4JckfZ6P87GE8) | [الكينج](https://open.spotify.com/album/4rYGZR8WORC0cI0ZhmjaUu) | 2:22 |
+| 60 | [Hada Galbi](https://open.spotify.com/track/6a8cBPyvZRp5tzKbdMlq4M) | [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3), [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Hada Galbi](https://open.spotify.com/album/3QivozGICWQsP9Zl8hNulR) | 3:10 |
 
 Snapshot ID: `AAAAAMD9fgzJonQXgRzczga9BMMcOSWY`

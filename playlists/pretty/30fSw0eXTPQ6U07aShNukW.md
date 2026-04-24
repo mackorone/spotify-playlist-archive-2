@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/30fSw0eXTPQ6U07aShNukW.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Can I Get Wit Ya](https://open.spotify.com/track/0tiOpWdngcEaqFD8BVIDZ6) | [socialite](https://open.spotify.com/artist/2jUXLC7ZYuuzaWeeI6wCKe) | [Can I Get Wit Ya](https://open.spotify.com/album/0fiP1U2WCyUO3rKVOSgfi8) | 3:01 |
+| 1 | [Can I Get Wit Ya](https://open.spotify.com/track/0tiOpWdngcEaqFD8BVIDZ6) | [Coffee Windows](https://open.spotify.com/artist/0kZb4YfqU3EZbqVxWCJQMi) | [Can I Get Wit Ya](https://open.spotify.com/album/0fiP1U2WCyUO3rKVOSgfi8) | 3:01 |
 | 2 | [Brand New Day](https://open.spotify.com/track/5BRNOoY1kWixSHG36Pcyj0) | [Ryan Star](https://open.spotify.com/artist/01LfDhfF9mkpmEwRalZCmO) | [11:59 \(Deluxe\)](https://open.spotify.com/album/50U6BTYJotIaPUBOUBInTL) | 3:14 |
 | 3 | [Too Sweet](https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/48qd9sU3xqYJbKaxHCciJL) | 4:11 |
 | 4 | [Cosby Sweater](https://open.spotify.com/track/6myDPrp86x4Lhyp5aqU0EV) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Walking Under Stars](https://open.spotify.com/album/7Lp5k5j4kHtTT8zOpJkfUN) | 3:37 |

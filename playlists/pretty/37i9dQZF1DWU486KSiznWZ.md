@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > نخبة الأغاني الخليجية\. الغلاف: عايض
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,384 likes - 40 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,414 likes - 40 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 39 | [Gedidi Ent](https://open.spotify.com/track/1V0IXSeAke4TvLjy1cNIdj) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Gedidi Ent](https://open.spotify.com/album/2XMuog8bq0jcsClWvVzebk) | 4:21 |
 | 40 | [كلنا أهل](https://open.spotify.com/track/2RSuZdL9sdYlaxAsfwXYRY) | [Humood AlKhudher](https://open.spotify.com/artist/0m5YepvtZWhXhNhAqrc50S), [Salah Al Zadjali](https://open.spotify.com/artist/2zrCAcIqROY4WLtgtLzbwh) | [كلنا أهل](https://open.spotify.com/album/4w1bffN9okVI4io7HdWfqj) | 3:03 |
 
-Snapshot ID: `AAAAABrw4v/ye5TQHzOmZslOBC3Z8G3q`
+Snapshot ID: `AAAAACdjlbYXTtX5RZUBE3hpT6h7N8/4`

@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 38407,
+  "num_followers": 38411,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAABSy+3KocBJZ0NoW6005Xa",
+  "snapshot_id": "aegPgAAAAAD4pv/uDeXzJZRYL6VOELTZ",
   "tracks": [
     {
       "added_at": null,
@@ -43,30 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out Of The Dark",
-        "url": "https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        },
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Bleed The Same",
-      "url": "https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burn The Ships (Deluxe Edition: Remixes & Collaborations)",
         "url": "https://open.spotify.com/album/5bZuiwMXhNgCTPXgKh3nOb"
       },
@@ -87,6 +63,30 @@
       "duration_ms": 206103,
       "name": "TOGETHER",
       "url": "https://open.spotify.com/track/1D9qrTl2rVrS2XP9RDLLs0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out Of The Dark",
+        "url": "https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        },
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Bleed The Same",
+      "url": "https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS"
     },
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kirk Franklin and the Family",
-        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 355160,
-      "name": "Why We Sing - Live",
-      "url": "https://open.spotify.com/track/3NBygJfkCX6zbEUljzh2gv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rebirth Of Kirk Franklin (Live)",
         "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 307733,
       "name": "Hosanna - Live at Lakewood Church, Houston, TX - June 16, 2000",
       "url": "https://open.spotify.com/track/7H7uouUOWcBHnBJkAf77Tm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kirk Franklin and the Family",
+        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 355160,
+      "name": "Why We Sing - Live",
+      "url": "https://open.spotify.com/track/3NBygJfkCX6zbEUljzh2gv"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kirk Franklin and the Family",
-        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "He's Able - Live",
-      "url": "https://open.spotify.com/track/537bauuRZw1QMo3Ya4vZrz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rebirth Of Kirk Franklin (Live)",
         "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 265866,
       "name": "He Reigns / Awesome God - Live at Lakewood Church, Houston, TX - June 16, 2000",
       "url": "https://open.spotify.com/track/4mDkFfjm82m9goCcumFeL7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kirk Franklin and the Family",
+        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "He's Able - Live",
+      "url": "https://open.spotify.com/track/537bauuRZw1QMo3Ya4vZrz"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 378200,
-      "name": "A God Like You",
-      "url": "https://open.spotify.com/track/5Gfp6euoNJPw5AvSpGZSRZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rebirth Of Kirk Franklin (Live)",
         "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 368560,
       "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
       "url": "https://open.spotify.com/track/7H9ye7JTsRRlOFeOOlb1v6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 378200,
+      "name": "A God Like You",
+      "url": "https://open.spotify.com/track/5Gfp6euoNJPw5AvSpGZSRZ"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kirk Franklin Presents: Songs For The Storm, Volume 1",
-        "url": "https://open.spotify.com/album/6ZU8KFm0WRJw1vfwepNRdO"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 286960,
-      "name": "Melodies From Heaven - With Kirk Franklin Outro",
-      "url": "https://open.spotify.com/track/0lidygcxcvRwlgMslWMCVs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LONG LIVE LOVE",
         "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 391695,
       "name": "Father Knows Best",
       "url": "https://open.spotify.com/track/5PWXxYsrzyQQNeNwrRmmu2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kirk Franklin Presents: Songs For The Storm, Volume 1",
+        "url": "https://open.spotify.com/album/6ZU8KFm0WRJw1vfwepNRdO"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 286960,
+      "name": "Melodies From Heaven - With Kirk Franklin Outro",
+      "url": "https://open.spotify.com/track/0lidygcxcvRwlgMslWMCVs"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Restoration",
-        "url": "https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 241988,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/1bO3GYFQ1ZPXHa1EUtKJlt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celebrate",
         "url": "https://open.spotify.com/album/55dqkiYJ5qPBBPQkTQD5MO"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 449882,
       "name": "Something About The Name Jesus (feat. Kirk Franklin) - Producer's Remix",
       "url": "https://open.spotify.com/track/6H687qoB0Jw97cIQ3vM8Yf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Restoration",
+        "url": "https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 241988,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/1bO3GYFQ1ZPXHa1EUtKJlt"
     },
     {
       "added_at": null,

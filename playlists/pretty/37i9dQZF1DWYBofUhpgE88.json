@@ -1,6 +1,6 @@
 {
   "description": "per spingere come veri gym bro e gym sis",
-  "num_followers": 371630,
+  "num_followers": 371650,
   "original_name": "ADRENALINA",
   "owner": {
     "name": "Spotify",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-04-22 08:32:24",
       "album": {
+        "name": "Give It To Me (Full Vocal Mix)",
+        "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        }
+      ],
+      "duration_ms": 102860,
+      "name": "Give It To Me - Full Vocal Mix",
+      "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
+    },
+    {
+      "added_at": "2026-04-22 08:32:24",
+      "album": {
         "name": "BAND4BAND (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 140733,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
-    },
-    {
-      "added_at": "2026-04-22 08:32:24",
-      "album": {
-        "name": "Schiena",
-        "url": "https://open.spotify.com/album/1CSskxZMvTHis0a3YwBOHR"
-      },
-      "artists": [
-        {
-          "name": "Emma",
-          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "L'Amore Non Mi Basta",
-      "url": "https://open.spotify.com/track/1YaSQXYPqhwtw35Wf3Z0nI"
     },
     {
       "added_at": "2026-04-22 08:32:24",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2026-04-22 08:32:24",
       "album": {
-        "name": "Give It To Me (Full Vocal Mix)",
-        "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
+        "name": "Schiena",
+        "url": "https://open.spotify.com/album/1CSskxZMvTHis0a3YwBOHR"
       },
       "artists": [
         {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
         }
       ],
-      "duration_ms": 102860,
-      "name": "Give It To Me - Full Vocal Mix",
-      "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
+      "duration_ms": 211453,
+      "name": "L'Amore Non Mi Basta",
+      "url": "https://open.spotify.com/track/1YaSQXYPqhwtw35Wf3Z0nI"
     },
     {
       "added_at": "2026-04-22 08:32:24",
@@ -1763,6 +1763,26 @@
     {
       "added_at": "2026-04-22 08:32:24",
       "album": {
+        "name": "Actual Life 3 (January 1 - September 9 2022)",
+        "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Danielle (smile on my face)",
+      "url": "https://open.spotify.com/track/09Rv6ctDE0t9z8zk5FINg8"
+    },
+    {
+      "added_at": "2026-04-22 08:32:24",
+      "album": {
         "name": "Warzone (feat. Artie 5ive, Capo Plaza & Nerissima Serpe)",
         "url": "https://open.spotify.com/album/3AXrg1yOKAwMlUbRDRfQbu"
       },
@@ -1787,26 +1807,6 @@
       "duration_ms": 146526,
       "name": "Warzone (feat. Artie 5ive, Capo Plaza & Nerissima Serpe)",
       "url": "https://open.spotify.com/track/6iFfFjKnr615pD7aL5Z2Cx"
-    },
-    {
-      "added_at": "2026-04-22 08:32:24",
-      "album": {
-        "name": "Actual Life 3 (January 1 - September 9 2022)",
-        "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Danielle (smile on my face)",
-      "url": "https://open.spotify.com/track/09Rv6ctDE0t9z8zk5FINg8"
     },
     {
       "added_at": "2026-04-22 08:32:24",

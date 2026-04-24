@@ -1,12 +1,12 @@
 {
   "description": "This is Esteban Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 22927,
+  "num_followers": 22928,
   "original_name": "This Is Esteban Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAClotar8WkFkbAePmnygfT0",
+  "snapshot_id": "aegPgAAAAABHq5SEOIgHCQoBC360IyaR",
   "tracks": [
     {
       "added_at": null,
@@ -635,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Ven Manejando",
-        "url": "https://open.spotify.com/album/4zdL0W4Jzfy4aKTSRpSP3S"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        },
-        {
-          "name": "Trae Tha Truth",
-          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
-        }
-      ],
-      "duration_ms": 205538,
-      "name": "Me Ven Manejando",
-      "url": "https://open.spotify.com/track/2T52ALl72hzvYhYahoqBIK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Traguitos De Mezcal",
         "url": "https://open.spotify.com/album/1CQEb9gIBeUq7qQ0y9UcUI"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 159900,
       "name": "Traguitos De Mezcal",
       "url": "https://open.spotify.com/track/0vE5RlP0vbOVTV11EvhjT0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Ven Manejando",
+        "url": "https://open.spotify.com/album/4zdL0W4Jzfy4aKTSRpSP3S"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        },
+        {
+          "name": "Trae Tha Truth",
+          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
+        }
+      ],
+      "duration_ms": 205538,
+      "name": "Me Ven Manejando",
+      "url": "https://open.spotify.com/track/2T52ALl72hzvYhYahoqBIK"
     },
     {
       "added_at": null,
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 152525,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/453sDOvAWU4QVvGegD46du"
+      "duration_ms": 170747,
+      "name": "Es Prohibido",
+      "url": "https://open.spotify.com/track/7s4uLGtxqsyxQEjmCkvCok"
     },
     {
       "added_at": null,
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 170747,
-      "name": "Es Prohibido",
-      "url": "https://open.spotify.com/track/7s4uLGtxqsyxQEjmCkvCok"
+      "duration_ms": 152525,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/453sDOvAWU4QVvGegD46du"
     }
   ],
   "unique_name": "This Is Esteban Gabriel",

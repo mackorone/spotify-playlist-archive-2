@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 524933,
+  "num_followers": 524950,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAD0eWYqkPBlcsDVaST11kjh",
+  "snapshot_id": "aegPgAAAAACywS21Ug2fSBUoKfi50E/R",
   "tracks": [
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Te Muerdes el Labio",
-        "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Diazepam",
-      "url": "https://open.spotify.com/track/2KrXkY8yRsncGk2kXPD4Zt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mientras T\u00fa Dorm\u00edas",
         "url": "https://open.spotify.com/album/6RGg8cAP8BYFHA8rvw5eXF"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 188360,
       "name": "Pajarito del Amor",
       "url": "https://open.spotify.com/track/6blu785mOCiouD28NuComZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando Te Muerdes el Labio",
+        "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Diazepam",
+      "url": "https://open.spotify.com/track/2KrXkY8yRsncGk2kXPD4Zt"
     },
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tengo Que Contarte",
-        "url": "https://open.spotify.com/album/3p0KnHePOqQUsMlO2KJvAd"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Tengo Que Contarte",
-      "url": "https://open.spotify.com/track/49jBvu8SdrYGTIZCSbEKFj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
         "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 223426,
       "name": "Soy Lo Prohibido (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/1g2ArBYODteuzTtYN7qOT2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tengo Que Contarte",
+        "url": "https://open.spotify.com/album/3p0KnHePOqQUsMlO2KJvAd"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "Tengo Que Contarte",
+      "url": "https://open.spotify.com/track/49jBvu8SdrYGTIZCSbEKFj"
     },
     {
       "added_at": null,
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
         }
       ],
-      "duration_ms": 225573,
-      "name": "Mi Tierra Veracruzana (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/1CIuTzWLQ3sxScgFJzUhWT"
+      "duration_ms": 224533,
+      "name": "Son Amores (That's Amore) (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/10HQmG706HZtAhXRypWw01"
     },
     {
       "added_at": null,
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
         }
       ],
-      "duration_ms": 224533,
-      "name": "Son Amores (That's Amore) (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/10HQmG706HZtAhXRypWw01"
+      "duration_ms": 225573,
+      "name": "Mi Tierra Veracruzana (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/1CIuTzWLQ3sxScgFJzUhWT"
     },
     {
       "added_at": null,

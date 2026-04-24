@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits avec Zaho & MC Solaar !",
+  "description": "Le meilleur des hits avec Bruno Mars !",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -288,6 +288,28 @@
       "duration_ms": 188960,
       "name": "Aim\u00e9e pour de vrai",
       "url": "https://open.spotify.com/track/3MFphLI59LK2MqvVY9ZMTZ"
+    },
+    {
+      "album": {
+        "name": "ALGO T\u00da",
+        "url": "https://open.spotify.com/album/7jpTAGolkBbMuFyegBwBNo"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213011,
+      "name": "ALGO T\u00da",
+      "url": "https://open.spotify.com/track/1dHbcmMm9bov1q4lG7Q4nQ"
     },
     {
       "album": {
@@ -2211,6 +2233,24 @@
     },
     {
       "album": {
+        "name": "Dansons",
+        "url": "https://open.spotify.com/album/18y0UlYOveexsqLeSswHG5"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206002,
+      "name": "Dansons",
+      "url": "https://open.spotify.com/track/7qRK8GXzeSjfOOjDASmXs8"
+    },
+    {
+      "album": {
         "name": "Danza Kuduro (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/6Kd4z1ibE3aDC6lXOs3eMV"
       },
@@ -3129,6 +3169,24 @@
     },
     {
       "album": {
+        "name": "Gamin des sables",
+        "url": "https://open.spotify.com/album/6dkbB7EVwEmfXEW45kGMVa"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9my Frerot",
+          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163806,
+      "name": "Fr\u00e9rot",
+      "url": "https://open.spotify.com/track/7kGtuW3ykAoOkXWnQ7O5yD"
+    },
+    {
+      "album": {
         "name": "Gabriela",
         "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
       },
@@ -3798,7 +3856,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 148671,
       "name": "I Can't Wait",
       "url": "https://open.spotify.com/track/3Udajvl5tdJY1RV9NPmTxe"
@@ -5465,6 +5523,28 @@
     },
     {
       "album": {
+        "name": "Madan",
+        "url": "https://open.spotify.com/album/3AokLsMzl3QqAJNsnFqhiq"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Thanda Choir",
+          "url": "https://open.spotify.com/artist/0A2XryBGpXQ6fYWTRTzl9a"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145453,
+      "name": "Madan",
+      "url": "https://open.spotify.com/track/09FK2Wj7NUg7WtSwM7Qbpi"
+    },
+    {
+      "album": {
         "name": "Madrid City",
         "url": "https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98"
       },
@@ -6188,7 +6268,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 231600,
       "name": "No Name - Single Version",
       "url": "https://open.spotify.com/track/0vG8huSd6GX6IbDZCAZlay"
@@ -7232,7 +7312,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 165420,
       "name": "Sar\u00e0 perch\u00e8 ti amo",
       "url": "https://open.spotify.com/track/7xfOV2VUEd39JXePJ1j9Os"
@@ -7780,7 +7860,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 183307,
       "name": "SPA",
       "url": "https://open.spotify.com/track/5UpupDvr2w93ccnEmmhS5q"
@@ -8367,6 +8447,24 @@
     },
     {
       "album": {
+        "name": "The Way We Touch",
+        "url": "https://open.spotify.com/album/4BZUr9W8PmYcwfzM6aHg12"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189588,
+      "name": "The Way We Touch",
+      "url": "https://open.spotify.com/track/4A5RlP9QGsqPdTwCOpcwKK"
+    },
+    {
+      "album": {
         "name": "Radical Optimism",
         "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
       },
@@ -8758,7 +8856,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 231891,
       "name": "Unfaithful",
       "url": "https://open.spotify.com/track/342is2Mbd5vqTD5HADpRz8"

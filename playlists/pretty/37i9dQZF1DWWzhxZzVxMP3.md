@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 
 > Well\-known songs in a soft, chill Bossa vibe🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,625 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,682 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 22 | [Here With Me](https://open.spotify.com/track/79zZq9vB2Ih6E1aHupvMD8) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Mia Rainn](https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP) | [Here With Me](https://open.spotify.com/album/42k2R4x3MRWiN9n8PNVe49) | 2:39 |
 | 23 | [Bad Guy](https://open.spotify.com/track/2fbvnbUixQ8vE8w9DlNNp2) | [My Romance](https://open.spotify.com/artist/5V4HI1my30UH7Mhrg0p5YR) | [One Day At A Time](https://open.spotify.com/album/0tyGp30fKcFKR41C2pdsxb) | 2:47 |
 | 24 | [Kiss Me](https://open.spotify.com/track/6CGo6W8AMX9AIQ2lAgQFeN) | [Duane Katz](https://open.spotify.com/artist/2wNsnKopOU7W1Q73oiOEw1) | [Kiss Me](https://open.spotify.com/album/122kp3WDqMCSDyMAZQNKBG) | 2:32 |
-| 25 | [The Middle](https://open.spotify.com/track/5Rzymd9Rm6MnQOxqlnaOcK) | [Gabriela Silva](https://open.spotify.com/artist/4yjMLpy60dZKf0teUyRNmb) | [The Middle](https://open.spotify.com/album/4uG552NeMwBnvwyDqqR7ix) | 3:48 |
+| 25 | [The Middle](https://open.spotify.com/track/5Rzymd9Rm6MnQOxqlnaOcK) | [Gabriela Silva](https://open.spotify.com/artist/7aG9ko9uh8oQK0py75VWDr) | [The Middle](https://open.spotify.com/album/4uG552NeMwBnvwyDqqR7ix) | 3:48 |
 | 26 | [Levitating](https://open.spotify.com/track/2c4WIQiQF3lWJH30MTm5EE) | [Bossanova Tribute](https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic) | [Levitating](https://open.spotify.com/album/1tVDdnR7JmqOOa38mJwOAF) | 3:28 |
 | 27 | [Just Like Heaven](https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 4:12 |
 | 28 | [Burn Rubber on Me \(Why You Wanna Hurt Me\)](https://open.spotify.com/track/0TyDl7iD1aj2D78xv4UZ1K) | [Luca Giacco](https://open.spotify.com/artist/506zjFvbbNJcjxY260lHDC) | [Burn Rubber on Me \(Why You Wanna Hurt Me\)](https://open.spotify.com/album/4Sw1zXyim0qRy7R19FaO1Y) | 2:48 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 88 | [Beautiful Girls \- Bossa Nova](https://open.spotify.com/track/3AVxDlk6ZEkqYTFZ4lxGzr) | [J\-Que Beenz](https://open.spotify.com/artist/0acIWCh2fgq3vfr2D1P1XS) | [Beautiful Girls \(Bossa Nova\)](https://open.spotify.com/album/3sTeLngydHmUMDr1mok0n0) | 3:59 |
 | 89 | [I Want It That Way \- Bossa Nova](https://open.spotify.com/track/6Yra3zacq7fcy0TD1qtdht) | [de$ mondo](https://open.spotify.com/artist/0rsEBXnTEhYcnYnewKXhSS) | [I Want It That Way \(Bossa Nova\)](https://open.spotify.com/album/45NPNH2t9ZnkS5gyIz1NWT) | 2:44 |
 | 90 | [Collide](https://open.spotify.com/track/6eKyomPI3ztAYr1jh6BkwH) | [New Years Project](https://open.spotify.com/artist/2GY2ioDVVpd3NwPwevr5Bu) | [Collide](https://open.spotify.com/album/6qeWEQ0QZq3kotA1IQ8qpJ) | 2:40 |
-| 91 | [If I Can't Have You](https://open.spotify.com/track/0NREkFloGwchkD4AKHZ10Y) | [Gabriela Silva](https://open.spotify.com/artist/4yjMLpy60dZKf0teUyRNmb) | [If I Can't Have You](https://open.spotify.com/album/120k8Zuxhz77mxl5fLXPuB) | 4:02 |
+| 91 | [If I Can't Have You](https://open.spotify.com/track/0NREkFloGwchkD4AKHZ10Y) | [Gabriela Silva](https://open.spotify.com/artist/7aG9ko9uh8oQK0py75VWDr) | [If I Can't Have You](https://open.spotify.com/album/120k8Zuxhz77mxl5fLXPuB) | 4:02 |
 | 92 | [Roxanne](https://open.spotify.com/track/73FGoCU9GtnqpdKmnIcci2) | [Pergalo](https://open.spotify.com/artist/2X9PYxLVuXmvp0REjgJ9iA) | [Roxanne](https://open.spotify.com/album/67Sf0jcDkShbIukRh1xCG6) | 3:02 |
 | 93 | [Smooth Operator](https://open.spotify.com/track/6njGXXxem020jKHJOgebtW) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu), [Anita Repilado](https://open.spotify.com/artist/70pGz6GredDMnL7WIcQ7Tx) | [nü Cubana](https://open.spotify.com/album/0vCKPqS7beoghKuXbeijmM) | 3:18 |
 | 94 | [Shake it off](https://open.spotify.com/track/5nNwRwb4ojpDMPmvdGa04f) | [Bossa Players](https://open.spotify.com/artist/5apIRYZ7s0gTvCb4qSpGHm) | [Shake it off](https://open.spotify.com/album/0gQgcdKcuTYWiQZWButlL0) | 3:27 |

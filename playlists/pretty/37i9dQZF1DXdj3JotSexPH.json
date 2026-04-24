@@ -1,12 +1,12 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 36069,
+  "num_followers": 36070,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMgm9Ky9z1wHw9sqQd5WV52QbVU+",
+  "snapshot_id": "AAAAAHLk06SGHq9irTMP1SNGWGi9apcj",
   "tracks": [
     {
       "added_at": "2026-04-13 15:38:24",
@@ -99,22 +99,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "PASSO BEM SOLTO",
-        "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
-      },
-      "artists": [
-        {
-          "name": "ATLXS",
-          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
-        }
-      ],
-      "duration_ms": 116072,
-      "name": "PASSO BEM SOLTO - Slowed",
-      "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "MATADORA",
         "url": "https://open.spotify.com/album/3quyIGy1dBWUoEVK7BWY9c"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 88615,
       "name": "MATADORA",
       "url": "https://open.spotify.com/track/7jqxHXlu3Ya7WF7lD7tIXj"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "PASSO BEM SOLTO",
+        "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
+      },
+      "artists": [
+        {
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+        }
+      ],
+      "duration_ms": 116072,
+      "name": "PASSO BEM SOLTO - Slowed",
+      "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Butterfly 2026",
+        "url": "https://open.spotify.com/album/1lwNp8Fmtac2FTiI1fh3w9"
+      },
+      "artists": [
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 164336,
+      "name": "Butterfly 2026",
+      "url": "https://open.spotify.com/track/1DznCjR8ml1o2j2bEG5kN6"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Vent",
         "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 227735,
       "name": "\u2060\u2060Butterflies",
       "url": "https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Butterfly 2026",
-        "url": "https://open.spotify.com/album/1lwNp8Fmtac2FTiI1fh3w9"
-      },
-      "artists": [
-        {
-          "name": "bradeazy",
-          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
-        },
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 164336,
-      "name": "Butterfly 2026",
-      "url": "https://open.spotify.com/track/1DznCjR8ml1o2j2bEG5kN6"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "In My Arms",
-        "url": "https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "In My Arms",
-      "url": "https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 169326,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "In My Arms",
+        "url": "https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "In My Arms",
+      "url": "https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Eu Sento Gabu!",
-        "url": "https://open.spotify.com/album/51F5iHYpECc8dd9Wjqv15o"
-      },
-      "artists": [
-        {
-          "name": "PXLWYSE",
-          "url": "https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH"
-        }
-      ],
-      "duration_ms": 83754,
-      "name": "Eu Sento Gabu!",
-      "url": "https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "TAKIN PICTURES",
         "url": "https://open.spotify.com/album/3mWmTY0nqpjXBsOtemOAVC"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 171696,
       "name": "TAKIN PICTURES",
       "url": "https://open.spotify.com/track/2Z0VrKLEa761B4pKJJFgJW"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Eu Sento Gabu!",
+        "url": "https://open.spotify.com/album/51F5iHYpECc8dd9Wjqv15o"
+      },
+      "artists": [
+        {
+          "name": "PXLWYSE",
+          "url": "https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH"
+        }
+      ],
+      "duration_ms": 83754,
+      "name": "Eu Sento Gabu!",
+      "url": "https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Jump In",
+        "url": "https://open.spotify.com/album/2JifGzJQPmV1rF22CyYW4H"
+      },
+      "artists": [
+        {
+          "name": "Noah Baine",
+          "url": "https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Jump In",
+      "url": "https://open.spotify.com/track/7aDl834jw3OD93b4gWEYXx"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby"
       },
@@ -2067,22 +2083,6 @@
       "duration_ms": 146090,
       "name": "Fever",
       "url": "https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Jump In",
-        "url": "https://open.spotify.com/album/2JifGzJQPmV1rF22CyYW4H"
-      },
-      "artists": [
-        {
-          "name": "Noah Baine",
-          "url": "https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Jump In",
-      "url": "https://open.spotify.com/track/7aDl834jw3OD93b4gWEYXx"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2223,38 +2223,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "EUROCLUB",
-        "url": "https://open.spotify.com/album/3dErNe80z63631S7obJfB5"
-      },
-      "artists": [
-        {
-          "name": "EUROCLUB",
-          "url": "https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "THINKING ABOUT YOU",
-      "url": "https://open.spotify.com/track/5L8sLMsxXNwj8DbamUjs7c"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "CLONED VOL.1",
-        "url": "https://open.spotify.com/album/37oUYWWioeyUoHeosrU1Sl"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Error 303",
-      "url": "https://open.spotify.com/track/2rmh0nTshhsiKvHfUm1C1S"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "As The Pendulum Swings",
         "url": "https://open.spotify.com/album/6lWtjIwHMyJdZlRaiGwVnd"
       },
@@ -2275,26 +2243,6 @@
       "duration_ms": 148300,
       "name": "HOW I DO IT",
       "url": "https://open.spotify.com/track/0Y1ZeaRs0gAEwb1rYxdbjq"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Dead Limit",
-        "url": "https://open.spotify.com/album/2GrwgZ5612sxcPV9VboIL7"
-      },
-      "artists": [
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        },
-        {
-          "name": "Laherte",
-          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
-        }
-      ],
-      "duration_ms": 202857,
-      "name": "Dead Limit",
-      "url": "https://open.spotify.com/track/6PuAn6ieP9AfgAXV8n4RNN"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2323,6 +2271,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "EUROCLUB",
+        "url": "https://open.spotify.com/album/3dErNe80z63631S7obJfB5"
+      },
+      "artists": [
+        {
+          "name": "EUROCLUB",
+          "url": "https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "THINKING ABOUT YOU",
+      "url": "https://open.spotify.com/track/5L8sLMsxXNwj8DbamUjs7c"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "SAY SOMETHING",
         "url": "https://open.spotify.com/album/5GpGiO6KJyRuk73MEqsPdr"
       },
@@ -2335,6 +2299,42 @@
       "duration_ms": 171428,
       "name": "SAY SOMETHING",
       "url": "https://open.spotify.com/track/2Ua1gdg52itBvIelrsR0lj"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Dead Limit",
+        "url": "https://open.spotify.com/album/2GrwgZ5612sxcPV9VboIL7"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Laherte",
+          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
+        }
+      ],
+      "duration_ms": 202857,
+      "name": "Dead Limit",
+      "url": "https://open.spotify.com/track/6PuAn6ieP9AfgAXV8n4RNN"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "CLONED VOL.1",
+        "url": "https://open.spotify.com/album/37oUYWWioeyUoHeosrU1Sl"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Error 303",
+      "url": "https://open.spotify.com/track/2rmh0nTshhsiKvHfUm1C1S"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Welcome To My Crib",
-        "url": "https://open.spotify.com/album/3NAuKs5dqQH4sKwFTh71zq"
-      },
-      "artists": [
-        {
-          "name": "FUCK!LACR\u00c8ME",
-          "url": "https://open.spotify.com/artist/6ORtqnmzscfjstI402S8tc"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Slam It",
-      "url": "https://open.spotify.com/track/1r2lP8B7tBmK1zATKzXO3g"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Feel the Beat",
         "url": "https://open.spotify.com/album/4izfgFschtwTedFJH5b4rO"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 397189,
       "name": "Feel the Beat - Partiboi69 Remix",
       "url": "https://open.spotify.com/track/2wNEBBr52TumYRmtYH1ocC"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Welcome To My Crib",
+        "url": "https://open.spotify.com/album/3NAuKs5dqQH4sKwFTh71zq"
+      },
+      "artists": [
+        {
+          "name": "FUCK!LACR\u00c8ME",
+          "url": "https://open.spotify.com/artist/6ORtqnmzscfjstI402S8tc"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Slam It",
+      "url": "https://open.spotify.com/track/1r2lP8B7tBmK1zATKzXO3g"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2543,22 +2543,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Hot 'N Heavy",
-        "url": "https://open.spotify.com/album/1mRWJ7HcS8cxSz9L7bOX60"
-      },
-      "artists": [
-        {
-          "name": "Lenny Delicious",
-          "url": "https://open.spotify.com/artist/2MBDmFDbGZLXblS3AnXsqh"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Hot 'N Heavy",
-      "url": "https://open.spotify.com/track/14bmYLH9zFWXyR0wggKuKw"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "club maki",
         "url": "https://open.spotify.com/album/0TL0aAXpuy64QIJKMv4bhb"
       },
@@ -2571,6 +2555,22 @@
       "duration_ms": 304928,
       "name": "cantcatchme",
       "url": "https://open.spotify.com/track/71XdxnvFc773OCQaJynqmf"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Hot 'N Heavy",
+        "url": "https://open.spotify.com/album/1mRWJ7HcS8cxSz9L7bOX60"
+      },
+      "artists": [
+        {
+          "name": "Lenny Delicious",
+          "url": "https://open.spotify.com/artist/2MBDmFDbGZLXblS3AnXsqh"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Hot 'N Heavy",
+      "url": "https://open.spotify.com/track/14bmYLH9zFWXyR0wggKuKw"
     },
     {
       "added_at": "2026-04-13 15:38:24",

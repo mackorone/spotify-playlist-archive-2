@@ -1675,6 +1675,32 @@
     },
     {
       "album": {
+        "name": "Tu Hi Tu",
+        "url": "https://open.spotify.com/album/3ut0f8F0cZvrZQGwP2gcoe"
+      },
+      "artists": [
+        {
+          "name": "Garry Sandhu",
+          "url": "https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75"
+        },
+        {
+          "name": "Sultaan",
+          "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158823,
+      "name": "Tu Hi Tu",
+      "url": "https://open.spotify.com/track/6CJJrzYY70oy6cxA8BkVIL"
+    },
+    {
+      "album": {
         "name": "UNO REVERSE",
         "url": "https://open.spotify.com/album/2S0ihVhOLkBCfk5T1ZFCK2"
       },
@@ -1852,7 +1878,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 162935,
       "name": "You Know It",
       "url": "https://open.spotify.com/track/79zNAvAw7yTz2GviAcnENr"

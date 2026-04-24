@@ -2,9 +2,9 @@
 
 ### [rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> 🔥 den nyeste rap i dk 🔥 cover: Lamin
+> 🔥 den nyeste rap i dk 🔥 cover: GUSTO
 
-528 songs - 22 hr 31 min
+530 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Locked Up](https://open.spotify.com/track/334QzlFMweexntGh2LIJ5M) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Locked Up](https://open.spotify.com/album/5Hj9ytqhsh8Sx2pd0iHWLs) | 2:57 | 2025-01-09 | 2025-06-27 |
 | [Long Nights](https://open.spotify.com/track/7jICWCM3vdbmjL5q4uvvaj) | [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX), [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8) | [Long Nights](https://open.spotify.com/album/6hCIrCm4S9DP4HwZ97mXaf) | 3:22 | 2025-07-24 | 2025-09-27 |
 | [LOSSES](https://open.spotify.com/track/6jiJlhoKrtnqbEwn9rwLzg) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [N1YA](https://open.spotify.com/album/6UKsPClzyTmEvIOkqmyirY) | 2:59 | 2025-07-10 | 2026-04-10 |
+| [Louisiana](https://open.spotify.com/track/3fxQ8GkReHrrN4zTYpQ1ex) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Louisiana](https://open.spotify.com/album/6JsFn553CiwPbXFsvjVF9p) | 2:52 | 2026-04-23 |  |
 | [Love](https://open.spotify.com/track/1jrlr7S194gDbRzX7Z1R68) | [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO), [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9), [Tan](https://open.spotify.com/artist/7KhbTeqa1IUlb1qlPCp1Uh), [Dinero](https://open.spotify.com/artist/4LynqOt0Pp1TpSZUftMlTi) | [Love](https://open.spotify.com/album/0iMw6rVmD1PzLnGslYulZJ) | 2:45 | 2025-05-29 | 2025-06-20 |
 | [LUVSONG](https://open.spotify.com/track/3XOxeC6xvm4S31778TY5nb) | [Blak](https://open.spotify.com/artist/6IH1y7lDZ4f5emA2chtADV), [Balken](https://open.spotify.com/artist/6HSzwxpDlQc3ysjM6HcTeF) | [LUVSONG](https://open.spotify.com/album/0661vyyGKpbinzjUat85ia) | 2:33 | 2025-05-22 | 2025-06-20 |
 | [LYS \(ILLUMINERET\)](https://open.spotify.com/track/74ev7qWjlvtyq1ymgECaZK) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [LYS \(ILLUMINERET\)](https://open.spotify.com/album/23DujRMUDtm5Q1DLrEA7X1) | 2:50 | 2025-03-27 | 2025-04-18 |
@@ -470,6 +471,7 @@
 | [To Gange](https://open.spotify.com/track/1ByKkALevy63Nd0VBw1ToD) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 1:56 | 2024-08-07 | 2025-02-28 |
 | [Topfart](https://open.spotify.com/track/2EbLz05DxMmuiEQv7zgNrY) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Topfart](https://open.spotify.com/album/2acA3wjr4eYsfX7WCWEXF6) | 2:34 | 2024-02-22 | 2024-04-05 |
 | [Topform \(feat\. Lamin\)](https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:21 | 2023-09-21 | 2024-09-13 |
+| [Track 2](https://open.spotify.com/track/3AEuNKucsjnPGvgOQRKMMV) | [Fed](https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr) | [DOUBLEPEACE](https://open.spotify.com/album/5wtOAaJF1O5d7faLR2gUcZ) | 0:00 | 2026-04-23 |  |
 | [TRACKSUIT](https://open.spotify.com/track/2GPVSfBMy7WD6AZc8I99KE) | [Oskar Witt](https://open.spotify.com/artist/7pgsrrUoGrlw9qNtJsk4c4) | [TRACKSUIT](https://open.spotify.com/album/0HxUpNDh9DhsxeMJyRCeZJ) | 2:15 | 2025-12-04 | 2026-01-02 |
 | [Tro På Det](https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:58 | 2024-09-19 | 2026-04-10 |
 | [Tropical \(feat\. Gilli\)](https://open.spotify.com/track/52raIkLsg4Qhfb80DqzitG) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Tropical \(feat\. Gilli\)](https://open.spotify.com/album/1BiMjrMjAmDcXQh06wAKLH) | 2:11 | 2025-07-31 | 2025-09-26 |

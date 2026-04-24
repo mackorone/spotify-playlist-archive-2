@@ -1,12 +1,12 @@
 {
-  "description": "Your shortcut to the best new Hip Hop. Cover: DaBaby",
-  "num_followers": 503713,
+  "description": "Your shortcut to the best new Hip Hop. Cover: Hooligan Hefs",
+  "num_followers": 503696,
   "original_name": "A1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPHKFGCIBcmachBt6iMJqwy3kpdZ",
+  "snapshot_id": "AAAAAOqnaM5TTnvkIE0+9LE1EX66IhH2",
   "tracks": [
     {
       "added_at": "2026-04-21 04:19:47",
@@ -27,58 +27,6 @@
     {
       "added_at": "2026-04-21 04:19:47",
       "album": {
-        "name": "I CONDEMN",
-        "url": "https://open.spotify.com/album/3GGPWismNDtBFF8EJxoiFI"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 142597,
-      "name": "I CONDEMN",
-      "url": "https://open.spotify.com/track/4JIC9Y4gNwefZ9UiCnZCvT"
-    },
-    {
-      "added_at": "2026-04-21 04:19:47",
-      "album": {
-        "name": "ADL",
-        "url": "https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Griddl\u00eb",
-      "url": "https://open.spotify.com/track/1VvXLOfkv1zxa3LZ0zBXt2"
-    },
-    {
-      "added_at": "2026-04-21 04:19:47",
-      "album": {
-        "name": "Sixth Sense",
-        "url": "https://open.spotify.com/album/5dmD53AthaOn0hr0L9Xdvn"
-      },
-      "artists": [
-        {
-          "name": "Hooligan Hefs",
-          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
-        }
-      ],
-      "duration_ms": 143052,
-      "name": "Sixth Sense",
-      "url": "https://open.spotify.com/track/6YjpYMUcEjCje7AXYxQZtL"
-    },
-    {
-      "added_at": "2026-04-21 04:19:47",
-      "album": {
         "name": "ALL ROADS LEAD HOME",
         "url": "https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID"
       },
@@ -95,18 +43,66 @@
     {
       "added_at": "2026-04-21 04:19:47",
       "album": {
-        "name": "What You Saying",
-        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
+        "name": "I CONDEMN",
+        "url": "https://open.spotify.com/album/3GGPWismNDtBFF8EJxoiFI"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 131729,
-      "name": "What You Saying",
-      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+      "duration_ms": 142597,
+      "name": "I CONDEMN",
+      "url": "https://open.spotify.com/track/4JIC9Y4gNwefZ9UiCnZCvT"
+    },
+    {
+      "added_at": "2026-04-23 14:01:08",
+      "album": {
+        "name": "Stuntn",
+        "url": "https://open.spotify.com/album/2A8KqE7vvH5f8lIjWfvYny"
+      },
+      "artists": [
+        {
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        }
+      ],
+      "duration_ms": 151212,
+      "name": "Stuntn",
+      "url": "https://open.spotify.com/track/7FpBSmSsI3AHNTVptxEv1K"
+    },
+    {
+      "added_at": "2026-04-21 04:19:47",
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "4 Raws",
+      "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
+    },
+    {
+      "added_at": "2026-04-21 04:19:47",
+      "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 153181,
+      "name": "E85",
+      "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
     },
     {
       "added_at": "2026-04-21 04:19:47",
@@ -147,6 +143,22 @@
     {
       "added_at": "2026-04-21 04:19:47",
       "album": {
+        "name": "What You Saying",
+        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 131729,
+      "name": "What You Saying",
+      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+    },
+    {
+      "added_at": "2026-04-21 04:19:47",
+      "album": {
         "name": "MINK SB (feat. Skepta, Lojay & Skillibeng)",
         "url": "https://open.spotify.com/album/59Fs0w068THGXqx33PzCr7"
       },
@@ -171,98 +183,6 @@
       "duration_ms": 184682,
       "name": "MINK SB (feat. Skepta, Lojay & Skillibeng)",
       "url": "https://open.spotify.com/track/7M0LA37GOq8SAUX4TWWHov"
-    },
-    {
-      "added_at": "2026-04-21 04:19:47",
-      "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "4 Raws",
-      "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
-    },
-    {
-      "added_at": "2026-04-21 04:19:47",
-      "album": {
-        "name": "Intrusive Thoughts",
-        "url": "https://open.spotify.com/album/1LtgZgZZFDBnUzsyrwB5vc"
-      },
-      "artists": [
-        {
-          "name": "Celly",
-          "url": "https://open.spotify.com/artist/7hNCr6bA6G1HiWjooQzCuz"
-        },
-        {
-          "name": "J Emz",
-          "url": "https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X"
-        },
-        {
-          "name": "ONEFOUR",
-          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
-        }
-      ],
-      "duration_ms": 138947,
-      "name": "Intrusive Thoughts",
-      "url": "https://open.spotify.com/track/12q6Du2TDearjAQJReeEhD"
-    },
-    {
-      "added_at": "2026-04-21 04:19:47",
-      "album": {
-        "name": "600 Racks",
-        "url": "https://open.spotify.com/album/6rU9y9BYVGa7uA977pl0f5"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 184383,
-      "name": "600 Racks",
-      "url": "https://open.spotify.com/track/4ss5dbCWS90LRINPRxDjE6"
-    },
-    {
-      "added_at": "2026-04-21 04:19:47",
-      "album": {
-        "name": "OCTANE",
-        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 153181,
-      "name": "E85",
-      "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
-    },
-    {
-      "added_at": "2026-04-21 04:19:47",
-      "album": {
-        "name": "Down South",
-        "url": "https://open.spotify.com/album/23amY0Ns9L31zVNhG9BRZO"
-      },
-      "artists": [
-        {
-          "name": "Trap Dickey",
-          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
-        },
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 139805,
-      "name": "Down South (feat. Key Glock)",
-      "url": "https://open.spotify.com/track/70sjcC1GLyYfcHntiZ16cN"
     },
     {
       "added_at": "2026-04-21 04:19:47",
@@ -295,6 +215,62 @@
     {
       "added_at": "2026-04-21 04:19:47",
       "album": {
+        "name": "Down South",
+        "url": "https://open.spotify.com/album/23amY0Ns9L31zVNhG9BRZO"
+      },
+      "artists": [
+        {
+          "name": "Trap Dickey",
+          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 139805,
+      "name": "Down South (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/70sjcC1GLyYfcHntiZ16cN"
+    },
+    {
+      "added_at": "2026-04-23 14:01:08",
+      "album": {
+        "name": "Playing For Keeps",
+        "url": "https://open.spotify.com/album/4mb6hp99zL7cEyk0iXCmZn"
+      },
+      "artists": [
+        {
+          "name": "TAKTiX",
+          "url": "https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs"
+        }
+      ],
+      "duration_ms": 179975,
+      "name": "Playing For Keeps",
+      "url": "https://open.spotify.com/track/5GdVcbQNi5opA5L39G0MDF"
+    },
+    {
+      "added_at": "2026-04-21 04:19:47",
+      "album": {
+        "name": "ADL",
+        "url": "https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Griddl\u00eb",
+      "url": "https://open.spotify.com/track/1VvXLOfkv1zxa3LZ0zBXt2"
+    },
+    {
+      "added_at": "2026-04-21 04:19:47",
+      "album": {
         "name": "Better Than Yours (feat. Youngboy Never Broke Again)",
         "url": "https://open.spotify.com/album/47ILgvAKy8xB5Cmuo0iQlN"
       },
@@ -311,150 +287,6 @@
       "duration_ms": 160346,
       "name": "Better Than Yours (feat. Youngboy Never Broke Again)",
       "url": "https://open.spotify.com/track/7Cu72sNXv5n9vbHcXbSmgp"
-    },
-    {
-      "added_at": "2026-04-21 04:19:47",
-      "album": {
-        "name": "Let Them Know",
-        "url": "https://open.spotify.com/album/3ugAYLZlvo05YG2Dh7C20c"
-      },
-      "artists": [
-        {
-          "name": "Digga",
-          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
-        }
-      ],
-      "duration_ms": 96195,
-      "name": "Let Them Know",
-      "url": "https://open.spotify.com/track/2JV8CCmR41XikxtFhrkW9k"
-    },
-    {
-      "added_at": "2026-04-21 04:19:47",
-      "album": {
-        "name": "STRANGE WAYYZ",
-        "url": "https://open.spotify.com/album/6YSUR94oXa5Ak7oF7ycf6g"
-      },
-      "artists": [
-        {
-          "name": "Sollyy",
-          "url": "https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf"
-        },
-        {
-          "name": "Church",
-          "url": "https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ"
-        }
-      ],
-      "duration_ms": 140625,
-      "name": "STRANGE WAYYZ",
-      "url": "https://open.spotify.com/track/1tl7Bo7EnZ343ipJkqngqj"
-    },
-    {
-      "added_at": "2026-04-21 04:19:47",
-      "album": {
-        "name": "SAME SH!T",
-        "url": "https://open.spotify.com/album/34v3zMWlkxsKbaYnERZV6d"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        }
-      ],
-      "duration_ms": 193294,
-      "name": "SAME SH!T",
-      "url": "https://open.spotify.com/track/0EOc1cP1zMmF9kR0w3AM5f"
-    },
-    {
-      "added_at": "2026-04-21 04:19:47",
-      "album": {
-        "name": "One of Them",
-        "url": "https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 204377,
-      "name": "One of Them (with Future & Lil Baby)",
-      "url": "https://open.spotify.com/track/64QhStjcTHwvY7QCkFfT0M"
-    },
-    {
-      "added_at": "2026-04-21 04:19:47",
-      "album": {
-        "name": "The Fall-Off",
-        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 196080,
-      "name": "Two Six",
-      "url": "https://open.spotify.com/track/57ENogEkvFsU7Wmt3lvQMG"
-    },
-    {
-      "added_at": "2026-04-21 04:19:47",
-      "album": {
-        "name": "Wacha Trucha",
-        "url": "https://open.spotify.com/album/1vs4m5Ys0TJHTmsH69Qsjl"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 149866,
-      "name": "Wacha Trucha",
-      "url": "https://open.spotify.com/track/5eRIQwGFRD7NfdIanG6GNB"
-    },
-    {
-      "added_at": "2026-04-21 04:19:47",
-      "album": {
-        "name": "Still Virgil",
-        "url": "https://open.spotify.com/album/1j0XqfL2CKaMI073ATSBRw"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        }
-      ],
-      "duration_ms": 147418,
-      "name": "Still Virgil",
-      "url": "https://open.spotify.com/track/4YXtodBrujUCJJlP2rjk3k"
-    },
-    {
-      "added_at": "2026-04-21 04:19:47",
-      "album": {
-        "name": "OCTANE",
-        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 155753,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
     },
     {
       "added_at": "2026-04-21 04:19:47",
@@ -481,28 +313,96 @@
       "url": "https://open.spotify.com/track/6ZUdxfXm45SKQ5WcFA2OGS"
     },
     {
-      "added_at": "2026-04-21 04:19:47",
+      "added_at": "2026-04-23 14:01:08",
       "album": {
-        "name": "Taking It There",
-        "url": "https://open.spotify.com/album/6NEG3us567xxEGXjwIj37h"
+        "name": "Dezi Freeman",
+        "url": "https://open.spotify.com/album/2kRQglMOml7QnVYG0tJ7rk"
       },
       "artists": [
         {
-          "name": "Kwengface",
-          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
+          "name": "Ribby247",
+          "url": "https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh"
         },
         {
-          "name": "Carns Hill",
-          "url": "https://open.spotify.com/artist/0BKkDZjC4e9k36ZvLM3DAm"
+          "name": "4orttune",
+          "url": "https://open.spotify.com/artist/3YLy0CeBiLqr1PWAk6pnMp"
         },
         {
-          "name": "GRM Daily",
-          "url": "https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy"
+          "name": "Isaac Puerile",
+          "url": "https://open.spotify.com/artist/0aH9E0OKr6OeB4x4azs6X4"
+        },
+        {
+          "name": "Villyszn",
+          "url": "https://open.spotify.com/artist/7xeCKeCdFe2fnFprY0yZul"
         }
       ],
-      "duration_ms": 123693,
-      "name": "Taking It There",
-      "url": "https://open.spotify.com/track/4uMTHzKxik80Xb2s22NOmY"
+      "duration_ms": 160714,
+      "name": "Dezi Freeman",
+      "url": "https://open.spotify.com/track/2dYfZOYDScoOfCMJBqIMWp"
+    },
+    {
+      "added_at": "2026-04-21 04:19:47",
+      "album": {
+        "name": "Sixth Sense",
+        "url": "https://open.spotify.com/album/5dmD53AthaOn0hr0L9Xdvn"
+      },
+      "artists": [
+        {
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        }
+      ],
+      "duration_ms": 143052,
+      "name": "Sixth Sense",
+      "url": "https://open.spotify.com/track/6YjpYMUcEjCje7AXYxQZtL"
+    },
+    {
+      "added_at": "2026-04-21 04:19:47",
+      "album": {
+        "name": "SAME SH!T",
+        "url": "https://open.spotify.com/album/34v3zMWlkxsKbaYnERZV6d"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "duration_ms": 193294,
+      "name": "SAME SH!T",
+      "url": "https://open.spotify.com/track/0EOc1cP1zMmF9kR0w3AM5f"
+    },
+    {
+      "added_at": "2026-04-21 04:19:47",
+      "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 155753,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
+    },
+    {
+      "added_at": "2026-04-21 04:19:47",
+      "album": {
+        "name": "Let Them Know",
+        "url": "https://open.spotify.com/album/3ugAYLZlvo05YG2Dh7C20c"
+      },
+      "artists": [
+        {
+          "name": "Digga",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "duration_ms": 96195,
+      "name": "Let Them Know",
+      "url": "https://open.spotify.com/track/2JV8CCmR41XikxtFhrkW9k"
     },
     {
       "added_at": "2026-04-21 04:19:47",
@@ -531,82 +431,38 @@
     {
       "added_at": "2026-04-21 04:19:47",
       "album": {
-        "name": "2EAZY",
-        "url": "https://open.spotify.com/album/4mDcKwiEyYRpjdVgQAkLFx"
+        "name": "The Fall-Off",
+        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 196080,
+      "name": "Two Six",
+      "url": "https://open.spotify.com/track/57ENogEkvFsU7Wmt3lvQMG"
+    },
+    {
+      "added_at": "2026-04-21 04:19:47",
+      "album": {
+        "name": "LTW (LUV THE WORLD)",
+        "url": "https://open.spotify.com/album/4ytQkvGHSKdeXJFDTgFv3T"
       },
       "artists": [
         {
           "name": "MELODOWNZ",
           "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
-        }
-      ],
-      "duration_ms": 135534,
-      "name": "2EAZY",
-      "url": "https://open.spotify.com/track/109kqw1njTghISsOY8c1YF"
-    },
-    {
-      "added_at": "2026-04-21 04:19:47",
-      "album": {
-        "name": "ICEMAN FREESTYLE",
-        "url": "https://open.spotify.com/album/2WffTc00muxCNZhwopltsi"
-      },
-      "artists": [
+        },
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "BIGGs 685",
+          "url": "https://open.spotify.com/artist/1iIdYSoOB5dhc90R9ENrjM"
         }
       ],
-      "duration_ms": 186000,
-      "name": "ICEMAN FREESTYLE",
-      "url": "https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu"
-    },
-    {
-      "added_at": "2026-04-21 04:19:47",
-      "album": {
-        "name": "Must Be",
-        "url": "https://open.spotify.com/album/6AFChJzqPoA4WOpZVqtZTW"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Must Be",
-      "url": "https://open.spotify.com/track/4jYwgNne9MLJjkoQ3KTyX9"
-    },
-    {
-      "added_at": "2026-04-21 04:19:47",
-      "album": {
-        "name": "THREESIXFIVE",
-        "url": "https://open.spotify.com/album/6GHD0yR26E6TDXRJwBvux6"
-      },
-      "artists": [
-        {
-          "name": "Chandler Jewels",
-          "url": "https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv"
-        }
-      ],
-      "duration_ms": 151265,
-      "name": "THREESIXFIVE",
-      "url": "https://open.spotify.com/track/5awriPtey6bIb1xqF87QCz"
-    },
-    {
-      "added_at": "2026-04-21 04:19:47",
-      "album": {
-        "name": "RockMollyCokeKetamine",
-        "url": "https://open.spotify.com/album/2wOq3lj0JwngnNy8JkqwQH"
-      },
-      "artists": [
-        {
-          "name": "Ribby247",
-          "url": "https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh"
-        }
-      ],
-      "duration_ms": 105095,
-      "name": "RockMollyCokeKetamine",
-      "url": "https://open.spotify.com/track/77GfOjYeAsH4eG4rKpjzYX"
+      "duration_ms": 202236,
+      "name": "LTW (LUV THE WORLD)",
+      "url": "https://open.spotify.com/track/11acdWz5vdgj640OlIYB2Y"
     },
     {
       "added_at": "2026-04-21 04:19:47",
@@ -671,22 +527,242 @@
     {
       "added_at": "2026-04-21 04:19:47",
       "album": {
-        "name": "She Will (with Day1)",
-        "url": "https://open.spotify.com/album/4s3oBsSVqaIkNLvSrts2Ob"
+        "name": "ICEMAN FREESTYLE",
+        "url": "https://open.spotify.com/album/2WffTc00muxCNZhwopltsi"
       },
       "artists": [
         {
-          "name": "Hooligan Hefs",
-          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
-        },
-        {
-          "name": "Day1",
-          "url": "https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 224210,
-      "name": "She Will (with Day1)",
-      "url": "https://open.spotify.com/track/17CgN1wfpepyTOyVviHS6L"
+      "duration_ms": 186000,
+      "name": "ICEMAN FREESTYLE",
+      "url": "https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu"
+    },
+    {
+      "added_at": "2026-04-21 04:19:47",
+      "album": {
+        "name": "Intrusive Thoughts",
+        "url": "https://open.spotify.com/album/1LtgZgZZFDBnUzsyrwB5vc"
+      },
+      "artists": [
+        {
+          "name": "Celly",
+          "url": "https://open.spotify.com/artist/7hNCr6bA6G1HiWjooQzCuz"
+        },
+        {
+          "name": "J Emz",
+          "url": "https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X"
+        },
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        }
+      ],
+      "duration_ms": 138947,
+      "name": "Intrusive Thoughts",
+      "url": "https://open.spotify.com/track/12q6Du2TDearjAQJReeEhD"
+    },
+    {
+      "added_at": "2026-04-21 04:19:47",
+      "album": {
+        "name": "One of Them",
+        "url": "https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 204377,
+      "name": "One of Them (with Future & Lil Baby)",
+      "url": "https://open.spotify.com/track/64QhStjcTHwvY7QCkFfT0M"
+    },
+    {
+      "added_at": "2026-04-21 04:19:47",
+      "album": {
+        "name": "Taking It There",
+        "url": "https://open.spotify.com/album/6NEG3us567xxEGXjwIj37h"
+      },
+      "artists": [
+        {
+          "name": "Kwengface",
+          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
+        },
+        {
+          "name": "Carns Hill",
+          "url": "https://open.spotify.com/artist/0BKkDZjC4e9k36ZvLM3DAm"
+        },
+        {
+          "name": "GRM Daily",
+          "url": "https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy"
+        }
+      ],
+      "duration_ms": 123693,
+      "name": "Taking It There",
+      "url": "https://open.spotify.com/track/4uMTHzKxik80Xb2s22NOmY"
+    },
+    {
+      "added_at": "2026-04-21 04:19:47",
+      "album": {
+        "name": "Wacha Trucha",
+        "url": "https://open.spotify.com/album/1vs4m5Ys0TJHTmsH69Qsjl"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 149866,
+      "name": "Wacha Trucha",
+      "url": "https://open.spotify.com/track/5eRIQwGFRD7NfdIanG6GNB"
+    },
+    {
+      "added_at": "2026-04-21 04:19:47",
+      "album": {
+        "name": "600 Racks",
+        "url": "https://open.spotify.com/album/6rU9y9BYVGa7uA977pl0f5"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 184383,
+      "name": "600 Racks",
+      "url": "https://open.spotify.com/track/4ss5dbCWS90LRINPRxDjE6"
+    },
+    {
+      "added_at": "2026-04-21 04:19:47",
+      "album": {
+        "name": "STRANGE WAYYZ",
+        "url": "https://open.spotify.com/album/6YSUR94oXa5Ak7oF7ycf6g"
+      },
+      "artists": [
+        {
+          "name": "Sollyy",
+          "url": "https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf"
+        },
+        {
+          "name": "Church",
+          "url": "https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ"
+        }
+      ],
+      "duration_ms": 140625,
+      "name": "STRANGE WAYYZ",
+      "url": "https://open.spotify.com/track/1tl7Bo7EnZ343ipJkqngqj"
+    },
+    {
+      "added_at": "2026-04-23 14:01:08",
+      "album": {
+        "name": "make ha dance",
+        "url": "https://open.spotify.com/album/0FcDcW2Uh3c3WKK19ZriPi"
+      },
+      "artists": [
+        {
+          "name": "leecerti",
+          "url": "https://open.spotify.com/artist/4GCBx9G31irWT77xXxWrSA"
+        }
+      ],
+      "duration_ms": 120827,
+      "name": "make ha dance",
+      "url": "https://open.spotify.com/track/2nZycbXJkUbDcwZBbqnCTG"
+    },
+    {
+      "added_at": "2026-04-21 04:19:47",
+      "album": {
+        "name": "Still Virgil",
+        "url": "https://open.spotify.com/album/1j0XqfL2CKaMI073ATSBRw"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        }
+      ],
+      "duration_ms": 147418,
+      "name": "Still Virgil",
+      "url": "https://open.spotify.com/track/4YXtodBrujUCJJlP2rjk3k"
+    },
+    {
+      "added_at": "2026-04-21 04:19:47",
+      "album": {
+        "name": "2EAZY",
+        "url": "https://open.spotify.com/album/4mDcKwiEyYRpjdVgQAkLFx"
+      },
+      "artists": [
+        {
+          "name": "MELODOWNZ",
+          "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
+        }
+      ],
+      "duration_ms": 135534,
+      "name": "2EAZY",
+      "url": "https://open.spotify.com/track/109kqw1njTghISsOY8c1YF"
+    },
+    {
+      "added_at": "2026-04-21 04:19:47",
+      "album": {
+        "name": "Must Be",
+        "url": "https://open.spotify.com/album/6AFChJzqPoA4WOpZVqtZTW"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Must Be",
+      "url": "https://open.spotify.com/track/4jYwgNne9MLJjkoQ3KTyX9"
+    },
+    {
+      "added_at": "2026-04-21 04:19:47",
+      "album": {
+        "name": "THREESIXFIVE",
+        "url": "https://open.spotify.com/album/6GHD0yR26E6TDXRJwBvux6"
+      },
+      "artists": [
+        {
+          "name": "Chandler Jewels",
+          "url": "https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv"
+        }
+      ],
+      "duration_ms": 151265,
+      "name": "THREESIXFIVE",
+      "url": "https://open.spotify.com/track/5awriPtey6bIb1xqF87QCz"
+    },
+    {
+      "added_at": "2026-04-21 04:19:47",
+      "album": {
+        "name": "RockMollyCokeKetamine",
+        "url": "https://open.spotify.com/album/2wOq3lj0JwngnNy8JkqwQH"
+      },
+      "artists": [
+        {
+          "name": "Ribby247",
+          "url": "https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh"
+        }
+      ],
+      "duration_ms": 105095,
+      "name": "RockMollyCokeKetamine",
+      "url": "https://open.spotify.com/track/77GfOjYeAsH4eG4rKpjzYX"
     },
     {
       "added_at": "2026-04-21 04:19:47",
@@ -775,26 +851,6 @@
       "duration_ms": 197981,
       "name": "BLOCK PARTY",
       "url": "https://open.spotify.com/track/2gj9kPj4NKuwOQhGV3rDsM"
-    },
-    {
-      "added_at": "2026-04-21 04:19:47",
-      "album": {
-        "name": "LTW (LUV THE WORLD)",
-        "url": "https://open.spotify.com/album/4ytQkvGHSKdeXJFDTgFv3T"
-      },
-      "artists": [
-        {
-          "name": "MELODOWNZ",
-          "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
-        },
-        {
-          "name": "BIGGs 685",
-          "url": "https://open.spotify.com/artist/1iIdYSoOB5dhc90R9ENrjM"
-        }
-      ],
-      "duration_ms": 202236,
-      "name": "LTW (LUV THE WORLD)",
-      "url": "https://open.spotify.com/track/11acdWz5vdgj640OlIYB2Y"
     },
     {
       "added_at": "2026-04-21 04:19:47",
@@ -943,6 +999,26 @@
       "duration_ms": 104605,
       "name": "MR DND",
       "url": "https://open.spotify.com/track/7KVkMVxVs3GqO7Vzy9hzjk"
+    },
+    {
+      "added_at": "2026-04-23 14:01:08",
+      "album": {
+        "name": "BKD",
+        "url": "https://open.spotify.com/album/5MLEDnFzksg9QKis3ByVvq"
+      },
+      "artists": [
+        {
+          "name": "Ribby247",
+          "url": "https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh"
+        },
+        {
+          "name": "Cult Sh\u03c6tta",
+          "url": "https://open.spotify.com/artist/3kjbXyjmFY15U6cCclZL3P"
+        }
+      ],
+      "duration_ms": 150378,
+      "name": "BKD",
+      "url": "https://open.spotify.com/track/2BuvAgHCbHdvXl4RjAF0YM"
     },
     {
       "added_at": "2026-04-21 04:19:47",

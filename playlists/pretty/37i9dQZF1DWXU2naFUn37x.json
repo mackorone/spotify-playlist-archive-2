@@ -1,47 +1,15 @@
 {
-  "description": "Flaco G in cover della playlist dello street rap italiano \u26d3\ufe0f",
-  "num_followers": 923481,
+  "description": "Shiva in cover della playlist dello street rap italiano \u26d3\ufe0f",
+  "num_followers": 923472,
   "original_name": "Street Culto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFLwlj8Ou2rV+Qj/+pb++4x8tCA+",
+  "snapshot_id": "AAAAAJiTK2VmmO6PXsE3PHQb96XEbFu3",
   "tracks": [
     {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "SEX TRAP REPEAT",
-        "url": "https://open.spotify.com/album/5nPq2Nmm3NU2BNCrWBcFep"
-      },
-      "artists": [
-        {
-          "name": "Flaco G",
-          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
-        }
-      ],
-      "duration_ms": 145263,
-      "name": "SEX TRAP REPEAT",
-      "url": "https://open.spotify.com/track/7jhVsioCwQDGQSXFL35cEF"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "LA BELLAVITA",
-        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 165922,
-      "name": "DAVVERODAVVERO",
-      "url": "https://open.spotify.com/track/6bdTp8Jkp3IAU15rVPWFuJ"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
       "album": {
         "name": "Vangelo",
         "url": "https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4"
@@ -61,7 +29,23 @@
       "url": "https://open.spotify.com/track/5LN0gLSxSEaigog3VjCci3"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "DIOR$AVAGE",
+        "url": "https://open.spotify.com/album/5NtMHvTP6K9N6xwtQ9q7R5"
+      },
+      "artists": [
+        {
+          "name": "Glocky",
+          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "DIOR$AVAGE",
+      "url": "https://open.spotify.com/track/6hJZntir08iWIAVRx8YAEh"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
       "album": {
         "name": "4 Gambe",
         "url": "https://open.spotify.com/album/3CIAryrsaEFI1hPdPsUPvQ"
@@ -81,7 +65,23 @@
       "url": "https://open.spotify.com/track/5nEWSUWRc3xjpJn25xbXFY"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "SEX TRAP REPEAT",
+        "url": "https://open.spotify.com/album/5nPq2Nmm3NU2BNCrWBcFep"
+      },
+      "artists": [
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        }
+      ],
+      "duration_ms": 145263,
+      "name": "SEX TRAP REPEAT",
+      "url": "https://open.spotify.com/track/7jhVsioCwQDGQSXFL35cEF"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
       "album": {
         "name": "KING OF DARK",
         "url": "https://open.spotify.com/album/4oJZFEKPVLVViFlG5VnAhN"
@@ -101,7 +101,43 @@
       "url": "https://open.spotify.com/track/1SWUq0qtTSDRGrDtgq7POw"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "Anche gli Eroi Muoiono",
+        "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 163305,
+      "name": "La violenza Necessaria (feat. Shiva)",
+      "url": "https://open.spotify.com/track/4gYOPsRynx7hXQm5q47o04"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "Vangelo",
+        "url": "https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 185179,
+      "name": "Spie",
+      "url": "https://open.spotify.com/track/6RRxP0B9bVZnbTnSpxfo9W"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
       "album": {
         "name": "PROGETTO X DELUXE",
         "url": "https://open.spotify.com/album/3zbpX7pil18FtBaPKsCne1"
@@ -121,7 +157,7 @@
       "url": "https://open.spotify.com/track/2rNxRLShYAjeIUUYA89wUQ"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
       "album": {
         "name": "Warzone (feat. Artie 5ive, Capo Plaza & Nerissima Serpe)",
         "url": "https://open.spotify.com/album/3AXrg1yOKAwMlUbRDRfQbu"
@@ -149,7 +185,7 @@
       "url": "https://open.spotify.com/track/6iFfFjKnr615pD7aL5Z2Cx"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
       "album": {
         "name": "Pura Purissima (feat. Nerissima Serpe)",
         "url": "https://open.spotify.com/album/4YxAONurTW20P7AOYo6rNR"
@@ -173,83 +209,7 @@
       "url": "https://open.spotify.com/track/7aED3khDoMw7bgL8wNMVy3"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "Anche gli Eroi Muoiono",
-        "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
-      },
-      "artists": [
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 163305,
-      "name": "La violenza Necessaria (feat. Shiva)",
-      "url": "https://open.spotify.com/track/4gYOPsRynx7hXQm5q47o04"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "G&V",
-        "url": "https://open.spotify.com/album/11Fl5ZsX0Z9n97S5MfdBSw"
-      },
-      "artists": [
-        {
-          "name": "IvanBi",
-          "url": "https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg"
-        }
-      ],
-      "duration_ms": 112500,
-      "name": "G&V",
-      "url": "https://open.spotify.com/track/6GH0stb5CRpcpH9LDGD8JJ"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "NO REGULAR MUSIC 2.5",
-        "url": "https://open.spotify.com/album/7jfo9OmUMjGCPM2Ad0SS6n"
-      },
-      "artists": [
-        {
-          "name": "Sadturs",
-          "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
-        },
-        {
-          "name": "KIID",
-          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
-        },
-        {
-          "name": "Khodi",
-          "url": "https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n"
-        }
-      ],
-      "duration_ms": 110551,
-      "name": "re bowser (feat. Khodi)",
-      "url": "https://open.spotify.com/track/4XcsVgIeHtW4EDrcPUXCez"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "Vangelo",
-        "url": "https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 185179,
-      "name": "Spie",
-      "url": "https://open.spotify.com/track/6RRxP0B9bVZnbTnSpxfo9W"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
       "album": {
         "name": "BIG 5",
         "url": "https://open.spotify.com/album/4Are0mNScwygiibFFK39db"
@@ -265,59 +225,23 @@
       "url": "https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
       "album": {
-        "name": "Anche gli Eroi Muoiono",
-        "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
+        "name": "G&V",
+        "url": "https://open.spotify.com/album/11Fl5ZsX0Z9n97S5MfdBSw"
       },
       "artists": [
         {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+          "name": "IvanBi",
+          "url": "https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg"
         }
       ],
-      "duration_ms": 160964,
-      "name": "Gilgamesh",
-      "url": "https://open.spotify.com/track/09wmUkefYD7B2IWpHP6v3P"
+      "duration_ms": 112500,
+      "name": "G&V",
+      "url": "https://open.spotify.com/track/6GH0stb5CRpcpH9LDGD8JJ"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "Musica Triste",
-        "url": "https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN"
-      },
-      "artists": [
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        },
-        {
-          "name": "Flaco G",
-          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
-        }
-      ],
-      "duration_ms": 144506,
-      "name": "STAILA (feat. Flaco G)",
-      "url": "https://open.spotify.com/track/6X49o8gZ6lEWXZ60da1qmT"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "Vangelo",
-        "url": "https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 192001,
-      "name": "Peccati",
-      "url": "https://open.spotify.com/track/1V8SElaiJmR7SJiGELr6Rc"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
       "album": {
         "name": "DIAMANTE",
         "url": "https://open.spotify.com/album/41PGzFoRVHv9Cu1KQq42uh"
@@ -337,27 +261,23 @@
       "url": "https://open.spotify.com/track/6Roni9ASPjKcY7DYz7LAAh"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
       "album": {
-        "name": "Via dei Mille",
-        "url": "https://open.spotify.com/album/582gc2Nyig9saw8gHx9sUw"
+        "name": "LA BELLAVITA",
+        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
       },
       "artists": [
         {
-          "name": "Dipinto",
-          "url": "https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9"
-        },
-        {
-          "name": "Fresh Beatz",
-          "url": "https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX"
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
         }
       ],
-      "duration_ms": 130615,
-      "name": "Via dei Mille",
-      "url": "https://open.spotify.com/track/2qBPVhXAvX3kTFp2mk46gn"
+      "duration_ms": 165922,
+      "name": "DAVVERODAVVERO",
+      "url": "https://open.spotify.com/track/6bdTp8Jkp3IAU15rVPWFuJ"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
       "album": {
         "name": "TUTTO \u00c8 POSSIBILE",
         "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
@@ -377,7 +297,7 @@
       "url": "https://open.spotify.com/track/0FZtlHn0k4BDCLd2s38PIU"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
       "album": {
         "name": "TRAPPER",
         "url": "https://open.spotify.com/album/1GRFmMBH1Y0P4DFMvseDZS"
@@ -397,7 +317,7 @@
       "url": "https://open.spotify.com/track/2tn3eqpzvgoeXCsymtsSdN"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
       "album": {
         "name": "Tocco Pitocco",
         "url": "https://open.spotify.com/album/3agEJPn84PlXKiicWw8iVU"
@@ -413,23 +333,7 @@
       "url": "https://open.spotify.com/track/0gYffd4envdyCft10iF45g"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "TIMMY TURNER",
-        "url": "https://open.spotify.com/album/3lPXMLjefi0HYSFY3QsxyG"
-      },
-      "artists": [
-        {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
-        }
-      ],
-      "duration_ms": 152156,
-      "name": "TIMMY TURNER",
-      "url": "https://open.spotify.com/track/53Jdi1wxkc6IEBN2hUrBUM"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
       "album": {
         "name": "Old Fashion (feat. Promessa e Flaco G)",
         "url": "https://open.spotify.com/album/0rywnZls7YOlHPcipdSmAq"
@@ -453,7 +357,23 @@
       "url": "https://open.spotify.com/track/5j5L8CShNbWaYrFJWbXZs3"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "Anche gli Eroi Muoiono",
+        "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 160964,
+      "name": "Gilgamesh",
+      "url": "https://open.spotify.com/track/09wmUkefYD7B2IWpHP6v3P"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
       "album": {
         "name": "Angioletto & Ivan",
         "url": "https://open.spotify.com/album/3sHmICKLEu1zDk2HXSEikH"
@@ -473,23 +393,247 @@
       "url": "https://open.spotify.com/track/3E8CHshsY22HCd4mfNCj3h"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
       "album": {
-        "name": "MATTONE",
-        "url": "https://open.spotify.com/album/0CsSp5EBVxqrWEnyLGExBy"
+        "name": "NO REGULAR MUSIC 2.5",
+        "url": "https://open.spotify.com/album/7jfo9OmUMjGCPM2Ad0SS6n"
       },
       "artists": [
         {
-          "name": "Over Lapa",
-          "url": "https://open.spotify.com/artist/48e0k55AhCw5JzNWf3WsXm"
+          "name": "Sadturs",
+          "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
+        },
+        {
+          "name": "KIID",
+          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
+        },
+        {
+          "name": "Khodi",
+          "url": "https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n"
         }
       ],
-      "duration_ms": 140249,
-      "name": "MATTONE",
-      "url": "https://open.spotify.com/track/0VZOMTITniI3tskCL7RgU6"
+      "duration_ms": 110551,
+      "name": "re bowser (feat. Khodi)",
+      "url": "https://open.spotify.com/track/4XcsVgIeHtW4EDrcPUXCez"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "Musica Triste",
+        "url": "https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        }
+      ],
+      "duration_ms": 144506,
+      "name": "STAILA (feat. Flaco G)",
+      "url": "https://open.spotify.com/track/6X49o8gZ6lEWXZ60da1qmT"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "NO REGULAR MUSIC 2.5",
+        "url": "https://open.spotify.com/album/7jfo9OmUMjGCPM2Ad0SS6n"
+      },
+      "artists": [
+        {
+          "name": "Sadturs",
+          "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
+        },
+        {
+          "name": "KIID",
+          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
+        },
+        {
+          "name": "LILCR",
+          "url": "https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S"
+        }
+      ],
+      "duration_ms": 122553,
+      "name": "gas (feat. LILCR)",
+      "url": "https://open.spotify.com/track/4bcxHru29eWzkbaGTufRD0"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "Vangelo",
+        "url": "https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 192001,
+      "name": "Peccati",
+      "url": "https://open.spotify.com/track/1V8SElaiJmR7SJiGELr6Rc"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "Via dei Mille",
+        "url": "https://open.spotify.com/album/582gc2Nyig9saw8gHx9sUw"
+      },
+      "artists": [
+        {
+          "name": "Dipinto",
+          "url": "https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9"
+        },
+        {
+          "name": "Fresh Beatz",
+          "url": "https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX"
+        }
+      ],
+      "duration_ms": 130615,
+      "name": "Via dei Mille",
+      "url": "https://open.spotify.com/track/2qBPVhXAvX3kTFp2mk46gn"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "Push It (feat. ANNA)",
+        "url": "https://open.spotify.com/album/0vBDPxviLQoogLmAgzqoC5"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 175137,
+      "name": "Push It (feat. ANNA)",
+      "url": "https://open.spotify.com/track/5FLxKWv8HEFI67uKzSX27K"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "Hustle Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        }
+      ],
+      "duration_ms": 183680,
+      "name": "Floyd Mayweather (feat. Papa V e Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/3xrtjStNBOWioe7CN7YMDy"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "Anche gli Eroi Muoiono",
+        "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "duration_ms": 149567,
+      "name": "Mu'Ammar Gheddafi (feat. Simba La Rue)",
+      "url": "https://open.spotify.com/track/6Nr1XULPuJgumCyXBEfcgx"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "GIOVANE K",
+        "url": "https://open.spotify.com/album/21D5q29NdDolvQzfTpJxYh"
+      },
+      "artists": [
+        {
+          "name": "Visino Bianco",
+          "url": "https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx"
+        }
+      ],
+      "duration_ms": 135737,
+      "name": "GIOVANE K",
+      "url": "https://open.spotify.com/track/4dB7n000x0cP71A4BhWnAu"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "Anima",
+        "url": "https://open.spotify.com/album/4ovWKB40xL8e5H95RbgvGV"
+      },
+      "artists": [
+        {
+          "name": "Lubi",
+          "url": "https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy"
+        }
+      ],
+      "duration_ms": 165207,
+      "name": "Anima",
+      "url": "https://open.spotify.com/track/5S73czgYmEvRRyW191Ylsy"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "Potere (feat. Tony Boy)",
+        "url": "https://open.spotify.com/album/599BKohPCJPOW0r19HvOyY"
+      },
+      "artists": [
+        {
+          "name": "Aira",
+          "url": "https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 195090,
+      "name": "Potere (feat. Tony Boy)",
+      "url": "https://open.spotify.com/track/6MwOss3bVsCw0VFCkzVT73"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "David Bowie",
+        "url": "https://open.spotify.com/album/2Yt5pwHYwOjvWGDdeeoqfE"
+      },
+      "artists": [
+        {
+          "name": "Marshe",
+          "url": "https://open.spotify.com/artist/7Fl8QB9g3Mc3n90XPXferx"
+        }
+      ],
+      "duration_ms": 114473,
+      "name": "David Bowie",
+      "url": "https://open.spotify.com/track/1v8ouYS23vfLGaaJKUS8Al"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
       "album": {
         "name": "Take 6",
         "url": "https://open.spotify.com/album/5rBSou2aGWqVv28GiYx11N"
@@ -505,7 +649,83 @@
       "url": "https://open.spotify.com/track/0j4gmizuiIh5k7F62XISiF"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "Latte in Polvere",
+        "url": "https://open.spotify.com/album/1RjEbi0mbq9x7oUDMWq159"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 141906,
+      "name": "Mossa Strepitosa (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/4IthW8rks6srjJB5YxXV7n"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "TIMMY TURNER",
+        "url": "https://open.spotify.com/album/3lPXMLjefi0HYSFY3QsxyG"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        }
+      ],
+      "duration_ms": 152156,
+      "name": "TIMMY TURNER",
+      "url": "https://open.spotify.com/track/53Jdi1wxkc6IEBN2hUrBUM"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "BERLUSCONI",
+        "url": "https://open.spotify.com/album/2R98hh8wKmY27SvNY0Tj4K"
+      },
+      "artists": [
+        {
+          "name": "Le-one",
+          "url": "https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou"
+        },
+        {
+          "name": "NiceKidd",
+          "url": "https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX"
+        }
+      ],
+      "duration_ms": 126947,
+      "name": "BERLUSCONI",
+      "url": "https://open.spotify.com/track/0Ur1Orl66Xij0d36vLuHj4"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "Scendo E Cerco Un\u2019Altra",
+        "url": "https://open.spotify.com/album/1g9x6zzynCJggRwNaeAExc"
+      },
+      "artists": [
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        }
+      ],
+      "duration_ms": 129090,
+      "name": "Scendo E Cerco Un\u2019Altra",
+      "url": "https://open.spotify.com/track/0qFzTGufPnqkI4GrAwXCg1"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
       "album": {
         "name": "NO REGULAR MUSIC 2",
         "url": "https://open.spotify.com/album/1P6Pfl8VSFeu4hJjhp0xB1"
@@ -533,231 +753,47 @@
       "url": "https://open.spotify.com/track/1z9adRe4kaugMq3E8HX3c6"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
       "album": {
-        "name": "Push It (feat. ANNA)",
-        "url": "https://open.spotify.com/album/0vBDPxviLQoogLmAgzqoC5"
+        "name": "MORENDO AD OCCHI APERTI",
+        "url": "https://open.spotify.com/album/0FR8xNZ062P4lWYFLya43C"
       },
       "artists": [
         {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
         },
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        },
+        {
+          "name": "IDUA",
+          "url": "https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof"
         }
       ],
-      "duration_ms": 175137,
-      "name": "Push It (feat. ANNA)",
-      "url": "https://open.spotify.com/track/5FLxKWv8HEFI67uKzSX27K"
+      "duration_ms": 138352,
+      "name": "MONTANA (feat. RRARI DAL TACCO)",
+      "url": "https://open.spotify.com/track/1BxMEw38wEwSRWwywaRxu4"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
       "album": {
-        "name": "Hustle Mixtape Vol. 2",
-        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
+        "name": "MATTONE",
+        "url": "https://open.spotify.com/album/0CsSp5EBVxqrWEnyLGExBy"
       },
       "artists": [
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Papa V",
-          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
-        },
-        {
-          "name": "Nerissima Serpe",
-          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+          "name": "Over Lapa",
+          "url": "https://open.spotify.com/artist/48e0k55AhCw5JzNWf3WsXm"
         }
       ],
-      "duration_ms": 183680,
-      "name": "Floyd Mayweather (feat. Papa V e Nerissima Serpe)",
-      "url": "https://open.spotify.com/track/3xrtjStNBOWioe7CN7YMDy"
+      "duration_ms": 140249,
+      "name": "MATTONE",
+      "url": "https://open.spotify.com/track/0VZOMTITniI3tskCL7RgU6"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "3:33",
-        "url": "https://open.spotify.com/album/0DXyM0l7Cchdna2ySwoFhr"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kalvin",
-          "url": "https://open.spotify.com/artist/2AAA2f9pypoLem07n4Rj9n"
-        }
-      ],
-      "duration_ms": 156981,
-      "name": "3:33",
-      "url": "https://open.spotify.com/track/0DLpdlnRQhqj2Pk3jU9fIO"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "NO REGULAR MUSIC 2.5",
-        "url": "https://open.spotify.com/album/7jfo9OmUMjGCPM2Ad0SS6n"
-      },
-      "artists": [
-        {
-          "name": "Sadturs",
-          "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
-        },
-        {
-          "name": "KIID",
-          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
-        },
-        {
-          "name": "LILCR",
-          "url": "https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S"
-        }
-      ],
-      "duration_ms": 122553,
-      "name": "gas (feat. LILCR)",
-      "url": "https://open.spotify.com/track/4bcxHru29eWzkbaGTufRD0"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "FACE TO FACE 3 (feat. LINDA)",
-        "url": "https://open.spotify.com/album/2QDvieqYSoJSmnewqOws5v"
-      },
-      "artists": [
-        {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
-        },
-        {
-          "name": "LINDA",
-          "url": "https://open.spotify.com/artist/6LEGlkLDLkEXHrZ0Jxk7ZZ"
-        }
-      ],
-      "duration_ms": 171932,
-      "name": "FACE TO FACE 3 (feat. LINDA)",
-      "url": "https://open.spotify.com/track/02PObrpGaGPLP5ttlCjyiw"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "Anche gli Eroi Muoiono",
-        "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
-      },
-      "artists": [
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        },
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        },
-        {
-          "name": "FT Kings",
-          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
-        }
-      ],
-      "duration_ms": 149567,
-      "name": "Mu'Ammar Gheddafi (feat. Simba La Rue)",
-      "url": "https://open.spotify.com/track/6Nr1XULPuJgumCyXBEfcgx"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "GENESI",
-        "url": "https://open.spotify.com/album/6OVoXMg3SBr9EKHrN0F8a0"
-      },
-      "artists": [
-        {
-          "name": "Myto",
-          "url": "https://open.spotify.com/artist/7ArCICJwpNMHWiDMCXiEZO"
-        },
-        {
-          "name": "Enny P",
-          "url": "https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj"
-        }
-      ],
-      "duration_ms": 132270,
-      "name": "JEFFREY EPSTEIN (feat. Enny P)",
-      "url": "https://open.spotify.com/track/2eVpMcfwUKg8RgNGtx84nR"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "Latte in Polvere",
-        "url": "https://open.spotify.com/album/1RjEbi0mbq9x7oUDMWq159"
-      },
-      "artists": [
-        {
-          "name": "Papa V",
-          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
-        },
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        }
-      ],
-      "duration_ms": 141906,
-      "name": "Mossa Strepitosa (feat. Kid Yugi)",
-      "url": "https://open.spotify.com/track/4IthW8rks6srjJB5YxXV7n"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "BERLUSCONI",
-        "url": "https://open.spotify.com/album/2R98hh8wKmY27SvNY0Tj4K"
-      },
-      "artists": [
-        {
-          "name": "Le-one",
-          "url": "https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou"
-        },
-        {
-          "name": "NiceKidd",
-          "url": "https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX"
-        }
-      ],
-      "duration_ms": 126947,
-      "name": "BERLUSCONI",
-      "url": "https://open.spotify.com/track/0Ur1Orl66Xij0d36vLuHj4"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "TOP BOY",
-        "url": "https://open.spotify.com/album/0ZnweYsMDMzotgSbWozdu7"
-      },
-      "artists": [
-        {
-          "name": "Helmi",
-          "url": "https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj"
-        }
-      ],
-      "duration_ms": 116926,
-      "name": "TOP BOY",
-      "url": "https://open.spotify.com/track/7dONqMIllUjN1VztWTWvHf"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "Mi Piace",
-        "url": "https://open.spotify.com/album/1hjRI1plQ7EptzYZz1w31L"
-      },
-      "artists": [
-        {
-          "name": "Enny P",
-          "url": "https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj"
-        }
-      ],
-      "duration_ms": 150769,
-      "name": "Mi Piace",
-      "url": "https://open.spotify.com/track/7GU9BjXNX8wEeSVYbGxKC9"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
       "album": {
         "name": "LA BELLAVITA",
         "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
@@ -773,79 +809,7 @@
       "url": "https://open.spotify.com/track/1mErhpOIVgy2JPLO7KlI60"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "CRACK MUSICA II",
-        "url": "https://open.spotify.com/album/2F2oWAicT6LTTTa7QbvWU6"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        },
-        {
-          "name": "Side Baby",
-          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
-        },
-        {
-          "name": "Sick Luke",
-          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
-        }
-      ],
-      "duration_ms": 121904,
-      "name": "MODALIT\u00c0 DARK",
-      "url": "https://open.spotify.com/track/2HnE0Q1fnanFPgM5NvQuS2"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "ZAINO GUCCI",
-        "url": "https://open.spotify.com/album/7qtjKOb3aFShj3gZKlyEY5"
-      },
-      "artists": [
-        {
-          "name": "IvanBi",
-          "url": "https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "ZAINO GUCCI",
-      "url": "https://open.spotify.com/track/2prQiacFHWgk5TCigkAyv4"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "Devo",
-        "url": "https://open.spotify.com/album/5Nz3t74N1QPgS8y2naO5nu"
-      },
-      "artists": [
-        {
-          "name": "8blevrai",
-          "url": "https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D"
-        }
-      ],
-      "duration_ms": 163034,
-      "name": "Devo",
-      "url": "https://open.spotify.com/track/2Q77HvI20PQhaUWZVamln1"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "GIOVANE K",
-        "url": "https://open.spotify.com/album/21D5q29NdDolvQzfTpJxYh"
-      },
-      "artists": [
-        {
-          "name": "Visino Bianco",
-          "url": "https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx"
-        }
-      ],
-      "duration_ms": 135737,
-      "name": "GIOVANE K",
-      "url": "https://open.spotify.com/track/4dB7n000x0cP71A4BhWnAu"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
       "album": {
         "name": "9MILLIMETRI",
         "url": "https://open.spotify.com/album/1fNoI35Kz2ImcqXOzat0br"
@@ -865,7 +829,43 @@
       "url": "https://open.spotify.com/track/5WwZG4HIxAEF5flOeoG4Bn"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "3:33",
+        "url": "https://open.spotify.com/album/0DXyM0l7Cchdna2ySwoFhr"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kalvin",
+          "url": "https://open.spotify.com/artist/2AAA2f9pypoLem07n4Rj9n"
+        }
+      ],
+      "duration_ms": 156981,
+      "name": "3:33",
+      "url": "https://open.spotify.com/track/0DLpdlnRQhqj2Pk3jU9fIO"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "FACE TO FACE 3 (feat. LINDA)",
+        "url": "https://open.spotify.com/album/2QDvieqYSoJSmnewqOws5v"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        },
+        {
+          "name": "LINDA",
+          "url": "https://open.spotify.com/artist/6LEGlkLDLkEXHrZ0Jxk7ZZ"
+        }
+      ],
+      "duration_ms": 171932,
+      "name": "FACE TO FACE 3 (feat. LINDA)",
+      "url": "https://open.spotify.com/track/02PObrpGaGPLP5ttlCjyiw"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
       "album": {
         "name": "LA BELLAVITA",
         "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
@@ -881,31 +881,7 @@
       "url": "https://open.spotify.com/track/7i0zYckMTyvLyKAFxfOKIS"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
-      "album": {
-        "name": "Tinky Winky (feat. Pitta & Macello)",
-        "url": "https://open.spotify.com/album/1oOMmNU5XeQPApDIfU1SHW"
-      },
-      "artists": [
-        {
-          "name": "Fiore Akamono",
-          "url": "https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB"
-        },
-        {
-          "name": "Pitta",
-          "url": "https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT"
-        },
-        {
-          "name": "Macello",
-          "url": "https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ"
-        }
-      ],
-      "duration_ms": 190539,
-      "name": "Tinky Winky (feat. Pitta & Macello)",
-      "url": "https://open.spotify.com/track/0CcRHkvHChzo9wJDDtzR2L"
-    },
-    {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
       "album": {
         "name": "DOPAMINA",
         "url": "https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD"
@@ -929,76 +905,80 @@
       "url": "https://open.spotify.com/track/4txJR7LWq7AQYNYoBCf0gB"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
       "album": {
-        "name": "NO REGULAR MUSIC 2.5",
-        "url": "https://open.spotify.com/album/7jfo9OmUMjGCPM2Ad0SS6n"
+        "name": "GENESI",
+        "url": "https://open.spotify.com/album/6OVoXMg3SBr9EKHrN0F8a0"
       },
       "artists": [
         {
-          "name": "Sadturs",
-          "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
+          "name": "Myto",
+          "url": "https://open.spotify.com/artist/7ArCICJwpNMHWiDMCXiEZO"
         },
         {
-          "name": "KIID",
-          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
-        },
-        {
-          "name": "Lubi",
-          "url": "https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy"
-        },
-        {
-          "name": "Astro",
-          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+          "name": "Enny P",
+          "url": "https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj"
         }
       ],
-      "duration_ms": 141369,
-      "name": "devo cambiare i vestiti (feat. Lubi, Astro)",
-      "url": "https://open.spotify.com/track/33tSYUrYTXKdxh3jqHCpo7"
+      "duration_ms": 132270,
+      "name": "JEFFREY EPSTEIN (feat. Enny P)",
+      "url": "https://open.spotify.com/track/2eVpMcfwUKg8RgNGtx84nR"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
       "album": {
-        "name": "Potere (feat. Tony Boy)",
-        "url": "https://open.spotify.com/album/599BKohPCJPOW0r19HvOyY"
+        "name": "TOP BOY",
+        "url": "https://open.spotify.com/album/0ZnweYsMDMzotgSbWozdu7"
       },
       "artists": [
         {
-          "name": "Aira",
-          "url": "https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6"
-        },
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+          "name": "Helmi",
+          "url": "https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj"
         }
       ],
-      "duration_ms": 195090,
-      "name": "Potere (feat. Tony Boy)",
-      "url": "https://open.spotify.com/track/6MwOss3bVsCw0VFCkzVT73"
+      "duration_ms": 116926,
+      "name": "TOP BOY",
+      "url": "https://open.spotify.com/track/7dONqMIllUjN1VztWTWvHf"
     },
     {
-      "added_at": "2026-04-20 17:42:42",
+      "added_at": "2026-04-23 22:04:28",
       "album": {
-        "name": "MORENDO AD OCCHI APERTI",
-        "url": "https://open.spotify.com/album/0FR8xNZ062P4lWYFLya43C"
+        "name": "Mi Piace",
+        "url": "https://open.spotify.com/album/1hjRI1plQ7EptzYZz1w31L"
       },
       "artists": [
         {
-          "name": "Promessa",
-          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
-        },
-        {
-          "name": "RRARI DAL TACCO",
-          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
-        },
-        {
-          "name": "IDUA",
-          "url": "https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof"
+          "name": "Enny P",
+          "url": "https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj"
         }
       ],
-      "duration_ms": 138352,
-      "name": "MONTANA (feat. RRARI DAL TACCO)",
-      "url": "https://open.spotify.com/track/1BxMEw38wEwSRWwywaRxu4"
+      "duration_ms": 150769,
+      "name": "Mi Piace",
+      "url": "https://open.spotify.com/track/7GU9BjXNX8wEeSVYbGxKC9"
+    },
+    {
+      "added_at": "2026-04-23 22:04:28",
+      "album": {
+        "name": "Tinky Winky (feat. Pitta & Macello)",
+        "url": "https://open.spotify.com/album/1oOMmNU5XeQPApDIfU1SHW"
+      },
+      "artists": [
+        {
+          "name": "Fiore Akamono",
+          "url": "https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB"
+        },
+        {
+          "name": "Pitta",
+          "url": "https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT"
+        },
+        {
+          "name": "Macello",
+          "url": "https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ"
+        }
+      ],
+      "duration_ms": 190539,
+      "name": "Tinky Winky (feat. Pitta & Macello)",
+      "url": "https://open.spotify.com/track/0CcRHkvHChzo9wJDDtzR2L"
     }
   ],
   "unique_name": "Street Culto",

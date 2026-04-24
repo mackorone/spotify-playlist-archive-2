@@ -916,7 +916,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 144309,
       "name": "Changeling",
       "url": "https://open.spotify.com/track/0CxblZYOpspbcyamka1LLR"
@@ -1582,7 +1582,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 205320,
       "name": "Dr. Doctor",
       "url": "https://open.spotify.com/track/4aHwXGVekQoKMPJXSYVoRH"
@@ -1694,6 +1694,24 @@
       "duration_ms": 233500,
       "name": "Eat Quiche, Sleep, Repeat",
       "url": "https://open.spotify.com/track/7fDiApidJ0QXtwH8cvozlj"
+    },
+    {
+      "album": {
+        "name": "KILL Bathing Suits",
+        "url": "https://open.spotify.com/album/0BxVovOSYiv5mOUq2zmr3p"
+      },
+      "artists": [
+        {
+          "name": "Bathing Suits",
+          "url": "https://open.spotify.com/artist/0wAHOA5JY06O6TbyGLn9zR"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444586,
+      "name": "Empathy",
+      "url": "https://open.spotify.com/track/2pT6X95VPoqUNaenqPm9sY"
     },
     {
       "album": {
@@ -2590,7 +2608,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 187493,
       "name": "Heaven Sent",
       "url": "https://open.spotify.com/track/0ewbgBIlWOENsK3IlhRTDK"
@@ -3656,7 +3674,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 189473,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/1pTxyXWghFl2utQ5vEeit0"
@@ -3998,7 +4016,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 215609,
       "name": "Only Girl (Single Version)",
       "url": "https://open.spotify.com/track/5r3AMNwlDPffDLGnTkiGMP"
@@ -4056,6 +4074,24 @@
       "duration_ms": 174280,
       "name": "Party",
       "url": "https://open.spotify.com/track/5zEgkeDQtPTKAC7sM5ocUp"
+    },
+    {
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/3UZ05jaikHRAGlsGwOsn4w"
+      },
+      "artists": [
+        {
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197791,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/5luOK6MRqAI0ZWT7ibbXvl"
     },
     {
       "album": {
@@ -4388,6 +4424,24 @@
       "duration_ms": 358418,
       "name": "Resisting Resistance",
       "url": "https://open.spotify.com/track/5sxatW3jsmH2gUTJ1zvnHs"
+    },
+    {
+      "album": {
+        "name": "Restless in Bloom",
+        "url": "https://open.spotify.com/album/1YynRD3szUoJPmQbH9fbAx"
+      },
+      "artists": [
+        {
+          "name": "Tooth",
+          "url": "https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264481,
+      "name": "Restless in Bloom",
+      "url": "https://open.spotify.com/track/4mS6vO5MKQnrv2iObSlU6y"
     },
     {
       "album": {
@@ -5381,6 +5435,24 @@
     },
     {
       "album": {
+        "name": "The Standard Model / I Watched You as Your Mind Slipped Far (Away from Me)",
+        "url": "https://open.spotify.com/album/15ZXKA3K33WXyYMU87DcxI"
+      },
+      "artists": [
+        {
+          "name": "MORN",
+          "url": "https://open.spotify.com/artist/0kyIsGsq7em6p0dOUwOAI3"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216800,
+      "name": "The Standard Model",
+      "url": "https://open.spotify.com/track/7BPVpfnypd2ivsSiyoZpzC"
+    },
+    {
+      "album": {
         "name": "The Times",
         "url": "https://open.spotify.com/album/2mdjG1DeryTKiAMxmsmdgJ"
       },
@@ -5684,6 +5756,24 @@
       "duration_ms": 179733,
       "name": "Under The Table",
       "url": "https://open.spotify.com/track/351TRYuSxdSyiStrTtq97p"
+    },
+    {
+      "album": {
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/1sI5zExyPAZDiL4GYrKeGC"
+      },
+      "artists": [
+        {
+          "name": "Bleech 9:3",
+          "url": "https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209760,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/6d1Zurp6nbAdUztdtu3XEF"
     },
     {
       "album": {

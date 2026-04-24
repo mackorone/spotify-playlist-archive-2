@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best indie music of the moment. Cover: Not For Radio",
+  "description": "The best indie music of the moment. Cover: Smerz",
   "name": "The Indie List",
   "tracks": [
     {
@@ -968,6 +968,24 @@
       "duration_ms": 256875,
       "name": "Always The Same (feat. St. Vincent)",
       "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
+    },
+    {
+      "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272084,
+      "name": "American Cars",
+      "url": "https://open.spotify.com/track/3WRgRy12YW4I9mjodKXWwy"
     },
     {
       "album": {
@@ -5603,6 +5621,24 @@
     },
     {
       "album": {
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/4YUTzEpDHp1ZO5nw6WXNy9"
+      },
+      "artists": [
+        {
+          "name": "Julia Cumming",
+          "url": "https://open.spotify.com/artist/7hIHeaaT8TkaHpFDT9QZfR"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Fucking Closure",
+      "url": "https://open.spotify.com/track/5knPRlD4seMirLTdCa2gmU"
+    },
+    {
+      "album": {
         "name": "Fundraiser",
         "url": "https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID"
       },
@@ -6046,7 +6082,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 263228,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK"
@@ -6273,6 +6309,24 @@
     },
     {
       "album": {
+        "name": "halftime oranges",
+        "url": "https://open.spotify.com/album/0NAMPUg46S6mRCVZtJT40d"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213409,
+      "name": "halftime oranges",
+      "url": "https://open.spotify.com/track/5Aaa6F1n8j7ZVM7JV0t1Mw"
+    },
+    {
+      "album": {
         "name": "Halfway Round The World",
         "url": "https://open.spotify.com/album/45scJOU2avCqA3brzHgqSy"
       },
@@ -6284,7 +6338,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 204357,
       "name": "Halfway Round The World",
       "url": "https://open.spotify.com/track/3kWEvYnVvqwJDNiKz76yBV"
@@ -7134,7 +7188,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 214304,
       "name": "I Know!",
       "url": "https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t"
@@ -7546,7 +7600,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 249253,
       "name": "In Violet",
       "url": "https://open.spotify.com/track/1QGzywHvE2qoqqkFzANyYb"
@@ -7827,6 +7881,24 @@
     },
     {
       "album": {
+        "name": "Joke About Divorce",
+        "url": "https://open.spotify.com/album/35gxqXq1tL2Qw8Y7jp8NVl"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255180,
+      "name": "Joke About Divorce",
+      "url": "https://open.spotify.com/track/4TNo1JuR3EsmGIhyCtjweO"
+    },
+    {
+      "album": {
         "name": "Joker",
         "url": "https://open.spotify.com/album/3C5hemEZFqLPsfbiW1tm70"
       },
@@ -7856,7 +7928,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 173637,
       "name": "Joy",
       "url": "https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN"
@@ -10641,6 +10713,24 @@
     },
     {
       "album": {
+        "name": "One Foot Out",
+        "url": "https://open.spotify.com/album/0NgM5o4m1b4yYy79DBKrOI"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "One Foot Out",
+      "url": "https://open.spotify.com/track/16muzdLNvN4Wi5nIvcRDdx"
+    },
+    {
+      "album": {
         "name": "Everybody Scream",
         "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
       },
@@ -10764,7 +10854,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 259495,
       "name": "Opening Night",
       "url": "https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB"
@@ -11370,7 +11460,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 218133,
       "name": "Please Let Me Remember This",
       "url": "https://open.spotify.com/track/7saqm99dZhXDyu0GLRQ80v"
@@ -11460,7 +11550,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 262726,
       "name": "Porch Light",
       "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
@@ -12256,6 +12346,24 @@
       "duration_ms": 211061,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/6HEWgg6dWX226zCg5D3442"
+    },
+    {
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb"
+      },
+      "artists": [
+        {
+          "name": "Swapmeet",
+          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204202,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL"
     },
     {
       "album": {
@@ -13355,6 +13463,24 @@
     },
     {
       "album": {
+        "name": "Spring summer",
+        "url": "https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128012,
+      "name": "Spring summer",
+      "url": "https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4"
+    },
+    {
+      "album": {
         "name": "Squish",
         "url": "https://open.spotify.com/album/6qMjvExxrJl2gydwmMbn3R"
       },
@@ -14326,7 +14452,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 153780,
       "name": "The Age of Innocence",
       "url": "https://open.spotify.com/track/5CpvAXYX4QYrmp8Z4jDaUV"
@@ -17028,6 +17154,24 @@
       "duration_ms": 177601,
       "name": "You Exist",
       "url": "https://open.spotify.com/track/0qIPRgahrVnfRiVTYkuPsW"
+    },
+    {
+      "album": {
+        "name": "Blue Angel Sparkling Silver 2",
+        "url": "https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor"
+      },
+      "artists": [
+        {
+          "name": "Quiet Light",
+          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186446,
+      "name": "You Say I Love You",
+      "url": "https://open.spotify.com/track/2kv2epe0oiyQs8msJXbn9w"
     },
     {
       "album": {

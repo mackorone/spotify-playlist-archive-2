@@ -4,7 +4,7 @@
 
 > Voor boslucht, koffie en kalmte.
 
-289 songs - 17 hr 19 min
+291 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Place](https://open.spotify.com/track/4HuPUvkzorcinSQZmq3Hnx) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [A Place](https://open.spotify.com/album/7krLfGUGw4QuyzxXHa8rax) | 3:45 | 2024-06-27 | 2024-07-05 |
 | [A Tree Falls](https://open.spotify.com/track/7g3fTRxdHc8AEzwPeiZTv6) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Live From Mother Earth](https://open.spotify.com/album/41WeqlJnk95KB5XpZ0jJ6g) | 3:13 | 2025-07-03 | 2025-09-20 |
 | [Abilene](https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Abilene](https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw) | 4:16 | 2025-03-20 |  |
-| [Against The Dying Of The Light](https://open.spotify.com/track/1PaWcBii4kigvhEG46a7QP) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/7cTCFQBgZ7ywhyp44I82FI) | 2:28 | 2026-01-15 |  |
+| [Against The Dying Of The Light](https://open.spotify.com/track/1PaWcBii4kigvhEG46a7QP) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/7cTCFQBgZ7ywhyp44I82FI) | 2:28 | 2026-01-15 | 2026-04-24 |
 | [Aisle 6](https://open.spotify.com/track/6imuRuYPVTDg3XIKLrAuav) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Aisle 6](https://open.spotify.com/album/5uBb7hM05jypCsZo2Kd1ve) | 3:05 | 2024-06-27 | 2025-01-24 |
 | [Alabaster](https://open.spotify.com/track/7LqMpswiEeZAnqNTkcLiGY) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Alabaster](https://open.spotify.com/album/3Dplc4wrcPMcKtGMMDfEAs) | 4:15 | 2025-09-19 | 2025-10-10 |
 | [All I Could Do Was Cry](https://open.spotify.com/track/7Ca3Zb8wejNYCoei3tlJ9e) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:55 | 2025-07-03 | 2025-09-20 |
@@ -61,7 +61,7 @@
 | [confession](https://open.spotify.com/track/41mNpjh7C4mAzAHXOiA0fn) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [confession](https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ) | 1:24 | 2025-02-27 |  |
 | [Conversation](https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Conversation](https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp) | 3:06 | 2026-03-26 |  |
 | [Convince Yourself](https://open.spotify.com/track/2z5az4Tl4e7bQzfX8Sr6r9) | [Ato Pérez](https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc), [Jeffrey Dol](https://open.spotify.com/artist/09UVRn1NH4bTQ3lQrmvVHh) | [The Farm](https://open.spotify.com/album/40J82quNYkW4TBE5ebbHPs) | 3:16 | 2025-01-27 | 2025-02-28 |
-| [Cowboys of Los](https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Cowboys of Los](https://open.spotify.com/album/218OGsKxVoDNZwue6n2yXH) | 4:03 | 2025-03-28 |  |
+| [Cowboys of Los](https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Cowboys of Los](https://open.spotify.com/album/218OGsKxVoDNZwue6n2yXH) | 4:03 | 2025-03-28 | 2026-04-24 |
 | [crooked the road.](https://open.spotify.com/track/4OjdtASj8p9hTwS3D555wk) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [crooked the road.](https://open.spotify.com/album/43A0VxIP0ZZ39LRB3AKrCL) | 2:55 | 2025-01-23 | 2025-05-02 |
 | [Crown](https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Crown](https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY) | 2:22 | 2025-01-23 |  |
 | [Daddy's Selling Wine In A Burning House](https://open.spotify.com/track/6jWsP2neKDqX4YWNK46njD) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Daddy's Selling Wine In A Burning House](https://open.spotify.com/album/7zqjNLbmzTee6fzqCTg4K1) | 4:24 | 2025-01-23 | 2025-05-18 |
@@ -208,6 +208,7 @@
 | [Recompose](https://open.spotify.com/track/1aQ2mEr0u12stjGRnTnZA7) | [Kay Nambiar](https://open.spotify.com/artist/2oFOiPYQ4kKIaBS9337ZoX) | [Ep1](https://open.spotify.com/album/45IdJiVJuToGIpu9SwIOsI) | 3:24 | 2024-06-27 | 2024-09-20 |
 | [Relationships](https://open.spotify.com/track/2DviqmDbo0oRwy8E7LHv8p) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Everybody's trying to figure me out](https://open.spotify.com/album/7GQN5bFkpE2a9RFknshXuF) | 3:22 | 2025-07-03 | 2025-09-20 |
 | [Ribbons](https://open.spotify.com/track/1mn1vm47Qm3h91kgNRmXf0) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:17 | 2025-07-03 | 2025-09-20 |
+| [Ride Lonesome](https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Ride Lonesome](https://open.spotify.com/album/47450DcHOgvjj4D21gBHGC) | 4:32 | 2026-04-23 |  |
 | [River Man](https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:18 | 2025-07-03 | 2025-09-20 |
 | [Rosyln](https://open.spotify.com/track/4k7x3QKrc3h3U0Viqk0uop) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Twilight Saga: New Moon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R) | 4:49 | 2025-07-03 | 2025-09-20 |
 | [Rust.](https://open.spotify.com/track/2y6vEKzRcA49gCJEv9DP8N) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Rust.](https://open.spotify.com/album/5UFLVvCrvlPw5WAWb6T7XU) | 3:35 | 2025-01-23 |  |
@@ -293,6 +294,7 @@
 | [Wild Dreams](https://open.spotify.com/track/3ryQlOYypwEgxO3Ro6diSr) | [Cristóvam](https://open.spotify.com/artist/7p23ERQPaBJU2W0gguMNTi) | [Wild Dreams](https://open.spotify.com/album/525TrAVdQ5eqjkNKUTacAI) | 3:23 | 2025-01-23 | 2025-01-29 |
 | [Willow](https://open.spotify.com/track/0DrkxFAooTDpynN6S45BsM) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Willow](https://open.spotify.com/album/0PBWBfwJx9pW7E3gVYlCB0) | 4:34 | 2025-03-07 | 2025-07-04 |
 | [Winter Baby](https://open.spotify.com/track/4gsO99UmYFrncTeTvMDwWX) | [Sam Vano](https://open.spotify.com/artist/7pGC4cTs6vBSWgWDnf5To5) | [Winter Baby](https://open.spotify.com/album/3OL8iyJX6m54OGBWY6cLoz) | 3:06 | 2025-01-23 | 2025-02-14 |
+| [You and I](https://open.spotify.com/track/3veAtMxHWM7SbZOXfJ142t) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [You and I](https://open.spotify.com/album/5ILxuigcogkefZqzMuHU2t) | 2:49 | 2026-04-23 |  |
 | [You Are The Morning](https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/2YEw0l5F8HCK3t6iZWzCx3) | 4:13 | 2025-02-03 | 2025-05-13 |
 | [You Said I'd Feel It All Again](https://open.spotify.com/track/0cuXTNMJypoaqDbJZVZu2H) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [You Said I'd Feel It All Again](https://open.spotify.com/album/4PB0sUYPXDP7s5O5zYW2Zk) | 3:52 | 2025-01-23 | 2025-02-12 |
 | [Younger Days](https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Bungalow](https://open.spotify.com/album/4XhG9K7809PaC7aGN7nsE6) | 3:31 | 2025-10-23 |  |

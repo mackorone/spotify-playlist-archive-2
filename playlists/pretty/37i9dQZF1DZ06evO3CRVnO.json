@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 325934,
+  "num_followers": 325956,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAADmT+YAjTII637zMF+NVCod",
+  "snapshot_id": "aegPgAAAAAAJwnynvzsOxbc31mURicoS",
   "tracks": [
     {
       "added_at": null,
@@ -279,22 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playboi Carti",
-        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
+        "name": "Dark Lane Demo Tapes",
+        "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
       },
       "artists": [
         {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 235535,
-      "name": "wokeuplikethis*",
-      "url": "https://open.spotify.com/track/59J5nzL1KniFHnU120dQzt"
+      "duration_ms": 149077,
+      "name": "Pain 1993 (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/6Kj17Afjo1OKJYpf5VzCeo"
     },
     {
       "added_at": null,
@@ -335,22 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dark Lane Demo Tapes",
-        "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
+        "name": "Playboi Carti",
+        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
           "name": "Playboi Carti",
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 149077,
-      "name": "Pain 1993 (with Playboi Carti)",
-      "url": "https://open.spotify.com/track/6Kj17Afjo1OKJYpf5VzCeo"
+      "duration_ms": 235535,
+      "name": "wokeuplikethis*",
+      "url": "https://open.spotify.com/track/59J5nzL1KniFHnU120dQzt"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC - SORRY 4 DA WAIT",
-        "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
+        "name": "Whole Lotta Red",
+        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 209413,
-      "name": "2024",
-      "url": "https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi"
+      "duration_ms": 124093,
+      "name": "Vamp Anthem",
+      "url": "https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whole Lotta Red",
-        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+        "name": "MUSIC - SORRY 4 DA WAIT",
+        "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 124093,
-      "name": "Vamp Anthem",
-      "url": "https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA"
+      "duration_ms": 209413,
+      "name": "2024",
+      "url": "https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC - SORRY 4 DA WAIT",
-        "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 166680,
-      "name": "DIFFERENT DAY",
-      "url": "https://open.spotify.com/track/0dApSLrXvnYWy1wagJOmpp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -807,22 +791,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mansion Musick",
-        "url": "https://open.spotify.com/album/0yhgc6S7U7pLxp0hjgPkH4"
+        "name": "MUSIC - SORRY 4 DA WAIT",
+        "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
       },
       "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        },
         {
           "name": "Playboi Carti",
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 166855,
-      "name": "Uh Uh - feat. Playboi Carti",
-      "url": "https://open.spotify.com/track/0C5RP61AWPA097x3vZzGKu"
+      "duration_ms": 166680,
+      "name": "DIFFERENT DAY",
+      "url": "https://open.spotify.com/track/0dApSLrXvnYWy1wagJOmpp"
     },
     {
       "added_at": null,
@@ -843,6 +823,26 @@
       "duration_ms": 192266,
       "name": "Blick Sum (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mansion Musick",
+        "url": "https://open.spotify.com/album/0yhgc6S7U7pLxp0hjgPkH4"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 166855,
+      "name": "Uh Uh - feat. Playboi Carti",
+      "url": "https://open.spotify.com/track/0C5RP61AWPA097x3vZzGKu"
     },
     {
       "added_at": null,

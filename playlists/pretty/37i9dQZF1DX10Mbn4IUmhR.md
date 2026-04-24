@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks in Mzansi\. Cover: Tyla & Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,841 likes - 76 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,849 likes - 79 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 23 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 |
 | 24 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 |
 | 25 | [Daylight](https://open.spotify.com/track/5OGZ2Mx4Cs6RCndDRycGBJ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/52O89bnT0vPNtrzF1AtWJ2) | 3:32 |
-| 26 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 |
-| 27 | [Me & U](https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 3:12 |
+| 26 | [Me & U](https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 3:12 |
+| 27 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 |
 | 28 | [Muévelo](https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Muévelo](https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje) | 2:07 |
 | 29 | [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 |
 | 30 | [Younger You \- From the "Hannah Montana 20th Anniversary Special"](https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger You \(From the "Hannah Montana 20th Anniversary Special"\)](https://open.spotify.com/album/3tlEOoxO3h3mkLyLgftdz6) | 2:47 |
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 35 | [MMS](https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:39 |
 | 36 | [Waist](https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Waist](https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil) | 2:45 |
 | 37 | [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:23 |
-| 38 | [Intentions \(feat\. Urban Chords\)](https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Urban Chords](https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK) | [Intentions \(feat\. Urban Chords\)](https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW) | 2:29 |
-| 39 | [BAD HONEY](https://open.spotify.com/track/2Rv2EIpEmEi5fGVtr5KVgI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:36 |
-| 40 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/3YjIBOS1cdMpr5vyKMIxUJ) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [So Easy \(To Fall In Love\)](https://open.spotify.com/album/7lgnL2Z6WqvP4qDArZGnE5) | 3:16 |
-| 41 | [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 |
+| 38 | [BAD HONEY](https://open.spotify.com/track/2Rv2EIpEmEi5fGVtr5KVgI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:36 |
+| 39 | [Intentions \(feat\. Urban Chords\)](https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Urban Chords](https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK) | [Intentions \(feat\. Urban Chords\)](https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW) | 2:29 |
+| 40 | [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 |
+| 41 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/3YjIBOS1cdMpr5vyKMIxUJ) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [So Easy \(To Fall In Love\)](https://open.spotify.com/album/7lgnL2Z6WqvP4qDArZGnE5) | 3:16 |
 | 42 | [Last of a Dying Breed](https://open.spotify.com/track/1c2ArpI0RmBOk62Tf81xLI) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Last of a Dying Breed](https://open.spotify.com/album/3ttt3IAhIjw42M0OXWbyJS) | 2:29 |
 | 43 | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/track/7sR4V3QuvyZS8jLzbhUpM2) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/album/5aQWOuuzkvcemieOiW1t7H) | 3:27 |
 | 44 | [MY EVERYTHING](https://open.spotify.com/track/45SDkqqvrrJmTAC70jKcr8) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG) | [PARADISE LOST](https://open.spotify.com/album/57X2ytsj3pZbog809Pt7r9) | 3:16 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 61 | [Popstar Party](https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Popstar Party](https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG) | 3:08 |
 | 62 | [Ted Mosby](https://open.spotify.com/track/0MEHbAg96M5HJMsRYPVDeU) | [Sir Silly](https://open.spotify.com/artist/0HwrBLxXMAzq5e7hfYgHcO) | [Ted Mosby](https://open.spotify.com/album/3eEH6dpJaarICwy9yp2vKC) | 2:51 |
 | 63 | [Untimely Disclosure](https://open.spotify.com/track/7g6WhPV8EJb2Lxs1AX9Mho) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv) | [Untimely Disclosure](https://open.spotify.com/album/6bt64LXnIIgNvpF5nzrKaq) | 3:43 |
-| 64 | [My Sweet Lullaby](https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [My Sweet Lullaby](https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5) | 3:25 |
-| 65 | [Written](https://open.spotify.com/track/1G8iJbYCHs5GmUqdCy0vh4) | [GhostwriterMel](https://open.spotify.com/artist/7BXatN3mB4rAllCGNGNqDD) | [Written](https://open.spotify.com/album/6Tugfz5Byo1qKuQjdVOHhp) | 3:13 |
+| 64 | [Written](https://open.spotify.com/track/1G8iJbYCHs5GmUqdCy0vh4) | [GhostwriterMel](https://open.spotify.com/artist/7BXatN3mB4rAllCGNGNqDD) | [Written](https://open.spotify.com/album/6Tugfz5Byo1qKuQjdVOHhp) | 3:13 |
+| 65 | [My Sweet Lullaby](https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [My Sweet Lullaby](https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5) | 3:25 |
 | 66 | [Give It To Me](https://open.spotify.com/track/4SxNIsYJVeKx7crMsMNjf8) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL), [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet) | [Give It To Me](https://open.spotify.com/album/0Muk4t1czK2RNtrisFJ4sV) | 2:28 |
 | 67 | [I want you to be happy](https://open.spotify.com/track/7dIohPKdV2O4wXxCfgXTzn) | [Ida Fiona](https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm) | [I want you to be happy](https://open.spotify.com/album/73hoSlv8YWoYsLOo8TdoLu) | 2:45 |
 | 68 | [Same Old](https://open.spotify.com/track/51oVvelyF8dLbqLjRWFqUS) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [Same Old](https://open.spotify.com/album/7M3UFrc2dAvisOoCWCb0wp) | 3:30 |
@@ -84,5 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 74 | [Late Beginnings](https://open.spotify.com/track/1xSF1rA2bnMl5z9MexHUfH) | [theNairobiNomad](https://open.spotify.com/artist/2tWbNgLqq5FAIN29T1v3k6), [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP) | [Late Beginnings](https://open.spotify.com/album/6IumfasKisZ3fluUI79a3r) | 3:03 |
 | 75 | [Burn](https://open.spotify.com/track/27033s3ppBoMd3RYjmT8eB) | [ARIS](https://open.spotify.com/artist/0J6G9NfkjzlvPKMLnKemv8) | [Burn](https://open.spotify.com/album/2oYTqR3MDbU55VHxCwxZlO) | 2:16 |
 | 76 | [IDWGOT](https://open.spotify.com/track/3p1yIvdlKxWRqZtvBjP4jA) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [IDWGOT](https://open.spotify.com/album/6mVtGTvJQt8PkGlSWRfGQr) | 3:34 |
+| 77 | [THIRTY THR33](https://open.spotify.com/track/72ENQ88U6QPVJKjeco45lW) | [Erin Elliot](https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1) | [THIRTY THR33](https://open.spotify.com/album/6nWpLB3vPx87yFsRxTf8tz) | 2:56 |
+| 78 | [All The Things](https://open.spotify.com/track/0Wknp7wThnRkNl2xw4h19g) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [All The Things](https://open.spotify.com/album/2RGi75eKSdLPC99WnzMggs) | 3:01 |
+| 79 | [My Hallelujah](https://open.spotify.com/track/1Dd3Id44SgNl259jeJGSQ6) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [My Hallelujah](https://open.spotify.com/album/1xe4bQw3TDN3sFzTD4nrcL) | 2:59 |
 
-Snapshot ID: `AAAAACj0SH+AWaMJroj+l15IdZLqzk1Q`
+Snapshot ID: `AAAAAEVm2XGdW5PeayADFmHw9fyQEBaV`

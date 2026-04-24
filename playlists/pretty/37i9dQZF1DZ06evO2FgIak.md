@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 
 > This is Muddy Waters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,172 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,177 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 22 | [The Red Rooster](https://open.spotify.com/track/1qdLSzpYZBqJcSBKbSc4e6) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 7:25 |
 | 23 | [Sad Sad Day](https://open.spotify.com/track/7MtTOg86IBLphq4YU3t31z) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 5:23 |
 | 24 | [I Just Want To Make Love To You \- Single Version](https://open.spotify.com/track/1OhUmE8Wkw1KBXx2gQcOo9) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 2:50 |
-| 25 | [You Gonna Need My Help](https://open.spotify.com/track/2TUF4yTaTVRYh1I64AjvqO) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:13 |
-| 26 | [She's Nineteen Years Old](https://open.spotify.com/track/30A9AnKtDJVZY1tzRauhSx) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 3:18 |
+| 25 | [She's Nineteen Years Old](https://open.spotify.com/track/30A9AnKtDJVZY1tzRauhSx) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 3:18 |
+| 26 | [You Gonna Need My Help](https://open.spotify.com/track/2TUF4yTaTVRYh1I64AjvqO) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:13 |
 | 27 | [Tom Cat](https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Electric Mud](https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL) | 3:37 |
 | 28 | [Still A Fool](https://open.spotify.com/track/1AqMhPGWDrR89wmOzilvr1) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 3:19 |
 | 29 | [Crawlin' Kingsnake](https://open.spotify.com/track/2fXcmQZ7lYoCxzQmZoDN06) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [You Shook Me \- The Chess Masters, Vol\. 3, 1958 To 1963](https://open.spotify.com/album/7H6gYOQY7PQX5CMBr8r3ol) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 49 | [Lonesome Road Blues](https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 3:03 |
 | 50 | [Back to the Chicken Shack \- Paris, 4 Novembre 1968 \(Restauración 2023\)](https://open.spotify.com/track/3losOKYp0VStjuhL9t4XGi) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Muddy Waters Blues Band Live Paris 1968 \(Restauración 2023\)](https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv) | 6:28 |
 
-Snapshot ID: `aeVsgAAAAADqMQ4I6BM3le3l2uXess/p`
+Snapshot ID: `aegPgAAAAAAa52/EYurbIxqZFhZULqoF`

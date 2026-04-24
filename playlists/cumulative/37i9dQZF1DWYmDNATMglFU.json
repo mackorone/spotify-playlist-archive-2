@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "new gen alt \u26d3 ft. nieve ella",
+  "description": "new gen alt \u26d3 ft. bleech 9:3",
   "name": "The Locker",
   "tracks": [
     {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 217621,
       "name": "97%",
       "url": "https://open.spotify.com/track/0ln0jLi90G6ZSuN63icMMi"
@@ -2970,7 +2970,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 184053,
       "name": "Call U Back",
       "url": "https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5"
@@ -3786,7 +3786,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 180232,
       "name": "CONNECT",
       "url": "https://open.spotify.com/track/7MEvZ0kitE1lLLugeWyw6Y"
@@ -6544,7 +6544,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 177718,
       "name": "fleur rouge",
       "url": "https://open.spotify.com/track/6Al2aapdRSEYljLLU4yClv"
@@ -6638,7 +6638,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 185603,
       "name": "for your love",
       "url": "https://open.spotify.com/track/6YiySDiEu0qdt9k75XD0qZ"
@@ -7624,6 +7624,24 @@
       "duration_ms": 186866,
       "name": "Hands Down",
       "url": "https://open.spotify.com/track/6yVSp9H2STyLeOs7pjy2w4"
+    },
+    {
+      "album": {
+        "name": "Spring Forward",
+        "url": "https://open.spotify.com/album/61NGKj9SdXHHxDWU8ZsnaS"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212538,
+      "name": "Hanging Out To Dry",
+      "url": "https://open.spotify.com/track/1GZ5KqHOdkU0cZoz1JfQo8"
     },
     {
       "album": {
@@ -11350,7 +11368,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 142266,
       "name": "May",
       "url": "https://open.spotify.com/track/6m56WmEOvqQOBjKCN5vyly"
@@ -11422,7 +11440,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 189473,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/1pTxyXWghFl2utQ5vEeit0"
@@ -12660,7 +12678,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 170238,
       "name": "Not Sorry",
       "url": "https://open.spotify.com/track/1ZtYPLZOSvoE3y3yxdHWLb"
@@ -13396,7 +13414,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 174333,
       "name": "overkill",
       "url": "https://open.spotify.com/track/6qA3Xc5gwgohxgsQhDU9Az"
@@ -13750,6 +13768,24 @@
       "duration_ms": 144478,
       "name": "Perfectly Imperfect",
       "url": "https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c"
+    },
+    {
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/3UZ05jaikHRAGlsGwOsn4w"
+      },
+      "artists": [
+        {
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197791,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/5luOK6MRqAI0ZWT7ibbXvl"
     },
     {
       "album": {
@@ -14496,6 +14532,24 @@
       "duration_ms": 202992,
       "name": "Resolution/Revolution",
       "url": "https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5"
+    },
+    {
+      "album": {
+        "name": "Restless in Bloom",
+        "url": "https://open.spotify.com/album/1YynRD3szUoJPmQbH9fbAx"
+      },
+      "artists": [
+        {
+          "name": "Tooth",
+          "url": "https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264481,
+      "name": "Restless in Bloom",
+      "url": "https://open.spotify.com/track/4mS6vO5MKQnrv2iObSlU6y"
     },
     {
       "album": {
@@ -15598,7 +15652,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 222208,
       "name": "Skyscrapers Soaring, Yet We're Drowning",
       "url": "https://open.spotify.com/track/45ogCnZm0oHeh9TNh98U6R"
@@ -15616,7 +15670,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 230129,
       "name": "SLATHER ON THE HONEY",
       "url": "https://open.spotify.com/track/1c4cTw79dH5vuCrVn81zeW"
@@ -15724,7 +15778,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 241483,
       "name": "Slumber Party",
       "url": "https://open.spotify.com/track/1HG6WZVTLQQh6VmEojUMM0"
@@ -16280,7 +16334,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 192975,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/6PyTnGOaQBaqFBjsWiRU0Q"
@@ -16428,7 +16482,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 225635,
       "name": "Storm Warnings",
       "url": "https://open.spotify.com/track/1ChB4a5EAEBYR976Rvpdan"
@@ -17558,7 +17612,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 153780,
       "name": "The Age of Innocence",
       "url": "https://open.spotify.com/track/5CpvAXYX4QYrmp8Z4jDaUV"
@@ -17912,6 +17966,24 @@
       "duration_ms": 200880,
       "name": "The Sharpest Lives",
       "url": "https://open.spotify.com/track/2kMjk14RmYyYhhSbipoa9U"
+    },
+    {
+      "album": {
+        "name": "The Standard Model / I Watched You as Your Mind Slipped Far (Away from Me)",
+        "url": "https://open.spotify.com/album/15ZXKA3K33WXyYMU87DcxI"
+      },
+      "artists": [
+        {
+          "name": "MORN",
+          "url": "https://open.spotify.com/artist/0kyIsGsq7em6p0dOUwOAI3"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216800,
+      "name": "The Standard Model",
+      "url": "https://open.spotify.com/track/7BPVpfnypd2ivsSiyoZpzC"
     },
     {
       "album": {
@@ -18543,6 +18615,24 @@
     },
     {
       "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/4JhceA7cUvI0VmAEOcYAE2"
+      },
+      "artists": [
+        {
+          "name": "loveshy",
+          "url": "https://open.spotify.com/artist/2xZvyZ5a4pTOvLexCZ91lv"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/58LqBRV0o1CfWjxLq8xwfv"
+    },
+    {
+      "album": {
         "name": "Trash",
         "url": "https://open.spotify.com/album/3mCgA0NaZukB0CROXayoHp"
       },
@@ -18879,6 +18969,24 @@
     },
     {
       "album": {
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/1sI5zExyPAZDiL4GYrKeGC"
+      },
+      "artists": [
+        {
+          "name": "Bleech 9:3",
+          "url": "https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209760,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/6d1Zurp6nbAdUztdtu3XEF"
+    },
+    {
+      "album": {
         "name": "Full Collapse",
         "url": "https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo"
       },
@@ -19070,7 +19178,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 200035,
       "name": "Vacant Days",
       "url": "https://open.spotify.com/track/5DjaI26T88jpmUUIGhR2yE"
@@ -19518,6 +19626,24 @@
       "duration_ms": 165487,
       "name": "what am i supposed to do?",
       "url": "https://open.spotify.com/track/2mhcvLNmmC3DNrR9ZYpvFf"
+    },
+    {
+      "album": {
+        "name": "WHAT IS SHE FOR?",
+        "url": "https://open.spotify.com/album/4UsgvivQV7sqCOFE4QBn8w"
+      },
+      "artists": [
+        {
+          "name": "CLT DRP",
+          "url": "https://open.spotify.com/artist/0y7VykZdOB8wIsAQfr2S4M"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137976,
+      "name": "WHAT IS SHE FOR?",
+      "url": "https://open.spotify.com/track/3PZtRPhoMnlAuSrlErYYeD"
     },
     {
       "album": {

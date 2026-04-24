@@ -3651,6 +3651,24 @@
     },
     {
       "album": {
+        "name": "Nana-Owei Mbana (Live)",
+        "url": "https://open.spotify.com/album/4KNGV9MIjWGuxiQOvUFOhU"
+      },
+      "artists": [
+        {
+          "name": "Mera Owili",
+          "url": "https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488275,
+      "name": "Nana-Owei Mbana - Live",
+      "url": "https://open.spotify.com/track/2i96rQ7m2wbNViszpMPOj3"
+    },
+    {
+      "album": {
         "name": "Nara",
         "url": "https://open.spotify.com/album/24dR45SETUfw44qynSI732"
       },

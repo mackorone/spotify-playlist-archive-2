@@ -35825,6 +35825,28 @@
     },
     {
       "album": {
+        "name": "Oo Radhaiye Va",
+        "url": "https://open.spotify.com/album/0RixkbCd956GTl2SONWcBl"
+      },
+      "artists": [
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Priyadarshan Balasubramanian",
+          "url": "https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181090,
+      "name": "Oo Radhaiye Va",
+      "url": "https://open.spotify.com/track/2UhlipDlg6YcRI76HitBMP"
+    },
+    {
+      "album": {
         "name": "Pushpa - The Rise",
         "url": "https://open.spotify.com/album/6mirm559XB8jiveF7ONuUx"
       },
@@ -51374,7 +51396,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 250506,
       "name": "Thuru Thuru (From \"Happy Raj\") (Tamil)",
       "url": "https://open.spotify.com/track/3c7cMwqf9ANFcSVw1TWpL1"

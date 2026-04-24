@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: DIMO REX\)
+> Trendy & Chill Korean R&B music\. \(Cover: Olivia Marsh\)
 
-909 songs - 2 day 0 hr 0 min
+910 songs - 2 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [Future Boy](https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 2:04 | 2022-05-11 | 2022-07-28 |
 | [Fxxxboy](https://open.spotify.com/track/2YUoX58zywC6rqFPOUNOiq) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:07 | 2026-02-27 |  |
 | [G.i.w.o.n](https://open.spotify.com/track/2pvjfkbEIMfn7JMT6210ys) | [Giwon](https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [G.i.w.o.n](https://open.spotify.com/album/7gDvwgrtKXDpKfAdZcbv1r) | 2:06 | 2026-04-06 | 2026-04-13 |
-| [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-04-19 |  |
+| [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-04-19 | 2026-04-24 |
 | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/track/4FPWDZRRREW99mWChTCyYr) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/album/3eexqM5OLi0HlN3JDyqZhx) | 2:39 | 2022-05-04 | 2022-07-28 |
 | [Ghosting \(Prod\. CODE KUNST\)](https://open.spotify.com/track/6r1Jwbd0UwCpuLzPG4y9Ub) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Ghosting](https://open.spotify.com/album/24vtmVfDjVTxb9cCNRgheo) | 3:40 | 2022-08-18 | 2022-10-11 |
 | [Gift \(feat\. Drake\)](https://open.spotify.com/track/4Kcb43AOZE71Wnk9ueVulW) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Gift](https://open.spotify.com/album/2AiGuLywlNPHz4O5iPvYY5) | 4:01 | 2025-12-18 | 2026-01-21 |
@@ -624,6 +624,7 @@
 | [Pandilla](https://open.spotify.com/track/4Pj1dst4iDwGCYsYxm5X4r) | [JENNA SUHL](https://open.spotify.com/artist/1SMnENMqknGXgRHFf41lgH) | [BRAT](https://open.spotify.com/album/3lHfVs7dsuxQRF51fu7w6f) | 3:12 | 2022-10-22 | 2022-10-28 |
 | [Paradigm](https://open.spotify.com/track/1HJUvm2MJHytVJ4xPmNGPE) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [CYCLE](https://open.spotify.com/album/0bojHqmiLsD6ZQOxy3VfgQ) | 3:14 | 2022-04-22 | 2022-06-22 |
 | [Paraglide](https://open.spotify.com/track/6dmRJBF95zrUIB2BXFCHDc) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [WHEE](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) | 3:38 | 2022-05-11 | 2022-07-20 |
+| [Paraglider](https://open.spotify.com/track/08YjBjAWR1DOlNpUHDZYpt) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Paraglider](https://open.spotify.com/album/5cvnpaz0cgbLl0wNruE7b6) | 2:32 | 2026-04-23 |  |
 | [Paris With You](https://open.spotify.com/track/0uN9oUZ9f6XNsG8nllbqN3) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU) | [Midnight In Paris](https://open.spotify.com/album/4dhpEHuZMveGlRQUNYmbJa) | 3:08 | 2022-05-28 | 2022-06-15 |
 | [Passion \(Feat\. PENOMECO\)](https://open.spotify.com/track/1w6ao8wqrRg5rOEKsZ3Qyy) | [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Too Passionate](https://open.spotify.com/album/6Oa5bo4s3FhAlfssUI0JTU) | 2:55 | 2024-07-09 | 2024-07-30 |
 | [Pastel](https://open.spotify.com/track/2LMMPM5a6djUmhoQnjnap2) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [WHEE](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) | 2:22 | 2022-06-16 | 2022-07-18 |

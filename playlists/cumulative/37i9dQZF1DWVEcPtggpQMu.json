@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap. \nCover: DJ Kaymoworld",
+  "description": "Only the hottest South African rap. \nCover: Rouge",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -17014,7 +17014,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 264459,
       "name": "Ready4Drama",
       "url": "https://open.spotify.com/track/2ywfqtI9sHXNEwBstT9Xhj"
@@ -18656,6 +18656,28 @@
       "duration_ms": 158769,
       "name": "Six",
       "url": "https://open.spotify.com/track/5fitiEwmfSL7U5fZLF5ilR"
+    },
+    {
+      "album": {
+        "name": "Siyabangena",
+        "url": "https://open.spotify.com/album/4UUyA7uxM9Qw4xfftMUCta"
+      },
+      "artists": [
+        {
+          "name": "Rouge",
+          "url": "https://open.spotify.com/artist/3fv7gh6JODBTpz7uS0aTnS"
+        },
+        {
+          "name": "K.Keed",
+          "url": "https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216004,
+      "name": "Siyabangena",
+      "url": "https://open.spotify.com/track/5BXhLmeQD6lQT4NYGQLsML"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Modern heavenly sounds. Cover: Not For Radio",
-  "num_followers": 1621597,
+  "num_followers": 1621513,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-04-12 22:13:04",
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 223750,
-      "name": "Always Forever",
-      "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
-    },
-    {
-      "added_at": "2026-04-12 22:13:04",
-      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 177922,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x"
+    },
+    {
+      "added_at": "2026-04-12 22:13:04",
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 223750,
+      "name": "Always Forever",
+      "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
     },
     {
       "added_at": "2026-04-12 22:13:04",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-04-12 22:13:04",
       "album": {
-        "name": "HEAVENLY FATHER - Mediolanum, Milan, IT. Nov 05 2022",
-        "url": "https://open.spotify.com/album/3XKBl8eJQzEddmR2tR1Ww0"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 240158,
-      "name": "HEAVENLY FATHER - Mediolanum, Milan, IT. Nov 05 2022",
-      "url": "https://open.spotify.com/track/4XyteovQUzWDoQsx07M2en"
-    },
-    {
-      "added_at": "2026-04-12 22:13:04",
-      "album": {
         "name": "Orbital 2",
         "url": "https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 567106,
       "name": "HALCYON + ON + ON",
       "url": "https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A"
+    },
+    {
+      "added_at": "2026-04-12 22:13:04",
+      "album": {
+        "name": "HEAVENLY FATHER - Mediolanum, Milan, IT. Nov 05 2022",
+        "url": "https://open.spotify.com/album/3XKBl8eJQzEddmR2tR1Ww0"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 240158,
+      "name": "HEAVENLY FATHER - Mediolanum, Milan, IT. Nov 05 2022",
+      "url": "https://open.spotify.com/track/4XyteovQUzWDoQsx07M2en"
     },
     {
       "added_at": "2026-04-12 22:13:04",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-04-12 22:13:04",
       "album": {
-        "name": "Details",
-        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
-      },
-      "artists": [
-        {
-          "name": "Frou Frou",
-          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3"
-    },
-    {
-      "added_at": "2026-04-12 22:13:04",
-      "album": {
         "name": "Aquamarine / Arcamarine",
         "url": "https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 194180,
       "name": "Aquamarine / Arcamarine",
       "url": "https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV"
+    },
+    {
+      "added_at": "2026-04-12 22:13:04",
+      "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
+      },
+      "artists": [
+        {
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+        }
+      ],
+      "duration_ms": 253893,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3"
     },
     {
       "added_at": "2026-04-12 22:13:04",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-04-12 22:13:04",
       "album": {
-        "name": "The Path Less Travelled",
-        "url": "https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq"
-      },
-      "artists": [
-        {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
-        }
-      ],
-      "duration_ms": 224303,
-      "name": "The Path Less Travelled",
-      "url": "https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe"
-    },
-    {
-      "added_at": "2026-04-12 22:13:04",
-      "album": {
         "name": "In Russia. A is a 9",
         "url": "https://open.spotify.com/album/2puthl2ughnGeS7jor8GJU"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 209534,
       "name": "Losing Focus",
       "url": "https://open.spotify.com/track/1dfs70eiZmlIo88oDCjodF"
+    },
+    {
+      "added_at": "2026-04-12 22:13:04",
+      "album": {
+        "name": "The Path Less Travelled",
+        "url": "https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "duration_ms": 224303,
+      "name": "The Path Less Travelled",
+      "url": "https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe"
     },
     {
       "added_at": "2026-04-12 22:13:04",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2026-04-12 22:13:04",
       "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/4FnT4jNQkFwDtHbmWz6laY"
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
       "artists": [
         {
-          "name": "The Army, The Navy",
-          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 192144,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/3XMl69GS63VxoSOO6Nxord"
+      "duration_ms": 220316,
+      "name": "Paprika",
+      "url": "https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3"
     },
     {
       "added_at": "2026-04-12 22:13:04",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2026-04-12 22:13:04",
       "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/4FnT4jNQkFwDtHbmWz6laY"
       },
       "artists": [
         {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+          "name": "The Army, The Navy",
+          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
         }
       ],
-      "duration_ms": 220316,
-      "name": "Paprika",
-      "url": "https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3"
+      "duration_ms": 192144,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/3XMl69GS63VxoSOO6Nxord"
     },
     {
       "added_at": "2026-04-12 22:13:04",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2026-04-12 22:13:04",
       "album": {
-        "name": "Just A Western (Boy Harsher Remix)",
-        "url": "https://open.spotify.com/album/77DNkESTu7pZbZjWq3RD9e"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        },
-        {
-          "name": "Boy Harsher",
-          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
-        }
-      ],
-      "duration_ms": 241379,
-      "name": "Just A Western - Boy Harsher Remix",
-      "url": "https://open.spotify.com/track/27824hvVGxllQecjb1dqDg"
-    },
-    {
-      "added_at": "2026-04-12 22:13:04",
-      "album": {
         "name": "NO SZNS",
         "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
       },
@@ -1275,6 +1255,26 @@
     {
       "added_at": "2026-04-12 22:13:04",
       "album": {
+        "name": "Just A Western (Boy Harsher Remix)",
+        "url": "https://open.spotify.com/album/77DNkESTu7pZbZjWq3RD9e"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        },
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "duration_ms": 241379,
+      "name": "Just A Western - Boy Harsher Remix",
+      "url": "https://open.spotify.com/track/27824hvVGxllQecjb1dqDg"
+    },
+    {
+      "added_at": "2026-04-12 22:13:04",
+      "album": {
         "name": "Calico",
         "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
       },
@@ -1291,22 +1291,18 @@
     {
       "added_at": "2026-04-12 22:13:04",
       "album": {
-        "name": "Guilty Conscience (Tame Impala Remix)",
-        "url": "https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW"
+        "name": "choke enough",
+        "url": "https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt"
       },
       "artists": [
         {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
         }
       ],
-      "duration_ms": 214986,
-      "name": "Guilty Conscience - Tame Impala Remix",
-      "url": "https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW"
+      "duration_ms": 240094,
+      "name": "choke enough",
+      "url": "https://open.spotify.com/track/3KVRU1oh4M4VtMRCNWBDVC"
     }
   ],
   "unique_name": "Ethereal",

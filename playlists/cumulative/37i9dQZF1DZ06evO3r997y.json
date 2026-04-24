@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231866,
+      "name": "Dead or Call My Name",
+      "url": "https://open.spotify.com/track/3NJOcuEiL474TtLqqOupmU"
+    },
+    {
+      "album": {
         "name": "Dear Doze Days",
         "url": "https://open.spotify.com/album/13qVL16kWobXvuJjRYLJf2"
       },
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 277733,
       "name": "Haremachi Note",
       "url": "https://open.spotify.com/track/5HE3LrVAHKRSQkr1Wi9uPR"
@@ -1114,7 +1132,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 253040,
       "name": "illminate",
       "url": "https://open.spotify.com/track/349R0irYWJmHAMGUp4dGe9"
@@ -1770,7 +1788,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 257799,
       "name": "Toumei na Yume",
       "url": "https://open.spotify.com/track/5WcxG1YKXPtJ2ia24rnqTI"
@@ -2186,7 +2204,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 277986,
       "name": "\u6674\u308c\u5f85\u3061\u30ce\u30aa\u30c8",
       "url": "https://open.spotify.com/track/2zxGnbP5LEBmwDlYTNCT0R"

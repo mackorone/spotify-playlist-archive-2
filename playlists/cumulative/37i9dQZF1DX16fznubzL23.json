@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "COLD OUTSIDE",
+        "url": "https://open.spotify.com/album/1V9JGN8fMNMtFJvpJmFYWR"
+      },
+      "artists": [
+        {
+          "name": "Mckay",
+          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "COLD OUTSIDE",
+      "url": "https://open.spotify.com/track/2w5sflB3yU87VPmyfHhhN8"
+    },
+    {
+      "album": {
         "name": "Come Back",
         "url": "https://open.spotify.com/album/26ll6od4Q86oQG0okA25XO"
       },
@@ -4458,7 +4476,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 181646,
       "name": "Ruin",
       "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"

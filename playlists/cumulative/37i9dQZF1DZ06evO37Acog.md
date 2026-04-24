@@ -4,7 +4,7 @@
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-129 songs - 6 hr 43 min
+130 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Recuérdame Y Ven A Mí](https://open.spotify.com/track/32mEAMzlZpdWqg5NyWdsmw) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Entre Besos Y Heridas](https://open.spotify.com/album/2j0kTA0dSdo9N7CoOskR8i) | 3:26 | 2026-03-24 |  |
 | [Rey Pobre](https://open.spotify.com/track/242gbpUCr70K1VjsNgyAAt) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Cruzando Fronteras](https://open.spotify.com/album/2LoxSZQBdZ3JjaBwFJbbJQ) | 3:44 | 2023-11-10 | 2024-01-25 |
 | [Rinconcito En El Cielo](https://open.spotify.com/track/0uJUohjIxJs0FHE53qOCvX) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES](https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp) | 3:33 | 2022-06-01 | 2025-09-13 |
-| [Rinconcito En El Cielo](https://open.spotify.com/track/2REB6oznGDpqBgFUZ3o7Vz) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Rinconcito En El Cielo](https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr) | 3:34 | 2025-09-13 |  |
+| [Rinconcito En El Cielo](https://open.spotify.com/track/2UxJGoX9zU2tLhegM57tHI) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [RINCONCITO EN EL CIELO \(Grabación Original Remasterizada\)](https://open.spotify.com/album/4RS9M54UOet9vN6qPhtURw) | 3:33 | 2026-04-24 |  |
+| [Rinconcito En El Cielo](https://open.spotify.com/track/2REB6oznGDpqBgFUZ3o7Vz) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Rinconcito En El Cielo](https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr) | 3:34 | 2025-09-13 | 2026-04-24 |
 | [Seis Pies Abajo](https://open.spotify.com/track/4gMEDmaYG8JaM2Au8RzNqp) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Amor Vaquero](https://open.spotify.com/album/2ikhPXiJKnhxkMBUJGUw2I) | 3:44 | 2022-07-30 |  |
 | [Seis Rosas Amarillas](https://open.spotify.com/track/4H5c5b83c5IvAJmdojrmFe) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [DEBAJO DE AQUEL ÁRBOL / CUATRO CAMINOS \(GRABACIÓN ORIGINAL REMASTERIZADA\)](https://open.spotify.com/album/2dlKrcyJLsELo2zbU6WjpJ) | 2:42 | 2023-03-02 | 2023-06-26 |
 | [Señor Dios](https://open.spotify.com/track/7oFrzDDNmPCGbPDnvYdZXv) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Puño De Tierra](https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5) | 3:21 | 2022-06-01 | 2022-07-03 |

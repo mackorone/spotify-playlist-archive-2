@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,551 likes - 581 songs - 1 day 16 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,560 likes - 581 songs - 1 day 16 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -370,8 +370,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 360 | [The Day I Stop Loving You](https://open.spotify.com/track/38uNbRy3dodbNYx78I0Tuu) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Evolution](https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug) | 5:02 |
 | 361 | [Do You Know the Way It Feels](https://open.spotify.com/track/3xpCXjw2j8eD8AgbJTMCFt) | [Alesha Dixon](https://open.spotify.com/artist/5jLwURKdEPDvuYnac74s9c) | [The Alesha Show \- Encore](https://open.spotify.com/album/6XgOQ5hjniqXJvKoacFTvQ) | 4:04 |
 | 362 | [Safe Place From The Storm \- Radio Mix](https://open.spotify.com/track/783pbFxtjCh946QCVr75iw) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Jon Gass](https://open.spotify.com/artist/7fkqSrrXRdljTJMdEjqlNQ) | [All That Matters](https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw) | 5:20 |
-| 363 | [\(I Wanna\) Feel Too Much](https://open.spotify.com/track/2FBP6usEyBWvc8P0029cjY) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Calm After ...](https://open.spotify.com/album/05Hh10LRqvS2SYOq5tzRTt) | 4:03 |
-| 364 | [Someone That You Loved Before](https://open.spotify.com/track/2hUOxRQa0WBLnbJEI1GJmv) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Every Day Is a New Day](https://open.spotify.com/album/06Oz3WGqsrMwHz4VmtUORF) | 3:48 |
+| 363 | [Someone That You Loved Before](https://open.spotify.com/track/2hUOxRQa0WBLnbJEI1GJmv) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Every Day Is a New Day](https://open.spotify.com/album/06Oz3WGqsrMwHz4VmtUORF) | 3:48 |
+| 364 | [\(I Wanna\) Feel Too Much](https://open.spotify.com/track/2FBP6usEyBWvc8P0029cjY) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Calm After ...](https://open.spotify.com/album/05Hh10LRqvS2SYOq5tzRTt) | 4:03 |
 | 365 | [Be A Little Easy On Me](https://open.spotify.com/track/07zlBVvt93kIiImzcaxju3) | [Charles & Eddie](https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD) | [Duophonic](https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA) | 5:09 |
 | 366 | [Como Vivir Sin Verte](https://open.spotify.com/track/6kZZ5SRJry04kVh66RvO4d) | [Millie](https://open.spotify.com/artist/58gEIyWzfX7TWUavPnOGzW) | [Amar Es Un Juego \(Remastered\)](https://open.spotify.com/album/30D5RlGF3jfBu8iwFj27ws) | 4:37 |
 | 367 | [I Was Here](https://open.spotify.com/track/3FG4rxlmFJVzssS2NpQuZf) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [I Owe It All To You](https://open.spotify.com/album/6pwYoX2L9qT1YsiR08oeya) | 4:00 |
@@ -582,12 +582,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 572 | [Be What You Believe](https://open.spotify.com/track/6CdJYex2CvK70h0xvO2pUc) | [Atom](https://open.spotify.com/artist/6ouXEmrFaAFtn4yuey2FZP) | [Famous!!](https://open.spotify.com/album/29Z94JolxoEI6tDEs6hdFA) | 3:40 |
 | 573 | [No Doubt About It](https://open.spotify.com/track/6tLOzrwr95TUmRALKXnWfN) | [Touch](https://open.spotify.com/artist/3nAHXZZGsY3Mgjuh5qv7UG) | [Hot Chocolate](https://open.spotify.com/album/5ZcR4RP2d9H3ZEDlLwmlGX) | 4:40 |
 | 574 | [Useless](https://open.spotify.com/track/7pwwB0KWXuRKYBMzl3uIJz) | [Greta's Bakery](https://open.spotify.com/artist/0JlKiJmaipuA5sapRgBzYv) | [The Edge Of Everything](https://open.spotify.com/album/7LbOwqhn2rwZ8sKbA2wc4q) | 3:52 |
-| 575 | [Just Another Night](https://open.spotify.com/track/1U4SFDM4sTtv6imMDwou11) | [Jimmy Demers](https://open.spotify.com/artist/2TW2VZBWnhz5L2xk6WWct5) | [Dream A Little](https://open.spotify.com/album/7i2Cwl97MDdNDOHhPvJTuv) | 3:51 |
-| 576 | [Ragazza d'oro](https://open.spotify.com/track/5wh6PvICXgAHgNH2YhIbav) | [Francisco Orsini](https://open.spotify.com/artist/4kF9871BqPQpuq62Bz8oco) | [Archipiano](https://open.spotify.com/album/1aUDq4RB2NA0raLPzEyL0q) | 1:58 |
+| 575 | [Ragazza d'oro](https://open.spotify.com/track/5wh6PvICXgAHgNH2YhIbav) | [Francisco Orsini](https://open.spotify.com/artist/4kF9871BqPQpuq62Bz8oco) | [Archipiano](https://open.spotify.com/album/1aUDq4RB2NA0raLPzEyL0q) | 1:58 |
+| 576 | [Just Another Night](https://open.spotify.com/track/1U4SFDM4sTtv6imMDwou11) | [Jimmy Demers](https://open.spotify.com/artist/2TW2VZBWnhz5L2xk6WWct5) | [Dream A Little](https://open.spotify.com/album/7i2Cwl97MDdNDOHhPvJTuv) | 3:51 |
 | 577 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 | 578 | [I'm Getting Used to You](https://open.spotify.com/track/4EM9yHufAESQ8eYSJy1rv1) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Dreaming of You](https://open.spotify.com/album/0OLKaGwn8zKJhrxHkUP6mR) | 4:05 |
 | 579 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 | 580 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 581 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcPkfgAAAABucj79udK/7g79C17eYzGg`
+Snapshot ID: `AcPqFAAAAACtB+bRy75y7Lxeflg1KS+w`

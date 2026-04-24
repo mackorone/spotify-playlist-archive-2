@@ -19177,6 +19177,24 @@
     },
     {
       "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/0PiTYmKpHEdDI7LlWdzkXL"
+      },
+      "artists": [
+        {
+          "name": "Plain Jay",
+          "url": "https://open.spotify.com/artist/6pERZIyDUwOZG4SIzIu33V"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/4qqFkoMiFyq7mbg690Y308"
+    },
+    {
+      "album": {
         "name": "Passion fruit",
         "url": "https://open.spotify.com/album/1mL7H8MnqzXNul0pqgnaLt"
       },

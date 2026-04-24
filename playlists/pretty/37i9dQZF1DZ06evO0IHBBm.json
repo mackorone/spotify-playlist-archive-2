@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 31322,
+  "num_followers": 31317,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAADLHTPIWb2njb4rk3cRt7Dr",
+  "snapshot_id": "aegPgAAAAAANaQQAv5vWqdM4ifT9qYPl",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
+        "name": "A Tenda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 355746,
-      "name": "Milagre",
-      "url": "https://open.spotify.com/track/63achhyLh1fXYjk0wUvT4m"
+      "duration_ms": 470263,
+      "name": "A Tenda (Ao Vivo)",
+      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
     },
     {
       "added_at": null,
@@ -347,18 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tenda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 470263,
-      "name": "A Tenda (Ao Vivo)",
-      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
+      "duration_ms": 355746,
+      "name": "Milagre",
+      "url": "https://open.spotify.com/track/63achhyLh1fXYjk0wUvT4m"
     },
     {
       "added_at": null,

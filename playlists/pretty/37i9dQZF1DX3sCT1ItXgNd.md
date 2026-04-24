@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,624 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006,591 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 25 | [NEXO 05\. Ya no estoy triste \(feat\. Dollar Selmouni\)](https://open.spotify.com/track/7yOYKBtrGXLcOOxNUbwuMG) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [NEXO 05\. Ya no estoy triste \(feat\. Dollar Selmouni\)](https://open.spotify.com/album/4Wo2gwnyx9QqYmhpeJT8fY) | 3:17 |
 | 26 | [QUE HACES](https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [QUE HACES](https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ) | 2:51 |
 | 27 | [Una Noche Más](https://open.spotify.com/track/6hl4VqVrqMgHYibqtmjpI7) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Una Noche Más](https://open.spotify.com/album/2NbUbyDuX5rrdJVVaM4ccE) | 2:39 |
-| 28 | [La Mitad de la Mitad](https://open.spotify.com/track/7LdAPBuFJlLRB79YuMWXjX) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ) | [La Mitad de la Mitad](https://open.spotify.com/album/2BVjbuAYyUT4EQ1OtgDJsf) | 3:22 |
+| 28 | [La mitad de la mitad](https://open.spotify.com/track/7LdAPBuFJlLRB79YuMWXjX) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ) | [La mitad de la mitad](https://open.spotify.com/album/2BVjbuAYyUT4EQ1OtgDJsf) | 3:22 |
 | 29 | [Mírame Ahora](https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Mírame Ahora](https://open.spotify.com/album/68obRe8swOSG89f5UnVSSa) | 2:34 |
 | 30 | [VOLARNOS PA MEX](https://open.spotify.com/track/5XlLEgZvApaVbQM1ggq78o) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [VOLARNOS PA MEX](https://open.spotify.com/album/5xdD9bZ4Wd1FSN3qb4V8Jq) | 2:31 |
 | 31 | [Sigueme Besando Asi](https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Sigueme Besando Asi](https://open.spotify.com/album/5MPSuZogYylwnlEZLNN12f) | 3:05 |

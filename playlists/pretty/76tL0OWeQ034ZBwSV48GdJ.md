@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 235 songs - 22 hr 9 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 236 songs - 22 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,5 +243,6 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 | 233 | [Next to Me \- Vintage Culture Remix](https://open.spotify.com/track/2bidvM5hM1LGiEDkgp0EUz) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Next to Me \(Remixes\)](https://open.spotify.com/album/1ZzxjxcYWxEStGTGPNHsG9) | 6:22 |
 | 234 | [The Life](https://open.spotify.com/track/46KZYSiZk2XxtNkRDTdnHb) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:27 |
 | 235 | [My Darling \(Suma Suma\) ft\. Dawda](https://open.spotify.com/track/4HSbpA3iui1FWsZNWwpfv2) | [Hydawai](https://open.spotify.com/artist/5adV10VCaQCO3HJLlVQiFZ), [Dawda](https://open.spotify.com/artist/5CtgmVTepFFoGGtuXsPKFj) | [My Darling \(Suma Suma\) ft\. Dawda](https://open.spotify.com/album/1SOzfTt1qsgAMixiHdhgJn) | 3:11 |
+| 236 | [Fire / Desire](https://open.spotify.com/track/4CMN7EA8k4J3MJ0y8mLCvQ) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:17 |
 
-Snapshot ID: `AAABOlyp8Eyb/Low+ZeXGpEat0Tuzz5l`
+Snapshot ID: `AAABO5JRYjZzlfH+EaJ6NRkPAjynd8FV`

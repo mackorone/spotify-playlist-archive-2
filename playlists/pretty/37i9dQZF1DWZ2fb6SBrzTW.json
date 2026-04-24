@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 85467,
+  "num_followers": 85487,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 234024,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
         "name": "Awuke",
         "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 172628,
       "name": "Awuke",
       "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 234024,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
+        "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
+        "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 179478,
+      "name": "Metaverse",
+      "url": "https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
         "name": "Girl On Fya",
         "url": "https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 124354,
       "name": "Girl on Fya",
       "url": "https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
-        "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
-        "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 179478,
-      "name": "Metaverse",
-      "url": "https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -1131,18 +1131,30 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "LOVE AND CHAOS",
-        "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
+        "name": "Saba Julukisa (feat. Mfana Kah Gogo & Spux)",
+        "url": "https://open.spotify.com/album/7n1TxSwhsdR6p10jptrKhL"
       },
       "artists": [
         {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+          "name": "Dj Karri",
+          "url": "https://open.spotify.com/artist/4seQKbHnG8TM3jKeUvHFw1"
+        },
+        {
+          "name": "Deep Saints",
+          "url": "https://open.spotify.com/artist/0lXcTk3qlOxdzoj2cGoseW"
+        },
+        {
+          "name": "Mfana Kah Gogo",
+          "url": "https://open.spotify.com/artist/0gGBj3AcYMHRa32eeikJg1"
+        },
+        {
+          "name": "Spux",
+          "url": "https://open.spotify.com/artist/0ZxrcCOIeckPgTMHT8feXG"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
+      "duration_ms": 366573,
+      "name": "Saba Julukisa (feat. Mfana Kah Gogo & Spux)",
+      "url": "https://open.spotify.com/track/2jQx6kd1QLapry5vwk7Zb7"
     },
     {
       "added_at": "2026-03-13 00:01:25",

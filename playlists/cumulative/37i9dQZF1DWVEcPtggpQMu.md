@@ -2,9 +2,9 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap\. <br/>Cover: DJ Kaymoworld
+> Only the hottest South African rap\. <br/>Cover: Rouge
 
-1,117 songs - 2 day 11 hr 3 min
+1,118 songs - 2 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -775,7 +775,7 @@
 | [Rap Relay](https://open.spotify.com/track/0dvkT0mPmwcu0fMFRZGwJq) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [SOIL](https://open.spotify.com/album/4lgTdYVL7YB5aIWeqE8yRh) | 2:44 | 2023-01-30 | 2023-02-02 |
 | [Rare](https://open.spotify.com/track/3ypCfyrl6joWlLjrpHQPwH) | [Zoocci Coke Dope](https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w), [Die Mondez](https://open.spotify.com/artist/2ceT1FZTvlzjxBGZcjgTh2) | [Die Dope](https://open.spotify.com/album/7xC9AE1CmcMOXFgGa5ffZP) | 2:36 | 2023-02-01 | 2023-05-19 |
 | [Re\-Intro](https://open.spotify.com/track/247dEiJVein6VpXoQfK0TZ) | [crownedYung](https://open.spotify.com/artist/0GtgdJ7DF3gH8f2029g1WW) | [Re\-Intro](https://open.spotify.com/album/1xWir6C2QYrMKw3r2lP2Yh) | 3:03 | 2022-04-22 | 2022-04-30 |
-| [Ready4Drama](https://open.spotify.com/track/2ywfqtI9sHXNEwBstT9Xhj) | [Hemustbeswae](https://open.spotify.com/artist/3Bybf5TtRgNGiyjTtzt0oB), [HEMUSTBEFRWSH](https://open.spotify.com/artist/3yZ9XgvtjRn0aaaFgiEfOc) | [Ready4Drama](https://open.spotify.com/album/6RE2Dt75qm8GHbIAiW1WCI) | 4:24 | 2026-04-09 |  |
+| [Ready4Drama](https://open.spotify.com/track/2ywfqtI9sHXNEwBstT9Xhj) | [Hemustbeswae](https://open.spotify.com/artist/3Bybf5TtRgNGiyjTtzt0oB), [HEMUSTBEFRWSH](https://open.spotify.com/artist/3yZ9XgvtjRn0aaaFgiEfOc) | [Ready4Drama](https://open.spotify.com/album/6RE2Dt75qm8GHbIAiW1WCI) | 4:24 | 2026-04-09 | 2026-04-24 |
 | [Real Is Rare \(feat\. Nasty C\)](https://open.spotify.com/track/5fR8jaCoCB932SimKIcGrr) | [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Loyal To The Plug : The Life & Times Of Don Kilograms](https://open.spotify.com/album/6WHgxLiN57AC7KZm7eUtuj) | 3:57 | 2024-10-24 | 2025-08-16 |
 | [Real Niggas Only](https://open.spotify.com/track/1sQVikNoENX6xhUppOJ5p3) | [Wordz](https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd) | [Pièce De Résistance](https://open.spotify.com/album/7t0p4OruJQr1txqiPC55jj) | 2:07 | 2023-02-01 | 2023-10-21 |
 | [RED FLAG](https://open.spotify.com/track/71Wnaxqwazv4KuSSY4tFxY) | [Stilo Magolide](https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA) | [RED FLAG](https://open.spotify.com/album/6rVgedMkzPm7e8oCtgKYNJ) | 3:05 | 2024-05-23 | 2024-10-25 |
@@ -847,6 +847,7 @@
 | [Sipthipithi \(feat\. Moozlie\)](https://open.spotify.com/track/0u6HQnrnpDozX23SzJCNvO) | [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r), [Moozlie](https://open.spotify.com/artist/4TvEx3QxTDbOBf5XgfNPiU) | [Braggacy](https://open.spotify.com/album/5GSzIExDzKE1DRFJgMim08) | 2:43 | 2025-03-13 | 2025-09-06 |
 | [Sistine Chapel](https://open.spotify.com/track/5wbu811arscgby6HcCDe5m) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV) | [Green](https://open.spotify.com/album/5Qz1TL6338YnS6cnT9Z8GG) | 1:55 | 2022-03-17 | 2022-07-29 |
 | [Six](https://open.spotify.com/track/5fitiEwmfSL7U5fZLF5ilR) | [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s) | [ROOM 37](https://open.spotify.com/album/0BPvFN6colgg1nT9P3kbzr) | 2:38 | 2023-08-17 | 2023-10-21 |
+| [Siyabangena](https://open.spotify.com/track/5BXhLmeQD6lQT4NYGQLsML) | [Rouge](https://open.spotify.com/artist/3fv7gh6JODBTpz7uS0aTnS), [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e) | [Siyabangena](https://open.spotify.com/album/4UUyA7uxM9Qw4xfftMUCta) | 3:36 | 2026-04-23 |  |
 | [Siyanyuka](https://open.spotify.com/track/15Ixy2v9DAHUNn8iWYYD87) | [BlvckRxps](https://open.spotify.com/artist/5WDAZVk9StpnQCSiuhyrxF), [Anele Matshoba](https://open.spotify.com/artist/25iPZze5J9Hh0sbFVZy4I2) | [Siyanyuka](https://open.spotify.com/album/2gdjF4oKjysRQ3ePePflmS) | 2:39 | 2025-07-04 | 2025-10-04 |
 | [Ska Tlo Re Bora](https://open.spotify.com/track/3z1WNViKcihcLGnqgzLwha) | [Sgi\_Magalela](https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE), [Vareza](https://open.spotify.com/artist/4k172h6rvNfwZJC0vKolEW) | [Something Sao Mizisa II](https://open.spotify.com/album/5rOPUq2aYjYlDAm2sIny8u) | 3:52 | 2022-05-19 | 2022-07-29 |
 | [Skeem](https://open.spotify.com/track/2kWx6TXWgbSLf19rolbBC6) | [Young GInger](https://open.spotify.com/artist/3LBo85p6inX14TQba77J3E), [SpheCial](https://open.spotify.com/artist/5agDjJwwtzsJm4wgiE5tVd), [Aisty\_Q](https://open.spotify.com/artist/5N5CuTfevCDPje0u229coz), [Thabo](https://open.spotify.com/artist/3DCp1SUyK2g0e1ihX0ECo4) | [Skeem](https://open.spotify.com/album/4NuN3q9fMtYDlfkBjhwEO0) | 3:04 | 2022-04-14 | 2022-07-09 |

@@ -501,6 +501,24 @@
     },
     {
       "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137682,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6"
+    },
+    {
+      "album": {
         "name": "All I Do (Jordan Rivera Remixes)",
         "url": "https://open.spotify.com/album/6Zyz9aGEjLXZdgCxIxhZ0k"
       },
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 405200,
       "name": "Back To The Old - Joeski Remix",
       "url": "https://open.spotify.com/track/5X3p1qsoCgxATEnWsqDSbS"
@@ -14740,7 +14758,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 181875,
       "name": "There Is A Light",
       "url": "https://open.spotify.com/track/1oGX6s0SjBSMz1Z4I9a8zN"
@@ -15010,6 +15028,24 @@
       "duration_ms": 174735,
       "name": "Tracey in My Room",
       "url": "https://open.spotify.com/track/7B6qq76lHzyaVAuUOyN0tn"
+    },
+    {
+      "album": {
+        "name": "LA FAMILIA",
+        "url": "https://open.spotify.com/album/57UjJKwE6IkBnSCFJprYLM"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 9",
+      "url": "https://open.spotify.com/track/073gmCXuSbUqYPAIVyIVt4"
     },
     {
       "album": {

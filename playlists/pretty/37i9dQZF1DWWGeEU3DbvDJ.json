@@ -1,6 +1,6 @@
 {
   "description": "The BBMAs returns with performances from your favorite chart-topping artists! Cover: Tyla",
-  "num_followers": 85887,
+  "num_followers": 85891,
   "original_name": "2024 Billboard Music Awards Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "SUPER REAL ME",
-        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 160688,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 207626,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 160688,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -639,18 +639,18 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "CRAZY (Party Remixes 1)",
-        "url": "https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2"
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 164554,
-      "name": "CRAZY",
-      "url": "https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS"
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "The Emptiness Machine",
-        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+        "name": "CRAZY (Party Remixes 1)",
+        "url": "https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 190427,
-      "name": "The Emptiness Machine",
-      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+      "duration_ms": 164554,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "ROMANCE : UNTOLD",
-        "url": "https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 188332,
-      "name": "XO (Only If You Say Yes)",
-      "url": "https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Have A Nice Day",
         "url": "https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 220393,
       "name": "In Between",
       "url": "https://open.spotify.com/track/3vA24UtKMDGaK5KkzsulYD"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "ROMANCE : UNTOLD",
+        "url": "https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 188332,
+      "name": "XO (Only If You Say Yes)",
+      "url": "https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "The Star Chapter: SANCTUARY (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4SFhJGHrFtYqYGIe8VzM6O"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 157149,
-      "name": "Over The Moon",
-      "url": "https://open.spotify.com/track/6ZpoRaO2cfXR1dti2N4TLs"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Holy Smokes",
         "url": "https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP"
       },
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "The Star Chapter: SANCTUARY (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4SFhJGHrFtYqYGIe8VzM6O"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 157149,
+      "name": "Over The Moon",
+      "url": "https://open.spotify.com/track/6ZpoRaO2cfXR1dti2N4TLs"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "Moon Music",
         "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
       },
@@ -1399,26 +1399,6 @@
       "duration_ms": 236230,
       "name": "feelslikeimfallinginlove",
       "url": "https://open.spotify.com/track/49S3znqBAQyPyMpEuKeyJ6"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "HEIS",
-        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 169879,
-      "name": "BENIN BOYS",
-      "url": "https://open.spotify.com/track/1gc2RyrBm1PYdSnG65yuAl"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1447,6 +1427,26 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 169879,
+      "name": "BENIN BOYS",
+      "url": "https://open.spotify.com/track/1gc2RyrBm1PYdSnG65yuAl"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "Chandler Moore: Live in Los Angeles",
         "url": "https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 685340,
       "name": "Omemma - Live",
       "url": "https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "Wonka (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO"
+      },
+      "artists": [
+        {
+          "name": "Timoth\u00e9e Chalamet",
+          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
+        }
+      ],
+      "duration_ms": 187997,
+      "name": "Pure Imagination (from \"Wonka\")",
+      "url": "https://open.spotify.com/track/1m9TZ1dpYEQnczSsI6z9Ku"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1479,22 +1495,6 @@
       "duration_ms": 206146,
       "name": "Hangin\u2019 On (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/4Jvp2H0HuFpdMxoYSz6agL"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "Wonka (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO"
-      },
-      "artists": [
-        {
-          "name": "Timoth\u00e9e Chalamet",
-          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
-        }
-      ],
-      "duration_ms": 187997,
-      "name": "Pure Imagination (from \"Wonka\")",
-      "url": "https://open.spotify.com/track/1m9TZ1dpYEQnczSsI6z9Ku"
     },
     {
       "added_at": "2024-11-25 16:13:36",

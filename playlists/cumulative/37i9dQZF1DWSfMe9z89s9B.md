@@ -4,7 +4,7 @@
 
 > The new school \- Alternative R&B\. Cover: F3miii
 
-1,573 songs - 3 day 10 hr 56 min
+1,574 songs - 3 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [bits + pieces](https://open.spotify.com/track/5el2DZSkpldGfM8y2sTeXv) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [bits + pieces](https://open.spotify.com/album/4FWleazNVFcPfQukyqW4Le) | 3:53 | 2026-03-06 |  |
 | [BitterSweet](https://open.spotify.com/track/5lyAdBKS78EVzZnr2FM0tk) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb) | [BitterSweet](https://open.spotify.com/album/7nXq64NXpD0jKJKdPjGXcy) | 3:30 | 2025-09-07 | 2025-11-21 |
 | [Black Goose](https://open.spotify.com/track/42twCm34xVG0EQexL1BuPm) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Black Goose](https://open.spotify.com/album/4QaBlPW42jSyeOv5dLg6pv) | 2:33 | 2023-10-06 | 2023-11-05 |
+| [Blackthorne](https://open.spotify.com/track/4pBdATXkkPg1ndil2EXzWc) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Blackthorne](https://open.spotify.com/album/4tWbvCe00k8GYALI8YKNfX) | 3:17 | 2026-04-17 |  |
 | [Blame](https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 2:50 | 2022-06-10 | 2023-02-04 |
 | [Blame](https://open.spotify.com/track/5j5bTgdWPU5h3MDhhaMbDX) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Blame](https://open.spotify.com/album/7gwnkG7m1cna7GPo2kUEud) | 2:50 | 2022-04-01 | 2022-04-16 |
 | [Bless Your Heart](https://open.spotify.com/track/5USzm6t2RH4WA6T1J5FU4W) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Bless Your Heart](https://open.spotify.com/album/1P5QJiuu1HFE1qr0tgzQd9) | 4:03 | 2023-04-28 | 2023-08-05 |
@@ -468,7 +469,7 @@
 | [Fellowship \(Remix\) ft\. Ambré & Alex Isley](https://open.spotify.com/track/23quKa0BHCq8CKcoFKbHRL) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Ambre](https://open.spotify.com/artist/5mmOgnbsj8LXOUWqLPcoMa), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Fellowship \(Remix\) ft\. Ambré & Alex Isley](https://open.spotify.com/album/0z9WlDfltYm5CAyWHIkXPd) | 3:40 | 2021-11-05 | 2022-01-25 |
 | [FIDDY](https://open.spotify.com/track/74XIK4w35FhBxTfkZ8dKd6) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [FIDDY](https://open.spotify.com/album/1bstRIaPe6BBqSP0goUYcM) | 3:42 | 2025-07-18 | 2025-09-28 |
 | [Fields](https://open.spotify.com/track/5dHa43X3sraGGt8wNVg7ya) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Fields](https://open.spotify.com/album/45Z7h9u7WsoLdzBMOfs1j9) | 3:20 | 2024-08-16 | 2025-01-12 |
-| [Figure It Out](https://open.spotify.com/track/1rCx6JsPW5DP31O5DoVN3C) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figure It Out](https://open.spotify.com/album/6hXhIGninvkhV0kOOFZuMD) | 3:11 | 2025-08-15 |  |
+| [Figure It Out](https://open.spotify.com/track/1rCx6JsPW5DP31O5DoVN3C) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figure It Out](https://open.spotify.com/album/6hXhIGninvkhV0kOOFZuMD) | 3:11 | 2025-08-15 | 2026-04-24 |
 | [Figures](https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Figures](https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q) | 2:32 | 2022-10-14 | 2024-06-26 |
 | [Fiji Fine](https://open.spotify.com/track/3Q0S0vFNDJviYsMaeo4wIi) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Fiji Fine](https://open.spotify.com/album/6xRXep3NUG7Hqy41uvzyKQ) | 3:00 | 2021-03-19 | 2022-07-04 |
 | [Finally](https://open.spotify.com/track/5d7uaddNeJAcTUAxll0pMS) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [Maybe In Another Life](https://open.spotify.com/album/06eUuvfojvijkzWKr8uxLL) | 3:02 | 2024-07-12 | 2024-07-20 |

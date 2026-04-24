@@ -4,12 +4,13 @@
 
 > This is Infinity Song\. The essential tracks, all in one playlist.
 
-44 songs - 2 hr 40 min
+45 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [American Love Song](https://open.spotify.com/track/6WsRA3jPlF1d5TKqzNWp0P) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM), [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd) | [American Love Song](https://open.spotify.com/album/40Ei1ez25PaNJRGFBoXSXu) | 3:21 | 2026-02-26 | 2026-03-28 |
-| [American Love Song](https://open.spotify.com/track/2qPRysyqvhLiZKK44fA2P4) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [American Love Song](https://open.spotify.com/album/1v87Db6C6ll3Ha7eZzEOOt) | 3:21 | 2026-03-28 |  |
+| [American Love Song](https://open.spotify.com/track/2qPRysyqvhLiZKK44fA2P4) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [American Love Song](https://open.spotify.com/album/1v87Db6C6ll3Ha7eZzEOOt) | 3:21 | 2026-03-28 | 2026-04-24 |
+| [American Love Song](https://open.spotify.com/track/76KJbphpLSGbZTtWodvWiv) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 3:21 | 2026-04-24 |  |
 | [Beautiful](https://open.spotify.com/track/2fOE0me07CZIsqLwS8cdK5) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity's Song](https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI) | 4:05 | 2026-02-26 |  |
 | [Becoming](https://open.spotify.com/track/1gxw2HNkbC48PXDQ4VRHMz) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love \(Deluxe\)](https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS) | 4:10 | 2026-02-26 |  |
 | [Big Country](https://open.spotify.com/track/2Mp25bWz6FUGpk2AIhDE46) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 2:58 | 2026-04-12 |  |

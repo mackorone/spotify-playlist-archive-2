@@ -1,6 +1,6 @@
 {
   "description": "Kick back to the best new and recent chill hits.",
-  "num_followers": 9097934,
+  "num_followers": 9097783,
   "original_name": "Chill Hits",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-03-31 14:27:16",
       "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 153294,
+      "name": "Still Don't Know My Name (From \"Euphoria: Season 1\" Soundtrack)",
+      "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
+    },
+    {
+      "added_at": "2026-03-31 14:27:16",
+      "album": {
         "name": "Not Your Muse (Deluxe)",
         "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 202183,
       "name": "Little Freak",
       "url": "https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj"
-    },
-    {
-      "added_at": "2026-03-31 14:27:16",
-      "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 153294,
-      "name": "Still Don't Know My Name (From \"Euphoria: Season 1\" Soundtrack)",
-      "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
     },
     {
       "added_at": "2026-03-31 14:27:16",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2026-03-31 14:27:16",
       "album": {
-        "name": "Black Friday",
-        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 221510,
-      "name": "Black Friday",
-      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+      "duration_ms": 207795,
+      "name": "Sexy to Someone",
+      "url": "https://open.spotify.com/track/3awweDjWIuXNMogMClJnvE"
     },
     {
       "added_at": "2026-03-31 14:27:16",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2026-03-31 14:27:16",
       "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 207795,
-      "name": "Sexy to Someone",
-      "url": "https://open.spotify.com/track/3awweDjWIuXNMogMClJnvE"
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
     },
     {
       "added_at": "2026-03-31 14:27:16",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-03-31 14:27:16",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 153633,
-      "name": "i wish i hated you",
-      "url": "https://open.spotify.com/track/5cQX9BexkPIEESTZijJhXg"
-    },
-    {
-      "added_at": "2026-03-31 14:27:16",
-      "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 133478,
       "name": "Dumb & Poetic",
       "url": "https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR"
+    },
+    {
+      "added_at": "2026-03-31 14:27:16",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 153633,
+      "name": "i wish i hated you",
+      "url": "https://open.spotify.com/track/5cQX9BexkPIEESTZijJhXg"
     },
     {
       "added_at": "2026-03-31 14:27:16",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2026-03-31 14:27:16",
       "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
-    },
-    {
-      "added_at": "2026-03-31 14:27:16",
-      "album": {
         "name": "Ends & Begins",
         "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 197465,
       "name": "The Feels",
       "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
+    },
+    {
+      "added_at": "2026-03-31 14:27:16",
+      "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
       "added_at": "2026-03-31 14:27:16",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2026-03-31 14:27:16",
       "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 172597,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE"
-    },
-    {
-      "added_at": "2026-03-31 14:27:16",
-      "album": {
         "name": "go",
         "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 215000,
       "name": "go",
       "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
+    },
+    {
+      "added_at": "2026-03-31 14:27:16",
+      "album": {
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 172597,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE"
     },
     {
       "added_at": "2026-03-31 14:27:16",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2026-03-31 14:27:16",
       "album": {
+        "name": "That Part",
+        "url": "https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 174052,
+      "name": "That Part",
+      "url": "https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB"
+    },
+    {
+      "added_at": "2026-03-31 14:27:16",
+      "album": {
         "name": "Come Through (feat. Chris Brown)",
         "url": "https://open.spotify.com/album/7qKY8n8wPUizIo2bfSWUEB"
       },
@@ -2111,22 +2127,6 @@
     {
       "added_at": "2026-03-31 14:27:16",
       "album": {
-        "name": "That Part",
-        "url": "https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 174052,
-      "name": "That Part",
-      "url": "https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB"
-    },
-    {
-      "added_at": "2026-03-31 14:27:16",
-      "album": {
         "name": "I Don't Care (Acoustic)",
         "url": "https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X"
       },
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2026-03-31 14:27:16",
       "album": {
-        "name": "mama's boy",
-        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "nobody else",
-      "url": "https://open.spotify.com/track/7GLBqDKAJLCLIsj2GEDkSw"
-    },
-    {
-      "added_at": "2026-03-31 14:27:16",
-      "album": {
         "name": "A Beautiful Life (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/6Gp4FYNauiy3p5g2Xd0g9C"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 218000,
       "name": "A Beautiful Life (From the Netflix Film \u2018A Beautiful Life\u2019)",
       "url": "https://open.spotify.com/track/2e6JU6XBm7w0FnHyQqrqMs"
+    },
+    {
+      "added_at": "2026-03-31 14:27:16",
+      "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "nobody else",
+      "url": "https://open.spotify.com/track/7GLBqDKAJLCLIsj2GEDkSw"
     },
     {
       "added_at": "2026-03-31 14:27:16",

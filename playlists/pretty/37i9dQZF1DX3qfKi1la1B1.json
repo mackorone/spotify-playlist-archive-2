@@ -1,6 +1,6 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 127103,
+  "num_followers": 127112,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-04-08 04:05:43",
       "album": {
-        "name": "Hiraeth",
-        "url": "https://open.spotify.com/album/6ctn6jq4F0igkYugxjC9km"
-      },
-      "artists": [
-        {
-          "name": "Sub Urban",
-          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
-        }
-      ],
-      "duration_ms": 200852,
-      "name": "Hiraeth",
-      "url": "https://open.spotify.com/track/5rbEgluvVAsM1cLyUgsUmy"
-    },
-    {
-      "added_at": "2026-04-08 04:05:43",
-      "album": {
         "name": "All I Got",
         "url": "https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 295000,
       "name": "All I Got",
       "url": "https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM"
+    },
+    {
+      "added_at": "2026-04-08 04:05:43",
+      "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/6ctn6jq4F0igkYugxjC9km"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        }
+      ],
+      "duration_ms": 200852,
+      "name": "Hiraeth",
+      "url": "https://open.spotify.com/track/5rbEgluvVAsM1cLyUgsUmy"
     },
     {
       "added_at": "2026-04-08 04:05:43",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-04-08 04:05:43",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 216524,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
-    },
-    {
-      "added_at": "2026-04-08 04:05:43",
-      "album": {
         "name": "The Lost Petals",
         "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 121695,
       "name": "Once More",
       "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
+    },
+    {
+      "added_at": "2026-04-08 04:05:43",
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 216524,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
     },
     {
       "added_at": "2026-04-08 04:05:43",
@@ -1039,26 +1039,18 @@
     {
       "added_at": "2026-04-08 04:05:43",
       "album": {
-        "name": "Night Drive",
-        "url": "https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw"
+        "name": "The End",
+        "url": "https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ"
       },
       "artists": [
         {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
-        },
-        {
-          "name": "Julia Wu",
-          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
-        },
-        {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 208251,
-      "name": "Night Drive",
-      "url": "https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o"
+      "duration_ms": 205634,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0"
     }
   ],
   "unique_name": "Midnight Chill",

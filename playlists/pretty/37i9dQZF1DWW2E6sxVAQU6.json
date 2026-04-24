@@ -1,6 +1,6 @@
 {
   "description": "Dedicata a chi non ha rischiato ed \u00e8 sempre andato al massimo  \u26a1\ufe0f",
-  "num_followers": 13362,
+  "num_followers": 13360,
   "original_name": "Sanremo: Schegge Impazzite",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
+        "name": "La Faccia Delle Donne",
+        "url": "https://open.spotify.com/album/76rFF7v6dK477ZuNohtqPh"
+      },
+      "artists": [
+        {
+          "name": "Stadio",
+          "url": "https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA"
+        }
+      ],
+      "duration_ms": 219160,
+      "name": "Allo stadio",
+      "url": "https://open.spotify.com/track/1vbGCz41lKI9QZqnCslW3L"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
         "name": "Eiffel 65 (Italian Album)",
         "url": "https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 239407,
       "name": "Quelli Che Non Hanno Et\u00e0 - Gabry Ponte Power Cut",
       "url": "https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
-        "name": "La Faccia Delle Donne",
-        "url": "https://open.spotify.com/album/76rFF7v6dK477ZuNohtqPh"
-      },
-      "artists": [
-        {
-          "name": "Stadio",
-          "url": "https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "Allo stadio",
-      "url": "https://open.spotify.com/track/1vbGCz41lKI9QZqnCslW3L"
     },
     {
       "added_at": "2026-01-25 23:01:07",

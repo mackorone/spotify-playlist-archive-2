@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 24970,
+  "num_followers": 24981,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAAuYhLrQmsqo3sYNRvH1lbJ",
+  "snapshot_id": "aegPgAAAAABaMW/2jNBcGgIYKhe0C/SQ",
   "tracks": [
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dromendans (Outsiders Remix)",
-        "url": "https://open.spotify.com/album/5YWyGJZBMUHDGgmbACLSfS"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Vinzzent",
-          "url": "https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX"
-        }
-      ],
-      "duration_ms": 214124,
-      "name": "Dromendans (Outsiders Remix)",
-      "url": "https://open.spotify.com/track/3pR5AcJQBYpD7GX7koQoJl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rebel Baby (Potato Remix)",
         "url": "https://open.spotify.com/album/3R1B6UoXntXxILHzykAABQ"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 149419,
       "name": "Rebel Baby - Potato Remix",
       "url": "https://open.spotify.com/track/5F31rHUu95XlySioIqSnSP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dromendans (Outsiders Remix)",
+        "url": "https://open.spotify.com/album/5YWyGJZBMUHDGgmbACLSfS"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Vinzzent",
+          "url": "https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX"
+        }
+      ],
+      "duration_ms": 214124,
+      "name": "Dromendans (Outsiders Remix)",
+      "url": "https://open.spotify.com/track/3pR5AcJQBYpD7GX7koQoJl"
     },
     {
       "added_at": null,
@@ -839,6 +839,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pullover (feat. J.D.A.)",
+        "url": "https://open.spotify.com/album/0ehvryl4ZSycpdBU54I5Ak"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "J.D.A.",
+          "url": "https://open.spotify.com/artist/2JDi9za9u6zXMmUwSZGPZs"
+        }
+      ],
+      "duration_ms": 182167,
+      "name": "Pullover (feat. J.D.A.)",
+      "url": "https://open.spotify.com/track/0lhpUzuy55cSFC44B143I2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thunderbolt (Outsiders Remix)",
         "url": "https://open.spotify.com/album/2VIle6GvNBwToC8zX2aDZL"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 147023,
       "name": "Thunderbolt (Outsiders Remix)",
       "url": "https://open.spotify.com/track/6tgLeIVLBgYuV1WnN7yJdB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pullover (feat. J.D.A.)",
-        "url": "https://open.spotify.com/album/0ehvryl4ZSycpdBU54I5Ak"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "J.D.A.",
-          "url": "https://open.spotify.com/artist/2JDi9za9u6zXMmUwSZGPZs"
-        }
-      ],
-      "duration_ms": 182167,
-      "name": "Pullover (feat. J.D.A.)",
-      "url": "https://open.spotify.com/track/0lhpUzuy55cSFC44B143I2"
     },
     {
       "added_at": null,
@@ -947,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Das Armas",
-        "url": "https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 182709,
-      "name": "Das Armas",
-      "url": "https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KUTMUZIEK",
         "url": "https://open.spotify.com/album/1LvdeBpWj05dDC4Xh7zd3o"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 150000,
       "name": "KUTMUZIEK",
       "url": "https://open.spotify.com/track/12hnvrted7ORllAafrUiao"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Das Armas",
+        "url": "https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 182709,
+      "name": "Das Armas",
+      "url": "https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC"
     },
     {
       "added_at": null,

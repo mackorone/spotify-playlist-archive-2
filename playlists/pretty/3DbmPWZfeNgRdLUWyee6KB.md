@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,294 likes - 136 songs - 7 hr 41 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,295 likes - 141 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 16 | [Louisiana Hearts](https://open.spotify.com/track/0L9PtEqHyt7yJVg6FFGiP0) | [Kit Shicker](https://open.spotify.com/artist/0eFekL80FdknBH44bSU2dH) | [Louisiana Hearts](https://open.spotify.com/album/3JhcqErevGS1IOh62M7vK0) | 4:33 |
 | 17 | [Mi piace quando ridi](https://open.spotify.com/track/0ZwphHJg0IMkAnlPx0blwC) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Mi piace quando ridi](https://open.spotify.com/album/4iK1pnUBHpvdKYI8lvm4ki) | 2:58 |
 | 18 | [Psyop \- Piano Ballata](https://open.spotify.com/track/0CZfa975EMmjpUrX7H4kxo) | [Nilz Hübenbecker](https://open.spotify.com/artist/6LXyY9kw7dcaqV4WQq1qIQ), [Miroslaw Bojadzijew](https://open.spotify.com/artist/1XQQujTdjrWCCWpG8Iqu4Y) | [Psyop \(Piano Ballata\)](https://open.spotify.com/album/4CQZbuoogORxfvsixj6OEW) | 2:53 |
-| 19 | [Allora come ti va](https://open.spotify.com/track/1e4XmtctCBleGXpwMFL2uS) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Allora come ti va](https://open.spotify.com/album/2kIGDCh4ia1nJP38hvN6QH) | 4:38 |
-| 20 | [Confession to Make](https://open.spotify.com/track/4BWbeI8yxhm6syj4P3K9yl) | [DJ Kosho](https://open.spotify.com/artist/4v0mYxAmKlG7pDYuiUfm87) | [Confession to Make](https://open.spotify.com/album/45O096QdrsBc5oRpQ7kVi2) | 3:53 |
+| 19 | [Confession to Make](https://open.spotify.com/track/4BWbeI8yxhm6syj4P3K9yl) | [DJ Kosho](https://open.spotify.com/artist/4v0mYxAmKlG7pDYuiUfm87) | [Confession to Make](https://open.spotify.com/album/45O096QdrsBc5oRpQ7kVi2) | 3:53 |
+| 20 | [Allora come ti va](https://open.spotify.com/track/1e4XmtctCBleGXpwMFL2uS) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Allora come ti va](https://open.spotify.com/album/2kIGDCh4ia1nJP38hvN6QH) | 4:38 |
 | 21 | [Rainy Night](https://open.spotify.com/track/2AuO23FzSXxrnhrZ9jriKE) | [The Inked Path](https://open.spotify.com/artist/6mH0wRSH6wrNnG2K0YSWnM) | [Rainy Night](https://open.spotify.com/album/0THtbTaSYoMWvxTfVC3Ui1) | 3:43 |
 | 22 | [You're Leaving](https://open.spotify.com/track/3SsGRoRZ4nkumHu6aNwxZ2) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Andrea Pullone](https://open.spotify.com/artist/5qu2na5lSZrhmvL8OtvUks), [Maurizio Perrone](https://open.spotify.com/artist/2PICoEK7lgXMhdL89xvvKr), [Giampaolo Scatozza](https://open.spotify.com/artist/3uaTnXlTZbiBalwWJIyj5N) | [You're Leaving](https://open.spotify.com/album/4q1tPf6cWNrKRPAMKa70WD) | 3:47 |
-| 23 | [Ma Cos'è](https://open.spotify.com/track/1RceYnI7VePLr2haxuuRYw) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Ma Cos'è](https://open.spotify.com/album/17ghqeoryUABi6pcl7lS1Z) | 4:15 |
-| 24 | [Mia Famiglia](https://open.spotify.com/track/0qW4zEOpPIKQffT2J9Vt4M) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3), [Giancarlo Romani](https://open.spotify.com/artist/59gxTwI7Wu2hNmNyj5l4Su), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE), [Maurizio Perrone](https://open.spotify.com/artist/2PICoEK7lgXMhdL89xvvKr), [Massimiliano De Lucia](https://open.spotify.com/artist/0sXIcrA8yfLCqZQYC2MtIc) | [Mia Famiglia](https://open.spotify.com/album/06gfq63dLIwYSqh0ou4nN1) | 4:17 |
+| 23 | [Mia Famiglia](https://open.spotify.com/track/0qW4zEOpPIKQffT2J9Vt4M) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3), [Giancarlo Romani](https://open.spotify.com/artist/59gxTwI7Wu2hNmNyj5l4Su), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE), [Maurizio Perrone](https://open.spotify.com/artist/2PICoEK7lgXMhdL89xvvKr), [Massimiliano De Lucia](https://open.spotify.com/artist/0sXIcrA8yfLCqZQYC2MtIc) | [Mia Famiglia](https://open.spotify.com/album/06gfq63dLIwYSqh0ou4nN1) | 4:17 |
+| 24 | [Ma Cos'è](https://open.spotify.com/track/1RceYnI7VePLr2haxuuRYw) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Ma Cos'è](https://open.spotify.com/album/17ghqeoryUABi6pcl7lS1Z) | 4:15 |
 | 25 | [Smile](https://open.spotify.com/track/6uKneVDbug79oVARPAqfKG) | [Asher Saipe](https://open.spotify.com/artist/11qtvzvtcIBq9S5gNPnBDD) | [Smile](https://open.spotify.com/album/24KgIkZhea3iRt93nKb8xw) | 4:05 |
 | 26 | [Underwater](https://open.spotify.com/track/40lpPB9juUNtNu5WPoZ2vM) | [Danilette](https://open.spotify.com/artist/2QnyxqqEpo4zyueAHZM8Xq), [Avareld Syd](https://open.spotify.com/artist/0emocifRgTbVRtGGHnJA4H) | [Underwater](https://open.spotify.com/album/04Wv5GuJBkPEbF7NNYOHZ3) | 4:02 |
 | 27 | [Inconvenient](https://open.spotify.com/track/62RnRCieGskMs3LZVxnhGt) | [Jasmin Ahrent](https://open.spotify.com/artist/2ZkozTiOfdofrlkZVWK3WM) | [Inconvenient](https://open.spotify.com/album/2i60zAdbllRZnbCmO1atwM) | 4:03 |
@@ -144,5 +144,10 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 134 | [When Kermit Sings My Song](https://open.spotify.com/track/7c8SwAshSP9V2MZk0JS9UI) | [The Haze](https://open.spotify.com/artist/6iUcuJFopb8XcXduZjuGJe) | [When Kermit Sings My Song](https://open.spotify.com/album/5Kkol2UkHLgmoFkQxrernj) | 3:29 |
 | 135 | [Throne](https://open.spotify.com/track/5A2VNGomqev230PjCu02Nq) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Throne](https://open.spotify.com/album/6GhuTJMvb8Yc0PA6jotClj) | 4:20 |
 | 136 | [Grace is Gone](https://open.spotify.com/track/5QyGhIs60QO3KOVMv7X54y) | [Austin\-Tucker](https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq) | [Grace is Gone](https://open.spotify.com/album/6NJPxxjLZ1gD0zNOQbKcbN) | 4:13 |
+| 137 | [Moonlight In Her Eyes](https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:51 |
+| 138 | [Look to the Left, Look to the Right](https://open.spotify.com/track/36ysdfAFO9qWTEdKWdQDiM) | [Aleksi Oksanen](https://open.spotify.com/artist/57ykQsgvmUWPQbIMpiyiH2) | [Look to the Left, Look to the Right](https://open.spotify.com/album/6o7NXuKePoAU6DWH7qEGPB) | 1:52 |
+| 139 | [Per Sempre Noi](https://open.spotify.com/track/02AlhDZDgOq5mR9Uqdpw9A) | [RYCKI](https://open.spotify.com/artist/5tlokK5dnH5D4qunFcA6ZE) | [Per Sempre Noi](https://open.spotify.com/album/6DaxUZvE65MuDKgQq4NUCP) | 2:55 |
+| 140 | [Clock Won't Fix Us](https://open.spotify.com/track/5IHk26pRARBqre0j3qW4us) | [Zaara](https://open.spotify.com/artist/0QuY5zWGOpvYWNTPltuTDd) | [Clock Won't Fix Us](https://open.spotify.com/album/54XyWhtJqkO2ihmc9VrXMK) | 4:27 |
+| 141 | [Silhouette](https://open.spotify.com/track/3PXC71Anog78H0WlzANi49) | [Maxine Louise](https://open.spotify.com/artist/3vOuuR55nZMwjEluo4Su6d) | [Silhouette](https://open.spotify.com/album/4fFxum7G5Pm3RD94GHk2VY) | 3:04 |
 
-Snapshot ID: `AAATY+vbJRGH0y6KU6WpEyofOuyXLwZc`
+Snapshot ID: `AAATahX4cy3IJn9rJZfMzijsRncYDqo5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVMeW0SUm35.md) - [plain]
 
 > The official soundtrack and score of Euphoria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,934 likes - 274 songs - 15 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,460 likes - 274 songs - 15 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

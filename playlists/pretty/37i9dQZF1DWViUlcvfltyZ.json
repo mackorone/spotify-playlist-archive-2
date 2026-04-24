@@ -1,31 +1,15 @@
 {
-  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 ma soprattutto da Torino, Subsonica in cover",
-  "num_followers": 83771,
+  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Glazyhaze in cover",
+  "num_followers": 83768,
   "original_name": "Rock Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN3XNEyGVhVgyNwp4lqV1e15rpYD",
+  "snapshot_id": "AAAAAHXes4Twl48aJCc7mMPe9BW0fhiv",
   "tracks": [
     {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Terre Rare",
-        "url": "https://open.spotify.com/album/1rdC7pskTVcEMixP00WREq"
-      },
-      "artists": [
-        {
-          "name": "Subsonica",
-          "url": "https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK"
-        }
-      ],
-      "duration_ms": 242059,
-      "name": "Rifugio",
-      "url": "https://open.spotify.com/track/4KRBxpRyEEXAkUmmznY0OF"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Do You?",
         "url": "https://open.spotify.com/album/2jrYe5dtqSUofXSlr5DgYI"
@@ -41,7 +25,23 @@
       "url": "https://open.spotify.com/track/2mQjhWtvMPERHKNRSGMn25"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Terre Rare",
+        "url": "https://open.spotify.com/album/1rdC7pskTVcEMixP00WREq"
+      },
+      "artists": [
+        {
+          "name": "Subsonica",
+          "url": "https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK"
+        }
+      ],
+      "duration_ms": 242059,
+      "name": "Rifugio",
+      "url": "https://open.spotify.com/track/4KRBxpRyEEXAkUmmznY0OF"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "17 RE",
         "url": "https://open.spotify.com/album/26rs8xU2quTqi90KhcF7yu"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/5dTsRjT3YO2VGN9P5Uwx3O"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Tersicore",
         "url": "https://open.spotify.com/album/5a8jCIJaZd0wSr63b4eIr9"
@@ -73,39 +73,7 @@
       "url": "https://open.spotify.com/track/6Rb0OjusapAMifa4BThXnl"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "troppo giovani per esser soli, troppo stanchi per rincorrerci (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0rZFgO9dq9th601YxHJN4M"
-      },
-      "artists": [
-        {
-          "name": "Fear Of Apathy",
-          "url": "https://open.spotify.com/artist/69xmomZwZqYGTSYPoWiUML"
-        }
-      ],
-      "duration_ms": 174580,
-      "name": "non mi fido pi\u00f9",
-      "url": "https://open.spotify.com/track/155zDi0W4vIu4ZB0eRMFvC"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "mentre i monsoni curano e scuotono l'erba rimasta,",
-        "url": "https://open.spotify.com/album/1NZDEMGSuAhjsxPZfLFjaM"
-      },
-      "artists": [
-        {
-          "name": "Quercia",
-          "url": "https://open.spotify.com/artist/5AQAAs2emLmGYAd8UuNmbK"
-        }
-      ],
-      "duration_ms": 222307,
-      "name": "OMBRA",
-      "url": "https://open.spotify.com/track/1F3C2pEE3A9GsQt6Rk5BhW"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Resta Con Me",
         "url": "https://open.spotify.com/album/4mCgQu8BIqXpiil8pw5KDj"
@@ -121,39 +89,7 @@
       "url": "https://open.spotify.com/track/1GjQApTKIADKfSoZm8bHRK"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Television / Amore mio",
-        "url": "https://open.spotify.com/album/0eT2qgZDjuhJkXItbD4tja"
-      },
-      "artists": [
-        {
-          "name": "I Finnegans",
-          "url": "https://open.spotify.com/artist/2rrjc6ARdFy4OigHtVsL7X"
-        }
-      ],
-      "duration_ms": 129320,
-      "name": "Television",
-      "url": "https://open.spotify.com/track/1G8sn1nKe34PJTMQBkAdY2"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Not a boy, not a girl",
-        "url": "https://open.spotify.com/album/5yZU14N8dW7TiCSVuzvTTM"
-      },
-      "artists": [
-        {
-          "name": "Sleap-e",
-          "url": "https://open.spotify.com/artist/0zaHskaZiKsAmGMPWp0iNS"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Not a boy, not a girl",
-      "url": "https://open.spotify.com/track/0lY6xEMwUGgrYsFh6I7STV"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Hellvisback 10 Years Later",
         "url": "https://open.spotify.com/album/3jNCrVhxAmn429sGhoth4E"
@@ -169,215 +105,39 @@
       "url": "https://open.spotify.com/track/7LOz7vUwz6845uQwpd16UZ"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
-        "name": "SIDERALE",
-        "url": "https://open.spotify.com/album/4t3X0Qsj0c8Ea3bFALiUdy"
+        "name": "mentre i monsoni curano e scuotono l'erba rimasta,",
+        "url": "https://open.spotify.com/album/1NZDEMGSuAhjsxPZfLFjaM"
       },
       "artists": [
         {
-          "name": "Pluvia",
-          "url": "https://open.spotify.com/artist/2iYo4wUo3mf6MVcRlRxXuG"
+          "name": "Quercia",
+          "url": "https://open.spotify.com/artist/5AQAAs2emLmGYAd8UuNmbK"
         }
       ],
-      "duration_ms": 183391,
-      "name": "SIDERALE",
-      "url": "https://open.spotify.com/track/3qISkz1pXPBgAZ0Ga7gSLO"
+      "duration_ms": 222307,
+      "name": "OMBRA",
+      "url": "https://open.spotify.com/track/1F3C2pEE3A9GsQt6Rk5BhW"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
-        "name": "Favola",
-        "url": "https://open.spotify.com/album/00JtOxPVWh6DtrBYUIZeT8"
+        "name": "troppo giovani per esser soli, troppo stanchi per rincorrerci (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0rZFgO9dq9th601YxHJN4M"
       },
       "artists": [
         {
-          "name": "NASKA",
-          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+          "name": "Fear Of Apathy",
+          "url": "https://open.spotify.com/artist/69xmomZwZqYGTSYPoWiUML"
         }
       ],
-      "duration_ms": 157407,
-      "name": "Favola",
-      "url": "https://open.spotify.com/track/4hibXjoxoVQueVeBY3b3NU"
+      "duration_ms": 174580,
+      "name": "non mi fido pi\u00f9",
+      "url": "https://open.spotify.com/track/155zDi0W4vIu4ZB0eRMFvC"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Pazienza / Moltisanti",
-        "url": "https://open.spotify.com/album/1BRCoMeuxVbE5Z1zVrVhZO"
-      },
-      "artists": [
-        {
-          "name": "sugo!",
-          "url": "https://open.spotify.com/artist/4XlwChJZMvD9wHlr9Q37EC"
-        }
-      ],
-      "duration_ms": 216032,
-      "name": "Pazienza",
-      "url": "https://open.spotify.com/track/20SO4g5wd5zzlGnNs7ozx1"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "MEGLIO ME CHE TE!",
-        "url": "https://open.spotify.com/album/0i2dt4UTo34E0Pggyp9XA0"
-      },
-      "artists": [
-        {
-          "name": "KLAUS NOIR",
-          "url": "https://open.spotify.com/artist/49IamDbZMOj9GPux8Z4i9e"
-        }
-      ],
-      "duration_ms": 113045,
-      "name": "MEGLIO ME CHE TE!",
-      "url": "https://open.spotify.com/track/46jcFpFSDWkbnUDxBZmtpf"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/5Wkqden9za3bPK4xFw9euN"
-      },
-      "artists": [
-        {
-          "name": "So Beast",
-          "url": "https://open.spotify.com/artist/0BKQOZ5ah55hiPw8EMXxoE"
-        }
-      ],
-      "duration_ms": 251500,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/74WS34AbT1g3j3Y5tvUpCT"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Agonia",
-        "url": "https://open.spotify.com/album/29nOS5yANYfHlGSBGkkfuW"
-      },
-      "artists": [
-        {
-          "name": "chiello",
-          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
-        }
-      ],
-      "duration_ms": 204964,
-      "name": "Vulcano",
-      "url": "https://open.spotify.com/track/1OWAVqDhJ2w1gupu9HZE7b"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Bigger Man",
-        "url": "https://open.spotify.com/album/70ATe6QKHTFoj9hVcJRgEW"
-      },
-      "artists": [
-        {
-          "name": "Sofia Gobbi",
-          "url": "https://open.spotify.com/artist/1F68L6nlubo92LxyyITibv"
-        }
-      ],
-      "duration_ms": 147280,
-      "name": "Not Your Girl",
-      "url": "https://open.spotify.com/track/2eX4H6cAJr3VkCLaDuGS6j"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Lucida Follia",
-        "url": "https://open.spotify.com/album/0Pc2ojxhdmKvsQbDiV0qNa"
-      },
-      "artists": [
-        {
-          "name": "Negative Message",
-          "url": "https://open.spotify.com/artist/5IqJuYWytZk2tYQVmte7ML"
-        }
-      ],
-      "duration_ms": 215712,
-      "name": "Il Circo Degli Orrori",
-      "url": "https://open.spotify.com/track/1jfUnSlu1TEbmOtOSGci48"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "torpida",
-        "url": "https://open.spotify.com/album/7cOmpx2gwK9IVMRHh4t5Hl"
-      },
-      "artists": [
-        {
-          "name": "edere",
-          "url": "https://open.spotify.com/artist/7DC9Xd7F24okb8pTdi4e1P"
-        }
-      ],
-      "duration_ms": 264742,
-      "name": "torpida",
-      "url": "https://open.spotify.com/track/5YAuDMeg8JcDjCiCDRpiin"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Specchio",
-        "url": "https://open.spotify.com/album/3tX9F0DbDKa4OhNfklEn9T"
-      },
-      "artists": [
-        {
-          "name": "Piqued Jacks",
-          "url": "https://open.spotify.com/artist/5eprmPyM92CrWnnE1P840z"
-        }
-      ],
-      "duration_ms": 149368,
-      "name": "Specchio",
-      "url": "https://open.spotify.com/track/7tyux0lyjytHcdNyEMyzbq"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Un canto nuovo",
-        "url": "https://open.spotify.com/album/4S3f6gj42VpHBja4qNoOaV"
-      },
-      "artists": [
-        {
-          "name": "Lamante",
-          "url": "https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd"
-        }
-      ],
-      "duration_ms": 227524,
-      "name": "Un canto nuovo",
-      "url": "https://open.spotify.com/track/6klTNJfsHwkbMTs5SuRG62"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "life is like a broadway show, new york",
-        "url": "https://open.spotify.com/album/1asoLftkvJYBSoJc6fEKWF"
-      },
-      "artists": [
-        {
-          "name": "CORE MATO",
-          "url": "https://open.spotify.com/artist/6kKPuf7rsBk0pJnZMxDLkC"
-        }
-      ],
-      "duration_ms": 152380,
-      "name": "life is like a broadway show, new york",
-      "url": "https://open.spotify.com/track/62qbMnZPBiNgqPTPm6GIh1"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "The Old Car",
-        "url": "https://open.spotify.com/album/6IlWRIMZALC1KX48otZyYZ"
-      },
-      "artists": [
-        {
-          "name": "Sacramento",
-          "url": "https://open.spotify.com/artist/0ovT4fn9cuMxfhRNGPUzON"
-        }
-      ],
-      "duration_ms": 252475,
-      "name": "The Old Car",
-      "url": "https://open.spotify.com/track/5MHj4JC7mVJUjuK14uHb7G"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Terre Rare",
         "url": "https://open.spotify.com/album/1rdC7pskTVcEMixP00WREq"
@@ -397,7 +157,207 @@
       "url": "https://open.spotify.com/track/0jgsu50ar0BxKFY895X5Mn"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "1000%",
+        "url": "https://open.spotify.com/album/6vQCEFtHhdqwfLjzXTPpe9"
+      },
+      "artists": [
+        {
+          "name": "Umarell",
+          "url": "https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "A dir il vero",
+      "url": "https://open.spotify.com/track/3JKnV3A1hioqP3dL6HsbXO"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "L'origine del mondo",
+        "url": "https://open.spotify.com/album/1SnzZ3Cp7DMFhWh9l7AelQ"
+      },
+      "artists": [
+        {
+          "name": "Roshelle",
+          "url": "https://open.spotify.com/artist/05OYdU3diEpNYjaAHNaZTt"
+        }
+      ],
+      "duration_ms": 183658,
+      "name": "L\u2019origine del mondo",
+      "url": "https://open.spotify.com/track/0XhfenptJR3eodAeW4Nqtv"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Favola",
+        "url": "https://open.spotify.com/album/00JtOxPVWh6DtrBYUIZeT8"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "duration_ms": 157407,
+      "name": "Favola",
+      "url": "https://open.spotify.com/track/4hibXjoxoVQueVeBY3b3NU"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Not a boy, not a girl",
+        "url": "https://open.spotify.com/album/5yZU14N8dW7TiCSVuzvTTM"
+      },
+      "artists": [
+        {
+          "name": "Sleap-e",
+          "url": "https://open.spotify.com/artist/0zaHskaZiKsAmGMPWp0iNS"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Not a boy, not a girl",
+      "url": "https://open.spotify.com/track/0lY6xEMwUGgrYsFh6I7STV"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Agonia",
+        "url": "https://open.spotify.com/album/29nOS5yANYfHlGSBGkkfuW"
+      },
+      "artists": [
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        }
+      ],
+      "duration_ms": 204964,
+      "name": "Vulcano",
+      "url": "https://open.spotify.com/track/1OWAVqDhJ2w1gupu9HZE7b"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "STOMPERS",
+        "url": "https://open.spotify.com/album/2aOfGuE41IPzgXYhRbBjvX"
+      },
+      "artists": [
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        },
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        },
+        {
+          "name": "Mazare",
+          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "STOMPERS",
+      "url": "https://open.spotify.com/track/2x0sxWxnaELYhUlDv6DSv3"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Pazienza / Moltisanti",
+        "url": "https://open.spotify.com/album/1BRCoMeuxVbE5Z1zVrVhZO"
+      },
+      "artists": [
+        {
+          "name": "sugo!",
+          "url": "https://open.spotify.com/artist/4XlwChJZMvD9wHlr9Q37EC"
+        }
+      ],
+      "duration_ms": 216032,
+      "name": "Pazienza",
+      "url": "https://open.spotify.com/track/20SO4g5wd5zzlGnNs7ozx1"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Un canto nuovo",
+        "url": "https://open.spotify.com/album/4S3f6gj42VpHBja4qNoOaV"
+      },
+      "artists": [
+        {
+          "name": "Lamante",
+          "url": "https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd"
+        }
+      ],
+      "duration_ms": 227524,
+      "name": "Un canto nuovo",
+      "url": "https://open.spotify.com/track/6klTNJfsHwkbMTs5SuRG62"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Television / Amore mio",
+        "url": "https://open.spotify.com/album/0eT2qgZDjuhJkXItbD4tja"
+      },
+      "artists": [
+        {
+          "name": "I Finnegans",
+          "url": "https://open.spotify.com/artist/2rrjc6ARdFy4OigHtVsL7X"
+        }
+      ],
+      "duration_ms": 129320,
+      "name": "Television",
+      "url": "https://open.spotify.com/track/1G8sn1nKe34PJTMQBkAdY2"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "SIDERALE",
+        "url": "https://open.spotify.com/album/4t3X0Qsj0c8Ea3bFALiUdy"
+      },
+      "artists": [
+        {
+          "name": "Pluvia",
+          "url": "https://open.spotify.com/artist/2iYo4wUo3mf6MVcRlRxXuG"
+        }
+      ],
+      "duration_ms": 183391,
+      "name": "SIDERALE",
+      "url": "https://open.spotify.com/track/3qISkz1pXPBgAZ0Ga7gSLO"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "SEX DRIVE",
+        "url": "https://open.spotify.com/album/4wBm066DRpxGoX2TFWOZsk"
+      },
+      "artists": [
+        {
+          "name": "Stunt Pilots",
+          "url": "https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr"
+        }
+      ],
+      "duration_ms": 181285,
+      "name": "SEX DRIVE",
+      "url": "https://open.spotify.com/track/4yeg2fjEvsebk75Dx5RGp2"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "post mortem",
+        "url": "https://open.spotify.com/album/0l8cw32SMyAlYyCheOoL9p"
+      },
+      "artists": [
+        {
+          "name": "i cani",
+          "url": "https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP"
+        }
+      ],
+      "duration_ms": 224219,
+      "name": "buco nero",
+      "url": "https://open.spotify.com/track/4UxnRl0oN6htx2593DpJpb"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Perch\u00e9 Non Si Sa Mai",
         "url": "https://open.spotify.com/album/6RwsMookpjspDygtfXxGhK"
@@ -417,107 +377,215 @@
       "url": "https://open.spotify.com/track/5sbMMLR3YYFUYrTltD1Thp"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
-        "name": "Vita, Morte e Miracoli",
-        "url": "https://open.spotify.com/album/55EldRuc15CKWkdU6MLBg3"
+        "name": "Il Male",
+        "url": "https://open.spotify.com/album/6MCXTq1gXA0lGYVifAlRCB"
       },
       "artists": [
         {
-          "name": "WEL",
-          "url": "https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v"
-        },
-        {
-          "name": "Why Everyone Left",
-          "url": "https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ"
+          "name": "The Zen Circus",
+          "url": "https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84"
         }
       ],
-      "duration_ms": 179200,
-      "name": "Gaia",
-      "url": "https://open.spotify.com/track/7lUVgbQvkUckyQ3mxYh6Yu"
+      "duration_ms": 223138,
+      "name": "Meglio di niente",
+      "url": "https://open.spotify.com/track/5At2rYksLx7gFVaOPBBeUL"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
-        "name": "Un Dolce Finale",
-        "url": "https://open.spotify.com/album/71DxgWhr1Sv3fWwheT2gFn"
+        "name": "Anime Storte",
+        "url": "https://open.spotify.com/album/4O8zCrvouHUXmHLoRUNZAo"
       },
       "artists": [
         {
-          "name": "Angel Names",
-          "url": "https://open.spotify.com/artist/0nHyCOwU0M12V191sOV2a1"
+          "name": "Santamarea",
+          "url": "https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o"
         }
       ],
-      "duration_ms": 222120,
-      "name": "Un Dolce Finale",
-      "url": "https://open.spotify.com/track/6YwkuyRO4u9nlidsnOMQA9"
+      "duration_ms": 209266,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/2UdcbdDZQrQclwJTblATFa"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
-        "name": "I HATE MILANO",
-        "url": "https://open.spotify.com/album/7zcD5QilDCfUETudGPVJS6"
+        "name": "New York",
+        "url": "https://open.spotify.com/album/5Wkqden9za3bPK4xFw9euN"
       },
       "artists": [
         {
-          "name": "Motel Cecil",
-          "url": "https://open.spotify.com/artist/5AaaaiuLFShXMWKTw0KpSL"
+          "name": "So Beast",
+          "url": "https://open.spotify.com/artist/0BKQOZ5ah55hiPw8EMXxoE"
         }
       ],
-      "duration_ms": 91791,
-      "name": "I HATE MILANO",
-      "url": "https://open.spotify.com/track/1wxZV1KbqWuMnBYUnezCNN"
+      "duration_ms": 251500,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/74WS34AbT1g3j3Y5tvUpCT"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
-        "name": "Sicuro",
-        "url": "https://open.spotify.com/album/3Vt7ZJtd0oIvXnRxGQZngA"
+        "name": "MEGLIO ME CHE TE!",
+        "url": "https://open.spotify.com/album/0i2dt4UTo34E0Pggyp9XA0"
       },
       "artists": [
         {
-          "name": "La Gente",
-          "url": "https://open.spotify.com/artist/2HzkhtnJn3OBy557HAwDYH"
+          "name": "KLAUS NOIR",
+          "url": "https://open.spotify.com/artist/49IamDbZMOj9GPux8Z4i9e"
         }
       ],
-      "duration_ms": 280320,
-      "name": "Sicuro",
-      "url": "https://open.spotify.com/track/5F4HnEu8gky44OSeSyhfNb"
+      "duration_ms": 113045,
+      "name": "MEGLIO ME CHE TE!",
+      "url": "https://open.spotify.com/track/46jcFpFSDWkbnUDxBZmtpf"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
-        "name": "Per le vie della citt\u00e0",
-        "url": "https://open.spotify.com/album/5gxv0uYf0h5NfVZ5fVHpZ3"
+        "name": "Workaholica",
+        "url": "https://open.spotify.com/album/2YXvKMBKpBnayRPGIF83Fm"
       },
       "artists": [
         {
-          "name": "Pierpaolo Capovilla e i Cattivi Maestri",
-          "url": "https://open.spotify.com/artist/4NbLiEcytmqmvXoro1u2jO"
+          "name": "Krano",
+          "url": "https://open.spotify.com/artist/0RroFfjAg6EsKACQRi8Ctw"
         }
       ],
-      "duration_ms": 194621,
-      "name": "Per le vie della citt\u00e0",
-      "url": "https://open.spotify.com/track/38o6cByWLgLS3WeHdg5idc"
+      "duration_ms": 196680,
+      "name": "Workaholica",
+      "url": "https://open.spotify.com/track/2GlzeqRjGgXm11AQrSNNTL"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
-        "name": "Fliiim",
-        "url": "https://open.spotify.com/album/3FoCvSpo76YEUAt98FSKAq"
+        "name": "Il Tempo in Me (Radio Edit)",
+        "url": "https://open.spotify.com/album/6NRgfIZXblIPjMeUxreY7k"
       },
       "artists": [
         {
-          "name": "Upupay\u0101ma",
-          "url": "https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD"
+          "name": "Subsonica",
+          "url": "https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK"
         }
       ],
-      "duration_ms": 329102,
-      "name": "Fliiim",
-      "url": "https://open.spotify.com/track/1aAsUzTj2bIH6cAHLsacKw"
+      "duration_ms": 248256,
+      "name": "Il Tempo in Me - Radio Edit",
+      "url": "https://open.spotify.com/track/3gEiSGfcgXtKKGmfIkUGbX"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "La Bomba Intelligente",
+        "url": "https://open.spotify.com/album/7iraf7KLexh1c1cQCGyjnz"
+      },
+      "artists": [
+        {
+          "name": "I PATAGARRI",
+          "url": "https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic"
+        }
+      ],
+      "duration_ms": 189274,
+      "name": "La Bomba Intelligente",
+      "url": "https://open.spotify.com/track/1Flb6xU4U4jEx5W9V6RxGU"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "a proposito della neve bagnata",
+        "url": "https://open.spotify.com/album/0uTGblN00dM8pYzZb4Gzum"
+      },
+      "artists": [
+        {
+          "name": "Forse fa solo freddo",
+          "url": "https://open.spotify.com/artist/0cKGZFaR4VqpykFHa0CRYq"
+        }
+      ],
+      "duration_ms": 105600,
+      "name": "a proposito della neve bagnata",
+      "url": "https://open.spotify.com/track/6dmLwIck9rCnPxDKOW8y04"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Modern Vintage Wave",
+        "url": "https://open.spotify.com/album/0s0TDAVVCKSYdVsFYvKv1A"
+      },
+      "artists": [
+        {
+          "name": "Frigidaire Tango",
+          "url": "https://open.spotify.com/artist/5TVE5Fiwqufq5eKkuuBerU"
+        }
+      ],
+      "duration_ms": 203384,
+      "name": "I creatori",
+      "url": "https://open.spotify.com/track/5C0kgAksOYdl0s7REhD0Ri"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/3Zj1dzN5Zt6bYGCMYGwpex"
+      },
+      "artists": [
+        {
+          "name": "Krizia",
+          "url": "https://open.spotify.com/artist/6qtURBu4WaAuC5Vhy48Sok"
+        }
+      ],
+      "duration_ms": 165542,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/7jMEp2rf351kMn6O7QeMNh"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Dementia",
+        "url": "https://open.spotify.com/album/445XfcmnCUeCnBYL5sdlyw"
+      },
+      "artists": [
+        {
+          "name": "Sick Tamburo",
+          "url": "https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp"
+        }
+      ],
+      "duration_ms": 256653,
+      "name": "Immagina se",
+      "url": "https://open.spotify.com/track/3HM1RC0p6qtWgflr02R3L9"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Aurora Popolare",
+        "url": "https://open.spotify.com/album/2YGIiQGaU0U3ejGfqzogML"
+      },
+      "artists": [
+        {
+          "name": "Ministri",
+          "url": "https://open.spotify.com/artist/6an9YCv0S0Mj3rsaD9Ahpz"
+        }
+      ],
+      "duration_ms": 191573,
+      "name": "Piangere al lavoro",
+      "url": "https://open.spotify.com/track/2Uuh4QVOssmk5rAkj9AnWZ"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Specchio",
+        "url": "https://open.spotify.com/album/3tX9F0DbDKa4OhNfklEn9T"
+      },
+      "artists": [
+        {
+          "name": "Piqued Jacks",
+          "url": "https://open.spotify.com/artist/5eprmPyM92CrWnnE1P840z"
+        }
+      ],
+      "duration_ms": 149368,
+      "name": "Specchio",
+      "url": "https://open.spotify.com/track/7tyux0lyjytHcdNyEMyzbq"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "MASQUERADE",
         "url": "https://open.spotify.com/album/382CgB4kYWoc4ksVQpHjBo"
@@ -545,7 +613,251 @@
       "url": "https://open.spotify.com/track/6ObOQwjP7hycMhlYbSJuvk"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Un Dolce Finale",
+        "url": "https://open.spotify.com/album/71DxgWhr1Sv3fWwheT2gFn"
+      },
+      "artists": [
+        {
+          "name": "Angel Names",
+          "url": "https://open.spotify.com/artist/0nHyCOwU0M12V191sOV2a1"
+        }
+      ],
+      "duration_ms": 222120,
+      "name": "Un Dolce Finale",
+      "url": "https://open.spotify.com/track/6YwkuyRO4u9nlidsnOMQA9"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Vita, Morte e Miracoli",
+        "url": "https://open.spotify.com/album/55EldRuc15CKWkdU6MLBg3"
+      },
+      "artists": [
+        {
+          "name": "WEL",
+          "url": "https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v"
+        },
+        {
+          "name": "Why Everyone Left",
+          "url": "https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/7lUVgbQvkUckyQ3mxYh6Yu"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "life is like a broadway show, new york",
+        "url": "https://open.spotify.com/album/1asoLftkvJYBSoJc6fEKWF"
+      },
+      "artists": [
+        {
+          "name": "CORE MATO",
+          "url": "https://open.spotify.com/artist/6kKPuf7rsBk0pJnZMxDLkC"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "life is like a broadway show, new york",
+      "url": "https://open.spotify.com/track/62qbMnZPBiNgqPTPm6GIh1"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "torpida",
+        "url": "https://open.spotify.com/album/7cOmpx2gwK9IVMRHh4t5Hl"
+      },
+      "artists": [
+        {
+          "name": "edere",
+          "url": "https://open.spotify.com/artist/7DC9Xd7F24okb8pTdi4e1P"
+        }
+      ],
+      "duration_ms": 264742,
+      "name": "torpida",
+      "url": "https://open.spotify.com/track/5YAuDMeg8JcDjCiCDRpiin"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Lucida Follia",
+        "url": "https://open.spotify.com/album/0Pc2ojxhdmKvsQbDiV0qNa"
+      },
+      "artists": [
+        {
+          "name": "Negative Message",
+          "url": "https://open.spotify.com/artist/5IqJuYWytZk2tYQVmte7ML"
+        }
+      ],
+      "duration_ms": 215712,
+      "name": "Il Circo Degli Orrori",
+      "url": "https://open.spotify.com/track/1jfUnSlu1TEbmOtOSGci48"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Non Fare Domande",
+        "url": "https://open.spotify.com/album/3YGUHwrUapKwchOYBSH0nt"
+      },
+      "artists": [
+        {
+          "name": "Il Nemico",
+          "url": "https://open.spotify.com/artist/3akHRSGt7WDU8cuzmwbZTY"
+        }
+      ],
+      "duration_ms": 213383,
+      "name": "Roma Teheran",
+      "url": "https://open.spotify.com/track/6xOLu7KmQmNt8VIl2prsuB"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/1EUQXou8NYiZ508c6CkUiv"
+      },
+      "artists": [
+        {
+          "name": "Bambole Di Pezza",
+          "url": "https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW"
+        }
+      ],
+      "duration_ms": 156995,
+      "name": "Nuda ma alla Moda",
+      "url": "https://open.spotify.com/track/1H8U4KJR2ZRJadajrxupwe"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "MONOSTATIC",
+        "url": "https://open.spotify.com/album/70WuZoQSaSw3sAS9hTu5cD"
+      },
+      "artists": [
+        {
+          "name": "Les Votives",
+          "url": "https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5"
+        }
+      ],
+      "duration_ms": 203657,
+      "name": "a minute a moment",
+      "url": "https://open.spotify.com/track/64nEsHY3vnRwKFcUjaz6cC"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Bigger Man",
+        "url": "https://open.spotify.com/album/70ATe6QKHTFoj9hVcJRgEW"
+      },
+      "artists": [
+        {
+          "name": "Sofia Gobbi",
+          "url": "https://open.spotify.com/artist/1F68L6nlubo92LxyyITibv"
+        }
+      ],
+      "duration_ms": 147280,
+      "name": "Not Your Girl",
+      "url": "https://open.spotify.com/track/2eX4H6cAJr3VkCLaDuGS6j"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "The Old Car",
+        "url": "https://open.spotify.com/album/6IlWRIMZALC1KX48otZyYZ"
+      },
+      "artists": [
+        {
+          "name": "Sacramento",
+          "url": "https://open.spotify.com/artist/0ovT4fn9cuMxfhRNGPUzON"
+        }
+      ],
+      "duration_ms": 252475,
+      "name": "The Old Car",
+      "url": "https://open.spotify.com/track/5MHj4JC7mVJUjuK14uHb7G"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "I HATE MILANO",
+        "url": "https://open.spotify.com/album/7zcD5QilDCfUETudGPVJS6"
+      },
+      "artists": [
+        {
+          "name": "Motel Cecil",
+          "url": "https://open.spotify.com/artist/5AaaaiuLFShXMWKTw0KpSL"
+        }
+      ],
+      "duration_ms": 91791,
+      "name": "I HATE MILANO",
+      "url": "https://open.spotify.com/track/1wxZV1KbqWuMnBYUnezCNN"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Sicuro",
+        "url": "https://open.spotify.com/album/3Vt7ZJtd0oIvXnRxGQZngA"
+      },
+      "artists": [
+        {
+          "name": "La Gente",
+          "url": "https://open.spotify.com/artist/2HzkhtnJn3OBy557HAwDYH"
+        }
+      ],
+      "duration_ms": 280320,
+      "name": "Sicuro",
+      "url": "https://open.spotify.com/track/5F4HnEu8gky44OSeSyhfNb"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Per le vie della citt\u00e0",
+        "url": "https://open.spotify.com/album/5gxv0uYf0h5NfVZ5fVHpZ3"
+      },
+      "artists": [
+        {
+          "name": "Pierpaolo Capovilla e i Cattivi Maestri",
+          "url": "https://open.spotify.com/artist/4NbLiEcytmqmvXoro1u2jO"
+        }
+      ],
+      "duration_ms": 194621,
+      "name": "Per le vie della citt\u00e0",
+      "url": "https://open.spotify.com/track/38o6cByWLgLS3WeHdg5idc"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "X-Ray / Clumsy",
+        "url": "https://open.spotify.com/album/032sW7ZlFR7Q5beC3Ppcqq"
+      },
+      "artists": [
+        {
+          "name": "Fight Pausa",
+          "url": "https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU"
+        }
+      ],
+      "duration_ms": 154946,
+      "name": "X-Ray",
+      "url": "https://open.spotify.com/track/4t3CRfsV9wL4ZSiqSe7PSx"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Fliiim",
+        "url": "https://open.spotify.com/album/3FoCvSpo76YEUAt98FSKAq"
+      },
+      "artists": [
+        {
+          "name": "Upupay\u0101ma",
+          "url": "https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD"
+        }
+      ],
+      "duration_ms": 329102,
+      "name": "Fliiim",
+      "url": "https://open.spotify.com/track/1aAsUzTj2bIH6cAHLsacKw"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Dissacrante",
         "url": "https://open.spotify.com/album/4fv8Owfn2yKg8Vkn8zpbwi"
@@ -561,7 +873,7 @@
       "url": "https://open.spotify.com/track/5ZV2ObM0F03iGTQZWhR7nQ"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "DECADENTE",
         "url": "https://open.spotify.com/album/2ArFJGztnRTZoZrI3ss12x"
@@ -577,7 +889,71 @@
       "url": "https://open.spotify.com/track/4YzaTJnx2OHGNV7WGKOaOc"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "GLASS BREAKER",
+        "url": "https://open.spotify.com/album/1qwKebRKvaL36hY8pSECKX"
+      },
+      "artists": [
+        {
+          "name": "Martini Police",
+          "url": "https://open.spotify.com/artist/3n9KprBEE2yopQJkqLDnO4"
+        }
+      ],
+      "duration_ms": 215636,
+      "name": "AQUARIUM",
+      "url": "https://open.spotify.com/track/4BsR5IA9iuyiXYY8eac7oZ"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Alpha Centauri",
+        "url": "https://open.spotify.com/album/0I25bmzWmmdnSY0utd4vcm"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "duration_ms": 271626,
+      "name": "Alpha Centauri",
+      "url": "https://open.spotify.com/track/2tQBCnq4NmVO4893xO3oUJ"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Pista Nera",
+        "url": "https://open.spotify.com/album/7dgA2BZvQiG6n4Y4L0upP3"
+      },
+      "artists": [
+        {
+          "name": "Post Nebbia",
+          "url": "https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Pista nera",
+      "url": "https://open.spotify.com/track/4DZ2RDJhKKRjFmJiI3ddka"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
+      "album": {
+        "name": "Distratta",
+        "url": "https://open.spotify.com/album/0E0i11rmqpis0BD5qYCWpC"
+      },
+      "artists": [
+        {
+          "name": "Any Other",
+          "url": "https://open.spotify.com/artist/5RECxqPUWytzhwKabZ1lWx"
+        }
+      ],
+      "duration_ms": 305550,
+      "name": "Distratta",
+      "url": "https://open.spotify.com/track/37dylnfUvikMtKmgbbjtss"
+    },
+    {
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Rane'n'Roll",
         "url": "https://open.spotify.com/album/4OgcVuk8tZ78PwxziRLEiT"
@@ -597,39 +973,7 @@
       "url": "https://open.spotify.com/track/2g0BnaIvSGwmQ7ZgrqBP0A"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "L'origine del mondo",
-        "url": "https://open.spotify.com/album/1SnzZ3Cp7DMFhWh9l7AelQ"
-      },
-      "artists": [
-        {
-          "name": "Roshelle",
-          "url": "https://open.spotify.com/artist/05OYdU3diEpNYjaAHNaZTt"
-        }
-      ],
-      "duration_ms": 183658,
-      "name": "L\u2019origine del mondo",
-      "url": "https://open.spotify.com/track/0XhfenptJR3eodAeW4Nqtv"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Dementia",
-        "url": "https://open.spotify.com/album/445XfcmnCUeCnBYL5sdlyw"
-      },
-      "artists": [
-        {
-          "name": "Sick Tamburo",
-          "url": "https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp"
-        }
-      ],
-      "duration_ms": 256653,
-      "name": "Immagina se",
-      "url": "https://open.spotify.com/track/3HM1RC0p6qtWgflr02R3L9"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Ritorneremo a guardare il Cielo",
         "url": "https://open.spotify.com/album/0sDJcMrutg2iXvyGPcHDIP"
@@ -645,7 +989,7 @@
       "url": "https://open.spotify.com/track/1fTVs2Yk7n2YfcdaGTMt5b"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Polline",
         "url": "https://open.spotify.com/album/4ihyevMUMql5NPfe6zKocN"
@@ -661,23 +1005,7 @@
       "url": "https://open.spotify.com/track/3xMPOrnjYGos13W2gLO60X"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "MONOSTATIC",
-        "url": "https://open.spotify.com/album/70WuZoQSaSw3sAS9hTu5cD"
-      },
-      "artists": [
-        {
-          "name": "Les Votives",
-          "url": "https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5"
-        }
-      ],
-      "duration_ms": 203657,
-      "name": "a minute a moment",
-      "url": "https://open.spotify.com/track/64nEsHY3vnRwKFcUjaz6cC"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "SOLI INSIEME",
         "url": "https://open.spotify.com/album/0zzoxcOcgBxr7XqJLi08gv"
@@ -693,23 +1021,7 @@
       "url": "https://open.spotify.com/track/5Y8kwPOGHoReMu7jbneONZ"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/1EUQXou8NYiZ508c6CkUiv"
-      },
-      "artists": [
-        {
-          "name": "Bambole Di Pezza",
-          "url": "https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW"
-        }
-      ],
-      "duration_ms": 156995,
-      "name": "Nuda ma alla Moda",
-      "url": "https://open.spotify.com/track/1H8U4KJR2ZRJadajrxupwe"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "quando fuori piove",
         "url": "https://open.spotify.com/album/3d8hGmIc4viXQhavoREVu1"
@@ -725,39 +1037,7 @@
       "url": "https://open.spotify.com/track/5xCr99MqAQVGRHUv2XECdr"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "La Bomba Intelligente",
-        "url": "https://open.spotify.com/album/7iraf7KLexh1c1cQCGyjnz"
-      },
-      "artists": [
-        {
-          "name": "I PATAGARRI",
-          "url": "https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic"
-        }
-      ],
-      "duration_ms": 189274,
-      "name": "La Bomba Intelligente",
-      "url": "https://open.spotify.com/track/1Flb6xU4U4jEx5W9V6RxGU"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Il Tempo in Me (Radio Edit)",
-        "url": "https://open.spotify.com/album/6NRgfIZXblIPjMeUxreY7k"
-      },
-      "artists": [
-        {
-          "name": "Subsonica",
-          "url": "https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK"
-        }
-      ],
-      "duration_ms": 248256,
-      "name": "Il Tempo in Me - Radio Edit",
-      "url": "https://open.spotify.com/track/3gEiSGfcgXtKKGmfIkUGbX"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Convivere",
         "url": "https://open.spotify.com/album/7gLYsVZr1VL18dqir1ess9"
@@ -773,55 +1053,7 @@
       "url": "https://open.spotify.com/track/1X3QmETVf1BW7t0Fcnky5F"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "post mortem",
-        "url": "https://open.spotify.com/album/0l8cw32SMyAlYyCheOoL9p"
-      },
-      "artists": [
-        {
-          "name": "i cani",
-          "url": "https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP"
-        }
-      ],
-      "duration_ms": 224219,
-      "name": "buco nero",
-      "url": "https://open.spotify.com/track/4UxnRl0oN6htx2593DpJpb"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Il Male",
-        "url": "https://open.spotify.com/album/6MCXTq1gXA0lGYVifAlRCB"
-      },
-      "artists": [
-        {
-          "name": "The Zen Circus",
-          "url": "https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84"
-        }
-      ],
-      "duration_ms": 223138,
-      "name": "Meglio di niente",
-      "url": "https://open.spotify.com/track/5At2rYksLx7gFVaOPBBeUL"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Workaholica",
-        "url": "https://open.spotify.com/album/2YXvKMBKpBnayRPGIF83Fm"
-      },
-      "artists": [
-        {
-          "name": "Krano",
-          "url": "https://open.spotify.com/artist/0RroFfjAg6EsKACQRi8Ctw"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Workaholica",
-      "url": "https://open.spotify.com/track/2GlzeqRjGgXm11AQrSNNTL"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Il territorio delle meduse",
         "url": "https://open.spotify.com/album/381TlY9sa8qU9eoKlrUi8d"
@@ -837,7 +1069,7 @@
       "url": "https://open.spotify.com/track/3psL4wz9V78qroVKG3mx1e"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "MALI-CHIARI",
         "url": "https://open.spotify.com/album/33e9QwvyEZsVAzaWCWE4if"
@@ -853,7 +1085,7 @@
       "url": "https://open.spotify.com/track/1Je9Hx1nlm2nYvGj3wV88W"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Shy-Fi",
         "url": "https://open.spotify.com/album/3KtG2QRDn0PLJ7RqWkiWJ7"
@@ -877,7 +1109,7 @@
       "url": "https://open.spotify.com/track/4m6EG4xc8pdzBqM4D3SW6k"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "\u00c8 un serpente che si morde la coda",
         "url": "https://open.spotify.com/album/0Tic83z39SpwwDNS6zqQYd"
@@ -893,7 +1125,7 @@
       "url": "https://open.spotify.com/track/35GIRhsGH6ZO9hLir3sX4d"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Dream Life",
         "url": "https://open.spotify.com/album/39X15SMr1uG8aCugIqiHpM"
@@ -913,7 +1145,7 @@
       "url": "https://open.spotify.com/track/3oE8bZ15m5dgms7FDzo18W"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "The Misunderstanding",
         "url": "https://open.spotify.com/album/05J8OYPUWm2lr0LHivdjK1"
@@ -933,7 +1165,7 @@
       "url": "https://open.spotify.com/track/2MwbdpRRDNeGUdKBKAus6J"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Di vele e naufragi",
         "url": "https://open.spotify.com/album/0sZJUHq2yxFR3T9YflSZni"
@@ -949,7 +1181,7 @@
       "url": "https://open.spotify.com/track/5OaSAAcITSjF6jm7CGxXiJ"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Atabasca",
         "url": "https://open.spotify.com/album/1oYySd0dqIgl5od4m3rzhQ"
@@ -965,7 +1197,7 @@
       "url": "https://open.spotify.com/track/6dEoXCNuX0OVn2XENTjbuM"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Caro X (feat. Vintage Violence)",
         "url": "https://open.spotify.com/album/0Uggw4tCQgqLp60VDTFMke"
@@ -985,7 +1217,7 @@
       "url": "https://open.spotify.com/track/7Mwq8ZNPX3CcTAeaDCGx2m"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Ofelia",
         "url": "https://open.spotify.com/album/4LdYcjQvd7uCljHkBUEjl4"
@@ -1001,7 +1233,7 @@
       "url": "https://open.spotify.com/track/7tBthHiQALqCQtYDMPZY57"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "spine",
         "url": "https://open.spotify.com/album/5TW7QaaYHjWPXb7wdGo8JU"
@@ -1021,7 +1253,7 @@
       "url": "https://open.spotify.com/track/3vojxdGWhuHkapJS4dNzh3"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "House Baby",
         "url": "https://open.spotify.com/album/4HBxYswFtFlYc6jbPV14Ia"
@@ -1037,7 +1269,7 @@
       "url": "https://open.spotify.com/track/2JYRElDZlJx5GPomwbQxnL"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Last Party on Planet Earth",
         "url": "https://open.spotify.com/album/2HcGg5hmSRruJ0ADDUh4Qy"
@@ -1053,7 +1285,7 @@
       "url": "https://open.spotify.com/track/41hHM7ARxN45iwzdviL6tj"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "The Result",
         "url": "https://open.spotify.com/album/1SHaE9RCneX1KfjDppYlgg"
@@ -1069,7 +1301,7 @@
       "url": "https://open.spotify.com/track/61ZF2s2jLiwNj7nBFPNdAG"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "HATE IS FOR SU**ERS",
         "url": "https://open.spotify.com/album/3xyWXYWV04E6zEZ3FA1QHk"
@@ -1085,7 +1317,7 @@
       "url": "https://open.spotify.com/track/7w1xSZ46isV1mKwlYw2I6I"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "scappare",
         "url": "https://open.spotify.com/album/6TOkPx1GvHWWld3rrB7vgM"
@@ -1101,23 +1333,7 @@
       "url": "https://open.spotify.com/track/1gdFo7QfnYNIHQ4VRs5V5T"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "I Won't Give Up",
-        "url": "https://open.spotify.com/album/6a3jWiyOJr3UCOXg908udZ"
-      },
-      "artists": [
-        {
-          "name": "Radio Days",
-          "url": "https://open.spotify.com/artist/7LM0cY0xBymEhYollo3Zc6"
-        }
-      ],
-      "duration_ms": 150493,
-      "name": "I Won't Give Up",
-      "url": "https://open.spotify.com/track/2tS1ua5WnmQ2qvQGj1ZwyZ"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "FIGLIA",
         "url": "https://open.spotify.com/album/3y1TWeOz7IUald9GEkTDaT"
@@ -1133,7 +1349,7 @@
       "url": "https://open.spotify.com/track/4KoPm3cwmckbzKktGxnkjr"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Sacerdotessa",
         "url": "https://open.spotify.com/album/1AOvjX9ghkFrj13G0ac1R1"
@@ -1149,23 +1365,7 @@
       "url": "https://open.spotify.com/track/3zWVUssMeSXvAgmiy4aqZT"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Palpebre",
-        "url": "https://open.spotify.com/album/2saSDC93zaXVE9wO6YfJUg"
-      },
-      "artists": [
-        {
-          "name": "Interno 4",
-          "url": "https://open.spotify.com/artist/2OO3RlHtCNO8kiZZatnkOB"
-        }
-      ],
-      "duration_ms": 170263,
-      "name": "Palpebre",
-      "url": "https://open.spotify.com/track/0gNrm5y8qGnhaGlj1QwA9i"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Aria e Morfina",
         "url": "https://open.spotify.com/album/16yLeXbg1yScEFwRpVR4zj"
@@ -1181,7 +1381,7 @@
       "url": "https://open.spotify.com/track/5M0CTRmhJhcV7FpCrXFqXB"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Who Are You?",
         "url": "https://open.spotify.com/album/1Aywlh1LbjtTgtl02rHEsd"
@@ -1197,7 +1397,7 @@
       "url": "https://open.spotify.com/track/0XD6JgpXCrX1PRhfPbINor"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "UN DOLORE COS\u00cc GRANDE DA FARE PIET\u00c0 AL MONDO INTERO",
         "url": "https://open.spotify.com/album/0seOmBNpbD8jUMYvnmvdyT"
@@ -1213,7 +1413,7 @@
       "url": "https://open.spotify.com/track/4UMAoxTefoxALbcYyDOYZ9"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Villa",
         "url": "https://open.spotify.com/album/13bbVV3gIvdNGwxVGgqJUZ"
@@ -1229,7 +1429,7 @@
       "url": "https://open.spotify.com/track/2DNrCPimliGqfMHNTs5PDZ"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "PUPILLE",
         "url": "https://open.spotify.com/album/6XD8iIUVoLiw7SP9qlZMRd"
@@ -1245,7 +1445,7 @@
       "url": "https://open.spotify.com/track/4MoM1T728DkSUTCsSjz1eT"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "E Poi Scegliere Con Cura Le Parole",
         "url": "https://open.spotify.com/album/3m0zma7bsvbhx7k4AwUSbO"
@@ -1261,23 +1461,7 @@
       "url": "https://open.spotify.com/track/1HxaMNvoRoYEwU0zZjq9mt"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Anime Storte",
-        "url": "https://open.spotify.com/album/4O8zCrvouHUXmHLoRUNZAo"
-      },
-      "artists": [
-        {
-          "name": "Santamarea",
-          "url": "https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Tornado",
-      "url": "https://open.spotify.com/track/2UdcbdDZQrQclwJTblATFa"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Dimenticare Maria",
         "url": "https://open.spotify.com/album/7o4zOiFSrX03obi36r1YiC"
@@ -1293,87 +1477,7 @@
       "url": "https://open.spotify.com/track/5q1bue3zwLf0N18K6NTLAl"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "MEGANUVOLE",
-        "url": "https://open.spotify.com/album/2RHmKsZvXPILZcoNqilMbZ"
-      },
-      "artists": [
-        {
-          "name": "ELETTRICA",
-          "url": "https://open.spotify.com/artist/2ZXPwoWGIuwqjLNLboL3pa"
-        }
-      ],
-      "duration_ms": 161390,
-      "name": "MEGANUVOLE",
-      "url": "https://open.spotify.com/track/6kwhOlMxmY7jXRb1WTWMbx"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Ora Sono Un Lago",
-        "url": "https://open.spotify.com/album/5yZorRS4UGWbRu2a3Hq6Z0"
-      },
-      "artists": [
-        {
-          "name": "Bono / Burattini",
-          "url": "https://open.spotify.com/artist/7ll9lIFnSZ6CGl1MjZ4mrw"
-        }
-      ],
-      "duration_ms": 217221,
-      "name": "Oltre le palpebre",
-      "url": "https://open.spotify.com/track/5qKDw2a4TuyfsyrEnUIm48"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Nuova Fabbrica",
-        "url": "https://open.spotify.com/album/73V9Q9Ywx1ujqC9S783fvF"
-      },
-      "artists": [
-        {
-          "name": "Asianoia",
-          "url": "https://open.spotify.com/artist/4eXBpcFoSaIDWJ11cgvEXt"
-        }
-      ],
-      "duration_ms": 208636,
-      "name": "Nuova Fabbrica",
-      "url": "https://open.spotify.com/track/4cYsTjNjncB2pBKANMcgCq"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "GLASS BREAKER",
-        "url": "https://open.spotify.com/album/1qwKebRKvaL36hY8pSECKX"
-      },
-      "artists": [
-        {
-          "name": "Martini Police",
-          "url": "https://open.spotify.com/artist/3n9KprBEE2yopQJkqLDnO4"
-        }
-      ],
-      "duration_ms": 215636,
-      "name": "AQUARIUM",
-      "url": "https://open.spotify.com/track/4BsR5IA9iuyiXYY8eac7oZ"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "THE RACE",
-        "url": "https://open.spotify.com/album/3mBCYEGrLVJ9RpbKUFE2LV"
-      },
-      "artists": [
-        {
-          "name": "Grigio Scarlatto",
-          "url": "https://open.spotify.com/artist/1tck0JaVzfb6UtiriTB6zJ"
-        }
-      ],
-      "duration_ms": 215225,
-      "name": "Move on up",
-      "url": "https://open.spotify.com/track/216spG6qcRbq1lISn3P0eP"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Sioux",
         "url": "https://open.spotify.com/album/1oITrS5fFvlEKeEh7wm59p"
@@ -1389,7 +1493,7 @@
       "url": "https://open.spotify.com/track/4BadnkVZrts9ToeBp7CE4N"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Il sangue \u00e8 pronto",
         "url": "https://open.spotify.com/album/6zLLXWA3RZ9QECufUhAecQ"
@@ -1405,39 +1509,7 @@
       "url": "https://open.spotify.com/track/0MEStrSyGJTRNv2OiPEJFO"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "X-Ray / Clumsy",
-        "url": "https://open.spotify.com/album/032sW7ZlFR7Q5beC3Ppcqq"
-      },
-      "artists": [
-        {
-          "name": "Fight Pausa",
-          "url": "https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU"
-        }
-      ],
-      "duration_ms": 154946,
-      "name": "X-Ray",
-      "url": "https://open.spotify.com/track/4t3CRfsV9wL4ZSiqSe7PSx"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Your Mom",
-        "url": "https://open.spotify.com/album/1EP5M7wlW4rV4nZtnJjQna"
-      },
-      "artists": [
-        {
-          "name": "Sofia Gobbi",
-          "url": "https://open.spotify.com/artist/1F68L6nlubo92LxyyITibv"
-        }
-      ],
-      "duration_ms": 156508,
-      "name": "Your Mom",
-      "url": "https://open.spotify.com/track/0fs4BbyzfVI77EgBPafQs0"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "vienimi_a_cercare",
         "url": "https://open.spotify.com/album/2yeOUg5cSlg1BerIuNThN0"
@@ -1453,7 +1525,7 @@
       "url": "https://open.spotify.com/track/5SxbDILLZFpQjiwUVk0tFr"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Nerorgasmo",
         "url": "https://open.spotify.com/album/7w5fmnH00zbvBmbu1UZ6RB"
@@ -1469,7 +1541,7 @@
       "url": "https://open.spotify.com/track/6BmajVWQNfk7ZB0cGJncpT"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "HOMO",
         "url": "https://open.spotify.com/album/5QKEC7sTKcbFJepOJ9REoS"
@@ -1485,7 +1557,7 @@
       "url": "https://open.spotify.com/track/1XNdMOwUjFoGHe6x28gm1Y"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "6 canzoni fatte a mano",
         "url": "https://open.spotify.com/album/7plojj2nI99PeneCwfzHgo"
@@ -1501,7 +1573,7 @@
       "url": "https://open.spotify.com/track/2XcZfhnRjXlbe3hx8iJems"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "MASQUERADE",
         "url": "https://open.spotify.com/album/382CgB4kYWoc4ksVQpHjBo"
@@ -1525,39 +1597,7 @@
       "url": "https://open.spotify.com/track/7AOwgVctI9mwZta4wAw3qI"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Alpha Centauri",
-        "url": "https://open.spotify.com/album/0I25bmzWmmdnSY0utd4vcm"
-      },
-      "artists": [
-        {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
-        }
-      ],
-      "duration_ms": 271626,
-      "name": "Alpha Centauri",
-      "url": "https://open.spotify.com/track/2tQBCnq4NmVO4893xO3oUJ"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Pista Nera",
-        "url": "https://open.spotify.com/album/7dgA2BZvQiG6n4Y4L0upP3"
-      },
-      "artists": [
-        {
-          "name": "Post Nebbia",
-          "url": "https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Pista nera",
-      "url": "https://open.spotify.com/track/4DZ2RDJhKKRjFmJiI3ddka"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Gestire La Rabbia",
         "url": "https://open.spotify.com/album/0fyey4mEyy7PgYntWdLhUT"
@@ -1573,7 +1613,7 @@
       "url": "https://open.spotify.com/track/6YD1QI9vBV6eWrX9lsEa4D"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "PRODUCI CONSUMA CREA",
         "url": "https://open.spotify.com/album/6vnh7BxlBnNAVBLR8DZ9n8"
@@ -1589,7 +1629,7 @@
       "url": "https://open.spotify.com/track/4i2OMoKKsRhaHSMi4hXYUh"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Dalla parte dell'orso",
         "url": "https://open.spotify.com/album/7xonorg7kIPXfINq1XMImT"
@@ -1605,7 +1645,7 @@
       "url": "https://open.spotify.com/track/2gc3matCcrbtc4Az1sk57J"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Ritmo Lento",
         "url": "https://open.spotify.com/album/2bcQDosnSgYGhFWPHX8oqi"
@@ -1621,55 +1661,7 @@
       "url": "https://open.spotify.com/track/3v5EEAqc29kj2zvzFXhdgv"
     },
     {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Non Fare Domande",
-        "url": "https://open.spotify.com/album/3YGUHwrUapKwchOYBSH0nt"
-      },
-      "artists": [
-        {
-          "name": "Il Nemico",
-          "url": "https://open.spotify.com/artist/3akHRSGt7WDU8cuzmwbZTY"
-        }
-      ],
-      "duration_ms": 213383,
-      "name": "Roma Teheran",
-      "url": "https://open.spotify.com/track/6xOLu7KmQmNt8VIl2prsuB"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Distratta",
-        "url": "https://open.spotify.com/album/0E0i11rmqpis0BD5qYCWpC"
-      },
-      "artists": [
-        {
-          "name": "Any Other",
-          "url": "https://open.spotify.com/artist/5RECxqPUWytzhwKabZ1lWx"
-        }
-      ],
-      "duration_ms": 305550,
-      "name": "Distratta",
-      "url": "https://open.spotify.com/track/37dylnfUvikMtKmgbbjtss"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
-      "album": {
-        "name": "Aurora Popolare",
-        "url": "https://open.spotify.com/album/2YGIiQGaU0U3ejGfqzogML"
-      },
-      "artists": [
-        {
-          "name": "Ministri",
-          "url": "https://open.spotify.com/artist/6an9YCv0S0Mj3rsaD9Ahpz"
-        }
-      ],
-      "duration_ms": 191573,
-      "name": "Piangere al lavoro",
-      "url": "https://open.spotify.com/track/2Uuh4QVOssmk5rAkj9AnWZ"
-    },
-    {
-      "added_at": "2026-04-16 22:03:46",
+      "added_at": "2026-04-23 22:04:16",
       "album": {
         "name": "Temporale",
         "url": "https://open.spotify.com/album/3YvK53OYLxnvacEkwJ4yP4"

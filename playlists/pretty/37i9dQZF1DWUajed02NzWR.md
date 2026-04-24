@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUajed02NzWR.md) - [plain]
 
 > The perfect classical tunes for pruning, planting, and putting your feet up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,798 likes - 75 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,914 likes - 75 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

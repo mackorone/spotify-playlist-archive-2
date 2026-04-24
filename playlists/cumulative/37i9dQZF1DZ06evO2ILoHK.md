@@ -4,7 +4,7 @@
 
 > This is Basement\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 1 min
+44 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [For You The Moon](https://open.spotify.com/track/0fCjQx9nAA512CPcH8AXfX) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 3:14 | 2022-09-16 |  |
 | [Halo](https://open.spotify.com/track/1bZaSiZCoEnCq3Kv80qwBL) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 2:29 | 2022-09-16 |  |
 | [Hanging Around](https://open.spotify.com/track/5TguI7v9jn9sMCVM8GzfzF) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 2:58 | 2022-09-18 | 2025-04-14 |
+| [Head Alight](https://open.spotify.com/track/7rZ9v828KtoWTNjHpMwLBb) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Head Alight](https://open.spotify.com/album/1LaBF87xj1NLlsxVDh7vY7) | 3:26 | 2026-04-24 |  |
 | [Intro](https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 0:37 | 2022-09-16 |  |
 | [Jet](https://open.spotify.com/track/2R540M3XFd7fNVEW7YHDrC) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Further Sky](https://open.spotify.com/album/4CrgB7WMpE0HqqRuLsngbX) | 3:23 | 2022-09-16 |  |
 | [Lose Your Grip](https://open.spotify.com/track/0sVMqm2HF8yGpFeCleFcHl) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 2:45 | 2024-05-12 | 2024-10-01 |

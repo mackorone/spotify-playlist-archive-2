@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 174107,
+  "num_followers": 174117,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAABgTTePPb5eAPU8Nphodd9H",
+  "snapshot_id": "aegPgAAAAAAFzIuF2x8JWHtbuboiUXhl",
   "tracks": [
     {
       "added_at": null,
@@ -819,6 +819,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Sol Tamb\u00e9m Chora",
+        "url": "https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 257654,
+      "name": "Ven\u00e7a",
+      "url": "https://open.spotify.com/track/3dtHGICnmZt45FNHD1s8nf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "10 Anos de Triunfo (Ao Vivo)",
         "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
       },
@@ -883,30 +907,6 @@
       "duration_ms": 202800,
       "name": "Mil Coisas",
       "url": "https://open.spotify.com/track/6EAbcrcNWpxJXSZHEw0TbK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Sol Tamb\u00e9m Chora",
-        "url": "https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 257654,
-      "name": "Ven\u00e7a",
-      "url": "https://open.spotify.com/track/3dtHGICnmZt45FNHD1s8nf"
     },
     {
       "added_at": null,

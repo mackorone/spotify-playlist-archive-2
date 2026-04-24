@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Skolim, BLANKA",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Maciej Musia\u0142owski",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -794,6 +794,28 @@
       "duration_ms": 270329,
       "name": "Bez kontaktu",
       "url": "https://open.spotify.com/track/0cXARNiffujbAjlJ6K2zER"
+    },
+    {
+      "album": {
+        "name": "BEZ OBAW",
+        "url": "https://open.spotify.com/album/19t8EPdrmeyFcyfsdy8O9G"
+      },
+      "artists": [
+        {
+          "name": "Kuba Kara\u015b",
+          "url": "https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I"
+        },
+        {
+          "name": "Faustyna Maciejczuk",
+          "url": "https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "BEZ OBAW",
+      "url": "https://open.spotify.com/track/7iIaD7kw9gsILDIEMb6hNy"
     },
     {
       "album": {
@@ -1750,7 +1772,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 189270,
       "name": "Chcia\u0142bym by\u0107 kotem",
       "url": "https://open.spotify.com/track/235BIVbYtJp4090aHD60VR"
@@ -2040,7 +2062,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 148292,
       "name": "Ciszej",
       "url": "https://open.spotify.com/track/6aZayI481YYsBFERs1a0UG"
@@ -3282,7 +3304,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 154736,
       "name": "Dotknij",
       "url": "https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx"
@@ -4055,6 +4077,24 @@
     },
     {
       "album": {
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/44cncbCJZmCv6KG46Er55K"
+      },
+      "artists": [
+        {
+          "name": "Maciej Musia\u0142owski",
+          "url": "https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210927,
+      "name": "Flora",
+      "url": "https://open.spotify.com/track/4nt2VQt6uW3hfKISgx6rh4"
+    },
+    {
+      "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/5WV73fHbT3Wc9dTl17Xzq1"
       },
@@ -4420,6 +4460,24 @@
       "duration_ms": 208546,
       "name": "Gorset",
       "url": "https://open.spotify.com/track/5KkcaqjflHxH2MenhXxhXQ"
+    },
+    {
+      "album": {
+        "name": "Gotham",
+        "url": "https://open.spotify.com/album/7tAIDXIVVN2IzLOKDPqCEU"
+      },
+      "artists": [
+        {
+          "name": "MECNER",
+          "url": "https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175364,
+      "name": "Gotham",
+      "url": "https://open.spotify.com/track/0z96iKCMr5H0js13xzklJe"
     },
     {
       "album": {
@@ -5910,7 +5968,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 186500,
       "name": "KOLORY LATA",
       "url": "https://open.spotify.com/track/6m4bNmtbOisIHETCwsBG04"
@@ -6194,6 +6252,24 @@
       "duration_ms": 131661,
       "name": "Kumple <3 - MAVOOI Remix",
       "url": "https://open.spotify.com/track/2IzsajD0fEx4pITXTKt5J0"
+    },
+    {
+      "album": {
+        "name": "Kupi\u0142am bilet",
+        "url": "https://open.spotify.com/album/57fmp0azwfpXlUklB5Amdh"
+      },
+      "artists": [
+        {
+          "name": "Zofia Alaya",
+          "url": "https://open.spotify.com/artist/1G5x2erYy0IZLTgy7jieik"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192325,
+      "name": "Kupi\u0142am bilet",
+      "url": "https://open.spotify.com/track/7kcTC12KbK28uBMFVro6rw"
     },
     {
       "album": {
@@ -6564,6 +6640,24 @@
       "duration_ms": 155675,
       "name": "Lepiej jest mi bez",
       "url": "https://open.spotify.com/track/1gcUY7kGDeWBzd3QYhZTvO"
+    },
+    {
+      "album": {
+        "name": "Lepiej ju\u017c by\u0142o",
+        "url": "https://open.spotify.com/album/272O9DhND8UFU1uPMpqYjr"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220157,
+      "name": "Lepiej ju\u017c by\u0142o",
+      "url": "https://open.spotify.com/track/5SGUNlgK09cniVcUdjnGPH"
     },
     {
       "album": {
@@ -7510,6 +7604,24 @@
       "duration_ms": 123750,
       "name": "Miss Dior",
       "url": "https://open.spotify.com/track/08gvD5pFucRIkh16bN5qRA"
+    },
+    {
+      "album": {
+        "name": "mi\u0119kn\u0119&wi\u0119dn\u0119",
+        "url": "https://open.spotify.com/album/1bN93Gj7Xry16P81TlCulw"
+      },
+      "artists": [
+        {
+          "name": "Qncicka",
+          "url": "https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "mi\u0119kn\u0119&wi\u0119dn\u0119",
+      "url": "https://open.spotify.com/track/5VGl9p1HU0lBGmyZtfitbG"
     },
     {
       "album": {
@@ -8599,6 +8711,36 @@
     },
     {
       "album": {
+        "name": "Nareszcie",
+        "url": "https://open.spotify.com/album/70G6XGkSM2CWedDGAS22Dm"
+      },
+      "artists": [
+        {
+          "name": "M\u0119skie Granie Orkiestra",
+          "url": "https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG"
+        },
+        {
+          "name": "Igor Herbut",
+          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
+        },
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        },
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182339,
+      "name": "Nareszcie",
+      "url": "https://open.spotify.com/track/1p4M9If0oTyeUsGsmAfmAI"
+    },
+    {
+      "album": {
         "name": "Nasz ma\u0142y \u015bwiat",
         "url": "https://open.spotify.com/album/0e8qWOx9bq8oZcKI3mal1L"
       },
@@ -8756,6 +8898,24 @@
       "duration_ms": 210109,
       "name": "Nic Nie Zmieni?",
       "url": "https://open.spotify.com/track/4JA0zkwnS5WYHdp8VbvAlD"
+    },
+    {
+      "album": {
+        "name": "Nic tu po mnie",
+        "url": "https://open.spotify.com/album/6rCiKLCHZ8zYuKo7t5SLFU"
+      },
+      "artists": [
+        {
+          "name": "Pawe\u0142 Domaga\u0142a",
+          "url": "https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171705,
+      "name": "Nic tu po mnie",
+      "url": "https://open.spotify.com/track/4fQnpd41ocK8ciXwZc5Jjw"
     },
     {
       "album": {
@@ -10208,7 +10368,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 190153,
       "name": "Okruchy z\u0142ota",
       "url": "https://open.spotify.com/track/66JwCK93hXqjfRb5BVFF8c"
@@ -10266,7 +10426,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 223469,
       "name": "Opr\u00f3cz z\u0142o\u015bci i mi\u0142o\u015bci",
       "url": "https://open.spotify.com/track/1yJvG8xGZuXVOBwmi0xxRY"
@@ -10556,7 +10716,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 146272,
       "name": "Pal\u0119 \u017cale",
       "url": "https://open.spotify.com/track/3AomUcaIEH9zIrrj2oKir5"
@@ -14959,6 +15119,28 @@
     },
     {
       "album": {
+        "name": "ZROBI\u0141EM TO DLA SIEBIE",
+        "url": "https://open.spotify.com/album/16LuzdeCuXzrJfRFr8U69m"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "4Money",
+          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168808,
+      "name": "VIN",
+      "url": "https://open.spotify.com/track/5CKP88XSzqgoUuFRncaftc"
+    },
+    {
+      "album": {
         "name": "Carpe Diem",
         "url": "https://open.spotify.com/album/4H5tU13iR2Sl2Ohogn5DTz"
       },
@@ -16020,6 +16202,24 @@
       "duration_ms": 131200,
       "name": "wy\u017cej, wi\u0119cej",
       "url": "https://open.spotify.com/track/0pQYoNpft4Jt4cgT60qtQ3"
+    },
+    {
+      "album": {
+        "name": "Eksperyment",
+        "url": "https://open.spotify.com/album/2OvhnHJfqojWQkbRMAXSDO"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202295,
+      "name": "Z cukrem myl\u0119 l\u00f3d",
+      "url": "https://open.spotify.com/track/335yWRhRBaHbyzmPyFJ0nj"
     },
     {
       "album": {

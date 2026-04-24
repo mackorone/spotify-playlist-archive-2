@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Indiepop in het Nederlands. Cover: IDA",
+  "description": "Indiepop in het Nederlands. Cover: Eva van Manen",
   "name": "indie.nl",
   "tracks": [
     {
@@ -1302,6 +1302,24 @@
       "duration_ms": 158183,
       "name": "Eerste Date",
       "url": "https://open.spotify.com/track/5yduJBegePsnWGlm6QK6DY"
+    },
+    {
+      "album": {
+        "name": "Tussenruimte",
+        "url": "https://open.spotify.com/album/70EeqsXtdXZRMzV9qrnRUL"
+      },
+      "artists": [
+        {
+          "name": "Eva van Manen",
+          "url": "https://open.spotify.com/artist/39fsjaOkLW4Gq6X6URiWRj"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237393,
+      "name": "Eindig",
+      "url": "https://open.spotify.com/track/5EIwMiCK3VAz8bl4Ghzs2p"
     },
     {
       "album": {
@@ -2844,7 +2862,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 153428,
       "name": "Komt Goed",
       "url": "https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2"
@@ -3140,7 +3158,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 190704,
       "name": "Magneten",
       "url": "https://open.spotify.com/track/5OHgSlszGzcqsmcIGigxkD"
@@ -3300,6 +3318,24 @@
       "duration_ms": 139046,
       "name": "Meisje",
       "url": "https://open.spotify.com/track/66D4eimPmZGxOoXhVuv42r"
+    },
+    {
+      "album": {
+        "name": "Melatonine",
+        "url": "https://open.spotify.com/album/6SdOJFhWGi0aDoFmwHblxo"
+      },
+      "artists": [
+        {
+          "name": "DR!PD",
+          "url": "https://open.spotify.com/artist/0Ad3eq5NlHomMSWNJAdXoA"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193855,
+      "name": "Melatonine",
+      "url": "https://open.spotify.com/track/1SToGBuiseBcTdqw25jMiu"
     },
     {
       "album": {

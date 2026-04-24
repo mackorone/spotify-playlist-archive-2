@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Dominik Hartz",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: JBS",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -484,7 +484,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 211446,
       "name": "24",
       "url": "https://open.spotify.com/track/2KQI8OvWiO3Dc4qI11ph0h"
@@ -2968,7 +2968,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 171112,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0cmDyP03AAkIEClO01sk5u"
@@ -6909,6 +6909,24 @@
     },
     {
       "album": {
+        "name": "ZWEITAUSENDF\u00dcNF",
+        "url": "https://open.spotify.com/album/6znzn67m4u9J61kVMvWXnD"
+      },
+      "artists": [
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168205,
+      "name": "Du fehlst",
+      "url": "https://open.spotify.com/track/2uNModvonKjhBM7oaLLXTJ"
+    },
+    {
+      "album": {
         "name": "Du Fehlst Hier",
         "url": "https://open.spotify.com/album/6hqFDjBsVVljEJoR4MlCm2"
       },
@@ -9854,7 +9872,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 144040,
       "name": "fr\u00fchling",
       "url": "https://open.spotify.com/track/5LdDeKl8JzQ1PfrmmQ1Ui1"
@@ -11016,7 +11034,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 172202,
       "name": "Gewitter",
       "url": "https://open.spotify.com/track/1LahlWrxORhm7A9CPHCReN"
@@ -13166,7 +13184,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 143253,
       "name": "ich geh heut nicht unter leute",
       "url": "https://open.spotify.com/track/77AsCJLBa94GKDvCFOoZ00"
@@ -13744,6 +13762,24 @@
       "duration_ms": 163080,
       "name": "Im Loop",
       "url": "https://open.spotify.com/track/5YWkLb7ffoZ9miA7pFQWnZ"
+    },
+    {
+      "album": {
+        "name": "im traum rennen",
+        "url": "https://open.spotify.com/album/3FcWjRDcTF0h4DNbijZd0f"
+      },
+      "artists": [
+        {
+          "name": "Vince",
+          "url": "https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174200,
+      "name": "im traum rennen",
+      "url": "https://open.spotify.com/track/43jeEMbUHUek4itwTBdLt0"
     },
     {
       "album": {
@@ -18237,6 +18273,24 @@
     },
     {
       "album": {
+        "name": "Malediven",
+        "url": "https://open.spotify.com/album/5bwSStyyL6KQqY4zOsKWFk"
+      },
+      "artists": [
+        {
+          "name": "Laurenz Nikolaus",
+          "url": "https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140985,
+      "name": "Malediven",
+      "url": "https://open.spotify.com/track/1UzrkNhFVccHTN1et4nTBR"
+    },
+    {
+      "album": {
         "name": "mama",
         "url": "https://open.spotify.com/album/0woCQIR6wZrT1AxnTUYdpz"
       },
@@ -22694,7 +22748,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 147106,
       "name": "Richtung 30",
       "url": "https://open.spotify.com/track/6Y0zwKt0AMilCUoFNbNczS"
@@ -27481,6 +27535,60 @@
     },
     {
       "album": {
+        "name": "PECH",
+        "url": "https://open.spotify.com/album/50MPz6SA53Eh8LTArkGMiK"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/63ke3IbMyy7v69fRC6DUdk"
+    },
+    {
+      "album": {
+        "name": "Gut Genug",
+        "url": "https://open.spotify.com/album/2dvFUJrOS2f4W8jFgmpogb"
+      },
+      "artists": [
+        {
+          "name": "herr ulrich",
+          "url": "https://open.spotify.com/artist/3EwGLc40naFP5DNfWFTqBA"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/6a9VqGWgd7o3LK5JXqr92R"
+    },
+    {
+      "album": {
+        "name": "demos & deeptalks",
+        "url": "https://open.spotify.com/album/06TClLbW8XUaSuSkhDZRh3"
+      },
+      "artists": [
+        {
+          "name": "smello",
+          "url": "https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/50cKrXByzxnPS2mAymEicy"
+    },
+    {
+      "album": {
         "name": "trauen",
         "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
       },
@@ -28470,6 +28578,24 @@
       "duration_ms": 274191,
       "name": "Vater",
       "url": "https://open.spotify.com/track/0LrMrk8UJnaj4N0zayFh3i"
+    },
+    {
+      "album": {
+        "name": "verdammte Vergangenheit",
+        "url": "https://open.spotify.com/album/1WYTAqFoNTJufkdlYaHNtN"
+      },
+      "artists": [
+        {
+          "name": "fiora",
+          "url": "https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145960,
+      "name": "verdammte Vergangenheit",
+      "url": "https://open.spotify.com/track/5CCtFOrfaFnYkqC4J0e3GW"
     },
     {
       "album": {
@@ -31208,7 +31334,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 144946,
       "name": "wieviele Tage",
       "url": "https://open.spotify.com/track/3AfgaomsUEosFavo59d5Ki"
@@ -31580,6 +31706,24 @@
       "duration_ms": 140052,
       "name": "WUNDERLICH",
       "url": "https://open.spotify.com/track/2d9aXk7fLqvckuWv0PAzZZ"
+    },
+    {
+      "album": {
+        "name": "wundersch\u00f6n",
+        "url": "https://open.spotify.com/album/7FZb8KVTiFmxpUmTaduyJT"
+      },
+      "artists": [
+        {
+          "name": "Mika No\u00e9",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179853,
+      "name": "wundersch\u00f6n",
+      "url": "https://open.spotify.com/track/1zFQF4A7SOCcBFvcZZNKns"
     },
     {
       "album": {
@@ -32188,7 +32332,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 131681,
       "name": "Zugv\u00f6gel",
       "url": "https://open.spotify.com/track/3eu7OdlxED1eMEJPUocsuf"

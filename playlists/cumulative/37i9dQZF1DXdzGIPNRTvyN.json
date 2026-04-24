@@ -8198,7 +8198,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 191904,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/08x0lo9qXTPOHpmJXOIUGV"
@@ -8526,6 +8526,24 @@
       "duration_ms": 134606,
       "name": "The Golden Path",
       "url": "https://open.spotify.com/track/1n6RWCdlR1noijUCeoU1bn"
+    },
+    {
+      "album": {
+        "name": "The Ground Beneath",
+        "url": "https://open.spotify.com/album/78rNE8rWFyf7Nv5o29c6xS"
+      },
+      "artists": [
+        {
+          "name": "Aurelin",
+          "url": "https://open.spotify.com/artist/4WxaQLOx5d0XXzj20fTd4X"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181764,
+      "name": "The Ground Beneath",
+      "url": "https://open.spotify.com/track/0DLDgts6WSS6c7JW9fpDWk"
     },
     {
       "album": {
@@ -9156,7 +9174,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 200000,
       "name": "What the Earth Holds Gently",
       "url": "https://open.spotify.com/track/1prYa2Re5n3jIHv7wENSv6"
@@ -9196,6 +9214,24 @@
       "duration_ms": 169615,
       "name": "Whispering Stream",
       "url": "https://open.spotify.com/track/1pmvW9hcN5WngmDjEZIOb8"
+    },
+    {
+      "album": {
+        "name": "Whispers in the Pine Forest",
+        "url": "https://open.spotify.com/album/34l4g7qFPCUw2nwvMXw8Oa"
+      },
+      "artists": [
+        {
+          "name": "Veldt Echoes",
+          "url": "https://open.spotify.com/artist/1pKgi9vX4GjRUTo6tSt0Fd"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151946,
+      "name": "Whispers in the Pine Forest",
+      "url": "https://open.spotify.com/track/6p6gKm0X8RdwcKx9l8Zrhp"
     },
     {
       "album": {

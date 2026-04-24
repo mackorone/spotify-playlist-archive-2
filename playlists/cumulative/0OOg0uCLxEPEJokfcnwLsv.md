@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-458 songs - 1 day 4 hr 30 min
+459 songs - 1 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Shipwreck](https://open.spotify.com/track/0IQSAjyhwSk9xrwlwDFOvM) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Shipwreck](https://open.spotify.com/album/6AlUStpu1jaarNt1yb6CUi) | 3:12 | 2026-02-09 | 2026-03-04 |
 | [Shooting Star](https://open.spotify.com/track/5ZiuZxpPWvcJOLy2iPxHC0) | [Between Daze](https://open.spotify.com/artist/3MHaNl5fufkpRoHJ6sbAbs) | [Shooting Star](https://open.spotify.com/album/3OMd5uD6jB93C2H0Pn3Umx) | 3:16 | 2025-10-30 | 2025-11-22 |
 | [Shooting Star](https://open.spotify.com/track/2oK9ZdADZdxl1LuIipN4xD) | [The Liquid](https://open.spotify.com/artist/5Hw2PyccNJkCzkhlTwmJZp) | [Shooting Star](https://open.spotify.com/album/432iuO2jJuUQ6FR6llvpa6) | 2:40 | 2026-01-22 | 2026-02-18 |
+| [Siempre Estaré](https://open.spotify.com/track/7e8MvyqagvlJOJaQDNdh5m) | [Viejo Furgon](https://open.spotify.com/artist/4WyH8DQAXLGiVTtqniULWG) | [Reloj Espiritual](https://open.spotify.com/album/3LYQCmohEV9m7cVWhpWuam) | 3:17 | 2026-04-23 |  |
 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 | 2025-10-21 |  |
 | [Skin Deep](https://open.spotify.com/track/5wsNvYOF9wR5BRWSKUSbft) | [People You Know](https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz) | [Skin Deep](https://open.spotify.com/album/3g0JxbfNLFh4VTmdACc9f8) | 4:28 | 2025-12-20 | 2026-01-21 |
 | [Skuggorna på vägen hem](https://open.spotify.com/track/3W5sENHWeCZzchAAzaqVNG) | [KRAKEL](https://open.spotify.com/artist/5pFRPC7ssWGA2obcJOezqH) | [Skuggorna på vägen hem](https://open.spotify.com/album/2rOzxZC6pLM83WSwqIOa2z) | 4:02 | 2026-02-20 | 2026-03-22 |

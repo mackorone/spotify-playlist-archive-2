@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 望月ヒナタ
 
-3,768 songs - 10 day 0 hr 0 min
+3,769 songs - 10 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3379,7 +3379,7 @@
 | [未来へ](https://open.spotify.com/track/3EFZPT8yR3IXaw0IPwUiaX) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [未来へ](https://open.spotify.com/album/4ej1pwN7ieUkZ62u5RxZQD) | 3:49 | 2022-07-26 | 2022-08-18 |
 | [未来島](https://open.spotify.com/track/0QZXP7ZS064QBr1ZgHUblt) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [未来島](https://open.spotify.com/album/4OmrYp8Zr0rsgXN6J4Rcej) | 3:21 | 2023-07-18 | 2023-10-11 |
 | [本日、柚子湯](https://open.spotify.com/track/3PfzkGBV1M6EmM1vuToobP) | [heimrecord](https://open.spotify.com/artist/2JgVdTFw8AOfFAQEmb4NYC) | [Gururi](https://open.spotify.com/album/5YtIShhocfNONhr3n06HsD) | 4:32 | 2025-11-18 | 2025-11-26 |
-| [来世はどうせ](https://open.spotify.com/track/4TSwjM55mVyZQ4Cwhi3F8v) | [金子みゆ](https://open.spotify.com/artist/0Iab9IqgQQIZab2HPPQuc1) | [来世はどうせ](https://open.spotify.com/album/0ElIOZL0L423BuXmBnlfVz) | 3:12 | 2026-02-11 |  |
+| [来世はどうせ](https://open.spotify.com/track/4TSwjM55mVyZQ4Cwhi3F8v) | [金子みゆ](https://open.spotify.com/artist/0Iab9IqgQQIZab2HPPQuc1) | [来世はどうせ](https://open.spotify.com/album/0ElIOZL0L423BuXmBnlfVz) | 3:12 | 2026-02-11 | 2026-04-24 |
 | [東京](https://open.spotify.com/track/0nvWJDcGMkPjVMNWPy0izH) | [中津マオ](https://open.spotify.com/artist/1C6xYZoXgvrFCZbUW2UkpO) | [room](https://open.spotify.com/album/3lEQEf7atjrdMwpFI14e0g) | 4:51 | 2022-09-13 | 2022-09-21 |
 | [東京Longing](https://open.spotify.com/track/2C2soCcOq3MHkhbdqh3vHR) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [東京Longing](https://open.spotify.com/album/02cldtQCAmMVNjFhUhlW9A) | 2:55 | 2023-04-18 | 2023-04-26 |
 | [東京の夜](https://open.spotify.com/track/78NozSBr0IBcXBWnYwbIPN) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [東京の夜](https://open.spotify.com/album/2KuwfPB9Q0qA5YPktDyu04) | 3:39 | 2025-06-17 | 2025-07-16 |
@@ -3561,6 +3561,7 @@
 | [結々の唄](https://open.spotify.com/track/2a2j5ou6wR6ehkWzZnSEou) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [結々の唄](https://open.spotify.com/album/3ZdqakJeXU27ffoHYtV1XU) | 3:39 | 2026-03-10 |  |
 | [絶対](https://open.spotify.com/track/2TsxnvrERFElzCEZ1FnIZ1) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [絶対](https://open.spotify.com/album/1sO6sSqKL4CVKfOQzUCppf) | 4:08 | 2022-06-07 | 2022-07-21 |
 | [続く](https://open.spotify.com/track/0YyUlNv2qbddtg9nbXcnzz) | [Miwa Sasagawa](https://open.spotify.com/artist/4luR2xOhou26Hmooyo2cnd) | [続](https://open.spotify.com/album/2co0BRbZxZLPSAeFEjRvwq) | 6:09 | 2023-09-12 | 2023-09-20 |
+| [綺羅](https://open.spotify.com/track/4dSWGjuW29GHffKWwx0bGw) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [綺羅](https://open.spotify.com/album/2ylq1to8eVacAzHi4gpC3J) | 3:08 | 2026-04-21 |  |
 | [綺麗。](https://open.spotify.com/track/5tGxsmCBJDF6PCx9Wv1KPF) | [ゆう。](https://open.spotify.com/artist/3EiKYqPWHDfoIKOTtQ3LYI) | [綺麗。](https://open.spotify.com/album/2uejZJvGvcLuYKm5R9uiGw) | 3:58 | 2026-03-03 | 2026-04-11 |
 | [線香花火 \- feat\. 幾田りら](https://open.spotify.com/track/5p0iFOcN4kDKBqE9Tld5eJ) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [線香花火 \(feat\. 幾田りら\)](https://open.spotify.com/album/4cq0K1U2cesCfyNVQkgBXu) | 3:19 | 2023-06-13 | 2023-11-22 |
 | [編み目](https://open.spotify.com/track/1vSfkC6bQ3ZlIWHAA9lj2D) | [Aki](https://open.spotify.com/artist/7pklqikA3qMThlqyH4zghL) | [編み目](https://open.spotify.com/album/1hlw0htTJMRx2Ed7pk0yrP) | 5:11 | 2024-04-23 | 2024-05-01 |

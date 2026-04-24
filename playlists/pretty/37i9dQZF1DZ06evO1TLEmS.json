@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 4568,
+  "num_followers": 4571,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAACqSVgDybuGihetaFNnzlVB",
+  "snapshot_id": "aegPgAAAAABiRQJimaJn74r0oZ277NZ3",
   "tracks": [
     {
       "added_at": null,
@@ -183,26 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "(Looking Through) Rose Colored Glasses",
-        "url": "https://open.spotify.com/album/1jxeJvg5kOtCFSvdblJVoe"
-      },
-      "artists": [
-        {
-          "name": "Mikaela Davis",
-          "url": "https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 215497,
-      "name": "(Looking Through) Rose Colored Glasses",
-      "url": "https://open.spotify.com/track/0fp9X7zv7W75w5mQSFMwYu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 253213,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "(Looking Through) Rose Colored Glasses",
+        "url": "https://open.spotify.com/album/1jxeJvg5kOtCFSvdblJVoe"
+      },
+      "artists": [
+        {
+          "name": "Mikaela Davis",
+          "url": "https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 215497,
+      "name": "(Looking Through) Rose Colored Glasses",
+      "url": "https://open.spotify.com/track/0fp9X7zv7W75w5mQSFMwYu"
     },
     {
       "added_at": null,
@@ -363,22 +363,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Work Songs: The Porter's Gate Worship Project Vol 1",
-        "url": "https://open.spotify.com/album/0fGjqZbsoSCGJEfjdaCyCI"
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
       "artists": [
-        {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
-        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 307157,
-      "name": "Little Things With Great Love (Live) [feat. Madison Cunningham]",
-      "url": "https://open.spotify.com/track/4mpVCcWKI4uQVJoQWAwTHV"
+      "duration_ms": 194226,
+      "name": "Trouble Found Me",
+      "url": "https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV"
     },
     {
       "added_at": null,
@@ -435,18 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+        "name": "Work Songs: The Porter's Gate Worship Project Vol 1",
+        "url": "https://open.spotify.com/album/0fGjqZbsoSCGJEfjdaCyCI"
       },
       "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 194226,
-      "name": "Trouble Found Me",
-      "url": "https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV"
+      "duration_ms": 307157,
+      "name": "Little Things With Great Love (Live) [feat. Madison Cunningham]",
+      "url": "https://open.spotify.com/track/4mpVCcWKI4uQVJoQWAwTHV"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 215200,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
+      "duration_ms": 197972,
+      "name": "Who Are You Now",
+      "url": "https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 197972,
-      "name": "Who Are You Now",
-      "url": "https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh"
+      "duration_ms": 215200,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
     },
     {
       "added_at": null,
@@ -636,29 +636,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 215773,
-      "name": "Races Are Run",
-      "url": "https://open.spotify.com/track/1Of90R6Q9TtVVx2EPnZCwF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Modern Man",
-        "url": "https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 184445,
-      "name": "Modern Man (feat. Madison Cunningham)",
-      "url": "https://open.spotify.com/track/5wo8gxWeFb9YsZ719fALSL"
+      "duration_ms": 283106,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/2H3gBsloNdjGWlnct8GR1d"
     },
     {
       "added_at": null,
@@ -719,6 +699,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Modern Man",
+        "url": "https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 184445,
+      "name": "Modern Man (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/5wo8gxWeFb9YsZ719fALSL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -731,26 +731,6 @@
       "duration_ms": 237493,
       "name": "Something To Believe In",
       "url": "https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ups & Downs",
-        "url": "https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD"
-      },
-      "artists": [
-        {
-          "name": "Scary Pockets",
-          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 202895,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4"
     },
     {
       "added_at": null,
@@ -771,6 +751,26 @@
       "duration_ms": 197790,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ups & Downs",
+        "url": "https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD"
+      },
+      "artists": [
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 202895,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4"
     },
     {
       "added_at": null,

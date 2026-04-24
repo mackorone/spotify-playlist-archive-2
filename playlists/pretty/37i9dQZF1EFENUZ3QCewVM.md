@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 582 likes - 129 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 584 likes - 129 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 67 | [Manly Man](https://open.spotify.com/track/3W8tRjkiC0TQZuUq0wA5zI) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Manly Man](https://open.spotify.com/album/79topiJ4Bj0SRE5XiBkpuH) | 3:30 |
 | 68 | [Tell Me That Won’t Happen](https://open.spotify.com/track/7c5YVWsteCV11zlhLBPAFT) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [luck..\. or something](https://open.spotify.com/album/71t4M602DGtkhsy1RtNAME) | 3:36 |
 | 69 | [Unlovable](https://open.spotify.com/track/7077wuPCdcdyh4y2kxgbk2) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 2:44 |
-| 70 | [Destroy Myself For You](https://open.spotify.com/track/2ORzVBlYsxSlFL6moTxxxy) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:23 |
-| 71 | [Handlebars \- Just JENNIE](https://open.spotify.com/track/6d611NNmXpV1Upyja5RNOY) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby \(The Complete Collection\)](https://open.spotify.com/album/4LOrSSPct7B6yCzW1IltRd) | 2:14 |
+| 70 | [Handlebars \- Just JENNIE](https://open.spotify.com/track/6d611NNmXpV1Upyja5RNOY) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby \(The Complete Collection\)](https://open.spotify.com/album/4LOrSSPct7B6yCzW1IltRd) | 2:14 |
+| 71 | [Destroy Myself For You](https://open.spotify.com/track/2ORzVBlYsxSlFL6moTxxxy) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:23 |
 | 72 | [Drama Queen](https://open.spotify.com/track/7K4vZUin6BMe1QOM0QpmLO) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Drama Queen](https://open.spotify.com/album/4g9Q2JI0ehh0VQ40vLcbFz) | 4:52 |
 | 73 | [To Be Young \(feat\. Doja Cat\) \- Felix Cartal Remix](https://open.spotify.com/track/55438ajkXveF4Svp5zza0o) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [To Be Young \(feat\. Doja Cat\) \[Felix Cartal Remix\]](https://open.spotify.com/album/0grfIzT5OnDihsqAXgSM38) | 3:53 |
 | 74 | [Perfume](https://open.spotify.com/track/1anDAG6dAqtGdRaWaIF5A6) | [Cameron Hardy](https://open.spotify.com/artist/1j5AUBeVifSYaMswAi9i59) | [Perfume](https://open.spotify.com/album/4gWmboWc9DsfKcyfvmoKkf) | 2:37 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 128 | [Playing House](https://open.spotify.com/track/2dEF2tafxF1C2hiLhBO8mX) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 2:35 |
 | 129 | [Bad Things](https://open.spotify.com/track/2vlcWSnTuFw57Kyc6D6LBi) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 3:10 |
 
-Snapshot ID: `AcPkfgAAAADjoVvV58SEmuJYFCHb9al1`
+Snapshot ID: `AcPqFAAAAAB6FxGc95P9MXBKBLVgTZiu`

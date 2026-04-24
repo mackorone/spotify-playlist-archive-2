@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Onell Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,495 likes - 99 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,527 likes - 99 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FgX1w7S7rW.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,762 likes - 15 songs - 37 min 50 sec
+[Spotify](https://open.spotify.com/user/spotify) - 199,274 likes - 15 songs - 37 min 50 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FgX1w7S7rW.md) - [plain]
 | 14 | [Tonight I Might](https://open.spotify.com/track/2Ih0CPdyK7SwbTUUkpun16) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [SIS \(Soft Is Strong\)](https://open.spotify.com/album/48t47MKCsynkPx3rRg7EWr) | 2:36 |
 | 15 | [M.I.A \- VALORANT Game Changers Version](https://open.spotify.com/track/0VodPyDs7Uw9UpeRp22vq6) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [M.I.A \(VALORANT Game Changers Version\)](https://open.spotify.com/album/4w96kbeZiq2Q2n8dDAVi4K) | 2:09 |
 
-Snapshot ID: `AAAAABX3XcyMqAl/svPvcQixGWc4+dQn`
+Snapshot ID: `AAAAAKYKvYgjusOBZ5cHppHZpLeWC3oF`

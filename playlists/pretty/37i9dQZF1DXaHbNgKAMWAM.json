@@ -1,6 +1,6 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 20435,
+  "num_followers": 20447,
   "original_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-04-21 03:38:48",
       "album": {
-        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
-        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 248768,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
-    },
-    {
-      "added_at": "2026-04-21 03:38:48",
-      "album": {
         "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 222305,
       "name": "Shining on Your Night",
       "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
+    },
+    {
+      "added_at": "2026-04-21 03:38:48",
+      "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 248768,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
     },
     {
       "added_at": "2026-04-21 03:38:48",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-04-21 03:38:48",
       "album": {
-        "name": "Ours",
-        "url": "https://open.spotify.com/album/3Z30H63fJdpvn3YzhD0zZO"
-      },
-      "artists": [
-        {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
-        }
-      ],
-      "duration_ms": 206781,
-      "name": "Secret of Ours",
-      "url": "https://open.spotify.com/track/5vdof8S2t9P5FnCfAjieVH"
-    },
-    {
-      "added_at": "2026-04-21 03:38:48",
-      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2026-04-21 03:38:48",
       "album": {
-        "name": "Lv1",
-        "url": "https://open.spotify.com/album/62ibdcqTMW33uWiCYHPUko"
+        "name": "Ours",
+        "url": "https://open.spotify.com/album/3Z30H63fJdpvn3YzhD0zZO"
       },
       "artists": [
         {
-          "name": "Yeo Jin",
-          "url": "https://open.spotify.com/artist/6T1L8TS6LeXIDHYnDAMHFe"
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
         }
       ],
-      "duration_ms": 174300,
-      "name": "My Valentine",
-      "url": "https://open.spotify.com/track/1Z9BgXNJR0TwO1AviUPr58"
+      "duration_ms": 206781,
+      "name": "Secret of Ours",
+      "url": "https://open.spotify.com/track/5vdof8S2t9P5FnCfAjieVH"
     },
     {
       "added_at": "2026-04-21 03:38:48",
@@ -863,6 +847,22 @@
       "duration_ms": 175866,
       "name": "Promise",
       "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
+    },
+    {
+      "added_at": "2026-04-21 03:38:48",
+      "album": {
+        "name": "Lv1",
+        "url": "https://open.spotify.com/album/62ibdcqTMW33uWiCYHPUko"
+      },
+      "artists": [
+        {
+          "name": "Yeo Jin",
+          "url": "https://open.spotify.com/artist/6T1L8TS6LeXIDHYnDAMHFe"
+        }
+      ],
+      "duration_ms": 174300,
+      "name": "My Valentine",
+      "url": "https://open.spotify.com/track/1Z9BgXNJR0TwO1AviUPr58"
     },
     {
       "added_at": "2026-04-21 03:38:48",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-04-21 03:38:48",
       "album": {
-        "name": "Our Universe (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/4F3keGFXlukJ2W7U8LSI4I"
-      },
-      "artists": [
-        {
-          "name": "Hayoung Song",
-          "url": "https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Give U the Universe",
-      "url": "https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4"
-    },
-    {
-      "added_at": "2026-04-21 03:38:48",
-      "album": {
         "name": "Love Condition (Original Soundtrack from Even If This Love Disappears Tonight)",
         "url": "https://open.spotify.com/album/1gmhYJRiDv9QBJhYcUMbS6"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 272000,
       "name": "Love Condition",
       "url": "https://open.spotify.com/track/6kUhDtV7NM7JSZYl6xV5HI"
+    },
+    {
+      "added_at": "2026-04-21 03:38:48",
+      "album": {
+        "name": "Our Universe (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/4F3keGFXlukJ2W7U8LSI4I"
+      },
+      "artists": [
+        {
+          "name": "Hayoung Song",
+          "url": "https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Give U the Universe",
+      "url": "https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4"
     },
     {
       "added_at": "2026-04-21 03:38:48",

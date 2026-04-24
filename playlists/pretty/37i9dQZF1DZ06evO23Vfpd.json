@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 64751,
+  "num_followers": 64801,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAABGLNa8HKsDsv3shk25CJhf",
+  "snapshot_id": "aegPgAAAAACwOVx9yRSaADfbMB4PuQM4",
   "tracks": [
     {
       "added_at": null,
@@ -350,11 +350,15 @@
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Garzon",
+          "url": "https://open.spotify.com/artist/0Yf4uJcivvNFZD2casW6lf"
         }
       ],
-      "duration_ms": 138318,
-      "name": "Beverly Hills",
-      "url": "https://open.spotify.com/track/1eVpgP96bdSfpXGIpz7uZR"
+      "duration_ms": 189159,
+      "name": "Why Can't Love Be The Reason (feat. Garzon)",
+      "url": "https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9"
     },
     {
       "added_at": null,
@@ -430,15 +434,11 @@
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Garzon",
-          "url": "https://open.spotify.com/artist/0Yf4uJcivvNFZD2casW6lf"
         }
       ],
-      "duration_ms": 189159,
-      "name": "Why Can't Love Be The Reason (feat. Garzon)",
-      "url": "https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9"
+      "duration_ms": 138318,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/1eVpgP96bdSfpXGIpz7uZR"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 219693,
-      "name": "Faithfully",
-      "url": "https://open.spotify.com/track/3HD3JJPE7iWKLV0zf86ShQ"
+      "duration_ms": 177773,
+      "name": "Golden Child",
+      "url": "https://open.spotify.com/track/04QWC97Dvd9g0IEDoyUDBX"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 177773,
-      "name": "Golden Child",
-      "url": "https://open.spotify.com/track/04QWC97Dvd9g0IEDoyUDBX"
+      "duration_ms": 219693,
+      "name": "Faithfully",
+      "url": "https://open.spotify.com/track/3HD3JJPE7iWKLV0zf86ShQ"
     },
     {
       "added_at": null,

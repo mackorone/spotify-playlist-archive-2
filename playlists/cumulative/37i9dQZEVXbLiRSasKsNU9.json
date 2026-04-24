@@ -24299,6 +24299,24 @@
     },
     {
       "album": {
+        "name": "DJ KICAU MANIA",
+        "url": "https://open.spotify.com/album/4mZu2igft97r7O5D9Z3Q8a"
+      },
+      "artists": [
+        {
+          "name": "Dangdut Koplo",
+          "url": "https://open.spotify.com/artist/2X18mLYsgR2ryH4PGm5ey5"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439669,
+      "name": "DJ KICAU MANIA",
+      "url": "https://open.spotify.com/track/515M9sYrit8Ho2Tj0XHTOL"
+    },
+    {
+      "album": {
         "name": "DJ MALAM PAGI X HAMIL DULUAN",
         "url": "https://open.spotify.com/album/7cETiCrJSKSDkrDS8hKZTH"
       },
@@ -47108,7 +47126,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 244571,
       "name": "Koodappirannor - From \"Vaazha 2\"",
       "url": "https://open.spotify.com/track/7taSXuN8i20lG5w1J29wh1"
@@ -58380,6 +58398,32 @@
       "duration_ms": 103495,
       "name": "Montagem Mysterious Game",
       "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM PEGADORA",
+        "url": "https://open.spotify.com/album/4TAUgrPMoySQAGKignMCbL"
+      },
+      "artists": [
+        {
+          "name": "Rubikdice",
+          "url": "https://open.spotify.com/artist/6l3xqTokYcPPqrFhTlq9qQ"
+        },
+        {
+          "name": "Chilx",
+          "url": "https://open.spotify.com/artist/1kqRQGby2asyPEdtliZYOG"
+        },
+        {
+          "name": "WAA",
+          "url": "https://open.spotify.com/artist/1hh8WeCk9LjfJBUaEPS643"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102048,
+      "name": "MONTAGEM PEGADORA - Slowed",
+      "url": "https://open.spotify.com/track/1xKMSHgGIQ26RhDDxmIjan"
     },
     {
       "album": {
@@ -87348,7 +87392,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 133800,
       "name": "The One Who's Running the Show",
       "url": "https://open.spotify.com/track/1Qmmte3WKo1HgQDmDISvNc"

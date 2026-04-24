@@ -4,7 +4,7 @@
 
 > 
 
-247 songs - 23 hr 13 min
+248 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Falling For You](https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Falling For You](https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS) | 3:55 | 2024-10-15 |  |
 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 | 2023-06-02 |  |
 | [Fine Day Anthem](https://open.spotify.com/track/3h7pTkSE7U2QojmP5OtCuD) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [wasted youth wasted nights](https://open.spotify.com/album/3kTbgGyIzLNKf01MqxhHEy) | 3:13 | 2024-08-18 |  |
+| [Fire / Desire](https://open.spotify.com/track/4CMN7EA8k4J3MJ0y8mLCvQ) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:17 | 2026-04-23 |  |
 | [For a Feeling \(feat\. RHODES\) \- Layton Giordani Remix](https://open.spotify.com/track/2ae8Zir5qhtyjzlnqtJzX4) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [For a Feeling \(feat\. RHODES\) \[Layton Giordani Remix\]](https://open.spotify.com/album/0yHBN7E9bGRdOqHVP0dKhQ) | 8:04 | 2021-03-17 |  |
 | [Frequent Tendencies](https://open.spotify.com/track/1D986c2Uu3P20kDR31NrhQ) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Frequent Tendencies](https://open.spotify.com/album/6gOZuGlYiAnYo9RPR0zy9Q) | 6:42 | 2020-10-04 |  |
 | [Gate](https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Gate / Masterplan](https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI) | 5:43 | 2023-08-11 |  |

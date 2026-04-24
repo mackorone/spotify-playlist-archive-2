@@ -1,33 +1,13 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 256567,
+  "num_followers": 256598,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAB5iEQrp4Cf19bex6HFfOi1",
+  "snapshot_id": "aegPgAAAAAD20aIxg/QUBeQkUeyQ6Sr7",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stamford Bridge",
-        "url": "https://open.spotify.com/album/3n0nCCkmMF2pzXbMvpeg0B"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Samg",
-          "url": "https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Stamford Bridge",
-      "url": "https://open.spotify.com/track/1zhQNQUBbZFaYmxhpOhyLC"
-    },
     {
       "added_at": null,
       "album": {
@@ -523,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "P\u00e9talos",
+      "url": "https://open.spotify.com/track/1XJZAeg6ro25bQOr5XExcU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e1scaras",
         "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
       },
@@ -543,22 +539,6 @@
       "duration_ms": 182200,
       "name": "Vegetales Con Pescado",
       "url": "https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "P\u00e9talos",
-      "url": "https://open.spotify.com/track/1XJZAeg6ro25bQOr5XExcU"
     },
     {
       "added_at": null,
@@ -931,6 +911,26 @@
       "duration_ms": 223875,
       "name": "400 Estrellas",
       "url": "https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stamford Bridge",
+        "url": "https://open.spotify.com/album/3n0nCCkmMF2pzXbMvpeg0B"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Samg",
+          "url": "https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Stamford Bridge",
+      "url": "https://open.spotify.com/track/1zhQNQUBbZFaYmxhpOhyLC"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 78876,
+  "num_followers": 78878,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "For the Beauty of the Earth",
-        "url": "https://open.spotify.com/album/3zFVqqj3rngtfLw7tN70Wl"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        }
-      ],
-      "duration_ms": 262643,
-      "name": "For the Beauty of the Earth",
-      "url": "https://open.spotify.com/track/4v9XGXfQL8iB9C0qjZDp8P"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "How Great",
         "url": "https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Greater Things",
-        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
+        "name": "For the Beauty of the Earth",
+        "url": "https://open.spotify.com/album/3zFVqqj3rngtfLw7tN70Wl"
       },
       "artists": [
         {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
         }
       ],
-      "duration_ms": 307026,
-      "name": "Christ Is Risen",
-      "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
+      "duration_ms": 262643,
+      "name": "For the Beauty of the Earth",
+      "url": "https://open.spotify.com/track/4v9XGXfQL8iB9C0qjZDp8P"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1039,6 +1023,22 @@
       "duration_ms": 265688,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/17aPbGuR4BStWix3SjjnLo"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Greater Things",
+        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 307026,
+      "name": "Christ Is Risen",
+      "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Rolled Away (Sunday Edit)",
-        "url": "https://open.spotify.com/album/24zeioYNhFWy9v2WSryXZe"
-      },
-      "artists": [
-        {
-          "name": "CCV Music",
-          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
-        }
-      ],
-      "duration_ms": 295157,
-      "name": "Rolled Away - Sunday Edit",
-      "url": "https://open.spotify.com/track/09o5CpYZUfXe94FHsRVfDJ"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Lamb of God (Live)",
         "url": "https://open.spotify.com/album/42ln43ESFW1uyjF2W3BxuS"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 455362,
       "name": "Son of Suffering - Live",
       "url": "https://open.spotify.com/track/08sUixtP3khtBY7Np0uJoZ"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Rolled Away (Sunday Edit)",
+        "url": "https://open.spotify.com/album/24zeioYNhFWy9v2WSryXZe"
+      },
+      "artists": [
+        {
+          "name": "CCV Music",
+          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
+        }
+      ],
+      "duration_ms": 295157,
+      "name": "Rolled Away - Sunday Edit",
+      "url": "https://open.spotify.com/track/09o5CpYZUfXe94FHsRVfDJ"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "Our God Will See Us Through (Live)",
+        "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        }
+      ],
+      "duration_ms": 253652,
+      "name": "This Is My Song - Live",
+      "url": "https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "We Shall Behold Him/Behold The Lamb",
         "url": "https://open.spotify.com/album/6CpNgIYmLAgZmvgPoynCzg"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 480240,
       "name": "We Shall Behold Him/Behold The Lamb",
       "url": "https://open.spotify.com/track/7mINdftFHnJOOO2ur4ZFzS"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "Our God Will See Us Through (Live)",
-        "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        }
-      ],
-      "duration_ms": 253652,
-      "name": "This Is My Song - Live",
-      "url": "https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2447,22 +2447,18 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Let There Be Light (Deluxe)",
-        "url": "https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja"
+        "name": "O Praise The Name (An\u00e1stasis)",
+        "url": "https://open.spotify.com/album/7vAkV9olYZRGokeYOFZuKx"
       },
       "artists": [
         {
           "name": "Hillsong Worship",
           "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 341080,
-      "name": "What A Beautiful Name - Live",
-      "url": "https://open.spotify.com/track/1yYUIjT3bZ9RB9vejqYy9f"
+      "duration_ms": 206133,
+      "name": "Cornerstone",
+      "url": "https://open.spotify.com/track/2FTOHMSicuYvDBQGebowNq"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2535,18 +2531,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "O Praise The Name (An\u00e1stasis)",
-        "url": "https://open.spotify.com/album/7vAkV9olYZRGokeYOFZuKx"
+        "name": "Let There Be Light (Deluxe)",
+        "url": "https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja"
       },
       "artists": [
         {
           "name": "Hillsong Worship",
           "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 206133,
-      "name": "Cornerstone",
-      "url": "https://open.spotify.com/track/2FTOHMSicuYvDBQGebowNq"
+      "duration_ms": 341080,
+      "name": "What A Beautiful Name - Live",
+      "url": "https://open.spotify.com/track/1yYUIjT3bZ9RB9vejqYy9f"
     },
     {
       "added_at": "2026-04-04 06:11:10",

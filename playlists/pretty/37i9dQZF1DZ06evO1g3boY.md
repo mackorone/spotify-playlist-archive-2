@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 
 > This is Emicida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,107 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,117 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 33 | [Alma Gêmea](https://open.spotify.com/track/4XlMzWC8jUKd6nTXcQmWF8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rafa Kabelo](https://open.spotify.com/artist/1f45kEQGljLiTKsb3hX5Dj) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 4:00 |
 | 34 | [A Cada Vento \- Live](https://open.spotify.com/track/2e1FJPgVRQZFT53QKUR7BD) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Criolo E Emicida Ao Vivo \(Live\)](https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8) | 4:03 |
 | 35 | [Mãe](https://open.spotify.com/track/3z32Uk7vU6GWjpALDkV3Vv) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Dona Jacira](https://open.spotify.com/artist/5qiBrPROw2IWolMIjPf2ax), [Anna Tréa](https://open.spotify.com/artist/0nffPOYWCX8Kx9mrxBkyUS) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 4:58 |
-| 36 | [Ooorra \- Ao Vivo](https://open.spotify.com/track/1YyrCYFzq2cqG6Rfggqqda) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [10 Anos de Triunfo \(Ao Vivo\)](https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a) | 4:44 |
-| 37 | [Pantera Negra](https://open.spotify.com/track/0zcRz3S8bw3glaBp7mjBDk) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pantera Negra](https://open.spotify.com/album/3pnSMptqglR6Z0e6Hy0pQ3) | 3:19 |
-| 38 | [Triunfo \(A Rua É Nóiz\)](https://open.spotify.com/track/7b10Xiz8qNbe0W1x7RVbxh) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pra Quem Já Mordeu um Cachorro por Comida Até Que Eu Cheguei Longe](https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla) | 3:29 |
-| 39 | [Mil Coisas](https://open.spotify.com/track/6EAbcrcNWpxJXSZHEw0TbK) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Drik Barbosa](https://open.spotify.com/artist/31hE6DJXzhWh5sLoW3Xl88) | [Mil Coisas](https://open.spotify.com/album/2NMDHZ1pEPkE07103NN30W) | 3:22 |
-| 40 | [Vença](https://open.spotify.com/track/3dtHGICnmZt45FNHD1s8nf) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Sol Também Chora](https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We) | 4:17 |
+| 36 | [Vença](https://open.spotify.com/track/3dtHGICnmZt45FNHD1s8nf) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Sol Também Chora](https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We) | 4:17 |
+| 37 | [Ooorra \- Ao Vivo](https://open.spotify.com/track/1YyrCYFzq2cqG6Rfggqqda) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [10 Anos de Triunfo \(Ao Vivo\)](https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a) | 4:44 |
+| 38 | [Pantera Negra](https://open.spotify.com/track/0zcRz3S8bw3glaBp7mjBDk) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pantera Negra](https://open.spotify.com/album/3pnSMptqglR6Z0e6Hy0pQ3) | 3:19 |
+| 39 | [Triunfo \(A Rua É Nóiz\)](https://open.spotify.com/track/7b10Xiz8qNbe0W1x7RVbxh) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pra Quem Já Mordeu um Cachorro por Comida Até Que Eu Cheguei Longe](https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla) | 3:29 |
+| 40 | [Mil Coisas](https://open.spotify.com/track/6EAbcrcNWpxJXSZHEw0TbK) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Drik Barbosa](https://open.spotify.com/artist/31hE6DJXzhWh5sLoW3Xl88) | [Mil Coisas](https://open.spotify.com/album/2NMDHZ1pEPkE07103NN30W) | 3:22 |
 | 41 | [Só Mais Uma Noite \- Live](https://open.spotify.com/track/4dr8LN0s4WhnLLTzfsZkj5) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Evandro Fióti](https://open.spotify.com/artist/0mXdPvdqQete31NQDPBlT4) | [Criolo E Emicida Ao Vivo \(Live\)](https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8) | 3:08 |
 | 42 | [São Pixinguinha \- A COLORS SHOW](https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [São Pixinguinha \- A COLORS SHOW](https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy) | 3:29 |
 | 43 | [O Pequeno Burguês/ Canta Canta Minha Gente \- Ao Vivo](https://open.spotify.com/track/6EVlrirhIuJd7uMJ0FlbEs) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ), [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Rock In Rio \(Ao Vivo\)](https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 49 | [Oi Compadre \- Ao Vivo](https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ), [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Rock In Rio \(Ao Vivo\)](https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS) | 4:06 |
 | 50 | [Sozim](https://open.spotify.com/track/2l6Cfr8vIkONQJKQRRHnsz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pra Quem Já Mordeu um Cachorro por Comida Até Que Eu Cheguei Longe](https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla) | 3:14 |
 
-Snapshot ID: `aeVsgAAAAABgTTePPb5eAPU8Nphodd9H`
+Snapshot ID: `aegPgAAAAAAFzIuF2x8JWHtbuboiUXhl`

@@ -4,7 +4,7 @@
 
 > This is Edicion Especial\. The essential tracks, all in one playlist.
 
-89 songs - 5 hr 30 min
+90 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,8 +22,9 @@
 | [Don \(En Vivo\)](https://open.spotify.com/track/3Zwq6Ih1Ojjrgx9rhkakp0) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Don \(En Vivo\)](https://open.spotify.com/album/7vhzZZ4h4s2wxPkatBqgWD) | 3:30 | 2024-01-29 |  |
 | [Déjenme Hacer Dinero](https://open.spotify.com/track/364qZBjyGTwjNbUxnq1djj) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Déjenme Hacer Dinero](https://open.spotify.com/album/0Pb2T0G7x9IGOWer7fEmuh) | 3:13 | 2024-08-22 |  |
 | [Déjenme Hacer Dinero](https://open.spotify.com/track/4LdopLerbbhZxY6cBQyRsP) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Déjenme Hacer Dinero](https://open.spotify.com/album/38P4ol8xZRrL4DqxxWKMAo) | 3:13 | 2024-01-29 | 2024-08-22 |
-| [El 3](https://open.spotify.com/track/2ZsmtpzGfitVdZPAUjC8Mg) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Corridos](https://open.spotify.com/album/5GPEbz6FdTlZ5C3PGdyxE6) | 3:39 | 2024-09-21 |  |
+| [El 3](https://open.spotify.com/track/2ZsmtpzGfitVdZPAUjC8Mg) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Corridos](https://open.spotify.com/album/5GPEbz6FdTlZ5C3PGdyxE6) | 3:39 | 2024-09-21 | 2026-04-24 |
 | [El 3](https://open.spotify.com/track/3cLASsB33EdcHmUsIcyC0C) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Corridos](https://open.spotify.com/album/2YkTzUogP6QEy3epG8yzfH) | 3:39 | 2024-01-29 | 2024-09-21 |
+| [El 3](https://open.spotify.com/track/4rTn8d1MKx0306cqiKrOlM) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Corridos](https://open.spotify.com/album/4KL4KUntyx980R5Lix6Jc5) | 3:39 | 2026-04-24 |  |
 | [El AV](https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:31 | 2024-01-29 |  |
 | [El Chavo \- En Vivo](https://open.spotify.com/track/12GpSqj0PWHs6LuBVsiliK) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Chavo \- En Vivo](https://open.spotify.com/album/4sk54ruefcyjuX60ds1zLR) | 4:05 | 2024-01-29 | 2024-08-22 |
 | [El Chavo \- En Vivo](https://open.spotify.com/track/4Wr7lrIjNOUeOtmPLZK4uz) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Chavo \(En Vivo\)](https://open.spotify.com/album/5dEUxpQSGwvUtcSvtO4tG6) | 4:05 | 2024-08-22 |  |

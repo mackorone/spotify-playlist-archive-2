@@ -1,6 +1,6 @@
 {
   "description": "Glimmering, warm, and bright memories: Lush on the cover.",
-  "num_followers": 638547,
+  "num_followers": 638647,
   "original_name": "Dreampop Classics",
   "owner": {
     "name": "Spotify",
@@ -217,38 +217,6 @@
       "url": "https://open.spotify.com/track/6G7rDUqMhnmXFVwRRQ7azu"
     },
     {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Pygmalion",
-        "url": "https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 361213,
-      "name": "Crazy for You",
-      "url": "https://open.spotify.com/track/3gcIqknhltPEuekVMrP25o"
-    },
-    {
-      "added_at": "2024-10-15 03:40:28",
-      "album": {
-        "name": "Eyedazzler",
-        "url": "https://open.spotify.com/album/0FN1w00CzlN3HMdkmqiWls"
-      },
-      "artists": [
-        {
-          "name": "Alison's Halo",
-          "url": "https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg"
-        }
-      ],
-      "duration_ms": 312537,
-      "name": "Dozen",
-      "url": "https://open.spotify.com/track/6aQOvoDj701Yw8DB0sghPv"
-    },
-    {
       "added_at": "2022-02-18 20:00:47",
       "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
@@ -267,6 +235,38 @@
       "duration_ms": 231226,
       "name": "Time Baby III",
       "url": "https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98"
+    },
+    {
+      "added_at": "2024-10-15 03:40:28",
+      "album": {
+        "name": "Eyedazzler",
+        "url": "https://open.spotify.com/album/0FN1w00CzlN3HMdkmqiWls"
+      },
+      "artists": [
+        {
+          "name": "Alison's Halo",
+          "url": "https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg"
+        }
+      ],
+      "duration_ms": 312537,
+      "name": "Dozen",
+      "url": "https://open.spotify.com/track/6aQOvoDj701Yw8DB0sghPv"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Pygmalion",
+        "url": "https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 361213,
+      "name": "Crazy for You",
+      "url": "https://open.spotify.com/track/3gcIqknhltPEuekVMrP25o"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -367,18 +367,18 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Morning Light",
-        "url": "https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk"
+        "name": "Sugar & Spice",
+        "url": "https://open.spotify.com/album/6ukRsxcKxoNNi1PNUui57O"
       },
       "artists": [
         {
-          "name": "Locust",
-          "url": "https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N"
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
         }
       ],
-      "duration_ms": 401111,
-      "name": "No-One in the World",
-      "url": "https://open.spotify.com/track/4eCgoHGTLuZshiHWitgAtT"
+      "duration_ms": 249021,
+      "name": "Sure",
+      "url": "https://open.spotify.com/track/3zdTA309WHMFZo1l6IAiPu"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -431,18 +431,18 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Sugar & Spice",
-        "url": "https://open.spotify.com/album/6ukRsxcKxoNNi1PNUui57O"
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk"
       },
       "artists": [
         {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+          "name": "Locust",
+          "url": "https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N"
         }
       ],
-      "duration_ms": 249021,
-      "name": "Sure",
-      "url": "https://open.spotify.com/track/3zdTA309WHMFZo1l6IAiPu"
+      "duration_ms": 401111,
+      "name": "No-One in the World",
+      "url": "https://open.spotify.com/track/4eCgoHGTLuZshiHWitgAtT"
     },
     {
       "added_at": "2021-10-01 10:38:06",

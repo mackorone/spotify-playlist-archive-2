@@ -1213,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "Hou van mezelf",
+        "url": "https://open.spotify.com/album/2yDI54RFHQgh3MvGPAhcqD"
+      },
+      "artists": [
+        {
+          "name": "Pleun",
+          "url": "https://open.spotify.com/artist/3pb53tofp8YlvcYAlWHNjx"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180706,
+      "name": "Hou van mezelf",
+      "url": "https://open.spotify.com/track/0FcqV3x0ctMnnK82W2TA43"
+    },
+    {
+      "album": {
         "name": "Houden van is voor altijd",
         "url": "https://open.spotify.com/album/3ROIn9vmPzyQ1dXpONbOqu"
       },
@@ -3200,7 +3218,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 171759,
       "name": "Tijd Genoeg",
       "url": "https://open.spotify.com/track/7JGJexoaC9puUyX51N5JJe"

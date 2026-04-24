@@ -486,7 +486,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 344116,
       "name": "Bernard's Boogie",
       "url": "https://open.spotify.com/track/3Itrvnb2MoahGrowaJG9fW"
@@ -896,6 +896,24 @@
       "duration_ms": 203700,
       "name": "Changes",
       "url": "https://open.spotify.com/track/6VwmVpxjMhyNf8gosbY5fd"
+    },
+    {
+      "album": {
+        "name": "Chase Your Tail",
+        "url": "https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193915,
+      "name": "Chase Your Tail",
+      "url": "https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF"
     },
     {
       "album": {
@@ -2417,6 +2435,24 @@
     },
     {
       "album": {
+        "name": "Head First",
+        "url": "https://open.spotify.com/album/1kQkR7cRENkD55SARzYQhB"
+      },
+      "artists": [
+        {
+          "name": "Karate Boogaloo",
+          "url": "https://open.spotify.com/artist/6D1VqVFh9yM5oARLleWNpQ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210157,
+      "name": "Head First",
+      "url": "https://open.spotify.com/track/7BEvrcV2BwtuW1CtTSRMvJ"
+    },
+    {
+      "album": {
         "name": "Head Over Heels",
         "url": "https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp"
       },
@@ -2966,6 +3002,54 @@
       "duration_ms": 224559,
       "name": "Intuition",
       "url": "https://open.spotify.com/track/3oZdGtVdpexPzYZHvMz9yS"
+    },
+    {
+      "album": {
+        "name": "Between Us",
+        "url": "https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Femi Koleoso",
+          "url": "https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197122,
+      "name": "It Never Ends",
+      "url": "https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd"
+    },
+    {
+      "album": {
+        "name": "It's Just The Rain (Little Rocker Version) [feat. Michael Damani & Little Rocker]",
+        "url": "https://open.spotify.com/album/6uGLtRT85yKrb2dnUmvpYe"
+      },
+      "artists": [
+        {
+          "name": "Patchwork Inc.",
+          "url": "https://open.spotify.com/artist/6Ay4LTevVm24IfC05fZNZH"
+        },
+        {
+          "name": "Michael Damani",
+          "url": "https://open.spotify.com/artist/32Wtgvk290mTz9Ve74vSa4"
+        },
+        {
+          "name": "Little Rocker",
+          "url": "https://open.spotify.com/artist/5ZCppzB7ZI46sjLdD3XdJB"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178066,
+      "name": "It's Just The Rain (feat. Michael Damani & Little Rocker) - Little Rocker Version",
+      "url": "https://open.spotify.com/track/5L98nqYPrTbLW11jr8ObdT"
     },
     {
       "album": {
@@ -3684,7 +3768,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 245080,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/3P2q9dfDRYQOrbTTEyAFQX"
@@ -3742,7 +3826,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 363791,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/3yDV0PzSV2okw1w9jno0me"
@@ -4626,10 +4710,28 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 234931,
       "name": "Pleasure Boy",
       "url": "https://open.spotify.com/track/6D3XgKK1nqJykoZ5UDcPVp"
+    },
+    {
+      "album": {
+        "name": "Promise To Keep",
+        "url": "https://open.spotify.com/album/0xmkRXEu6t9iPSbxrf4SCc"
+      },
+      "artists": [
+        {
+          "name": "Ella Thompson",
+          "url": "https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167706,
+      "name": "Promise To Keep",
+      "url": "https://open.spotify.com/track/7lc7YrDYYcEKoPwLZrMaEU"
     },
     {
       "album": {
@@ -4890,6 +4992,24 @@
       "duration_ms": 423028,
       "name": "Remember Me - Original Mix",
       "url": "https://open.spotify.com/track/7MwPTFInd4Y3q1ZtwgzG57"
+    },
+    {
+      "album": {
+        "name": "Ride It Out",
+        "url": "https://open.spotify.com/album/6vMuk0DhZDM1wClWe6ZjIA"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Ride It Out",
+      "url": "https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh"
     },
     {
       "album": {
@@ -5256,7 +5376,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 173112,
       "name": "Send It Back",
       "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
@@ -5332,7 +5452,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 226058,
       "name": "Shadow Of Your Smile",
       "url": "https://open.spotify.com/track/35KDCFm9Oil4kEXjNR2sfq"

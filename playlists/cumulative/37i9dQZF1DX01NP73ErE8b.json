@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani di cui siamo ossessionati \ud83c\udfa7 Sarah Toscano in cover",
+  "description": "I brani italiani di cui siamo ossessionati \ud83c\udfa7 Frah Quintale in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -843,6 +843,24 @@
     },
     {
       "album": {
+        "name": "Aranciata",
+        "url": "https://open.spotify.com/album/58oNEAAdQ2eFvX2GZNBL8x"
+      },
+      "artists": [
+        {
+          "name": "Frah Quintale",
+          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212542,
+      "name": "Aranciata",
+      "url": "https://open.spotify.com/track/6Ytq1UqEa7M6JU3viWheCO"
+    },
+    {
+      "album": {
         "name": "Arrogante",
         "url": "https://open.spotify.com/album/0UWo2I8q76plSrf6V8emw8"
       },
@@ -1212,6 +1230,24 @@
       "duration_ms": 176571,
       "name": "BELLA STRONZA",
       "url": "https://open.spotify.com/track/2qgKFtVm0Ls6WC72sm9ELe"
+    },
+    {
+      "album": {
+        "name": "SENZA FIATO",
+        "url": "https://open.spotify.com/album/0gZdzP3fDtPZmxZbf3iX6Z"
+      },
+      "artists": [
+        {
+          "name": "Birthh",
+          "url": "https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137575,
+      "name": "Bene (da sola)",
+      "url": "https://open.spotify.com/track/5NPY05T2iSHZpGnK5f6tmS"
     },
     {
       "album": {
@@ -1626,6 +1662,28 @@
       "duration_ms": 256185,
       "name": "CANTA ANCORA",
       "url": "https://open.spotify.com/track/4CwufRNyhiQgn1to045Uzb"
+    },
+    {
+      "album": {
+        "name": "SOLITO CINEMA",
+        "url": "https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD"
+      },
+      "artists": [
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        },
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239330,
+      "name": "Cantilene",
+      "url": "https://open.spotify.com/track/3yaRrdo3DDeKgDaubuBsId"
     },
     {
       "album": {
@@ -2752,7 +2810,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 207621,
       "name": "DIMMI CHE MI VUOI",
       "url": "https://open.spotify.com/track/2K8c3Q6BCsW7xx1j4um4kz"
@@ -3262,7 +3320,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 160941,
       "name": "FARFALLE (nello stomaco)",
       "url": "https://open.spotify.com/track/6nFCfQyV8ZzcgCNRGIyYyp"
@@ -3828,7 +3886,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 182790,
       "name": "Genitore 3",
       "url": "https://open.spotify.com/track/6xZn3AmvO8JJvswcnFpev3"
@@ -5908,7 +5966,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 136973,
       "name": "MARIA",
       "url": "https://open.spotify.com/track/6D4mCJkPrRjhkKTUgUXrkD"
@@ -6660,7 +6718,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 160745,
       "name": "Nessuno qui \u00e9 chi dovrebbe essere",
       "url": "https://open.spotify.com/track/3U4UsEENKPvawZnV4mjcWW"
@@ -6946,7 +7004,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 187698,
       "name": "Non \u00e8 mica te",
       "url": "https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD"
@@ -7317,6 +7375,24 @@
     },
     {
       "album": {
+        "name": "Oh, Maria!",
+        "url": "https://open.spotify.com/album/0FVo6YC9EPxZLuhGyumnIg"
+      },
+      "artists": [
+        {
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191600,
+      "name": "Oh, Maria!",
+      "url": "https://open.spotify.com/track/76AUGMgXgac6mPBF2gvjlb"
+    },
+    {
+      "album": {
         "name": "Ombre di citt\u00e0 (feat. Colapesce)",
         "url": "https://open.spotify.com/album/1CbkJFWbNADgydCD7cOoyP"
       },
@@ -7473,6 +7549,28 @@
     },
     {
       "album": {
+        "name": "SOLITO CINEMA",
+        "url": "https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD"
+      },
+      "artists": [
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        },
+        {
+          "name": "Fulminacci",
+          "url": "https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183679,
+      "name": "Passatempo",
+      "url": "https://open.spotify.com/track/63YhORu1k9MMrp6FFsJOnl"
+    },
+    {
+      "album": {
         "name": "PASSIONE",
         "url": "https://open.spotify.com/album/5g63IHLDxeCZHZCI0gSq2K"
       },
@@ -7626,7 +7724,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 214934,
       "name": "PER TE",
       "url": "https://open.spotify.com/track/6DhMZVuD6TH0jd4bMNChCU"
@@ -8364,7 +8462,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 200850,
       "name": "Quelli come me",
       "url": "https://open.spotify.com/track/0rpUylGGF9tPRgilGzvgSK"
@@ -8690,7 +8788,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 237762,
       "name": "Risorgere",
       "url": "https://open.spotify.com/track/1437F3lIKt7rc1cSALqz6Q"
@@ -9177,6 +9275,28 @@
     },
     {
       "album": {
+        "name": "SOLITO CINEMA",
+        "url": "https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD"
+      },
+      "artists": [
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        },
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196434,
+      "name": "Serenamente",
+      "url": "https://open.spotify.com/track/5ZliWdrEfiHceXVGnGzlxA"
+    },
+    {
+      "album": {
         "name": "SERENATA",
         "url": "https://open.spotify.com/album/1kknmZi7U32CSSrRVRfaqz"
       },
@@ -9570,7 +9690,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 201081,
       "name": "Sono Un Grande",
       "url": "https://open.spotify.com/track/7nCNEWj8T3NUew4rvVXX2D"
@@ -10454,7 +10574,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 202539,
       "name": "tu non vuoi nessuno",
       "url": "https://open.spotify.com/track/5BIjciSrUoa2sPirUFZsgr"
@@ -11138,7 +11258,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 192727,
       "name": "Voil\u00e0",
       "url": "https://open.spotify.com/track/6IhEd41nfdL7qG4MVfZVAp"

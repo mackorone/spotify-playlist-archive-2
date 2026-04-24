@@ -965,6 +965,28 @@
     },
     {
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/3LO64Vb9QnnRbw8P8tZQYL"
+      },
+      "artists": [
+        {
+          "name": "Rudolf",
+          "url": "https://open.spotify.com/artist/1EhOX6NlwtrsZyXTmuawiU"
+        },
+        {
+          "name": "OOSHA",
+          "url": "https://open.spotify.com/artist/6OhHuHGJe5YfFNsaoIAWZm"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147990,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/0mx2fFFQ1QfflCduFtFlR6"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/4agMiPmznVVvOWd3JhvAcb"
       },
@@ -1086,7 +1108,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 157808,
       "name": "Ije Nwoke",
       "url": "https://open.spotify.com/track/0yeE2B1raXnYil6MiAJPA1"
@@ -1134,7 +1156,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 181714,
       "name": "JAIYE EVERYDAY",
       "url": "https://open.spotify.com/track/0nhnrU29FPbsVAubi8kMJx"

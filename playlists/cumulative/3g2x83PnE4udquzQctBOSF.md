@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-717 songs - 1 day 21 hr 8 min
+721 songs - 1 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [Messiah](https://open.spotify.com/track/6KqaitakrynOXlmjy6CSmp) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Messiah](https://open.spotify.com/album/0AktL0F0nhUNAG2jTxj5rq) | 3:02 | 2023-03-05 | 2023-03-20 |
 | [Mi alma grita en silencio](https://open.spotify.com/track/6udvw6xZelhUKahkHFtTNj) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [latin house 2](https://open.spotify.com/album/5bX8mRv2NYqu1eVSZbfaQE) | 4:01 | 2026-01-16 | 2026-02-23 |
 | [Mi Corazón](https://open.spotify.com/track/25h246vto9gTVE2mCEY69q) | [Yungness & Jaminn](https://open.spotify.com/artist/2W0LCDXmrMO7acenLvkxyR) | [Mi Corazón](https://open.spotify.com/album/7Du2rNorPcljURWbm22rkp) | 2:58 | 2023-01-15 | 2023-02-13 |
+| [mi cuerpo fluye](https://open.spotify.com/track/3vh4zLgl4XpIyJIe0zokJw) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [Hacia delante](https://open.spotify.com/album/73vmyx63AXRJdcqvaiJ5l3) | 3:24 | 2026-04-23 |  |
 | [Midnight Frequency](https://open.spotify.com/track/4PDMpPriPr8iuacmYge1rp) | [THE KING YOUTHFULNESS](https://open.spotify.com/artist/390HdFpUeNh5Fir2cFd3Py) | [Midnight Frequency](https://open.spotify.com/album/2Cnxnw6rfRVFvxyO7DPh2U) | 4:16 | 2026-02-04 | 2026-02-23 |
 | [Midnight Temptation](https://open.spotify.com/track/3MQ7AzuBNN1RZr2GzgLLAu) | [Just Ben](https://open.spotify.com/artist/1yYacwL1sMAVv0fGYPmFxL) | [Midnight Temptation](https://open.spotify.com/album/72KQ7LHhNDoxXDH912jdEs) | 2:26 | 2026-03-24 |  |
 | [Mik Jak](https://open.spotify.com/track/0k0JC6kqbr0VXOuYwpaP8t) | [Gabriele Agostino](https://open.spotify.com/artist/3wl85IJepINSZzcf8bSDTJ) | [Mik Jak](https://open.spotify.com/album/433l4WD8ARq9fGTd5CiO3g) | 3:22 | 2024-03-24 | 2024-05-20 |
@@ -466,6 +467,7 @@
 | [Otra Vez](https://open.spotify.com/track/278uSEKq1TknO17IIeyGEZ) | [TIA Milano](https://open.spotify.com/artist/2dJIXmBph69u2N8Ewweil5) | [Otra Vez](https://open.spotify.com/album/3h1PPDUBf9VYleQtPIQUJ6) | 3:12 | 2026-04-09 |  |
 | [Outer Space](https://open.spotify.com/track/4acZoDcg5neM4mAtVsTQSK) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Just What The World Needs EP](https://open.spotify.com/album/6Ke2WaFMVNJZviMEJvYoPX) | 4:03 | 2023-01-29 | 2023-02-20 |
 | [Outer Space \- SLVR Remix](https://open.spotify.com/track/2NKQH2R0sqi4zBeQKkZ3vC) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy), [SLVR](https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU) | [Outer Space \(Remixes\)](https://open.spotify.com/album/2VljxTmjwL6AvehbFSDN1j) | 3:34 | 2023-08-27 | 2023-09-26 |
+| [Overdose](https://open.spotify.com/track/2Ar5VJ09eGYZpL76GIXRNx) | [Leo Effe](https://open.spotify.com/artist/190T5d0VosWDsjeUzIDR4M) | [Overdose](https://open.spotify.com/album/35ZjysQyPFdMFKQs9PsbEu) | 4:04 | 2026-04-23 |  |
 | [Pablo](https://open.spotify.com/track/76NTYF4tcQ7pMErL0PPpCO) | [Deeft](https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6), [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P) | [Pablo](https://open.spotify.com/album/54sLNgzlkwJa22OGF5G56N) | 2:53 | 2023-08-20 | 2023-09-26 |
 | [Pale Ashes](https://open.spotify.com/track/3PrMeGQon27sYLagTU0Jjb) | [Isaac Washington](https://open.spotify.com/artist/2l0adiofBUN4cIVXnipldE) | [Pale Ashes](https://open.spotify.com/album/7idJPWdSpG4iqQNjc3bX90) | 4:28 | 2026-04-07 |  |
 | [Paradise](https://open.spotify.com/track/3tek0cqcIJ0wKMpFuNrwBe) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Heritage](https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG) | 4:11 | 2023-03-31 | 2023-04-17 |
@@ -669,6 +671,7 @@
 | [Vankara](https://open.spotify.com/track/6RtjeiSNc8aS1t7jB7A60k) | [Orient](https://open.spotify.com/artist/5J9PVF5TuLRuTujc8w5EXJ) | [Vankara](https://open.spotify.com/album/0iEDRaHlD05PL0CgXQQb86) | 2:36 | 2023-01-15 | 2023-02-13 |
 | [Vapor Trails in the Rearview](https://open.spotify.com/track/3cj4eCKVh1R5wF4WiS8CD2) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Neon Nights: Late Night Drive Music \(Vol\. 1\)](https://open.spotify.com/album/0LrdRMztCrZRHNbe6W2k1T) | 5:53 | 2026-04-04 |  |
 | [Velocity Trap](https://open.spotify.com/track/0bvmomS3Vm9ooVpuqTADzM) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Neon Nights: Late Night Drive Music \(Vol\. 1\)](https://open.spotify.com/album/0LrdRMztCrZRHNbe6W2k1T) | 4:17 | 2026-03-22 |  |
+| [Velvet Horizon](https://open.spotify.com/track/6iuXEPR04gGcSvRaJm4yI4) | [Archi K](https://open.spotify.com/artist/2t0eG7qAMeAL62ZdVzlcRY) | [Velvet Horizon](https://open.spotify.com/album/0ORGbusaM6OiYrwOru1D5z) | 3:35 | 2026-04-23 |  |
 | [Venezolana \- Original Mix](https://open.spotify.com/track/0bQlyeYdCvnimXDoL8XB6d) | [Gabriele Toma](https://open.spotify.com/artist/3Eylw4P4DCGqXcQZ4b8Fon) | [Venezolana](https://open.spotify.com/album/3lStdA5SbysTqa6Sqcxofs) | 5:37 | 2023-01-29 | 2023-02-20 |
 | [Venezuela](https://open.spotify.com/track/0YbrchKexq2NTo0wwOi15S) | [ESSED](https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo) | [Venezuela](https://open.spotify.com/album/56lODgPHSGEw887zjqc4Cy) | 2:32 | 2023-05-14 | 2023-06-12 |
 | [Venus on Vinyl](https://open.spotify.com/track/20FvR7RRJvPf5blpoK4Q15) | [LUX VINCI](https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt) | [Neon Renaissance](https://open.spotify.com/album/0ChsRFFcUtNRfoq2PsmEvZ) | 2:03 | 2026-02-23 |  |
@@ -724,6 +727,7 @@
 | [Zed](https://open.spotify.com/track/6ve2DARqa8GFqpDBpYj65y) | [Laera](https://open.spotify.com/artist/66dGFhhv24QNwzclFPMlIz), [Henrik Voght](https://open.spotify.com/artist/2p3u5Wl9xYehO9QRwmnvTc) | [Zed](https://open.spotify.com/album/2Wjq0qdw3QQghtFWcH2zkS) | 4:05 | 2025-12-14 | 2026-01-03 |
 | [Zenith](https://open.spotify.com/track/6dMIdroeAo63DjzxjNlw9D) | [Peritz](https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp) | [Zenith](https://open.spotify.com/album/6W0vPRoGAzqspqxdtFgEnM) | 3:38 | 2026-04-04 |  |
 | [Zoy](https://open.spotify.com/track/3mq6ll6KmQH2LAsvJflp60) | [Peritz](https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp) | [Zoy](https://open.spotify.com/album/2rz7ieaKOTRQxRWDIoKaWu) | 2:43 | 2026-04-17 |  |
+| [áfrica es tu casa](https://open.spotify.com/track/3FwbBwZp9Y13odbkzc93ML) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [Hacia delante](https://open.spotify.com/album/73vmyx63AXRJdcqvaiJ5l3) | 3:32 | 2026-04-23 |  |
 | [Жизнь по кайфу](https://open.spotify.com/track/73VNVSDCbuebJ3qbiqNOuw) | [Echoes And Vibes](https://open.spotify.com/artist/3KYnVGmtNOtC5MrmHRp0mF) | [Жизнь по кайфу](https://open.spotify.com/album/5XDxLmzQF4olsjKbdTLAmr) | 3:29 | 2026-04-14 |  |
 
 \*This playlist was first scraped on 2023-02-03. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > This is Senses Fail\. The essential tracks, all in one playlist.
 
-135 songs - 7 hr 43 min
+136 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Can't Be Saved](https://open.spotify.com/track/3R0S1d6GJ6hW2L9M43S9Kb) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 3:07 | 2023-01-31 | 2023-12-14 |
 | [Can't Be Saved](https://open.spotify.com/track/63k8KXOgawK2cNtvm2ZW8y) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:07 | 2022-10-25 | 2023-02-01 |
 | [Canine](https://open.spotify.com/track/7bvFWzATD9xN9F1QBvnUcd) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:27 | 2025-04-15 | 2025-06-04 |
+| [Closure / Rebirth](https://open.spotify.com/track/3CQbLTwoVMWPgVGNc1iEQu) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:24 | 2026-04-24 |  |
 | [Coward](https://open.spotify.com/track/1LRGDPUAo5HedSS7VT6UNA) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:30 | 2026-03-11 | 2026-03-26 |
 | [Death by Water](https://open.spotify.com/track/2AX46RVDdKW6WL7gHQSFzx) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:49 | 2022-10-25 | 2024-04-19 |
 | [Death by Water](https://open.spotify.com/track/6v2q6EnJqTD71x31OFMvXS) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/7ruVtbmk66uo67h6Si81Fw) | 3:49 | 2025-04-21 |  |
@@ -104,7 +105,7 @@
 | [Rum Is for Drinking, Not for Burning](https://open.spotify.com/track/0vMvw4gKlM59AGO61KRnT7) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1) | 2:43 | 2023-12-13 |  |
 | [Rum Is for Drinking, Not for Burning](https://open.spotify.com/track/38bTAKxFVuAnnk8UMm0iwb) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 2:43 | 2022-10-25 | 2023-12-14 |
 | [Saint Anthony](https://open.spotify.com/track/2cMosb3ON8fKZjpRi3eDpf) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6IExM5Oz7rM77Qz27L0nYD) | 3:15 | 2022-10-25 | 2023-12-14 |
-| [Saint Anthony](https://open.spotify.com/track/5WBdIPNXqTJV1Q7VtVNpFv) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:15 | 2024-01-07 |  |
+| [Saint Anthony](https://open.spotify.com/track/5WBdIPNXqTJV1Q7VtVNpFv) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:15 | 2024-01-07 | 2026-04-24 |
 | [Shark Attack](https://open.spotify.com/track/02xoVbvxVOKK8MWNe926zb) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5) | 2:53 | 2023-12-13 |  |
 | [Shark Attack](https://open.spotify.com/track/1NjU64TwELkfR6YvKOF0sK) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 2:53 | 2023-06-03 | 2023-12-14 |
 | [Shark Attack](https://open.spotify.com/track/1nPPVoNNkZVCaMFALQutMc) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 2:53 | 2023-01-31 | 2023-06-04 |

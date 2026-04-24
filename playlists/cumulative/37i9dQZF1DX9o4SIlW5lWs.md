@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.
 
-577 songs - 1 day 8 hr 24 min
+578 songs - 1 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Luz Sin Gravedad](https://open.spotify.com/track/2De6g7PYBLivxyQaWA6Efa) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Luz Sin Gravedad](https://open.spotify.com/album/1O06nulAGaUblPmn1z4GsJ) | 3:20 | 2024-02-23 | 2024-03-02 |
 | [Lágrimas](https://open.spotify.com/track/3KIMz0gFb6UlwjGaxGEtQk) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lágrimas](https://open.spotify.com/album/5yEunu5lGVvGdi2bGgZ7Ne) | 4:27 | 2022-03-08 | 2022-07-14 |
 | [Línea Divisoria](https://open.spotify.com/track/44zhGkykeYepwQ2LXopoGS) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Línea Divisoria](https://open.spotify.com/album/6jQGCRmZrfhrQzhO8SrnAY) | 2:54 | 2024-04-19 | 2024-05-10 |
+| [MALA](https://open.spotify.com/track/5zmOqNbUyYFRKzmwFauNgj) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw), [Cacho Deicas](https://open.spotify.com/artist/0rekO119G0yO5gjzM4nxZ2) | [MALA](https://open.spotify.com/album/1ntZkQLCuUz5G5wlUPO8ar) | 3:17 | 2026-04-23 |  |
 | [Maldita flor](https://open.spotify.com/track/72Oc0OIk1j0UfMkq9zV79L) | [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR), [El Suppe'r De Oro](https://open.spotify.com/artist/5YcTv2UEkzSdBgDUlCHSya) | [Maldita Flor](https://open.spotify.com/album/02pZs137dI76WI0aNsHMz6) | 3:02 | 2023-12-08 | 2024-02-24 |
 | [Maldita Traidora](https://open.spotify.com/track/7lqkZf6ACHHZN8OMYkwJKA) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Maldita Traidora](https://open.spotify.com/album/1z8zIqVzGUC6SbO2RpTMXi) | 4:06 | 2022-07-15 | 2022-08-13 |
 | [Maldito Amor](https://open.spotify.com/track/5NlBak3CleM03JgyFHcHET) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Maldito Amor](https://open.spotify.com/album/4GCmuw2jffd56b9EHXGkSn) | 3:13 | 2024-05-03 | 2024-07-12 |
@@ -458,7 +459,7 @@
 | [Sigues En Mi Vida](https://open.spotify.com/track/68HfjBvYwUAFu3rRAGS1U7) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Sigues En Mi Vida](https://open.spotify.com/album/6g9RsKEGLj7Yz6SSaXDko7) | 2:57 | 2023-09-08 | 2023-09-12 |
 | [Siguiendo La Luna](https://open.spotify.com/track/6P36zQKLdaW8WBUqmmqmpH) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Messirve Mix 7](https://open.spotify.com/album/4eHuMe6gkLf1XkXN3Hu3nS) | 2:44 | 2023-09-08 | 2024-07-29 |
 | [Sin Ti No Sé Vivir](https://open.spotify.com/track/2tkeEsJUjKLM1zKeWJ3RqU) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:44 | 2024-04-24 |  |
-| [Sin Valentín](https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Sin Valentín](https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj) | 2:41 | 2024-02-16 |  |
+| [Sin Valentín](https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Sin Valentín](https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj) | 2:41 | 2024-02-16 | 2026-04-24 |
 | [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/track/2xbH0CuDbid800YW5nMPzR) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/album/2j4yf0X00zieL424k90UVn) | 3:37 | 2023-12-09 |  |
 | [Solo](https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Solo](https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45) | 3:13 | 2023-12-08 | 2025-11-29 |
 | [Solo Parecia Amor](https://open.spotify.com/track/5tNMJdmknM2S0lOpknjNVM) | [La Sonora Gigante](https://open.spotify.com/artist/3Ky0xtfzwZFKcZ5Zs1U8tn) | [Solo Parecía Amor](https://open.spotify.com/album/1andvP8dyAISy4SH1Z5NxH) | 3:44 | 2022-04-01 | 2022-06-22 |

@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 599791,
+  "num_followers": 599859,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAADeXJQURRlzn5mKtC3DE10c",
+  "snapshot_id": "aegPgAAAAADUvYEUdm7ae0Uf/R12n/4Y",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Charlotte Sometimes - Single 10/81",
+      "url": "https://open.spotify.com/track/5WcWhs1VKAAnfinQqXEXv7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap"
       },
@@ -519,30 +535,6 @@
       "duration_ms": 250653,
       "name": "Cut Here",
       "url": "https://open.spotify.com/track/1SuAd1VNCDpM2ovs1ic9tN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boys Don\u2019t Cry (86 Mix)",
-        "url": "https://open.spotify.com/album/5gVuFLvXh1tP2YR0hjs9w8"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        },
-        {
-          "name": "Robert Smith",
-          "url": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
-        },
-        {
-          "name": "David M. Allen",
-          "url": "https://open.spotify.com/artist/3KPbOeJNTdNFUOiBaXuuZg"
-        }
-      ],
-      "duration_ms": 158264,
-      "name": "Boys Don't Cry - 86 Mix / 2026 Remaster",
-      "url": "https://open.spotify.com/track/3nvGvWWUb5onTp6KjtGXvA"
     },
     {
       "added_at": null,
@@ -579,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "Charlotte Sometimes - Single 10/81",
-      "url": "https://open.spotify.com/track/5WcWhs1VKAAnfinQqXEXv7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Disintegration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
       },
@@ -611,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs Of A Lost World",
-        "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 257418,
-      "name": "Warsong",
-      "url": "https://open.spotify.com/track/2xKKz8S1y8F7aGzwK4oi1m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Disintegration (Remastered)",
         "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
       },
@@ -639,6 +599,22 @@
       "duration_ms": 367426,
       "name": "Prayers For Rain - Remastered",
       "url": "https://open.spotify.com/track/7mJ8LgmL8VX9jJGgqbbzFv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs Of A Lost World",
+        "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 257418,
+      "name": "Warsong",
+      "url": "https://open.spotify.com/track/2xKKz8S1y8F7aGzwK4oi1m"
     },
     {
       "added_at": null,
@@ -675,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/1jkKKIpXPmCFr7m815t8th"
       },
       "artists": [
         {
@@ -684,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 279826,
-      "name": "To Wish Impossible Things",
-      "url": "https://open.spotify.com/track/69MyxFlOm2ennzuE2FqeM1"
+      "duration_ms": 142733,
+      "name": "Killing An Arab",
+      "url": "https://open.spotify.com/track/1adtXXpTDkhVhfV5oUq3YQ"
     },
     {
       "added_at": null,
@@ -707,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Staring At The Sea - The Singles",
-        "url": "https://open.spotify.com/album/5JLKZcOSNXcm6xaX1vI7nB"
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
       },
       "artists": [
         {
@@ -716,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 141800,
-      "name": "Killing An Arab",
-      "url": "https://open.spotify.com/track/1LpZAbTRcP46SqdJXCPIl9"
+      "duration_ms": 279826,
+      "name": "To Wish Impossible Things",
+      "url": "https://open.spotify.com/track/69MyxFlOm2ennzuE2FqeM1"
     },
     {
       "added_at": null,
@@ -739,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
       },
       "artists": [
         {
@@ -748,9 +724,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 261959,
-      "name": "Doing The Unstuck",
-      "url": "https://open.spotify.com/track/5QhM82aoKuEdqbMHcI617o"
+      "duration_ms": 195693,
+      "name": "Three Imaginary Boys",
+      "url": "https://open.spotify.com/track/2rgYH8S363FAP3vunkUHnB"
     },
     {
       "added_at": null,
@@ -771,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 261959,
+      "name": "Doing The Unstuck",
+      "url": "https://open.spotify.com/track/5QhM82aoKuEdqbMHcI617o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Head on the Door (Deluxed Edition)",
         "url": "https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk"
       },
@@ -787,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Imaginary Boys",
-        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Three Imaginary Boys",
-      "url": "https://open.spotify.com/track/2rgYH8S363FAP3vunkUHnB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seventeen Seconds",
         "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
       },
@@ -815,6 +791,22 @@
       "duration_ms": 199000,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/59r1yue8AEBRWFJZ8kLwnj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 169306,
+      "name": "Grinding Halt",
+      "url": "https://open.spotify.com/track/4wJGF0EeEgwX8mBJcbwESi"
     }
   ],
   "unique_name": "This Is The Cure",

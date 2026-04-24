@@ -1,12 +1,12 @@
 {
   "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
-  "num_followers": 127041,
+  "num_followers": 127050,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAACnogyC7nItTrtPBko6b2WY",
+  "snapshot_id": "aegPgAAAAAC7l5ujRQ8QdAELeJTuRNaO",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contacto De Emergencia",
-        "url": "https://open.spotify.com/album/2rLUgPhoDY4H6f6q020PYN"
+        "name": "Me Enamora",
+        "url": "https://open.spotify.com/album/1dig8YSzW8UrxJ89D1iSC2"
       },
       "artists": [
-        {
-          "name": "Hermanos Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/4t75tim4RSC1FXQJcHXS4x"
-        },
         {
           "name": "Mau y Ricky",
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 175704,
-      "name": "Contacto De Emergencia",
-      "url": "https://open.spotify.com/track/27TSgyzZB3nNfknU4QoiKe"
+      "duration_ms": 168167,
+      "name": "Me Enamora",
+      "url": "https://open.spotify.com/track/2hdhH9YsYQInj4NYU75XZZ"
     },
     {
       "added_at": null,
@@ -475,18 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Enamora",
-        "url": "https://open.spotify.com/album/1dig8YSzW8UrxJ89D1iSC2"
+        "name": "Contacto De Emergencia",
+        "url": "https://open.spotify.com/album/2rLUgPhoDY4H6f6q020PYN"
       },
       "artists": [
+        {
+          "name": "Hermanos Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/4t75tim4RSC1FXQJcHXS4x"
+        },
         {
           "name": "Mau y Ricky",
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 168167,
-      "name": "Me Enamora",
-      "url": "https://open.spotify.com/track/2hdhH9YsYQInj4NYU75XZZ"
+      "duration_ms": 175704,
+      "name": "Contacto De Emergencia",
+      "url": "https://open.spotify.com/track/27TSgyzZB3nNfknU4QoiKe"
     },
     {
       "added_at": null,
@@ -571,6 +571,30 @@
       "duration_ms": 188546,
       "name": "Cachito",
       "url": "https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3 de La Ma\u00f1ana (con Sebasti\u00e1n Yatra & Mora)",
+        "url": "https://open.spotify.com/album/1VdsA2Ed7ur8KsPgSLqNNt"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 220773,
+      "name": "3 de La Ma\u00f1ana - con Sebasti\u00e1n Yatra & Mora",
+      "url": "https://open.spotify.com/track/1PkE8LrFiHRqMq4Ik3w1pk"
     },
     {
       "added_at": null,
@@ -667,30 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "3 de La Ma\u00f1ana (con Sebasti\u00e1n Yatra & Mora)",
-        "url": "https://open.spotify.com/album/1VdsA2Ed7ur8KsPgSLqNNt"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 220773,
-      "name": "3 de La Ma\u00f1ana - con Sebasti\u00e1n Yatra & Mora",
-      "url": "https://open.spotify.com/track/1PkE8LrFiHRqMq4Ik3w1pk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9 Dir\u00edas?",
         "url": "https://open.spotify.com/album/6nz3906mjf2FD4EiuzBrGM"
       },
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cocoterapia",
-        "url": "https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 160653,
-      "name": "Hijos Contigo",
-      "url": "https://open.spotify.com/track/3m4nEtqr8vaHJCfc6yjasu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AFROROCKSTAR",
         "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
       },
@@ -771,6 +751,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cocoterapia",
+        "url": "https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 160653,
+      "name": "Hijos Contigo",
+      "url": "https://open.spotify.com/track/3m4nEtqr8vaHJCfc6yjasu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hotel Caracas",
         "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "desmaquillada",
-        "url": "https://open.spotify.com/album/5RMmoWngZf5SH607oGSZyc"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "desmaquillada",
-      "url": "https://open.spotify.com/track/2qh6SULIPKrCBnaXxE1cGZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "rifresh",
         "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 177515,
       "name": "Doler\u00eda",
       "url": "https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "desmaquillada",
+        "url": "https://open.spotify.com/album/5RMmoWngZf5SH607oGSZyc"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "desmaquillada",
+      "url": "https://open.spotify.com/track/2qh6SULIPKrCBnaXxE1cGZ"
     },
     {
       "added_at": null,
@@ -947,6 +947,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hotel Caracas",
+        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "Gran D\u00eda",
+      "url": "https://open.spotify.com/track/02F3ap4jOzK7Yhjv102C9B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ya No Tiene Novio (Remix)",
         "url": "https://open.spotify.com/album/5DhvMwwdPorHfK7Aihfrc3"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 212053,
       "name": "Ya No Tiene Novio - Remix",
       "url": "https://open.spotify.com/track/7o3FMIu6KldnAwXaA8MO8x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hotel Caracas",
-        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "Gran D\u00eda",
-      "url": "https://open.spotify.com/track/02F3ap4jOzK7Yhjv102C9B"
     },
     {
       "added_at": null,
@@ -1031,26 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home Alone",
-        "url": "https://open.spotify.com/album/0Bfeaf1WqowUo8XndE8YC4"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 146165,
-      "name": "Home Alone",
-      "url": "https://open.spotify.com/track/7ogQ0MiP4rmNLiGvJzFmuH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una y Mil Veces",
         "url": "https://open.spotify.com/album/6lOhEec0gHybly7uWWCRWa"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 182608,
       "name": "Una y Mil Veces",
       "url": "https://open.spotify.com/track/4s0BDnatQJ5uL4BcrOfMG6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home Alone",
+        "url": "https://open.spotify.com/album/0Bfeaf1WqowUo8XndE8YC4"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 146165,
+      "name": "Home Alone",
+      "url": "https://open.spotify.com/track/7ogQ0MiP4rmNLiGvJzFmuH"
     },
     {
       "added_at": null,

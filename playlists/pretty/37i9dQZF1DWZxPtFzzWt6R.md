@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: André e Felipe
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,310 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,349 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 20 | [Estou Contigo](https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Estou Contigo](https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE) | 4:09 |
 | 21 | [Situações](https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Situações](https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq) | 4:21 |
 | 22 | [Deus Está Fazendo \- Ao Vivo](https://open.spotify.com/track/4BWA1SCzCG5R312tqdfKBW) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Deus Está Fazendo \(Ao Vivo\)](https://open.spotify.com/album/7hVYHjv7SanNhMK7Nz8ArO) | 5:28 |
-| 23 | [Estou de Volta](https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Estou de Volta](https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf) | 4:05 |
-| 24 | [Melhor Herança](https://open.spotify.com/track/5BH8Z8orl7N5g8h4IcovGU) | [Guilherme Franco](https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Melhor Herança](https://open.spotify.com/album/3skNvqzrC2VlUwrcziueQ5) | 3:52 |
+| 23 | [Melhor Herança](https://open.spotify.com/track/5BH8Z8orl7N5g8h4IcovGU) | [Guilherme Franco](https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Melhor Herança](https://open.spotify.com/album/3skNvqzrC2VlUwrcziueQ5) | 3:52 |
+| 24 | [Estou de Volta](https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Estou de Volta](https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf) | 4:05 |
 | 25 | [Você É Especial \- Voz e Violão](https://open.spotify.com/track/7ClfYG4BrlyAP3bbv4Xk1w) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Voz e Violão \- Parte 2](https://open.spotify.com/album/64mh0kkVSRHTxCg0gv9Eqk) | 5:24 |
 | 26 | [Você Vai Sobreviver \(Ao Vivo\)](https://open.spotify.com/track/3O7CFkDcQvP9aYcSCu4cQ9) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ), [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Você Vai Sobreviver \(Ao Vivo\)](https://open.spotify.com/album/4AUVnFwTVktFH2Dq5DcJzh) | 4:34 |
 | 27 | [Um Lugar à Mesa](https://open.spotify.com/track/3GzxRfmVOXIcnzpdeFsn1e) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH), [É Gospel Music](https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm) | [Um Lugar à Mesa](https://open.spotify.com/album/0kf7qdQiYbMYscCt17cBW4) | 4:00 |

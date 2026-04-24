@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Ricus Nel\n",
-  "num_followers": 145236,
+  "num_followers": 145268,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Tina Tequila",
-        "url": "https://open.spotify.com/album/6GzJ2540kUZMNhARYbKL61"
-      },
-      "artists": [
-        {
-          "name": "Snotkop",
-          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Tina Tequila",
-      "url": "https://open.spotify.com/track/2PYRlFXrmNfaZbZNzy8AZP"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
         "name": "Insecure Meisies",
         "url": "https://open.spotify.com/album/18J2iHoPYYYPci1BiNeR34"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 191562,
       "name": "Insecure Meisies",
       "url": "https://open.spotify.com/track/3DKD5cBeHWnLgXh60317vS"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
+        "name": "Tina Tequila",
+        "url": "https://open.spotify.com/album/6GzJ2540kUZMNhARYbKL61"
+      },
+      "artists": [
+        {
+          "name": "Snotkop",
+          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Tina Tequila",
+      "url": "https://open.spotify.com/track/2PYRlFXrmNfaZbZNzy8AZP"
     },
     {
       "added_at": "2026-03-19 22:00:29",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
+        "name": "NIE M\u00d4RE NIE NOU",
+        "url": "https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv"
+      },
+      "artists": [
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "NIE M\u00d4RE NIE NOU",
+      "url": "https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
         "name": "100%",
         "url": "https://open.spotify.com/album/2axcE5ad6XVpFn0Szm2auS"
       },
@@ -599,38 +615,6 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "NIE M\u00d4RE NIE NOU",
-        "url": "https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv"
-      },
-      "artists": [
-        {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "NIE M\u00d4RE NIE NOU",
-      "url": "https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 191303,
-      "name": "Toer Om Die Vloer",
-      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
         "name": "Shotgun",
         "url": "https://open.spotify.com/album/6bD7UoKiKmCn78sgmmNc1F"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 192375,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/4622PJsgP3VeR8iayvdh1G"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 191303,
+      "name": "Toer Om Die Vloer",
+      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Rooi Vlag",
-        "url": "https://open.spotify.com/album/3P4iOMpuH73tPAvNLZjw45"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 246393,
-      "name": "Rooi Vlag",
-      "url": "https://open.spotify.com/track/1hmxEM9ACNWYDDbcJc4pNU"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
         "name": "Naam",
         "url": "https://open.spotify.com/album/7oZjPk8MmOMPGNoT1QIB47"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 161242,
       "name": "Naam",
       "url": "https://open.spotify.com/track/5tslIhk3YswIdnUuiyeYhr"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
+        "name": "Rooi Vlag",
+        "url": "https://open.spotify.com/album/3P4iOMpuH73tPAvNLZjw45"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 246393,
+      "name": "Rooi Vlag",
+      "url": "https://open.spotify.com/track/1hmxEM9ACNWYDDbcJc4pNU"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Kom Klop Weer",
-        "url": "https://open.spotify.com/album/0WOG7BXSflSIEor7Bj7vkc"
-      },
-      "artists": [
-        {
-          "name": "EDEN",
-          "url": "https://open.spotify.com/artist/6ow8mYGgzgpcTKcSJzKCiu"
-        }
-      ],
-      "duration_ms": 175147,
-      "name": "Kom Klop Weer",
-      "url": "https://open.spotify.com/track/47EtqjVFxnOCu7qK6c53h4"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
         "name": "Jannaman",
         "url": "https://open.spotify.com/album/6uY8Agjsp4ZtoRmpeub2ss"
       },
@@ -935,6 +919,22 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
+        "name": "Kom Klop Weer",
+        "url": "https://open.spotify.com/album/0WOG7BXSflSIEor7Bj7vkc"
+      },
+      "artists": [
+        {
+          "name": "EDEN",
+          "url": "https://open.spotify.com/artist/6ow8mYGgzgpcTKcSJzKCiu"
+        }
+      ],
+      "duration_ms": 175147,
+      "name": "Kom Klop Weer",
+      "url": "https://open.spotify.com/track/47EtqjVFxnOCu7qK6c53h4"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
         "name": "Hart Breek",
         "url": "https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 200347,
       "name": "Hart Breek",
       "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
-        "name": "Hallo My Maatjie",
-        "url": "https://open.spotify.com/album/7gdqvTxXpNWVstcYyEnBn7"
-      },
-      "artists": [
-        {
-          "name": "Kurt Darren",
-          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
-        }
-      ],
-      "duration_ms": 220645,
-      "name": "Hallo My Maatjie",
-      "url": "https://open.spotify.com/track/3r3zDbUJUzOl4Ob78Pgrfx"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -985,20 +969,20 @@
       "url": "https://open.spotify.com/track/5aDU1syQZmoTu0aK0Quyg5"
     },
     {
-      "added_at": "2026-03-19 22:00:29",
+      "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Sou Jy?",
-        "url": "https://open.spotify.com/album/3hkbPe7j0dAIlMuJZCWb9M"
+        "name": "Hallo My Maatjie",
+        "url": "https://open.spotify.com/album/7gdqvTxXpNWVstcYyEnBn7"
       },
       "artists": [
         {
-          "name": "ONS",
-          "url": "https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb"
+          "name": "Kurt Darren",
+          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
         }
       ],
-      "duration_ms": 181682,
-      "name": "Sou Jy?",
-      "url": "https://open.spotify.com/track/68pECvdhIrrj081ww8E0IA"
+      "duration_ms": 220645,
+      "name": "Hallo My Maatjie",
+      "url": "https://open.spotify.com/track/3r3zDbUJUzOl4Ob78Pgrfx"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -1049,6 +1033,22 @@
       "url": "https://open.spotify.com/track/6fqNmXtn5MYZZYZwoxZSUx"
     },
     {
+      "added_at": "2026-03-19 22:00:29",
+      "album": {
+        "name": "Sou Jy?",
+        "url": "https://open.spotify.com/album/3hkbPe7j0dAIlMuJZCWb9M"
+      },
+      "artists": [
+        {
+          "name": "ONS",
+          "url": "https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb"
+        }
+      ],
+      "duration_ms": 181682,
+      "name": "Sou Jy?",
+      "url": "https://open.spotify.com/track/68pECvdhIrrj081ww8E0IA"
+    },
+    {
       "added_at": "2026-03-06 00:47:11",
       "album": {
         "name": "Klein Dingetjies",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Wil Jy Bly",
-        "url": "https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg"
-      },
-      "artists": [
-        {
-          "name": "Wentzel",
-          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
-        }
-      ],
-      "duration_ms": 187391,
-      "name": "Wil Jy Bly",
-      "url": "https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
         "name": "Omdat Jy Mag",
         "url": "https://open.spotify.com/album/7LirHLS54ZKI9uw3lozUdt"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 213000,
       "name": "Madelein",
       "url": "https://open.spotify.com/track/1xk3eXx6BqFD1cpfvGQjry"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
+        "name": "Wil Jy Bly",
+        "url": "https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg"
+      },
+      "artists": [
+        {
+          "name": "Wentzel",
+          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
+        }
+      ],
+      "duration_ms": 187391,
+      "name": "Wil Jy Bly",
+      "url": "https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb"
     },
     {
       "added_at": "2026-03-06 00:47:11",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-03-06 00:47:11",
       "album": {
-        "name": "Diepseeduiker 17",
-        "url": "https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz"
-      },
-      "artists": [
-        {
-          "name": "Die Piesangskille",
-          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
-        }
-      ],
-      "duration_ms": 165149,
-      "name": "Diepseeduiker 17",
-      "url": "https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu"
-    },
-    {
-      "added_at": "2026-03-06 00:47:11",
-      "album": {
         "name": "Meisie wat kan Vasdans",
         "url": "https://open.spotify.com/album/4OGhDNthF0LKgkaKEKFmec"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 199593,
       "name": "Meisie wat kan Vasdans",
       "url": "https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn"
+    },
+    {
+      "added_at": "2026-03-06 00:47:11",
+      "album": {
+        "name": "Diepseeduiker 17",
+        "url": "https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "duration_ms": 165149,
+      "name": "Diepseeduiker 17",
+      "url": "https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu"
     },
     {
       "added_at": "2026-03-06 00:47:11",

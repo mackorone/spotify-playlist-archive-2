@@ -11569,6 +11569,28 @@
     },
     {
       "album": {
+        "name": "I'll Follow",
+        "url": "https://open.spotify.com/album/5sFllkcvCrmGt2qzym5xxl"
+      },
+      "artists": [
+        {
+          "name": "Palmero",
+          "url": "https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn"
+        },
+        {
+          "name": "Nico Sol",
+          "url": "https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115636,
+      "name": "I'll Follow",
+      "url": "https://open.spotify.com/track/2tMAfaYEUXy7EveuutkMTd"
+    },
+    {
+      "album": {
         "name": "I'm Good",
         "url": "https://open.spotify.com/album/7FptgpHqLvYf6sgYhiey41"
       },
@@ -28746,6 +28768,32 @@
       "duration_ms": 127578,
       "name": "You're Not There",
       "url": "https://open.spotify.com/track/06sM4pTTiD9JWxleV7Uc4e"
+    },
+    {
+      "album": {
+        "name": "You're On My Mind",
+        "url": "https://open.spotify.com/album/20qYbl8xZfqVdrU8HLTwKd"
+      },
+      "artists": [
+        {
+          "name": "Dallien",
+          "url": "https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ"
+        },
+        {
+          "name": "Aizu",
+          "url": "https://open.spotify.com/artist/6tAUpk1pE9QXUrDSMbPn81"
+        },
+        {
+          "name": "Danny CLLS",
+          "url": "https://open.spotify.com/artist/6d3nH8GbnopYSzp2u5qaFG"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161454,
+      "name": "You're On My Mind",
+      "url": "https://open.spotify.com/track/0NuRQ8T08FBaoWm0fYIHbN"
     },
     {
       "album": {

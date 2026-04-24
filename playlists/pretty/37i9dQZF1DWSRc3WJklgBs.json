@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
-  "num_followers": 1257731,
+  "num_followers": 1257718,
   "original_name": "Heart Beats",
   "owner": {
     "name": "Spotify",
@@ -443,8 +443,8 @@
     {
       "added_at": "2026-04-17 05:00:08",
       "album": {
-        "name": "SHADOWS",
-        "url": "https://open.spotify.com/album/2kjMYQKKsGLAivQKy6Hbtp"
+        "name": "CTRL ESCAPE",
+        "url": "https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e"
       },
       "artists": [
         {
@@ -452,13 +452,17 @@
           "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
         }
       ],
-      "duration_ms": 201739,
-      "name": "SHADOWS",
-      "url": "https://open.spotify.com/track/7esJ56tKqU6aWABAdJJrFR"
+      "duration_ms": 203076,
+      "name": "SHADES OF BLUE",
+      "url": "https://open.spotify.com/track/6Pr51Pbeeu9PXskLUBfaBf"
     },
     {
       "added_at": "2026-04-17 05:00:08",
@@ -511,22 +515,18 @@
     {
       "added_at": "2026-04-17 05:00:08",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF"
+        "name": "The Sun Comes Up Tremendous",
+        "url": "https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         }
       ],
-      "duration_ms": 219087,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W"
+      "duration_ms": 213284,
+      "name": "The Sun Comes Up Tremendous",
+      "url": "https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU"
     },
     {
       "added_at": "2026-04-17 05:00:08",
@@ -551,8 +551,8 @@
     {
       "added_at": "2026-04-17 05:00:08",
       "album": {
-        "name": "CTRL ESCAPE",
-        "url": "https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e"
+        "name": "SHADOWS",
+        "url": "https://open.spotify.com/album/2kjMYQKKsGLAivQKy6Hbtp"
       },
       "artists": [
         {
@@ -560,17 +560,13 @@
           "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
         }
       ],
-      "duration_ms": 203076,
-      "name": "SHADES OF BLUE",
-      "url": "https://open.spotify.com/track/6Pr51Pbeeu9PXskLUBfaBf"
+      "duration_ms": 201739,
+      "name": "SHADOWS",
+      "url": "https://open.spotify.com/track/7esJ56tKqU6aWABAdJJrFR"
     },
     {
       "added_at": "2026-04-17 05:00:08",
@@ -591,18 +587,22 @@
     {
       "added_at": "2026-04-17 05:00:08",
       "album": {
-        "name": "The Sun Comes Up Tremendous",
-        "url": "https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB"
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF"
       },
       "artists": [
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
         }
       ],
-      "duration_ms": 213284,
-      "name": "The Sun Comes Up Tremendous",
-      "url": "https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU"
+      "duration_ms": 219087,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W"
     },
     {
       "added_at": "2026-04-17 05:00:08",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2026-04-17 05:00:08",
       "album": {
-        "name": "Found Love",
-        "url": "https://open.spotify.com/album/57eCaYt4N19oDxYyDVeSY4"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Von Boch",
-          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
-        }
-      ],
-      "duration_ms": 200778,
-      "name": "Found Love",
-      "url": "https://open.spotify.com/track/1mO3hOEayERMNUGIpAwImF"
-    },
-    {
-      "added_at": "2026-04-17 05:00:08",
-      "album": {
         "name": "Postcard (All I Need Is You)",
         "url": "https://open.spotify.com/album/66Wb8qYgqeVHPrx9suY0Us"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 181406,
       "name": "Postcard (All I Need Is You)",
       "url": "https://open.spotify.com/track/4BvrNG6oB6caIU7to1JKtC"
+    },
+    {
+      "added_at": "2026-04-17 05:00:08",
+      "album": {
+        "name": "Found Love",
+        "url": "https://open.spotify.com/album/57eCaYt4N19oDxYyDVeSY4"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Von Boch",
+          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
+        }
+      ],
+      "duration_ms": 200778,
+      "name": "Found Love",
+      "url": "https://open.spotify.com/track/1mO3hOEayERMNUGIpAwImF"
     },
     {
       "added_at": "2026-04-17 05:00:08",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-04-17 05:00:08",
       "album": {
+        "name": "Call You Mine",
+        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "duration_ms": 209696,
+      "name": "Call You Mine",
+      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
+    },
+    {
+      "added_at": "2026-04-17 05:00:08",
+      "album": {
         "name": "You & Me (Always Forever)",
         "url": "https://open.spotify.com/album/4C1eeJfuCEclF1gqK0jdij"
       },
@@ -1647,22 +1663,6 @@
     {
       "added_at": "2026-04-17 05:00:08",
       "album": {
-        "name": "Call You Mine",
-        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
-      },
-      "artists": [
-        {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
-        }
-      ],
-      "duration_ms": 209696,
-      "name": "Call You Mine",
-      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
-    },
-    {
-      "added_at": "2026-04-17 05:00:08",
-      "album": {
         "name": "High Like The Sky",
         "url": "https://open.spotify.com/album/6ooNDxGpXpFhithnfnyH1l"
       },
@@ -1675,26 +1675,6 @@
       "duration_ms": 182682,
       "name": "High Like The Sky",
       "url": "https://open.spotify.com/track/29VlrhOYEm3gowUKINZU6Q"
-    },
-    {
-      "added_at": "2026-04-17 05:00:08",
-      "album": {
-        "name": "Never Alone (feat. Lizzy Land)",
-        "url": "https://open.spotify.com/album/7GKJoW41JkfL76AmAJmbn8"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
-        }
-      ],
-      "duration_ms": 204179,
-      "name": "Never Alone (feat. Lizzy Land)",
-      "url": "https://open.spotify.com/track/1UAY4CHyzaFtqZDQ8z63GS"
     },
     {
       "added_at": "2026-04-17 05:00:08",
@@ -1739,6 +1719,26 @@
       "duration_ms": 187816,
       "name": "You Can't Hide",
       "url": "https://open.spotify.com/track/3CIVAiVxbssafeLkXvtQhM"
+    },
+    {
+      "added_at": "2026-04-17 05:00:08",
+      "album": {
+        "name": "Never Alone (feat. Lizzy Land)",
+        "url": "https://open.spotify.com/album/7GKJoW41JkfL76AmAJmbn8"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 204179,
+      "name": "Never Alone (feat. Lizzy Land)",
+      "url": "https://open.spotify.com/track/1UAY4CHyzaFtqZDQ8z63GS"
     },
     {
       "added_at": "2026-04-17 05:00:08",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2026-04-17 05:00:08",
       "album": {
-        "name": "SOMETHING BEAUTIFUL",
-        "url": "https://open.spotify.com/album/5nlLoucrt60fwMDRp6BfIQ"
-      },
-      "artists": [
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        }
-      ],
-      "duration_ms": 111566,
-      "name": "SOMETHING BEAUTIFUL",
-      "url": "https://open.spotify.com/track/7wecYEdY8NUL3H4ARYZ8jz"
-    },
-    {
-      "added_at": "2026-04-17 05:00:08",
-      "album": {
         "name": "Shivers",
         "url": "https://open.spotify.com/album/5UNCKKmrFhunNqn8GJo0Yj"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 165120,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/2Aaq0FavPjpJHA17Ux488k"
+    },
+    {
+      "added_at": "2026-04-17 05:00:08",
+      "album": {
+        "name": "SOMETHING BEAUTIFUL",
+        "url": "https://open.spotify.com/album/5nlLoucrt60fwMDRp6BfIQ"
+      },
+      "artists": [
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        }
+      ],
+      "duration_ms": 111566,
+      "name": "SOMETHING BEAUTIFUL",
+      "url": "https://open.spotify.com/track/7wecYEdY8NUL3H4ARYZ8jz"
     },
     {
       "added_at": "2026-04-17 05:00:08",
@@ -2339,26 +2339,6 @@
     {
       "added_at": "2026-04-17 05:00:08",
       "album": {
-        "name": "Shades",
-        "url": "https://open.spotify.com/album/16vgihjplSgXYRfEYTHKCS"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Shades",
-      "url": "https://open.spotify.com/track/3mjieZNrw6iPjcMI9VuhAP"
-    },
-    {
-      "added_at": "2026-04-17 05:00:08",
-      "album": {
         "name": "thinkin bout u",
         "url": "https://open.spotify.com/album/0F0x6VOHnHEWOiPhqAcEAK"
       },
@@ -2379,6 +2359,26 @@
       "duration_ms": 218854,
       "name": "thinkin bout u",
       "url": "https://open.spotify.com/track/7cKk67Ej2gfP1tnrcA6hje"
+    },
+    {
+      "added_at": "2026-04-17 05:00:08",
+      "album": {
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/16vgihjplSgXYRfEYTHKCS"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Shades",
+      "url": "https://open.spotify.com/track/3mjieZNrw6iPjcMI9VuhAP"
     },
     {
       "added_at": "2026-04-17 05:00:08",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2026-04-17 05:00:08",
       "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/5kP4nlkyCH0sN4SzIYn1CB"
-      },
-      "artists": [
-        {
-          "name": "Drove",
-          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
-        }
-      ],
-      "duration_ms": 257280,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/75uldGgorOSKghc7FBPL72"
-    },
-    {
-      "added_at": "2026-04-17 05:00:08",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/4sMMQskdXE5TJn62BHulqy"
       },
@@ -2471,6 +2455,22 @@
       "duration_ms": 202935,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/3bX3KMbLrkbxUb4p1jzaus"
+    },
+    {
+      "added_at": "2026-04-17 05:00:08",
+      "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/5kP4nlkyCH0sN4SzIYn1CB"
+      },
+      "artists": [
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        }
+      ],
+      "duration_ms": 257280,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/75uldGgorOSKghc7FBPL72"
     },
     {
       "added_at": "2026-04-17 05:00:08",
@@ -2671,6 +2671,22 @@
     {
       "added_at": "2026-04-17 05:00:08",
       "album": {
+        "name": "Some Kind of Alchemy",
+        "url": "https://open.spotify.com/album/4OOGYZfiKbOdWnu6lS78o3"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 209002,
+      "name": "Eraser",
+      "url": "https://open.spotify.com/track/2CXpZvW1IKuBJ9MeHeFz1T"
+    },
+    {
+      "added_at": "2026-04-17 05:00:08",
+      "album": {
         "name": "still my ecstasy",
         "url": "https://open.spotify.com/album/1bVkaUfxcY95LEuw1DngnD"
       },
@@ -2687,22 +2703,6 @@
       "duration_ms": 272769,
       "name": "still my ecstasy",
       "url": "https://open.spotify.com/track/2X3wZs9oHBDnN4MIMSFepV"
-    },
-    {
-      "added_at": "2026-04-17 05:00:08",
-      "album": {
-        "name": "Some Kind of Alchemy",
-        "url": "https://open.spotify.com/album/4OOGYZfiKbOdWnu6lS78o3"
-      },
-      "artists": [
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 209002,
-      "name": "Eraser",
-      "url": "https://open.spotify.com/track/2CXpZvW1IKuBJ9MeHeFz1T"
     },
     {
       "added_at": "2026-04-17 05:00:08",
@@ -2787,6 +2787,26 @@
     {
       "added_at": "2026-04-17 05:00:08",
       "album": {
+        "name": "Holding Your Hand",
+        "url": "https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 152603,
+      "name": "Holding Your Hand",
+      "url": "https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y"
+    },
+    {
+      "added_at": "2026-04-17 05:00:08",
+      "album": {
         "name": "Fly Away (VisionV Remix)",
         "url": "https://open.spotify.com/album/1lbZ4ecQSVlZAtL8hDewja"
       },
@@ -2807,26 +2827,6 @@
       "duration_ms": 176585,
       "name": "Fly Away - VisionV Remix",
       "url": "https://open.spotify.com/track/1p0oulKZjkdrGSTekew8tH"
-    },
-    {
-      "added_at": "2026-04-17 05:00:08",
-      "album": {
-        "name": "Holding Your Hand",
-        "url": "https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ"
-      },
-      "artists": [
-        {
-          "name": "SACHI",
-          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 152603,
-      "name": "Holding Your Hand",
-      "url": "https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y"
     },
     {
       "added_at": "2026-04-17 05:00:08",
@@ -3143,22 +3143,6 @@
     {
       "added_at": "2026-04-17 05:00:08",
       "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/49kc12hoXV2SNlWV4URmrj"
-      },
-      "artists": [
-        {
-          "name": "Megra",
-          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
-        }
-      ],
-      "duration_ms": 222089,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/6x1Jhg9iL48RDdsqPvqibR"
-    },
-    {
-      "added_at": "2026-04-17 05:00:08",
-      "album": {
         "name": "Rely On Me",
         "url": "https://open.spotify.com/album/44OIx0KOXof9FAgDE4PXks"
       },
@@ -3175,6 +3159,22 @@
       "duration_ms": 205799,
       "name": "Rely On Me",
       "url": "https://open.spotify.com/track/73ESZmsTYNChN3z1x2nhy8"
+    },
+    {
+      "added_at": "2026-04-17 05:00:08",
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/49kc12hoXV2SNlWV4URmrj"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "duration_ms": 222089,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/6x1Jhg9iL48RDdsqPvqibR"
     },
     {
       "added_at": "2026-04-17 05:00:08",

@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 78010,
+  "num_followers": 78015,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,26 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "See It As A Sign",
+        "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 174204,
+      "name": "See It As A Sign",
+      "url": "https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "Hallucinating Love",
         "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 170526,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "See It As A Sign",
-        "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 174204,
-      "name": "See It As A Sign",
-      "url": "https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o"
     },
     {
       "added_at": "2025-12-03 12:15:55",

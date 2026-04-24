@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day\. Cover: Tank and The Bangas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,013,567 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,013,524 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 96 | [These Eyes](https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:40 |
 | 97 | [The Way I Feel](https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh) | [Remy Shand](https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt) | [The Way I Feel](https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2) | 5:01 |
 | 98 | [She Keeps Calling](https://open.spotify.com/track/1hG55qzxbHuGaPfAhCPgoF) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [She Keeps Calling](https://open.spotify.com/album/04pWdxoC5371dvrDgzDIBO) | 2:23 |
-| 99 | [Nobody’s Perfect](https://open.spotify.com/track/4gGuLljBIa0c3Buk4aGT0H) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Suite Escape](https://open.spotify.com/album/5o6C3eDwWn5GJN0DKZN45i) | 4:00 |
-| 100 | [All I Want Is You \[Feat\. October London\]](https://open.spotify.com/track/2YKgKQeaYc2sIZIGooyLw0) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [All I Want Is You \[Feat\. October London\]](https://open.spotify.com/album/6J9R7EmL3lIrfnXzZwxRB8) | 3:20 |
+| 99 | [Take You There](https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Take You There](https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR) | 3:32 |
+| 100 | [Nobody’s Perfect](https://open.spotify.com/track/4gGuLljBIa0c3Buk4aGT0H) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Suite Escape](https://open.spotify.com/album/5o6C3eDwWn5GJN0DKZN45i) | 4:00 |
 
 Snapshot ID: `AAAAAGcKiPeU+KWD60ukDpYSyqpjYJZv`

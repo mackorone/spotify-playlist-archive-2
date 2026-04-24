@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 44 | [LITTLE NOKIA](https://open.spotify.com/track/6Hf3lTdh7gNQO3GoVw9CEM) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [2000AND4EVA](https://open.spotify.com/album/4lmOcEBG9fJjc6UeMbttVt) | 2:19 |
 | 45 | [JUST LIKE THAT](https://open.spotify.com/track/4alytlIn91jJgzsu6rSONb) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [JUST LIKE THAT](https://open.spotify.com/album/17Wk4tqPJ8rMH1hFCW4eLf) | 2:18 |
 | 46 | [Growing on Me](https://open.spotify.com/track/503a5QlhcxNE79QYPspRGh) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [The Kick](https://open.spotify.com/album/2IXCvUDkW26YzxCizZ9b6n) | 3:09 |
-| 47 | [You Say](https://open.spotify.com/track/52jAMftT0UzdJjyraBdhwD) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [And Now, We're Shining](https://open.spotify.com/album/6hsl8s8m3Le812hnQfrNAv) | 3:15 |
-| 48 | [Immortal](https://open.spotify.com/track/5fXOTnYg6sn0UPyksZnXRP) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 3:07 |
+| 47 | [Immortal](https://open.spotify.com/track/5fXOTnYg6sn0UPyksZnXRP) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 3:07 |
+| 48 | [You Say](https://open.spotify.com/track/52jAMftT0UzdJjyraBdhwD) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [And Now, We're Shining](https://open.spotify.com/album/6hsl8s8m3Le812hnQfrNAv) | 3:15 |
 | 49 | [SO TRU](https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [3AM \(LA LA LA\)](https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj) | 2:53 |
 | 50 | [CO1N](https://open.spotify.com/track/7ebT9Ay9cwbgUlJ3UyYvpR) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [PLAY](https://open.spotify.com/album/69k3PIjF6T9POAX0WCRpNC) | 3:17 |
 | 51 | [Make Believe](https://open.spotify.com/track/4mtwVlfFwOx32akhvoce2I) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 3:56 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 82 | [They’re So Smart](https://open.spotify.com/track/5fZJZbIM6GWLmPZG2EcXxs) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 2:29 |
 | 83 | [Damaged III](https://open.spotify.com/track/5pJEHO4Yi6IZyIqNF003Ui) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 1:36 |
 
-Snapshot ID: `AcPkfgAAAAC9qSqtepklLTPrA0KZBNfB`
+Snapshot ID: `AcPqCgAAAACX7RxMB+61GbaqICFyB8Bf`

@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "DEM MAN",
+        "url": "https://open.spotify.com/album/2tbTYKRjQigIvWaAZAXoge"
+      },
+      "artists": [
+        {
+          "name": "TR Gobrazy",
+          "url": "https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118356,
+      "name": "DEM MAN",
+      "url": "https://open.spotify.com/track/1oHfbYJxiJ87kidsNiuBmY"
+    },
+    {
+      "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
@@ -826,7 +844,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 225456,
       "name": "Late Checkout (feat. Hunxho)",
       "url": "https://open.spotify.com/track/5sHs8IfRosyygVKi2V2WLn"

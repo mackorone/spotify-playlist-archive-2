@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-240 songs - 14 hr 16 min
+241 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Adonai \(Remix\)](https://open.spotify.com/track/4cEWZvR2wkb8aEB1vkTQDS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Castro](https://open.spotify.com/artist/1NhHtG7W5ia2fqXRw5Sp5M) | [Adonai \(Remix\)](https://open.spotify.com/album/0K8AdVnV4Pf2gbUOSYeady) | 4:48 | 2025-11-22 |  |
 | [Adonai \(Remix\) \[feat\. Castro\]](https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Castro](https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3) | [Adonai \(Remix\) \[feat\. Castro\]](https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY) | 4:48 | 2021-12-28 | 2025-11-22 |
 | [Ajeei \(feat\. Nana Boroo & Sarkodie\)](https://open.spotify.com/track/3dx6COHzPCAB1JFFMj58gW) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Nana Boroo](https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Refuse to Be Broke: Da Revolution 2](https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7) | 3:40 | 2022-01-12 |  |
-| [Always on My Mind \(feat\. Obrafour\)](https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Mary](https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo) | 4:47 | 2021-12-28 |  |
+| [Always on My Mind](https://open.spotify.com/track/3ctX0ZD94IwqTYLTX8ZahE) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Mary](https://open.spotify.com/album/6f2ShNSV829Nn5L7A4r0gq) | 4:47 | 2026-04-24 |  |
+| [Always on My Mind \(feat\. Obrafour\)](https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Mary](https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo) | 4:47 | 2021-12-28 | 2026-04-24 |
 | [AMEN](https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 3:23 | 2024-05-26 |  |
 | [Anadwo](https://open.spotify.com/track/727FNLOrz4Wj4KhTRMRlEv) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Black Love](https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN) | 3:11 | 2026-03-17 |  |
 | [Anadwo \(feat\. King Promise\)](https://open.spotify.com/track/0jC6H13LqNH2kmjAbsgkMM) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Black Love](https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s) | 3:11 | 2025-04-28 | 2026-01-22 |

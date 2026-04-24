@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 751,
+  "num_followers": 755,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAADe1w/xIh8SVVvAudE9SKrArhlcrv3",
+  "snapshot_id": "AAADfps6vibqXBtglYR5tAce4RXM+2GX",
   "tracks": [
     {
       "added_at": "2026-04-03 14:58:07",
@@ -1459,6 +1459,54 @@
       "duration_ms": 267445,
       "name": "backseat confessions",
       "url": "https://open.spotify.com/track/79lCZgjb8Sw6cVqsJTJ5FA"
+    },
+    {
+      "added_at": "2026-04-23 02:44:57",
+      "album": {
+        "name": "Regrets",
+        "url": "https://open.spotify.com/album/1bhiWsTcsqmYvv3WqCu7vb"
+      },
+      "artists": [
+        {
+          "name": "Sasha Renee",
+          "url": "https://open.spotify.com/artist/2ZAYFh5BoAhA9fCjAcuxwu"
+        }
+      ],
+      "duration_ms": 127179,
+      "name": "Regrets",
+      "url": "https://open.spotify.com/track/5OcfEtuClISKPdL7oXhnnL"
+    },
+    {
+      "added_at": "2026-04-23 02:45:40",
+      "album": {
+        "name": "Mangrovia",
+        "url": "https://open.spotify.com/album/2YiWsFrnTH5IdjTwBlmKiz"
+      },
+      "artists": [
+        {
+          "name": "Stefano Nardon",
+          "url": "https://open.spotify.com/artist/0KEWjwnCfRfmaialCXQU9T"
+        }
+      ],
+      "duration_ms": 254947,
+      "name": "Mangrovia",
+      "url": "https://open.spotify.com/track/7IFpqolKCwcdzWPMEb5ywv"
+    },
+    {
+      "added_at": "2026-04-23 14:15:45",
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/6IcFYhUAnyprfDg7kRlRZZ"
+      },
+      "artists": [
+        {
+          "name": "The Homme",
+          "url": "https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm"
+        }
+      ],
+      "duration_ms": 223318,
+      "name": "Cliffhanger",
+      "url": "https://open.spotify.com/track/4JX8FWiyo3AeYQ2B5EZ5wL"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

@@ -501,6 +501,24 @@
     },
     {
       "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137682,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6"
+    },
+    {
+      "album": {
         "name": "All Good (Jasper Tygner Remix)",
         "url": "https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri"
       },
@@ -2662,6 +2680,24 @@
       "duration_ms": 197910,
       "name": "Carry Your Name",
       "url": "https://open.spotify.com/track/1LaDyabD9KcfJAIv7lJ99R"
+    },
+    {
+      "album": {
+        "name": "Ceasefire",
+        "url": "https://open.spotify.com/album/6UISk0EXFfBXqhTN6KRfjC"
+      },
+      "artists": [
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151515,
+      "name": "Ceasefire",
+      "url": "https://open.spotify.com/track/4RIw1uiwQ1dnr8hXUB8Hpy"
     },
     {
       "album": {
@@ -14697,6 +14733,24 @@
     },
     {
       "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/7hLMEAepxj1rQdyVb68QGz"
+      },
+      "artists": [
+        {
+          "name": "Longo",
+          "url": "https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186617,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/3flcGGIKUaK1M2ps72ykcl"
+    },
+    {
+      "album": {
         "name": "Break / Saw U",
         "url": "https://open.spotify.com/album/3B9VRmFZ4TK6jgRsgextA5"
       },
@@ -20102,6 +20156,32 @@
       "duration_ms": 164769,
       "name": "WONDER",
       "url": "https://open.spotify.com/track/3GMQ9rDVclsd1ZbwT3qPta"
+    },
+    {
+      "album": {
+        "name": "World Is Mine",
+        "url": "https://open.spotify.com/album/5rCuyoc0PgtgCb2hpoQqMZ"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        },
+        {
+          "name": "BJOERN",
+          "url": "https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286080,
+      "name": "World Is Mine",
+      "url": "https://open.spotify.com/track/0IOtFlCwTsHdekpZsaK0Ua"
     },
     {
       "album": {

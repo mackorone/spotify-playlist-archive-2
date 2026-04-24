@@ -595,6 +595,28 @@
     },
     {
       "album": {
+        "name": "Badboy Sound",
+        "url": "https://open.spotify.com/album/171953icTQTYTDPCeSeHvM"
+      },
+      "artists": [
+        {
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+        },
+        {
+          "name": "Sir Spyro",
+          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138673,
+      "name": "Badboy Sound",
+      "url": "https://open.spotify.com/track/7sT8kWuG2No88ltkdHnSjC"
+    },
+    {
+      "album": {
         "name": "Badda (Sinais VIP)",
         "url": "https://open.spotify.com/album/4cFwI8Adp03Ecaw9CEhUtz"
       },
@@ -1089,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Break It",
+        "url": "https://open.spotify.com/album/42rRSmWPbd3NQIltYKwSYl"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "Break It",
+      "url": "https://open.spotify.com/track/3jiq4HBxQjEjOp1ZvOTGge"
+    },
+    {
+      "album": {
         "name": "Breaka Breaka",
         "url": "https://open.spotify.com/album/09OOjJikUHGZZ0nULvH3Vp"
       },
@@ -1348,7 +1388,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 161250,
       "name": "Cheat Code",
       "url": "https://open.spotify.com/track/6a8EYMszSDhQV65yQiZn40"
@@ -3677,6 +3717,28 @@
     },
     {
       "album": {
+        "name": "I've Got A Crush",
+        "url": "https://open.spotify.com/album/3FG9tVSWEaQWPhX4SsjtKb"
+      },
+      "artists": [
+        {
+          "name": "Chad Harrison",
+          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
+        },
+        {
+          "name": "Laurena Volant\u00e9",
+          "url": "https://open.spotify.com/artist/7KI4ye1U84lYhq78qm1hCu"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148956,
+      "name": "I've Got A Crush",
+      "url": "https://open.spotify.com/track/2XKfp08ckG6CUBVKOky6oI"
+    },
+    {
+      "album": {
         "name": "Icon",
         "url": "https://open.spotify.com/album/2kwFtcaZUVlEK3liC4PywN"
       },
@@ -3906,7 +3968,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 172000,
       "name": "Inside The Rider - Darkzy Remix",
       "url": "https://open.spotify.com/track/1OgyH85fktvryf3sxD1X6g"
@@ -4374,10 +4436,32 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 164475,
       "name": "Let Him Go - Tinie Tempah & Bugzy Malone Remix",
       "url": "https://open.spotify.com/track/4vu7IHID9cxoYDQkX0TfNe"
+    },
+    {
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/4peMbNHbIi9hHAyzmnHvIj"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/74Toln3Kr9EOFZ653bJxms"
     },
     {
       "album": {
@@ -4722,7 +4806,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 275962,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/2f0bZbD4u8HX3Kn7PjKi6C"
@@ -5346,7 +5430,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 207428,
       "name": "NO MORE PAIN",
       "url": "https://open.spotify.com/track/0C6zxAQJzd8VN8gV9mBYbW"
@@ -5520,7 +5604,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 208596,
       "name": "Oh My Gosh",
       "url": "https://open.spotify.com/track/2UsR4KZpVColypYnCCLLpB"
@@ -5586,7 +5670,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 159738,
       "name": "On My Way (Feat. Zdot, Kara Marni) - ZKG Remix",
       "url": "https://open.spotify.com/track/0QXvYArdrPJEaGJTW5hL2N"
@@ -5845,6 +5929,28 @@
     },
     {
       "album": {
+        "name": "Parental Advisory",
+        "url": "https://open.spotify.com/album/45xTX64fcl7wvtYEllVMeD"
+      },
+      "artists": [
+        {
+          "name": "Thorpey",
+          "url": "https://open.spotify.com/artist/0rDcLHF98t9GKFkzikb7iO"
+        },
+        {
+          "name": "Cru2",
+          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Parental Advisory",
+      "url": "https://open.spotify.com/track/25kky3uhTdQcsyLvAAqAbT"
+    },
+    {
+      "album": {
         "name": "Party Right / Snake Charmer",
         "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
       },
@@ -6013,6 +6119,32 @@
     },
     {
       "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/0cRikIMmmZbGnJiEHmWMmW"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        },
+        {
+          "name": "Royal-T",
+          "url": "https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193361,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/3mlWa4kG7dOeO509aLJUfY"
+    },
+    {
+      "album": {
         "name": "Pure",
         "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
       },
@@ -6090,6 +6222,24 @@
       "duration_ms": 188444,
       "name": "Pyrophobia",
       "url": "https://open.spotify.com/track/1NDRed3XRwwALqA3iBSUfP"
+    },
+    {
+      "album": {
+        "name": "R U Sleeping",
+        "url": "https://open.spotify.com/album/30kCQUL7TBvCNhX4tUKnnk"
+      },
+      "artists": [
+        {
+          "name": "JKAY",
+          "url": "https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125607,
+      "name": "R U Sleeping",
+      "url": "https://open.spotify.com/track/3UHVRGrDIFDjHUSddj4rfX"
     },
     {
       "album": {
@@ -6562,6 +6712,24 @@
       "duration_ms": 172504,
       "name": "Seshame Street",
       "url": "https://open.spotify.com/track/4QpyVaTtVoRkCcMRxF5Guh"
+    },
+    {
+      "album": {
+        "name": "shake_leg",
+        "url": "https://open.spotify.com/album/2hcRHv6WmZTPxeGIA5EDxh"
+      },
+      "artists": [
+        {
+          "name": "Nori",
+          "url": "https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137558,
+      "name": "shake_leg",
+      "url": "https://open.spotify.com/track/0pdPeMA0ZtA5Pgdfkuh3Z7"
     },
     {
       "album": {
@@ -7776,7 +7944,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 155772,
       "name": "Ur Number",
       "url": "https://open.spotify.com/track/3xijz9hc74Negf2y3QgjWn"
@@ -8042,7 +8210,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 184212,
       "name": "What's Been Missing",
       "url": "https://open.spotify.com/track/2loXsciBfS2v97OKDsmheo"

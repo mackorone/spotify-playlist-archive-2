@@ -2,9 +2,9 @@
 
 ### [Wire](https://open.spotify.com/playlist/37i9dQZF1DX3SHrJsyCVuc)
 
-> Punk spirit, alternative bones\. Music that pushes us forward\. Cover: Nine Inch Noize
+> Punk spirit, alternative bones\. Music that pushes us forward\. Cover: Ex\-Citizen!
 
-160 songs - 8 hr 50 min
+164 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Black Gate](https://open.spotify.com/track/7t3wS6VktZqPhMWdTG9Wot) | [Buzz Kull](https://open.spotify.com/artist/5RtyPqV9c3KizJ8pqJEcZl) | [Deep Hate](https://open.spotify.com/album/6KoVoaUipqvIM915NEeeA9) | 4:32 | 2026-02-12 |  |
 | [Black swan](https://open.spotify.com/track/4Xu6PC9zAzBECTYAEY9glE) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [If Not Winter](https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM) | 4:25 | 2025-10-23 | 2026-02-06 |
 | [Blisters \(feat\. Noah Learmonth\)](https://open.spotify.com/track/4LSg5nCsJ35jHA1vRqBRhR) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ), [Noah Learmonth](https://open.spotify.com/artist/6Q9ndqe5oLP6PbgENxW1Pp) | [Blisters \(feat\. Noah Learmonth\)](https://open.spotify.com/album/0slU8BRWpMKzOep39Rd59b) | 3:30 | 2025-11-20 | 2025-11-28 |
-| [Brand New](https://open.spotify.com/track/5kY94GfvzI4gVLVqf9A1HD) | [Hot Glue](https://open.spotify.com/artist/6Xz3noOPv6Cpb2ULyIHOiG) | [Brand New](https://open.spotify.com/album/1GFw1ItSHTCkJCIdDyZm4a) | 3:20 | 2026-01-22 |  |
+| [Brand New](https://open.spotify.com/track/5kY94GfvzI4gVLVqf9A1HD) | [Hot Glue](https://open.spotify.com/artist/6Xz3noOPv6Cpb2ULyIHOiG) | [Brand New](https://open.spotify.com/album/1GFw1ItSHTCkJCIdDyZm4a) | 3:20 | 2026-01-22 | 2026-04-24 |
 | [Bug](https://open.spotify.com/track/0MXmiqd7zoXxv6Gqn9ahhQ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:02 | 2025-10-23 | 2026-04-10 |
 | [bus stop](https://open.spotify.com/track/4JjJoKsFOtR9rvaYMzVXW8) | [The Empty Threats](https://open.spotify.com/artist/3yFZgbeIbg9UmgkOojGuGt) | [bus stop](https://open.spotify.com/album/30fvYRLzPWREqBkIhdKLit) | 3:23 | 2025-10-23 | 2025-11-07 |
 | [Call U Back](https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Call U Back](https://open.spotify.com/album/3Pbiv3ZCM6WWehbB0nj2It) | 3:04 | 2025-10-23 |  |
@@ -34,7 +34,7 @@
 | [Cold](https://open.spotify.com/track/3MJ1nEyVm5Piuo6oQX7TwZ) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Cold](https://open.spotify.com/album/1EwXopMzkWSHj3mfJaT77t) | 2:21 | 2025-11-06 | 2026-01-15 |
 | [Cruise Ship Designer](https://open.spotify.com/track/4bxf0SkBztnpD2pmG4E3XE) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Cruise Ship Designer](https://open.spotify.com/album/4TS9qII3TePPw5supS6ydF) | 2:29 | 2025-11-13 | 2026-02-06 |
 | [Cult of Celebrity](https://open.spotify.com/track/2ptN3AC6mPNdtLrJaeOEQV) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Cult of Celebrity](https://open.spotify.com/album/0WI41FEVRdFwjcVdrTSBrm) | 2:13 | 2026-04-02 |  |
-| [Curse](https://open.spotify.com/track/3Uq3THjKQx73juBlWnLFqa) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Body Broker](https://open.spotify.com/album/2qOPFkzeD33AyGvMOblT5u) | 2:23 | 2025-11-27 |  |
+| [Curse](https://open.spotify.com/track/3Uq3THjKQx73juBlWnLFqa) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Body Broker](https://open.spotify.com/album/2qOPFkzeD33AyGvMOblT5u) | 2:23 | 2025-11-27 | 2026-04-24 |
 | [Cut It Out](https://open.spotify.com/track/3ZGUHN7vCL1ylsV7pV0X79) | [Public Figures](https://open.spotify.com/artist/3A93doBF2yINkhxYRxaw5b) | [Cut It Out](https://open.spotify.com/album/1n4mAv6vK1zXMfWyfse2Mp) | 3:02 | 2026-02-05 |  |
 | [Cutthroat](https://open.spotify.com/track/5cQmKBhv5Ui17M4hopt2TX) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/6C4fHqAWoZdy7A4o07euoP) | 3:14 | 2025-10-23 | 2025-11-07 |
 | [Daddy](https://open.spotify.com/track/4vgoFEyR2qkVLw2HwexUTZ) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Daddy](https://open.spotify.com/album/7uRe1IzYXF1sjlF9ttHZO1) | 3:19 | 2026-01-22 |  |
@@ -62,6 +62,7 @@
 | [Gatekeep](https://open.spotify.com/track/78WLXqaqyu9PeUbMjvF5iQ) | [Big Modern](https://open.spotify.com/artist/6YqLPGpAOXTBVndsTaQXxp) | [Big Modern](https://open.spotify.com/album/07Grit2srI4QYHsXbE0zIX) | 1:06 | 2025-11-20 | 2026-04-17 |
 | [Glassman](https://open.spotify.com/track/1mogapB4xvnlFlZUB3FKII) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Swan Songs](https://open.spotify.com/album/2GtYQMZi2e2BLHn8gAYBrc) | 4:28 | 2026-03-26 |  |
 | [Gold](https://open.spotify.com/track/4ab3Sjx3e92nsAGrL0BYL7) | [The world is against you](https://open.spotify.com/artist/5jsUB6RwIhNXHZMUGskMpz) | [gold / fawn](https://open.spotify.com/album/2TOEnmEgLeiozFQcJKats7) | 4:27 | 2026-02-05 |  |
+| [Gold Things](https://open.spotify.com/track/3wH727bYhimLg5cCL9ZCy7) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Gold Things](https://open.spotify.com/album/3udQKwBiO7fJZcQTwkJ8j5) | 3:09 | 2026-04-23 |  |
 | [Golden Boy](https://open.spotify.com/track/3A1ODOlyUOBNHHSkob57Ym) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Golden Boy](https://open.spotify.com/album/7ukf25x1Denwo0UbDfaEXx) | 3:41 | 2025-10-23 | 2026-01-30 |
 | [good luck](https://open.spotify.com/track/3oAziHFXoYjjdNqkldMO9w) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [good luck](https://open.spotify.com/album/0QqHV2pIGSb6DMjyV98lrb) | 1:46 | 2025-10-23 | 2026-02-27 |
 | [Green Screen](https://open.spotify.com/track/1P8hB555l5NAmbfIq2xvtz) | [Hektor](https://open.spotify.com/artist/6TkIRova0MUAByYUBmbVnd), [Teether](https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo) | [The Divine](https://open.spotify.com/album/15tkGgCqPiqktQImQw8Uy0) | 3:57 | 2026-04-09 |  |
@@ -70,11 +71,12 @@
 | [Heat](https://open.spotify.com/track/1nDlFgDg3b4kYGWr8wEaUV) | [Station Model Violence](https://open.spotify.com/artist/4NZX3oX5pJYixdC5WvoySV) | [Station Model Violence](https://open.spotify.com/album/0hM5rkGJ8NgqqRJsBwu5Bz) | 8:18 | 2026-03-26 |  |
 | [Heaven](https://open.spotify.com/track/4YEQMr2pnBoorZVbFJHjQU) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Heaven](https://open.spotify.com/album/2gm7fFQZnVcJHp2b43xdx4) | 4:35 | 2025-11-13 | 2026-01-23 |
 | [Heresy \- Nine Inch Noize Version](https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Nine Inch Noize](https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp) | 3:57 | 2026-04-16 |  |
-| [Hit My Head All Day](https://open.spotify.com/track/0JIKmYZmtDKqXAU37ZqwbN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Hit My Head All Day](https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI) | 6:03 | 2025-10-23 |  |
+| [Hit My Head All Day](https://open.spotify.com/track/0JIKmYZmtDKqXAU37ZqwbN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Hit My Head All Day](https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI) | 6:03 | 2025-10-23 | 2026-04-24 |
 | [How I'm Feeling](https://open.spotify.com/track/1RDdXBaANrNnJX17Lqh9hv) | [Public Figures](https://open.spotify.com/artist/3A93doBF2yINkhxYRxaw5b) | [How I'm Feeling](https://open.spotify.com/album/5UFejVMGISqKdcE8jikgyd) | 2:56 | 2025-11-06 | 2026-04-10 |
 | [I Know!](https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [I Know!](https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW) | 3:34 | 2026-02-26 |  |
 | [i'm still here \(feat\. sweet93\)](https://open.spotify.com/track/4syMA65QPHgPFbAhKF1cy1) | [Sweet Boy](https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r), [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [the machinist](https://open.spotify.com/album/57jLijUQHlKtIy06BfuyIa) | 4:02 | 2025-10-23 | 2026-01-15 |
 | [I.D.C.](https://open.spotify.com/track/2nnyvuEKMFWm006YaI5fb1) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [I.D.C.](https://open.spotify.com/album/2JcaLMni0sJcuU2rEGOd9w) | 3:31 | 2026-01-15 | 2026-04-10 |
+| [Infected](https://open.spotify.com/track/0GtZ6QVU4xuQXXGlE6ZA3s) | [Ex\-Citizen!](https://open.spotify.com/artist/5Z0VGSaEJNTWoSzpMPSygg) | [Infected](https://open.spotify.com/album/76Z3GpMpeCwXAiIF1RRhCd) | 4:17 | 2026-04-23 |  |
 | [Is That A Prayer?](https://open.spotify.com/track/4hWulk2MmnTTgLzYC8IMmW) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Is That A Prayer?](https://open.spotify.com/album/3YHNqnbCp8lPooUyGg7LGp) | 2:02 | 2026-04-16 |  |
 | [Is The New Album Out Yet?](https://open.spotify.com/track/5ifURZDS0giN09C2usZ7uq) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Is The New Album Out Yet?](https://open.spotify.com/album/40GWsNlzUiu4BNVUK3Osr6) | 1:32 | 2026-04-16 |  |
 | [ITS FINE](https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [New Age](https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl) | 4:21 | 2026-02-05 | 2026-04-17 |
@@ -91,9 +93,11 @@
 | [Leech](https://open.spotify.com/track/3EBbanbifx3F1RkgX9fPhB) | [Crocodylus](https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw) | [Leech](https://open.spotify.com/album/4v6pUeg5eGETi1Aj9VlwQF) | 4:22 | 2026-03-26 |  |
 | [Leisure](https://open.spotify.com/track/4wuVZpmDkRpgAhwexsfp30) | [Station Model Violence](https://open.spotify.com/artist/4NZX3oX5pJYixdC5WvoySV) | [Station Model Violence](https://open.spotify.com/album/0hM5rkGJ8NgqqRJsBwu5Bz) | 2:53 | 2026-03-12 |  |
 | [Liars Tale](https://open.spotify.com/track/0YJizAvRp2i7MCs99rJWW0) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU) | [Liars Tale](https://open.spotify.com/album/1BJNYGK987nM5UrDBLNrqe) | 3:17 | 2026-01-29 |  |
+| [LIFE KEEPS GOING](https://open.spotify.com/track/7bUGV0iRkAlZ4qeGix6O9H) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [LIFE KEEPS GOING](https://open.spotify.com/album/25ck4PVSVUW7h54ZHGX34m) | 3:39 | 2026-04-23 |  |
 | [Long Line](https://open.spotify.com/track/2hj5Qm88WoLdKPut2KGoRD) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [Long Line](https://open.spotify.com/album/2rG5spc0tbdMY3pwVB7vkd) | 3:32 | 2025-10-23 | 2025-11-21 |
 | [Mad Rooter](https://open.spotify.com/track/6cuXSWojM83UcPkrfbd75t) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Mad Rooter](https://open.spotify.com/album/4n5Lg3hYCaJIv434OImVaO) | 3:05 | 2025-10-23 |  |
 | [Megaton](https://open.spotify.com/track/6tsugFcFFJvz89znj7bNJK) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Megaton](https://open.spotify.com/album/25Ujl2GZlvbQkf23YeUyCN) | 2:52 | 2025-10-23 | 2025-12-05 |
+| [Missing](https://open.spotify.com/track/1xZiJQuvH4AMNjUPrd6P2g) | [東京酒吐座\(Tokyo Shoegazer\)](https://open.spotify.com/artist/0dzZimiT5lEvERCEXHdaTX) | [Remains](https://open.spotify.com/album/7lTUctoVU6VuJj0jvk3n7F) | 3:54 | 2026-04-23 |  |
 | [mlb](https://open.spotify.com/track/6uXSZazWjvwsPVEDngFfQs) | [\(e\)motion engine](https://open.spotify.com/artist/6mJhsXOVqhFN2exIZD91rK) | [mlb](https://open.spotify.com/album/5kONlQGQnbfCPybdJQhbry) | 3:52 | 2025-10-23 | 2026-02-27 |
 | [More Horse, Less Code](https://open.spotify.com/track/1IQhCIhuDX2MgElAomxXWl) | [media puzzle](https://open.spotify.com/artist/1JFW3ACD123onrCbzNag5Z) | [More Horse, Less Code](https://open.spotify.com/album/0SUT2qcFWQqvmMTyh2f2Tg) | 1:57 | 2026-04-09 |  |
 | [Nausea](https://open.spotify.com/track/4NyZSDjtIfz27tSVGnd3uu) | [Special Guest](https://open.spotify.com/artist/4WPcB3czUtzQ2QT1MAikKu) | [Nausea](https://open.spotify.com/album/0MJVMWhQjrVp9aE7M5b9mi) | 4:01 | 2025-10-23 | 2025-11-21 |
@@ -112,7 +116,7 @@
 | [Pieces](https://open.spotify.com/track/3sNJK6XOSqwnKZKXKXXBtK) | [Robber Robber](https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM) | [Pieces](https://open.spotify.com/album/65Eocfc9lOiXl4WmPPFUrp) | 4:12 | 2026-03-12 |  |
 | [PIG](https://open.spotify.com/track/33qLbrztG3T7A4YLqO88BM) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [BIRDBRAIN / PIG](https://open.spotify.com/album/7hWvLBn1TarX302yU3QmUq) | 1:58 | 2025-11-20 | 2026-03-27 |
 | [Pigeon](https://open.spotify.com/track/20xPTgR9luxSduaKnv3hok) | [Ebop](https://open.spotify.com/artist/2Efy3ySYJ83uBkokvfdwxn) | [Pigeon](https://open.spotify.com/album/1OEcnuGKiWFB4BaASFzTSk) | 3:21 | 2026-01-22 | 2026-03-27 |
-| [PIRATE RADIO](https://open.spotify.com/track/6HQFxxX9d7HailblPX0Nxy) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [PIRATE RADIO](https://open.spotify.com/album/1bxj95VYRQYbEzaEHD3fp3) | 2:54 | 2025-10-23 |  |
+| [PIRATE RADIO](https://open.spotify.com/track/6HQFxxX9d7HailblPX0Nxy) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [PIRATE RADIO](https://open.spotify.com/album/1bxj95VYRQYbEzaEHD3fp3) | 2:54 | 2025-10-23 | 2026-04-24 |
 | [PLAINTIVE NATIVE](https://open.spotify.com/track/752jJf80yhDnt7K7dTfTnO) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [PLAINTIVE NATIVE](https://open.spotify.com/album/3o7SM2cImToqXzVwWrfloL) | 3:18 | 2025-10-23 | 2026-03-27 |
 | [Pom Pom](https://open.spotify.com/track/50XEaacXqkRUm4a2fQpoCS) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Pom Pom](https://open.spotify.com/album/4IzgMbugCWmPVnIp9T8aQX) | 2:08 | 2025-10-23 | 2025-11-07 |
 | [Pray To That](https://open.spotify.com/track/00FPHiKX0CAJ767v58xmhO) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Pray To That](https://open.spotify.com/album/3qczr2RYA7bpl3ABKpUgXo) | 3:06 | 2025-10-23 | 2026-02-21 |

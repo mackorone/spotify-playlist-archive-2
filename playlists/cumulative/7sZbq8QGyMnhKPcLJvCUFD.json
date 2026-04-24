@@ -16566,6 +16566,24 @@
     {
       "album": {
         "name": "Voyage",
+        "url": "https://open.spotify.com/album/7EjVP4DSNhuwV83CYjJGTA"
+      },
+      "artists": [
+        {
+          "name": "Cyazon",
+          "url": "https://open.spotify.com/artist/7yiGQoPOHVrr5LGKf5VwP8"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187636,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/2y044w7FA1cRByq0lI6a43"
+    },
+    {
+      "album": {
+        "name": "Voyage",
         "url": "https://open.spotify.com/album/645TcShtLFbgysGGzf7bSV"
       },
       "artists": [

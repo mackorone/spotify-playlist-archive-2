@@ -4,7 +4,7 @@
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-118 songs - 7 hr 28 min
+120 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All That We Are](https://open.spotify.com/track/2oXRZaEegYDvZxozbDtgcW) | [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [All That We Are](https://open.spotify.com/album/60B3oN31JFl2u2r6ryGg9i) | 3:24 | 2026-03-30 |  |
 | [Always The Same \(feat\. St\. Vincent\)](https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Always The Same \(feat\. St\. Vincent\)](https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0) | 4:16 | 2026-03-20 |  |
 | [An Hour Per Day](https://open.spotify.com/track/7rBwAUy2w1CPrrIan7r2Rd) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [An Hour Per Day](https://open.spotify.com/album/32QlWfeGQTrlE5JFR3Teav) | 3:37 | 2025-08-29 |  |
+| [Angel](https://open.spotify.com/track/4U7pnAXHXvMiiS6OPppAWf) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Angel](https://open.spotify.com/album/0hbVt302avAUnb1AER2uf6) | 3:24 | 2026-04-23 |  |
 | [Anymore](https://open.spotify.com/track/2pM5npvsX6AHv5ah50HHBU) | [Maida Rose](https://open.spotify.com/artist/1XNEYqJZDKq9lEqe61sF1k) | [Anymore](https://open.spotify.com/album/7pYeXUlXPmFE26I5bKPkwB) | 4:08 | 2025-08-08 | 2026-03-24 |
 | [At The Party](https://open.spotify.com/track/0eD9nDx3ZdZt5wzLOOUtxy) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [At The Party](https://open.spotify.com/album/5vnuxacWPnc7oQ1UZtNfSm) | 3:35 | 2025-08-08 |  |
 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 | 2025-08-08 | 2026-01-31 |
@@ -63,6 +64,7 @@
 | [Lucy](https://open.spotify.com/track/72RALfAJBuXc939MfC0Gl7) | [Lisette](https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO) | [Lucy](https://open.spotify.com/album/7pYx7rQtcVhaLEKlf0QQ4Y) | 3:45 | 2025-08-08 |  |
 | [Martyr](https://open.spotify.com/track/4EybC36DQmK8gbrUsPit3T) | [Ozark Henry](https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ) | [Martyr](https://open.spotify.com/album/1MzFcyK6GVCXGXKhu8vBlI) | 3:23 | 2025-08-08 |  |
 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 | 2025-10-21 | 2025-12-05 |
+| [Moon Not Mine](https://open.spotify.com/track/1r8plFPk6rUylJmclniQAM) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Singing](https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf) | 3:37 | 2026-04-23 |  |
 | [Moonlit Parade](https://open.spotify.com/track/1NL10e7NLz2eODtCieADly) | [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Moonlit Parade](https://open.spotify.com/album/7AHqrOj1zf75jkMjkjqWat) | 3:05 | 2025-08-08 | 2026-04-21 |
 | [More than a warning](https://open.spotify.com/track/2WyoxWAgDvsGzqKOWIhxPv) | [Amongster](https://open.spotify.com/artist/6YIKMlerK7c5j109TgfjnK) | [More than a warning](https://open.spotify.com/album/6mDTQhx9rC4e7fnRv9qgOW) | 5:01 | 2025-10-21 |  |
 | [More Than Enough](https://open.spotify.com/track/1wTtnNyUUrJL4erWEUfC77) | [Lisette](https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO) | [More Than Enough](https://open.spotify.com/album/2N0laeE3SqH46ADFdgcs34) | 3:16 | 2025-09-25 |  |
@@ -100,7 +102,7 @@
 | [Sunflower Sunset](https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq) | [Future Husband](https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI) | [Sunflower Sunset](https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2) | 5:08 | 2025-08-08 |  |
 | [Swimming](https://open.spotify.com/track/0LuRbtuakg2uS1z5qoDzba) | [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Swimming](https://open.spotify.com/album/2AmsdFE6K0JljNeAB2EqrD) | 3:29 | 2025-08-08 |  |
 | [Tardigrades](https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z) | [Slow Res](https://open.spotify.com/artist/0w5Ntkxa6z2RF00gXNRBrF) | [Tardigrades](https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd) | 3:10 | 2026-02-05 |  |
-| [Teardrop](https://open.spotify.com/track/4RIefFGtLJ2qtG5ZKyCDkV) | [Girl In The Year Above](https://open.spotify.com/artist/1O7L4N5WMArmnOyDhuX5Y7) | [Peaky Blinders \- The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X) | 4:38 | 2026-03-23 |  |
+| [Teardrop](https://open.spotify.com/track/4RIefFGtLJ2qtG5ZKyCDkV) | [Girl In The Year Above](https://open.spotify.com/artist/1O7L4N5WMArmnOyDhuX5Y7) | [Peaky Blinders \- The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X) | 4:38 | 2026-03-23 | 2026-04-24 |
 | [The Distance](https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2) | [Prize Collect](https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr) | [The Distance](https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud) | 3:04 | 2025-08-08 |  |
 | [The End](https://open.spotify.com/track/408Y9eM7N3ZRodHyvxxHyM) | [Ato Pérez](https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc), [Jeffrey Dol](https://open.spotify.com/artist/09UVRn1NH4bTQ3lQrmvVHh) | [The Farm](https://open.spotify.com/album/40J82quNYkW4TBE5ebbHPs) | 5:02 | 2025-08-08 |  |
 | [The Moon Is Going For A Swim](https://open.spotify.com/track/4yfEsna4QNbBL0EYnieNY6) | [Christopher Green](https://open.spotify.com/artist/7hsSRTKla7JWIsGRlq0LvL) | [The Moon Is Going For A Swim](https://open.spotify.com/album/3JhrlyhuzmS6WfSSpyunNq) | 3:47 | 2026-01-23 |  |

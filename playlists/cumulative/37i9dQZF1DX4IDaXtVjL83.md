@@ -4,7 +4,7 @@
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: TAEYONG & Anderson .Paak\)
 
-275 songs - 14 hr 22 min
+276 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Supernova Love](https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Supernova Love](https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X) | 3:19 | 2024-11-08 |  |
 | [superstars](https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [superstars](https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0) | 2:24 | 2025-08-01 |  |
 | [swipe\_feat\_lou\_garcia\_v1.mp3](https://open.spotify.com/track/4zsxh0FkRntWV1vA7ckhHQ) | [HEYOON](https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1), [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [seriously unserious](https://open.spotify.com/album/5iK4Cr6djzpTWvuPCxCosm) | 2:04 | 2026-04-17 |  |
+| [Take Me to Nirvana \(feat\. Vinida Weng\)](https://open.spotify.com/track/7d2WBtRFNknx11P6MwLomO) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Vinida Weng](https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg) | [7TH YEAR: A Moment of Stillness in the Thorns](https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk) | 2:31 | 2026-04-23 |  |
 | [Talkin’ About It \(Feat\. 24kGoldn\)](https://open.spotify.com/track/28mFFxAwJ9cx9j7z9yu64R) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 2:50 | 2023-08-18 | 2025-07-11 |
 | [Tamed\-Dashed \- Japanese Ver.](https://open.spotify.com/track/6pu3d534uImXPTd2ef7Yr2) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : 閃光](https://open.spotify.com/album/0hTSBwSbvXgDSUxtSLBYcw) | 3:15 | 2022-05-12 | 2024-03-16 |
 | [Teddy Bear \- Japanese Ver.](https://open.spotify.com/track/1YLb3ORC4AEegaFJvD944o) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Teddy Bear \(Japanese Ver.\)](https://open.spotify.com/album/5bAsWS1V3sJyZvDPXMSTUC) | 3:09 | 2023-04-07 | 2024-10-18 |

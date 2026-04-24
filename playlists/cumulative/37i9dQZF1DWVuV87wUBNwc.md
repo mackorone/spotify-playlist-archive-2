@@ -2,9 +2,9 @@
 
 ### [Hits du Moment](https://open.spotify.com/playlist/37i9dQZF1DWVuV87wUBNwc)
 
-> Bad Bunny au sommet de la première playlist de France.
+> Theodora au sommet de la première playlist de France.
 
-456 songs - 23 hr 5 min
+457 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-30 | 2025-12-12 |
 | [Dépassé](https://open.spotify.com/track/5bOWPM362XpMa8zn6UR9te) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Dépassé](https://open.spotify.com/album/1WsuPxnNB1pgkd1a5UsgrS) | 2:52 | 2023-07-27 | 2023-09-15 |
 | [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 | 2026-04-02 |  |
+| [ELLE VOULAIT](https://open.spotify.com/track/3vU9V5EzwpsqI2zHbKmHi9) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [My Eyes Only \- Flashback](https://open.spotify.com/album/2uKZ3Ugh07XRffTInfNcjr) | 2:25 | 2026-04-23 |  |
 | [Emmène Moi](https://open.spotify.com/track/3KQV85tBiayQq91dL1Gb0m) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Emmène Moi](https://open.spotify.com/album/2Gw61l8nVrpcrpgl2Izrp9) | 2:51 | 2024-06-06 | 2024-08-02 |
 | [Emorio](https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Emorio](https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9) | 2:43 | 2023-07-27 | 2023-12-22 |
 | [En boucle](https://open.spotify.com/track/7DnucB1OzPCM8qP7dziWbC) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [En boucle](https://open.spotify.com/album/5flNY5V3mKeP4WFoqsjGRA) | 4:06 | 2025-11-06 | 2026-02-20 |
@@ -262,7 +263,7 @@
 | [MIRAGE \(feat\. Ozuna, GIMS & Sfera Ebbasta\)](https://open.spotify.com/track/4e1U6KRJGed8gh3uRbAv3P) | [AriBeatz](https://open.spotify.com/artist/6cNWiizYLCClZdnIvqU968), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MIRAGE \(feat\. Ozuna, Sfera Ebbasta & GIMS\)](https://open.spotify.com/album/5WbgkuQehIgUQn9s5gpbZH) | 3:26 | 2023-07-27 | 2023-09-29 |
 | [Miss Kitoko](https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Miss Kitoko](https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR) | 2:29 | 2026-04-09 |  |
 | [Mon amour](https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Mon amour](https://open.spotify.com/album/6FguEmDlsEN93BBiEbwsRn) | 3:00 | 2023-12-14 | 2024-06-07 |
-| [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 | 2025-11-27 |  |
+| [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 | 2025-11-27 | 2026-04-24 |
 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2023-10-26 | 2024-03-08 |
 | [Monaco](https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Monaco](https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT) | 2:21 | 2024-09-05 | 2025-01-10 |
 | [Mood](https://open.spotify.com/track/6JFw2mbcNfoFXnrk6AxGK6) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Mood](https://open.spotify.com/album/2RWZ0btto5OuTlS1NCAdbc) | 2:51 | 2025-04-10 | 2025-07-18 |

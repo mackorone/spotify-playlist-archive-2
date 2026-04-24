@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Jo Soegono",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Sliver",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -792,6 +792,24 @@
       "duration_ms": 227234,
       "name": "Berlalu",
       "url": "https://open.spotify.com/track/0svH95InfPxfc4F0FUN9EM"
+    },
+    {
+      "album": {
+        "name": "Berubah",
+        "url": "https://open.spotify.com/album/1WB8OEzRWFp3AwuBQBj31P"
+      },
+      "artists": [
+        {
+          "name": "Sliver",
+          "url": "https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236334,
+      "name": "Berubah",
+      "url": "https://open.spotify.com/track/6P4dRibGfA4VRizaoPQOX7"
     },
     {
       "album": {
@@ -3136,7 +3154,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 203000,
       "name": "Kejar Terus",
       "url": "https://open.spotify.com/track/7LR3VRJQIWtuHs5kVkjVk5"
@@ -3606,6 +3624,28 @@
       "duration_ms": 360000,
       "name": "LOVE IS",
       "url": "https://open.spotify.com/track/1Sx3NLx0k01HRqA2JhVguv"
+    },
+    {
+      "album": {
+        "name": "Main-Main",
+        "url": "https://open.spotify.com/album/6ENAT4ust37xJcEYuNyVSg"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Fernaldi",
+          "url": "https://open.spotify.com/artist/5zGnoscN1lVq4vWNExbDZO"
+        },
+        {
+          "name": "De Robinsar",
+          "url": "https://open.spotify.com/artist/3bzvsI6XPz5OzhZ1Of2p6n"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190698,
+      "name": "Main-Main",
+      "url": "https://open.spotify.com/track/1m9h7Yv78PrOi0ugL6yUex"
     },
     {
       "album": {
@@ -5516,7 +5556,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 346397,
       "name": "Tarian Panen",
       "url": "https://open.spotify.com/track/3GhczFPojHhZ6XmxDTiDv2"

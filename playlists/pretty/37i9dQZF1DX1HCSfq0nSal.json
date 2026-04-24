@@ -1,15 +1,43 @@
 {
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Omar Courtz",
-  "num_followers": 1492691,
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Quevedo",
+  "num_followers": 1492671,
   "original_name": "PEGAO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADqHx16DskUV31/SswaYbYKooM5c",
+  "snapshot_id": "AAAAABMjOU3zmM2FbaTkkU/anpg2Xgnq",
   "tracks": [
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
+      "album": {
+        "name": "EL BAIFO",
+        "url": "https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        },
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        },
+        {
+          "name": "Juseph",
+          "url": "https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0"
+        }
+      ],
+      "duration_ms": 248374,
+      "name": "ALGO VA A PASAR",
+      "url": "https://open.spotify.com/track/4cAgxAadH8i2QmPtQmK6BK"
+    },
+    {
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "POR SI MA\u00d1ANA NO ESTOY",
         "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
@@ -37,7 +65,7 @@
       "url": "https://open.spotify.com/track/01xWRzLhSgANX9CGgBzssk"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "Golfista",
         "url": "https://open.spotify.com/album/1JHZfKL76qZjPRmX92wAay"
@@ -57,7 +85,7 @@
       "url": "https://open.spotify.com/track/2R0RvdGFAOCznsB85KN0f4"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "EL VENDEDOR DE ROSAS",
         "url": "https://open.spotify.com/album/0BfyrvKdq69jR1HuHEn6cR"
@@ -77,7 +105,7 @@
       "url": "https://open.spotify.com/track/2PgzfI3gOPNZqC2hzI2KnK"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "De Lejitos",
         "url": "https://open.spotify.com/album/4LsQOT9fxqBpZLVLV9Ib55"
@@ -93,7 +121,7 @@
       "url": "https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "666",
         "url": "https://open.spotify.com/album/4P89Sy36vHWynHr8PPc4LL"
@@ -117,7 +145,7 @@
       "url": "https://open.spotify.com/track/5DSlJ0cO7WlcJcSK82yn20"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "WO OH OH",
         "url": "https://open.spotify.com/album/61JbOabPeXdG7X8zGkKxex"
@@ -137,7 +165,7 @@
       "url": "https://open.spotify.com/track/34bgCQVr0Wfuthiv8NeSQO"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "MUCHACHA",
         "url": "https://open.spotify.com/album/3ATVZVuF9q5phfA8Fwl96O"
@@ -161,23 +189,23 @@
       "url": "https://open.spotify.com/track/4rDCRcln8WCHWPRt0YTFLs"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
-        "name": "Please Behave Radio Vol.1",
-        "url": "https://open.spotify.com/album/3RZUXlDgrgHwFmCtn93Nku"
+        "name": "ONDE MI",
+        "url": "https://open.spotify.com/album/7dyNC0p1I9V8vAC88TmOJC"
       },
       "artists": [
         {
-          "name": "mvrk",
-          "url": "https://open.spotify.com/artist/6WCTfR8dIuTqWrFrzt2yl0"
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
         }
       ],
-      "duration_ms": 159059,
-      "name": "Subo Ya",
-      "url": "https://open.spotify.com/track/4wUpX4XbkqjWGC1sW7Xb4Y"
+      "duration_ms": 163333,
+      "name": "ONDE MI",
+      "url": "https://open.spotify.com/track/3K7HWBL2SIQIKjGcRY0t0z"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "POR TI",
         "url": "https://open.spotify.com/album/0NnW0UN9DFuNIzJHgUdaJa"
@@ -197,23 +225,27 @@
       "url": "https://open.spotify.com/track/3Ip1sc72P5uz8BUB9kb4QQ"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
-        "name": "ONDE MI",
-        "url": "https://open.spotify.com/album/7dyNC0p1I9V8vAC88TmOJC"
+        "name": "Pa que Brinque",
+        "url": "https://open.spotify.com/album/5srt4LiR1gIsLjkqwIrEII"
       },
       "artists": [
         {
-          "name": "La Pantera",
-          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
         }
       ],
-      "duration_ms": 163333,
-      "name": "ONDE MI",
-      "url": "https://open.spotify.com/track/3K7HWBL2SIQIKjGcRY0t0z"
+      "duration_ms": 192000,
+      "name": "Pa que Brinque",
+      "url": "https://open.spotify.com/track/4QA4aj2J7IHs729QxUSQSR"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "NYX00 (with JC Reyes)",
         "url": "https://open.spotify.com/album/76vkxtGwUplBS3sW3doHK8"
@@ -233,7 +265,7 @@
       "url": "https://open.spotify.com/track/0FI11LoJ41qud3TkFEYlzI"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "SCANDIC",
         "url": "https://open.spotify.com/album/1yyN0XBYnI7tJBCAhmmcOE"
@@ -249,7 +281,7 @@
       "url": "https://open.spotify.com/track/7D2A3hvJSabgicJ1HM4kDi"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "POR SI MA\u00d1ANA NO ESTOY",
         "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
@@ -269,7 +301,7 @@
       "url": "https://open.spotify.com/track/1YAWMfsmduIrpqrjP45pFn"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "Please Behave Radio Vol.1",
         "url": "https://open.spotify.com/album/3RZUXlDgrgHwFmCtn93Nku"
@@ -280,12 +312,12 @@
           "url": "https://open.spotify.com/artist/6WCTfR8dIuTqWrFrzt2yl0"
         }
       ],
-      "duration_ms": 128268,
-      "name": "Pop Up",
-      "url": "https://open.spotify.com/track/3a2u5U83KPHneJx8A30Rt1"
+      "duration_ms": 159059,
+      "name": "Subo Ya",
+      "url": "https://open.spotify.com/track/4wUpX4XbkqjWGC1sW7Xb4Y"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "JAQUEMATE",
         "url": "https://open.spotify.com/album/04ANyULQEElcjXF8VWBqXn"
@@ -301,7 +333,7 @@
       "url": "https://open.spotify.com/track/1mWb05Qkz2Np5MrATchbPH"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "Los Gangsters Tambien Lloran",
         "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
@@ -325,7 +357,7 @@
       "url": "https://open.spotify.com/track/7xjFEvchFCiAmuseCBModI"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "Choque",
         "url": "https://open.spotify.com/album/18G9V5rZ8UvMRgUbS5fshr"
@@ -345,27 +377,23 @@
       "url": "https://open.spotify.com/track/68KElV3TDyDy2zHPCWjUyt"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
-        "name": "Pa que Brinque",
-        "url": "https://open.spotify.com/album/5srt4LiR1gIsLjkqwIrEII"
+        "name": "Please Behave Radio Vol.1",
+        "url": "https://open.spotify.com/album/3RZUXlDgrgHwFmCtn93Nku"
       },
       "artists": [
         {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+          "name": "mvrk",
+          "url": "https://open.spotify.com/artist/6WCTfR8dIuTqWrFrzt2yl0"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Pa que Brinque",
-      "url": "https://open.spotify.com/track/4QA4aj2J7IHs729QxUSQSR"
+      "duration_ms": 128268,
+      "name": "Pop Up",
+      "url": "https://open.spotify.com/track/3a2u5U83KPHneJx8A30Rt1"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "Falsas Promesas (Remix)",
         "url": "https://open.spotify.com/album/14FAowouxDrPZQOhqrH2SM"
@@ -401,7 +429,7 @@
       "url": "https://open.spotify.com/track/09djeJtz8wrtQFs5YtwgD4"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "5 Estrellas - W Sound 23",
         "url": "https://open.spotify.com/album/4L6MTI7UEE1kF0zHprnx3S"
@@ -425,7 +453,23 @@
       "url": "https://open.spotify.com/track/7hYlC6s0SXSIwtFlW6NgjT"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
+      "album": {
+        "name": "POR QU\u00c9 SER\u00c1",
+        "url": "https://open.spotify.com/album/0k5P4aqC9iza7uIT9vuZ7F"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        }
+      ],
+      "duration_ms": 160159,
+      "name": "POR QU\u00c9 SER\u00c1",
+      "url": "https://open.spotify.com/track/7BzlQEYv3pmwVkIZNViGgr"
+    },
+    {
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "Eso Si Es De Gangster",
         "url": "https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL"
@@ -449,7 +493,7 @@
       "url": "https://open.spotify.com/track/0Git0Ix0KhqSQO2bhTfMXO"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "MALETA (feat. La Pantera)",
         "url": "https://open.spotify.com/album/1WBdhceozY8Jb2zGhjWGI8"
@@ -469,7 +513,7 @@
       "url": "https://open.spotify.com/track/1EOF0vLsu1GmmnOGP1wa0o"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "No vuelve a suceder (calentamiento pre \u00e1lbum)",
         "url": "https://open.spotify.com/album/13w7ZVbjnSHgp6xEER3KJB"
@@ -489,7 +533,7 @@
       "url": "https://open.spotify.com/track/1FmJbkz8Sij2C0mIpw612c"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "Olvidarnos De To' :)",
         "url": "https://open.spotify.com/album/1M6aeywMM8v55sGPL3WkTc"
@@ -509,7 +553,7 @@
       "url": "https://open.spotify.com/track/113qKxW6LitRIPAaUeHhyw"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "MVLAN",
         "url": "https://open.spotify.com/album/0zL3m3TQqvgJ1donJHGAmN"
@@ -529,7 +573,7 @@
       "url": "https://open.spotify.com/track/74t17BRV4el0mU0Tb8XY1k"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "Manhattan II",
         "url": "https://open.spotify.com/album/2Se1qWIRcHDKlX8F1rfYS0"
@@ -545,7 +589,7 @@
       "url": "https://open.spotify.com/track/4iK6DxY48lY27FHklxpEGY"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "MURAKAMI",
         "url": "https://open.spotify.com/album/5hmKsvbURF6ny5eSfEm8Zz"
@@ -569,7 +613,7 @@
       "url": "https://open.spotify.com/track/5JVUhvcanHXMOL6y3HsvNN"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "BARRIO FINO",
         "url": "https://open.spotify.com/album/3e6X9B9YYhCkT6tlUbEkYJ"
@@ -589,7 +633,7 @@
       "url": "https://open.spotify.com/track/6gk3QJ3UmDm7cu1CbePrxk"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "PONGO",
         "url": "https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y"
@@ -613,7 +657,7 @@
       "url": "https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "SOBR3NATURAL",
         "url": "https://open.spotify.com/album/3YL8LAv2btvXrF8NF8cArt"
@@ -633,7 +677,7 @@
       "url": "https://open.spotify.com/track/2SUvxXNz13l8eovlcfagfF"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "EL MUNDO SE VA A ACABAR",
         "url": "https://open.spotify.com/album/7c6vZUg8HMdXnAtBHUFLT4"
@@ -653,7 +697,7 @@
       "url": "https://open.spotify.com/track/2ickiFDq9U1MKG94SSg30n"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "TOORA",
         "url": "https://open.spotify.com/album/2qfQjlIupLSGNWG13Wv9gh"
@@ -669,7 +713,7 @@
       "url": "https://open.spotify.com/track/2OFojHt8s5grbY3Dq5ifkp"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "Buenos D\u00edas",
         "url": "https://open.spotify.com/album/0VI9CUYMmXVlCGhHJ4bgN2"
@@ -685,7 +729,7 @@
       "url": "https://open.spotify.com/track/4mc8byHXW8rmZT5L5jwYG5"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "GuapaDeCara",
         "url": "https://open.spotify.com/album/5BL3vQf7AntslHNFM91ZqK"
@@ -705,7 +749,7 @@
       "url": "https://open.spotify.com/track/1FeOs5QCYjMKxX4eZNq1Aw"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "FLAITEERA",
         "url": "https://open.spotify.com/album/4IuwTipm83UsyGlgQclqW8"
@@ -733,7 +777,7 @@
       "url": "https://open.spotify.com/track/2mh6vP7zo6mDXXKLnpHLPt"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "Cuando No Era Cantante (Remix)",
         "url": "https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ"
@@ -761,7 +805,7 @@
       "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "Tititi",
         "url": "https://open.spotify.com/album/4Ql6hN5to3517W1rWme30u"
@@ -785,7 +829,7 @@
       "url": "https://open.spotify.com/track/5q5yG0hIK2gjLf7zarKV9M"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "VOLVI\u00d3 EL PERREO (with DJ Luian)",
         "url": "https://open.spotify.com/album/519kAGpWRfLu916UM2wXqA"
@@ -805,7 +849,7 @@
       "url": "https://open.spotify.com/track/3Qk8BwdlfhxQgbsbirMWmD"
     },
     {
-      "added_at": "2026-04-21 16:17:38",
+      "added_at": "2026-04-23 22:04:26",
       "album": {
         "name": "ROSITA",
         "url": "https://open.spotify.com/album/3kU2wmmT1ix5kSHtNm1rFD"
@@ -827,26 +871,6 @@
       "duration_ms": 245469,
       "name": "ROSITA",
       "url": "https://open.spotify.com/track/4HyPxBQDLUnY3w7gukITrW"
-    },
-    {
-      "added_at": "2026-04-21 16:17:38",
-      "album": {
-        "name": "SETEADORA REMIX (with JC Reyes)",
-        "url": "https://open.spotify.com/album/0bvKMOZuhOUU0cbxfcmqEl"
-      },
-      "artists": [
-        {
-          "name": "LAJA",
-          "url": "https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb"
-        },
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        }
-      ],
-      "duration_ms": 121858,
-      "name": "SETEADORA REMIX (with JC Reyes)",
-      "url": "https://open.spotify.com/track/55ZSaezLr7fNrkLL0WCpOD"
     }
   ],
   "unique_name": "PEGAO",

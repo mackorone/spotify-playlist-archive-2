@@ -4,7 +4,7 @@
 
 > 
 
-2,998 songs - 6 day 10 hr 57 min
+3,001 songs - 6 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -951,6 +951,7 @@
 | [Fix Your Heart](https://open.spotify.com/track/3aaMcUvhve2BOMRURIANzr) | [Earsquaker](https://open.spotify.com/artist/76bxY8Zg5tjHCWkuRAbOFT) | [Fix Your Heart](https://open.spotify.com/album/1EXeH3UDashZ6lYiaBBBYA) | 2:44 | 2023-01-09 |  |
 | [FK THE PROGRAM](https://open.spotify.com/track/63szrXJ6UDfT96pnIUipva) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [The Second Dose](https://open.spotify.com/album/3zShX0xTLDzcTV2dvG7mDk) | 2:43 | 2023-11-26 |  |
 | [FKN D!E \- Radio Edit](https://open.spotify.com/track/7lONIzfoT0V7MQqex7SImD) | [UNSYN](https://open.spotify.com/artist/5jptqH3gT47JWOY3NFTXfw) | [FKN D!E \(Radio Edit\)](https://open.spotify.com/album/5YmBzzDFnpRk6KdUEHGWNT) | 2:41 | 2024-09-06 |  |
+| [FKN LOUD](https://open.spotify.com/track/6KefiS7DtDW4XGNrXzMhrk) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Manji](https://open.spotify.com/artist/3kKttmkT96hcdqjZUvlhmn) | [FKN LOUD](https://open.spotify.com/album/7jFH4LtFcNXSpBDB6sw4Bk) | 3:00 | 2026-04-23 |  |
 | [Flame](https://open.spotify.com/track/3ZT3IIRQ2Som8OdxYiR33X) | [KLIO](https://open.spotify.com/artist/7IGMJ3A8I6Sa2GlJ8qprcz), [DJ Satomi](https://open.spotify.com/artist/7MlcYSTwlLeOtBMDJ6WOv5) | [Flame](https://open.spotify.com/album/627TUnbvckfQbMh4rLZL56) | 2:35 | 2025-01-18 |  |
 | [Flames of Fate](https://open.spotify.com/track/36FK9nOwFkdyXfbcjt0VOD) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [Flames of Fate](https://open.spotify.com/album/2mDgoIAxTJTkIr4MgUD0PF) | 3:23 | 2023-11-20 |  |
 | [FLASHBACK](https://open.spotify.com/track/1H7AQoyD4W5KoKC38YkZhQ) | [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD), [Art Of Fighters](https://open.spotify.com/artist/04k0n1Rcz2MxqvZfioAOTE), [Dave Revan](https://open.spotify.com/artist/6lnLf5Y8uD0mP5dC0gXouZ) | [FLASHBACK](https://open.spotify.com/album/35WSx0Bs3IA0dMSDCYYYeG) | 3:01 | 2025-08-22 |  |
@@ -1767,6 +1768,7 @@
 | [Move](https://open.spotify.com/track/6doqbe856c2neBlujvsWgn) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM) | [Move](https://open.spotify.com/album/1n9X2lZ9WPXTkxTQDGtll7) | 2:40 | 2023-09-20 |  |
 | [Move Back](https://open.spotify.com/track/36vtruIhHvlAhlDfMwD3uB) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [NEED FOR SPEED](https://open.spotify.com/album/3bNU00DAypHgWuehEIl935) | 2:49 | 2024-07-26 |  |
 | [MOVE IT](https://open.spotify.com/track/0phNba6T5XUM48HWg2Yw5I) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb), [Kenai](https://open.spotify.com/artist/4ieHqqeITt9Fmhxk20Ueqf) | [MOVE IT](https://open.spotify.com/album/59zfhqCvoHXFbd2EkP7kxc) | 2:27 | 2024-11-29 |  |
+| [Move It](https://open.spotify.com/track/1O5XRBzrBgR2bdfSfJj5Rc) | [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq), [HETZKINEN](https://open.spotify.com/artist/6bERDnPnoFBo4ERukfbtuj) | [Move It](https://open.spotify.com/album/1GdfJwzwLIj80p5fE5XwGJ) | 2:31 | 2026-04-23 |  |
 | [Move Your Asss](https://open.spotify.com/track/5FzAO1cmyYnjG7IA8QtpCz) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Move Your Asss](https://open.spotify.com/album/7GNvTiFdPD1j976suBNxke) | 2:33 | 2025-03-30 |  |
 | [MOVE YOUR BODY](https://open.spotify.com/track/7e2yqF4ujSPc82GcaHbzJ3) | [Crypton](https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2) | [MOVE YOUR BODY](https://open.spotify.com/album/6tRzeyBTYWhNkdvlYf8YJd) | 1:56 | 2024-05-17 |  |
 | [Move Your Body](https://open.spotify.com/track/1pIxSn4PqX4rnLWv2QESPV) | [KO3](https://open.spotify.com/artist/1ioBfZldZvVAcqD3KXXTXy), [Relect](https://open.spotify.com/artist/64LAMG3aVE73uvOjIKTbTJ) | [KO3 & Relect](https://open.spotify.com/album/6ScskGhGomG49FGulCadQo) | 3:11 | 2022-09-30 |  |
@@ -2858,6 +2860,7 @@
 | [We Are Hardcore](https://open.spotify.com/track/4tGobCBbfeyptV2gdwZAAj) | [Re\-Style](https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E) | [We Are Hardcore](https://open.spotify.com/album/02n4e6DIdZxmwWzvqEzY7n) | 5:12 | 2023-03-24 |  |
 | [We are One \(Official Leaderz 2023 Anthem\)](https://open.spotify.com/track/2wVnIK8OHuNAvmvq30EsSt) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [Broken Brains](https://open.spotify.com/artist/5pgM0qfyjqqr1lMQCLxtL8), [Mc Braincase](https://open.spotify.com/artist/51itOrfxQckDhcRHOB1Fve) | [We are One \(Official Leaderz 2023 Anthem\)](https://open.spotify.com/album/3HeTRsYD6njlshBXB6097j) | 4:01 | 2023-10-06 |  |
 | [We Are One!](https://open.spotify.com/track/7gsduaZhq51N97J6FgsqkY) | [The Prophet](https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz), [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl) | [Back To The Rootz \#6 \| Hardstyle Classics Compilation](https://open.spotify.com/album/3VqjbvhX8Lo3OhaCxnUFZi) | 3:31 | 2024-04-01 |  |
+| [we build the hype](https://open.spotify.com/track/34l06X6vqBeKqITmvpuA3b) | [Bumloco](https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M) | [we build the hype](https://open.spotify.com/album/1efyMQK0J8ZjjtL8igznFf) | 2:11 | 2026-04-23 |  |
 | [WE BURNING THE DANCEFLOOR](https://open.spotify.com/track/5WfDFDDF85kFNlgrcDNOfg) | [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b), [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [RAVE LOVE](https://open.spotify.com/album/0jR0Be5fQFR88vVUDBahWs) | 3:56 | 2023-04-16 |  |
 | [WE CAN DO IT \(ONE MORE TIME\)](https://open.spotify.com/track/7Fm4Dbsf0a265oh8dCmbr5) | [Sanctuary](https://open.spotify.com/artist/4Jz2XNJkFwCCMe01IcGzbZ) | [WE CAN DO IT \(ONE MORE TIME\)](https://open.spotify.com/album/1NQzXVaNk4JKIn2LNUm33F) | 2:32 | 2024-11-02 |  |
 | [We Got No Fear](https://open.spotify.com/track/5d4IuD2rChqCZyqkxsUlsA) | [AbstructA](https://open.spotify.com/artist/18xTavO94JdpEs5Ta1oYuT), [TheRipper](https://open.spotify.com/artist/2MX6h0gDpDuOtKgoG9QxIt) | [We Got No Fear](https://open.spotify.com/album/2fvHcQnC1C3xxsaqKkESNs) | 2:30 | 2024-04-19 |  |

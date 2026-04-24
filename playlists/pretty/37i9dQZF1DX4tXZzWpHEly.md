@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 
 > Country songs that soundtrack the great Australian outback
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,946 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,960 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,14 +46,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 36 | [Cowboy](https://open.spotify.com/track/6xvD3k8rlUZLnzr2GBVIK7) | [Sunny Cowgirls](https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO) | [Here We Go](https://open.spotify.com/album/5Zwpz8j2OBECUD2oYRHM3M) | 2:57 |
 | 37 | [Let Me Be There](https://open.spotify.com/track/0E4HRDc8ReRr7Fy59eW2bX) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Let Me Be There](https://open.spotify.com/album/6WXUSQLuAYtoVRSWOFCBnx) | 3:01 |
 | 38 | [Summer's Little Angel](https://open.spotify.com/track/674ehjvBVjg874WczRx5fl) | [Steve Forde](https://open.spotify.com/artist/2WdWRfFSB5m9ivq7sOkBXL) | [Steve Forde](https://open.spotify.com/album/46T0ATAu5Yy6SWTHVDf9lw) | 2:53 |
-| 39 | [Born to Survive](https://open.spotify.com/track/1qJztvv77KYdBm4tce1D1K) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Long Way Home](https://open.spotify.com/album/64yV9WmwQecMCo9ojKgrSx) | 4:27 |
-| 40 | [Love That](https://open.spotify.com/track/6R5orfPIOuk9YoV7GnOz2h) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Love That](https://open.spotify.com/album/3uOBdfK51I9H0mko4OMoH5) | 3:10 |
+| 39 | [Love That](https://open.spotify.com/track/6R5orfPIOuk9YoV7GnOz2h) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Love That](https://open.spotify.com/album/3uOBdfK51I9H0mko4OMoH5) | 3:10 |
+| 40 | [Born to Survive](https://open.spotify.com/track/1qJztvv77KYdBm4tce1D1K) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Long Way Home](https://open.spotify.com/album/64yV9WmwQecMCo9ojKgrSx) | 4:27 |
 | 41 | [Chandelier of Stars](https://open.spotify.com/track/0K8bNqCPf3DzxWOpS9U1Wc) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [His Favourite Collection](https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ) | 3:15 |
 | 42 | [Poster Girl \- Wrong Side of the World](https://open.spotify.com/track/0Otqe3FHmD1LmJb6Ml22bs) | [Beccy Cole](https://open.spotify.com/artist/5ed39W9I1i3LRpNa6Jk1bG) | [Feel This Free](https://open.spotify.com/album/0bkUg5k6yo3Sx9MzcNte80) | 4:01 |
 | 43 | [Walk A Country Mile](https://open.spotify.com/track/3KhUgTw3hzDZPwgbpxgIEE) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Walk A Country Mile](https://open.spotify.com/album/3sc1AiknncWpdSsemqjhXi) | 2:52 |
-| 44 | [River Boy](https://open.spotify.com/track/3YeWaNZYh3SMEmRaGC0Ou9) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM), [Shane Howard](https://open.spotify.com/artist/5tsrQhSZ8itdWGtjNWW6f3) | [Borrowed & Blue](https://open.spotify.com/album/2Cs7Ak4mFH1JXIw9Nd3hIn) | 2:51 |
-| 45 | [Roll On](https://open.spotify.com/track/3i1isbSpcLUVejr3rT9bNT) | [Fanny Lumsden](https://open.spotify.com/artist/4WxHef1Si5yaAaCWUc6Ug2) | [Real Class Act](https://open.spotify.com/album/74DyShEFHHQ6HiwScPSf6e) | 2:57 |
-| 46 | [Charcoal Lane](https://open.spotify.com/track/3XhjdHcb8Hi4zBPCkneDYz) | [Archie Roach](https://open.spotify.com/artist/4LtYxILg8YPMwQjKnXb5kh) | [Charcoal Lane](https://open.spotify.com/album/2cB16btwYMf8hOu2BlFvLl) | 3:21 |
+| 44 | [Charcoal Lane](https://open.spotify.com/track/3XhjdHcb8Hi4zBPCkneDYz) | [Archie Roach](https://open.spotify.com/artist/4LtYxILg8YPMwQjKnXb5kh) | [Charcoal Lane](https://open.spotify.com/album/2cB16btwYMf8hOu2BlFvLl) | 3:21 |
+| 45 | [River Boy](https://open.spotify.com/track/3YeWaNZYh3SMEmRaGC0Ou9) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM), [Shane Howard](https://open.spotify.com/artist/5tsrQhSZ8itdWGtjNWW6f3) | [Borrowed & Blue](https://open.spotify.com/album/2Cs7Ak4mFH1JXIw9Nd3hIn) | 2:51 |
+| 46 | [Roll On](https://open.spotify.com/track/3i1isbSpcLUVejr3rT9bNT) | [Fanny Lumsden](https://open.spotify.com/artist/4WxHef1Si5yaAaCWUc6Ug2) | [Real Class Act](https://open.spotify.com/album/74DyShEFHHQ6HiwScPSf6e) | 2:57 |
 | 47 | [A Little More](https://open.spotify.com/track/1MTsJP1zoc3sFiXgrt7uLv) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Town of a Million Dreams](https://open.spotify.com/album/7EBct2XcvSl4zwCCphASFS) | 3:19 |
 | 48 | [9 To 5](https://open.spotify.com/track/7E2jg8Vl3fC0VTDhHLUzWM) | [Melinda Schneider](https://open.spotify.com/artist/131ggn8n3rIaHaudwsQoJW), [Beccy Cole](https://open.spotify.com/artist/5ed39W9I1i3LRpNa6Jk1bG) | [Great Women Of Country And The Songs That Made Them](https://open.spotify.com/album/19n03c8yJe4JBn4z8Jhn6U) | 3:27 |
 | 49 | [Rattlin' Bones](https://open.spotify.com/track/2SPZKCTMGDjg0AMGhvehLH) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4HcgEh8nstAPqYptEWtVOM) | 3:42 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 59 | [Bury Me In Blue Jeans](https://open.spotify.com/track/3E3ZNCCIZt5TOgjS0IYyQY) | [Tailgate Drive](https://open.spotify.com/artist/5Saz490V1lZlwrQ6kTPFI8) | [Bury Me In Blue Jeans](https://open.spotify.com/album/39vorNleYwSGm4eCWoq4kB) | 4:03 |
 | 60 | [Chain of Joy](https://open.spotify.com/track/4riMZ7xA4evmLwzgSc8cEo) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 2:57 |
 | 61 | [Showing Off](https://open.spotify.com/track/2ftpWJhsGQ3kEMKXYd7KL2) | [Route 33](https://open.spotify.com/artist/5KDFgnaOWRd3B8V1WQWZlE) | [Coro Drive](https://open.spotify.com/album/1TMvAafJiN5nZJ8nYCJwPy) | 3:32 |
-| 62 | [Highway Sky](https://open.spotify.com/track/4Pda5mOC2wOK2LnhgAm6Vr) | [Brooke McClymont & Adam Eckersley](https://open.spotify.com/artist/1L6measG8DBCJTw8OxZ8HC) | [Adam & Brooke](https://open.spotify.com/album/6jnnOv7dRx8nenDWoMfrC2) | 5:20 |
-| 63 | [Saturated](https://open.spotify.com/track/17bC7BQoH9R4x5E9SDYTsa) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 4:00 |
+| 62 | [Saturated](https://open.spotify.com/track/17bC7BQoH9R4x5E9SDYTsa) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 4:00 |
+| 63 | [Highway Sky](https://open.spotify.com/track/4Pda5mOC2wOK2LnhgAm6Vr) | [Brooke McClymont & Adam Eckersley](https://open.spotify.com/artist/1L6measG8DBCJTw8OxZ8HC) | [Adam & Brooke](https://open.spotify.com/album/6jnnOv7dRx8nenDWoMfrC2) | 5:20 |
 | 64 | [Better Days](https://open.spotify.com/track/7eGt8dg46ni1LGK82034MJ) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [The Good Life](https://open.spotify.com/album/0o8Ylc1KfRnV1nv41BCP2c) | 3:52 |
 | 65 | [A Woman Knows](https://open.spotify.com/track/11cErfQuLGZMX3qovKJPF7) | [Gina Jeffreys](https://open.spotify.com/artist/1kfw6RPH8k2cuQnZ1fqnzk) | [Walks Of Life](https://open.spotify.com/album/2fE3yJQw1AL11aP2CtRUZA) | 3:20 |
 | 66 | [So Long So Long](https://open.spotify.com/track/5nGF0GD9p1lnKn8OdUNlUL) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [So Long So Long](https://open.spotify.com/album/0DrSVziCS5z1okRftdWpIh) | 3:00 |

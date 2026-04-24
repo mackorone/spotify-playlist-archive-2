@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Aka Mind. The essential tracks, all in one playlist.",
-  "num_followers": 4893,
+  "num_followers": 4895,
   "original_name": "This Is Ali Aka Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAAAh8zHL5fSOLIhWQ9I1yuDp",
+  "snapshot_id": "aegPgAAAAABoKG77brlak/F1Qh6qisqV",
   "tracks": [
     {
       "added_at": null,
@@ -279,18 +279,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rap Conciencia",
-        "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
+        "name": "Yo Quise",
+        "url": "https://open.spotify.com/album/77SgnkVqnSZXF5gdgmhXBR"
       },
       "artists": [
         {
           "name": "Ali Aka Mind",
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Elias Wallace",
+          "url": "https://open.spotify.com/artist/5SaZEYSyIV17OizlU9DjzI"
+        },
+        {
+          "name": "T-Chord",
+          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
         }
       ],
-      "duration_ms": 226840,
-      "name": "Pasaporte Colombiano",
-      "url": "https://open.spotify.com/track/6pnaNZn44tnO71640OEEB8"
+      "duration_ms": 212980,
+      "name": "Yo Quise",
+      "url": "https://open.spotify.com/track/7LM6uu4KYVoduR9ESEf6Ym"
     },
     {
       "added_at": null,
@@ -327,22 +335,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manjit",
-        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
+        "name": "Rap Conciencia",
+        "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
       },
       "artists": [
         {
           "name": "Ali Aka Mind",
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "T-Chord",
-          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
         }
       ],
-      "duration_ms": 170501,
-      "name": "Buen Viaje",
-      "url": "https://open.spotify.com/track/4yKTuSizI3B6Rkd2CF0fAE"
+      "duration_ms": 226840,
+      "name": "Pasaporte Colombiano",
+      "url": "https://open.spotify.com/track/6pnaNZn44tnO71640OEEB8"
     },
     {
       "added_at": null,
@@ -363,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Quise",
-        "url": "https://open.spotify.com/album/77SgnkVqnSZXF5gdgmhXBR"
+        "name": "Manjit",
+        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
       },
       "artists": [
         {
@@ -372,17 +376,13 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         },
         {
-          "name": "Elias Wallace",
-          "url": "https://open.spotify.com/artist/5SaZEYSyIV17OizlU9DjzI"
-        },
-        {
           "name": "T-Chord",
           "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
         }
       ],
-      "duration_ms": 212980,
-      "name": "Yo Quise",
-      "url": "https://open.spotify.com/track/7LM6uu4KYVoduR9ESEf6Ym"
+      "duration_ms": 170501,
+      "name": "Buen Viaje",
+      "url": "https://open.spotify.com/track/4yKTuSizI3B6Rkd2CF0fAE"
     },
     {
       "added_at": null,
@@ -891,6 +891,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mestizo",
+        "url": "https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Rakaa de Dilated Peoples",
+          "url": "https://open.spotify.com/artist/7Bp2zDaEOWhyWRJOEEUUo0"
+        }
+      ],
+      "duration_ms": 234278,
+      "name": "Nada Nos Para",
+      "url": "https://open.spotify.com/track/5odmSa7DCFFDofSpYgzCik"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rap Conciencia",
         "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
       },
@@ -975,26 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mestizo",
-        "url": "https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Rakaa de Dilated Peoples",
-          "url": "https://open.spotify.com/artist/7Bp2zDaEOWhyWRJOEEUUo0"
-        }
-      ],
-      "duration_ms": 234278,
-      "name": "Nada Nos Para",
-      "url": "https://open.spotify.com/track/5odmSa7DCFFDofSpYgzCik"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobrevivente",
         "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
       },
@@ -1027,26 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s & Menos",
-        "url": "https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus"
-      },
-      "artists": [
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 269413,
-      "name": "M\u00e1s & Menos",
-      "url": "https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Estado Popular Del Alma \u2022 Epa",
         "url": "https://open.spotify.com/album/5XYKA56UCb99ZIEFUCiKC1"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 214600,
       "name": "Invente",
       "url": "https://open.spotify.com/track/5zXSfcJsB3UOJJh07ICLVO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1s & Menos",
+        "url": "https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus"
+      },
+      "artists": [
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 269413,
+      "name": "M\u00e1s & Menos",
+      "url": "https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA"
     },
     {
       "added_at": null,
@@ -1111,30 +1111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ICE",
-        "url": "https://open.spotify.com/album/1C2uyASCMHSazQkJyLleTd"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Lck Bardi",
-          "url": "https://open.spotify.com/artist/29LK3hqrdu5hDjPSK9D8NW"
-        },
-        {
-          "name": "Nk Profeta",
-          "url": "https://open.spotify.com/artist/1vLPW52pGIXKKkcmKivXo5"
-        }
-      ],
-      "duration_ms": 193237,
-      "name": "ICE",
-      "url": "https://open.spotify.com/track/2UZLWRXS8MlzvUxVsQbGjC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apartamento 23",
         "url": "https://open.spotify.com/album/2X5xKYHX32aybrZiZznQet"
       },
@@ -1155,6 +1131,30 @@
       "duration_ms": 229500,
       "name": "Olvidarme de Ti",
       "url": "https://open.spotify.com/track/3maV3zRST3lH8rT5RHVHzH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ICE",
+        "url": "https://open.spotify.com/album/1C2uyASCMHSazQkJyLleTd"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Lck Bardi",
+          "url": "https://open.spotify.com/artist/29LK3hqrdu5hDjPSK9D8NW"
+        },
+        {
+          "name": "Nk Profeta",
+          "url": "https://open.spotify.com/artist/1vLPW52pGIXKKkcmKivXo5"
+        }
+      ],
+      "duration_ms": 193237,
+      "name": "ICE",
+      "url": "https://open.spotify.com/track/2UZLWRXS8MlzvUxVsQbGjC"
     }
   ],
   "unique_name": "This Is Ali Aka Mind",

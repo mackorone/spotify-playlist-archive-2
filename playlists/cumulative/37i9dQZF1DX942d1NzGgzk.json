@@ -1979,6 +1979,24 @@
     },
     {
       "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/2fcA8uAebc2l0T4xNt8qof"
+      },
+      "artists": [
+        {
+          "name": "Sipprell",
+          "url": "https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223186,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/20L7PliDhO2c0mvoeDXu04"
+    },
+    {
+      "album": {
         "name": "Courage",
         "url": "https://open.spotify.com/album/5tt4mmD6paPZ0NvGQPB4kG"
       },
@@ -3068,6 +3086,24 @@
       "duration_ms": 160000,
       "name": "feels like home",
       "url": "https://open.spotify.com/track/6mEbQzPatJwotaLbYB6OLQ"
+    },
+    {
+      "album": {
+        "name": "Fell Again / Stranger What's Your Name?",
+        "url": "https://open.spotify.com/album/5ug1JL9PFc1gCxokrSh1yo"
+      },
+      "artists": [
+        {
+          "name": "cikho",
+          "url": "https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161764,
+      "name": "Fell Again",
+      "url": "https://open.spotify.com/track/6S86CLAoA7S19wk8WeQjRs"
     },
     {
       "album": {
@@ -4812,7 +4848,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 168800,
       "name": "I'm Trouble",
       "url": "https://open.spotify.com/track/0mAUDnOZO6Fu5N8PXwd2oT"
@@ -5420,7 +5456,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 194174,
       "name": "Jezebel",
       "url": "https://open.spotify.com/track/1NciBc7baz5hT6jNTixk7w"
@@ -6226,7 +6262,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 240000,
       "name": "Lost In You",
       "url": "https://open.spotify.com/track/6mjAfjlIvfn21hYhwP4Inl"
@@ -10040,7 +10076,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 123770,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/2dkBqfmVutdwnf3qx048n6"
@@ -10294,6 +10330,24 @@
       "duration_ms": 205597,
       "name": "traces",
       "url": "https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi"
+    },
+    {
+      "album": {
+        "name": "Kizzy",
+        "url": "https://open.spotify.com/album/2kQDQctLqaMMOnX84ZIzcw"
+      },
+      "artists": [
+        {
+          "name": "Bel Cobain",
+          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/33ljpH5mxnf6LAU96WtWiC"
     },
     {
       "album": {
@@ -10742,6 +10796,24 @@
       "duration_ms": 441986,
       "name": "We Need You",
       "url": "https://open.spotify.com/track/68yUHwnNiuhltk2HQoIu9l"
+    },
+    {
+      "album": {
+        "name": "We Still Good??",
+        "url": "https://open.spotify.com/album/58Tex34A783zyGDC1amh2v"
+      },
+      "artists": [
+        {
+          "name": "Leah Music",
+          "url": "https://open.spotify.com/artist/3FrtVf61eHTo2BZNG1qTOK"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "We Still Good??",
+      "url": "https://open.spotify.com/track/42LIEv6ZRSrouYUhz5UT71"
     },
     {
       "album": {

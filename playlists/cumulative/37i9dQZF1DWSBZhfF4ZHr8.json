@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Pierre de Maere\n\n",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Marguerite\n\n",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -362,7 +362,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 152066,
       "name": "Au revoir au d\u00e9part",
       "url": "https://open.spotify.com/track/0XUvdwliJwl40PGatwdeHV"
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 185466,
       "name": "Comme Caroline (feat. MC Solaar)",
       "url": "https://open.spotify.com/track/4EWeDhIeB90lUmgsVKATi2"
@@ -1474,6 +1474,28 @@
       "duration_ms": 169521,
       "name": "Crash Dans Tes Bras",
       "url": "https://open.spotify.com/track/3SySzHH2kUy1JplgpVc8Rr"
+    },
+    {
+      "album": {
+        "name": "crash test - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1DngVihHwqNBJRBdDvnKLW"
+      },
+      "artists": [
+        {
+          "name": "marguerite",
+          "url": "https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194432,
+      "name": "crash test - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2F6V0NKuHJVePE7LCBUYaX"
     },
     {
       "album": {
@@ -2399,6 +2421,24 @@
     },
     {
       "album": {
+        "name": "Je pleure aussi",
+        "url": "https://open.spotify.com/album/0NyW0DAfUZoDLfLLsA7vS7"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00efa",
+          "url": "https://open.spotify.com/artist/5VkCrXUBHElxXQjJhM2k9t"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175980,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/4kJwTxAud278y3KmgJ5Wk3"
+    },
+    {
+      "album": {
         "name": "Fou",
         "url": "https://open.spotify.com/album/51tbf3pT4437nEvVA9T9dE"
       },
@@ -2417,7 +2457,7 @@
     },
     {
       "album": {
-        "name": "Frerot",
+        "name": "Fr\u00e9rot",
         "url": "https://open.spotify.com/album/6Ma7L5f2hce8QCHaol5V4h"
       },
       "artists": [
@@ -2430,7 +2470,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 163806,
-      "name": "Frerot",
+      "name": "Fr\u00e9rot",
       "url": "https://open.spotify.com/track/6aZhAyAkZDl00J7c6o35Qc"
     },
     {
@@ -2958,7 +2998,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 122500,
       "name": "J'veux qu'on s'aime",
       "url": "https://open.spotify.com/track/3TcQ7REFvKc8LOy0QdmA2s"
@@ -5445,6 +5485,24 @@
     },
     {
       "album": {
+        "name": "1,2,3",
+        "url": "https://open.spotify.com/album/1EkutaiP4rkbVquS5zx42X"
+      },
+      "artists": [
+        {
+          "name": "Montemarco",
+          "url": "https://open.spotify.com/artist/3A86WsWLl8c2VVUhIKbQHq"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180466,
+      "name": "Monstre",
+      "url": "https://open.spotify.com/track/4zLsVaLoUAOtCmoABFrARN"
+    },
+    {
+      "album": {
         "name": "MUGANGA",
         "url": "https://open.spotify.com/album/0xRRXXAcNkWoQf24Akl5kA"
       },
@@ -5792,6 +5850,24 @@
       "duration_ms": 146253,
       "name": "On est plein",
       "url": "https://open.spotify.com/track/2ICuCWhGgRjDrwWwLU6BZL"
+    },
+    {
+      "album": {
+        "name": "On s'oubliera",
+        "url": "https://open.spotify.com/album/3ywguICDx6ONovk6yUO0ig"
+      },
+      "artists": [
+        {
+          "name": "Elliott",
+          "url": "https://open.spotify.com/artist/5wDLFAbBdYDPPwAVA9UONC"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138113,
+      "name": "On s'oubliera",
+      "url": "https://open.spotify.com/track/6NaQWW8rAovNAsQSC5y5Zb"
     },
     {
       "album": {
@@ -6721,6 +6797,28 @@
     },
     {
       "album": {
+        "name": "MINUIT UNE",
+        "url": "https://open.spotify.com/album/68Ytb90ofkAKWRfp2D5h1t"
+      },
+      "artists": [
+        {
+          "name": "Amel Bent",
+          "url": "https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155155,
+      "name": "Quelle \u00e9poque",
+      "url": "https://open.spotify.com/track/25ez46scpanlXxlyGX7oEN"
+    },
+    {
+      "album": {
         "name": "La Pieva",
         "url": "https://open.spotify.com/album/45DPqxb2Dp6gDnwO9gpiSi"
       },
@@ -6804,7 +6902,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 183093,
       "name": "Radieux",
       "url": "https://open.spotify.com/track/5tEoCZkPF0P4BR12fxNQ5P"
@@ -6952,6 +7050,24 @@
       "duration_ms": 153200,
       "name": "Rien qu'\u00e7a",
       "url": "https://open.spotify.com/track/237WM1VgB4TEGTXcUpCqnL"
+    },
+    {
+      "album": {
+        "name": "Rien \u00e0 carrer",
+        "url": "https://open.spotify.com/album/23UB058w8VPfTSZRvx1Z6A"
+      },
+      "artists": [
+        {
+          "name": "Lena\u00efg",
+          "url": "https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168813,
+      "name": "Rien \u00e0 carrer",
+      "url": "https://open.spotify.com/track/2Z6pOBVtqEktMXd4jyLvHi"
     },
     {
       "album": {
@@ -7966,7 +8082,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 218107,
       "name": "tous les matins du monde",
       "url": "https://open.spotify.com/track/68CPgeqnQMeKqHFMZieQdP"
@@ -8786,7 +8902,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-24",
       "duration_ms": 189586,
       "name": "\u00c7a fait mal",
       "url": "https://open.spotify.com/track/20TU073PqgJ2IcL9rYvhoS"

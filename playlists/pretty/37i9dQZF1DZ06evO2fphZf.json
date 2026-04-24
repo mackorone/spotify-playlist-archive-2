@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12594,
+  "num_followers": 12597,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeVsgAAAAABKYn7VGgUZBdOD1LZFgnbp",
+  "snapshot_id": "aegPgAAAAAAPyAIB1kWUls4TRpoT0X1H",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i hope u see this",
-        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "trippin'",
-      "url": "https://open.spotify.com/track/61paqDrRJe8h4c5ypysurz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "hair down (with CHUNG HA)",
         "url": "https://open.spotify.com/album/5pViClRtFnnMBoRwfGS2rh"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 209060,
       "name": "hair down (with CHUNG HA)",
       "url": "https://open.spotify.com/track/0J6uaKir7FzzTvnQcpg0MJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i hope u see this",
+        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "trippin'",
+      "url": "https://open.spotify.com/track/61paqDrRJe8h4c5ypysurz"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "mood ring",
-        "url": "https://open.spotify.com/album/6hon78tr9upFF2OvLelBNq"
+        "name": "don't miss me too much",
+        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 176123,
-      "name": "mood ring",
-      "url": "https://open.spotify.com/track/6K2XtWOGBJJLttE8NFNw0o"
+      "duration_ms": 197474,
+      "name": "don't miss me too much",
+      "url": "https://open.spotify.com/track/3CpvvoudcR6LJtChWIOzTo"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "don't miss me too much",
-        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
+        "name": "mood ring",
+        "url": "https://open.spotify.com/album/6hon78tr9upFF2OvLelBNq"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 197474,
-      "name": "don't miss me too much",
-      "url": "https://open.spotify.com/track/3CpvvoudcR6LJtChWIOzTo"
+      "duration_ms": 176123,
+      "name": "mood ring",
+      "url": "https://open.spotify.com/track/6K2XtWOGBJJLttE8NFNw0o"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 145966,
-      "name": "roleplay",
-      "url": "https://open.spotify.com/track/1J6NSOo1WZDwwj5GjmcQGv"
+      "duration_ms": 159229,
+      "name": "shy boy",
+      "url": "https://open.spotify.com/track/2fSrOUvQT2NjGA1pheHVQH"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1124674,
+  "num_followers": 1124587,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 269093,
+      "name": "Im\u00e1genes Paganas",
+      "url": "https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
         "name": "Tango 4",
         "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 186466,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 269093,
-      "name": "Im\u00e1genes Paganas",
-      "url": "https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Artaud",
-        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
-      },
-      "artists": [
-        {
-          "name": "Pescado Rabioso",
-          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
-        }
-      ],
-      "duration_ms": 130080,
-      "name": "Todas las Hojas Son del Viento",
-      "url": "https://open.spotify.com/track/689lBKIELtWGHfsPWpR6rv"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Divididos Por La Felicidad",
         "url": "https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 286813,
       "name": "Mejor No Hablar de Ciertas Cosas",
       "url": "https://open.spotify.com/track/0FHpUs8anxUWl3pMXMhmXj"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Artaud",
+        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
+      },
+      "artists": [
+        {
+          "name": "Pescado Rabioso",
+          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
+        }
+      ],
+      "duration_ms": 130080,
+      "name": "Todas las Hojas Son del Viento",
+      "url": "https://open.spotify.com/track/689lBKIELtWGHfsPWpR6rv"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
+        "name": "Seru Giran 92",
+        "url": "https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00fa Gir\u00e1n",
+          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Nos Veremos Otra Vez",
+      "url": "https://open.spotify.com/track/1FBdUVBQsG8suMoKaF3GOi"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
         "name": "Lo Mejor de Pescado Rabioso",
         "url": "https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 226226,
       "name": "Post-Crucifixion",
       "url": "https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "Cuentos Decapitados",
-        "url": "https://open.spotify.com/album/4agUniovdijNcGf3blcYQM"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 192240,
-      "name": "Y Lo Que Quiero Es Que Pises Sin El Suelo",
-      "url": "https://open.spotify.com/track/3z5F0EaY9VCq9GiQPzrbDX"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -623,18 +623,18 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Seru Giran 92",
-        "url": "https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4"
+        "name": "Cuentos Decapitados",
+        "url": "https://open.spotify.com/album/4agUniovdijNcGf3blcYQM"
       },
       "artists": [
         {
-          "name": "Ser\u00fa Gir\u00e1n",
-          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
         }
       ],
-      "duration_ms": 238400,
-      "name": "Nos Veremos Otra Vez",
-      "url": "https://open.spotify.com/track/1FBdUVBQsG8suMoKaF3GOi"
+      "duration_ms": 192240,
+      "name": "Y Lo Que Quiero Es Que Pises Sin El Suelo",
+      "url": "https://open.spotify.com/track/3z5F0EaY9VCq9GiQPzrbDX"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Donde estabas tu... en el 93?",
-        "url": "https://open.spotify.com/album/1RRiaLNLuvtlCLVM4x5JeI"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Sin documentos",
-      "url": "https://open.spotify.com/track/4BzQlAd7QUdqRydbEnO5R5"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Los Gatos",
         "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 176000,
       "name": "La Balsa",
       "url": "https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Donde estabas tu... en el 93?",
+        "url": "https://open.spotify.com/album/1RRiaLNLuvtlCLVM4x5JeI"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Sin documentos",
+      "url": "https://open.spotify.com/track/4BzQlAd7QUdqRydbEnO5R5"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Manal",
-        "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
-      },
-      "artists": [
-        {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Jugo de Tomate",
-      "url": "https://open.spotify.com/track/0agzpJR3jRbfLKhG5nWxx3"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Viento Dile a la Lluvia",
         "url": "https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 169120,
       "name": "Viento, Dile a la Lluvia",
       "url": "https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Manal",
+        "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Jugo de Tomate",
+      "url": "https://open.spotify.com/track/0agzpJR3jRbfLKhG5nWxx3"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Manal",
-        "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
-      },
-      "artists": [
-        {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1"
-        }
-      ],
-      "duration_ms": 230146,
-      "name": "No Pibe",
-      "url": "https://open.spotify.com/track/1XjCxUmgXzqLEGzqUse3qK"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Tiempo de Resurrecci\u00f3n",
         "url": "https://open.spotify.com/album/57QC2S4mWSAP2MwVIB40QM"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 169525,
       "name": "Ma\u00f1ana Campestre",
       "url": "https://open.spotify.com/track/1f3uOzmizXQfkezHCdu53L"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Manal",
+        "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1"
+        }
+      ],
+      "duration_ms": 230146,
+      "name": "No Pibe",
+      "url": "https://open.spotify.com/track/1XjCxUmgXzqLEGzqUse3qK"
     },
     {
       "added_at": "2024-11-11 16:58:11",
