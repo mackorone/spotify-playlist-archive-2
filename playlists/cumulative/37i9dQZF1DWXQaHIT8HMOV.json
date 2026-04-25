@@ -312,7 +312,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 185913,
       "name": "After Party",
       "url": "https://open.spotify.com/track/5utBkhTZULODs9aVAZrDIT"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 200000,
       "name": "Ba Haters (Remix)",
       "url": "https://open.spotify.com/track/6jcUNNWZh3Lt10R2cZ8IkU"
@@ -710,6 +710,28 @@
       "duration_ms": 165250,
       "name": "Back",
       "url": "https://open.spotify.com/track/3hf9XdQz2JETTL489EiI6b"
+    },
+    {
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/3ZoUNcdPIqP0MbjDLZu1un"
+      },
+      "artists": [
+        {
+          "name": "Jamzzzo",
+          "url": "https://open.spotify.com/artist/38yr6rGLa7wpzGL0I1scnN"
+        },
+        {
+          "name": "Expect XHAVI",
+          "url": "https://open.spotify.com/artist/2UD1QtSxiIQHdWdDIXJPwT"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173195,
+      "name": "Back Home",
+      "url": "https://open.spotify.com/track/2sMfwiGVzbZRHfGIIJlpKm"
     },
     {
       "album": {
@@ -2301,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "Critical Condition",
+        "url": "https://open.spotify.com/album/4q0gpSPTP9yyJ1YW2YmxpO"
+      },
+      "artists": [
+        {
+          "name": "Cxnrvd",
+          "url": "https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191020,
+      "name": "Critical Condition",
+      "url": "https://open.spotify.com/track/7CEHx11zkiSMrz784e1e0e"
+    },
+    {
+      "album": {
         "name": "Sunflowers in Sahara (SiS)",
         "url": "https://open.spotify.com/album/6qtPTO6Ob7N3j59FV2AGb8"
       },
@@ -2406,7 +2446,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 181250,
       "name": "Darlie",
       "url": "https://open.spotify.com/track/7zevWR3wRI6AyjjjIqHsVC"
@@ -2705,6 +2745,32 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Go",
+        "url": "https://open.spotify.com/album/5RkZYLvw3zTBpq3lAf32KV"
+      },
+      "artists": [
+        {
+          "name": "Tukus",
+          "url": "https://open.spotify.com/artist/3peklgoQI4Tt732U9pum1B"
+        },
+        {
+          "name": "Tipcey",
+          "url": "https://open.spotify.com/artist/00m8BZhspl5hoDbVXZMDNr"
+        },
+        {
+          "name": "Dj Harold",
+          "url": "https://open.spotify.com/artist/0t94qXQLOExk6iZ3ErjNcw"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174104,
+      "name": "Don\u2019t Go",
+      "url": "https://open.spotify.com/track/6yaI08I8Oe90mO5vxexYWN"
+    },
+    {
+      "album": {
         "name": "Dorah",
         "url": "https://open.spotify.com/album/5LWMDoSQwKTasHfxYwT5D5"
       },
@@ -2786,7 +2852,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 177551,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2BB5nzxCnlBwxtO2Vj0Eiu"
@@ -6729,6 +6795,24 @@
     },
     {
       "album": {
+        "name": "Nia Long",
+        "url": "https://open.spotify.com/album/6WyRshX9LfwtBJSvw3g0V1"
+      },
+      "artists": [
+        {
+          "name": "Sopreno C",
+          "url": "https://open.spotify.com/artist/1caoS37KwyMhmhhYFfYFDs"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212210,
+      "name": "Nia Long",
+      "url": "https://open.spotify.com/track/3KOg5LXf4JwptYOyYND62o"
+    },
+    {
+      "album": {
         "name": "Nikushike",
         "url": "https://open.spotify.com/album/00P9EnFEe19TeSyjhVe9kP"
       },
@@ -7002,6 +7086,24 @@
       "duration_ms": 298604,
       "name": "Nkyaliwo",
       "url": "https://open.spotify.com/track/1JUk2z62b1WHSRukWKjWvY"
+    },
+    {
+      "album": {
+        "name": "NO CONDITION",
+        "url": "https://open.spotify.com/album/3NIuEFypuKNFvgLa5zmW2y"
+      },
+      "artists": [
+        {
+          "name": "Joka",
+          "url": "https://open.spotify.com/artist/7umpHJB8guUwgjaP2ZryKw"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126114,
+      "name": "NO CONDITION",
+      "url": "https://open.spotify.com/track/1UtM3RoJF42ypxSAnEi3qJ"
     },
     {
       "album": {
@@ -9604,7 +9706,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 161708,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/44ohwgdP6fywqjza4cwBU4"
@@ -9816,6 +9918,24 @@
       "duration_ms": 216521,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/6ALJy5vDLQtgR4rq6OtKt2"
+    },
+    {
+      "album": {
+        "name": "Tempting",
+        "url": "https://open.spotify.com/album/5eej4jPfmVfBoHdmOiWiDo"
+      },
+      "artists": [
+        {
+          "name": "Ykee Benda",
+          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226800,
+      "name": "Tempting",
+      "url": "https://open.spotify.com/track/4r74GIPBPmwggwWm5Z778b"
     },
     {
       "album": {
@@ -10104,7 +10224,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 161860,
       "name": "Tonalaba",
       "url": "https://open.spotify.com/track/0zyvr9G5PrfuvhqlCKMh4O"
@@ -10560,6 +10680,24 @@
       "duration_ms": 148000,
       "name": "Uganda Mpya",
       "url": "https://open.spotify.com/track/0OcDu4NSAlD6fAUdSNq1ZX"
+    },
+    {
+      "album": {
+        "name": "Uh Huh",
+        "url": "https://open.spotify.com/album/1xekAF0w5YzvRGwHbw0z09"
+      },
+      "artists": [
+        {
+          "name": "Tai Dai",
+          "url": "https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/7GxGz0fU4NdeidEVjCOk9R"
     },
     {
       "album": {
@@ -11224,7 +11362,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 174315,
       "name": "Your Ways",
       "url": "https://open.spotify.com/track/50b953jkgOie1y0tkm7cnf"

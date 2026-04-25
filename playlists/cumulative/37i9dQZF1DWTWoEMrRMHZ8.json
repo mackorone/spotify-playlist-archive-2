@@ -8418,7 +8418,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 183269,
       "name": "Fica Comigo",
       "url": "https://open.spotify.com/track/2My6FMW4g6fbHrOU5c4b4s"
@@ -10236,7 +10236,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 126195,
       "name": "Lagartixa Tropical",
       "url": "https://open.spotify.com/track/1KQdl4gntICsLUAMa3x2qw"
@@ -11583,6 +11583,24 @@
     },
     {
       "album": {
+        "name": "Me Quedo Por Ti",
+        "url": "https://open.spotify.com/album/1K6yA4zSBJJcG1WjmOGgTq"
+      },
+      "artists": [
+        {
+          "name": "J\u00f4natas Belgrande",
+          "url": "https://open.spotify.com/artist/6hcMvglMzhhjAuXLQuWiuz"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235238,
+      "name": "Me Quedo Por Ti",
+      "url": "https://open.spotify.com/track/2D3ZBmZU1ue8I5NcuU4frk"
+    },
+    {
+      "album": {
         "name": "ME SURPREENDA",
         "url": "https://open.spotify.com/album/74YffXxNm2i84YVvc5R4X4"
       },
@@ -11904,7 +11922,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 169654,
       "name": "Menino Bonito - Ao Vivo",
       "url": "https://open.spotify.com/track/7qM2ScAqB3NwAk0ngJsGfl"
@@ -12637,6 +12655,24 @@
     },
     {
       "album": {
+        "name": "M\u00e3e Terra (Estudio)",
+        "url": "https://open.spotify.com/album/0WPRErPj7ZPVOur7jKYO8n"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336818,
+      "name": "M\u00e3e Terra - Estudio",
+      "url": "https://open.spotify.com/track/6DdRQFjydd06RGLWB8nmm0"
+    },
+    {
+      "album": {
         "name": "M\u00fasica",
         "url": "https://open.spotify.com/album/3UGv2sdXNmT92Y3cejde4L"
       },
@@ -13092,6 +13128,24 @@
       "duration_ms": 104423,
       "name": "No Fundo do Meu Guarda Roupa",
       "url": "https://open.spotify.com/track/62aOsJl5aTDCWqZx2CujHs"
+    },
+    {
+      "album": {
+        "name": "No Meio do Luar",
+        "url": "https://open.spotify.com/album/2ojtAkeigKZKClc50SdcPm"
+      },
+      "artists": [
+        {
+          "name": "Bento Gil",
+          "url": "https://open.spotify.com/artist/5lCj6mlnSb6OMSDyrWj3tb"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157650,
+      "name": "No Meio do Luar",
+      "url": "https://open.spotify.com/track/4GlL0VX6rHPxzwvJSvliC1"
     },
     {
       "album": {

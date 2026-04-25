@@ -3317,6 +3317,32 @@
     },
     {
       "album": {
+        "name": "Fear My Name (feat. Barmuda)",
+        "url": "https://open.spotify.com/album/5hDh70WV9nYGjOzLsl1DfP"
+      },
+      "artists": [
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        },
+        {
+          "name": "Reflect",
+          "url": "https://open.spotify.com/artist/6yWLx1Sm7WlgEyZ1UZzubz"
+        },
+        {
+          "name": "Barmuda",
+          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156428,
+      "name": "Fear My Name (feat. Barmuda)",
+      "url": "https://open.spotify.com/track/7D46r85p07LcPPvGoyWeHC"
+    },
+    {
+      "album": {
         "name": "Feedback (10 Year Anniversary Remixes)",
         "url": "https://open.spotify.com/album/3O2qlWVfSPtoG9tM9nDpD6"
       },
@@ -6960,6 +6986,28 @@
       "duration_ms": 136332,
       "name": "Mil Curitas",
       "url": "https://open.spotify.com/track/4VNLSG0SHlSrFPvBiFA9ks"
+    },
+    {
+      "album": {
+        "name": "Mind On The Beat",
+        "url": "https://open.spotify.com/album/1FcuJRN9laNZB82swrPrUR"
+      },
+      "artists": [
+        {
+          "name": "SEUNG",
+          "url": "https://open.spotify.com/artist/1CuQ0y8pGZjIKzOiEzxRbV"
+        },
+        {
+          "name": "AVE",
+          "url": "https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Mind On The Beat",
+      "url": "https://open.spotify.com/track/7v0FrXXKGnVelJsJQubUxV"
     },
     {
       "album": {

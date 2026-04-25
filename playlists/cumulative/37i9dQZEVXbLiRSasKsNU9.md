@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-4,898 songs - 10 day 22 hr 59 min
+4,899 songs - 10 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Aa](https://open.spotify.com/track/476WPJ4GsgLDkJiAFbHJRo) | [Roach Killa](https://open.spotify.com/artist/62RUJAVFb2U8n54mYnZAmS), [Arif Lohar](https://open.spotify.com/artist/1zs5AOsqD2b0YfmGNfWni4), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Aa](https://open.spotify.com/album/777njg8aKak7ogZL2NUYrk) | 3:10 | 2024-01-30 | 2024-02-07 |
 | [Aankhon Mein Doob Jaane Ko](https://open.spotify.com/track/1ouPVtxlolKZGedxSTrgD5) | [THE 9TEEN](https://open.spotify.com/artist/4vLv0CXSxGB1PJijrfokwB), [Sandesh Shandilya](https://open.spotify.com/artist/6AwwLwgIsTIXZ8kHWaZUj5) | [Aankhon Mein Doob Jaane Ko](https://open.spotify.com/album/4KS5SO1IEyFxR0ThvDuEL9) | 2:05 | 2024-10-28 | 2024-11-20 |
 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 | 2022-05-14 | 2022-06-24 |
+| [Aarzu](https://open.spotify.com/track/0wHYuCTWPntEgWiUVED4wB) | [Noor](https://open.spotify.com/artist/7F5LO6TFFBGkRhsQdCcLVm), [Khan](https://open.spotify.com/artist/6Pw5uJLhqmspnTuHchPnmS), [Madhurxo](https://open.spotify.com/artist/0o5KaItv2mU6ACmRP19Qc2) | [Aarzu](https://open.spotify.com/album/0TU6nutUkqYYUqZHeB0JHs) | 3:07 | 2026-04-24 |  |
 | [Aasa Kooda \- From "Think Indie"](https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Sai Smriti](https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc) | [Aasa Kooda \(From "Think Indie"\)](https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5) | 3:35 | 2024-07-02 | 2024-08-07 |
 | [Aawaara Angaara](https://open.spotify.com/track/6flQ5XJKj5qIhpxSHOd3jC) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Tere Ishk Mein](https://open.spotify.com/album/3U6JvK5ij3bbhBmdotoNJ1) | 5:11 | 2025-12-03 | 2025-12-18 |
 | [Abadi](https://open.spotify.com/track/6rdqabpJT3jplQzor1os8j) | [Dendi Nata](https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Abadi](https://open.spotify.com/album/6imuBPMqzJSYbN19D9GlFm) | 4:52 | 2023-03-21 | 2023-04-23 |
@@ -1438,7 +1439,7 @@
 | [F L Y](https://open.spotify.com/track/7BInSwH3Ha2YMEEezQLz95) | [Spectrum](https://open.spotify.com/artist/4iKc9dfbcUzxOL6S31zjXF) | [Optical Sunrise/Spectrum2](https://open.spotify.com/album/1TQ3TvPc16aJ9n2HM5fY6w) | 3:30 | 2025-02-22 | 2025-02-25 |
 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 | 2022-05-25 | 2022-06-22 |
 | [FA9LA](https://open.spotify.com/track/23p1uP74XiVYCXjPP23Kz7) | [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd) | [فصلة](https://open.spotify.com/album/7yKD6ncXRSBTdbfH6yNsKw) | 1:45 | 2025-12-10 | 2026-01-15 |
-| [Fabienk](https://open.spotify.com/track/1KVkzkmFBx4A8bCma6ruKA) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.II](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo) | 6:31 | 2026-04-08 |  |
+| [Fabienk](https://open.spotify.com/track/1KVkzkmFBx4A8bCma6ruKA) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.II](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo) | 6:31 | 2026-04-08 | 2026-04-25 |
 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 | 2024-11-12 | 2024-11-16 |
 | [FaceTime](https://open.spotify.com/track/7Ji60z4V0d0IUbuZMkpjJa) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 2:47 | 2026-02-03 | 2026-02-11 |
 | [Fact Check](https://open.spotify.com/track/5EtiQveQFQy0R05hLVDyKv) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr) | 3:04 | 2023-10-24 | 2023-10-26 |

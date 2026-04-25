@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. EL DE LA TINTA \ud83d\udcf8",
+  "description": "The new school of M\u00fasica Mexicana. Octavio Cuadras \ud83d\udcf8",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 286685,
       "name": "19 DIAS Y 500 NOCHES",
       "url": "https://open.spotify.com/track/6L3MWcIig800B6Nasgaln5"
@@ -2426,6 +2426,24 @@
       "duration_ms": 169125,
       "name": "Anormal",
       "url": "https://open.spotify.com/track/6vsIJbmwdb8GwJzNQOBOUd"
+    },
+    {
+      "album": {
+        "name": "Ansiedad",
+        "url": "https://open.spotify.com/album/1PgDFf5wHhKZETmHzxJDFM"
+      },
+      "artists": [
+        {
+          "name": "JPL",
+          "url": "https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257621,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/03uPpKmEGMUbdo4Tjzu4wo"
     },
     {
       "album": {
@@ -5247,6 +5265,24 @@
     },
     {
       "album": {
+        "name": "chicago",
+        "url": "https://open.spotify.com/album/0iVakxjyWhLXr3UbQB7Tyk"
+      },
+      "artists": [
+        {
+          "name": "Julio Caesar",
+          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207831,
+      "name": "chicago",
+      "url": "https://open.spotify.com/track/11JRVr4i8ti1E23IEUQzbN"
+    },
+    {
+      "album": {
         "name": "Chiclona",
         "url": "https://open.spotify.com/album/3kZt0wob9pCSTNDVcNt5Ue"
       },
@@ -5342,6 +5378,24 @@
       "duration_ms": 124377,
       "name": "Chilling",
       "url": "https://open.spotify.com/track/7IFVhvCIOErs01u8YvBSZg"
+    },
+    {
+      "album": {
+        "name": "Chingos De Amor",
+        "url": "https://open.spotify.com/album/0CjU7nGl6BnrvkRGpyTdJN"
+      },
+      "artists": [
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188671,
+      "name": "Chingos De Amor",
+      "url": "https://open.spotify.com/track/7BR2AICzC6Rd2hWRXd6WWp"
     },
     {
       "album": {
@@ -5738,7 +5792,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 206250,
       "name": "Colgando En Tus Manos",
       "url": "https://open.spotify.com/track/3Ml0PcFYW79GV3X0GqRqup"
@@ -11720,7 +11774,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 168147,
       "name": "Ese Loco Soy Yo",
       "url": "https://open.spotify.com/track/0hVL1RhFEnCXGlXNAzm3Lm"
@@ -14056,7 +14110,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 164990,
       "name": "Hombre Decente",
       "url": "https://open.spotify.com/track/5wRxQtDtsLYUPIREISJVR5"
@@ -16291,6 +16345,24 @@
     },
     {
       "album": {
+        "name": "Las Dos Me Duelen",
+        "url": "https://open.spotify.com/album/5YG1FAdMuX2IqdQ65mPnCb"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224706,
+      "name": "Las Dos Me Duelen",
+      "url": "https://open.spotify.com/track/32EC4e7ZA1UI9glgDuynIl"
+    },
+    {
+      "album": {
         "name": "Tres Mundos",
         "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
       },
@@ -16382,7 +16454,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 183923,
       "name": "Las Partes",
       "url": "https://open.spotify.com/track/3tTiTuQpRpzHP0tuQowCb5"
@@ -18015,6 +18087,24 @@
     },
     {
       "album": {
+        "name": "INSANIA",
+        "url": "https://open.spotify.com/album/5TMFDQkZ4qxKHNT1FiyI3Q"
+      },
+      "artists": [
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151874,
+      "name": "Mal De La Cabeza",
+      "url": "https://open.spotify.com/track/1fPT4Z3jCcDxatn1OtPx70"
+    },
+    {
+      "album": {
         "name": "Mal de Ojo",
         "url": "https://open.spotify.com/album/1dvFb22zm82Nx0FYq0STrd"
       },
@@ -19250,7 +19340,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 196875,
       "name": "Mi Amante",
       "url": "https://open.spotify.com/track/7Jqr6FdbWCdzuo8dvOSF4R"
@@ -23532,7 +23622,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 182061,
       "name": "OTRO DESMADRE",
       "url": "https://open.spotify.com/track/4nrdgjTiyuDhT7oCWr2YKg"
@@ -23818,7 +23908,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 177493,
       "name": "Pagana",
       "url": "https://open.spotify.com/track/56WRqTs2M4St71G3G6Y9Df"
@@ -26912,7 +27002,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 196323,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/4qRJi0Y4E8bkuIRZB0N59j"
@@ -28116,7 +28206,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 195103,
       "name": "Se Va Se Va",
       "url": "https://open.spotify.com/track/7A3vj4M64VDkcxzPkziR5s"

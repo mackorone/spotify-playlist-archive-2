@@ -4,7 +4,7 @@
 
 > 
 
-3,001 songs - 6 day 11 hr 5 min
+3,002 songs - 6 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2966,6 +2966,7 @@
 | [XTREME \- Extended Mix](https://open.spotify.com/track/6EEcpUxNI2h1jNaQz6JAEH) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [XTREME](https://open.spotify.com/album/0ng8yv4WB9DP5W6xRmMLaE) | 3:22 | 2022-08-11 |  |
 | [XTREME XTASY](https://open.spotify.com/track/7DIAUvqEp8uCAp9rL5pBEA) | [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM) | [XTREME XTASY](https://open.spotify.com/album/1DcPUHZKSsJjPuc7pfabEK) | 3:12 | 2024-03-08 |  |
 | [XXX](https://open.spotify.com/track/34WUnf1dilxGY0Mo5Xcd0x) | [Günther](https://open.spotify.com/artist/5x7GdOcXcuUiSVCbl0hEfm), [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4) | [XXX](https://open.spotify.com/album/1mdQprT5Pujf8v18IRmYtE) | 3:08 | 2024-07-12 |  |
+| [XXX](https://open.spotify.com/track/0e2iPB0QVIWYtJHEYSUmrt) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [XXX](https://open.spotify.com/album/0G6hIuCzEbHL8CaRKNcmB3) | 3:49 | 2026-04-24 |  |
 | [YABBLE\-KABBLE](https://open.spotify.com/track/5Q8kX9zJXJRQUPE6cuOo5l) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [ハートエイク・デバッグ \-Heartache Debug\-](https://open.spotify.com/album/10AFyHPkg2yHQtXdHxi3xO) | 3:34 | 2022-08-11 |  |
 | [YEAH](https://open.spotify.com/track/03QzNTMRkmuVifyapS8eKX) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [YEAH](https://open.spotify.com/album/1QEbCQjE1boSO1yqw0rX4J) | 2:26 | 2026-02-27 |  |
 | [YES SIR!!!](https://open.spotify.com/track/5rrSKP2H7mVCJ830dyjLG1) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [YES SIR!!!](https://open.spotify.com/album/4r7WuTB0A5SuzRrGMN3spU) | 2:32 | 2024-11-15 |  |

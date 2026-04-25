@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Glocky, Nerissima Serpe, VillaBanks,  Marshe, Diss Gacha e molti altri.
 
-7,145 songs - 13 day 3 hr 40 min
+7,145 songs - 13 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4876,6 +4876,7 @@
 | [PECCATI](https://open.spotify.com/track/2qKDIFzouGXdWgGMWum5OT) | [Daxter](https://open.spotify.com/artist/7ml77C26I1LupIH1R4pEYa) | [RISPETTO \(Deluxe\)](https://open.spotify.com/album/0Eo86mTdAlpzNW34NSpfcm) | 2:20 | 2025-07-03 | 2025-07-25 |
 | [Peccati \(feat\. J Lord\)](https://open.spotify.com/track/5jmRPnT5jyMHDfhLsHzSrV) | [Moderup](https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Peccati \(feat\. J Lord\)](https://open.spotify.com/album/4YDkA7KQEWgRFBqt7uFDDb) | 2:31 | 2023-06-08 | 2023-06-16 |
 | [Pecora Nera](https://open.spotify.com/track/50cOVdYSuL6GoV5BNfAboP) | [Krifal](https://open.spotify.com/artist/37hzD9cWKbTAChHr9WQaLD) | [Pecora Nera](https://open.spotify.com/album/4gVOAwn6q6sDDDAnZFiw57) | 2:50 | 2025-04-24 | 2025-05-16 |
+| [Pedala e batteria \(feat\. Jovanotti\)](https://open.spotify.com/track/7xRWsfn9x3gVhYQdIXjae3) | [Frankie hi\-nrg mc](https://open.spotify.com/artist/15tvxTXbemwnKQq1aRoPpI), [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [VOCE e BATTERIA](https://open.spotify.com/album/3kIyF4C1xQlE3M8Q2GvpL2) | 2:48 | 2026-04-23 |  |
 | [Pegaso](https://open.spotify.com/track/3ndyS9nSROW6Pvhm9A99k4) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L) | [Pegaso](https://open.spotify.com/album/3pJgSYFqO11OIjaN0DtS55) | 2:08 | 2022-11-18 | 2022-11-25 |
 | [Pegaso](https://open.spotify.com/track/5nAczxA6dirSZLz2X0YfUK) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L) | [RETINA](https://open.spotify.com/album/4f5Jr2DIoPsQP2K8DCLQhJ) | 2:08 | 2022-11-24 | 2022-12-02 |
 | [Peggio di noi](https://open.spotify.com/track/2QuY2RqCsPWREPwYzyuayO) | [Mirmo Riot](https://open.spotify.com/artist/6pdIoxmR5XrKIKAoNrsOuH), [Not Good](https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8) | [Peggio di noi](https://open.spotify.com/album/2oS3i6ISvmC5Fd1OiLBvox) | 3:18 | 2022-11-24 | 2022-12-02 |
@@ -6508,7 +6509,6 @@
 | [Tra mille persone](https://open.spotify.com/track/2Gantu0FQ1kyP5OHvYJkKc) | [Delli](https://open.spotify.com/artist/5vQaJMLa7BBGVaXifSZMOK) | [Tra mille persone](https://open.spotify.com/album/6G3fdSuABfdDBkNzTRgjBN) | 1:44 | 2024-03-28 | 2024-04-12 |
 | [tra parentesi](https://open.spotify.com/track/1FVGtE2nAqIR22ial5EbHo) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk) | [tra parentesi](https://open.spotify.com/album/1szcGWQ3Mgv5VZwxmobw66) | 1:58 | 2025-11-28 | 2025-12-12 |
 | [TRACCIA COMMERCIALE](https://open.spotify.com/track/08eFX7mEvVLquXy65TyhR0) | [loui](https://open.spotify.com/artist/6KfMKEEQUwrKn3l4hZh4uA) | [TRACCIA COMMERCIALE](https://open.spotify.com/album/0K0W1s7p3YdSmiaWy7gDeO) | 2:41 | 2025-07-03 | 2025-07-25 |
-| [Track 1](https://open.spotify.com/track/7xRWsfn9x3gVhYQdIXjae3) | [Frankie hi\-nrg mc](https://open.spotify.com/artist/15tvxTXbemwnKQq1aRoPpI) | [VOCE e BATTERIA](https://open.spotify.com/album/3kIyF4C1xQlE3M8Q2GvpL2) | 0:00 | 2026-04-23 |  |
 | [Trafficant](https://open.spotify.com/track/4bXx7IeSbih5tNcyegNjSp) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [Youngotti](https://open.spotify.com/artist/1HUUj26tHxXxB0wSedYfFH) | [Trafficant](https://open.spotify.com/album/2tVfIlCQK5k7y3kjSvCmJ7) | 2:23 | 2024-10-17 | 2024-11-08 |
 | [Trafficante](https://open.spotify.com/track/6XItzqTzt8AXRvFn37uzDS) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF) | [Trafficante](https://open.spotify.com/album/7nBtCdKOWuFZctyMUosLGs) | 2:05 | 2024-07-26 | 2024-09-06 |
 | [Trafficante](https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Trafficante](https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB) | 2:07 | 2022-09-22 | 2022-10-25 |

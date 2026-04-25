@@ -4,7 +4,7 @@
 
 > 
 
-8,606 songs - 21 day 22 hr 24 min
+8,607 songs - 21 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1818,6 +1818,7 @@
 | [Duet](https://open.spotify.com/track/5RzB3KcfvZgvsWcsETVsqG) | [Omori](https://open.spotify.com/artist/6V5j8RQJOFYiD6Pp1SFx85) | [Omori \(Original Game Soundtrack\), Pt.3](https://open.spotify.com/album/0ZBx5R4ABubjsJ6yovFJXp) | 2:12 | 2025-02-10 |  |
 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 | 2025-04-19 |  |
 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 | 2025-01-19 |  |
+| [Dun Dun Dance](https://open.spotify.com/track/5rp3c6ueLX4XjTeDS1RLjN) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dear OHMYGIRL](https://open.spotify.com/album/4xGM61HWbQWCgmbBOtU3JR) | 3:40 | 2026-04-24 |  |
 | [durag activity \(with Travis Scott\)](https://open.spotify.com/track/4dfojOC0mkRk4CZdOwr4VT) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The Melodic Blue \(Deluxe\)](https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g) | 3:44 | 2024-12-10 |  |
 | [Dusk](https://open.spotify.com/track/721kgCWILQ0NBG9eil1nvZ) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 1:54 | 2025-05-13 |  |
 | [Dusk in Mondstadt](https://open.spotify.com/track/161heCSb3pHdi1x6tR0DRU) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- City of Winds and Idylls \(Original Game Soundtrack\)](https://open.spotify.com/album/4B5efqHkeq0UaDGx8nYOuf) | 1:48 | 2025-03-23 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-03",
-  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. ZUCO OMG en portada.",
+  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Big Soto en portada.",
   "name": "sentimiento r&b.",
   "tracks": [
     {
@@ -894,6 +894,28 @@
       "duration_ms": 167706,
       "name": "BLINDADO",
       "url": "https://open.spotify.com/track/0CwYadSDCCrqPM3ODGVUql"
+    },
+    {
+      "album": {
+        "name": "Blindao",
+        "url": "https://open.spotify.com/album/471XmL9ICF1WKmZWEEWa24"
+      },
+      "artists": [
+        {
+          "name": "Toyemi",
+          "url": "https://open.spotify.com/artist/4Ru2BuTqjFw7iRn2kooXqe"
+        },
+        {
+          "name": "Itchy & Buco Sounds",
+          "url": "https://open.spotify.com/artist/4KiWwlk4Uf1vcWi3txXLgy"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155480,
+      "name": "Blindao",
+      "url": "https://open.spotify.com/track/5P288p9Vx22tPKBeUagd9D"
     },
     {
       "album": {
@@ -1910,7 +1932,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 178557,
       "name": "Despacha",
       "url": "https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr"
@@ -2804,6 +2826,40 @@
       "duration_ms": 201773,
       "name": "hailey con jb*",
       "url": "https://open.spotify.com/track/5gFc0JxQpBxbyxLjpS4L8y"
+    },
+    {
+      "album": {
+        "name": "RZNHA na Pineapple",
+        "url": "https://open.spotify.com/album/0dtjgYoTx1cfgbj5HjqcEJ"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Dcan",
+          "url": "https://open.spotify.com/artist/2bCS9Bu6Kpf2TXQhBbE2bj"
+        },
+        {
+          "name": "Nith",
+          "url": "https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb"
+        },
+        {
+          "name": "RZNHA",
+          "url": "https://open.spotify.com/artist/4VLo8tyf3dGJnmh6S6B7ce"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193552,
+      "name": "Hiperfoco",
+      "url": "https://open.spotify.com/track/4UW06E8zwQ8rv4aNkiJVrJ"
     },
     {
       "album": {
@@ -4895,6 +4951,28 @@
     },
     {
       "album": {
+        "name": "NOSTALGIA CITY",
+        "url": "https://open.spotify.com/album/74G3R14n7Lt4a3YrEJxgZi"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200869,
+      "name": "PENSAMIENTOS INTRUSIVOS",
+      "url": "https://open.spotify.com/track/4AdzI0X1fTemErV2QIc395"
+    },
+    {
+      "album": {
         "name": "EL NI\u00d1O DE LOS CORAZONES",
         "url": "https://open.spotify.com/album/18LQTOkENbFCtBfcmYUV3i"
       },
@@ -4942,7 +5020,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 132134,
       "name": "PICK UP",
       "url": "https://open.spotify.com/track/1UJPHmfWWyhHKKrdPQthJw"
@@ -5848,7 +5926,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 180740,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/1BKfnWOViooRpW2pAs3YLT"

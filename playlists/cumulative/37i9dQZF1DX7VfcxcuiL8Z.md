@@ -4,7 +4,7 @@
 
 > The best in new rock\. Cover: Beck
 
-603 songs - 1 day 11 hr 12 min
+603 songs - 1 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Ghosts](https://open.spotify.com/track/6FVK5UcCwZ3k34vT2wenhd) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Idols](https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE) | 6:26 | 2025-06-19 | 2025-08-22 |
 | [Giant's Despair](https://open.spotify.com/track/6ZM932VVT6gSgo2ATdtt4i) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [All You Embrace](https://open.spotify.com/album/5fXeDBzHjkgwYod1kt4EUL) | 3:40 | 2024-05-23 | 2024-08-02 |
 | [GIRL$](https://open.spotify.com/track/1VKDQlo1k2ObpufovXHagN) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [GIRL$](https://open.spotify.com/album/5PiG8SxQgviIgBa3Pb3Shn) | 2:12 | 2024-04-09 | 2024-07-27 |
+| [GO WASTE MY TIME](https://open.spotify.com/track/7DFfCiPrHqsI0Qa1qFDu33) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [GLORY \(Deluxe\)](https://open.spotify.com/album/7MIsmUZTR5rR4jYZbOGXFV) | 2:55 | 2026-04-23 |  |
 | [God Owes Me Money](https://open.spotify.com/track/6MmXxggQZ12nAVpeIeEXLT) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [God Owes Me Money](https://open.spotify.com/album/7tbEM7bL2urcY7uRoUyA78) | 3:21 | 2025-10-17 | 2026-04-10 |
 | [God's Lonely Man](https://open.spotify.com/track/3U80KdOoVGGekiTv2hQAk2) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [God’s Lonely Man](https://open.spotify.com/album/0QYw1Mqw3tJgdiIfnPTIt7) | 2:43 | 2026-02-12 | 2026-04-24 |
 | [Godspeed](https://open.spotify.com/track/4gk0U9MIugzdLRvB9N5BFj) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Outrun You All](https://open.spotify.com/album/3dy3BgU0SuF4YyHSCmQoYc) | 3:14 | 2025-05-22 | 2025-06-27 |
@@ -243,6 +244,7 @@
 | [Home Appliance](https://open.spotify.com/track/6ks4d0iyf2KJvVxwgE4U7M) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Home Appliance](https://open.spotify.com/album/3tfnizU7WmQHbV7WlqwOhj) | 2:34 | 2025-03-06 | 2025-04-04 |
 | [Hometown](https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Small Fry](https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR) | 3:26 | 2024-10-17 | 2025-01-10 |
 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/7GJRZmyEpMIou1RqG0ebd8) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 2:47 | 2024-04-09 | 2024-09-13 |
+| [Hope](https://open.spotify.com/track/3yfr9G9ORQHGbgsfSG9cqa) | [Crocodylus](https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw) | [Limbo, Please Be Good To Me](https://open.spotify.com/album/2rtXYGytrHQqEjQs8Lt50m) | 3:10 | 2026-04-23 |  |
 | [Houndstooth Dress](https://open.spotify.com/track/2QoPtfqbeBzJIpqSJv3QvQ) | [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Houndstooth Dress](https://open.spotify.com/album/666dG6SUEZ6Vc48GNmrZVZ) | 4:05 | 2024-09-26 | 2024-11-22 |
 | [How Far I'd Go](https://open.spotify.com/track/0gVGMScMHi315UUtMZBLF8) | [The Cruel Sea](https://open.spotify.com/artist/5m5cTNJ2RxfxKpGULocV9T) | [Straight Into The Sun](https://open.spotify.com/album/0otVcsKpi6JYhZTuwgDtuK) | 3:36 | 2025-03-06 | 2025-05-09 |
 | [hug me](https://open.spotify.com/track/7byP16wLmQCTGG49FgQyb1) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91), [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [hug me](https://open.spotify.com/album/2QmLw1jFMCxTFrF2ATEFvu) | 2:00 | 2025-02-06 | 2025-03-21 |
@@ -549,8 +551,6 @@
 | [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 | 2025-07-03 | 2025-08-22 |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-05-23 | 2024-11-15 |
 | [tower of memories](https://open.spotify.com/track/0qhVpwKivK3u4OMLb7Z9Ah) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [tower of memories](https://open.spotify.com/album/5fZahPiBBEr15SgNs9h5s6) | 3:28 | 2025-10-02 | 2026-02-20 |
-| [Track 12](https://open.spotify.com/track/7DFfCiPrHqsI0Qa1qFDu33) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [GLORY \(Deluxe\)](https://open.spotify.com/album/7MIsmUZTR5rR4jYZbOGXFV) | 0:00 | 2026-04-23 |  |
-| [Track 5](https://open.spotify.com/track/3yfr9G9ORQHGbgsfSG9cqa) | [Crocodylus](https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw) | [Limbo, Please Be Good To Me](https://open.spotify.com/album/2rtXYGytrHQqEjQs8Lt50m) | 0:00 | 2026-04-23 |  |
 | [Tropics](https://open.spotify.com/track/50kY9njISacBSyPLyR8cwk) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [bones](https://open.spotify.com/album/51ju8MHRhddaMJcz05B1yu) | 4:53 | 2025-09-25 | 2025-11-21 |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-14 | 2025-01-17 |
 | [U Should Not Be Doing That](https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS) | 3:26 | 2024-05-23 | 2024-10-11 |

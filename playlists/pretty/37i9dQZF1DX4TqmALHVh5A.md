@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Zed Yun Pavarotti
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,135 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,160 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 4 | [Sa musique préférée](https://open.spotify.com/track/3MOjw2NvdXvNkgCkcLdLvf) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [Sa musique préférée](https://open.spotify.com/album/3zs8IOYRdbsP4O1wWS2Ivf) | 2:31 |
 | 5 | [Merci](https://open.spotify.com/track/0pDyMsssPFrvzmqKqCzKdf) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [Merci](https://open.spotify.com/album/2LKIzijGpkzbHyf3TsdkAG) | 3:47 |
 | 6 | [Tomorrows](https://open.spotify.com/track/5oIHQx3Lng4NlSqWxbxgMd) | [Canine](https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR) | [Tomorrows](https://open.spotify.com/album/76jh4BwTC5gObvqorzZahl) | 3:16 |
-| 7 | [Track 2](https://open.spotify.com/track/223MDZteznzgYiVX9QT5vB) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [FRAGILE HARDCORE](https://open.spotify.com/album/3MuOzXHWsVlVfWTcwK4lOA) | 0:00 |
+| 7 | [fragile hardcore](https://open.spotify.com/track/223MDZteznzgYiVX9QT5vB) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [FRAGILE HARDCORE](https://open.spotify.com/album/3MuOzXHWsVlVfWTcwK4lOA) | 2:36 |
 | 8 | [Maya](https://open.spotify.com/track/2eWsfkVueCBIPv8TgZ6M5s) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Maya](https://open.spotify.com/album/194FbjQQTYgTUhp11vk6NC) | 2:36 |
 | 9 | [Camille](https://open.spotify.com/track/5GK1CetggLaP1FoVZyQBsy) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [Camille](https://open.spotify.com/album/6ZPcFqW4BTfhhIVB16hluK) | 2:11 |
 | 10 | [CINÉMA](https://open.spotify.com/track/05AppqGcRJffs3mpphLOTU) | [Dynamite Shakers](https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT) | [CINÉMA](https://open.spotify.com/album/3w3eJevAHMoQzOv4lJDxox) | 2:35 |

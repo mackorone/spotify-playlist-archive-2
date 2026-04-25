@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigas da net
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,648,018 likes - 80 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,648,108 likes - 80 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 79 | [SEQUÊNCIA STRIPTEASE](https://open.spotify.com/track/7xeqjq45imp3qonWKqfyip) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Debby](https://open.spotify.com/artist/1hMpRPX4OZEaJgBi6BsjHh), [Mc Talibã](https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG) | [SEQUÊNCIA STRIPTEASE](https://open.spotify.com/album/1bS7v3HQh9l3cfALnsa7c3) | 2:24 |
 | 80 | [MTG PASSA PASSA PRA EU SARRAR](https://open.spotify.com/track/5G0kKNRYFCoORvJ2VzwvrY) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP) | [MTG PASSA PASSA PRA EU SARRAR](https://open.spotify.com/album/0oIoNUs6nCleWflBj6tSPY) | 2:21 |
 
-Snapshot ID: `AAAAAJjpWkQnBRbADdv6BF73qDpi2QI2`
+Snapshot ID: `AAAAANmgEEi6bGuszZNOdvDBok+QhOeg`

@@ -1,12 +1,12 @@
 {
   "description": "Puros lanzamientos. Lo nuevo de toda Iberoam\u00e9rica. Portada: Trueno",
-  "num_followers": 848187,
+  "num_followers": 848481,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAvuPqOrFx4MxO9lhq+M93NYWS2v",
+  "snapshot_id": "AAAAAEgAiM0iM17IXVA+/M2Fk3aQGFFZ",
   "tracks": [
     {
       "added_at": "2026-04-24 03:03:00",
@@ -307,6 +307,26 @@
     {
       "added_at": "2026-04-24 03:03:00",
       "album": {
+        "name": "3:34Am (Vampira)",
+        "url": "https://open.spotify.com/album/2qbky0zIjlA8HB0jKdLyQ0"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Fronti",
+          "url": "https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr"
+        }
+      ],
+      "duration_ms": 202821,
+      "name": "3:34Am (Vampira)",
+      "url": "https://open.spotify.com/track/6UccrnI23sEoHEp2Vx3oWN"
+    },
+    {
+      "added_at": "2026-04-24 03:03:00",
+      "album": {
         "name": "COBRONA REMIX",
         "url": "https://open.spotify.com/album/0K81v43EITD6fa2bWqC1is"
       },
@@ -331,6 +351,38 @@
       "duration_ms": 211468,
       "name": "COBRONA REMIX",
       "url": "https://open.spotify.com/track/7dFRzhfVgfVUAGUAMslmdi"
+    },
+    {
+      "added_at": "2026-04-24 18:27:41",
+      "album": {
+        "name": "Sentimiento M\u00e1gico (feat. FLOUSES) [Remix]",
+        "url": "https://open.spotify.com/album/4uqgHKAFAFiBXchoUpWD9X"
+      },
+      "artists": [
+        {
+          "name": "Benja Valencia",
+          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
+        },
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "FLOUSES",
+          "url": "https://open.spotify.com/artist/79uEbaIj1KmIfSa220Fawm"
+        }
+      ],
+      "duration_ms": 291459,
+      "name": "Sentimiento M\u00e1gico (feat. FLOUSES) - Remix",
+      "url": "https://open.spotify.com/track/3ApX5mxf1DYrgRTWstFVXV"
     },
     {
       "added_at": "2026-04-24 03:03:00",
@@ -1108,8 +1160,8 @@
           "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 228596,
+      "name": "El Delincuente",
       "url": "https://open.spotify.com/track/1pncyLXvP6cgE6SXtEuKWw"
     },
     {

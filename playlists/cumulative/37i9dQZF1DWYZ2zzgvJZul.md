@@ -2,9 +2,9 @@
 
 ### [Nuevo Rock Latino](https://open.spotify.com/playlist/37i9dQZF1DWYZ2zzgvJZul)
 
-> Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Dillom, Airbag, Marilina Bertoldi y Juliana Gattas.
+> Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: PERRA BRAVA.
 
-336 songs - 20 hr 15 min
+338 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Brújula](https://open.spotify.com/track/1VhoDw3C8fgncrOliUMmqo) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Brújula](https://open.spotify.com/album/4SFSnrvdW1hIqUPR3qLobz) | 4:12 | 2021-12-07 | 2022-09-06 |
 | [Buena muerte](https://open.spotify.com/track/3ukdHzLqj0G4ZaeOFW9lVf) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Buena muerte](https://open.spotify.com/album/65I0m92pou1tBZedRi4F0g) | 3:38 | 2023-02-03 | 2024-02-03 |
 | [Cabo](https://open.spotify.com/track/4v2XByXjgBoY6PJkteQnlj) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 3:09 | 2023-06-09 | 2024-07-13 |
-| [Café](https://open.spotify.com/track/5p6jtFVPyD5H52tm7upueg) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r), [Niño Elefante](https://open.spotify.com/artist/6acinmwqNCJbgvPoRpaO2n) | [Vandalismo Comparado](https://open.spotify.com/album/1gN1fgqgy9K0nwAZ5KDrXM) | 2:15 | 2024-07-12 |  |
+| [Café](https://open.spotify.com/track/5p6jtFVPyD5H52tm7upueg) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r), [Niño Elefante](https://open.spotify.com/artist/6acinmwqNCJbgvPoRpaO2n) | [Vandalismo Comparado](https://open.spotify.com/album/1gN1fgqgy9K0nwAZ5KDrXM) | 2:15 | 2024-07-12 | 2026-04-25 |
 | [café hipnosis](https://open.spotify.com/track/06VBuaw8eD2U7PCpgsw9XA) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [café hipnosis](https://open.spotify.com/album/6oIxlPoctpmO5HzC7WQLSy) | 2:54 | 2024-07-12 | 2024-11-07 |
 | [Cahuín](https://open.spotify.com/track/5iXo2vhyhhDxsIU0LS1e5z) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Cahuín](https://open.spotify.com/album/6aMle8LJtLQEIpCdCJp6P6) | 3:01 | 2023-09-04 | 2023-09-30 |
 | [Calavera \(La Muerte Del Sol\)](https://open.spotify.com/track/3U5mJt1WYp8kL4wbPeJHU0) | [El Nuevo Coyote](https://open.spotify.com/artist/1XcjJuafqRaNMPisoNzBkL) | [Calavera \(La Muerte Del Sol\)](https://open.spotify.com/album/03sWwIEieherBO2lwLip1b) | 3:16 | 2021-12-07 | 2022-03-21 |
@@ -83,11 +83,12 @@
 | [Divergencia](https://open.spotify.com/track/0uA76b98PXOa8dtkjdqor8) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Divergencia](https://open.spotify.com/album/0kT0qtLqqPl44l7AmWbw5C) | 3:45 | 2021-12-07 | 2022-03-21 |
 | [Dopamina](https://open.spotify.com/track/78ZxiCT7pdrtUUIsIxF5xQ) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Esto es lo que Obtenés cuando te Cansás de lo que Ya Obtuviste](https://open.spotify.com/album/4N2YIuYGbn5P0pyTbrwend) | 6:15 | 2023-07-07 | 2023-09-05 |
 | [Déjame Entrar](https://open.spotify.com/track/0oTcViTLu2nPJvrlspoem5) | [Red Sun Cult](https://open.spotify.com/artist/1rh41sScm5dg9xsmg4zGeX) | [Atardeceres Tardíos](https://open.spotify.com/album/30qr3LfRYK26OGau1PyRXH) | 3:48 | 2022-02-18 | 2022-07-02 |
+| [Días Perfectos](https://open.spotify.com/track/4YJqajgA8lpqJv9mxhtV0Z) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Días Perfectos](https://open.spotify.com/album/37vhqFEwv3280Z3EoOzNwJ) | 5:36 | 2026-04-24 |  |
 | [El Día de las Flores](https://open.spotify.com/track/6Kd3HIP4HOzt2jdeXFnXFD) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn), [Eterna Inocencia](https://open.spotify.com/artist/5O8lCdBWT1JlDufwVywp01) | [El Día de las Flores](https://open.spotify.com/album/5DyliQegvxw9tL4XrusPqD) | 3:38 | 2024-11-07 |  |
 | [El Farolito \(Acústico\)](https://open.spotify.com/track/4tjyN06YMetNt75PeFn7kO) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/34cb3MKF8i4X0kDEPjtf4S) | 5:02 | 2021-12-07 | 2022-03-21 |
 | [El Gallo Rojo](https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [El Gallo Rojo](https://open.spotify.com/album/1Yl7ncZUEE2OSmYE95RZOH) | 2:35 | 2023-09-29 | 2024-02-03 |
 | [El Huracán](https://open.spotify.com/track/1f81h4gdHwNXMdyFZ0UL8Q) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [El Huracán](https://open.spotify.com/album/37Fj54Cl2Fifcc50O2OhpT) | 3:39 | 2021-12-07 | 2022-11-04 |
-| [El Llamado](https://open.spotify.com/track/1Z0IeSBzx9xFvwAZHSovaC) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [El Llamado](https://open.spotify.com/album/2Mj97JfpLRWFdljh8UiC6H) | 4:11 | 2024-11-07 |  |
+| [El Llamado](https://open.spotify.com/track/1Z0IeSBzx9xFvwAZHSovaC) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [El Llamado](https://open.spotify.com/album/2Mj97JfpLRWFdljh8UiC6H) | 4:11 | 2024-11-07 | 2026-04-25 |
 | [El Río](https://open.spotify.com/track/5IulrtbklYxOCrDEtJPtNz) | [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [El Río](https://open.spotify.com/album/1CIxFgXEjuJB6NQz2OvsF9) | 3:37 | 2024-07-12 |  |
 | [El Silencio](https://open.spotify.com/track/1C6NglWjiovt1lUrITZEIo) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv) | [El Silencio](https://open.spotify.com/album/7oMs3PmmJsccmhFWImH8wE) | 5:40 | 2021-12-07 | 2022-02-19 |
 | [El trato](https://open.spotify.com/track/4jsWMUBxGEKn6usvMIO1R8) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Cicatrices](https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY) | 3:28 | 2022-07-01 | 2022-09-06 |
@@ -174,6 +175,7 @@
 | [Lo Siento](https://open.spotify.com/track/2x61iZkbSjW76OX6PQleiX) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC), [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Lo Siento](https://open.spotify.com/album/1G76m2bawyWMl7Rg1shAF6) | 3:48 | 2022-09-05 | 2024-07-13 |
 | [Lobo Solitario](https://open.spotify.com/track/3yQAbOhQDLFi0VdQriNU19) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT), [Quique Rangel](https://open.spotify.com/artist/58ifdyw0QkM58ZOADGxOhH), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Hongo](https://open.spotify.com/album/4W4xTLzE3AStttaMRXGjVY) | 3:21 | 2022-11-03 | 2023-02-04 |
 | [Locos](https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Voluma](https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM) | 2:57 | 2021-12-07 | 2022-02-19 |
+| [Los Cobardes Mueren Varias Veces](https://open.spotify.com/track/4oZ66lQQ8e9BFYfktXZhxV) | [PERRA BRAVA](https://open.spotify.com/artist/4ODjjfjx4SqJixJYVqeUrE) | [Silabo Tatequeda](https://open.spotify.com/album/0olrzC1tjRfACORXwYzqcj) | 2:56 | 2026-04-24 |  |
 | [Los Días Felices](https://open.spotify.com/track/38XOxAeqVTg8007GN09dQL) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Los Días Felices](https://open.spotify.com/album/3FFmwE0BQBwX1XsdCdgRfw) | 3:24 | 2021-12-07 | 2022-02-19 |
 | [Los Perros](https://open.spotify.com/track/4BVicFd3FwAsfvIGfF8Sy9) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Los Perros](https://open.spotify.com/album/5H54BdEcWRLPjj77JAmt5k) | 3:49 | 2023-02-03 | 2023-09-05 |
 | [Los Tesoros Imposibles \(con Rulo\)](https://open.spotify.com/track/5UzqFwCA78f4FmQ0l9ylX1) | [Huecco](https://open.spotify.com/artist/6Zd2JZF0kIBpeyv2FlPh8i), [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs) | [Los Tesoros Imposibles \(con Rulo\)](https://open.spotify.com/album/4B4046OyVaZAAfboAlRT2n) | 3:54 | 2022-09-05 | 2023-03-04 |

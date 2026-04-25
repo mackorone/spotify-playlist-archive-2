@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: JBS
 
-1,737 songs - 3 day 9 hr 52 min
+1,737 songs - 3 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [2x blinzeln](https://open.spotify.com/track/6wFoisGUixXSsIZIy9vKpD) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Was ich will](https://open.spotify.com/album/544ks9m4BfuUljraaQ336a) | 2:46 | 2023-05-04 | 2023-08-11 |
 | [3 buchstaben](https://open.spotify.com/track/7nH2cvTPsZWW7kJiCjCGxg) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Dominik Hartz](https://open.spotify.com/album/4MN9icGkGIMtEK216IfsBd) | 2:28 | 2024-10-17 | 2024-11-15 |
 | [3 Tage am Meer](https://open.spotify.com/track/7vmxzqidBt7y4FxRtsJBVV) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [3 Tage am Meer](https://open.spotify.com/album/5TOXyNzX3TA44g9xizRrNQ) | 3:17 | 2023-02-02 | 2023-02-17 |
+| [3 Tage Paris](https://open.spotify.com/track/6a9VqGWgd7o3LK5JXqr92R) | [herr ulrich](https://open.spotify.com/artist/3EwGLc40naFP5DNfWFTqBA) | [Gut Genug](https://open.spotify.com/album/2dvFUJrOS2f4W8jFgmpogb) | 2:46 | 2026-04-23 |  |
 | [3\. Stock](https://open.spotify.com/track/2M5xIJ2GySzBSKjhKdkjUL) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Alles nix konkretes](https://open.spotify.com/album/2Cq6fg3YX4wYCDLjAVG7ZO) | 4:12 | 2023-02-13 | 2023-02-15 |
 | [3/10](https://open.spotify.com/track/1peGM7tnZvury4ZMopjcxl) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [3/10](https://open.spotify.com/album/7Hv8fbFT8TqvGGjOhQ75IA) | 2:22 | 2026-03-12 | 2026-04-10 |
 | [300g](https://open.spotify.com/track/47wrpWUKellZqQwzjQkUE0) | [Bekkaa](https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ) | [300g](https://open.spotify.com/album/2eGwQrn5O75IEDNBvd7QcS) | 2:33 | 2024-06-13 | 2024-08-09 |
@@ -568,6 +569,7 @@
 | [Gaga Baby](https://open.spotify.com/track/5pAZ7fEX5vA9IACYGDHFA8) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Gaga Baby](https://open.spotify.com/album/5TO2MJSSuOZXqIQxevLhZA) | 2:29 | 2023-08-10 | 2023-09-29 |
 | [Galaxis](https://open.spotify.com/track/2ngK3wxFAWhsn3oyKFAaeb) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [EKSTASE](https://open.spotify.com/album/7qn6KrafYuBOj2bgn4FXvM) | 2:55 | 2024-01-25 | 2024-03-01 |
 | [Ganze Torte Scham.](https://open.spotify.com/track/2uisMGIBZpJL2C2pOSc8xS) | [fiio](https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ) | [Ganze Torte Scham.](https://open.spotify.com/album/0d1xzAzshldEtUYw73hR0p) | 2:41 | 2025-05-16 | 2025-06-06 |
+| [gar nichts//demo](https://open.spotify.com/track/50cKrXByzxnPS2mAymEicy) | [smello](https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H) | [demos & deeptalks](https://open.spotify.com/album/06TClLbW8XUaSuSkhDZRh3) | 2:11 | 2026-04-23 |  |
 | [gasleuchte](https://open.spotify.com/track/4cpxlpWGIvesl4sYRN8Re5) | [herbst](https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T) | [gasleuchte](https://open.spotify.com/album/1oHqWFUUY67rj9WvRhcFHP) | 2:56 | 2024-07-18 | 2024-10-18 |
 | [Geflicktes Herz](https://open.spotify.com/track/5GOTb2rpHSk0SckpCONyfz) | [Ronja](https://open.spotify.com/artist/7dl7jnssJ6pvKbrMpHw4KX) | [Geflicktes Herz](https://open.spotify.com/album/2beCRDj5czRDfGXrZi0hCT) | 3:08 | 2025-08-14 | 2025-09-05 |
 | [Gefunden \(Outro\)](https://open.spotify.com/track/2fqoejpJIs9us6pzXT38zl) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Gefunden \(Outro\)](https://open.spotify.com/album/1ypdsnWnNIijJUUr0Lctu7) | 2:23 | 2024-07-04 | 2024-07-19 |
@@ -1123,6 +1125,7 @@
 | [oftgefragt\_cover](https://open.spotify.com/track/4B6WImKT5ovI8fJHS5AQLr) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [oftgefragt\_cover](https://open.spotify.com/album/7KxBfTvOv8iThCQuYyloMC) | 3:08 | 2023-12-21 | 2024-03-22 |
 | [Oh Hey](https://open.spotify.com/track/6NEYMbbOB1Y2WK5SUNBKGD) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Wär´s der letzte Tag](https://open.spotify.com/album/1zKFlfrhnnBScTKcr3sHiv) | 2:14 | 2025-06-19 | 2025-09-19 |
 | [oh schönheit, du biest](https://open.spotify.com/track/5iMhjrSlhSFhbG8v4bqSuA) | [Maeckes](https://open.spotify.com/artist/5nVbdvU60t7C0JBruxsS26), [Oehl](https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp) | [gitarren album](https://open.spotify.com/album/24eDWxbwrP1crZWHeRqTBa) | 3:38 | 2024-04-26 | 2024-05-24 |
+| [Ohne Dach](https://open.spotify.com/track/63ke3IbMyy7v69fRC6DUdk) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [PECH](https://open.spotify.com/album/50MPz6SA53Eh8LTArkGMiK) | 2:19 | 2026-04-23 |  |
 | [Ohne Dich](https://open.spotify.com/track/0cgSg5BkNM3ie2A3P4r9jx) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [Ohne Dich](https://open.spotify.com/album/42iyGNEjHDboUfT3h9RMCz) | 3:14 | 2025-10-16 | 2025-12-12 |
 | [Ohne Dich](https://open.spotify.com/track/1Bz1Ftugqs9AyrP4Hykm1h) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [Ohne Dich](https://open.spotify.com/album/0JkGj98qkR4JeTkF029D5M) | 2:44 | 2025-08-14 | 2025-09-05 |
 | [Ohne Dich \(schlaf' ich heut Nacht nicht ein\)](https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY) | [Münchener Freiheit](https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy) | [Von Anfang An](https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c) | 4:07 | 2026-02-12 | 2026-02-15 |
@@ -1467,9 +1470,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 2](https://open.spotify.com/track/63ke3IbMyy7v69fRC6DUdk) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [PECH](https://open.spotify.com/album/50MPz6SA53Eh8LTArkGMiK) | 0:00 | 2026-04-23 |  |
-| [Track 3](https://open.spotify.com/track/6a9VqGWgd7o3LK5JXqr92R) | [herr ulrich](https://open.spotify.com/artist/3EwGLc40naFP5DNfWFTqBA) | [Gut Genug](https://open.spotify.com/album/2dvFUJrOS2f4W8jFgmpogb) | 0:00 | 2026-04-23 |  |
-| [Track 4](https://open.spotify.com/track/50cKrXByzxnPS2mAymEicy) | [smello](https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H) | [demos & deeptalks](https://open.spotify.com/album/06TClLbW8XUaSuSkhDZRh3) | 0:00 | 2026-04-23 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |
 | [Traumfrau](https://open.spotify.com/track/56Xl3GghpULu6GUeKnUkwq) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Traumfrau](https://open.spotify.com/album/0UTRKkM5FlbYi3xJVkV1Fc) | 2:11 | 2025-02-13 | 2025-02-15 |

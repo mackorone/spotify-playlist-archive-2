@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,062 likes - 151 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,081 likes - 151 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,26 +27,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 | 17 | [voler](https://open.spotify.com/track/5q78LVLnM2EFEyQpVym3qU) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [voler](https://open.spotify.com/album/2mSjBOywrt6qYKniIOhIdk) | 2:33 |
 | 18 | [Dew](https://open.spotify.com/track/3TT2sNeYED7KBcJvJo5qJQ) | [Kyo Himura](https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1) | [Dew](https://open.spotify.com/album/0Njp9PSRwKxCHRCUYXZyQG) | 2:15 |
 | 19 | [solitude](https://open.spotify.com/track/4PZob6mB5Tcf5JGRa6lq4n) | [Félix Frays](https://open.spotify.com/artist/0usPMjkhvwpAa45RWFao1p) | [solitude](https://open.spotify.com/album/4eQmlilKMCq0T87rRpA206) | 2:29 |
-| 20 | [Grounded in Love](https://open.spotify.com/track/6r3yNcTDGZxBsvUi5hwpOf) | [Rocco](https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH) | [Grounded in Love](https://open.spotify.com/album/7dgM19C1eRfwg33ev3jLV8) | 2:23 |
-| 21 | [Daylight](https://open.spotify.com/track/0dVsSv0xlnO3CJd4osrt2w) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Daylight](https://open.spotify.com/album/1MMZ6TC0X0LcztVxsx2oYr) | 2:39 |
-| 22 | [Resta Con Me](https://open.spotify.com/track/11kyoJkQePM8zW2kEozhFu) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Resta Con Me](https://open.spotify.com/album/2BHogXZFHfpMP5qpGYwdqg) | 2:09 |
-| 23 | [soleil](https://open.spotify.com/track/5xFeWI8GG7ylFRh0Pi6sli) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [soleil](https://open.spotify.com/album/0twR0FMwm4qI6WiwOztwTV) | 2:35 |
-| 24 | [Edge of Sleep](https://open.spotify.com/track/6jbNt6gowy5n98oiNTCQFC) | [Dalby](https://open.spotify.com/artist/5ai5w9rMxwvqSY4rrDof73) | [Edge of Sleep](https://open.spotify.com/album/4eoJn5nPZeHHLgIF4g2LJ8) | 2:45 |
-| 25 | [Starbreath Temple](https://open.spotify.com/track/14j5E6k5FrcLgGOCuHxBsK) | [Phobic](https://open.spotify.com/artist/4pgvre1wDhGGmEbjevWClj) | [Starbreath Temple](https://open.spotify.com/album/0qSi7Ny2JUyE50GnAOPS8E) | 2:07 |
-| 26 | [Tidlös](https://open.spotify.com/track/526JgGLwKMeayWmOFVisck) | [Andreas Björkstrand](https://open.spotify.com/artist/4C0SwV2WJqRW290Xz2HIfV) | [Tidlös](https://open.spotify.com/album/7u4tmbsQZm1n8gA1bhVlg4) | 3:06 |
-| 27 | [In the Quiet Hours](https://open.spotify.com/track/0mhzqS1uEIQm49i8yH7eUh) | [Harmonic Reverie](https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi) | [In the Quiet Hours](https://open.spotify.com/album/0Hxyrm1hOIXjJFcXb51kn8) | 3:19 |
-| 28 | [The Path](https://open.spotify.com/track/0VvAvohCa6vbOuhQ9KgYp3) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [The Path](https://open.spotify.com/album/5FHFBfF1WAw4Q1FESMFMbU) | 2:12 |
-| 29 | [Bayou](https://open.spotify.com/track/4n5uhVSaDjV9nSHhfcbJ0B) | [Melvin Hull](https://open.spotify.com/artist/634GUifoC5N8X7DNM4M8Mz) | [Bayou](https://open.spotify.com/album/0WK8UlUY7Q9xNOv5Y6cVkj) | 2:46 |
-| 30 | [Silent Bloom](https://open.spotify.com/track/2ESAE30bJPEvyvfDE5oh1T) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Silent Bloom](https://open.spotify.com/album/4zKinGSo2A4tBIunlolmbJ) | 2:10 |
-| 31 | [The Distance Between Us](https://open.spotify.com/track/4d9ORvnSV7lkOtobYvaOvx) | [Sigrid Vega](https://open.spotify.com/artist/5mK058CiyrTC9IJtBMGixs) | [The Distance Between Us](https://open.spotify.com/album/1src0xqncI2UNcI0wp2uAi) | 2:03 |
-| 32 | [The Land You Belong](https://open.spotify.com/track/0VJwxkumrClrt4Y41evUpy) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [The Land You Belong](https://open.spotify.com/album/3uj2AIVg0qfo3NR2HlGkEq) | 2:24 |
-| 33 | [Starting Over](https://open.spotify.com/track/1jnu5LMtSf1tm4es25efJo) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Starting Over](https://open.spotify.com/album/3JIMetqSsoh4CZHuMjA89d) | 2:10 |
-| 34 | [Beginnings](https://open.spotify.com/track/07Z42sQFooVNSyoJjknCDz) | [Néer](https://open.spotify.com/artist/5yYwQWCRkaZAIOThUKNo5n) | [Beginnings](https://open.spotify.com/album/4wtOORXX25j7SZSMbb5VmY) | 2:16 |
-| 35 | [Homecoming](https://open.spotify.com/track/5egFj05le4qVXAHywhilm2) | [Junius Clyde](https://open.spotify.com/artist/0RvljygdcU5lXCCnNMwAGU) | [Homecoming](https://open.spotify.com/album/1dRS9iEmb0RwjmcIKzesmt) | 2:37 |
-| 36 | [My Only Love](https://open.spotify.com/track/1z49c3xyRnIJ4NyFJlZWJD) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [My Only Love](https://open.spotify.com/album/0Er2kXA6xGLESzdRb5tfZz) | 2:26 |
-| 37 | [Eternal Moon](https://open.spotify.com/track/2hegfLKqobbWtYPg0Z31vm) | [Aurelio Li](https://open.spotify.com/artist/4TO9hcCQfJDVBofrM5ra12) | [Eternal Moon](https://open.spotify.com/album/5UVS5hHLLxQgH22bXKrFUi) | 2:28 |
-| 38 | [Bring the silence](https://open.spotify.com/track/0xX8rlYoCfag1vzsYJOWde) | [Morlya](https://open.spotify.com/artist/3bulcOxlxNQf6IsdtkZZ0R) | [Bring the silence](https://open.spotify.com/album/2Y8JmDSdZtS59CCIMsxe2F) | 2:55 |
-| 39 | [Window To The Past](https://open.spotify.com/track/6EButk2CJRYZayXRscZWm8) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Window To The Past](https://open.spotify.com/album/7hdCvr9F4wjRy2BVpTWbiA) | 2:22 |
+| 20 | [Les jours passés](https://open.spotify.com/track/1IEWUYXB5cXbQiCOjJ1BhU) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Les jours passés](https://open.spotify.com/album/4TzrZCszgBzlVCr4Wm7n5k) | 2:16 |
+| 21 | [Grounded in Love](https://open.spotify.com/track/6r3yNcTDGZxBsvUi5hwpOf) | [Rocco](https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH) | [Grounded in Love](https://open.spotify.com/album/7dgM19C1eRfwg33ev3jLV8) | 2:23 |
+| 22 | [Daylight](https://open.spotify.com/track/0dVsSv0xlnO3CJd4osrt2w) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Daylight](https://open.spotify.com/album/1MMZ6TC0X0LcztVxsx2oYr) | 2:39 |
+| 23 | [Edge of Sleep](https://open.spotify.com/track/6jbNt6gowy5n98oiNTCQFC) | [Dalby](https://open.spotify.com/artist/5ai5w9rMxwvqSY4rrDof73) | [Edge of Sleep](https://open.spotify.com/album/4eoJn5nPZeHHLgIF4g2LJ8) | 2:45 |
+| 24 | [Starbreath Temple](https://open.spotify.com/track/14j5E6k5FrcLgGOCuHxBsK) | [Phobic](https://open.spotify.com/artist/4pgvre1wDhGGmEbjevWClj) | [Starbreath Temple](https://open.spotify.com/album/0qSi7Ny2JUyE50GnAOPS8E) | 2:07 |
+| 25 | [Tidlös](https://open.spotify.com/track/526JgGLwKMeayWmOFVisck) | [Andreas Björkstrand](https://open.spotify.com/artist/4C0SwV2WJqRW290Xz2HIfV) | [Tidlös](https://open.spotify.com/album/7u4tmbsQZm1n8gA1bhVlg4) | 3:06 |
+| 26 | [In the Quiet Hours](https://open.spotify.com/track/0mhzqS1uEIQm49i8yH7eUh) | [Harmonic Reverie](https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi) | [In the Quiet Hours](https://open.spotify.com/album/0Hxyrm1hOIXjJFcXb51kn8) | 3:19 |
+| 27 | [The Path](https://open.spotify.com/track/0VvAvohCa6vbOuhQ9KgYp3) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [The Path](https://open.spotify.com/album/5FHFBfF1WAw4Q1FESMFMbU) | 2:12 |
+| 28 | [Bayou](https://open.spotify.com/track/4n5uhVSaDjV9nSHhfcbJ0B) | [Melvin Hull](https://open.spotify.com/artist/634GUifoC5N8X7DNM4M8Mz) | [Bayou](https://open.spotify.com/album/0WK8UlUY7Q9xNOv5Y6cVkj) | 2:46 |
+| 29 | [Silent Bloom](https://open.spotify.com/track/2ESAE30bJPEvyvfDE5oh1T) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Silent Bloom](https://open.spotify.com/album/4zKinGSo2A4tBIunlolmbJ) | 2:10 |
+| 30 | [The Distance Between Us](https://open.spotify.com/track/4d9ORvnSV7lkOtobYvaOvx) | [Sigrid Vega](https://open.spotify.com/artist/5mK058CiyrTC9IJtBMGixs) | [The Distance Between Us](https://open.spotify.com/album/1src0xqncI2UNcI0wp2uAi) | 2:03 |
+| 31 | [The Land You Belong](https://open.spotify.com/track/0VJwxkumrClrt4Y41evUpy) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [The Land You Belong](https://open.spotify.com/album/3uj2AIVg0qfo3NR2HlGkEq) | 2:24 |
+| 32 | [Starting Over](https://open.spotify.com/track/1jnu5LMtSf1tm4es25efJo) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Starting Over](https://open.spotify.com/album/3JIMetqSsoh4CZHuMjA89d) | 2:10 |
+| 33 | [Beginnings](https://open.spotify.com/track/07Z42sQFooVNSyoJjknCDz) | [Néer](https://open.spotify.com/artist/5yYwQWCRkaZAIOThUKNo5n) | [Beginnings](https://open.spotify.com/album/4wtOORXX25j7SZSMbb5VmY) | 2:16 |
+| 34 | [Homecoming](https://open.spotify.com/track/5egFj05le4qVXAHywhilm2) | [Junius Clyde](https://open.spotify.com/artist/0RvljygdcU5lXCCnNMwAGU) | [Homecoming](https://open.spotify.com/album/1dRS9iEmb0RwjmcIKzesmt) | 2:37 |
+| 35 | [My Only Love](https://open.spotify.com/track/1z49c3xyRnIJ4NyFJlZWJD) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [My Only Love](https://open.spotify.com/album/0Er2kXA6xGLESzdRb5tfZz) | 2:26 |
+| 36 | [Eternal Moon](https://open.spotify.com/track/2hegfLKqobbWtYPg0Z31vm) | [Aurelio Li](https://open.spotify.com/artist/4TO9hcCQfJDVBofrM5ra12) | [Eternal Moon](https://open.spotify.com/album/5UVS5hHLLxQgH22bXKrFUi) | 2:28 |
+| 37 | [Bring the silence](https://open.spotify.com/track/0xX8rlYoCfag1vzsYJOWde) | [Morlya](https://open.spotify.com/artist/3bulcOxlxNQf6IsdtkZZ0R) | [Bring the silence](https://open.spotify.com/album/2Y8JmDSdZtS59CCIMsxe2F) | 2:55 |
+| 38 | [Window To The Past](https://open.spotify.com/track/6EButk2CJRYZayXRscZWm8) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Window To The Past](https://open.spotify.com/album/7hdCvr9F4wjRy2BVpTWbiA) | 2:22 |
+| 39 | [soleil](https://open.spotify.com/track/5xFeWI8GG7ylFRh0Pi6sli) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [soleil](https://open.spotify.com/album/0twR0FMwm4qI6WiwOztwTV) | 2:35 |
 | 40 | [Where the Wind Waits](https://open.spotify.com/track/1tTCMFClfgFj09xMleaIzE) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Where the Wind Waits](https://open.spotify.com/album/5PQ2sfB3QIjSh8nXVLOA3K) | 2:36 |
 | 41 | [Lighter and Brighter](https://open.spotify.com/track/42HY9l2HyjSMhLE9cdNvt5) | [Hidden Natúr](https://open.spotify.com/artist/1r3WsPkeb5nKMaRza1SBX3) | [Lighter and Brighter](https://open.spotify.com/album/5b1Tlm7L0zFw6N0cZJo5ol) | 2:10 |
 | 42 | [lumière](https://open.spotify.com/track/4YLdPo9Jxg4dy5FxL0OFHI) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [lumière](https://open.spotify.com/album/6yNck5Uo4TI3oWz9A87xtx) | 2:34 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 | 150 | [Last Dance](https://open.spotify.com/track/3eCueoiyNs7xUYqX05IEoy) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Hermetism](https://open.spotify.com/album/3kHd7wS71L5WVLzkz7O8yU) | 3:09 |
 | 151 | [Empyrean](https://open.spotify.com/track/17RDaw9BH11GDHTDlBi4VW) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Empyrean](https://open.spotify.com/album/1OOs0fwWFSuP3RqIEwRCiq) | 3:00 |
 
-Snapshot ID: `AAAAAMaxjaPQkN24h1ENA9UWX16oHygv`
+Snapshot ID: `AAAAAB7QbYrRWhPXSm7xj+Setii0z/j1`

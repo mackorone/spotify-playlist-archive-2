@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New music from your favorite women.  Cover: Natanya",
+  "description": "New music from your favorite women.  Cover: Ebony Riley",
   "name": "Queen",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 217168,
       "name": "A Flex",
       "url": "https://open.spotify.com/track/5ZCHyDAi6AxYFvYAp5DPr9"
@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/0dyggwEtztbA0oQnFaK3xm"
+      },
+      "artists": [
+        {
+          "name": "Jamilah Barry",
+          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/6npIJHWS9JdGzQLEGJhaqW"
+    },
+    {
+      "album": {
         "name": "All That and More (with Maverick Sabre)",
         "url": "https://open.spotify.com/album/32xmrLOID1vBsLNtcmIaOB"
       },
@@ -482,6 +500,28 @@
       "duration_ms": 181545,
       "name": "All the Way",
       "url": "https://open.spotify.com/track/2voqA9EpioDoAWfkmFnYHu"
+    },
+    {
+      "album": {
+        "name": "All U Need (with Jaymin)",
+        "url": "https://open.spotify.com/album/1uT1i8IG2RWghnnPXC49sL"
+      },
+      "artists": [
+        {
+          "name": "Girlfriend",
+          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+        },
+        {
+          "name": "Jaymin",
+          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185807,
+      "name": "All U Need (with Jaymin)",
+      "url": "https://open.spotify.com/track/3prJRFb6nICR3uC7mqhkjs"
     },
     {
       "album": {
@@ -964,7 +1004,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 214757,
       "name": "Back and Forth (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4"
@@ -1444,7 +1484,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 170517,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1rUWEVR78iRaXXuSHyz6KP"
@@ -1962,7 +2002,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 186772,
       "name": "Chakra",
       "url": "https://open.spotify.com/track/4m8SPcvsDsTqR3jAi8pxRD"
@@ -2286,6 +2326,24 @@
       "duration_ms": 203236,
       "name": "Complicated - From The Original Motion Picture \"Relationship Goals\"",
       "url": "https://open.spotify.com/track/6UPDY6CkU6cPX5jcU6JO5i"
+    },
+    {
+      "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/2fcA8uAebc2l0T4xNt8qof"
+      },
+      "artists": [
+        {
+          "name": "Sipprell",
+          "url": "https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223186,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/20L7PliDhO2c0mvoeDXu04"
     },
     {
       "album": {
@@ -3483,6 +3541,24 @@
     },
     {
       "album": {
+        "name": "FatalAttraction",
+        "url": "https://open.spotify.com/album/1wQzK1Wp22pzqyKQsMqYau"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9A THE LEOX",
+          "url": "https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207567,
+      "name": "Fatal",
+      "url": "https://open.spotify.com/track/2UnBCuQtiwlV6oMuix8vi5"
+    },
+    {
+      "album": {
         "name": "FREE",
         "url": "https://open.spotify.com/album/5kYK7Yov59At0MNDQBKR35"
       },
@@ -3599,7 +3675,7 @@
     },
     {
       "album": {
-        "name": "Flight Risqu\u00e9 (with Freddie Gibbs & SALIMATA)",
+        "name": "Flight Risqu\u00e9 (feat. Freddie Gibbs & SALIMATA)",
         "url": "https://open.spotify.com/album/0lmNPyOnmc93RkhNZaOxDJ"
       },
       "artists": [
@@ -3620,7 +3696,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171251,
-      "name": "Flight Risqu\u00e9 (with Freddie Gibbs & SALIMATA)",
+      "name": "Flight Risqu\u00e9 (feat. Freddie Gibbs & SALIMATA)",
       "url": "https://open.spotify.com/track/49Xxlgn6sP2hi0es0Xcxxn"
     },
     {
@@ -3712,7 +3788,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 180000,
       "name": "Follow Your Direction",
       "url": "https://open.spotify.com/track/3gtTzAZdndu1iF0fdAEyAL"
@@ -3994,7 +4070,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 147500,
       "name": "G.O.D.",
       "url": "https://open.spotify.com/track/2VUaCpFcrgpjMZiWvDncE7"
@@ -4016,7 +4092,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 224702,
       "name": "GANG",
       "url": "https://open.spotify.com/track/2pDJmM3hkzefoW8c8St7Iw"
@@ -4248,7 +4324,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 163494,
       "name": "Glaze",
       "url": "https://open.spotify.com/track/6mfokGkQnfHkrizH9s2FYu"
@@ -4542,6 +4618,24 @@
       "duration_ms": 146908,
       "name": "HARD TRUTHS",
       "url": "https://open.spotify.com/track/2kkRW9QXMQ6shaneQWqCgB"
+    },
+    {
+      "album": {
+        "name": "Have You Ever",
+        "url": "https://open.spotify.com/album/43VfHSxswP5CF47ijvc9Lr"
+      },
+      "artists": [
+        {
+          "name": "FEYI",
+          "url": "https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184275,
+      "name": "Have You Ever",
+      "url": "https://open.spotify.com/track/5Mogdwnc8pMXwCzNqXJ5dg"
     },
     {
       "album": {
@@ -5224,6 +5318,28 @@
       "duration_ms": 151547,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/08U3QpENVVF2YUuPAN0Wz1"
+    },
+    {
+      "album": {
+        "name": "Kehlani",
+        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243586,
+      "name": "I Need You (feat. Brandy)",
+      "url": "https://open.spotify.com/track/1RNcORpluixtdsa5CBFjBH"
     },
     {
       "album": {
@@ -6350,6 +6466,24 @@
       "duration_ms": 222973,
       "name": "Longest Way Round",
       "url": "https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h"
+    },
+    {
+      "album": {
+        "name": "Serial Romantic",
+        "url": "https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp"
+      },
+      "artists": [
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207256,
+      "name": "Love Ain't Shit",
+      "url": "https://open.spotify.com/track/2UKa3EzviDMvdcAvlVNUo6"
     },
     {
       "album": {
@@ -7516,7 +7650,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 180840,
       "name": "No One\u2019s Business",
       "url": "https://open.spotify.com/track/725T9HeiG4h0hrlluk0dgI"
@@ -9268,7 +9402,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 192599,
       "name": "Safe Space",
       "url": "https://open.spotify.com/track/6rNqibiTywzcBLCwBM0z3z"
@@ -9442,6 +9576,24 @@
       "duration_ms": 159326,
       "name": "Scared - from the \"Bruised\" Soundtrack",
       "url": "https://open.spotify.com/track/0xEIY4zMquic0MRv9lSekG"
+    },
+    {
+      "album": {
+        "name": "Second Hand",
+        "url": "https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204311,
+      "name": "Second Hand",
+      "url": "https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5"
     },
     {
       "album": {
@@ -9908,7 +10060,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 210477,
       "name": "Sofa",
       "url": "https://open.spotify.com/track/0ruOjAJseV9w5G2ILuizYZ"
@@ -10247,6 +10399,24 @@
     },
     {
       "album": {
+        "name": "Kehlani",
+        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213283,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/0Ntgg91du8iTGOobonADUu"
+    },
+    {
+      "album": {
         "name": "Still Ridin",
         "url": "https://open.spotify.com/album/2hYe3Yo3b6SNOSfFWj7hFJ"
       },
@@ -10364,6 +10534,24 @@
       "duration_ms": 181310,
       "name": "Sweet Serotonin",
       "url": "https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa"
+    },
+    {
+      "album": {
+        "name": "sweet talk",
+        "url": "https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146315,
+      "name": "sweet talk",
+      "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
     },
     {
       "album": {
@@ -12208,6 +12396,28 @@
       "duration_ms": 294264,
       "name": "XO - My Gift Interlude",
       "url": "https://open.spotify.com/track/3KDcyGFxBvUM6RENrJ9be2"
+    },
+    {
+      "album": {
+        "name": "Beautiful Tragedy",
+        "url": "https://open.spotify.com/album/6ngm8ZaLfhxy5HEZAqqLQb"
+      },
+      "artists": [
+        {
+          "name": "Ebony Riley",
+          "url": "https://open.spotify.com/artist/44uizbRKRAdJglzWQKBReo"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193379,
+      "name": "You Better Know (feat. Skilla Baby)",
+      "url": "https://open.spotify.com/track/4ozEPYKJne0z9DS0MUSMpY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > new gen alt ⛓ ft\. bleech 9:3
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,649 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,645 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 2 | [Restless in Bloom](https://open.spotify.com/track/4mS6vO5MKQnrv2iObSlU6y) | [Tooth](https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s) | [Restless in Bloom](https://open.spotify.com/album/1YynRD3szUoJPmQbH9fbAx) | 4:24 |
 | 3 | [Hanging Out To Dry](https://open.spotify.com/track/1GZ5KqHOdkU0cZoz1JfQo8) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Spring Forward](https://open.spotify.com/album/61NGKj9SdXHHxDWU8ZsnaS) | 3:32 |
 | 4 | [Celebrity](https://open.spotify.com/track/59nt8X7neBT0wu8pokE4Cv) | [My First Time](https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0) | [Celebrity](https://open.spotify.com/album/7dGpjkRZaLI9UMqJD7sbBD) | 2:29 |
-| 5 | [Track 4](https://open.spotify.com/track/58LqBRV0o1CfWjxLq8xwfv) | [loveshy](https://open.spotify.com/artist/2xZvyZ5a4pTOvLexCZ91lv) | [Aftertaste](https://open.spotify.com/album/4JhceA7cUvI0VmAEOcYAE2) | 0:00 |
+| 5 | [Bullet Between My Teeth](https://open.spotify.com/track/58LqBRV0o1CfWjxLq8xwfv) | [loveshy](https://open.spotify.com/artist/2xZvyZ5a4pTOvLexCZ91lv) | [Aftertaste](https://open.spotify.com/album/4JhceA7cUvI0VmAEOcYAE2) | 2:57 |
 | 6 | [WHAT IS SHE FOR?](https://open.spotify.com/track/3PZtRPhoMnlAuSrlErYYeD) | [CLT DRP](https://open.spotify.com/artist/0y7VykZdOB8wIsAQfr2S4M) | [WHAT IS SHE FOR?](https://open.spotify.com/album/4UsgvivQV7sqCOFE4QBn8w) | 2:17 |
 | 7 | [Perfume](https://open.spotify.com/track/5luOK6MRqAI0ZWT7ibbXvl) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Perfume](https://open.spotify.com/album/3UZ05jaikHRAGlsGwOsn4w) | 3:17 |
 | 8 | [Drive](https://open.spotify.com/track/0dAj6BkZaBkAUJ8wJxKgCR) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Drive](https://open.spotify.com/album/26MHLlcZIbBkyeIvyeq4Wi) | 3:32 |

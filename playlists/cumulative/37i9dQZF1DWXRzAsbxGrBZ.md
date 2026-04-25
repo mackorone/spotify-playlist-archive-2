@@ -2,9 +2,9 @@
 
 ### [Deep House Session](https://open.spotify.com/playlist/37i9dQZF1DWXRzAsbxGrBZ)
 
-> Get revived with some of the best Deep House South Africa has to offer\. Cover: Artwork Sounds
+> Get revived with some of the best Deep House South Africa has to offer\. Cover: Hypaphonik
 
-376 songs - 1 day 18 hr 46 min
+377 songs - 1 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [AWA \- Ralf GUM Vocal Mix Edit](https://open.spotify.com/track/7shDYbTq0YcuDWgzJdziyY) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK) | [AWA](https://open.spotify.com/album/28e7SX68Y9jGYw8Pbj0AIe) | 3:59 | 2024-02-15 | 2025-07-04 |
 | [Awesome God](https://open.spotify.com/track/1J7m2fe94mcQbKfooP3QOg) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Bee\-Bar](https://open.spotify.com/artist/3qb1QRGW4Fg2Z5tL1RpEbJ), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Awesome God](https://open.spotify.com/album/6o7rsUKRvC8UZ5PHljEhyo) | 7:18 | 2023-03-23 |  |
 | [Awesome God \(feat\. Kabza De Small\)](https://open.spotify.com/track/6Sl97d6xi1FgBarJViL72d) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Beebar](https://open.spotify.com/artist/05tqZLNSU1rOOxsquPHNkV), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [The Gospel According To Artwork Sounds Chapter II](https://open.spotify.com/album/1HWMPbbketx6SyJJ81dZV0) | 7:18 | 2024-03-15 | 2024-04-19 |
-| [BAD GIRLS](https://open.spotify.com/track/7GWa68njpEiR0uN8cU0A2z) | [Fatso 98](https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr) | [THE XO EFFECT](https://open.spotify.com/album/60XGsGJPE77Xqtz2PExkaB) | 6:48 | 2025-02-21 |  |
+| [BAD GIRLS](https://open.spotify.com/track/7GWa68njpEiR0uN8cU0A2z) | [Fatso 98](https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr) | [THE XO EFFECT](https://open.spotify.com/album/60XGsGJPE77Xqtz2PExkaB) | 6:48 | 2025-02-21 | 2026-04-25 |
 | [Bakulindele \- Extended Mix](https://open.spotify.com/track/5AoaeWtWGTTICPhMbiUFBF) | [Charles Webster](https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh), [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Bakulindele](https://open.spotify.com/album/5gfX6L9OMQd3AuLqnEbV8s) | 6:58 | 2025-03-17 | 2025-04-11 |
 | [Banomona](https://open.spotify.com/track/67Ddv7uS5uLD5OOG231jQ7) | [George Lesley](https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL), [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe) | [My Journey Continues](https://open.spotify.com/album/0cl66dryUl4y8GpCtlFmyt) | 6:44 | 2026-03-06 |  |
 | [BAUHAUS](https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2) | [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [BAUHAUS](https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07) | 8:02 | 2022-09-14 | 2024-04-08 |
@@ -234,6 +234,7 @@
 | [Ngizo Phanda](https://open.spotify.com/track/23MN9PRyy94Kb2pxfTFK8A) | [Miza](https://open.spotify.com/artist/3mBVublR1nZUbjtVTMqeJ1), [BosPianii](https://open.spotify.com/artist/1n8CWNLpUdGV8MaWzxRZcl), [TrailMusic SA](https://open.spotify.com/artist/0igahnxUz81QvnFObAaQWf), [TeteKaGogo](https://open.spotify.com/artist/6chpOII6UYv8eknemPHXsQ) | [Ngizo Phanda](https://open.spotify.com/album/18YR8WOjzeTBZRIWRGs7W4) | 6:34 | 2025-05-01 | 2025-07-25 |
 | [Night Owl \- Addictive Mix](https://open.spotify.com/track/2GHnl5yxxyC6bihRtliCAA) | [Da Real Emkay](https://open.spotify.com/artist/3fCLla6NLpXvcKZ6GYZxmt), [AquaReece](https://open.spotify.com/artist/7nDbXotkmo5aHfr3ETKZSX) | [Night Owl \(Addictive Mix\)](https://open.spotify.com/album/4eAhK75ARZINMuSNjzZb2b) | 6:36 | 2025-06-26 | 2025-07-11 |
 | [Nights In Summer](https://open.spotify.com/track/6Z90kPVY4fSYnr85ZYGdwb) | [Guztav](https://open.spotify.com/artist/5njhRrz5uOFMp6PVBhq4XH) | [Music In Me](https://open.spotify.com/album/4L9GNHi3y050I4HcaPWx5m) | 6:30 | 2024-05-16 | 2024-05-23 |
+| [No Pressure](https://open.spotify.com/track/02CATHrNoYtVafBE81rzF5) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io), [Salvador](https://open.spotify.com/artist/2FUmeo84bwi3tKKlkLf9C0) | [No Pressure](https://open.spotify.com/album/26Y1NMQ9OZz0j3OTqh4UiD) | 5:52 | 2026-04-24 |  |
 | [No Regrets](https://open.spotify.com/track/5V6S1byIWwSaw8NmjTl7p1) | [D.General](https://open.spotify.com/artist/3k6HJ8CqtsEfqkpehLhl0l) | [Rebirth](https://open.spotify.com/album/6EmeH4g6wfJdrs8UsgpmRe) | 6:07 | 2025-03-20 | 2025-07-04 |
 | [Not in My Kitchen](https://open.spotify.com/track/066sdKveccU5X0AWozTGFR) | [Gabbana](https://open.spotify.com/artist/0I3Acccg46Me47afcARZYX) | [Stargazer](https://open.spotify.com/album/42CTvGrcnED1o181lUvJaZ) | 6:15 | 2025-02-27 | 2025-03-08 |
 | [Nothingness](https://open.spotify.com/track/5Tqu6AEe9N4Cudb7Z0siVh) | [Thabo Tonick](https://open.spotify.com/artist/154tqoSmvaZaRIgwJI1xgJ) | [Grounded](https://open.spotify.com/album/2KQKlBWvfHORHPixtI048Z) | 6:34 | 2025-08-21 |  |

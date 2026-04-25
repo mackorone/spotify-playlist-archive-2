@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The best of every corner of modern punk rock. Cover: Turnstile",
+  "description": "The best of every corner of modern punk rock. Cover: Show Me The Body",
   "name": "Today's Punk",
   "tracks": [
     {
@@ -2883,6 +2883,24 @@
     },
     {
       "album": {
+        "name": "Dance In The USA",
+        "url": "https://open.spotify.com/album/5s1MU2zNr7wTsNBpGRgbXg"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179280,
+      "name": "Dance In The USA",
+      "url": "https://open.spotify.com/track/6OgQCTbeqEI2rjmmkfkFOV"
+    },
+    {
+      "album": {
         "name": "Dandelions",
         "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
       },
@@ -3172,7 +3190,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 109947,
       "name": "Destruction Of My Soul",
       "url": "https://open.spotify.com/track/5m0A1Xu0lqnKnWcj6oWgld"
@@ -4607,6 +4625,24 @@
     },
     {
       "album": {
+        "name": "Get To It",
+        "url": "https://open.spotify.com/album/501oPIRjZkYmnCqGrAp9aj"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164413,
+      "name": "Get To It",
+      "url": "https://open.spotify.com/track/46YHl5eDF9Ofn5sdiwbf0M"
+    },
+    {
+      "album": {
         "name": "Ghost Brigade",
         "url": "https://open.spotify.com/album/54LUC08HR95BMdbH4v7MVn"
       },
@@ -4918,6 +4954,24 @@
       "duration_ms": 186795,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5cPZPo5MArJShiaAaL9TGN"
+    },
+    {
+      "album": {
+        "name": "I Used To Go To This Bar",
+        "url": "https://open.spotify.com/album/2PomJEqfBluQI4uE6hPQEJ"
+      },
+      "artists": [
+        {
+          "name": "Joyce Manor",
+          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133481,
+      "name": "Grey Guitar",
+      "url": "https://open.spotify.com/track/32cShRFoAaiBBbaKWaOqB6"
     },
     {
       "album": {
@@ -5744,7 +5798,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 110101,
       "name": "I Know Where Mark Chen Lives",
       "url": "https://open.spotify.com/track/7zvZ18HvFVsR9O9B0vn47c"
@@ -6134,7 +6188,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 193840,
       "name": "Irreversible",
       "url": "https://open.spotify.com/track/4zenUHy8MFBqIX4EUSejkT"
@@ -7628,7 +7682,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 212215,
       "name": "Monolith",
       "url": "https://open.spotify.com/track/2qWJ3H3iMEnkeyi8t0QfGr"
@@ -8505,6 +8559,24 @@
     },
     {
       "album": {
+        "name": "ONLY FREE WHEN SLEEPING",
+        "url": "https://open.spotify.com/album/1UYqcMcmVisf3r7TS97Jjn"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "ONLY FREE WHEN SLEEPING",
+      "url": "https://open.spotify.com/track/2UrEoBlS2t0NsO1D75jfsN"
+    },
+    {
+      "album": {
         "name": "Optical Delusions",
         "url": "https://open.spotify.com/album/6Xktv0xcSS1vaYilvd8LXg"
       },
@@ -8538,6 +8610,24 @@
       "duration_ms": 159386,
       "name": "Orange Leaf",
       "url": "https://open.spotify.com/track/0sglBJ8VrL4W6Mlw37FAPu"
+    },
+    {
+      "album": {
+        "name": "Other Hells",
+        "url": "https://open.spotify.com/album/4l2EDSA4qmBE1xPEKtU8nG"
+      },
+      "artists": [
+        {
+          "name": "Ceremony",
+          "url": "https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126453,
+      "name": "Other Hells",
+      "url": "https://open.spotify.com/track/3kgXEm4V8tfoMyXdmPMeKi"
     },
     {
       "album": {
@@ -9454,7 +9544,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 170362,
       "name": "Sabotage",
       "url": "https://open.spotify.com/track/0d0dCSbntM8IIXnaHFJzC8"
@@ -10514,7 +10604,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 144546,
       "name": "Still Suffer",
       "url": "https://open.spotify.com/track/3LmmBjYGnrWIaHpRyGauAG"
@@ -10604,7 +10694,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 194273,
       "name": "Straight Up (Needy)",
       "url": "https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96"
@@ -10828,6 +10918,24 @@
       "duration_ms": 142124,
       "name": "Talking To Myself",
       "url": "https://open.spotify.com/track/3hXqsW8leYpzFZ4EBzrO5x"
+    },
+    {
+      "album": {
+        "name": "Talon",
+        "url": "https://open.spotify.com/album/6UmBz7tr1jI9si3H9kMBjK"
+      },
+      "artists": [
+        {
+          "name": "Lip Critic",
+          "url": "https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217753,
+      "name": "Talon",
+      "url": "https://open.spotify.com/track/5JuFnIY3ubCXfViw7L247G"
     },
     {
       "album": {
@@ -11080,7 +11188,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 169613,
       "name": "The Fool",
       "url": "https://open.spotify.com/track/12dT0DGdLe2fvrzs27nGzM"
@@ -11146,6 +11254,24 @@
       "duration_ms": 200453,
       "name": "The Hogg",
       "url": "https://open.spotify.com/track/0EafyqIHJGK9WuTX5KaqZ7"
+    },
+    {
+      "album": {
+        "name": "THE HORROR SHOW",
+        "url": "https://open.spotify.com/album/6C0dh0fqQHwuZte8IqFuTs"
+      },
+      "artists": [
+        {
+          "name": "I Am The Avalanche",
+          "url": "https://open.spotify.com/artist/60uj1W8gsOriVqdoqLcR2O"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130106,
+      "name": "THE HORROR SHOW",
+      "url": "https://open.spotify.com/track/0g3zqZGggI5zlRiK8QZbtU"
     },
     {
       "album": {
@@ -11330,6 +11456,24 @@
       "duration_ms": 197853,
       "name": "The Weapon Pt. II",
       "url": "https://open.spotify.com/track/2nUWdoAXkRdZj4ssbrbK81"
+    },
+    {
+      "album": {
+        "name": "The Worst Thing I've Ever Done",
+        "url": "https://open.spotify.com/album/5DEDPreakXMEueOkLL3XbU"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197332,
+      "name": "The Worst Thing I've Ever Done",
+      "url": "https://open.spotify.com/track/0VUkY6Uga7OmNWxcfyjAvj"
     },
     {
       "album": {
@@ -11903,6 +12047,24 @@
     },
     {
       "album": {
+        "name": "Unc",
+        "url": "https://open.spotify.com/album/3rzVbGBmq7pbc820rQeEDI"
+      },
+      "artists": [
+        {
+          "name": "Plague Vendor",
+          "url": "https://open.spotify.com/artist/680qtSVCs3xqNWqZd4khh5"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98826,
+      "name": "Unc",
+      "url": "https://open.spotify.com/track/6gQUPTZJ72wFM43vw9GwBH"
+    },
+    {
+      "album": {
         "name": "uncooked",
         "url": "https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0"
       },
@@ -12098,6 +12260,28 @@
       "duration_ms": 194833,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/3I9nTUGJ90pe9mDpnSob2g"
+    },
+    {
+      "album": {
+        "name": "Waiting To Know",
+        "url": "https://open.spotify.com/album/09UUsrLflP1LU7GxcI1zr7"
+      },
+      "artists": [
+        {
+          "name": "Death Lens",
+          "url": "https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8"
+        },
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176455,
+      "name": "Waiting To Know",
+      "url": "https://open.spotify.com/track/3COerH8qeZERHv69TypVPT"
     },
     {
       "album": {
@@ -12698,6 +12882,24 @@
       "duration_ms": 222317,
       "name": "You",
       "url": "https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII"
+    },
+    {
+      "album": {
+        "name": "You Hate Me",
+        "url": "https://open.spotify.com/album/601KLtTDsvxaDKgtGIJFOS"
+      },
+      "artists": [
+        {
+          "name": "Koyo",
+          "url": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212349,
+      "name": "You Hate Me",
+      "url": "https://open.spotify.com/track/5Vpb3sJeb6pWjkPuEZchEG"
     },
     {
       "album": {

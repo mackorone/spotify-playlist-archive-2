@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Israel Salazar
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,067 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,406 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 4](https://open.spotify.com/track/0dJRegWPIL8XrtF0CqBypb) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Eu Tô no Culto \(Quase Acústico\)](https://open.spotify.com/album/2S5eEwAAL1e6Ea2TqSFETu) | 0:00 |
+| 1 | [És Bem\-Vindo \- Quase Acústico](https://open.spotify.com/track/0dJRegWPIL8XrtF0CqBypb) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Eu Tô no Culto \(Quase Acústico\)](https://open.spotify.com/album/2S5eEwAAL1e6Ea2TqSFETu) | 5:13 |
 | 2 | [Deus de Moisés](https://open.spotify.com/track/3ghzHm4lHHhA9WO9Yiu5nY) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Êxodo](https://open.spotify.com/album/44sV0KO83IohkU1FhQHB2b) | 6:03 |
 | 3 | [Coroa Da Vida](https://open.spotify.com/track/41PoX50ZYi7mP4bs5TQ5wC) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [O Plano](https://open.spotify.com/album/5EKddscQOerugFYyBWvuMe) | 3:51 |
 | 4 | [Deus do Secreto \- Ao Vivo](https://open.spotify.com/track/5TxCZw9dPlmgiSxgYdRpeE) | [Esther Lays](https://open.spotify.com/artist/4AxeJoaFfdbhi4MrhoGFB9), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Deus do Secreto \(Ao Vivo\)](https://open.spotify.com/album/3Tq72LHJiyPBsovoChpXoV) | 5:14 |

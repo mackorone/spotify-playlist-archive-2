@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 195492,
       "name": "17",
       "url": "https://open.spotify.com/track/44mNFl4PM016z0tueNAhzK"
@@ -2196,6 +2196,24 @@
       "duration_ms": 154120,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/7k0CjQfqiS0vHpvxMECarP"
+    },
+    {
+      "album": {
+        "name": "BLURRY",
+        "url": "https://open.spotify.com/album/4KnNtQ9m2ya5CVz4HdDcqU"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182383,
+      "name": "BLOODY MARY",
+      "url": "https://open.spotify.com/track/445swxbKlkXgrIbRPpPYrL"
     },
     {
       "album": {
@@ -10807,6 +10825,24 @@
     },
     {
       "album": {
+        "name": "Lovemesick",
+        "url": "https://open.spotify.com/album/7zpQ3LP0JDe5mLEl10MPiv"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229659,
+      "name": "Lovemesick",
+      "url": "https://open.spotify.com/track/49lewRjU3Hv6OfGCbEZBZN"
+    },
+    {
+      "album": {
         "name": "lucky",
         "url": "https://open.spotify.com/album/5HFfLVlZ3FxG17PRrkc2Y2"
       },
@@ -15128,7 +15164,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 213241,
       "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"

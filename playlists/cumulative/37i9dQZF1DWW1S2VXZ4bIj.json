@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: \u0e1a\u0e35\u0e49 \u0e2a\u0e38\u0e01\u0e24\u0e29\u0e0e\u0e34\u0e4c",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Mirrr",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -394,7 +394,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 153281,
       "name": "Bad Angel (with LISA)",
       "url": "https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ"
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 245322,
       "name": "Exp. (Expired)",
       "url": "https://open.spotify.com/track/74YZnuD5ptqucekBOEc3mw"
@@ -2418,7 +2418,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 190515,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/6L23msZhO3PhVhnzImb0M1"
@@ -3960,7 +3960,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 192000,
       "name": "Shake!",
       "url": "https://open.spotify.com/track/6wdKMBPEUhdIE7Xhxb8ynP"
@@ -7853,6 +7853,24 @@
     },
     {
       "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e40\u0e01\u0e34\u0e14 (If Only)",
+        "url": "https://open.spotify.com/album/09ohr5Op86uFo9tGRhOxbv"
+      },
+      "artists": [
+        {
+          "name": "LYKN",
+          "url": "https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264832,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e01\u0e34\u0e14 (If Only)",
+      "url": "https://open.spotify.com/track/2Fy0wd6wmL9QSujVYizVbp"
+    },
+    {
+      "album": {
         "name": "Only Monday",
         "url": "https://open.spotify.com/album/15CoMEQ6JmtEIz4uLoT7DY"
       },
@@ -9187,6 +9205,24 @@
     },
     {
       "album": {
+        "name": "\u0e22\u0e34\u0e48\u0e07\u0e2b\u0e49\u0e32\u0e21\u0e22\u0e34\u0e48\u0e07\u0e22\u0e38 (YHYU)",
+        "url": "https://open.spotify.com/album/1gXkYr3cAe9x2OwIyJRvph"
+      },
+      "artists": [
+        {
+          "name": "Mirrr",
+          "url": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217894,
+      "name": "\u0e22\u0e34\u0e48\u0e07\u0e2b\u0e49\u0e32\u0e21\u0e22\u0e34\u0e48\u0e07\u0e22\u0e38 (YHYU)",
+      "url": "https://open.spotify.com/track/2lp0L98MOStbRZZJPPukGg"
+    },
+    {
+      "album": {
         "name": "\u0e22\u0e34\u0e48\u0e07\u0e43\u0e01\u0e25\u0e49\u0e22\u0e34\u0e48\u0e07\u0e01\u0e25\u0e31\u0e27",
         "url": "https://open.spotify.com/album/60f62Pmvk58NtQirSXxvnd"
       },
@@ -9542,6 +9578,24 @@
       "duration_ms": 250232,
       "name": "\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27",
       "url": "https://open.spotify.com/track/6UONhODhp5Yz51rL0gcxMU"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e23\u0e39\u0e49 (Proof.)",
+        "url": "https://open.spotify.com/album/0UEgkWQcEQ9pvIHUpuxbmH"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e23\u0e39\u0e49 (Proof.)",
+      "url": "https://open.spotify.com/track/0jmSojJLnjiQpGGM3HHlYS"
     },
     {
       "album": {
@@ -10068,6 +10122,24 @@
       "duration_ms": 228648,
       "name": "\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19\u0e09\u0e31\u0e19\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e14\u0e35",
       "url": "https://open.spotify.com/track/6SNwxbDxjzzN2VO3k6pXdR"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 (Someday)",
+        "url": "https://open.spotify.com/album/1OXgq0ZJljJ3DveQhNh2D6"
+      },
+      "artists": [
+        {
+          "name": "Whal & Dolph",
+          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239646,
+      "name": "\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 (Someday)",
+      "url": "https://open.spotify.com/track/2hMTyuTMniu9l0StZ9RZNW"
     },
     {
       "album": {

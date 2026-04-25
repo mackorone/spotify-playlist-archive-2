@@ -4,7 +4,7 @@
 
 > Największe rapowe kawałki w tej chwili\. Cover: Kaz Bałagane, Steez83
 
-966 songs - 1 day 21 hr 16 min
+966 songs - 1 day 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,6 +521,7 @@
 | [MONEY](https://open.spotify.com/track/2dHTM7rxqfbe81yC2jS4TP) | [Macias](https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho), [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0), [Zzzipper](https://open.spotify.com/artist/1YcGiPbTZ1X2wcw4iv8JWa) | [SEPPUKU](https://open.spotify.com/album/2Wiu3NtPdN56pkb7Yfprx5) | 2:58 | 2024-10-10 | 2024-11-15 |
 | [MONOPOL](https://open.spotify.com/track/5hEr8DxL1QQYziUK2pnFfl) | [SVM!R](https://open.spotify.com/artist/4K8wRpyAE3Cwq4q5Jpgpdh) | [MONOPOL](https://open.spotify.com/album/0v1doc6blF3LimY2K4GJLK) | 2:49 | 2024-10-31 | 2025-03-07 |
 | [Mood](https://open.spotify.com/track/3gWEv74rPdF2L03M7GxGB6) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Opał](https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Mood](https://open.spotify.com/album/19mfMmhrF9ujR6jeFUdnm4) | 3:09 | 2025-01-02 | 2025-02-07 |
+| [MR\. OFFICER](https://open.spotify.com/track/3UoUYRgymymRCJGI6CPV0t) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0) | [KING SENTO PROLOG](https://open.spotify.com/album/7LGckMbpmQA2chYILL6zSW) | 2:46 | 2026-04-23 |  |
 | [Mroczna Komnata](https://open.spotify.com/track/1KawCXZXR288yGeQbEgYL4) | [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Waima](https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp) | [Mroczna Komnata](https://open.spotify.com/album/6dchetja9KZVQmEgHSxN6A) | 3:10 | 2024-04-11 | 2024-05-24 |
 | [MULLET](https://open.spotify.com/track/0rRVil3EMNqbeWA5SuLGCQ) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6), [Kronkel Dom](https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45), [Abel de Jong](https://open.spotify.com/artist/6uXPdkcF1OSFxmG7gF22rt) | [MULLET](https://open.spotify.com/album/5zr4FEduj4kWdxVmiXy1Yb) | 2:10 | 2024-10-17 | 2024-11-01 |
 | [Multisport](https://open.spotify.com/track/5P1qwR2V4a5EFDrsztWqaZ) | [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT), [Oskar83](https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4) | [Multisport](https://open.spotify.com/album/0N2RrkBLMYNnPvsrRYOJsa) | 2:59 | 2024-07-18 | 2025-05-16 |
@@ -844,7 +845,6 @@
 | [TOPFLOOR](https://open.spotify.com/track/22ARc0DnnJC0hNKgeBZ5OA) | [Waima](https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp), [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [Kosela](https://open.spotify.com/artist/2FOLmmSlTrVcpTM079S2QP), [krvchy](https://open.spotify.com/artist/6qcwTqb6gTXBCQ97Avu4Xt) | [TOPFLOOR](https://open.spotify.com/album/36TDeB8BRjhvR7hmvacIqS) | 2:16 | 2026-04-16 |  |
 | [TOTORO](https://open.spotify.com/track/4oa5GCUVLK0KMXOHhz70tr) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht) | [UZUMAKI FORMA OSTATECZNA](https://open.spotify.com/album/6qcbKRA7omOSjv0PoUVj79) | 2:56 | 2023-09-21 | 2023-12-01 |
 | [TOXIC](https://open.spotify.com/track/5FnD4h9hEb6ii4zPBLGaGb) | [Frosti](https://open.spotify.com/artist/1gy83FHMv1GVuqYu3sxYxY), [Fagata](https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8) | [TOXIC](https://open.spotify.com/album/2efgDVZpC7lj5xA0ulLcje) | 2:50 | 2026-02-19 | 2026-03-20 |
-| [Track 2](https://open.spotify.com/track/3UoUYRgymymRCJGI6CPV0t) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0) | [KING SENTO PROLOG](https://open.spotify.com/album/7LGckMbpmQA2chYILL6zSW) | 0:00 | 2026-04-23 |  |
 | [TRAPLORD](https://open.spotify.com/track/7yKw5k72dDv375KrBM8ebD) | [Frosti](https://open.spotify.com/artist/1gy83FHMv1GVuqYu3sxYxY) | [POLSKI SWAG](https://open.spotify.com/album/7H6PSfO21MVWzcy1hx7WpP) | 3:01 | 2026-04-09 | 2026-04-17 |
 | [Trapstar](https://open.spotify.com/track/0tx39lzX83KjrWqEfHTxew) | [Kabe](https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt), [Opiat](https://open.spotify.com/artist/001oyhl94fb7YKL6fVqHOo) | [Trapstar](https://open.spotify.com/album/4C9bZzzDC23RZKRkjVtOrm) | 2:57 | 2023-10-26 | 2023-11-17 |
 | [TRENINGOWY DRES](https://open.spotify.com/track/0hgQqD7YLqyZigMuuri08J) | [Francuz Mordo](https://open.spotify.com/artist/2HbB4FfGWI8U5NsLgUZ5ao), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Sebz Beats](https://open.spotify.com/artist/1jGM687jFlYVxRV4xZivTO) | [TRENINGOWY DRES](https://open.spotify.com/album/3zJtUhEpHXjxwB3ktjHZDY) | 3:20 | 2024-11-21 | 2024-12-06 |

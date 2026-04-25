@@ -2,9 +2,9 @@
 
 ### [CantoVision](https://open.spotify.com/playlist/37i9dQZF1DWW6TogMpx8Q2)
 
-> Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: Pakho Chau
+> Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: REGENT 林暐竣
 
-149 songs - 9 hr 29 min
+150 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [勁浪漫 超溫馨](https://open.spotify.com/track/2YF2QvEFNGbIgNQaUzLk4Q) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 3:19 | 2022-07-07 | 2025-08-14 |
 | [及時行樂](https://open.spotify.com/track/4co81zh3xm4y6ZcyLj4eTz) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Learning Curve](https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd) | 3:54 | 2022-07-07 | 2025-08-14 |
 | [反對無效](https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [反對無效](https://open.spotify.com/album/580J4faNuujItQTyIVzNxs) | 3:48 | 2022-07-07 | 2025-08-14 |
+| [取消追蹤](https://open.spotify.com/track/7zRtyJIbpVGtIviihExl42) | [REGENT 林暐竣](https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp) | [取消追蹤](https://open.spotify.com/album/524TeR4HcUHBCCNiOdQK9j) | 4:11 | 2026-04-24 |  |
 | [叫吧！大笨蛋](https://open.spotify.com/track/7l2PPCcRsmVxQieHbQxxnS) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [叫吧！大笨蛋](https://open.spotify.com/album/2CBzzu8gwIol9LX9Cte92Z) | 3:25 | 2025-08-13 |  |
 | [和所有錯的人談戀愛](https://open.spotify.com/track/3WsQJc0GNpktaMQfw21LGL) | [REGENT 林暐竣](https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp) | [和所有錯的人談戀愛](https://open.spotify.com/album/5SfVRd3MsWJBQjrIyW0MEQ) | 3:43 | 2025-10-09 |  |
 | [哎喲](https://open.spotify.com/track/3Q2gEuem3WsrO0SUqZF7C9) | [REGENT 林暐竣](https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp) | [哎喲](https://open.spotify.com/album/0rftVw9IbSVCiyMWEjvtqp) | 3:19 | 2026-03-12 |  |

@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2026 RADAR登場！持續發掘香港未來新聲！Cover: CONSTANCE
+> 2026 RADAR登場！持續發掘香港未來新聲！Cover: inablankat
 
-333 songs - 19 hr 20 min
+335 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [半空](https://open.spotify.com/track/3WQrsXin9ApgBiCvmbtfOg) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [半空](https://open.spotify.com/album/4u30oOR3tTkzO0QHrYteIu) | 4:26 | 2024-03-07 | 2025-03-28 |
 | [南 Nam](https://open.spotify.com/track/4lUDA9q4iIM9IoQherQIn7) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [南 Nam](https://open.spotify.com/album/5pRm6QGxFNByZDzCvUhmqo) | 6:15 | 2024-08-22 | 2025-03-28 |
 | [原生結](https://open.spotify.com/track/0KFnJisJRHA8m68fOjaS1n) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [ngo⁵](https://open.spotify.com/album/41KGazA3CEnkvVVr2FQuNN) | 4:28 | 2026-04-06 |  |
+| [取消追蹤](https://open.spotify.com/track/7zRtyJIbpVGtIviihExl42) | [REGENT 林暐竣](https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp) | [取消追蹤](https://open.spotify.com/album/524TeR4HcUHBCCNiOdQK9j) | 4:11 | 2026-04-24 |  |
 | [可否一起寂寞到最後](https://open.spotify.com/track/3KtINGlRBFf8MFHPEmm1OP) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [可否一起寂寞到最後](https://open.spotify.com/album/4jII8Ll5dJ3XxSpHvvWk3t) | 3:48 | 2024-01-25 | 2025-03-28 |
 | [同步舞曲](https://open.spotify.com/track/6NLX0sK1uP6hAmPoRiDhGp) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [同步慢呼吸](https://open.spotify.com/album/3PjBngCx1Ft4FhGL7T8MTq) | 3:51 | 2022-05-26 | 2023-04-14 |
 | [吟鈴](https://open.spotify.com/track/4BMXFGL8U6FjzUSWHty6LD) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [EmergenZy](https://open.spotify.com/album/05OOs0NKwloQvg96FITa2M) | 2:54 | 2024-03-28 | 2025-03-28 |
@@ -292,6 +293,7 @@
 | [生活復常](https://open.spotify.com/track/3cMG9t7dzGwcFs4vnU5Xa0) | [Aiden Hung 洪助昇](https://open.spotify.com/artist/7GkuBhIVejk4CThUIuW392) | [生活復常](https://open.spotify.com/album/0kjVZySk9kDsn9nhybF8cL) | 3:49 | 2023-04-13 | 2024-03-29 |
 | [甩身 \(feat\. CotaBoii\)](https://open.spotify.com/track/1ECUIV8lgeLLKx4FP92aX7) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I), [CotaBoii](https://open.spotify.com/artist/2yUScYyzi0WG8ldMEFximW) | [甩身 \(feat\. CotaBoii\)](https://open.spotify.com/album/3JuWMejLdX2RxP0VhL3WiM) | 3:22 | 2024-03-28 | 2025-03-28 |
 | [男孩子不要流淚](https://open.spotify.com/track/49JnTU209Y3NCNMzOIdxaB) | [Rover](https://open.spotify.com/artist/7chGhfZr3Es6GiMqJ55bcB) | [男孩子不要流淚](https://open.spotify.com/album/1jOVX6H4BIZaVTDq95b1ML) | 4:39 | 2025-03-27 | 2026-04-07 |
+| [當我們不再說晚安](https://open.spotify.com/track/5nft8DV4HTOPyt5RJ5xBA9) | [晚安莉莉](https://open.spotify.com/artist/5QGALLXDjpaWbNlw4NL8gj) | [當我們不再說晚安](https://open.spotify.com/album/6gzB8wOU4M97H6dosO2uY8) | 4:00 | 2026-04-24 |  |
 | [當我喜歡你時](https://open.spotify.com/track/6dyLqrsodL7AZ1N2qsXdBc) | [Rover](https://open.spotify.com/artist/7chGhfZr3Es6GiMqJ55bcB) | [當我喜歡你時](https://open.spotify.com/album/6a3xzYycfMkl5beyC2mpXT) | 3:59 | 2025-10-06 | 2026-04-07 |
 | [當昨日凝視着我](https://open.spotify.com/track/5MHvlmXlJgBtCA5niF73Fv) | [晚安莉莉](https://open.spotify.com/artist/5QGALLXDjpaWbNlw4NL8gj) | [Goodnight, Lillie.](https://open.spotify.com/album/0kFPWqhXlXqg6wffRY78IR) | 3:48 | 2026-04-06 |  |
 | [瘟疫在愛蔓延時](https://open.spotify.com/track/0csQxHJEzcEMAOvQgDAy1J) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [瘟疫在愛蔓延時](https://open.spotify.com/album/3JaU7N18bOxeHVLktXIX36) | 3:23 | 2026-04-06 |  |

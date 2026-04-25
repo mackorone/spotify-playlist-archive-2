@@ -4,7 +4,7 @@
 
 > It's all about the song  🎧 cover: Niall Horan
 
-831 songs - 1 day 22 hr 27 min
+833 songs - 1 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Body & Soul](https://open.spotify.com/track/5F05FFEJrwkdrZtTM5b61J) | [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Body & Soul](https://open.spotify.com/album/4UsviHLVCx6Z8oRhzMoR4v) | 2:49 | 2025-03-14 | 2025-04-11 |
 | [Body Back](https://open.spotify.com/track/6PvuXVWQOjkWWK79sT0Cvr) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Body Back](https://open.spotify.com/album/1FhKdm5bcj4mqx77fd9tcr) | 3:41 | 2025-03-28 | 2025-04-18 |
 | [Bones](https://open.spotify.com/track/4VUEtD4WedXZjIYJK9d63n) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Birds in Winter](https://open.spotify.com/album/3Qm7yz3G1vT0kleL0c5D28) | 4:02 | 2026-04-23 |  |
+| [Born To Die](https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Born To Die](https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27) | 2:45 | 2026-04-23 |  |
 | [Both Ways](https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Both Ways](https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I) | 3:06 | 2024-05-31 | 2024-07-27 |
 | [Bottom Of Your Boots](https://open.spotify.com/track/0hv6276QhpMDnVJIMxEWPH) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 3:19 | 2026-04-09 |  |
 | [Boy In Love](https://open.spotify.com/track/19TlagHWD2YdNCOoZc1Fjp) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [Boy In Love](https://open.spotify.com/album/4SoPcHKJ7s4XnNZtLbpJ9Y) | 2:37 | 2024-12-20 | 2025-03-14 |
@@ -327,6 +328,7 @@
 | [Hurting You](https://open.spotify.com/track/09G3T3EqlxcgLC7l0UN8qR) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Hurting You](https://open.spotify.com/album/0DYfS8tcAgH0JWp2BCZhDV) | 3:03 | 2025-06-05 | 2025-06-13 |
 | [I Am Enough](https://open.spotify.com/track/6eefU1OC375SvCfyyGdovo) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [I Am Enough](https://open.spotify.com/album/4O0DW3SrSNcvmlcHLeUkRr) | 3:08 | 2025-05-22 | 2025-09-05 |
 | [I Believe in Love](https://open.spotify.com/track/4RVKqjVeFSOwnbtzpQmKtG) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [I Believe in Love](https://open.spotify.com/album/1D6KhOjU34SOdaV7Tndmdn) | 3:00 | 2026-02-13 | 2026-03-27 |
+| [I Can't Love You Anymore](https://open.spotify.com/track/5aVBxVa0kz9uzv0F4gwdEn) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Can't Love You Anymore](https://open.spotify.com/album/5BFfobflVIOwebqy5RtBcP) | 3:48 | 2026-04-23 |  |
 | [I Don't Know Me](https://open.spotify.com/track/6T0LlxJeSMgFHzKPWf4NfM) | [Pedro Santos](https://open.spotify.com/artist/19YzhgBR0lApAqTpaHLzMZ) | [I Don't Know Me](https://open.spotify.com/album/0VZYPuxvzFxaJEViCCcoIm) | 2:51 | 2026-01-09 | 2026-03-27 |
 | [i don't wanna die today](https://open.spotify.com/track/4oKUWM85yPB6Q4HNXxD1n4) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [i don't wanna die today](https://open.spotify.com/album/45Q5tj3SdmdDwXZUp5P5Ml) | 2:55 | 2025-10-23 | 2026-02-20 |
 | [I Don´t Feel](https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [I Don´t Feel](https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr) | 3:28 | 2025-04-24 | 2025-05-30 |

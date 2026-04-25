@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 567 likes - 2,548 songs - 6 day 4 hr 49 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 567 likes - 2,549 songs - 6 day 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2556,5 +2556,6 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2546 | [Son](https://open.spotify.com/track/1sZL6rANV38pXvRQsKsCKZ) | [Pien](https://open.spotify.com/artist/0M3W0VPiLEjryaAfMEoP8z) | [Son](https://open.spotify.com/album/1zR2k48nl1O1EAsJnBZaif) | 2:53 |
 | 2547 | [Takeoff](https://open.spotify.com/track/0rCFOJiWC4CtyllWN1FzTI) | [Deep Shoq](https://open.spotify.com/artist/7vdWVGhRjWiT8VHuS9D9a5) | [Libra](https://open.spotify.com/album/4vlThC8yGepna19qTYL9fK) | 3:29 |
 | 2548 | [There'll be a Sunrise](https://open.spotify.com/track/0uxCeYS2LVTzEInl1IhJ9I) | [Nathaniel Hayes](https://open.spotify.com/artist/1c8SsGyGAeOkEwJ3jn8z6L) | [There'll be a Sunrise](https://open.spotify.com/album/3JIjMJuYNZe4Ihkix1mRL4) | 2:06 |
+| 2549 | [Fireworks Fall](https://open.spotify.com/track/2LmF5dQhaxFNnTpnFOn8z2) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Fireworks Fall](https://open.spotify.com/album/1a2GSekjvduf484J6N71yx) | 3:31 |
 
-Snapshot ID: `AAAKjcDZfnzyanvdl5e4eSrlMkow1WWy`
+Snapshot ID: `AAAKjn9vai9nhfKD/oTAJb5uT8o4Md1K`

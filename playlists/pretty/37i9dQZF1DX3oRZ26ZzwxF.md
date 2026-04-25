@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : L'Oiseau Rare
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,310 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,377 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 4 | [Securiser](https://open.spotify.com/track/5UtM5QxsLvNHnTVsD0JD6N) | [Kocee](https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6), [Sindika](https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV) | [Securiser](https://open.spotify.com/album/06WMbjeGQ4pSSXhdiXmsXr) | 2:54 |
 | 5 | [ICI BAS](https://open.spotify.com/track/0hUN28dCmieC5vupzznOxT) | [Philipayne](https://open.spotify.com/artist/4yqT8sbLpKfUkQX64ujh8D) | [ICI BAS](https://open.spotify.com/album/4KJM2SjzoiywefTP8MJAz6) | 3:09 |
 | 6 | [AMADAN](https://open.spotify.com/track/59SNPmcXGLAMAmnUqQw2ZH) | [Lamine løssa](https://open.spotify.com/artist/2YkHQOwaaDFLiOar0oXqy6) | [AMADAN](https://open.spotify.com/album/76fbIrnYRRxc6zjykmBNwV) | 3:14 |
-| 7 | [Number One](https://open.spotify.com/track/0pzVy9m27gZ9vZ99PmYQXN) | [Le Niapo](https://open.spotify.com/artist/6usbXA7yWZzwHOmOaKbDoJ), [Waza no limite](https://open.spotify.com/artist/0J285nKY53u8GAlvywTPQb) | [Number One](https://open.spotify.com/album/7cXvYCBhsR0QJckyTGKmqe) | 2:22 |
+| 7 | [NUMBER ONE](https://open.spotify.com/track/0pzVy9m27gZ9vZ99PmYQXN) | [Le Niapo](https://open.spotify.com/artist/6usbXA7yWZzwHOmOaKbDoJ), [Waza no limite](https://open.spotify.com/artist/0J285nKY53u8GAlvywTPQb) | [NUMBER ONE](https://open.spotify.com/album/7cXvYCBhsR0QJckyTGKmqe) | 2:22 |
 | 8 | [Cherie Coco](https://open.spotify.com/track/14OrPWhEwB6glyErCCZ5AK) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Cherie Coco](https://open.spotify.com/album/4viEDlUF8I7Accte5lREK4) | 2:41 |
 | 9 | [Praise the Lord](https://open.spotify.com/track/3IvprOUbcFgjfFFeh37doB) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Praise the Lord](https://open.spotify.com/album/2xUK7mW9ZsZoHHZTpqomy6) | 2:22 |
 | 10 | [FREESTYLE DRILL IVOIRE \#7](https://open.spotify.com/track/0rbK2aIn8wZsOGvuuH8xSz) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [FREESTYLE DRILL IVOIRE \#7](https://open.spotify.com/album/1f3Fh5nCZoqTB74fIh0VLG) | 4:08 |

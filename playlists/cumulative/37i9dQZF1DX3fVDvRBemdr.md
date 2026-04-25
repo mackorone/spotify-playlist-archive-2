@@ -4,7 +4,7 @@
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Gerard Joling
 
-633 songs - 1 day 6 hr 22 min
+633 songs - 1 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Als Ik Jou Niet Bij Me Heb](https://open.spotify.com/track/7GBTyiQDOCvlXgzvMAr6SV) | [Glenn van Dooren](https://open.spotify.com/artist/1i43wqXU5RaPW41NC4H7Yf) | [Als Ik Jou Niet Bij Me Heb](https://open.spotify.com/album/0RTjnnNIvUN4pPx9JqV3sc) | 2:50 | 2026-04-02 |  |
 | [Als Ik Naar Malaga Ga](https://open.spotify.com/track/7xkDCLLtAYQ4nHjOIKXnZ6) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Als Ik Naar Malaga Ga](https://open.spotify.com/album/68P4kgJpgPfw0FflrDVh5X) | 2:23 | 2025-05-08 | 2025-09-19 |
 | [Als Je Kijkt](https://open.spotify.com/track/4YZg6QZ5Mcl3Js3MKetT5C) | [Gianluca](https://open.spotify.com/artist/2yL7gNaFIc8VoJeH7GxUkN) | [Als Je kijkt](https://open.spotify.com/album/15nTqtmVFOhB6XZbteKY1u) | 3:05 | 2025-02-07 | 2025-05-30 |
+| [Als Jij Kon Voelen \- Akoestisch](https://open.spotify.com/track/3T2r47vW6PdiNRL62zFQ0K) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Akoestische Sessie](https://open.spotify.com/album/0r4P6VRT9rB1sUuRf706bx) | 2:28 | 2026-04-23 |  |
 | [Als Jij Liegt En Bedriegt](https://open.spotify.com/track/5BGoVSGmuyJPOi8bdSOdGb) | [Wesley Ponsen](https://open.spotify.com/artist/4xxuGsLzFh24K7Nom9QZvO) | [Als Jij Liegt En Bedriegt](https://open.spotify.com/album/7wwbZQ4AVzPoZz9tzyp9TY) | 2:54 | 2026-01-09 | 2026-04-17 |
 | [Als jij nu nog niet weet](https://open.spotify.com/track/5thX3h4OdQvVqP77tpteVt) | [John De Bever](https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p) | [Als jij nu nog niet weet](https://open.spotify.com/album/3HSvJaqOHNOAJmhj6UFwLT) | 2:56 | 2026-04-02 |  |
 | [Als Jij Voorbij Loopt](https://open.spotify.com/track/5Jxxyhe6yCryukFYyXDqvl) | [Sylvia Bruens](https://open.spotify.com/artist/6xBk2UlM97OwWgo7YPduEZ) | [Als Jij Voorbij Loopt](https://open.spotify.com/album/25dJ9GHk8E27ZF4Q8p7Hlm) | 2:38 | 2026-03-26 | 2026-04-17 |
@@ -525,8 +526,6 @@
 | [Tot Aan De Morgen](https://open.spotify.com/track/38DKhsqtqPXgUTBKN65wTy) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Tot Aan De Morgen](https://open.spotify.com/album/1GyGAa4Pdhvyqs3tCnTENG) | 3:05 | 2024-06-13 | 2024-08-30 |
 | [Tot De Laatste Ronde](https://open.spotify.com/track/6WTsfNG6b9aesrGIhPdzXE) | [Jeroen Van Zelst](https://open.spotify.com/artist/0wBzidLaREzN3M2UrjwbnR) | [Tot De Laatste Ronde](https://open.spotify.com/album/6TjRT3535sMujdTlci1iBy) | 2:51 | 2025-04-17 | 2025-08-08 |
 | [Tot In De Late Uurtjes](https://open.spotify.com/track/5gJTYGqYbGk6H1rcUM7ZTb) | [Wendy](https://open.spotify.com/artist/60MqrvbaYDybtfVD9J0HrR) | [Tot In De Late Uurtjes](https://open.spotify.com/album/7mjcBaeVNlEIE2aMXAjuyD) | 2:48 | 2024-11-28 | 2025-02-28 |
-| [Track 1](https://open.spotify.com/track/6f8Nda8vkpFrwsMX5l320t) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Akoestische Sessie](https://open.spotify.com/album/0r4P6VRT9rB1sUuRf706bx) | 0:00 | 2026-04-23 |  |
-| [Track 3](https://open.spotify.com/track/3T2r47vW6PdiNRL62zFQ0K) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Akoestische Sessie](https://open.spotify.com/album/0r4P6VRT9rB1sUuRf706bx) | 0:00 | 2026-04-23 |  |
 | [Tranen van verdriet](https://open.spotify.com/track/4VDpZbdDERhCB5BbKWIsQe) | [Aukje Fijn](https://open.spotify.com/artist/24F7Q3t78T3UiunGmInQzG) | [Tranen van verdriet](https://open.spotify.com/album/4vnWiavaa1s7dfSfpjlCDq) | 3:12 | 2024-10-18 | 2024-11-29 |
 | [Tranen Zijn Niet Alleen Om Te Huilen](https://open.spotify.com/track/1WnSszjfLVZUTDPS57LkO6) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Tranen Zijn Niet Alleen Om Te Huilen](https://open.spotify.com/album/0sTVCFY1xkJQNxNwzQ57GI) | 2:59 | 2024-06-13 | 2024-10-04 |
 | [Tranquilo](https://open.spotify.com/track/2MdohxuwIfNPtEdknrsv7z) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Tranquilo](https://open.spotify.com/album/30N0u0pWGa9VuPuWvMUjhA) | 3:20 | 2025-06-05 | 2025-09-19 |
@@ -569,6 +568,7 @@
 | [Waar Blijf Je Nou](https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Waar Blijf Je Nou](https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ) | 2:58 | 2026-03-26 |  |
 | [Waar Ga Jij Zo Laat Naar Toe?](https://open.spotify.com/track/1h7NnmLh0prY3A1aipbKK7) | [Delano Bisschops](https://open.spotify.com/artist/1Euc01XIupZAthccgXPuG5) | [Waar Ga Jij Zo Laat Naar Toe?](https://open.spotify.com/album/6JLzDKtWuwy3ivpYRSkCSO) | 3:32 | 2025-02-20 | 2025-06-13 |
 | [Waarom](https://open.spotify.com/track/1U1p8wNawQRx26eWRlJG0N) | [Mike Versteeg](https://open.spotify.com/artist/1EF9A4CUgRWouYS80puSfB) | [Waarom](https://open.spotify.com/album/6CtORhISBvtsSo7fpGVcCs) | 2:53 | 2024-06-27 | 2024-07-10 |
+| [Waarom Ben Jij Gegaan \- Akoestisch](https://open.spotify.com/track/6f8Nda8vkpFrwsMX5l320t) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Akoestische Sessie](https://open.spotify.com/album/0r4P6VRT9rB1sUuRf706bx) | 3:36 | 2026-04-23 |  |
 | [Waarom Kan Het Leven Zo Gemeen Zijn](https://open.spotify.com/track/74U65fkMdtaTUaj8tLn8fP) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [Waarom Kan Het Leven Zo Gemeen Zijn](https://open.spotify.com/album/32D5fvlYvBAI2Carsbacqe) | 2:55 | 2025-10-09 | 2026-01-30 |
 | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/track/6FqOih5ok2Hwn8EkrEIY5X) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/album/44thAf5VLWaQSYiEKpEZeA) | 2:49 | 2025-05-08 | 2025-09-19 |
 | [Wachten Op Jou](https://open.spotify.com/track/7D8tOp3trj6rvaplYCnVro) | [Wesley Ponsen](https://open.spotify.com/artist/4xxuGsLzFh24K7Nom9QZvO) | [Wachten Op Jou](https://open.spotify.com/album/62OiJpWTS1sNc9k5P4BICk) | 2:21 | 2024-06-13 | 2024-09-20 |

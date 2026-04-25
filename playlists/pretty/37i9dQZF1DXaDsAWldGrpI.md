@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Eric Church
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,270 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,272 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 99 | [Check Yes Or No \- Live](https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [For The Last Time](https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB) | 2:53 |
 | 100 | [Pretty Little Poison \- Live from the 717](https://open.spotify.com/track/1ykQRCGrdVjkfXC8bSWYUs) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Live from the 717](https://open.spotify.com/album/4uZUIVFWNUjpImruvXfdiI) | 5:11 |
 
-Snapshot ID: `AAAAAJWMcTJ7CW+vryhry1oHCFGYMUVz`
+Snapshot ID: `AAAAAGj5yAcDuwIaivvv+4KPrDG0vZAP`

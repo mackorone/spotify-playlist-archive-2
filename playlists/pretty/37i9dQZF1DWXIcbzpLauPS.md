@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: The Plot In You
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,588 likes - 200 songs - 12 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,581 likes - 200 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

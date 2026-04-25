@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-188 songs - 10 hr 30 min
+189 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Keep Riding Me](https://open.spotify.com/track/1tX1GK4bLfoS9oDIIbhYAv) | [ur pretty](https://open.spotify.com/artist/5m9PQtVJ9ZZVWgb3t2nTMN) | [Keep Riding Me](https://open.spotify.com/album/4kN9CRrkFvXfiadphIZhwX) | 2:21 | 2022-08-26 |  |
 | [KNOT SONG](https://open.spotify.com/track/1vxuF4XwRtYBkUgWa8Ukub) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [KNOT SONG](https://open.spotify.com/album/2GBCGdEeAnLp5Iy7aVmclT) | 2:18 | 2024-07-01 |  |
 | [Labyrinth](https://open.spotify.com/track/0L7MpEwFgZRP5rFdXOYaRT) | [Miracle Musical](https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt), [Shane MauX](https://open.spotify.com/artist/3ygfn18GV8qCw4XcEPJkbA), [KAYE](https://open.spotify.com/artist/6xtWwGjr7pWga4C7xiG29M) | [Hawaii: Part II](https://open.spotify.com/album/1CbtBQqibzdxhmpiLD7vzN) | 2:32 | 2022-10-26 |  |
+| [LESBIAN PONIES WITH WEAPONS](https://open.spotify.com/track/0FDpgYoqsqF4bfiFjCqMiU) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [LESBIAN PONIES WITH WEAPONS](https://open.spotify.com/album/0ZqCiQH2eBt3WFwTQd4m9S) | 3:24 | 2026-04-24 |  |
 | [Let the Games Begin](https://open.spotify.com/track/2pwnEzgIzYL4AOw4ousjkB) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Let the Games Begin](https://open.spotify.com/album/1qrqSSrDtAaA4fINxD0vtE) | 3:21 | 2020-06-03 |  |
 | [Let's Rock \- Original Mix](https://open.spotify.com/track/7d6u5Wj3lcpe5ggk9C0BML) | [Qulinez](https://open.spotify.com/artist/6d7AYr4nvqHPhfPaDLLeRU) | [Let's Rock](https://open.spotify.com/album/4CJUz7SWmp0iMbvrYDt27M) | 4:03 | 2018-12-06 |  |
 | [Lies](https://open.spotify.com/track/39EQMVFlF4xzkjWUEuHR5N) | [Jane XØ](https://open.spotify.com/artist/5keDbKEPwrbe36cPzRpzsK) | [Hard to Forget \- EP](https://open.spotify.com/album/2BON9YOH0dbvZpr4wv3w2R) | 3:49 | 2018-12-06 |  |

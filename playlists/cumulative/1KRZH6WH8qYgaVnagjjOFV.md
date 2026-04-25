@@ -4,7 +4,7 @@
 
 > Top Christian Hits 2026 \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a>
 
-197 songs - 13 hr 10 min
+198 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Even Death On A Cross!](https://open.spotify.com/track/6QM7HFCQZvBvlzFyNtxdfZ) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Even Death On A Cross!](https://open.spotify.com/album/7vTcBAEdOYVZwASV8qk0A8) | 4:09 | 2026-02-20 |  |
 | [Faithfully \- Single Version](https://open.spotify.com/track/7FKO2mSmhkR9NzjXr82zpz) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Faithfully](https://open.spotify.com/album/3a0ksuLUOLApL6mWogz7tF) | 2:48 | 2024-05-24 |  |
 | [Fake Fix](https://open.spotify.com/track/1ISjPzPrfa4GTrf6tznM0k) | [RIDERS](https://open.spotify.com/artist/5nRoa8Fv2bXoYkKW1y1Ze3) | [Fake Fix](https://open.spotify.com/album/3HgvyvvE2tOMSxeB1SRxgS) | 3:39 | 2025-01-31 | 2026-03-17 |
-| [Fall Like Rain \- Live From Passion 2024](https://open.spotify.com/track/5JFgQswV8AjhVUznCfUYha) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Call On Heaven \(Come, Lord Jesus\) \- Live](https://open.spotify.com/album/4tgH3HIbpzXKMjDIadVHIY) | 6:55 | 2026-01-08 |  |
+| [Fall Like Rain \- Live From Passion 2024](https://open.spotify.com/track/5JFgQswV8AjhVUznCfUYha) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kari Jobe Carnes](https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Call On Heaven \(Come, Lord Jesus\) \- Live](https://open.spotify.com/album/4tgH3HIbpzXKMjDIadVHIY) | 6:55 | 2026-01-08 |  |
 | [Far Country](https://open.spotify.com/track/71LzlUgNhw641BBrZQkJgq) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Far Country](https://open.spotify.com/album/1LB8xxLweOAn1YkPCaSKBV) | 3:52 | 2025-05-02 |  |
 | [Fight Like Heaven](https://open.spotify.com/track/43EXydjWVDtpvsp75PEBaz) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Fight Like Heaven](https://open.spotify.com/album/1HFtYu2cRGDxkF4qSHtQVB) | 2:57 | 2025-09-19 |  |
 | [Fight Of My Life](https://open.spotify.com/track/6lifMzePK6K5c5AnfvGMVt) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Fight Of My LIfe](https://open.spotify.com/album/4Dz2LjpgWN5CnGBPAC0Dxp) | 2:58 | 2025-06-20 |  |
@@ -147,6 +147,7 @@
 | [Rescue Me](https://open.spotify.com/track/78cWj0B00NY8VOUdFHyli0) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Dear Jesus](https://open.spotify.com/album/0QiMDbTi1TJ8RGUKU11jZr) | 3:31 | 2026-01-30 |  |
 | [Rest In The Father](https://open.spotify.com/track/5IDjOtUQ2UAjyoJ3vN7xbh) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Divided Frame Of Mind](https://open.spotify.com/album/4QFDKgHuOrhiYYDhCy2cWy) | 3:16 | 2025-01-31 |  |
 | [Salvation Belongs To You \- Live From Passion 2024](https://open.spotify.com/track/21YqSmQdOvrToR08TFYwJc) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Call on Heaven \(Live\)](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 5:16 | 2025-01-31 | 2025-09-20 |
+| [Saturday](https://open.spotify.com/track/2qHzx9pQ4rxDGkauEEkjd7) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Saturday](https://open.spotify.com/album/1rHG4Xy7nq6FCPoeDJF8Kj) | 3:59 | 2026-04-24 |  |
 | [Scared](https://open.spotify.com/track/10DMeaEjx6QL346F0PYxn6) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Twenty Something](https://open.spotify.com/album/22QHxalHn2nMiSqQXhulPh) | 2:38 | 2025-03-21 |  |
 | [Shelter](https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Shelter](https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx) | 4:12 | 2025-01-31 |  |
 | [signs](https://open.spotify.com/track/5VPLN8Ln6X5EUtsTH56WTJ) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [signs](https://open.spotify.com/album/7y5kwWqB3lqrhqgAfpHXpO) | 2:49 | 2024-11-15 | 2026-03-06 |

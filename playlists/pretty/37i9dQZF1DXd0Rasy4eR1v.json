@@ -1,6 +1,6 @@
 {
   "description": "Editor's picks of freshest Pakistani discoveries you need to listen to. Cover: Hamzay",
-  "num_followers": 11207,
+  "num_followers": 11211,
   "original_name": "Fresh Finds Pakistan",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,22 @@
       "duration_ms": 143283,
       "name": "Ashes & Roses",
       "url": "https://open.spotify.com/track/0t2VM10v6UBekkGfsmBm3K"
+    },
+    {
+      "added_at": "2026-04-24 03:00:36",
+      "album": {
+        "name": "My Side",
+        "url": "https://open.spotify.com/album/5cMdZgHwTHQ9r4t9mYSdp5"
+      },
+      "artists": [
+        {
+          "name": "Abdullah Khan",
+          "url": "https://open.spotify.com/artist/2e8YlII8TbOMh0JJ6OstPr"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "My Side",
+      "url": "https://open.spotify.com/track/18MamckgtZPW6yhvOUNiIw"
     },
     {
       "added_at": "2026-04-24 03:00:36",
@@ -227,6 +243,50 @@
       "duration_ms": 200317,
       "name": "Dard",
       "url": "https://open.spotify.com/track/65pVPyMZRHySw7G1bOArfk"
+    },
+    {
+      "added_at": "2026-04-24 03:00:36",
+      "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/4v4GyAvriTrnlWSveU3jew"
+      },
+      "artists": [
+        {
+          "name": "Basit Rauf",
+          "url": "https://open.spotify.com/artist/6nkJgX8WKe7ZHv845pTZdP"
+        },
+        {
+          "name": "Amaizy",
+          "url": "https://open.spotify.com/artist/0QozOd13aqX9kGziUWKzSK"
+        },
+        {
+          "name": "Shamikh",
+          "url": "https://open.spotify.com/artist/5OX1k6sfpyVSusR3Ur0tHH"
+        }
+      ],
+      "duration_ms": 178367,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/3YS6dUUkrO0OoH9VWeLVIj"
+    },
+    {
+      "added_at": "2026-04-24 03:00:36",
+      "album": {
+        "name": "Marham",
+        "url": "https://open.spotify.com/album/6f5RH93MhGWjQNGIA95Qsv"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Hassan",
+          "url": "https://open.spotify.com/artist/5xtM0QJpr8K2obgiLBzeh7"
+        },
+        {
+          "name": "Hamza Ali",
+          "url": "https://open.spotify.com/artist/5kHbX0Ne0niNDN6QItgCKL"
+        }
+      ],
+      "duration_ms": 209548,
+      "name": "Marham",
+      "url": "https://open.spotify.com/track/5sPsK5VBg1OnMY0VF4QRhG"
     },
     {
       "added_at": "2026-04-17 04:02:19",

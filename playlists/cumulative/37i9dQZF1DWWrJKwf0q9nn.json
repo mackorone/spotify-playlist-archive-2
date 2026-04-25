@@ -7729,6 +7729,24 @@
     },
     {
       "album": {
+        "name": "Eyes Closed EP",
+        "url": "https://open.spotify.com/album/4B2IiiaIswDxqagoScVW0F"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211022,
+      "name": "Gonna Let",
+      "url": "https://open.spotify.com/track/5jkcTZjDj6V8NXX19bpRwH"
+    },
+    {
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/6SIJVH2p0eLprExmSDDCml"
       },
@@ -20411,6 +20429,24 @@
     },
     {
       "album": {
+        "name": "LA FAMILIA",
+        "url": "https://open.spotify.com/album/57UjJKwE6IkBnSCFJprYLM"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Time To Go",
+      "url": "https://open.spotify.com/track/073gmCXuSbUqYPAIVyIVt4"
+    },
+    {
+      "album": {
         "name": "Highly Rogue",
         "url": "https://open.spotify.com/album/13GBaRgu5EYW0MslqoJUrd"
       },
@@ -20518,42 +20554,6 @@
       "duration_ms": 183750,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/5vbPAYlJb40a8BW56hAkDD"
-    },
-    {
-      "album": {
-        "name": "Eyes Closed EP",
-        "url": "https://open.spotify.com/album/4B2IiiaIswDxqagoScVW0F"
-      },
-      "artists": [
-        {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/5jkcTZjDj6V8NXX19bpRwH"
-    },
-    {
-      "album": {
-        "name": "LA FAMILIA",
-        "url": "https://open.spotify.com/album/57UjJKwE6IkBnSCFJprYLM"
-      },
-      "artists": [
-        {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/073gmCXuSbUqYPAIVyIVt4"
     },
     {
       "album": {

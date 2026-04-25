@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0PFYKeP9rl.md) - [plain]
 
 > Freshly squeezed, from concentrate and 100% online.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,885 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,889 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0PFYKeP9rl.md) - [plain]
 | 49 | [Valet](https://open.spotify.com/track/246MSbcmuI8gaJtmb77K7C) | [DeeOrSlim](https://open.spotify.com/artist/0RKAtzzwqFICIFLTCTTHDN) | [Valet](https://open.spotify.com/album/0a9HPiOW1oisNtxZzOS2oQ) | 1:51 |
 | 50 | [Hold My Hand](https://open.spotify.com/track/1i1rNVtxbE7rdFfpHuNq2j) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Hold My Hand](https://open.spotify.com/album/6uZYkBePCdUP1LltEt9Qin) | 3:47 |
 
-Snapshot ID: `AAAAALWnq7DIOJlWk7ffaRT5E8aMNTHe`
+Snapshot ID: `AAAAAD7aEKlYPL7kPOBq0l8/wZBYyM0Y`

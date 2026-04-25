@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Kauta
 
-[Spotify](https://open.spotify.com/user/spotify) - 651,624 likes - 90 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,597 likes - 90 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 7 | [Glück](https://open.spotify.com/track/7j1OD1NADcP0m05LpZvBrl) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Glück](https://open.spotify.com/album/4Mgv8693VB0RY2REV6jnOO) | 2:44 |
 | 8 | [Seelenruhig](https://open.spotify.com/track/2wfJuxPSkgoBeghpPX7IsB) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9), [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Seelenruhig](https://open.spotify.com/album/2agvFxxjA2iS17SNoAnWTZ) | 2:42 |
 | 9 | [Heiraten](https://open.spotify.com/track/39fXWFLPIaJJPmfenK7jL9) | [Alexander Eder](https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE) | [Heiraten](https://open.spotify.com/album/2THUXlsoMOenU9kt0IGMN7) | 2:21 |
-| 10 | [Nur dir gehören](https://open.spotify.com/track/7gBzC2JYp9hzQYX0xP2nlX) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Nur dir gehören](https://open.spotify.com/album/3mKCq6mubDbrfy1adzdGqc) | 2:45 |
+| 10 | [Nur dir gehör'n](https://open.spotify.com/track/7gBzC2JYp9hzQYX0xP2nlX) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Nur dir gehör'n](https://open.spotify.com/album/3mKCq6mubDbrfy1adzdGqc) | 2:45 |
 | 11 | [f u 4ever](https://open.spotify.com/track/0SMBlIwsSoMEAjOjRXcJbV) | [Anne West](https://open.spotify.com/artist/7vnzT1IcZ6hjENfvQBeBQP) | [f u 4ever](https://open.spotify.com/album/4YEZmC5rMKbKcUsTathsbu) | 2:35 |
 | 12 | [Boomerang](https://open.spotify.com/track/6QhZFB1VeFMSMirbXnNL58) | [Christoph Sakwerda](https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [Boomerang](https://open.spotify.com/album/2MgQCb7ylpLeq2m19bg5LR) | 2:21 |
 | 13 | [Feuer](https://open.spotify.com/track/7tlDFgaUdpPyshhNSWG83J) | [Katha Rosa](https://open.spotify.com/artist/767iqRy8U8T4rAdDscZt57) | [Feuer](https://open.spotify.com/album/37UO9SZgCv0VH5SWEIz728) | 2:32 |
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 18 | [Niemand ist perfekt](https://open.spotify.com/track/4l8VmY3YnBZ1heMneGSS9p) | [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT) | [Niemand ist perfekt](https://open.spotify.com/album/30g8F2xvwPCi0TCCIrs2zP) | 2:58 |
 | 19 | [Gleichzeitig leben](https://open.spotify.com/track/3l0BPvuiLSTMFun68EkXMD) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Gleichzeitig leben](https://open.spotify.com/album/4xrxrUI8IxoeP9QM7YVBUL) | 2:07 |
 | 20 | [In Ihren Augen](https://open.spotify.com/track/2SZ3i0PZy23dXWZQbZRQaa) | [JONA](https://open.spotify.com/artist/64x9nivyNE39JfmRiz2eM6) | [In Ihren Augen](https://open.spotify.com/album/3U1gwfVRXlZm5tqnN9wRlM) | 2:50 |
-| 21 | [Track 6](https://open.spotify.com/track/1RMvCbUxWbtBXS4L6KpbtN) | [Nico Gomez](https://open.spotify.com/artist/0gQm7HDLwdjFHpDwiBMV8c) | [Safe Songs \(EP 2\)](https://open.spotify.com/album/5CZ1QeVh6gWgNgc9V03cqz) | 0:00 |
+| 21 | [Rosaroter Film](https://open.spotify.com/track/1RMvCbUxWbtBXS4L6KpbtN) | [Nico Gomez](https://open.spotify.com/artist/0gQm7HDLwdjFHpDwiBMV8c) | [Safe Songs \(EP 2\)](https://open.spotify.com/album/5CZ1QeVh6gWgNgc9V03cqz) | 2:38 |
 | 22 | [OHNE LIEBE](https://open.spotify.com/track/7wYMbkTYkW9C3QruG1q4UQ) | [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [OHNE LIEBE](https://open.spotify.com/album/3SXakSFxv6R6kPbhbTN30Y) | 2:25 |
 | 23 | [LIEBE MACHEN](https://open.spotify.com/track/6UJUjQRU8OlTlQQLvfXPRV) | [Luna Antonia](https://open.spotify.com/artist/5wql7oielCnJBx098O8Thc) | [HANDSCHRIFT](https://open.spotify.com/album/25699iSfQDZWojNmfPvwYp) | 2:08 |
-| 24 | [Track 4](https://open.spotify.com/track/1TwpkmtFwTcGW7Wu7I90ef) | [Xavi](https://open.spotify.com/artist/0ZCbxUPZReHqmDsGmiRvL1) | [Manchmal sing' ich das was ich nicht sagen kann](https://open.spotify.com/album/60pGjTzDBv8apN0hEfDKoD) | 0:00 |
+| 24 | [Splitter](https://open.spotify.com/track/1TwpkmtFwTcGW7Wu7I90ef) | [Xavi](https://open.spotify.com/artist/0ZCbxUPZReHqmDsGmiRvL1) | [Manchmal sing' ich das was ich nicht sagen kann](https://open.spotify.com/album/60pGjTzDBv8apN0hEfDKoD) | 2:39 |
 | 25 | [Keiner hat gesagt](https://open.spotify.com/track/1qqrD7OQGMFQysnco7ilWj) | [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [Hassliebe](https://open.spotify.com/album/6MQkkLtxgrKRwhWCbWdLNM) | 2:26 |
 | 26 | [VORBEI](https://open.spotify.com/track/1SyFTWcFa76rKGaGUJFCIB) | [COSTA](https://open.spotify.com/artist/0KW88WbljA61xuGltoU6Ss) | [VORBEI](https://open.spotify.com/album/7CRP7l2qt1o57bQAtu0Uhv) | 3:05 |
 | 27 | [Kein Schwein](https://open.spotify.com/track/6M9A8QF0pGfhtcztuvroQk) | [Jenny & Joy](https://open.spotify.com/artist/5biUqgfoCEV5HSpWHWUgLH) | [Kein Schwein](https://open.spotify.com/album/0ndqiOjzgx6LIaMPxJkCyR) | 2:10 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Gusi, Ivan Villazon",
+  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Rafa Perez",
   "name": "Lo + del Vallenato",
   "tracks": [
     {
@@ -1953,6 +1953,28 @@
     },
     {
       "album": {
+        "name": "En Tiempo Real",
+        "url": "https://open.spotify.com/album/1VUkt1XKplcg3cnZVZJMru"
+      },
+      "artists": [
+        {
+          "name": "Rafa Perez",
+          "url": "https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ"
+        },
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "La Familia Que So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/0UKFSqTGGgBrLmytmDjd4W"
+    },
+    {
+      "album": {
         "name": "Volv\u00ed a So\u00f1ar",
         "url": "https://open.spotify.com/album/2gdCnAEINrQFCGurm42HUr"
       },
@@ -2700,7 +2722,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 250221,
       "name": "Modo Traga",
       "url": "https://open.spotify.com/track/1iqCrrCbEu0jLNKBFK7hZK"

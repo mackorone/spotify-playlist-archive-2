@@ -4,7 +4,7 @@
 
 > 🔥 den nyeste rap i dk 🔥 cover: GUSTO
 
-530 songs - 22 hr 34 min
+530 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [Sent](https://open.spotify.com/track/2zbr6Jls3FE4JCtLwCPD5N) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Sent](https://open.spotify.com/album/2IchXZECJXUQYmD0o49uwU) | 2:34 | 2024-01-18 | 2025-01-10 |
 | [Settings](https://open.spotify.com/track/6nQqtUIELq6zQWld6UwhDn) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Settings](https://open.spotify.com/album/4c9XYiW6vT5hS8c4Pofmjp) | 2:01 | 2023-09-21 | 2024-01-19 |
 | [Showtime](https://open.spotify.com/track/6nUOeJtgyhDwbBUbzThKkP) | [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun), [OK OK](https://open.spotify.com/artist/0h4efFgEzH6VH5DP5Yqtqt) | [Showtime](https://open.spotify.com/album/4oCrBpoXAqUo8hHmdB7ikg) | 2:54 | 2025-08-14 | 2025-08-29 |
+| [Sig Det](https://open.spotify.com/track/3AEuNKucsjnPGvgOQRKMMV) | [Fed](https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr), [Phil](https://open.spotify.com/artist/3FDHZRQQME4R1BFXqGugLp) | [DOUBLEPEACE](https://open.spotify.com/album/5wtOAaJF1O5d7faLR2gUcZ) | 3:05 | 2026-04-23 |  |
 | [Sig Du Vil](https://open.spotify.com/track/2P7mah38G2Lf8DvSw51Bhe) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Sig Du Vil](https://open.spotify.com/album/6Nyi6KAIjoSeZFSOxiWjdM) | 2:08 | 2023-11-10 | 2024-01-19 |
 | [Sig Hva Du Vil Ha \(feat\. Branco\)](https://open.spotify.com/track/56gHLVbUHM9haGcBD6ZZuH) | [Mads Christian](https://open.spotify.com/artist/3Ehbg1qhRKHshR8H2BoR8N), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Sig Hva Du Vil Ha \(feat\. Branco\)](https://open.spotify.com/album/6To8DUVf0SX146d4ToVRIh) | 2:45 | 2025-06-12 | 2025-07-04 |
 | [Signaler](https://open.spotify.com/track/689NPKXoBKWnqJif3uUVre) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Signaler](https://open.spotify.com/album/2RMpD5fPqxyyugiPgCxg2e) | 2:30 | 2024-08-29 | 2024-11-01 |
@@ -471,7 +472,6 @@
 | [To Gange](https://open.spotify.com/track/1ByKkALevy63Nd0VBw1ToD) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 1:56 | 2024-08-07 | 2025-02-28 |
 | [Topfart](https://open.spotify.com/track/2EbLz05DxMmuiEQv7zgNrY) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Topfart](https://open.spotify.com/album/2acA3wjr4eYsfX7WCWEXF6) | 2:34 | 2024-02-22 | 2024-04-05 |
 | [Topform \(feat\. Lamin\)](https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:21 | 2023-09-21 | 2024-09-13 |
-| [Track 2](https://open.spotify.com/track/3AEuNKucsjnPGvgOQRKMMV) | [Fed](https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr) | [DOUBLEPEACE](https://open.spotify.com/album/5wtOAaJF1O5d7faLR2gUcZ) | 0:00 | 2026-04-23 |  |
 | [TRACKSUIT](https://open.spotify.com/track/2GPVSfBMy7WD6AZc8I99KE) | [Oskar Witt](https://open.spotify.com/artist/7pgsrrUoGrlw9qNtJsk4c4) | [TRACKSUIT](https://open.spotify.com/album/0HxUpNDh9DhsxeMJyRCeZJ) | 2:15 | 2025-12-04 | 2026-01-02 |
 | [Tro På Det](https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:58 | 2024-09-19 | 2026-04-10 |
 | [Tropical \(feat\. Gilli\)](https://open.spotify.com/track/52raIkLsg4Qhfb80DqzitG) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Tropical \(feat\. Gilli\)](https://open.spotify.com/album/1BiMjrMjAmDcXQh06wAKLH) | 2:11 | 2025-07-31 | 2025-09-26 |

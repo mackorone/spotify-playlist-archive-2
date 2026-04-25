@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-1,354 songs - 1 day 16 hr 59 min
+1,359 songs - 1 day 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,6 +538,7 @@
 | [Il mio bambino](https://open.spotify.com/track/0ssGaSyS6FrfPa6NtncKnr) | [Verona Rizzo](https://open.spotify.com/artist/3FhVFMTffYD78U04viWgVo) | [Il mio bambino](https://open.spotify.com/album/2Uai0rWKNl4B7s3k7muORv) | 2:05 | 2022-05-13 | 2024-04-05 |
 | [In a Cabin in the Woods](https://open.spotify.com/track/1etN0gDiz38jSh5kqKt9zk) | [Daisy Jesse](https://open.spotify.com/artist/4vBI6SlaXWOvwH8XmWl4El) | [In a Cabin in the Woods](https://open.spotify.com/album/25c1CgZZzEG7kLj60bNHaD) | 1:29 | 2024-05-24 | 2025-06-12 |
 | [In mom's purse](https://open.spotify.com/track/3KXK50MwbDlWNvXDIzCHDt) | [Fabiana Elder](https://open.spotify.com/artist/7AOIK81gV4ThccuqX7ITzC) | [In mom's purse](https://open.spotify.com/album/1BqOFw0TujOG2uf63uT57H) | 1:11 | 2022-05-13 | 2022-10-29 |
+| [In My Arms](https://open.spotify.com/track/1fCt85FApT2kws12oIQVKI) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [In My Arms](https://open.spotify.com/album/1um6gVmXrj3knMnTQf7Ofe) | 1:52 | 2026-04-24 |  |
 | [In my blue world](https://open.spotify.com/track/2YvRP8nDOlYxZ7HxQb7vve) | [Christopher Reiss](https://open.spotify.com/artist/2fdwKnkjowq93OOlHwQtYg) | [dancing on clouds](https://open.spotify.com/album/5vIOEA0DcohoObJpkzkPIL) | 2:23 | 2023-05-12 | 2025-02-08 |
 | [In My Cot](https://open.spotify.com/track/40iEy0h6OZSjvQVarYwTXO) | [Nerissa Hale](https://open.spotify.com/artist/4g7kMJcLZe9HABplPVtGDb) | [In My Cot](https://open.spotify.com/album/4hNN2PbUs6rPu3gWr7gVD5) | 1:28 | 2021-11-08 | 2024-04-05 |
 | [In My Dreams](https://open.spotify.com/track/7bpuq3wZc7ZTd15SGyqs5O) | [Paulette Brannigan](https://open.spotify.com/artist/5XqF83ddtiCAPcNGUVsze8) | [In My Dreams](https://open.spotify.com/album/4X1xOO2HxsxuwxwNXvp2QI) | 1:42 | 2021-11-08 | 2024-04-05 |
@@ -633,6 +634,7 @@
 | [Little Moonlight](https://open.spotify.com/track/6EzErXd8RAyP2aqzeaEYFh) | [Teddy Bloom](https://open.spotify.com/artist/5ktlc5VH3glWhwmka4pU10) | [Little Moonlight](https://open.spotify.com/album/6ZkzMNaif8Z3b2Py5Mbm5W) | 1:48 | 2026-01-30 |  |
 | [Little Red Scarf](https://open.spotify.com/track/2azl4gJGrpDlLSrlA1DyGW) | [Bernie Toft](https://open.spotify.com/artist/5YmfywgjBeKHuALBAZyUDp) | [Little Red Scarf](https://open.spotify.com/album/7GmSpEtRxyp4Tt0RsS2lAG) | 1:27 | 2023-01-06 | 2023-04-09 |
 | [Little Snuggles](https://open.spotify.com/track/2VHOHZjbuGaK3gGnFDrhW2) | [Rowan Finch](https://open.spotify.com/artist/4vyY2vkBJJVbKXFaA8N2Ad) | [Little Snuggles](https://open.spotify.com/album/1AdhhKfaL1Yl4ENcO165D2) | 1:39 | 2026-01-09 |  |
+| [Little Star Above](https://open.spotify.com/track/2KgkEQxJkuzbRaxKuaaGnB) | [Theo Moonfield](https://open.spotify.com/artist/6GAcA2VcspiD9CaXJby902) | [Little Star Above](https://open.spotify.com/album/4jsdNdjASLR3t3bVuk0cfd) | 1:44 | 2026-04-24 |  |
 | [Little Star, Shine Bright](https://open.spotify.com/track/45plraUYyFLPdwuq0mvzVA) | [Taylor S Brooks](https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S) | [Little Star, Shine Bright](https://open.spotify.com/album/6hVB8RtqL9AjQKDY7NO1g8) | 1:46 | 2025-05-23 |  |
 | [Little Starboat](https://open.spotify.com/track/0qwUfwjODiTgClekaCqCNW) | [Zachary Keys](https://open.spotify.com/artist/6E2LwU4Tpdlf6Adjx89Wxv) | [Little Starboat](https://open.spotify.com/album/3ngBrkPBkaN12xrfIYxck1) | 1:48 | 2025-10-17 |  |
 | [Little Steps](https://open.spotify.com/track/7mS6KN2TiD8vOY0HkHRpgs) | [Orion Nights](https://open.spotify.com/artist/66FOnIrGlHNlqMye0Ph82d) | [Little Steps](https://open.spotify.com/album/2oWhJWi4CfGsrDRunn1IT2) | 1:45 | 2025-07-03 |  |
@@ -697,6 +699,7 @@
 | [Mitt lilla barn](https://open.spotify.com/track/0jN75qBVKAWZqhxOXKyQB5) | [Jody Riley](https://open.spotify.com/artist/36ySKo3dExC8VT1j1quEr7) | [Mitt lilla barn](https://open.spotify.com/album/3J1K85VQ4M2qKZpmBxwxuY) | 1:19 | 2023-02-17 | 2023-06-03 |
 | [Mommy & Daddy Love You](https://open.spotify.com/track/4C5XCwsI3zwIgNpim8dbam) | [Carolina Laurel](https://open.spotify.com/artist/4KQIvd8xhteThiwnEhjO7p) | [Mommy & Daddy Love You](https://open.spotify.com/album/2hzy2byPq9A9VPhooQ9OFo) | 2:04 | 2021-11-08 | 2023-01-27 |
 | [Mon ours et moi](https://open.spotify.com/track/28SeDxpw75yC9775sqbTOi) | [Alexandrie Giguère](https://open.spotify.com/artist/6v3qBiSqMtyHBXHB5kUYuU) | [Mon ours et moi](https://open.spotify.com/album/1N2WagI342VifJKMQqILUN) | 1:37 | 2022-12-16 | 2024-04-05 |
+| [Moon Garden](https://open.spotify.com/track/6NiHV6HauOKTMTXvXvNY6X) | [Oneroi](https://open.spotify.com/artist/4YxbSmXrNBxz3Dz9THyMjx) | [Moon Garden](https://open.spotify.com/album/6sc2Xwl7VzfKUZzfvx1aVV) | 1:24 | 2026-04-24 |  |
 | [Moon River](https://open.spotify.com/track/3J6dgORs9qkS4nJwctiMdp) | [Emilee Ness](https://open.spotify.com/artist/1fPd9o5MEt6E49AnWODQ7M) | [Sov På Min Arm](https://open.spotify.com/album/7GySg5RGGfASZpjTZn07vG) | 1:22 | 2023-01-27 | 2025-02-15 |
 | [Moonbeam Lullaby](https://open.spotify.com/track/3bangCQBNVNgzd1qaDP2yk) | [Hampus I Backen](https://open.spotify.com/artist/7eh8uR2SdD0SSgIMaNOAHT) | [Moonbeam Lullaby](https://open.spotify.com/album/0bjid5p1jF8VCmvRrPIMAX) | 2:15 | 2025-09-26 |  |
 | [Moonbeam Melodies](https://open.spotify.com/track/244rZYVyOy9bVUbfPZ3fWE) | [Oscar Z](https://open.spotify.com/artist/1w43xgEFebGecoNDH6lTkt) | [Moonbeam Melodies](https://open.spotify.com/album/0ZXnmVyXbG5HVkQMXUe0G8) | 1:26 | 2024-11-08 | 2025-09-20 |
@@ -799,6 +802,7 @@
 | [Night night](https://open.spotify.com/track/3KB4NKPKJi7tc0U5CUksMk) | [Taennchel](https://open.spotify.com/artist/04jMlJ8ZAcjE0shtrm34pr) | [Night night](https://open.spotify.com/album/4eS1Xmsfcw7ifUlar4B6fl) | 1:59 | 2026-01-16 |  |
 | [Night Time](https://open.spotify.com/track/2iKC1AAADf2LGnJc73hZq5) | [Pete Carey](https://open.spotify.com/artist/0mF6vSw2nxPisTzaB1Zvz6) | [Night Time](https://open.spotify.com/album/7e7q7EN2MBZ3efkL9rcbYA) | 1:31 | 2021-11-08 | 2022-10-29 |
 | [Nightfall](https://open.spotify.com/track/3zrMWhQYyQJgi0KiM4SYrd) | [Charles Karmen](https://open.spotify.com/artist/7ircMSExoOtbznTOVHpIen) | [Nightfall](https://open.spotify.com/album/1ChHSH9ZyFxEr6bX2R2zJQ) | 2:59 | 2025-12-12 | 2026-03-21 |
+| [Nightfall Reverie](https://open.spotify.com/track/1WPZi0PFeXpruzbFcvJyeT) | [Louis Nightwell](https://open.spotify.com/artist/5WRjnuBa3Mb72trcgevQxW) | [Nightfall Reverie](https://open.spotify.com/album/10CRlpaI8kw4MgnBP2qPoy) | 1:46 | 2026-04-24 |  |
 | [Nightingales Are Singing](https://open.spotify.com/track/04ZnXL4VAjiDVQLNAS8eUq) | [Gil Sunniver](https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM) | [Nightingales Are Singing](https://open.spotify.com/album/6VYSCZo2Q0wOObCsDDmRmc) | 1:31 | 2023-10-06 | 2025-11-15 |
 | [NightSky](https://open.spotify.com/track/1lTMz0eLHFrK0YiX61kbpL) | [Peyton Malloye](https://open.spotify.com/artist/6jEf6RIwSbHVnBM8dWxCVx) | [NightSky](https://open.spotify.com/album/38OKdwxHJrDKg74Bkbq3ZE) | 1:53 | 2025-07-03 | 2025-07-19 |
 | [Nighty Night](https://open.spotify.com/track/4KJ24fXf5dJphAE3KyJmud) | [Theo Lys](https://open.spotify.com/artist/0nHV91IIEtRHdTIWTNesev) | [Nighty Night](https://open.spotify.com/album/1QLbONEMvzsGQyt8v2tX8x) | 1:43 | 2025-12-12 |  |
@@ -1256,6 +1260,7 @@
 | [Two Thumbs Up](https://open.spotify.com/track/4ZMewuctVgUDOar3FNNgjC) | [Leo Fosbrook](https://open.spotify.com/artist/3KWH7rrwTcMZJd9ni15iZW) | [The Ice Cream King](https://open.spotify.com/album/1tGzbOO4dXF4Eh2v7mMJ8p) | 1:31 | 2021-11-08 | 2024-04-05 |
 | [Umbrella for Two](https://open.spotify.com/track/6c4kqvZuy6zutHoawVZcz5) | [Charlie Gray](https://open.spotify.com/artist/1pv2nF0KVHypPpj26VGnsz) | [Umbrella for Two](https://open.spotify.com/album/10Fla80u42PwJz5ahetyPL) | 2:21 | 2025-05-23 | 2025-08-22 |
 | [Unchained Melody](https://open.spotify.com/track/00n1bCDbMrR7q0ZqY2p3VP) | [Isa Kaur](https://open.spotify.com/artist/54MoTKvnw2dYd7SmXCVU5m) | [Unchained Melody](https://open.spotify.com/album/79QGxXKkqxoGCzrwBK3Doq) | 1:21 | 2024-05-24 | 2025-06-12 |
+| [Under a Tall Tree](https://open.spotify.com/track/7wwhe5wyWF23B9kkQR2SXS) | [Milo Rydén](https://open.spotify.com/artist/4sqx7aUPjUOj4nG9W1O0qp) | [Under a Tall Tree](https://open.spotify.com/album/1DgDlRL7WcLM9yUH24xso3) | 2:09 | 2026-04-24 |  |
 | [Under My Pillow](https://open.spotify.com/track/4w0BCDDV9LynxIYBojpJzC) | [Robin Thames](https://open.spotify.com/artist/6TMNfZRg48kWC72NJErGJH) | [Under My Pillow](https://open.spotify.com/album/5BQVcNXIZmI20iYa1pPoKS) | 1:36 | 2025-07-03 |  |
 | [Under The Moonlight](https://open.spotify.com/track/02C0r74IluFkqqu5FTMGmq) | [Green Dino](https://open.spotify.com/artist/7MVCEO6QGAHj3KIIQplBpl) | [Under The Moonlight](https://open.spotify.com/album/6MO1hpFOPCS5hYyC4yFXGC) | 1:45 | 2023-12-08 | 2025-05-24 |
 | [Under the Shining Stars](https://open.spotify.com/track/1tuHBmHspiWtcHisFJQo2Y) | [Skymningen](https://open.spotify.com/artist/2BEBC0wjP3GU2dH0hMilUs) | [Under the Shining Stars](https://open.spotify.com/album/7afLw1fNKNLJaCvvrVdun0) | 2:15 | 2024-04-19 | 2025-12-06 |

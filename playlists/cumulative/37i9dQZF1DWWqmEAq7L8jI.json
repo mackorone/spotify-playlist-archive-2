@@ -358,7 +358,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 151115,
       "name": "ACELERAO",
       "url": "https://open.spotify.com/track/03YXVIBt8bLGHp8kBHEEgb"
@@ -782,7 +782,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 189209,
       "name": "ANTISOCIAL (feat. Ale Sergi)",
       "url": "https://open.spotify.com/track/22L3EoiJbGF1nTdBIHlo7B"
@@ -880,6 +880,42 @@
       "duration_ms": 239925,
       "name": "Ateo",
       "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
+    },
+    {
+      "album": {
+        "name": "Aunque Sea Por Hoy",
+        "url": "https://open.spotify.com/album/3mZ02nlwTq7nCOLCkHpOCG"
+      },
+      "artists": [
+        {
+          "name": "Joaco Burgos",
+          "url": "https://open.spotify.com/artist/2MDvrUsi9z2CCh8p0Iqo7A"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204225,
+      "name": "Aunque Sea Por Hoy",
+      "url": "https://open.spotify.com/track/4dNuBuyndMKBrGZ3TJjKf8"
+    },
+    {
+      "album": {
+        "name": "Revoluci\u00f3n Humana",
+        "url": "https://open.spotify.com/album/61oYP597VZJXYmVjIo7mAv"
+      },
+      "artists": [
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175731,
+      "name": "Autopsia de Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6e7y7IIUvYJJ34OY5ZBoCX"
     },
     {
       "album": {
@@ -1424,7 +1460,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 223392,
       "name": "Cicatriz",
       "url": "https://open.spotify.com/track/2xTB3i4UYd1mMmdLx4iVIg"
@@ -1700,7 +1736,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 245290,
       "name": "Coraz\u00f3n Cristal",
       "url": "https://open.spotify.com/track/5hpLssaozknr0BnWzEsrrd"
@@ -2296,7 +2332,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 174801,
       "name": "DISCOTEKA",
       "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
@@ -3720,7 +3756,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 206111,
       "name": "La Aurora",
       "url": "https://open.spotify.com/track/2YIj0j1eioT8N94h7cnIy6"
@@ -5031,6 +5067,24 @@
     },
     {
       "album": {
+        "name": "Mil disparos",
+        "url": "https://open.spotify.com/album/3tQVq7HJ90ltyq62mbW1pW"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211231,
+      "name": "Mil disparos",
+      "url": "https://open.spotify.com/track/790Nbo53yln8hzaYVGPmAO"
+    },
+    {
+      "album": {
         "name": "Million Dollar Baby",
         "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
       },
@@ -5723,6 +5777,24 @@
     },
     {
       "album": {
+        "name": "CERCA DEL FIN",
+        "url": "https://open.spotify.com/album/0YTz28WW3MjPYAAlAnAP2M"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Bungalows",
+          "url": "https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205756,
+      "name": "OBSESION\u00c1NDOME",
+      "url": "https://open.spotify.com/track/5QgY7NOjGH2NIKpHpyD4lY"
+    },
+    {
+      "album": {
         "name": "Ojos Marrones",
         "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
       },
@@ -5904,7 +5976,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 135654,
       "name": "paliza",
       "url": "https://open.spotify.com/track/6vjPSaM2TcNFltpA3eJs6d"
@@ -5922,7 +5994,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 212106,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/5ILu4zdXzG4WCbX9GtMNJX"

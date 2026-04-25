@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "All Day, All Night",
+        "url": "https://open.spotify.com/album/4TPAwemfELJTdh045rg1PO"
+      },
+      "artists": [
+        {
+          "name": "Rue Rue",
+          "url": "https://open.spotify.com/artist/78cnqjlGd1LUdz4zt5AgxU"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129063,
+      "name": "All Day, All Night",
+      "url": "https://open.spotify.com/track/31OBi74BHBJ13DHwjC96ge"
+    },
+    {
+      "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/2VYG35zYIpbRF9YQPjXXeG"
       },
@@ -2666,6 +2684,24 @@
       "duration_ms": 180660,
       "name": "Game Of Us",
       "url": "https://open.spotify.com/track/5nPiP0lCO9s1ae4o1p0GuW"
+    },
+    {
+      "album": {
+        "name": "Gamification",
+        "url": "https://open.spotify.com/album/6ZuRU3huqGcILmzAsqXT9K"
+      },
+      "artists": [
+        {
+          "name": "Jason Waroff",
+          "url": "https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113532,
+      "name": "Gamification",
+      "url": "https://open.spotify.com/track/30U8vus9dlgxmGHWiW3BK2"
     },
     {
       "album": {
@@ -5864,7 +5900,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 212904,
       "name": "Run, Cinderella",
       "url": "https://open.spotify.com/track/3byIGxwllmdPbfpwzrIDyG"
@@ -6210,7 +6246,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 197269,
       "name": "Something You Know",
       "url": "https://open.spotify.com/track/5aiZesL3a40ceXTtnldlSD"
@@ -6744,6 +6780,24 @@
       "duration_ms": 164694,
       "name": "The Summit",
       "url": "https://open.spotify.com/track/1j0RFvDArOtl2P19hAD62t"
+    },
+    {
+      "album": {
+        "name": "The Thinker And The Prover",
+        "url": "https://open.spotify.com/album/3RnQntICT9Zskt7fckchwt"
+      },
+      "artists": [
+        {
+          "name": "Jason Waroff",
+          "url": "https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132106,
+      "name": "The Thinker And The Prover",
+      "url": "https://open.spotify.com/track/271dv3OBpfRS1YmHqubWZQ"
     },
     {
       "album": {

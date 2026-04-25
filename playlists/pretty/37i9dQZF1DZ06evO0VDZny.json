@@ -1,12 +1,12 @@
 {
   "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 509100,
+  "num_followers": 509203,
   "original_name": "This Is Bring Me The Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aegPgAAAAADKItoyfOPa6Wf3tIiuPnvZ",
+  "snapshot_id": "aelhAAAAAACh7lfRLPiGXUaJP/fp5h/q",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "POST HUMAN: SURVIVAL HORROR",
-        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 278506,
-      "name": "Ludens",
-      "url": "https://open.spotify.com/track/4xWirulal0kGikFE3WSU75"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Count Your Blessings",
         "url": "https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 261733,
       "name": "Pray for Plagues",
       "url": "https://open.spotify.com/track/4hTn5kvaI6mTDckWU7gm91"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "POST HUMAN: SURVIVAL HORROR",
+        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 278506,
+      "name": "Ludens",
+      "url": "https://open.spotify.com/track/4xWirulal0kGikFE3WSU75"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Habits (feat. Bring Me The Horizon)",
-        "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 250763,
-      "name": "Bad Habits (feat. Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo-files",
         "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 205212,
       "name": "drwn.vvv",
       "url": "https://open.spotify.com/track/7lXJ3hmDo5XK1witUxj8aX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Habits (feat. Bring Me The Horizon)",
+        "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 250763,
+      "name": "Bad Habits (feat. Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Count Your Blessings",
-        "url": "https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 269626,
-      "name": "For Stevie Wonder's Eyes Only (Braille)",
-      "url": "https://open.spotify.com/track/7EIVI3qWBiGDB6G2Wx5Bl3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo-files",
         "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Count Your Blessings",
+        "url": "https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 269626,
+      "name": "For Stevie Wonder's Eyes Only (Braille)",
+      "url": "https://open.spotify.com/track/7EIVI3qWBiGDB6G2Wx5Bl3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "amo",
         "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
       },
@@ -735,6 +735,58 @@
       "duration_ms": 240586,
       "name": "heavy metal (feat. Rahzel)",
       "url": "https://open.spotify.com/track/6baGTtDakSNvUfW3FJd8yX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L.I.V.E. In S\u00e3o Paulo (Live Immersive Virtual Experiment)",
+        "url": "https://open.spotify.com/album/0tlzXZQXAeBUCXv3eHHjXU"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 75838,
+      "name": "(Interlude) Project Angel Dust - L.I.V.E. In S\u00e3o Paulo (Live Immersive Virtual Experiment)",
+      "url": "https://open.spotify.com/track/6vc8BQdoWY0IFD773n9gqA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo-files",
+        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "lophiile",
+          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
+        }
+      ],
+      "duration_ms": 290201,
+      "name": "(U)topia.drm",
+      "url": "https://open.spotify.com/track/2FL4io3YitOqpZPOZp17By"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Count Your Blessings",
+        "url": "https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 129866,
+      "name": "A Lot Like Vegas",
+      "url": "https://open.spotify.com/track/0n1HOrTBNb87Ozqqs5ZiZD"
     },
     {
       "added_at": null,
@@ -759,58 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Count Your Blessings",
-        "url": "https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 129866,
-      "name": "A Lot Like Vegas",
-      "url": "https://open.spotify.com/track/0n1HOrTBNb87Ozqqs5ZiZD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo-files",
-        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "lophiile",
-          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
-        }
-      ],
-      "duration_ms": 261705,
-      "name": "1x1.syncd",
-      "url": "https://open.spotify.com/track/2PbvoaOBu3RREdOp36g4qQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L.I.V.E. In S\u00e3o Paulo (Live Immersive Virtual Experiment)",
-        "url": "https://open.spotify.com/album/0tlzXZQXAeBUCXv3eHHjXU"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 75838,
-      "name": "(Interlude) Project Angel Dust - L.I.V.E. In S\u00e3o Paulo (Live Immersive Virtual Experiment)",
-      "url": "https://open.spotify.com/track/6vc8BQdoWY0IFD773n9gqA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Atlas Underground Fire",
         "url": "https://open.spotify.com/album/3GVIDUbQXfn7FQcJND2Ddp"
       },
@@ -827,22 +827,6 @@
       "duration_ms": 212572,
       "name": "Let\u2019s Get The Party Started (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/2ONPuwAuOVO6RbzKaiowxD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Count Your Blessings",
-        "url": "https://open.spotify.com/album/6ey1J9zez8cpgNQWwpk4bS"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Tell Slater Not to Wash His Dick",
-      "url": "https://open.spotify.com/track/2AxduArp543ijR4B2I9ZPF"
     },
     {
       "added_at": null,
@@ -880,9 +864,29 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 159346,
-      "name": "Liquor & Love Lost",
-      "url": "https://open.spotify.com/track/2AIhhTivqs84lkHtGw82Ty"
+      "duration_ms": 210426,
+      "name": "Tell Slater Not to Wash His Dick",
+      "url": "https://open.spotify.com/track/2AxduArp543ijR4B2I9ZPF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo-files",
+        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Dimension 32",
+          "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
+        }
+      ],
+      "duration_ms": 209611,
+      "name": "followU.bnd",
+      "url": "https://open.spotify.com/track/2Bl0nrQIxBiL8q7PPfogkR"
     }
   ],
   "unique_name": "This Is Bring Me The Horizon",

@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Agnes Nunes
 
-917 songs - 1 day 21 hr 50 min
+918 songs - 1 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [ARRASTO](https://open.spotify.com/track/2BZWJTYN9UmGMcX2DGRIbK) | [Rubia Divino](https://open.spotify.com/artist/6TSE9aXOA9TkDntWFrQPlz), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [ARRASTO](https://open.spotify.com/album/0RiUWDzIc1A00rAH5cOQS7) | 3:06 | 2024-09-27 | 2025-01-18 |
 | [ARREPIO](https://open.spotify.com/track/0IrFmDVmrV1WDwEgmqtAdF) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp), [Tom Kray](https://open.spotify.com/artist/0AQpmO9NtP3zqyamC0C9Ji) | [REALVERSO: Lado B](https://open.spotify.com/album/0B7FKKGbimmDgBEbQvHYyr) | 2:27 | 2024-01-26 | 2024-02-24 |
 | [As Viagens Inimagináveis de Priska](https://open.spotify.com/track/3AZQGrhcQMegphm79hMgt8) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [As Viagens Inimagináveis de Priska](https://open.spotify.com/album/4jyLacgXK5jTHmMk0EQ2vM) | 2:59 | 2022-12-30 | 2023-01-28 |
-| [assim](https://open.spotify.com/track/7weSnNG6RFVsfY3z5DABdZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [assim](https://open.spotify.com/album/6EzAHlYYoA8st7fQ9gwdj3) | 2:51 | 2024-12-13 |  |
+| [assim](https://open.spotify.com/track/7weSnNG6RFVsfY3z5DABdZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [assim](https://open.spotify.com/album/6EzAHlYYoA8st7fQ9gwdj3) | 2:51 | 2024-12-13 | 2026-04-25 |
 | [Astronauta](https://open.spotify.com/track/6DmbO42wnaJi6e9RJW8Uef) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Todos os Futuros](https://open.spotify.com/album/2rmRmWUOyyaUHZypMO7ipf) | 2:32 | 2024-10-04 | 2025-10-03 |
 | [Atalaia](https://open.spotify.com/track/3gx5LqxSuGGRdV8UvHTSZl) | [Vitor Soltau](https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6) | [Atalaia](https://open.spotify.com/album/2dYMAlHoZot2yZG5X2M28Q) | 3:12 | 2023-01-27 | 2023-07-22 |
 | [Até Envelhecer](https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Até Envelhecer](https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O) | 2:57 | 2023-11-06 | 2024-05-18 |
@@ -585,6 +585,7 @@
 | [Oi Sumido](https://open.spotify.com/track/1L0x0SGUaUMDJSPVSs2LhY) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Oi Sumido](https://open.spotify.com/album/1etuvaB2Anel6HSOW2f47m) | 2:31 | 2022-09-16 | 2022-10-11 |
 | [Oi Sumido](https://open.spotify.com/track/7a56p3neclUh34UPhndqAe) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Oi Sumido](https://open.spotify.com/album/1syJN4C3ySg3i595zybozJ) | 2:31 | 2022-05-13 | 2022-09-19 |
 | [Olha Bela](https://open.spotify.com/track/3r6dxRa9SNMWSah8R9VDyW) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Olha Bela](https://open.spotify.com/album/2H84den6cdw9vICRQfwav0) | 2:49 | 2023-02-03 | 2023-06-24 |
+| [Olhar de Quem não Presta](https://open.spotify.com/track/5cJ90Ya6UbFgQpk6Epq5vk) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ) | [Olhar de Quem não Presta](https://open.spotify.com/album/78wcFSGxIQDEuYc79SaLhs) | 2:46 | 2026-04-24 |  |
 | [Olhar Sereno](https://open.spotify.com/track/0NK7mWy6jo5fwfNXGgDSJW) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [Olhar Sereno](https://open.spotify.com/album/1FGD5qr0bR7Gljwd1XPIVL) | 3:05 | 2023-03-06 | 2023-07-01 |
 | [Olho de Girassol](https://open.spotify.com/track/3s0A8jRhbklln6u5eZFxSX) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Bráulio Bessa](https://open.spotify.com/artist/4G22JHSJnunUt8t3yMt46A) | [Olho de Girassol](https://open.spotify.com/album/6sFjAGgZMaQTYa4j5OlJhj) | 3:14 | 2022-08-19 | 2023-01-28 |
 | [Olhos Caramelos](https://open.spotify.com/track/1RXevytE5CpdBZYvkQkQJa) | [Calena](https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc), [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96) | [Olhos Caramelos](https://open.spotify.com/album/50M4O5lbjQaKI8lk3xeR3N) | 3:12 | 2022-06-24 | 2022-08-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMMpvGH77mA.md) - [plain]
 
 > Soft rhythms to guide your yoga and pilates practice\. <br/>Move your body with positivity, with ease, with complete freedom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,929 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,076 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMMpvGH77mA.md) - [plain]
 | 99 | [Annapurna](https://open.spotify.com/track/1inLtrwDbsbp9Xtxjkilj7) | [LaYam](https://open.spotify.com/artist/6onKBpb8AkKid8BFhLWtBH) | [Annapurna](https://open.spotify.com/album/0cSTPDKCX1W01APuHxUU7k) | 2:37 |
 | 100 | [Mile High](https://open.spotify.com/track/0uy0kSHBpBjkwR29GmCbV7) | [Meh Met](https://open.spotify.com/artist/215AS9kH8CZt63FZwq8hln) | [Halluu Duu](https://open.spotify.com/album/3eyPI3n8QHBAgsPsN90fT3) | 2:29 |
 
-Snapshot ID: `AAAAAKCkTe1IBOP3BVwbLKBbA5fVwPk3`
+Snapshot ID: `AAAAAESvLccUM2/kFEHlr2GeeBg07Wia`

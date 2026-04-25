@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Hey, Swae Lee\nthat's DOPE!",
+  "description": "Hey, Shoreline Mafia\nthat's DOPE!",
   "name": "DOPE.",
   "tracks": [
     {
@@ -306,6 +306,24 @@
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "album": {
+        "name": "ii Deluxe",
+        "url": "https://open.spotify.com/album/5tkk6blswX94OQAHrhIePj"
+      },
+      "artists": [
+        {
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87635,
+      "name": "All Or Nothing",
+      "url": "https://open.spotify.com/track/6uCgKChOCSxUBaF7fDClCm"
     },
     {
       "album": {
@@ -1808,6 +1826,28 @@
       "duration_ms": 229186,
       "name": "Crocodile Tearz",
       "url": "https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA"
+    },
+    {
+      "album": {
+        "name": "Cut It Off",
+        "url": "https://open.spotify.com/album/0SHx9ADWjBWgBX3gc4Irb4"
+      },
+      "artists": [
+        {
+          "name": "Token",
+          "url": "https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq"
+        },
+        {
+          "name": "Pharmacist",
+          "url": "https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103252,
+      "name": "Cut It Off",
+      "url": "https://open.spotify.com/track/6lxpar58pyCyKdTo3SCMTM"
     },
     {
       "album": {
@@ -3500,7 +3540,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 258765,
       "name": "Headstone",
       "url": "https://open.spotify.com/track/0PWP4LIOI5xjVkaWqES7ek"
@@ -3904,6 +3944,28 @@
       "duration_ms": 184816,
       "name": "How To Build A Relationship",
       "url": "https://open.spotify.com/track/1Ttu4TYbFIXYDFzOgfVedO"
+    },
+    {
+      "album": {
+        "name": "HunchO STEP! (feat. Quavo)",
+        "url": "https://open.spotify.com/album/1QZeMcXY4qchahi6eQFzuT"
+      },
+      "artists": [
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200547,
+      "name": "HunchO STEP! (feat. Quavo)",
+      "url": "https://open.spotify.com/track/5Q5q2dBnvn6CkpuB8RmLXr"
     },
     {
       "album": {
@@ -7372,7 +7434,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 87377,
       "name": "Self-Inflicted",
       "url": "https://open.spotify.com/track/3nG2tQJ7wFJ72mfrYifTLP"
@@ -8300,7 +8362,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 155391,
       "name": "Tailor Swif",
       "url": "https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr"
@@ -8400,6 +8462,32 @@
       "duration_ms": 185110,
       "name": "TALKING",
       "url": "https://open.spotify.com/track/1eaqMiiUn2P7MnqJK4XeK0"
+    },
+    {
+      "album": {
+        "name": "Telex Free Trap",
+        "url": "https://open.spotify.com/album/7oaAOVHt0Jd4wdOxnXTzBV"
+      },
+      "artists": [
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Estee Nack",
+          "url": "https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193972,
+      "name": "Telex Free Trap",
+      "url": "https://open.spotify.com/track/1wRPeKIyYxXqCRuSQCtsKp"
     },
     {
       "album": {
@@ -9106,7 +9194,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 126465,
       "name": "Twisting Fingers (with Moneybagg Yo)",
       "url": "https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh"
@@ -9202,7 +9290,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 212933,
       "name": "UP",
       "url": "https://open.spotify.com/track/4ueESuuUHUln8C8Y8h7zdP"
@@ -9870,6 +9958,32 @@
       "duration_ms": 171250,
       "name": "WOOD GRAIN",
       "url": "https://open.spotify.com/track/2SpSjKIMihCOvLa3PPX8X8"
+    },
+    {
+      "album": {
+        "name": "WOOD WIRE BUFFS",
+        "url": "https://open.spotify.com/album/1ZO1C4JMo3Xvk0kjoSxpoV"
+      },
+      "artists": [
+        {
+          "name": "Shoreline Mafia",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
+        },
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "WOOD WIRE BUFFS",
+      "url": "https://open.spotify.com/track/58PXUF42VTAac15PfokNsX"
     },
     {
       "album": {

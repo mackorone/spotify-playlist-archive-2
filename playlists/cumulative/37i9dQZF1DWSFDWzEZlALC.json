@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Gut Genug",
+        "url": "https://open.spotify.com/album/2dvFUJrOS2f4W8jFgmpogb"
+      },
+      "artists": [
+        {
+          "name": "herr ulrich",
+          "url": "https://open.spotify.com/artist/3EwGLc40naFP5DNfWFTqBA"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166440,
+      "name": "3 Tage Paris",
+      "url": "https://open.spotify.com/track/6a9VqGWgd7o3LK5JXqr92R"
+    },
+    {
+      "album": {
         "name": "Alles nix konkretes",
         "url": "https://open.spotify.com/album/2Cq6fg3YX4wYCDLjAVG7ZO"
       },
@@ -10502,6 +10520,24 @@
       "duration_ms": 161500,
       "name": "Ganze Torte Scham.",
       "url": "https://open.spotify.com/track/2uisMGIBZpJL2C2pOSc8xS"
+    },
+    {
+      "album": {
+        "name": "demos & deeptalks",
+        "url": "https://open.spotify.com/album/06TClLbW8XUaSuSkhDZRh3"
+      },
+      "artists": [
+        {
+          "name": "smello",
+          "url": "https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131201,
+      "name": "gar nichts//demo",
+      "url": "https://open.spotify.com/track/50cKrXByzxnPS2mAymEicy"
     },
     {
       "album": {
@@ -21047,6 +21083,24 @@
     },
     {
       "album": {
+        "name": "PECH",
+        "url": "https://open.spotify.com/album/50MPz6SA53Eh8LTArkGMiK"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139012,
+      "name": "Ohne Dach",
+      "url": "https://open.spotify.com/track/63ke3IbMyy7v69fRC6DUdk"
+    },
+    {
+      "album": {
         "name": "Ohne Dich",
         "url": "https://open.spotify.com/album/42iyGNEjHDboUfT3h9RMCz"
       },
@@ -27532,60 +27586,6 @@
       "duration_ms": 168188,
       "name": "Tourrettes",
       "url": "https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO"
-    },
-    {
-      "album": {
-        "name": "PECH",
-        "url": "https://open.spotify.com/album/50MPz6SA53Eh8LTArkGMiK"
-      },
-      "artists": [
-        {
-          "name": "Levin Liam",
-          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/63ke3IbMyy7v69fRC6DUdk"
-    },
-    {
-      "album": {
-        "name": "Gut Genug",
-        "url": "https://open.spotify.com/album/2dvFUJrOS2f4W8jFgmpogb"
-      },
-      "artists": [
-        {
-          "name": "herr ulrich",
-          "url": "https://open.spotify.com/artist/3EwGLc40naFP5DNfWFTqBA"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/6a9VqGWgd7o3LK5JXqr92R"
-    },
-    {
-      "album": {
-        "name": "demos & deeptalks",
-        "url": "https://open.spotify.com/album/06TClLbW8XUaSuSkhDZRh3"
-      },
-      "artists": [
-        {
-          "name": "smello",
-          "url": "https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/50cKrXByzxnPS2mAymEicy"
     },
     {
       "album": {

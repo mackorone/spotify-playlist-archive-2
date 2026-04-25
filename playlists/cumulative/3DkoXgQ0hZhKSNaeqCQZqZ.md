@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-513 songs - 1 day 3 hr 11 min
+515 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [EAT YOU UP](https://open.spotify.com/track/0MKnQvS2nCL3AC6Acd4NLY) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RAVEPOP](https://open.spotify.com/album/1mLzn3i4NwDW4cOg2wJsig) | 2:00 | 2024-09-09 |  |
 | [EAT YOU UP](https://open.spotify.com/track/0MeybRC4lyCjjYRAWDd2Ht) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [EAT YOU UP + RUSSY'S BIG OL' BUTT](https://open.spotify.com/album/7Dpf0PTYYfOF4lpS4YEwEC) | 2:00 | 2024-03-24 | 2026-03-01 |
 | [EAT YOU UP \- Single Version](https://open.spotify.com/track/0PYguVkr2AQZBqWoCUgDLd) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [EAT YOU UP + RUSSY'S BIG OL' BUTT](https://open.spotify.com/album/7Dpf0PTYYfOF4lpS4YEwEC) | 2:41 | 2024-02-20 |  |
+| [EAT YOU UP! \- Ricco Harver Remix](https://open.spotify.com/track/75gCrv8FPUVshSw5w98NHp) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2), [Ricco Harver](https://open.spotify.com/artist/4Ztb8vJUtyHjWDSbOZ1GIn) | [RAVEPOP REMIXES \(Preview\)](https://open.spotify.com/album/62lFgUk9Wh4Uh17xqmf3uD) | 2:19 | 2026-04-24 |  |
 | [Ecstasy](https://open.spotify.com/track/3LbpWLzCv8FycJaAqHthdi) | [Zephyrelis](https://open.spotify.com/artist/5e7CZipmXEEi0UbdLTUCJ8), [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [Back On Top](https://open.spotify.com/album/6NYYBa0pcmhh6yrD9iYo5V) | 3:52 | 2025-01-08 |  |
 | [edge of time](https://open.spotify.com/track/6gB9Aawe3IJG17x1gjONev) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 3:26 | 2025-10-20 |  |
 | [EDGE PLAY \- theSpackster Remix](https://open.spotify.com/track/2LslfETQSqe0qHEkGgJuSi) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy), [theSpackster](https://open.spotify.com/artist/7lxDzdUasFvfuMwNGU55Sg) | [EDGE PLAY \(FURRY RAVER REMIX\)](https://open.spotify.com/album/0KM1JlCbomdxUyMCwEv31M) | 1:37 | 2024-06-09 | 2026-03-01 |
@@ -209,6 +210,7 @@
 | [I Know, I Hear You](https://open.spotify.com/track/4uBVRH3YUy0eSMnxKFVWwZ) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 2:19 | 2024-11-25 | 2026-03-01 |
 | [I LOVE BEING NORMAL](https://open.spotify.com/track/1ePCMvoywpQ4eB6VQPsPwe) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [I LOVE BEING NORMAL](https://open.spotify.com/album/5Us6d5XJoDoJlDN903GibE) | 2:08 | 2025-01-07 |  |
 | [I need Sombody](https://open.spotify.com/track/3vypveqsnXyoobkju425wy) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [I need Sombody](https://open.spotify.com/album/4uLaHsPdPdlyutC4IvQQyd) | 4:23 | 2024-10-21 | 2026-03-01 |
+| [I Never Feel Alone](https://open.spotify.com/track/11mf7BvMAcOuFodbkFnqLE) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K), [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [I Never Feel Alone](https://open.spotify.com/album/54gZFxZWc8Flx4hWmjYaoE) | 2:20 | 2026-04-24 |  |
 | [i smoke cigarettes! \(not really\)](https://open.spotify.com/track/7MionYRcWQleclOilIMPCD) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [cheap guitar, cheap songs.](https://open.spotify.com/album/33Fzs7KelOKWDsxvYT9P8x) | 1:44 | 2025-10-27 | 2025-10-29 |
 | [I Still Create](https://open.spotify.com/track/0IqTgwWU2syiSYbdBEromt) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [I Still Create](https://open.spotify.com/album/0A8AvUQ22Y2ZtbjvniXSh9) | 3:53 | 2025-12-06 |  |
 | [I WANNA BE ALIVE](https://open.spotify.com/track/4kDMTYsd387sYIb0P053oo) | [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [I WANNA BE ALIVE](https://open.spotify.com/album/0yhjAKeMX46S2XwxHgkvMZ) | 3:33 | 2025-04-16 |  |

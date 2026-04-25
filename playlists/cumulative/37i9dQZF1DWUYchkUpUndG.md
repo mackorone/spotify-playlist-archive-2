@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Rehmahz
 
-7,908 songs - 24 day 9 hr 10 min
+7,909 songs - 24 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4667,6 +4667,7 @@
 | [My SiDe](https://open.spotify.com/track/5n2YG8qKbLXM7sLkMF6b5G) | [GIDYON](https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2) | [My SiDe](https://open.spotify.com/album/0MPCINKjvFjDW78d4DfkqL) | 3:34 | 2024-02-02 | 2024-02-16 |
 | [My Side](https://open.spotify.com/track/4W1NuEACP1BUIGetujZDrh) | [Solomon Plate](https://open.spotify.com/artist/6EhUU2bfcSeER52YXczuiN) | [Over & Over](https://open.spotify.com/album/6FjknTbEKLhGTHnCtuA4vp) | 3:13 | 2024-08-09 | 2024-08-23 |
 | [my side \- sped up](https://open.spotify.com/track/3YMSshW9yG1HTru78QPgvv) | [Cyfa](https://open.spotify.com/artist/3fItFJEQGwuAIQhFy92rJ9), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [my side \(sped up\)](https://open.spotify.com/album/4slfVWwCH1eHP7Tyhwc2d1) | 2:08 | 2024-05-31 | 2024-06-14 |
+| [My Soul be Still](https://open.spotify.com/track/7ASv6VTzG0ntDAUWEPYM5b) | [TEHGAH](https://open.spotify.com/artist/4scHETu7kmTovJLCQq8Rla) | [My Soul be Still](https://open.spotify.com/album/6w9gDWW62nk2qmkJwnY1O0) | 9:36 | 2026-04-24 |  |
 | [My Soul Says Yes](https://open.spotify.com/track/20XBkytJmuKrXKfyIWI3TJ) | [Anointed Mark](https://open.spotify.com/artist/55YHJ2Jlr1YfDmYlBpia3H), [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [My Soul Says Yes](https://open.spotify.com/album/2EkJfzBmVzciDfE9vTDTZs) | 6:41 | 2024-10-11 | 2024-10-25 |
 | [My Story](https://open.spotify.com/track/6NOib48BodfFdpyVo5RGUF) | [God Bless Community](https://open.spotify.com/artist/1nqj5Er1hjP5TAaBRaA66P), [M shark](https://open.spotify.com/artist/7iolAJg3t516oP8vnIj033), [Adrine](https://open.spotify.com/artist/0w3zsuQ5gSFcsGShD8uLwP) | [My Story](https://open.spotify.com/album/0ZaYzsvlHGT8NNjzg8ygxC) | 2:21 | 2025-02-14 | 2025-02-21 |
 | [My Story](https://open.spotify.com/track/45Y0cUvEEOs1EBEdCnuMgz) | [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [My Story](https://open.spotify.com/album/23AQ5yGbDMNicVmjP885QD) | 2:49 | 2023-09-29 | 2023-10-14 |
@@ -5655,6 +5656,7 @@
 | [Pray For Me](https://open.spotify.com/track/4XM2KilXlDb2siMTkCGBPI) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg) | [Pray For Me](https://open.spotify.com/album/1brnCFqF8lOK2AiUcHtmf4) | 3:19 | 2024-06-07 | 2024-06-21 |
 | [Pray For Me](https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Praise Umali](https://open.spotify.com/artist/7xiUwkZo3qCu8FhqFIg7iT) | [Pray For Me](https://open.spotify.com/album/5AsA1NMG6xLATViBJyQRMH) | 2:46 | 2025-05-30 | 2025-06-13 |
 | [Pray Oh](https://open.spotify.com/track/2xLpPsWRziFx8Oym2NjF4J) | [Endy Musik](https://open.spotify.com/artist/1KXnYCLr7qSyM4ErfokXNp), [Apostle Femi Lazarus](https://open.spotify.com/artist/4bbgsyWj0hlgyUXUY9GHTp), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Pray Oh](https://open.spotify.com/album/3tvOL4sYTnwvtNKK6uB1E9) | 3:12 | 2025-09-12 | 2025-09-26 |
+| [Pray Pray Pray \- Live on Freedom Day](https://open.spotify.com/track/4LBA3NfC5bTyqeiarMIqkg) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i) | [Izililo \(Live on Freedom Day\)](https://open.spotify.com/album/3HQXFddTqWqHoE9lBfi2KN) | 3:25 | 2026-04-24 |  |
 | [pray without ceasing](https://open.spotify.com/track/7i0DHDEZxmdCS6JI5p98Qq) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [pray without ceasing](https://open.spotify.com/album/5i37npx0suRHcJrftw1Gvb) | 1:50 | 2024-11-29 | 2024-12-13 |
 | [PRAYER](https://open.spotify.com/track/0SNmSyz2pS4VIJRrT2EgFP) | [Adéola](https://open.spotify.com/artist/6YaFYOb2ivxeDb0THJCQNb), [zazri'el](https://open.spotify.com/artist/2rCgMeXIz7aX5OX6YoMICQ) | [PRAYER](https://open.spotify.com/album/27RaY07nPLlGAF3CtQJfBE) | 4:07 | 2024-01-19 | 2024-02-02 |
 | [Prayer](https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Prayer](https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU) | 3:54 | 2024-10-25 | 2024-11-08 |
@@ -6918,7 +6920,6 @@
 | [Toxic](https://open.spotify.com/track/1aTAnmQGXqz82RXhoLBSsQ) | [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI) | [Toxic](https://open.spotify.com/album/2WGaiKFPFEat303TwLbuUt) | 2:40 | 2024-01-19 | 2024-02-02 |
 | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/track/5U4Ovjih4AkPzm6qKgRSHs) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/album/4rMQD6m79Z10fLzHwWUaKs) | 3:22 | 2024-03-08 | 2024-03-16 |
 | [TPC](https://open.spotify.com/track/4NeAVZAhCl8c2AX7Cwr5zL) | [Da Voice](https://open.spotify.com/artist/5Dc9tfmomwFNnBY10xj0kj) | [TPC](https://open.spotify.com/album/3s7VHDyi99q9iFlxY1slbq) | 3:48 | 2024-09-27 | 2024-10-11 |
-| [Track 2](https://open.spotify.com/track/4LBA3NfC5bTyqeiarMIqkg) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i) | [Izililo \(Live on Freedom Day\)](https://open.spotify.com/album/3HQXFddTqWqHoE9lBfi2KN) | 0:00 | 2026-04-24 |  |
 | [Transitions](https://open.spotify.com/track/6Hz9LQZ6Ojoa3a5DmVVP4N) | [Rohi Shaapera](https://open.spotify.com/artist/10C5zzyN7mS8BBJLqyTYUr) | [Transitions](https://open.spotify.com/album/7Gz5EoGHx4kRNzkTSelrF9) | 2:42 | 2025-07-04 | 2025-07-18 |
 | [Traumatized](https://open.spotify.com/track/4IuztXrOUvnDUONYGT5pc3) | [2Larni](https://open.spotify.com/artist/0OEREBZdg9v3W9w1L5xY4d) | [Traumatized](https://open.spotify.com/album/5dhM2pMbxRKCn65QwKccw9) | 1:28 | 2024-02-09 | 2024-02-16 |
 | [Traveller](https://open.spotify.com/track/0mCxma7UENksj35Hxm1k88) | [Father Ankrah Music](https://open.spotify.com/artist/0yt8H7q2YCQi8kUi1KeK6N) | [Traveller](https://open.spotify.com/album/19Xf6cvv5NKVkMDuZiesH2) | 3:13 | 2025-03-28 | 2025-04-11 |

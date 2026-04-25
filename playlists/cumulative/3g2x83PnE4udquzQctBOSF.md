@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-721 songs - 1 day 21 hr 22 min
+723 songs - 1 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [I'm Crazy](https://open.spotify.com/track/1Jhmughb25ns8f9DfWgl5d) | [DOUG!](https://open.spotify.com/artist/4G8g4gL4SfJzPJBcyRz7GS) | [I'm Crazy](https://open.spotify.com/album/1qQgSs2PUqB8r3hOPYtUd9) | 4:38 | 2023-02-12 | 2023-03-13 |
 | [Idiot Lights](https://open.spotify.com/track/36zyoakYKxmbY2JTHNAtKP) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Afterhours: Cinematic Techno \(Vol\. 1\)](https://open.spotify.com/album/0bBdJLYoz7A5noEA8jVREa) | 5:38 | 2026-04-04 |  |
 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 | 2023-11-05 | 2024-01-15 |
+| [In Da Club](https://open.spotify.com/track/7GZEhFhidJkXf5iO3J7zha) | [OTK](https://open.spotify.com/artist/1RfUpnBiwRzA6LCl4qaJwG) | [In Da Club](https://open.spotify.com/album/7J0TAzUGD0kBJiPGPM2Ag8) | 2:47 | 2026-04-25 |  |
 | [In My Brain](https://open.spotify.com/track/75VaEHJpYnWtHj7CenYbf8) | [Yungness & Jaminn](https://open.spotify.com/artist/2W0LCDXmrMO7acenLvkxyR) | [In My Brain](https://open.spotify.com/album/5fT2Hkzx9dhJCPsffatJDu) | 3:34 | 2023-03-05 | 2023-03-20 |
 | [In Pain](https://open.spotify.com/track/3PjmypGy0co98Jgeo11jMc) | [The Seadix](https://open.spotify.com/artist/5q5xX0d07ULjV8NKTGXLrB) | [Aplysia](https://open.spotify.com/album/5jK8fD4534sjltztJ8oMe7) | 3:51 | 2026-04-12 |  |
 | [In side skin](https://open.spotify.com/track/6JIivXWodaHrTBzlUVuIr2) | [Bruno Costa](https://open.spotify.com/artist/3yxmvN8rSmNEfyTCC7FaA2) | [Forbiten](https://open.spotify.com/album/37Nr0tgS9TULHQXu9HM73J) | 2:53 | 2026-01-27 | 2026-02-23 |
@@ -531,6 +532,7 @@
 | [Saturday Night](https://open.spotify.com/track/3vTn9YcbhGlUUbn2hNy9Q1) | [Leo Effe](https://open.spotify.com/artist/190T5d0VosWDsjeUzIDR4M) | [Saturday Night](https://open.spotify.com/album/0vDVhZ4lWtyjRpVPELTpya) | 4:18 | 2026-04-22 |  |
 | [Scattered Blueprints](https://open.spotify.com/track/2JmDEJXSNvspOOFgNOJu0l) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Glass After the Fall: Cinematic Melodic House for Rooftop Nights \(Vol\. 1\)](https://open.spotify.com/album/50EZegdviixgmt6ZpGYj78) | 5:01 | 2026-03-30 |  |
 | [Se ha roto el vinilo](https://open.spotify.com/track/6PfjnIfFbtNz51h0HtTTnW) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [Hacia delante](https://open.spotify.com/album/73vmyx63AXRJdcqvaiJ5l3) | 3:26 | 2026-04-22 |  |
+| [Secrets](https://open.spotify.com/track/48lybvAaWez5AdmwXk7KEa) | [LaSonda](https://open.spotify.com/artist/7GnPIlBkAX6PBbxbroA3cg) | [Secret](https://open.spotify.com/album/3DGYhk1vFLysKXeKI9aNVl) | 6:28 | 2026-04-24 |  |
 | [See The Light \(feat\. Fridayy\)](https://open.spotify.com/track/7MWHxi7gx2M8ghbRRWyQYU) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [See The Light](https://open.spotify.com/album/7BdKpDmPu8bUkHULFZp1Zi) | 5:08 | 2023-05-28 | 2023-06-19 |
 | [Seven to Dispatch](https://open.spotify.com/track/2Q0n51GMKrT9Ee4GTNLVs0) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Afterhours: Cinematic Techno \(Vol\. 1\)](https://open.spotify.com/album/0bBdJLYoz7A5noEA8jVREa) | 4:28 | 2026-04-04 |  |
 | [Sex Drugs Cash](https://open.spotify.com/track/52O7aS1nro497WlKJNmYWM) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Sex Drugs Cash](https://open.spotify.com/album/0B3y4tnhhXxZD9WbLhczDl) | 2:43 | 2023-06-11 | 2023-07-03 |

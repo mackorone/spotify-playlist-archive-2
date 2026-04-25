@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 69084,
+  "num_followers": 69098,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD4kajN1g74VSlHKjehazTHXl6lh",
+  "snapshot_id": "AAAAAJ42uV3RwyyXgRccuZ7wsTRNRzak",
   "tracks": [
     {
       "added_at": "2026-03-02 07:46:32",
@@ -143,6 +143,34 @@
       "duration_ms": 254087,
       "name": "Sura Sura (From \"Nagabandham\") (Kannada) (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/2HtDEGex3x6M8J39k8k6O6"
+    },
+    {
+      "added_at": "2026-04-24 07:22:53",
+      "album": {
+        "name": "Naanu Kanda - Female (From \"Bengaluru Inn\")",
+        "url": "https://open.spotify.com/album/6GQM0Yo3qndCKWNPlPUYfZ"
+      },
+      "artists": [
+        {
+          "name": "Sreenidhi Ramakrishnan",
+          "url": "https://open.spotify.com/artist/5ahe2292xeFvx7VUbqtAks"
+        },
+        {
+          "name": "Asif A Kader",
+          "url": "https://open.spotify.com/artist/7CEtbRx0LXuaySKfjRqUCW"
+        },
+        {
+          "name": "Aravind Murali",
+          "url": "https://open.spotify.com/artist/3ECpBraKrmQ1TUA3tkHZxy"
+        },
+        {
+          "name": "Anand G",
+          "url": "https://open.spotify.com/artist/4SpLYaXADoszFgWS5khUYt"
+        }
+      ],
+      "duration_ms": 312521,
+      "name": "Naanu Kanda - Female (From \"Bengaluru Inn\")",
+      "url": "https://open.spotify.com/track/7G9opj7es0jzVRsnrPTZrC"
     },
     {
       "added_at": "2026-04-13 07:07:50",
@@ -1455,30 +1483,6 @@
       "duration_ms": 208000,
       "name": "Manase Madhura (From \"RAMA AND RAMU\")",
       "url": "https://open.spotify.com/track/5UCXZ7yvmRPppS7hqp7SXl"
-    },
-    {
-      "added_at": "2026-02-10 09:50:01",
-      "album": {
-        "name": "Rakkasapuradhol (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0jF9XRzEzXXrqnYkqD4DhT"
-      },
-      "artists": [
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        },
-        {
-          "name": "Bharath Lingesh",
-          "url": "https://open.spotify.com/artist/6OA8i0ioxEYeqft5UtpSoF"
-        },
-        {
-          "name": "Kushala",
-          "url": "https://open.spotify.com/artist/3QAvUy5TZuksie8UDWJ3oW"
-        }
-      ],
-      "duration_ms": 197192,
-      "name": "Amavase Raatri",
-      "url": "https://open.spotify.com/track/1JoFBh6Gp7ECb4U2xMyBqt"
     },
     {
       "added_at": "2026-01-15 13:28:49",

@@ -4,7 +4,7 @@
 
 > \#fyp
 
-1,081 songs - 2 day 7 hr 57 min
+1,082 songs - 2 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [DIEU EST GRANDE](https://open.spotify.com/track/5OiJ0jwzjxTX0OhCx89RHl) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [DIEU EST GRANDE](https://open.spotify.com/album/75akm23oaHhtzextLCN2zz) | 2:56 | 2025-01-28 | 2025-03-29 |
 | [Dimanche soir](https://open.spotify.com/track/3BkKW3ASZ0uzvsn0ZH70Rr) | [Lasco](https://open.spotify.com/artist/3dJuPTbC8aP88uCs6qB3Ra) | [2.6.Z](https://open.spotify.com/album/76EPcq3yFSKI4Y0gnTnnqW) | 4:00 | 2024-05-03 | 2024-08-02 |
 | [Dingue de toi \- Nabi\-Nabilla](https://open.spotify.com/track/2OHJYG61WwBhKCmyJ8rBtz) | [Sofiane](https://open.spotify.com/artist/3uSbAaLwGw2xF9je73h7F4) | [Dingue de toi \(Nabi\-Nabilla\)](https://open.spotify.com/album/0h6hmSwESIeAz3cL5V7lmW) | 3:54 | 2024-03-15 | 2024-05-25 |
-| [Dios mio](https://open.spotify.com/track/75j2xe6h9eVzT30yQz7bhC) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [La spé \(Deluxe\)](https://open.spotify.com/album/0s57BzP2tt9Ysm3ZsAu89d) | 3:01 | 2025-10-10 |  |
+| [Dios mio](https://open.spotify.com/track/75j2xe6h9eVzT30yQz7bhC) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [La spé \(Deluxe\)](https://open.spotify.com/album/0s57BzP2tt9Ysm3ZsAu89d) | 3:01 | 2025-10-10 | 2026-04-25 |
 | [Disco](https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Disco](https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3) | 2:32 | 2024-08-23 | 2024-10-05 |
 | [Discobeast](https://open.spotify.com/track/0QSFpVVi5h1TrYG69WMTg7) | [JOYCA](https://open.spotify.com/artist/5AqhBC5pt6b0WVpUAII1Ro) | [Discobeast](https://open.spotify.com/album/3K8pHhEfCe3S2u5yIBBT5o) | 2:23 | 2025-02-25 | 2025-03-22 |
 | [Distances](https://open.spotify.com/track/50gIpPyPm6U1LtKzJPs1Nx) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [TERMINAL 7](https://open.spotify.com/album/4NOV35gIOJhCDJVinN4EjL) | 2:20 | 2025-07-18 | 2025-09-13 |
@@ -593,6 +593,7 @@
 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 | 2025-08-14 | 2025-09-13 |
 | [Ma vida](https://open.spotify.com/track/3vDg435EBd8Eeai5io5vGX) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Et si j'échoue ?](https://open.spotify.com/album/0VrwXgh4GqaIV7XAuMdXDh) | 3:08 | 2025-02-14 | 2025-04-19 |
 | [Madame](https://open.spotify.com/track/2owjILiTibvZNB348YYQzv) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Le Rat Luciano](https://open.spotify.com/artist/5QuZ9HdvnXcX8kEG782Phv) | [La tête dans les nuages](https://open.spotify.com/album/2UyUeMDqCwENnLIU7EQ3We) | 4:01 | 2023-05-05 | 2023-12-14 |
+| [Madame](https://open.spotify.com/track/2yPmfXgxDh5uQt5F5p5AgA) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [KAID](https://open.spotify.com/album/1hLGGWyMJ4yJ84c7CITrWC) | 2:28 | 2026-04-24 |  |
 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 | 2024-02-23 | 2024-05-04 |
 | [Made in Romania](https://open.spotify.com/track/58U2OeaIAkQ6scuGNVazuT) | [Ionut Cercel](https://open.spotify.com/artist/3nEGbFFQiHXnjhbJVwzega) | [Sapte trandafiri](https://open.spotify.com/album/6Pr1PMiL3fc6EHRmRVRmoh) | 4:05 | 2024-03-08 | 2024-04-19 |
 | [Made in Romeniá \- Sahmiir Officiall Remix](https://open.spotify.com/track/3Er2CGuUZlGKQ1puctyYsB) | [Sahmiir Official](https://open.spotify.com/artist/3CXyRvkXdBR1Dqk96vcYLq), [Sahmiir Officiall](https://open.spotify.com/artist/43xc9kEoIRMxrIf0CCxOqQ) | [Made in Romeniá \(Sahmiir Officiall Remix\)](https://open.spotify.com/album/2Kn8N2Et2cb3xny4jjBuBy) | 4:03 | 2024-03-08 | 2024-05-25 |

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 
 > canciones para chillear con Silvina Moreno
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,716 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,731 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Un Montón de Estrellas](https://open.spotify.com/track/654WSeeGc6ktF9iNcepapj) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Un Montón de Estrellas](https://open.spotify.com/album/6GktQHOWaYrgv2ksUaeUx7) | 3:32 |
 | 2 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
-| 3 | [Tu soledad y la mía](https://open.spotify.com/track/1qBuD0e1Iv3CMmUYfWrvDB) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [En vivo en Buenos Aires](https://open.spotify.com/album/0QVugRCVGqYENIJvtfxvfZ) | 3:42 |
+| 3 | [Tu soledad y la mía \- En vivo en Buenos Aires](https://open.spotify.com/track/1qBuD0e1Iv3CMmUYfWrvDB) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [En vivo en Buenos Aires](https://open.spotify.com/album/0QVugRCVGqYENIJvtfxvfZ) | 3:42 |
 | 4 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
-| 5 | [EL MENSAJERO](https://open.spotify.com/track/4xaA635jWzBlMROrqtaa1j) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi), [CocodriloPyB](https://open.spotify.com/artist/6yyzwJPRX9DgehQrOfvAil) | [EL MENSAJERO](https://open.spotify.com/album/4RUDd6gb0SbiptLzTBwuN8) | 2:28 |
+| 5 | [EL MENSAJERO](https://open.spotify.com/track/4xaA635jWzBlMROrqtaa1j) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi), [Cocodrilo P&B](https://open.spotify.com/artist/3PujdPptTBspp23sB8XwOo) | [EL MENSAJERO](https://open.spotify.com/album/4RUDd6gb0SbiptLzTBwuN8) | 2:28 |
 | 6 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 | 7 | [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 |
 | 8 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |

@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 140928,
       "name": "Diente de Le\u00f3n",
       "url": "https://open.spotify.com/track/2gdBOt1AKjkoZyO7C3MUFy"
@@ -2722,7 +2722,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 264677,
       "name": "Mal de Amores",
       "url": "https://open.spotify.com/track/7aXpSB3zDZG2mPYowpEPNJ"
@@ -3016,6 +3016,32 @@
       "duration_ms": 160480,
       "name": "Mi Pueblo",
       "url": "https://open.spotify.com/track/3c1YCQvr720s61gHPgtkv8"
+    },
+    {
+      "album": {
+        "name": "Miop\u00eda",
+        "url": "https://open.spotify.com/album/5PfX9dsNuzkPZ4gpBA02Lw"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Mai Grc",
+          "url": "https://open.spotify.com/artist/761tunlrRfUDgAl3c0YSFb"
+        },
+        {
+          "name": "SORKI",
+          "url": "https://open.spotify.com/artist/7o6GKsh3DbgdZVv3wi989P"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Miop\u00eda",
+      "url": "https://open.spotify.com/track/5dhLkd9H7LQI9YGsBzNxkC"
     },
     {
       "album": {
@@ -4370,6 +4396,24 @@
       "duration_ms": 197884,
       "name": "Skokiaan",
       "url": "https://open.spotify.com/track/2NtCE2KvwtmIOwmGRB04Hy"
+    },
+    {
+      "album": {
+        "name": "Soledad",
+        "url": "https://open.spotify.com/album/0lHx8eiojQQ9hjwsUvjFVB"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Alatorre",
+          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238654,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/4LYDqFT3zydd33a2yCUZLw"
     },
     {
       "album": {

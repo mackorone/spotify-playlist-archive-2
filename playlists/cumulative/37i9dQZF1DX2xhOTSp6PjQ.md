@@ -2,7 +2,7 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover: Stallion X
+> Khuphuka lapho… seku\-late! Cover: LIMIT NALA
 
 292 songs - 23 hr 7 min
 

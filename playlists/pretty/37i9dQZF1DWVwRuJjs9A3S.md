@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Kape Yeel
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,139 likes - 312 songs - 17 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,143 likes - 312 songs - 17 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 25 | [Slow My Heart Down](https://open.spotify.com/track/4zIF65DH7Li8XX5Acm0Jtp) | [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [Slow My Heart Down / Not Enough Time](https://open.spotify.com/album/2pSVANTGiOtriSKlqFpFSq) | 2:51 |
 | 26 | [Breaking Point](https://open.spotify.com/track/5v7Wn3282jUbkqT8dhkCwn) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Breaking Point](https://open.spotify.com/album/12GfWaAGM3hXcWjdyuF6bK) | 2:37 |
 | 27 | [Lubnan \(لبنان\)](https://open.spotify.com/track/0iON9wU5x2Isk7zefu1t99) | [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Lubnan \(لبنان\)](https://open.spotify.com/album/4z0HkMA3ktMlt4cGVOrMFU) | 5:16 |
-| 28 | [Track 1](https://open.spotify.com/track/5AMv82UWh8QC7dA6dTNYn9) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Depreshmode](https://open.spotify.com/album/1GSOOLlwoBDAStBgRuVIXd) | 0:00 |
+| 28 | [Depreshmode](https://open.spotify.com/track/5AMv82UWh8QC7dA6dTNYn9) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Depreshmode](https://open.spotify.com/album/1GSOOLlwoBDAStBgRuVIXd) | 4:14 |
 | 29 | [Joke About Divorce](https://open.spotify.com/track/4TNo1JuR3EsmGIhyCtjweO) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Joke About Divorce](https://open.spotify.com/album/35gxqXq1tL2Qw8Y7jp8NVl) | 4:15 |
 | 30 | [Eleanor's Escape](https://open.spotify.com/track/21LcmaUSmbrzdxqHUEhi8B) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [Eleanor's Escape](https://open.spotify.com/album/639kU4PVltUCtPQOL7rNUL) | 4:16 |
 | 31 | [Vampire at the Beach](https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vampire at the Beach](https://open.spotify.com/album/2oiYk3sjV14nv6vukULSv5) | 3:41 |

@@ -14083,6 +14083,24 @@
     },
     {
       "album": {
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/7spTuyHuqBRKYG3TZjwJTQ"
+      },
+      "artists": [
+        {
+          "name": "Pat",
+          "url": "https://open.spotify.com/artist/68WgJ9sAiZP6T6CIL5t5QL"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125596,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/7ABiV1u97UfeyzC0lg5H0V"
+    },
+    {
+      "album": {
         "name": "Shoulders of Giants",
         "url": "https://open.spotify.com/album/1xFA74jZYSwkUdiyornwOh"
       },

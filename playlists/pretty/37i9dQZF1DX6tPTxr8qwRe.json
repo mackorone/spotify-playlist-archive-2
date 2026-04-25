@@ -1,12 +1,12 @@
 {
   "description": "sweet. sharp. unbothered - Whee In on the cover",
-  "num_followers": 525953,
+  "num_followers": 525961,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABJRRUGyT4TAw8LzMlcerWs+q9SJ",
+  "snapshot_id": "AAAAAGb0AfpQxXV9D6tOOwKX5teyoMFe",
   "tracks": [
     {
       "added_at": "2026-04-17 04:02:49",
@@ -25,40 +25,20 @@
       "url": "https://open.spotify.com/track/52KygGkyBwayKKdv7gDAdP"
     },
     {
-      "added_at": "2026-04-17 04:02:49",
+      "added_at": "2026-04-24 04:01:30",
       "album": {
-        "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
+        "name": "BLURRY",
+        "url": "https://open.spotify.com/album/4KnNtQ9m2ya5CVz4HdDcqU"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
         }
       ],
-      "duration_ms": 213241,
-      "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
-    },
-    {
-      "added_at": "2026-04-17 04:02:49",
-      "album": {
-        "name": "Oops (it's a bad idea)",
-        "url": "https://open.spotify.com/album/5g1uxRDXBGvrzAruK4OXxa"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 202614,
-      "name": "Oops (it's a bad idea)",
-      "url": "https://open.spotify.com/track/2hsilQOlgcV5QtlBFuhhDK"
+      "duration_ms": 182383,
+      "name": "BLOODY MARY",
+      "url": "https://open.spotify.com/track/445swxbKlkXgrIbRPpPYrL"
     },
     {
       "added_at": "2026-04-03 04:02:22",
@@ -91,6 +71,38 @@
       "duration_ms": 138372,
       "name": "KILLSWITCH",
       "url": "https://open.spotify.com/track/2ONOuIhH0c9h8ioIxr2msm"
+    },
+    {
+      "added_at": "2026-04-24 04:01:30",
+      "album": {
+        "name": "Lovemesick",
+        "url": "https://open.spotify.com/album/7zpQ3LP0JDe5mLEl10MPiv"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "duration_ms": 229659,
+      "name": "Lovemesick",
+      "url": "https://open.spotify.com/track/49lewRjU3Hv6OfGCbEZBZN"
+    },
+    {
+      "added_at": "2026-04-17 04:02:49",
+      "album": {
+        "name": "Oops (it's a bad idea)",
+        "url": "https://open.spotify.com/album/5g1uxRDXBGvrzAruK4OXxa"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 202614,
+      "name": "Oops (it's a bad idea)",
+      "url": "https://open.spotify.com/track/2hsilQOlgcV5QtlBFuhhDK"
     },
     {
       "added_at": "2026-04-03 04:02:22",
@@ -679,22 +691,6 @@
       "duration_ms": 149866,
       "name": "Cognitive Dissonance",
       "url": "https://open.spotify.com/track/4gxcQjQas1oSbY63REnRjT"
-    },
-    {
-      "added_at": "2026-02-01 19:52:17",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/3fEFkAZn2TC3C1dgra63SZ"
-      },
-      "artists": [
-        {
-          "name": "Ella Collier",
-          "url": "https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ"
-        }
-      ],
-      "duration_ms": 195492,
-      "name": "17",
-      "url": "https://open.spotify.com/track/44mNFl4PM016z0tueNAhzK"
     },
     {
       "added_at": "2026-01-09 05:00:48",

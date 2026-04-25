@@ -5039,6 +5039,24 @@
     },
     {
       "album": {
+        "name": "Sun & Moon",
+        "url": "https://open.spotify.com/album/0jtXs5aFlTgCqHr1D7Ng3h"
+      },
+      "artists": [
+        {
+          "name": "NECKBREAKERS",
+          "url": "https://open.spotify.com/artist/1kjfLF0nj4tofaBOpjoHO2"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222892,
+      "name": "Sun & Moon",
+      "url": "https://open.spotify.com/track/7dbd8sxYFVPgIf5Mm2buyt"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/1k76QxrouaepTbU0204IQX"
       },
@@ -5918,6 +5936,24 @@
       "duration_ms": 229000,
       "name": "what a waste of time",
       "url": "https://open.spotify.com/track/4bZXjpjLdytNUg5zn1l1Hj"
+    },
+    {
+      "album": {
+        "name": "CLASSY HITS VOL.2",
+        "url": "https://open.spotify.com/album/7inZFNGutNVY6i5e49EuCa"
+      },
+      "artists": [
+        {
+          "name": "WIDGET",
+          "url": "https://open.spotify.com/artist/6HTVZ0zfUDlSVz6TcRfH1U"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143936,
+      "name": "WHAT IF PHONES BUT TOO MUCH",
+      "url": "https://open.spotify.com/track/5L5fXbJCVK6Ibu25SIa6Ry"
     },
     {
       "album": {

@@ -5947,6 +5947,24 @@
     },
     {
       "album": {
+        "name": "In Da Club",
+        "url": "https://open.spotify.com/album/7J0TAzUGD0kBJiPGPM2Ag8"
+      },
+      "artists": [
+        {
+          "name": "OTK",
+          "url": "https://open.spotify.com/artist/1RfUpnBiwRzA6LCl4qaJwG"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167125,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/7GZEhFhidJkXf5iO3J7zha"
+    },
+    {
+      "album": {
         "name": "In My Brain",
         "url": "https://open.spotify.com/album/5fT2Hkzx9dhJCPsffatJDu"
       },
@@ -10164,6 +10182,24 @@
       "duration_ms": 206830,
       "name": "Se ha roto el vinilo",
       "url": "https://open.spotify.com/track/6PfjnIfFbtNz51h0HtTTnW"
+    },
+    {
+      "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/3DGYhk1vFLysKXeKI9aNVl"
+      },
+      "artists": [
+        {
+          "name": "LaSonda",
+          "url": "https://open.spotify.com/artist/7GnPIlBkAX6PBbxbroA3cg"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388000,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/48lybvAaWez5AdmwXk7KEa"
     },
     {
       "album": {

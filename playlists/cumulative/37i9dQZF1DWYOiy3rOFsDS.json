@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Ah\u00ed No Es",
+        "url": "https://open.spotify.com/album/1l10RaZp5Ggd6d2IVaKAvt"
+      },
+      "artists": [
+        {
+          "name": "Zemmoa",
+          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200412,
+      "name": "Ah\u00ed No Es",
+      "url": "https://open.spotify.com/track/2ewabgeMs3vo8sGyuqqxTW"
+    },
+    {
+      "album": {
         "name": "Imagina",
         "url": "https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc"
       },
@@ -3482,7 +3500,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 189320,
       "name": "La Copa Rota",
       "url": "https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o"
@@ -3936,7 +3954,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 318893,
       "name": "L\u00e1grimas Negras",
       "url": "https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB"
@@ -4060,6 +4078,24 @@
       "duration_ms": 192000,
       "name": "Manteles & Arrugas",
       "url": "https://open.spotify.com/track/0NyR8dPui2MoWlWPTQJuUc"
+    },
+    {
+      "album": {
+        "name": "Maquiav\u00e9lico",
+        "url": "https://open.spotify.com/album/6CEZ6nXauK20afWpvCkoYf"
+      },
+      "artists": [
+        {
+          "name": "Fer Sober\u00f3n",
+          "url": "https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188760,
+      "name": "Maquiav\u00e9lico",
+      "url": "https://open.spotify.com/track/6POa4yNzSmqQLoqnwKtngG"
     },
     {
       "album": {

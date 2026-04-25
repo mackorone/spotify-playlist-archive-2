@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new and classic South African Rock. Cover: Zo\u00e9",
+  "description": "The best new and classic South African Rock. Cover: Zaan Sonnekus and Tasch\u00e9",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 163303,
       "name": "031",
       "url": "https://open.spotify.com/track/3wU1yl2Fy9spQUVp8rx8hW"
+    },
+    {
+      "album": {
+        "name": "1140",
+        "url": "https://open.spotify.com/album/1wzaPzNHvCpD1VJK8tABXt"
+      },
+      "artists": [
+        {
+          "name": "Bonus in Desember",
+          "url": "https://open.spotify.com/artist/3qmrl2CODNuh7DyxyHnv7t"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168382,
+      "name": "1140",
+      "url": "https://open.spotify.com/track/7t0G3n3F9LWUiwPl92RAbi"
     },
     {
       "album": {
@@ -2121,6 +2139,24 @@
     },
     {
       "album": {
+        "name": "Burnin' Heart",
+        "url": "https://open.spotify.com/album/0EQA42KcvvRxfWItSBzLNE"
+      },
+      "artists": [
+        {
+          "name": "Keanan Eksteen",
+          "url": "https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144284,
+      "name": "Burnin' Heart",
+      "url": "https://open.spotify.com/track/5zQ2LNtYhse1yS3DSB9OW9"
+    },
+    {
+      "album": {
         "name": "Burning Building",
         "url": "https://open.spotify.com/album/7L0sDlplj7LoHjZ7mj2ETT"
       },
@@ -2212,6 +2248,24 @@
       "duration_ms": 200625,
       "name": "By Jou",
       "url": "https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q"
+    },
+    {
+      "album": {
+        "name": "Cake",
+        "url": "https://open.spotify.com/album/6ff3VYwTYs4GngQXPkuLO4"
+      },
+      "artists": [
+        {
+          "name": "Mila Smith",
+          "url": "https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Cake",
+      "url": "https://open.spotify.com/track/2R4QvWH7WESPMHkrUXsB5j"
     },
     {
       "album": {
@@ -3516,7 +3570,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 200421,
       "name": "Die Binnenshuise Versierder",
       "url": "https://open.spotify.com/track/5V3Z6uzeqpfnN403KLohiw"
@@ -4053,6 +4107,28 @@
     },
     {
       "album": {
+        "name": "DOOD",
+        "url": "https://open.spotify.com/album/0jpHb8Uf3JiB6cbHkfwkhC"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        },
+        {
+          "name": "Tasch\u00e9",
+          "url": "https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205191,
+      "name": "DOOD",
+      "url": "https://open.spotify.com/track/6I0YYOH2MtFP062f2b7sXD"
+    },
+    {
+      "album": {
         "name": "Doodloopstraat",
         "url": "https://open.spotify.com/album/0PKGrol70o5J58kZZYGswk"
       },
@@ -4198,7 +4274,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 162168,
       "name": "Droom Te Klein",
       "url": "https://open.spotify.com/track/2sIqBmgh9B5ErwmsPW6xku"
@@ -6136,7 +6212,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 222626,
       "name": "Grondonteiening",
       "url": "https://open.spotify.com/track/5acW55cP37K3nXJsqvvN7d"
@@ -9818,7 +9894,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 205351,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/21XyJ0IDy7s3FG8S9tJfjZ"
@@ -10172,6 +10248,24 @@
       "duration_ms": 234288,
       "name": "Naglied",
       "url": "https://open.spotify.com/track/1vzvmwNz3upK4s9GsYeO7k"
+    },
+    {
+      "album": {
+        "name": "Nagmerries (Bye Bye Baby)",
+        "url": "https://open.spotify.com/album/5yoF31BDX5GJeFY9v7TaPF"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172985,
+      "name": "Nagmerries (Bye Bye Baby)",
+      "url": "https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg"
     },
     {
       "album": {
@@ -11384,6 +11478,24 @@
       "duration_ms": 206491,
       "name": "People Change",
       "url": "https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x"
+    },
+    {
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/5wZy1AyhZ5zh5X9AIuyWqh"
+      },
+      "artists": [
+        {
+          "name": "Frans Karoo",
+          "url": "https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/11D5Tz757nMHDd0udbNYBt"
     },
     {
       "album": {
@@ -12706,7 +12818,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 149735,
       "name": "she doesn't want flowers",
       "url": "https://open.spotify.com/track/4QtQUjY84gnbBrmJHBeWC6"
@@ -12875,6 +12987,24 @@
     },
     {
       "album": {
+        "name": "Sink",
+        "url": "https://open.spotify.com/album/4LWDIIAQiJGt6nFijQKv6j"
+      },
+      "artists": [
+        {
+          "name": "veervol",
+          "url": "https://open.spotify.com/artist/6S9Gj59mCaPhVk0LzhCaaE"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232444,
+      "name": "Sink",
+      "url": "https://open.spotify.com/track/3VllAFxFDUr5r1AYoQMmA8"
+    },
+    {
+      "album": {
         "name": "Sinnelose Koor",
         "url": "https://open.spotify.com/album/2kZucdsdbVO6zrSZkcSXFz"
       },
@@ -12994,7 +13124,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 178737,
       "name": "SKREE",
       "url": "https://open.spotify.com/track/3Cc3QpKHoRLzn04i8sv1Ef"
@@ -13066,7 +13196,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 224704,
       "name": "Slightly Jaded",
       "url": "https://open.spotify.com/track/2qqdljHHgWaAGCU1jplkG8"

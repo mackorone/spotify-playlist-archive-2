@@ -1179,6 +1179,28 @@
     },
     {
       "album": {
+        "name": "Balazo EP",
+        "url": "https://open.spotify.com/album/2VaF6EGoTR7LzO00tNuzrB"
+      },
+      "artists": [
+        {
+          "name": "Valek",
+          "url": "https://open.spotify.com/artist/5qbXMmy6soS5AnhtABld0J"
+        },
+        {
+          "name": "Bvstian",
+          "url": "https://open.spotify.com/artist/0VYFAwNZNC63R51XDw04ba"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247384,
+      "name": "Balazo",
+      "url": "https://open.spotify.com/track/3t63pJC47xsSlz21cFFufI"
+    },
+    {
+      "album": {
         "name": "Bambina",
         "url": "https://open.spotify.com/album/28TWfwYUHwA01HtRdoic38"
       },
@@ -2428,7 +2450,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 207804,
       "name": "Chimba",
       "url": "https://open.spotify.com/track/4P043YdrPKrNrF8aqRgGrB"
@@ -3300,7 +3322,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 185476,
       "name": "Dame Mas",
       "url": "https://open.spotify.com/track/5lCS7wZgRyCvJia3VSAvpu"
@@ -9592,6 +9614,28 @@
       "duration_ms": 154153,
       "name": "Sopa De Caracol",
       "url": "https://open.spotify.com/track/1xpetlV1yoslzfKoNy7m6h"
+    },
+    {
+      "album": {
+        "name": "Sorry Papi",
+        "url": "https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170671,
+      "name": "Sorry Papi",
+      "url": "https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk"
     },
     {
       "album": {

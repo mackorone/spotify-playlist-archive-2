@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with BigXthaPlug. Central Cee, Kanye West, Swae Lee, J. Cole and JT.",
+  "description": "Today's Hip-Hop with Lil Tjay, BigXthaPlug. Central Cee, Kanye West, J. Cole and JT.",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -3276,6 +3276,32 @@
       "duration_ms": 154285,
       "name": "BET",
       "url": "https://open.spotify.com/track/3TJTvFCoVZaWWTRuaIPkMl"
+    },
+    {
+      "album": {
+        "name": "Bet it All",
+        "url": "https://open.spotify.com/album/59LXNdhF38YWNCWpz5EnEt"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "name": "Chase Belly",
+          "url": "https://open.spotify.com/artist/6tsYLksrBCYGx807tLtqcE"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Bet it All",
+      "url": "https://open.spotify.com/track/5aPjCwBAsj1yT89rIwqzMN"
     },
     {
       "album": {
@@ -7016,7 +7042,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 167668,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/31FZEw4eoEZxWx0XUYnXP5"
@@ -9752,7 +9778,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 153700,
       "name": "First Time",
       "url": "https://open.spotify.com/track/2M2nFPekII4HlqqqFaBlhO"
@@ -9840,7 +9866,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 140143,
       "name": "FLACKITO JODYE (feat. Tokischa)",
       "url": "https://open.spotify.com/track/5evBKaW1C74pRKBoQIyZ8C"
@@ -11716,6 +11742,28 @@
       "duration_ms": 140601,
       "name": "Goin Up",
       "url": "https://open.spotify.com/track/1wNdGz7BlB9kH5lDc1eLLb"
+    },
+    {
+      "album": {
+        "name": "GOMF (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/7woXVG8V3g8TQjDd8WV5JO"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149640,
+      "name": "GOMF (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/7DbtXoclIdBSaeMWxcTSSY"
     },
     {
       "album": {
@@ -16329,6 +16377,24 @@
     },
     {
       "album": {
+        "name": "Life on Edge",
+        "url": "https://open.spotify.com/album/5WH0aPUYajhNJqRk4TipLW"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181969,
+      "name": "Life on Edge",
+      "url": "https://open.spotify.com/track/633PTzgYsWlR60qgBlShcl"
+    },
+    {
+      "album": {
         "name": "Life Worth Living",
         "url": "https://open.spotify.com/album/0oUpnpxjgrNJmmmoPgiIag"
       },
@@ -19066,7 +19132,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 179400,
       "name": "Need That",
       "url": "https://open.spotify.com/track/5Q4dKMJnW3TOOTuxyTTjDJ"
@@ -19581,6 +19647,28 @@
     },
     {
       "album": {
+        "name": "No One Told Us",
+        "url": "https://open.spotify.com/album/1IXuXUuyVAt80cGFhMWeKG"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110246,
+      "name": "No One Told Us",
+      "url": "https://open.spotify.com/track/34VOEgQNftYHw57IgFJn0g"
+    },
+    {
+      "album": {
         "name": "Table For One",
         "url": "https://open.spotify.com/album/2D8w8m8eFaU92yI1iXlHiC"
       },
@@ -20048,7 +20136,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 158357,
       "name": "NOW OR NEVER II",
       "url": "https://open.spotify.com/track/3WIV7gukpFbj7YotPoUVb2"
@@ -23274,7 +23362,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 224031,
       "name": "Real Ones (feat. Albee Al & Harrd Luck)",
       "url": "https://open.spotify.com/track/7lS7ZAnlb0Vl3xnRhXIQt5"
@@ -24472,6 +24560,24 @@
       "duration_ms": 262941,
       "name": "Same Problems?",
       "url": "https://open.spotify.com/track/3jpZwYrDbX2lQMhHwXjyUD"
+    },
+    {
+      "album": {
+        "name": "SAME SH!T",
+        "url": "https://open.spotify.com/album/34v3zMWlkxsKbaYnERZV6d"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193294,
+      "name": "SAME SH!T",
+      "url": "https://open.spotify.com/track/0EOc1cP1zMmF9kR0w3AM5f"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries 🪐<br/>cover: Mulaa Joans
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,488 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,466 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 23 | [I Don't Know How to Leave](https://open.spotify.com/track/75DGZqFAjabRsU4FRZJLMU) | [Lola Blue](https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at) | [I Don't Know How to Leave](https://open.spotify.com/album/1ZnMX5OisC39lH5i9ExCPQ) | 2:38 |
 | 24 | [does it still rain?](https://open.spotify.com/track/2QrFAGaJXM1gnJsbfE0zrO) | [BEASTIE](https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1) | [does it still rain?](https://open.spotify.com/album/3dLcb6UK74af7IgA7vAq8B) | 3:34 |
 | 25 | [written](https://open.spotify.com/track/4xLmWjoV1FyPwd0qcYCM4R) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [written](https://open.spotify.com/album/5Rx9AUQzEwdqKgabodccTe) | 3:06 |
-| 26 | [Track 6](https://open.spotify.com/track/33ljpH5mxnf6LAU96WtWiC) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Kizzy](https://open.spotify.com/album/2kQDQctLqaMMOnX84ZIzcw) | 0:00 |
+| 26 | [Mind is a Dancer](https://open.spotify.com/track/33ljpH5mxnf6LAU96WtWiC) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Kizzy](https://open.spotify.com/album/2kQDQctLqaMMOnX84ZIzcw) | 4:28 |
 | 27 | [i don't care](https://open.spotify.com/track/0IGerlTI4Lrvfyd51bXjc3) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [i don’t care](https://open.spotify.com/album/3syRetw6BhzFoxG2TjNiDZ) | 3:22 |
 | 28 | [TV](https://open.spotify.com/track/6RLMAUSoJP0GZZAnnLrTlX) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [TV](https://open.spotify.com/album/6c91028rOTzQnHvmYgK6I4) | 3:15 |
 | 29 | [Cyanide](https://open.spotify.com/track/26yJKtzmQLGRlhocFH18GL) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Eddy Luna](https://open.spotify.com/artist/7gnObZHxWlF5E82KGlKHMM) | [Cyanide](https://open.spotify.com/album/6JBPy3m6HnqK0daHMg21eV) | 3:02 |

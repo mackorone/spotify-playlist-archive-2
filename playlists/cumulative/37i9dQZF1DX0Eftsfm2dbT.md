@@ -4,7 +4,7 @@
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: LANA \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,457 songs - 5 day 3 hr 33 min
+2,459 songs - 5 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1317,6 +1317,7 @@
 | [Neon \- Fully Active Ver.](https://open.spotify.com/track/15FP3rWLIaHSUYK9ueTVZ2) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [SAMI\-T](https://open.spotify.com/artist/4FUGDAUEO5GLcnFANJ25KE) | [Neon \(Fully Active Ver.\)](https://open.spotify.com/album/4Nh33dLPawNhBASd2Q6L0p) | 4:43 | 2024-03-12 | 2024-04-07 |
 | [Neon \- Fully Active Ver.](https://open.spotify.com/track/5N4M51oo4pop3zpB8LWIMI) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [SAMI\-T](https://open.spotify.com/artist/4FUGDAUEO5GLcnFANJ25KE) | [Neon \(Fully Active Ver.\)](https://open.spotify.com/album/1yREloSCNLtuwONK55o90w) | 4:43 | 2024-03-12 | 2024-06-12 |
 | [NEVER CHANGE \(feat\. SZK\)](https://open.spotify.com/track/3qSBR6lECL0p0vs2cfyBrU) | [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb), [SZK](https://open.spotify.com/artist/4RPWTmkbkOnlNYNXNYltmy) | [UNTIL](https://open.spotify.com/album/4fgxqE5qY4QFwtOiA4TaWJ) | 3:47 | 2025-11-18 | 2025-11-26 |
+| [Never Credited](https://open.spotify.com/track/7mBNPvLaoQ9vJtqQbUNwF1) | [X 1ark](https://open.spotify.com/artist/1ffob9pTIlEgfHmllUD6U9) | [Never Credited](https://open.spotify.com/album/7eUnTaoKrNB45IF3O3KEYX) | 2:08 | 2026-04-24 |  |
 | [Never Let Me Go](https://open.spotify.com/track/3OIebIcy0cm6Xl5wMsYmnV) | [Loota](https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7) | [Never Let Me Go](https://open.spotify.com/album/7lPGICXH9HXAE45wrgPhIl) | 2:24 | 2024-08-30 | 2024-09-18 |
 | [never4ever](https://open.spotify.com/track/5lEJuqYmCHLXdHIfYJwsEv) | [BBY NABE](https://open.spotify.com/artist/4zb2mUkgFg9NGwAJnzlS8B), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [now that UR gone](https://open.spotify.com/album/4pujOHKtOo25md7rMwnRLE) | 2:48 | 2023-09-28 | 2023-11-16 |
 | [NEVEREST \- Remix](https://open.spotify.com/track/2iad20ILDCloXQXJUbdKpU) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI) | [NEVEREST \(feat\. ANARCHY\) \[Remix\]](https://open.spotify.com/album/0KlwMYsFzAOxGCQUiRHuYc) | 3:19 | 2025-06-26 | 2025-09-05 |
@@ -2394,6 +2395,7 @@
 | [昼はリーマン夜はラッパー](https://open.spotify.com/track/5b5KABTNzIw7ZsaRt2buUO) | [Sad Kid Yaz](https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs) | [昼はリーマン夜はラッパー](https://open.spotify.com/album/5Y4iKeU6ZVOolbK22u8yaN) | 1:57 | 2026-01-22 | 2026-02-25 |
 | [普通の人間だって言えないよ](https://open.spotify.com/track/5mdhqO06ZE7PCZ0uNc12Qz) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [普通の人間だって言えないよ](https://open.spotify.com/album/34oChr7G0x8xWoPZDGY2iL) | 2:56 | 2025-11-11 | 2025-12-10 |
 | [智衆](https://open.spotify.com/track/545QLMjQtMMkFznIrAakkU) | [Nosh](https://open.spotify.com/artist/6fjyAMQcYpVJje2zWlYH5q), [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [智衆](https://open.spotify.com/album/3RUOwMlFr5Omc1AZnAy9WZ) | 2:11 | 2025-02-25 | 2025-04-30 |
+| [曲](https://open.spotify.com/track/363kMDe3xRFsw0Vh4X2kLG) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [BABYWOODROSE](https://open.spotify.com/artist/1XzfqpnX0VAcE77JE21mPB) | [Documentary](https://open.spotify.com/album/18NA2vXZGMqibGkn2TUhQo) | 2:31 | 2026-04-24 |  |
 | [書き綴るリリック \(feat\. Lil Chill\)](https://open.spotify.com/track/2axHE50sXYv98gUYueGjD3) | [rirugiliyangugili](https://open.spotify.com/artist/2ojo5MBGfvdfO3Iql07wu9), [Lil Chill](https://open.spotify.com/artist/3guAJUbWvGvGgz3vkJ241X) | [書き綴るリリック \(feat\. Lil Chill\)](https://open.spotify.com/album/2iv6amaaqnsOilmpRcUh6B) | 2:38 | 2025-05-08 | 2025-05-16 |
 | [最低だけど最高](https://open.spotify.com/track/2ufX2xxEysgDrPE5ANyhHy) | [Tim Pepperoni](https://open.spotify.com/artist/6XBb171OKsU4jQ5RfERNVo) | [最低だけど最高](https://open.spotify.com/album/4EZrC1LZyiTb3DV3igu8Bl) | 1:43 | 2024-03-12 | 2024-03-27 |
 | [最後だとしても...](https://open.spotify.com/track/7gLBZMoFeOwWMak8UVPSym) | [句潤](https://open.spotify.com/artist/1uDNlSRJxFFJLWXr11s0Bz), [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [句が呼ぶ煙](https://open.spotify.com/album/7wXuPfXn4vqtOtI8OdsX2a) | 3:21 | 2024-02-06 | 2024-02-21 |

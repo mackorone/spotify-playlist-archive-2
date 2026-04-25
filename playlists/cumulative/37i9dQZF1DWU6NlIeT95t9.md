@@ -4,7 +4,7 @@
 
 > Meet the future of Pakistani music ♥️ Cover: Murtaza Qizilbash
 
-157 songs - 8 hr 43 min
+158 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Thandi](https://open.spotify.com/track/7tEzOjkyhaY9LSWCsV455b) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/3pSxUhtCRY31ETLq2seRVQ) | [RONAQ](https://open.spotify.com/album/0uwwWuB9MjGUF3R60CMnjr) | 2:40 | 2023-11-02 | 2025-07-18 |
 | [Trust Issues](https://open.spotify.com/track/1m5KaAuRcBwvlSgHo8vJap) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm) | [Trust Issues](https://open.spotify.com/album/75I74MMyl3fdzJL3ENkj7T) | 2:27 | 2023-07-31 | 2024-02-17 |
 | [Tum](https://open.spotify.com/track/6mHTwIXqZtuQUF1fEkrhFB) | [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Tum](https://open.spotify.com/album/4INFMJi3SwIEWixQjlMNig) | 4:18 | 2026-04-16 |  |
+| [Tum Na Ho](https://open.spotify.com/track/0Pm2OPYWunQUhF1a0EATed) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Tum Na Ho](https://open.spotify.com/album/2LJzRpHLbu88KdcFLdn2KE) | 2:50 | 2026-04-24 |  |
 | [Udh Chaliye](https://open.spotify.com/track/4wqVxCLrlDxOVXYOGB8GRn) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/48WdvSkVF5zde2ICo6bvRm) | 3:45 | 2023-11-02 | 2024-04-19 |
 | [Udh Chaliye](https://open.spotify.com/track/0TzvYA85b1yc7cQYPV6ydI) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Udh Chaliye](https://open.spotify.com/album/1927ZAMdScYQM10MaaKFc6) | 3:45 | 2023-07-31 |  |
 | [WHERE R U](https://open.spotify.com/track/15vcBRyEkUZkH8xpGs35xe) | [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF), [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [WHERE R U](https://open.spotify.com/album/0LvPT3BxK0v7hCkzHsnp5K) | 3:41 | 2026-04-03 |  |

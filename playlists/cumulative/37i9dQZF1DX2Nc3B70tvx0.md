@@ -2,9 +2,9 @@
 
 ### [Indie's Top 50](https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0)
 
-> A delicious mix of new songs in high rotation\. Cover: 54 Ultra
+> A delicious mix of new songs in high rotation\. Cover: Malcolm Todd
 
-3,073 songs - 7 day 17 hr 42 min
+3,075 songs - 7 day 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,7 +407,7 @@
 | [Break The Rhythm](https://open.spotify.com/track/3aKk3RAc8lXQUum6JfZEfx) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Break The Rhythm](https://open.spotify.com/album/3qML5ZBNZDJr2XSf5yWrgY) | 3:50 | 2022-05-13 | 2022-07-29 |
 | [Break!](https://open.spotify.com/track/0flObXoVkthxtvvOksCZXI) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/05Bz4ReOzzjSCOYU0zAezd) | 2:53 | 2022-09-16 | 2022-10-01 |
 | [Breaking By](https://open.spotify.com/track/1A0LGwMocD470H5Pre6IkR) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [The Sweater Club](https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N) | 2:53 | 2024-06-21 | 2024-08-17 |
-| [Breathe](https://open.spotify.com/track/3rKjT23XeGg3pbqE1T1fpd) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Breathe](https://open.spotify.com/album/0hYuQ5w39NwmJkC5JN6e9C) | 2:56 | 2026-03-20 |  |
+| [Breathe](https://open.spotify.com/track/3rKjT23XeGg3pbqE1T1fpd) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Breathe](https://open.spotify.com/album/0hYuQ5w39NwmJkC5JN6e9C) | 2:56 | 2026-03-20 | 2026-04-25 |
 | [Breathe Deeper](https://open.spotify.com/track/3LbZIhU0smEU5SUnxod4j4) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:12 | 2020-02-14 | 2021-10-12 |
 | [Breathing the Same Air](https://open.spotify.com/track/7DTE4ib3z3j2syoUnRogPu) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [Breathing the Same Air](https://open.spotify.com/album/3pWbQKfnnPJwDH7KecuW9W) | 5:31 | 2025-06-20 | 2025-08-23 |
 | [Breathless](https://open.spotify.com/track/179YXh5spiRaUDJihittPG) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Breathless](https://open.spotify.com/album/63hYfwhXFIKNfVPunKy5de) | 3:02 | 2020-12-22 | 2021-07-29 |
@@ -788,7 +788,7 @@
 | [Dylan Thomas](https://open.spotify.com/track/6x14wL9HvABR2Rix8N88EH) | [Better Oblivion Community Center](https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [Better Oblivion Community Center](https://open.spotify.com/album/5622zSt4RLqNSPShdqmWpj) | 3:36 | 2020-12-04 | 2020-12-22 |
 | [Désolé \(feat\. Fatoumata Diawara\)](https://open.spotify.com/track/1lPjbmk2TylddPKESSIBfm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Song Machine Episode 2](https://open.spotify.com/album/5xbq27ybQPAC8IiLtbHNxN) | 3:56 | 2020-03-06 | 2020-08-07 |
 | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/track/5g1IxCinEawQcerAMrs2tU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/album/3FZ6xoRbaZ0BSQvWfQY5He) | 2:48 | 2022-09-16 | 2022-11-12 |
-| [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2024-04-11 |  |
+| [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2024-04-11 | 2026-04-25 |
 | [Earth, Wind & California](https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Jean](https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY) | 3:04 | 2026-03-13 |  |
 | [Earthstar](https://open.spotify.com/track/0SC0WzJk80snenOopsPzvM) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:03 | 2025-04-11 | 2025-08-30 |
 | [Easy](https://open.spotify.com/track/4i1IFCnXF40pbYZ7X19Fqb) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Easy](https://open.spotify.com/album/2RhatFEmXQxPvrM4Haba7r) | 3:28 | 2019-05-26\* | 2019-06-21 |
@@ -1297,6 +1297,7 @@
 | [I Only Feel Love When It's Missing](https://open.spotify.com/track/75FGTIaiv5Y5vjTNVVp6xo) | [Small Forward](https://open.spotify.com/artist/6V2pAcwTwmzCs6T5HwlJLh) | [I Only Feel Love When It's Missing](https://open.spotify.com/album/7AYc6SxopEbaf1c9jXdGyW) | 3:12 | 2025-06-20 | 2025-08-23 |
 | [I Punched Through The Wall](https://open.spotify.com/track/49lYeNtjK2w2gErCYz2ljk) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 3:08 | 2025-04-25 | 2025-08-23 |
 | [I Remember You A Dancer](https://open.spotify.com/track/1elDxfWBV5ETXElujTfK2H) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [I Remember You A Dancer](https://open.spotify.com/album/2eSeWJYlji0aOZF0zXjnpw) | 4:00 | 2025-06-27 | 2025-07-19 |
+| [I Saw Your Face](https://open.spotify.com/track/3cLBx0lEWPKSM99hx5RVcx) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [I Saw Your Face](https://open.spotify.com/album/6PM2d4YZxyXLO05TWXoSm7) | 3:09 | 2026-04-24 |  |
 | [I SEE IT COMING](https://open.spotify.com/track/4qDVck33icBULgnvP6WmPh) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [I SEE IT COMING](https://open.spotify.com/album/71O6TEo8R5qHRNuoMXfeDo) | 3:04 | 2021-07-29 | 2022-02-20 |
 | [I See You](https://open.spotify.com/track/6Xa2Y4EP6wossxPv1kUy2c) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [I See You](https://open.spotify.com/album/3bWycTCVujitsf8xO2kRfw) | 3:10 | 2020-06-12 | 2021-04-20 |
 | [I swear, I Really Wanted To Make A "Rap" Album But This Is Literally The Way The Wind Blew Me This Time](https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [New Blue Sun](https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD) | 12:20 | 2023-11-21 | 2024-02-02 |
@@ -3051,6 +3052,7 @@
 | [You Found Me](https://open.spotify.com/track/7Jyt9tIVvp3hB0HPFfMA6P) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [You Found Me](https://open.spotify.com/album/2jTjNvShtOPHj5PK1Bv4YQ) | 4:13 | 2025-07-18 | 2025-08-23 |
 | [You Have Got to Be Kidding Me](https://open.spotify.com/track/3kai81vBptYiDfb0QXHv5X) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [You Have Got to Be Kidding Me](https://open.spotify.com/album/0e0c5rz0pMLFvqR7bDyXtc) | 3:36 | 2022-05-27 | 2022-07-29 |
 | [You on My Mind](https://open.spotify.com/track/1P7qvfBiWLx3cuUgSyeNIE) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [You on My Mind](https://open.spotify.com/album/0vxq1LLGQtEKjNnwHD4e8E) | 2:30 | 2019-05-26\* | 2019-08-30 |
+| [You Say I Love You](https://open.spotify.com/track/2kv2epe0oiyQs8msJXbn9w) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Blue Angel Sparkling Silver 2](https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor) | 3:06 | 2026-04-24 |  |
 | [You Seemed So Happy](https://open.spotify.com/track/4TWsuyH4OivDpKRIksxqrc) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/4ByOqAhq3BuBo0sN54XkEQ) | 2:42 | 2019-05-26\* | 2019-12-13 |
 | [You Will Never Work In Television Again](https://open.spotify.com/track/2Aa4sRrWDddEmVRfAjVjsw) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [You Will Never Work In Television Again](https://open.spotify.com/album/0b897zzLyDXXpXAZxfAeK5) | 2:48 | 2022-05-13 | 2022-05-20 |
 | [You Will Never Work In Television Again](https://open.spotify.com/track/2ownDSIYHvydbtauGZW4ln) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 2:48 | 2022-07-15 | 2022-07-30 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Get revived with some of the best Deep House South Africa has to offer. Cover: Artwork Sounds",
+  "description": "Get revived with some of the best Deep House South Africa has to offer. Cover: Hypaphonik",
   "name": "Deep House Session",
   "tracks": [
     {
@@ -600,7 +600,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 408217,
       "name": "BAD GIRLS",
       "url": "https://open.spotify.com/track/7GWa68njpEiR0uN8cU0A2z"
@@ -4898,6 +4898,28 @@
       "duration_ms": 390974,
       "name": "Nights In Summer",
       "url": "https://open.spotify.com/track/6Z90kPVY4fSYnr85ZYGdwb"
+    },
+    {
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/26Y1NMQ9OZz0j3OTqh4UiD"
+      },
+      "artists": [
+        {
+          "name": "Hypaphonik",
+          "url": "https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io"
+        },
+        {
+          "name": "Salvador",
+          "url": "https://open.spotify.com/artist/2FUmeo84bwi3tKKlkLf9C0"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352820,
+      "name": "No Pressure",
+      "url": "https://open.spotify.com/track/02CATHrNoYtVafBE81rzF5"
     },
     {
       "album": {

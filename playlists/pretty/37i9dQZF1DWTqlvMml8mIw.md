@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqlvMml8mIw.md) - [plain]
 
 > We’re fired up\. Celebrate the new season of FX’s The Bear with music from the series\. All episodes now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,970 likes - 200 songs - 14 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,011 likes - 200 songs - 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqlvMml8mIw.md) - [plain]
 | 21 | [So in Love](https://open.spotify.com/track/24Sq1AQcMMTFN6WT1RNuGi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [The Very Best of Curtis Mayfield](https://open.spotify.com/album/1G0Vda1HQW23tDp7YGs0xF) | 5:14 |
 | 22 | [Let Me Live In Your City \- Work In Progress](https://open.spotify.com/track/0lImSLCWoi9V1PxldVsFYq) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [There Goes Rhymin' Simon](https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD) | 4:21 |
 | 23 | [Slip Away \(A Warning\)](https://open.spotify.com/track/4euB2BkqxJhk8SwZpt8l7r) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [The Sire Years: Complete Albums Box](https://open.spotify.com/album/0BloXheWsYbYME96zdMJ38) | 3:05 |
-| 24 | [Hope the High Road](https://open.spotify.com/track/7r5X8KL8y0CpZZErtmOmNo) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:03 |
+| 24 | [Hope the High Road](https://open.spotify.com/track/7r5X8KL8y0CpZZErtmOmNo) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:03 |
 | 25 | [Looking into You](https://open.spotify.com/track/56nqiwdvdCyAH6NFeShNf6) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Doctor My Eyes / Looking Into You \[Digital 45\]](https://open.spotify.com/album/4WowX0vNqCqXjwFZ2ZVGa2) | 4:18 |
 | 26 | [Pull the Cup](https://open.spotify.com/track/5oA7zFkpGxbT5edEzKiRte) | [Shellac](https://open.spotify.com/artist/6I8R5MFTlez7rHCsH4cx0u) | [At Action Park](https://open.spotify.com/album/0jyTzetEXLkLDqcTdbagVx) | 4:12 |
 | 27 | [Walking In The Rain](https://open.spotify.com/track/6eQ40FpOWggK5iKl3khLyp) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing](https://open.spotify.com/album/6q8R2OCmCS9W6Y7kqnSd78) | 4:18 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Featuring that new vintage. Cover: Jessie Ware",
+  "description": "Featuring that new vintage. Cover: Nectar Woode",
   "name": "Retro Pop",
   "tracks": [
     {
@@ -608,7 +608,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 259010,
       "name": "Beautiful Lonely",
       "url": "https://open.spotify.com/track/7d1GkHK3r8USzEQzhDvVJp"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 188000,
       "name": "Blind in Love",
       "url": "https://open.spotify.com/track/0rjoewFohsVztU43hybG2Y"
@@ -1892,6 +1892,24 @@
       "duration_ms": 173801,
       "name": "Cupid \u2013 Twin Ver. (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/6Ft6nfssjDYmgmXF19poJE"
+    },
+    {
+      "album": {
+        "name": "Daddy's Not The One",
+        "url": "https://open.spotify.com/album/4hLhPJ8VLX8BZDb7eu04ob"
+      },
+      "artists": [
+        {
+          "name": "KELS",
+          "url": "https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193466,
+      "name": "Daddy's Not The One",
+      "url": "https://open.spotify.com/track/2uTyeCOuE93OINDp4Obpgs"
     },
     {
       "album": {
@@ -5887,6 +5905,24 @@
     },
     {
       "album": {
+        "name": "Memory Of You",
+        "url": "https://open.spotify.com/album/5rawz0bTUTbBhtMGfFTzp8"
+      },
+      "artists": [
+        {
+          "name": "Arlissa",
+          "url": "https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203821,
+      "name": "Memory Of You",
+      "url": "https://open.spotify.com/track/03HzjjG5PNUCvp8Y9Vbbvd"
+    },
+    {
+      "album": {
         "name": "Mine Forever",
         "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
       },
@@ -7523,6 +7559,24 @@
     },
     {
       "album": {
+        "name": "Running From Nothing",
+        "url": "https://open.spotify.com/album/0UsaJw4BVdUMcN8sgjGaNj"
+      },
+      "artists": [
+        {
+          "name": "Elysia Biro",
+          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225870,
+      "name": "Running From Nothing",
+      "url": "https://open.spotify.com/track/5xYGysFGDhSt2775wubs6Z"
+    },
+    {
+      "album": {
         "name": "Sacred Place",
         "url": "https://open.spotify.com/album/4BlDropl0rs0ZyGOLdb9pc"
       },
@@ -7814,7 +7868,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 171595,
       "name": "Skin Tight Jeans",
       "url": "https://open.spotify.com/track/4bTfq4Ndn69gwhtqC3Kfgl"

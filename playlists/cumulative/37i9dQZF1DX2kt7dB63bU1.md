@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Gabrielle Cavassa
 
-907 songs - 2 day 14 hr 52 min
+908 songs - 2 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Blue Gardenia \(with Joey Calderazzo, Eric Revis & Justin Faulkner\)](https://open.spotify.com/track/5gVYaUsM6aMGEXsM5IChR7) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Branford Marsalis](https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH), [Joey Calderazzo](https://open.spotify.com/artist/7wu4u8r54ZgGyY9FOZtDq4), [Eric Revis](https://open.spotify.com/artist/4sEUQwmSgKMsYCfUCSGPIw), [Justin Faulkner](https://open.spotify.com/artist/7gBlPQ4BqAIYrI7yXjjhy2) | [Upward Spiral \(with Joey Calderazzo, Eric Revis & Justin Faulkner\)](https://open.spotify.com/album/0J7dyT7mFs7BJGmuU1x2rB) | 4:36 | 2020-10-09 | 2022-02-19 |
 | [Blue Moon](https://open.spotify.com/track/03r0x11olfFTe65yHe668S) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [Laura Goes East](https://open.spotify.com/album/1gShFPQSjqU0ItwmENWUzQ) | 2:49 | 2022-02-18 | 2022-07-29 |
 | [Blue Moon](https://open.spotify.com/track/4yzx7CiAFb4UlV16G7iBpn) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [Laura Goes East](https://open.spotify.com/album/0ktGkuJRuBSqGmNZ0wOCw1) | 2:49 | 2022-02-18 | 2023-02-25 |
+| [Blue Skies](https://open.spotify.com/track/6moPrj1QU3pxe6kVFQrhVY) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Suit Yourself](https://open.spotify.com/album/1fDaTWTPUMZx0uTS17w9zd) | 3:21 | 2026-04-24 |  |
 | [Blue Skies \- 2020 Version](https://open.spotify.com/track/675SQS6E9PN07pr9uRi035) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Blue Skies \(2020 Version\)](https://open.spotify.com/album/16vwSCKg3gEM135dvvZfrQ) | 2:40 | 2020-10-09 | 2022-02-19 |
 | [Bluebells](https://open.spotify.com/track/5TPEYe7fvQ6gBQtt6g6ig5) | [Dasha Beets](https://open.spotify.com/artist/5c74V4G4hH40lxp93rE9Xh) | [Bach…because](https://open.spotify.com/album/0d7q0bfcEDPcyk3NegqNsN) | 4:05 | 2022-04-08 | 2022-06-26 |
 | [Body of Mine](https://open.spotify.com/track/59Ll82ces41ZPuIOi9SVua) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r) | [Body of Mine](https://open.spotify.com/album/0HD3cdbBgs3MJQcqgpGYLE) | 3:31 | 2023-07-14 | 2024-12-07 |
@@ -880,7 +881,7 @@
 | [Wild Is the Wind](https://open.spotify.com/track/2qqP3GDBBJLHSbxw0Qx06D) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn), [Pete Wallace](https://open.spotify.com/artist/0fD0IUtm9b5iaEW251JEMc), [Eric England](https://open.spotify.com/artist/7Igdhtngu7rA4AIr05QBJG), [David Chiverton](https://open.spotify.com/artist/14X6dOg4AfOJH8EMj163mF), [Aaron Lebos](https://open.spotify.com/artist/0k9gBCTToN8xp44rMR67Az), [Troy Roberts](https://open.spotify.com/artist/7J9YpX3eZIWlcRbDnbny88) | [Time to Love Again](https://open.spotify.com/album/5lFWqbLV5EG4qthImhlwV6) | 5:46 | 2021-10-15 | 2022-01-23 |
 | [Willow Weep For Me](https://open.spotify.com/track/2Xt4eJCrm2GTuppWkG1ysy) | [Nicole Zuraitis](https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A) | [siren songs volume 2](https://open.spotify.com/album/7zhDnNltNR8wel770VWh80) | 4:07 | 2025-06-27 | 2026-03-14 |
 | [Willow Weep For Me](https://open.spotify.com/track/4VO3tcKdrr7xiyu7bGZGyo) | [Olivia Van Goor](https://open.spotify.com/artist/2FWAbctEyBW7vxsl2UMvpy) | [Willow Weep For Me](https://open.spotify.com/album/46rIGsBH4cGh39xDCSD13x) | 4:43 | 2022-02-18 | 2022-12-22 |
-| [Without A Chance](https://open.spotify.com/track/0VUEGVGAi8GaHRCkxBM4ww) | [Hayley Sales](https://open.spotify.com/artist/5aWJMTxBqrjjDPryNDNfMb) | [Without A Chance](https://open.spotify.com/album/2xlJC2yi53Z84z817kJjRZ) | 3:48 | 2024-05-03 |  |
+| [Without A Chance](https://open.spotify.com/track/0VUEGVGAi8GaHRCkxBM4ww) | [Hayley Sales](https://open.spotify.com/artist/5aWJMTxBqrjjDPryNDNfMb) | [Without A Chance](https://open.spotify.com/album/2xlJC2yi53Z84z817kJjRZ) | 3:48 | 2024-05-03 | 2026-04-25 |
 | [Without You](https://open.spotify.com/track/09lKeklaxa3p5MXkYYTyH0) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Without You](https://open.spotify.com/album/2inxTSjVztLDsnumbpY9Bv) | 4:20 | 2023-10-27 | 2024-04-19 |
 | [Without You](https://open.spotify.com/track/43lTZae0hP92dJUfaBlKQo) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Without You](https://open.spotify.com/album/2nwFdSEvJhqzXFYPgkkFHZ) | 4:20 | 2023-10-27 | 2025-06-21 |
 | [Woman's Reach](https://open.spotify.com/track/5b4LwXqmIpgYmwIMsXor45) | [KerenDun](https://open.spotify.com/artist/2TlOOJAaDba5S9tmsFyCWj), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN) | [Woman's Reach](https://open.spotify.com/album/62fZHDlJIDiFQbCFqgE13S) | 3:37 | 2021-02-05 | 2022-02-12 |

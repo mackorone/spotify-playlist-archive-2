@@ -4,7 +4,7 @@
 
 > Mood: Turnt Cover: Baby Keem
 
-1,136 songs - 2 day 6 hr 6 min
+1,138 songs - 2 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [Going To The Top](https://open.spotify.com/track/12tJyz2GOa37X25a8GF2hP) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Going To The Top](https://open.spotify.com/album/7ekSrUcnLASHRSOYvX2UZw) | 1:56 | 2024-02-23 | 2024-03-23 |
 | [GOMD](https://open.spotify.com/track/1wabjSijwiHbAKhCiDlLEu) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/1dwo7QqEHtUeFs6qz2pNm2) | 2:51 | 2023-09-05 | 2023-09-30 |
 | [GOMD](https://open.spotify.com/track/6Fsz3e2FD08hr15PHvCsgI) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn) | 2:51 | 2023-08-04 | 2023-09-07 |
+| [GOMF \(feat\. GloRilla\)](https://open.spotify.com/track/7DbtXoclIdBSaeMWxcTSSY) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GOMF \(feat\. GloRilla\)](https://open.spotify.com/album/7woXVG8V3g8TQjDd8WV5JO) | 2:29 | 2026-04-24 |  |
 | [Good Summer \- Extended](https://open.spotify.com/track/3c7shYrKVEkRb9VZTuSIeo) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Good Summer](https://open.spotify.com/album/3w8GyyoKJWb0IFhGOzwmmm) | 3:04 | 2023-08-11 | 2023-09-02 |
 | [Gorgeous](https://open.spotify.com/track/5e2jIB5KT9kmTDCBzAmvQr) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Controversy](https://open.spotify.com/album/6ZsE1BtC06pff1QvzBSPZ9) | 2:33 | 2023-07-07 | 2024-01-20 |
 | [Got The Juice](https://open.spotify.com/track/4cDMiCvsWskTW4LHtZqscq) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 1:47 | 2024-03-15 | 2024-03-23 |
@@ -1122,6 +1123,7 @@
 | [Wonderful Wayne & Jackie Boy](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 | 2022-12-02 | 2023-02-11 |
 | [Won’t Diss You](https://open.spotify.com/track/0QAusxoKjr4SMYRkC3MkcK) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Won't Diss You](https://open.spotify.com/album/0jMsKWAc6w7ooQTgoXLvFJ) | 2:30 | 2025-07-11 | 2025-08-02 |
 | [WOO \[Feat\. PlayThatBoiZay, Chief Pound\]](https://open.spotify.com/track/4RjLOOdis03Tfu8rpcnUBu) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [Chief Pound](https://open.spotify.com/artist/6LaTLiY08GpquuOk8433Wb) | [SKED \[Feat\. Kenny Mason\]](https://open.spotify.com/album/3ECd3BfxdM6KTjoYpITN0R) | 3:01 | 2023-10-06 | 2023-11-11 |
+| [WOOD WIRE BUFFS](https://open.spotify.com/track/58PXUF42VTAac15PfokNsX) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [WOOD WIRE BUFFS](https://open.spotify.com/album/1ZO1C4JMo3Xvk0kjoSxpoV) | 2:50 | 2026-04-24 |  |
 | [Woozie](https://open.spotify.com/track/2uIukEsbb5yvC3ZK7CWk6G) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Woozie](https://open.spotify.com/album/1p7sH76jGrSLEAX9UzmCpq) | 3:03 | 2022-06-10 | 2022-08-09 |
 | [Woozie](https://open.spotify.com/track/7GDwymep55nRGcr6P7TznN) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Vibe Forever](https://open.spotify.com/album/5ZrM0Brv8XBs3XVHfkd6bk) | 3:03 | 2022-08-05 | 2022-11-19 |
 | [Work For It](https://open.spotify.com/track/7gwEKj4xXm9iRqxGhHxSI4) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 1:46 | 2023-10-20 | 2023-11-11 |

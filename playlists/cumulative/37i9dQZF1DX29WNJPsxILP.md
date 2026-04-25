@@ -2,9 +2,9 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: Yashraj
+> Best of Hindi Hip\-Hop! Cover: Karan Kanchan, Raga & Ikka
 
-317 songs - 16 hr 3 min
+318 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Dua](https://open.spotify.com/track/6khIvDBic1d3weeALlkLIc) | [Hardbone boy](https://open.spotify.com/artist/6YNVY8546Vw6bVjsmUpQPx), [SINASH](https://open.spotify.com/artist/1NOuodJ2U1hMvKYXFJPw5P) | [Dua](https://open.spotify.com/album/7FohwIghliG36Wo0ACvcuM) | 2:33 | 2025-09-23 |  |
 | [Dubai Company](https://open.spotify.com/track/2WPrPbxLa6nmmc57neRHTT) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Dubai Company](https://open.spotify.com/album/6zesrJdInqftcOiyfF2Tdy) | 3:09 | 2025-08-01 |  |
 | [Duniya Makkaar](https://open.spotify.com/track/78C9fInl0QUYAQBsEenYVC) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Eyes On The Prize](https://open.spotify.com/album/1b46lR5SZxbKQrwNikXDQe) | 2:38 | 2023-10-12 | 2025-10-15 |
+| [DURGHATNA](https://open.spotify.com/track/0ZX0lJF6BPlwyG7zHWOP4l) | [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [DURGHATNA](https://open.spotify.com/album/5IYJ0gLk565AaOPQDdM9Ot) | 2:10 | 2026-04-24 |  |
 | [Ep\. 2 \- Medusa Sedusa](https://open.spotify.com/track/3hV7Gs5MYYP9vB0Vmmsny5) | [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp) | [Freeverse Friday 2.0 \(Side A\)](https://open.spotify.com/album/0hhtkjhrujSauKMc8JTZ4q) | 1:02 | 2025-05-09 | 2025-07-12 |
 | [F.D.P](https://open.spotify.com/track/4tL8zamRgVZFxUE1Z2AGIx) | [Baghdadi Music](https://open.spotify.com/artist/4tYgeYn2sHNyRzWqZMyMr0) | [F.D.P](https://open.spotify.com/album/3DxamspkXBbuWWPwfYEtaB) | 2:54 | 2024-09-30 | 2024-12-21 |
 | [F16](https://open.spotify.com/track/2KFuYtZf6KxzDE6PogFxMK) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 3:29 | 2023-03-10 | 2024-09-18 |
@@ -257,7 +258,7 @@
 | [Saza\-E\-Maut](https://open.spotify.com/track/2ikI9Y7PCPIavU0TMSpF31) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Still Here](https://open.spotify.com/album/3TWJqzaophqIi6ZIm5wkux) | 3:00 | 2023-03-10 | 2024-10-01 |
 | [Scarface](https://open.spotify.com/track/3h7QmY0JmabpwNi5ik98H9) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Scarface](https://open.spotify.com/album/6Wl76DPWglh1jNMiozj4zz) | 3:25 | 2025-04-04 | 2025-04-19 |
 | [Scenario](https://open.spotify.com/track/7jCI1QWpKRWyepOBvgHS2s) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS) | [SATTAR](https://open.spotify.com/album/41sSO1HSzxHB5fgbpDLc05) | 2:16 | 2025-05-02 |  |
-| [Seedha Mai Kal Jackson](https://open.spotify.com/track/2ZD1MBpVH33IXunTpuzA0y) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Seedha Mai Kal Jackson](https://open.spotify.com/album/75kBDTiKJU9dfPxXEjzk1p) | 2:35 | 2026-03-27 |  |
+| [Seedha Mai Kal Jackson](https://open.spotify.com/track/2ZD1MBpVH33IXunTpuzA0y) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Seedha Mai Kal Jackson](https://open.spotify.com/album/75kBDTiKJU9dfPxXEjzk1p) | 2:35 | 2026-03-27 | 2026-04-25 |
 | [Sehwag](https://open.spotify.com/track/5jOAVIOdsTusLQaHmGz2bj) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Sehwag](https://open.spotify.com/album/1zDxYpPhKFUaiaXC1dAWEG) | 3:48 | 2023-03-10 | 2023-10-12 |
 | [Shakti Aur Kshama](https://open.spotify.com/track/67CZPR2aGFSTKL1r1zlzN8) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Kshama](https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08) | 4:15 | 2024-12-14 | 2025-02-01 |
 | [Shameless](https://open.spotify.com/track/0CPOHAuGxrX5WczgA4viLN) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Shameless](https://open.spotify.com/album/6qqPdYZa01uw1KeNRch2Mn) | 2:21 | 2025-03-14 |  |

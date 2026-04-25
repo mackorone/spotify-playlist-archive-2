@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 
 > NSFW
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,290 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,297 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 | 59 | [Lala](https://open.spotify.com/track/6zDbBn9GLSwWhWYwAwL2k8) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Lala](https://open.spotify.com/album/40eSFWQby0OzlASShMaeYU) | 3:21 |
 | 60 | [Hold Me](https://open.spotify.com/track/4ZeGRehi5kL2TL4Lkc30Cw) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Bigfootinyourface](https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Eternal](https://open.spotify.com/album/50LpyVLTSFsbTQTLlFiSz7) | 4:21 |
 
-Snapshot ID: `AAAAAA8DhVcvxs5CsE4N1hneSX3jhlyV`
+Snapshot ID: `AAAAAEkNwz6lDPl4SXi3HNHrdPT0vJfj`

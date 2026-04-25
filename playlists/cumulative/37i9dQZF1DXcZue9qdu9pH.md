@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-167 songs - 9 hr 8 min
+167 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [African Girl](https://open.spotify.com/track/7lIHLAlNyxdQUymJfGZxs7) | [Naomi Wachira](https://open.spotify.com/artist/6UzW9COOI8GxiDEmlStQEH) | [African Girl](https://open.spotify.com/album/1H84MYd0SJJdOIsOsXJzX6) | 4:50 | 2024-04-12 | 2024-05-17 |
 | [All Gone](https://open.spotify.com/track/7h2PMXnFCUTR8xeZlscQbR) | [Ntinyari](https://open.spotify.com/artist/6mxky4PjUkwpCDOTdOeksC) | [Six](https://open.spotify.com/album/1QRnVC8V3WrDLqHedi3SMZ) | 4:15 | 2025-04-04 |  |
 | [Alone](https://open.spotify.com/track/37AdCBQAIQAYc37U3xXjO4) | [Don Ngatia](https://open.spotify.com/artist/1tV9xvbUpzKbOGcI1zG6ZP) | [Alone](https://open.spotify.com/album/15hUe2rUYK9WwO86pQ1J0h) | 5:55 | 2023-06-30 | 2023-09-02 |
+| [Amazing](https://open.spotify.com/track/4NKezh0u7JmJF4IVbIVYKc) | [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB), [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba) | [Now it's Experience Talking](https://open.spotify.com/album/5r0GN5MfXy30y940mqBiU5) | 3:38 | 2026-04-23 |  |
 | [Another Man](https://open.spotify.com/track/0W1MXhgqSfscPkvz2ESYHs) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Mombasa's Lover Boy](https://open.spotify.com/album/3dCGhikw2kksr8OMi9HPft) | 2:30 | 2024-04-26 | 2024-11-02 |
 | [Another Mess I Make](https://open.spotify.com/track/27aqkdGNCiEt6o2BLRdbda) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nkatha Muthoni](https://open.spotify.com/artist/6GsjoCCj2BMdqDSjbl6B2P) | [Another Mess I Make](https://open.spotify.com/album/4MpHnTvay6SD8GPU0uCMQ8) | 4:17 | 2025-03-14 |  |
 | [Ayaye](https://open.spotify.com/track/59ArIIBJ8oCy7LnoA8DqYS) | [Labdi](https://open.spotify.com/artist/310NKKgwvfe3k3nf9ug5TZ), [Muhamago](https://open.spotify.com/artist/2FL6QKPB10NHx7Mz3984a1), [Neil Darmon](https://open.spotify.com/artist/5fRLbonokHsHrJ4QYAEPmy), [Marcia Buwa](https://open.spotify.com/artist/3ylkymU6NJUnfJlE4TDzU8) | [Ayaye](https://open.spotify.com/album/6NuWQ7ufbJr5blrk5lcpeP) | 3:23 | 2025-12-11 |  |
@@ -34,7 +35,7 @@
 | [Caught Out](https://open.spotify.com/track/3RwL3Dm5AbICvYXSAGFuu0) | [Athieno](https://open.spotify.com/artist/2Mkt9y1gnzybZCa5R8CNBr) | [Caught Out](https://open.spotify.com/album/51AuQNCfV9SKNR3ivka3wE) | 3:52 | 2023-06-30 | 2023-12-09 |
 | [Chasing Love](https://open.spotify.com/track/0UvDsFVi25ulx7UsoboyLZ) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Chasing Love](https://open.spotify.com/album/4kCSRS7Tr6RMq67l3icaTd) | 3:20 | 2023-06-30 | 2024-05-10 |
 | [ControlS!](https://open.spotify.com/track/43ckrM6WEcb8dRYgzD54VE) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Nesha’s Cypher](https://open.spotify.com/album/0Q1jUGy3d5AG9G7zUjAeRo) | 3:28 | 2024-10-10 |  |
-| [Crimson Sky \- Radio Edit](https://open.spotify.com/track/48QpNkIX5Dz0Cm2qh9zzUt) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn), [Normen Goltz](https://open.spotify.com/artist/3AAL6Hp40AVMA7YLtTeMyT) | [Crimson Sky \(Radio Edit\)](https://open.spotify.com/album/476peAghmC51l3S77Tf1d1) | 3:24 | 2026-04-16 |  |
+| [Crimson Sky \- Radio Edit](https://open.spotify.com/track/48QpNkIX5Dz0Cm2qh9zzUt) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn), [Normen Goltz](https://open.spotify.com/artist/77oDe9o8AZcFFZP5SexdDT) | [Crimson Sky \(Radio Edit\)](https://open.spotify.com/album/476peAghmC51l3S77Tf1d1) | 3:24 | 2026-04-16 |  |
 | [Crocodile](https://open.spotify.com/track/0G0P8mRIdJ0QvoT9g8YANi) | [Cindy Saray](https://open.spotify.com/artist/0tnlDKnp21gh74TmQnpmrk), [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J) | [Crocodile](https://open.spotify.com/album/1VKBWhjqEIzcbGy1U1NS5a) | 3:47 | 2025-08-21 | 2026-03-13 |
 | [Cry In A Lambo Not Prius](https://open.spotify.com/track/5DHuDjgL9QsuQxLTgUYw0G) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [Cry In A Lambo Not Prius](https://open.spotify.com/album/4NFd8aIfaiD64uTUkKfRPK) | 4:03 | 2025-01-17 |  |
 | [Cut Me Down](https://open.spotify.com/track/6g33SNfqUoIcxnNpGfzWak) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/1f0MuY3kBgS1QmAIaRu3kj) | 4:57 | 2023-06-30 | 2024-05-10 |
@@ -156,7 +157,6 @@
 | [Time Allows](https://open.spotify.com/track/2pksmPxpgVX3ocBYtQwqFV) | [Altair Saïd](https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ) | [Time Allows](https://open.spotify.com/album/5OaWBtvTwoJk01EuaIabeV) | 3:51 | 2023-12-08 |  |
 | [Time Oh Time](https://open.spotify.com/track/6rHJRhbbsBeMhHf0El4mze) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Time Oh Time](https://open.spotify.com/album/4xhD7WzuRZN7902flvsrAu) | 2:50 | 2025-04-15 |  |
 | [Too Strong](https://open.spotify.com/track/6If2nmEyWpNEDeqtT1zKUj) | [Mars Maasai](https://open.spotify.com/artist/0OiRYxTqTytbs8aZT4I4zY), [Chevy Kev](https://open.spotify.com/artist/2YUXCCjGjC1ggnAlmzxp0p) | [Too Strong](https://open.spotify.com/album/1eqxzx3k5jnttq3AhOvUQ9) | 2:56 | 2023-06-30 | 2023-12-16 |
-| [Track 4](https://open.spotify.com/track/4NKezh0u7JmJF4IVbIVYKc) | [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB) | [Now it's Experience Talking](https://open.spotify.com/album/5r0GN5MfXy30y940mqBiU5) | 0:00 | 2026-04-23 |  |
 | [Trust Nobody](https://open.spotify.com/track/1f0mXGCUH4Iw0wA6J7kEI3) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4) | [Trust Nobody](https://open.spotify.com/album/63ADqzRK71YK8BXuV8kGME) | 1:52 | 2023-06-30 | 2023-11-11 |
 | [Tugi Track](https://open.spotify.com/track/3oTCklg2zTuc2DuKaVsORp) | [Kelele Kollektiv](https://open.spotify.com/artist/09FoPL4eU26Morxu4yPkzl) | [Kelele, Vol\. 1](https://open.spotify.com/album/0fawT8nfXczFQ8b3DcOgNk) | 4:53 | 2023-06-30 | 2023-11-11 |
 | [Twista](https://open.spotify.com/track/4q4GgG1AzEziL1rBAEFYWK) | [Senté](https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8) | [Twista](https://open.spotify.com/album/6Tx9EbWNn0SfkgEHKtX8W4) | 3:26 | 2025-03-14 |  |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-397 songs - 1 day 12 hr 12 min
+398 songs - 1 day 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Blütezeit](https://open.spotify.com/track/2HbgB9DRq172WNwwu87Sxl) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Alle werden alt](https://open.spotify.com/album/00aDacxHbkR3WvdehjaRU0) | 4:48 | 2025-05-23 | 2026-04-18 |
 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/3EO0GTWEwgVx48VUtj8Wi6) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [90s Summer Hits](https://open.spotify.com/album/2pNtuDfYwYeAKCqT2Ft8gS) | 7:35 | 2023-05-05 | 2023-05-11 |
 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 | 2022-09-16 | 2023-07-15 |
+| [Bravado](https://open.spotify.com/track/6creN9PWg3V2rCPuRhpphR) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Bravado](https://open.spotify.com/album/6q2n9sjPo2MMhXh0HsQ8kD) | 2:37 | 2026-04-24 |  |
 | [Bring The Beat Back](https://open.spotify.com/track/4hGgcWsBUsZfRg5KzxswME) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Bring The Beat Back](https://open.spotify.com/album/2IPRpfBhIj6AwKww7KSPJw) | 3:54 | 2024-10-28 | 2025-05-30 |
 | [Brumcrysle](https://open.spotify.com/track/2VgfEbuQG1Tx3yRuIWRu4V) | [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [Brumcrysle EP](https://open.spotify.com/album/30R3q0gVguoIzMUResWBbn) | 6:02 | 2024-01-26 | 2026-04-18 |
 | [Brushcutter](https://open.spotify.com/track/35ddVA9CFv9ko3v2KZQfBp) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Marley Waters](https://open.spotify.com/artist/7zfGuFhq0tipa6G6aHuMe0) | [Brushcutter](https://open.spotify.com/album/4OifWWoACaTzqafzSDBm5y) | 4:31 | 2025-02-14 |  |

@@ -1,13 +1,37 @@
 {
   "description": "Work out to these high energy numbers! \nCover : Ram Charan",
-  "num_followers": 105840,
+  "num_followers": 105884,
   "original_name": "Telugu Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ5masspjTxBO/LfVOE+8ymP96AT",
+  "snapshot_id": "AAAAALWcDELAkjVCYGq7//+NSONrzVwB",
   "tracks": [
+    {
+      "added_at": "2026-04-24 07:10:26",
+      "album": {
+        "name": "Rara Dheevara (From \"Swayambhu\") (Telugu)",
+        "url": "https://open.spotify.com/album/0nCNfNoL5uidzdzKVft3RB"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 227332,
+      "name": "Rara Dheevara (From \"Swayambhu\") (Telugu)",
+      "url": "https://open.spotify.com/track/1Q8ScqfqhoYC5atHMcCxwE"
+    },
     {
       "added_at": "2026-03-03 06:27:58",
       "album": {

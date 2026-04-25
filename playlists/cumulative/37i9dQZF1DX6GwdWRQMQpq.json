@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Sexyy Red",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Latto & GloRilla",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -1583,6 +1583,24 @@
     },
     {
       "album": {
+        "name": "Best Bitch",
+        "url": "https://open.spotify.com/album/2Z2QLwalMC3lVnVm0AldBl"
+      },
+      "artists": [
+        {
+          "name": "BunnaB",
+          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122185,
+      "name": "Best Bitch",
+      "url": "https://open.spotify.com/track/309ZKuood80t3ULYEZAqmQ"
+    },
+    {
+      "album": {
         "name": "Bestfrenn (feat. GloRilla)",
         "url": "https://open.spotify.com/album/2PH99JWwjb865QK15qvO0m"
       },
@@ -2768,7 +2786,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 217613,
       "name": "Brokey",
       "url": "https://open.spotify.com/track/1JF8LkQWZ8grXb2emqrNKn"
@@ -3324,7 +3342,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 222204,
       "name": "CHR\u00d6ME (feat. slayr)",
       "url": "https://open.spotify.com/track/13bMRD7SZJCqbx4fSGHK0Y"
@@ -5524,7 +5542,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 133276,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/4Qob1cIOK2ENw20RHPf9xT"
@@ -5858,7 +5876,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 230646,
       "name": "Go Girl (with Latto & Doja Cat)",
       "url": "https://open.spotify.com/track/7eCAw2VS0UhbsiSItwWdvl"
@@ -5920,6 +5938,28 @@
       "duration_ms": 106056,
       "name": "GOIN ON",
       "url": "https://open.spotify.com/track/6051w7Fs5675HEW2Tn1eb0"
+    },
+    {
+      "album": {
+        "name": "GOMF (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/7woXVG8V3g8TQjDd8WV5JO"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149640,
+      "name": "GOMF (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/7DbtXoclIdBSaeMWxcTSSY"
     },
     {
       "album": {
@@ -7248,7 +7288,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 124823,
       "name": "Im So ATL",
       "url": "https://open.spotify.com/track/6B3evHyQCMysT7Qa2gEu3A"
@@ -9164,7 +9204,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 167971,
       "name": "Missin' You",
       "url": "https://open.spotify.com/track/3G922nfHctzs57wtJXqxfR"
@@ -10988,7 +11028,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 97702,
       "name": "Peppermint Patty",
       "url": "https://open.spotify.com/track/06ts6KVUM43IVlrZHcg0sR"
@@ -12312,7 +12352,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 143423,
       "name": "Richer Than Alla My Opps",
       "url": "https://open.spotify.com/track/4c5X8bGPA5jbgcNmghr2Ee"
@@ -13461,6 +13501,24 @@
     },
     {
       "album": {
+        "name": "Spend Dat",
+        "url": "https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181391,
+      "name": "Spend Dat",
+      "url": "https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo"
+    },
+    {
+      "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
@@ -13852,7 +13910,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 145617,
       "name": "Tea Time",
       "url": "https://open.spotify.com/track/5Ot37i0Oaep5tpoUi6TnM9"
@@ -15094,7 +15152,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 107940,
       "name": "WE BACK OUTSIDE",
       "url": "https://open.spotify.com/track/1BEsMoxJUeGalSCr7KIKwo"
@@ -15774,6 +15832,24 @@
       "duration_ms": 127559,
       "name": "Wigs",
       "url": "https://open.spotify.com/track/2XdeL4FRkc6ADX4XTcpa0s"
+    },
+    {
+      "album": {
+        "name": "WOAH",
+        "url": "https://open.spotify.com/album/1fFxMza5WpchuZFbIKRNFJ"
+      },
+      "artists": [
+        {
+          "name": "Flau'jae",
+          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "WOAH",
+      "url": "https://open.spotify.com/track/7zO39XFeFtKWpFbYtDTh3Y"
     },
     {
       "album": {

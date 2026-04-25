@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 93884,
+  "num_followers": 93902,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aegPgAAAAACCN6TLkO/3uiC9IzRzG95U",
+  "snapshot_id": "aelhAAAAAABS7jlx6YfnPx5xsRlKHWBo",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aan",
-        "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        },
-        {
-          "name": "Geike",
-          "url": "https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Zoutelande (feat. Geike)",
-      "url": "https://open.spotify.com/track/7MOX3ibncypw3xGb4HZVFA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
         "url": "https://open.spotify.com/album/5JhhV6NYORFNFjJ7Xy270v"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 232666,
       "name": "Holiday In Spain",
       "url": "https://open.spotify.com/track/5OaQpcK7S28EitZlVQbWBQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aan",
+        "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Geike",
+          "url": "https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Zoutelande (feat. Geike)",
+      "url": "https://open.spotify.com/track/7MOX3ibncypw3xGb4HZVFA"
     },
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blauwe Ruis",
+        "url": "https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 261133,
+      "name": "Dichterbij Dan Ooit",
+      "url": "https://open.spotify.com/track/7GUINjT9Hi5zxqL4MgVtwY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt",
         "url": "https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 238083,
       "name": "Laat Me Los",
       "url": "https://open.spotify.com/track/1G7e24hHShCgVSDrtu9k9k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blauwe Ruis",
-        "url": "https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 261133,
-      "name": "Dichterbij Dan Ooit",
-      "url": "https://open.spotify.com/track/7GUINjT9Hi5zxqL4MgVtwY"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alles Blijft Anders",
-        "url": "https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC"
+        "name": "In Het Midden Van Alles",
+        "url": "https://open.spotify.com/album/0x77neZ9jpTsX2RAhdCNB6"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 216586,
-      "name": "Beter",
-      "url": "https://open.spotify.com/track/2r4z1ssYMrH8dlEyLXmpNU"
+      "duration_ms": 278813,
+      "name": "Open Je Ogen",
+      "url": "https://open.spotify.com/track/0TT4Qc6UEJAa9JNq4g714R"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Het Midden Van Alles",
-        "url": "https://open.spotify.com/album/0x77neZ9jpTsX2RAhdCNB6"
+        "name": "Alles Blijft Anders",
+        "url": "https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 278813,
-      "name": "Open Je Ogen",
-      "url": "https://open.spotify.com/track/0TT4Qc6UEJAa9JNq4g714R"
+      "duration_ms": 216586,
+      "name": "Beter",
+      "url": "https://open.spotify.com/track/2r4z1ssYMrH8dlEyLXmpNU"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Francis",
-        "url": "https://open.spotify.com/album/1pgAdTVfRnyzn4AqNXOUZ2"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 206391,
-      "name": "Regen",
-      "url": "https://open.spotify.com/track/46V1YQy4dwmVG9zB5PkawO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live op Concert at SEA 2015",
         "url": "https://open.spotify.com/album/1E2BoVBA043DwqPEdSWNsI"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 282866,
       "name": "Holiday In Spain (feat. Counting Crows) - Live op Concert at SEA 2015",
       "url": "https://open.spotify.com/track/1f3GoYVrEBNdrfNuxGpwQr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Francis",
+        "url": "https://open.spotify.com/album/1pgAdTVfRnyzn4AqNXOUZ2"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 206391,
+      "name": "Regen",
+      "url": "https://open.spotify.com/track/46V1YQy4dwmVG9zB5PkawO"
     },
     {
       "added_at": null,

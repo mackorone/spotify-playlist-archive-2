@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: Isaiah Falls
+> The best in South African and international R&B\. Cover: Sarnilo
 
-635 songs - 1 day 10 hr 13 min
+637 songs - 1 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Bad Habits \- uncut](https://open.spotify.com/track/0f62w1teOSaYgKObtzygaR) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [BLACKsummers'night \(2009\)](https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo) | 5:52 | 2025-02-13 | 2025-03-01 |
 | [Bad Side](https://open.spotify.com/track/1nbpsyj6OIfPV2O6DQsc5r) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Bad Side](https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE) | 2:38 | 2024-08-15 | 2024-12-07 |
 | [Baki Pekee Yako](https://open.spotify.com/track/5WPdyLkd0QNgC2HACe6Rte) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Baki Pekee Yako](https://open.spotify.com/album/4c8e3IiaSk4YAQ5jmb3GOr) | 3:58 | 2024-05-09 | 2024-09-03 |
+| [Bayabika](https://open.spotify.com/track/69JqQWSM7DvRsOK4Ad3BkT) | [Sarnilo](https://open.spotify.com/artist/0ignuXgngSTxY87ZzRwZ8C) | [Bayabika](https://open.spotify.com/album/3e4mQ0S7Ay0EN72JidcWrb) | 2:45 | 2026-04-24 |  |
 | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC) | 3:27 | 2025-02-13 | 2025-03-01 |
 | [bebé](https://open.spotify.com/track/1VzRSPZngDzfXHZNFtKYsW) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Tron Pyre](https://open.spotify.com/artist/3pi8AlHZo5bq0mFi3wZDW8) | [bebé](https://open.spotify.com/album/7iIlZFq4OfdFkEJaPZjl4y) | 3:20 | 2023-10-26 | 2023-12-23 |
 | [Because I Love You](https://open.spotify.com/track/7i2H2HgdJjwpxTRt8NW8jY) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Because I Love You](https://open.spotify.com/album/2OMQXqAU6PSp4q685t3yAU) | 3:31 | 2024-09-11 | 2025-04-25 |
@@ -364,7 +365,7 @@
 | [MICELLAR WATER](https://open.spotify.com/track/1bGO5aoFzejQLjjAs2A02D) | [Roho](https://open.spotify.com/artist/2los7qqYBBSB6dlJ8PQ9hd), [Tyson Sybateli](https://open.spotify.com/artist/7Ea3plMenK7eJQjjTXTfDC) | [VESPER](https://open.spotify.com/album/2oxqAqodD8LNvRdowCYDLN) | 3:09 | 2023-10-12 | 2024-02-09 |
 | [Might Just](https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Do You Still Love Me?](https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX) | 3:43 | 2026-02-06 |  |
 | [Mirror Mirror](https://open.spotify.com/track/0xGeYAUMOeqPrOCK7RKrQH) | [YoursTruly](https://open.spotify.com/artist/3OpHB8JIbNLEXdVxAuluew), [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [For My One](https://open.spotify.com/album/4qPSP697RfT3mL8K5fizfE) | 4:08 | 2024-11-21 | 2025-04-25 |
-| [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 | 2025-09-18 |  |
+| [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 | 2025-09-18 | 2026-04-25 |
 | [Misscomplicationship \- Yolophonik Remix](https://open.spotify.com/track/1ik3F9WhLYRnFroYW3pzyJ) | [Retro Vibe](https://open.spotify.com/artist/6YwTq9An1a91MBtsBMVC4d), [Gemma Fassie](https://open.spotify.com/artist/19dvqSl1KGxLWkMSfJgZSS), [Yolophonik](https://open.spotify.com/artist/3LwIKF4bPDZylPWbHlNeOf) | [Misscomplicationship \(Yolophonik Remix\)](https://open.spotify.com/album/21BfqyBwOTN8auNDYdIFRq) | 3:34 | 2024-08-30 | 2024-09-03 |
 | [Mistaken](https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:41 | 2024-02-08 | 2024-04-26 |
 | [MOOD SWINGS](https://open.spotify.com/track/5U5O7intqiRyiTX8exgicn) | [FLVME](https://open.spotify.com/artist/6WYEyvdqJYDfptrY1ePU7r), [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq) | [THE LOST PACK:, Vol\. 1](https://open.spotify.com/album/5SfFh6PssLFqOWJL5Ws54Q) | 2:56 | 2025-06-13 | 2025-06-20 |
@@ -403,7 +404,7 @@
 | [On My Mama](https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:04 | 2023-10-12 | 2024-04-19 |
 | [On my way!](https://open.spotify.com/track/5gafkd7SV0YJZ3xriEJEqv) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk) | [PINK PM](https://open.spotify.com/album/7Mwbp0ArZhIjOpRdzrGyb8) | 2:34 | 2023-10-12 | 2024-02-09 |
 | [On Our Own](https://open.spotify.com/track/5RgluVKZPb26mnlqM49LQl) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [From Me to You & Only You](https://open.spotify.com/album/50kl134khPMtu1FVrniPmi) | 1:24 | 2025-02-13 | 2025-03-01 |
-| [On Sight](https://open.spotify.com/track/0Tdpdo2ZD1CefcFTTbm0xx) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 4:27 | 2025-04-24 |  |
+| [On Sight](https://open.spotify.com/track/0Tdpdo2ZD1CefcFTTbm0xx) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 4:27 | 2025-04-24 | 2026-04-25 |
 | [One Of These](https://open.spotify.com/track/3SX7xiRjM8X2t5SmIU3aPQ) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3](https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq) | 3:44 | 2024-11-29 | 2025-04-25 |
 | [One Way Ticket](https://open.spotify.com/track/2ILizzTkcXjA6NTioLdeuA) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [You, Me & The 90's](https://open.spotify.com/album/1q5yRbRx2vbUW1e2yqw5Kd) | 3:16 | 2025-05-01 | 2025-06-28 |
 | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/track/3iHpwGD3h3Bj87KrJEBMI4) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/album/4zqd0pJeSANOHYaNRlR4hV) | 3:15 | 2024-09-11 | 2024-11-29 |
@@ -543,6 +544,7 @@
 | [Sweet Escape](https://open.spotify.com/track/5Jkkjn5Ur4cWgJS4taJ9cM) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Sweet Escape](https://open.spotify.com/album/4A8p0LGa7QVi7fv0jtHhEL) | 3:06 | 2024-06-27 | 2024-09-03 |
 | [Sweet Love](https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sweet Love](https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU) | 3:32 | 2025-05-01 | 2025-09-26 |
 | [Sweet Nothing](https://open.spotify.com/track/2LZueKBZ9jGxsYBMueaR4R) | [Nalu](https://open.spotify.com/artist/591xpLmcojVwIHCiMVQ3dq) | [Sweet Nothing](https://open.spotify.com/album/0NbNpeeNiN6lr2O3I6C7y8) | 1:28 | 2023-10-12 | 2024-01-26 |
+| [Sweet Nuthins \(feat\. Leon Thomas\)](https://open.spotify.com/track/1mwWTCmOKSlAaHJWj0or4N) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Kehlani](https://open.spotify.com/album/5KS0QmxwUmSPsolg9VaSAU) | 2:42 | 2026-04-24 |  |
 | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE) | 4:11 | 2024-05-16 | 2024-08-31 |
 | [Sycamore Tree](https://open.spotify.com/track/1qHDg5ObxDpRZjoqPQGIyK) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Sycamore Tree](https://open.spotify.com/album/43aG2nFhrrTXHXjJR2KoFR) | 3:35 | 2025-06-20 | 2025-12-05 |
 | [SYMPHONY](https://open.spotify.com/track/3Zbn9QI4ErtDqBrhQGudMy) | [Oxii Moron](https://open.spotify.com/artist/1eMXbPuLhjzGuW8I2p2XXX) | [The Decompress \(Solace Edition\)](https://open.spotify.com/album/2sc5qvyUNxiAIqtc6sqy6w) | 2:48 | 2024-11-11 | 2025-04-25 |

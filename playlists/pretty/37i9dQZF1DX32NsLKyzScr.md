@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,599,242 likes - 125 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,599,196 likes - 125 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 120 | [Until The Lights Go Out](https://open.spotify.com/track/6xmWDLQBuBjWBc0Ary6wUj) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [CARMA](https://open.spotify.com/artist/5gp0qfvidEBit8aWKh18NA) | [Until The Lights Go Out](https://open.spotify.com/album/6eTCjsz3UJzuGEHVpMXSRZ) | 3:11 |
 | 121 | [Rain](https://open.spotify.com/track/5UzmK3aMmpW9X1pKjRdrMi) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Rain](https://open.spotify.com/album/3BiRyCQFu9ftb7sASphBHQ) | 3:18 |
 | 122 | [Lighter](https://open.spotify.com/track/0LJeMisvD34COpkt7QFFIO) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Lighter](https://open.spotify.com/album/50lrGLN2b1eO2t1rIuzc3h) | 3:07 |
-| 123 | [the time](https://open.spotify.com/track/7DECteJjqNfryTmWFgG1Q9) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Tabi](https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn) | [the time](https://open.spotify.com/album/6tG3LSQaSE9hBKylnA5Gr8) | 2:02 |
-| 124 | [Grove St\. Party](https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd) | [Proppa](https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Grove St\. Party](https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg) | 2:50 |
-| 125 | [Somebody Like You](https://open.spotify.com/track/0mEezkUuKYcxKNdhcnXNIT) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Somebody Like You](https://open.spotify.com/album/7vA6ciINABuYjDPMkF2dxI) | 3:26 |
+| 123 | [Grove St\. Party](https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd) | [Proppa](https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Grove St\. Party](https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg) | 2:50 |
+| 124 | [Somebody Like You](https://open.spotify.com/track/0mEezkUuKYcxKNdhcnXNIT) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Somebody Like You](https://open.spotify.com/album/7vA6ciINABuYjDPMkF2dxI) | 3:26 |
+| 125 | [Hold On](https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Hold On](https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs) | 4:09 |
 
-Snapshot ID: `AAAAANDINuZVdDoCkxVS5EDRe0Nque1K`
+Snapshot ID: `AAAAAKCOxQHVvDtbXrwAtm5YbtXs1oae`

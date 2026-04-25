@@ -1698,7 +1698,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 285226,
       "name": "El Triste",
       "url": "https://open.spotify.com/track/0u7u1vVxQHagcqOK1lANhL"
@@ -1922,6 +1922,24 @@
       "duration_ms": 196415,
       "name": "Favorite Place",
       "url": "https://open.spotify.com/track/523GiEoDg0ulav50HZItuF"
+    },
+    {
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/5NGE6VHVNTLOuvgrtrYmqo"
+      },
+      "artists": [
+        {
+          "name": "Vera Delacruz",
+          "url": "https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173836,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/6it8wBT8PrplRJmTmLojs6"
     },
     {
       "album": {
@@ -2626,7 +2644,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 271691,
       "name": "La Teta Pirata",
       "url": "https://open.spotify.com/track/1VM0zSdOxcFQ0i2bfv39Ql"
@@ -3426,6 +3444,24 @@
       "duration_ms": 232693,
       "name": "M\u00edstica",
       "url": "https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy"
+    },
+    {
+      "album": {
+        "name": "FULGOR",
+        "url": "https://open.spotify.com/album/71boWDrC3NxlItXqFFz42R"
+      },
+      "artists": [
+        {
+          "name": "Verde 70",
+          "url": "https://open.spotify.com/artist/3Of13uTPqUVwBPz8gpz5kN"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235265,
+      "name": "Nada Nada",
+      "url": "https://open.spotify.com/track/18bxrfWPsBRotKXZp5iIk7"
     },
     {
       "album": {

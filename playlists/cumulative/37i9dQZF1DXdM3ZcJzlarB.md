@@ -4,7 +4,7 @@
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Mariano Mellino
 
-367 songs - 1 day 10 hr 35 min
+368 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Circular](https://open.spotify.com/track/69NLNjIbA3aNf1vOV0PLWT) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN) | [Circular](https://open.spotify.com/album/0sneAQVgbeyI1XIRWrUrMN) | 5:19 | 2026-02-20 |  |
 | [Ciudad de Cristal](https://open.spotify.com/track/29NkzAxOEY1BUU2HdWSb2V) | [Juan Baro](https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI) | [Ciudad de Cristal](https://open.spotify.com/album/4wZ6wu7JI91WBBWTw6hXDz) | 4:03 | 2024-02-02 | 2025-03-20 |
 | [Club Del Ocio \- Andrés Moris Remix](https://open.spotify.com/track/0rqfIHj0GdqQ5P9xI2pHMb) | [Madloch](https://open.spotify.com/artist/3iLQiB17qiXyeTKSD8sr2w), [Subnode](https://open.spotify.com/artist/3LLW1zLSHWxtqCLXOBGYD6), [Andrés Moris](https://open.spotify.com/artist/5xF3czoOZ49p8AvxtYLzYy) | [Club Del Ocio \(Andrés Moris Remix\)](https://open.spotify.com/album/2CMALeumdcEHx6QUrPc3Z4) | 7:56 | 2023-11-17 | 2025-03-20 |
+| [Come Inside](https://open.spotify.com/track/3VO7bx0bxXJ8K5Rx4QVJQO) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M) | [Come Inside](https://open.spotify.com/album/1ZGKFD6SpEcceKh66Hw22t) | 3:30 | 2026-04-24 |  |
 | [Communication](https://open.spotify.com/track/0bggrJP8JznNdTkB97U85F) | [Ubbah](https://open.spotify.com/artist/0gSdePQqsO1geT47TcEMal) | [Communication](https://open.spotify.com/album/34WT9PugI9PO5MySOqEWbq) | 3:50 | 2025-06-13 | 2026-01-15 |
 | [Confidence](https://open.spotify.com/track/1DOHyT1tEtZYh8J9jvLGzq) | [Ktrina](https://open.spotify.com/artist/2NW4Gi5HSZrdLpv8MLxL1T), [Geronimo](https://open.spotify.com/artist/37m1wNFQCAtqHDbR30zrAw) | [Confidence](https://open.spotify.com/album/0I8YY90QY7xv31VmPKNJkN) | 5:12 | 2023-11-17 | 2025-06-27 |
 | [Control](https://open.spotify.com/track/1LvIhFKDDezuHsfLpJSPST) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M) | [Control](https://open.spotify.com/album/6kifzL9II6zVZcKvfkSxsA) | 3:37 | 2025-11-07 |  |
@@ -354,7 +355,7 @@
 | [Utopia](https://open.spotify.com/track/3YqN04q8uUceD8HKM0VCd3) | [Stjepanek](https://open.spotify.com/artist/3CbZyG68qYiKTYyN7ya6SG), [Bob Tosh](https://open.spotify.com/artist/3CSNiJzkKeRXlfiXyzEygS) | [Utopia](https://open.spotify.com/album/0eWoQrhgpAaO1RoGQ0G6ck) | 6:57 | 2025-03-19 | 2025-09-26 |
 | [Vectoria \- Original Mix](https://open.spotify.com/track/0Ww28y8TkdNMhijhYgNbe7) | [John Cosani](https://open.spotify.com/artist/2LRGIZMAT8HDCNQvMqgcFg) | [Vectoria](https://open.spotify.com/album/4Vs7EUAgcGDxfZ7SFpauhH) | 8:00 | 2020-09-04 | 2023-11-18 |
 | [Vesper](https://open.spotify.com/track/5QwSKYtSlEJYTkmQGconNk) | [CAMILA \(AR\)](https://open.spotify.com/artist/4XpVMVxOWZuEu4rw7nusFC) | [Vesper](https://open.spotify.com/album/0bXLbgN5wSXw4zxjOiLpEm) | 6:25 | 2025-09-19 |  |
-| [VIP](https://open.spotify.com/track/0LAFayAntIMUW9ymqbb2bv) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [VIP](https://open.spotify.com/album/0FaaeP7LODf38af0yuv2Xd) | 2:37 | 2025-06-20 |  |
+| [VIP](https://open.spotify.com/track/0LAFayAntIMUW9ymqbb2bv) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [VIP](https://open.spotify.com/album/0FaaeP7LODf38af0yuv2Xd) | 2:37 | 2025-06-20 | 2026-04-25 |
 | [Virtual Escape](https://open.spotify.com/track/4lyhpmlKNpMfJrvTadObcV) | [Juan Deminicis](https://open.spotify.com/artist/7DN8Db1uGrW7eUDjKf3Bfi) | [Solar Reign \| Virtual Escape](https://open.spotify.com/album/68StK8Ps3HWU73Do3XwhFe) | 7:18 | 2025-07-11 |  |
 | [Vivere \- Rokazer Remix](https://open.spotify.com/track/4dvU4ZGcBBZtouh6YfMw9t) | [Rocio Portillo](https://open.spotify.com/artist/0IWaN7iu4zEYq5u1jl1lib), [Rokazer](https://open.spotify.com/artist/0kBZmuhkAKIdZE5YVkdhqV) | [Vivere](https://open.spotify.com/album/7zEbJeVhd4FbVv296MIaj7) | 7:09 | 2024-05-24 | 2025-03-20 |
 | [Voltaire](https://open.spotify.com/track/2qNyupNqF0BTrEXAu8DWwy) | [Analog Jungs](https://open.spotify.com/artist/7xsRDdsB4gzJqlbMiuowa1) | [Voltaire EP](https://open.spotify.com/album/1XPSLd8egeo4SE72lE2yjn) | 10:41 | 2020-09-04 | 2023-11-18 |

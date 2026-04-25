@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Lil Zey
 
-961 songs - 1 day 19 hr 4 min
+961 songs - 1 day 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Duman](https://open.spotify.com/track/0XqohwlYkMj73cQHLd57iU) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [Duman](https://open.spotify.com/album/5ykn55qvmYWi9TZAtV25x2) | 3:11 | 2025-09-18 | 2025-10-17 |
 | [DUNYA](https://open.spotify.com/track/1UOmVab2gB09lsu82lSc3r) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [DUNYA](https://open.spotify.com/album/7mNMnXYzlNqqhav7QsETj3) | 2:40 | 2024-01-11 | 2024-03-01 |
 | [Dur gitme](https://open.spotify.com/track/4PGJxIjZCe8DfmTFlcRrXC) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Dur gitme](https://open.spotify.com/album/1fY3EVuSO17sJBtBkyeqRz) | 2:43 | 2025-10-16 | 2025-12-26 |
+| [Dur Kalk](https://open.spotify.com/track/5purCVXkkO7qkXzlGjjKnd) | [Mode XL](https://open.spotify.com/artist/2qpp3Yjdi0E0D0H1d0Phc1) | [Esenboğa](https://open.spotify.com/album/3QGRn64ZxvCYRiSsnj58WW) | 2:48 | 2026-04-23 |  |
 | [Dur Zaman](https://open.spotify.com/track/64LH05bouJluzgi2bgCLyl) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Dur Zaman](https://open.spotify.com/album/4JHqMSyeaQcXnvaTxQH2kT) | 2:13 | 2026-04-09 | 2026-04-24 |
 | [Durdurulamaz](https://open.spotify.com/track/4Ojyj0Z1Vm5eGo1iizETv3) | [Rota](https://open.spotify.com/artist/4m53kPdPFJpnF0qcJqfwNB) | [Durdurulamaz](https://open.spotify.com/album/1nle8x7YA72PKXhOtYMckz) | 2:49 | 2026-01-08 | 2026-01-23 |
 | [Durma](https://open.spotify.com/track/5VQdi4PLP9lmAgrI7t2IUb) | [Spanker](https://open.spotify.com/artist/6wMnkPepu5AcV3w9rtIw09), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Durma](https://open.spotify.com/album/3wwdHNwrDdXK7X4mnQgK9g) | 2:29 | 2023-12-12 | 2024-01-12 |
@@ -596,7 +597,7 @@
 | [Montana](https://open.spotify.com/track/0cytdXOPml6Qn0Auyqf6sE) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Montana](https://open.spotify.com/album/2ZEVATZIJP58cLqAGsDaBy) | 2:30 | 2023-03-30 | 2023-06-16 |
 | [Mosmor Perde](https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Mosmor Perde](https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK) | 2:36 | 2025-05-29 | 2025-08-16 |
 | [MOVIE](https://open.spotify.com/track/3fznN0fNZAuTSu8f0vDO7E) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [MOVIE](https://open.spotify.com/album/2Ly8JjXY6CG8D5m3UUQt9O) | 2:35 | 2023-01-10 | 2023-01-27 |
-| [muamma](https://open.spotify.com/track/6NA2roNRPCo9k2Oprh0zGQ) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [muamma](https://open.spotify.com/album/6eZNFmDx1hVjp3mweyiTEO) | 3:08 | 2026-04-23 |  |
+| [muamma \- ulubatlı](https://open.spotify.com/track/6NA2roNRPCo9k2Oprh0zGQ) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [muamma \(ulubatlı\)](https://open.spotify.com/album/6eZNFmDx1hVjp3mweyiTEO) | 3:08 | 2026-04-23 |  |
 | [Multi\-Milyoner](https://open.spotify.com/track/2IHJ2GtzgmQXFjJ4x2ZAQY) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD), [Vio](https://open.spotify.com/artist/6jTpCdn1rLOY8OPiTlG7Yt) | [Koleksiyoner](https://open.spotify.com/album/00lG7bXzbDDApmB3kupSrf) | 3:07 | 2023-03-23 | 2023-04-07 |
 | [Mülteci](https://open.spotify.com/track/4HaMpkwcCGKDZt72wQNj1x) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Mülteci](https://open.spotify.com/album/0f8FxGc32sNZZaZiLXMGKs) | 2:58 | 2025-11-20 | 2025-12-12 |
 | [Mülteci Kelebekler](https://open.spotify.com/track/5n8guiNcpqpHCHEOkh5xtD) | [Sorgu](https://open.spotify.com/artist/5rfJ3Ece18ZymeMvpMLUvB), [Farazi](https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg) | [Mülteci Kelebekler](https://open.spotify.com/album/0izIY7JgxIwsvmn9eyMRFu) | 2:21 | 2026-01-01 | 2026-01-16 |
@@ -839,7 +840,6 @@
 | [TIRMANDIM](https://open.spotify.com/track/7ozaiwhvK7n71jNoJF2v6y) | [Contra](https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [TIRMANDIM](https://open.spotify.com/album/7fI8MrZfCWgds0YnnRVdPg) | 2:13 | 2025-12-11 | 2025-12-26 |
 | [TİKTOK](https://open.spotify.com/track/3ic4P54j8y17su29vAGYD5) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TİKTOK](https://open.spotify.com/album/22kL0LjMCNE6ssXseUGuGY) | 1:56 | 2025-10-02 | 2025-11-21 |
 | [Tom&Jerry \- Walk And Flow](https://open.spotify.com/track/3xo2UqVRVmjSXtlN83y2Ty) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk) | [Tom&Jerry \- Walk And Flow](https://open.spotify.com/album/6HccvGrEfTb01BHTDTlel7) | 1:34 | 2024-09-19 | 2024-10-04 |
-| [Track 1](https://open.spotify.com/track/5purCVXkkO7qkXzlGjjKnd) | [Mode XL](https://open.spotify.com/artist/2qpp3Yjdi0E0D0H1d0Phc1) | [Esenboğa](https://open.spotify.com/album/3QGRn64ZxvCYRiSsnj58WW) | 0:00 | 2026-04-23 |  |
 | [Trap House](https://open.spotify.com/track/24jJv0eMKXT4MvGKRP70QS) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Mortal Kombat](https://open.spotify.com/album/7wOVZ7Rjv27Gl0kuMhEAyS) | 3:06 | 2026-01-22 |  |
 | [TrapLordz](https://open.spotify.com/track/7gxLEjoKdbRVVobMAzzOsQ) | [Zizzy](https://open.spotify.com/artist/70F9edYyvSgjhSByO9Vwp1), [aspi](https://open.spotify.com/artist/3xkZhfJeT4MB8w7pGhjKGw) | [TrapLordz](https://open.spotify.com/album/69MOoECLlmu7uwOTCe7qaZ) | 3:12 | 2026-01-08 | 2026-01-23 |
 | [Trip attım](https://open.spotify.com/track/3eCpykORJcDHvDWxvrKYDu) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [Trip attım](https://open.spotify.com/album/6AjvqUlpE0M92AH3cTJIAU) | 2:01 | 2023-10-05 | 2024-02-06 |

@@ -427,6 +427,32 @@
     },
     {
       "album": {
+        "name": "2 NIGHTS IN LA",
+        "url": "https://open.spotify.com/album/3gc2GqGyb7pNXvfzZVRBdK"
+      },
+      "artists": [
+        {
+          "name": "PARTYOF2",
+          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
+        },
+        {
+          "name": "Jadagrace",
+          "url": "https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk"
+        },
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222186,
+      "name": "2 NIGHTS IN LA (with Jadagrace & SWIM)",
+      "url": "https://open.spotify.com/track/22zLthzsS7qP84z4ftTxNO"
+    },
+    {
+      "album": {
         "name": "2-3 Zone",
         "url": "https://open.spotify.com/album/2v2ohqVKWPDDfXpVMfuBK8"
       },
@@ -1462,6 +1488,28 @@
       "duration_ms": 167540,
       "name": "All Around The World (with Duckwrth)",
       "url": "https://open.spotify.com/track/3ngEX8ZedhgdYazU5wcKZx"
+    },
+    {
+      "album": {
+        "name": "Method Acting",
+        "url": "https://open.spotify.com/album/7gxOr34oxF5QkbHINYYJ9b"
+      },
+      "artists": [
+        {
+          "name": "NASAAN",
+          "url": "https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz"
+        },
+        {
+          "name": "Bruiser Wolf",
+          "url": "https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180786,
+      "name": "All For Me (starring Bruiser Wolf)",
+      "url": "https://open.spotify.com/track/3FX8IDbL7D2GjYOp1ezUUP"
     },
     {
       "album": {
@@ -4625,6 +4673,24 @@
     },
     {
       "album": {
+        "name": "Buddy 2.0",
+        "url": "https://open.spotify.com/album/35OnBpcEk15GF6DHMIb7ev"
+      },
+      "artists": [
+        {
+          "name": "MAKAVELIGODD",
+          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152185,
+      "name": "Buddy 2.0",
+      "url": "https://open.spotify.com/track/7xJb15GzhdDwZUPHlkQZ4S"
+    },
+    {
+      "album": {
         "name": "Build Me a Way",
         "url": "https://open.spotify.com/album/5MR8fKYnll1WuHP148kma4"
       },
@@ -7702,7 +7768,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 112626,
       "name": "Does It Again (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/5DT58khLtyj8DS38ImspAa"
@@ -8250,7 +8316,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 115955,
       "name": "DRIVER A",
       "url": "https://open.spotify.com/track/5kSuI5ai14nNRgPCG4Y0Vo"
@@ -9918,7 +9984,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 160870,
       "name": "fml .",
       "url": "https://open.spotify.com/track/4mVZ9cv6pGt36VNjm6CTue"
@@ -9994,7 +10060,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 127448,
       "name": "For Myself",
       "url": "https://open.spotify.com/track/3CFPCF3p8SaUE1zm1wgiby"
@@ -11041,6 +11107,28 @@
     },
     {
       "album": {
+        "name": "Good Time Boy",
+        "url": "https://open.spotify.com/album/2BEAAPZoTjQWPj8yIbQDQs"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Fueled by 808",
+          "url": "https://open.spotify.com/artist/48f71oEmAv1S3YX9i5dB9X"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230982,
+      "name": "Good Time Boy",
+      "url": "https://open.spotify.com/track/4uYGT9xCkXYSsHxnbnRqGu"
+    },
+    {
+      "album": {
         "name": "Good Wine",
         "url": "https://open.spotify.com/album/6898YVDudEoCou54LQrbrd"
       },
@@ -11462,7 +11550,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 162538,
       "name": "Half Way",
       "url": "https://open.spotify.com/track/2yaVWV5VHqxhhpal12x4A0"
@@ -16049,6 +16137,24 @@
     },
     {
       "album": {
+        "name": "Long Beach II",
+        "url": "https://open.spotify.com/album/58Tnkq5wIthhSOxMOGMvcC"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225882,
+      "name": "Long Beach II",
+      "url": "https://open.spotify.com/track/6CJvrwGRjODFUSHPaLbBS5"
+    },
+    {
+      "album": {
         "name": "lonrwrld (freestyle)",
         "url": "https://open.spotify.com/album/6UL5LlM8QQ8aY2kQqoqQ7N"
       },
@@ -18256,6 +18362,24 @@
       "duration_ms": 160920,
       "name": "NEB\u00dbLA",
       "url": "https://open.spotify.com/track/5twz7B7OP93F9UTVu1DbaM"
+    },
+    {
+      "album": {
+        "name": "Method Acting",
+        "url": "https://open.spotify.com/album/7gxOr34oxF5QkbHINYYJ9b"
+      },
+      "artists": [
+        {
+          "name": "NASAAN",
+          "url": "https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176798,
+      "name": "Need That",
+      "url": "https://open.spotify.com/track/2dhnxNrViVg0U7WS7f1fFC"
     },
     {
       "album": {
@@ -25316,7 +25440,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 123022,
       "name": "Supa Cousteau (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/51sTnBLIm6aPJ3ogGlMA0g"

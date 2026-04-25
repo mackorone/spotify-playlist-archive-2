@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-1,050 songs - 2 day 15 hr 47 min
+1,051 songs - 2 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [El Kiosko De La Felicidad](https://open.spotify.com/track/3eADkLSJeuvhx41sB6CAMu) | [Javier Calamaro](https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5), [Roberto Musso](https://open.spotify.com/artist/1a2gkj8MKAg0cMnMucsEg2) | [El Kiosko De La Felicidad](https://open.spotify.com/album/6pyjxhlex3Et2ftK5ExlQ7) | 3:53 | 2022-04-01 | 2022-04-14 |
 | [El Manisero](https://open.spotify.com/track/62AqWY1HikFDt0VtSXi6af) | [Ska Beat City](https://open.spotify.com/artist/4ZrOD7qBmuKV06QXkC9j6o), [Sergio Nacif Cabrera](https://open.spotify.com/artist/4ZTC4tmL2WuiKxIzeVvk7e), [Aníbal García](https://open.spotify.com/artist/00i4UEwYipRlV4InMmdePX) | [El Manisero](https://open.spotify.com/album/0mOPMOAM3Bv0ZCj7b7BbSQ) | 3:37 | 2022-03-28 | 2022-04-19 |
 | [El Mar Perdiéndose](https://open.spotify.com/track/79ehsUioP0DkkO9TiMMN7F) | [Fran Busso](https://open.spotify.com/artist/3ulWAHPDwSvZ0G6eaprCuy), [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA) | [El Mar Perdiéndose](https://open.spotify.com/album/4Qofe4A9bhQpGiCkkhGfSf) | 3:35 | 2022-03-28 | 2022-04-10 |
+| [EL MENSAJERO](https://open.spotify.com/track/4xaA635jWzBlMROrqtaa1j) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi), [Cocodrilo P&B](https://open.spotify.com/artist/3PujdPptTBspp23sB8XwOo) | [EL MENSAJERO](https://open.spotify.com/album/4RUDd6gb0SbiptLzTBwuN8) | 2:28 | 2026-04-24 |  |
 | [El Momento Perfecto](https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [El Momento Perfecto](https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS) | 3:21 | 2022-03-24 | 2022-04-20 |
 | [El Oso](https://open.spotify.com/track/3OJmmYGakLvy8kyCIngwcs) | [Antonio Birabent](https://open.spotify.com/artist/66DfDCITtbXcmQnQfOMPqZ), [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [El Oso](https://open.spotify.com/album/415BCQWQc8hrveVOWCc9qH) | 3:28 | 2022-04-01 | 2022-04-14 |
 | [El Oso](https://open.spotify.com/track/5oxyB1v0IUB0QPpTDV4qCV) | [Yacaré Manso](https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [El Oso](https://open.spotify.com/album/7zejnjXEQ8LoNXpzm78zP2) | 3:47 | 2022-04-01 | 2022-04-20 |
@@ -1006,7 +1007,7 @@
 | [Vení Mirá](https://open.spotify.com/track/1eaVLscCKBbqFQWlJM4UVb) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Vivo en el Sillón](https://open.spotify.com/album/7iOslvqM5fW1vfARRkojrO) | 3:44 | 2022-04-01 | 2022-04-07 |
 | [Veredas Opuestas](https://open.spotify.com/track/0vMWJPVfHgXCHdEKZuWm2I) | [Cerro Dublín](https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7) | [Cerro Dublín](https://open.spotify.com/album/5rLCOjWrccuxzkmsPHYWyb) | 2:39 | 2022-04-01 | 2022-04-20 |
 | [Verte](https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Verte](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64) | 2:37 | 2021-12-24 | 2025-08-04 |
-| [Verte Reír](https://open.spotify.com/track/6StWP4Tvs8Ci6QOCIDefYk) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Aunque Cueste Ver El Sol](https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J) | 4:26 | 2022-01-07 |  |
+| [Verte Reír](https://open.spotify.com/track/6StWP4Tvs8Ci6QOCIDefYk) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Aunque Cueste Ver El Sol](https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J) | 4:26 | 2022-01-07 | 2026-04-25 |
 | [Viaje](https://open.spotify.com/track/3BW824tqfWRLv9UC51wwkK) | [Ignacio Agulles](https://open.spotify.com/artist/5OGiIDhzkSxIfmnqVQPVJx) | [Habitar Tu Cosmos](https://open.spotify.com/album/6JVkhlRUkXy1Bpx4YHeSui) | 4:18 | 2022-03-24 | 2022-04-19 |
 | [VIAJERXS](https://open.spotify.com/track/5w9yYfOEV9Eo4ptiMzzuUq) | [Miranda Myndlis](https://open.spotify.com/artist/0PgWnms78CLlPRS1smSAnh) | [VIAJERXS](https://open.spotify.com/album/4STKa7im5mdCeAZqwlnk5s) | 3:46 | 2022-03-28 | 2022-04-19 |
 | [Vida de Topos](https://open.spotify.com/track/3lL9MHVJizb451IfV7h6pj) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Experiencia 432 \(Bulín Finoli\)](https://open.spotify.com/album/6giDhT2UzrxXWmDDALFskA) | 4:09 | 2022-03-28 | 2022-04-14 |

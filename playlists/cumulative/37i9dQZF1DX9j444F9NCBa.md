@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-670 songs - 1 day 10 hr 0 min
+673 songs - 1 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [A Thousand Miles](https://open.spotify.com/track/77VP90xg3Sxi4CoxNmeQJc) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [A Thousand Miles](https://open.spotify.com/album/0dZ2dXRU6ET4oFCA9Csr45) | 3:37 | 2022-12-16 | 2025-02-15 |
 | [A Thousand Miles](https://open.spotify.com/track/37eiKjierQYo0CFbsi67hf) | [Corbin LaRue](https://open.spotify.com/artist/2DeV73WYHR55daVaPNYdl3) | [A Thousand Miles](https://open.spotify.com/album/2HDYebuHk5AtoRyy39VrbY) | 2:37 | 2026-01-09 |  |
 | [A Thousand Years](https://open.spotify.com/track/76UpEg41caDocHgeJKVBFw) | [Benji Noor](https://open.spotify.com/artist/2mOREdC2cTAtN4ErgjQcHC) | [A Thousand Years](https://open.spotify.com/album/0SO2tmZiqgP598lHIoWHI5) | 3:25 | 2022-10-28 | 2025-10-25 |
-| [A whiter shade of pale](https://open.spotify.com/track/7gb7bAdUDArVuoyNh2F90F) | [Zach Flash](https://open.spotify.com/artist/245BfbwD5kOa5wFTd0Bl5w) | [A whiter shade of pale](https://open.spotify.com/album/7MfYvNk4UVEAZgkKZP05eA) | 2:37 | 2023-02-10 |  |
+| [A whiter shade of pale](https://open.spotify.com/track/7gb7bAdUDArVuoyNh2F90F) | [Zach Flash](https://open.spotify.com/artist/245BfbwD5kOa5wFTd0Bl5w) | [A whiter shade of pale](https://open.spotify.com/album/7MfYvNk4UVEAZgkKZP05eA) | 2:37 | 2023-02-10 | 2026-04-25 |
 | [A Whole New World](https://open.spotify.com/track/3ejZDyN8cOcVtK9P8VHfXn) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [A Whole New World](https://open.spotify.com/album/2GNzMTxI3aQ8GJUYfM4yGH) | 3:55 | 2022-01-21 | 2023-06-03 |
 | [abcdefu](https://open.spotify.com/track/5LmO389imtSCtLIGqHeaja) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [abcdefu](https://open.spotify.com/album/4vZDGwZHuzl9IPKqx7BHjX) | 3:36 | 2023-02-10 | 2025-03-18 |
 | [About a girl](https://open.spotify.com/track/0FZ1UyCM42tEduMDozioVD) | [June Hall](https://open.spotify.com/artist/13rPht9NVTTbIU7w4YNKGN) | [About a girl](https://open.spotify.com/album/6EIhyvYZ0Qgx2gtDIZXUCf) | 2:44 | 2023-05-12 | 2025-10-25 |
@@ -116,6 +116,7 @@
 | [Ceilings](https://open.spotify.com/track/7aN6kodJ7XchFIhIBy7Zbr) | [Miriam Modest](https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb) | [Ceilings](https://open.spotify.com/album/0HGBolWimrL2GOslTEDhlU) | 3:00 | 2023-12-08 | 2026-03-05 |
 | [Changes](https://open.spotify.com/track/1sPIqn1zSzBH6XSRN33L4e) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Changes](https://open.spotify.com/album/3EPmgFC6pA8SYeIRMJWwMJ) | 3:09 | 2023-10-06 | 2026-03-05 |
 | [Chasing cars](https://open.spotify.com/track/2mZRkIWQS1hqjLeCOFOoOL) | [Anissa Henderson](https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE) | [Somewhere only we know](https://open.spotify.com/album/7sTmrR8KKOUvFIM1RgeSbx) | 3:40 | 2022-12-02 | 2023-04-14 |
+| [Chasing Cars](https://open.spotify.com/track/6l6v6SjJ75OKVOA8s1h0ud) | [Otis J\. Hart](https://open.spotify.com/artist/5PN2bToM1pb2WeRrMInjfT) | [Chasing Cars](https://open.spotify.com/album/2daQR7nBVg5fUH8SX6O0Q7) | 3:19 | 2026-04-24 |  |
 | [Chasing Cars](https://open.spotify.com/track/1L6AJIHq3ZQEBVGGvlltTp) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Chasing Cars](https://open.spotify.com/album/43yyM9q71QSiFRV2ZriGcq) | 2:40 | 2023-04-14 | 2026-03-05 |
 | [Children](https://open.spotify.com/track/1HK3acWRuxitbvqiHuzDeB) | [Caio Ghisi](https://open.spotify.com/artist/2nPDE1Hn3O6VYxJAjHLcsp) | [Children](https://open.spotify.com/album/14SHD5kzW5k7DHfHYmbN24) | 3:06 | 2022-09-30 |  |
 | [Children Will Listen](https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT) | [Belinda Myers](https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8) | [Defying Gravity](https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb) | 2:23 | 2022-01-21 | 2023-04-14 |
@@ -145,6 +146,7 @@
 | [Diamonds and Pearls](https://open.spotify.com/track/3WKpflEjBgrePheA5AzsU1) | [Simon Westman](https://open.spotify.com/artist/5BfaOl251rYEVEU1RCwzSW) | [Diamonds and Pearls](https://open.spotify.com/album/7IBC5tXIczTPEPbSIlUGd1) | 2:57 | 2022-05-18 |  |
 | [Die 4 Me](https://open.spotify.com/track/6UFkfO4Hn0RCiUoL270dpq) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Die 4 Me](https://open.spotify.com/album/4zluT7uuTQrgz55gESxfZe) | 2:36 | 2023-04-28 | 2026-03-05 |
 | [Die With A Smile](https://open.spotify.com/track/3NbO3rVszlJViICwud48IU) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Die With A Smile](https://open.spotify.com/album/1MttF66Wfhp9pwZTLy26mg) | 3:18 | 2024-11-08 |  |
+| [Dive](https://open.spotify.com/track/77WVPfm3iseIYSEzrarIMC) | [Simon Koch](https://open.spotify.com/artist/6X1UMdYVnTzCJgLryxnbcs) | [Dive](https://open.spotify.com/album/510NDFUG6t6G6ESArhK9HS) | 2:03 | 2026-04-24 |  |
 | [Does Your Mother Know](https://open.spotify.com/track/6juhT2a3M7NmCA085Kb1w0) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Does Your Mother Know](https://open.spotify.com/album/7LF6CwL6GELbzGZKcchpiK) | 3:18 | 2024-02-09 | 2025-10-25 |
 | [Don't Dream It's Over](https://open.spotify.com/track/4OECCOjePxmHXVGo54go9F) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Don't Dream It's Over](https://open.spotify.com/album/4Tn2th2kFSCl3dbHNFdE3y) | 3:08 | 2023-02-10 | 2025-08-30 |
 | [Don't Kill My Vibe](https://open.spotify.com/track/6vB8QDhABiypQcVNpEOuQV) | [Franz Schröder](https://open.spotify.com/artist/5eK0TWmJd1D9tqBEVUe7xf) | [Don't Kill My Vibe](https://open.spotify.com/album/1Rv2l98pHdPeY1P2a76264) | 3:07 | 2022-05-18 | 2023-05-12 |
@@ -237,6 +239,7 @@
 | [Hallelujah](https://open.spotify.com/track/4XEUSUpttuCvxb7GRjJ25m) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Hallelujah](https://open.spotify.com/album/1iVvvLJnu0tor0jYxMeSCw) | 1:51 | 2023-05-12 | 2023-08-11 |
 | [Hallelujah](https://open.spotify.com/track/4vXkT1Dgel9Y3W9V3IvM74) | [William Chu](https://open.spotify.com/artist/1OMbaqIBBz86y7FdoMcwMv) | [Hallelujah](https://open.spotify.com/album/38alZxIo99eD19U9ldrQSl) | 2:44 | 2022-10-14 | 2022-12-02 |
 | [Hallelujah \- Piano Version](https://open.spotify.com/track/7tW7bfj8kHzZREXxNXzCG5) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Piano Covers no 1](https://open.spotify.com/album/1e92hWodKmzfDtXDaAyEiP) | 3:35 | 2022-12-02 | 2023-05-12 |
+| [Halo](https://open.spotify.com/track/6y3Ln36W3etBvihBNgVMwB) | [Jade Crowley](https://open.spotify.com/artist/5TrocNkTBQ5FOssBB0BXfB) | [Halo](https://open.spotify.com/album/3a9v8OnBE4frUUoOHXpOIP) | 2:33 | 2026-04-24 |  |
 | [Halo](https://open.spotify.com/track/4lu6zYkghmAlCnDcgKqJcY) | [Mia Carrera](https://open.spotify.com/artist/00zoOzjXViIF4Fs8XQSK9m) | [Halo](https://open.spotify.com/album/0ud9AD3KGlQX1NRLJQpOQ4) | 3:30 | 2022-01-21 | 2026-03-05 |
 | [Hang with me](https://open.spotify.com/track/2czKMSrneOvVEOf2siVEiq) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Hang with me](https://open.spotify.com/album/6FlFjvvHYpeFPDnNqkkowH) | 3:02 | 2023-03-17 | 2026-01-28 |
 | [Happier Than Ever](https://open.spotify.com/track/4SKDQlj3g2vIS9AD1C5No9) | [Sarah Lauren](https://open.spotify.com/artist/5vblz7nYQR7uwDnbl38gEL) | [Happier Than Ever](https://open.spotify.com/album/0up0W5DjP25o6LtF9DF8jJ) | 2:57 | 2022-01-21 | 2023-03-25 |
@@ -384,7 +387,7 @@
 | [Memory](https://open.spotify.com/track/39NCTTGsonWEzH0UjuYQsx) | [Alva Nørgaard](https://open.spotify.com/artist/7HIFfx126uBOqh9lGH8z2b) | [Memory](https://open.spotify.com/album/3HOiwKAEH7XRZQThMUm6yZ) | 3:43 | 2022-10-14 | 2023-11-17 |
 | [Messy](https://open.spotify.com/track/4I1wozDwzAFJTM7UYTJWq7) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Messy](https://open.spotify.com/album/6R005fo5kfudPwHT6JcyYS) | 3:18 | 2025-04-07 |  |
 | [Michelle](https://open.spotify.com/track/426m22xIyYxlPJJdWUJVLG) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Michelle](https://open.spotify.com/album/6q7FMxN2FpBotFqLnioQck) | 3:32 | 2022-12-02 | 2024-06-21 |
-| [Middle of the Night \- Piano](https://open.spotify.com/track/2K97GriUyHINnzuDsmTfkP) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Middle of the Night \(Piano\)](https://open.spotify.com/album/4xjraR8hKCk9hmUAQt5ipb) | 2:56 | 2022-10-14 |  |
+| [Middle of the Night \- Piano](https://open.spotify.com/track/2K97GriUyHINnzuDsmTfkP) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Middle of the Night \(Piano\)](https://open.spotify.com/album/4xjraR8hKCk9hmUAQt5ipb) | 2:56 | 2022-10-14 | 2026-04-25 |
 | [Middle of the Night \- Piano](https://open.spotify.com/track/7F3DCWB2PsadGC0iE1btUU) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Middle of the Night \(Piano\)](https://open.spotify.com/album/0ngulRajtwlyMSvhvkeIIh) | 2:56 | 2023-03-24 | 2024-04-19 |
 | [Midnight Rain](https://open.spotify.com/track/2O0NykJV0XOkbHAsedN21s) | [Zion Houston](https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj) | [Midnight Rain](https://open.spotify.com/album/1IV7ToivCrCyOBoQMbKGok) | 2:09 | 2022-12-02 | 2026-03-05 |
 | [Midnight Sun](https://open.spotify.com/track/4NfqOLPYiJyc9G6ph9UuMZ) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Midnight Sun](https://open.spotify.com/album/6sMhEX0noNb7GCGdacBdo7) | 4:23 | 2026-03-04 |  |
@@ -449,7 +452,7 @@
 | [Reflection](https://open.spotify.com/track/2L2QTOdjLXJ8sg0zF9JRa9) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Reflection](https://open.spotify.com/album/1b9Y5HENJ6zkmYNtrKsVms) | 2:50 | 2022-09-30 | 2023-03-25 |
 | [Rewrite The Stars](https://open.spotify.com/track/6osJpF4LOPQx6Q7XkLoiKr) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [Rewrite The Stars](https://open.spotify.com/album/6QcEbkz1ZSWiQ5OR4TS4lw) | 3:50 | 2023-02-10 | 2023-04-29 |
 | [Right Here Waiting](https://open.spotify.com/track/6ULMLA6uLwvbMMYprohGHH) | [Korina Bedoya](https://open.spotify.com/artist/4NGAeafqorkBEwYlBZHnpt) | [Right Here Waiting](https://open.spotify.com/album/5QeI18uS9Z91uqZzpVnDcH) | 3:08 | 2023-01-06 | 2026-03-05 |
-| [Ring of Fire](https://open.spotify.com/track/2QxjuojRvon4Ibwjxhz6Sb) | [Olavi Heed](https://open.spotify.com/artist/5SPqbJUyrKqG0sWvYDecAa) | [Ring of Fire](https://open.spotify.com/album/7wZzq2moVmJn9zbljYIVKE) | 2:54 | 2026-02-13 |  |
+| [Ring of Fire](https://open.spotify.com/track/2QxjuojRvon4Ibwjxhz6Sb) | [Olavi Heed](https://open.spotify.com/artist/5SPqbJUyrKqG0sWvYDecAa) | [Ring of Fire](https://open.spotify.com/album/7wZzq2moVmJn9zbljYIVKE) | 2:54 | 2026-02-13 | 2026-04-25 |
 | [Riptide](https://open.spotify.com/track/1ZqvGobiP3nEHASAry5SdN) | [Liam Dunn](https://open.spotify.com/artist/6QpB7K9h7sFd0acffHgrwb) | [Riptide](https://open.spotify.com/album/30oZC5zwXPQU272JVU8B1k) | 2:12 | 2023-10-06 |  |
 | [Risk It All](https://open.spotify.com/track/7vCv6VMg0PUQHTiVFHlcqN) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Risk It All](https://open.spotify.com/album/4Ws4t94Ln5VgNKCZbJoL3C) | 2:35 | 2026-03-20 |  |
 | [River](https://open.spotify.com/track/5Jbp8J5xuVv6gd3TBR1Zvk) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [Christmas Lights](https://open.spotify.com/album/0AArO6paluj1u7vrmEBATx) | 4:10 | 2022-10-28 | 2023-03-18 |

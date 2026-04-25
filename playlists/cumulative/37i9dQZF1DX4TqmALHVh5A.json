@@ -2585,6 +2585,24 @@
     },
     {
       "album": {
+        "name": "FRAGILE HARDCORE",
+        "url": "https://open.spotify.com/album/3MuOzXHWsVlVfWTcwK4lOA"
+      },
+      "artists": [
+        {
+          "name": "Liv del Estal",
+          "url": "https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156914,
+      "name": "fragile hardcore",
+      "url": "https://open.spotify.com/track/223MDZteznzgYiVX9QT5vB"
+    },
+    {
+      "album": {
         "name": "garder le sourire",
         "url": "https://open.spotify.com/album/0wfYUBvdlAJEdp3lsK2Lv8"
       },
@@ -7948,24 +7966,6 @@
       "duration_ms": 165500,
       "name": "Tovsk",
       "url": "https://open.spotify.com/track/3eE3crzsKJ2PaNQ8Ql0nzD"
-    },
-    {
-      "album": {
-        "name": "FRAGILE HARDCORE",
-        "url": "https://open.spotify.com/album/3MuOzXHWsVlVfWTcwK4lOA"
-      },
-      "artists": [
-        {
-          "name": "Liv del Estal",
-          "url": "https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/223MDZteznzgYiVX9QT5vB"
     },
     {
       "album": {

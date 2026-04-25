@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36zsTggrmF8.md) - [plain]
 
 > PUTTY SATIN BLUSH, curated by <a href="https://open.spotify.com/artist/08HQp2HGuXD10o7v6kJiqJ?si=n\-YJoeRsSj2XHTG\_NmkGDQ">Charles Jeffrey</a> 💋 Queer cult classics to post punk jewels and cinematic music that will make you laugh or cry!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,340 likes - 44 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,341 likes - 44 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36zsTggrmF8.md) - [plain]
 | 29 | [I Feel Cream](https://open.spotify.com/track/5J2sl8oHdf97u2T68vEu1J) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [I Feel Cream](https://open.spotify.com/album/6kceeYJdBMthVBI7VLKpoQ) | 4:31 |
 | 30 | [Supermayer Lost In Tiergarten](https://open.spotify.com/track/528wnMEbLU6u5QPXK13T4X) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Supermayer](https://open.spotify.com/artist/0xe3cDuR59Zm2RrkOSDkFO) | [Tiergarten \(International Version\)](https://open.spotify.com/album/4bXtPx6dwwC1ZL6IdIxgRO) | 13:57 |
 | 31 | [Sensitive Child](https://open.spotify.com/track/2VlcoYEtFyoKW6YETFUW6B) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Hideous Bastard](https://open.spotify.com/album/4l3zlqIjR8K1tB1b8Yyn0f) | 3:01 |
-| 32 | [Pearl](https://open.spotify.com/track/1kJEcwhHsxaglVIc2YMfC6) | [Walt Disco](https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I) | [Pearl](https://open.spotify.com/album/3KLcVMl6npKqtFI4NQKTdt) | 2:39 |
+| 32 | [Pearl](https://open.spotify.com/track/1kJEcwhHsxaglVIc2YMfC6) | [walt disco](https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I) | [Pearl](https://open.spotify.com/album/3KLcVMl6npKqtFI4NQKTdt) | 2:39 |
 | 33 | [Welcome to Asteria](https://open.spotify.com/track/2m0IxlQRZ6FHxWjp5yty4m) | [Luca Manning](https://open.spotify.com/artist/3NmLzHbOSrti6hD01vkqMk) | [Welcome to Asteria](https://open.spotify.com/album/7ifpuwwEP6kCyF088SHF4f) | 2:16 |
 | 34 | [SUN \- NEKO \- Planningtorock's 'Planningtosun' VERSION](https://open.spotify.com/track/7Bsn5KZFCBsQp0LPrE4Erg) | [Charles Jeffrey LOVERBOY](https://open.spotify.com/artist/08HQp2HGuXD10o7v6kJiqJ), [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [SUN \- NEKO \(Planningtorock's 'Planningtosun' VERSION\)](https://open.spotify.com/album/0TMpqrwBTUoybuYSc7Z05h) | 4:42 |
 | 35 | [Street Violence](https://open.spotify.com/track/539FO8isjWvaCiJ7fJ7Q1X) | [Tom Rasmussen](https://open.spotify.com/artist/1FWk2wt5rW1viTKVsPd4Gf) | [Body Building](https://open.spotify.com/album/4Nk6hRlOPSVUiER6Ou43pZ) | 5:05 |

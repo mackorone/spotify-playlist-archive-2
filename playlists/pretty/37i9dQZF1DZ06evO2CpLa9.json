@@ -1,12 +1,12 @@
 {
   "description": "This is Santa Fe Klan. The essential tracks, all in one playlist.",
-  "num_followers": 568925,
+  "num_followers": 568939,
   "original_name": "This Is Santa Fe Klan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aegPgAAAAAAR1/cgwnngHytvjK2x743G",
+  "snapshot_id": "aelhAAAAAAA0bVqVRDFlSaAqjAzzQGK6",
   "tracks": [
     {
       "added_at": null,
@@ -335,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "ASI SOY",
+      "url": "https://open.spotify.com/track/7hKQ7zOwIbaWNfOozCK5hC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yo Seguir\u00e9",
         "url": "https://open.spotify.com/album/5NwFvLJWl7Ehwe8R4BFgJN"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 232960,
       "name": "Yo Seguir\u00e9",
       "url": "https://open.spotify.com/track/07VIbpia09fYA7Z9GpY4c6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "ASI SOY",
-      "url": "https://open.spotify.com/track/7hKQ7zOwIbaWNfOozCK5hC"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A LA ORDEN",
-        "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 175058,
-      "name": "A LA ORDEN",
-      "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Planta Medicinal",
         "url": "https://open.spotify.com/album/34IUdftCspXWGfSQXIvu5E"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 227735,
       "name": "Planta Medicinal",
       "url": "https://open.spotify.com/track/1UpJMfx6fGd6HvZxz9fFjt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A LA ORDEN",
+        "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 175058,
+      "name": "A LA ORDEN",
+      "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
     },
     {
       "added_at": null,
@@ -1015,6 +1015,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Velorios",
+        "url": "https://open.spotify.com/album/578mjv4Zfjl4ZP0CZaWmI9"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 166363,
+      "name": "Velorios",
+      "url": "https://open.spotify.com/track/3stp1Fb0YGmLDeDoaLw1cC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HECHO M13RD4",
         "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 213773,
       "name": "Camina Sola",
       "url": "https://open.spotify.com/track/1wmcdpR6xizYnjgw0lC3tv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Velorios",
-        "url": "https://open.spotify.com/album/578mjv4Zfjl4ZP0CZaWmI9"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 166363,
-      "name": "Velorios",
-      "url": "https://open.spotify.com/track/3stp1Fb0YGmLDeDoaLw1cC"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie\. Cover: Kape Yeel
 
-1,228 songs - 2 day 22 hr 39 min
+1,228 songs - 2 day 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [DeLorean](https://open.spotify.com/track/0b4b7Em3xHYHAXVQ0KQReI) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [DeLorean](https://open.spotify.com/album/5P1w7q0aU3Zo2GiviyKfJN) | 3:31 | 2025-01-23 | 2025-04-18 |
 | [Demons](https://open.spotify.com/track/38VyxEI8InzvhKZfQJfKEM) | [Ji Nilsson](https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY) | [Demons](https://open.spotify.com/album/5jUs3aZpuNvoxD0IkLsUfl) | 2:50 | 2025-08-21 | 2025-09-12 |
 | [Den enda du har](https://open.spotify.com/track/4qhTYbdnPbpZr2SQgStJrP) | [Nektar](https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d) | [Den enda du har](https://open.spotify.com/album/1gwhFxLUwG7QFmKiibz01j) | 4:46 | 2025-09-18 |  |
+| [Depreshmode](https://open.spotify.com/track/5AMv82UWh8QC7dA6dTNYn9) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Depreshmode](https://open.spotify.com/album/1GSOOLlwoBDAStBgRuVIXd) | 4:14 | 2026-04-23 |  |
 | [Desperate Guy](https://open.spotify.com/track/6xFfkCoIq0U48OFobEO2Kk) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Desperate Guy](https://open.spotify.com/album/0s0Xkv0CveetgYMQDMaPA9) | 2:36 | 2024-09-12 | 2024-11-15 |
 | [Destinies and Melodies](https://open.spotify.com/track/6RwUZYCQSo6OUl6SxJ5214) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Destinies and Melodies](https://open.spotify.com/album/5zMmEBwc2zkcr8HfKLijg9) | 2:45 | 2025-12-04 |  |
 | [Det enda som finns kvar](https://open.spotify.com/track/7FDe1dQOjhBHgujNmJem6B) | [Dalmatin](https://open.spotify.com/artist/6Fydl2UeADvnfloGHWW4uJ) | [Allting är en tavla](https://open.spotify.com/album/4FKP1SLfGC86LS4DGTsgaA) | 3:09 | 2025-09-11 | 2026-01-16 |
@@ -1109,7 +1110,6 @@
 | [Too Strange For The Air \(From the Motion Picture "Vejen Hjem"\)](https://open.spotify.com/track/4ouU2YHgbaFNVU84Hip1Od) | [Alex Vargas](https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF) | [Too Strange For The Air \(From the Motion Picture "Vejen Hjem"\)](https://open.spotify.com/album/21ljhUbsZ6Vym1xzNbLPHM) | 4:29 | 2024-12-05 | 2025-02-07 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-08-16 |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-07 | 2025-05-16 |
-| [Track 1](https://open.spotify.com/track/5AMv82UWh8QC7dA6dTNYn9) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Depreshmode](https://open.spotify.com/album/1GSOOLlwoBDAStBgRuVIXd) | 0:00 | 2026-04-23 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 |  |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-07-04 |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-10-10 |

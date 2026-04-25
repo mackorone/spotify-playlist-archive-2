@@ -1882,10 +1882,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 227266,
       "name": "Substitute",
       "url": "https://open.spotify.com/track/6Ht0wBgRgLQPjIQKks766b"
+    },
+    {
+      "album": {
+        "name": "Who's Breakthroughs",
+        "url": "https://open.spotify.com/album/7aVV2F19bvzh2Z9onHrKBg"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227213,
+      "name": "Substitute - Single Version / Mono Version",
+      "url": "https://open.spotify.com/track/2x4QFtQdPS0IijZmp4PPXA"
     },
     {
       "album": {

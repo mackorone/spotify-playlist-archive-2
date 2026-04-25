@@ -2,7 +2,7 @@
 
 ### [RAP 91 Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX)
 
-> Best of Punjabi Hip\-Hop! Cover:  Shubh
+> Best of Punjabi Hip\-Hop! Cover:  AP Dhillon & Shinda Kahlon
 
 329 songs - 16 hr 14 min
 

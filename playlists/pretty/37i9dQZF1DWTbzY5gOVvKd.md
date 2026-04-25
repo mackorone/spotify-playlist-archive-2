@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,297,334 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,297,365 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 96 | [A Sunday Kind Of Love](https://open.spotify.com/track/27zwk7cQ2s6sM3tiYgGVsF) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1GHLXZszNeMFgHiolSg50f) | 4:52 |
 | 97 | [But Beautiful](https://open.spotify.com/track/7mOnmZ2OWGfNMXEBIf3aUS) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [Every Star Above](https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t) | 3:55 |
 | 98 | [Unforgettable](https://open.spotify.com/track/3hMtwMsTU2H3iD5mu0cpiE) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh), [Reuben Rogers](https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL), [Taylor Eigsti](https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp) | [Unforgettable](https://open.spotify.com/album/6HiKJ6DURPZIyr837e7rBX) | 2:56 |
-| 99 | [One Step Ahead](https://open.spotify.com/track/0MaUUswNytVFfcYYXfvpRQ) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [One Step Ahead \- Single](https://open.spotify.com/album/6fIfmucwqUc3n0pjg2kEy6) | 2:09 |
-| 100 | [Make It Last](https://open.spotify.com/track/3VzeSqVwct8obcWD7vXx2i) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/18lQLYFiArp3m9sT7OZ7Dj) | 5:16 |
+| 99 | [Blue Moon](https://open.spotify.com/track/5qwcaOKZbXMze0ChEL4MsX) | [Jaimee Paul](https://open.spotify.com/artist/09VxnBvEC5lDFLmMkEYOmr), [Andre Reiss](https://open.spotify.com/artist/1O4RYTCy8m5JgaPpxytDDE), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [The Richard Rodgers Songbook](https://open.spotify.com/album/2nsWi2RA4XDmgOuuMKW87h) | 3:27 |
+| 100 | [One Step Ahead](https://open.spotify.com/track/0MaUUswNytVFfcYYXfvpRQ) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [One Step Ahead \- Single](https://open.spotify.com/album/6fIfmucwqUc3n0pjg2kEy6) | 2:09 |
 
-Snapshot ID: `AAAAAJQ8S3ZsVKoqmkwrMxnUQrpTZxZX`
+Snapshot ID: `AAAAANJcaIdjZSiYunHR2+kwsFRa1rqH`

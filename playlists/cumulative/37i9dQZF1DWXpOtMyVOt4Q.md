@@ -4,7 +4,7 @@
 
 > Relaxed beats to game, vibe and stay unbothered
 
-377 songs - 19 hr 36 min
+379 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [L](https://open.spotify.com/track/6brTu7TkwXtFMjQgcxkMA4) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Awake](https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9) | 4:37 | 2019-12-16 | 2022-09-01 |
 | [Laima](https://open.spotify.com/track/6PpMdhcYDQ1LXxyXTiW7LK) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Laima](https://open.spotify.com/album/1U8sWh8bhpOzZRba5KzbZm) | 4:07 | 2026-01-29 |  |
 | [laleconparticulere.](https://open.spotify.com/track/3sUo9q67Pl3izLgUgfyHKK) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [laleconparticulere.](https://open.spotify.com/album/4koTRhv7vJHays2gNvf31v) | 1:03 | 2023-11-29 | 2025-03-18 |
+| [Last Flight Home](https://open.spotify.com/track/74cIJLvDb0MqZeFWYFISIJ) | [Crystal Motel](https://open.spotify.com/artist/6UD8pS3KW4GX4PPxza4OW3) | [Last Flight Home](https://open.spotify.com/album/3TS7vwd8nyPCSTh2I7cCY1) | 2:13 | 2026-04-24 |  |
 | [Last Words](https://open.spotify.com/track/1rOKAsJZJDIikOKDeUfPRV) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:49 | 2022-08-31 | 2024-05-09 |
 | [Let Go](https://open.spotify.com/track/07Mde29eZ6MxAErYEwI5eG) | [ghostlycheeks](https://open.spotify.com/artist/4uQ0iSRBd2jAuRtxaelbnv) | [Let Go](https://open.spotify.com/album/1YO2U8t5Enh14ouHTKGR4k) | 3:30 | 2023-09-08 | 2023-11-30 |
 | [Let It Go](https://open.spotify.com/track/3gBnmlTKVkAL0JnclQuz8s) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Let It Go](https://open.spotify.com/album/5QWRTAdCTbDLhjEWbG1odA) | 2:35 | 2022-08-31 | 2022-09-03 |
@@ -361,6 +362,7 @@
 | [Una Mattina](https://open.spotify.com/track/42MVaS7YXlnjRqZBdDcr4Q) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Una Mattina](https://open.spotify.com/album/4LYtNC6YWam4WW1KxATidg) | 3:23 | 2024-05-08 | 2025-03-18 |
 | [unconscious](https://open.spotify.com/track/0TMta5TSf2nTRhU0VUWrr8) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur), [Etsu](https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk) | [among the stars](https://open.spotify.com/album/1sa2gJbqfvcbYyjJmwCHL9) | 1:36 | 2023-11-29 | 2024-05-09 |
 | [unconscious](https://open.spotify.com/track/20pZcg9G1bmCxFaBvpyhf5) | [MP3vius](https://open.spotify.com/artist/5iUQH6x3hiVg6Le2KLWBZQ), [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z) | [unconscious](https://open.spotify.com/album/3yF4I91M9OWBIchfPQb2QK) | 2:20 | 2022-09-02 | 2022-09-22 |
+| [Underpass Reverie](https://open.spotify.com/track/5YPZBk1PtKjY4UzR7N8US9) | [Night Shapes](https://open.spotify.com/artist/6PRP1lwrRpqb8gfYERsnhV) | [Underpass Reverie](https://open.spotify.com/album/6CW2fbIEzrUZVF0V3ooZcz) | 2:28 | 2026-04-24 |  |
 | [Underwater](https://open.spotify.com/track/5TNDBtPIkduKFGdMSkOPQG) | [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Cold Thoughts](https://open.spotify.com/album/6j9efsz6v7I0WkDaHDrWfW) | 2:26 | 2022-08-31 | 2023-09-09 |
 | [Unravel \(From "Tokyo Ghoul"\)](https://open.spotify.com/track/5QOEvQ6z99KqGKGxz1yk6B) | [Palademix](https://open.spotify.com/artist/1M0ElT5wAoUe4uiNkp9BUh), [Nostalgic](https://open.spotify.com/artist/3V3FLYaI3cvXailPZOtcnl) | [Anime Lofi Beats](https://open.spotify.com/album/7xB0XmIJQxRoxK9mfLOgH6) | 2:48 | 2022-08-31 | 2022-10-06 |
 | [Until We Meet Again](https://open.spotify.com/track/78CpmGK47wePWOuKZhnus1) | [Peak Twilight](https://open.spotify.com/artist/25qDYhjZHVzZS6sOVzAVAx), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Departure](https://open.spotify.com/album/18OPZkuFLk129TscAuoDN7) | 3:09 | 2022-08-31 | 2023-09-09 |

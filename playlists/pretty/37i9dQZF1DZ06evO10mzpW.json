@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aegPgAAAAAAEcYZGzoqIy8sJ1gDX22kL",
+  "snapshot_id": "aelhAAAAAAD3IsMgTRuVrdcDGseXJzRU",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
       "duration_ms": 574293,
       "name": "Freebasing",
       "url": "https://open.spotify.com/track/2rOxqqDdR7YrJ9s5RXPQhY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spectre",
-        "url": "https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 323146,
-      "name": "Tenement Stairwell",
-      "url": "https://open.spotify.com/track/5uNPTCRQdNOP1lAKsoRXQo"
     }
   ],
   "unique_name": "This Is Pauline Anna Strom",

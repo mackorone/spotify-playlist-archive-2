@@ -21943,6 +21943,24 @@
     },
     {
       "album": {
+        "name": "Born To Die",
+        "url": "https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165597,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX"
+    },
+    {
+      "album": {
         "name": "born to love you",
         "url": "https://open.spotify.com/album/6wpJJJbYI3IOB8V3RRMaio"
       },
@@ -55358,7 +55376,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 141497,
-      "name": "Fantasy (ft. COBRAH)",
+      "name": "Fantasy (ft. Cobrah)",
       "url": "https://open.spotify.com/track/6CwBTCg35UfkyjJ7BB6c9U"
     },
     {
@@ -97322,6 +97340,24 @@
       "duration_ms": 347000,
       "name": "KILLER",
       "url": "https://open.spotify.com/track/5c2q1fzu09pyuGuT7LOTsi"
+    },
+    {
+      "album": {
+        "name": "KILLERS",
+        "url": "https://open.spotify.com/album/1la9DgvpcJa7xQpSKBJbgj"
+      },
+      "artists": [
+        {
+          "name": "BASKE",
+          "url": "https://open.spotify.com/artist/5t1bsUlFWixhgRJ983muoP"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194360,
+      "name": "KILLERS",
+      "url": "https://open.spotify.com/track/3ahUCLUJW6MiyqDgzYjXoW"
     },
     {
       "album": {
@@ -153021,6 +153057,28 @@
     },
     {
       "album": {
+        "name": "DOUBLEPEACE",
+        "url": "https://open.spotify.com/album/5wtOAaJF1O5d7faLR2gUcZ"
+      },
+      "artists": [
+        {
+          "name": "Fed",
+          "url": "https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr"
+        },
+        {
+          "name": "Phil",
+          "url": "https://open.spotify.com/artist/3FDHZRQQME4R1BFXqGugLp"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185700,
+      "name": "Sig Det",
+      "url": "https://open.spotify.com/track/3AEuNKucsjnPGvgOQRKMMV"
+    },
+    {
+      "album": {
         "name": "Sig Det Videre",
         "url": "https://open.spotify.com/album/02E770M9uxwqGvwVqawDEr"
       },
@@ -178400,24 +178458,6 @@
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
-    },
-    {
-      "album": {
-        "name": "DOUBLEPEACE",
-        "url": "https://open.spotify.com/album/5wtOAaJF1O5d7faLR2gUcZ"
-      },
-      "artists": [
-        {
-          "name": "Fed",
-          "url": "https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/3AEuNKucsjnPGvgOQRKMMV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-414 songs - 1 day 2 hr 33 min
+415 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Ghosts \[Strings\]](https://open.spotify.com/track/4SoEq0RSooiICciUo2pL5F) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [\[Strings\]](https://open.spotify.com/album/7wimi5iKffa1xaBMjGL6tw) | 1:55 | 2024-09-20 | 2026-03-14 |
 | [Gilderoy](https://open.spotify.com/track/1GxlJW1YnjSH81pIBvMvJv) | [sue:ann](https://open.spotify.com/artist/17MfXLE9Kn31utpo96GXFY) | [Reflections 08](https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP) | 4:00 | 2024-04-12 | 2024-07-13 |
 | [Glacial](https://open.spotify.com/track/63ET2zAcWY2s8IiAYSFiq5) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [Luminescence EP](https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY) | 4:22 | 2024-01-12 | 2024-06-04 |
-| [Gliding Through Everything](https://open.spotify.com/track/2QE9lU3p7G3vF2GhaIyQsB) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 4:08 | 2025-08-15 |  |
+| [Gliding Through Everything](https://open.spotify.com/track/2QE9lU3p7G3vF2GhaIyQsB) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 4:08 | 2025-08-15 | 2026-04-25 |
 | [Go](https://open.spotify.com/track/3rXRBdXLKrccDbmHq9ID2m) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [Go](https://open.spotify.com/album/6R4b5As03b4M96c6QxyOhs) | 2:54 | 2024-11-01 | 2025-11-22 |
 | [Golden Hour](https://open.spotify.com/track/0sej79DRiZ9sdldWxMU66H) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X), [Zen That Beat](https://open.spotify.com/artist/5tvZL3AII2rEZExWD64M2r) | [Golden Hour](https://open.spotify.com/album/4PokXbdxPuVTXnxzyJg8VO) | 3:37 | 2025-09-08 | 2025-10-07 |
 | [Gone Gone Gone](https://open.spotify.com/track/7fz1Yct0n5ea5PDlZ9JqVi) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm), [Polar M](https://open.spotify.com/artist/3deSTS7GVnIHb5s6T7rV5g) | [Dance](https://open.spotify.com/album/0jJrmv08OZRYXwGQk8LUR9) | 5:21 | 2025-09-12 | 2025-11-07 |
@@ -294,6 +294,7 @@
 | [Opals \[Strings\]](https://open.spotify.com/track/3sXfYyVPU8qUk6s0ptba63) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Opals \[Strings\]](https://open.spotify.com/album/0rQAG1x8En0pK6ibB57C5h) | 2:46 | 2024-09-06 |  |
 | [Orange Coloured Liquid \- Part II](https://open.spotify.com/track/0455mTvFJ1kbODAYHpFJBu) | [Alex Kassian](https://open.spotify.com/artist/3YcfGOBLEsPKVZj5Ecu0QY), [Spooky](https://open.spotify.com/artist/6goDUsXnT9iDz5J5H2Zj8t) | [Orange Coloured Liquid](https://open.spotify.com/album/5fpWyzS16CQBCPxttuEf92) | 5:55 | 2025-08-15 |  |
 | [Orb \- Electronic](https://open.spotify.com/track/2aP46sLmqlnBP0DoUcnROH) | [Aksel Krystad](https://open.spotify.com/artist/6HWqfAvhFGVzX04XxDZBVw), [Guy Didden](https://open.spotify.com/artist/1DaOoPiSgkDkuBOSnDG7Pz) | [Orb \(Electronic\)](https://open.spotify.com/album/6Al2UJVwktSiGVFp5YrHeH) | 2:19 | 2026-01-23 |  |
+| [Others \- Electronic](https://open.spotify.com/track/2UwPrJ6lw3x7ZPVlDIGZWP) | [Kosco](https://open.spotify.com/artist/4fjdmn68aooi8LTGSSTxgo), [Philipp Hasse](https://open.spotify.com/artist/76Awap7mRTdIk1ACiLdzYX) | [Others \(Electronic\)](https://open.spotify.com/album/1OILnSHoYnIQrqYjQLsEBd) | 3:48 | 2026-04-24 |  |
 | [our lives entwined \- edit](https://open.spotify.com/track/6GVqBIddPI2CPZrWM1SbbD) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [our lives entwined](https://open.spotify.com/album/5s2Wb9fq6Uf86p4qBi1g7k) | 4:02 | 2026-01-12 |  |
 | [our lives entwined \- K\-LONE Remix](https://open.spotify.com/track/3tXFktS8riv8Mu78RfDpCD) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t), [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [our lives entwined \(remixed\)](https://open.spotify.com/album/5YYl1p0QHkb4CCBbgC5Ce3) | 4:12 | 2026-04-17 |  |
 | [Outro](https://open.spotify.com/track/1KhqgEhefduhFEIwUwMxMT) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Into Clouds](https://open.spotify.com/album/1I14thp76CSHykNU5X96Si) | 3:07 | 2025-01-13 | 2025-05-10 |

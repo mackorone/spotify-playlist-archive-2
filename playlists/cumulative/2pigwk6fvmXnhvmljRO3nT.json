@@ -36165,6 +36165,24 @@
     },
     {
       "album": {
+        "name": "Dear OHMYGIRL",
+        "url": "https://open.spotify.com/album/4xGM61HWbQWCgmbBOtU3JR"
+      },
+      "artists": [
+        {
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220573,
+      "name": "Dun Dun Dance",
+      "url": "https://open.spotify.com/track/5rp3c6ueLX4XjTeDS1RLjN"
+    },
+    {
+      "album": {
         "name": "The Melodic Blue (Deluxe)",
         "url": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g"
       },

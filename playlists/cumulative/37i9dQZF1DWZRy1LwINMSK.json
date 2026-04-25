@@ -1573,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "Energy Exchange",
+        "url": "https://open.spotify.com/album/3AnU5rUa6kFBg2eX647dt7"
+      },
+      "artists": [
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151836,
+      "name": "Energy Exchange",
+      "url": "https://open.spotify.com/track/26S3KZ5yuoKFqti5OADRbH"
+    },
+    {
+      "album": {
         "name": "Entre Envidia Y Muerte",
         "url": "https://open.spotify.com/album/2r92jhDd12xmQSByQ1nHWW"
       },
@@ -1918,6 +1936,36 @@
       "duration_ms": 155757,
       "name": "Flip Flops",
       "url": "https://open.spotify.com/track/7sJO9UXpa6pfyoS1y6cEVY"
+    },
+    {
+      "album": {
+        "name": "Florentino",
+        "url": "https://open.spotify.com/album/1Ajocy3PU5BzAJz82Y0zuv"
+      },
+      "artists": [
+        {
+          "name": "Ambar Luna",
+          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
+        },
+        {
+          "name": "Audigier",
+          "url": "https://open.spotify.com/artist/12UxVj1YgVo8N2NKkipBD3"
+        },
+        {
+          "name": "shelo-w",
+          "url": "https://open.spotify.com/artist/5kAwbJxOTvfaYSOrEhWAjW"
+        },
+        {
+          "name": "Vic Law",
+          "url": "https://open.spotify.com/artist/5ga0djN9jmt93iyXBKngZ5"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Florentino",
+      "url": "https://open.spotify.com/track/562Ljlj5cWInjA3Yx7fO3j"
     },
     {
       "album": {
@@ -4376,7 +4424,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 214800,
       "name": "No Quiero Atraso",
       "url": "https://open.spotify.com/track/105O8vW1px3oc5Di2EC4Yd"

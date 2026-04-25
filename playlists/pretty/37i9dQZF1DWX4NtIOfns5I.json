@@ -1,13 +1,29 @@
 {
-  "description": "dermot henry on the cover <3",
-  "num_followers": 145471,
+  "description": "Beatrix on the cover <3",
+  "num_followers": 145487,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAId56A6XNE3188C2TsMkDtLfyee+",
+  "snapshot_id": "AAAAANQBKZ3uwm/vcEwsrACJo1oGPswv",
   "tracks": [
+    {
+      "added_at": "2026-04-24 04:01:57",
+      "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 313653,
+      "name": "All Them Horses",
+      "url": "https://open.spotify.com/track/4y3VBhJPEztyRmNxfK3tZ5"
+    },
     {
       "added_at": "2026-04-17 04:02:35",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 156973,
       "name": "Middle of Nowhere",
       "url": "https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME"
+    },
+    {
+      "added_at": "2026-04-24 04:01:57",
+      "album": {
+        "name": "We Swallowed The Sky",
+        "url": "https://open.spotify.com/album/2FTn24fXfckKGHhyt8R1ij"
+      },
+      "artists": [
+        {
+          "name": "Beatrix",
+          "url": "https://open.spotify.com/artist/70GG0H4aMaTD5kBzqUfSlh"
+        }
+      ],
+      "duration_ms": 231117,
+      "name": "Upstate",
+      "url": "https://open.spotify.com/track/6Swl911DmwTVxG8FtcVa25"
     },
     {
       "added_at": "2026-04-10 04:01:38",
@@ -41,6 +73,26 @@
       "url": "https://open.spotify.com/track/7LnWdwgoNONeKs2MHzMSDe"
     },
     {
+      "added_at": "2026-04-24 04:01:57",
+      "album": {
+        "name": "Nosebleed",
+        "url": "https://open.spotify.com/album/54fmXoeCAfwCZWuYJH8nnh"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        },
+        {
+          "name": "Lyla George",
+          "url": "https://open.spotify.com/artist/2Yh3B8OtHziAIdpNYzQdWa"
+        }
+      ],
+      "duration_ms": 287999,
+      "name": "Nosebleed",
+      "url": "https://open.spotify.com/track/0RY78qw6AAQZC3QpPeAD9O"
+    },
+    {
       "added_at": "2026-04-17 04:02:35",
       "album": {
         "name": "My Favourite Book Is One I\u2019ve Read A Bunch / Little Rib",
@@ -55,22 +107,6 @@
       "duration_ms": 214549,
       "name": "My Favourite Book Is One I\u2019ve Read A Bunch",
       "url": "https://open.spotify.com/track/6Exa22JWVZdxT2ZPWjnfPC"
-    },
-    {
-      "added_at": "2026-04-17 04:02:35",
-      "album": {
-        "name": "Finish Line",
-        "url": "https://open.spotify.com/album/69yBujeTPGK2rC2qFcdS9X"
-      },
-      "artists": [
-        {
-          "name": "Sean Solomon",
-          "url": "https://open.spotify.com/artist/2rIEFpPW3NjFRA6llfnOq3"
-        }
-      ],
-      "duration_ms": 200293,
-      "name": "Finish Line",
-      "url": "https://open.spotify.com/track/4tGVYB2GmhidTUN7hv6Rwt"
     },
     {
       "added_at": "2026-04-17 04:02:35",
@@ -93,20 +129,20 @@
       "url": "https://open.spotify.com/track/5hLbAu2TGDhiwhvebzY5cv"
     },
     {
-      "added_at": "2026-04-17 04:02:35",
+      "added_at": "2026-04-24 04:01:57",
       "album": {
-        "name": "Malvern Star",
-        "url": "https://open.spotify.com/album/2cRbGWbAjXKeGXnlCp1Ewf"
+        "name": "Manning Fireworks",
+        "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
       },
       "artists": [
         {
-          "name": "Scratching",
-          "url": "https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn"
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
         }
       ],
-      "duration_ms": 211106,
-      "name": "Malvern Star",
-      "url": "https://open.spotify.com/track/4fE7Ddf94LW0d3svuj4W8E"
+      "duration_ms": 181040,
+      "name": "Joker Lips",
+      "url": "https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL"
     },
     {
       "added_at": "2026-03-27 04:00:21",
@@ -123,6 +159,54 @@
       "duration_ms": 246240,
       "name": "Miffed It",
       "url": "https://open.spotify.com/track/3n3nY1tcsTbBT1SyWR4Kff"
+    },
+    {
+      "added_at": "2026-04-24 04:01:57",
+      "album": {
+        "name": "Pale Blue Eyes",
+        "url": "https://open.spotify.com/album/1TXPiNt8GDt6UCXI7kT0yk"
+      },
+      "artists": [
+        {
+          "name": "Sydney Ross Mitchell",
+          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
+        }
+      ],
+      "duration_ms": 213147,
+      "name": "Pale Blue Eyes",
+      "url": "https://open.spotify.com/track/4TvmANoYjSYuYk6oXkiG29"
+    },
+    {
+      "added_at": "2026-04-17 04:02:35",
+      "album": {
+        "name": "Finish Line",
+        "url": "https://open.spotify.com/album/69yBujeTPGK2rC2qFcdS9X"
+      },
+      "artists": [
+        {
+          "name": "Sean Solomon",
+          "url": "https://open.spotify.com/artist/2rIEFpPW3NjFRA6llfnOq3"
+        }
+      ],
+      "duration_ms": 200293,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/4tGVYB2GmhidTUN7hv6Rwt"
+    },
+    {
+      "added_at": "2026-04-17 04:02:35",
+      "album": {
+        "name": "Malvern Star",
+        "url": "https://open.spotify.com/album/2cRbGWbAjXKeGXnlCp1Ewf"
+      },
+      "artists": [
+        {
+          "name": "Scratching",
+          "url": "https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn"
+        }
+      ],
+      "duration_ms": 211106,
+      "name": "Malvern Star",
+      "url": "https://open.spotify.com/track/4fE7Ddf94LW0d3svuj4W8E"
     },
     {
       "added_at": "2026-03-27 04:00:21",
@@ -145,22 +229,6 @@
       "url": "https://open.spotify.com/track/04xfDpReIdCIXPZWdaMHun"
     },
     {
-      "added_at": "2026-04-06 16:12:27",
-      "album": {
-        "name": "spring cleaning",
-        "url": "https://open.spotify.com/album/2csnhRN3yY164SmOUXJLLE"
-      },
-      "artists": [
-        {
-          "name": "Ethan Regan",
-          "url": "https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e"
-        }
-      ],
-      "duration_ms": 243740,
-      "name": "spring cleaning",
-      "url": "https://open.spotify.com/track/1rZggDe0NlgkU63OkbD3r8"
-    },
-    {
       "added_at": "2026-03-27 04:00:21",
       "album": {
         "name": "Pale Moon Pale Horse (Anniversary Edition)",
@@ -177,6 +245,54 @@
       "url": "https://open.spotify.com/track/7p9QPnwr6INKhwFhZwuooX"
     },
     {
+      "added_at": "2026-04-24 04:01:57",
+      "album": {
+        "name": "Siri, Cancel My Plans",
+        "url": "https://open.spotify.com/album/4rSCTsEKef4LHsPP7UE9UT"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "Siri, Cancel My Plans",
+      "url": "https://open.spotify.com/track/3nHAw1ypqCG5wS51ipil5i"
+    },
+    {
+      "added_at": "2026-04-24 04:01:57",
+      "album": {
+        "name": "exposure therapy",
+        "url": "https://open.spotify.com/album/18TFbtYFWjkpYwj4mmU0N3"
+      },
+      "artists": [
+        {
+          "name": "Khatumu",
+          "url": "https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu"
+        }
+      ],
+      "duration_ms": 161593,
+      "name": "tennis practice",
+      "url": "https://open.spotify.com/track/7BlOrylka32xGgGTpqAOdW"
+    },
+    {
+      "added_at": "2026-04-24 04:01:57",
+      "album": {
+        "name": "When You Turn Around",
+        "url": "https://open.spotify.com/album/6JL74yOq6MXK9oRRM6c4X8"
+      },
+      "artists": [
+        {
+          "name": "Leonie Biney",
+          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/3vDjuLWIztKBycG5gxHibt"
+    },
+    {
       "added_at": "2026-04-17 04:02:35",
       "album": {
         "name": "Punisher",
@@ -191,6 +307,38 @@
       "duration_ms": 219681,
       "name": "Garden Song",
       "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
+    },
+    {
+      "added_at": "2026-04-24 04:01:57",
+      "album": {
+        "name": "Fetch!",
+        "url": "https://open.spotify.com/album/2I8vkdsWgbKNLiefTezx8W"
+      },
+      "artists": [
+        {
+          "name": "Caroline Carter",
+          "url": "https://open.spotify.com/artist/3pQCTq5sPCkRV8yOD5dzvR"
+        }
+      ],
+      "duration_ms": 261217,
+      "name": "Leg Room",
+      "url": "https://open.spotify.com/track/4xJmy1tjphGxyPRT0u66vh"
+    },
+    {
+      "added_at": "2026-04-06 16:12:27",
+      "album": {
+        "name": "spring cleaning",
+        "url": "https://open.spotify.com/album/2csnhRN3yY164SmOUXJLLE"
+      },
+      "artists": [
+        {
+          "name": "Ethan Regan",
+          "url": "https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e"
+        }
+      ],
+      "duration_ms": 243740,
+      "name": "spring cleaning",
+      "url": "https://open.spotify.com/track/1rZggDe0NlgkU63OkbD3r8"
     },
     {
       "added_at": "2026-03-27 04:00:21",
@@ -261,6 +409,22 @@
       "url": "https://open.spotify.com/track/2HNu2cPLdVBxDLhGc8xR0j"
     },
     {
+      "added_at": "2026-04-24 04:01:57",
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/4YoCbEExp7Zmo6wbcYaR6c"
+      },
+      "artists": [
+        {
+          "name": "Carla dal Forno",
+          "url": "https://open.spotify.com/artist/6FVxEgfQsGrJ0BogIOYCd6"
+        }
+      ],
+      "duration_ms": 201146,
+      "name": "Gave You Up",
+      "url": "https://open.spotify.com/track/2gng4BVSuskEfAo4nFiE2E"
+    },
+    {
       "added_at": "2026-03-27 04:00:21",
       "album": {
         "name": "a couple minutes out",
@@ -291,6 +455,26 @@
       "duration_ms": 200710,
       "name": "Delicately",
       "url": "https://open.spotify.com/track/7mkOcvOoftO2BvSzvto7ID"
+    },
+    {
+      "added_at": "2026-04-24 04:01:57",
+      "album": {
+        "name": "Nested in Tangles (Deluxe)",
+        "url": "https://open.spotify.com/album/0v3bid5eeWmchf4wCNcxVE"
+      },
+      "artists": [
+        {
+          "name": "Hannah Frances",
+          "url": "https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz"
+        },
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Beholden to the Birds Murmuring Above",
+      "url": "https://open.spotify.com/track/4rJDJnOFLms2b4oFquIBFg"
     },
     {
       "added_at": "2026-03-27 04:00:21",
@@ -1879,38 +2063,6 @@
       "duration_ms": 247053,
       "name": "Break The Jaw",
       "url": "https://open.spotify.com/track/5J9Y2roWzvClVvb39fHMiW"
-    },
-    {
-      "added_at": "2026-03-27 04:00:21",
-      "album": {
-        "name": "Body Break",
-        "url": "https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi"
-      },
-      "artists": [
-        {
-          "name": "Beryl",
-          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
-        }
-      ],
-      "duration_ms": 215649,
-      "name": "If I go",
-      "url": "https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu"
-    },
-    {
-      "added_at": "2026-03-27 04:00:21",
-      "album": {
-        "name": "System",
-        "url": "https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru"
-      },
-      "artists": [
-        {
-          "name": "Prewn",
-          "url": "https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS"
-        }
-      ],
-      "duration_ms": 196226,
-      "name": "It's Only You",
-      "url": "https://open.spotify.com/track/4UxJfZyHENxiSp60UzTGLW"
     }
   ],
   "unique_name": "juniper",

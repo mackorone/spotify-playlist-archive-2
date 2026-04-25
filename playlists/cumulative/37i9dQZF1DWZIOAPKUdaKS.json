@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Soft piano to help you focus, work or study. ",
+  "description": "Soft piano to help you focus, work or study.",
   "name": "Focus Piano",
   "tracks": [
     {
@@ -8242,6 +8242,24 @@
       "duration_ms": 139949,
       "name": "Mornings With You",
       "url": "https://open.spotify.com/track/1eJ4ZttuJo0O4hFTVUbT1t"
+    },
+    {
+      "album": {
+        "name": "Mountain Avens",
+        "url": "https://open.spotify.com/album/5t3jPtbGUiTrsnWquV3tfm"
+      },
+      "artists": [
+        {
+          "name": "Lunaria",
+          "url": "https://open.spotify.com/artist/2n1J5axfcdot1GmkiKIfOQ"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Mountain Avens",
+      "url": "https://open.spotify.com/track/7CdEDylM5E826ZDe3QwB2p"
     },
     {
       "album": {

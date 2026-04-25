@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 
 > Generations of blood have lead to this\. Listen to the music from Yellowstone, airing Sundays on Paramount Network.
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,662 likes - 219 songs - 13 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,804 likes - 219 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,7 +172,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 162 | [Shakin' Hands With the Holy Ghost](https://open.spotify.com/track/5NRqgmLhiKfrMPnIHEuuEZ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [The Whippoorwill](https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi) | 3:45 |
 | 163 | [Drank Like Hank](https://open.spotify.com/track/0R3vFnJYuPSrUHypRexQzn) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Port Saint Joe](https://open.spotify.com/album/5V6FVW8sc8yyhmDZwaNm5T) | 3:09 |
 | 164 | [Johnny Cash \(Man in Black\)](https://open.spotify.com/track/1S6e1wopG0zxudJsLBbKH0) | [Badd Wolf](https://open.spotify.com/artist/6i7HCVIOlT4orzAAzZ97Th) | [Johnny Cash \(Man in Black\)](https://open.spotify.com/album/53mfSk3431jYfvIq20NBnB) | 3:49 |
-| 165 | [Last of My Kind](https://open.spotify.com/track/36e7JUxXMV4mO4ZJWjBuSa) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 4:22 |
+| 165 | [Last of My Kind](https://open.spotify.com/track/36e7JUxXMV4mO4ZJWjBuSa) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 4:22 |
 | 166 | [Fire](https://open.spotify.com/track/70VSFe3tTnCLpue9StG69U) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Fire](https://open.spotify.com/album/2RisnGnqdl2KmkWlskYfdt) | 3:48 |
 | 167 | [Summer of Love](https://open.spotify.com/track/4vjetK09luLFKuWbtKm791) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Summer of Love](https://open.spotify.com/album/40pzF0MAsOHLhvgFAExe3M) | 3:24 |
 | 168 | [Up To No Good Livin'](https://open.spotify.com/track/5v9e0mJg74D7cFfYxKDJH0) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 4:05 |

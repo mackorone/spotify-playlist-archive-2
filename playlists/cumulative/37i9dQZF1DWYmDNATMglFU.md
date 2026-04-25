@@ -4,7 +4,7 @@
 
 > new gen alt ⛓ ft\. bleech 9:3
 
-1,098 songs - 2 day 7 hr 22 min
+1,098 songs - 2 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Bubbly](https://open.spotify.com/track/7aLtFOQyLWC1L1XPN8RC3b) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Bubbly](https://open.spotify.com/album/1nFSYPn28BWJHvRrJH82E5) | 3:07 | 2024-01-12 | 2024-06-14 |
 | [Buckwild](https://open.spotify.com/track/1kZPSulbpNMcEO7B3Ag1XI) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL) | [Buckwild](https://open.spotify.com/album/6cAYNmrhsPfBV5KLKQdc1m) | 3:58 | 2025-08-07 | 2026-02-07 |
 | [Bugs](https://open.spotify.com/track/40UBd76lFOA4A9LIj92D8M) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bugs](https://open.spotify.com/album/69uHXZDySbtOqJTlM3J0pr) | 3:57 | 2025-05-16 | 2025-09-26 |
+| [Bullet Between My Teeth](https://open.spotify.com/track/58LqBRV0o1CfWjxLq8xwfv) | [loveshy](https://open.spotify.com/artist/2xZvyZ5a4pTOvLexCZ91lv) | [Aftertaste](https://open.spotify.com/album/4JhceA7cUvI0VmAEOcYAE2) | 2:57 | 2026-04-23 |  |
 | [BUMMER!](https://open.spotify.com/track/2kI3DIQk5TZNRhwQxDlAC3) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [BUMMER!](https://open.spotify.com/album/6GqD7THNXRsasEGuDZ6wpL) | 2:39 | 2023-05-04 | 2023-09-15 |
 | [BURNOUT](https://open.spotify.com/track/4zZJZjj4QwuwR7G6tZ0sxo) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Derek DiScanio](https://open.spotify.com/artist/4gO25bbcu1eFNi8uDCvJFS) | [BURNOUT](https://open.spotify.com/album/1oUXmEhwbTJ4InsEjZADla) | 2:52 | 2022-07-01 | 2023-01-13 |
 | [BUSH](https://open.spotify.com/track/5XnqkvZ2JO1IP69HAEvU30) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [PRINCELESS PRINCESS](https://open.spotify.com/album/5aFTtfNOWJs7fOLX3vbexi) | 3:57 | 2025-09-25 | 2026-02-07 |
@@ -1009,7 +1010,6 @@
 | [TOOTHPASTE](https://open.spotify.com/track/0cMii2XXSNRl7bS2sFJMle) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79) | [GOODGRIEF](https://open.spotify.com/album/0iHirYdH4xyeJrdVtXmhUQ) | 2:54 | 2022-07-29 | 2022-09-09 |
 | [Toxic](https://open.spotify.com/track/1X6Hw2IJSdgIqwrhwZ84cZ) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [Toxic](https://open.spotify.com/album/6nMAMG5O1iNCQlyBEUeDM8) | 3:15 | 2022-09-29 | 2023-03-31 |
 | [TOXIC \(with POORSTACY\)](https://open.spotify.com/track/75FYDtqlseNpc63QjHazO6) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [TOXIC \(with POORSTACY\)](https://open.spotify.com/album/0AJOcyb81Xh2KiuCfUQhiI) | 2:28 | 2022-03-31 | 2023-01-13 |
-| [Track 4](https://open.spotify.com/track/58LqBRV0o1CfWjxLq8xwfv) | [loveshy](https://open.spotify.com/artist/2xZvyZ5a4pTOvLexCZ91lv) | [Aftertaste](https://open.spotify.com/album/4JhceA7cUvI0VmAEOcYAE2) | 0:00 | 2026-04-23 |  |
 | [Trash](https://open.spotify.com/track/26TWZ1x4NDSEpzDtHxiZAM) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Trash](https://open.spotify.com/album/3mCgA0NaZukB0CROXayoHp) | 2:10 | 2022-07-29 | 2022-10-14 |
 | [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 | 2024-06-27 | 2024-07-12 |
 | [Tripping Over Air](https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Tripping Over Air](https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC) | 3:02 | 2022-09-08 | 2023-07-07 |

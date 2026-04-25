@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "TOBi and music for your soul.",
+  "description": "THEHONESTGUY and music for your soul.",
   "name": "BUTTER",
   "tracks": [
     {
@@ -3046,7 +3046,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 166189,
       "name": "BE MY GOD",
       "url": "https://open.spotify.com/track/6IZpOwBDrimZ10k2qkpk6f"
@@ -4170,7 +4170,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 170517,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1rUWEVR78iRaXXuSHyz6KP"
@@ -16205,6 +16205,28 @@
     },
     {
       "album": {
+        "name": "Between Us",
+        "url": "https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Femi Koleoso",
+          "url": "https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197122,
+      "name": "It Never Ends",
+      "url": "https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd"
+    },
+    {
+      "album": {
         "name": "Live at Montreux Jazz Festival",
         "url": "https://open.spotify.com/album/0uqyhvc8HEyztLSTE8RKmx"
       },
@@ -21498,7 +21520,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 172376,
       "name": "NEVER BE THE SAME",
       "url": "https://open.spotify.com/track/1bFObYeRf8zfPOh4IJqrYf"
@@ -22300,7 +22322,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 186285,
       "name": "NOTHING IS REAL",
       "url": "https://open.spotify.com/track/24TSN5Uo9nyALzxWCJPuSe"
@@ -25798,6 +25820,24 @@
       "duration_ms": 202033,
       "name": "Revolutionize",
       "url": "https://open.spotify.com/track/6wv28CIvLTxHiDYLMJI16L"
+    },
+    {
+      "album": {
+        "name": "Ride It Out",
+        "url": "https://open.spotify.com/album/6vMuk0DhZDM1wClWe6ZjIA"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Ride It Out",
+      "url": "https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh"
     },
     {
       "album": {
@@ -29579,6 +29619,24 @@
     },
     {
       "album": {
+        "name": "SUGAR WATER",
+        "url": "https://open.spotify.com/album/7bL5SEk32HW0e6WxePXWcZ"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190605,
+      "name": "SUGAR WATER",
+      "url": "https://open.spotify.com/track/6zkoIozGGyFgk3EIAIs6oF"
+    },
+    {
+      "album": {
         "name": "SULA",
         "url": "https://open.spotify.com/album/2C6MSMmLTSaRjs7d9PwrS9"
       },
@@ -30378,6 +30436,28 @@
       "duration_ms": 258650,
       "name": "Talk Is Cheap",
       "url": "https://open.spotify.com/track/1p1iq2npedwN1k112m7UPf"
+    },
+    {
+      "album": {
+        "name": "Long Time Running EP",
+        "url": "https://open.spotify.com/album/1jhv9k3iorVzdZ5I6ahTlm"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        },
+        {
+          "name": "Haviah Mighty",
+          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227394,
+      "name": "Talk To Me (feat. Haviah Mighty)",
+      "url": "https://open.spotify.com/track/43Gd6pEuO7k7jOONcwiRfR"
     },
     {
       "album": {

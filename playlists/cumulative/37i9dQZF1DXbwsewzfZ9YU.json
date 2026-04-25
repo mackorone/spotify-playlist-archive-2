@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "the best in hardcore. open the pit w/ Gouge Away.",
+  "description": "the best in hardcore. open the pit w/ Terror.",
   "name": "the Breakdown",
   "tracks": [
     {
@@ -298,7 +298,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 134619,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/2nU7OKyo1EZqZQYnIVjTO1"
@@ -1379,6 +1379,24 @@
     },
     {
       "album": {
+        "name": "Dance In The USA",
+        "url": "https://open.spotify.com/album/5s1MU2zNr7wTsNBpGRgbXg"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179280,
+      "name": "Dance In The USA",
+      "url": "https://open.spotify.com/track/6OgQCTbeqEI2rjmmkfkFOV"
+    },
+    {
+      "album": {
         "name": "Dancing on a Pin",
         "url": "https://open.spotify.com/album/4l84ZA07jEaYL2c1yxnyNV"
       },
@@ -2015,6 +2033,24 @@
     },
     {
       "album": {
+        "name": "Still Suffer",
+        "url": "https://open.spotify.com/album/5cjuvKJvm2voCSNXahZ4KE"
+      },
+      "artists": [
+        {
+          "name": "Terror",
+          "url": "https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133826,
+      "name": "Erase You From My World",
+      "url": "https://open.spotify.com/track/03ZS13Z3ToC2wA1antahVw"
+    },
+    {
+      "album": {
         "name": "Eraser",
         "url": "https://open.spotify.com/album/0jz1d4dpaGr4WRIGHfac02"
       },
@@ -2304,6 +2340,28 @@
       "duration_ms": 207154,
       "name": "Far Out, Bro (Feat. Daryl Taberski of Snapcase)",
       "url": "https://open.spotify.com/track/0qhzDJvawg5ePgaTeNulWb"
+    },
+    {
+      "album": {
+        "name": "Fear The Panic",
+        "url": "https://open.spotify.com/album/4BH2oH2BKWikzzFqGoYOsC"
+      },
+      "artists": [
+        {
+          "name": "Terror",
+          "url": "https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg"
+        },
+        {
+          "name": "Hot Water Music",
+          "url": "https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177840,
+      "name": "Fear The Panic",
+      "url": "https://open.spotify.com/track/6AOUp9I42Re1oLir7JhSDl"
     },
     {
       "album": {
@@ -3656,7 +3714,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 155448,
       "name": "LIAR",
       "url": "https://open.spotify.com/track/1nJ8mIgJWtDXIHzckDZtUV"
@@ -4621,6 +4679,24 @@
     },
     {
       "album": {
+        "name": "No Love Lost",
+        "url": "https://open.spotify.com/album/4NGdTUI88ytH8YUo2GAlNo"
+      },
+      "artists": [
+        {
+          "name": "Guilt Trip",
+          "url": "https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150400,
+      "name": "No Love Lost",
+      "url": "https://open.spotify.com/track/6PQA6MBU3xAsZKmahjF9Bg"
+    },
+    {
+      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/7F5ZISHwZlOgSFmg5LKVeG"
       },
@@ -5022,6 +5098,28 @@
       "duration_ms": 132341,
       "name": "Out Of The Picture",
       "url": "https://open.spotify.com/track/5FMNruOhLrl7qMlmSZw96U"
+    },
+    {
+      "album": {
+        "name": "OUT OF TIME (feat. Defiance)",
+        "url": "https://open.spotify.com/album/7KLwjRQl8q6US6g0NZ5tef"
+      },
+      "artists": [
+        {
+          "name": "False Reality",
+          "url": "https://open.spotify.com/artist/2UzhploNTDxWtJkr5BE3cm"
+        },
+        {
+          "name": "DEFIANCE HC",
+          "url": "https://open.spotify.com/artist/2qEVGA1XwIL1KZ87NlWzxw"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230387,
+      "name": "OUT OF TIME (feat. Defiance)",
+      "url": "https://open.spotify.com/track/2iygkov0KL0EkxpJuT45uX"
     },
     {
       "album": {
@@ -5666,7 +5764,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 170362,
       "name": "Sabotage",
       "url": "https://open.spotify.com/track/0d0dCSbntM8IIXnaHFJzC8"
@@ -6218,7 +6316,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 144546,
       "name": "Still Suffer",
       "url": "https://open.spotify.com/track/3LmmBjYGnrWIaHpRyGauAG"

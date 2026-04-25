@@ -15797,6 +15797,24 @@
     },
     {
       "album": {
+        "name": "Celebrate Me",
+        "url": "https://open.spotify.com/album/1jSedaP3OdRCyHq110m3f6"
+      },
+      "artists": [
+        {
+          "name": "IngaRose",
+          "url": "https://open.spotify.com/artist/6Nh6lQwzJsftDphRVG7AU1"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217439,
+      "name": "Celebrate Me",
+      "url": "https://open.spotify.com/track/2i2hd5SXypE3DL3440L2hB"
+    },
+    {
+      "album": {
         "name": "CELEBRATION",
         "url": "https://open.spotify.com/album/5vsWw2Nh2ztbz0zZGrqXOU"
       },
@@ -17544,7 +17562,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 301674,
       "name": "Click Clack Symphony. (feat. Hans Zimmer)",
       "url": "https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7"
@@ -46348,9 +46366,9 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 263933,
-      "name": "Joy. (feat. Amma & Absolutely)",
+      "name": "Joy.",
       "url": "https://open.spotify.com/track/5CKbUv7zkOdf8X2602qgei"
     },
     {
@@ -58610,7 +58628,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 206467,
       "name": "MURAL (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/6mIiV28R5NjFBuSo31u2ER"
@@ -86128,10 +86146,28 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 133800,
       "name": "The One Who's Running the Show",
       "url": "https://open.spotify.com/track/1Qmmte3WKo1HgQDmDISvNc"
+    },
+    {
+      "album": {
+        "name": "The One Who's Running the Show",
+        "url": "https://open.spotify.com/album/10xEgXnDAbKz78pW1SvPjy"
+      },
+      "artists": [
+        {
+          "name": "Gooseworx",
+          "url": "https://open.spotify.com/artist/4I31Oaf4lpU501IMCuEHTt"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133800,
+      "name": "The One Who's Running the Show",
+      "url": "https://open.spotify.com/track/5h7mg5g8bTtVCcKPbIiSAQ"
     },
     {
       "album": {

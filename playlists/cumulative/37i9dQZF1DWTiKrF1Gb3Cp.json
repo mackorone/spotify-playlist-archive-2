@@ -748,7 +748,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 154630,
       "name": "Arisco",
       "url": "https://open.spotify.com/track/1gMRjSYihkq7gJdJp6dpsz"
@@ -2343,6 +2343,24 @@
     },
     {
       "album": {
+        "name": "El Ni\u00f1o Sicario",
+        "url": "https://open.spotify.com/album/0W5kQdEH12c6YAjoCYse2K"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263111,
+      "name": "El Ni\u00f1o Sicario",
+      "url": "https://open.spotify.com/track/1bDQbuDh588gw9zxRaQzWI"
+    },
+    {
+      "album": {
         "name": "El Pitufo",
         "url": "https://open.spotify.com/album/6EaaqOlpziEc8qXfnDRSDW"
       },
@@ -2390,7 +2408,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 235728,
       "name": "El Ranchero",
       "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
@@ -4193,6 +4211,32 @@
     },
     {
       "album": {
+        "name": "Me Ilumin\u00e9",
+        "url": "https://open.spotify.com/album/0M9tAy51bRMeT7xGdPJGP5"
+      },
+      "artists": [
+        {
+          "name": "Rivs",
+          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138720,
+      "name": "Me Ilumin\u00e9",
+      "url": "https://open.spotify.com/track/62jHLKgkJtuuJUmCidGUEo"
+    },
+    {
+      "album": {
         "name": "Me Mataste",
         "url": "https://open.spotify.com/album/3h0vhbLw8SfhHuEcpPz7O5"
       },
@@ -4450,7 +4494,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 152223,
       "name": "Misiles",
       "url": "https://open.spotify.com/track/2PKQdAwXT4NdCfwYFgeMGT"
@@ -5188,6 +5232,28 @@
       "duration_ms": 214153,
       "name": "Pollo y Conejo",
       "url": "https://open.spotify.com/track/4dFzuZePy7GYvbPFNwJyyl"
+    },
+    {
+      "album": {
+        "name": "Por Hollywood",
+        "url": "https://open.spotify.com/album/2aCy0ncs4obXxHu3pZ1DK8"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168979,
+      "name": "Por Hollywood",
+      "url": "https://open.spotify.com/track/7Myx7gRSYsue2sbMaGdXDr"
     },
     {
       "album": {

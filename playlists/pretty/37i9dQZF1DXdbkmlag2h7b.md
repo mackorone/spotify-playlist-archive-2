@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,099 likes - 205 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,129 likes - 205 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 204 | [Divination](https://open.spotify.com/track/1zL2VLTGJ2Bg5YhVMfvqWt) | [Outside The Sky](https://open.spotify.com/artist/0YQ0arFA21qL1FactLyY81) | [Ground](https://open.spotify.com/album/2JE4P8PL9rUMQUiLAsNxFq) | 2:39 |
 | 205 | [Deep Dive](https://open.spotify.com/track/42lbNxt4QZtzjKiizNIVnT) | [dream index](https://open.spotify.com/artist/4qQhnABlGWb6DvXyTI4bTN) | [Deep Dive](https://open.spotify.com/album/3deB4HKjUokWqBYtNVsfgV) | 3:21 |
 
-Snapshot ID: `AAAAALoHkRTjXmUsVemA7ydwncl8DNPe`
+Snapshot ID: `AAAAAOg+V1Wdjn/HEc+Hs8u15nvhdckh`

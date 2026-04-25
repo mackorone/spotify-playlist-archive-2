@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Birthday Makeup",
+        "url": "https://open.spotify.com/album/5GEtta9qkKWmoWVZxbsq8t"
+      },
+      "artists": [
+        {
+          "name": "Mulaa Joans",
+          "url": "https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174945,
+      "name": "Birthday Makeup",
+      "url": "https://open.spotify.com/track/3dV2zlpwJBCyQ9saGkBExd"
+    },
+    {
+      "album": {
         "name": "blind",
         "url": "https://open.spotify.com/album/3gBJbIQe4XQSiShh6Mgw8n"
       },
@@ -2055,6 +2073,28 @@
     },
     {
       "album": {
+        "name": "Kingmaker (with Julia Michaels)",
+        "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188106,
+      "name": "Kingmaker (with Julia Michaels)",
+      "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
+    },
+    {
+      "album": {
         "name": "Laat Het Licht Aan",
         "url": "https://open.spotify.com/album/04rBOWpJpSp3pDFU5EGXb4"
       },
@@ -2798,6 +2838,24 @@
       "duration_ms": 197345,
       "name": "orange tree",
       "url": "https://open.spotify.com/track/0pZIv8h9n7aN7PDVIWhC0l"
+    },
+    {
+      "album": {
+        "name": "Our Time Is Up",
+        "url": "https://open.spotify.com/album/2k09ozVolPTKIIqE5AJ9Ex"
+      },
+      "artists": [
+        {
+          "name": "PIMSKIN",
+          "url": "https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168654,
+      "name": "Our Time Is Up",
+      "url": "https://open.spotify.com/track/6i9CBvx5o2YnRxTNXbNyq5"
     },
     {
       "album": {

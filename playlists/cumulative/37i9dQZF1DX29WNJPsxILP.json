@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Hindi Hip-Hop! Cover: Yashraj",
+  "description": "Best of Hindi Hip-Hop! Cover: Karan Kanchan, Raga & Ikka",
   "name": "RAP 91 Hindi",
   "tracks": [
     {
@@ -2032,6 +2032,32 @@
       "duration_ms": 158823,
       "name": "Duniya Makkaar",
       "url": "https://open.spotify.com/track/78C9fInl0QUYAQBsEenYVC"
+    },
+    {
+      "album": {
+        "name": "DURGHATNA",
+        "url": "https://open.spotify.com/album/5IYJ0gLk565AaOPQDdM9Ot"
+      },
+      "artists": [
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        },
+        {
+          "name": "Raga",
+          "url": "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
+        },
+        {
+          "name": "Ikka",
+          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130750,
+      "name": "DURGHATNA",
+      "url": "https://open.spotify.com/track/0ZX0lJF6BPlwyG7zHWOP4l"
     },
     {
       "album": {
@@ -5522,7 +5548,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 155600,
       "name": "Seedha Mai Kal Jackson",
       "url": "https://open.spotify.com/track/2ZD1MBpVH33IXunTpuzA0y"

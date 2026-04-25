@@ -1617,6 +1617,24 @@
     },
     {
       "album": {
+        "name": "Dada x Kalah 2 (Live)",
+        "url": "https://open.spotify.com/album/4t9lm26jmJqXyLys2bX080"
+      },
+      "artists": [
+        {
+          "name": "Aftershine",
+          "url": "https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510000,
+      "name": "Dada x Kalah 2 - Live",
+      "url": "https://open.spotify.com/track/2OYny44h9ouaKtNPpTNx3R"
+    },
+    {
+      "album": {
         "name": "Dadi Siji",
         "url": "https://open.spotify.com/album/3CjOsiPpUTo7s2GI7VoYjx"
       },

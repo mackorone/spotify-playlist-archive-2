@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: Can Bonomo\n\n23 Nisan Ulusal Egemenlik ve \u00c7ocuk Bayram\u0131m\u0131z kutlu olsun! \ud83c\uddf9\ud83c\uddf7",
+  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: Can Bonomo",
   "name": "T\u00fcrk\u00e7e Rock",
   "tracks": [
     {
@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 188706,
       "name": "Bar\u0131\u015ft\u0131m Yaln\u0131zl\u0131kla",
       "url": "https://open.spotify.com/track/6zfyZb4lnZlRpuuSC8tHyO"
@@ -1544,6 +1544,24 @@
       "duration_ms": 245160,
       "name": "Ben Hi\u00e7 Sevemem",
       "url": "https://open.spotify.com/track/49LTQjxXRJLJS7Gsdxd2ux"
+    },
+    {
+      "album": {
+        "name": "Ben Korkmam Yaln\u0131zl\u0131ktan",
+        "url": "https://open.spotify.com/album/4UVe2yT9mg3p9WbQZX2O3V"
+      },
+      "artists": [
+        {
+          "name": "Karambol",
+          "url": "https://open.spotify.com/artist/27FDgyQe3lWYySeW2AyJy3"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208145,
+      "name": "Ben Korkmam Yaln\u0131zl\u0131ktan",
+      "url": "https://open.spotify.com/track/5iBBoqJxDTs0SkHNEp4gQQ"
     },
     {
       "album": {
@@ -4179,6 +4197,24 @@
     },
     {
       "album": {
+        "name": "Garip\u00e7e",
+        "url": "https://open.spotify.com/album/4rcUkPdCUhE4uIEIL4qMhh"
+      },
+      "artists": [
+        {
+          "name": "\u00d6zg\u00fcr Can \u00d6ney",
+          "url": "https://open.spotify.com/artist/0mdkoEXJCZJnotvhLzy459"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249930,
+      "name": "Garip\u00e7e",
+      "url": "https://open.spotify.com/track/3khD6DtWJP4y9tCujkaXVR"
+    },
+    {
+      "album": {
         "name": "Gavs Nefesi",
         "url": "https://open.spotify.com/album/30fsnvAGShBHpgCJIWDBpB"
       },
@@ -4554,6 +4590,24 @@
       "duration_ms": 304000,
       "name": "Gelmi\u015fi Ge\u00e7mi\u015fi - Canl\u0131 @6.45 KK Ankara",
       "url": "https://open.spotify.com/track/1iusKnAPxx8I2ZqorOcFux"
+    },
+    {
+      "album": {
+        "name": "Geri D\u00f6nmez",
+        "url": "https://open.spotify.com/album/03Cpl4OEKq6iMv1WwGOkRi"
+      },
+      "artists": [
+        {
+          "name": "Cheap Genes",
+          "url": "https://open.spotify.com/artist/4ghd0AVbQYWoQd2cbuLYRB"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109089,
+      "name": "Geri D\u00f6nmez",
+      "url": "https://open.spotify.com/track/5aWdHlD2KrvZdgb4ODzanT"
     },
     {
       "album": {
@@ -4994,7 +5048,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 198964,
       "name": "G\u00d6ZYA\u015eIMLA S\u00d6NMED\u0130",
       "url": "https://open.spotify.com/track/5BWvIxkLTwxTie1czNpvmZ"
@@ -5092,7 +5146,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 221041,
       "name": "G\u00fcne\u015f",
       "url": "https://open.spotify.com/track/4LmA7eKmD04MBZ4kHWXbLz"
@@ -5900,7 +5954,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 198823,
       "name": "Hi\u00e7 Ge\u00e7 De\u011fil",
       "url": "https://open.spotify.com/track/3S9egOgdimMEklFWXCYj7V"
@@ -6961,6 +7015,24 @@
     },
     {
       "album": {
+        "name": "Kay\u0131p Bi' Gemi",
+        "url": "https://open.spotify.com/album/02nztWGT4kdcZhhcN5fwCK"
+      },
+      "artists": [
+        {
+          "name": "Oradaki Elf",
+          "url": "https://open.spotify.com/artist/0BqgbYjNgE1bCO5J4XazZw"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263800,
+      "name": "Kay\u0131p Bi' Gemi",
+      "url": "https://open.spotify.com/track/26pVAhkkBPuhiraNMDpay6"
+    },
+    {
+      "album": {
         "name": "KA\u00c7TIM DA GELD\u0130M",
         "url": "https://open.spotify.com/album/4tejZBMM2H4exTi4J562iD"
       },
@@ -7102,7 +7174,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 134756,
       "name": "Kes Deri",
       "url": "https://open.spotify.com/track/07rLCht1x97mvFtnaUv6dr"
@@ -7178,6 +7250,24 @@
       "duration_ms": 217767,
       "name": "Kim Tutar Beni",
       "url": "https://open.spotify.com/track/4yYyGVZP3iAwkEQpT1prgW"
+    },
+    {
+      "album": {
+        "name": "Kimi Arar Dururum",
+        "url": "https://open.spotify.com/album/2tNclXYQFhQsWuLuiVkFjb"
+      },
+      "artists": [
+        {
+          "name": "\u0130sa \u00d6zkocaman",
+          "url": "https://open.spotify.com/artist/0U4jQs28By5TA9EzKTG6vZ"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182250,
+      "name": "Kimi Arar Dururum",
+      "url": "https://open.spotify.com/track/2Fftgfwz0HqgbHXcd7tmmO"
     },
     {
       "album": {
@@ -8582,7 +8672,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 181121,
       "name": "O Zaman Da Sonbahard\u0131",
       "url": "https://open.spotify.com/track/5dN7B5eUYJDnm9PdEpoqTN"
@@ -8680,7 +8770,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 213856,
       "name": "Olsa Bi' Yolu",
       "url": "https://open.spotify.com/track/2SkLFP4cmla1dcPBcGQHSI"
@@ -8944,7 +9034,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 274226,
       "name": "P\u0131r\u0131l P\u0131r\u0131l P\u0131r\u0131l \u00d6l\u00fcyorum",
       "url": "https://open.spotify.com/track/77ciNZ9CM6hRW2nltDMrps"
@@ -9078,6 +9168,28 @@
       "duration_ms": 256896,
       "name": "R\u00fcyanda G\u00f6rsen \u0130nanma - Live",
       "url": "https://open.spotify.com/track/30NdetS32uaEG5PuT0D0ps"
+    },
+    {
+      "album": {
+        "name": "R\u00fczgar G\u00fcl\u00fc",
+        "url": "https://open.spotify.com/album/6bNLEHNRZocPvkaM0erOZ5"
+      },
+      "artists": [
+        {
+          "name": "Madrigal",
+          "url": "https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd"
+        },
+        {
+          "name": "Teoman",
+          "url": "https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "R\u00fczgar G\u00fcl\u00fc",
+      "url": "https://open.spotify.com/track/7j3fYvMRs7B7tETZzRsoVI"
     },
     {
       "album": {
@@ -9414,6 +9526,28 @@
       "duration_ms": 187328,
       "name": "Sar\u0131lm\u0131\u015fs\u0131n Kendine",
       "url": "https://open.spotify.com/track/1mF7bTZkbm7amnaGOsRz2Z"
+    },
+    {
+      "album": {
+        "name": "Sar\u0131lsam",
+        "url": "https://open.spotify.com/album/7brmBMOsSM8sG7ZBJ9pgzc"
+      },
+      "artists": [
+        {
+          "name": "Berker",
+          "url": "https://open.spotify.com/artist/4v2XiWew4RGZK5rMyUNPeb"
+        },
+        {
+          "name": "Naz \u00d6l\u00e7al",
+          "url": "https://open.spotify.com/artist/23tgygGHvkVtYum3uqbEZ3"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184657,
+      "name": "Sar\u0131lsam",
+      "url": "https://open.spotify.com/track/5DYxmba2OmGT8lBADPAi98"
     },
     {
       "album": {
@@ -10286,7 +10420,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 254042,
       "name": "Sorma Kalbim",
       "url": "https://open.spotify.com/track/5prBAtK3pLCIROaNDlciTg"
@@ -10478,6 +10612,24 @@
       "duration_ms": 220531,
       "name": "S\u00f6zler Sonsuz",
       "url": "https://open.spotify.com/track/62aB8ZunByXtzTe10ukSiL"
+    },
+    {
+      "album": {
+        "name": "s\u00fcrekli akl\u0131mdas\u0131n ve hi\u00e7 \u00e7\u0131kmad\u0131n ordan",
+        "url": "https://open.spotify.com/album/0U40XBYZYYgt4BvLrMsdoS"
+      },
+      "artists": [
+        {
+          "name": "kurkafanda",
+          "url": "https://open.spotify.com/artist/1hwnnyxn54luBeZsknzbIw"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193375,
+      "name": "s\u00fcrekli akl\u0131mdas\u0131n ve hi\u00e7 \u00e7\u0131kmad\u0131n ordan",
+      "url": "https://open.spotify.com/track/6lbAIRWVgRzniZ7m59cf7U"
     },
     {
       "album": {
@@ -12639,6 +12791,24 @@
     },
     {
       "album": {
+        "name": "Yonca",
+        "url": "https://open.spotify.com/album/1XaOwWWpkQGFA0WfWO6reV"
+      },
+      "artists": [
+        {
+          "name": "Batuhan Polat",
+          "url": "https://open.spotify.com/artist/6SZpPDwlBPtvx9TDoBgwH8"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Yonca",
+      "url": "https://open.spotify.com/track/7taUH8FPsG0W2elOuoFheC"
+    },
+    {
+      "album": {
         "name": "Yorgun Mermi",
         "url": "https://open.spotify.com/album/0YFXWyupjPdbQcSXaTFtsV"
       },
@@ -13462,7 +13632,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 266764,
       "name": "\u00dcst\u00fcm Ba\u015f\u0131m Yara",
       "url": "https://open.spotify.com/track/0rRhUnKGlOORsdTMI4peJr"

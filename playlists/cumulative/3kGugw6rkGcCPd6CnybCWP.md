@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-327 songs - 18 hr 53 min
+334 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Altrove](https://open.spotify.com/track/1Eu21yhj8lLYfAUkfIG60A) | [The Recoveries](https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn) | [Altrove](https://open.spotify.com/album/0CJWJRcXmh5ZaKmccgdgHc) | 3:24 | 2026-03-04 | 2026-04-16 |
 | [Altrove](https://open.spotify.com/track/2FNRYJGLsE6xPa8TumCQj4) | [The Recoveries](https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn) | [Altrove](https://open.spotify.com/album/1nOS4aWxRbGAYI06aSH2Rk) | 3:24 | 2026-04-06 |  |
 | [AMIGOS](https://open.spotify.com/track/6OBUF3YnAuiVJFcmMYVQYV) | [Muk Zen](https://open.spotify.com/artist/6fpSO2jPZo4TGmsFRLMBYv) | [AMIGOS](https://open.spotify.com/album/7kdkuaPkb7hxAn62YURevg) | 3:11 | 2026-02-28 | 2026-04-16 |
+| [Anomaly](https://open.spotify.com/track/7drs4QP73WLeLRe00hPmlJ) | [Rainwash](https://open.spotify.com/artist/44bqJF9nEFQ1sIpjLbDr74) | [Anomaly](https://open.spotify.com/album/6TSi9Zguy9CLPSLyr2T0tx) | 3:06 | 2026-04-24 |  |
 | [Anxiety](https://open.spotify.com/track/2r2UYTxeSHutVFcH7KO5mA) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Boxing Day \(Deluxe\)](https://open.spotify.com/album/09jVFVWEuvz7mq4GSvgi2h) | 2:56 | 2026-03-04 | 2026-04-16 |
 | [anything today](https://open.spotify.com/track/6YU0mkaUWzKEV9ORBgo5aJ) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [anything today](https://open.spotify.com/album/4ahnAkh7sNMFjmWjYvNAFG) | 3:32 | 2026-03-21 | 2026-04-21 |
 | [Ask Me Why](https://open.spotify.com/track/0FXqsSgfEQhk3gsLs8FKyL) | [Elandra](https://open.spotify.com/artist/7v6meC75PAbtwyenxZnZaK) | [Ask Me Why](https://open.spotify.com/album/1A6vohn8A6e7Gn8mN5Ob0H) | 3:32 | 2025-11-15 | 2026-01-17 |
@@ -37,6 +38,7 @@
 | [Blood Full of Metal](https://open.spotify.com/track/248ljP84krXywsN09x4F4E) | [The PennyPound](https://open.spotify.com/artist/2QhZfUGvvm4AA07JNVY4SS) | [Blood Full of Metal](https://open.spotify.com/album/2mIC9Fjg06dzZpcHiDFngB) | 3:12 | 2026-02-03 | 2026-03-20 |
 | [Bloodshot Eyes](https://open.spotify.com/track/4XzNILnHHcfJxtRtGn4Ow8) | [Ruth A Harris](https://open.spotify.com/artist/4TUBRIaMIcsQUgkIIl5Vz8) | [Bloodshot Eyes](https://open.spotify.com/album/5P9VKrEu11OUOb8Rxj6yla) | 3:33 | 2026-02-08 | 2026-03-29 |
 | [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 3:42 | 2025-11-01 | 2026-01-17 |
+| [Bruise \- made of glass version](https://open.spotify.com/track/1ViyTiiu8JELEBdkq9Ki7W) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Bruise \(made of glass version\)](https://open.spotify.com/album/5TfTDGWMnOpeyN2PK236fD) | 3:38 | 2026-04-24 |  |
 | [California \- Radio Edit](https://open.spotify.com/track/00NvDiyBeyErGKoPKAW8GH) | [GCProductions](https://open.spotify.com/artist/524uMXhv7f1HWx04B6CsXj) | [California \(Radio Edit\)](https://open.spotify.com/album/3TuKbkTwwZvdpZ5lYyZJTo) | 3:24 | 2026-01-16 | 2026-02-11 |
 | [Call Your Mama \(Don't Call Me\)](https://open.spotify.com/track/4b2xYezRYlT9jf6nKxPOwT) | [J0VANNA](https://open.spotify.com/artist/1ILEWunbo2Yr5xi6LXJtGy) | [Call Your Mama \(Don't Call Me\)](https://open.spotify.com/album/3WPYj0X3qC3jPwzyr3jekD) | 4:15 | 2025-10-17 | 2025-12-12 |
 | [Can I See U Again?](https://open.spotify.com/track/0ZfTda2rDafMvWBLghgoEW) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [One](https://open.spotify.com/album/6Nq8LT0hzTEbeMBOKKLA34) | 2:44 | 2026-04-02 |  |
@@ -137,6 +139,7 @@
 | [Hold On](https://open.spotify.com/track/66WZo836GgymQUJIomTs0v) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Hold On](https://open.spotify.com/album/0xZfbz18GIROo9S2LYCr1L) | 3:15 | 2026-02-28 | 2026-04-16 |
 | [Hold On Til You Let Go \(Tourist Version\)](https://open.spotify.com/track/7nkBhPsOjWRjvTGZI1DPyz) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE) | [Hold On Til You Let Go](https://open.spotify.com/album/1BXaEV0oVzH4Uch6fuClSf) | 3:03 | 2025-12-23 | 2026-03-20 |
 | [holdingontosafety](https://open.spotify.com/track/4OJBealebm7hhRuyj2xGyt) | [vixxen](https://open.spotify.com/artist/3qkdIvVd0yfwaW8VxHHxdE) | [holdingontosafety](https://open.spotify.com/album/122NulHFFZ34lnasM1rBnR) | 2:42 | 2025-10-28 | 2025-12-12 |
+| [Hoochie Coochie Man](https://open.spotify.com/track/1opCG28oAY864tTGjZB2je) | [The Blue Mules](https://open.spotify.com/artist/07uYlW7XK9oTaN2itp1M6e) | [Out to Pasture](https://open.spotify.com/album/4ACsBAnhKaZvgvhNKuZRms) | 5:46 | 2026-04-24 |  |
 | [Hoping to Find](https://open.spotify.com/track/6RbmNoCjfOWlyyWe7nOVUX) | [Empty Melon](https://open.spotify.com/artist/1u5HkdqkmbCZD4R5FJK6Rq), [Samson Wrote](https://open.spotify.com/artist/4I9Z8sIw2vkXNvEptJ6klg) | [Hoping to Find](https://open.spotify.com/album/5jPUl5s7s3VQvnPaZfK3Wu) | 3:13 | 2026-03-21 | 2026-04-21 |
 | [Hurts \(Dancing With Ghosts\)](https://open.spotify.com/track/1QFmP5yTicfkV52OjzJRqD) | [The New Old](https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb) | [Hurts \(Dancing With Ghosts\)](https://open.spotify.com/album/1LttVa39jjMMHbKWXsKujT) | 3:59 | 2026-04-18 |  |
 | [i chose \(you\)](https://open.spotify.com/track/43FMQXLgPcXdA8GVXxrIJc) | [wone](https://open.spotify.com/artist/2lVHLWuHbuXUoldxPjT0xt) | [i chose \(you\)](https://open.spotify.com/album/2kZv9QPZ6UwPXdNiSBdpjc) | 1:58 | 2026-02-08 | 2026-03-29 |
@@ -174,6 +177,7 @@
 | [let me down](https://open.spotify.com/track/3GNrt3MEs5gaHGJRVuuoDr) | [Pixie Cola](https://open.spotify.com/artist/50vL1eTCa1R40d6BMCkX4G) | [let me down](https://open.spotify.com/album/1zbr6mwb5gTnPWHqQnCYrm) | 3:41 | 2025-10-30 | 2026-01-17 |
 | [Letter \(for the Quiet\)](https://open.spotify.com/track/6YU0GtUQ0OM3l0F6QAEKYQ) | [Dave D.](https://open.spotify.com/artist/0Mc5CkhanpC4GIt4aR3gzK) | [Letter \(for the Quiet\)](https://open.spotify.com/album/0fs9NuS5lFG12SLgi4IAuS) | 2:15 | 2026-02-09 | 2026-03-29 |
 | [Level of Life](https://open.spotify.com/track/6mudyCp3eCaKgnYdXKODmw) | [poliester](https://open.spotify.com/artist/5EBtUpLChJomEjgY0xIGhX) | [Level of Life](https://open.spotify.com/album/2JDkUv7HpUjsNLlq9uFNTO) | 3:17 | 2026-03-19 | 2026-04-21 |
+| [Lily](https://open.spotify.com/track/4OPBtsOzDhKJZAclQG9wO1) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Lily](https://open.spotify.com/album/1ckHOvHDfLQrNRK4jJvE9Q) | 4:31 | 2026-04-24 |  |
 | [Liminal](https://open.spotify.com/track/1vHbFf4vScIbvOqdlUTmIU) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Liminal](https://open.spotify.com/album/0eMFhVV9J64pfUouzj7wAs) | 2:40 | 2026-04-02 |  |
 | [Little Red Corvette](https://open.spotify.com/track/45cnMC7EXUO4CEzKGyg527) | [This Side of Wednesday](https://open.spotify.com/artist/0ft5RSHIKkcsSexjHEIV6V) | [Breath](https://open.spotify.com/album/7brV5bURCt0XvWfjcT9H75) | 3:48 | 2026-03-10 | 2026-04-16 |
 | [Little Self\-Indulgent](https://open.spotify.com/track/6MIEwxpFDX4AeOhYJejFPv) | [Western Jaguar](https://open.spotify.com/artist/71axwQvFwcRQJmwodhoGR3) | [Kaleidoscope](https://open.spotify.com/album/2wkD37IBLLNRoCPfXEMY53) | 3:00 | 2026-01-20 | 2026-03-10 |
@@ -185,6 +189,7 @@
 | [LUV STRUCK](https://open.spotify.com/track/27lMGJ24Ry90rS18akyYnT) | [Hxtra](https://open.spotify.com/artist/5UWCbi9dD4BzERjl7b3Neb) | [9 2 5](https://open.spotify.com/album/3trknleJinlGnyzjZRTi40) | 2:24 | 2026-01-03 | 2026-03-29 |
 | [Machete](https://open.spotify.com/track/5qoNe1iZ1yZCeFYlWqRbx1) | [Gena Perala](https://open.spotify.com/artist/49SGUG6CqLLqOSOYeMzunF) | [Machete](https://open.spotify.com/album/18SVDGTQeAPS7ecCtveXp7) | 3:13 | 2025-10-17 | 2025-12-12 |
 | [Madaket](https://open.spotify.com/track/6ZKCx0dVN1bceicxHOK4T1) | [Royal Fools](https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8) | [PROM](https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg) | 3:43 | 2026-03-26 | 2026-04-21 |
+| [Make It Worse](https://open.spotify.com/track/53YJmmTjLfxBoII5Trch3G) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [Make It Worse](https://open.spotify.com/album/7s2KtVx8mZdixUpo1Y2qbU) | 3:02 | 2026-04-24 |  |
 | [Makes Me Happy](https://open.spotify.com/track/2RuYgdEBxV2exf6GsHzlJ0) | [Paul Louis Villani](https://open.spotify.com/artist/34d63lSdZvsG2w63yzIFBn) | [Makes Me Happy](https://open.spotify.com/album/74a0SSWcCSIXPRBh3TjA2x) | 2:49 | 2026-02-10 | 2026-03-29 |
 | [MASKARA](https://open.spotify.com/track/5o9Gq3MdlkkMYamhtnLigy) | [Se7enth Fret](https://open.spotify.com/artist/1RHTImcBpYt4lt58OJp938) | [MASKARA](https://open.spotify.com/album/4Lxs8ix1Y1kGX3UO7sOfMp) | 3:39 | 2025-10-24 | 2025-12-02 |
 | [MAYDAY](https://open.spotify.com/track/5xWsnPctjnUuHJ1UwBiRor) | [RedMoon](https://open.spotify.com/artist/1tRFUNiUD1F6JEUTa2aQAo) | [MAYDAY](https://open.spotify.com/album/5h76yRMMzTY1LI64nPGoHV) | 3:45 | 2025-11-07 | 2026-01-17 |
@@ -271,6 +276,7 @@
 | [That's Cool](https://open.spotify.com/track/2k7SrfAazc3aXOSGcBT66L) | [Slaney Bay](https://open.spotify.com/artist/6jfR9Na2d55xoFOK5mQT1I) | [That's Cool](https://open.spotify.com/album/7aPGxG33vGIZrTO3YQ5xQb) | 3:46 | 2026-04-12 |  |
 | [The Axe And The Tree](https://open.spotify.com/track/60keYGcrWfPvBNn53Ho0wY) | [TULLE](https://open.spotify.com/artist/6OiVFeVhtP4mo9QSVheiuI) | [The Axe And The Tree](https://open.spotify.com/album/0RtdVvj5nOgkx9tDdoJeq0) | 3:50 | 2025-10-29 | 2026-01-17 |
 | [The Battlefield](https://open.spotify.com/track/6ZsI0iTfApqX1fFczChBrk) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Archive](https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH) | 4:42 | 2026-01-23 | 2026-03-10 |
+| [the edge](https://open.spotify.com/track/1qap8YYPjmzGLAIV4oeDm1) | [gracyn blu](https://open.spotify.com/artist/6u9vFlNKeUTJQcHCwJX8qN) | [the edge](https://open.spotify.com/album/2jf4GbLG7k8pYmq7uwB6N3) | 3:11 | 2026-04-24 |  |
 | [The Endless Road](https://open.spotify.com/track/2VanWVfCTkKfP3pFGAPdzj) | [La Marti](https://open.spotify.com/artist/54APiQm3k38o1R11DK1GkV) | [LOOP](https://open.spotify.com/album/6CwPqLs2ZG7oAqGj7DDpzS) | 3:15 | 2025-10-24 | 2025-12-12 |
 | [The Immortal Man](https://open.spotify.com/track/5ph8vrJG60fZ5s4kp4SlrQ) | [Euan Merchill](https://open.spotify.com/artist/2IgZ6614NLgSh7SUv55fDz) | [The Immortal Man](https://open.spotify.com/album/10MDJ4CXiHCfZxX5O7ROEE) | 1:27 | 2025-11-15 | 2026-01-17 |
 | [The Party](https://open.spotify.com/track/3MDPDsTbteMtMytdsvMLBB) | [The Great Leslie](https://open.spotify.com/artist/4nLnyYZc70ZItmWTW0oo9W) | [The Party](https://open.spotify.com/album/5zd3NUklLnUdqPgU54YlL2) | 3:04 | 2026-02-19 | 2026-04-16 |
@@ -332,6 +338,7 @@
 | [Yes I Can](https://open.spotify.com/track/0gqAbfeygrSgMrCiiyH1FK) | [Corinne Cook](https://open.spotify.com/artist/0T6E8iD2LpBY1wBzxsIbCA) | [Yes I Can](https://open.spotify.com/album/49OoChDqql0vAqyr5XAFlL) | 3:30 | 2026-04-17 |  |
 | [Yes I Hope](https://open.spotify.com/track/4nYjSNumkVBOWJl7xbImKq) | [Roots Habits](https://open.spotify.com/artist/6jCRadZaIZtiXstamJAyJX) | [Yes I Hope](https://open.spotify.com/album/6vGfjWBItGXGUcbGpOAuft) | 3:39 | 2025-10-24 | 2025-12-02 |
 | [You & Me](https://open.spotify.com/track/2hfm5hiifBPWSueyh2WqdW) | [Lipstick](https://open.spotify.com/artist/7uFXs2KLMId1XYKLSbQlzv) | [You & Me](https://open.spotify.com/album/5Z2u2i6gk0Dry8QjI1GmrD) | 3:26 | 2025-11-18 | 2026-01-17 |
+| [You Give, He Takes](https://open.spotify.com/track/2bJloALscWRyZPIuvtWq9z) | [Gwyn English Nielsen](https://open.spotify.com/artist/2qiQLmWs81Zno7WFH4lLiS) | [You Give, He Takes](https://open.spotify.com/album/46q3fiyfLy6pyuvOApscDB) | 4:37 | 2026-04-24 |  |
 | [You're So Uninviting](https://open.spotify.com/track/1U6hp7lzgST4lzxRIR1VvW) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k), [Molly Coleman](https://open.spotify.com/artist/3zVctuiATB47XZXKAgzPZD) | [Zero Hour: Genesis](https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r) | 3:15 | 2026-04-06 |  |
 | [Your Flow](https://open.spotify.com/track/7w3PDDIQ9mO58DnRpbwRFJ) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Your Flow](https://open.spotify.com/album/5IMkL1GoZJlrtEqnNGR5Wn) | 3:00 | 2026-04-02 |  |
 | [Étoile filante](https://open.spotify.com/track/26hNIEGpPFju35mGC9dnE7) | [Naghmeh](https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a) | [Étoile filante](https://open.spotify.com/album/4x8IeORcUdpLZBMFwfX7aH) | 5:27 | 2026-01-09 | 2026-02-20 |

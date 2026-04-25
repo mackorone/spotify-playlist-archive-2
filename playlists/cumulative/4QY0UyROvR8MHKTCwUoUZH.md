@@ -4,7 +4,7 @@
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2026 \| Koffie Chill \| Café Music
 
-244 songs - 13 hr 28 min
+247 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 | 2025-07-18 | 2025-08-23 |
 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 | 2025-07-18 | 2025-10-18 |
 | [Bigger Than The Song \- Piano Demo](https://open.spotify.com/track/7BrxPPY9EVpgo9YzjCGADB) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Bigger Than The Song \(Piano Demo\)](https://open.spotify.com/album/3jPAbSqVDqgHHDfxXsNQVG) | 3:09 | 2025-07-18 | 2025-10-18 |
+| [Birthday Makeup](https://open.spotify.com/track/3dV2zlpwJBCyQ9saGkBExd) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Birthday Makeup](https://open.spotify.com/album/5GEtta9qkKWmoWVZxbsq8t) | 2:54 | 2026-04-24 |  |
 | [blind](https://open.spotify.com/track/0iYYv7euzTEuJ0BlZpjiI6) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [blind](https://open.spotify.com/album/3gBJbIQe4XQSiShh6Mgw8n) | 3:30 | 2025-07-18 | 2025-09-20 |
 | [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 | 2026-04-17 |  |
 | [Boy and the Swan](https://open.spotify.com/track/1RZSLpEvLkZ0mhYygJT6tZ) | [Aqua Riyaz](https://open.spotify.com/artist/1byg6yqO001L4j7Zw7fuHm) | [Boy and the Swan](https://open.spotify.com/album/5aZ6bNwi9LwOujAYVBBjN6) | 3:38 | 2025-11-07 |  |
@@ -119,6 +120,7 @@
 | [It’s Easier Said Than Done](https://open.spotify.com/track/31MYlzWnbg53MGVdlTUq7v) | [Ch’aska Kroes](https://open.spotify.com/artist/6R9Q2Pl8dPPsfVkrVQpLQb) | [It’s Easier Said Than Done](https://open.spotify.com/album/2LoVhsCTrXGUzy4oKJgc7t) | 3:08 | 2026-02-06 |  |
 | [Jij Verdient Het](https://open.spotify.com/track/1uXrlxv9eSdCnYtUD5hafk) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Jij Verdient Het](https://open.spotify.com/album/1sQLV0R27jVUCxY134ntKB) | 3:26 | 2025-11-21 | 2026-02-07 |
 | [Just A Kid](https://open.spotify.com/track/7LAiBcBZ7qKR4Y9I8KTMsZ) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Just A Kid](https://open.spotify.com/album/2px5tlymZAQaQRHXXglaTc) | 4:18 | 2026-03-27 |  |
+| [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 | 2026-04-24 |  |
 | [Laat Het Licht Aan](https://open.spotify.com/track/3m7590UqY1VXNtF6axoWj1) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Laat Het Licht Aan](https://open.spotify.com/album/04rBOWpJpSp3pDFU5EGXb4) | 4:00 | 2026-03-20 | 2026-04-18 |
 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 | 2025-07-18 |  |
 | [Let You In](https://open.spotify.com/track/2OqGfyw3dx6GikP01EwLYf) | [Marlon Funaki](https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6) | [Let You In](https://open.spotify.com/album/4mo9EM8C3Q2UXjvIexBSwY) | 3:58 | 2026-01-09 |  |
@@ -160,6 +162,7 @@
 | [One Day](https://open.spotify.com/track/16rVMhdt2dOn8Zj486DAS8) | [Lotte Walda](https://open.spotify.com/artist/0IkirifajdauvWWt6wZkC6) | [One Day](https://open.spotify.com/album/1qcBuQfVNCJTE6nI6ETCkz) | 2:50 | 2025-07-18 | 2025-08-23 |
 | [One Door Closes \(feat\. Breland\)](https://open.spotify.com/track/6ExcHgzbMNJEBqnBtaMko6) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [One Door Closes \(feat\. Breland\)](https://open.spotify.com/album/5AOYmjNyAFYXsceGhAB6Dr) | 3:07 | 2025-07-18 |  |
 | [orange tree](https://open.spotify.com/track/0pZIv8h9n7aN7PDVIWhC0l) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV) | [3.2](https://open.spotify.com/album/0WKm0yeZhfEbxxPa1FfJbI) | 3:17 | 2025-07-18 | 2025-10-11 |
+| [Our Time Is Up](https://open.spotify.com/track/6i9CBvx5o2YnRxTNXbNyq5) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [Our Time Is Up](https://open.spotify.com/album/2k09ozVolPTKIIqE5AJ9Ex) | 2:48 | 2026-04-24 |  |
 | [out of my mind](https://open.spotify.com/track/36NVtIisPrRSvi82qrASFT) | [woody](https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4) | [out of my mind](https://open.spotify.com/album/0Y0xqhFjFW09H0NsuxyQha) | 2:11 | 2025-09-19 |  |
 | [Out Tonight](https://open.spotify.com/track/0WJ8Or1MIGFsX4rzwMuPxd) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [Out Tonight](https://open.spotify.com/album/4xNJnLAgqlk7z0I0iktw1m) | 4:13 | 2025-07-18 |  |
 | [Over You](https://open.spotify.com/track/3slbgFPGIqBPcQH1gDynB5) | [Tyler Page](https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl) | [Over You](https://open.spotify.com/album/4QZRQsznUdzpTFeKXb4x95) | 3:28 | 2025-07-18 | 2025-09-13 |

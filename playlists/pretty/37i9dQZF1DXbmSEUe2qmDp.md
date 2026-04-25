@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Cristinas
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,074 likes - 70 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,081 likes - 70 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 4 | [Loucura ou Calmaria](https://open.spotify.com/track/5D74e7MiHeiI7OUfCzfjZ4) | [Gabriel Sales](https://open.spotify.com/artist/6tcNRB3rCmYF41qZo5UXkL) | [Loucura ou Calmaria](https://open.spotify.com/album/5uRPgpF1xTj7SNO144kJTn) | 3:06 |
 | 5 | [Adrenalina](https://open.spotify.com/track/70a5UtwaRBqKE9jcr7s96y) | [Cleber & Henrique](https://open.spotify.com/artist/7z48B4UbsaRaEfsRKgqDJk) | [Aqui Tem Sentimento, Ep.3](https://open.spotify.com/album/3VcU0KNUWCQjGfKf5DGQz8) | 3:13 |
 | 6 | [Corações Egoístas \- Ao Vivo](https://open.spotify.com/track/2qkQepMIeGGSJJUMpADU4T) | [Leandro & Romário](https://open.spotify.com/artist/3BwrR3T9qKOrTV42JkJkOk), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Corações Egoístas \(Ao Vivo\)](https://open.spotify.com/album/5EJ3gqKytGFbpTcCqa2i1d) | 3:20 |
-| 7 | [Guenta o Choro](https://open.spotify.com/track/0PhjgvCL3lN6fKrAXbXVtj) | [Thainara e Thatiane](https://open.spotify.com/artist/0zbqv1rXBlxjfA0nkTvIN8) | [Guenta o Choro](https://open.spotify.com/album/7cHvfn6RrEyHdpWO6GNlgI) | 3:00 |
+| 7 | [Guenta o Choro \(Ao Vivo em São Paulo\)](https://open.spotify.com/track/0PhjgvCL3lN6fKrAXbXVtj) | [Thainara e Thatiane](https://open.spotify.com/artist/0zbqv1rXBlxjfA0nkTvIN8) | [Guenta o Choro \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/7cHvfn6RrEyHdpWO6GNlgI) | 3:00 |
 | 8 | [IMPERFEITA](https://open.spotify.com/track/5DI2UrNUQBqpOPiPs9wLWj) | [Bia Frazzo](https://open.spotify.com/artist/4iT6fJ3MKoAJGORL59NAq1) | [NO TEMPO CERTO](https://open.spotify.com/album/2SoCNgCNcBxaEJLj3XUevZ) | 2:36 |
 | 9 | [Porteira Fechada \- Ao Vivo](https://open.spotify.com/track/1yAnmsUZERvZbolGbKwCFx) | [Bruna Lipiani](https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK) | [Barzin, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig) | 2:58 |
 | 10 | [Cadeado No Dedo](https://open.spotify.com/track/54PL6YkAOs5jXF8mHajii0) | [Ruan e Davi](https://open.spotify.com/artist/5hiWmAGgzwo4nTKfAGpIID) | [Cadeado No Dedo](https://open.spotify.com/album/1UknpCqyp4CgzQyh3k0K1R) | 2:05 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 67 | [Número Chato \- Ao Vivo](https://open.spotify.com/track/6AOBP3LgN0y8DgqwqD7913) | [Leo Balbinotti](https://open.spotify.com/artist/4d6z6mxq6eHpFojPtbYIkx), [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Número Chato \(Ao Vivo\)](https://open.spotify.com/album/1eHpcJfss839hxB07LtRfu) | 3:14 |
 | 68 | [Histórico de Traição](https://open.spotify.com/track/78FtKsMjLYpliAWk6uoSGl) | [Matheus e Turelli](https://open.spotify.com/artist/5MPzeoZaH4CcqyHnGrTgjd) | [Histórico de Traição](https://open.spotify.com/album/1UQiTjTiE8pUWjyYtophZJ) | 2:44 |
 | 69 | [Tampa da Silverado](https://open.spotify.com/track/3AmUBqYceSmsF7wfE3pkDa) | [May e Gabi](https://open.spotify.com/artist/7Hp5amK5MrJdUFx1r9QrVq) | [Tampa da Silverado](https://open.spotify.com/album/6KU7uc58KPi2VIXtjY0rxj) | 2:22 |
-| 70 | [Track 1](https://open.spotify.com/track/5UThpd6uiIEi9cJWmNpKe6) | [Ana Karla](https://open.spotify.com/artist/7mw9XzFeAIy1kpWqdnuRG3) | [No Rancho, Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/01bDZkfxolGLZ2kG18EHK6) | 0:00 |
+| 70 | [Não Tenho Advogado \- Ao Vivo](https://open.spotify.com/track/5UThpd6uiIEi9cJWmNpKe6) | [Ana Karla](https://open.spotify.com/artist/7mw9XzFeAIy1kpWqdnuRG3) | [No Rancho, Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/01bDZkfxolGLZ2kG18EHK6) | 2:42 |
 
 Snapshot ID: `AAAAABREbM394rHzoLYEx0J6lh8/ryfN`

@@ -3848,7 +3848,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 70212,
       "name": "BAD ENDING FUNK",
       "url": "https://open.spotify.com/track/6eC8U3G5GCK7R5LFF1MOr6"
@@ -6534,7 +6534,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 139312,
       "name": "Bum Bum Bum - Pegada Diferente - Arrocha Rkt",
       "url": "https://open.spotify.com/track/5xXcZxlRt9m9s1dFRJKOeX"
@@ -17246,7 +17246,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 102549,
       "name": "Friendzone:(",
       "url": "https://open.spotify.com/track/6A0MYQs8BhzqkGNL687WpS"
@@ -20176,7 +20176,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
@@ -20892,7 +20892,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 206573,
       "name": "If I Get High",
       "url": "https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f"
@@ -27112,7 +27112,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 139400,
       "name": "MHM",
       "url": "https://open.spotify.com/track/4gHWdRP5ocZkEhq1iDStoI"
@@ -28958,7 +28958,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 124192,
       "name": "MONTAGEM TENTA - Ultra Slowed",
       "url": "https://open.spotify.com/track/19IqfP3VMU1znnY9bbQKKQ"
@@ -38288,6 +38288,24 @@
     {
       "album": {
         "name": "Sabor Caramelo",
+        "url": "https://open.spotify.com/album/7rHYbHNneJYoYlR8hYm08c"
+      },
+      "artists": [
+        {
+          "name": "hoodchad",
+          "url": "https://open.spotify.com/artist/42L0YOiZcb3PqtLq5NE7AO"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244073,
+      "name": "Sabor Caramelo",
+      "url": "https://open.spotify.com/track/4MjGQq5BNhN9g01lZwcRk8"
+    },
+    {
+      "album": {
+        "name": "Sabor Caramelo",
         "url": "https://open.spotify.com/album/0naG7R85r26QaLbyKllWtT"
       },
       "artists": [
@@ -40196,7 +40214,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 160000,
       "name": "Skokka",
       "url": "https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi"
@@ -42188,7 +42206,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 177336,
       "name": "suficiente.",
       "url": "https://open.spotify.com/track/4Q1jDNoMRYdF9JLhRvuRUZ"
@@ -43620,7 +43638,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 211022,
       "name": "Termonuclear",
       "url": "https://open.spotify.com/track/7AvyWxJDbrAjR3G50RBW3b"
@@ -44532,7 +44550,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 193763,
       "name": "Todo lo perd\u00ed por t\u00ed",
       "url": "https://open.spotify.com/track/4E3Qk4lLjIQ9NzwBINqoAG"

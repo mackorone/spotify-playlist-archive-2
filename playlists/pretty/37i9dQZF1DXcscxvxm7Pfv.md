@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 
 > Free your mind from distraction with calming white noise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,387 likes - 175 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,576 likes - 175 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 | 61 | [Immersed in White Air](https://open.spotify.com/track/3esA3EYPSkKDu7DxEt6gaA) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Immersed in White Air](https://open.spotify.com/album/2GYMitNPvy0PP0EoyYnDZ0) | 2:39 |
 | 62 | [Lost In Noise](https://open.spotify.com/track/5dKAN40CfHqXP7hHDXtMtl) | [Libronics](https://open.spotify.com/artist/3aRPewMsLWgCfDyogfVWja) | [Sky Full Of Noise](https://open.spotify.com/album/0smg0ZqmbCMR489whHG7Bc) | 2:13 |
 | 63 | [Velvet White Noise](https://open.spotify.com/track/24d4j7cIt4HOVDw10BVBxl) | [Casper White](https://open.spotify.com/artist/4weaxjLzThghACmvjNt9JT) | [Velvet White Noise](https://open.spotify.com/album/6MHYI6rZPfrkLqllWCk5HW) | 2:30 |
-| 64 | [White Noise Dreaming](https://open.spotify.com/track/3XQcmUXD9q6RcF6CHCoYXc) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 |
+| 64 | [White Noise Dreaming](https://open.spotify.com/track/3XQcmUXD9q6RcF6CHCoYXc) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 |
 | 65 | [Sleep With White Noise](https://open.spotify.com/track/4GYPT9EGhQ5qvJ9vkubDLC) | [Nobsil](https://open.spotify.com/artist/7flGFW8VeFeveEvMR3MI4m) | [Sleep With White Noise](https://open.spotify.com/album/4Otyz0kOlV9DnrgLSc62Qu) | 3:15 |
 | 66 | [Hugging White Noise](https://open.spotify.com/track/2InYISGssmeLsVXzLCC6iw) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [Peaceful Flow of White Noise](https://open.spotify.com/album/0FYx1eAmRmf8v2b83MtvQe) | 4:30 |
 | 67 | [Sleepy Soft Noise](https://open.spotify.com/track/3b6pTPDhlQqTwxuUhZlUR8) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Sleepy Soft Noises](https://open.spotify.com/album/6jHLUQbTlVpXynGKp7dhc6) | 3:50 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 | 70 | [White Cloud Dreamscape](https://open.spotify.com/track/0NNcVrT5UMYukfgMhP41UU) | [Sleeping Parachuter](https://open.spotify.com/artist/00NdWBjv7CpdfDBXUfg5qq) | [White Cloud Dreamscape](https://open.spotify.com/album/16jIj4vPU3lKtKHzL5Gi9F) | 3:04 |
 | 71 | [Sphere of White Noise](https://open.spotify.com/track/7li9YpEf6UHef3eLNQCmDZ) | [Spheres of Air](https://open.spotify.com/artist/4ocFgSJFk2gM8GdSkAo3jv) | [Sphere of White Noise](https://open.spotify.com/album/2wkcsYwf8lbKal2eA0hd6j) | 2:26 |
 | 72 | [White Cloud Noise](https://open.spotify.com/track/4sSUWGb5TSL0RWgtcGv7eq) | [Fizzonaut](https://open.spotify.com/artist/0NBa3X8xLJZR9XD1BK7zI9) | [White Cloud Noise](https://open.spotify.com/album/6rKbwqFP19UCdwcCJ0yAUO) | 2:36 |
-| 73 | [White Noise for Relaxation](https://open.spotify.com/track/6C1WVY1WE6wXNXVAAZsb0x) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 |
+| 73 | [White Noise for Relaxation](https://open.spotify.com/track/6C1WVY1WE6wXNXVAAZsb0x) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 |
 | 74 | [In Somnio](https://open.spotify.com/track/1mZrMMxn7NiWOHMOnbpJ3r) | [Zendium](https://open.spotify.com/artist/4yi6Bu5q83ZFBlj3KH1CFV) | [In Somnio](https://open.spotify.com/album/060GnhHLT7K6aFa2HA9393) | 3:03 |
 | 75 | [White Noise Flakes](https://open.spotify.com/track/0wVyUtOvYWJvniPRidlNnQ) | [The White Noise Travelers](https://open.spotify.com/artist/2lzZvKC270yTvCR38zFsH5) | [White Noise Flakes](https://open.spotify.com/album/186AWO9dm1Ly8aNBWBuA2p) | 4:32 |
 | 76 | [Rumore Leggero](https://open.spotify.com/track/5fhWu1bWtVFf1ZyqVxKdXT) | [Aum Balti](https://open.spotify.com/artist/0Tvw6JStyvQslAwq4tkfvE) | [Rumore Leggero](https://open.spotify.com/album/2gUqOfKDQU6tl4hgAuGgjj) | 2:26 |

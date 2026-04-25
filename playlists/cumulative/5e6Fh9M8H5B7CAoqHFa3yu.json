@@ -4101,6 +4101,28 @@
     },
     {
       "album": {
+        "name": "Simona",
+        "url": "https://open.spotify.com/album/0C2rcexcjETIxlulOZ5jNV"
+      },
+      "artists": [
+        {
+          "name": "The Dubbstyle",
+          "url": "https://open.spotify.com/artist/2EhzGQxSHKOjcrOSieAF0g"
+        },
+        {
+          "name": "Enzo Furiasse",
+          "url": "https://open.spotify.com/artist/2pjdp0OWLARTr3lAKQEBjh"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321014,
+      "name": "Bloodfire - Trombone Version",
+      "url": "https://open.spotify.com/track/1XkIQmgk1v7r0XICkPemse"
+    },
+    {
+      "album": {
         "name": "Blu Cobalto",
         "url": "https://open.spotify.com/album/1YYo7JU3aOxXaao7qgMbb7"
       },
@@ -16116,6 +16138,24 @@
       "duration_ms": 174400,
       "name": "I'll Let Go",
       "url": "https://open.spotify.com/track/3k5NyjxlzKvSbPrZKcS7uM"
+    },
+    {
+      "album": {
+        "name": "Paul Marturano Volume 2 Two Album Set More! / Delco Girl",
+        "url": "https://open.spotify.com/album/3l1MTuLII5RaArXBi4DJI5"
+      },
+      "artists": [
+        {
+          "name": "Paul Marturano",
+          "url": "https://open.spotify.com/artist/4ErK966kYcXS7y7s4e3MLA"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217391,
+      "name": "I'll Love You More",
+      "url": "https://open.spotify.com/track/7oGoQa2KyTA9Nyi4Qti2SB"
     },
     {
       "album": {

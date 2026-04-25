@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 81355,
+  "num_followers": 81434,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aegPgAAAAAAj5oyxcOrKvxH+lw+ZtT93",
+  "snapshot_id": "aelhAAAAAAA4FQ7stISAYSL+xCdWgavC",
   "tracks": [
     {
       "added_at": null,
@@ -567,26 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "6WA",
-        "url": "https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0"
+        "name": "Orange Tape",
+        "url": "https://open.spotify.com/album/3mpkdo7GWwzFfqhIBQNhHU"
       },
       "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
         {
           "name": "Ro$ama",
           "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
         },
         {
-          "name": "600 Ent.",
-          "url": "https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU"
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 179053,
-      "name": "SAFE TO SAY",
-      "url": "https://open.spotify.com/track/3LiKjOCPBdHptHFuVByheV"
+      "duration_ms": 107520,
+      "name": "Microwave",
+      "url": "https://open.spotify.com/track/6EZ6hE4t5rUGbmyRQGexAF"
     },
     {
       "added_at": null,
@@ -607,22 +603,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Orange Tape",
-        "url": "https://open.spotify.com/album/3mpkdo7GWwzFfqhIBQNhHU"
+        "name": "6WA",
+        "url": "https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0"
       },
       "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
         {
           "name": "Ro$ama",
           "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
         },
         {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+          "name": "600 Ent.",
+          "url": "https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU"
         }
       ],
-      "duration_ms": 107520,
-      "name": "Microwave",
-      "url": "https://open.spotify.com/track/6EZ6hE4t5rUGbmyRQGexAF"
+      "duration_ms": 179053,
+      "name": "SAFE TO SAY",
+      "url": "https://open.spotify.com/track/3LiKjOCPBdHptHFuVByheV"
     },
     {
       "added_at": null,

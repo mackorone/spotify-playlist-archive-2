@@ -221,6 +221,42 @@
     },
     {
       "album": {
+        "name": "Assumptions",
+        "url": "https://open.spotify.com/album/17btGIpUl43JayT0cd4SrE"
+      },
+      "artists": [
+        {
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180250,
+      "name": "Assumptions",
+      "url": "https://open.spotify.com/track/475RJCzrQfMrxOs2QIWTad"
+    },
+    {
+      "album": {
+        "name": "Asterium",
+        "url": "https://open.spotify.com/album/3Tp2ArnnsUkK6FI4eHTR0K"
+      },
+      "artists": [
+        {
+          "name": "Valter Soll",
+          "url": "https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170270,
+      "name": "Asterium",
+      "url": "https://open.spotify.com/track/34wJdKrvz1WaxKFLNAodKn"
+    },
+    {
+      "album": {
         "name": "Automne Nordique",
         "url": "https://open.spotify.com/album/2CJKxKIUE2IxWHIAkVbQEo"
       },
@@ -347,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Bloom Later",
+        "url": "https://open.spotify.com/album/4UugupuV93QB32rdUWZciN"
+      },
+      "artists": [
+        {
+          "name": "Aron E. Ross",
+          "url": "https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180937,
+      "name": "Bloom Later",
+      "url": "https://open.spotify.com/track/0IoJYjMhJhOiwXqnkkBWoJ"
+    },
+    {
+      "album": {
         "name": "Bl\u00e5regn",
         "url": "https://open.spotify.com/album/3d2SCTUaH6LJLEz1uXmDKT"
       },
@@ -394,7 +448,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 193264,
       "name": "Bulles \u00e0 facettes",
       "url": "https://open.spotify.com/track/6cPE6jra0BmU8kLzgeUZbb"
@@ -448,7 +502,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 172135,
       "name": "Caliesa",
       "url": "https://open.spotify.com/track/4Lj9Ap737rbqtH2Zd6skxa"
@@ -690,7 +744,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 141097,
       "name": "Dagr\u00f8m",
       "url": "https://open.spotify.com/track/2x66aNwtjp3riJ1lurDElm"
@@ -1086,7 +1140,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 149295,
       "name": "First ray of Spring",
       "url": "https://open.spotify.com/track/2Q49O6CW8hp39XBFrUoQ97"
@@ -1842,7 +1896,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 176000,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/7cMwmMmh2RRtGv1jl3QPUH"
@@ -1968,7 +2022,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 184018,
       "name": "Ligare Arcum",
       "url": "https://open.spotify.com/track/2SQnm2Hx9VCWopW6LMCD3N"
@@ -1986,7 +2040,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 124000,
       "name": "Like A Bird",
       "url": "https://open.spotify.com/track/6r5bBE3crGBDnpC3CFEGJ6"
@@ -2465,6 +2519,24 @@
     },
     {
       "album": {
+        "name": "Only For A Moment",
+        "url": "https://open.spotify.com/album/7Mxd1kmBofLNdZt9CqEDmx"
+      },
+      "artists": [
+        {
+          "name": "Allard Sidonia",
+          "url": "https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159449,
+      "name": "Only For A Moment",
+      "url": "https://open.spotify.com/track/08htEt0QGaEmhHKAoDCVxp"
+    },
+    {
+      "album": {
         "name": "Overcome",
         "url": "https://open.spotify.com/album/3r50b0k1FpdZfmoPg8FVQY"
       },
@@ -2620,7 +2692,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 186000,
       "name": "Perspectives",
       "url": "https://open.spotify.com/track/4NLORT4CrxkYaegK1ywz4v"
@@ -2872,7 +2944,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 167500,
       "name": "Rest",
       "url": "https://open.spotify.com/track/6qetTUm5h5LvvHCsALacJt"
@@ -3236,7 +3308,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 151124,
       "name": "Simplicity",
       "url": "https://open.spotify.com/track/7g9did3yWdVsr9jdcPXAeI"
@@ -3506,7 +3578,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 141791,
       "name": "Sweet Alyssum",
       "url": "https://open.spotify.com/track/18pY1jOgghih2kWeKu6Yhw"
@@ -3686,7 +3758,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 118415,
       "name": "The Sleeping Valley",
       "url": "https://open.spotify.com/track/1GnmkBkteF7OUcZt4vhrXS"
@@ -3920,7 +3992,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 127250,
       "name": "Tr\u00e4umerei",
       "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
@@ -3974,7 +4046,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 154530,
       "name": "Unfinished",
       "url": "https://open.spotify.com/track/1lqqv1ZIxegDxxz95fGF07"

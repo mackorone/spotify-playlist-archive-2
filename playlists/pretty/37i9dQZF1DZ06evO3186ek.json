@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 165267,
+  "num_followers": 165270,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aegPgAAAAADr6PbPsdD0uXw42WsOJch+",
+  "snapshot_id": "aelhAAAAAAAJ755KYyPWa31XcuEmKBNv",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Was Made To Glorify Your Name",
+        "url": "https://open.spotify.com/album/5WUPJV4LB0mMvypBL8Sfc0"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Hindrix Brown",
+          "url": "https://open.spotify.com/artist/0MKSEV762KVJJXueLFnQut"
+        }
+      ],
+      "duration_ms": 202671,
+      "name": "RUN 2 U",
+      "url": "https://open.spotify.com/track/2PtFjEZQgKYaei2JsCU8xJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Need Help",
         "url": "https://open.spotify.com/album/2aaMNz3MYoI1pnJUvqqkC2"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 168998,
       "name": "I Need Help",
       "url": "https://open.spotify.com/track/2wZ6SbRGqB20wbWh4f25q0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Was Made To Glorify Your Name",
-        "url": "https://open.spotify.com/album/5WUPJV4LB0mMvypBL8Sfc0"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Hindrix Brown",
-          "url": "https://open.spotify.com/artist/0MKSEV762KVJJXueLFnQut"
-        }
-      ],
-      "duration_ms": 202671,
-      "name": "RUN 2 U",
-      "url": "https://open.spotify.com/track/2PtFjEZQgKYaei2JsCU8xJ"
     },
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jubilee: Juneteenth Edition",
-        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Mav City Gospel Choir",
-          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
-        }
-      ],
-      "duration_ms": 360451,
-      "name": "Jireh (feat. Mav City Gospel Choir, Chandler Moore, Naomi Raine)",
-      "url": "https://open.spotify.com/track/2MYjytJWL1cXiv3jWvCqzZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simple Adoraci\u00f3n",
         "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 469125,
       "name": "Yeshua (feat. Karen Espinosa & Johnny Pe\u00f1a)",
       "url": "https://open.spotify.com/track/2RwWBMeU9g4KaOHxQchJ4e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jubilee: Juneteenth Edition",
+        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "duration_ms": 360451,
+      "name": "Jireh (feat. Mav City Gospel Choir, Chandler Moore, Naomi Raine)",
+      "url": "https://open.spotify.com/track/2MYjytJWL1cXiv3jWvCqzZ"
     },
     {
       "added_at": null,
@@ -1036,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/4qWwUB9j83xgUIhJXH3l8L"
         }
       ],
-      "duration_ms": 262304,
-      "name": "I Speak Jesus - Instrumental Worship",
-      "url": "https://open.spotify.com/track/1SC5WvC4xqYGKQTgRusjq9"
+      "duration_ms": 249152,
+      "name": "What A Beautiful Name - Instrumental Worship",
+      "url": "https://open.spotify.com/track/2C9IZBwpqLlexhvBx2HG7d"
     },
     {
       "added_at": null,
@@ -1144,9 +1144,9 @@
           "url": "https://open.spotify.com/artist/4qWwUB9j83xgUIhJXH3l8L"
         }
       ],
-      "duration_ms": 249152,
-      "name": "What A Beautiful Name - Instrumental Worship",
-      "url": "https://open.spotify.com/track/2C9IZBwpqLlexhvBx2HG7d"
+      "duration_ms": 258013,
+      "name": "Holy Forever - Instrumental Worship",
+      "url": "https://open.spotify.com/track/65ekJPmRsCEXOGQ9HoRLcB"
     },
     {
       "added_at": null,

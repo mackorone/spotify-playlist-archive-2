@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Kaz Bałagane, Steez83
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,940 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,955 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 18 | [Nieodebrane](https://open.spotify.com/track/5TyyDbRGSKvRXmcFxOLEqV) | [Paluch](https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv), [Chris Carson](https://open.spotify.com/artist/0gvoKJbY0q97HgBvPRmjMW), [DJ Eprom](https://open.spotify.com/artist/3Hmg6jjXn5TzGRwrsjGn80) | [Nieodebrane](https://open.spotify.com/album/68l8P8AF85qaCRQSBrqR6s) | 2:31 |
 | 19 | [fashionably late](https://open.spotify.com/track/6ry6SA50l59MWK0g0r2qJ8) | [5EB](https://open.spotify.com/artist/70P7as3HD8esc9Dx2TAR7o), [wane](https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh) | [fashionably late](https://open.spotify.com/album/37hWflaP3Kg38xgS9jOAKa) | 2:35 |
 | 20 | [nobodylovesu](https://open.spotify.com/track/6SYloZjvoxRwJmB2S1lymh) | [OKI](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd) | [REKLAMACJA'47: CD1](https://open.spotify.com/album/0PRUPTPf0yRQDFjpwasJ4Y) | 2:32 |
-| 21 | [Track 2](https://open.spotify.com/track/3UoUYRgymymRCJGI6CPV0t) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0) | [KING SENTO PROLOG](https://open.spotify.com/album/7LGckMbpmQA2chYILL6zSW) | 0:00 |
+| 21 | [MR\. OFFICER](https://open.spotify.com/track/3UoUYRgymymRCJGI6CPV0t) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0) | [KING SENTO PROLOG](https://open.spotify.com/album/7LGckMbpmQA2chYILL6zSW) | 2:46 |
 | 22 | [NIE MOGĘ SPAĆ](https://open.spotify.com/track/114kUAXv9TZxaFPaCpquMW) | [SVM!R](https://open.spotify.com/artist/4K8wRpyAE3Cwq4q5Jpgpdh) | [NIE MOGĘ SPAĆ](https://open.spotify.com/album/6vUt9dB9UvAHwd7Dk2v3Yp) | 2:00 |
 | 23 | [After](https://open.spotify.com/track/2C9ZtYMh1FNpMBB9ARaZhs) | [Tax Free](https://open.spotify.com/artist/1TdOWV3JFAGmZ1466aKbg5), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Kazior](https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8), [CUZCO$](https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei) | [After](https://open.spotify.com/album/2TBc8024032mYG0HGtjpsx) | 2:19 |
 | 24 | [24/7](https://open.spotify.com/track/6Y4NRk2afKRBAYeJqNP6eJ) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC) | [24/7](https://open.spotify.com/album/4jzzOpcajfvCEEjeH4sVcL) | 3:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzR2GKEiHgT.md) - [plain]
 
 > Slip into slumber with soothing sea sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,163 likes - 175 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,155 likes - 175 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzR2GKEiHgT.md) - [plain]
 | 69 | [Wellenspiel](https://open.spotify.com/track/7JKfoo5a2bETRkjTxH7uJ1) | [Relaxing Med Waves](https://open.spotify.com/artist/2aqWuM6vBNflw6fqeVv4SU) | [Wellenspiel](https://open.spotify.com/album/27BZxt3ZvJaOIX1rWyEhr4) | 3:16 |
 | 70 | [Sailing](https://open.spotify.com/track/1v6QpNfnrbVmJqPGZ1TsaV) | [Deep Sleep FX](https://open.spotify.com/artist/52ZkV6bSNDshzq9BGTudae) | [Deep Sleep FX](https://open.spotify.com/album/1y3kDuu8NrB0O3wM9ge5uj) | 3:05 |
 | 71 | [Pacific Ocean](https://open.spotify.com/track/4beKgc6XO9T2JUM7npzZNE) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 3](https://open.spotify.com/album/3IZyFF8P0myAf3kwEun9Fo) | 3:28 |
-| 72 | [Foggy Beach](https://open.spotify.com/track/4CiUUzSjTJ6zwMVQfALO9T) | [Recording Nature](https://open.spotify.com/artist/2x6v7aNgZjdgT9zyua8iCz) | [Mindful Waves](https://open.spotify.com/album/2Cfqa2u2YSwX0YOzCdXPnk) | 2:52 |
+| 72 | [Foggy Beach](https://open.spotify.com/track/4CiUUzSjTJ6zwMVQfALO9T) | [Recording Nature](https://open.spotify.com/artist/4TYMKtxvKr9lqWOIkzp5Jw) | [Mindful Waves](https://open.spotify.com/album/2Cfqa2u2YSwX0YOzCdXPnk) | 2:52 |
 | 73 | [Waves Crashing on Rocks](https://open.spotify.com/track/1orDQvwwaBsGbsxMNeiWZa) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Peaceful Rivers, Rains, Waves](https://open.spotify.com/album/4G0FQMpqDIYcEiXL2X4AVv) | 2:44 |
 | 74 | [Gentle Waves on Rocks](https://open.spotify.com/track/7oOeB6z1yHE3LTlZjJ5XJ9) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Waves](https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz) | 4:50 |
 | 75 | [Ocean Tranquility](https://open.spotify.com/track/6ssIEDSndneQgDbIlmRqqz) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Ocean Tranquility](https://open.spotify.com/album/4geX0rk2bvLyaToAuai8IT) | 3:50 |

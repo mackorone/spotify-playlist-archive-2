@@ -4,7 +4,7 @@
 
 > welcome to our universe ft\. show me the body
 
-1,285 songs - 2 day 15 hr 17 min
+1,285 songs - 2 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -700,6 +700,7 @@
 | [Like That](https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Mixtape](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 2:35 | 2022-11-11 | 2023-03-18 |
 | [LIKE THAT](https://open.spotify.com/track/1KKVUPOJ70kcOnR9CbjJz2) | [Laurel Smith](https://open.spotify.com/artist/39V5jPcGZJGgjB8VoBW5BT) | [LIKE THAT](https://open.spotify.com/album/6s1beXNSxM2Vz9xbpMmOon) | 2:12 | 2023-04-20 | 2023-05-19 |
 | [Lil Miss Self Destruct Vol\. 1](https://open.spotify.com/track/6KLarkkJYoeyQS7Yy5dIa9) | [HCK9](https://open.spotify.com/artist/2g6IivDp4K6q79pp4Dxuqd) | [Lil Miss Self Destruct, Vol\. 1](https://open.spotify.com/album/3i65VVmwZEWjIRB35rfcIu) | 3:01 | 2024-09-12 | 2024-10-11 |
+| [lilies](https://open.spotify.com/track/2H5O3Ah9f4W0RVAm3sdEOn) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [sorry about the plague](https://open.spotify.com/album/2Oo2vcRgni2zWLACFEZLNg) | 3:17 | 2026-04-23 |  |
 | [liMOusIne \(feat\. AURORA\)](https://open.spotify.com/track/6tVahG14lCjexVQnYWKgwF) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:11 | 2024-05-23 | 2024-09-27 |
 | [Lips Apart](https://open.spotify.com/track/4aoUEEatDORAXJfJ33ipyD) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [Lips Apart](https://open.spotify.com/album/2KKDs4kcxEjwsrhqYkSNan) | 3:26 | 2022-09-22 | 2023-07-07 |
 | [LIPSTICK](https://open.spotify.com/track/36LI0NMcZCEMDum03tPJvy) | [Scotty Overdose](https://open.spotify.com/artist/1oqCZv7Ggltj1xEC5gYjFS) | [LIPSTICK](https://open.spotify.com/album/7yHn0R98t9ozswcXXBRWbO) | 2:12 | 2022-10-27 | 2023-01-13 |
@@ -1170,7 +1171,6 @@
 | [tower of memories](https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [the theory of you](https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB) | 3:28 | 2025-09-11 |  |
 | [Toxic](https://open.spotify.com/track/75nfXT58HlELm2SGI3L0Ea) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [AlienBlaze](https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34) | [Toxic](https://open.spotify.com/album/5RMQfalO8QgRNArs0nIFuk) | 2:10 | 2023-12-15 | 2024-05-29 |
 | [Toxins](https://open.spotify.com/track/5MarKAwrQvOEGlCOKEeIw3) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Toxins](https://open.spotify.com/album/7lKTFbEOfMHcZ0xMzPB9md) | 2:22 | 2024-06-21 | 2024-10-04 |
-| [Track 3](https://open.spotify.com/track/2H5O3Ah9f4W0RVAm3sdEOn) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [sorry about the plague](https://open.spotify.com/album/2Oo2vcRgni2zWLACFEZLNg) | 0:00 | 2026-04-23 |  |
 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 | 2025-04-10 | 2025-08-09 |
 | [Trust No One](https://open.spotify.com/track/5JWvuCZ6yOJJ4GlbAVjl1v) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Trust No One](https://open.spotify.com/album/7DhBu788ygCSGB9xnoNBVE) | 3:03 | 2023-07-27 | 2023-09-15 |
 | [U Love It](https://open.spotify.com/track/4tvVKTTnvDal5mUhf80RJC) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [U Love It](https://open.spotify.com/album/0fnqpN4YCLNfiKdQ8uzvPi) | 2:40 | 2022-02-18 | 2023-02-24 |

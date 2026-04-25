@@ -94995,6 +94995,24 @@
     },
     {
       "album": {
+        "name": "My Soul be Still",
+        "url": "https://open.spotify.com/album/6w9gDWW62nk2qmkJwnY1O0"
+      },
+      "artists": [
+        {
+          "name": "TEHGAH",
+          "url": "https://open.spotify.com/artist/4scHETu7kmTovJLCQq8Rla"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 576213,
+      "name": "My Soul be Still",
+      "url": "https://open.spotify.com/track/7ASv6VTzG0ntDAUWEPYM5b"
+    },
+    {
+      "album": {
         "name": "My Soul Says Yes",
         "url": "https://open.spotify.com/album/2EkJfzBmVzciDfE9vTDTZs"
       },
@@ -115272,6 +115290,24 @@
       "duration_ms": 192500,
       "name": "Pray Oh",
       "url": "https://open.spotify.com/track/2xLpPsWRziFx8Oym2NjF4J"
+    },
+    {
+      "album": {
+        "name": "Izililo (Live on Freedom Day)",
+        "url": "https://open.spotify.com/album/3HQXFddTqWqHoE9lBfi2KN"
+      },
+      "artists": [
+        {
+          "name": "We Will Worship",
+          "url": "https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205877,
+      "name": "Pray Pray Pray - Live on Freedom Day",
+      "url": "https://open.spotify.com/track/4LBA3NfC5bTyqeiarMIqkg"
     },
     {
       "album": {
@@ -141374,24 +141410,6 @@
       "duration_ms": 228240,
       "name": "TPC",
       "url": "https://open.spotify.com/track/4NeAVZAhCl8c2AX7Cwr5zL"
-    },
-    {
-      "album": {
-        "name": "Izililo (Live on Freedom Day)",
-        "url": "https://open.spotify.com/album/3HQXFddTqWqHoE9lBfi2KN"
-      },
-      "artists": [
-        {
-          "name": "We Will Worship",
-          "url": "https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i"
-        }
-      ],
-      "date_added": "2026-04-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/4LBA3NfC5bTyqeiarMIqkg"
     },
     {
       "album": {

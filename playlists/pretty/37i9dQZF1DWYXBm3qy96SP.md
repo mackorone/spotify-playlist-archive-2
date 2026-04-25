@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Foo Fighters
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,989 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,991 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 39 | [Yamato](https://open.spotify.com/track/4YNQelHwc7eqjrliWoSh2g) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Yamato](https://open.spotify.com/album/70XKff09whZDIn5OaqrPbU) | 3:21 |
 | 40 | [Summer.Noise.Pool](https://open.spotify.com/track/5kf2wCgfs6xQ6TX0058Crb) | [碎梦飞跃SleepLeaps](https://open.spotify.com/artist/6SzldORVMPXulsJFkLqNTL) | [外面是夏天](https://open.spotify.com/album/5zMKN3Q5BK91foqe9MfbSX) | 4:21 |
 | 41 | [タッチ](https://open.spotify.com/track/60Sbi4siHcJ6dQ0PJzUQQn) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [タッチ](https://open.spotify.com/album/33evU1CaJ7nO5EOAV8gc4A) | 3:28 |
-| 42 | [Track 12](https://open.spotify.com/track/7DFfCiPrHqsI0Qa1qFDu33) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [GLORY \(Deluxe\)](https://open.spotify.com/album/7MIsmUZTR5rR4jYZbOGXFV) | 0:00 |
+| 42 | [GO WASTE MY TIME](https://open.spotify.com/track/7DFfCiPrHqsI0Qa1qFDu33) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [GLORY \(Deluxe\)](https://open.spotify.com/album/7MIsmUZTR5rR4jYZbOGXFV) | 2:55 |
 | 43 | [click\. \(feat\. RinRin\)](https://open.spotify.com/track/31SDr9rigBS5PC5SDNC0da) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS), [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [click\. \(feat\. RinRin\)](https://open.spotify.com/album/7CYhYGJ6ETBsuxiT8NoQJq) | 3:19 |
 | 44 | [HOPE](https://open.spotify.com/track/0gBfHrAHah7hoyWiOHSNia) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [HOPE](https://open.spotify.com/album/2vSANlvNVEfUl0maUcNeoD) | 3:23 |
 | 45 | [Hollow](https://open.spotify.com/track/29zuhsQWT2Ik7sPC2K1gPM) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Hollow](https://open.spotify.com/album/1WP6aYgLJBke188sm4T3Up) | 2:56 |

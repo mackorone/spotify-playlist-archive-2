@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-31",
-  "description": "Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers.  Cover: Pakho Chau",
+  "description": "Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers.  Cover: REGENT \u6797\u6690\u7ae3",
   "name": "CantoVision",
   "tracks": [
     {
@@ -1178,6 +1178,24 @@
       "duration_ms": 228819,
       "name": "\u53cd\u5c0d\u7121\u6548",
       "url": "https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B"
+    },
+    {
+      "album": {
+        "name": "\u53d6\u6d88\u8ffd\u8e64",
+        "url": "https://open.spotify.com/album/524TeR4HcUHBCCNiOdQK9j"
+      },
+      "artists": [
+        {
+          "name": "REGENT \u6797\u6690\u7ae3",
+          "url": "https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251274,
+      "name": "\u53d6\u6d88\u8ffd\u8e64",
+      "url": "https://open.spotify.com/track/7zRtyJIbpVGtIviihExl42"
     },
     {
       "album": {

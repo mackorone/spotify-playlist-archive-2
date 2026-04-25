@@ -2,9 +2,9 @@
 
 ### [Buckwild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> A full deck of country wild cards\. Bass\-heavy, up\-to\-no\-good anthems where the rules don’t apply\. Cover: Marshmello and Hudson Westbrook
+> A full deck of country wild cards\. Bass\-heavy, up\-to\-no\-good anthems where the rules don’t apply\. Cover: Graham Barham
 
-523 songs - 1 day 1 hr 55 min
+525 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Boys Back Home \(feat\. Yung Gravy\)](https://open.spotify.com/track/2O5z9a7kvDvDQL0G6Aj3oV) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Boys Back Home \(feat\. Yung Gravy\)](https://open.spotify.com/album/1JWfURhjrmyhPC77K8qrGk) | 3:00 | 2024-06-01 | 2025-06-30 |
 | [breadwinner](https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:20 | 2021-12-10 | 2023-05-04 |
 | [Break My Heart Again](https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Break My Heart Again](https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q) | 3:21 | 2022-01-14 | 2023-01-04 |
+| [BREAKUP \(DOWN\)](https://open.spotify.com/track/6uCsOGObjA8zl9xKOarMCh) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [BREAKUP \(DOWN\)](https://open.spotify.com/album/0HsxVcZQmlBqKelmMh0W7p) | 3:17 | 2026-04-24 |  |
 | [BRIDE AT A BAR](https://open.spotify.com/track/7FIX01fPHk1K71W2gCFRNN) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [BRIDE AT A BAR](https://open.spotify.com/album/2vzbqanzsmp2UISnYsbgZk) | 2:42 | 2023-07-21 | 2023-08-26 |
 | [Broadway Girls \(feat\. Morgan Wallen\)](https://open.spotify.com/track/3DZ8dbKg4OTSSqGARvecYd) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Broadway Girls \(feat\. Morgan Wallen\)](https://open.spotify.com/album/021fiBoLY6KwQmgIvByEtG) | 3:05 | 2021-12-17 |  |
 | [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 | 2023-07-21 |  |
@@ -137,7 +138,7 @@
 | [Dark Night \(717 Tapes\)](https://open.spotify.com/track/5TolSHtc9clDctIr8XsuXM) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Up to No Good \- Country Now](https://open.spotify.com/album/2OnhurcjZK4SkiUbocgbD4) | 2:37 | 2022-11-04 | 2022-11-13 |
 | [Dark Night \- 717 Tapes](https://open.spotify.com/track/2mTwhPI0EKjXmqRd1SEjjy) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 2:37 | 2022-10-01 | 2024-04-19 |
 | [Dark Night \- 717 Tapes](https://open.spotify.com/track/4EncjICVJk0gK2icnG0b1Q) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes, Vol\. 2](https://open.spotify.com/album/1AWzOlaYVoo3IazAiSD5t6) | 2:37 | 2022-07-22 | 2022-10-03 |
-| [Dark Night \- 717 Tapes](https://open.spotify.com/track/4Y7ze5PDaQSSkvCX3pd5CO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Dark Night \(717 Tapes\)](https://open.spotify.com/album/5KXNYhBpsj5wAHUpdaaKqE) | 2:37 | 2022-03-04 |  |
+| [Dark Night \- 717 Tapes](https://open.spotify.com/track/4Y7ze5PDaQSSkvCX3pd5CO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Dark Night \(717 Tapes\)](https://open.spotify.com/album/5KXNYhBpsj5wAHUpdaaKqE) | 2:37 | 2022-03-04 | 2026-04-25 |
 | [Darlin'](https://open.spotify.com/track/727x6SZXGF0LfU2vi3rjaH) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [We All Grow Up](https://open.spotify.com/album/1XXkk3jAPfmW5jyRbRON7x) | 2:45 | 2024-02-16 |  |
 | [Dates In Pickup Trucks](https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Dates In Pickup Trucks](https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK) | 2:45 | 2022-02-04 | 2023-08-02 |
 | [Dear Alcohol \(feat\. Elle King\)](https://open.spotify.com/track/2JspXl1hD5EUfyBln7r0F6) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Dear Alcohol feat\. Elle King](https://open.spotify.com/album/23RUi91AHXz67vI3sgpgLS) | 3:08 | 2022-06-10 |  |
@@ -369,6 +370,7 @@
 | [Out Yonder](https://open.spotify.com/track/6qD87YEMuF9pY4g3MtSeiG) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Out Yonder](https://open.spotify.com/album/6tUQwE1bKzyW54f7vkEg4P) | 3:22 | 2022-03-18 | 2024-08-03 |
 | [Over Thinkin](https://open.spotify.com/track/5zqsyWH6Q8GUM76Ey40WV5) | [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Season 5: I Miss You](https://open.spotify.com/album/1KQPdduoACOnb2enTga0TT) | 2:58 | 2025-04-25 |  |
 | [Own It](https://open.spotify.com/track/5dqxl2I4ov00c6bv0cnRwD) | [Rayne Johnson](https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt) | [Love Drunk or Lonely](https://open.spotify.com/album/6E0HKo0wDRP97q3cVIn9IN) | 2:45 | 2021-12-10 | 2023-02-02 |
+| [Palm Trees](https://open.spotify.com/track/5kRrnKF7Zg7xMIbwjsIjvL) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Palm Trees](https://open.spotify.com/album/6YhgM4A1KHeZp6GD6drpie) | 3:12 | 2026-04-24 |  |
 | [Paying For It](https://open.spotify.com/track/4um0dlscaZs2xkSbH72pP2) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Paying For It](https://open.spotify.com/album/4FelfT4bTsX1obV8487WSX) | 3:11 | 2021-12-10 | 2022-05-20 |
 | [Pedal to Metal 2.0](https://open.spotify.com/track/1JO9geiAkd9qmfRDXmBJPT) | [Tyler Pigg](https://open.spotify.com/artist/4nJeXFj0prRJ1jWSa8x9K7), [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Pedal to Metal 2.0](https://open.spotify.com/album/4kalNj3jR7R0eIZVIJ5B3v) | 2:57 | 2025-03-14 |  |
 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 | 2022-10-01 |  |
@@ -487,7 +489,7 @@
 | [Way Down Yonder](https://open.spotify.com/track/6EunSTBXQStydUisRUCL5r) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/7rW017JpJNMTKoGXFTvini) | 3:38 | 2023-10-06 | 2024-04-19 |
 | [We Both Know](https://open.spotify.com/track/1RcJ0gnr3TXWXBKY3RB9xQ) | [Liddy Clark](https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ) | [We Both Know](https://open.spotify.com/album/1rPwBSAtBuu7hl9xFMLeCe) | 4:10 | 2021-12-10 | 2022-06-04 |
 | [We Did](https://open.spotify.com/track/1Ia1nVuJYsaQjArfY7pOd4) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/79iCUqx4rgAItI7BFPJkJC) | 3:03 | 2023-10-06 | 2024-04-19 |
-| [We Did](https://open.spotify.com/track/2Fc13mlF3nMqeFm2MY5Pnz) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4ewGerVWPwgTWwD0m0NdNG) | 3:03 | 2022-02-04 |  |
+| [We Did](https://open.spotify.com/track/2Fc13mlF3nMqeFm2MY5Pnz) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4ewGerVWPwgTWwD0m0NdNG) | 3:03 | 2022-02-04 | 2026-04-25 |
 | [We Did](https://open.spotify.com/track/2uqPdi0TFoCYZaAoGYf8zr) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg) | 3:03 | 2022-07-22 | 2023-10-27 |
 | [We Met Too Young](https://open.spotify.com/track/2b81fjvZeVKXWDa2mv9iom) | [Eric Reprid](https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR) | [We Met Too Young](https://open.spotify.com/album/4M3Ndgpwxd7xJwIXPLrfpF) | 2:31 | 2022-10-14 | 2023-01-04 |
 | [Welcome to the Club](https://open.spotify.com/track/1ve542s6OQNdpgtJEcUTvx) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Welcome to the Club](https://open.spotify.com/album/39lqBskpYDfWOYwGwKMk8I) | 3:09 | 2023-10-06 | 2024-04-13 |

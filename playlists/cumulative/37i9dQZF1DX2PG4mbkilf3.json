@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Your guide to R&B in Canada, with Sofia Ly from Montr\u00e9al, QC.",
+  "description": "Your guide to R&B in Canada, with B.ROB from Scarborough, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -385,6 +385,24 @@
     },
     {
       "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/1QVxbM4ClO73tow9hZG98P"
+      },
+      "artists": [
+        {
+          "name": "OVI WOOD",
+          "url": "https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145573,
+      "name": "365",
+      "url": "https://open.spotify.com/track/5Ym0YP8v6OsUFhaBj5fcUL"
+    },
+    {
+      "album": {
         "name": "3AM",
         "url": "https://open.spotify.com/album/7ih9bEz6nXigYmVNddVtio"
       },
@@ -414,7 +432,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 169480,
       "name": "3am in Paris",
       "url": "https://open.spotify.com/track/08gzR7i6dzU999MyW5xWa7"
@@ -548,7 +566,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 124458,
       "name": "6YRS",
       "url": "https://open.spotify.com/track/58jQYefzDe8XR3MSfC7nT7"
@@ -2084,6 +2102,24 @@
       "duration_ms": 267292,
       "name": "Autopilot",
       "url": "https://open.spotify.com/track/79llFTVw7HPiGr54kqXWVA"
+    },
+    {
+      "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/4DyKqukDyrWjrdY1NK5pdW"
+      },
+      "artists": [
+        {
+          "name": "Tasha Mac",
+          "url": "https://open.spotify.com/artist/2kZVyiRZ7W3bELWzLWD8PC"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/0bwuidTGMZyJ1XGELGSFjl"
     },
     {
       "album": {
@@ -5794,7 +5830,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 160000,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/2iDKmDDsETpmtAAThCrpph"
@@ -8636,7 +8672,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 107907,
       "name": "Feel (voice memo)",
       "url": "https://open.spotify.com/track/4Pv1J0zwHfKGJYh6ffKMo5"
@@ -11921,6 +11957,24 @@
     },
     {
       "album": {
+        "name": "Through The Storm",
+        "url": "https://open.spotify.com/album/18d8Y0CfIwSR1gr4nFkkrO"
+      },
+      "artists": [
+        {
+          "name": "B.ROB",
+          "url": "https://open.spotify.com/artist/1ok4DP80jKsX7GZZ6yr2xR"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153568,
+      "name": "I Been",
+      "url": "https://open.spotify.com/track/25zKoVubfweF7RvWbdnII7"
+    },
+    {
+      "album": {
         "name": "FLOWERS",
         "url": "https://open.spotify.com/album/08Qh2ZB44AvDW9N7gyg8XA"
       },
@@ -12192,7 +12246,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 176138,
       "name": "i see red",
       "url": "https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI"
@@ -13846,7 +13900,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 195348,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2oQups12IShuUkHYxmjPvO"
@@ -15652,7 +15706,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 183333,
       "name": "Love Of My Season",
       "url": "https://open.spotify.com/track/30gPSZSgoaNjr1nYGa3pQw"
@@ -17375,6 +17429,24 @@
     },
     {
       "album": {
+        "name": "My Fav Letter",
+        "url": "https://open.spotify.com/album/6cGo0pIsxo8hlDqDKw9mjn"
+      },
+      "artists": [
+        {
+          "name": "Cheska Cruz",
+          "url": "https://open.spotify.com/artist/2bNO8PVe01PX6gdmkvuPDZ"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "My Fav Letter",
+      "url": "https://open.spotify.com/track/1V7da4JSDDdxpK0hVqp6dt"
+    },
+    {
+      "album": {
         "name": "My Friends",
         "url": "https://open.spotify.com/album/1k62Q47ybdWfHNBhb04opU"
       },
@@ -17840,7 +17912,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 172376,
       "name": "NEVER BE THE SAME",
       "url": "https://open.spotify.com/track/1bFObYeRf8zfPOh4IJqrYf"
@@ -22749,6 +22821,24 @@
     },
     {
       "album": {
+        "name": "Running From Nothing",
+        "url": "https://open.spotify.com/album/0UsaJw4BVdUMcN8sgjGaNj"
+      },
+      "artists": [
+        {
+          "name": "Elysia Biro",
+          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225870,
+      "name": "Running From Nothing",
+      "url": "https://open.spotify.com/track/5xYGysFGDhSt2775wubs6Z"
+    },
+    {
+      "album": {
         "name": "Running Loose",
         "url": "https://open.spotify.com/album/4GOqt9sG3DojO5Zgv3x3uH"
       },
@@ -23248,6 +23338,24 @@
       "duration_ms": 211425,
       "name": "SEASONS",
       "url": "https://open.spotify.com/track/10OEQdjmXQythIMxOWK3GE"
+    },
+    {
+      "album": {
+        "name": "Second Hand",
+        "url": "https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204311,
+      "name": "Second Hand",
+      "url": "https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5"
     },
     {
       "album": {
@@ -26149,6 +26257,24 @@
     },
     {
       "album": {
+        "name": "SUGAR WATER",
+        "url": "https://open.spotify.com/album/7bL5SEk32HW0e6WxePXWcZ"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190605,
+      "name": "SUGAR WATER",
+      "url": "https://open.spotify.com/track/6zkoIozGGyFgk3EIAIs6oF"
+    },
+    {
+      "album": {
         "name": "Summer Break",
         "url": "https://open.spotify.com/album/77fp6x4OQr5FfPHxkl90TC"
       },
@@ -26758,6 +26884,28 @@
       "duration_ms": 213304,
       "name": "Talk to Me",
       "url": "https://open.spotify.com/track/3NbJm0B7ZFAEqhR8Rc3ZFk"
+    },
+    {
+      "album": {
+        "name": "Long Time Running EP",
+        "url": "https://open.spotify.com/album/1jhv9k3iorVzdZ5I6ahTlm"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        },
+        {
+          "name": "Haviah Mighty",
+          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227394,
+      "name": "Talk To Me (feat. Haviah Mighty)",
+      "url": "https://open.spotify.com/track/43Gd6pEuO7k7jOONcwiRfR"
     },
     {
       "album": {
@@ -29976,7 +30124,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 176640,
       "name": "WHAT U LIKE",
       "url": "https://open.spotify.com/track/2uwcD56iqFO7omoeGSiYmw"
@@ -31032,6 +31180,28 @@
       "duration_ms": 96408,
       "name": "You Do You",
       "url": "https://open.spotify.com/track/0pQFEpe9ey17dMPEvAlVDR"
+    },
+    {
+      "album": {
+        "name": "You got",
+        "url": "https://open.spotify.com/album/7tZcC84NssRArqCThb5qKG"
+      },
+      "artists": [
+        {
+          "name": "Krys Kofi",
+          "url": "https://open.spotify.com/artist/3h2OWTnr3lebIW7DE6qivL"
+        },
+        {
+          "name": "Hen's",
+          "url": "https://open.spotify.com/artist/1fDdKygXaQ6LMEYTZPb1P4"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191373,
+      "name": "You got",
+      "url": "https://open.spotify.com/track/32Td0mWjMvWsddVQCqM0vc"
     },
     {
       "album": {

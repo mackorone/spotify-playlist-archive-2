@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-459 songs - 1 day 4 hr 33 min
+461 songs - 1 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [bloodsports](https://open.spotify.com/track/7IXsMgRqVCUv7ZeH23D4Ba) | [REDRAW](https://open.spotify.com/artist/0d5Dgm3Rwn8WatrjwGkcws) | [bloodsports](https://open.spotify.com/album/39HzHBGmHiKKa8rznT4nm6) | 3:30 | 2025-11-20 | 2025-12-12 |
 | [Blue](https://open.spotify.com/track/60Opr83gQPHZd410ykHScx) | [People You Know](https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz) | [Blue](https://open.spotify.com/album/6Eif0ayU6BbiWNVEidXcNc) | 4:30 | 2025-12-06 | 2025-12-28 |
 | [Blue Hands](https://open.spotify.com/track/1w3oIrfHqtPdFLt7sn4rwy) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [Blue Hands](https://open.spotify.com/album/3PzzUiNtsYSDMRNhSPL1yT) | 2:47 | 2025-12-04 | 2025-12-28 |
+| [Blue Route](https://open.spotify.com/track/0e9J7JmZjs45Dp8ByDq0uV) | [Liquid Monk](https://open.spotify.com/artist/680C1w0kjIC2LAf5xShvhJ) | [Blue Route](https://open.spotify.com/album/0ih8D9zBH0AI2tBC6Vl45v) | 3:01 | 2026-04-24 |  |
 | [Bored & Jaded](https://open.spotify.com/track/1RW431i46vNeR0tqM1eZj7) | [Rocketmonkey Lovemachine](https://open.spotify.com/artist/2de9uHlJsqASrZoofVPQAh) | [Rmlm](https://open.spotify.com/album/3yTDjfwFEPYFaZbSuPLQQa) | 3:15 | 2025-12-01 | 2025-12-28 |
 | [Bowerbird](https://open.spotify.com/track/3bqgRiOCd9ymGlaNO4S9h6) | [Perfect Weather for Humans](https://open.spotify.com/artist/1f2FYrOXGLghWMIcjrBwFD) | [Bowerbird](https://open.spotify.com/album/52YSSNofyjjtLsZcPAdvEL) | 5:15 | 2026-01-07 | 2026-02-02 |
 | [Break Up Bangs](https://open.spotify.com/track/4kVAjnV2duer0Sa81i6sX4) | [Lucia Dostal](https://open.spotify.com/artist/2Y5Zd5cSEdZ57lCr4lkGVr) | [Break Up Bangs](https://open.spotify.com/album/4NxSKL2Xd1unpYhN3ElgEQ) | 2:36 | 2025-10-18 | 2026-02-04 |
@@ -225,6 +226,7 @@
 | [Let's Make It Rock Tonight](https://open.spotify.com/track/18maw03KeLnbdf43RdvzUo) | [Whisky Sugar](https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6) | [Let's Make It Rock Tonight](https://open.spotify.com/album/0ofGHU4AlfThKM5VpLci8L) | 3:55 | 2025-10-28 | 2025-11-22 |
 | [Letzter Kuss](https://open.spotify.com/track/24Y239nFAW5fky8A9BVH1r) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV) | [Letzter Kuss](https://open.spotify.com/album/1jevubVvUvW6JRZqiJgzMJ) | 4:01 | 2026-02-09 | 2026-03-04 |
 | [Lifeless](https://open.spotify.com/track/39zRV9wo9QfVPAGOJhW5aI) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [I Wanna Be 16 Again!](https://open.spotify.com/album/62Y6hCa2mpdMYszePDaolr) | 3:00 | 2026-04-03 |  |
+| [Lifeline](https://open.spotify.com/track/7EzGUbGfNwbOdtTzX4MgO5) | [Hope Darling](https://open.spotify.com/artist/1SyIewURAwfxwMLlHhUgvE) | [Ensō](https://open.spotify.com/album/4OOsu5uRBfA00ZJTSyK6Zx) | 3:32 | 2026-04-24 |  |
 | [Lifespan](https://open.spotify.com/track/061iJoemR1JeGwFZa0339j) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Lifespan](https://open.spotify.com/album/3wOlsRSBN05i4lfp9zYhBy) | 2:22 | 2025-10-10 | 2026-01-21 |
 | [Light in the Darkness](https://open.spotify.com/track/4469akQ3sJ0BL8LO92RNmL) | [FLÒRALYN](https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy) | [Light in the Darkness](https://open.spotify.com/album/31cciFSZKFdJmpoYXIFFMi) | 3:59 | 2026-04-02 | 2026-04-20 |
 | [Lighthouse](https://open.spotify.com/track/6D66W9Yl8NEqZvs67ucryx) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Kickin' It Down the Road](https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1) | 4:48 | 2025-12-22 | 2026-01-21 |

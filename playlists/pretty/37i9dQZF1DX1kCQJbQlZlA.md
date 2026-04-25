@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những giai điệu quê hương quen thuộc đậm đà.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,643 likes - 72 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,644 likes - 72 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 7 | [Khúc ca ngày mùa](https://open.spotify.com/track/0zE5xfHqUklnIJoWNhjbPN) | [Phương Hồng Quế](https://open.spotify.com/artist/2d1ZChw4TkNWrJx6iPleap), [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Đường Về Quê Hương](https://open.spotify.com/album/6GUhhJBnOl4m13jYf7hPs2) | 3:48 |
 | 8 | [Ngày Đá Đơm Bông](https://open.spotify.com/track/1cjFsRcDdRxbGYdIjoozLL) | [Quỳnh Trang](https://open.spotify.com/artist/76p6SuLTYuJutQQYcXMgbw) | [Ngại Ngùng](https://open.spotify.com/album/1HuT7nW9iybFZnAuEeWNR0) | 5:38 |
 | 9 | [Về Quê Ngoại](https://open.spotify.com/track/28dVfwCuBfWE490ec5WWbT) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb), [Tường Nguyên](https://open.spotify.com/artist/4Ai58ZXyAVZWgvyxSpiWhK) | [Những Bài Hát Hay Nhất](https://open.spotify.com/album/3qK0ScXR0jpZR2CiYnGPyt) | 5:00 |
-| 10 | [Hồn Quê](https://open.spotify.com/track/0r1c4ZiSSHZgZlC9Am5CBU) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb), [Quý Bình](https://open.spotify.com/artist/7gWd1jfTsBM8jZ8LTguUAp) | [Những Bài Hát Hay Nhất](https://open.spotify.com/album/3qK0ScXR0jpZR2CiYnGPyt) | 4:16 |
+| 10 | [Hồn Quê](https://open.spotify.com/track/0r1c4ZiSSHZgZlC9Am5CBU) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb), [Quý Bình](https://open.spotify.com/artist/0fxMV8tFdk9Ph0vbfsfSS3) | [Những Bài Hát Hay Nhất](https://open.spotify.com/album/3qK0ScXR0jpZR2CiYnGPyt) | 4:16 |
 | 11 | [Giấc Mơ Cánh Cò](https://open.spotify.com/track/62VIq2rzQ0tQIlFEHY55cN) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw), [Tuyết Nhung](https://open.spotify.com/artist/4Lgi3ynqDH8UCuVQUi67kK), [Thiêng Ngân](https://open.spotify.com/artist/6bWYEx1eZTFPN89WH5iOUE) | [Giấc Mơ Cánh Cò \(Music Box 59\)](https://open.spotify.com/album/3echBCtyWolKPtSSivBPZe) | 4:44 |
 | 12 | [Nhớ Hoài Một Miền Quê](https://open.spotify.com/track/0uFfmz526JdUxz2yR6CEBr) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Tuyệt Phẩm Nhạc Trữ Tình Dương Hồng Loan](https://open.spotify.com/album/0hEEBDXoUfrva4E5L8rgn3) | 5:16 |
 | 13 | [Phương Nam Một Khúc Tự Tình](https://open.spotify.com/track/2gcBnEfkjwDchgRvRgaoiN) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Tình Quê](https://open.spotify.com/album/6I13W8uGVplirDjOJrOoq2) | 5:22 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 56 | [Tình Em Miền Tây](https://open.spotify.com/track/3P9qy39rwGGfQay9XVp9tz) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Tình Quê](https://open.spotify.com/album/6I13W8uGVplirDjOJrOoq2) | 4:38 |
 | 57 | [Phải lòng con gái Bến Tre](https://open.spotify.com/track/4yvMx7iYXG4qCnykI18uYP) | [Lê Sang](https://open.spotify.com/artist/1F5d5qNLZ2T1AxZ4fnOnxJ), [Kim Chi](https://open.spotify.com/artist/3PgAVt9j0SoRYVBhtUun6K) | [Còn Thương Rau Đắng Mọc Sau Hè](https://open.spotify.com/album/3vW4OIcX0xiMGCS8u5uxAX) | 6:16 |
 | 58 | [Gửi Em Ở Cuối Sông Hồng](https://open.spotify.com/track/50ID53r85IdYZUihgDuRDS) | [Trọng Tấn](https://open.spotify.com/artist/1pQZQEXm8NkmHQqM38ggLS), [Anh Thơ](https://open.spotify.com/artist/177bhZzp0omJzqXbXDsJcl) | [Người đi xây hồ Kẻ Gỗ](https://open.spotify.com/album/0Umg9kD4g8wm8I6n97im9V) | 4:29 |
-| 59 | [Ốc Đắng Buồn Ai](https://open.spotify.com/track/0Y4zReHkU1uCxHuWr28X99) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb), [Đan Trường](https://open.spotify.com/artist/5XcfMxmHUiyxc1Q283Nmxj) | [Ốc Đắng Buồn Ai](https://open.spotify.com/album/5XlqK2sXfMN501ULIprcY9) | 5:42 |
+| 59 | [Ốc Đắng Buồn Ai](https://open.spotify.com/track/0Y4zReHkU1uCxHuWr28X99) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Ốc Đắng Buồn Ai](https://open.spotify.com/album/5XlqK2sXfMN501ULIprcY9) | 5:42 |
 | 60 | [Yêu Cô Gái Bạc Liêu](https://open.spotify.com/track/6QE1YK5SQyy82i9nbBfnny) | [Ngọc Hân](https://open.spotify.com/artist/3Wdyn05ATQMon3kvCQiyER) | [Bến Duyên Lành](https://open.spotify.com/album/6mvfa6rKMi8G7gVnj6oQsJ) | 4:52 |
 | 61 | [Trăng Về Thôn Dã](https://open.spotify.com/track/5r6gmr3J0v45WigvWfWsgd) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw), [Tuyết Nhung](https://open.spotify.com/artist/4Lgi3ynqDH8UCuVQUi67kK), [Thiêng Ngân](https://open.spotify.com/artist/6bWYEx1eZTFPN89WH5iOUE) | [Giấc Mơ Cánh Cò \(Music Box 59\)](https://open.spotify.com/album/3echBCtyWolKPtSSivBPZe) | 4:16 |
 | 62 | [Chim sáo ngày xưa](https://open.spotify.com/track/5bWqMXjLukN5Y6Cb3yIrVC) | [Quang Linh](https://open.spotify.com/artist/3JwyehW3Ls8vt8GSons5eA) | [Yêu nhau ghét nhau 1](https://open.spotify.com/album/4z6v1PQ0jpIWQqprhroBYN) | 5:56 |

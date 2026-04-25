@@ -12909,6 +12909,40 @@
     },
     {
       "album": {
+        "name": "Last Man Standing In De Kroeg",
+        "url": "https://open.spotify.com/album/4rM8noIB9AoqIB5GIttm5f"
+      },
+      "artists": [
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        },
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Def",
+          "url": "https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "Last Man Standing In De Kroeg",
+      "url": "https://open.spotify.com/track/5hN17w1WEvwrpP78dWu3rd"
+    },
+    {
+      "album": {
         "name": "Laten",
         "url": "https://open.spotify.com/album/7CJvT8RllN7wENyeCKiaSw"
       },

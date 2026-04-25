@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GJszcm4a2J.md) - [plain]
 
 > Listen to the soundtracks of The First Night With the Duke\. \(남주의 첫날밤을 가져버렸다의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,261 likes - 26 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,271 likes - 26 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BamBamBam](https://open.spotify.com/track/66MnBhmfJPdBSP1HLzFUD1) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [The First Night With The Duke \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/2xi6m9KfCxbzuieSDZKCGl) | 3:21 |
-| 2 | [How about we start our love?](https://open.spotify.com/track/0X7SmUF7FAI2jnJ9NSSar6) | [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy), [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [The First Night With The Duke \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/1L0Zf9y02RzssGpXZpeS4i) | 3:18 |
+| 2 | [How about we start our love?](https://open.spotify.com/track/0X7SmUF7FAI2jnJ9NSSar6) | [HUI](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy), [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [The First Night With The Duke \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/1L0Zf9y02RzssGpXZpeS4i) | 3:18 |
 | 3 | [The Way You Look at Me](https://open.spotify.com/track/0409qxBQ43TmzaJTBeTSyM) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [The First Night With The Duke \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/2Kr0Fr4pO4hinP2b2eLS6y) | 4:00 |
 | 4 | [The Way You Look at Me](https://open.spotify.com/track/4KygUKoHSyNlI30Mcrt9E8) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [The First Night With The Duke \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/0szxP7GaHsivlZV6FpTjsD) | 3:56 |
 | 5 | [Message from Seo Hyun](https://open.spotify.com/track/6xymcI5agJoLWFvSyKS113) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [The First Night With the Duke Audio Liners](https://open.spotify.com/album/2xPoJoNra7bdrqntJiSTX2) | 0:27 |

@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,122 songs - 2 day 9 hr 49 min
+1,123 songs - 2 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -944,6 +944,7 @@
 | [Tears On The Dancefloor \(feat\. Hannah Boleyn\) \[Night Mode\]](https://open.spotify.com/track/3Ysfj7yYSGHB9c2RTs4RWG) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Tears On The Dancefloor \(feat\. Hannah Boleyn\) \[Night Mode\]](https://open.spotify.com/album/3ZTNZLchGn3DaAFUsFiv6q) | 2:53 | 2023-12-01 | 2024-09-26 |
 | [Tease](https://open.spotify.com/track/6uyPxNh9jZSdwQkfaOF9FF) | [N2N](https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5) | [Tease](https://open.spotify.com/album/7pkI6v49HH4NPz79BdvCvx) | 3:03 | 2025-10-10 |  |
 | [Tech Phonk](https://open.spotify.com/track/2EyE6jwl6HC7yhkaPJbH8R) | [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Pure Cold](https://open.spotify.com/artist/63xJ8YYPv8AtvO8sj3ssLI) | [Tech Phonk](https://open.spotify.com/album/77WEJ0P9dlOSZNhco4LxRV) | 2:02 | 2024-06-14 | 2024-10-11 |
+| [Techno & Bass](https://open.spotify.com/track/4jEVqqTWFr3iuEmfhrnJuZ) | [UVA](https://open.spotify.com/artist/6gNNOwQkzfJbHQa5Ig3Nbn) | [Techno & Bass](https://open.spotify.com/album/6sXRbqsL1CHQit1AIRBMDr) | 3:06 | 2026-04-24 |  |
 | [Techno On My Mind](https://open.spotify.com/track/1cpLiXSGO89iE7d0hkhxZT) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T) | [Techno On My Mind](https://open.spotify.com/album/5eTcdRHVY37vEX1fiB0d1G) | 3:30 | 2023-05-05 | 2023-08-02 |
 | [Techno Sound](https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Techno Sound](https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5) | 3:09 | 2023-08-25 | 2023-12-23 |
 | [Telesexo](https://open.spotify.com/track/609zzeuRVGBYi0Q1sTDpxF) | [Coppola](https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ) | [Telesexo](https://open.spotify.com/album/6zl8QIrWLpGE9Vl4Bnjbj9) | 3:32 | 2024-12-05 |  |

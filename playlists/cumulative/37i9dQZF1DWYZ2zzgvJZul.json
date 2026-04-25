@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos del momento y lo \u00faltimo de artistas nuevos y consagrados. En portada: Dillom, Airbag, Marilina Bertoldi y Juliana Gattas.",
+  "description": "\u00c9xitos del momento y lo \u00faltimo de artistas nuevos y consagrados. En portada: PERRA BRAVA.",
   "name": "Nuevo Rock Latino",
   "tracks": [
     {
@@ -500,7 +500,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 135189,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/5p6jtFVPyD5H52tm7upueg"
@@ -1431,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "D\u00edas Perfectos",
+        "url": "https://open.spotify.com/album/37vhqFEwv3280Z3EoOzNwJ"
+      },
+      "artists": [
+        {
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336920,
+      "name": "D\u00edas Perfectos",
+      "url": "https://open.spotify.com/track/4YJqajgA8lpqJv9mxhtV0Z"
+    },
+    {
+      "album": {
         "name": "El D\u00eda de las Flores",
         "url": "https://open.spotify.com/album/5DyliQegvxw9tL4XrusPqD"
       },
@@ -1522,7 +1540,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 251546,
       "name": "El Llamado",
       "url": "https://open.spotify.com/track/1Z0IeSBzx9xFvwAZHSovaC"
@@ -3154,6 +3172,24 @@
       "duration_ms": 177600,
       "name": "Locos",
       "url": "https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q"
+    },
+    {
+      "album": {
+        "name": "Silabo Tatequeda",
+        "url": "https://open.spotify.com/album/0olrzC1tjRfACORXwYzqcj"
+      },
+      "artists": [
+        {
+          "name": "PERRA BRAVA",
+          "url": "https://open.spotify.com/artist/4ODjjfjx4SqJixJYVqeUrE"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176309,
+      "name": "Los Cobardes Mueren Varias Veces",
+      "url": "https://open.spotify.com/track/4oZ66lQQ8e9BFYfktXZhxV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 
 > Fall fast asleep with deep noise
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,954 likes - 300 songs - 15 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,033 likes - 300 songs - 15 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,7 +204,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 194 | [Brown Noise Sleep Frequencies](https://open.spotify.com/track/7sJSTQUO2PiiPP26a4G9yf) | [Brown Noise Studio](https://open.spotify.com/artist/7npBnBvj7J6RrSFJfDLBiA) | [Chill Brown Noise for my Ears](https://open.spotify.com/album/6BuAXSNxzUVVxEwILc71Yc) | 3:47 |
 | 195 | [Dark Brown Noise 165 Hz F](https://open.spotify.com/track/00gU2jShkz0Eb2TyYDNHc1) | [Trambiendo](https://open.spotify.com/artist/6qZ7HA1esDKoWoUeyFtQsV) | [Ocean Dark](https://open.spotify.com/album/7qyRUKT0JWlQaYPiyU0Iad) | 2:54 |
 | 196 | [Pink Noise Deep Rest](https://open.spotify.com/track/2MrJu3brPveIi0CwE5IDpG) | [Noise Retreat](https://open.spotify.com/artist/2xhxnZx1l0Zvu7eEpt1OYM) | [Pink Noise Deep Rest](https://open.spotify.com/album/4y7hXU8QO47hGmaGOcwmRW) | 2:09 |
-| 197 | [Lo\-Air 200 Hz](https://open.spotify.com/track/0ugO16i5v9dKCO5g5S5itQ) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Brown Noise Calm Mind](https://open.spotify.com/album/4ZOzVlm2vNDejWHk9tz0H7) | 2:44 |
+| 197 | [Lo\-Air 200 Hz](https://open.spotify.com/track/0ugO16i5v9dKCO5g5S5itQ) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Brown Noise Calm Mind](https://open.spotify.com/album/4ZOzVlm2vNDejWHk9tz0H7) | 2:44 |
 | 198 | [Sleep Noise \(Brown\)](https://open.spotify.com/track/2PBvSP1bRXX198fdDJZWmp) | [Blimba](https://open.spotify.com/artist/42XvJnFdC4wFTCn1aiMafa) | [Sleep Noise \(Brown\)](https://open.spotify.com/album/6JOCRCYAgyjLfv8EO7FnV8) | 2:21 |
 | 199 | [Pink Noise Panorama](https://open.spotify.com/track/55gtEAjulgNsR3ssFS2ByK) | [Sleeping Parachuter](https://open.spotify.com/artist/00NdWBjv7CpdfDBXUfg5qq) | [Pink Noise Panorama](https://open.spotify.com/album/0aWMEw9nXyCsgz32y7MEBt) | 3:16 |
 | 200 | [Brown Static](https://open.spotify.com/track/1l651JzwUbe5RBw10qwS8i) | [Dreamstatic](https://open.spotify.com/artist/24sCSCuOs5lxNXY5SsMUdj) | [Static Noise](https://open.spotify.com/album/6Vbl7uS5vqvFSb1nr6CyJX) | 3:16 |

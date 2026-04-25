@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A full deck of country wild cards. Bass-heavy, up-to-no-good anthems where the rules don\u2019t apply. Cover: Marshmello and Hudson Westbrook",
+  "description": "A full deck of country wild cards. Bass-heavy, up-to-no-good anthems where the rules don\u2019t apply. Cover: Graham Barham",
   "name": "Buckwild Country",
   "tracks": [
     {
@@ -1403,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "BREAKUP (DOWN)",
+        "url": "https://open.spotify.com/album/0HsxVcZQmlBqKelmMh0W7p"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197466,
+      "name": "BREAKUP (DOWN)",
+      "url": "https://open.spotify.com/track/6uCsOGObjA8zl9xKOarMCh"
+    },
+    {
+      "album": {
         "name": "BRIDE AT A BAR",
         "url": "https://open.spotify.com/album/2vzbqanzsmp2UISnYsbgZk"
       },
@@ -2526,7 +2544,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 157991,
       "name": "Dark Night - 717 Tapes",
       "url": "https://open.spotify.com/track/4Y7ze5PDaQSSkvCX3pd5CO"
@@ -7039,6 +7057,28 @@
     },
     {
       "album": {
+        "name": "Palm Trees",
+        "url": "https://open.spotify.com/album/6YhgM4A1KHeZp6GD6drpie"
+      },
+      "artists": [
+        {
+          "name": "Redferrin",
+          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192950,
+      "name": "Palm Trees",
+      "url": "https://open.spotify.com/track/5kRrnKF7Zg7xMIbwjsIjvL"
+    },
+    {
+      "album": {
         "name": "Paying For It",
         "url": "https://open.spotify.com/album/4FelfT4bTsX1obV8487WSX"
       },
@@ -9314,7 +9354,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 183342,
       "name": "We Did",
       "url": "https://open.spotify.com/track/2Fc13mlF3nMqeFm2MY5Pnz"

@@ -254,10 +254,28 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 315560,
       "name": "Brotherhood Of Man",
       "url": "https://open.spotify.com/track/0hubXoyvsuxkq3UA2tfSeG"
+    },
+    {
+      "album": {
+        "name": "The W\u00f6rld Is Yours",
+        "url": "https://open.spotify.com/album/4OF35G0P3UDRwomu15nIQL"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315560,
+      "name": "Brotherhood of Man",
+      "url": "https://open.spotify.com/track/2ECIMo49jTC22wxTGG5MGm"
     },
     {
       "album": {

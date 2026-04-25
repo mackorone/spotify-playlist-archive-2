@@ -2,7 +2,7 @@
 
 ### [Rica, Latina y Famosa](https://open.spotify.com/playlist/37i9dQZF1DWTOTEEDNE926)
 
-> las mujeres ya no lloran ✨ DANNA en portada.
+> las mujeres ya no lloran ✨ Young Miko en portada.
 
 226 songs - 10 hr 46 min
 

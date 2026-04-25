@@ -61421,6 +61421,28 @@
     },
     {
       "album": {
+        "name": "XXX",
+        "url": "https://open.spotify.com/album/0G6hIuCzEbHL8CaRKNcmB3"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "Water Spirit",
+          "url": "https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229201,
+      "name": "XXX",
+      "url": "https://open.spotify.com/track/0e2iPB0QVIWYtJHEYSUmrt"
+    },
+    {
+      "album": {
         "name": "\u30cf\u30fc\u30c8\u30a8\u30a4\u30af\u30fb\u30c7\u30d0\u30c3\u30b0 -Heartache Debug-",
         "url": "https://open.spotify.com/album/10AFyHPkg2yHQtXdHxi3xO"
       },

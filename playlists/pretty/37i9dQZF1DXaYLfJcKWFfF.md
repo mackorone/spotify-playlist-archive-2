@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Bongeziwe Mabandla
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,382 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,397 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 79 | [Jessica Mable](https://open.spotify.com/track/30DfcS756EjuOGTCYx1l71) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [George Cilverfox : Hymn of The Floating Palace](https://open.spotify.com/album/1oHDTvzlGtWaqIqxqmRcDv) | 2:31 |
 | 80 | [WATSHO](https://open.spotify.com/track/6KHlZfxzzMNv0u7hsbWDak) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [WATSHO](https://open.spotify.com/album/2DLHXKEqhzvWbaEmmpdrgy) | 3:22 |
 
-Snapshot ID: `AAAAAJ5geSoEUgQNTTJqSak2aUyJPgkd`
+Snapshot ID: `AAAAAKQxIXcN+Kxj459zt3VwxRjOiJ0t`

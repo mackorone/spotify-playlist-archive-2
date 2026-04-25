@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with the one & only Tiësto
 
-1,266 songs - 3 day 3 hr 43 min
+1,267 songs - 3 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Brighton BOP](https://open.spotify.com/track/0OiTcPWEK2g48f0BokrLj4) | [SØNIN](https://open.spotify.com/artist/3SH652OkhCjni8ksczeEdC), [JS](https://open.spotify.com/artist/6lMFdZ2Ogr7RJ2cY7KLEq0) | [Brighton BOP](https://open.spotify.com/album/5mGElpHMdswgEyrkMwG0vh) | 3:28 | 2024-07-19 | 2025-03-29 |
 | [Bring Me To Life](https://open.spotify.com/track/6pkSEqfTFyoqaPXQ1d4nLp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [FORS](https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX) | [Bring Me To Life](https://open.spotify.com/album/0hLl6XW9qAjuuPijk9SKTe) | 4:18 | 2025-11-21 |  |
 | [Broken Tides](https://open.spotify.com/track/0S2J2eSoA2Ml569yBCyyHU) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi) | [Broken Tides](https://open.spotify.com/album/2VRO8WvL4g0TnIv2L0N7QQ) | 2:55 | 2026-02-27 |  |
+| [Bullet In The Gun](https://open.spotify.com/track/79Bo5d7iwaj8eYPn52A6Ni) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Sneijder](https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb) | [Bullet In The Gun](https://open.spotify.com/album/1WqYGLcVq84pevylmgVRAP) | 4:00 | 2026-04-24 |  |
 | [Bullet Train To Paris](https://open.spotify.com/track/0lIOamNC6EMXu1AgPyzSTD) | [Willaris\. K](https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Silversun](https://open.spotify.com/album/4EAemIQHlJl7ZwCndwy8ro) | 4:59 | 2023-11-17 | 2023-12-09 |
 | [Burn](https://open.spotify.com/track/7p0YrugeZfeEqbuLMdpzrV) | [Dan Stone](https://open.spotify.com/artist/5AqacAhvN8JCsr00Qk9tb7), [EGGSTA](https://open.spotify.com/artist/6DtlUeAwcib4uc0CfcgYBz) | [Burn](https://open.spotify.com/album/3ZXlpxFSA9jyZYMdH42pHl) | 4:19 | 2024-09-13 | 2025-09-27 |
 | [Burned](https://open.spotify.com/track/04jpNjWoeNHfHoZAjhyU01) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [nilsix](https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I) | [Burned](https://open.spotify.com/album/1JQEp5WZnrrtN8N0ouoDDX) | 3:12 | 2024-07-19 | 2025-07-26 |
@@ -266,7 +267,7 @@
 | [Dawn](https://open.spotify.com/track/4OkpB4tHyv7YmkOyiRGYij) | [Sneijder](https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb) | [Dawn](https://open.spotify.com/album/4NnWjmwfrlQluFAwql0euW) | 3:57 | 2023-07-21 | 2025-03-22 |
 | [Daytona](https://open.spotify.com/track/6xjZxEibJdqHKs4KS4n83M) | [David Forbes](https://open.spotify.com/artist/3kwdB3aUfg0uneHczX2vTG) | [Daytona](https://open.spotify.com/album/5VJPUht3ewMoJyPP3Yd0ew) | 3:27 | 2024-07-12 | 2024-08-31 |
 | [Deceiver](https://open.spotify.com/track/0i9bVXTlNguVWgseEFhCsB) | [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX), [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Deceiver](https://open.spotify.com/album/3dk6hdeNu9qUKY0cXJlVpq) | 3:31 | 2024-03-15 | 2025-05-17 |
-| [Deep Shadow](https://open.spotify.com/track/2eNLBMdI2bfkRxB8Lb5l9f) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz) | [Deep Shadow](https://open.spotify.com/album/4mrABJ2rRng3sxHX52jqYb) | 3:23 | 2025-05-16 |  |
+| [Deep Shadow](https://open.spotify.com/track/2eNLBMdI2bfkRxB8Lb5l9f) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz) | [Deep Shadow](https://open.spotify.com/album/4mrABJ2rRng3sxHX52jqYb) | 3:23 | 2025-05-16 | 2026-04-25 |
 | [Deepest Blue](https://open.spotify.com/track/6RjVYitSJ7k37rIICRQCL7) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec), [Deepest Blue](https://open.spotify.com/artist/4ncjEFfj7Zd2LPzd9LOVsY) | [Deepest Blue](https://open.spotify.com/album/1ZrvVVFctwgmxZLr4am9LM) | 2:40 | 2025-02-07 | 2025-09-27 |
 | [Deepest Truth \- Nourey Remix](https://open.spotify.com/track/5KZLNQU6MZZP9S00BMA1wC) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej), [Nourey](https://open.spotify.com/artist/29eCbkd3VZXMgG5Ggyuaog) | [Odyssey \(Remixes\)](https://open.spotify.com/album/6LkfEhBqqOz4L5Glwe4c4C) | 3:26 | 2024-11-22 | 2025-09-27 |
 | [Defector](https://open.spotify.com/track/1qVD7zeYA21VPi6agPRAlv) | [Will Rees](https://open.spotify.com/artist/1dlEz2w0VlP9NSzM6YA1Cm), [Rhys Elliott](https://open.spotify.com/artist/0ejSFSeeaw2uQYdL8enRmd) | [Defector](https://open.spotify.com/album/3rHa5xUSY4yxNCjgceAVnn) | 3:46 | 2024-02-16 | 2025-05-17 |

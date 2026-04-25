@@ -12402,6 +12402,24 @@
     {
       "album": {
         "name": "No Dogs Allowed",
+        "url": "https://open.spotify.com/album/7mXf592qrnsQ7qAvV7Aluz"
+      },
+      "artists": [
+        {
+          "name": "Sidney Gish",
+          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294260,
+      "name": "Impostor Syndrome",
+      "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
+    },
+    {
+      "album": {
+        "name": "No Dogs Allowed",
         "url": "https://open.spotify.com/album/3jgktTCGathax8HKW4aGfg"
       },
       "artists": [
@@ -14242,7 +14260,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 189746,
       "name": "Like Animals",
       "url": "https://open.spotify.com/track/2IFND3phjzIG1RcPnHh2hP"
@@ -17942,7 +17960,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 166406,
       "name": "MY JEALOUSY - Slowed",
       "url": "https://open.spotify.com/track/6CJABsHyFh5uFZ72MAKTBN"
@@ -18036,7 +18054,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
@@ -18054,7 +18072,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
@@ -37555,6 +37573,24 @@
     },
     {
       "album": {
+        "name": "\u0417\u0430\u0447\u0435\u043c \u041c\u0435\u0442\u0430\u043b\u043b",
+        "url": "https://open.spotify.com/album/37YZm8GECdAbHOMs7BgjH8"
+      },
+      "artists": [
+        {
+          "name": "\u0425\u0418\u041c\u0418\u042f",
+          "url": "https://open.spotify.com/artist/5m3fUXI2XjlUa2XaDPO7dy"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186003,
+      "name": "\u041c\u0430\u043b\u0438\u043d\u043e\u0432\u044b\u0439 \u0417\u0430\u043a\u0430\u0442 \u041c\u0435\u0442\u0430\u043b\u043b",
+      "url": "https://open.spotify.com/track/7tAVJH0fBj7LDJ1RkJWUMX"
+    },
+    {
+      "album": {
         "name": "\u041c\u0430\u043b\u043e \u0442\u0435\u0431\u044f",
         "url": "https://open.spotify.com/album/5Nr9Zarc01qDfDwbNONRY5"
       },
@@ -39660,7 +39696,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 233105,
       "name": "\u043d\u0435\u043f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u043e",
       "url": "https://open.spotify.com/track/27lAsV0qBBAtIb8Nom4SON"
@@ -42004,7 +42040,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 204999,
       "name": "\u041f\u043e\u0434 \u043d\u0435\u0431\u043e\u043c",
       "url": "https://open.spotify.com/track/0zkAktzjT5GEYOYjxnK55C"

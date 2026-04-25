@@ -6,7 +6,7 @@
     "name": "Lucciago",
     "url": "https://open.spotify.com/user/1217609118"
   },
-  "snapshot_id": "AAAKjcDZfnzyanvdl5e4eSrlMkow1WWy",
+  "snapshot_id": "AAAKjn9vai9nhfKD/oTAJb5uT8o4Md1K",
   "tracks": [
     {
       "added_at": "2024-09-13 11:56:22",
@@ -42287,6 +42287,22 @@
       "duration_ms": 126357,
       "name": "There'll be a Sunrise",
       "url": "https://open.spotify.com/track/0uxCeYS2LVTzEInl1IhJ9I"
+    },
+    {
+      "added_at": "2026-04-24 23:47:39",
+      "album": {
+        "name": "Fireworks Fall",
+        "url": "https://open.spotify.com/album/1a2GSekjvduf484J6N71yx"
+      },
+      "artists": [
+        {
+          "name": "Cormac O Caoimh",
+          "url": "https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Fireworks Fall",
+      "url": "https://open.spotify.com/track/2LmF5dQhaxFNnTpnFOn8z2"
     }
   ],
   "unique_name": "Cruise Music",

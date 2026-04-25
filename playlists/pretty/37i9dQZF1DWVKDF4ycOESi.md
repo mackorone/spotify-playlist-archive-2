@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Juli, Frah Quintale, Nerissima Serpe, Danny Ocean, Rauw Alejandro, Madonna e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,696 likes - 90 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,168 likes - 90 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 32 | [Anima](https://open.spotify.com/track/5S73czgYmEvRRyW191Ylsy) | [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [Anima](https://open.spotify.com/album/4ovWKB40xL8e5H95RbgvGV) | 2:45 |
 | 33 | [la Mia paura](https://open.spotify.com/track/51jCHYRmZDj9ZPi2Fw55Xl) | [@gabriele](https://open.spotify.com/artist/6RyYnt3Q1ebcbLxYOtE9bb) | [la Mia paura](https://open.spotify.com/album/48aXrrDxJG80pPvgPpaXjE) | 3:00 |
 | 34 | [Bad Love +1](https://open.spotify.com/track/1RVNzN0kkyBifG1PbCB5ld) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [Bad Love +1](https://open.spotify.com/album/6G1jJHYx8Iu1es4AZsAV92) | 2:31 |
-| 35 | [Fantasy \(ft\. COBRAH\)](https://open.spotify.com/track/6CwBTCg35UfkyjJ7BB6c9U) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [It's Not That Deep \(Unless You Want It To Be\)](https://open.spotify.com/album/5tfhBGn7x0cYn9VMYhSnph) | 2:21 |
+| 35 | [Fantasy \(ft\. Cobrah\)](https://open.spotify.com/track/6CwBTCg35UfkyjJ7BB6c9U) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [It's Not That Deep \(Unless You Want It To Be\)](https://open.spotify.com/album/5tfhBGn7x0cYn9VMYhSnph) | 2:21 |
 | 36 | [Shoulda Never \(feat\. USHER\)](https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 3:06 |
 | 37 | [I Saw Your Face](https://open.spotify.com/track/3cLBx0lEWPKSM99hx5RVcx) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [I Saw Your Face](https://open.spotify.com/album/6PM2d4YZxyXLO05TWXoSm7) | 3:09 |
 | 38 | [Per un po' d'amore](https://open.spotify.com/track/6YpL422iExpsrQjtUiRucD) | [Mannarino](https://open.spotify.com/artist/6C1PGrTsXqP3wo8kTRhrqm) | [Per un po' d'amore](https://open.spotify.com/album/21XaBrxZM8o0ZDRAQVhgPT) | 3:42 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 60 | [car crash](https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [car crash](https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0) | 2:40 |
 | 61 | [Driver Idle](https://open.spotify.com/track/4NDaB0Q9jOL0DnyfI346SA) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ), [Perry Maysun](https://open.spotify.com/artist/7F4201ESA6AFfxjHpb9Bc0) | [Driver Idle](https://open.spotify.com/album/0NkvhwzA8UOOfEvi36swRT) | 4:14 |
 | 62 | [Spring summer](https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Spring summer](https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4) | 2:08 |
-| 63 | [Track 1](https://open.spotify.com/track/7xRWsfn9x3gVhYQdIXjae3) | [Frankie hi\-nrg mc](https://open.spotify.com/artist/15tvxTXbemwnKQq1aRoPpI) | [VOCE e BATTERIA](https://open.spotify.com/album/3kIyF4C1xQlE3M8Q2GvpL2) | 0:00 |
+| 63 | [Pedala e batteria \(feat\. Jovanotti\)](https://open.spotify.com/track/7xRWsfn9x3gVhYQdIXjae3) | [Frankie hi\-nrg mc](https://open.spotify.com/artist/15tvxTXbemwnKQq1aRoPpI), [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [VOCE e BATTERIA](https://open.spotify.com/album/3kIyF4C1xQlE3M8Q2GvpL2) | 2:48 |
 | 64 | [IN TV \(Dani Faiv & Tony 2Milli\)](https://open.spotify.com/track/4QsTLZlR8RqHOFkdCkEVa8) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [IN TV \(Dani Faiv & Tony 2Milli\)](https://open.spotify.com/album/78AKas28984J83atjdeokp) | 3:05 |
 | 65 | [1 quore](https://open.spotify.com/track/1Ztjs0XzgoDRZE1PwFB7M4) | [Quest](https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw) | [1 quore](https://open.spotify.com/album/2ihs8kzqc6duDwJQEENriy) | 2:56 |
 | 66 | [Tanto non mi prendi](https://open.spotify.com/track/3HvcQOCoYnrj9lUUJ8ijAr) | [Tresca Y Tigre](https://open.spotify.com/artist/1r7GQ0zepoXMlmYOzCaF6K) | [Tanto non mi prendi](https://open.spotify.com/album/2ypbmxV7LkIoiPbe5VWvKu) | 2:53 |

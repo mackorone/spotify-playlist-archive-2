@@ -2,9 +2,9 @@
 
 ### [New Music Friday Iceland](https://open.spotify.com/playlist/37i9dQZF1DXdvNG1v6uWvH)
 
-> Loksins New Music Friday! Ný tónlist Of ....og mörgum fleiri!
+> Loksins New Music Friday! Ný tónlist Of Shaboozey, Ouse og mörgum fleiri!
 
-10,534 songs - 23 day 14 hr 20 min
+10,535 songs - 23 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1220,6 +1220,7 @@
 | [Born in Spring \- Alternative Version](https://open.spotify.com/track/6DTlnO1biqB3PFrW0A3HqA) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [Born in Spring \- Alternative Version](https://open.spotify.com/album/3VWo4UX7qPUCnfDrIkpWdM) | 4:16 | 2025-10-24 | 2025-10-31 |
 | [Born The Wrong Time](https://open.spotify.com/track/7yvd14rNPUM5KxZ7Z4SQCG) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Born The Wrong Time](https://open.spotify.com/album/7EWUSdKlT61rmIb3PPQUxU) | 2:38 | 2025-07-04 | 2025-07-11 |
 | [Born to Break](https://open.spotify.com/track/2h43akoEQYiPZhJBwbPb12) | [Erik Grönwall](https://open.spotify.com/artist/5dg3YtsiR8ux6amJv9m9AG) | [Born to Break](https://open.spotify.com/album/07A1I52rjMPvH8JguIhhs6) | 3:19 | 2026-04-03 | 2026-04-10 |
+| [Born To Die](https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Born To Die](https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27) | 2:45 | 2026-04-24 |  |
 | [Born To Fall](https://open.spotify.com/track/3l5qP5jBs8cZp1yExtdtyW) | [Grétar Ólafur](https://open.spotify.com/artist/60umQAzI1pvQ7g4zokVHT9) | [Born To Fall](https://open.spotify.com/album/53WdoosKRLdmn0jLMDqAhy) | 3:21 | 2024-11-29 | 2024-12-06 |
 | [Born To Love Ya](https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Born To Love Ya](https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo) | 2:35 | 2024-10-04 | 2024-10-11 |
 | [born to love you](https://open.spotify.com/track/6GXvOxXoaqVld0WPISVP1p) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A) | [born to love you](https://open.spotify.com/album/6wpJJJbYI3IOB8V3RRMaio) | 3:38 | 2025-08-01 | 2025-08-09 |
@@ -2924,7 +2925,7 @@
 | [Fantastic 4](https://open.spotify.com/track/5pBvnjyClaOKtANOlnmLhx) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [Fantastic 4](https://open.spotify.com/album/26MRFfThYjP3apDKglnXEt) | 2:08 | 2025-03-21 | 2025-03-28 |
 | [Fantasy](https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Fantasy](https://open.spotify.com/album/4TLjECteKor6f1j5zpVYYc) | 3:36 | 2024-10-18 | 2024-10-25 |
 | [Fantasy \(feat\. Channel Tres\)](https://open.spotify.com/track/1dGk1UhfbLY0neBaedx37o) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Fantasy \(feat\. Channel Tres\)](https://open.spotify.com/album/3k2rnh2rzbv7MF9kyf0CTr) | 3:36 | 2024-11-01 | 2024-11-08 |
-| [Fantasy \(ft\. COBRAH\)](https://open.spotify.com/track/6CwBTCg35UfkyjJ7BB6c9U) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [It's Not That Deep \(Unless You Want It To Be\)](https://open.spotify.com/album/5tfhBGn7x0cYn9VMYhSnph) | 2:21 | 2026-04-24 |  |
+| [Fantasy \(ft\. Cobrah\)](https://open.spotify.com/track/6CwBTCg35UfkyjJ7BB6c9U) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [It's Not That Deep \(Unless You Want It To Be\)](https://open.spotify.com/album/5tfhBGn7x0cYn9VMYhSnph) | 2:21 | 2026-04-24 |  |
 | [Far](https://open.spotify.com/track/2bGufV5inUlCxbDZNuQGJr) | [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Far](https://open.spotify.com/album/7DINQCxwUQTbQpAwuPGLjo) | 4:52 | 2025-05-16 | 2025-05-23 |
 | [FAR](https://open.spotify.com/track/6qfsVzAJzp1sCGvnFcOvGt) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [TRFN](https://open.spotify.com/artist/5Wj4v7ri4aDONkGEIuo0zp) | [FAR](https://open.spotify.com/album/7HdJnXR9AFNgHZbdCYDftP) | 2:20 | 2025-04-18 | 2025-04-25 |
 | [Far Away \(Take Your Time\)](https://open.spotify.com/track/4Fmj0z14Er4RHyU3QYuGv2) | [Peer Pressure](https://open.spotify.com/artist/7ecIJx38Dwdtdguyzhvt4k) | [Far Away \(Take Your Time\)](https://open.spotify.com/album/1WY7Bsp6RU6m7oAGAXdauw) | 2:18 | 2025-04-18 | 2025-04-25 |

@@ -4,7 +4,7 @@
 
 > Deutschpop, der jetzt passiert\. Cover: Kauta
 
-477 songs - 21 hr 30 min
+477 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,7 @@
 | [NIRWANA](https://open.spotify.com/track/6clGRPJr49RZHyUrol7Vy4) | [Mario Novembre](https://open.spotify.com/artist/6QkidrPNY7AuI1V4xcKiqo) | [NIRWANA](https://open.spotify.com/album/3aDMruaJit8uASJSo1aS6X) | 2:24 | 2025-10-24 | 2025-10-31 |
 | [Nokia](https://open.spotify.com/track/2ukYEXUL7LGPPb8T6tEqgF) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Nokia](https://open.spotify.com/album/4RsvpOMmsoydZCknHCdpDS) | 3:29 | 2026-02-05 | 2026-02-27 |
 | [Nur Dein](https://open.spotify.com/track/35hCve0kSEyJCrd9zSii0p) | [SANITO](https://open.spotify.com/artist/45vHPR6n5JrfHQusM0zbT2) | [Nur Dein](https://open.spotify.com/album/28UfMyE1585U1OXiVf0is5) | 2:11 | 2025-10-24 | 2025-11-14 |
-| [Nur dir gehören](https://open.spotify.com/track/7gBzC2JYp9hzQYX0xP2nlX) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Nur dir gehören](https://open.spotify.com/album/3mKCq6mubDbrfy1adzdGqc) | 2:45 | 2026-04-23 |  |
+| [Nur dir gehör'n](https://open.spotify.com/track/7gBzC2JYp9hzQYX0xP2nlX) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Nur dir gehör'n](https://open.spotify.com/album/3mKCq6mubDbrfy1adzdGqc) | 2:45 | 2026-04-23 |  |
 | [Nur Gott weiß](https://open.spotify.com/track/72dD14ZbShzmrCM8cv1wUJ) | [Joel Brandenstein](https://open.spotify.com/artist/0VUeSHZjbneQ8Ti7whkL9A) | [Nur Gott weiß](https://open.spotify.com/album/7r2h7pk5oU4nFwC8H9cBRo) | 2:53 | 2025-12-04 | 2026-02-20 |
 | [Odyssee](https://open.spotify.com/track/2epelpdFPKbM4YJ0WtkjNa) | [ALLESS.](https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl) | [Odyssee](https://open.spotify.com/album/1AhJ6GqKEe4oTb5gqKiATx) | 3:06 | 2026-02-19 | 2026-03-13 |
 | [OHNE LIEBE](https://open.spotify.com/track/7wYMbkTYkW9C3QruG1q4UQ) | [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [OHNE LIEBE](https://open.spotify.com/album/3SXakSFxv6R6kPbhbTN30Y) | 2:25 | 2026-04-16 |  |
@@ -365,6 +365,7 @@
 | [Rettest Du Mich](https://open.spotify.com/track/6fDw6jks6vPMhFFXjjtS91) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Rettest Du Mich](https://open.spotify.com/album/3JZuvq2jJfg2p212Rvfwtp) | 2:25 | 2025-10-24 | 2025-11-14 |
 | [riss im telefon](https://open.spotify.com/track/1YScN7MHGqQxy5AMO5QTaI) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [SILHOUETTEN](https://open.spotify.com/album/4pgP6JQ28okplyJGqq7kMj) | 2:18 | 2026-02-19 | 2026-03-06 |
 | [RON WEASLEY](https://open.spotify.com/track/1rYxxzFReauwApjU8byOKw) | [LORI](https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x) | [RON WEASLEY](https://open.spotify.com/album/025u3cE67Md9ANQAzEejuI) | 2:46 | 2025-10-24 | 2025-11-21 |
+| [Rosaroter Film](https://open.spotify.com/track/1RMvCbUxWbtBXS4L6KpbtN) | [Nico Gomez](https://open.spotify.com/artist/0gQm7HDLwdjFHpDwiBMV8c) | [Safe Songs \(EP 2\)](https://open.spotify.com/album/5CZ1QeVh6gWgNgc9V03cqz) | 2:38 | 2026-04-23 |  |
 | [ROTER KNOPF](https://open.spotify.com/track/3X3EJVWi2XSTRwxpMn374S) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [ROTER KNOPF](https://open.spotify.com/album/50VsggAMhFPZgYsg3Za3G0) | 2:00 | 2025-10-24 | 2025-11-14 |
 | [Russisch Roulette](https://open.spotify.com/track/4dl2chQiBfJdYqRtSYtQjj) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Russisch Roulette](https://open.spotify.com/album/7f5CCT665VoRN0cqagPqJs) | 2:50 | 2025-11-20 | 2026-01-15 |
 | [sad baddie anthem](https://open.spotify.com/track/2LNsZbDPc4zermXO0u6xfi) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [sad baddie anthem EP](https://open.spotify.com/album/4xbhzAzIldP3XfdgSiBXXw) | 2:17 | 2026-02-05 | 2026-02-27 |
@@ -388,6 +389,7 @@
 | [SOS](https://open.spotify.com/track/55Jya1xLHDYLvqLjej3SOu) | [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT) | [SOS](https://open.spotify.com/album/5kP2NaqCVPs5xuQCEPfkRy) | 2:13 | 2025-11-13 | 2026-01-02 |
 | [Spiegelbild](https://open.spotify.com/track/5s9NBtJ9iBoXdxNpt8b95w) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Spiegelbild](https://open.spotify.com/album/1dz0p7G7H5J6emAIVll695) | 2:37 | 2025-10-30 | 2025-12-05 |
 | [Spielchen](https://open.spotify.com/track/7vYd0jI4jdiYYfjrkjtLfh) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Spielchen](https://open.spotify.com/album/4otgoFuUQLG7t2WQNdeGJz) | 3:16 | 2025-12-18 | 2026-01-23 |
+| [Splitter](https://open.spotify.com/track/1TwpkmtFwTcGW7Wu7I90ef) | [Xavi](https://open.spotify.com/artist/0ZCbxUPZReHqmDsGmiRvL1) | [Manchmal sing' ich das was ich nicht sagen kann](https://open.spotify.com/album/60pGjTzDBv8apN0hEfDKoD) | 2:39 | 2026-04-23 |  |
 | [spür dich nicht](https://open.spotify.com/track/6ogOeP39FvJXi92FtcTAAu) | [PAUL FALC](https://open.spotify.com/artist/0ryxCmymTyz0myAGR4WnC1) | [spür dich nicht](https://open.spotify.com/album/3sK7SB5RiSbBnqnYwIggeE) | 2:18 | 2026-02-05 | 2026-02-27 |
 | [Spürst du das auch](https://open.spotify.com/track/2ixJRQMGyC7oWRrH6CbewK) | [Alexander Eder](https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE), [ADINA](https://open.spotify.com/artist/7vTbiP6c44jIgnQTDfpc4Y) | [Spürst du das auch](https://open.spotify.com/album/4r91wKpYcCe9Vu9VV25jGE) | 2:25 | 2025-10-24 | 2025-11-21 |
 | [stabiler verlierer](https://open.spotify.com/track/4uNiQsNvXabVZ0f1JvaOrK) | [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [stabiler verlierer](https://open.spotify.com/album/0wQXLAMpyi5q4fai0oEXPB) | 2:34 | 2025-11-27 | 2026-02-06 |
@@ -400,8 +402,6 @@
 | [tempo](https://open.spotify.com/track/7w2QhLdDSUK4T140YEIGEw) | [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT) | [tempo](https://open.spotify.com/album/4qBF8JWfH4beWAun8VKdcl) | 2:24 | 2026-01-15 | 2026-02-27 |
 | [Ti amo, Italiano!](https://open.spotify.com/track/5NWiaNjrJl0l3R89nOo4Vd) | [Sportfreunde Stiller](https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ) | [Ti amo, Italiano!](https://open.spotify.com/album/6HlDFrz02QPE0vqlaFAUzn) | 3:21 | 2026-01-08 | 2026-01-30 |
 | [Tot](https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd) | [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [Tot](https://open.spotify.com/album/1RJcxdAywbdvIpIvFFpySv) | 2:34 | 2026-01-29 | 2026-03-06 |
-| [Track 4](https://open.spotify.com/track/1TwpkmtFwTcGW7Wu7I90ef) | [Xavi](https://open.spotify.com/artist/0ZCbxUPZReHqmDsGmiRvL1) | [Manchmal sing' ich das was ich nicht sagen kann](https://open.spotify.com/album/60pGjTzDBv8apN0hEfDKoD) | 0:00 | 2026-04-23 |  |
-| [Track 6](https://open.spotify.com/track/1RMvCbUxWbtBXS4L6KpbtN) | [Nico Gomez](https://open.spotify.com/artist/0gQm7HDLwdjFHpDwiBMV8c) | [Safe Songs \(EP 2\)](https://open.spotify.com/album/5CZ1QeVh6gWgNgc9V03cqz) | 0:00 | 2026-04-23 |  |
 | [Traumfrau](https://open.spotify.com/track/2BKYVK54OCkOJW1FFP1gej) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Traumfrau](https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9) | 2:10 | 2026-02-26 |  |
 | [Trust Issues](https://open.spotify.com/track/2OaqsMStA93iZPddnZuSHQ) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L) | [Trust Issues](https://open.spotify.com/album/2yODdsTI20zYnM7QAHT7bh) | 2:36 | 2025-11-20 | 2025-12-12 |
 | [Träum weiter](https://open.spotify.com/track/0BZym7oJYCUx2782HG6VDF) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [Träum weiter](https://open.spotify.com/album/3cmL72jU4x8R1CU2jqtIpe) | 2:15 | 2025-10-24 | 2026-01-15 |

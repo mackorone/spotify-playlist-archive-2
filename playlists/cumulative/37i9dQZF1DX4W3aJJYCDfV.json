@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-01",
-  "description": "Brand new music from Noah Kahan, Maisie Peters and more! ",
+  "description": "Brand new music from Noah Kahan, Kehlani, Foo Fighters and more! ",
   "name": "New Music Friday UK",
   "tracks": [
     {
@@ -48217,6 +48217,24 @@
     },
     {
       "album": {
+        "name": "Born To Die",
+        "url": "https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165597,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX"
+    },
+    {
+      "album": {
         "name": "Born To Lose",
         "url": "https://open.spotify.com/album/679rxVMirZMcrWgELFMwyW"
       },
@@ -53484,6 +53502,24 @@
       "duration_ms": 160825,
       "name": "Bullet",
       "url": "https://open.spotify.com/track/6FRRj2zBwQGKoVIh9q5ozd"
+    },
+    {
+      "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/4JhceA7cUvI0VmAEOcYAE2"
+      },
+      "artists": [
+        {
+          "name": "loveshy",
+          "url": "https://open.spotify.com/artist/2xZvyZ5a4pTOvLexCZ91lv"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177348,
+      "name": "Bullet Between My Teeth",
+      "url": "https://open.spotify.com/track/58LqBRV0o1CfWjxLq8xwfv"
     },
     {
       "album": {
@@ -62478,6 +62514,24 @@
       "duration_ms": 227313,
       "name": "Celebrate (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/1HEEnDxmxHvrAddczaWS48"
+    },
+    {
+      "album": {
+        "name": "CELEBRATION",
+        "url": "https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "CELEBRATION",
+      "url": "https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1"
     },
     {
       "album": {
@@ -82158,6 +82212,32 @@
       "duration_ms": 205535,
       "name": "Dancing At The Edge Of The World",
       "url": "https://open.spotify.com/track/2BU1bI7FsgbXwjdYVSIRB0"
+    },
+    {
+      "album": {
+        "name": "Dancing Bears",
+        "url": "https://open.spotify.com/album/7bhV8hvhbqDPqOJw2hJxii"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        },
+        {
+          "name": "Phil Kieran",
+          "url": "https://open.spotify.com/artist/7fVBYlm65H50HLNLAQHBt5"
+        },
+        {
+          "name": "Roel H",
+          "url": "https://open.spotify.com/artist/5EWz4iQz1VrlXQoUVuv8JQ"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222461,
+      "name": "Dancing Bears",
+      "url": "https://open.spotify.com/track/3OFOOWfw3vmOoo2qI4DSYc"
     },
     {
       "album": {
@@ -171656,6 +171736,28 @@
     {
       "album": {
         "name": "I Can't Love You Anymore",
+        "url": "https://open.spotify.com/album/5BFfobflVIOwebqy5RtBcP"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228836,
+      "name": "I Can't Love You Anymore",
+      "url": "https://open.spotify.com/track/5aVBxVa0kz9uzv0F4gwdEn"
+    },
+    {
+      "album": {
+        "name": "I Can't Love You Anymore",
         "url": "https://open.spotify.com/album/7iShdNvUrtdUG8ovktr1QY"
       },
       "artists": [
@@ -236463,6 +236565,24 @@
     },
     {
       "album": {
+        "name": "Kizzy",
+        "url": "https://open.spotify.com/album/2kQDQctLqaMMOnX84ZIzcw"
+      },
+      "artists": [
+        {
+          "name": "Bel Cobain",
+          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268086,
+      "name": "Mind is a Dancer",
+      "url": "https://open.spotify.com/track/33ljpH5mxnf6LAU96WtWiC"
+    },
+    {
+      "album": {
         "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
         "url": "https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt"
       },
@@ -273780,6 +273900,24 @@
     {
       "album": {
         "name": "Over",
+        "url": "https://open.spotify.com/album/52ELpJ7bgF9bKBjHlk1uhL"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/2LE78eBACgoZ7sPDiI5Baa"
+    },
+    {
+      "album": {
+        "name": "Over",
         "url": "https://open.spotify.com/album/12Sx2ooBS8fnDFnX9wGSRS"
       },
       "artists": [
@@ -288426,6 +288564,28 @@
       "duration_ms": 218859,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/6UHBnRZhTedWSM3xiQM56F"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/2W2vZJBEdyswIanzJUKuct"
+      },
+      "artists": [
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156176,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3vlN5TntxqeGFtx0YOYYBb"
     },
     {
       "album": {
@@ -309871,6 +310031,28 @@
     },
     {
       "album": {
+        "name": "Sarah",
+        "url": "https://open.spotify.com/album/3TKVQ0RsXUqPTNYwaLAzF7"
+      },
+      "artists": [
+        {
+          "name": "8RO8",
+          "url": "https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8"
+        },
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177206,
+      "name": "Sarah",
+      "url": "https://open.spotify.com/track/0XwQDtlYvwFuTrhR57WO76"
+    },
+    {
+      "album": {
         "name": "Sarah's Place (feat. Noah Kahan)",
         "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
       },
@@ -318982,6 +319164,24 @@
       "duration_ms": 184031,
       "name": "SHIESTY",
       "url": "https://open.spotify.com/track/0qIINpGEsAR3kvjNiDWk5X"
+    },
+    {
+      "album": {
+        "name": "Toy With Me",
+        "url": "https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167095,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/3UOnrnhbfDxh0ORHCQ3DxZ"
     },
     {
       "album": {
@@ -356553,6 +356753,24 @@
     },
     {
       "album": {
+        "name": "terms and conditions",
+        "url": "https://open.spotify.com/album/6i1OPAnr4QVZGwOI7jYGj8"
+      },
+      "artists": [
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151959,
+      "name": "terms and conditions",
+      "url": "https://open.spotify.com/track/1NPfiTCBjiYUya7npwzbAY"
+    },
+    {
+      "album": {
         "name": "Terms and Conditions",
         "url": "https://open.spotify.com/album/7CJe1NJRPmK5et3uevNQw5"
       },
@@ -377982,60 +378200,6 @@
       "duration_ms": 246078,
       "name": "Tracing Lines",
       "url": "https://open.spotify.com/track/3HD4vh1AGcy0ub2OMfzPJL"
-    },
-    {
-      "album": {
-        "name": "Aftertaste",
-        "url": "https://open.spotify.com/album/4JhceA7cUvI0VmAEOcYAE2"
-      },
-      "artists": [
-        {
-          "name": "loveshy",
-          "url": "https://open.spotify.com/artist/2xZvyZ5a4pTOvLexCZ91lv"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/58LqBRV0o1CfWjxLq8xwfv"
-    },
-    {
-      "album": {
-        "name": "Thank God",
-        "url": "https://open.spotify.com/album/7mMorOuBgW7TRKKMAgVO2f"
-      },
-      "artists": [
-        {
-          "name": "Lucy Blue",
-          "url": "https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/4niKxGPpF9LIuNxqbk1RpZ"
-    },
-    {
-      "album": {
-        "name": "Kizzy",
-        "url": "https://open.spotify.com/album/2kQDQctLqaMMOnX84ZIzcw"
-      },
-      "artists": [
-        {
-          "name": "Bel Cobain",
-          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/33ljpH5mxnf6LAU96WtWiC"
     },
     {
       "album": {
@@ -406066,6 +406230,24 @@
       "duration_ms": 181920,
       "name": "Who You Are",
       "url": "https://open.spotify.com/track/43x0LVirLOE7SdCoIF4g6E"
+    },
+    {
+      "album": {
+        "name": "Thank God",
+        "url": "https://open.spotify.com/album/7mMorOuBgW7TRKKMAgVO2f"
+      },
+      "artists": [
+        {
+          "name": "Lucy Blue",
+          "url": "https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185519,
+      "name": "Who You Love",
+      "url": "https://open.spotify.com/track/4niKxGPpF9LIuNxqbk1RpZ"
     },
     {
       "album": {

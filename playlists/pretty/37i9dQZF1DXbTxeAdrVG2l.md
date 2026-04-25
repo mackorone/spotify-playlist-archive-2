@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTxeAdrVG2l.md) - [plain]
 
 > The biggest songs of the 1990s\. Cover: Céline Dion
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,678,755 likes - 150 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,679,179 likes - 150 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -15765,6 +15765,24 @@
     },
     {
       "album": {
+        "name": "No Llores",
+        "url": "https://open.spotify.com/album/6aKMJ6y9NSSQctDIqsuGYa"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166342,
+      "name": "No Llores",
+      "url": "https://open.spotify.com/track/4WegEknoxkBCLuRQf6BEEB"
+    },
+    {
+      "album": {
         "name": "No Me Dejes en Visto",
         "url": "https://open.spotify.com/album/5NgUGhM2y47rbhANd1v5D9"
       },
@@ -20563,6 +20581,40 @@
     },
     {
       "album": {
+        "name": "Sentimiento M\u00e1gico (feat. FLOUSES) [Remix]",
+        "url": "https://open.spotify.com/album/4uqgHKAFAFiBXchoUpWD9X"
+      },
+      "artists": [
+        {
+          "name": "Benja Valencia",
+          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
+        },
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "FLOUSES",
+          "url": "https://open.spotify.com/artist/79uEbaIj1KmIfSa220Fawm"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291459,
+      "name": "Sentimiento M\u00e1gico (feat. FLOUSES) - Remix",
+      "url": "https://open.spotify.com/track/3ApX5mxf1DYrgRTWstFVXV"
+    },
+    {
+      "album": {
         "name": "Sentimiento Real G",
         "url": "https://open.spotify.com/album/1iThcdxlMgJlfFyvBez6Gm"
       },
@@ -24562,6 +24614,36 @@
       "duration_ms": 119106,
       "name": "V16",
       "url": "https://open.spotify.com/track/1iatbSLJGSR9wYz3knoCF2"
+    },
+    {
+      "album": {
+        "name": "Va a querer volver",
+        "url": "https://open.spotify.com/album/6Yr8GIfHDI95n0oHCPnPig"
+      },
+      "artists": [
+        {
+          "name": "Felipelblessed",
+          "url": "https://open.spotify.com/artist/1tpfOvCgQzYscixwwKlZbx"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Kreamly",
+          "url": "https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk"
+        },
+        {
+          "name": "wildbearLB",
+          "url": "https://open.spotify.com/artist/1m9v9j880cT79X4BNwdBRt"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175841,
+      "name": "Va a querer volver",
+      "url": "https://open.spotify.com/track/7vMaIFvCS8p4H8SnwJ9zcy"
     },
     {
       "album": {

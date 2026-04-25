@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Kan Sano \*👉 <a href="https://spice.eplus.jp/articles/345643">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,246 likes - 78 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,244 likes - 78 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

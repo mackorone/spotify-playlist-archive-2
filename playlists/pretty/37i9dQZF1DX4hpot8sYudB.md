@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hpot8sYudB.md) - [plain]
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,290,095 likes - 221 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,290,572 likes - 221 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,7 +206,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hpot8sYudB.md) - [plain]
 | 196 | [Brown Noise Tunnel](https://open.spotify.com/track/3xJdA7Nq7J6VvPtdxyjBot) | [Vizzionz](https://open.spotify.com/artist/3VU6EADz81WPaKVs9mP30w) | [Brown Noise Tunnel](https://open.spotify.com/album/3Ncdjt0dxhi49771DRE8c1) | 2:26 |
 | 197 | [Brown Noise Sanctuary](https://open.spotify.com/track/2IsV9FabUSH7pQibiHZxH0) | [Alex Slumber](https://open.spotify.com/artist/220bhoAsBPF9N3gZJPgNtF) | [Brown Noise Sanctuary](https://open.spotify.com/album/03SbSLXcWdd5eFsAwTeWrW) | 2:49 |
 | 198 | [Big City Brown Noise](https://open.spotify.com/track/6p0QCTHChgNeBi1vxP2L7N) | [Brown Noise Studio](https://open.spotify.com/artist/7npBnBvj7J6RrSFJfDLBiA) | [Big City Brown Noise](https://open.spotify.com/album/0YjyRni3HXuhka7Ff942Qv) | 3:04 |
-| 199 | [Flowing Brown Noise](https://open.spotify.com/track/5ag378877iTMpPf8W4c2WC) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Brown Noise Calm Mind](https://open.spotify.com/album/4ZOzVlm2vNDejWHk9tz0H7) | 2:44 |
+| 199 | [Flowing Brown Noise](https://open.spotify.com/track/5ag378877iTMpPf8W4c2WC) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Brown Noise Calm Mind](https://open.spotify.com/album/4ZOzVlm2vNDejWHk9tz0H7) | 2:44 |
 | 200 | [Brown Noise Harmony](https://open.spotify.com/track/3EzgvNfxtS6so9ffIMj4DD) | [Hum Humming](https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF) | [Brown Noise Harmony](https://open.spotify.com/album/6AyAsU7Gx77bYrGBHPtmDH) | 5:04 |
 | 201 | [Brown Noise Healing Energies](https://open.spotify.com/track/0HD8FjRzvVe6HkdthAhuHR) | [Omnispherical](https://open.spotify.com/artist/4JVk8gc5inFzJpDG8kyyYm) | [Brown Noise Healing Energies](https://open.spotify.com/album/78ZdLUFmciQTuscd1CLHN7) | 3:13 |
 | 202 | [Glowing Brown Noise](https://open.spotify.com/track/2BrJ6ymWa1KZXd2EjsfhsT) | [Wavymotion](https://open.spotify.com/artist/6ES9uL57SKu54jh3TlY3ce) | [Glowing Brown Noise](https://open.spotify.com/album/2LQEP2qyr3EsVi0aYsVIEQ) | 2:23 |

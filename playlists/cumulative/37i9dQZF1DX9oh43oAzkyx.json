@@ -6797,6 +6797,24 @@
     },
     {
       "album": {
+        "name": "Pull Over",
+        "url": "https://open.spotify.com/album/0fBFZblcPCYspMLHDR1IJu"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177084,
+      "name": "Pull Over",
+      "url": "https://open.spotify.com/track/0wHgsYlk5WR4j98qQwOQym"
+    },
+    {
+      "album": {
         "name": "NAUJOUR",
         "url": "https://open.spotify.com/album/2pAylLmyj0wmHy5JjL0h6V"
       },
@@ -8654,7 +8672,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 182466,
       "name": "Trophies",
       "url": "https://open.spotify.com/track/1T0iAFb7dgP0hajkmYstFu"

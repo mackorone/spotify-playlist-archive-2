@@ -1,13 +1,177 @@
 {
-  "description": "a little indie, a little pop, soda featuring Johnny Orlando",
-  "num_followers": 229472,
+  "description": "a little indie, a little pop, soda featuring Daniel Seavey",
+  "num_followers": 229509,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGntKslas2+sthNkttPkjhTioQHz",
+  "snapshot_id": "AAAAAJNrn2hKgjRWOHuSbxN62M04HrB0",
   "tracks": [
+    {
+      "added_at": "2026-04-24 04:01:34",
+      "album": {
+        "name": "Time to Time (Annie)",
+        "url": "https://open.spotify.com/album/05USGegWxbTPtVePsT3oru"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "duration_ms": 172554,
+      "name": "Time to Time (Annie)",
+      "url": "https://open.spotify.com/track/6w1uqluhcV4Q8aNMDnZlIZ"
+    },
+    {
+      "added_at": "2026-04-24 04:01:34",
+      "album": {
+        "name": "Sensitive to the room",
+        "url": "https://open.spotify.com/album/2HD4BmFejncyUP0fhoes6Q"
+      },
+      "artists": [
+        {
+          "name": "Presley Regier",
+          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
+        }
+      ],
+      "duration_ms": 197158,
+      "name": "Why Am I Here",
+      "url": "https://open.spotify.com/track/5BaG5aMYeyOCfix0eTJXKz"
+    },
+    {
+      "added_at": "2026-04-24 04:01:34",
+      "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/38DX6jJd8fkTr2wwM2ECdL"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        },
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 208719,
+      "name": "Clueless (feat. Aly & AJ)",
+      "url": "https://open.spotify.com/track/2MPzUXWuyMkO8UwSRSIRsl"
+    },
+    {
+      "added_at": "2026-04-24 04:01:34",
+      "album": {
+        "name": "Songs I Wrote Since She Left",
+        "url": "https://open.spotify.com/album/3aNf0dE1084J6qV0NvLbQP"
+      },
+      "artists": [
+        {
+          "name": "GRESLEY",
+          "url": "https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf"
+        }
+      ],
+      "duration_ms": 205225,
+      "name": "Piece of Your Love",
+      "url": "https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp"
+    },
+    {
+      "added_at": "2026-04-24 04:01:34",
+      "album": {
+        "name": "Stella",
+        "url": "https://open.spotify.com/album/2NmgZJHvp5AJvFylC4E3Ur"
+      },
+      "artists": [
+        {
+          "name": "Kathryn Gallagher",
+          "url": "https://open.spotify.com/artist/3ih5Zv6GiMsezuTQy6zflD"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Stella",
+      "url": "https://open.spotify.com/track/4tunPd5wjImciMBStM3NxL"
+    },
+    {
+      "added_at": "2026-04-24 04:01:34",
+      "album": {
+        "name": "Hate Myself",
+        "url": "https://open.spotify.com/album/0kpeTZy0ghMbYEesoL9xBE"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 152508,
+      "name": "Hate Myself",
+      "url": "https://open.spotify.com/track/7DmTGp8xqD7TeuFKU7230f"
+    },
+    {
+      "added_at": "2026-04-24 04:01:34",
+      "album": {
+        "name": "DOES GOD HOLD GRUDGES?",
+        "url": "https://open.spotify.com/album/1SONYFzZkgDYC0fNqmWoVY"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "duration_ms": 163246,
+      "name": "DOES GOD HOLD GRUDGES?",
+      "url": "https://open.spotify.com/track/2aQWVAmzgGljv8a7PJteXC"
+    },
+    {
+      "added_at": "2026-04-24 04:01:34",
+      "album": {
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/78wMwOnARAhRxBv7Q37XOl"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "duration_ms": 186285,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/3eFUpyUIWFMSQ3RvUpxZXu"
+    },
+    {
+      "added_at": "2026-04-24 04:01:34",
+      "album": {
+        "name": "Go Ahead",
+        "url": "https://open.spotify.com/album/0C7JY4rdJ724GZ0KovqjJG"
+      },
+      "artists": [
+        {
+          "name": "SYT\u00cb",
+          "url": "https://open.spotify.com/artist/3FeH234dEJoLCwGmc2TOG9"
+        }
+      ],
+      "duration_ms": 186230,
+      "name": "Go Ahead",
+      "url": "https://open.spotify.com/track/3vjU7tlE0gMhusAgY7OoHt"
+    },
+    {
+      "added_at": "2026-04-24 04:01:34",
+      "album": {
+        "name": "Tightrope Walker",
+        "url": "https://open.spotify.com/album/30piQZ7T1abAe38JdEVcm8"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 194496,
+      "name": "Tightrope Walker",
+      "url": "https://open.spotify.com/track/2r9qgsBDLCWmKpqPJo80vp"
+    },
     {
       "added_at": "2026-04-17 06:03:18",
       "album": {

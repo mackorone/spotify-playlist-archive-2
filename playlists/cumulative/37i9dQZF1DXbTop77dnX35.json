@@ -6730,8 +6730,8 @@
           "url": "https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won"
         },
         {
-          "name": "Skillful Onair",
-          "url": "https://open.spotify.com/artist/5jzsyh8u6zDA4q9eUFKx1V"
+          "name": "Skillful ONAiR",
+          "url": "https://open.spotify.com/artist/7BIkmrjKoKBsJ7dLMUP4xc"
         }
       ],
       "date_added": "2026-04-24",
@@ -32276,7 +32276,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 141497,
-      "name": "Fantasy (ft. COBRAH)",
+      "name": "Fantasy (ft. Cobrah)",
       "url": "https://open.spotify.com/track/6CwBTCg35UfkyjJ7BB6c9U"
     },
     {
@@ -41434,6 +41434,36 @@
       "duration_ms": 158784,
       "name": "Gun Shots",
       "url": "https://open.spotify.com/track/6hQkNoz2hhSxdRXSc7lHto"
+    },
+    {
+      "album": {
+        "name": "Izinja Zam: Vol. I",
+        "url": "https://open.spotify.com/album/0HQLuYklJlPPnAH4Fk3IsH"
+      },
+      "artists": [
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        },
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        },
+        {
+          "name": "Funky Qla",
+          "url": "https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86"
+        },
+        {
+          "name": "TBO",
+          "url": "https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425084,
+      "name": "Guqa (My Prayer)",
+      "url": "https://open.spotify.com/track/2i640R1xpVapryc9QKdVeo"
     },
     {
       "album": {
@@ -66638,6 +66668,28 @@
       "duration_ms": 245774,
       "name": "Mobondo",
       "url": "https://open.spotify.com/track/7dnLO6lSRNvdbrXJjFZMBH"
+    },
+    {
+      "album": {
+        "name": "Modern Fantasy",
+        "url": "https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        },
+        {
+          "name": "Raytheboffin",
+          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212903,
+      "name": "Modern man",
+      "url": "https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y"
     },
     {
       "album": {
@@ -107344,42 +107396,6 @@
       "duration_ms": 0,
       "name": "Track 1",
       "url": "https://open.spotify.com/track/61j282lTW0Q2F2Zl7MDQZ9"
-    },
-    {
-      "album": {
-        "name": "Modern Fantasy",
-        "url": "https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy"
-      },
-      "artists": [
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        }
-      ],
-      "date_added": "2026-04-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y"
-    },
-    {
-      "album": {
-        "name": "Izinja Zam: Vol. I",
-        "url": "https://open.spotify.com/album/0HQLuYklJlPPnAH4Fk3IsH"
-      },
-      "artists": [
-        {
-          "name": "Zee Nxumalo",
-          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
-        }
-      ],
-      "date_added": "2026-04-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/2i640R1xpVapryc9QKdVeo"
     },
     {
       "album": {

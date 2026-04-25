@@ -255,6 +255,32 @@
     },
     {
       "album": {
+        "name": "Amor en Miami",
+        "url": "https://open.spotify.com/album/4ISpV8ZnYGPjG9fnV97ucD"
+      },
+      "artists": [
+        {
+          "name": "Tinx & Lucas",
+          "url": "https://open.spotify.com/artist/5Csue1GZhgZ2rMRredYxIL"
+        },
+        {
+          "name": "Lucas LM",
+          "url": "https://open.spotify.com/artist/4XW3v1Vfu7ZEs1sJyWvoRJ"
+        },
+        {
+          "name": "Kaala Shaw",
+          "url": "https://open.spotify.com/artist/5tZsSjeLuHAMjvL8Tkrdnf"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181417,
+      "name": "Amor en Miami",
+      "url": "https://open.spotify.com/track/0AGXJn0vNyFHJNA4B5oF13"
+    },
+    {
+      "album": {
         "name": "Another You (feat. The Vamps)",
         "url": "https://open.spotify.com/album/7f2gWbQrwvU6JgidZr2xqV"
       },
@@ -394,7 +420,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 170714,
       "name": "Bacilando",
       "url": "https://open.spotify.com/track/4n09v7GgxwrddyFYpT3xJ8"
@@ -934,7 +960,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 253437,
       "name": "Cherry Blossom - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/7qTu1G3gDgC5qJ6Eu71OUs"
@@ -1622,7 +1648,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 420000,
       "name": "Eventide",
       "url": "https://open.spotify.com/track/2gjvB3yJw9toGYfsdDXrFg"
@@ -2212,7 +2238,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 145777,
       "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
       "url": "https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV"
@@ -2754,7 +2780,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 157524,
       "name": "Hollaback Girl",
       "url": "https://open.spotify.com/track/532gUQw045MyBKmh0Wsaiv"
@@ -4209,6 +4235,24 @@
     },
     {
       "album": {
+        "name": "My Time",
+        "url": "https://open.spotify.com/album/4QJcd6Wi1KCTSGwuw33WTt"
+      },
+      "artists": [
+        {
+          "name": "Gabe",
+          "url": "https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146484,
+      "name": "My Time",
+      "url": "https://open.spotify.com/track/6qWI0OPscA0MW4G6kjWGUg"
+    },
+    {
+      "album": {
         "name": "Nebula",
         "url": "https://open.spotify.com/album/0ZxA2UfY6QLTnOtH3rExch"
       },
@@ -5215,6 +5259,28 @@
     },
     {
       "album": {
+        "name": "Selecta",
+        "url": "https://open.spotify.com/album/4H1B4mRc03rk9rt8R6swPA"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205984,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/53OLMfDeaFJgosZsxNSLT9"
+    },
+    {
+      "album": {
         "name": "SERENA",
         "url": "https://open.spotify.com/album/59B2uh9brmSmphZ9G1DZfC"
       },
@@ -5366,6 +5432,24 @@
       "duration_ms": 147976,
       "name": "Sicko Drop",
       "url": "https://open.spotify.com/track/5T4lERmPqhO2ukZoGJ5sSr"
+    },
+    {
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/38MBdNMbf3lra9AWJkqmZG"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365689,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/340fN3ZYdRrcc7ybSYNglo"
     },
     {
       "album": {
@@ -6504,6 +6588,32 @@
       "duration_ms": 221123,
       "name": "You Want The Fire",
       "url": "https://open.spotify.com/track/1L3syVgeYCOYc5O7IECxwI"
+    },
+    {
+      "album": {
+        "name": "Ypsilon",
+        "url": "https://open.spotify.com/album/5O8xD8uIUZ1YkRhSqdynX2"
+      },
+      "artists": [
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+        },
+        {
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        },
+        {
+          "name": "Robert Babicz",
+          "url": "https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302362,
+      "name": "Ypsilon",
+      "url": "https://open.spotify.com/track/0uwUEWkwJTIgWLKD1VHZMr"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXd14ByHZraz1"

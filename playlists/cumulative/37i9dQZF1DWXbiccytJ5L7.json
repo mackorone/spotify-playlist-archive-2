@@ -2619,6 +2619,28 @@
     },
     {
       "album": {
+        "name": "Palm Trees",
+        "url": "https://open.spotify.com/album/6YhgM4A1KHeZp6GD6drpie"
+      },
+      "artists": [
+        {
+          "name": "Redferrin",
+          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192950,
+      "name": "Palm Trees",
+      "url": "https://open.spotify.com/track/5kRrnKF7Zg7xMIbwjsIjvL"
+    },
+    {
+      "album": {
         "name": "PBR Nights",
         "url": "https://open.spotify.com/album/6k1Cl6ZgSUsLROWqFskfYX"
       },

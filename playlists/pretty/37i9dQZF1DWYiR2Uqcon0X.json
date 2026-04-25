@@ -1,6 +1,6 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 735812,
+  "num_followers": 735777,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -182,6 +182,10 @@
         {
           "name": "Jason Isbell and the 400 Unit",
           "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
         }
       ],
       "duration_ms": 215563,

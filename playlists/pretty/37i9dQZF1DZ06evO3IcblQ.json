@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 36339,
+  "num_followers": 36344,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aegPgAAAAAAM2uLRf35f0+5w8Fdrg9DH",
+  "snapshot_id": "aelhAAAAAAChQAO3DYLVTN7oxQodnID2",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Gonna Die",
-        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
+        "name": "Straight Ahead",
+        "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 157653,
-      "name": "Live While You Can",
-      "url": "https://open.spotify.com/track/4YdSK6GVALPUDNij64lZ9F"
+      "duration_ms": 156200,
+      "name": "My Own Country",
+      "url": "https://open.spotify.com/track/1kPFj28TkyHJdWdqQmBGYJ"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Straight Ahead",
-        "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
+        "name": "Never Gonna Die",
+        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 156200,
-      "name": "My Own Country",
-      "url": "https://open.spotify.com/track/1kPFj28TkyHJdWdqQmBGYJ"
+      "duration_ms": 157653,
+      "name": "Live While You Can",
+      "url": "https://open.spotify.com/track/4YdSK6GVALPUDNij64lZ9F"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Full Circle (2005 Remaster)",
-        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 166040,
-      "name": "Broken - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1aCHRP1jfEyooKGnHdwkdD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Straight Ahead",
         "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 247133,
       "name": "Alien",
       "url": "https://open.spotify.com/track/3Xd3IXnA2rmyVawJL9tPVm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Full Circle (2005 Remaster)",
+        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 166040,
+      "name": "Broken - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1aCHRP1jfEyooKGnHdwkdD"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "About Time (2005 Remaster)",
-        "url": "https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 175066,
-      "name": "Searching - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1hpWskveq87EPrdQ1Rk1UZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Ashes",
         "url": "https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 161573,
       "name": "Something to Change",
       "url": "https://open.spotify.com/track/4570R2Jthx2P93Y1nIYA6w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "About Time (2005 Remaster)",
+        "url": "https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 175066,
+      "name": "Searching - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1hpWskveq87EPrdQ1Rk1UZ"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Or Nothing (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 195280,
-      "name": "X Generation",
-      "url": "https://open.spotify.com/track/5ANtwzlycAMmMoHxqiH9F1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pennywise (2005 Remaster)",
         "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 158080,
       "name": "No Reason Why - 2005 Remaster",
       "url": "https://open.spotify.com/track/2mTPOlPrevasvnkDzrD8xx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Or Nothing (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 195280,
+      "name": "X Generation",
+      "url": "https://open.spotify.com/track/5ANtwzlycAMmMoHxqiH9F1"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Ashes",
-        "url": "https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg"
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 214866,
-      "name": "Yesterdays",
-      "url": "https://open.spotify.com/track/3D2tbKnj07Xwm3FQj9kisq"
+      "duration_ms": 85946,
+      "name": "Rules - 2005 Remaster",
+      "url": "https://open.spotify.com/track/767rObQPgUNryNEu7HBnqq"
     }
   ],
   "unique_name": "This Is Pennywise",

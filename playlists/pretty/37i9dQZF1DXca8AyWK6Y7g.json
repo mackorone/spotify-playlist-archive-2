@@ -1,12 +1,12 @@
 {
   "description": "on repeat for a reason. cover: Emei",
-  "num_followers": 1549131,
+  "num_followers": 1549025,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJgCBKMySy3R3YejRQLMSVkPYfDY",
+  "snapshot_id": "AAAAAPd2trDnEW3yn1alD5DtSTeAw3xD",
   "tracks": [
     {
       "added_at": "2026-04-03 04:03:41",
@@ -25,10 +25,78 @@
       "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
     },
     {
-      "added_at": "2026-03-20 04:00:49",
+      "added_at": "2026-04-17 04:11:42",
       "album": {
-        "name": "Is It Fun Or Is It Over?",
-        "url": "https://open.spotify.com/album/54N4dAkractT6mUBC0a48b"
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
+    {
+      "added_at": "2026-04-24 04:02:35",
+      "album": {
+        "name": "Wishful Thinker",
+        "url": "https://open.spotify.com/album/23RuE1o41l3e9dZITI4lbU"
+      },
+      "artists": [
+        {
+          "name": "Rue Gale",
+          "url": "https://open.spotify.com/artist/4D9p7KMV97cr41GH94Fa9V"
+        },
+        {
+          "name": "NEXT GENERATION",
+          "url": "https://open.spotify.com/artist/23mVTTijlJBZUXFwV0GWH0"
+        }
+      ],
+      "duration_ms": 166015,
+      "name": "Wishful Thinker",
+      "url": "https://open.spotify.com/track/4ixOrGaJGSvx1D2RecrjnG"
+    },
+    {
+      "added_at": "2026-04-24 04:02:35",
+      "album": {
+        "name": "Sensitive to the room",
+        "url": "https://open.spotify.com/album/2HD4BmFejncyUP0fhoes6Q"
+      },
+      "artists": [
+        {
+          "name": "Presley Regier",
+          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
+        }
+      ],
+      "duration_ms": 197158,
+      "name": "Why Am I Here",
+      "url": "https://open.spotify.com/track/5BaG5aMYeyOCfix0eTJXKz"
+    },
+    {
+      "added_at": "2026-04-24 04:02:35",
+      "album": {
+        "name": "Sick of Staying",
+        "url": "https://open.spotify.com/album/65a1oTXKKKPfOCyy2V7jFU"
+      },
+      "artists": [
+        {
+          "name": "Julia Campbell",
+          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
+        }
+      ],
+      "duration_ms": 206470,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4"
+    },
+    {
+      "added_at": "2026-04-24 04:02:35",
+      "album": {
+        "name": "IS IT FUN OR IS IT OVER?",
+        "url": "https://open.spotify.com/album/74WPtnFgpaweZt8wSqcfQd"
       },
       "artists": [
         {
@@ -36,9 +104,25 @@
           "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
         }
       ],
-      "duration_ms": 160020,
-      "name": "Is It Fun Or Is It Over?",
-      "url": "https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6"
+      "duration_ms": 154131,
+      "name": "Kiss Me Better",
+      "url": "https://open.spotify.com/track/1NxInf8oAuifXyT8Umkblf"
+    },
+    {
+      "added_at": "2026-03-27 05:09:53",
+      "album": {
+        "name": "Male Validation and Other Drugs",
+        "url": "https://open.spotify.com/album/2n0EAYrWThiwLndOZZ95dM"
+      },
+      "artists": [
+        {
+          "name": "Avery Cochrane",
+          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
+        }
+      ],
+      "duration_ms": 220833,
+      "name": "Sex, Etc.",
+      "url": "https://open.spotify.com/track/0dP58NNCmEiNRd8Irh6aBM"
     },
     {
       "added_at": "2026-04-17 04:11:42",
@@ -57,6 +141,22 @@
       "url": "https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec"
     },
     {
+      "added_at": "2026-03-20 04:00:49",
+      "album": {
+        "name": "Is It Fun Or Is It Over?",
+        "url": "https://open.spotify.com/album/54N4dAkractT6mUBC0a48b"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 160020,
+      "name": "Is It Fun Or Is It Over?",
+      "url": "https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6"
+    },
+    {
       "added_at": "2026-04-10 05:02:50",
       "album": {
         "name": "Damn Good Actress",
@@ -71,6 +171,22 @@
       "duration_ms": 169713,
       "name": "Damn Good Actress",
       "url": "https://open.spotify.com/track/3Uh3cFYJUYqS8CdHDbHkFC"
+    },
+    {
+      "added_at": "2026-04-24 04:02:35",
+      "album": {
+        "name": "RODEO CLOWN",
+        "url": "https://open.spotify.com/album/5172xO1n4yEllzzcsIqP1N"
+      },
+      "artists": [
+        {
+          "name": "Obed Padilla",
+          "url": "https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl"
+        }
+      ],
+      "duration_ms": 153764,
+      "name": "RODEO CLOWN",
+      "url": "https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba"
     },
     {
       "added_at": "2026-04-20 21:03:52",
@@ -121,22 +237,6 @@
       "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
     },
     {
-      "added_at": "2026-04-17 04:11:42",
-      "album": {
-        "name": "drop dead",
-        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 224998,
-      "name": "drop dead",
-      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
-    },
-    {
       "added_at": "2026-01-23 05:34:57",
       "album": {
         "name": "BUTTERF-LIES",
@@ -151,22 +251,6 @@
       "duration_ms": 128445,
       "name": "BUTTERF-LIES",
       "url": "https://open.spotify.com/track/1noA2W44E4YqekIJwudFO2"
-    },
-    {
-      "added_at": "2026-03-27 05:09:53",
-      "album": {
-        "name": "Male Validation and Other Drugs",
-        "url": "https://open.spotify.com/album/2n0EAYrWThiwLndOZZ95dM"
-      },
-      "artists": [
-        {
-          "name": "Avery Cochrane",
-          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
-        }
-      ],
-      "duration_ms": 220833,
-      "name": "Sex, Etc.",
-      "url": "https://open.spotify.com/track/0dP58NNCmEiNRd8Irh6aBM"
     },
     {
       "added_at": "2026-04-17 04:11:42",
@@ -685,22 +769,6 @@
       "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
     },
     {
-      "added_at": "2026-03-27 05:09:53",
-      "album": {
-        "name": "Feel Your Rain",
-        "url": "https://open.spotify.com/album/7qTMakCD0P74bbkIPWuNGi"
-      },
-      "artists": [
-        {
-          "name": "Eli",
-          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
-        }
-      ],
-      "duration_ms": 216910,
-      "name": "Feel Your Rain",
-      "url": "https://open.spotify.com/track/07be0QUZ1uxxXDkarMiZe6"
-    },
-    {
       "added_at": "2026-02-27 05:00:35",
       "album": {
         "name": "Losing Streak",
@@ -785,38 +853,6 @@
       "url": "https://open.spotify.com/track/6lxqJv00CG2e30NEYRuCAC"
     },
     {
-      "added_at": "2026-03-20 04:00:49",
-      "album": {
-        "name": "Gold Star Baby: After Hours",
-        "url": "https://open.spotify.com/album/08a8HQzyrjbt7qiWWV43iT"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 139666,
-      "name": "Can't Wait",
-      "url": "https://open.spotify.com/track/4aFsz8k1nk9uqHJnq0ff9A"
-    },
-    {
-      "added_at": "2026-03-27 05:09:53",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/1MmZO7iSto3uDpNgYdLrOW"
-      },
-      "artists": [
-        {
-          "name": "EMMMA",
-          "url": "https://open.spotify.com/artist/69BpHcuizlrHOsWhQoIPMd"
-        }
-      ],
-      "duration_ms": 152320,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/1N2TvrTy0NKrIJG3QR1Amm"
-    },
-    {
       "added_at": "2025-09-19 04:00:31",
       "album": {
         "name": "Man\u2019s Best Friend",
@@ -895,22 +931,6 @@
       "duration_ms": 176600,
       "name": "down the line",
       "url": "https://open.spotify.com/track/0zoYQ34bq09BhbkidNy2hA"
-    },
-    {
-      "added_at": "2026-03-13 04:00:49",
-      "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/21S9OMKqLkJdLjNHRzGYH0"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Feel Something",
-      "url": "https://open.spotify.com/track/0Rdt95TmRN3kzIesX6mUl4"
     },
     {
       "added_at": "2026-03-20 04:00:49",
@@ -1007,22 +1027,6 @@
       "duration_ms": 189107,
       "name": "the punisher",
       "url": "https://open.spotify.com/track/4YOpINlEvanckbfIAwsdkx"
-    },
-    {
-      "added_at": "2026-03-13 04:00:49",
-      "album": {
-        "name": "Bite My Tongue",
-        "url": "https://open.spotify.com/album/4MCmAoA5quFVoJitYFFbKX"
-      },
-      "artists": [
-        {
-          "name": "Charley",
-          "url": "https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "Bite My Tongue",
-      "url": "https://open.spotify.com/track/4iyqefm2pwDyWL4TWmrigK"
     },
     {
       "added_at": "2026-03-06 05:00:26",

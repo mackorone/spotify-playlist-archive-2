@@ -4,7 +4,7 @@
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: Lucid Express \(Hong Kong\)
 
-328 songs - 22 hr 39 min
+329 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Shades of Blue](https://open.spotify.com/track/1DGh1bvZBWkZpXrfEGXMed) | [Rakua](https://open.spotify.com/artist/3c3nzxDoR0ZcVrBnpv8Wqn) | [Everything Faded Into Mist](https://open.spotify.com/album/6p86GPGo6YPu96F5TnoE1Z) | 4:26 | 2024-06-27 | 2025-10-17 |
 | [shhhhh](https://open.spotify.com/track/7vPVFM00o5a5Fo1YnkHSV2) | [Taffy](https://open.spotify.com/artist/1yVqLRlRVVJhIfS9aVium0) | [shhhhh](https://open.spotify.com/album/0cqh67MklIrX083Aj8l3MR) | 2:43 | 2025-01-23 | 2025-08-01 |
 | [Shinigami\(死神\)](https://open.spotify.com/track/7z6Iwx4sYHmDif3f5zi1Cd) | [srwks.](https://open.spotify.com/artist/79eB9q0lo6UaYUNgYNAbqp) | [Shinigami\(死神\)](https://open.spotify.com/album/3dQhvpUmf07LR38HG5jFo4) | 4:20 | 2024-06-27 | 2025-04-04 |
+| [SHOOTING STAR](https://open.spotify.com/track/4EPyum2OTU4gI81fqbrUMX) | [bird.](https://open.spotify.com/artist/5ZR9GMo2iB8nxetEtvRdey) | [SHOOTING STAR](https://open.spotify.com/album/0wLaHDcoeLp1lCn6NqoKa8) | 4:26 | 2026-04-24 |  |
 | [sink](https://open.spotify.com/track/0BbiGPCGArT7GjdwGfaa3v) | [roi bob](https://open.spotify.com/artist/1C0PWT7oOi4BVCkIXNTUak) | [POOL](https://open.spotify.com/album/60w3xIyXC9ZDvZ01aqjcpM) | 4:22 | 2025-10-09 |  |
 | [Slow Down](https://open.spotify.com/track/5OE3zUfKo2VuJBTguecfVj) | [Commemorate](https://open.spotify.com/artist/7DIueeIli4tlniV0KYVMs8) | [Slow Down](https://open.spotify.com/album/4HZVcgorCLI63kxzvGYMaV) | 4:20 | 2025-03-06 | 2025-10-10 |
 | [Slowburn](https://open.spotify.com/track/2FrRy41ZTwoCGGm76n1SCs) | [altev](https://open.spotify.com/artist/1GeZv13cX4Gf8v2nJa7K65) | [Slowburn](https://open.spotify.com/album/3cvlaH50gRo7egQVtTJ5jV) | 2:51 | 2024-12-04 | 2025-09-27 |

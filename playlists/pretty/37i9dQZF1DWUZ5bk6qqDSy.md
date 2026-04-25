@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZ5bk6qqDSy.md) - [plain]
 
 > Ten hours long continuous white noise to help you relax and let go.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,258,969 likes - 180 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,260,224 likes - 180 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZ5bk6qqDSy.md) - [plain]
 | 85 | [Lost In Noise](https://open.spotify.com/track/5dKAN40CfHqXP7hHDXtMtl) | [Libronics](https://open.spotify.com/artist/3aRPewMsLWgCfDyogfVWja) | [Sky Full Of Noise](https://open.spotify.com/album/0smg0ZqmbCMR489whHG7Bc) | 2:13 |
 | 86 | [Velvet White Noise](https://open.spotify.com/track/24d4j7cIt4HOVDw10BVBxl) | [Casper White](https://open.spotify.com/artist/4weaxjLzThghACmvjNt9JT) | [Velvet White Noise](https://open.spotify.com/album/6MHYI6rZPfrkLqllWCk5HW) | 2:30 |
 | 87 | [Ethereal White Noise](https://open.spotify.com/track/71wHIsJhgisABD0DtB1T8w) | [Noise Advisor](https://open.spotify.com/artist/28Xwzrz7nVTqirstVfbxF1) | [Ethereal White Noise](https://open.spotify.com/album/6LZtw7oumfF3pEdhB1H9xf) | 2:46 |
-| 88 | [White Noise Dreaming](https://open.spotify.com/track/3XQcmUXD9q6RcF6CHCoYXc) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 |
+| 88 | [White Noise Dreaming](https://open.spotify.com/track/3XQcmUXD9q6RcF6CHCoYXc) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 |
 | 89 | [Sleep With White Noise](https://open.spotify.com/track/4GYPT9EGhQ5qvJ9vkubDLC) | [Nobsil](https://open.spotify.com/artist/7flGFW8VeFeveEvMR3MI4m) | [Sleep With White Noise](https://open.spotify.com/album/4Otyz0kOlV9DnrgLSc62Qu) | 3:15 |
 | 90 | [Sky Full Of Noise](https://open.spotify.com/track/4I2WSkwqRf5wJC1WxlcqYk) | [Libronics](https://open.spotify.com/artist/3aRPewMsLWgCfDyogfVWja) | [Sky Full Of Noise](https://open.spotify.com/album/0smg0ZqmbCMR489whHG7Bc) | 2:19 |
 | 91 | [Low Slow Noise](https://open.spotify.com/track/5RpqglzYhFDpxDlQXwol9P) | [Soundstars](https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8) | [Low Slow Noise](https://open.spotify.com/album/3duCww2adwRWRR8811ErjL) | 2:05 |
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZ5bk6qqDSy.md) - [plain]
 | 106 | [System Shutdown](https://open.spotify.com/track/4SJTFnmmfxotIdw2psMeDp) | [Synthetic Architect](https://open.spotify.com/artist/7CUcdQhE3WLGPzn3sEJNd5) | [Digitalion](https://open.spotify.com/album/2rHCzAuZnw7DcH7R0Nv2fM) | 3:00 |
 | 107 | [White Noise Escape](https://open.spotify.com/track/3JZn98HiHohUnlWN5e3VeS) | [The Clear Mind](https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs) | [White Noise Escape](https://open.spotify.com/album/0rziKOMplDcakjAFsrxZWZ) | 4:15 |
 | 108 | [White Cloud Noise](https://open.spotify.com/track/4sSUWGb5TSL0RWgtcGv7eq) | [Fizzonaut](https://open.spotify.com/artist/0NBa3X8xLJZR9XD1BK7zI9) | [White Cloud Noise](https://open.spotify.com/album/6rKbwqFP19UCdwcCJ0yAUO) | 2:36 |
-| 109 | [White Noise for Relaxation](https://open.spotify.com/track/6C1WVY1WE6wXNXVAAZsb0x) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 |
+| 109 | [White Noise for Relaxation](https://open.spotify.com/track/6C1WVY1WE6wXNXVAAZsb0x) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 |
 | 110 | [White Cloud Somnolence](https://open.spotify.com/track/09r45kX1QtF7N1aaFDhSzM) | [Sleeping Parachuter](https://open.spotify.com/artist/00NdWBjv7CpdfDBXUfg5qq) | [White Cloud Somnolence](https://open.spotify.com/album/6wRm3c0JGhuDVAQbEnG4pG) | 2:43 |
 | 111 | [Slipping Into Dreamland](https://open.spotify.com/track/1O695QUyM6aIc8FJWP8s3X) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [White Dreams](https://open.spotify.com/album/00kO8yXfqyXquFeMOHJvrL) | 2:06 |
 | 112 | [In Somnio](https://open.spotify.com/track/1mZrMMxn7NiWOHMOnbpJ3r) | [Zendium](https://open.spotify.com/artist/4yi6Bu5q83ZFBlj3KH1CFV) | [In Somnio](https://open.spotify.com/album/060GnhHLT7K6aFa2HA9393) | 3:03 |

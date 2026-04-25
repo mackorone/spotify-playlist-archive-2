@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: Isaiah Falls",
+  "description": "The best in South African and international R&B. Cover: Sarnilo",
   "name": "R&Beats",
   "tracks": [
     {
@@ -932,6 +932,24 @@
       "duration_ms": 238661,
       "name": "Baki Pekee Yako",
       "url": "https://open.spotify.com/track/5WPdyLkd0QNgC2HACe6Rte"
+    },
+    {
+      "album": {
+        "name": "Bayabika",
+        "url": "https://open.spotify.com/album/3e4mQ0S7Ay0EN72JidcWrb"
+      },
+      "artists": [
+        {
+          "name": "Sarnilo",
+          "url": "https://open.spotify.com/artist/0ignuXgngSTxY87ZzRwZ8C"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Bayabika",
+      "url": "https://open.spotify.com/track/69JqQWSM7DvRsOK4Ad3BkT"
     },
     {
       "album": {
@@ -7068,7 +7086,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 201408,
       "name": "Miss Hot July",
       "url": "https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD"
@@ -7866,7 +7884,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 267833,
       "name": "On Sight",
       "url": "https://open.spotify.com/track/0Tdpdo2ZD1CefcFTTbm0xx"
@@ -10644,6 +10662,28 @@
       "duration_ms": 88587,
       "name": "Sweet Nothing",
       "url": "https://open.spotify.com/track/2LZueKBZ9jGxsYBMueaR4R"
+    },
+    {
+      "album": {
+        "name": "Kehlani",
+        "url": "https://open.spotify.com/album/5KS0QmxwUmSPsolg9VaSAU"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162514,
+      "name": "Sweet Nuthins (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/1mwWTCmOKSlAaHJWj0or4N"
     },
     {
       "album": {

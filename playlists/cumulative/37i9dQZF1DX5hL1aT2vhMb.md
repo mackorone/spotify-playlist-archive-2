@@ -2,9 +2,9 @@
 
 ### [Women of Classical](https://open.spotify.com/playlist/37i9dQZF1DX5hL1aT2vhMb)
 
-> Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Isata Kanneh\-Mason
+> Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Anastasia Kobekina
 
-195 songs - 14 hr 54 min
+196 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Arise, Shine](https://open.spotify.com/track/29waj25GhGjyIFzde8kxZW) | [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP), [The Chapel Choir of Pembroke College, Cambridge](https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35), [Sophia Membery](https://open.spotify.com/artist/4HZTH0hcr5ioXuYK8d39G2) | [Arise, Shine](https://open.spotify.com/album/1zl9pQZn5Fd12UWQdyqxX4) | 4:19 | 2026-03-04 |  |
 | [Autumn](https://open.spotify.com/track/6k72nrGlCMKzs5TZXUF9Gp) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [Autumn](https://open.spotify.com/album/4tfc7VtpuBBON6YHnGFaXU) | 4:41 | 2021-12-13 | 2025-03-08 |
 | [Aux lumières de crépuscule, Op\. 54: No\. 4, Tristesse](https://open.spotify.com/track/7ECndUag3jsAHTtIXVc5Rf) | [Francis Kleynjans](https://open.spotify.com/artist/2qGSUxGTB5P2FEpNBFmQtb), [Alexandra Whittingham](https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM) | [Kleynjans: Aux lumières de crépuscule, Op\. 54: No\. 4, Tristesse](https://open.spotify.com/album/1qwVgqgyB5aEBcYvmYGtsa) | 2:32 | 2026-03-04 |  |
+| [Avant la suite](https://open.spotify.com/track/0ZEQiY8Hdz3GzheX22C9Bh) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m) | [Avant la suite](https://open.spotify.com/album/0TdulPsHLP3fq97XGbnyE0) | 3:37 | 2026-04-24 |  |
 | [Ave Maria](https://open.spotify.com/track/1okigbvmDfgCIIgK1LcSDX) | [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E) | [Maria \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil) | 4:46 | 2025-03-07 |  |
 | [Ave Maria Variation \(After The Well\-Tempered Clavier I: Prelude and Fugue No\. 1 in C Major, BWV 846: I\. Prelude\) \[Arr\. for Violin, String Quintet and Piano by Tim Allhoff\]](https://open.spotify.com/track/26XqpCmNYpvbkFttjmBIUb) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY), [Eldbjørg Hemsing](https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F), [Norwegian String Quintet](https://open.spotify.com/artist/2e7YyU25R6B4frcn8lHz4B) | [Ave Maria Variation](https://open.spotify.com/album/6PhODc9izHGNLBYs0B7akm) | 2:08 | 2025-12-15 |  |
 | [Azuretta](https://open.spotify.com/track/098c7lLo1bTZzsGriiIVEA) | [Regina Harris Baiocchi](https://open.spotify.com/artist/5InPAjUoFRnSt1RKZWcBaz), [Deanne Tucker](https://open.spotify.com/artist/74IlzeALIlHC9rtPxbG5Ix) | [Where Freedom Rings: Compositions by Contemporary African American Composers](https://open.spotify.com/album/3GrknGxdgjKmpnalj44vq0) | 3:37 | 2021-12-13 | 2025-03-08 |

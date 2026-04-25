@@ -414,7 +414,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 190463,
       "name": "Bird Sounds in Mano de Oso",
       "url": "https://open.spotify.com/track/7jYQP8aw46X9mgjdj9znGy"
@@ -760,7 +760,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 185612,
       "name": "Birds of Papua New Guinea",
       "url": "https://open.spotify.com/track/5KnvxIUwYmSCGu4yD6Dvb6"
@@ -814,7 +814,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 122730,
       "name": "Birds Singing By The River",
       "url": "https://open.spotify.com/track/48ZBpsfLHYzXDCSReai3ls"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 171913,
       "name": "Birds Warning the arrival of thunder",
       "url": "https://open.spotify.com/track/52xxBuyMUSghtmf7Cv5pVh"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 177818,
       "name": "Birdsong and Rustling Leaves",
       "url": "https://open.spotify.com/track/2ZuB7OS80eFxrdfZgfCkD2"
@@ -1775,6 +1775,32 @@
     },
     {
       "album": {
+        "name": "Bogot\u00e1 River Nature Sounds",
+        "url": "https://open.spotify.com/album/65CQAJthuqeHB5UM9wyNS4"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Conector",
+          "url": "https://open.spotify.com/artist/07911i0JpJbxQyDEHDgkbT"
+        },
+        {
+          "name": "Vozterra",
+          "url": "https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168687,
+      "name": "Hidden Waterfall in Guacheneque P\u00e1ramo",
+      "url": "https://open.spotify.com/track/62hFUov4NAnmhC93T0qJUh"
+    },
+    {
+      "album": {
         "name": "Highway Birds",
         "url": "https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC"
       },
@@ -2128,7 +2154,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 113830,
       "name": "Morning in Scotland",
       "url": "https://open.spotify.com/track/3wNGiwpHA6AMTSlLN71IjW"
@@ -2330,7 +2356,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 189741,
       "name": "Northern UK Forest Birds",
       "url": "https://open.spotify.com/track/00MSSYGZ5IjVBy4JcK3ZYk"
@@ -2424,7 +2450,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 158037,
       "name": "Piqueros",
       "url": "https://open.spotify.com/track/0APpPwuIGFmDOvZjhOp6iH"
@@ -2536,6 +2562,32 @@
       "duration_ms": 229125,
       "name": "Rain & Birds",
       "url": "https://open.spotify.com/track/5dWXEeQTiyFdC8xAG1TZVh"
+    },
+    {
+      "album": {
+        "name": "Gualib\u00e1 Rain EP",
+        "url": "https://open.spotify.com/album/76SGj5P3cVSVSX2RKrFuS8"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Daniel Roa",
+          "url": "https://open.spotify.com/artist/3dPJfVYIqsjDsBRA5z8vKF"
+        },
+        {
+          "name": "Vozterra",
+          "url": "https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129109,
+      "name": "Rain and Distant Thunder on the Patio",
+      "url": "https://open.spotify.com/track/1zJvXXJpGmf9IPNvvObpk2"
     },
     {
       "album": {
@@ -3893,6 +3945,28 @@
     },
     {
       "album": {
+        "name": "El P\u00e1ramo, Permission to Record",
+        "url": "https://open.spotify.com/album/4G9YRlrYBWe2qDnRA0eHPI"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Diana Restrepo",
+          "url": "https://open.spotify.com/artist/4gCfyTvrRVrIWzFO3LOd3O"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240028,
+      "name": "The Hour Before Light",
+      "url": "https://open.spotify.com/track/0bNLQqoyBsdb1IrM1cKENf"
+    },
+    {
+      "album": {
         "name": "The Millpond VI",
         "url": "https://open.spotify.com/album/2Uoy8TmdDdzeWv3r9VqOpr"
       },
@@ -3904,7 +3978,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 135168,
       "name": "The Millpond VI",
       "url": "https://open.spotify.com/track/5dEqC0Eg2Djg5PJ0Q963y1"

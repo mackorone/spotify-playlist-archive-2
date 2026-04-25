@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 755,
+  "num_followers": 757,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAADfps6vibqXBtglYR5tAce4RXM+2GX",
+  "snapshot_id": "AAADh1anADAYoaJwPMz7DX9jKUdGNDFH",
   "tracks": [
     {
       "added_at": "2026-04-03 14:58:07",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/3XZT1Xe9iAHwkU2hvchzv4"
     },
     {
+      "added_at": "2026-04-24 13:54:00",
+      "album": {
+        "name": "The Thinker And The Prover",
+        "url": "https://open.spotify.com/album/3RnQntICT9Zskt7fckchwt"
+      },
+      "artists": [
+        {
+          "name": "Jason Waroff",
+          "url": "https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77"
+        }
+      ],
+      "duration_ms": 132106,
+      "name": "The Thinker And The Prover",
+      "url": "https://open.spotify.com/track/271dv3OBpfRS1YmHqubWZQ"
+    },
+    {
       "added_at": "2026-02-08 02:36:35",
       "album": {
         "name": "In the Zone",
@@ -139,22 +155,6 @@
       "duration_ms": 147301,
       "name": "Black Cat",
       "url": "https://open.spotify.com/track/6dSioFJXazwRx8v0TFKcVX"
-    },
-    {
-      "added_at": "2026-02-08 02:11:56",
-      "album": {
-        "name": "The Perfect Buzz",
-        "url": "https://open.spotify.com/album/2kPgxCfeUcADkJSxT0jBtG"
-      },
-      "artists": [
-        {
-          "name": "Tommy Schenker",
-          "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
-        }
-      ],
-      "duration_ms": 166569,
-      "name": "The Perfect Buzz",
-      "url": "https://open.spotify.com/track/4nIbtAyxR6yeBxgONwdtda"
     },
     {
       "added_at": "2026-02-08 18:12:44",
@@ -221,20 +221,20 @@
       "url": "https://open.spotify.com/track/51Ehu3Z75E3R4Y72jm9kiX"
     },
     {
-      "added_at": "2026-01-24 22:37:36",
+      "added_at": "2026-02-08 02:11:56",
       "album": {
-        "name": "The Voiceless",
-        "url": "https://open.spotify.com/album/4Lq6CpG2nc0wFg6zRXxr4S"
+        "name": "The Perfect Buzz",
+        "url": "https://open.spotify.com/album/2kPgxCfeUcADkJSxT0jBtG"
       },
       "artists": [
         {
-          "name": "Purple Microdot",
-          "url": "https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4"
+          "name": "Tommy Schenker",
+          "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
         }
       ],
-      "duration_ms": 119699,
-      "name": "The Voiceless",
-      "url": "https://open.spotify.com/track/0vbPyXsxrJqxuj6AjiXKaF"
+      "duration_ms": 166569,
+      "name": "The Perfect Buzz",
+      "url": "https://open.spotify.com/track/4nIbtAyxR6yeBxgONwdtda"
     },
     {
       "added_at": "2026-02-16 19:32:31",
@@ -413,20 +413,20 @@
       "url": "https://open.spotify.com/track/4lif5tsojBx55AhtDsyWh8"
     },
     {
-      "added_at": "2026-02-19 01:33:30",
+      "added_at": "2026-01-24 22:37:36",
       "album": {
-        "name": "Something You Know",
-        "url": "https://open.spotify.com/album/3eUa3PiDZCRCZGgwDzvpHC"
+        "name": "The Voiceless",
+        "url": "https://open.spotify.com/album/4Lq6CpG2nc0wFg6zRXxr4S"
       },
       "artists": [
         {
-          "name": "Jason Waroff",
-          "url": "https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77"
+          "name": "Purple Microdot",
+          "url": "https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4"
         }
       ],
-      "duration_ms": 197269,
-      "name": "Something You Know",
-      "url": "https://open.spotify.com/track/5aiZesL3a40ceXTtnldlSD"
+      "duration_ms": 119699,
+      "name": "The Voiceless",
+      "url": "https://open.spotify.com/track/0vbPyXsxrJqxuj6AjiXKaF"
     },
     {
       "added_at": "2026-02-28 17:28:29",
@@ -863,22 +863,6 @@
       "duration_ms": 247457,
       "name": "Can't Stop Loving You",
       "url": "https://open.spotify.com/track/3U8jamAGzYu9hQiiaPjzpz"
-    },
-    {
-      "added_at": "2026-03-16 20:11:45",
-      "album": {
-        "name": "40 Days",
-        "url": "https://open.spotify.com/album/5mVB4IdzqLak9ldSKbVD9b"
-      },
-      "artists": [
-        {
-          "name": "Reggie Gray",
-          "url": "https://open.spotify.com/artist/1n74ONSmpTNu4WYwMGxKHh"
-        }
-      ],
-      "duration_ms": 212904,
-      "name": "Run, Cinderella",
-      "url": "https://open.spotify.com/track/3byIGxwllmdPbfpwzrIDyG"
     },
     {
       "added_at": "2026-03-16 20:18:27",
@@ -1507,6 +1491,38 @@
       "duration_ms": 223318,
       "name": "Cliffhanger",
       "url": "https://open.spotify.com/track/4JX8FWiyo3AeYQ2B5EZ5wL"
+    },
+    {
+      "added_at": "2026-04-24 13:58:56",
+      "album": {
+        "name": "Gamification",
+        "url": "https://open.spotify.com/album/6ZuRU3huqGcILmzAsqXT9K"
+      },
+      "artists": [
+        {
+          "name": "Jason Waroff",
+          "url": "https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77"
+        }
+      ],
+      "duration_ms": 113532,
+      "name": "Gamification",
+      "url": "https://open.spotify.com/track/30U8vus9dlgxmGHWiW3BK2"
+    },
+    {
+      "added_at": "2026-04-24 15:34:00",
+      "album": {
+        "name": "All Day, All Night",
+        "url": "https://open.spotify.com/album/4TPAwemfELJTdh045rg1PO"
+      },
+      "artists": [
+        {
+          "name": "Rue Rue",
+          "url": "https://open.spotify.com/artist/78cnqjlGd1LUdz4zt5AgxU"
+        }
+      ],
+      "duration_ms": 129063,
+      "name": "All Day, All Night",
+      "url": "https://open.spotify.com/track/31OBi74BHBJ13DHwjC96ge"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

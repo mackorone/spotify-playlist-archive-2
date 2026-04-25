@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-250 songs - 12 hr 15 min
+254 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,10 +106,12 @@
 | [j’attendrai pas](https://open.spotify.com/track/7ARfxrRqBqi7bXRQxudIeM) | [Cordeone](https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ) | [j’attendrai pas](https://open.spotify.com/album/2Vc09twdUA8Ub9lLGXASt3) | 3:28 | 2024-04-02 | 2026-03-13 |
 | [Kosher in Venice](https://open.spotify.com/track/1QN53ordFgJt3ruAGSXB8l) | [Stefano Corradi](https://open.spotify.com/artist/4KnatJMl9LPIdRUSQsYION), [Gian Pietro Marazza](https://open.spotify.com/artist/2tgYUszDncWLQhwJzSSfVX), [Luca Garlaschell](https://open.spotify.com/artist/4uHfosVwJmQAuFyXngLoPo) | [Love Routes \(Romantic Accordion Ballads in Rome\)](https://open.spotify.com/album/3lEXZx6W90Y1WjkWILQwaB) | 2:41 | 2022-02-18 | 2026-03-13 |
 | [L'amour est bleu](https://open.spotify.com/track/7Bb0mYUZIkeNqkMwXMHmAK) | [Trio Musette](https://open.spotify.com/artist/2ePIFH8jgBe6Cqe2uc8s6A) | [L'amour est bleu](https://open.spotify.com/album/38ykcbUhDpC4h020SF900Y) | 2:58 | 2023-04-27 | 2025-09-11 |
+| [L'art de vivre](https://open.spotify.com/track/6UIVcB8BUGK9RxMCAmtH6g) | [Notes de Nuit](https://open.spotify.com/artist/5tLk5smZqsZZ4mgpmBR3pS) | [L'art de vivre](https://open.spotify.com/album/5gu9L47CH0dWOgMRLqhx0K) | 1:49 | 2026-04-24 |  |
 | [L'Indifference](https://open.spotify.com/track/0unPstptJ5Q1IYPFa3ULEr) | [Pearl Django](https://open.spotify.com/artist/530l1HsYHzQuOYFBDUOHHo) | [Modern Times](https://open.spotify.com/album/3zaWugXmF0PWpCPekDE71c) | 3:30 | 2022-11-25 | 2023-08-19 |
 | [L'indifférence](https://open.spotify.com/track/0pkL7GfHF6iyAdyQujyRnK) | [Les Sales Gosses](https://open.spotify.com/artist/3ysjzjJYSYv6Rp4j2Buspn) | [La Vie En Rose](https://open.spotify.com/album/3OG7njGt1Efjfyy1T1wwEs) | 2:30 | 2023-03-21 |  |
 | [L'ombre de Ton Sourire](https://open.spotify.com/track/4cNus5tgT5v9UF9uF41dpU) | [Quintet de Jazz Parisien](https://open.spotify.com/artist/5jjAtTkp5UsT9PQyGfFOwO) | [L'ombre de Ton Sourire](https://open.spotify.com/album/7FEwTQS56abm4r3ieta3Vc) | 3:03 | 2023-11-09 | 2024-04-19 |
 | [L'échelle aux nuages](https://open.spotify.com/track/0fkPOhuwdnAu6gJfMD4i0o) | [Menilmuche](https://open.spotify.com/artist/4UokevHf2JYeNlpcpQH7W8) | [L'échelle aux nuages](https://open.spotify.com/album/0YyceqfgVTOKNxs5rrGidq) | 3:30 | 2024-01-26 | 2025-05-06 |
+| [La Ballade du Pont\-Neuf](https://open.spotify.com/track/2L4QyxS2Tp81y4n1etiXHd) | [Monsieur Paname](https://open.spotify.com/artist/7KspfRDQwpzBe3AZ1Tk6wH) | [La Ballade du Pont\-Neuf](https://open.spotify.com/album/2xAoidOHEh0XXFS5PLnubt) | 2:31 | 2026-04-24 |  |
 | [La Chambre d´Emelie](https://open.spotify.com/track/4Wn9hJFaAEViGU2LW4FM8x) | [Trio Musette](https://open.spotify.com/artist/2ePIFH8jgBe6Cqe2uc8s6A) | [La Chambre d´Emelie](https://open.spotify.com/album/241JO38t2xkN0COxsbkdzx) | 1:45 | 2023-05-25 | 2023-08-19 |
 | [La Fleur](https://open.spotify.com/track/2YLB1QeZuGJGqULHItxba5) | [Ralf Gscheidle](https://open.spotify.com/artist/7KlIXYsEgvbJzrCqcWTauW) | [Accordion World](https://open.spotify.com/album/7owjEbcQb8XxoDrUYte0PG) | 2:36 | 2022-11-25 | 2023-04-28 |
 | [La Javanaise](https://open.spotify.com/track/5B6SE5Plh3qDVXzKBBmuvl) | [George Laffitte](https://open.spotify.com/artist/73svkXqxHEpuyC39kOuuCP) | [La Javanaise](https://open.spotify.com/album/1DdH3YQO9vGj4v75Lll1Uy) | 3:01 | 2023-05-25 | 2026-03-13 |
@@ -132,6 +134,7 @@
 | [Le malin a 3 pieds](https://open.spotify.com/track/5sB6uPE7bjSzBVmIOn27FU) | [Bateau Mouche](https://open.spotify.com/artist/5qCJ0Ww13jRmYWuL3PLEmf) | [Le malin a 3 pieds](https://open.spotify.com/album/5k9EstGuwve6Fr9SIlTFL0) | 2:59 | 2023-12-22 |  |
 | [Le Mauvais Rêve](https://open.spotify.com/track/0Fys0W4K98zYT8nHq4CGvO) | [Le Bleu Ensemble](https://open.spotify.com/artist/3cyV8AxHAoyulOGudi2PGG) | [Le Mauvais Rêve](https://open.spotify.com/album/07n3EfDsuC5RbNrKVisVEZ) | 2:11 | 2023-05-25 | 2026-03-13 |
 | [Le maçon](https://open.spotify.com/track/2qMgeX8qUaxX8VYXMtLw41) | [Swing Bohème](https://open.spotify.com/artist/4NfSzqocfeGJwQeP3vulmw) | [Le maçon](https://open.spotify.com/album/4yxLBiEUgjZMJLy4hQWK0V) | 3:17 | 2024-01-26 | 2025-05-06 |
+| [Le Papillon](https://open.spotify.com/track/4H5FDxHvr2ir7XGQNlzVDD) | [Martín Lima](https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51) | [Le Papillon](https://open.spotify.com/album/4pNvRdPWKNjF0zs2KXpXwQ) | 3:20 | 2026-04-24 |  |
 | [Le Parc De Plaisir](https://open.spotify.com/track/3eFo3R4r0KPT932Wa5zq0P) | [Francois Parisi](https://open.spotify.com/artist/5UwPIPTmXwjYU3VoTOVXDV) | [Midnight in Paris \(Music from the Motion Picture\)](https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0) | 2:12 | 2022-02-18 | 2023-05-19 |
 | [Le Plus Beau Tango Du Monde \- Tango](https://open.spotify.com/track/2UDqPpMrmvP0FXHZ35YHsP) | [Edouard Duleu](https://open.spotify.com/artist/49WpqtZQzP4PICzb34lY15) | [Au bal musette, Vol\. 4](https://open.spotify.com/album/1P2kQLzal0rB0gUutYCMjd) | 2:40 | 2022-02-18 | 2023-04-28 |
 | [Le Printemps Me Manque](https://open.spotify.com/track/3sL8PRW9gZHGVqJiuBWnrJ) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [Le Printemps Me Manque](https://open.spotify.com/album/3P7c08Xkgb40avYxJQrzvE) | 3:54 | 2023-08-24 |  |
@@ -188,6 +191,7 @@
 | [Pour Chopin](https://open.spotify.com/track/2ZEIj6XsMcGqNMct7cn9f9) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Valse musette de Paris](https://open.spotify.com/album/1dojDdiTR2HzTutReEQRiu) | 3:19 | 2022-02-18 | 2025-08-20 |
 | [Pour Chopin](https://open.spotify.com/track/6icE3aCpAje1b6BP03Qa7E) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Valse musette de Paris](https://open.spotify.com/album/6DhvEyNar7K1i3gVcS0rGH) | 3:19 | 2022-08-05 | 2022-11-13 |
 | [Pour Michele](https://open.spotify.com/track/74rD7WHLAShBWZaOoajaYZ) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Café Musette](https://open.spotify.com/album/3c2mBv9KMW32g86USHwYwM) | 3:19 | 2022-02-18 | 2024-04-19 |
+| [Pour Zoé](https://open.spotify.com/track/4781FCyphRO1IRYVbp8gNF) | [George Laffitte](https://open.spotify.com/artist/73svkXqxHEpuyC39kOuuCP) | [Pour Zoé](https://open.spotify.com/album/2MUo9E1yT7Gcl5gXisbdXL) | 1:58 | 2026-04-24 |  |
 | [Quai aux Fleurs](https://open.spotify.com/track/3YqdvXCFdN44kattwBSgqn) | [Vincent Carenzi](https://open.spotify.com/artist/34jld7FKHe7h6xc55lJJ0B), [Gilbert Sigrist](https://open.spotify.com/artist/3CKwrrnFs0fv7w7lg4ReIX), [Laurent Sigrist](https://open.spotify.com/artist/7BbLZ7BoH71qnKGhdIwOzX) | [Souvenirs](https://open.spotify.com/album/0bNxItRPphxD07gwBZUZXH) | 3:02 | 2023-03-07 |  |
 | [Quais de Seine](https://open.spotify.com/track/2hSHbGqjauW6YV6c38EkSu) | [Monsieur Paname](https://open.spotify.com/artist/7KspfRDQwpzBe3AZ1Tk6wH) | [Quais de Seine](https://open.spotify.com/album/0nXh4V6SDQSFsqw8a2trwa) | 2:33 | 2026-03-02 |  |
 | [Quel Mercredi](https://open.spotify.com/track/3ZSWLX4S1mc5yQBAZet5NM) | [Quintet de Jazz Parisien](https://open.spotify.com/artist/5jjAtTkp5UsT9PQyGfFOwO) | [Quel Mercredi](https://open.spotify.com/album/2Zsbl9Pps24ZI475iyz2sC) | 2:38 | 2023-08-10 |  |

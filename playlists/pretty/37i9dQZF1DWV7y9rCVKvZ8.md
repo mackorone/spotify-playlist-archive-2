@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7y9rCVKvZ8.md) - [plain]
 
 > Jadi lebih produktif ditemani musik terkini
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,794 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,803 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7y9rCVKvZ8.md) - [plain]
 | 99 | [BYE](https://open.spotify.com/track/2qCXWSd8AtolyVTZRatjZH) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [BYE](https://open.spotify.com/album/3nawUQoRQ9QlaATlotBQNj) | 3:03 |
 | 100 | [Cerita Kita](https://open.spotify.com/track/0ffC3YHWNiJ0KZoKcXiUYu) | [Ecoutez](https://open.spotify.com/artist/35FdKwFlsu481ICXD6VPU7) | [Cerita Kita](https://open.spotify.com/album/4tNggpismdZ6bQIBnro6Kp) | 3:30 |
 
-Snapshot ID: `AAAAAKaZMnwhOsUuxQSD95AUb75gVmtk`
+Snapshot ID: `AAAAAGWux9vET5Xrk4ngMG6jW9HQ8RtU`

@@ -5577,6 +5577,24 @@
     },
     {
       "album": {
+        "name": "Il viaggio dell'anima",
+        "url": "https://open.spotify.com/album/1QhXBcIj5EbfracRAl6Awo"
+      },
+      "artists": [
+        {
+          "name": "Jesto",
+          "url": "https://open.spotify.com/artist/3zkAFoqRMvc1ZWjW65XOO8"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212915,
+      "name": "Il viaggio dell'anima",
+      "url": "https://open.spotify.com/track/6S7hv1J7pci37eEMuctdl1"
+    },
+    {
+      "album": {
         "name": "Neffa E I Messaggeri Della Dopa",
         "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
       },
@@ -7858,6 +7876,24 @@
       "duration_ms": 168607,
       "name": "METRONOMO",
       "url": "https://open.spotify.com/track/60KMbrrUJx9Azph2keQ3b2"
+    },
+    {
+      "album": {
+        "name": "Might Delete Later (Oppure Forse No)",
+        "url": "https://open.spotify.com/album/4DXU2wEJaMipE4tyolJzEK"
+      },
+      "artists": [
+        {
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145045,
+      "name": "Might Delete Later (Oppure Forse No)",
+      "url": "https://open.spotify.com/track/6lQAel2CNOlN1gsh2GyAmd"
     },
     {
       "album": {
@@ -12302,7 +12338,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 196080,
       "name": "SOLO POLLO 2",
       "url": "https://open.spotify.com/track/2d3nv5bAE7385kdTtVr2b8"
@@ -13960,7 +13996,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 242758,
       "name": "Verde (feat. Willie Peyote & Cicco Sanchez)",
       "url": "https://open.spotify.com/track/2xAgjA6BKstSr6lLtdczw8"

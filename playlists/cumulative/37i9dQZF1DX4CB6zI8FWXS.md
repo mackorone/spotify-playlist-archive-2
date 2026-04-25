@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Tyla, Zara Larsson
 
-1,262 songs - 2 day 20 hr 26 min
+1,263 songs - 2 day 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -895,6 +895,7 @@
 | [Safe \(feat\. Kehlani\)](https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:57 | 2025-09-18 | 2026-01-31 |
 | [Santa](https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/3uzutRS5qX4ng5Skjh5S6W) | 3:13 | 2024-05-23 | 2024-06-22 |
 | [Sapporo Tokyo](https://open.spotify.com/track/5UfEvgUgUUK7bFg3pgG2WT) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Sapporo Tokyo](https://open.spotify.com/album/2qRreb6X5DMn1NXr7efii8) | 3:21 | 2024-03-07 | 2024-04-05 |
+| [Sarah](https://open.spotify.com/track/0XwQDtlYvwFuTrhR57WO76) | [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Sarah](https://open.spotify.com/album/3TKVQ0RsXUqPTNYwaLAzF7) | 2:57 | 2026-04-23 |  |
 | [Satellite Business 2.0](https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Satellite Business 2.0](https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb) | 4:53 | 2024-07-18 | 2024-10-18 |
 | [Saturday](https://open.spotify.com/track/6enkksGYGtDNTKzZ3JFwAl) | [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa), [Ámina](https://open.spotify.com/artist/3VALVC9YYh3KJ6rHlaXBK2) | [Saturday](https://open.spotify.com/album/4tucOvvk3jIYTV4Dbmz5G3) | 3:24 | 2025-10-02 | 2026-01-15 |
 | [Saturday Afternoon](https://open.spotify.com/track/3BdHVuoguj7lLHVocezemX) | [ASA Wu](https://open.spotify.com/artist/67BCocc3uSkXQlr5vm8cC1), [roe](https://open.spotify.com/artist/3qG6tSR0XvGQiLHNwRp62f) | [Saturday Afternoon](https://open.spotify.com/album/6ltaJPaXpvtB4klzcqGhKc) | 3:46 | 2025-11-07 | 2026-02-20 |

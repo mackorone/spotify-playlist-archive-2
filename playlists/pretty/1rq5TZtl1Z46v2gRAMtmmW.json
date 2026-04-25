@@ -6,7 +6,7 @@
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAARcpPjhLGqrG/RjYip6FOWL+WBGO6n",
+  "snapshot_id": "AAARc8RMthL2S6kgMkf990PMsk2+tCIq",
   "tracks": [
     {
       "added_at": "2026-04-03 20:05:06",
@@ -807,6 +807,22 @@
       "duration_ms": 209769,
       "name": "Fanga",
       "url": "https://open.spotify.com/track/2DykxprHbMOi4HlOGVXBo3"
+    },
+    {
+      "added_at": "2026-04-24 15:48:29",
+      "album": {
+        "name": "Do You Think Of Me?",
+        "url": "https://open.spotify.com/album/1wU5DSfHe1ArxIZwqON7T2"
+      },
+      "artists": [
+        {
+          "name": "Ankho\u00ef",
+          "url": "https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4"
+        }
+      ],
+      "duration_ms": 192330,
+      "name": "Do You Think Of Me?",
+      "url": "https://open.spotify.com/track/1hwfMhuM4mxySqucwh87Am"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

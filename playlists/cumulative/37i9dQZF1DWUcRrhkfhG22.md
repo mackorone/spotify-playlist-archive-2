@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes
 
-130 songs - 9 hr 34 min
+131 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Music Sounds Better With You](https://open.spotify.com/track/7kn8s9JWYb8SyQkxiww9Kb) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [Music Sounds Better With You](https://open.spotify.com/album/7ggrCSNzeqPGUgdc11WTKn) | 3:21 | 2023-02-03 |  |
 | [Nasty Disco](https://open.spotify.com/track/1JQaE58p6cHyJsSqG3YP8h) | [Da Lukas](https://open.spotify.com/artist/20yglF8snDfJjVnkEHSOtP) | [Nasty Disco](https://open.spotify.com/album/7JiA2zOWxg41xzwWemozIU) | 7:07 | 2025-04-25 |  |
 | [Not Into You](https://open.spotify.com/track/1eFYbcVZBTKcE0iFIYU5qk) | [Brooksie](https://open.spotify.com/artist/597h7tVXuB7UPU6uWKhRkO) | [Not Into You](https://open.spotify.com/album/5JG9GZ1BSc223HhQAAHbCX) | 2:37 | 2022-01-26 |  |
-| [Nunk \- New Wave Funk](https://open.spotify.com/track/5BVXwRFMuybkl3X1hRWZ53) | [Warp 9](https://open.spotify.com/artist/5V22HAzz3d8zQCbWdpJiJh) | [It's a Beat Wave](https://open.spotify.com/album/45lhligWbNdW3zGcgUm3Yl) | 7:13 | 2020-09-18 |  |
+| [Nunk \- New Wave Funk](https://open.spotify.com/track/5BVXwRFMuybkl3X1hRWZ53) | [Warp 9](https://open.spotify.com/artist/5V22HAzz3d8zQCbWdpJiJh) | [It's a Beat Wave](https://open.spotify.com/album/45lhligWbNdW3zGcgUm3Yl) | 7:13 | 2020-09-18 | 2026-04-25 |
 | [One in a Million](https://open.spotify.com/track/6SJE4fUu2kzFYedVrBYYDE) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [One in a Million](https://open.spotify.com/album/225DEm4UQydHlN3xIhmiBU) | 2:46 | 2024-08-09 |  |
 | [Pomslap](https://open.spotify.com/track/3CNHLmc5GzNIjg1vGIlpzk) | [Pomrad](https://open.spotify.com/artist/4PM7uuFnzArhW3FNNBeMXA) | [This Day EP](https://open.spotify.com/album/1DNHoVmaDggZwxNWxTpBpA) | 4:04 | 2020-09-18 |  |
 | [Pomslap](https://open.spotify.com/track/1o93PmeUiSJopZ70Z4LlMK) | [Pomrad](https://open.spotify.com/artist/4PM7uuFnzArhW3FNNBeMXA) | [This Day EP](https://open.spotify.com/album/4zRbQIkHYXOBEoL84vEqTJ) | 4:04 | 2020-09-18 | 2024-04-19 |
@@ -107,6 +107,7 @@
 | [Show You A Thing Or Two](https://open.spotify.com/track/6KwTEWRdj3zH56wZar0B9o) | [Diamond Ortiz](https://open.spotify.com/artist/4tm2O1beMNSAdbG3pQvDCP) | [Bulletproof](https://open.spotify.com/album/20NMgSbJeB86aLT9Znv66E) | 3:10 | 2020-12-08 |  |
 | [Slow Down](https://open.spotify.com/track/4EVGxsNUEf1hFq4eZXdhtm) | [Chromatiks](https://open.spotify.com/artist/2kgYddab6YcXcoDek1zivO), [Bona Bones](https://open.spotify.com/artist/5gW0xZN1FxeI1Wdi1qY3tN), [Exhel Boladisco](https://open.spotify.com/artist/0jlTWrSGnWuIYJfXQwNMg9) | [Slow Down](https://open.spotify.com/album/4QGqj4P4GD9ABJXcEC6WT1) | 3:25 | 2021-03-12 | 2024-03-09 |
 | [So Ruff, so Tuff](https://open.spotify.com/track/3k0Jp5IYHtBeSNKUEOqE0i) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 3:35 | 2020-09-18 |  |
+| [Special](https://open.spotify.com/track/4GPjOTUczRPWGp07NzFWqf) | [FK&M](https://open.spotify.com/artist/0QEY4d9rhrxTR8nMdudJ0y), [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484), [Keith Staten](https://open.spotify.com/artist/1p94IpPWGRqcNsAmzCtnWe), [Marcus Cole](https://open.spotify.com/artist/2bijKkJaOp4tSJASryiJNB), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [Special](https://open.spotify.com/album/1uzgm9GOXjEFOdg8y9aAyh) | 3:58 | 2026-04-24 |  |
 | [Superman](https://open.spotify.com/track/31XzTmTkP3yQAzCbZ2uz8A) | [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC) | [The Many Facets Of Roger](https://open.spotify.com/album/2hWMz4KhFIl7Qff82wMEXF) | 4:08 | 2020-09-18 |  |
 | [Talkbox Fever](https://open.spotify.com/track/2g4uko7dEjgIqkUPTiSOQ0) | [Funkmaster Ozone](https://open.spotify.com/artist/34AGOPbiy3xFk6irkjYyuu) | [Westcoast Pioneers](https://open.spotify.com/album/4ozmLwrsmz9GQnkXn4Q9tG) | 6:21 | 2020-09-18 | 2022-11-14 |
 | [Talkbox Fever](https://open.spotify.com/track/741K35Z045CvjLtQwiC7Z3) | [Funkmaster Ozone](https://open.spotify.com/artist/34AGOPbiy3xFk6irkjYyuu) | [Westcoast Pioneers](https://open.spotify.com/album/1aLkb2K8vKMUNqqiP4H6F3) | 6:21 | 2020-09-18 |  |

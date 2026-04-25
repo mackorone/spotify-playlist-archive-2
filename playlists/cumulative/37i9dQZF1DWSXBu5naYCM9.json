@@ -164,7 +164,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 219130,
       "name": "Alchemy (Living Is Not For The Heart)",
       "url": "https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ"
@@ -3082,7 +3082,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 243565,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/0em3aeTRdv6AEBdUKkNW8j"
@@ -3360,7 +3360,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
@@ -4621,6 +4621,24 @@
     },
     {
       "album": {
+        "name": "My Madonna",
+        "url": "https://open.spotify.com/album/5qZCV0KCzY0lUd38FafCYJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193331,
+      "name": "My Madonna",
+      "url": "https://open.spotify.com/track/12NNsOzaZNU8JO5VdKZ56m"
+    },
+    {
+      "album": {
         "name": "Inside In / Inside Out",
         "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
       },
@@ -5847,6 +5865,24 @@
     },
     {
       "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "album": {
         "name": "Soak Up",
         "url": "https://open.spotify.com/album/5OCqAlErGGzWGxSKC7aNIL"
       },
@@ -6172,6 +6208,24 @@
       "duration_ms": 141440,
       "name": "Summerlove",
       "url": "https://open.spotify.com/track/4NYW5QDoVtzl0WfKfd96qD"
+    },
+    {
+      "album": {
+        "name": "autonomy",
+        "url": "https://open.spotify.com/album/3zLlgUFz1YkI392D4pW3aE"
+      },
+      "artists": [
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Sunbeam",
+      "url": "https://open.spotify.com/track/4NOOBklSNLFavm3cLlBixS"
     },
     {
       "album": {

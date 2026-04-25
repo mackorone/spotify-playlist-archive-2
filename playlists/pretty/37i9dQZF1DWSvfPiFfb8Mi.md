@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,120 likes - 125 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,237 likes - 125 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 124 | [Letras](https://open.spotify.com/track/7B0ncllGN5qLXM472iCUuP) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Olé Maca](https://open.spotify.com/album/1Yyn7C2ZXzr4LLWFoX03FK) | 4:39 |
 | 125 | [So High](https://open.spotify.com/track/1ndtJsgD7D4ISU5RvwQAYt) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Cruise Control](https://open.spotify.com/album/4YFj85jwzHy0AWP31k6ux5) | 3:46 |
 
-Snapshot ID: `AAAAAH73ZW9asXQ0+huet4ikunAeufRy`
+Snapshot ID: `AAAAAJ5/++JCfBuPMUw14/mmYYIxgqDJ`

@@ -2571,6 +2571,24 @@
     },
     {
       "album": {
+        "name": "Tattoo'd Lady (Live)",
+        "url": "https://open.spotify.com/album/3N8Z7hdXgunJUDNP0Nr5Yg"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380813,
+      "name": "Tattoo'd Lady (Live)",
+      "url": "https://open.spotify.com/track/2F2MZqad3d1iWGqKh38HMu"
+    },
+    {
+      "album": {
         "name": "Tell Her You Belong To Me (Live)",
         "url": "https://open.spotify.com/album/3yC3tT5PY3yeLUC8vJe7gc"
       },
@@ -2752,7 +2770,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 394106,
       "name": "The Loyal Kind (Live)",
       "url": "https://open.spotify.com/track/3VlxQrEaQAehaxvPUpN9Gi"

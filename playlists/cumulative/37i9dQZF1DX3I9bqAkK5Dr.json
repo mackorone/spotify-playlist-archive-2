@@ -573,6 +573,24 @@
     },
     {
       "album": {
+        "name": "Better Than Yesterday",
+        "url": "https://open.spotify.com/album/4B5lLXh6dECGiZgq9E1PRD"
+      },
+      "artists": [
+        {
+          "name": "23King",
+          "url": "https://open.spotify.com/artist/2gpsWSSn8iQGlrWVcDpgDx"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Better Than Yesterday",
+      "url": "https://open.spotify.com/track/1X0F2svtTzNJHzQcf0GS7t"
+    },
+    {
+      "album": {
         "name": "BHAJANA",
         "url": "https://open.spotify.com/album/2SiOTpDEzT2LPiUKGATKyE"
       },
@@ -3819,6 +3837,32 @@
     },
     {
       "album": {
+        "name": "Kothagaundhi",
+        "url": "https://open.spotify.com/album/1hckIhhyjfJGW3icU0L9kg"
+      },
+      "artists": [
+        {
+          "name": "RKmadeIT",
+          "url": "https://open.spotify.com/artist/4K88AH4eczEQ0kUbkgmqIh"
+        },
+        {
+          "name": "Kavya Kodungallur",
+          "url": "https://open.spotify.com/artist/4uaQTcOl773QuTKeZwR3RI"
+        },
+        {
+          "name": "Deepanjali Halaharivi",
+          "url": "https://open.spotify.com/artist/3qgSrqizX2ZZCT5LHSC892"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Kothagaundhi",
+      "url": "https://open.spotify.com/track/4j6PBcLi6LDwnp5mbEhiVZ"
+    },
+    {
+      "album": {
         "name": "Kothi Kommacchi",
         "url": "https://open.spotify.com/album/11BUIP1ybDtQkBwbzyh6Uv"
       },
@@ -5439,6 +5483,24 @@
     },
     {
       "album": {
+        "name": "Namaste Gang",
+        "url": "https://open.spotify.com/album/0Mm2t93rcRJBPT5KNDPrJi"
+      },
+      "artists": [
+        {
+          "name": "C Shor",
+          "url": "https://open.spotify.com/artist/1yUQaaxSIq7Pkms4iMvWmR"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220065,
+      "name": "Namaste Gang",
+      "url": "https://open.spotify.com/track/2nYjW3Yizw18odVF2UzJHN"
+    },
+    {
+      "album": {
         "name": "Namma Raa Nesthama",
         "url": "https://open.spotify.com/album/7rmKWAVqfU3H5CoDx9657n"
       },
@@ -6726,6 +6788,24 @@
       "duration_ms": 331798,
       "name": "Ole Ole",
       "url": "https://open.spotify.com/track/44wZfxFJ6CbTavqxdbbHxz"
+    },
+    {
+      "album": {
+        "name": "One shot",
+        "url": "https://open.spotify.com/album/3wkL33W4XonKpgZSIQh0Dz"
+      },
+      "artists": [
+        {
+          "name": "SHRAP",
+          "url": "https://open.spotify.com/artist/1aCiGA5cTxbSNZ6AFj3yNh"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166336,
+      "name": "One shot",
+      "url": "https://open.spotify.com/track/18Wj3FgZJpemu5QR65FjeB"
     },
     {
       "album": {
@@ -9168,6 +9248,28 @@
       "duration_ms": 178535,
       "name": "Soundarya Lahari",
       "url": "https://open.spotify.com/track/6UF17wbA3lGZnmtC5SQzZX"
+    },
+    {
+      "album": {
+        "name": "SPICYGANG",
+        "url": "https://open.spotify.com/album/434BNjErUFORKbT2kT0hcR"
+      },
+      "artists": [
+        {
+          "name": "DRUGMNKY",
+          "url": "https://open.spotify.com/artist/4RXpE2bory1fuh8X3xkrOo"
+        },
+        {
+          "name": "Avz",
+          "url": "https://open.spotify.com/artist/3163PWVpDu4G2ItJhauoLb"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144405,
+      "name": "SPICYGANG",
+      "url": "https://open.spotify.com/track/5hjOo3JUkew4wosrTIkGa1"
     },
     {
       "album": {

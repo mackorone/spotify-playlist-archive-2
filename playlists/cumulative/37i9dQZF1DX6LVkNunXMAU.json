@@ -912,7 +912,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 195301,
       "name": "Buscala",
       "url": "https://open.spotify.com/track/6mJ9vnO3hByuwCumlzHsAr"
@@ -1938,7 +1938,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 149364,
       "name": "Disfon\u00eda",
       "url": "https://open.spotify.com/track/0uJDoMbRcfmojaIOqOOMs7"
@@ -2688,6 +2688,24 @@
       "duration_ms": 178656,
       "name": "Helen K",
       "url": "https://open.spotify.com/track/6NSdapUFwuOgX2T8aItLQG"
+    },
+    {
+      "album": {
+        "name": "Horas",
+        "url": "https://open.spotify.com/album/2o4y3NPQW9V0NkofUArRUr"
+      },
+      "artists": [
+        {
+          "name": "Sol Melisma",
+          "url": "https://open.spotify.com/artist/3EkEaGrhiS1N76uTeKRNQb"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143166,
+      "name": "Horas",
+      "url": "https://open.spotify.com/track/4FaScgamlCykrD6cVF3oh8"
     },
     {
       "album": {
@@ -4144,6 +4162,24 @@
     {
       "album": {
         "name": "Ni\u00f1o Bosque",
+        "url": "https://open.spotify.com/album/7ega2osbiK6lYmBFtPrHQd"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Morgade",
+          "url": "https://open.spotify.com/artist/5916I1sGtfQ3ugjsbS3NjF"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176916,
+      "name": "Ni\u00f1o Bosque",
+      "url": "https://open.spotify.com/track/2iWOCZS5LTjTbRYDGtiD4y"
+    },
+    {
+      "album": {
+        "name": "Ni\u00f1o Bosque",
         "url": "https://open.spotify.com/album/0X7lBPRO37oNovgx6tdPN5"
       },
       "artists": [
@@ -4406,7 +4442,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 151653,
       "name": "Nuestras Formas",
       "url": "https://open.spotify.com/track/3FsYdqpzwud7ZRjLRHi21S"
@@ -5954,6 +5990,24 @@
       "duration_ms": 320603,
       "name": "Toda Esta Ciudad",
       "url": "https://open.spotify.com/track/7axrsgYy5Zf4UkpZ4FrKba"
+    },
+    {
+      "album": {
+        "name": "Entre Par\u00e9ntesis",
+        "url": "https://open.spotify.com/album/30T6WyeunLFCPmfWOFyO2j"
+      },
+      "artists": [
+        {
+          "name": "Sol Melisma",
+          "url": "https://open.spotify.com/artist/3EkEaGrhiS1N76uTeKRNQb"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166048,
+      "name": "Todas esas cosas",
+      "url": "https://open.spotify.com/track/1bRYBXq9RUVnJp9ZAnybHk"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Smerz
 
-277 songs - 15 hr 56 min
+278 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Formula 1](https://open.spotify.com/track/6BHkkOCflCQjyTcGl0jaMi) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0), [Melody English](https://open.spotify.com/artist/681ANzmKTyqMjgPffPiFPp) | [Formula 1](https://open.spotify.com/album/5b5V1qr0RiJzLBAeEe5VOY) | 3:09 | 2025-05-15 |  |
 | [G\-LIP](https://open.spotify.com/track/6F8GWMveksAfUHPjisf7MD) | [Camille Keller](https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F) | [Lack of G\-LIP](https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4) | 2:17 | 2025-08-08 |  |
 | [Galloping Chest](https://open.spotify.com/track/0sW23ZyfB2RrAFFsA0YGXz) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Galloping Chest](https://open.spotify.com/album/33T7RKYfkC9zIsq2gX3hob) | 3:30 | 2025-06-06 | 2026-03-07 |
+| [Gave You Up](https://open.spotify.com/track/2gng4BVSuskEfAo4nFiE2E) | [Carla dal Forno](https://open.spotify.com/artist/6FVxEgfQsGrJ0BogIOYCd6) | [Confession](https://open.spotify.com/album/4YoCbEExp7Zmo6wbcYaR6c) | 3:21 | 2026-04-23 |  |
 | [Getaway](https://open.spotify.com/track/54YvXQzjpfQee9u3YKg8Ls) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:37 | 2026-04-02 |  |
 | [Gilded](https://open.spotify.com/track/2nxEJwcb0pxBohg1fKKmHe) | [Mr\. Beale](https://open.spotify.com/artist/7IXaHCboVc1IOzBqdHmQ1v) | [Gilded](https://open.spotify.com/album/1QvGemln6o7k5hGaYFpDZ6) | 3:01 | 2025-08-22 |  |
 | [Girls Like Me Belong in Bed, Curled](https://open.spotify.com/track/0byjD8soqql3yBdhOFWjKI) | [YULLOLA](https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg) | [Zen Maiden](https://open.spotify.com/album/5KzJWSKekKo0IbzjrrXjsR) | 4:04 | 2025-03-13 | 2026-01-24 |
@@ -253,7 +254,6 @@
 | [TMN](https://open.spotify.com/track/1atGiLsGuzJ5SduA6vVvrG) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [TMN](https://open.spotify.com/album/0yLlTZNuMUYqCx8zktCIWD) | 2:51 | 2025-05-08 | 2025-05-16 |
 | [To trust you](https://open.spotify.com/track/3zf4EScGKx7KCGAkGJIiUv) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [To trust you](https://open.spotify.com/album/55OpcIldEWmmgvg6rmmE98) | 2:27 | 2025-03-13 |  |
 | [together](https://open.spotify.com/track/2yr8vl7DazLslCkbHMp4E3) | [NEW YORK](https://open.spotify.com/artist/6SLzOcVFLuSRuJ0DNOpz0Z) | [together](https://open.spotify.com/album/11eCriEtwr1U28laSYqK1q) | 2:54 | 2025-08-08 |  |
-| [Track 11](https://open.spotify.com/track/2gng4BVSuskEfAo4nFiE2E) | [Carla dal Forno](https://open.spotify.com/artist/6FVxEgfQsGrJ0BogIOYCd6) | [Confession](https://open.spotify.com/album/4YoCbEExp7Zmo6wbcYaR6c) | 0:00 | 2026-04-23 |  |
 | [TWINK](https://open.spotify.com/track/6TecO454rbbvjs7ntr0S5N) | [NINA](https://open.spotify.com/artist/53O83dY0rBGmnM4gV7Sqyr) | [TWINK](https://open.spotify.com/album/0tjF35e4vUYR2Af1UULxhB) | 2:42 | 2025-06-26 | 2026-03-07 |
 | [Two Thieves](https://open.spotify.com/track/1AR3tUpXDLN5eIFz8zxQ3C) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:24 | 2025-05-08 | 2026-03-07 |
 | [U Projected 2](https://open.spotify.com/track/0ZMfvxORfTTH4IVITqsQoh) | [Voice Actor](https://open.spotify.com/artist/6PsuUa5ijopH2T8rVzHSZc), [Yarrow.co](https://open.spotify.com/artist/3NB9lrY3lN3V8xxk4DrXRw) | [Sent From My Telephone](https://open.spotify.com/album/0l5WnDIdqIofDQaVhzOkyl) | 2:06 | 2025-03-13 | 2026-01-24 |
@@ -279,6 +279,7 @@
 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 | 2025-03-21 |  |
 | [You got time and I got money \- VVTZJ EDIT](https://open.spotify.com/track/5mLchLWTDgVPJPOjmDoeAx) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [VVTZJ](https://open.spotify.com/artist/2gJxIQspPPFPuNt5RFCtsw) | [Big city life EDITS](https://open.spotify.com/album/3ggimNXIMUP70F50ZGgPMy) | 5:22 | 2025-11-07 |  |
 | [You Know I Hate it \(How The World Moves On\)](https://open.spotify.com/track/0d7Gjq2qwvcaoXpeLWFtnf) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/album/3EKXvszVGLCqYN3eriHXIO) | 3:58 | 2025-11-07 |  |
+| [You Make a Fire, You Make a Camp](https://open.spotify.com/track/3G83jEKy5gwjXxHabR89h7) | [Jura](https://open.spotify.com/artist/7o47tXCHgjbz4cGuYgg7AM), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC), [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V), [Helene Norup Due](https://open.spotify.com/artist/0o1fgVWvRNSPuuurEKVRWb) | [You Make a Fire, You Make a Camp](https://open.spotify.com/album/3AgBPC2z48Foe0g6clOy2I) | 8:53 | 2026-04-24 |  |
 | [You Say I Love You](https://open.spotify.com/track/2kv2epe0oiyQs8msJXbn9w) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Blue Angel Sparkling Silver 2](https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor) | 3:06 | 2026-04-23 |  |
 | [You're Not Alone \- Dance Review](https://open.spotify.com/track/4sTeXE85vlMftYDfnBApN3) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [You're Not Alone \(Dance Review\)](https://open.spotify.com/album/1p4Ufp0OQqEnsGOcHy2nGU) | 3:50 | 2026-01-23 |  |
 | [You're on the Loose](https://open.spotify.com/track/77P729eyk6EgyXQJV22hpu) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [You're on the Loose](https://open.spotify.com/album/7An52a3iEFGZPKQE3NCDSy) | 4:37 | 2025-06-06 |  |

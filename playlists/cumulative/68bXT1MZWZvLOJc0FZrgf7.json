@@ -708,7 +708,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 185454,
       "name": "angel",
       "url": "https://open.spotify.com/track/4Q7raucSnL3OeYoqr3xN4a"
@@ -3201,6 +3201,28 @@
     },
     {
       "album": {
+        "name": "Dance Floor DNA",
+        "url": "https://open.spotify.com/album/1NB9rSzY8QhpqZuUQN1WFj"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "People Like Us",
+          "url": "https://open.spotify.com/artist/1eoZqCJaXrv0twvlZ1ddx6"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197705,
+      "name": "Dance Floor DNA",
+      "url": "https://open.spotify.com/track/37mHvuXH3cz2Dkl23ypqbc"
+    },
+    {
+      "album": {
         "name": "Dance In The Sunlight",
         "url": "https://open.spotify.com/album/3ITR6LlbWdAuHID9WYvP78"
       },
@@ -3263,6 +3285,24 @@
     },
     {
       "album": {
+        "name": "Dance To This",
+        "url": "https://open.spotify.com/album/7cxNzqHMqDlojW7WilPoUN"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174712,
+      "name": "Dance To This",
+      "url": "https://open.spotify.com/track/2uPLbkypIfozwjuiJcgMLC"
+    },
+    {
+      "album": {
         "name": "Dance With You Tonight",
         "url": "https://open.spotify.com/album/0gJNaDpmArZEP1BE4MfSmu"
       },
@@ -3296,7 +3336,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 160997,
       "name": "Dance You Out My Head",
       "url": "https://open.spotify.com/track/1dk1iVMq3bwp2wusmrj7cv"
@@ -12347,6 +12387,32 @@
     },
     {
       "album": {
+        "name": "Party at the Beach",
+        "url": "https://open.spotify.com/album/6DWrkz519T2xrWvXVbBFUg"
+      },
+      "artists": [
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+          "name": "tco.dylann",
+          "url": "https://open.spotify.com/artist/0e5trVmRu8PophEfwEc9kM"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132503,
+      "name": "Party at the Beach",
+      "url": "https://open.spotify.com/track/7qe7qHxlIZQDsMXvaYwLo3"
+    },
+    {
+      "album": {
         "name": "Party Like",
         "url": "https://open.spotify.com/album/4bGR0xn8ux5iIOdAzBXML9"
       },
@@ -13930,7 +13996,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 139051,
       "name": "Schlaf",
       "url": "https://open.spotify.com/track/2ZqEViKZOBwd05aYnDYGil"
@@ -14900,7 +14966,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 190939,
       "name": "Starz",
       "url": "https://open.spotify.com/track/2EfjTWWyAlXwGPxkzagYe1"
@@ -15286,6 +15352,28 @@
       "duration_ms": 183000,
       "name": "Superspeed (feat. Fickle Friends)",
       "url": "https://open.spotify.com/track/55raOb7Ar5hEPc4QEuFowD"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/6G1pO46Z2u8BPjTGVoa5Oa"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Chris Nasty",
+          "url": "https://open.spotify.com/artist/1rGakp9mQfKaLjN7mT9ohd"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/4PUmzYMkyJDECrjdxMs19A"
     },
     {
       "album": {

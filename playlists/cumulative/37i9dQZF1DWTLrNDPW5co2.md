@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Featuring Honey Dijon.
 
-464 songs - 1 day 4 hr 14 min
+465 songs - 1 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [Uyang'khumbula](https://open.spotify.com/track/06RtgiZpMOkPpVevTWdKFh) | [Faka](https://open.spotify.com/artist/7qnN27UrAjCwesCsBHeadM) | [Amaqhawe](https://open.spotify.com/album/6cA5w26FmQnhw9i9YH8vOq) | 5:54 | 2021-10-15 | 2023-04-01 |
 | [Versed](https://open.spotify.com/track/3jOzUB89nlk4gasLz0zYYA) | [Maryze](https://open.spotify.com/artist/7nquZ60n4QcMV0ycQaXpEv) | [Versed](https://open.spotify.com/album/7cAy1u88EPwXvx0kJlz7uY) | 2:08 | 2025-02-28 | 2025-04-05 |
 | [Villano Antillano \- Bzrp 51 \(Catz 'n Dogz Lazer Mix\)](https://open.spotify.com/track/7jYBHaBLWalQid4tK8ptgh) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [Villano Antillano \- Bzrp 51 \(Catz 'n Dogz Lazer Mix\)](https://open.spotify.com/album/0u5supaRlZQPRx8yWNYGuD) | 5:30 | 2024-06-01 | 2024-06-15 |
+| [Violent Thoughts](https://open.spotify.com/track/1N0TsyGpNhyErrvJyKFQHq) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Tsycophant](https://open.spotify.com/album/2gGPhtIU0XVFsLYhDrLfz8) | 4:04 | 2026-04-24 |  |
 | [Voices](https://open.spotify.com/track/1bvPP8zEwczCe0RX7hIIr6) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Voices](https://open.spotify.com/album/6p4J6VWBTkR3g6mbqNyf0L) | 3:40 | 2023-10-13 | 2024-04-19 |
 | [Voices](https://open.spotify.com/track/4OGbM5ZtdaCFGVkX5Wr8Tw) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Voices](https://open.spotify.com/album/016CiaX63Hugtj7w1IKcJz) | 3:40 | 2023-03-31 | 2024-06-22 |
 | [Watch](https://open.spotify.com/track/6BTaOTV4R07QunBda62fR7) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:28 | 2022-07-14 | 2024-04-19 |
@@ -464,7 +465,7 @@
 | [WORK](https://open.spotify.com/track/0u1WLKUVURx5kY972ZrjSB) | [Mainline Magic Orchestra](https://open.spotify.com/artist/05zSozHG9kAvZTCmEo1fFT), [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Harri Poter](https://open.spotify.com/album/4cxMY0PxzpJry88fvw39mB) | 3:42 | 2025-01-17 |  |
 | [Work \(feat\. Dave Giles II, Cor.Ece & Mike Dunn\)](https://open.spotify.com/track/27mpDozgyKGFOvQZbStbdc) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dave Giles II](https://open.spotify.com/artist/5tceE0eTO2p70lG8DTvehw), [Cor.Ece](https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv), [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:01 | 2023-06-01 | 2024-09-14 |
 | [World's Hardest Game](https://open.spotify.com/track/0a09r51dqD5n8xCEOld1WO) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [World's Hardest Game](https://open.spotify.com/album/4860b8aDFA93PRHSPqvAOB) | 3:28 | 2024-03-22 | 2024-10-26 |
-| [XXX](https://open.spotify.com/track/4RCJFBSdsqhyGxxUbpX0gI) | [Evissimax](https://open.spotify.com/artist/3KRbZfhEbntEDFNV3b48Cv) | [XXX](https://open.spotify.com/album/1ERIBF7nbJRRLplG0yz1f4) | 4:31 | 2025-09-12 |  |
+| [XXX](https://open.spotify.com/track/4RCJFBSdsqhyGxxUbpX0gI) | [Evissimax](https://open.spotify.com/artist/3KRbZfhEbntEDFNV3b48Cv) | [XXX](https://open.spotify.com/album/1ERIBF7nbJRRLplG0yz1f4) | 4:31 | 2025-09-12 | 2026-04-25 |
 | [XXX](https://open.spotify.com/track/3QcWzAQvI41KYheHtvsNoT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:04 | 2023-08-30 | 2024-06-22 |
 | [YES!](https://open.spotify.com/track/3pr4EH9ruCYRhGbicJQDNP) | [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N), [Super Future](https://open.spotify.com/artist/6Xri2X6xp5SDLr08hva6Bb) | [YES!](https://open.spotify.com/album/6nmxQuN4BjujSIT63zJNfb) | 2:21 | 2025-10-03 | 2026-03-14 |
 | [You \- Erol Alkan Rework](https://open.spotify.com/track/0OnwuVNnFRx7P7NiC1eBbB) | [Josh Caffe](https://open.spotify.com/artist/3JOct1LuzqDQHeCHuHjpM2), [Erol Alkan](https://open.spotify.com/artist/3jQ8hpdQo3TCEnb5gmOtH5) | [You](https://open.spotify.com/album/2eBtSI9usuwADxfrMMwzDq) | 7:14 | 2024-06-01 | 2024-06-15 |

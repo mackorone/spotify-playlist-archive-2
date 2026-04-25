@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,110 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,113 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Beautiful Ride](https://open.spotify.com/track/4UXE6268V5xBQN0A4MVEVI) | [Attara](https://open.spotify.com/artist/7q9Oam3CwOj6bP7JfSPApN), [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP) | [Beautiful Ride](https://open.spotify.com/album/41ylB3dOvQtGuzLjr8y78g) | 3:30 |
-| 2 | [Track 4](https://open.spotify.com/track/4NKezh0u7JmJF4IVbIVYKc) | [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB) | [Now it's Experience Talking](https://open.spotify.com/album/5r0GN5MfXy30y940mqBiU5) | 0:00 |
+| 2 | [Amazing](https://open.spotify.com/track/4NKezh0u7JmJF4IVbIVYKc) | [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB), [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba) | [Now it's Experience Talking](https://open.spotify.com/album/5r0GN5MfXy30y940mqBiU5) | 3:38 |
 | 3 | [UNTITLED 1981](https://open.spotify.com/track/61RCyIHnmBpbNNvVNNHe0F) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [UNTITLED 1981](https://open.spotify.com/album/17T7CPqs6sUPkNGGyuGeM0) | 3:07 |
 | 4 | [Sioni Mbele](https://open.spotify.com/track/53jDdL38b0npbH3hqxTQpM) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP) | [Sioni Mbele](https://open.spotify.com/album/6oCfqw1wxvrUDbD7O9Gd9c) | 3:03 |
 | 5 | [Cashmere](https://open.spotify.com/track/76a86qKvu0AOlsPkY4bEEb) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [Cashmere](https://open.spotify.com/album/6d3vky3CklWPy6Bi0TOlVn) | 3:07 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 | 19 | [Ride Back](https://open.spotify.com/track/217M4BXzktjxQcUUXb2zTQ) | [Lucinia Karrey](https://open.spotify.com/artist/61h4FsXpZcm4Ku28ElGET0), [Lio Tomaz](https://open.spotify.com/artist/4PPNrfWhu1Pi6qRItklADq) | [Ride Back](https://open.spotify.com/album/0WGXVL6TFID3ty9cQySeY8) | 4:29 |
 | 20 | [like a song](https://open.spotify.com/track/0af1OVgLy93iYimy79u0lS) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [coin: the demos](https://open.spotify.com/album/3J2gVa7T19KVltAhyrh8wh) | 3:04 |
 | 21 | [Another Mess I Make](https://open.spotify.com/track/27aqkdGNCiEt6o2BLRdbda) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nkatha Muthoni](https://open.spotify.com/artist/6GsjoCCj2BMdqDSjbl6B2P) | [Another Mess I Make](https://open.spotify.com/album/4MpHnTvay6SD8GPU0uCMQ8) | 4:17 |
-| 22 | [Crimson Sky \- Radio Edit](https://open.spotify.com/track/48QpNkIX5Dz0Cm2qh9zzUt) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn), [Normen Goltz](https://open.spotify.com/artist/3AAL6Hp40AVMA7YLtTeMyT) | [Crimson Sky \(Radio Edit\)](https://open.spotify.com/album/476peAghmC51l3S77Tf1d1) | 3:24 |
+| 22 | [Crimson Sky \- Radio Edit](https://open.spotify.com/track/48QpNkIX5Dz0Cm2qh9zzUt) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn), [Normen Goltz](https://open.spotify.com/artist/77oDe9o8AZcFFZP5SexdDT) | [Crimson Sky \(Radio Edit\)](https://open.spotify.com/album/476peAghmC51l3S77Tf1d1) | 3:24 |
 | 23 | [Nakungoja](https://open.spotify.com/track/2eXcfadwFQqOuxsBV3YIvQ) | [Iminza](https://open.spotify.com/artist/6zjQD2awFMEfRnNakBu9Br), [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2) | [Nakungoja](https://open.spotify.com/album/5B3APlvJ1MTbaLrNFFsdqE) | 2:28 |
 | 24 | [Mabeste Tu](https://open.spotify.com/track/0xnoBgZsqYLQCejERE8xDz) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Mabeste Tu](https://open.spotify.com/album/5E1tWyb3paZ3yeBPOiJOpP) | 2:43 |
 | 25 | [All Gone](https://open.spotify.com/track/7h2PMXnFCUTR8xeZlscQbR) | [Ntinyari](https://open.spotify.com/artist/6mxky4PjUkwpCDOTdOeksC) | [Six](https://open.spotify.com/album/1QRnVC8V3WrDLqHedi3SMZ) | 4:15 |

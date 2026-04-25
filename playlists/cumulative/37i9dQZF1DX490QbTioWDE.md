@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Q´Lokura, Lauta & Amigo de Artistas
 
-620 songs - 1 day 13 hr 32 min
+621 songs - 1 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Amame / Mariposas](https://open.spotify.com/track/5e9DYoQBJu60GE063WqDKD) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Dani Guardia](https://open.spotify.com/artist/2o1snsYTmpfZY9cxaniBRf) | [Amame / Mariposas](https://open.spotify.com/album/3ZLT6diCZWFbh91wTSIo6w) | 4:43 | 2022-04-22 | 2022-06-13 |
 | [Amantes o Desconocidos](https://open.spotify.com/track/3aM6xQTNPj4VypwjhuW3fg) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw), [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Amantes o Desconocidos](https://open.spotify.com/album/0vpOwboWylzhjIEpVRSqLF) | 3:29 | 2025-11-21 | 2026-02-21 |
 | [Amiga \- A Medio Vivir \(feat\. Lucas Sugo\)](https://open.spotify.com/track/7m1Qy4NriMZ6ckFT4GbAMe) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Amiga \- A Medio Vivir \(feat\. Lucas Sugo\)](https://open.spotify.com/album/1KSUi0LxqRfQkAxp97gfOG) | 5:04 | 2026-03-05 |  |
+| [Amiga Mía](https://open.spotify.com/track/3z7sIkv95YbR4MQZ6wQt5d) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [Amiga Mía](https://open.spotify.com/album/1duAzlpsizIt22xJynHiuR) | 3:49 | 2026-04-24 |  |
 | [Amigos](https://open.spotify.com/track/5dAxWaxAqZPlXUUxEkIJ7I) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Amigos](https://open.spotify.com/album/4xe04N2XAWfe6vWjCZxBHN) | 3:58 | 2023-01-18 | 2024-01-03 |
 | [Amor Clandestino](https://open.spotify.com/track/2WpEo1QdYomT2CKwIaYpEN) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Amor Clandestino](https://open.spotify.com/album/5fONermHT1f2oYa1AwMBGL) | 2:49 | 2024-10-04 | 2024-11-27 |
 | [Amor Clasificado](https://open.spotify.com/track/5MK642wCaNr9hRDZ3kWyDX) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteto Característico \(A2000\)](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:44 | 2021-12-24 |  |
@@ -200,7 +201,7 @@
 | [Esto se Acabó](https://open.spotify.com/track/35nkugOAny7dEuL3b3bNOf) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Esto Se Acabó](https://open.spotify.com/album/1usW30QraosvadgKpteABF) | 3:19 | 2023-09-29 |  |
 | [Ex de Verdad](https://open.spotify.com/track/4iRMSAo4Ghq2njwcUAZy9n) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Ex de Verdad](https://open.spotify.com/album/3KHctnefJp6w3hfYQetKoB) | 2:58 | 2022-09-05 | 2023-01-14 |
 | [Extrañándote](https://open.spotify.com/track/37UdTgNxwIaDUxRy9wr4kf) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Sangre](https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi) | 3:52 | 2021-12-24 | 2023-04-24 |
-| [Fama de Diabla](https://open.spotify.com/track/4Pl9kwSv46QMwk4MtTttBd) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Fama de Diabla](https://open.spotify.com/album/5uNqPD84blDNKuRxdDwnF1) | 3:28 | 2024-02-16 |  |
+| [Fama de Diabla](https://open.spotify.com/track/4Pl9kwSv46QMwk4MtTttBd) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Fama de Diabla](https://open.spotify.com/album/5uNqPD84blDNKuRxdDwnF1) | 3:28 | 2024-02-16 | 2026-04-25 |
 | [Fatal](https://open.spotify.com/track/6RhxpK8VbkuCGfJMOAebFf) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Serie 25](https://open.spotify.com/album/33LXlCCc4TB8TJ1HcQfSZX) | 2:42 | 2025-09-12 | 2026-02-21 |
 | [Ferxxo 100](https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Ferxxo 100](https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F) | 2:49 | 2023-03-17 | 2025-02-17 |
 | [Fiesta para dos](https://open.spotify.com/track/5iH1LuJAXVadg4p4GZQkVB) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [Fiesta para dos](https://open.spotify.com/album/0qPqSqsuiRk6WuNhc3fNEx) | 5:05 | 2022-01-21 | 2022-06-18 |

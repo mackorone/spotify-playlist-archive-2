@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJV4RCkXMkeiwaK+7bFzt1IyAszjwJ",
+  "snapshot_id": "AAAJWYoEZsc9uVoDxSSYDFXL6OL3oQ3G",
   "tracks": [
     {
       "added_at": "2026-04-23 14:40:23",
@@ -37791,6 +37791,42 @@
       "duration_ms": 159841,
       "name": "The 9-to-5 Nirvana",
       "url": "https://open.spotify.com/track/07y7u9DNnZnqBJiCz34d6r"
+    },
+    {
+      "added_at": "2026-04-24 07:17:59",
+      "album": {
+        "name": "Simona",
+        "url": "https://open.spotify.com/album/0C2rcexcjETIxlulOZ5jNV"
+      },
+      "artists": [
+        {
+          "name": "The Dubbstyle",
+          "url": "https://open.spotify.com/artist/2EhzGQxSHKOjcrOSieAF0g"
+        },
+        {
+          "name": "Enzo Furiasse",
+          "url": "https://open.spotify.com/artist/2pjdp0OWLARTr3lAKQEBjh"
+        }
+      ],
+      "duration_ms": 321014,
+      "name": "Bloodfire - Trombone Version",
+      "url": "https://open.spotify.com/track/1XkIQmgk1v7r0XICkPemse"
+    },
+    {
+      "added_at": "2026-04-24 09:20:30",
+      "album": {
+        "name": "Paul Marturano Volume 2 Two Album Set More! / Delco Girl",
+        "url": "https://open.spotify.com/album/3l1MTuLII5RaArXBi4DJI5"
+      },
+      "artists": [
+        {
+          "name": "Paul Marturano",
+          "url": "https://open.spotify.com/artist/4ErK966kYcXS7y7s4e3MLA"
+        }
+      ],
+      "duration_ms": 217391,
+      "name": "I'll Love You More",
+      "url": "https://open.spotify.com/track/7oGoQa2KyTA9Nyi4Qti2SB"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

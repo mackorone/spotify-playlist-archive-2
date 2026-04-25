@@ -485,6 +485,28 @@
     },
     {
       "album": {
+        "name": "Gentle Hum",
+        "url": "https://open.spotify.com/album/5sKfGxxb7WTZFAq0a4VE1p"
+      },
+      "artists": [
+        {
+          "name": "Ah! Kosmos",
+          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
+        },
+        {
+          "name": "Hainbach",
+          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "An Afterlife",
+      "url": "https://open.spotify.com/track/26q4fCHR0YmFzH1KkUUYaJ"
+    },
+    {
+      "album": {
         "name": "Everything Popular is Wrong",
         "url": "https://open.spotify.com/album/726ej6023HAKhPAnVrUIal"
       },
@@ -1550,7 +1572,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 249374,
       "name": "BSMR",
       "url": "https://open.spotify.com/track/2PVA5M1EWqzbwyfPVBSqpA"
@@ -3084,7 +3106,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 198389,
       "name": "ENDLESS",
       "url": "https://open.spotify.com/track/2lECGYg6h11hyiKbCD3FpE"
@@ -6881,6 +6903,24 @@
     },
     {
       "album": {
+        "name": "Sd-3",
+        "url": "https://open.spotify.com/album/1zKvlBFE8d9zNjcBjzitcS"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160263,
+      "name": "Pink Bape Lighter",
+      "url": "https://open.spotify.com/track/4N9U71O0mWNEDRKVVrQwBi"
+    },
+    {
+      "album": {
         "name": "Piranha",
         "url": "https://open.spotify.com/album/4zchidGxtHY6BF2tsLeYBW"
       },
@@ -8276,6 +8316,24 @@
       "duration_ms": 152000,
       "name": "Slow Worm",
       "url": "https://open.spotify.com/track/4WDG6wT432I1tacAb4aLiR"
+    },
+    {
+      "album": {
+        "name": "So",
+        "url": "https://open.spotify.com/album/3BFw4nu743hg3NE3BkuJ1n"
+      },
+      "artists": [
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189850,
+      "name": "So",
+      "url": "https://open.spotify.com/track/3Meh830NxXhLpEFD9GMnDR"
     },
     {
       "album": {
@@ -9704,7 +9762,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 287000,
       "name": "Turn Back",
       "url": "https://open.spotify.com/track/3Yv2GsNxQdVuK3droJ12nb"

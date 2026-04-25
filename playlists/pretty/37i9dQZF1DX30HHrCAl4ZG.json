@@ -1,13 +1,45 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Winyah",
-  "num_followers": 807031,
+  "description": "Explore all things indie rock right now. Featuring music from Swapmeet",
+  "num_followers": 807036,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAcYLxO3Bf3yM+BBmUFMfo/ovcvR",
+  "snapshot_id": "AAAAAGaLIYe6PIUIHLdxrlqcXxJqAIl6",
   "tracks": [
+    {
+      "added_at": "2026-04-24 04:01:47",
+      "album": {
+        "name": "Going Shopping",
+        "url": "https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 261747,
+      "name": "Going Shopping",
+      "url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP"
+    },
+    {
+      "added_at": "2026-04-24 04:01:47",
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb"
+      },
+      "artists": [
+        {
+          "name": "Swapmeet",
+          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+        }
+      ],
+      "duration_ms": 204202,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL"
+    },
     {
       "added_at": "2026-04-10 04:01:41",
       "album": {
@@ -43,6 +75,22 @@
     {
       "added_at": "2026-04-10 04:01:41",
       "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/7v39mio0wBEBfW44yf39bE"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        }
+      ],
+      "duration_ms": 205812,
+      "name": "Ember",
+      "url": "https://open.spotify.com/track/7jdLVBEhoDxGKdhfBEulzY"
+    },
+    {
+      "added_at": "2026-04-10 04:01:41",
+      "album": {
         "name": "Chance to Bleed",
         "url": "https://open.spotify.com/album/6YaH4jJhfaOlc5XyLqFBrx"
       },
@@ -57,20 +105,36 @@
       "url": "https://open.spotify.com/track/6jGus0lgXFwZGQ9aNAhOFw"
     },
     {
-      "added_at": "2026-04-10 04:01:41",
+      "added_at": "2026-04-24 04:01:47",
       "album": {
-        "name": "Ember",
-        "url": "https://open.spotify.com/album/7v39mio0wBEBfW44yf39bE"
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/7nd9mJWgsV8oPY35Dq57eX"
       },
       "artists": [
         {
-          "name": "Iceage",
-          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
         }
       ],
-      "duration_ms": 205812,
-      "name": "Ember",
-      "url": "https://open.spotify.com/track/7jdLVBEhoDxGKdhfBEulzY"
+      "duration_ms": 225017,
+      "name": "Javelin",
+      "url": "https://open.spotify.com/track/0CyWgKe5ZQ1BVN5Lyp2Z3C"
+    },
+    {
+      "added_at": "2026-04-24 04:01:47",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
+      },
+      "artists": [
+        {
+          "name": "Not for Radio",
+          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
+        }
+      ],
+      "duration_ms": 265606,
+      "name": "Ache",
+      "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
     },
     {
       "added_at": "2026-04-10 04:01:41",
@@ -135,6 +199,26 @@
       "duration_ms": 187626,
       "name": "Everything Born",
       "url": "https://open.spotify.com/track/616nkMGfPGpGYaFfg5bDGb"
+    },
+    {
+      "added_at": "2026-04-24 04:01:47",
+      "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/38DX6jJd8fkTr2wwM2ECdL"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        },
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 208719,
+      "name": "Clueless (feat. Aly & AJ)",
+      "url": "https://open.spotify.com/track/2MPzUXWuyMkO8UwSRSIRsl"
     },
     {
       "added_at": "2026-04-10 04:01:41",
@@ -2155,166 +2239,6 @@
       "duration_ms": 140478,
       "name": "Stillborns and Six Lane Highways (With Annie DiRusso)",
       "url": "https://open.spotify.com/track/0an3WHqUXS2kLZHy76hTsn"
-    },
-    {
-      "added_at": "2026-03-27 04:00:21",
-      "album": {
-        "name": "Hahaha",
-        "url": "https://open.spotify.com/album/6GlAxqMj77oOovHFv4NpK0"
-      },
-      "artists": [
-        {
-          "name": "Will Paquin",
-          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
-        }
-      ],
-      "duration_ms": 177707,
-      "name": "Orangutan",
-      "url": "https://open.spotify.com/track/1yheRpNN3knYt8Eb92v0Bd"
-    },
-    {
-      "added_at": "2026-03-27 04:00:21",
-      "album": {
-        "name": "Fall Back",
-        "url": "https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI"
-      },
-      "artists": [
-        {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
-        }
-      ],
-      "duration_ms": 211964,
-      "name": "Break the Girl",
-      "url": "https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf"
-    },
-    {
-      "added_at": "2026-03-27 04:00:21",
-      "album": {
-        "name": "Straight Line Was A Lie",
-        "url": "https://open.spotify.com/album/30Byf6kLkgZ3B2lp739Hlo"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 244840,
-      "name": "Straight Line Was A Lie",
-      "url": "https://open.spotify.com/track/2cZaZRwbtf5aZXtJC43tx4"
-    },
-    {
-      "added_at": "2026-03-27 04:00:21",
-      "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/3T5osCmLRKocwvc1yobKwB"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "4:25",
-      "url": "https://open.spotify.com/track/2cjQAWtDFoWVWdXr0oKfef"
-    },
-    {
-      "added_at": "2026-03-27 04:00:21",
-      "album": {
-        "name": "September",
-        "url": "https://open.spotify.com/album/6EOg0mbeoG7Qwsw2kV8fIx"
-      },
-      "artists": [
-        {
-          "name": "Dogpark",
-          "url": "https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7"
-        }
-      ],
-      "duration_ms": 254059,
-      "name": "September",
-      "url": "https://open.spotify.com/track/28Ax0ZKpA7n5yh0xe9Bhio"
-    },
-    {
-      "added_at": "2026-03-27 04:00:21",
-      "album": {
-        "name": "77 (Pt. 1)",
-        "url": "https://open.spotify.com/album/22yt2rjfLegUep56XOY4yk"
-      },
-      "artists": [
-        {
-          "name": "Colony House",
-          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Ready to Go",
-      "url": "https://open.spotify.com/track/6WDQwwy5lcKA7zCjJ1kvKQ"
-    },
-    {
-      "added_at": "2026-03-27 04:00:21",
-      "album": {
-        "name": "(I Wanna) Be Your Girl",
-        "url": "https://open.spotify.com/album/0m6IxoqExi0n7RPVxNvDJx"
-      },
-      "artists": [
-        {
-          "name": "Sharp Pins",
-          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "(I Wanna) Be Your Girl",
-      "url": "https://open.spotify.com/track/5TjPVnjkMzEUetVnA8jehV"
-    },
-    {
-      "added_at": "2026-03-27 04:00:21",
-      "album": {
-        "name": "weirdthrob",
-        "url": "https://open.spotify.com/album/1BcTRJbkG9oQg7CAcmwcTa"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 248553,
-      "name": "Sewers",
-      "url": "https://open.spotify.com/track/1jK61x0g4ylpBlbrj7MfER"
-    },
-    {
-      "added_at": "2026-03-27 04:00:21",
-      "album": {
-        "name": "Don\u2019t Let Them Tell You (It\u2019s Fair)",
-        "url": "https://open.spotify.com/album/5gznrt3F3a9huMKqdzxPPN"
-      },
-      "artists": [
-        {
-          "name": "The Belair Lip Bombs",
-          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
-        }
-      ],
-      "duration_ms": 237645,
-      "name": "Don\u2019t Let Them Tell You (It\u2019s Fair)",
-      "url": "https://open.spotify.com/track/1ij91ZruNl7xGgWE0ZRcBb"
-    },
-    {
-      "added_at": "2026-03-27 04:00:21",
-      "album": {
-        "name": "chrysalis",
-        "url": "https://open.spotify.com/album/7zye78YuqWDxWb3ZLSsXNh"
-      },
-      "artists": [
-        {
-          "name": "she's green",
-          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
-        }
-      ],
-      "duration_ms": 240450,
-      "name": "little birds",
-      "url": "https://open.spotify.com/track/48f6WJoZEU1TgKsapzSy9m"
     }
   ],
   "unique_name": "Today's Indie Rock",

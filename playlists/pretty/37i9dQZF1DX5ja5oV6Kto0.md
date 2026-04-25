@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Yorkk & ARTSALGHUL
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,433 likes - 73 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,435 likes - 73 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,6 +80,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 70 | [Company](https://open.spotify.com/track/26ulnyg8SfgTtstCdGmArl) | [cosamote](https://open.spotify.com/artist/2j7j3bmaV4Ej8b9Cy0FtMY), [Creen Caesar](https://open.spotify.com/artist/5A8fI4subH9tiQHBmm3COP), [Caleb Clay](https://open.spotify.com/artist/7nYMySRZoIDziBAJ6KZ3Bl) | [Company](https://open.spotify.com/album/4PO7Q4VcqrN6z9lgjU1t7T) | 2:37 |
 | 71 | [Alté Highlife](https://open.spotify.com/track/7a6Z5VXqPt0a7Ou4BJAuW4) | [LOTi](https://open.spotify.com/artist/0urGBe1Pism9xlVVwOmExn), [Kris Hans](https://open.spotify.com/artist/3pV4mFQfwj3coygDws7OTd) | [Alté Highlife](https://open.spotify.com/album/3aN8NEmHy0a9lvPMQHRV6V) | 2:57 |
 | 72 | [It ends with me](https://open.spotify.com/track/6B1WlH8M9hkQy3DjO8NboN) | [June](https://open.spotify.com/artist/4xbk9oEHOmtz8rvBb1uiwx) | [It Ends With Me](https://open.spotify.com/album/5pvCQS2zCKjSWXDVIzDuBw) | 2:48 |
-| 73 | [Track 3](https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [Modern Fantasy](https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy) | 0:00 |
+| 73 | [Modern man](https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r) | [Modern Fantasy](https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy) | 3:32 |
 
 Snapshot ID: `AAAAAIUtaGqsxJ/CwZWSwqyIOsDREebw`

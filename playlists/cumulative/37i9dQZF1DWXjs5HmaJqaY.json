@@ -809,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Bravado",
+        "url": "https://open.spotify.com/album/6q2n9sjPo2MMhXh0HsQ8kD"
+      },
+      "artists": [
+        {
+          "name": "Thomas Helmich",
+          "url": "https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157056,
+      "name": "Bravado",
+      "url": "https://open.spotify.com/track/6creN9PWg3V2rCPuRhpphR"
+    },
+    {
+      "album": {
         "name": "Bring The Beat Back",
         "url": "https://open.spotify.com/album/2IPRpfBhIj6AwKww7KSPJw"
       },

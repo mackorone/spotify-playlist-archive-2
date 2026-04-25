@@ -4,7 +4,7 @@
 
 > New and local indie noise\. Cover: Crocodylus
 
-937 songs - 2 day 4 hr 36 min
+937 songs - 2 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Girth](https://open.spotify.com/track/1puL7uMJb02F8Hq6a4qpcD) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Girth](https://open.spotify.com/album/7fUqP6t74BMOj1UnMTjfga) | 3:03 | 2025-12-11 | 2026-03-06 |
 | [Glory](https://open.spotify.com/track/2h03aCUR0z5fKu5a26NGSt) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [Glory](https://open.spotify.com/album/5G0tooiZgZU0RaroMA0FZK) | 4:46 | 2025-03-13 | 2025-06-06 |
 | [GO](https://open.spotify.com/track/3ejHEW1YPrl4XxMsTnPZHR) | [Purée](https://open.spotify.com/artist/4wBguEl200jafxtVjWKPwa) | [GO](https://open.spotify.com/album/59WwHSmISNfwc85AV8PX0P) | 3:23 | 2025-08-28 | 2025-11-14 |
+| [GO WASTE MY TIME](https://open.spotify.com/track/7DFfCiPrHqsI0Qa1qFDu33) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [GLORY \(Deluxe\)](https://open.spotify.com/album/7MIsmUZTR5rR4jYZbOGXFV) | 2:55 | 2026-04-23 |  |
 | [GODSPEED](https://open.spotify.com/track/0pexddeI1EA8AhqWTBlErK) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [GODSPEED](https://open.spotify.com/album/4cSCHQrw9w1LwC7XdmEM1y) | 3:53 | 2025-09-18 | 2026-01-23 |
 | [Gold Things](https://open.spotify.com/track/3wH727bYhimLg5cCL9ZCy7) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Gold Things](https://open.spotify.com/album/3udQKwBiO7fJZcQTwkJ8j5) | 3:09 | 2026-04-23 |  |
 | [Golden](https://open.spotify.com/track/07G5tvQwGol3XuRzL78VXp) | [Mac The Knife](https://open.spotify.com/artist/3EH6Un3g3K7KwvfOVygIMb) | [Golden](https://open.spotify.com/album/1e4NlOAKP1BVVDfrVDFq6J) | 3:36 | 2024-08-29 | 2024-11-08 |
@@ -383,6 +384,7 @@
 | [Homecoming](https://open.spotify.com/track/095RuNxw9kLodCTvfjA7P5) | [Bellwether](https://open.spotify.com/artist/1t8CbTXoOS38BZLxuVcNlo) | [Homecoming](https://open.spotify.com/album/5IKnXI7rlrQT8jJ7y7XMps) | 3:03 | 2024-07-11 | 2024-08-23 |
 | [Hometown](https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Small Fry](https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR) | 3:26 | 2024-10-11 | 2025-02-21 |
 | [Honeycomb](https://open.spotify.com/track/5pTBHqzq0OSTuWLUw2nTg4) | [Public Figures](https://open.spotify.com/artist/3A93doBF2yINkhxYRxaw5b) | [Figure It Out!](https://open.spotify.com/album/0F9SbBqhCZufLUsVpoSg0C) | 1:36 | 2026-02-19 | 2026-04-24 |
+| [Hope](https://open.spotify.com/track/3yfr9G9ORQHGbgsfSG9cqa) | [Crocodylus](https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw) | [Limbo, Please Be Good To Me](https://open.spotify.com/album/2rtXYGytrHQqEjQs8Lt50m) | 3:10 | 2026-04-23 |  |
 | [HOPELESS](https://open.spotify.com/track/1kvrh0fvOZUZMbjJs3d1Sc) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [HOPELESS](https://open.spotify.com/album/66hOb5N7d4kmcEuSMhGvNs) | 2:57 | 2024-09-09 | 2024-10-18 |
 | [Hopeless Dreams](https://open.spotify.com/track/55hygSCEQOqFGzLQhdmWHy) | [Bakers Eddy](https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD) | [I'm Doing Better](https://open.spotify.com/album/1tRnkZWP6FgV3afJ92Z1Kq) | 2:47 | 2025-06-05 | 2025-07-25 |
 | [Hot Bath](https://open.spotify.com/track/58llZXYXgCoZy0XjVfvSgw) | [Jade Imagine](https://open.spotify.com/artist/2GZIkd7QPKtg5c3alf8rYt) | [Hot Bath](https://open.spotify.com/album/2Jz2yRjOFD4ytBytwkFe2l) | 2:46 | 2025-02-13 | 2025-05-02 |
@@ -869,8 +871,6 @@
 | [Tonight, I](https://open.spotify.com/track/699mnYsUGvnx3hP5WfcRRA) | [PARK RD](https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo) | [The Novel](https://open.spotify.com/album/0wrWV4wYGC2QXcp3wIDpus) | 3:47 | 2024-05-24 | 2024-07-12 |
 | [Torn to Shreds](https://open.spotify.com/track/12sDyBT4yMSYmfDvB77k8l) | [Mac The Knife](https://open.spotify.com/artist/3EH6Un3g3K7KwvfOVygIMb) | [Torn to Shreds](https://open.spotify.com/album/7hUuaCaHXmmZuoPui5WLmN) | 3:38 | 2025-05-01 | 2025-06-27 |
 | [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-08-07 | 2025-10-17 |
-| [Track 12](https://open.spotify.com/track/7DFfCiPrHqsI0Qa1qFDu33) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [GLORY \(Deluxe\)](https://open.spotify.com/album/7MIsmUZTR5rR4jYZbOGXFV) | 0:00 | 2026-04-23 |  |
-| [Track 5](https://open.spotify.com/track/3yfr9G9ORQHGbgsfSG9cqa) | [Crocodylus](https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw) | [Limbo, Please Be Good To Me](https://open.spotify.com/album/2rtXYGytrHQqEjQs8Lt50m) | 0:00 | 2026-04-23 |  |
 | [Train Of Thought](https://open.spotify.com/track/6GaPDdfzlU3xgOvqkXGs4H) | [Camino Gold](https://open.spotify.com/artist/4VbbF8VGwTH0Erx5PYg3Hi) | [Train Of Thought](https://open.spotify.com/album/0N4ORxBPHET947R4bRXa00) | 3:29 | 2024-07-25 | 2024-09-20 |
 | [Tricky](https://open.spotify.com/track/2647HRwRxWV8GXDCVYeYyr) | [Floodlights](https://open.spotify.com/artist/5gQvIK95LKrgtgkBPlH3XI) | [Tricky](https://open.spotify.com/album/3N7n0230jkmS4A9OZF9qIX) | 3:22 | 2025-10-16 | 2026-01-23 |
 | [Trip Hazard](https://open.spotify.com/track/5vmbouG8UIOoKQYKrnTc55) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Trip Hazard](https://open.spotify.com/album/0fgoHh6b6b8SDeaYBK068h) | 2:49 | 2024-05-24 | 2024-07-27 |

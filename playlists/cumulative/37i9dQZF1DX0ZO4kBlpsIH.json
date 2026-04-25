@@ -1813,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "L'art de vivre",
+        "url": "https://open.spotify.com/album/5gu9L47CH0dWOgMRLqhx0K"
+      },
+      "artists": [
+        {
+          "name": "Notes de Nuit",
+          "url": "https://open.spotify.com/artist/5tLk5smZqsZZ4mgpmBR3pS"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109072,
+      "name": "L'art de vivre",
+      "url": "https://open.spotify.com/track/6UIVcB8BUGK9RxMCAmtH6g"
+    },
+    {
+      "album": {
         "name": "Modern Times",
         "url": "https://open.spotify.com/album/3zaWugXmF0PWpCPekDE71c"
       },
@@ -1882,6 +1900,24 @@
       "duration_ms": 210938,
       "name": "L'\u00e9chelle aux nuages",
       "url": "https://open.spotify.com/track/0fkPOhuwdnAu6gJfMD4i0o"
+    },
+    {
+      "album": {
+        "name": "La Ballade du Pont-Neuf",
+        "url": "https://open.spotify.com/album/2xAoidOHEh0XXFS5PLnubt"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Paname",
+          "url": "https://open.spotify.com/artist/7KspfRDQwpzBe3AZ1Tk6wH"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151987,
+      "name": "La Ballade du Pont-Neuf",
+      "url": "https://open.spotify.com/track/2L4QyxS2Tp81y4n1etiXHd"
     },
     {
       "album": {
@@ -2286,6 +2322,24 @@
       "duration_ms": 197475,
       "name": "Le ma\u00e7on",
       "url": "https://open.spotify.com/track/2qMgeX8qUaxX8VYXMtLw41"
+    },
+    {
+      "album": {
+        "name": "Le Papillon",
+        "url": "https://open.spotify.com/album/4pNvRdPWKNjF0zs2KXpXwQ"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Lima",
+          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200634,
+      "name": "Le Papillon",
+      "url": "https://open.spotify.com/track/4H5FDxHvr2ir7XGQNlzVDD"
     },
     {
       "album": {
@@ -3310,6 +3364,24 @@
       "duration_ms": 199080,
       "name": "Pour Michele",
       "url": "https://open.spotify.com/track/74rD7WHLAShBWZaOoajaYZ"
+    },
+    {
+      "album": {
+        "name": "Pour Zo\u00e9",
+        "url": "https://open.spotify.com/album/2MUo9E1yT7Gcl5gXisbdXL"
+      },
+      "artists": [
+        {
+          "name": "George Laffitte",
+          "url": "https://open.spotify.com/artist/73svkXqxHEpuyC39kOuuCP"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118970,
+      "name": "Pour Zo\u00e9",
+      "url": "https://open.spotify.com/track/4781FCyphRO1IRYVbp8gNF"
     },
     {
       "album": {

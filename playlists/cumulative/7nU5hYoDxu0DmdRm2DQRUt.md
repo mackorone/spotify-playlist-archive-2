@@ -4,7 +4,7 @@
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-465 songs - 1 day 20 hr 48 min
+466 songs - 1 day 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Riding The Blade](https://open.spotify.com/track/7hSEicVTIkvItgIJ7ZKJge) | [Erik Luebs](https://open.spotify.com/artist/6WkOn4fj9anahTPdMPqTNy) | [Speicher 136](https://open.spotify.com/album/4SeJwkanohFsJhYOJKQA9B) | 8:10 | 2025-09-02 |  |
 | [RIMA](https://open.spotify.com/track/6jF1yI1LUrxXy87gnDB3Gs) | [Marco Resmann](https://open.spotify.com/artist/2fC8GMMVIAVPBX2O50Lijm), [Laatz](https://open.spotify.com/artist/2aJQxDA8xM3HW01GNxVS2V) | [Speicher 135](https://open.spotify.com/album/1SAEMKGmN5CjFaqLM2gnQc) | 5:10 | 2025-03-14 | 2026-01-15 |
 | [Rip The Keys \- Luke Slater Reassembly](https://open.spotify.com/track/4t82hhBVYPpzKdZ0K9yncz) | [Planetary Assault Systems](https://open.spotify.com/artist/7umQgFrDu3yrchEbFfJd60), [Luke Slater](https://open.spotify.com/artist/5BJa6TIqtoWm8QRRbfRmyt) | [Reassembled](https://open.spotify.com/album/5AFOov4YUeJuhSN9vdMNO8) | 6:11 | 2025-04-02 | 2026-01-15 |
+| [Rivers and Homes Retake \- Edit](https://open.spotify.com/track/27yxfXtOHaPkytNz0P2HoL) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [J.Views](https://open.spotify.com/artist/54l5FjSx6OSPe2Qv9g4LjQ) | [Rivers and Homes Retake](https://open.spotify.com/album/2E2yEEkQgFrHpYubtzTICD) | 4:25 | 2026-04-24 |  |
 | [Robson Ponte \(Jürgen Paape RP7 Remix\)](https://open.spotify.com/track/2FFlo4YWFQmileXQMmUhUX) | [Reinhard Voigt](https://open.spotify.com/artist/6ymI8iWj5p9Ezgyz3b2ICX), [Jürgen Paape](https://open.spotify.com/artist/51qSeH9HimuYMMQ7qbWGrk) | [Robson Ponte Remixe 2025](https://open.spotify.com/album/5GSb1dCxWDzqNmG6c0ysbt) | 4:54 | 2025-04-25 | 2026-03-17 |
 | [Romantic Schizophremic \- Henrik Schwarz Remix](https://open.spotify.com/track/6wq1rfTnR40WWwk9YmfLmN) | [Das SPEZIAL](https://open.spotify.com/artist/3CeCn5LjIqALOE6LJuF2Um), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R) | [Romantic Schizophremic \(Henrik Schwarz Remix\)](https://open.spotify.com/album/4jI0Jf8p2qAN2AS7q645rZ) | 7:01 | 2026-03-03 |  |
 | [Ruins](https://open.spotify.com/track/3I6by3avZz8Mq6Bj5eXZvy) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Blue Moon](https://open.spotify.com/album/2o8SU0wNo8JIUoWa8bulUj) | 5:25 | 2025-03-10 | 2026-01-15 |

@@ -1,12 +1,12 @@
 {
   "description": "Electr\u00f3nica Nacional, nuevos lanzamientos todas las semanas.\n\ud83d\udcf8 Mariano Mellino",
-  "num_followers": 32059,
+  "num_followers": 32061,
   "original_name": "(AR)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKC+OU4QqTE9VHnvHqfOio4gjK0c",
+  "snapshot_id": "AAAAAMwuiSqs+NstMeEBSjwDHukINFHH",
   "tracks": [
     {
       "added_at": "2026-04-24 03:01:03",
@@ -99,6 +99,22 @@
       "duration_ms": 230127,
       "name": "Bring the Bit Back",
       "url": "https://open.spotify.com/track/4OlR8t8CzGEWOCgJwjPSCt"
+    },
+    {
+      "added_at": "2026-04-24 14:14:30",
+      "album": {
+        "name": "Come Inside",
+        "url": "https://open.spotify.com/album/1ZGKFD6SpEcceKh66Hw22t"
+      },
+      "artists": [
+        {
+          "name": "Jay de Lys",
+          "url": "https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Come Inside",
+      "url": "https://open.spotify.com/track/3VO7bx0bxXJ8K5Rx4QVJQO"
     },
     {
       "added_at": "2026-04-24 03:01:03",
@@ -1479,22 +1495,6 @@
       "duration_ms": 460327,
       "name": "Glasgow",
       "url": "https://open.spotify.com/track/50RIEOe4hgWNmtxiHCi7Z7"
-    },
-    {
-      "added_at": "2026-04-24 03:01:03",
-      "album": {
-        "name": "VIP",
-        "url": "https://open.spotify.com/album/0FaaeP7LODf38af0yuv2Xd"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 157065,
-      "name": "VIP",
-      "url": "https://open.spotify.com/track/0LAFayAntIMUW9ymqbb2bv"
     },
     {
       "added_at": "2026-04-24 03:01:03",

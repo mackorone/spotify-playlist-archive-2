@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Crocodylus
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,615 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,612 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sand](https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Sand](https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb) | 3:24 |
 | 2 | [Mikey Echo](https://open.spotify.com/track/3TNpqZYuJ13xIUCVF4Fv5K) | [Ruby Fields](https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3) | [Small Achievements](https://open.spotify.com/album/5QaYsJDI7M2qVbsHjgaIF1) | 3:08 |
-| 3 | [Track 5](https://open.spotify.com/track/3yfr9G9ORQHGbgsfSG9cqa) | [Crocodylus](https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw) | [Limbo, Please Be Good To Me](https://open.spotify.com/album/2rtXYGytrHQqEjQs8Lt50m) | 0:00 |
+| 3 | [Hope](https://open.spotify.com/track/3yfr9G9ORQHGbgsfSG9cqa) | [Crocodylus](https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw) | [Limbo, Please Be Good To Me](https://open.spotify.com/album/2rtXYGytrHQqEjQs8Lt50m) | 3:10 |
 | 4 | [Gold Things](https://open.spotify.com/track/3wH727bYhimLg5cCL9ZCy7) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Gold Things](https://open.spotify.com/album/3udQKwBiO7fJZcQTwkJ8j5) | 3:09 |
 | 5 | [Morning Light](https://open.spotify.com/track/2MsKD5KobRXoIfpR7rH7UE) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Morning Light](https://open.spotify.com/album/4A7B5q4GruyIplkrU6anqS) | 2:38 |
 | 6 | [Song for Steven](https://open.spotify.com/track/2On3CxYt35AQhney2FCoOu) | [Sonic Reducer](https://open.spotify.com/artist/4fSqBIjaypPHHyGIkrebEL) | [Song For Steven](https://open.spotify.com/album/7s1z5Ck51Uhsegaw4R4TeD) | 4:05 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 12 | [Knots](https://open.spotify.com/track/6F7AAiq2bShJHqXjlcJzVs) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Knots](https://open.spotify.com/album/1BWGJiO5tP0HI4RK2U8Lcw) | 3:10 |
 | 13 | [halftime oranges](https://open.spotify.com/track/5Aaa6F1n8j7ZVM7JV0t1Mw) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [halftime oranges](https://open.spotify.com/album/0NAMPUg46S6mRCVZtJT40d) | 3:33 |
 | 14 | [Desire](https://open.spotify.com/track/3KqLZAsU82M4RxZYTi7nFv) | [Selve](https://open.spotify.com/artist/033lztbwXp7jXxOGHAkZOL) | [Desire](https://open.spotify.com/album/7lpY1zIZux3fkiJqMJeHc0) | 2:19 |
-| 15 | [Track 12](https://open.spotify.com/track/7DFfCiPrHqsI0Qa1qFDu33) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [GLORY \(Deluxe\)](https://open.spotify.com/album/7MIsmUZTR5rR4jYZbOGXFV) | 0:00 |
+| 15 | [GO WASTE MY TIME](https://open.spotify.com/track/7DFfCiPrHqsI0Qa1qFDu33) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [GLORY \(Deluxe\)](https://open.spotify.com/album/7MIsmUZTR5rR4jYZbOGXFV) | 2:55 |
 | 16 | [Perfect Pain](https://open.spotify.com/track/58cpluWUBHARQKwRnnfisW) | [Lucky](https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp) | [Biting Heels](https://open.spotify.com/album/3ebmGyTFXk74mBNYspqEwy) | 2:59 |
 | 17 | [All For What](https://open.spotify.com/track/7G6fgPBnfjQ4HZlT75DaNL) | [divedown](https://open.spotify.com/artist/4EPNX4M1eprCKmu0OqsWYU) | [All For What](https://open.spotify.com/album/4Yd3XiYzOw4YdopC5oPuqD) | 3:56 |
 | 18 | [So Long](https://open.spotify.com/track/7A207EWPEWztsNTFsAkuQb) | [Ghost Care](https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy) | [So Long](https://open.spotify.com/album/6ppAIeHKRhw1ioQOkNNFui) | 2:47 |

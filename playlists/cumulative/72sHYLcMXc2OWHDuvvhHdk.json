@@ -11517,6 +11517,24 @@
     },
     {
       "album": {
+        "name": "Fireworks Fall",
+        "url": "https://open.spotify.com/album/1a2GSekjvduf484J6N71yx"
+      },
+      "artists": [
+        {
+          "name": "Cormac O Caoimh",
+          "url": "https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Fireworks Fall",
+      "url": "https://open.spotify.com/track/2LmF5dQhaxFNnTpnFOn8z2"
+    },
+    {
+      "album": {
         "name": "Huddy's Hidden Haven",
         "url": "https://open.spotify.com/album/01QcjP2b8vb6l9JTR8szoC"
       },

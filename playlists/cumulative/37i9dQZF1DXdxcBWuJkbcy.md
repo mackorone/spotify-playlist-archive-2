@@ -4,7 +4,7 @@
 
 > Pumping tracks for pumping iron!
 
-983 songs - 2 day 0 hr 36 min
+984 songs - 2 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Forget You](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Forget You](https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6) | 2:27 | 2023-02-16 | 2024-01-04 |
 | [Forgive or Forget \- R3HAB Remix](https://open.spotify.com/track/6bERyJwcB3qHDZMnT6Wy9p) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Forgive or Forget \(R3HAB Remix\)](https://open.spotify.com/album/71Lj0aChSIOmDBbSiYUzPy) | 3:03 | 2021-03-07 | 2021-10-13 |
 | [Freak Like Me](https://open.spotify.com/track/6SSCet8xA8sqw7XMoKZlxQ) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Freak Like Me](https://open.spotify.com/album/2MqbhgC1F4oKlT7dF986vz) | 3:37 | 2021-03-11 | 2021-03-14 |
+| [Freaky 1](https://open.spotify.com/track/5cefCIhgIJgsG3r3LcRmwB) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Freaky 1](https://open.spotify.com/album/2iI0aQO2hrnBmMDIUvrLJS) | 3:52 | 2026-04-24 |  |
 | [Free](https://open.spotify.com/track/6s2T9kuNYNZKsG5Fa1LiDN) | [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [TOGETHER](https://open.spotify.com/album/3Ywv495LcFurJDVIdnpNmG) | 3:48 | 2021-03-08 | 2022-04-20 |
 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 | 2024-07-25 | 2025-01-11 |
 | [Free Bird \(MOONLGHT VIP Mix\)](https://open.spotify.com/track/1hkC5n77WuPBVWOOf67g14) | [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs) | [Free Bird \(MOONLGHT VIP Mix\)](https://open.spotify.com/album/0P4i5grmPkl2OP6VAT4vxe) | 2:07 | 2025-03-06 | 2025-05-16 |
@@ -775,7 +776,7 @@
 | [Smile Boy](https://open.spotify.com/track/686xawmVv1F1Ks5kJRkcVG) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Smile Boy](https://open.spotify.com/album/0GCPTSJvxI0pqUEuhOGSaS) | 2:24 | 2024-10-10 | 2024-12-06 |
 | [So Good](https://open.spotify.com/track/1g48BGyhn4C8TSm5OMiD3I) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP) | [So Good](https://open.spotify.com/album/2geLkJZbMLChbsmSBOeXEg) | 3:12 | 2021-03-14 | 2021-10-12 |
 | [So Much Beauty \(Around Us\)](https://open.spotify.com/track/1QNK97rGcsv0EuG7b6Bdey) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [So Much Beauty \(Around Us\)](https://open.spotify.com/album/21Mv7U24CtuCynPMhZGihK) | 2:34 | 2026-03-19 |  |
-| [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 | 2023-04-20 |  |
+| [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 | 2023-04-20 | 2026-04-25 |
 | [Sober](https://open.spotify.com/track/5jQxnJIy96OrUKQy8phVzh) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV) | [Sober](https://open.spotify.com/album/10nkgVSZHm8Lr5ZuoqQQ7R) | 2:00 | 2021-03-18 | 2022-04-15 |
 | [Some Say \- Felix Jaehn Remix](https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Some Say \(Felix Jaehn Remix\)](https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr) | 3:06 | 2020-08-14\* | 2022-08-05 |
 | [Somebody \- Josef Bamba Remix Radio Edit](https://open.spotify.com/track/5riuN21I50r717iOmCJ7Kr) | [Oliver Ingrosso](https://open.spotify.com/artist/2NiYFFLYWPZPKa9xPGlRVu), [Adam Avant](https://open.spotify.com/artist/4SOneLeW7iUw2iJPxuQxi1), [Josef Bamba](https://open.spotify.com/artist/1QNQUlR0uLW0ovRuVRjYir) | [Somebody \(Josef Bamba Remixes\)](https://open.spotify.com/album/73beN34Fhe9gYwaQPAWqWN) | 3:47 | 2021-03-19 | 2021-03-23 |

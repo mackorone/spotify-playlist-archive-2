@@ -681,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Anestesia",
+        "url": "https://open.spotify.com/album/1Bta845oR23nfA6VqkIVjc"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Anestesia",
+      "url": "https://open.spotify.com/track/1mjapXQHm6DapzTlGNKdBi"
+    },
+    {
+      "album": {
         "name": "Angel On My Shoulder",
         "url": "https://open.spotify.com/album/5rJ5nSlS3ARksBxsaysCQL"
       },
@@ -3932,7 +3950,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 219250,
       "name": "Freefall",
       "url": "https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku"
@@ -8830,7 +8848,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 200068,
       "name": "Now The Love Is Gone",
       "url": "https://open.spotify.com/track/1GGIctdSZVQ8fPSMZRFSGr"
@@ -12964,6 +12982,28 @@
       "duration_ms": 171360,
       "name": "Wasted - Yuto. Remix",
       "url": "https://open.spotify.com/track/5h9FYgx3M1Gn23PeDcMRSb"
+    },
+    {
+      "album": {
+        "name": "Watch my heart go...",
+        "url": "https://open.spotify.com/album/3W9EVcwgp85hBkFu2KEGX8"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Orem",
+          "url": "https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Watch my heart go...",
+      "url": "https://open.spotify.com/track/0zY0QsvY0alrPpGgdTKQhp"
     },
     {
       "album": {

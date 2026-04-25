@@ -3561,6 +3561,24 @@
     },
     {
       "album": {
+        "name": "GLORY (Deluxe)",
+        "url": "https://open.spotify.com/album/7MIsmUZTR5rR4jYZbOGXFV"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175784,
+      "name": "GO WASTE MY TIME",
+      "url": "https://open.spotify.com/track/7DFfCiPrHqsI0Qa1qFDu33"
+    },
+    {
+      "album": {
         "name": "God Owes Me Money",
         "url": "https://open.spotify.com/album/7tbEM7bL2urcY7uRoUyA78"
       },
@@ -4312,6 +4330,24 @@
       "duration_ms": 167276,
       "name": "HONEY (ARE U COMING?)",
       "url": "https://open.spotify.com/track/7GJRZmyEpMIou1RqG0ebd8"
+    },
+    {
+      "album": {
+        "name": "Limbo, Please Be Good To Me",
+        "url": "https://open.spotify.com/album/2rtXYGytrHQqEjQs8Lt50m"
+      },
+      "artists": [
+        {
+          "name": "Crocodylus",
+          "url": "https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190542,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/3yfr9G9ORQHGbgsfSG9cqa"
     },
     {
       "album": {
@@ -9924,42 +9960,6 @@
       "duration_ms": 208510,
       "name": "tower of memories",
       "url": "https://open.spotify.com/track/0qhVpwKivK3u4OMLb7Z9Ah"
-    },
-    {
-      "album": {
-        "name": "GLORY (Deluxe)",
-        "url": "https://open.spotify.com/album/7MIsmUZTR5rR4jYZbOGXFV"
-      },
-      "artists": [
-        {
-          "name": "Teen Jesus and the Jean Teasers",
-          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 12",
-      "url": "https://open.spotify.com/track/7DFfCiPrHqsI0Qa1qFDu33"
-    },
-    {
-      "album": {
-        "name": "Limbo, Please Be Good To Me",
-        "url": "https://open.spotify.com/album/2rtXYGytrHQqEjQs8Lt50m"
-      },
-      "artists": [
-        {
-          "name": "Crocodylus",
-          "url": "https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/3yfr9G9ORQHGbgsfSG9cqa"
     },
     {
       "album": {

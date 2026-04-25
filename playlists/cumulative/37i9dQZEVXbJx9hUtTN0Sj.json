@@ -10637,6 +10637,24 @@
     },
     {
       "album": {
+        "name": "Kleinkunst",
+        "url": "https://open.spotify.com/album/0dVJ6kqv5wj2qDUobhMdAe"
+      },
+      "artists": [
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178570,
+      "name": "Coachella",
+      "url": "https://open.spotify.com/track/7Cq6GttNn4d8en42tFwLKR"
+    },
+    {
+      "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
       },
@@ -15998,6 +16016,24 @@
       "duration_ms": 239666,
       "name": "Everybody Loves The Sunshine",
       "url": "https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso"
+    },
+    {
+      "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248902,
+      "name": "EVERYTHING HALLELUJAH",
+      "url": "https://open.spotify.com/track/5AwNJ5mr7mHyIhlKnQICEJ"
     },
     {
       "album": {
@@ -29714,7 +29750,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 139875,
       "name": "LOSE YOUR MIND",
       "url": "https://open.spotify.com/track/4MonCT2legJJ0cTLsXhDfe"
@@ -42254,7 +42290,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 199600,
       "name": "RICHMAN",
       "url": "https://open.spotify.com/track/3JfbMm4LfBmm96mkKhyG6I"
@@ -42366,7 +42402,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 204068,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
@@ -42732,7 +42768,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -42750,7 +42786,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -46200,10 +46236,28 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 92527,
       "name": "Sortez les mouchoirs official",
       "url": "https://open.spotify.com/track/1SmEpfoEOZ0Tmf5czicCxQ"
+    },
+    {
+      "album": {
+        "name": "Sortez les mouchoirs official",
+        "url": "https://open.spotify.com/album/1kKD90ZR0exq4c2EYbpChG"
+      },
+      "artists": [
+        {
+          "name": "Ayvron Off",
+          "url": "https://open.spotify.com/artist/1gGHAtON16SoSspbJHmAbO"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92624,
+      "name": "Sortez les mouchoirs official",
+      "url": "https://open.spotify.com/track/1wc2It4JhVI3PExgk1KRwZ"
     },
     {
       "album": {
@@ -56434,7 +56488,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 201908,
       "name": "worry - Slowed",
       "url": "https://open.spotify.com/track/5zE2NfNO04DYlvdUrp4tQk"

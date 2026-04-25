@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Detonautas",
+  "description": "100% rock brasileiro. Foto: Fresno",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 211316,
       "name": "Autodefesa",
       "url": "https://open.spotify.com/track/2avUPgMfgnPOj54zsIrrOK"
@@ -2039,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "Circo dos Horrores",
+        "url": "https://open.spotify.com/album/3JVYhzCchZFfX0g9vA73qk"
+      },
+      "artists": [
+        {
+          "name": "Playmoboys",
+          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159051,
+      "name": "Circo dos Horrores",
+      "url": "https://open.spotify.com/track/2z855f6w15tkhaVpQcqgeM"
+    },
+    {
+      "album": {
         "name": "Clareia Noite",
         "url": "https://open.spotify.com/album/3TybTngzxvufa0YQmvJVBL"
       },
@@ -2097,6 +2115,24 @@
     },
     {
       "album": {
+        "name": "Cola (Ao Vivo no Circo Voador)",
+        "url": "https://open.spotify.com/album/4LzoC30pP6yFjavPrULNtE"
+      },
+      "artists": [
+        {
+          "name": "Black Pantera",
+          "url": "https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126448,
+      "name": "Cola - Ao Vivo no Circo Voador",
+      "url": "https://open.spotify.com/track/3RIaUfQVP9ibjO8aQM3Dar"
+    },
+    {
+      "album": {
         "name": "Coliseu (Video Mix)",
         "url": "https://open.spotify.com/album/3vcJVRGUpB5slAtA3A3cKy"
       },
@@ -2120,6 +2156,24 @@
       "duration_ms": 294951,
       "name": "Coliseu (Video Mix)",
       "url": "https://open.spotify.com/track/3uND74WMJKkkHVrtCvSrb5"
+    },
+    {
+      "album": {
+        "name": "Colosso",
+        "url": "https://open.spotify.com/album/1ht6qLZZZFxUao4gjP8ZN8"
+      },
+      "artists": [
+        {
+          "name": "Papangu",
+          "url": "https://open.spotify.com/artist/0Ubo1fKmsKmf8A8D2kh16r"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395213,
+      "name": "Colosso",
+      "url": "https://open.spotify.com/track/1KdlRw0cywui4V05yaDsxg"
     },
     {
       "album": {
@@ -2398,7 +2452,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 168500,
       "name": "Culpa",
       "url": "https://open.spotify.com/track/2d6JtFeZ8UoJ0J7IM8Ejjb"
@@ -2438,7 +2492,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 187714,
       "name": "c\u00e2mera lenta",
       "url": "https://open.spotify.com/track/7J2k4Z4orcvvABFHncb5p6"
@@ -3489,6 +3543,28 @@
     },
     {
       "album": {
+        "name": "Estilha\u00e7o",
+        "url": "https://open.spotify.com/album/6XTzJFIffJxyzmDATDHx1K"
+      },
+      "artists": [
+        {
+          "name": "Procurando Kalu",
+          "url": "https://open.spotify.com/artist/36jrB7eq6KlOLWJQ7Lp0Yx"
+        },
+        {
+          "name": "BUHR",
+          "url": "https://open.spotify.com/artist/02aXPl7xsSoWlV77cUXtbm"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302333,
+      "name": "Estilha\u00e7o",
+      "url": "https://open.spotify.com/track/4yWWKYMnxHZQJEPh7RPcLQ"
+    },
+    {
+      "album": {
         "name": "Et\u00e9reo",
         "url": "https://open.spotify.com/album/4cC2ZLjqDWU4MFI1vP9ca5"
       },
@@ -3500,7 +3576,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 204032,
       "name": "Et\u00e9reo",
       "url": "https://open.spotify.com/track/5GN0aHPMWtoIVM8yqisEie"
@@ -5209,6 +5285,24 @@
     },
     {
       "album": {
+        "name": "Loka",
+        "url": "https://open.spotify.com/album/36C4Fni5sI7h3NF3WWcbQz"
+      },
+      "artists": [
+        {
+          "name": "Luana Camarah",
+          "url": "https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206451,
+      "name": "Loka",
+      "url": "https://open.spotify.com/track/39PbGKDVJ1rYgaLnaTuBz1"
+    },
+    {
+      "album": {
         "name": "Loko Loko",
         "url": "https://open.spotify.com/album/6EspF4BzCcTvYeSJvgJFjY"
       },
@@ -5842,7 +5936,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 172250,
       "name": "Medo",
       "url": "https://open.spotify.com/track/757ngUc1wC8VWyEMzivOv9"
@@ -7395,6 +7489,24 @@
     },
     {
       "album": {
+        "name": "O Sal da Terra",
+        "url": "https://open.spotify.com/album/7D9zor8ZneQBDcGVrquD0h"
+      },
+      "artists": [
+        {
+          "name": "Paulo Miklos",
+          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191100,
+      "name": "O Sal da Terra",
+      "url": "https://open.spotify.com/track/47OlYFYl49Sr1rSFagwpyY"
+    },
+    {
+      "album": {
         "name": "O Segredo \u00c9 O Medo",
         "url": "https://open.spotify.com/album/0BcH4ksYffsVp98S3olwbT"
       },
@@ -8111,6 +8223,24 @@
     },
     {
       "album": {
+        "name": "Artificial Intelligence",
+        "url": "https://open.spotify.com/album/1JikgcE16texZRuhRy5Aht"
+      },
+      "artists": [
+        {
+          "name": "Nasi",
+          "url": "https://open.spotify.com/artist/7HJkYWzMCiXIJEHserfc0Z"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "Perigoso",
+      "url": "https://open.spotify.com/track/2S5RlUF5a1A6dLOJdWzvrr"
+    },
+    {
+      "album": {
         "name": "Permita-Se",
         "url": "https://open.spotify.com/album/47SsyEFkXO3mBEYHPkmsl2"
       },
@@ -8493,6 +8623,28 @@
     },
     {
       "album": {
+        "name": "Pressa",
+        "url": "https://open.spotify.com/album/5HqSXsBNn1o7WDs1MPZM9A"
+      },
+      "artists": [
+        {
+          "name": "Lupa",
+          "url": "https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902"
+        },
+        {
+          "name": "The M\u00f6nic",
+          "url": "https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158121,
+      "name": "Pressa",
+      "url": "https://open.spotify.com/track/6SUcH8xNGo9P4pop5WuWXG"
+    },
+    {
+      "album": {
         "name": "Primeiros Erros",
         "url": "https://open.spotify.com/album/4Zjcmh7q0ShqZPHtAMcFDM"
       },
@@ -8700,7 +8852,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 217453,
       "name": "Quando Eu Me Encontrar",
       "url": "https://open.spotify.com/track/3eE4G1WkVlXvzzOMoMPFVV"
@@ -10351,6 +10503,24 @@
     },
     {
       "album": {
+        "name": "Carta de Adeus",
+        "url": "https://open.spotify.com/album/33vakWPP6Ze0sxf8A5kcss"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254832,
+      "name": "Tentar De Novo e De Novo",
+      "url": "https://open.spotify.com/track/4x7OZJzLzYfPCir3PvND29"
+    },
+    {
+      "album": {
         "name": "Teoria",
         "url": "https://open.spotify.com/album/3QrGBgooYRaA0XYQQJH1Yf"
       },
@@ -10532,7 +10702,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 131986,
       "name": "Tonto, Mole, Trouxa (e meio devagar)",
       "url": "https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P"
@@ -10738,7 +10908,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 236563,
       "name": "Tudo o Que Restou",
       "url": "https://open.spotify.com/track/5TsTThSny1hH1Tq2iDWzwc"
@@ -11464,7 +11634,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 165097,
       "name": "Vol\u00fapia",
       "url": "https://open.spotify.com/track/4IImC7EaEODHkGsfuhM78P"

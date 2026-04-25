@@ -4265,6 +4265,24 @@
     },
     {
       "album": {
+        "name": "Locked out of Heaven",
+        "url": "https://open.spotify.com/album/3ATeimpwuJiuiQaqCmCaOQ"
+      },
+      "artists": [
+        {
+          "name": "Ted Morley",
+          "url": "https://open.spotify.com/artist/7jH3CdvGPD8DW5AyiRKSiF"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Locked Out of Heaven",
+      "url": "https://open.spotify.com/track/06LbL7MSiUvMLvluTdfbsA"
+    },
+    {
+      "album": {
         "name": "Love Is All Around",
         "url": "https://open.spotify.com/album/07yQmykXzjBt0hghIZVPyF"
       },

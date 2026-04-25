@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV90ZWj21ygB.md) - [plain]
 
 > Relax to the roaring sound of crashing waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,147 likes - 199 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,284 likes - 199 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV90ZWj21ygB.md) - [plain]
 | 91 | [Wellenspiel](https://open.spotify.com/track/7JKfoo5a2bETRkjTxH7uJ1) | [Relaxing Med Waves](https://open.spotify.com/artist/2aqWuM6vBNflw6fqeVv4SU) | [Wellenspiel](https://open.spotify.com/album/27BZxt3ZvJaOIX1rWyEhr4) | 3:16 |
 | 92 | [Slow Coast](https://open.spotify.com/track/2CMUq4tgUWERePRV84NBMp) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Cold Water Warmth](https://open.spotify.com/album/6wWoRDBPOJJdUFI2hgcM7K) | 2:44 |
 | 93 | [Sailing](https://open.spotify.com/track/1v6QpNfnrbVmJqPGZ1TsaV) | [Deep Sleep FX](https://open.spotify.com/artist/52ZkV6bSNDshzq9BGTudae) | [Deep Sleep FX](https://open.spotify.com/album/1y3kDuu8NrB0O3wM9ge5uj) | 3:05 |
-| 94 | [Foggy Beach](https://open.spotify.com/track/4CiUUzSjTJ6zwMVQfALO9T) | [Recording Nature](https://open.spotify.com/artist/2x6v7aNgZjdgT9zyua8iCz) | [Mindful Waves](https://open.spotify.com/album/2Cfqa2u2YSwX0YOzCdXPnk) | 2:52 |
+| 94 | [Foggy Beach](https://open.spotify.com/track/4CiUUzSjTJ6zwMVQfALO9T) | [Recording Nature](https://open.spotify.com/artist/4TYMKtxvKr9lqWOIkzp5Jw) | [Mindful Waves](https://open.spotify.com/album/2Cfqa2u2YSwX0YOzCdXPnk) | 2:52 |
 | 95 | [Waves Crashing on Rocks](https://open.spotify.com/track/1orDQvwwaBsGbsxMNeiWZa) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Peaceful Rivers, Rains, Waves](https://open.spotify.com/album/4G0FQMpqDIYcEiXL2X4AVv) | 2:44 |
 | 96 | [Sunrise At The Ocean Mermaid](https://open.spotify.com/track/51bdGaEYbw9o5GTnVw6c4A) | [In The Ocean \(Sound FX\)](https://open.spotify.com/artist/6gKlW4QncpQHg6n6eMUNxF) | [Wave Sounds From Scandinavia Vol\. 2](https://open.spotify.com/album/5YbKpZftWuKq5JUPEZC9Le) | 2:17 |
 | 97 | [Waves In A Small Cove 2](https://open.spotify.com/track/0P9kqZymGXK95D6TIbccr7) | [Dreamstatician](https://open.spotify.com/artist/2pq42tsRweYt1misRupTgR) | [Waves In A Small Cove](https://open.spotify.com/album/0awUNlc3YJ8KrTV9pbYmpx) | 2:02 |

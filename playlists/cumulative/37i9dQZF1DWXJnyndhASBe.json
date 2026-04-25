@@ -12463,6 +12463,24 @@
     },
     {
       "album": {
+        "name": "KING SENTO PROLOG",
+        "url": "https://open.spotify.com/album/7LGckMbpmQA2chYILL6zSW"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166299,
+      "name": "MR. OFFICER",
+      "url": "https://open.spotify.com/track/3UoUYRgymymRCJGI6CPV0t"
+    },
+    {
+      "album": {
         "name": "Mroczna Komnata",
         "url": "https://open.spotify.com/album/6dchetja9KZVQmEgHSxN6A"
       },
@@ -20318,24 +20336,6 @@
       "duration_ms": 170066,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/5FnD4h9hEb6ii4zPBLGaGb"
-    },
-    {
-      "album": {
-        "name": "KING SENTO PROLOG",
-        "url": "https://open.spotify.com/album/7LGckMbpmQA2chYILL6zSW"
-      },
-      "artists": [
-        {
-          "name": "Sentino",
-          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/3UoUYRgymymRCJGI6CPV0t"
     },
     {
       "album": {

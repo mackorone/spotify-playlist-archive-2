@@ -637,6 +637,28 @@
     },
     {
       "album": {
+        "name": "Naked Kings",
+        "url": "https://open.spotify.com/album/5IBEszYRv4q4Ej1PVIRdSh"
+      },
+      "artists": [
+        {
+          "name": "Tarakany!",
+          "url": "https://open.spotify.com/artist/3OZMcYBFNSr0ztFd82aJK9"
+        },
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216927,
+      "name": "Schlechte T\u00e4nzer",
+      "url": "https://open.spotify.com/track/4S8YNk4NRGZDfxGqWSA4H5"
+    },
+    {
+      "album": {
         "name": "El Profeta Del Nopal",
         "url": "https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt"
       },

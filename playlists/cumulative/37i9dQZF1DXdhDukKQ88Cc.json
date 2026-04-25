@@ -8227,6 +8227,28 @@
     },
     {
       "album": {
+        "name": "DOUBLEPEACE",
+        "url": "https://open.spotify.com/album/5wtOAaJF1O5d7faLR2gUcZ"
+      },
+      "artists": [
+        {
+          "name": "Fed",
+          "url": "https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr"
+        },
+        {
+          "name": "Phil",
+          "url": "https://open.spotify.com/artist/3FDHZRQQME4R1BFXqGugLp"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185700,
+      "name": "Sig Det",
+      "url": "https://open.spotify.com/track/3AEuNKucsjnPGvgOQRKMMV"
+    },
+    {
+      "album": {
         "name": "Sig Du Vil",
         "url": "https://open.spotify.com/album/6Nyi6KAIjoSeZFSOxiWjdM"
       },
@@ -9164,24 +9186,6 @@
       "duration_ms": 141833,
       "name": "Topform (feat. Lamin)",
       "url": "https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH"
-    },
-    {
-      "album": {
-        "name": "DOUBLEPEACE",
-        "url": "https://open.spotify.com/album/5wtOAaJF1O5d7faLR2gUcZ"
-      },
-      "artists": [
-        {
-          "name": "Fed",
-          "url": "https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/3AEuNKucsjnPGvgOQRKMMV"
     },
     {
       "album": {

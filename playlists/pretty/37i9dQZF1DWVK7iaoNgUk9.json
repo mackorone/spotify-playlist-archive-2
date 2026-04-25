@@ -1,12 +1,12 @@
 {
   "description": "se for pra sofrer, que seja com trilha sonora",
-  "num_followers": 509169,
+  "num_followers": 509138,
   "original_name": "Cora\u00e7\u00e3o Partido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD/Gyy/fhJSPwiePE9ydpVGNQO3c",
+  "snapshot_id": "AAAAAN71px2yMR9UjTWrl4hNfFC57tqZ",
   "tracks": [
     {
       "added_at": "2025-11-28 20:38:53",
@@ -187,22 +187,6 @@
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
-    },
-    {
-      "added_at": "2025-11-28 20:38:53",
-      "album": {
-        "name": "Romantic Homicide",
-        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 132630,
-      "name": "Romantic Homicide",
-      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
       "added_at": "2025-11-28 20:38:53",
@@ -871,22 +855,6 @@
     {
       "added_at": "2025-11-28 20:38:53",
       "album": {
-        "name": "There Goes My Baby",
-        "url": "https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "There Goes My Baby",
-      "url": "https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext"
-    },
-    {
-      "added_at": "2025-11-28 20:38:53",
-      "album": {
         "name": "lie to me",
         "url": "https://open.spotify.com/album/4BAEubwvC2r7bPRKlmRxUO"
       },
@@ -999,6 +967,38 @@
       "duration_ms": 184160,
       "name": "DEPOIS DO UNIVERSO",
       "url": "https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o"
+    },
+    {
+      "added_at": "2025-11-28 20:38:53",
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 277626,
+      "name": "Broken-Hearted Girl",
+      "url": "https://open.spotify.com/track/31acMiV67UgKn1ScFChFxo"
+    },
+    {
+      "added_at": "2025-11-28 20:38:53",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7paOpVZ35xmBn9ijROCG5Q"
+      },
+      "artists": [
+        {
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        }
+      ],
+      "duration_ms": 239373,
+      "name": "One Last Breath",
+      "url": "https://open.spotify.com/track/3F1qkJx3flPUWadfFQcOEj"
     }
   ],
   "unique_name": "Cora\u00e7\u00e3o Partido",

@@ -4,7 +4,7 @@
 
 > Homegrown, emerging🕺 cover: Charlie Jeer
 
-1,140 songs - 2 day 10 hr 33 min
+1,140 songs - 2 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1065,7 +1065,6 @@
 | [Touch You](https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [What I made with Joe](https://open.spotify.com/album/2D1gXzXVm3wbcjf3sEQjwV) | 2:53 | 2025-05-22 | 2025-06-27 |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-02-07 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 | 2025-07-25 |
-| [Track 4](https://open.spotify.com/track/4niKxGPpF9LIuNxqbk1RpZ) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Thank God](https://open.spotify.com/album/7mMorOuBgW7TRKKMAgVO2f) | 0:00 | 2026-04-23 |  |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-04 | 2024-08-31 |
 | [Trophy](https://open.spotify.com/track/54r9LQzaIxObTwYrD6u5pk) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Trophy](https://open.spotify.com/album/768Zf5FplAHg9Izsq1KB9Z) | 3:08 | 2026-01-02 | 2026-02-13 |
 | [Troy](https://open.spotify.com/track/2KVj7oGzV2LFjxO72z1FX1) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx) | [The Songs We Wrote In Norfolk](https://open.spotify.com/album/6MEFQmsSR3YOQXzYnDMw6T) | 2:05 | 2026-01-23 | 2026-03-06 |
@@ -1112,6 +1111,7 @@
 | [WHITE TIGER](https://open.spotify.com/track/1XeigXO4X2lJUTBbe3dHIn) | [Nova May](https://open.spotify.com/artist/4XWuvGGim0dmoXngwZmGGs) | [ROCKR ROOM](https://open.spotify.com/album/0rH1ZkVSYhO1zEiok2qYJ5) | 2:56 | 2025-07-24 | 2025-08-22 |
 | [Who I've Touched](https://open.spotify.com/track/3LPhF2vMHaM7wjzloijjlV) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Who I've Touched](https://open.spotify.com/album/0DV8MNiQsNocjUkZDD4Jaw) | 4:00 | 2025-03-14 | 2025-04-04 |
 | [Who Was I To Want You?](https://open.spotify.com/track/4nxj9eOuViWebmLnJWZBk5) | [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [Who Was I To Want You?](https://open.spotify.com/album/4qhqDZJR96FgMGQMZ5mNls) | 3:17 | 2025-08-07 | 2025-09-12 |
+| [Who You Love](https://open.spotify.com/track/4niKxGPpF9LIuNxqbk1RpZ) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Thank God](https://open.spotify.com/album/7mMorOuBgW7TRKKMAgVO2f) | 3:05 | 2026-04-23 |  |
 | [Who's That Girl?](https://open.spotify.com/track/1RpalsoRpOhj8sGHQcvgeV) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Who's That Girl?](https://open.spotify.com/album/4bhFCWFEcXb1iXNzPy56Y2) | 2:53 | 2026-02-13 | 2026-03-13 |
 | [Who’s Making You Feel It](https://open.spotify.com/track/3fogOLGOLBcvpDD5e0ukPa) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Who’s Making You Feel It](https://open.spotify.com/album/5aZnyZi7nvqMtZSkMYMlR6) | 3:36 | 2025-01-17 | 2025-02-14 |
 | [Wild Horse](https://open.spotify.com/track/5Mt7Sm7sadazfiQxSS2BzP) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Wild Horse](https://open.spotify.com/album/48Zgv29x19062n1wdBgnSp) | 3:13 | 2026-02-20 | 2026-04-03 |

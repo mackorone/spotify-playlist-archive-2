@@ -4,7 +4,7 @@
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Hamzay
 
-1,264 songs - 2 day 19 hr 23 min
+1,267 songs - 2 day 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Aukaat](https://open.spotify.com/track/3NGh9ohNbrPkzSEETRA23l) | [Butt Brothers](https://open.spotify.com/artist/6KaZO6OFp295joGZ74oY5U) | [Aukaat](https://open.spotify.com/album/4dsGMmp0qx17luUu0yhVog) | 3:16 | 2025-08-01 | 2025-08-26 |
 | [Autumn Days](https://open.spotify.com/track/1TbMFf5eSKK6YdEQQ2nCht) | [Indenial](https://open.spotify.com/artist/0Kkzb2tJCXTUuVMkI3MyJC) | [Autumn Days](https://open.spotify.com/album/22STbxNslKvfJvjsRVlVhD) | 2:23 | 2022-11-30 | 2023-01-11 |
 | [Awara Sa](https://open.spotify.com/track/3wNz7gnVOJmUOFmd56WNiV) | [Nasir Hameed](https://open.spotify.com/artist/2eyF3W3ivD7vpcOlZea9OW), [Zaain](https://open.spotify.com/artist/7rNw0ou0vrSbdvRVOOaGGQ), [Anilka Gill](https://open.spotify.com/artist/58kbcbaAy7sBQlPtaIm3R7) | [Awara Sa](https://open.spotify.com/album/1BPQWMnB1de2Fy3rNYDlC9) | 2:51 | 2024-12-04 | 2025-05-31 |
+| [Away](https://open.spotify.com/track/3YS6dUUkrO0OoH9VWeLVIj) | [Basit Rauf](https://open.spotify.com/artist/6nkJgX8WKe7ZHv845pTZdP), [Amaizy](https://open.spotify.com/artist/0QozOd13aqX9kGziUWKzSK), [Shamikh](https://open.spotify.com/artist/5OX1k6sfpyVSusR3Ur0tHH) | [Away](https://open.spotify.com/album/4v4GyAvriTrnlWSveU3jew) | 2:58 | 2026-04-24 |  |
 | [Awazein](https://open.spotify.com/track/21FsCvvfIcIJ2Ro0FaZVhB) | [Amna Askari](https://open.spotify.com/artist/1APOwzQ3mP56pRkFIueZbh) | [Awazein](https://open.spotify.com/album/6ba06qKiokFmgg7zg6Sz3o) | 3:07 | 2024-10-23 | 2024-12-05 |
 | [Azlaan](https://open.spotify.com/track/3uzPshUU51enjJij6kRFdm) | [JKD](https://open.spotify.com/artist/59gC5IJNSC7Snc2e6Qb8NI) | [Azlaan](https://open.spotify.com/album/6iSWnqrix1FjV7dRVYNYTM) | 2:29 | 2022-11-17 | 2023-01-26 |
 | [Azmaish](https://open.spotify.com/track/6RokAww44FrQZLzO9cvT4M) | [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [superdupersultan](https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN) | [Azmaish](https://open.spotify.com/album/0xBry5VG4SBomqPRpGTdf3) | 3:24 | 2023-06-09 | 2023-08-19 |
@@ -710,6 +711,7 @@
 | [Manzil \| Streak Studio Season 1.](https://open.spotify.com/track/6bhneVKeW1dpsEZLmoXBD7) | [Adeel](https://open.spotify.com/artist/5UrNmh6stqn6GkzDfjxeVp), [Ali Rizwan](https://open.spotify.com/artist/22fpm2piNhggsLxUhn0NwK) | [Manzil \| Streak Studio Season 1.](https://open.spotify.com/album/10DP5cOqYlOj7GHki25Pyb) | 2:59 | 2024-01-04 | 2024-02-24 |
 | [Maqta](https://open.spotify.com/track/5bcEwj2lEwmnXWy7sZH90I) | [Fake Shamans](https://open.spotify.com/artist/3EI9a3jBhsXHQPFYZXJzQi), [Rakae Jamil](https://open.spotify.com/artist/68ruZNGwS6xFD7IOJYUZIa) | [Maqta](https://open.spotify.com/album/4Cg65tO32EwEIKYqwArhMW) | 5:24 | 2022-11-17 | 2022-12-01 |
 | [Mar Jao](https://open.spotify.com/track/0W9qg2NJ5YJUBXhUvrictN) | [Sameen Khawaja](https://open.spotify.com/artist/3N3IttjqDCutknUWWA1q9B) | [Mar Jao](https://open.spotify.com/album/4lT5QtGdfLacta5BPOPAiL) | 3:03 | 2023-07-01 | 2023-07-15 |
+| [Marham](https://open.spotify.com/track/5sPsK5VBg1OnMY0VF4QRhG) | [Ahmad Hassan](https://open.spotify.com/artist/5xtM0QJpr8K2obgiLBzeh7), [Hamza Ali](https://open.spotify.com/artist/5kHbX0Ne0niNDN6QItgCKL) | [Marham](https://open.spotify.com/album/6f5RH93MhGWjQNGIA95Qsv) | 3:29 | 2026-04-24 |  |
 | [Marjaavaan](https://open.spotify.com/track/5cTnVJ5TSEGPML6AWDCvDu) | [Tehseen Chauhaan](https://open.spotify.com/artist/2wfkiFFmxAYAb9v0hJ6vj2) | [Marjaavaan](https://open.spotify.com/album/0D58BlRZiVNWXnXg0cfo97) | 4:03 | 2023-07-01 | 2023-07-15 |
 | [Markhor](https://open.spotify.com/track/443pcJVq5N0CIQBnwFeE4n) | [M I R Z A](https://open.spotify.com/artist/2GjdfcJM9zwBHZZY6DBhTJ), [TALKsick](https://open.spotify.com/artist/6B035jH37tg6wkDq8WHCvg), [Hashim Ishaq](https://open.spotify.com/artist/3K6IjvhAJpWRUehJ9mU0Ot), [Kashan Seth](https://open.spotify.com/artist/2C55zvH7JxtG5gKlRZlEuA) | [Markhor](https://open.spotify.com/album/3kYk6RqiOUnBArHw8Jmxhz) | 3:28 | 2023-02-13 | 2023-03-22 |
 | [Mast Malang Apni He Dhun Mein](https://open.spotify.com/track/6rqGZoZ0cpAbJXFneM9pCs) | [Tamur](https://open.spotify.com/artist/3apFGVfm0YI1SVk0hAVU95) | [Mast Malang Apni He Dhun Mein](https://open.spotify.com/album/4psJ016OphxdHS5m9PQfZd) | 5:40 | 2025-10-17 | 2025-12-06 |
@@ -766,6 +768,7 @@
 | [Mutual](https://open.spotify.com/track/6OIHXz9wJ4i1lfHqDDydUe) | [Baahroze Khan](https://open.spotify.com/artist/3IfzoE3qAdvZav4YyT0GpJ) | [Mutual](https://open.spotify.com/album/0ZuFfW6ZmqAtHijoN21Dpc) | 2:53 | 2022-10-26 | 2022-11-18 |
 | [Mutyare](https://open.spotify.com/track/7Fi1hrLmMNf9FJgymzGNH6) | [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF) | [Mutyare](https://open.spotify.com/album/71HDMh4ioOxD7U4troH2ic) | 2:45 | 2026-04-03 |  |
 | [My Girl](https://open.spotify.com/track/78rrmVB3rXNsIxgDv0gR4E) | [Indenial](https://open.spotify.com/artist/0Kkzb2tJCXTUuVMkI3MyJC) | [My Girl](https://open.spotify.com/album/0OyYh0ucDJfqL972g3YT3a) | 2:58 | 2022-10-26 | 2022-11-18 |
+| [My Side](https://open.spotify.com/track/18MamckgtZPW6yhvOUNiIw) | [Abdullah Khan](https://open.spotify.com/artist/2e8YlII8TbOMh0JJ6OstPr) | [My Side](https://open.spotify.com/album/5cMdZgHwTHQ9r4t9mYSdp5) | 2:18 | 2026-04-24 |  |
 | [N\. M\. D](https://open.spotify.com/track/47AjJrGrOCaqxXbEIMWNq9) | [Hashim Ishaq](https://open.spotify.com/artist/3K6IjvhAJpWRUehJ9mU0Ot) | [N\. M\. D](https://open.spotify.com/album/2NGJttt7WlmSCWNRedrUIW) | 2:50 | 2022-08-27 | 2022-09-24 |
 | [Na Aana](https://open.spotify.com/track/34ZIXyGEOVVS1cw6hxttsb) | [Hareem Rashid](https://open.spotify.com/artist/4tp7OYDn1UdgWEnr3AJiFi) | [Na Aana](https://open.spotify.com/album/1ROznC0oiHzBRnCzJWPyzI) | 3:17 | 2024-10-24 | 2024-12-05 |
 | [NA JANA](https://open.spotify.com/track/37HiL1zxTpmEN6ZxFTBJ8B) | [RAHAN](https://open.spotify.com/artist/2YbriMqyISSrwbqrXhqj1Y) | [NA JANA](https://open.spotify.com/album/3UYfBf6ucBCKu2G7L8Pwxa) | 2:32 | 2023-02-13 | 2023-02-22 |

@@ -4,7 +4,7 @@
 
 > The latest, greatest cinematic soundtracks from the big and small screen.
 
-879 songs - 1 day 17 hr 42 min
+881 songs - 1 day 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Get Moving](https://open.spotify.com/track/3FUSeSzb6vqsdHBsDOC1g7) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr), [Breton Vivian](https://open.spotify.com/artist/7vPwWTnoNQN2E1nAHclTll) | [Marshals \(Original Television Soundtrack\) Season 1](https://open.spotify.com/album/37kXRu9ScfOje8zAIyyuFe) | 1:52 | 2026-03-06 |  |
 | [Glory Before Death](https://open.spotify.com/track/1x1mEXEZr7P3bGiwiOPA07) | [Chris Roe](https://open.spotify.com/artist/1QNHowcYOnb13bswnWqeff) | [The Salt Path \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3lpZNlg9bWSPv58yRt001Y) | 2:35 | 2025-05-30 | 2025-11-29 |
 | [God's Business](https://open.spotify.com/track/0rHHmSo1z7ze9NM0u9LWjI) | [Sion Trefor](https://open.spotify.com/artist/2a5yyDrTuWCLGXOIGLpnBt) | [How To Get To Heaven From Belfast \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/66LQDThXv6sqONyHFTJkNy) | 1:01 | 2026-02-13 |  |
+| [God's Forgiveness](https://open.spotify.com/track/0dbVqOhGii8QgVpOoQoapm) | [Anne Nikitin](https://open.spotify.com/artist/1ZA3IynpePtaBeajOMrFfr) | [Unchosen \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5ASUVSwgOJmIfWT2fUW9JH) | 2:42 | 2026-04-24 |  |
 | [Golden Acorn](https://open.spotify.com/track/2GyzBCGAsCAwp5K04bbirt) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [In the Blink of an Eye \(Original Soundtrack\)](https://open.spotify.com/album/4hMoTrmJlZnxGUAdVlxzih) | 7:25 | 2026-02-27 |  |
 | [Good Morning](https://open.spotify.com/track/5jThkGVaVpVmGWdVYCzCsI) | [David Schweitzer](https://open.spotify.com/artist/1DUWnPlE7T4m8zBUYK6GIc) | [Victoria Beckham \(Soundtrack from the Netflix Documentary\)](https://open.spotify.com/album/6NQ2OVpns50vcJRZTmxJ9e) | 1:18 | 2025-10-10 |  |
 | [Good Morning](https://open.spotify.com/track/1bsAX7t3OW707s4ZqeFtk2) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Eleanor The Great \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2f2Bj5LPxZQiA0LsKzbupC) | 2:30 | 2025-09-26 |  |
@@ -419,6 +420,7 @@
 | [Make History](https://open.spotify.com/track/3cs78hXzKzrsx2xexZZYHr) | [Danny Bensi and Saunder Jurriaans](https://open.spotify.com/artist/7fO0iCzJh7IvVEFiFYfOC2) | [Night Sky \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2nmesQ2rKBppaPu8kcKf62) | 1:13 | 2022-05-20 | 2024-10-12 |
 | [Malédiction \- Bande originale du film "Kaamelott \- Deuxième Volet \[Partie 1\]"](https://open.spotify.com/track/6ZV0vkAXpQDtaDWd6X1rDE) | [Alexandre Astier](https://open.spotify.com/artist/36EYLs0pEMbcwfixzkqDfq) | [Malédiction \(Bande originale du film "Kaamelott \- Deuxième Volet \[Partie 1\]"\)](https://open.spotify.com/album/36gBiiH8sUxngaGBiQHv60) | 1:01 | 2025-10-24 |  |
 | [Mama's Got a Brand New Hammer \- From "Thor: Love and Thunder"](https://open.spotify.com/track/4SIfcQHmeKQ7F3K6Tbz5gK) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Mama's Got a Brand New Hammer \(From "Thor: Love and Thunder"\)](https://open.spotify.com/album/5aO8YZeagny83StfnND4jG) | 6:08 | 2022-07-08 | 2024-11-21 |
+| [Man on Fire – Main Titles \(from the Netflix Series\)](https://open.spotify.com/track/6uyQjnbX9aHFrT36qzWwwl) | [Max Aruj](https://open.spotify.com/artist/7HXs8gSW7QhamzsxMqwU3j) | [Man on Fire – Main Titles \(from the Netflix Series\)](https://open.spotify.com/album/3QC8G5Tbx0owhpacz8uyHH) | 1:09 | 2026-04-24 |  |
 | [Man vs Baby](https://open.spotify.com/track/69XSkwVs1vPndUmq7ODVSS) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Man Vs Baby \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6iY6Affg8GoxVQNapXiMAM) | 2:27 | 2025-12-12 |  |
 | [Mando Is Back](https://open.spotify.com/track/7utTE8XHVCpQXC8PdtBjIL) | [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Season 2 \- Vol\. 1 \(Chapters 9\-12\) \[Original Score\]](https://open.spotify.com/album/2NxNzw1ohPc2Hhjaq2j3tW) | 4:04 | 2021-12-20 | 2022-08-20 |
 | [Mane Title](https://open.spotify.com/track/1MmTr1ahz7VuHhsCKYONz4) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Marvel Studios' Werewolf By Night \(Original Soundtrack\)](https://open.spotify.com/album/4g03IkKXYEjG1vei9WB2Hx) | 3:01 | 2022-10-07 | 2024-11-21 |

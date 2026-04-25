@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Samuel Welten & Lil Kleine
 
-1,296 songs - 2 day 13 hr 54 min
+1,297 songs - 2 day 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -692,6 +692,7 @@
 | [Laatste Trein](https://open.spotify.com/track/0unjn7rOpEnCvpaviiXYxc) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Laatste Trein](https://open.spotify.com/album/3jeLXcKNuJuYeKKb43TnEG) | 2:48 | 2024-03-14 | 2024-06-21 |
 | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/track/0LVjBdjZvJykxed42ExTLf) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/album/0MNpgjf367wpgf742ZkHGr) | 2:44 | 2023-02-23 | 2023-03-10 |
 | [Lakens](https://open.spotify.com/track/2O4rUniWWA1K1vrUwCFQok) | [Sleeq](https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD) | [Lakens](https://open.spotify.com/album/33KaHeTCTvQBlOaJy98Pxm) | 2:51 | 2023-06-22 | 2023-09-29 |
+| [Last Man Standing In De Kroeg](https://open.spotify.com/track/5hN17w1WEvwrpP78dWu3rd) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Last Man Standing In De Kroeg](https://open.spotify.com/album/4rM8noIB9AoqIB5GIttm5f) | 2:51 | 2026-04-24 |  |
 | [Laten](https://open.spotify.com/track/73cv6FhNe4Lt8JBylWljTb) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q) | [Laten](https://open.spotify.com/album/7CJvT8RllN7wENyeCKiaSw) | 2:07 | 2024-11-28 | 2025-02-28 |
 | [Laten We Vergeten](https://open.spotify.com/track/5pd7JVQ2eeSk8FtW74TU7s) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Laten We Vergeten](https://open.spotify.com/album/41h0H4TF0rBSlZv7hMoU0F) | 3:01 | 2025-04-24 | 2025-06-06 |
 | [Later Als Ik Groot Ben](https://open.spotify.com/track/2izndz00zguhQQJ06MhMzA) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Later Als Ik Groot Ben](https://open.spotify.com/album/6ffWQnfFXStzKOAk6RXjQ4) | 3:26 | 2023-02-23 | 2023-05-13 |

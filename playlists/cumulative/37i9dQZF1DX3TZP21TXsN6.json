@@ -8797,6 +8797,24 @@
     },
     {
       "album": {
+        "name": "Serieus",
+        "url": "https://open.spotify.com/album/0MZexFR1KFsdo5Kz3yk8zV"
+      },
+      "artists": [
+        {
+          "name": "Machario",
+          "url": "https://open.spotify.com/artist/3D3G9qcu6f9pBQMWa9YGXj"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138690,
+      "name": "Serieus",
+      "url": "https://open.spotify.com/track/2zPAZIAMNxJ8rs2BLQXATF"
+    },
+    {
+      "album": {
         "name": "SERIEUZE MENSEN",
         "url": "https://open.spotify.com/album/30F1ewuPXFILtPPvB7BQzv"
       },

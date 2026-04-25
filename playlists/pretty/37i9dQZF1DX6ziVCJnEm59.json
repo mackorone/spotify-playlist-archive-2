@@ -1,6 +1,6 @@
 {
   "description": "Curl up in your favorite spot with some sweet, mellow tunes...",
-  "num_followers": 4043789,
+  "num_followers": 4043671,
   "original_name": "Your Favorite Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -2422,6 +2422,10 @@
         {
           "name": "Jason Isbell and the 400 Unit",
           "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
         }
       ],
       "duration_ms": 237126,

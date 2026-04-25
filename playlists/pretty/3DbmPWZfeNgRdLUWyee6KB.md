@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,295 likes - 141 songs - 7 hr 57 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,296 likes - 145 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,5 +149,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 139 | [Per Sempre Noi](https://open.spotify.com/track/02AlhDZDgOq5mR9Uqdpw9A) | [RYCKI](https://open.spotify.com/artist/5tlokK5dnH5D4qunFcA6ZE) | [Per Sempre Noi](https://open.spotify.com/album/6DaxUZvE65MuDKgQq4NUCP) | 2:55 |
 | 140 | [Clock Won't Fix Us](https://open.spotify.com/track/5IHk26pRARBqre0j3qW4us) | [Zaara](https://open.spotify.com/artist/0QuY5zWGOpvYWNTPltuTDd) | [Clock Won't Fix Us](https://open.spotify.com/album/54XyWhtJqkO2ihmc9VrXMK) | 4:27 |
 | 141 | [Silhouette](https://open.spotify.com/track/3PXC71Anog78H0WlzANi49) | [Maxine Louise](https://open.spotify.com/artist/3vOuuR55nZMwjEluo4Su6d) | [Silhouette](https://open.spotify.com/album/4fFxum7G5Pm3RD94GHk2VY) | 3:04 |
+| 142 | [Truth for Lies](https://open.spotify.com/track/4HozmRQnEWTChIfyu7Aj7z) | [Remedies](https://open.spotify.com/artist/3m2MxzwhWeA2FZiel5sURN) | [Truth for Lies](https://open.spotify.com/album/1EccCV6oBwVfTDojfNZ8qh) | 3:25 |
+| 143 | [I Live In The Cloud](https://open.spotify.com/track/6vHZs0s0tVpWcZFxBj840R) | [Purple Microdot](https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4) | [I Live In The Cloud](https://open.spotify.com/album/2D9K20RtH9O5Cb5XoeGqGx) | 2:54 |
+| 144 | [Tomando lo que me hace bien](https://open.spotify.com/track/5liTgR5jBraxJwnBdY9uy8) | [Orlando Vitale](https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa) | [Tomando lo que me hace bien](https://open.spotify.com/album/4242ndADN3vGSm0Yw1EqHf) | 5:05 |
+| 145 | [Dopamina](https://open.spotify.com/track/3RGNZNaFtN9nQSk7G2Ai5P) | [Marcelino Rob](https://open.spotify.com/artist/4CT4cjDHDrLomi7XQwwwjt) | [Dopamina](https://open.spotify.com/album/12p6y6qnK6VZec00BHWb49) | 2:48 |
 
-Snapshot ID: `AAATahX4cy3IJn9rJZfMzijsRncYDqo5`
+Snapshot ID: `AAATbv/Y3SMNZR4vSeDwAb45qKoRDTSo`

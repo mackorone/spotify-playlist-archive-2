@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Sofie Royer
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,886 likes - 89 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,925 likes - 89 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 8 | [Limoncello River](https://open.spotify.com/track/0Mig96Xp3GCW61JYinl6VI) | [Baby Smith](https://open.spotify.com/artist/4QzM5sY3QDA4mmgv8Xj932) | [Limoncello River](https://open.spotify.com/album/4daoAgkzT45ZOSikLN6XdS) | 2:52 |
 | 9 | [Jupiter Girl](https://open.spotify.com/track/7DKNfDEQK7GSRWhOsGtk7w) | [MILKFACE](https://open.spotify.com/artist/0SCmis6XHfEwSUMU5ORzfQ), [SWEED](https://open.spotify.com/artist/1gM5MrKbRvvQuG1SShfkVG), [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [Rocket Blueprints](https://open.spotify.com/album/0g9FMIyIxnIoMrudbX7mUj) | 2:30 |
 | 10 | [Shimmy Shimmy](https://open.spotify.com/track/4KbtDEAyioeg7LtahOvzU1) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Shimmy Shimmy](https://open.spotify.com/album/0xKM7UNXM8swN6PRA9N7cY) | 2:53 |
-| 11 | [Track 12](https://open.spotify.com/track/7DFfCiPrHqsI0Qa1qFDu33) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [GLORY \(Deluxe\)](https://open.spotify.com/album/7MIsmUZTR5rR4jYZbOGXFV) | 0:00 |
+| 11 | [GO WASTE MY TIME](https://open.spotify.com/track/7DFfCiPrHqsI0Qa1qFDu33) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [GLORY \(Deluxe\)](https://open.spotify.com/album/7MIsmUZTR5rR4jYZbOGXFV) | 2:55 |
 | 12 | [Picking Dragons' Pockets](https://open.spotify.com/track/2k1VofAVg8rdoXSG7p0oWW) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Picking Dragons' Pockets](https://open.spotify.com/album/1EEP38WU5pdKHHIBjFwQwe) | 4:36 |
 | 13 | [Vampire at the Beach](https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vampire at the Beach](https://open.spotify.com/album/2oiYk3sjV14nv6vukULSv5) | 3:41 |
 | 14 | [Only One](https://open.spotify.com/track/3ncIV72iL27Tsj85wHOH3w) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/0LjkZkVyTOt2qJMMbXz47d) | 3:32 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 18 | [next door neighbors](https://open.spotify.com/track/4m4JKoCFyQXao7pMHMLjev) | [Miyu Hansen](https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L) | [next door neighbors](https://open.spotify.com/album/2AslyjKJvytcQeJaHy7M4M) | 3:11 |
 | 19 | [Planting Tomatoes](https://open.spotify.com/track/0BuI2IX8F4HlGjIxywA09L) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Planting Tomatoes](https://open.spotify.com/album/2jTEkfhpIXBVmppYgAf4u4) | 3:35 |
 | 20 | [Chelsea Boots](https://open.spotify.com/track/07knU7vfi676BflQegJShP) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0) | [Christin Nichols](https://open.spotify.com/album/07QmIL5D54fsjdN6KZ7tk7) | 4:19 |
-| 21 | [Track 3](https://open.spotify.com/track/6uyl1VgtP5llkq8rZDwNYs) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [Music Is Medicine](https://open.spotify.com/album/3VfPYK3rE6o6u1rsWedXEo) | 0:00 |
+| 21 | [Music Is Medicine](https://open.spotify.com/track/6uyl1VgtP5llkq8rZDwNYs) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [Music Is Medicine](https://open.spotify.com/album/3VfPYK3rE6o6u1rsWedXEo) | 2:42 |
 | 22 | [Sand](https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Sand](https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb) | 3:24 |
 | 23 | [You Say I Love You](https://open.spotify.com/track/2kv2epe0oiyQs8msJXbn9w) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Blue Angel Sparkling Silver 2](https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor) | 3:06 |
 | 24 | [King Beard Man](https://open.spotify.com/track/46W8rXQpz97i95KNbWLEcV) | [The Great Leslie](https://open.spotify.com/artist/4nLnyYZc70ZItmWTW0oo9W) | [King Beard Man](https://open.spotify.com/album/1szNvw3iWpW7jWxmtDp2gc) | 2:57 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 29 | [Shut The Door](https://open.spotify.com/track/0YLHoEmkIOHKUWfb3Wk78T) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [Shut The Door](https://open.spotify.com/album/4abBmQtwJmK6UdoMzzqykF) | 2:50 |
 | 30 | [Ride It Out](https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Ride It Out](https://open.spotify.com/album/6vMuk0DhZDM1wClWe6ZjIA) | 3:29 |
 | 31 | [I've got Nothing to Say](https://open.spotify.com/track/2dQCSW9KmV0qoxvxWhFVHR) | [Nalan](https://open.spotify.com/artist/7igRCM0XNmC538zmo2tpQR) | [2009](https://open.spotify.com/album/1ExTfbgXwifXMNfXEUe0ss) | 2:49 |
-| 32 | [Track 2](https://open.spotify.com/track/594OWPsLAy7BkscxWjBXGH) | [Helmut](https://open.spotify.com/artist/6ReyaIMVxJYKqQnmQHM5Vt) | [Content Creatures](https://open.spotify.com/album/2unlBuf3FpNl9UsANO62RD) | 0:00 |
+| 32 | [I Got Me a Microwave](https://open.spotify.com/track/594OWPsLAy7BkscxWjBXGH) | [Helmut](https://open.spotify.com/artist/6ReyaIMVxJYKqQnmQHM5Vt) | [Content Creatures](https://open.spotify.com/album/2unlBuf3FpNl9UsANO62RD) | 3:53 |
 | 33 | [Cinnamon](https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Cinnamon](https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY) | 3:10 |
 | 34 | [SkiDay](https://open.spotify.com/track/1v4m28NkQN4jCW4DwCMSPo) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [SkiDay](https://open.spotify.com/album/2D1mvRiFSFc6s9NkPArGDK) | 2:47 |
 | 35 | [Blackcurrants](https://open.spotify.com/track/0vxs2rSmwLHWktkpC6ca46) | [My Precious Bunny](https://open.spotify.com/artist/0F9Ze647kaLptWQU2Pg0u2) | [Blackcurrants](https://open.spotify.com/album/6666fKxcpJ7kuWLriL5tg8) | 2:25 |

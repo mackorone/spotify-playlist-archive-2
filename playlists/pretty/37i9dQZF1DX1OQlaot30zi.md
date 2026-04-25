@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Glocky, Nerissima Serpe, VillaBanks,  Marshe, Diss Gacha e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,325 likes - 118 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,344 likes - 118 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 13 | [Motorsport](https://open.spotify.com/track/2QpXYPTwIiSA94dbjeH4Ly) | [Lele](https://open.spotify.com/artist/5Ef0bhKWbzbSgfKlCguEoQ) | [Motorsport](https://open.spotify.com/album/6gLdfRQzmhjIJtmK6wT7gh) | 2:26 |
 | 14 | [NIENTE AMORE](https://open.spotify.com/track/05057HVw7aYZtlxshBmBcN) | [Metah](https://open.spotify.com/artist/0Dr1nbwa1KW5wHYUCsrnAF), [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [NIENTE AMORE](https://open.spotify.com/album/4BmdVe4TFpynUfC6PaUCoP) | 2:37 |
 | 15 | [IN TV \(Dani Faiv & Tony 2Milli\)](https://open.spotify.com/track/4QsTLZlR8RqHOFkdCkEVa8) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [IN TV \(Dani Faiv & Tony 2Milli\)](https://open.spotify.com/album/78AKas28984J83atjdeokp) | 3:05 |
-| 16 | [Track 1](https://open.spotify.com/track/7xRWsfn9x3gVhYQdIXjae3) | [Frankie hi\-nrg mc](https://open.spotify.com/artist/15tvxTXbemwnKQq1aRoPpI) | [VOCE e BATTERIA](https://open.spotify.com/album/3kIyF4C1xQlE3M8Q2GvpL2) | 0:00 |
+| 16 | [Pedala e batteria \(feat\. Jovanotti\)](https://open.spotify.com/track/7xRWsfn9x3gVhYQdIXjae3) | [Frankie hi\-nrg mc](https://open.spotify.com/artist/15tvxTXbemwnKQq1aRoPpI), [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [VOCE e BATTERIA](https://open.spotify.com/album/3kIyF4C1xQlE3M8Q2GvpL2) | 2:48 |
 | 17 | [ISTINTO FREESTYLE 02](https://open.spotify.com/track/4PmXVYVnygQH2dK7M8Boc5) | [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a) | [ISTINTO FREESTYLE 02](https://open.spotify.com/album/0C9Gr0fa8g1q3lCS1LlxT0) | 1:40 |
 | 18 | [BBL \(feat\. Gojardi\)](https://open.spotify.com/track/50tvWz1CqRBtIE0Keezavo) | [Joejoe](https://open.spotify.com/artist/2SGdTSyPqPFhyv74y6WEiD), [Gojardi](https://open.spotify.com/artist/2BK1KTuteomgkZ5ta3crjk) | [POV](https://open.spotify.com/album/0AEcAADmsQAR8U1hpilHte) | 2:12 |
 | 19 | [CASCATA](https://open.spotify.com/track/2v3oKKdRtW0wvBL19fypxl) | [Scaccia](https://open.spotify.com/artist/4bvY1rC6kHzkbt2ome594m), [Ksub](https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu) | [CASCATA](https://open.spotify.com/album/3aZIczyuXhPQ3eebNhyMWV) | 1:57 |

@@ -408,7 +408,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 403580,
       "name": "Aashiqana",
       "url": "https://open.spotify.com/track/5VmmaElvu2KTB0mpUSGlMy"
@@ -3450,7 +3450,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 219283,
       "name": "Dhaage",
       "url": "https://open.spotify.com/track/2XFpn8m8FHeWhDfmH2SAFi"
@@ -4077,6 +4077,36 @@
     },
     {
       "album": {
+        "name": "Dil Waale Chor (From \"Pati Patni Aur Woh Do\")",
+        "url": "https://open.spotify.com/album/2ArURgjlUENwKsZkctTA9Q"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184230,
+      "name": "Dil Waale Chor (From \"Pati Patni Aur Woh Do\")",
+      "url": "https://open.spotify.com/track/7BbutHRZBroWbI9iMpzmoI"
+    },
+    {
+      "album": {
         "name": "Dil Zid Kar Baitha",
         "url": "https://open.spotify.com/album/6LDl6tC3x1ErcRUkkE4f39"
       },
@@ -4448,6 +4478,24 @@
       "duration_ms": 160039,
       "name": "Ek Mulaqaat",
       "url": "https://open.spotify.com/track/69CIBgYgyhxRGzQK1ewVXv"
+    },
+    {
+      "album": {
+        "name": "Ek Nishani",
+        "url": "https://open.spotify.com/album/32515VSzIQv5g6eK9hPaY5"
+      },
+      "artists": [
+        {
+          "name": "The PropheC",
+          "url": "https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126216,
+      "name": "Ek Nishani",
+      "url": "https://open.spotify.com/track/3qQceQQhg3lOjb93oz15Yg"
     },
     {
       "album": {
@@ -5258,7 +5306,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 209171,
       "name": "Hai Tujhko Bhulana",
       "url": "https://open.spotify.com/track/1FPJEaIqtxAe7bgxgP8LWS"
@@ -6945,6 +6993,32 @@
     },
     {
       "album": {
+        "name": "Jee Lenge (From \"Lukkhe\")",
+        "url": "https://open.spotify.com/album/3rFmecvZw5vN0JhrAUdqNi"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Ruaa Kayy",
+          "url": "https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7"
+        },
+        {
+          "name": "Bharg",
+          "url": "https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205901,
+      "name": "Jee Lenge (From \"Lukkhe\")",
+      "url": "https://open.spotify.com/track/4bk0ZtrZukJT9GhvRO4Rri"
+    },
+    {
+      "album": {
         "name": "Jee Liya (From \"Tu Yaa Main\")",
         "url": "https://open.spotify.com/album/5U8ehxq5GgvrP0R8pZEhQe"
       },
@@ -8531,6 +8605,28 @@
     },
     {
       "album": {
+        "name": "Bade Dino Baad",
+        "url": "https://open.spotify.com/album/0FShOyiK3AvWblpSyqdQze"
+      },
+      "artists": [
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
+        },
+        {
+          "name": "AN1K8T",
+          "url": "https://open.spotify.com/artist/5l6xz8pt97llr2djkMdPc6"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Latt",
+      "url": "https://open.spotify.com/track/4Gks0voa4NygxnZE1feow3"
+    },
+    {
+      "album": {
         "name": "Le Jaa",
         "url": "https://open.spotify.com/album/0imiHfsNmizV0OaVJOYCdA"
       },
@@ -9218,7 +9314,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 225653,
       "name": "Marhaba",
       "url": "https://open.spotify.com/track/611RzhEYT8vSiLt24sKnm1"
@@ -10712,7 +10808,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 215000,
       "name": "O Meena",
       "url": "https://open.spotify.com/track/2vxFkZeJU9RLkDzP0Gmr5i"
@@ -12957,6 +13053,28 @@
     },
     {
       "album": {
+        "name": "Safar Khoobsurat",
+        "url": "https://open.spotify.com/album/6NwRJuYVUW4ZDrLRJWOVkV"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Shubham Agrawal",
+          "url": "https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "Safar Khoobsurat",
+      "url": "https://open.spotify.com/track/1nLdJESOIbG7zeq7n2J82G"
+    },
+    {
+      "album": {
         "name": "Sahana Sahana (From \"The Rajasaab\") [HINDI]",
         "url": "https://open.spotify.com/album/008WeuXUeLyFPSmUnHu2O1"
       },
@@ -14048,6 +14166,36 @@
       "duration_ms": 192639,
       "name": "Sunn Mere Yaar Ve - From \"Param Sundari\"",
       "url": "https://open.spotify.com/track/4aNDTU2GctEyflO4FsNAxk"
+    },
+    {
+      "album": {
+        "name": "Suno Naa Dil (From \"Daadi Ki Shaadi\")",
+        "url": "https://open.spotify.com/album/6bYRYqPXZRcARRqOrGEJMN"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Gulraj Singh",
+          "url": "https://open.spotify.com/artist/7apTJ2UKJkBZNKwCiPkfLJ"
+        },
+        {
+          "name": "Manoj Yadav",
+          "url": "https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202959,
+      "name": "Suno Naa Dil (From \"Daadi Ki Shaadi\")",
+      "url": "https://open.spotify.com/track/3GrkvMjNHnBwrpu7qeDCHA"
     },
     {
       "album": {
@@ -15174,7 +15322,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 196595,
       "name": "Touch Buddy (From \"Dacoit (Hindi)\")",
       "url": "https://open.spotify.com/track/6FmS87TsPRkI8EAqt06KPt"
@@ -16251,6 +16399,36 @@
     },
     {
       "album": {
+        "name": "WOW (From \"Hai Jawani Toh Ishq Hona Hai\")",
+        "url": "https://open.spotify.com/album/5cCGsxOMz9EZhYDSCG3HNj"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        },
+        {
+          "name": "Kiran Bajwa",
+          "url": "https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs"
+        },
+        {
+          "name": "Gill Machhrai",
+          "url": "https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162371,
+      "name": "WOW (From \"Hai Jawani Toh Ishq Hona Hai\")",
+      "url": "https://open.spotify.com/track/4vtF4PXXIHaw3k1z846wSn"
+    },
+    {
+      "album": {
         "name": "Yaad Aaye Woh Din",
         "url": "https://open.spotify.com/album/3V4KVaoiFAxrTh8o8piSJx"
       },
@@ -16422,7 +16600,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 273469,
       "name": "Yahin Guzaar Doon",
       "url": "https://open.spotify.com/track/581QL3x7Cfw1RNqZe0OPfC"

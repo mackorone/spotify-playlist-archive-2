@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Sofía Comas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,644 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,657 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 21 | [En qué momento dudé de ti](https://open.spotify.com/track/3TqQxK2sfswbnryeBeWelS) | [Guille Galván](https://open.spotify.com/artist/641rPU7K6d0SaC68pdD0on) | [En qué momento dudé de ti](https://open.spotify.com/album/3DneSJqVZRXE5OIboh6fd0) | 2:44 |
 | 22 | [TEMPORAL](https://open.spotify.com/track/5XaMCvmXPXJ8BbTfH3ZkZj) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [TEMPORAL, LP.](https://open.spotify.com/album/6ITfMwpGDKVTzl16mMXvYN) | 3:45 |
 | 23 | [Los panes los hijos](https://open.spotify.com/track/6uNvSktr4ZfUTEFoiebus8) | [Anna Ferrer](https://open.spotify.com/artist/3It8AsQKxFW3Fx0FrrpF1z) | [Los panes los hijos](https://open.spotify.com/album/6C0litZn7pK31qXaGsI9ft) | 2:56 |
-| 24 | [EL MENSAJERO](https://open.spotify.com/track/4xaA635jWzBlMROrqtaa1j) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi), [CocodriloPyB](https://open.spotify.com/artist/6yyzwJPRX9DgehQrOfvAil) | [EL MENSAJERO](https://open.spotify.com/album/4RUDd6gb0SbiptLzTBwuN8) | 2:28 |
+| 24 | [EL MENSAJERO](https://open.spotify.com/track/4xaA635jWzBlMROrqtaa1j) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi), [Cocodrilo P&B](https://open.spotify.com/artist/3PujdPptTBspp23sB8XwOo) | [EL MENSAJERO](https://open.spotify.com/album/4RUDd6gb0SbiptLzTBwuN8) | 2:28 |
 | 25 | [Mandamientos para la buena vida](https://open.spotify.com/track/7u9kuBtKkT0HW4hvTpiQBg) | [Le Parody](https://open.spotify.com/artist/7ls2WeFdaXVNgCq5zWKDjF), [Karmento](https://open.spotify.com/artist/5QcmgtNbUfqgAOgj7XRRZF) | [Mandamientos para la buena vida](https://open.spotify.com/album/014HxMtwpoyOmxSzAXv2gS) | 3:34 |
 | 26 | [El cilántropo](https://open.spotify.com/track/1N0TvA9BtMFfQzAfnqwvza) | [Gabriel Vidanauta](https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ) | [Cilantropía](https://open.spotify.com/album/4Cl3ngJsbfaSlpbNsJ2tT8) | 2:10 |
 | 27 | [Quiero Mejor](https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Quiero Mejor](https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1) | 3:03 |

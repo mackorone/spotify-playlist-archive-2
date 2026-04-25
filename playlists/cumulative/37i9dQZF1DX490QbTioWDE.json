@@ -521,6 +521,28 @@
     },
     {
       "album": {
+        "name": "Amiga M\u00eda",
+        "url": "https://open.spotify.com/album/1duAzlpsizIt22xJynHiuR"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229690,
+      "name": "Amiga M\u00eda",
+      "url": "https://open.spotify.com/track/3z7sIkv95YbR4MQZ6wQt5d"
+    },
+    {
+      "album": {
         "name": "Amigos",
         "url": "https://open.spotify.com/album/4xe04N2XAWfe6vWjCZxBHN"
       },
@@ -3792,7 +3814,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 208979,
       "name": "Fama de Diabla",
       "url": "https://open.spotify.com/track/4Pl9kwSv46QMwk4MtTttBd"

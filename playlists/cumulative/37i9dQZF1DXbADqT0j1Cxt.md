@@ -4,7 +4,7 @@
 
 > Lull your little ones to sleep with piano music.
 
-785 songs - 1 day 0 hr 6 min
+789 songs - 1 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Garden Roses](https://open.spotify.com/track/1Hk5HsgILlZxv8hTDHjAFZ) | [Eden Parks](https://open.spotify.com/artist/4s4Bb2TBJLW89tZOV5pz8G) | [Songs from the valley](https://open.spotify.com/album/0WIBmu22RxfRMvqASl8MyA) | 2:29 | 2021-10-07 | 2022-12-24 |
 | [Gentle Dreams](https://open.spotify.com/track/1kETBJfZROZUl3nngNRVRu) | [Mary Monroe](https://open.spotify.com/artist/34r7GYfCBgI8AHhKuazmtc) | [Gentle Dreams](https://open.spotify.com/album/4f3WGJ9z4RtE9S8015k7pq) | 2:18 | 2021-10-07 | 2024-04-19 |
 | [Gentle Summer Whisper](https://open.spotify.com/track/5tVlmRlcwpDtE5VN9cumxF) | [Serenna Rose](https://open.spotify.com/artist/2xf55c70Tg8MFm1ZB6uXfY) | [Gentle Summer Whisper](https://open.spotify.com/album/0sSYuvTwd0x7vgjZIgU1XN) | 2:23 | 2025-04-11 |  |
+| [Gently Asleep](https://open.spotify.com/track/28kvPMTrRdHYSpj8BRBtlo) | [Luma Tide](https://open.spotify.com/artist/0jKvQZl4JrLczwaD8WKzy6) | [Gently Asleep](https://open.spotify.com/album/6hjIIn09xphfL5nJQ6KlLv) | 1:39 | 2026-04-24 |  |
 | [Gently Cradle](https://open.spotify.com/track/5k1LfmLmkpgxL6iwwcwyuQ) | [Otis Meadow](https://open.spotify.com/artist/4vnYAza7qzjL5eUwP0yAN8) | [Gently Cradle](https://open.spotify.com/album/36H11bkZQLUreavU491N7w) | 2:11 | 2025-04-04 | 2025-12-06 |
 | [Georgie Porgie](https://open.spotify.com/track/5Ta2XWU7fE69bU1w3ZDILn) | [Peter Ehrlichmann](https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx) | [Eeny Meeny Miny Moe](https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus) | 1:11 | 2021-10-07 | 2022-12-24 |
 | [Gigglepaws](https://open.spotify.com/track/0OKnujtaEPOi8KIR7zpQo2) | [The Stories We Tell](https://open.spotify.com/artist/0KZ1jg7xT2z2zrMCY2iAlB) | [Gigglepaws](https://open.spotify.com/album/63fT6KHGS3LydubtYtztPc) | 1:49 | 2024-09-13 |  |
@@ -253,7 +254,7 @@
 | [Goodnight My Dear](https://open.spotify.com/track/4F2kZfPdy2UqWExKXpaIqR) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Goodnight My Dear](https://open.spotify.com/album/7et4B7Qa5Asz0pdS5D86Qe) | 1:14 | 2023-05-11 | 2025-12-06 |
 | [Grandma’s Glasses](https://open.spotify.com/track/2BR8GLIPPjkljm7nr9UnCk) | [Janell Stallings](https://open.spotify.com/artist/5pAwiiwEYIYJtDLJwi4TbV) | [Grandma’s Glasses](https://open.spotify.com/album/6cooTVwXenEWDgAoq3k7IL) | 1:56 | 2021-10-07 | 2024-03-29 |
 | [Grandma’s Song](https://open.spotify.com/track/12cNto2PJOzdzSLWb0LKeq) | [Isadore Sargent](https://open.spotify.com/artist/02IBHWwjAEhx7xZJQDyx0K) | [Grandma’s Song](https://open.spotify.com/album/29teXxE4oqjsWN9zsKKaWn) | 1:04 | 2021-10-07 | 2022-12-24 |
-| [Green Grass](https://open.spotify.com/track/4lCwzwGz9D5BoxHKsyMBVJ) | [Sandra Forster](https://open.spotify.com/artist/3TLHL40IaEycdPNoxTqK3a) | [Green Grass](https://open.spotify.com/album/71S5e17Khv33HGbQfBqqwE) | 2:07 | 2024-09-13 |  |
+| [Green Grass](https://open.spotify.com/track/4lCwzwGz9D5BoxHKsyMBVJ) | [Sandra Forster](https://open.spotify.com/artist/3TLHL40IaEycdPNoxTqK3a) | [Green Grass](https://open.spotify.com/album/71S5e17Khv33HGbQfBqqwE) | 2:07 | 2024-09-13 | 2026-04-25 |
 | [Gubben i Månen](https://open.spotify.com/track/58EJ3J0AviZMV0CKLctV44) | [Oscar Johansson](https://open.spotify.com/artist/7DAXxxehmZNAV13QRR3Ys1) | [Drömmarnas Rike](https://open.spotify.com/album/0ZSYxWOf8vJ4G9FiOavpT2) | 1:45 | 2022-11-25 | 2023-03-18 |
 | [Guds kärlek är som stranden](https://open.spotify.com/track/3sczfPrh9pmu3mkLGNSmJ1) | [Sarah Mathieson](https://open.spotify.com/artist/2Bt65oYe6XD6YksE5ELi5n) | [Bred dina vida vingar](https://open.spotify.com/album/4DqBFhs0HYdT4ETvMalw1v) | 1:14 | 2022-11-25 | 2023-08-11 |
 | [Gute Nacht mein Kind](https://open.spotify.com/track/1kzyrRsnjUk0v1jCqZ1Es2) | [Katrin Bauer](https://open.spotify.com/artist/59Y2eW7PPRJAO53sxZ3Bvd) | [Gute Nacht mein Kind](https://open.spotify.com/album/7J8SBjSlBoclMcEz6TUrMQ) | 1:56 | 2021-10-07 | 2022-10-29 |
@@ -271,7 +272,7 @@
 | [Head, shoulder, knees and toes](https://open.spotify.com/track/3lz8ku7qwVsnXQutnJr4FQ) | [Stacy Gaffer](https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt) | [Head, shoulder, knees and toes](https://open.spotify.com/album/6MAsQ3r5fq0rAHjuU6hjMB) | 1:05 | 2023-12-22 | 2024-05-24 |
 | [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/1ASON2czMxxdew6pusPG6r) | [Martha Blackburn](https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp) | [Head, Shoulders, Knees and Toes](https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn) | 1:58 | 2021-10-07 | 2022-02-11 |
 | [Heart and Soul](https://open.spotify.com/track/343AlLHbxxjgwQmEuDVr8X) | [Sophie Marling](https://open.spotify.com/artist/3GPp8tfkfcdVt01Nr8dkAB) | [Heart and Soul](https://open.spotify.com/album/10Et2x8ervCMv54xlc4Vou) | 2:31 | 2021-10-07 | 2022-10-29 |
-| [Heart Of Gold](https://open.spotify.com/track/0MDpvtbdWeLZPw1kpynlry) | [Sandra Forster](https://open.spotify.com/artist/3TLHL40IaEycdPNoxTqK3a) | [Heart Of Gold](https://open.spotify.com/album/3f0yAEneJ07D1pFz0KEBLe) | 1:59 | 2023-12-22 |  |
+| [Heart Of Gold](https://open.spotify.com/track/0MDpvtbdWeLZPw1kpynlry) | [Sandra Forster](https://open.spotify.com/artist/3TLHL40IaEycdPNoxTqK3a) | [Heart Of Gold](https://open.spotify.com/album/3f0yAEneJ07D1pFz0KEBLe) | 1:59 | 2023-12-22 | 2026-04-25 |
 | [Heaven](https://open.spotify.com/track/0OVgsBEWALFY85hqjWH1ce) | [Hamilton Brassington](https://open.spotify.com/artist/2drFpNFME5CXEexfl7UZYm) | [Heaven](https://open.spotify.com/album/0YE8RmTkazFxZZlBsrY5aD) | 1:51 | 2021-10-07 | 2025-03-05 |
 | [Heavy Eyelid](https://open.spotify.com/track/0olsjW9ZIc04WtnRtGLCSV) | [Natalie Fall](https://open.spotify.com/artist/6YZdKBkkOEdojatkaX7rzE) | [Heavy Eyelid](https://open.spotify.com/album/42RGiPLYDYqokQ81QuSeok) | 1:45 | 2022-04-19 | 2025-03-05 |
 | [Here and Now](https://open.spotify.com/track/37OI6ky8R9ZjEBnr77tIai) | [Bobbi Rafferty](https://open.spotify.com/artist/0m9pUjmNedBWPtNVf0ZVlt) | [Here and Now](https://open.spotify.com/album/0DuLIM02jLW7ZbpKNK6MJU) | 1:31 | 2021-10-07 | 2025-02-22 |
@@ -421,6 +422,7 @@
 | [Molly Magnolia](https://open.spotify.com/track/5ZGhoByLt6UbmZkX34kGEK) | [Dana McGowen](https://open.spotify.com/artist/4VsnumFuiW1YdUCHgENYUB) | [Molly Magnolia](https://open.spotify.com/album/2mZp0lrSzb6sdTKgRXs9fm) | 1:42 | 2021-10-07 | 2024-04-19 |
 | [Mommy Turn the Daylight On](https://open.spotify.com/track/4BnTacOCGVq0PLgiIR4O2C) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Waltz for My Darling](https://open.spotify.com/album/5GwKf7p20Cqoj93J7OXSHw) | 1:36 | 2022-10-28 | 2025-03-05 |
 | [Moon and Giggles](https://open.spotify.com/track/5tYISO16tk1oYB8VeqvtBF) | [Elov Trus](https://open.spotify.com/artist/3C9En1lNXIal0tCZVbKxtv) | [Moon and Giggles](https://open.spotify.com/album/0eWaDrudysz0eztluJnOxP) | 2:04 | 2025-02-21 |  |
+| [Moon Garden](https://open.spotify.com/track/6NiHV6HauOKTMTXvXvNY6X) | [Oneroi](https://open.spotify.com/artist/4YxbSmXrNBxz3Dz9THyMjx) | [Moon Garden](https://open.spotify.com/album/6sc2Xwl7VzfKUZzfvx1aVV) | 1:24 | 2026-04-24 |  |
 | [Moon Hug](https://open.spotify.com/track/5ZZgtx8edaAGRMHI30DeTd) | [Sebastian Valor](https://open.spotify.com/artist/3gZIJQAAiMUwDtbWofzwaQ) | [Moon Hug](https://open.spotify.com/album/6i3vjCeFyLxr4d8ApEis5h) | 1:59 | 2026-03-13 |  |
 | [Moonbeam Melodies](https://open.spotify.com/track/244rZYVyOy9bVUbfPZ3fWE) | [Oscar Z](https://open.spotify.com/artist/1w43xgEFebGecoNDH6lTkt) | [Moonbeam Melodies](https://open.spotify.com/album/0ZXnmVyXbG5HVkQMXUe0G8) | 1:26 | 2024-11-08 |  |
 | [Moonflight](https://open.spotify.com/track/3s9zIXife8Pdx8SjMg07Ju) | [Georgia Faingold](https://open.spotify.com/artist/2OynITaK8BC9oXr5Q7vd7V) | [Moonflight](https://open.spotify.com/album/1vjAiGVrTiGoYUNbhBMoi2) | 1:40 | 2023-08-10 |  |
@@ -474,6 +476,7 @@
 | [Når solen går ned](https://open.spotify.com/track/3tVLb1LdtL9kQ53v4tsPzr) | [Annelise Jeppesen](https://open.spotify.com/artist/6qrLlITCSuQojxy22qXUIp) | [Når solen går ned](https://open.spotify.com/album/0lK4DwN9p0wl7twTfOrGRN) | 1:37 | 2021-10-07 | 2023-03-18 |
 | [Night Boy](https://open.spotify.com/track/3GNI4cnUTmdVwuRZ7KInoz) | [Gregory Bevill](https://open.spotify.com/artist/2yaPTNekt9t1TtGhpFkzoY) | [Night Boy](https://open.spotify.com/album/3dYfPUkzN5rbaP7A65Uilz) | 1:36 | 2021-10-07 | 2024-03-29 |
 | [Night Comfort \- Piano](https://open.spotify.com/track/3fPOBNNlM8cD2zzqpZNdN7) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Night Comfort \(Piano\)](https://open.spotify.com/album/3pFMjiYRLoPcVir6Ipf9qR) | 3:14 | 2022-01-21 | 2023-02-10 |
+| [Nightfall Reverie](https://open.spotify.com/track/1WPZi0PFeXpruzbFcvJyeT) | [Louis Nightwell](https://open.spotify.com/artist/5WRjnuBa3Mb72trcgevQxW) | [Nightfall Reverie](https://open.spotify.com/album/10CRlpaI8kw4MgnBP2qPoy) | 1:46 | 2026-04-24 |  |
 | [Nightingales Are Singing](https://open.spotify.com/track/04ZnXL4VAjiDVQLNAS8eUq) | [Gil Sunniver](https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM) | [Nightingales Are Singing](https://open.spotify.com/album/6VYSCZo2Q0wOObCsDDmRmc) | 1:31 | 2023-10-06 | 2025-03-05 |
 | [När Lillan Kom Till Jorden](https://open.spotify.com/track/5ecHn2F3nNYx0mMOSJvqSI) | [Roy Söderlund](https://open.spotify.com/artist/7KEsz1mNNgvyjdgjzAtW34) | [När Lillan Kom Till Jorden](https://open.spotify.com/album/5pkDvvSYc5xwAYx5AckMMD) | 2:37 | 2023-02-10 | 2023-02-24 |
 | [Når du holder hånden min](https://open.spotify.com/track/6N5gzMlSWIbGNLDJoMWph9) | [Saga Solheim](https://open.spotify.com/artist/7uy9xQDLs9vJXNotUs2eVQ) | [Når du holder hånden min](https://open.spotify.com/album/2jN7REU2ZfHTpmehtJWoRB) | 2:05 | 2022-06-07 | 2023-06-03 |
@@ -742,6 +745,7 @@
 | [Two Little Blackbirds](https://open.spotify.com/track/4GrJb2CouAQIqymFQEdweV) | [Melanie Peters](https://open.spotify.com/artist/2xuGQvF3z0rrsgxZVM0D0S) | [John Jacob Jingleheimer Schmidt](https://open.spotify.com/album/0nFZ4ryJUrrf4bbIDFAN1I) | 1:52 | 2021-10-07 | 2022-10-29 |
 | [Two Little Puppies](https://open.spotify.com/track/4GlMPAwMs4zrQBoSKPtC2N) | [Elliott Spalding](https://open.spotify.com/artist/690gVgjN9rkeuiQvRNo4Ei) | [Two Little Puppies](https://open.spotify.com/album/4wg136q3fjaQjTiXhehZjh) | 1:35 | 2021-10-07 | 2022-12-24 |
 | [Umbrella for Two](https://open.spotify.com/track/6c4kqvZuy6zutHoawVZcz5) | [Charlie Gray](https://open.spotify.com/artist/1pv2nF0KVHypPpj26VGnsz) | [Umbrella for Two](https://open.spotify.com/album/10Fla80u42PwJz5ahetyPL) | 2:21 | 2025-05-23 |  |
+| [Under a Tall Tree](https://open.spotify.com/track/7wwhe5wyWF23B9kkQR2SXS) | [Milo Rydén](https://open.spotify.com/artist/4sqx7aUPjUOj4nG9W1O0qp) | [Under a Tall Tree](https://open.spotify.com/album/1DgDlRL7WcLM9yUH24xso3) | 2:09 | 2026-04-24 |  |
 | [Under My Pillow](https://open.spotify.com/track/4w0BCDDV9LynxIYBojpJzC) | [Robin Thames](https://open.spotify.com/artist/6TMNfZRg48kWC72NJErGJH) | [Under My Pillow](https://open.spotify.com/album/5BQVcNXIZmI20iYa1pPoKS) | 1:36 | 2025-07-03 |  |
 | [Under the Sleepy Sky](https://open.spotify.com/track/2Nr4HhvtVsQrtXPnlwDyZR) | [Snuggle Land](https://open.spotify.com/artist/1RV6PoeDk6d8chB4Nn1xTy) | [Under the Sleepy Sky](https://open.spotify.com/album/33IfSHivG11AXUQ1rw5jAQ) | 1:24 | 2025-08-04 |  |
 | [Under the stars](https://open.spotify.com/track/7a9IECeJJ1GsGhkLzHoY5k) | [Amélie Blumenthal](https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo) | [Under the stars](https://open.spotify.com/album/7AwyluhQXhubHEvuUKYDSW) | 1:33 | 2024-03-01 |  |

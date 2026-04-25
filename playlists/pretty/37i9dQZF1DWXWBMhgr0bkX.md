@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Homegrown, emerging🕺 cover: Charlie Jeer
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,167 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,170 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Violent Thoughts](https://open.spotify.com/track/1N0TsyGpNhyErrvJyKFQHq) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Tsycophant](https://open.spotify.com/album/2gGPhtIU0XVFsLYhDrLfz8) | 4:04 |
-| 2 | [Track 4](https://open.spotify.com/track/4niKxGPpF9LIuNxqbk1RpZ) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Thank God](https://open.spotify.com/album/7mMorOuBgW7TRKKMAgVO2f) | 0:00 |
+| 2 | [Who You Love](https://open.spotify.com/track/4niKxGPpF9LIuNxqbk1RpZ) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Thank God](https://open.spotify.com/album/7mMorOuBgW7TRKKMAgVO2f) | 3:05 |
 | 3 | [My Madonna](https://open.spotify.com/track/12NNsOzaZNU8JO5VdKZ56m) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [My Madonna](https://open.spotify.com/album/5qZCV0KCzY0lUd38FafCYJ) | 3:13 |
 | 4 | [DON'T ASK!](https://open.spotify.com/track/47Z2SkqckoCdJiUgCs46jA) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [DON'T ASK!](https://open.spotify.com/album/5rqi3IpAQc4QgQoO6LadFU) | 3:02 |
 | 5 | [Piece of Your Love](https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp) | [GRESLEY](https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf) | [Songs I Wrote Since She Left](https://open.spotify.com/album/3aNf0dE1084J6qV0NvLbQP) | 3:25 |

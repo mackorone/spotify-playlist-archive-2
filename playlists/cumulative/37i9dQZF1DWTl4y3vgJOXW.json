@@ -309,6 +309,32 @@
     },
     {
       "album": {
+        "name": "300 (feat. BabyDrill & Tommy 2)",
+        "url": "https://open.spotify.com/album/5lepyanCT0WHh5gxZw78Ef"
+      },
+      "artists": [
+        {
+          "name": "BashfortheWorld",
+          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
+        },
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        },
+        {
+          "name": "Tommy 2",
+          "url": "https://open.spotify.com/artist/7p4o04F5FpUH0eBTFPYt9c"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163137,
+      "name": "300 (feat. BabyDrill & Tommy 2)",
+      "url": "https://open.spotify.com/track/56cfXGd2vsKD9RKH9QZhA7"
+    },
+    {
+      "album": {
         "name": "3AM in ToKEYo",
         "url": "https://open.spotify.com/album/5dx9ylPTCSU1SHR2b3uqXh"
       },
@@ -9166,7 +9192,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 126868,
       "name": "KING",
       "url": "https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8"
@@ -11976,7 +12002,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 120944,
       "name": "Omens",
       "url": "https://open.spotify.com/track/28NKduvWszfoQSU3k5p7vg"
@@ -18668,6 +18694,24 @@
       "duration_ms": 190293,
       "name": "Window Shopper",
       "url": "https://open.spotify.com/track/58IeuSOYA1gXyB8rDpYzc3"
+    },
+    {
+      "album": {
+        "name": "WOAH",
+        "url": "https://open.spotify.com/album/1fFxMza5WpchuZFbIKRNFJ"
+      },
+      "artists": [
+        {
+          "name": "Flau'jae",
+          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "WOAH",
+      "url": "https://open.spotify.com/track/7zO39XFeFtKWpFbYtDTh3Y"
     },
     {
       "album": {

@@ -6901,6 +6901,24 @@
     },
     {
       "album": {
+        "name": "ENERGY (I Feel)",
+        "url": "https://open.spotify.com/album/6Ldgnp2uq8vyrLYAMlfcNc"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184414,
+      "name": "ENERGY (I Feel)",
+      "url": "https://open.spotify.com/track/0DZirU8OfoBgia2kga6Bzi"
+    },
+    {
+      "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/33WUMBvwFNU514XzG7vqbz"
       },

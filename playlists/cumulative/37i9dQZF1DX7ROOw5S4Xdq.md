@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Israel Salazar
 
-3,326 songs - 11 day 17 hr 4 min
+3,326 songs - 11 day 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2939,7 +2939,6 @@
 | [Toma o Teu Lugar \- Ao Vivo](https://open.spotify.com/track/11orEuMlG892JoAEe8AO7O) | [Davi Silva](https://open.spotify.com/artist/37MmnavknAY8Z2ICERRshR), [Calebe Silva](https://open.spotify.com/artist/3xNrTtlY538coY4laqBfd9) | [Toma o Teu Lugar \(Ao Vivo\)](https://open.spotify.com/album/2wtJ4lJkXdoZ5HVEXN5biS) | 5:33 | 2025-04-25 | 2025-05-10 |
 | [Tome Posse da Vitória \(Ao Vivo\)](https://open.spotify.com/track/0dPhAYC73cQPAfCDg9yj5T) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Tome Posse da Vitória \(Ao Vivo\)](https://open.spotify.com/album/4FqY2NSYlpamvnQosMuwVJ) | 4:31 | 2025-12-05 | 2025-12-19 |
 | [Trabalho Duro \- Deluxe](https://open.spotify.com/track/4GmyRRbamtB2G39PK7jhk7) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Trabalho Duro \- Deluxe](https://open.spotify.com/album/0JTucnGKKHiCUlUF1c3W9T) | 3:26 | 2024-08-30 | 2024-09-07 |
-| [Track 4](https://open.spotify.com/track/0dJRegWPIL8XrtF0CqBypb) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Eu Tô no Culto \(Quase Acústico\)](https://open.spotify.com/album/2S5eEwAAL1e6Ea2TqSFETu) | 0:00 | 2026-04-24 |  |
 | [Tragam Suas Vasilhas \- Ao vivo](https://open.spotify.com/track/4ixDVetdu4PkAHQuojumDM) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Zoe Lilly](https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp) | [Tragam Suas Vasilhas \(Ao Vivo\)](https://open.spotify.com/album/7IISqDRueMy006SHDOFWIO) | 7:19 | 2024-06-14 | 2024-06-29 |
 | [TRAIÇÃO NA MESA](https://open.spotify.com/track/5klH9yQ6VRFvfdP654eIg4) | [Israel Santos](https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu) | [TRAIÇÃO NA MESA](https://open.spotify.com/album/0Eqbeu7lWpuIW2Kgsy3MOo) | 3:03 | 2025-09-05 | 2025-09-26 |
 | [Trajeto de Uma Oração](https://open.spotify.com/track/4oFTo955xdpdewPdkQUbh6) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Trajeto de Uma Oração](https://open.spotify.com/album/2KbS1m4cfGgPnolOC6KK7x) | 4:50 | 2024-09-27 | 2024-10-12 |
@@ -3320,6 +3319,7 @@
 | [É Tão Fácil Adorar \- Ao Vivo](https://open.spotify.com/track/1ArV9DF6jjNHKoujYrs3Z2) | [Projeto Vida Music](https://open.spotify.com/artist/5eTgiu0Q3GpNuXyNJDfLkp), [Ronan Castro](https://open.spotify.com/artist/01XcyZ8V2wAQTaazuzCNaG), [Amanda Castro](https://open.spotify.com/artist/63AbQyh1CVWRiNBZoLPgDi) | [É Tão Fácil Adorar \(Ao Vivo\)](https://open.spotify.com/album/7xTMEVQyBl5rAurZ8IlpJ3) | 5:28 | 2025-04-04 | 2025-04-12 |
 | [É Você](https://open.spotify.com/track/3XeMW2fuXCyPgIx5a7VEtT) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [É Você](https://open.spotify.com/album/6SZ2ixlpTuLEfm2dPF7EON) | 3:04 | 2026-02-27 | 2026-03-28 |
 | [É Você \- Ao Vivo Na Marcha Para Jesus \- SP](https://open.spotify.com/track/4PNbpgDw6gwaKKITcGdLUT) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [É Você \(Ao Vivo Na Marcha Para Jesus \- SP\)](https://open.spotify.com/album/3cj0d57Cb93NeCDgiFgVci) | 3:14 | 2023-09-15 | 2023-10-07 |
+| [És Bem\-Vindo \- Quase Acústico](https://open.spotify.com/track/0dJRegWPIL8XrtF0CqBypb) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Eu Tô no Culto \(Quase Acústico\)](https://open.spotify.com/album/2S5eEwAAL1e6Ea2TqSFETu) | 5:13 | 2026-04-24 |  |
 | [És Bem\-Vindo à Mesa \- Ao Vivo](https://open.spotify.com/track/6YRT4mFA0s5I5UYoKnit7C) | [Leo Fonseca](https://open.spotify.com/artist/34iSGCakITd5m0nZgIjkio), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [És Bem\-Vindo à Mesa](https://open.spotify.com/album/79XQ40MyFbpEpTZU1lnPRS) | 8:54 | 2025-01-31 | 2025-02-22 |
 | [És Fiel \- Ao Vivo](https://open.spotify.com/track/4m0Nt1EV6rAKTkWCylIzO9) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Bondade e Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/5j0f8bR03wez6tjrHpiKUN) | 7:58 | 2023-11-24 | 2023-12-23 |
 | [És o Afago Em Meu Peito](https://open.spotify.com/track/602Bhq6rorVmGdUrqhT11o) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [És o Afago Em Meu Peito](https://open.spotify.com/album/2mk9ExefIYT6aX7zIUNi8O) | 2:53 | 2026-03-27 | 2026-04-18 |

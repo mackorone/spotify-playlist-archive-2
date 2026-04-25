@@ -4,7 +4,7 @@
 
 > the glorious sounds of Jazz House, from Lagos & beyond 🕊️ featuring SPINALL
 
-218 songs - 13 hr 49 min
+220 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Drowned in Blue](https://open.spotify.com/track/3Oi6tPZNQizEDBfXVtyzn2) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Drowned in Blue](https://open.spotify.com/album/716cHuoRhH3rDq34HaTBE9) | 2:58 | 2025-11-07 |  |
 | [DTPA](https://open.spotify.com/track/2pW1kEB7RK8CdumAiXBlXr) | [Duan Wasi](https://open.spotify.com/artist/71aXcrNzVQBs4e3FLIlDVI) | [Licious](https://open.spotify.com/album/0OiY4E01FdNSKkpmmWmjqP) | 2:26 | 2025-03-14 |  |
 | [Emotional Intelligence](https://open.spotify.com/track/3yMYs3jJdAPxMgqb0CYZUG) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy), [Dave Koor](https://open.spotify.com/artist/7bWbTT6EfOWbzRmBCSGUhq) | [Chaos In The CBD & Friends](https://open.spotify.com/album/52gDijfKDkvRQiqtSmWiq8) | 6:20 | 2025-02-21 | 2025-08-30 |
-| [Empty.](https://open.spotify.com/track/4oOKNkUzGkjwI3nBoRuc4q) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Would appear to be jazz.](https://open.spotify.com/album/5XjZB8V2VFP8yPaMsB1NSJ) | 1:51 | 2025-08-29 |  |
+| [Empty.](https://open.spotify.com/track/4oOKNkUzGkjwI3nBoRuc4q) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Would appear to be jazz.](https://open.spotify.com/album/5XjZB8V2VFP8yPaMsB1NSJ) | 1:51 | 2025-08-29 | 2026-04-25 |
 | [Euro](https://open.spotify.com/track/3Z9Yr1ziFNgkK3oHcvxC5v) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Euro](https://open.spotify.com/album/1QYw5ZwARebwLY0WWNo2Px) | 2:48 | 2025-09-12 |  |
 | [Evolution](https://open.spotify.com/track/28P3hD5604xr8ZD2cpSqqV) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Evolution](https://open.spotify.com/album/0WvP86fINZdLQX9d2VYuo3) | 1:58 | 2025-02-21 |  |
 | [Falling](https://open.spotify.com/track/3pOcr1YHQap65TgnCxJXtY) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Falling](https://open.spotify.com/album/5rQSSNUg4uPr9vQaD7kcKu) | 4:27 | 2026-03-13 |  |
@@ -101,7 +101,7 @@
 | [Jazz Feel](https://open.spotify.com/track/3wBbSVC0FmbcQ0zlkBrNdC) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Jazz Feel](https://open.spotify.com/album/5Son32jRjljMaKwXfjmgRp) | 2:34 | 2025-03-28 | 2026-01-15 |
 | [jazz is for ordinary people](https://open.spotify.com/track/12BaQt9aYdTlEtKreqB5V4) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [jazz is for ordinary people](https://open.spotify.com/album/0EZTn2obuqMf9AbBG2PUKp) | 2:44 | 2025-02-21 |  |
 | [Jazz Piece 2](https://open.spotify.com/track/3fOyW8hSiOpCaXmQP4zpQH) | [DJ Aakmael](https://open.spotify.com/artist/4i2Ey9xknZmz8QQXtLzAN7) | [Jus' Tracks](https://open.spotify.com/album/2fRww4IqAwrNEEyt5P6ww8) | 7:00 | 2025-02-21 | 2025-12-06 |
-| [Jazzy Cigarette](https://open.spotify.com/track/0DsbijUjURPgkffxhfkrfJ) | [Copenhagen untd.](https://open.spotify.com/artist/4kOHVYMZUnNasTU8eKJpme) | [Jazzy Cigarette](https://open.spotify.com/album/3zpdIwaPyjtBnIukIPddzZ) | 2:39 | 2025-02-21 |  |
+| [Jazzy Cigarette](https://open.spotify.com/track/0DsbijUjURPgkffxhfkrfJ) | [Copenhagen untd.](https://open.spotify.com/artist/4kOHVYMZUnNasTU8eKJpme) | [Jazzy Cigarette](https://open.spotify.com/album/3zpdIwaPyjtBnIukIPddzZ) | 2:39 | 2025-02-21 | 2026-04-25 |
 | [Jealous Girl](https://open.spotify.com/track/1Thix6BaqobCQATYE7LRln) | [DJ burgerhead](https://open.spotify.com/artist/7tkCO3Cc3NEhjZ3T3PM6ar) | [Jealous Girl](https://open.spotify.com/album/2FbWwQP2riAzTktIulJrSv) | 4:00 | 2025-03-07 | 2025-09-06 |
 | [joycelyn's dance](https://open.spotify.com/track/3z0JwddAR5GASTxnKExIw1) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 3:18 | 2025-02-21 | 2025-06-28 |
 | [Keep It Real](https://open.spotify.com/track/4YpCTAZRpNmW1EHLVrq4ur) | [Loure](https://open.spotify.com/artist/0oj4QK4zH3lghS2Oa418zZ) | [Westside Movements](https://open.spotify.com/album/07aLEJ68A2wz9em0AwnuS2) | 6:54 | 2025-02-21 | 2025-05-17 |
@@ -148,6 +148,7 @@
 | [No Ice](https://open.spotify.com/track/6b1xFlmF3Q4F4AmOnWYuDb) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Touch EP](https://open.spotify.com/album/0bl0xBMqGMq0soRvZOwDFy) | 4:02 | 2025-02-21 | 2025-08-02 |
 | [No Use \- Crackazat Remix](https://open.spotify.com/track/6O76IXn59hsVlZnp9aXcuW) | [Jazzanova](https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T), [Clara Hill](https://open.spotify.com/artist/4RHulYLsymySn2JlGzyXfc), [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [No Use \(Crackazat Remix\)](https://open.spotify.com/album/25OIfxIuQ9vVedMvh4P8ID) | 5:48 | 2025-08-01 | 2025-11-29 |
 | [Nobody](https://open.spotify.com/track/4lWnh8J3XsWTtG20xWFjfF) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Nobody](https://open.spotify.com/album/13UwuUtKwqvifXpghxD823) | 2:53 | 2025-02-21 | 2026-02-28 |
+| [Now You Feel](https://open.spotify.com/track/6ByIvhZp1fSV8uh31UFQyT) | [Flying Moth](https://open.spotify.com/artist/4TmwdCfg977GsElJtngLp7) | [Onda](https://open.spotify.com/album/7LCrYes3eU6PLWBJGJjRGw) | 5:46 | 2026-04-24 |  |
 | [nyc in 1940](https://open.spotify.com/track/6loDuwmsq6fazVxqqRhmcp) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141), [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [nyc in 1940](https://open.spotify.com/album/6TM8VNhv0P9CfSf2CdNkQO) | 2:36 | 2025-02-21 |  |
 | [On & On](https://open.spotify.com/track/6Khjz6ZTdxhVujmB4fUWsK) | [bari](https://open.spotify.com/artist/4JSQ2UfsInSo0H2p3fnOOE), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [On & On](https://open.spotify.com/album/4XvcHGJNQVWOVbpigdS10Y) | 3:27 | 2026-02-13 |  |
 | [On My Heart](https://open.spotify.com/track/3PVHK6eCeKSv1MlPnsIEPO) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [On My Heart](https://open.spotify.com/album/7EcnFv8HZUI5yEwbBqd8N4) | 5:42 | 2026-01-16 |  |
@@ -175,6 +176,7 @@
 | [Saw You for the First Time](https://open.spotify.com/track/44t34AtBWG4TKMF5Xc97kV) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/5OTN5IJFRgdjHsr4iaVGFo) | 6:44 | 2025-02-21 | 2025-03-22 |
 | [Secrets](https://open.spotify.com/track/72isHTzdTf3GcFkBcsT0i4) | [DAWSON](https://open.spotify.com/artist/5cC8kBz37XOqvQ1uuptA02), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Secrets](https://open.spotify.com/album/6TCm6IHzYsuPIsH52F9a42) | 3:19 | 2025-09-05 |  |
 | [Serotonin](https://open.spotify.com/track/6W645HND6UgMEumwYAm94M) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv), [Pablo Narea](https://open.spotify.com/artist/5p8jrSEwzfpHlBrGlYgDIo) | [Serotonin](https://open.spotify.com/album/2E9As6XKHDGXfihFuF2KQB) | 5:39 | 2026-04-03 |  |
+| [Shed a Tear](https://open.spotify.com/track/0hjy7BKQQOpSyJ5Zbq1po6) | [bari](https://open.spotify.com/artist/4JSQ2UfsInSo0H2p3fnOOE) | [Shed a Tear](https://open.spotify.com/album/0JoqXpwIYpbwBlOqZTZ51v) | 3:39 | 2026-04-24 |  |
 | [Shelter](https://open.spotify.com/track/1NUYg3LhwCupGjxisQTa0w) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Shelter](https://open.spotify.com/album/38cSJDqR52DWEufIBNfpqe) | 3:49 | 2025-02-21 |  |
 | [Side Pocket](https://open.spotify.com/track/5cxhLPv1j4xE3xlbsDgGYG) | [Aguava](https://open.spotify.com/artist/2va26iLf6XkexHsCnKWOid) | [Side Pocket](https://open.spotify.com/album/5b1Td8anOjaeXBdJkHq57a) | 3:17 | 2025-08-22 | 2025-09-27 |
 | [Simulacra](https://open.spotify.com/track/6uofhCrZ39bK4azqoG9naC) | [Palmate](https://open.spotify.com/artist/02mNGa8lfssm5rnhwZhVNw) | [Simulacra](https://open.spotify.com/album/7zQFTAlzMr0Gs0pKPR0txL) | 3:23 | 2025-04-04 | 2025-08-23 |

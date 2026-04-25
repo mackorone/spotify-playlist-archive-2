@@ -51572,7 +51572,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 141497,
-      "name": "Fantasy (ft. COBRAH)",
+      "name": "Fantasy (ft. Cobrah)",
       "url": "https://open.spotify.com/track/6CwBTCg35UfkyjJ7BB6c9U"
     },
     {
@@ -55460,6 +55460,24 @@
       "duration_ms": 183466,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/2Nwu826BsgMFtMbd1ZR3fH"
+    },
+    {
+      "album": {
+        "name": "FRAGILE HARDCORE",
+        "url": "https://open.spotify.com/album/3MuOzXHWsVlVfWTcwK4lOA"
+      },
+      "artists": [
+        {
+          "name": "Liv del Estal",
+          "url": "https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156914,
+      "name": "fragile hardcore",
+      "url": "https://open.spotify.com/track/223MDZteznzgYiVX9QT5vB"
     },
     {
       "album": {
@@ -87858,6 +87876,40 @@
       "duration_ms": 203755,
       "name": "LAST MAN STANDING",
       "url": "https://open.spotify.com/track/1EWQItYxD9C6dicju78MWC"
+    },
+    {
+      "album": {
+        "name": "Last Man Standing In De Kroeg",
+        "url": "https://open.spotify.com/album/4rM8noIB9AoqIB5GIttm5f"
+      },
+      "artists": [
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        },
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Def",
+          "url": "https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "Last Man Standing In De Kroeg",
+      "url": "https://open.spotify.com/track/5hN17w1WEvwrpP78dWu3rd"
     },
     {
       "album": {
@@ -151641,7 +151693,7 @@
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 192708,
+      "duration_ms": 192720,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/6HpN4IQxfPmvfvjRH8FbL3"
     },
@@ -162775,6 +162827,24 @@
     },
     {
       "album": {
+        "name": "LA FAMILIA",
+        "url": "https://open.spotify.com/album/57UjJKwE6IkBnSCFJprYLM"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Time To Go",
+      "url": "https://open.spotify.com/track/073gmCXuSbUqYPAIVyIVt4"
+    },
+    {
+      "album": {
         "name": "time to go",
         "url": "https://open.spotify.com/album/4wK1EeHH2tYFoBKffEKL6p"
       },
@@ -165608,42 +165678,6 @@
       "duration_ms": 208413,
       "name": "Traces",
       "url": "https://open.spotify.com/track/2ovgJSq4o0pLynO6y7kJUj"
-    },
-    {
-      "album": {
-        "name": "FRAGILE HARDCORE",
-        "url": "https://open.spotify.com/album/3MuOzXHWsVlVfWTcwK4lOA"
-      },
-      "artists": [
-        {
-          "name": "Liv del Estal",
-          "url": "https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/223MDZteznzgYiVX9QT5vB"
-    },
-    {
-      "album": {
-        "name": "LA FAMILIA",
-        "url": "https://open.spotify.com/album/57UjJKwE6IkBnSCFJprYLM"
-      },
-      "artists": [
-        {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/073gmCXuSbUqYPAIVyIVt4"
     },
     {
       "album": {

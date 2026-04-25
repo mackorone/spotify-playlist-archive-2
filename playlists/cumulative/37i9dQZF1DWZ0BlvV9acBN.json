@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Rosa de Saron",
+  "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Colo de Deus",
   "name": "Templo do Rock",
   "tracks": [
     {
@@ -1964,7 +1964,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 246333,
       "name": "Me Ensina a Seguir",
       "url": "https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr"
@@ -2178,6 +2178,28 @@
       "duration_ms": 321696,
       "name": "Minha Esperan\u00e7a",
       "url": "https://open.spotify.com/track/0302SCCtovTOMWh2R56ICI"
+    },
+    {
+      "album": {
+        "name": "Minha Resposta (Ao Vivo no Summer Beats)",
+        "url": "https://open.spotify.com/album/0sF7TxeSpt4CWZju7cnagA"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        },
+        {
+          "name": "Guilherme de S\u00e1",
+          "url": "https://open.spotify.com/artist/40wqylYHmPn7bf8jPZrbU9"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Minha Resposta (Ao Vivo no Summer Beats)",
+      "url": "https://open.spotify.com/track/6wRhv00YHBbfj03mLMlcJ1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2X6kTAPPf4hxJQ2shs68lK.md) - [plain]
 
 > 25 songs updated every Tuesday ⏳ \(Email: jahtalksmusic@gmail.com\)
 
-[Jah Talks Music](https://open.spotify.com/user/fgy1vuygflfwapaeaba6wbxtf) - 39,333 likes - 25 songs - 1 hr 29 min
+[Jah Talks Music](https://open.spotify.com/user/fgy1vuygflfwapaeaba6wbxtf) - 39,344 likes - 25 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/2X6kTAPPf4hxJQ2shs68lK.md) - [plain]
 | 11 | [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 |
 | 12 | [TSOD](https://open.spotify.com/track/2cpufCD1b80iCZZFPvj8I2) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP), [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [TSOD](https://open.spotify.com/album/5jSp0SGH5VYRg2yKVY6bjq) | 4:26 |
 | 13 | [better](https://open.spotify.com/track/3SSYNtpoHkaGs4TYux2KGH) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [better](https://open.spotify.com/album/40OQM1Zf8VuYdx61uuxxeO) | 3:10 |
-| 14 | [Flight Risqué \(with Freddie Gibbs & SALIMATA\)](https://open.spotify.com/track/49Xxlgn6sP2hi0es0Xcxxn) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [SALIMATA](https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD) | [Flight Risqué \(with Freddie Gibbs & SALIMATA\)](https://open.spotify.com/album/0lmNPyOnmc93RkhNZaOxDJ) | 2:51 |
+| 14 | [Flight Risqué \(feat\. Freddie Gibbs & SALIMATA\)](https://open.spotify.com/track/49Xxlgn6sP2hi0es0Xcxxn) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [SALIMATA](https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD) | [Flight Risqué \(feat\. Freddie Gibbs & SALIMATA\)](https://open.spotify.com/album/0lmNPyOnmc93RkhNZaOxDJ) | 2:51 |
 | 15 | [Pain Is Inevitable](https://open.spotify.com/track/2d0dCpzPN76EhB4yv3S6ng) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 4:55 |
 | 16 | [Know Your Worth](https://open.spotify.com/track/6b7nUZBoUpiXTWqEWmII9O) | [INDIA BLUE](https://open.spotify.com/artist/5M91kIFBO3vwGoHceiMugI), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Gabiga](https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg) | [Know Your Worth](https://open.spotify.com/album/240xobiE5Pzc0yNFtEPUa6) | 2:32 |
 | 17 | [BRACKETS](https://open.spotify.com/track/5sWbwccBcyHsg5LEKWGZo9) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [KOD](https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd) | 5:15 |

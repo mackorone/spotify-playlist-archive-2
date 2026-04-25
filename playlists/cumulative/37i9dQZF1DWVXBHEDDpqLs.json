@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/2u4dlmnEW2hdq7E2yv4V4p"
+      },
+      "artists": [
+        {
+          "name": "Human Movement",
+          "url": "https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225865,
+      "name": "10 HRS",
+      "url": "https://open.spotify.com/track/5gPo2F7Swj0goIYl7i6ASQ"
+    },
+    {
+      "album": {
         "name": "Root Echoes",
         "url": "https://open.spotify.com/album/5U001yoG2A1jjFQVjRkZyR"
       },
@@ -308,6 +326,24 @@
       "duration_ms": 232006,
       "name": "7am Germany",
       "url": "https://open.spotify.com/track/3KXZX9xiAMOp1jX81RpiGx"
+    },
+    {
+      "album": {
+        "name": "Rage Days",
+        "url": "https://open.spotify.com/album/2CrNpo1Y9lK08E3BylH88V"
+      },
+      "artists": [
+        {
+          "name": "Mix'Elle",
+          "url": "https://open.spotify.com/artist/43QGdvDr2wO4x1Y8wbeovp"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248372,
+      "name": "8",
+      "url": "https://open.spotify.com/track/2a06VFUUrAFza016Efwzzs"
     },
     {
       "album": {
@@ -1102,7 +1138,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 331498,
       "name": "Are You Listening",
       "url": "https://open.spotify.com/track/5bEDKq3bmxOVAcq5yvkCiR"
@@ -4259,6 +4295,24 @@
     },
     {
       "album": {
+        "name": "Crevasse",
+        "url": "https://open.spotify.com/album/6lZtJ5pnXS9YwCese5d4u5"
+      },
+      "artists": [
+        {
+          "name": "Stones Taro",
+          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298285,
+      "name": "Crevasse",
+      "url": "https://open.spotify.com/track/4FYsslPSB0RlJzbGVLLKZe"
+    },
+    {
+      "album": {
         "name": "Cross Passage",
         "url": "https://open.spotify.com/album/62oPpbxnbmg0fi0TUAoUAP"
       },
@@ -5817,6 +5871,24 @@
     },
     {
       "album": {
+        "name": "ElectroMagnetic Field",
+        "url": "https://open.spotify.com/album/2FORcH68aUSzlNxsiM9lSM"
+      },
+      "artists": [
+        {
+          "name": "Fran LF",
+          "url": "https://open.spotify.com/artist/0BtNHI9EQwfngxEqz0PwOg"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301730,
+      "name": "ElectroMagnetic Field",
+      "url": "https://open.spotify.com/track/49guBjgiiDiErr40gFhY6G"
+    },
+    {
+      "album": {
         "name": "Elixir",
         "url": "https://open.spotify.com/album/4hrEi3CtInHEoFHLFqvp8X"
       },
@@ -6691,6 +6763,24 @@
     },
     {
       "album": {
+        "name": "Forget Me",
+        "url": "https://open.spotify.com/album/0SlT3dEJlr4EOhoeEooSiI"
+      },
+      "artists": [
+        {
+          "name": "FUCK!LACR\u00c8ME",
+          "url": "https://open.spotify.com/artist/6ORtqnmzscfjstI402S8tc"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230040,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/4dLcBSla3iDJFuwBc7eu0V"
+    },
+    {
+      "album": {
         "name": "FOUR FOUR HEAT",
         "url": "https://open.spotify.com/album/4qALrAC5bdaavp405R2veY"
       },
@@ -6928,6 +7018,24 @@
       "duration_ms": 492267,
       "name": "Frekm, Pt. 2",
       "url": "https://open.spotify.com/track/4mZvW40n4uYK8f06Be7bxN"
+    },
+    {
+      "album": {
+        "name": "FRIED",
+        "url": "https://open.spotify.com/album/6hq6f1YWV3HAVWfoKGYVPc"
+      },
+      "artists": [
+        {
+          "name": "Surusinghe",
+          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458878,
+      "name": "FRIED",
+      "url": "https://open.spotify.com/track/1i527ye8rzBUSsb6o5OFpZ"
     },
     {
       "album": {
@@ -7875,6 +7983,24 @@
     },
     {
       "album": {
+        "name": "Grain",
+        "url": "https://open.spotify.com/album/0qmOY8QLjz1YdnUMx3LLwl"
+      },
+      "artists": [
+        {
+          "name": "Kassian",
+          "url": "https://open.spotify.com/artist/4w6VhlUuzrUoJ5NbCpefXx"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337658,
+      "name": "Grain",
+      "url": "https://open.spotify.com/track/2cdx2u1EO1BtPaWrWyvPpn"
+    },
+    {
+      "album": {
         "name": "The Higher Land EP",
         "url": "https://open.spotify.com/album/2PsmqMXHByieVBQtslv2io"
       },
@@ -8136,7 +8262,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 260266,
       "name": "Heels hit the floor",
       "url": "https://open.spotify.com/track/47TeQFYzpWbcBIko7UCR1J"
@@ -11146,7 +11272,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 350571,
       "name": "Matrix Bloom",
       "url": "https://open.spotify.com/track/4Jf2URgehgIDx5YKMVphUP"
@@ -12354,7 +12480,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 182975,
       "name": "NOS",
       "url": "https://open.spotify.com/track/5SJFNn2TeUXxpyeQlQDfnL"
@@ -12398,7 +12524,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 136758,
       "name": "NTM",
       "url": "https://open.spotify.com/track/1itfdW1Mo11XYxxRjG7Wer"
@@ -13319,6 +13445,24 @@
     },
     {
       "album": {
+        "name": "petit monstre EP",
+        "url": "https://open.spotify.com/album/2DyEsrVI20xHT2lfwFGeRN"
+      },
+      "artists": [
+        {
+          "name": "Jen Cardini",
+          "url": "https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316137,
+      "name": "petit monstre",
+      "url": "https://open.spotify.com/track/4eou8VTvxMzUc9XDAGGhvr"
+    },
+    {
+      "album": {
         "name": "Bborn Again",
         "url": "https://open.spotify.com/album/0I9U9zBMdzqvawfaIt6JvY"
       },
@@ -13986,7 +14130,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 196480,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/1MMFFS8ddSQbYVBclBZTZN"
@@ -18460,7 +18604,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 277093,
       "name": "Un Violador En Tu Camino",
       "url": "https://open.spotify.com/track/0aktIlQWd9i0syZbF0UeDe"
@@ -18486,6 +18630,24 @@
       "duration_ms": 201459,
       "name": "Unavailable",
       "url": "https://open.spotify.com/track/6hi2SU53dvRJcko8Esqt7g"
+    },
+    {
+      "album": {
+        "name": "Uncanny Valley",
+        "url": "https://open.spotify.com/album/3R1ZLzQAznKZlxwOHM69Pp"
+      },
+      "artists": [
+        {
+          "name": "Special Request",
+          "url": "https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266827,
+      "name": "Uncanny Valley",
+      "url": "https://open.spotify.com/track/2f0tSLId7ddnYbMzBWKeIt"
     },
     {
       "album": {
@@ -19580,7 +19742,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 309000,
       "name": "Wisco",
       "url": "https://open.spotify.com/track/1sSuiIarFUaLo7X3UZkOh3"
@@ -19686,7 +19848,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 361846,
       "name": "WORK HARD PLAY HARD",
       "url": "https://open.spotify.com/track/6u1oRf5VtZHNadLrTZI7UL"

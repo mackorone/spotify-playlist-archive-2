@@ -2,9 +2,9 @@
 
 ### [Los Gallos](https://open.spotify.com/playlist/37i9dQZF1DX5moeZr1JWKb)
 
-> Estas son las grandes voces del Hip Hop\. Foto: Kei Linch
+> Estas son las grandes voces del Hip Hop\. Foto: Oblivion's Mighty Trash, Mañas Ru\-Fino
 
-240 songs - 12 hr 44 min
+241 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Cara/Cruz](https://open.spotify.com/track/2KmRADR0BFvChKNAI24cTc) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5) | [Cara/Cruz](https://open.spotify.com/album/5EOcbsuFDolPWVLSeZb02m) | 3:44 | 2023-05-26 | 2025-05-03 |
 | [CINCEL](https://open.spotify.com/track/3aklqZlbNriDYntnTFqbm5) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K), [3m5](https://open.spotify.com/artist/1dYMiH0FUuABDJekuOMnuf), [Nichess One](https://open.spotify.com/artist/1mMPZ6dhjDEGg9cqe4Y1SI), [Craz Digga](https://open.spotify.com/artist/0Ksqg1QhIxR9COemcBopPa) | [METAL II](https://open.spotify.com/album/5jybgUqJoTIoeO07AuDQ51) | 3:19 | 2024-10-18 | 2024-11-30 |
 | [Como Bolero](https://open.spotify.com/track/7pOBTfz9EOi9Yb64cOI6kv) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Como Bolero](https://open.spotify.com/album/2yEGgrU4SbngjLlJFhF3CB) | 3:14 | 2023-05-26 |  |
-| [Como el Agua](https://open.spotify.com/track/1mpOQC5ONklVLzG1oMqdeL) | [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa) | [Como el Agua](https://open.spotify.com/album/075CxmBx54Co5BbmxVXQ8p) | 3:52 | 2026-03-06 |  |
+| [Como el Agua](https://open.spotify.com/track/1mpOQC5ONklVLzG1oMqdeL) | [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa) | [Como el Agua](https://open.spotify.com/album/075CxmBx54Co5BbmxVXQ8p) | 3:52 | 2026-03-06 | 2026-04-25 |
 | [Como la Luna](https://open.spotify.com/track/1UEHZCmDiPnyHM0iYZCBtQ) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Como la Luna](https://open.spotify.com/album/2ZOtTWMHm1DG7lNFsjhJDI) | 3:46 | 2023-08-04 | 2023-08-12 |
 | [Como Un Imán](https://open.spotify.com/track/65iaEKnaGA22vX6ahS2RaS) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Como Un Imán](https://open.spotify.com/album/3H5zHjtNNxTUod4Jev6K27) | 3:45 | 2025-06-06 | 2025-11-29 |
 | [Contrato](https://open.spotify.com/track/1K10uZmH3gS5fG3HiKlNaJ) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [Contrato](https://open.spotify.com/album/1qiraKvyJTwUdWOJC2oVuQ) | 2:52 | 2023-05-26 |  |
@@ -199,6 +199,7 @@
 | [Serio](https://open.spotify.com/track/4yVbrHSbzkPPPpvjpJFaj7) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Nicolai Fella](https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo) | [Serio](https://open.spotify.com/album/0SMiYEDMX3hjIzCXg01rAD) | 2:57 | 2023-10-27 | 2024-02-24 |
 | [sin afinar mucho](https://open.spotify.com/track/7God0mEVammBaAoIKrfTGc) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Valentino Thompson](https://open.spotify.com/artist/5hzL70RIN1PZ7G17dQ5rsa) | [sin afinar mucho](https://open.spotify.com/album/4a4mHhGgm1SCAe20gYfDTM) | 2:00 | 2023-05-26 | 2023-07-08 |
 | [SIN TI](https://open.spotify.com/track/0JxLBxUnL4NL01OmhbqutD) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [SIN TI](https://open.spotify.com/album/0qai8pi4z5sN95OHaaJrn3) | 2:57 | 2026-03-18 | 2026-03-27 |
+| [Sol De Agua](https://open.spotify.com/track/0xeH0UXLWNfHuJt1Ne7Ewf) | [Oblivion's Mighty Trash](https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [The Colombians](https://open.spotify.com/artist/0ehLNUvsBypu4ojre6DMAF) | [Mulatos & Mestizos: Todos Los Juguetes](https://open.spotify.com/album/52YXkW1GEpwc464ydVz18X) | 3:19 | 2026-04-24 |  |
 | [Solito](https://open.spotify.com/track/3XwqbCIwHKFqTO5uSDdlRd) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Solito](https://open.spotify.com/album/4UtHfLNMicKbFyJ9SDWgCr) | 3:01 | 2024-02-23 | 2024-10-12 |
 | [Solo Es Una](https://open.spotify.com/track/0zI6k327ZynSWmJ8v4gzlf) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Solo Es Una](https://open.spotify.com/album/5ubZOVJtvooyXre0ApgzK8) | 3:30 | 2024-12-06 |  |
 | [Soñadores Atrevidos](https://open.spotify.com/track/2SVdYwGa9DMTTUR0VrE1tE) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Soñadores Atrevidos](https://open.spotify.com/album/4uQA75ZAnksqEvlPFD8jY7) | 4:32 | 2025-06-27 | 2026-03-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Olivia Rodrigo in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,223 likes - 159 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,235 likes - 159 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 25 | [Primavera](https://open.spotify.com/track/0CdgyDTmafRmT1FHhITnqe) | [Tosca](https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu) | [Feminae](https://open.spotify.com/album/2kH6UAZbpk4nZNxrkntqGJ) | 4:37 |
 | 26 | [GIMME 5](https://open.spotify.com/track/1HCjnE5dAWhrPBVZfm4lFg) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [NYLON](https://open.spotify.com/album/2Yi4G43F8tsAxX9xZL1Pjs) | 2:16 |
 | 27 | [LA MIA NATURA](https://open.spotify.com/track/1X9EPxwDC2jmAG9W6E8JNe) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [LA MIA NATURA](https://open.spotify.com/album/3Fm8nnldpUkDMe84J0tf2A) | 3:41 |
-| 28 | [Fantasy \(ft\. COBRAH\)](https://open.spotify.com/track/6CwBTCg35UfkyjJ7BB6c9U) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [It's Not That Deep \(Unless You Want It To Be\)](https://open.spotify.com/album/5tfhBGn7x0cYn9VMYhSnph) | 2:21 |
+| 28 | [Fantasy \(ft\. Cobrah\)](https://open.spotify.com/track/6CwBTCg35UfkyjJ7BB6c9U) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [It's Not That Deep \(Unless You Want It To Be\)](https://open.spotify.com/album/5tfhBGn7x0cYn9VMYhSnph) | 2:21 |
 | 29 | [BUONA DOMENICA](https://open.spotify.com/track/0mRRblaBsr3Vq79sNfv8Ty) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [BUONA DOMENICA](https://open.spotify.com/album/17jBG75ANeNCWTNsi4QSwn) | 3:07 |
 | 30 | [AL MIO PAESE](https://open.spotify.com/track/0C2IeaV0r1F8IYWe4JjM2u) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G), [DELIA](https://open.spotify.com/artist/0BjRnUqiITQwjqGtTeoxUS) | [AL MIO PAESE](https://open.spotify.com/album/2puopS5aH6YlpFJYqx6jGK) | 3:17 |
 | 31 | [Doors](https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:51 |

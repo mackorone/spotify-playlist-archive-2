@@ -4325,6 +4325,24 @@
     },
     {
       "album": {
+        "name": "SHOOTING STAR",
+        "url": "https://open.spotify.com/album/0wLaHDcoeLp1lCn6NqoKa8"
+      },
+      "artists": [
+        {
+          "name": "bird.",
+          "url": "https://open.spotify.com/artist/5ZR9GMo2iB8nxetEtvRdey"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "SHOOTING STAR",
+      "url": "https://open.spotify.com/track/4EPyum2OTU4gI81fqbrUMX"
+    },
+    {
+      "album": {
         "name": "POOL",
         "url": "https://open.spotify.com/album/60w3xIyXC9ZDvZ01aqjcpM"
       },

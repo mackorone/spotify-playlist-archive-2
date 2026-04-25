@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 368726,
+  "num_followers": 368728,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aegPgAAAAABTbL0AMlu+WSA/3BjoJ0KJ",
+  "snapshot_id": "aelhAAAAAAAUZT4sMne23DE/vMcCFemw",
   "tracks": [
     {
       "added_at": null,
@@ -355,22 +355,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desperate",
-        "url": "https://open.spotify.com/album/2qnnFD2AllqulvcOLJZQ87"
+        "name": "Then I Will (From The Motion Picture Bonhoeffer)",
+        "url": "https://open.spotify.com/album/6W3xdvbT7Bg7lBgsNUU69c"
       },
       "artists": [
-        {
-          "name": "Jamie MacDonald",
-          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
-        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 210785,
-      "name": "Desperate (with Lauren Daigle)",
-      "url": "https://open.spotify.com/track/6VoT2qfMbAduFP8vUHlhjI"
+      "duration_ms": 251569,
+      "name": "Then I Will - From The Motion Picture Bonhoeffer",
+      "url": "https://open.spotify.com/track/0gAkOZ6XtfA4e3Nr2nLUhu"
     },
     {
       "added_at": null,
@@ -407,18 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Then I Will (From The Motion Picture Bonhoeffer)",
-        "url": "https://open.spotify.com/album/6W3xdvbT7Bg7lBgsNUU69c"
+        "name": "Desperate",
+        "url": "https://open.spotify.com/album/2qnnFD2AllqulvcOLJZQ87"
       },
       "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 251569,
-      "name": "Then I Will - From The Motion Picture Bonhoeffer",
-      "url": "https://open.spotify.com/track/0gAkOZ6XtfA4e3Nr2nLUhu"
+      "duration_ms": 210785,
+      "name": "Desperate (with Lauren Daigle)",
+      "url": "https://open.spotify.com/track/6VoT2qfMbAduFP8vUHlhjI"
     },
     {
       "added_at": null,

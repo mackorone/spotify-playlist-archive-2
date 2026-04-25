@@ -2761,6 +2761,28 @@
     },
     {
       "album": {
+        "name": "Daira",
+        "url": "https://open.spotify.com/album/1ObrRiBiUCUSiVw8skwxcM"
+      },
+      "artists": [
+        {
+          "name": "Sanjeeta Bhattacharya",
+          "url": "https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc"
+        },
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162105,
+      "name": "Daira",
+      "url": "https://open.spotify.com/track/41oD3vGW5Yuqf0klpbhKqa"
+    },
+    {
+      "album": {
         "name": "City Sessions, Vol. 2 (Side A)",
         "url": "https://open.spotify.com/album/5PWT6nirwVvZ62TM1rsi7F"
       },
@@ -4898,10 +4920,6 @@
         {
           "name": "Afsana Khan",
           "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
-        },
-        {
-          "name": "Anmol Daniel",
-          "url": "https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h"
         }
       ],
       "date_added": "2025-04-24",
@@ -5396,7 +5414,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 192226,
       "name": "Ishq Ne Tere",
       "url": "https://open.spotify.com/track/5BPnQISGL40w5YOZl5VCSs"
@@ -6430,7 +6448,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 151153,
       "name": "Kahani",
       "url": "https://open.spotify.com/track/6zSti5bE1NnAZ27t00ITr5"
@@ -10066,6 +10084,24 @@
       "duration_ms": 174411,
       "name": "O Mahiya",
       "url": "https://open.spotify.com/track/2zeo9CWSwvSeSm4tQuq6oz"
+    },
+    {
+      "album": {
+        "name": "Wahh",
+        "url": "https://open.spotify.com/album/5nTCBZL2bQImLR21Biwa4D"
+      },
+      "artists": [
+        {
+          "name": "Bawari Basanti",
+          "url": "https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193306,
+      "name": "O Meri Jaan",
+      "url": "https://open.spotify.com/track/4AM0j5OfM0emlouE3F09VJ"
     },
     {
       "album": {

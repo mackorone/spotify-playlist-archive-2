@@ -468,7 +468,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 226674,
       "name": "Baby (Version fran\u00e7aise)",
       "url": "https://open.spotify.com/track/0iaPZE774qhQg2I1OXpS7x"
@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 187198,
       "name": "Dans l\u2019temps",
       "url": "https://open.spotify.com/track/1vFup6NBDo6yL5ubgErCo9"
@@ -2016,7 +2016,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 197769,
       "name": "D\u00e9placement",
       "url": "https://open.spotify.com/track/6hdfa16VWPN4qVD7QPKI9b"
@@ -3506,7 +3506,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 181480,
       "name": "L'amour des autres",
       "url": "https://open.spotify.com/track/3r4qVYEOtbKCxrkphXpkn6"
@@ -4590,6 +4590,24 @@
       "duration_ms": 300360,
       "name": "Les chemins de travers",
       "url": "https://open.spotify.com/track/48I7QLC2SNkoLIF5mEqO1j"
+    },
+    {
+      "album": {
+        "name": "LES CHOSES BELLES",
+        "url": "https://open.spotify.com/album/46C93RSJBFY8UJoHevUg3I"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lodie-Jade",
+          "url": "https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181907,
+      "name": "les choses belles",
+      "url": "https://open.spotify.com/track/4DCF9iRPYxQHeljuJYFpzq"
     },
     {
       "album": {
@@ -5907,6 +5925,24 @@
     },
     {
       "album": {
+        "name": "L'\u00cele (deluxe)",
+        "url": "https://open.spotify.com/album/6OLwT82yXvG07HYixxQJve"
+      },
+      "artists": [
+        {
+          "name": "Simon Kearney",
+          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220253,
+      "name": "Out of Luck",
+      "url": "https://open.spotify.com/track/3W6jc3nsGjtx9qe7UDJp3S"
+    },
+    {
+      "album": {
         "name": "L'amour",
         "url": "https://open.spotify.com/album/20kOxkzUNBeScEGnwsT0g5"
       },
@@ -5926,6 +5962,24 @@
       "duration_ms": 175463,
       "name": "O\u00f9 on dansait autrefois",
       "url": "https://open.spotify.com/track/3rhIceZq9SoI6yN2ySoJnH"
+    },
+    {
+      "album": {
+        "name": "O\u00f9 sont pass\u00e9s mes r\u00eaves",
+        "url": "https://open.spotify.com/album/4vjRJyB147KrMbpTLeqaqI"
+      },
+      "artists": [
+        {
+          "name": "Vice du Nord",
+          "url": "https://open.spotify.com/artist/4yJ5foa0Em55APjnvFE6qm"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205294,
+      "name": "O\u00f9 sont pass\u00e9s mes r\u00eaves",
+      "url": "https://open.spotify.com/track/1s0C6Fg6vqHBLJRLF4m86o"
     },
     {
       "album": {
@@ -6208,7 +6262,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 292173,
       "name": "pourquoi",
       "url": "https://open.spotify.com/track/1F5vx3A1XQMAiJGQ9F1TCJ"
@@ -6468,6 +6522,32 @@
       "duration_ms": 232319,
       "name": "Que ta lumi\u00e8re",
       "url": "https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD"
+    },
+    {
+      "album": {
+        "name": "Quel tourment !",
+        "url": "https://open.spotify.com/album/5lH7pG039yqIIryX9XUmPO"
+      },
+      "artists": [
+        {
+          "name": "Caroline Savoie",
+          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
+        },
+        {
+          "name": "Jeanne C\u00f4t\u00e9",
+          "url": "https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7"
+        },
+        {
+          "name": "Ponteix",
+          "url": "https://open.spotify.com/artist/1v0LRrF0AKvsTKrzNqVTEl"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202821,
+      "name": "Quel tourment !",
+      "url": "https://open.spotify.com/track/5TTrU6eheAdQYyHSL7dnR7"
     },
     {
       "album": {
@@ -7020,7 +7100,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 214618,
       "name": "Seul",
       "url": "https://open.spotify.com/track/5E68WhqLfnLPXEHJe9JH1I"
@@ -7042,6 +7122,24 @@
       "duration_ms": 162416,
       "name": "Shalala",
       "url": "https://open.spotify.com/track/5xvpBqznG7UWA7f8yAWTuE"
+    },
+    {
+      "album": {
+        "name": "Si j'avais un clou",
+        "url": "https://open.spotify.com/album/5Ta4hSDVG7dcLf2PSCFTpl"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229720,
+      "name": "Si j'avais un clou",
+      "url": "https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm"
     },
     {
       "album": {

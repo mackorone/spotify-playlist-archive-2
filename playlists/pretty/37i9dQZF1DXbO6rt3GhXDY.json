@@ -1,12 +1,12 @@
 {
   "description": "You know em, you love em, these are indie pop hits. Cover: Malcolm Todd",
-  "num_followers": 247198,
+  "num_followers": 247288,
   "original_name": "Indie Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN0CQvpk5y9pM10An+k+6dt+brcZ",
+  "snapshot_id": "AAAAAFboitpvYylnH58qwO3vbZeXnULI",
   "tracks": [
     {
       "added_at": "2026-04-16 05:13:54",
@@ -247,6 +247,22 @@
       "duration_ms": 207795,
       "name": "Sexy to Someone",
       "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
+    },
+    {
+      "added_at": "2026-04-24 04:01:28",
+      "album": {
+        "name": "He's My Man",
+        "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "duration_ms": 232985,
+      "name": "He's My Man",
+      "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
     },
     {
       "added_at": "2026-04-16 05:13:54",
@@ -1679,22 +1695,6 @@
     {
       "added_at": "2026-04-16 05:13:54",
       "album": {
-        "name": "GINGER",
-        "url": "https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 204541,
-      "name": "SUGAR",
-      "url": "https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA"
-    },
-    {
-      "added_at": "2026-04-16 05:13:54",
-      "album": {
         "name": "Bipolar",
         "url": "https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT"
       },
@@ -1931,38 +1931,6 @@
       "duration_ms": 194716,
       "name": "Televised",
       "url": "https://open.spotify.com/track/35Ki1lvKPC2sFBD3GmKdRG"
-    },
-    {
-      "added_at": "2026-04-16 05:13:54",
-      "album": {
-        "name": "Analogue",
-        "url": "https://open.spotify.com/album/1SgtXskC74No0x9a9iDlfw"
-      },
-      "artists": [
-        {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
-        }
-      ],
-      "duration_ms": 196799,
-      "name": "North Face",
-      "url": "https://open.spotify.com/track/63bAGRSSX2V1hhPSP2NpBC"
-    },
-    {
-      "added_at": "2026-04-16 05:13:54",
-      "album": {
-        "name": "Drowsy",
-        "url": "https://open.spotify.com/album/6gdKSMjXifoIM4UHulemYf"
-      },
-      "artists": [
-        {
-          "name": "Banes World",
-          "url": "https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "You Say I'm in Love",
-      "url": "https://open.spotify.com/track/08NJnDmwIQIw08S2ugyFRU"
     },
     {
       "added_at": "2026-04-16 05:13:54",

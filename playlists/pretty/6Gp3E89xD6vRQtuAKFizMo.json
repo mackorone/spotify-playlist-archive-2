@@ -6,8 +6,52 @@
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAaqm5zRtqOyviWLnbL/GesXX2wu0qR",
+  "snapshot_id": "AAAarEgmgtQcwmB3RVPdWExY8Okjo2Zk",
   "tracks": [
+    {
+      "added_at": "2026-04-24 04:00:47",
+      "album": {
+        "name": "Fear My Name (feat. Barmuda)",
+        "url": "https://open.spotify.com/album/5hDh70WV9nYGjOzLsl1DfP"
+      },
+      "artists": [
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        },
+        {
+          "name": "Reflect",
+          "url": "https://open.spotify.com/artist/6yWLx1Sm7WlgEyZ1UZzubz"
+        },
+        {
+          "name": "Barmuda",
+          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "Fear My Name (feat. Barmuda)",
+      "url": "https://open.spotify.com/track/7D46r85p07LcPPvGoyWeHC"
+    },
+    {
+      "added_at": "2026-04-24 04:00:46",
+      "album": {
+        "name": "Mind On The Beat",
+        "url": "https://open.spotify.com/album/1FcuJRN9laNZB82swrPrUR"
+      },
+      "artists": [
+        {
+          "name": "SEUNG",
+          "url": "https://open.spotify.com/artist/1CuQ0y8pGZjIKzOiEzxRbV"
+        },
+        {
+          "name": "AVE",
+          "url": "https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "Mind On The Beat",
+      "url": "https://open.spotify.com/track/7v0FrXXKGnVelJsJQubUxV"
+    },
     {
       "added_at": "2026-04-17 04:00:45",
       "album": {

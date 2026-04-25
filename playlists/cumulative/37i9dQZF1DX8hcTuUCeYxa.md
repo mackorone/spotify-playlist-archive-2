@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Sofie Royer
 
-2,778 songs - 6 day 15 hr 45 min
+2,778 songs - 6 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -920,6 +920,7 @@
 | [Glimpse](https://open.spotify.com/track/0aGJkwtYb5DAJjpIAZ8lmZ) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Glimpse](https://open.spotify.com/album/4hsNAPEzpwXvXM8IzpEtmm) | 3:16 | 2024-09-05 | 2024-09-27 |
 | [Go Big or Go Home](https://open.spotify.com/track/2bRn30Os1pLyNBqQWH1zaE) | [Moonlight Breakfast](https://open.spotify.com/artist/1lfKZ5QsMaOjo5UbVmNaqp) | [Go Big or Go Home](https://open.spotify.com/album/4OfdHlV66vUGh4M8nrWXOQ) | 2:18 | 2024-06-28 | 2024-07-05 |
 | [Go to the Sun](https://open.spotify.com/track/69sXm8i1Pk7sKPpx5wmstO) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Go to the Sun](https://open.spotify.com/album/6OXhqk3yCVp79X7XjwB7Tw) | 2:56 | 2024-11-28 | 2025-01-10 |
+| [GO WASTE MY TIME](https://open.spotify.com/track/7DFfCiPrHqsI0Qa1qFDu33) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [GLORY \(Deluxe\)](https://open.spotify.com/album/7MIsmUZTR5rR4jYZbOGXFV) | 2:55 | 2026-04-23 |  |
 | [Go!](https://open.spotify.com/track/32dPWlM6CblltDzJy9EmCu) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [House With The Blue Door](https://open.spotify.com/album/7D5rk5d5YQQft2dv1Yoa93) | 3:05 | 2024-10-03 | 2024-10-18 |
 | [God in the Middle](https://open.spotify.com/track/0kQdh1yqErJjcNbBNVsU1r) | [Helmut](https://open.spotify.com/artist/6ReyaIMVxJYKqQnmQHM5Vt) | [God in the Middle](https://open.spotify.com/album/2mS0mtmCeaL4anmimEFJiA) | 3:52 | 2026-01-08 | 2026-02-06 |
 | [God Loves Weirdos](https://open.spotify.com/track/2ZrUGV4BYg13r4Q3ilGdt3) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [God Loves Weirdos](https://open.spotify.com/album/0Goshi4S6DLOdTCoPDTsXB) | 3:09 | 2025-04-17 | 2025-05-02 |
@@ -1113,6 +1114,7 @@
 | [I Feel Like Escaping](https://open.spotify.com/track/06rGT9IneWDlhdWKl7dMoM) | [Bon Jour](https://open.spotify.com/artist/5roPkeVjygRQYcEyCoj4XA) | [How Long Is Forever](https://open.spotify.com/album/6zO3mfheb1Xbo5W4VpPmds) | 2:46 | 2026-04-16 |  |
 | [I Forget \(I’m So Young\)](https://open.spotify.com/track/64Arxcm1BKaKaXhq8aWoCy) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [I Forget \(I’m So Young\)](https://open.spotify.com/album/3gsfSprEh8MiW0ir872S1Z) | 4:19 | 2024-08-22 | 2024-09-13 |
 | [I Got Cracked](https://open.spotify.com/track/24Og6NEvKGGJmxNJCJ7Ugm) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [I Got Cracked](https://open.spotify.com/album/4bubPbLDMUekBjvHIrhgYe) | 3:39 | 2024-06-28 | 2024-07-27 |
+| [I Got Me a Microwave](https://open.spotify.com/track/594OWPsLAy7BkscxWjBXGH) | [Helmut](https://open.spotify.com/artist/6ReyaIMVxJYKqQnmQHM5Vt) | [Content Creatures](https://open.spotify.com/album/2unlBuf3FpNl9UsANO62RD) | 3:53 | 2026-04-23 |  |
 | [I Guess Time Just Makes Fools of Us All](https://open.spotify.com/track/4xeFxp27NAtRoUrNcgVD9k) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Guess Time Just Makes Fools of Us All](https://open.spotify.com/album/4gDC4nhPJKoQ5wWvcofTvg) | 8:35 | 2024-08-01 | 2024-08-30 |
 | [I Had a Dream She Took My Hand](https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [I Had a Dream She Took My Hand](https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw) | 3:40 | 2026-02-12 | 2026-03-13 |
 | [I Have So Much To Tell You](https://open.spotify.com/track/2PkCkaQc3Gokr4eHCs2C2B) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [I Have So Much To Tell You](https://open.spotify.com/album/6erpduA3ocDzhOCMLD8msi) | 3:50 | 2025-10-16 | 2025-10-31 |
@@ -1612,6 +1614,7 @@
 | [Mr\. Plastic](https://open.spotify.com/track/6spcrcdCq4lcRnYVkhVQRb) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Mr\. Plastic](https://open.spotify.com/album/0AvBXxggtjAbVknmfvDegZ) | 2:11 | 2025-09-11 | 2025-09-27 |
 | [Mr\. Revival](https://open.spotify.com/track/2zflTv5ACz0Ec6NCtdQ7Dn) | [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [Mr\. Revival](https://open.spotify.com/album/0l4PJztWyARnqqvgcsNyhM) | 3:34 | 2025-06-19 | 2025-07-18 |
 | [Mud](https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Mud](https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN) | 2:07 | 2025-02-06 | 2025-02-14 |
+| [Music Is Medicine](https://open.spotify.com/track/6uyl1VgtP5llkq8rZDwNYs) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [Music Is Medicine](https://open.spotify.com/album/3VfPYK3rE6o6u1rsWedXEo) | 2:42 | 2026-04-23 |  |
 | [Mutations \- Edit](https://open.spotify.com/track/5Uzoly9A6Y1SZt4Um5cU5u) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Mutations](https://open.spotify.com/album/3le0WTsv4dcgH7mqZ7bL0Z) | 2:44 | 2024-08-15 | 2024-09-13 |
 | [My Baby](https://open.spotify.com/track/3IoknZ5v6SeuCiinT5j7MS) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [My Baby](https://open.spotify.com/album/34U5by0mD1zacluFdEmAoU) | 2:47 | 2024-09-26 | 2024-10-18 |
 | [My Baby \(Got Nothing At All\) \(Materialists Original Soundtrack\)](https://open.spotify.com/track/6P0bG1wDbLvs8kNJV4hQUt) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [My Baby \(Got Nothing At All\) \(Materialists Original Soundtrack\)](https://open.spotify.com/album/5ykmfDC5Y89gnzQYE8oPIu) | 4:02 | 2025-06-12 | 2025-07-04 |
@@ -2500,9 +2503,6 @@
 | [Tougher Than the Rest](https://open.spotify.com/track/7t0MtBzJwoYBkdyeFDlzYS) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Tougher Than the Rest](https://open.spotify.com/album/00psl1omSGzV4KlAiR9kLA) | 5:10 | 2026-04-16 |  |
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-09-27 |
-| [Track 12](https://open.spotify.com/track/7DFfCiPrHqsI0Qa1qFDu33) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [GLORY \(Deluxe\)](https://open.spotify.com/album/7MIsmUZTR5rR4jYZbOGXFV) | 0:00 | 2026-04-23 |  |
-| [Track 2](https://open.spotify.com/track/594OWPsLAy7BkscxWjBXGH) | [Helmut](https://open.spotify.com/artist/6ReyaIMVxJYKqQnmQHM5Vt) | [Content Creatures](https://open.spotify.com/album/2unlBuf3FpNl9UsANO62RD) | 0:00 | 2026-04-23 |  |
-| [Track 3](https://open.spotify.com/track/6uyl1VgtP5llkq8rZDwNYs) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [Music Is Medicine](https://open.spotify.com/album/3VfPYK3rE6o6u1rsWedXEo) | 0:00 | 2026-04-23 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 | 2026-04-24 |
 | [Tragic](https://open.spotify.com/track/0h7M39CvtDJl9OzXxYPyf6) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Tragic](https://open.spotify.com/album/3XYFyxePlQpWQmwfeb5oM6) | 2:43 | 2026-02-19 | 2026-03-06 |

@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-234 songs - 11 hr 25 min
+236 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Paradise](https://open.spotify.com/track/4bruCU0ILLoOfF3iE27opD) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Paradise](https://open.spotify.com/album/7fshDHj8Sayc1AwggqjKot) | 3:22 | 2025-07-04 |  |
 | [Perfect Way](https://open.spotify.com/track/1U8Zqw8IM2f3CTpvVXE8UD) | [Lewis Laite](https://open.spotify.com/artist/2b0vMnjRQjc7qi7y2lrCfb), [Erich Thomas](https://open.spotify.com/artist/2o6R6fXNcSKLLFeVxCmVzC), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Perfect Way](https://open.spotify.com/album/1lQZKTy26ja6fa2ImZnUD3) | 3:50 | 2025-07-04 | 2025-10-30 |
 | [Power](https://open.spotify.com/track/7jwEHAH903dO2gO2eX9t4A) | [LUSSO](https://open.spotify.com/artist/6hOrbqntEsgBVm4YstRyVR) | [Power](https://open.spotify.com/album/3D1nEf1iwpNGXr41LzQUHI) | 2:20 | 2025-07-04 |  |
+| [Powerhouse](https://open.spotify.com/track/44qhkWQvfoSVJ8Aa4EPtUs) | [Dirty Signal](https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ) | [Powerhouse](https://open.spotify.com/album/7lIbGOvM7puHbyLssuCB7c) | 2:55 | 2026-04-24 |  |
 | [Prominent](https://open.spotify.com/track/4pms9OjqQ5FdU4dXjPEm8r) | [Alex Ender](https://open.spotify.com/artist/4tVEnDtBhp4mjGvkgXlp1d), [Joop](https://open.spotify.com/artist/787pjl8QjVnQzg7GgINf9r) | [Prominent](https://open.spotify.com/album/0sBSi2fL73hHfLfUMNdXQy) | 2:00 | 2025-07-04 |  |
 | [Ravers Of The Night](https://open.spotify.com/track/2MhVERzSRYyWlyuCnQbQ6H) | [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt), [Nick Havsen](https://open.spotify.com/artist/1MISHmlS06R8ba7RVsn0A3), [ALEJANDRO](https://open.spotify.com/artist/04qwzk49excRTxwyOJ66KR) | [Ravers Of The Night](https://open.spotify.com/album/0qiOQ5yVlLsBegEmeVUvFv) | 2:52 | 2025-07-04 | 2025-10-30 |
 | [Ready To The Grave](https://open.spotify.com/track/4jVl7BfcMfesbi3fT2utk2) | [Prilho](https://open.spotify.com/artist/1F1MraLAdnpa7Pqg5K3Eg8), [D4NIM](https://open.spotify.com/artist/1TtbViLPtFWt264Ym5g3Ci) | [Ready To The Grave](https://open.spotify.com/album/4UVsQRXrd48sk1HoQzzPBz) | 2:58 | 2025-07-04 |  |
@@ -191,6 +192,7 @@
 | [Side2Side \(feat\. Kris Kiss\)](https://open.spotify.com/track/4fW6SaZcLGqorpZ8iORrNt) | [Bonka](https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF), [DJ Junior \(TW\)](https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Side2Side \(feat\. Kris Kiss\)](https://open.spotify.com/album/0XkB0bCvalhDWuiG5Cqdnr) | 1:57 | 2025-07-04 | 2025-09-06 |
 | [Silentium](https://open.spotify.com/track/1RvEUnJ0LEVOizVzT11mCN) | [Futuristic Polar Bears](https://open.spotify.com/artist/47v4vGA1qCl7hyevSkpRM7), [Renato S](https://open.spotify.com/artist/2M9nsWRUhhvYvfZmOYgTwZ) | [Silentium](https://open.spotify.com/album/23QWaR85NK2Hoh2vv3D3h1) | 2:21 | 2025-07-04 |  |
 | [Slave To The Rave](https://open.spotify.com/track/1e18A8eZtJk60LffIK1bBK) | [Jimmy Clash](https://open.spotify.com/artist/0Aa2FUc7MciV28GazFTWJb) | [Slave To The Rave](https://open.spotify.com/album/1Q2uFmFATYOzUFYLNW6vAx) | 2:54 | 2025-07-04 |  |
+| [Song of Pirates](https://open.spotify.com/track/2BTLiUMi8PPpEkGbBYDGhZ) | [AR3Y](https://open.spotify.com/artist/2Y5mvRUCaJuhkG43OfzFDm) | [Song of Pirates](https://open.spotify.com/album/3cst7rex56w8LBANgiXpLu) | 2:39 | 2026-04-24 |  |
 | [Starscream](https://open.spotify.com/track/6aDr24Ue0iRhzfDv5watIG) | [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [Skarleth](https://open.spotify.com/artist/5TC0uyyYFSzWL67pxKeOeR) | [Starscream](https://open.spotify.com/album/06XlhIt2Ee02zToldcXdFp) | 2:59 | 2025-07-04 | 2026-01-15 |
 | [Stuck In A Rave](https://open.spotify.com/track/6avcb5mdzwXwYhLSxKZoPb) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8), [Georgi](https://open.spotify.com/artist/2c4RNY0rzMiJsdMio2FdS8) | [Stuck In A Rave](https://open.spotify.com/album/1Vk6pxxcZRWF3a7Dt47lXQ) | 3:03 | 2025-07-04 |  |
 | [Sunshine](https://open.spotify.com/track/56uJYp9LfVyVzQcmqYV0ax) | [MatricK](https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH) | [Sunshine](https://open.spotify.com/album/0uHA8ERU6GhdKwBtxa4NW3) | 2:49 | 2025-10-09 |  |

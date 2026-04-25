@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 639 likes - 92 songs - 5 hr 22 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 642 likes - 93 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,5 +100,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 90 | [Guardián](https://open.spotify.com/track/2htQimkUR0Pmgoy2btuzhE) | [Nacho Sarmiento](https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr) | [Guardián](https://open.spotify.com/album/17Z51LeroL1wjzeowHSI1V) | 4:36 |
 | 91 | [Si todo sale bien](https://open.spotify.com/track/1Gn9ykSzLlZvaCa1pukJnj) | [Los flashbacks](https://open.spotify.com/artist/7nTHQqaADpTSns4HYfMw1Y) | [Extraños](https://open.spotify.com/album/63KyCcPToU4kF3w03sSZMB) | 2:39 |
 | 92 | [Last Dance](https://open.spotify.com/track/7pCxiJ03tUx5u1ZkaUIsT0) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [Nervous Systems](https://open.spotify.com/album/4w1MzmNEvgMWzLApXX3eml) | 3:17 |
+| 93 | [False Prophet](https://open.spotify.com/track/3wE5xlV9u7L91aa7KfknwG) | [Holy Island](https://open.spotify.com/artist/4mDskLBS4JOyI52mzQ9H5m) | [False Prophet](https://open.spotify.com/album/29bErY1NGaYrHjmNIMvX7x) | 4:10 |
 
-Snapshot ID: `AAADVzg4l62cwk3gxXzguRq+OK7N/Hz3`
+Snapshot ID: `AAADWMWpwR+lCDA8OrNbF+TsUpn//+eJ`

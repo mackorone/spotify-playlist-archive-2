@@ -4,7 +4,7 @@
 
 > Todo lo nuevo de música tropical 📸 Thalía
 
-4,785 songs - 11 day 12 hr 19 min
+4,785 songs - 11 day 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3673,7 +3673,7 @@
 | [Santa Claus Llegó a La Ciudad](https://open.spotify.com/track/6xus3uyJwiaGDTnAjU10oa) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [Holy Moly Christmas](https://open.spotify.com/album/67mt3JPGbDT4J2tptkiIIk) | 3:02 | 2024-11-29 | 2024-12-07 |
 | [Santa Marta](https://open.spotify.com/track/4XIpKXTvQ3Wa94C2zsYfV1) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Viaje](https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU) | 3:20 | 2024-05-17 | 2024-05-25 |
 | [Santa Noche](https://open.spotify.com/track/5jRRLXMVj9Cr7wsIy4C6PV) | [Luana](https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy) | [Santa Noche](https://open.spotify.com/album/6o2WXWqZrqCuRKrqjX074z) | 2:19 | 2023-09-15 | 2023-09-23 |
-| [Sarandí del Yí](https://open.spotify.com/track/5GZhZ7VKleZwyagqD9b5z8) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Sarandí del Yí](https://open.spotify.com/album/3c8y67I0oDAHH1M7jJ8XIR) | 3:05 | 2026-04-10 |  |
+| [Sarandí del Yí](https://open.spotify.com/track/5GZhZ7VKleZwyagqD9b5z8) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Sarandí del Yí](https://open.spotify.com/album/3c8y67I0oDAHH1M7jJ8XIR) | 2:35 | 2026-04-10 |  |
 | [SaSa](https://open.spotify.com/track/79ETUBpfw12j3MTdYLteyx) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [SaSa](https://open.spotify.com/album/1A9XILpF2pE09N6zEDkofF) | 3:30 | 2025-06-27 | 2025-07-26 |
 | [SDLM](https://open.spotify.com/track/4ERWsdJoLGLpa5am0P1YSc) | [LA GURU](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [SDLM](https://open.spotify.com/album/2fc2IhHVc9meBpn9uR8HHZ) | 2:59 | 2025-06-13 | 2025-07-12 |
 | [Se Acabo Quien Te Queria](https://open.spotify.com/track/2JHJyOvYBe3R2gDXLfh1v5) | [Claveles de la Cumbia](https://open.spotify.com/artist/6xONmQbNz6KhUEabbxPb6S) | [Se Acabo Quien Te Queria](https://open.spotify.com/album/2lNabWLcJopOM4YGjYBERg) | 3:46 | 2024-07-26 | 2024-08-03 |

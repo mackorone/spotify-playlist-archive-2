@@ -1,12 +1,12 @@
 {
   "description": "Perreando toda la noche con El Malilla y Luis R Conriquez.",
-  "num_followers": 756082,
+  "num_followers": 756088,
   "original_name": "Perreo City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKeOlqeZnqDxsbXikzdKjTBGdedZ",
+  "snapshot_id": "AAAAAFn7W7rBPWXSMvzejLjbbpfMo3xv",
   "tracks": [
     {
       "added_at": "2026-04-24 02:00:23",
@@ -275,6 +275,38 @@
       "duration_ms": 162068,
       "name": "BIPOLAR",
       "url": "https://open.spotify.com/track/50XWpz0ZinpGTnV47ac0PM"
+    },
+    {
+      "added_at": "2026-04-24 18:28:05",
+      "album": {
+        "name": "Sentimiento M\u00e1gico (feat. FLOUSES) [Remix]",
+        "url": "https://open.spotify.com/album/4uqgHKAFAFiBXchoUpWD9X"
+      },
+      "artists": [
+        {
+          "name": "Benja Valencia",
+          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
+        },
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "FLOUSES",
+          "url": "https://open.spotify.com/artist/79uEbaIj1KmIfSa220Fawm"
+        }
+      ],
+      "duration_ms": 291459,
+      "name": "Sentimiento M\u00e1gico (feat. FLOUSES) - Remix",
+      "url": "https://open.spotify.com/track/3ApX5mxf1DYrgRTWstFVXV"
     },
     {
       "added_at": "2026-04-24 02:00:23",

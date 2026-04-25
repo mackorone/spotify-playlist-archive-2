@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 28100,
+  "num_followers": 28121,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aegPgAAAAADYTAkeOyols1PN/utsW91J",
+  "snapshot_id": "aelhAAAAAACOLZYUIlJWxt7Sf5IE13i+",
   "tracks": [
     {
       "added_at": null,
@@ -767,30 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Butter (with Baby Tate)",
-        "url": "https://open.spotify.com/album/1AcQ5sph3JVQ9lPMwDaHax"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Ghosttown",
-          "url": "https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "Butter (with Baby Tate)",
-      "url": "https://open.spotify.com/track/7s8nNvuxQyAobdOcaJNJVv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All The Colors",
         "url": "https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 227137,
       "name": "Neighborhood (with Krayzie Bone & Prof)",
       "url": "https://open.spotify.com/track/6cLk7MbP2eN80S0wbwbyl6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Butter (with Baby Tate)",
+        "url": "https://open.spotify.com/album/1AcQ5sph3JVQ9lPMwDaHax"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Ghosttown",
+          "url": "https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "Butter (with Baby Tate)",
+      "url": "https://open.spotify.com/track/7s8nNvuxQyAobdOcaJNJVv"
     },
     {
       "added_at": null,

@@ -1657,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "BULLA",
+        "url": "https://open.spotify.com/album/65dArOxrAgL9TKZNHp74ei"
+      },
+      "artists": [
+        {
+          "name": "Annasofia",
+          "url": "https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174524,
+      "name": "BULLA",
+      "url": "https://open.spotify.com/track/0MSOSpT3zFFeHCFDGmvpUU"
+    },
+    {
+      "album": {
         "name": "Lo Que Queda En El Aire",
         "url": "https://open.spotify.com/album/6AkiAuBKXri22573T23r9E"
       },

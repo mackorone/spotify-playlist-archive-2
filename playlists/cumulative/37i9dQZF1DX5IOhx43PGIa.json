@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 247955,
       "name": "Bellissima",
       "url": "https://open.spotify.com/track/2qiphiZkWC6GFKNOcrr7ch"
@@ -2046,7 +2046,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 203076,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/17XxoRBKPgZqSzYLFW3gto"
@@ -2880,7 +2880,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 120250,
       "name": "Boohoo",
       "url": "https://open.spotify.com/track/02NMxmTOhiZkptYAyQBu1R"
@@ -5962,6 +5962,24 @@
       "duration_ms": 248000,
       "name": "Don\u2019t Worry",
       "url": "https://open.spotify.com/track/3SdpIiX0RAj9FSqpfV7mAB"
+    },
+    {
+      "album": {
+        "name": "Wishbone Deluxe",
+        "url": "https://open.spotify.com/album/18BxfsH93SUb77MlISUt60"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234015,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/3TFteVg7d3VCHrRv0ASyOo"
     },
     {
       "album": {
@@ -13028,7 +13046,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 174545,
       "name": "LOCK ME OUT",
       "url": "https://open.spotify.com/track/6n0qQ8JIB2nWs8fOMcDFcW"
@@ -14990,7 +15008,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 149142,
       "name": "Morning",
       "url": "https://open.spotify.com/track/3Loj7PPp5LnYMTkluYIMJJ"
@@ -17989,6 +18007,24 @@
     },
     {
       "album": {
+        "name": "rollerblade",
+        "url": "https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114056,
+      "name": "rollerblade",
+      "url": "https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf"
+    },
+    {
+      "album": {
         "name": "rollercoaster",
         "url": "https://open.spotify.com/album/4DFPiesLsxxLWDy1SPhfAa"
       },
@@ -18178,6 +18214,28 @@
       "duration_ms": 164440,
       "name": "Sane",
       "url": "https://open.spotify.com/track/4a8OowLwNQ9sY8xrvFW5YP"
+    },
+    {
+      "album": {
+        "name": "Sarah",
+        "url": "https://open.spotify.com/album/3TKVQ0RsXUqPTNYwaLAzF7"
+      },
+      "artists": [
+        {
+          "name": "8RO8",
+          "url": "https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8"
+        },
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177206,
+      "name": "Sarah",
+      "url": "https://open.spotify.com/track/0XwQDtlYvwFuTrhR57WO76"
     },
     {
       "album": {
@@ -22003,6 +22061,24 @@
     },
     {
       "album": {
+        "name": "adagio",
+        "url": "https://open.spotify.com/album/1BNiIpMz58htoqjXUMpq1T"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "The Symphony of Fxxkboys",
+      "url": "https://open.spotify.com/track/52KygGkyBwayKKdv7gDAdP"
+    },
+    {
+      "album": {
         "name": "The Weekend",
         "url": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
       },
@@ -24972,6 +25048,24 @@
       "duration_ms": 186020,
       "name": "You Killed The Music",
       "url": "https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy"
+    },
+    {
+      "album": {
+        "name": "Blue Angel Sparkling Silver 2",
+        "url": "https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor"
+      },
+      "artists": [
+        {
+          "name": "Quiet Light",
+          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186446,
+      "name": "You Say I Love You",
+      "url": "https://open.spotify.com/track/2kv2epe0oiyQs8msJXbn9w"
     },
     {
       "album": {

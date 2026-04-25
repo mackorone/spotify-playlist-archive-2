@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨dóttir.x✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,007 likes - 240 songs - 13 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,086 likes - 240 songs - 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

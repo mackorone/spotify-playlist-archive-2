@@ -4,7 +4,7 @@
 
 > The best dance hits in Africa\. Cover: Darque
 
-1,471 songs - 5 day 10 hr 14 min
+1,471 songs - 5 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,6 +482,7 @@
 | [Groovy Ke Can](https://open.spotify.com/track/2sO2Hz9HSWMe6LcUrmhVpg) | [Zito Mowa](https://open.spotify.com/artist/3Dk9FD41zSgiSrJYgmhmRj) | [Text Me When You Get Home](https://open.spotify.com/album/0zVYDRBesK9ZvoEiqbjwLe) | 6:01 | 2022-02-25 | 2022-06-10 |
 | [Gucci Chain](https://open.spotify.com/track/79R0zXdwd7TIuQvh4L1V9R) | [JKLN](https://open.spotify.com/artist/78OSlmY7jGez7noNJe0VPD) | [Gucci Chain](https://open.spotify.com/album/7wKK12ToJ8T3YCmmToM1Ab) | 3:39 | 2025-02-14 | 2025-02-28 |
 | [Gumbaya](https://open.spotify.com/track/3e3OBVdl94N5BB7nC7FN0G) | [Corre De Groove](https://open.spotify.com/artist/3yr6OPGublfD6lu4Nuc9oE), [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Deejay Nytkat](https://open.spotify.com/artist/2iv2fXdmX1wmVBhJEM8lnl), [Denny Dugg](https://open.spotify.com/artist/0t4L9zVtYUmZaxKpBw4VDC) | [Gumbaya](https://open.spotify.com/album/38jWpj4vE6f5CgarLnOtIp) | 8:21 | 2022-01-06 | 2022-04-23 |
+| [Guqa \(My Prayer\)](https://open.spotify.com/track/2i640R1xpVapryc9QKdVeo) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [TBO](https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp) | [Izinja Zam: Vol\. I](https://open.spotify.com/album/0HQLuYklJlPPnAH4Fk3IsH) | 7:05 | 2026-04-23 |  |
 | [Gypsy Woman \(Prince Kaybee Remake\)](https://open.spotify.com/track/4xIHRqcNECGyAHOwwbWWoG) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Halala](https://open.spotify.com/artist/1ZzzoPzKTlktHtAR3JAGg1) | [Gypsy Woman \(Prince Kaybee Remake\)](https://open.spotify.com/album/3baptKL2BUUl6WYqNrBCue) | 5:57 | 2024-11-28 | 2025-03-25 |
 | [Gypsy Woman \(She's Homeless\) \- Radio Edit](https://open.spotify.com/track/0VYM8PGntSVjopkFijoDzj) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Gypsy Woman \(She's Homeless\)](https://open.spotify.com/album/4h3VP1kczU98EshLXIOLBL) | 3:01 | 2022-12-31 | 2023-01-20 |
 | [Hade Boss](https://open.spotify.com/track/2ee1Pa7Gs7lIGRXrl217IG) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Mr Nation Thingz](https://open.spotify.com/artist/5N1to90ym4E3lzJg0CyEGH), [K.C Driller](https://open.spotify.com/artist/4q9iK3DBv5DqV3Pn49ynXp) | [Hade Boss](https://open.spotify.com/album/1p1GcNM063zEJBu0NsM4DO) | 6:22 | 2024-02-15 | 2024-06-14 |
@@ -1275,7 +1276,6 @@
 | [Tonight](https://open.spotify.com/track/70rIvrzenju3C2A53M3cto) | [Ghost](https://open.spotify.com/artist/6tNHdlHpPDgZQp6fa3kbM8) | [Tonight](https://open.spotify.com/album/43Ivx6bjF4vKmjiuqMIb9a) | 3:16 | 2022-07-07 | 2022-07-29 |
 | [Too Much Information \- Laolu Remix \(Edit\)](https://open.spotify.com/track/1mHdnrcPMlhwFqMrsS9Kbx) | [Dele Sosimi Afrobeat Orchestra](https://open.spotify.com/artist/6QqfKF0FAhEq6AIKLpDkSb), [Laolu](https://open.spotify.com/artist/53PSeUFq8tMZc0zdd1oUTG) | [Too Much Information \(Remixes\)](https://open.spotify.com/album/4VAJVub0Ft9gCJmODhwThV) | 8:32 | 2025-03-13 | 2025-03-22 |
 | [Touch \- Extended Mix](https://open.spotify.com/track/3itypsvYnEdQpIP77edzsh) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Touch](https://open.spotify.com/album/0OLTA9mEZfUrvsEoiZZ0xV) | 6:13 | 2025-02-14 | 2025-02-28 |
-| [Track 3](https://open.spotify.com/track/2i640R1xpVapryc9QKdVeo) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro) | [Izinja Zam: Vol\. I](https://open.spotify.com/album/0HQLuYklJlPPnAH4Fk3IsH) | 0:00 | 2026-04-23 |  |
 | [Traffic](https://open.spotify.com/track/4Zsj1GkqCnMhDk8ARB6pju) | [Cinimin](https://open.spotify.com/artist/7x5rKYGYaTOSjr5B3EBAkC) | [Traffic](https://open.spotify.com/album/4eJvBTfzGNVz6LFCYgUTHf) | 2:59 | 2022-09-22 | 2022-10-14 |
 | [Train To Work](https://open.spotify.com/track/1pNyMl9Tj4uQgyW21yY95D) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Serengeti](https://open.spotify.com/album/4dACuW8u8dZA8k5U5ZFsOh) | 7:00 | 2022-03-24 | 2022-06-18 |
 | [Tribal Drums](https://open.spotify.com/track/0IVgGcimUhHhQroMmy78Zn) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Tribal Drums](https://open.spotify.com/album/6ZWXbOy4XasSJS7RFAz68n) | 7:14 | 2022-07-07 | 2022-07-15 |

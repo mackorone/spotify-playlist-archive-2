@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Adam Port, Keinemusik
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,349 likes - 90 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,542 likes - 90 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 29 | [Falling Down](https://open.spotify.com/track/5iZBOPNOarkxLamyDCYuLd) | [Chrisik](https://open.spotify.com/artist/0UGP72VSlFW3sSV10gFZda) | [Falling Down](https://open.spotify.com/album/0xy5AqrGiP4UZmtPGLTi3R) | 4:31 |
 | 30 | [Do You?](https://open.spotify.com/track/4b3oLHcLJCLBB1jslsLhwi) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [EREZ](https://open.spotify.com/artist/0UKrJ4XldrkShYFCjRPhVa) | [Do You?](https://open.spotify.com/album/7fBNChbg0KrDeRAnxIAXo6) | 2:01 |
 | 31 | [Dimensions](https://open.spotify.com/track/7L5wjzd0ViRX8YjmmC5TTG) | [Rad.Lez](https://open.spotify.com/artist/1g055PKra2qBHhfP62Dwjk) | [Dimensions](https://open.spotify.com/album/1XTHXZ12Gp6CEmnnmgvDAJ) | 6:04 |
-| 32 | [MATICA](https://open.spotify.com/track/6YAFJXzikp6n45ySXgHfUP) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR) | [MATICA](https://open.spotify.com/album/0YMOW4Pqg7iNtP5PJFzG69) | 4:33 |
+| 32 | [MATICA](https://open.spotify.com/track/6YAFJXzikp6n45ySXgHfUP) | [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR) | [MATICA](https://open.spotify.com/album/0YMOW4Pqg7iNtP5PJFzG69) | 4:33 |
 | 33 | [Can't Wait No More](https://open.spotify.com/track/5jdGYRQ13bOgkUU7lJRHhb) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Can't Wait No More](https://open.spotify.com/album/5iIHOHgxwfXODtdNBGcaeD) | 3:25 |
 | 34 | [How Much Do You Need](https://open.spotify.com/track/01nTIjHIfRQGct07Rvla48) | [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [How Much Do You Need](https://open.spotify.com/album/4VXLcaP6e5hzVlyGJySA8S) | 4:09 |
 | 35 | [Bones](https://open.spotify.com/track/5Xzl45HSuRHiWQvxPjK3qI) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Bones](https://open.spotify.com/album/1fAeQTGs7ZTIMEBxQg8BcY) | 2:56 |

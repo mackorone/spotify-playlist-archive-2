@@ -614,7 +614,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 231733,
       "name": "Beauty and the Beast",
       "url": "https://open.spotify.com/track/2fdrPfIOxRrYV9djNtKJNR"
@@ -720,6 +720,24 @@
       "duration_ms": 111266,
       "name": "Bigger Than Us",
       "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
+    },
+    {
+      "album": {
+        "name": "Marvel Ambient",
+        "url": "https://open.spotify.com/album/6x5KxdMWRaEEt3vZb0FvFV"
+      },
+      "artists": [
+        {
+          "name": "Disney Ambient",
+          "url": "https://open.spotify.com/artist/5iop40R7W1LzJpH6Lm8ZRG"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170932,
+      "name": "Black Tears",
+      "url": "https://open.spotify.com/track/0deMp4yWp8fz0RbGgbdI7I"
     },
     {
       "album": {
@@ -1422,7 +1440,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 84704,
       "name": "Going on a Mission",
       "url": "https://open.spotify.com/track/2U40NPBtjoinwsVjoYzRQt"
@@ -3809,6 +3827,24 @@
     },
     {
       "album": {
+        "name": "Marvel Ambient",
+        "url": "https://open.spotify.com/album/6x5KxdMWRaEEt3vZb0FvFV"
+      },
+      "artists": [
+        {
+          "name": "Disney Ambient",
+          "url": "https://open.spotify.com/artist/5iop40R7W1LzJpH6Lm8ZRG"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324042,
+      "name": "The Avengers",
+      "url": "https://open.spotify.com/track/50kH6x4oHnoYvbR84mmZrv"
+    },
+    {
+      "album": {
         "name": "Disney Sleepytime Lullabies",
         "url": "https://open.spotify.com/album/4pHb2LkBfPjbMlkGWISDF6"
       },
@@ -4050,7 +4086,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 194506,
       "name": "The Rose Song",
       "url": "https://open.spotify.com/track/22BPRyDGzJcya0tB0nNjkw"
@@ -4420,6 +4456,24 @@
       "duration_ms": 161813,
       "name": "Waiting On A Miracle - Instrumental",
       "url": "https://open.spotify.com/track/59Oxnmf5QDvKmUlgeC7j8S"
+    },
+    {
+      "album": {
+        "name": "Marvel Ambient",
+        "url": "https://open.spotify.com/album/6x5KxdMWRaEEt3vZb0FvFV"
+      },
+      "artists": [
+        {
+          "name": "Disney Ambient",
+          "url": "https://open.spotify.com/artist/5iop40R7W1LzJpH6Lm8ZRG"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209172,
+      "name": "Wakanda",
+      "url": "https://open.spotify.com/track/5z3FpkkdnzHdqBb9eVRBbN"
     },
     {
       "album": {

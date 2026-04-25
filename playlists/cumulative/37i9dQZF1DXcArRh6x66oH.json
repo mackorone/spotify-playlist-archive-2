@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "Black River Sway",
+        "url": "https://open.spotify.com/album/0ew7SFpsjqVNSRRxlgKw6Y"
+      },
+      "artists": [
+        {
+          "name": "The Wet Whistles",
+          "url": "https://open.spotify.com/artist/6Fvgm07RssXriVhFg3HTIj"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217185,
+      "name": "Black River Sway",
+      "url": "https://open.spotify.com/track/7KM9s6XldjTpqTCI01fF1U"
+    },
+    {
+      "album": {
         "name": "blood",
         "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
       },
@@ -3760,7 +3778,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 163360,
       "name": "Jack & Jill Daniel's",
       "url": "https://open.spotify.com/track/30leMI4jjws5W5fEZi4xde"

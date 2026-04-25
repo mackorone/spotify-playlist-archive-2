@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-412 songs - 1 day 2 hr 13 min
+413 songs - 1 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,8 +40,9 @@
 | [Bird Set Free](https://open.spotify.com/track/44p0C72gL2FbjWbzkUFfTf) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 4:12 | 2023-12-30 |  |
 | [Biting Tongue](https://open.spotify.com/track/5rU6aPN2OfTopFSpTog5Sv) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Turn It Around](https://open.spotify.com/album/3ycQqRwQMmGRxftasUhY5w) | 1:07 | 2023-12-30 |  |
 | [Blame \(Dance Mix\)](https://open.spotify.com/track/2DOxfaZZFMRjFeoCYYL8m3) | [DJ ReMix Workout](https://open.spotify.com/artist/4gJtt2PtDWnlu7Eg0mp3wT) | [EDM 2015 Workout](https://open.spotify.com/album/6qKuMSqequzQSolxUwAU6U) | 4:32 | 2025-05-16 | 2026-02-20 |
-| [Blame \(Remix\)](https://open.spotify.com/track/2ciXjiKntdCiG8tDcrODcj) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [100 Gym & Fitness Workout Hits! Playlist](https://open.spotify.com/album/1UvM5bMUPoNldI7vI3lc1M) | 4:23 | 2026-02-19 |  |
+| [Blame \(Remix\)](https://open.spotify.com/track/2ciXjiKntdCiG8tDcrODcj) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [100 Gym & Fitness Workout Hits! Playlist](https://open.spotify.com/album/1UvM5bMUPoNldI7vI3lc1M) | 4:23 | 2026-02-19 | 2026-04-25 |
 | [Blame \(Workout Mix\)](https://open.spotify.com/track/2bBqnSxwAW06xXnoY3cWfn) | [Workout Buddy](https://open.spotify.com/artist/7JfutRemdlJGyQsIZ7wWQ9) | [100 Ultimate Workout Hits! 2016](https://open.spotify.com/album/4RVETsLJtXPDPuqGWUqHCW) | 4:23 | 2025-05-14 | 2025-05-17 |
+| [Blame \(Workout Mix\)](https://open.spotify.com/track/7eVdJTlLLuO8O87JxmYdM4) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [250 Workout Hits! Over 20 Hours of Workout Music!](https://open.spotify.com/album/0wnci6HQpZNsE0cK4gMCvH) | 4:23 | 2026-04-24 |  |
 | [Blame \- Acoustic Version](https://open.spotify.com/track/3KM8Z6TdBUEzYTzOic47JL) | [Veer Glider](https://open.spotify.com/artist/0OoEBdaKrgKobR4BLBzNyR) | [Stripped & Acoustic Radio Songs \- Vol.5](https://open.spotify.com/album/6u5gO8wt9C1HC9ONvbnk20) | 3:24 | 2023-12-30 | 2025-05-15 |
 | [Blame It On the Radio](https://open.spotify.com/track/0FS4cFiS05fzihSTZy4Xej) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Girl You Lost](https://open.spotify.com/album/1cOQ4Jc5MCUMvycbFCl5Si) | 2:30 | 2023-12-30 |  |
 | [Blank Page](https://open.spotify.com/track/1n8rXiAQYmZ5D45WmqGTpM) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Lotus \(Deluxe Version\)](https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q) | 4:04 | 2023-12-30 |  |

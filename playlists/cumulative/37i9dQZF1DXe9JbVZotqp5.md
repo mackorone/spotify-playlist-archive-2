@@ -2,7 +2,7 @@
 
 ### [Easy Rock](https://open.spotify.com/playlist/37i9dQZF1DXe9JbVZotqp5)
 
-> Easy rock for that peaceful, easy feeling\. Cover: U2
+> Easy rock for that peaceful, easy feeling\. Cover: John Mayer
 
 157 songs - 11 hr 32 min
 

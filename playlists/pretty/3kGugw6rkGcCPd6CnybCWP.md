@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 79 songs - 4 hr 32 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 86 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,5 +87,12 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 77 | [Do It for the Love](https://open.spotify.com/track/1H9OJ0qE5I2595jeG72ZMZ) | [Narcotic Hearts](https://open.spotify.com/artist/4icQIBDsvhbkTnrFuctLV0) | [Open up Your Mind's Eye](https://open.spotify.com/album/5n09KMS0CKmlOdQ7TQYAn5) | 2:24 |
 | 78 | [I Tried](https://open.spotify.com/track/31n6laL6k7g4t1DhsFePcS) | [MALØNE](https://open.spotify.com/artist/2kjoQ9U3dMg6YcrUiP6540) | [Energy](https://open.spotify.com/album/3hvmpzjC41l5LXXl0JT73N) | 2:10 |
 | 79 | [System Fallin](https://open.spotify.com/track/21SPd4SsKN5BpE5QL0NwHU) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [System Fallin](https://open.spotify.com/album/2mulFAqmG4VU57DNtHnjUZ) | 4:26 |
+| 80 | [Make It Worse](https://open.spotify.com/track/53YJmmTjLfxBoII5Trch3G) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [Make It Worse](https://open.spotify.com/album/7s2KtVx8mZdixUpo1Y2qbU) | 3:02 |
+| 81 | [Lily](https://open.spotify.com/track/4OPBtsOzDhKJZAclQG9wO1) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Lily](https://open.spotify.com/album/1ckHOvHDfLQrNRK4jJvE9Q) | 4:31 |
+| 82 | [You Give, He Takes](https://open.spotify.com/track/2bJloALscWRyZPIuvtWq9z) | [Gwyn English Nielsen](https://open.spotify.com/artist/2qiQLmWs81Zno7WFH4lLiS) | [You Give, He Takes](https://open.spotify.com/album/46q3fiyfLy6pyuvOApscDB) | 4:37 |
+| 83 | [Anomaly](https://open.spotify.com/track/7drs4QP73WLeLRe00hPmlJ) | [Rainwash](https://open.spotify.com/artist/44bqJF9nEFQ1sIpjLbDr74) | [Anomaly](https://open.spotify.com/album/6TSi9Zguy9CLPSLyr2T0tx) | 3:06 |
+| 84 | [the edge](https://open.spotify.com/track/1qap8YYPjmzGLAIV4oeDm1) | [gracyn blu](https://open.spotify.com/artist/6u9vFlNKeUTJQcHCwJX8qN) | [the edge](https://open.spotify.com/album/2jf4GbLG7k8pYmq7uwB6N3) | 3:11 |
+| 85 | [Bruise \- made of glass version](https://open.spotify.com/track/1ViyTiiu8JELEBdkq9Ki7W) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Bruise \(made of glass version\)](https://open.spotify.com/album/5TfTDGWMnOpeyN2PK236fD) | 3:38 |
+| 86 | [Hoochie Coochie Man](https://open.spotify.com/track/1opCG28oAY864tTGjZB2je) | [The Blue Mules](https://open.spotify.com/artist/07uYlW7XK9oTaN2itp1M6e) | [Out to Pasture](https://open.spotify.com/album/4ACsBAnhKaZvgvhNKuZRms) | 5:46 |
 
-Snapshot ID: `AAAOmf2FyOiYIUi7JpAL+z0TzGIC9q1R`
+Snapshot ID: `AAAOoD2bLPh/W5BQd2vT0JCyGIsJ4ST2`

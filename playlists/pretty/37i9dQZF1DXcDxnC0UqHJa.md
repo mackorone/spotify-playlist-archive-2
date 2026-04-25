@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: The Brudi Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,698 likes - 115 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,653 likes - 115 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 100 | [Slow Burn](https://open.spotify.com/track/7wxpR27OE3OlkTWVjTlLIR) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings Kacey Musgraves](https://open.spotify.com/album/5V2Gr572p76K873Hm20xFl) | 3:37 |
 | 101 | [In Your Eyes](https://open.spotify.com/track/2Zc0lXc8psW1wzLWVVCQdN) | [Sons Of Bill](https://open.spotify.com/artist/52oqBs3nTaZ3K3PcGpjCgw), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [In Your Eyes](https://open.spotify.com/album/1nETVDmxFwKb4EFiiDD4jV) | 4:42 |
 | 102 | [Black Eyed Dog](https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Black Eyed Dog](https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj) | 2:48 |
-| 103 | [Driver 8](https://open.spotify.com/track/3Etjw7DBhlX24sntsKNnBW) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Driver 8](https://open.spotify.com/album/7EhB4Mx0sYNBPe68ZSptKu) | 3:35 |
+| 103 | [Driver 8](https://open.spotify.com/track/3Etjw7DBhlX24sntsKNnBW) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Driver 8](https://open.spotify.com/album/7EhB4Mx0sYNBPe68ZSptKu) | 3:35 |
 | 104 | [Turn! Turn! Turn!](https://open.spotify.com/track/4o0FifCtMZSnY8nwkbS5yp) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Turn! Turn! Turn!](https://open.spotify.com/album/1txZgoOwuTev3fr2tyISmC) | 2:57 |
 | 105 | [To Ramona](https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [To Ramona](https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU) | 3:37 |
 | 106 | [Love Will Tear Us Apart](https://open.spotify.com/track/24mkZs0ouxgWcSa7zhlBZf) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Love Will Tear Us Apart](https://open.spotify.com/album/4rIfE20Yf1aeKSNdlRp81C) | 2:48 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "A collection of best Prog Rock tracks. Cover: Dream Theater",
+  "description": "A collection of the best recent Prog Rock tracks. Cover: Weather Systems",
   "name": "Prog Rock",
   "tracks": [
     {
@@ -1001,6 +1001,24 @@
     },
     {
       "album": {
+        "name": "Blackstar",
+        "url": "https://open.spotify.com/album/0fQBHW4NVklQIAfUEDzSLm"
+      },
+      "artists": [
+        {
+          "name": "Crown Lands",
+          "url": "https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241619,
+      "name": "Blackstar",
+      "url": "https://open.spotify.com/track/4g9Qnsq4aApSqktyvoLMoA"
+    },
+    {
+      "album": {
         "name": "Blast Of Silence",
         "url": "https://open.spotify.com/album/6AVzZ6OQndJasW4JCZfzrC"
       },
@@ -1524,6 +1542,28 @@
       "duration_ms": 244480,
       "name": "Chervona ruta",
       "url": "https://open.spotify.com/track/34SFyXyVFcMtvKAaragbPH"
+    },
+    {
+      "album": {
+        "name": "An Unnameable Desire",
+        "url": "https://open.spotify.com/album/2xo56fFD2xGwGQLXDXdYaS"
+      },
+      "artists": [
+        {
+          "name": "Plini",
+          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
+        },
+        {
+          "name": "Jakub Zytecki",
+          "url": "https://open.spotify.com/artist/43EA0mCA9Iiw33kdPtMa1q"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188684,
+      "name": "Ciel",
+      "url": "https://open.spotify.com/track/3TrCvZpezFNZQg1IEm5NDR"
     },
     {
       "album": {
@@ -2352,7 +2392,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 154413,
       "name": "Enter the City - The Afterlife",
       "url": "https://open.spotify.com/track/1XHoeEpd1ka1XLCLt7ncNt"
@@ -2692,7 +2732,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 423000,
       "name": "Fire in Ice",
       "url": "https://open.spotify.com/track/0SDjOtkzBWn86FgBojqEkQ"

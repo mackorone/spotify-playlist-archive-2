@@ -1999,6 +1999,28 @@
     },
     {
       "album": {
+        "name": "Golden Tearz",
+        "url": "https://open.spotify.com/album/39033nvCzaN1X5D9Cnq0NR"
+      },
+      "artists": [
+        {
+          "name": "Midas",
+          "url": "https://open.spotify.com/artist/5tE9UzeEuz4cnxaCXINp0K"
+        },
+        {
+          "name": "Tall Z",
+          "url": "https://open.spotify.com/artist/6Gdq8R0sVfWk8HNs37xhCY"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125798,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/2M68E4L2kQWoCLYuVtemm0"
+    },
+    {
+      "album": {
         "name": "D\u00c9CROISSANCE PERSONNELLE",
         "url": "https://open.spotify.com/album/5CxuhD698gqnpkrX4Sdik6"
       },
@@ -3358,7 +3380,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 145013,
       "name": "Bruni",
       "url": "https://open.spotify.com/track/6h352cjmgl4I8ZAoZ9Cz5h"
@@ -3572,6 +3594,40 @@
       "duration_ms": 167641,
       "name": "BUSINESS CLASS",
       "url": "https://open.spotify.com/track/25qdQ9CfExanGHqzeRTwF1"
+    },
+    {
+      "album": {
+        "name": "Buzz\u00e9 Pack",
+        "url": "https://open.spotify.com/album/3ifgCpBb6nVh76QEVGldnI"
+      },
+      "artists": [
+        {
+          "name": "Jay Sc\u00f8tt",
+          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+        },
+        {
+          "name": "FouKi",
+          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
+        },
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        },
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        },
+        {
+          "name": "Xavier Euphory",
+          "url": "https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193166,
+      "name": "Buzz\u00e9 - Hip-Hop",
+      "url": "https://open.spotify.com/track/0DerIoTW99VdoDKNDBIVsU"
     },
     {
       "album": {
@@ -5573,6 +5629,24 @@
     },
     {
       "album": {
+        "name": "BAD DREAM",
+        "url": "https://open.spotify.com/album/0RgmV66Ks6XAVsQkNQBUrv"
+      },
+      "artists": [
+        {
+          "name": "Tali-B",
+          "url": "https://open.spotify.com/artist/7piCKjgsPdVVTMojN1oRIT"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142105,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/5aCJ39x65gfbjJV59X92H3"
+    },
+    {
+      "album": {
         "name": "Dans l'air du temps",
         "url": "https://open.spotify.com/album/7cCGWUrcIqIW2wnv1rBaH8"
       },
@@ -6006,7 +6080,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 174223,
       "name": "DESERVE",
       "url": "https://open.spotify.com/track/0xEIQKi3Tq9cIYhZOrp6oq"
@@ -6794,7 +6868,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 108923,
       "name": "D\u00e9conne",
       "url": "https://open.spotify.com/track/5MSxanoFaDzYZf99yxYRBA"
@@ -7104,6 +7178,28 @@
       "duration_ms": 179505,
       "name": "Ego's Blade",
       "url": "https://open.spotify.com/track/6DPxlA33IominPyi8dAI8Y"
+    },
+    {
+      "album": {
+        "name": "EL DORADO",
+        "url": "https://open.spotify.com/album/14iPrBI6B68afnrfY9p1Zh"
+      },
+      "artists": [
+        {
+          "name": "Jamaz",
+          "url": "https://open.spotify.com/artist/2bWmHhwTBuPiOsnSz9sjBC"
+        },
+        {
+          "name": "astro_psykeman",
+          "url": "https://open.spotify.com/artist/4tYwjRz3iiyIrno26moZmP"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177666,
+      "name": "EL DORADO",
+      "url": "https://open.spotify.com/track/5GX8HBKHyXPZBwgTLG8qil"
     },
     {
       "album": {
@@ -7526,7 +7622,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 180869,
       "name": "F**K HERM\u00c8S & BALENCIAGA",
       "url": "https://open.spotify.com/track/07xMg3Xk37tXhPNOwprlq8"
@@ -9116,7 +9212,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 162500,
       "name": "Golden Boy",
       "url": "https://open.spotify.com/track/4GPfOVBUl1HiadvnZ9AbL1"
@@ -9509,6 +9605,24 @@
     },
     {
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/1zdZUIk9eJABgPGj7BpVnh"
+      },
+      "artists": [
+        {
+          "name": "ZorroSlice",
+          "url": "https://open.spotify.com/artist/1sX5GL1G0oMTLCPJXJ9nme"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156407,
+      "name": "High",
+      "url": "https://open.spotify.com/track/62KCx4ytCYaY2efYovKr5o"
+    },
+    {
+      "album": {
         "name": "Vivre \u00e0 mourir",
         "url": "https://open.spotify.com/album/6RHVUxOQa9vIfHmrRWpQrV"
       },
@@ -9768,7 +9882,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 180000,
       "name": "HOLD ON",
       "url": "https://open.spotify.com/track/7nK8G1zc8hegcyZkkHqxuT"
@@ -10562,7 +10676,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 97727,
       "name": "J'ai de la dope",
       "url": "https://open.spotify.com/track/2w3CrMussSQnO20dpjq2Mx"
@@ -11711,6 +11825,28 @@
     },
     {
       "album": {
+        "name": "Merci LeDji",
+        "url": "https://open.spotify.com/album/2dJ4p1m9gxTHYFhXqgKh3G"
+      },
+      "artists": [
+        {
+          "name": "Merci Manon & LeDji",
+          "url": "https://open.spotify.com/artist/5EypuNhqwPmbbebtA2OA7a"
+        },
+        {
+          "name": "Nawfal",
+          "url": "https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150466,
+      "name": "la mm merde",
+      "url": "https://open.spotify.com/track/2E65VzB28mJw8uH3SY5J1z"
+    },
+    {
+      "album": {
         "name": "La monnaie",
         "url": "https://open.spotify.com/album/01ZxfXcbH3fkboB06EU7te"
       },
@@ -12094,7 +12230,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 148767,
       "name": "Late Night",
       "url": "https://open.spotify.com/track/0PNIqDOTMuAL7TCmdlRIi1"
@@ -14667,6 +14803,28 @@
     },
     {
       "album": {
+        "name": "Musical Chair",
+        "url": "https://open.spotify.com/album/2qBfFgzPsWBfge4uCXLewA"
+      },
+      "artists": [
+        {
+          "name": "Maky Lavender",
+          "url": "https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6"
+        },
+        {
+          "name": "Hardbody Jones",
+          "url": "https://open.spotify.com/artist/2eSkpY6chWswQyjOuQ9pFl"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138823,
+      "name": "Musical Chair",
+      "url": "https://open.spotify.com/track/3BKm9QBDjVdEoVnZQbvdhu"
+    },
+    {
+      "album": {
         "name": "Mwa",
         "url": "https://open.spotify.com/album/5f8E0sYFbUjUbkEF6XeBaV"
       },
@@ -14854,6 +15012,36 @@
       "duration_ms": 174315,
       "name": "Ne t'inqui\u00e8te pas",
       "url": "https://open.spotify.com/track/0MaUB0lG4487FerRHdxYtR"
+    },
+    {
+      "album": {
+        "name": "Nephilim",
+        "url": "https://open.spotify.com/album/7adyQtjTBuUYsuHkcjrkqo"
+      },
+      "artists": [
+        {
+          "name": "Les Bas-Vilains",
+          "url": "https://open.spotify.com/artist/0wCcO5UW9RQ0hJD3EJ5tNc"
+        },
+        {
+          "name": "Colossale",
+          "url": "https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x"
+        },
+        {
+          "name": "Beeyoudee",
+          "url": "https://open.spotify.com/artist/7qcAhbe6oHNxkDX9MQT3HR"
+        },
+        {
+          "name": "L'incroyable Seif",
+          "url": "https://open.spotify.com/artist/4yE0I8e3BnpzafViqdyEce"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246950,
+      "name": "Nephilim",
+      "url": "https://open.spotify.com/track/1piIxkcqYpkrFUvesVRKIJ"
     },
     {
       "album": {
@@ -15226,6 +15414,28 @@
       "duration_ms": 164073,
       "name": "Nouveau hood",
       "url": "https://open.spotify.com/track/4xVF9gHJEljCwzaYWzLQJF"
+    },
+    {
+      "album": {
+        "name": "Merci LeDji",
+        "url": "https://open.spotify.com/album/2dJ4p1m9gxTHYFhXqgKh3G"
+      },
+      "artists": [
+        {
+          "name": "Merci Manon",
+          "url": "https://open.spotify.com/artist/7tg2NaDZgB7xRlFuRGtlsy"
+        },
+        {
+          "name": "LeDji",
+          "url": "https://open.spotify.com/artist/0u4SuQvBKJ7zwNWT3RWkph"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165697,
+      "name": "nouvelle paire de bottes",
+      "url": "https://open.spotify.com/track/0nws1v2mjrpkY4fbKKZOSy"
     },
     {
       "album": {
@@ -15962,7 +16172,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 203714,
       "name": "OUTRO MAMEK",
       "url": "https://open.spotify.com/track/7xRbgJim0Nmpoz2slHcGGM"
@@ -16080,6 +16290,24 @@
       "duration_ms": 205984,
       "name": "Panamera",
       "url": "https://open.spotify.com/track/1w3nU10eoDD3ASiUC7m47f"
+    },
+    {
+      "album": {
+        "name": "panamera",
+        "url": "https://open.spotify.com/album/3DWJf4aIiVlRWGOPTeetT2"
+      },
+      "artists": [
+        {
+          "name": "S\u2019tano",
+          "url": "https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140377,
+      "name": "panamera",
+      "url": "https://open.spotify.com/track/5M9SPLH9iAGoqW6WBsFc61"
     },
     {
       "album": {
@@ -17881,6 +18109,24 @@
     },
     {
       "album": {
+        "name": "QueLaFamille",
+        "url": "https://open.spotify.com/album/0aPQKrM1kN0rcCUaEHaJ40"
+      },
+      "artists": [
+        {
+          "name": "BARBZ",
+          "url": "https://open.spotify.com/artist/16OUbCfQXSPRRFYifgdRsi"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182524,
+      "name": "QueLaFamille",
+      "url": "https://open.spotify.com/track/2hWtiVTAd5LFkLscx0gKNp"
+    },
+    {
+      "album": {
         "name": "Quelque chose",
         "url": "https://open.spotify.com/album/7p16VbgKxfQWbDpAX6w4OH"
       },
@@ -18376,7 +18622,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 172800,
       "name": "RFD",
       "url": "https://open.spotify.com/track/5vBMjRxBaSHUI6tKE4wXg8"
@@ -18476,7 +18722,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 224266,
       "name": "Rien de gratuit",
       "url": "https://open.spotify.com/track/3JOpH2xaLaUGHwmiQWwIG6"
@@ -18966,7 +19212,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 271588,
       "name": "ROYALE CYPHER",
       "url": "https://open.spotify.com/track/1mlHDvjj3Z8wNrg5bHuNdx"
@@ -19380,6 +19626,28 @@
       "duration_ms": 110773,
       "name": "SAME DRUGS",
       "url": "https://open.spotify.com/track/3oiDdam930d4BeftO40lde"
+    },
+    {
+      "album": {
+        "name": "Samuel Montembeault",
+        "url": "https://open.spotify.com/album/1OstBA1Z2EQw9YiVO22gVH"
+      },
+      "artists": [
+        {
+          "name": "Kalibre",
+          "url": "https://open.spotify.com/artist/2hJHgSjgt2ij8alpKsyWmN"
+        },
+        {
+          "name": "Doomin",
+          "url": "https://open.spotify.com/artist/4cPAp5uh4P7OS28y6V01pQ"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "Samuel Montembeault",
+      "url": "https://open.spotify.com/track/1btuPwmbEZqLqNTY26OMAL"
     },
     {
       "album": {
@@ -20310,7 +20578,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 204483,
       "name": "Storm",
       "url": "https://open.spotify.com/track/2DIyas0BzS3fZk85OYCuKs"

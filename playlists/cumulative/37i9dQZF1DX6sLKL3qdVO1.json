@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Shawty lo que necesitas es darle flow. Miranda Le\u00f3n y Regulo Molina en portada",
+  "description": "Shawty lo que necesitas es darle flow. Quevedo en portada",
   "name": "Dale Flow",
   "tracks": [
     {
@@ -678,7 +678,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 146017,
       "name": "ALAMBRE P\u00faA",
       "url": "https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG"
@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 149345,
       "name": "BABYRECORDS.",
       "url": "https://open.spotify.com/track/7adWxffOcMRKBcRgOyX5vw"
@@ -5021,6 +5021,32 @@
     },
     {
       "album": {
+        "name": "THE BEATLLIONARE",
+        "url": "https://open.spotify.com/album/3VcwCovoimlNJ3qYu0neaA"
+      },
+      "artists": [
+        {
+          "name": "D-Note The Beatllionare",
+          "url": "https://open.spotify.com/artist/4zLMSF7Ah9qfCjQA3wkGqz"
+        },
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162516,
+      "name": "DIME ALGO",
+      "url": "https://open.spotify.com/track/0c7u2B6Kj0K8ukuS5aAtGL"
+    },
+    {
+      "album": {
         "name": "Dios los Bendiga",
         "url": "https://open.spotify.com/album/75L1b4ZIIgyJdhK7FccMwI"
       },
@@ -6622,7 +6648,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 235102,
       "name": "FAN\u00c1TICO",
       "url": "https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo"
@@ -7771,6 +7797,28 @@
     },
     {
       "album": {
+        "name": "EL BAIFO",
+        "url": "https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Tonny Tun Tun",
+          "url": "https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182908,
+      "name": "G\u00c1LDAR",
+      "url": "https://open.spotify.com/track/64uFpeiHU2cTog7oWCuDW9"
+    },
+    {
+      "album": {
         "name": "HABLAME CLARO",
         "url": "https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI"
       },
@@ -7790,6 +7838,28 @@
       "duration_ms": 154969,
       "name": "HABLAME CLARO",
       "url": "https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY"
+    },
+    {
+      "album": {
+        "name": "Hasta Abajo",
+        "url": "https://open.spotify.com/album/1M9KqI7pdiXrWxB0XuwqcB"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169058,
+      "name": "Hasta Abajo",
+      "url": "https://open.spotify.com/track/4DVROTv3t33sqQX59kWfop"
     },
     {
       "album": {
@@ -18291,6 +18361,24 @@
     },
     {
       "album": {
+        "name": "SMHQEB",
+        "url": "https://open.spotify.com/album/5jeBeSzANUpZhGWuv7bRIM"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154342,
+      "name": "SMHQEB",
+      "url": "https://open.spotify.com/track/7iHUcI22QnlURjP6a0B0dL"
+    },
+    {
+      "album": {
         "name": "Sola",
         "url": "https://open.spotify.com/album/4CMuT50pdU5XwFls4pgLCZ"
       },
@@ -19926,7 +20014,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 171250,
       "name": "TU D\u00daO FAVORITO",
       "url": "https://open.spotify.com/track/2PgzfI3gOPNZqC2hzI2KnK"

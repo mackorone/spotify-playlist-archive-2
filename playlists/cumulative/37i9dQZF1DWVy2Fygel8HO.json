@@ -1485,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "Lake Path",
+        "url": "https://open.spotify.com/album/0cyoLXuG632qrN5qvRNBto"
+      },
+      "artists": [
+        {
+          "name": "Semeru",
+          "url": "https://open.spotify.com/artist/1kqm2oGEbEPjIQZnSecVks"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106344,
+      "name": "Lake Path",
+      "url": "https://open.spotify.com/track/5bEAkWCMzngWICeQFFTfFC"
+    },
+    {
+      "album": {
         "name": "Lassitude",
         "url": "https://open.spotify.com/album/7KvllB6zOkX2mf0SCf9jp5"
       },

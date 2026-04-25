@@ -29027,6 +29027,24 @@
     },
     {
       "album": {
+        "name": "Never Credited",
+        "url": "https://open.spotify.com/album/7eUnTaoKrNB45IF3O3KEYX"
+      },
+      "artists": [
+        {
+          "name": "X 1ark",
+          "url": "https://open.spotify.com/artist/1ffob9pTIlEgfHmllUD6U9"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128026,
+      "name": "Never Credited",
+      "url": "https://open.spotify.com/track/7mBNPvLaoQ9vJtqQbUNwF1"
+    },
+    {
+      "album": {
         "name": "Never Let Me Go",
         "url": "https://open.spotify.com/album/7lPGICXH9HXAE45wrgPhIl"
       },
@@ -52822,6 +52840,28 @@
       "duration_ms": 131533,
       "name": "\u667a\u8846",
       "url": "https://open.spotify.com/track/545QLMjQtMMkFznIrAakkU"
+    },
+    {
+      "album": {
+        "name": "Documentary",
+        "url": "https://open.spotify.com/album/18NA2vXZGMqibGkn2TUhQo"
+      },
+      "artists": [
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        },
+        {
+          "name": "BABYWOODROSE",
+          "url": "https://open.spotify.com/artist/1XzfqpnX0VAcE77JE21mPB"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "\u66f2",
+      "url": "https://open.spotify.com/track/363kMDe3xRFsw0Vh4X2kLG"
     },
     {
       "album": {

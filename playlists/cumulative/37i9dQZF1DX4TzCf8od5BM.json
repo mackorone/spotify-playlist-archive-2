@@ -602,7 +602,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 47357,
       "name": "Chicken Charge",
       "url": "https://open.spotify.com/track/5oXJHQqx59szko8Gl8dElk"
@@ -2268,7 +2268,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 89896,
       "name": "Learn to Sound Out Words",
       "url": "https://open.spotify.com/track/2GdNTf6hDnVWWGHLPud87M"
@@ -2652,6 +2652,32 @@
       "duration_ms": 62069,
       "name": "Mickey Mouse Club March",
       "url": "https://open.spotify.com/track/6apPzU3anNr5qkDfcw55ep"
+    },
+    {
+      "album": {
+        "name": "Mickey Mouse Clubhouse Theme (Toddler Techno Remix) [From: \"Mickey Mouse Clubhouse\u201d]",
+        "url": "https://open.spotify.com/album/7iEIF90Rkwfm2tUNROIfI3"
+      },
+      "artists": [
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        },
+        {
+          "name": "Lenny Pearce",
+          "url": "https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8"
+        },
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86294,
+      "name": "Mickey Mouse Clubhouse Theme (Toddler Techno Remix) - From: \"Mickey Mouse Clubhouse\u201d",
+      "url": "https://open.spotify.com/track/1zFsGb2xEcJUtclxJvGLRh"
     },
     {
       "album": {
@@ -3556,7 +3582,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 47706,
       "name": "Sheriff Callie's Wild West Theme Song",
       "url": "https://open.spotify.com/track/5FNrrSyQ5fMybjok5cqymi"
@@ -3838,7 +3864,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 151086,
       "name": "Super Hero on the Beat",
       "url": "https://open.spotify.com/track/2pcR3WzgeApNXILR8IlI9f"

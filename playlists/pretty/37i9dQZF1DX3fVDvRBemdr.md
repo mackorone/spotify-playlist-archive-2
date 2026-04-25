@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Gerard Joling
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,710 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,720 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 4 | [Zij Hoort Bij Mij](https://open.spotify.com/track/4NzVNVrPqz7APlA5C0TuBP) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [Zij Hoort Bij Mij](https://open.spotify.com/album/5DIbGZCUppQpa7eZ3RWN8o) | 2:06 |
 | 5 | [Route Du Soleil](https://open.spotify.com/track/3gObOLbNKma8EjpByEieBp) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Route Du Soleil](https://open.spotify.com/album/1W1tLQGBFZZgNlo5Z9sMU7) | 2:28 |
 | 6 | [Gappie Sappie](https://open.spotify.com/track/2FCDwCdXpMnSq3QuHWZ3UM) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Gappie Sappie](https://open.spotify.com/album/7FE9PW71kUT5Ry6N1D0TDo) | 2:17 |
-| 7 | [Track 1](https://open.spotify.com/track/6f8Nda8vkpFrwsMX5l320t) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Akoestische Sessie](https://open.spotify.com/album/0r4P6VRT9rB1sUuRf706bx) | 0:00 |
+| 7 | [Waarom Ben Jij Gegaan \- Akoestisch](https://open.spotify.com/track/6f8Nda8vkpFrwsMX5l320t) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Akoestische Sessie](https://open.spotify.com/album/0r4P6VRT9rB1sUuRf706bx) | 3:36 |
 | 8 | [Niet bang voor de duivel](https://open.spotify.com/track/3DiQD54AFhTAs4rR4hBdB8) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Niet bang voor de duivel](https://open.spotify.com/album/6vIC2uTGAWo7UFJZXrEzvH) | 2:18 |
 | 9 | [Dit Is Liefde](https://open.spotify.com/track/12Pp1mW2jMyBExl6lbl4pg) | [Maxim Froger](https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te) | [Dit Is Liefde](https://open.spotify.com/album/63jINBUTovCUxqzXj4dCta) | 2:41 |
 | 10 | [Een Zomernacht Met Jou](https://open.spotify.com/track/0qGckEHOnka4myhw1vb7Q1) | [Zanger Alex](https://open.spotify.com/artist/7dX46liQvHKgYXekJTB2lO) | [Een Zomernacht Met Jou](https://open.spotify.com/album/3rGNR1Auh07J49KyJV8oYB) | 2:59 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 20 | [Loterij](https://open.spotify.com/track/3DHw2e8NLC88aFEGvRGMVz) | [Jordy van den Boer](https://open.spotify.com/artist/0AVX28TBnKRG58xh0Y2vew) | [Loterij](https://open.spotify.com/album/61DA0NHrSJkAtyM8gn5p0r) | 2:28 |
 | 21 | [Ik zou het zo weer overdoen](https://open.spotify.com/track/3VmopKB6zV3SOkZBlsV0ZZ) | [Julia Cecile](https://open.spotify.com/artist/1ujg2quXH0LCrTb1BD8ECa) | [Ik zou het zo weer overdoen](https://open.spotify.com/album/1D4PQXSWNPlISYnbFBQZuh) | 3:25 |
 | 22 | [Iedereen Weet](https://open.spotify.com/track/72zIkM1LsXaIgKWPaYDiqd) | [Jan Biggel](https://open.spotify.com/artist/0fJJXAAxGeDwdS7HCUVkbs) | [Iedereen Weet](https://open.spotify.com/album/3DfEP5in6S0vpcWdzsNnTR) | 3:01 |
-| 23 | [Track 3](https://open.spotify.com/track/3T2r47vW6PdiNRL62zFQ0K) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Akoestische Sessie](https://open.spotify.com/album/0r4P6VRT9rB1sUuRf706bx) | 0:00 |
+| 23 | [Als Jij Kon Voelen \- Akoestisch](https://open.spotify.com/track/3T2r47vW6PdiNRL62zFQ0K) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Akoestische Sessie](https://open.spotify.com/album/0r4P6VRT9rB1sUuRf706bx) | 2:28 |
 | 24 | [Deze Nacht](https://open.spotify.com/track/1xFfN67OYCNDS3yN70IKVd) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Deze Nacht](https://open.spotify.com/album/7MpGGoc3MKotYWfkr0jh5A) | 2:47 |
 | 25 | [Iedere Traan](https://open.spotify.com/track/7JA43P5JrAf0H9VBvcXrEb) | [Derymie Ypey](https://open.spotify.com/artist/4dgAFOMbEdeVh9Ls5I4k3J) | [Iedere Traan](https://open.spotify.com/album/6uG2SOTyfYl9b1tAmXshyu) | 2:50 |
 | 26 | [BBL](https://open.spotify.com/track/3VvgwTBOtDPylEZHtPvBuz) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [De Voorhoede](https://open.spotify.com/artist/30P6li7INhXvV1XIPKlMBU), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [BBL](https://open.spotify.com/album/5L3C8nCw6eXzm5MvDA4Que) | 2:22 |

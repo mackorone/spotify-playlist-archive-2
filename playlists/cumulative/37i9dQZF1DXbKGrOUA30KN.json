@@ -6047,7 +6047,7 @@
     },
     {
       "album": {
-        "name": "Nur dir geh\u00f6ren",
+        "name": "Nur dir geh\u00f6r'n",
         "url": "https://open.spotify.com/album/3mKCq6mubDbrfy1adzdGqc"
       },
       "artists": [
@@ -6060,7 +6060,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 165066,
-      "name": "Nur dir geh\u00f6ren",
+      "name": "Nur dir geh\u00f6r'n",
       "url": "https://open.spotify.com/track/7gBzC2JYp9hzQYX0xP2nlX"
     },
     {
@@ -6679,6 +6679,24 @@
     },
     {
       "album": {
+        "name": "Safe Songs (EP 2)",
+        "url": "https://open.spotify.com/album/5CZ1QeVh6gWgNgc9V03cqz"
+      },
+      "artists": [
+        {
+          "name": "Nico Gomez",
+          "url": "https://open.spotify.com/artist/0gQm7HDLwdjFHpDwiBMV8c"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158916,
+      "name": "Rosaroter Film",
+      "url": "https://open.spotify.com/track/1RMvCbUxWbtBXS4L6KpbtN"
+    },
+    {
+      "album": {
         "name": "ROTER KNOPF",
         "url": "https://open.spotify.com/album/50VsggAMhFPZgYsg3Za3G0"
       },
@@ -7109,6 +7127,24 @@
     },
     {
       "album": {
+        "name": "Manchmal sing' ich das was ich nicht sagen kann",
+        "url": "https://open.spotify.com/album/60pGjTzDBv8apN0hEfDKoD"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/0ZCbxUPZReHqmDsGmiRvL1"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159038,
+      "name": "Splitter",
+      "url": "https://open.spotify.com/track/1TwpkmtFwTcGW7Wu7I90ef"
+    },
+    {
+      "album": {
         "name": "sp\u00fcr dich nicht",
         "url": "https://open.spotify.com/album/3sK7SB5RiSbBnqnYwIggeE"
       },
@@ -7330,42 +7366,6 @@
       "duration_ms": 154426,
       "name": "Tot",
       "url": "https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd"
-    },
-    {
-      "album": {
-        "name": "Manchmal sing' ich das was ich nicht sagen kann",
-        "url": "https://open.spotify.com/album/60pGjTzDBv8apN0hEfDKoD"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/0ZCbxUPZReHqmDsGmiRvL1"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/1TwpkmtFwTcGW7Wu7I90ef"
-    },
-    {
-      "album": {
-        "name": "Safe Songs (EP 2)",
-        "url": "https://open.spotify.com/album/5CZ1QeVh6gWgNgc9V03cqz"
-      },
-      "artists": [
-        {
-          "name": "Nico Gomez",
-          "url": "https://open.spotify.com/artist/0gQm7HDLwdjFHpDwiBMV8c"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/1RMvCbUxWbtBXS4L6KpbtN"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "#fyp\n",
-  "num_followers": 854737,
+  "num_followers": 854913,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAARctG7xpIs2LaAzdGge7ya+lHPi",
+  "snapshot_id": "AAAAAI2qiOMTKcgq3U79gNxGy8rNU4Hg",
   "tracks": [
+    {
+      "added_at": "2026-04-10 15:09:16",
+      "album": {
+        "name": "REN\u00c9 CAOVILLA",
+        "url": "https://open.spotify.com/album/0329NcB6dZrKNnkFIo4HpR"
+      },
+      "artists": [
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "duration_ms": 137973,
+      "name": "REN\u00c9 CAOVILLA",
+      "url": "https://open.spotify.com/track/4oJxjHkaEq07v25iTcDIxT"
+    },
     {
       "added_at": "2026-03-27 18:14:40",
       "album": {
@@ -41,126 +57,6 @@
       "url": "https://open.spotify.com/track/6P0oYDUPYf2CNJxcokIH09"
     },
     {
-      "added_at": "2026-04-10 15:09:16",
-      "album": {
-        "name": "REN\u00c9 CAOVILLA",
-        "url": "https://open.spotify.com/album/0329NcB6dZrKNnkFIo4HpR"
-      },
-      "artists": [
-        {
-          "name": "Gambi",
-          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
-        }
-      ],
-      "duration_ms": 137973,
-      "name": "REN\u00c9 CAOVILLA",
-      "url": "https://open.spotify.com/track/4oJxjHkaEq07v25iTcDIxT"
-    },
-    {
-      "added_at": "2026-04-10 15:09:16",
-      "album": {
-        "name": "Grand Gar\u00e7on",
-        "url": "https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr"
-      },
-      "artists": [
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        }
-      ],
-      "duration_ms": 128920,
-      "name": "Tu dors ?",
-      "url": "https://open.spotify.com/track/6JnsxE0leMVkUvTV0n969D"
-    },
-    {
-      "added_at": "2026-03-06 17:27:08",
-      "album": {
-        "name": "J'tavais dit",
-        "url": "https://open.spotify.com/album/4ELf00wIGNNYFT08AhUS6y"
-      },
-      "artists": [
-        {
-          "name": "Nono La Grinta",
-          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
-        }
-      ],
-      "duration_ms": 112615,
-      "name": "J'tavais dit",
-      "url": "https://open.spotify.com/track/5Cn8WdSHzl0ieLsbeXdwge"
-    },
-    {
-      "added_at": "2026-02-17 16:32:14",
-      "album": {
-        "name": "B.M.S (by my side)",
-        "url": "https://open.spotify.com/album/3uB1GR702KP23t8eke4SH3"
-      },
-      "artists": [
-        {
-          "name": "Rambo goyard",
-          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "B.M.S (by my side)",
-      "url": "https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di"
-    },
-    {
-      "added_at": "2026-02-17 16:32:14",
-      "album": {
-        "name": "OG",
-        "url": "https://open.spotify.com/album/4859Y9IWnv38DK6CwWITtb"
-      },
-      "artists": [
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 164986,
-      "name": "OG",
-      "url": "https://open.spotify.com/track/4MhWzQysa4cZ2enHOyzs87"
-    },
-    {
-      "added_at": "2026-04-17 12:22:48",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
-    },
-    {
-      "added_at": "2026-02-17 16:32:14",
-      "album": {
-        "name": "L'undertaker Part.1",
-        "url": "https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj"
-      },
-      "artists": [
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 156076,
-      "name": "Pil\u00e9",
-      "url": "https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec"
-    },
-    {
       "added_at": "2026-04-17 12:22:48",
       "album": {
         "name": "Pineapple",
@@ -179,22 +75,66 @@
     {
       "added_at": "2026-02-17 16:32:14",
       "album": {
-        "name": "AVEC MOI",
-        "url": "https://open.spotify.com/album/3mT7JQV1sTV81SKPxkq0OA"
+        "name": "L'undertaker Part.1",
+        "url": "https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj"
       },
       "artists": [
         {
-          "name": "RnBoi",
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
-        },
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec"
+    },
+    {
+      "added_at": "2026-03-27 18:14:40",
+      "album": {
+        "name": "HOPE. : Imani",
+        "url": "https://open.spotify.com/album/2PPf6NnvTFfJivaHNxczFn"
+      },
+      "artists": [
+        {
+          "name": "kulturr",
+          "url": "https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4"
+        }
+      ],
+      "duration_ms": 153779,
+      "name": "m\u00e9li-m\u00e9lo",
+      "url": "https://open.spotify.com/track/1kEVqYA0JMm0qKQqykm7gE"
+    },
+    {
+      "added_at": "2026-03-06 17:27:08",
+      "album": {
+        "name": "J'tavais dit",
+        "url": "https://open.spotify.com/album/4ELf00wIGNNYFT08AhUS6y"
+      },
+      "artists": [
         {
           "name": "Nono La Grinta",
           "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
         }
       ],
-      "duration_ms": 182000,
-      "name": "AVEC MOI",
-      "url": "https://open.spotify.com/track/2ZxulKXVUpatqUe0quNMtP"
+      "duration_ms": 112615,
+      "name": "J'tavais dit",
+      "url": "https://open.spotify.com/track/5Cn8WdSHzl0ieLsbeXdwge"
+    },
+    {
+      "added_at": "2026-04-10 15:09:16",
+      "album": {
+        "name": "Grand Gar\u00e7on",
+        "url": "https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "duration_ms": 128920,
+      "name": "Tu dors ?",
+      "url": "https://open.spotify.com/track/6JnsxE0leMVkUvTV0n969D"
     },
     {
       "added_at": "2026-04-17 12:22:48",
@@ -229,36 +169,80 @@
       "url": "https://open.spotify.com/track/3XzwTdwcIz67nPOE6sitEo"
     },
     {
-      "added_at": "2026-03-27 18:14:40",
+      "added_at": "2026-02-17 16:32:14",
       "album": {
-        "name": "HOPE. : Imani",
-        "url": "https://open.spotify.com/album/2PPf6NnvTFfJivaHNxczFn"
+        "name": "B.M.S (by my side)",
+        "url": "https://open.spotify.com/album/3uB1GR702KP23t8eke4SH3"
       },
       "artists": [
         {
-          "name": "kulturr",
-          "url": "https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4"
+          "name": "Rambo goyard",
+          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
         }
       ],
-      "duration_ms": 153779,
-      "name": "m\u00e9li-m\u00e9lo",
-      "url": "https://open.spotify.com/track/1kEVqYA0JMm0qKQqykm7gE"
+      "duration_ms": 125454,
+      "name": "B.M.S (by my side)",
+      "url": "https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di"
     },
     {
       "added_at": "2026-04-17 12:22:48",
       "album": {
-        "name": "M\u00e9t\u00e9o",
-        "url": "https://open.spotify.com/album/2nnedqC1J1NqCkwtq7Tp7v"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
       },
       "artists": [
         {
-          "name": "Bello&Dallas",
-          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 188727,
-      "name": "M\u00e9t\u00e9o",
-      "url": "https://open.spotify.com/track/3bt5BRftwyv5Y8wisexVdz"
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
+    },
+    {
+      "added_at": "2026-02-17 16:32:14",
+      "album": {
+        "name": "AVEC MOI",
+        "url": "https://open.spotify.com/album/3mT7JQV1sTV81SKPxkq0OA"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        },
+        {
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "AVEC MOI",
+      "url": "https://open.spotify.com/track/2ZxulKXVUpatqUe0quNMtP"
+    },
+    {
+      "added_at": "2026-02-17 16:32:14",
+      "album": {
+        "name": "OG",
+        "url": "https://open.spotify.com/album/4859Y9IWnv38DK6CwWITtb"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 164986,
+      "name": "OG",
+      "url": "https://open.spotify.com/track/4MhWzQysa4cZ2enHOyzs87"
     },
     {
       "added_at": "2026-02-17 16:32:14",
@@ -275,6 +259,38 @@
       "duration_ms": 177743,
       "name": "NOUS#2",
       "url": "https://open.spotify.com/track/0TnrSFmoT09nbrh0lK0G7e"
+    },
+    {
+      "added_at": "2026-04-10 15:09:16",
+      "album": {
+        "name": "Num\u00e9ro d'\u00e9crou",
+        "url": "https://open.spotify.com/album/5d0BjgEFwZpszVVLbAbDBf"
+      },
+      "artists": [
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "duration_ms": 141266,
+      "name": "PARLU",
+      "url": "https://open.spotify.com/track/15phEH3Qqe3k1f94EhC5DA"
+    },
+    {
+      "added_at": "2026-04-24 16:15:59",
+      "album": {
+        "name": "KAID",
+        "url": "https://open.spotify.com/album/1hLGGWyMJ4yJ84c7CITrWC"
+      },
+      "artists": [
+        {
+          "name": "Moha K",
+          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+        }
+      ],
+      "duration_ms": 148213,
+      "name": "Madame",
+      "url": "https://open.spotify.com/track/2yPmfXgxDh5uQt5F5p5AgA"
     },
     {
       "added_at": "2026-02-17 16:32:14",
@@ -295,34 +311,34 @@
     {
       "added_at": "2026-04-10 15:09:16",
       "album": {
-        "name": "Num\u00e9ro d'\u00e9crou",
-        "url": "https://open.spotify.com/album/5d0BjgEFwZpszVVLbAbDBf"
+        "name": "Maladie",
+        "url": "https://open.spotify.com/album/6UAi4kLruZxXwJbo5aDJ1Q"
       },
       "artists": [
         {
-          "name": "La Rvfleuze",
-          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
         }
       ],
-      "duration_ms": 141266,
-      "name": "PARLU",
-      "url": "https://open.spotify.com/track/15phEH3Qqe3k1f94EhC5DA"
+      "duration_ms": 192000,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/4zPb5wNcdTy15BgBvRVNYM"
     },
     {
-      "added_at": "2026-04-17 12:22:48",
+      "added_at": "2026-02-20 12:46:51",
       "album": {
-        "name": "PMF #1 (Cheveux Liss\u00e9s)",
-        "url": "https://open.spotify.com/album/4emJsqpXBSPBHpvL6kdiU4"
+        "name": "BMW",
+        "url": "https://open.spotify.com/album/6cu1V5JlSGdB26I2WlrUrF"
       },
       "artists": [
         {
-          "name": "DLM",
-          "url": "https://open.spotify.com/artist/4Fdja4uNAMdIjqg0cwRXm8"
+          "name": "Black Cat",
+          "url": "https://open.spotify.com/artist/3YiFVUColvEK1dQAqDKYzU"
         }
       ],
-      "duration_ms": 163352,
-      "name": "PMF #1 (Cheveux Liss\u00e9s)",
-      "url": "https://open.spotify.com/track/54ulUhE0EuFrKMoReYEsFN"
+      "duration_ms": 145631,
+      "name": "BMW",
+      "url": "https://open.spotify.com/track/6e4MfehUZ1wzSPwbOG3N4A"
     },
     {
       "added_at": "2026-02-17 16:32:14",
@@ -339,6 +355,86 @@
       "duration_ms": 207600,
       "name": "Na Za D\u00e9sol\u00e9",
       "url": "https://open.spotify.com/track/61CH0VrEAdCQuhuFitZr18"
+    },
+    {
+      "added_at": "2026-03-27 18:14:40",
+      "album": {
+        "name": "C'est pas des LOL",
+        "url": "https://open.spotify.com/album/6x61ccU1M5NlkpWRJAS2xT"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 245026,
+      "name": "Faut que je me tire de l\u00e0",
+      "url": "https://open.spotify.com/track/6ScF8Xaxrk3TNyJxPPlUj2"
+    },
+    {
+      "added_at": "2026-02-17 16:32:14",
+      "album": {
+        "name": "GMK",
+        "url": "https://open.spotify.com/album/5x8V9vBC8E2OzJqzdYZv7V"
+      },
+      "artists": [
+        {
+          "name": "WIXO & LA2S",
+          "url": "https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN"
+        }
+      ],
+      "duration_ms": 125179,
+      "name": "GMK",
+      "url": "https://open.spotify.com/track/5yVEQgC0GuEvvEcv9D8NpG"
+    },
+    {
+      "added_at": "2026-02-17 16:32:14",
+      "album": {
+        "name": "Brol",
+        "url": "https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "duration_ms": 256106,
+      "name": "Flemme",
+      "url": "https://open.spotify.com/track/2TL8q8EO60b9lWeozfqYnG"
+    },
+    {
+      "added_at": "2026-02-17 16:32:14",
+      "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/2wW4H228Gue9xprBQ5hW5Z"
+      },
+      "artists": [
+        {
+          "name": "Ashvma",
+          "url": "https://open.spotify.com/artist/46fYppQRc2dAeDAMnrVb6R"
+        }
+      ],
+      "duration_ms": 138005,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/29rkopcjI0XyhncrHOdWm0"
+    },
+    {
+      "added_at": "2026-04-10 15:09:16",
+      "album": {
+        "name": "24 KARA",
+        "url": "https://open.spotify.com/album/4GZSouPUDOnxWARfOS79hm"
+      },
+      "artists": [
+        {
+          "name": "Bilouki",
+          "url": "https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Full",
+      "url": "https://open.spotify.com/track/6ZjD4Qv5dPdV3pqouXjr0j"
     },
     {
       "added_at": "2026-04-03 13:47:08",
@@ -361,20 +457,36 @@
       "url": "https://open.spotify.com/track/6Ww5r82aRfiOHsCz7NMIAP"
     },
     {
-      "added_at": "2026-02-17 16:32:14",
+      "added_at": "2026-04-17 12:22:48",
       "album": {
-        "name": "GMK",
-        "url": "https://open.spotify.com/album/5x8V9vBC8E2OzJqzdYZv7V"
+        "name": "M\u00e9t\u00e9o",
+        "url": "https://open.spotify.com/album/2nnedqC1J1NqCkwtq7Tp7v"
       },
       "artists": [
         {
-          "name": "WIXO & LA2S",
-          "url": "https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN"
+          "name": "Bello&Dallas",
+          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
         }
       ],
-      "duration_ms": 125179,
-      "name": "GMK",
-      "url": "https://open.spotify.com/track/5yVEQgC0GuEvvEcv9D8NpG"
+      "duration_ms": 188727,
+      "name": "M\u00e9t\u00e9o",
+      "url": "https://open.spotify.com/track/3bt5BRftwyv5Y8wisexVdz"
+    },
+    {
+      "added_at": "2026-04-17 12:22:48",
+      "album": {
+        "name": "PMF #1 (Cheveux Liss\u00e9s)",
+        "url": "https://open.spotify.com/album/4emJsqpXBSPBHpvL6kdiU4"
+      },
+      "artists": [
+        {
+          "name": "DLM",
+          "url": "https://open.spotify.com/artist/4Fdja4uNAMdIjqg0cwRXm8"
+        }
+      ],
+      "duration_ms": 163352,
+      "name": "PMF #1 (Cheveux Liss\u00e9s)",
+      "url": "https://open.spotify.com/track/54ulUhE0EuFrKMoReYEsFN"
     },
     {
       "added_at": "2026-04-10 15:09:16",
@@ -407,102 +519,6 @@
       "duration_ms": 177666,
       "name": "Balek",
       "url": "https://open.spotify.com/track/6FyIByL10DzsD0xMKsa4hL"
-    },
-    {
-      "added_at": "2026-02-17 16:32:14",
-      "album": {
-        "name": "FOCUS",
-        "url": "https://open.spotify.com/album/2wW4H228Gue9xprBQ5hW5Z"
-      },
-      "artists": [
-        {
-          "name": "Ashvma",
-          "url": "https://open.spotify.com/artist/46fYppQRc2dAeDAMnrVb6R"
-        }
-      ],
-      "duration_ms": 138005,
-      "name": "FOCUS",
-      "url": "https://open.spotify.com/track/29rkopcjI0XyhncrHOdWm0"
-    },
-    {
-      "added_at": "2026-02-20 12:46:51",
-      "album": {
-        "name": "BMW",
-        "url": "https://open.spotify.com/album/6cu1V5JlSGdB26I2WlrUrF"
-      },
-      "artists": [
-        {
-          "name": "Black Cat",
-          "url": "https://open.spotify.com/artist/3YiFVUColvEK1dQAqDKYzU"
-        }
-      ],
-      "duration_ms": 145631,
-      "name": "BMW",
-      "url": "https://open.spotify.com/track/6e4MfehUZ1wzSPwbOG3N4A"
-    },
-    {
-      "added_at": "2026-04-10 15:09:16",
-      "album": {
-        "name": "Maladie",
-        "url": "https://open.spotify.com/album/6UAi4kLruZxXwJbo5aDJ1Q"
-      },
-      "artists": [
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Maladie",
-      "url": "https://open.spotify.com/track/4zPb5wNcdTy15BgBvRVNYM"
-    },
-    {
-      "added_at": "2026-02-17 16:32:14",
-      "album": {
-        "name": "Brol",
-        "url": "https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        }
-      ],
-      "duration_ms": 256106,
-      "name": "Flemme",
-      "url": "https://open.spotify.com/track/2TL8q8EO60b9lWeozfqYnG"
-    },
-    {
-      "added_at": "2026-03-27 18:14:40",
-      "album": {
-        "name": "C'est pas des LOL",
-        "url": "https://open.spotify.com/album/6x61ccU1M5NlkpWRJAS2xT"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 245026,
-      "name": "Faut que je me tire de l\u00e0",
-      "url": "https://open.spotify.com/track/6ScF8Xaxrk3TNyJxPPlUj2"
-    },
-    {
-      "added_at": "2026-04-10 15:09:16",
-      "album": {
-        "name": "24 KARA",
-        "url": "https://open.spotify.com/album/4GZSouPUDOnxWARfOS79hm"
-      },
-      "artists": [
-        {
-          "name": "Bilouki",
-          "url": "https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Full",
-      "url": "https://open.spotify.com/track/6ZjD4Qv5dPdV3pqouXjr0j"
     },
     {
       "added_at": "2026-02-17 16:32:14",
@@ -639,26 +655,6 @@
       "duration_ms": 212400,
       "name": "Solide",
       "url": "https://open.spotify.com/track/68oBz6xab6ATAobLCbtZXX"
-    },
-    {
-      "added_at": "2026-02-17 16:32:14",
-      "album": {
-        "name": "La sp\u00e9 (Deluxe)",
-        "url": "https://open.spotify.com/album/0s57BzP2tt9Ysm3ZsAu89d"
-      },
-      "artists": [
-        {
-          "name": "Yaro",
-          "url": "https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 181621,
-      "name": "Dios mio",
-      "url": "https://open.spotify.com/track/75j2xe6h9eVzT30yQz7bhC"
     },
     {
       "added_at": "2026-02-17 16:32:14",

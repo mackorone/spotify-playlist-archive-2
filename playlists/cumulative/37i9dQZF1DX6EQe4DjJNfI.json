@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Bela Maria, Maru2D",
+  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Ryan Fidelis",
   "name": "R&B Brasil",
   "tracks": [
     {
@@ -2329,6 +2329,24 @@
     },
     {
       "album": {
+        "name": "FORA DA LEI",
+        "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186396,
+      "name": "FORA DA LEI",
+      "url": "https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv"
+    },
+    {
+      "album": {
         "name": "Fora do Normal",
         "url": "https://open.spotify.com/album/6fwX4GAEynh8TUJvLInkhT"
       },
@@ -3422,7 +3440,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 121874,
       "name": "Mas Que Porra",
       "url": "https://open.spotify.com/track/3Yo2jWdQEjar8IayTy6B7Z"
@@ -4019,6 +4037,36 @@
     },
     {
       "album": {
+        "name": "Noites 2",
+        "url": "https://open.spotify.com/album/2npsmCrQ6vbTV5FwWsp1Rj"
+      },
+      "artists": [
+        {
+          "name": "Amxedx",
+          "url": "https://open.spotify.com/artist/0rP1RgNU08Y99fjfdwH3h0"
+        },
+        {
+          "name": "BIDUZEN",
+          "url": "https://open.spotify.com/artist/20tJsPo3GVroZHlbdXJ7nX"
+        },
+        {
+          "name": "Fresh Records",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        },
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131404,
+      "name": "Noite",
+      "url": "https://open.spotify.com/track/0AY6y4ijEuoaveX7e9FTey"
+    },
+    {
+      "album": {
         "name": "Correria",
         "url": "https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ"
       },
@@ -4206,7 +4254,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 144578,
       "name": "Novela",
       "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
@@ -5529,7 +5577,7 @@
         },
         {
           "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+          "url": "https://open.spotify.com/artist/49PaseNfT1nE3x2Ms7jZww"
         }
       ],
       "date_added": "2024-09-27",
@@ -5538,6 +5586,24 @@
       "duration_ms": 213421,
       "name": "risco",
       "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
+    },
+    {
+      "album": {
+        "name": "Rosa Maria",
+        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232390,
+      "name": "Rosa Maria",
+      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
     },
     {
       "album": {
@@ -7126,7 +7192,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 170588,
       "name": "Vestido Vermelho",
       "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"

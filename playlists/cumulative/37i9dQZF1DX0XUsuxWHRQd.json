@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Yeat, DJ Khaled and Don Toliver.",
+  "description": "Music from Don Toliver, Ye and Latto.",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -5405,6 +5405,32 @@
     },
     {
       "album": {
+        "name": "Bet it All",
+        "url": "https://open.spotify.com/album/59LXNdhF38YWNCWpz5EnEt"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+        },
+        {
+          "name": "Chase Belly",
+          "url": "https://open.spotify.com/artist/6tsYLksrBCYGx807tLtqcE"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Bet it All",
+      "url": "https://open.spotify.com/track/5aPjCwBAsj1yT89rIwqzMN"
+    },
+    {
+      "album": {
         "name": "Trip At Knight (Complete Edition)",
         "url": "https://open.spotify.com/album/4sS5IjHR0YOJQdSTQ8whWz"
       },
@@ -5472,6 +5498,28 @@
       "duration_ms": 243037,
       "name": "Better Than Ever (feat. Rod Wave)",
       "url": "https://open.spotify.com/track/7KeM63RotkWiGnHKkboz4t"
+    },
+    {
+      "album": {
+        "name": "Better Than Yours (feat. Youngboy Never Broke Again)",
+        "url": "https://open.spotify.com/album/47ILgvAKy8xB5Cmuo0iQlN"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160346,
+      "name": "Better Than Yours (feat. Youngboy Never Broke Again)",
+      "url": "https://open.spotify.com/track/7Cu72sNXv5n9vbHcXbSmgp"
     },
     {
       "album": {
@@ -19397,6 +19445,28 @@
     },
     {
       "album": {
+        "name": "GOMF (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/7woXVG8V3g8TQjDd8WV5JO"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149640,
+      "name": "GOMF (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/7DbtXoclIdBSaeMWxcTSSY"
+    },
+    {
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -21068,7 +21138,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 165288,
       "name": "HELICOPTER",
       "url": "https://open.spotify.com/track/3v1d12O8WEj5H9eFID7HBn"
@@ -26178,7 +26248,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 254466,
       "name": "Kick, Push",
       "url": "https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j"
@@ -39508,7 +39578,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -55084,7 +55154,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 131729,
       "name": "What You Saying",
       "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"

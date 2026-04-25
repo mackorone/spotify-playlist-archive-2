@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-276 songs - 12 hr 10 min
+277 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Le monde d'après](https://open.spotify.com/track/2LogPLwx0fU2tmZAWeFt51) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Le monde d'après](https://open.spotify.com/album/6901ySIfnXwtujC3E67JuE) | 3:27 | 2022-08-03 | 2023-06-21 |
 | [le voyageur](https://open.spotify.com/track/2P98sgjysEmr03BP9oeAVV) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [le voyageur](https://open.spotify.com/album/4LmxUW2uMCOho2RHATKWvX) | 2:30 | 2024-09-30 | 2025-09-16 |
 | [Leiting](https://open.spotify.com/track/1PX6YVAs4nULKjBpuFSrUR) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Leiting](https://open.spotify.com/album/0E0k45Lz3OaMJSwtI5cPSd) | 2:38 | 2022-08-03 |  |
+| [Les jours passés](https://open.spotify.com/track/1IEWUYXB5cXbQiCOjJ1BhU) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Les jours passés](https://open.spotify.com/album/4TzrZCszgBzlVCr4Wm7n5k) | 2:16 | 2026-04-24 |  |
 | [Letters](https://open.spotify.com/track/4wNj7wubtz1KnGaFg2VwcU) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [The Invisible EP](https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO) | 2:01 | 2022-08-03 | 2024-10-08 |
 | [Lettre d'amour](https://open.spotify.com/track/63gpRCRO94FNh1GkVCh8pP) | [William Heller](https://open.spotify.com/artist/0bblIjmXpe2k574egtCQnr) | [Lettre d'amour](https://open.spotify.com/album/1dY8aAZt5GlEcZeuPf9hSg) | 2:17 | 2022-12-06 |  |
 | [Lid](https://open.spotify.com/track/1ELEE2AKrasjJzMbVUBDYA) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Je rêve encore](https://open.spotify.com/album/3Di0daN2ES812dKEFgYu0A) | 1:57 | 2022-08-03 | 2025-01-15 |
@@ -199,7 +200,7 @@
 | [Renaissance](https://open.spotify.com/track/5O0GM5NdPDLIhkxbQKlxFL) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Renaissance](https://open.spotify.com/album/5s31Hfu0bB2BiTuU9AbUKy) | 2:37 | 2022-08-26 |  |
 | [Resilience](https://open.spotify.com/track/3c6YU0kPmybqj9aajX86t8) | [Piano Melancolía](https://open.spotify.com/artist/6CPafn3p493y60X7Vjs410) | [Resilience](https://open.spotify.com/album/63B1nohymPQhWxL7FBBhq8) | 2:42 | 2022-08-03 |  |
 | [Respirator \(Double Pianos\)](https://open.spotify.com/track/7wZZFd0sLWp3eNG6EFmscu) | [Cascadeur](https://open.spotify.com/artist/5yUtzFVpUdN8UtyZzDD9o9) | [Revenant \(Piano Day Version\)](https://open.spotify.com/album/3iSHTWkT5mLqDz6Jm7yYcu) | 2:58 | 2022-08-03 | 2022-12-07 |
-| [Resta Con Me](https://open.spotify.com/track/11kyoJkQePM8zW2kEozhFu) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Resta Con Me](https://open.spotify.com/album/2BHogXZFHfpMP5qpGYwdqg) | 2:09 | 2024-04-03 |  |
+| [Resta Con Me](https://open.spotify.com/track/11kyoJkQePM8zW2kEozhFu) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Resta Con Me](https://open.spotify.com/album/2BHogXZFHfpMP5qpGYwdqg) | 2:09 | 2024-04-03 | 2026-04-25 |
 | [Retreat](https://open.spotify.com/track/2FXitAjMmxdA1bvdUiuq5y) | [Eric Wilhelm](https://open.spotify.com/artist/7pMZdUh8fBuVoUpARYPuoQ) | [Retreat](https://open.spotify.com/album/22yD4WvTz00AYshsHQU5vs) | 1:56 | 2022-08-03 | 2024-11-06 |
 | [rose](https://open.spotify.com/track/6MnZYdwZQ42JTat9wH7Zfz) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [rose](https://open.spotify.com/album/5GHnVV6bXReFjIUFAuowEE) | 2:38 | 2025-09-15 |  |
 | [Route To Ukraine](https://open.spotify.com/track/42sVqeLhT6bb01PbkSh1gi) | [Enrico Giaretta](https://open.spotify.com/artist/4sUR1rcNQemMzHyAtW1lyS) | [Route To Ukraine](https://open.spotify.com/album/4hmnvOQGYQGDH4g7OM6UXN) | 4:15 | 2022-08-03 |  |

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,310 songs - 9 day 13 hr 31 min
+4,311 songs - 9 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Air](https://open.spotify.com/track/4UXAz6ubt5i9TRd7681xmL) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop swing style](https://open.spotify.com/album/7JA7rjWIXI24vmR6WfEMUE) | 3:19 | 2025-09-17 |  |
 | [Air \(another\)](https://open.spotify.com/track/6ummRkRHNYtYHGxjWXKmja) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop swing style](https://open.spotify.com/album/7JA7rjWIXI24vmR6WfEMUE) | 3:23 | 2025-09-17 |  |
 | [Aire de luz](https://open.spotify.com/track/7ueYlmtjsi3cDPRnH7nvPc) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 2:37 | 2026-03-15 |  |
+| [Alba](https://open.spotify.com/track/10jU44SZcCkZ2CdX7sCTTu) | [Civico97](https://open.spotify.com/artist/4iS1xr1BJF12FN1QWb2A21) | [Alba](https://open.spotify.com/album/6TmifkwpRrtt0YwZi2AqLj) | 3:12 | 2026-04-24 |  |
 | [Alba](https://open.spotify.com/track/61MMMGhhXffx1b9QElQpGR) | [Civico97](https://open.spotify.com/artist/4iS1xr1BJF12FN1QWb2A21) | [Alba](https://open.spotify.com/album/6p8dv65w1B1qSXBQwaWpdA) | 3:12 | 2025-09-23 |  |
 | [Ale Ale Alè](https://open.spotify.com/track/6s4bQqTgXLvJPuK65DiHfl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI](https://open.spotify.com/album/5AOBcj2GRF9pJrZw44Vodc) | 2:18 | 2025-12-10 |  |
 | [Alexa!](https://open.spotify.com/track/1mZvTkWDMhElKK9h91EtTI) | [The Cool Greenhouse](https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW) | [Alexa!](https://open.spotify.com/album/77FBNlMvuIbvsTAJar8rk9) | 3:54 | 2025-11-05 |  |

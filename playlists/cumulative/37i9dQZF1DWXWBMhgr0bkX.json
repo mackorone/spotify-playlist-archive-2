@@ -19199,24 +19199,6 @@
     },
     {
       "album": {
-        "name": "Thank God",
-        "url": "https://open.spotify.com/album/7mMorOuBgW7TRKKMAgVO2f"
-      },
-      "artists": [
-        {
-          "name": "Lucy Blue",
-          "url": "https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/4niKxGPpF9LIuNxqbk1RpZ"
-    },
-    {
-      "album": {
         "name": "trespass coat",
         "url": "https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1"
       },
@@ -20050,6 +20032,24 @@
       "duration_ms": 197142,
       "name": "Who Was I To Want You?",
       "url": "https://open.spotify.com/track/4nxj9eOuViWebmLnJWZBk5"
+    },
+    {
+      "album": {
+        "name": "Thank God",
+        "url": "https://open.spotify.com/album/7mMorOuBgW7TRKKMAgVO2f"
+      },
+      "artists": [
+        {
+          "name": "Lucy Blue",
+          "url": "https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185519,
+      "name": "Who You Love",
+      "url": "https://open.spotify.com/track/4niKxGPpF9LIuNxqbk1RpZ"
     },
     {
       "album": {

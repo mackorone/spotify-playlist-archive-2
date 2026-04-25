@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,236,740 likes - 200 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,236,773 likes - 200 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -202,11 +202,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 192 | [Awake](https://open.spotify.com/track/5ffanUCz7HuYiT67dHbCap) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Hifi](https://open.spotify.com/album/1W8F704Y6D9SkAnSwbmoCN) | 2:32 |
 | 193 | [Arrive](https://open.spotify.com/track/177YqDCscPHvJFWtXlfW8Z) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Arrive](https://open.spotify.com/album/42VwMEUH9bpBuvd8jcetze) | 1:41 |
 | 194 | [Pennies](https://open.spotify.com/track/6AXC881cTIHH1nfdxJqOx5) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW), [Viva Alpagua Lo\-Fi](https://open.spotify.com/artist/09299wIN3W2Zx2NnPKgUGd) | [Pennies](https://open.spotify.com/album/5uA7E5lPHOyRuV3fqONgWF) | 1:55 |
-| 195 | [Illvibe](https://open.spotify.com/track/3xxNwh5HZxB0qyzBiVoZbW) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Illvibe](https://open.spotify.com/album/127mSzu1Br8ch4nJuEJ31u) | 2:40 |
-| 196 | [Krautology](https://open.spotify.com/track/3Zylvt4YmBroyRajWjzChM) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Krautology](https://open.spotify.com/album/1o5TbW1lttYs7pc6M0Fdy9) | 2:33 |
-| 197 | [MIA](https://open.spotify.com/track/6MKZTI0G2RexXvKcCe8jsG) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Jason Masoud](https://open.spotify.com/artist/2ZDVnuPd31hILsEUXMKcC1) | [MIA](https://open.spotify.com/album/3sIMOoF22iv8RTq5UCGGrE) | 1:39 |
-| 198 | [pearls](https://open.spotify.com/track/2nLLeDCCmy27w6v405VVZT) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [pearls](https://open.spotify.com/album/3YYdtz7Jg3r2oKW7cq37Et) | 1:48 |
-| 199 | [Highlights](https://open.spotify.com/track/6o5FielglUNmI9gRZ2eMuZ) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Highlights](https://open.spotify.com/album/6NSyRxZGyQ1iJlwijvo4pQ) | 2:00 |
-| 200 | [Outlines](https://open.spotify.com/track/4kPeJwqxGDX7DJYFuOCQAF) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Sketches](https://open.spotify.com/album/0EPvscUymb7sapGPnzcA0T) | 2:08 |
+| 195 | [Krautology](https://open.spotify.com/track/3Zylvt4YmBroyRajWjzChM) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Krautology](https://open.spotify.com/album/1o5TbW1lttYs7pc6M0Fdy9) | 2:33 |
+| 196 | [MIA](https://open.spotify.com/track/6MKZTI0G2RexXvKcCe8jsG) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Jason Masoud](https://open.spotify.com/artist/2ZDVnuPd31hILsEUXMKcC1) | [MIA](https://open.spotify.com/album/3sIMOoF22iv8RTq5UCGGrE) | 1:39 |
+| 197 | [pearls](https://open.spotify.com/track/2nLLeDCCmy27w6v405VVZT) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [pearls](https://open.spotify.com/album/3YYdtz7Jg3r2oKW7cq37Et) | 1:48 |
+| 198 | [Highlights](https://open.spotify.com/track/6o5FielglUNmI9gRZ2eMuZ) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Highlights](https://open.spotify.com/album/6NSyRxZGyQ1iJlwijvo4pQ) | 2:00 |
+| 199 | [Island Dream](https://open.spotify.com/track/4r1TL5VYZQAaFPPYnPwAKf) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Island Dream](https://open.spotify.com/album/7KRMkuCW5gZzs4ITre14LZ) | 1:54 |
+| 200 | [Polaroids](https://open.spotify.com/track/7kedyO9WGXcrvpRATAX0C8) | [Midnight Hour](https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5), [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Polaroids](https://open.spotify.com/album/6Z4oxIV8uRTX3IIEeZsWWp) | 2:18 |
 
-Snapshot ID: `AAAAALca8Mzgo0h/GBdvW2zrxzcm4Dgo`
+Snapshot ID: `AAAAADYVquN8CbZgbPKcPrk91rRlbl5j`

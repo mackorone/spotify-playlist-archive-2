@@ -5350,7 +5350,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 164369,
       "name": "Atlantide (from the Netflix film \u201cNon abbiam bisogno di parole\u201d)",
       "url": "https://open.spotify.com/track/12MJ5fijk343STCNRQAM2e"
@@ -7772,7 +7772,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 255946,
       "name": "Be Like a Woman",
       "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
@@ -13910,6 +13910,24 @@
       "duration_ms": 108431,
       "name": "CHLEBA",
       "url": "https://open.spotify.com/track/7Ksq5VyMQgN6OHtDLBSJVC"
+    },
+    {
+      "album": {
+        "name": "Choose me",
+        "url": "https://open.spotify.com/album/4HHYks9TSHZitQGRipfnKw"
+      },
+      "artists": [
+        {
+          "name": "Cathleen Kleinert",
+          "url": "https://open.spotify.com/artist/52ZgL6rYQ7FarIV3hPCDzg"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129692,
+      "name": "Choose me",
+      "url": "https://open.spotify.com/track/0kkbThggJteiUSqtHxyhZ6"
     },
     {
       "album": {
@@ -53666,7 +53684,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 200275,
       "name": "O JAK MI\u0141O",
       "url": "https://open.spotify.com/track/2Xt4PeBHH20FB2L6rOlyKd"
@@ -61750,7 +61768,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 199600,
       "name": "RICHMAN",
       "url": "https://open.spotify.com/track/3JfbMm4LfBmm96mkKhyG6I"
@@ -74410,7 +74428,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 344009,
       "name": "Titanium x Please Me - Slowed",
       "url": "https://open.spotify.com/track/5wubzVFWNWzaqLjamjDrhh"

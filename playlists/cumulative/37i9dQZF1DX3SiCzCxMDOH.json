@@ -995,6 +995,24 @@
     },
     {
       "album": {
+        "name": "After The Rain",
+        "url": "https://open.spotify.com/album/7e02hYdOKAB6Y9ph2jsb5B"
+      },
+      "artists": [
+        {
+          "name": "Sean Pearson",
+          "url": "https://open.spotify.com/artist/4KJIYlMtyVGnqbD8Qjp7vQ"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231996,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/7v1kjHueLV3p0oBWG0I4v4"
+    },
+    {
+      "album": {
         "name": "Ain\u2019t no sense",
         "url": "https://open.spotify.com/album/1Y5EPjYebiHkD57VCBe2ia"
       },
@@ -5771,6 +5789,24 @@
     },
     {
       "album": {
+        "name": "Hand over your pocket",
+        "url": "https://open.spotify.com/album/3SapH8K9cfr8z3tdJAIuxk"
+      },
+      "artists": [
+        {
+          "name": "Samuel Greene",
+          "url": "https://open.spotify.com/artist/43cWWTPvyFL74DlpEVyl1A"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174614,
+      "name": "Hand over your pocket",
+      "url": "https://open.spotify.com/track/5CIkeKeE8beIkEnHeoSzMw"
+    },
+    {
+      "album": {
         "name": "Hard and lonely road",
         "url": "https://open.spotify.com/album/3gaUFY7kqSIM3SqY1OIefh"
       },
@@ -7960,7 +7996,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 156299,
       "name": "Jazz Junction",
       "url": "https://open.spotify.com/track/1grGYyIWIJ44ApvRXWCvdN"
@@ -8612,6 +8648,24 @@
       "duration_ms": 191454,
       "name": "Late Terminal",
       "url": "https://open.spotify.com/track/30WMcRYFfoMpNQ6sVVOZEP"
+    },
+    {
+      "album": {
+        "name": "Later",
+        "url": "https://open.spotify.com/album/0PcCcFXVWDgeru0dqgKxY2"
+      },
+      "artists": [
+        {
+          "name": "Cole Peers trio",
+          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196683,
+      "name": "Later",
+      "url": "https://open.spotify.com/track/7wbALtGXQDWDus9QXCm5DT"
     },
     {
       "album": {
@@ -9364,7 +9418,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 171448,
       "name": "Lots of It",
       "url": "https://open.spotify.com/track/6s06FedC1pdyLQ9LmUX2oP"
@@ -15266,7 +15320,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 183488,
       "name": "The Foolish Heart",
       "url": "https://open.spotify.com/track/1tNLxWFOh4XBS2xnyVyaCQ"

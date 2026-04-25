@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Joshua Robbie &amp; Dolore
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Jude York
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 118,386 likes - 196 songs - 9 hr 50 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 118,385 likes - 196 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,4 +205,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 195 | [Era](https://open.spotify.com/track/1eao1v2p0x5mckT9gMTOH6) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Era](https://open.spotify.com/album/4jm2U2sXJUJGBhKC1TJfsp) | 4:44 |
 | 196 | [Fever Dream \- Extended Mix](https://open.spotify.com/track/0nBHXHM7VzucF8OtVJzAdE) | [Tuew](https://open.spotify.com/artist/0TEFGr4Bz2GgUhfDGsNx3r) | [Fever Dream](https://open.spotify.com/album/3M7b4WrkyiNENf3GNXKLuq) | 3:32 |
 
-Snapshot ID: `AAAg/se9EfMRUK8IhXoyAu/tqMz9YE8i`
+Snapshot ID: `AAAg/0X67YCvW+6M6t9Y5ycGHCzAfles`

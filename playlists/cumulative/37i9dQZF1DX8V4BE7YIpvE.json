@@ -132,6 +132,24 @@
     {
       "album": {
         "name": "Afterlight",
+        "url": "https://open.spotify.com/album/6xn0oEUNjATbwAThgQHyFx"
+      },
+      "artists": [
+        {
+          "name": "Emil Rottmayer",
+          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217627,
+      "name": "Afterlight",
+      "url": "https://open.spotify.com/track/0n3eQd5OwyywONTRfXQ0Ry"
+    },
+    {
+      "album": {
+        "name": "Afterlight",
         "url": "https://open.spotify.com/album/32UABCFumfPYxi7EJVHCpH"
       },
       "artists": [
@@ -326,7 +344,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 209423,
       "name": "Caught In Between",
       "url": "https://open.spotify.com/track/4eVyFEBhBZZPRfx4H0eKYo"
@@ -749,6 +767,24 @@
     },
     {
       "album": {
+        "name": "Dream State",
+        "url": "https://open.spotify.com/album/4zNRBdpAuFfWMJ3pkpp6C6"
+      },
+      "artists": [
+        {
+          "name": "Downtown Binary",
+          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307475,
+      "name": "Dream State",
+      "url": "https://open.spotify.com/track/1MwN0GKuHEx1mQV9NeSgWf"
+    },
+    {
+      "album": {
         "name": "Synthetic",
         "url": "https://open.spotify.com/album/5a8wgN3tp3cmZdejIofU5M"
       },
@@ -872,7 +908,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 216333,
       "name": "Dynasty of Lights",
       "url": "https://open.spotify.com/track/6OOyl4PwytyCI9ITgWy07o"
@@ -1745,6 +1781,50 @@
     },
     {
       "album": {
+        "name": "Interload",
+        "url": "https://open.spotify.com/album/62ET2Tzf5JQRsUiiNt1Xfo"
+      },
+      "artists": [
+        {
+          "name": "Tonebox",
+          "url": "https://open.spotify.com/artist/3r5rHoyzqZHGJkU8fGZtNO"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "Interload",
+      "url": "https://open.spotify.com/track/7hCXuD6kipjhhYirJYDJja"
+    },
+    {
+      "album": {
+        "name": "Irrelevant",
+        "url": "https://open.spotify.com/album/36YguMxbvFbk97ZXm61spG"
+      },
+      "artists": [
+        {
+          "name": "Cassetter",
+          "url": "https://open.spotify.com/artist/6rzOP8pWzUuXlniCGCtrcE"
+        },
+        {
+          "name": "Cyberwalker",
+          "url": "https://open.spotify.com/artist/4ITiUL9rLnbOtwjomEXGA5"
+        },
+        {
+          "name": "Lebedev Sax",
+          "url": "https://open.spotify.com/artist/2Tg1ZCCJemMS5ngqlLD002"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230712,
+      "name": "Irrelevant",
+      "url": "https://open.spotify.com/track/3BKHDdtQPaJil7DDExzLY9"
+    },
+    {
+      "album": {
         "name": "It\u2019s a fine day",
         "url": "https://open.spotify.com/album/28oQFduQix5yPMBzhtyPRQ"
       },
@@ -1836,6 +1916,24 @@
       "duration_ms": 250189,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/3dhcRBhrx6ZvyPdiz6QKh4"
+    },
+    {
+      "album": {
+        "name": "Last Flight Home",
+        "url": "https://open.spotify.com/album/3TS7vwd8nyPCSTh2I7cCY1"
+      },
+      "artists": [
+        {
+          "name": "Crystal Motel",
+          "url": "https://open.spotify.com/artist/6UD8pS3KW4GX4PPxza4OW3"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133894,
+      "name": "Last Flight Home",
+      "url": "https://open.spotify.com/track/74cIJLvDb0MqZeFWYFISIJ"
     },
     {
       "album": {
@@ -1948,7 +2046,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 154000,
       "name": "Lost in 84",
       "url": "https://open.spotify.com/track/0EZkhX2ROJGSxsAaD3qLxA"
@@ -1984,7 +2082,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 128006,
       "name": "lost in time",
       "url": "https://open.spotify.com/track/0NDZPZsbsFYT2DoS5wivv5"
@@ -2028,6 +2126,28 @@
       "duration_ms": 138819,
       "name": "Lunar Cry - Slowed",
       "url": "https://open.spotify.com/track/3zfXgVWQRQm1uUQcEeLNRs"
+    },
+    {
+      "album": {
+        "name": "Lunar Glow",
+        "url": "https://open.spotify.com/album/2aXf4TO1QVplMdbuAQV2dc"
+      },
+      "artists": [
+        {
+          "name": "Deltavolt",
+          "url": "https://open.spotify.com/artist/7JVTsM5lw7BcXMUDkHd67B"
+        },
+        {
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Lunar Glow",
+      "url": "https://open.spotify.com/track/70B83E7I2hY8kjDlGhFffp"
     },
     {
       "album": {
@@ -2190,7 +2310,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 128666,
       "name": "Midnight Confessions",
       "url": "https://open.spotify.com/track/4i7luRkhTFCe4qvQnG0mw6"
@@ -2266,7 +2386,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 160000,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/5cHwfc2s4OtfuQMSY033B7"
@@ -2464,7 +2584,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 154666,
       "name": "Night in Slow Frames",
       "url": "https://open.spotify.com/track/1IUQNu0RBVUfyWUTTVnt4p"
@@ -2500,7 +2620,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 252000,
       "name": "No Limits - slowed",
       "url": "https://open.spotify.com/track/4zvgNCOCMOW9OVYIr8zFoD"
@@ -2894,7 +3014,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 145870,
       "name": "Planets Don't Sleep",
       "url": "https://open.spotify.com/track/3uNsHmmvN7D8vGUg10IQW8"
@@ -3121,6 +3241,24 @@
     },
     {
       "album": {
+        "name": "Ring of Tomorrow",
+        "url": "https://open.spotify.com/album/5xBxQ3jKLs7MFwDh8FC1HX"
+      },
+      "artists": [
+        {
+          "name": "Azure Rooms",
+          "url": "https://open.spotify.com/artist/6wOyatkq0K10g7yVdniobk"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Ring of Tomorrow",
+      "url": "https://open.spotify.com/track/6SEE7vwnevV0E2IgRVpm0f"
+    },
+    {
+      "album": {
         "name": "Roxanne",
         "url": "https://open.spotify.com/album/7m2Yo2SlmlBR9nTlU0vrl1"
       },
@@ -3208,7 +3346,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 232682,
       "name": "See You Next Year (Slowed)",
       "url": "https://open.spotify.com/track/4N5CPL89XOc7vmBJaxEI79"
@@ -3306,6 +3444,24 @@
       "duration_ms": 150697,
       "name": "Shimmering Expanse",
       "url": "https://open.spotify.com/track/1Zq4bvnfO1umN1u9id5qT3"
+    },
+    {
+      "album": {
+        "name": "Signal in the Night",
+        "url": "https://open.spotify.com/album/5NKRsDlA8f3Rg3BWzWoMtP"
+      },
+      "artists": [
+        {
+          "name": "Night Shapes",
+          "url": "https://open.spotify.com/artist/6PRP1lwrRpqb8gfYERsnhV"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142736,
+      "name": "Signal in the Night",
+      "url": "https://open.spotify.com/track/0GfrH11bdkBG26DLlRuxYD"
     },
     {
       "album": {
@@ -3573,6 +3729,24 @@
     },
     {
       "album": {
+        "name": "Static Horizon",
+        "url": "https://open.spotify.com/album/4CwbYwAw7lixI1oiiiPNAe"
+      },
+      "artists": [
+        {
+          "name": "After Dark",
+          "url": "https://open.spotify.com/artist/01oXEIT0WHf08pPiMUuY9k"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Static Horizon",
+      "url": "https://open.spotify.com/track/47pIdfwVppx9bWNs2FHnDO"
+    },
+    {
+      "album": {
         "name": "Streets",
         "url": "https://open.spotify.com/album/5BQErl2Ekr0BcbaQcl3b7O"
       },
@@ -3624,6 +3798,24 @@
       "duration_ms": 170187,
       "name": "SynthDreams",
       "url": "https://open.spotify.com/track/3FAjcy7jsFO4zD31ZUNjHg"
+    },
+    {
+      "album": {
+        "name": "Tape Drift",
+        "url": "https://open.spotify.com/album/4uRIFuJd1xBqhw2PV5Mkm5"
+      },
+      "artists": [
+        {
+          "name": "Ghost in Delay",
+          "url": "https://open.spotify.com/artist/3sCPjqofyWElqBsicU6DVh"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150099,
+      "name": "Tape Drift",
+      "url": "https://open.spotify.com/track/4AvB3JNlp4xnD3rYJPnbJ2"
     },
     {
       "album": {
@@ -3847,6 +4039,24 @@
     },
     {
       "album": {
+        "name": "Threshold Glow",
+        "url": "https://open.spotify.com/album/0MkaFmd8GpKyyzbilas4yu"
+      },
+      "artists": [
+        {
+          "name": "Interwave",
+          "url": "https://open.spotify.com/artist/56oS99WDufkuJs4yV85vPM"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146440,
+      "name": "Threshold Glow",
+      "url": "https://open.spotify.com/track/4C4d6eeZASaWrCHxyF1XhU"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0eNfe89MtLWRndxk0nW0o8"
       },
@@ -3858,7 +4068,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 204877,
       "name": "Time",
       "url": "https://open.spotify.com/track/7kx7vTZFMcR822J0EdreNP"
@@ -3916,6 +4126,24 @@
       "duration_ms": 209230,
       "name": "True Love",
       "url": "https://open.spotify.com/track/0ajMmAtW5492rLVehEkoM7"
+    },
+    {
+      "album": {
+        "name": "Underpass Reverie",
+        "url": "https://open.spotify.com/album/6CW2fbIEzrUZVF0V3ooZcz"
+      },
+      "artists": [
+        {
+          "name": "Night Shapes",
+          "url": "https://open.spotify.com/artist/6PRP1lwrRpqb8gfYERsnhV"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148235,
+      "name": "Underpass Reverie",
+      "url": "https://open.spotify.com/track/5YPZBk1PtKjY4UzR7N8US9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > From rocking to walking and everything in between to help you celebrate every milestone & cherish every moment.
 
-130 songs - 5 hr 58 min
+131 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Disney Junior Music: Make It a Mickey Morning](https://open.spotify.com/track/02Fn1rxmlveZZfx4iltIMz) | [Felicia Barton](https://open.spotify.com/artist/7BtsooSogDGtA54zLBjk3N), [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [Disney Junior Music: Mickey Mornings](https://open.spotify.com/album/5cUlQxfGjSP19VFtF6fqGh) | 1:42 | 2024-03-01 |  |
 | [Dos Oruguitas](https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:34 | 2024-03-01 |  |
 | [Dreams Are the Flowers \(That Bloom in Your Heart\)](https://open.spotify.com/track/1gljt92sBOCO0VSy7nCowM) | [Jackie Cusic](https://open.spotify.com/artist/6uANe2zVTu4iieBxdMpq6t) | [Disney Baby Lullaby](https://open.spotify.com/album/49OMKZqjoE2rQkDR0SrQ6A) | 2:21 | 2024-03-01 |  |
+| [Driving with the Top Down](https://open.spotify.com/track/2OthFD5cepms2BoRUN8wqG) | [Disney Ambient](https://open.spotify.com/artist/5iop40R7W1LzJpH6Lm8ZRG) | [Marvel Ambient](https://open.spotify.com/album/6x5KxdMWRaEEt3vZb0FvFV) | 3:26 | 2026-04-24 |  |
 | [Fast Asleep](https://open.spotify.com/track/0GUX5xnxpyNxY3PC5vLM9L) | [Paige Morehead](https://open.spotify.com/artist/2VUhAdBwFY2AoEZsnzQdTF) | [Disney Baby Lullaby](https://open.spotify.com/album/49OMKZqjoE2rQkDR0SrQ6A) | 2:04 | 2024-03-01 |  |
 | [Feed the Birds \- From "Mary Poppins"](https://open.spotify.com/track/0XnUSyexbx1aQvBjnJ5WJh) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [The Disney Book \(Deluxe Edition\)](https://open.spotify.com/album/5ADhBk8zOQYwKhiPbGKSH1) | 4:21 | 2024-03-01 |  |
 | [For the First Time in Forever](https://open.spotify.com/track/3mZ5cGdehGztF45dECOuoV) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Joy](https://open.spotify.com/album/11x60QHsoQa9rJVkIVFccW) | 3:27 | 2024-03-01 |  |
@@ -98,7 +99,7 @@
 | [So This Is Love \- From "Cinderella"/Vocal](https://open.spotify.com/track/0ZGsQUf2WaAGvn4xnwUR6o) | [Disney Pixar Duets Karaoke](https://open.spotify.com/artist/2mMWUlPIkYUJYsJQV28caf) | [Songs and Story: Cinderella](https://open.spotify.com/album/1d4rBfCtXPqkphzbvjokLa) | 1:34 | 2024-03-01 | 2025-03-07 |
 | [Some Day My Prince Will Come](https://open.spotify.com/track/53Tfvtz3yKpKSevEiC77wu) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Serenity](https://open.spotify.com/album/6yR9o27G8Cnxu8BLrOyKsN) | 2:51 | 2024-03-01 |  |
 | [Stay Awake](https://open.spotify.com/track/1Fs3wgPkw1WfWy2f5vITsX) | [Karen Taylor\-Good](https://open.spotify.com/artist/37ealXJVFvi7AqeLIly66z) | [Disney Baby Lullaby](https://open.spotify.com/album/49OMKZqjoE2rQkDR0SrQ6A) | 2:21 | 2024-03-01 |  |
-| [Strolling Along](https://open.spotify.com/track/33FJUp42bhgdUsbz6tQZU9) | [The Toontown Tooners](https://open.spotify.com/artist/3skIyYGqzp3KSrfb2KfADr) | [Music from Mickey's Toontown](https://open.spotify.com/album/5bCGUsjittoLfG2La9JHPN) | 1:54 | 2025-06-20 |  |
+| [Strolling Along](https://open.spotify.com/track/33FJUp42bhgdUsbz6tQZU9) | [The Toontown Tooners](https://open.spotify.com/artist/3skIyYGqzp3KSrfb2KfADr) | [Music from Mickey's Toontown](https://open.spotify.com/album/5bCGUsjittoLfG2La9JHPN) | 1:54 | 2025-06-20 | 2026-04-25 |
 | [The Bare Necessities \- Instrumental](https://open.spotify.com/track/747WbLmzVVbiNDMx2LL9Ic) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Sleepytime Lullabies](https://open.spotify.com/album/4pHb2LkBfPjbMlkGWISDF6) | 1:31 | 2024-03-01 |  |
 | [The Family Madrigal](https://open.spotify.com/track/5oRxqr6DCdWPSgOHXCpGID) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Magical](https://open.spotify.com/album/3qZcRGWrRh7As9SkDbuzYh) | 4:14 | 2024-03-01 |  |
 | [The Mandalorian](https://open.spotify.com/track/2ssUiGGkRHrK1alQ5jtlSz) | [Nick Pingree](https://open.spotify.com/artist/6Dn0vYqXbgRdF8JmW396A4), [Star Wars Lofi](https://open.spotify.com/artist/1NLRuDIBQZ0DIM31Kb0b6N) | [Star Wars Lofi: Vol\. 1](https://open.spotify.com/album/7pUhf9YyQeLkuGdWusUHYl) | 2:58 | 2024-05-03 | 2025-01-16 |

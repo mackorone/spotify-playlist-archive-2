@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. show me the body
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,099,884 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,099,847 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 24 | [tower of memories](https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [the theory of you](https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB) | 3:28 |
 | 25 | [STAMPEDE](https://open.spotify.com/track/6gxGg4j7i3Ba7F2x0yi8br) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STAMPEDE](https://open.spotify.com/album/7A2scjvl1X6PS9TBZ6BzFj) | 3:09 |
 | 26 | [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 |
-| 27 | [Track 3](https://open.spotify.com/track/2H5O3Ah9f4W0RVAm3sdEOn) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [sorry about the plague](https://open.spotify.com/album/2Oo2vcRgni2zWLACFEZLNg) | 0:00 |
+| 27 | [lilies](https://open.spotify.com/track/2H5O3Ah9f4W0RVAm3sdEOn) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [sorry about the plague](https://open.spotify.com/album/2Oo2vcRgni2zWLACFEZLNg) | 3:17 |
 | 28 | [Angel Wings](https://open.spotify.com/track/156gjKaMoJgvTRhhD2w5qp) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Angel Wings](https://open.spotify.com/album/4iWYLfamJp7XGKbmUWam1H) | 3:52 |
 | 29 | [Evangelic Girl is a Gun](https://open.spotify.com/track/2jjLiYXjmDzfyul2IJ6EVa) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Evangelic Girl is a Gun](https://open.spotify.com/album/0YYPOxN7WrWD3ygAP5KB50) | 3:03 |
 | 30 | [風｜Kaze](https://open.spotify.com/track/6PpzrR9L9kcto2T7JwZEks) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [風｜Kaze](https://open.spotify.com/album/0dz6iowGbmc2Q0ovSLRke4) | 1:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 79 | [Call Me Mommy](https://open.spotify.com/track/6xQEEMsk1ZwnZ0XhBEWFy7) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Call Me Mommy](https://open.spotify.com/album/1g4lutJQBwAL3wPM1RDWkk) | 2:59 |
 | 80 | [ANTIDOTE](https://open.spotify.com/track/0PvlSVpiDLnJbI1wmApqqQ) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [ANTIDOTE](https://open.spotify.com/album/4Uc2ErLyAbWIK9qPqHMj5n) | 3:03 |
 
-Snapshot ID: `AAAAAN9ecV+MiczoPZFfEieMSTPae6UZ`
+Snapshot ID: `AAAAALwq/90gFP5wmsUBkhNNKC/ORbKc`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z">&ME</a>'s favorite tracks\. Updated regularly\. Curated by &ME\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,660 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,665 likes - 75 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cloudy Eyes \(Dance Tonight\)](https://open.spotify.com/track/1NkhNXHEv33NZgMF4W4SeB) | [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Cloudy Eyes \(Dance Tonight\)](https://open.spotify.com/album/4l5eC0UIf7x6jKuxaFNUUr) | 4:24 |
-| 2 | [Crazy For It](https://open.spotify.com/track/7cPPX2zkjtYWEhKxcwhr4v) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Vinson](https://open.spotify.com/artist/1ER9vmM8lqAB19a30WwA0b), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Crazy For It](https://open.spotify.com/album/6tJOG1udVUwqseZoo2dXut) | 4:10 |
+| 2 | [Be The One](https://open.spotify.com/track/4gDKviRLkpZowZhcnRPqqE) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Be The One](https://open.spotify.com/album/4qnDtActtsWu2i8VH9wkmE) | 3:25 |
 | 3 | [96H](https://open.spotify.com/track/4qQI3AkMG2C3PJinxzAKwX) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Layer J](https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf) | [96H](https://open.spotify.com/album/7dC3SjLTLDqMMRHvIMZPFP) | 3:44 |
 | 4 | [Boom](https://open.spotify.com/track/28OL1J1hQcsSk6vNGZGIuo) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Boom EP](https://open.spotify.com/album/71VKHr0GKzUueluzBMVqwX) | 3:00 |
 | 5 | [Not Going Home](https://open.spotify.com/track/0IZVjZNdDhjb1pXydPA6AU) | [Rex The Dog](https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC) | [Not Going Home](https://open.spotify.com/album/5xmMohRmdN6r1DnOcnqNFC) | 3:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 | 74 | [Black White \- Original Mix](https://open.spotify.com/track/0LAXSNjh2UVHxDfJEvnUtS) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Mr Jones](https://open.spotify.com/album/641XUE2DRiJnLSwdmNX9JZ) | 9:17 |
 | 75 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 |
 
-Snapshot ID: `AAAAAMmU8Rt40CxSNBp3+pDHwgLSdryO`
+Snapshot ID: `AAAAAKq9ZRxld9c7Mj5p2qEC9VyS+Eve`

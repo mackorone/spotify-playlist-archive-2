@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7031,
+  "num_followers": 7036,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aegPgAAAAAATysq/kAV7MyUcwzKvk/X8",
+  "snapshot_id": "aelhAAAAAAA8pHnBB005IEszq/v5+P6Z",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 230517,
+      "name": "Unknown",
+      "url": "https://open.spotify.com/track/4eQ7eb2swQY6RobsmwmqsH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lotus Glow (Deluxe)",
         "url": "https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 189813,
       "name": "Le D\u00e9part - Feat. Durand Bernarr",
       "url": "https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Route",
-        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 230517,
-      "name": "Unknown",
-      "url": "https://open.spotify.com/track/4eQ7eb2swQY6RobsmwmqsH"
     },
     {
       "added_at": null,
@@ -703,18 +703,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "B-Boys Blues (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ"
+        "name": "1988",
+        "url": "https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS"
       },
       "artists": [
         {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        },
+        {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Rose Gold",
+          "url": "https://open.spotify.com/artist/5ZvCpVAckM5gWTM5HYgSFb"
         }
       ],
-      "duration_ms": 196582,
-      "name": "Hangin'",
-      "url": "https://open.spotify.com/track/0RFkym8XWbLBd6VJUY4aae"
+      "duration_ms": 268668,
+      "name": "minding_my business",
+      "url": "https://open.spotify.com/track/4E3AUfhHzDg0xD12mzcCNu"
     },
     {
       "added_at": null,
@@ -751,30 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1988",
-        "url": "https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS"
-      },
-      "artists": [
-        {
-          "name": "Knxwledge",
-          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Rose Gold",
-          "url": "https://open.spotify.com/artist/5ZvCpVAckM5gWTM5HYgSFb"
-        }
-      ],
-      "duration_ms": 268668,
-      "name": "minding_my business",
-      "url": "https://open.spotify.com/track/4E3AUfhHzDg0xD12mzcCNu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B-Boys Blues (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ"
       },
@@ -784,25 +768,9 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 173605,
-      "name": "Homage",
-      "url": "https://open.spotify.com/track/4jCwxj1GpM7MTSNy6i2ihs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DUR&",
-        "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "MIXXED",
-      "url": "https://open.spotify.com/track/1e1HrWgSMfRwDyPGgiAo4i"
+      "duration_ms": 196582,
+      "name": "Hangin'",
+      "url": "https://open.spotify.com/track/0RFkym8XWbLBd6VJUY4aae"
     },
     {
       "added_at": null,
@@ -835,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DUR&",
+        "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "MIXXED",
+      "url": "https://open.spotify.com/track/1e1HrWgSMfRwDyPGgiAo4i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 243930,
       "name": "Vacancy (feat. Just Liv)",
       "url": "https://open.spotify.com/track/0CS4UnPB1EoMWGB0DFjUy4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B-Boys Blues (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 173605,
+      "name": "Homage",
+      "url": "https://open.spotify.com/track/4jCwxj1GpM7MTSNy6i2ihs"
     },
     {
       "added_at": null,

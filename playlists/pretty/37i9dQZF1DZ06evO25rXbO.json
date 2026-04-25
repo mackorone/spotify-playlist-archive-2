@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1238730,
+  "num_followers": 1238821,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aegPgAAAAABZmNFFW28DJ36RJPiwUKmg",
+  "snapshot_id": "aelhAAAAAACwR3e8VDK+5CzKr7ID+IBD",
   "tracks": [
     {
       "added_at": null,
@@ -548,29 +548,13 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Dennis Hopper",
-          "url": "https://open.spotify.com/artist/2Ibi8QzB7uhtYXWtOboAgv"
-        },
-        {
-          "name": "Ajay Prasanna",
-          "url": "https://open.spotify.com/artist/0UcnzmNyNnUpA3RJNoUQ3H"
-        },
-        {
-          "name": "Anoushka Shankar",
-          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
-        },
-        {
-          "name": "Amaan Ali Bangash",
-          "url": "https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg"
-        },
-        {
-          "name": "Ayaan Ali Bangash",
-          "url": "https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG"
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
         }
       ],
-      "duration_ms": 290621,
-      "name": "The Mountain (feat. Dennis Hopper, Ajay Prasanna, Anoushka Shankar, Amaan Ali Bangash and Ayaan Ali Bangash)",
-      "url": "https://open.spotify.com/track/3MebYJnEDK4XdnCj3VMLjL"
+      "duration_ms": 138264,
+      "name": "The Hardest Thing (feat. Tony Allen)",
+      "url": "https://open.spotify.com/track/2jSbuzSLLvFYO7xAMEU85i"
     },
     {
       "added_at": null,
@@ -647,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sleeping Powder",
+        "url": "https://open.spotify.com/album/5D31GSU5erwgjB6uvLzlcu"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 166481,
+      "name": "Sleeping Powder",
+      "url": "https://open.spotify.com/track/5pE9vMyvVNOpZFutt6lyy4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Plastic Beach",
         "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 174866,
       "name": "Superfast Jellyfish (feat. Gruff Rhys and De La Soul)",
       "url": "https://open.spotify.com/track/1UJNbgfTzG1gZZTWFJdMf1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sleeping Powder",
-        "url": "https://open.spotify.com/album/5D31GSU5erwgjB6uvLzlcu"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 166481,
-      "name": "Sleeping Powder",
-      "url": "https://open.spotify.com/track/5pE9vMyvVNOpZFutt6lyy4"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Hulvey",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: CeCe Winans",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "SUNDAY",
+        "url": "https://open.spotify.com/album/5IsJatqtBcZJtPeIGj0vvA"
+      },
+      "artists": [
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369280,
+      "name": "Always Been Jesus",
+      "url": "https://open.spotify.com/track/5TtHnRmepkrPZwscSyBDWb"
+    },
+    {
+      "album": {
         "name": "Jesus Over Everything (Live In Las Vegas)",
         "url": "https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp"
       },
@@ -2419,6 +2437,24 @@
     },
     {
       "album": {
+        "name": "Bibles Again",
+        "url": "https://open.spotify.com/album/3kx3JtanfbamWIGtqIFOwn"
+      },
+      "artists": [
+        {
+          "name": "Brent Morgan",
+          "url": "https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198281,
+      "name": "Bibles Again",
+      "url": "https://open.spotify.com/track/3BpGShSSLe8vIxtQvuWILQ"
+    },
+    {
+      "album": {
         "name": "Big God",
         "url": "https://open.spotify.com/album/3neRBcOUW8ZMem3hBAU1u1"
       },
@@ -2622,7 +2658,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 158330,
       "name": "BLOOD 2",
       "url": "https://open.spotify.com/track/3vYdFpkCK3OzNjLxEvhCMR"
@@ -5248,7 +5284,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 580500,
       "name": "ENOUGH FOR ME",
       "url": "https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3"
@@ -15807,6 +15843,28 @@
     },
     {
       "album": {
+        "name": "CULT CLASSIC VOL. 1",
+        "url": "https://open.spotify.com/album/1oyf5vVZtHUJHgVKCnsk6r"
+      },
+      "artists": [
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        },
+        {
+          "name": "Brenno",
+          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "NED FLANDERS",
+      "url": "https://open.spotify.com/track/2W6PC29zRbBuJwI3G8eBzB"
+    },
+    {
+      "album": {
         "name": "Needs",
         "url": "https://open.spotify.com/album/0gRF9GgWiZyRQeBoPgucGi"
       },
@@ -17010,7 +17068,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 307919,
       "name": "One And Only (with Cody Carnes)",
       "url": "https://open.spotify.com/track/6oTSE8EOHyOIayrRoE6NmY"
@@ -19543,6 +19601,28 @@
     },
     {
       "album": {
+        "name": "Saturday",
+        "url": "https://open.spotify.com/album/1rHG4Xy7nq6FCPoeDJF8Kj"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        },
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239800,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/2qHzx9pQ4rxDGkauEEkjd7"
+    },
+    {
+      "album": {
         "name": "January Flower (Deluxe)",
         "url": "https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4"
       },
@@ -19620,7 +19700,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 234408,
       "name": "Scars",
       "url": "https://open.spotify.com/track/1uI8yRqVMuYZSKBEXPsIdm"
@@ -19772,6 +19852,24 @@
       "duration_ms": 237666,
       "name": "Seventh Of June",
       "url": "https://open.spotify.com/track/1Rd5AMfjl25DHBODI12WD1"
+    },
+    {
+      "album": {
+        "name": "This Bed I Made",
+        "url": "https://open.spotify.com/album/1atz6Ki6hL5RjUgGIDfkJA"
+      },
+      "artists": [
+        {
+          "name": "Guvna B",
+          "url": "https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Shameless",
+      "url": "https://open.spotify.com/track/7bQKckZ2AsrFOok83WJb6v"
     },
     {
       "album": {
@@ -19936,6 +20034,24 @@
       "duration_ms": 317146,
       "name": "Simple Matter",
       "url": "https://open.spotify.com/track/19TiECi9uhu3vRj2XAQrq5"
+    },
+    {
+      "album": {
+        "name": "The Reminder (Deluxe)",
+        "url": "https://open.spotify.com/album/4hKwQol85g8wIeXvrG1Lct"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262607,
+      "name": "Simply Worthy",
+      "url": "https://open.spotify.com/track/7s5Ws4BYoXLh8M3Bfjis09"
     },
     {
       "album": {
@@ -21854,7 +21970,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 272149,
       "name": "Taste And See (The Love Of Christ)",
       "url": "https://open.spotify.com/track/7MjQIKDBaG5BJc9EeIhAbD"
@@ -22008,7 +22124,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 242088,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/57raDV5u2fktsZTXZTqnpI"
@@ -23438,10 +23554,32 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 214535,
       "name": "The Water",
       "url": "https://open.spotify.com/track/1sbNbrhXGfamKxnoBP0JWI"
+    },
+    {
+      "album": {
+        "name": "The Water",
+        "url": "https://open.spotify.com/album/0f7z0a9cYtbbCA69Oj9iVk"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Victory",
+          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214535,
+      "name": "The Water",
+      "url": "https://open.spotify.com/track/7wA1KK75SuO4XfhfNPfbbT"
     },
     {
       "album": {
@@ -25073,6 +25211,24 @@
     },
     {
       "album": {
+        "name": "More Than This (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0RuwuHO9xhkquxXhG5HXpM"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362984,
+      "name": "We Pray",
+      "url": "https://open.spotify.com/track/1pEOwIwQP3GoONiFfpCoSS"
+    },
+    {
+      "album": {
         "name": "Northstar",
         "url": "https://open.spotify.com/album/33AEQGTj1GoEb5KeCFWb8L"
       },
@@ -25753,6 +25909,24 @@
     },
     {
       "album": {
+        "name": "Where Would I Be",
+        "url": "https://open.spotify.com/album/1odGIS0La1wGoyHwzgKBsI"
+      },
+      "artists": [
+        {
+          "name": "Peter Burton",
+          "url": "https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192745,
+      "name": "Where Would I Be",
+      "url": "https://open.spotify.com/track/0H8B4yrZmLIYe7Rnjp0ip1"
+    },
+    {
+      "album": {
         "name": "Wherever I Go",
         "url": "https://open.spotify.com/album/1LBY9Iz5emzXJArvaa9udn"
       },
@@ -26130,7 +26304,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 183125,
       "name": "With God - Live",
       "url": "https://open.spotify.com/track/5t3Y3f6dXnuznrjA5Q9f2C"
@@ -27035,6 +27209,24 @@
     },
     {
       "album": {
+        "name": "You Remain",
+        "url": "https://open.spotify.com/album/16zT4Ip6VV3DeWDzPfYjsb"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177911,
+      "name": "You Remain",
+      "url": "https://open.spotify.com/track/3266gTer0klnum066VVwlB"
+    },
+    {
+      "album": {
         "name": "You Will Be Found",
         "url": "https://open.spotify.com/album/2pTMEwEKSdrr7tBsLbROrz"
       },
@@ -27112,7 +27304,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 296000,
       "name": "You're Not Finished",
       "url": "https://open.spotify.com/track/3rH3Jge1u3YF1fsi2hkBwu"

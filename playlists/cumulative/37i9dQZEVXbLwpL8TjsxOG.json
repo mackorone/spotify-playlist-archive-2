@@ -4770,7 +4770,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 201946,
       "name": "Eenie Meenie",
       "url": "https://open.spotify.com/track/4vVTI94F9uJ8lHNDWKv0i2"
@@ -4792,7 +4792,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 201973,
       "name": "Eenie Meenie - Radio Version",
       "url": "https://open.spotify.com/track/4Yaw2PmyOETOnEM3TCf98I"
@@ -7546,7 +7546,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
@@ -13610,7 +13610,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -20026,6 +20026,24 @@
       "duration_ms": 346247,
       "name": "\u4eba\u985e\u7fa4\u661f\u9583\u8000\u6642",
       "url": "https://open.spotify.com/track/10nbKFoqDjsauhJQTHWfkg"
+    },
+    {
+      "album": {
+        "name": "\u4eca\u4e16\u60c5\u4eba",
+        "url": "https://open.spotify.com/album/1chAREIlMbI3rSR9D3PpNu"
+      },
+      "artists": [
+        {
+          "name": "Yan Ting",
+          "url": "https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270441,
+      "name": "\u4eca\u4e16\u60c5\u4eba",
+      "url": "https://open.spotify.com/track/70rtdjRhEdd0Lf3773uqXV"
     },
     {
       "album": {
@@ -27722,6 +27740,24 @@
       "duration_ms": 223333,
       "name": "\u90a3\u5929\u4e0b\u96e8\u4e86",
       "url": "https://open.spotify.com/track/0bWGqfaEeTIvrnKGPJFD18"
+    },
+    {
+      "album": {
+        "name": "\u90a3\u62b9\u67d4\u5149\uff0c\u540d\u70ba\u4f60",
+        "url": "https://open.spotify.com/album/7p77bTvrCRlwEg5yaqDf6l"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186206,
+      "name": "\u90a3\u62b9\u67d4\u5149\uff0c\u540d\u70ba\u4f60",
+      "url": "https://open.spotify.com/track/1Sk8a6wvXN26PfQh9BBScf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best new dance tracks from independent artists & labels\. Featuring Collect 200\. Curated by human Spotify editors.
 
-3,487 songs - 9 day 10 hr 26 min
+3,489 songs - 9 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [buzz](https://open.spotify.com/track/1AH3MVzJ5N6WyPyXirqqti) | [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D), [Crosstalk](https://open.spotify.com/artist/6xS8ncgjhNBXYqKDgOLKBq) | [buzz](https://open.spotify.com/album/70BRZpzEcIsiYl4Em2GaUy) | 2:08 | 2024-05-30 | 2024-06-29 |
 | [Bye Bye](https://open.spotify.com/track/3UbZ74YlmHTApmdZfKKFUL) | [Haiku Hands](https://open.spotify.com/artist/3QX8CTn1znpY0HF3hbnNye), [Ribongia](https://open.spotify.com/artist/57B9WzJrtc9gSW3i2ez5vq) | [Bye Bye](https://open.spotify.com/album/1LGKVL1rBRkzUOO4c39sv5) | 3:28 | 2022-05-31 | 2022-07-28 |
 | [C'est Toi](https://open.spotify.com/track/46slubt4vsyTKfkvS2gENM) | [Remedy](https://open.spotify.com/artist/2abuvPfJ5hg6hcROvt81gM) | [C'est Toi](https://open.spotify.com/album/5dZb2bnOTMw5oRa2DkaCTY) | 4:44 | 2024-08-07 | 2024-10-26 |
+| [C'MON](https://open.spotify.com/track/1UdhMXlrK5xeH7cKEdIvRA) | [Aki Oke](https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv) | [C'MON](https://open.spotify.com/album/28KVyJE1pHcXRmE9jfHRIW) | 3:37 | 2026-04-24 |  |
 | [C\-Quence Of Calamities \- Sedef Adasi Remix](https://open.spotify.com/track/7E7LJpIEOCSvdUdYgKP3Cz) | [BASHKKA](https://open.spotify.com/artist/5ofWf87ImDZQO2KzwdlPSw), [Sedef Adasi](https://open.spotify.com/artist/4jY1cwyuyqQATeSI16ZeYD) | [C\-Quence Of Calamities \(Sedef Adasi Remix\)](https://open.spotify.com/album/6uj8RoEhoAC8xU9B8c8l3r) | 3:55 | 2023-09-20 | 2023-11-16 |
 | [Cafe](https://open.spotify.com/track/7fJ963zqwmtS5JjGUV63vG) | [Lex & Wood](https://open.spotify.com/artist/1WKTI4fQKmcnugvkNc4HVy), [Trallez](https://open.spotify.com/artist/28eQwvrKWHqRACUQ9FQRfZ) | [Cafe](https://open.spotify.com/album/0FFdlYAarUyhLUTrEcq49L) | 3:01 | 2023-04-05 | 2023-04-13 |
 | [Calico](https://open.spotify.com/track/2lJM9fK3zYQRXVXOTauwhZ) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [kanashī](https://open.spotify.com/album/3y6f7n2bRBCXJLCrg3D4jp) | 4:51 | 2021-12-01 | 2022-01-27 |
@@ -1506,7 +1507,7 @@
 | [I Am Ready](https://open.spotify.com/track/4CH9G8YVkKukHd2pDXUOS0) | [Upper90](https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz) | [I Am Ready](https://open.spotify.com/album/6Qgi8fVSP4w4Dhexq7Fes3) | 3:10 | 2024-01-31 | 2024-02-29 |
 | [I can share my love with you](https://open.spotify.com/track/0QAanF5Xa61yfG3ShSJRMl) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I can share my love with you](https://open.spotify.com/album/6FRBIhuZHyt4YF2eFAACiX) | 3:36 | 2023-08-30 | 2024-01-11 |
 | [I Could Be](https://open.spotify.com/track/1ZU7GUU8JcEOVHbzil5peO) | [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [I Could Be](https://open.spotify.com/album/7k5IlcbMDi2Txa1LvsabET) | 3:18 | 2024-02-28 | 2024-03-21 |
-| [I Did You Wrong](https://open.spotify.com/track/2onMysrdB7Hg2q9W7foPOP) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [I Did You Wrong](https://open.spotify.com/album/0uERPZCGVreMb8pIeQiHiX) | 2:52 | 2026-02-27 |  |
+| [I Did You Wrong](https://open.spotify.com/track/2onMysrdB7Hg2q9W7foPOP) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [I Did You Wrong](https://open.spotify.com/album/0uERPZCGVreMb8pIeQiHiX) | 2:52 | 2026-02-27 | 2026-04-25 |
 | [I Didn't Know I Could Fly](https://open.spotify.com/track/2VdFZZtTKxcBWPFct0WxiX) | [Latas](https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb), [Akın Paksoy](https://open.spotify.com/artist/3CeeyVbfjyxwIWmH5us6vZ) | [Past Life](https://open.spotify.com/album/3ChUtFrg7ZdQ1YjhnrOs6M) | 5:20 | 2024-01-31 | 2024-04-11 |
 | [I Don't Wanna Fall In Love](https://open.spotify.com/track/3R0cqnFMP1wKQ7xTgCXJpW) | [Bacavi](https://open.spotify.com/artist/7mRPKukfheKbpoHKRS7kkd) | [I Don't Wanna Fall In Love](https://open.spotify.com/album/0E4YU6XuLZmKwOU5s91oMR) | 3:39 | 2023-07-12 | 2024-01-11 |
 | [I don't want this](https://open.spotify.com/track/1Md8MolYstOXb4gYcTP8sd) | [Delrady](https://open.spotify.com/artist/3xIa8QlZN7Qy7HVEyN1iVP) | [I don't want this](https://open.spotify.com/album/16jBAWLT6PYdctE8zYBweN) | 3:18 | 2024-02-14 | 2024-04-19 |
@@ -1988,6 +1989,7 @@
 | [Midtown Tempo](https://open.spotify.com/track/48m9F6CjF6imvnoBF7bm9I) | [Lot D](https://open.spotify.com/artist/0IjbK9gAGzxVA2Dpf8qPuN) | [Midtown at Midnight](https://open.spotify.com/album/5kc1V3Oh3CwwZUhmDEdPkm) | 4:16 | 2023-03-01 | 2023-03-16 |
 | [Milenar](https://open.spotify.com/track/3oI25DqoWYQbNcoX6C3bb6) | [Keith Holland](https://open.spotify.com/artist/2aiclLmwHVK8c8eyCf0hOX) | [Milenar](https://open.spotify.com/album/3Qj2hb0v8cg5hGWlGYNpWa) | 6:14 | 2023-03-01 | 2023-03-16 |
 | [Militia](https://open.spotify.com/track/0t25f062zkLA8E1tvQ5T5b) | [Frenchhh](https://open.spotify.com/artist/72EkW07jcwXuwO0v4PopTp) | [I Tried](https://open.spotify.com/album/44LNu3Q50V9BX0KZPPx8fH) | 5:36 | 2025-11-19 | 2025-12-04 |
+| [mind be so numb](https://open.spotify.com/track/3ePwGn599lcCF9Hxpfw7Iw) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [mind be so numb](https://open.spotify.com/album/4fiywhfAwezkakYPcsMdAg) | 3:15 | 2026-04-24 |  |
 | [Mind Yield](https://open.spotify.com/track/63gArubCGOSV7KqgUpvcW6) | [Arthur Hnatek](https://open.spotify.com/artist/7iKMlMMzSb9jVQDwygYlOT), [SWIMS](https://open.spotify.com/artist/4L5ksZpedCLS7N9BJpGwf5) | [Mind Yield](https://open.spotify.com/album/5pLbRV1gWYZ1WarVTFreCx) | 5:04 | 2023-03-01 | 2023-03-16 |
 | [Mirage](https://open.spotify.com/track/2XMtuYlrbRPmQJUlR3vrvb) | [Leena Punks](https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt) | [Mirage](https://open.spotify.com/album/6nYgXiDGaYwWRvc16AIRPc) | 3:38 | 2022-11-30 | 2023-01-19 |
 | [Misconception](https://open.spotify.com/track/5JWZBU7IZzJnS21eXnsoc8) | [Felov](https://open.spotify.com/artist/318hJVhtqvvKhVXNdlprfP) | [The Code EP](https://open.spotify.com/album/66hDwBOjibBrwBvnPpNf16) | 4:32 | 2023-10-18 | 2023-11-30 |
@@ -2077,7 +2079,7 @@
 | [Mutually Exclusive](https://open.spotify.com/track/4Z0lNl33lyqGPu1p6HsAun) | [Dan be](https://open.spotify.com/artist/7fLE3YVL4L4KWxAFU0EyGL) | [Mutually Exclusive](https://open.spotify.com/album/0IHHSEBwmKdmSwn2tjRmwR) | 3:07 | 2024-05-15 | 2024-06-28 |
 | [Muzik](https://open.spotify.com/track/6E6WyW3tLlJHwfmKPaHrNo) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Muzik](https://open.spotify.com/album/1RclAlfbZu5BY5ZzYxPw44) | 5:51 | 2022-07-27 | 2022-12-01 |
 | [My Baby](https://open.spotify.com/track/1YVVCFUY0xVQWrJeePs9Ue) | [Matt's Experiment](https://open.spotify.com/artist/36y1S9iFmSVtDXwgAH60NR) | [My Baby](https://open.spotify.com/album/5CatF5zpD8Wka4Haeyc5ZA) | 3:10 | 2025-11-14 | 2025-12-04 |
-| [My Body](https://open.spotify.com/track/6C1JvC3YXcTWTLVoDWzN73) | [AJK](https://open.spotify.com/artist/3DWDq9siRUkW6n9geTbtIm) | [My Body](https://open.spotify.com/album/1JAB2DpqBvLApi30q3pBiL) | 3:12 | 2026-02-06 |  |
+| [My Body](https://open.spotify.com/track/6C1JvC3YXcTWTLVoDWzN73) | [AJK](https://open.spotify.com/artist/3DWDq9siRUkW6n9geTbtIm) | [My Body](https://open.spotify.com/album/1JAB2DpqBvLApi30q3pBiL) | 3:12 | 2026-02-06 | 2026-04-25 |
 | [My Boo](https://open.spotify.com/track/1llKYUFf4CczYmVDoeFgH4) | [Ally Ahern](https://open.spotify.com/artist/4RSgbf1zgR2X2APEbTqxbM), [HOMI](https://open.spotify.com/artist/13AXwHXLSIs8kNOeV5NYAV) | [My Boo](https://open.spotify.com/album/59TfIFLi0rbLtsuSGodoOb) | 2:31 | 2023-09-13 | 2023-11-09 |
 | [My Boy](https://open.spotify.com/track/0C4JT56Bm7h68QHhVbQYXd) | [Lumia](https://open.spotify.com/artist/7nxfxSbNTXNc0v5TG4ObSh) | [My Boy](https://open.spotify.com/album/0kdprwSWXvjSXLXZP8rGym) | 3:13 | 2025-05-02 | 2025-06-14 |
 | [My Everything](https://open.spotify.com/track/4LMlPnnfUXxmRTuj8tPBN7) | [Das Pharaoh](https://open.spotify.com/artist/4BVdLTy33D4KtSxNUu6bUW) | [My Everything](https://open.spotify.com/album/632rCZmbM4IcuMZvTf2ohC) | 2:52 | 2022-10-24 | 2023-01-12 |

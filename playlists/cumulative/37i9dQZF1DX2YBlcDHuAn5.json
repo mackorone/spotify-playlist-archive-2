@@ -4056,7 +4056,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 186680,
       "name": "She Needs Lovin' Too",
       "url": "https://open.spotify.com/track/6QKflgRUcBe5zTleMM4T5z"
@@ -5216,6 +5216,24 @@
       "duration_ms": 293215,
       "name": "Wealthiest Man",
       "url": "https://open.spotify.com/track/0m5RI0qThyYnZ3QX9WQk2O"
+    },
+    {
+      "album": {
+        "name": "OUTCAST TOWN",
+        "url": "https://open.spotify.com/album/2vbUakBweYESNGM676tA5l"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169637,
+      "name": "Welcome To Outcast Town",
+      "url": "https://open.spotify.com/track/3BKM92m9Wr4i2VehhBgFkQ"
     },
     {
       "album": {

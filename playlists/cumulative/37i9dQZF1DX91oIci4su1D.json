@@ -3521,6 +3521,28 @@
     },
     {
       "album": {
+        "name": "Bullet In The Gun",
+        "url": "https://open.spotify.com/album/1WqYGLcVq84pevylmgVRAP"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Sneijder",
+          "url": "https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Bullet In The Gun",
+      "url": "https://open.spotify.com/track/79Bo5d7iwaj8eYPn52A6Ni"
+    },
+    {
+      "album": {
         "name": "Silversun",
         "url": "https://open.spotify.com/album/4EAemIQHlJl7ZwCndwy8ro"
       },
@@ -5488,7 +5510,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 203928,
       "name": "Deep Shadow",
       "url": "https://open.spotify.com/track/2eNLBMdI2bfkRxB8Lb5l9f"

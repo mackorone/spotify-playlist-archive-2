@@ -4,7 +4,7 @@
 
 > Nieuw: YGN KAMII, Wittie, Burkeys en meer..
 
-544 songs - 23 hr 35 min
+545 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,6 +424,7 @@
 | [Schemerig](https://open.spotify.com/track/4FUfkxS6Eh3ijw43tdiaUo) | [Homey](https://open.spotify.com/artist/0rUZZcbB1j3FJFvBvQ86UG), [Blanke Roy](https://open.spotify.com/artist/2snnqKGi87l4WBaPDp9pFP) | [Schemerig](https://open.spotify.com/album/2VAQChaeaTjVqryIpeyd4w) | 2:00 | 2025-11-20 | 2025-12-12 |
 | [Schijnen](https://open.spotify.com/track/5Uxa56NvaCySto8S3hpqru) | [TJ](https://open.spotify.com/artist/2keg5CqgRIEtw0VUYU7TLu) | [Schijnen](https://open.spotify.com/album/0StJHQsxXTaOA7oOlEAd2f) | 2:51 | 2026-01-29 | 2026-03-13 |
 | [SD Kaart](https://open.spotify.com/track/3TcRryQZXHTrBXtA1ffgMk) | [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF), [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl), [Fredobeats](https://open.spotify.com/artist/11mF7q71d6HxKR4uZR4DWX) | [SD Kaart](https://open.spotify.com/album/4t1CBylzLDMvg5Bpa6YZ57) | 2:51 | 2025-12-04 | 2026-01-16 |
+| [Serieus](https://open.spotify.com/track/2zPAZIAMNxJ8rs2BLQXATF) | [Machario](https://open.spotify.com/artist/3D3G9qcu6f9pBQMWa9YGXj) | [Serieus](https://open.spotify.com/album/0MZexFR1KFsdo5Kz3yk8zV) | 2:18 | 2026-04-24 |  |
 | [SERIEUZE MENSEN](https://open.spotify.com/track/7yVSKvuDKcC15eU8eKcpvy) | [Zwangere Guy](https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0), [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [SERIEUZE MENSEN](https://open.spotify.com/album/30F1ewuPXFILtPPvB7BQzv) | 3:00 | 2026-02-12 | 2026-03-27 |
 | [Señorita](https://open.spotify.com/track/0Yh80YBezb3QnIk9p8nSbI) | [Parsa](https://open.spotify.com/artist/7zq4HhXQ1Tp9LRE7MtEN9m), [Stackz](https://open.spotify.com/artist/7JaoaPra85ySxiAoKeAUQS), [73 De Pijp](https://open.spotify.com/artist/12iyh851ZpgQQ0iPIKefFJ) | [Señorita](https://open.spotify.com/album/4njkTuKqJoQP01QKqTwkCk) | 1:55 | 2025-11-06 | 2025-12-12 |
 | [Sfeerimpressie](https://open.spotify.com/track/5ABzhtEe5v62chsaeX2cAC) | [Vurr Flashy](https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh) | [Sfeerimpressie](https://open.spotify.com/album/12L45quyUG0gfNK2LWXZ96) | 1:46 | 2025-11-27 | 2026-01-15 |

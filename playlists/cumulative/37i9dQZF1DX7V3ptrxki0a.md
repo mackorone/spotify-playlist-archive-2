@@ -2,12 +2,13 @@
 
 ### [Cumbia Norteña](https://open.spotify.com/playlist/37i9dQZF1DX7V3ptrxki0a)
 
-> Agarren su pareja que es momento de mover ese botecito\. En portada Emmanuel Cortes 🤠
+> Agarren su pareja que es momento de mover ese botecito\. En portada Los Morales, De Parranda 🤠
 
-161 songs - 8 hr 42 min
+166 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [11:11](https://open.spotify.com/track/76habhthICzyHAigjvZmxm) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM), [Mariana Millan](https://open.spotify.com/artist/3Ow6OTEKHqwNT0FwzgBlxf) | [11:11](https://open.spotify.com/album/4bVgWPQapsIgTVUjsupTCS) | 2:37 | 2026-04-24 |  |
 | [24/7](https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [24/7](https://open.spotify.com/album/352LrVMlDficyblK9e7Olr) | 3:30 | 2023-08-08 |  |
 | [A Dios Le Pedía](https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Amor x Dosis](https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny) | 3:18 | 2025-12-05 |  |
 | [A Mí, ¿Qué Me Quedó?](https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Vuelvo Contigo](https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU) | 2:41 | 2023-08-08 | 2025-08-09 |
@@ -24,6 +25,7 @@
 | [Así Como Va](https://open.spotify.com/track/3nuXyH8zrXshAPaIouIl0n) | [Los Igualados](https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB) | [Así Como Va](https://open.spotify.com/album/38yHTCOtYbiwpD91o9WZyo) | 3:25 | 2025-08-09 | 2025-09-06 |
 | [AYAYAY](https://open.spotify.com/track/4Pmqo5APBJJ98jVsYYJoQc) | [Juan Moya Y Los Del Valle](https://open.spotify.com/artist/6FmKCCqWSQAhxF0bkObz4b) | [AYAYAY](https://open.spotify.com/album/537OQuxoXPxsUal2NN86gf) | 2:31 | 2025-10-03 |  |
 | [Ayer y Hoy](https://open.spotify.com/track/0yMpP1fa9iOQ4bAgttJ6aN) | [Los Morales](https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h) | [Ayer y Hoy](https://open.spotify.com/album/1MxM4Uv2xdemsA3O5ijBNZ) | 3:44 | 2025-10-03 |  |
+| [Baila Esta Cumbia](https://open.spotify.com/track/0ErfnegLWcgfEu4TOmfql5) | [Los Morales](https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h), [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [Baila Esta Cumbia](https://open.spotify.com/album/0eiePNpGjmjHtzofaiOzqp) | 3:32 | 2026-04-24 |  |
 | [Bailar Contigo](https://open.spotify.com/track/7p0yajnYNRP60vDZg2DVrx) | [Grupo Anexxado](https://open.spotify.com/artist/5U4SQ3MLlKmphCGAcD1Ls9) | [Bailar Contigo](https://open.spotify.com/album/0b6aCzMHaYTksC2KuumvyB) | 3:09 | 2025-11-07 |  |
 | [BB PA DONDE](https://open.spotify.com/track/65pDDQOeXOR5QUM9GEWaNM) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [BB PA DONDE](https://open.spotify.com/album/6Bwj69yLgbNqzDJgIhKBNR) | 2:48 | 2025-11-07 |  |
 | [Bebe Dame](https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Bebe Dame](https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC) | 4:31 | 2023-08-08 |  |
@@ -69,11 +71,13 @@
 | [El Telegrama \- En Vivo](https://open.spotify.com/track/3xg5EScCiYfA5OqbTqbNA5) | [Elias Medina](https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ), [Kevyn Contreras](https://open.spotify.com/artist/49eTheTHZO9PnCbv7EuAsg) | [Cumbias y Bebidas \(En Vivo\)](https://open.spotify.com/album/3KwBIKAKzJ3XM2mHH6snYi) | 2:58 | 2025-10-03 |  |
 | [El Tucanazo](https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro ..\. Secuestro De Amor](https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ) | 2:54 | 2023-08-08 | 2025-08-09 |
 | [El Vaquero](https://open.spotify.com/track/7HEISozQwYYU9JGUnQuxA7) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Comenzando Nuestra Historia](https://open.spotify.com/album/7jUtCXSnAuhsFreydops6E) | 2:33 | 2023-08-08 | 2024-12-21 |
+| [Ella Es Así](https://open.spotify.com/track/3ywCoT4HLGPfS6jwWPeuIH) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW) | [Ella Es Así](https://open.spotify.com/album/2nvB3qeZNYJQ4PjFdkjPHa) | 2:48 | 2026-04-24 |  |
 | [En Mi Defensa](https://open.spotify.com/track/73Ssnz5NOJwYpKw2OWXv7p) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [En Mi Defensa](https://open.spotify.com/album/2oS87aZVLDkJOResbJgX9W) | 3:06 | 2024-05-24 | 2024-12-21 |
 | [Enamorado](https://open.spotify.com/track/6OormEp5Hd5Q1OV8d6PhRO) | [Grupo Hesed](https://open.spotify.com/artist/5AqVKdIUY9LUfSAE9sV5DA) | [Reavivando el Alma](https://open.spotify.com/album/5OohqEV04vTFlyF1dXFMwc) | 3:09 | 2026-01-16 |  |
 | [Eras Tu](https://open.spotify.com/track/4e0VWtGHbwVRC33HL35pRD) | [Predilecto](https://open.spotify.com/artist/28Mr2I45NyUzzMI2SRs3OR) | [Eras Tu](https://open.spotify.com/album/7r8FGGeBs2UtyDkdfUkN9n) | 3:37 | 2023-11-08 | 2025-08-09 |
 | [Favorito](https://open.spotify.com/track/2GHzZiYAqqlf2g03xwIVCh) | [Juan Moya Y Los Del Valle](https://open.spotify.com/artist/6FmKCCqWSQAhxF0bkObz4b), [Los Morales](https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h) | [Favorito](https://open.spotify.com/album/3QngNw0mfOENS1UGFQ1M4S) | 3:14 | 2025-09-05 | 2025-10-25 |
 | [Fina y Prohibida](https://open.spotify.com/track/2KzdH5DV0zgU8uzNG35eF2) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Fina y Prohibida](https://open.spotify.com/album/3BzSyR2JCd7Pi1PljEsFbY) | 2:49 | 2026-01-16 |  |
+| [Gringo Star](https://open.spotify.com/track/0WuNbiCRAtrjHyVn6kzNyi) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Gringo Star](https://open.spotify.com/album/5y0Z4NlZX3DSYqWqrLKD1z) | 3:36 | 2026-04-24 |  |
 | [HASTA EL PERRO VENDI](https://open.spotify.com/track/3LOSA5tWz8aas0XCS2e4Hq) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew) | [HASTA EL PERRO VENDI](https://open.spotify.com/album/2PXRkDT9gg3n2j4bdutLbv) | 3:06 | 2025-08-09 | 2025-10-25 |
 | [Historias de Amor](https://open.spotify.com/track/3dCC1fMIkmCH6Gnnv8pXGT) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Historias de Amor](https://open.spotify.com/album/6JRyu67LNMlSqQecsDiRuA) | 2:55 | 2026-03-13 |  |
 | [Ilesa](https://open.spotify.com/track/3kiUuHVGQznTwWeU3UfBBP) | [Angelina Victoria](https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL), [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Ilesa](https://open.spotify.com/album/6CJqZByDZgyJ4tjevMEH79) | 3:37 | 2025-09-05 | 2026-03-07 |
@@ -164,6 +168,7 @@
 | [Un Cariño Como Tú](https://open.spotify.com/track/20WRrWYgSULYXFtxBcazwU) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño, Vol\. 2](https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R) | 2:47 | 2023-08-08 | 2025-09-06 |
 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-08-08 |  |
 | [Ven Devórame Otra Vez](https://open.spotify.com/track/066iNypqZhINl4lpU2IB9N) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Luis Vega](https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t) | [Ven Devórame Otra Vez](https://open.spotify.com/album/5y6lhEZyYubcIk1BVGWzxQ) | 3:19 | 2025-10-24 |  |
+| [Véte Ya](https://open.spotify.com/track/7ogfZvnAn2GQ7VC2bqAyNr) | [Grupo Rojas De Eronga](https://open.spotify.com/artist/4gnFSv0GrGhjGHK9V4oUb2) | [Véte Ya](https://open.spotify.com/album/14Qfju5dsnOXEAVGHa3USU) | 2:41 | 2026-04-24 |  |
 | [X Si Te Arrepientes](https://open.spotify.com/track/6aTDWnPjCCojP5oCROTxih) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [X Si Te Arrepientes](https://open.spotify.com/album/7tcP5BIcuTx4UnHaz37fqW) | 2:46 | 2025-09-05 | 2025-10-25 |
 | [Y LLORO](https://open.spotify.com/track/07NMEt47qjfkrwuhCEDm5y) | [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH) | [Y LLORO](https://open.spotify.com/album/1btKxBWCe69hThXBtbJeVe) | 2:46 | 2025-12-05 |  |
 | [Ya Me Entere \- En Vivo](https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya Me Entere \(En Vivo\)](https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe) | 3:42 | 2023-08-08 | 2024-11-29 |

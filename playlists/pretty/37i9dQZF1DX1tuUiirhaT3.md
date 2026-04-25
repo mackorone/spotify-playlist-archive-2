@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 
 > Calm ambient music with gentle nature sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,235 likes - 198 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,264 likes - 198 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 | 197 | [Samsara](https://open.spotify.com/track/7zgg2eBf8KKNIRvU53BZwG) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Samsara](https://open.spotify.com/album/5dx5QepH4tjh7ZVvQGmOPY) | 2:46 |
 | 198 | [Sphagnum](https://open.spotify.com/track/5reTnUgC5FTOA8EsV7nfrE) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Sphagnum](https://open.spotify.com/album/5dV6q8LIdcS2D1MCdYqGOk) | 2:00 |
 
-Snapshot ID: `AAAAACeGpObgDaGrxamSnoAEtEzgQDzM`
+Snapshot ID: `AAAAAHbZ3mdya4P7Pl+5UcDlG0bAb2dK`

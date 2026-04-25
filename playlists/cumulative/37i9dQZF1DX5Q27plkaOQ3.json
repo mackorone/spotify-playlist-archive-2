@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 featuring Getter",
+  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 featuring GHENGAR",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -68,6 +68,24 @@
       "duration_ms": 214468,
       "name": "100 Dolla Bill",
       "url": "https://open.spotify.com/track/55zFoHpJgzSuoJcXdMdc5q"
+    },
+    {
+      "album": {
+        "name": "1234",
+        "url": "https://open.spotify.com/album/5ThSyNsXiVHyF06Zd4mZuq"
+      },
+      "artists": [
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151267,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/3Q4c260OtcneST0kSXoLnE"
     },
     {
       "album": {
@@ -244,6 +262,24 @@
       "duration_ms": 158896,
       "name": "776",
       "url": "https://open.spotify.com/track/6REKxS2cHlZxLgdGcxtwCv"
+    },
+    {
+      "album": {
+        "name": "999soundsystem",
+        "url": "https://open.spotify.com/album/45rkJHr1HWOLzbFpi1Mwg4"
+      },
+      "artists": [
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173017,
+      "name": "999soundsystem",
+      "url": "https://open.spotify.com/track/6mv33AvhAJWcz3O8XzQ2rc"
     },
     {
       "album": {
@@ -1304,7 +1340,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 217714,
       "name": "Around The World (La La La)",
       "url": "https://open.spotify.com/track/1Ob2xtKYCrDW8DAdW31BDV"
@@ -1610,6 +1646,28 @@
       "duration_ms": 260689,
       "name": "Aura Farming",
       "url": "https://open.spotify.com/track/54iy8ooDbrHeuSOeYL0pkC"
+    },
+    {
+      "album": {
+        "name": "AUTOPSY BUFFET",
+        "url": "https://open.spotify.com/album/5fXmvaPbkQbfM1o8YxSC9P"
+      },
+      "artists": [
+        {
+          "name": "GHENGAR",
+          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+        },
+        {
+          "name": "Chassi",
+          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "AUTOPSY BUFFET",
+      "url": "https://open.spotify.com/track/2UI0f5V7VjkNZ9XyyZzI8Q"
     },
     {
       "album": {
@@ -7837,6 +7895,24 @@
     },
     {
       "album": {
+        "name": "Don't Walk Away",
+        "url": "https://open.spotify.com/album/6MxoofHZxzktjg3vzEmxhD"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Don't Walk Away",
+      "url": "https://open.spotify.com/track/44ETtUSY98l9lXHWAZK5Pu"
+    },
+    {
+      "album": {
         "name": "Don't You Dare Go Hollow",
         "url": "https://open.spotify.com/album/1Hhc7Xf30VgmsLaRuyMGWY"
       },
@@ -8762,7 +8838,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 197553,
       "name": "Emergence",
       "url": "https://open.spotify.com/track/7Exc7kEDEsoLnvPK2oPwxv"
@@ -11104,7 +11180,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 266400,
       "name": "GATEKEEPER",
       "url": "https://open.spotify.com/track/0Kltu5cCMc2r82fnkeK49g"
@@ -18366,7 +18442,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 211862,
       "name": "Off The Rails",
       "url": "https://open.spotify.com/track/2icD4QMoYhHKXQ21rGQzja"
@@ -18734,7 +18810,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 171428,
       "name": "ONMYFEET",
       "url": "https://open.spotify.com/track/0mblCFqnjRMwcTABERlOJK"
@@ -19074,6 +19150,28 @@
       "duration_ms": 159312,
       "name": "OUT OF MY MIND",
       "url": "https://open.spotify.com/track/02WrEVgGPPptwP5ZMCoPxJ"
+    },
+    {
+      "album": {
+        "name": "OUTLAWS",
+        "url": "https://open.spotify.com/album/53fIbXdXKApOE09vw2rEvN"
+      },
+      "artists": [
+        {
+          "name": "Emorfik",
+          "url": "https://open.spotify.com/artist/34bGTqa9HJUnf14IOHt6pc"
+        },
+        {
+          "name": "Usaybflow",
+          "url": "https://open.spotify.com/artist/4lZyQiNEwbXNpy5WBG8P9i"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "OUTLAWS",
+      "url": "https://open.spotify.com/track/3DMyyEVcRhKd4lC5XdB653"
     },
     {
       "album": {
@@ -21083,6 +21181,24 @@
     },
     {
       "album": {
+        "name": "rebelagenda",
+        "url": "https://open.spotify.com/album/0fetfkp9rUp797pTToS2Zh"
+      },
+      "artists": [
+        {
+          "name": "VRG",
+          "url": "https://open.spotify.com/artist/56hXYTbEGYdTwI2zjMMcVh"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147310,
+      "name": "renegade",
+      "url": "https://open.spotify.com/track/5Nm3JoMm3qxqG6xI27Qpn3"
+    },
+    {
+      "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/2We2z1nLbTSsgJP33xBu61"
       },
@@ -21774,7 +21890,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 154285,
       "name": "Riviera",
       "url": "https://open.spotify.com/track/1f2JxBpYnQD2LRTnuLaTlk"
@@ -22116,6 +22232,28 @@
       "duration_ms": 185545,
       "name": "RUN UP",
       "url": "https://open.spotify.com/track/6BBPheMDpYvpwuxlNhZCTZ"
+    },
+    {
+      "album": {
+        "name": "RUN YOUR MOUTH",
+        "url": "https://open.spotify.com/album/1k7T0C8JPKxD2ytCllOabq"
+      },
+      "artists": [
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        },
+        {
+          "name": "FuntCase",
+          "url": "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174239,
+      "name": "RUN YOUR MOUTH",
+      "url": "https://open.spotify.com/track/3DO3VhqT9Eney6lFIwMAGl"
     },
     {
       "album": {
@@ -24970,7 +25108,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 198857,
       "name": "Sukuna",
       "url": "https://open.spotify.com/track/5fmfWJDVUGboiWyRpp4xJS"

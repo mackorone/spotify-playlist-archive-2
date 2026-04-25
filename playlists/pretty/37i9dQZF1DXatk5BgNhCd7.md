@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo de música tropical 📸 Thalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,497 likes - 78 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,664 likes - 78 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 16 | [Amor Bonito](https://open.spotify.com/track/30ZakrQPwfjyrkiJfxGey9) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Amor Bonito](https://open.spotify.com/album/7kO8HRIfBbDX8gptoYC0yB) | 2:44 |
 | 17 | [MALA](https://open.spotify.com/track/5zmOqNbUyYFRKzmwFauNgj) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw), [Cacho Deicas](https://open.spotify.com/artist/0rekO119G0yO5gjzM4nxZ2) | [MALA](https://open.spotify.com/album/1ntZkQLCuUz5G5wlUPO8ar) | 3:17 |
 | 18 | [El Último Minuto](https://open.spotify.com/track/4ZcEXJttYmZQloj11vYB7U) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Último Minuto](https://open.spotify.com/album/4lx4yigcoGuTxFWptr1aps) | 3:31 |
-| 19 | [Sarandí del Yí](https://open.spotify.com/track/5GZhZ7VKleZwyagqD9b5z8) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Sarandí del Yí](https://open.spotify.com/album/3c8y67I0oDAHH1M7jJ8XIR) | 3:05 |
+| 19 | [Sarandí del Yí](https://open.spotify.com/track/5GZhZ7VKleZwyagqD9b5z8) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Sarandí del Yí](https://open.spotify.com/album/3c8y67I0oDAHH1M7jJ8XIR) | 2:35 |
 | 20 | [Salomé](https://open.spotify.com/track/5VDSXFzEaP6kdzg1vqhjjJ) | [Juan Carlos Coronel](https://open.spotify.com/artist/7BM4VM2987j5qgnTkFjYMr), [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Salomé](https://open.spotify.com/album/5n7cEGqQx8XyiDZowkKIwg) | 2:50 |
 | 21 | [Dime Que Sí](https://open.spotify.com/track/5tNYJJWyc59A6EfbjMqFB8) | [Agua Nueva Tropical](https://open.spotify.com/artist/4w2heURXM86ldioLNwGDzF), [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Dime Que Sí](https://open.spotify.com/album/6jczdFjkXet5tikiAUDRMC) | 3:42 |
 | 22 | [Hazme Sentir \- Salsa](https://open.spotify.com/track/5QGvEC6pbc021JTjJHZNDn) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9), [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Hazme Sentir \(Salsa\)](https://open.spotify.com/album/7incjq6O6cKVgOEYHgmYcc) | 3:14 |

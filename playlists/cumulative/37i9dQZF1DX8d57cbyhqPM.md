@@ -4,7 +4,7 @@
 
 > Du Congo, au monde 🌍 avec Tontons Fally Ipupa et Wizkid.
 
-745 songs - 1 day 17 hr 45 min
+746 songs - 1 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,7 @@
 | [Freestyle LVL UP 3](https://open.spotify.com/track/5WAqZjhyquaFf8zBZ1Stfd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Freestyle LVL UP 3](https://open.spotify.com/album/2g47iUsGXrIMZTGqMgGFyE) | 3:20 | 2023-05-26 | 2023-06-10 |
 | [Furah](https://open.spotify.com/track/5ddDDkPFaCkbl9WBBlFeI4) | [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt) | [Furah](https://open.spotify.com/album/5rD89G23WIlfKzGbGXiJJx) | 3:44 | 2023-01-06 | 2023-04-09 |
 | [Futa Nfuka](https://open.spotify.com/track/7IWRqJJIdSR9uUkEoZD6Ge) | [Les Mamans du Congo](https://open.spotify.com/artist/7i6SYXEQQzBMOlb4M9hE1I), [RROBIN](https://open.spotify.com/artist/2xPaqV5LOTeUjSsMGaLVmY) | [Ya Mizolé](https://open.spotify.com/album/3gqaVBqC2sX4ENOv7y6gNg) | 3:30 | 2023-10-13 | 2023-11-18 |
-| [Galère sur galère](https://open.spotify.com/track/56mPwjp8KFY0fFJyaRbKoQ) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Galère sur galère](https://open.spotify.com/album/2ylHFD2ZHWVh3Cn0O7Em4q) | 2:36 | 2026-01-30 |  |
+| [Galère sur galère](https://open.spotify.com/track/56mPwjp8KFY0fFJyaRbKoQ) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Galère sur galère](https://open.spotify.com/album/2ylHFD2ZHWVh3Cn0O7Em4q) | 2:36 | 2026-01-30 | 2026-04-25 |
 | [Garde du coeur \(feat\. Charlotte Dipanda\)](https://open.spotify.com/track/5gpFpZOZ67HfKpwjZeQMkf) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Charlotte Dipanda](https://open.spotify.com/artist/3qt4OYC2CeOuVjKtzGMobL) | [Garde du coeur \(feat\. Charlotte Dipanda\)](https://open.spotify.com/album/0qLNkh0AwO8ospd87D4jxe) | 7:40 | 2022-12-02 | 2022-12-17 |
 | [Garde Ta Position](https://open.spotify.com/track/5WtWjJKaFlAJDCu1IzFAjM) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Garde Ta Position](https://open.spotify.com/album/3GJvUv0vAMbQV3tomgt7h8) | 2:13 | 2023-12-15 | 2024-08-24 |
 | [Gatement](https://open.spotify.com/track/1InT6EHwIXRPIVPTi74c2A) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Mixtape Ouenzé](https://open.spotify.com/album/6IrtQvKelurPOX14jel04E) | 1:56 | 2024-12-13 | 2025-01-14 |
@@ -343,6 +343,7 @@
 | [KISAKATA](https://open.spotify.com/track/78Y53jzYNJ8nMU4dVCuapZ) | [Jay Six Abdalah](https://open.spotify.com/artist/0g2qxTx5DMeWH3jQmMtq78), [Fabregas le Métis Noir](https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X) | [KISAKATA](https://open.spotify.com/album/4Pl8DaJ63mB0SPUerb3AGd) | 3:55 | 2024-07-05 | 2024-12-21 |
 | [Kita](https://open.spotify.com/track/0I4zmOt8SOMvMcJCB4YaIO) | [Djako](https://open.spotify.com/artist/6hJcwkxbYVPFDRZYFDuJv9), [Dé Panama](https://open.spotify.com/artist/3tv6rEIw6RVujaQZD6W6ca), [Gettss](https://open.spotify.com/artist/4bkTZCzXEVVHQ1cLmaYd1e) | [Kita](https://open.spotify.com/album/1KxMpI9xFDsrzQ3AXq9Mge) | 3:36 | 2022-08-05 | 2023-03-18 |
 | [Kitisa Motema](https://open.spotify.com/track/1S79olu5FLVCOnbqiw1Let) | [Leplug Music](https://open.spotify.com/artist/1Oo6qac3YXE9nfQHDdehDr), [Kojak](https://open.spotify.com/artist/6F1JWIDx9qYt5NGAQIF1B4) | [Kitisa Motema](https://open.spotify.com/album/4k6xtEfGRAH9y86l0nBj4u) | 4:11 | 2024-12-30 | 2025-04-12 |
+| [kitoko](https://open.spotify.com/track/5gdS2ldmHCdOhzVoKPUQyX) | [Ntaba 2 London](https://open.spotify.com/artist/0J1OPojYoKeyRGscpWrwPy) | [kitoko](https://open.spotify.com/album/3dsk4tNyxkMwvmyjNuGdWz) | 2:06 | 2026-04-24 |  |
 | [Kom Maar](https://open.spotify.com/track/6YJ5GZQCGmNPbuSPqbKhOv) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Kom Maar](https://open.spotify.com/album/1aXrFMas052VPlol6nsLRo) | 2:53 | 2025-09-19 | 2025-11-22 |
 | [KONGOLESE SOUS BBL](https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Jeez Suave](https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P) | [KONGOLESE SOUS BBL](https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p) | 2:44 | 2024-11-22 | 2025-04-26 |
 | [Koni Moko Etokisaka Nzungu Te](https://open.spotify.com/track/77HDy7Ns5VsRYttIbaTmtY) | [makita](https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT) | [Koni Moko Etokisaka Nzungu Te](https://open.spotify.com/album/2Jis4aVlVx87Xc6Lmd3G1U) | 2:27 | 2022-07-15 | 2023-03-25 |

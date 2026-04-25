@@ -1,12 +1,12 @@
 {
   "description": "Sounds of birds, rain, and forest ambience.",
-  "num_followers": 1362754,
+  "num_followers": 1362981,
   "original_name": "Nature Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOdGi8pk2ZZFOqLxQemHEoDhTx6j",
+  "snapshot_id": "AAAAALaoZCuL4UY0y4Xp/FlpsP5MlkdT",
   "tracks": [
     {
       "added_at": "2026-04-02 09:44:52",
@@ -45,6 +45,50 @@
       "url": "https://open.spotify.com/track/7BOmtKLiQX5yqk2Qji1X03"
     },
     {
+      "added_at": "2026-04-24 10:39:13",
+      "album": {
+        "name": "Gualib\u00e1 Rain EP",
+        "url": "https://open.spotify.com/album/76SGj5P3cVSVSX2RKrFuS8"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Daniel Roa",
+          "url": "https://open.spotify.com/artist/3dPJfVYIqsjDsBRA5z8vKF"
+        },
+        {
+          "name": "Vozterra",
+          "url": "https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9"
+        }
+      ],
+      "duration_ms": 129109,
+      "name": "Rain and Distant Thunder on the Patio",
+      "url": "https://open.spotify.com/track/1zJvXXJpGmf9IPNvvObpk2"
+    },
+    {
+      "added_at": "2026-04-02 09:44:52",
+      "album": {
+        "name": "Feathers in the Forest",
+        "url": "https://open.spotify.com/album/7IWRzEGaJRUpRJLFNhnHYb"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "The Listening Planet",
+          "url": "https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y"
+        }
+      ],
+      "duration_ms": 189741,
+      "name": "Northern UK Forest Birds",
+      "url": "https://open.spotify.com/track/00MSSYGZ5IjVBy4JcK3ZYk"
+    },
+    {
       "added_at": "2026-04-02 09:44:52",
       "album": {
         "name": "Natural Forest Quiet",
@@ -59,6 +103,42 @@
       "duration_ms": 148400,
       "name": "Natural Forest Quiet",
       "url": "https://open.spotify.com/track/7pY9vYk2s9VTggqqPQ9kI2"
+    },
+    {
+      "added_at": "2026-04-02 09:44:52",
+      "album": {
+        "name": "Night Forest",
+        "url": "https://open.spotify.com/album/4XrhapfKtOHM8vM9oRAkCi"
+      },
+      "artists": [
+        {
+          "name": "Nature's Essence",
+          "url": "https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j"
+        }
+      ],
+      "duration_ms": 194410,
+      "name": "Night Forest",
+      "url": "https://open.spotify.com/track/3OrDEsaqIYNaXMjtoNTmGn"
+    },
+    {
+      "added_at": "2026-04-24 10:39:13",
+      "album": {
+        "name": "El P\u00e1ramo, Permission to Record",
+        "url": "https://open.spotify.com/album/4G9YRlrYBWe2qDnRA0eHPI"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Diana Restrepo",
+          "url": "https://open.spotify.com/artist/4gCfyTvrRVrIWzFO3LOd3O"
+        }
+      ],
+      "duration_ms": 240028,
+      "name": "The Hour Before Light",
+      "url": "https://open.spotify.com/track/0bNLQqoyBsdb1IrM1cKENf"
     },
     {
       "added_at": "2026-04-02 09:44:52",
@@ -79,24 +159,8 @@
     {
       "added_at": "2026-04-02 09:44:52",
       "album": {
-        "name": "The Millpond XI",
-        "url": "https://open.spotify.com/album/26YJnlSqCFh2jdkCql4hMh"
-      },
-      "artists": [
-        {
-          "name": "Elberry",
-          "url": "https://open.spotify.com/artist/3HcvBTK8MOcYl9cVEg45vP"
-        }
-      ],
-      "duration_ms": 125610,
-      "name": "The Millpond XI",
-      "url": "https://open.spotify.com/track/3eeuBEStklq9Kjf7Bknx8K"
-    },
-    {
-      "added_at": "2026-04-02 09:44:52",
-      "album": {
-        "name": "Night Forest",
-        "url": "https://open.spotify.com/album/4XrhapfKtOHM8vM9oRAkCi"
+        "name": "Riverlight Through Leaves",
+        "url": "https://open.spotify.com/album/4eO9Q2g6EAwyvvkN4JtqQV"
       },
       "artists": [
         {
@@ -104,9 +168,33 @@
           "url": "https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j"
         }
       ],
-      "duration_ms": 194410,
-      "name": "Night Forest",
-      "url": "https://open.spotify.com/track/3OrDEsaqIYNaXMjtoNTmGn"
+      "duration_ms": 181132,
+      "name": "Riverlight Through Leaves",
+      "url": "https://open.spotify.com/track/08WqDRfDIHCroRHoYuAP66"
+    },
+    {
+      "added_at": "2026-04-24 10:39:13",
+      "album": {
+        "name": "Bogot\u00e1 River Nature Sounds",
+        "url": "https://open.spotify.com/album/65CQAJthuqeHB5UM9wyNS4"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Conector",
+          "url": "https://open.spotify.com/artist/07911i0JpJbxQyDEHDgkbT"
+        },
+        {
+          "name": "Vozterra",
+          "url": "https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9"
+        }
+      ],
+      "duration_ms": 168687,
+      "name": "Hidden Waterfall in Guacheneque P\u00e1ramo",
+      "url": "https://open.spotify.com/track/62hFUov4NAnmhC93T0qJUh"
     },
     {
       "added_at": "2026-04-02 09:44:52",
@@ -127,18 +215,74 @@
     {
       "added_at": "2026-04-02 09:44:52",
       "album": {
-        "name": "Riverlight Through Leaves",
-        "url": "https://open.spotify.com/album/4eO9Q2g6EAwyvvkN4JtqQV"
+        "name": "Feathers in the Forest",
+        "url": "https://open.spotify.com/album/7IWRzEGaJRUpRJLFNhnHYb"
       },
       "artists": [
         {
-          "name": "Nature's Essence",
-          "url": "https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j"
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "The Listening Planet",
+          "url": "https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y"
         }
       ],
-      "duration_ms": 181132,
-      "name": "Riverlight Through Leaves",
-      "url": "https://open.spotify.com/track/08WqDRfDIHCroRHoYuAP66"
+      "duration_ms": 185612,
+      "name": "Birds of Papua New Guinea",
+      "url": "https://open.spotify.com/track/5KnvxIUwYmSCGu4yD6Dvb6"
+    },
+    {
+      "added_at": "2026-04-02 09:44:52",
+      "album": {
+        "name": "The Millpond XI",
+        "url": "https://open.spotify.com/album/26YJnlSqCFh2jdkCql4hMh"
+      },
+      "artists": [
+        {
+          "name": "Elberry",
+          "url": "https://open.spotify.com/artist/3HcvBTK8MOcYl9cVEg45vP"
+        }
+      ],
+      "duration_ms": 125610,
+      "name": "The Millpond XI",
+      "url": "https://open.spotify.com/track/3eeuBEStklq9Kjf7Bknx8K"
+    },
+    {
+      "added_at": "2026-04-02 09:44:52",
+      "album": {
+        "name": "Forest Bird Songs - Colombia",
+        "url": "https://open.spotify.com/album/1iZoxPY2SJxO1gdNuGySqZ"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Vozterra",
+          "url": "https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9"
+        }
+      ],
+      "duration_ms": 190463,
+      "name": "Bird Sounds in Mano de Oso",
+      "url": "https://open.spotify.com/track/7jYQP8aw46X9mgjdj9znGy"
+    },
+    {
+      "added_at": "2026-04-02 09:44:52",
+      "album": {
+        "name": "Drizzle Down",
+        "url": "https://open.spotify.com/album/4IyIBXlsDileK31SIIQCnc"
+      },
+      "artists": [
+        {
+          "name": "Bien Dorm",
+          "url": "https://open.spotify.com/artist/0g6EfUCgC19RgPQHGYlbhH"
+        }
+      ],
+      "duration_ms": 131517,
+      "name": "Cool Air & Rain",
+      "url": "https://open.spotify.com/track/5mhS5BXqC8InFDFvmvH8WH"
     },
     {
       "added_at": "2026-04-02 09:44:52",
@@ -223,22 +367,6 @@
       "duration_ms": 244931,
       "name": "arkansas forest reserve downpour",
       "url": "https://open.spotify.com/track/3hSEPqX0iqXLcFIaVjFAQ3"
-    },
-    {
-      "added_at": "2026-04-02 09:44:52",
-      "album": {
-        "name": "Drizzle Down",
-        "url": "https://open.spotify.com/album/4IyIBXlsDileK31SIIQCnc"
-      },
-      "artists": [
-        {
-          "name": "Bien Dorm",
-          "url": "https://open.spotify.com/artist/0g6EfUCgC19RgPQHGYlbhH"
-        }
-      ],
-      "duration_ms": 131517,
-      "name": "Cool Air & Rain",
-      "url": "https://open.spotify.com/track/5mhS5BXqC8InFDFvmvH8WH"
     },
     {
       "added_at": "2026-04-02 09:44:52",
@@ -591,26 +719,6 @@
       "duration_ms": 229125,
       "name": "Rain & Birds",
       "url": "https://open.spotify.com/track/5dWXEeQTiyFdC8xAG1TZVh"
-    },
-    {
-      "added_at": "2026-04-02 09:44:52",
-      "album": {
-        "name": "Tr\u00f3pico",
-        "url": "https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT"
-      },
-      "artists": [
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Vozterra",
-          "url": "https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9"
-        }
-      ],
-      "duration_ms": 158037,
-      "name": "Piqueros",
-      "url": "https://open.spotify.com/track/0APpPwuIGFmDOvZjhOp6iH"
     },
     {
       "added_at": "2026-04-02 09:44:52",
@@ -2179,86 +2287,6 @@
       "duration_ms": 142214,
       "name": "Rain In The Garden",
       "url": "https://open.spotify.com/track/4QYnie1z5zm6gfFzFfhbye"
-    },
-    {
-      "added_at": "2026-04-02 09:44:52",
-      "album": {
-        "name": "Morning in Scotland",
-        "url": "https://open.spotify.com/album/176L5jSWsdkfgou23TPydl"
-      },
-      "artists": [
-        {
-          "name": "Hermelo",
-          "url": "https://open.spotify.com/artist/0sJWDshSokRwvOqYo7W3iV"
-        }
-      ],
-      "duration_ms": 113830,
-      "name": "Morning in Scotland",
-      "url": "https://open.spotify.com/track/3wNGiwpHA6AMTSlLN71IjW"
-    },
-    {
-      "added_at": "2026-04-02 09:44:52",
-      "album": {
-        "name": "The Millpond VI",
-        "url": "https://open.spotify.com/album/2Uoy8TmdDdzeWv3r9VqOpr"
-      },
-      "artists": [
-        {
-          "name": "Elberry",
-          "url": "https://open.spotify.com/artist/3HcvBTK8MOcYl9cVEg45vP"
-        }
-      ],
-      "duration_ms": 135168,
-      "name": "The Millpond VI",
-      "url": "https://open.spotify.com/track/5dEqC0Eg2Djg5PJ0Q963y1"
-    },
-    {
-      "added_at": "2026-04-02 09:44:52",
-      "album": {
-        "name": "Birds, Thunder & Rain",
-        "url": "https://open.spotify.com/album/6xW5OCWUJ06VgPvLxIQy3M"
-      },
-      "artists": [
-        {
-          "name": "Sound of the Wilderness",
-          "url": "https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX"
-        }
-      ],
-      "duration_ms": 171913,
-      "name": "Birds Warning the arrival of thunder",
-      "url": "https://open.spotify.com/track/52xxBuyMUSghtmf7Cv5pVh"
-    },
-    {
-      "added_at": "2026-04-02 09:44:52",
-      "album": {
-        "name": "The Melody of Nature's Orchestra",
-        "url": "https://open.spotify.com/album/6zFKRc7g2xF644T2z9JcCU"
-      },
-      "artists": [
-        {
-          "name": "Epic Nature Sounds",
-          "url": "https://open.spotify.com/artist/3KCBnJE0Ww7kT7Z7CXlS7h"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "Birdsong and Rustling Leaves",
-      "url": "https://open.spotify.com/track/2ZuB7OS80eFxrdfZgfCkD2"
-    },
-    {
-      "added_at": "2026-04-02 09:44:52",
-      "album": {
-        "name": "Nature's Green Noise",
-        "url": "https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6"
-      },
-      "artists": [
-        {
-          "name": "LBE Nature Recordings",
-          "url": "https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz"
-        }
-      ],
-      "duration_ms": 122730,
-      "name": "Birds Singing By The River",
-      "url": "https://open.spotify.com/track/48ZBpsfLHYzXDCSReai3ls"
     }
   ],
   "unique_name": "Nature Sounds",

@@ -3767,6 +3767,24 @@
     },
     {
       "album": {
+        "name": "Marvel Ambient",
+        "url": "https://open.spotify.com/album/6x5KxdMWRaEEt3vZb0FvFV"
+      },
+      "artists": [
+        {
+          "name": "Disney Ambient",
+          "url": "https://open.spotify.com/artist/5iop40R7W1LzJpH6Lm8ZRG"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324042,
+      "name": "The Avengers",
+      "url": "https://open.spotify.com/track/50kH6x4oHnoYvbR84mmZrv"
+    },
+    {
+      "album": {
         "name": "WandaVision: Episode 4 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3cqHTihoMTnbdu4easFUXy"
       },
@@ -4006,7 +4024,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 261666,
       "name": "The Final Battle Begins",
       "url": "https://open.spotify.com/track/3dmbpL8b6XIi3B0iM7G3Bw"
@@ -4032,6 +4050,24 @@
       "duration_ms": 83418,
       "name": "The Hero of the Multiverse",
       "url": "https://open.spotify.com/track/0CnD6Y8D8rOIM5rstdwDGG"
+    },
+    {
+      "album": {
+        "name": "MARVEL Cosmic Invasion (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/62KVROSc7MdwmSKuEd0iiS"
+      },
+      "artists": [
+        {
+          "name": "Tee Lopes",
+          "url": "https://open.spotify.com/artist/5ZOKvzD4GQ7Yg2CS4CVbRb"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97341,
+      "name": "The Incredible Intro",
+      "url": "https://open.spotify.com/track/56gLZx8Vhsm43sH8sJPKZh"
     },
     {
       "album": {

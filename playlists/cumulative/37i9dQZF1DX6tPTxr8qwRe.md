@@ -4,7 +4,7 @@
 
 > sweet\. sharp\. unbothered \- Whee In on the cover
 
-1,085 songs - 2 day 2 hr 11 min
+1,087 songs - 2 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1\-800\-F\*\*K\-YOU](https://open.spotify.com/track/0XUZUSGfg5BdDgPwIWO1GX) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [1\-800\-F\*\*K\-YOU](https://open.spotify.com/album/5EZ98Kq5X22Oese1iPoBRx) | 1:55 | 2025-08-08 | 2025-11-08 |
 | [10 Things I Hate About You](https://open.spotify.com/track/1shKa7wLElW8CrbHOJk85M) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/0pIt9H9KU1FyhygpHAOs2l) | 2:37 | 2022-03-25 | 2022-07-29 |
 | [10 Things I Hate About You](https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6) | 2:37 | 2022-03-25 | 2022-07-30 |
-| [17](https://open.spotify.com/track/44mNFl4PM016z0tueNAhzK) | [Ella Collier](https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ) | [17](https://open.spotify.com/album/3fEFkAZn2TC3C1dgra63SZ) | 3:15 | 2026-02-01 |  |
+| [17](https://open.spotify.com/track/44mNFl4PM016z0tueNAhzK) | [Ella Collier](https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ) | [17](https://open.spotify.com/album/3fEFkAZn2TC3C1dgra63SZ) | 3:15 | 2026-02-01 | 2026-04-25 |
 | [2 LATE](https://open.spotify.com/track/3IvXpswu83BD9Ip4gBQkH0) | [LO LA](https://open.spotify.com/artist/5AuJyIGhbMbssJq6LIEquF) | [2 LATE](https://open.spotify.com/album/0rY7VQUOTcumdtLJfpBW2s) | 2:45 | 2023-08-18 | 2023-09-23 |
 | [2 of us](https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [2 of us](https://open.spotify.com/album/3bFEQnbwElcnheCSsT7uGI) | 2:46 | 2024-01-12 | 2024-04-27 |
 | [20 Questions](https://open.spotify.com/track/3lSrMxJwwGawtXZflUa1iN) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [20 Questions](https://open.spotify.com/album/1Jiprq0sbMHmBKOXbHZtVG) | 2:59 | 2022-09-23 | 2023-03-25 |
@@ -127,6 +127,7 @@
 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 | 2022-08-05 | 2022-11-19 |
 | [Blood Guts & Pixie Dust](https://open.spotify.com/track/36MkP16YXxjCjpz7NMdfyW) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Blood Guts & Pixie Dust](https://open.spotify.com/album/6mtR02tgYD4EsPimDQERY1) | 3:26 | 2025-10-24 | 2026-02-14 |
 | [Bloodline](https://open.spotify.com/track/7k0CjQfqiS0vHpvxMECarP) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Bloodline](https://open.spotify.com/album/0ewvS55UVfLQPe9Ew7Xpre) | 2:34 | 2022-03-25 | 2022-07-23 |
+| [BLOODY MARY](https://open.spotify.com/track/445swxbKlkXgrIbRPpPYrL) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [BLURRY](https://open.spotify.com/album/4KnNtQ9m2ya5CVz4HdDcqU) | 3:02 | 2026-04-24 |  |
 | [blue](https://open.spotify.com/track/78PzKHIuCAv8ve3VLIfCI8) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [blue](https://open.spotify.com/album/64Ezf43dKpmAsCXUPmO6Wr) | 2:48 | 2023-03-24 | 2023-08-05 |
 | [Blue Moon](https://open.spotify.com/track/6bCE0p7QX3Tx4rZGDyaJ1U) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Blue Moon](https://open.spotify.com/album/5Eg6oyQd5RJS7KuGooq5iJ) | 3:17 | 2024-11-11 | 2025-05-03 |
 | [BLUR](https://open.spotify.com/track/4r7SDPszEcnEPnyc5FURj8) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [to fly a rocketship, you have to be an optimist](https://open.spotify.com/album/7vfvUr7L1PzQs4oOpUPHQq) | 2:58 | 2026-03-27 |  |
@@ -597,6 +598,7 @@
 | [Love Me Not](https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Love Me Not](https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh) | 2:20 | 2024-02-09 | 2024-06-29 |
 | [Love Me Till U Hate Me](https://open.spotify.com/track/0f72jNvO6UORzL8J51jPIW) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Love Me Till U Hate Me](https://open.spotify.com/album/6OB6AKoC7SXypIT5j8mViB) | 3:32 | 2022-05-13 | 2022-11-19 |
 | [love me ugly](https://open.spotify.com/track/1eZVscZmGIo2g0FdtEbHIc) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [love me ugly](https://open.spotify.com/album/1gGctXcIPdhSE9f2n6udZC) | 3:01 | 2024-08-30 | 2025-01-25 |
+| [Lovemesick](https://open.spotify.com/track/49lewRjU3Hv6OfGCbEZBZN) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Lovemesick](https://open.spotify.com/album/7zpQ3LP0JDe5mLEl10MPiv) | 3:49 | 2026-04-24 |  |
 | [lucky](https://open.spotify.com/track/4dkHBjo9Pr9d1rYqmdcz9M) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [lucky](https://open.spotify.com/album/5HFfLVlZ3FxG17PRrkc2Y2) | 2:02 | 2024-11-15 | 2025-01-11 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-17 | 2024-10-19 |
 | [luv starved](https://open.spotify.com/track/6FpU7rjYGiCScT8H7cEOpv) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume one](https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S) | 2:40 | 2022-03-18 | 2022-05-20 |
@@ -830,7 +832,7 @@
 | [Sexxxtapes](https://open.spotify.com/track/67gl2k7No6jIOMm4F2XNTZ) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Sexxxtapes](https://open.spotify.com/album/14C5aCg0VZ3KoewEIfiygG) | 3:23 | 2026-02-01 | 2026-04-18 |
 | [Shagidi](https://open.spotify.com/track/7zKYsYbbC7N8C5QOOtTlZx) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Shagidi](https://open.spotify.com/album/14xJ5Qg9sEbCJmg2vBRCUZ) | 2:28 | 2025-06-06 | 2025-07-19 |
 | [Shapeshifter](https://open.spotify.com/track/5bmGMXvdLlUdLp0qYauHcC) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shapeshifter](https://open.spotify.com/album/0mfYRLKHbGtozSzkKMmUol) | 2:26 | 2024-04-12 | 2024-06-29 |
-| [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B) | 3:33 | 2026-04-17 |  |
+| [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B) | 3:33 | 2026-04-17 | 2026-04-25 |
 | [she knows it](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [she knows it](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 | 2022-02-04 | 2022-07-02 |
 | [She Likes a Boy](https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [She Likes a Boy](https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv) | 2:09 | 2024-01-15 | 2024-04-27 |
 | [She Ruins Everything](https://open.spotify.com/track/6bxpZV3PmkGzGpr5qgIejf) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [She Ruins Everything](https://open.spotify.com/album/47dUMKJXhMColrlmkd0WPU) | 3:09 | 2023-12-08 | 2024-03-23 |

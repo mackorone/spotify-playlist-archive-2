@@ -1,44 +1,28 @@
 {
-  "description": "Featuring that new vintage. Cover: Jessie Ware",
-  "num_followers": 439854,
+  "description": "Featuring that new vintage. Cover: Nectar Woode",
+  "num_followers": 439961,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEnyZeTnyiIkam63omZmZIcv2Yk7",
+  "snapshot_id": "AAAAAMh65ArQwY6sBG/ZhDvomlIB6Zvy",
   "tracks": [
     {
-      "added_at": "2026-04-17 04:00:57",
+      "added_at": "2026-04-10 14:26:03",
       "album": {
-        "name": "Superbloom",
-        "url": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/7gJC1w5cF7GQXBzTal3XTQ"
       },
       "artists": [
         {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
         }
       ],
-      "duration_ms": 251200,
-      "name": "Superbloom",
-      "url": "https://open.spotify.com/track/56imCiO83oUJj6z9favCWt"
-    },
-    {
-      "added_at": "2026-04-10 04:01:15",
-      "album": {
-        "name": "The Boutique",
-        "url": "https://open.spotify.com/album/0mf3iO1pGIee8XIqr8V8rn"
-      },
-      "artists": [
-        {
-          "name": "Zinadelphia",
-          "url": "https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum"
-        }
-      ],
-      "duration_ms": 231352,
-      "name": "Postcard",
-      "url": "https://open.spotify.com/track/6kFViXXkWdLjU4ZSyTmEIE"
+      "duration_ms": 151640,
+      "name": "Naturally",
+      "url": "https://open.spotify.com/track/1Mny3onDz12YDgSUXkGfET"
     },
     {
       "added_at": "2026-04-10 04:01:15",
@@ -75,6 +59,70 @@
     {
       "added_at": "2026-04-17 04:00:57",
       "album": {
+        "name": "Superbloom",
+        "url": "https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 251200,
+      "name": "Superbloom",
+      "url": "https://open.spotify.com/track/56imCiO83oUJj6z9favCWt"
+    },
+    {
+      "added_at": "2026-04-24 09:00:31",
+      "album": {
+        "name": "Memory Of You",
+        "url": "https://open.spotify.com/album/5rawz0bTUTbBhtMGfFTzp8"
+      },
+      "artists": [
+        {
+          "name": "Arlissa",
+          "url": "https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452"
+        }
+      ],
+      "duration_ms": 203821,
+      "name": "Memory Of You",
+      "url": "https://open.spotify.com/track/03HzjjG5PNUCvp8Y9Vbbvd"
+    },
+    {
+      "added_at": "2026-04-10 04:01:15",
+      "album": {
+        "name": "The Boutique",
+        "url": "https://open.spotify.com/album/0mf3iO1pGIee8XIqr8V8rn"
+      },
+      "artists": [
+        {
+          "name": "Zinadelphia",
+          "url": "https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum"
+        }
+      ],
+      "duration_ms": 231352,
+      "name": "Postcard",
+      "url": "https://open.spotify.com/track/6kFViXXkWdLjU4ZSyTmEIE"
+    },
+    {
+      "added_at": "2026-03-28 20:26:15",
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 168767,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
+    },
+    {
+      "added_at": "2026-04-17 04:00:57",
+      "album": {
         "name": "CHUCK THE MONEY",
         "url": "https://open.spotify.com/album/3CSeM9Ufgof02QTlzL5TEm"
       },
@@ -87,6 +135,22 @@
       "duration_ms": 164802,
       "name": "CHUCK THE MONEY",
       "url": "https://open.spotify.com/track/4dyG3W77oSZCxaU7SZC8Mj"
+    },
+    {
+      "added_at": "2026-04-24 09:00:31",
+      "album": {
+        "name": "Daddy's Not The One",
+        "url": "https://open.spotify.com/album/4hLhPJ8VLX8BZDb7eu04ob"
+      },
+      "artists": [
+        {
+          "name": "KELS",
+          "url": "https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "Daddy's Not The One",
+      "url": "https://open.spotify.com/track/2uTyeCOuE93OINDp4Obpgs"
     },
     {
       "added_at": "2026-04-10 04:01:15",
@@ -105,20 +169,20 @@
       "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
     },
     {
-      "added_at": "2026-03-20 04:00:32",
+      "added_at": "2026-04-24 09:00:31",
       "album": {
-        "name": "6ft Under",
-        "url": "https://open.spotify.com/album/5LaPPtttpfc4UHqKWQUJkX"
+        "name": "Running From Nothing",
+        "url": "https://open.spotify.com/album/0UsaJw4BVdUMcN8sgjGaNj"
       },
       "artists": [
         {
-          "name": "KELS",
-          "url": "https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU"
+          "name": "Elysia Biro",
+          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
         }
       ],
-      "duration_ms": 210040,
-      "name": "6ft Under",
-      "url": "https://open.spotify.com/track/23u8tBDy1IBq0VajnoDQzx"
+      "duration_ms": 225870,
+      "name": "Running From Nothing",
+      "url": "https://open.spotify.com/track/5xYGysFGDhSt2775wubs6Z"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -169,22 +233,6 @@
       "url": "https://open.spotify.com/track/5UrxRPPKl5EiLy1RTbobZl"
     },
     {
-      "added_at": "2026-04-10 14:26:03",
-      "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/7gJC1w5cF7GQXBzTal3XTQ"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 151640,
-      "name": "Naturally",
-      "url": "https://open.spotify.com/track/1Mny3onDz12YDgSUXkGfET"
-    },
-    {
       "added_at": "2026-03-13 04:00:38",
       "album": {
         "name": "The Visitor",
@@ -201,20 +249,20 @@
       "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
     },
     {
-      "added_at": "2026-03-28 20:26:15",
+      "added_at": "2026-03-20 04:00:32",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
+        "name": "6ft Under",
+        "url": "https://open.spotify.com/album/5LaPPtttpfc4UHqKWQUJkX"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "KELS",
+          "url": "https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU"
         }
       ],
-      "duration_ms": 168767,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
+      "duration_ms": 210040,
+      "name": "6ft Under",
+      "url": "https://open.spotify.com/track/23u8tBDy1IBq0VajnoDQzx"
     },
     {
       "added_at": "2026-03-20 04:00:32",
@@ -889,22 +937,6 @@
       "url": "https://open.spotify.com/track/56CqQv5oOJmu70guWHLTTx"
     },
     {
-      "added_at": "2025-10-10 14:57:28",
-      "album": {
-        "name": "Blind in Love",
-        "url": "https://open.spotify.com/album/4XFHV45wr4tm0HldVDCTKQ"
-      },
-      "artists": [
-        {
-          "name": "Talia Rae",
-          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Blind in Love",
-      "url": "https://open.spotify.com/track/0rjoewFohsVztU43hybG2Y"
-    },
-    {
       "added_at": "2025-09-12 04:00:28",
       "album": {
         "name": "something like this",
@@ -919,22 +951,6 @@
       "duration_ms": 169430,
       "name": "something like this",
       "url": "https://open.spotify.com/track/6hR0pP818BP6CZjaOG7k1V"
-    },
-    {
-      "added_at": "2025-11-21 05:00:33",
-      "album": {
-        "name": "Backstage at The Tropicana",
-        "url": "https://open.spotify.com/album/6n0q71K7sdU00uqKFh4LNS"
-      },
-      "artists": [
-        {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
-        }
-      ],
-      "duration_ms": 171595,
-      "name": "Skin Tight Jeans",
-      "url": "https://open.spotify.com/track/4bTfq4Ndn69gwhtqC3Kfgl"
     },
     {
       "added_at": "2025-11-21 05:00:33",
@@ -1059,22 +1075,6 @@
       "duration_ms": 217143,
       "name": "David's Brother",
       "url": "https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh"
-    },
-    {
-      "added_at": "2025-10-10 14:57:28",
-      "album": {
-        "name": "Beautiful Lonely",
-        "url": "https://open.spotify.com/album/4F0zRXXNkL04ezmYpg4HkJ"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 259010,
-      "name": "Beautiful Lonely",
-      "url": "https://open.spotify.com/track/7d1GkHK3r8USzEQzhDvVJp"
     },
     {
       "added_at": "2025-10-10 14:57:28",

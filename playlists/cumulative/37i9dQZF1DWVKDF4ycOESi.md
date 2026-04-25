@@ -4,7 +4,7 @@
 
 > Nuovi brani di Juli, Frah Quintale, Nerissima Serpe, Danny Ocean, Rauw Alejandro, Madonna e tanti altri.
 
-8,773 songs - 18 day 11 hr 48 min
+8,773 songs - 18 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2592,7 +2592,7 @@
 | [FANTASMA](https://open.spotify.com/track/022AtzJe7ATp2Md1JKgAxW) | [Myto](https://open.spotify.com/artist/7ArCICJwpNMHWiDMCXiEZO) | [FANTASMA](https://open.spotify.com/album/2sgZg487arjpwKiQCKd6Kj) | 3:06 | 2025-01-30 | 2025-02-07 |
 | [Fantasy](https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Fantasy](https://open.spotify.com/album/4TLjECteKor6f1j5zpVYYc) | 3:36 | 2024-10-17 | 2024-10-25 |
 | [Fantasy](https://open.spotify.com/track/7zhjHihJHGKrsM0TxEY7h8) | [Marshe](https://open.spotify.com/artist/7Fl8QB9g3Mc3n90XPXferx) | [Fantasy](https://open.spotify.com/album/1G9WIUURtWtUwEdjLooHgo) | 2:53 | 2025-06-12 | 2025-06-20 |
-| [Fantasy \(ft\. COBRAH\)](https://open.spotify.com/track/6CwBTCg35UfkyjJ7BB6c9U) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [It's Not That Deep \(Unless You Want It To Be\)](https://open.spotify.com/album/5tfhBGn7x0cYn9VMYhSnph) | 2:21 | 2026-04-23 |  |
+| [Fantasy \(ft\. Cobrah\)](https://open.spotify.com/track/6CwBTCg35UfkyjJ7BB6c9U) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [It's Not That Deep \(Unless You Want It To Be\)](https://open.spotify.com/album/5tfhBGn7x0cYn9VMYhSnph) | 2:21 | 2026-04-23 |  |
 | [Fantasía](https://open.spotify.com/track/5PCIZcn6hKrMA8fmtRoX7Z) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Fantasía](https://open.spotify.com/album/2LbRBxToUXzFJjPMApnOAQ) | 2:29 | 2025-04-10 | 2025-04-18 |
 | [Fantini](https://open.spotify.com/track/5vBVpsuLLpNh4vkA1LWxzo) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L), [YD Teddy](https://open.spotify.com/artist/0LzZVQE7lt2MXRt6txx8q4) | [Fantini](https://open.spotify.com/album/5n670pLO1kpfDooZQPNIhK) | 2:48 | 2026-03-12 | 2026-03-20 |
 | [FANÁTICO](https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [FANÁTICO](https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z) | 3:55 | 2026-01-30 | 2026-02-06 |
@@ -5877,6 +5877,7 @@
 | [Peaceful Place](https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Peaceful Place](https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X) | 4:15 | 2024-08-08 | 2024-08-16 |
 | [Peaches](https://open.spotify.com/track/4v6YvJeJ8D4tjgq9EGPUSy) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Peaches](https://open.spotify.com/album/7BAnIgUIa3p2h2IXRnA8xB) | 2:27 | 2025-12-19 | 2026-01-02 |
 | [PECCATI](https://open.spotify.com/track/2qKDIFzouGXdWgGMWum5OT) | [Daxter](https://open.spotify.com/artist/7ml77C26I1LupIH1R4pEYa) | [RISPETTO \(Deluxe\)](https://open.spotify.com/album/0Eo86mTdAlpzNW34NSpfcm) | 2:20 | 2025-07-03 | 2025-07-11 |
+| [Pedala e batteria \(feat\. Jovanotti\)](https://open.spotify.com/track/7xRWsfn9x3gVhYQdIXjae3) | [Frankie hi\-nrg mc](https://open.spotify.com/artist/15tvxTXbemwnKQq1aRoPpI), [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [VOCE e BATTERIA](https://open.spotify.com/album/3kIyF4C1xQlE3M8Q2GvpL2) | 2:48 | 2026-04-23 |  |
 | [Pegado](https://open.spotify.com/track/2if67V4tMNmOdmwjQfNahB) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Pegado](https://open.spotify.com/album/1b3JSZK4YWuJDekO8LmMZA) | 2:05 | 2025-01-10 | 2025-01-17 |
 | [PEGGIO DI COSÌ](https://open.spotify.com/track/7x4PciuQrmMr6YW7SaUjFx) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [PEGGIO DI COSÌ](https://open.spotify.com/album/2KBXv5o2hBSE4172C0fXhp) | 2:42 | 2024-09-19 | 2024-09-27 |
 | [Pelle d'oca \(feat\. Cicco Sanchez\)](https://open.spotify.com/track/3hIaBCUNqe78in98CBo9O4) | [Not Good](https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8), [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [Bella Festa Brutta Gente](https://open.spotify.com/album/3Aco3ncSQtK1m590lgjGmB) | 2:49 | 2024-10-17 | 2024-10-25 |
@@ -7944,7 +7945,6 @@
 | [Tra le mani un cuore](https://open.spotify.com/track/1Xx6THZu4z3IoKFZhLHz1y) | [Massimo Ranieri](https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d) | [Tra le mani un cuore](https://open.spotify.com/album/5kBEwe5XOm8c3wP8voJltU) | 3:15 | 2025-02-13 | 2025-02-21 |
 | [Tra le onde](https://open.spotify.com/track/4TfxicRtSNQwfdWPSZ7JQc) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Tra le onde](https://open.spotify.com/album/3lAn7sXbnuxqnjzaUTU1w1) | 3:06 | 2024-12-05 | 2024-12-13 |
 | [tra parentesi](https://open.spotify.com/track/1FVGtE2nAqIR22ial5EbHo) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk) | [tra parentesi](https://open.spotify.com/album/1szcGWQ3Mgv5VZwxmobw66) | 1:58 | 2025-11-28 | 2025-12-05 |
-| [Track 1](https://open.spotify.com/track/7xRWsfn9x3gVhYQdIXjae3) | [Frankie hi\-nrg mc](https://open.spotify.com/artist/15tvxTXbemwnKQq1aRoPpI) | [VOCE e BATTERIA](https://open.spotify.com/album/3kIyF4C1xQlE3M8Q2GvpL2) | 0:00 | 2026-04-23 |  |
 | [Track 3](https://open.spotify.com/track/2u7oaYuzOEAnkgoiWlVjoW) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [PIÙ CHE SOLIDO](https://open.spotify.com/album/1p4XYB6kR49pnvbdBJibCT) | 0:00 | 2026-03-05 | 2026-03-07 |
 | [Track 5](https://open.spotify.com/track/5O5yM8JaaL0erqrP9h7bR2) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 | 2025-10-25 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 | 2026-04-03 |

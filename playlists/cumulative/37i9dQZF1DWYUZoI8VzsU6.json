@@ -1283,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "West Texas Wind",
+        "url": "https://open.spotify.com/album/41uWZG9EhkDsha25x9fCG7"
+      },
+      "artists": [
+        {
+          "name": "Logan Michael",
+          "url": "https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177808,
+      "name": "West Texas Wind",
+      "url": "https://open.spotify.com/track/4UGBo7iybOWD057IEQWcQl"
+    },
+    {
+      "album": {
         "name": "Wild as Her",
         "url": "https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg"
       },

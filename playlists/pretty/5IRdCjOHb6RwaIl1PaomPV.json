@@ -1,13 +1,129 @@
 {
-  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Parris Goebel, Eera, Thaiboy Digital, Thaiboy Digital, + more.",
-  "num_followers": 50415,
+  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Major Lazer, Thaiboy Digital, Safety Trance,  Glayden + more.",
+  "num_followers": 50416,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAeVEmwSdqCAdn/dRhP6zRJ2avUucel",
+  "snapshot_id": "AAAeZ7xm+zZmkd/erqfBMy+CXDWWnGiv",
   "tracks": [
+    {
+      "added_at": "2026-04-24 21:21:47",
+      "album": {
+        "name": "GUAYANDO (Lykke Li Remix)",
+        "url": "https://open.spotify.com/album/6otQ5gAH4Q2vNNTpZdyj80"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 156848,
+      "name": "GUAYANDO - Lykke Li Remix",
+      "url": "https://open.spotify.com/track/3HG1ly6lMtWy3tPXFO8iJS"
+    },
+    {
+      "added_at": "2026-04-24 21:20:42",
+      "album": {
+        "name": "Irish Tears",
+        "url": "https://open.spotify.com/album/34NLecq6KxI9VGtQ3UVsxK"
+      },
+      "artists": [
+        {
+          "name": "Thaiboy Digital",
+          "url": "https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee"
+        },
+        {
+          "name": "swedm\u00ae",
+          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Irish Tears",
+      "url": "https://open.spotify.com/track/6O9XKJ76EWKIzSPH3vQuIp"
+    },
+    {
+      "added_at": "2026-04-24 21:21:03",
+      "album": {
+        "name": "+Teamgeist / Blue Angels",
+        "url": "https://open.spotify.com/album/7vUMizpVqUk8FuI6wBEFDQ"
+      },
+      "artists": [
+        {
+          "name": "Glayden",
+          "url": "https://open.spotify.com/artist/5GsNEQd9Q8J3Yi721r1Tsj"
+        }
+      ],
+      "duration_ms": 156031,
+      "name": "Blue Angels",
+      "url": "https://open.spotify.com/track/3VJQSzdebeIZVAMxjOQisO"
+    },
+    {
+      "added_at": "2026-04-24 21:21:10",
+      "album": {
+        "name": "+Teamgeist / Blue Angels",
+        "url": "https://open.spotify.com/album/7vUMizpVqUk8FuI6wBEFDQ"
+      },
+      "artists": [
+        {
+          "name": "Glayden",
+          "url": "https://open.spotify.com/artist/5GsNEQd9Q8J3Yi721r1Tsj"
+        }
+      ],
+      "duration_ms": 156444,
+      "name": "+Teamgeist",
+      "url": "https://open.spotify.com/track/1pEVn9rtseG6eyK5kZNaIY"
+    },
+    {
+      "added_at": "2026-04-24 21:20:24",
+      "album": {
+        "name": "no me quiero dormir",
+        "url": "https://open.spotify.com/album/5wmPqODKNYl7HTr8RJti7x"
+      },
+      "artists": [
+        {
+          "name": "Safety Trance",
+          "url": "https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF"
+        },
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "no me quiero dormir",
+      "url": "https://open.spotify.com/track/6pLKe1SzXJexj7VpBleAL4"
+    },
+    {
+      "added_at": "2026-04-24 21:20:36",
+      "album": {
+        "name": "Sd-3",
+        "url": "https://open.spotify.com/album/1zKvlBFE8d9zNjcBjzitcS"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "duration_ms": 206197,
+      "name": "Real Stressor",
+      "url": "https://open.spotify.com/track/5ZGNTQUMtVTib08bhDwTLe"
+    },
     {
       "added_at": "2026-04-09 19:52:42",
       "album": {
@@ -1497,26 +1613,6 @@
       "url": "https://open.spotify.com/track/2LmbUvytNsuPZLG0clEcah"
     },
     {
-      "added_at": "2025-06-11 23:42:04",
-      "album": {
-        "name": "Coping Mechanism",
-        "url": "https://open.spotify.com/album/42qH9QID70Heeue1svdvzS"
-      },
-      "artists": [
-        {
-          "name": "Car Culture",
-          "url": "https://open.spotify.com/artist/6MIVBVpCNZFEBbzZ0RTTc4"
-        },
-        {
-          "name": "Physical Therapy",
-          "url": "https://open.spotify.com/artist/4HXE6NXjfAUDX8TXyoIfuO"
-        }
-      ],
-      "duration_ms": 301391,
-      "name": "Coping Mechanism",
-      "url": "https://open.spotify.com/track/1GyGDwvT9U3JNJg13cArHG"
-    },
-    {
       "added_at": "2025-05-30 19:22:19",
       "album": {
         "name": "Paradise Music",
@@ -1687,62 +1783,6 @@
       "duration_ms": 274786,
       "name": "Supercool",
       "url": "https://open.spotify.com/track/3Lh9zECFaknMX1zviYnU8t"
-    },
-    {
-      "added_at": "2025-04-03 22:55:49",
-      "album": {
-        "name": "spirallore +++",
-        "url": "https://open.spotify.com/album/6co6c8UO1KrMl8nuHW2vZR"
-      },
-      "artists": [
-        {
-          "name": "benzii",
-          "url": "https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1"
-        },
-        {
-          "name": "DJmegan23",
-          "url": "https://open.spotify.com/artist/56zdYcwtmdYq3WlBYQeHoA"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "riding it + DJmegan23 flip",
-      "url": "https://open.spotify.com/track/1s3tSmkdc0SsuDD9ma4xYa"
-    },
-    {
-      "added_at": "2025-04-03 22:55:49",
-      "album": {
-        "name": "NOISEMAKER",
-        "url": "https://open.spotify.com/album/2JFUgG7YTu1CfXWLS7It5g"
-      },
-      "artists": [
-        {
-          "name": "Speckman",
-          "url": "https://open.spotify.com/artist/6HMaWR5x7y2AYCWydAipj7"
-        },
-        {
-          "name": "Maya Lempelius",
-          "url": "https://open.spotify.com/artist/4fDr9xEBNNgoKOEZDm0gMx"
-        }
-      ],
-      "duration_ms": 220806,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/2jrzCpf7Ie750KCENF6yDo"
-    },
-    {
-      "added_at": "2025-04-03 22:55:49",
-      "album": {
-        "name": "One of the Girls",
-        "url": "https://open.spotify.com/album/1pgkV0Qz0zEhTyDPjY3qyl"
-      },
-      "artists": [
-        {
-          "name": "Otha",
-          "url": "https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV"
-        }
-      ],
-      "duration_ms": 231671,
-      "name": "One of the Girls",
-      "url": "https://open.spotify.com/track/2FucjATNZ2BiiwJ1sa8jAo"
     },
     {
       "added_at": "2025-03-21 17:02:35",

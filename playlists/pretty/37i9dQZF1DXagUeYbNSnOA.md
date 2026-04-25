@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Miluhska\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,606 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,637 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Me Gustas Tanto](https://open.spotify.com/track/1qMgmUjYvqtncpcMiwYyFg) | [Fazio](https://open.spotify.com/artist/5YOTy6tOB1JT1L9qUSugCI) | [Me Gustas Tanto](https://open.spotify.com/album/1nkybN5yekcLG8NOpujDFK) | 2:45 |
 | 50 | [JUNO106](https://open.spotify.com/track/5oAnRL7VaJSOSRDIzBGu4U) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [JUNO106](https://open.spotify.com/album/2k0Qp0rDiaHKDrYbLlaA1l) | 2:50 |
 
-Snapshot ID: `AAAAALoWeeiH1vXRT9a8u3foNScNIUmS`
+Snapshot ID: `AAAAAGchvU5wYQf4MFWz0JmCTbIxSwwg`

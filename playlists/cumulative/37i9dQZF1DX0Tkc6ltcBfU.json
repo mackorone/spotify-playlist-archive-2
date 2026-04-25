@@ -733,6 +733,32 @@
     },
     {
       "album": {
+        "name": "300 (feat. BabyDrill & Tommy 2)",
+        "url": "https://open.spotify.com/album/5lepyanCT0WHh5gxZw78Ef"
+      },
+      "artists": [
+        {
+          "name": "BashfortheWorld",
+          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
+        },
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        },
+        {
+          "name": "Tommy 2",
+          "url": "https://open.spotify.com/artist/7p4o04F5FpUH0eBTFPYt9c"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163137,
+      "name": "300 (feat. BabyDrill & Tommy 2)",
+      "url": "https://open.spotify.com/track/56cfXGd2vsKD9RKH9QZhA7"
+    },
+    {
+      "album": {
         "name": "Kutthroat Bill: Vol. 1",
         "url": "https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs"
       },
@@ -1552,7 +1578,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 188586,
       "name": "6IXER PARTY (FEAT. SNOOP DOGG)",
       "url": "https://open.spotify.com/track/0bWbDcx2GyvCFjCOW9XvlH"
@@ -5127,6 +5153,24 @@
     },
     {
       "album": {
+        "name": "Best Bitch",
+        "url": "https://open.spotify.com/album/2Z2QLwalMC3lVnVm0AldBl"
+      },
+      "artists": [
+        {
+          "name": "BunnaB",
+          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122185,
+      "name": "Best Bitch",
+      "url": "https://open.spotify.com/track/309ZKuood80t3ULYEZAqmQ"
+    },
+    {
+      "album": {
         "name": "Best Bye",
         "url": "https://open.spotify.com/album/0rb6kmWVhkMqVbasqTlZjz"
       },
@@ -6910,6 +6954,24 @@
       "duration_ms": 123651,
       "name": "BOOK IT",
       "url": "https://open.spotify.com/track/0tJQdCQmrhviw9qfbDOlVC"
+    },
+    {
+      "album": {
+        "name": "Booked Up",
+        "url": "https://open.spotify.com/album/7eofhrMDkSHHoSpTbSHrdi"
+      },
+      "artists": [
+        {
+          "name": "Tana9.13",
+          "url": "https://open.spotify.com/artist/2Rv7ZSqBqsna7UbV8WAcDh"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136521,
+      "name": "Booked Up",
+      "url": "https://open.spotify.com/track/5NVd8OXugKasaSrd89xDCF"
     },
     {
       "album": {
@@ -8891,6 +8953,24 @@
     },
     {
       "album": {
+        "name": "CBFW",
+        "url": "https://open.spotify.com/album/5MPPIrLYVXgyRpggIzgznd"
+      },
+      "artists": [
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126692,
+      "name": "CBFW",
+      "url": "https://open.spotify.com/track/6UIuQmtmOONWEnM3u4OMCh"
+    },
+    {
+      "album": {
         "name": "CBFW (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/65yeE7D5vaPkt7pkgXeNxj"
       },
@@ -9524,7 +9604,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 169466,
       "name": "Chicken Talkin Bastard",
       "url": "https://open.spotify.com/track/5SK7SRwN7AGI6qf1bc9qP4"
@@ -12738,7 +12818,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 130874,
       "name": "Do It",
       "url": "https://open.spotify.com/track/5lLMNS5WYrYPFL7CsaAleK"
@@ -16418,7 +16498,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 160509,
       "name": "Flex",
       "url": "https://open.spotify.com/track/02fpY51jccaKv1iIokSNqV"
@@ -18062,7 +18142,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 173493,
       "name": "Gates Flow 2 (She Don't Wanna)",
       "url": "https://open.spotify.com/track/7DxOo87U0J785h5cWEEZ5z"
@@ -19268,6 +19348,28 @@
       "duration_ms": 156933,
       "name": "Going Crazy",
       "url": "https://open.spotify.com/track/6Shif3zQ84HcpovpwOuaR8"
+    },
+    {
+      "album": {
+        "name": "GOMF (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/7woXVG8V3g8TQjDd8WV5JO"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149640,
+      "name": "GOMF (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/7DbtXoclIdBSaeMWxcTSSY"
     },
     {
       "album": {
@@ -21771,6 +21873,24 @@
     },
     {
       "album": {
+        "name": "Homicide",
+        "url": "https://open.spotify.com/album/0AMarMYefOp4rFJEPLBttW"
+      },
+      "artists": [
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132515,
+      "name": "Homicide",
+      "url": "https://open.spotify.com/track/6YPtERS01n8sSL33Go31IK"
+    },
+    {
+      "album": {
         "name": "Honey Bun",
         "url": "https://open.spotify.com/album/0a0wSOjD0UQ1IqlcXKbeI7"
       },
@@ -23396,7 +23516,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 125640,
       "name": "I'm Scared",
       "url": "https://open.spotify.com/track/63qpDL0lQDGtCIISBiLUuf"
@@ -30031,6 +30151,24 @@
     },
     {
       "album": {
+        "name": "Misconceptions",
+        "url": "https://open.spotify.com/album/3lfDpCtIADMuEkZSRy6Mg9"
+      },
+      "artists": [
+        {
+          "name": "FattMack",
+          "url": "https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107333,
+      "name": "Misconceptions",
+      "url": "https://open.spotify.com/track/2AG0KnrrNUK1t1EvuEa7cn"
+    },
+    {
+      "album": {
         "name": "Bigger Than Life Or Death Part 2",
         "url": "https://open.spotify.com/album/50590zy2jXipuPgHomTXgv"
       },
@@ -30726,6 +30864,28 @@
       "duration_ms": 169166,
       "name": "Motion",
       "url": "https://open.spotify.com/track/43xk74ljarl0Ac73TxxXFm"
+    },
+    {
+      "album": {
+        "name": "Sadetra Son",
+        "url": "https://open.spotify.com/album/6EA0460EzIdx2eNP6qmmvL"
+      },
+      "artists": [
+        {
+          "name": "Montana 700",
+          "url": "https://open.spotify.com/artist/0KpToBdtK9KP6TZPFK2zbw"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171176,
+      "name": "Motion (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/2VXh0JUDiwbgpuAOvS8kqZ"
     },
     {
       "album": {
@@ -33304,6 +33464,28 @@
       "duration_ms": 151285,
       "name": "NO TRENDS",
       "url": "https://open.spotify.com/track/3ItezvVKyAyy0nxf6yJpcx"
+    },
+    {
+      "album": {
+        "name": "No Trick (feat. Trim)",
+        "url": "https://open.spotify.com/album/2Ef9wMwtKu70uEH2MUQDec"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "Trim",
+          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123866,
+      "name": "No Trick (feat. Trim)",
+      "url": "https://open.spotify.com/track/10675f8RVNLuoz4cp2Jpc2"
     },
     {
       "album": {
@@ -41109,6 +41291,28 @@
     },
     {
       "album": {
+        "name": "Say Please (Don't Leave Me Lonely) [feat. BigXthaPlug]",
+        "url": "https://open.spotify.com/album/42u78y3vwF6rNh81djS2SF"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194716,
+      "name": "Say Please (Don't Leave Me Lonely) (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/3gq1jrwHUDFN0VyQu2yvrQ"
+    },
+    {
+      "album": {
         "name": "Say That Shit (feat. K Carbon)",
         "url": "https://open.spotify.com/album/7fJSijsul2qXgubuB7wO6N"
       },
@@ -43262,7 +43466,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 164850,
       "name": "So Groovy",
       "url": "https://open.spotify.com/track/5LLxJJ6CE38tp5MkHcL4LE"
@@ -43788,6 +43992,24 @@
       "duration_ms": 141839,
       "name": "Speeding Fast (with CEO Trayle)",
       "url": "https://open.spotify.com/track/49ei6pRCbVMcaH1ko0daxd"
+    },
+    {
+      "album": {
+        "name": "Spend Dat",
+        "url": "https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181391,
+      "name": "Spend Dat",
+      "url": "https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo"
     },
     {
       "album": {
@@ -46222,7 +46444,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 142199,
       "name": "Take Long",
       "url": "https://open.spotify.com/track/2SfRTzpFF5Pi2EhZ9sk8sD"
@@ -49676,7 +49898,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 124137,
       "name": "Typa",
       "url": "https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1"
@@ -51386,7 +51608,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 107940,
       "name": "WE BACK OUTSIDE",
       "url": "https://open.spotify.com/track/1BEsMoxJUeGalSCr7KIKwo"

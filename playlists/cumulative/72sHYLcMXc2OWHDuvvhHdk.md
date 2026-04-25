@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,267 songs - 5 day 12 hr 30 min
+2,268 songs - 5 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -622,6 +622,7 @@
 | [Fingers Crossed](https://open.spotify.com/track/1W60sJ9yBagKLgFKkyB6xi) | [Jont](https://open.spotify.com/artist/27PAZpDiy0LBXUVkQ7D2UY) | [Fingers Crossed](https://open.spotify.com/album/627w37ZFX0jgjHnNvHv9QF) | 3:59 | 2025-04-16 |  |
 | [Fingt Ds Glück Eim?](https://open.spotify.com/track/48hWWP1Gl8JwPdG9f1Q7sk) | [Züri West](https://open.spotify.com/artist/5whb6si9KY0ywOL5zeRlV9) | [Aloha from Züri West](https://open.spotify.com/album/44T32CIoO1peVp8mlTc6HX) | 3:46 | 2025-02-03 |  |
 | [Firewood](https://open.spotify.com/track/0Kkx3qcUeWXfoTHz8aPj8I) | [A Walking Miracle](https://open.spotify.com/artist/6RAo7PsvIZKBkg8wOshSUM) | [I Like Cats](https://open.spotify.com/album/7wl8lFaDNNb4yhvd7RzipB) | 2:08 | 2025-09-08 |  |
+| [Fireworks Fall](https://open.spotify.com/track/2LmF5dQhaxFNnTpnFOn8z2) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Fireworks Fall](https://open.spotify.com/album/1a2GSekjvduf484J6N71yx) | 3:31 | 2026-04-24 |  |
 | [First Quarter Moon in Libra](https://open.spotify.com/track/0BliTIQpdnHRd2L0X44kmp) | [Hudson Murray](https://open.spotify.com/artist/64Ytpz9KrL0P7WQaMVPPy3) | [Huddy's Hidden Haven](https://open.spotify.com/album/01QcjP2b8vb6l9JTR8szoC) | 2:22 | 2024-08-26 |  |
 | [Five and Dime](https://open.spotify.com/track/0HyEfArh8gBB1L2ki7mBnw) | [David Jane](https://open.spotify.com/artist/5yUqmh4zccntMeJugkuZqM) | [Five and Dime](https://open.spotify.com/album/7xn3M7VaosVSfgRL3ic0ad) | 3:40 | 2025-01-29 |  |
 | [Fixing the socket](https://open.spotify.com/track/1VMXCtAsnMcoATBXtCSt2q) | [Letters In Lullaby](https://open.spotify.com/artist/49Vjj9jEHKPqaXpYNQVRMg) | [Fixing the socket](https://open.spotify.com/album/4WuzBovXYZ0drBywhlG3kc) | 3:29 | 2025-01-07 |  |

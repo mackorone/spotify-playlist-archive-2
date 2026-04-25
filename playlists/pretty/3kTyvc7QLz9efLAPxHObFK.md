@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 2,994 songs - 6 day 10 hr 41 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 2,995 songs - 6 day 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3002,5 +3002,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2992 | [Move It](https://open.spotify.com/track/1O5XRBzrBgR2bdfSfJj5Rc) | [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq), [HETZKINEN](https://open.spotify.com/artist/6bERDnPnoFBo4ERukfbtuj) | [Move It](https://open.spotify.com/album/1GdfJwzwLIj80p5fE5XwGJ) | 2:31 |
 | 2993 | [we build the hype](https://open.spotify.com/track/34l06X6vqBeKqITmvpuA3b) | [Bumloco](https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M) | [we build the hype](https://open.spotify.com/album/1efyMQK0J8ZjjtL8igznFf) | 2:11 |
 | 2994 | [FKN LOUD](https://open.spotify.com/track/6KefiS7DtDW4XGNrXzMhrk) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Manji](https://open.spotify.com/artist/3kKttmkT96hcdqjZUvlhmn) | [FKN LOUD](https://open.spotify.com/album/7jFH4LtFcNXSpBDB6sw4Bk) | 3:00 |
+| 2995 | [XXX](https://open.spotify.com/track/0e2iPB0QVIWYtJHEYSUmrt) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [XXX](https://open.spotify.com/album/0G6hIuCzEbHL8CaRKNcmB3) | 3:49 |
 
-Snapshot ID: `AAAMC0TF5FDhmGvsEBCytqG4SKRyFqsl`
+Snapshot ID: `AAAMDHrkggYpKp5/S/oTlNviZYET2pjV`

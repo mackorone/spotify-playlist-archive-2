@@ -557,6 +557,40 @@
     },
     {
       "album": {
+        "name": "The Richard Rodgers Songbook",
+        "url": "https://open.spotify.com/album/2nsWi2RA4XDmgOuuMKW87h"
+      },
+      "artists": [
+        {
+          "name": "Jaimee Paul",
+          "url": "https://open.spotify.com/artist/09VxnBvEC5lDFLmMkEYOmr"
+        },
+        {
+          "name": "Andre Reiss",
+          "url": "https://open.spotify.com/artist/1O4RYTCy8m5JgaPpxytDDE"
+        },
+        {
+          "name": "Pat Coil",
+          "url": "https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503"
+        },
+        {
+          "name": "Jacob Jezioro",
+          "url": "https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df"
+        },
+        {
+          "name": "Danny Gottlieb",
+          "url": "https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207409,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/5qwcaOKZbXMze0ChEL4MsX"
+    },
+    {
+      "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
@@ -2410,7 +2444,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 316453,
       "name": "Make It Last",
       "url": "https://open.spotify.com/track/3VzeSqVwct8obcWD7vXx2i"

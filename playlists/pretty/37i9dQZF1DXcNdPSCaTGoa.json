@@ -1,35 +1,35 @@
 {
-  "description": "Celebrating South Africa's most beloved hits.",
-  "num_followers": 1640,
+  "description": "Celebrating South Africa's most beloved hits. Cover: J'Something",
+  "num_followers": 1691,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHItU9sSbyd+IOp4k6jHIM7EC63n",
+  "snapshot_id": "AAAAAFn7g5Mp5jKkpZGoKyWpEg/4KSUT",
   "tracks": [
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "DaKAR II",
-        "url": "https://open.spotify.com/album/0dVMCPy4qwJoVxHP3qVgHC"
+        "name": "Asimbonanga",
+        "url": "https://open.spotify.com/album/2JdVEm93GGd9BfKCFqR9AZ"
       },
       "artists": [
         {
-          "name": "Kwesta",
-          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+          "name": "J'Something",
+          "url": "https://open.spotify.com/artist/2KzocSxdQrnheOMFyaCljG"
         },
         {
-          "name": "Cassper Nyovest",
-          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+          "name": "Johnny Clegg",
+          "url": "https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O"
         }
       ],
-      "duration_ms": 271186,
-      "name": "Ngud' (feat. Cassper Nyovest)",
-      "url": "https://open.spotify.com/track/0i2EASYXRiIMjKmExaOk6v"
+      "duration_ms": 192000,
+      "name": "Asimbonanga",
+      "url": "https://open.spotify.com/track/1tqA63CWaZWj50R1vIERdf"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/71GvlH0VdeClloLIkHrAVu"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "The 4th Tick - A Clockumentary",
         "url": "https://open.spotify.com/album/466CzP9nhIV9C1rXd46oud"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/3rl0m4eV5brBp1ER1uHUhN"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Levels (Explicit)",
         "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/6oAWlzrEbXFis7Z0kyeX0h"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "The Beginning",
         "url": "https://open.spotify.com/album/02sIi2DonI9fTx2ExmM6er"
@@ -109,7 +109,27 @@
       "url": "https://open.spotify.com/track/6mrrQb0xQFxDAA6PkdpnaQ"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
+        "name": "DaKAR II",
+        "url": "https://open.spotify.com/album/0dVMCPy4qwJoVxHP3qVgHC"
+      },
+      "artists": [
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        },
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        }
+      ],
+      "duration_ms": 271186,
+      "name": "Ngud' (feat. Cassper Nyovest)",
+      "url": "https://open.spotify.com/track/0i2EASYXRiIMjKmExaOk6v"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Loliwe",
         "url": "https://open.spotify.com/album/7CLSR9UOYjRAQuDPxBckR0"
@@ -125,7 +145,7 @@
       "url": "https://open.spotify.com/track/1y9bfiGVKNMLoN0XR54S4z"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Malaika",
         "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
@@ -141,7 +161,7 @@
       "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Family Values",
         "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
@@ -157,7 +177,7 @@
       "url": "https://open.spotify.com/track/40k035nx9YwLSpfDhEyKwM"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Sondelani",
         "url": "https://open.spotify.com/album/4R42gWyYsd9ybilmlcia1j"
@@ -173,7 +193,7 @@
       "url": "https://open.spotify.com/track/43VwFP9q5lOrfLPfBvPtsg"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Nkalakatha",
         "url": "https://open.spotify.com/album/1hqQFeOpmzLiqQzVkEYSIg"
@@ -189,7 +209,7 @@
       "url": "https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Touch My Blood",
         "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
@@ -205,7 +225,7 @@
       "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Memeza",
         "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
@@ -221,7 +241,7 @@
       "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
@@ -241,7 +261,7 @@
       "url": "https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Ntumba",
         "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
@@ -257,7 +277,7 @@
       "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "M'du Or Die",
         "url": "https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ"
@@ -273,7 +293,7 @@
       "url": "https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Work of Heart",
         "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
@@ -289,7 +309,7 @@
       "url": "https://open.spotify.com/track/2cV5IKy6RdZ5RyN6mLGy1j"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Jamali",
         "url": "https://open.spotify.com/album/5Qe0Khsxx4fLlzk7cdATN7"
@@ -305,7 +325,7 @@
       "url": "https://open.spotify.com/track/5uOQhnhCDxGb9QlSmCcXRO"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/084jtk8aAbHaOgd2hWOfSd"
@@ -321,7 +341,7 @@
       "url": "https://open.spotify.com/track/3JPrTUwhK3Utti9ilI75fB"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Sound Revival",
         "url": "https://open.spotify.com/album/3u5wvGZJGwCMWXKVvTMUFV"
@@ -341,7 +361,7 @@
       "url": "https://open.spotify.com/track/3fsQv2sCRg2IQTf6fLy5dH"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Uit Die Diepte Van My Hart",
         "url": "https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp"
@@ -357,7 +377,7 @@
       "url": "https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Levels (Explicit)",
         "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
@@ -373,7 +393,7 @@
       "url": "https://open.spotify.com/track/4rpeguIp4kLV1uExPjQqjm"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "In The Meantime",
         "url": "https://open.spotify.com/album/31trLskVnGbl1GFS9BzOkZ"
@@ -389,7 +409,7 @@
       "url": "https://open.spotify.com/track/13lumrL4b1cw4htq7R2uKV"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
@@ -405,7 +425,7 @@
       "url": "https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Halloween",
         "url": "https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF"
@@ -425,7 +445,7 @@
       "url": "https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Nomvula",
         "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
@@ -441,7 +461,7 @@
       "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Ibutho",
         "url": "https://open.spotify.com/album/5l4OrBtOd4rGfpCEzWrfi2"
@@ -457,7 +477,7 @@
       "url": "https://open.spotify.com/track/6UQCZ9wUMdDX87eVYAqJy4"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Ibokwe",
         "url": "https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM"
@@ -473,7 +493,7 @@
       "url": "https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Another Universe",
         "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
@@ -489,7 +509,7 @@
       "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Family Values",
         "url": "https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC"
@@ -509,7 +529,7 @@
       "url": "https://open.spotify.com/track/00gec53aXVCqYMWbKFJHGg"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Nomvula",
         "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
@@ -525,7 +545,7 @@
       "url": "https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Bhambatha (Remastered 2024)",
         "url": "https://open.spotify.com/album/4yX88UXZ6Q0X9IxLwgMmtE"
@@ -545,7 +565,7 @@
       "url": "https://open.spotify.com/track/0TW01kL2sGNnqc9Lvas6FN"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp"
@@ -561,7 +581,7 @@
       "url": "https://open.spotify.com/track/45k24cRKkfkLoA6nslCwHG"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Work of Heart",
         "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
@@ -577,7 +597,7 @@
       "url": "https://open.spotify.com/track/5Vv6Qh1oE7WQNkdIDSTeiX"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "House Player",
         "url": "https://open.spotify.com/album/2CbZUpkxIDvJMyPy2JDSr6"
@@ -593,7 +613,7 @@
       "url": "https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Nomvula",
         "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
@@ -609,7 +629,7 @@
       "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Khokhovula",
         "url": "https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK"
@@ -625,7 +645,7 @@
       "url": "https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Guz Hits",
         "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
@@ -641,7 +661,7 @@
       "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Black President",
         "url": "https://open.spotify.com/album/3HhEwfPwfAqK2D0fe7TBWW"
@@ -657,7 +677,7 @@
       "url": "https://open.spotify.com/track/1u6y55ANLeAiIP26F3I3r4"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Zabalaza",
         "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
@@ -673,7 +693,7 @@
       "url": "https://open.spotify.com/track/0SGnd95BYWd1m583zt7mqC"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB"
@@ -689,7 +709,7 @@
       "url": "https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Ndawo Yami",
         "url": "https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU"
@@ -705,7 +725,7 @@
       "url": "https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Guz Hits",
         "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
@@ -721,7 +741,7 @@
       "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Jack Parow",
         "url": "https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4"
@@ -737,7 +757,7 @@
       "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Y U 4 Me",
         "url": "https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7"
@@ -753,7 +773,7 @@
       "url": "https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Mababaza",
         "url": "https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt"
@@ -769,7 +789,7 @@
       "url": "https://open.spotify.com/track/5F8GhL8UTDDydH7HNq5geV"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Vintage Sounds of Johannesburg",
         "url": "https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3"
@@ -785,7 +805,7 @@
       "url": "https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Guz Hits",
         "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
@@ -805,7 +825,7 @@
       "url": "https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "I'm Burning Up",
         "url": "https://open.spotify.com/album/4N5GxOogtjkRXKAsfcoME3"
@@ -821,7 +841,7 @@
       "url": "https://open.spotify.com/track/5MtRQ4ICD8SqeJqDwSi3yB"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Ndawo Yami",
         "url": "https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU"
@@ -837,7 +857,7 @@
       "url": "https://open.spotify.com/track/12dgNfCf41xfNFefmI0Vu2"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Heads and Tales",
         "url": "https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6"
@@ -857,7 +877,7 @@
       "url": "https://open.spotify.com/track/5dIOKpPN20BHKd56jOVsoN"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Work of Heart",
         "url": "https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk"
@@ -873,7 +893,7 @@
       "url": "https://open.spotify.com/track/0x1zokrw2rQm2XcmQ5dZN5"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Guz Hits",
         "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
@@ -889,7 +909,7 @@
       "url": "https://open.spotify.com/track/0lfi2bjtJdYWiaxjjCryuY"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Evo Mix",
         "url": "https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc"
@@ -909,7 +929,7 @@
       "url": "https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Rain Man: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi"
@@ -929,7 +949,7 @@
       "url": "https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Heads and Tales",
         "url": "https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6"
@@ -945,7 +965,7 @@
       "url": "https://open.spotify.com/track/497xN2vH7jrdMJwssIZkEt"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Zabalaza",
         "url": "https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2"
@@ -961,7 +981,7 @@
       "url": "https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Tsholofelo (Platinum Edition)",
         "url": "https://open.spotify.com/album/367X12thcQ6YbzKYWLGXFc"
@@ -977,7 +997,7 @@
       "url": "https://open.spotify.com/track/1fRMv66SdJrWowk0rJduKM"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Ultimate Zoid",
         "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
@@ -993,7 +1013,7 @@
       "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
     },
     {
-      "added_at": "2026-04-09 09:50:14",
+      "added_at": "2026-04-24 07:22:05",
       "album": {
         "name": "Wie's Bang",
         "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
@@ -1007,22 +1027,6 @@
       "duration_ms": 296680,
       "name": "Tot Die Son Uitkom",
       "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
-    },
-    {
-      "added_at": "2026-04-09 09:50:14",
-      "album": {
-        "name": "Grand Masters",
-        "url": "https://open.spotify.com/album/4pZt9qJUgqAevuCKmzw5Fj"
-      },
-      "artists": [
-        {
-          "name": "Simphiwe Dana",
-          "url": "https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu"
-        }
-      ],
-      "duration_ms": 296911,
-      "name": "Ndiredi",
-      "url": "https://open.spotify.com/track/4AxFUQVcla7vyMSl4tGBZj"
     }
   ],
   "unique_name": "SA Gold",

@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Quiet Light
 
-870 songs - 2 day 2 hr 12 min
+870 songs - 2 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [Midnight Oil](https://open.spotify.com/track/7kxHjAiIYCM3vU8BA9a6Qe) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Scarlet Lamb](https://open.spotify.com/album/5usTfd8cfuQttU2w3Eh0q3) | 3:26 | 2024-10-03 | 2024-11-15 |
 | [Midnight Shining](https://open.spotify.com/track/3mYsAOZUuqeqVwQw0BAdgv) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Midnight Shining](https://open.spotify.com/album/3fCh7BiO2OHPrZvjhVGvNP) | 3:32 | 2024-09-12 | 2024-11-08 |
 | [Mild To Moderate Pain](https://open.spotify.com/track/6AxlvreGHDqoo0aVeVCmTK) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Mild To Moderate Pain](https://open.spotify.com/album/4XF8dYSOGW5Xdy8x5CfOm3) | 3:15 | 2025-03-21 | 2025-05-09 |
+| [Mind is a Dancer](https://open.spotify.com/track/33ljpH5mxnf6LAU96WtWiC) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Kizzy](https://open.spotify.com/album/2kQDQctLqaMMOnX84ZIzcw) | 4:28 | 2026-04-23 |  |
 | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt) | 3:37 | 2025-07-17 | 2025-11-28 |
 | [Mirror](https://open.spotify.com/track/1WZECPZz4TmBbcMQevrP8K) | [For Those I Love](https://open.spotify.com/artist/3X4mDEa1fff0zpbBp8wiOZ) | [Mirror](https://open.spotify.com/album/5S2Xg5N8mzPY4zZe1oPGZU) | 4:00 | 2025-07-24 | 2025-11-08 |
 | [Mirror's Edge](https://open.spotify.com/track/456tPmLLrNb6ZRTeyS2h80) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU), [POiSON ANNA](https://open.spotify.com/artist/1qC3BErhNjJ0AP7Ddg4YfD) | [Mirror's Edge](https://open.spotify.com/album/7kVHEGvxMaOlnandC0faCR) | 3:57 | 2025-04-11 | 2025-06-20 |
@@ -787,7 +788,6 @@
 | [TOO MUCH!](https://open.spotify.com/track/6IXFA7Sh0gHQtJoNhHl6qU) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [TOO MUCH!](https://open.spotify.com/album/05EKSPXWJPZ5iROIob3All) | 3:09 | 2024-10-03 | 2024-10-18 |
 | [TORMENTOR](https://open.spotify.com/track/4FcQeSZNS22TDJbjm5qw3I) | [HONESTY](https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv) | [TORMENTOR](https://open.spotify.com/album/2RqLDB8NYtRMd0MoALQzEc) | 5:10 | 2024-11-08 | 2024-11-22 |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-03-21 |
-| [Track 6](https://open.spotify.com/track/33ljpH5mxnf6LAU96WtWiC) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Kizzy](https://open.spotify.com/album/2kQDQctLqaMMOnX84ZIzcw) | 0:00 | 2026-04-23 |  |
 | [Traffic Lights \(feat\. Thom Yorke\)](https://open.spotify.com/track/2kSQNFlBqsHSzEw6riHR8K) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Traffic Lights \(feat\. Thom Yorke\)](https://open.spotify.com/album/3XztKVcdPZv8EZbgvYrxrF) | 5:41 | 2026-01-16 | 2026-04-22 |
 | [trans](https://open.spotify.com/track/6CTCBZBkB6Lomh0akgkwjg) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [trans](https://open.spotify.com/album/2tQUu7ad2Yky6jLQkHMcH2) | 2:19 | 2026-01-30 | 2026-02-06 |
 | [Trouble](https://open.spotify.com/track/3IU8gx0FlYarKKA4TOgraH) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Girlfriend](https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4) | 3:17 | 2026-03-20 |  |

@@ -4,7 +4,7 @@
 
 > a playlist without boundaries 🪐<br/>cover: Mulaa Joans
 
-947 songs - 2 day 0 hr 14 min
+947 songs - 2 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,6 +551,7 @@
 | [Mermaid](https://open.spotify.com/track/5UBoW6qFJ6Kz6EeARCyvAK) | [Dumb Buoys Fishing Club](https://open.spotify.com/artist/5zq4xI3RwNWyVVSRHAwO0D) | [Mermaid](https://open.spotify.com/album/54Bp6QQRdaNpv50GTe55sB) | 2:58 | 2025-08-07 | 2025-10-17 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-06-27 | 2025-05-16 |
 | [Million Dollar Baby \- Edit](https://open.spotify.com/track/60WfLXMbWwrcTePgZpNJuP) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Million Dollar Baby](https://open.spotify.com/album/1KMsICBCmERIbb4GAc5X7C) | 3:00 | 2024-06-27 | 2024-08-03 |
+| [Mind is a Dancer](https://open.spotify.com/track/33ljpH5mxnf6LAU96WtWiC) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Kizzy](https://open.spotify.com/album/2kQDQctLqaMMOnX84ZIzcw) | 4:28 | 2026-04-23 |  |
 | [mine](https://open.spotify.com/track/3LG0hSqKPEU7bClEv1BwIG) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [mine](https://open.spotify.com/album/1eFSDXoY46ihpWU92EYROK) | 3:16 | 2024-10-14 | 2025-03-07 |
 | [Miscalculations](https://open.spotify.com/track/1LOAhDFL61ZOYcXeMS0LLM) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Tales of a Knight](https://open.spotify.com/album/6IH5H7UkprcZ3DA8vyrepk) | 3:13 | 2025-06-12 | 2025-11-21 |
 | [miss 'make it all about me'](https://open.spotify.com/track/7iIzMtUDTpGTW5AheUQOX9) | [daisy veacock](https://open.spotify.com/artist/3PCWmgzCD4eAIiVGMjBL1M) | [miss 'make it all about me'](https://open.spotify.com/album/3Xkqt5ENkoFphFukAc93SY) | 3:05 | 2025-06-19 | 2025-08-15 |
@@ -857,7 +858,6 @@
 | [Touch Me](https://open.spotify.com/track/0vAt0UiWhyWHDaQkbrjO5F) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Touch Me](https://open.spotify.com/album/0tcdyTBkSx24QyL8yaknrR) | 3:18 | 2026-01-30 | 2026-04-03 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-07-25 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-07-03 | 2025-09-19 |
-| [Track 6](https://open.spotify.com/track/33ljpH5mxnf6LAU96WtWiC) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Kizzy](https://open.spotify.com/album/2kQDQctLqaMMOnX84ZIzcw) | 0:00 | 2026-04-23 |  |
 | [trans](https://open.spotify.com/track/6CTCBZBkB6Lomh0akgkwjg) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [trans](https://open.spotify.com/album/2tQUu7ad2Yky6jLQkHMcH2) | 2:19 | 2026-01-30 | 2026-04-17 |
 | [Trash Cat](https://open.spotify.com/track/4SdjOfzmeev8BGkUmPLY7H) | [Salmon Cat](https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs) | [Trash Cat](https://open.spotify.com/album/7FV3ZITK4dAhp12GAezufE) | 1:38 | 2024-08-02 | 2024-08-23 |
 | [Treading Water](https://open.spotify.com/track/2vy2VwvIHGUowBOvyTb9gg) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Treading Water](https://open.spotify.com/album/48TTmFUOAmJNVUSNzdiMjr) | 3:04 | 2026-04-23 |  |

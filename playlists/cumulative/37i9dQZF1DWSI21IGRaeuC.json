@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 176851,
       "name": "3AM (don't stop)",
       "url": "https://open.spotify.com/track/7E2vmc2fH7oeqqrzii1CJ0"
@@ -2355,6 +2355,24 @@
     },
     {
       "album": {
+        "name": "break it down ep",
+        "url": "https://open.spotify.com/album/1Vs6reiLrRNg7OLtXqrQCZ"
+      },
+      "artists": [
+        {
+          "name": "Emery Bex",
+          "url": "https://open.spotify.com/artist/7DS0z5momEB8UbS6TxVhzZ"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215813,
+      "name": "break it down",
+      "url": "https://open.spotify.com/track/6TJe6kfG805OEhGYV74gt3"
+    },
+    {
+      "album": {
         "name": "Fascinator EP",
         "url": "https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR"
       },
@@ -2764,7 +2782,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 200108,
       "name": "Can't Touch Us",
       "url": "https://open.spotify.com/track/0YBVX1ceuGQoK8KxFimWYV"
@@ -5147,6 +5165,24 @@
     },
     {
       "album": {
+        "name": "Elevator",
+        "url": "https://open.spotify.com/album/46mVoYZJz2b6DoQtTRyb5K"
+      },
+      "artists": [
+        {
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128874,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/3zW2p2IIK885aOrjfDJEXv"
+    },
+    {
+      "album": {
         "name": "En El Alma",
         "url": "https://open.spotify.com/album/7CdzaH04OIHp6TMYYMy7NE"
       },
@@ -5850,6 +5886,24 @@
       "duration_ms": 238153,
       "name": "First Light",
       "url": "https://open.spotify.com/track/07Jz0As8Arxyk2Lv65Evhd"
+    },
+    {
+      "album": {
+        "name": "Fix It",
+        "url": "https://open.spotify.com/album/7qXPopiabkvOGzyUKHowgq"
+      },
+      "artists": [
+        {
+          "name": "Nat Kara",
+          "url": "https://open.spotify.com/artist/45JSk7XvIJijTo2Kc8Nzfj"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180117,
+      "name": "Fix It",
+      "url": "https://open.spotify.com/track/2P2hfZzVcEv3bUjC2E3AZX"
     },
     {
       "album": {
@@ -6837,6 +6891,28 @@
     },
     {
       "album": {
+        "name": "Special Technique EP",
+        "url": "https://open.spotify.com/album/1H6eWqIUo0goay5n417pVv"
+      },
+      "artists": [
+        {
+          "name": "Anton Yaz",
+          "url": "https://open.spotify.com/artist/4vSioEbBzyfpBIH0uSerR4"
+        },
+        {
+          "name": "Miliard",
+          "url": "https://open.spotify.com/artist/4oYcrfhWdekwRPt6xxQ87p"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345791,
+      "name": "Get Mellow",
+      "url": "https://open.spotify.com/track/4pND3hr7vGpCLeB7wcrIFi"
+    },
+    {
+      "album": {
         "name": "Get On",
         "url": "https://open.spotify.com/album/2QwpTrGUmPMcDZl950i0rd"
       },
@@ -7276,6 +7352,24 @@
       "duration_ms": 179260,
       "name": "Golly Molly",
       "url": "https://open.spotify.com/track/6KaOJegxT92jNSBTrVajKF"
+    },
+    {
+      "album": {
+        "name": "Eyes Closed EP",
+        "url": "https://open.spotify.com/album/4B2IiiaIswDxqagoScVW0F"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211022,
+      "name": "Gonna Let",
+      "url": "https://open.spotify.com/track/5jkcTZjDj6V8NXX19bpRwH"
     },
     {
       "album": {
@@ -7984,7 +8078,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 162461,
       "name": "Higher",
       "url": "https://open.spotify.com/track/4E31bS1PASvZNlDiga1zC2"
@@ -9503,6 +9597,28 @@
     },
     {
       "album": {
+        "name": "Zero Degrees EP",
+        "url": "https://open.spotify.com/album/5jat8eV8TZ8dIOzlLe00la"
+      },
+      "artists": [
+        {
+          "name": "Ozzie Guven",
+          "url": "https://open.spotify.com/artist/6VjxkdeZYfc1U2pC3JmwLy"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221818,
+      "name": "JUMP!",
+      "url": "https://open.spotify.com/track/0uscJhPkh7QDLz4u6iBbEk"
+    },
+    {
+      "album": {
         "name": "Jus Dance",
         "url": "https://open.spotify.com/album/19acIfXkwSpQlCxUjEgDiy"
       },
@@ -9540,7 +9656,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 259849,
       "name": "Just Be Good To Me",
       "url": "https://open.spotify.com/track/1j2rvXJXrFwzT8JXHTHFFJ"
@@ -10250,7 +10366,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 414045,
       "name": "Let's Take a Ride (Fly)",
       "url": "https://open.spotify.com/track/57IKHiW7dKdN9acYd6KgHW"
@@ -10836,7 +10952,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 193605,
       "name": "Louder",
       "url": "https://open.spotify.com/track/6Gk16Y5baO26U4hmIfQ5F2"
@@ -11962,7 +12078,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 218151,
       "name": "Murder Mystery - Kolter Remix",
       "url": "https://open.spotify.com/track/2VsZghkJD0CEmQJmZn5MWi"
@@ -12440,7 +12556,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 195243,
       "name": "No Hesitating - Max Dean Remix",
       "url": "https://open.spotify.com/track/4KlPVsyFKD3iUN3wzTu4eU"
@@ -14575,6 +14691,28 @@
     },
     {
       "album": {
+        "name": "Re-Bokk Robot (Wodda Remix)",
+        "url": "https://open.spotify.com/album/0Ht0tRiDl58wa0PDaA5bYV"
+      },
+      "artists": [
+        {
+          "name": "POSH! The Prince",
+          "url": "https://open.spotify.com/artist/4rNGolATKxQcFM59djG041"
+        },
+        {
+          "name": "Wodda",
+          "url": "https://open.spotify.com/artist/5zHkCDcsGZjznWnqsgTMRg"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Re-Bokk Robot - Wodda Remix Radio Edit",
+      "url": "https://open.spotify.com/track/4wFdh0z4bYVCvNOORGDBuB"
+    },
+    {
+      "album": {
         "name": "Ready For The Blues",
         "url": "https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL"
       },
@@ -14878,7 +15016,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 292906,
       "name": "Respect Yourself",
       "url": "https://open.spotify.com/track/7CtSMmGJQYPhvPBcxyW50K"
@@ -16032,6 +16170,32 @@
       "duration_ms": 198750,
       "name": "Show Them",
       "url": "https://open.spotify.com/track/46Wjjl8zw9TN4wd13jv3oc"
+    },
+    {
+      "album": {
+        "name": "Shugi",
+        "url": "https://open.spotify.com/album/0Mw788qY3AKIzqidKNX0vy"
+      },
+      "artists": [
+        {
+          "name": "antraum",
+          "url": "https://open.spotify.com/artist/0swXQmBdpOVEmrPc9QTfkr"
+        },
+        {
+          "name": "Traumer",
+          "url": "https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh"
+        },
+        {
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/6alymk3dYbCVzCwUdBHKII"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256875,
+      "name": "Shugi",
+      "url": "https://open.spotify.com/track/6Q5oAJz2KgZbWxOtXHCe8Z"
     },
     {
       "album": {
@@ -17944,6 +18108,24 @@
       "duration_ms": 373032,
       "name": "The Ciggie",
       "url": "https://open.spotify.com/track/1r8ZqfggYqW1R2JjiDGBQV"
+    },
+    {
+      "album": {
+        "name": "The Connection",
+        "url": "https://open.spotify.com/album/02N1bq4nfLRE1cfIBLOfnn"
+      },
+      "artists": [
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "The Connection",
+      "url": "https://open.spotify.com/track/3dlkgNR829PMYY7yM9fMlP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFimZsaMuv4.md) - [plain]
 
 > Cabin sleep noise and airplane sounds to help you drift away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,811 likes - 184 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,856 likes - 184 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFimZsaMuv4.md) - [plain]
 | 64 | [On Clouds](https://open.spotify.com/track/2UneuqCy8nRzNyAl8xuIDY) | [Casper White](https://open.spotify.com/artist/4weaxjLzThghACmvjNt9JT) | [White Magic](https://open.spotify.com/album/5ge7IkYrqpNu6A68ECyNcK) | 3:08 |
 | 65 | [White Noise in the Clouds](https://open.spotify.com/track/2cYODNM8lq8PcP1L0eQIM6) | [Zaestro](https://open.spotify.com/artist/6NRx8nUKXG8pYiL7AA4r0W) | [Relaxed State of Mind](https://open.spotify.com/album/4xYs7vQmlu7qFDVvy9BCcJ) | 3:54 |
 | 66 | [First Class Seat](https://open.spotify.com/track/6l6SGS4smW8UPk2KHAgUCB) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Brown Noise Relaxation](https://open.spotify.com/album/4ojM7wSFWCJPwlu52CTzLc) | 2:30 |
-| 67 | [Lo\-Air 200 Hz](https://open.spotify.com/track/0ugO16i5v9dKCO5g5S5itQ) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Brown Noise Calm Mind](https://open.spotify.com/album/4ZOzVlm2vNDejWHk9tz0H7) | 2:44 |
+| 67 | [Lo\-Air 200 Hz](https://open.spotify.com/track/0ugO16i5v9dKCO5g5S5itQ) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Brown Noise Calm Mind](https://open.spotify.com/album/4ZOzVlm2vNDejWHk9tz0H7) | 2:44 |
 | 68 | [Cabin Noise Focus](https://open.spotify.com/track/2CYVLIwBHrF2e0C63nPiSs) | [XL Noise Factory](https://open.spotify.com/artist/4E9wpcO4hg9Pkd61RzWYkv) | [XL Pink Noise](https://open.spotify.com/album/7vKkd6YadyH1rwfZWzm2e7) | 2:09 |
 | 69 | [White Noise in the Sleep Cabin](https://open.spotify.com/track/3yqWGh0pH6AhXKiHcAkl6P) | [Haworth in White](https://open.spotify.com/artist/6Z8jsYd7S1YwIhn72j9xqK) | [White Noise through the Trees](https://open.spotify.com/album/3w1s8W9GDB94A1BkZzQ1dl) | 4:31 |
 | 70 | [The Deep White](https://open.spotify.com/track/0qaFcuTx3BEEu4ZSaKCfiu) | [Taekoma](https://open.spotify.com/artist/2T7PXFO7TnyryQ8dvpD9Di) | [The Deep White](https://open.spotify.com/album/5I2zI1uaNWKCgyvY6VhbO4) | 3:08 |
@@ -166,7 +166,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFimZsaMuv4.md) - [plain]
 | 156 | [Nearly Airborne White Noise](https://open.spotify.com/track/32hBRl0XPNsRkNB2Mh1msR) | [Oroshi](https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh) | [Nearly Airborne White Noise](https://open.spotify.com/album/0bTySm8Hxt9r2cSozFrfdi) | 2:57 |
 | 157 | [Pink Cloud Nine](https://open.spotify.com/track/7o4bNY3FD413QkOw1kc3zj) | [Pink Noise Orchestra](https://open.spotify.com/artist/5ArL02BGaSy7C4lrXl9U0s) | [Pink Noise Lullaby](https://open.spotify.com/album/4x6m8vrXN3PI9JBzSxTNu7) | 2:06 |
 | 158 | [White Noise in Airplane Cockpit](https://open.spotify.com/track/63kIiBMX8i66LZOcB08a5P) | [White Noise Android](https://open.spotify.com/artist/11AY1VUDrlYvE0skhsjZQd) | [Slow Moving White Noise](https://open.spotify.com/album/6z48ve8tBIyUrj22tKTNzJ) | 4:20 |
-| 159 | [Quiet Constant Tone \(White Noise\)](https://open.spotify.com/track/1IXVA11VTBn8s7XMXWiod2) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 4:16 |
+| 159 | [Quiet Constant Tone \(White Noise\)](https://open.spotify.com/track/1IXVA11VTBn8s7XMXWiod2) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 4:16 |
 | 160 | [Cloudy Noise](https://open.spotify.com/track/1S5qPZtcjmF71z6TLYwFIC) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Comfy White Noise](https://open.spotify.com/album/4nLZbdLOk3kXPam0Q9S8Tm) | 2:20 |
 | 161 | [Draggy White Noise](https://open.spotify.com/track/0ohmRdDdzojvYGDLTVxj0a) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Draggy White Noise](https://open.spotify.com/album/6RAfchUJLOleKFhhSgFsmu) | 4:22 |
 | 162 | [White Noise high up in the sky](https://open.spotify.com/track/6qShKDqCQXr2YghSCeToHN) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [White Noise underneath the blanket](https://open.spotify.com/album/3fIiuWNzuTFTdmGTRIiwH2) | 4:04 |

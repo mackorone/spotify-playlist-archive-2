@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The wave of Latin Electronic music. Cover: Feid & John Summit",
+  "description": "The wave of Latin Electronic music. Cover: Deorro",
   "name": "mint Latin",
   "tracks": [
     {
@@ -1251,6 +1251,28 @@
     },
     {
       "album": {
+        "name": "CAKE",
+        "url": "https://open.spotify.com/album/7bcDwLhD81dSgcTNtAciVG"
+      },
+      "artists": [
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        },
+        {
+          "name": "Lloyd P-White",
+          "url": "https://open.spotify.com/artist/2aeCJuZIBiTNnuWaTCkKhZ"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "CAKE",
+      "url": "https://open.spotify.com/track/0d59wW9BrKmoVNJc6dCyg7"
+    },
+    {
+      "album": {
         "name": "Caliente",
         "url": "https://open.spotify.com/album/3NXuWjKu5DiJ5tXL7tREdH"
       },
@@ -1700,7 +1722,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 174555,
       "name": "Como La Flor",
       "url": "https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR"
@@ -2376,7 +2398,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 145888,
       "name": "EL CAGAZON",
       "url": "https://open.spotify.com/track/5yrz6gKRUXeM8pqPDwVdF0"
@@ -2402,6 +2424,28 @@
       "duration_ms": 183632,
       "name": "El Desmadre",
       "url": "https://open.spotify.com/track/1zwRQs7NKRvuIZ6f3VLXkE"
+    },
+    {
+      "album": {
+        "name": "BOTAS & RAVE",
+        "url": "https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Voces Del Rancho",
+          "url": "https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232755,
+      "name": "EL FEO",
+      "url": "https://open.spotify.com/track/1mN3jlQ8zXZvGAaSW8hCAq"
     },
     {
       "album": {
@@ -2472,7 +2516,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 367741,
       "name": "El Rat\u00f3n (Jay Fase Remix)",
       "url": "https://open.spotify.com/track/3vkmRV8jk6OxcDWiyFBHug"
@@ -2936,7 +2980,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 213333,
       "name": "Fiesta En La Ciudad (feat. KRZ & Diana Landa)",
       "url": "https://open.spotify.com/track/1Gu7K4GKdUdfkVewxeKHhl"
@@ -5739,6 +5783,50 @@
     },
     {
       "album": {
+        "name": "Motopirueta",
+        "url": "https://open.spotify.com/album/7Mh5CV3rCBH7fM3ybHztfF"
+      },
+      "artists": [
+        {
+          "name": "Soucream",
+          "url": "https://open.spotify.com/artist/52aOUaCckb2h6cjxsIr6LT"
+        },
+        {
+          "name": "Mazzarri",
+          "url": "https://open.spotify.com/artist/5oMID6T6cW3OhZrWIDW3I9"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209914,
+      "name": "Motopirueta",
+      "url": "https://open.spotify.com/track/3HbfYqqjNzEpilXhPKSjzO"
+    },
+    {
+      "album": {
+        "name": "Move Like That",
+        "url": "https://open.spotify.com/album/30SwUIylcu9P5bYdJ6l4mT"
+      },
+      "artists": [
+        {
+          "name": "BOLO THE DJ",
+          "url": "https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7"
+        },
+        {
+          "name": "Close Friends Only",
+          "url": "https://open.spotify.com/artist/12TskTYVyjY7GU8v6niFoz"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175598,
+      "name": "Move Like That",
+      "url": "https://open.spotify.com/track/5eOX9mAXxkfWCq5LLVAIje"
+    },
+    {
+      "album": {
         "name": "Move My Body",
         "url": "https://open.spotify.com/album/4eN2F7PziOdoE8ORkEbuQT"
       },
@@ -7188,7 +7276,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 172827,
       "name": "Plata",
       "url": "https://open.spotify.com/track/5sxvPLgO5OfHvRi8ZU3BM0"
@@ -8229,6 +8317,28 @@
     },
     {
       "album": {
+        "name": "Sorry Papi",
+        "url": "https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170671,
+      "name": "Sorry Papi",
+      "url": "https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk"
+    },
+    {
+      "album": {
         "name": "Soy As\u00ed (Summer Mix)",
         "url": "https://open.spotify.com/album/2canxUfytOjMJVfmSbFCRp"
       },
@@ -8548,6 +8658,24 @@
       "duration_ms": 178758,
       "name": "Te Veo",
       "url": "https://open.spotify.com/track/3laWUnkDJf8UGMI82y9w7j"
+    },
+    {
+      "album": {
+        "name": "Te Waa Robar",
+        "url": "https://open.spotify.com/album/1PHRXciXgcez1CyhdeRl96"
+      },
+      "artists": [
+        {
+          "name": "Marbo",
+          "url": "https://open.spotify.com/artist/2WywVBP6iJXKjisMuQtKJe"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150254,
+      "name": "Te Waa Robar",
+      "url": "https://open.spotify.com/track/3WATAuFy4DCgq9w38HXhoH"
     },
     {
       "album": {
@@ -9030,7 +9158,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 190613,
       "name": "TURBINA",
       "url": "https://open.spotify.com/track/0rzvrAIOOLq1BlOfmfluY3"

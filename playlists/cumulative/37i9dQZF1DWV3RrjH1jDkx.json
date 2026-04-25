@@ -23831,6 +23831,24 @@
     },
     {
       "album": {
+        "name": "Born To Die",
+        "url": "https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165597,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX"
+    },
+    {
+      "album": {
         "name": "Born To Love Ya",
         "url": "https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo"
       },
@@ -56438,7 +56456,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 141497,
-      "name": "Fantasy (ft. COBRAH)",
+      "name": "Fantasy (ft. Cobrah)",
       "url": "https://open.spotify.com/track/6CwBTCg35UfkyjJ7BB6c9U"
     },
     {
@@ -58916,6 +58934,28 @@
       "duration_ms": 166549,
       "name": "Fine Before You",
       "url": "https://open.spotify.com/track/5z9e7FstrSJt1hVigI9Sdq"
+    },
+    {
+      "album": {
+        "name": "Fine Damer (Turbulens)",
+        "url": "https://open.spotify.com/album/3KBtIzJHCu6UDp8T423CBq"
+      },
+      "artists": [
+        {
+          "name": "Knut",
+          "url": "https://open.spotify.com/artist/2jUfl3dnhE9YY6IjEwow7I"
+        },
+        {
+          "name": "PICA$$O",
+          "url": "https://open.spotify.com/artist/3xcP2nuPKxBeS5Lpzf4Np1"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151211,
+      "name": "Fine Damer (Turbulens)",
+      "url": "https://open.spotify.com/track/1BqeWkcldNaxmyLjCOA0Xb"
     },
     {
       "album": {
@@ -87212,6 +87252,28 @@
       "duration_ms": 197625,
       "name": "I Can't Hide",
       "url": "https://open.spotify.com/track/7Eoihn84hHSlK592ZzG6to"
+    },
+    {
+      "album": {
+        "name": "I Can't Love You Anymore",
+        "url": "https://open.spotify.com/album/5BFfobflVIOwebqy5RtBcP"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228836,
+      "name": "I Can't Love You Anymore",
+      "url": "https://open.spotify.com/track/5aVBxVa0kz9uzv0F4gwdEn"
     },
     {
       "album": {
@@ -167325,7 +167387,7 @@
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 159183,
+      "duration_ms": 156847,
       "name": "Status",
       "url": "https://open.spotify.com/track/0mhsB3IaPchcvhLyaMx309"
     },

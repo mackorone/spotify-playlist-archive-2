@@ -1,12 +1,12 @@
 {
   "description": "there's gonna be one less lonely girl",
-  "num_followers": 44855,
+  "num_followers": 45253,
   "original_name": "girlhood ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG4xibdHPE94/v8uy47EEMize5MX",
+  "snapshot_id": "AAAAAMBrnywrfMEZ12slXHdFPBlvOSf0",
   "tracks": [
     {
       "added_at": "2026-04-20 15:31:31",
@@ -39,6 +39,26 @@
       "duration_ms": 183237,
       "name": "iloveitiloveitiloveit",
       "url": "https://open.spotify.com/track/0vVel80XRhw0LuSQucKMui"
+    },
+    {
+      "added_at": "2026-04-24 04:01:45",
+      "album": {
+        "name": "Kingmaker (with Julia Michaels)",
+        "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "Kingmaker (with Julia Michaels)",
+      "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
     },
     {
       "added_at": "2026-04-20 15:31:31",
@@ -327,22 +347,6 @@
       "duration_ms": 159595,
       "name": "4EVER",
       "url": "https://open.spotify.com/track/26yohWYLPKCCP7X7rwKedJ"
-    },
-    {
-      "added_at": "2026-04-20 15:31:31",
-      "album": {
-        "name": "Somersault Queen",
-        "url": "https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm"
-      },
-      "artists": [
-        {
-          "name": "Ruby Roberts",
-          "url": "https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD"
-        }
-      ],
-      "duration_ms": 245336,
-      "name": "My Endeavour",
-      "url": "https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB"
     },
     {
       "added_at": "2026-04-20 15:31:31",

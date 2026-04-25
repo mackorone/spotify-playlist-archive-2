@@ -1,13 +1,33 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1080,
+  "num_followers": 1082,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFQNfXn4Ceuu4i9LmryHVn6GOgx/2o",
+  "snapshot_id": "AAAFQ2doCKKBYvrg/AFTHDqrIwNYo3im",
   "tracks": [
+    {
+      "added_at": "2026-04-24 23:30:24",
+      "album": {
+        "name": "I Never Feel Alone",
+        "url": "https://open.spotify.com/album/54gZFxZWc8Flx4hWmjYaoE"
+      },
+      "artists": [
+        {
+          "name": "Frizk",
+          "url": "https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K"
+        },
+        {
+          "name": "snuffles",
+          "url": "https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "I Never Feel Alone",
+      "url": "https://open.spotify.com/track/11mf7BvMAcOuFodbkFnqLE"
+    },
     {
       "added_at": "2026-04-23 22:00:47",
       "album": {
@@ -23,6 +43,26 @@
       "duration_ms": 295636,
       "name": "The Air That You And I Breathe Is Not The Same - ECLIPSED",
       "url": "https://open.spotify.com/track/46pdXv8YDVVPk558tchreU"
+    },
+    {
+      "added_at": "2026-04-24 21:05:18",
+      "album": {
+        "name": "RAVEPOP REMIXES (Preview)",
+        "url": "https://open.spotify.com/album/62lFgUk9Wh4Uh17xqmf3uD"
+      },
+      "artists": [
+        {
+          "name": "r u s s e l b u c k",
+          "url": "https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2"
+        },
+        {
+          "name": "Ricco Harver",
+          "url": "https://open.spotify.com/artist/4Ztb8vJUtyHjWDSbOZ1GIn"
+        }
+      ],
+      "duration_ms": 139862,
+      "name": "EAT YOU UP! - Ricco Harver Remix",
+      "url": "https://open.spotify.com/track/75gCrv8FPUVshSw5w98NHp"
     },
     {
       "added_at": "2026-04-15 18:25:06",

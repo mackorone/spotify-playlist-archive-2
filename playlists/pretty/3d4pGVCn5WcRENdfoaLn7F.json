@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 639,
+  "num_followers": 642,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADVzg4l62cwk3gxXzguRq+OK7N/Hz3",
+  "snapshot_id": "AAADWMWpwR+lCDA8OrNbF+TsUpn//+eJ",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1491,6 +1491,22 @@
       "duration_ms": 197146,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/7pCxiJ03tUx5u1ZkaUIsT0"
+    },
+    {
+      "added_at": "2026-04-24 17:08:01",
+      "album": {
+        "name": "False Prophet",
+        "url": "https://open.spotify.com/album/29bErY1NGaYrHjmNIMvX7x"
+      },
+      "artists": [
+        {
+          "name": "Holy Island",
+          "url": "https://open.spotify.com/artist/4mDskLBS4JOyI52mzQ9H5m"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "False Prophet",
+      "url": "https://open.spotify.com/track/3wE5xlV9u7L91aa7KfknwG"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

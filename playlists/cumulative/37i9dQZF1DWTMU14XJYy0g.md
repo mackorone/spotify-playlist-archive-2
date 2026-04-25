@@ -4,7 +4,7 @@
 
 > Más vivo que nunca, más nuestro que siempre 📸 Juanse
 
-451 songs - 1 day 3 hr 57 min
+452 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Gauchito](https://open.spotify.com/track/6oX7qoA3Hfv3PrpypeSlx7) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Único y Nuestro](https://open.spotify.com/album/1pWO58Hg05C5nhlgKEcxdH) | 3:43 | 2025-09-05 |  |
 | [Goodbye Adiós](https://open.spotify.com/track/60Cohjy8lgh1jIkTpGz9S1) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Goodbye Adiós](https://open.spotify.com/album/72kYZH666UwSHVBTw0zL8f) | 3:31 | 2022-08-05 | 2023-10-06 |
 | [Gris Analgésico](https://open.spotify.com/track/68OwDpAxaUgrh3J1nR1hYq) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4), [Las Paritarias](https://open.spotify.com/artist/4smUEMQno7Z1EYuz9A1HjK) | [Gris Analgésico](https://open.spotify.com/album/5HTNiFaAVKqa4FX9xFQBad) | 3:53 | 2025-02-07 | 2025-04-26 |
+| [Guerrero](https://open.spotify.com/track/3ChYPpfRYezxGMAIEGuJ0o) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04), [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Viaje 20 Años](https://open.spotify.com/album/6eDW35cJsD69VBDyWPE6gh) | 3:18 | 2026-04-24 |  |
 | [Hablar de Flores](https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Hablar de Flores](https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7) | 3:09 | 2024-05-10 | 2025-03-08 |
 | [Hacerlo Bien](https://open.spotify.com/track/0hJBuCIq43WYZgZQ9A3Aq7) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Hacerlo Bien](https://open.spotify.com/album/2H73ICOxIxQAbAetEg70Qm) | 4:09 | 2023-10-13 | 2024-04-27 |
 | [Harto](https://open.spotify.com/track/381VNDFzOnJulI6qTS5rTm) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Harto](https://open.spotify.com/album/4jN5OvGwHl6aYZxVlMjJgw) | 4:07 | 2025-11-14 |  |
@@ -417,7 +418,7 @@
 | [Todo Sigue Igual](https://open.spotify.com/track/0bt0OX02AIKSczy1taXlDC) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Todo Sigue Igual](https://open.spotify.com/album/4AACc6XDAsXQiJfU4ZCxzk) | 3:20 | 2024-11-15 | 2025-08-02 |
 | [Todos los Vientos](https://open.spotify.com/track/6xi1npz5rpEhOtEg1LHKUG) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Todos los Vientos](https://open.spotify.com/album/1hdoOfhsWQ05avZZunec0C) | 3:47 | 2022-06-24 | 2022-08-06 |
 | [Tomás](https://open.spotify.com/track/1ZiuyoMWd7BS1Xp8nm6gGs) | [Lucía Bossa](https://open.spotify.com/artist/5RYUaJybe2gOXQJURadkdl) | [Tomás](https://open.spotify.com/album/5WAo4Y0yMlJxiJMeUj0rvk) | 2:39 | 2025-02-21 | 2025-06-14 |
-| [Tormentón](https://open.spotify.com/track/7yWUqFK4tWYH3J7HSSzEm0) | [La Medianera](https://open.spotify.com/artist/75DO8anWSqwceTHoXKSEKR), [SEVANDER](https://open.spotify.com/artist/2mC1hKeg2XwGITlzQmupS8) | [Tormentón](https://open.spotify.com/album/5xRvU7dse3mY4cd32mrz9t) | 3:33 | 2024-10-04 |  |
+| [Tormentón](https://open.spotify.com/track/7yWUqFK4tWYH3J7HSSzEm0) | [La Medianera](https://open.spotify.com/artist/75DO8anWSqwceTHoXKSEKR), [SEVANDER](https://open.spotify.com/artist/2mC1hKeg2XwGITlzQmupS8) | [Tormentón](https://open.spotify.com/album/5xRvU7dse3mY4cd32mrz9t) | 3:33 | 2024-10-04 | 2026-04-25 |
 | [TRAS](https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:59 | 2023-06-02 | 2023-09-27 |
 | [Trinchera](https://open.spotify.com/track/5gGQIro4l0L55dfk85WxUP) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera \- Single](https://open.spotify.com/album/7e6wpR5m0K1S3cWkDGQEBm) | 3:20 | 2022-09-02 | 2023-09-27 |
 | [Tu buen amor](https://open.spotify.com/track/30vfQShBGylqKudc19bfbP) | [Andando Descalzo](https://open.spotify.com/artist/6NHW6BsssESLzyucE7DFId), [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Paradójico](https://open.spotify.com/album/6CTGtVDOt5f5u6sV37qK4B) | 3:54 | 2024-08-16 |  |

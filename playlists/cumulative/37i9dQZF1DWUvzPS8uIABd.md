@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-963 songs - 2 day 0 hr 2 min
+964 songs - 2 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,7 @@
 | [kun joskus en muista](https://open.spotify.com/track/1Gp19g5YxFjMkU95DbsJhW) | [emmi lorentzen](https://open.spotify.com/artist/11qrI1NOKcoogzUwXdAHtz) | [kun joskus en muista](https://open.spotify.com/album/3uPLeYP2pyFQdKzYEZi2uu) | 3:12 | 2026-03-26 | 2026-04-03 |
 | [kun pihalla kukkii \(feat\. fibi\)](https://open.spotify.com/track/5CJojY7iFfobijezabjWUR) | [Pesso](https://open.spotify.com/artist/4YfzUV6h9GosDhtdLkwGwN), [fibi](https://open.spotify.com/artist/3ZzkX4rxGFuxbIaavXhWoo) | [kun pihalla kukkii \(feat\. fibi\)](https://open.spotify.com/album/3pd4ZnjZZZOcnPbln7WEDL) | 3:09 | 2025-09-04 | 2025-09-19 |
 | [Kun rauhoitun](https://open.spotify.com/track/7ApRZvQU79NXrfDKRr3eYT) | [Irina](https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W) | [Kun rauhoitun](https://open.spotify.com/album/6qFGNHC5Bp2o1sta556Fjt) | 4:31 | 2025-02-13 | 2025-04-25 |
-| [Kun tulee pimee](https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [Kun tulee pimee](https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt) | 2:45 | 2026-02-05 |  |
+| [Kun tulee pimee](https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [Kun tulee pimee](https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt) | 2:45 | 2026-02-05 | 2026-04-25 |
 | [Kuningasidea](https://open.spotify.com/track/3bmM0j4a1IstLoo09CX75d) | [Kuningasidea](https://open.spotify.com/artist/7EuXVmTcFfpvmFbi1CTctP) | [Kuningasidea](https://open.spotify.com/album/4a1yzEatpxd5U8VkejI3eW) | 3:25 | 2025-01-09 | 2025-03-07 |
 | [Kunnes sammutaan \(Vain elämää kausi 16\)](https://open.spotify.com/track/6dbYxywDRYRwgp6ZqoEhlb) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Kunnes sammutaan \(Vain elämää kausi 16\)](https://open.spotify.com/album/41SN3xgzZPqniqQXreTZcA) | 2:39 | 2025-10-23 | 2025-10-31 |
 | [KUOLEMATON](https://open.spotify.com/track/7nTx12Fpr61t8Y6ykd5AmK) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [KUOLEMATON / ROTTA \(feat\. ibe\)](https://open.spotify.com/album/2tRQChArCEBOyEP8vEm36r) | 2:49 | 2025-04-10 | 2025-05-23 |
@@ -749,6 +749,7 @@
 | [Sun tyttö](https://open.spotify.com/track/2jdzwygTOKriMLTilBhhcB) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Sun tyttö](https://open.spotify.com/album/3sn0vIRq13oKCgdz6WaPJ9) | 3:50 | 2025-07-03 | 2025-09-19 |
 | [Suojelusenkeli](https://open.spotify.com/track/1ZgwRef9Mj0dkprKJS6AeZ) | [Jenni & Juho](https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp) | [Suojelusenkeli](https://open.spotify.com/album/56nvmCs4tWDZbK8SZCTTSR) | 2:47 | 2025-02-06 | 2025-03-07 |
 | [Suomalainen Superstara](https://open.spotify.com/track/4S61u0InVCx79RqYYMLTgC) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0), [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Suomalainen Superstara](https://open.spotify.com/album/7tLEy14aDUE1SQNd7yMQyW) | 3:02 | 2024-08-15 | 2024-11-22 |
+| [Suomi Finland perkele](https://open.spotify.com/track/5VV9zMFwf0QMorDUKzPhZJ) | [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn) | [Suomi Finland perkele](https://open.spotify.com/album/3OEnpGBtLtzvP2kJWpnWcY) | 3:01 | 2026-04-23 |  |
 | [Suomileijona](https://open.spotify.com/track/2VrulJUteGq31RtnshZ495) | [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Suomileijona](https://open.spotify.com/album/4zPKNrGSYD766Dyr8jAsf5) | 2:38 | 2025-02-27 | 2025-03-14 |
 | [Suomineito](https://open.spotify.com/track/188EnbTWzh3gJPEo5gzvwF) | [Olli Halonen](https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts) | [Suomineito](https://open.spotify.com/album/5XnhtzHxPX9sVTkZ6tFIxx) | 2:59 | 2025-04-03 | 2025-06-20 |
 | [Supermalli](https://open.spotify.com/track/0aLV2IaAn79c588GyX2udS) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT), [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub), [Victor Nordis](https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp) | [Supermalli](https://open.spotify.com/album/0bu0wwgLUGXvmqDV4LSbvD) | 3:01 | 2025-06-26 | 2025-08-15 |

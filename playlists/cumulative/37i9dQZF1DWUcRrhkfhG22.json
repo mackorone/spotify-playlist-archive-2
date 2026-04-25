@@ -1578,7 +1578,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 433493,
       "name": "Nunk - New Wave Funk",
       "url": "https://open.spotify.com/track/5BVXwRFMuybkl3X1hRWZ53"
@@ -1908,6 +1908,40 @@
       "duration_ms": 215840,
       "name": "So Ruff, so Tuff",
       "url": "https://open.spotify.com/track/3k0Jp5IYHtBeSNKUEOqE0i"
+    },
+    {
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1uzgm9GOXjEFOdg8y9aAyh"
+      },
+      "artists": [
+        {
+          "name": "FK&M",
+          "url": "https://open.spotify.com/artist/0QEY4d9rhrxTR8nMdudJ0y"
+        },
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        },
+        {
+          "name": "Keith Staten",
+          "url": "https://open.spotify.com/artist/1p94IpPWGRqcNsAmzCtnWe"
+        },
+        {
+          "name": "Marcus Cole",
+          "url": "https://open.spotify.com/artist/2bijKkJaOp4tSJASryiJNB"
+        },
+        {
+          "name": "Mr. Talkbox",
+          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238840,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/4GPjOTUczRPWGp07NzFWqf"
     },
     {
       "album": {

@@ -7017,6 +7017,24 @@
     },
     {
       "album": {
+        "name": "Something Worth Waiting For",
+        "url": "https://open.spotify.com/album/188WRkngMxrMTVmeWKp3yG"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226052,
+      "name": "Guess",
+      "url": "https://open.spotify.com/track/3u0CuoVA8qsqnRFrN6grPi"
+    },
+    {
+      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/6sOmBkyGWJpzR04C7U7BZE"
       },

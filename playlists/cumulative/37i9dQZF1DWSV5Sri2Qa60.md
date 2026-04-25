@@ -4,7 +4,7 @@
 
 > Where your new favourite bands are discovered\. Cover: THEATRE
 
-342 songs - 20 hr 3 min
+344 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Stroom](https://open.spotify.com/track/2c2x2KQdf8vTi0WlENNHXQ) | [Green Gardens](https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO) | [Stroom](https://open.spotify.com/album/2n2FkT870hnN8lryVswMyK) | 1:57 | 2025-05-30 | 2025-07-18 |
 | [Struck](https://open.spotify.com/track/0AFajg4fi2mIxO0CSBBIp5) | [Saloon Dion](https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU) | [Struck](https://open.spotify.com/album/6t6lxXJQyFJgSXfbWNtvOR) | 3:28 | 2024-06-14 | 2024-07-13 |
 | [Stuck](https://open.spotify.com/track/0Xw6rMmiaOr0CWTJGQJIJr) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Stuck](https://open.spotify.com/album/7zvnJfzs5OaYCm7B7IOWCF) | 4:06 | 2025-03-17 | 2025-08-08 |
+| [Sun & Moon](https://open.spotify.com/track/7dbd8sxYFVPgIf5Mm2buyt) | [NECKBREAKERS](https://open.spotify.com/artist/1kjfLF0nj4tofaBOpjoHO2) | [Sun & Moon](https://open.spotify.com/album/0jtXs5aFlTgCqHr1D7Ng3h) | 3:42 | 2026-04-24 |  |
 | [Sunshine](https://open.spotify.com/track/2xpYx5IBYjLbApxEORAWsp) | [Balancing Act](https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6) | [Sunshine](https://open.spotify.com/album/1k76QxrouaepTbU0204IQX) | 3:27 | 2026-01-16 |  |
 | [Surface Level Kicks](https://open.spotify.com/track/44O78qLokFH4q8EnqKdiS9) | [common goldfish](https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F) | [Surface Level Kicks](https://open.spotify.com/album/5hJOhDXz2swoO5Cswg24pw) | 3:29 | 2024-09-13 | 2025-02-14 |
 | [Surrender](https://open.spotify.com/track/383sR9dPZ2SwPoKrNfRnQm) | [Qlowski](https://open.spotify.com/artist/1IhMuqG9tnQDPmiOkdOaQ4) | [Surrender](https://open.spotify.com/album/1Fyc10uv4bNsdjrl6yZND5) | 3:43 | 2024-10-06 | 2025-03-18 |
@@ -336,6 +337,7 @@
 | [Watching Over Me](https://open.spotify.com/track/7C3gStt8d7SxtB28gxrM06) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Watching Over Me](https://open.spotify.com/album/2rqFQX6IDwpIXZEqg3Fqwp) | 2:16 | 2026-01-16 | 2026-03-28 |
 | [Wearing Faces](https://open.spotify.com/track/1VBuq23g66KF7AWQwDxlfg) | [Human Interest](https://open.spotify.com/artist/7whqwnuFmUxP5ZdBzyFsKc) | [Smile While You're Losing](https://open.spotify.com/album/33I0BwTfQ5VM5UZr1ob7XZ) | 3:22 | 2024-09-06 | 2025-01-23 |
 | [what a waste of time](https://open.spotify.com/track/4bZXjpjLdytNUg5zn1l1Hj) | [wonderbug](https://open.spotify.com/artist/263EFLwSXgDl3y1vdZiDKk) | [what a waste of time](https://open.spotify.com/album/3V74J7KsAxMTYGptaF76EK) | 3:49 | 2024-10-06 | 2025-03-18 |
+| [WHAT IF PHONES BUT TOO MUCH](https://open.spotify.com/track/5L5fXbJCVK6Ibu25SIa6Ry) | [WIDGET](https://open.spotify.com/artist/6HTVZ0zfUDlSVz6TcRfH1U) | [CLASSY HITS VOL.2](https://open.spotify.com/album/7inZFNGutNVY6i5e49EuCa) | 2:23 | 2026-04-24 |  |
 | [whisky](https://open.spotify.com/track/073kMVL2ZeSKH5X6ONdKXh) | [DBA!](https://open.spotify.com/artist/63sv2157LiQM4j3aTSkayw) | [whisky](https://open.spotify.com/album/5GDenBH8gcUqvSB36i4Bpj) | 1:50 | 2025-02-14 | 2025-05-16 |
 | [WHITE NOISE](https://open.spotify.com/track/5HT8TOYAhw3sfvqZowrVMH) | [Monster Florence](https://open.spotify.com/artist/2HSKYZUpx7rynGKcOI46e9) | [WHITE NOISE](https://open.spotify.com/album/1Ed7eYD0Z6o1BZU5p5mjtd) | 3:12 | 2025-05-01 | 2025-07-18 |
 | [Why](https://open.spotify.com/track/3ChcaaT5urGKwbNk6Xr8ko) | [Y](https://open.spotify.com/artist/3Lj9IhE3QFZJo2N2RcQ7Ih) | [Why](https://open.spotify.com/album/77XPxlBWq02sddg7jXYCJB) | 3:02 | 2025-02-07 | 2025-07-18 |

@@ -4073,6 +4073,24 @@
     },
     {
       "album": {
+        "name": "Gently Asleep",
+        "url": "https://open.spotify.com/album/6hjIIn09xphfL5nJQ6KlLv"
+      },
+      "artists": [
+        {
+          "name": "Luma Tide",
+          "url": "https://open.spotify.com/artist/0jKvQZl4JrLczwaD8WKzy6"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99791,
+      "name": "Gently Asleep",
+      "url": "https://open.spotify.com/track/28kvPMTrRdHYSpj8BRBtlo"
+    },
+    {
+      "album": {
         "name": "Gently Cradle",
         "url": "https://open.spotify.com/album/36H11bkZQLUreavU491N7w"
       },
@@ -4426,7 +4444,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 127000,
       "name": "Green Grass",
       "url": "https://open.spotify.com/track/4lCwzwGz9D5BoxHKsyMBVJ"
@@ -4750,7 +4768,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 119000,
       "name": "Heart Of Gold",
       "url": "https://open.spotify.com/track/0MDpvtbdWeLZPw1kpynlry"
@@ -7443,6 +7461,24 @@
     },
     {
       "album": {
+        "name": "Moon Garden",
+        "url": "https://open.spotify.com/album/6sc2Xwl7VzfKUZzfvx1aVV"
+      },
+      "artists": [
+        {
+          "name": "Oneroi",
+          "url": "https://open.spotify.com/artist/4YxbSmXrNBxz3Dz9THyMjx"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84500,
+      "name": "Moon Garden",
+      "url": "https://open.spotify.com/track/6NiHV6HauOKTMTXvXvNY6X"
+    },
+    {
+      "album": {
         "name": "Moon Hug",
         "url": "https://open.spotify.com/album/6i3vjCeFyLxr4d8ApEis5h"
       },
@@ -8394,6 +8430,24 @@
       "duration_ms": 194185,
       "name": "Night Comfort - Piano",
       "url": "https://open.spotify.com/track/3fPOBNNlM8cD2zzqpZNdN7"
+    },
+    {
+      "album": {
+        "name": "Nightfall Reverie",
+        "url": "https://open.spotify.com/album/10CRlpaI8kw4MgnBP2qPoy"
+      },
+      "artists": [
+        {
+          "name": "Louis Nightwell",
+          "url": "https://open.spotify.com/artist/5WRjnuBa3Mb72trcgevQxW"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106153,
+      "name": "Nightfall Reverie",
+      "url": "https://open.spotify.com/track/1WPZi0PFeXpruzbFcvJyeT"
     },
     {
       "album": {
@@ -13218,6 +13272,24 @@
       "duration_ms": 141000,
       "name": "Umbrella for Two",
       "url": "https://open.spotify.com/track/6c4kqvZuy6zutHoawVZcz5"
+    },
+    {
+      "album": {
+        "name": "Under a Tall Tree",
+        "url": "https://open.spotify.com/album/1DgDlRL7WcLM9yUH24xso3"
+      },
+      "artists": [
+        {
+          "name": "Milo Ryd\u00e9n",
+          "url": "https://open.spotify.com/artist/4sqx7aUPjUOj4nG9W1O0qp"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129750,
+      "name": "Under a Tall Tree",
+      "url": "https://open.spotify.com/track/7wwhe5wyWF23B9kkQR2SXS"
     },
     {
       "album": {

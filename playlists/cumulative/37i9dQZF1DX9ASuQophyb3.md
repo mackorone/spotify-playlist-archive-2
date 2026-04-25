@@ -4,7 +4,7 @@
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Ersay Üner
 
-607 songs - 1 day 7 hr 26 min
+608 songs - 1 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,6 +489,7 @@
 | [Sor Bana](https://open.spotify.com/track/4VR2HssvJFXCyaZQchcXJy) | [Feride Hilal Akın](https://open.spotify.com/artist/2dLBhX7dIdWL6Fsk9l0n1n) | [Sor Bana](https://open.spotify.com/album/110eedqqHFMiIWFL1eaKxW) | 2:28 | 2025-09-25 | 2025-10-10 |
 | [Sus Konuşma](https://open.spotify.com/track/4qInXcpSFRESnLTub8oD6J) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Sus Konuşma](https://open.spotify.com/album/2GNX1V9mSTmBmUXe3SkQA0) | 3:39 | 2026-04-02 | 2026-04-17 |
 | [Susmayı Öğrendim](https://open.spotify.com/track/3lfvzkMQXnmaQLGiwRfAPi) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Susmayı Öğrendim](https://open.spotify.com/album/6jgyRe0ZVR4xdimu9ned2V) | 3:16 | 2025-10-16 | 2025-11-21 |
+| [Suçlu 2 Kişi](https://open.spotify.com/track/7lziKxEEEx0yo5L3s5fPUY) | [Funda Gürses](https://open.spotify.com/artist/6ckx56LT9XFELdCMdZsalW), [Hakan Altun](https://open.spotify.com/artist/2AhmWHekrahJri4f5e08Tf) | [Suçlu 2 Kişi](https://open.spotify.com/album/5FTiMOlyay3g7g8W8ov5F1) | 3:03 | 2026-04-24 |  |
 | [Söyleyin O Benim Gökyüzüm Güneşim](https://open.spotify.com/track/2hVOpFUzAvC2lqCGJXJFKy) | [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Söyleyin O Benim Gökyüzüm Güneşim](https://open.spotify.com/album/6xAyvIhPkqezIrLTRT5xtK) | 2:29 | 2026-02-05 | 2026-02-27 |
 | [Sürüyle](https://open.spotify.com/track/7mdZClmHmwmKzrXvJA8l8d) | [Ferhat Göçer](https://open.spotify.com/artist/13jj3uGldU7cSQLaFkf2Zm) | [Sürüyle](https://open.spotify.com/album/6ZZXZBq8TnZBEeJnSk4GSI) | 2:42 | 2025-06-26 | 2025-07-18 |
 | [Taksi](https://open.spotify.com/track/1zaRUHOFCtifiWjjhyi1Pp) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Taksi](https://open.spotify.com/album/7uYFRPl5MJSJ1ty0BZuFS0) | 2:28 | 2025-07-31 | 2025-09-05 |
@@ -605,7 +606,7 @@
 | [Özür Dilerim](https://open.spotify.com/track/0QE4d6T2bxCqpqf8vhN5Kt) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Özür Dilerim](https://open.spotify.com/album/7EBgi5b7TmEL3StT3WWUYZ) | 4:02 | 2025-05-15 | 2025-05-30 |
 | [Üzgünüm](https://open.spotify.com/track/0B8qH6UPs4dwXAVOBLhpsV) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Üzgünüm](https://open.spotify.com/album/7isCAPK9fbeeQjTcCzHdfh) | 4:01 | 2024-11-14 | 2024-12-13 |
 | [Üzgünüm](https://open.spotify.com/track/0hhfaytUvJM5ouXayoEuPc) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Üzgünüm](https://open.spotify.com/album/4wYg0nesrlhwHUdTSs3lq4) | 2:57 | 2026-01-22 |  |
-| [Üzgünüm \(Talu Şarkıları\)](https://open.spotify.com/track/5V2PVVkNhtCyZoG9QmLNGN) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Üzgünüm \(Talu Şarkıları\)](https://open.spotify.com/album/4xkzKuxxgfD1hsjEhDWfTn) | 4:15 | 2026-04-09 |  |
+| [Üzgünüm \(Talu Şarkıları\)](https://open.spotify.com/track/5V2PVVkNhtCyZoG9QmLNGN) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Üzgünüm \(Talu Şarkıları\)](https://open.spotify.com/album/4xkzKuxxgfD1hsjEhDWfTn) | 4:15 | 2026-04-09 | 2026-04-25 |
 | [Üzülmedim Ki](https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Üzülmedim Ki](https://open.spotify.com/album/74zx4om0d3Yzeaq1KgmbIF) | 2:34 | 2026-03-19 |  |
 | [Üşüdüm](https://open.spotify.com/track/48y31axyctQLxNHbQP0y7z) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Üşüdüm](https://open.spotify.com/album/7ervQSP11Ck2amaPE9ROei) | 4:34 | 2024-12-26 | 2025-01-10 |
 | [Şarkıları Sen Seç](https://open.spotify.com/track/6rSiGLKusaEhZYo7k1GeKo) | [Batuhan Kordel](https://open.spotify.com/artist/53GzfAvawfKb966INeFp18) | [Şarkıları Sen Seç](https://open.spotify.com/album/16jPtZQ6sxaYj6mwhP1XU0) | 2:37 | 2025-07-31 | 2025-08-16 |

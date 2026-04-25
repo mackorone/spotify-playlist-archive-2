@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Roosevelt Stewart
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,764 likes - 100 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,935 likes - 100 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 99 | [It Really Is Amazing Grace](https://open.spotify.com/track/5AyPki0wWZWid3L75qtNPZ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [It Really Is Amazing Grace](https://open.spotify.com/album/4lYH4nCNsiXwZFfFlmHNjc) | 4:14 |
 | 100 | [Worthy Of It All \(Worthy\)](https://open.spotify.com/track/5qT2HsrOxk6H5eR7yVyQ87) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Worthy Of It All \(Worthy\)](https://open.spotify.com/album/3OPJVaWRNhdKr5k28RNs1D) | 3:43 |
 
-Snapshot ID: `AAAAAEHT6NUUEBhbe37DzilNXupLM4cn`
+Snapshot ID: `AAAAAG+mKQ7sAuBnes9SnWwWBXyb3qZ+`

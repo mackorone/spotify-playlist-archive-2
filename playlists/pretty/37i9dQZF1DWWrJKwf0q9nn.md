@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: La Fuente
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,092 likes - 99 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,134 likes - 99 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 9](https://open.spotify.com/track/073gmCXuSbUqYPAIVyIVt4) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [LA FAMILIA](https://open.spotify.com/album/57UjJKwE6IkBnSCFJprYLM) | 0:00 |
+| 1 | [Time To Go](https://open.spotify.com/track/073gmCXuSbUqYPAIVyIVt4) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [LA FAMILIA](https://open.spotify.com/album/57UjJKwE6IkBnSCFJprYLM) | 2:54 |
 | 2 | [Be The One](https://open.spotify.com/track/4gDKviRLkpZowZhcnRPqqE) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Be The One](https://open.spotify.com/album/4qnDtActtsWu2i8VH9wkmE) | 3:25 |
 | 3 | [Lost in Desire](https://open.spotify.com/track/0B4RUIy07i4ZPk8wcDyvwg) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [TAME](https://open.spotify.com/artist/4XVJFkO6gIO0LfchyJnP1r) | [Lost in Desire](https://open.spotify.com/album/6KdlENwRR1bF6tNkYdgtvF) | 3:07 |
 | 4 | [Like A Child](https://open.spotify.com/track/0wGlXAZU2OQlOiCghAOCqm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Marlo Rex](https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS) | [Like A Child](https://open.spotify.com/album/21kP7foJu4VQRhlnkVgrgC) | 3:03 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 13 | [If It's Not Love](https://open.spotify.com/track/2pU2UlABXcI31Su0n28Upi) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [If It’s Not Love](https://open.spotify.com/album/21PflNtjjo6CNDiFCPpcpg) | 4:21 |
 | 14 | [Future Fall](https://open.spotify.com/track/7KUeGK5PvWtBMiA8KTuoyi) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Future Fall](https://open.spotify.com/album/7pt0v2JXWf1gh79ONJlbIi) | 3:05 |
 | 15 | [I Want You \- 2026 Mix](https://open.spotify.com/track/0UOFrlPU6jXhTGIZZLje9o) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You \(2026 Mix\)](https://open.spotify.com/album/7GHCY3oblxWdQRw42zibkI) | 2:48 |
-| 16 | [Track 1](https://open.spotify.com/track/5jkcTZjDj6V8NXX19bpRwH) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Eyes Closed EP](https://open.spotify.com/album/4B2IiiaIswDxqagoScVW0F) | 0:00 |
+| 16 | [Gonna Let](https://open.spotify.com/track/5jkcTZjDj6V8NXX19bpRwH) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Eyes Closed EP](https://open.spotify.com/album/4B2IiiaIswDxqagoScVW0F) | 3:31 |
 | 17 | [Inner Symphony](https://open.spotify.com/track/4pPyehQEbEkuAoV3wjZHB0) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a), [TBR](https://open.spotify.com/artist/5qpNUMXSRYc7FOLIjcYWzv), [Charles B](https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO) | [Inner Symphony](https://open.spotify.com/album/02P8JuDDUwB3olUqlMpYaC) | 2:30 |
 | 18 | [No Excuse](https://open.spotify.com/track/1KnwXtahsZjwX6HTYZliEE) | [Main Circus](https://open.spotify.com/artist/2S7Rdg81ijGBww89t47xCL) | [No Excuse](https://open.spotify.com/album/7D2wHsdzbvjPUzkBNbbkqd) | 2:22 |
 | 19 | [Sexy Sturdy](https://open.spotify.com/track/4AnDy5eoRWMuJCujtOvxoW) | [Boothed](https://open.spotify.com/artist/6ou4O9PRKrqWgOTeF4ZtMk) | [Sexy Sturdy](https://open.spotify.com/album/2Au4UZFHGHRh4pdBa8Z3RL) | 2:40 |

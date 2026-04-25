@@ -981,6 +981,28 @@
     },
     {
       "album": {
+        "name": "Baires",
+        "url": "https://open.spotify.com/album/4MCTRd1eMflv7z00GRh2JC"
+      },
+      "artists": [
+        {
+          "name": "Gianni",
+          "url": "https://open.spotify.com/artist/1qOhp9sUeynPwEfyY6kX6c"
+        },
+        {
+          "name": "Sphere of Hip-Hop",
+          "url": "https://open.spotify.com/artist/4zjVwGsBMdMZcxUKKCUbIU"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115581,
+      "name": "Baires",
+      "url": "https://open.spotify.com/track/0ZuLeROfBnmB2N1Y2PcU2r"
+    },
+    {
+      "album": {
         "name": "Be Kind, Rewind",
         "url": "https://open.spotify.com/album/3SDZ2cK7n2CW8CTm831Zia"
       },
@@ -1428,7 +1450,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 125714,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/4QCTym40whAtKA9Z9GOCgk"
@@ -1622,6 +1644,28 @@
       "duration_ms": 102886,
       "name": "Blue notes",
       "url": "https://open.spotify.com/track/4wKKAi5DW4nTV6C2fwOO4X"
+    },
+    {
+      "album": {
+        "name": "Blueberries",
+        "url": "https://open.spotify.com/album/1c1AwHVd1c1UIMkEOjxCcC"
+      },
+      "artists": [
+        {
+          "name": "Oskartello",
+          "url": "https://open.spotify.com/artist/4sVlDumEDa7ODU6ON6vjSa"
+        },
+        {
+          "name": "Felix Hien",
+          "url": "https://open.spotify.com/artist/5pHGZpAY7Pm0EBDnBJtoZQ"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96136,
+      "name": "Blueberries",
+      "url": "https://open.spotify.com/track/6hQXlSSOmS2F2XYgINABTF"
     },
     {
       "album": {
@@ -3718,7 +3762,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 113164,
       "name": "Drifted Thoughts",
       "url": "https://open.spotify.com/track/0aMnLouMZN1HZmRH8fnxJW"
@@ -7644,7 +7688,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 120000,
       "name": "Laundry Day",
       "url": "https://open.spotify.com/track/4wAJQuVWT1UvONPbEdgxKS"
@@ -10518,7 +10562,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 115200,
       "name": "Nubes",
       "url": "https://open.spotify.com/track/0JLPyMNpKYeILjc3T4rBzC"
@@ -12381,6 +12425,24 @@
     },
     {
       "album": {
+        "name": "Ride on",
+        "url": "https://open.spotify.com/album/5wUsrJjhBjykqVYHPmpMJl"
+      },
+      "artists": [
+        {
+          "name": "Guidolain beats",
+          "url": "https://open.spotify.com/artist/5ORspEJvAWz3OgMR8gOqcP"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124500,
+      "name": "Ride on",
+      "url": "https://open.spotify.com/track/3PJBbQSTomkHuQgiO0pp5U"
+    },
+    {
+      "album": {
         "name": "RIDGEWALK",
         "url": "https://open.spotify.com/album/5dQpb7jmEkKXioLIyVzzkK"
       },
@@ -13356,6 +13418,28 @@
       "duration_ms": 126520,
       "name": "soan",
       "url": "https://open.spotify.com/track/1pxON0fWsbRsmaXnUlSAlA"
+    },
+    {
+      "album": {
+        "name": "Soave",
+        "url": "https://open.spotify.com/album/6oaXIghWTERdU8TXVRfkq8"
+      },
+      "artists": [
+        {
+          "name": "Jackcem",
+          "url": "https://open.spotify.com/artist/175eRj1lYZUTPJe7Fnvsc8"
+        },
+        {
+          "name": "JazzyHan",
+          "url": "https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161342,
+      "name": "Soave",
+      "url": "https://open.spotify.com/track/3RMtgSH59zv9JhmBuYC50T"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Prog Rock](https://open.spotify.com/playlist/37i9dQZF1DWXgtgITTKvYl)
 
-> A collection of best Prog Rock tracks\. Cover: Dream Theater
+> A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-527 songs - 1 day 22 hr 54 min
+529 songs - 1 day 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Between Dogs & Wolves](https://open.spotify.com/track/1bcUWnL1Lh7AmHlNS6ufke) | [Alone with the Gods](https://open.spotify.com/artist/0MyttDn965BGexIBgy9ABt) | [Between Dogs & Wolves](https://open.spotify.com/album/5rAGH2Abd1SuHktkPTZMUk) | 4:10 | 2025-08-22 | 2025-12-13 |
 | [Between Two Points \- Live from the Luck and Strange Concerts](https://open.spotify.com/track/0V7zjdDdp9nZ7foEkwk3zC) | [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8), [Romany Gilmour](https://open.spotify.com/artist/3zWa7Jgzsv63hObXVRTRJD) | [Between Two Points \(Live from the Luck and Strange Concerts\)](https://open.spotify.com/album/5vfvkP9cyY3tHfYH9zS8kd) | 5:45 | 2025-09-19 |  |
 | [BLACK BUTTERFLY](https://open.spotify.com/track/7GJUzjmlom8T03C0UVFe9I) | [Real Illusion](https://open.spotify.com/artist/0mrKOjaYdSQ6ER2LnKgvbk) | [BLACK BUTTERFLY](https://open.spotify.com/album/38XLYnMj8xYqLd5S8U2dbP) | 4:47 | 2025-07-04 | 2025-07-19 |
+| [Blackstar](https://open.spotify.com/track/4g9Qnsq4aApSqktyvoLMoA) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Blackstar](https://open.spotify.com/album/0fQBHW4NVklQIAfUEDzSLm) | 4:01 | 2026-04-24 |  |
 | [Blast of Silence](https://open.spotify.com/track/2EhBaUmjUCkULpO8aDBdSA) | [O.R.k.](https://open.spotify.com/artist/5rkJj1VYae5gFozDas6Dsg) | [Blast Of Silence](https://open.spotify.com/album/6AVzZ6OQndJasW4JCZfzrC) | 4:15 | 2024-10-18 | 2024-11-02 |
 | [Blind Side Sonny](https://open.spotify.com/track/3yJIHyPa3J6SadRkhp5QsZ) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Blind Side Sonny](https://open.spotify.com/album/3Q8URHjCFx82FDBf6BUeFJ) | 2:22 | 2024-10-04 | 2024-10-19 |
 | [Blood Moon](https://open.spotify.com/track/2Hf617oOAOOweOpLdsnGmr) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Blood Moon](https://open.spotify.com/album/7CgshNfNl5h5CNYR9RVPKi) | 7:50 | 2022-05-20 | 2024-09-09 |
@@ -89,6 +90,7 @@
 | [Celestial Gaze](https://open.spotify.com/track/2ljBBCf7uUJTHbKXC9McL9) | [Naxatras](https://open.spotify.com/artist/6HN1s0JzLowapZ7nhOAJ71) | [V](https://open.spotify.com/album/2ZZktLwzbKzwP1bUeZVY1J) | 5:05 | 2025-02-21 |  |
 | [Changeless](https://open.spotify.com/track/2M2qCttg4c49ibeTGqXw9R) | [Tom Anello](https://open.spotify.com/artist/4vk7AwwGqVSHkpMeZOyxmM) | [Changeless](https://open.spotify.com/album/4JHie1I2y4Ub4vA5Tt4bpi) | 3:04 | 2025-01-31 | 2025-03-15 |
 | [Chervona ruta](https://open.spotify.com/track/34SFyXyVFcMtvKAaragbPH) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR), [Vantaan Viihdeorkesteri](https://open.spotify.com/artist/6j2wnGMptlHeUeUeT0xxtz) | [Solovey \- Lauluja Ukrainasta](https://open.spotify.com/album/2cGIkil6v7zVbIAgehuU92) | 4:04 | 2025-08-15 | 2025-10-11 |
+| [Ciel](https://open.spotify.com/track/3TrCvZpezFNZQg1IEm5NDR) | [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic), [Jakub Zytecki](https://open.spotify.com/artist/43EA0mCA9Iiw33kdPtMa1q) | [An Unnameable Desire](https://open.spotify.com/album/2xo56fFD2xGwGQLXDXdYaS) | 3:08 | 2026-04-24 |  |
 | [Closer](https://open.spotify.com/track/0mrN9ouorjK8uwlPXfNLnp) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Where Myth Becomes Memory](https://open.spotify.com/album/6feZT48cizyeg8cFVjX8pO) | 5:15 | 2022-11-17 | 2024-04-19 |
 | [Closer](https://open.spotify.com/track/5TUn5aeSBFYKiQFLO3fE5N) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Closer](https://open.spotify.com/album/1at11cxee5blIgarVbwuY0) | 5:15 | 2022-05-20 | 2024-09-20 |
 | [Colder and Colder](https://open.spotify.com/track/0F0SmPtc6alMVn7UVLLYig) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Colder and Colder](https://open.spotify.com/album/3gaT7kWBLwgJNKGsKP41Ar) | 4:56 | 2026-03-09 |  |
@@ -132,7 +134,7 @@
 | [EMINENT SLEAZE](https://open.spotify.com/track/0W9jxYrpe2iNedGr8fyAqQ) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [EMINENT SLEAZE](https://open.spotify.com/album/0ueqTF8GgMi9U9mAxCxJFs) | 3:52 | 2022-05-20 | 2024-09-07 |
 | [END](https://open.spotify.com/track/5VK0kYTGxFXeAbBvSbMv3j) | [Nrthrn](https://open.spotify.com/artist/2JrapUnu1gX16UFMDjmok2) | [LITHIUM](https://open.spotify.com/album/0eK0vYBCmkjlDwP5qfTCKF) | 3:50 | 2025-01-17 | 2025-04-12 |
 | [Entangled](https://open.spotify.com/track/5FCpN8T0ibPP5aSIFfHRcp) | [Soul Extract](https://open.spotify.com/artist/1cEPAqNFhmARDe0HgKOD3h) | [Chasms](https://open.spotify.com/album/37bq1IJGX3gp77Dq8cx9zD) | 4:07 | 2024-09-27 | 2024-10-26 |
-| [Enter the City \- The Afterlife](https://open.spotify.com/track/1XHoeEpd1ka1XLCLt7ncNt) | [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [Enter the City \(The Afterlife\)](https://open.spotify.com/album/4jURIuDzkFB7nQ8Y7pW6dK) | 2:34 | 2026-03-27 |  |
+| [Enter the City \- The Afterlife](https://open.spotify.com/track/1XHoeEpd1ka1XLCLt7ncNt) | [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [Enter the City \(The Afterlife\)](https://open.spotify.com/album/4jURIuDzkFB7nQ8Y7pW6dK) | 2:34 | 2026-03-27 | 2026-04-25 |
 | [Entropy Pulse](https://open.spotify.com/track/02ZBxJEcH8PUFpgDipovw2) | [Andy Summers](https://open.spotify.com/artist/3rHBApuFwaJy65f7vWQJLr), [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl) | [Entropy Pulse](https://open.spotify.com/album/118oLHevImyXntRfrq1dsv) | 1:58 | 2025-02-28 | 2025-04-12 |
 | [Equinox](https://open.spotify.com/track/1qPgT94mliL88XOww1hpjM) | [Steve Howe](https://open.spotify.com/artist/6W7XIO8Ua1RIisnSf0QIoI) | [Guitarscape](https://open.spotify.com/album/2rodhwmgCYLbzSZksjbjCQ) | 3:04 | 2024-09-27 | 2024-10-19 |
 | [Erase \- Live](https://open.spotify.com/track/6q2WRXcHzScmvvvNIx20Zv) | [Airbag](https://open.spotify.com/artist/0gTqi1zdqD9s6islG2wLKC) | [Erase \(Live in the Netherlands\)](https://open.spotify.com/album/7AVTKolMCoUGqK4PYa7xRo) | 8:00 | 2025-10-17 | 2025-11-29 |
@@ -150,7 +152,7 @@
 | [Father Fiction](https://open.spotify.com/track/4sbYqPuSH7w7j0Nq6P98Of) | [Jaye Jayle](https://open.spotify.com/artist/6LHzi75h2Pew5JRGmUluEh) | [Father Fiction](https://open.spotify.com/album/4lAXRkLNm0BtvrfQA40HnH) | 5:10 | 2025-01-31 | 2025-02-22 |
 | [Festina Lente](https://open.spotify.com/track/3ckZjrL87FcyRv1gsPWL2Q) | [Imaginaerium](https://open.spotify.com/artist/36lGqY0ctI5w9Zgxh4weom) | [Festina Lente](https://open.spotify.com/album/6aL7jzlucXGRg7t6Z5tri5) | 2:28 | 2024-09-08 | 2024-10-05 |
 | [Few Dollars More](https://open.spotify.com/track/0GR2rXSLuuQTiEMOxvBXnG) | [Pryces](https://open.spotify.com/artist/6e4SoZqhV4nKK3pT2JNrkx), [Tolan](https://open.spotify.com/artist/4YSua4qFdfh8JgRxOW9EoC) | [Few Dollars More](https://open.spotify.com/album/1RReFnG2XdOQwXVunlmkZB) | 2:58 | 2025-07-26 | 2025-08-09 |
-| [Fire in Ice](https://open.spotify.com/track/0SDjOtkzBWn86FgBojqEkQ) | [Green Carnation](https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc) | [A Dark Poem, Part II: Sanguis](https://open.spotify.com/album/2GOYCUoz868WL0S3MR3iKZ) | 7:03 | 2026-04-02 |  |
+| [Fire in Ice](https://open.spotify.com/track/0SDjOtkzBWn86FgBojqEkQ) | [Green Carnation](https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc) | [A Dark Poem, Part II: Sanguis](https://open.spotify.com/album/2GOYCUoz868WL0S3MR3iKZ) | 7:03 | 2026-04-02 | 2026-04-25 |
 | [Fly on a Windshield \- Live in London 2024](https://open.spotify.com/track/6YUMnfV7PhtCdf6YVZq4Wl) | [Steve Hackett](https://open.spotify.com/artist/4vs7NIU7kZc2Efh6yOGKEZ) | [Fly on a Windshield \(Live in London 2024\)](https://open.spotify.com/album/0uep9cjuo49UHXoDR9mCaK) | 8:42 | 2025-06-20 |  |
 | [Follow The Fool](https://open.spotify.com/track/1M7oaMe4qLxXtuY8wlbcso) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [Follow The Fool](https://open.spotify.com/album/1RdlpTc1kCOCr0mHfTdXu1) | 3:45 | 2022-05-20 | 2024-09-20 |
 | [Follow the Fool](https://open.spotify.com/track/5O0CmYTf8WshE2y6rQVWAF) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [Conspiranoid](https://open.spotify.com/album/6tvuIngm9XhD8mwncouN8G) | 3:45 | 2022-11-17 | 2024-04-19 |

@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 157874,
       "name": "A whiter shade of pale",
       "url": "https://open.spotify.com/track/7gb7bAdUDArVuoyNh2F90F"
@@ -1950,6 +1950,24 @@
     {
       "album": {
         "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/2daQR7nBVg5fUH8SX6O0Q7"
+      },
+      "artists": [
+        {
+          "name": "Otis J. Hart",
+          "url": "https://open.spotify.com/artist/5PN2bToM1pb2WeRrMInjfT"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199933,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/6l6v6SjJ75OKVOA8s1h0ud"
+    },
+    {
+      "album": {
+        "name": "Chasing Cars",
         "url": "https://open.spotify.com/album/43yyM9q71QSiFRV2ZriGcq"
       },
       "artists": [
@@ -2468,6 +2486,24 @@
       "duration_ms": 198874,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/3NbO3rVszlJViICwud48IU"
+    },
+    {
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/510NDFUG6t6G6ESArhK9HS"
+      },
+      "artists": [
+        {
+          "name": "Simon Koch",
+          "url": "https://open.spotify.com/artist/6X1UMdYVnTzCJgLryxnbcs"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123624,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/77WVPfm3iseIYSEzrarIMC"
     },
     {
       "album": {
@@ -4124,6 +4160,24 @@
       "duration_ms": 215781,
       "name": "Hallelujah - Piano Version",
       "url": "https://open.spotify.com/track/7tW7bfj8kHzZREXxNXzCG5"
+    },
+    {
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/3a9v8OnBE4frUUoOHXpOIP"
+      },
+      "artists": [
+        {
+          "name": "Jade Crowley",
+          "url": "https://open.spotify.com/artist/5TrocNkTBQ5FOssBB0BXfB"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153250,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/6y3Ln36W3etBvihBNgVMwB"
     },
     {
       "album": {
@@ -6784,7 +6838,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 176982,
       "name": "Middle of the Night - Piano",
       "url": "https://open.spotify.com/track/2K97GriUyHINnzuDsmTfkP"
@@ -7954,7 +8008,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 174097,
       "name": "Ring of Fire",
       "url": "https://open.spotify.com/track/2QxjuojRvon4Ibwjxhz6Sb"

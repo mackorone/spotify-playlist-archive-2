@@ -433,6 +433,28 @@
     },
     {
       "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/1YeTm0BR0K9KTnr2NEosRS"
+      },
+      "artists": [
+        {
+          "name": "Randy Nota Loca",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180214,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/68mJvII29H8wlKpyGyeP7x"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
       },
@@ -1332,7 +1354,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 221303,
       "name": "Duki: Bzrp Music Sessions, Vol. 50/66",
       "url": "https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG"
@@ -1458,10 +1480,32 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 157863,
       "name": "El Plancito",
       "url": "https://open.spotify.com/track/2pOeVhrfhV37G3kowTXqDg"
+    },
+    {
+      "album": {
+        "name": "EL QUE COMPR\u00d3 PERDI\u00d3",
+        "url": "https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio"
+      },
+      "artists": [
+        {
+          "name": "Little Boogie",
+          "url": "https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0"
+        },
+        {
+          "name": "STEREO",
+          "url": "https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145520,
+      "name": "EL QUE COMPR\u00d3 PERDI\u00d3",
+      "url": "https://open.spotify.com/track/1QQ8zcJLMyO7ti83nM1d9g"
     },
     {
       "album": {
@@ -1476,7 +1520,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 221407,
       "name": "Ella",
       "url": "https://open.spotify.com/track/66S2z95FN3nUAr9S1gUIsp"
@@ -1726,7 +1770,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 219302,
       "name": "Esclavo de Tus Besos",
       "url": "https://open.spotify.com/track/3g4UyIcQwutiG0TfW32GnX"
@@ -1889,6 +1933,36 @@
     },
     {
       "album": {
+        "name": "Florentino",
+        "url": "https://open.spotify.com/album/1Ajocy3PU5BzAJz82Y0zuv"
+      },
+      "artists": [
+        {
+          "name": "Ambar Luna",
+          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
+        },
+        {
+          "name": "Audigier",
+          "url": "https://open.spotify.com/artist/12UxVj1YgVo8N2NKkipBD3"
+        },
+        {
+          "name": "shelo-w",
+          "url": "https://open.spotify.com/artist/5kAwbJxOTvfaYSOrEhWAjW"
+        },
+        {
+          "name": "Vic Law",
+          "url": "https://open.spotify.com/artist/5ga0djN9jmt93iyXBKngZ5"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Florentino",
+      "url": "https://open.spotify.com/track/562Ljlj5cWInjA3Yx7fO3j"
+    },
+    {
+      "album": {
         "name": "TINI TINI TINI",
         "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
       },
@@ -1996,7 +2070,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 147001,
       "name": "Golfista",
       "url": "https://open.spotify.com/track/2R0RvdGFAOCznsB85KN0f4"
@@ -2072,7 +2146,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 136421,
       "name": "HIT ME UP",
       "url": "https://open.spotify.com/track/4ErvxwjBITUS7Tfa2PrpzV"
@@ -2090,7 +2164,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Hola",
       "url": "https://open.spotify.com/track/65wLNgku2IZUjKjc2MNGjX"
@@ -2246,7 +2320,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 297760,
       "name": "Infiel - Remix",
       "url": "https://open.spotify.com/track/5Xe78U9cUwnWOuWbgYvAKZ"
@@ -2534,7 +2608,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 126857,
       "name": "LLAMADA ENTRANTE",
       "url": "https://open.spotify.com/track/1cFN9n8M34rOqejdXvDx9u"
@@ -2725,6 +2799,28 @@
     },
     {
       "album": {
+        "name": "AMOR FIADO",
+        "url": "https://open.spotify.com/album/6EPWuQUeAaRp61S8qG0fri"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "MALPARIDO",
+      "url": "https://open.spotify.com/track/4wjIqViyNbifMldqFsdZk2"
+    },
+    {
+      "album": {
         "name": "Marfil / E.M.C",
         "url": "https://open.spotify.com/album/3kGuw41SZs0uBDTaTudef1"
       },
@@ -2736,7 +2832,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 102024,
       "name": "Marfil",
       "url": "https://open.spotify.com/track/2C7a49yOHA2eUHndOZ8YjJ"
@@ -2986,7 +3082,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 315862,
       "name": "Mi Error - Remix",
       "url": "https://open.spotify.com/track/0lbhKycRyqkOMKZ6thzfU4"
@@ -3026,7 +3122,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 185972,
       "name": "miau",
       "url": "https://open.spotify.com/track/5osSgKDiyrzhLjsEABO6c9"
@@ -3118,7 +3214,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 317440,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/36dhj3CSJ2gsED35rBswno"
@@ -3274,7 +3370,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 199733,
       "name": "No Hay Nadie M\u00e1s",
       "url": "https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN"
@@ -3502,7 +3598,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 203636,
       "name": "No_se_ve.mp3",
       "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
@@ -3524,6 +3620,32 @@
       "duration_ms": 173238,
       "name": "NOCHE DE SATEO",
       "url": "https://open.spotify.com/track/0OkrRSwJYVXQi7EKtjVO5m"
+    },
+    {
+      "album": {
+        "name": "Nos Relojean",
+        "url": "https://open.spotify.com/album/7zDAxwrWDrPJsr2OX5GTge"
+      },
+      "artists": [
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        },
+        {
+          "name": "Soffia Philo",
+          "url": "https://open.spotify.com/artist/5o1ARHZ2fhll5jILdQp84X"
+        },
+        {
+          "name": "Maxi Prieto",
+          "url": "https://open.spotify.com/artist/7k4sBYY4ict7ilJdWo5DnW"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185660,
+      "name": "Nos Relojean",
+      "url": "https://open.spotify.com/track/1tbJP63ftEPVJKn8TFfB1u"
     },
     {
       "album": {
@@ -3638,7 +3760,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 180000,
       "name": "NYX00 (with JC Reyes)",
       "url": "https://open.spotify.com/track/0FI11LoJ41qud3TkFEYlzI"
@@ -3656,7 +3778,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 128571,
       "name": "Onana",
       "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
@@ -3786,7 +3908,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 199213,
       "name": "Pa' No Llorar",
       "url": "https://open.spotify.com/track/2oYWQCDw7z9M26LEy25wiy"
@@ -3826,7 +3948,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 249897,
       "name": "PACK M",
       "url": "https://open.spotify.com/track/65OZK9U4Qjjjo3ph77iuya"
@@ -3944,7 +4066,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 225600,
       "name": "Que Le De",
       "url": "https://open.spotify.com/track/08aYFNUTIOMGq93e2VSArQ"
@@ -4124,7 +4246,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 189826,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/464uJVLmr0fDJGXOnciaDe"
@@ -4260,7 +4382,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 297485,
       "name": "Sensualidad",
       "url": "https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw"
@@ -4394,7 +4516,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 164571,
       "name": "SINTOMAS (Remix)",
       "url": "https://open.spotify.com/track/75Ubp6BDFSDvICw7unrQ03"
@@ -4734,7 +4856,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
@@ -4904,7 +5026,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 273321,
       "name": "T\u00fa No Amas",
       "url": "https://open.spotify.com/track/5J64qSSq0VZuh0CiI9o9Nq"
@@ -5030,6 +5152,24 @@
       "duration_ms": 187500,
       "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51/66",
       "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
+    },
+    {
+      "album": {
+        "name": "VOGUE \u00b0",
+        "url": "https://open.spotify.com/album/448zs60d9fxF5E2NZYXZjA"
+      },
+      "artists": [
+        {
+          "name": "Faus K",
+          "url": "https://open.spotify.com/artist/4Dp9S8ukWAo7FOIloXG2mp"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158048,
+      "name": "VOGUE \u00b0",
+      "url": "https://open.spotify.com/track/4pM8I8lDTZhJrFjJu2y5mF"
     },
     {
       "album": {

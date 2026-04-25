@@ -4735,6 +4735,24 @@
     },
     {
       "album": {
+        "name": "Depreshmode",
+        "url": "https://open.spotify.com/album/1GSOOLlwoBDAStBgRuVIXd"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254457,
+      "name": "Depreshmode",
+      "url": "https://open.spotify.com/track/5AMv82UWh8QC7dA6dTNYn9"
+    },
+    {
+      "album": {
         "name": "Desperate Guy",
         "url": "https://open.spotify.com/album/0s0Xkv0CveetgYMQDMaPA9"
       },
@@ -20624,24 +20642,6 @@
       "duration_ms": 239748,
       "name": "Took the Train 'til the End",
       "url": "https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL"
-    },
-    {
-      "album": {
-        "name": "Depreshmode",
-        "url": "https://open.spotify.com/album/1GSOOLlwoBDAStBgRuVIXd"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/5AMv82UWh8QC7dA6dTNYn9"
     },
     {
       "album": {

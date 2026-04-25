@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5PvL7fsYxC9IQR4sRY5B5v"
+      },
+      "artists": [
+        {
+          "name": "Electrify",
+          "url": "https://open.spotify.com/artist/4Hf6DxoplRHxpz1Mh2DRDi"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179881,
+      "name": "17",
+      "url": "https://open.spotify.com/track/5SKQD13rINIdIS8WLZCi9I"
+    },
+    {
+      "album": {
         "name": "1990",
         "url": "https://open.spotify.com/album/6y8BQ6Ba9N4FArTZOY1Kcq"
       },
@@ -204,7 +222,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 145137,
       "name": "A A A A",
       "url": "https://open.spotify.com/track/0PX4JOqMRoUc8TzN51zenN"
@@ -4059,6 +4077,24 @@
     },
     {
       "album": {
+        "name": "D\u00edas Perfectos",
+        "url": "https://open.spotify.com/album/37vhqFEwv3280Z3EoOzNwJ"
+      },
+      "artists": [
+        {
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336920,
+      "name": "D\u00edas Perfectos",
+      "url": "https://open.spotify.com/track/4YJqajgA8lpqJv9mxhtV0Z"
+    },
+    {
+      "album": {
         "name": "D\u00ednamo",
         "url": "https://open.spotify.com/album/6IE6bOCP0rgHHAGMaEfDba"
       },
@@ -6288,7 +6324,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 176000,
       "name": "Inside My Brain",
       "url": "https://open.spotify.com/track/4DiZ4vLi89ZxLinQwqtfTC"
@@ -7124,7 +7160,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 258879,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/4fDmiHDWeCXCB9BY52vXDz"
@@ -10986,6 +11022,24 @@
       "duration_ms": 210163,
       "name": "Perra Soledad",
       "url": "https://open.spotify.com/track/6wYF5EU5fLmemMGDGaIaVF"
+    },
+    {
+      "album": {
+        "name": "Perro de Pavlov",
+        "url": "https://open.spotify.com/album/0eFUlktiO4tZFskaWVQaq4"
+      },
+      "artists": [
+        {
+          "name": "Los Concorde",
+          "url": "https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197271,
+      "name": "Perro de Pavlov",
+      "url": "https://open.spotify.com/track/7uaodGRJiJelKJ8gLpzdYD"
     },
     {
       "album": {

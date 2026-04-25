@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,077 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,197 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 | 99 | [Voices](https://open.spotify.com/track/6OS6FafuDd9CytXs2pTVWG) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Voices](https://open.spotify.com/album/6HveR0xxtS6V26H2TmQG41) | 3:08 |
 | 100 | [Komodo](https://open.spotify.com/track/1ABRhft3atwd5itDELR0jD) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Komodo](https://open.spotify.com/album/1K4UbTRjbfTUR0Xh7NdRjy) | 3:21 |
 
-Snapshot ID: `AAAAALcbXKfHNXTP9D0dbNE5uY/s1m+A`
+Snapshot ID: `AAAAAFn0uGZfVsH5G8TBRdbMSwMMRkCV`

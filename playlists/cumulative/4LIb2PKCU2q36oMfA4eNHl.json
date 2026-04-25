@@ -2576,7 +2576,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 248222,
       "name": "Gliding Through Everything",
       "url": "https://open.spotify.com/track/2QE9lU3p7G3vF2GhaIyQsB"
@@ -5614,6 +5614,28 @@
       "duration_ms": 139834,
       "name": "Orb - Electronic",
       "url": "https://open.spotify.com/track/2aP46sLmqlnBP0DoUcnROH"
+    },
+    {
+      "album": {
+        "name": "Others (Electronic)",
+        "url": "https://open.spotify.com/album/1OILnSHoYnIQrqYjQLsEBd"
+      },
+      "artists": [
+        {
+          "name": "Kosco",
+          "url": "https://open.spotify.com/artist/4fjdmn68aooi8LTGSSTxgo"
+        },
+        {
+          "name": "Philipp Hasse",
+          "url": "https://open.spotify.com/artist/76Awap7mRTdIk1ACiLdzYX"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228099,
+      "name": "Others - Electronic",
+      "url": "https://open.spotify.com/track/2UwPrJ6lw3x7ZPVlDIGZWP"
     },
     {
       "album": {

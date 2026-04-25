@@ -2753,6 +2753,24 @@
     },
     {
       "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/4JhceA7cUvI0VmAEOcYAE2"
+      },
+      "artists": [
+        {
+          "name": "loveshy",
+          "url": "https://open.spotify.com/artist/2xZvyZ5a4pTOvLexCZ91lv"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177348,
+      "name": "Bullet Between My Teeth",
+      "url": "https://open.spotify.com/track/58LqBRV0o1CfWjxLq8xwfv"
+    },
+    {
+      "album": {
         "name": "BUMMER!",
         "url": "https://open.spotify.com/album/6GqD7THNXRsasEGuDZ6wpL"
       },
@@ -18612,24 +18630,6 @@
       "duration_ms": 148181,
       "name": "TOXIC (with POORSTACY)",
       "url": "https://open.spotify.com/track/75FYDtqlseNpc63QjHazO6"
-    },
-    {
-      "album": {
-        "name": "Aftertaste",
-        "url": "https://open.spotify.com/album/4JhceA7cUvI0VmAEOcYAE2"
-      },
-      "artists": [
-        {
-          "name": "loveshy",
-          "url": "https://open.spotify.com/artist/2xZvyZ5a4pTOvLexCZ91lv"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/58LqBRV0o1CfWjxLq8xwfv"
     },
     {
       "album": {

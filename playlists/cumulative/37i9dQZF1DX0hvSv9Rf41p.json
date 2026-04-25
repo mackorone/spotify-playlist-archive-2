@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "1234",
+        "url": "https://open.spotify.com/album/5ThSyNsXiVHyF06Zd4mZuq"
+      },
+      "artists": [
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151267,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/3Q4c260OtcneST0kSXoLnE"
+    },
+    {
+      "album": {
         "name": "2 Da Floor",
         "url": "https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L"
       },
@@ -306,6 +324,24 @@
       "duration_ms": 303857,
       "name": "6am Bounce",
       "url": "https://open.spotify.com/track/3o4JurF32L4msnHzp9hcpI"
+    },
+    {
+      "album": {
+        "name": "999soundsystem",
+        "url": "https://open.spotify.com/album/45rkJHr1HWOLzbFpi1Mwg4"
+      },
+      "artists": [
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173017,
+      "name": "999soundsystem",
+      "url": "https://open.spotify.com/track/6mv33AvhAJWcz3O8XzQ2rc"
     },
     {
       "album": {
@@ -554,6 +590,32 @@
       "duration_ms": 178519,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/5NSr0xa9Qf4J8xKzDnC0uq"
+    },
+    {
+      "album": {
+        "name": "Snazur EP",
+        "url": "https://open.spotify.com/album/3uiXCFAP0jWVVNvnEZLrmV"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        },
+        {
+          "name": "HEIGHTS",
+          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/6PuGfVM0DCgX04vyZ2RFwz"
     },
     {
       "album": {
@@ -8116,7 +8178,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 223767,
       "name": "DEATH OF THE WITCH",
       "url": "https://open.spotify.com/track/1e4l7IbE71XctLch8Shs7i"
@@ -9106,7 +9168,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 180413,
       "name": "DOMAIN",
       "url": "https://open.spotify.com/track/4yVHIc6FXkBj40FkVAywkb"
@@ -10151,6 +10213,28 @@
     },
     {
       "album": {
+        "name": "Earthquake",
+        "url": "https://open.spotify.com/album/6KWKY20MFMllfE0B65JCha"
+      },
+      "artists": [
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119172,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/4xBQW0iZhjl7mSpse69gn5"
+    },
+    {
+      "album": {
         "name": "Ease Your Mind",
         "url": "https://open.spotify.com/album/7B5n3tOUAIyahj8TwwPLcN"
       },
@@ -10700,6 +10784,24 @@
       "duration_ms": 244965,
       "name": "Energy",
       "url": "https://open.spotify.com/track/0WestNiV3HHGYx241RZb0J"
+    },
+    {
+      "album": {
+        "name": "ENERGY (I Feel)",
+        "url": "https://open.spotify.com/album/6Ldgnp2uq8vyrLYAMlfcNc"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184414,
+      "name": "ENERGY (I Feel)",
+      "url": "https://open.spotify.com/track/0DZirU8OfoBgia2kga6Bzi"
     },
     {
       "album": {
@@ -12048,6 +12150,28 @@
       "duration_ms": 201379,
       "name": "Feel Ur Touch",
       "url": "https://open.spotify.com/track/6Ic1geNctwh66xumQ3qyyw"
+    },
+    {
+      "album": {
+        "name": "Feelin' This Way",
+        "url": "https://open.spotify.com/album/4Yz7yqvMw1zmB6vjj1hce8"
+      },
+      "artists": [
+        {
+          "name": "Brookes Brothers",
+          "url": "https://open.spotify.com/artist/2FPeVdIIXD9Wb9Kbn1Hyz6"
+        },
+        {
+          "name": "Danny Byrd",
+          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270455,
+      "name": "Feelin' This Way",
+      "url": "https://open.spotify.com/track/5INHtXHAYKhHurNAM2DMjT"
     },
     {
       "album": {
@@ -16515,6 +16639,24 @@
     },
     {
       "album": {
+        "name": "HOUDINI",
+        "url": "https://open.spotify.com/album/2NWnBiOCWHTJMn84rOQnSz"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151351,
+      "name": "HOUDINI",
+      "url": "https://open.spotify.com/track/2Y7gILjkbWMM2F346Fz8Ud"
+    },
+    {
+      "album": {
         "name": "How To Kill A God",
         "url": "https://open.spotify.com/album/4MsOsP1gBDNgR5KfdeZETH"
       },
@@ -16748,6 +16890,28 @@
       "duration_ms": 195000,
       "name": "Hush",
       "url": "https://open.spotify.com/track/19gqEo6BksJ7OEqyOAziks"
+    },
+    {
+      "album": {
+        "name": "HUSH",
+        "url": "https://open.spotify.com/album/2HEYYrnIqfHaaGg3fUgEkd"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193307,
+      "name": "HUSH",
+      "url": "https://open.spotify.com/track/0BBzJt4nTWXbZKvO2k3L8X"
     },
     {
       "album": {
@@ -17800,7 +17964,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 168827,
       "name": "INFECTED (feat. INFEKT)",
       "url": "https://open.spotify.com/track/5V6Yx8L9ItQUOYq0REdFGj"
@@ -18766,7 +18930,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 141686,
       "name": "Killa",
       "url": "https://open.spotify.com/track/5QrzHMtPWyS2ho4VodUHBx"
@@ -19110,7 +19274,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 164571,
       "name": "lanadelrey",
       "url": "https://open.spotify.com/track/3kjYDRDhykMPFgkCkYhHrs"
@@ -22328,7 +22492,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 164200,
       "name": "Motion Sickness",
       "url": "https://open.spotify.com/track/030zYsWAND0mbLSxPmBuPN"
@@ -27852,7 +28016,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 195428,
       "name": "REQUIEM",
       "url": "https://open.spotify.com/track/2Oy6oc0Dit6XMcpTBvCdB0"
@@ -32605,6 +32769,28 @@
     },
     {
       "album": {
+        "name": "SWEET TALKER",
+        "url": "https://open.spotify.com/album/2jghDZiQx7xhsxN9FTUo5Y"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        },
+        {
+          "name": "Dani King",
+          "url": "https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218017,
+      "name": "SWEET TALKER",
+      "url": "https://open.spotify.com/track/0JmMjwaioiKmyBQOPjlo8U"
+    },
+    {
+      "album": {
         "name": "UNSOUND EP",
         "url": "https://open.spotify.com/album/5OntSYDFZdSm4byHGNiUOj"
       },
@@ -33978,7 +34164,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 236250,
       "name": "THE SIGNAL",
       "url": "https://open.spotify.com/track/29sFte6wzZpG1wciL9XPrZ"
@@ -36355,6 +36541,28 @@
     },
     {
       "album": {
+        "name": "wakeup(crazy) [feat. Angst]",
+        "url": "https://open.spotify.com/album/7lm1i1YAKTD4La9WRkGXak"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "Angst",
+          "url": "https://open.spotify.com/artist/1nFcEfO5iLptFlrBCiDztw"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195517,
+      "name": "wakeup(crazy) [feat. Angst]",
+      "url": "https://open.spotify.com/track/3IR1kOzcLjPbSipZyp1o30"
+    },
+    {
+      "album": {
         "name": "Belly Of The Beast EP",
         "url": "https://open.spotify.com/album/2GLO4hn59wWApS4uMbKrNe"
       },
@@ -36444,7 +36652,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 209142,
       "name": "Walk With Giants",
       "url": "https://open.spotify.com/track/5yGthIUxDOGIENDHO7dGAT"
@@ -37542,7 +37750,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 282065,
       "name": "Within Cells Interlinked",
       "url": "https://open.spotify.com/track/2ZIq0taozbe81UbqyB9yWV"

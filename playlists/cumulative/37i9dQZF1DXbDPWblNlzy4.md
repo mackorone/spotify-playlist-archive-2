@@ -4,7 +4,7 @@
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Maca y Gero
 
-569 songs - 1 day 5 hr 43 min
+570 songs - 1 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Bubblegum](https://open.spotify.com/track/3XwPFhlPNkyDbZqwZVdSci) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7), [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [Bubblegum](https://open.spotify.com/album/4ZCAc1AAAO9O5uQoJtyTgz) | 3:06 | 2024-06-07 | 2024-07-19 |
 | [Buenos Aires](https://open.spotify.com/track/1ItVCwBxcwLvQDh4Y2LjVq) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Buenos Aires](https://open.spotify.com/album/6Ynslwcc3SYcsqihB4eJn0) | 2:55 | 2023-05-26 | 2023-10-07 |
 | [buenos aires](https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [buenos aires](https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc) | 3:23 | 2024-04-12 | 2025-02-15 |
+| [BULLA](https://open.spotify.com/track/0MSOSpT3zFFeHCFDGmvpUU) | [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [BULLA](https://open.spotify.com/album/65dArOxrAgL9TKZNHp74ei) | 2:54 | 2026-04-24 |  |
 | [Cada 12 Horas](https://open.spotify.com/track/3C5HoJa6qd800P5Q2ICrcr) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Lo Que Queda En El Aire](https://open.spotify.com/album/6AkiAuBKXri22573T23r9E) | 3:05 | 2026-04-17 |  |
 | [Café](https://open.spotify.com/track/10qhwiwVoeKVnF7mvr9Uqs) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Afro Vibes \(2024\-07\-19\)](https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ) | 3:16 | 2024-07-26 |  |
 | [CAIRO](https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [CAIRO](https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA) | 3:21 | 2023-03-17 | 2025-03-22 |

@@ -1,15 +1,83 @@
 {
-  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Gusi, Ivan Villazon",
-  "num_followers": 369110,
+  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Rafa Perez",
+  "num_followers": 369112,
   "original_name": "Lo + del Vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAE0ZqQMh3RxtIJyu6tehZYhR/+K",
+  "snapshot_id": "AAAAAIn3h6uslf8kY+ZpYOX/ZEOFlfGn",
   "tracks": [
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
+      "album": {
+        "name": "En Tiempo Real",
+        "url": "https://open.spotify.com/album/1VUkt1XKplcg3cnZVZJMru"
+      },
+      "artists": [
+        {
+          "name": "Rafa Perez",
+          "url": "https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ"
+        },
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "La Familia Que So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/0UKFSqTGGgBrLmytmDjd4W"
+    },
+    {
+      "added_at": "2026-04-24 04:59:14",
+      "album": {
+        "name": "Version Original",
+        "url": "https://open.spotify.com/album/3bdzKN0XxINusa0DO7DRLo"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 296620,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/1tSA4yV2AisiGnZiVz5uux"
+    },
+    {
+      "added_at": "2026-04-24 04:59:14",
+      "album": {
+        "name": "La Historia Continua",
+        "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
+      },
+      "artists": [
+        {
+          "name": "El Gran Martin Elias & Juancho De La Espriella",
+          "url": "https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o"
+        }
+      ],
+      "duration_ms": 315862,
+      "name": "10 Razones para Amarte",
+      "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
+    },
+    {
+      "added_at": "2026-04-24 04:59:14",
+      "album": {
+        "name": "Diomedes Vive",
+        "url": "https://open.spotify.com/album/19vByA1IlHGAogr4eeqier"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        }
+      ],
+      "duration_ms": 301520,
+      "name": "Sin Medir Distancia",
+      "url": "https://open.spotify.com/track/7yx473uSOxKxtrtarfAVde"
+    },
+    {
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Vallenato Social Club",
         "url": "https://open.spotify.com/album/0uXi5UjqNM8zQxizf3tlJ8"
@@ -29,7 +97,7 @@
       "url": "https://open.spotify.com/track/2vKS8OvHJeMgRJft3JrKaD"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Canta Vallenato Homenaje a los Compositores, Vol. 3",
         "url": "https://open.spotify.com/album/2GFmrxZqNM6vuprSv6JWSw"
@@ -49,55 +117,7 @@
       "url": "https://open.spotify.com/track/5zjW146BLKHSo1O2wCYyd6"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
-      "album": {
-        "name": "Version Original",
-        "url": "https://open.spotify.com/album/3bdzKN0XxINusa0DO7DRLo"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 296620,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/1tSA4yV2AisiGnZiVz5uux"
-    },
-    {
-      "added_at": "2026-04-17 04:59:22",
-      "album": {
-        "name": "La Historia Continua",
-        "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
-      },
-      "artists": [
-        {
-          "name": "El Gran Martin Elias & Juancho De La Espriella",
-          "url": "https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o"
-        }
-      ],
-      "duration_ms": 315862,
-      "name": "10 Razones para Amarte",
-      "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
-    },
-    {
-      "added_at": "2026-04-17 04:59:22",
-      "album": {
-        "name": "Vallenato",
-        "url": "https://open.spotify.com/album/6XsNcwOeu2ZgIi1bQtPk3P"
-      },
-      "artists": [
-        {
-          "name": "La Banda del 5",
-          "url": "https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB"
-        }
-      ],
-      "duration_ms": 257000,
-      "name": "Le Hago Caso a Titi",
-      "url": "https://open.spotify.com/track/6IwyydBvphktS0q9vdUQbE"
-    },
-    {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "'TA MALO",
         "url": "https://open.spotify.com/album/75BaMB8qvdrjZrIYwRBNOZ"
@@ -113,23 +133,7 @@
       "url": "https://open.spotify.com/track/4lHjc7jgioQhACpJADMsED"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
-      "album": {
-        "name": "Diomedes Vive",
-        "url": "https://open.spotify.com/album/19vByA1IlHGAogr4eeqier"
-      },
-      "artists": [
-        {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        }
-      ],
-      "duration_ms": 301520,
-      "name": "Sin Medir Distancia",
-      "url": "https://open.spotify.com/track/7yx473uSOxKxtrtarfAVde"
-    },
-    {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "EL CANTOR",
         "url": "https://open.spotify.com/album/7BaZ0Qg89LRnOwSqLIylNp"
@@ -149,7 +153,23 @@
       "url": "https://open.spotify.com/track/0N3AaRr6eQ0vBoepAN1Yzy"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
+      "album": {
+        "name": "Vallenato",
+        "url": "https://open.spotify.com/album/6XsNcwOeu2ZgIi1bQtPk3P"
+      },
+      "artists": [
+        {
+          "name": "La Banda del 5",
+          "url": "https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "Le Hago Caso a Titi",
+      "url": "https://open.spotify.com/track/6IwyydBvphktS0q9vdUQbE"
+    },
+    {
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Ganas De Tenerla",
         "url": "https://open.spotify.com/album/76GQ6FedYkpmjjZgM9fsML"
@@ -165,7 +185,7 @@
       "url": "https://open.spotify.com/track/4IiZh49rYj1hJgBZRlCCXQ"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Experiencias Vividas",
         "url": "https://open.spotify.com/album/7jN66YGPSXc7ibUmQHqsWq"
@@ -185,7 +205,7 @@
       "url": "https://open.spotify.com/track/2jHaeV9nx3KARH8srHZFER"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "El \u00daltimo Baile",
         "url": "https://open.spotify.com/album/0ZoqHpiyTLn22Kw9uXa7si"
@@ -205,7 +225,7 @@
       "url": "https://open.spotify.com/track/3BzqVIUCqTOHjkNRtol9F3"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Eso Va",
         "url": "https://open.spotify.com/album/0dMNFtb1y2AmgQIuZ4kJ6J"
@@ -225,7 +245,7 @@
       "url": "https://open.spotify.com/track/3iGqBfvt9H9ZRyVTMCC5Zj"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "El Altavoz",
         "url": "https://open.spotify.com/album/4xLctyVjT2Syz5xCRZwazX"
@@ -245,7 +265,7 @@
       "url": "https://open.spotify.com/track/1h3zCW4S1sgUowclodpIIK"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Dios No Me Deja",
         "url": "https://open.spotify.com/album/36F3pG39ApiLimW06f9ssR"
@@ -261,7 +281,7 @@
       "url": "https://open.spotify.com/track/6jvPlU4XWAAFukpJwDKMr9"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Celebrar",
         "url": "https://open.spotify.com/album/6UqLI0gR4fjhHhvHrBYk2l"
@@ -277,7 +297,7 @@
       "url": "https://open.spotify.com/track/0L9wmmuP6536NqFqWyMKGu"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "La Jerarqu\u00eda",
         "url": "https://open.spotify.com/album/0rbgeaPpbLvETwqErcbvIU"
@@ -297,7 +317,7 @@
       "url": "https://open.spotify.com/track/7DRlRTXgYF8lhyASJEXkIA"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "No Te Quejes",
         "url": "https://open.spotify.com/album/6JVb7gvhl64GX0dV8VUYqw"
@@ -317,7 +337,7 @@
       "url": "https://open.spotify.com/track/3q5TxKaXVQu3YC8lAk66wA"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "El Trato (Versi\u00f3n Trato Vallenato)",
         "url": "https://open.spotify.com/album/00Vh40XvMHCBnADsXATz19"
@@ -337,7 +357,7 @@
       "url": "https://open.spotify.com/track/2IXzNfWX6Z3hePGioxSd5i"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Los Vallenatos",
         "url": "https://open.spotify.com/album/3GLy8GEhwFORSo2gmdAZOk"
@@ -353,27 +373,7 @@
       "url": "https://open.spotify.com/track/4gfBLwoTD8PMB7zcKqbM5i"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
-      "album": {
-        "name": "Modo Traga",
-        "url": "https://open.spotify.com/album/0I4HVD6onGHYB6Ecjihl0T"
-      },
-      "artists": [
-        {
-          "name": "La Banda del 5",
-          "url": "https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB"
-        },
-        {
-          "name": "Ivan Villazon",
-          "url": "https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7"
-        }
-      ],
-      "duration_ms": 250221,
-      "name": "Modo Traga",
-      "url": "https://open.spotify.com/track/1iqCrrCbEu0jLNKBFK7hZK"
-    },
-    {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "EL HEREDERO II (LIVE)",
         "url": "https://open.spotify.com/album/1EWgGJVlzJNn5xGe4AngCv"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/2kO2ifgfdcTG6idRLNnMts"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Tropicoqueta",
         "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/6zRVWT0bZaBfe9H5z4naf4"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Cosas Sencillas",
         "url": "https://open.spotify.com/album/7unbBGse88W3EmNqFwuD0j"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/4ikMJDrE2nIttXU6d8EbfE"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "A Tu Ladito",
         "url": "https://open.spotify.com/album/4OeWJEnv1nbzxEh59hj2qz"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/0gVleOayBLypjKiXLY24KD"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "La Juma",
         "url": "https://open.spotify.com/album/13hIUugv4LXUG6PITBdZiE"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/0GHpkjLnZpTcZ7ltzmYy7c"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Para Ustedes",
         "url": "https://open.spotify.com/album/1JfE5rJHaf1orCmnwtEDHd"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/0hkMAFDOIP6whke8ckr0bs"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "\u00danico",
         "url": "https://open.spotify.com/album/06wq8hSeOt7YNj8LeJX5Nz"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/3Q7equZktTSZJ3KBytS4cX"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "El Disco Que Me Gusta",
         "url": "https://open.spotify.com/album/3rH6YMIS5KlgGrFRKumNrN"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/0rm6Ey3w4PrWdRac85vXN7"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Esto Que Dice!",
         "url": "https://open.spotify.com/album/1GEQTKbUhZTn8Gt22ao8kH"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/3Xb8tWqcrIDB3DjOIOEFrT"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "De Pel\u00edcula",
         "url": "https://open.spotify.com/album/1CYsPjcRZtBn8ncdOL5peO"
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/4aGOjnyeBktqCHSk6otyqY"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Las Locuras M\u00edas",
         "url": "https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/1nvXQOgTXYwHhDqpKiJA0e"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Ella Es la Que Manda",
         "url": "https://open.spotify.com/album/27eElNKt2w730nusrMyNyE"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/2XS9SpugQuUoCbgc7BcPQw"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "La Solter\u00eda",
         "url": "https://open.spotify.com/album/7vxm6yeIcA63WUGy39KwAT"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/4i7LiTgRjxjlf8PMwRpxEy"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "El Santo Cach\u00f3n (feat. Robinson Damian & Los Gigantes)",
         "url": "https://open.spotify.com/album/6bJiE0zCTa75ZZFBHtOmx8"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/1WWb9zdw08TEAESKJZ8mXW"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Esto Es Vida",
         "url": "https://open.spotify.com/album/2R0WTS8JS1aSyXxosBh4Se"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/7nuhIriqmo87iVEfVkc58T"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Esto Es Vida",
         "url": "https://open.spotify.com/album/2R0WTS8JS1aSyXxosBh4Se"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/7byzvi04FBDvcELhvqnhbV"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Sigo Invicto",
         "url": "https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/5oQ12KlSu359ek2vpJTMX3"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Poncho Zuleta 45 A\u00f1os",
         "url": "https://open.spotify.com/album/5K5ALlnrnBQUwtzzcA4qCy"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/661BYmEBVdUPhMY8X6DhKz"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Grandes Hits - Los Chiches Vallenatos",
         "url": "https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx"
@@ -725,7 +725,7 @@
       "url": "https://open.spotify.com/track/0fVroVR0FTRID4WoeQ6Jko"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Las Inolvidables del Vallenato",
         "url": "https://open.spotify.com/album/1SdZM7xxAKZcRg9NaDAr5z"
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/6xqTd417OZ5FDVSyX5R0wx"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Ni Un Paso Atr\u00e1s",
         "url": "https://open.spotify.com/album/2Tz1nzcBG9Ij3FbOib77cm"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/0Nkhz28DsrfoR4wbqrZV3l"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Homenaje",
         "url": "https://open.spotify.com/album/4iOAopfjsHSqsqpw5jbRVQ"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/2bSnF32fwvIaj603AGo6wn"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
         "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/3wVuD02J4ErPU2jp5QtX10"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Imparables",
         "url": "https://open.spotify.com/album/5HVoQdtTpBV5ek4cEKTKrO"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/6jD818CoibqddGqCEyhjCy"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Serie Platino Estrellas Del Vallenato",
         "url": "https://open.spotify.com/album/5bjygLFtRwYCZMC2SGET99"
@@ -829,7 +829,7 @@
       "url": "https://open.spotify.com/track/2Rq6afZSpqismRLHVqEj2I"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Sigo Invicto",
         "url": "https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/5yzGHMlHHMf859Aek6QgB9"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Sigo Invicto",
         "url": "https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/4mGRIaDuszXYCTGZfLjjpA"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
         "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/6icuSHp83cy4GVtqKkohZq"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Grandes Hits",
         "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
@@ -893,7 +893,7 @@
       "url": "https://open.spotify.com/track/3sMUVwOyhOuQYFmpHfzBZn"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Grandes Hits",
         "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
@@ -909,7 +909,7 @@
       "url": "https://open.spotify.com/track/1BId2hCYqsaajdDYbwZc1p"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
         "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
@@ -929,7 +929,7 @@
       "url": "https://open.spotify.com/track/39pCrC5AA7xhJb98tqWDgb"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
@@ -945,7 +945,7 @@
       "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Canto Vallenato",
         "url": "https://open.spotify.com/album/1nbW9IiNSMm4saZxmma99d"
@@ -965,7 +965,7 @@
       "url": "https://open.spotify.com/track/6hlmfSjhKSWuZDujvW7p74"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
         "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
@@ -985,7 +985,7 @@
       "url": "https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Solo Hits",
         "url": "https://open.spotify.com/album/6dYAG4yFuESDumbt1Ht8re"
@@ -1001,7 +1001,7 @@
       "url": "https://open.spotify.com/track/4BiDQhwCSomDN7A6qGyY2r"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Jorge Celed\u00f3n S\u00f3lo Hits",
         "url": "https://open.spotify.com/album/67EsvtIlpTOT1ZT7blrORN"
@@ -1021,7 +1021,7 @@
       "url": "https://open.spotify.com/track/24ZveL4gIHiWd1xySBIlKU"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "A Mi Manera",
         "url": "https://open.spotify.com/album/6kpMEptxTLyqUZ1yjIqKTt"
@@ -1041,7 +1041,7 @@
       "url": "https://open.spotify.com/track/2iXtZSokZMtYdnwP8Cp6et"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Lo Mejor 17 Grandes Exitos",
         "url": "https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz"
@@ -1061,7 +1061,7 @@
       "url": "https://open.spotify.com/track/5Wq23w03Py3362XEGxQJO5"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Grandes Hits",
         "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
@@ -1077,7 +1077,7 @@
       "url": "https://open.spotify.com/track/3vD0lvTizLj1jr8QE75Y9x"
     },
     {
-      "added_at": "2026-04-17 04:59:22",
+      "added_at": "2026-04-24 04:59:14",
       "album": {
         "name": "Ya No Me Duele M\u00e1s",
         "url": "https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL"

@@ -2271,6 +2271,24 @@
     },
     {
       "album": {
+        "name": "demos & deeptalks",
+        "url": "https://open.spotify.com/album/06TClLbW8XUaSuSkhDZRh3"
+      },
+      "artists": [
+        {
+          "name": "smello",
+          "url": "https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131201,
+      "name": "gar nichts//demo",
+      "url": "https://open.spotify.com/track/50cKrXByzxnPS2mAymEicy"
+    },
+    {
+      "album": {
         "name": "Gegenteil von Gl\u00fcck",
         "url": "https://open.spotify.com/album/31Q0RTl2JFPyexVMgwub3B"
       },
@@ -6902,24 +6920,6 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
-    },
-    {
-      "album": {
-        "name": "demos & deeptalks",
-        "url": "https://open.spotify.com/album/06TClLbW8XUaSuSkhDZRh3"
-      },
-      "artists": [
-        {
-          "name": "smello",
-          "url": "https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/50cKrXByzxnPS2mAymEicy"
     },
     {
       "album": {

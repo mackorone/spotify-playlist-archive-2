@@ -4,7 +4,7 @@
 
 > Musica dalla comunità LGBQTIA+ 🇮🇹  Santamarea in cover
 
-404 songs - 23 hr 19 min
+405 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [King's Supreme](https://open.spotify.com/track/4FIzSKOQ54f5HklzEZh5Sd) | [Hell Raton](https://open.spotify.com/artist/6g5SF1Yz63eoPUnJgRHfrz), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Bassi Maestro](https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX), [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Machete Mixtape Gold Edition](https://open.spotify.com/album/57wNKCfBcdWxBD5NbHDSoL) | 4:12 | 2022-06-12 | 2022-06-27 |
 | [Kittin Is High](https://open.spotify.com/track/6TgrLC5nud9cJpLI7EjzOk) | [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL) | [BatBox](https://open.spotify.com/album/55Natk4fqvjCMQkB8ys04q) | 3:51 | 2022-06-26 | 2023-01-25 |
 | [l'alba che tornerai](https://open.spotify.com/track/3RYvA40J85jtXgQOs7yYcN) | [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb) | [l'alba che tornerai](https://open.spotify.com/album/4xQYDLZ35IlVXDjRikQer8) | 2:40 | 2023-06-08 | 2026-04-14 |
+| [LA MIA NATURA](https://open.spotify.com/track/1X9EPxwDC2jmAG9W6E8JNe) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [LA MIA NATURA](https://open.spotify.com/album/3Fm8nnldpUkDMe84J0tf2A) | 3:41 | 2026-04-24 |  |
 | [La musica illegale](https://open.spotify.com/track/1NWBuL5RKNJpsdN56inHKr) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [La terza estate dell'amore](https://open.spotify.com/album/7ePIYYUhWiw1bPKPj31DCa) | 3:44 | 2021-11-19 | 2023-06-09 |
 | [La parte più profonda del cuore](https://open.spotify.com/track/2uI9eUfp9scihf97rS0Jt8) | [Mavie](https://open.spotify.com/artist/30GaJAaSibzoE6iOBSO9N7), [sedd](https://open.spotify.com/artist/3wtF9cMx6D056zCdoMexs6) | [La parte più profonda del cuore](https://open.spotify.com/album/2rmrPqKDWivbquuLFlMRTq) | 2:57 | 2023-11-09 |  |
 | [LA POLICE](https://open.spotify.com/track/1cTi2HkrcMPbyVoqzNUqwr) | [SPLENDORE](https://open.spotify.com/artist/0WeNBS6jjzTYWe3eywkuuq), [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX), [Pan Dan](https://open.spotify.com/artist/4vfG2njRnPeOTEq3OpW3T6) | [LA POLICE](https://open.spotify.com/album/1wwK4u12VfUgXNsXUjE2km) | 3:23 | 2021-11-19 | 2024-02-13 |

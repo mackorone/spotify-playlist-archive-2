@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,376 songs - 9 day 16 hr 55 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,377 songs - 9 day 16 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4384,5 +4384,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4374 | [BLACK STAR \- SINGOLO](https://open.spotify.com/track/7In4JGEpZPLTyuckV69bBV) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [BLACK STAR \(SINGOLO\)](https://open.spotify.com/album/6DrwTjhBvwsIpDHGdGRUdi) | 3:50 |
 | 4375 | [OPEN AND CLOSE YOURSELF](https://open.spotify.com/track/2FxLjv7GfqP0csK1Xc5Br3) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [YOGYETY & AI](https://open.spotify.com/album/4iXiqES3b6P7toYWq2ZCpd) | 3:59 |
 | 4376 | [Bless the Morning Train](https://open.spotify.com/track/4ZMJoKSQdonpU8UT2Gwr0d) | [Funeral Letters](https://open.spotify.com/artist/0cDgNx7GyU4qBNjuQ1Zy7H) | [Bless the Morning Train](https://open.spotify.com/album/1jGZQCB0ldwwsXisZYUDDC) | 3:15 |
+| 4377 | [Alba](https://open.spotify.com/track/10jU44SZcCkZ2CdX7sCTTu) | [Civico97](https://open.spotify.com/artist/4iS1xr1BJF12FN1QWb2A21) | [Alba](https://open.spotify.com/album/6TmifkwpRrtt0YwZi2AqLj) | 3:12 |
 
-Snapshot ID: `AAAIbm3JgPQmvFFRP0z+D4c8mthahDTc`
+Snapshot ID: `AAAIb86kRQ4f/0iz3k9ciqj0K924Hgds`

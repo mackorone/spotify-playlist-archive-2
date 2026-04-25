@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby8tlLbzqaH.md) - [plain]
 
 > White noise to help babies fall asleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,389 likes - 148 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,670 likes - 148 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby8tlLbzqaH.md) - [plain]
 | 61 | [White Noise In The Evening](https://open.spotify.com/track/6O8xBU7yOBK6DCiFCxvG6B) | [Scientific Sleep](https://open.spotify.com/artist/02Mjmf0YHGLykH3ET3nJ37) | [Sleep In Outer Space](https://open.spotify.com/album/0QoBo09odd3fT0jhojratL) | 2:11 |
 | 62 | [Lost In Noise](https://open.spotify.com/track/5dKAN40CfHqXP7hHDXtMtl) | [Libronics](https://open.spotify.com/artist/3aRPewMsLWgCfDyogfVWja) | [Sky Full Of Noise](https://open.spotify.com/album/0smg0ZqmbCMR489whHG7Bc) | 2:13 |
 | 63 | [Velvet White Noise](https://open.spotify.com/track/24d4j7cIt4HOVDw10BVBxl) | [Casper White](https://open.spotify.com/artist/4weaxjLzThghACmvjNt9JT) | [Velvet White Noise](https://open.spotify.com/album/6MHYI6rZPfrkLqllWCk5HW) | 2:30 |
-| 64 | [White Noise Dreaming](https://open.spotify.com/track/3XQcmUXD9q6RcF6CHCoYXc) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 |
+| 64 | [White Noise Dreaming](https://open.spotify.com/track/3XQcmUXD9q6RcF6CHCoYXc) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 |
 | 65 | [Sleep With White Noise](https://open.spotify.com/track/4GYPT9EGhQ5qvJ9vkubDLC) | [Nobsil](https://open.spotify.com/artist/7flGFW8VeFeveEvMR3MI4m) | [Sleep With White Noise](https://open.spotify.com/album/4Otyz0kOlV9DnrgLSc62Qu) | 3:15 |
 | 66 | [Low Slow Noise](https://open.spotify.com/track/5RpqglzYhFDpxDlQXwol9P) | [Soundstars](https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8) | [Low Slow Noise](https://open.spotify.com/album/3duCww2adwRWRR8811ErjL) | 2:05 |
 | 67 | [Sky Full Of Noise](https://open.spotify.com/track/4I2WSkwqRf5wJC1WxlcqYk) | [Libronics](https://open.spotify.com/artist/3aRPewMsLWgCfDyogfVWja) | [Sky Full Of Noise](https://open.spotify.com/album/0smg0ZqmbCMR489whHG7Bc) | 2:19 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby8tlLbzqaH.md) - [plain]
 | 70 | [Sphere of White Noise](https://open.spotify.com/track/7li9YpEf6UHef3eLNQCmDZ) | [Spheres of Air](https://open.spotify.com/artist/4ocFgSJFk2gM8GdSkAo3jv) | [Sphere of White Noise](https://open.spotify.com/album/2wkcsYwf8lbKal2eA0hd6j) | 2:26 |
 | 71 | [System Shutdown](https://open.spotify.com/track/4SJTFnmmfxotIdw2psMeDp) | [Synthetic Architect](https://open.spotify.com/artist/7CUcdQhE3WLGPzn3sEJNd5) | [Digitalion](https://open.spotify.com/album/2rHCzAuZnw7DcH7R0Nv2fM) | 3:00 |
 | 72 | [White Cloud Noise](https://open.spotify.com/track/4sSUWGb5TSL0RWgtcGv7eq) | [Fizzonaut](https://open.spotify.com/artist/0NBa3X8xLJZR9XD1BK7zI9) | [White Cloud Noise](https://open.spotify.com/album/6rKbwqFP19UCdwcCJ0yAUO) | 2:36 |
-| 73 | [White Noise for Relaxation](https://open.spotify.com/track/6C1WVY1WE6wXNXVAAZsb0x) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 |
+| 73 | [White Noise for Relaxation](https://open.spotify.com/track/6C1WVY1WE6wXNXVAAZsb0x) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 |
 | 74 | [Steady White Noise](https://open.spotify.com/track/4ID1a370qWzckFVYeHW597) | [Nature Calm](https://open.spotify.com/artist/7q3i8BbWfYPSZmTMJtge2P) | [Steady White Noise](https://open.spotify.com/album/5bUta7LvymzkOZ0sXYRAAo) | 2:50 |
 | 75 | [Dreamy Noise](https://open.spotify.com/track/5u7BfGhAyEdDOuE7SwKmPn) | [Peaceful Me](https://open.spotify.com/artist/0kqpe0tVo45rneU3mFLheu) | [White Dream Noise](https://open.spotify.com/album/7mrF4ggROKkyntvBLEl590) | 2:22 |
 | 76 | [Nap Noise](https://open.spotify.com/track/3ZoQVbQygzjKMERzQCuUll) | [Alpha Noise](https://open.spotify.com/artist/3D11xwI7KbEPyQxdYCoyI6) | [Sounds of Serenity](https://open.spotify.com/album/5torbd6LM91zIYzUDvRGhW) | 2:38 |

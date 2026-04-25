@@ -3487,6 +3487,24 @@
     },
     {
       "album": {
+        "name": "Last Flight Home",
+        "url": "https://open.spotify.com/album/3TS7vwd8nyPCSTh2I7cCY1"
+      },
+      "artists": [
+        {
+          "name": "Crystal Motel",
+          "url": "https://open.spotify.com/artist/6UD8pS3KW4GX4PPxza4OW3"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133894,
+      "name": "Last Flight Home",
+      "url": "https://open.spotify.com/track/74cIJLvDb0MqZeFWYFISIJ"
+    },
+    {
+      "album": {
         "name": "LOUIE",
         "url": "https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj"
       },
@@ -6596,6 +6614,24 @@
       "duration_ms": 140714,
       "name": "unconscious",
       "url": "https://open.spotify.com/track/20pZcg9G1bmCxFaBvpyhf5"
+    },
+    {
+      "album": {
+        "name": "Underpass Reverie",
+        "url": "https://open.spotify.com/album/6CW2fbIEzrUZVF0V3ooZcz"
+      },
+      "artists": [
+        {
+          "name": "Night Shapes",
+          "url": "https://open.spotify.com/artist/6PRP1lwrRpqb8gfYERsnhV"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148235,
+      "name": "Underpass Reverie",
+      "url": "https://open.spotify.com/track/5YPZBk1PtKjY4UzR7N8US9"
     },
     {
       "album": {

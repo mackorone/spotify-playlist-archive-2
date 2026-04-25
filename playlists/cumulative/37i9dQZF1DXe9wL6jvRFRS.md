@@ -4,11 +4,11 @@
 
 > spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. My New Band Believe on the cover.
 
-85 songs - 6 hr 15 min
+91 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Adam & Steve](https://open.spotify.com/track/4sNK6e3OTZCW1jo4Lkkg6s) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Adam & Steve](https://open.spotify.com/album/7yV48nbPydSyv2xod1SQLe) | 2:30 | 2025-07-10 |  |
+| [Adam & Steve](https://open.spotify.com/track/4sNK6e3OTZCW1jo4Lkkg6s) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Adam & Steve](https://open.spotify.com/album/7yV48nbPydSyv2xod1SQLe) | 2:30 | 2025-07-10 | 2026-04-25 |
 | [Again](https://open.spotify.com/track/4MSUuHSBqAeCrVccm5qoMw) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Anywhere But Here](https://open.spotify.com/album/18w7oi2HN7XeQD2CMNCFHV) | 3:18 | 2025-07-10 |  |
 | [All In The Game](https://open.spotify.com/track/5XBUiVkYaDuKhtSV3Fx32f) | [Moreish Idols](https://open.spotify.com/artist/7DoCMYqpSbn3kgBSWDpnLP) | [All In The Game](https://open.spotify.com/album/4zhTIqcLbPovVPYtWAtFhM) | 3:51 | 2025-07-10 |  |
 | [An Altar](https://open.spotify.com/track/0DEy93ZO2okor4lijxtDZl) | [Speedial](https://open.spotify.com/artist/6mPywLRzgpD0KGRe89WECW) | [Light of the Late Night](https://open.spotify.com/album/5b09wYh14OreAunqhRneXP) | 4:15 | 2025-07-10 |  |
@@ -19,6 +19,7 @@
 | [Besties](https://open.spotify.com/track/4U9ZjqhaGF9wl56899E4sW) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Forever Howlong](https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t) | 3:36 | 2025-07-10 |  |
 | [Beth's Farm](https://open.spotify.com/track/2kGjHqfS3WwxLGdK7iyDcE) | [Jerskin Fendrix](https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW) | [Beth's Farm](https://open.spotify.com/album/10QYpDV0UVg4afKssMF4DY) | 5:33 | 2025-07-10 |  |
 | [Bleary Eyes](https://open.spotify.com/track/2LAjXMH1tI47GrUvh9F3LP) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [Bleary Eyes](https://open.spotify.com/album/49iYguszBaXRFS3et4VZTD) | 4:53 | 2025-09-26 |  |
+| [call it a voice](https://open.spotify.com/track/797obuwdMxkr0Wtzj0wXbe) | [big long sun](https://open.spotify.com/artist/7KghaMsYBI5iWt1nAPgJM2) | [call it a voice](https://open.spotify.com/album/6l5UvoQtzal9Snrc4WzZs3) | 2:56 | 2026-04-24 |  |
 | [Candy Flip](https://open.spotify.com/track/7FSWfaH7VYM96fQWovWmtn) | [kisses](https://open.spotify.com/artist/7MbkSrmyackm8thDTLCqFR) | [You Are in My Dreams](https://open.spotify.com/album/4F1eCGZrxqFTLXtLuiU0R9) | 3:48 | 2026-02-06 |  |
 | [Cloudy](https://open.spotify.com/track/3McNxe4ofvYZ9uR84Cph58) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [Cloudy](https://open.spotify.com/album/1cmYpshLS9j5ctqvq2z5HE) | 6:20 | 2025-07-10 |  |
 | [Coldplay cover](https://open.spotify.com/track/2Ht1gsebaD2W5LWAZvYoPG) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline 2](https://open.spotify.com/album/1CmdanwOGnV5QevtJQL6bN) | 4:16 | 2025-07-10 |  |
@@ -34,6 +35,7 @@
 | [Don't](https://open.spotify.com/track/4DjMJy8edIKQsIbExacgnG) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Real Deal](https://open.spotify.com/album/20QRMueqfMw1nHWOfXZGOL) | 2:45 | 2025-07-10 |  |
 | [drains](https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [drains](https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q) | 3:48 | 2025-07-10 |  |
 | [Estuary of Dreams](https://open.spotify.com/track/2jlzjYKhS5DUPrra0LTrYP) | [Eunuchs](https://open.spotify.com/artist/4eJrZ6yGKOg1r0M9hnXmxU) | [Harbour Century](https://open.spotify.com/album/6lNh2JqZFhiXL7YNnblt64) | 4:29 | 2025-07-10 |  |
+| [Friendship Is The Truth](https://open.spotify.com/track/1cS1w3qvaehzsKCnLatbW4) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [Friendship Is The Truth](https://open.spotify.com/album/6lMArNErrmtXlfSQnu38kQ) | 5:36 | 2026-04-24 |  |
 | [Gallowine](https://open.spotify.com/track/2YHbbGCtiiwo2rEP1FupL0) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Gallowine](https://open.spotify.com/album/0hsKCAq5BVL0VEUe85jH4V) | 4:09 | 2025-11-14 |  |
 | [Gloss](https://open.spotify.com/track/5DN99sJquXAgXDWwA2EFeH) | [Legss](https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F) | [Gloss](https://open.spotify.com/album/6GVgayqdZeufp9XifBtnIf) | 4:22 | 2025-07-10 |  |
 | [Gmaps](https://open.spotify.com/track/0lMhNqruBNotSF05zdntaC) | [cowboyy](https://open.spotify.com/artist/65TVwNWUoKyfvlaxLLJQGh) | [Epic The Movie](https://open.spotify.com/album/6u4N8jsC3u7IYr7esQPICq) | 2:16 | 2025-07-10 |  |
@@ -49,9 +51,11 @@
 | [kick the stars around the trashy sky](https://open.spotify.com/track/0E8oNrJF130vV7XhrKTih3) | [School Fair](https://open.spotify.com/artist/2QPVdwHQoGwMiWEDHT8HF7) | [bird the kid](https://open.spotify.com/album/1nZ8LRi5osH0S4MUjGXtim) | 3:29 | 2025-07-10 |  |
 | [Landscaping](https://open.spotify.com/track/7LQ4TRgCras6mN4D9kUvx6) | [Bug Teeth](https://open.spotify.com/artist/3b90Lpnlon3MrNSPo1a0VD) | [Landscaping](https://open.spotify.com/album/1aTksRGuBQJkDTTzW9hiG1) | 5:59 | 2025-07-10 |  |
 | [Lecture 25](https://open.spotify.com/track/5NKOEid35mXxvcPbV11pLb) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [Lecture 25](https://open.spotify.com/album/1t0OR1fkgxJon5CAosQWMl) | 3:06 | 2025-11-07 |  |
+| [Lord Only Knows Pt\. 1](https://open.spotify.com/track/0wXZTZICaFrB2PzXrcE8T8) | [Otala](https://open.spotify.com/artist/5Ha8b8szNaRXrcXYR0oAXE) | [Lord Only Knows Pt\. 1](https://open.spotify.com/album/0H8pxgbAj9I730rd88vyfz) | 2:09 | 2026-04-24 |  |
 | [Love Is](https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 3:08 | 2025-11-07 |  |
 | [Next To Die](https://open.spotify.com/track/3k6iUhaXZKHQnnLqcGsNps) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Next To Die](https://open.spotify.com/album/0r52QUb7MBNVYBV8bn2B5P) | 4:08 | 2025-07-10 |  |
 | [Nids Niteca](https://open.spotify.com/track/5dZHzvPMx6VvQcHqYYkmp6) | [Junk Drawer](https://open.spotify.com/artist/5t4EvkMzfu9IJui3iiL2Rs) | [Nids Niteca](https://open.spotify.com/album/49071Dn7i7TUEU2fJ5Tyqu) | 2:27 | 2025-07-10 |  |
+| [Nosedive](https://open.spotify.com/track/0TbUriU2INQ0wqNubRpFTX) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Nosedive](https://open.spotify.com/album/6qY5K6aLJkQFfd6mwTnTka) | 5:39 | 2026-04-24 |  |
 | [Numerology](https://open.spotify.com/track/6Lb75cFoDZRiE75muDdEep) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [Numerology](https://open.spotify.com/album/4ImkOlXMswzRT69SPcFhD0) | 4:18 | 2026-02-20 |  |
 | [Only Girl \(Single Version\)](https://open.spotify.com/track/5r3AMNwlDPffDLGnTkiGMP) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Only Girl \(Single Version\)](https://open.spotify.com/album/0JHiCW6hFsIMiHIww3bnDb) | 3:35 | 2025-11-21 |  |
 | [Outlast](https://open.spotify.com/track/1ctDUAAad7Em6JenrjdMNC) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:01 | 2025-08-15 |  |
@@ -75,6 +79,7 @@
 | [Still](https://open.spotify.com/track/1WTYHbDGKGNE7ujGhXj5sD) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Hellfire](https://open.spotify.com/album/68z6MWYYNmvTcru1QMcYId) | 5:46 | 2025-07-10 |  |
 | [Strangers](https://open.spotify.com/track/2cLjmhezy7CVKMTRAOcnEx) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 4:29 | 2026-03-06 |  |
 | [Taflu Dŵr](https://open.spotify.com/track/4OgRIII5BvnFvS4HzLmi4S) | [Peiriant](https://open.spotify.com/artist/2PMWedg2LEETdzWHOB60KI) | [Dychwelyd](https://open.spotify.com/album/1andxDOpfZj8Jzk1uXLosq) | 4:39 | 2025-07-10 |  |
+| [Target Practice](https://open.spotify.com/track/6ViXXJ6TMKmHIbgm3Hgqm8) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [My New Band Believe](https://open.spotify.com/album/0FypCc1StF9mNiLemcuJ3J) | 2:05 | 2026-04-24 |  |
 | [Taxes](https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Taxes](https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE) | 3:17 | 2025-07-10 |  |
 | [Tears Are](https://open.spotify.com/track/7stcnuYJENeGeElIewTiSM) | [The Orielles](https://open.spotify.com/artist/5JWEBEt8VxHHxYKFmpzjwD) | [Tears Are](https://open.spotify.com/album/55qNiuxAaaC6YHvFQMmz6M) | 5:32 | 2026-02-20 |  |
 | [Tell the Bees](https://open.spotify.com/track/707ulKkQ97JLUzIkPpNOAm) | [Otala](https://open.spotify.com/artist/5Ha8b8szNaRXrcXYR0oAXE) | [Tell the Bees](https://open.spotify.com/album/51LbqwNsQknvhicP2SgI11) | 2:21 | 2025-07-10 |  |
@@ -88,6 +93,7 @@
 | [To The Sandals](https://open.spotify.com/track/4V3gfiq0jrRwdvAR7zfcbq) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 4:08 | 2025-11-07 |  |
 | [Tormentor](https://open.spotify.com/track/61K6XZE3e4Myl89Xgd57YS) | [Ninush](https://open.spotify.com/artist/1p5RlGU6wB8WuQc024cWB0) | [The Flowers I See You In](https://open.spotify.com/album/0Xe00l36xtM6l0gRUcGuXu) | 2:40 | 2026-02-06 |  |
 | [Trinidad](https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:44 | 2025-10-08 |  |
+| [Two Dogs](https://open.spotify.com/track/3uN9hWY4v6LRU59opAtvB6) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [Sky is Falling](https://open.spotify.com/album/2Ji3HEhRwkQiSNgDki2mY2) | 5:28 | 2026-04-24 |  |
 | [twothousandandtwo](https://open.spotify.com/track/7BLNcnh1NwIct2oIQuYwV2) | [War Room](https://open.spotify.com/artist/07capJSDwiqRZPkID32RpX) | [Please Don't Fight In Here](https://open.spotify.com/album/1Hd4A3gIU5ZiNnuQ3w3k8N) | 6:00 | 2025-07-10 |  |
 | [Virgin Soil](https://open.spotify.com/track/71JKBAuXDBu6A9IkkNO3SB) | [1000 Rabbits](https://open.spotify.com/artist/6KouMFgMa5zEeyXaeg6fvA) | [Virgin Soil](https://open.spotify.com/album/5I7mZdoalfmV0j3xeKvtix) | 3:30 | 2026-02-20 |  |
 | [We're Home Now](https://open.spotify.com/track/0wuOtAHsrFs7SW0PnS6Ikx) | [Cagefly](https://open.spotify.com/artist/0fIkgtLZMpqeF1OhjIQp0q) | [Cagefly](https://open.spotify.com/album/2dxfj5YVAPAVhbfkoMUprk) | 7:27 | 2025-07-10 |  |

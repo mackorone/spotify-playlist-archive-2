@@ -35960,7 +35960,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 160000,
       "name": "Illvibe",
       "url": "https://open.spotify.com/track/3xxNwh5HZxB0qyzBiVoZbW"
@@ -37426,6 +37426,24 @@
       "duration_ms": 98181,
       "name": "Island Cruise",
       "url": "https://open.spotify.com/track/3yDE818ajAZDNdgArFKutc"
+    },
+    {
+      "album": {
+        "name": "Island Dream",
+        "url": "https://open.spotify.com/album/7KRMkuCW5gZzs4ITre14LZ"
+      },
+      "artists": [
+        {
+          "name": "Mindscape",
+          "url": "https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "Island Dream",
+      "url": "https://open.spotify.com/track/4r1TL5VYZQAaFPPYnPwAKf"
     },
     {
       "album": {
@@ -58184,7 +58202,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 128873,
       "name": "Outlines",
       "url": "https://open.spotify.com/track/4kPeJwqxGDX7DJYFuOCQAF"
@@ -61496,6 +61514,28 @@
       "duration_ms": 173098,
       "name": "Pok\u00e9mon Center",
       "url": "https://open.spotify.com/track/0B0Uf2JZsO1QtNthcsmKz1"
+    },
+    {
+      "album": {
+        "name": "Polaroids",
+        "url": "https://open.spotify.com/album/6Z4oxIV8uRTX3IIEeZsWWp"
+      },
+      "artists": [
+        {
+          "name": "Midnight Hour",
+          "url": "https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5"
+        },
+        {
+          "name": "Two Scents",
+          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138352,
+      "name": "Polaroids",
+      "url": "https://open.spotify.com/track/7kedyO9WGXcrvpRATAX0C8"
     },
     {
       "album": {

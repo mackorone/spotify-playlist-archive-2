@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKmVW6fwfVy7.md) - [plain]
 | 16 | [Olé](https://open.spotify.com/track/1bvchohAYUOUzs2VFg5csn) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Legacy \- De Líder a Leyenda Tour \(Deluxe Edition\)](https://open.spotify.com/album/0kEZti5UKQ2Dgc5o5ts5TQ) | 4:07 |
 | 17 | [Amo](https://open.spotify.com/track/5zd0mhZXtuEkT34bs5Pp3M) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Me Llamaré Tuyo Reloaded](https://open.spotify.com/album/3vCYjsWpDRQVcF940ElOTA) | 3:53 |
 | 18 | [Como Antes](https://open.spotify.com/track/35H0Rl34q7UoRuSsf4QOxr) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Me Llamaré Tuyo Reloaded](https://open.spotify.com/album/3vCYjsWpDRQVcF940ElOTA) | 4:03 |
-| 19 | [Teléfono](https://open.spotify.com/track/0ScX4wxJkZhsyEbIPYZljr) | [El Internacional & Mister J](https://open.spotify.com/artist/2cYSl8IdyVdg17ba9SIO3t) | [504](https://open.spotify.com/album/3CBiA4jPz1DhG5SOURMatU) | 3:26 |
-| 20 | [Minuto](https://open.spotify.com/track/0XrFvfVrKviEKMp59WdAgm) | [El Internacional & Mister J](https://open.spotify.com/artist/2cYSl8IdyVdg17ba9SIO3t) | [504](https://open.spotify.com/album/3CBiA4jPz1DhG5SOURMatU) | 3:48 |
-| 21 | [Tú](https://open.spotify.com/track/4iOvBMJaQHYVr5ZcxBpN0K) | [El Internacional & Mister J](https://open.spotify.com/artist/2cYSl8IdyVdg17ba9SIO3t) | [504](https://open.spotify.com/album/3CBiA4jPz1DhG5SOURMatU) | 2:49 |
-| 22 | [Poco a Poquito](https://open.spotify.com/track/59NmhscVDdq8lPILs9fF3p) | [El Internacional & Mister J](https://open.spotify.com/artist/2cYSl8IdyVdg17ba9SIO3t) | [504](https://open.spotify.com/album/3CBiA4jPz1DhG5SOURMatU) | 3:03 |
-| 23 | [Me Gustó](https://open.spotify.com/track/0qZLgZHQ7JlRyE8oiBYKbS) | [El Internacional & Mister J](https://open.spotify.com/artist/2cYSl8IdyVdg17ba9SIO3t) | [504](https://open.spotify.com/album/3CBiA4jPz1DhG5SOURMatU) | 3:19 |
+| 19 | [Teléfono](https://open.spotify.com/track/4pwb0keNhNMmMvQjbWBbGp) | [El Internacional & Mister J](https://open.spotify.com/artist/2cYSl8IdyVdg17ba9SIO3t) | [504](https://open.spotify.com/album/5zONvE7Uetjn3EYdATjKZ1) | 3:26 |
+| 20 | [Minuto](https://open.spotify.com/track/4Bvo9HG2seMndlIqC9q1Vx) | [El Internacional & Mister J](https://open.spotify.com/artist/2cYSl8IdyVdg17ba9SIO3t) | [504](https://open.spotify.com/album/5zONvE7Uetjn3EYdATjKZ1) | 3:48 |
+| 21 | [Tú](https://open.spotify.com/track/7KVPGmENpQXVr3NxpyKllx) | [El Internacional & Mister J](https://open.spotify.com/artist/2cYSl8IdyVdg17ba9SIO3t) | [504](https://open.spotify.com/album/5zONvE7Uetjn3EYdATjKZ1) | 2:49 |
+| 22 | [Poco a Poquito](https://open.spotify.com/track/4KZAhZ7ks380kNLc7AMrbN) | [El Internacional & Mister J](https://open.spotify.com/artist/2cYSl8IdyVdg17ba9SIO3t) | [504](https://open.spotify.com/album/5zONvE7Uetjn3EYdATjKZ1) | 3:03 |
+| 23 | [Me Gustó](https://open.spotify.com/track/3bkMHSYmYOCns07LbIxKb0) | [El Internacional & Mister J](https://open.spotify.com/artist/2cYSl8IdyVdg17ba9SIO3t) | [504](https://open.spotify.com/album/5zONvE7Uetjn3EYdATjKZ1) | 3:19 |
 
-Snapshot ID: `AcPqCgAAAABUN73eOriz/b4wBXUVnRxr`
+Snapshot ID: `AcPvqgAAAABQJXPfl/MKbM984TaNDHNb`

@@ -478,7 +478,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 153750,
       "name": "Black Jack",
       "url": "https://open.spotify.com/track/7uylPBzqcGz9qw2jHwjF9J"
@@ -518,7 +518,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 294229,
       "name": "Blue Line To Monroe",
       "url": "https://open.spotify.com/track/1a9k30I4NBW6cOUoH4GLIn"
@@ -660,7 +660,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 187920,
       "name": "By The Hour",
       "url": "https://open.spotify.com/track/5opoEqziQvyGT8R58QoLKL"
@@ -3309,6 +3309,28 @@
     },
     {
       "album": {
+        "name": "Out The Door",
+        "url": "https://open.spotify.com/album/05vealRTvoialI53c8oVBF"
+      },
+      "artists": [
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        },
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180960,
+      "name": "Out The Door",
+      "url": "https://open.spotify.com/track/6FToCZsVMGrBKb84pcTtS3"
+    },
+    {
+      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/1ybQKmpKRvTWEDzbWfKZQq"
       },
@@ -3558,7 +3580,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 169846,
       "name": "Positive",
       "url": "https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF"
@@ -4455,6 +4477,28 @@
     },
     {
       "album": {
+        "name": "This Is House",
+        "url": "https://open.spotify.com/album/4l1keINo59f9KRRK0Qsy1j"
+      },
+      "artists": [
+        {
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+        },
+        {
+          "name": "Gene Farris",
+          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192383,
+      "name": "This Is House",
+      "url": "https://open.spotify.com/track/1TyVon4cY1g8APEvI0QNBF"
+    },
+    {
+      "album": {
         "name": "This Is My Life (Bontan Remix)",
         "url": "https://open.spotify.com/album/280MVEV8ylL30zAvcIbegG"
       },
@@ -4784,6 +4828,24 @@
       "duration_ms": 175443,
       "name": "WHAT?!",
       "url": "https://open.spotify.com/track/7s3T3e0lbzV4l7i4F7JVmp"
+    },
+    {
+      "album": {
+        "name": "Whatcha Do To Me",
+        "url": "https://open.spotify.com/album/1FPuoX8VWiPV0p1iUYkgU5"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262153,
+      "name": "Whatcha Do To Me",
+      "url": "https://open.spotify.com/track/2B6NPa5xN0ktAoEFXC7Ar9"
     },
     {
       "album": {

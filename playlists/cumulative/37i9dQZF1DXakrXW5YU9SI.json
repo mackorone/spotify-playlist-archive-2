@@ -2129,6 +2129,24 @@
     },
     {
       "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231746,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN"
+    },
+    {
+      "album": {
         "name": "Choosin' Texas",
         "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
       },
@@ -2198,6 +2216,24 @@
       "duration_ms": 198960,
       "name": "Cigarettes out the Window",
       "url": "https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO"
+    },
+    {
+      "album": {
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190842,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
     },
     {
       "album": {
@@ -2600,7 +2636,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 150000,
       "name": "Czemu pozwoli\u0142e\u015b kocha\u0107?",
       "url": "https://open.spotify.com/track/00ITfmQnKbU69YUMimdI1U"
@@ -2702,7 +2738,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 177120,
       "name": "Czy wie?",
       "url": "https://open.spotify.com/track/4rTDbgvrOW9ICPoZjRCeTe"
@@ -2814,7 +2850,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 208626,
       "name": "Darlin'",
       "url": "https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS"
@@ -3508,6 +3544,42 @@
       "duration_ms": 292093,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
+    },
+    {
+      "album": {
+        "name": "Wishbone Deluxe",
+        "url": "https://open.spotify.com/album/18BxfsH93SUb77MlISUt60"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234015,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/3TFteVg7d3VCHrRv0ASyOo"
+    },
+    {
+      "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231086,
+      "name": "Doors",
+      "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
     },
     {
       "album": {
@@ -4525,6 +4597,24 @@
     },
     {
       "album": {
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/44cncbCJZmCv6KG46Er55K"
+      },
+      "artists": [
+        {
+          "name": "Maciej Musia\u0142owski",
+          "url": "https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210927,
+      "name": "Flora",
+      "url": "https://open.spotify.com/track/4nt2VQt6uW3hfKISgx6rh4"
+    },
+    {
+      "album": {
         "name": "Fly Or Burn",
         "url": "https://open.spotify.com/album/6ccFSIicUBAXD3oVFXDuA6"
       },
@@ -5050,7 +5140,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 337215,
       "name": "halo",
       "url": "https://open.spotify.com/track/4Uo6yqnZASIngGDjONda74"
@@ -5672,6 +5762,24 @@
       "duration_ms": 190955,
       "name": "I OWE IT TO YOU",
       "url": "https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7"
+    },
+    {
+      "album": {
+        "name": "I Saw Your Face",
+        "url": "https://open.spotify.com/album/6PM2d4YZxyXLO05TWXoSm7"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189569,
+      "name": "I Saw Your Face",
+      "url": "https://open.spotify.com/track/3cLBx0lEWPKSM99hx5RVcx"
     },
     {
       "album": {
@@ -7151,6 +7259,24 @@
     },
     {
       "album": {
+        "name": "Lepiej mu sz\u0142o kiedy pi\u0142",
+        "url": "https://open.spotify.com/album/3w82yksCMNMcBN9iH6T4Dt"
+      },
+      "artists": [
+        {
+          "name": "SKUBAS",
+          "url": "https://open.spotify.com/artist/5BoG8WljgEsbLOtoK5IAok"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162374,
+      "name": "Lepiej mu sz\u0142o kiedy pi\u0142",
+      "url": "https://open.spotify.com/track/44BCYQIk6rrX8vtxfvbej5"
+    },
+    {
+      "album": {
         "name": "Lepsze dni",
         "url": "https://open.spotify.com/album/4b98rZf8iYZ5lyux2knvGS"
       },
@@ -8218,6 +8344,24 @@
       "duration_ms": 204778,
       "name": "Miyazaki",
       "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
+    },
+    {
+      "album": {
+        "name": "mi\u0119kn\u0119&wi\u0119dn\u0119",
+        "url": "https://open.spotify.com/album/1bN93Gj7Xry16P81TlCulw"
+      },
+      "artists": [
+        {
+          "name": "Qncicka",
+          "url": "https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "mi\u0119kn\u0119&wi\u0119dn\u0119",
+      "url": "https://open.spotify.com/track/5VGl9p1HU0lBGmyZtfitbG"
     },
     {
       "album": {
@@ -10076,7 +10220,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 163200,
       "name": "Odkochaj",
       "url": "https://open.spotify.com/track/0ALsDccwFMj8QznHPah8fn"
@@ -10932,6 +11076,24 @@
       "duration_ms": 170257,
       "name": "Piosenka z Portugalii",
       "url": "https://open.spotify.com/track/2O9i6Ye9T6CgWDATXWSyRx"
+    },
+    {
+      "album": {
+        "name": "Piosenki z film\u00f3w, kt\u00f3rych nie by\u0142o",
+        "url": "https://open.spotify.com/album/7s2bGUQv7ftvuBe7F372sA"
+      },
+      "artists": [
+        {
+          "name": "micha\u0142 od ko\u015bci",
+          "url": "https://open.spotify.com/artist/4SWaZDXBz7FgqxwOi0iVtI"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234352,
+      "name": "Pi\u0105tki",
+      "url": "https://open.spotify.com/track/7hN6LIVSU8WlbZ383vtLPA"
     },
     {
       "album": {
@@ -12740,7 +12902,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 193500,
       "name": "Serce",
       "url": "https://open.spotify.com/track/1ox1cmqXrGCuakXoJFPR8v"
@@ -13026,7 +13188,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 164949,
       "name": "Si\u00f3dma Sosna",
       "url": "https://open.spotify.com/track/4bLfMCa2nYQnWOeMcqLiY9"
@@ -13358,7 +13520,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 173538,
       "name": "SPLINTER",
       "url": "https://open.spotify.com/track/3jjIOrKthJeLRtjwTKROfj"
@@ -13876,7 +14038,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 157607,
       "name": "Szeroko\u015bci!",
       "url": "https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8"
@@ -14064,7 +14226,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 185742,
       "name": "Takie Jak Ty",
       "url": "https://open.spotify.com/track/2gcZYpILe02niCNP9NNGVf"
@@ -16403,6 +16565,24 @@
     },
     {
       "album": {
+        "name": "Wi\u0119cej czasu na mi\u0142o\u015b\u0107",
+        "url": "https://open.spotify.com/album/5JNkppeS6JqBu7lM0fSgqD"
+      },
+      "artists": [
+        {
+          "name": "PAULA ROMA",
+          "url": "https://open.spotify.com/artist/6Sw43ZkxX0u3t4cjxlzbzs"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252933,
+      "name": "Wi\u0119cej czasu na mi\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/5o7X5kqohQgvHjKBd66338"
+    },
+    {
+      "album": {
         "name": "Wolta",
         "url": "https://open.spotify.com/album/59hCJs29RWZ0SdfxiXzGfs"
       },
@@ -17294,7 +17474,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 227478,
       "name": "Znowu wieje",
       "url": "https://open.spotify.com/track/5HlHhNAkpHfSgbFjbUR1FU"
@@ -17381,6 +17561,24 @@
     },
     {
       "album": {
+        "name": "Z\u0142ote dziecko",
+        "url": "https://open.spotify.com/album/0AjzDqzVYdrHPA5xJp9JDq"
+      },
+      "artists": [
+        {
+          "name": "SARGIS",
+          "url": "https://open.spotify.com/artist/114qvfOgYaQqBLv7Ta3WWL"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181759,
+      "name": "Z\u0142ote dziecko",
+      "url": "https://open.spotify.com/track/6pCuligFuNPC62FJRHZcNx"
+    },
+    {
+      "album": {
         "name": "lekko",
         "url": "https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ"
       },
@@ -17410,7 +17608,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 253551,
       "name": "Z\u0142y, najgorszy sen",
       "url": "https://open.spotify.com/track/53DdqsoSrwQIa1gphtIJgF"
@@ -17450,6 +17648,24 @@
       "duration_ms": 233534,
       "name": "\u0141za",
       "url": "https://open.spotify.com/track/4mCbpDFKxtGkCzWixh2rDE"
+    },
+    {
+      "album": {
+        "name": "\u015awietnie",
+        "url": "https://open.spotify.com/album/5qRvGMaZjf20GX4YrzALZh"
+      },
+      "artists": [
+        {
+          "name": "Sonbird",
+          "url": "https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200820,
+      "name": "\u015awietnie",
+      "url": "https://open.spotify.com/track/2W9yJOkL3YoCS4cyWhw0gG"
     },
     {
       "album": {

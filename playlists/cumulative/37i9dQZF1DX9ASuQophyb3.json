@@ -9267,6 +9267,28 @@
     },
     {
       "album": {
+        "name": "Su\u00e7lu 2 Ki\u015fi",
+        "url": "https://open.spotify.com/album/5FTiMOlyay3g7g8W8ov5F1"
+      },
+      "artists": [
+        {
+          "name": "Funda G\u00fcrses",
+          "url": "https://open.spotify.com/artist/6ckx56LT9XFELdCMdZsalW"
+        },
+        {
+          "name": "Hakan Altun",
+          "url": "https://open.spotify.com/artist/2AhmWHekrahJri4f5e08Tf"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183720,
+      "name": "Su\u00e7lu 2 Ki\u015fi",
+      "url": "https://open.spotify.com/track/7lziKxEEEx0yo5L3s5fPUY"
+    },
+    {
+      "album": {
         "name": "S\u00f6yleyin O Benim G\u00f6ky\u00fcz\u00fcm G\u00fcne\u015fim",
         "url": "https://open.spotify.com/album/6xAyvIhPkqezIrLTRT5xtK"
       },
@@ -11510,7 +11532,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 255612,
       "name": "\u00dczg\u00fcn\u00fcm (Talu \u015eark\u0131lar\u0131)",
       "url": "https://open.spotify.com/track/5V2PVVkNhtCyZoG9QmLNGN"

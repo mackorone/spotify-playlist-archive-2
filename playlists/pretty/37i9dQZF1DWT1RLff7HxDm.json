@@ -1,13 +1,29 @@
 {
   "description": "All live, all blues. Cover: Samantha Fish",
-  "num_followers": 202949,
+  "num_followers": 202974,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALT/F/1JGwUCOeBoYLF65rZ7r80J",
+  "snapshot_id": "AAAAAIYVsQc7tNWUcF9WPsL24tFlVM/0",
   "tracks": [
+    {
+      "added_at": "2026-04-24 04:03:30",
+      "album": {
+        "name": "Tattoo'd Lady (Live)",
+        "url": "https://open.spotify.com/album/3N8Z7hdXgunJUDNP0Nr5Yg"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 380813,
+      "name": "Tattoo'd Lady (Live)",
+      "url": "https://open.spotify.com/track/2F2MZqad3d1iWGqKh38HMu"
+    },
     {
       "added_at": "2026-04-10 04:00:42",
       "album": {
@@ -811,22 +827,6 @@
       "duration_ms": 312824,
       "name": "Mad As A Hatter (Live In Concert)",
       "url": "https://open.spotify.com/track/0on0Y3tC9iHoPGYPBoJgFY"
-    },
-    {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
-        "name": "The Loyal Kind (Live)",
-        "url": "https://open.spotify.com/album/0ApJp0w406tV4tWNFwMWBk"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 394106,
-      "name": "The Loyal Kind (Live)",
-      "url": "https://open.spotify.com/track/3VlxQrEaQAehaxvPUpN9Gi"
     },
     {
       "added_at": "2020-10-30 17:47:12",

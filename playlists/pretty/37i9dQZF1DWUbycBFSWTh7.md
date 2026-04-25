@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > get into the groove with a selection of new underground deep house
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,557 likes - 134 songs - 12 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,582 likes - 134 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 133 | [Silky, Buttery, Smooth](https://open.spotify.com/track/1vX5qb6Y5KjneEpKBjIHo5) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Silky, Buttery, Smooth](https://open.spotify.com/album/3kAlMLdXh5SJcN8B9WPAlJ) | 3:04 |
 | 134 | [If I Could](https://open.spotify.com/track/41iOaljQRzb0sQ20Yrqv2S) | [Paul Hawkins](https://open.spotify.com/artist/2yWzNcBbN6nFlT0WleVvSc), [Carl Price](https://open.spotify.com/artist/3QxkM0517OcqWykLkQaTw4) | [If I Could EP](https://open.spotify.com/album/6XxDhO6UM6x1pAI5NAC2qG) | 5:37 |
 
-Snapshot ID: `AAAAAKQVGqo2z7FcShElCDO2miANJhBN`
+Snapshot ID: `AAAAAKC+rzSzaYIaGfLlFhc98wCYkFVL`

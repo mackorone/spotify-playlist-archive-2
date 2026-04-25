@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,315 songs - 2 day 2 hr 18 min
+1,318 songs - 2 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [console](https://open.spotify.com/track/3d5i2qbIYsLe8EyhTdq54z) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [console](https://open.spotify.com/album/62YLiYuFn2KLRKf2k9CkDw) | 3:38 | 2022-11-25 | 2023-03-18 |
 | [Consult](https://open.spotify.com/track/6XzmE9jEekd5iNZDTBprtT) | [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa), [Aican](https://open.spotify.com/artist/4UCgzSRu7AqsgDKDCaPeUb) | [Moontape 11](https://open.spotify.com/album/14b9TLtatIrTul5Tjixt8N) | 1:46 | 2022-06-17 | 2023-09-22 |
 | [Contact Tracing \- Devon Rea Rework](https://open.spotify.com/track/3IMlBlvMvOi6dJB005fwgx) | [Pablo J\. Garmon](https://open.spotify.com/artist/27SRdTyMmpXKh0x37k4cIE), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Contact Tracing \(Devon Rea Rework\)](https://open.spotify.com/album/3FcwYBHXuITH2AzJUHxhjF) | 2:24 | 2022-10-28 | 2023-04-28 |
-| [Context](https://open.spotify.com/track/53fRXKyA5gszPQS4kyEstO) | [Widefoot](https://open.spotify.com/artist/3AsTXF3O57Mh5814iDyMf0) | [Lush Lines](https://open.spotify.com/album/5ChzK0Nq9TfcC6vPHgiKGA) | 1:58 | 2021-11-10 |  |
+| [Context](https://open.spotify.com/track/53fRXKyA5gszPQS4kyEstO) | [Widefoot](https://open.spotify.com/artist/3AsTXF3O57Mh5814iDyMf0) | [Lush Lines](https://open.spotify.com/album/5ChzK0Nq9TfcC6vPHgiKGA) | 1:58 | 2021-11-10 | 2026-04-25 |
 | [cool nights](https://open.spotify.com/track/5MfKUo0KFcld9CLj08cKKt) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [cool nights](https://open.spotify.com/album/3XoC1k7u7oPWjyI7XT7hka) | 2:36 | 2023-10-20 |  |
 | [Cool Off](https://open.spotify.com/track/6fbviP6rquoNzsbYndjrEQ) | [Indigo Songs](https://open.spotify.com/artist/2BWhKXeKs6nnuRF8Z7v7Mj) | [Cool Off](https://open.spotify.com/album/6tAHkBRI9qX4BJqSKQV4Yp) | 2:11 | 2025-07-15 |  |
 | [Cool Veranda](https://open.spotify.com/track/6Tz3BXjsmOdMMMZ5z5wj4J) | [Joe Sunrise](https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy), [Last Memories](https://open.spotify.com/artist/3UHYSVL2r6kB0niINk2097) | [Cool Veranda](https://open.spotify.com/album/0Oim64ZqmSmNXnp9JT3ppf) | 2:38 | 2022-07-08 | 2023-09-22 |
@@ -230,7 +230,7 @@
 | [Coral](https://open.spotify.com/track/4KTacnNgzYUSjzPfmqqrQZ) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Coral](https://open.spotify.com/album/1CtmsVkkERDvQVUEbDU7bQ) | 2:19 | 2026-02-06 |  |
 | [Corduroy](https://open.spotify.com/track/4pPAER0KcKtRCMnCHWEEVj) | [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [Spaniel Mac](https://open.spotify.com/artist/3mwsqk2Ccx0YemdC8FSz30) | [Corduroy](https://open.spotify.com/album/4SLKIYowg7nmsYylxIhWmB) | 1:52 | 2022-08-19 | 2023-03-18 |
 | [cosmic](https://open.spotify.com/track/4oYH2FzH0vV1R3Df7MtaLi) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [cosmic](https://open.spotify.com/album/2Jl7oKmRdC38vmasNoIsTM) | 1:36 | 2021-11-10 | 2022-06-10 |
-| [Cosmos](https://open.spotify.com/track/00TdtTQPE8qA8wprZHfHLo) | [L.O.F.I](https://open.spotify.com/artist/2DikRUY57gNUtzrnk5NUxh) | [Elephant Soul](https://open.spotify.com/album/672sDweJIxHJ8hlvd7BwEz) | 2:06 | 2023-03-01 |  |
+| [Cosmos](https://open.spotify.com/track/00TdtTQPE8qA8wprZHfHLo) | [L.O.F.I](https://open.spotify.com/artist/2DikRUY57gNUtzrnk5NUxh) | [Elephant Soul](https://open.spotify.com/album/672sDweJIxHJ8hlvd7BwEz) | 2:06 | 2023-03-01 | 2026-04-25 |
 | [Cotton Cloud](https://open.spotify.com/track/0MF8Kt0jkvQAyGHumTc7CF) | [Cielomoto](https://open.spotify.com/artist/27GlbcSMtO4kBTdzs2a5Ph) | [Cotton Cloud](https://open.spotify.com/album/7jWSbj1bC222IlvFNTnosl) | 1:44 | 2023-02-17 | 2025-07-16 |
 | [Couchmode](https://open.spotify.com/track/0mOSYHXYzIUan2YBsuMXe9) | [Djevka](https://open.spotify.com/artist/4MaUAgGipMKGcl5K3IjzlX) | [Couchmode](https://open.spotify.com/album/6ayLD01oNMaMqCmTHUsc6u) | 2:17 | 2022-10-28 | 2025-07-16 |
 | [Counting Sheep](https://open.spotify.com/track/3rtsPORAAssL2z26CZl9Qe) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Counting Sheep](https://open.spotify.com/album/17thKKGvAnuKtkVWz6YEGD) | 3:08 | 2021-11-10 | 2022-07-22 |
@@ -512,6 +512,7 @@
 | [hollywood](https://open.spotify.com/track/4YRFVSoRT3GFyd0rPaUnhe) | [rchie](https://open.spotify.com/artist/3RtQcltuh6uzO6ilFGIKFI) | [hollywood](https://open.spotify.com/album/4NvozMjJNnXVtnhEPzKuhp) | 2:25 | 2021-11-10 | 2022-04-08 |
 | [Home](https://open.spotify.com/track/7af9w0uRr13jR1Zg0rgPOp) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [Forever Changing](https://open.spotify.com/album/2ShFGMi4aKdIC12sjHeaKr) | 2:50 | 2021-11-10 | 2022-07-22 |
 | [Home](https://open.spotify.com/track/3mN4ZW45fZVR9ZIqC4RJ6S) | [Suvanti](https://open.spotify.com/artist/3Tgvneyg8ibT0dU5J4oWk5) | [Home](https://open.spotify.com/album/0HhHPrRbNlpHkkqegX65AS) | 1:36 | 2022-10-28 | 2023-05-20 |
+| [home again](https://open.spotify.com/track/2GOTt1wvwYknehTzhzLC7K) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [home again](https://open.spotify.com/album/70mRj4datJu3d97V1bTw08) | 2:48 | 2026-04-24 |  |
 | [Home Made Grooves](https://open.spotify.com/track/7qfM1Atsyz7aAwVYNkXouq) | [Soundlabs](https://open.spotify.com/artist/6NxLFje78d1aXXBqzZkswH) | [Home Made Grooves](https://open.spotify.com/album/5yLszYe0EAEuVSG8UAxayn) | 1:30 | 2021-11-10 | 2022-06-03 |
 | [Home Roots](https://open.spotify.com/track/0EXhTgF6e1fpFHsO3uCGeP) | [PINANO](https://open.spotify.com/artist/2SJvTrEFHegW2SEVgMy6aT) | [Keep Track](https://open.spotify.com/album/14nHWUf96LpgoN9Gpz7CQv) | 1:48 | 2021-11-10 | 2022-09-03 |
 | [Hometown Cafe](https://open.spotify.com/track/6jjpHma6BEh62xBJeasFyf) | [Vens Adams](https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ) | [Hometown Cafe](https://open.spotify.com/album/2sdFvHsLUhvyR7O1S3RC0m) | 2:35 | 2021-11-10 | 2022-10-15 |
@@ -600,7 +601,7 @@
 | [Khayana](https://open.spotify.com/track/3OCs6iHLZf7NtYqZULM2AY) | [Damien Seul](https://open.spotify.com/artist/0aUdovRwbnx4Z5qLIgBVDE) | [Khayana](https://open.spotify.com/album/1D5Ey1JTJH0b6VbgJxdrsJ) | 1:24 | 2021-11-10 | 2022-09-03 |
 | [Kigali](https://open.spotify.com/track/1lfLoX6ua1LTHYDwbH1u0a) | [milk beats](https://open.spotify.com/artist/0q21LrR1ploq7PhImgdhZA) | [Kigali](https://open.spotify.com/album/0E1Lk9Qp7N2hm4ihBCgjLT) | 2:12 | 2022-07-29 | 2022-10-29 |
 | [Kinda Hungry](https://open.spotify.com/track/3e1r4Nqk5eyRnSWdv6XS0E) | [tender spring](https://open.spotify.com/artist/0WCCipy2qiobvuygnTMdkC), [jinhee](https://open.spotify.com/artist/26LmpFgGrsh86EFXEwQNfz) | [Kinda Hungry](https://open.spotify.com/album/7fJJVGHS98okrAyef2fhuq) | 1:46 | 2021-11-10 | 2022-07-08 |
-| [kingdom awoken](https://open.spotify.com/track/4ENo9YRLyNIDIA4B1K3VLI) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [kingdom awoken](https://open.spotify.com/album/43UwkKNqU3gkx8DH6C3Riw) | 2:54 | 2026-02-20 |  |
+| [kingdom awoken](https://open.spotify.com/track/4ENo9YRLyNIDIA4B1K3VLI) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [kingdom awoken](https://open.spotify.com/album/43UwkKNqU3gkx8DH6C3Riw) | 2:54 | 2026-02-20 | 2026-04-25 |
 | [Koala](https://open.spotify.com/track/0NjvQBTNaCpdg2Ih9Wctci) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [Koala](https://open.spotify.com/album/3e0cmeU0FqS4dVPkfn7k1F) | 1:36 | 2022-11-11 | 2023-10-06 |
 | [Koala](https://open.spotify.com/track/6GGrnEkviSN2UbdoZo0LWH) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [Koala](https://open.spotify.com/album/4CQe6TZUhDhexLhMUETpil) | 1:36 | 2022-08-05 | 2022-11-20 |
 | [Komori Uta](https://open.spotify.com/track/0uI7PWd0jx5hO5gFNjSJ6X) | [pedrolina.](https://open.spotify.com/artist/2mFdkJcl12IZARwSKYhOjx) | [Komori Uta](https://open.spotify.com/album/1A77yvU3WvZkVD2YGZ4KO1) | 2:27 | 2021-11-10 | 2022-07-22 |
@@ -1092,6 +1093,7 @@
 | [Street Dweller](https://open.spotify.com/track/1Lc5NGQ2hLpilvDo0cDiZn) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [Street Dweller](https://open.spotify.com/album/2X0HZ9Nt5w3GjaNE2mu66r) | 2:16 | 2022-12-16 | 2025-07-16 |
 | [Street Window](https://open.spotify.com/track/5OnOCfUbfMAgilTGZUPabd) | [Cloudroom](https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z) | [Street Window](https://open.spotify.com/album/0zxr1wsSAjkmvie0QHATuo) | 2:06 | 2025-11-05 |  |
 | [Strictly Loose](https://open.spotify.com/track/2U4r3gFf9R0hLDts0580Qx) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Strictly Loose](https://open.spotify.com/album/2PcjZfTCPyXwlUGohddzCA) | 2:16 | 2023-04-27 | 2025-07-16 |
+| [Stupendo](https://open.spotify.com/track/2gnWPEE1fkJ0xBgAbQVeZs) | [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK) | [Stupendo](https://open.spotify.com/album/5O8Ex4wTyJqWyDzyH83wbD) | 2:05 | 2026-04-24 |  |
 | [Stussy](https://open.spotify.com/track/0OjvOvXXEaWpWP3J8hfwKk) | [Kuma](https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB) | [Stussy](https://open.spotify.com/album/36q17oo5LpxFExpzshZ1Vx) | 2:46 | 2022-12-23 |  |
 | [Suburbia Drive](https://open.spotify.com/track/57P3uC190Yc9VYmaHeMEqO) | [Hector Mazza](https://open.spotify.com/artist/3ceaS5uC2QpuBHUwmfZ5wX) | [Suburbia Drive](https://open.spotify.com/album/34uScT0otY4ovm3BLlYeTC) | 1:18 | 2021-11-10 | 2022-06-10 |
 | [Sudden Change](https://open.spotify.com/track/5Afsgt5QEt2aKPRplLfr6T) | [Lonely Joyman](https://open.spotify.com/artist/4UZYBPHjHcnzMuyBFMFaWn) | [A Bit of Colour](https://open.spotify.com/album/0crbtKJilhMawp13NZej5d) | 1:53 | 2023-09-29 | 2025-07-16 |
@@ -1321,6 +1323,7 @@
 | [You](https://open.spotify.com/track/03ykJsoDNnn1jgeaxGn0ns) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [You](https://open.spotify.com/album/0RRcNpITS5zDRUCfr4iHVi) | 1:57 | 2025-03-14 | 2025-04-25 |
 | [You Can Have It](https://open.spotify.com/track/1xTo1SwN5FswdeBXyq9Xfa) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [You Can Have It](https://open.spotify.com/album/1aaqe1wHZzy9dO9Altzn3U) | 1:36 | 2023-03-16 | 2025-07-16 |
 | [Your Eyes](https://open.spotify.com/track/1kR1zMHBceL0bhbtGnyrkP) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Your Eyes](https://open.spotify.com/album/3koTAiq6tJJg5usPYNiKDf) | 2:06 | 2024-03-22 | 2025-07-16 |
+| [your touch](https://open.spotify.com/track/4yMVLHxIKJT3s4vwReJCMJ) | [Kichiro](https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo), [jeppa.](https://open.spotify.com/artist/681AWCGizczn0qJnaPgC69) | [your touch](https://open.spotify.com/album/0FizTcx2RkNHAlWjTs2Dbt) | 2:28 | 2026-04-24 |  |
 | [yours](https://open.spotify.com/track/40jnfHn8DfFbTY09IWQm9u) | [rchie](https://open.spotify.com/artist/3RtQcltuh6uzO6ilFGIKFI) | [yours](https://open.spotify.com/album/2FIeWVhDmSt2R4JRPskb7Q) | 2:29 | 2021-11-10 | 2022-07-29 |
 | [Zazz](https://open.spotify.com/track/2JxVoQRes6La0QsgdVKkpc) | [Kirsi Aimée](https://open.spotify.com/artist/74RWlGT8fQPqVvXSLuxL4j) | [Zazz](https://open.spotify.com/album/2pBdMy5MvrwanC0vgHGxtJ) | 3:02 | 2022-04-22 | 2022-07-08 |
 

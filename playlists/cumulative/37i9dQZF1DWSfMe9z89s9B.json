@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The new school - Alternative R&B. Cover: F3miii",
+  "description": "The new school - Alternative R&B. Cover: April + VISTA",
   "name": "Vanguard",
   "tracks": [
     {
@@ -22844,7 +22844,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 160626,
       "name": "skin!",
       "url": "https://open.spotify.com/track/0wuvZIbqh7oOtAQcjXy6hS"
@@ -28076,6 +28076,24 @@
       "duration_ms": 218200,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/77sgvaDh1C0vp5BxjUFZ8e"
+    },
+    {
+      "album": {
+        "name": "Traditional Noise",
+        "url": "https://open.spotify.com/album/0YzobCeY0fLecAEEKK2qXG"
+      },
+      "artists": [
+        {
+          "name": "April + VISTA",
+          "url": "https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201848,
+      "name": "Very Bad News",
+      "url": "https://open.spotify.com/track/0pRenJTb7hbHm4zExJvC4Z"
     },
     {
       "album": {

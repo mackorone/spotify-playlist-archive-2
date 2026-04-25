@@ -4,11 +4,11 @@
 
 > The best in blues right now\. Cover: Joe Bonamassa
 
-554 songs - 1 day 13 hr 16 min
+556 songs - 1 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2x2](https://open.spotify.com/track/1ErjgoKMkRUjsEQ50bFaTJ) | [Taj Farrant](https://open.spotify.com/artist/33yogRYdM0M5dc9VxfoqaJ) | [2x2](https://open.spotify.com/album/5bgr5dGuxXoVUZigkqMGcK) | 2:40 | 2024-05-24 |  |
+| [2x2](https://open.spotify.com/track/1ErjgoKMkRUjsEQ50bFaTJ) | [Taj Farrant](https://open.spotify.com/artist/33yogRYdM0M5dc9VxfoqaJ) | [2x2](https://open.spotify.com/album/5bgr5dGuxXoVUZigkqMGcK) | 2:40 | 2024-05-24 | 2026-04-25 |
 | [421 South Main](https://open.spotify.com/track/1ZUXEmilOsIa5jfp9ooaAF) | [King Solomon Hicks](https://open.spotify.com/artist/1kwMZiFnFBuniUpHpNHEds) | [Harlem](https://open.spotify.com/album/2eST5Em3wuzueE8AkR2kTF) | 2:44 | 2020-12-14 | 2022-02-26 |
 | [50 Years](https://open.spotify.com/track/0z1d5h194QHSRIk7tRNS9c) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [50 \- Just warming up !](https://open.spotify.com/album/25DudAOE7STeKctgnHdrvt) | 4:11 | 2020-12-14 | 2022-02-26 |
 | [500 Miles](https://open.spotify.com/track/1oVkFIm3zqa7fy5nUxFyhH) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [500 Miles](https://open.spotify.com/album/0shW2Ea6gtcqAYOm2bPDMg) | 3:30 | 2023-01-20 | 2023-02-11 |
@@ -134,7 +134,7 @@
 | [Down in Mississippi](https://open.spotify.com/track/3GC6jhvSskDuRpL9XZ4bdJ) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Rawer Than Raw](https://open.spotify.com/album/0Ar6NKv30rwDh3mhZha61I) | 3:23 | 2020-12-14 | 2022-02-26 |
 | [Down On The South Side](https://open.spotify.com/track/3bEvr0dRJeQ02PynkdmXuV) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Oscar's Motel](https://open.spotify.com/album/3OaTkkcE8j9gFJQCmlSZJ4) | 3:41 | 2023-03-17 | 2025-04-05 |
 | [Down To The Bottom](https://open.spotify.com/track/2867syuupBlecM1Ra7PGyZ) | [Larry McCray](https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc), [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h) | [Blues Without You](https://open.spotify.com/album/0Bi6Nd9yKYnZRnwWCrhhyr) | 5:42 | 2022-03-25 | 2024-05-25 |
-| [Downtown At Midnight](https://open.spotify.com/track/3QqboVfrxsmYfYzNoGxprT) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Downtown At Midnight](https://open.spotify.com/album/1AzuOvyUu5zqgBN8k7UohA) | 5:59 | 2026-03-20 |  |
+| [Downtown At Midnight](https://open.spotify.com/track/3QqboVfrxsmYfYzNoGxprT) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Downtown At Midnight](https://open.spotify.com/album/1AzuOvyUu5zqgBN8k7UohA) | 5:59 | 2026-03-20 | 2026-04-25 |
 | [Driftin' And Driftin'](https://open.spotify.com/track/407IbQLCqkrqTL1UcfYOFI) | [Solomon Hicks](https://open.spotify.com/artist/6wOhfVrtGnmbLlgcAHSR1k) | [Driftin' And Driftin'](https://open.spotify.com/album/0KfGr15FToeRzYayAlbF6y) | 3:50 | 2025-11-21 | 2026-01-24 |
 | [Drifting From Town To Town](https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 3:06 | 2022-06-03 | 2024-12-14 |
 | [Drive By The Exit Sign](https://open.spotify.com/track/3bDiDVYhu3pa2B6vO7uNuH) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Drive By The Exit Sign](https://open.spotify.com/album/5OIdB1EF1zWV52qAbOCt3v) | 4:19 | 2025-05-23 | 2025-10-18 |
@@ -180,6 +180,7 @@
 | [Good God I Got The Blues](https://open.spotify.com/track/31M0bTiGgPWL0Vl5aucBxg) | [Memphis Royal Brothers](https://open.spotify.com/artist/324gyHepTRkRqJObgifb67), [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Good God I Got The Blues](https://open.spotify.com/album/4htnUNP2Jte3CVgeHUj8b6) | 4:21 | 2024-06-21 |  |
 | [Good To Be \(Home Again\)](https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be \(Home Again\)](https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA) | 3:30 | 2022-01-14 | 2022-04-23 |
 | [Got To Have You](https://open.spotify.com/track/1uM1q9c6NgIe9BPZNKP2EE) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS), [Clark Beckham](https://open.spotify.com/artist/5rfQucYgrOXJ3aD5TuLdoK) | [Got To Have You](https://open.spotify.com/album/59jsILQJ1IDHq13WmWMuLW) | 2:31 | 2025-09-26 |  |
+| [Grand Avenue](https://open.spotify.com/track/1yGDaTh6EdR2UhQIjnokBK) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Outside Or The Eastside](https://open.spotify.com/album/126tjEdXTIkrk1Q01nahWK) | 4:36 | 2026-04-24 |  |
 | [Grayer Shade Of Blue](https://open.spotify.com/track/6o62jjYwIJVLDteWJwjTmH) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Grayer Shade Of Blue](https://open.spotify.com/album/7zPwZNffxXgI9gxJmlrfdR) | 5:09 | 2025-01-17 | 2025-04-12 |
 | [Great Minds Drink Alike \- With Horns](https://open.spotify.com/track/0F68k79FGPe5Rc468GZmF9) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Great Minds Drink Alike \(With Horns\)](https://open.spotify.com/album/6pcpzddprnaCd9UfPN1vtt) | 3:57 | 2022-04-22 | 2024-01-20 |
 | [Growing Roots](https://open.spotify.com/track/6jleFIxqrW20n4Fq3PyorC) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Growing Roots](https://open.spotify.com/album/6wImM9NaEwVtdwxcWlmGK9) | 4:00 | 2025-09-19 |  |
@@ -319,6 +320,7 @@
 | [Mama Said](https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Girl Friends](https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0) | 3:17 | 2024-03-08 | 2025-12-06 |
 | [Masterpiece](https://open.spotify.com/track/3tZZqzhYNqBl39I5owZsKU) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Back For Me](https://open.spotify.com/album/41bSZmBET2F5LT8Powqgur) | 3:36 | 2025-03-28 |  |
 | [Me And My Guitar](https://open.spotify.com/track/22Qh6AHPrwzgSzKFnaZZTr) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO) | [All Blues](https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu) | 4:23 | 2020-12-14 | 2022-02-26 |
+| [Mean Ole Man Of Mine](https://open.spotify.com/track/6JWZuNFOSLRwcGAW82GQEp) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [You Still Got Me \(Deluxe\)](https://open.spotify.com/album/17m8T1FS59klYDuvN737hT) | 7:00 | 2026-04-24 |  |
 | [Mind’s Eye](https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 6:17 | 2021-10-29 | 2023-05-20 |
 | [Mine Someday](https://open.spotify.com/track/3cJVBaoZlV26GQDMxNcD9B) | [Jovin Webb](https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k) | [Mine Someday](https://open.spotify.com/album/4eUzeKYFG75GYymqpkwqBS) | 4:47 | 2024-10-04 | 2024-10-19 |
 | [Mirror Blues](https://open.spotify.com/track/2YrssxTCneR1rjBTzoaaKS) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Alone With Blues](https://open.spotify.com/album/0BHOezr2qvAzYEt0TVEoRJ) | 3:39 | 2021-07-16 | 2022-11-24 |

@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,150 songs - 5 day 7 hr 15 min
+2,152 songs - 5 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Blessed](https://open.spotify.com/track/2CkOsfHEuciqLsBAlhbdx2) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Blessed](https://open.spotify.com/album/7FidJA5VFOziqJcXAs8Q3c) | 4:08 | 2024-03-10 |  |
 | [Blessed Love](https://open.spotify.com/track/4JwrlbkK2FpS9m1eTZKJgY) | [R\-Juna](https://open.spotify.com/artist/0aQXmVGvxpQmQ3UbZttDBb) | [Dubs and Praises](https://open.spotify.com/album/3sY7rsSxS37DDDnAzfRFvq) | 3:00 | 2024-07-06 |  |
 | [Blessed Version](https://open.spotify.com/track/4xu243bcIR5stARMyqlwNH) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Blessed](https://open.spotify.com/album/7FidJA5VFOziqJcXAs8Q3c) | 4:06 | 2024-05-01 |  |
+| [Bloodfire \- Trombone Version](https://open.spotify.com/track/1XkIQmgk1v7r0XICkPemse) | [The Dubbstyle](https://open.spotify.com/artist/2EhzGQxSHKOjcrOSieAF0g), [Enzo Furiasse](https://open.spotify.com/artist/2pjdp0OWLARTr3lAKQEBjh) | [Simona](https://open.spotify.com/album/0C2rcexcjETIxlulOZ5jNV) | 5:21 | 2026-04-24 |  |
 | [Blu Cobalto](https://open.spotify.com/track/12gcLLY32iJmGQvNm6CRao) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Blu Cobalto](https://open.spotify.com/album/1YYo7JU3aOxXaao7qgMbb7) | 3:09 | 2025-04-09 |  |
 | [Blue & Grey](https://open.spotify.com/track/7Ki0hse0IfXEcXUlpyECbJ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 4:14 | 2026-03-15 |  |
 | [Blue \- Edit Version](https://open.spotify.com/track/22MH9EhI2EdZRNMtqrBGui) | [Andrea Braido](https://open.spotify.com/artist/365VUn5kWBvcGvGafj0CRZ), [Francesco Corvino](https://open.spotify.com/artist/1m0IXlymPcdQd9vR9rBVWy), [Eleonora Penati](https://open.spotify.com/artist/1ibXkyjtDrtArs19SZ6MGB), [Antonio Cascarano](https://open.spotify.com/artist/2QprJ6GmFzWd5m10z8g7jN) | [Sun](https://open.spotify.com/album/3tmQuRvbq9T7wzkKggxcHK) | 3:57 | 2024-04-20 |  |
@@ -849,6 +850,7 @@
 | [I Will Take Care Of You](https://open.spotify.com/track/7KfuESxjtKlThWgj4Hh6hA) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Doll Revolution](https://open.spotify.com/album/3tiizVJLaNkbeQV4BJFiGY) | 3:56 | 2026-03-15 |  |
 | [I Wish](https://open.spotify.com/track/7pgjoLcAIiG5wf7Vbs6ToQ) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 3:32 | 2024-05-01 |  |
 | [I'll Let Go](https://open.spotify.com/track/3k5NyjxlzKvSbPrZKcS7uM) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [I'll Let Go](https://open.spotify.com/album/0l61DNg32FUICvJGrSnqL2) | 2:54 | 2026-02-05 |  |
+| [I'll Love You More](https://open.spotify.com/track/7oGoQa2KyTA9Nyi4Qti2SB) | [Paul Marturano](https://open.spotify.com/artist/4ErK966kYcXS7y7s4e3MLA) | [Paul Marturano Volume 2 Two Album Set More! / Delco Girl](https://open.spotify.com/album/3l1MTuLII5RaArXBi4DJI5) | 3:37 | 2026-04-24 |  |
 | [i'm a goose \- reprise](https://open.spotify.com/track/3LJ2ZqevTKnJki7wam25C5) | [Mildred's Big Day](https://open.spotify.com/artist/2ayq6NXWGwkbCzqEyTTpQv) | [i'm a goose \(reprise\)](https://open.spotify.com/album/7czib9QcakwbbulfLZNa7u) | 1:26 | 2025-09-24 |  |
 | [I'm Al!ve](https://open.spotify.com/track/1sSGgL2IeWxU2z1db0EPvy) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 3:18 | 2025-09-08 |  |
 | [I'm Going Straight To Heaven](https://open.spotify.com/track/2NCq24RSUzUHfndEYNHz8H) | [MC 900 Ft\. Jesus](https://open.spotify.com/artist/2S8nYaxyItH72O4dhRWTPq), [DJ Zero](https://open.spotify.com/artist/7qEUstSKJRbr8uLC6XFPgI) | [Hell With The Lid Off](https://open.spotify.com/album/6XE7AiJAGmPxEDOedY1TTq) | 4:04 | 2026-02-07 |  |

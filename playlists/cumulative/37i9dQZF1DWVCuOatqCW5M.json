@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Arijit Singh, Payal Dev, Madhur Sharma and more.",
+  "description": "Latest music from Dhvani Bhanushali, Jubin Nautiyal, Tanishk Bagchi and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -1937,6 +1937,28 @@
     },
     {
       "album": {
+        "name": "Aise Na Pagal Karo",
+        "url": "https://open.spotify.com/album/4gIqTRB4791oE6xRKuXyFY"
+      },
+      "artists": [
+        {
+          "name": "Kalra Saab",
+          "url": "https://open.spotify.com/artist/52wEoKNZk5QyZrVDFI3jWD"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224777,
+      "name": "Aise Na Pagal Karo",
+      "url": "https://open.spotify.com/track/0C5vCd4id8DxoDM9HSUpBh"
+    },
+    {
+      "album": {
         "name": "Aisi Jagah",
         "url": "https://open.spotify.com/album/06fccZAZ0iDfaoyOvJIq3i"
       },
@@ -3601,6 +3623,28 @@
     },
     {
       "album": {
+        "name": "Bade Dino Baad",
+        "url": "https://open.spotify.com/album/3ZBKDnhGrtyJsdSjj823z6"
+      },
+      "artists": [
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
+        },
+        {
+          "name": "ISHH",
+          "url": "https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Bade Dino Baad",
+      "url": "https://open.spotify.com/track/0p3yj8oOwTnCsncq3IEaE9"
+    },
+    {
+      "album": {
         "name": "Badle Badle [From \"Vikram Hitlist (Hindi)\"]",
         "url": "https://open.spotify.com/album/21eyeUuI1KpCZdFmZ1oS57"
       },
@@ -3764,7 +3808,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 226909,
       "name": "Bairiya",
       "url": "https://open.spotify.com/track/4iWnxuJp6RPdD1ZFvsANyt"
@@ -3958,6 +4002,24 @@
       "duration_ms": 110400,
       "name": "BANK CHOR",
       "url": "https://open.spotify.com/track/7vibXuLnzVz7JPokR92JFx"
+    },
+    {
+      "album": {
+        "name": "Banna Re",
+        "url": "https://open.spotify.com/album/2rcVvnOMtXfzOmhLBm4UzI"
+      },
+      "artists": [
+        {
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170117,
+      "name": "Banna Re",
+      "url": "https://open.spotify.com/track/5Hr462EC4jZpUhr5RREE27"
     },
     {
       "album": {
@@ -6588,7 +6650,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 208000,
       "name": "Chand Takiye",
       "url": "https://open.spotify.com/track/6uIo39yycBdxv1MHPOmUS4"
@@ -10588,6 +10650,24 @@
       "duration_ms": 244526,
       "name": "Ek Nazar Mein",
       "url": "https://open.spotify.com/track/4ZJdmJbHrGsZ78i09Jz5Bw"
+    },
+    {
+      "album": {
+        "name": "Ek Nishani",
+        "url": "https://open.spotify.com/album/32515VSzIQv5g6eK9hPaY5"
+      },
+      "artists": [
+        {
+          "name": "The PropheC",
+          "url": "https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126216,
+      "name": "Ek Nishani",
+      "url": "https://open.spotify.com/track/3qQceQQhg3lOjb93oz15Yg"
     },
     {
       "album": {
@@ -16310,7 +16390,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 243750,
       "name": "Jamuna Kinaare",
       "url": "https://open.spotify.com/track/5EMzjJF46nOPU9kmM1jatd"
@@ -19234,7 +19314,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 147255,
       "name": "Kho Jaun",
       "url": "https://open.spotify.com/track/4VWLBNBMIilb0R10w2cYIv"
@@ -23423,6 +23503,32 @@
     },
     {
       "album": {
+        "name": "Mere Humnava",
+        "url": "https://open.spotify.com/album/73xQTeA7B33QMXL55FDhTi"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
+        },
+        {
+          "name": "Rocky Khanna",
+          "url": "https://open.spotify.com/artist/706HpBx83UlG2Shf6zTnSC"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311046,
+      "name": "Mere Humnava",
+      "url": "https://open.spotify.com/track/4CebC3MMdxo6LN9urwbTwu"
+    },
+    {
+      "album": {
         "name": "ONLY JUST BEGUN",
         "url": "https://open.spotify.com/album/1syTR5kykgDXunaGMzxc2o"
       },
@@ -26050,7 +26156,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 224686,
       "name": "O Jaaniya",
       "url": "https://open.spotify.com/track/0aOtVjhLi2xr3voFxzGOSB"
@@ -26297,6 +26403,32 @@
     },
     {
       "album": {
+        "name": "Oh Meri Heeriye",
+        "url": "https://open.spotify.com/album/1JLa5JL8WngVA7C9JA6RSY"
+      },
+      "artists": [
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        },
+        {
+          "name": "Mandeep Panghal",
+          "url": "https://open.spotify.com/artist/01kiIUUCXZTuCidoF0KIY2"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222222,
+      "name": "Oh Meri Heeriye",
+      "url": "https://open.spotify.com/track/2nSQ2MhvJAHlL0mFlZ4P0e"
+    },
+    {
+      "album": {
         "name": "OOPS",
         "url": "https://open.spotify.com/album/23Xu8xOIyGOKQvmsM24ESK"
       },
@@ -26506,7 +26638,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 252089,
       "name": "Pagalpan",
       "url": "https://open.spotify.com/track/38I7Uyjiful80S7RjilkxS"
@@ -26828,6 +26960,32 @@
       "duration_ms": 245177,
       "name": "Pari",
       "url": "https://open.spotify.com/track/7puxdj9sb3JMDfH4aSnAb5"
+    },
+    {
+      "album": {
+        "name": "PARIS",
+        "url": "https://open.spotify.com/album/2WwvijJA5sStVITnIJZOFX"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Gurjit Gill",
+          "url": "https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd"
+        },
+        {
+          "name": "Verse",
+          "url": "https://open.spotify.com/artist/6u7wsDrP8AnQth07iGnmkO"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119000,
+      "name": "PARIS",
+      "url": "https://open.spotify.com/track/5f6RgJQ5jJfWAieIBlcbvl"
     },
     {
       "album": {
@@ -29328,7 +29486,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 202092,
       "name": "Rooh",
       "url": "https://open.spotify.com/track/4Zd2zHGhX3EcahGSd9vpWQ"
@@ -30528,6 +30686,28 @@
       "duration_ms": 199661,
       "name": "Safar",
       "url": "https://open.spotify.com/track/0uAOcZmwkIg5LHDhbuBKYN"
+    },
+    {
+      "album": {
+        "name": "Safar Khoobsurat",
+        "url": "https://open.spotify.com/album/6NwRJuYVUW4ZDrLRJWOVkV"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Shubham Agrawal",
+          "url": "https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "Safar Khoobsurat",
+      "url": "https://open.spotify.com/track/1nLdJESOIbG7zeq7n2J82G"
     },
     {
       "album": {
@@ -32950,6 +33130,24 @@
       "duration_ms": 167878,
       "name": "Sun Ranjheya",
       "url": "https://open.spotify.com/track/6rduEGahLOaiYjZEOBoWhw"
+    },
+    {
+      "album": {
+        "name": "Sun Sajna",
+        "url": "https://open.spotify.com/album/0gXKQ3BgHN6tDpTci2BNPc"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234165,
+      "name": "Sun Sajna",
+      "url": "https://open.spotify.com/track/0xIIaQoyIQ5uphoBGEInhg"
     },
     {
       "album": {
@@ -36746,7 +36944,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 143341,
       "name": "Tu Mila",
       "url": "https://open.spotify.com/track/2TheIuczIyxWtOgBGoqbPN"
@@ -38412,7 +38610,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 177211,
       "name": "Valeti Daaru",
       "url": "https://open.spotify.com/track/6olZNsDtuNZqTBpRhgaUfG"

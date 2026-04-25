@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1295,
+  "num_followers": 1296,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAATahX4cy3IJn9rJZfMzijsRncYDqo5",
+  "snapshot_id": "AAATbv/Y3SMNZR4vSeDwAb45qKoRDTSo",
   "tracks": [
     {
       "added_at": "2026-04-10 10:13:55",
@@ -2391,6 +2391,70 @@
       "duration_ms": 184373,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/3PXC71Anog78H0WlzANi49"
+    },
+    {
+      "added_at": "2026-04-24 09:14:51",
+      "album": {
+        "name": "Truth for Lies",
+        "url": "https://open.spotify.com/album/1EccCV6oBwVfTDojfNZ8qh"
+      },
+      "artists": [
+        {
+          "name": "Remedies",
+          "url": "https://open.spotify.com/artist/3m2MxzwhWeA2FZiel5sURN"
+        }
+      ],
+      "duration_ms": 205706,
+      "name": "Truth for Lies",
+      "url": "https://open.spotify.com/track/4HozmRQnEWTChIfyu7Aj7z"
+    },
+    {
+      "added_at": "2026-04-24 09:15:07",
+      "album": {
+        "name": "I Live In The Cloud",
+        "url": "https://open.spotify.com/album/2D9K20RtH9O5Cb5XoeGqGx"
+      },
+      "artists": [
+        {
+          "name": "Purple Microdot",
+          "url": "https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4"
+        }
+      ],
+      "duration_ms": 174072,
+      "name": "I Live In The Cloud",
+      "url": "https://open.spotify.com/track/6vHZs0s0tVpWcZFxBj840R"
+    },
+    {
+      "added_at": "2026-04-24 09:15:14",
+      "album": {
+        "name": "Tomando lo que me hace bien",
+        "url": "https://open.spotify.com/album/4242ndADN3vGSm0Yw1EqHf"
+      },
+      "artists": [
+        {
+          "name": "Orlando Vitale",
+          "url": "https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa"
+        }
+      ],
+      "duration_ms": 305506,
+      "name": "Tomando lo que me hace bien",
+      "url": "https://open.spotify.com/track/5liTgR5jBraxJwnBdY9uy8"
+    },
+    {
+      "added_at": "2026-04-24 09:15:22",
+      "album": {
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/12p6y6qnK6VZec00BHWb49"
+      },
+      "artists": [
+        {
+          "name": "Marcelino Rob",
+          "url": "https://open.spotify.com/artist/4CT4cjDHDrLomi7XQwwwjt"
+        }
+      ],
+      "duration_ms": 168040,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/3RGNZNaFtN9nQSk7G2Ai5P"
     }
   ],
   "unique_name": "New Indie Music",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,172 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,165 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 11 | [Am I There](https://open.spotify.com/track/1xasTmLCY1OUPOvTHuXj4S) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Goodbye \(If You Call That Gone\)](https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4) | 3:05 |
 | 12 | [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 |
 | 13 | [Tell Me It Ain't Over](https://open.spotify.com/track/50m3JU4UKyu1pr4y7jWjfg) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Lovesick Sentimental](https://open.spotify.com/album/3Z63UdA9vBK8yhmhwqkEY2) | 4:49 |
-| 14 | [Track 5](https://open.spotify.com/track/3yfr9G9ORQHGbgsfSG9cqa) | [Crocodylus](https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw) | [Limbo, Please Be Good To Me](https://open.spotify.com/album/2rtXYGytrHQqEjQs8Lt50m) | 0:00 |
+| 14 | [Hope](https://open.spotify.com/track/3yfr9G9ORQHGbgsfSG9cqa) | [Crocodylus](https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw) | [Limbo, Please Be Good To Me](https://open.spotify.com/album/2rtXYGytrHQqEjQs8Lt50m) | 3:10 |
 | 15 | [ALWAYS LET YOU DOWN \(feat\. A Day To Remember\)](https://open.spotify.com/track/2QkboO9FsC9Z2ogQPjDb30) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89), [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [ALWAYS LET YOU DOWN \(feat\. A Day To Remember\)](https://open.spotify.com/album/11qgjRUBFe0yAR47559uaU) | 3:04 |
 | 16 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 |
 | 17 | [Alive After Death \(Last Plane Out\)](https://open.spotify.com/track/49PG0rD4WocV3Swhkc4et1) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Alive After Death \(Last Plane Out\)](https://open.spotify.com/album/6RDXbeog920l0aeMyaeCd7) | 3:30 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 30 | [Of All People](https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Of All People](https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn) | 2:34 |
 | 31 | [Coal Dust](https://open.spotify.com/track/5E5LeotIuFrQGJHlrJxQtq) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Coal Dust](https://open.spotify.com/album/4VaI6BZB9ayjqCRp3KRb6z) | 3:27 |
 | 32 | [The Hallway](https://open.spotify.com/track/72t91cy0ZOAZmFIPG32PI8) | [Sly Withers](https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX) | [The Hallway](https://open.spotify.com/album/5WPDCTU1UNc9Cfi9eAU5RR) | 3:12 |
-| 33 | [Track 12](https://open.spotify.com/track/7DFfCiPrHqsI0Qa1qFDu33) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [GLORY \(Deluxe\)](https://open.spotify.com/album/7MIsmUZTR5rR4jYZbOGXFV) | 0:00 |
+| 33 | [GO WASTE MY TIME](https://open.spotify.com/track/7DFfCiPrHqsI0Qa1qFDu33) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [GLORY \(Deluxe\)](https://open.spotify.com/album/7MIsmUZTR5rR4jYZbOGXFV) | 2:55 |
 | 34 | [Just Not Into You](https://open.spotify.com/track/1IixYZT6QHVItNi9LVbFnl) | [emerson](https://open.spotify.com/artist/6LcSy8gx2Eb1FVRd1NoONZ) | [Just Not Into You](https://open.spotify.com/album/36hItLGZtD6gPZUyC061CN) | 3:37 |
 | 35 | [My Baby's Place](https://open.spotify.com/track/5noMqCfgrkV3zOcCvpC6We) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [My Baby's Place](https://open.spotify.com/album/2SStqgA0tGcHofhYKgvyig) | 3:55 |
 | 36 | [Shadowland](https://open.spotify.com/track/55UcLytbMiRcXmReVQcpyz) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [Shadowland](https://open.spotify.com/album/0RdCEIJvDjwJve2G98UIAy) | 3:52 |

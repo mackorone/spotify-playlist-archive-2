@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "The latest in world music. From the continent, to the islands with Tyla & Zara Larsson.",
+  "description": "The latest in world music. From the continent, to the islands with Young T & Bugsey and SadBoi.",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -2022,6 +2022,24 @@
       "duration_ms": 167052,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL"
+    },
+    {
+      "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/4DyKqukDyrWjrdY1NK5pdW"
+      },
+      "artists": [
+        {
+          "name": "Tasha Mac",
+          "url": "https://open.spotify.com/artist/2kZVyiRZ7W3bELWzLWD8PC"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/0bwuidTGMZyJ1XGELGSFjl"
     },
     {
       "album": {
@@ -15475,6 +15493,28 @@
     },
     {
       "album": {
+        "name": "Kanp\u00e9 Kanp\u00e9",
+        "url": "https://open.spotify.com/album/11HLgogDOlNyeVwWFatk8M"
+      },
+      "artists": [
+        {
+          "name": "Wesli",
+          "url": "https://open.spotify.com/artist/7BOu7POeMEK7gaMPZcsvt5"
+        },
+        {
+          "name": "SOSAY",
+          "url": "https://open.spotify.com/artist/7tWPbbg4fEpHAeddbLDNAY"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149159,
+      "name": "Kanp\u00e9 Kanp\u00e9",
+      "url": "https://open.spotify.com/track/5DXDnUb8wbwLQbKR7HErW2"
+    },
+    {
+      "album": {
         "name": "KATIGORI/PIANO",
         "url": "https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3"
       },
@@ -24821,6 +24861,28 @@
     },
     {
       "album": {
+        "name": "Rice Bowl",
+        "url": "https://open.spotify.com/album/2Trn9ft8Tc9aZ8gyzLdoyO"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Rice Bowl",
+      "url": "https://open.spotify.com/track/3QZugtgEClvPtugTwxu5jn"
+    },
+    {
+      "album": {
         "name": "Rich Sex",
         "url": "https://open.spotify.com/album/5lB6dD6uOkcuR7jdEMuoCb"
       },
@@ -26488,7 +26550,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 208554,
       "name": "She Jus Wah Wine",
       "url": "https://open.spotify.com/track/1BhfNm0ZkwXPf9vnany5U8"
@@ -32278,7 +32340,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 135000,
       "name": "Watch Me Now! (with NLE Choppa)",
       "url": "https://open.spotify.com/track/1hoEI997iy6tutEfF5a9M6"
@@ -34302,7 +34364,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 154062,
       "name": "ZAAZAA",
       "url": "https://open.spotify.com/track/1ViD8tjPZVFZKAC8O7Gmfi"

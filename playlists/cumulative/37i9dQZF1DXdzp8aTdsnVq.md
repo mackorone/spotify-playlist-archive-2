@@ -2,9 +2,9 @@
 
 ### [Lo + del Vallenato](https://open.spotify.com/playlist/37i9dQZF1DXdzp8aTdsnVq)
 
-> Novedades y clásicos del popular género colombiano\. Foto: Gusi, Ivan Villazon
+> Novedades y clásicos del popular género colombiano\. Foto: Rafa Perez
 
-208 songs - 14 hr 25 min
+209 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [La Escena](https://open.spotify.com/track/6vjp1tZHzZT6omls4lNeER) | [Oscar Gamarra](https://open.spotify.com/artist/5ytyAQZRgrkqSeGiRgkSi1), [Camilo Carvajal](https://open.spotify.com/artist/42jbySe4fUtjS3JpprvmVK) | [Tridimensional](https://open.spotify.com/album/61wlC4yxl7qBUPi9vsT1gP) | 3:20 | 2023-04-05 | 2023-08-26 |
 | [La Ex de mi Amigo](https://open.spotify.com/track/5KrKP9vkwaOyqcHvNC0wZv) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K) | [La Ex de mi Amigo](https://open.spotify.com/album/0ITOpoFKDvq8e0uiJphlwU) | 3:32 | 2025-09-26 | 2026-02-21 |
 | [La Falla Fue Tuya](https://open.spotify.com/track/4kBCLpVD5voRNP0pKUH6Le) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [El Regreso Del Condor](https://open.spotify.com/album/3LIrMjnBO8so9o6jhG06r1) | 3:33 | 2024-05-22 | 2024-08-31 |
+| [La Familia Que Soñé](https://open.spotify.com/track/0UKFSqTGGgBrLmytmDjd4W) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [En Tiempo Real](https://open.spotify.com/album/1VUkt1XKplcg3cnZVZJMru) | 4:03 | 2026-04-24 |  |
 | [La Formulita](https://open.spotify.com/track/5Ak7Jko0c7hv4fDpX9rwIL) | [Beto Zabaleta](https://open.spotify.com/artist/797OTNZjzrWCZnkRVY1Gtp), [Goyo Oviedo](https://open.spotify.com/artist/6zWo2vISCPkSYCzUiCeWLy) | [Volví a Soñar](https://open.spotify.com/album/2gdCnAEINrQFCGurm42HUr) | 4:48 | 2025-04-30 | 2025-05-06 |
 | [La Guajirita](https://open.spotify.com/track/0eqBbsmdm321vZF4KxErZR) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Ovidio Granados](https://open.spotify.com/artist/7291PPngS2iCpyTpC6Kw5C) | [La Guajirita](https://open.spotify.com/album/35Xb2b2EAeZX7U3nSo5Atr) | 3:29 | 2024-05-31 | 2024-11-30 |
 | [La Historia \- Escalona Nunca Se Había Grabado Así](https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Historia \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/album/2wcgOo4KxX9mWenJ4PeuUu) | 4:31 | 2023-02-17 | 2023-11-11 |
@@ -138,7 +139,7 @@
 | [Mil Noches](https://open.spotify.com/track/2rPZ8bqFlc6vrK9yqxdzyv) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mil Noches](https://open.spotify.com/album/6K4JohP3PjRZOuClEqW5mn) | 4:03 | 2024-01-26 | 2024-10-12 |
 | [MIÉNTEME](https://open.spotify.com/track/6hSXXBr0OA96m7xp1DwZZm) | [LuisRa](https://open.spotify.com/artist/5rhQwhtlARXOxuskeZBElY), [Chide Garcia](https://open.spotify.com/artist/1QWdrs9RSQ2VapbV6Qf8Mh) | [LOS DE LA A](https://open.spotify.com/album/6xpn0ikmjDoL1g02nWKuXf) | 3:52 | 2025-06-20 | 2026-04-18 |
 | [Modo Avión](https://open.spotify.com/track/0hkMAFDOIP6whke8ckr0bs) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Lucas Dangond](https://open.spotify.com/artist/3ozq7y6TMdWzUMc27vzFMX) | [Para Ustedes](https://open.spotify.com/album/1JfE5rJHaf1orCmnwtEDHd) | 3:42 | 2023-05-19 |  |
-| [Modo Traga](https://open.spotify.com/track/1iqCrrCbEu0jLNKBFK7hZK) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB), [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7) | [Modo Traga](https://open.spotify.com/album/0I4HVD6onGHYB6Ecjihl0T) | 4:10 | 2025-11-21 |  |
+| [Modo Traga](https://open.spotify.com/track/1iqCrrCbEu0jLNKBFK7hZK) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB), [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7) | [Modo Traga](https://open.spotify.com/album/0I4HVD6onGHYB6Ecjihl0T) | 4:10 | 2025-11-21 | 2026-04-25 |
 | [Mosaico Dieguista: La Mía Eres Tú / La Alfombra Roja](https://open.spotify.com/track/6mYb3rUcISHPyxbMJ2vXIg) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [Mosaico Dieguista: La Mía Eres Tú / La Alfombra Roja](https://open.spotify.com/album/6LD4YA7Tsktbg4vaKAcceJ) | 4:05 | 2022-09-02 | 2025-03-29 |
 | [Más de Ti](https://open.spotify.com/track/6QaSczCtX0qhnsuhwTj3D2) | [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw), [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek) | [Más de Ti](https://open.spotify.com/album/29vDifDsjyYGsOFRHg2GCs) | 3:14 | 2022-09-02 | 2023-04-06 |
 | [Métete en el Viaje](https://open.spotify.com/track/4iraYjp8zy8JG4KFptSWFo) | [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7), [Tuto López](https://open.spotify.com/artist/4YS5axj3KRs5XcZ005Qlb8) | [Métete en el Viaje](https://open.spotify.com/album/4LvRWqfbUBfqyighpXs3Fm) | 3:54 | 2022-12-16 | 2023-04-15 |

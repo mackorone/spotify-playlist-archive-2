@@ -2304,7 +2304,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 233267,
       "name": "Curliecue",
       "url": "https://open.spotify.com/track/7hY3diPeT1DizsRgLnZtOn"
@@ -3015,6 +3015,24 @@
     },
     {
       "album": {
+        "name": "Emotionally Piercing",
+        "url": "https://open.spotify.com/album/3f1bdbb9QqaWsskVjrIm2o"
+      },
+      "artists": [
+        {
+          "name": "Maxime Leroy Trio",
+          "url": "https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156933,
+      "name": "Emotionally Piercing",
+      "url": "https://open.spotify.com/track/1JxvdRLOPvWNiebLi33neU"
+    },
+    {
+      "album": {
         "name": "Longing",
         "url": "https://open.spotify.com/album/5rsGpNrx2eRG3Q4f6smqcC"
       },
@@ -3098,7 +3116,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 206282,
       "name": "Evening Stroll",
       "url": "https://open.spotify.com/track/4jQktpEQRdQrvMA75JXU0V"
@@ -3231,6 +3249,24 @@
     },
     {
       "album": {
+        "name": "Falling In Between",
+        "url": "https://open.spotify.com/album/3mTvYMmBMxwzPsGFsLN7BE"
+      },
+      "artists": [
+        {
+          "name": "Northbound Collective",
+          "url": "https://open.spotify.com/artist/0YZDRkFCZXUfQnZ13eBlqm"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165312,
+      "name": "Falling In Between",
+      "url": "https://open.spotify.com/track/32RLuPmzSapkMCrBUsu6O3"
+    },
+    {
+      "album": {
         "name": "False Hopes",
         "url": "https://open.spotify.com/album/5cHf3AKOc5JBIDxGNHVOlP"
       },
@@ -3282,6 +3318,24 @@
       "duration_ms": 263285,
       "name": "Fascination",
       "url": "https://open.spotify.com/track/2iu9GQDNp55dFtU2pKPxPt"
+    },
+    {
+      "album": {
+        "name": "Father's Day",
+        "url": "https://open.spotify.com/album/5exyjf4GwS8oEWiDl4mQiO"
+      },
+      "artists": [
+        {
+          "name": "Jacky Bonnet Group",
+          "url": "https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200726,
+      "name": "Father's Day",
+      "url": "https://open.spotify.com/track/6APMFQamK5mtVwwP5juBsk"
     },
     {
       "album": {
@@ -3880,7 +3934,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 296582,
       "name": "Getting Lazy",
       "url": "https://open.spotify.com/track/2iMDmVHOkkzFGbAXlighpd"
@@ -4222,7 +4276,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 184000,
       "name": "Hesitation Street",
       "url": "https://open.spotify.com/track/1qw2QbmUFjeyOi6vBsUxgM"
@@ -5724,7 +5778,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 206057,
       "name": "Just In Time",
       "url": "https://open.spotify.com/track/5kB513RB04d22CXMuPUTKS"
@@ -5930,6 +5984,24 @@
     {
       "album": {
         "name": "Late Afternoon",
+        "url": "https://open.spotify.com/album/1ET6CT4IwTDAFzkEoYAVAe"
+      },
+      "artists": [
+        {
+          "name": "Erik Moreau",
+          "url": "https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218888,
+      "name": "Late Afternoon",
+      "url": "https://open.spotify.com/track/3hKHxleKykJCYiW4u3EoWM"
+    },
+    {
+      "album": {
+        "name": "Late Afternoon",
         "url": "https://open.spotify.com/album/4xHxAFDudO7yvkMVf0kiVB"
       },
       "artists": [
@@ -5962,6 +6034,24 @@
       "duration_ms": 239125,
       "name": "Late Bagatelle",
       "url": "https://open.spotify.com/track/7BfOE71MK4usBrYmArJt5M"
+    },
+    {
+      "album": {
+        "name": "Late Train Home",
+        "url": "https://open.spotify.com/album/2QAlvO6AqAYdSwjshvGE8h"
+      },
+      "artists": [
+        {
+          "name": "Andy Luma Trio",
+          "url": "https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201989,
+      "name": "Late Train Home",
+      "url": "https://open.spotify.com/track/6ZEFPvqmmOHIlFcctqKkz3"
     },
     {
       "album": {
@@ -8637,6 +8727,24 @@
     },
     {
       "album": {
+        "name": "Past the point",
+        "url": "https://open.spotify.com/album/4qN8t1E5mPXDGMEJK1mAnw"
+      },
+      "artists": [
+        {
+          "name": "Fortune Morel Trio",
+          "url": "https://open.spotify.com/artist/5IDJIXonrrl2nVcd4LZTQf"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215688,
+      "name": "Past the point",
+      "url": "https://open.spotify.com/track/2iLk15uJtYrpY3xBLExafp"
+    },
+    {
+      "album": {
         "name": "Pat Martino",
         "url": "https://open.spotify.com/album/4eEXOgqH5r4yh4osqngzF9"
       },
@@ -10408,6 +10516,24 @@
       "duration_ms": 200710,
       "name": "Start acceptin\u2019",
       "url": "https://open.spotify.com/track/1j5lnxR9ME00WgxnbySl1C"
+    },
+    {
+      "album": {
+        "name": "Stay a Little",
+        "url": "https://open.spotify.com/album/2qnBGO4JU8HinOu4YQ64Hc"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonzalez",
+          "url": "https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226535,
+      "name": "Stay A Little",
+      "url": "https://open.spotify.com/track/2sKZDJArmjIJay2BgMrleH"
     },
     {
       "album": {
@@ -12910,6 +13036,24 @@
       "duration_ms": 216566,
       "name": "When You Come Home",
       "url": "https://open.spotify.com/track/1TlWfTGEALeyG39A9qHokR"
+    },
+    {
+      "album": {
+        "name": "When You Come To Town",
+        "url": "https://open.spotify.com/album/5wci7GmgMj2q21hw7EqZOe"
+      },
+      "artists": [
+        {
+          "name": "The Soft Geometry",
+          "url": "https://open.spotify.com/artist/3ojL8MCi3IC8GMZA55ncLr"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159806,
+      "name": "When You Come To Town",
+      "url": "https://open.spotify.com/track/5MdCZ4A0EyEJ33f5TtTbPl"
     },
     {
       "album": {

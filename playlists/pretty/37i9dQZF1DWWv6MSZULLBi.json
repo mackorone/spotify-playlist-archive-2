@@ -1,13 +1,181 @@
 {
-  "description": "A laid-back trip in the folk scene. Cover: Noah Derksen",
-  "num_followers": 167013,
+  "description": "A laid-back trip in the folk scene. Cover: Noah Kahan",
+  "num_followers": 167007,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABx9f6MSbWdNhGpBM/oqyPLmL9Xy",
+  "snapshot_id": "AAAAAIGSLIlvNezlQMDTGfxDgmGkRtYI",
   "tracks": [
+    {
+      "added_at": "2026-04-24 04:04:43",
+      "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 231086,
+      "name": "Doors",
+      "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
+    },
+    {
+      "added_at": "2026-04-24 04:04:43",
+      "album": {
+        "name": "AHEAD BY A CENTURY",
+        "url": "https://open.spotify.com/album/1a73bXVGwFTlNCuL2Bqrwd"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        },
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        },
+        {
+          "name": "Canada Soccer",
+          "url": "https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez"
+        },
+        {
+          "name": "Boi-1da",
+          "url": "https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7"
+        }
+      ],
+      "duration_ms": 207557,
+      "name": "AHEAD BY A CENTURY",
+      "url": "https://open.spotify.com/track/7FVG3onyy9GbhysR3sREKy"
+    },
+    {
+      "added_at": "2026-04-24 04:04:43",
+      "album": {
+        "name": "Pale Blue Eyes",
+        "url": "https://open.spotify.com/album/1TXPiNt8GDt6UCXI7kT0yk"
+      },
+      "artists": [
+        {
+          "name": "Sydney Ross Mitchell",
+          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
+        }
+      ],
+      "duration_ms": 213147,
+      "name": "Pale Blue Eyes",
+      "url": "https://open.spotify.com/track/4TvmANoYjSYuYk6oXkiG29"
+    },
+    {
+      "added_at": "2026-04-24 04:04:43",
+      "album": {
+        "name": "Tiger Blood",
+        "url": "https://open.spotify.com/album/5VXuq0HNXIadIwJrQmaIxP"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Tiger Blood",
+      "url": "https://open.spotify.com/track/33GW7UkXxsIDwb0tWL99q5"
+    },
+    {
+      "added_at": "2026-04-24 04:04:43",
+      "album": {
+        "name": "Nosebleed",
+        "url": "https://open.spotify.com/album/54fmXoeCAfwCZWuYJH8nnh"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        },
+        {
+          "name": "Lyla George",
+          "url": "https://open.spotify.com/artist/2Yh3B8OtHziAIdpNYzQdWa"
+        }
+      ],
+      "duration_ms": 287999,
+      "name": "Nosebleed",
+      "url": "https://open.spotify.com/track/0RY78qw6AAQZC3QpPeAD9O"
+    },
+    {
+      "added_at": "2026-04-24 04:04:43",
+      "album": {
+        "name": "Lighthearted",
+        "url": "https://open.spotify.com/album/578ibCcGypCvhLWHQpKFrB"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "duration_ms": 259106,
+      "name": "Lighthearted",
+      "url": "https://open.spotify.com/track/0g8dcefRBlz8rCLG0HUxzL"
+    },
+    {
+      "added_at": "2026-04-24 04:04:43",
+      "album": {
+        "name": "Singing",
+        "url": "https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 217264,
+      "name": "Moon Not Mine",
+      "url": "https://open.spotify.com/track/1r8plFPk6rUylJmclniQAM"
+    },
+    {
+      "added_at": "2026-04-24 04:04:43",
+      "album": {
+        "name": "exposure therapy",
+        "url": "https://open.spotify.com/album/18TFbtYFWjkpYwj4mmU0N3"
+      },
+      "artists": [
+        {
+          "name": "Khatumu",
+          "url": "https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu"
+        }
+      ],
+      "duration_ms": 161593,
+      "name": "tennis practice",
+      "url": "https://open.spotify.com/track/7BlOrylka32xGgGTpqAOdW"
+    },
+    {
+      "added_at": "2026-04-24 04:04:43",
+      "album": {
+        "name": "You\u2019ll Be The Proof (feat. Joy Williams) [Acoustic]",
+        "url": "https://open.spotify.com/album/2KVfFrb71phk109jUiBFkZ"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        },
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 207424,
+      "name": "You\u2019ll Be The Proof (feat. Joy Williams) - Acoustic",
+      "url": "https://open.spotify.com/track/3DFLdL4XWegRHyXCdPnNUh"
+    },
     {
       "added_at": "2026-04-17 04:05:03",
       "album": {
@@ -395,26 +563,6 @@
       "duration_ms": 182440,
       "name": "Woman of the Hour",
       "url": "https://open.spotify.com/track/7dueFJQSm2gjWZ8etx024G"
-    },
-    {
-      "added_at": "2026-04-02 19:55:42",
-      "album": {
-        "name": "You\u2019ll Be The Proof (feat. Joy Williams)",
-        "url": "https://open.spotify.com/album/4QQj3QOSKqEEuJ1RdhJiAf"
-      },
-      "artists": [
-        {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
-        },
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 206504,
-      "name": "You\u2019ll Be The Proof (feat. Joy Williams)",
-      "url": "https://open.spotify.com/track/3IC5qtXccheQyYw27oSSD4"
     },
     {
       "added_at": "2026-04-02 19:55:42",
@@ -2343,158 +2491,6 @@
       "duration_ms": 185788,
       "name": "Plastic Cigarette",
       "url": "https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i"
-    },
-    {
-      "added_at": "2026-01-16 17:58:45",
-      "album": {
-        "name": "Mississippi River Bluebird",
-        "url": "https://open.spotify.com/album/4hhVgdj46BbK7zrINPnAXr"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        },
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "Mississippi River Bluebird",
-      "url": "https://open.spotify.com/track/2gWW4I0H6rGxxwG2nmuCAZ"
-    },
-    {
-      "added_at": "2026-01-09 17:12:01",
-      "album": {
-        "name": "More Than I Can Dream",
-        "url": "https://open.spotify.com/album/3QT7ytO3UJc1jqjWvTTfDU"
-      },
-      "artists": [
-        {
-          "name": "Jon and Roy",
-          "url": "https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2"
-        }
-      ],
-      "duration_ms": 250073,
-      "name": "More Than I Can Dream",
-      "url": "https://open.spotify.com/track/5h55mqncCjtq2cPylMGBYn"
-    },
-    {
-      "added_at": "2025-09-26 00:01:29",
-      "album": {
-        "name": "Fool's Gold",
-        "url": "https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Traffic Jam",
-          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
-        }
-      ],
-      "duration_ms": 197539,
-      "name": "Fool's Gold",
-      "url": "https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU"
-    },
-    {
-      "added_at": "2025-12-16 16:38:06",
-      "album": {
-        "name": "Challenger",
-        "url": "https://open.spotify.com/album/0ic2yVzwWkmL0APveGjQAu"
-      },
-      "artists": [
-        {
-          "name": "Luca Fogale",
-          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
-        }
-      ],
-      "duration_ms": 223207,
-      "name": "Challenger",
-      "url": "https://open.spotify.com/track/18E1JTva63dkwEtgRSQiEp"
-    },
-    {
-      "added_at": "2025-12-05 05:01:35",
-      "album": {
-        "name": "Little House",
-        "url": "https://open.spotify.com/album/1UBK4dwl1aw1Cprg6WQ1oV"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Little House",
-      "url": "https://open.spotify.com/track/0YaTSLfaoaJescHqbfDYv5"
-    },
-    {
-      "added_at": "2025-12-05 05:01:35",
-      "album": {
-        "name": "Landmines",
-        "url": "https://open.spotify.com/album/7LBc1RMD3yp4H2CJPK4mOZ"
-      },
-      "artists": [
-        {
-          "name": "John Shambles",
-          "url": "https://open.spotify.com/artist/06I4xBSxNsS6WHTINcKEwl"
-        }
-      ],
-      "duration_ms": 211711,
-      "name": "Landmines",
-      "url": "https://open.spotify.com/track/1CiX4g0K5Qk5EeVVxCA5IL"
-    },
-    {
-      "added_at": "2025-12-05 05:01:35",
-      "album": {
-        "name": "Bolo Blues",
-        "url": "https://open.spotify.com/album/38zPrueVMw4hOgGryi9mhn"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 150071,
-      "name": "Bolo Blues",
-      "url": "https://open.spotify.com/track/7HYP4xwvB28nd5iRSnPAdN"
-    },
-    {
-      "added_at": "2025-12-05 05:01:35",
-      "album": {
-        "name": "Change of the Wind",
-        "url": "https://open.spotify.com/album/0oj2fOqxUFC0M23WMw4FXc"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 229427,
-      "name": "Change of the Wind",
-      "url": "https://open.spotify.com/track/6y0czURsSIIdDXnWlhgqxf"
-    },
-    {
-      "added_at": "2025-12-05 05:01:35",
-      "album": {
-        "name": "Chasing a Thread",
-        "url": "https://open.spotify.com/album/1HAXoXkaOW8MOzatVYeGyJ"
-      },
-      "artists": [
-        {
-          "name": "Garrett Kato",
-          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
-        },
-        {
-          "name": "dee holt",
-          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
-        }
-      ],
-      "duration_ms": 180523,
-      "name": "Chasing a Thread",
-      "url": "https://open.spotify.com/track/0VOUG1FnZ3Kbb81fIzQ7rz"
     }
   ],
   "unique_name": "Folk & Friends",

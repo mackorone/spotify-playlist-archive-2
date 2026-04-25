@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 
 > 🍾
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,862 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,050 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 | 59 | [Bossa Supernova](https://open.spotify.com/track/5OaX0qy9jy6cDerIpMQF4o) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Bossa Supernova](https://open.spotify.com/album/5x7YwAgcrxksduNQwllHZf) | 3:12 |
 | 60 | [You Know](https://open.spotify.com/track/5laOXHixUUQpb8k1piJOpH) | [Ashel](https://open.spotify.com/artist/0uQmXAc9TJ42Te5soOJvkT) | [EQUINOX](https://open.spotify.com/album/7mOkW1xkEFjnTfF0FiZMMn) | 3:03 |
 
-Snapshot ID: `AAAAACWwPEO/auh8V1IQGji4q19CZXDf`
+Snapshot ID: `AAAAANPHVCwvntqHyxwzRbrEumGDATAE`

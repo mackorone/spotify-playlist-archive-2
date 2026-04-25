@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in Africa\. Cover: Darque
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,987 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,029 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 2 | [Baba Yilwa](https://open.spotify.com/track/7CbWbPUUmRYBI0uio0Bc7L) | [DJ Zinhle](https://open.spotify.com/artist/4z9NtIRj7d5cohzOjprqxW), [DJ Lace](https://open.spotify.com/artist/6AmSiS6uXD734FEQmoRAMx), [FunkTone](https://open.spotify.com/artist/5e20FnH1vyHXZId8SMW4H8), [Thobani White](https://open.spotify.com/artist/49u46uLKW37rLZJDS06Rrg) | [Baba Yilwa](https://open.spotify.com/album/7l0wDdT3ohzkWE9WncimvS) | 4:52 |
 | 3 | [Sfede \- General C'mamane Remix](https://open.spotify.com/track/376p6zyHczxRSRR7DljBNU) | [Drega](https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG), [General C'Mamane](https://open.spotify.com/artist/3EJuq3QjLiJfFc3SaTaN9g) | [Sfede \(Remix Pack\)](https://open.spotify.com/album/1Y6PfuxBIvj35wgsuTgTAD) | 4:47 |
 | 4 | [ZEP \(feat\. Uncool MC\)](https://open.spotify.com/track/1K0sOGQSOUflAyPPRBhTax) | [Dj Smallz](https://open.spotify.com/artist/4TvbQDO2cOQqr9oCKHaGTM), [ZinedinexSguche](https://open.spotify.com/artist/3p375AB4ZQn1HKupXuDCCX), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks), [Uncool MC](https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1) | [ZEP \(feat\. Uncool MC\)](https://open.spotify.com/album/6hmdlLccKNe9ORX8ZhXO39) | 5:08 |
-| 5 | [Track 3](https://open.spotify.com/track/2i640R1xpVapryc9QKdVeo) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro) | [Izinja Zam: Vol\. I](https://open.spotify.com/album/0HQLuYklJlPPnAH4Fk3IsH) | 0:00 |
+| 5 | [Guqa \(My Prayer\)](https://open.spotify.com/track/2i640R1xpVapryc9QKdVeo) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [TBO](https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp) | [Izinja Zam: Vol\. I](https://open.spotify.com/album/0HQLuYklJlPPnAH4Fk3IsH) | 7:05 |
 | 6 | [when the party's over](https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [when the party's over](https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5) | 3:04 |
 | 7 | [Little Wonder](https://open.spotify.com/track/6kWfYsZq6tdNcSAJE4MfTv) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Zolani Mahola](https://open.spotify.com/artist/6jxoWZAKOFQ91TKHIJbjaC) | [Little Wonder](https://open.spotify.com/album/0yabTK8SYmRDrnf6IbXKJb) | 2:52 |
 | 8 | [Awe Mah](https://open.spotify.com/track/6frSQIVkgpbSXmlR1l95Ut) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [Shakes & Les](https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8) | [Awe Mah](https://open.spotify.com/album/2mqNnsJQQpq2leTMobs6kU) | 3:33 |

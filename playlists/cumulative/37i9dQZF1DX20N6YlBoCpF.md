@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met FRANCO,  Zaan Sonnekus, Tasché, Ariana Venus, Francois van Coke en meer!
 
-2,546 songs - 5 day 21 hr 38 min
+2,547 songs - 5 day 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -885,6 +885,7 @@
 | [Help my](https://open.spotify.com/track/1KpnpZG5bs0xFoVRToc6DP) | [David Lee](https://open.spotify.com/artist/1lEBEcEl8Czzc6qHpUZs8J) | [Help my](https://open.spotify.com/album/0fVmP6HeGaRvk0p6ufNQ1e) | 3:03 | 2025-05-15 | 2025-05-30 |
 | [Hemel In My Hande](https://open.spotify.com/track/4l9isFlMoWwBqLfFJfJYhU) | [Rudo Schwim](https://open.spotify.com/artist/0q8pZL0gSRc07NGegSdCGd) | [Hemel In My Hande](https://open.spotify.com/album/15gG4K8m4gLzGNN171geqp) | 3:02 | 2026-01-22 | 2026-04-17 |
 | [Hemel Op Die Aarde](https://open.spotify.com/track/3QlKVFn5qe3ZhGpXhZqfkz) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Hemel Op Die Aarde](https://open.spotify.com/album/3DiRpHm0a7V7UWZAMtS16Z) | 3:45 | 2024-11-14 | 2024-11-29 |
+| [Hemel Op Tafelberg](https://open.spotify.com/track/2qXMMOyrVGWjFVlELz0r7P) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Hemel Op Tafelberg](https://open.spotify.com/album/2yCjrIoLIw0v350IBQIODH) | 3:44 | 2026-04-24 |  |
 | [Hemel se Deur](https://open.spotify.com/track/3wZYtFzzcrowIquMHaX2pY) | [Tian Nienaber](https://open.spotify.com/artist/3nVhBs9i3aMlljbb6pOUpf) | [Hemel se Deur](https://open.spotify.com/album/6Z4VE4i1riW3upnaGJ3IYl) | 3:46 | 2023-10-26 | 2023-11-17 |
 | [Hephzibah](https://open.spotify.com/track/6D1hKHOc5L439rSmvT5tZi) | [Neil Sandilands](https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY) | [Land & Sand](https://open.spotify.com/album/2ouurOd8VHVbzoUDdPAddN) | 2:30 | 2024-10-10 | 2024-10-18 |
 | [Herbeskryf](https://open.spotify.com/track/5kdV5DXboh25VNthvY0KWl) | [Joshua Na Die Reën](https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW), [Seuns van Vlug](https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE) | [Herbeskryf](https://open.spotify.com/album/2IpFyw7sN8vCTEtEPZGVL6) | 3:57 | 2025-05-29 | 2025-08-09 |

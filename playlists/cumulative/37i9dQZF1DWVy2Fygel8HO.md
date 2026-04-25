@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-198 songs - 8 hr 13 min
+199 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Inner Peace Of Mind](https://open.spotify.com/track/1vQc1CMKybARohCOtrr7Oc) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Inner Peace Of Mind](https://open.spotify.com/album/1sys8kVADrVBBiPvB21JRi) | 3:06 | 2023-12-12 |  |
 | [Just This Moment](https://open.spotify.com/track/37Tr5q6ySaPvAt6zrRo7qG) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Just This Moment](https://open.spotify.com/album/0Fh6shU6TT9Mb855NhUuGB) | 2:33 | 2025-05-20 |  |
 | [La grande Nue](https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [La grande Nue](https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh) | 3:04 | 2023-05-09 | 2025-04-26 |
+| [Lake Path](https://open.spotify.com/track/5bEAkWCMzngWICeQFFTfFC) | [Semeru](https://open.spotify.com/artist/1kqm2oGEbEPjIQZnSecVks) | [Lake Path](https://open.spotify.com/album/0cyoLXuG632qrN5qvRNBto) | 1:46 | 2026-04-24 |  |
 | [Lassitude](https://open.spotify.com/track/3YC3J5jl254mN4yCTiZz27) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Lassitude](https://open.spotify.com/album/7KvllB6zOkX2mf0SCf9jp5) | 2:34 | 2023-05-09 |  |
 | [Last Sunday](https://open.spotify.com/track/1HTvslM0ZjMDrCYM3YqsV7) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Last Sunday](https://open.spotify.com/album/3Iq0eQBewdnHphQGXdDxUk) | 2:23 | 2024-04-03 | 2025-04-26 |
 | [Last Sunday](https://open.spotify.com/track/6QIPjub60aFnvKxe4oNuEs) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Quiet Time](https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ) | 2:23 | 2023-05-09 | 2024-04-19 |

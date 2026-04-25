@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1Etiiw8agT.md) - [plain]
 
 > 12 Hours of brown noise to sleep longer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,465 likes - 200 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,575 likes - 200 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,7 +167,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1Etiiw8agT.md) - [plain]
 | 157 | [Brown Gravity](https://open.spotify.com/track/1ZHIYOrGgX0gVs9cYKe5ce) | [Symphony of Noises](https://open.spotify.com/artist/0gju4pLAHiP2XhvPXy5Irj) | [Brown Gravity](https://open.spotify.com/album/31kzdebZ1Qd8nINxEMLlKq) | 2:42 |
 | 158 | [Low Frequency Calm](https://open.spotify.com/track/2OnN9DVWoCEhUjtWLrGs4n) | [Tonebed](https://open.spotify.com/artist/2EW74TfTPvKUTwH9GOurlj) | [Low Frequency Calm](https://open.spotify.com/album/5Eko6n2EDoYIZtKRSPhdNh) | 2:34 |
 | 159 | [Brown Noise Tunnel](https://open.spotify.com/track/3xJdA7Nq7J6VvPtdxyjBot) | [Vizzionz](https://open.spotify.com/artist/3VU6EADz81WPaKVs9mP30w) | [Brown Noise Tunnel](https://open.spotify.com/album/3Ncdjt0dxhi49771DRE8c1) | 2:26 |
-| 160 | [Flowing Brown Noise](https://open.spotify.com/track/5ag378877iTMpPf8W4c2WC) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Brown Noise Calm Mind](https://open.spotify.com/album/4ZOzVlm2vNDejWHk9tz0H7) | 2:44 |
+| 160 | [Flowing Brown Noise](https://open.spotify.com/track/5ag378877iTMpPf8W4c2WC) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Brown Noise Calm Mind](https://open.spotify.com/album/4ZOzVlm2vNDejWHk9tz0H7) | 2:44 |
 | 161 | [Lush Brown Noise](https://open.spotify.com/track/789WJxwUk6Pxb4AnqqnJlx) | [A Dreaming Machine](https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA) | [Lush Brown Noise](https://open.spotify.com/album/59rZF6CVD9k11WPzt8eC5G) | 3:34 |
 | 162 | [Glowing Brown Noise](https://open.spotify.com/track/2BrJ6ymWa1KZXd2EjsfhsT) | [Wavymotion](https://open.spotify.com/artist/6ES9uL57SKu54jh3TlY3ce) | [Glowing Brown Noise](https://open.spotify.com/album/2LQEP2qyr3EsVi0aYsVIEQ) | 2:23 |
 | 163 | [Brown Noise Still Mode](https://open.spotify.com/track/7j9hnCRs6KaOgBJ2Uk1o88) | [Emberwaves](https://open.spotify.com/artist/56QSJQc6Jik15NGJDHk4UH) | [Brown Noise Still Mode](https://open.spotify.com/album/6Wxn13iRCSPkZxWRtx0GDp) | 2:56 |

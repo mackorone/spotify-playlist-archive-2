@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Mari Froes
 
-1,131 songs - 2 day 8 hr 3 min
+1,132 songs - 2 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -699,7 +699,7 @@
 | [Nós Dois \- Ao Vivo Na Casa da Colina](https://open.spotify.com/track/6Mg2CaEissVzViqC5jgveU) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [APGC \(Ao Vivo Na Casa Da Colina\)](https://open.spotify.com/album/4zl5y4as3m2eZS8DFRfqVt) | 3:15 | 2026-02-27 |  |
 | [O Café Num Esfriou](https://open.spotify.com/track/09uq2ndGRRGYUTWbzhfDyL) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Pra Beber e Amar](https://open.spotify.com/album/5LfVXJXf0W8GhIVPftzlHP) | 2:31 | 2025-04-04 | 2025-05-23 |
 | [O Cara de Óculos](https://open.spotify.com/track/1chg0t03u3PDcYwABCYWKG) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Bia Nogueira](https://open.spotify.com/artist/337gunwEwXj6BjKbSo3Uo6), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Histórias da Minha Área](https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k) | 4:10 | 2020-10-20 | 2022-07-29 |
-| [O Motivo](https://open.spotify.com/track/1U3GnZsLzer0Rihu5Xljvt) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Tutti Beats](https://open.spotify.com/artist/7bn1rXxEuE0LpV3LQ5PatH) | [O Motivo](https://open.spotify.com/album/5j7Wfy6vxuPgjN1b1PY7SW) | 3:04 | 2025-07-11 |  |
+| [O Motivo](https://open.spotify.com/track/1U3GnZsLzer0Rihu5Xljvt) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Tutti Beats](https://open.spotify.com/artist/7bn1rXxEuE0LpV3LQ5PatH) | [O Motivo](https://open.spotify.com/album/5j7Wfy6vxuPgjN1b1PY7SW) | 3:04 | 2025-07-11 | 2026-04-25 |
 | [O Quanto Foi Real](https://open.spotify.com/track/3EUNNrGiTcy5nRbhcSgiG2) | [Gabriel Saffi](https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [O Quanto Foi Real](https://open.spotify.com/album/1t32oYrrAvQ6ale7F1Ovim) | 2:38 | 2025-06-13 | 2025-09-19 |
 | [O Que Eu Ganho](https://open.spotify.com/track/1CNGqfIa5JyUj1cWfvGqAi) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [O Que Eu Ganho](https://open.spotify.com/album/2DVMqhsqQQ4832MzpOdElN) | 3:29 | 2023-10-27 | 2023-11-04 |
 | [O Que Sobrou Do Amor?](https://open.spotify.com/track/1yp6gTre5ZgNcU7jhoM7uS) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [O Que Sobrou Do Amor?](https://open.spotify.com/album/2QJYzWWasjxoyCNhD4zw84) | 2:26 | 2026-01-23 |  |
@@ -719,6 +719,7 @@
 | [Oi Xodózinho](https://open.spotify.com/track/3b643qVO94rCYxM6ywBI7y) | [QUITXA](https://open.spotify.com/artist/2cvrw3HWvaY0DoEvOYUvc6), [HEO](https://open.spotify.com/artist/0H1f4AwctYhhhyNywuWi21) | [Oi Xodózinho](https://open.spotify.com/album/7iIBpoiJlGI0bN0EH8RLvJ) | 2:04 | 2025-01-17 | 2025-03-01 |
 | [Olha Bela](https://open.spotify.com/track/3r6dxRa9SNMWSah8R9VDyW) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Olha Bela](https://open.spotify.com/album/2H84den6cdw9vICRQfwav0) | 2:49 | 2023-02-14 | 2023-08-26 |
 | [Olha Pro Oclin](https://open.spotify.com/track/5G3NKZf1Gqs7dQnY4Miliy) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Doka Language](https://open.spotify.com/album/2h81KHZhdqqJ2eyAJtPhsM) | 3:41 | 2020-10-20 | 2022-07-29 |
+| [Olhar de Quem não Presta](https://open.spotify.com/track/5cJ90Ya6UbFgQpk6Epq5vk) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ) | [Olhar de Quem não Presta](https://open.spotify.com/album/78wcFSGxIQDEuYc79SaLhs) | 2:46 | 2026-04-24 |  |
 | [OLHAR HD](https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Olhar HD](https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv) | 2:47 | 2024-02-23 | 2024-09-28 |
 | [Olhar Pro Lado](https://open.spotify.com/track/2hmHDKwzxSeoA4AcmY12rC) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ato 2: TODAMANHÃ](https://open.spotify.com/album/1ro3qMEE6QLtwTqTS3c2A2) | 4:06 | 2023-06-16 | 2023-07-08 |
 | [Olho no Gato](https://open.spotify.com/track/6ZwMZUgN277HqoWaSZoFtX) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:39 | 2023-04-28 | 2023-07-29 |

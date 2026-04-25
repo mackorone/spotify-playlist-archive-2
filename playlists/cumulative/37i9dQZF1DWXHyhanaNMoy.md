@@ -4,7 +4,7 @@
 
 > Motion & good vibes! Cover: Trobi, Kaya Imani & Emms
 
-1,709 songs - 3 day 3 hr 50 min
+1,709 songs - 3 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,6 +485,7 @@
 | [Dure Geintje](https://open.spotify.com/track/0LAQc7pyZaVxo7C6czJ7rz) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Dure Geintje](https://open.spotify.com/album/6rfemzDVUuIj377RFJlXhr) | 2:16 | 2026-02-12 |  |
 | [Durma](https://open.spotify.com/track/5VQdi4PLP9lmAgrI7t2IUb) | [Spanker](https://open.spotify.com/artist/6wMnkPepu5AcV3w9rtIw09), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Durma](https://open.spotify.com/album/3wwdHNwrDdXK7X4mnQgK9g) | 2:29 | 2023-12-08 | 2024-01-19 |
 | [Dushi](https://open.spotify.com/track/02XaqRz8GJt0v7t7i8OyKT) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Dushi](https://open.spotify.com/album/3cVPakapbNChsXir1BAx0F) | 2:11 | 2025-08-04 | 2025-09-21 |
+| [DUSSELDORF](https://open.spotify.com/track/6AtD9nJmnSHsnn0dIRk4pU) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Marone](https://open.spotify.com/artist/6BWzlvYNWf5v6W0aoE08x4) | [NIET ACTIEF](https://open.spotify.com/album/64l5mqybz0fgCP7gpbz1Tb) | 2:06 | 2026-04-23 |  |
 | [Dyscalculie](https://open.spotify.com/track/0LNT7X2PU2gg8vpMZHC37n) | [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [Dyscalculie](https://open.spotify.com/album/1hJBIeaY6hODwbYq0Zwsnk) | 1:33 | 2023-03-16 | 2023-04-14 |
 | [Déjà Vu](https://open.spotify.com/track/0MoVSGtczr71BiUMaAGLdu) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Déjà Vu](https://open.spotify.com/album/70TkeQlSOxAjMRGpYCNJc8) | 3:20 | 2022-10-24 | 2022-11-01 |
 | [Déjà Vu](https://open.spotify.com/track/3oXkYHn1T8V2RsPpKUAZQr) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Strandje Aan De Maas](https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA) | 3:20 | 2022-10-31 | 2022-12-09 |
@@ -1511,7 +1512,6 @@
 | [Toxic Love \(feat\. DYSTINCT\)](https://open.spotify.com/track/30oXsnwOMmvpzzEErBvr1B) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Love Stories](https://open.spotify.com/album/00wQC7GhtjQjSMuPQWEJsw) | 2:35 | 2023-05-11 | 2023-07-21 |
 | [Toy a Mil](https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Toy a Mil](https://open.spotify.com/album/6DVdkW05LIZ7xjIeu6291k) | 2:28 | 2023-01-23 | 2023-03-03 |
 | [Tra](https://open.spotify.com/track/5M2RXimSt8334s6eLz5ueo) | [Robin Roxette](https://open.spotify.com/artist/1brrW50XBilcXfvh02W8jV), [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV), [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5) | [Tra](https://open.spotify.com/album/0fnL0cfnJ47uSvKDFHTx9F) | 3:14 | 2025-06-05 | 2025-08-15 |
-| [Track 3](https://open.spotify.com/track/6AtD9nJmnSHsnn0dIRk4pU) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5) | [NIET ACTIEF](https://open.spotify.com/album/64l5mqybz0fgCP7gpbz1Tb) | 0:00 | 2026-04-23 |  |
 | [Trainingspak](https://open.spotify.com/track/30oluvvpUwQaMm56F9lHBz) | [WAVEY](https://open.spotify.com/artist/16yIjgY7iwGu91UqIgTFTt), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Trainingspak](https://open.spotify.com/album/67N1h7Y59KjDS3xafg7gLc) | 2:25 | 2023-06-08 | 2023-06-30 |
 | [TRANQUILLO](https://open.spotify.com/track/7yCQnZXobkhuUhou4F9kog) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC) | [TRANQUILLO](https://open.spotify.com/album/2hIBuW8ozqyF7Uv8D6gC8G) | 2:46 | 2025-12-04 | 2026-03-13 |
 | [Tranquilo](https://open.spotify.com/track/31BsqR4z06NKoMnsvsMt5z) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Tranquilo](https://open.spotify.com/album/1fhhzc1jjmeK0n4Nb5I7wL) | 2:56 | 2023-08-17 | 2023-12-15 |

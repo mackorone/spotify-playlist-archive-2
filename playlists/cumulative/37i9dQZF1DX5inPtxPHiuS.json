@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas",
+  "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Superlitio",
   "name": "Rock Colombia",
   "tracks": [
     {
@@ -560,7 +560,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 178966,
       "name": "Canto al Fuego",
       "url": "https://open.spotify.com/track/6PebIhiWi1pAUVJ6BFPHtC"
@@ -922,7 +922,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 229423,
       "name": "Destapabocas",
       "url": "https://open.spotify.com/track/2aVKlAZFeYmVyclUgjwZ2w"
@@ -1034,6 +1034,24 @@
       "duration_ms": 228300,
       "name": "D\u00e9jame Entrar",
       "url": "https://open.spotify.com/track/0oTcViTLu2nPJvrlspoem5"
+    },
+    {
+      "album": {
+        "name": "D\u00edas Perfectos",
+        "url": "https://open.spotify.com/album/37vhqFEwv3280Z3EoOzNwJ"
+      },
+      "artists": [
+        {
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336920,
+      "name": "D\u00edas Perfectos",
+      "url": "https://open.spotify.com/track/4YJqajgA8lpqJv9mxhtV0Z"
     },
     {
       "album": {
@@ -1200,6 +1218,24 @@
       "duration_ms": 263390,
       "name": "El Pu\u00f1al",
       "url": "https://open.spotify.com/track/6cO3H592rPALlR3XoUG0P9"
+    },
+    {
+      "album": {
+        "name": "El Reflejo",
+        "url": "https://open.spotify.com/album/6VawC8yDOjAfD168H2a3Vo"
+      },
+      "artists": [
+        {
+          "name": "Ekhymosis",
+          "url": "https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218700,
+      "name": "El Reflejo",
+      "url": "https://open.spotify.com/track/1HcYDA5dwLeWHVTmNQf6XO"
     },
     {
       "album": {
@@ -1951,6 +1987,28 @@
     },
     {
       "album": {
+        "name": "La Teta Pirata",
+        "url": "https://open.spotify.com/album/2XQGhwnv89NMhhZH6Yckxe"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        },
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271691,
+      "name": "La Teta Pirata",
+      "url": "https://open.spotify.com/track/1VM0zSdOxcFQ0i2bfv39Ql"
+    },
+    {
+      "album": {
         "name": "Ciudad Faro",
         "url": "https://open.spotify.com/album/58sctZs8nWBBUJ8qY956Vk"
       },
@@ -2222,6 +2280,24 @@
       "duration_ms": 275017,
       "name": "Metalero",
       "url": "https://open.spotify.com/track/3nN9m5VODTyvN6zdnAHIjn"
+    },
+    {
+      "album": {
+        "name": "Mi Mal Y Mi Bien",
+        "url": "https://open.spotify.com/album/38MO92AEgN89ORci9FYeS2"
+      },
+      "artists": [
+        {
+          "name": "The Hall Effect",
+          "url": "https://open.spotify.com/artist/0HHtlGzwCgymgLzZZisV9e"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250371,
+      "name": "Mi Mal Y Mi Bien",
+      "url": "https://open.spotify.com/track/52OUKtvQoMi6Ih8W7oF4rc"
     },
     {
       "album": {
@@ -2842,7 +2918,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 235891,
       "name": "Perfecto Error",
       "url": "https://open.spotify.com/track/5diqHYqIz4JfsbDztdeuJI"
@@ -3218,7 +3294,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 178133,
       "name": "Recorrer el Mundo",
       "url": "https://open.spotify.com/track/1wpn2kg0vFgvEl7V6XeQzK"

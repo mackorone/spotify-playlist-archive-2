@@ -4,7 +4,7 @@
 
 > The new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Yorkk & ARTSALGHUL
 
-1,065 songs - 2 day 3 hr 22 min
+1,065 songs - 2 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -604,6 +604,7 @@
 | [Misbehave](https://open.spotify.com/track/43Gj3bg7bKByKGi8EO6eGj) | [Kotrell](https://open.spotify.com/artist/1k3uh1cWemPuWEYV2lcMPS) | [Misbehave](https://open.spotify.com/album/7rVhzxmshW0zwoAMA3aLzx) | 2:28 | 2025-08-15 | 2025-11-09 |
 | [Miss Kitoko](https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Miss Kitoko](https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR) | 2:29 | 2026-03-13 |  |
 | [Missy Mami](https://open.spotify.com/track/1e6T6rIfgNv80ekHaA9J19) | [Oshunda](https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C) | [Missy Mami](https://open.spotify.com/album/6AHL6fisPdk6tQe4lZDBEK) | 2:40 | 2023-04-27 | 2023-05-26 |
+| [Modern man](https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r) | [Modern Fantasy](https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy) | 3:32 | 2026-04-24 |  |
 | [Money & Laughter](https://open.spotify.com/track/0rcz74mV0d1ERhaQPQxJnx) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Money & Laughter](https://open.spotify.com/album/3ZSA6jbvKDGxYFuD5YBCYQ) | 2:31 | 2021-07-09 | 2022-04-29 |
 | [Money Prayer](https://open.spotify.com/track/5resIjFpN4mv5LokChHwiR) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Tha Gawd \- Side A](https://open.spotify.com/album/72FBV70oygMH6ELBZ4Zod6) | 2:49 | 2024-05-03 | 2024-11-22 |
 | [Monica](https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ) | [TMXO](https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP) | [Monica](https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo) | 2:08 | 2022-12-08 | 2023-12-15 |
@@ -977,7 +978,6 @@
 | [Toxic Love Story](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 | 2024-01-08 | 2024-05-03 |
 | [Toyin Tomato](https://open.spotify.com/track/4M4FJYE3mTKtpvUld3cXJn) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [Love is War](https://open.spotify.com/album/4T7WOGmFKYhXwGYMTylhfq) | 2:48 | 2021-10-15 | 2022-02-11 |
 | [TRABAYE](https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS) | [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [OLORIN PACK](https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ) | 1:53 | 2026-04-03 |  |
-| [Track 3](https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [Modern Fantasy](https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy) | 0:00 | 2026-04-24 |  |
 | [Trappin'](https://open.spotify.com/track/5plaVEdji1xkIuEEKvuVEt) | [Re.decay](https://open.spotify.com/artist/0PDj0ZH3LHrGifJSeDZKWF), [Tinuke](https://open.spotify.com/artist/5AzAEBREBwVj9AOmHNG5X1), [Eze Jackson](https://open.spotify.com/artist/5tPCFmRzyUGp5ZNqSC54QM) | [Trappin'](https://open.spotify.com/album/5hryGF4CvfTG6IIeK5SLVq) | 3:00 | 2022-05-12 | 2022-05-27 |
 | [Tropicana](https://open.spotify.com/track/3owm3LW9jSaF0UjULZvGJw) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Flash](https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p) | [Palmwine Music 2](https://open.spotify.com/album/40nNC1WqyKr4IHIJH0cxS5) | 4:15 | 2024-03-21 | 2024-03-25 |
 | [Tropicana](https://open.spotify.com/track/1wTupR6XF1y1yduWbrBa1x) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si), [Oshunda](https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C), [9roovy](https://open.spotify.com/artist/1vcTEePkCTv3XMyuVNSAMy) | [Tropicana](https://open.spotify.com/album/3iESACtNvFj9ow5aQOTicl) | 2:27 | 2026-03-20 |  |

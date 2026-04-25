@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Lil Zey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,406,384 likes - 49 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,406,388 likes - 49 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hermès 2.0](https://open.spotify.com/track/1ONwgLvPUbapdtMsMxpxx9) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Hermès 2.0](https://open.spotify.com/album/26LqIfnZFtbLTKq0aYzwb5) | 1:21 |
-| 2 | [muamma](https://open.spotify.com/track/6NA2roNRPCo9k2Oprh0zGQ) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [muamma](https://open.spotify.com/album/6eZNFmDx1hVjp3mweyiTEO) | 3:08 |
+| 2 | [muamma \- ulubatlı](https://open.spotify.com/track/6NA2roNRPCo9k2Oprh0zGQ) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [muamma \(ulubatlı\)](https://open.spotify.com/album/6eZNFmDx1hVjp3mweyiTEO) | 3:08 |
 | 3 | [Kaybet](https://open.spotify.com/track/2clKyB93M9tT80yraXSHWs) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kaybet](https://open.spotify.com/album/51G4p4KQeDHKTkhf7mEpJS) | 2:51 |
 | 4 | [Paramparça](https://open.spotify.com/track/79S7YzpQoeVnD5FHxtg9Zz) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Ekşimtrak](https://open.spotify.com/album/1fowXwMoOperwHFpJ38ye7) | 3:23 |
 | 5 | [sanma ki yaşıyorum](https://open.spotify.com/track/7zH71HbdpGVES8lVRIcDDs) | [ASLAR](https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA), [Lessio](https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [sanma ki yaşıyorum](https://open.spotify.com/album/2LEhF3vteB6Yd6Nqgliq6G) | 2:29 |
-| 6 | [Track 1](https://open.spotify.com/track/5purCVXkkO7qkXzlGjjKnd) | [Mode XL](https://open.spotify.com/artist/2qpp3Yjdi0E0D0H1d0Phc1) | [Esenboğa](https://open.spotify.com/album/3QGRn64ZxvCYRiSsnj58WW) | 0:00 |
+| 6 | [Dur Kalk](https://open.spotify.com/track/5purCVXkkO7qkXzlGjjKnd) | [Mode XL](https://open.spotify.com/artist/2qpp3Yjdi0E0D0H1d0Phc1) | [Esenboğa](https://open.spotify.com/album/3QGRn64ZxvCYRiSsnj58WW) | 2:48 |
 | 7 | [Kan](https://open.spotify.com/track/5vfFSjlw7ABocyHI7QsUK5) | [Massaka](https://open.spotify.com/artist/4Fn5clYETVpCxnIcFSZhr9), [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [Kan](https://open.spotify.com/album/2Uhc0BCUgAUfZ0BHuEDSuZ) | 2:06 |
 | 8 | [Sanırım Yaşlanıyorum](https://open.spotify.com/track/4gzqjGdJuNKjIiG2DVgB1T) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK) | [GÜNAH](https://open.spotify.com/album/5yoU7u5l4hLrICXjDRomck) | 2:40 |
 | 9 | [RDM](https://open.spotify.com/track/1f2c5aRUD2yyU2jmjvDSzr) | [KAVAK](https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY), [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [RDM](https://open.spotify.com/album/5wrTc1B12K6DCxGk7EYHkn) | 2:01 |

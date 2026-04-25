@@ -4,7 +4,7 @@
 
 > De grootste hits uit de kroeg in één playlist.
 
-166 songs - 7 hr 58 min
+167 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Dromendans](https://open.spotify.com/track/7tqusWyIHeTmj5Zau5CYqj) | [Vinzzent](https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX) | [Droomwereld](https://open.spotify.com/album/23kBLHQFMXTBQbsI4PZ9Kt) | 2:52 | 2025-07-14 |  |
 | [Droom Jij Over Mij Vannacht](https://open.spotify.com/track/4VqkzNrCmkv31nd7POoHWL) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Droom Jij Over Mij Vannacht](https://open.spotify.com/album/7F3QzxZYm1dXmhjHctzsDy) | 3:10 | 2026-01-13 |  |
 | [Echte Liefde Is Te Koop](https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop](https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR) | 2:32 | 2025-07-14 |  |
-| [Een bom](https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Een bom](https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C) | 3:24 | 2025-07-14 |  |
+| [Een bom](https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Een bom](https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C) | 3:24 | 2025-07-14 | 2026-04-25 |
 | [Eigen Schuld](https://open.spotify.com/track/1AHGfEp4zcjYK9cjj6W1vT) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Eigen Schuld](https://open.spotify.com/album/61Qr7dTzKj6UJkDcgv1vG7) | 2:47 | 2026-02-03 |  |
 | [Engelbewaarder](https://open.spotify.com/track/3bqza6yXHT7b6JqbeyWpFD) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Engelbewaarder](https://open.spotify.com/album/7zGrwd5rwbfQiLfuFtkTh4) | 3:16 | 2025-07-14 |  |
 | [Feest In De Tent](https://open.spotify.com/track/6rvwaPKrw99V8G7DoGSMvz) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Feest In De Tent](https://open.spotify.com/album/63A6NjvBZNYGbS2XcQ1fQh) | 3:20 | 2025-07-14 |  |
@@ -167,6 +167,7 @@
 | [Zaterdagavond](https://open.spotify.com/track/3BOjKPbIFdyOgdtpvvsc73) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Het Is Me Gelukt](https://open.spotify.com/album/7zemcMSWjNFIBHuzHmqeza) | 3:02 | 2025-07-14 |  |
 | [Ze Komt Uit Amsterdam](https://open.spotify.com/track/2xJIY9JQQdNzFVAumSXsIF) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ze Komt Uit Amsterdam](https://open.spotify.com/album/5aKbiaSUuJPZ1uX7SUXcDx) | 2:32 | 2025-11-26 |  |
 | [Ze Komt Uit Amsterdam](https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ze Komt Uit Amsterdam](https://open.spotify.com/album/5YXzV37JGcqHOMlg3SFM1F) | 2:32 | 2025-07-14 | 2025-11-27 |
+| [Zij Hoort Bij Mij](https://open.spotify.com/track/4NzVNVrPqz7APlA5C0TuBP) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [Zij Hoort Bij Mij](https://open.spotify.com/album/5DIbGZCUppQpa7eZ3RWN8o) | 2:06 | 2026-04-24 |  |
 | [Zij Is Van Mij](https://open.spotify.com/track/5ElK7HPvWfRYOzz6F6ICId) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Zij Is Van Mij](https://open.spotify.com/album/42ySQUp33CT7jH0XTOVYPh) | 2:25 | 2025-07-14 |  |
 | [Zij komt van het kamp](https://open.spotify.com/track/1a73TFY2kytPMg6Vv5xGV5) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Zij komt van het kamp](https://open.spotify.com/album/4QmDUKJ7PQSNtR4UVEUoc5) | 2:28 | 2025-11-13 |  |
 | [Zij Weet Het \- Studio Versie](https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Zij Weet Het \(Studio Versie\)](https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs) | 4:01 | 2025-07-14 | 2025-09-21 |

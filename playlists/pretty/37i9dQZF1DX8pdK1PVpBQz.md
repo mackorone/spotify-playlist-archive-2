@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: LUBBY
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,898 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,897 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 89 | [Red Moon](https://open.spotify.com/track/4mv3WLkbINj3Fuq42uULfV) | [ocy](https://open.spotify.com/artist/18VIpclpGTLStWQrCypStZ) | [Red Moon](https://open.spotify.com/album/3dFxi6ezuqcjVbHtzTxpvw) | 3:16 |
 | 90 | [Bicycle](https://open.spotify.com/track/1wz44DJSpCyRnryVAKKAIA) | [Hannie Day](https://open.spotify.com/artist/3gMa3cM0Ln4ib87C1RbMEG) | [Bicycle](https://open.spotify.com/album/58pme53f8EngW7Ik0LfjH9) | 2:36 |
 | 91 | [SLEEP](https://open.spotify.com/track/48eBAejf09NFFnpm5GKZ6Q) | [LULAY](https://open.spotify.com/artist/5DE11unKCqcXSamWvDwami) | [SLEEP](https://open.spotify.com/album/2sdfSVqVqGkWgqOAeTcDNV) | 2:43 |
-| 92 | [Dream](https://open.spotify.com/track/3A1bMgsYhRWBgWy9E0tgOo) | [Dem Mob](https://open.spotify.com/artist/4aciJpcM8WNsBXP4dQv9yM) | [Dream](https://open.spotify.com/album/5fQz8UwxTyfui4vH6ymIqo) | 3:02 |
+| 92 | [Dream](https://open.spotify.com/track/3A1bMgsYhRWBgWy9E0tgOo) | [DEM MOB](https://open.spotify.com/artist/4aciJpcM8WNsBXP4dQv9yM) | [Dream](https://open.spotify.com/album/5fQz8UwxTyfui4vH6ymIqo) | 3:02 |
 | 93 | [Super Glue](https://open.spotify.com/track/6rph0hV6dAkcPzCcCs9vDn) | [Ariela Jacobs](https://open.spotify.com/artist/5aSJ7lyKNRh4luVJU9gT6p) | [Super Glue](https://open.spotify.com/album/7glQjrnVG0sHriqCF9Kbvs) | 3:34 |
 | 94 | [Cross](https://open.spotify.com/track/4apA0WCGptCvCWZ5iyPI5z) | [Perfect 50](https://open.spotify.com/artist/13KYPBw10xl1v2h4m8GHXY) | [the kids are mean to the cat](https://open.spotify.com/album/5H7tIchlXCB6y5wMl04HOB) | 2:34 |
 | 95 | [Nosedive](https://open.spotify.com/track/4vMjD5jFLXG4zguzmqvLfG) | [Ellis King](https://open.spotify.com/artist/4KJ4qp4XqEXmILu2ZX9hAu) | [Nosedive](https://open.spotify.com/album/7ilgaMkL6lwuLJCpMUFBEW) | 3:01 |

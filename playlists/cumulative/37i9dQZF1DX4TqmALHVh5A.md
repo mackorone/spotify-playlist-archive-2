@@ -4,7 +4,7 @@
 
 > La scène française branchée sur courant alternatif\. Photo : Zed Yun Pavarotti
 
-474 songs - 1 day 0 hr 47 min
+474 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [For You](https://open.spotify.com/track/26mrGVfb3bbXUP1ktG4oNZ) | [Requin Chagrin](https://open.spotify.com/artist/7hstPLRSo0ipNnICMpTN5g) | [Décollage](https://open.spotify.com/album/7gmQgiup3PRcGbw97xelQH) | 2:43 | 2026-03-26 |  |
 | [FORMIDABLE](https://open.spotify.com/track/2WNZc9WarkNEsdj5r5KZzj) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [ULTRAVIOLENT](https://open.spotify.com/album/5hBCK5YfYcwNN7kFECULiA) | 2:20 | 2025-11-20 | 2026-01-16 |
 | [Fortune](https://open.spotify.com/track/309ebGLU8IFokDjlcDdHgV) | [Dead Chic](https://open.spotify.com/artist/4hCjCdMZF65nKTdjsPUvfh) | [Fortune](https://open.spotify.com/album/1oIAdZXowgU2fj6rmKKqMp) | 3:05 | 2024-10-10 | 2025-03-07 |
+| [fragile hardcore](https://open.spotify.com/track/223MDZteznzgYiVX9QT5vB) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [FRAGILE HARDCORE](https://open.spotify.com/album/3MuOzXHWsVlVfWTcwK4lOA) | 2:36 | 2026-04-23 |  |
 | [garder le sourire](https://open.spotify.com/track/6C0NDZkB8M1LxbmjFRWsmn) | [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [garder le sourire](https://open.spotify.com/album/0wfYUBvdlAJEdp3lsK2Lv8) | 2:41 | 2024-05-16 | 2024-11-15 |
 | [Gare à la nuit](https://open.spotify.com/track/4G6dlO9xjCklF062LILK7J) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [Gare à la nuit](https://open.spotify.com/album/2O4SxhHbq8BlWSV5mNyPG2) | 3:58 | 2023-11-16 | 2024-04-05 |
 | [Ghost Dog](https://open.spotify.com/track/0tzgjp6M0CHBNaxpU8KZm0) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Ghost Dog](https://open.spotify.com/album/1CWo1ANrkR4YQkFWM0FTVe) | 2:30 | 2024-03-14 | 2024-03-22 |
@@ -439,7 +440,6 @@
 | [Tout sauf la vérité](https://open.spotify.com/track/2WhOzOZmVXZDaMSzWvVKwa) | [MaMaMa](https://open.spotify.com/artist/4cyoA6TEaCkcI6ue37dJpw) | [Tout sauf la vérité](https://open.spotify.com/album/3Z68OlrIgQ6SztVZW7PZeI) | 2:42 | 2026-02-19 |  |
 | [Tout seul](https://open.spotify.com/track/6VZ0v0TSl98xFn6rQuzVgy) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g) | [Tout seul](https://open.spotify.com/album/434ZXKSEKFsnFPImSq1si0) | 2:20 | 2026-01-23 | 2026-04-24 |
 | [Tovsk](https://open.spotify.com/track/3eE3crzsKJ2PaNQ8Ql0nzD) | [Vipères Sucrées Salées](https://open.spotify.com/artist/6CAIJHm9VUJsqMjRdRnBc5) | [Tovsk](https://open.spotify.com/album/2c6Y0gdj5J23TeQhEHJwq2) | 2:45 | 2023-11-30 | 2024-03-08 |
-| [Track 2](https://open.spotify.com/track/223MDZteznzgYiVX9QT5vB) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [FRAGILE HARDCORE](https://open.spotify.com/album/3MuOzXHWsVlVfWTcwK4lOA) | 0:00 | 2026-04-23 |  |
 | [Travail Famille Connasse](https://open.spotify.com/track/4ruytwNYWTnvwEq3XNhv0l) | [Schlaasss](https://open.spotify.com/artist/7znBntfGatVV9Elt7uP8Bu) | [Travail Famille Connasse](https://open.spotify.com/album/3cvnKTweWEc1Wwgi3SmhtX) | 3:28 | 2024-11-21 | 2025-03-12 |
 | [Trouble](https://open.spotify.com/track/2jWSqM1ZAUWFB0MiWvjsZs) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [Trouble](https://open.spotify.com/album/4Ra0HAJtws6bcNy6bAh87v) | 3:23 | 2024-10-17 | 2024-11-22 |
 | [Tu le sais](https://open.spotify.com/track/38cM42gpzzdkNwbX3CKWdC) | [Loane Coste](https://open.spotify.com/artist/6WZ9mM5VZI25OL93YiWi8d) | [Tu le sais](https://open.spotify.com/album/38sEcWTeJxsmx05A88Mf0v) | 3:05 | 2025-05-01 | 2025-09-26 |

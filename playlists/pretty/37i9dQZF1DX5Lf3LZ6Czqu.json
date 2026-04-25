@@ -1,13 +1,29 @@
 {
   "description": "Instrumental guitar shreddery. Cover: Jack Gardnier",
-  "num_followers": 163529,
+  "num_followers": 163552,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOJcuqApUFGRSqzE4BDlXETR/nvp",
+  "snapshot_id": "AAAAAAJrwQs526n4xLsr7p3ikK443V4C",
   "tracks": [
+    {
+      "added_at": "2026-04-24 04:03:17",
+      "album": {
+        "name": "Route 96",
+        "url": "https://open.spotify.com/album/3HyQRCp4fCr9xmsS5KELXW"
+      },
+      "artists": [
+        {
+          "name": "Matteo Mancuso",
+          "url": "https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1"
+        }
+      ],
+      "duration_ms": 277317,
+      "name": "Black Centurion",
+      "url": "https://open.spotify.com/track/4mfYYGU4DG5IZBywD6j4tu"
+    },
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
@@ -31,26 +47,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Solar Wind",
-        "url": "https://open.spotify.com/album/2IA9Kv4pmjiVOcH3CYR9to"
-      },
-      "artists": [
-        {
-          "name": "Matteo Mancuso",
-          "url": "https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1"
-        },
-        {
-          "name": "Steve Vai",
-          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
-        }
-      ],
-      "duration_ms": 339497,
-      "name": "Solar Wind (feat. Steve Vai)",
-      "url": "https://open.spotify.com/track/23GJxlLmvZr6rXfIlJW478"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Truffle Shuffle (Masterlink Sessions)",
         "url": "https://open.spotify.com/album/4uCuAfS84dSooHvZP8KFaO"
       },
@@ -69,6 +65,26 @@
       "url": "https://open.spotify.com/track/3BzAaAHiXaGrdPXfOsWdcU"
     },
     {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Solar Wind",
+        "url": "https://open.spotify.com/album/2IA9Kv4pmjiVOcH3CYR9to"
+      },
+      "artists": [
+        {
+          "name": "Matteo Mancuso",
+          "url": "https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1"
+        },
+        {
+          "name": "Steve Vai",
+          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
+        }
+      ],
+      "duration_ms": 339497,
+      "name": "Solar Wind (feat. Steve Vai)",
+      "url": "https://open.spotify.com/track/23GJxlLmvZr6rXfIlJW478"
+    },
+    {
       "added_at": "2025-02-07 05:00:20",
       "album": {
         "name": "Medallion",
@@ -83,30 +99,6 @@
       "duration_ms": 269155,
       "name": "Medallion",
       "url": "https://open.spotify.com/track/4Oor2Emr3lDd3JtogJVzfC"
-    },
-    {
-      "added_at": "2026-02-06 05:00:24",
-      "album": {
-        "name": "Fan Boy",
-        "url": "https://open.spotify.com/album/31uc0WmKlLjCnc120eahuK"
-      },
-      "artists": [
-        {
-          "name": "Jack Gardiner",
-          "url": "https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo"
-        },
-        {
-          "name": "Henrik Linder",
-          "url": "https://open.spotify.com/artist/7Eqq4gzUQVtj00rPPs99yt"
-        },
-        {
-          "name": "Aron Mellerg\u00e5rd",
-          "url": "https://open.spotify.com/artist/7EEisBA2uPcpabPlTY0kRQ"
-        }
-      ],
-      "duration_ms": 251374,
-      "name": "Fan Boy",
-      "url": "https://open.spotify.com/track/3GKYGyMThFGPpjnYmiNcFa"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -127,26 +119,6 @@
       "duration_ms": 198157,
       "name": "Classical Dragon (feat. Tim Henson)",
       "url": "https://open.spotify.com/track/77oGPqxT7yDZ5OCRmR863C"
-    },
-    {
-      "added_at": "2026-01-16 05:00:18",
-      "album": {
-        "name": "Isla Feliz (feat. Antoine Boyer)",
-        "url": "https://open.spotify.com/album/1HxoOPX6qThqtWugB6ecxu"
-      },
-      "artists": [
-        {
-          "name": "Matteo Mancuso",
-          "url": "https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1"
-        },
-        {
-          "name": "Antoine Boyer",
-          "url": "https://open.spotify.com/artist/2UKlumP0ZZDFcnuOSeNxHP"
-        }
-      ],
-      "duration_ms": 285537,
-      "name": "Isla Feliz",
-      "url": "https://open.spotify.com/track/3cW6gfOIB00rKKDzriDpY7"
     },
     {
       "added_at": "2025-11-14 05:00:25",

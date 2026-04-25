@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Celebrate the great women composers and classical performers who continue to transform the classical world. Cover: Isata Kanneh-Mason",
+  "description": "Celebrate the great women composers and classical performers who continue to transform the classical world. Cover: Anastasia Kobekina",
   "name": "Women of Classical",
   "tracks": [
     {
@@ -634,6 +634,28 @@
       "duration_ms": 152928,
       "name": "Aux lumi\u00e8res de cr\u00e9puscule, Op. 54: No. 4, Tristesse",
       "url": "https://open.spotify.com/track/7ECndUag3jsAHTtIXVc5Rf"
+    },
+    {
+      "album": {
+        "name": "Avant la suite",
+        "url": "https://open.spotify.com/album/0TdulPsHLP3fq97XGbnyE0"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        },
+        {
+          "name": "Anastasia Kobekina",
+          "url": "https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217288,
+      "name": "Avant la suite",
+      "url": "https://open.spotify.com/track/0ZEQiY8Hdz3GzheX22C9Bh"
     },
     {
       "album": {

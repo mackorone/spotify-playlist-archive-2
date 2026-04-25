@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's country crop\. Cover: Cameron Whitcomb
+> The cream of today's country crop\. Cover: Shaboozey
 
-1,175 songs - 2 day 16 hr 27 min
+1,177 songs - 2 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Born Again](https://open.spotify.com/track/5hEsOCXxKpxn5n96Hzs4oV) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Born Again](https://open.spotify.com/album/4m8X1dy1NKN2R46GUBFpBh) | 3:31 | 2026-01-15 | 2026-03-13 |
 | [Born To Be Country](https://open.spotify.com/track/6uZchRDY8ZnURdWgyeOBva) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Born To Be Country](https://open.spotify.com/album/2EGzHHxPaBBE3u71Ag61ze) | 3:40 | 2025-10-23 | 2026-02-06 |
 | [Born To Be Yours](https://open.spotify.com/track/1Bdo8ojZ6wO1UYZxZ6Ii60) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Born To Be Yours](https://open.spotify.com/album/1st86zpqY8SU5GYRHFDqrH) | 3:26 | 2026-02-26 | 2026-04-10 |
+| [Born To Die](https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Born To Die](https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27) | 2:45 | 2026-04-24 |  |
 | [Borrowed Time](https://open.spotify.com/track/3eJsbUwVIqzwdH7P8aZGw6) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Borrowed Time](https://open.spotify.com/album/2eF0pm2lt3PA6oLMSgYt4P) | 3:49 | 2026-03-05 | 2026-04-03 |
 | [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 | 2026-04-09 |  |
 | [Both](https://open.spotify.com/track/1qXQM8fJLLcb1Eyus7L4Iu) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Both](https://open.spotify.com/album/7yVvcpH3mUxdGuXuZ629Bj) | 2:59 | 2022-08-05 | 2022-12-16 |
@@ -512,6 +513,7 @@
 | [I Ain't Sayin'](https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [I Ain't Sayin'](https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d) | 2:54 | 2024-07-25 | 2025-01-10 |
 | [I Am Not Okay](https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I Am Not Okay](https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i) | 3:17 | 2024-06-13 | 2024-08-23 |
 | [I Can Feel It](https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [I Can Feel It](https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi) | 2:43 | 2023-09-21 | 2024-04-05 |
+| [I Can't Love You Anymore](https://open.spotify.com/track/5aVBxVa0kz9uzv0F4gwdEn) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Can't Love You Anymore](https://open.spotify.com/album/5BFfobflVIOwebqy5RtBcP) | 3:48 | 2026-04-24 |  |
 | [I Dare You](https://open.spotify.com/track/3QcZ0HiwWxwQYT2F17DCTm) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Dare You](https://open.spotify.com/album/5XSUjqKWdL4H36HkOni7zX) | 3:48 | 2025-01-30 | 2025-04-25 |
 | [I Do \(feat\. Maddie & Tae\)](https://open.spotify.com/track/5hmPSqHHEE6mHZofGHj6Pb) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [I Do \(feat\. Maddie & Tae\)](https://open.spotify.com/album/2c9wumdrF1G7CGk0ckyCLF) | 3:15 | 2024-08-01 | 2024-11-08 |
 | [I Don't Know How To Say Goodbye \(Bang Bang Boom Boom\)](https://open.spotify.com/track/1syRhE7HRKfMu24bgBIRPT) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Don't Know How To Say Goodbye \(Bang Bang Boom Boom\)](https://open.spotify.com/album/4qeMOx94PKBKg5J1XGTvF7) | 3:26 | 2024-09-05 | 2024-10-04 |

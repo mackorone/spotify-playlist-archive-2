@@ -4,7 +4,7 @@
 
 > lay back\. chill out.
 
-406 songs - 1 day 1 hr 42 min
+407 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Scatter \- A COLORS SHOW](https://open.spotify.com/track/0r9s0mdh4owbNocWDPrn1L) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Scatter \- A COLORS SHOW](https://open.spotify.com/album/3DBtIe7LqKGD7jV8YWIwwW) | 3:51 | 2025-08-15 | 2025-09-13 |
 | [Scene 2](https://open.spotify.com/track/24RXVWpfzaAyWgm4Estifw) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Scene 2](https://open.spotify.com/album/5ncjT7Skxpg5qKSB89PBye) | 4:15 | 2026-02-20 |  |
 | [sean leon must die](https://open.spotify.com/track/6Ec2b5AQFpMj57fgEHfjm1) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [sean leon must die](https://open.spotify.com/album/7xJ6ZYpqRgMyONwLNpxHVc) | 5:03 | 2025-03-21 | 2025-06-12 |
+| [Second Hand](https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Second Hand](https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV) | 3:24 | 2026-04-24 |  |
 | [Secret Garden](https://open.spotify.com/track/5bWCaZBoS5R4fAEBQla10G) | [Witch Prophet](https://open.spotify.com/artist/5AkXlAsYDGWVZIYOhboeSM) | [Words Are Spells, Thoughts Are Magic](https://open.spotify.com/album/14kNKp8G7YGzW6z2UClYaD) | 3:18 | 2026-03-20 | 2026-03-28 |
 | [Seduction](https://open.spotify.com/track/2qVqxcTXGugY41u8Sr8xfp) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:33 | 2023-03-01 | 2023-03-11 |
 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 | 2023-09-15 |  |
@@ -381,7 +382,7 @@
 | [Touch me \(feat\. Ya Levis\)](https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:39 | 2025-07-10 | 2025-11-15 |
 | [Traffic Lights \(feat\. Thom Yorke\)](https://open.spotify.com/track/2kSQNFlBqsHSzEw6riHR8K) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Traffic Lights \(feat\. Thom Yorke\)](https://open.spotify.com/album/3XztKVcdPZv8EZbgvYrxrF) | 5:41 | 2026-01-16 | 2026-04-02 |
 | [TWENTIES \- \(Spotify OUTSIDE Version\) \- Live from the Mojave Desert](https://open.spotify.com/track/3UTPu5xUx69rOxasK2ZDnD) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Spotify OUTSIDE](https://open.spotify.com/album/3syXCMQNzgnpvaHFG5QsoX) | 3:14 | 2025-08-01 | 2025-08-30 |
-| [Uncomfortable Pivot](https://open.spotify.com/track/1a381XvewzDomUYdPF9fox) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [PERSPECTIVE](https://open.spotify.com/album/0atFTNPOIZrA9MdGDMY1sK) | 2:00 | 2026-03-20 |  |
+| [Uncomfortable Pivot](https://open.spotify.com/track/1a381XvewzDomUYdPF9fox) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [PERSPECTIVE](https://open.spotify.com/album/0atFTNPOIZrA9MdGDMY1sK) | 2:00 | 2026-03-20 | 2026-04-25 |
 | [Under a Familiar Sun](https://open.spotify.com/track/5EUz3oaNR9W3JtxnBjWnWa) | [The Vernon Spring](https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm) | [Under a Familiar Sun](https://open.spotify.com/album/35BG0TfEcWiyuaf5sCNxTL) | 2:42 | 2025-05-09 | 2025-09-13 |
 | [Underwater Dreams](https://open.spotify.com/track/1NxmLSUpE5gNcq9XyLkPda) | [Kitoko Sound](https://open.spotify.com/artist/7DqZ1E3qLhl3dXPc7jiVOb), [Kitoko Sleep](https://open.spotify.com/artist/29sy3JDwZSiVqH8HgX2R7r), [Afro Zen](https://open.spotify.com/artist/31VvRi0goQyK22zqEqAboz) | [Underwater Dreams](https://open.spotify.com/album/02qB3FRm6bAE59ZM5quEqH) | 3:26 | 2024-07-26 | 2024-08-17 |
 | [Unfamiliar](https://open.spotify.com/track/2du9UaU0EwtkVr7zfpq5QK) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Boundaries](https://open.spotify.com/album/2UmzFdvxHsHnO7ZhIdvSzp) | 2:41 | 2024-04-26 | 2024-05-18 |

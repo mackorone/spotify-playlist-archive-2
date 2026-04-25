@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 197510,
+  "num_followers": 197516,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aegPgAAAAABxP2KGVoL6Xz3Vf2Bo3BCf",
+  "snapshot_id": "aelhAAAAAACiwGP92mmADQ5uR9HbPaF3",
   "tracks": [
     {
       "added_at": null,
@@ -935,22 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambassador Satch",
-        "url": "https://open.spotify.com/album/58kHPlQWaYIBgLnYmBObvG"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 125533,
-      "name": "When the Red, Red Robin Comes Bob, Bob, Bobbin' Along - Live at Medina Temple",
-      "url": "https://open.spotify.com/track/6NfoO2HWC2O3FkffWJBdnZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What A Wonderful World",
         "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 119026,
       "name": "Give Me Your Kisses",
       "url": "https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ambassador Satch",
+        "url": "https://open.spotify.com/album/58kHPlQWaYIBgLnYmBObvG"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 125533,
+      "name": "When the Red, Red Robin Comes Bob, Bob, Bobbin' Along - Live at Medina Temple",
+      "url": "https://open.spotify.com/track/6NfoO2HWC2O3FkffWJBdnZ"
     }
   ],
   "unique_name": "This Is Louis Armstrong",

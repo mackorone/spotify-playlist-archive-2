@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa. Omar Camacho y Oscar Maydon en portada.",
+  "description": "Bienvenidx a la trampa mexa. Nash, Moha The B y Maggic en portada.",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -76,6 +76,28 @@
       "duration_ms": 176896,
       "name": "$MOKE IN MY BRAIN",
       "url": "https://open.spotify.com/track/4Y93idPdVX6vRYXTpikoiS"
+    },
+    {
+      "album": {
+        "name": "NOSTALGIA CITY",
+        "url": "https://open.spotify.com/album/74G3R14n7Lt4a3YrEJxgZi"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178454,
+      "name": "100K DE AURA",
+      "url": "https://open.spotify.com/track/2TBYdb2cToPtTPCTnPgMTZ"
     },
     {
       "album": {
@@ -262,7 +284,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 205935,
       "name": "747",
       "url": "https://open.spotify.com/track/2Vtz8YKA5ykZxndBL3nN5r"
@@ -962,6 +984,32 @@
       "duration_ms": 247280,
       "name": "Bajar De Aqu\u00ed",
       "url": "https://open.spotify.com/track/1g3S0OCeh4zLE2ZtfRDBUA"
+    },
+    {
+      "album": {
+        "name": "Bajo La L\u00e1mpara",
+        "url": "https://open.spotify.com/album/6kuh0UL9DdaiO5TjWobkob"
+      },
+      "artists": [
+        {
+          "name": "DreamSMusic",
+          "url": "https://open.spotify.com/artist/3PTKHKdFO6p8fNv3roiZfq"
+        },
+        {
+          "name": "CAZZAL \"La Doble Z\"",
+          "url": "https://open.spotify.com/artist/5tCF7bFpZLYASsh9nhO9S3"
+        },
+        {
+          "name": "Alecc",
+          "url": "https://open.spotify.com/artist/5r2YAQydEG0Xqt3rEFM5HN"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216509,
+      "name": "Bajo La L\u00e1mpara",
+      "url": "https://open.spotify.com/track/7gpAFwxsWhu8fwHqni0W3G"
     },
     {
       "album": {
@@ -2728,7 +2776,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 135871,
       "name": "DENVER",
       "url": "https://open.spotify.com/track/1BebirEDCGzvtHaz0XCQNv"
@@ -4265,6 +4313,36 @@
     },
     {
       "album": {
+        "name": "Get This Money",
+        "url": "https://open.spotify.com/album/08ywbGTA4BApL5JblNNn47"
+      },
+      "artists": [
+        {
+          "name": "Nash",
+          "url": "https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3"
+        },
+        {
+          "name": "Eix",
+          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
+        },
+        {
+          "name": "Moha The B",
+          "url": "https://open.spotify.com/artist/4E44IDMuWVpcKurInIgtco"
+        },
+        {
+          "name": "Maggic",
+          "url": "https://open.spotify.com/artist/1ItNVcT1VXX8JcgBtS6C54"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223529,
+      "name": "Get This Money",
+      "url": "https://open.spotify.com/track/2ocfalOJGX8lmNSRccFOZX"
+    },
+    {
+      "album": {
         "name": "Ghetto Stars",
         "url": "https://open.spotify.com/album/0GlOnRohiQkTAtzb8mgtLe"
       },
@@ -5368,6 +5446,24 @@
       "duration_ms": 183733,
       "name": "La Trampa",
       "url": "https://open.spotify.com/track/5hSjKz5d9BNFLbVN1dJ0YV"
+    },
+    {
+      "album": {
+        "name": "LABIOS CHERRY",
+        "url": "https://open.spotify.com/album/1PkqaJph2qhbaKTpLwxIia"
+      },
+      "artists": [
+        {
+          "name": "Dionn G",
+          "url": "https://open.spotify.com/artist/266WR1sHIrpHbj5NuaWuE0"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199355,
+      "name": "LABIOS CHERRY",
+      "url": "https://open.spotify.com/track/1gerVgKWY0IpXcCWFZN1nc"
     },
     {
       "album": {
@@ -7182,7 +7278,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 176058,
       "name": "Nocta",
       "url": "https://open.spotify.com/track/52GU4i71Fic86JLT78rDtp"
@@ -8051,6 +8147,24 @@
     },
     {
       "album": {
+        "name": "P3",
+        "url": "https://open.spotify.com/album/1AX5wH89UZZAI41kt7HPwL"
+      },
+      "artists": [
+        {
+          "name": "Marcos Villalobos",
+          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Popper - Madrid",
+      "url": "https://open.spotify.com/track/5EoA5kuAMW26UWKYCy6msU"
+    },
+    {
+      "album": {
         "name": "Por Hollywood",
         "url": "https://open.spotify.com/album/2aCy0ncs4obXxHu3pZ1DK8"
       },
@@ -8912,7 +9026,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 185767,
       "name": "Salsa",
       "url": "https://open.spotify.com/track/3JuNSKZ1oajEnzmU8w1Ch5"
@@ -9684,7 +9798,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 138666,
       "name": "Tirando Flow Sesh #24",
       "url": "https://open.spotify.com/track/35bNtu6A9Sp2NejVjcLRXV"
@@ -10386,7 +10500,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 201441,
       "name": "X-Man",
       "url": "https://open.spotify.com/track/2lZVKcxAMWAmd2KYkwIrDX"
@@ -10452,6 +10566,28 @@
       "duration_ms": 235000,
       "name": "YANOSE+",
       "url": "https://open.spotify.com/track/6aRH1wULqL60eu4tnD7Hjx"
+    },
+    {
+      "album": {
+        "name": "YAT",
+        "url": "https://open.spotify.com/album/6ozThZPWkynmZj5I4jJU9N"
+      },
+      "artists": [
+        {
+          "name": "NAITR\u00d8",
+          "url": "https://open.spotify.com/artist/7rGNk9dPOrzcEuiaE4HlPy"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131555,
+      "name": "YAT",
+      "url": "https://open.spotify.com/track/4SOkNP1oGZaXt16R60nCF1"
     },
     {
       "album": {

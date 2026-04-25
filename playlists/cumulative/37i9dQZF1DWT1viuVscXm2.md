@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-445 songs - 1 day 1 hr 9 min
+446 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Algún Día Volverás](https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volverás](https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i) | 4:13 | 2022-07-22 | 2022-10-29 |
 | [ALV](https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:44 | 2023-11-23 | 2024-04-27 |
 | [Amapola](https://open.spotify.com/track/10tTzYrFPBTH16mtHrZO2S) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Papaya Dada](https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89) | [Amapola](https://open.spotify.com/album/0F5GxN4I4TproEBK1NF7cH) | 3:01 | 2025-07-11 | 2025-08-28 |
-| [Amnesia](https://open.spotify.com/track/6qquUxCCrA6TeSgcCf2VZr) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Amnesia](https://open.spotify.com/album/2eBOyNtC1dh7Ur4cHHzNn3) | 2:51 | 2026-04-17 |  |
+| [Amnesia](https://open.spotify.com/track/6qquUxCCrA6TeSgcCf2VZr) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Amnesia](https://open.spotify.com/album/2eBOyNtC1dh7Ur4cHHzNn3) | 2:51 | 2026-04-17 | 2026-04-25 |
 | [Amor \(Ft\. Mon Laferte\) \- Mtv Unplugged](https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Amor \(Ft\. Mon Laferte\) \(Mtv Unplugged\)](https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw) | 5:12 | 2021-12-24 | 2025-08-23 |
 | [Amor de Chat \- En vivo](https://open.spotify.com/track/0rBpusCK0zUkuEBrTcTpox) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Amor de Chat \- En Vivo](https://open.spotify.com/album/0NtnjBuRZchY2kvAN7UvTA) | 4:37 | 2024-09-13 | 2024-10-12 |
 | [Amor De Historia](https://open.spotify.com/track/0kGBEJOC4g79SYaQ65WF2r) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Desafiándolo Todo](https://open.spotify.com/album/0QmzFxlI2t9WhPaOS9jRLK) | 3:04 | 2022-12-02 | 2023-01-18 |
@@ -337,6 +337,7 @@
 | [Sabrosón](https://open.spotify.com/track/3O2RDUmiywqchEFgJTd58X) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/6syUUZEnaRDxJ7oh2uRbNz) | 2:54 | 2021-12-24 | 2026-02-21 |
 | [Sabrosón](https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 2:54 | 2022-07-22 | 2024-04-19 |
 | [Saca La Casa Pal Mambo](https://open.spotify.com/track/3L9s7NzT1CYOqmPzFk129W) | [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9) | [Saca La Casa Pal Mambo](https://open.spotify.com/album/7rtg30guVaiiMZIrODJVrG) | 2:42 | 2022-09-09 | 2022-11-19 |
+| [Salí a Robarte Corazones](https://open.spotify.com/track/1bPLxk9QsQqczKkJZJ7Inj) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Salí a Robarte Corazones](https://open.spotify.com/album/7tGolNAewn8Gt1XM1wcYRX) | 2:28 | 2026-04-24 |  |
 | [Se hace difícil](https://open.spotify.com/track/28GLgS7PihoETCXc2eIRvv) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Se hace difícil](https://open.spotify.com/album/3mvSICdoiy9DU6tfE3B9l0) | 3:28 | 2025-11-21 |  |
 | [Se lo Juro Vieja](https://open.spotify.com/track/4ygglDwHeNrTMEy9vAbaq2) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Se lo Juro Vieja](https://open.spotify.com/album/4RRhVZL8QFOfJwvfuYZFRb) | 2:49 | 2021-12-24 | 2022-08-01 |
 | [Se Me Ha Perdido un Corazón](https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z) | 3:26 | 2023-03-10 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > The newest and best Hip\-Hop tracks, updated weekly! Cover: Yeat &amp; EsDeeKid
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,940 likes - 100 songs - 4 hr 56 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,939 likes - 101 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,6 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 | 98 | [cLOUDs](https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [cLOUDs](https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex) | 4:02 |
 | 99 | [Blanco](https://open.spotify.com/track/1mS6WBo2ZH9TXnjMEIOTcW) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Blanco](https://open.spotify.com/album/7gO4N7Lhppp9QHwjnUA6Mb) | 3:10 |
 | 100 | [Close The Door](https://open.spotify.com/track/7iUb5lNWRXFqtEiDTSr1ac) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Close The Door](https://open.spotify.com/album/5Ta38p3f2tyLLL4X0Jqe04) | 2:11 |
+| 101 | [PRODUCER CHEAT CODE](https://open.spotify.com/track/0c4ccjEBxEYV3AQ2MJXB5O) | [KTOE](https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L) | [PRODUCER CHEAT CODE](https://open.spotify.com/album/1c1f25SuqCSHBcYD2ihOT8) | 2:55 |
 
-Snapshot ID: `AAAkQXA9WdjYN8FwvJPKAPft9b+Jou9w`
+Snapshot ID: `AAAkQlti6iITagcDFQtbBJbJK77kxNC2`

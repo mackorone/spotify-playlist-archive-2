@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,121 songs - 3 day 0 hr 39 min
+1,122 songs - 3 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [Great No One](https://open.spotify.com/track/4c03SdScyZkFELVKv70fna) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Future Me Hates Me](https://open.spotify.com/album/3tEbzW0ERmSIPNVekmeYOl) | 3:22 | 2022-12-09 | 2024-04-09 |
 | [Grog](https://open.spotify.com/track/2MgrfiUgqkS4s6l5Cem0SY) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [GROG](https://open.spotify.com/album/1TEMvDFgL8AGNszROlwxOE) | 0:21 | 2025-02-14 | 2025-11-19 |
 | [Growing Story](https://open.spotify.com/track/7b3QdP0oPZyUaQrtRjsqDj) | [Pom Poko](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) | [Champion](https://open.spotify.com/album/38MIFMz92VM00t31cYSBjn) | 3:32 | 2024-08-16 |  |
+| [Guess](https://open.spotify.com/track/3u0CuoVA8qsqnRFrN6grPi) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Something Worth Waiting For](https://open.spotify.com/album/188WRkngMxrMTVmeWKp3yG) | 3:46 | 2026-04-24 |  |
 | [Habitat](https://open.spotify.com/track/7cv8pIeOu1pkwCXW9D4Oef) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [11:11](https://open.spotify.com/album/6sOmBkyGWJpzR04C7U7BZE) | 6:55 | 2024-03-31 |  |
 | [Haenim](https://open.spotify.com/track/6uBFcQ0TFjdnS5QUTff2Yb) | [Kim Jung Mi](https://open.spotify.com/artist/0yxIUq0WFyaTmYyleG4Uca) | [Now](https://open.spotify.com/album/2lzfXDmAAnFTwAHNc759Rz) | 6:53 | 2026-01-15 | 2026-01-20 |
 | [Hail Mary](https://open.spotify.com/track/377M5cHQ9COyB8i9t3Hval) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 2:49 | 2024-01-17 |  |

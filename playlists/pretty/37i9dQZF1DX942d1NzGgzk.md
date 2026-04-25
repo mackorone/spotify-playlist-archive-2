@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B rising in the UK\. Cover: Finn Askew
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,837 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,860 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 2 | [We Still Good??](https://open.spotify.com/track/42LIEv6ZRSrouYUhz5UT71) | [Leah Music](https://open.spotify.com/artist/3FrtVf61eHTo2BZNG1qTOK) | [We Still Good??](https://open.spotify.com/album/58Tex34A783zyGDC1amh2v) | 2:18 |
 | 3 | [Save My Time](https://open.spotify.com/track/21pwm56tB8PTqEPQbKVllE) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [BLUEBOY](https://open.spotify.com/album/2NVOpcr50Ltvk7eOnG9CGi) | 2:30 |
 | 4 | [SPLINTER](https://open.spotify.com/track/3jjIOrKthJeLRtjwTKROfj) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [Splinter](https://open.spotify.com/album/7n9d1Se8KSPWQUjED4hkOB) | 2:53 |
-| 5 | [Track 6](https://open.spotify.com/track/33ljpH5mxnf6LAU96WtWiC) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Kizzy](https://open.spotify.com/album/2kQDQctLqaMMOnX84ZIzcw) | 0:00 |
+| 5 | [Mind is a Dancer](https://open.spotify.com/track/33ljpH5mxnf6LAU96WtWiC) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Kizzy](https://open.spotify.com/album/2kQDQctLqaMMOnX84ZIzcw) | 4:28 |
 | 6 | [Conversation](https://open.spotify.com/track/20L7PliDhO2c0mvoeDXu04) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Conversation](https://open.spotify.com/album/2fcA8uAebc2l0T4xNt8qof) | 3:43 |
 | 7 | [Critical Condition](https://open.spotify.com/track/0R0jqZFMmcJfx7NBaY96Rh) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [State Of Emergency Vol 1.](https://open.spotify.com/album/4jtVxQTmYdjIHLrOog4gmG) | 2:32 |
 | 8 | [RERUN](https://open.spotify.com/track/6sU5Psf8N5Aq4517Sc9g24) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [RERUN](https://open.spotify.com/album/6gKn5nH8qm3hXkLtEkcK8M) | 2:23 |

@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle piano covers.
 
-458 songs - 1 day 0 hr 8 min
+459 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Lift Me Up \- Piano Version](https://open.spotify.com/track/3x8MGNhdm5VUVQD7ynpf8F) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Lift Me Up \(Piano Version\)](https://open.spotify.com/album/3ZbvHn0IRGGEJiH3CJoggk) | 2:28 | 2023-03-17 | 2024-04-19 |
 | [Little Talks](https://open.spotify.com/track/64jOt18VnBBYJ9YNTjU28c) | [Tinnie Ramone](https://open.spotify.com/artist/69VAc4NZE3mNUtPVw3GHCA) | [Little Talks](https://open.spotify.com/album/5Cz4oaW0RZpO8ubFfNsG2k) | 2:08 | 2022-09-30 | 2025-04-08 |
 | [Livin' On A Prayer](https://open.spotify.com/track/0UE3uOkiuc2FtehvtqMqEU) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Livin' On A Prayer](https://open.spotify.com/album/5B8pdZdF6CvENv0QmurD8n) | 3:24 | 2023-05-26 | 2024-08-31 |
+| [Locked Out of Heaven](https://open.spotify.com/track/06LbL7MSiUvMLvluTdfbsA) | [Ted Morley](https://open.spotify.com/artist/7jH3CdvGPD8DW5AyiRKSiF) | [Locked out of Heaven](https://open.spotify.com/album/3ATeimpwuJiuiQaqCmCaOQ) | 3:39 | 2026-04-24 |  |
 | [Love Is All Around](https://open.spotify.com/track/1wQ07OlblAtBNxWGNun2vw) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Love Is All Around](https://open.spotify.com/album/07yQmykXzjBt0hghIZVPyF) | 3:23 | 2023-06-08 | 2025-01-10 |
 | [Love Me Like You Do](https://open.spotify.com/track/1ocUQUnGLOGIW0n3ModD5K) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Love Me Like You Do](https://open.spotify.com/album/3R76jNp6Od0Ot20mw3k74J) | 3:13 | 2023-01-20 |  |
 | [Love Me Tender](https://open.spotify.com/track/7JrM4Nlm2km9lkER9qv6Uc) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [Love Me Tender](https://open.spotify.com/album/3cklbYiZGxPlhpAKMeLwir) | 3:12 | 2023-08-17 | 2025-02-15 |

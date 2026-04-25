@@ -2045,6 +2045,28 @@
     },
     {
       "album": {
+        "name": "C'est un m\u00e9tier",
+        "url": "https://open.spotify.com/album/3jsl9Qh0twUkffHRMY2CPl"
+      },
+      "artists": [
+        {
+          "name": "Hornet La Frappe",
+          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
+        },
+        {
+          "name": "Stavo",
+          "url": "https://open.spotify.com/artist/2j93xBBtZnS9YJGJUcWHwg"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167963,
+      "name": "C'est un m\u00e9tier",
+      "url": "https://open.spotify.com/track/5wQZ4fR8S6MEunMTGmPtoj"
+    },
+    {
+      "album": {
         "name": "Ngannou/C4",
         "url": "https://open.spotify.com/album/4vl5vzSync32YfNBjWf3Qa"
       },
@@ -2756,7 +2778,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 136744,
       "name": "Controlla",
       "url": "https://open.spotify.com/track/6Z7XLF9XCs2zPT1zT4RFpu"
@@ -3030,6 +3052,24 @@
       "duration_ms": 238474,
       "name": "Danger",
       "url": "https://open.spotify.com/track/1q5sxBrlmNh7GqkniehNLh"
+    },
+    {
+      "album": {
+        "name": "BAD DREAM",
+        "url": "https://open.spotify.com/album/0RgmV66Ks6XAVsQkNQBUrv"
+      },
+      "artists": [
+        {
+          "name": "Tali-B",
+          "url": "https://open.spotify.com/artist/7piCKjgsPdVVTMojN1oRIT"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142105,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/5aCJ39x65gfbjJV59X92H3"
     },
     {
       "album": {
@@ -3681,6 +3721,28 @@
     },
     {
       "album": {
+        "name": "EL DORADO",
+        "url": "https://open.spotify.com/album/14iPrBI6B68afnrfY9p1Zh"
+      },
+      "artists": [
+        {
+          "name": "Jamaz",
+          "url": "https://open.spotify.com/artist/2bWmHhwTBuPiOsnSz9sjBC"
+        },
+        {
+          "name": "astro_psykeman",
+          "url": "https://open.spotify.com/artist/4tYwjRz3iiyIrno26moZmP"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177666,
+      "name": "EL DORADO",
+      "url": "https://open.spotify.com/track/5GX8HBKHyXPZBwgTLG8qil"
+    },
+    {
+      "album": {
         "name": "Elastik",
         "url": "https://open.spotify.com/album/01YbP97HyC2O2QnBdpwH3d"
       },
@@ -4118,7 +4180,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 227035,
       "name": "Flash",
       "url": "https://open.spotify.com/track/3uARaNkhIsF8o85fRU9fHP"
@@ -5763,6 +5825,28 @@
     },
     {
       "album": {
+        "name": "Les monstres",
+        "url": "https://open.spotify.com/album/4w8l9RgrnoYB6EvRkZhmdo"
+      },
+      "artists": [
+        {
+          "name": "Sheldon",
+          "url": "https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK"
+        },
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358260,
+      "name": "L'\u00e9cole primaire",
+      "url": "https://open.spotify.com/track/2aK0QxIK6oBIeLfsOeCdnu"
+    },
+    {
+      "album": {
         "name": "La base",
         "url": "https://open.spotify.com/album/6OhitIsGz5RmDgZYPYCZUn"
       },
@@ -5844,6 +5928,28 @@
       "duration_ms": 109090,
       "name": "LA MELO EST DANS LA BOUNCE",
       "url": "https://open.spotify.com/track/6gwT3UA1hjbwT9Pfg0CMXK"
+    },
+    {
+      "album": {
+        "name": "Merci LeDji",
+        "url": "https://open.spotify.com/album/2dJ4p1m9gxTHYFhXqgKh3G"
+      },
+      "artists": [
+        {
+          "name": "Merci Manon & LeDji",
+          "url": "https://open.spotify.com/artist/5EypuNhqwPmbbebtA2OA7a"
+        },
+        {
+          "name": "Nawfal",
+          "url": "https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150466,
+      "name": "la mm merde",
+      "url": "https://open.spotify.com/track/2E65VzB28mJw8uH3SY5J1z"
     },
     {
       "album": {
@@ -5968,6 +6074,24 @@
       "duration_ms": 216973,
       "name": "Laisse-moi tranquille.",
       "url": "https://open.spotify.com/track/2cZ00x4yqQtDl4AQIHMb1y"
+    },
+    {
+      "album": {
+        "name": "LAST DANCE",
+        "url": "https://open.spotify.com/album/55Z2x8GSGa3xMiHxrIb341"
+      },
+      "artists": [
+        {
+          "name": "Mandyspie",
+          "url": "https://open.spotify.com/artist/1EKlBG4TgOac9aboMbphiM"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144255,
+      "name": "LAST DANCE",
+      "url": "https://open.spotify.com/track/7FoAioGJbGEFzaYeYsCFyP"
     },
     {
       "album": {
@@ -6324,6 +6448,24 @@
       "duration_ms": 181875,
       "name": "Loop Infini",
       "url": "https://open.spotify.com/track/6SkSlk4cgj2BGgr1wpzHm1"
+    },
+    {
+      "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/0JkfhvuPHVyIUAzUa6cxvh"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/0sKpD4IYSjigg2bwX9BkGm"
     },
     {
       "album": {
@@ -7878,10 +8020,28 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 203714,
       "name": "OUTRO MAMEK",
       "url": "https://open.spotify.com/track/7xRbgJim0Nmpoz2slHcGGM"
+    },
+    {
+      "album": {
+        "name": "panamera",
+        "url": "https://open.spotify.com/album/3DWJf4aIiVlRWGOPTeetT2"
+      },
+      "artists": [
+        {
+          "name": "S\u2019tano",
+          "url": "https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140377,
+      "name": "panamera",
+      "url": "https://open.spotify.com/track/5M9SPLH9iAGoqW6WBsFc61"
     },
     {
       "album": {
@@ -8592,7 +8752,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 183000,
       "name": "Pourquoi tout changer ?",
       "url": "https://open.spotify.com/track/4gzRDQLvtNgN628993Egg6"
@@ -8966,6 +9126,32 @@
       "duration_ms": 162536,
       "name": "R.A.T #2",
       "url": "https://open.spotify.com/track/5kyJTBGGdwxqnsQk1XTKpa"
+    },
+    {
+      "album": {
+        "name": "Sombre m\u00e9lodie",
+        "url": "https://open.spotify.com/album/2wyZlRShri5XdUTIVLVBqt"
+      },
+      "artists": [
+        {
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+        },
+        {
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "R.I.P",
+      "url": "https://open.spotify.com/track/71co9ItCkb7Fa9R5A16aVw"
     },
     {
       "album": {
@@ -10139,6 +10325,24 @@
     },
     {
       "album": {
+        "name": "SOUS LA SURFACE",
+        "url": "https://open.spotify.com/album/1dszrRYQryMWBmsvglZ7Sj"
+      },
+      "artists": [
+        {
+          "name": "Sofiane",
+          "url": "https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171726,
+      "name": "SOUS LA SURFACE",
+      "url": "https://open.spotify.com/track/6Gs83jkEbTcXZZXYrpCpk5"
+    },
+    {
+      "album": {
         "name": "SPA",
         "url": "https://open.spotify.com/album/7DthnLIimaB9bJH6ABmbvd"
       },
@@ -10396,6 +10600,28 @@
       "duration_ms": 221000,
       "name": "T.I.A - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej"
+    },
+    {
+      "album": {
+        "name": "Talbin",
+        "url": "https://open.spotify.com/album/5TeuZYlsiQts3IAl4GenQG"
+      },
+      "artists": [
+        {
+          "name": "Zed",
+          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182992,
+      "name": "Talbin",
+      "url": "https://open.spotify.com/track/6qotpxzDLFbYDDkj5nXicF"
     },
     {
       "album": {

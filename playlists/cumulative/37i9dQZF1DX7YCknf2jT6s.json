@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Lakecia Benjamin",
+  "description": "New jazz for open minds. Cover: Nduduzo Makhathini",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 307976,
       "name": "After The Rain",
       "url": "https://open.spotify.com/track/1Ow3IP8OcsCx7kmC7N5pgy"
@@ -1442,6 +1442,28 @@
       "duration_ms": 306714,
       "name": "All Black Everything",
       "url": "https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf"
+    },
+    {
+      "album": {
+        "name": "All Blues",
+        "url": "https://open.spotify.com/album/7JlykLqlAR6jrxFAUl2zuh"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        },
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496560,
+      "name": "All Blues",
+      "url": "https://open.spotify.com/track/7a1HnCoNpHjzWEeXX0hedX"
     },
     {
       "album": {
@@ -1954,6 +1976,36 @@
       "duration_ms": 152877,
       "name": "Amor Enfeiti\u00e7ado",
       "url": "https://open.spotify.com/track/0555BKWmKRzhg3b74078FB"
+    },
+    {
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/2ZN7lWWK7gX24GCYaP3O3J"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        },
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        },
+        {
+          "name": "Asante Santi Debriano",
+          "url": "https://open.spotify.com/artist/1AdgjVEMk6jR2OA3Mc5QT3"
+        },
+        {
+          "name": "Will Calhoun",
+          "url": "https://open.spotify.com/artist/03Fr2b89fbLWKq5skHknPV"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389682,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/5cq0SJYbVoV8uWsenQPbod"
     },
     {
       "album": {
@@ -2916,7 +2968,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 399973,
       "name": "Ask Me Now",
       "url": "https://open.spotify.com/track/460bPNCjbhmVxNHHacbWwD"
@@ -11170,7 +11222,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 288375,
       "name": "elsewhere",
       "url": "https://open.spotify.com/track/4S56Igb4jNtyRs2ckvKSpO"
@@ -12769,6 +12821,24 @@
     },
     {
       "album": {
+        "name": "Triumvirate",
+        "url": "https://open.spotify.com/album/1FZMud1NTq7sGWXg74ppxG"
+      },
+      "artists": [
+        {
+          "name": "Billy Childs",
+          "url": "https://open.spotify.com/artist/2DalOaFXdbHCB4cyMJhQtR"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412746,
+      "name": "Flamenco Sketches",
+      "url": "https://open.spotify.com/track/41h01PjIJlf7KlZcxsHcN0"
+    },
+    {
+      "album": {
         "name": "Flesk",
         "url": "https://open.spotify.com/album/6vd7krSwgpkhL3tfMuuSPe"
       },
@@ -13216,6 +13286,24 @@
       "duration_ms": 350000,
       "name": "for the kids...",
       "url": "https://open.spotify.com/track/2P3PxlSbLXQOQnrkxUySvo"
+    },
+    {
+      "album": {
+        "name": "Ford the River",
+        "url": "https://open.spotify.com/album/1G191xGWbJe1LeMoB70pum"
+      },
+      "artists": [
+        {
+          "name": "Fergus McCreadie",
+          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310405,
+      "name": "Ford the River",
+      "url": "https://open.spotify.com/track/2iB26PtZ2mwj2UNpoIHEey"
     },
     {
       "album": {
@@ -17365,6 +17453,24 @@
     },
     {
       "album": {
+        "name": "Imvunge KaNtu",
+        "url": "https://open.spotify.com/album/3yhFchLGdoIIXOjsSP0aIN"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181397,
+      "name": "Imvunge KaNtu",
+      "url": "https://open.spotify.com/track/3zrDL5ZWEChs6NBoBfe0KG"
+    },
+    {
+      "album": {
         "name": "In Black",
         "url": "https://open.spotify.com/album/2LOqB7Cvlulwy6M1uAJZrq"
       },
@@ -17388,7 +17494,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 211541,
       "name": "In Black",
       "url": "https://open.spotify.com/track/1SC5TgnTmwJHNsdgSnquYw"
@@ -19666,7 +19772,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 282528,
       "name": "Kuzodlula",
       "url": "https://open.spotify.com/track/5IQxjTOCA6tCotxbK6793O"
@@ -19812,7 +19918,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 479434,
       "name": "Lady Day",
       "url": "https://open.spotify.com/track/3wN9L2rab86vxt91eW5cgB"
@@ -20312,6 +20418,28 @@
       "duration_ms": 349733,
       "name": "Leaving Paradise",
       "url": "https://open.spotify.com/track/4P12CbrGVGDVez4VMPKFrc"
+    },
+    {
+      "album": {
+        "name": "Lee\u2019s Greenhouse (feat. Mei Semones)",
+        "url": "https://open.spotify.com/album/5ggOmCNERfyCYg4k6iGoRi"
+      },
+      "artists": [
+        {
+          "name": "Dana and Alden",
+          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+        },
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235999,
+      "name": "Lee\u2019s Greenhouse (feat. Mei Semones)",
+      "url": "https://open.spotify.com/track/21tmsyOELNT4ZAjR4vAr3K"
     },
     {
       "album": {
@@ -22828,6 +22956,32 @@
       "duration_ms": 373533,
       "name": "Mellow Kisses",
       "url": "https://open.spotify.com/track/2aCGvsI9wPrmFGUGt3VEXW"
+    },
+    {
+      "album": {
+        "name": "melting clocks",
+        "url": "https://open.spotify.com/album/781CVz4TAFHTXLt2042RzO"
+      },
+      "artists": [
+        {
+          "name": "aja monet",
+          "url": "https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383029,
+      "name": "melting clocks",
+      "url": "https://open.spotify.com/track/1zHqiGUcy1mlYymAs1daZj"
     },
     {
       "album": {
@@ -26376,7 +26530,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 264297,
       "name": "One Body, One Blood",
       "url": "https://open.spotify.com/track/41HV8PYAK48RhYq50CS77M"
@@ -32982,7 +33136,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 229592,
       "name": "Somnambulista",
       "url": "https://open.spotify.com/track/7wS7nAElI8Ju0MKrphRI9W"
@@ -33152,7 +33306,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 161763,
       "name": "sound(e)scape",
       "url": "https://open.spotify.com/track/1L7JoVsDMBVNLGUxeDczCV"
@@ -33482,6 +33636,28 @@
       "duration_ms": 318701,
       "name": "Spook",
       "url": "https://open.spotify.com/track/3L4BHvqWzhqaVsvfvN8ncp"
+    },
+    {
+      "album": {
+        "name": "Spook",
+        "url": "https://open.spotify.com/album/51O0cUmiOsgEuhopxBuMqb"
+      },
+      "artists": [
+        {
+          "name": "Rachel Kitchlew",
+          "url": "https://open.spotify.com/artist/5EkOHfxgVoxfKQu1b89W7C"
+        },
+        {
+          "name": "DOUGH",
+          "url": "https://open.spotify.com/artist/29l60CMZ72WWdWz75rQXby"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250633,
+      "name": "Spook",
+      "url": "https://open.spotify.com/track/4XPC8S3jNd7m54H9tAgBwq"
     },
     {
       "album": {
@@ -38938,6 +39114,36 @@
       "duration_ms": 222937,
       "name": "Torino",
       "url": "https://open.spotify.com/track/6cEtprCmXLwljz6Kl3J9Tc"
+    },
+    {
+      "album": {
+        "name": "Touch The Sky",
+        "url": "https://open.spotify.com/album/2cK2WYjk51oAOWsKsmLuKe"
+      },
+      "artists": [
+        {
+          "name": "Tom Hemby",
+          "url": "https://open.spotify.com/artist/18DYBJxCpac3YG86xhVPqM"
+        },
+        {
+          "name": "Pat Coil",
+          "url": "https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503"
+        },
+        {
+          "name": "Vinnie Colaiuta",
+          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
+        },
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292360,
+      "name": "Touch The Sky",
+      "url": "https://open.spotify.com/track/29AFgr0uT5aIHGO1RzuAoF"
     },
     {
       "album": {

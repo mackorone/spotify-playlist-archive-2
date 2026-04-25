@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 940 likes - 102 songs - 6 hr 24 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 943 likes - 104 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,5 +110,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 100 | [Jodido Petrarca](https://open.spotify.com/track/0U5h1yccrkqogGH6fMlkHK) | [Tacrolimus](https://open.spotify.com/artist/7mTm2TIV3hTqKshbp7PDwT) | [Se Acabaron Las Versiones](https://open.spotify.com/album/0CRkFJi4GKM0Lv8ehJYb25) | 2:40 |
 | 101 | [Fantasia](https://open.spotify.com/track/3HQyqgoK7z6VY9bE8GlAli) | [Astratto](https://open.spotify.com/artist/1kQT4JN2XDrVdT4vubHCjw) | [Fantasia](https://open.spotify.com/album/4Qp6S6ln5GwDmTih32uJVf) | 6:10 |
 | 102 | [Siempre Estaré](https://open.spotify.com/track/7e8MvyqagvlJOJaQDNdh5m) | [Viejo Furgon](https://open.spotify.com/artist/4WyH8DQAXLGiVTtqniULWG) | [Reloj Espiritual](https://open.spotify.com/album/3LYQCmohEV9m7cVWhpWuam) | 3:17 |
+| 103 | [Blue Route](https://open.spotify.com/track/0e9J7JmZjs45Dp8ByDq0uV) | [Liquid Monk](https://open.spotify.com/artist/680C1w0kjIC2LAf5xShvhJ) | [Blue Route](https://open.spotify.com/album/0ih8D9zBH0AI2tBC6Vl45v) | 3:01 |
+| 104 | [Lifeline](https://open.spotify.com/track/7EzGUbGfNwbOdtTzX4MgO5) | [Hope Darling](https://open.spotify.com/artist/1SyIewURAwfxwMLlHhUgvE) | [Ensō](https://open.spotify.com/album/4OOsu5uRBfA00ZJTSyK6Zx) | 3:32 |
 
-Snapshot ID: `AAAF1spe+VVWVX9zWhdCb+H6VXMurF6U`
+Snapshot ID: `AAAF2O1j5wX9THw7884oLlhPpesbdlGG`

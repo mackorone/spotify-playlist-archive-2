@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-416 songs - 1 day 0 hr 33 min
+417 songs - 1 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A Prayer Of My Own](https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [A Prayer Of My Own](https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO) | 4:33 | 2022-04-08 | 2023-02-25 |
 | [A Rock](https://open.spotify.com/track/7bTfKo4Uz6ZDdDAu8s5hUm) | [S\. T\. Manville](https://open.spotify.com/artist/4tKt9PfIUo7Src0Nmz1sSr) | [A Rock](https://open.spotify.com/album/6Jrv2HApm3RAjDjlMnOqD9) | 3:18 | 2022-04-08 | 2024-07-12 |
 | [Absence](https://open.spotify.com/track/1oXNjzF8RrQdo8hxqdKMhK) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Absence](https://open.spotify.com/album/2oFNbvHPWWaEIAzYJliGfW) | 2:56 | 2022-04-08 | 2024-02-12 |
+| [Adam](https://open.spotify.com/track/2uGBnu8TR4Lx8oxRCgYPd7) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Please Like Me](https://open.spotify.com/album/0uB17I8AT9aGuQwO8X0aaC) | 3:29 | 2026-04-24 |  |
 | [After Hours](https://open.spotify.com/track/3cPWXpjXPPW8LIs27Bxv5c) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [After Hours](https://open.spotify.com/album/6OyLz1K6f82RCgcbsQ6jwv) | 3:12 | 2024-07-19 | 2024-10-30 |
 | [Against The Dying Of The Light](https://open.spotify.com/track/3v5WkwwPl4omj9kiXnaEJt) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/0RkkdRmM3fwNipEAuweRhK) | 2:28 | 2026-01-16 |  |
 | [Alabaster](https://open.spotify.com/track/7LqMpswiEeZAnqNTkcLiGY) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Alabaster](https://open.spotify.com/album/3Dplc4wrcPMcKtGMMDfEAs) | 4:15 | 2025-09-11 | 2025-09-19 |
@@ -165,7 +166,7 @@
 | [Hope It Hurts You](https://open.spotify.com/track/7AA8ioyHWFGVuW1hcb900E) | [Daisy Clark](https://open.spotify.com/artist/31tKAz77HVjv8W0uqzDNwu) | [Hope It Hurts You](https://open.spotify.com/album/1dcCeMxT5OzEHTaor778jp) | 3:47 | 2022-04-08 | 2022-07-29 |
 | [Hope It Hurts You](https://open.spotify.com/track/7CRAIZRjJHkSIIe1v2Fy2V) | [Daisy Clark](https://open.spotify.com/artist/31tKAz77HVjv8W0uqzDNwu) | [Hope It Hurts You](https://open.spotify.com/album/7jBtZEqyK3u48lhYTme83n) | 3:47 | 2022-07-01 | 2022-10-14 |
 | [How Long?](https://open.spotify.com/track/2qbfPXoNy8SKPtf8rgciXB) | [Will Killen](https://open.spotify.com/artist/53mpvc3wWbaO6a7LKWQ73N) | [How Long?](https://open.spotify.com/album/6DwbMXqXZDNdmtIhvfldHK) | 3:55 | 2022-07-01 | 2023-01-14 |
-| [I Believe in Love](https://open.spotify.com/track/4RVKqjVeFSOwnbtzpQmKtG) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [I Believe in Love](https://open.spotify.com/album/1D6KhOjU34SOdaV7Tndmdn) | 3:00 | 2026-03-04 |  |
+| [I Believe in Love](https://open.spotify.com/track/4RVKqjVeFSOwnbtzpQmKtG) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [I Believe in Love](https://open.spotify.com/album/1D6KhOjU34SOdaV7Tndmdn) | 3:00 | 2026-03-04 | 2026-04-25 |
 | [I Can and I Will](https://open.spotify.com/track/3veBdtlaLO4NH8ZkGyriU4) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 6:29 | 2023-11-17 |  |
 | [I Can See New Zealand From Here](https://open.spotify.com/track/27V4KpRC7Y5oYWdXssEUMU) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/5EpS9xRiHoo93AsV1Y6ShI) | 2:03 | 2022-04-08 | 2022-12-05 |
 | [I Can See New Zealand From Here](https://open.spotify.com/track/3Sj8sORRaM4exIA4oJzdhh) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/2KB5Knafh3nJvxA1aQZ8vp) | 2:03 | 2022-11-18 | 2024-04-19 |

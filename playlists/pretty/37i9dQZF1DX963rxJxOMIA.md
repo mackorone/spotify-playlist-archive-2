@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 
 > Fino y elegante, como Blessd y Crudo Means Raw.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,063 likes - 66 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,080 likes - 66 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [GRACIAS A MI DIOS](https://open.spotify.com/track/25dYNzELJtA1ZIqOaCsORe) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [EL MEJOR HOMBRE DEL MUNDO](https://open.spotify.com/album/6fdaLD9AcFrRO32HjRHyq8) | 3:26 |
 | 2 | [Pico Y Chao \(W Sound 08\)](https://open.spotify.com/track/73PS9sOst7Jwxn95n0AlBS) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Pico Y Chao \(W Sound 08\)](https://open.spotify.com/album/1Iq7XMp1PGJEczCOcnDKHJ) | 3:22 |
 | 3 | [Guele](https://open.spotify.com/track/4fbtdVb5F7BgN1n4avUMqx) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh) | [Guele](https://open.spotify.com/album/3hkWFsGhzkj7qOtVRxcdL6) | 2:41 |
-| 4 | [BIZCOCHO](https://open.spotify.com/track/38JH6euiEfvwWDOfhNWWyE) | [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [SVNTI](https://open.spotify.com/artist/16dsBR4zAkt54kTENN56bN) | [BIZCOCHO](https://open.spotify.com/album/3yuAp0DZ7V49gWQJLtALoL) | 2:02 |
+| 4 | [COBRONA REMIX](https://open.spotify.com/track/7dFRzhfVgfVUAGUAMslmdi) | [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx), [SVNTI](https://open.spotify.com/artist/16dsBR4zAkt54kTENN56bN) | [COBRONA REMIX](https://open.spotify.com/album/0K81v43EITD6fa2bWqC1is) | 3:31 |
 | 5 | [TOPSHELF](https://open.spotify.com/track/3fhrXxnWnFiKShE8RNUWwU) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [EL TRAP DE KOLOMBIA](https://open.spotify.com/album/5aBhlr7SPeB7kaWnSmT1Qd) | 2:52 |
 | 6 | [LUXURY](https://open.spotify.com/track/0Ss0QjKvNnuPDR5popsXcP) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [LUXURY](https://open.spotify.com/album/71eu7HW0xiX1CsPOjfTkfk) | 2:46 |
 | 7 | [RIKA](https://open.spotify.com/track/7iyPqbBpTxb1Ayfyat4M7g) | [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [RIKA](https://open.spotify.com/album/37LJmIQY2xok3hazLz3qP7) | 3:00 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 | 65 | [Los Cachos](https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Los Cachos](https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh) | 3:32 |
 | 66 | [Mi Reina](https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Mi Reina](https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9) | 3:03 |
 
-Snapshot ID: `AAAAAH38Ee8IWQ7/pimJb7i7hqPGHxgF`
+Snapshot ID: `AAAAALHvRealU8gsxR/7DrCEXijV8E0X`

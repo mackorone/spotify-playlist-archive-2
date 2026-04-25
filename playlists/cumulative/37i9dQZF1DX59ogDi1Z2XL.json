@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Drake",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Drake \ud83e\uddca",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -12535,6 +12535,28 @@
     },
     {
       "album": {
+        "name": "Forager",
+        "url": "https://open.spotify.com/album/2G08OByhcHHm1JUPFharAH"
+      },
+      "artists": [
+        {
+          "name": "Cadence Weapon",
+          "url": "https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS"
+        },
+        {
+          "name": "Junia-T",
+          "url": "https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188106,
+      "name": "Fall 2012 Couture",
+      "url": "https://open.spotify.com/track/5vwX3GQiBGeGbaTlncsLZj"
+    },
+    {
+      "album": {
         "name": "Fall Back feat. NAV",
         "url": "https://open.spotify.com/album/5p1MgdarytYpfTDfC1NxMy"
       },
@@ -15174,7 +15196,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 156783,
       "name": "Gilla House Music",
       "url": "https://open.spotify.com/track/78xbjoN5FulwEKl6p9SEv7"
@@ -24699,6 +24721,28 @@
     },
     {
       "album": {
+        "name": "Musical Chair",
+        "url": "https://open.spotify.com/album/2qBfFgzPsWBfge4uCXLewA"
+      },
+      "artists": [
+        {
+          "name": "Maky Lavender",
+          "url": "https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6"
+        },
+        {
+          "name": "Hardbody Jones",
+          "url": "https://open.spotify.com/artist/2eSkpY6chWswQyjOuQ9pFl"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138823,
+      "name": "Musical Chair",
+      "url": "https://open.spotify.com/track/3BKm9QBDjVdEoVnZQbvdhu"
+    },
+    {
+      "album": {
         "name": "Must Be",
         "url": "https://open.spotify.com/album/62YfeP2rYk9xIP3NsQsoat"
       },
@@ -30477,6 +30521,24 @@
     },
     {
       "album": {
+        "name": "PROBLEM",
+        "url": "https://open.spotify.com/album/3kOyI6yKrAQrGsCkbOoK03"
+      },
+      "artists": [
+        {
+          "name": "RUNXGUN",
+          "url": "https://open.spotify.com/artist/4o5J4GkzULwVnupOfcmRPI"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156631,
+      "name": "PROBLEM",
+      "url": "https://open.spotify.com/track/4FZ9GxtzrpoKJGwX9DB3ro"
+    },
+    {
+      "album": {
         "name": "PROBLEM CHILD",
         "url": "https://open.spotify.com/album/5K3UgW1ru3z3WW23nosGA2"
       },
@@ -30532,6 +30594,24 @@
       "duration_ms": 158895,
       "name": "Problems Over Peace",
       "url": "https://open.spotify.com/track/7ups0PLQ1oiRnkneh3SQSD"
+    },
+    {
+      "album": {
+        "name": "PRODUCER CHEAT CODE",
+        "url": "https://open.spotify.com/album/1c1f25SuqCSHBcYD2ihOT8"
+      },
+      "artists": [
+        {
+          "name": "KTOE",
+          "url": "https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175193,
+      "name": "PRODUCER CHEAT CODE",
+      "url": "https://open.spotify.com/track/0c4ccjEBxEYV3AQ2MJXB5O"
     },
     {
       "album": {
@@ -35648,7 +35728,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 88533,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/76TOw82CZVgP5qCKBE654h"
@@ -39424,7 +39504,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 208979,
       "name": "Toronto Zoo",
       "url": "https://open.spotify.com/track/4Cs4YuXGNGxPvQTJbe3IEY"

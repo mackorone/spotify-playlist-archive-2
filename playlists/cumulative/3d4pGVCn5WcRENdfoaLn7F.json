@@ -1569,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "False Prophet",
+        "url": "https://open.spotify.com/album/29bErY1NGaYrHjmNIMvX7x"
+      },
+      "artists": [
+        {
+          "name": "Holy Island",
+          "url": "https://open.spotify.com/artist/4mDskLBS4JOyI52mzQ9H5m"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "False Prophet",
+      "url": "https://open.spotify.com/track/3wE5xlV9u7L91aa7KfknwG"
+    },
+    {
+      "album": {
         "name": "Fetishize Me",
         "url": "https://open.spotify.com/album/79kv9dZL1zwHvcebBXMTnw"
       },

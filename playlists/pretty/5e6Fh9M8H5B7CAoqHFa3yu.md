@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 310 likes - 2,223 songs - 5 day 11 hr 32 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 310 likes - 2,225 songs - 5 day 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2231,5 +2231,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2221 | [Todo Quedó En Silencio](https://open.spotify.com/track/4G1fHgE7RWTbLEHfudgFII) | [Luz Entre Ruinas](https://open.spotify.com/artist/6ihnEVCMt4Z0Of7gMA2K2f) | [Todo Quedó En Silencio](https://open.spotify.com/album/6THtI92FpueHEE21mYFr5H) | 3:33 |
 | 2222 | [Magic & Dust](https://open.spotify.com/track/3luZ5u1upzKsl3lSy9TRAw) | [ASH QUEENS](https://open.spotify.com/artist/5gxrqah9KzW1xHCbfK9wCz) | [Magic & Dust](https://open.spotify.com/album/7BXOpUZWgISAgbzV9liadB) | 4:28 |
 | 2223 | [The 9\-to\-5 Nirvana](https://open.spotify.com/track/07y7u9DNnZnqBJiCz34d6r) | [m78 Studio](https://open.spotify.com/artist/1j1lkQcJeOW7GgaxBQsbCT) | [The Great Void's Echo](https://open.spotify.com/album/4iBlc0gBxnwL8xNHNTZXf5) | 2:39 |
+| 2224 | [Bloodfire \- Trombone Version](https://open.spotify.com/track/1XkIQmgk1v7r0XICkPemse) | [The Dubbstyle](https://open.spotify.com/artist/2EhzGQxSHKOjcrOSieAF0g), [Enzo Furiasse](https://open.spotify.com/artist/2pjdp0OWLARTr3lAKQEBjh) | [Simona](https://open.spotify.com/album/0C2rcexcjETIxlulOZ5jNV) | 5:21 |
+| 2225 | [I'll Love You More](https://open.spotify.com/track/7oGoQa2KyTA9Nyi4Qti2SB) | [Paul Marturano](https://open.spotify.com/artist/4ErK966kYcXS7y7s4e3MLA) | [Paul Marturano Volume 2 Two Album Set More! / Delco Girl](https://open.spotify.com/album/3l1MTuLII5RaArXBi4DJI5) | 3:37 |
 
-Snapshot ID: `AAAJV4RCkXMkeiwaK+7bFzt1IyAszjwJ`
+Snapshot ID: `AAAJWYoEZsc9uVoDxSSYDFXL6OL3oQ3G`

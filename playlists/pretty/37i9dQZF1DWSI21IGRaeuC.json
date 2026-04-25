@@ -1,13 +1,29 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Franky Rizardo",
-  "num_followers": 78939,
+  "num_followers": 79119,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKxMhtk0IQlno0M1hwUTpU7zc0Dt",
+  "snapshot_id": "AAAAAJ4qp8sy2eXxBY35OjlmwW4GAndt",
   "tracks": [
+    {
+      "added_at": "2026-04-24 04:01:42",
+      "album": {
+        "name": "The Connection",
+        "url": "https://open.spotify.com/album/02N1bq4nfLRE1cfIBLOfnn"
+      },
+      "artists": [
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "The Connection",
+      "url": "https://open.spotify.com/track/3dlkgNR829PMYY7yM9fMlP"
+    },
     {
       "added_at": "2026-04-17 04:04:08",
       "album": {
@@ -45,20 +61,40 @@
       "url": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
     },
     {
-      "added_at": "2026-04-03 04:01:44",
+      "added_at": "2026-04-17 04:04:08",
       "album": {
-        "name": "Ain't With That (Late Night Callin')",
-        "url": "https://open.spotify.com/album/1ADJNvsMekByZTH7ZcP0uh"
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/5oxDT9af0xtzKUo6nSiyG5"
       },
       "artists": [
         {
-          "name": "Julian Fijma",
-          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
         }
       ],
-      "duration_ms": 207272,
-      "name": "Ain't With That (Late Night Callin')",
-      "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH"
+      "duration_ms": 262677,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/1hkC1aNdHsGsdM0O58JhEb"
+    },
+    {
+      "added_at": "2026-04-24 04:01:42",
+      "album": {
+        "name": "Zero Degrees EP",
+        "url": "https://open.spotify.com/album/5jat8eV8TZ8dIOzlLe00la"
+      },
+      "artists": [
+        {
+          "name": "Ozzie Guven",
+          "url": "https://open.spotify.com/artist/6VjxkdeZYfc1U2pC3JmwLy"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "duration_ms": 221818,
+      "name": "JUMP!",
+      "url": "https://open.spotify.com/track/0uscJhPkh7QDLz4u6iBbEk"
     },
     {
       "added_at": "2026-04-17 04:04:08",
@@ -79,6 +115,74 @@
       "duration_ms": 197819,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/3YnzLXBGOXq0I4pcfYnOcX"
+    },
+    {
+      "added_at": "2026-04-17 04:04:08",
+      "album": {
+        "name": "Fascination EP",
+        "url": "https://open.spotify.com/album/5zyEW0IN9u8kdg0DBacxZI"
+      },
+      "artists": [
+        {
+          "name": "Cam Stockman",
+          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
+        }
+      ],
+      "duration_ms": 196842,
+      "name": "Fascination",
+      "url": "https://open.spotify.com/track/4zrgYXxoxvDLhAUyWrlCVR"
+    },
+    {
+      "added_at": "2026-04-24 04:01:42",
+      "album": {
+        "name": "Eyes Closed EP",
+        "url": "https://open.spotify.com/album/4B2IiiaIswDxqagoScVW0F"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "duration_ms": 211022,
+      "name": "Gonna Let",
+      "url": "https://open.spotify.com/track/5jkcTZjDj6V8NXX19bpRwH"
+    },
+    {
+      "added_at": "2026-04-24 18:52:29",
+      "album": {
+        "name": "Re-Bokk Robot (Wodda Remix)",
+        "url": "https://open.spotify.com/album/0Ht0tRiDl58wa0PDaA5bYV"
+      },
+      "artists": [
+        {
+          "name": "POSH! The Prince",
+          "url": "https://open.spotify.com/artist/4rNGolATKxQcFM59djG041"
+        },
+        {
+          "name": "Wodda",
+          "url": "https://open.spotify.com/artist/5zHkCDcsGZjznWnqsgTMRg"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Re-Bokk Robot - Wodda Remix Radio Edit",
+      "url": "https://open.spotify.com/track/4wFdh0z4bYVCvNOORGDBuB"
+    },
+    {
+      "added_at": "2026-04-03 04:01:44",
+      "album": {
+        "name": "Ain't With That (Late Night Callin')",
+        "url": "https://open.spotify.com/album/1ADJNvsMekByZTH7ZcP0uh"
+      },
+      "artists": [
+        {
+          "name": "Julian Fijma",
+          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Ain't With That (Late Night Callin')",
+      "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH"
     },
     {
       "added_at": "2026-04-03 04:01:44",
@@ -133,22 +237,6 @@
       "url": "https://open.spotify.com/track/0rS9f6pdy49rLBVzyGyQYv"
     },
     {
-      "added_at": "2026-04-17 04:04:08",
-      "album": {
-        "name": "Fascination EP",
-        "url": "https://open.spotify.com/album/5zyEW0IN9u8kdg0DBacxZI"
-      },
-      "artists": [
-        {
-          "name": "Cam Stockman",
-          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
-        }
-      ],
-      "duration_ms": 196842,
-      "name": "Fascination",
-      "url": "https://open.spotify.com/track/4zrgYXxoxvDLhAUyWrlCVR"
-    },
-    {
       "added_at": "2026-04-10 04:02:13",
       "album": {
         "name": "Escape",
@@ -163,6 +251,22 @@
       "duration_ms": 161450,
       "name": "Escape",
       "url": "https://open.spotify.com/track/2TuGDQpH0bN6kSBx8YrXhe"
+    },
+    {
+      "added_at": "2026-04-24 04:01:42",
+      "album": {
+        "name": "Elevator",
+        "url": "https://open.spotify.com/album/46mVoYZJz2b6DoQtTRyb5K"
+      },
+      "artists": [
+        {
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
+        }
+      ],
+      "duration_ms": 128874,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/3zW2p2IIK885aOrjfDJEXv"
     },
     {
       "added_at": "2026-03-27 04:00:16",
@@ -217,20 +321,28 @@
       "url": "https://open.spotify.com/track/65zFScdofCOueq6XRLH1gt"
     },
     {
-      "added_at": "2026-04-17 04:04:08",
+      "added_at": "2026-04-24 04:01:42",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/5oxDT9af0xtzKUo6nSiyG5"
+        "name": "Shugi",
+        "url": "https://open.spotify.com/album/0Mw788qY3AKIzqidKNX0vy"
       },
       "artists": [
         {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+          "name": "antraum",
+          "url": "https://open.spotify.com/artist/0swXQmBdpOVEmrPc9QTfkr"
+        },
+        {
+          "name": "Traumer",
+          "url": "https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh"
+        },
+        {
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/6alymk3dYbCVzCwUdBHKII"
         }
       ],
-      "duration_ms": 262677,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/1hkC1aNdHsGsdM0O58JhEb"
+      "duration_ms": 256875,
+      "name": "Shugi",
+      "url": "https://open.spotify.com/track/6Q5oAJz2KgZbWxOtXHCe8Z"
     },
     {
       "added_at": "2026-04-10 17:34:49",
@@ -265,6 +377,26 @@
       "url": "https://open.spotify.com/track/17uV2PyLB4lRGIMnsI3WHy"
     },
     {
+      "added_at": "2026-04-24 04:01:42",
+      "album": {
+        "name": "Special Technique EP",
+        "url": "https://open.spotify.com/album/1H6eWqIUo0goay5n417pVv"
+      },
+      "artists": [
+        {
+          "name": "Anton Yaz",
+          "url": "https://open.spotify.com/artist/4vSioEbBzyfpBIH0uSerR4"
+        },
+        {
+          "name": "Miliard",
+          "url": "https://open.spotify.com/artist/4oYcrfhWdekwRPt6xxQ87p"
+        }
+      ],
+      "duration_ms": 345791,
+      "name": "Get Mellow",
+      "url": "https://open.spotify.com/track/4pND3hr7vGpCLeB7wcrIFi"
+    },
+    {
       "added_at": "2026-03-27 04:00:16",
       "album": {
         "name": "Million Things",
@@ -281,24 +413,20 @@
       "url": "https://open.spotify.com/track/5LfXCy5ZJXdztuu5ophHzm"
     },
     {
-      "added_at": "2026-04-17 04:04:08",
+      "added_at": "2026-04-24 04:01:42",
       "album": {
-        "name": "Hypa",
-        "url": "https://open.spotify.com/album/2qt5CEqE5IeJfVGgGIRMGd"
+        "name": "Fix It",
+        "url": "https://open.spotify.com/album/7qXPopiabkvOGzyUKHowgq"
       },
       "artists": [
         {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        },
-        {
-          "name": "Specialist Moss",
-          "url": "https://open.spotify.com/artist/0Sclq3c13du0AJMrihvEx2"
+          "name": "Nat Kara",
+          "url": "https://open.spotify.com/artist/45JSk7XvIJijTo2Kc8Nzfj"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Hypa",
-      "url": "https://open.spotify.com/track/7hQUvQN4IcDVhuBeaX7wwW"
+      "duration_ms": 180117,
+      "name": "Fix It",
+      "url": "https://open.spotify.com/track/2P2hfZzVcEv3bUjC2E3AZX"
     },
     {
       "added_at": "2026-04-03 04:01:44",
@@ -367,6 +495,22 @@
       "duration_ms": 156923,
       "name": "House Mentality - Radio Edit",
       "url": "https://open.spotify.com/track/1pPz86QiMJvGN6Gkt7uonE"
+    },
+    {
+      "added_at": "2026-04-24 04:01:42",
+      "album": {
+        "name": "break it down ep",
+        "url": "https://open.spotify.com/album/1Vs6reiLrRNg7OLtXqrQCZ"
+      },
+      "artists": [
+        {
+          "name": "Emery Bex",
+          "url": "https://open.spotify.com/artist/7DS0z5momEB8UbS6TxVhzZ"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "break it down",
+      "url": "https://open.spotify.com/track/6TJe6kfG805OEhGYV74gt3"
     },
     {
       "added_at": "2026-04-10 04:02:13",
@@ -451,6 +595,26 @@
       "duration_ms": 195183,
       "name": "Built For This",
       "url": "https://open.spotify.com/track/1PpHwZ75m6xGKdjXpaxUua"
+    },
+    {
+      "added_at": "2026-04-17 04:04:08",
+      "album": {
+        "name": "Hypa",
+        "url": "https://open.spotify.com/album/2qt5CEqE5IeJfVGgGIRMGd"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Specialist Moss",
+          "url": "https://open.spotify.com/artist/0Sclq3c13du0AJMrihvEx2"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Hypa",
+      "url": "https://open.spotify.com/track/7hQUvQN4IcDVhuBeaX7wwW"
     },
     {
       "added_at": "2026-04-10 04:02:13",
@@ -729,26 +893,6 @@
       "url": "https://open.spotify.com/track/36z5YmBEBG430FHkJqO0Cc"
     },
     {
-      "added_at": "2026-04-03 04:01:44",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/4SpDogUAHCS14bhQFqmrft"
-      },
-      "artists": [
-        {
-          "name": "Tom Bauer",
-          "url": "https://open.spotify.com/artist/0hbgRfX4DTlzsscsukt77g"
-        },
-        {
-          "name": "Jordan Moxey",
-          "url": "https://open.spotify.com/artist/3eyf6wCeHEptQJjG2pPlV2"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/4E31bS1PASvZNlDiga1zC2"
-    },
-    {
       "added_at": "2026-03-20 04:00:44",
       "album": {
         "name": "Teach You Desire",
@@ -871,46 +1015,6 @@
     {
       "added_at": "2026-04-03 04:01:44",
       "album": {
-        "name": "Can't Touch Us",
-        "url": "https://open.spotify.com/album/4h2tkbLMcY5lHj9xVv1kDA"
-      },
-      "artists": [
-        {
-          "name": "Kumi",
-          "url": "https://open.spotify.com/artist/4F0iWY7tCoKbFTErEuavxT"
-        },
-        {
-          "name": "Benjamin",
-          "url": "https://open.spotify.com/artist/1gXHnuUhhoG0Oia1mJafPE"
-        }
-      ],
-      "duration_ms": 200108,
-      "name": "Can't Touch Us",
-      "url": "https://open.spotify.com/track/0YBVX1ceuGQoK8KxFimWYV"
-    },
-    {
-      "added_at": "2026-03-06 05:00:09",
-      "album": {
-        "name": "Murder Mystery (Kolter Remix)",
-        "url": "https://open.spotify.com/album/0vI3Vg7eCw4o2KAlMcESVx"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
-        }
-      ],
-      "duration_ms": 218151,
-      "name": "Murder Mystery - Kolter Remix",
-      "url": "https://open.spotify.com/track/2VsZghkJD0CEmQJmZn5MWi"
-    },
-    {
-      "added_at": "2026-04-03 04:01:44",
-      "album": {
         "name": "Good Luck",
         "url": "https://open.spotify.com/album/34OYscuP4Kq2MsbIIBHoiu"
       },
@@ -975,22 +1079,6 @@
       "duration_ms": 241406,
       "name": "Fun Girls",
       "url": "https://open.spotify.com/track/4etnfIthrMVn4l0p4oI6UQ"
-    },
-    {
-      "added_at": "2026-03-04 00:37:47",
-      "album": {
-        "name": "Respect Yourself",
-        "url": "https://open.spotify.com/album/6v0RbMBfv58naH6Pmv51si"
-      },
-      "artists": [
-        {
-          "name": "Boss Priester",
-          "url": "https://open.spotify.com/artist/0aut7mlvs8CZUwZKn5e3ZE"
-        }
-      ],
-      "duration_ms": 292906,
-      "name": "Respect Yourself",
-      "url": "https://open.spotify.com/track/7CtSMmGJQYPhvPBcxyW50K"
     },
     {
       "added_at": "2026-03-20 04:00:44",
@@ -1127,26 +1215,6 @@
       "duration_ms": 137769,
       "name": "Say What?",
       "url": "https://open.spotify.com/track/2cyqfeXRo1mijttR0Jp6CL"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
-        "name": "No Hesitating (Max Dean Remix)",
-        "url": "https://open.spotify.com/album/1awnJYspbXb7Ge3hNDX0QK"
-      },
-      "artists": [
-        {
-          "name": "Joe Rol\u00e9t",
-          "url": "https://open.spotify.com/artist/3ASuunCWWOrj4XX3ZMeA6o"
-        },
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        }
-      ],
-      "duration_ms": 195243,
-      "name": "No Hesitating - Max Dean Remix",
-      "url": "https://open.spotify.com/track/4KlPVsyFKD3iUN3wzTu4eU"
     },
     {
       "added_at": "2026-02-20 05:00:42",
@@ -1361,22 +1429,6 @@
       "url": "https://open.spotify.com/track/4aSOzY0wdTGcrqk42t6ISB"
     },
     {
-      "added_at": "2026-03-06 05:00:09",
-      "album": {
-        "name": "Lets Take a Ride",
-        "url": "https://open.spotify.com/album/5tWu3WaodMohympwEv5t5v"
-      },
-      "artists": [
-        {
-          "name": "Rupert Ellis",
-          "url": "https://open.spotify.com/artist/1GJ64xNLJPXfxJDFAXAw1T"
-        }
-      ],
-      "duration_ms": 414045,
-      "name": "Let's Take a Ride (Fly)",
-      "url": "https://open.spotify.com/track/57IKHiW7dKdN9acYd6KgHW"
-    },
-    {
       "added_at": "2026-02-20 05:00:42",
       "album": {
         "name": "Out Of My Mind",
@@ -1411,22 +1463,6 @@
       "duration_ms": 165937,
       "name": "Don't Say",
       "url": "https://open.spotify.com/track/7B4QZy1BktlY4svxAZtow2"
-    },
-    {
-      "added_at": "2026-02-20 05:00:42",
-      "album": {
-        "name": "the pharmacist ep",
-        "url": "https://open.spotify.com/album/5mEpuyGgvwYXHmQAc2Mr63"
-      },
-      "artists": [
-        {
-          "name": "Semmi Amdouni",
-          "url": "https://open.spotify.com/artist/5vDcMK7z1mA0kTPi0UIBNS"
-        }
-      ],
-      "duration_ms": 176851,
-      "name": "3AM (don't stop)",
-      "url": "https://open.spotify.com/track/7E2vmc2fH7oeqqrzii1CJ0"
     },
     {
       "added_at": "2026-02-27 05:00:46",
@@ -1591,22 +1627,6 @@
     {
       "added_at": "2026-01-16 05:00:33",
       "album": {
-        "name": "House FC",
-        "url": "https://open.spotify.com/album/26hpMQzEN8ozoQEMythwP0"
-      },
-      "artists": [
-        {
-          "name": "TeeDee",
-          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
-        }
-      ],
-      "duration_ms": 259849,
-      "name": "Just Be Good To Me",
-      "url": "https://open.spotify.com/track/1j2rvXJXrFwzT8JXHTHFFJ"
-    },
-    {
-      "added_at": "2026-01-16 05:00:33",
-      "album": {
         "name": "The Fix",
         "url": "https://open.spotify.com/album/2BAJVd0LXR1Lv3niX2o6vC"
       },
@@ -1683,22 +1703,6 @@
       "duration_ms": 197862,
       "name": "Mind Game",
       "url": "https://open.spotify.com/track/5zxhUJKdwgXWDKqliUtgRi"
-    },
-    {
-      "added_at": "2026-01-09 05:00:36",
-      "album": {
-        "name": "Louder EP",
-        "url": "https://open.spotify.com/album/6aFjBLSGnG2dvUPmIZwb4B"
-      },
-      "artists": [
-        {
-          "name": "Vitess",
-          "url": "https://open.spotify.com/artist/5DIVjY3STr8n4tEoN0dmui"
-        }
-      ],
-      "duration_ms": 193605,
-      "name": "Louder",
-      "url": "https://open.spotify.com/track/6Gk16Y5baO26U4hmIfQ5F2"
     },
     {
       "added_at": "2026-01-23 05:00:22",

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 
 > Your escape to the world of chill Indian pop\. Cover \- Thoda Thoda Pyaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,425 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,488 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Thoda Thoda Pyaar](https://open.spotify.com/track/7q0XU83dlXOzoAor3sulOM) | [Nilesh Ahuja](https://open.spotify.com/artist/7BTWFChvstLB6ZCvuiUaZV), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq) | [Thoda Thoda Pyaar](https://open.spotify.com/album/4LUJN2b97jHQui8LoQWnxp) | 4:04 |
 | 2 | [Gulabi Aankhen](https://open.spotify.com/track/1ccZZf0IQi5y0bHMl2aGDF) | [Sanam](https://open.spotify.com/artist/7o7doCwqft91WC690aglWC) | [Universally SANAM](https://open.spotify.com/album/0xPcW40GWPqYki4y2Vi2pL) | 3:17 |
-| 3 | [Pehli Dafa](https://open.spotify.com/track/4Tkb7zsDmsawB7S5TpKQV1) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy), [Shakeel Sohail](https://open.spotify.com/artist/50tVmZsA8fsA1Bo5VUcOcA) | [Pehli Dafa](https://open.spotify.com/album/5pAPEuGi48iywzO2NT5Ddt) | 4:58 |
+| 3 | [Mann Mera \- Original Version](https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Mann Mera \(Original Version\)](https://open.spotify.com/album/3KR9QiP7RuCpAhXwFOE9vR) | 3:48 |
 | 4 | [Haseen](https://open.spotify.com/track/08GYLNhKthS3arMdXsveRI) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG), [Rippy Grewal](https://open.spotify.com/artist/1RaZAbVB4yopz69N1XlZvj) | [Haseen](https://open.spotify.com/album/3L6TDQekb2ZsaqAnw1nZRx) | 2:54 |
-| 5 | [Mann Mera \- Original Version](https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Mann Mera \(Original Version\)](https://open.spotify.com/album/3KR9QiP7RuCpAhXwFOE9vR) | 3:48 |
+| 5 | [Pehli Dafa](https://open.spotify.com/track/4Tkb7zsDmsawB7S5TpKQV1) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy), [Shakeel Sohail](https://open.spotify.com/artist/50tVmZsA8fsA1Bo5VUcOcA) | [Pehli Dafa](https://open.spotify.com/album/5pAPEuGi48iywzO2NT5Ddt) | 4:58 |
 | 6 | [I’m Done\. \- I\-Popstar: Vol\. 1](https://open.spotify.com/track/0YRpv07J0y7J73X87efpia) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ) | [I\-Popstar: Vol\. 1 \| Episodes 1–3](https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b) | 2:39 |
 | 7 | [Malang Sajna](https://open.spotify.com/track/73K33p4Vyz9koXGqmL5eFs) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25) | [Malang Sajna](https://open.spotify.com/album/7khRLZe8P6XcUoRgOa3nnf) | 2:39 |
 | 8 | [Tere Bina Na Guzara E](https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN) | [Josh Brar](https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a) | [Tere Bina Na Guzara E](https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 | 49 | [Milenge Hum Nahi](https://open.spotify.com/track/213ylixMhUkUEQaTJnT6fc) | [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs) | [Milenge Hum Nahi](https://open.spotify.com/album/46WiNmrfHH0Xu1uKG83s0K) | 3:29 |
 | 50 | [Kya Bataun Tujhe](https://open.spotify.com/track/7wg6IOI3dapIER6r1Sz5eS) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Pagalpan \- The Album](https://open.spotify.com/album/6ZFCFsn4GBD4ttDdTQZ5KO) | 4:30 |
 
-Snapshot ID: `AAAAAHY6zpMEzuuzXgHve386G9hGAjeI`
+Snapshot ID: `AAAAABGlP1MwdHRDtyQZcu/7hlA1WnwI`

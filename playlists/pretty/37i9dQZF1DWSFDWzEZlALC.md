@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: JBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,235 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,300 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Du fehlst](https://open.spotify.com/track/2uNModvonKjhBM7oaLLXTJ) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [ZWEITAUSENDFÜNF](https://open.spotify.com/album/6znzn67m4u9J61kVMvWXnD) | 2:48 |
 | 2 | [wunderschön](https://open.spotify.com/track/1zFQF4A7SOCcBFvcZZNKns) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [wunderschön](https://open.spotify.com/album/7FZb8KVTiFmxpUmTaduyJT) | 2:59 |
-| 3 | [Track 2](https://open.spotify.com/track/63ke3IbMyy7v69fRC6DUdk) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [PECH](https://open.spotify.com/album/50MPz6SA53Eh8LTArkGMiK) | 0:00 |
-| 4 | [Track 3](https://open.spotify.com/track/6a9VqGWgd7o3LK5JXqr92R) | [herr ulrich](https://open.spotify.com/artist/3EwGLc40naFP5DNfWFTqBA) | [Gut Genug](https://open.spotify.com/album/2dvFUJrOS2f4W8jFgmpogb) | 0:00 |
+| 3 | [Ohne Dach](https://open.spotify.com/track/63ke3IbMyy7v69fRC6DUdk) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [PECH](https://open.spotify.com/album/50MPz6SA53Eh8LTArkGMiK) | 2:19 |
+| 4 | [3 Tage Paris](https://open.spotify.com/track/6a9VqGWgd7o3LK5JXqr92R) | [herr ulrich](https://open.spotify.com/artist/3EwGLc40naFP5DNfWFTqBA) | [Gut Genug](https://open.spotify.com/album/2dvFUJrOS2f4W8jFgmpogb) | 2:46 |
 | 5 | [verdammte Vergangenheit](https://open.spotify.com/track/5CCtFOrfaFnYkqC4J0e3GW) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [verdammte Vergangenheit](https://open.spotify.com/album/1WYTAqFoNTJufkdlYaHNtN) | 2:25 |
 | 6 | [Shotgun \(mit Provinz\)](https://open.spotify.com/track/1qTMaaS5FdqiulCExFkvGy) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Shotgun \(mit Provinz\)](https://open.spotify.com/album/6dD3fdp0aPMAW0ecT7B8xL) | 2:50 |
 | 7 | [im traum rennen](https://open.spotify.com/track/43jeEMbUHUek4itwTBdLt0) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [im traum rennen](https://open.spotify.com/album/3FcWjRDcTF0h4DNbijZd0f) | 2:54 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 15 | [Atme ein: Raste aus](https://open.spotify.com/track/0iSnZR25PJZ4A2JXy1tuoN) | [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa) | [Atme ein: Raste aus](https://open.spotify.com/album/3v9SCAZuTrH32bG26gl1nA) | 2:54 |
 | 16 | [Nie wieder ist jetzt](https://open.spotify.com/track/0BbCFmkyoS2r2Au36oOb1g) | [herr ulrich](https://open.spotify.com/artist/3EwGLc40naFP5DNfWFTqBA) | [Nie wieder ist jetzt](https://open.spotify.com/album/1HEVGp1KCrFC0hyOfks6kc) | 3:14 |
 | 17 | [Die Jugend hat Angst](https://open.spotify.com/track/2oYn3QvypdJxcgvJrl3E5w) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Die Jugend hat Angst](https://open.spotify.com/album/2M7DJrDORAFpXFq6j9eu1h) | 2:33 |
-| 18 | [Track 4](https://open.spotify.com/track/50cKrXByzxnPS2mAymEicy) | [smello](https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H) | [demos & deeptalks](https://open.spotify.com/album/06TClLbW8XUaSuSkhDZRh3) | 0:00 |
+| 18 | [gar nichts//demo](https://open.spotify.com/track/50cKrXByzxnPS2mAymEicy) | [smello](https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H) | [demos & deeptalks](https://open.spotify.com/album/06TClLbW8XUaSuSkhDZRh3) | 2:11 |
 | 19 | [GEIL](https://open.spotify.com/track/1nXPLmT3IeLvvMP96aLfJT) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [GEIL](https://open.spotify.com/album/48uGv2kWy9qhW3XAK22YFX) | 2:13 |
 | 20 | [atem](https://open.spotify.com/track/7vrgcnlXFsLhn46VI4j8ao) | [lönneberger](https://open.spotify.com/artist/1XVqVLT2sgaiJFThXBGPHc) | [atem](https://open.spotify.com/album/0ZTMC9OUz2EtkogxCskz17) | 3:12 |
 | 21 | [Letztes Lied](https://open.spotify.com/track/32CTnLyfwOpDQWwB7IOYXj) | [Rex](https://open.spotify.com/artist/4oZpEOsCD2du75K8BadPSY), [Sira Faal](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs) | [Letztes Lied](https://open.spotify.com/album/498HXnLGLmrJZi0tSbY6R1) | 3:08 |

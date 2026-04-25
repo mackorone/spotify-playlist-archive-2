@@ -1,12 +1,12 @@
 {
   "description": "Meet the future of Pakistani music \u2665\ufe0f Cover: Murtaza Qizilbash",
-  "num_followers": 11933,
+  "num_followers": 11938,
   "original_name": "RADAR PAKISTAN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGI43/YdYUD2MzcAH07JsMz1mxAu",
+  "snapshot_id": "AAAAADIrpicgxscn/L5D3r++CQFH3uOj",
   "tracks": [
     {
       "added_at": "2026-04-16 06:48:15",
@@ -95,6 +95,26 @@
     {
       "added_at": "2026-04-16 06:48:15",
       "album": {
+        "name": "Khasara",
+        "url": "https://open.spotify.com/album/6YqbrXnmuh8lxNEFeHNOcA"
+      },
+      "artists": [
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        },
+        {
+          "name": "Murtaza Qizilbash",
+          "url": "https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk"
+        }
+      ],
+      "duration_ms": 248413,
+      "name": "Sila",
+      "url": "https://open.spotify.com/track/4UKjQODokAfEMaTgvTHbVX"
+    },
+    {
+      "added_at": "2026-04-16 06:48:15",
+      "album": {
         "name": "Tum",
         "url": "https://open.spotify.com/album/4INFMJi3SwIEWixQjlMNig"
       },
@@ -167,6 +187,26 @@
       "duration_ms": 158961,
       "name": "Chalo Door Kahin",
       "url": "https://open.spotify.com/track/5IvGrMBjvL25j42aIKDvZ9"
+    },
+    {
+      "added_at": "2026-04-24 03:00:35",
+      "album": {
+        "name": "Tum Na Ho",
+        "url": "https://open.spotify.com/album/2LJzRpHLbu88KdcFLdn2KE"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        },
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "duration_ms": 170705,
+      "name": "Tum Na Ho",
+      "url": "https://open.spotify.com/track/0Pm2OPYWunQUhF1a0EATed"
     },
     {
       "added_at": "2026-04-16 06:48:15",
@@ -339,26 +379,6 @@
       "duration_ms": 205714,
       "name": "Bewajah",
       "url": "https://open.spotify.com/track/3N3KsOsPrLxxWNQHTl0Kkz"
-    },
-    {
-      "added_at": "2026-04-16 06:48:15",
-      "album": {
-        "name": "Khasara",
-        "url": "https://open.spotify.com/album/6YqbrXnmuh8lxNEFeHNOcA"
-      },
-      "artists": [
-        {
-          "name": "Abdul Hannan",
-          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
-        },
-        {
-          "name": "Murtaza Qizilbash",
-          "url": "https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk"
-        }
-      ],
-      "duration_ms": 248413,
-      "name": "Sila",
-      "url": "https://open.spotify.com/track/4UKjQODokAfEMaTgvTHbVX"
     },
     {
       "added_at": "2026-04-16 06:48:15",

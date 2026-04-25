@@ -153,6 +153,28 @@
     },
     {
       "album": {
+        "name": "Now it's Experience Talking",
+        "url": "https://open.spotify.com/album/5r0GN5MfXy30y940mqBiU5"
+      },
+      "artists": [
+        {
+          "name": "Muthoni Drummer Queen",
+          "url": "https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB"
+        },
+        {
+          "name": "Blinky Bill",
+          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218561,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/4NKezh0u7JmJF4IVbIVYKc"
+    },
+    {
+      "album": {
         "name": "Mombasa's Lover Boy",
         "url": "https://open.spotify.com/album/3dCGhikw2kksr8OMi9HPft"
       },
@@ -563,7 +585,7 @@
         },
         {
           "name": "Normen Goltz",
-          "url": "https://open.spotify.com/artist/3AAL6Hp40AVMA7YLtTeMyT"
+          "url": "https://open.spotify.com/artist/77oDe9o8AZcFFZP5SexdDT"
         }
       ],
       "date_added": "2026-04-16",
@@ -2994,24 +3016,6 @@
       "duration_ms": 176326,
       "name": "Too Strong",
       "url": "https://open.spotify.com/track/6If2nmEyWpNEDeqtT1zKUj"
-    },
-    {
-      "album": {
-        "name": "Now it's Experience Talking",
-        "url": "https://open.spotify.com/album/5r0GN5MfXy30y940mqBiU5"
-      },
-      "artists": [
-        {
-          "name": "Muthoni Drummer Queen",
-          "url": "https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/4NKezh0u7JmJF4IVbIVYKc"
     },
     {
       "album": {

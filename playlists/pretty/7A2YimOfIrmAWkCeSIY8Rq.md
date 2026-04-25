@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7A2YimOfIrmAWkCeSIY8Rq.md) - [plain]
 
 > Breathe in, breathe out and let this relaxing playlist help you focus on the task at hand.
 
-[Peaceful Classics](https://open.spotify.com/user/peacefulclassics) - 31,557 likes - 89 songs - 5 hr 6 min
+[Peaceful Classics](https://open.spotify.com/user/peacefulclassics) - 31,558 likes - 89 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/7A2YimOfIrmAWkCeSIY8Rq.md) - [plain]
 | 29 | [September](https://open.spotify.com/track/4ZAR3wI6uq1ZEIcQPDNIzq) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ) | [September](https://open.spotify.com/album/2HZaUUcFEa9X87d0cZX3dc) | 2:09 |
 | 30 | [Before Dawn](https://open.spotify.com/track/5YZHOENY8KssNQObXoMPy3) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Before Dawn](https://open.spotify.com/album/2Xt4Nhtd0VA6J1bUanRVj6) | 4:11 |
 | 31 | [Room With A View](https://open.spotify.com/track/7ftyxy2znzl4k3Ojwe8QZm) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [Room With A View](https://open.spotify.com/album/7sVLlSfIXsqyH46CxBy8Go) | 3:56 |
-| 32 | [Seven Days Walking / Day 7: Ascent](https://open.spotify.com/track/0F3mlEgCIICCK4YimfuJgf) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Ascent \(Day 7\)](https://open.spotify.com/album/0RzGCKzNbcTeXuaSU3TfDw) | 5:24 |
+| 32 | [Ascent \- Day 7](https://open.spotify.com/track/0F3mlEgCIICCK4YimfuJgf) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Ascent \(Day 7\)](https://open.spotify.com/album/0RzGCKzNbcTeXuaSU3TfDw) | 5:24 |
 | 33 | [Brahms Lullaby](https://open.spotify.com/track/0a3ZaIltxeBhrYgBeBXgfP) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Brahms Lullaby](https://open.spotify.com/album/3hgwpRhu5YmpA9wrybdV2v) | 3:10 |
 | 34 | [The Lantern](https://open.spotify.com/track/5NKvtYduV8ZAgdHQMYUzoW) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [The Lantern](https://open.spotify.com/album/3aXCUrGOu03DVsgfZpEVja) | 4:27 |
 | 35 | [The Tearjerker Returns](https://open.spotify.com/track/2akcJMRlaauR6M2q64Tc9j) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w) | [Room 29](https://open.spotify.com/album/5pzhBrsD1IHl7q8UahDfHM) | 3:32 |

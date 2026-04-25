@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Nieuwe tijdloze muziek\. Cover: MICHA \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artist\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,022 likes - 90 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,006 likes - 90 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 2 | [Something Serious](https://open.spotify.com/track/0PV4VQCmE6Ujssr1bnswdF) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 2:46 |
 | 3 | [Welcome To Outcast Town](https://open.spotify.com/track/3BKM92m9Wr4i2VehhBgFkQ) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [OUTCAST TOWN](https://open.spotify.com/album/2vbUakBweYESNGM676tA5l) | 2:49 |
 | 4 | [24 Hours](https://open.spotify.com/track/3pFYcTc0okPqmVF4DDQfup) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [24 Hours](https://open.spotify.com/album/67lBzfEqQE39zkXHcH6ltY) | 3:26 |
-| 5 | [Mean Ole Man Of Mine](https://open.spotify.com/track/6JWZuNFOSLRwcGAW82GQEp) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [You Still Got Me \(Deluxe\)](https://open.spotify.com/album/17m8T1FS59klYDuvN737hT) | 7:00 |
-| 6 | [Losing My Religion](https://open.spotify.com/track/117HarF3xqK0JxpcenZyv5) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [Losing My Religion](https://open.spotify.com/album/2gzcBsgTDutFAgU4Z8bEej) | 2:39 |
-| 7 | [It Feels Right](https://open.spotify.com/track/6of3KnaLpo3j8ANnr0BLn7) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [It Feels Right](https://open.spotify.com/album/15cgWFKi6jU95bKbZmpqwy) | 3:38 |
+| 5 | [Losing My Religion](https://open.spotify.com/track/117HarF3xqK0JxpcenZyv5) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [Losing My Religion](https://open.spotify.com/album/2gzcBsgTDutFAgU4Z8bEej) | 2:39 |
+| 6 | [It Feels Right](https://open.spotify.com/track/6of3KnaLpo3j8ANnr0BLn7) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [It Feels Right](https://open.spotify.com/album/15cgWFKi6jU95bKbZmpqwy) | 3:38 |
+| 7 | [Mean Ole Man Of Mine](https://open.spotify.com/track/4vTUYv3H51ZOb2oR6ultpR) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Mean Ole Man Of Mine](https://open.spotify.com/album/5nyLhdBHPoSEKKqdeBRjHZ) | 7:00 |
 | 8 | [Mr\. Know It All](https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz) | 3:18 |
 | 9 | [Stay Love](https://open.spotify.com/track/3CyM2SZsivBrwxynIvN2K3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4ScfyWincbVs9Ingpb0zw6) | 3:26 |
 | 10 | [Be By You](https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Be By You](https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs) | 3:17 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 89 | [Sheets](https://open.spotify.com/track/1D0q5fhJVl1xhRXNrvOFkb) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Sheets](https://open.spotify.com/album/618meN4oNgOw0RVYpiVZof) | 2:23 |
 | 90 | [Nomad](https://open.spotify.com/track/0ZJPFFiDWl8AQSE9UiR5sg) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [Remedy](https://open.spotify.com/album/5UOuVdbm7voBfBbdq4ZZ6A) | 3:26 |
 
-Snapshot ID: `AAAAAO9j7xdotPlMgViKUTUbBDo3jL2J`
+Snapshot ID: `AAAAAL5lmf3xZ0sHUY6j97+Tqj4omW8d`

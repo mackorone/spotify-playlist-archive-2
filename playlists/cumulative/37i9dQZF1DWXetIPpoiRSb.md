@@ -4,7 +4,7 @@
 
 > Glitter, glitch and gloss 👢 cover: Namasenda
 
-2,240 songs - 4 day 16 hr 0 min
+2,241 songs - 4 day 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Caught Up](https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Caught Up](https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML) | 3:50 | 2024-06-04 | 2024-11-09 |
 | [Caught Up \(with Olivia O'Brien\)](https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Caught Up \(with Olivia O'Brien\)](https://open.spotify.com/album/39tWJL4zNgNhc8ndiUEaa6) | 2:53 | 2022-05-13 | 2022-07-30 |
 | [cbb to b sad](https://open.spotify.com/track/6X8lrdPxnChWtIOpLK9vQ1) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [cbb to b sad](https://open.spotify.com/album/3LM0hAxLc8XAo2LQecLjcg) | 4:28 | 2021-08-07 | 2021-11-06 |
+| [CELEBRATION](https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION](https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL) | 2:33 | 2026-04-23 |  |
 | [Central Station](https://open.spotify.com/track/4kFjX9QnXdM37PSpRuOoDS) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Central Station](https://open.spotify.com/album/2aaguzNBrq7vhdyrivrzLP) | 3:28 | 2021-08-07 | 2021-10-23 |
 | [Chameleon](https://open.spotify.com/track/0UoXbt3i1BiUmtFn8KbDFE) | [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [Chameleon](https://open.spotify.com/album/3ouEtmk7OjIapqVqmPLKeg) | 3:03 | 2024-04-19 | 2024-06-05 |
 | [Champagne Butterflies](https://open.spotify.com/track/62lF2bafMX9NkXjAoc0nuR) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Champagne Butterflies](https://open.spotify.com/album/7nJWSA8RiN6kr4wias3Had) | 3:13 | 2021-01-16 | 2021-04-03 |

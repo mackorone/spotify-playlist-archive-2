@@ -3559,6 +3559,24 @@
     },
     {
       "album": {
+        "name": "LA MIA NATURA",
+        "url": "https://open.spotify.com/album/3Fm8nnldpUkDMe84J0tf2A"
+      },
+      "artists": [
+        {
+          "name": "SENZA CRI",
+          "url": "https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221714,
+      "name": "LA MIA NATURA",
+      "url": "https://open.spotify.com/track/1X9EPxwDC2jmAG9W6E8JNe"
+    },
+    {
+      "album": {
         "name": "La terza estate dell'amore",
         "url": "https://open.spotify.com/album/7ePIYYUhWiw1bPKPj31DCa"
       },

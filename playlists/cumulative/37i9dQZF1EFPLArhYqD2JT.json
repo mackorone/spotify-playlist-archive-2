@@ -3778,10 +3778,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 61891,
       "name": "I've Got to Have Some Lovin' Now",
       "url": "https://open.spotify.com/track/6It5Isai1IzefGjbppm9U8"
+    },
+    {
+      "album": {
+        "name": "The Parlor and The Juke",
+        "url": "https://open.spotify.com/album/3tk13JU4N1PkOu3dZ2rsRg"
+      },
+      "artists": [
+        {
+          "name": "The 1924 Project",
+          "url": "https://open.spotify.com/artist/4kDNMquYzurmpC7HSNgenw"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92839,
+      "name": "I've Got To Have Some Lovin' Now",
+      "url": "https://open.spotify.com/track/1xIQrqfrL246vSS7IqIaSD"
     },
     {
       "album": {
@@ -4638,7 +4656,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 318186,
       "name": "Let's Face The Music And Dance",
       "url": "https://open.spotify.com/track/0h3dxP1Akmx0CKzoJTHbBa"

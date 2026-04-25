@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Agarren su pareja que es momento de mover ese botecito. En portada Emmanuel Cortes \ud83e\udd20",
+  "description": "Agarren su pareja que es momento de mover ese botecito. En portada Los Morales, De Parranda \ud83e\udd20",
   "name": "Cumbia Norte\u00f1a",
   "tracks": [
+    {
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/4bVgWPQapsIgTVUjsupTCS"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        },
+        {
+          "name": "Mariana Millan",
+          "url": "https://open.spotify.com/artist/3Ow6OTEKHqwNT0FwzgBlxf"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157240,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/76habhthICzyHAigjvZmxm"
+    },
     {
       "album": {
         "name": "24/7",
@@ -314,6 +336,28 @@
       "duration_ms": 224679,
       "name": "Ayer y Hoy",
       "url": "https://open.spotify.com/track/0yMpP1fa9iOQ4bAgttJ6aN"
+    },
+    {
+      "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/0eiePNpGjmjHtzofaiOzqp"
+      },
+      "artists": [
+        {
+          "name": "Los Morales",
+          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
+        },
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Baila Esta Cumbia",
+      "url": "https://open.spotify.com/track/0ErfnegLWcgfEu4TOmfql5"
     },
     {
       "album": {
@@ -1195,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "Ella Es As\u00ed",
+        "url": "https://open.spotify.com/album/2nvB3qeZNYJQ4PjFdkjPHa"
+      },
+      "artists": [
+        {
+          "name": "Israel Morales",
+          "url": "https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168800,
+      "name": "Ella Es As\u00ed",
+      "url": "https://open.spotify.com/track/3ywCoT4HLGPfS6jwWPeuIH"
+    },
+    {
+      "album": {
         "name": "En Mi Defensa",
         "url": "https://open.spotify.com/album/2oS87aZVLDkJOResbJgX9W"
       },
@@ -1286,6 +1348,24 @@
       "duration_ms": 169210,
       "name": "Fina y Prohibida",
       "url": "https://open.spotify.com/track/2KzdH5DV0zgU8uzNG35eF2"
+    },
+    {
+      "album": {
+        "name": "Gringo Star",
+        "url": "https://open.spotify.com/album/5y0Z4NlZX3DSYqWqrLKD1z"
+      },
+      "artists": [
+        {
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216424,
+      "name": "Gringo Star",
+      "url": "https://open.spotify.com/track/0WuNbiCRAtrjHyVn6kzNyi"
     },
     {
       "album": {
@@ -3010,6 +3090,24 @@
       "duration_ms": 199197,
       "name": "Ven Dev\u00f3rame Otra Vez",
       "url": "https://open.spotify.com/track/066iNypqZhINl4lpU2IB9N"
+    },
+    {
+      "album": {
+        "name": "V\u00e9te Ya",
+        "url": "https://open.spotify.com/album/14Qfju5dsnOXEAVGHa3USU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Rojas De Eronga",
+          "url": "https://open.spotify.com/artist/4gnFSv0GrGhjGHK9V4oUb2"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "V\u00e9te Ya",
+      "url": "https://open.spotify.com/track/7ogfZvnAn2GQ7VC2bqAyNr"
     },
     {
       "album": {

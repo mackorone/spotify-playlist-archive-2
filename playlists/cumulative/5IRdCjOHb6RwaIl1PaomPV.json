@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Parris Goebel, Eera, Thaiboy Digital, Thaiboy Digital, + more.",
+  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Major Lazer, Thaiboy Digital, Safety Trance,  Glayden + more.",
   "name": "Mad Decent Weekly",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 165618,
       "name": "#PURRR",
       "url": "https://open.spotify.com/track/7l2uFr3nx6AIMaumhzhD3v"
+    },
+    {
+      "album": {
+        "name": "+Teamgeist / Blue Angels",
+        "url": "https://open.spotify.com/album/7vUMizpVqUk8FuI6wBEFDQ"
+      },
+      "artists": [
+        {
+          "name": "Glayden",
+          "url": "https://open.spotify.com/artist/5GsNEQd9Q8J3Yi721r1Tsj"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "+Teamgeist",
+      "url": "https://open.spotify.com/track/1pEVn9rtseG6eyK5kZNaIY"
     },
     {
       "album": {
@@ -866,7 +884,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 220806,
       "name": "All Again",
       "url": "https://open.spotify.com/track/2jrzCpf7Ie750KCENF6yDo"
@@ -2397,6 +2415,24 @@
     },
     {
       "album": {
+        "name": "+Teamgeist / Blue Angels",
+        "url": "https://open.spotify.com/album/7vUMizpVqUk8FuI6wBEFDQ"
+      },
+      "artists": [
+        {
+          "name": "Glayden",
+          "url": "https://open.spotify.com/artist/5GsNEQd9Q8J3Yi721r1Tsj"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156031,
+      "name": "Blue Angels",
+      "url": "https://open.spotify.com/track/3VJQSzdebeIZVAMxjOQisO"
+    },
+    {
+      "album": {
         "name": "425",
         "url": "https://open.spotify.com/album/6LkygckNfHhwg2ubiC7lsN"
       },
@@ -3566,7 +3602,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 301391,
       "name": "Coping Mechanism",
       "url": "https://open.spotify.com/track/1GyGDwvT9U3JNJg13cArHG"
@@ -7107,6 +7143,32 @@
     },
     {
       "album": {
+        "name": "GUAYANDO (Lykke Li Remix)",
+        "url": "https://open.spotify.com/album/6otQ5gAH4Q2vNNTpZdyj80"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156848,
+      "name": "GUAYANDO - Lykke Li Remix",
+      "url": "https://open.spotify.com/track/3HG1ly6lMtWy3tPXFO8iJS"
+    },
+    {
+      "album": {
         "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
         "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
       },
@@ -8588,6 +8650,32 @@
       "duration_ms": 142615,
       "name": "into a g**",
       "url": "https://open.spotify.com/track/3WEAKMPSsf6VvzNfTHQ7i3"
+    },
+    {
+      "album": {
+        "name": "Irish Tears",
+        "url": "https://open.spotify.com/album/34NLecq6KxI9VGtQ3UVsxK"
+      },
+      "artists": [
+        {
+          "name": "Thaiboy Digital",
+          "url": "https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee"
+        },
+        {
+          "name": "swedm\u00ae",
+          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Irish Tears",
+      "url": "https://open.spotify.com/track/6O9XKJ76EWKIzSPH3vQuIp"
     },
     {
       "album": {
@@ -11511,6 +11599,28 @@
     },
     {
       "album": {
+        "name": "no me quiero dormir",
+        "url": "https://open.spotify.com/album/5wmPqODKNYl7HTr8RJti7x"
+      },
+      "artists": [
+        {
+          "name": "Safety Trance",
+          "url": "https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF"
+        },
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "no me quiero dormir",
+      "url": "https://open.spotify.com/track/6pLKe1SzXJexj7VpBleAL4"
+    },
+    {
+      "album": {
         "name": "no one belongs here more than you",
         "url": "https://open.spotify.com/album/5Q4RAPlCuk2l3FyIYwie49"
       },
@@ -12182,7 +12292,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 231671,
       "name": "One of the Girls",
       "url": "https://open.spotify.com/track/2FucjATNZ2BiiwJ1sa8jAo"
@@ -13491,6 +13601,24 @@
     },
     {
       "album": {
+        "name": "Sd-3",
+        "url": "https://open.spotify.com/album/1zKvlBFE8d9zNjcBjzitcS"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206197,
+      "name": "Real Stressor",
+      "url": "https://open.spotify.com/track/5ZGNTQUMtVTib08bhDwTLe"
+    },
+    {
+      "album": {
         "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
         "url": "https://open.spotify.com/album/4kepJ3GktWe5ijlknpPN88"
       },
@@ -13798,7 +13926,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 136000,
       "name": "riding it + DJmegan23 flip",
       "url": "https://open.spotify.com/track/1s3tSmkdc0SsuDD9ma4xYa"

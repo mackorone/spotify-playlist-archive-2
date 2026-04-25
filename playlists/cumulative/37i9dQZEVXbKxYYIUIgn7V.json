@@ -1956,7 +1956,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 194861,
       "name": "Achy Breaky - Special Version",
       "url": "https://open.spotify.com/track/291GLgvhwFh1Wj5qIiteSJ"
@@ -3094,7 +3094,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 257020,
       "name": "Alpha DNA",
       "url": "https://open.spotify.com/track/22zibhoSbcdv9Q4wBrUe7E"
@@ -10053,6 +10053,24 @@
     },
     {
       "album": {
+        "name": "Celebrate Me",
+        "url": "https://open.spotify.com/album/1jSedaP3OdRCyHq110m3f6"
+      },
+      "artists": [
+        {
+          "name": "IngaRose",
+          "url": "https://open.spotify.com/artist/6Nh6lQwzJsftDphRVG7AU1"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217439,
+      "name": "Celebrate Me",
+      "url": "https://open.spotify.com/track/2i2hd5SXypE3DL3440L2hB"
+    },
+    {
+      "album": {
         "name": "Century",
         "url": "https://open.spotify.com/album/3iEInaFAamSTND6sovehX7"
       },
@@ -14340,7 +14358,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 116940,
       "name": "done done done",
       "url": "https://open.spotify.com/track/3GeQIqeCQV9Fu4RueovLHR"
@@ -14358,7 +14376,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 116940,
       "name": "done done done",
       "url": "https://open.spotify.com/track/4pGMZRqLZtqrQe4ehY4lCQ"
@@ -26738,7 +26756,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 132778,
       "name": "Il' Me \u017deni Il' Tamburu Kupi",
       "url": "https://open.spotify.com/track/04SLZa3XErS3QVRL8bHIdD"
@@ -36347,6 +36365,24 @@
     },
     {
       "album": {
+        "name": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) [Party Version]",
+        "url": "https://open.spotify.com/album/5rukMAUVOrBJldBp9s71OH"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194028,
+      "name": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) - Party Version",
+      "url": "https://open.spotify.com/track/0xrjwh7fhJ9KmpoTWcazQW"
+    },
+    {
+      "album": {
         "name": "MON B\u00c9B\u00c9",
         "url": "https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8"
       },
@@ -38750,7 +38786,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 128854,
       "name": "NIE N\u00dcCHTERN",
       "url": "https://open.spotify.com/track/426BhpFDdpr62WIRSihhMP"
@@ -47724,7 +47760,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 167905,
       "name": "Shinjuku",
       "url": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
@@ -50862,7 +50898,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 237351,
       "name": "Sve mi dobro ide BLKNZD",
       "url": "https://open.spotify.com/track/788hWiFx5mtjtMjiizRWem"

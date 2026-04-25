@@ -13005,6 +13005,24 @@
     },
     {
       "album": {
+        "name": "sorry about the plague",
+        "url": "https://open.spotify.com/album/2Oo2vcRgni2zWLACFEZLNg"
+      },
+      "artists": [
+        {
+          "name": "KNIFE BRIDE",
+          "url": "https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197066,
+      "name": "lilies",
+      "url": "https://open.spotify.com/track/2H5O3Ah9f4W0RVAm3sdEOn"
+    },
+    {
+      "album": {
         "name": "POST HUMAN: NeX GEn",
         "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
       },
@@ -21862,24 +21880,6 @@
       "duration_ms": 142539,
       "name": "Toxins",
       "url": "https://open.spotify.com/track/5MarKAwrQvOEGlCOKEeIw3"
-    },
-    {
-      "album": {
-        "name": "sorry about the plague",
-        "url": "https://open.spotify.com/album/2Oo2vcRgni2zWLACFEZLNg"
-      },
-      "artists": [
-        {
-          "name": "KNIFE BRIDE",
-          "url": "https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG"
-        }
-      ],
-      "date_added": "2026-04-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/2H5O3Ah9f4W0RVAm3sdEOn"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > My enemy nah sapa
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,970 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,045 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 26 | [Doha](https://open.spotify.com/track/5hphSVebVxTpDfrk09W0hS) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Loseyi Professor](https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4) | 2:44 |
 | 27 | [Stormy](https://open.spotify.com/track/3DzpYzuUkuQwnCMJ2xThwD) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Stormy](https://open.spotify.com/album/7ftthnJD47ILWVYENWtCFB) | 2:30 |
 | 28 | [Panic](https://open.spotify.com/track/3LowEsOLVQJzw1SEAd9kfR) | [Tuneupmuzik](https://open.spotify.com/artist/5E9WHPiiQApkz40w48ZnyO), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [Smile T](https://open.spotify.com/artist/3LS22viz9mgJXLa6DypuRW) | [Panic](https://open.spotify.com/album/68KyH7NiAgx65d3QO9EyRl) | 2:17 |
-| 29 | [Anxiety](https://open.spotify.com/track/7ukqbiTo7VuVgupTjw34bm) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won), [Skillful Onair](https://open.spotify.com/artist/5jzsyh8u6zDA4q9eUFKx1V) | [Anxiety](https://open.spotify.com/album/220pMlUUeFFRW0ndzKuHzy) | 2:44 |
+| 29 | [Anxiety](https://open.spotify.com/track/7ukqbiTo7VuVgupTjw34bm) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won), [Skillful ONAiR](https://open.spotify.com/artist/7BIkmrjKoKBsJ7dLMUP4xc) | [Anxiety](https://open.spotify.com/album/220pMlUUeFFRW0ndzKuHzy) | 2:44 |
 | 30 | [Giveaway](https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 3:00 |
 | 31 | [Can't Breathe](https://open.spotify.com/track/1edi2KPh2oghMy8ExJiFBN) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:22 |
 | 32 | [Cold War \(with FAVE\)](https://open.spotify.com/track/3wZx58DkyBoPIQ8UaAdt3g) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Cold War](https://open.spotify.com/album/5EjNSzsV0sgEcXO7u00f0y) | 3:13 |

@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 190882,
       "name": "At The Core",
       "url": "https://open.spotify.com/track/6T5aKm6NU1JGdhYe4dqRVT"
@@ -4228,7 +4228,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 197190,
       "name": "Here with Me",
       "url": "https://open.spotify.com/track/1Ea4Xe2SCtPJmdeJk4bI17"
@@ -4804,7 +4804,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 153642,
       "name": "I'd Never Lie to You",
       "url": "https://open.spotify.com/track/3js7K5ccTY41JFjFjHToeA"
@@ -5420,6 +5420,24 @@
       "duration_ms": 160017,
       "name": "Intermission",
       "url": "https://open.spotify.com/track/6C60ydeEwcZKJzjrtBoVRm"
+    },
+    {
+      "album": {
+        "name": "Into Dreaming Air",
+        "url": "https://open.spotify.com/album/6JYb05WzFwtLFUm9yPSaFa"
+      },
+      "artists": [
+        {
+          "name": "Camille Blanche",
+          "url": "https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141683,
+      "name": "Into Dreaming Air",
+      "url": "https://open.spotify.com/track/2xEXsdP2C8GVdzFgJKxEEK"
     },
     {
       "album": {
@@ -7169,6 +7187,24 @@
     },
     {
       "album": {
+        "name": "Moonlit Whispers",
+        "url": "https://open.spotify.com/album/2KVF4HwNUKItZm6B5oeoA3"
+      },
+      "artists": [
+        {
+          "name": "Stefan Scholz",
+          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151266,
+      "name": "Moonlit Whispers",
+      "url": "https://open.spotify.com/track/3uBWcFVdGorvEUhvjCqi72"
+    },
+    {
+      "album": {
         "name": "More of you",
         "url": "https://open.spotify.com/album/3RK6FPFmRsnqEh3lgFoAc6"
       },
@@ -8753,6 +8789,24 @@
     },
     {
       "album": {
+        "name": "Quiet Motion",
+        "url": "https://open.spotify.com/album/2x7OUdfywQf5gaaRo8nvG5"
+      },
+      "artists": [
+        {
+          "name": "Vera Nightingale",
+          "url": "https://open.spotify.com/artist/6dgvfOxu8nivAN0pQPLeEo"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151866,
+      "name": "Quiet Motion",
+      "url": "https://open.spotify.com/track/65fRG4DT8wDjZMW5SQO4QI"
+    },
+    {
+      "album": {
         "name": "Quiet Now",
         "url": "https://open.spotify.com/album/33NWbG7zQYR3Fle9hw4JO2"
       },
@@ -9470,6 +9524,24 @@
       "duration_ms": 142975,
       "name": "Silfra",
       "url": "https://open.spotify.com/track/5zXpLtkV5UxJokFRMsO3iF"
+    },
+    {
+      "album": {
+        "name": "Simple Changes",
+        "url": "https://open.spotify.com/album/5LE0mGYeGfNdMWjhVtVkko"
+      },
+      "artists": [
+        {
+          "name": "Nola Finch",
+          "url": "https://open.spotify.com/artist/4OlAO9Q7R6qESvjaIcoZ1R"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143600,
+      "name": "Simple Changes",
+      "url": "https://open.spotify.com/track/0LEkKeAuqIbTiEljbuLMUL"
     },
     {
       "album": {
@@ -10211,6 +10283,24 @@
     },
     {
       "album": {
+        "name": "Starlit Serenade",
+        "url": "https://open.spotify.com/album/6oo7YzVieMvHs8O4dQUNjq"
+      },
+      "artists": [
+        {
+          "name": "Leah Lambert",
+          "url": "https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153866,
+      "name": "Starlit Serenade",
+      "url": "https://open.spotify.com/track/59p773ERg8nzaFkQz1hzFm"
+    },
+    {
+      "album": {
         "name": "Stars Fell On Alabama",
         "url": "https://open.spotify.com/album/0K9xMpUcX0Yg3HAcb1IDLO"
       },
@@ -10312,7 +10402,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 194756,
       "name": "Staycation With You",
       "url": "https://open.spotify.com/track/3WfwFDaOJGHcosGjG4RKGh"
@@ -11464,7 +11554,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 148200,
       "name": "The Way You Stay",
       "url": "https://open.spotify.com/track/1jfaCzz0V1WQd1aphQJ4Gk"
@@ -12029,6 +12119,24 @@
     },
     {
       "album": {
+        "name": "Velvet Regret",
+        "url": "https://open.spotify.com/album/1PH4bEuY5zASK9WxRKtwNk"
+      },
+      "artists": [
+        {
+          "name": "Wiz Senega",
+          "url": "https://open.spotify.com/artist/0Nj1FVgOM1YdKQj3xa6vWP"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141079,
+      "name": "Velvet Regret",
+      "url": "https://open.spotify.com/track/52kzFhVHV9JyjTgkeDbyNk"
+    },
+    {
+      "album": {
         "name": "Velvet Reverie",
         "url": "https://open.spotify.com/album/3yJlZjH3LO49AbvNBRdWvN"
       },
@@ -12202,7 +12310,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-25",
       "duration_ms": 163950,
       "name": "We Kiss In A Shadow",
       "url": "https://open.spotify.com/track/0XBnhPCz2TDrIDgdWs66Ab"
