@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from Baauer, Adam Port + SG Lewis, Duke Dumont, & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,939 likes - 125 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,964 likes - 125 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 45 | [How Much Do You Need](https://open.spotify.com/track/01nTIjHIfRQGct07Rvla48) | [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [How Much Do You Need](https://open.spotify.com/album/4VXLcaP6e5hzVlyGJySA8S) | 4:09 |
 | 46 | [Pink Bape Lighter](https://open.spotify.com/track/4N9U71O0mWNEDRKVVrQwBi) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-3](https://open.spotify.com/album/1zKvlBFE8d9zNjcBjzitcS) | 2:40 |
 | 47 | [Cold Kisses](https://open.spotify.com/track/32YxjCCmipEEd3gWWwhSq1) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Cold Kisses](https://open.spotify.com/album/2VtDSccjKdjJ48SJHNjW2q) | 2:48 |
-| 48 | [Love On Fire](https://open.spotify.com/track/417XM2guWLv0ItSGNCIByL) | [Mika Heggemann](https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP), [IMO](https://open.spotify.com/artist/1MnNVa410zCIAILGmSOmNd) | [Love On Fire](https://open.spotify.com/album/4bn9bl7vR9BlQ7HgnNAmY4) | 3:43 |
+| 48 | [Love On Fire](https://open.spotify.com/track/417XM2guWLv0ItSGNCIByL) | [Mika Heggemann](https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP), [IMO](https://open.spotify.com/artist/24jwoOYBMstx3HeVw60Y7q) | [Love On Fire](https://open.spotify.com/album/4bn9bl7vR9BlQ7HgnNAmY4) | 3:43 |
 | 49 | [I Need This](https://open.spotify.com/track/6SNx0oU3Ize2VxGeGZtnbh) | [DJ Motu](https://open.spotify.com/artist/3kiWfO5TtNkHE3cshrJNdx), [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [I Need This](https://open.spotify.com/album/3x732JGoLObrvrUWTSPK6K) | 3:13 |
 | 50 | [Let You Go](https://open.spotify.com/track/4mkGLhQY6hHuQ2ZvCC2TEK) | [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ), [Brent Honey](https://open.spotify.com/artist/0UQQORhMGFClKpoARZLTP9) | [Let You Go](https://open.spotify.com/album/0kLH1O27GEeVl8XhignyV3) | 2:57 |
 | 51 | [Drop Down](https://open.spotify.com/track/55TwCfxozuoV6eVTSwGnPe) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Drop Down](https://open.spotify.com/album/5KFMmLjux1IZXejPuMWjAZ) | 2:03 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 71 | [Hideaway](https://open.spotify.com/track/7GDYSDlaN16CF1Lhm75VS4) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK), [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Hideaway](https://open.spotify.com/album/3DI06nxabYk5SQtxKbpAQ4) | 3:29 |
 | 72 | [GIMME LUV](https://open.spotify.com/track/18YToI8aVM1EtWrfSVfOCG) | [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [GIMME LUV](https://open.spotify.com/album/27uYcMKxORRAN6koqnvbQF) | 2:34 |
 | 73 | [I Was There \- Booka Shade Remix](https://open.spotify.com/track/0FECEjWWLRd9mGlx5ZCSQa) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Beacon](https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [I Was There \(Booka Shade Remix\)](https://open.spotify.com/album/2zUQjVYmr9HpDCmsIuCWw8) | 3:40 |
-| 74 | [Watch out Now](https://open.spotify.com/track/5kLXDttdWGI7ERlQHwULX0) | [Tim Sanders](https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Watch out Now](https://open.spotify.com/album/36UhpTxYgQTTZS4usewuKY) | 2:43 |
+| 74 | [Watch Out Now](https://open.spotify.com/track/5kLXDttdWGI7ERlQHwULX0) | [Tim Sanders](https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Watch Out Now](https://open.spotify.com/album/36UhpTxYgQTTZS4usewuKY) | 2:43 |
 | 75 | [Provide For You](https://open.spotify.com/track/442YMuHsETytRtTLKL0Dca) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY) | [Provide For You](https://open.spotify.com/album/4fRkCQgQC4FIlVdWRiTZ0W) | 2:34 |
 | 76 | [Superstar](https://open.spotify.com/track/4PUmzYMkyJDECrjdxMs19A) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Chris Nasty](https://open.spotify.com/artist/1rGakp9mQfKaLjN7mT9ohd) | [Superstar](https://open.spotify.com/album/6G1pO46Z2u8BPjTGVoa5Oa) | 3:06 |
 | 77 | [Sorry Papi](https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Sorry Papi](https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk) | 2:50 |

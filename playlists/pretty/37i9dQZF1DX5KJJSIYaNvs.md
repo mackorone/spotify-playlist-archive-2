@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to women at full volume\. Cover \- Monali Thakur
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,136 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,174 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 11 | [O Meri Jaan](https://open.spotify.com/track/4AM0j5OfM0emlouE3F09VJ) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8) | [Wahh](https://open.spotify.com/album/5nTCBZL2bQImLR21Biwa4D) | 3:13 |
 | 12 | [Daira](https://open.spotify.com/track/41oD3vGW5Yuqf0klpbhKqa) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Daira](https://open.spotify.com/album/1ObrRiBiUCUSiVw8skwxcM) | 2:42 |
 | 13 | [Inaam \(Ft\. Badshah\)](https://open.spotify.com/track/5haZbtveqI9v1svcc5IDx6) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Ansh Chahal](https://open.spotify.com/artist/2vaV6Tzkkt5r8OUpyAYzpz) | [Inaam \(Ft\. Badshah\)](https://open.spotify.com/album/5TMWAUvmDF6XPK2P0TH0tp) | 2:58 |
-| 14 | [Ankhiyan Nigodi](https://open.spotify.com/track/2gXCEGUg2zmQODJLfAVJmu) | [Shalini Mamgain](https://open.spotify.com/artist/1xUBrkqouhUTbiQbFwXUhY) | [Ankhiyan Nigodi](https://open.spotify.com/album/220OnLhJAzkYLGgDxKwePi) | 3:05 |
+| 14 | [Ankhiyan Nigodi](https://open.spotify.com/track/2gXCEGUg2zmQODJLfAVJmu) | [Shalini Mamgain](https://open.spotify.com/artist/1xUBrkqouhUTbiQbFwXUhY) | [Ankhiyan Nigodi](https://open.spotify.com/album/220OnLhJAzkYLGgDxKwePi) | 3:07 |
 | 15 | [Kaise Hum](https://open.spotify.com/track/7sxx709AexC8scBIjVMCQV) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Kaise Hum](https://open.spotify.com/album/4dBKpBxxdLlV9o1aI8dbjc) | 3:54 |
 | 16 | [Kya Jadoo](https://open.spotify.com/track/5sO4478w8eDvL6xZpZj8wc) | [Arunima Wali](https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT) | [Kya Jadoo](https://open.spotify.com/album/7ap8UnewwWe1OS6EO7ButY) | 2:26 |
 | 17 | [Birha](https://open.spotify.com/track/34qQefRo1gvABSijPg2v9G) | [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs) | [Birha](https://open.spotify.com/album/0kAAQTEEYsQ162uDSs0ncv) | 2:37 |

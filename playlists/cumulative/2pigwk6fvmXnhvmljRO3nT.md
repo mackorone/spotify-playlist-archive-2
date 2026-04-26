@@ -4,7 +4,7 @@
 
 > 
 
-8,607 songs - 21 day 22 hr 27 min
+8,609 songs - 21 day 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3619,7 +3619,7 @@
 | [LAY YOUR HANDS ON ME \(2017\)](https://open.spotify.com/track/1Zvw4pJxwir18kyQ9uODS8) | [BOOM BOOM SATELLITES](https://open.spotify.com/artist/0vCGPbugjEi38T41ZHny1o) | [19972016 \-20082016\-](https://open.spotify.com/album/2k9f4qBmEx1GgY4I3XT42r) | 6:12 | 2025-08-29 |  |
 | [Lay\_Up.m4a](https://open.spotify.com/track/1HqoCOBHlnI9Snfk36jiTZ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [UNLOCKED](https://open.spotify.com/album/5LsyqeWryTmxsmda4xkm5a) | 1:45 | 2025-01-03 |  |
 | [Layer Cake](https://open.spotify.com/track/7vesPWhf18t0QjKZpGlw00) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 2:27 | 2025-01-18 |  |
-| [Lazenca, Save Us](https://open.spotify.com/track/1KSPiLN0TgsUgRQ0fXaBNB) | [Shin Hae Chul](https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn) | [N.E.X.T Shin Hae Chul Reboot Yourself](https://open.spotify.com/album/2OOxpszLnHqUEOivIR9Eps) | 5:08 | 2025-01-15 |  |
+| [Lazenca, Save Us](https://open.spotify.com/track/1KSPiLN0TgsUgRQ0fXaBNB) | [Shin Hae Chul](https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn) | [N.E.X.T Shin Hae Chul Reboot Yourself](https://open.spotify.com/album/2OOxpszLnHqUEOivIR9Eps) | 5:08 | 2025-01-15 | 2026-04-26 |
 | [Lazy](https://open.spotify.com/track/6KthiBwozqytvwhxpJw9Sr) | [kiki wera](https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6) | [Lazy](https://open.spotify.com/album/5iIYVQ0Yb6QoaMzBtAvugF) | 3:08 | 2025-04-18 |  |
 | [lazy afternoon](https://open.spotify.com/track/5yO75EkEQkxS9f0MizQbdD) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [lazy afternoon](https://open.spotify.com/album/2Q2fKoH1BjT2v90H4lDRCu) | 2:55 | 2025-04-19 |  |
 | [Le château](https://open.spotify.com/track/3KhPLLQjXodVQU9FoIlCUh) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Rikki](https://open.spotify.com/album/3nIDxmxWDPzCjlR2Y4Lq9G) | 2:35 | 2025-01-03 |  |
@@ -6395,6 +6395,7 @@
 | [The Heart Part 5](https://open.spotify.com/track/5qbhVL3vB7HwWvb0042B7y) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 5:32 | 2025-01-03 |  |
 | [The Heights of Rumikunamanta](https://open.spotify.com/track/46kwyBEXn40FdA7J0ePusS) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Land of Tleyaoyotl \(Original Game Soundtrack\)](https://open.spotify.com/album/3rMVCxKkVGwVVOnNpIWERS) | 1:32 | 2026-02-16 |  |
 | [The Highs & The Lows](https://open.spotify.com/track/7DKJP7ksSaJn4YyBkcBDii) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [The Highs & The Lows](https://open.spotify.com/album/2apZoa0oXih4sM7dDMNi2a) | 4:15 | 2024-12-14 |  |
+| [The Highs & The Lows \(feat\. Joey BadA$$\)](https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 4:15 | 2026-04-25 |  |
 | [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 | 2024-12-10 |  |
 | [The Hills](https://open.spotify.com/track/7fBv7CLKzipRk6EC6TWHOB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:02 | 2025-03-06 |  |
 | [The Hop](https://open.spotify.com/track/7f1UEGMBMuXfLBP5XANfrW) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [Beats, Rhymes & Life](https://open.spotify.com/album/0EguP4tsJurU5I8ocCxdyb) | 3:27 | 2025-04-18 |  |
@@ -8186,6 +8187,7 @@
 | [話がしたいよ](https://open.spotify.com/track/7g42Z31aPLq6GArDAWAjKI) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [aurora arc](https://open.spotify.com/album/0Jj2DO9zXQwZJIdljOX7O5) | 4:19 | 2024-12-11 |  |
 | [誰が為に愛は鳴る](https://open.spotify.com/track/5A5w81C3aeSXiydlFaZkaw) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [誰が為に愛は鳴る](https://open.spotify.com/album/0BvMmvGXmM44NtLow50IDn) | 4:21 | 2026-02-22 |  |
 | [講真Ah!](https://open.spotify.com/track/3k7H1K1lJ5mkvHbuCA3UKp) | [JuJu Club](https://open.spotify.com/artist/6itzQiBRklTXpTHoCTPzos) | [16/20](https://open.spotify.com/album/4abHvceP7eRINmvZ9KubzG) | 3:23 | 2025-01-03 |  |
+| [負けヒロインのテーマ](https://open.spotify.com/track/78gJ4Le1sL8mns8B0VJnZ9) | [うたたね歌菜](https://open.spotify.com/artist/3EI0skZSS0yqXpLxyh7WT4) | [負けヒロインが多すぎる！オリジナル・サウンドトラック VOL.1](https://open.spotify.com/album/5AABJMRzU2aWB7E26DN9s9) | 1:49 | 2026-04-25 |  |
 | [貴方解剖純愛歌〜死ね〜](https://open.spotify.com/track/2H3bOGOE50qEo5wAYoJiwL) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [tamago](https://open.spotify.com/album/2QDPEpzxtuvLuE21DtGTBh) | 4:26 | 2024-12-05 |  |
 | [足跡](https://open.spotify.com/track/1zjqwj6d2sZTsw0ogGTSUe) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [The GARDEN](https://open.spotify.com/album/13FIa91YpnboJjrwmKRrG8) | 3:47 | 2025-05-17 |  |
 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 | 2025-05-17 |  |

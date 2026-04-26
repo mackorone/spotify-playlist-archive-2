@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Blnko en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,912 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,914 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 49 | [Tanque](https://open.spotify.com/track/6mfuVQv2spbV0mcyYrUjRR) | [Alanis Yuki](https://open.spotify.com/artist/78wDefnHex943QL32ggbx6) | [Veintidos](https://open.spotify.com/album/4SnrFpk9IbaFNIJTm2BM4r) | 2:09 |
 | 50 | [valor de más](https://open.spotify.com/track/5rPLhpQWvIcxsO4M14Nf9G) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [LA NUBE EN EL JARDÍN](https://open.spotify.com/album/25LvmhsAq8LUUxNgkVK2tu) | 4:13 |
 
-Snapshot ID: `AAAAAHnFnlxly6X59NKR7dmaIwaeBAYu`
+Snapshot ID: `AAAAAC27rdHNAYatXVzvHReJE3GhSXcW`

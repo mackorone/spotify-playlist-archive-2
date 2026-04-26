@@ -586,7 +586,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 227343,
       "name": "Give God The Blues",
       "url": "https://open.spotify.com/track/3d8fUjFyszGqo4Ty0vbRQ3"
@@ -1136,6 +1136,24 @@
       "duration_ms": 197920,
       "name": "Isn't That So",
       "url": "https://open.spotify.com/track/3I0NjntD1g4OVC6zBQjsrT"
+    },
+    {
+      "album": {
+        "name": "Outskirts of Love",
+        "url": "https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197920,
+      "name": "Isn't That So",
+      "url": "https://open.spotify.com/track/3TaFgKTbx0GXLtLNwjrvKP"
     },
     {
       "album": {

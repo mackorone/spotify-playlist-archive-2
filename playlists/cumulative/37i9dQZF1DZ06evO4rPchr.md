@@ -4,7 +4,7 @@
 
 > This is Arushi Jain\. The essential tracks, all in one playlist.
 
-29 songs - 3 hr 14 min
+30 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Salve That Travels Time](https://open.spotify.com/track/4DW5SyJfmovob9O7UDxFHN) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Bravespace \(Presented by the Smithsonian Asian Pacific American Center\)](https://open.spotify.com/album/70eaiN3oZg5g34RMOAO2HY) | 5:06 | 2026-03-04 |  |
 | [Anna](https://open.spotify.com/track/2pUoIagEfkojQmTlW92nxS) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ), [OSE](https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu) | [Just a Feeling](https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw) | 5:38 | 2026-03-04 |  |
 | [Cio](https://open.spotify.com/track/1aoTgLHC5Rj16TGwZA8N5s) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ), [OSE](https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu) | [Just a Feeling](https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw) | 6:56 | 2026-03-04 |  |
+| [Collapse \(falling forward blissfully all the time\) \- Arushi Jain Remix](https://open.spotify.com/track/2MO4UiXSVt3Ds2w3yRWG2J) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf), [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Friend Remixes](https://open.spotify.com/album/0ttON9DNtdujNQ8qcnIMMS) | 5:13 | 2026-04-26 |  |
 | [Cultivating Self Love](https://open.spotify.com/track/58JWS7ldLdrmCN0theav1k) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Under the Lilac Sky](https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj) | 9:41 | 2026-03-04 |  |
 | [Drown Out the Noise With Your Silence](https://open.spotify.com/track/2hbHQ6sI7bn90uEkTmY3Yt) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ), [OSE](https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu) | [With & Without](https://open.spotify.com/album/0aR3ME6vD1gGWkSYqxFrWo) | 10:45 | 2026-03-04 |  |
 | [Electronic Music Is Loud](https://open.spotify.com/track/0LmO1ICHFGsgYvXv3iGjU6) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs), [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [vari/ations \- Ode to Oram](https://open.spotify.com/album/6EaY3YNWKI5ViyR2mkI8FJ) | 4:05 | 2026-03-04 |  |

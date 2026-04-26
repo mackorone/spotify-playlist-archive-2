@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Noah Kahan, Kehlani, Foo Fighters and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,579 likes - 104 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,597 likes - 104 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 75 | [Nowhere Tonight](https://open.spotify.com/track/0XDeOMHaHFlJr6VbyfVAn1) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Nowhere Tonight](https://open.spotify.com/album/4rzoqUunz8fSmmPJMUFU20) | 2:51 |
 | 76 | [Aquarius Moon](https://open.spotify.com/track/3KHzRyveTX6EnOVCVXQtXz) | [Sophie Castillo](https://open.spotify.com/artist/4LoRVyF2R00cUR8q3oatMb) | [Aquarius Moon](https://open.spotify.com/album/29PGh88gKWdfbs1w7yju3p) | 3:42 |
 | 77 | [Billy Says](https://open.spotify.com/track/6B86VrMwcacvW7Ezss0X1S) | [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [Billy Says](https://open.spotify.com/album/3cg6LgLQSPmPOazHi4JMqr) | 3:41 |
-| 78 | [Misunderstood \(feat\. Bawo\)](https://open.spotify.com/track/39lx7wFXnbiQvW7Cz5PaGs) | [DC](https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Misunderstood \(feat\. Bawo\)](https://open.spotify.com/album/7xxup5OLWFFvB8c5O5oBsw) | 3:10 |
+| 78 | [Misunderstood \- feat\. Bawo](https://open.spotify.com/track/39lx7wFXnbiQvW7Cz5PaGs) | [DC](https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Misunderstood \(feat\. Bawo\)](https://open.spotify.com/album/7xxup5OLWFFvB8c5O5oBsw) | 3:10 |
 | 79 | [Sarah](https://open.spotify.com/track/0XwQDtlYvwFuTrhR57WO76) | [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Sarah](https://open.spotify.com/album/3TKVQ0RsXUqPTNYwaLAzF7) | 2:57 |
 | 80 | [In My Room](https://open.spotify.com/track/6ahOTBFb6Oe1XESV2fLu53) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [In My Room / Allure](https://open.spotify.com/album/3Ir80LJrvGWGAmcWReXFRe) | 3:21 |
 | 81 | [Conversation](https://open.spotify.com/track/20L7PliDhO2c0mvoeDXu04) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Conversation](https://open.spotify.com/album/2fcA8uAebc2l0T4xNt8qof) | 3:43 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: nic
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,080 likes - 49 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,083 likes - 49 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 48 | [2023](https://open.spotify.com/track/7qGEx91lcThz9i0WJkuj39) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [2023](https://open.spotify.com/album/5Wh7xOOYzQhT9obKvG1JDA) | 3:02 |
 | 49 | [pelinegra](https://open.spotify.com/track/1L2cHRExPDjaUpMaHa4j5x) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pelinegra](https://open.spotify.com/album/0t0PGwqz6FYhyRDBVoFsnA) | 3:31 |
 
-Snapshot ID: `AAAAAFVTrJvodYj6KPHtyJPGGnttbJLu`
+Snapshot ID: `AAAAAINHpQGcLkFdqra//f63fPg4MEnj`

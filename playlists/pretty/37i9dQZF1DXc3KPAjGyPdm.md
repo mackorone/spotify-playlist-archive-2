@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 
 > Hear the unforgettable songs that defined Stranger Things as the series enters its last chapter.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,280,796 likes - 189 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,280,382 likes - 189 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 36 | [Detroit Rock City](https://open.spotify.com/track/4Q9WS9ARvL7rkokSbnhM96) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Double Platinum](https://open.spotify.com/album/6zYKTFZrrXc4dGKN6ua796) | 3:35 |
 | 37 | [I Was A Teenage Werewolf \- Remastered 1989](https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Songs The Lord Taught Us](https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay) | 3:03 |
 | 38 | [Sisters](https://open.spotify.com/track/3cbIqhDHwvWPP96JhnP5PU) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 5 \(Original Score From The Netflix Series\)](https://open.spotify.com/album/3QMfhJAuIx6I3830yy4qLE) | 1:13 |
-| 39 | [Pass the Dutchie](https://open.spotify.com/track/0lsDV18FMFWGbxFUDy5Fmd) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w) | 3:22 |
+| 39 | [Pass the Dutchie \- Original 7" Version](https://open.spotify.com/track/0lsDV18FMFWGbxFUDy5Fmd) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w) | 3:22 |
 | 40 | [Wipe Out](https://open.spotify.com/track/1TLB7MJEEO7cwxiBmBUQbf) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w) | 2:13 |
 | 41 | [Object Of My Desire \- Single Version](https://open.spotify.com/track/4NTng3mje74EE1IqC4Hl0U) | [Starpoint](https://open.spotify.com/artist/6W9OZQ862LR0HM76QQJJY3) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w) | 3:54 |
 | 42 | [Rock Me Amadeus \- Full Length Gold Mix](https://open.spotify.com/track/0Dj5In1Q2j4SrzrI4R9p7G) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w) | 3:46 |

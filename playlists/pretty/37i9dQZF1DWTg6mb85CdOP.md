@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > ¡Guaripolo eligió las canciones más 31 Minutos de 31 Minutos para festejar el Día del Niñx!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,952 likes - 31 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,964 likes - 31 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

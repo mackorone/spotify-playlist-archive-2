@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Blippi & Yellowcard
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,300 likes - 100 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,358 likes - 100 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

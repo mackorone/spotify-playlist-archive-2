@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,152 songs - 5 day 7 hr 24 min
+2,153 songs - 5 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2023,6 +2023,7 @@
 | [Vola Con Me](https://open.spotify.com/track/1AmCkWduAoYpgbQ7UdFaoP) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Vola Con Me](https://open.spotify.com/album/5kKJkej7PeeDuVFTTIamFT) | 3:35 | 2025-05-10 |  |
 | [Volume](https://open.spotify.com/track/4kH8CT496lEGJe4SInfwjw) | [Ria](https://open.spotify.com/artist/3gnLRygDQ3Srtb0zQHgsFP), [THESAVRVS](https://open.spotify.com/artist/4vzJ5XfRFoyV5hyq7gHQ64) | [Volume](https://open.spotify.com/album/5EdvxVHZU7YM8dq8o6kBo4) | 2:51 | 2024-06-20 |  |
 | [Voyage](https://open.spotify.com/track/0rEfwncg6R9XGSvgOR3kjJ) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy) | [The Collaborations II](https://open.spotify.com/album/4UnXSEkjflndnNVYuOGIzk) | 4:03 | 2026-03-18 |  |
+| [Vuelve a Ser Inevitable](https://open.spotify.com/track/1TPj2DlZJW30bIjJ9Iw8yu) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Vuelve a Ser Inevitable](https://open.spotify.com/album/53KVnC2pcEBzhnC6RdswIB) | 2:20 | 2026-04-25 |  |
 | [Vêm De Todo Lado](https://open.spotify.com/track/6pVdxokjHtddIwiu3THwmT) | [Golpe](https://open.spotify.com/artist/3kiKcCZ0XLmY2xmCbtsI9Y) | [Terroir](https://open.spotify.com/album/4VZtaKfMhyUOJmGPQ6sWnt) | 2:46 | 2024-02-06 |  |
 | [Wait For You](https://open.spotify.com/track/4oCZz2Lu6oF5Pz8i0cw7AG) | [Eric Ananda](https://open.spotify.com/artist/3cpJADwM3eiEPMXFliIsrY) | [Wait For You](https://open.spotify.com/album/7yBnD4uTO5Y0yIhKkhlwGZ) | 2:21 | 2026-01-05 |  |
 | [Wake Up Your Lion](https://open.spotify.com/track/599474NocEEogJMIRpJHZP) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 3:29 | 2024-05-01 |  |

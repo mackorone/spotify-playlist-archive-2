@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1238821,
+  "num_followers": 1238893,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aelhAAAAAACwR3e8VDK+5CzKr7ID+IBD",
+  "snapshot_id": "aeqygAAAAAA6Wg6jjxRNhxofm0KsYLo/",
   "tracks": [
     {
       "added_at": null,
@@ -548,13 +548,21 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Tony Allen",
-          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        },
+        {
+          "name": "Johnny Marr",
+          "url": "https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS"
+        },
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
         }
       ],
-      "duration_ms": 138264,
-      "name": "The Hardest Thing (feat. Tony Allen)",
-      "url": "https://open.spotify.com/track/2jSbuzSLLvFYO7xAMEU85i"
+      "duration_ms": 340874,
+      "name": "The Empty Dream Machine (feat. Black Thought, Johnny Marr and Anoushka Shankar)",
+      "url": "https://open.spotify.com/track/5FH7DTLl8WQNkZs00Cb3EM"
     },
     {
       "added_at": null,

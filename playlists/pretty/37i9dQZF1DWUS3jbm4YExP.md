@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,228 likes - 150 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,374 likes - 150 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 149 | [Sad Nile \(feat\. Hailu Mergia\)](https://open.spotify.com/track/2CQBRPtITj3ePDeXLQnZK7) | [The Polyversal Souls](https://open.spotify.com/artist/6ucByLJIHHN6HfdMyZylyi), [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm) | [Invisible Joy](https://open.spotify.com/album/5qWGSPSciy5ZaEXLo8ORlD) | 4:45 |
 | 150 | [Indio](https://open.spotify.com/track/3PqjKW6RHdOdn951ozbUg6) | [A Vision of Panorama](https://open.spotify.com/artist/7lmyXB45fWDt0HJq305PVY), [Lapa Dula](https://open.spotify.com/artist/0t0tMAUyLklD3LYuMzArRC) | [Indio](https://open.spotify.com/album/7rm407OvjlSsfUrxv54ChL) | 4:44 |
 
-Snapshot ID: `AAAAAKJY1/gJwIo4yR456khJUJozplMG`
+Snapshot ID: `AAAAAFVdnaICliFRLDNAzRfnbCz+Sz83`

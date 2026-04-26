@@ -2,9 +2,9 @@
 
 ### [K\-Pop Music Video Hits](https://open.spotify.com/playlist/37i9dQZF1DX5OHwEYdG9bL)
 
-> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: BTS\) \(Enjoy a playlist of songs that support music video features!\)
+> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: CORTIS\) \(Enjoy a playlist of songs that support music video features!\)
 
-209 songs - 11 hr 36 min
+215 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [BURNING UP](https://open.spotify.com/track/4vQvy3BbuPMSazfjXR2sar) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BURNING UP](https://open.spotify.com/album/5QVHgA8EsUSdEYHjLjQhWk) | 2:55 | 2025-10-24 |  |
 | [Burnin’ Tires \(Changbin & I.N\)](https://open.spotify.com/track/7rDFxohNf6gwCe80dplCWt) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Burnin’ Tires \(Changbin & I.N\)](https://open.spotify.com/album/7bfjfcnBeCXsHXJcPr8q4o) | 3:27 | 2025-07-15 |  |
 | [Butterfly Doors](https://open.spotify.com/track/6cVX3erP5UU9cHYpC6UVJJ) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [Butterfly Doors](https://open.spotify.com/album/4WPErVKWqTuMYA9S5MFOHj) | 2:55 | 2026-03-20 |  |
+| [CELEBRATION](https://open.spotify.com/track/5fnj5MWx4amtaNjd1JM3sr) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION](https://open.spotify.com/album/6o2JgJq6t8b056VpQyUjDz) | 3:08 | 2026-04-25 |  |
 | [CEREMONY](https://open.spotify.com/track/5TRfYSktaV8K4p6fUmUcRZ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CEREMONY](https://open.spotify.com/album/0OOYcoLr4AXuLkAxEFmYXp) | 2:51 | 2025-10-24 |  |
 | [CEREMONY](https://open.spotify.com/track/5b6isns0yhJT6A5W2dExb9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/6o9wjgySRts32qfi7CQBQP) | 2:51 | 2025-10-24 |  |
 | [CHA CHA CHA](https://open.spotify.com/track/25H9SitJmkod39X0L2j5h2) | [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [CHA CHA CHA](https://open.spotify.com/album/2pHZQcpWYyboipOtpVJ2Am) | 3:03 | 2025-10-24 |  |
@@ -87,6 +88,7 @@
 | [Girlfriend](https://open.spotify.com/track/02Tb1O8nTBxr9xEWKwu9cf) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Girlfriend](https://open.spotify.com/album/3O2uBXMTlgiD2PxWChOd3F) | 2:45 | 2025-07-15 |  |
 | [Girls Will Be Girls](https://open.spotify.com/track/5ZK5F96wVOZe2FUg85EKkf) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/0wfZWR1CN5b86WLdlJPm3A) | 2:53 | 2025-07-15 |  |
 | [Gnarly](https://open.spotify.com/track/7vj7OlHx7CkqW7GbtkM6jt) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/6sI1X80Cg2da4ZCKJJ1UPi) | 2:21 | 2025-07-15 |  |
+| [Gnarly \(Live\) \| Spotify Best New Artist](https://open.spotify.com/track/2zoci1Endv9cwcyYF00mYr) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly \(Live\) \| Spotify Best New Artist](https://open.spotify.com/album/22YsfExa6uLecnP0NPNOK0) | 2:17 | 2026-04-25 |  |
 | [GO](https://open.spotify.com/track/3W6hUFHRs7JoWSS7jBE27a) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [GO](https://open.spotify.com/album/5ChCtLGTl3t8XjHWOyiJDY) | 3:21 | 2026-03-03 |  |
 | [Handlebars](https://open.spotify.com/track/02ycmM2h4Qy7N7F8d68evw) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Handlebars](https://open.spotify.com/album/3gcVaAZbYasW3tPtFYLMo9) | 3:31 | 2025-07-15 | 2025-08-20 |
 | [HANDS UP](https://open.spotify.com/track/36pQp4XqaNgg3aGipDkQc4) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/2tcFy4JMpGJ97f2IEi7VLb) | 3:24 | 2025-07-15 |  |
@@ -138,6 +140,7 @@
 | [number one girl](https://open.spotify.com/track/5sgKW9J1rsDlqV8nXpSXjd) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/2GU9eECPOLAYV9EERR8sE1) | 3:35 | 2025-07-15 | 2025-08-20 |
 | [O.O Part 1 \(Baila\)](https://open.spotify.com/track/6dx6xPMkBwPXdRXtaFEk1T) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [O.O Part 1 \(Baila\)](https://open.spotify.com/album/3hndrP38zWOzZFDIIyDsB7) | 3:43 | 2025-10-24 |  |
 | [O.O Pt\. 1 \(Baila\)](https://open.spotify.com/track/0c15Tj9dcB3VgwDya7roED) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [O.O Pt\. 1 \(Baila\)](https://open.spotify.com/album/3UBnxG8yJO6Bp1lMlLBMZB) | 3:43 | 2025-10-24 |  |
+| [Ode to Love](https://open.spotify.com/track/6oq6BAIcangVRRGT0qAdkI) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Ode to Love](https://open.spotify.com/album/7ENecvPQlhaA9RIzrn8mSi) | 3:20 | 2026-04-25 |  |
 | [Oh My](https://open.spotify.com/track/0h4IPS6Lwm30ZB9FbuCsnJ) | [YOU DAYEON](https://open.spotify.com/artist/23xyNoanbbAB7M8LBiibyr) | [Oh My](https://open.spotify.com/album/0mncylzoHz7AEXg83JmaMI) | 3:07 | 2025-07-15 |  |
 | [On The Road](https://open.spotify.com/track/7lt0IFjlsY1FztH3g7POGP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [On The Road](https://open.spotify.com/album/4qLmONjxB0xKGGra65EIgT) | 4:12 | 2026-02-09 |  |
 | [ONE MORE TIME](https://open.spotify.com/track/0Ybb2jzHsmdiry7QRfankS) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ONE MORE TIME](https://open.spotify.com/album/04hZwTuFY586ZOR25ij8hq) | 3:23 | 2025-12-03 |  |
@@ -150,6 +153,7 @@
 | [Panorama](https://open.spotify.com/track/3twkB9dWnBaM7P4bupzZ8v) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Panorama](https://open.spotify.com/album/022PbMCTrrU13k9cpaOGJG) | 3:11 | 2025-12-03 |  |
 | [PARADISE](https://open.spotify.com/track/2yQgi0Zzx9E8wfmWDj5H7z) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [PARADISE](https://open.spotify.com/album/5yzF3SY6QRaB10ZxXtBvDU) | 3:03 | 2025-10-24 |  |
 | [Pivot](https://open.spotify.com/track/3A4rp0uvOKv1hyBFuPjSrx) | [HEYOON](https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Pivot](https://open.spotify.com/album/2CN32qHnw9sXYEZpdScw4f) | 3:10 | 2025-07-15 | 2025-08-20 |
+| [POSE](https://open.spotify.com/track/7eJjhlY1IpLEdiMK41qdcy) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [POSE](https://open.spotify.com/album/1pyLJ89FLvz7j7C7mtDCpU) | 2:43 | 2026-04-25 |  |
 | [POWER \[Official Video\]](https://open.spotify.com/track/3v4QrvFs2vFAht1MdOiAC8) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER \[Official Video\]](https://open.spotify.com/album/3SoygZ2zWfBPX3TSE9i2Kx) | 2:46 | 2025-07-15 | 2025-08-20 |
 | [Pretty Boy Swag](https://open.spotify.com/track/7w8ZbczPuJUDlC16gVk80x) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [Pretty Boy Swag](https://open.spotify.com/album/08Di0TMfvqvCve78eBuJEW) | 2:58 | 2026-01-09 |  |
 | [Promise](https://open.spotify.com/track/6Dxr0JrIN3wOMhNQzxL9RW) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Promise](https://open.spotify.com/album/4zjAHJSBQp7bifv39za7Kq) | 4:04 | 2025-12-13 |  |
@@ -160,6 +164,8 @@
 | [Push \(Feat\. REI \(IVE\)\)](https://open.spotify.com/track/1Xy7oLNn3tRGSuTSvyMFUV) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k), [REI \(IVE\)](https://open.spotify.com/artist/5s3Ys2jpFZD2t4bivtHG2q) | [Push \(Feat\. REI \(IVE\)\)](https://open.spotify.com/album/73TIXbTuLNEfEjGBUV7ffR) | 3:26 | 2026-01-05 |  |
 | [R&B ME \(feat\. Changbin\)](https://open.spotify.com/track/0Uxh4wV2FSgCEDQyhwnkYb) | [JUN\. K](https://open.spotify.com/artist/4m69UKabjuuaoayREZud9h), [Changbin](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | [Dear my muse](https://open.spotify.com/album/33XQGNALxI7Lu76Yx0SUOA) | 2:55 | 2025-10-24 |  |
 | [REBEL HEART](https://open.spotify.com/track/2itoCOiuGnbeEE8AkCPEOK) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/1j9jMOd3leVxC05E8Rx17t) | 3:13 | 2025-07-15 | 2025-08-20 |
+| [REDRED](https://open.spotify.com/track/50Zyos50vXSPAx4OrzRneI) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/1bM2llz1kxKJRmYxWuEbbS) | 3:24 | 2026-04-25 |  |
+| [REDRED \(Conceptual Performance Film\)](https://open.spotify.com/track/3Sm48IuOVGZQC6uHCrMMcU) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED \(Conceptual Performance Film\)](https://open.spotify.com/album/7JCDz05dMWeVTZV4J7USnk) | 2:44 | 2026-04-25 |  |
 | [Rich Man](https://open.spotify.com/track/2stuLR7ix3QFg5XQbC6CoW) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man](https://open.spotify.com/album/2bvecqTmvOzEL8VnzlI6gJ) | 3:29 | 2025-10-24 |  |
 | [RUDE!](https://open.spotify.com/track/1G4U1zoIdkKaGFLzJ3autY) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/43AUpx51ume5mvtbnafghd) | 3:35 | 2026-02-27 |  |
 | [Running Wild](https://open.spotify.com/track/5QM9uyKvDfAAH1lRSdAyIY) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Running Wild](https://open.spotify.com/album/1kVFc1BCTKDjOktEXwNbUK) | 3:15 | 2025-07-15 | 2025-08-20 |

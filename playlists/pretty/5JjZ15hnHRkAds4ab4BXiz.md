@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 708 songs - 1 day 20 hr 38 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 709 songs - 1 day 20 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -716,5 +716,6 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 706 | [Retreat](https://open.spotify.com/track/2lpIm524SryuSryrobYJlW) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Capture / Release](https://open.spotify.com/album/5hByxCjY4YeyHivRJFpzL6) | 2:58 |
 | 707 | [Lazy Boy](https://open.spotify.com/track/5xXkyBtG1sNIhkpCIxF0Il) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 3:31 |
 | 708 | [Just A Man With A Job](https://open.spotify.com/track/6iozVvekYagwUXltruLmQN) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Monsieur Gainsbourg Revisited](https://open.spotify.com/album/0R0DwHyZlJKSUT7n3jh1Gm) | 2:50 |
+| 709 | [Damaged Goods](https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK) | 3:26 |
 
-Snapshot ID: `AAAnoDyubANN+Ceu21T0I7vl/qYjnYr3`
+Snapshot ID: `AAAnoWbb3KjAyOzEFgxAuE80eLm/meOy`

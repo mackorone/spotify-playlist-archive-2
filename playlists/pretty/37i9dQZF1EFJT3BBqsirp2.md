@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 51 | [BREEE!](https://open.spotify.com/track/14brgBBs15gxGHJ3JTraZC) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 2:17 |
 | 52 | [BE MY ANIME](https://open.spotify.com/track/298TUewHw03SSS79Z2Gien) | [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC) | [CIVIL DISORDER](https://open.spotify.com/album/7MD9Chg0V5UIj5vyzZ0ebQ) | 3:29 |
 | 53 | [Forwards & Backwards](https://open.spotify.com/track/7Fg9PYY7z1MHvlOK6Z6z5H) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Forwards & Backwards](https://open.spotify.com/album/723y0nUwGHFFiScIqi0xGf) | 2:58 |
-| 54 | [Don't Talk To Me](https://open.spotify.com/track/1agb9NWLC7o65Sl30INBJ6) | [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Don't Talk To Me](https://open.spotify.com/album/1MlsNdlcCbVP4anT8M1GPO) | 3:40 |
-| 55 | [Precious](https://open.spotify.com/track/4PpurS5c7TgFOSAbw0Z6X2) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 3:20 |
+| 54 | [Precious](https://open.spotify.com/track/4PpurS5c7TgFOSAbw0Z6X2) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 3:20 |
+| 55 | [Don't Talk To Me](https://open.spotify.com/track/1agb9NWLC7o65Sl30INBJ6) | [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Don't Talk To Me](https://open.spotify.com/album/1MlsNdlcCbVP4anT8M1GPO) | 3:40 |
 | 56 | [Stranger](https://open.spotify.com/track/5cPJGZ6Xi1UutxSHgFx7LK) | [Iiris](https://open.spotify.com/artist/3Y10Y3MuSy0W1ACvSQwTJv) | [Stranger](https://open.spotify.com/album/3monx2C6vmKX8nro8c7NIS) | 4:22 |
 | 57 | [Sentence](https://open.spotify.com/track/4tGtEGg2A20DKXGMZFpf0F) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:23 |
 | 58 | [Audio](https://open.spotify.com/track/2C4kl8zvhUwmdlofcRcbH3) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Audio](https://open.spotify.com/album/1MpGcRFAoTJi1e5fCEBoAd) | 3:31 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 81 | [They’re So Smart](https://open.spotify.com/track/5fZJZbIM6GWLmPZG2EcXxs) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 2:29 |
 | 82 | [Damaged III](https://open.spotify.com/track/5pJEHO4Yi6IZyIqNF003Ui) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 1:36 |
 
-Snapshot ID: `AcPvqgAAAADmeORN1HgcU5AuEJiksEyX`
+Snapshot ID: `AcP1SgAAAAA/6P/gT1+a7xHw7S9AcA3i`

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 72472,
+  "num_followers": 72520,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aelhAAAAAADLwwi4/tSqvGQQGrI6hO1K",
+  "snapshot_id": "aeqygAAAAADf4io443SArRpfgj/aFJfR",
   "tracks": [
     {
       "added_at": null,
@@ -259,26 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LO QUE ME FALTA POR LLORAR",
-        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 167954,
-      "name": "mi droga",
-      "url": "https://open.spotify.com/track/1l9X3eyb8ZV4MQvUubYtFF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Redenci\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 171469,
       "name": "Maracuy\u00e1",
       "url": "https://open.spotify.com/track/2YGRNMT1It2e10udkU1GLM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LO QUE ME FALTA POR LLORAR",
+        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 167954,
+      "name": "mi droga",
+      "url": "https://open.spotify.com/track/1l9X3eyb8ZV4MQvUubYtFF"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 170162,
-      "name": "MALDITO INFIERNO",
-      "url": "https://open.spotify.com/track/1uYLOi3hMy6eMBY2SCCYRT"
+      "duration_ms": 185376,
+      "name": "TRANKIS MORRIS",
+      "url": "https://open.spotify.com/track/7DXIduhUXVKM4CjIdzHnIw"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 185376,
-      "name": "TRANKIS MORRIS",
-      "url": "https://open.spotify.com/track/7DXIduhUXVKM4CjIdzHnIw"
+      "duration_ms": 170162,
+      "name": "MALDITO INFIERNO",
+      "url": "https://open.spotify.com/track/1uYLOi3hMy6eMBY2SCCYRT"
     },
     {
       "added_at": null,

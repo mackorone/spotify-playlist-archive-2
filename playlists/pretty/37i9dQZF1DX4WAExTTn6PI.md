@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover:  Fancy Hagood
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,703 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,718 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Mellow War](https://open.spotify.com/track/0vWEwmCWLZ8QL3tPL7raD3) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Mellow War](https://open.spotify.com/album/2Fn1niT1bYVa6Mfd4b5jwC) | 4:07 |
 | 100 | [Time Well Spent For A Man \(feat\. Charles Wesley Godwin\)](https://open.spotify.com/track/60WEp7uV5ib2pyijNm60s4) | [Jesse Daniel](https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY), [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Son of the San Lorenzo](https://open.spotify.com/album/0KTfVCtu9uZM8aDtzexZp5) | 3:37 |
 
-Snapshot ID: `AAAAAB7ttW6ThO0PcIMZF2xXUqRGLDop`
+Snapshot ID: `AAAAAEr/49IMEJWIPK62JsueJJwe9B6W`

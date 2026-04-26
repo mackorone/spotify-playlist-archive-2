@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: La Fuente
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,134 likes - 99 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,150 likes - 99 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 24 | [Bon Appetit](https://open.spotify.com/track/5bDILfPm7XmVmR9k19jc2K) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Bon Appetit](https://open.spotify.com/album/5hBvGREEjmTO69cEzHs4KD) | 2:59 |
 | 25 | [SHADES OF BLUE](https://open.spotify.com/track/6Pr51Pbeeu9PXskLUBfaBf) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [CTRL ESCAPE](https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e) | 3:23 |
 | 26 | [ifidiewouldyoucry](https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [ifidiewouldyoucry](https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV) | 2:55 |
-| 27 | [We Belong Together](https://open.spotify.com/track/2ZcNxLhhGSe4Cgu3orfVlY) | [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL), [Jeroen Maas](https://open.spotify.com/artist/19NxCoZmB8lMDPmXaFUt6a) | [We Belong Together](https://open.spotify.com/album/577qDvm7pycdOR0bilvvx2) | 3:02 |
+| 27 | [We Belong Together](https://open.spotify.com/track/2ZcNxLhhGSe4Cgu3orfVlY) | [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL) | [We Belong Together](https://open.spotify.com/album/577qDvm7pycdOR0bilvvx2) | 3:02 |
 | 28 | [Impossible](https://open.spotify.com/track/64rrzPOGT6mu1928QXogfu) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Impossible](https://open.spotify.com/album/2NYFG63e3WzinNocpndoSM) | 2:53 |
 | 29 | [Echoes](https://open.spotify.com/track/5oh6FVaL2VQYqdXglEI59T) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Saksham](https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF), [sadHAPPY](https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3) | [Echoes](https://open.spotify.com/album/6Rqbqt40cj7E7FUO9z7XS8) | 3:39 |
 | 30 | [Catch](https://open.spotify.com/track/2exOn0XZdcbLhZoOFB3zvB) | [Kosheen](https://open.spotify.com/artist/5squ8uM6fhMQY71t9xobJC), [KASIA](https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV) | [Catch](https://open.spotify.com/album/4wudeJJpmkcQiIGRrBcf5v) | 2:58 |

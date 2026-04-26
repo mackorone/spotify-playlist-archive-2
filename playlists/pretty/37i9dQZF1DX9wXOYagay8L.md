@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: Makhadzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,300 likes - 99 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,358 likes - 99 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 98 | [Eyami](https://open.spotify.com/track/5Jf3hmkf8WKKqxM4vM8rux) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Eyami](https://open.spotify.com/album/1RiHVe3VXFIC1xIQ8VJPUa) | 4:20 |
 | 99 | [All My Life](https://open.spotify.com/track/6eyJuobFFGXLAOOkxrIdSV) | [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr) | [All My Life](https://open.spotify.com/album/6Ik9e7LZgsK0az1tzEVEG0) | 4:26 |
 
-Snapshot ID: `AAAAALrX9peemdJcT+qBQwoaRJyCfOA0`
+Snapshot ID: `AAAAAIDyJOc9ZxeHpYZyfM8KIxbAft7M`

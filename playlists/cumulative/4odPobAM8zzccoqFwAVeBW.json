@@ -7347,6 +7347,24 @@
     },
     {
       "album": {
+        "name": "\u5947\u3057\u304f\u71c3\u3048\u308b",
+        "url": "https://open.spotify.com/album/2tDPI1BXsufhRRwzphFyCb"
+      },
+      "artists": [
+        {
+          "name": "Raw Distractions",
+          "url": "https://open.spotify.com/artist/6QWjW6UwgwYyN9nvv3tQaP"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150654,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/3dELI6nOgYObtTlpR63a5Q"
+    },
+    {
+      "album": {
         "name": "Militants (The Rocket, Holloway) / Into The Mystic",
         "url": "https://open.spotify.com/album/4Zx1u1uTnuuLnvVrIcVish"
       },
@@ -13822,24 +13840,6 @@
       "duration_ms": 308210,
       "name": "\u5782\u6d8e Drooled",
       "url": "https://open.spotify.com/track/66h59itLhXCfDGZ4N8FbXp"
-    },
-    {
-      "album": {
-        "name": "\u5947\u3057\u304f\u71c3\u3048\u308b",
-        "url": "https://open.spotify.com/album/2tDPI1BXsufhRRwzphFyCb"
-      },
-      "artists": [
-        {
-          "name": "Raw Distractions",
-          "url": "https://open.spotify.com/artist/6QWjW6UwgwYyN9nvv3tQaP"
-        }
-      ],
-      "date_added": "2026-04-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 150654,
-      "name": "\u7acb\u811a",
-      "url": "https://open.spotify.com/track/3dELI6nOgYObtTlpR63a5Q"
     }
   ],
   "url": "https://open.spotify.com/playlist/4odPobAM8zzccoqFwAVeBW"

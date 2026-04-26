@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Boombox Cartel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,652 likes - 90 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,672 likes - 90 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 89 | [Gózalo \(with Deorro\)](https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Gózalo \(with Deorro\)](https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy) | 1:54 |
 | 90 | [Cartagena \- Sylvan Esso Edit](https://open.spotify.com/track/3iBO3QO60GTlYDyQcfh9w4) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL), [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Cartagena \(Sylvan Esso Edit\)](https://open.spotify.com/album/3FVCEyoTcrA9eraksVRgC8) | 3:27 |
 
-Snapshot ID: `AAAAAOWkQKrHtjXY0s8GLh9valAFopyv`
+Snapshot ID: `AAAAAP9kTFskmADNYghRuYGBg55/K2ek`

@@ -879,6 +879,24 @@
     },
     {
       "album": {
+        "name": "Corazon Cerrado",
+        "url": "https://open.spotify.com/album/0DQYk5RtJCS1McNRrELY9j"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194380,
+      "name": "Corazon Cerrado",
+      "url": "https://open.spotify.com/track/1tj83Rq985nZNdvTFhYL0N"
+    },
+    {
+      "album": {
         "name": "Alex D'castro, a Mis Amigos ...Lo Mejor",
         "url": "https://open.spotify.com/album/4XwBmjJCCVYcarPMx2iYa0"
       },
@@ -1684,7 +1702,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 172800,
       "name": "Estar\u00e9",
       "url": "https://open.spotify.com/track/6kW2XC8ScmC9FRdtfXyEZb"
@@ -3743,6 +3761,28 @@
     },
     {
       "album": {
+        "name": "Quien Vive",
+        "url": "https://open.spotify.com/album/03KtAeAhimNGguuhEljubt"
+      },
+      "artists": [
+        {
+          "name": "Sons of Thunder",
+          "url": "https://open.spotify.com/artist/0a9fVatpYjNS2P9W8r4feR"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "Quien Vive",
+      "url": "https://open.spotify.com/track/1yAvWGZuqaK6nbbfLi38cn"
+    },
+    {
+      "album": {
         "name": "Mi Religi\u00f3n",
         "url": "https://open.spotify.com/album/3B51aJVMc4N4wUoYzC1JRb"
       },
@@ -4270,7 +4310,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 163839,
       "name": "Todito",
       "url": "https://open.spotify.com/track/5KxqJXclcIpKbMRa9XyQRG"

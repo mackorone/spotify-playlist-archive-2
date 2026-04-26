@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,069 likes - 115 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,142 likes - 115 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 114 | [Progress](https://open.spotify.com/track/0AuM6Fku5nWZ0CM21YEzty) | [Booker T\. Jones](https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U), [Yim Yames](https://open.spotify.com/artist/3xYTLiIPIJU3KPFB8tqFSd) | [The Road From Memphis \(Deluxe Edition\)](https://open.spotify.com/album/6IoxOcWv5ugc0W08VdeRDY) | 3:19 |
 | 115 | [Somebody New](https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie Sings \(45th Anniversary Edition\)](https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A) | 2:56 |
 
-Snapshot ID: `AAAAAF6DXGNSoGZd7LhdJpehkz5l4aKR`
+Snapshot ID: `AAAAAPooXA/zUZtQX7LMIsDkX0jTNN1m`

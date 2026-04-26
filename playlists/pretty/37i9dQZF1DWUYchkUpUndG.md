@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Rehmahz
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,752 likes - 97 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,798 likes - 97 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

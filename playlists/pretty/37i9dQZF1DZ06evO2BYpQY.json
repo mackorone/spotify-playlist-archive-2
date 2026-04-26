@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 81100,
+  "num_followers": 81107,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aelhAAAAAADUYUFjlgfTacPoyRjeSMh+",
+  "snapshot_id": "aeqygAAAAADQRVNFdBhbCPZySRgTEwDY",
   "tracks": [
     {
       "added_at": null,
@@ -167,22 +167,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Chieftains",
-        "url": "https://open.spotify.com/album/5Wmh21wtNNPzv7ZxB9Vi8G"
+        "name": "Thank You for Hearing Me",
+        "url": "https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG"
       },
       "artists": [
-        {
-          "name": "The Chieftains",
-          "url": "https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL"
-        },
         {
           "name": "Sin\u00e9ad O'Connor",
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 320773,
-      "name": "The Foggy Dew (with Sin\u00e9ad O'Connor)",
-      "url": "https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3"
+      "duration_ms": 306626,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/6SrPnpNVEBtA29I6sYyEtQ"
     },
     {
       "added_at": null,
@@ -239,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You for Hearing Me",
-        "url": "https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG"
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
       },
       "artists": [
         {
@@ -248,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 306626,
-      "name": "House of the Rising Sun",
-      "url": "https://open.spotify.com/track/6SrPnpNVEBtA29I6sYyEtQ"
+      "duration_ms": 190960,
+      "name": "In This Heart",
+      "url": "https://open.spotify.com/track/4o92jEL52ww0OAPYgWWwW5"
     },
     {
       "added_at": null,
@@ -271,18 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+        "name": "The Essential Chieftains",
+        "url": "https://open.spotify.com/album/5Wmh21wtNNPzv7ZxB9Vi8G"
       },
       "artists": [
+        {
+          "name": "The Chieftains",
+          "url": "https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL"
+        },
         {
           "name": "Sin\u00e9ad O'Connor",
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 190960,
-      "name": "In This Heart",
-      "url": "https://open.spotify.com/track/4o92jEL52ww0OAPYgWWwW5"
+      "duration_ms": 320773,
+      "name": "The Foggy Dew (with Sin\u00e9ad O'Connor)",
+      "url": "https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3"
     },
     {
       "added_at": null,
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 367973,
-      "name": "'Til I Whisper U Something",
-      "url": "https://open.spotify.com/track/3fythc7lktmU8X0mHNC61K"
+      "duration_ms": 179266,
+      "name": "Daddy I'm Fine",
+      "url": "https://open.spotify.com/track/2pXbqQOVaI70hfUtflWf7c"
     },
     {
       "added_at": null,
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 179266,
-      "name": "Daddy I'm Fine",
-      "url": "https://open.spotify.com/track/2pXbqQOVaI70hfUtflWf7c"
+      "duration_ms": 367973,
+      "name": "'Til I Whisper U Something",
+      "url": "https://open.spotify.com/track/3fythc7lktmU8X0mHNC61K"
     }
   ],
   "unique_name": "This Is Sin\u00e9ad O'Connor",

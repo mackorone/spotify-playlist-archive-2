@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 41247,
+  "num_followers": 41246,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aelhAAAAAAAQqnuNeLRq0mI1KzY0Mrds",
+  "snapshot_id": "aeqygAAAAAB+mZokfxlZViqCh9wE0A9m",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u7d76\u4f53\u7d76\u547d",
-        "url": "https://open.spotify.com/album/49DU4EI3EfLcmY7iVufP4O"
+        "name": "Ghost of a smile",
+        "url": "https://open.spotify.com/album/0yVX1A6ibhmEpwtT0lLUJS"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 262705,
-      "name": "\u7d76\u4f53\u7d76\u547d",
-      "url": "https://open.spotify.com/track/62yZ21fqY3DIxXxV0vBdqP"
+      "duration_ms": 324066,
+      "name": "Ghost of a smile",
+      "url": "https://open.spotify.com/track/6XgQaL0b9XdmQc66hR8Zpw"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghost of a smile",
-        "url": "https://open.spotify.com/album/0yVX1A6ibhmEpwtT0lLUJS"
+        "name": "\u7d76\u4f53\u7d76\u547d",
+        "url": "https://open.spotify.com/album/49DU4EI3EfLcmY7iVufP4O"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 324066,
-      "name": "Ghost of a smile",
-      "url": "https://open.spotify.com/track/6XgQaL0b9XdmQc66hR8Zpw"
+      "duration_ms": 262705,
+      "name": "\u7d76\u4f53\u7d76\u547d",
+      "url": "https://open.spotify.com/track/62yZ21fqY3DIxXxV0vBdqP"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fallen-TV edit-",
-        "url": "https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 89990,
-      "name": "Fallen-TV edit-",
-      "url": "https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u54b2\u304b\u305b\u3084\u54b2\u304b\u305b",
         "url": "https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 143946,
       "name": "London Bridge is falling down",
       "url": "https://open.spotify.com/track/5x8Pla4awAAvyfmJG4Se2R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fallen-TV edit-",
+        "url": "https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 89990,
+      "name": "Fallen-TV edit-",
+      "url": "https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN"
     },
     {
       "added_at": null,

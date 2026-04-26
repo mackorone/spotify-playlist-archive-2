@@ -2939,6 +2939,24 @@
     },
     {
       "album": {
+        "name": "Got Your Gun",
+        "url": "https://open.spotify.com/album/556dFgma1H1MaxXbXDzAzx"
+      },
+      "artists": [
+        {
+          "name": "Revenant Sun",
+          "url": "https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230671,
+      "name": "Got Your Gun",
+      "url": "https://open.spotify.com/track/6YlLDFUpYCUxvjf6zeehMh"
+    },
+    {
+      "album": {
         "name": "Green Giants March",
         "url": "https://open.spotify.com/album/0ZXdBFVaPAfzZNrleHHvIM"
       },
@@ -4541,7 +4559,7 @@
         },
         {
           "name": "Mason Jay",
-          "url": "https://open.spotify.com/artist/1Zw5coqD6AmGDFp5eLW6Cl"
+          "url": "https://open.spotify.com/artist/2XaRcu373bqmThIbyXmlml"
         },
         {
           "name": "Tahlia Eve",
@@ -4554,6 +4572,24 @@
       "duration_ms": 289408,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/70VhhKKdIEEudf6DQV6U5v"
+    },
+    {
+      "album": {
+        "name": "Montague",
+        "url": "https://open.spotify.com/album/2MwRWgs9OwTHvay6WFbP8V"
+      },
+      "artists": [
+        {
+          "name": "New Juliet",
+          "url": "https://open.spotify.com/artist/7FMVmMH2AbtqrllpIhgi2K"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "Montague",
+      "url": "https://open.spotify.com/track/2RkLcTEFOMLxseVkpvNbNi"
     },
     {
       "album": {

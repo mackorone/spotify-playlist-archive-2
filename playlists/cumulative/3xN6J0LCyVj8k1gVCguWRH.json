@@ -12045,6 +12045,24 @@
     },
     {
       "album": {
+        "name": "Golden Hour Vibes",
+        "url": "https://open.spotify.com/album/515VzS6L9V8FmsFoCWzOkH"
+      },
+      "artists": [
+        {
+          "name": "OffSignal",
+          "url": "https://open.spotify.com/artist/0Uh1nPy2bdwidsnoqBCvBx"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133003,
+      "name": "Blue Lagoon",
+      "url": "https://open.spotify.com/track/6NaySB0u3PydVHPGSHjuKI"
+    },
+    {
+      "album": {
         "name": "Blue Lights",
         "url": "https://open.spotify.com/album/59qauSBW1rvf2YN2AcNiZa"
       },
@@ -39758,12 +39776,12 @@
           "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         },
         {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        },
-        {
           "name": "Joni Mitchell",
           "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
         }
       ],
       "date_added": "2023-07-20",
@@ -49254,6 +49272,24 @@
       "duration_ms": 198000,
       "name": "In The Mood",
       "url": "https://open.spotify.com/track/4oGvFg5XEGVoyJ4vMyy1db"
+    },
+    {
+      "album": {
+        "name": "55",
+        "url": "https://open.spotify.com/album/7yRQ2SnTXKY7xQoUUkEq25"
+      },
+      "artists": [
+        {
+          "name": "CAPRICE LE MARAIS",
+          "url": "https://open.spotify.com/artist/3jIBhE36DzBgYb0OY4ZwEC"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202218,
+      "name": "In The Mood",
+      "url": "https://open.spotify.com/track/21LlQUp6O2cVKPyPkffoHx"
     },
     {
       "album": {
@@ -80239,6 +80275,24 @@
     },
     {
       "album": {
+        "name": "Revueltos",
+        "url": "https://open.spotify.com/album/0C6KFRqb93y4lRe9SbCRcE"
+      },
+      "artists": [
+        {
+          "name": "Kanela",
+          "url": "https://open.spotify.com/artist/2IqxZH8QxR7KJ0C6JH5i39"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203682,
+      "name": "Revueltos",
+      "url": "https://open.spotify.com/track/7sZO4xNfdPz3fGVpPKxGVz"
+    },
+    {
+      "album": {
         "name": "REWIND",
         "url": "https://open.spotify.com/album/4AXhsOA6HHPuVGReqZjI3G"
       },
@@ -85958,7 +86012,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-26",
+      "date_removed": null,
       "duration_ms": 172153,
       "name": "Shut Up! - Remix",
       "url": "https://open.spotify.com/track/2qgRIUlMjPPs7ubALkAyJu"
@@ -92909,6 +92963,28 @@
     },
     {
       "album": {
+        "name": "Sunset On My Road (Mayhem Remix)",
+        "url": "https://open.spotify.com/album/3MdDB8ma1ZUOFuqwENmbyC"
+      },
+      "artists": [
+        {
+          "name": "Brian Givance",
+          "url": "https://open.spotify.com/artist/3HROnCes84OXviAtMzAQqT"
+        },
+        {
+          "name": "AF Mayhem",
+          "url": "https://open.spotify.com/artist/3PxLPhtfVK0l6gFiiCMqgs"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261752,
+      "name": "Sunset On My Road - Mayhem Remix",
+      "url": "https://open.spotify.com/track/20ZaptyXMheLiilhGgqATs"
+    },
+    {
+      "album": {
         "name": "Sunset Pier",
         "url": "https://open.spotify.com/album/5GOg0g5RCu0hvb4sKiFG6W"
       },
@@ -97538,6 +97614,24 @@
       "duration_ms": 77538,
       "name": "The Optimist's Chant",
       "url": "https://open.spotify.com/track/2jgYe9VQT3cm9LCVRXJzYh"
+    },
+    {
+      "album": {
+        "name": "Yesterday's Tomorrow",
+        "url": "https://open.spotify.com/album/7bgPdSWBvxICZwxSip482k"
+      },
+      "artists": [
+        {
+          "name": "The Lizard Mixture",
+          "url": "https://open.spotify.com/artist/3qisEBqBLwBJZsl8Bdxqud"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257702,
+      "name": "The Other One",
+      "url": "https://open.spotify.com/track/29iYFQW0uVTpWCVf3x7m2Y"
     },
     {
       "album": {
@@ -111540,6 +111634,24 @@
       "duration_ms": 206203,
       "name": "Yellow Flowers",
       "url": "https://open.spotify.com/track/1VV57hof4nzqXuyrGY7yEC"
+    },
+    {
+      "album": {
+        "name": "Yes Please",
+        "url": "https://open.spotify.com/album/4Mv8FpnF1WGI3jk4haw6Ut"
+      },
+      "artists": [
+        {
+          "name": "Jordan Power",
+          "url": "https://open.spotify.com/artist/12uvc7Jyw3SUOpFtnKOUkX"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Yes Please",
+      "url": "https://open.spotify.com/track/2MC6gPftwgnxTndiSiTymh"
     },
     {
       "album": {

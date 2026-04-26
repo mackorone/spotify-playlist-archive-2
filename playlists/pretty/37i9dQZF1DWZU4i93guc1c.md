@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 
 > хіти та новинки українського андерґраунду\. обкладинка: пропаща сила
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,717 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,743 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 13 | [fata Morgana](https://open.spotify.com/track/2rE7qaovc7l4a423BH3bAQ) | [Nesamovyta](https://open.spotify.com/artist/2QDQwTdMmYzoJ4N0taK2Bn) | [fata Morgana](https://open.spotify.com/album/5OiWvwpnpo5H5nlDOdI85s) | 3:06 |
 | 14 | [Тільки Ти](https://open.spotify.com/track/29ueRzbINIXfcXrkKkzd7b) | [NOTA CLÜB](https://open.spotify.com/artist/3nQCmmDVa9mwuzsZZcj7Ez), [Seba Korecky](https://open.spotify.com/artist/5LnreYK6KFwXOBG6QnBPeR) | [Тільки Ти](https://open.spotify.com/album/33qWxCQhN1VFCgRv1aWAxu) | 2:24 |
 | 15 | [Місто](https://open.spotify.com/track/0VtqPfb1Ln1AIKSc8jamcU) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Місто](https://open.spotify.com/album/3PLSlPuOywVMQB3gr5xnmM) | 4:09 |
-| 16 | [Килим](https://open.spotify.com/track/7HFGL5iqsNM87PmvE6SbeA) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Килим](https://open.spotify.com/album/6jyJTIdgjzgyPltPQYnyux) | 3:04 |
+| 16 | [Килим](https://open.spotify.com/track/7HFGL5iqsNM87PmvE6SbeA) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Килим](https://open.spotify.com/album/6jyJTIdgjzgyPltPQYnyux) | 3:03 |
 | 17 | [Секс за містом](https://open.spotify.com/track/5zPHBlvSFtCylMC3nweTEc) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [Секс за містом](https://open.spotify.com/album/1hbOTCcu0q6tvBUmw0xqjD) | 3:49 |
 | 18 | [Blue Light](https://open.spotify.com/track/1wLB14luY2RU9H8aGVNNw8) | [Cepasa](https://open.spotify.com/artist/5fJEnhCIEvK6eevDCVJ1k1) | [Blue Light](https://open.spotify.com/album/6ld4iLzSWt2QiEqvz03OMX) | 3:08 |
 | 19 | [Ми тут щоб жити](https://open.spotify.com/track/5BeJImIcn815YAHA9Smt4z) | [Третя Штурмова](https://open.spotify.com/artist/5PchdBWAnESzmi6rBbxq4M) | [Ми тут щоб жити](https://open.spotify.com/album/5i6i8MC75FR7ZofwqWczmf) | 2:40 |

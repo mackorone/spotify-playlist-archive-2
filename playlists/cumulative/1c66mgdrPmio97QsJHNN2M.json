@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "Abaddon",
+        "url": "https://open.spotify.com/album/4qFzmjuuTKUKtsLfwlzli6"
+      },
+      "artists": [
+        {
+          "name": "Peak Level",
+          "url": "https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276521,
+      "name": "Abaddon",
+      "url": "https://open.spotify.com/track/06sblMoAO7CaPcIAcamm9B"
+    },
+    {
+      "album": {
         "name": "Above You",
         "url": "https://open.spotify.com/album/1SYMomtMquTApRLUViqOVo"
       },
@@ -3334,7 +3352,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 138234,
       "name": "blind",
       "url": "https://open.spotify.com/track/6qkBwWOC6dElnFEfUYWuXp"
@@ -3930,7 +3948,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 180585,
       "name": "Broken Little Pieces - Demo",
       "url": "https://open.spotify.com/track/681DnGwxY036zqOAtAuRMb"
@@ -6190,6 +6208,24 @@
       "duration_ms": 201216,
       "name": "Darling Where Have You Been",
       "url": "https://open.spotify.com/track/0JOEKhCY9fmuNukbFHji2u"
+    },
+    {
+      "album": {
+        "name": "Dart SZN",
+        "url": "https://open.spotify.com/album/0YP3kUt0lNnwdLhmVCsv9k"
+      },
+      "artists": [
+        {
+          "name": "Jason Jarrett",
+          "url": "https://open.spotify.com/artist/4rgw61pW4Elbxf14ssmWWO"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284279,
+      "name": "Dart SZN",
+      "url": "https://open.spotify.com/track/7aG8m4XJbIzKPlxYnQzUx1"
     },
     {
       "album": {
@@ -8506,7 +8542,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 193333,
       "name": "Even Though It Hurts Me",
       "url": "https://open.spotify.com/track/3zIU9iCKhqTKF5JrNlAB1O"
@@ -8834,7 +8870,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 218567,
       "name": "Falling",
       "url": "https://open.spotify.com/track/4pJRkuQlQxauSnp9Fmq1By"
@@ -11615,6 +11651,28 @@
     },
     {
       "album": {
+        "name": "Heal You Slowly",
+        "url": "https://open.spotify.com/album/4TAKqnQi5mDwwtVreck7Hy"
+      },
+      "artists": [
+        {
+          "name": "D I N I O",
+          "url": "https://open.spotify.com/artist/4yi6K2AXTjTVR2NsH54AUR"
+        },
+        {
+          "name": "Ethan Rivers",
+          "url": "https://open.spotify.com/artist/6iiBUBFPEsboTOdqnSGMDC"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181855,
+      "name": "Heal You Slowly",
+      "url": "https://open.spotify.com/track/6JbIAdldJegtntaoPAKNbu"
+    },
+    {
+      "album": {
         "name": "Heartbreak Saved My Life",
         "url": "https://open.spotify.com/album/0LNXda2B2cTyfdsyr5Ss13"
       },
@@ -11824,7 +11882,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 186923,
       "name": "Hide Away",
       "url": "https://open.spotify.com/track/55fyowkhO89KLDit9n8sLA"
@@ -13973,6 +14031,24 @@
     },
     {
       "album": {
+        "name": "Innocence for Fire",
+        "url": "https://open.spotify.com/album/61fC2PFA3kL9aPpIAwjuNz"
+      },
+      "artists": [
+        {
+          "name": "Fanny Alexandra",
+          "url": "https://open.spotify.com/artist/0OBgzNzxjVAGrqGjHnXwGa"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256359,
+      "name": "Innocence for Fire",
+      "url": "https://open.spotify.com/track/2qBVVbDshhTqLYVQULnDse"
+    },
+    {
+      "album": {
         "name": "Insecure",
         "url": "https://open.spotify.com/album/1IPqMjzZWx5qUDUDHEAYl8"
       },
@@ -14162,6 +14238,32 @@
       "duration_ms": 178005,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/5MLCB1xPMXwZWS2EGG57Bw"
+    },
+    {
+      "album": {
+        "name": "\u00c9 S\u00e9rio!",
+        "url": "https://open.spotify.com/album/4Sg4kuMbSUQPa1qbd6zrQx"
+      },
+      "artists": [
+        {
+          "name": "Cust\u00f3dio Rezende",
+          "url": "https://open.spotify.com/artist/5HIRp9osuBwibxJi1ovlRQ"
+        },
+        {
+          "name": "Natan Gomes",
+          "url": "https://open.spotify.com/artist/5pBWviF6S5gwkkCQT2eGRB"
+        },
+        {
+          "name": "David Gomes",
+          "url": "https://open.spotify.com/artist/03yOTG0q6l75UjbyypIzTO"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320317,
+      "name": "Intervalo",
+      "url": "https://open.spotify.com/track/5rPljwoK2cEfDA18HLga47"
     },
     {
       "album": {
@@ -14757,6 +14859,24 @@
     },
     {
       "album": {
+        "name": "Keep My Calm",
+        "url": "https://open.spotify.com/album/3byjioBGuhlChEInhKT1BG"
+      },
+      "artists": [
+        {
+          "name": "Eva Leandra",
+          "url": "https://open.spotify.com/artist/2PBBrjZW0gf4h4lSJ92ZC0"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209730,
+      "name": "Keep My Calm",
+      "url": "https://open.spotify.com/track/1Xdwp1jKS8CMVh3Xy2hZsf"
+    },
+    {
+      "album": {
         "name": "Keep Thinking",
         "url": "https://open.spotify.com/album/0lVl0LYln3U5IdMjutQTCO"
       },
@@ -15152,7 +15272,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 208021,
       "name": "Landlord",
       "url": "https://open.spotify.com/track/2CrnNewnn0MGZJlXULuC8S"
@@ -18171,6 +18291,36 @@
     },
     {
       "album": {
+        "name": "Crep\u00fasculo",
+        "url": "https://open.spotify.com/album/1tMb3XTObtbvMB5nB6x5Gg"
+      },
+      "artists": [
+        {
+          "name": "Cust\u00f3dio Rezende",
+          "url": "https://open.spotify.com/artist/5HIRp9osuBwibxJi1ovlRQ"
+        },
+        {
+          "name": "Robson Albuquerque",
+          "url": "https://open.spotify.com/artist/4ONiEPqFksaJ3M96CSWxIq"
+        },
+        {
+          "name": "Luiz Meira",
+          "url": "https://open.spotify.com/artist/1LJDaBPtKMDuOMC1u4rv64"
+        },
+        {
+          "name": "Filipe Moura",
+          "url": "https://open.spotify.com/artist/1e9EhxWXrgtOHn8SSfndF0"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309328,
+      "name": "Mova a Mente",
+      "url": "https://open.spotify.com/track/1nB3k1wKYw132jelB3vXHZ"
+    },
+    {
+      "album": {
         "name": "Move Me Still",
         "url": "https://open.spotify.com/album/50caFXZgvmbR8UxLVBU9UP"
       },
@@ -18362,7 +18512,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 160000,
       "name": "Music Dimension",
       "url": "https://open.spotify.com/track/1H3Q1svFhPU3ZuatcRm0CG"
@@ -20875,6 +21025,24 @@
     },
     {
       "album": {
+        "name": "Palabras Pendientes",
+        "url": "https://open.spotify.com/album/51Kru7QORQaHoatRgXMYMM"
+      },
+      "artists": [
+        {
+          "name": "Yoriell",
+          "url": "https://open.spotify.com/artist/6fyMge7UGAurHl7cWcH3Hx"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170746,
+      "name": "Palabras Pendientes",
+      "url": "https://open.spotify.com/track/4oWJOrdcJuVIADxGciov99"
+    },
+    {
+      "album": {
         "name": "Hello Everyone, How Are You?",
         "url": "https://open.spotify.com/album/09JQAkeCBSkbroiQIFjw3K"
       },
@@ -21048,7 +21216,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 197926,
       "name": "Part Time Lovers",
       "url": "https://open.spotify.com/track/4JkJ6hYTDRhYOu093Inpf7"
@@ -22658,7 +22826,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 192139,
       "name": "Reason We All Share",
       "url": "https://open.spotify.com/track/5jvrlhTDejDARcAQfAmWT8"
@@ -24368,6 +24536,24 @@
       "duration_ms": 214399,
       "name": "She is Remembered (Euthanasia)",
       "url": "https://open.spotify.com/track/6pgRLfrRwoNw1SlU5BiGVk"
+    },
+    {
+      "album": {
+        "name": "She Wants To Walk Away",
+        "url": "https://open.spotify.com/album/2j7luFA0VH7aMbwF70JHCk"
+      },
+      "artists": [
+        {
+          "name": "Kevin ISM",
+          "url": "https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194960,
+      "name": "She Wants To Walk Away (Distribution)",
+      "url": "https://open.spotify.com/track/4bzxN8X4P0vLf60nNOxeRn"
     },
     {
       "album": {
@@ -29426,7 +29612,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 240834,
       "name": "Turn to Him",
       "url": "https://open.spotify.com/track/17j03Zl2MGx8lbPo16aYAJ"
@@ -29466,6 +29652,24 @@
       "duration_ms": 188928,
       "name": "U + I",
       "url": "https://open.spotify.com/track/2AydFARM4UabJVmzxp7Yei"
+    },
+    {
+      "album": {
+        "name": "Una m\u00e1s por favor",
+        "url": "https://open.spotify.com/album/128kKRfIR9tQ5Csapx65hy"
+      },
+      "artists": [
+        {
+          "name": "Merla",
+          "url": "https://open.spotify.com/artist/1GgYEBhQle66sXg6jOdA8K"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123080,
+      "name": "Una m\u00e1s por favor",
+      "url": "https://open.spotify.com/track/7huJfPcCc5dJhAjiSUfszw"
     },
     {
       "album": {
@@ -31364,6 +31568,24 @@
       "duration_ms": 119861,
       "name": "White Light",
       "url": "https://open.spotify.com/track/6Dw08SAseUFYXXeEN7DNsC"
+    },
+    {
+      "album": {
+        "name": "Who Am I",
+        "url": "https://open.spotify.com/album/4Rh4NMQMTNTCt9esTYjPa1"
+      },
+      "artists": [
+        {
+          "name": "Irfad",
+          "url": "https://open.spotify.com/artist/2bdTySHQu8orEocLZwMy89"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185624,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/5PiordRk3lzvWF6LncO7OH"
     },
     {
       "album": {

@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "Friend Remixes",
+        "url": "https://open.spotify.com/album/0ttON9DNtdujNQ8qcnIMMS"
+      },
+      "artists": [
+        {
+          "name": "james K",
+          "url": "https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf"
+        },
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313129,
+      "name": "Collapse (falling forward blissfully all the time) - Arushi Jain Remix",
+      "url": "https://open.spotify.com/track/2MO4UiXSVt3Ds2w3yRWG2J"
+    },
+    {
+      "album": {
         "name": "Under the Lilac Sky",
         "url": "https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj"
       },

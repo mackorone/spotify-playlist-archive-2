@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-4,007 songs - 9 day 0 hr 15 min
+4,008 songs - 9 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,8 +337,8 @@
 | [Ayer Hable Con Dios](https://open.spotify.com/track/4k0HONHVX9U15ZKkPHmfYv) | [Corridos del Rey](https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A) | [Ayer Hable Con Dios](https://open.spotify.com/album/5M1e5Ya2CtNhIkPaj2q0Ev) | 2:23 | 2026-04-18 | 2026-04-22 |
 | [Ayer Hable Con Dios](https://open.spotify.com/track/6gOvLsPRoL5ichiApvwDoU) | [Corridos del Rey](https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A) | [Ayer Hable Con Dios](https://open.spotify.com/album/4LCH0Wp0XgSGYJ05cpm52Z) | 2:23 | 2026-03-24 | 2026-03-26 |
 | [Ayer Hable Con Dios](https://open.spotify.com/track/51pJPhMqcdp1F0vlCYzNnd) | [Corridos del Rey](https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A) | [Ayer Hable Con Dios](https://open.spotify.com/album/51K6eFEIoGl17rASundvr6) | 2:23 | 2026-04-21 | 2026-04-23 |
-| [Ayer Hable Con Dios](https://open.spotify.com/track/7yWF9ZtqzTKsxKUPVg4efu) | [Corridos del Rey](https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A) | [Ayer Hable Con Dios](https://open.spotify.com/album/391uepLMNmRPRUcsVlhj3j) | 2:23 | 2026-03-25 | 2026-04-19 |
-| [Ayer Hable Con Dios](https://open.spotify.com/track/2FhjeGsa4U2SmLXLfOyq1h) | [Corridos del Rey](https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A) | [Ayer Hable Con Dios](https://open.spotify.com/album/448OgPybePWc5GDo9jIAmS) | 2:23 | 2026-04-22 |  |
+| [Ayer Hable Con Dios](https://open.spotify.com/track/7yWF9ZtqzTKsxKUPVg4efu) | [Corridos del Rey](https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A) | [Ayer Hable Con Dios](https://open.spotify.com/album/391uepLMNmRPRUcsVlhj3j) | 2:23 | 2026-03-25 |  |
+| [Ayer Hable Con Dios](https://open.spotify.com/track/2FhjeGsa4U2SmLXLfOyq1h) | [Corridos del Rey](https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A) | [Ayer Hable Con Dios](https://open.spotify.com/album/448OgPybePWc5GDo9jIAmS) | 2:23 | 2026-04-22 | 2026-04-26 |
 | [Ayer Hable Con Dios](https://open.spotify.com/track/59JHSgCS2nbh0GqusOLQjS) | [Corridos del Rey](https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A) | [Ayer Hable Con Dios](https://open.spotify.com/album/3kzwAO9Ra7CGc0Hn7Eu7TV) | 2:23 | 2026-04-01 | 2026-04-03 |
 | [Ayer Te Soñé](https://open.spotify.com/track/1QsRXToHGvathPoMPWnwaN) | [Son Rancheras de Amor](https://open.spotify.com/artist/4af1Rl1eSf3fEw025ixeQz) | [Son Rancheras de Amor](https://open.spotify.com/album/7387KHv3sJeItcJmrhZako) | 3:37 | 2026-01-18 | 2026-02-01 |
 | [Azote](https://open.spotify.com/track/7IJZyhrttBYZAIwQxmPxuj) | [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv) | [Azote](https://open.spotify.com/album/2IvC3pPmUw7QDAamPXP0i8) | 1:57 | 2023-01-15 | 2023-01-24 |
@@ -3795,7 +3795,8 @@
 | [Volveré](https://open.spotify.com/track/6THn83A87GCDaDZp9UQsPl) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:19 | 2025-04-13 | 2025-04-18 |
 | [Von dutch](https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:44 | 2024-06-13 | 2024-06-26 |
 | [Vota 5 Vota Kast \(Viral El Denin\)](https://open.spotify.com/track/4GNvSj2b7uPSn52vltr7DZ) | [José Antonio Kast](https://open.spotify.com/artist/5tKs6OSim6VqkSwTjhxB4U) | [Disco Kast Vol: 5](https://open.spotify.com/album/1xV8JmMzN7MRIdZ5F4mcni) | 2:49 | 2025-11-18 | 2025-12-25 |
-| [VOY A DISPARARME](https://open.spotify.com/track/6xSAUpJqJ1qwPLn4fH5R9u) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [VOY A DISPARARME](https://open.spotify.com/album/45EqJRM2e02jt1mECyRBBP) | 3:14 | 2026-04-07 |  |
+| [VOY A DISPARARME](https://open.spotify.com/track/1Xv6fhX3Dg12XdP92Xb9jA) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio) | 3:14 | 2026-04-25 |  |
+| [VOY A DISPARARME](https://open.spotify.com/track/6xSAUpJqJ1qwPLn4fH5R9u) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [VOY A DISPARARME](https://open.spotify.com/album/45EqJRM2e02jt1mECyRBBP) | 3:14 | 2026-04-07 | 2026-04-26 |
 | [VOY A LLeVARTE PA PR](https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 2:36 | 2025-01-21 | 2025-02-28 |
 | [Voyage Voyage](https://open.spotify.com/track/20y6xEtoOj2ZBCS4NJNzuS) | [NOVEMBER KID](https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM) | [Voyage Voyage](https://open.spotify.com/album/3R7NpE1dA8PoAwq07Y1JYc) | 2:25 | 2025-12-28 | 2026-01-25 |
 | [Voyage Voyage](https://open.spotify.com/track/5dy0ZEDh2Lxvza4bK6GR8w) | [NOVEMBER KID](https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM) | [Voyage Voyage](https://open.spotify.com/album/16ayCmILiovTksjEG47GlN) | 2:25 | 2025-12-29 | 2026-01-28 |

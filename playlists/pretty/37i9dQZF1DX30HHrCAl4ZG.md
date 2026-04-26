@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Swapmeet
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,036 likes - 135 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,024 likes - 135 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 5 | [Ember](https://open.spotify.com/track/7jdLVBEhoDxGKdhfBEulzY) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Ember](https://open.spotify.com/album/7v39mio0wBEBfW44yf39bE) | 3:25 |
 | 6 | [Chance to Bleed](https://open.spotify.com/track/6jGus0lgXFwZGQ9aNAhOFw) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Chance to Bleed](https://open.spotify.com/album/6YaH4jJhfaOlc5XyLqFBrx) | 4:56 |
 | 7 | [Javelin](https://open.spotify.com/track/0CyWgKe5ZQ1BVN5Lyp2Z3C) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Javelin](https://open.spotify.com/album/7nd9mJWgsV8oPY35Dq57eX) | 3:45 |
-| 8 | [Ache](https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 4:25 |
+| 8 | [Ache](https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 4:25 |
 | 9 | [Chinese Tobacco](https://open.spotify.com/track/0wi8HTSPE4b6LE6zAI98oN) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [Chinese Tobacco](https://open.spotify.com/album/4KqpIccgc4jNqIBkKbwtru) | 3:59 |
 | 10 | [Alma](https://open.spotify.com/track/23f6ifySV9HWJK5cVKmFBx) | [deary](https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL) | [Birding](https://open.spotify.com/album/4LRV1hTTosrrR7cdWyqyJo) | 3:40 |
 | 11 | [paper thin](https://open.spotify.com/track/6iFHmIxoJlO2nNVPUR8Yl4) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [paper thin](https://open.spotify.com/album/2MMqDvOFRn0r2up5dik8Ig) | 3:53 |

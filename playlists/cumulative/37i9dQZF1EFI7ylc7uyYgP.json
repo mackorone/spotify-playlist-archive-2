@@ -1618,6 +1618,32 @@
     {
       "album": {
         "name": "Miss Automatic",
+        "url": "https://open.spotify.com/album/05hUGDmOGAasyW1gOUilkv"
+      },
+      "artists": [
+        {
+          "name": "Mark Angelo",
+          "url": "https://open.spotify.com/artist/288eZo7UTFQoL9aFLR3S0r"
+        },
+        {
+          "name": "VASSY",
+          "url": "https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF"
+        },
+        {
+          "name": "Epsilon",
+          "url": "https://open.spotify.com/artist/2WVeWSVaLm9x2Uww6t1p9A"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208593,
+      "name": "Miss Automatic",
+      "url": "https://open.spotify.com/track/2cumiTsqQGL2dBp3XqvMAk"
+    },
+    {
+      "album": {
+        "name": "Miss Automatic",
         "url": "https://open.spotify.com/album/1AOIElfKvDzmigoqUXHKVB"
       },
       "artists": [
@@ -1636,7 +1662,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 208593,
       "name": "Miss Automatic",
       "url": "https://open.spotify.com/track/4ytMI0xkRMGIDe9PTwpQ3Y"

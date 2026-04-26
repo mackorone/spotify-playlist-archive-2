@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Aunque Me Duela M\u00e1s Que A Ti",
+        "url": "https://open.spotify.com/album/0WUefHmDtO80pHC6KzK7ya"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200683,
+      "name": "Aunque Me Duela M\u00e1s Que A Ti",
+      "url": "https://open.spotify.com/track/6lKsATQEaiTY1SjRrXZcHr"
+    },
+    {
+      "album": {
         "name": "Belika Mafiosa",
         "url": "https://open.spotify.com/album/4f9JhZkS7xg6yZWR369ZT2"
       },
@@ -218,7 +236,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 192928,
       "name": "Cas\u00ed 16",
       "url": "https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i"

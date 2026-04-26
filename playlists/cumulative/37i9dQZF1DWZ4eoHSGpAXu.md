@@ -4,7 +4,7 @@
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-154 songs - 14 hr 50 min
+156 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Foundation](https://open.spotify.com/track/0IcnV2zEeKiumVpQgPY5tj) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Summer Sessions](https://open.spotify.com/album/53hIEd2Z2aFImgrqrvZ4sM) | 5:31 | 2019-11-27 | 2024-04-19 |
 | [Foundation](https://open.spotify.com/track/0taOwIVaV9uWUzoEWyW3a0) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Summer Sessions](https://open.spotify.com/album/5xhaBQdcwi9S5BIQQLGezu) | 5:31 | 2019-11-27 | 2024-06-23 |
 | [Foundation](https://open.spotify.com/track/2xySupax5LBUgGCJUdJnzL) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Summer Sessions](https://open.spotify.com/album/3xs22abUTBvc05n0BXmo9p) | 5:31 | 2019-11-27 | 2024-03-18 |
+| [God of Impossible \(Live\)](https://open.spotify.com/track/4nJuEZeDYhuB2VxACxr0ck) | [2819 Worship](https://open.spotify.com/artist/6d6h6Yy5YXwnyM1AZpomir) | [God of Impossible \(Live\)](https://open.spotify.com/album/3QldEkLQr0qvcEkW4grLGf) | 8:35 | 2026-04-25 |  |
 | [God Problems \(feat\. Chandler Moore, Naomi Raine\)](https://open.spotify.com/track/2aIKL1vIMOztwdxlG9hGoD) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [God Problems \(feat\. Chandler Moore\)](https://open.spotify.com/album/0d3jBzKsUXdynysqmqE07E) | 9:50 | 2024-12-11 | 2026-03-29 |
 | [Good & Loved \(feat\. Steffany Gretzinger\)](https://open.spotify.com/track/4n4cx6whB4gXfFAJ9gUewi) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Broken Record](https://open.spotify.com/album/3KvTiS9JDUb7IR1xOWl9Wj) | 9:31 | 2024-06-23 |  |
 | [Goodness of God \(feat\. Vertical Worship\)](https://open.spotify.com/track/1UOzgUuakMRQcKVTUTU6Pu) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Goodness of God \(feat\. Vertical Worship\)](https://open.spotify.com/album/5pOGRC3CWSAPGQz5qnvC6t) | 4:47 | 2019-11-27 | 2024-06-23 |
@@ -154,6 +155,7 @@
 | [When It Comes to You](https://open.spotify.com/track/3zDHLmakrSF2O7ztljntZZ) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi), [Taylor Anderson](https://open.spotify.com/artist/4iaNDZkiTuUk79ZePAlUbb) | [When It Comes to You](https://open.spotify.com/album/3opJIAc7NUj19aoE5Qqfoe) | 6:47 | 2019-11-27 | 2024-06-23 |
 | [When Wind Meets Fire \(feat\. Chris Brown & Tiffany Hudson\)](https://open.spotify.com/track/7ymQvrauqbRfH30XVkmIs2) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [When Wind Meets Fire](https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0) | 7:10 | 2025-02-28 | 2026-03-29 |
 | [While I Wait](https://open.spotify.com/track/1R9UC41siojWolyYYEohqN) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1), [Integrity's Hosanna! Music](https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn) | [While I Wait](https://open.spotify.com/album/0UDYVuIKNGT6hfvrsjrNBV) | 4:58 | 2019-11-27 | 2025-05-01 |
+| [Who Else \- Live at Gateway Conference](https://open.spotify.com/track/1mBH77kFrD96YMow8bm5cb) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Who Else \(Live\)](https://open.spotify.com/album/4PB1BxZTtyxqkihYYYK3pd) | 5:31 | 2026-04-25 |  |
 | [Who We Are](https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Who We Are](https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r) | 3:19 | 2019-11-27 | 2024-06-23 |
 | [Who You Say I Am](https://open.spotify.com/track/0jBu6T5GgOekdHuXA5hVQM) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [There Is More \(Studio Sessions\)](https://open.spotify.com/album/2kwKl75APbUs1AxEv74JdQ) | 3:19 | 2024-06-23 |  |
 | [Won My War](https://open.spotify.com/track/3lLQlI609fxY3wHkhpg1oo) | [10,000 Fathers](https://open.spotify.com/artist/48jeM9IfFZT9LpKKkN076l), [Taylor Breen](https://open.spotify.com/artist/2YEAPsOK4LQAQgg5mWOEpA) | [Won My War](https://open.spotify.com/album/548aSbKl7CHcx1Uc4APaSS) | 4:19 | 2019-11-27 | 2024-06-23 |

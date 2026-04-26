@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAALpxKkb0S/H5c99lQg2iZHiq8lI4ch",
+  "snapshot_id": "AAALqpd0TP6CisHWvjszXIuysjOa8qr8",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -86699,22 +86699,6 @@
     {
       "added_at": "2025-01-15 00:17:52",
       "album": {
-        "name": "N.E.X.T Shin Hae Chul Reboot Yourself",
-        "url": "https://open.spotify.com/album/2OOxpszLnHqUEOivIR9Eps"
-      },
-      "artists": [
-        {
-          "name": "Shin Hae Chul",
-          "url": "https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn"
-        }
-      ],
-      "duration_ms": 308453,
-      "name": "Lazenca, Save Us",
-      "url": "https://open.spotify.com/track/1KSPiLN0TgsUgRQ0fXaBNB"
-    },
-    {
-      "added_at": "2025-01-15 00:17:52",
-      "album": {
         "name": "8th",
         "url": "https://open.spotify.com/album/6O7jMvf68Ce2UwfbUWkqrt"
       },
@@ -150027,6 +150011,42 @@
       "duration_ms": 220573,
       "name": "Dun Dun Dance",
       "url": "https://open.spotify.com/track/5rp3c6ueLX4XjTeDS1RLjN"
+    },
+    {
+      "added_at": "2026-04-25 08:27:29",
+      "album": {
+        "name": "\u8ca0\u3051\u30d2\u30ed\u30a4\u30f3\u304c\u591a\u3059\u304e\u308b\uff01\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af VOL.1",
+        "url": "https://open.spotify.com/album/5AABJMRzU2aWB7E26DN9s9"
+      },
+      "artists": [
+        {
+          "name": "\u3046\u305f\u305f\u306d\u6b4c\u83dc",
+          "url": "https://open.spotify.com/artist/3EI0skZSS0yqXpLxyh7WT4"
+        }
+      ],
+      "duration_ms": 109394,
+      "name": "\u8ca0\u3051\u30d2\u30ed\u30a4\u30f3\u306e\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/78gJ4Le1sL8mns8B0VJnZ9"
+    },
+    {
+      "added_at": "2026-04-25 20:15:23",
+      "album": {
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 255609,
+      "name": "The Highs & The Lows (feat. Joey BadA$$)",
+      "url": "https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18"
     }
   ],
   "unique_name": "Purge",

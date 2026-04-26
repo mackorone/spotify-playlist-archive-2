@@ -4,7 +4,7 @@
 
 > Enjoy the iconic K\-OSTs with the music videos! \(Cover: Dynamite Kiss\(키스는 괜히 해서\)\) \(K\-OST를 뮤직비디오와 함께 즐겨보세요!\)
 
-35 songs - 2 hr 6 min
+36 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [I GOT IT \(From "The Judge Returns \(Original Soundtrack\) Part.1"\)](https://open.spotify.com/track/0pG7b0bItR0F63mOmiiNJp) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [I GOT IT \(From "The Judge Returns \(Original Soundtrack\) Part.1"\)](https://open.spotify.com/album/5nvIByJ9NOzVhx51XIpWUP) | 2:37 | 2026-01-05 |  |
 | [I still love you](https://open.spotify.com/track/3u6FvRmmMc1ta2rtCQhL9W) | [VIOLA](https://open.spotify.com/artist/25aScl6kfWpLHcAwRKvwU3) | [I still love you](https://open.spotify.com/album/6EXdOZ4SvaepJTA82Kdv20) | 3:46 | 2025-10-15 |  |
 | [If you're with me](https://open.spotify.com/track/3Edd5X9vy6t49rj74h2pAL) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [If you're with me](https://open.spotify.com/album/1yRqx40R9ons7xDlDKL2FS) | 3:53 | 2025-07-06 |  |
+| [Isle of Me \(From "Sold Out On You"\)](https://open.spotify.com/track/54SEo4CoJktVPzvDEwgJiE) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Isle of Me \(From "Sold Out On You"\)](https://open.spotify.com/album/42j462vfrGmybewykkeuBb) | 3:47 | 2026-04-25 |  |
 | [Lilac](https://open.spotify.com/track/4UdyOkVnpwW3337qb3JBEf) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Lilac](https://open.spotify.com/album/6bhg1nEu6BjGxxYf8z2i2W) | 3:12 | 2025-10-15 |  |
 | [Love Me Like That](https://open.spotify.com/track/3V6LImUODSMql7ANm12ofH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Love Me Like That](https://open.spotify.com/album/3Tj0UaVVkdPcGBEQObIVsF) | 3:32 | 2025-07-06 |  |
 | [Love, This](https://open.spotify.com/track/1Xt1NCcozlsCcRE3ZjFkN0) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Love, This](https://open.spotify.com/album/2g8cbUyPnaZPhhJV1nFC1r) | 3:15 | 2025-07-06 |  |

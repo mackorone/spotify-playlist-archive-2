@@ -1,6 +1,6 @@
 {
   "description": "Fusion hits from Coke Studio Pakistan.",
-  "num_followers": 43150,
+  "num_followers": 43161,
   "original_name": "Best of: Coke Studio Fusion",
   "owner": {
     "name": "Spotify",
@@ -1223,7 +1223,7 @@
     {
       "added_at": "2024-06-07 06:22:14",
       "album": {
-        "name": "Mundiya",
+        "name": "Mundiya (feat. Quratulain Balouch)",
         "url": "https://open.spotify.com/album/7EsJ1gzSjvgrhejwvGSe1X"
       },
       "artists": [
@@ -1237,13 +1237,13 @@
         }
       ],
       "duration_ms": 298354,
-      "name": "Mundiya",
+      "name": "Mundiya (feat. Quratulain Balouch)",
       "url": "https://open.spotify.com/track/2hREXzC8fpy2Fu0gYlxy8c"
     },
     {
       "added_at": "2024-06-07 06:22:14",
       "album": {
-        "name": "Mubarik Mubarik",
+        "name": "Mubarik Mubarik (feat. Atif Aslam)",
         "url": "https://open.spotify.com/album/2WOJN6NCF4jo4prZqAty2X"
       },
       "artists": [
@@ -1257,7 +1257,7 @@
         }
       ],
       "duration_ms": 354359,
-      "name": "Mubarik Mubarik",
+      "name": "Mubarik Mubarik (feat. Atif Aslam)",
       "url": "https://open.spotify.com/track/2RlKuEgR9NIVWzyXYbPawT"
     },
     {
@@ -1284,6 +1284,10 @@
       },
       "artists": [
         {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        },
+        {
           "name": "Sehar Gul Khan",
           "url": "https://open.spotify.com/artist/1REoitWY7dtWTikiEjoeVk"
         }
@@ -1295,10 +1299,14 @@
     {
       "added_at": "2024-06-07 06:22:14",
       "album": {
-        "name": "Dil Tarpe",
+        "name": "Dil Tarpe (feat. Zara Madani)",
         "url": "https://open.spotify.com/album/0frqXSFP8gEXX5SF91Vnzd"
       },
       "artists": [
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        },
         {
           "name": "Rahat Fateh Ali Khan",
           "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"

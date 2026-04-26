@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: AMXNRADIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,406 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,426 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 7 | [SANCTIFY ME LORD, AGAIN](https://open.spotify.com/track/43xzXTBZXz9rSw6mNc88S1) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [SANCTIFY ME LORD, AGAIN](https://open.spotify.com/album/0V0Xz6kWb9Ve1Se9X4BAej) | 3:06 |
 | 8 | [To God Be The Glory](https://open.spotify.com/track/5DTyY5w9NT214c8hrUDZ9H) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [To God Be The Glory](https://open.spotify.com/album/45c0d22lk0ttL7aZvWEWmI) | 4:44 |
 | 9 | [ily anyway](https://open.spotify.com/track/2XCUTNsevyCzQEHjH0t6f9) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [ily anyway](https://open.spotify.com/album/48urOeRPiRS1VLch1aFyGD) | 3:05 |
-| 10 | [Oceans \- Live](https://open.spotify.com/track/26FAm0JGHPC70q1M7DQ8Zm) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [MATT CROCKER \- house partiii \(Vol\. 1\) \[Live\]](https://open.spotify.com/album/7ojAogNQ3CqOP7xJjnwVCp) | 6:14 |
+| 10 | [Oceans \(house partiii\)](https://open.spotify.com/track/26FAm0JGHPC70q1M7DQ8Zm) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [MATT CROCKER \- house partiii \(Vol\. 1\) \- EP](https://open.spotify.com/album/7ojAogNQ3CqOP7xJjnwVCp) | 6:14 |
 | 11 | [SMYW](https://open.spotify.com/track/5VZT10zKS2rNN1vFTzAtUt) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [SMYW](https://open.spotify.com/album/4Y9iE0XIJl2063BQVHEPrX) | 2:48 |
 | 12 | [The Gospel](https://open.spotify.com/track/1Ia3lyWy9kZuDsjIW8voZ0) | [Joel Figueroa](https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V) | [The Gospel](https://open.spotify.com/album/2IHGF8zeVW7GgpVHVEIqDB) | 3:46 |
 | 13 | [Easy](https://open.spotify.com/track/5dngRLb9IzRjl3b3sl4ZRi) | [lydi lynn](https://open.spotify.com/artist/6jGJeOQrvBV8UKsvWGQkJI) | [Easy](https://open.spotify.com/album/5EecMf7PO9gHFsQsbh3yKG) | 4:30 |

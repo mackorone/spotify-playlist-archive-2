@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Sophia Stel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,292,135 likes - 176 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,292,129 likes - 176 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 26 | [Candelabra](https://open.spotify.com/track/0uPKTCnUH4eRnIQsfQu1M9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Candelabra](https://open.spotify.com/album/6ZdDaJZEC5L54pLHBNGskd) | 3:28 |
 | 27 | [Worst Friend](https://open.spotify.com/track/0Ci5s1uSujivZ2iZjKxIVw) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Worst Friend](https://open.spotify.com/album/51o3NWC1pF7PpJoZeRFuQh) | 4:21 |
 | 28 | [Don't Kill the Vibe](https://open.spotify.com/track/3ZiHHaMuZ2cQXLtjxgiGUd) | [Jordan Joy](https://open.spotify.com/artist/4SpTLCaS4bSWUFgN7AapHv) | [Don't Kill the Vibe](https://open.spotify.com/album/4tYBaS0xN0eYmFSGHJ1C7N) | 4:22 |
-| 29 | [Ache](https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 4:25 |
+| 29 | [Ache](https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 4:25 |
 | 30 | [First Light](https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [First Light](https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4) | 3:24 |
 | 31 | [The Chicken is Naked and Afraid](https://open.spotify.com/track/2Ms80o5izRuGsYs7PPhZN6) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Something is a shell .](https://open.spotify.com/album/2QlGlvLUEon9SaUGNj78cy) | 3:40 |
 | 32 | [Where’s Your Love Now \- Waxahatchee Version](https://open.spotify.com/track/5hLbAu2TGDhiwhvebzY5cv) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Where’s Your Love Now \(Waxahatchee Version\)](https://open.spotify.com/album/1pnhU7gq3vrxKaq8cWkNs3) | 5:21 |

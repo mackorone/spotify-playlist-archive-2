@@ -1,12 +1,12 @@
 {
   "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
-  "num_followers": 5330,
+  "num_followers": 5331,
   "original_name": "This Is Micah Tyler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aelhAAAAAAAemgVG4oepkw3rhhMY0Rve",
+  "snapshot_id": "aeqygAAAAACEX0WKQV6j2DdFx4WNJXeU",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story I Tell",
-        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 242508,
-      "name": "Mighty to Love",
-      "url": "https://open.spotify.com/track/3ZvaDtWralCVTrI3SP2K8H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 185160,
       "name": "Comeback Song",
       "url": "https://open.spotify.com/track/7p17D91YMHqR6LuhnDcR2D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Story I Tell",
+        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 242508,
+      "name": "Mighty to Love",
+      "url": "https://open.spotify.com/track/3ZvaDtWralCVTrI3SP2K8H"
     },
     {
       "added_at": null,
@@ -311,26 +311,6 @@
       "duration_ms": 223079,
       "name": "What Mercy Did For Me (feat. Maranda Curtis & Jason Crabb)",
       "url": "https://open.spotify.com/track/7IHxJcnPxR7Mm6ADNNrQO8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Story Your Glory (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1FNe9cy8XHcI8JS4cqU6lD"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        },
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 188544,
-      "name": "My Story Your Glory - Micah Tyler Collab Version",
-      "url": "https://open.spotify.com/track/4049ATZU2lzziyACfxMiqc"
     },
     {
       "added_at": null,
@@ -363,6 +343,26 @@
       "duration_ms": 213200,
       "name": "Directions",
       "url": "https://open.spotify.com/track/1IxaVqea651MG8OxnYByrP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Story Your Glory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1FNe9cy8XHcI8JS4cqU6lD"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        },
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 188544,
+      "name": "My Story Your Glory - Micah Tyler Collab Version",
+      "url": "https://open.spotify.com/track/4049ATZU2lzziyACfxMiqc"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kitchen Sink EP",
-        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 202631,
-      "name": "Come to Life",
-      "url": "https://open.spotify.com/track/0CQ3Wa3jHtkOwVTKyM2Ba1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 221026,
       "name": "Story I Tell",
       "url": "https://open.spotify.com/track/4a9UzMaCd1wji2qfb1y73V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Kitchen Sink EP",
+        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 202631,
+      "name": "Come to Life",
+      "url": "https://open.spotify.com/track/0CQ3Wa3jHtkOwVTKyM2Ba1"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kitchen Sink EP",
-        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 200829,
-      "name": "The Flood",
-      "url": "https://open.spotify.com/track/4xYGLd2NHdPTpO1LrRZAbz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God Bless the Broken Road",
         "url": "https://open.spotify.com/album/1pqFU74JDxeIzKw3tYnNbu"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 132240,
       "name": "Come Thou Fount",
       "url": "https://open.spotify.com/track/0dkyHTIAFrDcoKwOigL1H5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Kitchen Sink EP",
+        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 200829,
+      "name": "The Flood",
+      "url": "https://open.spotify.com/track/4xYGLd2NHdPTpO1LrRZAbz"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kitchen Sink EP",
-        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 374700,
-      "name": "Wretch No More",
-      "url": "https://open.spotify.com/track/1kIK6mCVRipXntUsPflAPE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "People Like Us",
         "url": "https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 259159,
       "name": "Remember This",
       "url": "https://open.spotify.com/track/7vFyHLrMnhMVbdADWbgvGk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Kitchen Sink EP",
+        "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 374700,
+      "name": "Wretch No More",
+      "url": "https://open.spotify.com/track/1kIK6mCVRipXntUsPflAPE"
     },
     {
       "added_at": null,

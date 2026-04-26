@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Israel Salazar
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,406 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,453 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 12 | [Tim\-Tim por Tim\-Tim \- Ao Vivo](https://open.spotify.com/track/3JEgL1p9kzkM10pEuLfBe3) | [Dalete Hungria](https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Tim\-Tim por Tim\-Tim \(Ao Vivo\)](https://open.spotify.com/album/70OHJUxQE4VoYqRAC6blDr) | 4:48 |
 | 13 | [Teu Cuidar \- Ao Vivo](https://open.spotify.com/track/3Bew7XpPCQUSDYplrCUXYB) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Teu Cuidar \(Ao Vivo\)](https://open.spotify.com/album/0YwObe6Yk9m4Gnn8kLcoAk) | 6:35 |
 | 14 | [Minha Resposta \(Ao Vivo no Summer Beats\)](https://open.spotify.com/track/6wRhv00YHBbfj03mLMlcJ1) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1), [Guilherme de Sá](https://open.spotify.com/artist/40wqylYHmPn7bf8jPZrbU9) | [Minha Resposta \(Ao Vivo no Summer Beats\)](https://open.spotify.com/album/0sF7TxeSpt4CWZju7cnagA) | 4:24 |
-| 15 | [Perfeito Amor \- Ao Vivo](https://open.spotify.com/track/1lILWaWFNpzSJ7yyNvak46) | [IIR Music](https://open.spotify.com/artist/6EI4IRFY1LhvkOZLxAg0nJ), [Pedro Bertoldo](https://open.spotify.com/artist/1DnYZ58NozKRJ7EQ1f9b0l) | [Perfeito Amor \(Ao Vivo\)](https://open.spotify.com/album/1rflw5TMCLYIBk7fhbaRNa) | 12:37 |
+| 15 | [Perfeito Amor \- Ao Vivo](https://open.spotify.com/track/1lILWaWFNpzSJ7yyNvak46) | [IIR Music](https://open.spotify.com/artist/6EI4IRFY1LhvkOZLxAg0nJ), [Pedro Bertoldo](https://open.spotify.com/artist/1XWIe78ywGAwufXNkuVRte) | [Perfeito Amor \(Ao Vivo\)](https://open.spotify.com/album/1rflw5TMCLYIBk7fhbaRNa) | 12:37 |
 | 16 | [Tua Presença](https://open.spotify.com/track/4MOtF04SJlhQt1G4D3axuW) | [Bereia Music](https://open.spotify.com/artist/2uylz2eDUc2XW6eFWoR3N4), [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Tua Presença](https://open.spotify.com/album/1aW2BxWKBGrNUISPMMtde8) | 7:20 |
 | 17 | [Desacelera](https://open.spotify.com/track/7vD7BKQ3TcTJPoxdWUTbAW) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Desacelera](https://open.spotify.com/album/2bcgkoN15h1LomujiPIoEf) | 3:36 |
 | 18 | [Bom Pastor \- Ao Vivo](https://open.spotify.com/track/2MdcpUJeEhZJs2OLjfyivf) | [Nilson Junior](https://open.spotify.com/artist/3iVKvSnoBIfdGNiLYrLIny) | [Bom Pastor \(Ao Vivo\)](https://open.spotify.com/album/05xyhGHc50jmchuYQzetd5) | 3:06 |

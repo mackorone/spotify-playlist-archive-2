@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan 🔥 Cover: Murtaza Qizilbash
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,427 likes - 90 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,492 likes - 90 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 89 | [Khat](https://open.spotify.com/track/3gixnmepHSsyAuho34rprN) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Khat](https://open.spotify.com/album/6BLTFvPRIlWqqhcQxuJjqd) | 4:56 |
 | 90 | [Piya Ghar Aaya \- Remix](https://open.spotify.com/track/55EcrWG7HgMQgm3tfM4FTs) | [Asad Khan](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Piya Ghar Aaya \(Remix\)](https://open.spotify.com/album/1IzHolkRH2R3sJXkPi7cqT) | 3:55 |
 
-Snapshot ID: `AAAAAMrDGCVZD1Wh9Shjrj9tbW5b52+q`
+Snapshot ID: `AAAAAGZkkLe0RqVBAyamwaq+YLfnIem8`

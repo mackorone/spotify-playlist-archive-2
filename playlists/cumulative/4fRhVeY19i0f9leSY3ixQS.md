@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-1,395 songs - 3 day 6 hr 1 min
+1,400 songs - 3 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Breakdown](https://open.spotify.com/track/1TcDvEIvZ6lonlK2ZuGX8u) | [ZYkR](https://open.spotify.com/artist/4N3QLa1mYQCzIkl97QFLPN) | [Breakdown](https://open.spotify.com/album/7qVmZP7hJ9vFsQaMd2PIj9) | 4:37 | 2026-03-12 | 2026-03-31 |
 | [Breaking Me](https://open.spotify.com/track/5cY9J2rpud610I2qTa3toF) | [December Daybreak](https://open.spotify.com/artist/6EKs2NrFlMNMuI9kNr4ky2) | [Breaking Me](https://open.spotify.com/album/5j1OiGLguSko1Gje70rx9D) | 4:05 | 2025-11-28 | 2025-12-24 |
 | [Breaking My Own Heart](https://open.spotify.com/track/4EwTDjUTCw6y8i5AvUSCn8) | [MODISTE](https://open.spotify.com/artist/5ErkxHtnf14rfcjMoPWtyL) | [Breaking My Own Heart](https://open.spotify.com/album/5gRaaUvQ4aia5WSLlApIjm) | 4:52 | 2026-03-08 | 2026-03-31 |
+| [Breaking the Rules with a Smile On](https://open.spotify.com/track/2aHauPdAZxgXqBpJsLv7zb) | [Two Stories Away](https://open.spotify.com/artist/6pK1e6SbO06aoLnICdXNR4) | [Breaking the Rules with a Smile On](https://open.spotify.com/album/5BqUe4Yz6dJ4mKCouEI1Mj) | 3:17 | 2026-04-25 |  |
 | [BREATHE](https://open.spotify.com/track/3ALJaDfdUCrARTslgZig5k) | [dmncles](https://open.spotify.com/artist/6AXQbXnTcpATjFnocZgBK3) | [BREATHE](https://open.spotify.com/album/3ngaCH0ImMqEuCnlO1F84m) | 2:34 | 2025-11-21 | 2025-12-24 |
 | [Breather](https://open.spotify.com/track/676IBfIXDIiidngkSKSJHY) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Frantic!](https://open.spotify.com/album/04HZkLDGricV1azqsq5yfV) | 0:42 | 2025-08-03 |  |
 | [Bright Cage](https://open.spotify.com/track/1Ia9J1id6IATwq69K6lumD) | [Voodoo Queen](https://open.spotify.com/artist/4TCJrwz91dvytiaX8RZhi6) | [Bright Cage](https://open.spotify.com/album/0YDGcRYWG4prbDIQgFSznC) | 5:22 | 2025-12-16 | 2026-01-06 |
@@ -560,6 +561,7 @@
 | [I Feel You](https://open.spotify.com/track/4JAfiXyqwnC7w8dx2K5drd) | [ARTFK](https://open.spotify.com/artist/3n89t3VgPLxwEiHeB8yRIO) | [I Feel You](https://open.spotify.com/album/2rCFeCl5GMh2f9t7KcAbOV) | 4:34 | 2025-12-19 | 2026-01-15 |
 | [I Found You](https://open.spotify.com/track/0464ymz6EOlW9e55NUzQCU) | [Mack Sampson](https://open.spotify.com/artist/1daNtPPG7aGgdSfpEtsBxj) | [I Found You](https://open.spotify.com/album/4rTba1ppriPUGEnQu7usSE) | 2:44 | 2026-01-15 | 2026-02-03 |
 | [I Hate My Boss](https://open.spotify.com/track/0ZJV1djLMg5sSPzRAEjyPB) | [Jonathan Panetta](https://open.spotify.com/artist/5NpV97gIHBk2FvIyTEkKa2), [javy kane](https://open.spotify.com/artist/37kqFI7nNKymyF7y8i6xff) | [I Hate My Boss](https://open.spotify.com/album/1PNI9QATW58PVTv8S0wFg7) | 3:00 | 2025-12-11 | 2026-01-06 |
+| [I Heard You Had a Quiet Night](https://open.spotify.com/track/1H8oylSDltIDg6LsEEXYyy) | [Enjoy Less](https://open.spotify.com/artist/4ghXiXTuhVBizmDdrR7W5x) | [I Heard You Had a Quiet Night](https://open.spotify.com/album/68BN5cBQoAOPZRRjaxlSSv) | 4:00 | 2026-04-25 |  |
 | [I Might Be A Sinner](https://open.spotify.com/track/6XFQMdpWA6CrKQCnjUARsl) | [Gamilla](https://open.spotify.com/artist/1mpl2GqJ1Qz1RpHkYY4PyO) | [Catholic School Girl](https://open.spotify.com/album/5T1A6Aonxe5kpDoyR12WkF) | 3:30 | 2025-11-27 | 2026-01-06 |
 | [I Never Really Got over Her](https://open.spotify.com/track/7oEX7ABarvvSTiePIA6g4N) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Fun with Layla in Wallington](https://open.spotify.com/album/2hTc0kStuvzmNsApCiLosP) | 2:48 | 2026-01-11 | 2026-02-03 |
 | [i root for the villain](https://open.spotify.com/track/4cjOGMjsYM3OC4OvKG5Ndm) | [Charming Scars](https://open.spotify.com/artist/7v5qMuaUZst9tWS4CzZSSC) | [i root for the villain](https://open.spotify.com/album/2TyfXRYCCyODgsNUPLO9Yd) | 3:13 | 2026-02-02 | 2026-03-06 |
@@ -808,6 +810,7 @@
 | [No Escape](https://open.spotify.com/track/0K15Wt8Zr2lBihYjvRX315) | [This World Stands Still](https://open.spotify.com/artist/0ReYfibZzwQRGgNJEXas0t) | [Inconsistency](https://open.spotify.com/album/2TtVrIAvRehVZPLdVHXDrE) | 2:32 | 2026-04-21 |  |
 | [No Gods](https://open.spotify.com/track/4Bejk4T1EkgJFOMBruuZMQ) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [No Gods](https://open.spotify.com/album/1rSMvnaueBZxlXtPLFtsPH) | 2:59 | 2025-12-15 | 2026-01-06 |
 | [No Need to Wait](https://open.spotify.com/track/4XB1k8GJdXvQZ9YvkwNuOk) | [Brau](https://open.spotify.com/artist/4B1VpxLCj9TBzqbjN99fKQ) | [No Need to Wait](https://open.spotify.com/album/2tfynEzI16EdyoFGBIb76a) | 3:33 | 2026-02-27 | 2026-03-19 |
+| [No One Is A Human Anymore](https://open.spotify.com/track/2p76mZ2oPibmOBle89KQLI) | [Bush League](https://open.spotify.com/artist/4Q93KDaLyMGCfvArsclQRH) | [No One Is A Human Anymore](https://open.spotify.com/album/4guVBmiivd7bK7gmPykXOM) | 1:53 | 2026-04-25 |  |
 | [No puedes saber](https://open.spotify.com/track/38PUgH2fdebmRiXGbrrHt3) | [Decode](https://open.spotify.com/artist/4LveHUW9mrBnEh7xARbo3r) | [No puedes saber](https://open.spotify.com/album/2V9ECtvzI8NCv4fWOEEWWf) | 4:57 | 2026-03-05 | 2026-03-31 |
 | [No Refunds For Existence](https://open.spotify.com/track/79tOfD8ayDx1eZnwOcMXcX) | [GA PROJECT](https://open.spotify.com/artist/29Ld8IE7ycWeTn5k7oJbQu) | [No Refunds For Existence](https://open.spotify.com/album/72AWFt5TXUGz8JrUgvppHy) | 2:36 | 2025-12-15 | 2026-02-03 |
 | [No Regret](https://open.spotify.com/track/6VgFWJLECE8QZM2tSYz6v5) | [Timelines](https://open.spotify.com/artist/2qBTwDoKX0b9ckEj2ErSj0) | [No Regret](https://open.spotify.com/album/6mhuNY2hTdCAxphPrZWCNn) | 2:54 | 2026-01-06 | 2026-02-07 |
@@ -1186,6 +1189,7 @@
 | [The Gutter](https://open.spotify.com/track/4XMFBPsFBxSgVuXo9oTvqT) | [Misery Channel](https://open.spotify.com/artist/0km1fYeCjrTJF5VOJShTsc) | [The Gutter](https://open.spotify.com/album/6EmcFf2Gqkpby9vZ71Bb1D) | 3:03 | 2026-02-27 | 2026-03-31 |
 | [The Hunger](https://open.spotify.com/track/7f7mRP26GQ6cxVeLcOsQE7) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [The Hunger](https://open.spotify.com/album/5uq35jfSKO9nuz0BBl8WGZ) | 4:45 | 2026-04-07 |  |
 | [The Knife](https://open.spotify.com/track/1cbB3p9Z3Dhch9PDtReYyu) | [Barren Sea](https://open.spotify.com/artist/52YaDNTA2VWMofP95FkTSi) | [The War on Cars](https://open.spotify.com/album/1tkfcVGm3ZxwKRq51SWTcV) | 4:14 | 2026-02-12 | 2026-03-16 |
+| [The Ledger They Adore](https://open.spotify.com/track/4crhCRpc5JDrqyhINPYrbx) | [Revelations Align Hope](https://open.spotify.com/artist/2HQo39t4GpRmOUtioBrAh1) | [The Ledger They Adore](https://open.spotify.com/album/2AksLsqvnFYizOZibMhpy2) | 2:22 | 2026-04-25 |  |
 | [The line](https://open.spotify.com/track/5spFXTi0X8oQg8yxqYxCMz) | [CANONVILLE](https://open.spotify.com/artist/3lJB0a4SfTiJTWEPbAZ7TY) | [FOUR LEGS GOOD](https://open.spotify.com/album/0OkHctBsI8EpCGDT3u98yy) | 5:28 | 2025-12-29 | 2026-01-22 |
 | [The Line That Separates](https://open.spotify.com/track/0Mf7Y9cVAhr3jsVcUXeyz3) | [Mayfly](https://open.spotify.com/artist/54lgshCA4yb6pMhonEh7kI) | [The Line That Separates](https://open.spotify.com/album/3JIsg51hdyIYOFpd60c0F8) | 3:38 | 2025-12-27 | 2026-01-22 |
 | [The Mechanist](https://open.spotify.com/track/7BL9gJl9rAyV2zTkHYhulz) | [KHANDRIA](https://open.spotify.com/artist/20CGg3ZTjRZ9xzkgMQ5kFq) | [The Mechanist](https://open.spotify.com/album/2F2vCeIevNNyK8IgDimbT7) | 4:00 | 2026-01-10 | 2026-01-29 |
@@ -1395,6 +1399,7 @@
 | [Zero Bullshit](https://open.spotify.com/track/1o0CgT5iLjXXhaQ7IcYHl6) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Zero Bullshit](https://open.spotify.com/album/5BGxbWMYET1qi1aNQ0esDz) | 4:02 | 2025-12-02 | 2026-01-15 |
 | [Zombie Apocalypse](https://open.spotify.com/track/1phlkcDwgsOz7zbdwhJ99w) | [Stay At Home Dads](https://open.spotify.com/artist/40ENo9SAE9mNbWUh0hBVrV) | [Persnickety ...](https://open.spotify.com/album/7a4X6BR4wA6e0pgVWYkxsb) | 2:19 | 2026-02-26 | 2026-03-30 |
 | [Антиутопия](https://open.spotify.com/track/3PQHp59QfxgIwuHbpdda7F) | [Required\*](https://open.spotify.com/artist/7rPSoYPbX5QCiZqf8bZDE6) | [Антиутопия](https://open.spotify.com/album/4BbvCMkD5pRUdskjITuOt0) | 5:04 | 2026-01-09 | 2026-01-29 |
+| [в тебя вселился БЕШ](https://open.spotify.com/track/0vMJYzAb2xEAdCNaIc97MJ) | [relocVnt](https://open.spotify.com/artist/3jhOr9DUKdSXclZnUtcOFC) | [в тебя вселился БЕШ](https://open.spotify.com/album/2BIrdsKgW3uwtQ2a2inY8B) | 3:07 | 2026-04-25 |  |
 | [Дороги снегом замело...](https://open.spotify.com/track/3jST45CWJr4yZPPfWNhap4) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Дороги снегом замело...](https://open.spotify.com/album/2pTVHLJ4wxSOWXshqJE2nX) | 2:59 | 2026-03-18 | 2026-04-07 |
 | [Люблю](https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Люблю](https://open.spotify.com/album/3YJO7rlQMviBQRxqMCUtx9) | 3:41 | 2026-01-15 | 2026-02-03 |
 | [нам не нужны друзья 2](https://open.spotify.com/track/5tQjNmHZzliw3VofqYR8n0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [нет меня](https://open.spotify.com/album/6WpS7JSN3qKRTpnFiS8tLA) | 2:57 | 2026-02-02 | 2026-02-27 |

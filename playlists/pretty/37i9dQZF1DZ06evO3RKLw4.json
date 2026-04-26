@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 50458,
+  "num_followers": 50461,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aelhAAAAAACWTI4Z5tZXHKE4qJ80h49o",
+  "snapshot_id": "aeqygAAAAADI2EoAbZTFhAFCmYYcyx+s",
   "tracks": [
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...Honor Is All We Know (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
+        "name": "Rancid",
+        "url": "https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 117426,
-      "name": "Collision Course",
-      "url": "https://open.spotify.com/track/7CFhxrWbAoqP5tsVDxYMFf"
+      "duration_ms": 144400,
+      "name": "Detroit",
+      "url": "https://open.spotify.com/track/06yrcI03mmIh5bNtGMn2k5"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancid",
-        "url": "https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr"
+        "name": "...Honor Is All We Know (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 144400,
-      "name": "Detroit",
-      "url": "https://open.spotify.com/track/06yrcI03mmIh5bNtGMn2k5"
+      "duration_ms": 117426,
+      "name": "Collision Course",
+      "url": "https://open.spotify.com/track/7CFhxrWbAoqP5tsVDxYMFf"
     },
     {
       "added_at": null,

@@ -397,6 +397,7 @@
 | [Mermaid's Tale](https://open.spotify.com/track/06PTAkV9MMZldRwqsy759W) | [David Cronenberg's Wife](https://open.spotify.com/artist/7C3DYH8eNyONYDHJWZjQn1) | [Mermaid's Tale](https://open.spotify.com/album/6bImbl1hyvYMS6dOCrWm37) | 6:17 | 2026-04-17 |  |
 | [Messiah Crawling](https://open.spotify.com/track/48hh5UHaCZ2S7FkECxgIrU) | [Cold In Berlin](https://open.spotify.com/artist/6fZeTehXr4jeY71w0eNuLq) | [Wounds](https://open.spotify.com/album/59s3YtcJotl6paRnVBWnTi) | 4:53 | 2025-11-07 | 2025-12-05 |
 | [Metatron Awakens](https://open.spotify.com/track/2oRi7zY5wXLJN26IdSM2J7) | [Badawi](https://open.spotify.com/artist/0foKk7wAe6zmt9GI6iSHyI) | [Last DJ of the Apocalypse Vol.3: Seraph Sound Clash](https://open.spotify.com/album/44EP78FpzYc7wGLvoWm0fK) | 5:23 | 2025-09-11 | 2025-10-04 |
+| [Midnight](https://open.spotify.com/track/3dELI6nOgYObtTlpR63a5Q) | [Raw Distractions](https://open.spotify.com/artist/6QWjW6UwgwYyN9nvv3tQaP) | [奇しく燃える](https://open.spotify.com/album/2tDPI1BXsufhRRwzphFyCb) | 2:30 | 2026-04-24 |  |
 | [Militants \- The Rocket, Holloway](https://open.spotify.com/track/25LqmAW3JeuWEyug6GGud5) | [The Bug](https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw) | [Militants \(The Rocket, Holloway\) / Into The Mystic](https://open.spotify.com/album/4Zx1u1uTnuuLnvVrIcVish) | 4:22 | 2025-10-03 | 2025-11-01 |
 | [Mimikyu](https://open.spotify.com/track/7ifgZh6gxIjJ46LtWZnDED) | [Ship Sket](https://open.spotify.com/artist/2RP0nzlcOL4QQV0ER0UYiH) | [Mimikyu](https://open.spotify.com/album/1hveK96BQPkSQJ1yBWLbO5) | 3:52 | 2025-10-03 | 2025-11-01 |
 | [Mind Of Mine](https://open.spotify.com/track/3a5nnIUj9SeTXE80ZVZwMb) | [The Ovines](https://open.spotify.com/artist/71cqottJokqNoKw11DHr2n) | [Mind Of Mine](https://open.spotify.com/album/4dqSay4iJ6RXA6A4YEivIt) | 4:04 | 2025-07-18 | 2025-09-20 |
@@ -744,6 +745,5 @@
 | [Zombie Monologue](https://open.spotify.com/track/33v6mqPWo3meefMPqrFtM7) | [Raz Mesinai](https://open.spotify.com/artist/4iY5ZMs1Li6MvY24CBfb9Y) | [American Zombie \(Monologues for solo bass\)](https://open.spotify.com/album/1TH2xRB5qSw28Ej2SdricT) | 6:06 | 2026-01-09 | 2026-02-07 |
 | [«UnKnown»](https://open.spotify.com/track/1S44LhvQh40buMI5JHHIcy) | [DarkSonicTales](https://open.spotify.com/artist/0UwpvJPYgGfPN8GD2uSvZv) | [»UnKnown«](https://open.spotify.com/album/598lxXsfMJ7TOfaqMjzPwT) | 14:50 | 2025-09-11 | 2025-09-27 |
 | [垂涎 Drooled](https://open.spotify.com/track/66h59itLhXCfDGZ4N8FbXp) | [Zaliva\-D](https://open.spotify.com/artist/28wvoKGy5TxdUPxZVNzygo) | [垂涎 Drooled](https://open.spotify.com/album/7vHcBqLVJZPk8RNX0egKDU) | 5:08 | 2026-04-24 |  |
-| [立脚](https://open.spotify.com/track/3dELI6nOgYObtTlpR63a5Q) | [Raw Distractions](https://open.spotify.com/artist/6QWjW6UwgwYyN9nvv3tQaP) | [奇しく燃える](https://open.spotify.com/album/2tDPI1BXsufhRRwzphFyCb) | 2:30 | 2026-04-24 |  |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

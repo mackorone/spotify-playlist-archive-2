@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Cover: Draganov",
+  "description": "Cover: Bo9al",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -2002,7 +2002,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 152147,
       "name": "Code 13",
       "url": "https://open.spotify.com/track/5ZBCuHRodHLeeboUGeGobg"
@@ -7821,6 +7821,24 @@
     },
     {
       "album": {
+        "name": "SOFITEL",
+        "url": "https://open.spotify.com/album/4niYL0OcwKMBeUMK7xL1O4"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117416,
+      "name": "SOFITEL",
+      "url": "https://open.spotify.com/track/6liRQ6BYzi2mazj3OAtDhX"
+    },
+    {
+      "album": {
         "name": "PLAN B",
         "url": "https://open.spotify.com/album/4p3aP0cbVIb90Lm3h2TD1N"
       },
@@ -8590,7 +8608,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 252376,
       "name": "Thunes",
       "url": "https://open.spotify.com/track/5WdqTuyAWqIkNJN5L2wlHO"
@@ -9800,6 +9818,24 @@
       "duration_ms": 183878,
       "name": "ZOK",
       "url": "https://open.spotify.com/track/3loxaMcGfCeycbksSzhShU"
+    },
+    {
+      "album": {
+        "name": "Zone De Confort",
+        "url": "https://open.spotify.com/album/0g9VI7L7jbsDc80OG822us"
+      },
+      "artists": [
+        {
+          "name": "Figoshin",
+          "url": "https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184512,
+      "name": "Zone De Confort",
+      "url": "https://open.spotify.com/track/37yXgJjCGtxlgdUUja8oZH"
     },
     {
       "album": {

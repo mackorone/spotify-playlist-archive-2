@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,542 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,607 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Fine Day](https://open.spotify.com/track/7aKme0bvekUFoMI0cHGIRk) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Fine Day](https://open.spotify.com/album/2ZIFHjv7tMdEsYfWy9HwFv) | 3:56 |
 | 70 | [Ready Or Not](https://open.spotify.com/track/1XGNfiOQXjaUG8W9kLSCQl) | [Ghost Stories](https://open.spotify.com/artist/6J6UF3GqOLdt6f4gfazSzf), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Ready Or Not](https://open.spotify.com/album/4bnPHqulH5HKtpkeb4ZmJ5) | 2:08 |
 
-Snapshot ID: `AAAAAL7j0uic/jn0yp3NKem5gswMcs7K`
+Snapshot ID: `AAAAAMWDLCRxchhIFKgoASs3ey4opViU`

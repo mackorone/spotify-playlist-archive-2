@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,798 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,795 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 15 | [Aquarius Moon](https://open.spotify.com/track/3KHzRyveTX6EnOVCVXQtXz) | [Sophie Castillo](https://open.spotify.com/artist/4LoRVyF2R00cUR8q3oatMb) | [Aquarius Moon](https://open.spotify.com/album/29PGh88gKWdfbs1w7yju3p) | 3:42 |
 | 16 | [Chase Your Tail](https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Chase Your Tail](https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby) | 3:13 |
 | 17 | [fashionably late](https://open.spotify.com/track/6ry6SA50l59MWK0g0r2qJ8) | [5EB](https://open.spotify.com/artist/70P7as3HD8esc9Dx2TAR7o), [wane](https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh) | [fashionably late](https://open.spotify.com/album/37hWflaP3Kg38xgS9jOAKa) | 2:35 |
-| 18 | [Misunderstood \(feat\. Bawo\)](https://open.spotify.com/track/39lx7wFXnbiQvW7Cz5PaGs) | [DC](https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Misunderstood \(feat\. Bawo\)](https://open.spotify.com/album/7xxup5OLWFFvB8c5O5oBsw) | 3:10 |
+| 18 | [Misunderstood \- feat\. Bawo](https://open.spotify.com/track/39lx7wFXnbiQvW7Cz5PaGs) | [DC](https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Misunderstood \(feat\. Bawo\)](https://open.spotify.com/album/7xxup5OLWFFvB8c5O5oBsw) | 3:10 |
 | 19 | [Sarah](https://open.spotify.com/track/0XwQDtlYvwFuTrhR57WO76) | [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Sarah](https://open.spotify.com/album/3TKVQ0RsXUqPTNYwaLAzF7) | 2:57 |
 | 20 | [LIFE KEEPS GOING](https://open.spotify.com/track/7bUGV0iRkAlZ4qeGix6O9H) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [LIFE KEEPS GOING](https://open.spotify.com/album/25ck4PVSVUW7h54ZHGX34m) | 3:39 |
 | 21 | [Healing Power](https://open.spotify.com/track/0YzQFpH5N1RBQJAtXUwzst) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Healing Power](https://open.spotify.com/album/1v65fLyHVIDVahmfkhJ9WI) | 2:48 |

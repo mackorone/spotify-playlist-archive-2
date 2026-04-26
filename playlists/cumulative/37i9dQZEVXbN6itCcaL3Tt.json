@@ -10790,6 +10790,14 @@
         {
           "name": "Fundacja Cancer Fighters",
           "url": "https://open.spotify.com/artist/4uQMFJbG5e9wBn8CWasdmf"
+        },
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        },
+        {
+          "name": "Voskovy",
+          "url": "https://open.spotify.com/artist/5nJBmBtvFT2vyiZxdA6pgE"
         }
       ],
       "date_added": "2026-04-15",
@@ -14788,10 +14796,28 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
+    {
+      "album": {
+        "name": "drop dead (taken that eurostar to france video)",
+        "url": "https://open.spotify.com/album/6yWUYijJvHyjvcw43abyWD"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U"
     },
     {
       "album": {
@@ -21191,6 +21217,36 @@
     },
     {
       "album": {
+        "name": "HOT HITS",
+        "url": "https://open.spotify.com/album/29XmmR3Btcx4aJCF7WZqWH"
+      },
+      "artists": [
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160601,
+      "name": "HOT GIRL SUMMER",
+      "url": "https://open.spotify.com/track/5p7wzpasI6uYdGJP7CUYQf"
+    },
+    {
+      "album": {
         "name": "One Of The Boys",
         "url": "https://open.spotify.com/album/1vFFZPioAu0vrJRcGoyGX8"
       },
@@ -22434,7 +22490,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 203920,
       "name": "ile by\u015b da\u0142?",
       "url": "https://open.spotify.com/track/1NNrOBjU22Cc8swkmwHV1e"
@@ -28714,7 +28770,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 224216,
       "name": "Legendary Lovers",
       "url": "https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2"
@@ -29856,10 +29912,32 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 124724,
       "name": "LUBI\u0118 CI\u0118 JAK LATO",
       "url": "https://open.spotify.com/track/3YroZZ167DAVEk8YfzZgdg"
+    },
+    {
+      "album": {
+        "name": "HOT HITS",
+        "url": "https://open.spotify.com/album/29XmmR3Btcx4aJCF7WZqWH"
+      },
+      "artists": [
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124724,
+      "name": "LUBI\u0118 CI\u0118 JAK LATO",
+      "url": "https://open.spotify.com/track/6oqK1jPVhhs37ZZiqtEKVA"
     },
     {
       "album": {
@@ -33760,7 +33838,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 178882,
       "name": "my love",
       "url": "https://open.spotify.com/track/1E2cVJd7UDWoGGOw971JNt"
@@ -37330,7 +37408,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 152347,
       "name": "nobodylovesu",
       "url": "https://open.spotify.com/track/6SYloZjvoxRwJmB2S1lymh"
@@ -38948,6 +39026,28 @@
       "duration_ms": 204629,
       "name": "Ok Ok pt 2",
       "url": "https://open.spotify.com/track/1QCqedB1ibmRO9x7Ikb5LI"
+    },
+    {
+      "album": {
+        "name": "Old money",
+        "url": "https://open.spotify.com/album/6q6qmS9RPPlLsCRpdNqHxn"
+      },
+      "artists": [
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "Steez83",
+          "url": "https://open.spotify.com/artist/4g7qv7lHOtGfUio9BMBE1u"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Old money",
+      "url": "https://open.spotify.com/track/52bErNjszuh1arkTgUKRGY"
     },
     {
       "album": {
@@ -46391,6 +46491,32 @@
     },
     {
       "album": {
+        "name": "RIO / NA \u017bYWO",
+        "url": "https://open.spotify.com/album/6UsHwxCaKaulN0AMONx9PT"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Palar",
+          "url": "https://open.spotify.com/artist/0hydhEXYglaiCLK9QkP9Yt"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184153,
+      "name": "RIO / NA \u017bYWO",
+      "url": "https://open.spotify.com/track/37weADHNU7nLb5yHaadjbq"
+    },
+    {
+      "album": {
         "name": "Dream Your Life Away",
         "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
@@ -48460,7 +48586,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 177869,
       "name": "shoota!!!",
       "url": "https://open.spotify.com/track/3UYY9ILjHsINEpxYcFL6A8"
@@ -55457,6 +55583,32 @@
     },
     {
       "album": {
+        "name": "Ty masz",
+        "url": "https://open.spotify.com/album/1Js6zQtqdvpmoDEpvfuxiN"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Ty masz",
+      "url": "https://open.spotify.com/track/4fQAVxaVQhkK8nyNZoPpeY"
+    },
+    {
+      "album": {
         "name": "Ty Wiesz",
         "url": "https://open.spotify.com/album/3WMrFBSnIzZOucQTEy0uBU"
       },
@@ -62028,6 +62180,32 @@
       "duration_ms": 129360,
       "name": "\u015aMIECI WYW\u00d3Z",
       "url": "https://open.spotify.com/track/2MB3DbFviuZX3HJHBa8kFg"
+    },
+    {
+      "album": {
+        "name": "\u015amigus Dyngus",
+        "url": "https://open.spotify.com/album/32oj1NUzooUvq261jewq2t"
+      },
+      "artists": [
+        {
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+        },
+        {
+          "name": "gustaw muszla",
+          "url": "https://open.spotify.com/artist/0AOSrnRuEdWClVWLw7masF"
+        },
+        {
+          "name": "ak47liltwan",
+          "url": "https://open.spotify.com/artist/3a1LOUpH70OL0iqO8Rl1sS"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132244,
+      "name": "\u015amigus Dyngus",
+      "url": "https://open.spotify.com/track/1zkJvY0eByAJ5DLtE7CKvA"
     },
     {
       "album": {

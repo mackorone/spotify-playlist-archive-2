@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAATbv/Y3SMNZR4vSeDwAb45qKoRDTSo",
+  "snapshot_id": "AAATdHN7Jt4/JagCrvjyl44VOC9kTg4v",
   "tracks": [
     {
       "added_at": "2026-04-10 10:13:55",
@@ -23,6 +23,22 @@
       "duration_ms": 253085,
       "name": "Kiss Me Before I Die",
       "url": "https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb"
+    },
+    {
+      "added_at": "2026-04-25 19:02:33",
+      "album": {
+        "name": "Hangin' Around",
+        "url": "https://open.spotify.com/album/6ld6levoN0NXrAwcYEefEM"
+      },
+      "artists": [
+        {
+          "name": "Vitanota",
+          "url": "https://open.spotify.com/artist/6Ay0IHTWZ1abifFcGYI1Lv"
+        }
+      ],
+      "duration_ms": 332682,
+      "name": "Hangin' Around",
+      "url": "https://open.spotify.com/track/3Cbr8g7vPITrrIzLVi79g6"
     },
     {
       "added_at": "2026-04-17 16:05:40",
@@ -699,38 +715,6 @@
       "duration_ms": 168167,
       "name": "Run away",
       "url": "https://open.spotify.com/track/3MMWYNw86r00wkk7smvoM1"
-    },
-    {
-      "added_at": "2026-03-31 09:02:07",
-      "album": {
-        "name": "Holy Light",
-        "url": "https://open.spotify.com/album/2g2GdOAFgY5WFIDT6ouNmM"
-      },
-      "artists": [
-        {
-          "name": "Yade Ivy",
-          "url": "https://open.spotify.com/artist/0VZtxz6FOhkurLOPdUH9CW"
-        }
-      ],
-      "duration_ms": 308558,
-      "name": "Holy Light",
-      "url": "https://open.spotify.com/track/5sO8Q4Yii3v3JCneozayy3"
-    },
-    {
-      "added_at": "2026-03-31 09:02:20",
-      "album": {
-        "name": "Lost Song Wars",
-        "url": "https://open.spotify.com/album/3T4Tq9XjsEdxI8clFJFCie"
-      },
-      "artists": [
-        {
-          "name": "TMF Rock",
-          "url": "https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9"
-        }
-      ],
-      "duration_ms": 261363,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/4oanX17e4dDfaxuaVGu9ZL"
     },
     {
       "added_at": "2026-03-31 09:02:37",
@@ -2455,6 +2439,54 @@
       "duration_ms": 168040,
       "name": "Dopamina",
       "url": "https://open.spotify.com/track/3RGNZNaFtN9nQSk7G2Ai5P"
+    },
+    {
+      "added_at": "2026-04-25 08:35:25",
+      "album": {
+        "name": "Want Me Back",
+        "url": "https://open.spotify.com/album/3sRGNn9dyvxkryQuX0qiCx"
+      },
+      "artists": [
+        {
+          "name": "Austin Carr",
+          "url": "https://open.spotify.com/artist/7wbw9KslI7YzqujQRkxDrB"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Want Me Back",
+      "url": "https://open.spotify.com/track/7ExJgUlNREs38GpnHdZ1TW"
+    },
+    {
+      "added_at": "2026-04-25 08:35:28",
+      "album": {
+        "name": "Maybe This Time",
+        "url": "https://open.spotify.com/album/66VMQdFAOE1xjVEEWfipaT"
+      },
+      "artists": [
+        {
+          "name": "Denny Haze",
+          "url": "https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1"
+        }
+      ],
+      "duration_ms": 209082,
+      "name": "Maybe This Time",
+      "url": "https://open.spotify.com/track/0Btok8fuH53WscccgEnav6"
+    },
+    {
+      "added_at": "2026-04-25 15:06:09",
+      "album": {
+        "name": "Haze",
+        "url": "https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn"
+      },
+      "artists": [
+        {
+          "name": "The Marica Frequency",
+          "url": "https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "Iza Bella",
+      "url": "https://open.spotify.com/track/2m33TemOMBEDzRpw1TsLhd"
     }
   ],
   "unique_name": "New Indie Music",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: The Plot In You
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,581 likes - 200 songs - 12 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,578 likes - 200 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 199 | [Failure](https://open.spotify.com/track/37yw6KxtQvrEFoGgaPKDk1) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [Failure](https://open.spotify.com/album/3B0vlKulcSXR2awd0t7JUU) | 4:01 |
 | 200 | [All Wrong](https://open.spotify.com/track/4o8v3qZ0nBh2k5EpdS1IK7) | [MoistCr1tikal](https://open.spotify.com/artist/3NTvftovapkDsi2pc7eeS0), [Nik Nocturnal](https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q), [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [All Wrong](https://open.spotify.com/album/1JDT7uQeWyt8HIEZnmv2pv) | 3:02 |
 
-Snapshot ID: `AAAAAEkOuGlJ7qLoBP/ZrbegpX+chFvl`
+Snapshot ID: `AAAAAOjG9gJ3hqZROqx6ddVRPv514M7Z`

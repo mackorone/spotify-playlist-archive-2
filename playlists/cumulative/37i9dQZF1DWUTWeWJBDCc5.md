@@ -4,7 +4,7 @@
 
 > 스포티파이 뮤직 에디터가 선정한 4월의 노래를 만나보세요.
 
-156 songs - 8 hr 20 min
+158 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [CAN I SIP 담배](https://open.spotify.com/track/12mcwm60QZRzTOCPv40AT8) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ) | [pullup to busan 4 morE hypEr summEr it’s gonna bE a fuckin moviE](https://open.spotify.com/album/4TJQ4ze7fqMJIzGB1Y4vTy) | 2:17 | 2025-12-04 | 2026-02-05 |
 | [Can’t Sleep](https://open.spotify.com/track/6b7Nlyue6H7kzGMI4MdlS0) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Someone I Know](https://open.spotify.com/album/0BXG5clEkwgQD8nCrbXs04) | 3:58 | 2025-12-04 | 2026-02-05 |
 | [Casanova](https://open.spotify.com/track/2VHn8lbvu0vjBn5mIugXoD) | [Giwon](https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV), [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva) | [Casanova](https://open.spotify.com/album/3nsTpFqwW2gsCcYtajKt23) | 2:44 | 2025-12-04 | 2026-02-05 |
+| [CELEBRATION](https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION](https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL) | 2:33 | 2026-04-25 |  |
 | [Certii \(Feat\. Kid Milli\)](https://open.spotify.com/track/1Fch2cl3GOwaF9QZ8LYsML) | [OKASHII](https://open.spotify.com/artist/6Vs5u8gSzXsS1LPZhmXoiB), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [ANTIVANDALISM](https://open.spotify.com/album/6Gl71fSOynd8zk8vfgMj6h) | 2:44 | 2026-02-04 | 2026-03-04 |
 | [Champion](https://open.spotify.com/track/43BJVWcBzHRIDaQCg7abnX) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 2:52 | 2026-03-03 |  |
 | [Cinnamon Shake](https://open.spotify.com/track/1Y6uJQVtPFSIZ9KQM6ENLk) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [EUPHORIA](https://open.spotify.com/album/5nefAD1EsXbLksNfBJorPV) | 2:55 | 2026-02-04 | 2026-03-04 |
@@ -62,6 +63,7 @@
 | [ENERGY](https://open.spotify.com/track/3K6yAlZxPch65Xz69S2C8N) | [UNCHILD](https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu) | [We Are UNCHILD](https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP) | 2:00 | 2026-04-21 |  |
 | [FAMOUS](https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7) | 3:00 | 2025-12-04 | 2026-02-05 |
 | [Feel it Coming](https://open.spotify.com/track/0NOiX0RMUleJ3TBvR6LluM) | [xeom boi](https://open.spotify.com/artist/5DEvwmOXx50p6LUUg32t8M) | [Day 5](https://open.spotify.com/album/1vI56rynJdQnHYiRMmatfP) | 2:39 | 2026-02-04 | 2026-03-04 |
+| [Find You](https://open.spotify.com/track/7lhuwwTReovk2mqGUNvy2M) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Find You](https://open.spotify.com/album/2qa2XETaR8FBmu1I4tH1Tz) | 2:55 | 2026-04-25 |  |
 | [First Sight](https://open.spotify.com/track/5trjbfsHbyxkcLdkq7aLN2) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [First Sight](https://open.spotify.com/album/25K852Vuj9m7hf21rKr6Ra) | 3:33 | 2025-12-04 | 2026-02-05 |
 | [FOCUS](https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS \- The 1st Mini Album](https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b) | 2:57 | 2025-12-04 | 2026-02-05 |
 | [Follow Your Steps \(Feat\. BIBI\)](https://open.spotify.com/track/7opKvhH1FUiDCmkMSREqwr) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Follow Your Steps \(Feat\. BIBI\)](https://open.spotify.com/album/7z9DTlk05LOOhdU9jQKZUg) | 4:20 | 2025-12-04 | 2026-02-05 |

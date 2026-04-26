@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-437 songs - 1 day 0 hr 29 min
+441 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Leave Me Alone](https://open.spotify.com/track/58k6KdzzvSjfUWkRpvbFYi) | [Mitirikpwe Patricia](https://open.spotify.com/artist/0NEmwN7vYujcKPM4hs5cVh) | [Mitirikpwe](https://open.spotify.com/album/1UgRg1mzV72aE0VQPdtujP) | 3:26 | 2025-11-17 | 2026-01-05 |
 | [Let Me Be Me](https://open.spotify.com/track/4xDKzurISthaAbD6NzOy75) | [Lilly Sweetness](https://open.spotify.com/artist/3TwZJUhz6tKt6OxFPNf4fu) | [Blessings](https://open.spotify.com/album/0sEWclT1yWwNlQfnPRJ9v4) | 3:54 | 2026-02-28 |  |
 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 | 2026-01-29 | 2026-03-03 |
+| [Libero](https://open.spotify.com/track/5hF1NTbssOdxNlq1gff94O) | [HIRUNDO](https://open.spotify.com/artist/07ZBrNvM8jzpBrKNV7F5jk) | [Libero](https://open.spotify.com/album/2Td6GhaGd2bLCjtPwgeJdj) | 2:57 | 2026-04-25 |  |
 | [Life to the End](https://open.spotify.com/track/6jJz7ivhfDOITkDRe6lw3v) | [Brene Wilson](https://open.spotify.com/artist/6xKFlWtI3CkiqpFEzkchZj) | [Trial and Error Session](https://open.spotify.com/album/1uW561qp8DOm8Ey7tgzLUv) | 4:16 | 2025-11-10 | 2025-12-01 |
 | [Lifespan](https://open.spotify.com/track/061iJoemR1JeGwFZa0339j) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Lifespan](https://open.spotify.com/album/3wOlsRSBN05i4lfp9zYhBy) | 2:22 | 2025-10-19 | 2026-01-05 |
 | [Light in the Darkness](https://open.spotify.com/track/4469akQ3sJ0BL8LO92RNmL) | [FLÒRALYN](https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy) | [Light in the Darkness](https://open.spotify.com/album/31cciFSZKFdJmpoYXIFFMi) | 3:59 | 2026-03-26 |  |
@@ -262,6 +263,7 @@
 | [Mein Block](https://open.spotify.com/track/0cHc5tyUQ1PkOCgz5kLmxc) | [DCI Dashcam](https://open.spotify.com/artist/6cL9wQrj7bdDnYtM6aeyRV) | [Mein Block](https://open.spotify.com/album/7zwRE5aoBDcuYBOzlENOxU) | 2:27 | 2025-12-25 | 2026-01-15 |
 | [Memories](https://open.spotify.com/track/5Jpq2l82zrAp0IxgeLR8c2) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:32 | 2026-04-06 |  |
 | [MERKAVÁ](https://open.spotify.com/track/6lv3CY0BItKVXV42uhGbSG) | [Kibbutz Paradiso](https://open.spotify.com/artist/21vbXHIW0qY3qchdDPmAmB) | [MERKAVÁ](https://open.spotify.com/album/5TvvDO3PiMc1kfoRblhIy9) | 3:09 | 2025-12-24 | 2026-01-15 |
+| [Meta](https://open.spotify.com/track/6bkUhClIp0aid5XGt3dA1e) | [HIRUNDO](https://open.spotify.com/artist/07ZBrNvM8jzpBrKNV7F5jk) | [Meta](https://open.spotify.com/album/5NkecLhbahD5w3xgFxYoH1) | 3:24 | 2026-04-25 |  |
 | [Minding My Business](https://open.spotify.com/track/1AYKrxVWjGxkUdcOxadqzw) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Minding My Business](https://open.spotify.com/album/5XZYS9zWdncFogtSThtheL) | 1:39 | 2025-11-22 | 2026-01-05 |
 | [Minimal Life](https://open.spotify.com/track/5wwqaDdBRzWOPzzrXyVEB2) | [Waiting for the Sun](https://open.spotify.com/artist/6FBHO9VpDvTirqGAR7mEiA) | [Minimal Life](https://open.spotify.com/album/3JoINj8K0gm9zBjt0SNpzB) | 5:43 | 2026-01-04 | 2026-02-21 |
 | [Mis miedos, mi terror](https://open.spotify.com/track/4yt8b2qgcSfE77EnmyMnue) | [Tekelinos](https://open.spotify.com/artist/6eQjn7wIob0mu1K7q7hZy0) | [Lluvia de Nuestras Realidades](https://open.spotify.com/album/323VD6i36aWnjVYOUKFLW2) | 3:32 | 2025-11-08 | 2025-12-01 |
@@ -308,6 +310,7 @@
 | [Problems](https://open.spotify.com/track/5MxRhv2q5dGPZSLrpDpabU) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Nothing to Flex](https://open.spotify.com/album/0VempJuNZuz1GP3GSARn0p) | 3:43 | 2025-10-30 | 2025-12-01 |
 | [Prophecy](https://open.spotify.com/track/52iBXDKJNavmfKcY4eRsgQ) | [HBKMETRIII](https://open.spotify.com/artist/77fYc2hHg47Zmlfjh4cLhH) | [Prophecy](https://open.spotify.com/album/44CWFTTNEkwZgOEp7ZXiwv) | 2:21 | 2025-12-30 | 2026-01-25 |
 | [Pure Class](https://open.spotify.com/track/2szx8uXP3tKkmmLYWzKNgP) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/4h7XcpvcKu0yTU5ZaJfwSY) | 2:59 | 2026-03-08 | 2026-04-14 |
+| [Que No Te Importe](https://open.spotify.com/track/4kXG6SQ0NF2cUpvoZjaClf) | [Karlex Pitt](https://open.spotify.com/artist/6RZcX1OjxVzN6j1gycuevD) | [Que No Te Importe](https://open.spotify.com/album/0yYgk2KXBhW1A2AgLXMgw4) | 2:31 | 2026-04-25 |  |
 | [Rabbit!](https://open.spotify.com/track/3knD7dkD3rgu3AAF893E8R) | [Kim Million$](https://open.spotify.com/artist/393NYPTSuRjbbf2HtcnRMN) | [Rabbit!](https://open.spotify.com/album/3DQgH9DE5lLAXPmnwHnRTy) | 2:10 | 2026-04-13 |  |
 | [Rain](https://open.spotify.com/track/13XK1nYPylUfYF0FtxCvVB) | [Zoe Tedeschi](https://open.spotify.com/artist/1SJpmtRt9oC0NU3R9cqNc3) | [Rain](https://open.spotify.com/album/3Z3sd1x32IUjs4u9dkMevk) | 3:03 | 2026-01-04 | 2026-02-21 |
 | [Ramounie](https://open.spotify.com/track/6xWlprrLSpaNMK6tnaZ0NZ) | [DJ ToloV](https://open.spotify.com/artist/5EovaKhTCk7aUZ2iYy26t7) | [Ramounie](https://open.spotify.com/album/5595pglhwoIHAFB0PvmAKr) | 3:55 | 2025-11-16 | 2026-01-05 |
@@ -438,6 +441,7 @@
 | [You Got the Feeling](https://open.spotify.com/track/4k6zhS7VG4AadaoJHpcb3k) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Evolution of Love](https://open.spotify.com/album/3lal0yLRsw3QQ1PiuqN3aL) | 4:13 | 2025-11-24 | 2026-01-05 |
 | [You Make Me Feel](https://open.spotify.com/track/6GowrMYjvh0Ercfkg8QQfC) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [You Make Me Feel](https://open.spotify.com/album/2b3uNUKmyiWJCaxQtXSmhq) | 3:11 | 2026-04-08 |  |
 | [You Never Died](https://open.spotify.com/track/3JBFbPQRqufCifcueo0BeG) | [Boneyard Lily](https://open.spotify.com/artist/4X258WlI0oC78zl7HC2jMn) | [You Never Died](https://open.spotify.com/album/57brjzlWROvtNLEMsNNnem) | 3:38 | 2025-11-11 | 2025-12-01 |
+| [You Planned This](https://open.spotify.com/track/5pFBa9Ks4FJEsTCE624jid) | [ARIE](https://open.spotify.com/artist/6dA76J841h4udyGQEoxnng) | [You Planned This](https://open.spotify.com/album/4ZnAzHdUUYFktDE3u3rRNO) | 3:20 | 2026-04-25 |  |
 | [young frankenstein](https://open.spotify.com/track/35r1UEv4bYbwxHT7MqoPX8) | [open](https://open.spotify.com/artist/0BGu5l3ttSeSQq7yhqBTjB) | [young frankenstein](https://open.spotify.com/album/3HUqK5fRKaBOMUJGJFYPrf) | 2:59 | 2025-12-04 | 2026-01-05 |
 | [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 | 2026-02-07 | 2026-03-03 |
 | [Ziggy Is a Alien](https://open.spotify.com/track/54MGPMwVgY22hEZ8IPZm9j) | [Vinto Van Go](https://open.spotify.com/artist/0uUd4TGlqun8VeyQ8fIMwA) | [Ziggy Is a Alien](https://open.spotify.com/album/63jS1IYn1RtilOe8kcgK1Q) | 3:43 | 2026-03-22 |  |

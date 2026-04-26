@@ -14169,6 +14169,24 @@
     },
     {
       "album": {
+        "name": "Terra Prometida",
+        "url": "https://open.spotify.com/album/4sW5CDjrdekp8AuaBFQ8Fj"
+      },
+      "artists": [
+        {
+          "name": "Lena d\u2019\u00c1gua",
+          "url": "https://open.spotify.com/artist/6236JGmsEzqSEobDtH75lS"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340293,
+      "name": "Tao",
+      "url": "https://open.spotify.com/track/1RM5TrcSiiOale402fkjsh"
+    },
+    {
+      "album": {
         "name": "Ilana (The Creator)",
         "url": "https://open.spotify.com/album/6HbPDJQcg8ms0PpOERZmXH"
       },

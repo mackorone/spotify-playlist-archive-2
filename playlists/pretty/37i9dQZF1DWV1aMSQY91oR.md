@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: Cadence Weapon & Junia\-T
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,794 likes - 49 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,813 likes - 49 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 28 | [WOAH](https://open.spotify.com/track/7zO39XFeFtKWpFbYtDTh3Y) | [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [WOAH](https://open.spotify.com/album/1fFxMza5WpchuZFbIKRNFJ) | 2:36 |
 | 29 | [Spend Dat](https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Spend Dat](https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC) | 3:01 |
 | 30 | [600 Racks](https://open.spotify.com/track/4ss5dbCWS90LRINPRxDjE6) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [600 Racks](https://open.spotify.com/album/6rU9y9BYVGa7uA977pl0f5) | 3:04 |
-| 31 | [Slow](https://open.spotify.com/track/0Uo5SflCaV61rtGLANXnnx) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg) | [Slow](https://open.spotify.com/album/5iRfTfxLcrMQJbnQabjda1) | 2:37 |
+| 31 | [Slow](https://open.spotify.com/track/0Uo5SflCaV61rtGLANXnnx) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Den Thomas](https://open.spotify.com/artist/4bHotG4vpt01J3ZeP9HOpU) | [Slow](https://open.spotify.com/album/5iRfTfxLcrMQJbnQabjda1) | 2:37 |
 | 32 | [WAGWAN](https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ALL ROADS LEAD HOME](https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID) | 2:07 |
 | 33 | [Pull Over](https://open.spotify.com/track/0wHgsYlk5WR4j98qQwOQym) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Pull Over](https://open.spotify.com/album/0fBFZblcPCYspMLHDR1IJu) | 2:57 |
 | 34 | [HunchO STEP! \(feat\. Quavo\)](https://open.spotify.com/track/5Q5q2dBnvn6CkpuB8RmLXr) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [HunchO STEP! \(feat\. Quavo\)](https://open.spotify.com/album/1QZeMcXY4qchahi6eQFzuT) | 3:20 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LTWvs1eqq4r0Qln13AssN">Phil Bentley</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-142 songs - 6 hr 58 min
+143 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Love Language](https://open.spotify.com/track/1hpolqWVLWHYofboexfPyW) | [Blinded Hearts](https://open.spotify.com/artist/5uiEF5htEqJgHcOajZ25ns), [Miles Hi](https://open.spotify.com/artist/41Bz5o8M5l4QarFJfMJYsV) | [Love Language](https://open.spotify.com/album/6KYTBerNRoHBF1irsxRTxv) | 2:05 | 2024-01-29 |  |
 | [Loves Come Down \- Radio](https://open.spotify.com/track/6yZvE8ntSVDXwNiHSEibKV) | [Ivan Gomez](https://open.spotify.com/artist/5EN8BXlwC3RBqaZSBT6BTD), [Nacho Chapado](https://open.spotify.com/artist/75Npu8c9MYb94u6LqZn5mv), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Audacious Summer Vol\. 1](https://open.spotify.com/album/2W3rr39x1lYWO0D3ImahYB) | 3:39 | 2025-09-10 |  |
 | [Mad \- Cosmic Dawn & Andy Reece Radio](https://open.spotify.com/track/5aDtUr2bIpUZap6PXK8z5C) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [Cosmic Dawn](https://open.spotify.com/artist/3N5Z5OlPEEgMX0CLrpT0tv), [Andy Reese](https://open.spotify.com/artist/11ZIHdaE8YxIaHC2gBk8vE) | [Audacious Summer Vol\. 1](https://open.spotify.com/album/2W3rr39x1lYWO0D3ImahYB) | 4:00 | 2025-09-10 |  |
-| [Miss Automatic](https://open.spotify.com/track/4ytMI0xkRMGIDe9PTwpQ3Y) | [Mark Angelo](https://open.spotify.com/artist/288eZo7UTFQoL9aFLR3S0r), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [Epsilon](https://open.spotify.com/artist/2WVeWSVaLm9x2Uww6t1p9A) | [Miss Automatic](https://open.spotify.com/album/1AOIElfKvDzmigoqUXHKVB) | 3:28 | 2024-01-29 |  |
+| [Miss Automatic](https://open.spotify.com/track/2cumiTsqQGL2dBp3XqvMAk) | [Mark Angelo](https://open.spotify.com/artist/288eZo7UTFQoL9aFLR3S0r), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [Epsilon](https://open.spotify.com/artist/2WVeWSVaLm9x2Uww6t1p9A) | [Miss Automatic](https://open.spotify.com/album/05hUGDmOGAasyW1gOUilkv) | 3:28 | 2026-04-25 |  |
+| [Miss Automatic](https://open.spotify.com/track/4ytMI0xkRMGIDe9PTwpQ3Y) | [Mark Angelo](https://open.spotify.com/artist/288eZo7UTFQoL9aFLR3S0r), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [Epsilon](https://open.spotify.com/artist/2WVeWSVaLm9x2Uww6t1p9A) | [Miss Automatic](https://open.spotify.com/album/1AOIElfKvDzmigoqUXHKVB) | 3:28 | 2024-01-29 | 2026-04-26 |
 | [Missing You This Christmas](https://open.spotify.com/track/69zAhHdAmxmNVrkCU4pjbR) | [Jordyn Jones](https://open.spotify.com/artist/4goZmMm5PJIE6kRz70xKdd) | [Missing You This Christmas](https://open.spotify.com/album/5orLRE7PlllY6pwMgG5TnL) | 3:17 | 2024-01-29 |  |
 | [Mustangs](https://open.spotify.com/track/6h2yBxbA1PoSXA6vliLw9l) | [Punch !nc](https://open.spotify.com/artist/0iRdgcSMVRBHPqEXWdqMkl) | [The High L!fe](https://open.spotify.com/album/6AkxONHcB8l41HvWInyF7q) | 3:05 | 2024-01-29 |  |
 | [My Body](https://open.spotify.com/track/0o5dGw2BtMLK8YMU3GtSzK) | [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R), [Palm Trees](https://open.spotify.com/artist/3IYNUniWKkMmHKUHssC392), [Sophia Ayana](https://open.spotify.com/artist/0Tags4oElQqYRXkUyzGPzg) | [My Body](https://open.spotify.com/album/5fkGdJ7LEl4YSE9w49kxY7) | 2:41 | 2024-01-29 |  |

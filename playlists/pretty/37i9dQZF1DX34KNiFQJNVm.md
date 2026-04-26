@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Vitor Kley com Joyce Alane, Akon, Clayton & Romário, Zeca Pagodinho, Kehlani, KAROL G, Fresno e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,281,957 likes - 98 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,281,857 likes - 98 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 57 | [10MIIIL](https://open.spotify.com/track/10urs4elalhqzywAL8LpM1) | [DESSIIIK](https://open.spotify.com/artist/3ZLfLpRggl7ncrWSQy9WTV), [bwhatudoin](https://open.spotify.com/artist/4efJOhkoi4uqW0vULYPEUR), [Yoko](https://open.spotify.com/artist/0UenuJp55lQTf168bwDCcH) | [10MIIIL](https://open.spotify.com/album/2gSuj5P49G0jstVRCMuC05) | 1:47 |
 | 58 | [Indiferente](https://open.spotify.com/track/3JUmNcneDnSEkqgitOwJ0i) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Indiferente](https://open.spotify.com/album/2q5jwon1ku6oOdq0qzFKoP) | 3:31 |
 | 59 | [MANDAQUI MANDELA](https://open.spotify.com/track/3ixovNFamZrkvQY82IDofJ) | [SPVIC](https://open.spotify.com/artist/446NPc9EAgsxmeoj3YzXAs), [Muzzike](https://open.spotify.com/artist/2XTtA7Pvl5vucL3oFXlMyT), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [WaraBeats](https://open.spotify.com/artist/2MYzGKXSphHn7Z2G6dRbBd) | [Mandaqui Mandela](https://open.spotify.com/album/5BJSMp5y7OLgarb5g00aCj) | 2:06 |
-| 60 | [Rosa Mais Linda](https://open.spotify.com/track/7bnsfstppIw4jy3LIfZiE2) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [NoShuga](https://open.spotify.com/artist/1r0cTHuFmN9DaQEG6ZrVsf) | [Rosa Mais Linda](https://open.spotify.com/album/4rulHAvHiWDvYyqDvvquJm) | 4:28 |
+| 60 | [Rosa Mais Linda](https://open.spotify.com/track/7bnsfstppIw4jy3LIfZiE2) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Noshugah](https://open.spotify.com/artist/39y7fxAAQUe9SJotuSRsCs) | [Rosa Mais Linda](https://open.spotify.com/album/4rulHAvHiWDvYyqDvvquJm) | 4:28 |
 | 61 | [Tell Me Why](https://open.spotify.com/track/3juNnPjvWCVw0UC8w9txNx) | [GOBAITH](https://open.spotify.com/artist/7m7cqf2HQsPXvAhfU2e320) | [Tell Me Why](https://open.spotify.com/album/6lVGBWeobnsa9sYtb6In1q) | 3:28 |
 | 62 | [Passion \(R U Satisfied\)](https://open.spotify.com/track/6XqRL8W59LbyLuIQ7wyjON) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [The Flirts](https://open.spotify.com/artist/3tjF6wLt90r7qSWukrn401) | [Passion \(R U Satisfied\)](https://open.spotify.com/album/2cBsiboy6NvsFuQkhh8tta) | 3:13 |
 | 63 | [Secret Love](https://open.spotify.com/track/5CBlf52jQgEFgYl6qrpaSB) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Secret Love](https://open.spotify.com/album/49v0uMn1Qm3Q9H5x6RLCPc) | 2:32 |

@@ -2797,6 +2797,24 @@
     },
     {
       "album": {
+        "name": "Manuel (Ojal\u00e1 que nunca escuches este disco)",
+        "url": "https://open.spotify.com/album/2V2m6U5rE9O6zVhWJW8rVm"
+      },
+      "artists": [
+        {
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125449,
+      "name": "El alma de la fiesta",
+      "url": "https://open.spotify.com/track/512TbNoyJjDVaCfid6NYh3"
+    },
+    {
+      "album": {
         "name": "El Beisbolero (En Vivo)",
         "url": "https://open.spotify.com/album/74pgex0gAHhQhxlYmUZ68l"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Venna. The essential tracks, all in one playlist.",
-  "num_followers": 1381,
+  "num_followers": 1382,
   "original_name": "This Is Venna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aelhAAAAAACwJUugDA6wv5HksjlmQi2W",
+  "snapshot_id": "aeqygAAAAAD/h6JrL5tdJzcXTfAf9wGo",
   "tracks": [
     {
       "added_at": null,
@@ -623,30 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ways of Knowing",
-        "url": "https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO"
-      },
-      "artists": [
-        {
-          "name": "Navy Blue",
-          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
-        },
-        {
-          "name": "Liv.e",
-          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
-        },
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 130546,
-      "name": "Embers (feat Liv.e & Venna)",
-      "url": "https://open.spotify.com/track/4SRY0aXM7Sb3HTqgxG0cWr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vibes (feat. Sam Wise & Venna)",
         "url": "https://open.spotify.com/album/7ED4oWJ38EyR2VkSIAQ9kc"
       },
@@ -667,6 +643,30 @@
       "duration_ms": 192894,
       "name": "Vibes (feat. Sam Wise & Venna)",
       "url": "https://open.spotify.com/track/0rpSppwgJjbbeYEmM7uujk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ways of Knowing",
+        "url": "https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO"
+      },
+      "artists": [
+        {
+          "name": "Navy Blue",
+          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
+        },
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 130546,
+      "name": "Embers (feat Liv.e & Venna)",
+      "url": "https://open.spotify.com/track/4SRY0aXM7Sb3HTqgxG0cWr"
     },
     {
       "added_at": null,
@@ -715,30 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BARE SUGAR",
-        "url": "https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD"
-      },
-      "artists": [
-        {
-          "name": "Ragz Originale",
-          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
-        },
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        },
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 164045,
-      "name": "july (feat. Tiana Major9 & Venna)",
-      "url": "https://open.spotify.com/track/2eRYY2aDP2VOWwL6bIcakY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ambrosia",
         "url": "https://open.spotify.com/album/02HL5yDyMnfyhw1Wgi45xj"
       },
@@ -759,6 +735,30 @@
       "duration_ms": 181935,
       "name": "Perfect Peace",
       "url": "https://open.spotify.com/track/0taUesXNdcrBxJBUR4FXYg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BARE SUGAR",
+        "url": "https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD"
+      },
+      "artists": [
+        {
+          "name": "Ragz Originale",
+          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
+        },
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 164045,
+      "name": "july (feat. Tiana Major9 & Venna)",
+      "url": "https://open.spotify.com/track/2eRYY2aDP2VOWwL6bIcakY"
     },
     {
       "added_at": null,

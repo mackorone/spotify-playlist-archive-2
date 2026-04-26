@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Lune, Kim Petras, Rauw Alejandro, Keinemusik & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,952 likes - 94 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,954 likes - 94 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 41 | [PIECES](https://open.spotify.com/track/0LSnGEfj4T8vJyi7lVU3Gn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET \(DELUXE\)](https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3) | 3:25 |
 | 42 | [Dein Hoodie](https://open.spotify.com/track/6QF8vHFuoC9EvFcCN2Dapy) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO) | [Dein Hoodie](https://open.spotify.com/album/0BNe0Sm1BS2gTZ7mrBUqaf) | 1:58 |
 | 43 | [Du fehlst](https://open.spotify.com/track/2uNModvonKjhBM7oaLLXTJ) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [ZWEITAUSENDFÜNF](https://open.spotify.com/album/6znzn67m4u9J61kVMvWXnD) | 2:48 |
-| 44 | [Love On Fire](https://open.spotify.com/track/417XM2guWLv0ItSGNCIByL) | [Mika Heggemann](https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP), [IMO](https://open.spotify.com/artist/1MnNVa410zCIAILGmSOmNd) | [Love On Fire](https://open.spotify.com/album/4bn9bl7vR9BlQ7HgnNAmY4) | 3:43 |
+| 44 | [Love On Fire](https://open.spotify.com/track/417XM2guWLv0ItSGNCIByL) | [Mika Heggemann](https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP), [IMO](https://open.spotify.com/artist/24jwoOYBMstx3HeVw60Y7q) | [Love On Fire](https://open.spotify.com/album/4bn9bl7vR9BlQ7HgnNAmY4) | 3:43 |
 | 45 | [VISION](https://open.spotify.com/track/50WiSPtOMlrONBTkcDyhQy) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [VISION](https://open.spotify.com/album/4mVo7o80j0vsGJ4l9hrmci) | 3:30 |
 | 46 | [Shimmer](https://open.spotify.com/track/3UOnrnhbfDxh0ORHCQ3DxZ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H) | 2:47 |
 | 47 | [DO NOT DISTURB](https://open.spotify.com/track/2DwcDfz4qgWrj4DhTtSKfb) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [SÜDDEUTSCHER TRAUM](https://open.spotify.com/album/63MTsQycsoZruPgxHV5fb8) | 2:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > 🚀 when ur love language is bpm 🚀  Cover: Marlon Hoffstadt
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,374 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,524 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 17 | [Kiss Me Again \- Official Remix](https://open.spotify.com/track/2NFRD277REu6F0YvJV8xC8) | [Johannes Schuster](https://open.spotify.com/artist/7qm7cw0DHBm1p15hvLi0TL), [KIRK](https://open.spotify.com/artist/0BlHszHdUBgccXJpM3qAbQ) | [Kiss Me Again \(Official Remix\)](https://open.spotify.com/album/1nnQSlTDK0fyG4zmjCZwNO) | 3:15 |
 | 18 | [tell you straight \- Sped Up](https://open.spotify.com/track/4zWWGFmM2LhtnMAVrTmYBg) | [Strn.](https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH), [ALEXYS](https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT) | [tell you straight \(Speed Garage\)](https://open.spotify.com/album/7k9LXSIhJe0FDIPZJh1VGn) | 1:34 |
 | 19 | [2003](https://open.spotify.com/track/0d2nwtK9mfFiVO8hkM5Xln) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [2003](https://open.spotify.com/album/2E928WZPSSBAmGPhujvSdF) | 3:13 |
-| 20 | [Love On Fire](https://open.spotify.com/track/417XM2guWLv0ItSGNCIByL) | [Mika Heggemann](https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP), [IMO](https://open.spotify.com/artist/1MnNVa410zCIAILGmSOmNd) | [Love On Fire](https://open.spotify.com/album/4bn9bl7vR9BlQ7HgnNAmY4) | 3:43 |
+| 20 | [Love On Fire](https://open.spotify.com/track/417XM2guWLv0ItSGNCIByL) | [Mika Heggemann](https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP), [IMO](https://open.spotify.com/artist/24jwoOYBMstx3HeVw60Y7q) | [Love On Fire](https://open.spotify.com/album/4bn9bl7vR9BlQ7HgnNAmY4) | 3:43 |
 | 21 | [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 |
 | 22 | [We Are The People \- southstar Remix](https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA) | 3:56 |
 | 23 | [No Time To Waste](https://open.spotify.com/track/6ODBf7LcF4Z24V6u2GuLhk) | [Afem Syko](https://open.spotify.com/artist/0AI1UbChn1oJGs5JHFkebU), [JOKESONYOU](https://open.spotify.com/artist/2XqkFv7puGh2cP0azCZdoc) | [No Time To Waste](https://open.spotify.com/album/6gfPHFTS27l1VwMYUpoxaH) | 3:27 |

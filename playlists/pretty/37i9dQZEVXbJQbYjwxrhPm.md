@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,622 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,625 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 30 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 |
 | 31 | [Tintiri Mintiri](https://open.spotify.com/track/6QcUO5ViDICTY2HMQPFpmV) | [Beatris](https://open.spotify.com/artist/29MN0yjTnpXAU1M7NIETxK), [Monkey](https://open.spotify.com/artist/5wpjYEcmW8zMVbiiFidaGO) | [Tintiri Mintiri](https://open.spotify.com/album/6AbK5UiA0cAFlveFC05t9H) | 3:02 |
 | 32 | [Откачила](https://open.spotify.com/track/3fEpl8LU6WyIuE3C9P6pfI) | [Selina](https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ), [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Откачила](https://open.spotify.com/album/52P4CGdygRdEWNJWGSS2Eu) | 2:55 |
-| 33 | [Confident](https://open.spotify.com/track/3JsydWaf2Ev4ehaLUjj3SY) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Journals](https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA) | 4:08 |
+| 33 | [Confident \- Single Version](https://open.spotify.com/track/6czM6UMQD9qE5GAUp68oud) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Journals](https://open.spotify.com/album/0PZY8Rxtm8ujGlGIQISqRL) | 4:08 |
 | 34 | [Флиртаджийка](https://open.spotify.com/track/4qLEt1zX6T9uBVNzD6ro59) | [Kiara](https://open.spotify.com/artist/3J4l3yj3cNs6TifveDvk9Z) | [Флиртаджийка](https://open.spotify.com/album/0sEVcs08CuEplr1JGLrH1A) | 3:14 |
 | 35 | [Булеварда](https://open.spotify.com/track/7ESOjeoe9blHDhUjkJmWxP) | [Adam](https://open.spotify.com/artist/696J4fiOALx5ifVKv10VbK) | [Булеварда](https://open.spotify.com/album/0VA962s1a7RdtalYaugoi0) | 3:32 |
 | 36 | [Дъното копай](https://open.spotify.com/track/1HNT2gc2dDu9uymszz1ITN) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG), [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn) | [Дъното копай](https://open.spotify.com/album/10IxXLlcxkd2fssT2gsxts) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Па\-Па\-Па](https://open.spotify.com/track/2ppKa7AjDeUDQp1DlArXQj) | [Sasha SANDRA](https://open.spotify.com/artist/1W5trZX8YL2XnhQHGGOxyG) | [Па\-Па\-Па](https://open.spotify.com/album/1AbFcZyfjpnkvhlis41DwY) | 2:56 |
 | 50 | [Ще ме търсиш](https://open.spotify.com/track/4DxdsSAzo1IVE2PRg0WsG8) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Ще ме търсиш](https://open.spotify.com/album/07jRWauI3LME1RONMB6kLI) | 3:10 |
 
-Snapshot ID: `MX7VmAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MYAuIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

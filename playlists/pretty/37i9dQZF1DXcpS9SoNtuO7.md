@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by  <a href="https://www.lisani.jp/">LisAni！</a> アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,421 likes - 20 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,424 likes - 20 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 19 | [かもめが翔んだ日](https://open.spotify.com/track/5tqtKAtIbp4cGueVXmqiFn) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [かもめが翔んだ日](https://open.spotify.com/album/45UNjgq5pGLhXFEzYDZDgH) | 3:18 |
 | 20 | [吠える犬と君](https://open.spotify.com/track/4SnUzJYb6KC7bf3GxfqWjS) | [Sound Schedule](https://open.spotify.com/artist/6HORUWB9z2qb1Bm0q510Ww) | [イマココニアルモノ](https://open.spotify.com/album/2EVkdRdHNqS5r2WLaE8MU2) | 4:40 |
 
-Snapshot ID: `AAAAAEdL64blEnGZk3X/Vsd/XVnax0A3`
+Snapshot ID: `AAAAAORFc1p8G4GpHogKolRUWVDP8o1T`

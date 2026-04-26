@@ -60,6 +60,6 @@
 | [Trópico Eléctrico](https://open.spotify.com/track/6wfyATooqFaROQnkmeB3I3) | [Luke Hovey](https://open.spotify.com/artist/3gd2jHvnYcd20gXy8jzaXf), [WATTO](https://open.spotify.com/artist/4b54IerEu9mw3OgGPLAi13) | [Trópico Eléctrico](https://open.spotify.com/album/2IkWivW7N6wSz1Gk76Icro) | 4:03 | 2026-03-02 |  |
 | [Under The Ocean](https://open.spotify.com/track/4JQNvmZIDSG2xWL40txXNf) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Under The Ocean](https://open.spotify.com/album/4m2CIu8Pkh32Z2pgZD0Zli) | 5:13 | 2026-03-02 |  |
 | [Up Is Down with DJ Genesis](https://open.spotify.com/track/1JIqLhfgaLP1EB4mseWCmP) | [Paranoid London](https://open.spotify.com/artist/0KyUH5WmspOhuIQAnw42Fb), [DJ GENESIS](https://open.spotify.com/artist/066cv8rRZSEaeDRLLLn9WI) | [Arseholes, Liars, and Electronic Pioneers](https://open.spotify.com/album/37hDTCk3GbkSpiu89OMqtz) | 4:42 | 2026-03-02 |  |
-| [Us and Them](https://open.spotify.com/track/3U39gNhRzyI4mJh0MbiVRt) | [Lacchesi](https://open.spotify.com/artist/5o4fYRhRy7bjAnroRtj5Qs) | [Second Base](https://open.spotify.com/album/70HdDXmMznyTDwWZHPuspy) | 5:27 | 2026-03-02 |  |
+| [Us and Them](https://open.spotify.com/track/3U39gNhRzyI4mJh0MbiVRt) | [Lacchesi](https://open.spotify.com/artist/5o4fYRhRy7bjAnroRtj5Qs), [Sexyrecs](https://open.spotify.com/artist/5zm0gxEOodkZbb89puWS4f) | [Second Base](https://open.spotify.com/album/70HdDXmMznyTDwWZHPuspy) | 5:27 | 2026-03-02 |  |
 
 \*This playlist was first scraped on 2026-04-20. Prior content cannot be recovered.

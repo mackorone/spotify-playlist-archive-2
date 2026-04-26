@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-723 songs - 1 day 21 hr 32 min
+725 songs - 1 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Black Swan](https://open.spotify.com/track/4XakrAsCDt8dQEw9DwnTvB) | [Ekoboy](https://open.spotify.com/artist/7MiPGXNx49uTQk9HXUIB9o) | [Ye Swan](https://open.spotify.com/album/6e7RdnaEd4Q4HxH4P2wuxe) | 5:02 | 2023-03-05 | 2023-03-20 |
 | [Bleached Out](https://open.spotify.com/track/5OHrUWLMuc6o1l5lvBUj0j) | [Audio Horizon](https://open.spotify.com/artist/47qNLH4a0GEX5etLDPPCyz) | [Afterhours: Cinematic Techno \(Vol\. 1\)](https://open.spotify.com/album/0bBdJLYoz7A5noEA8jVREa) | 3:58 | 2026-03-23 |  |
 | [Bless Me \(with Discrete\)](https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov) | [Bless Me \(with Discrete\)](https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq) | 3:10 | 2023-06-18 | 2023-07-17 |
+| [Block Five’s New Model](https://open.spotify.com/track/7bxgsc6X4Hn310m6Gm7j7U) | [IR1S](https://open.spotify.com/artist/0MXTbSvmj5W2OfKIsZDM6A) | [Block Five’s New Model](https://open.spotify.com/album/3oPSAkLkMedtVIAVfNnWpF) | 4:07 | 2026-04-25 |  |
 | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Kilo Ali](https://open.spotify.com/artist/6qbmEw8JjPrPV4HknWp0O1) | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/album/3XqYLQXudPtDBs73gZYLQG) | 2:25 | 2024-07-07 |  |
 | [Blow Up](https://open.spotify.com/track/0jqGd9d5oznIGULDS2aCja) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Blow up EP](https://open.spotify.com/album/0syFv4l0BXK1zID0jy2jIb) | 3:04 | 2024-07-07 |  |
 | [Blue](https://open.spotify.com/track/4XFo6kxoK5Zg2fESd9x0Zs) | [Ziozland](https://open.spotify.com/artist/46nIUadh3lmdRPgfO4ciC6) | [Blue](https://open.spotify.com/album/2Nc3ntpo0VgOBjzSGMnSNm) | 3:32 | 2026-04-06 |  |
@@ -405,6 +406,7 @@
 | [mi cuerpo fluye](https://open.spotify.com/track/3vh4zLgl4XpIyJIe0zokJw) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [Hacia delante](https://open.spotify.com/album/73vmyx63AXRJdcqvaiJ5l3) | 3:24 | 2026-04-23 |  |
 | [Midnight Frequency](https://open.spotify.com/track/4PDMpPriPr8iuacmYge1rp) | [THE KING YOUTHFULNESS](https://open.spotify.com/artist/390HdFpUeNh5Fir2cFd3Py) | [Midnight Frequency](https://open.spotify.com/album/2Cnxnw6rfRVFvxyO7DPh2U) | 4:16 | 2026-02-04 | 2026-02-23 |
 | [Midnight Temptation](https://open.spotify.com/track/3MQ7AzuBNN1RZr2GzgLLAu) | [Just Ben](https://open.spotify.com/artist/1yYacwL1sMAVv0fGYPmFxL) | [Midnight Temptation](https://open.spotify.com/album/72KQ7LHhNDoxXDH912jdEs) | 2:26 | 2026-03-24 |  |
+| [Midsay](https://open.spotify.com/track/4rq15t5ek2VZjTQH2WtCKz) | [Calpaina3](https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu) | [Midsay](https://open.spotify.com/album/2IwgonvQhgCUfY51H5s9M0) | 3:26 | 2026-04-25 |  |
 | [Mik Jak](https://open.spotify.com/track/0k0JC6kqbr0VXOuYwpaP8t) | [Gabriele Agostino](https://open.spotify.com/artist/3wl85IJepINSZzcf8bSDTJ) | [Mik Jak](https://open.spotify.com/album/433l4WD8ARq9fGTd5CiO3g) | 3:22 | 2024-03-24 | 2024-05-20 |
 | [Mind Awake, Body Asleep](https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Mind Awake, Body Asleep](https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x) | 2:30 | 2023-11-05 | 2024-01-15 |
 | [Mind Eraser](https://open.spotify.com/track/5QIPbGl0nRVoaLYrrbsNy5) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Mind Mirage](https://open.spotify.com/album/5PCyrmD7emJAQ30g6lJilm) | 3:00 | 2024-03-08 | 2025-02-01 |

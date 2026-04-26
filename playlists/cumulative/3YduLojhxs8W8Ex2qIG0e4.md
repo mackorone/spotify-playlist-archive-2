@@ -4,7 +4,7 @@
 
 > the best &amp; new indie rock\. all the belowed tracks &amp; artists
 
-68 songs - 3 hr 59 min
+69 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,5 +76,6 @@
 | [Wide Awake](https://open.spotify.com/track/4b34QqJbXageXnFaBkEmWm) | [Chronic Dream](https://open.spotify.com/artist/5DrfeL7Xz1eERHtX009WIk), [April Afternoon](https://open.spotify.com/artist/6gZQ5pWQx9xVEAMVw2SgXk) | [Wide Awake](https://open.spotify.com/album/5lv7wvo9Rs99PjAkpQdIYq) | 3:33 | 2025-10-21 |  |
 | [Your Girl's Upstairs](https://open.spotify.com/track/2e0mRX40r0777VSfnyzhWa) | [Casey Dienel](https://open.spotify.com/artist/6PfI4m0GOiwOZWbtu38cqP) | [Your Girl's Upstairs](https://open.spotify.com/album/0o23wkZisJMyeXItv6XICI) | 2:30 | 2025-08-26 |  |
 | [Zu viel Kohle \(Schnapp\)](https://open.spotify.com/track/6Hotb91zmKRUhjXWIh2GgR) | [ANTTI 5](https://open.spotify.com/artist/2ST2iSLE7lbXxWz97QXcUU) | [Zu viel Kohle \(Schnapp\)](https://open.spotify.com/album/0qWkQ33sR4OgUF2qz6w4wf) | 2:26 | 2025-04-29 |  |
+| [Дома один](https://open.spotify.com/track/248OC3dvwgZPVTL259e0nV) | [Junk](https://open.spotify.com/artist/0sGDAJjNHwAN33COIELhnM) | [Дома один](https://open.spotify.com/album/6zVoBrYKeKrEXFRGx1Zlkc) | 2:06 | 2026-04-25 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

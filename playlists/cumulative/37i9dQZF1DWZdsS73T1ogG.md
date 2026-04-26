@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: GeezyDee
 
-2,417 songs - 5 day 5 hr 58 min
+2,417 songs - 5 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,7 @@
 | [Callate y Besame](https://open.spotify.com/track/4I7u8l7P2A409S1emPOUhX) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Eso Si Es De Gangster](https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL) | 3:26 | 2026-03-27 |  |
 | [Can Am](https://open.spotify.com/track/7MK6edE9MWa7OVPFy0tbcM) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [No Hay Loco Que No Corone](https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0) | 2:44 | 2024-09-27 | 2024-11-30 |
 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 | 2022-03-21 | 2022-04-16 |
-| [Candy](https://open.spotify.com/track/4vxSybnXSld4re7t8b0ZBz) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs) | [Candy](https://open.spotify.com/album/3hVfJYRT4xIDOasEO0UaLo) | 2:05 | 2026-04-10 |  |
+| [Candy](https://open.spotify.com/track/4vxSybnXSld4re7t8b0ZBz) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Bravvs](https://open.spotify.com/artist/2EstnBv92UlKvEoCLSPOOh) | [Candy](https://open.spotify.com/album/3hVfJYRT4xIDOasEO0UaLo) | 2:05 | 2026-04-10 |  |
 | [Cangrinaje](https://open.spotify.com/track/5sJXSkZDAJjWrwtJHXLFTI) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cangrinaje](https://open.spotify.com/album/1Oc453GOhH2ghgtrp2qDTa) | 3:09 | 2024-04-19 | 2024-06-08 |
 | [Cantazo](https://open.spotify.com/track/1Ts2Jt5jMbpimNbGpakCzu) | [Sanchz](https://open.spotify.com/artist/0G35WrrhXWCv2Un6ImamhF) | [Cantazo](https://open.spotify.com/album/4w6VufJP9yRfjSGpDKnjSF) | 2:56 | 2024-02-23 | 2024-05-04 |
 | [CAPRICHOSO](https://open.spotify.com/track/1sJCxmtHVDHjgwXwdHYFWn) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [CAPRICHOSO](https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah) | 2:47 | 2022-03-21 | 2022-06-04 |
@@ -1369,7 +1369,7 @@
 | [MILWAUKEE 2](https://open.spotify.com/track/5Fay99JyfeG16pLs9gLJno) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [MILWAUKEE 2](https://open.spotify.com/album/2dSp6CWL2wGk5wuDddVRRe) | 2:23 | 2023-09-08 | 2023-10-14 |
 | [Mimimi](https://open.spotify.com/track/2w5KcI3DWJDtDIYjkbgm3I) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Mimimi](https://open.spotify.com/album/0MOXg9oBtugZseTVRFe0K0) | 2:59 | 2024-09-06 | 2024-11-23 |
 | [MINI](https://open.spotify.com/track/0EK3CubmEJ51rllsQi61zK) | [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [MINI](https://open.spotify.com/album/75oamtrQMmhzu2C7ZwRYcl) | 3:06 | 2025-02-07 | 2025-04-19 |
-| [MINI FALDA](https://open.spotify.com/track/5q9K5GZbJk377LDKHznfQD) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [MINI FALDA](https://open.spotify.com/album/2Fak3I0a1PyslGbAvZBJjH) | 4:40 | 2026-03-27 |  |
+| [MINI FALDA](https://open.spotify.com/track/5q9K5GZbJk377LDKHznfQD) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [MINI FALDA](https://open.spotify.com/album/2Fak3I0a1PyslGbAvZBJjH) | 4:05 | 2026-03-27 |  |
 | [Minnie 2](https://open.spotify.com/track/1tJWvlF0fawkIKrsiTGCUl) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Minnie 2](https://open.spotify.com/album/5e41lx6k8TLJWeLfFhiIhJ) | 4:23 | 2025-04-11 | 2025-06-14 |
 | [MIONCA](https://open.spotify.com/track/3UxRvZWhEfSJmNDsbEjKOY) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [MIONCA](https://open.spotify.com/album/3jjWzpGtGBUoMEDduwVvrB) | 3:06 | 2024-05-17 | 2024-06-29 |
 | [MIRALA](https://open.spotify.com/track/3ps5MDjfpA3wAbKMitNWgM) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [MIRALA](https://open.spotify.com/album/6Mceu7aQRzVzP9dx8tUd2T) | 2:26 | 2024-10-25 | 2024-12-21 |

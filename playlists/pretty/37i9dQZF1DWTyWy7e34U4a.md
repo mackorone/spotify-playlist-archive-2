@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyWy7e34U4a.md) - [plain]
 
 > All the essential hits, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,130 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,908 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyWy7e34U4a.md) - [plain]
 | 49 | [Pushing 20](https://open.spotify.com/track/1xMHC2XPuDyBWU1ULY7eMA) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 2:46 |
 | 50 | [Clouds \(with Sabrina Carpenter\)](https://open.spotify.com/track/06Kyj7sv2HzZPu4Vt4wfcO) | [Fin Argus](https://open.spotify.com/artist/1oDUPFTxn5JyS8MxUe9ko4), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Clouds \(with Sabrina Carpenter\)](https://open.spotify.com/album/6LGAFuDtpOFLOU2UhGGbg4) | 3:04 |
 
-Snapshot ID: `AAAAADVyGxWLpdiuzDlsV6EiKVY6nvQQ`
+Snapshot ID: `AAAAAO1qOpdQZOKK1oLq/U+Hd2pVBBVm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,680,297 likes - 200 songs - 14 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,680,296 likes - 200 songs - 14 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 199 | [Hornworm Metamorphosis](https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Hornworm Metamorphosis](https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK) | 1:44 |
 | 200 | [Time Capsule](https://open.spotify.com/track/02ht7aTttJ0zbbHQh6jKlL) | [Nick Beman](https://open.spotify.com/artist/7ow15x0a0qAhy4ZK6xJKGx) | [Time Capsule](https://open.spotify.com/album/1uGLfESQqsa5TwO5YQSCRI) | 3:10 |
 
-Snapshot ID: `AAAAAE1t+23M2VfdUAOaABuJkjJTPPKJ`
+Snapshot ID: `AAAAAJmJmRpCVIk6nSrd2XBehh3PW65l`

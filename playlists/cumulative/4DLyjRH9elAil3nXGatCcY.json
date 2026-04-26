@@ -1003,6 +1003,28 @@
     },
     {
       "album": {
+        "name": "Welcome to Noxus (Original Soundtrack from League of Legends)",
+        "url": "https://open.spotify.com/album/7oCUh77MwNd0x12QjA7F5K"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "TEYA",
+          "url": "https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190138,
+      "name": "Bite Marks",
+      "url": "https://open.spotify.com/track/5EgvIjKtyop4T8afkuMiv6"
+    },
+    {
+      "album": {
         "name": "Every Where Is Some Where",
         "url": "https://open.spotify.com/album/5ddpf5pxYjw9ob4DjPLuiz"
       },

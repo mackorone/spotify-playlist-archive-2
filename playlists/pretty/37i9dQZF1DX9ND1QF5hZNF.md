@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,373 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,453 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 26 | [Fire Fire](https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Fire Fire](https://open.spotify.com/album/7rIqdKsiVJ2ZAHtxFJm6jf) | 2:30 |
 | 27 | [Waves Of Silence](https://open.spotify.com/track/4x5Qpwgl85O8k7YHecpFYM) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [Waves Of Silence](https://open.spotify.com/album/4TLl8qxwa6TleRRz8dXQLc) | 3:46 |
 | 28 | [Her Eyes](https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by) | 3:35 |
-| 29 | [Dans la ville endormie \- Remix](https://open.spotify.com/track/3H2rcMJZqrlSUEdgitfCj1) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [MIQA](https://open.spotify.com/artist/7qx5u7qfrFrlPNReiyFcJq), [SKIO](https://open.spotify.com/artist/0AWOsB7u3ZGM1SklkJlL3o) | [Dans la ville endormie \(Remix\)](https://open.spotify.com/album/6kWR6an9Q2geLPAMhDLiTn) | 3:34 |
+| 29 | [Dans la ville endormie \- Remix](https://open.spotify.com/track/3H2rcMJZqrlSUEdgitfCj1) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [MIQA](https://open.spotify.com/artist/7qx5u7qfrFrlPNReiyFcJq) | [Dans la ville endormie \(Remix\)](https://open.spotify.com/album/6kWR6an9Q2geLPAMhDLiTn) | 3:34 |
 | 30 | [She Said \(Big Jet Plane\)](https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Queen D](https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W) | [She Said \(Big Jet Plane\)](https://open.spotify.com/album/06glmgu7XVm60LyphpYQxc) | 2:53 |
 | 31 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 |
 | 32 | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/track/0D57lQnn110jGaup4NguSI) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR) | 3:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 59 | [Catharina](https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Catharina](https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc) | 3:27 |
 | 60 | [Sad Lines](https://open.spotify.com/track/24m0aYomJ3WK1rZ2CwbMZ3) | [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO) | [Sad Lines](https://open.spotify.com/album/3vOjvTPXVJojov04dTBVKr) | 2:40 |
 
-Snapshot ID: `AAAAAAG9MzGn10uS73n1Ed2u2C2U6gxi`
+Snapshot ID: `AAAAAJRr1hYn7BP78TZh4UP0Z/BW764a`

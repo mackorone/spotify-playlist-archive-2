@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Amen Sin Tilde (Versi\u00f3n Cuarteto)",
+        "url": "https://open.spotify.com/album/6FLy54H8h6FN5NJQ6PWnNa"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171697,
+      "name": "Amen Sin Tilde - Versi\u00f3n Cuarteto",
+      "url": "https://open.spotify.com/track/7eVogGr2n24X907EJ2fQDd"
+    },
+    {
+      "album": {
         "name": "Ancla",
         "url": "https://open.spotify.com/album/7LX8tXMflp3SkBxWub7SZn"
       },
@@ -536,7 +554,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 235666,
       "name": "Batugozo",
       "url": "https://open.spotify.com/track/0PfoClrD2Aa4pubTEmcaR6"
@@ -1120,7 +1138,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 232207,
       "name": "Dios Te Bendiga",
       "url": "https://open.spotify.com/track/6waMZni4HkrCDSXmrAhI3N"
@@ -1174,7 +1192,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 248213,
       "name": "El Gozo que tengo yo",
       "url": "https://open.spotify.com/track/233VjBHAD4cEbofjT7sGOn"
@@ -2538,7 +2556,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 214785,
       "name": "No Puedo Ni Quiero",
       "url": "https://open.spotify.com/track/73i5lJCjotIVTIQyjbks5Z"
@@ -2614,6 +2632,28 @@
       "duration_ms": 214000,
       "name": "Nueva vida",
       "url": "https://open.spotify.com/track/7cE2dtrfKER31utLWdKDHE"
+    },
+    {
+      "album": {
+        "name": "Ola de Calma",
+        "url": "https://open.spotify.com/album/5oMkWlFJpUUwyJaT8kE3wE"
+      },
+      "artists": [
+        {
+          "name": "David Ordo\u00f1ez",
+          "url": "https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0"
+        },
+        {
+          "name": "Odanis BSK",
+          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204250,
+      "name": "Ola de Calma",
+      "url": "https://open.spotify.com/track/4q9sQbwmCA95KNJNSXl27A"
     },
     {
       "album": {
@@ -2872,6 +2912,28 @@
       "duration_ms": 182474,
       "name": "Quema",
       "url": "https://open.spotify.com/track/2ckUEfBAWstCQb5CV8gVqB"
+    },
+    {
+      "album": {
+        "name": "Quien Vive",
+        "url": "https://open.spotify.com/album/03KtAeAhimNGguuhEljubt"
+      },
+      "artists": [
+        {
+          "name": "Sons of Thunder",
+          "url": "https://open.spotify.com/artist/0a9fVatpYjNS2P9W8r4feR"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "Quien Vive",
+      "url": "https://open.spotify.com/track/1yAvWGZuqaK6nbbfLi38cn"
     },
     {
       "album": {
@@ -3548,6 +3610,28 @@
       "duration_ms": 187933,
       "name": "Tengo Victoria",
       "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
+    },
+    {
+      "album": {
+        "name": "Nueva Era",
+        "url": "https://open.spotify.com/album/2po1xCUI5uKV1mTxBpug0N"
+      },
+      "artists": [
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194611,
+      "name": "Toda Mi Alma",
+      "url": "https://open.spotify.com/track/6j081dz8YMlE4ieKNwLDxC"
     },
     {
       "album": {

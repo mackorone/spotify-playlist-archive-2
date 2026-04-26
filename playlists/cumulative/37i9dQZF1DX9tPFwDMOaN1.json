@@ -8838,7 +8838,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 180000,
       "name": "Mention Me - From The Movie \"GOAT\"",
       "url": "https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy"
@@ -10412,6 +10412,24 @@
       "duration_ms": 152400,
       "name": "plot twist",
       "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
+    },
+    {
+      "album": {
+        "name": "SKINZ 1st Mini Album [SKINZ IS SKINZ]",
+        "url": "https://open.spotify.com/album/7FxJEXRrfsX80s8E3Tf3TW"
+      },
+      "artists": [
+        {
+          "name": "SKINZ (\uc2a4\ud0a8\uc988)",
+          "url": "https://open.spotify.com/artist/2cAsfUrYw6wZqLjQ0JBQW6"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Poison Ivy",
+      "url": "https://open.spotify.com/track/4p3WTsxsKj27mMwjooeypG"
     },
     {
       "album": {

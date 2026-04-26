@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 93902,
+  "num_followers": 93926,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aelhAAAAAABS7jlx6YfnPx5xsRlKHWBo",
+  "snapshot_id": "aeqygAAAAACU7QWeZbWgFTxvCMIeohqL",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
-        "url": "https://open.spotify.com/album/5JhhV6NYORFNFjJ7Xy270v"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        },
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Holiday In Spain",
-      "url": "https://open.spotify.com/track/5OaQpcK7S28EitZlVQbWBQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aan",
         "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 223266,
       "name": "Zoutelande (feat. Geike)",
       "url": "https://open.spotify.com/track/7MOX3ibncypw3xGb4HZVFA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
+        "url": "https://open.spotify.com/album/5JhhV6NYORFNFjJ7Xy270v"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        },
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Holiday In Spain",
+      "url": "https://open.spotify.com/track/5OaQpcK7S28EitZlVQbWBQ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,576 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,577 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 79 | [Anxiety](https://open.spotify.com/track/4pIXDMrTQcjPziN9upLDG5) | [Strei](https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g) | [Anxiety](https://open.spotify.com/album/1WdUtPi07KjuUqOwaYFZlX) | 2:12 |
 | 80 | [Rock Steady](https://open.spotify.com/track/2ntw401pdhJCTDKRBAT2ZP) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [GOLD](https://open.spotify.com/artist/3G7vnr4LuKUuDU3hgIZSMM) | [GOLD II](https://open.spotify.com/album/7gLdGJsMu7LdkvLrzRfBXn) | 3:11 |
 
-Snapshot ID: `AAAAABrwsWe4FtAywBR1mMjy7/K1j00f`
+Snapshot ID: `AAAAAIB6f6lQdNDY7YOCa5MDHlqL/g3E`

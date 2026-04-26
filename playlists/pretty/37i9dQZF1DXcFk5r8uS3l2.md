@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Sons of Legion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,683 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,712 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 99 | [Hey! You Know You Wanna!](https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk) | [The Delta Bombers](https://open.spotify.com/artist/2QDX87l1pAGzTn0D6tX8fz) | [Neon Sounds](https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL) | 4:07 |
 | 100 | [A Thousand Heartaches](https://open.spotify.com/track/6lOBccfSzr20xcr5L7Y8AS) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [A Thousand Heartaches](https://open.spotify.com/album/7IybesqhT7t0B0njDaTdAj) | 5:00 |
 
-Snapshot ID: `AAAAANAzrQ8aqMir6dyhYnjPoo2l68ry`
+Snapshot ID: `AAAAACqMgH1ir6/pN7C2gIIf3XxSdvCP`

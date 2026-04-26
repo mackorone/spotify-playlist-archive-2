@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Topic, Becky G
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,948 likes - 87 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,972 likes - 87 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 6 | [Be The One](https://open.spotify.com/track/4gDKviRLkpZowZhcnRPqqE) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Be The One](https://open.spotify.com/album/4qnDtActtsWu2i8VH9wkmE) | 3:25 |
 | 7 | [Dance To This](https://open.spotify.com/track/2uPLbkypIfozwjuiJcgMLC) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Dance To This](https://open.spotify.com/album/7cxNzqHMqDlojW7WilPoUN) | 2:54 |
 | 8 | [Save My Love \- MEDUZA Remix](https://open.spotify.com/track/1vdGRglWJWjW3XDeMYYTJg) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Save My Love \(MEDUZA Remix\)](https://open.spotify.com/album/1nTkAF1JlCXNPz0R51lHWN) | 2:30 |
-| 9 | [Love On Fire](https://open.spotify.com/track/417XM2guWLv0ItSGNCIByL) | [Mika Heggemann](https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP), [IMO](https://open.spotify.com/artist/1MnNVa410zCIAILGmSOmNd) | [Love On Fire](https://open.spotify.com/album/4bn9bl7vR9BlQ7HgnNAmY4) | 3:43 |
+| 9 | [Love On Fire](https://open.spotify.com/track/417XM2guWLv0ItSGNCIByL) | [Mika Heggemann](https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP), [IMO](https://open.spotify.com/artist/24jwoOYBMstx3HeVw60Y7q) | [Love On Fire](https://open.spotify.com/album/4bn9bl7vR9BlQ7HgnNAmY4) | 3:43 |
 | 10 | [Watch my heart go...](https://open.spotify.com/track/0zY0QsvY0alrPpGgdTKQhp) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Orem](https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL) | [Watch my heart go...](https://open.spotify.com/album/3W9EVcwgp85hBkFu2KEGX8) | 3:05 |
 | 11 | [Impossible](https://open.spotify.com/track/64rrzPOGT6mu1928QXogfu) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Impossible](https://open.spotify.com/album/2NYFG63e3WzinNocpndoSM) | 2:53 |
 | 12 | [Cold Kisses](https://open.spotify.com/track/32YxjCCmipEEd3gWWwhSq1) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Cold Kisses](https://open.spotify.com/album/2VtDSccjKdjJ48SJHNjW2q) | 2:48 |

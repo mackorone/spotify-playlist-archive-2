@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. EL DE LA TINTA, Angel Cervantes, Sahir Montoya en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 970,484 likes - 57 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 970,752 likes - 57 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 56 | [Las Trincheras](https://open.spotify.com/track/0N40kKLumYgimjZtAbEpOQ) | [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Fernando Angulo](https://open.spotify.com/artist/1ARqeqp1DnGrwyRICpnOZY) | [Las Trincheras](https://open.spotify.com/album/4VhKEJhbXDZWQjAnstSLfA) | 3:14 |
 | 57 | [Tirabalas](https://open.spotify.com/track/1Q4bEb1FY92Vf2nB9Tesjq) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [ESSENCE \#10 \(Deluxe\)](https://open.spotify.com/album/4nASxlfNNftOBjAdIhqA4F) | 3:53 |
 
-Snapshot ID: `AAAAABXhCanW/k9dF3mRvq+UcXpMLNBS`
+Snapshot ID: `AAAAAFXB0Q7C7JsuUJN0aZSA/78MaM5x`

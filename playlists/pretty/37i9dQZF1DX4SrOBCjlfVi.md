@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Shoreline Mafia, Latto, Luh Tyler and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,334 likes - 68 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,373 likes - 68 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 26 | [TwentyFiveEight](https://open.spotify.com/track/5ZGAWHHxgLHEVMPTQeDVh1) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [TwentyFiveEight](https://open.spotify.com/album/5iHwSs8cMhhVGxRtVzwT3o) | 2:12 |
 | 27 | [2 NIGHTS IN LA \(with Jadagrace & SWIM\)](https://open.spotify.com/track/22zLthzsS7qP84z4ftTxNO) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [2 NIGHTS IN LA](https://open.spotify.com/album/3gc2GqGyb7pNXvfzZVRBdK) | 3:42 |
 | 28 | [Grinding](https://open.spotify.com/track/1hRvksIEIBbvEyktpSIhLr) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ) | [Grinding](https://open.spotify.com/album/3HrZ4PAciHqeP1GBBIlPZE) | 2:00 |
-| 29 | [Slow](https://open.spotify.com/track/0Uo5SflCaV61rtGLANXnnx) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg) | [Slow](https://open.spotify.com/album/5iRfTfxLcrMQJbnQabjda1) | 2:37 |
+| 29 | [Slow](https://open.spotify.com/track/0Uo5SflCaV61rtGLANXnnx) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Den Thomas](https://open.spotify.com/artist/4bHotG4vpt01J3ZeP9HOpU) | [Slow](https://open.spotify.com/album/5iRfTfxLcrMQJbnQabjda1) | 2:37 |
 | 30 | [Big Dawg \(feat\. Mari Ruger\)](https://open.spotify.com/track/6d51lgyLeQXNqfz2mNzODw) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Mari Ruger](https://open.spotify.com/artist/1jUcyICQFueIpTqf1jH7W1) | [Big Dawg \(feat\. Mari Ruger\)](https://open.spotify.com/album/2uGPvEaNBqU96CLGMByH5g) | 2:05 |
 | 31 | [Long Beach II](https://open.spotify.com/track/6CJvrwGRjODFUSHPaLbBS5) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Long Beach II](https://open.spotify.com/album/58Tnkq5wIthhSOxMOGMvcC) | 3:45 |
 | 32 | [don't cry](https://open.spotify.com/track/6cAHaLdR8gtOPdsPeSnveq) | [TopOppGen](https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye) | [don't cry](https://open.spotify.com/album/3ugZ8fn6WSQlyq7pER9LEh) | 2:42 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 41 | [midnight in vegas](https://open.spotify.com/track/4MlsMYlAp18jWPOqfGhfVh) | [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt) | [midnight in vegas](https://open.spotify.com/album/4OcQkw0YVbsFZNLm9vqqcL) | 2:36 |
 | 42 | [Flexin](https://open.spotify.com/track/76I76nY4IgJmCvKe9dnz8K) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Flexin](https://open.spotify.com/album/2y2unYJWAHwP7wYKt07BRw) | 1:53 |
 | 43 | [Special](https://open.spotify.com/track/5qrd1l1LO4r6eS9zpcdo1S) | [QUANTRELL](https://open.spotify.com/artist/6dCvTKdEJbcoV2IAL0H0W0) | [Special](https://open.spotify.com/album/0aPw2dEgM6SbW8UCigg8Uw) | 2:13 |
-| 44 | [Hittin For](https://open.spotify.com/track/10UAlRQxCJyof5HnfmNRQA) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Hittin For](https://open.spotify.com/album/3DNRO2sWwga9b7bm4jtIUD) | 2:13 |
+| 44 | [Hittin For](https://open.spotify.com/track/10UAlRQxCJyof5HnfmNRQA) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Hittin For](https://open.spotify.com/album/3DNRO2sWwga9b7bm4jtIUD) | 2:15 |
 | 45 | [Searching Through Phones](https://open.spotify.com/track/3C3znRI0cPE9h6uaUtpkIQ) | [Lil Noonie](https://open.spotify.com/artist/5k4L34gsiyB0HgS4yPso2h) | [Searching Through Phones](https://open.spotify.com/album/4hfL7wyF9jhySZZLYIfbSA) | 2:40 |
 | 46 | [Travis Barker](https://open.spotify.com/track/0PeiEhG94ZCbFl9U2uLIOu) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Travis Barker](https://open.spotify.com/album/3d7xeeUa0NwQCeJDvRdfPr) | 3:08 |
 | 47 | [Paid To Vent](https://open.spotify.com/track/3ahAvocHo7vniCjQP10M1E) | [DB.Boutabag](https://open.spotify.com/artist/3xGQQ8pYMw09C0YDkVS4mr) | [Paid To Vent](https://open.spotify.com/album/7HtGc0SGfcunmOYlG5Xtvq) | 2:36 |

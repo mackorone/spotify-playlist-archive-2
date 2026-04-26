@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Kaz Bałagane, Steez83
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,955 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,947 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 5 | [Ty masz](https://open.spotify.com/track/4fQAVxaVQhkK8nyNZoPpeY) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Ty masz](https://open.spotify.com/album/1Js6zQtqdvpmoDEpvfuxiN) | 3:16 |
 | 6 | [my love](https://open.spotify.com/track/1E2cVJd7UDWoGGOw971JNt) | [OKI](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [REKLAMACJA'47: CD1](https://open.spotify.com/album/0PRUPTPf0yRQDFjpwasJ4Y) | 2:58 |
 | 7 | [LA FREESTYLE](https://open.spotify.com/track/7HpTxWgjXing2fM9sYyqbn) | [SVM!R](https://open.spotify.com/artist/4K8wRpyAE3Cwq4q5Jpgpdh) | [LA FREESTYLE](https://open.spotify.com/album/4jngKvUPfGT52mBHeBcCSH) | 2:01 |
-| 8 | [Ciągle tutaj jestem \(diss na raka\)](https://open.spotify.com/track/0wvxzE8JEintqBBhaWVvoU) | [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [Maja Mecan](https://open.spotify.com/artist/2o92Q0VLN8KIMTm7Xj4Kbe), [Fundacja Cancer Fighters](https://open.spotify.com/artist/4uQMFJbG5e9wBn8CWasdmf) | [Ciągle tutaj jestem \(diss na raka\)](https://open.spotify.com/album/61ZsllmBRIiz5QO5Hp4nzj) | 2:45 |
+| 8 | [Ciągle tutaj jestem \(diss na raka\)](https://open.spotify.com/track/0wvxzE8JEintqBBhaWVvoU) | [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [Maja Mecan](https://open.spotify.com/artist/2o92Q0VLN8KIMTm7Xj4Kbe), [Fundacja Cancer Fighters](https://open.spotify.com/artist/4uQMFJbG5e9wBn8CWasdmf), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [Voskovy](https://open.spotify.com/artist/5nJBmBtvFT2vyiZxdA6pgE) | [Ciągle tutaj jestem \(diss na raka\)](https://open.spotify.com/album/61ZsllmBRIiz5QO5Hp4nzj) | 2:45 |
 | 9 | [PAPIRUS](https://open.spotify.com/track/4c4scydEeEb4hCldvJOlfx) | [Guzior](https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV) | [PAPIRUS](https://open.spotify.com/album/5CsAr3NlNjsEpqqvYzP1Jj) | 2:41 |
 | 10 | [OSTATNI RAZ](https://open.spotify.com/track/3JtcDoEHZZSl2Ug7GV3xLB) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0), [BNP](https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P), [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT) | [Zabójstwo Liryczne 5](https://open.spotify.com/album/2Quvk6HuaOXGS8jOfrF6zq) | 2:51 |
 | 11 | [INNY](https://open.spotify.com/track/5H7hv7dkw75V8PQ7Zm8Hoi) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [SVM!R](https://open.spotify.com/artist/4K8wRpyAE3Cwq4q5Jpgpdh), [The Returners](https://open.spotify.com/artist/4zO6WqG8mu49ek0ZDIptTk) | [INNY](https://open.spotify.com/album/11Xq461RGxrys6Sk7EzuIr) | 3:22 |

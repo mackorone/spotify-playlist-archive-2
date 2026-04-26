@@ -397,7 +397,7 @@
     },
     {
       "album": {
-        "name": "Adam",
+        "name": "Adam (feat. Humnawa)",
         "url": "https://open.spotify.com/album/2deIHXwcBLdZYMfUD6PoVs"
       },
       "artists": [
@@ -418,7 +418,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 715984,
-      "name": "Adam",
+      "name": "Adam (feat. Humnawa)",
       "url": "https://open.spotify.com/track/6IlgL3ebWCHoYiTqYqkpBB"
     },
     {
@@ -875,6 +875,10 @@
         "url": "https://open.spotify.com/album/1yRMz8PbFkXrknB1DQ4DdK"
       },
       "artists": [
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        },
         {
           "name": "Sanam Marvi",
           "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
@@ -1547,7 +1551,7 @@
     },
     {
       "album": {
-        "name": "Bo Giyam",
+        "name": "Bo Giyam (feat. Nimra Rafiq)",
         "url": "https://open.spotify.com/album/7A3BR6BWcAnEGXfXUSjPOp"
       },
       "artists": [
@@ -1564,7 +1568,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 342438,
-      "name": "Bo Giyam",
+      "name": "Bo Giyam (feat. Nimra Rafiq)",
       "url": "https://open.spotify.com/track/55PHSwqN1Nt3Xww2VPE8DL"
     },
     {
@@ -2310,6 +2314,10 @@
       },
       "artists": [
         {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        },
+        {
           "name": "Mehdi Maloof",
           "url": "https://open.spotify.com/artist/6TL4dC4u5Nb3ZpROsM7DzR"
         }
@@ -2323,10 +2331,14 @@
     },
     {
       "album": {
-        "name": "Dil Tarpe",
+        "name": "Dil Tarpe (feat. Zara Madani)",
         "url": "https://open.spotify.com/album/0frqXSFP8gEXX5SF91Vnzd"
       },
       "artists": [
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        },
         {
           "name": "Rahat Fateh Ali Khan",
           "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
@@ -2437,7 +2449,7 @@
     },
     {
       "album": {
-        "name": "Dohla",
+        "name": "Dohla (feat. Aima Baig)",
         "url": "https://open.spotify.com/album/3M2LQ5HGNsY03aLRZwFXpS"
       },
       "artists": [
@@ -2454,7 +2466,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 398449,
-      "name": "Dohla",
+      "name": "Dohla (feat. Aima Baig)",
       "url": "https://open.spotify.com/track/7iEHgkMJea4Sv1vi46jE1b"
     },
     {
@@ -2565,10 +2577,14 @@
     },
     {
       "album": {
-        "name": "Gal Sunn",
+        "name": "Gal Sunn (feat. Meesha Shafi)",
         "url": "https://open.spotify.com/album/5Fcxf078ec2OYKvl9m8NgS"
       },
       "artists": [
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        },
         {
           "name": "Ali Pervez Mehdi",
           "url": "https://open.spotify.com/artist/3HLmrqEDEHkQ7VFXwdKdKa"
@@ -2777,10 +2793,14 @@
     },
     {
       "album": {
-        "name": "Har Funn Maula",
+        "name": "Har Funn Maula (feat. Sanam Marvi)",
         "url": "https://open.spotify.com/album/2YCOyu8SsrIu0qB3XaxZTj"
       },
       "artists": [
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        },
         {
           "name": "Umair Jaswal",
           "url": "https://open.spotify.com/artist/4eGTCbD3UlgIF479AuXp5u"
@@ -2869,7 +2889,7 @@
     },
     {
       "album": {
-        "name": "Heeray",
+        "name": "Heeray (feat. Aima Baig)",
         "url": "https://open.spotify.com/album/3uQ2HJs5wcPZ7v3JXWFfVx"
       },
       "artists": [
@@ -2886,7 +2906,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 446011,
-      "name": "Heeray",
+      "name": "Heeray (feat. Aima Baig)",
       "url": "https://open.spotify.com/track/1vPqdd4EU9yfFGWHHiwV6E"
     },
     {
@@ -3134,6 +3154,10 @@
       },
       "artists": [
         {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        },
+        {
           "name": "Sehar Gul Khan",
           "url": "https://open.spotify.com/artist/1REoitWY7dtWTikiEjoeVk"
         }
@@ -3217,17 +3241,17 @@
     },
     {
       "album": {
-        "name": "Jaag Rahi",
+        "name": "Jaag Rahi (feat. Ali Noor)",
         "url": "https://open.spotify.com/album/6oPjmqELcDmWUkXTR5mgax"
       },
       "artists": [
         {
-          "name": "Fariha Pervez",
-          "url": "https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd"
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
         },
         {
-          "name": "Ali Noor",
-          "url": "https://open.spotify.com/artist/1QHzQZO9zzSjv0yRRzgBPO"
+          "name": "Fariha Pervez",
+          "url": "https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd"
         }
       ],
       "date_added": "2022-03-23",
@@ -5431,7 +5455,7 @@
     },
     {
       "album": {
-        "name": "Mubarik Mubarik",
+        "name": "Mubarik Mubarik (feat. Atif Aslam)",
         "url": "https://open.spotify.com/album/2WOJN6NCF4jo4prZqAty2X"
       },
       "artists": [
@@ -5448,7 +5472,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 354359,
-      "name": "Mubarik Mubarik",
+      "name": "Mubarik Mubarik (feat. Atif Aslam)",
       "url": "https://open.spotify.com/track/2RlKuEgR9NIVWzyXYbPawT"
     },
     {
@@ -5515,7 +5539,7 @@
     },
     {
       "album": {
-        "name": "Mundiya",
+        "name": "Mundiya (feat. Quratulain Balouch)",
         "url": "https://open.spotify.com/album/7EsJ1gzSjvgrhejwvGSe1X"
       },
       "artists": [
@@ -5532,7 +5556,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 298354,
-      "name": "Mundiya",
+      "name": "Mundiya (feat. Quratulain Balouch)",
       "url": "https://open.spotify.com/track/2hREXzC8fpy2Fu0gYlxy8c"
     },
     {
@@ -5612,28 +5636,12 @@
       },
       "artists": [
         {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        },
+        {
           "name": "Meesha Shafi",
           "url": "https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR"
-        },
-        {
-          "name": "Fariha Pervez",
-          "url": "https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd"
-        },
-        {
-          "name": "Sanam Marvi",
-          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
-        },
-        {
-          "name": "Wajiha Naqvi",
-          "url": "https://open.spotify.com/artist/2JEQT9Ov8j9zNO7lHXWjCk"
-        },
-        {
-          "name": "Zara Madani",
-          "url": "https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9"
-        },
-        {
-          "name": "Sehar Gul Khan",
-          "url": "https://open.spotify.com/artist/1REoitWY7dtWTikiEjoeVk"
         }
       ],
       "date_added": "2022-03-23",
@@ -6623,7 +6631,7 @@
     },
     {
       "album": {
-        "name": "Ram Pam",
+        "name": "Ram Pam (feat. Shahab Hussain)",
         "url": "https://open.spotify.com/album/0M7n04XdXiCOgcUfNZnYCA"
       },
       "artists": [
@@ -6640,7 +6648,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 285046,
-      "name": "Ram Pam",
+      "name": "Ram Pam (feat. Shahab Hussain)",
       "url": "https://open.spotify.com/track/0UI1h4zH2D7Os5OZEiqvOF"
     },
     {
@@ -7140,6 +7148,10 @@
       },
       "artists": [
         {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        },
+        {
           "name": "Bohemia",
           "url": "https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP"
         }
@@ -7148,7 +7160,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 351219,
-      "name": "Saari Duniya",
+      "name": "Saari Dunya",
       "url": "https://open.spotify.com/track/7y127TjQwYli2BDFtLMeaL"
     },
     {
@@ -7303,7 +7315,7 @@
     },
     {
       "album": {
-        "name": "Saiyaan",
+        "name": "Saiyaan (feat. Rachel Viccaji)",
         "url": "https://open.spotify.com/album/7B0xgVbDNAaPDC010FJm92"
       },
       "artists": [
@@ -7320,7 +7332,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 331270,
-      "name": "Saiyaan",
+      "name": "Saiyaan (feat. Rachel Viccaji)",
       "url": "https://open.spotify.com/track/5UbT96KL7MEQLoVK3oC4fM"
     },
     {

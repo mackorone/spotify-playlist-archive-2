@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,920 likes - 30 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,025 likes - 30 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 29 | [You're Not Alone](https://open.spotify.com/track/0sfXBVmMupngHnNW1hsuFj) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8) | [You're Not Alone](https://open.spotify.com/album/4Edvs9Ts45AaIi9RyJI41j) | 2:36 |
 | 30 | [It's My Life](https://open.spotify.com/track/5o79o5fhrP4a3uaDh28a9X) | [Klement Bonelli](https://open.spotify.com/artist/1LK1ywbyRrajPZgW6IbcR8) | [It's My Life](https://open.spotify.com/album/445V8AGnQMR1i7RXBhj4c3) | 3:12 |
 
-Snapshot ID: `AAAAAIbEADfJdHtUnT11SM/jplmE1kYB`
+Snapshot ID: `AAAAAJsPT89uZqDwbfzV7d2l5/9UaXXK`

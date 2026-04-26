@@ -1542,7 +1542,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 248952,
       "name": "PISO FIRME",
       "url": "https://open.spotify.com/track/3bPXt1s3Amixv7hy6IE4lg"
@@ -1884,6 +1884,28 @@
       "duration_ms": 197141,
       "name": "Todo a la Sorda",
       "url": "https://open.spotify.com/track/0owjn0WHFxKKFcUjS4Cd2L"
+    },
+    {
+      "album": {
+        "name": "Total Black",
+        "url": "https://open.spotify.com/album/4RshYAV9fQYttlusZDSGnc"
+      },
+      "artists": [
+        {
+          "name": "Grupo Selecto",
+          "url": "https://open.spotify.com/artist/49GP4Wl0r8E13VO7qRxfeS"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176309,
+      "name": "Total Black",
+      "url": "https://open.spotify.com/track/2OCgRApaTVe6AZX340Yi99"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Lis Mc, Thalin
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,018 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,038 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 6 | [Block Party](https://open.spotify.com/track/4XMST0F0UdamHIaFELWkVo) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Zander Zel](https://open.spotify.com/artist/0BoltRO9bTiqSLCSogpkS5), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [4F](https://open.spotify.com/album/3AREmsVJLjOkE6WquTIw7g) | 2:09 |
 | 7 | [MINA QUENTE](https://open.spotify.com/track/3B17U5VJdLG72jwJVbhUsW) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4), [Bruce Slim Beats](https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD) | [MINA QUENTE](https://open.spotify.com/album/5pBQJ5z4tz9sjBAjOOTVvE) | 2:31 |
 | 8 | [Pai De Mais Uma Boca](https://open.spotify.com/track/59Q62LLlEbn1RBWJIOjMW0) | [pedrvso](https://open.spotify.com/artist/1dPnN5JbjdsN3E4IyQyiuw), [Lis Mc](https://open.spotify.com/artist/5OfwMhn4XgysSIxSxBvTDE), [Thalin](https://open.spotify.com/artist/5dTZiJpPZA6dvt0KWhi5Yd), [Sujoground](https://open.spotify.com/artist/2sngdu3B3WLqIsadMhHDa2) | [Direitos Não Reservados](https://open.spotify.com/album/09ixUAnB4zcOmB7YU4F0Gm) | 3:19 |
-| 9 | [Rosa Mais Linda](https://open.spotify.com/track/7bnsfstppIw4jy3LIfZiE2) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [NoShuga](https://open.spotify.com/artist/1r0cTHuFmN9DaQEG6ZrVsf) | [Rosa Mais Linda](https://open.spotify.com/album/4rulHAvHiWDvYyqDvvquJm) | 4:28 |
+| 9 | [Rosa Mais Linda](https://open.spotify.com/track/7bnsfstppIw4jy3LIfZiE2) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Noshugah](https://open.spotify.com/artist/39y7fxAAQUe9SJotuSRsCs) | [Rosa Mais Linda](https://open.spotify.com/album/4rulHAvHiWDvYyqDvvquJm) | 4:28 |
 | 10 | [Bankok](https://open.spotify.com/track/7uzcxYLPrLUhVlKEHPZVLM) | [Vitinho RB](https://open.spotify.com/artist/0C6ppWo7aVuSv0YJREtvkj), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Bankok](https://open.spotify.com/album/17RZ5CmbLfbOtqhi9SUow3) | 2:31 |
 | 11 | [Tudo Que Você Podia Ser](https://open.spotify.com/track/6QCCmlkeEoz4Mc1OsmisLE) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [Do Suburbio à Central](https://open.spotify.com/album/6mqBX9NdvQnkw4sHEB2b2N) | 2:24 |
 | 12 | [Desigualdade Social](https://open.spotify.com/track/65Hn8e8XKKs0rs7VKALJsJ) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [LUDV1C](https://open.spotify.com/artist/4UyMYD3bP7dsBWJtRXZp6o) | [Desigualdade Social](https://open.spotify.com/album/4YZ3AaIXDWOcefLMZHaCeZ) | 2:50 |

@@ -513,6 +513,24 @@
     },
     {
       "album": {
+        "name": "Popular Love",
+        "url": "https://open.spotify.com/album/7JiHCf987tGaQP6FRyDWAz"
+      },
+      "artists": [
+        {
+          "name": "Savanna Echo",
+          "url": "https://open.spotify.com/artist/14X6fQ0syFLzFPEVw9hRiF"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283747,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/6RrNAmDgINN1Rlh4f4ZlME"
+    },
+    {
+      "album": {
         "name": "Porgy And Bess",
         "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 943 likes - 104 songs - 6 hr 30 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 945 likes - 105 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,5 +112,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 102 | [Siempre Estaré](https://open.spotify.com/track/7e8MvyqagvlJOJaQDNdh5m) | [Viejo Furgon](https://open.spotify.com/artist/4WyH8DQAXLGiVTtqniULWG) | [Reloj Espiritual](https://open.spotify.com/album/3LYQCmohEV9m7cVWhpWuam) | 3:17 |
 | 103 | [Blue Route](https://open.spotify.com/track/0e9J7JmZjs45Dp8ByDq0uV) | [Liquid Monk](https://open.spotify.com/artist/680C1w0kjIC2LAf5xShvhJ) | [Blue Route](https://open.spotify.com/album/0ih8D9zBH0AI2tBC6Vl45v) | 3:01 |
 | 104 | [Lifeline](https://open.spotify.com/track/7EzGUbGfNwbOdtTzX4MgO5) | [Hope Darling](https://open.spotify.com/artist/1SyIewURAwfxwMLlHhUgvE) | [Ensō](https://open.spotify.com/album/4OOsu5uRBfA00ZJTSyK6Zx) | 3:32 |
+| 105 | [188](https://open.spotify.com/track/51Pl4eyuqbLv74w3caC21w) | [Hag Roast](https://open.spotify.com/artist/7FN51i8wVHCTx72xQEOzEQ) | [188](https://open.spotify.com/album/5ZRSJkWE8UrXFkiy5S93Zx) | 3:09 |
 
-Snapshot ID: `AAAF2O1j5wX9THw7884oLlhPpesbdlGG`
+Snapshot ID: `AAAF2XiW7zyOlaIvp5lWpi3/MkqTv2Yd`

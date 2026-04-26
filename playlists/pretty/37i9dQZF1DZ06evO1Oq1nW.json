@@ -1,12 +1,12 @@
 {
   "description": "This is The O'Jays. The essential tracks, all in one playlist.",
-  "num_followers": 34347,
+  "num_followers": 34345,
   "original_name": "This Is The O'Jays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aelhAAAAAAB8n+jBd468wG4Bt7q20aAC",
+  "snapshot_id": "aeqygAAAAACv50qYsBK81KBjScS/DiHx",
   "tracks": [
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last Word",
-        "url": "https://open.spotify.com/album/1J7BPFUS7fzCkG4rc4AQQt"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 249229,
-      "name": "Start Stoppin'",
-      "url": "https://open.spotify.com/track/43X4A9MxKCrPUSie2SZuuT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Favorite Person",
         "url": "https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 233000,
       "name": "This Air I Breathe",
       "url": "https://open.spotify.com/track/7tVyJAzdKekmH0ChZxHhxB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last Word",
+        "url": "https://open.spotify.com/album/1J7BPFUS7fzCkG4rc4AQQt"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 249229,
+      "name": "Start Stoppin'",
+      "url": "https://open.spotify.com/track/43X4A9MxKCrPUSie2SZuuT"
     },
     {
       "added_at": null,

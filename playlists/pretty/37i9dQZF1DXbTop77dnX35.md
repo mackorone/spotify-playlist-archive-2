@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Sarz & BNXN, Ayo Maff, Smur Lee, Kehlani , Angelique Kidjo, SZA and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,944 likes - 61 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,054 likes - 61 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 35 | [Praise the Lord](https://open.spotify.com/track/3IvprOUbcFgjfFFeh37doB) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Praise the Lord](https://open.spotify.com/album/2xUK7mW9ZsZoHHZTpqomy6) | 2:22 |
 | 36 | [Beginning](https://open.spotify.com/track/5codkFyPucmuDDxXpiGhig) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Beginning](https://open.spotify.com/album/03EXuhVnKAiDXQTmKbIV9L) | 2:58 |
 | 37 | [All The Things](https://open.spotify.com/track/0Wknp7wThnRkNl2xw4h19g) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [All The Things](https://open.spotify.com/album/2RGi75eKSdLPC99WnzMggs) | 3:01 |
-| 38 | [Siya Phusha](https://open.spotify.com/track/2wSnscXrmYNGAuUkkqzDkf) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Konke](https://open.spotify.com/artist/5perSoW1Lo1rJJgyKvIMrU), [Divine vee](https://open.spotify.com/artist/1Jg4P3YJwxvHfwwuhrllHB) | [Siya Phusha](https://open.spotify.com/album/3VuF9PDG89AW9wEcfnvIrB) | 6:16 |
+| 38 | [Siya Pusha](https://open.spotify.com/track/2wSnscXrmYNGAuUkkqzDkf) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Konke](https://open.spotify.com/artist/5perSoW1Lo1rJJgyKvIMrU), [Divine vee](https://open.spotify.com/artist/1Jg4P3YJwxvHfwwuhrllHB) | [Siya Pusha](https://open.spotify.com/album/3VuF9PDG89AW9wEcfnvIrB) | 6:16 |
 | 39 | [Modern man](https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r) | [Modern Fantasy](https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy) | 3:32 |
 | 40 | [Bamboo](https://open.spotify.com/track/1LD5KSHyc8tH4PBtIrZanM) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Bamboo](https://open.spotify.com/album/1VPgHUxPYgvwWUUYj9XAkL) | 2:26 |
 | 41 | [PIECES](https://open.spotify.com/track/0LSnGEfj4T8vJyi7lVU3Gn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET \(DELUXE\)](https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3) | 3:25 |

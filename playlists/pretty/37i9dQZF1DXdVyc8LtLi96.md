@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 
 > The perfect soundtrack to your morning yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,773 likes - 219 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,730 likes - 219 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 | 218 | [Heal and Rest](https://open.spotify.com/track/4QXwiGI9TO3FtIEfdVRSTU) | [Luna Serenity](https://open.spotify.com/artist/6NjcHrItY1c8OnFcY70avf) | [Heal and Rest](https://open.spotify.com/album/0JsRHDa9vnqPPo2LJXqt9d) | 3:31 |
 | 219 | [Vali](https://open.spotify.com/track/7ej2oFAVbcTyuZaqzESR2N) | [SKEN](https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv) | [Vali](https://open.spotify.com/album/1GHHa5h5nuBaoTgEcuHrc5) | 3:06 |
 
-Snapshot ID: `AAAAAAerT8SOikv5vaR/CyvHhCeYNBE4`
+Snapshot ID: `AAAAAFfT9iF2OtgcHi6BX8lTKcdTrtFx`

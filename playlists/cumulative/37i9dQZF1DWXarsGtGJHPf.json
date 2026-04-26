@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Isle of Me (From \"Sold Out On You\")",
+        "url": "https://open.spotify.com/album/42j462vfrGmybewykkeuBb"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227264,
+      "name": "Isle of Me (From \"Sold Out On You\")",
+      "url": "https://open.spotify.com/track/54SEo4CoJktVPzvDEwgJiE"
+    },
+    {
+      "album": {
         "name": "Lilac",
         "url": "https://open.spotify.com/album/6bhg1nEu6BjGxxYf8z2i2W"
       },

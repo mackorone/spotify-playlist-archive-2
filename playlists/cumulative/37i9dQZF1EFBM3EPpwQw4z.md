@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-155 songs - 9 hr 4 min
+156 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Raise Up](https://open.spotify.com/track/74QNAdrgUutTbLIdRGrz26) | [Wa\-Fu](https://open.spotify.com/artist/51miQgR4HHTo5kOwFCeyJo) | [Raise Up](https://open.spotify.com/album/30UIPjHdAfS1FbSO8T6uez) | 3:28 | 2023-12-30 | 2025-11-09 |
 | [Rave Cave](https://open.spotify.com/track/7aYONhQEt4yhpLYtY6RGz9) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 3:31 | 2023-12-30 |  |
 | [Recover](https://open.spotify.com/track/3sMjP8JPw36uryb6FG7z2B) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [REMI](https://open.spotify.com/artist/5t69dnux4K2vcJO4VjS39q) | [Recover](https://open.spotify.com/album/60d1W4CUw9OsHNY9rwzaXE) | 3:57 | 2023-12-30 | 2025-07-24 |
+| [Restart \(ft\. KLP\)](https://open.spotify.com/track/3jmxKFfaUa3kFXaldidkDd) | [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Restart \(ft\. KLP\)](https://open.spotify.com/album/1q1MrlDS7p0APneFaobN71) | 3:35 | 2026-04-25 |  |
 | [Revolution](https://open.spotify.com/track/11oCXpQWUT1MwImanWJE1N) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Revolution](https://open.spotify.com/album/1YMdBR2ZOZKHOkp1CoivzD) | 3:14 | 2023-12-30 | 2025-07-24 |
 | [Ride Tonight \(feat\. KLP\)](https://open.spotify.com/track/6FKP7jqm9NPCflDjvGECDi) | [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Ride Tonight \(feat\. KLP\)](https://open.spotify.com/album/3Pv9SwCrvmN49a0p0LGvML) | 2:57 | 2023-12-30 |  |
 | [Roll With It](https://open.spotify.com/track/08BK7wNuAYHsyX1niooAF8) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Revolution](https://open.spotify.com/album/1YMdBR2ZOZKHOkp1CoivzD) | 3:01 | 2023-12-30 | 2025-07-24 |

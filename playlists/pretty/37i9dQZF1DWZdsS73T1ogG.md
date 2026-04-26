@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: GeezyDee
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,662 likes - 85 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,703 likes - 85 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 32 | [Tu Turno](https://open.spotify.com/track/7sOVSH70TzdGTiUNsSlIst) | [Ronald El Killa](https://open.spotify.com/artist/2jE5NeCBZpgohvRLtQ6v0O), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Ruso Beats](https://open.spotify.com/artist/046MM5OvGEg7muuuoFNaXe), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Tu Turno](https://open.spotify.com/album/3dJHJPYipF9GPYvhysboHA) | 3:49 |
 | 33 | [Encima de Mi](https://open.spotify.com/track/0IeokvKfpv8XRniJPgtwtN) | [Otra Dosis](https://open.spotify.com/artist/547DiDbkwxxaiAkgrx92kZ), [KEEY205](https://open.spotify.com/artist/4LlttRZ4R2LEYkF44pQx1q) | [Encima de Mi](https://open.spotify.com/album/6SnKBe3rtdpb5VsycDL0aL) | 2:34 |
 | 34 | [ME LA PASO REBOTANDO](https://open.spotify.com/track/69tjfJOEQPhoPloTYvu6rq) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [El Bugg](https://open.spotify.com/artist/6o4L5N0aiAhdtN3pqEwG0P) | [CULONA EL MUNDO ES TUYO](https://open.spotify.com/album/0HtZPdT1LUYTENFs8GSVIN) | 2:40 |
-| 35 | [Candy](https://open.spotify.com/track/4vxSybnXSld4re7t8b0ZBz) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs) | [Candy](https://open.spotify.com/album/3hVfJYRT4xIDOasEO0UaLo) | 2:05 |
+| 35 | [Candy](https://open.spotify.com/track/4vxSybnXSld4re7t8b0ZBz) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Bravvs](https://open.spotify.com/artist/2EstnBv92UlKvEoCLSPOOh) | [Candy](https://open.spotify.com/album/3hVfJYRT4xIDOasEO0UaLo) | 2:05 |
 | 36 | [YTQ](https://open.spotify.com/track/0gNoBKtG8eA1era2DzdXoR) | [K John](https://open.spotify.com/artist/1FmV3JhbfZN6l1jNarZyVz) | [YTQ](https://open.spotify.com/album/2HgIoFeBQSVddI4hin7H1x) | 2:02 |
 | 37 | [Nalguita y Teta](https://open.spotify.com/track/6SuIUd8Wl5tZcyMFAV0EZJ) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Nalguita y Teta](https://open.spotify.com/album/0jwalP0wios13VlRWKILbC) | 3:07 |
 | 38 | [BOTERO](https://open.spotify.com/track/09fSdYZ5KlhSY5OqsBevhU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [BOTERO](https://open.spotify.com/album/6EuLuKuPRAxIePVvIJI8nG) | 4:14 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 43 | [Ley de Atracción ll](https://open.spotify.com/track/1jWmo1cEe3AgQTW3ydYECj) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Ley de Atracción ll](https://open.spotify.com/album/1tFPTZ6Zg2bSFmY41PnNEy) | 3:35 |
 | 44 | [Alaska](https://open.spotify.com/track/7ojNFDRPCH9gIpDtdCjl9W) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Alaska](https://open.spotify.com/album/3MvcDpkQUcYIQJx35P1l12) | 3:26 |
 | 45 | [De Chamaquito](https://open.spotify.com/track/3Ftr6NITDE2yTPCpT5A1Nr) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [De Chamaquito](https://open.spotify.com/album/7FZouWc2eApwNcehyFTXR6) | 2:50 |
-| 46 | [MINI FALDA](https://open.spotify.com/track/5q9K5GZbJk377LDKHznfQD) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [MINI FALDA](https://open.spotify.com/album/2Fak3I0a1PyslGbAvZBJjH) | 4:40 |
+| 46 | [MINI FALDA](https://open.spotify.com/track/5q9K5GZbJk377LDKHznfQD) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [MINI FALDA](https://open.spotify.com/album/2Fak3I0a1PyslGbAvZBJjH) | 4:05 |
 | 47 | [Una Aventura](https://open.spotify.com/track/6P5OklKnFLlyc5sZiQwCrA) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Una Aventura](https://open.spotify.com/album/4ljazARRKBsouqhbB864Ms) | 3:00 |
 | 48 | [Prófugo](https://open.spotify.com/track/3btRmr3aelAXhpc2EC2EYp) | [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Prófugo](https://open.spotify.com/album/7rrNueGVfikpwrEPXzAlQD) | 3:19 |
 | 49 | [Bbsita Te VeS Bien](https://open.spotify.com/track/76NMjRUQOGpJf6HfWojhMt) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [El SEI66EIS](https://open.spotify.com/album/35Ti0k1sTuvL2UdCtSieZY) | 3:03 |

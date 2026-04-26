@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "Juniper (Deluxe)",
+        "url": "https://open.spotify.com/album/3gyiTXUQVrz2zqMjZSR6st"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378943,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/1EyTkSC9oW5Bl8dZp8dSks"
+    },
+    {
+      "album": {
         "name": "Juniper",
         "url": "https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7"
       },
@@ -664,7 +682,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 167010,
       "name": "Pass the Salt (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el"

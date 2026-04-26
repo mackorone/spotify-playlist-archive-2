@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Jooyoung(\uc8fc\uc601))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: moyo)",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -11510,6 +11510,36 @@
       "duration_ms": 190000,
       "name": "who is this woman?",
       "url": "https://open.spotify.com/track/6tirHqOUs1n3C9gCIhS28f"
+    },
+    {
+      "album": {
+        "name": "moyo",
+        "url": "https://open.spotify.com/album/1KT6BaZ3LXSQC8PYjA7J6S"
+      },
+      "artists": [
+        {
+          "name": "moyo",
+          "url": "https://open.spotify.com/artist/7cu8aGfvtAE1rDjOrj51WY"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207626,
+      "name": "Who went to the toilet?",
+      "url": "https://open.spotify.com/track/7BxcVRP7iu7JUJJ5M0oJh7"
     },
     {
       "album": {

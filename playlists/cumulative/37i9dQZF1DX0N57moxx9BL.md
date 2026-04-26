@@ -2,9 +2,9 @@
 
 ### [Top Christian Rock](https://open.spotify.com/playlist/37i9dQZF1DX0N57moxx9BL)
 
-> Listen to the recent hits of Christian Rock\.  Cover:  Switchfoot
+> Listen to the recent hits of Christian Rock\.  Cover:  Rachel DeLong
 
-292 songs - 18 hr 41 min
+294 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Light Bends](https://open.spotify.com/track/4N4CZbbn3lXfVmCck3zcqp) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Light Bends](https://open.spotify.com/album/1m1gffySpyrPY5v184rxkW) | 4:11 | 2025-06-13 | 2025-11-08 |
 | [Lighting up the Darkness \(feat\. LKD\)](https://open.spotify.com/track/5YPAJtV7lnCvw2gcKuX0ko) | [FEARLESS BND](https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP), [LKD](https://open.spotify.com/artist/0EpAIZ1nGDiev14xjKhseg) | [Lighting up the Darkness](https://open.spotify.com/album/78cPuJVdYTd5u1X5Z6XSit) | 3:27 | 2023-11-17 | 2026-02-15 |
 | [LION](https://open.spotify.com/track/0VkbvqI6XzzXSL7fQKWBPA) | [Peyton Parrish](https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc) | [LION](https://open.spotify.com/album/1CqzOm3jFgTGK2qrMPYknL) | 5:43 | 2025-04-11 | 2025-12-13 |
-| [Listen Friend](https://open.spotify.com/track/14AnfhjSiQyo0uNzsjG4bK) | [Above Only](https://open.spotify.com/artist/5xHX5hLVen1uvA6THTO7Tn) | [Listen Friend](https://open.spotify.com/album/5Thzd8nKXasMl4q0rTKo4M) | 4:32 | 2022-01-14 |  |
+| [Listen Friend](https://open.spotify.com/track/14AnfhjSiQyo0uNzsjG4bK) | [Above Only](https://open.spotify.com/artist/5xHX5hLVen1uvA6THTO7Tn) | [Listen Friend](https://open.spotify.com/album/5Thzd8nKXasMl4q0rTKo4M) | 4:32 | 2022-01-14 | 2026-04-26 |
 | [Live Again](https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH) | [Torndown](https://open.spotify.com/artist/04xyr6U6aDe3a4F3xdwnKQ) | [Live Again](https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG) | 3:45 | 2021-05-28 | 2024-11-02 |
 | [Look At God](https://open.spotify.com/track/5xqU5TupZhjHTbz6NgVvo6) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Look At God](https://open.spotify.com/album/2C4wpKm09OICCnMbJE05KS) | 2:55 | 2025-05-31 |  |
 | [Louder Than a Lion](https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT) | [Eisley](https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg) | [I'm Only Dreaming](https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP) | 3:56 | 2021-05-28 | 2025-03-01 |
@@ -172,6 +172,7 @@
 | [Mirror Mirror](https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x) | [Random Hero](https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA) | [The Covering](https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP) | 3:26 | 2021-05-28 | 2025-11-22 |
 | [My Favorite Part](https://open.spotify.com/track/4PVh2Kbi9yqybmbNIvUq9K) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK), [Daniel Spriggs](https://open.spotify.com/artist/2ZpvE20s1gTpxv4YiRsRto) | [My Favorite Part](https://open.spotify.com/album/6r4t2XkKlFetLXjUdeYmAY) | 3:30 | 2025-03-14 | 2025-09-27 |
 | [Narrow Road](https://open.spotify.com/track/3OzpWi2W6pdKQH67txy3Is) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Narrow Road](https://open.spotify.com/album/3Dd9A3h5WAk7tMGtQQLtg5) | 4:35 | 2023-11-17 | 2024-06-29 |
+| [Neighbor](https://open.spotify.com/track/5pYQZ2HlhVj3dC3zaUV5uA) | [Rachel DeLong](https://open.spotify.com/artist/7DUD02SdWCZHYKKGjnwUQK) | [Neighbor](https://open.spotify.com/album/5pLSE330HFHVMRJEl6jAlP) | 2:44 | 2026-04-25 |  |
 | [Never Alone](https://open.spotify.com/track/2izXDYooH01TTikKosMVMO) | [Hands of Elohim](https://open.spotify.com/artist/6yWjkrrWKs3EeiokpjkkwE) | [Never Alone](https://open.spotify.com/album/39W89R47qvXP9qbvKzcJu0) | 3:26 | 2021-05-28 | 2022-10-30 |
 | [Nightmare](https://open.spotify.com/track/0qn0EGCOwcRTYM6oI1X8CL) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Nightmare](https://open.spotify.com/album/5o6miCyzka5xeGZ9iHPGfU) | 6:21 | 2024-06-28 | 2024-11-02 |
 | [No Altars](https://open.spotify.com/track/1ENnp7zs9kMq701EluEbKA) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [Rhema](https://open.spotify.com/album/1UMemAsPkhn8gtMvv9nq9f) | 3:29 | 2023-08-04 | 2024-04-19 |
@@ -238,6 +239,7 @@
 | [Stones](https://open.spotify.com/track/0mdx5qbiXWMkAUdL2HroPx) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Stones](https://open.spotify.com/album/1G6CJehs2AyISaaYgXGMfN) | 3:11 | 2021-05-28 | 2022-07-29 |
 | [Stones](https://open.spotify.com/track/42H7odYYQQwdWpy3tnjMka) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Stones](https://open.spotify.com/album/3Ncre0QjJsoutiGoT2LwBv) | 3:11 | 2022-03-11 | 2024-04-19 |
 | [Strong Enough to Live \(Acoustic\)](https://open.spotify.com/track/0YQBnvW2XtRrygrgn4sYbl) | [Late Night Savior](https://open.spotify.com/artist/4yMIEw1F5ALRIv7bZz0jid), [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Strong Enough to Live](https://open.spotify.com/album/5iaVtM0KucT2XDISJjmRTP) | 3:40 | 2022-01-14 | 2025-03-01 |
+| [Sulcus](https://open.spotify.com/track/6AqUCz7ewZxEhTN13Tg1Vj) | [THE ONE HE LOVED](https://open.spotify.com/artist/19g5k95pW2wSOzj3Itd2f9), [JORDEN MICHAEL](https://open.spotify.com/artist/7iMmy6p7MMnfoeY52ZAPZh) | [Sulcus](https://open.spotify.com/album/0jqcrUZDsTfighqPMBTmC5) | 4:48 | 2026-04-25 |  |
 | [Surrogates](https://open.spotify.com/track/35SrlqVrYmRxAB4g54ow9z) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [Surrogates](https://open.spotify.com/album/6g3FEJFGxNUOCJpaeaLMfS) | 3:00 | 2023-08-04 | 2024-06-29 |
 | [Surviving The Game](https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 3:58 | 2022-03-11 | 2024-08-10 |
 | [Surviving The Wasteland](https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Surviving The Wasteland](https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx) | 3:18 | 2023-02-17 | 2024-06-29 |
@@ -271,7 +273,7 @@
 | [Unpopular](https://open.spotify.com/track/2LQj9oZhGaxq6oBb9FMwGq) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unpopular](https://open.spotify.com/album/3K80OU42OLQ9ZlRAOEewL4) | 3:05 | 2024-08-09 | 2024-11-02 |
 | [Vice](https://open.spotify.com/track/4ou4cASYUalgtmw8A0tbyD) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Vice](https://open.spotify.com/album/0FjbxhgXFOBqrHxPXTjFYu) | 4:46 | 2022-10-29 | 2022-11-29 |
 | [Voice In The Desert](https://open.spotify.com/track/72VqSEtiCpjQfrDdCyCPA4) | [Brother Hamm](https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd) | [Voice In The Desert](https://open.spotify.com/album/7lNCds075PkTB79gbiEITw) | 4:12 | 2026-02-14 |  |
-| [Voices](https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed) | [The Protest](https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA) | [Death Stare](https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i) | 4:08 | 2022-01-14 |  |
+| [Voices](https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed) | [The Protest](https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA) | [Death Stare](https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i) | 4:08 | 2022-01-14 | 2026-04-26 |
 | [Wake Me Up](https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y) | [Living Scars](https://open.spotify.com/artist/5XIE35eMDOvXmZPHyE0mGE) | [Wake Me Up](https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY) | 4:13 | 2023-07-28 |  |
 | [Wake Up, Mr\. Crow](https://open.spotify.com/track/0grUF97drgnU62EI7jpN4x) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Wake Up, Mr\. Crow](https://open.spotify.com/album/41Q8Mjdp8pXFoYmJItNgFb) | 4:05 | 2026-03-29 |  |
 | [Walking Into Fire](https://open.spotify.com/track/1KQXKOSfTYKsDNBVL4gXXo) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Walking Into Fire](https://open.spotify.com/album/3ZHPDFdLiHctzZhdYEwlyB) | 3:01 | 2025-09-26 |  |

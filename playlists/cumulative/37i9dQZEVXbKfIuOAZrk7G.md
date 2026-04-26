@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-4,954 songs - 10 day 23 hr 16 min
+4,955 songs - 10 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3387,6 +3387,7 @@
 | [Por Las Buenas](https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Por Las Buenas](https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1) | 2:35 | 2025-06-24 | 2025-07-08 |
 | [Porch Light](https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Porch Light](https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA) | 3:04 | 2023-08-31 | 2023-09-02 |
 | [Porch Light](https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Porch Light](https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q) | 4:22 | 2026-03-31 | 2026-04-08 |
+| [Porch Light](https://open.spotify.com/track/7N3d1hsZZpmmnovfAtnVFU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:22 | 2026-04-25 |  |
 | [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 | 2023-06-06 | 2023-06-14 |
 | [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 | 2023-03-21 | 2023-03-29 |
 | [Pose For Me \(feat\. Natalie Nunn\) \- Remix](https://open.spotify.com/track/7b6Ni4rCGX7QoIN9vQnHZX) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw), [Natalie Nunn](https://open.spotify.com/artist/2I8embWRZZ0LSLvEIqx6wU) | [Pose For Me \(feat\. Natalie Nunn\) \[Remix\]](https://open.spotify.com/album/4jetPASJYFzn0yeId9AXQd) | 2:26 | 2024-10-13 | 2024-10-25 |
@@ -4593,7 +4594,7 @@
 | [VVV](https://open.spotify.com/track/41iF26gge0j1ZNkaGQUpJg) | [mikeeysmind](https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN), [Sanikwave](https://open.spotify.com/artist/4vy5ZH1CnzEqaInvIUu4z1) | [VVV](https://open.spotify.com/album/7LOf9ew6WqgdVcaeUoe5uS) | 3:47 | 2023-12-05 | 2023-12-17 |
 | [VVV](https://open.spotify.com/track/5XXAkqaDUHTVyBCuVBzCWF) | [mikeeysmind](https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN), [Sanikwave](https://open.spotify.com/artist/4vy5ZH1CnzEqaInvIUu4z1) | [VVV](https://open.spotify.com/album/0SoSdbTFzXPDiAUMrRRj6K) | 3:47 | 2023-11-15 | 2023-11-24 |
 | [VVV](https://open.spotify.com/track/71H5M1aGUJCEkjxinQWBW2) | [mikeeysmind](https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN), [Sanikwave](https://open.spotify.com/artist/4vy5ZH1CnzEqaInvIUu4z1) | [VVV](https://open.spotify.com/album/58qd4MXmdf6NlmxMDhOZVa) | 3:47 | 2023-11-24 | 2023-12-06 |
-| [VYZEE](https://open.spotify.com/track/0amVJVFJfwe5htMUF7hhNe) | [sweetiele](https://open.spotify.com/artist/7HW7euBVtNogyNZMxGXFmU) | [VYZEE](https://open.spotify.com/album/4EeGO18uyaehwPagWedXiC) | 3:07 | 2026-04-11 |  |
+| [VYZEE](https://open.spotify.com/track/0amVJVFJfwe5htMUF7hhNe) | [sweetiele](https://open.spotify.com/artist/7HW7euBVtNogyNZMxGXFmU) | [VYZEE](https://open.spotify.com/album/4EeGO18uyaehwPagWedXiC) | 3:07 | 2026-04-11 | 2026-04-26 |
 | [VYZEE](https://open.spotify.com/track/26bd5mHcE3k4Z6gdwg3bbO) | [sweetiele](https://open.spotify.com/artist/7HW7euBVtNogyNZMxGXFmU) | [VYZEE](https://open.spotify.com/album/0lL67XdTYaVblCZirwT4YL) | 3:07 | 2026-03-25 | 2026-03-28 |
 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 | 2022-08-02 | 2022-09-09 |
 | [WA DA DA](https://open.spotify.com/track/0hQNbQKW2dDATH1ngj4TI6) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/52HBqGcl4FIRwJ3iNYcliA) | 3:03 | 2022-01-25 | 2022-02-23 |

@@ -6,8 +6,40 @@
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAASTKUjv1bxQGbg1ErZCAg+CdkBx5lz",
+  "snapshot_id": "AAASTtXiN/3E9hj/sRHuyo49rpd2Jsep",
   "tracks": [
+    {
+      "added_at": "2026-04-25 18:37:16",
+      "album": {
+        "name": "Block Five\u2019s New Model",
+        "url": "https://open.spotify.com/album/3oPSAkLkMedtVIAVfNnWpF"
+      },
+      "artists": [
+        {
+          "name": "IR1S",
+          "url": "https://open.spotify.com/artist/0MXTbSvmj5W2OfKIsZDM6A"
+        }
+      ],
+      "duration_ms": 247519,
+      "name": "Block Five\u2019s New Model",
+      "url": "https://open.spotify.com/track/7bxgsc6X4Hn310m6Gm7j7U"
+    },
+    {
+      "added_at": "2026-04-25 09:41:58",
+      "album": {
+        "name": "Midsay",
+        "url": "https://open.spotify.com/album/2IwgonvQhgCUfY51H5s9M0"
+      },
+      "artists": [
+        {
+          "name": "Calpaina3",
+          "url": "https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu"
+        }
+      ],
+      "duration_ms": 206714,
+      "name": "Midsay",
+      "url": "https://open.spotify.com/track/4rq15t5ek2VZjTQH2WtCKz"
+    },
     {
       "added_at": "2026-04-25 00:51:23",
       "album": {

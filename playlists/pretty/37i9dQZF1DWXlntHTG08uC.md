@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,555 likes - 194 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,669 likes - 194 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,4 +203,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 | 193 | [Trippertronics 528 Hz](https://open.spotify.com/track/7qmlDL2e8N8HyNmqfg4AoH) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Trippertronics](https://open.spotify.com/album/0y0xdDlRZQVfWYhfWQnQC4) | 2:56 |
 | 194 | [Heavenly Portal 528 Hz](https://open.spotify.com/track/7eRKA2baivor19wewOAQ4n) | [Zims Ele](https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s) | [Heavenly Portal 528 Hz](https://open.spotify.com/album/6a4np3ukSYj7PrimbdKcTS) | 2:43 |
 
-Snapshot ID: `AAAAAMNpikuqLY1H0LoZbsB0/FwtW8Zv`
+Snapshot ID: `AAAAAGT5Rq6LUhxWAP26lmTPCbiCgdeI`

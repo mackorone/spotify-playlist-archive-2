@@ -5411,6 +5411,24 @@
     },
     {
       "album": {
+        "name": "Bici Please",
+        "url": "https://open.spotify.com/album/17XWYWrACzm6yIVjJcQuwq"
+      },
+      "artists": [
+        {
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Bici Please",
+      "url": "https://open.spotify.com/track/7647uDi2058q6iWAdZ55JO"
+    },
+    {
+      "album": {
         "name": "Bun Venit Acasa (Deluxe)",
         "url": "https://open.spotify.com/album/5A4tD7qWgfhfOJ1kXJY9SF"
       },
@@ -6548,7 +6566,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 158400,
       "name": "Brasileiro",
       "url": "https://open.spotify.com/track/5QxrwYi8HokaPKgApOhoDN"
@@ -12262,7 +12280,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 203182,
       "name": "Din Corason",
       "url": "https://open.spotify.com/track/0y2dfDgJaRckH48vI1YIVH"
@@ -13176,7 +13194,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -17198,7 +17216,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 178604,
       "name": "Gagica-ta - Golden Cypher",
       "url": "https://open.spotify.com/track/4Hk1JHeOxf7ScnVEvzMOtY"
@@ -22628,7 +22646,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 136875,
       "name": "Jester",
       "url": "https://open.spotify.com/track/7kcBiaUm1uPSNgUbSioyEE"
@@ -26810,7 +26828,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 182452,
       "name": "Marae",
       "url": "https://open.spotify.com/track/0B0G4rBspOqDL7Ap9pgFm0"
@@ -29952,7 +29970,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 198720,
       "name": "Nikki Beach - Live",
       "url": "https://open.spotify.com/track/66aYG7OmvJIKZswacsI3qV"
@@ -33880,7 +33898,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 125294,
       "name": "Ponte Pa Mi",
       "url": "https://open.spotify.com/track/78uC56WFICXVzko7aBUXHJ"
@@ -42726,7 +42744,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 176386,
       "name": "Talentul ala fin",
       "url": "https://open.spotify.com/track/2ftaktO6DSSPwXkoZkf4dI"
@@ -43084,7 +43102,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 163764,
       "name": "Te plac, te pup",
       "url": "https://open.spotify.com/track/57UeZZXteJZVp22stEyS4a"
@@ -44963,6 +44981,32 @@
     },
     {
       "album": {
+        "name": "M\u00e2ine Nu-i Promis",
+        "url": "https://open.spotify.com/album/5PgDbz2k4T4F0gceXaLibH"
+      },
+      "artists": [
+        {
+          "name": "Grasu XXL",
+          "url": "https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG"
+        },
+        {
+          "name": "Guess Who",
+          "url": "https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221981,
+      "name": "Tot Ce E Frumos",
+      "url": "https://open.spotify.com/track/1uzp0dlT8GjBalvJhVGREv"
+    },
+    {
+      "album": {
         "name": "BANDO 3",
         "url": "https://open.spotify.com/album/07XMvIHjrlOH9zYUtqpL8L"
       },
@@ -45356,7 +45400,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 153000,
       "name": "Tratamente",
       "url": "https://open.spotify.com/track/2beoq3iRO5pp23aeJlgK87"
@@ -45732,7 +45776,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 145184,
       "name": "Tu blondina,eu brunet",
       "url": "https://open.spotify.com/track/3Xu2k2FS97eGmK7OOTfPHH"

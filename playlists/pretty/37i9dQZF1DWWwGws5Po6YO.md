@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Kayla Pichichero
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,196 likes - 100 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,232 likes - 100 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 99 | [Our Relativity](https://open.spotify.com/track/4eYbmj6sKnPYyjOIUFkLjv) | [Lucy Gooch](https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK) | [Desert Window](https://open.spotify.com/album/5UBF1Q6waWNsmrW02gk6Wy) | 5:27 |
 | 100 | [Gió](https://open.spotify.com/track/2GgCsGOywZonT5FG2Ip0uC) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Tết 41](https://open.spotify.com/album/4uGqtqNsXFQYJIbwtbz38n) | 5:19 |
 
-Snapshot ID: `AAAAAKqDSzpexs7/pXet4/DLIC3nG/nX`
+Snapshot ID: `AAAAAE8UzHOchwGqoueMiF4WT0eXK10/`

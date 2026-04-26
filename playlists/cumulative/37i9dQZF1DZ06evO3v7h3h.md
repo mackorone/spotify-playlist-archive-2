@@ -4,7 +4,7 @@
 
 > This is Rashid\. The essential tracks, all in one playlist.
 
-119 songs - 8 hr 22 min
+120 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Meu Sol](https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb) | [Jonathan Ferr](https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [ÀVUÀ](https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik) | [Meu Sol](https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee) | 3:26 | 2023-09-18 |  |
 | [Mil Cairão](https://open.spotify.com/track/2Wyepj1yixQw0R7ZfbM7qb) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 4:03 | 2023-09-18 |  |
 | [Música de Guerra](https://open.spotify.com/track/4RvbMmeHmEuxAVbODGx5Ob) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 3:44 | 2023-09-18 | 2024-08-11 |
+| [Na Vanguarda de Mim Mesmo](https://open.spotify.com/track/78aeiSApCeBtme4BQ2OoaX) | [Tayob J.](https://open.spotify.com/artist/5mWlE6LzefekauAa9AHThX), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [Na Vanguarda de Mim Mesmo](https://open.spotify.com/album/20DYrZ4Wq8CgUzX9AJZDz5) | 3:25 | 2026-04-26 |  |
 | [Não Sabem de Nada](https://open.spotify.com/track/0kOg2SOsNaHnrcPCC2diFf) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 4:02 | 2023-09-18 | 2025-03-28 |
 | [O Que Se Leva \(Dói\)](https://open.spotify.com/track/336MAGcI93mYzYuKDHYOPN) | [Rod Rizz](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [Deus É Brasileiro](https://open.spotify.com/album/0kLE6hMfgjBcb0twaLuJh4) | 2:50 | 2025-11-16 |  |
 | [O Que Se Leva \(Dói\)](https://open.spotify.com/track/7AYctIsvlx9eNrOM2zhLiz) | [Rod Rizz](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [O Que Se Leva \(Dói\)](https://open.spotify.com/album/27uX1i9485ofNAO9EHIWBE) | 2:50 | 2023-11-10 | 2025-11-16 |
@@ -112,7 +113,7 @@
 | [Superpoder](https://open.spotify.com/track/5TlK8KkKi36wHn6UjUoiXQ) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Lellê](https://open.spotify.com/artist/5RNZjjf0s20cEXRfCbQ8pY) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 3:17 | 2024-05-11 | 2024-08-01 |
 | [Tem Dias Que](https://open.spotify.com/track/4puE88rxsk6E2jmc1p9toN) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 5:19 | 2023-09-18 | 2023-12-14 |
 | [Tudo Ou Nada](https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 4:25 | 2023-09-18 |  |
-| [Tão Real](https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 4:15 | 2023-09-18 |  |
+| [Tão Real](https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 4:15 | 2023-09-18 | 2026-04-26 |
 | [Um Novo Tom](https://open.spotify.com/track/3uyXq1Y4zSy93mZI2iv8vL) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Um Novo Tom](https://open.spotify.com/album/11hngtRtwhsb9KDuQB3Rf1) | 4:50 | 2025-10-24 |  |
 | [Um Sonho Só](https://open.spotify.com/track/46j8R60lIlLcilPzLj1rR1) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 5:04 | 2026-02-03 |  |
 | [Um Tom de Azul](https://open.spotify.com/track/0KU4mayaRz3gGeAKo8M7wG) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Portal](https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf) | 4:21 | 2024-08-11 | 2025-11-27 |

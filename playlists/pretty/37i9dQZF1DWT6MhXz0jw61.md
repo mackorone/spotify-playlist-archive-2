@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,399,895 likes - 105 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,399,944 likes - 105 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 33 | [On Your Own](https://open.spotify.com/track/2IXZcRvtN5b56tePZjo73C) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [Don't Play With My Heart](https://open.spotify.com/album/4D1l4RcZi4UK0XZndoAS1W) | 4:24 |
 | 34 | [City On Fire \(feat\. Odeal\)](https://open.spotify.com/track/6QdyHBkpt484d9Ld3FJjUc) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [City On Fire](https://open.spotify.com/album/1rCVy3ZJyrAN6APLu2PiHH) | 2:33 |
 | 35 | [Retail Therapy](https://open.spotify.com/track/1HEAMLjCTehb8w0AJFCaka) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo), [Férina](https://open.spotify.com/artist/6sIKgvWOLwG1jc4LJ3WGfi) | [Retail Therapy](https://open.spotify.com/album/6Zyp6WGs6nnn6L6aj1k5zu) | 2:49 |
-| 36 | [Slow](https://open.spotify.com/track/0Uo5SflCaV61rtGLANXnnx) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg) | [Slow](https://open.spotify.com/album/5iRfTfxLcrMQJbnQabjda1) | 2:37 |
+| 36 | [Slow](https://open.spotify.com/track/0Uo5SflCaV61rtGLANXnnx) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Den Thomas](https://open.spotify.com/artist/4bHotG4vpt01J3ZeP9HOpU) | [Slow](https://open.spotify.com/album/5iRfTfxLcrMQJbnQabjda1) | 2:37 |
 | 37 | [Tight Rope](https://open.spotify.com/track/2t289cdHBXWOsWEGiQfYiB) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy) | [Tight Rope](https://open.spotify.com/album/4XTHA4PvbCCNLcdS1yIYBY) | 2:55 |
 | 38 | [Stay Blessed \(starring Malaya\)](https://open.spotify.com/track/6dmmk5zda6JgAowvwEjnb9) | [NASAAN](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb) | [Method Acting](https://open.spotify.com/album/7gxOr34oxF5QkbHINYYJ9b) | 3:33 |
 | 39 | [Reckless \(feat\. Static Major\)](https://open.spotify.com/track/10lkd5Ixflx3dfu3aWb3EX) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Static Major](https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV) | [Reckless \(feat\. Static Major\)](https://open.spotify.com/album/4E1AhK5QtyqCPbwTpRKkym) | 2:18 |

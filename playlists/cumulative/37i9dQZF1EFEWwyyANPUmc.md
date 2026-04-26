@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2jEhW8ABFUBCiDxJs9q322">Emy Perez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-71 songs - 3 hr 43 min
+72 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Laat Maar Van Je Houden](https://open.spotify.com/track/2bt1VOjF1jAgVj5UbTJpvR) | [Déon Leon](https://open.spotify.com/artist/3oaUkKeOrroHK6zxaMttCj) | [Laat Maar Van Je Houden](https://open.spotify.com/album/2wLv8ycuJ67wkFXFAVoWFm) | 2:56 | 2022-06-04 |  |
 | [Loco](https://open.spotify.com/track/4djkKXYJu5FuNMwCJdGzYl) | [SWACQ](https://open.spotify.com/artist/45UHclgIcRavRoRa2MET5i), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Loco](https://open.spotify.com/album/2hHwH5zwnxIEVrRAczECMl) | 2:26 | 2022-06-04 |  |
 | [Loquita](https://open.spotify.com/track/5uuNPORdHV6PYNclkvNGaA) | [Claydee](https://open.spotify.com/artist/2rcsCDLsJw6erBukvjEsrP), [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Loquita](https://open.spotify.com/album/3TWxVMXRwH9EuH3MjhVNJa) | 2:50 | 2022-06-04 |  |
-| [Maria](https://open.spotify.com/track/1b9LW0jW9PvCnxa2wp3jqR) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Gypsy Woman](https://open.spotify.com/album/42efLsUxo2ZfeccocN1JCs) | 2:53 | 2022-06-04 |  |
+| [Maria](https://open.spotify.com/track/1b9LW0jW9PvCnxa2wp3jqR) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Gypsy Woman](https://open.spotify.com/album/42efLsUxo2ZfeccocN1JCs) | 2:53 | 2022-06-04 | 2026-04-26 |
+| [Maria](https://open.spotify.com/track/0i15qwKKzsEBwlOllYxGxi) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Gypsy Woman](https://open.spotify.com/album/3Ik9erPwlTSjT53IULjRm9) | 2:53 | 2026-04-25 |  |
 | [Me Gusta \(feat\. Emy Perez\)](https://open.spotify.com/track/4Kk8Xc3UaEPAQ0CepN6AaL) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Me Gusta \(feat\. Emy Perez\)](https://open.spotify.com/album/34tls5asHYLA2GeWiaRJmN) | 3:03 | 2022-06-04 |  |
 | [Nasty](https://open.spotify.com/track/7wNEVi5lEzMcQepjnRiDco) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Nasty](https://open.spotify.com/album/0PvKepM5NBjgDLstZ3ZT26) | 2:51 | 2022-06-04 |  |
 | [Nice & Slow \(feat\. Emy Perez\)](https://open.spotify.com/track/3o5iWAwwnXFJQJyKL8vdpK) | [Johnny 500](https://open.spotify.com/artist/53phw2rwTqJEtpZ1LgsPgj), [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM), [Chip Charlez](https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Nice & Slow \(feat\. Emy Perez\)](https://open.spotify.com/album/1xIzM2CPJzj56zJliMLxK0) | 2:10 | 2022-06-04 |  |

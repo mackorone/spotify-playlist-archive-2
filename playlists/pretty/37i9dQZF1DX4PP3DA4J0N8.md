@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PP3DA4J0N8.md) - [plain]
 
 > Sounds of birds, rain, and forest ambience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,362,981 likes - 140 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,363,216 likes - 140 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PP3DA4J0N8.md) - [plain]
 | 4 | [Northern UK Forest Birds](https://open.spotify.com/track/00MSSYGZ5IjVBy4JcK3ZYk) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Feathers in the Forest](https://open.spotify.com/album/7IWRzEGaJRUpRJLFNhnHYb) | 3:09 |
 | 5 | [Natural Forest Quiet](https://open.spotify.com/track/7pY9vYk2s9VTggqqPQ9kI2) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Natural Forest Quiet](https://open.spotify.com/album/4vGRrXTak44ULC7tS2v25Q) | 2:28 |
 | 6 | [Night Forest](https://open.spotify.com/track/3OrDEsaqIYNaXMjtoNTmGn) | [Nature's Essence](https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j) | [Night Forest](https://open.spotify.com/album/4XrhapfKtOHM8vM9oRAkCi) | 3:14 |
-| 7 | [The Hour Before Light](https://open.spotify.com/track/0bNLQqoyBsdb1IrM1cKENf) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Diana Restrepo](https://open.spotify.com/artist/4gCfyTvrRVrIWzFO3LOd3O) | [El Páramo, Permission to Record](https://open.spotify.com/album/4G9YRlrYBWe2qDnRA0eHPI) | 4:00 |
+| 7 | [The Hour Before Light](https://open.spotify.com/track/0bNLQqoyBsdb1IrM1cKENf) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Diana Maria Restrepo R.](https://open.spotify.com/artist/63jlkKtOda3igxUmwf9PbE), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [El Páramo, Permission to Record](https://open.spotify.com/album/4G9YRlrYBWe2qDnRA0eHPI) | 4:00 |
 | 8 | [Rain In The Forest](https://open.spotify.com/track/59qpYkbZNKjClf9lm4EPyw) | [Celestial Elements](https://open.spotify.com/artist/4B3XxiV12KMgcJgh0uo9I4) | [Rain In The Forest](https://open.spotify.com/album/4gxhbBMd0f76hxLXPOZsvZ) | 2:38 |
 | 9 | [Riverlight Through Leaves](https://open.spotify.com/track/08WqDRfDIHCroRHoYuAP66) | [Nature's Essence](https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j) | [Riverlight Through Leaves](https://open.spotify.com/album/4eO9Q2g6EAwyvvkN4JtqQV) | 3:01 |
 | 10 | [Hidden Waterfall in Guacheneque Páramo](https://open.spotify.com/track/62hFUov4NAnmhC93T0qJUh) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Conector](https://open.spotify.com/artist/07911i0JpJbxQyDEHDgkbT), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Bogotá River Nature Sounds](https://open.spotify.com/album/65CQAJthuqeHB5UM9wyNS4) | 2:48 |

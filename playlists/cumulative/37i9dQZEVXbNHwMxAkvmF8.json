@@ -1552,7 +1552,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Afro Beat",
       "url": "https://open.spotify.com/track/6vXcUUwsnBlOcXXT22ZIGT"
@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 211670,
       "name": "ANGYALOK",
       "url": "https://open.spotify.com/track/24EifBPkwBMG3ohCeA7AUh"
@@ -3062,6 +3062,24 @@
       "duration_ms": 166350,
       "name": "BACKWOODS",
       "url": "https://open.spotify.com/track/6cJqHVzSnTJVEEBPcyoKt4"
+    },
+    {
+      "album": {
+        "name": "BAD BUNNY",
+        "url": "https://open.spotify.com/album/2ya64b5CUXkMBsEDzyM97A"
+      },
+      "artists": [
+        {
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "BAD BUNNY",
+      "url": "https://open.spotify.com/track/02kAIFBWwrJulgwGtVqIEQ"
     },
     {
       "album": {
@@ -8732,7 +8750,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
@@ -9336,7 +9354,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 97324,
       "name": "Emeld Fel!",
       "url": "https://open.spotify.com/track/6QqQ7EtMMS6JOt3G4Ex8vE"
@@ -19799,6 +19817,24 @@
     },
     {
       "album": {
+        "name": "MI B\u00c1NT",
+        "url": "https://open.spotify.com/album/4H77WxRwlo58BjVB5cNCNH"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "MI B\u00c1NT",
+      "url": "https://open.spotify.com/track/4M28Of5b7EG3ECpmqtBZt0"
+    },
+    {
+      "album": {
         "name": "Digit\u00e1lis/Anal\u00f3g",
         "url": "https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA"
       },
@@ -20558,7 +20594,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 163375,
       "name": "MOKKA",
       "url": "https://open.spotify.com/track/3u582Ft7ws5CvUxCsBHxwT"
@@ -23220,7 +23256,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 188642,
       "name": "PANASONIC",
       "url": "https://open.spotify.com/track/7gdHcrgGNeQSXD3cwOvMRR"
@@ -27632,7 +27668,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 57786,
       "name": "Sess_01",
       "url": "https://open.spotify.com/track/5AbPOCPwq6bq5YnYDWwgeE"
@@ -30612,7 +30648,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 146808,
       "name": "Talpra cig\u00e1nyok",
       "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"

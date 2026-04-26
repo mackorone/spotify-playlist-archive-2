@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Nesi
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,267 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,267 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 33 | [Bandido Con El Corazón Dañao](https://open.spotify.com/track/44w8XjF58fZ9joLwYSPgBC) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Fronti](https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr) | [HUMILDE](https://open.spotify.com/album/4GZM3e9LMpGJr6rZtOEMDZ) | 3:27 |
 | 34 | [Baddie Latina](https://open.spotify.com/track/0WFciB1uBAFiQQztgQUuSx) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Baddie Latina](https://open.spotify.com/album/72u9kHvuknpsdY2VRA3DBO) | 2:59 |
 | 35 | [5Comentari Remix](https://open.spotify.com/track/7MrpbIvULv0jeG5poET1hE) | [Dry](https://open.spotify.com/artist/5WyihFUm6o0V2HjYPcM2bV), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [yovngmanota](https://open.spotify.com/artist/6EDVu3xVa0VFfMhxKbBxuJ), [Debians](https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd), [Fabriell](https://open.spotify.com/artist/7sR2VU3zdYk41TJ6HcVQF6), [JLUZ](https://open.spotify.com/artist/4msDUQuYsMRUoles2jRZYJ) | [5Comentari Remix](https://open.spotify.com/album/34bp4RBLrpiqiPnY1uvdlq) | 5:08 |
-| 36 | [MINI FALDA](https://open.spotify.com/track/5q9K5GZbJk377LDKHznfQD) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [MINI FALDA](https://open.spotify.com/album/2Fak3I0a1PyslGbAvZBJjH) | 4:40 |
+| 36 | [MINI FALDA](https://open.spotify.com/track/5q9K5GZbJk377LDKHznfQD) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [MINI FALDA](https://open.spotify.com/album/2Fak3I0a1PyslGbAvZBJjH) | 4:05 |
 | 37 | [Lo Anticipé](https://open.spotify.com/track/5lZ1MaDgj15yBaavayGBQc) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Lo Anticipé](https://open.spotify.com/album/7jJV4pTLO6CQ9G0VJdY9uX) | 2:38 |
 | 38 | [PIN](https://open.spotify.com/track/6oPnlI69BFw388L0rx9jDT) | [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [PIN](https://open.spotify.com/album/2CD3IqfUkAlxtiDOURO1J0) | 2:00 |
 | 39 | [Sekali](https://open.spotify.com/track/3qCUIRGb43JV6BduGWYUBE) | [Xavi The Destroyer](https://open.spotify.com/artist/39e9M8JyGYz1NzelCM8uHG) | [Sekali](https://open.spotify.com/album/67qtdogJbNcf1q62r75f2d) | 2:19 |

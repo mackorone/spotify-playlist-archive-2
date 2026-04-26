@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Jooyoung\(주영\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: moyo\)
 
-626 songs - 1 day 9 hr 36 min
+627 songs - 1 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,6 +592,7 @@
 | [white](https://open.spotify.com/track/0wxpTeDCewMoDP7dOajNOZ) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [wintersleep](https://open.spotify.com/album/4C5gO2JIA6lAPuutccSApg) | 3:00 | 2023-01-13 | 2023-07-08 |
 | [White Lie \(feat\. GI$T\)](https://open.spotify.com/track/48ORreJCgCLSEj13xCFy70) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [White Lie](https://open.spotify.com/album/0AHZ4jGTztI0ieKKAicmdg) | 3:24 | 2022-07-27 | 2022-12-14 |
 | [who is this woman?](https://open.spotify.com/track/6tirHqOUs1n3C9gCIhS28f) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [who is this woman?](https://open.spotify.com/album/5IhSTNLKlu1hgPKSBSyg4B) | 3:10 | 2026-04-13 |  |
+| [Who went to the toilet?](https://open.spotify.com/track/7BxcVRP7iu7JUJJ5M0oJh7) | [moyo](https://open.spotify.com/artist/7cu8aGfvtAE1rDjOrj51WY), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [moyo](https://open.spotify.com/album/1KT6BaZ3LXSQC8PYjA7J6S) | 3:27 | 2026-04-25 |  |
 | [Why](https://open.spotify.com/track/0tbDP39a9Z8XPhAD8WfsBp) | [DOHU](https://open.spotify.com/artist/2R1wgdbaWY2KJG9xLWJ2Vh) | [WHY](https://open.spotify.com/album/5kV8W1zJiIWOvaYIECzY3M) | 4:04 | 2023-04-27 | 2023-10-28 |
 | [Why \(Feat\. Hoody\)](https://open.spotify.com/track/0cIEQ9hmlk2qJFvjZGgS82) | [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Why \(Feat\. Hoody\)](https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s) | 2:20 | 2022-07-05 | 2022-12-14 |
 | [WHY, WHY, WHY](https://open.spotify.com/track/0k46RHQDiZrP8eDgY4bd3v) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD) | [MINISERIES 2](https://open.spotify.com/album/63yKhliWjZOJ39UQhXcBhO) | 2:41 | 2024-07-18 | 2024-09-14 |

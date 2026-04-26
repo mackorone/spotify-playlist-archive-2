@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > All new Contemporary Christian songs on the rise! Cover: LOVKN
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,233 likes - 99 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,258 likes - 99 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 98 | [Blessed Assurance](https://open.spotify.com/track/1P9bxxgW8O5AVfWXU7kic7) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Mara Justine](https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw) | [Blessed Assurance](https://open.spotify.com/album/3g36eqRmsayvByOsOwqNA8) | 4:39 |
 | 99 | [The Water](https://open.spotify.com/track/1sbNbrhXGfamKxnoBP0JWI) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Victory](https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr) | [EAT](https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K) | 3:34 |
 
-Snapshot ID: `AAAAAH90XhHIMIMgMVSZep0ZKcam/5MT`
+Snapshot ID: `AAAAAGLfVeiWuvahMjv2y8UWi7Ri8QRE`

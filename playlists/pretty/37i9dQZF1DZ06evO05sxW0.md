@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05sxW0.md) - [plain]
 
 > This is Bikini Kill\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,829 likes - 32 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,835 likes - 32 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05sxW0.md) - [plain]
 | 24 | [Don't Need You](https://open.spotify.com/track/3RVxsu0EDweX6ffTLDy9WP) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The First Two Records](https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze) | 1:27 |
 | 25 | [Star Bellied Boy](https://open.spotify.com/track/3btz8qzIt3dbNFhEsTdFwv) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Pussy Whipped](https://open.spotify.com/album/4rCgFExY3JIJdFij2kwB1w) | 1:33 |
 | 26 | [Bloody Ice Cream](https://open.spotify.com/track/7oFIVslwckI6BcJ0TQwl5D) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Reject All American](https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon) | 1:25 |
-| 27 | [Daddy's L'il Girl](https://open.spotify.com/track/3QJPGtdJgiHgoC2wZBpgRh) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Revolution Girl Style Now](https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3) | 2:28 |
+| 27 | [This Is Not a Test](https://open.spotify.com/track/2wtTxiBekNiST4pF0ODF1J) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Revolution Girl Style Now](https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3) | 1:48 |
 | 28 | [Jet Ski](https://open.spotify.com/track/1nIAfunQnMb64VPivMjstf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Reject All American](https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon) | 2:34 |
-| 29 | [This Is Not a Test](https://open.spotify.com/track/2wtTxiBekNiST4pF0ODF1J) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Revolution Girl Style Now](https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3) | 1:48 |
+| 29 | [Daddy's L'il Girl](https://open.spotify.com/track/3QJPGtdJgiHgoC2wZBpgRh) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Revolution Girl Style Now](https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3) | 2:28 |
 | 30 | [Playground](https://open.spotify.com/track/5MXEac2zwxs47zq0ftFgpy) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Revolution Girl Style Now](https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3) | 3:33 |
 | 31 | [Just Once](https://open.spotify.com/track/1sGHJSgeRVGlsWMW3H0bak) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Revolution Girl Style Now](https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3) | 3:35 |
 | 32 | [Ocean Song](https://open.spotify.com/track/2fM9MUueSFsILkptHaiE9N) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Revolution Girl Style Now](https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3) | 3:29 |
 
-Snapshot ID: `aelhAAAAAACjrX1i8kSd+IcjIa4pQSzc`
+Snapshot ID: `aeqygAAAAAD5y2TL7RvTpv9uEGzZKlF/`

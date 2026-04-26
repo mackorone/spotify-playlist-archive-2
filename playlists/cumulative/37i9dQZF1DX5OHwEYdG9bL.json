@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-03-15",
-  "description": "\ubba4\uc9c1\ube44\ub514\uc624 \uae30\ub2a5\uc774 \uc9c0\uc6d0\ub418\ub294 \ub178\ub798\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \uc990\uaca8\ubcf4\uc138\uc694! (Cover: BTS) (Enjoy a playlist of songs that support music video features!) ",
+  "description": "\ubba4\uc9c1\ube44\ub514\uc624 \uae30\ub2a5\uc774 \uc9c0\uc6d0\ub418\ub294 \ub178\ub798\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \uc990\uaca8\ubcf4\uc138\uc694! (Cover: CORTIS) (Enjoy a playlist of songs that support music video features!) ",
   "name": "K-Pop Music Video Hits",
   "tracks": [
     {
@@ -612,6 +612,24 @@
       "duration_ms": 175402,
       "name": "Butterfly Doors",
       "url": "https://open.spotify.com/track/6cVX3erP5UU9cHYpC6UVJJ"
+    },
+    {
+      "album": {
+        "name": "CELEBRATION",
+        "url": "https://open.spotify.com/album/6o2JgJq6t8b056VpQyUjDz"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188105,
+      "name": "CELEBRATION",
+      "url": "https://open.spotify.com/track/5fnj5MWx4amtaNjd1JM3sr"
     },
     {
       "album": {
@@ -1452,6 +1470,24 @@
       "duration_ms": 141900,
       "name": "Gnarly",
       "url": "https://open.spotify.com/track/7vj7OlHx7CkqW7GbtkM6jt"
+    },
+    {
+      "album": {
+        "name": "Gnarly (Live) | Spotify Best New Artist",
+        "url": "https://open.spotify.com/album/22YsfExa6uLecnP0NPNOK0"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137812,
+      "name": "Gnarly (Live) | Spotify Best New Artist",
+      "url": "https://open.spotify.com/track/2zoci1Endv9cwcyYF00mYr"
     },
     {
       "album": {
@@ -2393,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "Ode to Love",
+        "url": "https://open.spotify.com/album/7ENecvPQlhaA9RIzrn8mSi"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200213,
+      "name": "Ode to Love",
+      "url": "https://open.spotify.com/track/6oq6BAIcangVRRGT0qAdkI"
+    },
+    {
+      "album": {
         "name": "Oh My",
         "url": "https://open.spotify.com/album/0mncylzoHz7AEXg83JmaMI"
       },
@@ -2613,6 +2667,24 @@
     },
     {
       "album": {
+        "name": "POSE",
+        "url": "https://open.spotify.com/album/1pyLJ89FLvz7j7C7mtDCpU"
+      },
+      "artists": [
+        {
+          "name": "CLOSE YOUR EYES",
+          "url": "https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163541,
+      "name": "POSE",
+      "url": "https://open.spotify.com/track/7eJjhlY1IpLEdiMK41qdcy"
+    },
+    {
+      "album": {
         "name": "POWER [Official Video]",
         "url": "https://open.spotify.com/album/3SoygZ2zWfBPX3TSE9i2Kx"
       },
@@ -2798,6 +2870,42 @@
       "duration_ms": 193828,
       "name": "REBEL HEART",
       "url": "https://open.spotify.com/track/2itoCOiuGnbeEE8AkCPEOK"
+    },
+    {
+      "album": {
+        "name": "REDRED",
+        "url": "https://open.spotify.com/album/1bM2llz1kxKJRmYxWuEbbS"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204660,
+      "name": "REDRED",
+      "url": "https://open.spotify.com/track/50Zyos50vXSPAx4OrzRneI"
+    },
+    {
+      "album": {
+        "name": "REDRED (Conceptual Performance Film)",
+        "url": "https://open.spotify.com/album/7JCDz05dMWeVTZV4J7USnk"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164958,
+      "name": "REDRED (Conceptual Performance Film)",
+      "url": "https://open.spotify.com/track/3Sm48IuOVGZQC6uHCrMMcU"
     },
     {
       "album": {

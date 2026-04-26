@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235823,
+  "num_followers": 235807,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aelhAAAAAAB4pZZ7AfHt50uqEkoaUZc0",
+  "snapshot_id": "aeqygAAAAACzrjacIf8UZLeMRgYuWTt2",
   "tracks": [
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Go",
-        "url": "https://open.spotify.com/album/3m3QK4iaF4yBwce3cKMIpb"
-      },
-      "artists": [
-        {
-          "name": "Isabela Merced",
-          "url": "https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 167495,
-      "name": "Don't Go",
-      "url": "https://open.spotify.com/track/493DYJ6bdsVtHCpWBQlADr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sugar Mami",
         "url": "https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 131671,
       "name": "Sugar Mami",
       "url": "https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Go",
+        "url": "https://open.spotify.com/album/3m3QK4iaF4yBwce3cKMIpb"
+      },
+      "artists": [
+        {
+          "name": "Isabela Merced",
+          "url": "https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 167495,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/493DYJ6bdsVtHCpWBQlADr"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Disney Princesas: Canciones de las Princesas",
+        "url": "https://open.spotify.com/album/3nDUYzBoVY7wDSRAtyKgR0"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 148573,
+      "name": "Cu\u00e1ndo empezar\u00e9 a vivir",
+      "url": "https://open.spotify.com/track/01U7QYOVuLq4awzs5Z7z4s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atr\u00e9vete A So\u00f1ar 2",
         "url": "https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disney Princesas: Canciones de las Princesas",
-        "url": "https://open.spotify.com/album/3nDUYzBoVY7wDSRAtyKgR0"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 148573,
-      "name": "Cu\u00e1ndo empezar\u00e9 a vivir",
-      "url": "https://open.spotify.com/track/01U7QYOVuLq4awzs5Z7z4s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cali Y El Dandee: Fiesta",
         "url": "https://open.spotify.com/album/0tb6uSXTCSnViCjTJo0hwb"
       },
@@ -827,6 +827,26 @@
       "duration_ms": 174026,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5f2LcI06r5cpp99ozVVuM4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
+        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
+      },
+      "artists": [
+        {
+          "name": "Lilibeth Lilibeth",
+          "url": "https://open.spotify.com/artist/07UPbQXEAp4kUeJ27mmfI3"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "Amor De Ni\u00f1os",
+      "url": "https://open.spotify.com/track/42Nsc9ulcdrZlAYuJGoKaN"
     },
     {
       "added_at": null,
@@ -859,26 +879,6 @@
       "duration_ms": 252693,
       "name": "A Coro",
       "url": "https://open.spotify.com/track/1lKEEDNsqdVcF2pD8zYjqO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
-        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
-      },
-      "artists": [
-        {
-          "name": "Lilibeth Lilibeth",
-          "url": "https://open.spotify.com/artist/07UPbQXEAp4kUeJ27mmfI3"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "Amor De Ni\u00f1os",
-      "url": "https://open.spotify.com/track/42Nsc9ulcdrZlAYuJGoKaN"
     },
     {
       "added_at": null,
@@ -923,6 +923,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
+        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 123506,
+      "name": "Amy, Amy",
+      "url": "https://open.spotify.com/track/4SMV74Nn98m9GcVJRq5co1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pop Latino 2000",
         "url": "https://open.spotify.com/album/5513pgTeV3Uf6FlcWJWonP"
       },
@@ -939,18 +955,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
-        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
+        "name": "Verano Latino Hits 2020",
+        "url": "https://open.spotify.com/album/7Dqw6ZqR7FvCzaJ3CfvNOm"
       },
       "artists": [
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 123506,
-      "name": "Amy, Amy",
-      "url": "https://open.spotify.com/track/4SMV74Nn98m9GcVJRq5co1"
+      "duration_ms": 182813,
+      "name": "No Bailes Sola",
+      "url": "https://open.spotify.com/track/6srXZHeR5caq4doQSD1ULn"
     },
     {
       "added_at": null,
@@ -987,22 +1007,6 @@
       "duration_ms": 171573,
       "name": "Una Se\u00f1al",
       "url": "https://open.spotify.com/track/6AlesNEra3COtQsAvGD8Rp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
-        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 182133,
-      "name": "Milagrito",
-      "url": "https://open.spotify.com/track/2nPPhyPxWv58MqWLbnYkeX"
     },
     {
       "added_at": null,

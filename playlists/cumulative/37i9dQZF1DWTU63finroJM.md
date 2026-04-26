@@ -2,7 +2,7 @@
 
 ### [RADAR Global ](https://open.spotify.com/playlist/37i9dQZF1DWTU63finroJM)
 
-> Meet the future of music around the world\. Cover: dia
+> Meet the future of music around the world\. Cover: Chezka
 
 2,353 songs - 5 day 6 hr 55 min
 

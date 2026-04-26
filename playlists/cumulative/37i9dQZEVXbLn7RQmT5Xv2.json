@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 281211,
       "name": "Awel Kol Haga",
       "url": "https://open.spotify.com/track/0z7T5qNnbWZ4zDL0vNWXlO"
@@ -7534,7 +7534,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 127329,
       "name": "Kan 3ala 3eny (Red Bull Mazzika Salonat)",
       "url": "https://open.spotify.com/track/48tGSTYyKXZiHgwPDObPe1"
@@ -16802,7 +16802,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 206112,
       "name": "\u0627\u0644\u0628\u062e\u062a",
       "url": "https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ"
@@ -20502,6 +20502,24 @@
       "duration_ms": 141816,
       "name": "\u0639\u064a\u0646 \u0633\u062d\u0631\u064a\u0629",
       "url": "https://open.spotify.com/track/0SuWrDNsHCpu2Nh1Ygoeet"
+    },
+    {
+      "album": {
+        "name": "\u063a\u0627\u0631 \u0627\u0644\u0642\u0645\u0631 (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0648\u0646\u0646\u0633\u0649 \u0627\u0644\u0644\u064a \u0643\u0627\u0646)",
+        "url": "https://open.spotify.com/album/5lagJdup7OYfTD72gzwZI2"
+      },
+      "artists": [
+        {
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219461,
+      "name": "\u063a\u0627\u0631 \u0627\u0644\u0642\u0645\u0631 (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0648\u0646\u0646\u0633\u0649 \u0627\u0644\u0644\u064a \u0643\u0627\u0646)",
+      "url": "https://open.spotify.com/track/1yCIPv9azb6iatALhQnRR9"
     },
     {
       "album": {

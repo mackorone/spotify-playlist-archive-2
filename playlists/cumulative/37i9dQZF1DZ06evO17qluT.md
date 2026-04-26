@@ -4,7 +4,7 @@
 
 > This is BK\. The essential tracks, all in one playlist.
 
-165 songs - 10 hr 27 min
+166 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Quadros](https://open.spotify.com/track/5nkY0sTJS4UTp7RiOZKYNl) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Castelos & Ruínas](https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH) | 5:09 | 2023-09-18 | 2024-06-27 |
 | [Quadros](https://open.spotify.com/track/6ffxCvPayroRFYIZelqNMI) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 5:09 | 2024-06-27 | 2025-11-26 |
 | [Quem É da Área](https://open.spotify.com/track/6JfBl3c9Sc8tZN3ESQwWnO) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Dose de Adrenalina](https://open.spotify.com/album/7fH9cz52DI3j1wBTAeqixH) | 2:55 | 2024-03-26 | 2024-03-29 |
+| [Quente !](https://open.spotify.com/track/0eAN72pD742qdEQxGQ7bYq) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE), [Abud](https://open.spotify.com/artist/4FloXaoxJddb9qUORylHng) | [Quente !](https://open.spotify.com/album/3Fy4xHSlSehPVKp6Tl0zXn) | 3:32 | 2026-04-26 |  |
 | [Radin](https://open.spotify.com/track/7hcmf1lsMishJfiyEo2sJq) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Radin](https://open.spotify.com/album/17LSf8qvz7qlar8lYSDhMX) | 3:16 | 2023-09-18 | 2023-12-19 |
 | [Real](https://open.spotify.com/track/0A8YhNLcSp4FzFfLVpapF9) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu) | 3:26 | 2025-01-30 | 2025-11-27 |
 | [Real](https://open.spotify.com/track/43StvP555grf8hmYKn9dv6) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/1OQpOh2CpuG85LuJzomUC3) | 3:26 | 2025-11-27 |  |

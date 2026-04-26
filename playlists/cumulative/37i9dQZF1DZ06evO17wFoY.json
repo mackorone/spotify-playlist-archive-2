@@ -369,6 +369,32 @@
     },
     {
       "album": {
+        "name": "Carl Reinecke: Flute Works",
+        "url": "https://open.spotify.com/album/0gye2T7Vu8bTv1GbhMjQUX"
+      },
+      "artists": [
+        {
+          "name": "Carl Reinecke",
+          "url": "https://open.spotify.com/artist/6qrUIvuYX2DLbDruM7rguh"
+        },
+        {
+          "name": "Jeehee Han",
+          "url": "https://open.spotify.com/artist/1GE8P7UNvyPVBhAO1PtCXJ"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263680,
+      "name": "Flute Sonata in E Minor, Op. 167 \"Undine\": III. Andante tranquillo",
+      "url": "https://open.spotify.com/track/2vynqcQdoGW4SpchbZtZpm"
+    },
+    {
+      "album": {
         "name": "Beethoven: Bagatelle No. 25 in A Minor, WoO 59 \"F\u00fcr Elise\"",
         "url": "https://open.spotify.com/album/74YXY7P1wuM4JR9hGDzPBx"
       },
@@ -1492,7 +1518,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-26",
       "duration_ms": 338533,
       "name": "Vocalise, Op. 34, No. 14 (Arr. Kocsis for Piano)",
       "url": "https://open.spotify.com/track/1FNHEJepEQqCpY7h0pjIiC"

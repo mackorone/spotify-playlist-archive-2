@@ -1,4 +1,4 @@
-## Playlists \(9175\)
+## Playlists \(9176\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -3775,7 +3775,7 @@
 - [Liner Voice+  Awich『THE UNION』](/playlists/pretty/37i9dQZF1DXcZ0D9Pii8ub.md)
 - [Liner Voice+ SiM『PLAYDEAD』](/playlists/pretty/37i9dQZF1DWUAK58Yov6Re.md)
 - [Liricisti](/playlists/pretty/37i9dQZF1DX5e23vWCjL5N.md)
-- [Lista de LOS40 \(Oficial\) \- Romeo Santos y Prince Royce en el Nº1](/playlists/pretty/2z7k6r8z0OlXuDsIuy80ZN.md)
+- [Lista de LOS40 \(Oficial\) \- Ryan Castro y Kapo en el Nº1](/playlists/pretty/2z7k6r8z0OlXuDsIuy80ZN.md)
 - [Little Mix: Pride](/playlists/pretty/37i9dQZF1DX7wHseZmxqFF.md)
 - [Live Gospel](/playlists/pretty/37i9dQZF1DWYW0wKwdPj2g.md)
 - [Livet på Bøgda!](/playlists/pretty/37i9dQZF1DXa5zM0UrfG4s.md)
@@ -5955,6 +5955,7 @@
 - [Suomirock tänään](/playlists/pretty/37i9dQZF1DWSTzzP5k4u3n.md)
 - [Supacell Official Playlist](/playlists/pretty/37i9dQZF1DXdMe6GwfJJOi.md)
 - [Super Cumbias](/playlists/pretty/37i9dQZF1DXbUMEWUyV9JB.md)
+- [Super Mario Galaxy + Super Mario Galaxy 2 Official Playlist](/playlists/pretty/37i9dQZF1DWVxtEGRFJYsS.md)
 - [Super Songs](/playlists/pretty/37i9dQZF1DWU8An4lZhLWW.md)
 - [Superman Official Playlist](/playlists/pretty/37i9dQZF1DX0GTMwCv2RBA.md)
 - [Sur la route](/playlists/pretty/37i9dQZF1DX1S89tRXh2OS.md)

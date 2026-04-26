@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-442 songs - 1 day 3 hr 42 min
+444 songs - 1 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Good Bye Baby](https://open.spotify.com/track/7wKQ4aUYEPXIq0FuWTIiS3) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Good Bye Baby](https://open.spotify.com/album/2C0ez6GxS1biRCR0AwH7fB) | 4:34 | 2025-11-12 | 2025-12-17 |
 | [Good Riddance](https://open.spotify.com/track/4juAsolkncVtBOvsjqiRfA) | [Daysick](https://open.spotify.com/artist/1mnmYPlWBNM4hgWRsgaelX) | [Good Riddance](https://open.spotify.com/album/3OOccZEWmOTs99aPn0w9M3) | 3:51 | 2026-03-07 |  |
 | [got a little spacey](https://open.spotify.com/track/64t4vsXlRGBbEoxN9gT12C) | [rivers western](https://open.spotify.com/artist/31yh8AHiPkbkybRerMmuv9) | [got a little spacey](https://open.spotify.com/album/4yuQpJrrYtvpeqqBuSaL0f) | 2:43 | 2025-10-18 | 2025-11-28 |
+| [Got Your Gun](https://open.spotify.com/track/6YlLDFUpYCUxvjf6zeehMh) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Got Your Gun](https://open.spotify.com/album/556dFgma1H1MaxXbXDzAzx) | 3:50 | 2026-04-25 |  |
 | [Green Giants March](https://open.spotify.com/track/6EfCto1xF9NLpZt8469sbX) | [Jaxx.13](https://open.spotify.com/artist/1pV2GA9n5xplcSgg58F3Xn), [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Alex.13](https://open.spotify.com/artist/74kwMd6oJzppv5s1b6RhVV) | [Green Giants March](https://open.spotify.com/album/0ZXdBFVaPAfzZNrleHHvIM) | 2:30 | 2026-01-06 | 2026-03-18 |
 | [Grinder Minder](https://open.spotify.com/track/7nmyUuAJDJ0O9VRF7Lv8NR) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Grinder Minder](https://open.spotify.com/album/1SperF6SKGWOeLHv3kG5gl) | 3:06 | 2026-01-29 | 2026-03-18 |
 | [Guerrero](https://open.spotify.com/track/4WcNVDm7F46de4XaCZiO5B) | [Wilson Ramírez](https://open.spotify.com/artist/7lPZcZVYj28uttO8cLsJ3Z) | [Guerrero](https://open.spotify.com/album/025nIW94c2Tsf5xx1Fbhp7) | 4:34 | 2025-09-21 |  |
@@ -253,7 +254,8 @@
 | [Might](https://open.spotify.com/track/29tEoaOohhs9T5KzL5nwSp) | [CousinRay](https://open.spotify.com/artist/1a6zRnXwYNfgmQwGCe7aZZ), [Drew Nold](https://open.spotify.com/artist/33aaruu0jaWNP2jmw03YL9), [Steam Slicer](https://open.spotify.com/artist/1BrdiIVdlnhJZRJkLCb5TI) | [Might](https://open.spotify.com/album/3kzrk1s5s52bPX4RJlXBme) | 4:00 | 2025-09-30 | 2025-12-17 |
 | [Mojo On](https://open.spotify.com/track/3TdRMlfp6LGeAtOASCN8nx) | [Luback](https://open.spotify.com/artist/7A4hy5k2AzVjPu8yjXnZr9), [The Clics](https://open.spotify.com/artist/0haX6u2d6rCkAXWJB4d9sO) | [Mojo On](https://open.spotify.com/album/22flR5Lny2T7GFrDKLxxUD) | 4:21 | 2025-11-02 | 2025-12-17 |
 | [Money](https://open.spotify.com/track/5EYHdEkl9T4osuhxLGB0e7) | [The How](https://open.spotify.com/artist/09hG1ZJdYeCJo1nB66BJzW) | [Westway Rises](https://open.spotify.com/album/1UF1jnphfnZ65FU9Qp3KdV) | 3:34 | 2026-01-13 | 2026-03-18 |
-| [Monsters](https://open.spotify.com/track/70VhhKKdIEEudf6DQV6U5v) | [Mister Co.](https://open.spotify.com/artist/4OKRsuISYqu54looIiF1qw), [Mason Jay](https://open.spotify.com/artist/1Zw5coqD6AmGDFp5eLW6Cl), [Tahlia Eve](https://open.spotify.com/artist/3TqT9LO38ojg10swNydIDi) | [Monsters](https://open.spotify.com/album/7h72tlOVHXBapt15VlpvXn) | 4:49 | 2026-04-23 |  |
+| [Monsters](https://open.spotify.com/track/70VhhKKdIEEudf6DQV6U5v) | [Mister Co.](https://open.spotify.com/artist/4OKRsuISYqu54looIiF1qw), [Mason Jay](https://open.spotify.com/artist/2XaRcu373bqmThIbyXmlml), [Tahlia Eve](https://open.spotify.com/artist/3TqT9LO38ojg10swNydIDi) | [Monsters](https://open.spotify.com/album/7h72tlOVHXBapt15VlpvXn) | 4:49 | 2026-04-23 |  |
+| [Montague](https://open.spotify.com/track/2RkLcTEFOMLxseVkpvNbNi) | [New Juliet](https://open.spotify.com/artist/7FMVmMH2AbtqrllpIhgi2K) | [Montague](https://open.spotify.com/album/2MwRWgs9OwTHvay6WFbP8V) | 3:46 | 2026-04-25 |  |
 | [Moonlight In Her Eyes](https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:51 | 2026-02-06 | 2026-03-18 |
 | [MORE IS MORE](https://open.spotify.com/track/6tLEgrRHqFuCaNJoGkqEvQ) | [One Last Story](https://open.spotify.com/artist/1gQmrxjvjFTy1yDRpwvewq) | [MORE IS MORE](https://open.spotify.com/album/1Yc5IDAu1TE61J1m4zLaPG) | 3:22 | 2025-10-30 | 2025-12-17 |
 | [Mountain Voices](https://open.spotify.com/track/627K4bvCUl7zidwwiufN0Y) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Echos From The Mountains](https://open.spotify.com/album/06rsDsZw8cpL50L92qtRmT) | 2:25 | 2026-03-23 | 2026-04-21 |

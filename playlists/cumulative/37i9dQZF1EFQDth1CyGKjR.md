@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RTTLdL3NCtCsfLjytOimU">Timbaland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-524 songs - 1 day 9 hr 25 min
+525 songs - 1 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Kold Kutz](https://open.spotify.com/track/7e7DV8CYvHjzYoIMLoGYZV) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Magoo](https://open.spotify.com/artist/1PqyGzj6IhtEQSyn4IowKw) | [Under Construction, Part II](https://open.spotify.com/album/0jfrooQp2CEzzX0kwwcnM9) | 4:23 | 2024-01-29 | 2024-10-20 |
 | [Kold Kutz \(feat\. Garland Mosley\)](https://open.spotify.com/track/5pRyn20kLEarly2Bo5yDCT) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Magoo](https://open.spotify.com/artist/7pv3MRGkgkXa9Qn8sMctxT), [Garland Mosley](https://open.spotify.com/artist/0N2b5gqnGcjbVa8K7hvrbO) | [Under Construction, Pt\. II](https://open.spotify.com/album/0D4y37qwNbIunM00EPsAUs) | 4:23 | 2024-10-19 | 2025-06-01 |
 | [Kold Kutz \(feat\. Garland Mosley\)](https://open.spotify.com/track/6gmsj0idY08vne54rmsFDT) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Magoo](https://open.spotify.com/artist/7pv3MRGkgkXa9Qn8sMctxT), [Garland Mosley](https://open.spotify.com/artist/0N2b5gqnGcjbVa8K7hvrbO) | [Under Construction, Pt\. II](https://open.spotify.com/album/0MDZpYt4wX8ngzwoJsQL5D) | 4:23 | 2025-05-31 |  |
+| [KpanLogo Bounce](https://open.spotify.com/track/7wOaGDH4axFTpylq8wI6zC) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [TIMBO PROGRESSION](https://open.spotify.com/album/70u6cm5Wp983688TTctIGW) | 3:03 | 2026-04-25 |  |
 | [La Familia](https://open.spotify.com/track/2la10ufvOkSlJ4jCRp2NXl) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Magna Carta..\. Holy Grail](https://open.spotify.com/album/0OTjYdGtP7AbwOwbYsGhyi) | 3:33 | 2024-01-29 |  |
 | [Last Dance](https://open.spotify.com/track/2taoX7OGnMHQXufb5VCSyH) | [Anna Margo](https://open.spotify.com/artist/6MYSB8gVxAqHrdIkdDxKXR) | [Last Dance](https://open.spotify.com/album/1dvR8AYwmYyLu3nSnvqDbB) | 2:55 | 2024-05-31 |  |
 | [Last Hangover](https://open.spotify.com/track/1vpNGcZeusd2ttq8kDOHLv) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Calling All Hearts \(Deluxe\)](https://open.spotify.com/album/78lzpyeBeywyc6h9SCFrAO) | 4:17 | 2024-01-29 |  |

@@ -38303,6 +38303,24 @@
     },
     {
       "album": {
+        "name": "Vuelve a Ser Inevitable",
+        "url": "https://open.spotify.com/album/53KVnC2pcEBzhnC6RdswIB"
+      },
+      "artists": [
+        {
+          "name": "BORDONADO",
+          "url": "https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140350,
+      "name": "Vuelve a Ser Inevitable",
+      "url": "https://open.spotify.com/track/1TPj2DlZJW30bIjJ9Iw8yu"
+    },
+    {
+      "album": {
         "name": "Terroir",
         "url": "https://open.spotify.com/album/4VZtaKfMhyUOJmGPQ6sWnt"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 
 > El amor no se escucha, se siente..\.  💖 nic & Leo Rizzi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,357 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,391 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 | 99 | [Abrázame Muy Fuerte](https://open.spotify.com/track/4gTxKZH5RERMhX9H8EnPAX) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Iconos](https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g) | 4:34 |
 | 100 | [Todo Lo Que Está Mal](https://open.spotify.com/track/6nXyY9M6ZErHlaXh9HB5aU) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Todo Lo Que Está Mal](https://open.spotify.com/album/0T3lqtLeFuM6pJk6g8k4QI) | 2:34 |
 
-Snapshot ID: `AAAAAAOL/rfOrNPUGl/y7aN+BDmKOexY`
+Snapshot ID: `AAAAAEJB5gLAvqHKA+NmjizKHqr9wDIT`

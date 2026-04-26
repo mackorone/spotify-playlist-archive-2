@@ -299,6 +299,24 @@
     },
     {
       "album": {
+        "name": "Hater's Anthem (Sped Up)",
+        "url": "https://open.spotify.com/album/7Jm3OI7cJLCCn22qe43lw9"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155971,
+      "name": "Hater's Anthem - Sped Up",
+      "url": "https://open.spotify.com/track/7IfFgAh3A3mUBgbo6Lx2Rk"
+    },
+    {
+      "album": {
         "name": "Infinity Song LIVE",
         "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
       },
@@ -556,6 +574,24 @@
       "duration_ms": 253253,
       "name": "No One Comes Close",
       "url": "https://open.spotify.com/track/5TxHK9ZJVb6Rbh9xBYqVK5"
+    },
+    {
+      "album": {
+        "name": "One Foot Out",
+        "url": "https://open.spotify.com/album/0NgM5o4m1b4yYy79DBKrOI"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "One Foot Out",
+      "url": "https://open.spotify.com/track/16muzdLNvN4Wi5nIvcRDdx"
     },
     {
       "album": {

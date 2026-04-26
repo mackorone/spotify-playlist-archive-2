@@ -4,7 +4,7 @@
 
 > Dale a Dios toda la gloria y alabanza! Foto: Su Presencia
 
-300 songs - 1 day 6 hr 37 min
+301 songs - 1 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Alabaré](https://open.spotify.com/track/5m4Uq8PmqTsTsUooK2hQAo) | [Kairo Worship](https://open.spotify.com/artist/0Hsw98UmbwZVh0mFWg0unI) | [Alabaré](https://open.spotify.com/album/12aSgasx2xbjTNcQKI6u0C) | 2:43 | 2024-08-03 | 2024-08-24 |
 | [Aleluya](https://open.spotify.com/track/7EOxhfDRdKdLknVVuyKKQ4) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS) | [Aleluya](https://open.spotify.com/album/58TuxVBW2c8guPlnGptw9c) | 5:34 | 2021-07-23 | 2024-06-23 |
 | [Aleluya](https://open.spotify.com/track/2bp5Q3eafyHErg3LYt5b8M) | [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0), [Unified Sound](https://open.spotify.com/artist/6Y0QlQ95DbxecMvOq4KhXf) | [ASÍ SERÁ](https://open.spotify.com/album/3rMpZAyXBu5e7zVX6OLJRA) | 4:07 | 2026-03-29 |  |
-| [Aleluya](https://open.spotify.com/track/1agjkTBQgDd6vaeTfyTrlt) | [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0) | [Aleluya](https://open.spotify.com/album/5PuoatqTRVmlNHqvdGrU27) | 4:55 | 2025-10-24 |  |
+| [Aleluya](https://open.spotify.com/track/1agjkTBQgDd6vaeTfyTrlt) | [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0) | [Aleluya](https://open.spotify.com/album/5PuoatqTRVmlNHqvdGrU27) | 4:55 | 2025-10-24 | 2026-04-26 |
 | [Aleluya, Él Viene Ya](https://open.spotify.com/track/20qAKoemFPaqeDsUqwdxTJ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 4:58 | 2024-08-23 |  |
 | [Amado Mio](https://open.spotify.com/track/66gGb2crhwOB0YALkRF8PQ) | [Dianette Mendez](https://open.spotify.com/artist/3jRJ0ZwP995rXGeeB0EjNL) | [Amado Mio](https://open.spotify.com/album/3eZWPz1JVRPsMTQb4tdx73) | 7:28 | 2025-06-13 |  |
 | [AMIGO \(Deluxe\)](https://open.spotify.com/track/5xfk9XpiLmO3gObKrEj2Jf) | [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m) | [Cristo El Rey \(Deluxe\)](https://open.spotify.com/album/29e020Sao0PS3LTcRXTiGo) | 6:27 | 2025-02-28 | 2025-05-01 |
@@ -210,6 +210,7 @@
 | [Padre Eterno](https://open.spotify.com/track/487DamSwAkJ6TYMqojMAou) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [Padre Eterno](https://open.spotify.com/album/0uANiJQnvLaOP20oaky8Bt) | 7:14 | 2025-10-24 | 2025-12-13 |
 | [Padre Nuestro](https://open.spotify.com/track/5VvHuqHKd3cfABM2vtoIXl) | [Alfarero](https://open.spotify.com/artist/5IONMXTbTpZKzkiepXoohq) | [Padre Nuestro](https://open.spotify.com/album/2tHVdnC6PpnGG41SsVV6Ad) | 6:18 | 2021-07-23 | 2025-10-25 |
 | [Padre Nuestro](https://open.spotify.com/track/6AuXMlUEUFOB1ntvnq4m1M) | [Alfarero](https://open.spotify.com/artist/5IONMXTbTpZKzkiepXoohq) | [Padre Nuestro](https://open.spotify.com/album/5RgSuBF5XcrbVl2wSHw3sF) | 6:18 | 2021-07-23 | 2024-04-19 |
+| [Padre Nuestro](https://open.spotify.com/track/00150goVTwTlHmZHg3K3TW) | [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0), [Priscilla Bueno](https://open.spotify.com/artist/3583URsjwdBL39M6t9Y3TM) | [Padre Nuestro](https://open.spotify.com/album/0xZ4RuOP7fACHUsQIbDh68) | 3:43 | 2026-04-25 |  |
 | [Padre Nuestro \- Live](https://open.spotify.com/track/5MPL8832azIUwbMJZqng5Q) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Bethel Music en Español \(Live\)](https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1) | 6:54 | 2024-06-22 | 2025-09-15 |
 | [Pagar El Precio \- En Vivo](https://open.spotify.com/track/5rh6v6rIwSWIdTTTbYIaoD) | [World Worship](https://open.spotify.com/artist/0sWeunTzY69e7TCkUflZQm) | [Pagar El Precio \(En Vivo\)](https://open.spotify.com/album/3Hrxwax5SmJfL1U1kK7zBb) | 10:53 | 2025-02-14 | 2025-08-09 |
 | [Pagar El Precio \- Organic session](https://open.spotify.com/track/7ax66iz2rrqOjP0997e4ae) | [World Worship](https://open.spotify.com/artist/0sWeunTzY69e7TCkUflZQm) | [Pagar el Precio \(Organic session\)](https://open.spotify.com/album/35ydb1f9i951d44sJluLpr) | 9:27 | 2025-08-08 |  |

@@ -404,6 +404,10 @@
       },
       "artists": [
         {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        },
+        {
           "name": "Mehdi Maloof",
           "url": "https://open.spotify.com/artist/6TL4dC4u5Nb3ZpROsM7DzR"
         }
@@ -743,7 +747,7 @@
     },
     {
       "album": {
-        "name": "Mundiya",
+        "name": "Mundiya (feat. Quratulain Balouch)",
         "url": "https://open.spotify.com/album/7EsJ1gzSjvgrhejwvGSe1X"
       },
       "artists": [
@@ -760,7 +764,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 298354,
-      "name": "Mundiya",
+      "name": "Mundiya (feat. Quratulain Balouch)",
       "url": "https://open.spotify.com/track/2hREXzC8fpy2Fu0gYlxy8c"
     },
     {
@@ -770,28 +774,12 @@
       },
       "artists": [
         {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        },
+        {
           "name": "Meesha Shafi",
           "url": "https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR"
-        },
-        {
-          "name": "Fariha Pervez",
-          "url": "https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd"
-        },
-        {
-          "name": "Sanam Marvi",
-          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
-        },
-        {
-          "name": "Wajiha Naqvi",
-          "url": "https://open.spotify.com/artist/2JEQT9Ov8j9zNO7lHXWjCk"
-        },
-        {
-          "name": "Zara Madani",
-          "url": "https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9"
-        },
-        {
-          "name": "Sehar Gul Khan",
-          "url": "https://open.spotify.com/artist/1REoitWY7dtWTikiEjoeVk"
         }
       ],
       "date_added": "2022-03-15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Lune, Topic, Ikkimel, Keinemusik & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,686 likes - 96 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,710 likes - 96 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 27 | [Dein Hoodie](https://open.spotify.com/track/6QF8vHFuoC9EvFcCN2Dapy) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO) | [Dein Hoodie](https://open.spotify.com/album/0BNe0Sm1BS2gTZ7mrBUqaf) | 1:58 |
 | 28 | [Du fehlst](https://open.spotify.com/track/2uNModvonKjhBM7oaLLXTJ) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [ZWEITAUSENDFÜNF](https://open.spotify.com/album/6znzn67m4u9J61kVMvWXnD) | 2:48 |
 | 29 | [Como Ouro](https://open.spotify.com/track/1QRZnXM3lEUifwEzl9xtV1) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Como Ouro](https://open.spotify.com/album/4hZTIQF4MrNJRwGbmIA7MT) | 2:34 |
-| 30 | [Love On Fire](https://open.spotify.com/track/417XM2guWLv0ItSGNCIByL) | [Mika Heggemann](https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP), [IMO](https://open.spotify.com/artist/1MnNVa410zCIAILGmSOmNd) | [Love On Fire](https://open.spotify.com/album/4bn9bl7vR9BlQ7HgnNAmY4) | 3:43 |
+| 30 | [Love On Fire](https://open.spotify.com/track/417XM2guWLv0ItSGNCIByL) | [Mika Heggemann](https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP), [IMO](https://open.spotify.com/artist/24jwoOYBMstx3HeVw60Y7q) | [Love On Fire](https://open.spotify.com/album/4bn9bl7vR9BlQ7HgnNAmY4) | 3:43 |
 | 31 | [VISION](https://open.spotify.com/track/50WiSPtOMlrONBTkcDyhQy) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [VISION](https://open.spotify.com/album/4mVo7o80j0vsGJ4l9hrmci) | 3:30 |
 | 32 | [Shimmer](https://open.spotify.com/track/3UOnrnhbfDxh0ORHCQ3DxZ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H) | 2:47 |
 | 33 | [DO NOT DISTURB](https://open.spotify.com/track/2DwcDfz4qgWrj4DhTtSKfb) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [SÜDDEUTSCHER TRAUM](https://open.spotify.com/album/63MTsQycsoZruPgxHV5fb8) | 2:40 |
