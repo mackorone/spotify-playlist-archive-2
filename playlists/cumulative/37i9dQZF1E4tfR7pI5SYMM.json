@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With AlligatorX, Shock Out Bandage, SCHANZ and more",
+  "description": "With Shock Out Bandage, SCHANZ, Dystopian X Vision and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -925,6 +925,24 @@
     },
     {
       "album": {
+        "name": "Brother From Another Mother",
+        "url": "https://open.spotify.com/album/0pV7K14JMLxbwtRUFRTpoN"
+      },
+      "artists": [
+        {
+          "name": "Bad Habits",
+          "url": "https://open.spotify.com/artist/6RCQaiv8q09g8yyvMx8pu7"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220375,
+      "name": "Brother From Another Mother",
+      "url": "https://open.spotify.com/track/790KFCjI2gjoyxsjSsp9Td"
+    },
+    {
+      "album": {
         "name": "Storm",
         "url": "https://open.spotify.com/album/0EeeuVDazWVmzK3LfIMecM"
       },
@@ -1682,7 +1700,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 207617,
       "name": "Deilige Dame",
       "url": "https://open.spotify.com/track/1YiNcIk3Z2ZYrJR4Uf1vdc"
@@ -2893,6 +2911,24 @@
     },
     {
       "album": {
+        "name": "Blame Donny",
+        "url": "https://open.spotify.com/album/1rBAYcVHr19xKz1lSDtjZy"
+      },
+      "artists": [
+        {
+          "name": "Blame Donny",
+          "url": "https://open.spotify.com/artist/1ZGg15c5V5zqEzT6UoVNAH"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99552,
+      "name": "Fall Of A Good Man",
+      "url": "https://open.spotify.com/track/0gtVlHOD1LKtzq202AdvFf"
+    },
+    {
+      "album": {
         "name": "Faller Du Faller Jag",
         "url": "https://open.spotify.com/album/1HGyQIoBi9CA9uEEyJqiBA"
       },
@@ -3438,7 +3474,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 303464,
       "name": "Grief",
       "url": "https://open.spotify.com/track/36oVY58DO6phaiLLdVOyjh"
@@ -3532,7 +3568,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Have a Gray Day",
       "url": "https://open.spotify.com/track/4Ehz4xfWds0AZiqpy30Wca"
@@ -3752,7 +3788,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 210843,
       "name": "Hjerteknuser",
       "url": "https://open.spotify.com/track/5mNRj9npMG9VLt6CoRvfK9"
@@ -3968,7 +4004,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 336125,
       "name": "I Rot",
       "url": "https://open.spotify.com/track/45ZUN6y6Xd6RXDovAnSTvG"
@@ -4704,7 +4740,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 253020,
       "name": "Lich Tree",
       "url": "https://open.spotify.com/track/7vWC17XPCeimJ5YuN99EyD"
@@ -5798,7 +5834,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -6278,7 +6314,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 318026,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/5sXaPKfsLeA99AuetE8xHU"
@@ -7480,7 +7516,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 234260,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/1QOude6pzrZetbqUphPKXC"
@@ -8006,7 +8042,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 251586,
       "name": "Speaking In Smoke",
       "url": "https://open.spotify.com/track/1DtjHQOd7iF8LuLn1rja36"
@@ -8472,7 +8508,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 236207,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/7FlBmx5pQD1AzKi1rILX5w"
@@ -8988,7 +9024,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 237176,
       "name": "The Party Is Over",
       "url": "https://open.spotify.com/track/5O69OUizv8L6SElL2O7bjx"
@@ -9252,7 +9288,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -9274,6 +9310,24 @@
       "duration_ms": 199200,
       "name": "There she goes",
       "url": "https://open.spotify.com/track/3XAjYWF73gnHcScCpPm7ne"
+    },
+    {
+      "album": {
+        "name": "Vitality",
+        "url": "https://open.spotify.com/album/2qDIuuySzJuX64mGUoB2PO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Wright",
+          "url": "https://open.spotify.com/artist/01M7cHsemzv6uOV70NxVTG"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177297,
+      "name": "This Is Not Everything I Expected",
+      "url": "https://open.spotify.com/track/0vVIh3MHwwSOTu4utJXlAq"
     },
     {
       "album": {
@@ -9752,7 +9806,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 142785,
       "name": "Truth Behind The Lies",
       "url": "https://open.spotify.com/track/6t7NYKv8fxf1uXgkz9JGWb"
@@ -10618,7 +10672,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 234615,
       "name": "Wraith",
       "url": "https://open.spotify.com/track/66uKTF2h1yZoAP60hbXhPo"

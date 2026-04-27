@@ -74,7 +74,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 198287,
       "name": "555",
       "url": "https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3"
@@ -2182,7 +2182,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 247588,
       "name": "Eden",
       "url": "https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT"
@@ -2575,6 +2575,28 @@
     },
     {
       "album": {
+        "name": "Fucked Up",
+        "url": "https://open.spotify.com/album/1N5sezYxUOFRCPibUnR9aQ"
+      },
+      "artists": [
+        {
+          "name": "Reverend And The Makers",
+          "url": "https://open.spotify.com/artist/14GEKKALFIO2oB9IdGXg2e"
+        },
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197706,
+      "name": "Fucked Up",
+      "url": "https://open.spotify.com/track/7pAvvhOV8QN34jMl4jnisj"
+    },
+    {
+      "album": {
         "name": "Distracted",
         "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL"
       },
@@ -2826,6 +2848,24 @@
       "duration_ms": 186874,
       "name": "Gonna Go to Japan",
       "url": "https://open.spotify.com/track/4oHM3OyIsgyAg7l1eu8iT6"
+    },
+    {
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/60WKdl73IpqWlbwEINjhBe"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160220,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/59ibpnGNQLxhg5rnQVNxOn"
     },
     {
       "album": {

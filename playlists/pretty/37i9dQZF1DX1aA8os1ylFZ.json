@@ -1,6 +1,6 @@
 {
   "description": "Nieuwe R&B releases | Cover: Neema Nekesa",
-  "num_followers": 294881,
+  "num_followers": 294877,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -675,18 +675,22 @@
     {
       "added_at": "2026-04-23 22:00:39",
       "album": {
-        "name": "do what i say",
-        "url": "https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E"
+        "name": "Forever Ends Someday",
+        "url": "https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y"
       },
       "artists": [
         {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 188562,
-      "name": "do what i say",
-      "url": "https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu"
+      "duration_ms": 152493,
+      "name": "July",
+      "url": "https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl"
     },
     {
       "added_at": "2026-04-23 22:00:39",
@@ -707,22 +711,18 @@
     {
       "added_at": "2026-04-23 22:00:39",
       "album": {
-        "name": "Forever Ends Someday",
-        "url": "https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y"
+        "name": "do what i say",
+        "url": "https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E"
       },
       "artists": [
         {
-          "name": "Wesley Joseph",
-          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 152493,
-      "name": "July",
-      "url": "https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl"
+      "duration_ms": 188562,
+      "name": "do what i say",
+      "url": "https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu"
     },
     {
       "added_at": "2026-04-23 22:00:39",
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-04-23 22:00:39",
       "album": {
-        "name": "Physical",
-        "url": "https://open.spotify.com/album/6mRITTNrSAo6Qa2FPIrHUd"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        }
-      ],
-      "duration_ms": 232114,
-      "name": "Physical (feat.Tink)",
-      "url": "https://open.spotify.com/track/5sbfWeOSosqHJqaTI5dlb7"
-    },
-    {
-      "added_at": "2026-04-23 22:00:39",
-      "album": {
         "name": "Don't Remind Me (with Anderson .Paak)",
         "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
       },
@@ -915,18 +895,22 @@
     {
       "added_at": "2026-04-23 22:00:39",
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
+        "name": "Physical",
+        "url": "https://open.spotify.com/album/6mRITTNrSAo6Qa2FPIrHUd"
       },
       "artists": [
         {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
         }
       ],
-      "duration_ms": 234608,
-      "name": "100",
-      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
+      "duration_ms": 232114,
+      "name": "Physical (feat.Tink)",
+      "url": "https://open.spotify.com/track/5sbfWeOSosqHJqaTI5dlb7"
     },
     {
       "added_at": "2026-04-23 22:00:39",
@@ -943,6 +927,22 @@
       "duration_ms": 150048,
       "name": "Damage Control",
       "url": "https://open.spotify.com/track/1gdTV2QtxG4jgrYdJCR8L1"
+    },
+    {
+      "added_at": "2026-04-23 22:00:39",
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 234608,
+      "name": "100",
+      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
     },
     {
       "added_at": "2026-04-23 22:00:39",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-04-23 22:00:39",
       "album": {
-        "name": "Playdoh",
-        "url": "https://open.spotify.com/album/7uVB9tRYHBjMyUHqqyhMN1"
-      },
-      "artists": [
-        {
-          "name": "B Young",
-          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
-        }
-      ],
-      "duration_ms": 138343,
-      "name": "Playdoh",
-      "url": "https://open.spotify.com/track/5q4BwNIFR4n5d2vGMbyg6Q"
-    },
-    {
-      "added_at": "2026-04-23 22:00:39",
-      "album": {
         "name": "Useless (Without You)",
         "url": "https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 166894,
       "name": "Useless (Without You)",
       "url": "https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw"
+    },
+    {
+      "added_at": "2026-04-23 22:00:39",
+      "album": {
+        "name": "Playdoh",
+        "url": "https://open.spotify.com/album/7uVB9tRYHBjMyUHqqyhMN1"
+      },
+      "artists": [
+        {
+          "name": "B Young",
+          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
+        }
+      ],
+      "duration_ms": 138343,
+      "name": "Playdoh",
+      "url": "https://open.spotify.com/track/5q4BwNIFR4n5d2vGMbyg6Q"
     },
     {
       "added_at": "2026-04-23 22:00:39",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-04-23 22:00:39",
       "album": {
+        "name": "SA NA SAN",
+        "url": "https://open.spotify.com/album/3UoYIWj5tFDxbxeh8VqIU8"
+      },
+      "artists": [
+        {
+          "name": "Amazone",
+          "url": "https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "SA NA SAN",
+      "url": "https://open.spotify.com/track/1YQ7UbplDV4LGXeLvWVwRj"
+    },
+    {
+      "added_at": "2026-04-23 22:00:39",
+      "album": {
         "name": "nobody has to know (with Ronald Isley)",
         "url": "https://open.spotify.com/album/1dLxVKDkwe9nALHF5ErQEd"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 197379,
       "name": "nobody has to know (with Ronald Isley)",
       "url": "https://open.spotify.com/track/3CpYc8sEJUAgusqSZZKzi3"
-    },
-    {
-      "added_at": "2026-04-23 22:00:39",
-      "album": {
-        "name": "SA NA SAN",
-        "url": "https://open.spotify.com/album/3UoYIWj5tFDxbxeh8VqIU8"
-      },
-      "artists": [
-        {
-          "name": "Amazone",
-          "url": "https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "SA NA SAN",
-      "url": "https://open.spotify.com/track/1YQ7UbplDV4LGXeLvWVwRj"
     },
     {
       "added_at": "2026-04-23 22:00:39",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2026-04-23 22:00:39",
       "album": {
+        "name": "Why Do Feelings Matter Anyway",
+        "url": "https://open.spotify.com/album/74KBgkPg55lmPeu8Lt2r4M"
+      },
+      "artists": [
+        {
+          "name": "PJ",
+          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
+        }
+      ],
+      "duration_ms": 180048,
+      "name": "N.M.N",
+      "url": "https://open.spotify.com/track/1c9AwaAGcb4e7IPTRuPdHN"
+    },
+    {
+      "added_at": "2026-04-23 22:00:39",
+      "album": {
         "name": "From A Distance",
         "url": "https://open.spotify.com/album/3KndyzgemjdDrIL5VRIphG"
       },
@@ -1611,18 +1627,18 @@
     {
       "added_at": "2026-04-23 22:00:39",
       "album": {
-        "name": "Why Do Feelings Matter Anyway",
-        "url": "https://open.spotify.com/album/74KBgkPg55lmPeu8Lt2r4M"
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/4KTFquepUgJCVIXSCr93wm"
       },
       "artists": [
         {
-          "name": "PJ",
-          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
+          "name": "Maya Mae",
+          "url": "https://open.spotify.com/artist/3Rf9Szpp2LkKOc3SffGinv"
         }
       ],
-      "duration_ms": 180048,
-      "name": "N.M.N",
-      "url": "https://open.spotify.com/track/1c9AwaAGcb4e7IPTRuPdHN"
+      "duration_ms": 184354,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/1aP6pXcywghOGPo6RcPWxa"
     },
     {
       "added_at": "2026-04-23 22:00:39",
@@ -1659,22 +1675,6 @@
       "duration_ms": 197323,
       "name": "Empath",
       "url": "https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh"
-    },
-    {
-      "added_at": "2026-04-23 22:00:39",
-      "album": {
-        "name": "All Over Again",
-        "url": "https://open.spotify.com/album/4KTFquepUgJCVIXSCr93wm"
-      },
-      "artists": [
-        {
-          "name": "Maya Mae",
-          "url": "https://open.spotify.com/artist/3Rf9Szpp2LkKOc3SffGinv"
-        }
-      ],
-      "duration_ms": 184354,
-      "name": "All Over Again",
-      "url": "https://open.spotify.com/track/1aP6pXcywghOGPo6RcPWxa"
     },
     {
       "added_at": "2026-04-23 22:00:39",

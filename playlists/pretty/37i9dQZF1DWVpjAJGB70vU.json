@@ -1,6 +1,6 @@
 {
   "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 2191304,
+  "num_followers": 2191960,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Where The Green Grass Grows",
-      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "American Pride",
         "url": "https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 168640,
       "name": "I'm in a Hurry (And Don't Know Why)",
       "url": "https://open.spotify.com/track/1N9GGOUf8TQqsaPDByZzEF"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Where The Green Grass Grows",
+      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "I Still Believe In You",
-        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Don't Let Our Love Start Slippin' Away",
-      "url": "https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Everywhere We Go",
         "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 248066,
       "name": "She Thinks My Tractor's Sexy",
       "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "I Still Believe In You",
+        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Don't Let Our Love Start Slippin' Away",
+      "url": "https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Sticks and Stones",
-        "url": "https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq"
-      },
-      "artists": [
-        {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
-        }
-      ],
-      "duration_ms": 218053,
-      "name": "Sticks and Stones",
-      "url": "https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 186066,
       "name": "The Way You Love Me",
       "url": "https://open.spotify.com/track/6vgN6KGstss0GnBbKlMNK9"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Sticks and Stones",
+        "url": "https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq"
+      },
+      "artists": [
+        {
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+        }
+      ],
+      "duration_ms": 218053,
+      "name": "Sticks and Stones",
+      "url": "https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Thinkin' Problem",
-        "url": "https://open.spotify.com/album/3DPAOT9HmCgKm2atPis3Ao"
-      },
-      "artists": [
-        {
-          "name": "David Ball",
-          "url": "https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Thinkin' Problem",
-      "url": "https://open.spotify.com/track/7zE9E6iBKPCwCW6orDoY4X"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "You've Got to Stand for Something",
         "url": "https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 182280,
       "name": "You've Got to Stand for Something",
       "url": "https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Thinkin' Problem",
+        "url": "https://open.spotify.com/album/3DPAOT9HmCgKm2atPis3Ao"
+      },
+      "artists": [
+        {
+          "name": "David Ball",
+          "url": "https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "Thinkin' Problem",
+      "url": "https://open.spotify.com/track/7zE9E6iBKPCwCW6orDoY4X"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Six Days On The Road",
-        "url": "https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX"
-      },
-      "artists": [
-        {
-          "name": "Sawyer Brown",
-          "url": "https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97"
-        }
-      ],
-      "duration_ms": 172080,
-      "name": "Six Days On The Road",
-      "url": "https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Dream Walkin'",
         "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 223973,
       "name": "One Way Ticket (Because I Can)",
       "url": "https://open.spotify.com/track/0meAc2H0tC5tOTd6MDe0cI"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Six Days On The Road",
+        "url": "https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX"
+      },
+      "artists": [
+        {
+          "name": "Sawyer Brown",
+          "url": "https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97"
+        }
+      ],
+      "duration_ms": 172080,
+      "name": "Six Days On The Road",
+      "url": "https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2083,22 +2083,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Reba McEntire's Greatest Hits, Volume Two",
-        "url": "https://open.spotify.com/album/3NwDZMQupPwdNaLT9js5sR"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5nl43n3kqCYnqGM9rM4tWX"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        },
-        {
-          "name": "Linda Davis",
-          "url": "https://open.spotify.com/artist/3rXeRTogAKT6xqOLyfC7xv"
+          "name": "Diamond Rio",
+          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
         }
       ],
-      "duration_ms": 260399,
-      "name": "Does He Love You",
-      "url": "https://open.spotify.com/track/0wFQnci5YCcwbKAWNBzqiA"
+      "duration_ms": 245400,
+      "name": "How Your Love Makes Me Feel",
+      "url": "https://open.spotify.com/track/4LSolq1CjLOVnya9zb0pU1"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2119,18 +2115,22 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5nl43n3kqCYnqGM9rM4tWX"
+        "name": "Reba McEntire's Greatest Hits, Volume Two",
+        "url": "https://open.spotify.com/album/3NwDZMQupPwdNaLT9js5sR"
       },
       "artists": [
         {
-          "name": "Diamond Rio",
-          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        },
+        {
+          "name": "Linda Davis",
+          "url": "https://open.spotify.com/artist/3rXeRTogAKT6xqOLyfC7xv"
         }
       ],
-      "duration_ms": 245400,
-      "name": "How Your Love Makes Me Feel",
-      "url": "https://open.spotify.com/track/4LSolq1CjLOVnya9zb0pU1"
+      "duration_ms": 260399,
+      "name": "Does He Love You",
+      "url": "https://open.spotify.com/track/0wFQnci5YCcwbKAWNBzqiA"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Del Rio, Tx 1959",
-        "url": "https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe"
-      },
-      "artists": [
-        {
-          "name": "Radney Foster",
-          "url": "https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW"
-        }
-      ],
-      "duration_ms": 210746,
-      "name": "Nobody Wins",
-      "url": "https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "No Place That Far",
         "url": "https://open.spotify.com/album/5lxFK2ZEsfmdS2Yevlj2mU"
       },
@@ -2215,18 +2199,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Young Man",
-        "url": "https://open.spotify.com/album/23dwTNazk2yGjtVSMzgxBH"
+        "name": "Del Rio, Tx 1959",
+        "url": "https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe"
       },
       "artists": [
         {
-          "name": "Billy Dean",
-          "url": "https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX"
+          "name": "Radney Foster",
+          "url": "https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW"
         }
       ],
-      "duration_ms": 214466,
-      "name": "Only Here For A Little While",
-      "url": "https://open.spotify.com/track/6JCKHmZ30oadQW44GzsdNB"
+      "duration_ms": 210746,
+      "name": "Nobody Wins",
+      "url": "https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2247,18 +2231,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "What Mattered Most",
-        "url": "https://open.spotify.com/album/5Qo3ap2epPKhvaQCDnIJj6"
+        "name": "Young Man",
+        "url": "https://open.spotify.com/album/23dwTNazk2yGjtVSMzgxBH"
       },
       "artists": [
         {
-          "name": "Ty Herndon",
-          "url": "https://open.spotify.com/artist/1Fj0R2t4HaJa3oUe8azB8R"
+          "name": "Billy Dean",
+          "url": "https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX"
         }
       ],
-      "duration_ms": 221426,
-      "name": "What Mattered Most",
-      "url": "https://open.spotify.com/track/09nWHcNuohUS7HMPdIDwrr"
+      "duration_ms": 214466,
+      "name": "Only Here For A Little While",
+      "url": "https://open.spotify.com/track/6JCKHmZ30oadQW44GzsdNB"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2279,18 +2263,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "What Do I Do With Me",
-        "url": "https://open.spotify.com/album/5r3XWEnJj5iL1nIE1WOwEa"
+        "name": "What Mattered Most",
+        "url": "https://open.spotify.com/album/5Qo3ap2epPKhvaQCDnIJj6"
       },
       "artists": [
         {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+          "name": "Ty Herndon",
+          "url": "https://open.spotify.com/artist/1Fj0R2t4HaJa3oUe8azB8R"
         }
       ],
-      "duration_ms": 210200,
-      "name": "Down To My Last Teardrop",
-      "url": "https://open.spotify.com/track/4HCugTrpZ4fBcTF4tQW1Fc"
+      "duration_ms": 221426,
+      "name": "What Mattered Most",
+      "url": "https://open.spotify.com/track/09nWHcNuohUS7HMPdIDwrr"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2307,6 +2291,22 @@
       "duration_ms": 192693,
       "name": "Hillbilly Shoes",
       "url": "https://open.spotify.com/track/0kJeo33oWW6Nx4tkUNPshJ"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "What Do I Do With Me",
+        "url": "https://open.spotify.com/album/5r3XWEnJj5iL1nIE1WOwEa"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Down To My Last Teardrop",
+      "url": "https://open.spotify.com/track/4HCugTrpZ4fBcTF4tQW1Fc"
     },
     {
       "added_at": "2026-02-11 22:52:29",

@@ -1,6 +1,6 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 133484,
+  "num_followers": 133485,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2026-03-27 14:56:01",
       "album": {
+        "name": "Enema Of The State",
+        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "All The Small Things",
+      "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
+    },
+    {
+      "added_at": "2026-03-27 14:56:01",
+      "album": {
         "name": "Don't You Worry Child",
         "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 212862,
       "name": "Don't You Worry Child - Radio Edit",
       "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
-    },
-    {
-      "added_at": "2026-03-27 14:56:01",
-      "album": {
-        "name": "Enema Of The State",
-        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 167066,
-      "name": "All The Small Things",
-      "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
     },
     {
       "added_at": "2026-03-27 14:56:01",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-03-27 14:56:01",
       "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
-    },
-    {
-      "added_at": "2026-03-27 14:56:01",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/1AyCx0WQX2pRFTQdbicwcK"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 283848,
       "name": "Into the Groove",
       "url": "https://open.spotify.com/track/3y2Y3Bc6GDxAWAMIpbW7RU"
+    },
+    {
+      "added_at": "2026-03-27 14:56:01",
+      "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
       "added_at": "2026-03-27 14:56:01",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-03-27 14:56:01",
       "album": {
-        "name": "Different Class",
-        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 273573,
-      "name": "Disco 2000",
-      "url": "https://open.spotify.com/track/2aC8wwfrM0YeTAzzk8hxqC"
-    },
-    {
-      "added_at": "2026-03-27 14:56:01",
-      "album": {
         "name": "You've Come a Long Way Baby",
         "url": "https://open.spotify.com/album/0J43YxxLFPZxIrCd12LRuN"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 413880,
       "name": "The Rockafeller Skank",
       "url": "https://open.spotify.com/track/5AgCO3dc2kuSicCsw09YCA"
+    },
+    {
+      "added_at": "2026-03-27 14:56:01",
+      "album": {
+        "name": "Different Class",
+        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 273573,
+      "name": "Disco 2000",
+      "url": "https://open.spotify.com/track/2aC8wwfrM0YeTAzzk8hxqC"
     },
     {
       "added_at": "2026-03-27 14:56:01",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-03-27 14:56:01",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/0IVseR3zfrrInlKJQNh294"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 254040,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/7qtAgn9mwxygsPOsUDVRRt"
-    },
-    {
-      "added_at": "2026-03-27 14:56:01",
-      "album": {
         "name": "Deep In Your Love",
         "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 144500,
       "name": "Deep In Your Love",
       "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
+    },
+    {
+      "added_at": "2026-03-27 14:56:01",
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/0IVseR3zfrrInlKJQNh294"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 254040,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/7qtAgn9mwxygsPOsUDVRRt"
     },
     {
       "added_at": "2026-03-27 14:56:01",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-03-27 14:56:01",
       "album": {
-        "name": "Talk That Talk (Explicit)",
-        "url": "https://open.spotify.com/album/16ySsalaP2FiKVDlYCWnYh"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 242680,
-      "name": "Where Have You Been",
-      "url": "https://open.spotify.com/track/1uN0f4NqMDcReSwXO6PLuG"
-    },
-    {
-      "added_at": "2026-03-27 14:56:01",
-      "album": {
         "name": "Wake Me Up In Paris",
         "url": "https://open.spotify.com/album/6TiAOruZ9SPA5FLsD7ACsN"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 125806,
       "name": "True",
       "url": "https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm"
+    },
+    {
+      "added_at": "2026-03-27 14:56:01",
+      "album": {
+        "name": "Talk That Talk (Explicit)",
+        "url": "https://open.spotify.com/album/16ySsalaP2FiKVDlYCWnYh"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 242680,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/1uN0f4NqMDcReSwXO6PLuG"
     },
     {
       "added_at": "2026-03-27 14:56:01",

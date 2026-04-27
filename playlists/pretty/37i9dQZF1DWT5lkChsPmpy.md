@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,071 likes - 248 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,184 likes - 248 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -257,4 +257,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 247 | [Limestone](https://open.spotify.com/track/2IxHkGERPdZFjN7Q2gqxXv) | [Il Greco](https://open.spotify.com/artist/6akppwCmIdXMHpXWXzYTyp) | [Limestone](https://open.spotify.com/album/47tiW14l56cvqSLUinTdzf) | 2:37 |
 | 248 | [Neon Siesta](https://open.spotify.com/track/6fdJbG4xmoVEqts7xBgvie) | [Friendly Mess](https://open.spotify.com/artist/75tjiKokxal3wB5VudqkXp) | [Neon Siesta](https://open.spotify.com/album/3cwtvLRNraEyjhakM4e9mK) | 2:10 |
 
-Snapshot ID: `AAAAAFP1OuJVoYhgUrgII+HDiAAw2o+L`
+Snapshot ID: `AAAAAEHhrcNaOm8xdCMBn9aspu8jLH4G`

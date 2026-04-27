@@ -1,6 +1,6 @@
 {
   "description": "aqu\u00ed est\u00e1n las joyas escondidas del 2025, elegidas por tus editores \ud83d\ude42\u200d\u2195\ufe0f",
-  "num_followers": 104863,
+  "num_followers": 104861,
   "original_name": "Las favoritas de tus editores 2025",
   "owner": {
     "name": "Spotify",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
+        "name": "UN INSTANTE",
+        "url": "https://open.spotify.com/album/4hRYKs4qN5yVViWJvCUiCT"
+      },
+      "artists": [
+        {
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        }
+      ],
+      "duration_ms": 172104,
+      "name": "KUSTURICA",
+      "url": "https://open.spotify.com/track/2LfnqUUqHPX7DCUYOOHGNm"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
         "name": "ROKALETA!",
         "url": "https://open.spotify.com/album/0lvjK0WwoO0eKXScQaPQlI"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 168058,
       "name": "ROKALETA!",
       "url": "https://open.spotify.com/track/0lt39TTaP09rUJspqQxvQa"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
-        "name": "UN INSTANTE",
-        "url": "https://open.spotify.com/album/4hRYKs4qN5yVViWJvCUiCT"
-      },
-      "artists": [
-        {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
-        }
-      ],
-      "duration_ms": 172104,
-      "name": "KUSTURICA",
-      "url": "https://open.spotify.com/track/2LfnqUUqHPX7DCUYOOHGNm"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Se\u00fal / Matarme con vos",
-        "url": "https://open.spotify.com/album/3LWSktH775QjtDFA2XoWRH"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 144155,
-      "name": "Se\u00fal",
-      "url": "https://open.spotify.com/track/3yoI47UbxuCojhxspj2lo0"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "NoNoNo",
         "url": "https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh"
       },
@@ -1319,22 +1303,18 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "COMO DOS EXTRA\u00d1OS (feat. Santiago Motorizado)",
-        "url": "https://open.spotify.com/album/0BtfSe5QLvZTlTrvcTO5Lc"
+        "name": "Se\u00fal / Matarme con vos",
+        "url": "https://open.spotify.com/album/3LWSktH775QjtDFA2XoWRH"
       },
       "artists": [
         {
-          "name": "FLORIAN",
-          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
         }
       ],
-      "duration_ms": 172779,
-      "name": "COMO DOS EXTRA\u00d1OS (feat. Santiago Motorizado)",
-      "url": "https://open.spotify.com/track/1OzWR3TeXVCYw5OHgAHRo1"
+      "duration_ms": 144155,
+      "name": "Se\u00fal",
+      "url": "https://open.spotify.com/track/3yoI47UbxuCojhxspj2lo0"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1355,6 +1335,26 @@
       "duration_ms": 235044,
       "name": "Mar de Coral",
       "url": "https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "COMO DOS EXTRA\u00d1OS (feat. Santiago Motorizado)",
+        "url": "https://open.spotify.com/album/0BtfSe5QLvZTlTrvcTO5Lc"
+      },
+      "artists": [
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 172779,
+      "name": "COMO DOS EXTRA\u00d1OS (feat. Santiago Motorizado)",
+      "url": "https://open.spotify.com/track/1OzWR3TeXVCYw5OHgAHRo1"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Boleros Psicod\u00e9licos II",
-        "url": "https://open.spotify.com/album/12gMpdC16uCaCJk3qdrtkW"
-      },
-      "artists": [
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 232120,
-      "name": "Ojos Secos (with Cuco)",
-      "url": "https://open.spotify.com/track/1s271I2cbxYZDrLy3xOFrE"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "Aurora (Remix)",
         "url": "https://open.spotify.com/album/6wEUiMr0TmgW4ibsAOXybW"
       },
@@ -1479,26 +1459,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "La Frontera",
-        "url": "https://open.spotify.com/album/5OCRv7utIVu8K5zUtRi5nI"
+        "name": "Boleros Psicod\u00e9licos II",
+        "url": "https://open.spotify.com/album/12gMpdC16uCaCJk3qdrtkW"
       },
       "artists": [
         {
-          "name": "Cr\u00e1neo",
-          "url": "https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD"
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
         },
         {
-          "name": "Fntxy",
-          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-        },
-        {
-          "name": "$kyhook",
-          "url": "https://open.spotify.com/artist/0lxgPYvUjEApUKpZmr61IE"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 208153,
-      "name": "La Frontera",
-      "url": "https://open.spotify.com/track/1H2szeI6By2kjtCOhZl26m"
+      "duration_ms": 232120,
+      "name": "Ojos Secos (with Cuco)",
+      "url": "https://open.spotify.com/track/1s271I2cbxYZDrLy3xOFrE"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1519,18 +1495,26 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Auroras Boreales",
-        "url": "https://open.spotify.com/album/2E054dVVF6vuoNYjmtBj4E"
+        "name": "La Frontera",
+        "url": "https://open.spotify.com/album/5OCRv7utIVu8K5zUtRi5nI"
       },
       "artists": [
         {
-          "name": "EESCA",
-          "url": "https://open.spotify.com/artist/1z2zbEA6J6c8DDtf4eK5wu"
+          "name": "Cr\u00e1neo",
+          "url": "https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD"
+        },
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        },
+        {
+          "name": "$kyhook",
+          "url": "https://open.spotify.com/artist/0lxgPYvUjEApUKpZmr61IE"
         }
       ],
-      "duration_ms": 278792,
-      "name": "Auroras Boreales",
-      "url": "https://open.spotify.com/track/0eOLIMZOZw0DjgZKwttmlg"
+      "duration_ms": 208153,
+      "name": "La Frontera",
+      "url": "https://open.spotify.com/track/1H2szeI6By2kjtCOhZl26m"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1567,6 +1551,22 @@
       "duration_ms": 207801,
       "name": "PERTENECER",
       "url": "https://open.spotify.com/track/3ahgcq09Cc7CXwDkYQxOfq"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "Auroras Boreales",
+        "url": "https://open.spotify.com/album/2E054dVVF6vuoNYjmtBj4E"
+      },
+      "artists": [
+        {
+          "name": "EESCA",
+          "url": "https://open.spotify.com/artist/1z2zbEA6J6c8DDtf4eK5wu"
+        }
+      ],
+      "duration_ms": 278792,
+      "name": "Auroras Boreales",
+      "url": "https://open.spotify.com/track/0eOLIMZOZw0DjgZKwttmlg"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Artificio",
-        "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 207949,
-      "name": "Leo tu mente",
-      "url": "https://open.spotify.com/track/73SHvPB1SxWxpblCkbWERn"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "EN VIVO VOLUMEN I",
         "url": "https://open.spotify.com/album/5JsejNz8xfUgabk9A83moM"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 393523,
       "name": "Alma de Diamante",
       "url": "https://open.spotify.com/track/7K3cxHHs1s3n2cq9xenNCk"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "Artificio",
+        "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 207949,
+      "name": "Leo tu mente",
+      "url": "https://open.spotify.com/track/73SHvPB1SxWxpblCkbWERn"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "GRANADA",
-        "url": "https://open.spotify.com/album/5LlrIYufVG0v5C8dEYmf81"
-      },
-      "artists": [
-        {
-          "name": "Let\u00f3n P\u00e9",
-          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
-        }
-      ],
-      "duration_ms": 139136,
-      "name": "GRANADA",
-      "url": "https://open.spotify.com/track/5STqdnPzPB9EgFtoACYPzP"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "Florida Sunset",
         "url": "https://open.spotify.com/album/14CyDZl2awxUUatkW5u1ii"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 186407,
       "name": "Vacaciones",
       "url": "https://open.spotify.com/track/5nBTYTh5Ectn9r6X2UbuPA"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "GRANADA",
+        "url": "https://open.spotify.com/album/5LlrIYufVG0v5C8dEYmf81"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        }
+      ],
+      "duration_ms": 139136,
+      "name": "GRANADA",
+      "url": "https://open.spotify.com/track/5STqdnPzPB9EgFtoACYPzP"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1855,6 +1855,38 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
+        "name": "Pavlo, cada vez menos...",
+        "url": "https://open.spotify.com/album/1nuNOlU2mOuVKldwj0oIuZ"
+      },
+      "artists": [
+        {
+          "name": "elmalam\u00eda",
+          "url": "https://open.spotify.com/artist/1SoXdL4dbR3tJudByWGLkM"
+        }
+      ],
+      "duration_ms": 195157,
+      "name": "Eresi",
+      "url": "https://open.spotify.com/track/0gFbaCf4YTPSHNzQK243Uf"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "Sacontrafa",
+        "url": "https://open.spotify.com/album/3ehUZJvbbAmMA4tsMU1K7d"
+      },
+      "artists": [
+        {
+          "name": "Segundos auxilios",
+          "url": "https://open.spotify.com/artist/1AD4ciOyVNTfaZam8ZjqRX"
+        }
+      ],
+      "duration_ms": 194038,
+      "name": "Tac!",
+      "url": "https://open.spotify.com/track/44wqCk8NkmuQPrKeTTFYXS"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/3M1TsyFrU1PKx11gbcm2A3"
       },
@@ -1879,34 +1911,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Sacontrafa",
-        "url": "https://open.spotify.com/album/3ehUZJvbbAmMA4tsMU1K7d"
+        "name": "Kumbia Dos Pasitos",
+        "url": "https://open.spotify.com/album/6plQaYA40IhWfRf1RNf0to"
       },
       "artists": [
         {
-          "name": "Segundos auxilios",
-          "url": "https://open.spotify.com/artist/1AD4ciOyVNTfaZam8ZjqRX"
-        }
-      ],
-      "duration_ms": 194038,
-      "name": "Tac!",
-      "url": "https://open.spotify.com/track/44wqCk8NkmuQPrKeTTFYXS"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
-        "name": "Pavlo, cada vez menos...",
-        "url": "https://open.spotify.com/album/1nuNOlU2mOuVKldwj0oIuZ"
-      },
-      "artists": [
+          "name": "Conjunto Media Luna",
+          "url": "https://open.spotify.com/artist/0BTkJhq3BZ9wdIhXiRMc8V"
+        },
         {
-          "name": "elmalam\u00eda",
-          "url": "https://open.spotify.com/artist/1SoXdL4dbR3tJudByWGLkM"
+          "name": "Turbo Sonidero",
+          "url": "https://open.spotify.com/artist/7hgYjZ3PlVGKtLj751FS7u"
         }
       ],
-      "duration_ms": 195157,
-      "name": "Eresi",
-      "url": "https://open.spotify.com/track/0gFbaCf4YTPSHNzQK243Uf"
+      "duration_ms": 220000,
+      "name": "Kumbia Dos Pasitos",
+      "url": "https://open.spotify.com/track/5JcEQRbuhFw7EEzesu8GXP"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1935,26 +1955,6 @@
       "duration_ms": 172137,
       "name": "EN CASA DEL XOLA",
       "url": "https://open.spotify.com/track/69a6I9XLQs0X3YNMsxLpPU"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
-        "name": "Kumbia Dos Pasitos",
-        "url": "https://open.spotify.com/album/6plQaYA40IhWfRf1RNf0to"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Media Luna",
-          "url": "https://open.spotify.com/artist/0BTkJhq3BZ9wdIhXiRMc8V"
-        },
-        {
-          "name": "Turbo Sonidero",
-          "url": "https://open.spotify.com/artist/7hgYjZ3PlVGKtLj751FS7u"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Kumbia Dos Pasitos",
-      "url": "https://open.spotify.com/track/5JcEQRbuhFw7EEzesu8GXP"
     },
     {
       "added_at": "2025-12-03 13:16:51",

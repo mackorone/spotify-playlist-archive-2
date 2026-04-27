@@ -1,6 +1,6 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: Mitski",
-  "num_followers": 628254,
+  "num_followers": 628268,
   "original_name": "Women of Indie",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-03-08 15:23:56",
       "album": {
-        "name": "White Feather Hawk Tail Deer Hunter",
-        "url": "https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 234049,
-      "name": "White Feather Hawk Tail Deer Hunter",
-      "url": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup"
-    },
-    {
-      "added_at": "2026-03-08 15:23:56",
-      "album": {
         "name": "Your Mother's Name",
         "url": "https://open.spotify.com/album/0oTmJI1vJfW5D7zH9fGByM"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 139086,
       "name": "Die Your Daughter",
       "url": "https://open.spotify.com/track/5Ey7icpjKCGpi5oJi7VLdu"
+    },
+    {
+      "added_at": "2026-03-08 15:23:56",
+      "album": {
+        "name": "White Feather Hawk Tail Deer Hunter",
+        "url": "https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 234049,
+      "name": "White Feather Hawk Tail Deer Hunter",
+      "url": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup"
     },
     {
       "added_at": "2026-03-08 15:23:56",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-03-08 15:23:56",
       "album": {
-        "name": "Oh No / Liahr",
-        "url": "https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 164946,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
-    },
-    {
-      "added_at": "2026-03-08 15:23:56",
-      "album": {
         "name": "Object Permanence (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2wupSocGm47JxOKTZtStrw"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 203093,
       "name": "I'll Take It",
       "url": "https://open.spotify.com/track/0FAlG6uOeaXWuRdDxaeIQY"
+    },
+    {
+      "added_at": "2026-03-08 15:23:56",
+      "album": {
+        "name": "Oh No / Liahr",
+        "url": "https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 164946,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
     },
     {
       "added_at": "2026-03-08 15:23:56",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-03-08 15:23:56",
       "album": {
-        "name": "2SIDED",
-        "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 177473,
-      "name": "2SIDED",
-      "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
-    },
-    {
-      "added_at": "2026-03-08 15:23:56",
-      "album": {
         "name": "Daydream Nation (Deluxe Edition)",
         "url": "https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 417800,
       "name": "Teen Age Riot (Album Version)",
       "url": "https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9"
+    },
+    {
+      "added_at": "2026-03-08 15:23:56",
+      "album": {
+        "name": "2SIDED",
+        "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 177473,
+      "name": "2SIDED",
+      "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
     },
     {
       "added_at": "2026-03-08 15:23:56",
@@ -1179,38 +1179,6 @@
     {
       "added_at": "2026-03-08 15:23:56",
       "album": {
-        "name": "Incomprehensible",
-        "url": "https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 233307,
-      "name": "Incomprehensible",
-      "url": "https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v"
-    },
-    {
-      "added_at": "2026-03-08 15:23:56",
-      "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Srs Ice",
-      "url": "https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R"
-    },
-    {
-      "added_at": "2026-03-08 15:23:56",
-      "album": {
         "name": "I'm Allergic To Dogs!",
         "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
       },
@@ -1243,18 +1211,18 @@
     {
       "added_at": "2026-03-08 15:23:56",
       "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
       },
       "artists": [
         {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
         }
       ],
-      "duration_ms": 376520,
-      "name": "It's Not Just Me, It's Everybody",
-      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
+      "duration_ms": 214120,
+      "name": "Srs Ice",
+      "url": "https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R"
     },
     {
       "added_at": "2026-03-08 15:23:56",
@@ -1271,6 +1239,22 @@
       "duration_ms": 150293,
       "name": "Walking with a Ghost",
       "url": "https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE"
+    },
+    {
+      "added_at": "2026-03-08 15:23:56",
+      "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 376520,
+      "name": "It's Not Just Me, It's Everybody",
+      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
     },
     {
       "added_at": "2026-03-08 15:23:56",
@@ -1295,6 +1279,22 @@
       "duration_ms": 245124,
       "name": "Fly To You (feat. Grimes and Dido)",
       "url": "https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW"
+    },
+    {
+      "added_at": "2026-03-08 15:23:56",
+      "album": {
+        "name": "Incomprehensible",
+        "url": "https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 233307,
+      "name": "Incomprehensible",
+      "url": "https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v"
     },
     {
       "added_at": "2026-03-08 15:23:56",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-03-08 15:23:56",
       "album": {
-        "name": "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ykmfDC5Y89gnzQYE8oPIu"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
-      "url": "https://open.spotify.com/track/6P0bG1wDbLvs8kNJV4hQUt"
-    },
-    {
-      "added_at": "2026-03-08 15:23:56",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 201523,
       "name": "Ring of Past",
       "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
+    },
+    {
+      "added_at": "2026-03-08 15:23:56",
+      "album": {
+        "name": "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ykmfDC5Y89gnzQYE8oPIu"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
+      "url": "https://open.spotify.com/track/6P0bG1wDbLvs8kNJV4hQUt"
     },
     {
       "added_at": "2026-03-08 15:23:56",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-03-08 15:23:56",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 228760,
-      "name": "Black Dog",
-      "url": "https://open.spotify.com/track/37pShAS4iuRXJeRAa9k6xw"
-    },
-    {
-      "added_at": "2026-03-08 15:23:56",
-      "album": {
         "name": "Electra Heart (Deluxe)",
         "url": "https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 221493,
       "name": "How to Be a Heartbreaker",
       "url": "https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo"
+    },
+    {
+      "added_at": "2026-03-08 15:23:56",
+      "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 228760,
+      "name": "Black Dog",
+      "url": "https://open.spotify.com/track/37pShAS4iuRXJeRAa9k6xw"
     },
     {
       "added_at": "2026-03-08 15:23:56",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-03-08 15:23:56",
       "album": {
-        "name": "I Miss When I Smelled Like You",
-        "url": "https://open.spotify.com/album/0L0s3OfgFfFoHBlk1A07WH"
-      },
-      "artists": [
-        {
-          "name": "girlpuppy",
-          "url": "https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360"
-        }
-      ],
-      "duration_ms": 231626,
-      "name": "I Miss When I Smelled Like You",
-      "url": "https://open.spotify.com/track/6IhWjoBYe5hvHKA4ZLH4dX"
-    },
-    {
-      "added_at": "2026-03-08 15:23:56",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 148326,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh"
+    },
+    {
+      "added_at": "2026-03-08 15:23:56",
+      "album": {
+        "name": "I Miss When I Smelled Like You",
+        "url": "https://open.spotify.com/album/0L0s3OfgFfFoHBlk1A07WH"
+      },
+      "artists": [
+        {
+          "name": "girlpuppy",
+          "url": "https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360"
+        }
+      ],
+      "duration_ms": 231626,
+      "name": "I Miss When I Smelled Like You",
+      "url": "https://open.spotify.com/track/6IhWjoBYe5hvHKA4ZLH4dX"
     }
   ],
   "unique_name": "Women of Indie",

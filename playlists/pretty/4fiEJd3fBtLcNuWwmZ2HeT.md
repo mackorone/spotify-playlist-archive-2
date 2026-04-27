@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 475 songs - 1 day 3 hr 17 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 476 songs - 1 day 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -483,5 +483,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 473 | [Succubus](https://open.spotify.com/track/7zsxiNGhcOvLBsbyC7qENz) | [glamscure](https://open.spotify.com/artist/7oQX1jVN0EsaRmdFKBkzdT) | [Succubus≒incubuS](https://open.spotify.com/album/2CMCQdf27MEYtVxyzSFYX7) | 4:38 |
 | 474 | [hanabira](https://open.spotify.com/track/6C0sNoI2q1uUdTGGGaVAdt) | [glamscure](https://open.spotify.com/artist/7oQX1jVN0EsaRmdFKBkzdT) | [shadowscapes](https://open.spotify.com/album/6caVcUAUovJnkA1R5xbNci) | 2:17 |
 | 475 | [Shaded Cream](https://open.spotify.com/track/1fpjGTg8RUJOCsgckomeYm) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Exit Tunes Presents Supernova 8](https://open.spotify.com/album/3xpShqDPXoIalJ0ULfcssW) | 3:54 |
+| 476 | [Coppelia](https://open.spotify.com/track/70SMFYMWEIEUXa7mP3EDAD) | [Kaya](https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg) | [Nocturne](https://open.spotify.com/album/3qnEQEn785VdJmtJcWA1Iw) | 4:18 |
 
-Snapshot ID: `AAAKIwNz2gZzbMp1uKok2GWWz0SHj5R4`
+Snapshot ID: `AAAKJKOAnN1ugMM1jLHpAZK8LvIoJePH`

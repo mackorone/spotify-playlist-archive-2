@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-295 songs - 17 hr 20 min
+296 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Burlesque Desert Window](https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Burlesque Desert Window](https://open.spotify.com/album/4oUx1HJHLYrR89VrzjzHf4) | 2:59 | 2023-02-23 | 2024-01-03 |
 | [Burning Down the Prairie](https://open.spotify.com/track/3TlfVUdNVzHttc04CBYQQR) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Burning Down the Prairie](https://open.spotify.com/album/1wcxYWaq7wm8OHQbx6yZjb) | 3:01 | 2023-02-23 | 2023-09-08 |
 | [By My Side](https://open.spotify.com/track/4o5tHS1nMLrBZD2WfUPMn8) | [Laura van Kaam](https://open.spotify.com/artist/4ywz66EHjNFUszU6lXLsXe) | [By My Side](https://open.spotify.com/album/6bqpDp9MHIzsa9wx0DTKZT) | 2:53 | 2023-04-27 | 2023-09-01 |
+| [By The Bay](https://open.spotify.com/track/5afcgRprK5Ind4L5Dk6ZuI) | [BAY](https://open.spotify.com/artist/1Abn5FOJHEdk52uZfcjpet), [Bobbie Wall](https://open.spotify.com/artist/6HW856GZA6qu5O5pmkXVsI), [aniika](https://open.spotify.com/artist/2wi4P025ZjQKNvhTpjncc3), [Yentl](https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE) | [By The Bay](https://open.spotify.com/album/7LtOrnQ2x5JQFzoSN2PZvC) | 3:24 | 2026-04-24 |  |
 | [C'mon Baby, Cry](https://open.spotify.com/track/67swXHVknS142T5tIcNFkl) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:30 | 2023-02-23 | 2024-06-28 |
 | [California](https://open.spotify.com/track/2TeTcoh9iB1uOOLiQBeTkT) | [Mattanja Joy Bradley](https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush) | [California](https://open.spotify.com/album/4R2ALa4EonxEMxi0yDhcGj) | 3:58 | 2023-03-30 | 2024-09-13 |
 | [Can A Heart Take](https://open.spotify.com/track/755k9yt98SLiS13p5fNbAE) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Can A Heart Take](https://open.spotify.com/album/4DqEQtnae4LHwyUO6xKF4O) | 3:04 | 2025-01-16 | 2025-12-19 |
@@ -234,7 +235,7 @@
 | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe) | 3:27 | 2024-11-14 | 2025-11-01 |
 | [Songs About You](https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq) | 3:22 | 2023-02-23 | 2024-03-13 |
 | [Southern Star](https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Southern Star](https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24) | 5:05 | 2024-06-27 | 2025-12-19 |
-| [Stone Cold Sober](https://open.spotify.com/track/17E2m2bMA0Su7F2OioKA8H) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Stone Cold Sober](https://open.spotify.com/album/5aCaC8P8Oq7Oyszu1NWiK5) | 2:47 | 2025-11-06 |  |
+| [Stone Cold Sober](https://open.spotify.com/track/17E2m2bMA0Su7F2OioKA8H) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Stone Cold Sober](https://open.spotify.com/album/5aCaC8P8Oq7Oyszu1NWiK5) | 2:47 | 2025-11-06 | 2026-04-27 |
 | [Stop Walking In The Rain](https://open.spotify.com/track/43rhjLzYcgSKqpDCZ4W8rw) | [MISTER & MRS](https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS) | [Stop Walking In The Rain](https://open.spotify.com/album/2VtOOyw4qRsdZVGtDCRScH) | 3:04 | 2024-10-03 | 2025-02-16 |
 | [Stranger's Lullaby](https://open.spotify.com/track/3CMg9ukW5Nahx6SOQADqne) | [Blanko](https://open.spotify.com/artist/2Dk2jkQQYILtFAG09Vjvux) | [Stranger's Lullaby](https://open.spotify.com/album/1DnadWVWWYsvX7emPoTllF) | 2:58 | 2025-05-22 | 2025-06-27 |
 | [Streetcorner Hero](https://open.spotify.com/track/2ojmF50JPKFhUsSQHeCTfP) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Streetcorner Hero](https://open.spotify.com/album/4NKsexEU2O5L06mER89LOd) | 3:06 | 2024-07-25 | 2025-02-04 |

@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 73191,
+  "num_followers": 73202,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 221112,
+      "name": "Burn This Disco Out",
+      "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
         "name": "I Love The Nightlife",
         "url": "https://open.spotify.com/album/6e42g4IxKHPNT6VsRMkP4v"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 516586,
       "name": "Could Heaven Ever Be Like This",
       "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 221112,
-      "name": "Burn This Disco Out",
-      "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
     },
     {
       "added_at": "2026-01-15 16:33:26",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
+        "name": "Instant Replay (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa"
+      },
+      "artists": [
+        {
+          "name": "Dan Hartman",
+          "url": "https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr"
+        }
+      ],
+      "duration_ms": 320480,
+      "name": "Instant Replay",
+      "url": "https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
         "name": "Dance, Dance, Dance: The Best of Chic",
         "url": "https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 446013,
       "name": "I'm Caught up (In a One Night Love Affair) - 12\u201d Edit",
       "url": "https://open.spotify.com/track/5XaBOlOPKJGnq3XFiS5ZHH"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
-        "name": "Instant Replay (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa"
-      },
-      "artists": [
-        {
-          "name": "Dan Hartman",
-          "url": "https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr"
-        }
-      ],
-      "duration_ms": 320480,
-      "name": "Instant Replay",
-      "url": "https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf"
     },
     {
       "added_at": "2026-01-15 16:33:26",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-01-15 16:33:26",
       "album": {
-        "name": "Love, Luther",
-        "url": "https://open.spotify.com/album/6jef6FlX6dgn07Ofvd1gVu"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 339506,
-      "name": "Never Too Much - 12\" Version",
-      "url": "https://open.spotify.com/track/7tHT1v3DPsPCJV8U6DQOtQ"
-    },
-    {
-      "added_at": "2026-01-15 16:33:26",
-      "album": {
         "name": "Take A Bite",
         "url": "https://open.spotify.com/album/2pjdKFcOiyGDDAxlEyRJIK"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 362426,
       "name": "Touch Me In The Morning",
       "url": "https://open.spotify.com/track/5rCCIwczKGRjGMlbZiODHX"
+    },
+    {
+      "added_at": "2026-01-15 16:33:26",
+      "album": {
+        "name": "Love, Luther",
+        "url": "https://open.spotify.com/album/6jef6FlX6dgn07Ofvd1gVu"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 339506,
+      "name": "Never Too Much - 12\" Version",
+      "url": "https://open.spotify.com/track/7tHT1v3DPsPCJV8U6DQOtQ"
     },
     {
       "added_at": "2026-01-15 16:33:26",

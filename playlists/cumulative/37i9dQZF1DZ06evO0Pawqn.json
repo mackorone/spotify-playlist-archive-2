@@ -1049,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "Ll\u00e9vate Todo",
+        "url": "https://open.spotify.com/album/6rRxR8zzSTJRPBwnIG8lZr"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182773,
+      "name": "Ll\u00e9vate Todo",
+      "url": "https://open.spotify.com/track/0sDBdYGq7z545Kg221otie"
+    },
+    {
+      "album": {
         "name": "Los Tiranos Del Norte",
         "url": "https://open.spotify.com/album/1FUfP29aoqXqWxYHFeYJ0w"
       },
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 192946,
       "name": "Por Una Mujer Bonita",
       "url": "https://open.spotify.com/track/39AnTZLp0oKSewkKjFZ6Jv"

@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: bambi
 
-2,944 songs - 6 day 19 hr 0 min
+2,945 songs - 6 day 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1287,6 +1287,7 @@
 | [Kirpiklerin](https://open.spotify.com/track/2NxBMC0gGCcQItr2iotAwZ) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Kirpiklerin](https://open.spotify.com/album/0SQuzuNMouc0l3NcgRYzrp) | 2:56 | 2022-01-05 | 2022-02-03 |
 | [Kisah Tanpa Dirimu](https://open.spotify.com/track/6RAxgUG90f39dVSGUr4qOd) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Devaki](https://open.spotify.com/album/6WyxwTMDu7MdmWKZ2m4lCe) | 4:17 | 2025-12-03 | 2026-02-05 |
 | [KISS](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [LEVIOSA](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) | 3:05 | 2022-09-07 | 2022-10-05 |
+| [Kiss Me Better](https://open.spotify.com/track/1NxInf8oAuifXyT8Umkblf) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [IS IT FUN OR IS IT OVER?](https://open.spotify.com/album/74WPtnFgpaweZt8wSqcfQd) | 2:34 | 2026-04-24 |  |
 | [kiss me blue](https://open.spotify.com/track/2sC6GuRvSFgHJerlWqrRYf) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 3:08 | 2025-12-03 | 2026-03-20 |
 | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ) | 3:35 | 2021-12-11 | 2022-01-06 |
 | [Kiss u goodnight](https://open.spotify.com/track/4Vz6slkVySutvsUxegFupk) | [Forty 顏世琳](https://open.spotify.com/artist/1OkGOCTTKlEi1RBg9lsb9V) | [Kiss u goodnight](https://open.spotify.com/album/0no5KOn0MFnit0HXQr8M9S) | 3:14 | 2026-04-08 |  |
@@ -1994,7 +1995,7 @@
 | [PSDT](https://open.spotify.com/track/0F5RDOYKovUGDXrSAz34At) | [Vickie Cherie](https://open.spotify.com/artist/7mUVdIwwAN5YJlMMir29Up) | [Cherie on top](https://open.spotify.com/album/15qy0SXvo6cSnwgg7T852D) | 3:50 | 2025-11-06 | 2025-11-20 |
 | [Psicopatía](https://open.spotify.com/track/7qpLtjbCtUC837i0Va0dhX) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Psicopatía / Mirarte](https://open.spotify.com/album/0CfoTYUpmi7Me9W85LwYal) | 2:48 | 2022-10-04 | 2022-11-03 |
 | [Psycho Killer](https://open.spotify.com/track/0jeKnrCAOZRMf7w9hdVHUe) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Psycho Killer](https://open.spotify.com/album/12RGnhfKRBzq46QfG3rxOA) | 3:44 | 2024-07-03 | 2024-09-05 |
-| [Pudiste huir](https://open.spotify.com/track/0pvUfwqQynaWh9C26baquv) | [Catalina y Las Bordonas de Oro](https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH) | [De Encuentros y Ausencias](https://open.spotify.com/album/2cTlBbjUPAgU0kYS2OaWS7) | 3:38 | 2026-04-08 |  |
+| [Pudiste huir](https://open.spotify.com/track/0pvUfwqQynaWh9C26baquv) | [Catalina y Las Bordonas de Oro](https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH) | [De Encuentros y Ausencias](https://open.spotify.com/album/2cTlBbjUPAgU0kYS2OaWS7) | 3:38 | 2026-04-08 | 2026-04-27 |
 | [pull the trigger](https://open.spotify.com/track/7KAVS6tR9EXj5nZ53elV20) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [Mom, I’m Lost](https://open.spotify.com/album/3oNFHLzr3qCJTNaXTzEOzA) | 2:56 | 2022-02-02 | 2022-03-09 |
 | [PULL UP](https://open.spotify.com/track/7HVA1EkKQi4zNaYwE17Cvo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [PULL UP](https://open.spotify.com/album/4bqkpI02r4Qc2BFrJtHOic) | 2:41 | 2023-02-01 | 2023-03-02 |
 | [Pulling Teeth](https://open.spotify.com/track/7FXtWp46xzhGByLZFXpu9Q) | [Alix Page](https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ) | [Pulling Teeth](https://open.spotify.com/album/4BTI7LcJMUgQ03xMUaem5X) | 3:25 | 2024-04-17 | 2024-05-03 |

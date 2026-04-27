@@ -353,6 +353,28 @@
     },
     {
       "album": {
+        "name": "Never Stop Texting Me",
+        "url": "https://open.spotify.com/album/44lPT0MSIDdzYZkqN6wZA4"
+      },
+      "artists": [
+        {
+          "name": "More Eaze",
+          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195427,
+      "name": "floor Pt. 2",
+      "url": "https://open.spotify.com/track/4nFU9hH3LpNF0R8k6XR7Kx"
+    },
+    {
+      "album": {
         "name": "Um",
         "url": "https://open.spotify.com/album/6Y0J5WRcTykUZ47wZFrxN3"
       },
@@ -606,7 +628,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 56000,
       "name": "i",
       "url": "https://open.spotify.com/track/7vF0dmVV28qC0zv4vqc4k1"
@@ -1404,7 +1426,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 96000,
       "name": "xi",
       "url": "https://open.spotify.com/track/4FnhjO3q1jAftUTfxLYXZ5"

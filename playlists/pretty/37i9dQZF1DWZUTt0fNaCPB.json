@@ -1,6 +1,6 @@
 {
   "description": "No need for a gadget, just play these rock songs to set your pace!",
-  "num_followers": 1108153,
+  "num_followers": 1108339,
   "original_name": "Running to Rock 170-190 BPM",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-06-26 10:09:38",
       "album": {
+        "name": "The Revelry",
+        "url": "https://open.spotify.com/album/3nmvg9pydv2QR8q1JV0fmp"
+      },
+      "artists": [
+        {
+          "name": "Bullets And Octane",
+          "url": "https://open.spotify.com/artist/6Ku6HNSfgFrk2c3KIlf2j9"
+        }
+      ],
+      "duration_ms": 139640,
+      "name": "Pirates",
+      "url": "https://open.spotify.com/track/0L639McB94IkUvIgZKM1E5"
+    },
+    {
+      "added_at": "2025-06-26 10:09:38",
+      "album": {
         "name": "The Reckoning",
         "url": "https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 251106,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S"
-    },
-    {
-      "added_at": "2025-06-26 10:09:38",
-      "album": {
-        "name": "The Revelry",
-        "url": "https://open.spotify.com/album/3nmvg9pydv2QR8q1JV0fmp"
-      },
-      "artists": [
-        {
-          "name": "Bullets And Octane",
-          "url": "https://open.spotify.com/artist/6Ku6HNSfgFrk2c3KIlf2j9"
-        }
-      ],
-      "duration_ms": 139640,
-      "name": "Pirates",
-      "url": "https://open.spotify.com/track/0L639McB94IkUvIgZKM1E5"
     },
     {
       "added_at": "2025-06-26 10:09:38",

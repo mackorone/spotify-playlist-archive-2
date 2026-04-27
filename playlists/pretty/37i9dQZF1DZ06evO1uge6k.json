@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 261754,
+  "num_followers": 261771,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAAAKxWWKzhC6cmCmyN9hFNnH",
+  "snapshot_id": "aewEAAAAAABGwXOr9AUvIPMdiOo3lP11",
   "tracks": [
     {
       "added_at": null,
@@ -308,25 +308,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 286573,
-      "name": "I'm Bad, I'm Nationwide",
-      "url": "https://open.spotify.com/track/5ETdfJuLBfjAOy5pbXMWxK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Loco",
-        "url": "https://open.spotify.com/album/4iQeNxZ5xlP9TirtiSfisY"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "Tube Snake Boogie",
-      "url": "https://open.spotify.com/track/5SgSMB8pz1lolVOTtFCtIX"
+      "duration_ms": 254093,
+      "name": "A Fool for Your Stockings",
+      "url": "https://open.spotify.com/track/6RM6ePlZWBbc4I9y4tJDqk"
     },
     {
       "added_at": null,
@@ -343,6 +327,22 @@
       "duration_ms": 181666,
       "name": "Can't Stop Rockin'",
       "url": "https://open.spotify.com/track/53Aj8Ii5SbT2KfF7I8DGBN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Loco",
+        "url": "https://open.spotify.com/album/4iQeNxZ5xlP9TirtiSfisY"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "Tube Snake Boogie",
+      "url": "https://open.spotify.com/track/5SgSMB8pz1lolVOTtFCtIX"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 254093,
-      "name": "A Fool for Your Stockings",
-      "url": "https://open.spotify.com/track/6RM6ePlZWBbc4I9y4tJDqk"
+      "duration_ms": 286573,
+      "name": "I'm Bad, I'm Nationwide",
+      "url": "https://open.spotify.com/track/5ETdfJuLBfjAOy5pbXMWxK"
     },
     {
       "added_at": null,

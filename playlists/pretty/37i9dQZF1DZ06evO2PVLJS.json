@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1123022,
+  "num_followers": 1123126,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAACyNa4M0dNo3101Anb3PFr5",
+  "snapshot_id": "aewEAAAAAADihLTTMpYQgm6NvRgY5oPr",
   "tracks": [
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo Del Pueblo",
-        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
+        "name": "A Pesar De Todo",
+        "url": "https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 191533,
-      "name": "Le Pese a Quien Le Pese",
-      "url": "https://open.spotify.com/track/3mf2WfT8APUuwEGBh7w1ht"
+      "duration_ms": 178440,
+      "name": "Los Mandados",
+      "url": "https://open.spotify.com/track/24XQ0HNHW40pmjKwdUb2zM"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Pesar De Todo",
-        "url": "https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso"
+        "name": "El Hijo Del Pueblo",
+        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 178440,
-      "name": "Los Mandados",
-      "url": "https://open.spotify.com/track/24XQ0HNHW40pmjKwdUb2zM"
+      "duration_ms": 191533,
+      "name": "Le Pese a Quien Le Pese",
+      "url": "https://open.spotify.com/track/3mf2WfT8APUuwEGBh7w1ht"
     },
     {
       "added_at": null,

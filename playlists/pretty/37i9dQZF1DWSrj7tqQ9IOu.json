@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify.",
-  "num_followers": 402258,
+  "num_followers": 402252,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Mars 2026",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-03-31 22:00:12",
       "album": {
-        "name": "23 JOURS PLUS TARD",
-        "url": "https://open.spotify.com/album/1x7JRkRLh5YBPq00I1bjKQ"
-      },
-      "artists": [
-        {
-          "name": "Jolagreen23",
-          "url": "https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "BLEUDECHANEL",
-      "url": "https://open.spotify.com/track/3DM4e9h5cHrWwX4NNOkybx"
-    },
-    {
-      "added_at": "2026-03-31 22:00:12",
-      "album": {
         "name": "Written into Changes",
         "url": "https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 233113,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9"
+    },
+    {
+      "added_at": "2026-03-31 22:00:12",
+      "album": {
+        "name": "23 JOURS PLUS TARD",
+        "url": "https://open.spotify.com/album/1x7JRkRLh5YBPq00I1bjKQ"
+      },
+      "artists": [
+        {
+          "name": "Jolagreen23",
+          "url": "https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "BLEUDECHANEL",
+      "url": "https://open.spotify.com/track/3DM4e9h5cHrWwX4NNOkybx"
     },
     {
       "added_at": "2026-03-31 22:00:12",

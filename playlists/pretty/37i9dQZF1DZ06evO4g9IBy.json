@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 172898,
+  "num_followers": 172909,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAABTJ5sGCoIY/H9p1sl9yaVB",
+  "snapshot_id": "aewEAAAAAADam1WMbtgy3I90W5mOFgn5",
   "tracks": [
     {
       "added_at": null,
@@ -63,8 +63,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Other Side of the Mirror",
-        "url": "https://open.spotify.com/album/520iW3fXcWW5mbQToP0hs0"
+        "name": "Rock a Little",
+        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 274520,
-      "name": "Rooms on Fire",
-      "url": "https://open.spotify.com/track/0QVlQTzp10Tj4Xql9ZRJzo"
+      "duration_ms": 250026,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/0lqNtjLgTJYScspOhJXxtx"
     },
     {
       "added_at": null,
@@ -99,8 +99,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock a Little",
-        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+        "name": "The Other Side of the Mirror",
+        "url": "https://open.spotify.com/album/520iW3fXcWW5mbQToP0hs0"
       },
       "artists": [
         {
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 250026,
-      "name": "Talk to Me",
-      "url": "https://open.spotify.com/track/0lqNtjLgTJYScspOhJXxtx"
+      "duration_ms": 274520,
+      "name": "Rooms on Fire",
+      "url": "https://open.spotify.com/track/0QVlQTzp10Tj4Xql9ZRJzo"
     },
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock a Little",
-        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+        "name": "Practical Magic (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 275840,
-      "name": "I Can't Wait",
-      "url": "https://open.spotify.com/track/0p4b7LieKeph1CqJhxkTMC"
+      "duration_ms": 357106,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/6wZaKZs7XsMzAOu9yp8dUN"
     },
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Practical Magic (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw"
+        "name": "Rock a Little",
+        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 357106,
-      "name": "Crystal",
-      "url": "https://open.spotify.com/track/6wZaKZs7XsMzAOu9yp8dUN"
+      "duration_ms": 275840,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/0p4b7LieKeph1CqJhxkTMC"
     },
     {
       "added_at": null,

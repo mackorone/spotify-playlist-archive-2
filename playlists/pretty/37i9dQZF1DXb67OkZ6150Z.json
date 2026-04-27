@@ -1,6 +1,6 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Blondshell",
-  "num_followers": 303755,
+  "num_followers": 303765,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Lotta Love",
-        "url": "https://open.spotify.com/album/0oVhAs8HZP3UE1G3ptBBa0"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 169610,
-      "name": "Lotta Love",
-      "url": "https://open.spotify.com/track/2n9y3UtCDmRUD94jlPTJCz"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "The Georgia EP",
         "url": "https://open.spotify.com/album/3stEKyV4hKU1G5yXtmDOaN"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 264160,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/6p8ZhmQS4fia0j93S2M3Fj"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Lotta Love",
+        "url": "https://open.spotify.com/album/0oVhAs8HZP3UE1G3ptBBa0"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 169610,
+      "name": "Lotta Love",
+      "url": "https://open.spotify.com/track/2n9y3UtCDmRUD94jlPTJCz"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 154869,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
         "name": "All Flowers In Time Bend Towards The Sun",
         "url": "https://open.spotify.com/album/3UP0SM64jqkfShy1BfaCOV"
       },
@@ -835,18 +851,22 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
+        "name": "Steal My Sunshine / Novocaine For The Soul",
+        "url": "https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1"
       },
       "artists": [
         {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Cherry Glazerr",
+          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
         }
       ],
-      "duration_ms": 154869,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
+      "duration_ms": 240002,
+      "name": "Steal My Sunshine (feat. Cherry Glazerr)",
+      "url": "https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -871,26 +891,6 @@
       "duration_ms": 193344,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2Dz2D2jwauzoiq7aluMiH9"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
-        "name": "Steal My Sunshine / Novocaine For The Soul",
-        "url": "https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        },
-        {
-          "name": "Cherry Glazerr",
-          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
-        }
-      ],
-      "duration_ms": 240002,
-      "name": "Steal My Sunshine (feat. Cherry Glazerr)",
-      "url": "https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Broken Glass, Vol. 6",
-        "url": "https://open.spotify.com/album/7nAbZDCDFoNMa0H1cUICk2"
-      },
-      "artists": [
-        {
-          "name": "Goodwerks",
-          "url": "https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM"
-        },
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "He Thinks He'll Keep Her",
-      "url": "https://open.spotify.com/track/36YB7zihZBaAq3DJZ1YXZv"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Pumped Up Kicks (Gus Dapperton Version)",
         "url": "https://open.spotify.com/album/3N6JDO9GBMR7sZHpgxY1OS"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 232200,
       "name": "Pumped Up Kicks - Gus Dapperton Version",
       "url": "https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Broken Glass, Vol. 6",
+        "url": "https://open.spotify.com/album/7nAbZDCDFoNMa0H1cUICk2"
+      },
+      "artists": [
+        {
+          "name": "Goodwerks",
+          "url": "https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM"
+        },
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 225013,
+      "name": "He Thinks He'll Keep Her",
+      "url": "https://open.spotify.com/track/36YB7zihZBaAq3DJZ1YXZv"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Pure Shores",
-        "url": "https://open.spotify.com/album/486DSBXpSuq1Zd7tsTQhkZ"
-      },
-      "artists": [
-        {
-          "name": "Hearts Hearts",
-          "url": "https://open.spotify.com/artist/5kRhbeMGVzAciRwnQzyesH"
-        }
-      ],
-      "duration_ms": 233795,
-      "name": "Pure Shores",
-      "url": "https://open.spotify.com/track/1OxLfcffM9xguphe8lxRgE"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/3pC14s49yUVj2VJskAshde"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 262714,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Pure Shores",
+        "url": "https://open.spotify.com/album/486DSBXpSuq1Zd7tsTQhkZ"
+      },
+      "artists": [
+        {
+          "name": "Hearts Hearts",
+          "url": "https://open.spotify.com/artist/5kRhbeMGVzAciRwnQzyesH"
+        }
+      ],
+      "duration_ms": 233795,
+      "name": "Pure Shores",
+      "url": "https://open.spotify.com/track/1OxLfcffM9xguphe8lxRgE"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Jasmine",
-        "url": "https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 219598,
-      "name": "Jasmine",
-      "url": "https://open.spotify.com/track/6bniCXManaPDnCN34waQs6"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w"
       },
@@ -1399,6 +1383,22 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 219598,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/6bniCXManaPDnCN34waQs6"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
         "name": "What You Won't Do for Love",
         "url": "https://open.spotify.com/album/2PaIjmeAXUAJNTkoOr7CWy"
       },
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Music From The Pen Gala 1983",
-        "url": "https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 211786,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 226981,
       "name": "Skinny Love - Spotify Singles",
       "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Music From The Pen Gala 1983",
+        "url": "https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 211786,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Tonight, Tonight",
-        "url": "https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 261088,
-      "name": "Tonight, Tonight",
-      "url": "https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Let's Dance to Joy Division",
         "url": "https://open.spotify.com/album/72w9n6hWEOWE5QrMqrmJv8"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 203000,
       "name": "Let's Dance to Joy Division",
       "url": "https://open.spotify.com/track/3FChIBncGO2pCxv9QIFIcI"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Tonight, Tonight",
+        "url": "https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 261088,
+      "name": "Tonight, Tonight",
+      "url": "https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3lve8evv61lFzAtZcdGZPk"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 257106,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/3R0iA3AlPcpvfwYIoUTVRx"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Adam's Song (triple j Like A Version)",
         "url": "https://open.spotify.com/album/0iOMlmeL9Gwe7KmBfLuxLX"
       },
@@ -1611,18 +1595,18 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/2jwDWmnT9D6zQy8kOA7ijM"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3lve8evv61lFzAtZcdGZPk"
       },
       "artists": [
         {
-          "name": "Sea Lemon",
-          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
         }
       ],
-      "duration_ms": 235026,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/5JBoWa49nMe1bxaEDbMAxS"
+      "duration_ms": 257106,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3R0iA3AlPcpvfwYIoUTVRx"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1643,18 +1627,34 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/2jwDWmnT9D6zQy8kOA7ijM"
       },
       "artists": [
         {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+          "name": "Sea Lemon",
+          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
         }
       ],
-      "duration_ms": 210956,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
+      "duration_ms": 235026,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/5JBoWa49nMe1bxaEDbMAxS"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Cooking",
+        "url": "https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 171315,
+      "name": "Cooking",
+      "url": "https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Cooking",
-        "url": "https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7"
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
       },
       "artists": [
         {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
         }
       ],
-      "duration_ms": 171315,
-      "name": "Cooking",
-      "url": "https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi"
+      "duration_ms": 210956,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
     }
   ],
   "unique_name": "Indie Covers",

@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸    Cover: Marcus.wav
 
-415 songs - 21 hr 11 min
+416 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [better as a stranger](https://open.spotify.com/track/3HiXP8dtSyJwVG5JuP8cUh) | [lucca](https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N) | [better as a stranger](https://open.spotify.com/album/74XCWIwZ01RkhM4Hj0ILaf) | 3:24 | 2026-03-27 |  |
 | [Big city life](https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:08 | 2025-05-22 | 2025-09-05 |
 | [Big Deal](https://open.spotify.com/track/1QjVJm65BfSr63wbpzk86Q) | [Pascoe](https://open.spotify.com/artist/3EUDC2YMBp9j5hgOVoQE4c) | [Big Deal](https://open.spotify.com/album/6O0cIr1fA4U7hB3z7p6ydQ) | 3:37 | 2025-08-14 | 2025-08-22 |
+| [Big Mistake](https://open.spotify.com/track/24nUZ74vZNof2v7wkK6JV3) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Big Mistake](https://open.spotify.com/album/6Hvh4GrjdaKUQWkIpXmjnU) | 3:35 | 2026-04-23 |  |
 | [Big Shark Club](https://open.spotify.com/track/1qVFhWBKBE5GOOEoqEgG1V) | [EMI WIDE](https://open.spotify.com/artist/1iBY2CNfLshyrAVMt6gBvK) | [Big Shark Club](https://open.spotify.com/album/7Fz0HMNflexWyLBmGr97Sd) | 2:20 | 2025-08-14 | 2025-09-15 |
 | [Big Solo](https://open.spotify.com/track/6hXZ1dD9oNhJ0ircyjsrjR) | [Alba Akvama](https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe) | [Minute Nothing](https://open.spotify.com/album/6vSqgWESqtKe3zTatouCUz) | 3:38 | 2026-03-20 | 2026-04-24 |
 | [Bind Mig](https://open.spotify.com/track/7cfDdSNtV5YcF3E3M0LWjB) | [Sebastian Wegener](https://open.spotify.com/artist/7cb1H8FTdpjQYaNxKSWt9O) | [Bind Mig](https://open.spotify.com/album/0ubeyeKwal621XlihDvhRu) | 3:05 | 2025-02-27 | 2025-03-07 |
@@ -242,7 +243,7 @@
 | [Marianne og Henrik](https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Marianne og Henrik](https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr) | 3:00 | 2024-10-03 |  |
 | [Marigold](https://open.spotify.com/track/0ial8d0UqAOVetenDTpcI7) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Marigold](https://open.spotify.com/album/0P4fFsIA6Y95WLKRg6UHW1) | 3:40 | 2025-01-23 | 2025-03-28 |
 | [Mere End Bare Kaffe](https://open.spotify.com/track/04EY5MIcdHXhVIeEKFi79u) | [Gejst](https://open.spotify.com/artist/5aYWNs1bORooRHDSeuZ1IP) | [Mere End Bare Kaffe](https://open.spotify.com/album/4uJiYK3mVmoNMLbKe8N7G9) | 3:01 | 2025-10-02 | 2025-10-10 |
-| [Mi Amor](https://open.spotify.com/track/5gCsQD68LPv4FmndQwyGEx) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Før Jeg Falder](https://open.spotify.com/album/5VEvNimYjgSZDXbBPZ8Qf9) | 3:16 | 2025-06-19 |  |
+| [Mi Amor](https://open.spotify.com/track/5gCsQD68LPv4FmndQwyGEx) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Før Jeg Falder](https://open.spotify.com/album/5VEvNimYjgSZDXbBPZ8Qf9) | 3:16 | 2025-06-19 | 2026-04-27 |
 | [Mig Og Min Mund](https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Mig Og Min Mund](https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q) | 2:39 | 2024-06-27 |  |
 | [Minder Om Dig](https://open.spotify.com/track/1553ldzhZQvrhS5fgWWve5) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Minder Om Dig](https://open.spotify.com/album/22evEz1GRHMoFBh57DrHkA) | 2:57 | 2025-04-10 | 2025-09-05 |
 | [Mouse Tag](https://open.spotify.com/track/1QVgtD9wGjGQdLLdrQ1dI4) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Musicality](https://open.spotify.com/album/6rcnlJU0yDzWJf59i4SP6X) | 1:46 | 2025-09-18 | 2025-10-10 |

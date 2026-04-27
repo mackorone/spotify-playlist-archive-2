@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-444 songs - 1 day 3 hr 50 min
+447 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [El Rock No Esta En Tu Ropa](https://open.spotify.com/track/3DGdbW7SbmdwT9P3tLfhAb) | [Todo Podrido](https://open.spotify.com/artist/4jVIYvQsjLqSJgR9ePsJRQ) | [Encantados](https://open.spotify.com/album/6vGyGiCIjk9FecwFAfXmhp) | 2:54 | 2025-09-29 | 2025-12-17 |
 | [Empiezo a Creer](https://open.spotify.com/track/1lzwwRYzUb3BotVYxuoQ2z) | [Coto privado](https://open.spotify.com/artist/1TmFxjLLIPQFgmha4yIXh8) | [Escrito en el Lavabo](https://open.spotify.com/album/6khlI7NYlitPiEALNeqoVE) | 4:34 | 2025-10-29 | 2025-12-17 |
 | [Empty Rooms](https://open.spotify.com/track/6qfsVMk4hXxG8UmM2ROAYe) | [Ritmo Quantico](https://open.spotify.com/artist/1gnTu7US1LD0M1AXrGefBB) | [Empty Rooms](https://open.spotify.com/album/16ct0XLkheDyM0vjZ2Mi9C) | 4:01 | 2025-09-30 | 2025-12-17 |
+| [En tus ojos](https://open.spotify.com/track/5YFyngCxUk1kQhBBzuOMUC) | [Leandro Rebolini](https://open.spotify.com/artist/76nuTtg8t7JqzjcZ12NbPI) | [En tus ojos](https://open.spotify.com/album/5e1vAwbN5xGXOBallsu7cL) | 4:11 | 2026-04-26 |  |
 | [Endgame](https://open.spotify.com/track/6NIIn3IrbzMPviJ1hSceZL) | [Accentuator](https://open.spotify.com/artist/4dnPNxQvkKkniAVp5ohx51) | [Endgame](https://open.spotify.com/album/5BycyyA2vRM2cQQ7yAoBtM) | 4:07 | 2025-10-27 | 2025-11-28 |
 | [Equinoccio](https://open.spotify.com/track/0bxkS8cpglDigda6J3Kfam) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 3:21 | 2025-10-29 | 2025-12-17 |
 | [Eres Lo Que Quiero](https://open.spotify.com/track/21SgAoUFH0EacYN57lW7mo) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 3:12 | 2025-09-26 | 2025-12-17 |
@@ -207,6 +208,7 @@
 | [Jim Beam Interlude](https://open.spotify.com/track/63ep6PgJWhx1D5kPrgGvC6) | [Kennon](https://open.spotify.com/artist/47zcpuymv5pP6Mdcf1OKA9) | [Jim Beam Interlude](https://open.spotify.com/album/4Fwi2mky3CowxhhGx2g3F3) | 2:40 | 2025-12-16 | 2026-04-21 |
 | [Just Before Sunrise](https://open.spotify.com/track/3S3EBrid1z5Dsgj0NjHj77) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [See the Sun](https://open.spotify.com/album/6ezu2PIyB2NK6twZUcJzTs) | 2:38 | 2025-09-21 | 2025-11-28 |
 | [Just Give Me A Call](https://open.spotify.com/track/2aWedzFK5OhL3crTShtzg6) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Just Give Me A Call](https://open.spotify.com/album/2XOfRnvKfMxNV9lHiA1XCy) | 5:20 | 2025-09-28 | 2025-12-17 |
+| [Just Me and This Trans Am](https://open.spotify.com/track/17CDsz0QLtgXzdpdOZVBCT) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 3:35 | 2026-04-26 |  |
 | [Keep Doin' What You're Doin'](https://open.spotify.com/track/59TXNX5hE3HXnGMmOhGvLu) | [Bruce Sudano](https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ) | [Spirals, Vol\. 2: Time & the Space in Between](https://open.spotify.com/album/09HpVKjfQZjSAlLYQiETFI) | 3:58 | 2025-10-31 | 2025-12-17 |
 | [Kick'Em In The Head](https://open.spotify.com/track/0EsXtODFrB6AgEC5ZS9qvZ) | [Rat Silo](https://open.spotify.com/artist/0FOHbrm4R5uiYlGzyetiI7) | [Kick'Em In The Head](https://open.spotify.com/album/7nk2GdYm79ADyoqJDruRT5) | 3:57 | 2026-03-07 |  |
 | [Kings & Queens](https://open.spotify.com/track/3F5WjDztBiHJFCyiomxW1m) | [EsKIL](https://open.spotify.com/artist/2Gcp9We5VZX6XunRvAnXr0), [Starlunge](https://open.spotify.com/artist/3KhGmNhB6fadHcYqPcT2to) | [Kings & Queens](https://open.spotify.com/album/1Km78h7TfdKLZO6FLHAzjQ) | 2:59 | 2026-02-24 | 2026-03-18 |
@@ -253,6 +255,7 @@
 | [Mi Porción Del Cielo](https://open.spotify.com/track/0j2FJ9VZRxyveO8nm28o1p) | [Jimmy Molina](https://open.spotify.com/artist/3mVMWQayvasA1ugv6dy35e) | [Mi Porción Del Cielo](https://open.spotify.com/album/2IcSq6ZZPiJGoaIFBFuAl5) | 2:40 | 2025-12-24 | 2026-03-18 |
 | [Might](https://open.spotify.com/track/29tEoaOohhs9T5KzL5nwSp) | [CousinRay](https://open.spotify.com/artist/1a6zRnXwYNfgmQwGCe7aZZ), [Drew Nold](https://open.spotify.com/artist/33aaruu0jaWNP2jmw03YL9), [Steam Slicer](https://open.spotify.com/artist/1BrdiIVdlnhJZRJkLCb5TI) | [Might](https://open.spotify.com/album/3kzrk1s5s52bPX4RJlXBme) | 4:00 | 2025-09-30 | 2025-12-17 |
 | [Mojo On](https://open.spotify.com/track/3TdRMlfp6LGeAtOASCN8nx) | [Luback](https://open.spotify.com/artist/7A4hy5k2AzVjPu8yjXnZr9), [The Clics](https://open.spotify.com/artist/0haX6u2d6rCkAXWJB4d9sO) | [Mojo On](https://open.spotify.com/album/22flR5Lny2T7GFrDKLxxUD) | 4:21 | 2025-11-02 | 2025-12-17 |
+| [Money](https://open.spotify.com/track/7ALuXUMj3Lz7i0yoFJaaCP) | [Aajax Dry Goods](https://open.spotify.com/artist/2k1v14nltEcG15SrMjyvsg) | [Aajax Dry Goods](https://open.spotify.com/album/60bYC4FtgrPaDyjSsGJiLA) | 2:28 | 2026-04-26 |  |
 | [Money](https://open.spotify.com/track/5EYHdEkl9T4osuhxLGB0e7) | [The How](https://open.spotify.com/artist/09hG1ZJdYeCJo1nB66BJzW) | [Westway Rises](https://open.spotify.com/album/1UF1jnphfnZ65FU9Qp3KdV) | 3:34 | 2026-01-13 | 2026-03-18 |
 | [Monsters](https://open.spotify.com/track/70VhhKKdIEEudf6DQV6U5v) | [Mister Co.](https://open.spotify.com/artist/4OKRsuISYqu54looIiF1qw), [Mason Jay](https://open.spotify.com/artist/2XaRcu373bqmThIbyXmlml), [Tahlia Eve](https://open.spotify.com/artist/3TqT9LO38ojg10swNydIDi) | [Monsters](https://open.spotify.com/album/7h72tlOVHXBapt15VlpvXn) | 4:49 | 2026-04-23 |  |
 | [Montague](https://open.spotify.com/track/2RkLcTEFOMLxseVkpvNbNi) | [New Juliet](https://open.spotify.com/artist/7FMVmMH2AbtqrllpIhgi2K) | [Montague](https://open.spotify.com/album/2MwRWgs9OwTHvay6WFbP8V) | 3:46 | 2026-04-25 |  |

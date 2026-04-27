@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Superlitio",
-  "num_followers": 87821,
+  "num_followers": 87825,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-04-24 04:59:15",
       "album": {
-        "name": "Rock the Casbah",
-        "url": "https://open.spotify.com/album/6QdgKWKyU4Ut7MdPynViir"
-      },
-      "artists": [
-        {
-          "name": "Doctor Kr\u00e1pula",
-          "url": "https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "Rock the Casbah",
-      "url": "https://open.spotify.com/track/2qEd8UUUa8tgqBLKh2ojHh"
-    },
-    {
-      "added_at": "2026-04-24 04:59:15",
-      "album": {
         "name": "Lockdownska",
         "url": "https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 219506,
       "name": "Lockdownska",
       "url": "https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA"
+    },
+    {
+      "added_at": "2026-04-24 04:59:15",
+      "album": {
+        "name": "Rock the Casbah",
+        "url": "https://open.spotify.com/album/6QdgKWKyU4Ut7MdPynViir"
+      },
+      "artists": [
+        {
+          "name": "Doctor Kr\u00e1pula",
+          "url": "https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "Rock the Casbah",
+      "url": "https://open.spotify.com/track/2qEd8UUUa8tgqBLKh2ojHh"
     },
     {
       "added_at": "2026-04-24 04:59:15",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-04-24 04:59:15",
       "album": {
-        "name": "El Silencio",
-        "url": "https://open.spotify.com/album/7oMs3PmmJsccmhFWImH8wE"
-      },
-      "artists": [
-        {
-          "name": "Encarta 98",
-          "url": "https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv"
-        }
-      ],
-      "duration_ms": 340017,
-      "name": "El Silencio",
-      "url": "https://open.spotify.com/track/1C6NglWjiovt1lUrITZEIo"
-    },
-    {
-      "added_at": "2026-04-24 04:59:15",
-      "album": {
         "name": "Dallas",
         "url": "https://open.spotify.com/album/50IXZEy0pidYPuFaGAfpOI"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 226451,
       "name": "Dallas",
       "url": "https://open.spotify.com/track/5gWDL9ifXbf7InGMldaWOm"
+    },
+    {
+      "added_at": "2026-04-24 04:59:15",
+      "album": {
+        "name": "El Silencio",
+        "url": "https://open.spotify.com/album/7oMs3PmmJsccmhFWImH8wE"
+      },
+      "artists": [
+        {
+          "name": "Encarta 98",
+          "url": "https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv"
+        }
+      ],
+      "duration_ms": 340017,
+      "name": "El Silencio",
+      "url": "https://open.spotify.com/track/1C6NglWjiovt1lUrITZEIo"
     },
     {
       "added_at": "2026-04-24 04:59:15",
@@ -891,8 +891,8 @@
     {
       "added_at": "2026-04-24 04:59:15",
       "album": {
-        "name": "Corriente",
-        "url": "https://open.spotify.com/album/42VngVGNzCECnvcyUXsPxY"
+        "name": "Madre Tierra",
+        "url": "https://open.spotify.com/album/6hfC8pQP0TYzJD9xd9EKSF"
       },
       "artists": [
         {
@@ -900,13 +900,13 @@
           "url": "https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk"
         },
         {
-          "name": "Juan Amaya",
-          "url": "https://open.spotify.com/artist/0RpTSYxPZkiscBuFwPpQHu"
+          "name": "Sebasti\u00e1n Panesso",
+          "url": "https://open.spotify.com/artist/7klsfmubwzRluxsG4nRUyf"
         }
       ],
-      "duration_ms": 301863,
-      "name": "Corriente",
-      "url": "https://open.spotify.com/track/5Mm4TsFJwZd8PRoef7w21l"
+      "duration_ms": 212660,
+      "name": "Madre Tierra",
+      "url": "https://open.spotify.com/track/1Nm64MdvvkfjwIntgflE17"
     },
     {
       "added_at": "2026-04-24 04:59:15",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-04-24 04:59:15",
       "album": {
-        "name": "Diciembre",
-        "url": "https://open.spotify.com/album/2CaTs90sNVNUxcNhVDfjzt"
-      },
-      "artists": [
-        {
-          "name": "Encarta 98",
-          "url": "https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv"
-        }
-      ],
-      "duration_ms": 278453,
-      "name": "Diciembre",
-      "url": "https://open.spotify.com/track/0HWHBcKEk8aT82oHLUJ1IE"
-    },
-    {
-      "added_at": "2026-04-24 04:59:15",
-      "album": {
         "name": "Todo Se Olvida",
         "url": "https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 272999,
       "name": "Todo Se Olvida",
       "url": "https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg"
+    },
+    {
+      "added_at": "2026-04-24 04:59:15",
+      "album": {
+        "name": "Diciembre",
+        "url": "https://open.spotify.com/album/2CaTs90sNVNUxcNhVDfjzt"
+      },
+      "artists": [
+        {
+          "name": "Encarta 98",
+          "url": "https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv"
+        }
+      ],
+      "duration_ms": 278453,
+      "name": "Diciembre",
+      "url": "https://open.spotify.com/track/0HWHBcKEk8aT82oHLUJ1IE"
     },
     {
       "added_at": "2026-04-24 04:59:15",
@@ -975,8 +975,8 @@
     {
       "added_at": "2026-04-24 04:59:15",
       "album": {
-        "name": "Madre Tierra",
-        "url": "https://open.spotify.com/album/6hfC8pQP0TYzJD9xd9EKSF"
+        "name": "Corriente",
+        "url": "https://open.spotify.com/album/42VngVGNzCECnvcyUXsPxY"
       },
       "artists": [
         {
@@ -984,13 +984,13 @@
           "url": "https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk"
         },
         {
-          "name": "Sebasti\u00e1n Panesso",
-          "url": "https://open.spotify.com/artist/7klsfmubwzRluxsG4nRUyf"
+          "name": "Juan Amaya",
+          "url": "https://open.spotify.com/artist/0RpTSYxPZkiscBuFwPpQHu"
         }
       ],
-      "duration_ms": 212660,
-      "name": "Madre Tierra",
-      "url": "https://open.spotify.com/track/1Nm64MdvvkfjwIntgflE17"
+      "duration_ms": 301863,
+      "name": "Corriente",
+      "url": "https://open.spotify.com/track/5Mm4TsFJwZd8PRoef7w21l"
     },
     {
       "added_at": "2026-04-24 04:59:15",

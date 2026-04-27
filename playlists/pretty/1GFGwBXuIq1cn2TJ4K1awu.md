@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 31 likes - 11 songs - 47 min 25 sec
+[royva06](https://open.spotify.com/user/royva06) - 31 likes - 11 songs - 46 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Letter to Madeline](https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Between the Country](https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf) | 4:29 |
-| 2 | [Midnight Cowboy](https://open.spotify.com/track/2cHaP5BkiRWzxmaCE7dQCf) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za) | 2:57 |
-| 3 | [Hey Me, Hey Mama](https://open.spotify.com/track/4MeXcqcyx5vMVUJAKTqKRv) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Hey Me, Hey Mama](https://open.spotify.com/album/1Iiqi0wAb9VWdAQbY0hywC) | 3:30 |
-| 4 | [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 |
-| 5 | [Grounds](https://open.spotify.com/track/620IDPWRadDTa6F37LhOb1) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Ultra Mono](https://open.spotify.com/album/0ojQHzflxMs6SfvBBkRKt6) | 3:08 |
-| 6 | [Does He Love You?](https://open.spotify.com/track/56J7o1BuXpJH2UXqElmsEF) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [More Adventurous \(U.S\. Release\)](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) | 5:13 |
-| 7 | [Puppy Love \- Remastered](https://open.spotify.com/track/1mdfrHeZzxjz0FJ4BKRuxS) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Paul Anka Sings His Big 15 \(Remastered\)](https://open.spotify.com/album/4avsZn38cgMEmxmGdpb4lp) | 2:41 |
-| 8 | [What Difference Does It Make? \- 2011 Remaster](https://open.spotify.com/track/3rzYUfyzdZW96cHXnGn1xI) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 3:49 |
-| 9 | [Thang Jai Thang Jao](https://open.spotify.com/track/0cNH9BdZZ3zCWnnJYGij35) | [Khun Narin](https://open.spotify.com/artist/63zawOgIPFW8J6QTTJiRX1) | [II](https://open.spotify.com/album/30bnUuR6xbyJSqzhrjYreM) | 7:45 |
-| 10 | [I Got Joy](https://open.spotify.com/track/0UYwlmWT4eBayLdBrtftLR) | [Brontez Purnell](https://open.spotify.com/artist/5rTfSsNbSVZhGMw3xoq7Yf), [Briana Fletcher](https://open.spotify.com/artist/0YjgARzly9pRsvcDubc1I6), [The New Zion Missionary Baptist Church Choir of Belle Mina, Alabama](https://open.spotify.com/artist/6SqReA92w2Wtzq21ItkUUn) | [No Jack Swing](https://open.spotify.com/album/7GehdwkbfiSXMzGmzWSUpt) | 3:55 |
-| 11 | [All Night Long](https://open.spotify.com/track/0XdJDBL3TmRv7ODKqFPhS1) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [God Knows I Tried](https://open.spotify.com/album/6hP0ChTVZGQHn5wB5n6J7K) | 6:24 |
+| 1 | [Turn Your Love Around](https://open.spotify.com/track/6a899bXlCuViXW2Qs8Rdqo) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:50 |
+| 2 | [Need A Little Time](https://open.spotify.com/track/77lCv1WjX1EvhlfhIUayOb) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Tell Me How You Really Feel](https://open.spotify.com/album/5KAYb7440fWwIiZqTdmh2M) | 3:58 |
+| 3 | [Stalkin'](https://open.spotify.com/track/6B8I1qFm81w2grBX30btLj) | [Duane Eddy](https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91) | [Have 'Twangy' Guitar Will Travel](https://open.spotify.com/album/3SHjc6o1z9gxpCcqB6OZ6R) | 2:26 |
+| 4 | [I Need You](https://open.spotify.com/track/2UQWW8rhNJo5tBt77LnbZH) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 6:55 |
+| 5 | [Lore](https://open.spotify.com/track/7fYMNO8W4OQUwdZoLwzhW2) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Devil for the Fire](https://open.spotify.com/album/61CtQxxTAKjdaBgVkg1hGL) | 3:21 |
+| 6 | [The Roving](https://open.spotify.com/track/43ilH6eTzMBBekPccApVfo) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G) | 4:20 |
+| 7 | [John Saw That Number](https://open.spotify.com/track/08nhxjVxAq9Q37qiskGKlW) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 4:05 |
+| 8 | [I'm Gonna Tear Your Playhouse Down](https://open.spotify.com/track/62i5IYsfk28UiViWTeEw2x) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 2:45 |
+| 9 | [Slippery People](https://open.spotify.com/track/6jmArQTNFxVghhetkYV36I) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues](https://open.spotify.com/album/78MM8HrabEGPLVWaJkM2t1) | 5:06 |
+| 10 | [Hard Drive](https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 5:27 |
+| 11 | [Sweet Time](https://open.spotify.com/track/3wv9jIR1DAGxTRMm1kH6GL) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Sweet Time](https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h) | 4:11 |
 
-Snapshot ID: `AAAKXOZvvHu+z8ap9Fv22NpOUh1XTaCH`
+Snapshot ID: `AAAKci4t4BPD6/s52Zy5doMkktCYsaTx`

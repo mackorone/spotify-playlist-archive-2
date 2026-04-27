@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,596 likes - 962 songs - 2 day 12 hr 35 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,596 likes - 977 songs - 2 day 13 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -970,5 +970,20 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 960 | [Altar](https://open.spotify.com/track/54W2cEcp8UaHgTD1927H2y) | [Fiebre de las Montañas Rocosas](https://open.spotify.com/artist/0wluskMzTXGEgOCmezbaNM) | [Altar](https://open.spotify.com/album/1UVSdVOF5KmQS1qO1GQEtE) | 3:42 |
 | 961 | [Pride](https://open.spotify.com/track/5fTYOxtkQXksKM7Pbj6SQy) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 2:32 |
 | 962 | [Lucid State](https://open.spotify.com/track/4MtTyKwT4elaUjhKBJytmK) | [Fortune Teller](https://open.spotify.com/artist/6xllSn5EskHUgWGzc7cAsm) | [Lucid State](https://open.spotify.com/album/1Lx3tSvojHJx3JPfPk8fHo) | 3:17 |
+| 963 | [Mentawai](https://open.spotify.com/track/5BGKYf1DPjLLzeNNyZCtNt) | [Tony Rocha](https://open.spotify.com/artist/5IAqjbY4kei33bE9LUX6Sm) | [Messed Up](https://open.spotify.com/album/47irEOvWe6aeYqCORfxZWE) | 2:28 |
+| 964 | [Digan lo que digan](https://open.spotify.com/track/47HWicWuQGJhs2sAVrU9gL) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 3:25 |
+| 965 | [Stays the Same](https://open.spotify.com/track/5Ew8XPwCxXcw54xu02usGc) | [We Like Roy](https://open.spotify.com/artist/2ZCiTJNBxKhzZEap4jxbUd) | [Stays the Same](https://open.spotify.com/album/2I9H2U9iVxrfk4fjq1fi9P) | 2:48 |
+| 966 | [Black Dove](https://open.spotify.com/track/0iPr5uqEG0miQNy9lzFFoO) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Black Dove](https://open.spotify.com/album/2EcqnNIzYxk5VfilBpl98H) | 3:23 |
+| 967 | [Desert Roll](https://open.spotify.com/track/1i3jPowCNmyemFeiJtvLSA) | [A VIOLET IN YOUTH](https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB) | [Desert Roll, Exactly.](https://open.spotify.com/album/5s5LGNDHjvLzEkRDYKBkaE) | 3:21 |
+| 968 | [Ritual for the Unheard](https://open.spotify.com/track/5NjN0sZpDeUcs8uBNMVbTw) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Control Room Lullaby](https://open.spotify.com/album/41pmW1HV3QzClCAu6DXO46) | 3:20 |
+| 969 | [Vanity](https://open.spotify.com/track/7y4Nk2fKgkRXsSjNG5CFYg) | [RESENTLESS.](https://open.spotify.com/artist/55vgJME2WgJi6eq7bMsi6J) | [Vanity](https://open.spotify.com/album/2IhwgZkqWixLb13jSpeVu3) | 2:42 |
+| 970 | [Have Your Say](https://open.spotify.com/track/5G0y8rEfDcnsT6MyxquLmn) | [Friends With Boats](https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc) | [Have Your Say](https://open.spotify.com/album/3sJgNrX4tRIJlI4wJpVzNh) | 2:57 |
+| 971 | [Don't Walk Away](https://open.spotify.com/track/3D1liNWq6LpoQeyRVwbAMk) | [Shady Fat Kats](https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD) | [Don't Walk Away](https://open.spotify.com/album/2HG6l34yFT2pZPWTVhwnpC) | 3:00 |
+| 972 | [Мама](https://open.spotify.com/track/6QIcanmOeplhIMCcRLI9wy) | [Маша Яблокова](https://open.spotify.com/artist/4sB4FO6pJwDMBwRJC8ntrq) | [Мама](https://open.spotify.com/album/2mvZliBBjApA87BVln2xd2) | 4:46 |
+| 973 | [MAJJIK CAT EARS](https://open.spotify.com/track/0fNuqRQWwAnLMndmWFtjlq) | [Screaming Lord Byron](https://open.spotify.com/artist/3o2K8R7odtpShOCa08g5Hk) | [MAJJIK CAT EARS](https://open.spotify.com/album/0UvSfg6f8TuwkNC3jjU2aN) | 5:32 |
+| 974 | [Parley](https://open.spotify.com/track/2iyyYqU2vDXS1K73lHy5n6) | [Tortuga](https://open.spotify.com/artist/4QzhYIfvlEMycWybJ3wPHM) | [Parley](https://open.spotify.com/album/5pRrB8eyz78NlL5GnNBl0J) | 3:12 |
+| 975 | [The Perfect Buzz](https://open.spotify.com/track/4nIbtAyxR6yeBxgONwdtda) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [The Perfect Buzz](https://open.spotify.com/album/2kPgxCfeUcADkJSxT0jBtG) | 2:46 |
+| 976 | [We're Over \(Til Friday Night\)](https://open.spotify.com/track/3OqYtVlE8eP1hBTwxfmHG9) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [We're Over \(Til Friday Night\)](https://open.spotify.com/album/478mrtMoTEOSKZtbNBDQjs) | 3:13 |
+| 977 | [All Hands on Deck](https://open.spotify.com/track/5iYowUhG9CCkiPZStPbOUz) | [The Groggy Dogs](https://open.spotify.com/artist/29SKyg5bJTAExMKaOY30vk) | [No Grog No Glory](https://open.spotify.com/album/7wYvKsmA82cZsP0SdMHu0z) | 4:12 |
 
-Snapshot ID: `AAAD5cqYXe+sHtOkFcqxC/GLwSGD0jpY`
+Snapshot ID: `AAAD9OVPMlCA++3hjGUW/vL5Ibs/2ftC`

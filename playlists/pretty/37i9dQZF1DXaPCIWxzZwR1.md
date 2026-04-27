@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop<br/>Cover: Avery Cochrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,260,799 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,260,732 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 99 | [Almost Did](https://open.spotify.com/track/3eO4Rgv1UiBJRFXsXGUngq) | [Julia Campbell](https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud) | [Almost Did](https://open.spotify.com/album/4t8FPBUkiUwOjJhXJzjIsj) | 2:25 |
 | 100 | [Trauma Olympics](https://open.spotify.com/track/1AEuq3M34uZQflOK68Dmhl) | [James the Seventh](https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS) | [Mind Your Business](https://open.spotify.com/album/2dhlHnt3QwDwlO1L68jZIu) | 2:04 |
 
-Snapshot ID: `AAAAAFYkmpTRotRUVW9UANHeNLLi/gdn`
+Snapshot ID: `AAAAAFWsun9SGXKa650eVg+NTSl0AogX`

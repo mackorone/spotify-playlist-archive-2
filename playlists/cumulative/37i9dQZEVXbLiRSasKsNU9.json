@@ -5822,7 +5822,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 147500,
       "name": "An Eater",
       "url": "https://open.spotify.com/track/33YkiqLWsxzZdi8Z1AKyIk"
@@ -11004,7 +11004,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 215433,
       "name": "Beautiful (with Joji)",
       "url": "https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"
@@ -16844,10 +16844,28 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 180000,
       "name": "Catch Catch",
       "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
+    },
+    {
+      "album": {
+        "name": "Catch Catch (Chinese Ver.)",
+        "url": "https://open.spotify.com/album/1AI7g5WoesGtM3c5BROUoQ"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Catch Catch (Chinese Ver.)",
+      "url": "https://open.spotify.com/track/29rzWFatC5WwBw2YypQEzC"
     },
     {
       "album": {
@@ -22356,6 +22374,28 @@
       "duration_ms": 136459,
       "name": "delulu",
       "url": "https://open.spotify.com/track/1SE81pYo16nzr3vWfNzNlB"
+    },
+    {
+      "album": {
+        "name": "Demasiado",
+        "url": "https://open.spotify.com/album/3ktp3oCNrvg07DzfK7Ti3l"
+      },
+      "artists": [
+        {
+          "name": "Asmed",
+          "url": "https://open.spotify.com/artist/03LtkSHCEhzQtKTdt7R1Ad"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168666,
+      "name": "Demasiado",
+      "url": "https://open.spotify.com/track/29bjrg0oCg69lUOVN7NLLT"
     },
     {
       "album": {
@@ -86584,7 +86624,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 232720,
       "name": "That Should Be Me",
       "url": "https://open.spotify.com/track/0aPZbnkMoWJaJ5CNVLCj8S"

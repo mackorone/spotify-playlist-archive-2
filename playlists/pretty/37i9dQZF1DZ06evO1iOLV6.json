@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 12403,
+  "num_followers": 12406,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAACb9HejYjnMCvTPYIB5Kum1",
+  "snapshot_id": "aewEAAAAAAC9Q1AliT16w4pzmZFtmUbB",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm In Love",
+        "url": "https://open.spotify.com/album/1OiCzZuH7QlqqnX2sGe5VF"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 209638,
+      "name": "I'm In Love",
+      "url": "https://open.spotify.com/track/1V9xax1XoP0YpVp941UHJt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "African Soldier",
         "url": "https://open.spotify.com/album/6JtlTYRqiTbgJdYnVYnkan"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 166000,
       "name": "African Soldier",
       "url": "https://open.spotify.com/track/5O6WAlXfzQDsWhaqaQsh77"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm In Love",
-        "url": "https://open.spotify.com/album/1OiCzZuH7QlqqnX2sGe5VF"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 209638,
-      "name": "I'm In Love",
-      "url": "https://open.spotify.com/track/1V9xax1XoP0YpVp941UHJt"
     },
     {
       "added_at": null,
@@ -643,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 209502,
+      "name": "Something Nice",
+      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rudi (feat. Patoranking)",
         "url": "https://open.spotify.com/album/7GBbTkIxylA9vWLPJkBNDt"
       },
@@ -679,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
-      },
-      "artists": [
-        {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 209502,
-      "name": "Something Nice",
-      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sing My Name",
         "url": "https://open.spotify.com/album/2AuB1GPHlXcdzKrKrOwnAR"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 214769,
       "name": "Sing My Name",
       "url": "https://open.spotify.com/track/6zG9dqraRgFTDHxtYhLbQh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Jonze",
-        "url": "https://open.spotify.com/album/6xKQhBvfudkxhTYwXCQAob"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 157391,
-      "name": "No Jonze",
-      "url": "https://open.spotify.com/track/1SCdGgPJpO3r4e92NhqG6g"
     },
     {
       "added_at": null,
@@ -755,6 +739,22 @@
       "duration_ms": 217710,
       "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
       "url": "https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Jonze",
+        "url": "https://open.spotify.com/album/6xKQhBvfudkxhTYwXCQAob"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 157391,
+      "name": "No Jonze",
+      "url": "https://open.spotify.com/track/1SCdGgPJpO3r4e92NhqG6g"
     },
     {
       "added_at": null,
@@ -819,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wilmer",
+        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Bera",
+          "url": "https://open.spotify.com/artist/280SVkMc8Ij2T4n6EMhWuB"
+        }
+      ],
+      "duration_ms": 224597,
+      "name": "Wilmer (feat. Bera)",
+      "url": "https://open.spotify.com/track/4BSYq4DF84PXs9i7P8comh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sober (Soo Bad)",
         "url": "https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU"
       },
@@ -835,30 +855,6 @@
       "duration_ms": 220206,
       "name": "Sober (Soo Bad)",
       "url": "https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seyi or Shay",
-        "url": "https://open.spotify.com/album/0TRPmOkkAXYNxfIsvBLkIm"
-      },
-      "artists": [
-        {
-          "name": "Seyi Shay",
-          "url": "https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Shaydee",
-          "url": "https://open.spotify.com/artist/3fgi4lDoL6eyhj2sKsKKpa"
-        }
-      ],
-      "duration_ms": 228884,
-      "name": "Murda",
-      "url": "https://open.spotify.com/track/3z2SygkbAZOTrj5FK1MdbP"
     },
     {
       "added_at": null,
@@ -887,22 +883,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilmer",
-        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
+        "name": "Seyi or Shay",
+        "url": "https://open.spotify.com/album/0TRPmOkkAXYNxfIsvBLkIm"
       },
       "artists": [
+        {
+          "name": "Seyi Shay",
+          "url": "https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K"
+        },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         },
         {
-          "name": "Bera",
-          "url": "https://open.spotify.com/artist/280SVkMc8Ij2T4n6EMhWuB"
+          "name": "Shaydee",
+          "url": "https://open.spotify.com/artist/3fgi4lDoL6eyhj2sKsKKpa"
         }
       ],
-      "duration_ms": 224597,
-      "name": "Wilmer (feat. Bera)",
-      "url": "https://open.spotify.com/track/4BSYq4DF84PXs9i7P8comh"
+      "duration_ms": 228884,
+      "name": "Murda",
+      "url": "https://open.spotify.com/track/3z2SygkbAZOTrj5FK1MdbP"
     },
     {
       "added_at": null,

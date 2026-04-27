@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like sad hour, with Mulaa Joans
 
-1,044 songs - 2 day 9 hr 29 min
+1,045 songs - 2 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Angry](https://open.spotify.com/track/46yC5Rfbg3x7AfrZb03c6N) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Angry](https://open.spotify.com/album/2L8qlmvnwChGR7OCNPTqY5) | 2:50 | 2022-10-14 | 2022-12-17 |
 | [Another Life](https://open.spotify.com/track/6ALA4ufYLfN5hC4lxBX4FV) | [Carter Ryan](https://open.spotify.com/artist/2hg54ZO1N0bQXbTlLKWSnc) | [Another Life](https://open.spotify.com/album/0M1oXyAjSf50NtJmp3GQHP) | 3:00 | 2024-04-26 | 2024-06-29 |
 | [Anxious](https://open.spotify.com/track/63aEUl2Mq4KAuuEkai3LgJ) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Anxious](https://open.spotify.com/album/2I65asGzHk1UogiMuM0BIe) | 2:26 | 2024-06-28 | 2024-07-13 |
+| [Anymore](https://open.spotify.com/track/0mWmLVtSUrAqpbueDcDJ3U) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Everything Is About You](https://open.spotify.com/album/4W7Hd3QDV9RmuM7Td0GOfI) | 2:37 | 2026-04-24 |  |
 | [Anymore Anyway](https://open.spotify.com/track/20FQ09T8gLYKCFqB4PzFJa) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Anymore Anyway](https://open.spotify.com/album/7uvNGOWyy7nR40Ovi5UinP) | 2:42 | 2022-04-15 | 2022-04-23 |
 | [Anywhere](https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:11 | 2023-09-22 | 2023-10-25 |
 | [As It Was \- Spotify Singles](https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w) | 3:26 | 2022-08-26 | 2023-08-05 |
@@ -898,7 +899,7 @@
 | [the reason i hate home](https://open.spotify.com/track/4ONM0At2H9s1rjIZ9ROxRj) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [the reason i hate home](https://open.spotify.com/album/60w9GszHHtExusXvbenVKz) | 2:43 | 2022-05-13 | 2022-07-28 |
 | [The Sick](https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [The Sick](https://open.spotify.com/album/0nkCKW79JSfRkqpPvz9lPs) | 3:15 | 2025-08-05 |  |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-01 |  |
-| [The Summer I Turned Pretty](https://open.spotify.com/track/105SJWvzj7LVZt0AuQD2tf) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [The Summer I Turned Pretty](https://open.spotify.com/album/6tL6m2hNIeWTf4JD3PyTnC) | 3:13 | 2026-02-20 |  |
+| [The Summer I Turned Pretty](https://open.spotify.com/track/105SJWvzj7LVZt0AuQD2tf) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [The Summer I Turned Pretty](https://open.spotify.com/album/6tL6m2hNIeWTf4JD3PyTnC) | 3:13 | 2026-02-20 | 2026-04-27 |
 | [The Trauma and The Pleasure](https://open.spotify.com/track/4UOTmg9TBVTUibdKnPYzKt) | [Cameron Sanderson](https://open.spotify.com/artist/182llcVnhxpVBBmfSElMHX) | [If We Were a Film, We'd Be a Sad One](https://open.spotify.com/album/4b3xIi8eyBNWbrIAkX7GoA) | 3:13 | 2021-12-17 | 2022-03-26 |
 | [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 | 2026-04-10 |  |
 | [The Way a Heart Breaks](https://open.spotify.com/track/0Bu17sNQtoxhPITYpxdblf) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:51 | 2025-10-24 |  |

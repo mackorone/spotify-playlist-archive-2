@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,873 likes - 50 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,883 likes - 50 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 28 | [Nunca Me Avergonzaré](https://open.spotify.com/track/3RHcgn1rUBLbyOpVjouGra) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8) | 4:10 |
 | 29 | [Si Tú Estás Conmigo \- En Vivo](https://open.spotify.com/track/5RJ22zADrNKHYZjFB4718o) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l), [Stefy Espinosa](https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8) | [Obra de Tu Amor](https://open.spotify.com/album/6XYbEcqn7QcbLlJbfwdbS2) | 4:05 |
 | 30 | [Somos Tu Iglesia \- En Vivo](https://open.spotify.com/track/4Zt6DdmiRE5JNIxrx4cQq5) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [d.nyl](https://open.spotify.com/artist/6RgPTfxsFtycQgzm9rLOU5), [Lorena Gamba Castellanos](https://open.spotify.com/artist/2BbfuuUGnzw9r4BFTN7iT6), [Julian Gamba](https://open.spotify.com/artist/10a3kp2IK6PTgCAYH6BuSh) | [Sana Nuestra Nación](https://open.spotify.com/album/21FcQ9b3whbOUi5m7opU4p) | 7:52 |
-| 31 | [Bautízame](https://open.spotify.com/track/5YDpjsYWuromv6xxN7ybwr) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Seamos Luz](https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z) | 7:13 |
+| 31 | [Danzando](https://open.spotify.com/track/4ZoWQIxfgj8WiN3m3U3XYk) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV) | [Tu Amor No Tiene Fin](https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz) | 5:01 |
 | 32 | [Cuanto Más Me Rindo](https://open.spotify.com/track/0pFfRrm4fBCrOy5S6cQNc6) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8) | 6:16 |
-| 33 | [Danzando](https://open.spotify.com/track/4ZoWQIxfgj8WiN3m3U3XYk) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV) | [Tu Amor No Tiene Fin](https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz) | 5:01 |
+| 33 | [Bautízame](https://open.spotify.com/track/5YDpjsYWuromv6xxN7ybwr) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Seamos Luz](https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z) | 7:13 |
 | 34 | [Jesús, Eres el Centro \- En Vivo](https://open.spotify.com/track/5XQH7EKgaMGX6VpeKAX92J) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/6XYbEcqn7QcbLlJbfwdbS2) | 8:07 |
 | 35 | [Mientras Viva](https://open.spotify.com/track/7zb5D4QJq2FEMZ8dufoIqI) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE) | 3:28 |
 | 36 | [Tu Nombre Santo Es](https://open.spotify.com/track/6q4pu6sxXBRst4nvYbdf56) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8) | 7:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 49 | [Hacedor De Milagros](https://open.spotify.com/track/3cITpsmVQMnBq0RX6EXfEW) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE) | 5:42 |
 | 50 | [Permaneceré En Tí](https://open.spotify.com/track/3iQlUC6yKzocYAvFNtKTI9) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Seamos Luz](https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z) | 4:18 |
 
-Snapshot ID: `aeqygAAAAABZ+cBta0+B9osQ6/BG9T0N`
+Snapshot ID: `aewEAAAAAACnkD3Y/H1uUYcN/IieBzLV`

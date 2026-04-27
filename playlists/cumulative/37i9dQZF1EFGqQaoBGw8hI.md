@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-734 songs - 2 day 2 hr 54 min
+735 songs - 2 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [Look Ma, No Hands](https://open.spotify.com/track/07p0uEk2UznuI56V5Xly3B) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:22 | 2022-09-08 |  |
 | [Looking Up](https://open.spotify.com/track/5fOsO9KAvay8VY7Wr6p3BY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 4:06 | 2022-09-08 |  |
 | [Lord Of The Flies](https://open.spotify.com/track/0FMPjB9iuFP01ware69epp) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:40 | 2022-11-16 |  |
+| [Lose Control](https://open.spotify.com/track/7f6kRhjrpsZzfcpI0o7xVr) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [ADL](https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3) | 2:39 | 2026-04-26 |  |
 | [Loučení](https://open.spotify.com/track/4intsoHfgFi43gtk5OCE7i) | [Zora Jandová](https://open.spotify.com/artist/50LmFlbKjhGBX8vlRHDNWz), [Martin Stropnický](https://open.spotify.com/artist/7Jj9aiJaRi6CZlmMnJWqSL) | [Tisíckrát](https://open.spotify.com/album/1VVAd7oKlLjsU037Nx058X) | 3:49 | 2023-06-05 |  |
 | [Love Builds a Garden](https://open.spotify.com/track/0CjPt6FMbL18Q2WThDHTTb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 3:34 | 2022-09-08 |  |
 | [Love Her Like Me](https://open.spotify.com/track/4QRoLbpMElBejhYvU5MSni) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 3:58 | 2022-09-08 |  |

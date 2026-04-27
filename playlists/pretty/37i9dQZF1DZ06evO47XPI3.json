@@ -1,12 +1,12 @@
 {
   "description": "This is The Delfonics. The essential tracks, all in one playlist.",
-  "num_followers": 12795,
+  "num_followers": 12794,
   "original_name": "This Is The Delfonics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAACl4pj07VC0OCI1EgGqAj8x",
+  "snapshot_id": "aewEAAAAAAC6Ri9PrmWn2dEyILrB3ll0",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Delfonics",
-        "url": "https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ"
+        "name": "Tell Me This Is a Dream (Expanded Version)",
+        "url": "https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 125386,
-      "name": "Going Out of My Head - Remastered",
-      "url": "https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh"
+      "duration_ms": 182280,
+      "name": "Walk Right Up to the Sun",
+      "url": "https://open.spotify.com/track/0YkyLCW2dNHZFRjNbrrwkK"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me This Is a Dream (Expanded Version)",
-        "url": "https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw"
+        "name": "The Essential Delfonics",
+        "url": "https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 182280,
-      "name": "Walk Right Up to the Sun",
-      "url": "https://open.spotify.com/track/0YkyLCW2dNHZFRjNbrrwkK"
+      "duration_ms": 125386,
+      "name": "Going Out of My Head - Remastered",
+      "url": "https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive & Kicking",
-        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 241348,
-      "name": "Lying To Myself",
-      "url": "https://open.spotify.com/track/4oTR05VVXSgVEFmN374D61"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best of The Delfonics",
         "url": "https://open.spotify.com/album/6dGq7ylBWxGhVU1TDy2SH2"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 300710,
       "name": "For the Love I Gave to You",
       "url": "https://open.spotify.com/track/5jCZ4OQB2RtFeMnJIfRuSM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alive & Kicking",
+        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 241348,
+      "name": "Lying To Myself",
+      "url": "https://open.spotify.com/track/4oTR05VVXSgVEFmN374D61"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of The Best Vol. 1",
-        "url": "https://open.spotify.com/album/1O9s8jH1RC627KYGCw0vJJ"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 223082,
-      "name": "Didn't I Blow Your Mind - Re-Record",
-      "url": "https://open.spotify.com/track/7hl3HTDS0U9PvMeO1jkOSq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sound Of Sexy Soul",
         "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 168106,
       "name": "My New Love",
       "url": "https://open.spotify.com/track/0GvFz5xC9ksgz44l7RrCK3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of The Best Vol. 1",
+        "url": "https://open.spotify.com/album/1O9s8jH1RC627KYGCw0vJJ"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 223082,
+      "name": "Didn't I Blow Your Mind - Re-Record",
+      "url": "https://open.spotify.com/track/7hl3HTDS0U9PvMeO1jkOSq"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Philly Groove Rarities",
+        "url": "https://open.spotify.com/album/0MIUv5Km6ohmE66bKakj9G"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 269560,
+      "name": "The Same Things That Make You Laugh",
+      "url": "https://open.spotify.com/track/4M9NPX9foQIqwOE2waGE9C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Delfonics vs Ray, Goodman & Brown Live In Concert",
         "url": "https://open.spotify.com/album/4VOJpxfPuOTxCxYBKe1QQ5"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 98469,
       "name": "Intro MC for The Delfonics Concert - Live",
       "url": "https://open.spotify.com/track/5Azq2UGW0k6Y7DhkdY4YNT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Philly Groove Rarities",
-        "url": "https://open.spotify.com/album/0MIUv5Km6ohmE66bKakj9G"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 269560,
-      "name": "The Same Things That Make You Laugh",
-      "url": "https://open.spotify.com/track/4M9NPX9foQIqwOE2waGE9C"
     },
     {
       "added_at": null,

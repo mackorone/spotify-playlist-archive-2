@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 251063,
+  "num_followers": 251096,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAAC6WKcNpSDZxwL+6UzusFZQ",
+  "snapshot_id": "aewEAAAAAACjPJ8NRK7+lGGKOWpjbdFA",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 276746,
-      "name": "Un attimo di pace",
-      "url": "https://open.spotify.com/track/0LadgEv7wA33HaHEvuVcyd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuovi Eroi [35th Anniversary Edition (Remastered 192 khz)]",
         "url": "https://open.spotify.com/album/2f5XCS5aYFMyxzIz7uKcMU"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 251893,
       "name": "Una storia importante - Remastered 2021",
       "url": "https://open.spotify.com/track/0Ji0XFJtiOoqNt2RWSbpPZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 276746,
+      "name": "Un attimo di pace",
+      "url": "https://open.spotify.com/track/0LadgEv7wA33HaHEvuVcyd"
     },
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ali E Radici",
+        "url": "https://open.spotify.com/album/2L2i5rfV3tWOUTrJhXXp6R"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Parla con me",
+      "url": "https://open.spotify.com/track/7ItTMytYO4hyglSAn2C9xE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UNA STORIA IMPORTANTE",
         "url": "https://open.spotify.com/album/5TjpjQjp7xKgEJRrzXSijO"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 182522,
       "name": "Come nei film (feat. Max Pezzali)",
       "url": "https://open.spotify.com/track/0Ssh4cYMdhuwYhfDjz1uAS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ali E Radici",
-        "url": "https://open.spotify.com/album/2L2i5rfV3tWOUTrJhXXp6R"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Parla con me",
-      "url": "https://open.spotify.com/track/7ItTMytYO4hyglSAn2C9xE"
     },
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNA HISTORIA IMPORTANTE",
-        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 309191,
-      "name": "L'aurora (feat. Alicia Keys)",
-      "url": "https://open.spotify.com/track/2KWeyq9rNnXLubrBqUw1zC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sogno",
         "url": "https://open.spotify.com/album/3fKfyzmHnCsdCw4iD3xIch"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 223521,
       "name": "Nel cuore lei",
       "url": "https://open.spotify.com/track/7mlmpmwrkMKcU94jXRAaPy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNA HISTORIA IMPORTANTE",
+        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 309191,
+      "name": "L'aurora (feat. Alicia Keys)",
+      "url": "https://open.spotify.com/track/2KWeyq9rNnXLubrBqUw1zC"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 252826,
-      "name": "Completamente Enamorados - Remastered 2021",
-      "url": "https://open.spotify.com/track/47I0PofqOKEL3QGvlFGC0D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dietro Le Apparenze",
         "url": "https://open.spotify.com/album/2rOZXRaWqDzbGdISSDQXjC"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 279666,
       "name": "Estrella Gemela",
       "url": "https://open.spotify.com/track/2w5KTTp4DLF5vJ4Xk6Y7bb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 252826,
+      "name": "Completamente Enamorados - Remastered 2021",
+      "url": "https://open.spotify.com/track/47I0PofqOKEL3QGvlFGC0D"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNA HISTORIA IMPORTANTE",
-        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 223451,
-      "name": "Solo junto a ti",
-      "url": "https://open.spotify.com/track/288ROgndq3ayHvXiuOZGla"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 270080,
       "name": "Ti vorrei rivivere",
       "url": "https://open.spotify.com/track/37C68LgK0KGays4MYetqOT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNA HISTORIA IMPORTANTE",
+        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 223451,
+      "name": "Solo junto a ti",
+      "url": "https://open.spotify.com/track/288ROgndq3ayHvXiuOZGla"
     },
     {
       "added_at": null,

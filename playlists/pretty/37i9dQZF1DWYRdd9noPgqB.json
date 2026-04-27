@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 299149,
+  "num_followers": 299140,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAJLj3MVYJG8tcWLURhDYVOO5NvVC",
   "tracks": [
-    {
-      "added_at": "2026-04-23 22:03:15",
-      "album": {
-        "name": "Kansas Anymore (The Longest Goodbye)",
-        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 218660,
-      "name": "Sally, When The Wine Runs Out",
-      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
-    },
     {
       "added_at": "2026-04-23 22:03:15",
       "album": {
@@ -43,18 +27,18 @@
     {
       "added_at": "2026-04-23 22:03:15",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
         }
       ],
-      "duration_ms": 168767,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
+      "duration_ms": 218660,
+      "name": "Sally, When The Wine Runs Out",
+      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
     },
     {
       "added_at": "2026-04-23 22:03:15",
@@ -71,6 +55,22 @@
       "duration_ms": 239333,
       "name": "Madwoman",
       "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
+    },
+    {
+      "added_at": "2026-04-23 22:03:15",
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 168767,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
     },
     {
       "added_at": "2026-04-23 22:03:15",
@@ -95,22 +95,6 @@
     {
       "added_at": "2026-04-23 22:03:15",
       "album": {
-        "name": "Kansas Anymore",
-        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 169974,
-      "name": "Writing's On The Wall",
-      "url": "https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr"
-    },
-    {
-      "added_at": "2026-04-23 22:03:15",
-      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 251861,
       "name": "Echo From The Flames",
       "url": "https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7"
+    },
+    {
+      "added_at": "2026-04-23 22:03:15",
+      "album": {
+        "name": "Kansas Anymore",
+        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 169974,
+      "name": "Writing's On The Wall",
+      "url": "https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr"
     },
     {
       "added_at": "2026-04-23 22:03:15",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-04-23 22:03:15",
       "album": {
-        "name": "Yellow Eyes",
-        "url": "https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 162096,
-      "name": "Yellow Eyes",
-      "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
-    },
-    {
-      "added_at": "2026-04-23 22:03:15",
-      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 199477,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U"
+    },
+    {
+      "added_at": "2026-04-23 22:03:15",
+      "album": {
+        "name": "Yellow Eyes",
+        "url": "https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 162096,
+      "name": "Yellow Eyes",
+      "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
     },
     {
       "added_at": "2026-04-23 22:03:15",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-04-23 22:03:15",
       "album": {
-        "name": "These Nights",
-        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 279183,
-      "name": "These Nights",
-      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
-    },
-    {
-      "added_at": "2026-04-23 22:03:15",
-      "album": {
         "name": "Don't Remind Me (with Anderson .Paak)",
         "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 218472,
       "name": "Don't Remind Me (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
+    },
+    {
+      "added_at": "2026-04-23 22:03:15",
+      "album": {
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 279183,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
     },
     {
       "added_at": "2026-04-23 22:03:15",
@@ -619,6 +619,26 @@
     {
       "added_at": "2026-04-23 22:03:15",
       "album": {
+        "name": "Fucked Up",
+        "url": "https://open.spotify.com/album/1N5sezYxUOFRCPibUnR9aQ"
+      },
+      "artists": [
+        {
+          "name": "Reverend And The Makers",
+          "url": "https://open.spotify.com/artist/14GEKKALFIO2oB9IdGXg2e"
+        },
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Fucked Up",
+      "url": "https://open.spotify.com/track/7pAvvhOV8QN34jMl4jnisj"
+    },
+    {
+      "added_at": "2026-04-23 22:03:15",
+      "album": {
         "name": "What A Night",
         "url": "https://open.spotify.com/album/4BNxDvVKgVuwghrLdQRrfB"
       },
@@ -703,6 +723,30 @@
     {
       "added_at": "2026-04-23 22:03:15",
       "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/3HpHW9r9grbAHVflpDttMU"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        },
+        {
+          "name": "Avi Snow",
+          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
+        }
+      ],
+      "duration_ms": 183157,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/64RtBPP0NXkUA0N79pDE4P"
+    },
+    {
+      "added_at": "2026-04-23 22:03:15",
+      "album": {
         "name": "Children of the Baked Potato",
         "url": "https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In"
       },
@@ -735,6 +779,22 @@
     {
       "added_at": "2026-04-23 22:03:15",
       "album": {
+        "name": "Give Me More",
+        "url": "https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 190745,
+      "name": "Give Me More",
+      "url": "https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ"
+    },
+    {
+      "added_at": "2026-04-23 22:03:15",
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/6I8YtUNtTpKIU2SJPRVfId"
       },
@@ -755,46 +815,6 @@
     {
       "added_at": "2026-04-23 22:03:15",
       "album": {
-        "name": "Give Me More",
-        "url": "https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 190745,
-      "name": "Give Me More",
-      "url": "https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ"
-    },
-    {
-      "added_at": "2026-04-23 22:03:15",
-      "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/3HpHW9r9grbAHVflpDttMU"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        },
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        },
-        {
-          "name": "Avi Snow",
-          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/64RtBPP0NXkUA0N79pDE4P"
-    },
-    {
-      "added_at": "2026-04-23 22:03:15",
-      "album": {
         "name": "Divinations (Outtakes Edition)",
         "url": "https://open.spotify.com/album/0H7Ygy8UZ1FBz5N2LKRpjq"
       },
@@ -807,6 +827,22 @@
       "duration_ms": 173680,
       "name": "Lonestar",
       "url": "https://open.spotify.com/track/2PKMshAIk4X87ribaota1Y"
+    },
+    {
+      "added_at": "2026-04-23 22:03:15",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/60WKdl73IpqWlbwEINjhBe"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 160220,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/59ibpnGNQLxhg5rnQVNxOn"
     },
     {
       "added_at": "2026-04-23 22:03:15",
@@ -827,22 +863,6 @@
     {
       "added_at": "2026-04-23 22:03:15",
       "album": {
-        "name": "Electronicity",
-        "url": "https://open.spotify.com/album/3WPR5y3pK1RW3GMt9ivjUC"
-      },
-      "artists": [
-        {
-          "name": "Lewis OfMan",
-          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "Electronicity",
-      "url": "https://open.spotify.com/track/12JADuvXNQXZFwLcfob4QY"
-    },
-    {
-      "added_at": "2026-04-23 22:03:15",
-      "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
       },
@@ -859,26 +879,34 @@
     {
       "added_at": "2026-04-23 22:03:15",
       "album": {
-        "name": "Turn It On",
-        "url": "https://open.spotify.com/album/0SdouN0Ag8ZNj9Kdtrw8NB"
+        "name": "Whether I Win or Lose",
+        "url": "https://open.spotify.com/album/6qFJGE4q3yu20PrJu4cTpr"
       },
       "artists": [
         {
           "name": "Saults",
           "url": "https://open.spotify.com/artist/0v3GJQVtEdCbwnKpCUwOE8"
-        },
-        {
-          "name": "Nic Hanson",
-          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
-        },
-        {
-          "name": "Gabe Costa",
-          "url": "https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR"
         }
       ],
-      "duration_ms": 183360,
-      "name": "Turn It On",
-      "url": "https://open.spotify.com/track/4e6cFfzPcHNyvsrSyh86wH"
+      "duration_ms": 242460,
+      "name": "Whether I Win or Lose",
+      "url": "https://open.spotify.com/track/7icgSLNDP90O7g7PwTpX6d"
+    },
+    {
+      "added_at": "2026-04-23 22:03:15",
+      "album": {
+        "name": "Electronicity",
+        "url": "https://open.spotify.com/album/3WPR5y3pK1RW3GMt9ivjUC"
+      },
+      "artists": [
+        {
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "Electronicity",
+      "url": "https://open.spotify.com/track/12JADuvXNQXZFwLcfob4QY"
     },
     {
       "added_at": "2026-04-23 22:03:15",
@@ -895,22 +923,6 @@
       "duration_ms": 174751,
       "name": "Not What\u2019s Going On",
       "url": "https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S"
-    },
-    {
-      "added_at": "2026-04-23 22:03:15",
-      "album": {
-        "name": "Here We Go Again",
-        "url": "https://open.spotify.com/album/4THNExkJ80NtafCGJADvar"
-      },
-      "artists": [
-        {
-          "name": "Pacific Avenue",
-          "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
-        }
-      ],
-      "duration_ms": 251718,
-      "name": "Here We Go Again",
-      "url": "https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz"
     },
     {
       "added_at": "2026-04-23 22:03:15",
@@ -947,34 +959,42 @@
     {
       "added_at": "2026-04-23 22:03:15",
       "album": {
-        "name": "Whether I Win or Lose",
-        "url": "https://open.spotify.com/album/6qFJGE4q3yu20PrJu4cTpr"
+        "name": "Turn It On",
+        "url": "https://open.spotify.com/album/0SdouN0Ag8ZNj9Kdtrw8NB"
       },
       "artists": [
         {
           "name": "Saults",
           "url": "https://open.spotify.com/artist/0v3GJQVtEdCbwnKpCUwOE8"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        },
+        {
+          "name": "Gabe Costa",
+          "url": "https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR"
         }
       ],
-      "duration_ms": 242460,
-      "name": "Whether I Win or Lose",
-      "url": "https://open.spotify.com/track/7icgSLNDP90O7g7PwTpX6d"
+      "duration_ms": 183360,
+      "name": "Turn It On",
+      "url": "https://open.spotify.com/track/4e6cFfzPcHNyvsrSyh86wH"
     },
     {
       "added_at": "2026-04-23 22:03:15",
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca"
+        "name": "Here We Go Again",
+        "url": "https://open.spotify.com/album/4THNExkJ80NtafCGJADvar"
       },
       "artists": [
         {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+          "name": "Pacific Avenue",
+          "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
         }
       ],
-      "duration_ms": 247588,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT"
+      "duration_ms": 251718,
+      "name": "Here We Go Again",
+      "url": "https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz"
     },
     {
       "added_at": "2026-04-23 22:03:15",
@@ -1007,22 +1027,6 @@
       "duration_ms": 257609,
       "name": "Hear Me Out",
       "url": "https://open.spotify.com/track/1BfgpUJslvd4JJI1Hz49ZQ"
-    },
-    {
-      "added_at": "2026-04-23 22:03:15",
-      "album": {
-        "name": "555",
-        "url": "https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k"
-      },
-      "artists": [
-        {
-          "name": "Soran",
-          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
-        }
-      ],
-      "duration_ms": 198287,
-      "name": "555",
-      "url": "https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3"
     }
   ],
   "unique_name": "Feel Good",

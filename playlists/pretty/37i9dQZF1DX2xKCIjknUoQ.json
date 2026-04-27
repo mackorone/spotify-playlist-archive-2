@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 57052,
+  "num_followers": 57065,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "Revolution.com",
-        "url": "https://open.spotify.com/album/2ARdTJwLcGdw0GGhbeEfSo"
-      },
-      "artists": [
-        {
-          "name": "No One Is Innocent",
-          "url": "https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3"
-        }
-      ],
-      "duration_ms": 207173,
-      "name": "revolution.com",
-      "url": "https://open.spotify.com/track/7ciDK4wg2Lmk7KaoWWYtgg"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "Pamplemousse M\u00e9canique (Edition Eurovision + 1 titre bonus)",
         "url": "https://open.spotify.com/album/58SdE4Iofh5Y1jZi5HRDBu"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
+        "name": "Revolution.com",
+        "url": "https://open.spotify.com/album/2ARdTJwLcGdw0GGhbeEfSo"
+      },
+      "artists": [
+        {
+          "name": "No One Is Innocent",
+          "url": "https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3"
+        }
+      ],
+      "duration_ms": 207173,
+      "name": "revolution.com",
+      "url": "https://open.spotify.com/track/7ciDK4wg2Lmk7KaoWWYtgg"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
         "name": "Cr\u00e8vecoeur (2019 remastered)",
         "url": "https://open.spotify.com/album/5brOhiGaSGy404g0CaY3Yf"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 199960,
       "name": "Je me souviens, je me rappelle",
       "url": "https://open.spotify.com/track/3vgmRlBi986YeWV95UNgJ6"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
-        "name": "Aston Villa",
-        "url": "https://open.spotify.com/album/6JkbhM2APycjDSEV6e1vlm"
-      },
-      "artists": [
-        {
-          "name": "Astonvilla",
-          "url": "https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7"
-        }
-      ],
-      "duration_ms": 307440,
-      "name": "Raisonne",
-      "url": "https://open.spotify.com/track/7hSTh1YWoPGMlVnevO6Rev"
     },
     {
       "added_at": "2025-11-13 09:07:41",
@@ -779,6 +763,22 @@
       "duration_ms": 175173,
       "name": "Chirac En Prison",
       "url": "https://open.spotify.com/track/7kZwIyIu8k8RWnEriuGEqp"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "Aston Villa",
+        "url": "https://open.spotify.com/album/6JkbhM2APycjDSEV6e1vlm"
+      },
+      "artists": [
+        {
+          "name": "Astonvilla",
+          "url": "https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7"
+        }
+      ],
+      "duration_ms": 307440,
+      "name": "Raisonne",
+      "url": "https://open.spotify.com/track/7hSTh1YWoPGMlVnevO6Rev"
     },
     {
       "added_at": "2025-11-13 09:07:41",

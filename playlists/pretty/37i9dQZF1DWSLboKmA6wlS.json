@@ -1,6 +1,6 @@
 {
   "description": "\u0e1f\u0e31\u0e07\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Jduck. Artwork: Isu Kim",
-  "num_followers": 12281,
+  "num_followers": 12279,
   "original_name": "Fresh Finds Thailand",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-03-20 08:36:57",
       "album": {
-        "name": "\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Anhedonia)",
-        "url": "https://open.spotify.com/album/69ydaTMWuuO7Vngzszjugb"
-      },
-      "artists": [
-        {
-          "name": "SWANOVFIELD",
-          "url": "https://open.spotify.com/artist/3DOyQq6QzQaXTP6f2LP3lc"
-        }
-      ],
-      "duration_ms": 236691,
-      "name": "\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Anhedonia)",
-      "url": "https://open.spotify.com/track/04T2wqBL7TxrunD5fpgOK0"
-    },
-    {
-      "added_at": "2026-03-20 08:36:57",
-      "album": {
         "name": "\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e43\u0e19\u0e2d\u0e27\u0e01\u0e32\u0e28",
         "url": "https://open.spotify.com/album/4WzbhAB3tUKYzijkOw12Db"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 237000,
       "name": "\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e43\u0e19\u0e2d\u0e27\u0e01\u0e32\u0e28",
       "url": "https://open.spotify.com/track/0vzGIITHJKVGwbBjtrQMgk"
+    },
+    {
+      "added_at": "2026-03-20 08:36:57",
+      "album": {
+        "name": "\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Anhedonia)",
+        "url": "https://open.spotify.com/album/69ydaTMWuuO7Vngzszjugb"
+      },
+      "artists": [
+        {
+          "name": "SWANOVFIELD",
+          "url": "https://open.spotify.com/artist/3DOyQq6QzQaXTP6f2LP3lc"
+        }
+      ],
+      "duration_ms": 236691,
+      "name": "\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Anhedonia)",
+      "url": "https://open.spotify.com/track/04T2wqBL7TxrunD5fpgOK0"
     },
     {
       "added_at": "2026-03-20 08:36:57",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-03-20 08:36:57",
       "album": {
-        "name": "\u0e19\u0e34\u0e17\u0e32\u0e19\u0e2b\u0e25\u0e2d\u0e01\u0e40\u0e14\u0e47\u0e01 (fairytale)",
-        "url": "https://open.spotify.com/album/5e7aho7zMkYHZlklzyVBu6"
-      },
-      "artists": [
-        {
-          "name": "zene",
-          "url": "https://open.spotify.com/artist/0BOZsgBYGqT4E25Wta1Hru"
-        }
-      ],
-      "duration_ms": 170893,
-      "name": "\u0e19\u0e34\u0e17\u0e32\u0e19\u0e2b\u0e25\u0e2d\u0e01\u0e40\u0e14\u0e47\u0e01 (fairytale)",
-      "url": "https://open.spotify.com/track/2Im2FwYxknMHkbcfIqmbHB"
-    },
-    {
-      "added_at": "2026-03-20 08:36:57",
-      "album": {
         "name": "\u0e2d\u0e22\u0e32\u0e01\u0e1a\u0e2d\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 (One Last Goodbye)",
         "url": "https://open.spotify.com/album/1QyUtGkK9u8GClUFv54mXG"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2026-03-20 08:36:57",
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/3noHrPKz3uCkSQmpRoJqKo"
+        "name": "\u0e19\u0e34\u0e17\u0e32\u0e19\u0e2b\u0e25\u0e2d\u0e01\u0e40\u0e14\u0e47\u0e01 (fairytale)",
+        "url": "https://open.spotify.com/album/5e7aho7zMkYHZlklzyVBu6"
       },
       "artists": [
         {
-          "name": "Chermin",
-          "url": "https://open.spotify.com/artist/5LcWM9WkyHFOHI6bMMMAc6"
+          "name": "zene",
+          "url": "https://open.spotify.com/artist/0BOZsgBYGqT4E25Wta1Hru"
         }
       ],
-      "duration_ms": 223000,
-      "name": "First Take",
-      "url": "https://open.spotify.com/track/3yZgdkXPYaXqkU2tTEZ63d"
+      "duration_ms": 170893,
+      "name": "\u0e19\u0e34\u0e17\u0e32\u0e19\u0e2b\u0e25\u0e2d\u0e01\u0e40\u0e14\u0e47\u0e01 (fairytale)",
+      "url": "https://open.spotify.com/track/2Im2FwYxknMHkbcfIqmbHB"
     },
     {
       "added_at": "2026-03-20 08:36:57",
@@ -783,6 +767,22 @@
       "duration_ms": 226192,
       "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e23\u0e31\u0e01\u0e04\u0e19\u0e43\u0e2b\u0e21\u0e48 - Before",
       "url": "https://open.spotify.com/track/4aNgOJCasw7aKsffY74L9w"
+    },
+    {
+      "added_at": "2026-03-20 08:36:57",
+      "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/3noHrPKz3uCkSQmpRoJqKo"
+      },
+      "artists": [
+        {
+          "name": "Chermin",
+          "url": "https://open.spotify.com/artist/5LcWM9WkyHFOHI6bMMMAc6"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "First Take",
+      "url": "https://open.spotify.com/track/3yZgdkXPYaXqkU2tTEZ63d"
     },
     {
       "added_at": "2026-03-20 08:36:57",

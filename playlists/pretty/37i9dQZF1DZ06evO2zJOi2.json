@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 754835,
+  "num_followers": 754971,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAAAZP6bszy6VbZUCkw2rAlue",
+  "snapshot_id": "aewEAAAAAACTbgIjpsXuAVUb4yR2Uud6",
   "tracks": [
     {
       "added_at": null,
@@ -363,30 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "McArthur",
-        "url": "https://open.spotify.com/album/7tFDlNV1A2uRLdgArEKYuj"
+        "name": "I Can't Love You Anymore",
+        "url": "https://open.spotify.com/album/5BFfobflVIOwebqy5RtBcP"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 231533,
-      "name": "McArthur",
-      "url": "https://open.spotify.com/track/6yOHshc12fwMtM74xoy4je"
+      "duration_ms": 228836,
+      "name": "I Can't Love You Anymore",
+      "url": "https://open.spotify.com/track/5aVBxVa0kz9uzv0F4gwdEn"
     },
     {
       "added_at": null,
@@ -447,6 +439,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "McArthur",
+        "url": "https://open.spotify.com/album/7tFDlNV1A2uRLdgArEKYuj"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "McArthur",
+      "url": "https://open.spotify.com/track/6yOHshc12fwMtM74xoy4je"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If I Know Me",
         "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
       },
@@ -483,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/3CoVYVQdyWAVkI0LRdxKRZ"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "This Bar",
+      "url": "https://open.spotify.com/track/1ltyaGgSDbnvBSvATZ2J1v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FLOWER SHOPS (THE ALBUM)",
         "url": "https://open.spotify.com/album/3OGhRLpdXSH7MPmhMdvh2O"
       },
@@ -503,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/3CoVYVQdyWAVkI0LRdxKRZ"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "This Bar",
-      "url": "https://open.spotify.com/track/1ltyaGgSDbnvBSvATZ2J1v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If I Know Me",
         "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 197253,
       "name": "Up Down (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/2RfYofkWwN77WJjR1rpena"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Can't Love You Anymore",
-        "url": "https://open.spotify.com/album/5BFfobflVIOwebqy5RtBcP"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 228836,
-      "name": "I Can't Love You Anymore",
-      "url": "https://open.spotify.com/track/5aVBxVa0kz9uzv0F4gwdEn"
     },
     {
       "added_at": null,

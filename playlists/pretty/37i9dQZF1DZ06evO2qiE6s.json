@@ -1,12 +1,12 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 128273,
+  "num_followers": 128281,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAACOnkNjqY11ccTlTx86e/a/",
+  "snapshot_id": "aewEAAAAAADM78duzjhR6ESRIOLynlQS",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sleep Warm",
+        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 166066,
+      "name": "All I Do Is Dream Of You - Remastered 1991",
+      "url": "https://open.spotify.com/track/4e6JJ0mppGJmSG9TOTYVoM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
       },
@@ -239,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Dean Martin",
-        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "When You're Smiling (The Whole World Smiles With You) - Digitally Remastered 97",
-      "url": "https://open.spotify.com/track/11tOuFtY7njtSzA5wr07xp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Time I'm Swingin'",
         "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleep Warm",
-        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 166066,
-      "name": "All I Do Is Dream Of You - Remastered 1991",
-      "url": "https://open.spotify.com/track/4e6JJ0mppGJmSG9TOTYVoM"
+      "duration_ms": 183560,
+      "name": "When You're Smiling (The Whole World Smiles With You) - Digitally Remastered 97",
+      "url": "https://open.spotify.com/track/11tOuFtY7njtSzA5wr07xp"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
-        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 145066,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At The Movies",
         "url": "https://open.spotify.com/album/1RBtf2WFlp9BxQrsbeO3I2"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 145173,
       "name": "Innamorata (Sweetheart) - Remastered 1998",
       "url": "https://open.spotify.com/track/0dGbCGeiRDAbFXwGJPZP7m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
+        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 145066,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
-        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "You Belong To Me",
-      "url": "https://open.spotify.com/track/0VrTy4ScuMoVxp26rLgHpd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cha Cha De Amor",
         "url": "https://open.spotify.com/album/6mKemzOStdG7uywhz0RF7n"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 138106,
       "name": "Cha Cha Cha d\u00b4Amour",
       "url": "https://open.spotify.com/track/0GaVD2xG18kwPJpa8jfoeX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
+        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/0VrTy4ScuMoVxp26rLgHpd"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
-        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "Come Back To Sorrento",
-      "url": "https://open.spotify.com/track/5aefoUh9oR6nzQdwdp6k14"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sleep Warm",
         "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 171600,
       "name": "Hit The Road To Dreamland",
       "url": "https://open.spotify.com/track/42bFdw8VS4bu57F2pNmEeh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
+        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "Come Back To Sorrento",
+      "url": "https://open.spotify.com/track/5aefoUh9oR6nzQdwdp6k14"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleep Warm",
-        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Goodnight Sweetheart",
-      "url": "https://open.spotify.com/track/455eJSxXbR1NVNucLVXayS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "(Remember Me) I'm the One That Loves You",
         "url": "https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 142129,
       "name": "Welcome to My World",
       "url": "https://open.spotify.com/track/66Gt2H63ctSt3968rvbGJe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleep Warm",
+        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Goodnight Sweetheart",
+      "url": "https://open.spotify.com/track/455eJSxXbR1NVNucLVXayS"
     },
     {
       "added_at": null,

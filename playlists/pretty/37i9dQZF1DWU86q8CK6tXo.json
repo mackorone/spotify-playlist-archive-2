@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: ivri",
-  "num_followers": 65117,
+  "num_followers": 65116,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2026-04-20 18:59:16",
       "album": {
+        "name": "Flo Jackson",
+        "url": "https://open.spotify.com/album/7a50cJvGdEO7AfkEvOoCFS"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 143444,
+      "name": "Flo Jackson",
+      "url": "https://open.spotify.com/track/4fwJzG3arwvfC1ZbRdracJ"
+    },
+    {
+      "added_at": "2026-04-20 18:59:16",
+      "album": {
         "name": "Reputation (feat. Dominic Fike)",
         "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 235705,
       "name": "Reputation (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
-    },
-    {
-      "added_at": "2026-04-20 18:59:16",
-      "album": {
-        "name": "Flo Jackson",
-        "url": "https://open.spotify.com/album/7a50cJvGdEO7AfkEvOoCFS"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 143444,
-      "name": "Flo Jackson",
-      "url": "https://open.spotify.com/track/4fwJzG3arwvfC1ZbRdracJ"
     },
     {
       "added_at": "2026-04-20 18:59:16",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-04-20 18:59:16",
       "album": {
-        "name": "Don\u2019t Make Me Love U",
-        "url": "https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 205322,
-      "name": "Don\u2019t Make Me Love U",
-      "url": "https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm"
-    },
-    {
-      "added_at": "2026-04-20 18:59:16",
-      "album": {
         "name": "Jesus loves a primadonna",
         "url": "https://open.spotify.com/album/4ZJSi7rQlpEjPgdZVkn9uK"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 267453,
       "name": "Buffalo 66",
       "url": "https://open.spotify.com/track/1mMxIUFIpF3K5YJ6UXHTKd"
+    },
+    {
+      "added_at": "2026-04-20 18:59:16",
+      "album": {
+        "name": "Don\u2019t Make Me Love U",
+        "url": "https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 205322,
+      "name": "Don\u2019t Make Me Love U",
+      "url": "https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm"
     },
     {
       "added_at": "2026-04-20 18:59:16",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-04-20 18:59:16",
       "album": {
-        "name": "Aren't You Curious?",
-        "url": "https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA"
-      },
-      "artists": [
-        {
-          "name": "Emyrson Flora",
-          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
-        }
-      ],
-      "duration_ms": 184294,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
-    },
-    {
-      "added_at": "2026-04-20 18:59:16",
-      "album": {
         "name": "High On Heaven",
         "url": "https://open.spotify.com/album/4yLI9P0vuGT3XifsGuov5n"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 199480,
       "name": "High On Heaven",
       "url": "https://open.spotify.com/track/4VDT0bb5RpkfoUoiVjGlrR"
+    },
+    {
+      "added_at": "2026-04-20 18:59:16",
+      "album": {
+        "name": "Aren't You Curious?",
+        "url": "https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA"
+      },
+      "artists": [
+        {
+          "name": "Emyrson Flora",
+          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
+        }
+      ],
+      "duration_ms": 184294,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
     },
     {
       "added_at": "2026-04-20 18:59:16",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-04-20 18:59:16",
       "album": {
-        "name": "Man Downstairs",
-        "url": "https://open.spotify.com/album/3nBSeiODQ7GDrzjpuXT0NH"
-      },
-      "artists": [
-        {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
-        }
-      ],
-      "duration_ms": 154133,
-      "name": "Man Downstairs",
-      "url": "https://open.spotify.com/track/63jyN3zXtA4Du2rUqBR4MG"
-    },
-    {
-      "added_at": "2026-04-20 18:59:16",
-      "album": {
         "name": "Big Disgrace",
         "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 173416,
       "name": "Femme Hysteria",
       "url": "https://open.spotify.com/track/2g8y30PtQ3jO7fR4wKQaOU"
+    },
+    {
+      "added_at": "2026-04-20 18:59:16",
+      "album": {
+        "name": "Man Downstairs",
+        "url": "https://open.spotify.com/album/3nBSeiODQ7GDrzjpuXT0NH"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "duration_ms": 154133,
+      "name": "Man Downstairs",
+      "url": "https://open.spotify.com/track/63jyN3zXtA4Du2rUqBR4MG"
     },
     {
       "added_at": "2026-04-20 18:59:16",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-04-20 18:59:16",
       "album": {
+        "name": "Una Vez Y Ya",
+        "url": "https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR"
+      },
+      "artists": [
+        {
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+        }
+      ],
+      "duration_ms": 154506,
+      "name": "Una Vez Y Ya",
+      "url": "https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD"
+    },
+    {
+      "added_at": "2026-04-20 18:59:16",
+      "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/0194cIBrgVyNYXLk0csjjF"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 175238,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/2JgqwzlOSIxq5WmXKJdnVp"
-    },
-    {
-      "added_at": "2026-04-20 18:59:16",
-      "album": {
-        "name": "Una Vez Y Ya",
-        "url": "https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR"
-      },
-      "artists": [
-        {
-          "name": "RIA",
-          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
-        }
-      ],
-      "duration_ms": 154506,
-      "name": "Una Vez Y Ya",
-      "url": "https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD"
     },
     {
       "added_at": "2026-04-20 18:59:16",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-04-20 18:59:16",
       "album": {
-        "name": "Dead End",
-        "url": "https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 245358,
-      "name": "Dead End",
-      "url": "https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4"
-    },
-    {
-      "added_at": "2026-04-20 18:59:16",
-      "album": {
         "name": "cul-de-sac",
         "url": "https://open.spotify.com/album/0sKV8WbhYnyyh9A1OvWxgP"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 131644,
       "name": "THUM",
       "url": "https://open.spotify.com/track/3yuaDt5vOxrQD06LrAQPj9"
+    },
+    {
+      "added_at": "2026-04-20 18:59:16",
+      "album": {
+        "name": "Dead End",
+        "url": "https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 245358,
+      "name": "Dead End",
+      "url": "https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4"
     },
     {
       "added_at": "2026-04-20 18:59:16",

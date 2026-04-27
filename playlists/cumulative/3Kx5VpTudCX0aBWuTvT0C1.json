@@ -859,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Higher than fear",
+        "url": "https://open.spotify.com/album/3bLk3opMkqg8EnakCiKZfS"
+      },
+      "artists": [
+        {
+          "name": "Neverfold",
+          "url": "https://open.spotify.com/artist/0wPkHL9GwZEu6F7S2sznR7"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Higher than fear",
+      "url": "https://open.spotify.com/track/1CQJ3Bt4XV8KnZqw86KX0N"
+    },
+    {
+      "album": {
         "name": "Against the FALL",
         "url": "https://open.spotify.com/album/0bEw8zPxgpXZlQzkdwTsQb"
       },

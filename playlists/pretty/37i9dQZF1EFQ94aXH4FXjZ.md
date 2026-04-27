@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 58 | [It's All Over \(All Over Again\)](https://open.spotify.com/track/2qE2mgTeznxDRbCxMmYhzk) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Full Moon \(Expanded Edition\)](https://open.spotify.com/album/3Xnjlj4aJadxwLfdd1QYkF) | 2:48 |
 | 59 | [Gypsy Rose and I Don't Give a Curse \- Demo](https://open.spotify.com/track/0I4rttZ5MGddrAEcA80b3G) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 3:07 |
 | 60 | [When She's Wrong](https://open.spotify.com/track/4C29I2bHGWfKZwIwU1tLGJ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/4juARctGHmMzGsyLGfesRl) | 4:47 |
-| 61 | [Lonesome Way of Dying \- Demo](https://open.spotify.com/track/4YgUSFWgKoqL248dwPyD0b) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:45 |
-| 62 | [Golden Idol](https://open.spotify.com/track/2c665yi9hjsQdBOOpm1Iod) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Extras](https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y) | 2:23 |
+| 61 | [Golden Idol](https://open.spotify.com/track/2c665yi9hjsQdBOOpm1Iod) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Extras](https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y) | 2:23 |
+| 62 | [Lonesome Way of Dying \- Demo](https://open.spotify.com/track/4YgUSFWgKoqL248dwPyD0b) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:45 |
 | 63 | [I Can Be Had \- Demo](https://open.spotify.com/track/5iSNTwfMgmSu2C977Zr8Ly) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:32 |
 | 64 | [No One's Gonna Miss Me \- Demo](https://open.spotify.com/track/0bCzMmdJfIfK3nKR7BKbds) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:57 |
 | 65 | [Shake Hands With the Devil](https://open.spotify.com/track/1Vyr0JU2u5BhJuMnQ9z5Qj) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Shake Hands with the Devil](https://open.spotify.com/album/78Q7mbAmkbPE6RFyeeTbzU) | 3:29 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 107 | [Delta Day \(No Time to Cry\)](https://open.spotify.com/track/6FxBOv9K8J9ECCZg3MqCZk) | [Bucky Wilkin](https://open.spotify.com/artist/6llhUrYZmi6uP5YqxJzrq4) | [The Complete Recordings \(1964\-1968\)](https://open.spotify.com/album/1fB1c8AYgdtENfKuaUfRVW) | 3:15 |
 | 108 | [Give It Time To Be Tender](https://open.spotify.com/track/19L9DxIRGPDhoOGcxiq27H) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [I'm Only a Woman](https://open.spotify.com/album/00XFRT1yVfeXgnyrJ8spCj) | 3:10 |
 
-Snapshot ID: `AcP1XgAAAADQMsNJ8REDJP7fMmgPP9Ai`
+Snapshot ID: `AcP6/gAAAABLxSnbfxGexAoUQAP1VSc7`

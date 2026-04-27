@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,239 songs - 4 day 20 hr 16 min
+2,241 songs - 4 day 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Akta dig](https://open.spotify.com/track/1rCTBsaXSDnVx66pP7yg8o) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Akta dig](https://open.spotify.com/album/4hcFFUgotmXQnIbbM3ifKo) | 2:20 | 2024-11-07 | 2025-03-16 |
 | [Akvamarin](https://open.spotify.com/track/6BgHjGcCalBlzdnjoner4p) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Akvamarin](https://open.spotify.com/album/5pzzdh1mBlGjN2Yfzz0cv2) | 2:31 | 2025-06-12 | 2025-10-24 |
 | [Alaska \(feat\. Ji Nilsson\)](https://open.spotify.com/track/2K1YdQfbCSUhJWJFygc8if) | [Tjejdikter](https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc), [Ji Nilsson](https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY) | [Alaska \(feat\. Ji Nilsson\)](https://open.spotify.com/album/21nebDA7hpQYiXIj6COyFC) | 2:45 | 2024-04-19 | 2024-05-24 |
+| [Aldrig ensam igen](https://open.spotify.com/track/4sJQnRoQgcyju6a5ALVZvI) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Aldrig ensam igen](https://open.spotify.com/album/1JmwKuLFZ5q1vMtp2rSkUd) | 3:37 | 2026-04-23 |  |
 | [Aldrig haft något annat val](https://open.spotify.com/track/2aTbJ9yyMrseRuHq9c9jY2) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Aldrig haft något annat val](https://open.spotify.com/album/3Jmo7YMZXHnSGkLOPv7Dqb) | 3:09 | 2021-12-16 | 2022-03-11 |
 | [Aldrig igen \(Abandon\)](https://open.spotify.com/track/3JxqTgw4qnvWvOj4FfR7XY) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Så mycket bättre 2024 – Tolkningarna](https://open.spotify.com/album/1X1iav9zPw3e550HJ0B98C) | 3:37 | 2024-11-21 | 2025-05-02 |
 | [Aldrig mer](https://open.spotify.com/track/6g03qX85qYtyvEsTvEmfqb) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Aldrig mer](https://open.spotify.com/album/0rAp2vklRXsBHENrw4kmjB) | 3:04 | 2024-02-22 | 2024-04-12 |
@@ -940,7 +941,7 @@
 | [i miss you](https://open.spotify.com/track/12EeH9djL7vD0lbkRvu21G) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [i miss you](https://open.spotify.com/album/1aIRhAhNJgLuyXQd22Lk1J) | 3:25 | 2025-04-17 | 2025-09-05 |
 | [I natt é hela staden vår](https://open.spotify.com/track/1znQMIGsOv5BlrU2BL90wb) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [I natt é hela staden vår](https://open.spotify.com/album/42VKHmLNWldELuIPVLr5M4) | 3:20 | 2024-10-04 | 2025-04-11 |
 | [I Need Love \(feat\. Trevor Daniel\)](https://open.spotify.com/track/6t0nlLzuahyBab1sYqfOGG) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Poster Girl \(Summer Edition\)](https://open.spotify.com/album/0E6Bt7I9gHxC6j8UmaCXTh) | 3:06 | 2021-12-16 | 2022-03-11 |
-| [I Need To Sleep](https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [I Need To Sleep](https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL) | 2:59 | 2026-01-15 |  |
+| [I Need To Sleep](https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [I Need To Sleep](https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL) | 2:59 | 2026-01-15 | 2026-04-27 |
 | [I Raised Your Boyfriend](https://open.spotify.com/track/7u5VlSd8HxCNjeB4txesJ6) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [I Raised Your Boyfriend](https://open.spotify.com/album/0Apz8ymj3oeGthfJz2RAo9) | 2:42 | 2023-02-16 | 2023-06-05 |
 | [I Should’ve Danced More](https://open.spotify.com/track/7vCZ1vLPbbTG42dPHg0PC9) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [I Should’ve Danced More](https://open.spotify.com/album/23ZYTwf4AeZozJU3mRNC0o) | 3:21 | 2023-10-05 | 2023-11-17 |
 | [i talk a lot](https://open.spotify.com/track/0Qw3Q7YYb5cnROb82g7wuH) | [amanda jerlov](https://open.spotify.com/artist/3Yy0wNrunrgNWnmqPJibaz) | [notes from a soap opera](https://open.spotify.com/album/6rxY1BYOlWEvoIAXmO9X4f) | 2:33 | 2024-01-25 | 2024-01-28 |
@@ -1840,6 +1841,7 @@
 | [Superlim & silvertejp](https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Superlim & silvertejp](https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm) | 3:13 | 2026-03-20 |  |
 | [Superman](https://open.spotify.com/track/5c9RMGr7zFWpMrJJ1KsOJX) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [HOFFMAESTRO](https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr) | [Superman](https://open.spotify.com/album/1rLlliYqE7VNIzhQZUid9a) | 2:29 | 2025-05-01 | 2025-10-17 |
 | [Supernatural \- Acoustic](https://open.spotify.com/track/2hY3xWsXDC40Wa40LcBdBQ) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Supernatural \(Acoustic\)](https://open.spotify.com/album/7Elwg9pkqPgAKlzvi7FuVU) | 3:15 | 2024-03-14 | 2024-04-19 |
+| [Supersonic](https://open.spotify.com/track/0ywWRd04tEgmZAMG4YGTg0) | [Nils Albin](https://open.spotify.com/artist/3QWQCUqaIgPRHCzdcV1mVi) | [Supersonic](https://open.spotify.com/album/2A4LRj5gmxvgWRht3JEz0g) | 3:02 | 2026-04-23 |  |
 | [Supersonic P\*$$y](https://open.spotify.com/track/6LFL4S6pYuuR0836jcbheO) | [Bishat](https://open.spotify.com/artist/3o42mstamO9qGU4P8p50Qr) | [Supersonic P\*$$y](https://open.spotify.com/album/3n3uxuWMGojBCn6KrIbhFN) | 2:47 | 2024-05-03 | 2024-06-01 |
 | [Superstar](https://open.spotify.com/track/0TjldtyoH2js24XQEu8S4M) | [Bianca Ingrosso](https://open.spotify.com/artist/3VhdRFPzyb8huDuJkxpLFa) | [Superstar](https://open.spotify.com/album/1Y5wr6hHJ8Q9ZSlDqaMku5) | 3:10 | 2023-05-19 | 2023-10-20 |
 | [Superstar](https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Superstar](https://open.spotify.com/album/4O6zCCdEquqKmMcXHrSbBy) | 3:21 | 2022-05-12 | 2022-09-26 |
@@ -2191,7 +2193,7 @@
 | [WINNER \(feat\. A36\)](https://open.spotify.com/track/0i0ZCP4Yh3kLl1Z0k9BhBX) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [WINNER \(feat\. A36\)](https://open.spotify.com/album/2NYYASJxQRlVDysDHjqL2z) | 2:37 | 2022-03-24 | 2022-04-21 |
 | [WINNER \(feat\. A36\)](https://open.spotify.com/track/5AD8MIkzQNY9WPlEyBZtke) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:37 | 2022-07-28 | 2022-09-16 |
 | [Wish](https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Wish](https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW) | 3:19 | 2025-08-28 | 2026-01-15 |
-| [wish I did](https://open.spotify.com/track/1JD1Jmc81iMs4bcGUNnN7W) | [TANTAN](https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi) | [wish I did](https://open.spotify.com/album/1QNXdmIyAviteAsQ7Qq8At) | 2:20 | 2026-03-19 |  |
+| [wish I did](https://open.spotify.com/track/1JD1Jmc81iMs4bcGUNnN7W) | [TANTAN](https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi) | [wish I did](https://open.spotify.com/album/1QNXdmIyAviteAsQ7Qq8At) | 2:20 | 2026-03-19 | 2026-04-27 |
 | [wish I didn't know you](https://open.spotify.com/track/5eqawn12Jr65SvCFHvL3Jh) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [wish I didn't know you](https://open.spotify.com/album/1vjdyS508kWh3k8KbUK4nU) | 2:53 | 2022-10-15 | 2023-06-01 |
 | [Wishful Thinking](https://open.spotify.com/track/2JtbYlm4BF5rLFrhkyHXU1) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Wishful Thinking](https://open.spotify.com/album/6X2z7A7ecxou7Hz7haotFO) | 4:03 | 2022-02-05 | 2022-05-13 |
 | [Wishing well](https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Foam](https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m) | 2:24 | 2023-06-22 | 2023-10-20 |

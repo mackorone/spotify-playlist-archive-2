@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local OPM and R&B sounds.",
-  "num_followers": 576815,
+  "num_followers": 576795,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2026-04-14 07:02:35",
       "album": {
+        "name": "Andalucia",
+        "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
+      },
+      "artists": [
+        {
+          "name": "IV OF SPADES",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "duration_ms": 207920,
+      "name": "Kabisado",
+      "url": "https://open.spotify.com/track/4z928BtE4j1bjhcX9RU44M"
+    },
+    {
+      "added_at": "2026-04-14 07:02:35",
+      "album": {
         "name": "Tingin",
         "url": "https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 222298,
       "name": "Tingin",
       "url": "https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ"
-    },
-    {
-      "added_at": "2026-04-14 07:02:35",
-      "album": {
-        "name": "Andalucia",
-        "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
-      },
-      "artists": [
-        {
-          "name": "IV OF SPADES",
-          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
-        }
-      ],
-      "duration_ms": 207920,
-      "name": "Kabisado",
-      "url": "https://open.spotify.com/track/4z928BtE4j1bjhcX9RU44M"
     },
     {
       "added_at": "2026-04-14 07:02:35",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-04-14 07:02:35",
       "album": {
-        "name": "Curiosity Killed the Cat",
-        "url": "https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd"
-      },
-      "artists": [
-        {
-          "name": "HEY JUNE!",
-          "url": "https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq"
-        }
-      ],
-      "duration_ms": 225444,
-      "name": "LASIK",
-      "url": "https://open.spotify.com/track/5da5VCHTC3516y0y8p40Ee"
-    },
-    {
-      "added_at": "2026-04-14 07:02:35",
-      "album": {
         "name": "Panata",
         "url": "https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2026-04-14 07:02:35",
       "album": {
-        "name": "Weak",
-        "url": "https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed"
+        "name": "Curiosity Killed the Cat",
+        "url": "https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd"
       },
       "artists": [
         {
-          "name": "Khel Pangilinan",
-          "url": "https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l"
+          "name": "HEY JUNE!",
+          "url": "https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3"
+      "duration_ms": 225444,
+      "name": "LASIK",
+      "url": "https://open.spotify.com/track/5da5VCHTC3516y0y8p40Ee"
     },
     {
       "added_at": "2026-04-14 07:02:35",
@@ -747,22 +731,6 @@
       "duration_ms": 267786,
       "name": "Love Moves in Mysterious Ways - Live",
       "url": "https://open.spotify.com/track/5EvsytirpNFGyK88Zm7IoK"
-    },
-    {
-      "added_at": "2026-04-14 07:02:35",
-      "album": {
-        "name": "Di Na",
-        "url": "https://open.spotify.com/album/0yGfCICYBpXM0sBfYj1TlI"
-      },
-      "artists": [
-        {
-          "name": "Earl Agustin",
-          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
-        }
-      ],
-      "duration_ms": 247413,
-      "name": "Di Na",
-      "url": "https://open.spotify.com/track/1ETxEgB0R48fOF3mIajPyF"
     },
     {
       "added_at": "2026-04-14 07:02:35",
@@ -799,6 +767,38 @@
       "duration_ms": 347120,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK"
+    },
+    {
+      "added_at": "2026-04-14 07:02:35",
+      "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed"
+      },
+      "artists": [
+        {
+          "name": "Khel Pangilinan",
+          "url": "https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3"
+    },
+    {
+      "added_at": "2026-04-14 07:02:35",
+      "album": {
+        "name": "Di Na",
+        "url": "https://open.spotify.com/album/0yGfCICYBpXM0sBfYj1TlI"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "duration_ms": 247413,
+      "name": "Di Na",
+      "url": "https://open.spotify.com/track/1ETxEgB0R48fOF3mIajPyF"
     },
     {
       "added_at": "2026-04-14 07:02:35",

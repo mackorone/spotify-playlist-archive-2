@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. Claver Gold in cover.
 
-628 songs - 1 day 11 hr 22 min
+629 songs - 1 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,7 +420,7 @@
 | [Oltre l'apparentemente bello](https://open.spotify.com/track/6cNRZxzb9Z7vBnM4tODloT) | [Grungi Aiax](https://open.spotify.com/artist/1D7xqdaJaCPhNxUM8GolpB), [zipcrü](https://open.spotify.com/artist/3nMQqAFeiJZeCq5PwMqPWR) | [Oltre l'apparentemente bello](https://open.spotify.com/album/6q7mnkd5dogS65HMmKAPMk) | 2:07 | 2022-07-21 | 2022-08-27 |
 | [On The Beach](https://open.spotify.com/track/04fHNMMiEHtiOIhVXvq2TB) | [Fratelli Freschi](https://open.spotify.com/artist/6Ftirks48hLIeJvN9azQ81) | [On The Beach](https://open.spotify.com/album/4tNPM2Gw2IUslI4tYbXMWK) | 2:45 | 2022-06-02 | 2022-07-28 |
 | [One Shot](https://open.spotify.com/track/70GfM5aopAoJ0oc8t4kbNU) | [Giovane Feddini](https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u), [Vacca](https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR), [Ric de Large](https://open.spotify.com/artist/6It8QDcivbTwJ46Gk9WUvu) | [One Shot](https://open.spotify.com/album/1RKEPBGYN2Ei1iQcKFdZhm) | 3:28 | 2024-01-11 | 2024-05-10 |
-| [ONION](https://open.spotify.com/track/7Mfuyof4zXVZPTJHJxKhb3) | [Sace](https://open.spotify.com/artist/1DamepBKTBMlIbTNPyO5Lc), [Wiser Keegan](https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur) | [BLOOD IN BLOOD OUT](https://open.spotify.com/album/7rA3LmwcwvXjoCnxKDgXPI) | 2:36 | 2025-06-26 |  |
+| [ONION](https://open.spotify.com/track/7Mfuyof4zXVZPTJHJxKhb3) | [Sace](https://open.spotify.com/artist/1DamepBKTBMlIbTNPyO5Lc), [Wiser Keegan](https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur) | [BLOOD IN BLOOD OUT](https://open.spotify.com/album/7rA3LmwcwvXjoCnxKDgXPI) | 2:36 | 2025-06-26 | 2026-04-27 |
 | [Ora Che La Musica Non C'è](https://open.spotify.com/track/57DGaQvgR6ofNcKursCDry) | [Mistaman](https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q), [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Ze in the Clouds](https://open.spotify.com/artist/5cflBaBT7fUwdCJZgi2ESf) | [Ora Che La Musica Non C'è](https://open.spotify.com/album/4jTFSdmiMbkzkaohBvHE49) | 4:22 | 2022-11-10 |  |
 | [Orizzonte Arancio.](https://open.spotify.com/track/4XQe4g2zRCD7WOy02zKlPR) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW), [Macaboro](https://open.spotify.com/artist/7mtZP3UQaCaWhM2K8ubgF9) | [Orizzonte Arancio.](https://open.spotify.com/album/0jeiHa9d1h6FTsbCIDFLWf) | 3:25 | 2022-05-05 | 2022-07-29 |
 | [Outfit Giancana](https://open.spotify.com/track/4GpAB6OC3odOR6lOldeqb8) | [Armani Doc](https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC), [ThinkFast](https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T), [Jack The Smoker](https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS) | [WOP](https://open.spotify.com/album/6kgk6VVGn3QjhqiZQsFRBk) | 3:05 | 2025-01-09 | 2025-06-20 |
@@ -432,6 +432,7 @@
 | [Parole](https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN) | [Mistaman](https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q) | [Parole](https://open.spotify.com/album/53SRzZgaYzxgbTxAz6at37) | 3:49 | 2022-05-12 |  |
 | [Parte Di Me](https://open.spotify.com/track/1K4YHU1UIslTH0h55yRa4b) | [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Qualcosa è cambiato](https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab) | 3:27 | 2024-04-25 | 2025-02-28 |
 | [PARTO NATURALE](https://open.spotify.com/track/0irGvCfIUGgbSSPsPIk72f) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [PARTO NATURALE](https://open.spotify.com/album/7jogdPB6uAARTKOoygqpom) | 2:16 | 2025-05-22 |  |
+| [Pedala e batteria \(feat\. Jovanotti\)](https://open.spotify.com/track/7xRWsfn9x3gVhYQdIXjae3) | [Frankie hi\-nrg mc](https://open.spotify.com/artist/15tvxTXbemwnKQq1aRoPpI), [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [VOCE e BATTERIA](https://open.spotify.com/album/3kIyF4C1xQlE3M8Q2GvpL2) | 2:48 | 2026-04-24 |  |
 | [Per tutti](https://open.spotify.com/track/6ohpYadq50CPaaOjlf2kZ2) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz) | [Per tutti](https://open.spotify.com/album/2DiVJmLYqja74At96xDHqJ) | 2:49 | 2023-03-30 | 2023-04-28 |
 | [Perfect Days](https://open.spotify.com/track/6Gma5OTVHAbNHmRe95O3xI) | [Rak](https://open.spotify.com/artist/3tnVct3V6mIWk5FnBGCuVt) | [Perfect Days](https://open.spotify.com/album/6JNqm2o3YaGMfWmwGzCkuA) | 2:42 | 2024-07-18 | 2025-04-18 |
 | [Peri Peri](https://open.spotify.com/track/7Hi2almjxtGgAjODubaHEC) | [Armani Doc](https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC), [ThinkFast](https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T), [Lenor](https://open.spotify.com/artist/4pWBZqR0oa0gjBKEhaw4SK) | [IDDU](https://open.spotify.com/album/5Gb0UlQfDweq4HU5k81qtL) | 2:40 | 2024-05-23 | 2025-06-20 |

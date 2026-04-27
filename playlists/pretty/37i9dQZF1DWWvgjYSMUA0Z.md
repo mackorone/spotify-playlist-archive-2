@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 
 > Music to encourage emotional and physical healing through Reiki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,879 likes - 165 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,984 likes - 165 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 | 164 | [Lapping](https://open.spotify.com/track/5bFhD4r00fydMBqpC0V162) | [Sand Rae](https://open.spotify.com/artist/01AXMlLHjZDPlbVBPnXb8h) | [Lapping](https://open.spotify.com/album/011zZRDoHlMoyqFuqYPWXg) | 2:17 |
 | 165 | [Aural Environment](https://open.spotify.com/track/7GddW9BHeHEgEs1ad7cdBa) | [Overdue Soles](https://open.spotify.com/artist/4D9rrvqXdR4y5IA0zJaicG) | [Aural Environment](https://open.spotify.com/album/3DEJ8nHQjE7T3cPUVoGMQ8) | 3:02 |
 
-Snapshot ID: `AAAAACUcr9N5ZIhiDb4eLQMhnCDEXUer`
+Snapshot ID: `AAAAAAQimVenzehraf1UfMlRK/BEEJq7`

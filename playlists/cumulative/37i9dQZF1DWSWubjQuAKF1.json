@@ -1355,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "BLURRY",
+        "url": "https://open.spotify.com/album/4KnNtQ9m2ya5CVz4HdDcqU"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182383,
+      "name": "BLOODY MARY",
+      "url": "https://open.spotify.com/track/445swxbKlkXgrIbRPpPYrL"
+    },
+    {
+      "album": {
         "name": "blue",
         "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
       },
@@ -2278,7 +2296,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 166956,
       "name": "Cienie Przesz\u0142o\u015bci",
       "url": "https://open.spotify.com/track/6hoBYZ9kZiBWrwMGWrBdqo"
@@ -2560,7 +2578,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 150093,
       "name": "Co\u015b mi jeszcze opowiedz",
       "url": "https://open.spotify.com/track/1D0eqSjxCu4p80XkDx3ndk"
@@ -14116,6 +14134,24 @@
       "duration_ms": 151979,
       "name": "Who are you?",
       "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
+    },
+    {
+      "album": {
+        "name": "Sensitive to the room",
+        "url": "https://open.spotify.com/album/2HD4BmFejncyUP0fhoes6Q"
+      },
+      "artists": [
+        {
+          "name": "Presley Regier",
+          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197158,
+      "name": "Why Am I Here",
+      "url": "https://open.spotify.com/track/5BaG5aMYeyOCfix0eTJXKz"
     },
     {
       "album": {

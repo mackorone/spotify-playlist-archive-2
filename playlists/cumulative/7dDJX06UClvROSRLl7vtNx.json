@@ -797,6 +797,28 @@
     },
     {
       "album": {
+        "name": "All Night Long (All Night)",
+        "url": "https://open.spotify.com/album/32yHfd46KtiDXQzyL0lkQM"
+      },
+      "artists": [
+        {
+          "name": "Coconut Kid",
+          "url": "https://open.spotify.com/artist/0YVBrjCS4MxPBonrboHcEh"
+        },
+        {
+          "name": "Chill Gull",
+          "url": "https://open.spotify.com/artist/0oF2AmTrkEWD7JvK1CH1Lw"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156723,
+      "name": "All Night Long (All Night)",
+      "url": "https://open.spotify.com/track/53S4WXwMew3FsuELwsnI91"
+    },
+    {
+      "album": {
         "name": "All of My Life",
         "url": "https://open.spotify.com/album/22wSHnzCTUhm3SZW6Zv0BO"
       },
@@ -1376,6 +1398,24 @@
       "duration_ms": 143634,
       "name": "Anywhere With You",
       "url": "https://open.spotify.com/track/55KplvBzr2DNKvWTnxm2mS"
+    },
+    {
+      "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/7BYqCGw7DKKUr1EGy4tvEB"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204652,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/02aaSHVfwSflVPJEFswy1z"
     },
     {
       "album": {
@@ -3930,7 +3970,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 150918,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1WAsyThe1xZQ82xNY0dkDk"
@@ -4854,6 +4894,28 @@
       "duration_ms": 226500,
       "name": "Dancing on My Own",
       "url": "https://open.spotify.com/track/2B8zzwX1ck0CitF80Ni4Gt"
+    },
+    {
+      "album": {
+        "name": "Dancing On My Own",
+        "url": "https://open.spotify.com/album/1e8CxITKoGIbyXHmBBhWcj"
+      },
+      "artists": [
+        {
+          "name": "Marin Hoxha",
+          "url": "https://open.spotify.com/artist/69kFCyHDE14cRD1cctCCcd"
+        },
+        {
+          "name": "Medusa",
+          "url": "https://open.spotify.com/artist/08Cmz2Whs8UYTPT4Th0c8w"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166829,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/2A0JMWjjtHCJUHk8os7haz"
     },
     {
       "album": {
@@ -11714,7 +11776,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 141548,
       "name": "I'm The One",
       "url": "https://open.spotify.com/track/2pC9nJXshj22fDjcZOfhbO"
@@ -16680,7 +16742,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 158095,
       "name": "miss those nights",
       "url": "https://open.spotify.com/track/57oIvbxSqRsOAbyJ7o54fp"
@@ -18810,7 +18872,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 146000,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/4zXxYJ1LxXenZU5YQet84w"
@@ -19672,7 +19734,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 144390,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6cWY6Pf6zFEvp0wODVAlfy"
@@ -20012,6 +20074,32 @@
       "duration_ms": 143773,
       "name": "Promise (Fireflies)",
       "url": "https://open.spotify.com/track/446Oco5OqT0DiTPz9MLt83"
+    },
+    {
+      "album": {
+        "name": "Pull Me Close",
+        "url": "https://open.spotify.com/album/1v9pVP7ZyKcoFW6ohaYWzQ"
+      },
+      "artists": [
+        {
+          "name": "EFA",
+          "url": "https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy"
+        },
+        {
+          "name": "Lacey",
+          "url": "https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz"
+        },
+        {
+          "name": "one more cig",
+          "url": "https://open.spotify.com/artist/58xxhAwEQi1Gx6XxU5Nqm5"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138946,
+      "name": "Pull Me Close",
+      "url": "https://open.spotify.com/track/7AArfukeLpTzOe0zbZP04y"
     },
     {
       "album": {
@@ -21746,7 +21834,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 108600,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/5cRuVdygzAlK3CAbSPHSEr"
@@ -22904,6 +22992,28 @@
       "duration_ms": 145852,
       "name": "Somewhere Far Away",
       "url": "https://open.spotify.com/track/73BmpCqc2AU8zfsRONndlW"
+    },
+    {
+      "album": {
+        "name": "Somewhere in Ibiza",
+        "url": "https://open.spotify.com/album/4JeawE2VoV3nYQXdOyUXvC"
+      },
+      "artists": [
+        {
+          "name": "Walk on Water",
+          "url": "https://open.spotify.com/artist/4I3wOys29MwaCSSXGEeose"
+        },
+        {
+          "name": "XOXO",
+          "url": "https://open.spotify.com/artist/5v7KC5X518LuRaFWX3wPK8"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149508,
+      "name": "Somewhere in Ibiza",
+      "url": "https://open.spotify.com/track/70h9dDEdrY2M5BvCwC7yvK"
     },
     {
       "album": {
@@ -24552,6 +24662,32 @@
       "duration_ms": 131000,
       "name": "Symphony",
       "url": "https://open.spotify.com/track/7JPnR1mG2F8ZxDZx7ODyCj"
+    },
+    {
+      "album": {
+        "name": "Symphony",
+        "url": "https://open.spotify.com/album/4mCt8zbxUNXArA4ekiddac"
+      },
+      "artists": [
+        {
+          "name": "Nate VanDeusen",
+          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+        },
+        {
+          "name": "MCN2",
+          "url": "https://open.spotify.com/artist/343xgiGnBTnEyNmf0N6aeh"
+        },
+        {
+          "name": "KOOLKID",
+          "url": "https://open.spotify.com/artist/0WBAJsJSN2RtYuWVa1aRCY"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Symphony",
+      "url": "https://open.spotify.com/track/4v5RMvSiVz0hYBQFhvnh82"
     },
     {
       "album": {
@@ -27342,6 +27478,24 @@
       "duration_ms": 148474,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/3wu3pSXJTrLCa3ErABOoqs"
+    },
+    {
+      "album": {
+        "name": "We Used To Be Better",
+        "url": "https://open.spotify.com/album/1GGu4Kii0ayQnM5q4e5P9B"
+      },
+      "artists": [
+        {
+          "name": "Cale",
+          "url": "https://open.spotify.com/artist/4pE5amRArtmThtna3eGERQ"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182752,
+      "name": "We Used To Be Better",
+      "url": "https://open.spotify.com/track/6T85nEBgNDQwkAVgw88vu2"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60008,
+  "num_followers": 60011,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAA4o7cEgSDiRXaj70RU+eFyf7QXsVbo",
+  "snapshot_id": "AAA4rDe7UV8L+9cLh+Gkgxxs7bj6ctcY",
   "tracks": [
+    {
+      "added_at": "2026-04-25 09:28:51",
+      "album": {
+        "name": "Beautiful Monday",
+        "url": "https://open.spotify.com/album/3AT078q3uHBbuL7UgsSFZm"
+      },
+      "artists": [
+        {
+          "name": "S.F. Johnson",
+          "url": "https://open.spotify.com/artist/0EudqBbdt4HSD0gK7ijpMI"
+        }
+      ],
+      "duration_ms": 238250,
+      "name": "Beautiful Monday",
+      "url": "https://open.spotify.com/track/48dzyGi25RuifGDyHOzngg"
+    },
     {
       "added_at": "2026-04-25 09:28:51",
       "album": {
@@ -295,6 +311,22 @@
       "duration_ms": 170567,
       "name": "Bike",
       "url": "https://open.spotify.com/track/5nxu8CKFWES42riJ7bpPPg"
+    },
+    {
+      "added_at": "2026-04-25 09:28:51",
+      "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/3kxhqdA3XjdlKIIngw8WB4"
+      },
+      "artists": [
+        {
+          "name": "Bayonne",
+          "url": "https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek"
+        }
+      ],
+      "duration_ms": 217939,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/0pyavN8W2mefwzCFqv7FDi"
     },
     {
       "added_at": "2026-04-25 09:28:51",
@@ -1131,6 +1163,22 @@
     {
       "added_at": "2026-04-25 09:28:51",
       "album": {
+        "name": "Alex",
+        "url": "https://open.spotify.com/album/06Rl64u5FFkmVTpbE1v5CG"
+      },
+      "artists": [
+        {
+          "name": "Daughter of Swords",
+          "url": "https://open.spotify.com/artist/4PAN1zWvarcHxfPhJOAHMg"
+        }
+      ],
+      "duration_ms": 184896,
+      "name": "Hard On",
+      "url": "https://open.spotify.com/track/4GXdtMiKGqR6KTKB3DxLP0"
+    },
+    {
+      "added_at": "2026-04-25 09:28:51",
+      "album": {
         "name": "Alice",
         "url": "https://open.spotify.com/album/6ESGI110apoUZM8SDp29ZQ"
       },
@@ -1243,22 +1291,6 @@
       "duration_ms": 241440,
       "name": "State Fair",
       "url": "https://open.spotify.com/track/5gOR5QxrOEpWRaW1X0mxuS"
-    },
-    {
-      "added_at": "2026-04-25 09:28:51",
-      "album": {
-        "name": "Alex",
-        "url": "https://open.spotify.com/album/06Rl64u5FFkmVTpbE1v5CG"
-      },
-      "artists": [
-        {
-          "name": "Daughter of Swords",
-          "url": "https://open.spotify.com/artist/4PAN1zWvarcHxfPhJOAHMg"
-        }
-      ],
-      "duration_ms": 184896,
-      "name": "Hard On",
-      "url": "https://open.spotify.com/track/4GXdtMiKGqR6KTKB3DxLP0"
     },
     {
       "added_at": "2026-04-25 09:28:51",
@@ -1703,22 +1735,6 @@
     {
       "added_at": "2026-04-25 09:28:51",
       "album": {
-        "name": "Beautiful Monday",
-        "url": "https://open.spotify.com/album/3AT078q3uHBbuL7UgsSFZm"
-      },
-      "artists": [
-        {
-          "name": "S.F. Johnson",
-          "url": "https://open.spotify.com/artist/0EudqBbdt4HSD0gK7ijpMI"
-        }
-      ],
-      "duration_ms": 238250,
-      "name": "Beautiful Monday",
-      "url": "https://open.spotify.com/track/48dzyGi25RuifGDyHOzngg"
-    },
-    {
-      "added_at": "2026-04-25 09:28:51",
-      "album": {
         "name": "pattern up",
         "url": "https://open.spotify.com/album/3wnLwLNnoj5guyhTSoCJWB"
       },
@@ -1879,22 +1895,6 @@
       "duration_ms": 221102,
       "name": "All Your Waves",
       "url": "https://open.spotify.com/track/3VdL6LtZnGxvFanyWoYISj"
-    },
-    {
-      "added_at": "2026-04-25 09:28:51",
-      "album": {
-        "name": "Waves/Glass",
-        "url": "https://open.spotify.com/album/2SunsI6OO8uFua773emetl"
-      },
-      "artists": [
-        {
-          "name": "CEO Dreams",
-          "url": "https://open.spotify.com/artist/2InAZ8327ENcPFqcy0tR5L"
-        }
-      ],
-      "duration_ms": 163448,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/56D5DvyO3etNppnqvX4BXk"
     },
     {
       "added_at": "2026-04-25 09:28:51",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2026-04-25 09:28:51",
       "album": {
-        "name": "Space Travel",
-        "url": "https://open.spotify.com/album/42irpRLRtuHndJPtbcu3vY"
-      },
-      "artists": [
-        {
-          "name": "Pebbl",
-          "url": "https://open.spotify.com/artist/1vaCGJA8LF8oGUfOKrumlG"
-        }
-      ],
-      "duration_ms": 252933,
-      "name": "Space Travel",
-      "url": "https://open.spotify.com/track/4idF6W0d2GQNiuLFIK5r7q"
-    },
-    {
-      "added_at": "2026-04-25 09:28:51",
-      "album": {
         "name": "Sea Stare",
         "url": "https://open.spotify.com/album/6YNd4kyqqQBbkwKeqg9Y3v"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 245186,
       "name": "My Lilies",
       "url": "https://open.spotify.com/track/7N3e2nVChLsInC63Jfrx3L"
+    },
+    {
+      "added_at": "2026-04-25 09:28:51",
+      "album": {
+        "name": "Space Travel",
+        "url": "https://open.spotify.com/album/42irpRLRtuHndJPtbcu3vY"
+      },
+      "artists": [
+        {
+          "name": "Pebbl",
+          "url": "https://open.spotify.com/artist/1vaCGJA8LF8oGUfOKrumlG"
+        }
+      ],
+      "duration_ms": 252933,
+      "name": "Space Travel",
+      "url": "https://open.spotify.com/track/4idF6W0d2GQNiuLFIK5r7q"
     },
     {
       "added_at": "2026-04-25 09:28:51",
@@ -2335,22 +2335,6 @@
       "duration_ms": 220206,
       "name": "Please",
       "url": "https://open.spotify.com/track/79MkrfI033KWP5XTKRc5hG"
-    },
-    {
-      "added_at": "2026-04-25 09:28:51",
-      "album": {
-        "name": "Oxygen",
-        "url": "https://open.spotify.com/album/3kxhqdA3XjdlKIIngw8WB4"
-      },
-      "artists": [
-        {
-          "name": "Bayonne",
-          "url": "https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek"
-        }
-      ],
-      "duration_ms": 217939,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/0pyavN8W2mefwzCFqv7FDi"
     },
     {
       "added_at": "2026-04-25 09:28:51",
@@ -2787,6 +2771,22 @@
     {
       "added_at": "2026-04-25 09:28:51",
       "album": {
+        "name": "Tunnels",
+        "url": "https://open.spotify.com/album/4WHitGPFZebZQfzQe0xKkW"
+      },
+      "artists": [
+        {
+          "name": "Orbit 17",
+          "url": "https://open.spotify.com/artist/6KsnYAXDVbqUPE44LSxnJ8"
+        }
+      ],
+      "duration_ms": 190331,
+      "name": "Tunnels",
+      "url": "https://open.spotify.com/track/3aP791hdRI25dekyPeT0IX"
+    },
+    {
+      "added_at": "2026-04-25 09:28:51",
+      "album": {
         "name": "Glaziao",
         "url": "https://open.spotify.com/album/2RWTlD9KOoEuEPz60sEdYH"
       },
@@ -2815,22 +2815,6 @@
       "duration_ms": 236181,
       "name": "Graduate and Congratulate",
       "url": "https://open.spotify.com/track/5GLbZFbMkFPE4Cs47b62O4"
-    },
-    {
-      "added_at": "2026-04-25 09:28:51",
-      "album": {
-        "name": "Tunnels",
-        "url": "https://open.spotify.com/album/4WHitGPFZebZQfzQe0xKkW"
-      },
-      "artists": [
-        {
-          "name": "Orbit 17",
-          "url": "https://open.spotify.com/artist/6KsnYAXDVbqUPE44LSxnJ8"
-        }
-      ],
-      "duration_ms": 190331,
-      "name": "Tunnels",
-      "url": "https://open.spotify.com/track/3aP791hdRI25dekyPeT0IX"
     },
     {
       "added_at": "2026-04-25 09:28:51",
@@ -4963,6 +4947,22 @@
       "duration_ms": 226905,
       "name": "Anna",
       "url": "https://open.spotify.com/track/73BuItFGpn0d6H2Z8ANnoM"
+    },
+    {
+      "added_at": "2026-04-25 09:28:51",
+      "album": {
+        "name": "Waves/Glass",
+        "url": "https://open.spotify.com/album/2SunsI6OO8uFua773emetl"
+      },
+      "artists": [
+        {
+          "name": "CEO Dreams",
+          "url": "https://open.spotify.com/artist/2InAZ8327ENcPFqcy0tR5L"
+        }
+      ],
+      "duration_ms": 163448,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/56D5DvyO3etNppnqvX4BXk"
     },
     {
       "added_at": "2026-04-25 09:28:51",

@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 234919,
       "name": "Faith, Pt. 2 (feat. Kari Epps)",
       "url": "https://open.spotify.com/track/3Hyej4Y1jHNX6cFlRrpubA"
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 182131,
       "name": "Fire In My Soul",
       "url": "https://open.spotify.com/track/6g8tMYVLdRG08vbDpNfxeP"
@@ -2248,7 +2248,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 201978,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/4rGP75m2lSzweuA4dlJhzk"
@@ -2535,6 +2535,28 @@
     },
     {
       "album": {
+        "name": "The Year Of The Underdogz",
+        "url": "https://open.spotify.com/album/1dx23xoRwbjHAocCBxW1de"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Gage Gully",
+          "url": "https://open.spotify.com/artist/6AQJQwybpIlfvLzWfvbRPO"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211285,
+      "name": "Music Ease The Pain",
+      "url": "https://open.spotify.com/track/29G4yYOzGYxTMZ21AKsbf7"
+    },
+    {
+      "album": {
         "name": "My Payback",
         "url": "https://open.spotify.com/album/6A1WfTybv8lvaE08xniTxD"
       },
@@ -2778,7 +2800,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 204988,
       "name": "Outlaw University",
       "url": "https://open.spotify.com/track/74qKboZPYJIhsBSOpHgErF"
@@ -3868,7 +3890,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 209361,
       "name": "The Ghetto",
       "url": "https://open.spotify.com/track/0kRaNB7pA0PdHI3HPG3WfY"

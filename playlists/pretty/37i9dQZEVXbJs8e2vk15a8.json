@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MYAuIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MYF/oAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "No Me Rompiste, Me Despertaste",
         "url": "https://open.spotify.com/album/3rENp4lLRLJkdG6CO21QLL"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7anUaWKP8wYGU0MPZbWVV2"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "Just The Way You Are",
         "url": "https://open.spotify.com/album/1fN8LTM10sYFZl5BCzIPlj"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "IMU",
         "url": "https://open.spotify.com/album/1UlPDOw93Ja26s9aEvba7i"
@@ -61,23 +61,7 @@
       "url": "https://open.spotify.com/track/5RGqgYKLBrLMgE2zPI600I"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
-      "album": {
-        "name": "Ayer Hable Con Dios",
-        "url": "https://open.spotify.com/album/391uepLMNmRPRUcsVlhj3j"
-      },
-      "artists": [
-        {
-          "name": "Corridos del Rey",
-          "url": "https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A"
-        }
-      ],
-      "duration_ms": 143280,
-      "name": "Ayer Hable Con Dios",
-      "url": "https://open.spotify.com/track/7yWF9ZtqzTKsxKUPVg4efu"
-    },
-    {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "One Of The Girlz",
         "url": "https://open.spotify.com/album/1G2BNJagFpIO9Uzmv1J64O"
@@ -97,23 +81,23 @@
       "url": "https://open.spotify.com/track/7JNlM7gnYUVaEFHsMzgQin"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
-        "name": "Vol.II",
-        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
+        "name": "Ayer Hable Con Dios",
+        "url": "https://open.spotify.com/album/391uepLMNmRPRUcsVlhj3j"
       },
       "artists": [
         {
-          "name": "Angine de Poitrine",
-          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+          "name": "Corridos del Rey",
+          "url": "https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A"
         }
       ],
-      "duration_ms": 391268,
-      "name": "Fabienk",
-      "url": "https://open.spotify.com/track/1KVkzkmFBx4A8bCma6ruKA"
+      "duration_ms": 143280,
+      "name": "Ayer Hable Con Dios",
+      "url": "https://open.spotify.com/track/7yWF9ZtqzTKsxKUPVg4efu"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
@@ -129,7 +113,43 @@
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
+      "album": {
+        "name": "Vol.II",
+        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
+      },
+      "artists": [
+        {
+          "name": "Angine de Poitrine",
+          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+        }
+      ],
+      "duration_ms": 391268,
+      "name": "Fabienk",
+      "url": "https://open.spotify.com/track/1KVkzkmFBx4A8bCma6ruKA"
+    },
+    {
+      "added_at": "2026-04-26 14:38:37",
+      "album": {
+        "name": "medellin",
+        "url": "https://open.spotify.com/album/6tBVBkWyiQq3wYQv8iCChw"
+      },
+      "artists": [
+        {
+          "name": "1717177x",
+          "url": "https://open.spotify.com/artist/5uIvZ6y0SpfMHObdzv5FMp"
+        },
+        {
+          "name": "47kodeina",
+          "url": "https://open.spotify.com/artist/1xRe2xEECk8dl8pjZVqjRr"
+        }
+      ],
+      "duration_ms": 138204,
+      "name": "medellin",
+      "url": "https://open.spotify.com/track/2u1OHEo8MZgKRNgdLJHORo"
+    },
+    {
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "Dichavate",
         "url": "https://open.spotify.com/album/4yRbCIuNyOezf81L8yR3jF"
@@ -161,7 +181,7 @@
       "url": "https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "Jane!",
         "url": "https://open.spotify.com/album/03HZu3A0gz8fPjrGfDKAsu"
@@ -177,7 +197,7 @@
       "url": "https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "Vol.II",
         "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
@@ -193,27 +213,7 @@
       "url": "https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
-      "album": {
-        "name": "medellin",
-        "url": "https://open.spotify.com/album/6tBVBkWyiQq3wYQv8iCChw"
-      },
-      "artists": [
-        {
-          "name": "1717177x",
-          "url": "https://open.spotify.com/artist/5uIvZ6y0SpfMHObdzv5FMp"
-        },
-        {
-          "name": "47kodeina",
-          "url": "https://open.spotify.com/artist/1xRe2xEECk8dl8pjZVqjRr"
-        }
-      ],
-      "duration_ms": 138204,
-      "name": "medellin",
-      "url": "https://open.spotify.com/track/2u1OHEo8MZgKRNgdLJHORo"
-    },
-    {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
@@ -233,7 +233,23 @@
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
+      "album": {
+        "name": "Promesas",
+        "url": "https://open.spotify.com/album/4LTQxogrlOZjB2VdWigHXC"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 175066,
+      "name": "Me Vas a Echar de Menos",
+      "url": "https://open.spotify.com/track/1ZzSTURCWH0Xax2i69ooSE"
+    },
+    {
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "Pu\u00f1aladas",
         "url": "https://open.spotify.com/album/5S8mx5C6D6jj6l7ESqqrXD"
@@ -257,39 +273,7 @@
       "url": "https://open.spotify.com/track/4AL4EamHEBKPpdcFRkYdXN"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
-      "album": {
-        "name": "Promesas",
-        "url": "https://open.spotify.com/album/4LTQxogrlOZjB2VdWigHXC"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 175066,
-      "name": "Me Vas a Echar de Menos",
-      "url": "https://open.spotify.com/track/1ZzSTURCWH0Xax2i69ooSE"
-    },
-    {
-      "added_at": "2026-04-25 13:30:21",
-      "album": {
-        "name": "LOVE CATCHER",
-        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
-      },
-      "artists": [
-        {
-          "name": "YENA",
-          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Catch Catch",
-      "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
-    },
-    {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "FREE SPIRITS",
         "url": "https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo"
@@ -309,71 +293,23 @@
       "url": "https://open.spotify.com/track/5XI7KiPx9gsgG0QkWlwUfz"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
-        "name": "POR SI MA\u00d1ANA NO ESTOY",
-        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+        "name": "Catch Catch (Chinese Ver.)",
+        "url": "https://open.spotify.com/album/1AI7g5WoesGtM3c5BROUoQ"
       },
       "artists": [
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
         }
       ],
-      "duration_ms": 264946,
-      "name": "POR SI MA\u00d1ANA NO ESTOY",
-      "url": "https://open.spotify.com/track/595wwjQiad6e6lSTScmXvz"
+      "duration_ms": 180000,
+      "name": "Catch Catch (Chinese Ver.)",
+      "url": "https://open.spotify.com/track/29rzWFatC5WwBw2YypQEzC"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
-      "album": {
-        "name": "POR SI MA\u00d1ANA NO ESTOY",
-        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 195146,
-      "name": "KOKO",
-      "url": "https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"
-    },
-    {
-      "added_at": "2026-04-25 13:30:21",
-      "album": {
-        "name": "In The Palm Of Your Hand",
-        "url": "https://open.spotify.com/album/7pfb8J6I3C3jfJvagjLaYk"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "Made In Japan",
-      "url": "https://open.spotify.com/track/5vHs45P0mSuzl9rDRcliLK"
-    },
-    {
-      "added_at": "2026-04-25 13:30:21",
-      "album": {
-        "name": "Termonuclear",
-        "url": "https://open.spotify.com/album/1aU9LfVj9CTTM55COYuroW"
-      },
-      "artists": [
-        {
-          "name": "Perfecto Miserable",
-          "url": "https://open.spotify.com/artist/48z3nG28oOK5eXgDOCjcon"
-        }
-      ],
-      "duration_ms": 211022,
-      "name": "Termonuclear",
-      "url": "https://open.spotify.com/track/7AvyWxJDbrAjR3G50RBW3b"
-    },
-    {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "Los Rancheros del Lago Villarrica",
         "url": "https://open.spotify.com/album/01z8TAh5319WNSCESj7ItI"
@@ -389,7 +325,103 @@
       "url": "https://open.spotify.com/track/3RKPtdP18lVPwvZodSwJuO"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
+      "album": {
+        "name": "Termonuclear",
+        "url": "https://open.spotify.com/album/1aU9LfVj9CTTM55COYuroW"
+      },
+      "artists": [
+        {
+          "name": "Perfecto Miserable",
+          "url": "https://open.spotify.com/artist/48z3nG28oOK5eXgDOCjcon"
+        }
+      ],
+      "duration_ms": 211022,
+      "name": "Termonuclear",
+      "url": "https://open.spotify.com/track/7AvyWxJDbrAjR3G50RBW3b"
+    },
+    {
+      "added_at": "2026-04-26 14:38:37",
+      "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 195146,
+      "name": "KOKO",
+      "url": "https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"
+    },
+    {
+      "added_at": "2026-04-26 14:38:37",
+      "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 264946,
+      "name": "POR SI MA\u00d1ANA NO ESTOY",
+      "url": "https://open.spotify.com/track/595wwjQiad6e6lSTScmXvz"
+    },
+    {
+      "added_at": "2026-04-26 14:38:37",
+      "album": {
+        "name": "In The Palm Of Your Hand",
+        "url": "https://open.spotify.com/album/7pfb8J6I3C3jfJvagjLaYk"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 164546,
+      "name": "Made In Japan",
+      "url": "https://open.spotify.com/track/5vHs45P0mSuzl9rDRcliLK"
+    },
+    {
+      "added_at": "2026-04-26 14:38:37",
+      "album": {
+        "name": "White Trails (Expanded)",
+        "url": "https://open.spotify.com/album/4ZCCd0IZB5RizC5sz5IguU"
+      },
+      "artists": [
+        {
+          "name": "Chris Rainbow",
+          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
+        }
+      ],
+      "duration_ms": 255946,
+      "name": "Be Like a Woman",
+      "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
+    },
+    {
+      "added_at": "2026-04-26 14:38:37",
+      "album": {
+        "name": "Skokka",
+        "url": "https://open.spotify.com/album/7zMvvxOXqVcXJDGQahGVEX"
+      },
+      "artists": [
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Skokka",
+      "url": "https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi"
+    },
+    {
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "QU\u00c9 GANAS DE COMERTE",
         "url": "https://open.spotify.com/album/2I8Yr1prXIVOF9cP9vbSRx"
@@ -417,103 +449,7 @@
       "url": "https://open.spotify.com/track/0MmbPDBxrlSLSgcfZPrGe0"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
-      "album": {
-        "name": "Hambre De Triunfo",
-        "url": "https://open.spotify.com/album/3FIeE59l66LoHGgXQz9njk"
-      },
-      "artists": [
-        {
-          "name": "Corridos del Rey",
-          "url": "https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A"
-        }
-      ],
-      "duration_ms": 223409,
-      "name": "Hambre De Triunfo",
-      "url": "https://open.spotify.com/track/0lGI3MKNiJEe9nLHJcYYsm"
-    },
-    {
-      "added_at": "2026-04-25 13:30:21",
-      "album": {
-        "name": "Skokka",
-        "url": "https://open.spotify.com/album/7zMvvxOXqVcXJDGQahGVEX"
-      },
-      "artists": [
-        {
-          "name": "Huan62",
-          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Skokka",
-      "url": "https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi"
-    },
-    {
-      "added_at": "2026-04-25 13:30:21",
-      "album": {
-        "name": "White Trails (Expanded)",
-        "url": "https://open.spotify.com/album/4ZCCd0IZB5RizC5sz5IguU"
-      },
-      "artists": [
-        {
-          "name": "Chris Rainbow",
-          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
-        }
-      ],
-      "duration_ms": 255946,
-      "name": "Be Like a Woman",
-      "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
-    },
-    {
-      "added_at": "2026-04-25 13:30:21",
-      "album": {
-        "name": "Entre t\u00fa y yo",
-        "url": "https://open.spotify.com/album/1gTzaPikr2SUvlGi8tXbnf"
-      },
-      "artists": [
-        {
-          "name": "Tu Corrido Mx",
-          "url": "https://open.spotify.com/artist/5CUxd4pbcrPzIAplGgp8Lv"
-        }
-      ],
-      "duration_ms": 210024,
-      "name": "Entre t\u00fa y yo",
-      "url": "https://open.spotify.com/track/7bOlsO6AH0aH3GI3JQ5Zwf"
-    },
-    {
-      "added_at": "2026-04-25 13:30:21",
-      "album": {
-        "name": "INTERNUM",
-        "url": "https://open.spotify.com/album/0ZpAGQxAuTHuzm0CdgYHsc"
-      },
-      "artists": [
-        {
-          "name": "JOAKO",
-          "url": "https://open.spotify.com/artist/5kErqJMmN35SkXsrmLyPdc"
-        }
-      ],
-      "duration_ms": 177336,
-      "name": "suficiente.",
-      "url": "https://open.spotify.com/track/4Q1jDNoMRYdF9JLhRvuRUZ"
-    },
-    {
-      "added_at": "2026-04-25 13:30:21",
-      "album": {
-        "name": "hold me in your arms",
-        "url": "https://open.spotify.com/album/6NSLFpB3ya72odv7nahr8Q"
-      },
-      "artists": [
-        {
-          "name": "Blood Nose",
-          "url": "https://open.spotify.com/artist/6fPWD6aplRohXMpRRAF6Wa"
-        }
-      ],
-      "duration_ms": 80097,
-      "name": "hold me in your arms",
-      "url": "https://open.spotify.com/track/3e4iMLD1QVefLYMtlSF63F"
-    },
-    {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "DUAL",
         "url": "https://open.spotify.com/album/5y3kJTo3x5PBOK6aJSKWMD"
@@ -529,23 +465,55 @@
       "url": "https://open.spotify.com/track/3J8uUvHttFs8zlYxoiPVe3"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
-        "name": "Friendzone:(",
-        "url": "https://open.spotify.com/album/1hivB1fdVsELxwIq4JNgAy"
+        "name": "Hambre De Triunfo",
+        "url": "https://open.spotify.com/album/3FIeE59l66LoHGgXQz9njk"
       },
       "artists": [
         {
-          "name": "slimesanti",
-          "url": "https://open.spotify.com/artist/7m6juwK6xeE8csPoZ5MGK6"
+          "name": "Corridos del Rey",
+          "url": "https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A"
         }
       ],
-      "duration_ms": 102549,
-      "name": "Friendzone:(",
-      "url": "https://open.spotify.com/track/6A0MYQs8BhzqkGNL687WpS"
+      "duration_ms": 223409,
+      "name": "Hambre De Triunfo",
+      "url": "https://open.spotify.com/track/0lGI3MKNiJEe9nLHJcYYsm"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
+      "album": {
+        "name": "INTERNUM",
+        "url": "https://open.spotify.com/album/0ZpAGQxAuTHuzm0CdgYHsc"
+      },
+      "artists": [
+        {
+          "name": "JOAKO",
+          "url": "https://open.spotify.com/artist/5kErqJMmN35SkXsrmLyPdc"
+        }
+      ],
+      "duration_ms": 177336,
+      "name": "suficiente.",
+      "url": "https://open.spotify.com/track/4Q1jDNoMRYdF9JLhRvuRUZ"
+    },
+    {
+      "added_at": "2026-04-26 14:38:37",
+      "album": {
+        "name": "Entre t\u00fa y yo",
+        "url": "https://open.spotify.com/album/1gTzaPikr2SUvlGi8tXbnf"
+      },
+      "artists": [
+        {
+          "name": "Tu Corrido Mx",
+          "url": "https://open.spotify.com/artist/5CUxd4pbcrPzIAplGgp8Lv"
+        }
+      ],
+      "duration_ms": 210024,
+      "name": "Entre t\u00fa y yo",
+      "url": "https://open.spotify.com/track/7bOlsO6AH0aH3GI3JQ5Zwf"
+    },
+    {
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
@@ -561,23 +529,7 @@
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
-      "album": {
-        "name": "Vol.1",
-        "url": "https://open.spotify.com/album/67AYhGt60AoJa1TVcn5lCn"
-      },
-      "artists": [
-        {
-          "name": "Angine de Poitrine",
-          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
-        }
-      ],
-      "duration_ms": 343190,
-      "name": "Sherpa",
-      "url": "https://open.spotify.com/track/55mW03rqsI9s3xUnuruF7G"
-    },
-    {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "TAKA LA DENTRO",
         "url": "https://open.spotify.com/album/1xaajkD1aUsMFIC24OkkUE"
@@ -601,7 +553,23 @@
       "url": "https://open.spotify.com/track/4SN97PWG1WzClH2W08x8dr"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
+      "album": {
+        "name": "Friendzone:(",
+        "url": "https://open.spotify.com/album/1hivB1fdVsELxwIq4JNgAy"
+      },
+      "artists": [
+        {
+          "name": "slimesanti",
+          "url": "https://open.spotify.com/artist/7m6juwK6xeE8csPoZ5MGK6"
+        }
+      ],
+      "duration_ms": 102549,
+      "name": "Friendzone:(",
+      "url": "https://open.spotify.com/track/6A0MYQs8BhzqkGNL687WpS"
+    },
+    {
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "RUDE!",
         "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
@@ -617,23 +585,7 @@
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
-      "album": {
-        "name": "My World 2.0",
-        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 232720,
-      "name": "That Should Be Me",
-      "url": "https://open.spotify.com/track/0aPZbnkMoWJaJ5CNVLCj8S"
-    },
-    {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
@@ -649,59 +601,39 @@
       "url": "https://open.spotify.com/track/69ghzc538EQSVon2Gm3wrr"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
-        "name": "Te Entiendo",
-        "url": "https://open.spotify.com/album/5TFJMVpEISXqooUpJhCuxu"
+        "name": "hold me in your arms",
+        "url": "https://open.spotify.com/album/6NSLFpB3ya72odv7nahr8Q"
       },
       "artists": [
         {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+          "name": "Blood Nose",
+          "url": "https://open.spotify.com/artist/6fPWD6aplRohXMpRRAF6Wa"
         }
       ],
-      "duration_ms": 185608,
-      "name": "Te Entiendo",
-      "url": "https://open.spotify.com/track/03E9tKV8v3R1YQIz3MWlMU"
+      "duration_ms": 80097,
+      "name": "hold me in your arms",
+      "url": "https://open.spotify.com/track/3e4iMLD1QVefLYMtlSF63F"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
-        "name": "Nadie Esta Hablando De Amar",
-        "url": "https://open.spotify.com/album/7rEgS4NymjvYcfsqAGLeh0"
+        "name": "Vol.1",
+        "url": "https://open.spotify.com/album/67AYhGt60AoJa1TVcn5lCn"
       },
       "artists": [
         {
-          "name": "Jesp7Tearz",
-          "url": "https://open.spotify.com/artist/2hKzSNbt10rdDMtede2Gbi"
+          "name": "Angine de Poitrine",
+          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
         }
       ],
-      "duration_ms": 189103,
-      "name": "Nadie Esta Hablando De Amar",
-      "url": "https://open.spotify.com/track/1nQRoMDJBlSokeU8NKiNvY"
+      "duration_ms": 343190,
+      "name": "Sherpa",
+      "url": "https://open.spotify.com/track/55mW03rqsI9s3xUnuruF7G"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
-      "album": {
-        "name": "No Va a Chocar",
-        "url": "https://open.spotify.com/album/2DdJM0pjxafqdA9ntYZRdV"
-      },
-      "artists": [
-        {
-          "name": "Norambuena",
-          "url": "https://open.spotify.com/artist/6hd56U70nE8HfWvaRXoRrP"
-        },
-        {
-          "name": "RealViviendo",
-          "url": "https://open.spotify.com/artist/4vYA4xih59fWdkvmGBgTcH"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "No Va a Chocar",
-      "url": "https://open.spotify.com/track/6mxnut3OxI5xxUnbYgDnXk"
-    },
-    {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "No Dogs Allowed",
         "url": "https://open.spotify.com/album/7mXf592qrnsQ7qAvV7Aluz"
@@ -717,7 +649,39 @@
       "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
+      "album": {
+        "name": "My World 2.0",
+        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 232720,
+      "name": "That Should Be Me",
+      "url": "https://open.spotify.com/track/0aPZbnkMoWJaJ5CNVLCj8S"
+    },
+    {
+      "added_at": "2026-04-26 14:38:37",
+      "album": {
+        "name": "Te Entiendo",
+        "url": "https://open.spotify.com/album/5TFJMVpEISXqooUpJhCuxu"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "duration_ms": 185608,
+      "name": "Te Entiendo",
+      "url": "https://open.spotify.com/track/03E9tKV8v3R1YQIz3MWlMU"
+    },
+    {
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
@@ -733,7 +697,43 @@
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
+      "album": {
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
+    },
+    {
+      "added_at": "2026-04-26 14:38:37",
+      "album": {
+        "name": "Nadie Esta Hablando De Amar",
+        "url": "https://open.spotify.com/album/7rEgS4NymjvYcfsqAGLeh0"
+      },
+      "artists": [
+        {
+          "name": "Jesp7Tearz",
+          "url": "https://open.spotify.com/artist/2hKzSNbt10rdDMtede2Gbi"
+        }
+      ],
+      "duration_ms": 189103,
+      "name": "Nadie Esta Hablando De Amar",
+      "url": "https://open.spotify.com/track/1nQRoMDJBlSokeU8NKiNvY"
+    },
+    {
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "EL QUE COMPR\u00d3 PERDI\u00d3",
         "url": "https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio"
@@ -757,27 +757,43 @@
       "url": "https://open.spotify.com/track/1Xv6fhX3Dg12XdP92Xb9jA"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
-        "name": "Dracula (Remix)",
-        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+        "name": "No Va a Chocar",
+        "url": "https://open.spotify.com/album/2DdJM0pjxafqdA9ntYZRdV"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Norambuena",
+          "url": "https://open.spotify.com/artist/6hd56U70nE8HfWvaRXoRrP"
         },
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+          "name": "RealViviendo",
+          "url": "https://open.spotify.com/artist/4vYA4xih59fWdkvmGBgTcH"
         }
       ],
-      "duration_ms": 209720,
-      "name": "Dracula - JENNIE Remix",
-      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
+      "duration_ms": 186461,
+      "name": "No Va a Chocar",
+      "url": "https://open.spotify.com/track/6mxnut3OxI5xxUnbYgDnXk"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
+      "album": {
+        "name": "THE MVP OF THE YEAR",
+        "url": "https://open.spotify.com/album/1NDIUPPPe1e55wi9JTnEfY"
+      },
+      "artists": [
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        }
+      ],
+      "duration_ms": 165738,
+      "name": "UNA BABY EN SANTIAGO",
+      "url": "https://open.spotify.com/track/7CGUgOBXrfaXXvY73GzOXE"
+    },
+    {
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "Memorias <3",
         "url": "https://open.spotify.com/album/47vZWbCPtkrihW631OcCWi"
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/6r6IPuFvUX72kQGc9b46rk"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "The Romantic",
         "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
@@ -809,7 +825,27 @@
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
+      "album": {
+        "name": "MINI FALDA",
+        "url": "https://open.spotify.com/album/2Fak3I0a1PyslGbAvZBJjH"
+      },
+      "artists": [
+        {
+          "name": "Jotaerre",
+          "url": "https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "MINI FALDA",
+      "url": "https://open.spotify.com/track/5q9K5GZbJk377LDKHznfQD"
+    },
+    {
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
@@ -825,7 +861,7 @@
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "POR SI MA\u00d1ANA NO ESTOY",
         "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
@@ -845,31 +881,7 @@
       "url": "https://open.spotify.com/track/0h54mLixODOqU6vTcZMqVM"
     },
     {
-      "added_at": "2026-04-25 13:30:21",
-      "album": {
-        "name": "Pu\u00f1aladas (Acustico)",
-        "url": "https://open.spotify.com/album/5zcWUpWRaDfqJnMPsnFRyQ"
-      },
-      "artists": [
-        {
-          "name": "Lauta",
-          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
-        },
-        {
-          "name": "Amigo de Artistas",
-          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
-        },
-        {
-          "name": "Tote",
-          "url": "https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64"
-        }
-      ],
-      "duration_ms": 152034,
-      "name": "Pu\u00f1aladas (Acustico)",
-      "url": "https://open.spotify.com/track/53QqcQJy2khVsmQpyNgV0Q"
-    },
-    {
-      "added_at": "2026-04-25 13:30:21",
+      "added_at": "2026-04-26 14:38:37",
       "album": {
         "name": "111XPANTIA",
         "url": "https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy"
@@ -883,22 +895,6 @@
       "duration_ms": 177994,
       "name": "TU SANCHO",
       "url": "https://open.spotify.com/track/6eLQXa6uk2EW8drsiKbABZ"
-    },
-    {
-      "added_at": "2026-04-25 13:30:21",
-      "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Favorite Girl",
-      "url": "https://open.spotify.com/track/4nTjkWK590oBDcnIxTr1mI"
     }
   ],
   "unique_name": "Viral 50 - Chile",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAABfQS4/jqCmNo4gEkm1fBxN",
+  "snapshot_id": "aewEAAAAAAAmpQ76DMnNvvOz2id0UdFA",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Swing (From \"Marvel's Spider-Man 2\")",
+        "url": "https://open.spotify.com/album/6TLVVF2wznR6RYKnmVEH0U"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Benji.",
+          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Swing - From \"Marvel's Spider-Man 2\"",
+      "url": "https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PERFECT FANTASY",
         "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 195200,
       "name": "BOBBY BOUCHER (feat. Benji.)",
       "url": "https://open.spotify.com/track/37zzOqUUXvKxKns9Ri0JUh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Swing (From \"Marvel's Spider-Man 2\")",
-        "url": "https://open.spotify.com/album/6TLVVF2wznR6RYKnmVEH0U"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Benji.",
-          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Swing - From \"Marvel's Spider-Man 2\"",
-      "url": "https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3"
     },
     {
       "added_at": null,

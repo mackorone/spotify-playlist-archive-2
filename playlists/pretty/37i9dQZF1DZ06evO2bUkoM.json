@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAACGjfUl7IFsG7FW0FGmvj4Z",
+  "snapshot_id": "aewEAAAAAADXJi5JNp7QnoYc7SrkT5HH",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Side of Paradise",
-        "url": "https://open.spotify.com/album/32GGaHTxe2OxpiIKtD0I4v"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 211965,
-      "name": "This Side of Paradise",
-      "url": "https://open.spotify.com/track/7i1WcWycZthlbU1nBKMWQx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Taste So Good (The Cann Song)",
         "url": "https://open.spotify.com/album/46hhmMspdSlJaGjAVv4VXG"
       },
@@ -495,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Citrine EP",
-        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
+        "name": "This Side of Paradise",
+        "url": "https://open.spotify.com/album/32GGaHTxe2OxpiIKtD0I4v"
       },
       "artists": [
         {
@@ -504,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 235466,
-      "name": "One Bad Night",
-      "url": "https://open.spotify.com/track/098KHkooQ95mfdtdUJrRut"
+      "duration_ms": 211965,
+      "name": "This Side of Paradise",
+      "url": "https://open.spotify.com/track/7i1WcWycZthlbU1nBKMWQx"
     },
     {
       "added_at": null,
@@ -523,6 +507,22 @@
       "duration_ms": 189898,
       "name": "deep in the woods",
       "url": "https://open.spotify.com/track/0JmxPS0bVRETJa4haH0zhP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Citrine EP",
+        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 235466,
+      "name": "One Bad Night",
+      "url": "https://open.spotify.com/track/098KHkooQ95mfdtdUJrRut"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 167433,
+      "name": "luna",
+      "url": "https://open.spotify.com/track/4rCiYKROPDRqMGKX0zSGEo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm Too Sensitive For This Shit",
         "url": "https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 167433,
-      "name": "luna",
-      "url": "https://open.spotify.com/track/4rCiYKROPDRqMGKX0zSGEo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Citrine EP",
         "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 199666,
       "name": "Ease My Mind",
       "url": "https://open.spotify.com/track/7GHSSr69BQ0NwSbpfTjjSm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Belle to Remember",
+        "url": "https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 189872,
+      "name": "Better Than Love",
+      "url": "https://open.spotify.com/track/3ypI3OKQuqL4LxyXB04zHg"
     },
     {
       "added_at": null,
@@ -655,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Belle to Remember",
-        "url": "https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 189872,
-      "name": "Better Than Love",
-      "url": "https://open.spotify.com/track/3ypI3OKQuqL4LxyXB04zHg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Phantoms",
         "url": "https://open.spotify.com/album/0UhmXh4kJDbIhL9EeEcxCA"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 252973,
       "name": "Need You Closer",
       "url": "https://open.spotify.com/track/4ogCiDj7Np9jurdXceYg5a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Belle to Remember",
+        "url": "https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 207617,
+      "name": "Rich Youth",
+      "url": "https://open.spotify.com/track/4lwy7TthkTeLzuCTB5N2vD"
     },
     {
       "added_at": null,
@@ -727,22 +743,6 @@
       "duration_ms": 168344,
       "name": "Glory Days (feat. Hayley Kiyoko) - Party Pupils Remix",
       "url": "https://open.spotify.com/track/3CZqTaiEQdN61xQP58BNRO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Belle to Remember",
-        "url": "https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 207617,
-      "name": "Rich Youth",
-      "url": "https://open.spotify.com/track/4lwy7TthkTeLzuCTB5N2vD"
     },
     {
       "added_at": null,

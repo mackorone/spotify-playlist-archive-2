@@ -3237,6 +3237,28 @@
     },
     {
       "album": {
+        "name": "Leave Me, Don't Go",
+        "url": "https://open.spotify.com/album/3lwwcidwOX4SnqANesl4Th"
+      },
+      "artists": [
+        {
+          "name": "\uae30\ud0dc",
+          "url": "https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6"
+        },
+        {
+          "name": "Baek Yeseul",
+          "url": "https://open.spotify.com/artist/7GE4KJsseSG0G1848UQpro"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270508,
+      "name": "Leave Me, Don\u2032t Go",
+      "url": "https://open.spotify.com/track/1qbv4T79mIiOXtm4ZfEIlS"
+    },
+    {
+      "album": {
         "name": "Once again OST Part 1",
         "url": "https://open.spotify.com/album/23T8IExqplmEeLrmNhXpQR"
       },
@@ -4475,6 +4497,24 @@
     },
     {
       "album": {
+        "name": "We Are All Trying Here (Original Soundtrack) Part.3",
+        "url": "https://open.spotify.com/album/3zE1rg1hYnr1WHQVWpd15P"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/1EjyOE9pgRwUmNa5OUmGjB"
+    },
+    {
+      "album": {
         "name": "Please Forget Me",
         "url": "https://open.spotify.com/album/4U5CaXlqvjccAJlP5vP5uT"
       },
@@ -4897,6 +4937,24 @@
     },
     {
       "album": {
+        "name": "So We Part",
+        "url": "https://open.spotify.com/album/2w0IotbX2VGRiRWEjGzym6"
+      },
+      "artists": [
+        {
+          "name": "WISH",
+          "url": "https://open.spotify.com/artist/0s37dFF48oWhXkCxNDD7RP"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "So We Part",
+      "url": "https://open.spotify.com/track/7pw2KLLvJ7CYFY8WD5WRgD"
+    },
+    {
+      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 5",
         "url": "https://open.spotify.com/album/685mm3HkTIAFJYRSpGJul8"
       },
@@ -5168,7 +5226,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 219746,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
@@ -5646,7 +5704,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 193280,
       "name": "The Walking Dead (Feat. Kim Feel)",
       "url": "https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ"
@@ -5848,7 +5906,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 186114,
       "name": "Unreachable (Feat. Milena)",
       "url": "https://open.spotify.com/track/3L0ipvNeREfCAJWCPaweUu"

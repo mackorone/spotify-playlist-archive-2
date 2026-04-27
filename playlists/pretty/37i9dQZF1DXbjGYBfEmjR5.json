@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 363038,
+  "num_followers": 363076,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Slowed Midnight",
-        "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
-      },
-      "artists": [
-        {
-          "name": "Cape Coral",
-          "url": "https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6"
-        },
-        {
-          "name": "Android Apartment",
-          "url": "https://open.spotify.com/artist/3PZDkvn9bDUKreyMfQeuCK"
-        }
-      ],
-      "duration_ms": 155750,
-      "name": "Ritmo.",
-      "url": "https://open.spotify.com/track/21m6i6sl6adnCwRR9WKcBY"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Delicate",
         "url": "https://open.spotify.com/album/1JFB5WfXGEAkxpQlzgVRZg"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 292939,
       "name": "Tropical Feeling",
       "url": "https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Slowed Midnight",
+        "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
+      },
+      "artists": [
+        {
+          "name": "Cape Coral",
+          "url": "https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6"
+        },
+        {
+          "name": "Android Apartment",
+          "url": "https://open.spotify.com/artist/3PZDkvn9bDUKreyMfQeuCK"
+        }
+      ],
+      "duration_ms": 155750,
+      "name": "Ritmo.",
+      "url": "https://open.spotify.com/track/21m6i6sl6adnCwRR9WKcBY"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Your Secrets",
+        "url": "https://open.spotify.com/album/6cH9tOo2WeiFrZhDMPqM5T"
+      },
+      "artists": [
+        {
+          "name": "Sui Uzi",
+          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
+        }
+      ],
+      "duration_ms": 240526,
+      "name": "Your Secrets",
+      "url": "https://open.spotify.com/track/6t3WRqrQW6PTLgYZLRIQvL"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Dance Tonite",
         "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
       },
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Your Secrets",
-        "url": "https://open.spotify.com/album/6cH9tOo2WeiFrZhDMPqM5T"
+        "name": "Paradise Break",
+        "url": "https://open.spotify.com/album/6PbGSUZ6oaSXT82SRE6Vzf"
       },
       "artists": [
         {
-          "name": "Sui Uzi",
-          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
+          "name": "Sparkly Night",
+          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
         }
       ],
-      "duration_ms": 240526,
-      "name": "Your Secrets",
-      "url": "https://open.spotify.com/track/6t3WRqrQW6PTLgYZLRIQvL"
+      "duration_ms": 175567,
+      "name": "Lady Paradise",
+      "url": "https://open.spotify.com/track/5v6UbRijN2QIvkEK4Alssb"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Paradise Break",
-        "url": "https://open.spotify.com/album/6PbGSUZ6oaSXT82SRE6Vzf"
-      },
-      "artists": [
-        {
-          "name": "Sparkly Night",
-          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
-        }
-      ],
-      "duration_ms": 175567,
-      "name": "Lady Paradise",
-      "url": "https://open.spotify.com/track/5v6UbRijN2QIvkEK4Alssb"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Pok\u00e9wave III",
         "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
       },
@@ -1291,22 +1291,6 @@
       "duration_ms": 208840,
       "name": "Rainbow Badge",
       "url": "https://open.spotify.com/track/58maRxsmhNQcne43mcphIV"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "At the End of the Day",
-        "url": "https://open.spotify.com/album/7Lb31BHTAcVO4bsiqyBEUv"
-      },
-      "artists": [
-        {
-          "name": "Remlarr",
-          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Electroptysis",
-      "url": "https://open.spotify.com/track/5S0RLQ2BlIdDtWrRk0b4qz"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1327,6 +1311,22 @@
       "duration_ms": 243167,
       "name": "VTEC",
       "url": "https://open.spotify.com/track/6oCqimPPtCdcCtIettP6v9"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "At the End of the Day",
+        "url": "https://open.spotify.com/album/7Lb31BHTAcVO4bsiqyBEUv"
+      },
+      "artists": [
+        {
+          "name": "Remlarr",
+          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Electroptysis",
+      "url": "https://open.spotify.com/track/5S0RLQ2BlIdDtWrRk0b4qz"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Slowed Midnight",
-        "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
-      },
-      "artists": [
-        {
-          "name": "Cape Coral",
-          "url": "https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Querelle",
-      "url": "https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Doom Mix, Vol. V",
         "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 234666,
       "name": "Take Me Back to Shinjuku",
       "url": "https://open.spotify.com/track/0M7udppMcGyscI3NtVXvQJ"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Slowed Midnight",
+        "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
+      },
+      "artists": [
+        {
+          "name": "Cape Coral",
+          "url": "https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Querelle",
+      "url": "https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Virtual Girls Band a.k.a. Sparkle",
-        "url": "https://open.spotify.com/album/4lduHCRgtsSJWm8ktzp5mf"
-      },
-      "artists": [
-        {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
-        }
-      ],
-      "duration_ms": 186664,
-      "name": "Break Your Heart",
-      "url": "https://open.spotify.com/track/0Opv7LwmfN6g0fCS0Zu2hG"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Cheetahs in Barcelona",
         "url": "https://open.spotify.com/album/3dkGNzkrkpvJ7cwBvNOFAC"
       },
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Virtual Girls Band a.k.a. Sparkle",
+        "url": "https://open.spotify.com/album/4lduHCRgtsSJWm8ktzp5mf"
+      },
+      "artists": [
+        {
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+        }
+      ],
+      "duration_ms": 186664,
+      "name": "Break Your Heart",
+      "url": "https://open.spotify.com/track/0Opv7LwmfN6g0fCS0Zu2hG"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Talk Of The Dancefloor",
         "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
       },
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Untold",
-        "url": "https://open.spotify.com/album/2FqVBo8GtPsB2P7UrcnRR1"
+        "name": "Saturn St.",
+        "url": "https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW"
       },
       "artists": [
         {
-          "name": "Sui Uzi",
-          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
+          "name": "Lando Burch",
+          "url": "https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX"
         }
       ],
-      "duration_ms": 221687,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/0GrRY7cP03k1CSlZUkicCp"
+      "duration_ms": 157500,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Untold",
+        "url": "https://open.spotify.com/album/2FqVBo8GtPsB2P7UrcnRR1"
+      },
+      "artists": [
+        {
+          "name": "Sui Uzi",
+          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
+        }
+      ],
+      "duration_ms": 221687,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/0GrRY7cP03k1CSlZUkicCp"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Galetus",
         "url": "https://open.spotify.com/album/0eEBi6zsHUpc2dWLEFVGZR"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 207138,
       "name": "Galetus",
       "url": "https://open.spotify.com/track/5hEqabdQUshqGx8JERN7XK"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Saturn St.",
-        "url": "https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW"
-      },
-      "artists": [
-        {
-          "name": "Lando Burch",
-          "url": "https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "C'est La Vie",
-      "url": "https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "TIMERIDER 1983",
-        "url": "https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK"
-      },
-      "artists": [
-        {
-          "name": "Adrianwave",
-          "url": "https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw"
-        }
-      ],
-      "duration_ms": 260625,
-      "name": "\u541bKimi (You Came Along)",
-      "url": "https://open.spotify.com/track/4Kn3DV0YzPkzCNcjUlFRfa"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Enigma",
         "url": "https://open.spotify.com/album/71BDDT4vAMTa9gPZh96kbJ"
       },
@@ -1679,18 +1663,34 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/2bH0COrwebvZlo2k7XrXki"
+        "name": "TIMERIDER 1983",
+        "url": "https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK"
       },
       "artists": [
         {
-          "name": "Versiple",
-          "url": "https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU"
+          "name": "Adrianwave",
+          "url": "https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw"
         }
       ],
-      "duration_ms": 303148,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX"
+      "duration_ms": 260625,
+      "name": "\u541bKimi (You Came Along)",
+      "url": "https://open.spotify.com/track/4Kn3DV0YzPkzCNcjUlFRfa"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Desolate",
+        "url": "https://open.spotify.com/album/0waobASW8LPI2ddSKVkKJF"
+      },
+      "artists": [
+        {
+          "name": "Sui Uzi",
+          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
+        }
+      ],
+      "duration_ms": 281697,
+      "name": "Desolate",
+      "url": "https://open.spotify.com/track/6ySdY0Ps0lKA6IfXpU0hy8"
     },
     {
       "added_at": "2023-07-18 02:21:29",

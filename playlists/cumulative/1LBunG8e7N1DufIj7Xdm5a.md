@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,311 songs - 9 day 13 hr 34 min
+4,312 songs - 9 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3810,6 +3810,7 @@
 | [To Myself](https://open.spotify.com/track/1Lcd50j95y2ChgX9epkKTf) | [OOTEBS](https://open.spotify.com/artist/6mjlNdKlY7hTXXLKRhc0dU) | [To Myself](https://open.spotify.com/album/5CI2FtvvwlG7ELXAmS0MvC) | 2:36 | 2025-10-29 |  |
 | [To the Stars](https://open.spotify.com/track/1EywEDhXLVxCgRgXalr7vv) | [murCATolog](https://open.spotify.com/artist/2KoZ9RKRH2ktVlVpDEUoYj) | [To the Stars](https://open.spotify.com/album/08YwWTkdw3Jn23upBLJzOz) | 2:45 | 2025-06-04 |  |
 | [Today](https://open.spotify.com/track/49PfWL8BrIeKxWRjEgltHP) | [Icoligihem](https://open.spotify.com/artist/4LzuMwJ3dnO6BrD5g2Phyg) | [Today](https://open.spotify.com/album/2TQ0UzAoRsh6DOUMCwW5Bc) | 3:21 | 2025-10-17 |  |
+| [Todo Quedó En Silencio](https://open.spotify.com/track/4G1fHgE7RWTbLEHfudgFII) | [Luz Entre Ruinas](https://open.spotify.com/artist/6ihnEVCMt4Z0Of7gMA2K2f) | [Todo Quedó En Silencio](https://open.spotify.com/album/6THtI92FpueHEE21mYFr5H) | 3:33 | 2026-04-26 |  |
 | [TOGETHER](https://open.spotify.com/track/5harN9VAHDstgi9ez1x4ya) | [cyanyt](https://open.spotify.com/artist/1skjqgUAXgfPP6B6qYcHTP) | [TOGETHER](https://open.spotify.com/album/5UZUUVD9eVVC2bhYrlOgIn) | 3:03 | 2025-10-27 |  |
 | [Together Forever](https://open.spotify.com/track/29CBzKLKdZUOYfe08s6NLg) | [Mines Mood](https://open.spotify.com/artist/6ZcxZKpuMGvlDYczCi1DTj) | [Together Forever](https://open.spotify.com/album/4jTJz6dJniywEeIdV95SO5) | 3:12 | 2025-01-28 |  |
 | [Tokito](https://open.spotify.com/track/1kiKm1kOKGQ9rQyhvjmFQw) | [Davizak Angrett](https://open.spotify.com/artist/2q49iNhEeej3n1VG66Vp1C) | [Tenemo To](https://open.spotify.com/album/2LbsfykNu661mnpViY78ro) | 3:36 | 2025-06-23 |  |

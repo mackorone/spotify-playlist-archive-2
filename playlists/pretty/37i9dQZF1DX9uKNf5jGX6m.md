@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,133,843 likes - 197 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,134,077 likes - 197 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 196 | [Tempest](https://open.spotify.com/track/3PzsiqywMM10T2frPmozQe) | [Chasing Storms](https://open.spotify.com/artist/12Gz0AKNrCzOwYPuURs7ux) | [Tempest](https://open.spotify.com/album/3ShfDXHHXF9Hf0tSbrV7Ma) | 2:41 |
 | 197 | [Forgotten](https://open.spotify.com/track/7ssVuuKwOMXDMiLB734NSn) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Forgotten](https://open.spotify.com/album/09gtcLeH4GTC0N4gfFUqV0) | 2:59 |
 
-Snapshot ID: `AAAAANsQ05b2eNd9vtebIP4Mar9wV1JX`
+Snapshot ID: `AAAAAM4VJrzDZzQ6OEG6xrw2E4PT4hDm`

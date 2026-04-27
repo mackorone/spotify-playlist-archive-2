@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-499 songs - 1 day 5 hr 6 min
+500 songs - 1 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Color Your Night](https://open.spotify.com/track/4pjFNyjGaoKgLTnndISP6V) | [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [Azumi Takahashi](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 3:47 | 2024-04-26 |  |
 | [completion](https://open.spotify.com/track/4cMiyKkRtjzglIfBQtWEzH) | [Megurimeguru](https://open.spotify.com/artist/5z8DugoSIrKIjVw0i8DTFk) | [completion](https://open.spotify.com/album/6el6qm4djpKHsw5hoAwDZo) | 2:09 | 2025-02-18 |  |
 | [Confusion](https://open.spotify.com/track/4DsphrptpZrdBEbDV8Zrqb) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 4:21 | 2026-01-17 |  |
+| [Coppelia](https://open.spotify.com/track/70SMFYMWEIEUXa7mP3EDAD) | [Kaya](https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg) | [Nocturne](https://open.spotify.com/album/3qnEQEn785VdJmtJcWA1Iw) | 4:18 | 2026-04-26 |  |
 | [Creator](https://open.spotify.com/track/1mbLvyFNIifliPtmMmRQN9) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft: Tricky Trials \(Original Game Soundtrack\)](https://open.spotify.com/album/3ug2vtKk0URmKrt7ppYQst) | 2:57 | 2024-05-02 |  |
 | [Cubism](https://open.spotify.com/track/6W3beEMj18hHp1wDlqGcbt) | [OMGkawaiiAngel](https://open.spotify.com/artist/5VVyj1Rj1VhcoBUrGC3SjG), [NEEDY GIRL OVERDOSE](https://open.spotify.com/artist/2N5EgsGVfPXKFH835Fc65K), [Haraguchi Sasuke](https://open.spotify.com/artist/290RfJGAmzANeDRd0ArLOj) | [Cubism](https://open.spotify.com/album/7hzpkAjq18QBwntRZ1m3O1) | 2:27 | 2025-09-11 |  |
 | [Cubism](https://open.spotify.com/track/1kNX0OJo68zyYfeyTDyp78) | [Qisano](https://open.spotify.com/artist/4lxIvq3a7DcynJVycpSpML) | [Cubism](https://open.spotify.com/album/758JEaGEMDLXtFFCLxs1wc) | 3:25 | 2025-06-29 |  |

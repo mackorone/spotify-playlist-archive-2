@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,974 songs - 13 day 21 hr 45 min
+5,975 songs - 13 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4804,6 +4804,7 @@
 | [Stop Me Thinking of You](https://open.spotify.com/track/11wKSDW1ayrbr5XaE80w4J) | [WAMI](https://open.spotify.com/artist/2qrqGisLb0cY61ual20l9y), [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Stop Me Thinking Of You](https://open.spotify.com/album/2vHJvZ9Xx06PkS9wwIEfsk) | 3:06 | 2021-10-02 | 2021-10-17 |
 | [Stop\-n\-Go](https://open.spotify.com/track/5jlgXhNzkdqIqSGa0R4me2) | [Vyrol](https://open.spotify.com/artist/5xIRGqB42AsSPbHuewjH9N) | [Stop\-n\-Go](https://open.spotify.com/album/1Z0wGIVUT1oYNCrBgug1sY) | 2:43 | 2025-11-04 | 2025-11-16 |
 | [Stories](https://open.spotify.com/track/4EZqTGsY8UxFyr5GLRMBvO) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [Stories](https://open.spotify.com/album/6Nd1ADacijcAndvjzV7dh9) | 2:46 | 2023-06-17 | 2023-07-02 |
+| [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 | 2026-04-26 |  |
 | [Story](https://open.spotify.com/track/7jHqAeN50jGUywAz4VTWRm) | [Myoon](https://open.spotify.com/artist/4Po0xBibKDqudld3gYGCTE) | [Story](https://open.spotify.com/album/3E4mc92fBvFU8JTN7820fC) | 3:48 | 2021-04-30 | 2021-05-16 |
 | [Straight Face](https://open.spotify.com/track/30OU60kBWs0LU0igNfVX8e) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Marco Giovanni](https://open.spotify.com/artist/51THgUeAqTsEM3oTDezXfM) | [Straight Face](https://open.spotify.com/album/6khiA0nqCwlh7s7y68PqsZ) | 2:51 | 2023-12-26 | 2024-01-03 |
 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 | 2021-07-11 | 2024-04-21 |

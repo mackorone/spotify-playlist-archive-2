@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Kehlani & Usher, Samuel Welten & Lil Kleine, Noah Kahan, Trobi, Qlas, Gerard Joling en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,867 likes - 91 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,861 likes - 91 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

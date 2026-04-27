@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 470240,
+  "num_followers": 470381,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAABeeZ0a/2OP+D/fr7OpSxga",
+  "snapshot_id": "aewEAAAAAACuT+QyoPOFbQWvIizeM94j",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simple Things (Piano Version)",
-        "url": "https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz"
+        "name": "Bed on Fire",
+        "url": "https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 179043,
-      "name": "Simple Things",
-      "url": "https://open.spotify.com/track/3qTnncgYlMT0k0Z0prgUgD"
+      "duration_ms": 228507,
+      "name": "Bed on Fire",
+      "url": "https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bed on Fire",
-        "url": "https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg"
+        "name": "Simple Things (Piano Version)",
+        "url": "https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 228507,
-      "name": "Bed on Fire",
-      "url": "https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV"
+      "duration_ms": 179043,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/3qTnncgYlMT0k0Z0prgUgD"
     },
     {
       "added_at": null,
@@ -467,18 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lose Control (Alt. Versions)",
-        "url": "https://open.spotify.com/album/0wafgE8f3oztSY6jmbMzWL"
+        "name": "Broke (feat. Thomas Rhett)",
+        "url": "https://open.spotify.com/album/6G1IliLfJTzCkHBvj5idiS"
       },
       "artists": [
         {
           "name": "Teddy Swims",
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 206426,
-      "name": "Lose Control - Piano Version",
-      "url": "https://open.spotify.com/track/7b0fpuq2aRMB9RfcSOWjNW"
+      "duration_ms": 160692,
+      "name": "Broke (feat. Thomas Rhett)",
+      "url": "https://open.spotify.com/track/1etcoCl2mkHpMHkMVco8iz"
     },
     {
       "added_at": null,
@@ -499,22 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broke (feat. Thomas Rhett)",
-        "url": "https://open.spotify.com/album/6G1IliLfJTzCkHBvj5idiS"
+        "name": "Lose Control (Alt. Versions)",
+        "url": "https://open.spotify.com/album/0wafgE8f3oztSY6jmbMzWL"
       },
       "artists": [
         {
           "name": "Teddy Swims",
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 160692,
-      "name": "Broke (feat. Thomas Rhett)",
-      "url": "https://open.spotify.com/track/1etcoCl2mkHpMHkMVco8iz"
+      "duration_ms": 206426,
+      "name": "Lose Control - Piano Version",
+      "url": "https://open.spotify.com/track/7b0fpuq2aRMB9RfcSOWjNW"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I've Tried Everything But Therapy (Part 1.5)",
+        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 176225,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/3WyUluIcDGvi2sCAOpiJUH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FACE MYSELF",
         "url": "https://open.spotify.com/album/5Qkkzt6qV0bjsHDWI2xd0w"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 227903,
       "name": "FACE MYSELF",
       "url": "https://open.spotify.com/track/4O44AxJYAgZIP8aQzKvCMF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1.5)",
-        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 176225,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/3WyUluIcDGvi2sCAOpiJUH"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unlearning",
-        "url": "https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 192491,
-      "name": "Somebody Should Kiss You",
-      "url": "https://open.spotify.com/track/5AfsHUyPD9gfSEUYV3i5Nw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Someone You Loved",
         "url": "https://open.spotify.com/album/2e5jps2AoZA1q89RCCocHR"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 179176,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/0voD3AU9IVGAyCXeV8GeSz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unlearning",
+        "url": "https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 192491,
+      "name": "Somebody Should Kiss You",
+      "url": "https://open.spotify.com/track/5AfsHUyPD9gfSEUYV3i5Nw"
     },
     {
       "added_at": null,

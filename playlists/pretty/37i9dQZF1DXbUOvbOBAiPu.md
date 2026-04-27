@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Bazart, DJ Licious x Milow, Kehlani x USHER, Noah Kahan and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,216 likes - 144 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,224 likes - 144 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 759 likes - 97 songs - 5 hr 25 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 762 likes - 98 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,5 +105,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 95 | [Que No Te Importe](https://open.spotify.com/track/4kXG6SQ0NF2cUpvoZjaClf) | [Karlex Pitt](https://open.spotify.com/artist/6RZcX1OjxVzN6j1gycuevD) | [Que No Te Importe](https://open.spotify.com/album/0yYgk2KXBhW1A2AgLXMgw4) | 2:31 |
 | 96 | [Libero](https://open.spotify.com/track/5hF1NTbssOdxNlq1gff94O) | [HIRUNDO](https://open.spotify.com/artist/07ZBrNvM8jzpBrKNV7F5jk) | [Libero](https://open.spotify.com/album/2Td6GhaGd2bLCjtPwgeJdj) | 2:57 |
 | 97 | [Meta](https://open.spotify.com/track/6bkUhClIp0aid5XGt3dA1e) | [HIRUNDO](https://open.spotify.com/artist/07ZBrNvM8jzpBrKNV7F5jk) | [Meta](https://open.spotify.com/album/5NkecLhbahD5w3xgFxYoH1) | 3:24 |
+| 98 | [What we doin?](https://open.spotify.com/track/4ZyOh1Evg8rRy5Y95HXUeG) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [What we doin?](https://open.spotify.com/album/6fESAUJA3sxTjbWnwoV79U) | 2:58 |
 
-Snapshot ID: `AAADjRLDpEOVRLsMQwAofNLpUrZxADeC`
+Snapshot ID: `AAADjlj6dkquZGJ9FJfQVAINztjPhusI`

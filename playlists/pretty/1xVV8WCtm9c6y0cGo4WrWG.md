@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > The newest and best Hip\-Hop tracks, updated weekly! Cover: Yeat &amp; EsDeeKid
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,939 likes - 101 songs - 4 hr 59 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,938 likes - 101 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

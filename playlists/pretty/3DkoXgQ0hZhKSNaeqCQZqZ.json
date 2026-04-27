@@ -1,12 +1,12 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1083,
+  "num_followers": 1084,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFQ2doCKKBYvrg/AFTHDqrIwNYo3im",
+  "snapshot_id": "AAAFREmINHl/+Ega1nF3+QjQNHgGzdH7",
   "tracks": [
     {
       "added_at": "2026-04-24 23:30:24",
@@ -29,22 +29,6 @@
       "url": "https://open.spotify.com/track/11mf7BvMAcOuFodbkFnqLE"
     },
     {
-      "added_at": "2026-04-23 22:00:47",
-      "album": {
-        "name": "The Air That You And I Breathe Is Not The Same (ECLIPSED)",
-        "url": "https://open.spotify.com/album/3I1KfgTO9cIaiV72Eigz1y"
-      },
-      "artists": [
-        {
-          "name": "Biscuit",
-          "url": "https://open.spotify.com/artist/75RaPp7xp9Czh1CpzWyUUR"
-        }
-      ],
-      "duration_ms": 295636,
-      "name": "The Air That You And I Breathe Is Not The Same - ECLIPSED",
-      "url": "https://open.spotify.com/track/46pdXv8YDVVPk558tchreU"
-    },
-    {
       "added_at": "2026-04-24 21:05:18",
       "album": {
         "name": "RAVEPOP REMIXES (Preview)",
@@ -63,6 +47,22 @@
       "duration_ms": 139862,
       "name": "EAT YOU UP! - Ricco Harver Remix",
       "url": "https://open.spotify.com/track/75gCrv8FPUVshSw5w98NHp"
+    },
+    {
+      "added_at": "2026-04-23 22:00:47",
+      "album": {
+        "name": "The Air That You And I Breathe Is Not The Same (ECLIPSED)",
+        "url": "https://open.spotify.com/album/3I1KfgTO9cIaiV72Eigz1y"
+      },
+      "artists": [
+        {
+          "name": "Biscuit",
+          "url": "https://open.spotify.com/artist/75RaPp7xp9Czh1CpzWyUUR"
+        }
+      ],
+      "duration_ms": 295636,
+      "name": "The Air That You And I Breathe Is Not The Same - ECLIPSED",
+      "url": "https://open.spotify.com/track/46pdXv8YDVVPk558tchreU"
     },
     {
       "added_at": "2026-04-15 18:25:06",

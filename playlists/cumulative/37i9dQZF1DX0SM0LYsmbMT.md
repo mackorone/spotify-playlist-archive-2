@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,530 songs - 7 day 4 hr 0 min
+4,531 songs - 7 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1658,7 +1658,7 @@
 | [higher](https://open.spotify.com/track/1zvi8dfPE8N05au0znnRhD) | [Prod\. By Outtake](https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc) | [higher](https://open.spotify.com/album/2JIRIG79MPFLsKlZE1wOse) | 1:58 | 2021-11-19 | 2025-02-07 |
 | [Higher](https://open.spotify.com/track/5vee7TEioh9MxJ1cJ5QRgR) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Higher](https://open.spotify.com/album/2Drd0p0rR7MCSzs9EBjkTy) | 1:45 | 2023-07-27 | 2023-08-22 |
 | [Highkey](https://open.spotify.com/track/3FEgYzxBc4QM5fygfEBoL0) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Highkey](https://open.spotify.com/album/7ry9cOcoDcsbWGcHmgnVN4) | 2:32 | 2024-05-30 | 2024-10-11 |
-| [Highlights](https://open.spotify.com/track/6o5FielglUNmI9gRZ2eMuZ) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Highlights](https://open.spotify.com/album/6NSyRxZGyQ1iJlwijvo4pQ) | 2:00 | 2026-04-10 |  |
+| [Highlights](https://open.spotify.com/track/6o5FielglUNmI9gRZ2eMuZ) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Highlights](https://open.spotify.com/album/6NSyRxZGyQ1iJlwijvo4pQ) | 2:00 | 2026-04-10 | 2026-04-27 |
 | [Himawari](https://open.spotify.com/track/6qFATy6A0wlVvY6jjKzDLW) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [Himawari](https://open.spotify.com/album/4FNNBeMkEB1Q0oCvvoiSG1) | 2:26 | 2021-10-29 | 2023-01-27 |
 | [hiro](https://open.spotify.com/track/1cO3FUW4M7E56H9HcFclCB) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [hiro \| mori](https://open.spotify.com/album/4pArbij5jHQfdMIwrPnurN) | 2:25 | 2020-04-18 | 2020-06-19 |
 | [Hit Snooze](https://open.spotify.com/track/0bWuelZvef2phu1D5Gq3BI) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [Hit Snooze](https://open.spotify.com/album/7zqcqCtcicIaWnwQwnwVXf) | 2:05 | 2022-11-17 | 2023-03-25 |
@@ -3047,6 +3047,7 @@
 | [Poko](https://open.spotify.com/track/3SdlVeyoK4YlDTiBPNIHWv) | [Fthmlss](https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3) | [Poko](https://open.spotify.com/album/6IswL3a4RuHkMjcEwlQyyQ) | 2:41 | 2021-08-14 | 2022-05-13 |
 | [Pokémon Center](https://open.spotify.com/track/0B0Uf2JZsO1QtNthcsmKz1) | [Tee Lopes](https://open.spotify.com/artist/5ZOKvzD4GQ7Yg2CS4CVbRb), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Pokémon Center](https://open.spotify.com/album/6DfOkOYeJGdkqEKlqg0cOA) | 2:53 | 2021-05-21 | 2021-05-28 |
 | [Polaroids](https://open.spotify.com/track/7kedyO9WGXcrvpRATAX0C8) | [Midnight Hour](https://open.spotify.com/artist/6UFBs0ELMi8M2SewSY3Zs5), [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Polaroids](https://open.spotify.com/album/6Z4oxIV8uRTX3IIEeZsWWp) | 2:18 | 2026-04-24 |  |
+| [Pollen](https://open.spotify.com/track/0npTS3tR5pfQKgUFQMObJc) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Pollen](https://open.spotify.com/album/3vD0E19ggfNI4oWFPvVgSN) | 2:21 | 2026-04-24 |  |
 | [pomegranate](https://open.spotify.com/track/5eOwvzNi8szbYfOIYwhf8y) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [pomegranate](https://open.spotify.com/album/3HFFNdAC5otcM8YIAbX1at) | 1:46 | 2021-08-20 | 2021-09-09 |
 | [Pompa](https://open.spotify.com/track/3bNMHqvJdrYzHrbnUHSxKW) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c), [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [Pompa](https://open.spotify.com/album/4OhW2rv3rkFio33CPPKFAh) | 2:07 | 2020-10-09 | 2021-02-12 |
 | [Pompette](https://open.spotify.com/track/3XYpdstVidw7SNGVInx341) | [Suff Daddy](https://open.spotify.com/artist/7BYXrz5LhCrix6A3EwPvU0) | [Pompette / Supa Suff Kato](https://open.spotify.com/album/712KwdrSWwhQu7ZExm4g8s) | 2:36 | 2020-02-14 | 2020-05-12 |

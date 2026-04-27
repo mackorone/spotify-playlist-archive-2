@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 169390,
+  "num_followers": 169395,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAADHCxjc1NMlJP5LO9unEUEd",
+  "snapshot_id": "aewEAAAAAAB/2H7+zh8oliGV3lSYXn3j",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walpurgis",
-        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 285826,
-      "name": "STAND-ALONE",
-      "url": "https://open.spotify.com/track/4adxfjDov8fxK1vXTVvGfU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/5RVfqMRgL4klOhPZwyXlbt"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 235202,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/5syUIljMeRXFhqbrCGrxRH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walpurgis",
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 285826,
+      "name": "STAND-ALONE",
+      "url": "https://open.spotify.com/track/4adxfjDov8fxK1vXTVvGfU"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST SELECTION \"blanc\"",
-        "url": "https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 296600,
-      "name": "March of Time",
-      "url": "https://open.spotify.com/track/7o7LJevfeMNDQWRUsA4VHP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u8776\u3005\u7d50\u3073",
         "url": "https://open.spotify.com/album/6Sxen65iUIObRklGqP1iTh"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 302960,
       "name": "\u30bb\u30d7\u30c6\u30f3\u30d0\u30fc\u3055\u3093",
       "url": "https://open.spotify.com/track/684qXOiHeMagUHN4eto8bv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BEST SELECTION \"blanc\"",
+        "url": "https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 296600,
+      "name": "March of Time",
+      "url": "https://open.spotify.com/track/7o7LJevfeMNDQWRUsA4VHP"
     }
   ],
   "unique_name": "This Is Aimer",

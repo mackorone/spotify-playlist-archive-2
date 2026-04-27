@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-183 songs - 9 hr 18 min
+185 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Drunk On You](https://open.spotify.com/track/25HWrN7rPVMy7r7JlYZvsC) | [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC) | [Drunk On You](https://open.spotify.com/album/7oAvImtminoHsBgJFgKgCd) | 3:28 | 2024-01-29 |  |
 | [Du Fehlst Hier](https://open.spotify.com/track/01QqgzwltAoxvlXPvGnNJ7) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Du Fehlst Hier](https://open.spotify.com/album/6hqFDjBsVVljEJoR4MlCm2) | 2:49 | 2025-11-13 | 2025-12-18 |
 | [Du Fehlst Hier](https://open.spotify.com/track/5qD7oqZsxQ7JPSB4LE6EK8) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Halbzeit](https://open.spotify.com/album/5mbpVmDxFNVp1Y3QTI5mU5) | 2:49 | 2025-12-17 |  |
+| [DUM](https://open.spotify.com/track/2pX6cKYZ5qJN6lzl7E8b9S) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [PULSE](https://open.spotify.com/album/1y1ROIYZ2lxHtWwlGmkJX5) | 2:59 | 2026-04-26 |  |
 | [Dye My Hair](https://open.spotify.com/track/6iOeQNXb0fFP3TDCzVPts8) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Dye My Hair](https://open.spotify.com/album/72OGxvqzD8lVsmT0HsaEPS) | 3:27 | 2024-01-29 |  |
 | [Easy](https://open.spotify.com/track/7zIAOOs39Z7913Off5G7FD) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos](https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl) | 3:08 | 2024-01-29 |  |
 | [Einfach](https://open.spotify.com/track/4AsCLebVfa8IMmrUfG3VF7) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Gute Nacht](https://open.spotify.com/album/6HXofmpALQ71a6Ri5WKegT) | 3:24 | 2024-01-29 |  |
@@ -93,6 +94,7 @@
 | [Hunger](https://open.spotify.com/track/4SO3szcwUCQHnM5AXB6XYw) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Erde & Knochen](https://open.spotify.com/album/47tOfXJ9EW6pO26FKzFBn7) | 3:25 | 2024-01-29 |  |
 | [I Heart U](https://open.spotify.com/track/4EDUeuv5MEUkE9LXoIabFg) | [Bad Paris](https://open.spotify.com/artist/2NFeNBVDb7eHaA1bgKS0Lt) | [I Heart U \(feat\. Mimoza\)](https://open.spotify.com/album/0pP2TH966jSunaWJaiLQGi) | 3:05 | 2024-01-29 |  |
 | [Ich flieg zu dir](https://open.spotify.com/track/5qrwJRBdBzkLTjv9TojkO5) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:53 | 2024-01-29 |  |
+| [Ich glaub dir \(nicht\)](https://open.spotify.com/track/3ONRKwwLIqXDNrJFxXFF82) | [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa) | [Von Liebe...](https://open.spotify.com/album/4rKLRJvSW6QZW4t0wrkjHP) | 2:30 | 2026-04-26 |  |
 | [Ich hab dich](https://open.spotify.com/track/5KiY01Q3PmBg9G702FMaby) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Erde & Knochen](https://open.spotify.com/album/47tOfXJ9EW6pO26FKzFBn7) | 3:31 | 2024-01-29 |  |
 | [ich hasse dich](https://open.spotify.com/track/2JLZAtFOW9jTDHN1r9rlQI) | [youareslowlykillingme](https://open.spotify.com/artist/1OO6NNsMdnnZqjFPKaIiZp) | [ich hasse dich](https://open.spotify.com/album/76ABHtDaeYPnY1zpefPGR7) | 2:24 | 2024-01-29 | 2025-06-07 |
 | [Ich liebe meine Ex noch \- LUZIs Megamix](https://open.spotify.com/track/2rc5e7rZFSEJ000oVMNGVp) | [LUZI](https://open.spotify.com/artist/01toP8PPkzyiQdKgyXle10) | [LUZIs Megamix](https://open.spotify.com/album/2EN8ufsACQcGR77mCdL9IZ) | 2:51 | 2024-01-29 |  |

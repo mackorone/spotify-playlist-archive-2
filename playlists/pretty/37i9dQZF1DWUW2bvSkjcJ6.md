@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Lune, Topic, Ikkimel, Keinemusik & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,710 likes - 96 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,661 likes - 96 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

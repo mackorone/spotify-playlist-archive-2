@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-1,400 songs - 3 day 6 hr 15 min
+1,404 songs - 3 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Concrete](https://open.spotify.com/track/2gNXxEN4sBEmKyMYhAW5Fj) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Concrete](https://open.spotify.com/album/3cDTeTgcq7zXxPqTWHHitB) | 4:19 | 2026-01-29 | 2026-02-24 |
 | [Confessions on What May Be the Eve of Destruction](https://open.spotify.com/track/6ffSWRmIz4JKIgVsYG5EZD) | [Mortal Dream](https://open.spotify.com/artist/0oOBUbIZWT1c2gI4D1DalG) | [Confessions on What May Be the Eve of Destruction](https://open.spotify.com/album/5HP6BKVblC5o8SU4Y6FNDO) | 3:09 | 2026-03-06 | 2026-04-07 |
 | [Consumed](https://open.spotify.com/track/26cBcYBLQJou1rYRzQ3ZXM) | [Nicole Saphos Band](https://open.spotify.com/artist/0AArU8kQuAaBB1f1kpDClR) | [Consumed](https://open.spotify.com/album/1iCLFZm1emXsdR8kASqJ7N) | 3:47 | 2026-03-26 | 2026-04-17 |
+| [Consumed](https://open.spotify.com/track/3fd34K4lPlRIwa05R8Qvga) | [Ophanim](https://open.spotify.com/artist/6SY7HLhViXsJR5KyL7bxrB) | [Consumed](https://open.spotify.com/album/6BgBKwEWQFqhzsmx5gW6J1) | 5:11 | 2026-04-26 |  |
 | [Control Z](https://open.spotify.com/track/2K819ghYZceYzCSKxACjCX) | [TREKHAAK.](https://open.spotify.com/artist/47EmVcbLry0jMkpqrirO2T) | [Burning The Horizon](https://open.spotify.com/album/2I1Eks5EGGvz6MRcQVWC6P) | 3:10 | 2025-12-04 | 2026-01-06 |
 | [Corriendo \(think about you\)](https://open.spotify.com/track/3G12ziypGl3GL9PL2uQ0ME) | [El Abuelo](https://open.spotify.com/artist/54DZYT3m4fOOnka59lH2HY) | [Corriendo \(think about you\)](https://open.spotify.com/album/0MluI6wYBnfjejhvD53V00) | 3:17 | 2025-12-16 | 2026-01-06 |
 | [Cosquilleo](https://open.spotify.com/track/0p7lNfxGLkLLw6mXqLjwJB) | [Hanz Ruiz](https://open.spotify.com/artist/492JvkAgPNolAHLI8QPXP8) | [Cosquilleo](https://open.spotify.com/album/08LkhNcZlKqlVCnprQVXo8) | 3:24 | 2026-04-17 |  |
@@ -486,7 +487,7 @@
 | [Golden Youth](https://open.spotify.com/track/4TJJ7lPCk79jmNTI7rEK0m) | [MADDER MAX](https://open.spotify.com/artist/4hwtniLG0VgdsWus0lbbaz) | [SURVIVES](https://open.spotify.com/album/1ROk9u05RbVJLDWkmoqt0G) | 2:36 | 2026-01-12 | 2026-02-13 |
 | [Gone Too Soon](https://open.spotify.com/track/2glrpjHHKqK4sb96yMYwaw) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [Gone Too Soon](https://open.spotify.com/album/4KdQsQvZxJfXaTX5wBJtDj) | 3:24 | 2026-01-05 | 2026-01-29 |
 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 | 2025-12-17 | 2026-01-06 |
-| [Got What You Wanted](https://open.spotify.com/track/3ror7WRrkgwHorcSy4n8v9) | [Ugly Bridesmaids](https://open.spotify.com/artist/0gj5NWtV59oZATC9oRiCuB) | [Got What You Wanted](https://open.spotify.com/album/4EpAS3weiZ4RsVk4zqWC5b) | 2:42 | 2026-03-30 | 2026-04-21 |
+| [Got What You Wanted](https://open.spotify.com/track/3ror7WRrkgwHorcSy4n8v9) | [Ugly Bridesmaids](https://open.spotify.com/artist/0gj5NWtV59oZATC9oRiCuB) | [Got What You Wanted](https://open.spotify.com/album/4EpAS3weiZ4RsVk4zqWC5b) | 2:42 | 2026-03-30 |  |
 | [Grasshopper](https://open.spotify.com/track/5Fg6iuD2K3ouGgSSAi5bB4) | [Lake Rana](https://open.spotify.com/artist/72TeV5pfqO8bgM7p5lukho) | [Funeral For A Fish](https://open.spotify.com/album/2JvlFaUSNfF93YHU59xYq3) | 3:39 | 2026-03-09 | 2026-04-10 |
 | [Graveyard Sweetheart](https://open.spotify.com/track/4X9aqdTz0L02xF2POPHZFV) | [Triiiplesixxx](https://open.spotify.com/artist/55rQFsoNEHp3uIpF8mrhDI) | [Graveyard Sweetheart](https://open.spotify.com/album/21E6vOZbzVqeWIIYFGUUxN) | 2:21 | 2025-12-23 | 2026-01-15 |
 | [Greaseproof Paper](https://open.spotify.com/track/2PxE6OXL7NiTiFVNfB5ugl) | [Davenola](https://open.spotify.com/artist/1bZPqoTxPcCaTMVZOe3kvT) | [Greaseproof Paper](https://open.spotify.com/album/6ZocKDUZTGq93eCj1Cde1X) | 2:33 | 2025-08-03 |  |
@@ -614,6 +615,7 @@
 | [Intermassa](https://open.spotify.com/track/6BRVOobJ8KsfolaQJnnqRB) | [MASSA](https://open.spotify.com/artist/5T9XzZfDTS0Md8zGDQx7ZF) | [Walls](https://open.spotify.com/album/5K5dZbunzeo7fJOGe8nymX) | 2:35 | 2026-03-31 | 2026-04-21 |
 | [Into The Abyss](https://open.spotify.com/track/2i3wLIHbtIfAAV8IIWv18p) | [Banner Of The Sun](https://open.spotify.com/artist/2mXehPu27jCUu7PuQgYoZq) | [Into The Abyss](https://open.spotify.com/album/6mFmaXf3aTwmLFUPasr0Dc) | 4:55 | 2026-01-01 | 2026-04-24 |
 | [Intro](https://open.spotify.com/track/3y31Rv3XEaUipUJHXiojZ8) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 1:12 | 2025-08-03 | 2026-01-17 |
+| [Intro](https://open.spotify.com/track/3dvDMPc6AFIBkDgSRE4NQx) | [Kodin Hill 'N The Pressed Pills](https://open.spotify.com/artist/3PHByAugCg7AlaC2Nunccy) | [Pressing Matters!](https://open.spotify.com/album/2JtHj97SK3YiIVHj2HD7uM) | 3:23 | 2026-04-26 |  |
 | [invisible man](https://open.spotify.com/track/6Rs4GX7aTVgfSHSRZaVXal) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [\(no matter\) what i said](https://open.spotify.com/album/4I95LHYrHpBJhIlBo7kBW3) | 1:54 | 2026-01-05 | 2026-02-05 |
 | [Iron Tongue](https://open.spotify.com/track/63SR34XHhJMCIHeLKurD1I) | [SuzSquad](https://open.spotify.com/artist/6HpIF0D7adF7K4yWjVdVv4) | [Iron Tongue](https://open.spotify.com/album/2lDW61pIKm82VkCsmxdYGz) | 2:21 | 2025-12-28 | 2026-01-22 |
 | [Is This Love](https://open.spotify.com/track/3qkIQpy37KifoBtajiiTYN) | [Stoned Waves](https://open.spotify.com/artist/6C2X50bk3vmp75os3ZQNPs) | [Until the Planets Crash](https://open.spotify.com/album/7jzDqWgpugP45YLUb24gtN) | 5:11 | 2025-12-01 | 2025-12-24 |
@@ -1114,6 +1116,7 @@
 | [Stop the war!](https://open.spotify.com/track/7JvB1WUsAPg6hfSxquADtL) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Stop the war!](https://open.spotify.com/album/1SQhgbGs4qGP8RMLL780yn) | 2:46 | 2025-08-03 |  |
 | [Stories](https://open.spotify.com/track/08npCVBGRlSiyg7zkIdBTu) | [Eddie Wrevlonne](https://open.spotify.com/artist/040oRqmHKhgWDabtyQBiqa) | [Bright Lights / Low Lives](https://open.spotify.com/album/5PN8glEtGnWKAbB1TtgQYv) | 3:30 | 2025-12-22 | 2026-01-15 |
 | [Straight Edging \- Live](https://open.spotify.com/track/1T6ZLrCMzvIyXqam5lfGoF) | [Giant DeNiro](https://open.spotify.com/artist/5lWLKEOgc6ZW7sliDPAPdY) | [Giant DeNiro \(Live\)](https://open.spotify.com/album/0QkYALhuOncbbnnsjMhGV8) | 3:13 | 2025-12-16 | 2026-03-03 |
+| [Strategy](https://open.spotify.com/track/58hNEzmVnNBvsMlq7LhyTe) | [Pigeon Pye](https://open.spotify.com/artist/72kLEU6mRB5iLrmABFhjlz) | [Story](https://open.spotify.com/album/1SEFpmr6CmYvQWXHDTMFa6) | 4:02 | 2026-04-26 |  |
 | [Street Sweeper](https://open.spotify.com/track/3cimcG8WmincuoSjdizhRB) | [Barbarism.](https://open.spotify.com/artist/0YAuUyYQorYBXjGmU3iwte) | [Street Sweeper](https://open.spotify.com/album/6wap5XH9b5A1CcQ5Ows7HY) | 3:42 | 2026-01-12 | 2026-02-03 |
 | [Stripped](https://open.spotify.com/track/6vorScXqRtKXUm6czL5qh5) | [The Lovekiller](https://open.spotify.com/artist/3XTgWLoxDGFr3VLC5Wq4j2) | [Stripped](https://open.spotify.com/album/5cjxDenutIFsdXTJ10m61f) | 4:42 | 2026-04-03 | 2026-04-24 |
 | [Strobes](https://open.spotify.com/track/0lxmH14taIi97U2OzluG7o) | [A Very Special Episode](https://open.spotify.com/artist/2ZmZQgJQNyPvVXUWSs9DKD) | [Freak Me Out](https://open.spotify.com/album/65L93H0sQ7hbdPxaZXBG4H) | 3:10 | 2026-03-02 | 2026-03-21 |
@@ -1220,6 +1223,7 @@
 | [The Wheel Of Slaughter](https://open.spotify.com/track/63QcDodoU46kLzFCE7LRU3) | [SLEEP MODE OBLIVION](https://open.spotify.com/artist/34rC86ZirOgeCIHlq2PlA4) | [SLEEP MODE OBLIVION](https://open.spotify.com/album/0ugBkoYfVe35zNdUzdLGqK) | 4:20 | 2025-12-28 | 2026-01-29 |
 | [The Wilde Is Calling](https://open.spotify.com/track/03uGvVr35l2eayvXlNkyzB) | [Play'n GO Music](https://open.spotify.com/artist/2snO3nSMcF4yZeiQXNhQuB), [Niamh Ní Mheara](https://open.spotify.com/artist/4JMlCHvvtMy0TStT0qnT7K) | [Journey into the Wilde](https://open.spotify.com/album/7qNKDozm8Hi9PgK46ydlSk) | 2:06 | 2026-03-18 | 2026-04-07 |
 | [The Witch](https://open.spotify.com/track/5ZPLGChRtv9ZbzpsD06ShX) | [MNTN GOAT](https://open.spotify.com/artist/5EMVT2cgsTmA808D8pbEed) | [MNTN GOAT EP \(Re\-Release\)](https://open.spotify.com/album/2qH4PLWdezuzm2MNZXZe1I) | 3:30 | 2026-03-13 | 2026-04-14 |
+| [THE WITNESS](https://open.spotify.com/track/2nXpoV6Agh2XTHivweMvrv) | [Still No One](https://open.spotify.com/artist/2WnPcCPjfDwzAdTT2CP7Mu) | [THE WITNESS](https://open.spotify.com/album/5qE9IPmUqGsnQtMrhDZwNg) | 3:42 | 2026-04-26 |  |
 | [The World Is Going Mental](https://open.spotify.com/track/51RbuIHF9HMv6025j3I029) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Frantic!](https://open.spotify.com/album/04HZkLDGricV1azqsq5yfV) | 1:06 | 2025-08-03 |  |
 | [The World Is Mine](https://open.spotify.com/track/1dIziNy8Wj3H7EyI6KuLdW) | [Absentees](https://open.spotify.com/artist/3IUQgoruTIPejfTxmAUXPb) | [Not Alone](https://open.spotify.com/album/1cSoNWO0mLSzS0fEemzw5g) | 3:11 | 2026-01-29 | 2026-03-02 |
 | [The World Stops](https://open.spotify.com/track/4ku6n20qouCforbxZhkjBj) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [The World Stops](https://open.spotify.com/album/5igv9stolmXEZIBJQDGJY6) | 3:04 | 2025-10-27 | 2025-12-10 |

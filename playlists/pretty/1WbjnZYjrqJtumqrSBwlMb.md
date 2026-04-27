@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,255 songs - 3 day 5 hr 18 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,262 songs - 3 day 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1263,5 +1263,12 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1253 | [10/10](https://open.spotify.com/track/4tVphly4D1PB8tJC9gHMcJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 2:26 |
 | 1254 | [Powerlines](https://open.spotify.com/track/7nmtH3cyqEmKz8F09V60yO) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents B\-Sides & Remixes](https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva) | 4:18 |
 | 1255 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 |
+| 1256 | [Phases \(ft\. Sharrif Simmons\)](https://open.spotify.com/track/1ZjuJUMz4pFQWlj2TIStfq) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [The Long and Short of It](https://open.spotify.com/album/6pUiy5Z2QoIV0JOiKlu3aQ) | 5:53 |
+| 1257 | [Come Visit Me](https://open.spotify.com/track/7owltq7JZST1NSyONvcGfc) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [The Long and Short of It](https://open.spotify.com/album/6pUiy5Z2QoIV0JOiKlu3aQ) | 3:13 |
+| 1258 | [Leave It](https://open.spotify.com/track/6oOnnkyb9ipoiQ5ryCERo0) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [The Long and Short of It](https://open.spotify.com/album/6pUiy5Z2QoIV0JOiKlu3aQ) | 3:51 |
+| 1259 | [I Am Close to the River](https://open.spotify.com/track/6voC7gZuKfkbGJDOzoXawv) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [The Long and Short of It](https://open.spotify.com/album/6pUiy5Z2QoIV0JOiKlu3aQ) | 4:32 |
+| 1260 | [A Conversation](https://open.spotify.com/track/5dTl8yRgxakkpYlSWNl6nl) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [The Long and Short of It](https://open.spotify.com/album/6pUiy5Z2QoIV0JOiKlu3aQ) | 1:18 |
+| 1261 | [Everything is Different \(To Me\)](https://open.spotify.com/track/6x3sun3UqxP4g0Juw7ZXx4) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [The Long and Short of It](https://open.spotify.com/album/6pUiy5Z2QoIV0JOiKlu3aQ) | 4:24 |
+| 1262 | [Feel](https://open.spotify.com/track/67YTj3YV37MZ5pv266bzOx) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [The Long and Short of It](https://open.spotify.com/album/6pUiy5Z2QoIV0JOiKlu3aQ) | 2:48 |
 
-Snapshot ID: `AAAJ3j4yNoxycs97iLsWrYiUVVbJ3f3R`
+Snapshot ID: `AAAJ5UcCz/IlwddZL1XVA2qzNRcx6pnC`

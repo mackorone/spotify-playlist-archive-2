@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Vitor Kley com Joyce Alane, Akon, Clayton & Romário, Zeca Pagodinho, Kehlani, KAROL G, Fresno e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,281,857 likes - 98 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,281,642 likes - 98 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: Ziggy4x",
-  "num_followers": 3395,
+  "num_followers": 3396,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
+        "name": "Tolgevang",
+        "url": "https://open.spotify.com/album/3QJKilrYn9ZvZXs8CLZNyc"
+      },
+      "artists": [
+        {
+          "name": "Early B",
+          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
+        }
+      ],
+      "duration_ms": 160235,
+      "name": "Tolgevang",
+      "url": "https://open.spotify.com/track/1WWiozUfi9d26DcAjOthSs"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
         "name": "Nooit Genoeg",
         "url": "https://open.spotify.com/album/6qwo9jR60ylpjrajOfxqAF"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 191400,
       "name": "Nooit Genoeg",
       "url": "https://open.spotify.com/track/67CunmsSJA1YRTYE2M9FUS"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "Tolgevang",
-        "url": "https://open.spotify.com/album/3QJKilrYn9ZvZXs8CLZNyc"
-      },
-      "artists": [
-        {
-          "name": "Early B",
-          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
-        }
-      ],
-      "duration_ms": 160235,
-      "name": "Tolgevang",
-      "url": "https://open.spotify.com/track/1WWiozUfi9d26DcAjOthSs"
     },
     {
       "added_at": "2025-09-25 22:00:28",

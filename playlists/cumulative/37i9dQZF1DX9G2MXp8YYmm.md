@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Sezen Aksu
 
-566 songs - 1 day 4 hr 42 min
+567 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Kurşun Adres Sormaz Ki](https://open.spotify.com/track/7rCJlWtpNCwegGXECRLwnk) | [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Akustik 2](https://open.spotify.com/album/0Iy1sZOXc3JBSE7HOuHdzs) | 5:28 | 2025-11-13 | 2026-04-10 |
 | [KUSURA BAKMA](https://open.spotify.com/track/1mgoLJV5W6JSWanT5bgf3o) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [KUSURA BAKMA](https://open.spotify.com/album/06jvhVjkzizEpZQ3goLOmf) | 2:37 | 2025-11-27 |  |
 | [Kutuplar](https://open.spotify.com/track/6enbvLSRJJbmcovxPheEC2) | [Murat Güneş](https://open.spotify.com/artist/61F5kPiTYCmmRJprI90WCs), [Aynur Aydın](https://open.spotify.com/artist/27TH57uXZezzxdlmbbyWQU) | [Kutuplar](https://open.spotify.com/album/6EbgIudVop3N3cyyuX5ihF) | 3:00 | 2025-08-21 | 2025-09-05 |
+| [Kutupta Yaz Gibi](https://open.spotify.com/track/7Bjo9sOCMs5Uk0Y7jpZHod) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Karışık Kaset 2](https://open.spotify.com/album/3xoEmltF7ZGBP7JEIV4kzQ) | 2:18 | 2026-04-23 |  |
 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 | 2025-05-22 | 2026-04-10 |
 | [KÖRKÜTÜK](https://open.spotify.com/track/6iostOh9TPow9esciyRHSE) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [KÖRKÜTÜK](https://open.spotify.com/album/5iO1DlqpjKLdGTgKfuKa7E) | 3:50 | 2024-07-18 | 2024-09-15 |
 | [kötü kötü](https://open.spotify.com/track/7aU5gn0mrAlreS4o0fCZ69) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [kötü kötü](https://open.spotify.com/album/3gUD5dYbmlKxpRHztBrQYR) | 3:10 | 2026-01-29 |  |
@@ -454,7 +455,7 @@
 | [SONUNDA KAYBOLMUŞ](https://open.spotify.com/track/1Z8WJAP3aAiiar4VR149yf) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [TEK KİŞİLİK MASA](https://open.spotify.com/album/1PNjEh6e0T28jszrn3Mwva) | 3:19 | 2025-05-22 | 2025-06-06 |
 | [Sor Bana](https://open.spotify.com/track/4VR2HssvJFXCyaZQchcXJy) | [Feride Hilal Akın](https://open.spotify.com/artist/2dLBhX7dIdWL6Fsk9l0n1n) | [Sor Bana](https://open.spotify.com/album/110eedqqHFMiIWFL1eaKxW) | 2:28 | 2025-09-25 | 2025-10-10 |
 | [Sur](https://open.spotify.com/track/5o8AA7rdZceZFV3hK1s5zT) | [Güliz Ayla](https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs) | [Sur](https://open.spotify.com/album/7iepaVJHrulbWXaXnuSxNt) | 3:04 | 2025-02-13 | 2025-02-21 |
-| [Sus Konuşma](https://open.spotify.com/track/4qInXcpSFRESnLTub8oD6J) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Sus Konuşma](https://open.spotify.com/album/2GNX1V9mSTmBmUXe3SkQA0) | 3:39 | 2026-04-09 |  |
+| [Sus Konuşma](https://open.spotify.com/track/4qInXcpSFRESnLTub8oD6J) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Sus Konuşma](https://open.spotify.com/album/2GNX1V9mSTmBmUXe3SkQA0) | 3:39 | 2026-04-09 | 2026-04-27 |
 | [Susmayı Öğrendim](https://open.spotify.com/track/3lfvzkMQXnmaQLGiwRfAPi) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Susmayı Öğrendim](https://open.spotify.com/album/6jgyRe0ZVR4xdimu9ned2V) | 3:16 | 2025-10-23 | 2025-12-11 |
 | [Söyleyin O Benim Gökyüzüm Güneşim](https://open.spotify.com/track/2hVOpFUzAvC2lqCGJXJFKy) | [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Söyleyin O Benim Gökyüzüm Güneşim](https://open.spotify.com/album/6xAyvIhPkqezIrLTRT5xtK) | 2:29 | 2026-02-12 | 2026-03-11 |
 | [Taksi](https://open.spotify.com/track/1zaRUHOFCtifiWjjhyi1Pp) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Taksi](https://open.spotify.com/album/7uYFRPl5MJSJ1ty0BZuFS0) | 2:28 | 2025-07-31 | 2025-12-13 |

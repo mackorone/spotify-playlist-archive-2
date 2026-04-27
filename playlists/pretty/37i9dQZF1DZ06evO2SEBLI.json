@@ -1,12 +1,12 @@
 {
   "description": "This is iu takahashi. The essential tracks, all in one playlist.",
-  "num_followers": 40,
+  "num_followers": 43,
   "original_name": "This Is iu takahashi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAABGXlyu/bvk1FeZ9gYbWwkV",
+  "snapshot_id": "aewEAAAAAABWJdWdjnO2lDDjcYfSUJci",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 257993,
-      "name": "Ether",
-      "url": "https://open.spotify.com/track/4nPWO2GRxNoTwlBFPgMqTh"
+      "duration_ms": 423999,
+      "name": "Abyssal",
+      "url": "https://open.spotify.com/track/20cam3yFQStfMT7eSzjpRn"
     },
     {
       "added_at": null,
@@ -212,73 +212,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 499990,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/5Xqztjg5pWur2Naxjwv0ca"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sense/Margin",
-        "url": "https://open.spotify.com/album/79fRwUPPG9KtGUoxTASTgC"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 221101,
-      "name": "Open / Rain",
-      "url": "https://open.spotify.com/track/2qFN6SGD9wYnyToxlRjjYx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Left",
-        "url": "https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 351153,
-      "name": "Culvert",
-      "url": "https://open.spotify.com/track/1Y2fWkiSpIo4UP5N2hhsJO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Late in life",
-        "url": "https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 294500,
-      "name": "end is ___",
-      "url": "https://open.spotify.com/track/0bZJYufmFxZ3XIdCGnMlZm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contour",
-        "url": "https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 423999,
-      "name": "Abyssal",
-      "url": "https://open.spotify.com/track/20cam3yFQStfMT7eSzjpRn"
+      "duration_ms": 257993,
+      "name": "Ether",
+      "url": "https://open.spotify.com/track/4nPWO2GRxNoTwlBFPgMqTh"
     },
     {
       "added_at": null,
@@ -308,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 278500,
-      "name": "Innocence",
-      "url": "https://open.spotify.com/track/4Cl2GRlmaL1DJEJOd19XQG"
+      "duration_ms": 351153,
+      "name": "Culvert",
+      "url": "https://open.spotify.com/track/1Y2fWkiSpIo4UP5N2hhsJO"
     },
     {
       "added_at": null,
@@ -340,6 +276,70 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
+      "duration_ms": 499990,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/5Xqztjg5pWur2Naxjwv0ca"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sense/Margin",
+        "url": "https://open.spotify.com/album/79fRwUPPG9KtGUoxTASTgC"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 221101,
+      "name": "Open / Rain",
+      "url": "https://open.spotify.com/track/2qFN6SGD9wYnyToxlRjjYx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "still left",
+        "url": "https://open.spotify.com/album/5IEmzobpHtW97EjytH6N8H"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "far",
+      "url": "https://open.spotify.com/track/271MyW637PvyF3PvMOppW2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Late in life",
+        "url": "https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 294500,
+      "name": "end is ___",
+      "url": "https://open.spotify.com/track/0bZJYufmFxZ3XIdCGnMlZm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contour",
+        "url": "https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
       "duration_ms": 506583,
       "name": "Mitake",
       "url": "https://open.spotify.com/track/1Cq7uBcl3gHm4l2fvdknv3"
@@ -356,15 +356,15 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 341999,
-      "name": "Awake / Lakeside",
-      "url": "https://open.spotify.com/track/6hWeib7zTcBoLVJndRLYft"
+      "duration_ms": 372000,
+      "name": "Asleep / Sea",
+      "url": "https://open.spotify.com/track/2GR0bz98UKhRhcMvp0qpx3"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Depthscape",
-        "url": "https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK"
+        "name": "Still Left",
+        "url": "https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/5UHUIEVxCXe07J7dUdmErI"
+      "duration_ms": 234000,
+      "name": "Cave",
+      "url": "https://open.spotify.com/track/21pTXLNvnDeLVb1dIZ7RZq"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 372000,
-      "name": "Asleep / Sea",
-      "url": "https://open.spotify.com/track/2GR0bz98UKhRhcMvp0qpx3"
+      "duration_ms": 341999,
+      "name": "Awake / Lakeside",
+      "url": "https://open.spotify.com/track/6hWeib7zTcBoLVJndRLYft"
     },
     {
       "added_at": null,
@@ -436,9 +436,25 @@
           "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Cave",
-      "url": "https://open.spotify.com/track/21pTXLNvnDeLVb1dIZ7RZq"
+      "duration_ms": 278500,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/4Cl2GRlmaL1DJEJOd19XQG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Depthscape",
+        "url": "https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/5UHUIEVxCXe07J7dUdmErI"
     },
     {
       "added_at": null,
@@ -487,22 +503,6 @@
       "duration_ms": 329000,
       "name": "Ma",
       "url": "https://open.spotify.com/track/6JxYkB8w6fzgK0LPctp2dC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "still left",
-        "url": "https://open.spotify.com/album/5IEmzobpHtW97EjytH6N8H"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "far",
-      "url": "https://open.spotify.com/track/271MyW637PvyF3PvMOppW2"
     },
     {
       "added_at": null,

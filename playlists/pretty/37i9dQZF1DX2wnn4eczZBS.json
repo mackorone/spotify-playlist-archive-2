@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Eva van Manen",
-  "num_followers": 11377,
+  "num_followers": 11376,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-04-23 22:02:01",
       "album": {
-        "name": "In NL Mag Je Een Vrouw Slaan",
-        "url": "https://open.spotify.com/album/3q5dNlndDVXzfvulgjpbRe"
-      },
-      "artists": [
-        {
-          "name": "Alice Olsthoorn",
-          "url": "https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA"
-        }
-      ],
-      "duration_ms": 150344,
-      "name": "In NL Mag Je Een Vrouw Slaan",
-      "url": "https://open.spotify.com/track/7FxAlqztuui1tcixeLCq0n"
-    },
-    {
-      "added_at": "2026-04-23 22:02:01",
-      "album": {
         "name": "Skinroutine Bikinilijn",
         "url": "https://open.spotify.com/album/6Gxagh1mE6Z9Mipof5thLQ"
       },
@@ -843,22 +827,18 @@
     {
       "added_at": "2026-04-23 22:02:01",
       "album": {
-        "name": "Niemandsland",
-        "url": "https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll"
+        "name": "In NL Mag Je Een Vrouw Slaan",
+        "url": "https://open.spotify.com/album/3q5dNlndDVXzfvulgjpbRe"
       },
       "artists": [
         {
-          "name": "Ploegendienst",
-          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
-        },
-        {
-          "name": "Willem",
-          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+          "name": "Alice Olsthoorn",
+          "url": "https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA"
         }
       ],
-      "duration_ms": 165210,
-      "name": "Niemandsland",
-      "url": "https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa"
+      "duration_ms": 150344,
+      "name": "In NL Mag Je Een Vrouw Slaan",
+      "url": "https://open.spotify.com/track/7FxAlqztuui1tcixeLCq0n"
     },
     {
       "added_at": "2026-04-23 22:02:01",
@@ -883,22 +863,38 @@
     {
       "added_at": "2026-04-23 22:02:01",
       "album": {
-        "name": "Schaduw",
-        "url": "https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR"
+        "name": "Kubus In Een Ballenbak",
+        "url": "https://open.spotify.com/album/2qCMxawxzGP2g3dJ8q0eNR"
       },
       "artists": [
         {
-          "name": "Wende",
-          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
-        },
-        {
-          "name": "Abel",
-          "url": "https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ"
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
         }
       ],
-      "duration_ms": 216887,
-      "name": "Schaduw",
-      "url": "https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl"
+      "duration_ms": 153428,
+      "name": "Komt Goed",
+      "url": "https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2"
+    },
+    {
+      "added_at": "2026-04-23 22:02:01",
+      "album": {
+        "name": "Niemandsland",
+        "url": "https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll"
+      },
+      "artists": [
+        {
+          "name": "Ploegendienst",
+          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
+        },
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        }
+      ],
+      "duration_ms": 165210,
+      "name": "Niemandsland",
+      "url": "https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa"
     }
   ],
   "unique_name": "indie.nl",

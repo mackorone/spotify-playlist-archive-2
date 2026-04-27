@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Jordan Rakei
 
-803 songs - 2 day 7 hr 45 min
+804 songs - 2 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,7 +403,7 @@
 | [Listen To The Sky](https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Listen To The Sky](https://open.spotify.com/album/00bIOJIJU7WyTxdPIaglZl) | 2:52 | 2023-11-10 | 2024-07-19 |
 | [Listen To The Sky](https://open.spotify.com/track/1SBnGYwfPHo89L5iVt6yNT) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Listen To The Sky](https://open.spotify.com/album/3G9hrfPSpBsvBwcgLT4i7u) | 2:52 | 2023-09-21 | 2023-10-06 |
 | [Lonely](https://open.spotify.com/track/4R8UmyApZzuYNSiEoKWYt3) | [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Lonely](https://open.spotify.com/album/2iJ77SyZvqXvNPdf71QGp3) | 5:02 | 2022-06-23 | 2024-02-23 |
-| [Lonely](https://open.spotify.com/track/617iJNSnWz4F4qez3b304m) | [Malan](https://open.spotify.com/artist/4lTwsxnU59QAenYUzJteBl) | [Lonely](https://open.spotify.com/album/6DQrLzlM7XwodvAaZkK9P5) | 3:10 | 2025-11-28 |  |
+| [Lonely](https://open.spotify.com/track/617iJNSnWz4F4qez3b304m) | [Malan](https://open.spotify.com/artist/4lTwsxnU59QAenYUzJteBl) | [Lonely](https://open.spotify.com/album/6DQrLzlM7XwodvAaZkK9P5) | 3:10 | 2025-11-28 | 2026-04-27 |
 | [Long Term Memory](https://open.spotify.com/track/0wTLhxqwM8hLGDfHJIPFdQ) | [Jamie Leeming](https://open.spotify.com/artist/1aIoXz1gXoYjpExn1YISkD), [Laura Groves](https://open.spotify.com/artist/680a4iDO5tGb0Mb3IIcrVz) | [Long Term Memory](https://open.spotify.com/album/1E6SfG3SRiPxcYsaAFDCNl) | 3:25 | 2022-04-21 | 2022-07-27 |
 | [Longest Way Round](https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Teal Dreams](https://open.spotify.com/album/2AzTf9LVZzgJ7DoN1nE7uQ) | 3:42 | 2025-10-23 |  |
 | [looking out](https://open.spotify.com/track/2IUTis1rj33tVvTYtsVdEx) | [Peru Eizagirre](https://open.spotify.com/artist/2jPW0sgVtqS4np7tNze6ZG) | [looking out](https://open.spotify.com/album/1uiGqENIfsmcFRFMBlwqe5) | 7:31 | 2022-03-24 | 2022-03-30 |
@@ -778,6 +778,7 @@
 | [What We Do](https://open.spotify.com/track/4oMAEqrhyRwGL1d2iLTVxU) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [What We Do](https://open.spotify.com/album/5PvZJH5xtKDchKS7viqgov) | 3:19 | 2025-09-04 |  |
 | [Whatever You Want](https://open.spotify.com/track/1RrxcexvncFGK8gniFrvty) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Whatever You Want](https://open.spotify.com/album/3LcMJUKvD40lP4a3AjQVzc) | 3:40 | 2024-02-23 | 2024-05-10 |
 | [When It Comes Together](https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [When It Comes Together](https://open.spotify.com/album/7IL0Qmw3AzVtUSbXa6dGic) | 3:08 | 2024-06-27 | 2025-07-25 |
+| [Where Light Settles](https://open.spotify.com/track/5NI5Bo9sXXdjTpAnlAXIrD) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Where Light Settles](https://open.spotify.com/album/6O228iUsnLa31DAVjxqAXi) | 6:29 | 2026-04-23 |  |
 | [Where or When](https://open.spotify.com/track/1bNpRcfsbIxI9FMJsjCNcw) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Where or When](https://open.spotify.com/album/6MJLX11fKx4JaRfGS25ih1) | 4:17 | 2024-09-12 | 2025-05-21 |
 | [Where Will We Go](https://open.spotify.com/track/4fVIGbwtMnyD6o4MTa4Qgw) | [Tom Ford](https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE), [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Magic Malik](https://open.spotify.com/artist/7mzj5bmHv7oFibvvj0hEzv) | [Where Will We Go](https://open.spotify.com/album/2POYaWIS0TkJwY7lLxH0jb) | 3:30 | 2022-03-18 | 2022-07-27 |
 | [Where You Are](https://open.spotify.com/track/1wkmKVGBLk4A1jblaKVQ3h) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Where You Are](https://open.spotify.com/album/3bv9unehQKvqOAChCAZcoD) | 3:37 | 2022-03-08 | 2023-03-09 |

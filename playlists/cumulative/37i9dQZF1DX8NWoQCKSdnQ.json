@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 219693,
       "name": "Ag\u00fcita",
       "url": "https://open.spotify.com/track/1XPqp3k2ZmetP4xMIbrSYN"
@@ -818,6 +818,24 @@
       "duration_ms": 337733,
       "name": "Hung Up",
       "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
+    },
+    {
+      "album": {
+        "name": "The Beginning & The Best Of The E.N.D.",
+        "url": "https://open.spotify.com/album/5qf9TEgsN87fxwEKsJP2vu"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2025-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289186,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/72np30cEzvqzxAUG5mrhyT"
     },
     {
       "album": {

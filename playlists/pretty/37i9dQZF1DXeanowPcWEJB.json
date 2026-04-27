@@ -1,6 +1,6 @@
 {
   "description": "Viaja al M\u00e9xico tradicional con la expresi\u00f3n de sus guitarras.",
-  "num_followers": 154160,
+  "num_followers": 154200,
   "original_name": "Guitarra Mexicana",
   "owner": {
     "name": "Spotify",
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
         }
       ],
-      "duration_ms": 197773,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/5jgDyBwJ9MT6r1L8LsJXhJ"
+      "duration_ms": 233000,
+      "name": "Concierto de Mariachi - Morena de Mi Corazon",
+      "url": "https://open.spotify.com/track/3QtDxwOY5Xyc26mXQfLViu"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
         }
       ],
-      "duration_ms": 249226,
-      "name": "Corazon Partio",
-      "url": "https://open.spotify.com/track/6Bi0Viwx77fAJjTK62by6e"
+      "duration_ms": 197773,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/5jgDyBwJ9MT6r1L8LsJXhJ"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Spanish Guitar Latin Hits",
-        "url": "https://open.spotify.com/album/7t9FXqxz2X4tveYgxLBb1U"
-      },
-      "artists": [
-        {
-          "name": "Manuel Granada",
-          "url": "https://open.spotify.com/artist/0hBBzgIZteyQLiAh6v3AjV"
-        }
-      ],
-      "duration_ms": 159600,
-      "name": "Cielito Lindo - Guitar Version",
-      "url": "https://open.spotify.com/track/6Rb3aBYBruXdLDmcDmsnRQ"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Lo Mejor en Guitarras",
         "url": "https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 147133,
       "name": "La Bikina",
       "url": "https://open.spotify.com/track/4uzsdjd5zer4uurbqIuEu6"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Spanish Guitar Latin Hits",
+        "url": "https://open.spotify.com/album/7t9FXqxz2X4tveYgxLBb1U"
+      },
+      "artists": [
+        {
+          "name": "Manuel Granada",
+          "url": "https://open.spotify.com/artist/0hBBzgIZteyQLiAh6v3AjV"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "Cielito Lindo - Guitar Version",
+      "url": "https://open.spotify.com/track/6Rb3aBYBruXdLDmcDmsnRQ"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Voy A Apagar La Luz",
-        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 143848,
-      "name": "Voy A Apagar La Luz",
-      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Pensamiento",
         "url": "https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Esperare",
-        "url": "https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX"
+        "name": "Voy A Apagar La Luz",
+        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
       },
       "artists": [
         {
-          "name": "Las Tres Cuerdas",
-          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
         }
       ],
-      "duration_ms": 130500,
-      "name": "Esperare",
-      "url": "https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb"
+      "duration_ms": 143848,
+      "name": "Voy A Apagar La Luz",
+      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -887,6 +871,22 @@
       "duration_ms": 189374,
       "name": "La Zandunga",
       "url": "https://open.spotify.com/track/0nU1vk6q6enXEZCCPyYNrM"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Esperare",
+        "url": "https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Cuerdas",
+          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "Esperare",
+      "url": "https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
+        "name": "Guitarra Mexicana, Vol. 1",
+        "url": "https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l"
+      },
+      "artists": [
+        {
+          "name": "Stefan",
+          "url": "https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU"
+        }
+      ],
+      "duration_ms": 102500,
+      "name": "Cancion Mixteca",
+      "url": "https://open.spotify.com/track/1K6afJuRM0WJF18ecwU4J9"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
         "name": "Guitarras Latinas",
         "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 233525,
       "name": "Traigo Canciones",
       "url": "https://open.spotify.com/track/0d9mCnjvxkm1jwJDdTVQ4Q"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
-        "name": "Guitarra Mexicana, Vol. 1",
-        "url": "https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l"
-      },
-      "artists": [
-        {
-          "name": "Stefan",
-          "url": "https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU"
-        }
-      ],
-      "duration_ms": 102500,
-      "name": "Cancion Mixteca",
-      "url": "https://open.spotify.com/track/1K6afJuRM0WJF18ecwU4J9"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "San Cristobal",
-        "url": "https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        }
-      ],
-      "duration_ms": 141398,
-      "name": "San Cristobal",
-      "url": "https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Tan Enamorados",
         "url": "https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 141428,
       "name": "Tan Enamorados",
       "url": "https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "San Cristobal",
+        "url": "https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        }
+      ],
+      "duration_ms": 141398,
+      "name": "San Cristobal",
+      "url": "https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/6lumfvD8xwtfHiabaaBXS6"
+        "name": "Perdoname",
+        "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
       },
       "artists": [
         {
-          "name": "Romanticos De La Guitarra",
-          "url": "https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz"
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
         }
       ],
-      "duration_ms": 205133,
-      "name": "El Andariego",
-      "url": "https://open.spotify.com/track/6oArIL3tzZnmipt3NyrsQ2"
+      "duration_ms": 144194,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/6lumfvD8xwtfHiabaaBXS6"
+      },
+      "artists": [
+        {
+          "name": "Romanticos De La Guitarra",
+          "url": "https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz"
+        }
+      ],
+      "duration_ms": 205133,
+      "name": "El Andariego",
+      "url": "https://open.spotify.com/track/6oArIL3tzZnmipt3NyrsQ2"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
         "name": "Siempre Te Amare",
         "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
       },
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Perdoname",
-        "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
+        "name": "En la Intimidad",
+        "url": "https://open.spotify.com/album/3Xof1I1qAhA7f1OrpfGOj5"
       },
       "artists": [
         {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+          "name": "Gilberto Puente",
+          "url": "https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR"
         }
       ],
-      "duration_ms": 144194,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
+      "duration_ms": 227706,
+      "name": "Mi Ciudad",
+      "url": "https://open.spotify.com/track/09vo3ERI7rROqzjy2c8bN3"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1135,22 +1151,6 @@
       "duration_ms": 125000,
       "name": "La Consentida",
       "url": "https://open.spotify.com/track/5gVHtoux61H8WpJHS8lIP1"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
-        "name": "En la Intimidad",
-        "url": "https://open.spotify.com/album/3Xof1I1qAhA7f1OrpfGOj5"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Puente",
-          "url": "https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "Mi Ciudad",
-      "url": "https://open.spotify.com/track/09vo3ERI7rROqzjy2c8bN3"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "La Guitarra De M\u00e9xico",
-        "url": "https://open.spotify.com/album/0ClQK9zVAw9RCb57wX6Z8M"
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
       },
       "artists": [
         {
-          "name": "Antonio Bribiesca",
-          "url": "https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz"
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
         }
       ],
-      "duration_ms": 188586,
-      "name": "La Borrachita",
-      "url": "https://open.spotify.com/track/1LMBIdz27WVSC3y6TGX7v9"
+      "duration_ms": 148500,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
+        "name": "La Guitarra De M\u00e9xico",
+        "url": "https://open.spotify.com/album/0ClQK9zVAw9RCb57wX6Z8M"
       },
       "artists": [
         {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+          "name": "Antonio Bribiesca",
+          "url": "https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz"
         }
       ],
-      "duration_ms": 148500,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
+      "duration_ms": 188586,
+      "name": "La Borrachita",
+      "url": "https://open.spotify.com/track/1LMBIdz27WVSC3y6TGX7v9"
     },
     {
       "added_at": "2024-07-11 01:27:02",

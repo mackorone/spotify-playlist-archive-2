@@ -4,7 +4,7 @@
 
 > This is Selena\. The essential tracks, all in one playlist.
 
-93 songs - 5 hr 48 min
+94 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,10 +96,11 @@
 | [Ya Ves](https://open.spotify.com/track/05pItgL5lq3H5H4RjtSRdw) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo \- Selena 20 Years Of Music](https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG) | 3:16 | 2022-07-31 |  |
 | [Ya Ves](https://open.spotify.com/track/799cauivpw59tpLgcV4RWK) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo](https://open.spotify.com/album/1RlWOGZLeP8snaG6auIysG) | 3:16 | 2022-06-01 | 2022-08-01 |
 | [Yo Fui Aquella \- .](https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Selena: The Series Soundtrack](https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN) | 3:03 | 2022-06-01 |  |
-| [Yo Me Voy](https://open.spotify.com/track/2zLGyCNHSXh289D7NJBXCF) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo \- Selena 20 Years Of Music](https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG) | 3:30 | 2022-07-31 |  |
+| [Yo Me Voy](https://open.spotify.com/track/2zLGyCNHSXh289D7NJBXCF) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo \- Selena 20 Years Of Music](https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG) | 3:30 | 2022-07-31 | 2026-04-27 |
 | [Yo Me Voy](https://open.spotify.com/track/7FG0sxuZd6palqjVdgfMBg) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo](https://open.spotify.com/album/1RlWOGZLeP8snaG6auIysG) | 3:30 | 2022-06-01 | 2022-07-31 |
 | [Yo Te Amo](https://open.spotify.com/track/1Vme3vRdcpuNeudeqDKVq3) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo \- Selena 20 Years Of Music](https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG) | 3:41 | 2022-07-30 | 2022-11-22 |
 | [Yo Te Amo](https://open.spotify.com/track/32ze3uxp07OPbNNzT15ZQ0) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo](https://open.spotify.com/album/1RlWOGZLeP8snaG6auIysG) | 3:41 | 2022-06-01 | 2022-07-31 |
 | [Yo Te Sigo Queriendo](https://open.spotify.com/track/3TpXM6ms8GE04qe8mRaMou) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:10 | 2022-06-01 |  |
+| [Ámame, Quiéreme/ Siempre Estoy Pensando En Ti \- Live/Remastered 2026](https://open.spotify.com/track/2eFDqvIMXf26lunLf3xaiq) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Selena LIVE \(Remastered 2026\)](https://open.spotify.com/album/05yu3lskS9ViU0Lbq3PN4p) | 3:45 | 2026-04-27 |  |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

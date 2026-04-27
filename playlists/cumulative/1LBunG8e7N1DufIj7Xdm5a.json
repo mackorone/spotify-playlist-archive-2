@@ -69585,6 +69585,24 @@
     },
     {
       "album": {
+        "name": "Todo Qued\u00f3 En Silencio",
+        "url": "https://open.spotify.com/album/6THtI92FpueHEE21mYFr5H"
+      },
+      "artists": [
+        {
+          "name": "Luz Entre Ruinas",
+          "url": "https://open.spotify.com/artist/6ihnEVCMt4Z0Of7gMA2K2f"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213240,
+      "name": "Todo Qued\u00f3 En Silencio",
+      "url": "https://open.spotify.com/track/4G1fHgE7RWTbLEHfudgFII"
+    },
+    {
+      "album": {
         "name": "TOGETHER",
         "url": "https://open.spotify.com/album/5UZUUVD9eVVC2bhYrlOgIn"
       },

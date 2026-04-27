@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 840142,
+  "num_followers": 840172,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPooXA/zUZtQX7LMIsDkX0jTNN1m",
+  "snapshot_id": "AAAAAF6DXGNSoGZd7LhdJpehkz5l4aKR",
   "tracks": [
     {
       "added_at": "2026-04-18 03:03:12",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-04-18 03:03:12",
       "album": {
-        "name": "HEART OF THE MATTER",
-        "url": "https://open.spotify.com/album/0OOVrSL0zg5FMqus5AvW1b"
-      },
-      "artists": [
-        {
-          "name": "Sedric Perry",
-          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
-        }
-      ],
-      "duration_ms": 226779,
-      "name": "HEART OF THE MATTER",
-      "url": "https://open.spotify.com/track/4HFhHdiyYQyPcvMmHOHjcz"
-    },
-    {
-      "added_at": "2026-04-18 03:03:12",
-      "album": {
         "name": "If My Wife New I'd Be Dead (Deluxe)",
         "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 244693,
       "name": "I Don't Really Care for You",
       "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+    },
+    {
+      "added_at": "2026-04-18 03:03:12",
+      "album": {
+        "name": "HEART OF THE MATTER",
+        "url": "https://open.spotify.com/album/0OOVrSL0zg5FMqus5AvW1b"
+      },
+      "artists": [
+        {
+          "name": "Sedric Perry",
+          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
+        }
+      ],
+      "duration_ms": 226779,
+      "name": "HEART OF THE MATTER",
+      "url": "https://open.spotify.com/track/4HFhHdiyYQyPcvMmHOHjcz"
     },
     {
       "added_at": "2026-04-18 03:03:12",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-04-18 03:03:12",
       "album": {
-        "name": "Moodie",
-        "url": "https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC"
-      },
-      "artists": [
-        {
-          "name": "Yuno",
-          "url": "https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "No Going Back",
-      "url": "https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP"
-    },
-    {
-      "added_at": "2026-04-18 03:03:12",
-      "album": {
         "name": "Wanted Bossa Nova: From Diggers to Music Lovers",
         "url": "https://open.spotify.com/album/78QZeFmsqxeoh5BBDfmYRs"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 156537,
       "name": "Tenha F\u00e9, Pois Amanh\u00e3 um Lindo Dia Vai Nascer",
       "url": "https://open.spotify.com/track/6gq1nXRbVZYcOxtG20uC2t"
+    },
+    {
+      "added_at": "2026-04-18 03:03:12",
+      "album": {
+        "name": "Moodie",
+        "url": "https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC"
+      },
+      "artists": [
+        {
+          "name": "Yuno",
+          "url": "https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "No Going Back",
+      "url": "https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP"
     },
     {
       "added_at": "2026-04-18 03:03:12",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-04-18 03:03:12",
       "album": {
-        "name": "Talk About It (B-Side)",
-        "url": "https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 132096,
-      "name": "Talk About It",
-      "url": "https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw"
-    },
-    {
-      "added_at": "2026-04-18 03:03:12",
-      "album": {
         "name": "Homegrown",
         "url": "https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2026-04-18 03:03:12",
       "album": {
-        "name": "Dos Uvas",
-        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
+        "name": "Talk About It (B-Side)",
+        "url": "https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr"
       },
       "artists": [
         {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
         }
       ],
-      "duration_ms": 209280,
-      "name": "Dos Uvas",
-      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
+      "duration_ms": 132096,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw"
     },
     {
       "added_at": "2026-04-18 03:03:12",
@@ -1231,6 +1215,22 @@
       "duration_ms": 256240,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/5i6CpkeePD4aKacf0cmZqg"
+    },
+    {
+      "added_at": "2026-04-18 03:03:12",
+      "album": {
+        "name": "Dos Uvas",
+        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Dos Uvas",
+      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
     },
     {
       "added_at": "2026-04-18 03:03:12",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-04-18 03:03:12",
       "album": {
+        "name": "Grapetooth",
+        "url": "https://open.spotify.com/album/7fmC3GwiybC7nUfPZg4oWI"
+      },
+      "artists": [
+        {
+          "name": "Grapetooth",
+          "url": "https://open.spotify.com/artist/2JcgT3bbIW7SctN6eQI2eh"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "Red Wine",
+      "url": "https://open.spotify.com/track/5SHQrtKT1jddKhh8HuGRx8"
+    },
+    {
+      "added_at": "2026-04-18 03:03:12",
+      "album": {
         "name": "wait outside",
         "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
-    },
-    {
-      "added_at": "2026-04-18 03:03:12",
-      "album": {
-        "name": "Grapetooth",
-        "url": "https://open.spotify.com/album/7fmC3GwiybC7nUfPZg4oWI"
-      },
-      "artists": [
-        {
-          "name": "Grapetooth",
-          "url": "https://open.spotify.com/artist/2JcgT3bbIW7SctN6eQI2eh"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Red Wine",
-      "url": "https://open.spotify.com/track/5SHQrtKT1jddKhh8HuGRx8"
     },
     {
       "added_at": "2026-04-18 03:03:12",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-04-18 03:03:12",
       "album": {
-        "name": "My Conversation",
-        "url": "https://open.spotify.com/album/3eyiwYrYENzxjnumTXJoOw"
-      },
-      "artists": [
-        {
-          "name": "Silas Short",
-          "url": "https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "My Conversation",
-      "url": "https://open.spotify.com/track/3HaXlnLbvkmdZN401glSoE"
-    },
-    {
-      "added_at": "2026-04-18 03:03:12",
-      "album": {
         "name": "Choose Your Own Adventure",
         "url": "https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 253466,
       "name": "The Conservation of Energy",
       "url": "https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM"
+    },
+    {
+      "added_at": "2026-04-18 03:03:12",
+      "album": {
+        "name": "My Conversation",
+        "url": "https://open.spotify.com/album/3eyiwYrYENzxjnumTXJoOw"
+      },
+      "artists": [
+        {
+          "name": "Silas Short",
+          "url": "https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "My Conversation",
+      "url": "https://open.spotify.com/track/3HaXlnLbvkmdZN401glSoE"
     },
     {
       "added_at": "2026-04-18 03:03:12",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-04-18 03:03:12",
       "album": {
-        "name": "Last One Standing (Radio Edit)",
-        "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
-      },
-      "artists": [
-        {
-          "name": "Monophonics",
-          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
-        }
-      ],
-      "duration_ms": 203589,
-      "name": "Last One Standing - Radio Edit",
-      "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
-    },
-    {
-      "added_at": "2026-04-18 03:03:12",
-      "album": {
         "name": "Lotta Love",
         "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 197624,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
+    },
+    {
+      "added_at": "2026-04-18 03:03:12",
+      "album": {
+        "name": "Last One Standing (Radio Edit)",
+        "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
+      },
+      "artists": [
+        {
+          "name": "Monophonics",
+          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
+        }
+      ],
+      "duration_ms": 203589,
+      "name": "Last One Standing - Radio Edit",
+      "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
     },
     {
       "added_at": "2026-04-18 03:03:12",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2026-04-18 03:03:12",
       "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 202720,
-      "name": "I Don't",
-      "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
-    },
-    {
-      "added_at": "2026-04-18 03:03:12",
-      "album": {
         "name": "Sun & Moon",
         "url": "https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 184776,
       "name": "Favorite Kind of People",
       "url": "https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz"
+    },
+    {
+      "added_at": "2026-04-18 03:03:12",
+      "album": {
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 202720,
+      "name": "I Don't",
+      "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
     },
     {
       "added_at": "2026-04-18 03:03:12",

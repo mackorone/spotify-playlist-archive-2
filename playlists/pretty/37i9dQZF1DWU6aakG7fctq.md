@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Sparklmami
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,896 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,851 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [cariño](https://open.spotify.com/track/4R8grinJeW7qnUxpoMx3CI) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [consuelo](https://open.spotify.com/album/1J8b1nwZO4k1IkoKtZVoxh) | 3:02 |
 | 50 | [Sola Esta](https://open.spotify.com/track/5HQlVdA27m9XIYoEWdwaTu) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Sola Esta](https://open.spotify.com/album/0lGHBfSyAGQAklhNAX0cZU) | 2:27 |
 
-Snapshot ID: `AAAAABcd84SsGemshSZrSpUmvuu9NACZ`
+Snapshot ID: `AAAAADfBtio0EzisOOnMKVdXoVkUi/LI`

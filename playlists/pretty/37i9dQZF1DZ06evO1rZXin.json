@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 7306,
+  "num_followers": 7310,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAACPrLJ5H3iS9OX4tm8mzWiR",
+  "snapshot_id": "aewEAAAAAADupfJmqAQQSUGBnMJ0DP2J",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
-        "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 144440,
-      "name": "Insensible",
-      "url": "https://open.spotify.com/track/6Ob7lSosBDxx4C51LXRZSV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celebrando En Grande",
         "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 137000,
       "name": "Tu Eres",
       "url": "https://open.spotify.com/track/2j41ukCckXffKAgtyUpACd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
+        "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 144440,
+      "name": "Insensible",
+      "url": "https://open.spotify.com/track/6Ob7lSosBDxx4C51LXRZSV"
     },
     {
       "added_at": null,

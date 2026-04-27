@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 26548,
+  "num_followers": 26598,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -439,18 +439,22 @@
     {
       "added_at": "2026-04-08 03:59:06",
       "album": {
-        "name": "DONGURI ZOO",
-        "url": "https://open.spotify.com/album/6oyRi1OJMpPhUtvNGd3zNL"
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/1j5koOWuY2kIoCX3hsPayx"
       },
       "artists": [
         {
-          "name": "DONGURIZU",
-          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        },
+        {
+          "name": "Warung",
+          "url": "https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz"
         }
       ],
-      "duration_ms": 139384,
-      "name": "GORILLA",
-      "url": "https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2"
+      "duration_ms": 200655,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/16vnGjVUbGeniz8aXAxUxk"
     },
     {
       "added_at": "2026-04-08 03:59:06",
@@ -471,22 +475,18 @@
     {
       "added_at": "2026-04-08 03:59:06",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/1j5koOWuY2kIoCX3hsPayx"
+        "name": "DONGURI ZOO",
+        "url": "https://open.spotify.com/album/6oyRi1OJMpPhUtvNGd3zNL"
       },
       "artists": [
         {
-          "name": "Shingo Nakamura",
-          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
-        },
-        {
-          "name": "Warung",
-          "url": "https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz"
+          "name": "DONGURIZU",
+          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
         }
       ],
-      "duration_ms": 200655,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/16vnGjVUbGeniz8aXAxUxk"
+      "duration_ms": 139384,
+      "name": "GORILLA",
+      "url": "https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2"
     },
     {
       "added_at": "2026-04-08 03:59:06",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-04-08 03:59:06",
       "album": {
+        "name": "Full Train / Light on the Hill",
+        "url": "https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4"
+      },
+      "artists": [
+        {
+          "name": "Stones Taro",
+          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
+        }
+      ],
+      "duration_ms": 353124,
+      "name": "Full Train",
+      "url": "https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf"
+    },
+    {
+      "added_at": "2026-04-08 03:59:06",
+      "album": {
         "name": "ON-Netoh",
         "url": "https://open.spotify.com/album/70VkH9GIjlBwo1gFTA9dLT"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 375875,
       "name": "Wwww",
       "url": "https://open.spotify.com/track/5L54V8jEQeSJAUdTiRX3jf"
-    },
-    {
-      "added_at": "2026-04-08 03:59:06",
-      "album": {
-        "name": "DONGRHYTHM",
-        "url": "https://open.spotify.com/album/5o8ATHooApz4U9coWaM8Cw"
-      },
-      "artists": [
-        {
-          "name": "DONGURIZU",
-          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
-        }
-      ],
-      "duration_ms": 146867,
-      "name": "Let's go",
-      "url": "https://open.spotify.com/track/4uaI8J5stgjiOi8Tmq4o9U"
     },
     {
       "added_at": "2026-04-08 03:59:06",
@@ -563,18 +563,18 @@
     {
       "added_at": "2026-04-08 03:59:06",
       "album": {
-        "name": "Full Train / Light on the Hill",
-        "url": "https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4"
+        "name": "DONGRHYTHM",
+        "url": "https://open.spotify.com/album/5o8ATHooApz4U9coWaM8Cw"
       },
       "artists": [
         {
-          "name": "Stones Taro",
-          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
+          "name": "DONGURIZU",
+          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
         }
       ],
-      "duration_ms": 353124,
-      "name": "Full Train",
-      "url": "https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf"
+      "duration_ms": 146867,
+      "name": "Let's go",
+      "url": "https://open.spotify.com/track/4uaI8J5stgjiOi8Tmq4o9U"
     },
     {
       "added_at": "2026-04-08 03:59:06",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-04-08 03:59:06",
       "album": {
+        "name": "Lost City Archives, Vol. 4",
+        "url": "https://open.spotify.com/album/6K44LrVGB7csp6698Bly9a"
+      },
+      "artists": [
+        {
+          "name": "Stones Taro",
+          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
+        }
+      ],
+      "duration_ms": 294435,
+      "name": "Clockwork Dub",
+      "url": "https://open.spotify.com/track/13rcE5fNdeR8fL7Y7DwSaA"
+    },
+    {
+      "added_at": "2026-04-08 03:59:06",
+      "album": {
         "name": "Combo",
         "url": "https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 166613,
       "name": "Combo",
       "url": "https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl"
-    },
-    {
-      "added_at": "2026-04-08 03:59:06",
-      "album": {
-        "name": "TOKYO",
-        "url": "https://open.spotify.com/album/3ichHRNhN8dHWctJ4mTCsH"
-      },
-      "artists": [
-        {
-          "name": "Nakajin",
-          "url": "https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk"
-        }
-      ],
-      "duration_ms": 181011,
-      "name": "TOKYO",
-      "url": "https://open.spotify.com/track/4asW0vZmvIWmqp2ueazpeQ"
     },
     {
       "added_at": "2026-04-08 03:59:06",
@@ -647,18 +647,18 @@
     {
       "added_at": "2026-04-08 03:59:06",
       "album": {
-        "name": "Lost City Archives, Vol. 4",
-        "url": "https://open.spotify.com/album/6K44LrVGB7csp6698Bly9a"
+        "name": "TOKYO",
+        "url": "https://open.spotify.com/album/3ichHRNhN8dHWctJ4mTCsH"
       },
       "artists": [
         {
-          "name": "Stones Taro",
-          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
+          "name": "Nakajin",
+          "url": "https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk"
         }
       ],
-      "duration_ms": 294435,
-      "name": "Clockwork Dub",
-      "url": "https://open.spotify.com/track/13rcE5fNdeR8fL7Y7DwSaA"
+      "duration_ms": 181011,
+      "name": "TOKYO",
+      "url": "https://open.spotify.com/track/4asW0vZmvIWmqp2ueazpeQ"
     },
     {
       "added_at": "2026-04-08 03:59:06",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-04-08 03:59:06",
       "album": {
-        "name": "Nulife",
-        "url": "https://open.spotify.com/album/6wzmYBtzA90cXIUvTuD5I3"
-      },
-      "artists": [
-        {
-          "name": "DE DE MOUSE",
-          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
-        }
-      ],
-      "duration_ms": 236675,
-      "name": "Nulife",
-      "url": "https://open.spotify.com/track/58YPHNk3iFesdE22u5giwN"
-    },
-    {
-      "added_at": "2026-04-08 03:59:06",
-      "album": {
         "name": "KURU KURU HARAJUKU",
         "url": "https://open.spotify.com/album/72Rq4jmmzkQ4db2CgliNvP"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 257820,
       "name": "KURU KURU HARAJUKU",
       "url": "https://open.spotify.com/track/0J4rHdjYkIRCVn6DvEg7aD"
+    },
+    {
+      "added_at": "2026-04-08 03:59:06",
+      "album": {
+        "name": "Nulife",
+        "url": "https://open.spotify.com/album/6wzmYBtzA90cXIUvTuD5I3"
+      },
+      "artists": [
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        }
+      ],
+      "duration_ms": 236675,
+      "name": "Nulife",
+      "url": "https://open.spotify.com/track/58YPHNk3iFesdE22u5giwN"
     }
   ],
   "unique_name": "Tokyo Club Beat",

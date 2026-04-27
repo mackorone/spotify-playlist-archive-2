@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-980 songs - 2 day 11 hr 24 min
+981 songs - 2 day 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -878,6 +878,7 @@
 | [Time For Slurp](https://open.spotify.com/track/753EklH444D0oZj4ClafLc) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [SHHHHHHH!](https://open.spotify.com/album/4KyU3E5Xw6TVBz2yCuUfeW) | 1:57 | 2024-06-20 | 2024-07-12 |
 | [Timeless](https://open.spotify.com/track/1nMge5njZEFQ4m9oESnBSJ) | [Oregon](https://open.spotify.com/artist/0CyVUjy6HZzEXgGA0ydd3t) | [Friends](https://open.spotify.com/album/1fNj64kRg1OAF5LNLuPnKT) | 8:21 | 2025-12-29 | 2026-01-15 |
 | [Tired of Waiting for You \(Bonus Track\)](https://open.spotify.com/track/7lLRwdsiYMqXFPYLaVydJE) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2), [Lee Hazlewood](https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG) | [Nancy & Lee](https://open.spotify.com/album/4XI8r5L0ewd7VMsF64YcIl) | 3:37 | 2024-07-12 | 2024-09-08 |
+| [To Dream Tomorrow](https://open.spotify.com/track/6gI5mzlCl8xTuwrs7X84nC) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Lee Herschberg](https://open.spotify.com/artist/7GDDpChEAyRCUfb5On65Vr) | [Sanctuary / Suite for Late Summer](https://open.spotify.com/album/3H9maZhJjSMi2C2YM65gZ0) | 2:41 | 2026-04-26 |  |
 | [Today](https://open.spotify.com/track/0yuEk58hIetzfjofRMXUtK) | [The Innocence Mission](https://open.spotify.com/artist/4VcTmgGKGuJn56Ac2zNhiH) | [Small Planes](https://open.spotify.com/album/1iyTLD4EXY7G9gHYb7MZRQ) | 3:40 | 2025-05-27 | 2025-07-04 |
 | [Today Or Tomorrow](https://open.spotify.com/track/1XqvZaj7UvnR8SFGwAZmFh) | [Karate](https://open.spotify.com/artist/6U26vGPwnCQcNDr9Dpj0Y0) | [In Place Of Real Insight](https://open.spotify.com/album/3Zlq4jLSKwaPekmVFR7BcD) | 1:58 | 2024-03-09 | 2024-05-16 |
 | [Today’s Iconoclast](https://open.spotify.com/track/2kqQgHDm2Vz21n982K7KQq) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Today's Iconoclast](https://open.spotify.com/album/5AKlzzw0Nqoq0ZB4gfzsec) | 3:03 | 2024-07-26 | 2024-09-08 |

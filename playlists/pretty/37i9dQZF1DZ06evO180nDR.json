@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 72520,
+  "num_followers": 72574,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAADf4io443SArRpfgj/aFJfR",
+  "snapshot_id": "aewEAAAAAADV1kNAauL0OQdIf/i09Pc/",
   "tracks": [
     {
       "added_at": null,
@@ -383,26 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redenci\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
+        "name": "SABIA",
+        "url": "https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe"
       },
       "artists": [
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Esau Ortiz",
-          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 142285,
-      "name": "Tommy Vercetti",
-      "url": "https://open.spotify.com/track/6Dqy6XTXUcjnUUxkGCmtOp"
+      "duration_ms": 156517,
+      "name": "MATCHA",
+      "url": "https://open.spotify.com/track/7KfaBqVsLdG6AtqHTtX36g"
     },
     {
       "added_at": null,
@@ -423,6 +415,30 @@
       "duration_ms": 173618,
       "name": "Boneless",
       "url": "https://open.spotify.com/track/38rXAquFQN5OwsWA1oo6ps"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Redenci\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 142285,
+      "name": "Tommy Vercetti",
+      "url": "https://open.spotify.com/track/6Dqy6XTXUcjnUUxkGCmtOp"
     },
     {
       "added_at": null,
@@ -452,29 +468,9 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 156517,
-      "name": "MATCHA",
-      "url": "https://open.spotify.com/track/7KfaBqVsLdG6AtqHTtX36g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Redenci\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 179195,
-      "name": "Dinero Infinito",
-      "url": "https://open.spotify.com/track/3de3DQ1qgilSJqfRWT1xn1"
+      "duration_ms": 132725,
+      "name": "MACALLAN 12",
+      "url": "https://open.spotify.com/track/2SVuyMappFLNIXuilhbzkL"
     },
     {
       "added_at": null,
@@ -495,6 +491,26 @@
       "duration_ms": 173827,
       "name": "Polvo de Hadas",
       "url": "https://open.spotify.com/track/1BeJcPh87ayQXulFU5FPD3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Redenci\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 179195,
+      "name": "Dinero Infinito",
+      "url": "https://open.spotify.com/track/3de3DQ1qgilSJqfRWT1xn1"
     },
     {
       "added_at": null,
@@ -528,29 +544,9 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 132725,
-      "name": "MACALLAN 12",
-      "url": "https://open.spotify.com/track/2SVuyMappFLNIXuilhbzkL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MIJA NO TE ASUSTES",
-        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 161238,
-      "name": "PASAPORTES",
-      "url": "https://open.spotify.com/track/2Vq1rhWlKNEEGWTJrWOYmp"
+      "duration_ms": 180656,
+      "name": "WHISKEY DE PI\u00d1A",
+      "url": "https://open.spotify.com/track/5cjJ5r52UvOaDaJ0dClY5B"
     },
     {
       "added_at": null,
@@ -591,6 +587,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MIJA NO TE ASUSTES",
+        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 161238,
+      "name": "PASAPORTES",
+      "url": "https://open.spotify.com/track/2Vq1rhWlKNEEGWTJrWOYmp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SABIA",
         "url": "https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe"
       },
@@ -600,9 +616,29 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 180656,
-      "name": "WHISKEY DE PI\u00d1A",
-      "url": "https://open.spotify.com/track/5cjJ5r52UvOaDaJ0dClY5B"
+      "duration_ms": 185376,
+      "name": "TRANKIS MORRIS",
+      "url": "https://open.spotify.com/track/7DXIduhUXVKM4CjIdzHnIw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Redenci\u00f3n",
+        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 174205,
+      "name": "Plata",
+      "url": "https://open.spotify.com/track/1nmmWHhizEQ742gaAgnTjB"
     },
     {
       "added_at": null,
@@ -627,26 +663,6 @@
       "duration_ms": 209683,
       "name": "La Pobreza Buena",
       "url": "https://open.spotify.com/track/6znmbSFyJDp4diXQWO5QW8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Redenci\u00f3n",
-        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 174205,
-      "name": "Plata",
-      "url": "https://open.spotify.com/track/1nmmWHhizEQ742gaAgnTjB"
     },
     {
       "added_at": null,
@@ -680,9 +696,9 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 185376,
-      "name": "TRANKIS MORRIS",
-      "url": "https://open.spotify.com/track/7DXIduhUXVKM4CjIdzHnIw"
+      "duration_ms": 170162,
+      "name": "MALDITO INFIERNO",
+      "url": "https://open.spotify.com/track/1uYLOi3hMy6eMBY2SCCYRT"
     },
     {
       "added_at": null,
@@ -699,26 +715,6 @@
       "duration_ms": 166284,
       "name": "Los Benjamines",
       "url": "https://open.spotify.com/track/5YHQqBnzB1UWcwKoDiFK6b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL RELOJITO",
-        "url": "https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 189027,
-      "name": "EL RELOJITO",
-      "url": "https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6"
     },
     {
       "added_at": null,
@@ -743,6 +739,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "EL RELOJITO",
+        "url": "https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 189027,
+      "name": "EL RELOJITO",
+      "url": "https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SABIA",
         "url": "https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe"
       },
@@ -752,9 +768,9 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 170162,
-      "name": "MALDITO INFIERNO",
-      "url": "https://open.spotify.com/track/1uYLOi3hMy6eMBY2SCCYRT"
+      "duration_ms": 159212,
+      "name": "KAMIKAZE",
+      "url": "https://open.spotify.com/track/3aQQ6AAzsyaEf6RowEPX7Z"
     },
     {
       "added_at": null,
@@ -815,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SABIA",
-        "url": "https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 159212,
-      "name": "KAMIKAZE",
-      "url": "https://open.spotify.com/track/3aQQ6AAzsyaEf6RowEPX7Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NEPTUNO",
         "url": "https://open.spotify.com/album/6vQLZiZwK4XctII0RdWhqg"
       },
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 189240,
-      "name": "Que Te Entregues Hoy",
-      "url": "https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las 745",
         "url": "https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 163073,
       "name": "Las 745",
       "url": "https://open.spotify.com/track/2qYB75lMyKTsejklUVuxSH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 189240,
+      "name": "Que Te Entregues Hoy",
+      "url": "https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo"
     },
     {
       "added_at": null,

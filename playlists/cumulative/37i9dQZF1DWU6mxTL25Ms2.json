@@ -82,7 +82,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 225306,
       "name": "A\u30fbNO\u30fbNE - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/3tIz6yFudNZvviiXMCRJWS"
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 295000,
       "name": "RUN\u00d7RUN\uff01",
       "url": "https://open.spotify.com/track/2S0bS3tTV8jqz0WxZel9AG"
@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 327853,
       "name": "\u3075\u3093\u308f\u308aSlowly - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/6lSKwmVKD4I07RkFpKD94d"
@@ -2252,7 +2252,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 211026,
       "name": "\u3086\u308b\u30d1\u30abHAPPY DAYS\uff01",
       "url": "https://open.spotify.com/track/5Yb1O4ZzUSkJ0B79lzHa0K"
@@ -2602,7 +2602,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 258519,
       "name": "\u30ed\u30b9\u30c8\u30b7\u30e3\u30a4\u30f3",
       "url": "https://open.spotify.com/track/6CLBJQ2UcOg0GlR1Wi0ycJ"
@@ -2638,7 +2638,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 251466,
       "name": "\u4e03\u8272\u306e\u666f\u8272 - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/1INojFWa1bybAkvBEWj5FF"
@@ -2682,7 +2682,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 247280,
       "name": "\u4eca\u65e5\u3082\u30a6\u30e9\u30e9\u304b\u30b1\u30bb\u30e9\u30bb\u30e9\uff01 - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/5QP5YzhgawWVNP8Fmj5YvC"
@@ -2795,6 +2795,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 09 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/5PSYY1VzgdPlCkrcIV4hdi"
+      },
+      "artists": [
+        {
+          "name": "\u30e1\u30b8\u30ed\u30e9\u30a4\u30a2\u30f3 (CV. \u571f\u5e2b\u4e9c\u6587)",
+          "url": "https://open.spotify.com/artist/1OQUYszJKFHB1F9KzqWBBz"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236666,
+      "name": "\u5e0c\u671b\u30c7\u30a3\u30b9\u30ab\u30d0\u30ea\u30fc - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/6iR4mySzdOwT2Ywos5WEyH"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 07 (2021 Remastered Version)",
         "url": "https://open.spotify.com/album/4uYhCJhZB8wotoB0qJa0Im"
       },
@@ -2894,7 +2912,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 230106,
       "name": "\u611f\u60c5\u30ce\u9ece\u660e - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/2RZAaf7nleKmiRp1PFspVc"
@@ -3016,7 +3034,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 268213,
       "name": "\u6c17\u307e\u3050\u308cTuning Heart - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/1AbjvHGbuWy1mpjJbILCfJ"

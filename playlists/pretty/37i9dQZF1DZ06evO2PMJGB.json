@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 265051,
+  "num_followers": 265057,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAAC5rPuuXFYqJV9tBUqIFfma",
+  "snapshot_id": "aewEAAAAAAByAL9OJF8DQ0rpU7EB8mh+",
   "tracks": [
     {
       "added_at": null,
@@ -358,15 +358,11 @@
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 141394,
-      "name": "Safada",
-      "url": "https://open.spotify.com/track/3Cy7EQSrpwENzbXGFSdGcb"
+      "duration_ms": 112276,
+      "name": "Tropical Paradise",
+      "url": "https://open.spotify.com/track/1aOo5rg36qqtvFllrGbOT5"
     },
     {
       "added_at": null,
@@ -440,13 +436,13 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         },
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 156970,
-      "name": "Tu Gata",
-      "url": "https://open.spotify.com/track/7j4kf9YhvElmjz3if93V49"
+      "duration_ms": 141394,
+      "name": "Safada",
+      "url": "https://open.spotify.com/track/3Cy7EQSrpwENzbXGFSdGcb"
     },
     {
       "added_at": null,
@@ -518,11 +514,15 @@
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 215732,
-      "name": "Sempre Voc\u00ea",
-      "url": "https://open.spotify.com/track/6OLRROXI8aDgzNDK5oDTNr"
+      "duration_ms": 156970,
+      "name": "Tu Gata",
+      "url": "https://open.spotify.com/track/7j4kf9YhvElmjz3if93V49"
     },
     {
       "added_at": null,
@@ -539,6 +539,26 @@
       "duration_ms": 182112,
       "name": "Chico",
       "url": "https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "recadin no espelho",
+        "url": "https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 124312,
+      "name": "recadin no espelho",
+      "url": "https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf"
     },
     {
       "added_at": null,
@@ -563,26 +583,6 @@
       "duration_ms": 150259,
       "name": "MODO TURBO",
       "url": "https://open.spotify.com/track/2ip4hxYupn3CSsHjn4l2a8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "recadin no espelho",
-        "url": "https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 124312,
-      "name": "recadin no espelho",
-      "url": "https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf"
     },
     {
       "added_at": null,

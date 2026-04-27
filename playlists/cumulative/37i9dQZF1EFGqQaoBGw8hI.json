@@ -7227,6 +7227,28 @@
     },
     {
       "album": {
+        "name": "ADL",
+        "url": "https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159857,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/7f6kRhjrpsZzfcpI0o7xVr"
+    },
+    {
+      "album": {
         "name": "Tis\u00edckr\u00e1t",
         "url": "https://open.spotify.com/album/1VVAd7oKlLjsU037Nx058X"
       },

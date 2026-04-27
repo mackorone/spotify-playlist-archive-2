@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597 likes - 349 songs - 20 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 598 likes - 349 songs - 20 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,13 +203,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 193 | [Flesh And Blood](https://open.spotify.com/track/2YP1SmJb1tHQkgyp2dMfHH) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Shine On](https://open.spotify.com/album/3NH5k5p2RjQepg0nM61scP) | 4:18 |
 | 194 | [I Know A Girl](https://open.spotify.com/track/5NDTTkIxKkg4WrhoMGqFCV) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Welcome To The Block Party](https://open.spotify.com/album/0dNsg2k0JVBXDjAyASks9p) | 3:15 |
 | 195 | [Sundown \- Live At Rexall Place, Edmonton, AB / March 10, 2017](https://open.spotify.com/track/7jT2OzvDIynmMKxK0F83Zk) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 2](https://open.spotify.com/album/0X9HgPFjXaILVtIhhD1zRp) | 3:54 |
-| 196 | [Damage](https://open.spotify.com/track/5wgoyHahv5jmw79VyJp4ve) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones \(Deluxe Edition\)](https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy) | 2:48 |
-| 197 | [The Card You Gamble \(Main Theme From Monarch\)](https://open.spotify.com/track/7iOS7vJd0JfJkUkauMfQY1) | [Monarch Cast](https://open.spotify.com/artist/7Dw7t1oeEFmhuqDntWaxyX), [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [The Card You Gamble \(Main Theme From Monarch\)](https://open.spotify.com/album/6Xi49KOKJfy60TkU5BJ61o) | 2:56 |
-| 198 | [Built for Heartbreak](https://open.spotify.com/track/6QJsDO7ZyX7EwVWPSkQc4b) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Built for Heartbreak](https://open.spotify.com/album/6XPnwkFbKwUntx4NQKUdt3) | 3:21 |
-| 199 | [Raincoat](https://open.spotify.com/track/5aRNDNKCU7vPlyPPzhOPN1) | [Kelly Sweet](https://open.spotify.com/artist/7rqacjqgs10tZwg7S2DNxR) | [We Are One](https://open.spotify.com/album/0n4l8IEbaht8gU6jKzlp9n) | 3:50 |
-| 200 | [The Chapter](https://open.spotify.com/track/1AYKKWCYkY31Ae7nZj7VcG) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Chapter & Verse](https://open.spotify.com/album/4pfspuo0DUzho0hGtZHI9r) | 3:32 |
-| 201 | [Tell Her](https://open.spotify.com/track/5FPq36CbubnbA3QY45D1R4) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [More Love \- Songs from Little Voice Season One](https://open.spotify.com/album/52fzvqGSm991mT6pBgAS6g) | 4:58 |
-| 202 | [Don't Ask Me](https://open.spotify.com/track/0a46w1TylFFpaFVVfoYaO9) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Don't Ask Me](https://open.spotify.com/album/5ASOGXccuPZ6uxIBrjatme) | 3:14 |
+| 196 | [Don't Ask Me](https://open.spotify.com/track/0a46w1TylFFpaFVVfoYaO9) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Don't Ask Me](https://open.spotify.com/album/5ASOGXccuPZ6uxIBrjatme) | 3:14 |
+| 197 | [Damage](https://open.spotify.com/track/5wgoyHahv5jmw79VyJp4ve) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones \(Deluxe Edition\)](https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy) | 2:48 |
+| 198 | [The Card You Gamble \(Main Theme From Monarch\)](https://open.spotify.com/track/7iOS7vJd0JfJkUkauMfQY1) | [Monarch Cast](https://open.spotify.com/artist/7Dw7t1oeEFmhuqDntWaxyX), [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [The Card You Gamble \(Main Theme From Monarch\)](https://open.spotify.com/album/6Xi49KOKJfy60TkU5BJ61o) | 2:56 |
+| 199 | [Built for Heartbreak](https://open.spotify.com/track/6QJsDO7ZyX7EwVWPSkQc4b) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Built for Heartbreak](https://open.spotify.com/album/6XPnwkFbKwUntx4NQKUdt3) | 3:21 |
+| 200 | [Raincoat](https://open.spotify.com/track/5aRNDNKCU7vPlyPPzhOPN1) | [Kelly Sweet](https://open.spotify.com/artist/7rqacjqgs10tZwg7S2DNxR) | [We Are One](https://open.spotify.com/album/0n4l8IEbaht8gU6jKzlp9n) | 3:50 |
+| 201 | [The Chapter](https://open.spotify.com/track/1AYKKWCYkY31Ae7nZj7VcG) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Chapter & Verse](https://open.spotify.com/album/4pfspuo0DUzho0hGtZHI9r) | 3:32 |
+| 202 | [Tell Her](https://open.spotify.com/track/5FPq36CbubnbA3QY45D1R4) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [More Love \- Songs from Little Voice Season One](https://open.spotify.com/album/52fzvqGSm991mT6pBgAS6g) | 4:58 |
 | 203 | [Round and Round](https://open.spotify.com/track/78YagZM1JmrUVizeZiDwAz) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Round and Round](https://open.spotify.com/album/55AqNYMTp0MXxjCxxvQZXx) | 3:02 |
 | 204 | [Greener Grass](https://open.spotify.com/track/5bd2oqoLOlJoPUGPaiQmIp) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 4:04 |
 | 205 | [You Can't Break a Woman](https://open.spotify.com/track/48UVtNxqaWy9PpOhfJXwnu) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Tree](https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm) | 3:13 |
@@ -358,4 +358,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 348 | [What Would You Do](https://open.spotify.com/track/4kFWLoSCSUTEDbF1rkf8pf) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 2:59 |
 | 349 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 
-Snapshot ID: `AcP1XgAAAACSSOiDa0mHSK/iDTc9ch77`
+Snapshot ID: `AcP6/gAAAADYtqY0En19qMfHAFLzyipD`

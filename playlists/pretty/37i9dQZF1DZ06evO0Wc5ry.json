@@ -1,12 +1,12 @@
 {
   "description": "This is Outkast. The essential tracks, all in one playlist.",
-  "num_followers": 167739,
+  "num_followers": 167749,
   "original_name": "This Is Outkast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAACHskhObysgqfKzgwimNP1d",
+  "snapshot_id": "aewEAAAAAAB+Jxt9ywNItHw/hWpFbP5N",
   "tracks": [
     {
       "added_at": null,
@@ -603,26 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gangsta Grillz The Album",
-        "url": "https://open.spotify.com/album/68lSPhhVV4hoe95OIaAwec"
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/06ECofyrsfq7eyIoeWV0QU"
       },
       "artists": [
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        },
         {
           "name": "Outkast",
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         },
         {
-          "name": "Marsha Ambrosius",
-          "url": "https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM"
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
         }
       ],
-      "duration_ms": 297280,
-      "name": "The Art of Storytellin, Pt. 4 (feat. Outkast & Marsha Ambrosius)",
-      "url": "https://open.spotify.com/track/6SMwDEKfm0hlVErawcdRAK"
+      "duration_ms": 260284,
+      "name": "In Due Time (with Cee-Lo)",
+      "url": "https://open.spotify.com/track/0F7IWMsRmk9P9ML4prVlr0"
     },
     {
       "added_at": null,
@@ -643,22 +639,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Due Time",
-        "url": "https://open.spotify.com/album/06ECofyrsfq7eyIoeWV0QU"
+        "name": "Gangsta Grillz The Album",
+        "url": "https://open.spotify.com/album/68lSPhhVV4hoe95OIaAwec"
       },
       "artists": [
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
         {
           "name": "Outkast",
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         },
         {
-          "name": "CeeLo Green",
-          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+          "name": "Marsha Ambrosius",
+          "url": "https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM"
         }
       ],
-      "duration_ms": 260284,
-      "name": "In Due Time (with Cee-Lo)",
-      "url": "https://open.spotify.com/track/0F7IWMsRmk9P9ML4prVlr0"
+      "duration_ms": 297280,
+      "name": "The Art of Storytellin, Pt. 4 (feat. Outkast & Marsha Ambrosius)",
+      "url": "https://open.spotify.com/track/6SMwDEKfm0hlVErawcdRAK"
     },
     {
       "added_at": null,
@@ -770,19 +770,11 @@
         {
           "name": "Outkast",
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 323000,
-      "name": "Hollywood Divorce (feat. Snoop Dogg & Lil' Wayne)",
-      "url": "https://open.spotify.com/track/1gZZyC3EEw8hwqoYRZqypC"
+      "duration_ms": 204160,
+      "name": "Idlewild Blue (Don'tchu Worry 'Bout Me)",
+      "url": "https://open.spotify.com/track/3tkbjyAmQnGsD52Rn8TCX8"
     },
     {
       "added_at": null,
@@ -866,11 +858,19 @@
         {
           "name": "Outkast",
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 204160,
-      "name": "Idlewild Blue (Don'tchu Worry 'Bout Me)",
-      "url": "https://open.spotify.com/track/3tkbjyAmQnGsD52Rn8TCX8"
+      "duration_ms": 323000,
+      "name": "Hollywood Divorce (feat. Snoop Dogg & Lil' Wayne)",
+      "url": "https://open.spotify.com/track/1gZZyC3EEw8hwqoYRZqypC"
     },
     {
       "added_at": null,

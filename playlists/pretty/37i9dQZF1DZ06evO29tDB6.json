@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 144911,
+  "num_followers": 144914,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAACBXaRZtREvQgbzVCagoVjn",
+  "snapshot_id": "aewEAAAAAAC13VsKdX2M1GUkoWtKMpHN",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 a\u00f1os",
-        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 170026,
-      "name": "El hablador",
-      "url": "https://open.spotify.com/track/7CmVmboIpe4bgIQJi4hk5v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 194200,
       "name": "Que viva el rocanrol - En vivo",
       "url": "https://open.spotify.com/track/21vlXzWrTG8PaMcBgPIIiZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 a\u00f1os",
+        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 170026,
+      "name": "El hablador",
+      "url": "https://open.spotify.com/track/7CmVmboIpe4bgIQJi4hk5v"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 224906,
-      "name": "Sara",
-      "url": "https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3"
+      "duration_ms": 246960,
+      "name": "Caseta de cobro",
+      "url": "https://open.spotify.com/track/2zm7vgeqPL4EHoF69mh802"
     },
     {
       "added_at": null,
@@ -644,33 +644,25 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 246960,
-      "name": "Caseta de cobro",
-      "url": "https://open.spotify.com/track/2zm7vgeqPL4EHoF69mh802"
+      "duration_ms": 224906,
+      "name": "Sara",
+      "url": "https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Hard to Handle",
-        "url": "https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX"
+        "name": "Sinf\u00f3nico",
+        "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
       },
       "artists": [
-        {
-          "name": "Foco De Atelier",
-          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
-        },
         {
           "name": "El Tri",
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 190632,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF"
+      "duration_ms": 244666,
+      "name": "Los minusv\u00e1lidos",
+      "url": "https://open.spotify.com/track/0vLrZpp49ADN2bqinIg1mU"
     },
     {
       "added_at": null,
@@ -723,18 +715,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinf\u00f3nico",
-        "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
+        "name": "Hard to Handle",
+        "url": "https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX"
       },
       "artists": [
+        {
+          "name": "Foco De Atelier",
+          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        },
         {
           "name": "El Tri",
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 244666,
-      "name": "Los minusv\u00e1lidos",
-      "url": "https://open.spotify.com/track/0vLrZpp49ADN2bqinIg1mU"
+      "duration_ms": 190632,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF"
     },
     {
       "added_at": null,
@@ -887,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tri Sinf\u00f3nico II",
-        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
+        "name": "Hecho en M\u00e9xico",
+        "url": "https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 356880,
-      "name": "El blues de la llanta",
-      "url": "https://open.spotify.com/track/22SExSRBRXSD41VYCg71Hx"
+      "duration_ms": 129266,
+      "name": "Hasta que el cuerpo aguante",
+      "url": "https://open.spotify.com/track/0KCzMpVMHbNASNzegF5miF"
     }
   ],
   "unique_name": "This Is El Tri",

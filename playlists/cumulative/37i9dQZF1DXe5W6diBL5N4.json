@@ -7451,6 +7451,24 @@
     },
     {
       "album": {
+        "name": "A Song For My Cat",
+        "url": "https://open.spotify.com/album/6w94sC2P9fIZ2fKbsz2BNb"
+      },
+      "artists": [
+        {
+          "name": "Aden",
+          "url": "https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "A Song For My Cat",
+      "url": "https://open.spotify.com/track/3UbERtoQkWDDe0LmTMy4Dp"
+    },
+    {
+      "album": {
         "name": "A Song For You",
         "url": "https://open.spotify.com/album/284ZHwShyBT7ao6gl8S2pe"
       },
@@ -24756,7 +24774,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 282000,
       "name": "Beautiful, even now",
       "url": "https://open.spotify.com/track/4RjZyA4jkR5q5WiZ3FNFxt"
@@ -42740,7 +42758,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 196800,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/5jbWLkxaG4aXqVCBJxYp6q"
@@ -46258,7 +46276,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 151106,
       "name": "Cocky (Feat. BIBI)",
       "url": "https://open.spotify.com/track/0f6Es3lVLNI4niwc8QsHRF"
@@ -58010,6 +58028,24 @@
       "duration_ms": 173453,
       "name": "Different Hearts",
       "url": "https://open.spotify.com/track/4NHUvboX5qQpdCOWJwmJi4"
+    },
+    {
+      "album": {
+        "name": "Different Summer (Band Ver.)",
+        "url": "https://open.spotify.com/album/3P4KpPObQKJxRpJaFkpBkU"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "Different Summer (Band Ver.)",
+      "url": "https://open.spotify.com/track/2TVRDs1FlKogp1N4AJsVR0"
     },
     {
       "album": {
@@ -71712,6 +71748,24 @@
       "duration_ms": 205000,
       "name": "EVERGLOW",
       "url": "https://open.spotify.com/track/0X27xgygbXZ5qsAm3Lxpum"
+    },
+    {
+      "album": {
+        "name": "Perfect Crown OST Part.6",
+        "url": "https://open.spotify.com/album/4gfK22mKqaAaF3map8MvnM"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "EVERGLOW",
+      "url": "https://open.spotify.com/track/2lQCNU00ySM4FJUbddbMUr"
     },
     {
       "album": {
@@ -119044,7 +119098,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 181000,
       "name": "If I Could Read Your Mind (2026 Ver.)",
       "url": "https://open.spotify.com/track/0Jqv2nuDrVGVUQJ74xUL2l"
@@ -136119,6 +136173,28 @@
     },
     {
       "album": {
+        "name": "Leave Me, Don't Go",
+        "url": "https://open.spotify.com/album/3lwwcidwOX4SnqANesl4Th"
+      },
+      "artists": [
+        {
+          "name": "\uae30\ud0dc",
+          "url": "https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6"
+        },
+        {
+          "name": "Baek Yeseul",
+          "url": "https://open.spotify.com/artist/7GE4KJsseSG0G1848UQpro"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270508,
+      "name": "Leave Me, Don\u2032t Go",
+      "url": "https://open.spotify.com/track/1qbv4T79mIiOXtm4ZfEIlS"
+    },
+    {
+      "album": {
         "name": "Leave the memory",
         "url": "https://open.spotify.com/album/2Xhk0U3a5UyQbdZ7XHUAD2"
       },
@@ -143552,7 +143628,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 229752,
       "name": "Longtime Lovers",
       "url": "https://open.spotify.com/track/5tLxk8bnXhp5nIzENZnYb2"
@@ -147680,7 +147756,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 210000,
       "name": "LOVE IS PAIN",
       "url": "https://open.spotify.com/track/4ewxCchKRlo3UNH54SIgDW"
@@ -155538,7 +155614,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 251022,
       "name": "May 12 (Feat. Lee Jangwoo)",
       "url": "https://open.spotify.com/track/2pjF2uS5BBo1dqeSCG8Z4c"
@@ -155938,7 +156014,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 194615,
       "name": "Maybe Love",
       "url": "https://open.spotify.com/track/6PLDE0mYhWLUCUThw52or0"
@@ -164294,7 +164370,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 245941,
       "name": "Moving on",
       "url": "https://open.spotify.com/track/5fbz2WBSO0X0UKn9ruqFrM"
@@ -189141,6 +189217,24 @@
     },
     {
       "album": {
+        "name": "We Are All Trying Here (Original Soundtrack) Part.3",
+        "url": "https://open.spotify.com/album/3zE1rg1hYnr1WHQVWpd15P"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/1EjyOE9pgRwUmNa5OUmGjB"
+    },
+    {
+      "album": {
         "name": "Pieces (2022)",
         "url": "https://open.spotify.com/album/2EzLW1HfD6pXwngmIcE34P"
       },
@@ -212027,6 +212121,24 @@
     },
     {
       "album": {
+        "name": "Shall We Get Married",
+        "url": "https://open.spotify.com/album/4BPhDq9DAi95dKNX2XmRuK"
+      },
+      "artists": [
+        {
+          "name": "LEE BORAM",
+          "url": "https://open.spotify.com/artist/6SFvlarNwNCJVr7p5ZHPp3"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Shall We Get Married",
+      "url": "https://open.spotify.com/track/2juvz13P2VHY067rVBXNrK"
+    },
+    {
+      "album": {
         "name": "Shall we run away",
         "url": "https://open.spotify.com/album/76Fp11JzauWvK0pTDpwxAM"
       },
@@ -225445,6 +225557,24 @@
     },
     {
       "album": {
+        "name": "We Are All Trying Here (Original Soundtrack) Part.2",
+        "url": "https://open.spotify.com/album/1hMSVMqy0UfHX83ZGKtRHE"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/4eR6sf32ufPbsieCdI7epb"
+    },
+    {
+      "album": {
         "name": "STARLIGHT",
         "url": "https://open.spotify.com/album/6WClO8xLFUhroLvL1BREzk"
       },
@@ -235272,6 +235402,24 @@
       "duration_ms": 184000,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/1qXkDZzrLYZDer71tT9nYG"
+    },
+    {
+      "album": {
+        "name": "Absolute Value of Romance OST Part 2",
+        "url": "https://open.spotify.com/album/6wOkUWVosU5aIi7NZqfU08"
+      },
+      "artists": [
+        {
+          "name": "SAY MY NAME",
+          "url": "https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204229,
+      "name": "Sweet & Sour",
+      "url": "https://open.spotify.com/track/2XtHZDeNTUvOEsnHAI8HGo"
     },
     {
       "album": {
@@ -257070,7 +257218,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 291846,
       "name": "Two Of Us",
       "url": "https://open.spotify.com/track/6K8r6pX0pFKA2g5t2FORxJ"
@@ -262220,6 +262368,28 @@
       "duration_ms": 125915,
       "name": "Volume up",
       "url": "https://open.spotify.com/track/4X29YGToqAgvay9ZtKkCrg"
+    },
+    {
+      "album": {
+        "name": "Voo Doo",
+        "url": "https://open.spotify.com/album/0WLXVMb723CuVEy5bRE7j6"
+      },
+      "artists": [
+        {
+          "name": "Marv",
+          "url": "https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW"
+        },
+        {
+          "name": "PAAK",
+          "url": "https://open.spotify.com/artist/03sYskre0oa1U6nuso7EEL"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108564,
+      "name": "Voo Doo",
+      "url": "https://open.spotify.com/track/3JTVUamx5mpm1mjq6T9ARS"
     },
     {
       "album": {
@@ -267464,6 +267634,24 @@
       "duration_ms": 236000,
       "name": "We're still the same",
       "url": "https://open.spotify.com/track/7dYzFdz0OmwFZF5EQGgzM8"
+    },
+    {
+      "album": {
+        "name": "We're the moonlight (The Patron of Villains Original Soundtrack Part.1)",
+        "url": "https://open.spotify.com/album/6RlClL89qpTEAseO9XHckP"
+      },
+      "artists": [
+        {
+          "name": "AKUGETSU",
+          "url": "https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190842,
+      "name": "We're the moonlight (The Patron of Villains Original Soundtrack Part.1)",
+      "url": "https://open.spotify.com/track/32gbecPRT435FkDGpKRIXd"
     },
     {
       "album": {

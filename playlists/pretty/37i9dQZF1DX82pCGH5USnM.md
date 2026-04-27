@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,436,574 likes - 199 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,437,005 likes - 199 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 198 | [Back Into Fun](https://open.spotify.com/track/2n3RqGDVvHHSilT9icMC7d) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Back Into Fun](https://open.spotify.com/album/6WeLH1IAKWPDluaglGItip) | 3:13 |
 | 199 | [The Rush Hour](https://open.spotify.com/track/0KPZLD8jgy1JzoQG4wXHEQ) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [The Rush Hour](https://open.spotify.com/album/07lcKojkUz4DZSL4XpsUwT) | 2:43 |
 
-Snapshot ID: `AAAAAARInZDdDdEPryCIO7LGYFpHz6aF`
+Snapshot ID: `AAAAAOL8asF3SgWr2j4KUCu54BYmB1oJ`

@@ -4,7 +4,7 @@
 
 > ¡Únete a la fiesta y mueve las caderas con esta playlist!
 
-120 songs - 7 hr 37 min
+121 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Quien Le Importa](https://open.spotify.com/track/0R5da1qbsZ8juxK3Dm8XCw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia](https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt) | 3:45 | 2021-09-03 |  |
 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 | 2021-09-03 |  |
 | [After Pari](https://open.spotify.com/track/75MoTqOKZafc2c7M9HNMJD) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:19 | 2024-04-26 | 2024-12-19 |
-| [Agüita](https://open.spotify.com/track/1XPqp3k2ZmetP4xMIbrSYN) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [Danna Paola \(Edición Deluxe\)](https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd) | 3:39 | 2021-09-03 |  |
+| [Agüita](https://open.spotify.com/track/1XPqp3k2ZmetP4xMIbrSYN) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [Danna Paola \(Edición Deluxe\)](https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd) | 3:39 | 2021-09-03 | 2026-04-27 |
 | [Amor De Papel](https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viento A Favor](https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz) | 4:08 | 2021-09-03 |  |
 | [Antes Muerta Que Sencilla](https://open.spotify.com/track/7tKDsV1gA7iVJHep2KZKOj) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Antes Muertas Que Sencillas](https://open.spotify.com/album/0afOzI8hKSRU3QV0cdf0NO) | 2:50 | 2021-09-03 |  |
 | [Ay Mamá](https://open.spotify.com/track/72psvScOYelPAVpe9k1B9y) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [La Emperatriz](https://open.spotify.com/album/7f3vr9igj7vDgo3SBIN8Fv) | 3:01 | 2024-05-10 | 2024-06-08 |
@@ -50,6 +50,7 @@
 | [Hollaback Girl](https://open.spotify.com/track/0LzrhCZFXW94Y8nwtTuRlw) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:19 | 2021-09-03 | 2024-04-19 |
 | [Hora y Cuarto \- Single Version](https://open.spotify.com/track/2pqRUZyX7LOC2FgoawYtG8) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124), [Alaska](https://open.spotify.com/artist/5ppm4jKbRPVMwuBO3DwnWB) | [Hora y Cuarto](https://open.spotify.com/album/3j8ns8OLszeAGzbem3Ei6C) | 3:53 | 2024-05-10 | 2024-06-08 |
 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 | 2021-09-03 |  |
+| [I Gotta Feeling](https://open.spotify.com/track/72np30cEzvqzxAUG5mrhyT) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [The Beginning & The Best Of The E.N.D.](https://open.spotify.com/album/5qf9TEgsN87fxwEKsJP2vu) | 4:49 | 2025-03-28 |  |
 | [I Will Survive \- Original 7" Version](https://open.spotify.com/track/6fw12s3vAJQAt7lbICodwC) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [I Will Survive \(Phil Kelsey Remix\)](https://open.spotify.com/album/0afBUyhZUpKrvV9gxWWXM1) | 3:18 | 2021-09-03 | 2024-04-19 |
 | [I Will Survive \- Single Version](https://open.spotify.com/track/4xmjDH6auBwuZ4GHimjXGe) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Colour Collection](https://open.spotify.com/album/2wV72iMZZu677uYCw2giDC) | 3:17 | 2021-09-03 | 2026-01-15 |
 | [IDGAF](https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:37 | 2021-09-03 |  |

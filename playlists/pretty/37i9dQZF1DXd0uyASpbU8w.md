@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Kehlani, CIZA, Zee Nxumalo, The Big Hash & Kabza De Small and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,390 likes - 72 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,419 likes - 72 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

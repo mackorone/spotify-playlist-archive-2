@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1613235,
+  "num_followers": 1613314,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,30 @@
     {
       "added_at": "2026-04-24 04:01:00",
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/6Rqbqt40cj7E7FUO9z7XS8"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Saksham",
+          "url": "https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF"
+        },
+        {
+          "name": "sadHAPPY",
+          "url": "https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/5oh6FVaL2VQYqdXglEI59T"
+    },
+    {
+      "added_at": "2026-04-24 04:01:00",
+      "album": {
         "name": "The End Of Genesys",
         "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
       },
@@ -803,22 +827,6 @@
     {
       "added_at": "2026-04-24 04:01:00",
       "album": {
-        "name": "undux",
-        "url": "https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "obvious",
-      "url": "https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1"
-    },
-    {
-      "added_at": "2026-04-24 04:01:00",
-      "album": {
         "name": "Prisma EP",
         "url": "https://open.spotify.com/album/1w6AKkyX86b4oUheLb6add"
       },
@@ -835,6 +843,22 @@
       "duration_ms": 251612,
       "name": "Prisma",
       "url": "https://open.spotify.com/track/5gOH5ScZKSH64YHYyBwHLz"
+    },
+    {
+      "added_at": "2026-04-24 04:01:00",
+      "album": {
+        "name": "undux",
+        "url": "https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "obvious",
+      "url": "https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1"
     },
     {
       "added_at": "2026-04-24 04:01:00",
@@ -871,26 +895,46 @@
     {
       "added_at": "2026-04-24 04:01:00",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/6Rqbqt40cj7E7FUO9z7XS8"
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/3ZzkgSv5FF4L7BKt0ZqzlV"
       },
       "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+        }
+      ],
+      "duration_ms": 196691,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/1I7qxmsvOhsQpJLL5s7WET"
+    },
+    {
+      "added_at": "2026-04-24 04:01:00",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5wrYrywBsHkGIekBoScfG8"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
         {
           "name": "TELYKAST",
           "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
         },
         {
-          "name": "Saksham",
-          "url": "https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF"
-        },
-        {
-          "name": "sadHAPPY",
-          "url": "https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3"
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
         }
       ],
-      "duration_ms": 219047,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/5oh6FVaL2VQYqdXglEI59T"
+      "duration_ms": 191076,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/1v7SdHbR0pkwFb9RfG6L6O"
     },
     {
       "added_at": "2026-04-24 04:01:00",
@@ -919,26 +963,6 @@
     {
       "added_at": "2026-04-24 04:01:00",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/3ZzkgSv5FF4L7BKt0ZqzlV"
-      },
-      "artists": [
-        {
-          "name": "Mathame",
-          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
-        },
-        {
-          "name": "Jex",
-          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
-        }
-      ],
-      "duration_ms": 196691,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/1I7qxmsvOhsQpJLL5s7WET"
-    },
-    {
-      "added_at": "2026-04-24 04:01:00",
-      "album": {
         "name": "Never Forget You",
         "url": "https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh"
       },
@@ -951,30 +975,6 @@
       "duration_ms": 184349,
       "name": "Never Forget You",
       "url": "https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx"
-    },
-    {
-      "added_at": "2026-04-24 04:01:00",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/5wrYrywBsHkGIekBoScfG8"
-      },
-      "artists": [
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
-        }
-      ],
-      "duration_ms": 191076,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/1v7SdHbR0pkwFb9RfG6L6O"
     },
     {
       "added_at": "2026-04-24 04:01:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-04-24 04:01:00",
       "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 209899,
-      "name": "Melancholia",
-      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
-    },
-    {
-      "added_at": "2026-04-24 04:01:00",
-      "album": {
         "name": "Into The Light",
         "url": "https://open.spotify.com/album/4uR2mPMozlwPnL65llfXh9"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 226000,
       "name": "Into The Light",
       "url": "https://open.spotify.com/track/7pxBdeweQKCFLnXOIDLVz2"
+    },
+    {
+      "added_at": "2026-04-24 04:01:00",
+      "album": {
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 209899,
+      "name": "Melancholia",
+      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
     },
     {
       "added_at": "2026-04-24 04:01:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-04-24 04:01:00",
       "album": {
-        "name": "Communicate +",
-        "url": "https://open.spotify.com/album/6DkELtmQhl5I9Bbysogi0v"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 351666,
-      "name": "Crayons",
-      "url": "https://open.spotify.com/track/21d9pu4cQrc8Pcs3FN1eap"
-    },
-    {
-      "added_at": "2026-04-24 04:01:00",
-      "album": {
         "name": "Make Believe",
         "url": "https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 214323,
       "name": "Tears Don\u2019t Fall",
       "url": "https://open.spotify.com/track/3Hsbv9Z19MaIfXOu8S2v34"
+    },
+    {
+      "added_at": "2026-04-24 04:01:00",
+      "album": {
+        "name": "Communicate +",
+        "url": "https://open.spotify.com/album/6DkELtmQhl5I9Bbysogi0v"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 351666,
+      "name": "Crayons",
+      "url": "https://open.spotify.com/track/21d9pu4cQrc8Pcs3FN1eap"
     },
     {
       "added_at": "2026-04-24 04:01:00",
@@ -1367,6 +1367,30 @@
     {
       "added_at": "2026-04-24 04:01:00",
       "album": {
+        "name": "Beg You",
+        "url": "https://open.spotify.com/album/0BkeXVpMRmEu0V1mbmlh6I"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "Tube & Berger",
+          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Beg You",
+      "url": "https://open.spotify.com/track/2qUH8eikN8whXYSG9Pyu2l"
+    },
+    {
+      "added_at": "2026-04-24 04:01:00",
+      "album": {
         "name": "Attraction (Marsh's Mix)",
         "url": "https://open.spotify.com/album/1DOvj0TbwyTUTlKzZJD18w"
       },
@@ -1403,30 +1427,6 @@
       "duration_ms": 232607,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/1KIbfDi4qkolOx7Vwps33a"
-    },
-    {
-      "added_at": "2026-04-24 04:01:00",
-      "album": {
-        "name": "Beg You",
-        "url": "https://open.spotify.com/album/0BkeXVpMRmEu0V1mbmlh6I"
-      },
-      "artists": [
-        {
-          "name": "Eelke Kleijn",
-          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
-        },
-        {
-          "name": "Tube & Berger",
-          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
-        },
-        {
-          "name": "Leo Wood",
-          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "Beg You",
-      "url": "https://open.spotify.com/track/2qUH8eikN8whXYSG9Pyu2l"
     },
     {
       "added_at": "2026-04-24 04:01:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-04-24 04:01:00",
       "album": {
-        "name": "Perpetual Motion",
-        "url": "https://open.spotify.com/album/4ObDNAgr5wzZ6EPPNyAz8d"
-      },
-      "artists": [
-        {
-          "name": "Phantoms",
-          "url": "https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw"
-        }
-      ],
-      "duration_ms": 202414,
-      "name": "Perpetual Motion",
-      "url": "https://open.spotify.com/track/0VCAhRyaKqT3SloA0NDJyR"
-    },
-    {
-      "added_at": "2026-04-24 04:01:00",
-      "album": {
         "name": "Drop That Beat",
         "url": "https://open.spotify.com/album/5HSSnZBsoHxq1Ch7LH9niU"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 208915,
       "name": "Drop That Beat",
       "url": "https://open.spotify.com/track/1zdpuot7uYIIPUAqKUcMap"
+    },
+    {
+      "added_at": "2026-04-24 04:01:00",
+      "album": {
+        "name": "Perpetual Motion",
+        "url": "https://open.spotify.com/album/4ObDNAgr5wzZ6EPPNyAz8d"
+      },
+      "artists": [
+        {
+          "name": "Phantoms",
+          "url": "https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw"
+        }
+      ],
+      "duration_ms": 202414,
+      "name": "Perpetual Motion",
+      "url": "https://open.spotify.com/track/0VCAhRyaKqT3SloA0NDJyR"
     },
     {
       "added_at": "2026-04-24 04:01:00",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2026-04-24 04:01:00",
       "album": {
+        "name": "Sirius",
+        "url": "https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo"
+      },
+      "artists": [
+        {
+          "name": "Hjafri",
+          "url": "https://open.spotify.com/artist/3HGsS0k94Mw1SOLqQYhPki"
+        }
+      ],
+      "duration_ms": 168904,
+      "name": "Sirius",
+      "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"
+    },
+    {
+      "added_at": "2026-04-24 04:01:00",
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 204593,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF"
-    },
-    {
-      "added_at": "2026-04-24 04:01:00",
-      "album": {
-        "name": "Sirius",
-        "url": "https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo"
-      },
-      "artists": [
-        {
-          "name": "Hjafri",
-          "url": "https://open.spotify.com/artist/3HGsS0k94Mw1SOLqQYhPki"
-        }
-      ],
-      "duration_ms": 168904,
-      "name": "Sirius",
-      "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"
     },
     {
       "added_at": "2026-04-24 04:01:00",
@@ -1871,22 +1871,26 @@
     {
       "added_at": "2026-04-24 04:01:00",
       "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/0RweNLkaauLQFlQPfDXtiV"
+        "name": "Wherever You Go",
+        "url": "https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT"
       },
       "artists": [
         {
-          "name": "Leena Punks",
-          "url": "https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt"
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
         },
         {
-          "name": "Rowland Giles",
-          "url": "https://open.spotify.com/artist/3Rn5HY9wLXdCBe8iDWINBP"
+          "name": "B Jones",
+          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
+        },
+        {
+          "name": "EKE",
+          "url": "https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I"
         }
       ],
-      "duration_ms": 198780,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/6KHSkuZcQS28nxmI8PFwbn"
+      "duration_ms": 197272,
+      "name": "Wherever You Go",
+      "url": "https://open.spotify.com/track/1EbzSgAawjmMdC4onsVj3Q"
     },
     {
       "added_at": "2026-04-24 04:01:00",
@@ -1915,26 +1919,54 @@
     {
       "added_at": "2026-04-24 04:01:00",
       "album": {
-        "name": "Wherever You Go",
-        "url": "https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT"
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/0RweNLkaauLQFlQPfDXtiV"
       },
       "artists": [
         {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+          "name": "Leena Punks",
+          "url": "https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt"
         },
         {
-          "name": "B Jones",
-          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
-        },
-        {
-          "name": "EKE",
-          "url": "https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I"
+          "name": "Rowland Giles",
+          "url": "https://open.spotify.com/artist/3Rn5HY9wLXdCBe8iDWINBP"
         }
       ],
-      "duration_ms": 197272,
-      "name": "Wherever You Go",
-      "url": "https://open.spotify.com/track/1EbzSgAawjmMdC4onsVj3Q"
+      "duration_ms": 198780,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/6KHSkuZcQS28nxmI8PFwbn"
+    },
+    {
+      "added_at": "2026-04-24 04:01:00",
+      "album": {
+        "name": "Night Drive",
+        "url": "https://open.spotify.com/album/7FwIAvFrHKLjmwaWV3mIOs"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Night Drive",
+      "url": "https://open.spotify.com/track/3UMw5qedrTAXx3UjcFOBA5"
+    },
+    {
+      "added_at": "2026-04-24 04:01:00",
+      "album": {
+        "name": "Blink",
+        "url": "https://open.spotify.com/album/3ZXDOcCdVL2RE4WnuzJwyY"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 314462,
+      "name": "Blink",
+      "url": "https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV"
     },
     {
       "added_at": "2026-04-24 04:01:00",
@@ -1971,38 +2003,6 @@
       "duration_ms": 208107,
       "name": "Stay Awake",
       "url": "https://open.spotify.com/track/7f71BTXWubBCTIlbEqKeUi"
-    },
-    {
-      "added_at": "2026-04-24 04:01:00",
-      "album": {
-        "name": "Night Drive",
-        "url": "https://open.spotify.com/album/7FwIAvFrHKLjmwaWV3mIOs"
-      },
-      "artists": [
-        {
-          "name": "Ummet Ozcan",
-          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Night Drive",
-      "url": "https://open.spotify.com/track/3UMw5qedrTAXx3UjcFOBA5"
-    },
-    {
-      "added_at": "2026-04-24 04:01:00",
-      "album": {
-        "name": "Blink",
-        "url": "https://open.spotify.com/album/3ZXDOcCdVL2RE4WnuzJwyY"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 314462,
-      "name": "Blink",
-      "url": "https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV"
     }
   ],
   "unique_name": "Night Rider",

@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 114845,
+  "num_followers": 114912,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -297,7 +297,7 @@
         },
         {
           "name": "Ankonu",
-          "url": "https://open.spotify.com/artist/4xreErKQFps2Yh7Jo65ZdM"
+          "url": "https://open.spotify.com/artist/0LEttIRYgRfWxZpHHDHElv"
         }
       ],
       "duration_ms": 156614,
@@ -1307,30 +1307,6 @@
     {
       "added_at": "2026-04-24 04:01:40",
       "album": {
-        "name": "Tambora",
-        "url": "https://open.spotify.com/album/7LUHIlbhuFHoZKRlamEd9Y"
-      },
-      "artists": [
-        {
-          "name": "Faul & Wad",
-          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
-        },
-        {
-          "name": "MESTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
-        },
-        {
-          "name": "Martina Camargo",
-          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
-        }
-      ],
-      "duration_ms": 150660,
-      "name": "Tambora",
-      "url": "https://open.spotify.com/track/5Lm6Vl5RjOF77si7Tv5Usz"
-    },
-    {
-      "added_at": "2026-04-24 04:01:40",
-      "album": {
         "name": "Ta Sendo",
         "url": "https://open.spotify.com/album/1U5VUUBn4JpuEIgUyfHYs8"
       },
@@ -1351,6 +1327,30 @@
       "duration_ms": 203809,
       "name": "Ta Sendo",
       "url": "https://open.spotify.com/track/4HkEvRh46mXU9ZTIW8uhvx"
+    },
+    {
+      "added_at": "2026-04-24 04:01:40",
+      "album": {
+        "name": "Tambora",
+        "url": "https://open.spotify.com/album/7LUHIlbhuFHoZKRlamEd9Y"
+      },
+      "artists": [
+        {
+          "name": "Faul & Wad",
+          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
+        },
+        {
+          "name": "MESTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
+        }
+      ],
+      "duration_ms": 150660,
+      "name": "Tambora",
+      "url": "https://open.spotify.com/track/5Lm6Vl5RjOF77si7Tv5Usz"
     },
     {
       "added_at": "2026-04-24 04:01:40",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2026-04-24 04:01:40",
       "album": {
-        "name": "Lo Que Soy",
-        "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        },
-        {
-          "name": "Kura",
-          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
-        }
-      ],
-      "duration_ms": 170953,
-      "name": "Lo Que Soy",
-      "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
-    },
-    {
-      "added_at": "2026-04-24 04:01:40",
-      "album": {
         "name": "Rulay",
         "url": "https://open.spotify.com/album/1kEPi6brGvWW5y2ryQPwgN"
       },
@@ -1663,30 +1643,6 @@
       "duration_ms": 165123,
       "name": "Rulay",
       "url": "https://open.spotify.com/track/38gBBDbIi41rYkZZrwD1cw"
-    },
-    {
-      "added_at": "2026-04-24 04:01:40",
-      "album": {
-        "name": "Rico Rola",
-        "url": "https://open.spotify.com/album/02WJDUh4iIRBroPxxMoS0b"
-      },
-      "artists": [
-        {
-          "name": "CASA AMIGOS",
-          "url": "https://open.spotify.com/artist/1GfmUaYy7OeBPTwqDrjiE3"
-        },
-        {
-          "name": "ROMMII",
-          "url": "https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U"
-        },
-        {
-          "name": "BOLO THE DJ",
-          "url": "https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7"
-        }
-      ],
-      "duration_ms": 130331,
-      "name": "Rico Rola",
-      "url": "https://open.spotify.com/track/376UNzeHi1Bx99RPBGTzgl"
     },
     {
       "added_at": "2026-04-24 04:01:40",
@@ -1727,26 +1683,66 @@
     {
       "added_at": "2026-04-24 04:01:40",
       "album": {
-        "name": "Morenita",
-        "url": "https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr"
+        "name": "Lo Que Soy",
+        "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
       },
       "artists": [
         {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
         },
         {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Paradise Inc.",
-          "url": "https://open.spotify.com/artist/67vOeDGgGxBetc1ckJH6Ka"
+          "name": "Kura",
+          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
         }
       ],
-      "duration_ms": 178816,
-      "name": "Morenita",
-      "url": "https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw"
+      "duration_ms": 170953,
+      "name": "Lo Que Soy",
+      "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
+    },
+    {
+      "added_at": "2026-04-24 04:01:40",
+      "album": {
+        "name": "Rico Rola",
+        "url": "https://open.spotify.com/album/02WJDUh4iIRBroPxxMoS0b"
+      },
+      "artists": [
+        {
+          "name": "CASA AMIGOS",
+          "url": "https://open.spotify.com/artist/1GfmUaYy7OeBPTwqDrjiE3"
+        },
+        {
+          "name": "ROMMII",
+          "url": "https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U"
+        },
+        {
+          "name": "BOLO THE DJ",
+          "url": "https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7"
+        }
+      ],
+      "duration_ms": 130331,
+      "name": "Rico Rola",
+      "url": "https://open.spotify.com/track/376UNzeHi1Bx99RPBGTzgl"
+    },
+    {
+      "added_at": "2026-04-24 04:01:40",
+      "album": {
+        "name": "Si Vas Al mar",
+        "url": "https://open.spotify.com/album/180iVVSyWKcPtT4RoPIMy4"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        }
+      ],
+      "duration_ms": 256475,
+      "name": "Si Vas Al mar",
+      "url": "https://open.spotify.com/track/1oU2mTReAEUNlQdC6e4IAp"
     },
     {
       "added_at": "2026-04-24 04:01:40",
@@ -1767,6 +1763,30 @@
       "duration_ms": 196750,
       "name": "Se Va (feat. Cumbiafrica)",
       "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
+    },
+    {
+      "added_at": "2026-04-24 04:01:40",
+      "album": {
+        "name": "Morenita",
+        "url": "https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Paradise Inc.",
+          "url": "https://open.spotify.com/artist/67vOeDGgGxBetc1ckJH6Ka"
+        }
+      ],
+      "duration_ms": 178816,
+      "name": "Morenita",
+      "url": "https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw"
     },
     {
       "added_at": "2026-04-24 04:01:40",
@@ -1815,22 +1835,26 @@
     {
       "added_at": "2026-04-24 04:01:40",
       "album": {
-        "name": "Si Vas Al mar",
-        "url": "https://open.spotify.com/album/180iVVSyWKcPtT4RoPIMy4"
+        "name": "Piquete Cabron",
+        "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
       },
       "artists": [
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
         },
         {
-          "name": "Xinobi",
-          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+          "name": "Pensi\u00f3n",
+          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
+        },
+        {
+          "name": "Bray",
+          "url": "https://open.spotify.com/artist/2D3KD8asLccXu0Fp3TQuHn"
         }
       ],
-      "duration_ms": 256475,
-      "name": "Si Vas Al mar",
-      "url": "https://open.spotify.com/track/1oU2mTReAEUNlQdC6e4IAp"
+      "duration_ms": 162580,
+      "name": "Piquete Cabron",
+      "url": "https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ"
     },
     {
       "added_at": "2026-04-24 04:01:40",
@@ -1859,26 +1883,18 @@
     {
       "added_at": "2026-04-24 04:01:40",
       "album": {
-        "name": "Piquete Cabron",
-        "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
+        "name": "Kiki",
+        "url": "https://open.spotify.com/album/3O3z1T3hEIwrXl5ED0gViH"
       },
       "artists": [
         {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Pensi\u00f3n",
-          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
-        },
-        {
-          "name": "Bray",
-          "url": "https://open.spotify.com/artist/2D3KD8asLccXu0Fp3TQuHn"
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
         }
       ],
-      "duration_ms": 162580,
-      "name": "Piquete Cabron",
-      "url": "https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ"
+      "duration_ms": 180109,
+      "name": "Kiki",
+      "url": "https://open.spotify.com/track/7qpHYfkq07k5LhAT1eqCsL"
     },
     {
       "added_at": "2026-04-24 04:01:40",
@@ -1895,22 +1911,6 @@
       "duration_ms": 170476,
       "name": "Maracuya",
       "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
-    },
-    {
-      "added_at": "2026-04-24 04:01:40",
-      "album": {
-        "name": "Rintintin",
-        "url": "https://open.spotify.com/album/1I4YDAPuikk1BrhVJRmV73"
-      },
-      "artists": [
-        {
-          "name": "MESTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Rintintin",
-      "url": "https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371"
     },
     {
       "added_at": "2026-04-24 04:01:40",
@@ -1951,18 +1951,18 @@
     {
       "added_at": "2026-04-24 04:01:40",
       "album": {
-        "name": "Kiki",
-        "url": "https://open.spotify.com/album/3O3z1T3hEIwrXl5ED0gViH"
+        "name": "Rintintin",
+        "url": "https://open.spotify.com/album/1I4YDAPuikk1BrhVJRmV73"
       },
       "artists": [
         {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+          "name": "MESTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
         }
       ],
-      "duration_ms": 180109,
-      "name": "Kiki",
-      "url": "https://open.spotify.com/track/7qpHYfkq07k5LhAT1eqCsL"
+      "duration_ms": 163902,
+      "name": "Rintintin",
+      "url": "https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371"
     },
     {
       "added_at": "2026-04-24 04:01:40",

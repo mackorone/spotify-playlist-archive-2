@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-441 songs - 1 day 0 hr 41 min
+442 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [Weary Bones](https://open.spotify.com/track/3LVg0NCJWPBNt1470srrpr) | [Ghost Pepper Seeds](https://open.spotify.com/artist/506uBknY803DW00wSWlH0u) | [Weary Bones](https://open.spotify.com/album/7z97YXmIhY0l5SOAhThMtv) | 3:54 | 2025-12-29 | 2026-01-25 |
 | [WER ZAHLT?](https://open.spotify.com/track/1tyHRSnq2wSfnlqT7AIQkG) | [du zahlst](https://open.spotify.com/artist/0F36hCCYXBoTzRbZX0D3iJ) | [WER ZAHLT?](https://open.spotify.com/album/6M6QZyne28WhzUzSMZn1ju) | 4:19 | 2026-01-19 | 2026-02-21 |
 | [What I Need](https://open.spotify.com/track/1grZNRqYvC7DAfgrgZI0sP) | [Shwah](https://open.spotify.com/artist/3tKCUuSFC6w2dMOdxWDOVQ) | [What I Need](https://open.spotify.com/album/0AkgS5mr0RnX863tboGE1e) | 3:16 | 2025-11-17 | 2026-01-05 |
+| [What we doin?](https://open.spotify.com/track/4ZyOh1Evg8rRy5Y95HXUeG) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [What we doin?](https://open.spotify.com/album/6fESAUJA3sxTjbWnwoV79U) | 2:58 | 2026-04-26 |  |
 | [Where Did The Time Go ?](https://open.spotify.com/track/54fj963AplMqKDMKX5KxTR) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Where Did The Time Go ?](https://open.spotify.com/album/5HsFc733bwG90PUlCPjPR4) | 3:26 | 2026-03-28 |  |
 | [Where Is My Home](https://open.spotify.com/track/0kYZ5XvU9ko9zC5z4Z9quM) | [Jenèriq](https://open.spotify.com/artist/19EuZYCQ44lQipUXiRKd2v), [Shairal](https://open.spotify.com/artist/5N7qKycwib6mXibpgQHYfC) | [Where Is My Home](https://open.spotify.com/album/7KkRcJV44SwP2W4yp46UGL) | 2:59 | 2025-12-22 | 2026-01-15 |
 | [Where Love Became a Ghost](https://open.spotify.com/track/1Tw1aEg9GMNnh5VQMiZ6hK) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Where Love Became a Ghost](https://open.spotify.com/album/3qYsYqWC0YnKUJIK2cVIwP) | 4:31 | 2025-12-03 | 2026-01-05 |

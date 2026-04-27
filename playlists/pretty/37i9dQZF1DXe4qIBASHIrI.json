@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 179784,
+  "num_followers": 179806,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Kiosko",
-        "url": "https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 253501,
-      "name": "Kiosko",
-      "url": "https://open.spotify.com/track/7qix8lqLAvHAInf3Xq1TU3"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Hola Chicuelos",
         "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 244933,
       "name": "Al\u00f3",
       "url": "https://open.spotify.com/track/1bBO92RtVTlJlfxuVaLek8"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Kiosko",
+        "url": "https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 253501,
+      "name": "Kiosko",
+      "url": "https://open.spotify.com/track/7qix8lqLAvHAInf3Xq1TU3"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "El Tiempo y la Ciudad",
-        "url": "https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK"
+        "name": "Mediocre [Edici\u00f3n Especial]",
+        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
       },
       "artists": [
         {
-          "name": "Canseco",
-          "url": "https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5"
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 193800,
-      "name": "Todav\u00eda Te Alcanzo a Ver",
-      "url": "https://open.spotify.com/track/5lHsdhq0XAlOowiYZgjNKD"
+      "duration_ms": 253600,
+      "name": "No vuelvo m\u00e1s",
+      "url": "https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "El Tiempo y la Ciudad",
+        "url": "https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK"
+      },
+      "artists": [
+        {
+          "name": "Canseco",
+          "url": "https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "Todav\u00eda Te Alcanzo a Ver",
+      "url": "https://open.spotify.com/track/5lHsdhq0XAlOowiYZgjNKD"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Rey Pila",
         "url": "https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 205346,
       "name": "No Longer Fun",
       "url": "https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Mediocre [Edici\u00f3n Especial]",
-        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 253600,
-      "name": "No vuelvo m\u00e1s",
-      "url": "https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "\u00d3leos",
-        "url": "https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Los Super Elegantes Ep",
         "url": "https://open.spotify.com/album/0KV2EOtafNLgeBw7xDi0di"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 225026,
       "name": "Sixteen",
       "url": "https://open.spotify.com/track/6aV7F6tMDe5f2ZZTGrtVXO"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "\u00d3leos",
+        "url": "https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Lo Que Puedes Dar",
-        "url": "https://open.spotify.com/album/2vhtpNGqAkUnfz8Jwg6JkV"
-      },
-      "artists": [
-        {
-          "name": "Los Fascinantes",
-          "url": "https://open.spotify.com/artist/5uOmmoQtUqCtXiTGv2qpFQ"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Lo Que Puedes Dar",
-      "url": "https://open.spotify.com/track/6UKas8a0cOxZjptZi26GWV"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Levantate Sakuraba",
         "url": "https://open.spotify.com/album/1Qbmbt6pxdVfgX8mwCeHGS"
       },
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Lo Que Puedes Dar",
+        "url": "https://open.spotify.com/album/2vhtpNGqAkUnfz8Jwg6JkV"
+      },
+      "artists": [
+        {
+          "name": "Los Fascinantes",
+          "url": "https://open.spotify.com/artist/5uOmmoQtUqCtXiTGv2qpFQ"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Lo Que Puedes Dar",
+      "url": "https://open.spotify.com/track/6UKas8a0cOxZjptZi26GWV"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Sistema Solar",
         "url": "https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi"
       },
@@ -1139,22 +1139,6 @@
       "duration_ms": 249630,
       "name": "Amorfos",
       "url": "https://open.spotify.com/track/2DmZbYnCLusQ1m20awqYnm"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Lluvia",
-        "url": "https://open.spotify.com/album/07g3BVeM6QhWXfdLvRLlvy"
-      },
-      "artists": [
-        {
-          "name": "Baltazar",
-          "url": "https://open.spotify.com/artist/3bCoSxfUHJwe7ztAkZN7NW"
-        }
-      ],
-      "duration_ms": 254889,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/2I9OiNVmN2VyRXyd6b3iXI"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1187,6 +1171,22 @@
       "duration_ms": 247800,
       "name": "T\u00fa Est\u00e1s M\u00e1s",
       "url": "https://open.spotify.com/track/3F9DzDNfF2qRBZ7rMmfNtE"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Lluvia",
+        "url": "https://open.spotify.com/album/07g3BVeM6QhWXfdLvRLlvy"
+      },
+      "artists": [
+        {
+          "name": "Baltazar",
+          "url": "https://open.spotify.com/artist/3bCoSxfUHJwe7ztAkZN7NW"
+        }
+      ],
+      "duration_ms": 254889,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/2I9OiNVmN2VyRXyd6b3iXI"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/6Xs7IL8Aljl4uslAKzA5M1"
-      },
-      "artists": [
-        {
-          "name": "60 Tigres",
-          "url": "https://open.spotify.com/artist/0peet3zSweSxBCXSaGedVV"
-        }
-      ],
-      "duration_ms": 255869,
-      "name": "24 Horas",
-      "url": "https://open.spotify.com/track/4rPPEiwF4MlBHEVMokts8v"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Sentado Aqu\u00ed",
         "url": "https://open.spotify.com/album/07RCNt8nAEOaetIOiuLvNp"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 260949,
       "name": "Sentado Aqu\u00ed",
       "url": "https://open.spotify.com/track/7w6hhryYUd8U75m4whPw5w"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/6Xs7IL8Aljl4uslAKzA5M1"
+      },
+      "artists": [
+        {
+          "name": "60 Tigres",
+          "url": "https://open.spotify.com/artist/0peet3zSweSxBCXSaGedVV"
+        }
+      ],
+      "duration_ms": 255869,
+      "name": "24 Horas",
+      "url": "https://open.spotify.com/track/4rPPEiwF4MlBHEVMokts8v"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Menonita Rock",
+        "url": "https://open.spotify.com/album/6djkx8A7bD2sf7LsF42onV"
+      },
+      "artists": [
+        {
+          "name": "Los Fancy Free",
+          "url": "https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "Voltage Is O.K.",
+      "url": "https://open.spotify.com/track/55ZfCuNYNWYW4l9dLOVfVD"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "La Fiesta de la Forma",
         "url": "https://open.spotify.com/album/5HRqHWTveNLtgJ1jOqmDey"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 191520,
       "name": "Curse the Space",
       "url": "https://open.spotify.com/track/2Ryk5DzBoaJsIVtAUFfd95"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Menonita Rock",
-        "url": "https://open.spotify.com/album/6djkx8A7bD2sf7LsF42onV"
-      },
-      "artists": [
-        {
-          "name": "Los Fancy Free",
-          "url": "https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "Voltage Is O.K.",
-      "url": "https://open.spotify.com/track/55ZfCuNYNWYW4l9dLOVfVD"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Out of Place",
+        "url": "https://open.spotify.com/album/4FW4QtvN7lDWxiKAjWIe7k"
+      },
+      "artists": [
+        {
+          "name": "Los Fancy Free",
+          "url": "https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Copycat",
+      "url": "https://open.spotify.com/track/1PK1LcF9pKYurDjOA17WmR"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Happy-fi Compilaci\u00f3n Vol. 3",
         "url": "https://open.spotify.com/album/0D0rsW8bntexaz1gOO57Es"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 218060,
       "name": "Natural",
       "url": "https://open.spotify.com/track/3fa70p1SE2URA6Uf7EMI6c"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Out of Place",
-        "url": "https://open.spotify.com/album/4FW4QtvN7lDWxiKAjWIe7k"
-      },
-      "artists": [
-        {
-          "name": "Los Fancy Free",
-          "url": "https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Copycat",
-      "url": "https://open.spotify.com/track/1PK1LcF9pKYurDjOA17WmR"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Tortugas",
-        "url": "https://open.spotify.com/album/0YUKJtumdS4Py8UzUMM4pD"
-      },
-      "artists": [
-        {
-          "name": "Colores Santos",
-          "url": "https://open.spotify.com/artist/5c9epmcDnbf7CBNBdYYdSA"
-        }
-      ],
-      "duration_ms": 239322,
-      "name": "Mexa",
-      "url": "https://open.spotify.com/track/5jnpABLU8hh8yQ06deN7ff"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Valerio Benustelli",
         "url": "https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 206007,
       "name": "Valerio Benustelli",
       "url": "https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Tortugas",
+        "url": "https://open.spotify.com/album/0YUKJtumdS4Py8UzUMM4pD"
+      },
+      "artists": [
+        {
+          "name": "Colores Santos",
+          "url": "https://open.spotify.com/artist/5c9epmcDnbf7CBNBdYYdSA"
+        }
+      ],
+      "duration_ms": 239322,
+      "name": "Mexa",
+      "url": "https://open.spotify.com/track/5jnpABLU8hh8yQ06deN7ff"
     },
     {
       "added_at": "2023-09-01 16:42:45",

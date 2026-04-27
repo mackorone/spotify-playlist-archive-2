@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 116936,
+  "num_followers": 116939,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAAA9fL7N5SsmiYavDsWj5OXa",
+  "snapshot_id": "aewEAAAAAAAuT7/pFGX3NWOpNOV5wbIm",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Processo",
-        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
+        "name": "Seu Amor",
+        "url": "https://open.spotify.com/album/08J3DhJqaCRwIGeIZL7FBl"
       },
       "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         },
         {
-          "name": "Jo\u00e3o Figueiredo",
-          "url": "https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 230773,
-      "name": "M\u00e1scaras",
-      "url": "https://open.spotify.com/track/1nrJ9z7TpHGZjcN55Qzwu1"
+      "duration_ms": 192402,
+      "name": "Seu Amor",
+      "url": "https://open.spotify.com/track/0MUqcBCI1UV1LezKrBh7dG"
     },
     {
       "added_at": null,
@@ -555,26 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seu Amor",
-        "url": "https://open.spotify.com/album/08J3DhJqaCRwIGeIZL7FBl"
+        "name": "Processo",
+        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
       },
       "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         },
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+          "name": "Jo\u00e3o Figueiredo",
+          "url": "https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL"
         }
       ],
-      "duration_ms": 192402,
-      "name": "Seu Amor",
-      "url": "https://open.spotify.com/track/0MUqcBCI1UV1LezKrBh7dG"
+      "duration_ms": 230773,
+      "name": "M\u00e1scaras",
+      "url": "https://open.spotify.com/track/1nrJ9z7TpHGZjcN55Qzwu1"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bra\u00e7os de Amor",
-        "url": "https://open.spotify.com/album/7DAsKDdhuzSZynB1fsCpig"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 332333,
-      "name": "Bra\u00e7os de Amor",
-      "url": "https://open.spotify.com/track/4ukZTbuGOaOhn0npxg2aQS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tetelestai (Ao Vivo) (feat. Carol Tauber)",
         "url": "https://open.spotify.com/album/3KEDeUTss9pszz8D9I0c6Q"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 518306,
       "name": "Tetelestai (Ao Vivo) (feat. Carol Tauber)",
       "url": "https://open.spotify.com/track/1nJkvTusEGVYzqeF1R3Pq3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bra\u00e7os de Amor",
+        "url": "https://open.spotify.com/album/7DAsKDdhuzSZynB1fsCpig"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 332333,
+      "name": "Bra\u00e7os de Amor",
+      "url": "https://open.spotify.com/track/4ukZTbuGOaOhn0npxg2aQS"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Processo",
-        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "Em Troca",
-      "url": "https://open.spotify.com/track/0cYuoo4STj8htZVrh5w91U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confio em Ti",
         "url": "https://open.spotify.com/album/1UHI806hrGV9QVZFjq7xJB"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 252453,
       "name": "Confio em Ti",
       "url": "https://open.spotify.com/track/3UBwVX5qweI2yIrkvLjRzM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Processo",
+        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "Em Troca",
+      "url": "https://open.spotify.com/track/0cYuoo4STj8htZVrh5w91U"
     },
     {
       "added_at": null,

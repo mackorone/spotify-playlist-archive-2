@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sharan Kumar
 
-771 songs - 1 day 19 hr 40 min
+772 songs - 1 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Konji Pesa](https://open.spotify.com/track/4rxltwAsWLvTN3mvMLxoc9) | [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq), [47seconds](https://open.spotify.com/artist/6zSpeGx3zxDEH4QxixbJn6) | [Konji Pesa](https://open.spotify.com/album/3OT4puDbCCHSZwv0CXbdSL) | 3:22 | 2025-07-18 | 2025-08-26 |
 | [Koothu](https://open.spotify.com/track/6tP9H2YghB2KaNdWZwlVTp) | [Siennor](https://open.spotify.com/artist/7llcZ59fwsSv4nEx3mgu31) | [Agappor](https://open.spotify.com/album/6AV0XvOWE51QL7LozwDy2T) | 1:48 | 2023-04-28 | 2023-10-04 |
 | [Kozhupurale](https://open.spotify.com/track/3Wlpc4581rrTf20EeyNuOY) | [Dhinesh Nagarajan](https://open.spotify.com/artist/7F9j3YZmUVUSBIDISKbwbt) | [Kadhalikkiren \(From "Think Indie"\)](https://open.spotify.com/album/7KSmaRHan0muLPyx3zaVpr) | 2:54 | 2025-09-17 | 2025-11-06 |
+| [Kukku](https://open.spotify.com/track/03s9QjSSFetqBixnA1Hivl) | [Kelithee](https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg), [Adithya Sriram](https://open.spotify.com/artist/0QkoNWJljkXVNcOwNooaQo) | [Kukku](https://open.spotify.com/album/6OTyI6hzeTaTrJxWYiemAt) | 2:55 | 2026-04-27 |  |
 | [Kullama](https://open.spotify.com/track/1tUbPKPSj05LI309xJ1Fid) | [K L Revanth](https://open.spotify.com/artist/3FGLO2665aCenkZD9vF1eB), [Viwin Frencies](https://open.spotify.com/artist/47ZrxtQrnCIPnKvYxGNdtx), [Deepika Thamizhvanan](https://open.spotify.com/artist/43a28ORx6LKegumMDqM5pD) | [Kullama](https://open.spotify.com/album/6sS60GSdDnGxQPROVnZztc) | 4:48 | 2024-02-12 | 2024-08-24 |
 | [Laila x Majnu](https://open.spotify.com/track/3TDazJP7kKplHUlG0vL3Po) | [Swag Madrasis](https://open.spotify.com/artist/2FIDxch0IdXQcBEpwoknbQ) | [Laila x Majnu](https://open.spotify.com/album/3KkCR3h70DWMcqgZvLzDNA) | 3:48 | 2024-05-03 | 2024-08-11 |
 | [Lalala Cindrella](https://open.spotify.com/track/03tXg4jq1WCOvYLlb0GOq4) | [Chandar Karunakaran](https://open.spotify.com/artist/0n7QXUrwDAmArjWNgyrBmO), [Avinash Sivan](https://open.spotify.com/artist/5wCbzqnV8mRtQPNya06r1h) | [Enakkena Oru Ulagam](https://open.spotify.com/album/4MGM3Vn0QSI4VZUIVmqjiv) | 3:47 | 2023-03-21 | 2023-07-25 |

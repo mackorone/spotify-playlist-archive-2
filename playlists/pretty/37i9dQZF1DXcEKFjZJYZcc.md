@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 
 > Positive, uplifting piano to make you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,851 likes - 134 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,894 likes - 134 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 | 133 | [One Ordinary Day](https://open.spotify.com/track/6ZSEuCYxwAO7RkL9dLYCA7) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Reflective](https://open.spotify.com/album/5Txt4c0EKgZKufA2eanyun) | 2:15 |
 | 134 | [Floating Alone](https://open.spotify.com/track/5rqVGb4V2rQzz2iBCf14AD) | [Sylvio](https://open.spotify.com/artist/3xi1oLL4AB1BfQBN9eZA8O) | [Floating Alone](https://open.spotify.com/album/28QOdW9aio2bLPDu9TJsdH) | 2:25 |
 
-Snapshot ID: `AAAAAIQqolbDMzR95UGmY5nPm6b0NDjB`
+Snapshot ID: `AAAAACpl+oqrbRG+/2u4W7Bi1X0FDRvA`

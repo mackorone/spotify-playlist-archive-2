@@ -2248,7 +2248,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 258233,
       "name": "Church & State",
       "url": "https://open.spotify.com/track/7qPMj3byKOvzXbWECLViNP"
@@ -4434,7 +4434,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 360393,
       "name": "Further From the Country",
       "url": "https://open.spotify.com/track/3vT7yPGiQ10fqj2I9doxYS"
@@ -5672,7 +5672,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 235555,
       "name": "I Think I'm Gonna Love You Forever",
       "url": "https://open.spotify.com/track/2wa37x2GB65RpxpKV3ch67"
@@ -7741,6 +7741,24 @@
     },
     {
       "album": {
+        "name": "MISERY",
+        "url": "https://open.spotify.com/album/5RWfbBGrY6qFz8ibu7x7Tt"
+      },
+      "artists": [
+        {
+          "name": "CARV",
+          "url": "https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212581,
+      "name": "MISERY",
+      "url": "https://open.spotify.com/track/5czQkmaPtAmBrNwbaqYcbh"
+    },
+    {
+      "album": {
         "name": "Misty Morning",
         "url": "https://open.spotify.com/album/6s63TEd5EIUdni4l1HjK1W"
       },
@@ -8388,6 +8406,28 @@
       "duration_ms": 187560,
       "name": "Northern Blood",
       "url": "https://open.spotify.com/track/5HoukISZBPykqAbKPT12kK"
+    },
+    {
+      "album": {
+        "name": "Nosebleed",
+        "url": "https://open.spotify.com/album/54fmXoeCAfwCZWuYJH8nnh"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        },
+        {
+          "name": "Lyla George",
+          "url": "https://open.spotify.com/artist/2Yh3B8OtHziAIdpNYzQdWa"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287999,
+      "name": "Nosebleed",
+      "url": "https://open.spotify.com/track/0RY78qw6AAQZC3QpPeAD9O"
     },
     {
       "album": {
@@ -11394,6 +11434,24 @@
       "duration_ms": 294253,
       "name": "This Ol' Way",
       "url": "https://open.spotify.com/track/5FsnLRPoRGzGzRjRdmRP6q"
+    },
+    {
+      "album": {
+        "name": "Tiger Blood",
+        "url": "https://open.spotify.com/album/5VXuq0HNXIadIwJrQmaIxP"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232906,
+      "name": "Tiger Blood",
+      "url": "https://open.spotify.com/track/33GW7UkXxsIDwb0tWL99q5"
     },
     {
       "album": {

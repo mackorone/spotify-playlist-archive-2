@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1TKLER9anp82uwNUrFo1xc">SAKIMA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-61 songs - 3 hr 8 min
+62 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Punch](https://open.spotify.com/track/7JtmLurRXvcyvqVGwxoS9M) | [Darcy Day](https://open.spotify.com/artist/0jsZR31z3SUBQ1BJuAdEDn) | [Punch](https://open.spotify.com/album/0MgS9kN89HMeT1m2YuWPVF) | 2:29 | 2024-03-21 |  |
 | [Punk](https://open.spotify.com/track/0tWjWVYAUOIDUEOhW8xTS1) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [I’m Sorry](https://open.spotify.com/album/1qm7E3fh18mC8VyagVrdVS) | 2:17 | 2024-03-21 |  |
 | [Queen of Hearts](https://open.spotify.com/track/4tG2c8LP7J0EsfQ8gKLm7q) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN \-Japanese version\-](https://open.spotify.com/album/3T3STfBHgL2LRv4CGlJTAN) | 2:25 | 2024-03-21 |  |
-| [Recreational](https://open.spotify.com/track/5MrgJu81wrxihrWz6Q9uEk) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Recreational](https://open.spotify.com/album/5khEIs42VqkwaxRqPAUTOT) | 3:13 | 2026-02-21 |  |
+| [Recreational](https://open.spotify.com/track/4JqVs24HkCepFgi6QndgmO) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Tsycophant](https://open.spotify.com/album/2gGPhtIU0XVFsLYhDrLfz8) | 3:13 | 2026-04-26 |  |
+| [Recreational](https://open.spotify.com/track/5MrgJu81wrxihrWz6Q9uEk) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Recreational](https://open.spotify.com/album/5khEIs42VqkwaxRqPAUTOT) | 3:13 | 2026-02-21 | 2026-04-27 |
 | [Ride](https://open.spotify.com/track/48cLuwS9p039XEPj7R9OGM) | [SWIMS](https://open.spotify.com/artist/1AnetmEDB2FyWGNTumFx5L) | [Ride](https://open.spotify.com/album/0T7A52Ixbxfu7aXOewxnG6) | 3:46 | 2025-01-09 | 2025-04-12 |
 | [seven\-twenty\-four](https://open.spotify.com/track/3agJXAf7NRv8VQ8owdwszX) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW) | [seven\-twenty\-four](https://open.spotify.com/album/5QUmgjGrLcwkWO48NEi0Xs) | 4:18 | 2024-10-12 |  |
 | [Show Me](https://open.spotify.com/track/4U9O5yQAIxi4GsZGhcRXsS) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Show Me](https://open.spotify.com/album/1nVmuytyAbzD8Bk1SqDv04) | 3:40 | 2024-03-21 |  |

@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
-  "num_followers": 166291,
+  "num_followers": 166389,
   "original_name": "techno party",
   "owner": {
     "name": "Spotify",
@@ -359,26 +359,18 @@
     {
       "added_at": "2026-04-17 04:02:04",
       "album": {
-        "name": "2003",
-        "url": "https://open.spotify.com/album/2E928WZPSSBAmGPhujvSdF"
+        "name": "That Acid",
+        "url": "https://open.spotify.com/album/1fh6gxJ1fnPhfOosqj20yL"
       },
       "artists": [
         {
-          "name": "TNT",
-          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
-        },
-        {
-          "name": "Technoboy",
-          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
-        },
-        {
-          "name": "Tuneboy",
-          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
         }
       ],
-      "duration_ms": 193855,
-      "name": "2003",
-      "url": "https://open.spotify.com/track/0d2nwtK9mfFiVO8hkM5Xln"
+      "duration_ms": 145600,
+      "name": "That Acid",
+      "url": "https://open.spotify.com/track/5qYT2yz53B2yb5wK7f4goK"
     },
     {
       "added_at": "2026-04-17 04:02:04",
@@ -403,18 +395,26 @@
     {
       "added_at": "2026-04-17 04:02:04",
       "album": {
-        "name": "That Acid",
-        "url": "https://open.spotify.com/album/1fh6gxJ1fnPhfOosqj20yL"
+        "name": "2003",
+        "url": "https://open.spotify.com/album/2E928WZPSSBAmGPhujvSdF"
       },
       "artists": [
         {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
         }
       ],
-      "duration_ms": 145600,
-      "name": "That Acid",
-      "url": "https://open.spotify.com/track/5qYT2yz53B2yb5wK7f4goK"
+      "duration_ms": 193855,
+      "name": "2003",
+      "url": "https://open.spotify.com/track/0d2nwtK9mfFiVO8hkM5Xln"
     },
     {
       "added_at": "2026-04-17 04:02:04",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-04-17 04:02:04",
       "album": {
-        "name": "Move It",
-        "url": "https://open.spotify.com/album/1IxDiKZoA2gGfoQMC3EJ4n"
-      },
-      "artists": [
-        {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
-        }
-      ],
-      "duration_ms": 185437,
-      "name": "Move It",
-      "url": "https://open.spotify.com/track/7F7G8FuCtggmPvs51E9fmN"
-    },
-    {
-      "added_at": "2026-04-17 04:02:04",
-      "album": {
         "name": "Fine Night",
         "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 161723,
       "name": "Fine Night",
       "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
+    },
+    {
+      "added_at": "2026-04-17 04:02:04",
+      "album": {
+        "name": "Move It",
+        "url": "https://open.spotify.com/album/1IxDiKZoA2gGfoQMC3EJ4n"
+      },
+      "artists": [
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        }
+      ],
+      "duration_ms": 185437,
+      "name": "Move It",
+      "url": "https://open.spotify.com/track/7F7G8FuCtggmPvs51E9fmN"
     },
     {
       "added_at": "2026-04-17 04:02:04",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2026-04-17 04:02:04",
       "album": {
-        "name": "Rave Mozart",
-        "url": "https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Rave Mozart",
-      "url": "https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw"
-    },
-    {
-      "added_at": "2026-04-17 04:02:04",
-      "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/4pAD0l5icphM5TC1A4q8Yn"
       },
@@ -1155,18 +1135,22 @@
     {
       "added_at": "2026-04-17 04:02:04",
       "album": {
-        "name": "It's a Fine Day",
-        "url": "https://open.spotify.com/album/31t5xfyX0K01OEvXOYoKyk"
+        "name": "Rave Mozart",
+        "url": "https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8"
       },
       "artists": [
         {
-          "name": "JKRS",
-          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
         }
       ],
-      "duration_ms": 152608,
-      "name": "It's a Fine Day",
-      "url": "https://open.spotify.com/track/4y4g8oUhA6SODQzbKY7GVp"
+      "duration_ms": 126000,
+      "name": "Rave Mozart",
+      "url": "https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw"
     },
     {
       "added_at": "2026-04-17 04:02:04",
@@ -1183,6 +1167,22 @@
       "duration_ms": 355879,
       "name": "Roar",
       "url": "https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH"
+    },
+    {
+      "added_at": "2026-04-17 04:02:04",
+      "album": {
+        "name": "It's a Fine Day",
+        "url": "https://open.spotify.com/album/31t5xfyX0K01OEvXOYoKyk"
+      },
+      "artists": [
+        {
+          "name": "JKRS",
+          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
+        }
+      ],
+      "duration_ms": 152608,
+      "name": "It's a Fine Day",
+      "url": "https://open.spotify.com/track/4y4g8oUhA6SODQzbKY7GVp"
     },
     {
       "added_at": "2026-04-17 04:02:04",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-04-17 04:02:04",
       "album": {
-        "name": "Young Forever",
-        "url": "https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 227091,
-      "name": "Young Forever",
-      "url": "https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB"
-    },
-    {
-      "added_at": "2026-04-17 04:02:04",
-      "album": {
         "name": "Beethoven's Aria F\u00fcr Elise",
         "url": "https://open.spotify.com/album/60arWJQ36tblu7ootxVhAJ"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 162130,
       "name": "Shadows Of The Night - GIGI DAG Mix",
       "url": "https://open.spotify.com/track/5n3jPpWweeAWjSEIONrcXS"
+    },
+    {
+      "added_at": "2026-04-17 04:02:04",
+      "album": {
+        "name": "Young Forever",
+        "url": "https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 227091,
+      "name": "Young Forever",
+      "url": "https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB"
     },
     {
       "added_at": "2026-04-17 04:02:04",
@@ -1475,6 +1475,42 @@
     {
       "added_at": "2026-04-17 04:02:04",
       "album": {
+        "name": "Stumblin' In (Sonny Wern Remix)",
+        "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "Stumblin' In (Sonny Wern Remix)",
+      "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
+    },
+    {
+      "added_at": "2026-04-17 04:02:04",
+      "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/3BjnqJGWvwhnbREYuH6jzx"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 228175,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/0Ln024wOEUb2LzQCJXd45g"
+    },
+    {
+      "added_at": "2026-04-17 04:02:04",
+      "album": {
         "name": "Hey Baby (Drop It to the Floor) - Techno Mix",
         "url": "https://open.spotify.com/album/6uG2nDPFgWAozxZfwPYOfa"
       },
@@ -1495,26 +1531,6 @@
       "duration_ms": 131511,
       "name": "Hey Baby (Drop It to the Floor) - Techno Mix",
       "url": "https://open.spotify.com/track/6UaPEtxRDMInJ0IF0xc3kw"
-    },
-    {
-      "added_at": "2026-04-17 04:02:04",
-      "album": {
-        "name": "Stumblin' In (Sonny Wern Remix)",
-        "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "Stumblin' In (Sonny Wern Remix)",
-      "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
     },
     {
       "added_at": "2026-04-17 04:02:04",
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2026-04-17 04:02:04",
       "album": {
-        "name": "Dimension",
-        "url": "https://open.spotify.com/album/3BjnqJGWvwhnbREYuH6jzx"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 228175,
-      "name": "Dimension",
-      "url": "https://open.spotify.com/track/0Ln024wOEUb2LzQCJXd45g"
-    },
-    {
-      "added_at": "2026-04-17 04:02:04",
-      "album": {
         "name": "Party So Hard",
         "url": "https://open.spotify.com/album/5nHZegXHDO2Fw7fLMwFfqa"
       },
@@ -1603,6 +1603,22 @@
       "duration_ms": 175862,
       "name": "Party So Hard",
       "url": "https://open.spotify.com/track/4cVy5JeJst4DxracwylORB"
+    },
+    {
+      "added_at": "2026-04-17 04:02:04",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/7BUxsv49YApxUBSwfYgG0e"
+      },
+      "artists": [
+        {
+          "name": "Somewhen",
+          "url": "https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy"
+        }
+      ],
+      "duration_ms": 244755,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/02iid7jLIDPuI4JyHTtyBz"
     },
     {
       "added_at": "2026-04-17 04:02:04",
@@ -1643,22 +1659,6 @@
       "duration_ms": 176516,
       "name": "Girls Go Freak",
       "url": "https://open.spotify.com/track/7bczhNQjOjzPO5lgZec3LV"
-    },
-    {
-      "added_at": "2026-04-17 04:02:04",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/7BUxsv49YApxUBSwfYgG0e"
-      },
-      "artists": [
-        {
-          "name": "Somewhen",
-          "url": "https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy"
-        }
-      ],
-      "duration_ms": 244755,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/02iid7jLIDPuI4JyHTtyBz"
     },
     {
       "added_at": "2026-04-17 04:02:04",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-04-17 04:02:04",
       "album": {
-        "name": "4 Da Ravers",
-        "url": "https://open.spotify.com/album/7rFjECStShUcE157PCp9z8"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 153290,
-      "name": "4 Da Ravers",
-      "url": "https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7"
-    },
-    {
-      "added_at": "2026-04-17 04:02:04",
-      "album": {
         "name": "Bass Boys",
         "url": "https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6"
       },
@@ -1755,22 +1739,38 @@
     {
       "added_at": "2026-04-17 04:02:04",
       "album": {
-        "name": "The Heads That Know",
-        "url": "https://open.spotify.com/album/5nCHAjDBoIwmtf8dKOvdB7"
+        "name": "4 Da Ravers",
+        "url": "https://open.spotify.com/album/7rFjECStShUcE157PCp9z8"
       },
       "artists": [
         {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
         }
       ],
-      "duration_ms": 423244,
-      "name": "The Heads That Know (feat. Comma Dee)",
-      "url": "https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi"
+      "duration_ms": 153290,
+      "name": "4 Da Ravers",
+      "url": "https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7"
+    },
+    {
+      "added_at": "2026-04-17 04:02:04",
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        }
+      ],
+      "duration_ms": 151688,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY"
     },
     {
       "added_at": "2026-04-17 04:02:04",
@@ -1795,6 +1795,26 @@
     {
       "added_at": "2026-04-17 04:02:04",
       "album": {
+        "name": "The Heads That Know",
+        "url": "https://open.spotify.com/album/5nCHAjDBoIwmtf8dKOvdB7"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+        }
+      ],
+      "duration_ms": 423244,
+      "name": "The Heads That Know (feat. Comma Dee)",
+      "url": "https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi"
+    },
+    {
+      "added_at": "2026-04-17 04:02:04",
+      "album": {
         "name": "slash 011 - Getting Ready For The Party",
         "url": "https://open.spotify.com/album/1xLZI4sXn3cM5NfeilgDh0"
       },
@@ -1811,26 +1831,6 @@
       "duration_ms": 199520,
       "name": "Getting Ready For The Party",
       "url": "https://open.spotify.com/track/6HUZoMili2b3e6X81OPIQd"
-    },
-    {
-      "added_at": "2026-04-17 04:02:04",
-      "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "VisionV",
-          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
-        }
-      ],
-      "duration_ms": 151688,
-      "name": "Renaissance",
-      "url": "https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY"
     },
     {
       "added_at": "2026-04-17 04:02:04",
@@ -1915,22 +1915,18 @@
     {
       "added_at": "2026-04-17 04:02:04",
       "album": {
-        "name": "Papi",
-        "url": "https://open.spotify.com/album/21T52MdMD1iecNLNbMvBhg"
+        "name": "Schwer",
+        "url": "https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "GeezLy",
-          "url": "https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc"
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
         }
       ],
-      "duration_ms": 183528,
-      "name": "Papi",
-      "url": "https://open.spotify.com/track/4wYTybPU1G7ZuXKjMdrn54"
+      "duration_ms": 214895,
+      "name": "Schwer",
+      "url": "https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt"
     },
     {
       "added_at": "2026-04-17 04:02:04",
@@ -1951,18 +1947,22 @@
     {
       "added_at": "2026-04-17 04:02:04",
       "album": {
-        "name": "Schwer",
-        "url": "https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10"
+        "name": "Papi",
+        "url": "https://open.spotify.com/album/21T52MdMD1iecNLNbMvBhg"
       },
       "artists": [
         {
-          "name": "Paul Kalkbrenner",
-          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "GeezLy",
+          "url": "https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc"
         }
       ],
-      "duration_ms": 214895,
-      "name": "Schwer",
-      "url": "https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt"
+      "duration_ms": 183528,
+      "name": "Papi",
+      "url": "https://open.spotify.com/track/4wYTybPU1G7ZuXKjMdrn54"
     },
     {
       "added_at": "2026-04-17 04:02:04",
@@ -2035,22 +2035,18 @@
     {
       "added_at": "2026-04-17 04:02:04",
       "album": {
-        "name": "Komodo",
-        "url": "https://open.spotify.com/album/1K4UbTRjbfTUR0Xh7NdRjy"
+        "name": "Techno Sound",
+        "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
       },
       "artists": [
         {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        },
-        {
-          "name": "Mauro Picotto",
-          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
         }
       ],
-      "duration_ms": 201100,
-      "name": "Komodo",
-      "url": "https://open.spotify.com/track/1ABRhft3atwd5itDELR0jD"
+      "duration_ms": 189960,
+      "name": "Techno Sound",
+      "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
     }
   ],
   "unique_name": "techno party",

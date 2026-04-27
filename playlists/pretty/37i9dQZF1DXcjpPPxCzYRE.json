@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 440560,
+  "num_followers": 440627,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,18 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "ThunderWave",
-        "url": "https://open.spotify.com/album/6X04Gtu90ik0MFHv09TOIL"
+        "name": "True Colours",
+        "url": "https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX"
       },
       "artists": [
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 194040,
-      "name": "ThunderWave",
-      "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
+      "duration_ms": 143632,
+      "name": "True Colours",
+      "url": "https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -499,18 +495,22 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "True Colours",
-        "url": "https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX"
+        "name": "ThunderWave",
+        "url": "https://open.spotify.com/album/6X04Gtu90ik0MFHv09TOIL"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 143632,
-      "name": "True Colours",
-      "url": "https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4"
+      "duration_ms": 194040,
+      "name": "ThunderWave",
+      "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1031,30 +1031,6 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "Pictures",
-        "url": "https://open.spotify.com/album/7eg0DlP83tIeeF2VAjwthu"
-      },
-      "artists": [
-        {
-          "name": "Gnarls Barkley",
-          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
-        },
-        {
-          "name": "CeeLo Green",
-          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
-        },
-        {
-          "name": "Danger Mouse",
-          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Pictures",
-      "url": "https://open.spotify.com/track/1JsNiBwzxX6Zad6W5GP88l"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
       },
@@ -1083,6 +1059,30 @@
       "duration_ms": 186178,
       "name": "Close My Eyes",
       "url": "https://open.spotify.com/track/6NOUlMbo6c3XXFC5kmuHIw"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
+        "name": "Pictures",
+        "url": "https://open.spotify.com/album/7eg0DlP83tIeeF2VAjwthu"
+      },
+      "artists": [
+        {
+          "name": "Gnarls Barkley",
+          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        },
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/1JsNiBwzxX6Zad6W5GP88l"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "Boredom (Demo 2015)",
-        "url": "https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN"
-      },
-      "artists": [
-        {
-          "name": "N\u00faria Graham",
-          "url": "https://open.spotify.com/artist/3ZJhC6cKBtTx6jUJSTr8XI"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "Boredom",
-      "url": "https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
         "name": "Endlings",
         "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 228173,
       "name": "The Echo & The Shadow",
       "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
+        "name": "Boredom (Demo 2015)",
+        "url": "https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN"
+      },
+      "artists": [
+        {
+          "name": "N\u00faria Graham",
+          "url": "https://open.spotify.com/artist/3ZJhC6cKBtTx6jUJSTr8XI"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "Boredom",
+      "url": "https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
+        "name": "Consid\u00e9rame",
+        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Consid\u00e9rame",
+      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
         "name": "I Feel Good",
         "url": "https://open.spotify.com/album/7mYKEJW5dQ8iqyZDhufS68"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 229253,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/6aMm2SYEO1TQru1qk8iyzT"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
-        "name": "Consid\u00e9rame",
-        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Consid\u00e9rame",
-      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
+        "name": "Misma Liga",
+        "url": "https://open.spotify.com/album/44Wotv6bcdehfOEZjWXvQs"
+      },
+      "artists": [
+        {
+          "name": "Hnos Munoz",
+          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
+        }
+      ],
+      "duration_ms": 167750,
+      "name": "Misma Liga",
+      "url": "https://open.spotify.com/track/6pnKysbThfUJQgJQot20iv"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
         "name": "mai adeu",
         "url": "https://open.spotify.com/album/584S9p8PaecDYYRpbP6uZY"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 103461,
       "name": "nada nada",
       "url": "https://open.spotify.com/track/3x2En8Qx8fcOT9eVEyBnqr"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
-        "name": "Misma Liga",
-        "url": "https://open.spotify.com/album/44Wotv6bcdehfOEZjWXvQs"
-      },
-      "artists": [
-        {
-          "name": "Hnos Munoz",
-          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
-        }
-      ],
-      "duration_ms": 167750,
-      "name": "Misma Liga",
-      "url": "https://open.spotify.com/track/6pnKysbThfUJQgJQot20iv"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
+        "name": "Te perd\u00ed",
+        "url": "https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Mart\u00edn",
+          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Te perd\u00ed",
+      "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
         "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
         "url": "https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD"
       },
@@ -1719,38 +1735,6 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "Te perd\u00ed",
-        "url": "https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Mart\u00edn",
-          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "Te perd\u00ed",
-      "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
-        "name": "Todav\u00eda",
-        "url": "https://open.spotify.com/album/4pknWOYZ5TNA0ikGrTolxG"
-      },
-      "artists": [
-        {
-          "name": "VVV [Trippin'you]",
-          "url": "https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Todav\u00eda",
-      "url": "https://open.spotify.com/track/5M1C2wqiSk9OqEjZcJEYKe"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
         "name": "Hoguera",
         "url": "https://open.spotify.com/album/2pzAYYyDlNiKoZrVr0CjNq"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 234913,
       "name": "Hoguera",
       "url": "https://open.spotify.com/track/0jZCz8xSgDL6TAESZ5YUJ8"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
+        "name": "Todav\u00eda",
+        "url": "https://open.spotify.com/album/4pknWOYZ5TNA0ikGrTolxG"
+      },
+      "artists": [
+        {
+          "name": "VVV [Trippin'you]",
+          "url": "https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/5M1C2wqiSk9OqEjZcJEYKe"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "Lista de deseos",
-        "url": "https://open.spotify.com/album/2wADzv1uyKI64HIC7B2FWL"
-      },
-      "artists": [
-        {
-          "name": "Medianoche",
-          "url": "https://open.spotify.com/artist/0cdMQNFIPkvbCvtapjvbkk"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Lista de deseos",
-      "url": "https://open.spotify.com/track/7r0X1bQXJbZFxttpw3VXG5"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
         "name": "Me Tienes Aqu\u00ed",
         "url": "https://open.spotify.com/album/2QOyRlNU81eSsC3hbFhduc"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 161250,
       "name": "Me Tienes Aqu\u00ed",
       "url": "https://open.spotify.com/track/6cfbA0Hd5uaX0qk9HC6tES"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
+        "name": "Lista de deseos",
+        "url": "https://open.spotify.com/album/2wADzv1uyKI64HIC7B2FWL"
+      },
+      "artists": [
+        {
+          "name": "Medianoche",
+          "url": "https://open.spotify.com/artist/0cdMQNFIPkvbCvtapjvbkk"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Lista de deseos",
+      "url": "https://open.spotify.com/track/7r0X1bQXJbZFxttpw3VXG5"
     },
     {
       "added_at": "2026-04-09 22:02:19",

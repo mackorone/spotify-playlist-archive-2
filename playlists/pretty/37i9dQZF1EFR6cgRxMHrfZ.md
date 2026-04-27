@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VGYv5vpzG5D6Votiqpolb">Cal Shapiro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216 likes - 169 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 217 likes - 169 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 74 | [Amy](https://open.spotify.com/track/75lW6fLpTMTyrCNUCr66p2) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2xX0ZnW2kG0qpIjnvEVl8s) | 3:13 |
 | 75 | [SMFWU](https://open.spotify.com/track/5JufegG0WcgTwd3fTm7v3v) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Warning Signs](https://open.spotify.com/album/0c8G4kwWZRRBNf0O7HfWjF) | 3:07 |
 | 76 | [U WON'T!](https://open.spotify.com/track/3gkBo3bJwBj31Fca505oGi) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [SUPERLAME](https://open.spotify.com/album/7E5My62HQLSG3cn6R2FnG9) | 2:01 |
-| 77 | [Time Machine](https://open.spotify.com/track/4srfoqCN6TxPmpIVBX8oFd) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 3:31 |
-| 78 | [Way It Was](https://open.spotify.com/track/5DeYzhFraf23cUaakwghkP) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Way It Was](https://open.spotify.com/album/1XtPqp4pKKRTOi5hc5oWIW) | 3:19 |
+| 77 | [Way It Was](https://open.spotify.com/track/5DeYzhFraf23cUaakwghkP) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Way It Was](https://open.spotify.com/album/1XtPqp4pKKRTOi5hc5oWIW) | 3:19 |
+| 78 | [Time Machine](https://open.spotify.com/track/4srfoqCN6TxPmpIVBX8oFd) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 3:31 |
 | 79 | [Heartbreak Souvenirs](https://open.spotify.com/track/6WjZxOLrAhUiGCPf3tMfK8) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [A Heart Is a Terrible Thing to Break](https://open.spotify.com/album/6mBNXZGN2V1JmcUhjlxU3q) | 3:13 |
 | 80 | [I Believe](https://open.spotify.com/track/12oetV9XTJwHAzJgXtkSTA) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Warning Signs](https://open.spotify.com/album/0c8G4kwWZRRBNf0O7HfWjF) | 3:50 |
 | 81 | [Why'd It Have To Be Now](https://open.spotify.com/track/0ijlRt2f9BTH1wI8dS5IuZ) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Too Much](https://open.spotify.com/album/3BmIiIVp13T2mlqH39gos5) | 2:56 |
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 168 | [Drink Us Back Together](https://open.spotify.com/track/5dANkvVBO2q1vqty0jNp4i) | [17 Memphis](https://open.spotify.com/artist/4vqV8IpWyagD7V8RjMO63g) | [17 MEMPHIS FOREVER](https://open.spotify.com/album/2XYynyaDxQk1h2d6vWv4iI) | 3:12 |
 | 169 | [Give You Love](https://open.spotify.com/track/2UO5W95ydfVo5AmCQNzVxJ) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Give You Love](https://open.spotify.com/album/4AhCVQ2AZkSQD7N3Mp3ksC) | 3:04 |
 
-Snapshot ID: `AcP1fAAAAABW5fhxyML+EqPB2dbkJPnE`
+Snapshot ID: `AcP7HAAAAAAR93Z2AeQuBHV49x6lm6kT`

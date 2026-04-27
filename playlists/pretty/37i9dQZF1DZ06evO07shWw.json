@@ -1,12 +1,12 @@
 {
   "description": "This is Ingrid Andress. The essential tracks, all in one playlist.",
-  "num_followers": 9208,
+  "num_followers": 9206,
   "original_name": "This Is Ingrid Andress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAACPsl8M66Kozxp7DcOO15nX",
+  "snapshot_id": "aewEAAAAAABmpGt9nSqyZxQ6s7v6zFPe",
   "tracks": [
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+        "name": "Tattoos",
+        "url": "https://open.spotify.com/album/0ooC997k9ey9EMOIBCfLyt"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 212435,
-      "name": "Yearbook",
-      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
+      "duration_ms": 198813,
+      "name": "Tattoos",
+      "url": "https://open.spotify.com/track/4kgygJE5PCRORk4iBYChSY"
     },
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tattoos",
-        "url": "https://open.spotify.com/album/0ooC997k9ey9EMOIBCfLyt"
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 198813,
-      "name": "Tattoos",
-      "url": "https://open.spotify.com/track/4kgygJE5PCRORk4iBYChSY"
+      "duration_ms": 212435,
+      "name": "Yearbook",
+      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
     },
     {
       "added_at": null,
@@ -271,38 +271,6 @@
       "duration_ms": 190200,
       "name": "Feeling Things",
       "url": "https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 206737,
-      "name": "Seeing Someone Else",
-      "url": "https://open.spotify.com/track/2EuYoHOVQOR4Sperca5Uon"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 203493,
-      "name": "Both",
-      "url": "https://open.spotify.com/track/1VZXhaEAeKUaSwUSocl2qp"
     },
     {
       "added_at": null,
@@ -327,22 +295,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Comeback (Deluxe)",
-        "url": "https://open.spotify.com/album/1aNIT8Eao5zaUVkmZ3ib0J"
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
       },
       "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        },
         {
           "name": "Ingrid Andress",
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 193561,
-      "name": "Any Day Now",
-      "url": "https://open.spotify.com/track/3wFQdX3Uqlg1k9a27qcVnM"
+      "duration_ms": 203493,
+      "name": "Both",
+      "url": "https://open.spotify.com/track/1VZXhaEAeKUaSwUSocl2qp"
     },
     {
       "added_at": null,
@@ -356,25 +320,9 @@
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 219645,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/1WqmNnwx0aIEoEY8h3ayl1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 176053,
-      "name": "Life of the Party",
-      "url": "https://open.spotify.com/track/2Kj0CNt34RnYByxCYETiJv"
+      "duration_ms": 206737,
+      "name": "Seeing Someone Else",
+      "url": "https://open.spotify.com/track/2EuYoHOVQOR4Sperca5Uon"
     },
     {
       "added_at": null,
@@ -399,6 +347,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Comeback (Deluxe)",
+        "url": "https://open.spotify.com/album/1aNIT8Eao5zaUVkmZ3ib0J"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 193561,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/3wFQdX3Uqlg1k9a27qcVnM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "Life of the Party",
+      "url": "https://open.spotify.com/track/2Kj0CNt34RnYByxCYETiJv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 219645,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/1WqmNnwx0aIEoEY8h3ayl1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Person (Deluxe)",
         "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
       },
@@ -415,22 +415,6 @@
       "duration_ms": 206760,
       "name": "Runnin (with JP Saxe)",
       "url": "https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 174034,
-      "name": "How Honest Do You Want Me To Be?",
-      "url": "https://open.spotify.com/track/2Dn3Td3UlFQmo1bJmEyq68"
     },
     {
       "added_at": null,
@@ -523,6 +507,22 @@
       "duration_ms": 160079,
       "name": "On the Road Again (ACM Lifting Lives Edition) [feat. Ingrid Andress, Gabby Barrett, Jordan Davis, Russell Dickerson, Lindsay Ell, Riley Green, Caylee Hammack, Cody Johnson, Tenille Townes, Morgan Wallen]",
       "url": "https://open.spotify.com/track/3cHY2wfceJZ3wcsOuvi1a9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 174034,
+      "name": "How Honest Do You Want Me To Be?",
+      "url": "https://open.spotify.com/track/2Dn3Td3UlFQmo1bJmEyq68"
     },
     {
       "added_at": null,

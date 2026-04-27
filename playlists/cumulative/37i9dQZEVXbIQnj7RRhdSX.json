@@ -5398,7 +5398,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 214240,
       "name": "Baby",
       "url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
@@ -5588,7 +5588,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 183829,
       "name": "Bacio di Giuda",
       "url": "https://open.spotify.com/track/1yDx5sCkmpCX0NZ3ilC1UE"
@@ -7432,6 +7432,24 @@
       "duration_ms": 119217,
       "name": "BIKINI (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/1qexrlq05Ak4NCthyLOhbd"
+    },
+    {
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293802,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
     },
     {
       "album": {
@@ -13856,7 +13874,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 182367,
       "name": "Coscienza",
       "url": "https://open.spotify.com/track/3lFI8rgdb6ScFGyxin4Dh7"
@@ -16612,7 +16630,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 411349,
       "name": "Dio Esiste",
       "url": "https://open.spotify.com/track/6ErRedGqcOC4HmUEfUneiY"
@@ -27768,7 +27786,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 175714,
       "name": "Introvabile",
       "url": "https://open.spotify.com/track/5NX1BUQi3Z5r9koZVhU6kf"
@@ -28138,7 +28156,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 170376,
       "name": "ITALIA STARTER PACK",
       "url": "https://open.spotify.com/track/4ZAjcfbt84O79SGc0jWqu7"
@@ -40036,10 +40054,32 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 226808,
       "name": "Niente Canzoni D'Amore - Inedito",
       "url": "https://open.spotify.com/track/71Fyq3SgH24mrUAKrLECD4"
+    },
+    {
+      "album": {
+        "name": "Status (Inediti, Rarit\u00e0 & Live)",
+        "url": "https://open.spotify.com/album/59i1dzyF8wpUTk3KJ5zNXq"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
+        {
+          "name": "Federica Abbate",
+          "url": "https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226808,
+      "name": "Niente Canzoni D'Amore - Inedito",
+      "url": "https://open.spotify.com/track/7uu3YZytpYW15VIfa7ynJk"
     },
     {
       "album": {
@@ -42738,7 +42778,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 167400,
       "name": "OK",
       "url": "https://open.spotify.com/track/1hmcsP8iUGVi2jBGPGzkkE"
@@ -44760,7 +44800,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 183679,
       "name": "Passatempo",
       "url": "https://open.spotify.com/track/63YhORu1k9MMrp6FFsJOnl"
@@ -48476,7 +48516,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 200850,
       "name": "Quelli come me",
       "url": "https://open.spotify.com/track/79vEEPZbU8qenjwjW97Ylq"
@@ -52904,7 +52944,7 @@
       ],
       "date_added": "2025-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-25",
+      "date_removed": null,
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32"
@@ -56558,7 +56598,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 164598,
       "name": "Take 6",
       "url": "https://open.spotify.com/track/3jvki0Znkvr0W5c2CzhtDQ"
@@ -56602,7 +56642,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 191076,
       "name": "Talk To You",
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
@@ -57826,7 +57866,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"

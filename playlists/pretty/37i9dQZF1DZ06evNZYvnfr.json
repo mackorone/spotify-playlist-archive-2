@@ -1,12 +1,12 @@
 {
   "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
-  "num_followers": 5331,
+  "num_followers": 5335,
   "original_name": "This Is Micah Tyler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAACEX0WKQV6j2DdFx4WNJXeU",
+  "snapshot_id": "aewEAAAAAADSGtsIFENJgYz1nUr3rWlh",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I See Grace",
-        "url": "https://open.spotify.com/album/7LFddJR03IFXK5AY3qV2Il"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 193865,
-      "name": "I See Grace",
-      "url": "https://open.spotify.com/track/3QT7ruZDodBTndp0q0EpW5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God Did It",
         "url": "https://open.spotify.com/album/7LwKfcVB3TofLntabYDKBl"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 169421,
       "name": "God Did It",
       "url": "https://open.spotify.com/track/6MdvwmSn9YUJNn2tC4A7dk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I See Grace",
+        "url": "https://open.spotify.com/album/7LFddJR03IFXK5AY3qV2Il"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 193865,
+      "name": "I See Grace",
+      "url": "https://open.spotify.com/track/3QT7ruZDodBTndp0q0EpW5"
     },
     {
       "added_at": null,
@@ -315,18 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "People Like Us",
-        "url": "https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL"
+        "name": "My Story Your Glory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1FNe9cy8XHcI8JS4cqU6lD"
       },
       "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        },
         {
           "name": "Micah Tyler",
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 184911,
-      "name": "In Case You Didn't Know",
-      "url": "https://open.spotify.com/track/5DDUU71ftcKjUgfEeGPnxO"
+      "duration_ms": 188544,
+      "name": "My Story Your Glory - Micah Tyler Collab Version",
+      "url": "https://open.spotify.com/track/4049ATZU2lzziyACfxMiqc"
     },
     {
       "added_at": null,
@@ -347,22 +351,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Story Your Glory (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1FNe9cy8XHcI8JS4cqU6lD"
+        "name": "People Like Us",
+        "url": "https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL"
       },
       "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        },
         {
           "name": "Micah Tyler",
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 188544,
-      "name": "My Story Your Glory - Micah Tyler Collab Version",
-      "url": "https://open.spotify.com/track/4049ATZU2lzziyACfxMiqc"
+      "duration_ms": 184911,
+      "name": "In Case You Didn't Know",
+      "url": "https://open.spotify.com/track/5DDUU71ftcKjUgfEeGPnxO"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feels Like Joy",
-        "url": "https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO"
+        "name": "People Like Us",
+        "url": "https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 172200,
-      "name": "Feels Like Joy",
-      "url": "https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr"
+      "duration_ms": 259159,
+      "name": "Remember This",
+      "url": "https://open.spotify.com/track/7vFyHLrMnhMVbdADWbgvGk"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "People Like Us",
-        "url": "https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL"
+        "name": "Feels Like Joy",
+        "url": "https://open.spotify.com/album/0T6ORE72qQSU2WYkOn2szO"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 259159,
-      "name": "Remember This",
-      "url": "https://open.spotify.com/track/7vFyHLrMnhMVbdADWbgvGk"
+      "duration_ms": 172200,
+      "name": "Feels Like Joy",
+      "url": "https://open.spotify.com/track/0pOt34RFSDjTSb7Sx6zRmr"
     },
     {
       "added_at": null,

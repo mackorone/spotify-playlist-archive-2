@@ -84,10 +84,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 74 | [Swimming In The Sky](https://open.spotify.com/track/3xZyOAfKRK2LTPgrZY8U76) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1) | [Swimming In The Sky](https://open.spotify.com/album/6t6EpphDwNwRTLpDMT22t5) | 3:48 |
 | 75 | [Bubblegum](https://open.spotify.com/track/0u93AbXE2aa27pcNTERZN7) | [Djamila](https://open.spotify.com/artist/2Dh0kFL1Dosd9G17HwrkKc) | [Bubblegum](https://open.spotify.com/album/7AJv9yvZ0DFeVYphAsrxyi) | 3:20 |
 | 76 | [Stay With Me](https://open.spotify.com/track/6PlJmtSZG9AE1asoYt2BXu) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Stay With Me](https://open.spotify.com/album/0bsw6pMyquYTDMVO4BjV4e) | 3:21 |
-| 77 | [Run To You](https://open.spotify.com/track/0IDkpNa98T918RALnS3CbW) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Grace Ackerman](https://open.spotify.com/artist/78SfXT84Lde7FNt3MVBz1n) | [Run To You](https://open.spotify.com/album/1b6jVbfl9Cmdt0pj7Q2rgY) | 2:59 |
-| 78 | [SIGN IT](https://open.spotify.com/track/0fXnyYPljuHzW3FRXAv9wP) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:09 |
-| 79 | [You Should Be Alone](https://open.spotify.com/track/3a3TUhKJCOfmyjdaynC1t2) | [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [You Should Be Alone](https://open.spotify.com/album/3VyyCtbAOTppTYySZ9TvVD) | 3:38 |
-| 80 | [Sewn](https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Sewn](https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH) | 3:32 |
+| 77 | [SIGN IT](https://open.spotify.com/track/0fXnyYPljuHzW3FRXAv9wP) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:09 |
+| 78 | [Run To You](https://open.spotify.com/track/0IDkpNa98T918RALnS3CbW) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Grace Ackerman](https://open.spotify.com/artist/78SfXT84Lde7FNt3MVBz1n) | [Run To You](https://open.spotify.com/album/1b6jVbfl9Cmdt0pj7Q2rgY) | 2:59 |
+| 79 | [Sewn](https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Sewn](https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH) | 3:32 |
+| 80 | [You Should Be Alone](https://open.spotify.com/track/3a3TUhKJCOfmyjdaynC1t2) | [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [You Should Be Alone](https://open.spotify.com/album/3VyyCtbAOTppTYySZ9TvVD) | 3:38 |
 | 81 | [Last One On My Mind](https://open.spotify.com/track/49X0xXnEaD4QogX7wevj5s) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk) | [The Fifth Chapter](https://open.spotify.com/album/34zBuaI0qXuvCD9WrG0NbC) | 2:44 |
 | 82 | [Concrete](https://open.spotify.com/track/2uYlI0bKR6m7kkjHLmEI76) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:19 |
 | 83 | [Fireproof](https://open.spotify.com/track/7ApcKRTsTSGEKI14RwF7FB) | [Forever Bound](https://open.spotify.com/artist/7tklGFmhSD9jlcE506ZcZO) | [Fireproof](https://open.spotify.com/album/20uXkEjYVIGDnhO3TLBh4L) | 2:36 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 140 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 141 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `AcP1SgAAAACODd0irGp3JZgcM1K0y4pf`
+Snapshot ID: `AcP66gAAAADn93Ps2pAfXpp01pKq2TAr`

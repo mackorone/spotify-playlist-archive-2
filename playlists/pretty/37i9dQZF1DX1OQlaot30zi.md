@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Glocky, Nerissima Serpe, VillaBanks,  Marshe, Diss Gacha e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,343 likes - 118 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,346 likes - 118 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

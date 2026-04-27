@@ -5943,6 +5943,28 @@
     },
     {
       "album": {
+        "name": "Fire in your Eyes",
+        "url": "https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215384,
+      "name": "Fire in your Eyes",
+      "url": "https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d"
+    },
+    {
+      "album": {
         "name": "Firedncr. (Amapiano Remix)",
         "url": "https://open.spotify.com/album/3NQrHzwVf6joGUVbqQ03SB"
       },
@@ -9456,7 +9478,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 133333,
       "name": "Kupe",
       "url": "https://open.spotify.com/track/5ru6Yg1rOyx5GmkL80Yjyh"
@@ -11924,6 +11946,24 @@
       "duration_ms": 149203,
       "name": "No Worry",
       "url": "https://open.spotify.com/track/71prXuK7e8ke8sP1iB6iHW"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/1kNoTSNjuWqCNUiqU60Uzz"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/6DQu81A5iHhpxbl2isjP9m"
     },
     {
       "album": {
@@ -16524,7 +16564,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 172800,
       "name": "TOY GIRL (with Juno & Valentino Rose)",
       "url": "https://open.spotify.com/track/3iHp95MVzN1hBiOuR0cJmy"

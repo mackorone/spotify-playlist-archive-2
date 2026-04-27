@@ -1,6 +1,6 @@
 {
   "description": "Obscure, dreamy and nostalgic synth sounds from all over the world. ",
-  "num_followers": 471598,
+  "num_followers": 471704,
   "original_name": "Darkwave",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-03-13 13:08:59",
       "album": {
+        "name": "Apasionada / Over It",
+        "url": "https://open.spotify.com/album/1p6XSjHnvwwbsQNUv2oCvq"
+      },
+      "artists": [
+        {
+          "name": "Future Nobodies",
+          "url": "https://open.spotify.com/artist/4GMN5lzHF0l56piLOQXhBH"
+        }
+      ],
+      "duration_ms": 169750,
+      "name": "Over It",
+      "url": "https://open.spotify.com/track/3Vkl2lLObnQ9LDohDopxHH"
+    },
+    {
+      "added_at": "2026-03-13 13:08:59",
+      "album": {
         "name": "Rendez-Vous",
         "url": "https://open.spotify.com/album/11KSgvhpxoK78X8nTtjskx"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 154285,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/1zjM0yzhtbRRwj5rD897fY"
-    },
-    {
-      "added_at": "2026-03-13 13:08:59",
-      "album": {
-        "name": "Apasionada / Over It",
-        "url": "https://open.spotify.com/album/1p6XSjHnvwwbsQNUv2oCvq"
-      },
-      "artists": [
-        {
-          "name": "Future Nobodies",
-          "url": "https://open.spotify.com/artist/4GMN5lzHF0l56piLOQXhBH"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "Over It",
-      "url": "https://open.spotify.com/track/3Vkl2lLObnQ9LDohDopxHH"
     },
     {
       "added_at": "2026-03-13 13:08:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,343 likes - 275 songs - 17 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,344 likes - 275 songs - 17 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 44 | [Edith and the Kingpin](https://open.spotify.com/track/7CD5VhE2AWbCxqYHmpYoSi) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Hissing of Summer Lawns](https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj) | 3:35 |
 | 45 | [Raised on Robbery](https://open.spotify.com/track/7BZ7rhqsQhhUriDfO9X9TY) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/03NZvh3vGroAldWXPQIQ4u) | 3:06 |
 | 46 | [The Same Situation](https://open.spotify.com/track/4OtCf0nKbLTC6wbbv3DaHj) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/03NZvh3vGroAldWXPQIQ4u) | 2:56 |
-| 47 | [Song for Sharon](https://open.spotify.com/track/4WmlD8Azgu8PuLIBfrdxWx) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/17QYnRwdDzd9bmOHM9rFMA) | 8:39 |
-| 48 | [Tonight](https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Tonight](https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe) | 2:25 |
+| 47 | [Tonight](https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Tonight](https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe) | 2:25 |
+| 48 | [Song for Sharon](https://open.spotify.com/track/4WmlD8Azgu8PuLIBfrdxWx) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/17QYnRwdDzd9bmOHM9rFMA) | 8:39 |
 | 49 | [Come In From The Cold](https://open.spotify.com/track/7eB0zEPAVT1zS8NmyqKy01) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 7:30 |
 | 50 | [Blue Motel Room](https://open.spotify.com/track/6kKVmHLmGou7OtlaSdRO1H) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/17QYnRwdDzd9bmOHM9rFMA) | 5:03 |
 | 51 | [Troubled Child](https://open.spotify.com/track/5mdVLLVUiMdImFd2lxPNHK) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/03NZvh3vGroAldWXPQIQ4u) | 3:59 |
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 121 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/0vAIQoln7IfwPthEgBHAFb) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Mingus](https://open.spotify.com/album/6xgCRTWpAnisscgnOXR57V) | 5:36 |
 | 122 | [Judgement of the Moon and Stars \(Ludwig's Tune\)](https://open.spotify.com/track/2etltnvHWj0f9niMFTjGn6) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/39ehhJZ21SnOepT4RoNgmO) | 5:25 |
 | 123 | [Bad Dreams](https://open.spotify.com/track/4DyNkddT45mDs0gyWehMUq) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 5:41 |
-| 124 | [Be Cool](https://open.spotify.com/track/6ditxrULYjp6FIMRkUtzlE) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Take Love Easy](https://open.spotify.com/album/6ORyb3qifB83laYG9nBEvR) | 4:12 |
-| 125 | [Nothing Can Be Done](https://open.spotify.com/track/6kOkA8vUsHv5WhLfec62Rs) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 4:52 |
+| 124 | [Nothing Can Be Done](https://open.spotify.com/track/6kOkA8vUsHv5WhLfec62Rs) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 4:52 |
+| 125 | [Be Cool](https://open.spotify.com/track/6ditxrULYjp6FIMRkUtzlE) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Take Love Easy](https://open.spotify.com/album/6ORyb3qifB83laYG9nBEvR) | 4:12 |
 | 126 | [Off Night Backstreet](https://open.spotify.com/track/3wkfqYfT0TtZZWAf0dBB98) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/2FQpN1cvLOFKabqeiPURRq) | 3:20 |
 | 127 | [Two Grey Rooms](https://open.spotify.com/track/1zQjBJJ4uETsyDAoQkKaZV) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 3:58 |
 | 128 | [Love](https://open.spotify.com/track/0bF58EGynl31vglBoTCJz6) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Travelogue](https://open.spotify.com/album/6vxU4GMNZCktb79R76abGb) | 5:38 |
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 274 | [Intro To California \(with James Taylor\) \- Live on In Concert, BBC, Paris Theatre, London, England, 10/29/1970](https://open.spotify.com/track/4RQHJvLC2tytuuFxqPR15u) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 | 275 | [Intro To Chelsea Morning: John Peel \- Live on Top Gear, BBC Radio, London, England, 9/23/1968](https://open.spotify.com/track/5RjnysVYo2c1aDi4w2A3OC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 
-Snapshot ID: `AcP1fAAAAAA1vrItFOo0ZvweKHLSOGFY`
+Snapshot ID: `AcP7HAAAAACzgevX3P/IpnCl4AGFa+tS`

@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158831,
+  "num_followers": 158834,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -695,26 +695,6 @@
     {
       "added_at": "2026-04-20 14:17:08",
       "album": {
-        "name": "Bateu Saudade",
-        "url": "https://open.spotify.com/album/2NKKvnmha3O6zdVbqRz621"
-      },
-      "artists": [
-        {
-          "name": "Zeus",
-          "url": "https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG"
-        },
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
-        }
-      ],
-      "duration_ms": 230581,
-      "name": "Bateu Saudade",
-      "url": "https://open.spotify.com/track/7ADV6H8YX1nIjj10EwBIsT"
-    },
-    {
-      "added_at": "2026-04-20 14:17:08",
-      "album": {
         "name": "Garotas s\u00e3o Confusas (Deluxe)",
         "url": "https://open.spotify.com/album/5aQcD7w6t6fWkwgbSvU1A7"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 139780,
       "name": "A Festa",
       "url": "https://open.spotify.com/track/77bOpmfngV5UKOWBtKluRf"
+    },
+    {
+      "added_at": "2026-04-20 14:17:08",
+      "album": {
+        "name": "Bateu Saudade",
+        "url": "https://open.spotify.com/album/2NKKvnmha3O6zdVbqRz621"
+      },
+      "artists": [
+        {
+          "name": "Zeus",
+          "url": "https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG"
+        },
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 230581,
+      "name": "Bateu Saudade",
+      "url": "https://open.spotify.com/track/7ADV6H8YX1nIjj10EwBIsT"
     },
     {
       "added_at": "2026-04-20 14:17:08",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-04-20 14:17:08",
       "album": {
+        "name": "Ac\u00fastico: Sem Perceber + 4 da Manh\u00e3",
+        "url": "https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR"
+      },
+      "artists": [
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        }
+      ],
+      "duration_ms": 208485,
+      "name": "4 da Manh\u00e3 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
+    },
+    {
+      "added_at": "2026-04-20 14:17:08",
+      "album": {
         "name": "Amor N\u00e3o Sai de Moda",
         "url": "https://open.spotify.com/album/6dk9pgzQaucd5U72M7tWZB"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 216600,
       "name": "Amor N\u00e3o Sai de Moda",
       "url": "https://open.spotify.com/track/6dIccuQyn4JBdFoQZX1oxP"
-    },
-    {
-      "added_at": "2026-04-20 14:17:08",
-      "album": {
-        "name": "Ac\u00fastico: Sem Perceber + 4 da Manh\u00e3",
-        "url": "https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR"
-      },
-      "artists": [
-        {
-          "name": "Vitinho",
-          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
-        }
-      ],
-      "duration_ms": 208485,
-      "name": "4 da Manh\u00e3 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
     },
     {
       "added_at": "2026-04-20 14:17:08",
@@ -899,26 +899,6 @@
     {
       "added_at": "2026-04-20 14:17:08",
       "album": {
-        "name": "Oriente Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 215936,
-      "name": "Luz da Lua",
-      "url": "https://open.spotify.com/track/6MjNdgoDAWesTjXUYg1ETC"
-    },
-    {
-      "added_at": "2026-04-20 14:17:08",
-      "album": {
         "name": "Original MTK #2 - Se Voc\u00ea Vier",
         "url": "https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 264547,
       "name": "Original MTK #2 - Se Voc\u00ea Vier",
       "url": "https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE"
+    },
+    {
+      "added_at": "2026-04-20 14:17:08",
+      "album": {
+        "name": "Oriente Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 215936,
+      "name": "Luz da Lua",
+      "url": "https://open.spotify.com/track/6MjNdgoDAWesTjXUYg1ETC"
     },
     {
       "added_at": "2026-04-20 14:17:08",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2026-04-20 14:17:08",
       "album": {
-        "name": "Jam #2",
-        "url": "https://open.spotify.com/album/3UF3vK9EIhL59TfiHnYVeZ"
-      },
-      "artists": [
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Anezzi",
-          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
-        }
-      ],
-      "duration_ms": 214509,
-      "name": "Jam #02 - Tudo do Melhor/Prosperidade",
-      "url": "https://open.spotify.com/track/6yYC6VIY7dLyZKr6y5LWbr"
-    },
-    {
-      "added_at": "2026-04-20 14:17:08",
-      "album": {
         "name": "Pra Voc\u00ea Ficar",
         "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 160819,
       "name": "Pra Voc\u00ea Ficar",
       "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
+    },
+    {
+      "added_at": "2026-04-20 14:17:08",
+      "album": {
+        "name": "Jam #2",
+        "url": "https://open.spotify.com/album/3UF3vK9EIhL59TfiHnYVeZ"
+      },
+      "artists": [
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+        }
+      ],
+      "duration_ms": 214509,
+      "name": "Jam #02 - Tudo do Melhor/Prosperidade",
+      "url": "https://open.spotify.com/track/6yYC6VIY7dLyZKr6y5LWbr"
     },
     {
       "added_at": "2026-04-20 14:17:08",
@@ -1223,34 +1223,6 @@
     {
       "added_at": "2026-04-20 14:17:08",
       "album": {
-        "name": "Liberdade",
-        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 250434,
-      "name": "Madrugada \u00e9 Solid\u00e3o",
-      "url": "https://open.spotify.com/track/6WmASz2D2nydllhQzNxTOU"
-    },
-    {
-      "added_at": "2026-04-20 14:17:08",
-      "album": {
         "name": "Conex\u00e3o",
         "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
       },
@@ -1295,26 +1267,6 @@
     {
       "added_at": "2026-04-20 14:17:08",
       "album": {
-        "name": "Primeira Vez (Studio Rec #8)",
-        "url": "https://open.spotify.com/album/5dnrS9JpNujiPMZrodx1K8"
-      },
-      "artists": [
-        {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "Trem Caro",
-          "url": "https://open.spotify.com/artist/5wiDkXNXNdlohPMVqIAYI1"
-        }
-      ],
-      "duration_ms": 163218,
-      "name": "Primeira Vez (Studio Rec #8)",
-      "url": "https://open.spotify.com/track/4LPI2efmQjL8xGA1YnIpo1"
-    },
-    {
-      "added_at": "2026-04-20 14:17:08",
-      "album": {
         "name": "Bate A Onda",
         "url": "https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1"
       },
@@ -1339,6 +1291,54 @@
       "duration_ms": 281142,
       "name": "Bate A Onda",
       "url": "https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37"
+    },
+    {
+      "added_at": "2026-04-20 14:17:08",
+      "album": {
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 250434,
+      "name": "Madrugada \u00e9 Solid\u00e3o",
+      "url": "https://open.spotify.com/track/6WmASz2D2nydllhQzNxTOU"
+    },
+    {
+      "added_at": "2026-04-20 14:17:08",
+      "album": {
+        "name": "Primeira Vez (Studio Rec #8)",
+        "url": "https://open.spotify.com/album/5dnrS9JpNujiPMZrodx1K8"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "Trem Caro",
+          "url": "https://open.spotify.com/artist/5wiDkXNXNdlohPMVqIAYI1"
+        }
+      ],
+      "duration_ms": 163218,
+      "name": "Primeira Vez (Studio Rec #8)",
+      "url": "https://open.spotify.com/track/4LPI2efmQjL8xGA1YnIpo1"
     },
     {
       "added_at": "2026-04-20 14:17:08",

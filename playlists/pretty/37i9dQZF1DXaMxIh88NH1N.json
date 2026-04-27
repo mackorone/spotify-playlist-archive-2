@@ -1,6 +1,6 @@
 {
   "description": "Al mil para entrenar sin parar.",
-  "num_followers": 219584,
+  "num_followers": 219623,
   "original_name": "Modo: Al Mil",
   "owner": {
     "name": "Spotify",
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 166801,
-      "name": "M&M",
-      "url": "https://open.spotify.com/track/3t72JCbFJ3syOhFC7x9Pa4"
+      "duration_ms": 174655,
+      "name": "3",
+      "url": "https://open.spotify.com/track/44tGQHHdm4JhCbMugPr2Vd"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 174655,
-      "name": "3",
-      "url": "https://open.spotify.com/track/44tGQHHdm4JhCbMugPr2Vd"
+      "duration_ms": 166801,
+      "name": "M&M",
+      "url": "https://open.spotify.com/track/3t72JCbFJ3syOhFC7x9Pa4"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
-        "name": "Changuito Me Apodaron",
-        "url": "https://open.spotify.com/album/1CMvKp1MBcw2f07BlXMIZu"
-      },
-      "artists": [
-        {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
-        }
-      ],
-      "duration_ms": 163350,
-      "name": "Changuito Me Apodaron",
-      "url": "https://open.spotify.com/track/0v8cA0p513Il0GvPeNVuk9"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
         "name": "Patrullon",
         "url": "https://open.spotify.com/album/5xj5BZBQvm6wcXf5iFrDiP"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 158517,
       "name": "Patrullon",
       "url": "https://open.spotify.com/track/54AkMJKLhLmw8lQTYiLh8g"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
+        "name": "Changuito Me Apodaron",
+        "url": "https://open.spotify.com/album/1CMvKp1MBcw2f07BlXMIZu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "duration_ms": 163350,
+      "name": "Changuito Me Apodaron",
+      "url": "https://open.spotify.com/track/0v8cA0p513Il0GvPeNVuk9"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
-        "name": "En El Camino",
-        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 168425,
-      "name": "En El Camino",
-      "url": "https://open.spotify.com/track/76QRh2Ikhr0i6dNjRvS3GS"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
         "name": "Pa Las Vibras",
         "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 181251,
       "name": "Es Dif\u00edcil Ser Un Santo",
       "url": "https://open.spotify.com/track/6NuJqPmsZEag7XJf0B67ZI"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 168425,
+      "name": "En El Camino",
+      "url": "https://open.spotify.com/track/76QRh2Ikhr0i6dNjRvS3GS"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
+        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
+        "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 200161,
+      "name": "Sigo Chambeando",
+      "url": "https://open.spotify.com/track/4PR0r2us3a64lTew6TVlF2"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
         "name": "Hablando Claro (En Vivo)",
         "url": "https://open.spotify.com/album/1EoAsDmaX09sqmujjiLSGD"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 190671,
       "name": "Hablando Claro (En Vivo)",
       "url": "https://open.spotify.com/track/0LRjxh137biMdqdPVH3PBv"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
-        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
-        "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 200161,
-      "name": "Sigo Chambeando",
-      "url": "https://open.spotify.com/track/4PR0r2us3a64lTew6TVlF2"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Sin Miedo - En Vivo",
+      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
         "name": "No Fue Suerte",
         "url": "https://open.spotify.com/album/0xUggoHx4p14LrfP3UDIuM"
       },
@@ -1139,38 +1155,18 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
+        "name": "OTRO DESMADRE",
+        "url": "https://open.spotify.com/album/7dJxUcebpGJnaDJdXoYCIO"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Sin Miedo - En Vivo",
-      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
-        "name": "Chalino S\u00e1nchez con Banda Brava",
-        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
-        }
-      ],
-      "duration_ms": 172512,
-      "name": "Alma Enamorada",
-      "url": "https://open.spotify.com/track/6ab5dRx0VtGzMjUejMFI9u"
+      "duration_ms": 182061,
+      "name": "OTRO DESMADRE",
+      "url": "https://open.spotify.com/track/4nrdgjTiyuDhT7oCWr2YKg"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1195,6 +1191,22 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
+        "name": "Pura Adrenalina",
+        "url": "https://open.spotify.com/album/1nmowOSmp7OY0cW7MoWHEM"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 157569,
+      "name": "Pura Adrenalina",
+      "url": "https://open.spotify.com/track/2n77I4OjzHdgL3La34c3PJ"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
         "name": "ESPEJO",
         "url": "https://open.spotify.com/album/753sqjbgaL6FduBY5umQY2"
       },
@@ -1211,34 +1223,22 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
-        "name": "Andamos Triunfando",
-        "url": "https://open.spotify.com/album/3GohRnAdahedoEBNCAjIEU"
+        "name": "Chalino S\u00e1nchez con Banda Brava",
+        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
       "artists": [
         {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 148506,
-      "name": "Andamos Triunfando",
-      "url": "https://open.spotify.com/track/23t0H71t1k6QqrYYRLjXk5"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
-        "name": "OTRO DESMADRE",
-        "url": "https://open.spotify.com/album/7dJxUcebpGJnaDJdXoYCIO"
-      },
-      "artists": [
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
         {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
         }
       ],
-      "duration_ms": 182061,
-      "name": "OTRO DESMADRE",
-      "url": "https://open.spotify.com/track/4nrdgjTiyuDhT7oCWr2YKg"
+      "duration_ms": 172512,
+      "name": "Alma Enamorada",
+      "url": "https://open.spotify.com/track/6ab5dRx0VtGzMjUejMFI9u"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
+        "name": "Andamos Triunfando",
+        "url": "https://open.spotify.com/album/3GohRnAdahedoEBNCAjIEU"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 148506,
+      "name": "Andamos Triunfando",
+      "url": "https://open.spotify.com/track/23t0H71t1k6QqrYYRLjXk5"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
         "name": "Todo Es Diferente",
         "url": "https://open.spotify.com/album/0ECIYdy6byWnFYoY6Bn8CN"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 128893,
       "name": "El de La Codeina",
       "url": "https://open.spotify.com/track/7K2JfvcKhIMwOndE6QBodf"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
-        "name": "Pura Adrenalina",
-        "url": "https://open.spotify.com/album/1nmowOSmp7OY0cW7MoWHEM"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 157569,
-      "name": "Pura Adrenalina",
-      "url": "https://open.spotify.com/track/2n77I4OjzHdgL3La34c3PJ"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
-        "name": "Pa Las Vibras",
-        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 136747,
-      "name": "Cosas De La Clika",
-      "url": "https://open.spotify.com/track/6ZyRBFspc4a4seZam5Hi8Z"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. 2",
         "url": "https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb"
       },
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
+        "name": "Pa Las Vibras",
+        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 136747,
+      "name": "Cosas De La Clika",
+      "url": "https://open.spotify.com/track/6ZyRBFspc4a4seZam5Hi8Z"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
@@ -1435,6 +1435,22 @@
       "duration_ms": 267500,
       "name": "Se Logr\u00f3",
       "url": "https://open.spotify.com/track/2Uw0BLEO96u70KQSWOc0XZ"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
+        "name": "DINOSAURIOS",
+        "url": "https://open.spotify.com/album/3NLtSDlkdK9bV3HLKz2Lkb"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 198935,
+      "name": "DINOSAURIOS",
+      "url": "https://open.spotify.com/track/3tFdpPz7H9VHCKj01xlqVY"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
-        "name": "DINOSAURIOS",
-        "url": "https://open.spotify.com/album/3NLtSDlkdK9bV3HLKz2Lkb"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "duration_ms": 198935,
-      "name": "DINOSAURIOS",
-      "url": "https://open.spotify.com/track/3tFdpPz7H9VHCKj01xlqVY"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
         "name": "Amistades",
         "url": "https://open.spotify.com/album/3LqHLNiN2H7kzdrhjBGjqh"
       },
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
+        "name": "Vengo a Aclarar",
+        "url": "https://open.spotify.com/album/7sRRTaXHXFn3h9gJK82rwR"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 150944,
+      "name": "Vengo a Aclarar",
+      "url": "https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
         "name": "Rigo Campos",
         "url": "https://open.spotify.com/album/1qFit9VXot0CCpEk3HuWOb"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 227275,
       "name": "Rigo Campos",
       "url": "https://open.spotify.com/track/4ygbV86leUNtfCVUV0Mqod"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
-        "name": "Vengo a Aclarar",
-        "url": "https://open.spotify.com/album/7sRRTaXHXFn3h9gJK82rwR"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 150944,
-      "name": "Vengo a Aclarar",
-      "url": "https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
+        "name": "CUANDO SE ACABE EL TIEMPO",
+        "url": "https://open.spotify.com/album/6HGYuGJSPyusItg6CnOBM4"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 212678,
+      "name": "CUANDO SE ACABE EL TIEMPO",
+      "url": "https://open.spotify.com/track/7wHVwHUYy2IPQjele1yTV8"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
         "name": "El Mismo",
         "url": "https://open.spotify.com/album/1uTIkX6XGkkb0fAK9Bj8DU"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 147142,
       "name": "El Mismo",
       "url": "https://open.spotify.com/track/1K3idamkSc1wHPTRsX3tVt"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
-        "name": "CUANDO SE ACABE EL TIEMPO",
-        "url": "https://open.spotify.com/album/6HGYuGJSPyusItg6CnOBM4"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "duration_ms": 212678,
-      "name": "CUANDO SE ACABE EL TIEMPO",
-      "url": "https://open.spotify.com/track/7wHVwHUYy2IPQjele1yTV8"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
-        "name": "Yo Ya Sabia Pa Donde Iba",
-        "url": "https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 181611,
-      "name": "Yo Ya Sabia Pa Donde Iba",
-      "url": "https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
         "name": "Hablemos",
         "url": "https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 173205,
       "name": "Chica La Bola",
       "url": "https://open.spotify.com/track/3Pl6cmIeByRLbclelIPAnJ"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
+        "name": "Yo Ya Sabia Pa Donde Iba",
+        "url": "https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 181611,
+      "name": "Yo Ya Sabia Pa Donde Iba",
+      "url": "https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
+        "name": "L\u00edricas De Oro",
+        "url": "https://open.spotify.com/album/0gXdxNdLAdxnqITRqOaMYX"
+      },
+      "artists": [
+        {
+          "name": "Justin Morales",
+          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
+        }
+      ],
+      "duration_ms": 146839,
+      "name": "Desde Morro",
+      "url": "https://open.spotify.com/track/0q1H8leLjzZvjHhgNBiVOx"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
         "name": "Mis Compas Vol. 1",
         "url": "https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 177900,
       "name": "Con Todo Respetillo",
       "url": "https://open.spotify.com/track/7LPcTHeoskQiZ6tv84ZYTa"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
-        "name": "L\u00edricas De Oro",
-        "url": "https://open.spotify.com/album/0gXdxNdLAdxnqITRqOaMYX"
-      },
-      "artists": [
-        {
-          "name": "Justin Morales",
-          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
-        }
-      ],
-      "duration_ms": 146839,
-      "name": "Desde Morro",
-      "url": "https://open.spotify.com/track/0q1H8leLjzZvjHhgNBiVOx"
     }
   ],
   "unique_name": "Modo: Al Mil",

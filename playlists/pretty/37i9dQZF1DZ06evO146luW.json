@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 50957,
+  "num_followers": 50974,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAADM+SGlnd3ao13RoIhe8JlQ",
+  "snapshot_id": "aewEAAAAAAChI1o87d/LfyZJGsXbf7ev",
   "tracks": [
     {
       "added_at": null,
@@ -559,38 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 260664,
-      "name": "FGA",
-      "url": "https://open.spotify.com/track/0Lgz0XPfY0HBsjA1QbwGxy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
-        "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 239193,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/2gAcxlvwhyHDxnKLBbWXAt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
         "url": "https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg"
       },
@@ -611,6 +579,38 @@
       "duration_ms": 155495,
       "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
       "url": "https://open.spotify.com/track/231JL1zyH8JlEvYkCymu1K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
+        "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 239193,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/2gAcxlvwhyHDxnKLBbWXAt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 260664,
+      "name": "FGA",
+      "url": "https://open.spotify.com/track/0Lgz0XPfY0HBsjA1QbwGxy"
     },
     {
       "added_at": null,

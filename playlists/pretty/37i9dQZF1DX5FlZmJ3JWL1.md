@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,934 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,940 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 46 | [Flames \(feat\. Bandit\)](https://open.spotify.com/track/0U5cp34yeoKN4GTcedhAFo) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Flames \(feat\. Bandit\)](https://open.spotify.com/album/1b8vR0TRZsK1BDtk12sg5O) | 2:59 |
 | 47 | [Kids](https://open.spotify.com/track/1wsr7jSHPn3ozDWJUG4UXG) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [Kids](https://open.spotify.com/album/4QHIneMHTfRSGjk6YZc6kv) | 2:09 |
 | 48 | [Key To My Heart](https://open.spotify.com/track/2LEFdBlzEJQRKTjI47oHSS) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9) | [Key To My Heart](https://open.spotify.com/album/4t5Nw9T47UroEticHcuuF5) | 2:12 |
-| 49 | [Ghost](https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Ghost](https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk) | 2:32 |
-| 50 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/5I97xVqU6oRY3ErMUVz4qB) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [All Good Things \(Come To An End\)](https://open.spotify.com/album/4eDc6rtAsoVIjSM8MAXxRb) | 2:47 |
+| 49 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/5I97xVqU6oRY3ErMUVz4qB) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [All Good Things \(Come To An End\)](https://open.spotify.com/album/4eDc6rtAsoVIjSM8MAXxRb) | 2:47 |
+| 50 | [Ghost](https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Ghost](https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk) | 2:32 |
 
 Snapshot ID: `AAAAAFu67mYyZFrKN4G4hEFoQoPr0Zui`

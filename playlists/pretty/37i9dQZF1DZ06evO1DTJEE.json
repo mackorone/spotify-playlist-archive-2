@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 69146,
+  "num_followers": 69258,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAABtiErExIA7wuUsSH0ism5S",
+  "snapshot_id": "aewEAAAAAABKIvyKJ/DLiiwtXpRYzqh9",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope She\u2019s Drinkin' Tonight / Get Back Home",
-        "url": "https://open.spotify.com/album/4Q1aVUAcdCKiEUW5uTpYVl"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 188674,
-      "name": "I Hope She's Drinkin' Tonight",
-      "url": "https://open.spotify.com/track/2ydZrWKjSGrxQTebDfDnj5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Way Out Here",
         "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 221200,
       "name": "Way Out Here",
       "url": "https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hope She\u2019s Drinkin' Tonight / Get Back Home",
+        "url": "https://open.spotify.com/album/4Q1aVUAcdCKiEUW5uTpYVl"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 188674,
+      "name": "I Hope She's Drinkin' Tonight",
+      "url": "https://open.spotify.com/track/2ydZrWKjSGrxQTebDfDnj5"
     },
     {
       "added_at": null,

@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 129000,
       "name": "Atomic Bomb (feat. Juan Alcasar)",
       "url": "https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE"
@@ -1310,6 +1310,24 @@
       "duration_ms": 194655,
       "name": "New Memories",
       "url": "https://open.spotify.com/track/7C9SonafFzEtoheAQDQ2UW"
+    },
+    {
+      "album": {
+        "name": "Night Taking Over",
+        "url": "https://open.spotify.com/album/3ktfqOPwFbxIJnTR8pkcDc"
+      },
+      "artists": [
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128859,
+      "name": "Night Taking Over",
+      "url": "https://open.spotify.com/track/6dVJQ4bMyrtm1D7BHy5TU8"
     },
     {
       "album": {

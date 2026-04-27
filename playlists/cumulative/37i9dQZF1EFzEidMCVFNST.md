@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-578 songs - 1 day 3 hr 26 min
+579 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [4G](https://open.spotify.com/track/0Xyai3VqkT2sujXvF58zDQ) | [Max e Luan](https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE) | [4G](https://open.spotify.com/album/4xPBKbhYP0g7jm0axk5Mrj) | 2:42 | 2024-01-29 |  |
 | [6 Graus Abaixo de Zero](https://open.spotify.com/track/7llizvX6gYL7DOqaAMN2GC) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Arrocha Safadão](https://open.spotify.com/album/4dmdQ4uriuehLMFwY6SAKQ) | 2:37 | 2025-11-16 |  |
 | [6 Graus Abaixo de Zero \- Ao Vivo](https://open.spotify.com/track/4hMeVIvSBJoxQ5V0qEOPpv) | [Breno & Caio Cesar](https://open.spotify.com/artist/0qzIE6qGhz0erJe0Fy8RHt), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [\#JuntosComBCC \(Ao Vivo\)](https://open.spotify.com/album/1FEFYOFrkK61T3zMXt590L) | 3:03 | 2024-01-29 | 2025-11-17 |
-| [8 E 80](https://open.spotify.com/track/6OsAvyCZjs5hnJGzj3veYU) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/66GJKi3ULprjZB9rBlqnBN) | 3:09 | 2025-03-29 |  |
+| [8 E 80](https://open.spotify.com/track/6OsAvyCZjs5hnJGzj3veYU) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/66GJKi3ULprjZB9rBlqnBN) | 3:09 | 2025-03-29 | 2026-04-27 |
+| [8 e 80](https://open.spotify.com/track/7JXYUyxPyPB5Q5lcqjxWla) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose](https://open.spotify.com/album/2Yt9Tp1AYoG77Rp7bv9RZP) | 3:10 | 2026-04-26 |  |
 | [8 e 80 \- Ao Vivo](https://open.spotify.com/track/10QwS6vwsY7SseTTwSmMFZ) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/15xpWd7MpVbVtDsywlPgZC) | 3:09 | 2024-08-18 | 2025-03-30 |
 | [8 E 80 \- Ao Vivo](https://open.spotify.com/track/375yMUSMjQASt7ci63M2Gk) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose Ao Vivo \- Ao Vivo](https://open.spotify.com/album/52rIL56BICJZfbDlDZBCci) | 3:09 | 2024-01-29 | 2024-08-19 |
 | [A Cabana \- Ao Vivo](https://open.spotify.com/track/1QxRo3XFa1dUGShgcoCLHa) | [Maria Cecília & Rodolfo](https://open.spotify.com/artist/1oOTUMbydEi6ogss5Klsom) | [Em Fases \(Ao Vivo\)](https://open.spotify.com/album/20NsobT5lxHSvdbOmi24kF) | 2:38 | 2024-01-29 |  |
@@ -462,9 +463,9 @@
 | [Sem Você Não Dá](https://open.spotify.com/track/48woc5D6BzV78fjYAxLgRE) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Histórias](https://open.spotify.com/album/1gnE9BymF9RCgdF8gI8VhL) | 2:36 | 2024-01-29 |  |
 | [Sempre Tem Um Cara](https://open.spotify.com/track/5HXnYLFjEgvEcnvUM2fqp0) | [Dalmi Junior](https://open.spotify.com/artist/5bltkfe1PGak5U5C1DFhrF) | [Beijou Sofreu](https://open.spotify.com/album/13nOXU1GBCd9O3qUtpINJZ) | 2:28 | 2025-01-09 | 2025-04-12 |
 | [Senta Caladinha](https://open.spotify.com/track/2sCrt4NUph8SbrgzuLtAXb) | [Nilson Neto](https://open.spotify.com/artist/2D9AauR2GiC99uhbtBJJeN), [Mc Jacaré](https://open.spotify.com/artist/61k7eCDTe0AQxZA642MILv) | [Senta Caladinha](https://open.spotify.com/album/4gvMGzT4GT5waUM1JpzioS) | 2:48 | 2024-05-31 |  |
-| [Serumaninho](https://open.spotify.com/track/7MiMFjtPKfqp87S4MqaJdx) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/66GJKi3ULprjZB9rBlqnBN) | 2:28 | 2026-04-25 |  |
+| [Serumaninho](https://open.spotify.com/track/7MiMFjtPKfqp87S4MqaJdx) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/66GJKi3ULprjZB9rBlqnBN) | 2:28 | 2026-04-25 | 2026-04-27 |
 | [Serumaninho](https://open.spotify.com/track/6daidX5L6OOJDI0xzFevxD) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr), [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw) | [Serumaninho](https://open.spotify.com/album/7znCug2koVjblAnSZHG5xi) | 2:29 | 2024-08-16 | 2024-08-18 |
-| [Serumaninho](https://open.spotify.com/track/4B7Peqdra7fgxFnobKxrVJ) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr), [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw) | [Hipnose](https://open.spotify.com/album/2Yt9Tp1AYoG77Rp7bv9RZP) | 2:29 | 2024-08-17 | 2026-04-26 |
+| [Serumaninho](https://open.spotify.com/track/4B7Peqdra7fgxFnobKxrVJ) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr), [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw) | [Hipnose](https://open.spotify.com/album/2Yt9Tp1AYoG77Rp7bv9RZP) | 2:29 | 2024-08-17 |  |
 | [Serumaninho](https://open.spotify.com/track/4F6R0ZNpvy38E95t7oav9r) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr), [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw) | [Hipnose](https://open.spotify.com/album/3eB3h2dbEKoFpaRNp480B2) | 2:29 | 2024-01-29 | 2024-08-17 |
 | [Será Que a Gente Tem Volta](https://open.spotify.com/track/1KIWEQUIpXhU66uoMPkTnO) | [Felipão](https://open.spotify.com/artist/29fHZcTMW9pUzhTF4Deu0j) | [Olha Eu de Volta](https://open.spotify.com/album/43KnzLvyBKdLwBZDpg8f7i) | 3:04 | 2024-07-19 |  |
 | [Será Que a Gente Tem Volta](https://open.spotify.com/track/2TGggeDY936eyIrWFP6QRW) | [Felipão](https://open.spotify.com/artist/29fHZcTMW9pUzhTF4Deu0j) | [Olha Eu de Volta](https://open.spotify.com/album/2kzcUtSEOVfzgk1D9BvirQ) | 3:04 | 2024-01-29 | 2024-07-20 |

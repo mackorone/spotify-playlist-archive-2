@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 45191,
+  "num_followers": 45192,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAAAXF+U18ToNaDr75kRKkGWz",
+  "snapshot_id": "aewEAAAAAABrNftSykDTLwb2lvJTi/k2",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 318102,
-      "name": "Come Pick Me Up",
-      "url": "https://open.spotify.com/track/0lngUitwRDbvZ5yVO76dVN"
+      "duration_ms": 296724,
+      "name": "Oh My Sweet Carolina",
+      "url": "https://open.spotify.com/track/2Zcr8xMMZyNT5wMsj3SWmw"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 296724,
-      "name": "Oh My Sweet Carolina",
-      "url": "https://open.spotify.com/track/2Zcr8xMMZyNT5wMsj3SWmw"
+      "duration_ms": 318102,
+      "name": "Come Pick Me Up",
+      "url": "https://open.spotify.com/track/0lngUitwRDbvZ5yVO76dVN"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 162306,
-      "name": "Haunted House",
-      "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let It Ride",
         "url": "https://open.spotify.com/album/0MnbUy15v2y5Mqmbx8bsui"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 226036,
       "name": "Amy",
       "url": "https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 162306,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
     },
     {
       "added_at": null,
@@ -687,38 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Portrait",
-        "url": "https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Saturday Night Forever",
-      "url": "https://open.spotify.com/track/0tkHXjNXfoBs6GQAySVUvb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock N Roll",
-        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 252075,
-      "name": "Burning Photographs",
-      "url": "https://open.spotify.com/track/6PKNfjoN5MLXoqdTSjq6I4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sword & Stone",
         "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
       },
@@ -731,38 +699,6 @@
       "duration_ms": 169573,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Romeo & Juliet",
-        "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 249485,
-      "name": "Rollercoaster",
-      "url": "https://open.spotify.com/track/2ysAcfGtUNg4PUOSom6yd5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Is Hell",
-        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 318586,
-      "name": "The Shadowlands",
-      "url": "https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj"
     },
     {
       "added_at": null,
@@ -783,6 +719,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Romeo & Juliet",
+        "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 249485,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/2ysAcfGtUNg4PUOSom6yd5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock N Roll",
+        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 252075,
+      "name": "Burning Photographs",
+      "url": "https://open.spotify.com/track/6PKNfjoN5MLXoqdTSjq6I4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Self Portrait",
         "url": "https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl"
       },
@@ -792,9 +760,25 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 194666,
-      "name": "Virginia In The Rain",
-      "url": "https://open.spotify.com/track/60p5ukyTsVeDnwDp51HAad"
+      "duration_ms": 203333,
+      "name": "Saturday Night Forever",
+      "url": "https://open.spotify.com/track/0tkHXjNXfoBs6GQAySVUvb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 318586,
+      "name": "The Shadowlands",
+      "url": "https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 190213,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/35IXhsIR2ZgELZABz7iRVr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ashes & Fire",
+        "url": "https://open.spotify.com/album/1w2aDtXIq2HjpZQOt8JaRa"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 258973,
+      "name": "Dirty Rain",
+      "url": "https://open.spotify.com/track/4mOX3BzpPi3T2q1FM5Ycbj"
     }
   ],
   "unique_name": "This Is Ryan Adams",

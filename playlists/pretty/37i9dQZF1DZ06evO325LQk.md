@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 
 > This is SOPHIE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,205 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,210 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 | 15 | [OOH](https://open.spotify.com/track/5sW5xwuhgkvFA6CgY4key2) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [PRODUCT](https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY) | 2:31 |
 | 16 | [MSMSMSM](https://open.spotify.com/track/5g5y3bgYrajITEEYsLnkDq) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [MSMSMSM](https://open.spotify.com/album/1WbuDNYNFhXk3vMr24VWR4) | 3:35 |
 | 17 | [It's Okay To Cry](https://open.spotify.com/track/5djCX0bDd96N89Ayv5Y8Y2) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:50 |
-| 18 | [La Chíqui](https://open.spotify.com/track/51Xn6IYNyiYaKc8ECI5CUr) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:47 |
-| 19 | [Is It Cold In The Water? \(Flume & Eprom Remix\)](https://open.spotify.com/track/04X7LXANC1Vm78k4PhNmTV) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [Hi This Is Flume \(Mixtape\)](https://open.spotify.com/album/0enl6lyotKB8LKlUo5m2oJ) | 4:47 |
+| 18 | [Is It Cold In The Water? \(Flume & Eprom Remix\)](https://open.spotify.com/track/04X7LXANC1Vm78k4PhNmTV) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [Hi This Is Flume \(Mixtape\)](https://open.spotify.com/album/0enl6lyotKB8LKlUo5m2oJ) | 4:47 |
+| 19 | [La Chíqui](https://open.spotify.com/track/51Xn6IYNyiYaKc8ECI5CUr) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:47 |
 | 20 | [UNISIL](https://open.spotify.com/track/5khNs3STHWSxRI0CczJzqM) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [PRODUCT](https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY) | 2:06 |
 | 21 | [Infatuation](https://open.spotify.com/track/3UYjzTbFu1qJjxkgktKXJC) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 4:40 |
 | 22 | [Eeehhh](https://open.spotify.com/track/6tDPoIyvMNXeA597qtxDPN) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Nothing More to Say](https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi) | 4:41 |
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 | 37 | [Gallop \(feat\. Evita Manji\)](https://open.spotify.com/track/3fXgSZ7VbhZugr60ANeurK) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Evita Manji](https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 1:57 |
 | 38 | [Push Emission \(Whore Moans\)](https://open.spotify.com/track/0Dpc620TAbro4ic3aRVRYF) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR) | 5:27 |
 | 39 | [Why Lies \(feat\. BC Kingdom and LIZ\)](https://open.spotify.com/track/3Jo0w1uct8LO8vY7z21hLi) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 4:19 |
-| 40 | [Cold World](https://open.spotify.com/track/1N5PpWpMl66VDyhJ9bNfg5) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR) | 4:25 |
+| 40 | [Cold World](https://open.spotify.com/track/0PAQt9xBDPg2010l2KJmkY) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 4:25 |
 
-Snapshot ID: `aeqygAAAAABZoPtHKtU2I/70wno21ntq`
+Snapshot ID: `aewEAAAAAADeVgFu5wfcpaYUPFg2g1t8`

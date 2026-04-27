@@ -1,6 +1,6 @@
 {
   "description": "The greatest New Wave songs through the decades. Cover: Blondie",
-  "num_followers": 981660,
+  "num_followers": 981808,
   "original_name": "Essential New Wave",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-01-23 03:03:14",
       "album": {
-        "name": "Forever Now",
-        "url": "https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV"
-      },
-      "artists": [
-        {
-          "name": "The Psychedelic Furs",
-          "url": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe"
-        }
-      ],
-      "duration_ms": 213973,
-      "name": "Love My Way",
-      "url": "https://open.spotify.com/track/4dk40nfaQav6b4ZsJ9OYUo"
-    },
-    {
-      "added_at": "2026-01-23 03:03:14",
-      "album": {
         "name": "Burning Down the House / I Get Wild / Wild Gravity",
         "url": "https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 241920,
       "name": "Burning Down the House",
       "url": "https://open.spotify.com/track/2VNfJpwdEQBLyXajaa6LWT"
+    },
+    {
+      "added_at": "2026-01-23 03:03:14",
+      "album": {
+        "name": "Forever Now",
+        "url": "https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV"
+      },
+      "artists": [
+        {
+          "name": "The Psychedelic Furs",
+          "url": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe"
+        }
+      ],
+      "duration_ms": 213973,
+      "name": "Love My Way",
+      "url": "https://open.spotify.com/track/4dk40nfaQav6b4ZsJ9OYUo"
     },
     {
       "added_at": "2026-01-23 03:03:14",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-01-23 03:03:14",
       "album": {
-        "name": "This Year's Model",
-        "url": "https://open.spotify.com/album/0mUFefHSr0Ovi9vNcUGppt"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Pump It Up",
-      "url": "https://open.spotify.com/track/0JgMHia55MBfhfqZIRi3kF"
-    },
-    {
-      "added_at": "2026-01-23 03:03:14",
-      "album": {
         "name": "Special Beat Service (Remastered)",
         "url": "https://open.spotify.com/album/4Y1DZv5OK6rg4ljw2Oj6wP"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 213933,
       "name": "Save It For Later",
       "url": "https://open.spotify.com/track/5rBOBI3INEw0u0rwNNGib5"
+    },
+    {
+      "added_at": "2026-01-23 03:03:14",
+      "album": {
+        "name": "This Year's Model",
+        "url": "https://open.spotify.com/album/0mUFefHSr0Ovi9vNcUGppt"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/0JgMHia55MBfhfqZIRi3kF"
     }
   ],
   "unique_name": "Essential New Wave",

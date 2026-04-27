@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Jea Mira
 
-815 songs - 1 day 15 hr 47 min
+817 songs - 1 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [bilet beze mnie](https://open.spotify.com/track/3kZcv5aJNHdGWTe565b2On) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf), [dybiński](https://open.spotify.com/artist/39Mn9rf5qlNOjnaeu6O5RP) | [bilet beze mnie](https://open.spotify.com/album/21kMgZgkNc6AtBG86VnxMZ) | 2:50 | 2025-02-20 | 2025-05-16 |
 | [Bliżej Niż Zwykle](https://open.spotify.com/track/1q4y9p21w6zhimnoC1ksiK) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Bliżej Niż Zwykle](https://open.spotify.com/album/66MZckGBmRYWcNmGODUtxI) | 3:40 | 2024-12-20 | 2025-03-01 |
 | [blokowiska](https://open.spotify.com/track/03Mok6f5NvRhv6cmPsytT8) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al) | [blokowiska](https://open.spotify.com/album/2nOIjjbgDjziQ5fzYsxAEy) | 3:28 | 2024-06-28 | 2024-08-02 |
+| [BLOODY MARY](https://open.spotify.com/track/445swxbKlkXgrIbRPpPYrL) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [BLURRY](https://open.spotify.com/album/4KnNtQ9m2ya5CVz4HdDcqU) | 3:02 | 2026-04-23 |  |
 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2025-01-23 | 2025-02-07 |
 | [Blue Monday](https://open.spotify.com/track/3gpzozDyWN8dFBLLvz0NLN) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Blue Monday](https://open.spotify.com/album/1ku1kT9D2zCWfrh6wLRPY6) | 4:34 | 2026-01-16 | 2026-02-06 |
 | [Bluszcz](https://open.spotify.com/track/6SOIWU78SJG0cpRk9oUNaO) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA) | [Bluszcz](https://open.spotify.com/album/4im0Q6x4U3bJ1Zrz0U8fQr) | 3:31 | 2026-02-19 | 2026-03-22 |
@@ -127,7 +128,7 @@
 | [chłodniejsze noce](https://open.spotify.com/track/2MI9NuIHwCn6aLf90erAtQ) | [Seweryn](https://open.spotify.com/artist/3GpmeiPTFU97GPeokRl0RZ) | [chłodniejsze noce](https://open.spotify.com/album/1WJlceX1m1d2Qp4MigRlZZ) | 2:10 | 2024-07-25 | 2024-08-31 |
 | [chłopcy](https://open.spotify.com/track/4BupR2P5QwoQNudwGNz2f4) | [RYSIA](https://open.spotify.com/artist/3sobbRn7Mx3TM6HAACPYTp) | [chłopcy](https://open.spotify.com/album/0HyxlVOaa4Cf7KTSdDGzWN) | 2:24 | 2024-06-28 | 2024-07-19 |
 | [Ciarki](https://open.spotify.com/track/1wxdw5LIrYTJiURdxfwlfk) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Ciarki](https://open.spotify.com/album/4a3miPuMVYQHWvjev8qMHy) | 3:52 | 2025-07-03 | 2025-11-05 |
-| [Cienie Przeszłości](https://open.spotify.com/track/6hoBYZ9kZiBWrwMGWrBdqo) | [Jeremi Sikorski](https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw) | [Cienie Przeszłości](https://open.spotify.com/album/5ZrpZyPmuPY9nkhTivObsX) | 2:46 | 2026-01-22 |  |
+| [Cienie Przeszłości](https://open.spotify.com/track/6hoBYZ9kZiBWrwMGWrBdqo) | [Jeremi Sikorski](https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw) | [Cienie Przeszłości](https://open.spotify.com/album/5ZrpZyPmuPY9nkhTivObsX) | 2:46 | 2026-01-22 | 2026-04-27 |
 | [Cinnamon](https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Cinnamon](https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY) | 3:10 | 2026-04-23 |  |
 | [cisza nocna](https://open.spotify.com/track/6c6lldByHVVBfqha25sOor) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [cisza nocna](https://open.spotify.com/album/4QEgNqclBN0zi57MznoAZr) | 3:02 | 2026-03-12 |  |
 | [ciut za bardzo](https://open.spotify.com/track/1cfhGqNhInqt31NyvuF4vB) | [Kacper Garncarz](https://open.spotify.com/artist/0mU3KNJmSgtwHH6D6UHs2V) | [ciut za bardzo](https://open.spotify.com/album/3GGGhT2VKHSNSwYJhpK1bG) | 2:27 | 2025-04-24 | 2025-06-06 |
@@ -142,7 +143,7 @@
 | [comeback!](https://open.spotify.com/track/5fCioQ9fV5gDORRTRTC0j7) | [bango balenci](https://open.spotify.com/artist/4BRchUufCww3elXTIG9nAE), [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [comeback!](https://open.spotify.com/album/5mUXseiDHWqq7GeGte41aq) | 2:16 | 2025-04-17 | 2025-06-06 |
 | [coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 | 2025-01-30 | 2025-03-21 |
 | [Cozy](https://open.spotify.com/track/5JXteAJoYA7ulRz8t9Ehay) | [Iga Kumka](https://open.spotify.com/artist/59nH7LKqK561XQ2xfLnXeL) | [KC](https://open.spotify.com/album/4xp6k5LYGZppyFjPXJ6hQW) | 2:27 | 2026-04-02 | 2026-04-10 |
-| [Coś mi jeszcze opowiedz](https://open.spotify.com/track/1D0eqSjxCu4p80XkDx3ndk) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Linie czasu](https://open.spotify.com/album/3WyD37AbsUeWRAwzpXGOiU) | 2:30 | 2026-03-26 |  |
+| [Coś mi jeszcze opowiedz](https://open.spotify.com/track/1D0eqSjxCu4p80XkDx3ndk) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Linie czasu](https://open.spotify.com/album/3WyD37AbsUeWRAwzpXGOiU) | 2:30 | 2026-03-26 | 2026-04-27 |
 | [Cruel World](https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ) | 3:26 | 2026-03-12 | 2026-03-20 |
 | [cytryny](https://open.spotify.com/track/2kALiinvsN4vscBG29IvL7) | [villaz](https://open.spotify.com/artist/7Dgc5VSOtvobxlOOmNsvJp), [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U) | [cytryny](https://open.spotify.com/album/7ff1IXrHp9ownWMMZC2KdK) | 4:24 | 2025-01-23 | 2025-02-21 |
 | [Czas](https://open.spotify.com/track/7qj1lu6yxDl5GTnSItuIdh) | [Filip Max](https://open.spotify.com/artist/2Af5aejlBF2UrIn1xmPWJ5) | [Czas](https://open.spotify.com/album/0W6CLUac2XfDjfURHOzF4V) | 2:06 | 2025-09-30 | 2025-11-02 |
@@ -747,6 +748,7 @@
 | [What do you want from me?](https://open.spotify.com/track/14pcgxHEt0jB4bUU1JqMej) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [What do you want from me?](https://open.spotify.com/album/6dnpMvHn0bCj5ucu3QIhRG) | 2:57 | 2024-08-22 | 2024-10-12 |
 | [what's left unsaid](https://open.spotify.com/track/1l8CegP9zJ9s832gT3o1qX) | [maja matusiak](https://open.spotify.com/artist/6wr9tdybLl2G2w164luQxS), [Michał Furman](https://open.spotify.com/artist/52cvVYrxcCx4HhGIvlKDS7) | [what's left unsaid](https://open.spotify.com/album/4eekdqyG6U0BGsYhlOT8oK) | 4:25 | 2025-01-23 | 2025-02-23 |
 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-01-30 | 2025-04-25 |
+| [Why Am I Here](https://open.spotify.com/track/5BaG5aMYeyOCfix0eTJXKz) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Sensitive to the room](https://open.spotify.com/album/2HD4BmFejncyUP0fhoes6Q) | 3:17 | 2026-04-23 |  |
 | [Why she's better](https://open.spotify.com/track/6JvAJgRYNpMG53GjPThcE1) | [Ola Olszewska](https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b) | [Czy to nadal ja?](https://open.spotify.com/album/6ZxCc5LCfmblibKjhuUMyv) | 2:39 | 2024-06-28 | 2024-07-12 |
 | [WHY WHY WHY](https://open.spotify.com/track/6Jv07pdvSqhiKf6mo98jtw) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [WHY WHY WHY](https://open.spotify.com/album/0YBTSoz2tH1eJGg2xGTf1y) | 2:43 | 2026-01-08 | 2026-04-10 |
 | [Wiem co z nami będzie](https://open.spotify.com/track/1Hcn4nkvEolgue5ZzkN4cj) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Wiem co z nami będzie](https://open.spotify.com/album/0Na93OlcBPkgdXFS3Wrc7V) | 3:20 | 2025-08-19 | 2025-11-07 |

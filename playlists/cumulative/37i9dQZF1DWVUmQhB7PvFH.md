@@ -4,7 +4,7 @@
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 蔡依林 \(JOLIN\)
 
-285 songs - 20 hr 44 min
+286 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [太聰明](https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [吉他手](https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR) | 4:23 | 2024-02-19 |  |
 | [失去](https://open.spotify.com/track/1VXEpJWZyzMv94LN6rMEsh) | [同恩](https://open.spotify.com/artist/45YS6WTdex4FqRvjWHhDho) | [做自己](https://open.spotify.com/album/2cvrIL7JVWOmjjlswtG7Jv) | 4:59 | 2024-05-27 | 2024-08-19 |
 | [失戀無罪](https://open.spotify.com/track/2s96YKKpfBUbQP3lJuhkfX) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [失戀無罪](https://open.spotify.com/album/7gHrAaQilQVA4XF0adabZX) | 4:06 | 2025-12-29 |  |
+| [失落沙洲](https://open.spotify.com/track/2MBFevxaJ6bX6Lp7jt3UG1) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [徐佳瑩LaLa首張創作專輯](https://open.spotify.com/album/3swRaeU1n5aidOutReHHcO) | 4:59 | 2026-02-09 |  |
 | [好久不見](https://open.spotify.com/track/7qtM492xyqdbh2vt5vBKaD) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [認了吧](https://open.spotify.com/album/0o999KbXQDQREsY9VLerc5) | 4:08 | 2025-11-03 | 2026-02-04 |
 | [好朋友](https://open.spotify.com/track/2JQcuQGEXclxphbS7XUc2j) | [Show Luo](https://open.spotify.com/artist/33ApZ6LzfimooQNIKqf4jo) | [SPESHOW](https://open.spotify.com/album/13QwA3KOFuFzsK9dyE7n7K) | 4:03 | 2024-01-15 | 2024-01-23 |
 | [如果你也聽說](https://open.spotify.com/track/3mWZefa0yfuRz0KjeeVIBU) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [Star](https://open.spotify.com/album/4eMAjsUbDOkARR5MVOLwQ8) | 5:13 | 2025-02-17 | 2025-09-12 |
@@ -164,7 +165,7 @@
 | [我心動了 \(feat\. 阿Ben\)](https://open.spotify.com/track/3aVcueovkHVAEXFkq9MS0J) | [Shunza](https://open.spotify.com/artist/2zXcyd0DsDOxZc1nSGepMb), [阿Ben](https://open.spotify.com/artist/4UClVidUVBALbLRhcumSqv) | [日日夜夜…我最愛的順子](https://open.spotify.com/album/6Hfk6RNO9AR42UG2gfuw25) | 4:56 | 2024-07-08 | 2024-08-06 |
 | [我想要說](https://open.spotify.com/track/4laqZlxlNBvOUEKITWRr7K) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [蔡旻佑首張創作專輯 19](https://open.spotify.com/album/3cyDc8JHTIUizviL48vrbf) | 3:48 | 2024-06-24 | 2024-07-23 |
 | [我愛他](https://open.spotify.com/track/2qOitAAyMgHOs0cMilqf8k) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [夜貓](https://open.spotify.com/album/1cw2qn3JtkIhDYJMCexYLs) | 4:42 | 2024-05-27 | 2025-10-21 |
-| [我愛你](https://open.spotify.com/track/6CKLOHuoNU6hfAxlQVzRlL) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [100種生活](https://open.spotify.com/album/5VbzNvDsj3O484w1x4oScV) | 4:45 | 2025-12-22 |  |
+| [我愛你](https://open.spotify.com/track/6CKLOHuoNU6hfAxlQVzRlL) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [100種生活](https://open.spotify.com/album/5VbzNvDsj3O484w1x4oScV) | 4:45 | 2025-12-22 | 2026-04-27 |
 | [我相信](https://open.spotify.com/track/5Vno9JgXecYMq0HeCiuDos) | [楊培安](https://open.spotify.com/artist/5zxmrXIwrLuSfIJM3Dz6y1) | [午夜兩點半的我](https://open.spotify.com/album/3HkkCV2VJbRXJ2mTiUPHqM) | 4:07 | 2024-04-01 | 2024-04-30 |
 | [我知道](https://open.spotify.com/track/7iXPSlDdL0EQwPFtUR8ye1) | [BY2](https://open.spotify.com/artist/3DOs7Bsr9x4eJHqv6ViPvR) | [TWINS](https://open.spotify.com/album/5F52Aeei95YaoFa7yai2Rr) | 4:10 | 2025-10-20 |  |
 | [我要快樂](https://open.spotify.com/track/30QjAKDjn3auoVFiYzzhlV) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [我要快樂 \(Deluxe Version\)](https://open.spotify.com/album/1fsechrfx3xbd80bQcXzyM) | 4:11 | 2026-01-26 | 2026-02-03 |

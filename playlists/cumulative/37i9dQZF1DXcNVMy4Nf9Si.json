@@ -1267,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "We Are All Trying Here (Original Soundtrack) Part.3",
+        "url": "https://open.spotify.com/album/3zE1rg1hYnr1WHQVWpd15P"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/1EjyOE9pgRwUmNa5OUmGjB"
+    },
+    {
+      "album": {
         "name": "Rain - SM STATION",
         "url": "https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L"
       },

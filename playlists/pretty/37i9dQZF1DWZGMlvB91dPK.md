@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,919 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,921 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lies](https://open.spotify.com/track/2WCbUIIPHbX6t9M0UH0p4S) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Dressed Like Boys](https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn) | 3:47 |
 | 2 | [3 DÉFAUTS](https://open.spotify.com/track/1Ik7PTKQ5vcw3UU9UY57SL) | [James Loup](https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE) | [3 DÉFAUTS](https://open.spotify.com/album/1wduUXAxvjWyIU6SdYke90) | 3:32 |
-| 3 | [angel candles](https://open.spotify.com/track/7cl1kr7pqaXdDov0lf6cQq) | [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr), [notinbed](https://open.spotify.com/artist/0e7T2sPaxQSpePLh4AhMg8) | [angel candles](https://open.spotify.com/album/5nVv2lLlDlzEREyU2wnTiZ) | 2:09 |
-| 4 | [Brillance](https://open.spotify.com/track/0nBSgd2RXDySMDaAD73Oei) | [Juste Shani](https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR) | [Diamant Noir](https://open.spotify.com/album/5ivnbDMt0KAODnXgShWpIs) | 1:59 |
+| 3 | [Brillance](https://open.spotify.com/track/0nBSgd2RXDySMDaAD73Oei) | [Juste Shani](https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR) | [Diamant Noir](https://open.spotify.com/album/5ivnbDMt0KAODnXgShWpIs) | 1:59 |
+| 4 | [angel candles](https://open.spotify.com/track/7cl1kr7pqaXdDov0lf6cQq) | [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr), [notinbed](https://open.spotify.com/artist/0e7T2sPaxQSpePLh4AhMg8) | [angel candles](https://open.spotify.com/album/5nVv2lLlDlzEREyU2wnTiZ) | 2:09 |
 | 5 | [Comme les autres](https://open.spotify.com/track/3WMwvWAAdicQFiTCvdAZd3) | [Peet](https://open.spotify.com/artist/7u4o1K3Qui9DmeWqSMsa6l), [White Corbeau](https://open.spotify.com/artist/4Fx8fH6sfgkkn3HVyWdmZH) | [À demain](https://open.spotify.com/album/6ZsgRFJ41qP4MSXbm1vPta) | 3:27 |
 | 6 | [Jaouad](https://open.spotify.com/track/6W3hSP8obngau8e6yU1AAr) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Dressed Like Boys](https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn) | 5:01 |
 | 7 | [25 EUROS](https://open.spotify.com/track/7CuqqjkW4d0BDelI7bpofl) | [James Loup](https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE) | [25 EUROS](https://open.spotify.com/album/162WefLM0ISqUY9rB6HwcG) | 2:04 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 16 | [GROUND](https://open.spotify.com/track/0zve65Kt1H8j1Uslli8Qxp) | [marta](https://open.spotify.com/artist/2o9cmYz3Qyeow09POTgTlt) | [ROOM](https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC) | 5:06 |
 | 17 | [Resign](https://open.spotify.com/track/2SXFCcO0G7Wav918WD5NS1) | [NASTYJOE](https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV) | [Deep Side of Happiness](https://open.spotify.com/album/65kAQMfuIRnWX4o9aMEEYe) | 3:10 |
 | 18 | [je dirai rien](https://open.spotify.com/track/74Dk7LO4ohXbdgs08c3w5R) | [Noée](https://open.spotify.com/artist/4cT3LchKrO3zxJNHq4cK1Q) | [je dirai rien](https://open.spotify.com/album/3568QRUYByhWX8ERUy1mA1) | 3:07 |
-| 19 | [wanderlust](https://open.spotify.com/track/4mhDe4IN1xEuDSogRvSfEA) | [naya mö](https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi) | [wanderlust](https://open.spotify.com/album/4dtJBzpVDJYt9kR7oId3O8) | 3:04 |
-| 20 | [To Get Fucked Up](https://open.spotify.com/track/7Mw0GVjk2NyXXk0cmR4M96) | [Jasmine Not Jafar](https://open.spotify.com/artist/1P8cIgzmOiorjmyVG6a8Eg) | [To Get Fucked Up](https://open.spotify.com/album/05mc5DP88eRyhoH9qCArzQ) | 4:09 |
+| 19 | [To Get Fucked Up](https://open.spotify.com/track/7Mw0GVjk2NyXXk0cmR4M96) | [Jasmine Not Jafar](https://open.spotify.com/artist/1P8cIgzmOiorjmyVG6a8Eg) | [To Get Fucked Up](https://open.spotify.com/album/05mc5DP88eRyhoH9qCArzQ) | 4:09 |
+| 20 | [wanderlust](https://open.spotify.com/track/4mhDe4IN1xEuDSogRvSfEA) | [naya mö](https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi) | [wanderlust](https://open.spotify.com/album/4dtJBzpVDJYt9kR7oId3O8) | 3:04 |
 | 21 | [SHAKE](https://open.spotify.com/track/61VTG6BfF8TI9g869Udwv8) | [marta](https://open.spotify.com/artist/2o9cmYz3Qyeow09POTgTlt) | [ROOM](https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC) | 6:15 |
 | 22 | [Shade up My Blue](https://open.spotify.com/track/42basUZpPpLGTyQuvnKS7B) | [Blue Katrice](https://open.spotify.com/artist/4kMdQKGCjwNnQj6HKBP3xx) | [Shade up My Blue](https://open.spotify.com/album/68XRLmXS3BsRFQhduxAKDG) | 3:40 |
 | 23 | [La patte](https://open.spotify.com/track/3Po4bhUWHwV4JVCF3HeODp) | [Gen](https://open.spotify.com/artist/5TF46e3BqrK9NAOAUm608G) | [ECHO ECHO](https://open.spotify.com/album/4LFLxS7qIsnJKD9h9nxJc0) | 2:33 |

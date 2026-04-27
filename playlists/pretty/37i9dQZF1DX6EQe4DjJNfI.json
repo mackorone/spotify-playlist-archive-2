@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Ryan Fidelis",
-  "num_followers": 187091,
+  "num_followers": 187112,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -71,22 +71,6 @@
     {
       "added_at": "2026-04-24 03:02:26",
       "album": {
-        "name": "Fragmentos",
-        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 165249,
-      "name": "Whiskey Com \u00c1gua de Choro",
-      "url": "https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E"
-    },
-    {
-      "added_at": "2026-04-24 03:02:26",
-      "album": {
         "name": "Tudo Que Eu Sinto Faz Barulho",
         "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 205952,
       "name": "Doce, Dengosa, Polida",
       "url": "https://open.spotify.com/track/00pQrAbEfRDCFbkCe9NsGM"
+    },
+    {
+      "added_at": "2026-04-24 03:02:26",
+      "album": {
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 165249,
+      "name": "Whiskey Com \u00c1gua de Choro",
+      "url": "https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E"
     },
     {
       "added_at": "2026-04-24 03:02:26",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-04-24 03:02:26",
       "album": {
-        "name": "Para\u00edso",
-        "url": "https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 205884,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ"
-    },
-    {
-      "added_at": "2026-04-24 03:02:26",
-      "album": {
         "name": "Noir",
         "url": "https://open.spotify.com/album/75bTLkQ8DYiTG70s8YU8BE"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 171361,
       "name": "Erro Fatal",
       "url": "https://open.spotify.com/track/0nLgUFirsiwYuxdPBWpVt3"
+    },
+    {
+      "added_at": "2026-04-24 03:02:26",
+      "album": {
+        "name": "Para\u00edso",
+        "url": "https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 205884,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ"
     },
     {
       "added_at": "2026-04-24 03:02:26",
@@ -363,6 +363,26 @@
     {
       "added_at": "2026-04-24 03:02:26",
       "album": {
+        "name": "Melhor Amiga do Tempo (com Maru2D)",
+        "url": "https://open.spotify.com/album/6UkRen2khd0V2T2d5iponC"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        }
+      ],
+      "duration_ms": 150618,
+      "name": "Melhor Amiga do Tempo (com Maru2D)",
+      "url": "https://open.spotify.com/track/7KvSGi2vsTNM7O1dsrfTsK"
+    },
+    {
+      "added_at": "2026-04-24 03:02:26",
+      "album": {
         "name": "Despacha",
         "url": "https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 200083,
       "name": "Dona Do Mundo (P\u00farpura Session)",
       "url": "https://open.spotify.com/track/3V18oJelSIuz0gjrFKO7tQ"
-    },
-    {
-      "added_at": "2026-04-24 03:02:26",
-      "album": {
-        "name": "Melhor Amiga do Tempo (com Maru2D)",
-        "url": "https://open.spotify.com/album/6UkRen2khd0V2T2d5iponC"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        },
-        {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
-        }
-      ],
-      "duration_ms": 150618,
-      "name": "Melhor Amiga do Tempo (com Maru2D)",
-      "url": "https://open.spotify.com/track/7KvSGi2vsTNM7O1dsrfTsK"
     },
     {
       "added_at": "2026-04-24 03:02:26",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-04-24 03:02:26",
       "album": {
+        "name": "Que Confus\u00e3o, Amor - Spotify Singles",
+        "url": "https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 174417,
+      "name": "Que Confus\u00e3o, Amor - Spotify Singles",
+      "url": "https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6"
+    },
+    {
+      "added_at": "2026-04-24 03:02:26",
+      "album": {
         "name": "a1",
         "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
       },
@@ -503,42 +519,6 @@
     {
       "added_at": "2026-04-24 03:02:26",
       "album": {
-        "name": "Que Confus\u00e3o, Amor - Spotify Singles",
-        "url": "https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 174417,
-      "name": "Que Confus\u00e3o, Amor - Spotify Singles",
-      "url": "https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6"
-    },
-    {
-      "added_at": "2026-04-24 03:02:26",
-      "album": {
-        "name": "Busco Romance Love Show (Deluxe)",
-        "url": "https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 159616,
-      "name": "NEON",
-      "url": "https://open.spotify.com/track/74kTrpeeUOLOclJfZLub4n"
-    },
-    {
-      "added_at": "2026-04-24 03:02:26",
-      "album": {
         "name": "Teu Sinal",
         "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 189230,
       "name": "Teu Sinal",
       "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
+    },
+    {
+      "added_at": "2026-04-24 03:02:26",
+      "album": {
+        "name": "Busco Romance Love Show (Deluxe)",
+        "url": "https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 159616,
+      "name": "NEON",
+      "url": "https://open.spotify.com/track/74kTrpeeUOLOclJfZLub4n"
     },
     {
       "added_at": "2026-04-24 03:02:26",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-04-24 03:02:26",
       "album": {
+        "name": "FORA DA LEI",
+        "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        }
+      ],
+      "duration_ms": 186396,
+      "name": "FORA DA LEI",
+      "url": "https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv"
+    },
+    {
+      "added_at": "2026-04-24 03:02:26",
+      "album": {
         "name": "Poema Sujo",
         "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 182000,
       "name": "Poema Sujo",
       "url": "https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct"
-    },
-    {
-      "added_at": "2026-04-24 03:02:26",
-      "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/0F3j9jMNLDWaN2y6OB8L2a"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 167341,
-      "name": "Sobrenatural",
-      "url": "https://open.spotify.com/track/5E60i7KlJHPaTHOLkqprMM"
     },
     {
       "added_at": "2026-04-24 03:02:26",
@@ -655,6 +655,38 @@
       "duration_ms": 273777,
       "name": "Ouvir Voc\u00ea (Remix)",
       "url": "https://open.spotify.com/track/2rFdrg0CX3R2TGxPWe1uph"
+    },
+    {
+      "added_at": "2026-04-24 03:02:26",
+      "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/0F3j9jMNLDWaN2y6OB8L2a"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 167341,
+      "name": "Sobrenatural",
+      "url": "https://open.spotify.com/track/5E60i7KlJHPaTHOLkqprMM"
+    },
+    {
+      "added_at": "2026-04-24 03:02:26",
+      "album": {
+        "name": "Me Deixa Ser Pausa",
+        "url": "https://open.spotify.com/album/1YGx8ztMd3xEWsGX2P6ln0"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "duration_ms": 127389,
+      "name": "Me Deixa Ser Pausa",
+      "url": "https://open.spotify.com/track/3lHmzv6l0t3xHHl4LWvExn"
     },
     {
       "added_at": "2026-04-24 03:02:26",
@@ -703,22 +735,22 @@
     {
       "added_at": "2026-04-24 03:02:26",
       "album": {
-        "name": "Amar\u00edssima V2 (Remix)",
-        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
+        "name": "Te Faria",
+        "url": "https://open.spotify.com/album/7fj562PkAXglCzk3v3B2vW"
       },
       "artists": [
         {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+          "name": "Ellen Ol\u00e9ria",
+          "url": "https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B"
         },
         {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
         }
       ],
-      "duration_ms": 187733,
-      "name": "Falar De Amor - Remix",
-      "url": "https://open.spotify.com/track/6VuWmaHvFidnEvsa2FYHbd"
+      "duration_ms": 184059,
+      "name": "Te Faria",
+      "url": "https://open.spotify.com/track/2fp1et9og5rgwuT7osCkxo"
     },
     {
       "added_at": "2026-04-24 03:02:26",
@@ -735,6 +767,26 @@
       "duration_ms": 145185,
       "name": "Castigo",
       "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
+    },
+    {
+      "added_at": "2026-04-24 03:02:26",
+      "album": {
+        "name": "Amar\u00edssima V2 (Remix)",
+        "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Falar De Amor - Remix",
+      "url": "https://open.spotify.com/track/6VuWmaHvFidnEvsa2FYHbd"
     },
     {
       "added_at": "2026-04-24 03:02:26",
@@ -799,26 +851,6 @@
     {
       "added_at": "2026-04-24 03:02:26",
       "album": {
-        "name": "Te Faria",
-        "url": "https://open.spotify.com/album/7fj562PkAXglCzk3v3B2vW"
-      },
-      "artists": [
-        {
-          "name": "Ellen Ol\u00e9ria",
-          "url": "https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B"
-        },
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        }
-      ],
-      "duration_ms": 184059,
-      "name": "Te Faria",
-      "url": "https://open.spotify.com/track/2fp1et9og5rgwuT7osCkxo"
-    },
-    {
-      "added_at": "2026-04-24 03:02:26",
-      "album": {
         "name": "Dejavu",
         "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
       },
@@ -863,6 +895,22 @@
     {
       "added_at": "2026-04-24 03:02:26",
       "album": {
+        "name": "Sonhei com Voc\u00ea",
+        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 261144,
+      "name": "Sonhei com Voc\u00ea",
+      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
+    },
+    {
+      "added_at": "2026-04-24 03:02:26",
+      "album": {
         "name": "Jeito Certo",
         "url": "https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx"
       },
@@ -899,22 +947,6 @@
     {
       "added_at": "2026-04-24 03:02:26",
       "album": {
-        "name": "Sonhei com Voc\u00ea",
-        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 261144,
-      "name": "Sonhei com Voc\u00ea",
-      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
-    },
-    {
-      "added_at": "2026-04-24 03:02:26",
-      "album": {
         "name": "perco o ar",
         "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
       },
@@ -931,38 +963,6 @@
       "duration_ms": 204604,
       "name": "perco o ar",
       "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
-    },
-    {
-      "added_at": "2026-04-24 03:02:26",
-      "album": {
-        "name": "FORA DA LEI",
-        "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        }
-      ],
-      "duration_ms": 186396,
-      "name": "FORA DA LEI",
-      "url": "https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv"
-    },
-    {
-      "added_at": "2026-04-24 03:02:26",
-      "album": {
-        "name": "Me Deixa Ser Pausa",
-        "url": "https://open.spotify.com/album/1YGx8ztMd3xEWsGX2P6ln0"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        }
-      ],
-      "duration_ms": 127389,
-      "name": "Me Deixa Ser Pausa",
-      "url": "https://open.spotify.com/track/3lHmzv6l0t3xHHl4LWvExn"
     },
     {
       "added_at": "2026-04-24 03:02:26",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2026-04-24 03:02:26",
       "album": {
-        "name": "Al-Kimiya, Ato I",
-        "url": "https://open.spotify.com/album/4JDMKjOO4UvoOof9WhJx5s"
-      },
-      "artists": [
-        {
-          "name": "Alt Niss",
-          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
-        },
-        {
-          "name": "Nill",
-          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
-        }
-      ],
-      "duration_ms": 256017,
-      "name": "MergulhoFundo",
-      "url": "https://open.spotify.com/track/4L9LVdgCBNM16NWUOwooog"
-    },
-    {
-      "added_at": "2026-04-24 03:02:26",
-      "album": {
         "name": "Novehoras",
         "url": "https://open.spotify.com/album/3YAOfa21Gfl5g2cdX4uogw"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 211003,
       "name": "Novehoras",
       "url": "https://open.spotify.com/track/5blBfJbeLYetNHCmYIEzMu"
+    },
+    {
+      "added_at": "2026-04-24 03:02:26",
+      "album": {
+        "name": "Al-Kimiya, Ato I",
+        "url": "https://open.spotify.com/album/4JDMKjOO4UvoOof9WhJx5s"
+      },
+      "artists": [
+        {
+          "name": "Alt Niss",
+          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
+        },
+        {
+          "name": "Nill",
+          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
+        }
+      ],
+      "duration_ms": 256017,
+      "name": "MergulhoFundo",
+      "url": "https://open.spotify.com/track/4L9LVdgCBNM16NWUOwooog"
     },
     {
       "added_at": "2026-04-24 03:02:26",
@@ -1383,6 +1383,34 @@
     {
       "added_at": "2026-04-24 03:02:26",
       "album": {
+        "name": "Noites 2",
+        "url": "https://open.spotify.com/album/2npsmCrQ6vbTV5FwWsp1Rj"
+      },
+      "artists": [
+        {
+          "name": "Amxedx",
+          "url": "https://open.spotify.com/artist/0rP1RgNU08Y99fjfdwH3h0"
+        },
+        {
+          "name": "BIDUZEN",
+          "url": "https://open.spotify.com/artist/20tJsPo3GVroZHlbdXJ7nX"
+        },
+        {
+          "name": "Fresh Records",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        },
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 131404,
+      "name": "Noite",
+      "url": "https://open.spotify.com/track/0AY6y4ijEuoaveX7e9FTey"
+    },
+    {
+      "added_at": "2026-04-24 03:02:26",
+      "album": {
         "name": "Assome",
         "url": "https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c"
       },
@@ -1447,34 +1475,6 @@
       "duration_ms": 159375,
       "name": "Troco",
       "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
-    },
-    {
-      "added_at": "2026-04-24 03:02:26",
-      "album": {
-        "name": "Noites 2",
-        "url": "https://open.spotify.com/album/2npsmCrQ6vbTV5FwWsp1Rj"
-      },
-      "artists": [
-        {
-          "name": "Amxedx",
-          "url": "https://open.spotify.com/artist/0rP1RgNU08Y99fjfdwH3h0"
-        },
-        {
-          "name": "BIDUZEN",
-          "url": "https://open.spotify.com/artist/20tJsPo3GVroZHlbdXJ7nX"
-        },
-        {
-          "name": "Fresh Records",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
-        },
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 131404,
-      "name": "Noite",
-      "url": "https://open.spotify.com/track/0AY6y4ijEuoaveX7e9FTey"
     }
   ],
   "unique_name": "R&B Brasil",

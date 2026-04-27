@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Staring Through",
+        "url": "https://open.spotify.com/album/5AzBwdlhdSTfXcg9rMkAeW"
+      },
+      "artists": [
+        {
+          "name": "kudo",
+          "url": "https://open.spotify.com/artist/2Gq799yTibgF2YWweyB16G"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135886,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/737Oa2S39XDUB8AHLH2Z3z"
+    },
+    {
+      "album": {
         "name": "rainy evening",
         "url": "https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ"
       },
@@ -4484,7 +4502,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 161020,
       "name": "Nama",
       "url": "https://open.spotify.com/track/5uvMZMApFm7G5pVueAmXhu"
@@ -5017,6 +5035,24 @@
     },
     {
       "album": {
+        "name": "Memory Within A Dream",
+        "url": "https://open.spotify.com/album/5ExpE7QngmNtvMKrTS1dlc"
+      },
+      "artists": [
+        {
+          "name": "Ky akasha",
+          "url": "https://open.spotify.com/artist/4961tplpADAjhtfTzgBtKk"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194250,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/1JWufQk3gNEExqG4BmfSw1"
+    },
+    {
+      "album": {
         "name": "Sleeping Soul",
         "url": "https://open.spotify.com/album/0ke8WCdALew5qZUPHsgScT"
       },
@@ -5372,7 +5408,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 221832,
       "name": "rainy day",
       "url": "https://open.spotify.com/track/4qYZhVhOrj1SeuHbVAZJqj"
@@ -5698,7 +5734,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 164571,
       "name": "Samurai Spirit - Radio Edit",
       "url": "https://open.spotify.com/track/4R8Tmcj2qLMRP366PU0ahP"
@@ -6448,6 +6484,24 @@
       "duration_ms": 139298,
       "name": "Summer In Kyoto",
       "url": "https://open.spotify.com/track/6YamiHN9L1P5v9O4FVMNv1"
+    },
+    {
+      "album": {
+        "name": "Glowing",
+        "url": "https://open.spotify.com/album/4CNeazzSwuUXaNbRyj9vDj"
+      },
+      "artists": [
+        {
+          "name": "Yestalgia",
+          "url": "https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160769,
+      "name": "Summer Kisses",
+      "url": "https://open.spotify.com/track/7JCDlx0qMAMQYxJLKpmdTG"
     },
     {
       "album": {

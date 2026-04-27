@@ -4,7 +4,7 @@
 
 > Błogie dźwięki na powitanie słonecznych dni 🌷
 
-927 songs - 2 day 4 hr 2 min
+928 songs - 2 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,7 @@
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-06-28 | 2024-09-13 |
 | [frankfurt](https://open.spotify.com/track/5MwPuKf6Ww3IL7WVXTOjLf) | [Zagi](https://open.spotify.com/artist/2fLOBc2u4ihUBpfqumia4k) | [frankfurt](https://open.spotify.com/album/5NHa662rh3ENosyGrsmNyJ) | 3:14 | 2025-02-28 | 2025-03-08 |
 | [Fusy](https://open.spotify.com/track/1Zd1D4qz0j7MeLGnldflNc) | [Jakub Skorupa](https://open.spotify.com/artist/6T3v6RRLeCWcs4Sb47blaJ), [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Fusy](https://open.spotify.com/album/6cYlOyjd4JkVksN4XL95LI) | 4:08 | 2024-08-23 | 2024-09-28 |
-| [Get Go](https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Get Go](https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ) | 3:22 | 2026-03-13 |  |
+| [Get Go](https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Get Go](https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ) | 3:22 | 2026-03-13 | 2026-04-27 |
 | [Girl In The Orchestra](https://open.spotify.com/track/12l9XTMK21GZbjszAFlTo2) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Girl In The Orchestra](https://open.spotify.com/album/0Wgw9J708bA5yoIR87bJAC) | 3:12 | 2024-06-28 | 2024-07-12 |
 | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 | 2026-01-09 | 2026-03-14 |
 | [Girls Just Wanna Have Some](https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB) | 3:43 | 2024-06-28 | 2024-09-13 |
@@ -361,6 +361,7 @@
 | [KEEPITUP](https://open.spotify.com/track/0JRvK2JDWcQ6lduFvJgdCv) | [babyhats](https://open.spotify.com/artist/5cqRWXSEk4JOG5hUhQpgON) | [KEEPITUP](https://open.spotify.com/album/3a4aYhQKLDzfOTnVALdWeV) | 3:58 | 2025-11-14 | 2025-11-21 |
 | [Kiks](https://open.spotify.com/track/2PBL1iT96RCH7QDsaJaO9y) | [Blauka](https://open.spotify.com/artist/2ZgaoICJy1V38lHdzlVB8a) | [Kiks](https://open.spotify.com/album/2fH8e4eRciUmHPZzd1ycfa) | 4:02 | 2024-10-17 | 2024-10-26 |
 | [Killed For Sport](https://open.spotify.com/track/2T95r9PHIfBwRLGxEEz4aW) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Killed For Sport](https://open.spotify.com/album/1VZDqhQ0PHUGWfCLeutBeH) | 4:14 | 2025-02-28 | 2025-03-16 |
+| [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 | 2026-04-24 |  |
 | [KISS ME](https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [KISS ME](https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G) | 3:03 | 2026-01-16 | 2026-03-14 |
 | [Knife In The Heart](https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Knife In The Heart](https://open.spotify.com/album/3hUVYAg62w5WHRDCZOaG6A) | 2:57 | 2026-03-13 |  |
 | [Kochałam Cię na zabój](https://open.spotify.com/track/3rqc2nQH6h2iGpKQZWd74a) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Kochałam Cię na zabój](https://open.spotify.com/album/4q8A9oxDsSe8tY2gGKGFcE) | 4:04 | 2024-11-21 | 2024-12-20 |

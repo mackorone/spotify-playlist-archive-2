@@ -4,7 +4,7 @@
 
 > The new school \- Alternative R&B\. Cover: April + VISTA
 
-1,575 songs - 3 day 11 hr 3 min
+1,576 songs - 3 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,7 @@
 | [DAYDREAM](https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 3:01 | 2022-11-11 | 2023-11-20 |
 | [daydreams](https://open.spotify.com/track/28gOU6aiAGqn3INdkrbabZ) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [daydreams](https://open.spotify.com/album/3dSPH738SBPAvQB1aybD4f) | 2:40 | 2022-04-01 | 2022-04-06 |
 | [Daygo \(w/ gianni & kyle\)](https://open.spotify.com/track/1cXbG5cSc9jJMCyW2VnBBv) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [gianni & kyle](https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn) | [Daygo \(w/ gianni & kyle\)](https://open.spotify.com/album/0GGqUvHTZgiXPDnIsed3Gz) | 3:12 | 2022-04-01 | 2022-09-24 |
-| [dazed](https://open.spotify.com/track/6gSbVCL3fVK8TFq2WCheXI) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [dazed](https://open.spotify.com/album/0CzvO8hh3YJkaWHNb2g2Fz) | 3:20 | 2024-08-16 |  |
+| [dazed](https://open.spotify.com/track/6gSbVCL3fVK8TFq2WCheXI) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [dazed](https://open.spotify.com/album/0CzvO8hh3YJkaWHNb2g2Fz) | 3:20 | 2024-08-16 | 2026-04-27 |
 | [Dead Man Walking](https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Dead Man Walking](https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc) | 4:07 | 2021-03-19 | 2022-05-16 |
 | [deadman](https://open.spotify.com/track/5wT0AQeYT09WqR7r0eYZWs) | [Souly Had](https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO) | [deadman](https://open.spotify.com/album/3o7s3kTZToycxrqhtrAwxa) | 2:10 | 2022-12-02 | 2023-06-03 |
 | [Decisions](https://open.spotify.com/track/4BXSRihMONgWl0Df6fHQhE) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [Decisions](https://open.spotify.com/album/0ORJdgrpJczH1Etg8OhOP8) | 3:21 | 2024-01-26 | 2025-07-12 |
@@ -1304,6 +1304,7 @@
 | [SWEET / I THOUGHT YOU WANTED TO DANCE \(feat\. Brent Faiyaz & Fana Hues\)](https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 9:48 | 2021-06-25 | 2022-06-08 |
 | [SWEET GEORGIA](https://open.spotify.com/track/5gcr1NIWr4fgppRFvVVFqv) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv), [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC) | [TANGERINE](https://open.spotify.com/album/3Lgv3tNI5QAdRVzBOBq5YT) | 5:09 | 2023-09-01 | 2023-10-11 |
 | [Sweet Like](https://open.spotify.com/track/6Hj7gXUzQreDfSozI4QwbQ) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Moth](https://open.spotify.com/album/3QYrEoeYrBdBNrtsuoCor7) | 3:39 | 2024-06-14 | 2025-08-23 |
+| [sweet talk](https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [sweet talk](https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY) | 2:26 | 2026-04-24 |  |
 | [sweet thing](https://open.spotify.com/track/2CyzCewZZ1ilsGDClxWuA0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [sweet thing](https://open.spotify.com/album/4bBfdqQvPwbwKcxt7fXzpz) | 3:12 | 2021-03-19 | 2022-04-26 |
 | [sweetie \(feat\. Scribz Riley\)](https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [sweetie \(feat\. Scribz Riley\)](https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI) | 2:57 | 2022-07-29 | 2022-09-15 |
 | [Swim Away](https://open.spotify.com/track/6B9tR5pGZ4xciYuBcGHAFF) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Swim Away](https://open.spotify.com/album/7LRJ2p6pZsXVfKIyZIfaHE) | 3:25 | 2022-08-26 | 2022-09-03 |

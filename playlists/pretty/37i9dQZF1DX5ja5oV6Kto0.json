@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Yorkk & ARTSALGHUL",
-  "num_followers": 111447,
+  "num_followers": 111464,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -99,42 +99,6 @@
     {
       "added_at": "2026-04-24 00:01:40",
       "album": {
-        "name": "Ei voi (feat. Luwa.Mp4)",
-        "url": "https://open.spotify.com/album/2hdZSRF3c42AzLGRrCuvDG"
-      },
-      "artists": [
-        {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
-        },
-        {
-          "name": "Luwa.Mp4",
-          "url": "https://open.spotify.com/artist/6CS6NjMmo93ligNiiZ97LZ"
-        }
-      ],
-      "duration_ms": 190971,
-      "name": "Ei voi (feat. Luwa.Mp4)",
-      "url": "https://open.spotify.com/track/6xpZg3sfg49gNihQZGLsl1"
-    },
-    {
-      "added_at": "2026-04-24 00:01:40",
-      "album": {
-        "name": "SHAKE'A",
-        "url": "https://open.spotify.com/album/36eZ0yL8lksOYqPnJ66fpF"
-      },
-      "artists": [
-        {
-          "name": "Babble Hume",
-          "url": "https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP"
-        }
-      ],
-      "duration_ms": 140898,
-      "name": "SHAKE'A",
-      "url": "https://open.spotify.com/track/4n59HhKzaFoU3OBfTGyZe9"
-    },
-    {
-      "added_at": "2026-04-24 00:01:40",
-      "album": {
         "name": "No Excuses Deluxe",
         "url": "https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0"
       },
@@ -155,22 +119,54 @@
     {
       "added_at": "2026-04-24 00:01:40",
       "album": {
-        "name": "CYK BADDIE",
-        "url": "https://open.spotify.com/album/4qbJ8ygyU1kgB20ntWGEJZ"
+        "name": "SHAKE'A",
+        "url": "https://open.spotify.com/album/36eZ0yL8lksOYqPnJ66fpF"
       },
       "artists": [
         {
-          "name": "Luwa.Mp4",
-          "url": "https://open.spotify.com/artist/6CS6NjMmo93ligNiiZ97LZ"
-        },
-        {
-          "name": "JELEEL!",
-          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+          "name": "Babble Hume",
+          "url": "https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP"
         }
       ],
-      "duration_ms": 134579,
-      "name": "CYK BADDIE",
-      "url": "https://open.spotify.com/track/7ooAKezVfi3K3urbQfXXNq"
+      "duration_ms": 140898,
+      "name": "SHAKE'A",
+      "url": "https://open.spotify.com/track/4n59HhKzaFoU3OBfTGyZe9"
+    },
+    {
+      "added_at": "2026-04-24 00:01:40",
+      "album": {
+        "name": "Ei voi (feat. Luwa.Mp4)",
+        "url": "https://open.spotify.com/album/2hdZSRF3c42AzLGRrCuvDG"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        },
+        {
+          "name": "Luwa.Mp4",
+          "url": "https://open.spotify.com/artist/6CS6NjMmo93ligNiiZ97LZ"
+        }
+      ],
+      "duration_ms": 190971,
+      "name": "Ei voi (feat. Luwa.Mp4)",
+      "url": "https://open.spotify.com/track/6xpZg3sfg49gNihQZGLsl1"
+    },
+    {
+      "added_at": "2026-04-24 00:01:40",
+      "album": {
+        "name": "Isn't It Beautiful",
+        "url": "https://open.spotify.com/album/3PEaMD2ViMdFgjiSeLjcBK"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 156997,
+      "name": "Isn't It Beautiful",
+      "url": "https://open.spotify.com/track/02OZQgVAKaV0HE52l1eF0Y"
     },
     {
       "added_at": "2026-04-24 00:01:40",
@@ -215,18 +211,22 @@
     {
       "added_at": "2026-04-24 00:01:40",
       "album": {
-        "name": "Isn't It Beautiful",
-        "url": "https://open.spotify.com/album/3PEaMD2ViMdFgjiSeLjcBK"
+        "name": "CYK BADDIE",
+        "url": "https://open.spotify.com/album/4qbJ8ygyU1kgB20ntWGEJZ"
       },
       "artists": [
         {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+          "name": "Luwa.Mp4",
+          "url": "https://open.spotify.com/artist/6CS6NjMmo93ligNiiZ97LZ"
+        },
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
         }
       ],
-      "duration_ms": 156997,
-      "name": "Isn't It Beautiful",
-      "url": "https://open.spotify.com/track/02OZQgVAKaV0HE52l1eF0Y"
+      "duration_ms": 134579,
+      "name": "CYK BADDIE",
+      "url": "https://open.spotify.com/track/7ooAKezVfi3K3urbQfXXNq"
     },
     {
       "added_at": "2026-04-24 00:01:40",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-04-24 00:01:40",
       "album": {
+        "name": "impossible",
+        "url": "https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M"
+      },
+      "artists": [
+        {
+          "name": "Tochi Bedford",
+          "url": "https://open.spotify.com/artist/1zeUMAJrOoMdWjU0BErMzn"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "impossible",
+      "url": "https://open.spotify.com/track/2vE3z6XBUsLuUgIA0MVbUe"
+    },
+    {
+      "added_at": "2026-04-24 00:01:40",
+      "album": {
         "name": "Only Water (Feat. Lady Donli)",
         "url": "https://open.spotify.com/album/7MEBWGWCwubTCxXZcis1wF"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 187500,
       "name": "Only Water - Feat. Lady Donli",
       "url": "https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM"
-    },
-    {
-      "added_at": "2026-04-24 00:01:40",
-      "album": {
-        "name": "impossible",
-        "url": "https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M"
-      },
-      "artists": [
-        {
-          "name": "Tochi Bedford",
-          "url": "https://open.spotify.com/artist/1zeUMAJrOoMdWjU0BErMzn"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "impossible",
-      "url": "https://open.spotify.com/track/2vE3z6XBUsLuUgIA0MVbUe"
     },
     {
       "added_at": "2026-04-24 00:01:40",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-04-24 00:01:40",
       "album": {
-        "name": "Sex on the Beach",
-        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 171205,
-      "name": "Sex on the Beach",
-      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
-    },
-    {
-      "added_at": "2026-04-24 00:01:40",
-      "album": {
         "name": "LUCKY UU",
         "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 186818,
       "name": "The Midnight Wanderer",
       "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
+    },
+    {
+      "added_at": "2026-04-24 00:01:40",
+      "album": {
+        "name": "Sex on the Beach",
+        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 171205,
+      "name": "Sex on the Beach",
+      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
     },
     {
       "added_at": "2026-04-24 00:01:40",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-04-24 00:01:40",
       "album": {
+        "name": "Clear Mind",
+        "url": "https://open.spotify.com/album/5FacPr0HFLxZwXo49lhK2g"
+      },
+      "artists": [
+        {
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Clear Mind",
+      "url": "https://open.spotify.com/track/1LW3d8wiel1KrGM8MgxIXy"
+    },
+    {
+      "added_at": "2026-04-24 00:01:40",
+      "album": {
         "name": "Prime",
         "url": "https://open.spotify.com/album/3AYdprmzxKsiZZdYpNeJar"
       },
@@ -783,42 +799,6 @@
       "duration_ms": 128450,
       "name": "Prime",
       "url": "https://open.spotify.com/track/3e9nDsU4bvLBcucvpuwDpB"
-    },
-    {
-      "added_at": "2026-04-24 00:01:40",
-      "album": {
-        "name": "september rush",
-        "url": "https://open.spotify.com/album/7gdMifqpW7gUeSePcGlDWA"
-      },
-      "artists": [
-        {
-          "name": "Baves O",
-          "url": "https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs"
-        },
-        {
-          "name": "M.anifest",
-          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "september rush",
-      "url": "https://open.spotify.com/track/0aSkyAsDk2e2RG1R62kTjp"
-    },
-    {
-      "added_at": "2026-04-24 00:01:40",
-      "album": {
-        "name": "Clear Mind",
-        "url": "https://open.spotify.com/album/5FacPr0HFLxZwXo49lhK2g"
-      },
-      "artists": [
-        {
-          "name": "Bolu Ajibade",
-          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Clear Mind",
-      "url": "https://open.spotify.com/track/1LW3d8wiel1KrGM8MgxIXy"
     },
     {
       "added_at": "2026-04-24 00:01:40",
@@ -867,6 +847,42 @@
     {
       "added_at": "2026-04-24 00:01:40",
       "album": {
+        "name": "september rush",
+        "url": "https://open.spotify.com/album/7gdMifqpW7gUeSePcGlDWA"
+      },
+      "artists": [
+        {
+          "name": "Baves O",
+          "url": "https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs"
+        },
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "september rush",
+      "url": "https://open.spotify.com/track/0aSkyAsDk2e2RG1R62kTjp"
+    },
+    {
+      "added_at": "2026-04-24 00:01:40",
+      "album": {
+        "name": "UPGRADE",
+        "url": "https://open.spotify.com/album/71h63m5gl6FlM1dSba1sXv"
+      },
+      "artists": [
+        {
+          "name": "BLNDE",
+          "url": "https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU"
+        }
+      ],
+      "duration_ms": 148397,
+      "name": "UPGRADE",
+      "url": "https://open.spotify.com/track/6H2VwCcdNHRZIvmvUVb6aQ"
+    },
+    {
+      "added_at": "2026-04-24 00:01:40",
+      "album": {
         "name": "Imperfect Daughters",
         "url": "https://open.spotify.com/album/50CBKVxs8tjeiQANBnb3nK"
       },
@@ -903,18 +919,38 @@
     {
       "added_at": "2026-04-24 00:01:40",
       "album": {
-        "name": "UPGRADE",
-        "url": "https://open.spotify.com/album/71h63m5gl6FlM1dSba1sXv"
+        "name": "My letter to Zayn",
+        "url": "https://open.spotify.com/album/7aAhZv5SRsHdezmOU5o2tJ"
       },
       "artists": [
         {
-          "name": "BLNDE",
-          "url": "https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU"
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "King Wizard",
+          "url": "https://open.spotify.com/artist/7BjXmKO4yIHUP7BTi1ZGUc"
         }
       ],
-      "duration_ms": 148397,
-      "name": "UPGRADE",
-      "url": "https://open.spotify.com/track/6H2VwCcdNHRZIvmvUVb6aQ"
+      "duration_ms": 237000,
+      "name": "My letter to Zayn",
+      "url": "https://open.spotify.com/track/5NEh3NHichnlvVYBFmgpgC"
+    },
+    {
+      "added_at": "2026-04-24 00:01:40",
+      "album": {
+        "name": "Cavy In The City",
+        "url": "https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa"
+      },
+      "artists": [
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "duration_ms": 151529,
+      "name": "General",
+      "url": "https://open.spotify.com/track/0aG4heCOR0XzZqU7HmDLjt"
     },
     {
       "added_at": "2026-04-24 00:01:40",
@@ -951,18 +987,18 @@
     {
       "added_at": "2026-04-24 00:01:40",
       "album": {
-        "name": "Cavy In The City",
-        "url": "https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa"
+        "name": "Princessa",
+        "url": "https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU"
       },
       "artists": [
         {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+          "name": "Indi",
+          "url": "https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF"
         }
       ],
-      "duration_ms": 151529,
-      "name": "General",
-      "url": "https://open.spotify.com/track/0aG4heCOR0XzZqU7HmDLjt"
+      "duration_ms": 118974,
+      "name": "Princessa",
+      "url": "https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh"
     },
     {
       "added_at": "2026-04-24 00:01:40",
@@ -979,42 +1015,6 @@
       "duration_ms": 126000,
       "name": "DUA PA",
       "url": "https://open.spotify.com/track/7o3tTomsCsKOf7B0LUsCpM"
-    },
-    {
-      "added_at": "2026-04-24 00:01:40",
-      "album": {
-        "name": "My letter to Zayn",
-        "url": "https://open.spotify.com/album/7aAhZv5SRsHdezmOU5o2tJ"
-      },
-      "artists": [
-        {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
-        },
-        {
-          "name": "King Wizard",
-          "url": "https://open.spotify.com/artist/7BjXmKO4yIHUP7BTi1ZGUc"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "My letter to Zayn",
-      "url": "https://open.spotify.com/track/5NEh3NHichnlvVYBFmgpgC"
-    },
-    {
-      "added_at": "2026-04-24 00:01:40",
-      "album": {
-        "name": "Princessa",
-        "url": "https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU"
-      },
-      "artists": [
-        {
-          "name": "Indi",
-          "url": "https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF"
-        }
-      ],
-      "duration_ms": 118974,
-      "name": "Princessa",
-      "url": "https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh"
     },
     {
       "added_at": "2026-04-24 00:01:40",
@@ -1039,6 +1039,54 @@
       "duration_ms": 176299,
       "name": "If You Try",
       "url": "https://open.spotify.com/track/5vDaZI2RvpevJq7xUWkKSI"
+    },
+    {
+      "added_at": "2026-04-24 00:01:40",
+      "album": {
+        "name": "Modern Fantasy",
+        "url": "https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        },
+        {
+          "name": "Raytheboffin",
+          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Modern man",
+      "url": "https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y"
+    },
+    {
+      "added_at": "2026-04-24 00:01:40",
+      "album": {
+        "name": "STYLO",
+        "url": "https://open.spotify.com/album/2ucxizxSDZPeSVCB5Gsjtj"
+      },
+      "artists": [
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        },
+        {
+          "name": "UNiTY Originaal",
+          "url": "https://open.spotify.com/artist/485fRmt9X7md56mWTeen5V"
+        },
+        {
+          "name": "BayO",
+          "url": "https://open.spotify.com/artist/2sxBe3sK3BbxcZ9QGDiSCi"
+        },
+        {
+          "name": "Kavali King",
+          "url": "https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "STYLO",
+      "url": "https://open.spotify.com/track/3IAPorNgZ8uAr7pfmMYfZO"
     },
     {
       "added_at": "2026-04-24 00:01:40",
@@ -1075,34 +1123,6 @@
       "duration_ms": 253714,
       "name": "RUSH",
       "url": "https://open.spotify.com/track/1ggt5hR3JoPr8xeggK5z7s"
-    },
-    {
-      "added_at": "2026-04-24 00:01:40",
-      "album": {
-        "name": "STYLO",
-        "url": "https://open.spotify.com/album/2ucxizxSDZPeSVCB5Gsjtj"
-      },
-      "artists": [
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        },
-        {
-          "name": "UNiTY Originaal",
-          "url": "https://open.spotify.com/artist/485fRmt9X7md56mWTeen5V"
-        },
-        {
-          "name": "BayO",
-          "url": "https://open.spotify.com/artist/2sxBe3sK3BbxcZ9QGDiSCi"
-        },
-        {
-          "name": "Kavali King",
-          "url": "https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "STYLO",
-      "url": "https://open.spotify.com/track/3IAPorNgZ8uAr7pfmMYfZO"
     },
     {
       "added_at": "2026-04-24 00:01:40",
@@ -1347,26 +1367,6 @@
       "duration_ms": 168408,
       "name": "It ends with me",
       "url": "https://open.spotify.com/track/6B1WlH8M9hkQy3DjO8NboN"
-    },
-    {
-      "added_at": "2026-04-24 00:01:40",
-      "album": {
-        "name": "Modern Fantasy",
-        "url": "https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy"
-      },
-      "artists": [
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        },
-        {
-          "name": "Raytheboffin",
-          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Modern man",
-      "url": "https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y"
     }
   ],
   "unique_name": "Alt\u00e9 Cruise",

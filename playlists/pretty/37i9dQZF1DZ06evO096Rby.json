@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 57458,
+  "num_followers": 57491,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAADKQvL9Buz64Ka1QVoT8Bo6",
+  "snapshot_id": "aewEAAAAAAD0S7xq4vbhgTWCN9MlXKwj",
   "tracks": [
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 122583,
-      "name": "Que Chulada - En Vivo",
-      "url": "https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF"
+      "duration_ms": 150950,
+      "name": "Paz En Este Amor - En Vivo",
+      "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
     },
     {
       "added_at": null,
@@ -436,25 +436,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 150950,
-      "name": "Paz En Este Amor - En Vivo",
-      "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yo Soy El Pirata",
-        "url": "https://open.spotify.com/album/3I5LuSJcPwnlA3VFwnQXuh"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 168670,
-      "name": "Yo Soy El Pirata",
-      "url": "https://open.spotify.com/track/5rzULa4UZ6XbWLIxoMdukv"
+      "duration_ms": 122583,
+      "name": "Que Chulada - En Vivo",
+      "url": "https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF"
     },
     {
       "added_at": null,
@@ -479,6 +463,22 @@
       "duration_ms": 221617,
       "name": "De Que Color Es La Suerte",
       "url": "https://open.spotify.com/track/2RhyI9fUK2bEn6blowOh9w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Soy El Pirata",
+        "url": "https://open.spotify.com/album/3I5LuSJcPwnlA3VFwnQXuh"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 168670,
+      "name": "Yo Soy El Pirata",
+      "url": "https://open.spotify.com/track/5rzULa4UZ6XbWLIxoMdukv"
     },
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/6cDOkIgadHgQ30JIaxGTAV"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 183311,
-      "name": "Vencedor",
-      "url": "https://open.spotify.com/track/50oepi2tLLJMl8rAsEyRRy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Polvo Soy",
         "url": "https://open.spotify.com/album/3SWmKgWCz1IOYbkdPjqVc7"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 173793,
       "name": "Polvo Soy",
       "url": "https://open.spotify.com/track/7rzEV4j9gxblnC9DHN53iC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/6cDOkIgadHgQ30JIaxGTAV"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 183311,
+      "name": "Vencedor",
+      "url": "https://open.spotify.com/track/50oepi2tLLJMl8rAsEyRRy"
     },
     {
       "added_at": null,
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HDTPM",
-        "url": "https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 157874,
-      "name": "HDTPM",
-      "url": "https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Calmados y No Dejados",
         "url": "https://open.spotify.com/album/3Yo3eHcPwmb9727m6Fd12d"
       },
@@ -911,26 +891,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dicen y Dicen",
-        "url": "https://open.spotify.com/album/1KOlHmExRD42dLpWE4GwkF"
+        "name": "HDTPM",
+        "url": "https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1"
       },
       "artists": [
         {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 157874,
+      "name": "HDTPM",
+      "url": "https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Muchas Ganas (En Vivo)",
+        "url": "https://open.spotify.com/album/0d68E5jkALGrFEUUL2deEX"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         },
         {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
         }
       ],
-      "duration_ms": 173135,
-      "name": "Dicen y Dicen",
-      "url": "https://open.spotify.com/track/6mzQvzXGWVoNjWhdhup27l"
+      "duration_ms": 271189,
+      "name": "Con Muchas Ganas (En Vivo)",
+      "url": "https://open.spotify.com/track/53B9dnw7V6p6ZVzvpK4BUl"
     }
   ],
   "unique_name": "This Is Edgardo Nu\u00f1ez",

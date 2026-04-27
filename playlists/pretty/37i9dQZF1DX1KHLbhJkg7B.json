@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Gavin Adcock",
-  "num_followers": 136048,
+  "num_followers": 136053,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -911,18 +911,22 @@
     {
       "added_at": "2026-04-17 04:03:05",
       "album": {
-        "name": "Here Without You",
-        "url": "https://open.spotify.com/album/0h3vNLDmZwxKvqLR2FwrF2"
+        "name": "If The World Was Ending",
+        "url": "https://open.spotify.com/album/5CBbA4bVDdbyMtprUAJ4I4"
       },
       "artists": [
         {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        },
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
         }
       ],
-      "duration_ms": 246152,
-      "name": "Here Without You",
-      "url": "https://open.spotify.com/track/7DNVkcNZrgVpmoT2cCYHx1"
+      "duration_ms": 208597,
+      "name": "If The World Was Ending",
+      "url": "https://open.spotify.com/track/2HF7Aq8uTCPwUPaG8sMwrT"
     },
     {
       "added_at": "2026-04-17 04:03:05",
@@ -951,22 +955,18 @@
     {
       "added_at": "2026-04-17 04:03:05",
       "album": {
-        "name": "If The World Was Ending",
-        "url": "https://open.spotify.com/album/5CBbA4bVDdbyMtprUAJ4I4"
+        "name": "Here Without You",
+        "url": "https://open.spotify.com/album/0h3vNLDmZwxKvqLR2FwrF2"
       },
       "artists": [
         {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        },
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
         }
       ],
-      "duration_ms": 208597,
-      "name": "If The World Was Ending",
-      "url": "https://open.spotify.com/track/2HF7Aq8uTCPwUPaG8sMwrT"
+      "duration_ms": 246152,
+      "name": "Here Without You",
+      "url": "https://open.spotify.com/track/7DNVkcNZrgVpmoT2cCYHx1"
     },
     {
       "added_at": "2026-04-17 04:03:05",
@@ -999,6 +999,22 @@
       "duration_ms": 241600,
       "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
       "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
+    },
+    {
+      "added_at": "2026-04-17 04:03:05",
+      "album": {
+        "name": "Take Me as I Am",
+        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 241280,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88"
     },
     {
       "added_at": "2026-04-17 04:03:05",
@@ -1043,6 +1059,22 @@
     {
       "added_at": "2026-04-17 04:03:05",
       "album": {
+        "name": "True Believers",
+        "url": "https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 298373,
+      "name": "Wagon Wheel",
+      "url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
+    },
+    {
+      "added_at": "2026-04-17 04:03:05",
+      "album": {
         "name": "Nashville Rebel",
         "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
@@ -1067,38 +1099,6 @@
       "duration_ms": 182973,
       "name": "Highwayman",
       "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
-    },
-    {
-      "added_at": "2026-04-17 04:03:05",
-      "album": {
-        "name": "True Believers",
-        "url": "https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 298373,
-      "name": "Wagon Wheel",
-      "url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
-    },
-    {
-      "added_at": "2026-04-17 04:03:05",
-      "album": {
-        "name": "Take Me as I Am",
-        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 241280,
-      "name": "Piece of My Heart",
-      "url": "https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88"
     },
     {
       "added_at": "2026-04-17 04:03:05",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-04-17 04:03:05",
       "album": {
-        "name": "Simply The Hits",
-        "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 257733,
-      "name": "Walking In Memphis",
-      "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
-    },
-    {
-      "added_at": "2026-04-17 04:03:05",
-      "album": {
         "name": "9 Lives",
         "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 149659,
       "name": "Depression & Obsession",
       "url": "https://open.spotify.com/track/38623VdBTunZrY1IFpFLh8"
+    },
+    {
+      "added_at": "2026-04-17 04:03:05",
+      "album": {
+        "name": "Simply The Hits",
+        "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "Walking In Memphis",
+      "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
     },
     {
       "added_at": "2026-04-17 04:03:05",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-04-17 04:03:05",
       "album": {
-        "name": "Chasing Cars",
-        "url": "https://open.spotify.com/album/0rssTXPsHka5HdX61YbpMG"
-      },
-      "artists": [
-        {
-          "name": "Ryan Waters Band",
-          "url": "https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi"
-        }
-      ],
-      "duration_ms": 237613,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/5cJVYEIjmjGqKhqD5ggGLe"
-    },
-    {
-      "added_at": "2026-04-17 04:03:05",
-      "album": {
         "name": "When A Man Loves A Woman",
         "url": "https://open.spotify.com/album/3rF1V3X2lvEXeNAAOpqcHN"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 197885,
       "name": "When A Man Loves A Woman",
       "url": "https://open.spotify.com/track/6PgFcH7XEw1FeReY4049UG"
+    },
+    {
+      "added_at": "2026-04-17 04:03:05",
+      "album": {
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/0rssTXPsHka5HdX61YbpMG"
+      },
+      "artists": [
+        {
+          "name": "Ryan Waters Band",
+          "url": "https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi"
+        }
+      ],
+      "duration_ms": 237613,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/5cJVYEIjmjGqKhqD5ggGLe"
     },
     {
       "added_at": "2026-04-17 04:03:05",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-04-17 04:03:05",
       "album": {
-        "name": "Whoever's In New England",
-        "url": "https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Whoever's in New England",
-      "url": "https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor"
-    },
-    {
-      "added_at": "2026-04-17 04:03:05",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/4OMQzJZkwj82nPQ5FqZr0f"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 329376,
       "name": "Changes",
       "url": "https://open.spotify.com/track/7gwGD2p8hy7Rphsx6n9NTL"
+    },
+    {
+      "added_at": "2026-04-17 04:03:05",
+      "album": {
+        "name": "Whoever's In New England",
+        "url": "https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Whoever's in New England",
+      "url": "https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor"
     },
     {
       "added_at": "2026-04-17 04:03:05",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2026-04-17 04:03:05",
       "album": {
-        "name": "I'm A Ram",
-        "url": "https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm"
+        "name": "Pretty When It's New",
+        "url": "https://open.spotify.com/album/2yLLtIlTfUOWjYWgElFE1N"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
         }
       ],
-      "duration_ms": 239040,
-      "name": "I'm A Ram",
-      "url": "https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ"
+      "duration_ms": 328053,
+      "name": "Pretty When It's New",
+      "url": "https://open.spotify.com/track/1UmPE10DDHeEGxptZ7MzaY"
     },
     {
       "added_at": "2026-04-17 04:03:05",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2026-04-17 04:03:05",
       "album": {
-        "name": "Pretty When It's New",
-        "url": "https://open.spotify.com/album/2yLLtIlTfUOWjYWgElFE1N"
+        "name": "I'm A Ram",
+        "url": "https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm"
       },
       "artists": [
         {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 328053,
-      "name": "Pretty When It's New",
-      "url": "https://open.spotify.com/track/1UmPE10DDHeEGxptZ7MzaY"
+      "duration_ms": 239040,
+      "name": "I'm A Ram",
+      "url": "https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ"
     },
     {
       "added_at": "2026-04-17 04:03:05",

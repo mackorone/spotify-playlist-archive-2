@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-128 songs - 7 hr 24 min
+129 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Ghost Skin](https://open.spotify.com/track/5pHEqCiFsCUwNT1MZ704xm) | [Elliot Tellman](https://open.spotify.com/artist/1MoUSFvNvwlHzmHfImqjmL) | [Ghost Skin](https://open.spotify.com/album/3YHvKACYd2PHnmlwDZIlKw) | 2:18 | 2025-11-27 |  |
 | [Grinder Minder](https://open.spotify.com/track/7nmyUuAJDJ0O9VRF7Lv8NR) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Grinder Minder](https://open.spotify.com/album/1SperF6SKGWOeLHv3kG5gl) | 3:06 | 2026-03-29 |  |
 | [Halfway to heaven](https://open.spotify.com/track/4nHu7yR8etHMqfZuWVO3q2) | [Honey Ruin](https://open.spotify.com/artist/2m4dcbfzc5WQDTZ6RAO8Lf) | [Halfway to heaven](https://open.spotify.com/album/2mjAWJp71ZsPIKjFdZU2oH) | 4:29 | 2025-11-06 | 2025-12-09 |
+| [Higher than fear](https://open.spotify.com/track/1CQJ3Bt4XV8KnZqw86KX0N) | [Neverfold](https://open.spotify.com/artist/0wPkHL9GwZEu6F7S2sznR7) | [Higher than fear](https://open.spotify.com/album/3bLk3opMkqg8EnakCiKZfS) | 4:22 | 2026-04-26 |  |
 | [Holding](https://open.spotify.com/track/47NrciGzvU6RGZ3nVue5BE) | [Max1](https://open.spotify.com/artist/69b4ydZadh6w5FrfTm1Zwh) | [Against the FALL](https://open.spotify.com/album/0bEw8zPxgpXZlQzkdwTsQb) | 4:06 | 2025-11-02 | 2025-12-09 |
 | [Hollow](https://open.spotify.com/track/7vnpgpf3Jx8gtskcb050nl) | [Jordan Bailey](https://open.spotify.com/artist/0hGKx9UEqBFpYYf0hYk7JS) | [DARKLIGHT](https://open.spotify.com/album/2zOPBEuYdqtuyEEd7CGSNR) | 3:08 | 2025-11-07 | 2025-12-09 |
 | [Home](https://open.spotify.com/track/6t43UbUBVc3a3X4sQLc2BJ) | [CALDAERA](https://open.spotify.com/artist/7e142HcUPLKYMr3krYaPKt) | [Home](https://open.spotify.com/album/6LGW8Mg243k9xtdhs3QxtK) | 4:16 | 2025-11-01 | 2025-12-09 |

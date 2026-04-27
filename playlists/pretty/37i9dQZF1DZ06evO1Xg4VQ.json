@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 73415,
+  "num_followers": 73420,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAAAO32IBySmBMgg4iZL3jz6D",
+  "snapshot_id": "aewEAAAAAABfE0UpJ6B8P9U2yUWkNabl",
   "tracks": [
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Sandunga",
+        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 253400,
+      "name": "La Sandunga",
+      "url": "https://open.spotify.com/track/5V3eIxVzFeD9W2JmZgBpNx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Frida (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Sandunga",
-        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 253400,
-      "name": "La Sandunga",
-      "url": "https://open.spotify.com/track/5V3eIxVzFeD9W2JmZgBpNx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Al Chile",
         "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
@@ -751,6 +751,30 @@
       "duration_ms": 190586,
       "name": "La San Marque\u00f1a",
       "url": "https://open.spotify.com/track/74Ldi2R0KmTHQzkt9r5DRk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Cantina",
+        "url": "https://open.spotify.com/album/5R7B1EJgSgq0I0jo92098G"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Flaco Jimenez",
+          "url": "https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M"
+        },
+        {
+          "name": "Max Baca",
+          "url": "https://open.spotify.com/artist/3mPW79np3VgzYgZPv0LtRW"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "El Relampago",
+      "url": "https://open.spotify.com/track/0x5CGLK5BTGAbn8CZqwidU"
     },
     {
       "added_at": null,
@@ -795,30 +819,6 @@
       "duration_ms": 252600,
       "name": "La Ra\u00edz de Mi Tierra",
       "url": "https://open.spotify.com/track/7CsUgxSO2391NavjAJN8HD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Cantina",
-        "url": "https://open.spotify.com/album/5R7B1EJgSgq0I0jo92098G"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Flaco Jimenez",
-          "url": "https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M"
-        },
-        {
-          "name": "Max Baca",
-          "url": "https://open.spotify.com/artist/3mPW79np3VgzYgZPv0LtRW"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "El Relampago",
-      "url": "https://open.spotify.com/track/0x5CGLK5BTGAbn8CZqwidU"
     },
     {
       "added_at": null,
@@ -927,6 +927,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yo Vengo a Ofrecer Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6pEuIdX7axEhfVDZoh45h8"
       },
@@ -987,22 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Balas y Chocolate",
         "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
       },
@@ -1015,26 +1015,6 @@
       "duration_ms": 232000,
       "name": "Humito de Copal",
       "url": "https://open.spotify.com/track/39gLiGKsitV9EANVgdk53i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 2",
-        "url": "https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 231506,
-      "name": "La Barca (with Lila Downs)",
-      "url": "https://open.spotify.com/track/4OFCPtgZ2ousHVuGMEzwrK"
     },
     {
       "added_at": null,
@@ -1055,6 +1035,26 @@
       "duration_ms": 275026,
       "name": "L\u00e1grimas Negras (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/02DvKHO0xe6MukjF4Hr2Wk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 2",
+        "url": "https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 231506,
+      "name": "La Barca (with Lila Downs)",
+      "url": "https://open.spotify.com/track/4OFCPtgZ2ousHVuGMEzwrK"
     }
   ],
   "unique_name": "This Is Lila Downs",

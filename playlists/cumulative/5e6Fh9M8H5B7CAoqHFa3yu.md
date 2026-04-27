@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,153 songs - 5 day 7 hr 26 min
+2,157 songs - 5 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Chalice Dub](https://open.spotify.com/track/7JX3Dbh9H3Mtq1cLya90Oo) | [Menilek](https://open.spotify.com/artist/61KYnn1IwsxUzHIStwSabV) | [Son of Solomon](https://open.spotify.com/album/1rC5MlLVYNCEYTtHB2IzFL) | 4:40 | 2024-05-01 |  |
 | [Chalodnaja Zorka](https://open.spotify.com/track/2pnc2Hzf8SrGpNiThKOqVG) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Insamnia](https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL) | 4:52 | 2025-10-09 |  |
 | [Chaos In My Head](https://open.spotify.com/track/0zwUK4UeE2GqEuI3riJXYl) | [Bortitz](https://open.spotify.com/artist/0Ypm8wsqi6TW6beD1lO0rC), [Anna Indiana](https://open.spotify.com/artist/5F8GF9eKpRyhV6NQdJ0Bdp) | [Karma](https://open.spotify.com/album/10JyibAycZJEvMjMdHOpvE) | 2:41 | 2025-05-25 |  |
+| [Chau Dios](https://open.spotify.com/track/3oby8FKMeOdOrImV7ttBHb) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Chau Dios](https://open.spotify.com/album/0pma5SzdpBk6r47NH1RFTl) | 3:48 | 2026-04-26 |  |
 | [Che cosa sei](https://open.spotify.com/track/3mmgHEuuhEdSPFpG30XgBy) | [Lucya](https://open.spotify.com/artist/0Xg8PoHJghxrn0g6coKbUy) | [Che cosa sei](https://open.spotify.com/album/5vdREj01XmHOMBqBzwkCxj) | 3:24 | 2024-06-20 |  |
 | [Checking In](https://open.spotify.com/track/4qQXrqAy6z0Rguk3YRYIgF) | [gungwave](https://open.spotify.com/artist/1LK36CHZv2UZGpAFicw0Sp) | [Checking In](https://open.spotify.com/album/3HW7qRR6F3573SWJQA04EQ) | 2:15 | 2025-11-02 |  |
 | [Cheer Up Baby](https://open.spotify.com/track/6ZDDcq12xtnkefCCogV6Hw) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [New Old Friends xx](https://open.spotify.com/album/56h5V73ud9WeiTURv7u5sv) | 3:42 | 2025-07-02 |  |
@@ -333,6 +334,7 @@
 | [Close](https://open.spotify.com/track/3VD3K1yTGF4bvqYddUhbS9) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Close](https://open.spotify.com/album/2zeQG69Omrxy1bSrsrB3m7) | 2:55 | 2026-02-05 |  |
 | [Closer to Jah](https://open.spotify.com/track/1TOABTELrbUcgF9VmW53ZQ) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp) | [Walk with Jah](https://open.spotify.com/album/3t5pK2FwJxeUeIuR3u0pFc) | 3:38 | 2024-03-23 |  |
 | [Coffee](https://open.spotify.com/track/5GXyCj24iKfdoGUmAmtbg2) | [Ovi Caloni](https://open.spotify.com/artist/0inPbbC0PnvOpFPui3KQK7) | [Coffee](https://open.spotify.com/album/4H3e7U0UPU2x4RC3IT4Zd5) | 3:24 | 2026-03-25 |  |
+| [Coffee in Barcelona](https://open.spotify.com/track/1p6AI4YeYuTnQdiGRj5G8i) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in Barcelona](https://open.spotify.com/album/1ykrKt162d6k4QYCYEUO58) | 3:48 | 2026-04-27 |  |
 | [Coffee in Cortina](https://open.spotify.com/track/1TNIf3WyutMSNRWZGq8QLZ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in Cortina](https://open.spotify.com/album/3pr0rJE67WeyE80oCfheLH) | 3:28 | 2026-01-16 |  |
 | [Coffee in London](https://open.spotify.com/track/42HKbul3bRLL5O6SSGRS7f) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in London](https://open.spotify.com/album/2OaaFpOndRjfF4HELPL3OR) | 3:18 | 2026-03-20 |  |
 | [Coffee in Milano](https://open.spotify.com/track/4wsPvkuY4bHwXXYqExwgAh) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in Milano](https://open.spotify.com/album/5CaZY1VbdJAJ7uIjMIwx2v) | 3:56 | 2025-10-17 |  |
@@ -775,6 +777,7 @@
 | [Hereabout](https://open.spotify.com/track/2kwYwmYdgfwPzF9VSkUQCY) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Hereabout](https://open.spotify.com/album/6nPmGhuPFmTDMLWwHpJVng) | 3:44 | 2024-09-24 |  |
 | [Hey](https://open.spotify.com/track/3fe3cpJqzeaQeobzG8J0Z4) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Hey](https://open.spotify.com/album/7enCG3ExFQxSWdRMtomgYU) | 1:53 | 2025-08-01 |  |
 | [High Intensity Interval Training \(HIIT 30\-10\)](https://open.spotify.com/track/0rZr3nDG3xN8rGii45ZA3n) | [THE COACH](https://open.spotify.com/artist/1TXrJpe4fvCaVpg3f1nbjW) | [HIIT FRENETICO](https://open.spotify.com/album/6qoJhjAStNrszMp7sN0Q9N) | 1:20 | 2024-03-08 |  |
+| [High Times](https://open.spotify.com/track/0Dv1BREHXW9WpuTPzUQqKF) | [middt lofi club](https://open.spotify.com/artist/21CoJvCH8Sv5bPeGUGnGQQ) | [High Times](https://open.spotify.com/album/0RfTN5GrYmoUolw9p4LLNx) | 2:46 | 2026-04-26 |  |
 | [HIGH UP \(OOO\)](https://open.spotify.com/track/76wWaIkzG5xATRPMerHaEm) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 3:19 | 2025-09-08 |  |
 | [Higher \- Extended Mix](https://open.spotify.com/track/6WluYdZW0k2SIou9PQpiyA) | [Andrea Belli](https://open.spotify.com/artist/65buRrCpNVkMbkKspjt5iR), [Dave Roy Bland](https://open.spotify.com/artist/1X3vecxOTZqDpEVb4Y4nVd) | [fabric presents Floorplan \(Mixed\)](https://open.spotify.com/album/4IJvxq326rM5jBpivm59QX) | 4:25 | 2025-11-30 |  |
 | [Higher Ground](https://open.spotify.com/track/3qMpy6Kxo8ni4Xchfryo2L) | [Inner Echo](https://open.spotify.com/artist/7f3rlBBsePfkAZsGnIGgr8), [Wends](https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a) | [Higher Ground](https://open.spotify.com/album/0m5f3Wi6qKuatxOXAspLZ7) | 3:48 | 2025-08-30 |  |
@@ -1666,6 +1669,7 @@
 | [Si tú no estás](https://open.spotify.com/track/4dQOggX7CIcZSTNtvIR3WY) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 3:35 | 2026-03-15 |  |
 | [Siamo a due](https://open.spotify.com/track/3OrxQ9hWJhZEfukQgucmyb) | [WinWar](https://open.spotify.com/artist/7eiIqiTGRznJzFxIVzuU23) | [Siamo a due](https://open.spotify.com/album/4g9DmmX83az7Op6ozkoTbk) | 3:19 | 2024-09-06 |  |
 | [Siamo perduti](https://open.spotify.com/track/2KFK8mkYe4OwT2XxDcZlcm) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Siamo perduti](https://open.spotify.com/album/4j9UylK8c7HBB9dTqsZ3Ub) | 3:31 | 2025-10-07 |  |
+| [Siempre Asi](https://open.spotify.com/track/3dLLimWacQ18jXzadTG3j3) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N), [Carlos Caro](https://open.spotify.com/artist/4ibfK2HfqnMBNfoYzHVqZA), [Jorge Mesa Valle "El Pirata"](https://open.spotify.com/artist/40k0L6m30y0wPEA2VTAclC) | [DE AIRE Y VIENTO](https://open.spotify.com/album/6CXHERIensmaR5X5Py5mYH) | 7:26 | 2026-04-26 |  |
 | [Siento flores](https://open.spotify.com/track/3xwEYe5XzUu5isEt9Mibcx) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Siento flores](https://open.spotify.com/album/2cAaOud9QK2rDIS0i587GV) | 5:04 | 2026-03-15 |  |
 | [Sifu Dub](https://open.spotify.com/track/2jt4OEs5s3lnH0w2WRJ7eB) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [Sky Warrior Dub](https://open.spotify.com/album/6mgr4wFK7XSJOdmapRBjun) | 4:22 | 2024-05-01 |  |
 | [Silent Celestial Skies](https://open.spotify.com/track/5s96KU4wa7HMOlnGsxVTKZ) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Silent Celestial Skies](https://open.spotify.com/album/242noPJokuU8lC7gRWkOAt) | 2:21 | 2025-08-01 |  |

@@ -17249,6 +17249,28 @@
     },
     {
       "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/7DJn6wAfxd2QpFnWx4o7OA"
+      },
+      "artists": [
+        {
+          "name": "A Better Life",
+          "url": "https://open.spotify.com/artist/6fSSDJG0JfyXJ09oUJA5xd"
+        },
+        {
+          "name": "Holly Taymar",
+          "url": "https://open.spotify.com/artist/472GSvPP0MaDH3SKZQOuvx"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Under The Setting Sun",
+      "url": "https://open.spotify.com/track/3Tta528CNQqfOlHREFb7SD"
+    },
+    {
+      "album": {
         "name": "Undercurrents",
         "url": "https://open.spotify.com/album/2Lu0CjzJuQ4coG2LRxPzsC"
       },

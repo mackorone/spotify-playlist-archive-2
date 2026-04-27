@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-987 songs - 2 day 9 hr 40 min
+988 songs - 2 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -902,6 +902,7 @@
 | [Un'altra lacrima](https://open.spotify.com/track/7Dhz8HBG6kELvHBxrvrIvB) | [Aranini](https://open.spotify.com/artist/6Kj7garqqGAHTTJ1hPiKid), [Bruggio](https://open.spotify.com/artist/07I8xA92ygY3jQMthS2hcu) | [Un'altra lacrima](https://open.spotify.com/album/6QOZ48cHPFvruAI8kvyu1m) | 3:03 | 2026-02-11 | 2026-03-15 |
 | [Una vuelta y otra vuelta](https://open.spotify.com/track/6rih8Qvk2LiFtUXEt6BfSe) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Un instante en el Universo](https://open.spotify.com/album/6c52Siwl8gupGfEyPehVBs) | 2:32 | 2026-01-18 | 2026-02-20 |
 | [Under Lights](https://open.spotify.com/track/06xGJQvhoCRMRAgxAVmibS) | [Malik Amer](https://open.spotify.com/artist/7z3kPDsuDBE57RW9dvcpar), [Adam Kriss](https://open.spotify.com/artist/7CsFi8k6B9I5S9WOMG49y6) | [Under Lights](https://open.spotify.com/album/710QolV0ATHswo1zkLdRfD) | 3:13 | 2025-11-11 | 2025-12-21 |
+| [Under The Setting Sun](https://open.spotify.com/track/3Tta528CNQqfOlHREFb7SD) | [A Better Life](https://open.spotify.com/artist/6fSSDJG0JfyXJ09oUJA5xd), [Holly Taymar](https://open.spotify.com/artist/472GSvPP0MaDH3SKZQOuvx) | [The Light](https://open.spotify.com/album/7DJn6wAfxd2QpFnWx4o7OA) | 4:32 | 2026-04-26 |  |
 | [Undercurrents](https://open.spotify.com/track/4MS830aig1FAP5loRX82nU) | [Burton Badman](https://open.spotify.com/artist/1kSiVL0AysDQHiEFuhk3dm) | [Undercurrents](https://open.spotify.com/album/2Lu0CjzJuQ4coG2LRxPzsC) | 3:37 | 2026-03-10 | 2026-04-12 |
 | [UNDERNEATH THE MISTLETOE](https://open.spotify.com/track/0hfikWpzoANNDL4o9Kz2A0) | [Georgia Jay](https://open.spotify.com/artist/40BH0NxesBC7h5FMOcygVK) | [UNDERNEATH THE MISTLETOE](https://open.spotify.com/album/0Xq9hTLQCUBnhGVNBqg9DS) | 2:47 | 2025-11-17 | 2025-12-21 |
 | [Underwater](https://open.spotify.com/track/40lpPB9juUNtNu5WPoZ2vM) | [Danilette](https://open.spotify.com/artist/2QnyxqqEpo4zyueAHZM8Xq), [Avareld Syd](https://open.spotify.com/artist/0emocifRgTbVRtGGHnJA4H) | [Underwater](https://open.spotify.com/album/04Wv5GuJBkPEbF7NNYOHZ3) | 4:02 | 2026-03-28 |  |

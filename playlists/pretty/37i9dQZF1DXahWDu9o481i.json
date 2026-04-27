@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Iceage",
-  "num_followers": 88444,
+  "num_followers": 88474,
   "original_name": "Editors' Picks: Best Songs of March",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2026-04-02 14:51:09",
       "album": {
+        "name": "if you wanna party, come over to my house",
+        "url": "https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 171613,
+      "name": "if you wanna party, come over to my house",
+      "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
+    },
+    {
+      "added_at": "2026-04-02 14:51:09",
+      "album": {
         "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
         "url": "https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 189677,
       "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
       "url": "https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM"
-    },
-    {
-      "added_at": "2026-04-02 14:51:09",
-      "album": {
-        "name": "if you wanna party, come over to my house",
-        "url": "https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 171613,
-      "name": "if you wanna party, come over to my house",
-      "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
     },
     {
       "added_at": "2026-04-02 14:51:09",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-04-02 14:51:09",
       "album": {
-        "name": "AAA",
-        "url": "https://open.spotify.com/album/3CM4KNAWHvvgAB83gydKOS"
-      },
-      "artists": [
-        {
-          "name": "John Poll\u00f5n",
-          "url": "https://open.spotify.com/artist/4fJie9zmEW6VmFoQKrx4Lh"
-        }
-      ],
-      "duration_ms": 143407,
-      "name": "AAA",
-      "url": "https://open.spotify.com/track/7LSZyRFY3SzFFocAGnyJXV"
-    },
-    {
-      "added_at": "2026-04-02 14:51:09",
-      "album": {
         "name": "\u00d6",
         "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 178280,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
+    },
+    {
+      "added_at": "2026-04-02 14:51:09",
+      "album": {
+        "name": "AAA",
+        "url": "https://open.spotify.com/album/3CM4KNAWHvvgAB83gydKOS"
+      },
+      "artists": [
+        {
+          "name": "John Poll\u00f5n",
+          "url": "https://open.spotify.com/artist/4fJie9zmEW6VmFoQKrx4Lh"
+        }
+      ],
+      "duration_ms": 143407,
+      "name": "AAA",
+      "url": "https://open.spotify.com/track/7LSZyRFY3SzFFocAGnyJXV"
     },
     {
       "added_at": "2026-04-02 14:51:09",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-04-02 14:51:09",
       "album": {
+        "name": "The Fix",
+        "url": "https://open.spotify.com/album/1dKHQpelvSeobwcDxgxdmj"
+      },
+      "artists": [
+        {
+          "name": "Baby J",
+          "url": "https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "The Fix",
+      "url": "https://open.spotify.com/track/7JolP4o69lNv5b8NjbgmRR"
+    },
+    {
+      "added_at": "2026-04-02 14:51:09",
+      "album": {
         "name": "Max Payne",
         "url": "https://open.spotify.com/album/5vNus37H5UHv6JqNgSnVdc"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2026-04-02 14:51:09",
       "album": {
-        "name": "The Fix",
-        "url": "https://open.spotify.com/album/1dKHQpelvSeobwcDxgxdmj"
-      },
-      "artists": [
-        {
-          "name": "Baby J",
-          "url": "https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "The Fix",
-      "url": "https://open.spotify.com/track/7JolP4o69lNv5b8NjbgmRR"
-    },
-    {
-      "added_at": "2026-04-02 14:51:09",
-      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 205274,
       "name": "Star",
       "url": "https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl"
+    },
+    {
+      "added_at": "2026-04-02 14:51:09",
+      "album": {
+        "name": "Safety",
+        "url": "https://open.spotify.com/album/4FRGOKIYHjFLT2XQ0jBKJY"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 198648,
+      "name": "Safety",
+      "url": "https://open.spotify.com/track/0tUz0N0ra3OT2daiI6Qm66"
     },
     {
       "added_at": "2026-04-02 14:51:09",
@@ -623,22 +639,6 @@
       "duration_ms": 148646,
       "name": "Bad Bitch",
       "url": "https://open.spotify.com/track/4baCpqXOivYqROUNMrfUCC"
-    },
-    {
-      "added_at": "2026-04-02 14:51:09",
-      "album": {
-        "name": "Safety",
-        "url": "https://open.spotify.com/album/4FRGOKIYHjFLT2XQ0jBKJY"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 198648,
-      "name": "Safety",
-      "url": "https://open.spotify.com/track/0tUz0N0ra3OT2daiI6Qm66"
     },
     {
       "added_at": "2026-04-02 14:51:09",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-04-02 14:51:09",
       "album": {
-        "name": "oooshxt!",
-        "url": "https://open.spotify.com/album/5lati9k4WZBRfjaDU28IyN"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 135767,
-      "name": "oooshxt!",
-      "url": "https://open.spotify.com/track/5g7ekg0eed42JuSCUEuSEe"
-    },
-    {
-      "added_at": "2026-04-02 14:51:09",
-      "album": {
         "name": "Must Be",
         "url": "https://open.spotify.com/album/1FUgbYn6lHaVS4RrpAEMSE"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 175040,
       "name": "Must Be",
       "url": "https://open.spotify.com/track/5TJtMHbfSSHrWPcnMHdjUy"
+    },
+    {
+      "added_at": "2026-04-02 14:51:09",
+      "album": {
+        "name": "oooshxt!",
+        "url": "https://open.spotify.com/album/5lati9k4WZBRfjaDU28IyN"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 135767,
+      "name": "oooshxt!",
+      "url": "https://open.spotify.com/track/5g7ekg0eed42JuSCUEuSEe"
     },
     {
       "added_at": "2026-04-02 14:51:09",

@@ -4,7 +4,7 @@
 
 > SPINGERE
 
-326 songs - 16 hr 0 min
+327 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Banlieue](https://open.spotify.com/track/43Yw3ycsVJOb4eDzZ7pwQG) | [Bloy$](https://open.spotify.com/artist/6YnSAmwqze7HFnvSt6lxYj) | [Banlieue](https://open.spotify.com/album/2bz7o8YGDuN1BLD0IMiwR6) | 2:38 | 2022-05-12 | 2022-06-11 |
 | [Bella Giornata \(prod\. Dogslife, Mago del blocco\) \(feat\. Dogslife & Mago del Blocco\)](https://open.spotify.com/track/76xea5TfeyVu8c4dGWpFD2) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [Dogslife](https://open.spotify.com/artist/73TvGBOaS1WApWEiMefT9O), [Mago del Blocco](https://open.spotify.com/artist/0MNIz36U44uxk0MZeZ2smX) | [Bella Giornata \(prod\. Dogslife, Mago del blocco\) \(feat\. Dogslife & Mago del Blocco\)](https://open.spotify.com/album/4TSk7THVrLQr1D3E61vHta) | 3:01 | 2022-05-01 | 2024-08-09 |
 | [Best Life](https://open.spotify.com/track/67Zlg1f5akUasCKntOpkWl) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Best Life](https://open.spotify.com/album/6ZVBD4uIocmIjaMNVZVUKr) | 2:19 | 2022-10-27 | 2022-11-13 |
-| [Bevendo Fumando](https://open.spotify.com/track/22RkrLiuGv7YGHLl9qTQ3b) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [Bevendo Fumando](https://open.spotify.com/album/2tHziGnrc0Fqge0bXQHclo) | 2:12 | 2025-07-24 |  |
+| [Bevendo Fumando](https://open.spotify.com/track/22RkrLiuGv7YGHLl9qTQ3b) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [Bevendo Fumando](https://open.spotify.com/album/2tHziGnrc0Fqge0bXQHclo) | 2:12 | 2025-07-24 | 2026-04-27 |
 | [BIANCA \(feat\. Kid Yugi\)](https://open.spotify.com/track/420QMNPnHsbAqkkxBt2ifJ) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [BIANCA \(feat\. Kid Yugi\)](https://open.spotify.com/album/2IE8pMvL0GmykYaNLOP8S0) | 2:40 | 2025-02-25 |  |
 | [BIKINI \(feat\. Guè\)](https://open.spotify.com/track/1qexrlq05Ak4NCthyLOhbd) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 1:59 | 2024-07-11 |  |
 | [BIMBI PER STRADA \(CHILDREN\)](https://open.spotify.com/track/6KF78W66DcQ9m5YqR0r5Ig) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [BIMBI PER STRADA \(CHILDREN\)](https://open.spotify.com/album/0p1nAaMSArHL3sz5XKVIsq) | 3:20 | 2022-07-28 | 2023-01-12 |
@@ -143,6 +143,7 @@
 | [Hace Calor \- Remix](https://open.spotify.com/track/3h043RAJ7tKaG1HDFeet6w) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Hace Calor \(Remix\)](https://open.spotify.com/album/1ScrZWEue2DdYU8aj9AiSF) | 4:07 | 2022-12-30 | 2023-01-11 |
 | [HARD TECH](https://open.spotify.com/track/47CKxzkqTc8erp0UiuxN6o) | [Axel Cooper](https://open.spotify.com/artist/1adz07qkurydHDZRSePFhI), [Ame 2.0](https://open.spotify.com/artist/1XlwE6XhQCFKpTmZWEDY96) | [HARD TECH](https://open.spotify.com/album/5sy8YaOuCsuJl1EOH34XBq) | 1:54 | 2025-11-06 | 2026-01-15 |
 | [HARDER \(feat\. Low\-Red\)](https://open.spotify.com/track/5qLvcq1BMgwj5jMKuIYRGQ) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [HARDER \(feat\. Low\-Red\)](https://open.spotify.com/album/14FuU4isEL7dte8A4GQNNc) | 2:56 | 2025-02-25 |  |
+| [Haribo](https://open.spotify.com/track/1DiQcyWAklUoTLmBVVvTU6) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Haribo](https://open.spotify.com/album/033qgPue0caWczYCMdcfFa) | 2:16 | 2026-04-24 |  |
 | [Hasta la vista \(feat\. ANNA\) \- Remix](https://open.spotify.com/track/4VNYRuTv8dCN0UUNJj6P4K) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [DNA](https://open.spotify.com/album/4P0hxsoJsKyJRcLcQ1aGG1) | 2:25 | 2022-05-01 | 2022-07-28 |
 | [HIGHEST IN THE ROOM](https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HIGHEST IN THE ROOM](https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU) | 2:55 | 2022-05-01 |  |
 | [HO PAURA DI USCIRE 2 \- prod\. Mace](https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM) | [MACHETE](https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [MACHETE MIXTAPE 4](https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz) | 2:57 | 2022-05-01 |  |

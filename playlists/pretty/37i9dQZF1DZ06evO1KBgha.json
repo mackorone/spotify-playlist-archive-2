@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 377661,
+  "num_followers": 377763,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAACg9m75dZ53P4LKsJ1URWJK",
+  "snapshot_id": "aewEAAAAAAAGVtctWVRM1UdHEIYZOrY4",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CUARTO AZUL",
-        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+        "name": "Cambios de Luna",
+        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
       },
       "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 181500,
-      "name": "EX EX EX",
-      "url": "https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc"
+      "duration_ms": 143753,
+      "name": "Ll\u00e9vatelo",
+      "url": "https://open.spotify.com/track/53RLjHptrKflawOuGru1xM"
     },
     {
       "added_at": null,
@@ -247,18 +243,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cambios de Luna",
-        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
       },
       "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 143753,
-      "name": "Ll\u00e9vatelo",
-      "url": "https://open.spotify.com/track/53RLjHptrKflawOuGru1xM"
+      "duration_ms": 181500,
+      "name": "EX EX EX",
+      "url": "https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Que Lo Beso",
-        "url": "https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 153674,
-      "name": "Siempre Que Lo Beso",
-      "url": "https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Boy! (feat. Kenia OS)",
         "url": "https://open.spotify.com/album/2Bv78Sp64rF7Gh0ALptmFJ"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 165963,
       "name": "Bad Boy! - feat. Kenia OS",
       "url": "https://open.spotify.com/track/26EXLk5OgybKFDvnV9Bj9x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siempre Que Lo Beso",
+        "url": "https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 153674,
+      "name": "Siempre Que Lo Beso",
+      "url": "https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR"
     },
     {
       "added_at": null,

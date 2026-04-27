@@ -1,6 +1,6 @@
 {
-  "description": "Timeless Salsa from your favorite legends.",
-  "num_followers": 1518638,
+  "description": "Timeless Salsa from your favorite legends. Cover: Rub\u00e9n Blades",
+  "num_followers": 1518909,
   "original_name": "Salsa Classics",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-03-07 05:00:25",
       "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 300160,
-      "name": "Tu Amor Me Hace Bien - Salsa Version",
-      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
-    },
-    {
-      "added_at": "2025-03-07 05:00:25",
-      "album": {
         "name": "Persona Ideal",
         "url": "https://open.spotify.com/album/3YuzaY1bX9uhlhWR0f19mP"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 279849,
       "name": "Persona Ideal - Me Tengo Que Ir",
       "url": "https://open.spotify.com/track/4UHRMwbbiZ7tkeEkhyN7iB"
+    },
+    {
+      "added_at": "2025-03-07 05:00:25",
+      "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 300160,
+      "name": "Tu Amor Me Hace Bien - Salsa Version",
+      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
     },
     {
       "added_at": "2025-03-07 05:00:25",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-03-07 05:00:25",
       "album": {
-        "name": "Justo A Tiempo",
-        "url": "https://open.spotify.com/album/250KLbxSw8cKrI7pomRdyl"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 307173,
-      "name": "Peque\u00f1as Cosas",
-      "url": "https://open.spotify.com/track/2YtWJzOcIHGC7uNbANUtPE"
-    },
-    {
-      "added_at": "2025-03-07 05:00:25",
-      "album": {
         "name": "No Me Olvidaras",
         "url": "https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 211586,
       "name": "Ese",
       "url": "https://open.spotify.com/track/23gGTtWSjeTx4HEnAfdCgW"
+    },
+    {
+      "added_at": "2025-03-07 05:00:25",
+      "album": {
+        "name": "Justo A Tiempo",
+        "url": "https://open.spotify.com/album/250KLbxSw8cKrI7pomRdyl"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 307173,
+      "name": "Peque\u00f1as Cosas",
+      "url": "https://open.spotify.com/track/2YtWJzOcIHGC7uNbANUtPE"
     },
     {
       "added_at": "2025-03-07 05:00:25",
@@ -1023,6 +1023,42 @@
     {
       "added_at": "2025-03-07 05:00:25",
       "album": {
+        "name": "Colecci\u00f3n De Oro",
+        "url": "https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 230520,
+      "name": "Desesperado",
+      "url": "https://open.spotify.com/track/3NYWeHXkfrcYa4iXegFUR5"
+    },
+    {
+      "added_at": "2025-03-07 05:00:25",
+      "album": {
+        "name": "Desde Un Principio / From The Beginning",
+        "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 366200,
+      "name": "Vivir Lo Nuestro",
+      "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
+    },
+    {
+      "added_at": "2025-03-07 05:00:25",
+      "album": {
         "name": "A Band And Their Music: Campeones",
         "url": "https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp"
       },
@@ -1067,42 +1103,6 @@
       "duration_ms": 331720,
       "name": "Qu\u00edtate T\u00fa - Live",
       "url": "https://open.spotify.com/track/1rijHA5veEZDV5CrGLpex6"
-    },
-    {
-      "added_at": "2025-03-07 05:00:25",
-      "album": {
-        "name": "Desde Un Principio / From The Beginning",
-        "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
-      },
-      "artists": [
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 366200,
-      "name": "Vivir Lo Nuestro",
-      "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
-    },
-    {
-      "added_at": "2025-03-07 05:00:25",
-      "album": {
-        "name": "Colecci\u00f3n De Oro",
-        "url": "https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 230520,
-      "name": "Desesperado",
-      "url": "https://open.spotify.com/track/3NYWeHXkfrcYa4iXegFUR5"
     },
     {
       "added_at": "2025-03-07 05:00:25",

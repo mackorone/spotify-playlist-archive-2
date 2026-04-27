@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: رامي صبري
 
-438 songs - 1 day 1 hr 41 min
+439 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [Wa2t Sheda](https://open.spotify.com/track/3TTR9oSGljTI2ISZkAGCX6) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Wa2t Sheda](https://open.spotify.com/album/7Hf0ceCHEbXeX8tQuvoCyh) | 3:41 | 2022-11-23 | 2022-12-24 |
 | [Wada3 Wada3](https://open.spotify.com/track/3dJefglOYROViUog6UgkSr) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Wada3 Wada3](https://open.spotify.com/album/70xo6cujDxUFGuqaT9mJ2I) | 3:22 | 2024-09-09 | 2024-12-12 |
 | [Wahed Zayak](https://open.spotify.com/track/2XpZUVC9gAvRpSzBE9g02Q) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Wahed Zayak](https://open.spotify.com/album/3ghKQcOHkEWImVNNiGkJAR) | 5:06 | 2024-06-13 | 2024-09-10 |
-| [Wahshak](https://open.spotify.com/track/5QVN7a9quXpdKgYKPgmVsf) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Wahshak](https://open.spotify.com/album/6COX98TbK2BoUMw6e3Oc6x) | 3:48 | 2024-10-02 |  |
+| [Wahshak](https://open.spotify.com/track/5QVN7a9quXpdKgYKPgmVsf) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Wahshak](https://open.spotify.com/album/6COX98TbK2BoUMw6e3Oc6x) | 3:48 | 2024-10-02 | 2026-04-27 |
 | [Wahshteeny](https://open.spotify.com/track/1a92SdpdJ77U1sjEOOi5OC) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Wahshteeny](https://open.spotify.com/album/4TJPiash9AKTQeDA0LvGGr) | 2:28 | 2023-09-01 | 2024-05-08 |
 | [WALA MEEN](https://open.spotify.com/track/7dlcdKBhZfmK7GrMRIQJid) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [WALA MEEN](https://open.spotify.com/album/52Jft3EkjHz3YizhXvuftP) | 3:12 | 2025-08-01 |  |
 | [WARANA EH](https://open.spotify.com/track/122OVJ6si3hn4XaGPf7yii) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [WARANA EH](https://open.spotify.com/album/75XAqkbEoxy5idj36TULy9) | 3:15 | 2025-05-19 | 2025-08-31 |
@@ -295,6 +295,7 @@
 | [اكشن جاي اتعارك \- عيني جت علي سنيورة](https://open.spotify.com/track/2uq6KhwXlCogpNTmN1cq7x) | [Fares Sokar \- فارس سكر](https://open.spotify.com/artist/6mG5L5mJQIrHrZQZ0ZmpHh) | [اكشن جاي اتعارك \- عيني جت علي سنيورة](https://open.spotify.com/album/0thPfaJUCA1Pe3UPNo7wOl) | 5:42 | 2024-05-07 | 2024-09-10 |
 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 | 2022-04-13 |  |
 | [الحب عيبنا](https://open.spotify.com/track/7wXCvrSJxHVH0uEAzyY1Ct) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [الحب عيبنا](https://open.spotify.com/album/7IVWERFu8EVQuPMCOXRMBU) | 3:56 | 2025-04-10 | 2025-07-19 |
+| [الحضن شوك](https://open.spotify.com/track/0IQH121iAc4jJAhPUol4Yf) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [الحضن شوك](https://open.spotify.com/album/26KryY32FLwZlGHNxmA7N7) | 3:45 | 2026-04-26 |  |
 | [الدنيا ايه](https://open.spotify.com/track/6SBv0Z2UG5lkdJPWIarKj0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [الدنيا ايه](https://open.spotify.com/album/3JqkIHvNZMoWe06n3oQKza) | 3:38 | 2023-06-26 | 2024-02-17 |
 | [الدنيا ملبشه](https://open.spotify.com/track/2fKk4N1SQTJdhOq4xjoHlo) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha) | [الدنيا ملبشه](https://open.spotify.com/album/0X36KfkDjSv4DuGilNlQTd) | 3:05 | 2025-08-13 |  |
 | [الدهب](https://open.spotify.com/track/6Xw3zZd7uXObNVeDox4ZpT) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [الدهب](https://open.spotify.com/album/6LCL6l60ELVYSucbUDwL0P) | 3:09 | 2024-02-16 | 2024-04-19 |

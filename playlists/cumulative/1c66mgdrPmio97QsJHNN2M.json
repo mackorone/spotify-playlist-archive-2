@@ -362,7 +362,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 231055,
       "name": "A Murder in Las Vegas",
       "url": "https://open.spotify.com/track/2RhFSpRg2T1Ml2gBhYsIT3"
@@ -1703,6 +1703,24 @@
     },
     {
       "album": {
+        "name": "Almost 30",
+        "url": "https://open.spotify.com/album/0AzRiZVD2H5jmQNawa46lT"
+      },
+      "artists": [
+        {
+          "name": "Dina D",
+          "url": "https://open.spotify.com/artist/1zTLkYtuX94wYdAVbDhQIE"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175255,
+      "name": "Are You Surprised?",
+      "url": "https://open.spotify.com/track/4ErtDKPMT25RipSKNpFRMq"
+    },
+    {
+      "album": {
         "name": "ARMeniCA $ HouSe of InSTRuMENal",
         "url": "https://open.spotify.com/album/4pDVop73CEQpN3TdaUObhL"
       },
@@ -2418,7 +2436,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 324054,
       "name": "Bad Dream",
       "url": "https://open.spotify.com/track/3iCKSWSpAiJe1ydenHKzWm"
@@ -3608,7 +3626,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 191159,
       "name": "Book boyfriend (Booktok, love shock)",
       "url": "https://open.spotify.com/track/4li11h67VktD4PcHhg5dif"
@@ -4612,6 +4630,24 @@
       "duration_ms": 77239,
       "name": "Caught in the motion",
       "url": "https://open.spotify.com/track/5lrTQX1qN9BOSp3OXCjN82"
+    },
+    {
+      "album": {
+        "name": "Not Another Country-ish Album",
+        "url": "https://open.spotify.com/album/0C6rt44KErAXwgx8HOaZEZ"
+      },
+      "artists": [
+        {
+          "name": "Jason Jarrett",
+          "url": "https://open.spotify.com/artist/4rgw61pW4Elbxf14ssmWWO"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199799,
+      "name": "CEO Approved",
+      "url": "https://open.spotify.com/track/4IFwxgu317ruVNxcAHQZuk"
     },
     {
       "album": {
@@ -7132,7 +7168,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 296888,
       "name": "Don't Stop the Music",
       "url": "https://open.spotify.com/track/16r34UfYsMx2uTdxaR59h9"
@@ -7960,7 +7996,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 241765,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/74xfcnkOPwSnVkVH5sp7HJ"
@@ -8144,7 +8180,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 299085,
       "name": "Endless Fun",
       "url": "https://open.spotify.com/track/1NgoRl1Ip7PKtNFQhRIJ0z"
@@ -10836,7 +10872,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 159950,
       "name": "Going up West",
       "url": "https://open.spotify.com/track/5YtVqD03kIjqXO84Bq0CDP"
@@ -12391,6 +12427,24 @@
     },
     {
       "album": {
+        "name": "honey badger",
+        "url": "https://open.spotify.com/album/1ipew0fm7f2doezm4oyuTd"
+      },
+      "artists": [
+        {
+          "name": "Lamia",
+          "url": "https://open.spotify.com/artist/2SUUAryuEBOvPZxm0zUh2n"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161956,
+      "name": "honey badger",
+      "url": "https://open.spotify.com/track/5ODP8Bs5Teel6AScHGtUAT"
+    },
+    {
+      "album": {
         "name": "Hope you're laughing",
         "url": "https://open.spotify.com/album/0hnyU8qCURPdfJc36cCo2C"
       },
@@ -13664,7 +13718,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 238819,
       "name": "If I Could Go Back",
       "url": "https://open.spotify.com/track/3vJFbGzLiitpTXwEr9ZQ1R"
@@ -14114,7 +14168,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 205156,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/1HXutuM38sdKs9fQ6KXh3K"
@@ -15240,6 +15294,24 @@
       "duration_ms": 204000,
       "name": "Lady",
       "url": "https://open.spotify.com/track/7f1zenijQQBqbdMnP7K3Sf"
+    },
+    {
+      "album": {
+        "name": "Lake Yacht (Pontoon) Party",
+        "url": "https://open.spotify.com/album/0N5vQvMlWevt5xvt0uvWvG"
+      },
+      "artists": [
+        {
+          "name": "Jason Jarrett",
+          "url": "https://open.spotify.com/artist/4rgw61pW4Elbxf14ssmWWO"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264559,
+      "name": "Lake Yacht (Pontoon) Party",
+      "url": "https://open.spotify.com/track/1AWcKkbsgtn4C2aHMac45G"
     },
     {
       "album": {
@@ -17865,6 +17937,24 @@
     },
     {
       "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/5SL8Olh9jXeeu3j317Q8rC"
+      },
+      "artists": [
+        {
+          "name": "Dibona",
+          "url": "https://open.spotify.com/artist/6fxpScTzxpssTBbxQSpPVY"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138264,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/4I6DrYp5IG2jA8xjV02sF3"
+    },
+    {
+      "album": {
         "name": "Midnight Pillowfight",
         "url": "https://open.spotify.com/album/3DFIwIHCJmgTNdO4aDQUsg"
       },
@@ -18530,7 +18620,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 218103,
       "name": "Music Is the Drug of Choice",
       "url": "https://open.spotify.com/track/3CXTW4nA7oT8dvXnc7zVS5"
@@ -19881,6 +19971,24 @@
     },
     {
       "album": {
+        "name": "Not Another Boat Song",
+        "url": "https://open.spotify.com/album/3Xm1R7rVt4k4jFwam8zWK3"
+      },
+      "artists": [
+        {
+          "name": "Jason Jarrett",
+          "url": "https://open.spotify.com/artist/4rgw61pW4Elbxf14ssmWWO"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238399,
+      "name": "Not Another Boat Song",
+      "url": "https://open.spotify.com/track/5CGz6Uyf5A99nDPULtcvC5"
+    },
+    {
+      "album": {
         "name": "Not Empty",
         "url": "https://open.spotify.com/album/5nk3awIKkx4OJSfgskw2NW"
       },
@@ -20658,7 +20766,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 246158,
       "name": "Ooh That Funky Bass",
       "url": "https://open.spotify.com/track/4Hyly8GtoyvB7GcuI9sQuA"
@@ -21054,7 +21162,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 279356,
       "name": "Panic Attack",
       "url": "https://open.spotify.com/track/0UAYuISsgYOvz3G3a9T2wv"
@@ -21234,7 +21342,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 189465,
       "name": "Particles",
       "url": "https://open.spotify.com/track/49h7bW06TzrFLrF8YLi6sg"
@@ -21288,7 +21396,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 197138,
       "name": "Party to the People",
       "url": "https://open.spotify.com/track/5gqpVI2591WjZry02t9b2x"
@@ -21906,7 +22014,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 231779,
       "name": "Positive Energy",
       "url": "https://open.spotify.com/track/4yzrsZ9PFtKztt10vTEpSq"
@@ -23238,7 +23346,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 189660,
       "name": "Rheum",
       "url": "https://open.spotify.com/track/59eYdw83aWMLoJPW6kgdNZ"
@@ -23834,6 +23942,24 @@
       "duration_ms": 222575,
       "name": "Same damn story",
       "url": "https://open.spotify.com/track/0mS3XRqMBp9f6zzRBD6sWn"
+    },
+    {
+      "album": {
+        "name": "Same Trouble",
+        "url": "https://open.spotify.com/album/6HYNBpyGGFgtlxKeiwmQqh"
+      },
+      "artists": [
+        {
+          "name": "Jason Jarrett",
+          "url": "https://open.spotify.com/artist/4rgw61pW4Elbxf14ssmWWO"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207679,
+      "name": "Same Trouble",
+      "url": "https://open.spotify.com/track/1bdERQ6stauTS7DUXlhaPb"
     },
     {
       "album": {
@@ -24658,7 +24784,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 238075,
       "name": "Shockwave",
       "url": "https://open.spotify.com/track/4zWRdirRDv4yvu0Gw4J4PB"
@@ -26398,7 +26524,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 199703,
       "name": "Stranger to Myself",
       "url": "https://open.spotify.com/track/6WcFUCto1rjIRLbx9peLSd"
@@ -27834,7 +27960,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 350547,
       "name": "The Grim Reaper",
       "url": "https://open.spotify.com/track/3NpghfPTgXIXidmkAk8oav"
@@ -29402,7 +29528,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 216980,
       "name": "Too Much Fun",
       "url": "https://open.spotify.com/track/7KD60OsEnkK4xjJebRuRos"
@@ -30190,7 +30316,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 73333,
       "name": "VEM COMIGO/FALA COMIGO",
       "url": "https://open.spotify.com/track/4UlSxht83Ttt1EeX0JPdGa"
@@ -32160,7 +32286,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 234840,
       "name": "Worked Out For Good",
       "url": "https://open.spotify.com/track/0MBHHWnDXQks5W4mDYyE3e"

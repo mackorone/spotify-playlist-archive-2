@@ -1,12 +1,12 @@
 {
   "description": "This is Clara Schumann. The essential tracks, all in one playlist.",
-  "num_followers": 1594,
+  "num_followers": 1599,
   "original_name": "This Is Clara Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAADN+YfCHdTHz5ukXk2taYvR",
+  "snapshot_id": "aewEAAAAAAAc2ub34fxNhcHme/CHvH1L",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,30 @@
       "duration_ms": 318213,
       "name": "Soir\u00e9es musicales, Op. 6: II. Notturno. Andante con moto (Version for Harp)",
       "url": "https://open.spotify.com/track/7msodaosInbttzEEJ9MRfq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3 Romances for Violin and Piano, Op. 22",
+        "url": "https://open.spotify.com/album/1kIdvHiR03ZfQM1Uob2GEl"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Koji Morishita",
+          "url": "https://open.spotify.com/artist/5P3tjwUdsPdyBsBBtM9M8P"
+        },
+        {
+          "name": "German Kitkin",
+          "url": "https://open.spotify.com/artist/5HOVcgYQBn73abTDJP8MTy"
+        }
+      ],
+      "duration_ms": 178947,
+      "name": "3 Romances for Violin and Piano, Op. 22: I. Andante molto",
+      "url": "https://open.spotify.com/track/3k4IVPEnMUBaBvHKqvdHLu"
     },
     {
       "added_at": null,
@@ -59,50 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "3 Romances for Violin and Piano, Op. 22",
-        "url": "https://open.spotify.com/album/1kIdvHiR03ZfQM1Uob2GEl"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Koji Morishita",
-          "url": "https://open.spotify.com/artist/5P3tjwUdsPdyBsBBtM9M8P"
-        },
-        {
-          "name": "German Kitkin",
-          "url": "https://open.spotify.com/artist/5HOVcgYQBn73abTDJP8MTy"
-        }
-      ],
-      "duration_ms": 178947,
-      "name": "3 Romances for Violin and Piano, Op. 22: I. Andante molto",
-      "url": "https://open.spotify.com/track/3k4IVPEnMUBaBvHKqvdHLu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Clara Schumann: Piano Sonata in G Minor",
-        "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Sharon Su",
-          "url": "https://open.spotify.com/artist/2AMO3bJWEATyOhjJnu6gwl"
-        }
-      ],
-      "duration_ms": 165045,
-      "name": "Piano Sonata in G Minor: II. Adagio",
-      "url": "https://open.spotify.com/track/2VQuevTETCknce3C4rtJQW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clara Schumann: Piano Concerto & Works by Hiller, Herz & Kalkbrenner (Hyperion Romantic Piano Concerto 78)",
         "url": "https://open.spotify.com/album/1YtkDggGRGVofgTb5CItJP"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 255600,
       "name": "Piano Concerto in A Minor, Op. 7: II. Romanze. Andante non troppo con grazia \u2013",
       "url": "https://open.spotify.com/track/4BLPyQHCxj1sCP1peVHOJE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clara Schumann: Piano Sonata in G Minor",
+        "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Sharon Su",
+          "url": "https://open.spotify.com/artist/2AMO3bJWEATyOhjJnu6gwl"
+        }
+      ],
+      "duration_ms": 165045,
+      "name": "Piano Sonata in G Minor: II. Adagio",
+      "url": "https://open.spotify.com/track/2VQuevTETCknce3C4rtJQW"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clara Schumann: Piano Concerto & Works by Hiller, Herz & Kalkbrenner (Hyperion Romantic Piano Concerto 78)",
-        "url": "https://open.spotify.com/album/1YtkDggGRGVofgTb5CItJP"
+        "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
+        "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
       },
       "artists": [
         {
@@ -572,17 +572,13 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Tasmanian Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/3WEe5Cpg29CUvsWWv4vRTT"
-        },
-        {
-          "name": "Howard Shelley",
-          "url": "https://open.spotify.com/artist/3pxt6077A2xXBAgMrgHRPg"
+          "name": "Dartington Piano Trio",
+          "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
         }
       ],
-      "duration_ms": 363560,
-      "name": "Piano Concerto in A Minor, Op. 7: I. Allegro maestoso \u2013",
-      "url": "https://open.spotify.com/track/0ZQCcfeL14tv6iTsNjstc2"
+      "duration_ms": 465160,
+      "name": "Piano Trio in G Minor, Op. 17: IV. Allegretto",
+      "url": "https://open.spotify.com/track/2GlnVOUEUpSN4IxKRjy7py"
     },
     {
       "added_at": null,
@@ -607,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
-        "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
+        "name": "Clara Schumann: Piano Concerto & Works by Hiller, Herz & Kalkbrenner (Hyperion Romantic Piano Concerto 78)",
+        "url": "https://open.spotify.com/album/1YtkDggGRGVofgTb5CItJP"
       },
       "artists": [
         {
@@ -616,13 +612,17 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Dartington Piano Trio",
-          "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
+          "name": "Tasmanian Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3WEe5Cpg29CUvsWWv4vRTT"
+        },
+        {
+          "name": "Howard Shelley",
+          "url": "https://open.spotify.com/artist/3pxt6077A2xXBAgMrgHRPg"
         }
       ],
-      "duration_ms": 465160,
-      "name": "Piano Trio in G Minor, Op. 17: IV. Allegretto",
-      "url": "https://open.spotify.com/track/2GlnVOUEUpSN4IxKRjy7py"
+      "duration_ms": 363560,
+      "name": "Piano Concerto in A Minor, Op. 7: I. Allegro maestoso \u2013",
+      "url": "https://open.spotify.com/track/0ZQCcfeL14tv6iTsNjstc2"
     },
     {
       "added_at": null,
@@ -643,6 +643,42 @@
       "duration_ms": 628133,
       "name": "Piano Trio in G Minor, Op. 17: I. Allegro moderato",
       "url": "https://open.spotify.com/track/1iDvTbEI7goxi0frO50MyM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smooth Piano",
+        "url": "https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        }
+      ],
+      "duration_ms": 174149,
+      "name": "Drei Romanzen, Nr. 2, Allegretto - Piano & Violin",
+      "url": "https://open.spotify.com/track/6mINKdNanPXqOjYbg4CJTI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clara Schumann: Piano Sonata in G Minor",
+        "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Sharon Su",
+          "url": "https://open.spotify.com/artist/2AMO3bJWEATyOhjJnu6gwl"
+        }
+      ],
+      "duration_ms": 512721,
+      "name": "Piano Sonata in G Minor: I. Allegro",
+      "url": "https://open.spotify.com/track/13EXQBwEJHb5520ov15a2r"
     },
     {
       "added_at": null,
@@ -671,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clara Schumann: Piano Sonata in G Minor",
-        "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
+        "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
+        "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
       },
       "artists": [
         {
@@ -680,13 +716,13 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Sharon Su",
-          "url": "https://open.spotify.com/artist/2AMO3bJWEATyOhjJnu6gwl"
+          "name": "Dartington Piano Trio",
+          "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
         }
       ],
-      "duration_ms": 512721,
-      "name": "Piano Sonata in G Minor: I. Allegro",
-      "url": "https://open.spotify.com/track/13EXQBwEJHb5520ov15a2r"
+      "duration_ms": 663133,
+      "name": "Piano Trio in G Minor, Op. 17: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/4A6eSx3diStwvHxkfs9YBO"
     },
     {
       "added_at": null,
@@ -735,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
-        "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Dartington Piano Trio",
-          "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
-        }
-      ],
-      "duration_ms": 663133,
-      "name": "Piano Trio in G Minor, Op. 17: I. Allegro moderato",
-      "url": "https://open.spotify.com/track/4A6eSx3diStwvHxkfs9YBO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eternal Clara",
         "url": "https://open.spotify.com/album/19k1RNXANFfY9ZaZmNK0HN"
       },
@@ -771,50 +787,6 @@
       "duration_ms": 190960,
       "name": "Romance, Op. 22: No. 1, Andante Molto",
       "url": "https://open.spotify.com/track/4Tz0FtkyqRLCwmSrrPgYQi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smooth Piano",
-        "url": "https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        }
-      ],
-      "duration_ms": 174149,
-      "name": "Drei Romanzen, Nr. 2, Allegretto - Piano & Violin",
-      "url": "https://open.spotify.com/track/6mINKdNanPXqOjYbg4CJTI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "...wo die Zitronen bl\u00fchn",
-        "url": "https://open.spotify.com/album/7aJHFPy7ULfY3prEatAK3t"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Katharina Schlenker",
-          "url": "https://open.spotify.com/artist/0ZDZKQRzh91SL1sYg5PL5q"
-        },
-        {
-          "name": "figure humaine kammerchor",
-          "url": "https://open.spotify.com/artist/5ZtUa4EuIz9bISCR11GY6w"
-        },
-        {
-          "name": "Denis Rouger",
-          "url": "https://open.spotify.com/artist/3NaHR027J5FIWwvaRWAMXF"
-        }
-      ],
-      "duration_ms": 107240,
-      "name": "6 Lieder, Op. 13: No. 5, Ich hab in deinem Auge (Arr. Rouger for Choir and Piano)",
-      "url": "https://open.spotify.com/track/6hjYDuDibRYOzz9BJhrV59"
     },
     {
       "added_at": null,
@@ -856,9 +828,9 @@
           "url": "https://open.spotify.com/artist/3NaHR027J5FIWwvaRWAMXF"
         }
       ],
-      "duration_ms": 120213,
-      "name": "6 Lieder aus Jucunde, Op. 23: No. 6, O Lust (Arr. Rouger for Choir and Piano)",
-      "url": "https://open.spotify.com/track/78pAwGip8ioQhMVzDOqycP"
+      "duration_ms": 107240,
+      "name": "6 Lieder, Op. 13: No. 5, Ich hab in deinem Auge (Arr. Rouger for Choir and Piano)",
+      "url": "https://open.spotify.com/track/6hjYDuDibRYOzz9BJhrV59"
     },
     {
       "added_at": null,
@@ -875,6 +847,34 @@
       "duration_ms": 305760,
       "name": "Drei Romanzen, Opus 21 Nr 1 Andante - Piano",
       "url": "https://open.spotify.com/track/2Ounp78HmYsjvB1hruGTz1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...wo die Zitronen bl\u00fchn",
+        "url": "https://open.spotify.com/album/7aJHFPy7ULfY3prEatAK3t"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Katharina Schlenker",
+          "url": "https://open.spotify.com/artist/0ZDZKQRzh91SL1sYg5PL5q"
+        },
+        {
+          "name": "figure humaine kammerchor",
+          "url": "https://open.spotify.com/artist/5ZtUa4EuIz9bISCR11GY6w"
+        },
+        {
+          "name": "Denis Rouger",
+          "url": "https://open.spotify.com/artist/3NaHR027J5FIWwvaRWAMXF"
+        }
+      ],
+      "duration_ms": 120213,
+      "name": "6 Lieder aus Jucunde, Op. 23: No. 6, O Lust (Arr. Rouger for Choir and Piano)",
+      "url": "https://open.spotify.com/track/78pAwGip8ioQhMVzDOqycP"
     }
   ],
   "unique_name": "This Is Clara Schumann",

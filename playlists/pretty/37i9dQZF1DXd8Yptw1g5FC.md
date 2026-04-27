@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Tuğba Yurt x İkilem ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,892 likes - 148 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,879 likes - 148 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 59 | [Hey Onbeşli](https://open.spotify.com/track/7C3HFnee3BYbbDomxwyxn9) | [Bilge Kösebalaban](https://open.spotify.com/artist/5OSHR2J6NQfF9pGa1LaS97) | [Hey Onbeşli](https://open.spotify.com/album/0JE1XbHbPjKqEv3GTO5GJV) | 3:09 |
 | 60 | [Hain](https://open.spotify.com/track/1nokBokCUiTUiYhrXxTEN2) | [Umut Capone](https://open.spotify.com/artist/6b6UpfFRLIzgID4z8uVh4R) | [Hain](https://open.spotify.com/album/5sNX9yF0w2AdtWebfEAFql) | 2:40 |
 | 61 | [KÜLÜ BİLE YOK](https://open.spotify.com/track/0DeeqgOLiOARIY1ug7kzed) | [Yiğit Seferoğlu](https://open.spotify.com/artist/23PyUBxakP5fM83oPh8Alc) | [KÜLÜ BİLE YOK](https://open.spotify.com/album/6X1pvM5QtkmfapShOBEc2j) | 2:47 |
-| 62 | [Out of Place](https://open.spotify.com/track/0Lw3y7cKjhfVrRAZDuzovy) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Marta](https://open.spotify.com/artist/0yKu4UH9JSMXb7Cl0b9tGs) | [Out of Place](https://open.spotify.com/album/77B0yWFf0ZnVL0rMLi58zd) | 2:37 |
+| 62 | [Out of Place](https://open.spotify.com/track/0Lw3y7cKjhfVrRAZDuzovy) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Marta](https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7) | [Out of Place](https://open.spotify.com/album/77B0yWFf0ZnVL0rMLi58zd) | 2:37 |
 | 63 | [Aşkolsun! \(Onurr Demo\)](https://open.spotify.com/track/3faa0baxql9qmayu5BUdYC) | [Onurr](https://open.spotify.com/artist/3I3kGrPbyHSER6DIxsbsac) | [Aşkolsun! \(Onurr Demo\)](https://open.spotify.com/album/25llhSsta8jxTTv4tgubxW) | 3:29 |
 | 64 | [Kayıp Bi' Gemi](https://open.spotify.com/track/26pVAhkkBPuhiraNMDpay6) | [Oradaki Elf](https://open.spotify.com/artist/0BqgbYjNgE1bCO5J4XazZw) | [Kayıp Bi' Gemi](https://open.spotify.com/album/02nztWGT4kdcZhhcN5fwCK) | 4:23 |
 | 65 | [Vide \- Radio Edit](https://open.spotify.com/track/0izDUWQCwBSZhbvrcpoSMG) | [Emre Arisev](https://open.spotify.com/artist/124sTO5ajKDucfAMyMvpeo) | [Vide \(Radio Edit\)](https://open.spotify.com/album/0fP7ruSqCYqODSm2FTov9V) | 4:16 |

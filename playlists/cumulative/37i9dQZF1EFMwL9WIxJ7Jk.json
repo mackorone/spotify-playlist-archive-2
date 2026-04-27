@@ -1419,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "Toy With Me",
+        "url": "https://open.spotify.com/album/4NkyWMwVeGOTzWYxcpmYtV"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "Get In Girl",
+      "url": "https://open.spotify.com/track/39xln8inF22akX74IBkwyG"
+    },
+    {
+      "album": {
         "name": "Get In Girl",
         "url": "https://open.spotify.com/album/6CieG4RrsQjO1x03umSVrk"
       },
@@ -1430,7 +1448,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 206511,
       "name": "Get In Girl",
       "url": "https://open.spotify.com/track/7CULOX5o1ekP2LmSfmgOFJ"
@@ -1742,6 +1760,24 @@
       "duration_ms": 197686,
       "name": "Hurt Me - From \"Songland\"",
       "url": "https://open.spotify.com/track/1zHmzN75pKHflokUGZh7sA"
+    },
+    {
+      "album": {
+        "name": "Toy With Me",
+        "url": "https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152447,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/7xY8FD3lqzFEt6d6sBuqgU"
     },
     {
       "album": {
@@ -3435,6 +3471,24 @@
     },
     {
       "album": {
+        "name": "Toy With Me",
+        "url": "https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167095,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/3UOnrnhbfDxh0ORHCQ3DxZ"
+    },
+    {
+      "album": {
         "name": "Takin' It Back",
         "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
       },
@@ -3627,6 +3681,24 @@
     },
     {
       "album": {
+        "name": "Toy With Me",
+        "url": "https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165570,
+      "name": "Still Don't Care",
+      "url": "https://open.spotify.com/track/0yvCnFl1norUccMkLmyofo"
+    },
+    {
+      "album": {
         "name": "Still Don't Care",
         "url": "https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw"
       },
@@ -3638,7 +3710,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 165570,
       "name": "Still Don't Care",
       "url": "https://open.spotify.com/track/17tuuYUw3K1J9pDe4QrWNo"

@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de abril 2026. Cover: Trueno",
-  "num_followers": 1556980,
+  "num_followers": 1556935,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-04-17 04:03:53",
       "album": {
+        "name": "ETERNO",
+        "url": "https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 177038,
+      "name": "EL SENTRITA",
+      "url": "https://open.spotify.com/track/1RDegRqPNWTRSqFWfJ5Qho"
+    },
+    {
+      "added_at": "2026-04-17 04:03:53",
+      "album": {
         "name": "FLAITEERA",
         "url": "https://open.spotify.com/album/4IuwTipm83UsyGlgQclqW8"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 244000,
       "name": "FLAITEERA",
       "url": "https://open.spotify.com/track/2mh6vP7zo6mDXXKLnpHLPt"
-    },
-    {
-      "added_at": "2026-04-17 04:03:53",
-      "album": {
-        "name": "ETERNO",
-        "url": "https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 177038,
-      "name": "EL SENTRITA",
-      "url": "https://open.spotify.com/track/1RDegRqPNWTRSqFWfJ5Qho"
     },
     {
       "added_at": "2026-04-17 04:03:53",
@@ -399,22 +399,18 @@
     {
       "added_at": "2026-04-17 04:03:53",
       "album": {
-        "name": "\u00bfte ACUERDAS de mi?",
-        "url": "https://open.spotify.com/album/4p1LeCsBKpNwg318Z7iIsP"
+        "name": "kiss goodbye / brb",
+        "url": "https://open.spotify.com/album/45omOM9b7ujbjudttnasFa"
       },
       "artists": [
         {
-          "name": "DIA",
-          "url": "https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+          "name": "The Two Lips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
         }
       ],
-      "duration_ms": 173575,
-      "name": "\u00bfte ACUERDAS de mi?",
-      "url": "https://open.spotify.com/track/0frwR02LadHmK4qqoT5gjN"
+      "duration_ms": 163736,
+      "name": "kiss goodbye",
+      "url": "https://open.spotify.com/track/2fv6il8oAlsoOP7sKohscF"
     },
     {
       "added_at": "2026-04-17 04:03:53",
@@ -435,18 +431,22 @@
     {
       "added_at": "2026-04-17 04:03:53",
       "album": {
-        "name": "kiss goodbye / brb",
-        "url": "https://open.spotify.com/album/45omOM9b7ujbjudttnasFa"
+        "name": "\u00bfte ACUERDAS de mi?",
+        "url": "https://open.spotify.com/album/4p1LeCsBKpNwg318Z7iIsP"
       },
       "artists": [
         {
-          "name": "The Two Lips",
-          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+          "name": "DIA",
+          "url": "https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
         }
       ],
-      "duration_ms": 163736,
-      "name": "kiss goodbye",
-      "url": "https://open.spotify.com/track/2fv6il8oAlsoOP7sKohscF"
+      "duration_ms": 173575,
+      "name": "\u00bfte ACUERDAS de mi?",
+      "url": "https://open.spotify.com/track/0frwR02LadHmK4qqoT5gjN"
     },
     {
       "added_at": "2026-04-17 04:03:53",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-04-17 04:03:53",
       "album": {
-        "name": "Oda",
-        "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 224798,
-      "name": "oda",
-      "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
-    },
-    {
-      "added_at": "2026-04-17 04:03:53",
-      "album": {
         "name": "no te vayas",
         "url": "https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 194890,
       "name": "no te vayas",
       "url": "https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C"
+    },
+    {
+      "added_at": "2026-04-17 04:03:53",
+      "album": {
+        "name": "Oda",
+        "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 224798,
+      "name": "oda",
+      "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
     },
     {
       "added_at": "2026-04-17 04:03:53",
@@ -823,6 +823,22 @@
       "duration_ms": 199090,
       "name": "SIEMPRE T PIENSO",
       "url": "https://open.spotify.com/track/0h4j0370l60eGeUOVOOgRU"
+    },
+    {
+      "added_at": "2026-04-17 04:03:53",
+      "album": {
+        "name": "GOLPE",
+        "url": "https://open.spotify.com/album/49AuSYwbco5EczMgDz0kip"
+      },
+      "artists": [
+        {
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
+        }
+      ],
+      "duration_ms": 216875,
+      "name": "GOLPE",
+      "url": "https://open.spotify.com/track/2WkDS7zFZI6Y1xzYLUltI8"
     },
     {
       "added_at": "2026-04-17 04:03:53",
@@ -859,22 +875,6 @@
       "duration_ms": 156970,
       "name": "Tu Gata",
       "url": "https://open.spotify.com/track/6Vug7HMNT0iJ4rUSIzZqMt"
-    },
-    {
-      "added_at": "2026-04-17 04:03:53",
-      "album": {
-        "name": "GOLPE",
-        "url": "https://open.spotify.com/album/49AuSYwbco5EczMgDz0kip"
-      },
-      "artists": [
-        {
-          "name": "FABIAN",
-          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
-        }
-      ],
-      "duration_ms": 216875,
-      "name": "GOLPE",
-      "url": "https://open.spotify.com/track/2WkDS7zFZI6Y1xzYLUltI8"
     },
     {
       "added_at": "2026-04-17 04:03:53",

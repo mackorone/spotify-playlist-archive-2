@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 38205,
+  "num_followers": 38210,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAABZoPtHKtU2I/70wno21ntq",
+  "snapshot_id": "aewEAAAAAADeVgFu5wfcpaYUPFg2g1t8",
   "tracks": [
     {
       "added_at": null,
@@ -299,26 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KiCk i",
-        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 167458,
-      "name": "La Ch\u00edqui",
-      "url": "https://open.spotify.com/track/51Xn6IYNyiYaKc8ECI5CUr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hi This Is Flume (Mixtape)",
         "url": "https://open.spotify.com/album/0enl6lyotKB8LKlUo5m2oJ"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 287331,
       "name": "Is It Cold In The Water? (Flume & Eprom Remix)",
       "url": "https://open.spotify.com/track/04X7LXANC1Vm78k4PhNmTV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KiCk i",
+        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 167458,
+      "name": "La Ch\u00edqui",
+      "url": "https://open.spotify.com/track/51Xn6IYNyiYaKc8ECI5CUr"
     },
     {
       "added_at": null,
@@ -740,7 +740,7 @@
       "added_at": null,
       "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
-        "url": "https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR"
+        "url": "https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ"
       },
       "artists": [
         {
@@ -750,7 +750,7 @@
       ],
       "duration_ms": 265788,
       "name": "Cold World",
-      "url": "https://open.spotify.com/track/1N5PpWpMl66VDyhJ9bNfg5"
+      "url": "https://open.spotify.com/track/0PAQt9xBDPg2010l2KJmkY"
     }
   ],
   "unique_name": "This Is SOPHIE",

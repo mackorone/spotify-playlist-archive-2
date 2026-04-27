@@ -1,12 +1,12 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112818,
+  "num_followers": 112820,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALcVFSJp0KxJD1g2rkrdIAi+znZl",
+  "snapshot_id": "AAAAAC8plM/0wy92xudwUZaOegY3jfKX",
   "tracks": [
     {
       "added_at": "2026-04-17 15:06:15",
@@ -611,6 +611,30 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
+        "name": "na zab\u00f3j",
+        "url": "https://open.spotify.com/album/7MINDF0PK3Jj9Rp2yJAPaj"
+      },
+      "artists": [
+        {
+          "name": "majtis",
+          "url": "https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv"
+        },
+        {
+          "name": "Alien BSC",
+          "url": "https://open.spotify.com/artist/33wR1nI0o5pJgyl4ft8BWT"
+        },
+        {
+          "name": "samunowak",
+          "url": "https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "na zab\u00f3j",
+      "url": "https://open.spotify.com/track/4s6TSLuS5vJv1tmSSSuCXk"
+    },
+    {
+      "added_at": "2026-04-17 15:06:15",
+      "album": {
         "name": "P\u00f3ki Mam Ciebie",
         "url": "https://open.spotify.com/album/6Vf7UxIJeTLSFazrwu6TDy"
       },
@@ -655,30 +679,6 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
-        "name": "na zab\u00f3j",
-        "url": "https://open.spotify.com/album/7MINDF0PK3Jj9Rp2yJAPaj"
-      },
-      "artists": [
-        {
-          "name": "majtis",
-          "url": "https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv"
-        },
-        {
-          "name": "Alien BSC",
-          "url": "https://open.spotify.com/artist/33wR1nI0o5pJgyl4ft8BWT"
-        },
-        {
-          "name": "samunowak",
-          "url": "https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "na zab\u00f3j",
-      "url": "https://open.spotify.com/track/4s6TSLuS5vJv1tmSSSuCXk"
-    },
-    {
-      "added_at": "2026-04-17 15:06:15",
-      "album": {
         "name": "Cztery pory roku",
         "url": "https://open.spotify.com/album/6Bc7mrgqOHPkiELJbPZt0x"
       },
@@ -715,6 +715,26 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
+        "name": "poci\u0105g bez ostatniej stacji",
+        "url": "https://open.spotify.com/album/4AAlpeTlY3hzbcQVmGms73"
+      },
+      "artists": [
+        {
+          "name": "majtis",
+          "url": "https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv"
+        },
+        {
+          "name": "4Money",
+          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
+        }
+      ],
+      "duration_ms": 144505,
+      "name": "poci\u0105g bez ostatniej stacji",
+      "url": "https://open.spotify.com/track/5fSucf8xEDuZxMBMppdeUb"
+    },
+    {
+      "added_at": "2026-04-17 15:06:15",
+      "album": {
         "name": "PAMI\u0118TAJ",
         "url": "https://open.spotify.com/album/3FWEcL3khaOowLFFzgNDLE"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 154736,
       "name": "Dotknij",
       "url": "https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx"
-    },
-    {
-      "added_at": "2026-04-17 15:06:15",
-      "album": {
-        "name": "poci\u0105g bez ostatniej stacji",
-        "url": "https://open.spotify.com/album/4AAlpeTlY3hzbcQVmGms73"
-      },
-      "artists": [
-        {
-          "name": "majtis",
-          "url": "https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv"
-        },
-        {
-          "name": "4Money",
-          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
-        }
-      ],
-      "duration_ms": 144505,
-      "name": "poci\u0105g bez ostatniej stacji",
-      "url": "https://open.spotify.com/track/5fSucf8xEDuZxMBMppdeUb"
     },
     {
       "added_at": "2026-04-17 15:06:15",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
+        "name": "Szeroko\u015bci!",
+        "url": "https://open.spotify.com/album/2SIVV4JMG2Yfc8ZAo96nZU"
+      },
+      "artists": [
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "duration_ms": 157607,
+      "name": "Szeroko\u015bci!",
+      "url": "https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8"
+    },
+    {
+      "added_at": "2026-04-17 15:06:15",
+      "album": {
         "name": "Wild Guess",
         "url": "https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU"
       },
@@ -959,26 +975,6 @@
       "duration_ms": 166524,
       "name": "Wild Guess",
       "url": "https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn"
-    },
-    {
-      "added_at": "2026-04-17 15:06:15",
-      "album": {
-        "name": "Jak to jest",
-        "url": "https://open.spotify.com/album/0azwKn7dzVNHDTtc8P60uO"
-      },
-      "artists": [
-        {
-          "name": "Zuza Jab\u0142o\u0144ska",
-          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
-        },
-        {
-          "name": "Micha\u0142 Szczygie\u0142",
-          "url": "https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z"
-        }
-      ],
-      "duration_ms": 212419,
-      "name": "Jak to jest",
-      "url": "https://open.spotify.com/track/3b3XIBnhmU4zAt9vddjVvh"
     },
     {
       "added_at": "2026-04-17 15:06:15",
@@ -999,18 +995,22 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
-        "name": "Szeroko\u015bci!",
-        "url": "https://open.spotify.com/album/2SIVV4JMG2Yfc8ZAo96nZU"
+        "name": "Jak to jest",
+        "url": "https://open.spotify.com/album/0azwKn7dzVNHDTtc8P60uO"
       },
       "artists": [
         {
-          "name": "Nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+          "name": "Zuza Jab\u0142o\u0144ska",
+          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
+        },
+        {
+          "name": "Micha\u0142 Szczygie\u0142",
+          "url": "https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z"
         }
       ],
-      "duration_ms": 157607,
-      "name": "Szeroko\u015bci!",
-      "url": "https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8"
+      "duration_ms": 212419,
+      "name": "Jak to jest",
+      "url": "https://open.spotify.com/track/3b3XIBnhmU4zAt9vddjVvh"
     },
     {
       "added_at": "2026-04-17 15:06:15",

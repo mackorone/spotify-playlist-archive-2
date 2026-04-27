@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 10374,
+  "num_followers": 10375,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAACsxE3cCI7GxATZzF+7xcce",
+  "snapshot_id": "aewEAAAAAAD95Vu726NzkQ4iFa+5dXkh",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tiranos del Norte",
+        "url": "https://open.spotify.com/album/2N2PsW32lWDtPq1wM8EGKf"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 197825,
+      "name": "Matame a Besos",
+      "url": "https://open.spotify.com/track/0om9GXGwk5d7VNyp0nOSuW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De la Tierra al Cielo VII",
         "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 203373,
       "name": "Que Se Junten Nuestros Brazos",
       "url": "https://open.spotify.com/track/0WfrlRx7Uifvj3yDtJXMyH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tiranos del Norte",
-        "url": "https://open.spotify.com/album/2N2PsW32lWDtPq1wM8EGKf"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 197825,
-      "name": "Matame a Besos",
-      "url": "https://open.spotify.com/track/0om9GXGwk5d7VNyp0nOSuW"
     },
     {
       "added_at": null,
@@ -591,22 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voy A Pedirte Perd\u00f3n",
-        "url": "https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6"
+        "name": "De La Tierra Al Cielo",
+        "url": "https://open.spotify.com/album/26ituv9NGfhhNkAU68BnHd"
       },
       "artists": [
         {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+          "name": "Grupo Libra",
+          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
         },
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 208480,
-      "name": "Vamos A Olvidarnos De Ella",
-      "url": "https://open.spotify.com/track/3epFeTILO3xEEfk7lSrsVe"
+      "duration_ms": 157559,
+      "name": "De La Tierra Al Cielo",
+      "url": "https://open.spotify.com/track/1pVu9Epwe1gdQ4aeHcW5QO"
     },
     {
       "added_at": null,
@@ -636,29 +636,29 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 169116,
-      "name": "En Tu Dia Mi Amor",
-      "url": "https://open.spotify.com/track/7h6ulEngQG3YQqX8DPpZFH"
+      "duration_ms": 205400,
+      "name": "Que Te Perdone Dios",
+      "url": "https://open.spotify.com/track/7tf3InyYrlyM1hVSbqUYmE"
     },
     {
       "added_at": null,
       "album": {
-        "name": "De La Tierra Al Cielo",
-        "url": "https://open.spotify.com/album/26ituv9NGfhhNkAU68BnHd"
+        "name": "Voy A Pedirte Perd\u00f3n",
+        "url": "https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6"
       },
       "artists": [
         {
-          "name": "Grupo Libra",
-          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
-        },
-        {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        },
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 157559,
-      "name": "De La Tierra Al Cielo",
-      "url": "https://open.spotify.com/track/1pVu9Epwe1gdQ4aeHcW5QO"
+      "duration_ms": 208480,
+      "name": "Vamos A Olvidarnos De Ella",
+      "url": "https://open.spotify.com/track/3epFeTILO3xEEfk7lSrsVe"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 205400,
-      "name": "Que Te Perdone Dios",
-      "url": "https://open.spotify.com/track/7tf3InyYrlyM1hVSbqUYmE"
+      "duration_ms": 169116,
+      "name": "En Tu Dia Mi Amor",
+      "url": "https://open.spotify.com/track/7h6ulEngQG3YQqX8DPpZFH"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ll\u00e9vate Todo",
+        "url": "https://open.spotify.com/album/6rRxR8zzSTJRPBwnIG8lZr"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 182773,
+      "name": "Ll\u00e9vate Todo",
+      "url": "https://open.spotify.com/track/0sDBdYGq7z545Kg221otie"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con Sangre Nortena",
         "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 196075,
       "name": "El Libro de los Dioses",
       "url": "https://open.spotify.com/track/3whUtAF1vN1RGfMZ9QJ61P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Exitos De Oro",
-        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 192946,
-      "name": "Por Una Mujer Bonita",
-      "url": "https://open.spotify.com/track/39AnTZLp0oKSewkKjFZ6Jv"
     }
   ],
   "unique_name": "This Is Los Tiranos Del Norte",

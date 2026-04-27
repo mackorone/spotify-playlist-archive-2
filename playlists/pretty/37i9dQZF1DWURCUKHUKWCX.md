@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,387 likes - 184 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,447 likes - 184 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 183 | [Last to Let Go \- Daigo Hanada Rework](https://open.spotify.com/track/3baIpuf7biyuTFM32j0Coe) | [Richard Luke](https://open.spotify.com/artist/6d6LoDu28FVz8DRGehoClE), [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Last to Let Go \(Daigo Hanada Rework\)](https://open.spotify.com/album/7J6JgkOoCbtD0BVxHNvPJZ) | 3:38 |
 | 184 | [Outside](https://open.spotify.com/track/1R5P9ersiA9xKk00JEXfSU) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi) | [Outside](https://open.spotify.com/album/108OAvmRUCY02QqJ3C4OT0) | 1:58 |
 
-Snapshot ID: `AAAAAKJzffL7Fspk735GL2SlvJgiP1N9`
+Snapshot ID: `AAAAAP+rPr3KVYveBXAtVXtkHgsvdkah`

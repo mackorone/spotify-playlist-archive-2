@@ -4,7 +4,7 @@
 
 > Alcuni amori bruciano più di altri\. Cover: Tony Boy
 
-266 songs - 13 hr 29 min
+267 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [La tua canzone](https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy) | 3:12 | 2022-05-03 | 2025-05-27 |
 | [Labirinto](https://open.spotify.com/track/11C1h0tuCW9qRa1QGPV9Vj) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Labirinto](https://open.spotify.com/album/0vrr3P8BXPhM3eXtsBptuq) | 3:47 | 2026-02-25 |  |
 | [Lacrime](https://open.spotify.com/track/58Z81LreWvl772tymig5fd) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [UFORIA](https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB) | 2:24 | 2025-11-20 | 2026-01-02 |
-| [Lame \(feat\. CLARA, Tedua\)](https://open.spotify.com/track/5sHB0BW7azchwsEINurkIM) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [GLORIA](https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf) | 2:28 | 2025-12-12 |  |
+| [Lame \(feat\. CLARA, Tedua\)](https://open.spotify.com/track/5sHB0BW7azchwsEINurkIM) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [GLORIA](https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf) | 2:28 | 2025-12-12 | 2026-04-27 |
 | [LE PAROLE CHE NON TI HO DETTO](https://open.spotify.com/track/4lFkZOGYndTJt4uwThq3se) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [AMES](https://open.spotify.com/artist/1DhzHrE6TkzJ6IDJx2GfNN) | [LE PAROLE CHE NON TI HO DETTO](https://open.spotify.com/album/15xgyu9TDje9YVbKwvillq) | 2:12 | 2026-02-12 |  |
 | [LEI](https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:43 | 2024-12-13 |  |
 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 | 2022-07-05 |  |
@@ -252,6 +252,7 @@
 | [Tristano e Isotta](https://open.spotify.com/track/7dFfkSJrAHnUdKM5jaUOLt) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 3:37 | 2026-02-02 |  |
 | [TU](https://open.spotify.com/track/5iQFM9o3ndzSMd8r5n11AU) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:49 | 2025-05-16 |  |
 | [Tu ed io \(feat\. thasup, Finesse\)](https://open.spotify.com/track/4JFt4pwBLb2Zsy44QRBG88) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [UFORIA](https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB) | 2:59 | 2025-11-20 |  |
+| [Tu mi Fai](https://open.spotify.com/track/2D3FslngNUdbeynfwSecP0) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [Tu mi Fai](https://open.spotify.com/album/2ZthohZoAlS5pJ0YBQHYcG) | 2:41 | 2026-04-24 |  |
 | [Tu Mi Piaci \(feat\. Artie 5ive\)](https://open.spotify.com/track/5O5yM8JaaL0erqrP9h7bR2) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Latte in Polvere](https://open.spotify.com/album/1RjEbi0mbq9x7oUDMWq159) | 2:25 | 2025-11-06 |  |
 | [Tu Non Sei Lei](https://open.spotify.com/track/4KePlRbM1bdY6LIKH8kURb) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 2:59 | 2024-01-12 | 2024-01-26 |
 | [TUTTO FUORI CONTROLLO ൵ \(con Franco 126, Kid Yugi, Izi\)](https://open.spotify.com/track/7EpeEp1AB5Qs4Y8LXvn5xG) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 3:20 | 2024-04-04 | 2024-04-27 |

@@ -1509,6 +1509,28 @@
     },
     {
       "album": {
+        "name": "POMPEII // UTILITY",
+        "url": "https://open.spotify.com/album/3RoyVaZOzBSTfo6jm4dvSR"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "SURF GANG",
+          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125874,
+      "name": ":( again :)",
+      "url": "https://open.spotify.com/track/3c58iYS20gg5d6rSrVgd5r"
+    },
+    {
+      "album": {
         "name": "A Ballet Through Mud",
         "url": "https://open.spotify.com/album/1V7GCRkLVk2xDAxUmzKypT"
       },
@@ -5872,7 +5894,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 219570,
       "name": "Beams",
       "url": "https://open.spotify.com/track/4yNK2ybBbO7CiuSyTNvBc8"
@@ -14716,7 +14738,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 245188,
       "name": "Deep Harbour - Misty Bay Mix",
       "url": "https://open.spotify.com/track/3Aadwkc26wwCl6InYWiiNv"
@@ -18690,7 +18712,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 251861,
       "name": "Echo From The Flames",
       "url": "https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7"
@@ -21018,7 +21040,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 169330,
       "name": "FATHER (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
@@ -21054,7 +21076,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 372773,
       "name": "Father To Son - Backing Track",
       "url": "https://open.spotify.com/track/3lJfrrGjBxTmKgTLn63ER1"
@@ -22456,7 +22478,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 196475,
       "name": "For the Moment",
       "url": "https://open.spotify.com/track/07JkhmwQcuzNWimW094kHe"
@@ -26580,7 +26602,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 179565,
       "name": "Gotham Part. 2",
       "url": "https://open.spotify.com/track/5n3GNnCiYnbGvfZgH3hrFU"
@@ -28836,7 +28858,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 202053,
       "name": "Higher Ground - Remastered 2003",
       "url": "https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl"
@@ -29284,7 +29306,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 97874,
       "name": "Home on the Range",
       "url": "https://open.spotify.com/track/4FuMwTYcUbE8TBzbJPyU8Y"
@@ -39374,7 +39396,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 197046,
       "name": "Love In Exile (feat. Michael McDonald & Kenny Loggins)",
       "url": "https://open.spotify.com/track/3SfgUB5bltOecirPxcevPM"
@@ -41768,7 +41790,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 172235,
       "name": "Mission",
       "url": "https://open.spotify.com/track/4VHfI89GQDDxcKZKB3D1Ls"
@@ -51138,7 +51160,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 1166904,
       "name": "Prison from Einstein on the Beach (arranged for Two Pianos)",
       "url": "https://open.spotify.com/track/0pgA6dDBQWT4CeTsve9wyD"
@@ -51354,7 +51376,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 886034,
       "name": "Protest from Satyagraha (arranged for Two Pianos)",
       "url": "https://open.spotify.com/track/1fKeRYlYHNpqanDN86hdd2"
@@ -55737,6 +55759,28 @@
     },
     {
       "album": {
+        "name": "Ambiguous Desire",
+        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242541,
+      "name": "Senses ft. Sampha",
+      "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
+    },
+    {
+      "album": {
         "name": "Sentry (feat. MIKE)",
         "url": "https://open.spotify.com/album/5XrYVLVAJTGiBt43Pdusuo"
       },
@@ -56372,7 +56416,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 88640,
       "name": "Shifty",
       "url": "https://open.spotify.com/track/7MG2w7DGUT4JrFXV3KG4oK"
@@ -61968,7 +62012,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 128293,
       "name": "S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/0rq02HJcHdHnya1SjRqAec"
@@ -64094,7 +64138,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 398320,
       "name": "The Former Site Of",
       "url": "https://open.spotify.com/track/73NSR0zuF1CgdeICZMNPaM"
@@ -68582,7 +68626,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 196371,
       "name": "UNCANNY VALLEY",
       "url": "https://open.spotify.com/track/5CTcF00NFuaDfuwzpQBZ0I"
@@ -69080,7 +69124,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 179815,
       "name": "Use Somebody (Live)",
       "url": "https://open.spotify.com/track/3Dsa9Iw9GcM6ODPMr1pFN4"

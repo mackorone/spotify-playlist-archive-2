@@ -1,6 +1,6 @@
 {
   "description": "Deutschsprachige Liebeslieder, die mitten ins Herz gehen \u2665\ufe0f",
-  "num_followers": 205382,
+  "num_followers": 205416,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
+        "name": "Grande",
+        "url": "https://open.spotify.com/album/1eYX6uNoyhwTdZMELCKnMW"
+      },
+      "artists": [
+        {
+          "name": "Von Wegen Lisbeth",
+          "url": "https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq"
+        }
+      ],
+      "duration_ms": 230419,
+      "name": "Wenn du tanzt",
+      "url": "https://open.spotify.com/track/0G7vexduCvboPyIGjJXQIC"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
         "name": "Falle F\u00fcr Dich",
         "url": "https://open.spotify.com/album/0P5Ge8SdDUCZRmaLPNUeNH"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 222642,
       "name": "Bei Dir",
       "url": "https://open.spotify.com/track/3XpEKPj7KZt0yYWd7PQf5d"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
-        "name": "Grande",
-        "url": "https://open.spotify.com/album/1eYX6uNoyhwTdZMELCKnMW"
-      },
-      "artists": [
-        {
-          "name": "Von Wegen Lisbeth",
-          "url": "https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq"
-        }
-      ],
-      "duration_ms": 230419,
-      "name": "Wenn du tanzt",
-      "url": "https://open.spotify.com/track/0G7vexduCvboPyIGjJXQIC"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Mit Dir",
-        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Mit Dir",
-      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "BIS WIR ALT SIND",
         "url": "https://open.spotify.com/album/2gFwk2YBAnZQSNd2wmnvHV"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 154500,
       "name": "BIS WIR ALT SIND",
       "url": "https://open.spotify.com/track/5LR51Zn4yKXA1ogGZnfLEM"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Mit Dir",
+        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Mit Dir",
+      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -519,26 +519,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "WIE LIEBE GEHT",
-        "url": "https://open.spotify.com/album/3O6GezOQBYoVUm6fX9wW8k"
-      },
-      "artists": [
-        {
-          "name": "Gregor H\u00e4gele",
-          "url": "https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt"
-        },
-        {
-          "name": "Romero",
-          "url": "https://open.spotify.com/artist/2Lg7y5DHmBMrxRI6Y4ThfU"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "WIE LIEBE GEHT",
-      "url": "https://open.spotify.com/track/7pk0TzbdVwQRrnrLenPme1"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Mailbox",
         "url": "https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa"
       },
@@ -559,6 +539,26 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
+        "name": "WIE LIEBE GEHT",
+        "url": "https://open.spotify.com/album/3O6GezOQBYoVUm6fX9wW8k"
+      },
+      "artists": [
+        {
+          "name": "Gregor H\u00e4gele",
+          "url": "https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt"
+        },
+        {
+          "name": "Romero",
+          "url": "https://open.spotify.com/artist/2Lg7y5DHmBMrxRI6Y4ThfU"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "WIE LIEBE GEHT",
+      "url": "https://open.spotify.com/track/7pk0TzbdVwQRrnrLenPme1"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
         "name": "Zwischen meinen Zeilen (Deluxe)",
         "url": "https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd"
       },
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Immer Nur An Dich",
-        "url": "https://open.spotify.com/album/0zRP13ekW4PETWa0xL2iBC"
-      },
-      "artists": [
-        {
-          "name": "Tom Twers",
-          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
-        }
-      ],
-      "duration_ms": 117000,
-      "name": "Immer Nur An Dich",
-      "url": "https://open.spotify.com/track/0P09fm8FrVraMoJ3beXoEk"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Nur wegen dir",
         "url": "https://open.spotify.com/album/6QoPwcohKlWQsotj6HZXDl"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 203826,
       "name": "Nur wegen dir",
       "url": "https://open.spotify.com/track/0ui2kVwPZKHaZxGhdIzBrp"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Immer Nur An Dich",
+        "url": "https://open.spotify.com/album/0zRP13ekW4PETWa0xL2iBC"
+      },
+      "artists": [
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+        }
+      ],
+      "duration_ms": 117000,
+      "name": "Immer Nur An Dich",
+      "url": "https://open.spotify.com/track/0P09fm8FrVraMoJ3beXoEk"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
+        "name": "Wei\u00dfe Haare",
+        "url": "https://open.spotify.com/album/0yE1tu84Ie5SjfpOmvoa2j"
+      },
+      "artists": [
+        {
+          "name": "Florian K\u00fcnstler",
+          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
+        }
+      ],
+      "duration_ms": 169775,
+      "name": "Wei\u00dfe Haare",
+      "url": "https://open.spotify.com/track/1MUMsiZAZ4qAEVKb51uKst"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
         "name": "M\u00e4rchen aus Hollywood",
         "url": "https://open.spotify.com/album/4uioPKee37JpLak8Dyhy6Z"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 279935,
       "name": "M\u00e4rchen aus Hollywood",
       "url": "https://open.spotify.com/track/2V7MwHRxzmImYP3HeGOY1a"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
-        "name": "Wei\u00dfe Haare",
-        "url": "https://open.spotify.com/album/0yE1tu84Ie5SjfpOmvoa2j"
-      },
-      "artists": [
-        {
-          "name": "Florian K\u00fcnstler",
-          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
-        }
-      ],
-      "duration_ms": 169775,
-      "name": "Wei\u00dfe Haare",
-      "url": "https://open.spotify.com/track/1MUMsiZAZ4qAEVKb51uKst"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
+        "name": "Liege wieder wach",
+        "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Liege wieder wach",
+      "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
         "name": "UDOPIUM - Das Beste (Special Edition)",
         "url": "https://open.spotify.com/album/3qX7krhIO0hHLqQlF1jPoZ"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 204292,
       "name": "Cello (feat. Clueso) - MTV Unplugged Radio Atmo-Version",
       "url": "https://open.spotify.com/track/67UtSTImmThuQAxv1iEgGF"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
-        "name": "Liege wieder wach",
-        "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Liege wieder wach",
-      "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -987,18 +987,18 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Blaue Augen",
-        "url": "https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc"
+        "name": "F\u00fcr immer ab jetzt",
+        "url": "https://open.spotify.com/album/3gMlAC8jGqqbkEOpLNN339"
       },
       "artists": [
         {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+          "name": "Johannes Oerding",
+          "url": "https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K"
         }
       ],
-      "duration_ms": 167873,
-      "name": "Blaue Augen",
-      "url": "https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS"
+      "duration_ms": 231946,
+      "name": "F\u00fcr immer ab jetzt",
+      "url": "https://open.spotify.com/track/66mXcPaJtk3uxj86CPYZ2L"
     }
   ],
   "unique_name": "Liebeslieder",

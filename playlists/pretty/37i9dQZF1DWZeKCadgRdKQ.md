@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient electric guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,943,597 likes - 183 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,944,185 likes - 183 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 182 | [Etherea](https://open.spotify.com/track/0DGp9OO9aUgYtBrmpSTewL) | [Lumen Atlas](https://open.spotify.com/artist/0vDZe8eJxdzdC8EbJRjbKx) | [Etherea](https://open.spotify.com/album/3BkxwKuNs5yZ23c8KTNXqy) | 1:58 |
 | 183 | [Shine Beyond](https://open.spotify.com/track/50Cjq7n6wWz2An7U86M7B8) | [Nolan West](https://open.spotify.com/artist/25DKElOUj8NYekti1LTyzS) | [Shine Beyond](https://open.spotify.com/album/5hW2I2ajxDT3cp6tjGNGOp) | 2:35 |
 
-Snapshot ID: `AAAAACUrWOBC4bJb88P3KMhwSwbM8FWv`
+Snapshot ID: `AAAAAAynE3unWq/u+ol1aEetNiBWmGUR`

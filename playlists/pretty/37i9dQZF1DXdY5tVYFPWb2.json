@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 181082,
+  "num_followers": 181105,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-04-14 15:00:50",
       "album": {
+        "name": "kiri\u304c\u306a\u3044\u3067\u3059\u308f",
+        "url": "https://open.spotify.com/album/5OZdzA65lHi0E53GT57XZf"
+      },
+      "artists": [
+        {
+          "name": "I Don't Like Mondays.",
+          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
+        }
+      ],
+      "duration_ms": 168353,
+      "name": "kiri\u304c\u306a\u3044\u3067\u3059\u308f",
+      "url": "https://open.spotify.com/track/6eArsdpADo1RTt7zX2Ys1K"
+    },
+    {
+      "added_at": "2026-04-14 15:00:50",
+      "album": {
         "name": "\u30c8\u30c9\u30e1\u306e\u4e00\u6483 (feat. Cory Wong)",
         "url": "https://open.spotify.com/album/7jUTLJgcOL6z7ou8TVVh24"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": "2026-04-14 15:00:50",
       "album": {
-        "name": "kiri\u304c\u306a\u3044\u3067\u3059\u308f",
-        "url": "https://open.spotify.com/album/5OZdzA65lHi0E53GT57XZf"
-      },
-      "artists": [
-        {
-          "name": "I Don't Like Mondays.",
-          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
-        }
-      ],
-      "duration_ms": 168353,
-      "name": "kiri\u304c\u306a\u3044\u3067\u3059\u308f",
-      "url": "https://open.spotify.com/track/6eArsdpADo1RTt7zX2Ys1K"
-    },
-    {
-      "added_at": "2026-04-14 15:00:50",
-      "album": {
         "name": "Groove it",
         "url": "https://open.spotify.com/album/4GQsvPVVp3eMNIJdIc7bKZ"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-04-14 15:00:50",
       "album": {
-        "name": "\u66d6\u6627\u306aBEACH",
-        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
-      },
-      "artists": [
-        {
-          "name": "\u793c\u8cdb",
-          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "\u66d6\u6627\u306aBEACH",
-      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
-    },
-    {
-      "added_at": "2026-04-14 15:00:50",
-      "album": {
         "name": "\u96e2\u5a5a\u4f1d\u8aac",
         "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 162960,
       "name": "\u307e\u305f\u65c5\u306b\u8a98\u308f\u308c\u3066",
       "url": "https://open.spotify.com/track/5l0SzsTg6IBI3LwfLvq4f2"
+    },
+    {
+      "added_at": "2026-04-14 15:00:50",
+      "album": {
+        "name": "\u66d6\u6627\u306aBEACH",
+        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
+      },
+      "artists": [
+        {
+          "name": "\u793c\u8cdb",
+          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "\u66d6\u6627\u306aBEACH",
+      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
     },
     {
       "added_at": "2026-04-14 15:00:50",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-04-14 15:00:50",
       "album": {
+        "name": "\u767d\u7121\u57a2",
+        "url": "https://open.spotify.com/album/0QyNQAjr0iOZOp4n5EeyiB"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "\u767d\u7121\u57a2",
+      "url": "https://open.spotify.com/track/2QzJWdpJOGKwAIyA4anrbo"
+    },
+    {
+      "added_at": "2026-04-14 15:00:50",
+      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 237106,
       "name": "\u3042\u3089\u308f\u308c\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa"
-    },
-    {
-      "added_at": "2026-04-14 15:00:50",
-      "album": {
-        "name": "\u767d\u7121\u57a2",
-        "url": "https://open.spotify.com/album/0QyNQAjr0iOZOp4n5EeyiB"
-      },
-      "artists": [
-        {
-          "name": "Tatsuya Kitani",
-          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "\u767d\u7121\u57a2",
-      "url": "https://open.spotify.com/track/2QzJWdpJOGKwAIyA4anrbo"
     },
     {
       "added_at": "2026-04-14 15:00:50",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-04-14 15:00:50",
       "album": {
-        "name": "My Plan",
-        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 223350,
-      "name": "My Plan",
-      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
-    },
-    {
-      "added_at": "2026-04-14 15:00:50",
-      "album": {
         "name": "Watching Over You",
         "url": "https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2026-04-14 15:00:50",
       "album": {
+        "name": "My Plan",
+        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 223350,
+      "name": "My Plan",
+      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
+    },
+    {
+      "added_at": "2026-04-14 15:00:50",
+      "album": {
         "name": "\u771f\u590f\u306e\u77ac\u9593",
         "url": "https://open.spotify.com/album/1NVHw11pJG5Fkka9jaqK8d"
       },
@@ -1179,38 +1179,6 @@
       "duration_ms": 233596,
       "name": "\u771f\u590f\u306e\u77ac\u9593",
       "url": "https://open.spotify.com/track/494g2jXMwqkCRhWg4g02OZ"
-    },
-    {
-      "added_at": "2026-04-14 15:00:50",
-      "album": {
-        "name": "cherish",
-        "url": "https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 279120,
-      "name": "\u300c\u3042\u306e\u5a18\u306f\u8ab0\uff1f\u300d\u3068\u304b\u8a00\u308f\u305b\u305f\u3044",
-      "url": "https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4"
-    },
-    {
-      "added_at": "2026-04-14 15:00:50",
-      "album": {
-        "name": "\u30ed\u30de\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf"
-      },
-      "artists": [
-        {
-          "name": "kiki vivi lily",
-          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
-        }
-      ],
-      "duration_ms": 224600,
-      "name": "\u30ed\u30de\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC"
     },
     {
       "added_at": "2026-04-14 15:00:50",
@@ -1231,22 +1199,34 @@
     {
       "added_at": "2026-04-14 15:00:50",
       "album": {
-        "name": "NEW GRAVITY",
-        "url": "https://open.spotify.com/album/6VRUwYtMFyRlfRKXhTPEkA"
+        "name": "\u30ed\u30de\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf"
       },
       "artists": [
         {
-          "name": "Nulbarich",
-          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
-        },
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
         }
       ],
-      "duration_ms": 228733,
-      "name": "ASH feat. Vaundy",
-      "url": "https://open.spotify.com/track/00lGrbFYsAmvWUktnujaKO"
+      "duration_ms": 224600,
+      "name": "\u30ed\u30de\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC"
+    },
+    {
+      "added_at": "2026-04-14 15:00:50",
+      "album": {
+        "name": "cherish",
+        "url": "https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 279120,
+      "name": "\u300c\u3042\u306e\u5a18\u306f\u8ab0\uff1f\u300d\u3068\u304b\u8a00\u308f\u305b\u305f\u3044",
+      "url": "https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4"
     },
     {
       "added_at": "2026-04-14 15:00:50",
@@ -1263,6 +1243,26 @@
       "duration_ms": 201642,
       "name": "Amber",
       "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
+    },
+    {
+      "added_at": "2026-04-14 15:00:50",
+      "album": {
+        "name": "NEW GRAVITY",
+        "url": "https://open.spotify.com/album/6VRUwYtMFyRlfRKXhTPEkA"
+      },
+      "artists": [
+        {
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+        },
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 228733,
+      "name": "ASH feat. Vaundy",
+      "url": "https://open.spotify.com/track/00lGrbFYsAmvWUktnujaKO"
     },
     {
       "added_at": "2026-04-14 15:00:50",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2026-04-14 15:00:50",
       "album": {
-        "name": "Torie",
-        "url": "https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG"
+        "name": "Inner Ocean",
+        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
       },
       "artists": [
         {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
         }
       ],
-      "duration_ms": 234380,
-      "name": "Torie",
-      "url": "https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj"
+      "duration_ms": 223808,
+      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
+      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
     },
     {
       "added_at": "2026-04-14 15:00:50",
@@ -1435,34 +1435,18 @@
     {
       "added_at": "2026-04-14 15:00:50",
       "album": {
-        "name": "Inner Ocean",
-        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
+        "name": "MUSIC WARDROBE",
+        "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
       },
       "artists": [
         {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
         }
       ],
-      "duration_ms": 223808,
-      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
-      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
-    },
-    {
-      "added_at": "2026-04-14 15:00:50",
-      "album": {
-        "name": "TYT",
-        "url": "https://open.spotify.com/album/27fwOpwm1gAJ6z76Wgz0PI"
-      },
-      "artists": [
-        {
-          "name": "Offo tokyo",
-          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "TYT",
-      "url": "https://open.spotify.com/track/4oY7S5fKfIxMW6aCfRtJYl"
+      "duration_ms": 225680,
+      "name": "Don't Be Someone Else",
+      "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
     },
     {
       "added_at": "2026-04-14 15:00:50",
@@ -1479,38 +1463,6 @@
       "duration_ms": 259615,
       "name": "\u541b\u3068drive",
       "url": "https://open.spotify.com/track/0pzIH1bTIz660rCPDJQSxk"
-    },
-    {
-      "added_at": "2026-04-14 15:00:50",
-      "album": {
-        "name": "CYM",
-        "url": "https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 249090,
-      "name": "CYM",
-      "url": "https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE"
-    },
-    {
-      "added_at": "2026-04-14 15:00:50",
-      "album": {
-        "name": "MUSIC WARDROBE",
-        "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
-      },
-      "artists": [
-        {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
-        }
-      ],
-      "duration_ms": 225680,
-      "name": "Don't Be Someone Else",
-      "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
     },
     {
       "added_at": "2026-04-14 15:00:50",
@@ -1535,6 +1487,38 @@
     {
       "added_at": "2026-04-14 15:00:50",
       "album": {
+        "name": "TYT",
+        "url": "https://open.spotify.com/album/27fwOpwm1gAJ6z76Wgz0PI"
+      },
+      "artists": [
+        {
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "TYT",
+      "url": "https://open.spotify.com/track/4oY7S5fKfIxMW6aCfRtJYl"
+    },
+    {
+      "added_at": "2026-04-14 15:00:50",
+      "album": {
+        "name": "Torie",
+        "url": "https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 234380,
+      "name": "Torie",
+      "url": "https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj"
+    },
+    {
+      "added_at": "2026-04-14 15:00:50",
+      "album": {
         "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
         "url": "https://open.spotify.com/album/4bhJB89vkQ7S1jgpeOvPqs"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 275935,
       "name": "Document",
       "url": "https://open.spotify.com/track/0gYmeKnZ1lhtMH6Vtwkk2z"
+    },
+    {
+      "added_at": "2026-04-14 15:00:50",
+      "album": {
+        "name": "RELOADING CITY",
+        "url": "https://open.spotify.com/album/5d3CHvw9X4uTPNtTHJKneI"
+      },
+      "artists": [
+        {
+          "name": "MONONKVL",
+          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
+        }
+      ],
+      "duration_ms": 264360,
+      "name": "\u30a2\u30dd\u30ed",
+      "url": "https://open.spotify.com/track/1Dcj3N48TGh2PckZbbdeVD"
     },
     {
       "added_at": "2026-04-14 15:00:50",
@@ -1571,18 +1571,34 @@
     {
       "added_at": "2026-04-14 15:00:50",
       "album": {
-        "name": "RELOADING CITY",
-        "url": "https://open.spotify.com/album/5d3CHvw9X4uTPNtTHJKneI"
+        "name": "RIDE ON TIME",
+        "url": "https://open.spotify.com/album/766EKF6WGGzivgxfk29kH3"
       },
       "artists": [
         {
-          "name": "MONONKVL",
-          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
+          "name": "BENI",
+          "url": "https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI"
         }
       ],
-      "duration_ms": 264360,
-      "name": "\u30a2\u30dd\u30ed",
-      "url": "https://open.spotify.com/track/1Dcj3N48TGh2PckZbbdeVD"
+      "duration_ms": 244752,
+      "name": "RIDE ON TIME",
+      "url": "https://open.spotify.com/track/3FNXU06JsPMkoppLzw42S1"
+    },
+    {
+      "added_at": "2026-04-14 15:00:50",
+      "album": {
+        "name": "CYM",
+        "url": "https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 249090,
+      "name": "CYM",
+      "url": "https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE"
     },
     {
       "added_at": "2026-04-14 15:00:50",
@@ -1603,38 +1619,6 @@
     {
       "added_at": "2026-04-14 15:00:50",
       "album": {
-        "name": "RIDE ON TIME",
-        "url": "https://open.spotify.com/album/766EKF6WGGzivgxfk29kH3"
-      },
-      "artists": [
-        {
-          "name": "BENI",
-          "url": "https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI"
-        }
-      ],
-      "duration_ms": 244752,
-      "name": "RIDE ON TIME",
-      "url": "https://open.spotify.com/track/3FNXU06JsPMkoppLzw42S1"
-    },
-    {
-      "added_at": "2026-04-14 15:00:50",
-      "album": {
-        "name": "smile",
-        "url": "https://open.spotify.com/album/33gNobiqLKSs5Av1I7SbC8"
-      },
-      "artists": [
-        {
-          "name": "Miki Imai",
-          "url": "https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ"
-        }
-      ],
-      "duration_ms": 237418,
-      "name": "One more smile",
-      "url": "https://open.spotify.com/track/4p3jDaKThb2vhmfOujMoU0"
-    },
-    {
-      "added_at": "2026-04-14 15:00:50",
-      "album": {
         "name": "Call me back",
         "url": "https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 225529,
       "name": "Call me back",
       "url": "https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS"
+    },
+    {
+      "added_at": "2026-04-14 15:00:50",
+      "album": {
+        "name": "smile",
+        "url": "https://open.spotify.com/album/33gNobiqLKSs5Av1I7SbC8"
+      },
+      "artists": [
+        {
+          "name": "Miki Imai",
+          "url": "https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ"
+        }
+      ],
+      "duration_ms": 237418,
+      "name": "One more smile",
+      "url": "https://open.spotify.com/track/4p3jDaKThb2vhmfOujMoU0"
     },
     {
       "added_at": "2026-04-14 15:00:50",

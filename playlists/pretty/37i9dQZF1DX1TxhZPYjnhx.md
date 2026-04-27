@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: CORTIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,637 likes - 108 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,634 likes - 108 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

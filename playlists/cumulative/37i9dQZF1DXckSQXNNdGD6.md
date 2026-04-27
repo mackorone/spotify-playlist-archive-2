@@ -4,7 +4,7 @@
 
 > La banda sonora de tu orgullo\. Foto: Ouineta.
 
-316 songs - 15 hr 29 min
+317 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Aire](https://open.spotify.com/track/33YIXkbueflRjBkxDAHZwo) | [Lucia De la Puerta](https://open.spotify.com/artist/0LELId4nuwKoBlDUkRsuFa) | [Aire](https://open.spotify.com/album/6yqNx1ROZUgdP3YeLj028W) | 2:30 | 2025-10-01 | 2025-12-03 |
 | [Aitana O'Caña](https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7) | [Aitana O'Caña](https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u) | 2:52 | 2024-06-05 | 2025-03-05 |
 | [Al Gimnasio en Tacones](https://open.spotify.com/track/0iuELyy8xVOcTrkjOik3J3) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST) | [Al Gimnasio en Tacones](https://open.spotify.com/album/54X85mt7PkHbR66bvx7YO2) | 2:33 | 2024-06-05 | 2024-07-04 |
-| [Algo especial](https://open.spotify.com/track/3800qliKwzML9D2aoZ1Q3B) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Algo especial](https://open.spotify.com/album/1itGp18PlKDMuWjMeLMCxZ) | 3:13 | 2026-03-03 |  |
+| [Algo especial](https://open.spotify.com/track/3800qliKwzML9D2aoZ1Q3B) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Algo especial](https://open.spotify.com/album/1itGp18PlKDMuWjMeLMCxZ) | 3:13 | 2026-03-03 | 2026-04-27 |
 | [Algo me falta](https://open.spotify.com/track/1B6zVmn6jdStD6ZFRhn4rU) | [Lucia De la Puerta](https://open.spotify.com/artist/0LELId4nuwKoBlDUkRsuFa) | [Algo me falta](https://open.spotify.com/album/1suJSeK6upGYxxD1iMqIEE) | 3:01 | 2026-03-03 |  |
 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 | 2024-06-05 |  |
 | [Amapiola](https://open.spotify.com/track/5qbQH9J0JEuihAkDeDRzBm) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Llanto de Secano](https://open.spotify.com/album/0FypKBYPqPO59hA4unLmGc) | 3:59 | 2024-11-05 | 2024-12-05 |
@@ -299,6 +299,7 @@
 | [TOTO DE LOCA](https://open.spotify.com/track/3uSN0SuaW9gMtWGUK7FPup) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [TOTO DE LOCA](https://open.spotify.com/album/2NskudT1sgEVLPqmJ39JPn) | 3:00 | 2025-05-06 |  |
 | [Tramuntana](https://open.spotify.com/track/4SaQQ0SQG47SuZHQtmlNL2) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Tramuntana](https://open.spotify.com/album/0j4sG63Z9Pp0vHXIEIEDb8) | 3:55 | 2025-05-06 | 2025-07-02 |
 | [Travesuras](https://open.spotify.com/track/21xJRnbHgHFMHvNqdmf73y) | [Luna Zuazu](https://open.spotify.com/artist/0aIiiEWwpITfHLl0JPtl0J) | [TRAVESURAS](https://open.spotify.com/album/4qyKNHlWWh5bwQodq6Ytwq) | 2:07 | 2024-10-01 | 2024-10-08 |
+| [Treu\-te el Bikini](https://open.spotify.com/track/3aSniXUsdmFyrmWNJHO5FL) | [FADES](https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO), [FBOYZ](https://open.spotify.com/artist/7Cf1fxSvBV92PkhYOUtmxO) | [Treu\-te el Bikini](https://open.spotify.com/album/6WBDC7XQ01tRdEw2PPysRT) | 2:27 | 2026-04-07 |  |
 | [Tu Novia Me Tiene Miedo](https://open.spotify.com/track/3nhk2EbjtSw59eHNcz8v6p) | [Fitasha](https://open.spotify.com/artist/6TziwTrHsHSviAxb6EBoPk) | [Tu Novia Me Tiene Miedo](https://open.spotify.com/album/7zVo9vjsyL3snaXgHu9AwD) | 4:22 | 2025-04-01 | 2025-04-23 |
 | [Tu VIP](https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [FANÁTICA](https://open.spotify.com/album/2RYZVAoIgf1UuMuah4CNVq) | 3:26 | 2025-10-01 | 2026-03-04 |
 | [Tócame](https://open.spotify.com/track/12KM4a7nY2hX3lgflqeQNs) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [MAYO SEASON](https://open.spotify.com/album/36spvJZroG0oL8Me4tA8Vp) | 2:18 | 2025-10-01 |  |

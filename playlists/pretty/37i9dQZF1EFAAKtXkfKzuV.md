@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 67 | [Dancing To Sad Songs](https://open.spotify.com/track/6MGPuQnPbVHL14l3up0nUn) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Boy Made Out Of Stars](https://open.spotify.com/album/61u3bJdUYO6zizGTPxK7zZ) | 2:44 |
 | 68 | [Shine](https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Circles](https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd) | 2:56 |
 | 69 | [Wrong Side of Love](https://open.spotify.com/track/6uShcdguw0MhXGHlUpLz2L) | [Kastra](https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [Wrong Side of Love](https://open.spotify.com/album/0FxreyHyZihHMyvcnM97bi) | 3:05 |
-| 70 | [Myself](https://open.spotify.com/track/1Qm7cfRHqVuyclKIOPfeKO) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Circles](https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd) | 2:20 |
-| 71 | [Hardwired](https://open.spotify.com/track/7q2XPiBRzdyqfkpvvgF0hy) | [Jim Gardner](https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun) | [Hardwired](https://open.spotify.com/album/3E2NA2Gv5Ycu6iwj3I5JYH) | 2:43 |
+| 70 | [Hardwired](https://open.spotify.com/track/7q2XPiBRzdyqfkpvvgF0hy) | [Jim Gardner](https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun) | [Hardwired](https://open.spotify.com/album/3E2NA2Gv5Ycu6iwj3I5JYH) | 2:43 |
+| 71 | [Myself](https://open.spotify.com/track/1Qm7cfRHqVuyclKIOPfeKO) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Circles](https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd) | 2:20 |
 | 72 | [miss you](https://open.spotify.com/track/2p5PjL2TLhongka8qsHTco) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [this is iggy](https://open.spotify.com/album/0kyjMpCVzimrmEspVwx8TX) | 2:31 |
 | 73 | [My Fault](https://open.spotify.com/track/1YcoVVvOeJRCPD8P7zvvmX) | [Jenna Lotti](https://open.spotify.com/artist/7dIm02RDiyp2Nmdsx4H8Gc) | [My Fault](https://open.spotify.com/album/6AZqYYArJb8u4E6hilDreL) | 1:57 |
 | 74 | [My Almost Forever](https://open.spotify.com/track/57VDBMxzvYq9jhuD2ISTrR) | [Jonathan Fischer](https://open.spotify.com/artist/7CVRHQND8mur2yRUG8st4m) | [My Almost Forever](https://open.spotify.com/album/41tFrGMv7y47SiR6VvxBmU) | 2:52 |
 | 75 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
 
-Snapshot ID: `AcP1SgAAAAARO/eFf9I61POmxPc/8edp`
+Snapshot ID: `AcP66gAAAADzmADNMLq4x9MgUYDWNM7h`

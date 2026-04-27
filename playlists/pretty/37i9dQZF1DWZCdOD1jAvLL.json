@@ -1,6 +1,6 @@
 {
   "description": "Stank face activated. Cover: Rezz",
-  "num_followers": 271079,
+  "num_followers": 271104,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -783,26 +783,6 @@
     {
       "added_at": "2026-04-24 04:01:22",
       "album": {
-        "name": "Bad & U Know It",
-        "url": "https://open.spotify.com/album/6TbBK5N3eiHls18XDtsbTc"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 191669,
-      "name": "Bad & U Know It",
-      "url": "https://open.spotify.com/track/6isxpu62nHjVgBHGBWhbFl"
-    },
-    {
-      "added_at": "2026-04-24 04:01:22",
-      "album": {
         "name": "909",
         "url": "https://open.spotify.com/album/2zfkzIFCFlf9aycZyiFUxT"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 237500,
       "name": "909",
       "url": "https://open.spotify.com/track/2NNyqVX63BJq603V80uBCf"
+    },
+    {
+      "added_at": "2026-04-24 04:01:22",
+      "album": {
+        "name": "Bad & U Know It",
+        "url": "https://open.spotify.com/album/6TbBK5N3eiHls18XDtsbTc"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 191669,
+      "name": "Bad & U Know It",
+      "url": "https://open.spotify.com/track/6isxpu62nHjVgBHGBWhbFl"
     },
     {
       "added_at": "2026-04-24 04:01:22",
@@ -843,26 +843,6 @@
     {
       "added_at": "2026-04-24 04:01:22",
       "album": {
-        "name": "Through The Pain (feat. Pozer)",
-        "url": "https://open.spotify.com/album/10jaP6iO7YACKWJrrChMm2"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Pozer",
-          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "Through The Pain (feat. Pozer)",
-      "url": "https://open.spotify.com/track/0AFTmRJtR1AorwJ6XlOn8I"
-    },
-    {
-      "added_at": "2026-04-24 04:01:22",
-      "album": {
         "name": "Make It Work",
         "url": "https://open.spotify.com/album/7iFai9pwfc6Wwj5HYVzPNd"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 171380,
       "name": "Make It Work",
       "url": "https://open.spotify.com/track/0KPlbfJ7e8Beufds7pILpH"
+    },
+    {
+      "added_at": "2026-04-24 04:01:22",
+      "album": {
+        "name": "Through The Pain (feat. Pozer)",
+        "url": "https://open.spotify.com/album/10jaP6iO7YACKWJrrChMm2"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "duration_ms": 180520,
+      "name": "Through The Pain (feat. Pozer)",
+      "url": "https://open.spotify.com/track/0AFTmRJtR1AorwJ6XlOn8I"
     },
     {
       "added_at": "2026-04-24 04:01:22",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-04-24 04:01:22",
       "album": {
+        "name": "FUCK THE SPEAKERZ UP",
+        "url": "https://open.spotify.com/album/7a7eYrzNW0rYcWKTc7AW4j"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "FUCK THE SPEAKERZ UP",
+      "url": "https://open.spotify.com/track/26ax7KOixD6ahLq4mz8TuV"
+    },
+    {
+      "added_at": "2026-04-24 04:01:22",
+      "album": {
         "name": "GHOST WORLD",
         "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 205693,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw"
-    },
-    {
-      "added_at": "2026-04-24 04:01:22",
-      "album": {
-        "name": "FUCK THE SPEAKERZ UP",
-        "url": "https://open.spotify.com/album/7a7eYrzNW0rYcWKTc7AW4j"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "FUCK THE SPEAKERZ UP",
-      "url": "https://open.spotify.com/track/26ax7KOixD6ahLq4mz8TuV"
     },
     {
       "added_at": "2026-04-24 04:01:22",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2026-04-24 04:01:22",
       "album": {
+        "name": "SPIRAL",
+        "url": "https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "SPIRAL",
+      "url": "https://open.spotify.com/track/4vtkYOgMCIG3pVLdLGjWEV"
+    },
+    {
+      "added_at": "2026-04-24 04:01:22",
+      "album": {
         "name": "Original Don",
         "url": "https://open.spotify.com/album/7Jn24h49ditLNn0I2ePgsL"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 168275,
       "name": "Original Don",
       "url": "https://open.spotify.com/track/3jzXUnJxAG8Yqj9IVR8RZx"
-    },
-    {
-      "added_at": "2026-04-24 04:01:22",
-      "album": {
-        "name": "SPIRAL",
-        "url": "https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "SPIRAL",
-      "url": "https://open.spotify.com/track/4vtkYOgMCIG3pVLdLGjWEV"
     },
     {
       "added_at": "2026-04-24 04:01:22",
@@ -1307,30 +1307,6 @@
     {
       "added_at": "2026-04-24 04:01:22",
       "album": {
-        "name": "Bass Dhol",
-        "url": "https://open.spotify.com/album/6zPVFPc0OjKODf5SkRSlNu"
-      },
-      "artists": [
-        {
-          "name": "Ahadadream",
-          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Raf Saperra",
-          "url": "https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6"
-        }
-      ],
-      "duration_ms": 218069,
-      "name": "Bass Dhol",
-      "url": "https://open.spotify.com/track/2rVhkoMwbeOzsBdqMUnm0p"
-    },
-    {
-      "added_at": "2026-04-24 04:01:22",
-      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/3OHhAOjcxEByeAHOHwwGxO"
       },
@@ -1355,6 +1331,30 @@
     {
       "added_at": "2026-04-24 04:01:22",
       "album": {
+        "name": "Bass Dhol",
+        "url": "https://open.spotify.com/album/6zPVFPc0OjKODf5SkRSlNu"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Raf Saperra",
+          "url": "https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6"
+        }
+      ],
+      "duration_ms": 218069,
+      "name": "Bass Dhol",
+      "url": "https://open.spotify.com/track/2rVhkoMwbeOzsBdqMUnm0p"
+    },
+    {
+      "added_at": "2026-04-24 04:01:22",
+      "album": {
         "name": "Let It Go (feat. Nevve)",
         "url": "https://open.spotify.com/album/4u7bcmCZfX37xaXVpvHDPp"
       },
@@ -1375,6 +1375,30 @@
       "duration_ms": 238285,
       "name": "Let It Go (feat. Nevve)",
       "url": "https://open.spotify.com/track/4jx7rWh4h1MoYxiUDFxnbx"
+    },
+    {
+      "added_at": "2026-04-24 04:01:22",
+      "album": {
+        "name": "My Own Thang EP",
+        "url": "https://open.spotify.com/album/4oP18eb48EO1ogI15teHU1"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sophiegrophy",
+          "url": "https://open.spotify.com/artist/4VbLknkcJMhSninTvMZbfE"
+        },
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "My Own Thang (To The Beat)",
+      "url": "https://open.spotify.com/track/4u6u4sdrJ0CPWHAzV8ygVd"
     },
     {
       "added_at": "2026-04-24 04:01:22",
@@ -1667,6 +1691,34 @@
       "duration_ms": 138857,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
+    },
+    {
+      "added_at": "2026-04-24 04:01:22",
+      "album": {
+        "name": "Club Rompas, Vol. 2",
+        "url": "https://open.spotify.com/album/5TbqhCXehVUcD9htuxteQX"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        },
+        {
+          "name": "Richard Vission",
+          "url": "https://open.spotify.com/artist/3EBdhh05GoAX3lIqJSPVXt"
+        },
+        {
+          "name": "Static Revenger",
+          "url": "https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Rock the Rhythm (I Like That)",
+      "url": "https://open.spotify.com/track/5IH4qsWYYpC4o1SNm1aQX2"
     },
     {
       "added_at": "2026-04-24 04:01:22",
@@ -2079,6 +2131,26 @@
     {
       "added_at": "2026-04-24 04:01:22",
       "album": {
+        "name": "Naughty All Night",
+        "url": "https://open.spotify.com/album/2bZO9BuO9ZylUm2CZys4ZY"
+      },
+      "artists": [
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "Nina Nevra",
+          "url": "https://open.spotify.com/artist/0LfTLvRKowL8aXYL8NSO7c"
+        }
+      ],
+      "duration_ms": 166016,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/4MX4VyYyd36joubmqhv0rI"
+    },
+    {
+      "added_at": "2026-04-24 04:01:22",
+      "album": {
         "name": "Go Mode",
         "url": "https://open.spotify.com/album/1gYtMfHRgHAUICRGG2FIZG"
       },
@@ -2123,6 +2195,22 @@
     {
       "added_at": "2026-04-24 04:01:22",
       "album": {
+        "name": "Break It",
+        "url": "https://open.spotify.com/album/42rRSmWPbd3NQIltYKwSYl"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "Break It",
+      "url": "https://open.spotify.com/track/3jiq4HBxQjEjOp1ZvOTGge"
+    },
+    {
+      "added_at": "2026-04-24 04:01:22",
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/1JbGw9go12vT4vLUjQTnBm"
       },
@@ -2155,22 +2243,6 @@
       "duration_ms": 173616,
       "name": "Dominator",
       "url": "https://open.spotify.com/track/6C9beIn45G34tT8pQ61ed7"
-    },
-    {
-      "added_at": "2026-04-24 04:01:22",
-      "album": {
-        "name": "Break It",
-        "url": "https://open.spotify.com/album/42rRSmWPbd3NQIltYKwSYl"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "Break It",
-      "url": "https://open.spotify.com/track/3jiq4HBxQjEjOp1ZvOTGge"
     },
     {
       "added_at": "2026-04-24 04:01:22",
@@ -2267,6 +2339,26 @@
       "duration_ms": 151406,
       "name": "Break This Tension",
       "url": "https://open.spotify.com/track/7iGNzOfyHhJ8HUgp5FHT1l"
+    },
+    {
+      "added_at": "2026-04-24 04:01:22",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/2W2vZJBEdyswIanzJUKuct"
+      },
+      "artists": [
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        }
+      ],
+      "duration_ms": 156176,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3vlN5TntxqeGFtx0YOYYBb"
     },
     {
       "added_at": "2026-04-24 04:01:22",
@@ -2391,82 +2483,6 @@
       "duration_ms": 201617,
       "name": "ERRRDAY",
       "url": "https://open.spotify.com/track/1aUOWXtItL7nOSzUbaUGTq"
-    },
-    {
-      "added_at": "2026-04-24 04:01:22",
-      "album": {
-        "name": "Howweroll",
-        "url": "https://open.spotify.com/album/1tdFexpCXqL8b1M0Fir6lz"
-      },
-      "artists": [
-        {
-          "name": "Charmes",
-          "url": "https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ"
-        }
-      ],
-      "duration_ms": 155483,
-      "name": "Howweroll",
-      "url": "https://open.spotify.com/track/6SKKgLq9lnoDsWVBltoZ5f"
-    },
-    {
-      "added_at": "2026-04-24 04:01:22",
-      "album": {
-        "name": "OUTSIDER",
-        "url": "https://open.spotify.com/album/41LWZn8Un2XTwRXs4MyLK9"
-      },
-      "artists": [
-        {
-          "name": "dot",
-          "url": "https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT"
-        },
-        {
-          "name": "Sara Phillips",
-          "url": "https://open.spotify.com/artist/0IYTdG3kSqaozW2xSPA6GL"
-        }
-      ],
-      "duration_ms": 204545,
-      "name": "OUTSIDER",
-      "url": "https://open.spotify.com/track/752jwWUjjewYUdkyXQbUMe"
-    },
-    {
-      "added_at": "2026-04-24 04:01:22",
-      "album": {
-        "name": "A Milli (SIDEPIECE Remix)",
-        "url": "https://open.spotify.com/album/7LZc53WdqALyOWeYYOw9nh"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "A Milli - SIDEPIECE Remix",
-      "url": "https://open.spotify.com/track/2jB8Y4OCA1azQrsIkva32z"
-    },
-    {
-      "added_at": "2026-04-24 04:01:22",
-      "album": {
-        "name": "Naughty All Night",
-        "url": "https://open.spotify.com/album/2bZO9BuO9ZylUm2CZys4ZY"
-      },
-      "artists": [
-        {
-          "name": "bradeazy",
-          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
-        },
-        {
-          "name": "Nina Nevra",
-          "url": "https://open.spotify.com/artist/0LfTLvRKowL8aXYL8NSO7c"
-        }
-      ],
-      "duration_ms": 166016,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/4MX4VyYyd36joubmqhv0rI"
     }
   ],
   "unique_name": "Bangers",

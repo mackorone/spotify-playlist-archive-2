@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 181693,
+  "num_followers": 181820,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAADNAES+eLsOO0amQH4utejM",
+  "snapshot_id": "aewEAAAAAADWH1AHWlsOwDQ08FPXqs8j",
   "tracks": [
     {
       "added_at": null,
@@ -266,11 +266,19 @@
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Amma",
+          "url": "https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 255639,
-      "name": "Life Boat.",
-      "url": "https://open.spotify.com/track/7BguGjelfXyHttxhfQVxzr"
+      "duration_ms": 263933,
+      "name": "Joy.",
+      "url": "https://open.spotify.com/track/5CKbUv7zkOdf8X2602qgei"
     },
     {
       "added_at": null,
@@ -338,19 +346,11 @@
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Amma",
-          "url": "https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2"
-        },
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 263933,
-      "name": "Joy.",
-      "url": "https://open.spotify.com/track/5CKbUv7zkOdf8X2602qgei"
+      "duration_ms": 255639,
+      "name": "Life Boat.",
+      "url": "https://open.spotify.com/track/7BguGjelfXyHttxhfQVxzr"
     },
     {
       "added_at": null,
@@ -471,22 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandma Calls The Boy Bad News (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/2yH6KW9z9oDdAJ8b8wcEfI"
+        "name": "To Love Somebody",
+        "url": "https://open.spotify.com/album/5mjfq6PQcF4RIDw9X30Zm1"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
         },
         {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 206731,
-      "name": "Grandma Calls The Boy Bad News - From F1\u00ae The Movie",
-      "url": "https://open.spotify.com/track/5VWBztPOLe4D00pV01lXcF"
+      "duration_ms": 241574,
+      "name": "Perfect Day - featuring RAYE",
+      "url": "https://open.spotify.com/track/2c9sIf5jLjqItQovMOZxqe"
     },
     {
       "added_at": null,
@@ -511,22 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Love Somebody",
-        "url": "https://open.spotify.com/album/5mjfq6PQcF4RIDw9X30Zm1"
+        "name": "Grandma Calls The Boy Bad News (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/2yH6KW9z9oDdAJ8b8wcEfI"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        },
-        {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
         }
       ],
-      "duration_ms": 241574,
-      "name": "Perfect Day - featuring RAYE",
-      "url": "https://open.spotify.com/track/2c9sIf5jLjqItQovMOZxqe"
+      "duration_ms": 206731,
+      "name": "Grandma Calls The Boy Bad News - From F1\u00ae The Movie",
+      "url": "https://open.spotify.com/track/5VWBztPOLe4D00pV01lXcF"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fly Me to the Moon",
+        "url": "https://open.spotify.com/album/3jiammRDNmKadXgGYVPyHY"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 191332,
+      "name": "Fly Me to the Moon",
+      "url": "https://open.spotify.com/track/4krtOcIVPlUICseg29Nnet"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Decline",
         "url": "https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 188172,
       "name": "Decline",
       "url": "https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fly Me to the Moon",
-        "url": "https://open.spotify.com/album/3jiammRDNmKadXgGYVPyHY"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 191332,
-      "name": "Fly Me to the Moon",
-      "url": "https://open.spotify.com/track/4krtOcIVPlUICseg29Nnet"
     },
     {
       "added_at": null,

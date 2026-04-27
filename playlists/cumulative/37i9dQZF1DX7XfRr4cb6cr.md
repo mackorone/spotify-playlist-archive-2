@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-408 songs - 1 day 7 hr 58 min
+409 songs - 1 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [All We Can't See](https://open.spotify.com/track/7MQxjq3mF74zRFUVx3C4K5) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [All We Can't See / An Image](https://open.spotify.com/album/6LU399jo756EUFEHFQDhJF) | 1:56 | 2022-07-22 | 2023-10-06 |
 | [Ambavi](https://open.spotify.com/track/255kpkW8fGXGGrAwjfWGdp) | [Alleviation](https://open.spotify.com/artist/35tzlkReXUs4XX5hXtaPpw), [Anarekli](https://open.spotify.com/artist/0owGYDx2xWGY0t6Nelyf4N), [Buneba](https://open.spotify.com/artist/4kckQx25UOWOjUMposE6ek) | [Ambavi](https://open.spotify.com/album/1M6QRkZzYvIYZ97f15zwBl) | 2:21 | 2023-12-01 | 2026-03-14 |
 | [And A Twist](https://open.spotify.com/track/1OA0e38XJKFh8rcGhmHRLg) | [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Observation of Breath](https://open.spotify.com/album/2XGBwfEC7ovLUTttUVUpmZ) | 2:42 | 2022-01-21 | 2026-04-04 |
-| [and moonlit shadows](https://open.spotify.com/track/6MlTTPe72TiBYWmJgl23Vw) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1), [Be Still the Earth](https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6), [Norvik](https://open.spotify.com/artist/1NjriDX47WYVvGjeVMQ8R6) | [and moonlit shadows](https://open.spotify.com/album/6fpxGFnmnCQc5BbyfJGcxr) | 2:58 | 2023-11-24 |  |
+| [and moonlit shadows](https://open.spotify.com/track/6MlTTPe72TiBYWmJgl23Vw) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1), [Be Still the Earth](https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6), [Norvik](https://open.spotify.com/artist/1NjriDX47WYVvGjeVMQ8R6) | [and moonlit shadows](https://open.spotify.com/album/6fpxGFnmnCQc5BbyfJGcxr) | 2:58 | 2023-11-24 | 2026-04-27 |
 | [Anti\-Drone Nets](https://open.spotify.com/track/0VzpuT3BU5QRvNzeO8rPES) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [Vil'na](https://open.spotify.com/album/5QAfFgm7Tyh0LSEZXii909) | 4:44 | 2026-03-13 |  |
 | [any given moment](https://open.spotify.com/track/284Wrw0uXILiYwbAzzREBF) | [Hiroi Sekai](https://open.spotify.com/artist/0F08w8WimsgmKCY23QYOdp) | [any given moment](https://open.spotify.com/album/1fCORZcaffrpLkwQdQcVoG) | 6:51 | 2026-04-03 |  |
 | [Ardent](https://open.spotify.com/track/28XnWGHQ1c3fhxZGBbJVKb) | [Giuliano Poles](https://open.spotify.com/artist/3BvVMUz8byTqm9nFMezZk4) | [Ardent](https://open.spotify.com/album/3NuQL86Pn1mTYcej6XwOCI) | 2:12 | 2023-01-27 | 2024-04-20 |
@@ -43,6 +43,7 @@
 | [Astron](https://open.spotify.com/track/7orIxoE1ibxFKOXHxWYBiV) | [Akasaka](https://open.spotify.com/artist/0FYaJp4G2p5HO6cIMVqp0q) | [Astron](https://open.spotify.com/album/43m7SNLBFqDyrQyy1lPIpG) | 3:14 | 2022-01-21 |  |
 | [Atlas](https://open.spotify.com/track/6i7i1fNug2GXwJXKbLTUDr) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl), [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9), [James Underwood](https://open.spotify.com/artist/3kHy2R4hn87xhtqJjOlYRJ) | [Atlas](https://open.spotify.com/album/54yPuui7BKEJsys2JgMs7w) | 6:53 | 2023-08-08 | 2026-03-14 |
 | [atomic bombs atomic bonds i love you](https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt) | [Askjell](https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F) | [atomic bombs atomic bonds i love you](https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r) | 5:27 | 2022-02-11 | 2022-08-18 |
+| [Audio From Rubi](https://open.spotify.com/track/5rBvYh7HdyvvKnTrWMNEvu) | [filesh4ring\_](https://open.spotify.com/artist/7vl38KJxheOJnX0MrULowv) | [Audio From Rubi](https://open.spotify.com/album/7cbu6nJf3NMeefwzsMGtVg) | 2:30 | 2026-04-03 |  |
 | [Avenoir](https://open.spotify.com/track/3re13zgnnJez9pUKtRkifa) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [Avenoir](https://open.spotify.com/album/2uCy0nPWxFBnYfP064ncyO) | 5:05 | 2022-03-11 | 2022-07-06 |
 | [Bandorai](https://open.spotify.com/track/20JtrLAz7k54Rt3oe8uPWi) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [A Requiem](https://open.spotify.com/album/4Tx7iyvyTnJNNFGLKYWEOD) | 3:01 | 2025-05-22 | 2026-04-04 |
 | [Barco](https://open.spotify.com/track/4X5TeiBCg2mpHQQnbozwGa) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Barco](https://open.spotify.com/album/0FAkEJQAINUzXCT0V4V2P4) | 4:14 | 2022-07-29 | 2026-03-14 |

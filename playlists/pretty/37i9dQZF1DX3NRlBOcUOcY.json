@@ -1,6 +1,6 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 445239,
+  "num_followers": 445244,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-04-25 00:29:01",
       "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 167180,
+      "name": "Papasito",
+      "url": "https://open.spotify.com/track/64zQbQTwu4ppBEfWyhst9t"
+    },
+    {
+      "added_at": "2026-04-25 00:29:01",
+      "album": {
         "name": "POR SI ALGUIEN NOS ESCUCHA",
         "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 215250,
       "name": "malibU",
       "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
-    },
-    {
-      "added_at": "2026-04-25 00:29:01",
-      "album": {
-        "name": "Tropicoqueta",
-        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 167180,
-      "name": "Papasito",
-      "url": "https://open.spotify.com/track/64zQbQTwu4ppBEfWyhst9t"
     },
     {
       "added_at": "2026-04-25 00:29:01",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-04-25 00:29:01",
       "album": {
-        "name": "OHNANA",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "OHNANA",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
-    },
-    {
-      "added_at": "2026-04-25 00:29:01",
-      "album": {
         "name": "Quiero Decirte",
         "url": "https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 222348,
       "name": "Quiero Decirte",
       "url": "https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND"
+    },
+    {
+      "added_at": "2026-04-25 00:29:01",
+      "album": {
+        "name": "OHNANA",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "OHNANA",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
       "added_at": "2026-04-25 00:29:01",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-04-25 00:29:01",
       "album": {
-        "name": "M\u00edrame Ahora",
-        "url": "https://open.spotify.com/album/68obRe8swOSG89f5UnVSSa"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 154536,
-      "name": "M\u00edrame Ahora",
-      "url": "https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT"
-    },
-    {
-      "added_at": "2026-04-25 00:29:01",
-      "album": {
         "name": "Wapa",
         "url": "https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 159776,
       "name": "Wapa",
       "url": "https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w"
+    },
+    {
+      "added_at": "2026-04-25 00:29:01",
+      "album": {
+        "name": "M\u00edrame Ahora",
+        "url": "https://open.spotify.com/album/68obRe8swOSG89f5UnVSSa"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 154536,
+      "name": "M\u00edrame Ahora",
+      "url": "https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT"
     },
     {
       "added_at": "2026-04-25 00:29:01",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-04-25 00:29:01",
       "album": {
+        "name": "BRONCEADOR",
+        "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 149387,
+      "name": "BRONCEADOR",
+      "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
+    },
+    {
+      "added_at": "2026-04-25 00:29:01",
+      "album": {
         "name": "ILY",
         "url": "https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 216621,
       "name": "ILY",
       "url": "https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0"
-    },
-    {
-      "added_at": "2026-04-25 00:29:01",
-      "album": {
-        "name": "BRONCEADOR",
-        "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 149387,
-      "name": "BRONCEADOR",
-      "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
     },
     {
       "added_at": "2026-04-25 00:29:01",
@@ -983,6 +983,22 @@
     {
       "added_at": "2026-04-25 00:29:01",
       "album": {
+        "name": "Manda La Plena Moh",
+        "url": "https://open.spotify.com/album/6wJ61YVrC8GtqMWziylvsW"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 155025,
+      "name": "Formal",
+      "url": "https://open.spotify.com/track/639VMIRyWgnlaklcGMMQjU"
+    },
+    {
+      "added_at": "2026-04-25 00:29:01",
+      "album": {
         "name": "Nuevo Hotel Miranda!",
         "url": "https://open.spotify.com/album/4di9h6Igl1rbd0xtZfsyD6"
       },
@@ -1023,18 +1039,22 @@
     {
       "added_at": "2026-04-25 00:29:01",
       "album": {
-        "name": "Manda La Plena Moh",
-        "url": "https://open.spotify.com/album/6wJ61YVrC8GtqMWziylvsW"
+        "name": "777",
+        "url": "https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 155025,
-      "name": "Formal",
-      "url": "https://open.spotify.com/track/639VMIRyWgnlaklcGMMQjU"
+      "duration_ms": 209268,
+      "name": "Felices Perdidos",
+      "url": "https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N"
     },
     {
       "added_at": "2026-04-25 00:29:01",
@@ -1059,26 +1079,6 @@
       "duration_ms": 160575,
       "name": "saman\u00e1",
       "url": "https://open.spotify.com/track/3JkqRmM1gWmIZajzcz6lhW"
-    },
-    {
-      "added_at": "2026-04-25 00:29:01",
-      "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 209268,
-      "name": "Felices Perdidos",
-      "url": "https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N"
     },
     {
       "added_at": "2026-04-25 00:29:01",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-04-25 00:29:01",
       "album": {
+        "name": "Estas Ganas",
+        "url": "https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 166998,
+      "name": "Estas Ganas",
+      "url": "https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T"
+    },
+    {
+      "added_at": "2026-04-25 00:29:01",
+      "album": {
         "name": "TENGO GANAS",
         "url": "https://open.spotify.com/album/3PZsmna1CzAkZndq3h0Krs"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 161167,
       "name": "TENGO GANAS",
       "url": "https://open.spotify.com/track/2X3NWjkwnqCOfAS0TcUYOW"
-    },
-    {
-      "added_at": "2026-04-25 00:29:01",
-      "album": {
-        "name": "Estas Ganas",
-        "url": "https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 166998,
-      "name": "Estas Ganas",
-      "url": "https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T"
     },
     {
       "added_at": "2026-04-25 00:29:01",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2026-04-25 00:29:01",
       "album": {
-        "name": "LA CIUDAD",
-        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
-      },
-      "artists": [
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 173858,
-      "name": "capaz (merengueton)",
-      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
-    },
-    {
-      "added_at": "2026-04-25 00:29:01",
-      "album": {
         "name": "AZOLEAO",
         "url": "https://open.spotify.com/album/4xiQ2wrEzUeQg8OimLtaEH"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 135061,
       "name": "AZOLEAO",
       "url": "https://open.spotify.com/track/1o7orLqjr0u5EbTnxsPp4N"
+    },
+    {
+      "added_at": "2026-04-25 00:29:01",
+      "album": {
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 173858,
+      "name": "capaz (merengueton)",
+      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
     },
     {
       "added_at": "2026-04-25 00:29:01",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2026-04-25 00:29:01",
       "album": {
+        "name": "Ll\u00e9vame",
+        "url": "https://open.spotify.com/album/5YncRReTggNAZ0wty0jXnI"
+      },
+      "artists": [
+        {
+          "name": "Paula Arenas",
+          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
+        }
+      ],
+      "duration_ms": 150358,
+      "name": "Ll\u00e9vame",
+      "url": "https://open.spotify.com/track/1LHOl30YAYVSK7DwdstsWR"
+    },
+    {
+      "added_at": "2026-04-25 00:29:01",
+      "album": {
         "name": "LA CIUDAD",
         "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 146857,
       "name": "el ingeniero",
       "url": "https://open.spotify.com/track/6TT5rB0Rwneb6ZaopHQir4"
-    },
-    {
-      "added_at": "2026-04-25 00:29:01",
-      "album": {
-        "name": "Ll\u00e9vame",
-        "url": "https://open.spotify.com/album/5YncRReTggNAZ0wty0jXnI"
-      },
-      "artists": [
-        {
-          "name": "Paula Arenas",
-          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
-        }
-      ],
-      "duration_ms": 150358,
-      "name": "Ll\u00e9vame",
-      "url": "https://open.spotify.com/track/1LHOl30YAYVSK7DwdstsWR"
     },
     {
       "added_at": "2026-04-25 00:29:01",

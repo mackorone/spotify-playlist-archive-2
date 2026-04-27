@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: march-april 2026 (previous playlists archived on my profile)",
-  "num_followers": 24306,
+  "num_followers": 24303,
   "original_name": "home when you return",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAONPfR/DeRH9lohTQfDsIv1RAiMjtE",
+  "snapshot_id": "AAAONc+uMYtgXlttYKSz6saZYWl4R8vZ",
   "tracks": [
     {
       "added_at": "2026-03-12 17:07:42",
@@ -863,6 +863,26 @@
       "duration_ms": 363733,
       "name": "Jagger the Dagger",
       "url": "https://open.spotify.com/track/2reLffYiqlc8aF9c6tRFZ1"
+    },
+    {
+      "added_at": "2026-04-26 10:18:51",
+      "album": {
+        "name": "Sanctuary / Suite for Late Summer",
+        "url": "https://open.spotify.com/album/3H9maZhJjSMi2C2YM65gZ0"
+      },
+      "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        },
+        {
+          "name": "Lee Herschberg",
+          "url": "https://open.spotify.com/artist/7GDDpChEAyRCUfb5On65Vr"
+        }
+      ],
+      "duration_ms": 161053,
+      "name": "To Dream Tomorrow",
+      "url": "https://open.spotify.com/track/6gI5mzlCl8xTuwrs7X84nC"
     }
   ],
   "unique_name": "home when you return",

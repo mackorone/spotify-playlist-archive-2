@@ -5031,6 +5031,24 @@
     },
     {
       "album": {
+        "name": "Pink Gentle Focus",
+        "url": "https://open.spotify.com/album/0OCcqFLtoytXIKAmio3J4m"
+      },
+      "artists": [
+        {
+          "name": "Veyra Calm",
+          "url": "https://open.spotify.com/artist/6nVFPJqukSY3n0uTHVwHJg"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162189,
+      "name": "Pink Horizon Sleep",
+      "url": "https://open.spotify.com/track/3VGmGQhlfIVmo4idceXqhG"
+    },
+    {
+      "album": {
         "name": "Pink Horizons",
         "url": "https://open.spotify.com/album/7hj2WJjJEg4d7cqYSyp0bK"
       },
@@ -5712,6 +5730,24 @@
       "duration_ms": 216500,
       "name": "Pink Noise Beauty",
       "url": "https://open.spotify.com/track/0zBtJ2GILEjIdhnfsGBOIr"
+    },
+    {
+      "album": {
+        "name": "Pink Noise for Deep Sleep",
+        "url": "https://open.spotify.com/album/7GRt0kKUZ5dKKFkaEH4LFx"
+      },
+      "artists": [
+        {
+          "name": "Fernlight",
+          "url": "https://open.spotify.com/artist/0gzohBQTYAhTkkEhWbdnAK"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152454,
+      "name": "Pink Noise Bedtime",
+      "url": "https://open.spotify.com/track/7r6ObA5gzPClUhDtP8X5SU"
     },
     {
       "album": {
@@ -7310,7 +7346,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 159343,
       "name": "Pink Noise Lullaby",
       "url": "https://open.spotify.com/track/41qLjb5rQLRU7OZUPSCGgD"
@@ -10734,7 +10770,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 162150,
       "name": "Soothing Pink Noise",
       "url": "https://open.spotify.com/track/7fycWHqFaqWRzaKWlys4W0"

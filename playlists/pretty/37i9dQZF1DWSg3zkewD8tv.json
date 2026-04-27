@@ -1,6 +1,6 @@
 {
   "description": "An all-Australian soundtrack to snags, bread and tomato sauce!",
-  "num_followers": 572519,
+  "num_followers": 572508,
   "original_name": "Aussie BBQ",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-02-12 13:00:20",
       "album": {
-        "name": "hickey",
-        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "who\u2019s your boyfriend",
-      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
-    },
-    {
-      "added_at": "2026-02-12 13:00:20",
-      "album": {
         "name": "Diesel And Dust",
         "url": "https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 255680,
       "name": "Beds Are Burning - Remastered",
       "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
+    },
+    {
+      "added_at": "2026-02-12 13:00:20",
+      "album": {
+        "name": "hickey",
+        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "who\u2019s your boyfriend",
+      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
     },
     {
       "added_at": "2026-02-12 13:00:20",
@@ -583,8 +583,8 @@
     {
       "added_at": "2026-02-12 13:00:20",
       "album": {
-        "name": "Permanent Vacation",
-        "url": "https://open.spotify.com/album/5YlzKbkGoIIFnBOnYwU3kl"
+        "name": "14 Steps To A Better You",
+        "url": "https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
         }
       ],
-      "duration_ms": 208980,
-      "name": "Temper Temper",
-      "url": "https://open.spotify.com/track/3DCU0R5FFaB9GKxZERb5wr"
+      "duration_ms": 223233,
+      "name": "Robbery",
+      "url": "https://open.spotify.com/track/5iAxcPoyxt0HWU5sZToqe5"
     },
     {
       "added_at": "2026-02-12 13:00:20",
@@ -647,38 +647,6 @@
     {
       "added_at": "2026-02-12 13:00:20",
       "album": {
-        "name": "Semantics (Remastered)",
-        "url": "https://open.spotify.com/album/4NppVsUOi3ao3DVS8z2C8o"
-      },
-      "artists": [
-        {
-          "name": "Australian Crawl",
-          "url": "https://open.spotify.com/artist/41fDGRDlzczk5Yo2wDo0H4"
-        }
-      ],
-      "duration_ms": 323988,
-      "name": "Reckless (Don't Be So...) - Remastered",
-      "url": "https://open.spotify.com/track/5XKw4mezzmvfzbHTFx6AwV"
-    },
-    {
-      "added_at": "2026-02-12 13:00:20",
-      "album": {
-        "name": "14 Steps To A Better You",
-        "url": "https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 223233,
-      "name": "Robbery",
-      "url": "https://open.spotify.com/track/5iAxcPoyxt0HWU5sZToqe5"
-    },
-    {
-      "added_at": "2026-02-12 13:00:20",
-      "album": {
         "name": "InnerSpeaker",
         "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
       },
@@ -691,6 +659,38 @@
       "duration_ms": 199093,
       "name": "Why Won't You Make Up Your Mind?",
       "url": "https://open.spotify.com/track/4SgcE7RxpK3ydWrjoAQH1K"
+    },
+    {
+      "added_at": "2026-02-12 13:00:20",
+      "album": {
+        "name": "Permanent Vacation",
+        "url": "https://open.spotify.com/album/5YlzKbkGoIIFnBOnYwU3kl"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 208980,
+      "name": "Temper Temper",
+      "url": "https://open.spotify.com/track/3DCU0R5FFaB9GKxZERb5wr"
+    },
+    {
+      "added_at": "2026-02-12 13:00:20",
+      "album": {
+        "name": "Semantics (Remastered)",
+        "url": "https://open.spotify.com/album/4NppVsUOi3ao3DVS8z2C8o"
+      },
+      "artists": [
+        {
+          "name": "Australian Crawl",
+          "url": "https://open.spotify.com/artist/41fDGRDlzczk5Yo2wDo0H4"
+        }
+      ],
+      "duration_ms": 323988,
+      "name": "Reckless (Don't Be So...) - Remastered",
+      "url": "https://open.spotify.com/track/5XKw4mezzmvfzbHTFx6AwV"
     },
     {
       "added_at": "2026-02-12 13:00:20",

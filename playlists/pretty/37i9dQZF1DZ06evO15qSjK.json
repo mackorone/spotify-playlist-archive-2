@@ -1,12 +1,12 @@
 {
   "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
-  "num_followers": 174188,
+  "num_followers": 174189,
   "original_name": "This Is Kidz Bop Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAADyekFAOPVJRC4Yn4dwfYRn",
+  "snapshot_id": "aewEAAAAAAB5W1qbs72QZ8dX5xNXI/rX",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "KIDZ BOP 2023",
+        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 147812,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/7dWpEhaV9bcooDdf9i78sz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIDZ BOP 52",
         "url": "https://open.spotify.com/album/6rFTqiL3mNKFT5FdjnEWVf"
       },
@@ -139,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2023",
-        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
+        "name": "Opalite",
+        "url": "https://open.spotify.com/album/5uiG6J3o6Q7n6d2lb8Z30d"
       },
       "artists": [
         {
@@ -148,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 147812,
-      "name": "Sunroof",
-      "url": "https://open.spotify.com/track/7dWpEhaV9bcooDdf9i78sz"
+      "duration_ms": 232190,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/7FKJfmazFSTkfEx77MYToD"
     },
     {
       "added_at": null,
@@ -187,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opalite",
-        "url": "https://open.spotify.com/album/5uiG6J3o6Q7n6d2lb8Z30d"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 232190,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/7FKJfmazFSTkfEx77MYToD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kidz Bop 28",
         "url": "https://open.spotify.com/album/2Vh73FD6YV5afi2SVJ8qkB"
       },
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2022",
-        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 134148,
-      "name": "Astronaut In The Ocean",
-      "url": "https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 40",
         "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 110853,
       "name": "Old Town Road",
       "url": "https://open.spotify.com/track/07cQIm99dnNSKs6skathg0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 134148,
+      "name": "Astronaut In The Ocean",
+      "url": "https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "KIDZ BOP 2023",
+        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 142383,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/5ItaHbk9Vs36DBZEmg3jxP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIDZ BOP 39",
         "url": "https://open.spotify.com/album/7AlQ2bwjab77SFsoUCO3P7"
       },
@@ -523,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2023",
-        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 142383,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/5ItaHbk9Vs36DBZEmg3jxP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 33",
         "url": "https://open.spotify.com/album/58KAwArwdxMXyEC3OLuInP"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 196920,
       "name": "Try Everything",
       "url": "https://open.spotify.com/track/2bivxemYYGhiOoPr7OfYhn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 2023 Vol. 2",
+        "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 207461,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/5HKCQNd3vNxdP6PH9GWrVc"
     },
     {
       "added_at": null,
@@ -583,22 +599,6 @@
       "duration_ms": 179869,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/5aiYuJEhpR2tyybd99vPGw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIDZ BOP 2023 Vol. 2",
-        "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 207461,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/5HKCQNd3vNxdP6PH9GWrVc"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2021",
-        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 146233,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 2022",
         "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
       },
@@ -731,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2024",
-        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
       },
       "artists": [
         {
@@ -740,9 +724,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 184642,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/2Td9ri2BOa2GG8aQxtz4mB"
+      "duration_ms": 146233,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr"
     },
     {
       "added_at": null,
@@ -759,6 +743,22 @@
       "duration_ms": 192574,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/2L5ML7WOyY6VScyBISDU4E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 2024",
+        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 184642,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2Td9ri2BOa2GG8aQxtz4mB"
     },
     {
       "added_at": null,

@@ -1,13 +1,97 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2741,
+  "num_followers": 2742,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAASTtXiN/3E9hj/sRHuyo49rpd2Jsep",
+  "snapshot_id": "AAASU1/8EdZr/D6neHW+IFTgEziE9rKW",
   "tracks": [
+    {
+      "added_at": "2026-04-26 23:04:23",
+      "album": {
+        "name": "Almost Called",
+        "url": "https://open.spotify.com/album/69pc130bAAdvSpqorkgggO"
+      },
+      "artists": [
+        {
+          "name": "LUX VINCI",
+          "url": "https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt"
+        }
+      ],
+      "duration_ms": 189159,
+      "name": "Almost Called",
+      "url": "https://open.spotify.com/track/6JVjHuZcrPeCPL9PLIUDwM"
+    },
+    {
+      "added_at": "2026-04-26 19:01:57",
+      "album": {
+        "name": "OXYGEN",
+        "url": "https://open.spotify.com/album/3Z6wn24laZG7rYM0ewl9Qb"
+      },
+      "artists": [
+        {
+          "name": "FeelD",
+          "url": "https://open.spotify.com/artist/44MIxJ4PjFyzyoQSDLh4j7"
+        }
+      ],
+      "duration_ms": 368200,
+      "name": "OXYGEN",
+      "url": "https://open.spotify.com/track/6eCFRpWRt0uenWrbjpxWYF"
+    },
+    {
+      "added_at": "2026-04-26 17:13:34",
+      "album": {
+        "name": "Nirvana 2.0",
+        "url": "https://open.spotify.com/album/1D629YRxFmrSk6QoGQDLQ8"
+      },
+      "artists": [
+        {
+          "name": "IR1S",
+          "url": "https://open.spotify.com/artist/0MXTbSvmj5W2OfKIsZDM6A"
+        }
+      ],
+      "duration_ms": 186747,
+      "name": "Vile People",
+      "url": "https://open.spotify.com/track/7Ao4SpEHC4dMjHPo9x5Viy"
+    },
+    {
+      "added_at": "2026-04-26 13:24:21",
+      "album": {
+        "name": "Back to the beat",
+        "url": "https://open.spotify.com/album/4J9AweklnnAsayJI3phItB"
+      },
+      "artists": [
+        {
+          "name": "Violare Fobia",
+          "url": "https://open.spotify.com/artist/0oZKREVpE7cVrBeliDpnWN"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "Back to the beat",
+      "url": "https://open.spotify.com/track/7nITKVCQM6yP3DrvOJlvVK"
+    },
+    {
+      "added_at": "2026-04-26 12:43:45",
+      "album": {
+        "name": "ZULU",
+        "url": "https://open.spotify.com/album/0kWuAQzOxEwgfdk61wzmp8"
+      },
+      "artists": [
+        {
+          "name": "Enrico Chialastri",
+          "url": "https://open.spotify.com/artist/79gyVvzs3cLxfCleiiZ9e5"
+        },
+        {
+          "name": "Dan Armor",
+          "url": "https://open.spotify.com/artist/1bVKdpsc3URBsBvmyEQN4R"
+        }
+      ],
+      "duration_ms": 373989,
+      "name": "ZULU",
+      "url": "https://open.spotify.com/track/4WJXMOPd7eWN00KkJ5Bq9U"
+    },
     {
       "added_at": "2026-04-25 18:37:16",
       "album": {

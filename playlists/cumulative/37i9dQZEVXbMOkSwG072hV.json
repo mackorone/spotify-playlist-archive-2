@@ -4977,6 +4977,24 @@
     },
     {
       "album": {
+        "name": "Amor De Jasmim",
+        "url": "https://open.spotify.com/album/0xEuGbM0VyjUqtrifon0H7"
+      },
+      "artists": [
+        {
+          "name": "T\u00edcia Rebecca",
+          "url": "https://open.spotify.com/artist/5zcsWX4FLo9MMyLWMDEXrz"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139533,
+      "name": "Amor De Jasmim",
+      "url": "https://open.spotify.com/track/44ohKGEXVpPd7kO1QyVVRE"
+    },
+    {
+      "album": {
         "name": "Amor de Milh\u00f5es (Ao Vivo em S\u00e3o Paulo)",
         "url": "https://open.spotify.com/album/4kHCZm0w6rvMQtVrYogZn6"
       },
@@ -15784,10 +15802,28 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 180000,
       "name": "Catch Catch",
       "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
+    },
+    {
+      "album": {
+        "name": "Catch Catch (Chinese Ver.)",
+        "url": "https://open.spotify.com/album/1AI7g5WoesGtM3c5BROUoQ"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Catch Catch (Chinese Ver.)",
+      "url": "https://open.spotify.com/track/29rzWFatC5WwBw2YypQEzC"
     },
     {
       "album": {
@@ -26962,7 +26998,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 422373,
       "name": "Era Eu",
       "url": "https://open.spotify.com/track/4iCendVjxVcWMafE1ukVDf"
@@ -33363,6 +33399,24 @@
     },
     {
       "album": {
+        "name": "Freakin\u2019 Out",
+        "url": "https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217897,
+      "name": "Freakin\u2019 Out",
+      "url": "https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7"
+    },
+    {
+      "album": {
         "name": "Dance Fever",
         "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
       },
@@ -39228,7 +39282,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 314736,
       "name": "IMPERFEITO",
       "url": "https://open.spotify.com/track/2SswEmtlmAf5VPD69ETNrk"
@@ -48968,7 +49022,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 149538,
       "name": "MEGA DO COQUEIRO",
       "url": "https://open.spotify.com/track/2jxa0nJSol9eSTil3SB13o"
@@ -62590,7 +62644,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 140487,
       "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
       "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
@@ -67798,7 +67852,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 178186,
       "name": "Pq Vc N\u00e3o Me Liga?",
       "url": "https://open.spotify.com/track/1hESdOnr1bF7LHqvubefn4"
@@ -73190,7 +73244,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"

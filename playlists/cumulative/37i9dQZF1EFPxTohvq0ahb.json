@@ -1698,10 +1698,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 242773,
       "name": "Lay It On Me",
       "url": "https://open.spotify.com/track/2ToM5oaSSOQjgaMogZncaE"
+    },
+    {
+      "album": {
+        "name": "Here I Am (Int'l Version)",
+        "url": "https://open.spotify.com/album/0fqSVcXza5It71LS2BJdLR"
+      },
+      "artists": [
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242773,
+      "name": "Lay It On Me",
+      "url": "https://open.spotify.com/track/5ONSnkCFCdVP7Xh1CQAg95"
     },
     {
       "album": {

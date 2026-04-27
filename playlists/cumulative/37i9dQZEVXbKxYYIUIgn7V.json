@@ -1956,7 +1956,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 194861,
       "name": "Achy Breaky - Special Version",
       "url": "https://open.spotify.com/track/291GLgvhwFh1Wj5qIiteSJ"
@@ -3240,6 +3240,24 @@
       "duration_ms": 234072,
       "name": "Always Remember Us This Way",
       "url": "https://open.spotify.com/track/3XlKoDmt7NritaYTEndgC2"
+    },
+    {
+      "album": {
+        "name": "Always You",
+        "url": "https://open.spotify.com/album/3g8e3UOV31B5WrD7GekgHs"
+      },
+      "artists": [
+        {
+          "name": "ROMANTIK.",
+          "url": "https://open.spotify.com/artist/6GC1Azv2VGUlnDGFmSTTYl"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169202,
+      "name": "Always You",
+      "url": "https://open.spotify.com/track/6nZAJWhdcKueQqIFFIgwCR"
     },
     {
       "album": {
@@ -9980,10 +9998,28 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 180000,
       "name": "Catch Catch",
       "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
+    },
+    {
+      "album": {
+        "name": "Catch Catch (Chinese Ver.)",
+        "url": "https://open.spotify.com/album/1AI7g5WoesGtM3c5BROUoQ"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Catch Catch (Chinese Ver.)",
+      "url": "https://open.spotify.com/track/29rzWFatC5WwBw2YypQEzC"
     },
     {
       "album": {
@@ -10064,10 +10100,28 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 217439,
       "name": "Celebrate Me",
       "url": "https://open.spotify.com/track/2i2hd5SXypE3DL3440L2hB"
+    },
+    {
+      "album": {
+        "name": "Celebrate Me",
+        "url": "https://open.spotify.com/album/52dfegL47n8MhAPEhagBcY"
+      },
+      "artists": [
+        {
+          "name": "IngaRose",
+          "url": "https://open.spotify.com/artist/6Nh6lQwzJsftDphRVG7AU1"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217440,
+      "name": "Celebrate Me",
+      "url": "https://open.spotify.com/track/3N8ut5DglWKS6PvClM7cWD"
     },
     {
       "album": {
@@ -21694,7 +21748,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 227428,
       "name": "G\u00fcm G\u00fcm (Serhat Karada\u011f Remix) (feat. Onurr)",
       "url": "https://open.spotify.com/track/3IgB5XnUKnrcKto3tsNcKI"
@@ -28424,7 +28478,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 210070,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
@@ -32762,7 +32816,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 139875,
       "name": "LOSE YOUR MIND",
       "url": "https://open.spotify.com/track/4MonCT2legJJ0cTLsXhDfe"
@@ -36159,6 +36213,24 @@
     },
     {
       "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/2Os2JKtxbIZagMmk8F0uqV"
+      },
+      "artists": [
+        {
+          "name": "Billi Royce",
+          "url": "https://open.spotify.com/artist/0t5043yIoMTnAwLa0uNuic"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135465,
+      "name": "Missing You - Gassed Up",
+      "url": "https://open.spotify.com/track/1nLCJ33uRcbJJ0u8WllZZY"
+    },
+    {
+      "album": {
         "name": "Mit Dir",
         "url": "https://open.spotify.com/album/7826zI710TsTIJM2jao3EE"
       },
@@ -39187,6 +39259,28 @@
     },
     {
       "album": {
+        "name": "No reward",
+        "url": "https://open.spotify.com/album/0s5idnX3OAwDdsgNbbjThe"
+      },
+      "artists": [
+        {
+          "name": "fwc",
+          "url": "https://open.spotify.com/artist/6RgyqdwX81019h7TcQDXY3"
+        },
+        {
+          "name": "Velcheva vibe",
+          "url": "https://open.spotify.com/artist/0eAMaaAge9g36seDjie85f"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199947,
+      "name": "No reward",
+      "url": "https://open.spotify.com/track/2eoS4RgJ6wLbZxbyssTmsF"
+    },
+    {
+      "album": {
         "name": "No Rules!",
         "url": "https://open.spotify.com/album/3hEmkfgNvZOuCNgzmpQWK6"
       },
@@ -39496,7 +39590,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 111461,
       "name": "NOT TODAY",
       "url": "https://open.spotify.com/track/4pfP2JJxiwpcgCQ72yF5Jg"
@@ -41360,6 +41454,28 @@
       "duration_ms": 160863,
       "name": "PARFUM",
       "url": "https://open.spotify.com/track/7f4L1SHhVir0UxPC2sKidp"
+    },
+    {
+      "album": {
+        "name": "Party an der Playa",
+        "url": "https://open.spotify.com/album/6aViVujDMvECQnaLcr9mmo"
+      },
+      "artists": [
+        {
+          "name": "Frenzy",
+          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
+        },
+        {
+          "name": "CubaAusLibre",
+          "url": "https://open.spotify.com/artist/03tlHZxWzLGbqd2C9Eqf2J"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149154,
+      "name": "Party an der Playa",
+      "url": "https://open.spotify.com/track/1HGKb7j5qq1ybstSB2LZo0"
     },
     {
       "album": {
@@ -47760,7 +47876,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 167905,
       "name": "Shinjuku",
       "url": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
@@ -49664,6 +49780,24 @@
       "duration_ms": 200966,
       "name": "Starke M\u00e4dchen",
       "url": "https://open.spotify.com/track/18qN8EBvNSifdRMrvaKfQD"
+    },
+    {
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/4aX3lbEX1whN9CsdFjz8D5"
+      },
+      "artists": [
+        {
+          "name": "The Chordline",
+          "url": "https://open.spotify.com/artist/5geqBUxi8vvBZ761nAttsU"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242532,
+      "name": "Start with Yourself",
+      "url": "https://open.spotify.com/track/4hXuD3lUDg1Lh4hREhnh4O"
     },
     {
       "album": {
@@ -54438,7 +54572,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 160534,
       "name": "Trili Frili Lovesong (Darlin)",
       "url": "https://open.spotify.com/track/2Ev5nUfmDvdLNUSA9BZJJ0"

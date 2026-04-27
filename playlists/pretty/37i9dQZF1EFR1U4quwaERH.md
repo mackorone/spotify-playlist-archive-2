@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 88 | [WADE](https://open.spotify.com/track/67T80y4xJHFL0HZ9E1068T) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw), [Jessie B\. Horne](https://open.spotify.com/artist/6YQQd6atMpVumxmPoHjK4U) | [WADE](https://open.spotify.com/album/5BZVvweppmNfgpe5cbcem3) | 2:46 |
 | 89 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AcP1SgAAAAANDNAjhoYUJhL7NH+hfGFa`
+Snapshot ID: `AcP66gAAAAAn2PZuhRmcGRaoDrEtVZlb`

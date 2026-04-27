@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 131223,
+  "num_followers": 131232,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
+        "name": "\u4eb2\u7231\u7684\u4f60\u554a\uff08\u7535\u89c6\u5267\u300a\u65e0\u5c3d\u7684\u5c3d\u5934\u300b\u4e3b\u9898\u66f2\uff09",
+        "url": "https://open.spotify.com/album/28AEcP8tdN1A6PILfT1r3j"
+      },
+      "artists": [
+        {
+          "name": "\u4efb\u7d20\u6c50",
+          "url": "https://open.spotify.com/artist/16rAFXQVz2WBpTH9uc1LA8"
+        }
+      ],
+      "duration_ms": 235750,
+      "name": "\u4eb2\u7231\u7684\u4f60\u554a\uff08\u7535\u89c6\u5267\u300a\u65e0\u5c3d\u7684\u5c3d\u5934\u300b\u4e3b\u9898\u66f2\uff09",
+      "url": "https://open.spotify.com/track/1jwwyhTZw5QRFnCCmCdhT5"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
         "name": "\u9019\u689d\u5c0f\u9b5a\u5728\u4e4e",
         "url": "https://open.spotify.com/album/0dpedZx4halLI4OQZLdj2j"
       },
@@ -195,34 +211,18 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u4eb2\u7231\u7684\u4f60\u554a\uff08\u7535\u89c6\u5267\u300a\u65e0\u5c3d\u7684\u5c3d\u5934\u300b\u4e3b\u9898\u66f2\uff09",
-        "url": "https://open.spotify.com/album/28AEcP8tdN1A6PILfT1r3j"
+        "name": "\u8ddf\u8457\u611f\u89ba\u8d70",
+        "url": "https://open.spotify.com/album/2evA9z2timYQLrCtfmsTe1"
       },
       "artists": [
         {
-          "name": "\u4efb\u7d20\u6c50",
-          "url": "https://open.spotify.com/artist/16rAFXQVz2WBpTH9uc1LA8"
+          "name": "Zhang Zhen Yue",
+          "url": "https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt"
         }
       ],
-      "duration_ms": 235750,
-      "name": "\u4eb2\u7231\u7684\u4f60\u554a\uff08\u7535\u89c6\u5267\u300a\u65e0\u5c3d\u7684\u5c3d\u5934\u300b\u4e3b\u9898\u66f2\uff09",
-      "url": "https://open.spotify.com/track/1jwwyhTZw5QRFnCCmCdhT5"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
-        "name": "\u6211\u7684\u5b58\u5728\u5c31\u662f\u611b\u4f60",
-        "url": "https://open.spotify.com/album/06tHgjx8kTP2HE9S49o6YN"
-      },
-      "artists": [
-        {
-          "name": "A-Mei Chang",
-          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
-        }
-      ],
-      "duration_ms": 202913,
-      "name": "\u6211\u7684\u5b58\u5728\u5c31\u662f\u611b\u4f60",
-      "url": "https://open.spotify.com/track/1emjanb16SqthPUn27rUCp"
+      "duration_ms": 251434,
+      "name": "\u6885\u96e8\u5b63",
+      "url": "https://open.spotify.com/track/73MgEB0jHzTU0RE7wWcBf6"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -243,18 +243,18 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u8ddf\u8457\u611f\u89ba\u8d70",
-        "url": "https://open.spotify.com/album/2evA9z2timYQLrCtfmsTe1"
+        "name": "\u6211\u7684\u5b58\u5728\u5c31\u662f\u611b\u4f60",
+        "url": "https://open.spotify.com/album/06tHgjx8kTP2HE9S49o6YN"
       },
       "artists": [
         {
-          "name": "Zhang Zhen Yue",
-          "url": "https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt"
+          "name": "A-Mei Chang",
+          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
         }
       ],
-      "duration_ms": 251434,
-      "name": "\u6885\u96e8\u5b63",
-      "url": "https://open.spotify.com/track/73MgEB0jHzTU0RE7wWcBf6"
+      "duration_ms": 202913,
+      "name": "\u6211\u7684\u5b58\u5728\u5c31\u662f\u611b\u4f60",
+      "url": "https://open.spotify.com/track/1emjanb16SqthPUn27rUCp"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u82e6\u7684\u751c",
-        "url": "https://open.spotify.com/album/35DgQzfiv3IvX57XWMaMWE"
-      },
-      "artists": [
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 255023,
-      "name": "\u82e6\u7684\u751c",
-      "url": "https://open.spotify.com/track/323RJytTPp4AccggWcXxlf"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
         "url": "https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 288200,
       "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
       "url": "https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "\u82e6\u7684\u751c",
+        "url": "https://open.spotify.com/album/35DgQzfiv3IvX57XWMaMWE"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "duration_ms": 255023,
+      "name": "\u82e6\u7684\u751c",
+      "url": "https://open.spotify.com/track/323RJytTPp4AccggWcXxlf"
     },
     {
       "added_at": "2026-02-12 16:00:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,317 likes - 281 songs - 15 hr 15 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,317 likes - 287 songs - 15 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -289,5 +289,11 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 279 | [Coming Back For More](https://open.spotify.com/track/4iNsDymJAQ26gpT22BxzQk) | [Summer Stained](https://open.spotify.com/artist/2sEdrlfz7BldSC7bpMhpj3) | [Coming Back For More](https://open.spotify.com/album/021Mwah5WxXxCEIHBTfoSM) | 3:17 |
 | 280 | [We Are The Beast](https://open.spotify.com/track/1rPUpEyGJhzCw0POfbH2S8) | [Black Demon](https://open.spotify.com/artist/62y7gH6ztxINgJnTQYZGNE) | [We Are The Beast](https://open.spotify.com/album/2g14TX2zwmacsxdNrIRYBQ) | 5:16 |
 | 281 | [Line Them Up](https://open.spotify.com/track/1qpnSa87IPUX0u5xl0JIMx) | [The Ratskins](https://open.spotify.com/artist/6ge5wjSR7ea1mgxcodIF8V) | [Line Them Up](https://open.spotify.com/album/7xXnNyCNRY0vortmzd7shM) | 2:47 |
+| 282 | [THE WITNESS](https://open.spotify.com/track/2nXpoV6Agh2XTHivweMvrv) | [Still No One](https://open.spotify.com/artist/2WnPcCPjfDwzAdTT2CP7Mu) | [THE WITNESS](https://open.spotify.com/album/5qE9IPmUqGsnQtMrhDZwNg) | 3:42 |
+| 283 | [Strategy](https://open.spotify.com/track/58hNEzmVnNBvsMlq7LhyTe) | [Pigeon Pye](https://open.spotify.com/artist/72kLEU6mRB5iLrmABFhjlz) | [Story](https://open.spotify.com/album/1SEFpmr6CmYvQWXHDTMFa6) | 4:02 |
+| 284 | [Intro](https://open.spotify.com/track/3dvDMPc6AFIBkDgSRE4NQx) | [Kodin Hill 'N The Pressed Pills](https://open.spotify.com/artist/3PHByAugCg7AlaC2Nunccy) | [Pressing Matters!](https://open.spotify.com/album/2JtHj97SK3YiIVHj2HD7uM) | 3:23 |
+| 285 | [The Best of Me](https://open.spotify.com/track/3n7ZVxio1kVh19S8F8nqxZ) | [Carve A Path](https://open.spotify.com/artist/0u2Z1IEHUa7W6Elk5raydq) | [The Best of Me](https://open.spotify.com/album/1Q8TLja8NDsJb5uKZb6GkD) | 2:34 |
+| 286 | [Consumed](https://open.spotify.com/track/3fd34K4lPlRIwa05R8Qvga) | [Ophanim](https://open.spotify.com/artist/6SY7HLhViXsJR5KyL7bxrB) | [Consumed](https://open.spotify.com/album/6BgBKwEWQFqhzsmx5gW6J1) | 5:11 |
+| 287 | [Got What You Wanted](https://open.spotify.com/track/3ror7WRrkgwHorcSy4n8v9) | [Ugly Bridesmaids](https://open.spotify.com/artist/0gj5NWtV59oZATC9oRiCuB) | [Got What You Wanted](https://open.spotify.com/album/4EpAS3weiZ4RsVk4zqWC5b) | 2:42 |
 
-Snapshot ID: `AAAOb/9DuhA/WDdcRi/l6Or1VS/R+B3d`
+Snapshot ID: `AAAOddfdy4V9u9ZqQ4bW1cdf2RYja2X7`

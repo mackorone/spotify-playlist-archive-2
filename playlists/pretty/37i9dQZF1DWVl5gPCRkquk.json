@@ -1,6 +1,6 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 1972909,
+  "num_followers": 1972798,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-03-20 04:00:52",
       "album": {
-        "name": "Sapling / Signs Of Life",
-        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 257853,
-      "name": "Sapling",
-      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
-    },
-    {
-      "added_at": "2026-03-20 04:00:52",
-      "album": {
         "name": "In My Life",
         "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 176320,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
+    },
+    {
+      "added_at": "2026-03-20 04:00:52",
+      "album": {
+        "name": "Sapling / Signs Of Life",
+        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 257853,
+      "name": "Sapling",
+      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
     },
     {
       "added_at": "2026-03-20 04:00:52",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-03-20 04:00:52",
       "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
-    },
-    {
-      "added_at": "2026-03-20 04:00:52",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 240277,
       "name": "Airplane",
       "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
+    },
+    {
+      "added_at": "2026-03-20 04:00:52",
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
     },
     {
       "added_at": "2026-03-20 04:00:52",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-03-20 04:00:52",
       "album": {
-        "name": "If You Wanna Laugh, You Gotta Cry Sometimes",
-        "url": "https://open.spotify.com/album/20QQy3xJI0IjJbZ0pDnk6d"
-      },
-      "artists": [
-        {
-          "name": "Robert Lester Folsom",
-          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
-        }
-      ],
-      "duration_ms": 211382,
-      "name": "One More Song",
-      "url": "https://open.spotify.com/track/1RW9MKJFpqWWrw5cgIHGMi"
-    },
-    {
-      "added_at": "2026-03-20 04:00:52",
-      "album": {
         "name": "The Day My Father Died",
         "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 202466,
       "name": "Tragic Magic",
       "url": "https://open.spotify.com/track/6Dq4pM4zQWfqRxZxtZOFyt"
+    },
+    {
+      "added_at": "2026-03-20 04:00:52",
+      "album": {
+        "name": "If You Wanna Laugh, You Gotta Cry Sometimes",
+        "url": "https://open.spotify.com/album/20QQy3xJI0IjJbZ0pDnk6d"
+      },
+      "artists": [
+        {
+          "name": "Robert Lester Folsom",
+          "url": "https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX"
+        }
+      ],
+      "duration_ms": 211382,
+      "name": "One More Song",
+      "url": "https://open.spotify.com/track/1RW9MKJFpqWWrw5cgIHGMi"
     },
     {
       "added_at": "2026-03-20 04:00:52",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-03-20 04:00:52",
       "album": {
+        "name": "How It Was It Will Never Be Again",
+        "url": "https://open.spotify.com/album/66OGNLjE72uZ8tKRqxyJZE"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 136980,
+      "name": "How It Was It Will Never Be Again",
+      "url": "https://open.spotify.com/track/3woSAwAhXte942SmXGdH9Q"
+    },
+    {
+      "added_at": "2026-03-20 04:00:52",
+      "album": {
         "name": "Weatherman",
         "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
       },
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2026-03-20 04:00:52",
       "album": {
-        "name": "How It Was It Will Never Be Again",
-        "url": "https://open.spotify.com/album/66OGNLjE72uZ8tKRqxyJZE"
+        "name": "Same Sun EP",
+        "url": "https://open.spotify.com/album/3Qe2tQ4wk8f6wzSMgzjebH"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Ryan Harris",
+          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
         }
       ],
-      "duration_ms": 136980,
-      "name": "How It Was It Will Never Be Again",
-      "url": "https://open.spotify.com/track/3woSAwAhXte942SmXGdH9Q"
+      "duration_ms": 159010,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3TejUMaOZWJS2WynHIZnOW"
     },
     {
       "added_at": "2026-03-20 04:00:52",
@@ -1275,22 +1291,6 @@
       "duration_ms": 182110,
       "name": "As Good As It Gets",
       "url": "https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN"
-    },
-    {
-      "added_at": "2026-03-20 04:00:52",
-      "album": {
-        "name": "Same Sun EP",
-        "url": "https://open.spotify.com/album/3Qe2tQ4wk8f6wzSMgzjebH"
-      },
-      "artists": [
-        {
-          "name": "Ryan Harris",
-          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
-        }
-      ],
-      "duration_ms": 159010,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/3TejUMaOZWJS2WynHIZnOW"
     },
     {
       "added_at": "2026-03-20 04:00:52",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-03-20 04:00:52",
       "album": {
+        "name": "Sleepless in Seattle",
+        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "duration_ms": 240813,
+      "name": "Sleepless in Seattle",
+      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
+    },
+    {
+      "added_at": "2026-03-20 04:00:52",
+      "album": {
         "name": "Room On Your Shoulder",
         "url": "https://open.spotify.com/album/6pzBe7o7zMyVbgd0j1p0va"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 206146,
       "name": "Room On Your Shoulder",
       "url": "https://open.spotify.com/track/5T6ZMk67Sk3gimfuY73tDA"
-    },
-    {
-      "added_at": "2026-03-20 04:00:52",
-      "album": {
-        "name": "Sleepless in Seattle",
-        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        }
-      ],
-      "duration_ms": 240813,
-      "name": "Sleepless in Seattle",
-      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
     },
     {
       "added_at": "2026-03-20 04:00:52",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-03-20 04:00:52",
       "album": {
-        "name": "Peanut",
-        "url": "https://open.spotify.com/album/66IjsekRQdBbUDmANLR7ty"
-      },
-      "artists": [
-        {
-          "name": "Otto Benson",
-          "url": "https://open.spotify.com/artist/7idebBFVTiHclz7stsvsSw"
-        }
-      ],
-      "duration_ms": 190318,
-      "name": "Red and Neon",
-      "url": "https://open.spotify.com/track/6raMCJkNlEdOjUpCHXlfkg"
-    },
-    {
-      "added_at": "2026-03-20 04:00:52",
-      "album": {
         "name": "Tiny Things",
         "url": "https://open.spotify.com/album/7qEfd7XFXsGh5wNcjQuHxT"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 217687,
       "name": "delay",
       "url": "https://open.spotify.com/track/4smEceyd7k4ykSC5riSeFw"
+    },
+    {
+      "added_at": "2026-03-20 04:00:52",
+      "album": {
+        "name": "Peanut",
+        "url": "https://open.spotify.com/album/66IjsekRQdBbUDmANLR7ty"
+      },
+      "artists": [
+        {
+          "name": "Otto Benson",
+          "url": "https://open.spotify.com/artist/7idebBFVTiHclz7stsvsSw"
+        }
+      ],
+      "duration_ms": 190318,
+      "name": "Red and Neon",
+      "url": "https://open.spotify.com/track/6raMCJkNlEdOjUpCHXlfkg"
     },
     {
       "added_at": "2026-03-20 04:00:52",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-03-20 04:00:52",
       "album": {
-        "name": "Dreamers",
-        "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
-      },
-      "artists": [
-        {
-          "name": "Mighty Oaks",
-          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
-        }
-      ],
-      "duration_ms": 207533,
-      "name": "Dreamers",
-      "url": "https://open.spotify.com/track/74892qRbe5YeOnlPAYZzoG"
-    },
-    {
-      "added_at": "2026-03-20 04:00:52",
-      "album": {
         "name": "The Voyager",
         "url": "https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 192743,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM"
+    },
+    {
+      "added_at": "2026-03-20 04:00:52",
+      "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
+      },
+      "artists": [
+        {
+          "name": "Mighty Oaks",
+          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
+        }
+      ],
+      "duration_ms": 207533,
+      "name": "Dreamers",
+      "url": "https://open.spotify.com/track/74892qRbe5YeOnlPAYZzoG"
     },
     {
       "added_at": "2026-03-20 04:00:52",

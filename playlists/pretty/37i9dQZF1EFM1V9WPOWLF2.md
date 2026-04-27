@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 43 | [Two Sides \(I’m So Gemini\) \- Single Version](https://open.spotify.com/track/36O9g4F0Zg9BviD6Hd2H2q) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Two Sides \(I’m So Gemini\)](https://open.spotify.com/album/4FuvzYPhSg46cqv6VPihzp) | 2:06 |
 | 44 | [Presente Y Futuro](https://open.spotify.com/track/7InkTnO35uecjCJucwXrWx) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Fino](https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2) | 3:14 |
 | 45 | [Don't Want Your Love](https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [ODYSSEY](https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC) | 3:12 |
-| 46 | [La Luz](https://open.spotify.com/track/3b6c7OG17RpjolAdT1a3x9) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [desAMORfosis](https://open.spotify.com/album/5x6WtKftK68fbgtinzgeSG) | 2:02 |
-| 47 | [Niño Soñador](https://open.spotify.com/track/2kRrmu3UpV9t9jM8yFxzGk) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Niño Soñador](https://open.spotify.com/album/2Ng7X89Y4M7gxNMABtyij0) | 3:02 |
+| 46 | [Niño Soñador](https://open.spotify.com/track/2kRrmu3UpV9t9jM8yFxzGk) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Niño Soñador](https://open.spotify.com/album/2Ng7X89Y4M7gxNMABtyij0) | 3:02 |
+| 47 | [La Luz](https://open.spotify.com/track/3b6c7OG17RpjolAdT1a3x9) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [desAMORfosis](https://open.spotify.com/album/5x6WtKftK68fbgtinzgeSG) | 2:02 |
 | 48 | [PARANOIA.](https://open.spotify.com/track/4fbNiLNjjCTHZAIkcG5aIh) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PARANOIA.](https://open.spotify.com/album/4S65UMxUGogJERqXWAdEXU) | 3:06 |
 | 49 | [pinot grigio](https://open.spotify.com/track/5VXYli2kYvZ4RbKi1Udgpc) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:07 |
 | 50 | [Complete](https://open.spotify.com/track/1Pn1My4kHwVdwumCRCCzXX) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 99 | [Terrifying](https://open.spotify.com/track/2ANynrvIPu167ZHz2DJ3xk) | [Awgust](https://open.spotify.com/artist/0cC1TGgq52GNhAhed6SHj6) | [Terrifying](https://open.spotify.com/album/732sY0DgQ57NUeH5wNSDL4) | 3:24 |
 | 100 | [Its Weird](https://open.spotify.com/track/4S9pwJF1RwFY9rjuyVlTOB) | [Awgust](https://open.spotify.com/artist/0cC1TGgq52GNhAhed6SHj6) | [Its Weird](https://open.spotify.com/album/4XqWvGatggpkv5iGNmgp0T) | 2:59 |
 
-Snapshot ID: `AcP1fAAAAADC3S+28NWwbfaTJCe6EOxh`
+Snapshot ID: `AcP7HAAAAADRz5ayZ6Wc0Tii3ZMCyUsc`

@@ -4,7 +4,7 @@
 
 > 
 
-8,609 songs - 21 day 22 hr 33 min
+8,610 songs - 21 day 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7598,6 +7598,7 @@
 | [アンダーグラウンド \- Underground](https://open.spotify.com/track/7J5rQ68rXTv7zD1pM5baio) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Ⅴ](https://open.spotify.com/album/0WLus88gcccGasIpW2tb5c) | 4:29 | 2025-01-04 |  |
 | [アンビリカル](https://open.spotify.com/track/0ZjPiCpMBPzb2G3FUi9N0G) | [MILGRAM ユノ \(CV: 相坂優歌\)](https://open.spotify.com/artist/7BQFAksg6eICiE2Io3h7GZ) | [アンビリカル](https://open.spotify.com/album/10lp2srOD3qXyMcZwWUNNv) | 3:23 | 2026-02-18 |  |
 | [ア・サマア・バケイション](https://open.spotify.com/track/0Sxq0220XBk9Vo9cfHaBVC) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 4:23 | 2025-05-13 |  |
+| [イフ \(feat\. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク\)](https://open.spotify.com/track/3O9hXP63syyiV4wTURNmil) | [MORE MORE JUMP!](https://open.spotify.com/artist/1yorjq7rihYVC8Se7eRKps) | [イフ/パラソルサイダー](https://open.spotify.com/album/5M3QBrMhpHErgrpMkWEL4X) | 3:35 | 2026-04-26 |  |
 | [イマジネーション](https://open.spotify.com/track/1xc9r9pgQ3CG7iViKPf0cQ) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 2:59 | 2025-05-09 |  |
 | [インフェルノ](https://open.spotify.com/track/3pQ0zUFOi4e1KZ8yQkeD42) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [インフェルノ](https://open.spotify.com/album/1thARtVFQruymTEXJBOVcP) | 1:34 | 2025-05-11 |  |
 | [インフェルノ](https://open.spotify.com/track/2vOAHp8PBBFYqvQUWSoITY) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 3:31 | 2025-01-04 |  |

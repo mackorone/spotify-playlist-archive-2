@@ -4,7 +4,7 @@
 
 > Hear all of TAEYEON's biggest and best hits in one playlist.
 
-100 songs - 5 hr 51 min
+101 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [One Day](https://open.spotify.com/track/6hjvQTrIkCc8gAX4BfSJjn) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Something New \- The 3rd Mini Album](https://open.spotify.com/album/0xYQcPVyEEegJlTXLttWUx) | 3:30 | 2022-02-14 |  |
 | [Only one](https://open.spotify.com/track/0V7f8xzZdIrtlNnhEOMAYH) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Baramibunda OST Part 5](https://open.spotify.com/album/6bp7CU0TgsOOhXIyAuejtG) | 4:15 | 2022-02-14 |  |
 | [Panorama](https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Panorama : The Best of TAEYEON](https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg) | 3:00 | 2025-12-01 |  |
+| [Pieces](https://open.spotify.com/track/1EjyOE9pgRwUmNa5OUmGjB) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [We Are All Trying Here \(Original Soundtrack\) Part.3](https://open.spotify.com/album/3zE1rg1hYnr1WHQVWpd15P) | 4:05 | 2026-04-27 |  |
 | [Rain](https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Rain \- SM STATION](https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L) | 3:42 | 2022-02-14 |  |
 | [Rescue Me](https://open.spotify.com/track/0xO4wM6ZRx5OMOSv2RHoMk) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [ファイナルライフ \-明日、君が消えても\- \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/6rhSqYOzLZzDqKLNqnJH0u) | 4:22 | 2022-02-14 |  |
 | [Secret](https://open.spotify.com/track/3Outs0mBJ9APOreUan9xpU) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Rain \- SM STATION](https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L) | 3:37 | 2022-02-14 |  |

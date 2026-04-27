@@ -1,6 +1,6 @@
 {
   "description": "\ud835\udd8b\ud835\udd9a\ud835\udd88\ud835\udd90 \ud835\udd91\ud835\udd94\ud835\udd9b\ud835\udd8a",
-  "num_followers": 47262,
+  "num_followers": 47259,
   "original_name": "rimedi per cuori spezzati",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "UFORIA",
-        "url": "https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 144671,
-      "name": "Lacrime",
-      "url": "https://open.spotify.com/track/58Z81LreWvl772tymig5fd"
-    },
-    {
-      "added_at": "2026-04-09 22:04:00",
-      "album": {
         "name": "ruiner",
         "url": "https://open.spotify.com/album/6YyFPAahBvVV74rRNdVmff"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 204000,
       "name": "hammer",
       "url": "https://open.spotify.com/track/2Y4ol1FiPdSPMwaEMJgXMN"
+    },
+    {
+      "added_at": "2026-04-09 22:04:00",
+      "album": {
+        "name": "UFORIA",
+        "url": "https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 144671,
+      "name": "Lacrime",
+      "url": "https://open.spotify.com/track/58Z81LreWvl772tymig5fd"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "BreathingExercise",
-        "url": "https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD"
-      },
-      "artists": [
-        {
-          "name": "surrenderdorothy",
-          "url": "https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp"
-        }
-      ],
-      "duration_ms": 119333,
-      "name": "RepeatInfinite",
-      "url": "https://open.spotify.com/track/4ALZ8gmNvmtOVNkZwK19dC"
-    },
-    {
-      "added_at": "2026-04-09 22:04:00",
-      "album": {
         "name": "Dark Magic",
         "url": "https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 144000,
       "name": "Pity Party",
       "url": "https://open.spotify.com/track/0Latl06o13TA9mQV7SBUpx"
+    },
+    {
+      "added_at": "2026-04-09 22:04:00",
+      "album": {
+        "name": "BreathingExercise",
+        "url": "https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD"
+      },
+      "artists": [
+        {
+          "name": "surrenderdorothy",
+          "url": "https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp"
+        }
+      ],
+      "duration_ms": 119333,
+      "name": "RepeatInfinite",
+      "url": "https://open.spotify.com/track/4ALZ8gmNvmtOVNkZwK19dC"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "Il mio lato peggiore",
-        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        },
-        {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Incredibile (feat. Kaash Paige)",
-      "url": "https://open.spotify.com/track/0XpCSax9B6EUS2IEpo3FU6"
-    },
-    {
-      "added_at": "2026-04-09 22:04:00",
-      "album": {
         "name": "Tutto o niente 2",
         "url": "https://open.spotify.com/album/4F8Tln7lzrOD992Ft8tK7d"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 143157,
       "name": "Tutto o niente 2",
       "url": "https://open.spotify.com/track/2VPm4NZZKroOssZ9TReJ6d"
+    },
+    {
+      "added_at": "2026-04-09 22:04:00",
+      "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Incredibile (feat. Kaash Paige)",
+      "url": "https://open.spotify.com/track/0XpCSax9B6EUS2IEpo3FU6"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/6w0sqUb9pXtssmiDxmd8LK"
+        "name": "Per starci in due",
+        "url": "https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T"
       },
       "artists": [
         {
-          "name": "22simba",
-          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
         }
       ],
-      "duration_ms": 176033,
-      "name": "Fammi Un Sorriso",
-      "url": "https://open.spotify.com/track/0ADVLH8oGt8Fh2yjiSFV7o"
+      "duration_ms": 216000,
+      "name": "Per starci in due",
+      "url": "https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "Per starci in due",
-        "url": "https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T"
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/6w0sqUb9pXtssmiDxmd8LK"
       },
       "artists": [
         {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Per starci in due",
-      "url": "https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz"
+      "duration_ms": 176033,
+      "name": "Fammi Un Sorriso",
+      "url": "https://open.spotify.com/track/0ADVLH8oGt8Fh2yjiSFV7o"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -1179,22 +1179,6 @@
       "duration_ms": 89832,
       "name": "sto bene, a volte",
       "url": "https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu"
-    },
-    {
-      "added_at": "2026-04-09 22:04:00",
-      "album": {
-        "name": "Torner\u00f2",
-        "url": "https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        }
-      ],
-      "duration_ms": 146080,
-      "name": "Torner\u00f2",
-      "url": "https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -1219,6 +1203,22 @@
       "duration_ms": 142725,
       "name": "PERCH\u00c9 NON TI CAPIVO",
       "url": "https://open.spotify.com/track/1JLSRLlbsdX9Ac9S0I1QIq"
+    },
+    {
+      "added_at": "2026-04-09 22:04:00",
+      "album": {
+        "name": "Torner\u00f2",
+        "url": "https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        }
+      ],
+      "duration_ms": 146080,
+      "name": "Torner\u00f2",
+      "url": "https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -1399,22 +1399,18 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "Ceramica",
-        "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
+        "name": "Semprerosa",
+        "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
       },
       "artists": [
         {
           "name": "Nisba",
           "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        },
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Ceramica",
-      "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
+      "duration_ms": 200153,
+      "name": "Semprerosa",
+      "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -1487,18 +1483,22 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "Semprerosa",
-        "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
+        "name": "Ceramica",
+        "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
       },
       "artists": [
         {
           "name": "Nisba",
           "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        },
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
         }
       ],
-      "duration_ms": 200153,
-      "name": "Semprerosa",
-      "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
+      "duration_ms": 193000,
+      "name": "Ceramica",
+      "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
     },
     {
       "added_at": "2026-04-09 22:04:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-04-09 22:04:00",
       "album": {
-        "name": "AUTORITRATTO",
-        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
-      },
-      "artists": [
-        {
-          "name": "Zoda",
-          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
-        }
-      ],
-      "duration_ms": 133658,
-      "name": "SOGNI",
-      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
-    },
-    {
-      "added_at": "2026-04-09 22:04:00",
-      "album": {
         "name": "CONFESSIONE",
         "url": "https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 144187,
       "name": "ALESSIA",
       "url": "https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz"
+    },
+    {
+      "added_at": "2026-04-09 22:04:00",
+      "album": {
+        "name": "AUTORITRATTO",
+        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
+      },
+      "artists": [
+        {
+          "name": "Zoda",
+          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
+        }
+      ],
+      "duration_ms": 133658,
+      "name": "SOGNI",
+      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
     },
     {
       "added_at": "2026-04-09 22:04:00",

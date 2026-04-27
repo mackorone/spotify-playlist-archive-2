@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285315,
+  "num_followers": 285326,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,26 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "White Rabbit",
+        "url": "https://open.spotify.com/album/3eDF1zJvMGS8p1BxHhzYjd"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        }
+      ],
+      "duration_ms": 315309,
+      "name": "White Rabbit",
+      "url": "https://open.spotify.com/track/2CepFmaGHm7HnCKdTxrbvT"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Linger",
         "url": "https://open.spotify.com/album/7jdmHluAywfiIgFd1G8g5x"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 240305,
       "name": "Linger",
       "url": "https://open.spotify.com/track/3RQGHYqNkEuixUCCCnS7vw"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "White Rabbit",
-        "url": "https://open.spotify.com/album/3eDF1zJvMGS8p1BxHhzYjd"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
-        }
-      ],
-      "duration_ms": 315309,
-      "name": "White Rabbit",
-      "url": "https://open.spotify.com/track/2CepFmaGHm7HnCKdTxrbvT"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/0l8nQQvBiFAJnTbzbnSK3f"
-      },
-      "artists": [
-        {
-          "name": "Micah Wagner",
-          "url": "https://open.spotify.com/artist/6TvBcI7m0Jq96Br9pAXCGy"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/3V9VuEtA4EYTbK5utLOZZK"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "...but i'd rather be with you",
         "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
       },
@@ -395,18 +379,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Red On Blonde",
-        "url": "https://open.spotify.com/album/1g1SmW9O61u6tKktYfYcrj"
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/0l8nQQvBiFAJnTbzbnSK3f"
       },
       "artists": [
         {
-          "name": "Tim O'Brien",
-          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+          "name": "Micah Wagner",
+          "url": "https://open.spotify.com/artist/6TvBcI7m0Jq96Br9pAXCGy"
         }
       ],
-      "duration_ms": 242760,
-      "name": "Senor (Tales Of Yankee Power)",
-      "url": "https://open.spotify.com/track/1ABTia5xv1oYxqL5EFbf43"
+      "duration_ms": 185806,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/3V9VuEtA4EYTbK5utLOZZK"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -427,6 +411,22 @@
       "duration_ms": 241786,
       "name": "Sweet Child O' Mine",
       "url": "https://open.spotify.com/track/28LJVZ5PfkIboFoW0J4GgE"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Red On Blonde",
+        "url": "https://open.spotify.com/album/1g1SmW9O61u6tKktYfYcrj"
+      },
+      "artists": [
+        {
+          "name": "Tim O'Brien",
+          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+        }
+      ],
+      "duration_ms": 242760,
+      "name": "Senor (Tales Of Yankee Power)",
+      "url": "https://open.spotify.com/track/1ABTia5xv1oYxqL5EFbf43"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -495,6 +495,26 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Fade To Bluegrass: The Bluegrass Tribute To Metallica",
+        "url": "https://open.spotify.com/album/4z8QBQBG513nlZrgDWsuqg"
+      },
+      "artists": [
+        {
+          "name": "Pickin' On Series",
+          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
+        },
+        {
+          "name": "Iron Horse",
+          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
+        }
+      ],
+      "duration_ms": 261413,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/7GXfXVnuqATxCs6EQoDcVS"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Destinations and Fun Places",
         "url": "https://open.spotify.com/album/3Gj5Gbm8U9ce2FwW9kdBKl"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 256924,
       "name": "Take Me Home Country Roads",
       "url": "https://open.spotify.com/track/4pVJqLoz3kSFL2Oe1UaHgt"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Fade To Bluegrass: The Bluegrass Tribute To Metallica",
-        "url": "https://open.spotify.com/album/4z8QBQBG513nlZrgDWsuqg"
-      },
-      "artists": [
-        {
-          "name": "Pickin' On Series",
-          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
-        },
-        {
-          "name": "Iron Horse",
-          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
-        }
-      ],
-      "duration_ms": 261413,
-      "name": "Enter Sandman",
-      "url": "https://open.spotify.com/track/7GXfXVnuqATxCs6EQoDcVS"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Songs That Made Me Weird, Vol. 1",
+        "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
+      },
+      "artists": [
+        {
+          "name": "Tony Kamel",
+          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
+        }
+      ],
+      "duration_ms": 251621,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/6HmVQtiQBu2PUeZchpJLrP"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 189877,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/6e5W9y8PcwJtZpmEzCy1pW"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Songs That Made Me Weird, Vol. 1",
-        "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
-      },
-      "artists": [
-        {
-          "name": "Tony Kamel",
-          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
-        }
-      ],
-      "duration_ms": 251621,
-      "name": "No Rain",
-      "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "The Very Best Yet (The Very Best Yet Version)",
-        "url": "https://open.spotify.com/album/2BgbVFW7nmYTDWuhqNMuAq"
-      },
-      "artists": [
-        {
-          "name": "The Hillbilly Moonshiners Bluegrass Band",
-          "url": "https://open.spotify.com/artist/6BcK7PtPC4B4buhH0wsLua"
-        }
-      ],
-      "duration_ms": 218091,
-      "name": "Can't Feel My Face - The Very Best Yet Version",
-      "url": "https://open.spotify.com/track/5NM7wEj9onAnCEQ65X8AMH"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Undercover",
         "url": "https://open.spotify.com/album/6I3c5bU1TCesp1PivdZp8e"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 289196,
       "name": "American Girl",
       "url": "https://open.spotify.com/track/4cubT1pp7sp10qcCpl0ml3"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "The Very Best Yet (The Very Best Yet Version)",
+        "url": "https://open.spotify.com/album/2BgbVFW7nmYTDWuhqNMuAq"
+      },
+      "artists": [
+        {
+          "name": "The Hillbilly Moonshiners Bluegrass Band",
+          "url": "https://open.spotify.com/artist/6BcK7PtPC4B4buhH0wsLua"
+        }
+      ],
+      "duration_ms": 218091,
+      "name": "Can't Feel My Face - The Very Best Yet Version",
+      "url": "https://open.spotify.com/track/5NM7wEj9onAnCEQ65X8AMH"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Wagon Wheel",
-        "url": "https://open.spotify.com/album/7cPsrl4X5vxDsoL3gdZK2l"
-      },
-      "artists": [
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        }
-      ],
-      "duration_ms": 433563,
-      "name": "Wagon Wheel",
-      "url": "https://open.spotify.com/track/2c3UKDNpkzj1qmSRWMDpcC"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": ".",
         "url": "https://open.spotify.com/album/76MzjkhMULN2M1Ae1Dd9cP"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 333013,
       "name": "Possum",
       "url": "https://open.spotify.com/track/1LiPnexHN9Su77zJ3Uz4gO"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Wagon Wheel",
+        "url": "https://open.spotify.com/album/7cPsrl4X5vxDsoL3gdZK2l"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "duration_ms": 433563,
+      "name": "Wagon Wheel",
+      "url": "https://open.spotify.com/track/2c3UKDNpkzj1qmSRWMDpcC"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Old Cane Back Rocker",
+        "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
+      },
+      "artists": [
+        {
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+        },
+        {
+          "name": "Darrell Scott String Band",
+          "url": "https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh"
+        }
+      ],
+      "duration_ms": 267690,
+      "name": "It's a Great Day to Be Alive",
+      "url": "https://open.spotify.com/track/64lQoUgmhvS8KqstWlg4J9"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Pursuit of Happiness",
         "url": "https://open.spotify.com/album/1Ie8GLQFnaxchf0ZPihKvq"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 345058,
       "name": "Closer You Get",
       "url": "https://open.spotify.com/track/5rPSwpzXNpevdBXtQ2OFzD"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Old Cane Back Rocker",
-        "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
-      },
-      "artists": [
-        {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
-        },
-        {
-          "name": "Darrell Scott String Band",
-          "url": "https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh"
-        }
-      ],
-      "duration_ms": 267690,
-      "name": "It's a Great Day to Be Alive",
-      "url": "https://open.spotify.com/track/64lQoUgmhvS8KqstWlg4J9"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Can't Let Go",
+        "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "duration_ms": 185305,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "good 4 u / Dooley's Farm (Spotify Singles)",
         "url": "https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 216343,
       "name": "good 4 u - Spotify Sessions",
       "url": "https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Can't Let Go",
-        "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
-      },
-      "artists": [
-        {
-          "name": "Della Mae",
-          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
-        }
-      ],
-      "duration_ms": 185305,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "If I Needed You",
-        "url": "https://open.spotify.com/album/3rgGZOnKSdbWYMwa6wuZBU"
-      },
-      "artists": [
-        {
-          "name": "Admiral Radio",
-          "url": "https://open.spotify.com/artist/2qpKTCEq8tcqBhSibdDV9v"
-        }
-      ],
-      "duration_ms": 203416,
-      "name": "If I Needed You",
-      "url": "https://open.spotify.com/track/4GQUszeC8ejtWRVEq7y6ag"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Ohio",
         "url": "https://open.spotify.com/album/4gxVhz09xgQ2b7QjnmV3Vl"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 173279,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/4tLtJETF7b6BDjDoAxgBD7"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "If I Needed You",
+        "url": "https://open.spotify.com/album/3rgGZOnKSdbWYMwa6wuZBU"
+      },
+      "artists": [
+        {
+          "name": "Admiral Radio",
+          "url": "https://open.spotify.com/artist/2qpKTCEq8tcqBhSibdDV9v"
+        }
+      ],
+      "duration_ms": 203416,
+      "name": "If I Needed You",
+      "url": "https://open.spotify.com/track/4GQUszeC8ejtWRVEq7y6ag"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Linger",
-        "url": "https://open.spotify.com/album/34HJ7PfTw1XuNCkWwUoJRP"
-      },
-      "artists": [
-        {
-          "name": "Aine Burns",
-          "url": "https://open.spotify.com/artist/2YO7UDjRwu6oFYXDQxVfOz"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/4L2VxFPupG0uZTFukuZBoY"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Family, Friends & Heroes",
         "url": "https://open.spotify.com/album/4jEA27ToawCGCUH7GZUkH0"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 304333,
       "name": "Pretty Woman",
       "url": "https://open.spotify.com/track/3wITrtynoofk1CNLgy2XOh"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/34HJ7PfTw1XuNCkWwUoJRP"
+      },
+      "artists": [
+        {
+          "name": "Aine Burns",
+          "url": "https://open.spotify.com/artist/2YO7UDjRwu6oFYXDQxVfOz"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/4L2VxFPupG0uZTFukuZBoY"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Love Is Alive",
-        "url": "https://open.spotify.com/album/09ETIPG6cNhUjqd9wWqUbg"
-      },
-      "artists": [
-        {
-          "name": "Shar Carillo",
-          "url": "https://open.spotify.com/artist/7wAk74eumCQ0AeYMt3AA2a"
-        },
-        {
-          "name": "Loke",
-          "url": "https://open.spotify.com/artist/6WmiUXwxT0ICHHz3oPWJgw"
-        }
-      ],
-      "duration_ms": 243789,
-      "name": "Love Is Alive",
-      "url": "https://open.spotify.com/track/0WaBhRYUqed3o4lbCGcUGX"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Guess I'm Doing Fine",
         "url": "https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 280441,
       "name": "Guess I'm Doing Fine",
       "url": "https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Love Is Alive",
+        "url": "https://open.spotify.com/album/09ETIPG6cNhUjqd9wWqUbg"
+      },
+      "artists": [
+        {
+          "name": "Shar Carillo",
+          "url": "https://open.spotify.com/artist/7wAk74eumCQ0AeYMt3AA2a"
+        },
+        {
+          "name": "Loke",
+          "url": "https://open.spotify.com/artist/6WmiUXwxT0ICHHz3oPWJgw"
+        }
+      ],
+      "duration_ms": 243789,
+      "name": "Love Is Alive",
+      "url": "https://open.spotify.com/track/0WaBhRYUqed3o4lbCGcUGX"
     },
     {
       "added_at": "2026-02-04 05:00:53",

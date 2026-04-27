@@ -1071,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/3qnEQEn785VdJmtJcWA1Iw"
+      },
+      "artists": [
+        {
+          "name": "Kaya",
+          "url": "https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258450,
+      "name": "Coppelia",
+      "url": "https://open.spotify.com/track/70SMFYMWEIEUXa7mP3EDAD"
+    },
+    {
+      "album": {
         "name": "Minecraft: Tricky Trials (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/3ug2vtKk0URmKrt7ppYQst"
       },

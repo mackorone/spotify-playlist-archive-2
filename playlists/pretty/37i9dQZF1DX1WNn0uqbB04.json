@@ -1,6 +1,6 @@
 {
   "description": "El Tango est\u00e1 m\u00e1s vivo que nunca \ud83d\udcf8 Santiago Motorizado & FLORIAN",
-  "num_followers": 87734,
+  "num_followers": 87733,
   "original_name": "Neo Tango",
   "owner": {
     "name": "Spotify",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "De F\u00e1brica (Versi\u00f3n Extendida)",
+        "url": "https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K"
+      },
+      "artists": [
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        }
+      ],
+      "duration_ms": 203550,
+      "name": "Curarme (TANGO)",
+      "url": "https://open.spotify.com/track/3ORq0D5qOwljp6UKq9Xdic"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "Cuenco",
         "url": "https://open.spotify.com/album/5kTDKs3NG4YZVN1P6aZDWB"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 269579,
       "name": "Mientras Tanto",
       "url": "https://open.spotify.com/track/6mEAf6mpMkiYRIivukpJ16"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "De F\u00e1brica (Versi\u00f3n Extendida)",
-        "url": "https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K"
-      },
-      "artists": [
-        {
-          "name": "FLORIAN",
-          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
-        }
-      ],
-      "duration_ms": 203550,
-      "name": "Curarme (TANGO)",
-      "url": "https://open.spotify.com/track/3ORq0D5qOwljp6UKq9Xdic"
     },
     {
       "added_at": "2026-01-23 03:00:06",

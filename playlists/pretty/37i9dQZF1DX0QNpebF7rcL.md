@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Joe Bonamassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,765 likes - 101 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,812 likes - 101 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

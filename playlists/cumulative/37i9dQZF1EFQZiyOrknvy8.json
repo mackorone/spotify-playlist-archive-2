@@ -1157,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/1y1ROIYZ2lxHtWwlGmkJX5"
+      },
+      "artists": [
+        {
+          "name": "INI",
+          "url": "https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "DUM",
+      "url": "https://open.spotify.com/track/2pX6cKYZ5qJN6lzl7E8b9S"
+    },
+    {
+      "album": {
         "name": "Dye My Hair",
         "url": "https://open.spotify.com/album/72OGxvqzD8lVsmT0HsaEPS"
       },
@@ -1732,6 +1750,24 @@
       "duration_ms": 233080,
       "name": "Ich flieg zu dir",
       "url": "https://open.spotify.com/track/5qrwJRBdBzkLTjv9TojkO5"
+    },
+    {
+      "album": {
+        "name": "Von Liebe...",
+        "url": "https://open.spotify.com/album/4rKLRJvSW6QZW4t0wrkjHP"
+      },
+      "artists": [
+        {
+          "name": "Lostboi Lino",
+          "url": "https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150469,
+      "name": "Ich glaub dir (nicht)",
+      "url": "https://open.spotify.com/track/3ONRKwwLIqXDNrJFxXFF82"
     },
     {
       "album": {

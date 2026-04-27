@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 
 > This is John Williams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,803 likes - 45 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,810 likes - 45 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 | 21 | [Cantina Band](https://open.spotify.com/track/5ZSAdkQb23NPIcUGt6exdm) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 2:44 |
 | 22 | [The Patronus Light](https://open.spotify.com/track/59xohjlL8uhdil8UEMIN76) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack](https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq) | 1:12 |
 | 23 | [Introducing Colin](https://open.spotify.com/track/4kwclHRtcMJLza1W39BSMB) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack](https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0) | 1:49 |
-| 24 | [Entry into the Great Hall and the Banquet](https://open.spotify.com/track/0UDSwgomgI5bK1x1eYeBez) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 3:42 |
+| 24 | [Visit to the Zoo and Letters from Hogwarts](https://open.spotify.com/track/3u7lKn9dJFHyJDG2q06Pzv) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 3:23 |
 | 25 | [Anakin vs\. Obi\-Wan](https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Revenge of the Sith \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg) | 3:56 |
 | 26 | [Double Trouble](https://open.spotify.com/track/1woL1W9wp2tKz9cFyc4NUm) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack](https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq) | 1:37 |
 | 27 | [Gilderoy Lockhart](https://open.spotify.com/track/4Fproek7uXgqMyUgCFJcWt) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack](https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0) | 2:05 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 | 44 | [Journey To The Island](https://open.spotify.com/track/0QCvok3TPhk7JhQF0gYmBw) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jurassic Park](https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf) | 8:52 |
 | 45 | [Il Postino: Theme](https://open.spotify.com/track/7EDqH1x26SNDcdXAIBgCyB) | [Luis Bacalov](https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Pittsburgh Symphony Orchestra](https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9) | [Cinema Serenade](https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq) | 3:44 |
 
-Snapshot ID: `aeqygAAAAAB9dWDvW0XV8ZBkgo910WlR`
+Snapshot ID: `aewEAAAAAADUbDQie+mFOdgp0192UWV1`

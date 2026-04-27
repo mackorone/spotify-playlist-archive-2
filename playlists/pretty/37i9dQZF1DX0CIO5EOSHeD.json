@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. ",
-  "num_followers": 4082,
+  "num_followers": 4130,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFd1tOc13TNiSygoDIjm89mvx6ly",
+  "snapshot_id": "AAAAAGqCvGRoHVhzSlG0mIGhmoGfBNpQ",
   "tracks": [
     {
       "added_at": "2025-05-01 22:27:23",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Romantic Homicide",
-        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 132630,
-      "name": "Romantic Homicide",
-      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Songs of Her's",
         "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 255067,
       "name": "What Once Was",
       "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "SALES LP",
+        "url": "https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE"
+      },
+      "artists": [
+        {
+          "name": "SALES",
+          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Pope Is a Rockstar",
+      "url": "https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -203,18 +203,18 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "SALES LP",
-        "url": "https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE"
+        "name": "Jinx",
+        "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
       },
       "artists": [
         {
-          "name": "SALES",
-          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
         }
       ],
-      "duration_ms": 187333,
-      "name": "Pope Is a Rockstar",
-      "url": "https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2"
+      "duration_ms": 126120,
+      "name": "Ghostride",
+      "url": "https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -239,22 +239,6 @@
       "duration_ms": 195506,
       "name": "Dope Sick",
       "url": "https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
-        "name": "Jinx",
-        "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
-      },
-      "artists": [
-        {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
-        }
-      ],
-      "duration_ms": 126120,
-      "name": "Ghostride",
-      "url": "https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -775,22 +759,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Mammalian Sighing Reflex",
-        "url": "https://open.spotify.com/album/31KiskR7q89oowARNCmSMG"
-      },
-      "artists": [
-        {
-          "name": "Wilbur Soot",
-          "url": "https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy"
-        }
-      ],
-      "duration_ms": 159141,
-      "name": "Around the Pomegranate",
-      "url": "https://open.spotify.com/track/4fA9UQIKQAFlJKhMoThok3"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Girl with Fish",
         "url": "https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT"
       },
@@ -803,6 +771,22 @@
       "duration_ms": 164505,
       "name": "Paces",
       "url": "https://open.spotify.com/track/6RiF8SC99TQlhS1HkdM7sF"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "Mammalian Sighing Reflex",
+        "url": "https://open.spotify.com/album/31KiskR7q89oowARNCmSMG"
+      },
+      "artists": [
+        {
+          "name": "Wilbur Soot",
+          "url": "https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy"
+        }
+      ],
+      "duration_ms": 159141,
+      "name": "Around the Pomegranate",
+      "url": "https://open.spotify.com/track/4fA9UQIKQAFlJKhMoThok3"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -891,22 +875,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "i wanna",
-        "url": "https://open.spotify.com/album/6BhQyzycyRPetDQ8iJhN5i"
-      },
-      "artists": [
-        {
-          "name": "sweet93",
-          "url": "https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y"
-        }
-      ],
-      "duration_ms": 139354,
-      "name": "i wanna",
-      "url": "https://open.spotify.com/track/16yTwYw2o5hgtf1YDePQN7"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Human Condition",
         "url": "https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC"
       },
@@ -919,6 +887,22 @@
       "duration_ms": 131618,
       "name": "Human Condition",
       "url": "https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "i wanna",
+        "url": "https://open.spotify.com/album/6BhQyzycyRPetDQ8iJhN5i"
+      },
+      "artists": [
+        {
+          "name": "sweet93",
+          "url": "https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "i wanna",
+      "url": "https://open.spotify.com/track/16yTwYw2o5hgtf1YDePQN7"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -983,22 +967,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Come Down",
-        "url": "https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
-        }
-      ],
-      "duration_ms": 273360,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "The Gaping Mouth",
         "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
       },
@@ -1011,6 +979,22 @@
       "duration_ms": 219010,
       "name": "Seaface",
       "url": "https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "Come Down",
+        "url": "https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 273360,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1063,22 +1047,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Streetwise",
-        "url": "https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
-        }
-      ],
-      "duration_ms": 163720,
-      "name": "Violet",
-      "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "The Way He Looks",
         "url": "https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ"
       },
@@ -1091,6 +1059,22 @@
       "duration_ms": 199500,
       "name": "Beautiful Mind",
       "url": "https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "Streetwise",
+        "url": "https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 163720,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1223,22 +1207,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "That's What They Wanted",
-        "url": "https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC"
-      },
-      "artists": [
-        {
-          "name": "canless valley",
-          "url": "https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj"
-        }
-      ],
-      "duration_ms": 116832,
-      "name": "That's What They Wanted",
-      "url": "https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Real Life",
         "url": "https://open.spotify.com/album/6aFmpWv1BgzBpJ358C86zc"
       },
@@ -1255,6 +1223,22 @@
       "duration_ms": 129090,
       "name": "Jesse",
       "url": "https://open.spotify.com/track/27hPDHjoiRbLU3lS5Js4Tc"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "That's What They Wanted",
+        "url": "https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC"
+      },
+      "artists": [
+        {
+          "name": "canless valley",
+          "url": "https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj"
+        }
+      ],
+      "duration_ms": 116832,
+      "name": "That's What They Wanted",
+      "url": "https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1475,22 +1459,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "ALLTHETIME",
-        "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
-      },
-      "artists": [
-        {
-          "name": "POLICE CAR COLLECTIVE",
-          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
-        }
-      ],
-      "duration_ms": 425680,
-      "name": "ALLTHETIME",
-      "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "home:so long",
         "url": "https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX"
       },
@@ -1503,6 +1471,22 @@
       "duration_ms": 85956,
       "name": "home:so long",
       "url": "https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "ALLTHETIME",
+        "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
+      },
+      "artists": [
+        {
+          "name": "POLICE CAR COLLECTIVE",
+          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
+        }
+      ],
+      "duration_ms": 425680,
+      "name": "ALLTHETIME",
+      "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1603,22 +1587,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Accelerator",
-        "url": "https://open.spotify.com/album/0ulti0MXCGlxytdAzSIXWh"
-      },
-      "artists": [
-        {
-          "name": "HighSchool",
-          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
-        }
-      ],
-      "duration_ms": 244223,
-      "name": "Heaven's Gate",
-      "url": "https://open.spotify.com/track/4oPtJ8eELKpuWLIumcOJre"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Warning Sign (Alt Version)",
         "url": "https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx"
       },
@@ -1639,6 +1607,22 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
+        "name": "Accelerator",
+        "url": "https://open.spotify.com/album/0ulti0MXCGlxytdAzSIXWh"
+      },
+      "artists": [
+        {
+          "name": "HighSchool",
+          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
+        }
+      ],
+      "duration_ms": 244223,
+      "name": "Heaven's Gate",
+      "url": "https://open.spotify.com/track/4oPtJ8eELKpuWLIumcOJre"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
         "name": "heat waves - lofi version",
         "url": "https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 96363,
       "name": "heat waves - lofi version",
       "url": "https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "Pastlife (Deluxe)",
+        "url": "https://open.spotify.com/album/0vSwt0ateYFyLzdZDqAZyc"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "duration_ms": 182203,
+      "name": "Cold Like Me",
+      "url": "https://open.spotify.com/track/4VWHyL5l00Ue2W45C17xQv"
     }
   ],
   "unique_name": "Lofi Indie",

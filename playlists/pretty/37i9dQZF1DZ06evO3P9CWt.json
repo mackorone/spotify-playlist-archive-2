@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280144,
+  "num_followers": 280137,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAAB2E7dFnF4vB/379b/jyUoA",
+  "snapshot_id": "aewEAAAAAADjHrtO/8BqFi8NbUdOvJfZ",
   "tracks": [
     {
       "added_at": null,
@@ -55,30 +55,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ensaios Da Anitta",
-        "url": "https://open.spotify.com/album/6EkCnMeO4zOURLKlTKbl39"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 123034,
-      "name": "Fala Quem \u00c9",
-      "url": "https://open.spotify.com/track/6tJvgq2imhqTdmDivVlefX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Know No Better",
         "url": "https://open.spotify.com/album/4PJtsH62RuojHmS3VCAHXx"
       },
@@ -99,6 +75,30 @@
       "duration_ms": 167310,
       "name": "Sua Cara (feat. Anitta & Pabllo Vittar)",
       "url": "https://open.spotify.com/track/5gUFvcHTgDNthj7DmZl2L7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ensaios Da Anitta",
+        "url": "https://open.spotify.com/album/6EkCnMeO4zOURLKlTKbl39"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 123034,
+      "name": "Fala Quem \u00c9",
+      "url": "https://open.spotify.com/track/6tJvgq2imhqTdmDivVlefX"
     },
     {
       "added_at": null,

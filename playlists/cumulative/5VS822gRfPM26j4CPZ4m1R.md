@@ -4,7 +4,7 @@
 
 > Playlist
 
-643 songs - 1 day 14 hr 4 min
+644 songs - 1 day 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [If You Love Her](https://open.spotify.com/track/1MaDw1BQ797k8j7xXnH486) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [If You Love Her](https://open.spotify.com/album/7rMnIouqweD8JlFSw3LyIm) | 2:44 | 2023-10-25 |  |
 | [If You Love Her](https://open.spotify.com/track/2UCRuWi3dHLmAoeiV9ahO9) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [No Future Plans](https://open.spotify.com/album/6OIg0UtNM5vE2BSgXxtZHv) | 2:44 | 2023-10-25 |  |
 | [IknowhowIfeel](https://open.spotify.com/track/2IFaUS63AIAr9P46W1lEwt) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 5:27 | 2023-10-25 |  |
+| [Imperfect Love](https://open.spotify.com/track/0bd2Bh2ctRgeSxCn9Dhor9) | [BROTHER SUN SISTER MOON](https://open.spotify.com/artist/4jYamjqQ1wmOLS41qNiZ0i) | [Imperfect Love](https://open.spotify.com/album/0seISL93oEzbKQFWVohX3W) | 3:12 | 2026-04-26 |  |
 | [In a New Way](https://open.spotify.com/track/2iUGljoQoak1plOfUETSV9) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [So Sweet So Nice](https://open.spotify.com/album/15mLrCaxxDCyMrMfdr8sRy) | 3:42 | 2023-10-25 |  |
 | [In Heaven \(Lady in the Radiator Song\)](https://open.spotify.com/track/39G7UPM6ujNpN17RmAhAEs) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Reprise Vol\. 1](https://open.spotify.com/album/2cQwGuRwSG5XBP9OTXhSYt) | 2:22 | 2023-10-25 |  |
 | [In Numbers](https://open.spotify.com/track/1oX2bQXVpS5vziV3bz0VaI) | [Worries And Other Plants](https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc) | [In Numbers](https://open.spotify.com/album/5DsFwwdySfCi1df9m4sO3P) | 3:57 | 2025-10-10 |  |

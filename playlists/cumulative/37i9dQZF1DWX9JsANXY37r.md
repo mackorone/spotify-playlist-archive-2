@@ -4,7 +4,7 @@
 
 > drinks em casa, nada melhor
 
-253 songs - 15 hr 35 min
+254 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Caminho Sem Volta](https://open.spotify.com/track/18kgN90dymlnnLvJSmtQug) | [THAMI](https://open.spotify.com/artist/4XlOnZCcxqJttY99hc3uqq) | [Caminho Sem Volta](https://open.spotify.com/album/7ybtjO05lRXxBSO8CCEt9l) | 3:26 | 2022-02-18 | 2022-07-29 |
 | [Cartas para o Passado](https://open.spotify.com/track/4bWigbot8lWuwfqkAMwXfP) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Cartas para o Passado](https://open.spotify.com/album/3xNi4aZ7NY5pngUCrPfSFV) | 4:00 | 2022-04-08 | 2022-07-29 |
 | [Change](https://open.spotify.com/track/58czdfdkPFvp8a3DRTUyBI) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Change](https://open.spotify.com/album/6XPbirRQZpjKJLMW8GhtkB) | 3:21 | 2022-02-18 | 2023-06-10 |
+| [Chase Your Tail](https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Chase Your Tail](https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby) | 3:13 | 2026-04-24 |  |
 | [Cheesin’ \(with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS\)](https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [Cheesin'](https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh) | 2:18 | 2022-03-25 |  |
 | [Cherry](https://open.spotify.com/track/0Y30sCKxtNQ2MRpl00aA03) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/1VZxGX1lzF1QjY5QofhC5r) | 3:16 | 2022-03-25 | 2022-04-19 |
 | [Cherry](https://open.spotify.com/track/5k44yc5bXO1XRedzjaugdQ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:16 | 2022-06-24 | 2024-04-19 |
@@ -114,7 +115,7 @@
 | [Glow](https://open.spotify.com/track/423juOOc4CLiwV6yfOhdym) | [The Goods](https://open.spotify.com/artist/4s1VGnynyXN1cZ4oKsyxEx) | [Glow](https://open.spotify.com/album/1ebjCE10RQUNzqyYYjhzdk) | 3:52 | 2022-03-02 | 2022-07-29 |
 | [HELL NO](https://open.spotify.com/track/2scJ8uEaaZ89eKjT5efNEI) | [Flor Gil](https://open.spotify.com/artist/1K0XrriGifMKnhdKhxODXy) | [HELL NO](https://open.spotify.com/album/4feMNKETJAR8jloVHKh2oH) | 3:40 | 2024-09-13 | 2024-10-05 |
 | [Here With Me \(feat\. Anderson .Paak\)](https://open.spotify.com/track/67JwJPsnpTB6jVwXgARZAn) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Good Morning Gorgeous](https://open.spotify.com/album/0vUPpxeQjTDxcvV86y6G18) | 2:19 | 2022-03-02 | 2022-06-02 |
-| [HERicane](https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Algorithm](https://open.spotify.com/album/7C3s4jMUKRJtm8ztviFu55) | 3:47 | 2024-07-05 |  |
+| [HERicane](https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Algorithm](https://open.spotify.com/album/7C3s4jMUKRJtm8ztviFu55) | 3:47 | 2024-07-05 | 2026-04-27 |
 | [Higher](https://open.spotify.com/track/7MUhRZD1UNEYk4PPq2wSw3) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Higher](https://open.spotify.com/album/5bNltaFAuWA5gyTTCamcve) | 3:14 | 2022-02-18 | 2022-07-29 |
 | [Hold On](https://open.spotify.com/track/0WbwSOALA9zsh7r18Jwbau) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Dance Without Me](https://open.spotify.com/album/0MAg2c8prkPMm0k9ZINhOK) | 3:24 | 2022-02-18 | 2022-07-27 |
 | [Hold On](https://open.spotify.com/track/4dPimg8olUWKxHZXPD3KOO) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 3:30 | 2022-03-25 | 2025-03-27 |

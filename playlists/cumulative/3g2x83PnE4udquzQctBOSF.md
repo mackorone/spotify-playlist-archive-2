@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-725 songs - 1 day 21 hr 39 min
+730 songs - 1 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [All Night](https://open.spotify.com/track/0mrdtRdrp9W05nKuE2qFO6) | [Bellecour](https://open.spotify.com/artist/1PiNBMw3iIaG021gWeidUY), [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [All Night](https://open.spotify.com/album/6TlbQ4aXAwS1Iw55zm42jO) | 3:08 | 2023-04-23 | 2023-05-15 |
 | [All Of My Love](https://open.spotify.com/track/7gtNdeQgBYPFJHadRxUfcd) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [All Of My Love](https://open.spotify.com/album/5pdOSD5odJMAxVME43mpnm) | 4:27 | 2023-06-18 | 2023-07-17 |
 | [All The Time](https://open.spotify.com/track/5By6A6jdZiJ9j3YION9hQW) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi), [Curtiba](https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3) | [All The Time](https://open.spotify.com/album/0QBrRX6aMDz7SxzEvHXCv5) | 2:46 | 2023-03-05 | 2023-03-20 |
+| [Almost Called](https://open.spotify.com/track/6JVjHuZcrPeCPL9PLIUDwM) | [LUX VINCI](https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt) | [Almost Called](https://open.spotify.com/album/69pc130bAAdvSpqorkgggO) | 3:09 | 2026-04-26 |  |
 | [AMMU NATION](https://open.spotify.com/track/47o0cnV32UTHK4rZaIXx0i) | [Freemont](https://open.spotify.com/artist/6e5q7tWIUASaTwuOluBzyl) | [AMMU NATION](https://open.spotify.com/album/5evhoXC8Wg7Y5XmH7EoplL) | 2:40 | 2026-03-13 |  |
 | [Amor](https://open.spotify.com/track/3sjoI17SWnYP20ILoaGhW9) | [Mene](https://open.spotify.com/artist/3HRVazmDQL8MtCwjxKHGq8) | [Masava EP](https://open.spotify.com/album/6ornbfk8U5XQ5DpEt2GEkc) | 3:28 | 2023-05-14 | 2023-05-30 |
 | [Amor](https://open.spotify.com/track/2pqBgFAxdgVXcmtG16SB5O) | [MUUS](https://open.spotify.com/artist/3wkqbqrDYzltNpxWK6sgsH) | [Amor](https://open.spotify.com/album/4JzfgP4l8bmmUG0hfoZIpd) | 3:42 | 2023-03-19 | 2023-04-10 |
@@ -45,6 +46,7 @@
 | [Baby Beat Box \- ProOne79 Remix](https://open.spotify.com/track/3dKD7n75H2KWe19IEWMrcG) | [Stylophonic](https://open.spotify.com/artist/2xJOPOUvVAPRWU1hcNtsq1), [ProOne79](https://open.spotify.com/artist/1BWkFxDS5l1CgR0QpOfI5b) | [Baby Beat Box \(2026 Remixes\)](https://open.spotify.com/album/0Yr216EUviOAzrwj2YZwyQ) | 4:30 | 2026-04-08 |  |
 | [Back N Forth](https://open.spotify.com/track/1lu9DGjufsxS6m7CnuL1An) | [SLVR](https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU) | [Back N Forth](https://open.spotify.com/album/0DGlrQi4k2PkBTXiZ0Bbre) | 2:12 | 2023-02-19 | 2023-03-13 |
 | [Back Out](https://open.spotify.com/track/5NVvOLD77ShDwUYRaRtRbX) | [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk), [Panna \(BR\)](https://open.spotify.com/artist/34YgnaBrdRLtuwExinbk0t) | [Back Out](https://open.spotify.com/album/7nTo5MrORIqbLQ7CHt7Psu) | 6:33 | 2023-07-16 | 2023-08-20 |
+| [Back to the beat](https://open.spotify.com/track/7nITKVCQM6yP3DrvOJlvVK) | [Violare Fobia](https://open.spotify.com/artist/0oZKREVpE7cVrBeliDpnWN) | [Back to the beat](https://open.spotify.com/album/4J9AweklnnAsayJI3phItB) | 3:36 | 2026-04-26 |  |
 | [Back To The Groove](https://open.spotify.com/track/6lTX898JuTfnT6l0tx5gKV) | [Thunder DJ AI](https://open.spotify.com/artist/7ba9PcoyvqG1loN3hReWM6) | [Back To The Groove](https://open.spotify.com/album/62p4HL44U6NqmzXO8Be4r3) | 4:38 | 2026-03-02 |  |
 | [Back To This \(feat\. SoShy\)](https://open.spotify.com/track/3NVCUMDnGDOPDM5jSHuVgt) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Soshy](https://open.spotify.com/artist/1LXdHdzVmQV1GJE0EUxjFp) | [Back To This \(feat\. SoShy\)](https://open.spotify.com/album/3BquZyD0gEAzZWJSYmLdm0) | 2:37 | 2023-04-30 | 2023-05-23 |
 | [Bad Boys](https://open.spotify.com/track/0JPcvd0v324wxse9XhvT7a) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Alex O'Clock](https://open.spotify.com/artist/2K91we4sYTdu2m0nRdO940) | [Bad Boys](https://open.spotify.com/album/1h91E7DWJbcg7YVuCmXReC) | 2:16 | 2024-05-19 | 2024-07-08 |
@@ -471,6 +473,7 @@
 | [Outer Space](https://open.spotify.com/track/4acZoDcg5neM4mAtVsTQSK) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Just What The World Needs EP](https://open.spotify.com/album/6Ke2WaFMVNJZviMEJvYoPX) | 4:03 | 2023-01-29 | 2023-02-20 |
 | [Outer Space \- SLVR Remix](https://open.spotify.com/track/2NKQH2R0sqi4zBeQKkZ3vC) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy), [SLVR](https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU) | [Outer Space \(Remixes\)](https://open.spotify.com/album/2VljxTmjwL6AvehbFSDN1j) | 3:34 | 2023-08-27 | 2023-09-26 |
 | [Overdose](https://open.spotify.com/track/2Ar5VJ09eGYZpL76GIXRNx) | [Leo Effe](https://open.spotify.com/artist/190T5d0VosWDsjeUzIDR4M) | [Overdose](https://open.spotify.com/album/35ZjysQyPFdMFKQs9PsbEu) | 4:04 | 2026-04-23 |  |
+| [OXYGEN](https://open.spotify.com/track/6eCFRpWRt0uenWrbjpxWYF) | [FeelD](https://open.spotify.com/artist/44MIxJ4PjFyzyoQSDLh4j7) | [OXYGEN](https://open.spotify.com/album/3Z6wn24laZG7rYM0ewl9Qb) | 6:08 | 2026-04-26 |  |
 | [Pablo](https://open.spotify.com/track/76NTYF4tcQ7pMErL0PPpCO) | [Deeft](https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6), [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P) | [Pablo](https://open.spotify.com/album/54sLNgzlkwJa22OGF5G56N) | 2:53 | 2023-08-20 | 2023-09-26 |
 | [Pale Ashes](https://open.spotify.com/track/3PrMeGQon27sYLagTU0Jjb) | [Isaac Washington](https://open.spotify.com/artist/2l0adiofBUN4cIVXnipldE) | [Pale Ashes](https://open.spotify.com/album/7idJPWdSpG4iqQNjc3bX90) | 4:28 | 2026-04-07 |  |
 | [Paradise](https://open.spotify.com/track/3tek0cqcIJ0wKMpFuNrwBe) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Heritage](https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG) | 4:11 | 2023-03-31 | 2023-04-17 |
@@ -681,6 +684,7 @@
 | [Venus on Vinyl](https://open.spotify.com/track/20FvR7RRJvPf5blpoK4Q15) | [LUX VINCI](https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt) | [Neon Renaissance](https://open.spotify.com/album/0ChsRFFcUtNRfoq2PsmEvZ) | 2:03 | 2026-02-23 |  |
 | [Vibrate \- Radio Edit](https://open.spotify.com/track/3zRw5GB5LI83tWPrPkr5TF) | [Josh Kalker](https://open.spotify.com/artist/7n0DQFWxlcRBMF5TbW80MF) | [Vibrate](https://open.spotify.com/album/6OQP11NTR6y4pGHz0Lqcdc) | 3:26 | 2024-05-19 |  |
 | [Victory in Slow Motion](https://open.spotify.com/track/6ybYUXW0U1wi1JWadeEY7y) | [LUX VINCI](https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt) | [The Vinci Effect](https://open.spotify.com/album/5g6Dr3gvIgT1bjzjjLaR6Z) | 1:31 | 2026-01-30 | 2026-02-23 |
+| [Vile People](https://open.spotify.com/track/7Ao4SpEHC4dMjHPo9x5Viy) | [IR1S](https://open.spotify.com/artist/0MXTbSvmj5W2OfKIsZDM6A) | [Nirvana 2.0](https://open.spotify.com/album/1D629YRxFmrSk6QoGQDLQ8) | 3:06 | 2026-04-26 |  |
 | [Violet Haze](https://open.spotify.com/track/6uQR0AMDURUGYf98PiWyOC) | [BlastersBoyz](https://open.spotify.com/artist/6AnsJGWGOniDT7ZlG4I0Mg) | [Violet Haze](https://open.spotify.com/album/5QeC35zIO2gVhc5RMkwLVb) | 3:53 | 2026-04-05 |  |
 | [VIP Business](https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [VIP Business](https://open.spotify.com/album/6AO4umf1xPVZ9TE1VoO4SC) | 3:00 | 2023-06-11 | 2023-07-03 |
 | [VIP Section](https://open.spotify.com/track/2fRPAxlfizmSKUwfGZZjNk) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [VIP Section](https://open.spotify.com/album/0T0imnIgVVMxIMJnAvJk5f) | 3:26 | 2023-03-05 | 2023-03-27 |
@@ -731,6 +735,7 @@
 | [Zed](https://open.spotify.com/track/6ve2DARqa8GFqpDBpYj65y) | [Laera](https://open.spotify.com/artist/66dGFhhv24QNwzclFPMlIz), [Henrik Voght](https://open.spotify.com/artist/2p3u5Wl9xYehO9QRwmnvTc) | [Zed](https://open.spotify.com/album/2Wjq0qdw3QQghtFWcH2zkS) | 4:05 | 2025-12-14 | 2026-01-03 |
 | [Zenith](https://open.spotify.com/track/6dMIdroeAo63DjzxjNlw9D) | [Peritz](https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp) | [Zenith](https://open.spotify.com/album/6W0vPRoGAzqspqxdtFgEnM) | 3:38 | 2026-04-04 |  |
 | [Zoy](https://open.spotify.com/track/3mq6ll6KmQH2LAsvJflp60) | [Peritz](https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp) | [Zoy](https://open.spotify.com/album/2rz7ieaKOTRQxRWDIoKaWu) | 2:43 | 2026-04-17 |  |
+| [ZULU](https://open.spotify.com/track/4WJXMOPd7eWN00KkJ5Bq9U) | [Enrico Chialastri](https://open.spotify.com/artist/79gyVvzs3cLxfCleiiZ9e5), [Dan Armor](https://open.spotify.com/artist/1bVKdpsc3URBsBvmyEQN4R) | [ZULU](https://open.spotify.com/album/0kWuAQzOxEwgfdk61wzmp8) | 6:13 | 2026-04-26 |  |
 | [áfrica es tu casa](https://open.spotify.com/track/3FwbBwZp9Y13odbkzc93ML) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [Hacia delante](https://open.spotify.com/album/73vmyx63AXRJdcqvaiJ5l3) | 3:32 | 2026-04-23 |  |
 | [Жизнь по кайфу](https://open.spotify.com/track/73VNVSDCbuebJ3qbiqNOuw) | [Echoes And Vibes](https://open.spotify.com/artist/3KYnVGmtNOtC5MrmHRp0mF) | [Жизнь по кайфу](https://open.spotify.com/album/5XDxLmzQF4olsjKbdTLAmr) | 3:29 | 2026-04-14 |  |
 

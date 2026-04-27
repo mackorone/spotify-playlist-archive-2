@@ -1890,7 +1890,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 130964,
       "name": "Busy Bird",
       "url": "https://open.spotify.com/track/3twA3eiEhu9SLS8ygr1Oh8"
@@ -2568,6 +2568,28 @@
       "duration_ms": 135819,
       "name": "Club Galactica",
       "url": "https://open.spotify.com/track/5acrzaWCYDnt1An78q6y1N"
+    },
+    {
+      "album": {
+        "name": "A Journey Beyond Time",
+        "url": "https://open.spotify.com/album/0lH8ty5RoGVQtWiXQAKgyq"
+      },
+      "artists": [
+        {
+          "name": "CO-MA",
+          "url": "https://open.spotify.com/artist/32JeU19j6OcAwsPpI1dYSt"
+        },
+        {
+          "name": "Melanie Faye",
+          "url": "https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Clutch",
+      "url": "https://open.spotify.com/track/7M2YumoAHuH684xZICZlCC"
     },
     {
       "album": {
@@ -9679,6 +9701,28 @@
     },
     {
       "album": {
+        "name": "Night Walker",
+        "url": "https://open.spotify.com/album/2H8WZVplobgteQtt8s9lps"
+      },
+      "artists": [
+        {
+          "name": "Grey October Sound",
+          "url": "https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76"
+        },
+        {
+          "name": "Route 9",
+          "url": "https://open.spotify.com/artist/4d9PrgcVGVJMnizyI7KRrr"
+        }
+      ],
+      "date_added": "2026-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104639,
+      "name": "Night Walker",
+      "url": "https://open.spotify.com/track/096AxQyQpnjOlg7e2Sk46o"
+    },
+    {
+      "album": {
         "name": "niji",
         "url": "https://open.spotify.com/album/7HHgLuRWofzzhKDiyKHCPj"
       },
@@ -15586,7 +15630,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 155670,
       "name": "Yufuin",
       "url": "https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9"

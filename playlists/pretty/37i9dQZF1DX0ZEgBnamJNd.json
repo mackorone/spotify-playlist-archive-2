@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs uit de 60's. Cover: Shocking Blue",
-  "num_followers": 54423,
+  "num_followers": 54432,
   "original_name": "60's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Completely Well",
-        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 324733,
-      "name": "The Thrill Is Gone",
-      "url": "https://open.spotify.com/track/4NQfrmGs9iQXVQI9IpRhjM"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "Soul Men",
         "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 159000,
       "name": "Soul Man",
       "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Completely Well",
+        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 324733,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/4NQfrmGs9iQXVQI9IpRhjM"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -719,22 +719,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
-        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 180253,
-      "name": "Girl, You'll Be A Woman Soon",
-      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "Beatles For Sale (Remastered)",
         "url": "https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 163600,
       "name": "Eight Days A Week - Remastered 2009",
       "url": "https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
+        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 180253,
+      "name": "Girl, You'll Be A Woman Soon",
+      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -783,22 +783,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "God Only Knows - Mono",
-      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "Disraeli Gears",
         "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 250000,
       "name": "Sunshine Of Your Love",
       "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "God Only Knows - Mono",
+      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -895,22 +895,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 163093,
-      "name": "Come See About Me",
-      "url": "https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "Creedence Clearwater Revival (Expanded Edition)",
         "url": "https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 517159,
       "name": "Suzie Q",
       "url": "https://open.spotify.com/track/6Jp0GuFxAYbTdre1uUPgaB"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 163093,
+      "name": "Come See About Me",
+      "url": "https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "'Nuff Said (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 176080,
-      "name": "Ain't Got No - I Got Life - Single Version",
-      "url": "https://open.spotify.com/track/25MNMuaD4EfXeEPqzJ236F"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "Trippin' Thru' A Midnight Blues",
         "url": "https://open.spotify.com/album/2KHBkxWYnhEdz5c5m6hKiI"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 206333,
       "name": "Window Of My Eyes - From \"The American\" Soundtrack",
       "url": "https://open.spotify.com/track/5sTFozFnwuXbWyw0Qaj4LX"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "'Nuff Said (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 176080,
+      "name": "Ain't Got No - I Got Life - Single Version",
+      "url": "https://open.spotify.com/track/25MNMuaD4EfXeEPqzJ236F"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Blowin' Your Mind!",
-        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 183306,
-      "name": "Brown Eyed Girl",
-      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "Een Hele Tour (Live 1669-1997)",
         "url": "https://open.spotify.com/album/5OBrTvVskylOXnZfCdLQsI"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 242800,
       "name": "Meester Prikkebeen - Live In Paradiso",
       "url": "https://open.spotify.com/track/0uObHr02DToIyUOFtJ0xZF"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Blowin' Your Mind!",
+        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 183306,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
     },
     {
       "added_at": "2020-04-20 05:39:13",

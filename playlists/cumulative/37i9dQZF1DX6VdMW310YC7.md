@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,890 songs - 5 day 8 hr 22 min
+1,891 songs - 5 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,6 +555,7 @@
 | [Fingerprint](https://open.spotify.com/track/7ixuc4KOSHm0BsrwsRLM3i) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Fingerprint](https://open.spotify.com/album/6EMOjKnKvgPQrHZjFMRFfM) | 6:44 | 2020-05-18 | 2020-07-03 |
 | [Finish Line](https://open.spotify.com/track/1kJrbr22WU1Sa8NIc4KbBh) | [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Finish Line](https://open.spotify.com/album/6hfpXk9r3ehlaHmRfs6yDY) | 2:46 | 2022-09-09 | 2022-12-29 |
 | [Finnis](https://open.spotify.com/track/5KdJI8rtEmPGGvOrbWQKbN) | [PYFER](https://open.spotify.com/artist/0BkJ9NocSp5F1U7ODnW687) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:02 | 2020-03-17 | 2020-10-24 |
+| [Fire To The Water](https://open.spotify.com/track/27UCnwXjQnIhBaqdJgYvCi) | [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Fire To The Water](https://open.spotify.com/album/04iAq9moWG9qAJhTfeiRUV) | 3:42 | 2026-04-24 |  |
 | [Firefly](https://open.spotify.com/track/4fCcieEzqWWc8DfeH6JOuy) | [RÆVE](https://open.spotify.com/artist/0D7x3wBw42v14YOGt34Jaz) | [Firefly](https://open.spotify.com/album/3AzRFVIxYokaX39BvP3w8W) | 3:28 | 2020-05-18 | 2020-07-03 |
 | [Fireproof \- Embody Remix](https://open.spotify.com/track/0ZNkenDGP8wVlnEwfiBJYO) | [Coleman Hell](https://open.spotify.com/artist/3q9nybxzbSHsesDBHUlP4c), [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv) | [Fireproof \(Embody Remix\)](https://open.spotify.com/album/1zXqUomsQOpXwrfqIts29c) | 3:04 | 2020-05-18 | 2021-01-11 |
 | [Firmoral](https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI) | [Purified Fragments Vi](https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ) | 3:48 | 2022-03-18 | 2022-12-29 |
@@ -1003,7 +1004,7 @@
 | [Lost in You](https://open.spotify.com/track/41JyJ75Wf7NOIP3lk3JaNH) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Lost in You](https://open.spotify.com/album/13gn0rNGUlOHhZbnG76PAW) | 3:01 | 2022-12-28 | 2023-01-06 |
 | [Lost Souls \- Nora En Pure Remix](https://open.spotify.com/track/2UsRV8KFvHaDFUJtzQADAu) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Ost](https://open.spotify.com/artist/6nd2xPiNkapZHlg6UvIVVx), [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Lost Souls \(Nora En Pure Remix\)](https://open.spotify.com/album/5eUHs8CussoumFCO2guELs) | 3:41 | 2020-03-18 | 2022-01-17 |
 | [Lost With You](https://open.spotify.com/track/3orHV9WQ9htKc6PwcypoRO) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG) | [Lost With You](https://open.spotify.com/album/3JXBRmD6zviu4BPHgN55BD) | 4:10 | 2020-05-18 | 2022-04-20 |
-| [Lost Without You](https://open.spotify.com/track/2aBChGNbGqlYmqbOrVqMBp) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Lost Without You](https://open.spotify.com/album/7kdH6aQMnPMhpLwJCxiS4f) | 3:24 | 2025-12-19 |  |
+| [Lost Without You](https://open.spotify.com/track/2aBChGNbGqlYmqbOrVqMBp) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Lost Without You](https://open.spotify.com/album/7kdH6aQMnPMhpLwJCxiS4f) | 3:24 | 2025-12-19 | 2026-04-27 |
 | [Lotion Motion](https://open.spotify.com/track/33rZdJwtVLRrsRJDdakMHy) | [Mr\. Tape](https://open.spotify.com/artist/7ladzyDVpwhv848vat5v9P), [S2cool](https://open.spotify.com/artist/18X5MZR3H8elpauXHixRZE) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:32 | 2020-03-17 | 2022-01-13 |
 | [Lotus](https://open.spotify.com/track/6Cf07jcnseglB4x9BXIKDr) | [offrails](https://open.spotify.com/artist/23mhyCgUqodughYePYE52Y), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Lotus](https://open.spotify.com/album/6gMUqpxi8SItGg5PDxs831) | 2:46 | 2024-09-13 | 2024-09-25 |
 | [LOVE](https://open.spotify.com/track/2Ci8fAS7bgl1RMHiWzJvcD) | [Eric Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [LOVE](https://open.spotify.com/album/3XzF1AVLmTtSA9exleQY0V) | 3:21 | 2026-04-09 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 704897,
+  "num_followers": 705062,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAADzdWiwpAmeow7QTux7y1DX",
+  "snapshot_id": "aewEAAAAAACLGg+SLwMsbivs0ZLbHZIK",
   "tracks": [
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 257466,
-      "name": "True Blue",
-      "url": "https://open.spotify.com/track/7azOuDeJGbxt5mvq3GQHXp"
+      "duration_ms": 315466,
+      "name": "Get Together",
+      "url": "https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 315466,
-      "name": "Get Together",
-      "url": "https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a"
+      "duration_ms": 257466,
+      "name": "True Blue",
+      "url": "https://open.spotify.com/track/7azOuDeJGbxt5mvq3GQHXp"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Life",
-        "url": "https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 216026,
-      "name": "Love Profusion",
-      "url": "https://open.spotify.com/track/5NDS6qHwbOmVqZgTvtC66y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Immaculate Collection",
         "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 260946,
+      "name": "Let It Will Be",
+      "url": "https://open.spotify.com/track/5HKcfvhCdIoZKzeQw2HgEe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Erotica (PA Version)",
         "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
       },
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+        "name": "American Life",
+        "url": "https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 260946,
-      "name": "Let It Will Be",
-      "url": "https://open.spotify.com/track/5HKcfvhCdIoZKzeQw2HgEe"
+      "duration_ms": 216026,
+      "name": "Love Profusion",
+      "url": "https://open.spotify.com/track/5NDS6qHwbOmVqZgTvtC66y"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 236133,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/7ov1nZ2QZc3LIuCXXERZP0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celebration (Deluxe Version)",
         "url": "https://open.spotify.com/album/28Ts8e6rqdmSPH6itDV4KP"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 239093,
       "name": "Express Yourself",
       "url": "https://open.spotify.com/track/4AJflRLCvU0qtZQnVUq5l1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7ov1nZ2QZc3LIuCXXERZP0"
     },
     {
       "added_at": null,

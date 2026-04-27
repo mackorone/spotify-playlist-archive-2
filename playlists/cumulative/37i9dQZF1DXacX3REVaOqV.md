@@ -4,7 +4,7 @@
 
 > The best in house music
 
-789 songs - 2 day 2 hr 47 min
+790 songs - 2 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [I Don't Mind](https://open.spotify.com/track/6dDcpNl8BYL4gnuxMmYpAe) | [Sem Jacobs](https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt), [Esra Nuray](https://open.spotify.com/artist/6OcDeuYpbb3U1QSTeQPuA7) | [I Don't Mind](https://open.spotify.com/album/1B7r591yLIpkYA4Q3cgubw) | 3:35 | 2025-04-15 |  |
 | [I Feel For You \- Star B Remix](https://open.spotify.com/track/3IeCTI1sPQKF0fXUzMFGmH) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Mark Broom](https://open.spotify.com/artist/56HBXB2JoYhf04oMeko90l), [Star B](https://open.spotify.com/artist/6VsJbZqteZahl2iEzvnClt) | [I Feel For You \(Star B Remix\)](https://open.spotify.com/album/5f75iR1LqLFO3bo26aQDrv) | 3:33 | 2022-06-22 | 2024-08-31 |
 | [I feel so good \- do you understand?!](https://open.spotify.com/track/6NOfNKky2OOoRQygFFtCog) | [Tim Wes](https://open.spotify.com/artist/3a4fZr4yelBfPivBYeM73T) | [I feel so good \- do you understand?!](https://open.spotify.com/album/0ReoXSMYtC0EJ8VrqBlBNY) | 3:39 | 2025-09-26 | 2025-11-13 |
+| [I Got A Love Feeling](https://open.spotify.com/track/7n52wRgdwscjTt7sxbxP2G) | [Michel De Hey](https://open.spotify.com/artist/4BY4HaWussT44zj9RiCGzh) | [Love Feeling EP](https://open.spotify.com/album/3ZoTr8w2O7U140diHfSvQw) | 3:16 | 2026-04-23 |  |
 | [I Got Nothing \- Ferreck Dawn Mix](https://open.spotify.com/track/6ZR6tHglQJYQCLDrZNpFUV) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [I Got Nothing \(Ferreck Dawn Mix\)](https://open.spotify.com/album/2Rfodx3PPInqdZUplCNzjq) | 2:51 | 2024-04-09 | 2025-03-21 |
 | [I Know You](https://open.spotify.com/track/6RQvujjx9DUuRHU4YiC49q) | [john claude](https://open.spotify.com/artist/0ZltNAGTFgpl9UEz0wqZSi), [vano1337](https://open.spotify.com/artist/0TBtIg6LfQ7ScMO7txwIci) | [I Know You](https://open.spotify.com/album/2NmgzsfS7kcbXOPMQ4dixi) | 3:00 | 2025-02-20 | 2026-04-10 |
 | [I Like That](https://open.spotify.com/track/0yg55SYRcOFhlTgpLtGW6p) | [Sebb Junior](https://open.spotify.com/artist/0oP6v3SuOC5jPc5pGUQdsD) | [Echoes EP](https://open.spotify.com/album/3qzaYUandimelZdEhWQd8S) | 3:15 | 2024-08-30 | 2025-03-23 |
@@ -664,7 +665,7 @@
 | [Sweat](https://open.spotify.com/track/3z12e1P8AJEJeFXcVeqrjT) | [Leyo](https://open.spotify.com/artist/4AF8mOroQTHChfzH7GJ94p) | [Circus EP](https://open.spotify.com/album/4ZlcX8nEMYUursOBLVzwXF) | 3:11 | 2025-04-17 |  |
 | [Sweet Love](https://open.spotify.com/track/5APDSxDfH84AqrpIGzDYgU) | [Gissa](https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo) | [Sweet Love](https://open.spotify.com/album/5L6hcxhOn0VfGB7eScOEej) | 4:09 | 2024-09-12 | 2025-09-05 |
 | [Swimming Places](https://open.spotify.com/track/77cTXHD1QjXpoMDBysPU0Y) | [Julien Jabre](https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM) | [Swimming Places](https://open.spotify.com/album/4k3c2mFtwycTt2ZbOYLu4W) | 10:44 | 2022-06-22 | 2023-02-03 |
-| [Swing My Way](https://open.spotify.com/track/2vAzu2lfBHmKhOSmhSG4re) | [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m) | [Swing My Way](https://open.spotify.com/album/4y7YuyyL1ij6h4DiYPfxwF) | 5:25 | 2026-01-23 |  |
+| [Swing My Way](https://open.spotify.com/track/2vAzu2lfBHmKhOSmhSG4re) | [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m) | [Swing My Way](https://open.spotify.com/album/4y7YuyyL1ij6h4DiYPfxwF) | 5:25 | 2026-01-23 | 2026-04-27 |
 | [Take Me Higher \- Original Mix](https://open.spotify.com/track/56gkSicj4dcPgZ3jw5IiRC) | [Art of Tones](https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy) | [Take Me Higher EP](https://open.spotify.com/album/7EtAS0HMbCUm95xmfJbyZT) | 5:49 | 2022-05-05 | 2022-07-19 |
 | [Take Me Up \(ft\. Donna Blakely\)](https://open.spotify.com/track/3SPIXaPvo1cx1v4Eint483) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Lego](https://open.spotify.com/artist/0GDPEEALVh9alIcGtM9SBE) | [Take Me Up \(ft\. Donna Blakely\)](https://open.spotify.com/album/6zs9VQ8s94nFFND1PJJDPf) | 2:57 | 2026-02-22 |  |
 | [Take Me Up \(Gotta Get Up\) \- Lego Edit](https://open.spotify.com/track/1ovbcaNgLbOp71RbF4pvng) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh), [Donna Blakely](https://open.spotify.com/artist/5l4zJlT301p3IPrAx94iqw), [lego](https://open.spotify.com/artist/3fyCFDyqAPJOuOMlLA4liJ) | [Take Me Up \(Gotta Get Up\)](https://open.spotify.com/album/45kSt9lcncbWs2HVUnG0qo) | 3:22 | 2026-02-07 |  |

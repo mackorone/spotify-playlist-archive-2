@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 317155,
+  "num_followers": 317162,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
+        "name": "Addictions (Ultimate Version)",
+        "url": "https://open.spotify.com/album/3Pn9nKN7m8MKBhAtRzuugW"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Longtemps",
+      "url": "https://open.spotify.com/track/73yB2HMz9zu0VcueZ4P1UU"
+    },
+    {
+      "added_at": "2026-04-15 08:53:32",
+      "album": {
         "name": "Les femmes id\u00e9ales",
         "url": "https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO"
       },
@@ -343,18 +359,18 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "Addictions (Ultimate Version)",
-        "url": "https://open.spotify.com/album/3Pn9nKN7m8MKBhAtRzuugW"
+        "name": "La Valse A Mille Temps (Vol.4)",
+        "url": "https://open.spotify.com/album/0PVjDkptaHbw2wrpsWupoV"
       },
       "artists": [
         {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Longtemps",
-      "url": "https://open.spotify.com/track/73yB2HMz9zu0VcueZ4P1UU"
+      "duration_ms": 229400,
+      "name": "Ne me quitte pas",
+      "url": "https://open.spotify.com/track/6IRA4KOVbtiGiTdYoEThJN"
     },
     {
       "added_at": "2026-04-15 08:53:32",
@@ -375,22 +391,6 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "La Valse A Mille Temps (Vol.4)",
-        "url": "https://open.spotify.com/album/0PVjDkptaHbw2wrpsWupoV"
-      },
-      "artists": [
-        {
-          "name": "Jacques Brel",
-          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Ne me quitte pas",
-      "url": "https://open.spotify.com/track/6IRA4KOVbtiGiTdYoEThJN"
-    },
-    {
-      "added_at": "2026-04-15 08:53:32",
-      "album": {
         "name": "Jaloux",
         "url": "https://open.spotify.com/album/3GRhZqQ2442jfDIZXXCQCb"
       },
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "La femme id\u00e9ale",
-        "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
-      },
-      "artists": [
-        {
-          "name": "Ben Mazu\u00e9",
-          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "10 ans de nous",
-      "url": "https://open.spotify.com/track/6IiHR8CKiV1GLs49dQBCq2"
-    },
-    {
-      "added_at": "2026-04-15 08:53:32",
-      "album": {
         "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
         "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 217640,
       "name": "Quelques mots d'amour - Remasteris\u00e9 en 2002",
       "url": "https://open.spotify.com/track/6qbieXHVuCIIlzi55j6E5i"
+    },
+    {
+      "added_at": "2026-04-15 08:53:32",
+      "album": {
+        "name": "La femme id\u00e9ale",
+        "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
+      },
+      "artists": [
+        {
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "10 ans de nous",
+      "url": "https://open.spotify.com/track/6IiHR8CKiV1GLs49dQBCq2"
     },
     {
       "added_at": "2026-04-15 08:53:32",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "Morgane De Toi (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE"
-      },
-      "artists": [
-        {
-          "name": "Renaud",
-          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
-        }
-      ],
-      "duration_ms": 372186,
-      "name": "Morgane de toi - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3v6ClatJ2nG0TIpfL3HwY1"
-    },
-    {
-      "added_at": "2026-04-15 08:53:32",
-      "album": {
         "name": "Joe Dassin \u00c9ternel...",
         "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 269320,
       "name": "L'\u00e9t\u00e9 indien",
       "url": "https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89"
+    },
+    {
+      "added_at": "2026-04-15 08:53:32",
+      "album": {
+        "name": "Morgane De Toi (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE"
+      },
+      "artists": [
+        {
+          "name": "Renaud",
+          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
+        }
+      ],
+      "duration_ms": 372186,
+      "name": "Morgane de toi - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3v6ClatJ2nG0TIpfL3HwY1"
     },
     {
       "added_at": "2026-04-15 08:53:32",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "Solune",
-        "url": "https://open.spotify.com/album/1aiz7KLiuWW32LuxQGsYm1"
-      },
-      "artists": [
-        {
-          "name": "Slimane",
-          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "Viens on s\u2019aime",
-      "url": "https://open.spotify.com/track/1KSFqVqZm5QQXr9FLsppSL"
-    },
-    {
-      "added_at": "2026-04-15 08:53:32",
-      "album": {
         "name": "C'est d\u00e9j\u00e0 \u00e7a",
         "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "Non homologu\u00e9",
-        "url": "https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA"
+        "name": "Solune",
+        "url": "https://open.spotify.com/album/1aiz7KLiuWW32LuxQGsYm1"
       },
       "artists": [
         {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
         }
       ],
-      "duration_ms": 331800,
-      "name": "Pas toi",
-      "url": "https://open.spotify.com/track/0UcPuBlICvhGbCjnGOHyHj"
+      "duration_ms": 201106,
+      "name": "Viens on s\u2019aime",
+      "url": "https://open.spotify.com/track/1KSFqVqZm5QQXr9FLsppSL"
     },
     {
       "added_at": "2026-04-15 08:53:32",
@@ -763,6 +747,22 @@
       "duration_ms": 245120,
       "name": "Aimer est plus fort que d'\u00eatre aim\u00e9",
       "url": "https://open.spotify.com/track/112mJNSudZnvXE3x4mPb6C"
+    },
+    {
+      "added_at": "2026-04-15 08:53:32",
+      "album": {
+        "name": "Non homologu\u00e9",
+        "url": "https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        }
+      ],
+      "duration_ms": 331800,
+      "name": "Pas toi",
+      "url": "https://open.spotify.com/track/0UcPuBlICvhGbCjnGOHyHj"
     },
     {
       "added_at": "2026-04-15 08:53:32",
@@ -815,22 +815,18 @@
     {
       "added_at": "2026-04-15 08:53:32",
       "album": {
-        "name": "1,2,3",
-        "url": "https://open.spotify.com/album/484D9KRWoTWTzghknHQd1Q"
+        "name": "Je Te Dis Vous",
+        "url": "https://open.spotify.com/album/69n8bkgSfdSYf8IBvSdRC8"
       },
       "artists": [
         {
-          "name": "Amel Bent",
-          "url": "https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f"
-        },
-        {
-          "name": "Hatik",
-          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
+          "name": "Patricia Kaas",
+          "url": "https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI"
         }
       ],
-      "duration_ms": 225997,
-      "name": "1,2,3",
-      "url": "https://open.spotify.com/track/7uCLrBdy5FH6T7vcJzqRd7"
+      "duration_ms": 321266,
+      "name": "Il me dit que je suis belle",
+      "url": "https://open.spotify.com/track/19faTtoozaabdpDnj1rxZy"
     }
   ],
   "unique_name": "French Kiss",

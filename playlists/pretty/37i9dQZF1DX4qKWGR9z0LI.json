@@ -1,6 +1,6 @@
 {
   "description": "Un \u00edcono que marc\u00f3 la m\u00fasica para siempre, gracias Willie Col\u00f3n. \ud83d\udd4a\ufe0f",
-  "num_followers": 1880656,
+  "num_followers": 1880587,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -123,26 +123,6 @@
     {
       "added_at": "2026-03-27 04:00:24",
       "album": {
-        "name": "CAMBIAR\u00c9",
-        "url": "https://open.spotify.com/album/6ZXLMVFtEzgYNQlbUMlzAU"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 181237,
-      "name": "CAMBIAR\u00c9",
-      "url": "https://open.spotify.com/track/0DHkA97Q6SWz7uanmsCy8u"
-    },
-    {
-      "added_at": "2026-03-27 04:00:24",
-      "album": {
         "name": "1+1",
         "url": "https://open.spotify.com/album/2DIxLzdiEgIh7Bh9XIv4E1"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 186047,
       "name": "1+1",
       "url": "https://open.spotify.com/track/4IIVfcAGxVXGMbwIpj6ZXJ"
+    },
+    {
+      "added_at": "2026-03-27 04:00:24",
+      "album": {
+        "name": "CAMBIAR\u00c9",
+        "url": "https://open.spotify.com/album/6ZXLMVFtEzgYNQlbUMlzAU"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 181237,
+      "name": "CAMBIAR\u00c9",
+      "url": "https://open.spotify.com/track/0DHkA97Q6SWz7uanmsCy8u"
     },
     {
       "added_at": "2026-03-27 04:00:24",
@@ -287,26 +287,6 @@
     {
       "added_at": "2026-03-27 04:00:24",
       "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 306453,
-      "name": "Yo Tambi\u00e9n (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV"
-    },
-    {
-      "added_at": "2026-03-27 04:00:24",
-      "album": {
         "name": "Una Vida Pasada",
         "url": "https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 218500,
       "name": "Una Vida Pasada",
       "url": "https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl"
+    },
+    {
+      "added_at": "2026-03-27 04:00:24",
+      "album": {
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 306453,
+      "name": "Yo Tambi\u00e9n (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV"
     },
     {
       "added_at": "2026-03-27 04:00:24",
@@ -543,6 +543,26 @@
     {
       "added_at": "2026-03-27 04:00:24",
       "album": {
+        "name": "F.A.M.E.",
+        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 242319,
+      "name": "Felices los 4 (feat. Marc Anthony) - Salsa Version",
+      "url": "https://open.spotify.com/track/6PNG5G1v7pU74I13KkvAIo"
+    },
+    {
+      "added_at": "2026-03-27 04:00:24",
+      "album": {
         "name": "ROM\u00c1NTICA",
         "url": "https://open.spotify.com/album/06RVDKvYTLFWIwED9Kv24M"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 231293,
       "name": "ROM\u00c1NTICA",
       "url": "https://open.spotify.com/track/0sbtnge2Ao6yk4ypmTmOGb"
-    },
-    {
-      "added_at": "2026-03-27 04:00:24",
-      "album": {
-        "name": "F.A.M.E.",
-        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 242319,
-      "name": "Felices los 4 (feat. Marc Anthony) - Salsa Version",
-      "url": "https://open.spotify.com/track/6PNG5G1v7pU74I13KkvAIo"
     },
     {
       "added_at": "2026-03-27 04:00:24",
@@ -639,26 +639,6 @@
     {
       "added_at": "2026-03-27 04:00:24",
       "album": {
-        "name": "PLIS",
-        "url": "https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "PLIS",
-      "url": "https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z"
-    },
-    {
-      "added_at": "2026-03-27 04:00:24",
-      "album": {
         "name": "La F\u00f3rmula",
         "url": "https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2"
       },
@@ -695,22 +675,22 @@
     {
       "added_at": "2026-03-27 04:00:24",
       "album": {
-        "name": "La Carrera",
-        "url": "https://open.spotify.com/album/6k67isnOdUxFxG45TxPR0H"
+        "name": "PLIS",
+        "url": "https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX"
       },
       "artists": [
         {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         },
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
         }
       ],
-      "duration_ms": 220851,
-      "name": "La Carrera",
-      "url": "https://open.spotify.com/track/7rZ1zXk0K0gSSUInOd9Tss"
+      "duration_ms": 222800,
+      "name": "PLIS",
+      "url": "https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z"
     },
     {
       "added_at": "2026-03-27 04:00:24",
@@ -747,18 +727,22 @@
     {
       "added_at": "2026-03-27 04:00:24",
       "album": {
-        "name": "Pan",
-        "url": "https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft"
+        "name": "La Carrera",
+        "url": "https://open.spotify.com/album/6k67isnOdUxFxG45TxPR0H"
       },
       "artists": [
         {
-          "name": "Chuwi",
-          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        },
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
         }
       ],
-      "duration_ms": 221656,
-      "name": "Tikiri",
-      "url": "https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1"
+      "duration_ms": 220851,
+      "name": "La Carrera",
+      "url": "https://open.spotify.com/track/7rZ1zXk0K0gSSUInOd9Tss"
     },
     {
       "added_at": "2026-03-27 04:00:24",
@@ -775,6 +759,22 @@
       "duration_ms": 305053,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
+    },
+    {
+      "added_at": "2026-03-27 04:00:24",
+      "album": {
+        "name": "Pan",
+        "url": "https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft"
+      },
+      "artists": [
+        {
+          "name": "Chuwi",
+          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
+        }
+      ],
+      "duration_ms": 221656,
+      "name": "Tikiri",
+      "url": "https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1"
     },
     {
       "added_at": "2026-03-27 04:00:24",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-03-27 04:00:24",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
-      },
-      "artists": [
-        {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
-        }
-      ],
-      "duration_ms": 384800,
-      "name": "Tu No Sabes Querer",
-      "url": "https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm"
-    },
-    {
-      "added_at": "2026-03-27 04:00:24",
-      "album": {
         "name": "Pa'lante",
         "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 270863,
       "name": "Carro de Fuego",
       "url": "https://open.spotify.com/track/4guUX2YppY1kPGpjDaenhQ"
+    },
+    {
+      "added_at": "2026-03-27 04:00:24",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "duration_ms": 384800,
+      "name": "Tu No Sabes Querer",
+      "url": "https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm"
     },
     {
       "added_at": "2026-03-27 04:00:24",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2026-03-27 04:00:24",
       "album": {
-        "name": "Salsa Legends",
-        "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
-      },
-      "artists": [
-        {
-          "name": "Johnny Rivera",
-          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
-        },
-        {
-          "name": "Ray Sepulveda",
-          "url": "https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7"
-        }
-      ],
-      "duration_ms": 358493,
-      "name": "No Vale La Pena",
-      "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
-    },
-    {
-      "added_at": "2026-03-27 04:00:24",
-      "album": {
         "name": "La Foto, el Video, la Chicaner\u00eda",
         "url": "https://open.spotify.com/album/0lmliOvYEdwKYUY8ozaBh4"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 259090,
       "name": "Quien",
       "url": "https://open.spotify.com/track/2hkAgJwtYXK4GiWeJmIyDv"
+    },
+    {
+      "added_at": "2026-03-27 04:00:24",
+      "album": {
+        "name": "Salsa Legends",
+        "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rivera",
+          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
+        },
+        {
+          "name": "Ray Sepulveda",
+          "url": "https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7"
+        }
+      ],
+      "duration_ms": 358493,
+      "name": "No Vale La Pena",
+      "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
     },
     {
       "added_at": "2026-03-27 04:00:24",

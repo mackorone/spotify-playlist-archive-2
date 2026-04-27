@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: TAR1Q
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,854 likes - 65 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,883 likes - 65 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2696,7 +2696,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 148500,
       "name": "Lame (feat. CLARA, Tedua)",
       "url": "https://open.spotify.com/track/5sHB0BW7azchwsEINurkIM"
@@ -5134,6 +5134,28 @@
       "duration_ms": 179210,
       "name": "Tu ed io (feat. thasup, Finesse)",
       "url": "https://open.spotify.com/track/4JFt4pwBLb2Zsy44QRBG88"
+    },
+    {
+      "album": {
+        "name": "Tu mi Fai",
+        "url": "https://open.spotify.com/album/2ZthohZoAlS5pJ0YBQHYcG"
+      },
+      "artists": [
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161657,
+      "name": "Tu mi Fai",
+      "url": "https://open.spotify.com/track/2D3FslngNUdbeynfwSecP0"
     },
     {
       "album": {

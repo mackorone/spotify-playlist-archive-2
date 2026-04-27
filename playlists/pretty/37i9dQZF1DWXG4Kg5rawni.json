@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 115151,
+  "num_followers": 115153,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAIcR6/6MCTAvjD0NY9Knp8zA/avx",
   "tracks": [
-    {
-      "added_at": "2026-04-22 17:29:06",
-      "album": {
-        "name": "Amo Voc\u00ea Vol. 13",
-        "url": "https://open.spotify.com/album/4gWlHYVevgt8sfoCzZZK3t"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 263174,
-      "name": "Soube que me Amava (Supe que me Amabas)",
-      "url": "https://open.spotify.com/track/5oFLARfYC6YY4lXNRqssl7"
-    },
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
@@ -47,6 +31,22 @@
       "duration_ms": 283406,
       "name": "Tantos Mares - Ao Vivo",
       "url": "https://open.spotify.com/track/5lkO3AqD8qiTAj1ZYA1IpX"
+    },
+    {
+      "added_at": "2026-04-22 17:29:06",
+      "album": {
+        "name": "Amo Voc\u00ea Vol. 13",
+        "url": "https://open.spotify.com/album/4gWlHYVevgt8sfoCzZZK3t"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 263174,
+      "name": "Soube que me Amava (Supe que me Amabas)",
+      "url": "https://open.spotify.com/track/5oFLARfYC6YY4lXNRqssl7"
     },
     {
       "added_at": "2026-04-22 17:29:06",
@@ -99,6 +99,22 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
+        "name": "N\u00e3o \u00c9 Acaso",
+        "url": "https://open.spotify.com/album/2Sr4zczIoqWtM9Owc97oka"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio F4ces",
+          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
+        }
+      ],
+      "duration_ms": 235404,
+      "name": "N\u00e3o \u00c9 Acaso",
+      "url": "https://open.spotify.com/track/06CVeOB2XtHeexwRs3zHto"
+    },
+    {
+      "added_at": "2026-04-22 17:29:06",
+      "album": {
         "name": "Mais (Studio Session)",
         "url": "https://open.spotify.com/album/4jSX0OJw7dzgzvT3GSWleW"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 250416,
       "name": "Mais - Studio Session",
       "url": "https://open.spotify.com/track/0o6nEehnkqsyy1J4pMvoEZ"
-    },
-    {
-      "added_at": "2026-04-22 17:29:06",
-      "album": {
-        "name": "N\u00e3o \u00c9 Acaso",
-        "url": "https://open.spotify.com/album/2Sr4zczIoqWtM9Owc97oka"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio F4ces",
-          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
-        }
-      ],
-      "duration_ms": 235404,
-      "name": "N\u00e3o \u00c9 Acaso",
-      "url": "https://open.spotify.com/track/06CVeOB2XtHeexwRs3zHto"
     },
     {
       "added_at": "2026-04-22 17:29:06",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
-        "name": "Nosso Castelo",
-        "url": "https://open.spotify.com/album/20HqyoxH3L4OAL9J8rElVd"
-      },
-      "artists": [
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 252215,
-      "name": "Nosso Castelo",
-      "url": "https://open.spotify.com/track/3cwe5HZqAhygCVPPVcwsit"
-    },
-    {
-      "added_at": "2026-04-22 17:29:06",
-      "album": {
         "name": "Com Voc\u00ea",
         "url": "https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 223886,
       "name": "Com Voc\u00ea",
       "url": "https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ"
+    },
+    {
+      "added_at": "2026-04-22 17:29:06",
+      "album": {
+        "name": "Nosso Castelo",
+        "url": "https://open.spotify.com/album/20HqyoxH3L4OAL9J8rElVd"
+      },
+      "artists": [
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 252215,
+      "name": "Nosso Castelo",
+      "url": "https://open.spotify.com/track/3cwe5HZqAhygCVPPVcwsit"
     },
     {
       "added_at": "2026-04-22 17:29:06",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
-        "name": "Como da Primeira Vez",
-        "url": "https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4"
-      },
-      "artists": [
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Como da Primeira Vez",
-      "url": "https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG"
-    },
-    {
-      "added_at": "2026-04-22 17:29:06",
-      "album": {
         "name": "Encontrar Voc\u00ea",
         "url": "https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 235373,
       "name": "Encontrar Voc\u00ea",
       "url": "https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4"
+    },
+    {
+      "added_at": "2026-04-22 17:29:06",
+      "album": {
+        "name": "Como da Primeira Vez",
+        "url": "https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4"
+      },
+      "artists": [
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Como da Primeira Vez",
+      "url": "https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG"
     },
     {
       "added_at": "2026-04-22 17:29:06",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
+        "name": "25 de fevereiro",
+        "url": "https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv"
+      },
+      "artists": [
+        {
+          "name": "Matheus Balo",
+          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
+        }
+      ],
+      "duration_ms": 185448,
+      "name": "eu te convido",
+      "url": "https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0"
+    },
+    {
+      "added_at": "2026-04-22 17:29:06",
+      "album": {
         "name": "Amar e Perdoar",
         "url": "https://open.spotify.com/album/3Z1fceQgyz4oMxnOrPRooJ"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
-        "name": "25 de fevereiro",
-        "url": "https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv"
+        "name": "Amo Voc\u00ea Vol. 21",
+        "url": "https://open.spotify.com/album/2qLkUabUou3EiP9wsV4vrj"
       },
       "artists": [
         {
-          "name": "Matheus Balo",
-          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
         }
       ],
-      "duration_ms": 185448,
-      "name": "eu te convido",
-      "url": "https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0"
+      "duration_ms": 303206,
+      "name": "Bem Maior Que o C\u00e9u",
+      "url": "https://open.spotify.com/track/06XuWs8tYpf4Onbw48FF0u"
     },
     {
       "added_at": "2026-04-22 17:29:06",
@@ -839,18 +855,18 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
-        "name": "Amo Voc\u00ea Vol. 21",
-        "url": "https://open.spotify.com/album/2qLkUabUou3EiP9wsV4vrj"
+        "name": "Sobre o Amor",
+        "url": "https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn"
       },
       "artists": [
         {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
         }
       ],
-      "duration_ms": 303206,
-      "name": "Bem Maior Que o C\u00e9u",
-      "url": "https://open.spotify.com/track/06XuWs8tYpf4Onbw48FF0u"
+      "duration_ms": 172288,
+      "name": "Prometo",
+      "url": "https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx"
     },
     {
       "added_at": "2026-04-22 17:29:06",
@@ -867,22 +883,6 @@
       "duration_ms": 249763,
       "name": "Te Amaria Outra Vez / Amar Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/5G4HETtoTa5bkDcZRruHFr"
-    },
-    {
-      "added_at": "2026-04-22 17:29:06",
-      "album": {
-        "name": "Sobre o Amor",
-        "url": "https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn"
-      },
-      "artists": [
-        {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        }
-      ],
-      "duration_ms": 172288,
-      "name": "Prometo",
-      "url": "https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx"
     },
     {
       "added_at": "2026-04-22 17:29:06",

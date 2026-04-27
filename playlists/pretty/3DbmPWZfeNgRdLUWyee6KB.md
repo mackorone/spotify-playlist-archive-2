@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,296 likes - 147 songs - 8 hr 18 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,296 likes - 148 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 |
-| 2 | [Hangin' Around](https://open.spotify.com/track/3Cbr8g7vPITrrIzLVi79g6) | [Vitanota](https://open.spotify.com/artist/6Ay0IHTWZ1abifFcGYI1Lv) | [Hangin' Around](https://open.spotify.com/album/6ld6levoN0NXrAwcYEefEM) | 5:32 |
-| 3 | [Laptop On The Shore](https://open.spotify.com/track/3l8xEb2AndT9E8Iw99liKN) | [LoFeld](https://open.spotify.com/artist/1FU0ab74tj0rwvsfMBBFGO), [Schönfelder Entertainment](https://open.spotify.com/artist/6Sh7cBPFsRls63qlBK8Ldn) | [Miami Wave](https://open.spotify.com/album/6lwmkp0wvLOTLQC1o0t8in) | 3:56 |
-| 4 | [MATTER OF FACT](https://open.spotify.com/track/0hjQt1kEUvrSjSUxcBH0Hx) | [C\-Zero](https://open.spotify.com/artist/5I8EdBtHPl24xU2dysCj3o) | [MATTER OF FACT](https://open.spotify.com/album/30VP3gPVpwHyaZGJYPQm3I) | 3:03 |
+| 1 | [Laptop On The Shore](https://open.spotify.com/track/3l8xEb2AndT9E8Iw99liKN) | [LoFeld](https://open.spotify.com/artist/1FU0ab74tj0rwvsfMBBFGO), [Schönfelder Entertainment](https://open.spotify.com/artist/6Sh7cBPFsRls63qlBK8Ldn) | [Miami Wave](https://open.spotify.com/album/6lwmkp0wvLOTLQC1o0t8in) | 3:56 |
+| 2 | [MATTER OF FACT](https://open.spotify.com/track/0hjQt1kEUvrSjSUxcBH0Hx) | [C\-Zero](https://open.spotify.com/artist/5I8EdBtHPl24xU2dysCj3o) | [MATTER OF FACT](https://open.spotify.com/album/30VP3gPVpwHyaZGJYPQm3I) | 3:03 |
+| 3 | [Hangin' Around](https://open.spotify.com/track/3Cbr8g7vPITrrIzLVi79g6) | [Vitanota](https://open.spotify.com/artist/6Ay0IHTWZ1abifFcGYI1Lv) | [Hangin' Around](https://open.spotify.com/album/6ld6levoN0NXrAwcYEefEM) | 5:32 |
+| 4 | [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 |
 | 5 | [Adesso che sei grande](https://open.spotify.com/track/2BlH6mIfTU4gvrbE1VhKt8) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx), [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK) | [Adesso che sei grande](https://open.spotify.com/album/64fn51HyT7871aojCCPnnP) | 3:45 |
 | 6 | [No Kings](https://open.spotify.com/track/15E5RPanamaDv4eW8nmkPl) | [Hariyono](https://open.spotify.com/artist/1mX3tMoN3V0gl2mUk79o5T) | [No Kings](https://open.spotify.com/album/5BOKRHvfad5v80hpna7T43) | 2:14 |
 | 7 | [SET APART](https://open.spotify.com/track/1iFBIwAwVhLlNyWy9wAcrv) | [C\-Zero](https://open.spotify.com/artist/5I8EdBtHPl24xU2dysCj3o) | [SET APART](https://open.spotify.com/album/00n26sNAHM2F0KMenRBrEz) | 2:17 |
@@ -155,5 +155,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 145 | [Want Me Back](https://open.spotify.com/track/7ExJgUlNREs38GpnHdZ1TW) | [Austin Carr](https://open.spotify.com/artist/7wbw9KslI7YzqujQRkxDrB) | [Want Me Back](https://open.spotify.com/album/3sRGNn9dyvxkryQuX0qiCx) | 3:39 |
 | 146 | [Maybe This Time](https://open.spotify.com/track/0Btok8fuH53WscccgEnav6) | [Denny Haze](https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1) | [Maybe This Time](https://open.spotify.com/album/66VMQdFAOE1xjVEEWfipaT) | 3:29 |
 | 147 | [Iza Bella](https://open.spotify.com/track/2m33TemOMBEDzRpw1TsLhd) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 3:24 |
+| 148 | [Under The Setting Sun](https://open.spotify.com/track/3Tta528CNQqfOlHREFb7SD) | [A Better Life](https://open.spotify.com/artist/6fSSDJG0JfyXJ09oUJA5xd), [Holly Taymar](https://open.spotify.com/artist/472GSvPP0MaDH3SKZQOuvx) | [The Light](https://open.spotify.com/album/7DJn6wAfxd2QpFnWx4o7OA) | 4:32 |
 
-Snapshot ID: `AAATdHN7Jt4/JagCrvjyl44VOC9kTg4v`
+Snapshot ID: `AAATeFYyXxjTLxNT488B6hb/z2HVMawB`

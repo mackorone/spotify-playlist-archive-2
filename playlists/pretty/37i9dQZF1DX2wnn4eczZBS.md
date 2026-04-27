@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > Indiepop in het Nederlands\. Cover: Eva van Manen
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,377 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,376 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 43 | [Ik Weet Hoe Het Werkt](https://open.spotify.com/track/16fQhhumwwRVJjQydsxP9W) | [Kaat Van Stralen](https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF) | [Ik Weet Hoe Het Werkt](https://open.spotify.com/album/0nv3Dbn34pGSHXHCqS2mJV) | 2:21 |
 | 44 | [Boterham](https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [Boterham](https://open.spotify.com/album/2gs4DAtbdobe6Zc0WEYXoO) | 2:07 |
 | 45 | [Was Het Nou Maar Zo](https://open.spotify.com/track/16109XiqzxPp5UrwFTB285) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Was Het Nou Maar Zo](https://open.spotify.com/album/4Qu9jV13GeXFLgSr7Voada) | 3:14 |
-| 46 | [In NL Mag Je Een Vrouw Slaan](https://open.spotify.com/track/7FxAlqztuui1tcixeLCq0n) | [Alice Olsthoorn](https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA) | [In NL Mag Je Een Vrouw Slaan](https://open.spotify.com/album/3q5dNlndDVXzfvulgjpbRe) | 2:30 |
-| 47 | [Skinroutine Bikinilijn](https://open.spotify.com/track/6Q0MNS8ZNeEKDnLgDgoZe2) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Skinroutine Bikinilijn](https://open.spotify.com/album/6Gxagh1mE6Z9Mipof5thLQ) | 3:03 |
-| 48 | [Niemandsland](https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niemandsland](https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll) | 2:45 |
-| 49 | [Hij/Zij](https://open.spotify.com/track/4DQpJA2ZH1zkwBVdLlhxG9) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS), [Boaz Tooren](https://open.spotify.com/artist/3naJPrcJbwO1ibrVzpbTTs) | [Hij/Zij](https://open.spotify.com/album/6MOavJ87WAghmtviNzTDMr) | 2:17 |
-| 50 | [Schaduw](https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Schaduw](https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR) | 3:36 |
+| 46 | [Skinroutine Bikinilijn](https://open.spotify.com/track/6Q0MNS8ZNeEKDnLgDgoZe2) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Skinroutine Bikinilijn](https://open.spotify.com/album/6Gxagh1mE6Z9Mipof5thLQ) | 3:03 |
+| 47 | [In NL Mag Je Een Vrouw Slaan](https://open.spotify.com/track/7FxAlqztuui1tcixeLCq0n) | [Alice Olsthoorn](https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA) | [In NL Mag Je Een Vrouw Slaan](https://open.spotify.com/album/3q5dNlndDVXzfvulgjpbRe) | 2:30 |
+| 48 | [Hij/Zij](https://open.spotify.com/track/4DQpJA2ZH1zkwBVdLlhxG9) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS), [Boaz Tooren](https://open.spotify.com/artist/3naJPrcJbwO1ibrVzpbTTs) | [Hij/Zij](https://open.spotify.com/album/6MOavJ87WAghmtviNzTDMr) | 2:17 |
+| 49 | [Komt Goed](https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [Kubus In Een Ballenbak](https://open.spotify.com/album/2qCMxawxzGP2g3dJ8q0eNR) | 2:33 |
+| 50 | [Niemandsland](https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niemandsland](https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll) | 2:45 |
 
 Snapshot ID: `AAAAAGI8RkJG1DgA/CeyijLDRohKwpqD`

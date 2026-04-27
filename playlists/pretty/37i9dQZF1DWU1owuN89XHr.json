@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 296815,
+  "num_followers": 296823,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -877,6 +877,22 @@
       "url": "https://open.spotify.com/track/5ayFCv4dbmkQFPvFNpZkic"
     },
     {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/6skXhhSHPiVDNpnCjgHMmk"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Filio",
+          "url": "https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Norte",
+      "url": "https://open.spotify.com/track/3iv7GUp4v9SF8HfMKhv5Bo"
+    },
+    {
       "added_at": "2022-08-19 02:13:59",
       "album": {
         "name": "20 A\u00f1os de Viaje, Vol. 1 (En Vivo)",
@@ -895,22 +911,6 @@
       "duration_ms": 284500,
       "name": "Trapecistas - En Vivo",
       "url": "https://open.spotify.com/track/4WWcb9x1w49nY7LSEaPAou"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/6skXhhSHPiVDNpnCjgHMmk"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Filio",
-          "url": "https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Norte",
-      "url": "https://open.spotify.com/track/3iv7GUp4v9SF8HfMKhv5Bo"
     },
     {
       "added_at": "2023-08-01 14:42:56",

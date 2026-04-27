@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Andrea Bejar",
-  "num_followers": 34134,
+  "num_followers": 34156,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "arco\u00edris (extra\u00eddo de LA NUBE EN EL JARD\u00cdN)",
-        "url": "https://open.spotify.com/album/3cJ9mookr6KuCby7KwoE7W"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 299548,
-      "name": "arco\u00edris - extra\u00eddo de LA NUBE EN EL JARD\u00cdN",
-      "url": "https://open.spotify.com/track/1C2xV2BtpnFQoxfTTb4r4u"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Estas Canciones Me Recuerdan a Ti",
         "url": "https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 203950,
       "name": "La Ola",
       "url": "https://open.spotify.com/track/0bg3L5f70z9iEaJki8Cgfa"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "arco\u00edris (extra\u00eddo de LA NUBE EN EL JARD\u00cdN)",
+        "url": "https://open.spotify.com/album/3cJ9mookr6KuCby7KwoE7W"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 299548,
+      "name": "arco\u00edris - extra\u00eddo de LA NUBE EN EL JARD\u00cdN",
+      "url": "https://open.spotify.com/track/1C2xV2BtpnFQoxfTTb4r4u"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "me va a costar",
-        "url": "https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "me va a costar",
-      "url": "https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Lucha",
         "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
+        "name": "me va a costar",
+        "url": "https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "me va a costar",
+      "url": "https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
         "name": "julia",
         "url": "https://open.spotify.com/album/7MBsjo49lqjaHf1Sc9KoGu"
       },
@@ -723,22 +723,6 @@
       "duration_ms": 192419,
       "name": "julia",
       "url": "https://open.spotify.com/track/6hjWNJFzuqXfBT0DDJORYS"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 203112,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -763,6 +747,22 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 203112,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
         "name": "hastalamadre",
         "url": "https://open.spotify.com/album/3b3iMyMBwjPko7SBusTHTQ"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 235966,
       "name": "hastalamadre",
       "url": "https://open.spotify.com/track/19QQ5cSAP5ERRJJXN937OB"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+        }
+      ],
+      "duration_ms": 187649,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -807,18 +823,18 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
+        "name": "Qu\u00e9 Tal",
+        "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
         }
       ],
-      "duration_ms": 187649,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
+      "duration_ms": 164266,
+      "name": "Qu\u00e9 Tal",
+      "url": "https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -835,22 +851,6 @@
       "duration_ms": 237596,
       "name": "Mi Ni\u00f1a",
       "url": "https://open.spotify.com/track/3Gl6n3cLCPPwlgWXGy7KOT"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
-        "name": "Qu\u00e9 Tal",
-        "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Santamaria",
-          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
-        }
-      ],
-      "duration_ms": 164266,
-      "name": "Qu\u00e9 Tal",
-      "url": "https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "donde van los perros",
-        "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
-      },
-      "artists": [
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        }
-      ],
-      "duration_ms": 124365,
-      "name": "yo as\u00ed",
-      "url": "https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Iridiscente",
         "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 218533,
       "name": "Aguaceros",
       "url": "https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "donde van los perros",
+        "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "duration_ms": 124365,
+      "name": "yo as\u00ed",
+      "url": "https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Fases",
-        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
-      },
-      "artists": [
-        {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        }
-      ],
-      "duration_ms": 225221,
-      "name": "Fases",
-      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Flores Muertas",
         "url": "https://open.spotify.com/album/73c1nObVrUEtZwmY89VnEC"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 328663,
       "name": "Flores Muertas",
       "url": "https://open.spotify.com/track/2WeVVJCmTfR2kFomtxRHsz"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Fases",
+        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        }
+      ],
+      "duration_ms": 225221,
+      "name": "Fases",
+      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Neblina Sesiones desde el Bosque",
-        "url": "https://open.spotify.com/album/2lMcIJqzPaS4qJahlHpUHA"
-      },
-      "artists": [
-        {
-          "name": "Japonica",
-          "url": "https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD"
-        }
-      ],
-      "duration_ms": 220765,
-      "name": "Canto de Amor - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/33CUljxlbtF0EnAfBU4BDJ"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Entre Los Dos",
         "url": "https://open.spotify.com/album/5Srz3FfVqMwxs1e84LqVqs"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 215791,
       "name": "Entre Los Dos",
       "url": "https://open.spotify.com/track/4WwstqolWpfzFlfWkijyCL"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Neblina Sesiones desde el Bosque",
+        "url": "https://open.spotify.com/album/2lMcIJqzPaS4qJahlHpUHA"
+      },
+      "artists": [
+        {
+          "name": "Japonica",
+          "url": "https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD"
+        }
+      ],
+      "duration_ms": 220765,
+      "name": "Canto de Amor - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/33CUljxlbtF0EnAfBU4BDJ"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/37lyc3kkBpFuTUw6hacBIE"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
         }
       ],
-      "duration_ms": 321662,
-      "name": "Como me encanta",
-      "url": "https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT"
+      "duration_ms": 205226,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/5BGwqU8mOCyyRP8PKmYMdV"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/37lyc3kkBpFuTUw6hacBIE"
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
       },
       "artists": [
         {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 205226,
-      "name": "New Dawn",
-      "url": "https://open.spotify.com/track/5BGwqU8mOCyyRP8PKmYMdV"
+      "duration_ms": 321662,
+      "name": "Como me encanta",
+      "url": "https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Escuchado",
-        "url": "https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "Escuchado",
-      "url": "https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "hasta viejitos",
         "url": "https://open.spotify.com/album/7BLfcGhwRysE5zfdi1xXsM"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 244660,
       "name": "hasta viejitos",
       "url": "https://open.spotify.com/track/24kcHSP9RuUB9xxk4wq5Tn"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Escuchado",
+        "url": "https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "Escuchado",
+      "url": "https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Uno De Nosotros",
-        "url": "https://open.spotify.com/album/6iuV4lcwsjoBSNCPRo8Z4N"
-      },
-      "artists": [
-        {
-          "name": "Angie Vazquez",
-          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Recuerdo",
-      "url": "https://open.spotify.com/track/3LMgh9j8noZZnredEUYlDC"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Una historia que contar",
         "url": "https://open.spotify.com/album/2DTN8LKAtN4SqPHzAgh1vk"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 186995,
       "name": "Una historia que contar",
       "url": "https://open.spotify.com/track/0T3y7Z7Nx4RMPJH1L594EZ"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Uno De Nosotros",
+        "url": "https://open.spotify.com/album/6iuV4lcwsjoBSNCPRo8Z4N"
+      },
+      "artists": [
+        {
+          "name": "Angie Vazquez",
+          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Recuerdo",
+      "url": "https://open.spotify.com/track/3LMgh9j8noZZnredEUYlDC"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Cruel",
         "url": "https://open.spotify.com/album/6sQm9L7CZiYSYdy8EZBENA"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 224587,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/6uEp0bnK53pn0RKs5575wK"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
+        "name": "Valles",
+        "url": "https://open.spotify.com/album/07QLMgEF08qGJldtkjoNzm"
+      },
+      "artists": [
+        {
+          "name": "Rafa Arregu\u00edn",
+          "url": "https://open.spotify.com/artist/0j9ovuQB4NHk6e0Vn42mKJ"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Valles",
+      "url": "https://open.spotify.com/track/5giedFuwGdJ15xqJPuEHvg"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
         "name": "no me culpes por sentir",
         "url": "https://open.spotify.com/album/5nzJbUqiBTfaAOXe8cT8be"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 228226,
       "name": "no me culpes por sentir",
       "url": "https://open.spotify.com/track/251OT3yt4toRcJkwyNR7R4"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
-        "name": "Al Pie del Volc\u00e1n",
-        "url": "https://open.spotify.com/album/34jUSNv9RoyaxI78mHzFmr"
-      },
-      "artists": [
-        {
-          "name": "Yo y las Bestias",
-          "url": "https://open.spotify.com/artist/6IMsvQIE5UuA92aA22TfxP"
-        }
-      ],
-      "duration_ms": 245422,
-      "name": "Al Pie del Volc\u00e1n",
-      "url": "https://open.spotify.com/track/5TpldaZoFR74NclU2mEhTP"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Valles",
-        "url": "https://open.spotify.com/album/07QLMgEF08qGJldtkjoNzm"
+        "name": "Al Pie del Volc\u00e1n",
+        "url": "https://open.spotify.com/album/34jUSNv9RoyaxI78mHzFmr"
       },
       "artists": [
         {
-          "name": "Rafa Arregu\u00edn",
-          "url": "https://open.spotify.com/artist/0j9ovuQB4NHk6e0Vn42mKJ"
+          "name": "Yo y las Bestias",
+          "url": "https://open.spotify.com/artist/6IMsvQIE5UuA92aA22TfxP"
         }
       ],
-      "duration_ms": 165500,
-      "name": "Valles",
-      "url": "https://open.spotify.com/track/5giedFuwGdJ15xqJPuEHvg"
+      "duration_ms": 245422,
+      "name": "Al Pie del Volc\u00e1n",
+      "url": "https://open.spotify.com/track/5TpldaZoFR74NclU2mEhTP"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
+        "name": "Esta Soledad",
+        "url": "https://open.spotify.com/album/0z0ow6KKo6R0tRdhN9WTXo"
+      },
+      "artists": [
+        {
+          "name": "selines",
+          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
+        }
+      ],
+      "duration_ms": 254892,
+      "name": "Esta Soledad",
+      "url": "https://open.spotify.com/track/3VLMqaueJBMnciIsvH0mdt"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
         "name": "Renacido",
         "url": "https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg"
       },
@@ -1655,18 +1671,18 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Esta Soledad",
-        "url": "https://open.spotify.com/album/0z0ow6KKo6R0tRdhN9WTXo"
+        "name": "Tu mirar",
+        "url": "https://open.spotify.com/album/3WUjsvkyxszrRvahbUR4ae"
       },
       "artists": [
         {
-          "name": "selines",
-          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
+          "name": "Sara S\u00edstole",
+          "url": "https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8"
         }
       ],
-      "duration_ms": 254892,
-      "name": "Esta Soledad",
-      "url": "https://open.spotify.com/track/3VLMqaueJBMnciIsvH0mdt"
+      "duration_ms": 162661,
+      "name": "Tu mirar",
+      "url": "https://open.spotify.com/track/4at07WEnwnZhY9j3FiJeRd"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1687,22 +1703,6 @@
       "duration_ms": 251040,
       "name": "Estrellas En El Mar",
       "url": "https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
-        "name": "Tu mirar",
-        "url": "https://open.spotify.com/album/3WUjsvkyxszrRvahbUR4ae"
-      },
-      "artists": [
-        {
-          "name": "Sara S\u00edstole",
-          "url": "https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8"
-        }
-      ],
-      "duration_ms": 162661,
-      "name": "Tu mirar",
-      "url": "https://open.spotify.com/track/4at07WEnwnZhY9j3FiJeRd"
     }
   ],
   "unique_name": "Latin Folk",

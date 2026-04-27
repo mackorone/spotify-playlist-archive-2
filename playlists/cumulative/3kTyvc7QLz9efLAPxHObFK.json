@@ -479,6 +479,28 @@
     },
     {
       "album": {
+        "name": "A New Religion",
+        "url": "https://open.spotify.com/album/190xglUAKd8bHSBJSevgPF"
+      },
+      "artists": [
+        {
+          "name": "Insuspect",
+          "url": "https://open.spotify.com/artist/1NfB4JTkokC6dfFqKXyZEa"
+        },
+        {
+          "name": "Eternal Records",
+          "url": "https://open.spotify.com/artist/18Ye7CcEFN7DXDXElQs57x"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179612,
+      "name": "A New Religion",
+      "url": "https://open.spotify.com/track/0g0Z5Xn9Feapap1eFIvqYE"
+    },
+    {
+      "album": {
         "name": "ELECTRONIC UNIVERSE",
         "url": "https://open.spotify.com/album/7jgoChu3QvdSTfoaOmALU4"
       },

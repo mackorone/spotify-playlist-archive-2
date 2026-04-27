@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Boombox Cartel en portada.",
-  "num_followers": 71672,
+  "num_followers": 71681,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-04-17 06:00:29",
       "album": {
-        "name": "Coqueta",
-        "url": "https://open.spotify.com/album/3wwumf5M071TZgngk70ZPa"
-      },
-      "artists": [
-        {
-          "name": "Fend",
-          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Coqueta",
-      "url": "https://open.spotify.com/track/2Woc5FpMWlLZUBGVZBY1Hn"
-    },
-    {
-      "added_at": "2026-04-17 06:00:29",
-      "album": {
         "name": "LA PERLA (V. ELECTRO-CORRIDO)",
         "url": "https://open.spotify.com/album/4dYtSX7swBIrNsBSWWLpVa"
       },
@@ -571,22 +555,18 @@
     {
       "added_at": "2026-04-17 06:00:29",
       "album": {
-        "name": "MOPUS",
-        "url": "https://open.spotify.com/album/5iNUVbnmsSNujilvY5Y3JO"
+        "name": "Coqueta",
+        "url": "https://open.spotify.com/album/3wwumf5M071TZgngk70ZPa"
       },
       "artists": [
         {
-          "name": "Joaqu\u00edn Coronel",
-          "url": "https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT"
-        },
-        {
-          "name": "Marcos Villalobos",
-          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
         }
       ],
-      "duration_ms": 133124,
-      "name": "MOPUS",
-      "url": "https://open.spotify.com/track/2wm9Ap4ERkDy6y81muXbuY"
+      "duration_ms": 182857,
+      "name": "Coqueta",
+      "url": "https://open.spotify.com/track/2Woc5FpMWlLZUBGVZBY1Hn"
     },
     {
       "added_at": "2026-04-17 06:00:29",
@@ -611,6 +591,26 @@
     {
       "added_at": "2026-04-17 06:00:29",
       "album": {
+        "name": "MOPUS",
+        "url": "https://open.spotify.com/album/5iNUVbnmsSNujilvY5Y3JO"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Coronel",
+          "url": "https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT"
+        },
+        {
+          "name": "Marcos Villalobos",
+          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
+        }
+      ],
+      "duration_ms": 133124,
+      "name": "MOPUS",
+      "url": "https://open.spotify.com/track/2wm9Ap4ERkDy6y81muXbuY"
+    },
+    {
+      "added_at": "2026-04-17 06:00:29",
+      "album": {
         "name": "Cantus",
         "url": "https://open.spotify.com/album/4EpXHxtJQBHKPK17PSyaAF"
       },
@@ -623,42 +623,6 @@
       "duration_ms": 184051,
       "name": "Cantus",
       "url": "https://open.spotify.com/track/0Vkf87nNUU5wJPKtpTYt4n"
-    },
-    {
-      "added_at": "2026-04-17 06:00:29",
-      "album": {
-        "name": "R\u00d8Z \u2013 Spotify Sessions",
-        "url": "https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "Natt Calma",
-          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
-        }
-      ],
-      "duration_ms": 293166,
-      "name": "CORA DE HIELO (feat. Natt Calma) \u2013 Spotify Sessions",
-      "url": "https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw"
-    },
-    {
-      "added_at": "2026-04-17 06:00:29",
-      "album": {
-        "name": "EVOLUXION",
-        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 145165,
-      "name": "HOUSE OF LUX 2",
-      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
     },
     {
       "added_at": "2026-04-17 06:00:29",
@@ -683,6 +647,42 @@
       "duration_ms": 188368,
       "name": "Bella",
       "url": "https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w"
+    },
+    {
+      "added_at": "2026-04-17 06:00:29",
+      "album": {
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 145165,
+      "name": "HOUSE OF LUX 2",
+      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
+    },
+    {
+      "added_at": "2026-04-17 06:00:29",
+      "album": {
+        "name": "R\u00d8Z \u2013 Spotify Sessions",
+        "url": "https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+        }
+      ],
+      "duration_ms": 293166,
+      "name": "CORA DE HIELO (feat. Natt Calma) \u2013 Spotify Sessions",
+      "url": "https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw"
     },
     {
       "added_at": "2026-04-17 06:00:29",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-04-17 06:00:29",
       "album": {
-        "name": "B\u00e1ilalo",
-        "url": "https://open.spotify.com/album/36w0XaGcOAAh6FbO4ekujM"
-      },
-      "artists": [
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        },
-        {
-          "name": "KRACH",
-          "url": "https://open.spotify.com/artist/27EYLJLi1YWCUIkq74kl5G"
-        }
-      ],
-      "duration_ms": 137903,
-      "name": "B\u00e1ilalo",
-      "url": "https://open.spotify.com/track/03nYOCm9SqBZhXO5EMtl95"
-    },
-    {
-      "added_at": "2026-04-17 06:00:29",
-      "album": {
         "name": "Como La Flor",
         "url": "https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 170089,
       "name": "Exclusive",
       "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
+    },
+    {
+      "added_at": "2026-04-17 06:00:29",
+      "album": {
+        "name": "B\u00e1ilalo",
+        "url": "https://open.spotify.com/album/36w0XaGcOAAh6FbO4ekujM"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "KRACH",
+          "url": "https://open.spotify.com/artist/27EYLJLi1YWCUIkq74kl5G"
+        }
+      ],
+      "duration_ms": 137903,
+      "name": "B\u00e1ilalo",
+      "url": "https://open.spotify.com/track/03nYOCm9SqBZhXO5EMtl95"
     },
     {
       "added_at": "2026-04-17 06:00:29",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-04-17 06:00:29",
       "album": {
-        "name": "Ritmo Sabroso",
-        "url": "https://open.spotify.com/album/5d8zfJKzslUkDKVDd7g8Pm"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Ritmo Sabroso",
-      "url": "https://open.spotify.com/track/1Xd97xsTJQE2qd2zonWPPX"
-    },
-    {
-      "added_at": "2026-04-17 06:00:29",
-      "album": {
         "name": "Alucina2",
         "url": "https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 133793,
       "name": "Alucina2",
       "url": "https://open.spotify.com/track/44Wu7JwP8ZjdSOFwxTRZZB"
+    },
+    {
+      "added_at": "2026-04-17 06:00:29",
+      "album": {
+        "name": "Ritmo Sabroso",
+        "url": "https://open.spotify.com/album/5d8zfJKzslUkDKVDd7g8Pm"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Ritmo Sabroso",
+      "url": "https://open.spotify.com/track/1Xd97xsTJQE2qd2zonWPPX"
     },
     {
       "added_at": "2026-04-17 06:00:29",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2026-04-17 06:00:29",
       "album": {
-        "name": "Prende y Pasa",
-        "url": "https://open.spotify.com/album/4HIC4AhCKWcYs56uib9IQC"
-      },
-      "artists": [
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "Prende y Pasa",
-      "url": "https://open.spotify.com/track/7LJA4EwL3mi2vZIAun6LB9"
-    },
-    {
-      "added_at": "2026-04-17 06:00:29",
-      "album": {
         "name": "Lunita (J.Pool Remix)",
         "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
       },
@@ -1183,18 +1163,22 @@
     {
       "added_at": "2026-04-17 06:00:29",
       "album": {
-        "name": "Jugo de Diamantes",
-        "url": "https://open.spotify.com/album/0lt2MhZTJTSegzvSHfh7YM"
+        "name": "Prende y Pasa",
+        "url": "https://open.spotify.com/album/4HIC4AhCKWcYs56uib9IQC"
       },
       "artists": [
         {
-          "name": "Mandragora",
-          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Jugo de Diamantes",
-      "url": "https://open.spotify.com/track/5fZVLUJBlfZUi4xMCjIv48"
+      "duration_ms": 163250,
+      "name": "Prende y Pasa",
+      "url": "https://open.spotify.com/track/7LJA4EwL3mi2vZIAun6LB9"
     },
     {
       "added_at": "2026-04-17 06:00:29",
@@ -1215,6 +1199,22 @@
       "duration_ms": 165245,
       "name": "NO ESTABA MAL",
       "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
+    },
+    {
+      "added_at": "2026-04-17 06:00:29",
+      "album": {
+        "name": "Jugo de Diamantes",
+        "url": "https://open.spotify.com/album/0lt2MhZTJTSegzvSHfh7YM"
+      },
+      "artists": [
+        {
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Jugo de Diamantes",
+      "url": "https://open.spotify.com/track/5fZVLUJBlfZUi4xMCjIv48"
     },
     {
       "added_at": "2026-04-17 06:00:29",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-04-17 06:00:29",
       "album": {
+        "name": "ADICTO",
+        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "ADICTO",
+      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
+    },
+    {
+      "added_at": "2026-04-17 06:00:29",
+      "album": {
         "name": "NOT THE SAME",
         "url": "https://open.spotify.com/album/2Lq2PZQGLukrUIHod8IQ0Q"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 220549,
       "name": "NOT THE SAME",
       "url": "https://open.spotify.com/track/6ILS65H18B80SeUMTZQ3tC"
-    },
-    {
-      "added_at": "2026-04-17 06:00:29",
-      "album": {
-        "name": "ADICTO",
-        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "ADICTO",
-      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
     },
     {
       "added_at": "2026-04-17 06:00:29",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-04-17 06:00:29",
       "album": {
-        "name": "La Herida",
-        "url": "https://open.spotify.com/album/448r0IkYo8ehYROuSWwQ4p"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        }
-      ],
-      "duration_ms": 121845,
-      "name": "La Herida",
-      "url": "https://open.spotify.com/track/1sBSjceBS1Fl7qDJYEPkKP"
-    },
-    {
-      "added_at": "2026-04-17 06:00:29",
-      "album": {
         "name": "Light Up",
         "url": "https://open.spotify.com/album/3lpliBOg303cNhbNCeDMZm"
       },
@@ -1403,22 +1387,18 @@
     {
       "added_at": "2026-04-17 06:00:29",
       "album": {
-        "name": "Shadows In The Night",
-        "url": "https://open.spotify.com/album/02sUoTG70SqDEyqESivGsk"
+        "name": "La Herida",
+        "url": "https://open.spotify.com/album/448r0IkYo8ehYROuSWwQ4p"
       },
       "artists": [
         {
-          "name": "Skytech",
-          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
-        },
-        {
-          "name": "ANG",
-          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
         }
       ],
-      "duration_ms": 171500,
-      "name": "Shadows In The Night",
-      "url": "https://open.spotify.com/track/1zN4OtDXLJae4PmCXIV7h6"
+      "duration_ms": 121845,
+      "name": "La Herida",
+      "url": "https://open.spotify.com/track/1sBSjceBS1Fl7qDJYEPkKP"
     },
     {
       "added_at": "2026-04-17 06:00:29",
@@ -1447,6 +1427,26 @@
     {
       "added_at": "2026-04-17 06:00:29",
       "album": {
+        "name": "Shadows In The Night",
+        "url": "https://open.spotify.com/album/02sUoTG70SqDEyqESivGsk"
+      },
+      "artists": [
+        {
+          "name": "Skytech",
+          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
+        },
+        {
+          "name": "ANG",
+          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Shadows In The Night",
+      "url": "https://open.spotify.com/track/1zN4OtDXLJae4PmCXIV7h6"
+    },
+    {
+      "added_at": "2026-04-17 06:00:29",
+      "album": {
         "name": "Afuera Que Tengan Miedo (Jayrick Remix)",
         "url": "https://open.spotify.com/album/3Oxo5otS6sHMaa06uPUGxp"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 166110,
       "name": "Afuera Que Tengan Miedo - Jayrick Remix",
       "url": "https://open.spotify.com/track/3Sualy9gkVDHDgOKcTJgFd"
+    },
+    {
+      "added_at": "2026-04-17 06:00:29",
+      "album": {
+        "name": "EXTAPHORIC!",
+        "url": "https://open.spotify.com/album/3Z6XgTOnmv6jXg8Aus1Oxr"
+      },
+      "artists": [
+        {
+          "name": "Lumi Athena",
+          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
+        }
+      ],
+      "duration_ms": 85520,
+      "name": "THIRST FOR ME!",
+      "url": "https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf"
     },
     {
       "added_at": "2026-04-17 06:00:29",
@@ -1503,22 +1519,6 @@
       "duration_ms": 176000,
       "name": "NOCHE FRIA",
       "url": "https://open.spotify.com/track/5hXBT9Mfo3SqlevuDRpmjG"
-    },
-    {
-      "added_at": "2026-04-17 06:00:29",
-      "album": {
-        "name": "EXTAPHORIC!",
-        "url": "https://open.spotify.com/album/3Z6XgTOnmv6jXg8Aus1Oxr"
-      },
-      "artists": [
-        {
-          "name": "Lumi Athena",
-          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
-        }
-      ],
-      "duration_ms": 85520,
-      "name": "THIRST FOR ME!",
-      "url": "https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf"
     },
     {
       "added_at": "2026-04-17 06:00:29",
@@ -1699,26 +1699,26 @@
     {
       "added_at": "2026-04-17 06:00:29",
       "album": {
-        "name": "Corazon de Melon",
-        "url": "https://open.spotify.com/album/4dnhKzEzKNdt8wObh5sPQ5"
+        "name": "Serena",
+        "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
       },
       "artists": [
         {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
         },
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
         },
         {
-          "name": "Los Miranda",
-          "url": "https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f"
+          "name": "PAVE",
+          "url": "https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny"
         }
       ],
-      "duration_ms": 175161,
-      "name": "Corazon de Melon",
-      "url": "https://open.spotify.com/track/0OPOLrWNtqperhd32Q8XnF"
+      "duration_ms": 153875,
+      "name": "Serena",
+      "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
     },
     {
       "added_at": "2026-04-17 06:00:29",
@@ -1743,6 +1743,30 @@
     {
       "added_at": "2026-04-17 06:00:29",
       "album": {
+        "name": "Corazon de Melon",
+        "url": "https://open.spotify.com/album/4dnhKzEzKNdt8wObh5sPQ5"
+      },
+      "artists": [
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Los Miranda",
+          "url": "https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f"
+        }
+      ],
+      "duration_ms": 175161,
+      "name": "Corazon de Melon",
+      "url": "https://open.spotify.com/track/0OPOLrWNtqperhd32Q8XnF"
+    },
+    {
+      "added_at": "2026-04-17 06:00:29",
+      "album": {
         "name": "Tomala (Se Mueve Se Siente)",
         "url": "https://open.spotify.com/album/6Tk01gOTdEwBSvsHdm9Ld2"
       },
@@ -1759,30 +1783,6 @@
       "duration_ms": 160600,
       "name": "Tomala (Se Mueve Se Siente)",
       "url": "https://open.spotify.com/track/37VEY7FABybvLFg9iYE3LY"
-    },
-    {
-      "added_at": "2026-04-17 06:00:29",
-      "album": {
-        "name": "Serena",
-        "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Thomas Newson",
-          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
-        },
-        {
-          "name": "PAVE",
-          "url": "https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny"
-        }
-      ],
-      "duration_ms": 153875,
-      "name": "Serena",
-      "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
     },
     {
       "added_at": "2026-04-17 06:00:29",

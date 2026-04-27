@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Kayla Pichichero",
-  "num_followers": 138232,
+  "num_followers": 138276,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2026-04-17 15:35:09",
       "album": {
-        "name": "At Source",
-        "url": "https://open.spotify.com/album/1khZjNAA8D8N1bO5yU4A1F"
-      },
-      "artists": [
-        {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        },
-        {
-          "name": "Bendik Giske",
-          "url": "https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K"
-        }
-      ],
-      "duration_ms": 675586,
-      "name": "Impatience, Magma",
-      "url": "https://open.spotify.com/track/6wdrRE2iafc53qkcuFzbia"
-    },
-    {
-      "added_at": "2026-04-17 15:35:09",
-      "album": {
         "name": "When It Was",
         "url": "https://open.spotify.com/album/1k0sBqgrSG6x5f4BXpSyFY"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 337305,
       "name": "When It Was",
       "url": "https://open.spotify.com/track/4HcZRk5udy9NsJFrCfevQF"
+    },
+    {
+      "added_at": "2026-04-17 15:35:09",
+      "album": {
+        "name": "At Source",
+        "url": "https://open.spotify.com/album/1khZjNAA8D8N1bO5yU4A1F"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        },
+        {
+          "name": "Bendik Giske",
+          "url": "https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K"
+        }
+      ],
+      "duration_ms": 675586,
+      "name": "Impatience, Magma",
+      "url": "https://open.spotify.com/track/6wdrRE2iafc53qkcuFzbia"
     },
     {
       "added_at": "2026-04-17 15:35:09",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-04-17 15:35:09",
       "album": {
-        "name": "Leave It",
-        "url": "https://open.spotify.com/album/3ApfRuo0QxOtf5so9VZCXK"
-      },
-      "artists": [
-        {
-          "name": "Eva Tiedemann",
-          "url": "https://open.spotify.com/artist/57H4D8jx1bGiOvaiPgyIyj"
-        }
-      ],
-      "duration_ms": 326878,
-      "name": "Leave It",
-      "url": "https://open.spotify.com/track/6gdByDB178DwDJvlwouoGZ"
-    },
-    {
-      "added_at": "2026-04-17 15:35:09",
-      "album": {
         "name": "Redwood Resonance",
         "url": "https://open.spotify.com/album/5hr45RQZOrpK63LuIP6dgX"
       },
@@ -407,6 +391,22 @@
     {
       "added_at": "2026-04-17 15:35:09",
       "album": {
+        "name": "Leave It",
+        "url": "https://open.spotify.com/album/3ApfRuo0QxOtf5so9VZCXK"
+      },
+      "artists": [
+        {
+          "name": "Eva Tiedemann",
+          "url": "https://open.spotify.com/artist/57H4D8jx1bGiOvaiPgyIyj"
+        }
+      ],
+      "duration_ms": 326878,
+      "name": "Leave It",
+      "url": "https://open.spotify.com/track/6gdByDB178DwDJvlwouoGZ"
+    },
+    {
+      "added_at": "2026-04-17 15:35:09",
+      "album": {
         "name": "The Man Who Died in His Boat",
         "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
       },
@@ -419,6 +419,34 @@
       "duration_ms": 285866,
       "name": "Being Her Shadow",
       "url": "https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh"
+    },
+    {
+      "added_at": "2026-04-17 15:35:09",
+      "album": {
+        "name": "nen",
+        "url": "https://open.spotify.com/album/4delrvapRx9DXUBXBUm4Y1"
+      },
+      "artists": [
+        {
+          "name": "Kiri Ra!",
+          "url": "https://open.spotify.com/artist/1kMbCcSenu1Kk0W9RGa8VR"
+        },
+        {
+          "name": "Lau Nau",
+          "url": "https://open.spotify.com/artist/2oXfE2cVZxbX7OGVldazev"
+        },
+        {
+          "name": "Linda Fredriksson",
+          "url": "https://open.spotify.com/artist/341VCWqMvdMnDP98GjaGYL"
+        },
+        {
+          "name": "Matti Bye",
+          "url": "https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag"
+        }
+      ],
+      "duration_ms": 352680,
+      "name": "nen",
+      "url": "https://open.spotify.com/track/6ZnVWsglqpZtQUjVm9Q5X2"
     },
     {
       "added_at": "2026-04-17 15:35:09",
@@ -475,6 +503,22 @@
     {
       "added_at": "2026-04-17 15:35:09",
       "album": {
+        "name": "303 Meditation",
+        "url": "https://open.spotify.com/album/7tWmJYu84no6vae64sEXZk"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "duration_ms": 310588,
+      "name": "303 Meditation",
+      "url": "https://open.spotify.com/track/4UwXX4DkrmBfjmrQefcw01"
+    },
+    {
+      "added_at": "2026-04-17 15:35:09",
+      "album": {
         "name": "Garden Studies",
         "url": "https://open.spotify.com/album/6jvRlQV7AC4qvHPZSMElId"
       },
@@ -487,22 +531,6 @@
       "duration_ms": 244285,
       "name": "Under the soil",
       "url": "https://open.spotify.com/track/3jFDYpZ8bW1ddacgyIPL17"
-    },
-    {
-      "added_at": "2026-04-17 15:35:09",
-      "album": {
-        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
-      },
-      "artists": [
-        {
-          "name": "Jun Futamata",
-          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
-        }
-      ],
-      "duration_ms": 287913,
-      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
     },
     {
       "added_at": "2026-04-17 15:35:09",
@@ -523,6 +551,22 @@
     {
       "added_at": "2026-04-17 15:35:09",
       "album": {
+        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        }
+      ],
+      "duration_ms": 287913,
+      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
+    },
+    {
+      "added_at": "2026-04-17 15:35:09",
+      "album": {
         "name": "Thoughts On The Future",
         "url": "https://open.spotify.com/album/4xYL1aDxfBoPZejOKoKvV8"
       },
@@ -535,50 +579,6 @@
       "duration_ms": 421566,
       "name": "Thoughts On The Future",
       "url": "https://open.spotify.com/track/6D0MpF3h4bFyfZAjlX8tvm"
-    },
-    {
-      "added_at": "2026-04-17 15:35:09",
-      "album": {
-        "name": "nen",
-        "url": "https://open.spotify.com/album/4delrvapRx9DXUBXBUm4Y1"
-      },
-      "artists": [
-        {
-          "name": "Kiri Ra!",
-          "url": "https://open.spotify.com/artist/1kMbCcSenu1Kk0W9RGa8VR"
-        },
-        {
-          "name": "Lau Nau",
-          "url": "https://open.spotify.com/artist/2oXfE2cVZxbX7OGVldazev"
-        },
-        {
-          "name": "Linda Fredriksson",
-          "url": "https://open.spotify.com/artist/341VCWqMvdMnDP98GjaGYL"
-        },
-        {
-          "name": "Matti Bye",
-          "url": "https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag"
-        }
-      ],
-      "duration_ms": 352680,
-      "name": "nen",
-      "url": "https://open.spotify.com/track/6ZnVWsglqpZtQUjVm9Q5X2"
-    },
-    {
-      "added_at": "2026-04-17 15:35:09",
-      "album": {
-        "name": "Vil'na",
-        "url": "https://open.spotify.com/album/5QAfFgm7Tyh0LSEZXii909"
-      },
-      "artists": [
-        {
-          "name": "Natalia Tsupryk",
-          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
-        }
-      ],
-      "duration_ms": 284219,
-      "name": "Anti-Drone Nets",
-      "url": "https://open.spotify.com/track/0VzpuT3BU5QRvNzeO8rPES"
     },
     {
       "added_at": "2026-04-17 15:35:09",
@@ -603,18 +603,18 @@
     {
       "added_at": "2026-04-17 15:35:09",
       "album": {
-        "name": "303 Meditation",
-        "url": "https://open.spotify.com/album/7tWmJYu84no6vae64sEXZk"
+        "name": "Vil'na",
+        "url": "https://open.spotify.com/album/5QAfFgm7Tyh0LSEZXii909"
       },
       "artists": [
         {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+          "name": "Natalia Tsupryk",
+          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
         }
       ],
-      "duration_ms": 310588,
-      "name": "303 Meditation",
-      "url": "https://open.spotify.com/track/4UwXX4DkrmBfjmrQefcw01"
+      "duration_ms": 284219,
+      "name": "Anti-Drone Nets",
+      "url": "https://open.spotify.com/track/0VzpuT3BU5QRvNzeO8rPES"
     },
     {
       "added_at": "2026-04-17 15:35:09",
@@ -671,18 +671,22 @@
     {
       "added_at": "2026-04-17 15:35:09",
       "album": {
-        "name": "Exuvie",
-        "url": "https://open.spotify.com/album/5h9qY2VdgrO5zqZW0KB4OR"
+        "name": "Analog Seasons (Pop Mix)",
+        "url": "https://open.spotify.com/album/3r08WBgWv22T5FtsvKEDiv"
       },
       "artists": [
         {
-          "name": "No\u00e9mi B\u00fcchi",
-          "url": "https://open.spotify.com/artist/19UxgjmGT8uom3Qjx8CVo6"
+          "name": "Kate Simko",
+          "url": "https://open.spotify.com/artist/2KXLSIzI7CY7AJg5ARUOSb"
+        },
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
         }
       ],
-      "duration_ms": 230377,
-      "name": "beneath form",
-      "url": "https://open.spotify.com/track/00Yaz5X0kVZgjLOulCOc79"
+      "duration_ms": 272189,
+      "name": "Analog Seasons - Pop Mix",
+      "url": "https://open.spotify.com/track/3Qbm7NQ9uBMgDCiLS9oPnK"
     },
     {
       "added_at": "2026-04-17 15:35:09",
@@ -703,6 +707,26 @@
       "duration_ms": 167125,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/4oDNWNDEQIVvwyadCsf2oH"
+    },
+    {
+      "added_at": "2026-04-17 15:35:09",
+      "album": {
+        "name": "Correspondances II",
+        "url": "https://open.spotify.com/album/0xfxe8WRGVNzml6n9eH6ov"
+      },
+      "artists": [
+        {
+          "name": "Laurie Torres",
+          "url": "https://open.spotify.com/artist/4C4p6WindR3CTpo3GYNJWm"
+        },
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Correspondances II",
+      "url": "https://open.spotify.com/track/1W2p6vdykW9LNTo0hJEayL"
     },
     {
       "added_at": "2026-04-17 15:35:09",
@@ -767,22 +791,18 @@
     {
       "added_at": "2026-04-17 15:35:09",
       "album": {
-        "name": "Correspondances II",
-        "url": "https://open.spotify.com/album/0xfxe8WRGVNzml6n9eH6ov"
+        "name": "Exuvie",
+        "url": "https://open.spotify.com/album/5h9qY2VdgrO5zqZW0KB4OR"
       },
       "artists": [
         {
-          "name": "Laurie Torres",
-          "url": "https://open.spotify.com/artist/4C4p6WindR3CTpo3GYNJWm"
-        },
-        {
-          "name": "Nailah Hunter",
-          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+          "name": "No\u00e9mi B\u00fcchi",
+          "url": "https://open.spotify.com/artist/19UxgjmGT8uom3Qjx8CVo6"
         }
       ],
-      "duration_ms": 323000,
-      "name": "Correspondances II",
-      "url": "https://open.spotify.com/track/1W2p6vdykW9LNTo0hJEayL"
+      "duration_ms": 230377,
+      "name": "beneath form",
+      "url": "https://open.spotify.com/track/00Yaz5X0kVZgjLOulCOc79"
     },
     {
       "added_at": "2026-04-17 15:35:09",
@@ -807,22 +827,18 @@
     {
       "added_at": "2026-04-17 15:35:09",
       "album": {
-        "name": "Analog Seasons (Pop Mix)",
-        "url": "https://open.spotify.com/album/3r08WBgWv22T5FtsvKEDiv"
+        "name": "Atlantic Diva",
+        "url": "https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV"
       },
       "artists": [
         {
-          "name": "Kate Simko",
-          "url": "https://open.spotify.com/artist/2KXLSIzI7CY7AJg5ARUOSb"
-        },
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
         }
       ],
-      "duration_ms": 272189,
-      "name": "Analog Seasons - Pop Mix",
-      "url": "https://open.spotify.com/track/3Qbm7NQ9uBMgDCiLS9oPnK"
+      "duration_ms": 243921,
+      "name": "Atlantic Diva",
+      "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
     },
     {
       "added_at": "2026-04-17 15:35:09",
@@ -843,38 +859,6 @@
     {
       "added_at": "2026-04-17 15:35:09",
       "album": {
-        "name": "Atlantic Diva",
-        "url": "https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        }
-      ],
-      "duration_ms": 243921,
-      "name": "Atlantic Diva",
-      "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
-    },
-    {
-      "added_at": "2026-04-17 15:35:09",
-      "album": {
-        "name": "Frozen Passages",
-        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
-      },
-      "artists": [
-        {
-          "name": "Poemme",
-          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "a path between the clouds",
-      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
-    },
-    {
-      "added_at": "2026-04-17 15:35:09",
-      "album": {
         "name": "@0 EP1",
         "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
       },
@@ -891,22 +875,18 @@
     {
       "added_at": "2026-04-17 15:35:09",
       "album": {
-        "name": "eclipses",
-        "url": "https://open.spotify.com/album/6haZqMw7qz5GyPCyYH9akz"
+        "name": "Frozen Passages",
+        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
       },
       "artists": [
         {
-          "name": "Gollden",
-          "url": "https://open.spotify.com/artist/6ihCC4ynwJas1AbDb030Vy"
-        },
-        {
-          "name": "IKSRE",
-          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+          "name": "Poemme",
+          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
         }
       ],
-      "duration_ms": 302000,
-      "name": "eclipses",
-      "url": "https://open.spotify.com/track/0pRTfJJBs1sfoqxu4dyLTJ"
+      "duration_ms": 342000,
+      "name": "a path between the clouds",
+      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
     },
     {
       "added_at": "2026-04-17 15:35:09",
@@ -931,6 +911,26 @@
     {
       "added_at": "2026-04-17 15:35:09",
       "album": {
+        "name": "eclipses",
+        "url": "https://open.spotify.com/album/6haZqMw7qz5GyPCyYH9akz"
+      },
+      "artists": [
+        {
+          "name": "Gollden",
+          "url": "https://open.spotify.com/artist/6ihCC4ynwJas1AbDb030Vy"
+        },
+        {
+          "name": "IKSRE",
+          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "eclipses",
+      "url": "https://open.spotify.com/track/0pRTfJJBs1sfoqxu4dyLTJ"
+    },
+    {
+      "added_at": "2026-04-17 15:35:09",
+      "album": {
         "name": "NONAGE",
         "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
       },
@@ -943,50 +943,6 @@
       "duration_ms": 123953,
       "name": "Yip, Yip, Yip",
       "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
-    },
-    {
-      "added_at": "2026-04-17 15:35:09",
-      "album": {
-        "name": "burning | counting (sleeping)",
-        "url": "https://open.spotify.com/album/5afwm4gKweceI2v5GUtWqe"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        },
-        {
-          "name": "Macie Stewart",
-          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
-        },
-        {
-          "name": "Whitney Johnson",
-          "url": "https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt"
-        }
-      ],
-      "duration_ms": 147573,
-      "name": "burning | counting (sleeping)",
-      "url": "https://open.spotify.com/track/3fZyNlhbyHnyEGaYTjgJeJ"
-    },
-    {
-      "added_at": "2026-04-17 15:35:09",
-      "album": {
-        "name": "silent aurora",
-        "url": "https://open.spotify.com/album/6Se7ujmRwCxkys849vHBgz"
-      },
-      "artists": [
-        {
-          "name": "Anita Tatlow",
-          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
-        },
-        {
-          "name": "Jun Futamata",
-          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "silent aurora",
-      "url": "https://open.spotify.com/track/0bCzY6WZD7SEpnw7E9iYSq"
     },
     {
       "added_at": "2026-04-17 15:35:09",
@@ -1007,18 +963,22 @@
     {
       "added_at": "2026-04-17 15:35:09",
       "album": {
-        "name": "Sunlight Zone",
-        "url": "https://open.spotify.com/album/4qQy2EJsZNVvrRgXZJe2Ez"
+        "name": "silent aurora",
+        "url": "https://open.spotify.com/album/6Se7ujmRwCxkys849vHBgz"
       },
       "artists": [
         {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+          "name": "Anita Tatlow",
+          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
+        },
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
         }
       ],
-      "duration_ms": 672016,
-      "name": "Sunlight Zone",
-      "url": "https://open.spotify.com/track/46YhbNVUyPEFQ9N4KymBGu"
+      "duration_ms": 180000,
+      "name": "silent aurora",
+      "url": "https://open.spotify.com/track/0bCzY6WZD7SEpnw7E9iYSq"
     },
     {
       "added_at": "2026-04-17 15:35:09",
@@ -1051,18 +1011,42 @@
     {
       "added_at": "2026-04-17 15:35:09",
       "album": {
-        "name": "Fernande, Cecile",
-        "url": "https://open.spotify.com/album/2IIENVgUI1RyMFnerUQBea"
+        "name": "burning | counting (sleeping)",
+        "url": "https://open.spotify.com/album/5afwm4gKweceI2v5GUtWqe"
       },
       "artists": [
         {
-          "name": "Natasha Pirard",
-          "url": "https://open.spotify.com/artist/4sqxChbw1L62UI1zxQK07B"
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
+        },
+        {
+          "name": "Whitney Johnson",
+          "url": "https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt"
         }
       ],
-      "duration_ms": 138386,
-      "name": "Jardin des fleurs",
-      "url": "https://open.spotify.com/track/6F5CxzJQrG3J20ilYdpYHs"
+      "duration_ms": 147573,
+      "name": "burning | counting (sleeping)",
+      "url": "https://open.spotify.com/track/3fZyNlhbyHnyEGaYTjgJeJ"
+    },
+    {
+      "added_at": "2026-04-17 15:35:09",
+      "album": {
+        "name": "Sunlight Zone",
+        "url": "https://open.spotify.com/album/4qQy2EJsZNVvrRgXZJe2Ez"
+      },
+      "artists": [
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        }
+      ],
+      "duration_ms": 672016,
+      "name": "Sunlight Zone",
+      "url": "https://open.spotify.com/track/46YhbNVUyPEFQ9N4KymBGu"
     },
     {
       "added_at": "2026-04-17 15:35:09",
@@ -1079,6 +1063,22 @@
       "duration_ms": 419549,
       "name": "RELUCESCO I",
       "url": "https://open.spotify.com/track/0fRDySUoyDdS1Erd73lztX"
+    },
+    {
+      "added_at": "2026-04-17 15:35:09",
+      "album": {
+        "name": "Fernande, Cecile",
+        "url": "https://open.spotify.com/album/2IIENVgUI1RyMFnerUQBea"
+      },
+      "artists": [
+        {
+          "name": "Natasha Pirard",
+          "url": "https://open.spotify.com/artist/4sqxChbw1L62UI1zxQK07B"
+        }
+      ],
+      "duration_ms": 138386,
+      "name": "Jardin des fleurs",
+      "url": "https://open.spotify.com/track/6F5CxzJQrG3J20ilYdpYHs"
     },
     {
       "added_at": "2026-04-17 15:35:09",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-04-17 15:35:09",
       "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 262375,
+      "name": "10\u00b0C",
+      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
+    },
+    {
+      "added_at": "2026-04-17 15:35:09",
+      "album": {
         "name": "Unspoken Truth",
         "url": "https://open.spotify.com/album/2SwbcfmI0SqwGFvHst5dml"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 327146,
       "name": "Unspoken Truth",
       "url": "https://open.spotify.com/track/0pHdCUW06lnBjgxfqVRbbC"
-    },
-    {
-      "added_at": "2026-04-17 15:35:09",
-      "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 262375,
-      "name": "10\u00b0C",
-      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
     },
     {
       "added_at": "2026-04-17 15:35:09",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-04-17 15:35:09",
       "album": {
-        "name": "Eurybia",
-        "url": "https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x"
-      },
-      "artists": [
-        {
-          "name": "Francesca Heart",
-          "url": "https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT"
-        }
-      ],
-      "duration_ms": 186082,
-      "name": "L'Inno delle Oceanine alla Bellezza e alla Fortuna",
-      "url": "https://open.spotify.com/track/1imCY3nm7hkJVyRX5KIfvu"
-    },
-    {
-      "added_at": "2026-04-17 15:35:09",
-      "album": {
         "name": "The Boat",
         "url": "https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 425600,
       "name": "The Boat",
       "url": "https://open.spotify.com/track/6Q1RTxAXNBJ6jgSBEkIQNy"
+    },
+    {
+      "added_at": "2026-04-17 15:35:09",
+      "album": {
+        "name": "Eurybia",
+        "url": "https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x"
+      },
+      "artists": [
+        {
+          "name": "Francesca Heart",
+          "url": "https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT"
+        }
+      ],
+      "duration_ms": 186082,
+      "name": "L'Inno delle Oceanine alla Bellezza e alla Fortuna",
+      "url": "https://open.spotify.com/track/1imCY3nm7hkJVyRX5KIfvu"
     },
     {
       "added_at": "2026-04-17 15:35:09",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2026-04-17 15:35:09",
       "album": {
-        "name": "Sea-swallowed Wands",
-        "url": "https://open.spotify.com/album/4tTKkIDE2d9wwwSK0GhFVK"
-      },
-      "artists": [
-        {
-          "name": "Jolanda Moletta",
-          "url": "https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1"
-        },
-        {
-          "name": "Karen Vogt",
-          "url": "https://open.spotify.com/artist/72qU17IcjkHAMFqH4ol9un"
-        }
-      ],
-      "duration_ms": 366000,
-      "name": "Body in the shadows, face in the light",
-      "url": "https://open.spotify.com/track/0dYB5Ug2CBarhW4Zs7xjRK"
-    },
-    {
-      "added_at": "2026-04-17 15:35:09",
-      "album": {
         "name": "No. 4",
         "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
       },
@@ -1575,18 +1555,22 @@
     {
       "added_at": "2026-04-17 15:35:09",
       "album": {
-        "name": "Fables",
-        "url": "https://open.spotify.com/album/1X47wQ6PgqatyalxJa7KhQ"
+        "name": "Sea-swallowed Wands",
+        "url": "https://open.spotify.com/album/4tTKkIDE2d9wwwSK0GhFVK"
       },
       "artists": [
         {
-          "name": "Isabel Pine",
-          "url": "https://open.spotify.com/artist/4voyApJzYhWIwM3NW5KDuj"
+          "name": "Jolanda Moletta",
+          "url": "https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1"
+        },
+        {
+          "name": "Karen Vogt",
+          "url": "https://open.spotify.com/artist/72qU17IcjkHAMFqH4ol9un"
         }
       ],
-      "duration_ms": 205386,
-      "name": "Fables",
-      "url": "https://open.spotify.com/track/0KV7GkEepHM3kVaZCVVMsF"
+      "duration_ms": 366000,
+      "name": "Body in the shadows, face in the light",
+      "url": "https://open.spotify.com/track/0dYB5Ug2CBarhW4Zs7xjRK"
     },
     {
       "added_at": "2026-04-17 15:35:09",
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2026-04-17 15:35:09",
       "album": {
-        "name": "A Requiem",
-        "url": "https://open.spotify.com/album/4Tx7iyvyTnJNNFGLKYWEOD"
+        "name": "Fables",
+        "url": "https://open.spotify.com/album/1X47wQ6PgqatyalxJa7KhQ"
       },
       "artists": [
         {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+          "name": "Isabel Pine",
+          "url": "https://open.spotify.com/artist/4voyApJzYhWIwM3NW5KDuj"
         }
       ],
-      "duration_ms": 181831,
-      "name": "Bandorai",
-      "url": "https://open.spotify.com/track/20JtrLAz7k54Rt3oe8uPWi"
+      "duration_ms": 205386,
+      "name": "Fables",
+      "url": "https://open.spotify.com/track/0KV7GkEepHM3kVaZCVVMsF"
     },
     {
       "added_at": "2026-04-17 15:35:09",
@@ -1671,18 +1655,34 @@
     {
       "added_at": "2026-04-17 15:35:09",
       "album": {
-        "name": "OUT I",
-        "url": "https://open.spotify.com/album/0J9olnu3NCQGDgEPQqXaOE"
+        "name": "Healing Is A Miracle - Extended Versions",
+        "url": "https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d"
       },
       "artists": [
         {
-          "name": "Violeta Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ"
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
         }
       ],
-      "duration_ms": 281565,
-      "name": "OUT I",
-      "url": "https://open.spotify.com/track/4jmNHn52MHjuLr6H9J0pBK"
+      "duration_ms": 640034,
+      "name": "Inspirit - Extended Version",
+      "url": "https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7"
+    },
+    {
+      "added_at": "2026-04-17 15:35:09",
+      "album": {
+        "name": "A Requiem",
+        "url": "https://open.spotify.com/album/4Tx7iyvyTnJNNFGLKYWEOD"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "duration_ms": 181831,
+      "name": "Bandorai",
+      "url": "https://open.spotify.com/track/20JtrLAz7k54Rt3oe8uPWi"
     },
     {
       "added_at": "2026-04-17 15:35:09",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2026-04-17 15:35:09",
       "album": {
-        "name": "Healing Is A Miracle - Extended Versions",
-        "url": "https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d"
+        "name": "CHANDANI",
+        "url": "https://open.spotify.com/album/5rltLBY7tp2T0l7O4jHWoh"
       },
       "artists": [
         {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+          "name": "Chiara Dubey",
+          "url": "https://open.spotify.com/artist/4pleWkStGuAIJnSzZF55mH"
         }
       ],
-      "duration_ms": 640034,
-      "name": "Inspirit - Extended Version",
-      "url": "https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7"
+      "duration_ms": 189350,
+      "name": "Amma",
+      "url": "https://open.spotify.com/track/6EVlMgdGXNlTQUi9xITR9G"
     },
     {
       "added_at": "2026-04-17 15:35:09",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2026-04-17 15:35:09",
       "album": {
-        "name": "CHANDANI",
-        "url": "https://open.spotify.com/album/5rltLBY7tp2T0l7O4jHWoh"
+        "name": "OUT I",
+        "url": "https://open.spotify.com/album/0J9olnu3NCQGDgEPQqXaOE"
       },
       "artists": [
         {
-          "name": "Chiara Dubey",
-          "url": "https://open.spotify.com/artist/4pleWkStGuAIJnSzZF55mH"
+          "name": "Violeta Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ"
         }
       ],
-      "duration_ms": 189350,
-      "name": "Amma",
-      "url": "https://open.spotify.com/track/6EVlMgdGXNlTQUi9xITR9G"
+      "duration_ms": 281565,
+      "name": "OUT I",
+      "url": "https://open.spotify.com/track/4jmNHn52MHjuLr6H9J0pBK"
     },
     {
       "added_at": "2026-04-17 15:35:09",

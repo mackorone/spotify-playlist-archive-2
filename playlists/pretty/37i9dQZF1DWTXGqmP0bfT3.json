@@ -1,6 +1,6 @@
 {
   "description": "brutal breakdowns and riffs to amp you up.",
-  "num_followers": 558294,
+  "num_followers": 558430,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
+        "name": "Wisconsin Death Trip",
+        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 154906,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
         "name": "RATATATA",
         "url": "https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 216428,
       "name": "RATATATA",
       "url": "https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
-        "name": "Wisconsin Death Trip",
-        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 154906,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Take Me Back To Eden",
-        "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 339606,
-      "name": "Vore",
-      "url": "https://open.spotify.com/track/5vJIVr0ZYo8DFbfSOY4Goa"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
         "name": "The Sin and the Sentence",
         "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 243853,
       "name": "The Heart from Your Hate",
       "url": "https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
+        "name": "Take Me Back To Eden",
+        "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 339606,
+      "name": "Vore",
+      "url": "https://open.spotify.com/track/5vJIVr0ZYo8DFbfSOY4Goa"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Disarm the Descent (Special Edition)",
-        "url": "https://open.spotify.com/album/5I6bH0UaVR4LnKmVUWDZoD"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "In Due Time",
-      "url": "https://open.spotify.com/track/1HlOGL1p6wlpOZatJ2NwFk"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
         "name": "POST HUMAN: NeX GEn",
         "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 189548,
       "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
       "url": "https://open.spotify.com/track/1EQgXWPkU96b4tw3pJtTp1"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
+        "name": "Disarm the Descent (Special Edition)",
+        "url": "https://open.spotify.com/album/5I6bH0UaVR4LnKmVUWDZoD"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "In Due Time",
+      "url": "https://open.spotify.com/track/1HlOGL1p6wlpOZatJ2NwFk"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Foregone",
-        "url": "https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3"
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
       "artists": [
         {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 237300,
-      "name": "Meet Your Maker",
-      "url": "https://open.spotify.com/track/5qZMqZspIglsy4SJxtJt0S"
+      "duration_ms": 299106,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
+        "name": "Foregone",
+        "url": "https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3"
       },
       "artists": [
         {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
         }
       ],
-      "duration_ms": 299106,
-      "name": "Dystopia",
-      "url": "https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO"
+      "duration_ms": 237300,
+      "name": "Meet Your Maker",
+      "url": "https://open.spotify.com/track/5qZMqZspIglsy4SJxtJt0S"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Doom (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp"
-      },
-      "artists": [
-        {
-          "name": "Mick Gordon",
-          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
-        }
-      ],
-      "duration_ms": 257734,
-      "name": "Rip & Tear",
-      "url": "https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
         "name": "VII: Sturm und Drang",
         "url": "https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0"
       },
@@ -1215,22 +1199,6 @@
       "duration_ms": 284840,
       "name": "512",
       "url": "https://open.spotify.com/track/1WWq2DUV0UbO4XJda2usuv"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
-        "name": "Satanized",
-        "url": "https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Satanized",
-      "url": "https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -1267,6 +1235,38 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
+        "name": "Satanized",
+        "url": "https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Satanized",
+      "url": "https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
+        "name": "Doom (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp"
+      },
+      "artists": [
+        {
+          "name": "Mick Gordon",
+          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
+        }
+      ],
+      "duration_ms": 257734,
+      "name": "Rip & Tear",
+      "url": "https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
         "name": "SAVIOR",
         "url": "https://open.spotify.com/album/1e9rFo60bQd81pc9tXjSJS"
       },
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Meliora (Redux)",
-        "url": "https://open.spotify.com/album/5HZKJCYNwSyMSo0oylwCHu"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "Square Hammer",
-      "url": "https://open.spotify.com/track/4AbGkIVQC5wLDPOFjdEjDu"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 353986,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
+        "name": "Meliora (Redux)",
+        "url": "https://open.spotify.com/album/5HZKJCYNwSyMSo0oylwCHu"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "Square Hammer",
+      "url": "https://open.spotify.com/track/4AbGkIVQC5wLDPOFjdEjDu"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "BRAINDEAD (feat. Toby Morse)",
-        "url": "https://open.spotify.com/album/6K484LDhrNh4mzq95WMPbv"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        },
-        {
-          "name": "Toby Morse",
-          "url": "https://open.spotify.com/artist/3bUT7vUCfASm9rKV19DAjd"
-        }
-      ],
-      "duration_ms": 191129,
-      "name": "BRAINDEAD (feat. Toby Morse)",
-      "url": "https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
         "name": "Slaughterhouse (feat. Bryan Garris Of Knocked Loose)",
         "url": "https://open.spotify.com/album/4M8klblrnAmjVDHTMkxxqu"
       },
@@ -1455,18 +1435,22 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "BRAVE NEW WORLD",
-        "url": "https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh"
+        "name": "BRAINDEAD (feat. Toby Morse)",
+        "url": "https://open.spotify.com/album/6K484LDhrNh4mzq95WMPbv"
       },
       "artists": [
         {
-          "name": "STARSET",
-          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        },
+        {
+          "name": "Toby Morse",
+          "url": "https://open.spotify.com/artist/3bUT7vUCfASm9rKV19DAjd"
         }
       ],
-      "duration_ms": 263942,
-      "name": "BRAVE NEW WORLD",
-      "url": "https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29"
+      "duration_ms": 191129,
+      "name": "BRAINDEAD (feat. Toby Morse)",
+      "url": "https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -1483,6 +1467,22 @@
       "duration_ms": 134400,
       "name": "on the verge",
       "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
+        "name": "BRAVE NEW WORLD",
+        "url": "https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "duration_ms": 263942,
+      "name": "BRAVE NEW WORLD",
+      "url": "https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Lux \u00c6terna",
-        "url": "https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 205679,
-      "name": "Lux \u00c6terna",
-      "url": "https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
         "name": "Outlaw Gentlemen & Shady Ladies",
         "url": "https://open.spotify.com/album/0MNiO7qCmDHphcsefaAjEy"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 214560,
       "name": "Dead But Rising",
       "url": "https://open.spotify.com/track/0Xu8n8K2SEuhraFVD5jUtI"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
+        "name": "Lux \u00c6terna",
+        "url": "https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 205679,
+      "name": "Lux \u00c6terna",
+      "url": "https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/54FMyO5I38UcAmWQTFZbeq"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "Rats",
-      "url": "https://open.spotify.com/track/0g49s0Nl5LTXLKATAZ7Vfx"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
         "name": "The Reckoning",
         "url": "https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 209453,
       "name": "Lightning Strike",
       "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/54FMyO5I38UcAmWQTFZbeq"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "Rats",
+      "url": "https://open.spotify.com/track/0g49s0Nl5LTXLKATAZ7Vfx"
     },
     {
       "added_at": "2026-03-06 18:04:08",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2026-03-06 18:04:08",
       "album": {
-        "name": "Bad Magic",
-        "url": "https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 324426,
-      "name": "Sympathy For The Devil",
-      "url": "https://open.spotify.com/track/5Yql4ooghbDqwXIvCGXsdx"
-    },
-    {
-      "added_at": "2026-03-06 18:04:08",
-      "album": {
         "name": "DOGMA",
         "url": "https://open.spotify.com/album/6TPRyXWXQuVfgmOO14xRno"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 214986,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/1kM2VS4HfIU6gNl1LTOQk0"
+    },
+    {
+      "added_at": "2026-03-06 18:04:08",
+      "album": {
+        "name": "Bad Magic",
+        "url": "https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 324426,
+      "name": "Sympathy For The Devil",
+      "url": "https://open.spotify.com/track/5Yql4ooghbDqwXIvCGXsdx"
     },
     {
       "added_at": "2026-03-06 18:04:08",

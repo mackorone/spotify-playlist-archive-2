@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3092\u7279\u96c6\u3002Cover: \u8352\u8c37\u7fd4\u5927",
-  "num_followers": 65151,
+  "num_followers": 65144,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-04-21 16:07:42",
       "album": {
-        "name": "\u30a2\u30af\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/40d2UkPaT4bv8edR0RFiSx"
-      },
-      "artists": [
-        {
-          "name": "AKASAKI",
-          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
-        }
-      ],
-      "duration_ms": 173250,
-      "name": "\u30a2\u30af\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/1Dp1j8ohcjGTJhswwYWl5u"
-    },
-    {
-      "added_at": "2026-04-21 16:07:42",
-      "album": {
         "name": "stay with me",
         "url": "https://open.spotify.com/album/4SWgA2dCYmu6shSGPmnh37"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 183636,
       "name": "stay with me",
       "url": "https://open.spotify.com/track/5jL2iJzLhS4PNsLtc4ltgw"
+    },
+    {
+      "added_at": "2026-04-21 16:07:42",
+      "album": {
+        "name": "\u30a2\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/40d2UkPaT4bv8edR0RFiSx"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "\u30a2\u30af\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/1Dp1j8ohcjGTJhswwYWl5u"
     },
     {
       "added_at": "2026-04-21 16:07:42",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-04-21 16:07:42",
       "album": {
-        "name": "Teacher",
-        "url": "https://open.spotify.com/album/4ubxMkwVR9RZzbqh1c6bCk"
-      },
-      "artists": [
-        {
-          "name": "TOMONARI SORA\t",
-          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
-        }
-      ],
-      "duration_ms": 261900,
-      "name": "Teacher",
-      "url": "https://open.spotify.com/track/2B8YBnczcZAoloFcSlBwFC"
-    },
-    {
-      "added_at": "2026-04-21 16:07:42",
-      "album": {
         "name": "\u529b\u8aac",
         "url": "https://open.spotify.com/album/0tfLUSiyhCQBzTUiwVPDaN"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 290323,
       "name": "\u529b\u8aac",
       "url": "https://open.spotify.com/track/34GAppVIvEO2e6RIEUFMAI"
+    },
+    {
+      "added_at": "2026-04-21 16:07:42",
+      "album": {
+        "name": "Teacher",
+        "url": "https://open.spotify.com/album/4ubxMkwVR9RZzbqh1c6bCk"
+      },
+      "artists": [
+        {
+          "name": "TOMONARI SORA\t",
+          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
+        }
+      ],
+      "duration_ms": 261900,
+      "name": "Teacher",
+      "url": "https://open.spotify.com/track/2B8YBnczcZAoloFcSlBwFC"
     },
     {
       "added_at": "2026-04-21 16:07:42",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-04-21 16:07:42",
       "album": {
-        "name": "Sonare",
-        "url": "https://open.spotify.com/album/7wEahnf4nhcBJV0LV2CzNA"
-      },
-      "artists": [
-        {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
-        }
-      ],
-      "duration_ms": 203712,
-      "name": "Sonare",
-      "url": "https://open.spotify.com/track/2TDyHR2vO6AUxgLUbxEWn2"
-    },
-    {
-      "added_at": "2026-04-21 16:07:42",
-      "album": {
         "name": "\u30ad\u30e3\u30ea\u30fc\u30d0\u30c3\u30b0",
         "url": "https://open.spotify.com/album/3kQ4vUmfCaVfTx8DtRni7T"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 180755,
       "name": "\u30ad\u30e3\u30ea\u30fc\u30d0\u30c3\u30b0",
       "url": "https://open.spotify.com/track/1h0H9Hp0jZvZh1MuRWBk9J"
+    },
+    {
+      "added_at": "2026-04-21 16:07:42",
+      "album": {
+        "name": "Sonare",
+        "url": "https://open.spotify.com/album/7wEahnf4nhcBJV0LV2CzNA"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 203712,
+      "name": "Sonare",
+      "url": "https://open.spotify.com/track/2TDyHR2vO6AUxgLUbxEWn2"
     },
     {
       "added_at": "2026-04-21 16:07:42",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-04-21 16:07:42",
       "album": {
-        "name": "\u3067\u304d\u308b\u3060\u3051/\u53cb\u9054\u304c\u3044\u308b",
-        "url": "https://open.spotify.com/album/2iccswYJOuTlPVR7KKUHMi"
-      },
-      "artists": [
-        {
-          "name": "\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce",
-          "url": "https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB"
-        }
-      ],
-      "duration_ms": 269995,
-      "name": "\u3067\u304d\u308b\u3060\u3051",
-      "url": "https://open.spotify.com/track/76iksHbFiGerox78hM1TTT"
-    },
-    {
-      "added_at": "2026-04-21 16:07:42",
-      "album": {
         "name": "\u65e5\u3005\u6563\u6f2b",
         "url": "https://open.spotify.com/album/2NAsVsq0trIIgvpk2pHtCW"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 202428,
       "name": "\u30b0\u30ed\u30fc\u30ea\u30fc",
       "url": "https://open.spotify.com/track/08rrk9hExuHujD5CzNGO3b"
+    },
+    {
+      "added_at": "2026-04-21 16:07:42",
+      "album": {
+        "name": "\u3067\u304d\u308b\u3060\u3051/\u53cb\u9054\u304c\u3044\u308b",
+        "url": "https://open.spotify.com/album/2iccswYJOuTlPVR7KKUHMi"
+      },
+      "artists": [
+        {
+          "name": "\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce",
+          "url": "https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB"
+        }
+      ],
+      "duration_ms": 269995,
+      "name": "\u3067\u304d\u308b\u3060\u3051",
+      "url": "https://open.spotify.com/track/76iksHbFiGerox78hM1TTT"
     },
     {
       "added_at": "2026-04-21 16:07:42",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2026-04-21 16:07:42",
       "album": {
+        "name": "Hangover",
+        "url": "https://open.spotify.com/album/4X3WPCSJweNP6heXa7YRZ2"
+      },
+      "artists": [
+        {
+          "name": "REJAY",
+          "url": "https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe"
+        },
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        }
+      ],
+      "duration_ms": 206291,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/7bhxfSyIU6iToIx7eJT5Tt"
+    },
+    {
+      "added_at": "2026-04-21 16:07:42",
+      "album": {
         "name": "\u5bc4\u308a\u9053",
         "url": "https://open.spotify.com/album/7xJRthLvDJ2Kiu3N8P1X4a"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 164427,
       "name": "\u7b54\u3048\u5408\u308f\u305b\u306f\u3001\u30c7\u30b6\u30fc\u30c8\u306e\u3042\u3068\u3067\u3002",
       "url": "https://open.spotify.com/track/10XXsycfPNZ8xaC6vFT9CC"
-    },
-    {
-      "added_at": "2026-04-21 16:07:42",
-      "album": {
-        "name": "Hangover",
-        "url": "https://open.spotify.com/album/4X3WPCSJweNP6heXa7YRZ2"
-      },
-      "artists": [
-        {
-          "name": "REJAY",
-          "url": "https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe"
-        },
-        {
-          "name": "Andr",
-          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
-        }
-      ],
-      "duration_ms": 206291,
-      "name": "Hangover",
-      "url": "https://open.spotify.com/track/7bhxfSyIU6iToIx7eJT5Tt"
     },
     {
       "added_at": "2026-04-21 16:07:42",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-04-21 16:07:42",
       "album": {
+        "name": "HB2U",
+        "url": "https://open.spotify.com/album/1Nk8xm34p22TekVHp4AfVe"
+      },
+      "artists": [
+        {
+          "name": "\u6c50\u308c\u3044\u3089",
+          "url": "https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "\u30ea\u30d0\u30fc\u30b9\u30c7\u30a4",
+      "url": "https://open.spotify.com/track/7noSELfXUG3x8Plo58IRSU"
+    },
+    {
+      "added_at": "2026-04-21 16:07:42",
+      "album": {
         "name": "Nemophila",
         "url": "https://open.spotify.com/album/5y94VJ7S4bjK8Pl6I1bZle"
       },
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2026-04-21 16:07:42",
       "album": {
-        "name": "\u5a40\u5a1c\u5a40\u5a1c",
-        "url": "https://open.spotify.com/album/77W5gV7qPHS2ZThS6oQuFc"
-      },
-      "artists": [
-        {
-          "name": "\u306b\u3057\u306a",
-          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
-        }
-      ],
-      "duration_ms": 237328,
-      "name": "\u5a40\u5a1c\u5a40\u5a1c",
-      "url": "https://open.spotify.com/track/6PvyXZnBK7W5cV4VH9EYLP"
-    },
-    {
-      "added_at": "2026-04-21 16:07:42",
-      "album": {
         "name": "ORACLE",
         "url": "https://open.spotify.com/album/6u7qagdE4p5YiqSgEVeO4j"
       },
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2026-04-21 16:07:42",
       "album": {
-        "name": "HB2U",
-        "url": "https://open.spotify.com/album/1Nk8xm34p22TekVHp4AfVe"
+        "name": "\u5a40\u5a1c\u5a40\u5a1c",
+        "url": "https://open.spotify.com/album/77W5gV7qPHS2ZThS6oQuFc"
       },
       "artists": [
         {
-          "name": "\u6c50\u308c\u3044\u3089",
-          "url": "https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F"
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
         }
       ],
-      "duration_ms": 253800,
-      "name": "\u30ea\u30d0\u30fc\u30b9\u30c7\u30a4",
-      "url": "https://open.spotify.com/track/7noSELfXUG3x8Plo58IRSU"
+      "duration_ms": 237328,
+      "name": "\u5a40\u5a1c\u5a40\u5a1c",
+      "url": "https://open.spotify.com/track/6PvyXZnBK7W5cV4VH9EYLP"
     },
     {
       "added_at": "2026-04-21 16:07:42",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2026-04-21 16:07:42",
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/2G6L8gwcR9wKUFHMGt4MUY"
+      },
+      "artists": [
+        {
+          "name": "RLOEVO",
+          "url": "https://open.spotify.com/artist/3dz08OK3pJYraaLrwrVWg0"
+        }
+      ],
+      "duration_ms": 213617,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/6WyqwvGXdSdOipKBESSDKI"
+    },
+    {
+      "added_at": "2026-04-21 16:07:42",
+      "album": {
         "name": "\u96e8\u5bbf\u3089\u305a",
         "url": "https://open.spotify.com/album/3YF9DNZ28oIi9TIFy32gma"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 326197,
       "name": "Lady Cinema",
       "url": "https://open.spotify.com/track/40AwnAlRnN1ZsB8hx2NXS1"
-    },
-    {
-      "added_at": "2026-04-21 16:07:42",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/2G6L8gwcR9wKUFHMGt4MUY"
-      },
-      "artists": [
-        {
-          "name": "RLOEVO",
-          "url": "https://open.spotify.com/artist/3dz08OK3pJYraaLrwrVWg0"
-        }
-      ],
-      "duration_ms": 213617,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/6WyqwvGXdSdOipKBESSDKI"
     },
     {
       "added_at": "2026-04-21 16:07:42",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-04-21 16:07:42",
       "album": {
+        "name": "My summer",
+        "url": "https://open.spotify.com/album/1vJ4vwHNJSrhmNRqjGd6Z5"
+      },
+      "artists": [
+        {
+          "name": "Sakura Fujiwara",
+          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+        }
+      ],
+      "duration_ms": 242846,
+      "name": "My summer",
+      "url": "https://open.spotify.com/track/7CTY2G11hGQYt4p71CVwfo"
+    },
+    {
+      "added_at": "2026-04-21 16:07:42",
+      "album": {
         "name": "Coffee Break feat. \u95a2\u53e3\u30b7\u30f3\u30b4",
         "url": "https://open.spotify.com/album/2YYmeNjDEOJA40xd2etSqb"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 206950,
       "name": "Coffee Break feat. \u95a2\u53e3\u30b7\u30f3\u30b4",
       "url": "https://open.spotify.com/track/1LJ5imdA2VunyCA3CfpY5u"
-    },
-    {
-      "added_at": "2026-04-21 16:07:42",
-      "album": {
-        "name": "My summer",
-        "url": "https://open.spotify.com/album/1vJ4vwHNJSrhmNRqjGd6Z5"
-      },
-      "artists": [
-        {
-          "name": "Sakura Fujiwara",
-          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
-        }
-      ],
-      "duration_ms": 242846,
-      "name": "My summer",
-      "url": "https://open.spotify.com/track/7CTY2G11hGQYt4p71CVwfo"
     },
     {
       "added_at": "2026-04-21 16:07:42",

@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3914671,
+  "num_followers": 3914554,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-04-24 04:01:04",
       "album": {
-        "name": "Into The Night",
-        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 423006,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
-    },
-    {
-      "added_at": "2026-04-24 04:01:04",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/3OQZaCnc8B6JxWyuZkCTI9"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 196306,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7Jnhl4HMucYxZIIxhcE5Zb"
+    },
+    {
+      "added_at": "2026-04-24 04:01:04",
+      "album": {
+        "name": "Into The Night",
+        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 423006,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
     },
     {
       "added_at": "2026-04-24 04:01:04",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-04-24 04:01:04",
       "album": {
-        "name": "ABOUT YOU",
-        "url": "https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "ABOUT YOU",
-      "url": "https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V"
-    },
-    {
-      "added_at": "2026-04-24 04:01:04",
-      "album": {
         "name": "Lost In The Woods",
         "url": "https://open.spotify.com/album/5jKMnxhWTDmF8lV6tSU0ax"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 183934,
       "name": "Lost In The Woods",
       "url": "https://open.spotify.com/track/3USL3vqTBzGdm1SR8T8BZx"
+    },
+    {
+      "added_at": "2026-04-24 04:01:04",
+      "album": {
+        "name": "ABOUT YOU",
+        "url": "https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "ABOUT YOU",
+      "url": "https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V"
     },
     {
       "added_at": "2026-04-24 04:01:04",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-04-24 04:01:04",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/0IjEqIRJmcXs3ORWF0Jd1C"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 228880,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/0v5cEbbd2EYqE9XPlTUZ2Y"
-    },
-    {
-      "added_at": "2026-04-24 04:01:04",
-      "album": {
         "name": "life gets hard",
         "url": "https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj"
       },
@@ -643,22 +627,18 @@
     {
       "added_at": "2026-04-24 04:01:04",
       "album": {
-        "name": "BLINK",
-        "url": "https://open.spotify.com/album/208DpMdWSWLhr1J0vvvkPF"
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0IjEqIRJmcXs3ORWF0Jd1C"
       },
       "artists": [
         {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        },
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 237938,
-      "name": "Keep Love Waiting",
-      "url": "https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh"
+      "duration_ms": 228880,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0v5cEbbd2EYqE9XPlTUZ2Y"
     },
     {
       "added_at": "2026-04-24 04:01:04",
@@ -683,6 +663,26 @@
       "duration_ms": 221250,
       "name": "See My Soul",
       "url": "https://open.spotify.com/track/5IDYlNp75toRLVVdaZL8W6"
+    },
+    {
+      "added_at": "2026-04-24 04:01:04",
+      "album": {
+        "name": "BLINK",
+        "url": "https://open.spotify.com/album/208DpMdWSWLhr1J0vvvkPF"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        },
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 237938,
+      "name": "Keep Love Waiting",
+      "url": "https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh"
     },
     {
       "added_at": "2026-04-24 04:01:04",
@@ -827,26 +827,6 @@
     {
       "added_at": "2026-04-24 04:01:04",
       "album": {
-        "name": "Places",
-        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        }
-      ],
-      "duration_ms": 211278,
-      "name": "Places",
-      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
-    },
-    {
-      "added_at": "2026-04-24 04:01:04",
-      "album": {
         "name": "Feel This Way",
         "url": "https://open.spotify.com/album/7CVPXNero5fCaq9l14Wdwo"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 237931,
       "name": "Feel This Way",
       "url": "https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv"
+    },
+    {
+      "added_at": "2026-04-24 04:01:04",
+      "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "duration_ms": 211278,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
     },
     {
       "added_at": "2026-04-24 04:01:04",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2026-04-24 04:01:04",
       "album": {
+        "name": "sicklysweet (Tobiahs Remix)",
+        "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
+      },
+      "artists": [
+        {
+          "name": "Jetta",
+          "url": "https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96"
+        },
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 137888,
+      "name": "sicklysweet - Tobiahs Remix",
+      "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
+    },
+    {
+      "added_at": "2026-04-24 04:01:04",
+      "album": {
         "name": "alone",
         "url": "https://open.spotify.com/album/2dbqZ73x35PhZrEGiDgCXL"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 265408,
       "name": "alone",
       "url": "https://open.spotify.com/track/53xTITGQAR4vklxEoP6qwZ"
-    },
-    {
-      "added_at": "2026-04-24 04:01:04",
-      "album": {
-        "name": "sicklysweet (Tobiahs Remix)",
-        "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
-      },
-      "artists": [
-        {
-          "name": "Jetta",
-          "url": "https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96"
-        },
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 137888,
-      "name": "sicklysweet - Tobiahs Remix",
-      "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
     },
     {
       "added_at": "2026-04-24 04:01:04",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-04-24 04:01:04",
       "album": {
+        "name": "Call You Mine",
+        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "duration_ms": 209696,
+      "name": "Call You Mine",
+      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
+    },
+    {
+      "added_at": "2026-04-24 04:01:04",
+      "album": {
         "name": "Love Pains",
         "url": "https://open.spotify.com/album/1ZvlhFHnqn8ktyV1UzGNx9"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 265161,
       "name": "Love Pains",
       "url": "https://open.spotify.com/track/6juK43DmhqHK7FsAecv92Q"
-    },
-    {
-      "added_at": "2026-04-24 04:01:04",
-      "album": {
-        "name": "Call You Mine",
-        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
-      },
-      "artists": [
-        {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
-        }
-      ],
-      "duration_ms": 209696,
-      "name": "Call You Mine",
-      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
     },
     {
       "added_at": "2026-04-24 04:01:04",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-04-24 04:01:04",
       "album": {
-        "name": "Dreamscapes",
-        "url": "https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 230243,
-      "name": "Heart Made Of Glass",
-      "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
-    },
-    {
-      "added_at": "2026-04-24 04:01:04",
-      "album": {
         "name": "Go On",
         "url": "https://open.spotify.com/album/3pkakTNCfg5k54UgUCDZG4"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 204960,
       "name": "Go On",
       "url": "https://open.spotify.com/track/2Z42ydA0ORCroYInk2PLTi"
+    },
+    {
+      "added_at": "2026-04-24 04:01:04",
+      "album": {
+        "name": "Dreamscapes",
+        "url": "https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 230243,
+      "name": "Heart Made Of Glass",
+      "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
     },
     {
       "added_at": "2026-04-24 04:01:04",
@@ -1723,6 +1723,30 @@
     {
       "added_at": "2026-04-24 04:01:04",
       "album": {
+        "name": "the art of letting go",
+        "url": "https://open.spotify.com/album/5WCpvkfEHDsZ1dF63DwLcG"
+      },
+      "artists": [
+        {
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+        },
+        {
+          "name": "Hessian",
+          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
+        },
+        {
+          "name": "LeyeT",
+          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "the art of letting go",
+      "url": "https://open.spotify.com/track/30qrn4P5XelUYPsDWSa6yB"
+    },
+    {
+      "added_at": "2026-04-24 04:01:04",
+      "album": {
         "name": "The Call",
         "url": "https://open.spotify.com/album/2VYRfjpBlvBWgNXp8pO4mq"
       },
@@ -1735,26 +1759,6 @@
       "duration_ms": 197286,
       "name": "The Call",
       "url": "https://open.spotify.com/track/18qBwssRu9P9uyhrZbaatB"
-    },
-    {
-      "added_at": "2026-04-24 04:01:04",
-      "album": {
-        "name": "Double Reflections",
-        "url": "https://open.spotify.com/album/4a4ko7jDduX8nERKBP9o28"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 256500,
-      "name": "Double Reflections",
-      "url": "https://open.spotify.com/track/0EgZtK84Zp5R5vdFvxiVUn"
     },
     {
       "added_at": "2026-04-24 04:01:04",
@@ -1779,6 +1783,46 @@
       "duration_ms": 234204,
       "name": "Fool",
       "url": "https://open.spotify.com/track/5SaA31HzAQSJbLInxhXHOP"
+    },
+    {
+      "added_at": "2026-04-24 04:01:04",
+      "album": {
+        "name": "Double Reflections",
+        "url": "https://open.spotify.com/album/4a4ko7jDduX8nERKBP9o28"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 256500,
+      "name": "Double Reflections",
+      "url": "https://open.spotify.com/track/0EgZtK84Zp5R5vdFvxiVUn"
+    },
+    {
+      "added_at": "2026-04-24 04:01:04",
+      "album": {
+        "name": "Prisma EP",
+        "url": "https://open.spotify.com/album/1w6AKkyX86b4oUheLb6add"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Arias",
+          "url": "https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ"
+        },
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        }
+      ],
+      "duration_ms": 251612,
+      "name": "Prisma",
+      "url": "https://open.spotify.com/track/5gOH5ScZKSH64YHYyBwHLz"
     },
     {
       "added_at": "2026-04-24 04:01:04",
@@ -1851,50 +1895,6 @@
     {
       "added_at": "2026-04-24 04:01:04",
       "album": {
-        "name": "Prisma EP",
-        "url": "https://open.spotify.com/album/1w6AKkyX86b4oUheLb6add"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Arias",
-          "url": "https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ"
-        },
-        {
-          "name": "Durante",
-          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
-        }
-      ],
-      "duration_ms": 251612,
-      "name": "Prisma",
-      "url": "https://open.spotify.com/track/5gOH5ScZKSH64YHYyBwHLz"
-    },
-    {
-      "added_at": "2026-04-24 04:01:04",
-      "album": {
-        "name": "the art of letting go",
-        "url": "https://open.spotify.com/album/5WCpvkfEHDsZ1dF63DwLcG"
-      },
-      "artists": [
-        {
-          "name": "m\u00f6lly",
-          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
-        },
-        {
-          "name": "Hessian",
-          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
-        },
-        {
-          "name": "LeyeT",
-          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "the art of letting go",
-      "url": "https://open.spotify.com/track/30qrn4P5XelUYPsDWSa6yB"
-    },
-    {
-      "added_at": "2026-04-24 04:01:04",
-      "album": {
         "name": "Promise Me",
         "url": "https://open.spotify.com/album/1MIt6ANHK9beYtRBQqxup4"
       },
@@ -1931,6 +1931,26 @@
     {
       "added_at": "2026-04-24 04:01:04",
       "album": {
+        "name": "Fire To The Water",
+        "url": "https://open.spotify.com/album/04iAq9moWG9qAJhTfeiRUV"
+      },
+      "artists": [
+        {
+          "name": "Hugo Cantarra",
+          "url": "https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n"
+        },
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 222148,
+      "name": "Fire To The Water",
+      "url": "https://open.spotify.com/track/27UCnwXjQnIhBaqdJgYvCi"
+    },
+    {
+      "added_at": "2026-04-24 04:01:04",
+      "album": {
         "name": "Can't Read Your Mind",
         "url": "https://open.spotify.com/album/7nl7JCskc9bFG6Hb1R9Peu"
       },
@@ -1947,26 +1967,6 @@
       "duration_ms": 191824,
       "name": "Can't Read Your Mind",
       "url": "https://open.spotify.com/track/3qLeZcFGwVM7gJE74KTKa6"
-    },
-    {
-      "added_at": "2026-04-24 04:01:04",
-      "album": {
-        "name": "Lost Without You",
-        "url": "https://open.spotify.com/album/7kdH6aQMnPMhpLwJCxiS4f"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        },
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 204145,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/2aBChGNbGqlYmqbOrVqMBp"
     }
   ],
   "unique_name": "Chill Tracks",

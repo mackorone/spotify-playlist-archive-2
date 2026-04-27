@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: JBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,269 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,234 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Du fehlst](https://open.spotify.com/track/2uNModvonKjhBM7oaLLXTJ) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [ZWEITAUSENDFÜNF](https://open.spotify.com/album/6znzn67m4u9J61kVMvWXnD) | 2:48 |
-| 2 | [wunderschön](https://open.spotify.com/track/1zFQF4A7SOCcBFvcZZNKns) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [wunderschön](https://open.spotify.com/album/7FZb8KVTiFmxpUmTaduyJT) | 2:59 |
-| 3 | [Ohne Dach](https://open.spotify.com/track/63ke3IbMyy7v69fRC6DUdk) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [PECH](https://open.spotify.com/album/50MPz6SA53Eh8LTArkGMiK) | 2:19 |
-| 4 | [3 Tage Paris](https://open.spotify.com/track/6a9VqGWgd7o3LK5JXqr92R) | [herr ulrich](https://open.spotify.com/artist/3EwGLc40naFP5DNfWFTqBA) | [Gut Genug](https://open.spotify.com/album/2dvFUJrOS2f4W8jFgmpogb) | 2:46 |
+| 1 | [wunderschön](https://open.spotify.com/track/1zFQF4A7SOCcBFvcZZNKns) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [wunderschön](https://open.spotify.com/album/7FZb8KVTiFmxpUmTaduyJT) | 2:59 |
+| 2 | [3 Tage Paris](https://open.spotify.com/track/6a9VqGWgd7o3LK5JXqr92R) | [herr ulrich](https://open.spotify.com/artist/3EwGLc40naFP5DNfWFTqBA) | [Gut Genug](https://open.spotify.com/album/2dvFUJrOS2f4W8jFgmpogb) | 2:46 |
+| 3 | [Du fehlst](https://open.spotify.com/track/2uNModvonKjhBM7oaLLXTJ) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [ZWEITAUSENDFÜNF](https://open.spotify.com/album/6znzn67m4u9J61kVMvWXnD) | 2:48 |
+| 4 | [Shotgun \(mit Provinz\)](https://open.spotify.com/track/1qTMaaS5FdqiulCExFkvGy) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Shotgun \(mit Provinz\)](https://open.spotify.com/album/6dD3fdp0aPMAW0ecT7B8xL) | 2:50 |
 | 5 | [verdammte Vergangenheit](https://open.spotify.com/track/5CCtFOrfaFnYkqC4J0e3GW) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [verdammte Vergangenheit](https://open.spotify.com/album/1WYTAqFoNTJufkdlYaHNtN) | 2:25 |
-| 6 | [Shotgun \(mit Provinz\)](https://open.spotify.com/track/1qTMaaS5FdqiulCExFkvGy) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Shotgun \(mit Provinz\)](https://open.spotify.com/album/6dD3fdp0aPMAW0ecT7B8xL) | 2:50 |
-| 7 | [im traum rennen](https://open.spotify.com/track/43jeEMbUHUek4itwTBdLt0) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [im traum rennen](https://open.spotify.com/album/3FcWjRDcTF0h4DNbijZd0f) | 2:54 |
-| 8 | [so lonely](https://open.spotify.com/track/5yPX2sxEKFyslaZx872OCi) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3), [smello](https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H) | [so lonely](https://open.spotify.com/album/5CTVZuW5raoKVOI8QCfH8X) | 1:48 |
-| 9 | [Malediven](https://open.spotify.com/track/1UzrkNhFVccHTN1et4nTBR) | [Laurenz Nikolaus](https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq) | [Malediven](https://open.spotify.com/album/5bwSStyyL6KQqY4zOsKWFk) | 2:20 |
+| 6 | [im traum rennen](https://open.spotify.com/track/43jeEMbUHUek4itwTBdLt0) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [im traum rennen](https://open.spotify.com/album/3FcWjRDcTF0h4DNbijZd0f) | 2:54 |
+| 7 | [so lonely](https://open.spotify.com/track/5yPX2sxEKFyslaZx872OCi) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3), [smello](https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H) | [so lonely](https://open.spotify.com/album/5CTVZuW5raoKVOI8QCfH8X) | 1:48 |
+| 8 | [Malediven](https://open.spotify.com/track/1UzrkNhFVccHTN1et4nTBR) | [Laurenz Nikolaus](https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq) | [Malediven](https://open.spotify.com/album/5bwSStyyL6KQqY4zOsKWFk) | 2:20 |
+| 9 | [Ohne Dach](https://open.spotify.com/track/63ke3IbMyy7v69fRC6DUdk) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [PECH](https://open.spotify.com/album/50MPz6SA53Eh8LTArkGMiK) | 2:19 |
 | 10 | [Turbofresh](https://open.spotify.com/track/4MvB5zSLSxNPzmgTXWPH9J) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [Frank Lotion](https://open.spotify.com/artist/0NRUSXrcqFAFhyV438TdgG) | [Turbofresh](https://open.spotify.com/album/7vxViJNNHmazf6mDNuMYjI) | 2:13 |
 | 11 | [mach nich so](https://open.spotify.com/track/74sWsXinuC5RQAFWjhWFvU) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [mach nich so](https://open.spotify.com/album/6pGlbmvJt41qg4OnEQZiXU) | 2:01 |
 | 12 | [stargirls](https://open.spotify.com/track/3BF32A5iFMrWRCeubDcJwE) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG), [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [stargirls](https://open.spotify.com/album/18snFwyIEmmrOapOaJz0tr) | 2:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Trends \(feat\. Maikel\)](https://open.spotify.com/track/02DYvomBFL8SzeR5hMwC8b) | [moé](https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T), [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY) | [Trends \(feat\. Maikel\)](https://open.spotify.com/album/4H9UjBbJQVGAV6kYa6wPrg) | 3:35 |
 | 75 | [Der schlimmste Ort ist in mir drin](https://open.spotify.com/track/4T3QpM4OS10if1WkHBfbgE) | [Baumgart](https://open.spotify.com/artist/0246ulS40LyInkc84zSYcO) | [Der schlimmste Ort ist in mir drin](https://open.spotify.com/album/2GjplfLq8EecTxuHL1Gdid) | 3:18 |
 
-Snapshot ID: `AAAAAG49jH/fiJjoz9FYMzrSbhJ0+W7i`
+Snapshot ID: `AAAAAEzUwmXLfGxpUuz9ZnTARL3G9TH0`

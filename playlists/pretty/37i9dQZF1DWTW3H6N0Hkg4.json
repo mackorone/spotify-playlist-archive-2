@@ -1,6 +1,6 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 330178,
+  "num_followers": 330277,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "El Poder De La Cumbia",
-        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 297293,
-      "name": "Rumba Quimbumba",
-      "url": "https://open.spotify.com/track/0trX1nThTl4NfJuctzJVA3"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Nuevamente! Salsas y Cumbias",
         "url": "https://open.spotify.com/album/3Zx5e0NwrsEZdgyWwA9KWZ"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 252000,
       "name": "El Negro Jos\u00e9",
       "url": "https://open.spotify.com/track/3uGL5ejR483pQ9W1qVW8e2"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "El Poder De La Cumbia",
+        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 297293,
+      "name": "Rumba Quimbumba",
+      "url": "https://open.spotify.com/track/0trX1nThTl4NfJuctzJVA3"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Lo Mejor De Mike Laure",
-        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
-      },
-      "artists": [
-        {
-          "name": "Mike Laure",
-          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
-        }
-      ],
-      "duration_ms": 195210,
-      "name": "La Banda Borracha",
-      "url": "https://open.spotify.com/track/2PffzUyZQeg5YTqVtzMjqb"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Super Grupo Colombia",
         "url": "https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 166256,
       "name": "La Pobreza - Rebajada",
       "url": "https://open.spotify.com/track/57ix5CIFlMvpCbyfaUDWkt"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Lo Mejor De Mike Laure",
+        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
+      },
+      "artists": [
+        {
+          "name": "Mike Laure",
+          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
+        }
+      ],
+      "duration_ms": 195210,
+      "name": "La Banda Borracha",
+      "url": "https://open.spotify.com/track/2PffzUyZQeg5YTqVtzMjqb"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Sonora Santanera - Canta Sonia L\u00f3pez",
-        "url": "https://open.spotify.com/album/3uODoLPO61aIjF7a2FaDz3"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "El Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/5Nk582UShPRP9ZI2vFbJQJ"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "50 A\u00f1os de \u00c9xitos",
         "url": "https://open.spotify.com/album/3SWZLaAfmaA9OkmzbntsrS"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 181560,
       "name": "El Cable",
       "url": "https://open.spotify.com/track/3QwrlXr3N7FWhQwZEAR8q8"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Sonora Santanera - Canta Sonia L\u00f3pez",
+        "url": "https://open.spotify.com/album/3uODoLPO61aIjF7a2FaDz3"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "El Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/5Nk582UShPRP9ZI2vFbJQJ"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Cumbias de Oro: 16 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/1lFsVuX8eLCcNU6PCG8MHY"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 249079,
-      "name": "Capullo y Sorullo",
-      "url": "https://open.spotify.com/track/30y7TEQ9H7OiJC7i3sFJxu"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. III",
         "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 237960,
       "name": "Tiene Espinas El Rosal",
       "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Cumbias de Oro: 16 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/1lFsVuX8eLCcNU6PCG8MHY"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 249079,
+      "name": "Capullo y Sorullo",
+      "url": "https://open.spotify.com/track/30y7TEQ9H7OiJC7i3sFJxu"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Silbando",
-        "url": "https://open.spotify.com/album/4AOhk71w9BIDc99SEKMj6W"
-      },
-      "artists": [
-        {
-          "name": "Los Ribere\u00f1os",
-          "url": "https://open.spotify.com/artist/5Aw9mb3RWFOmi0IqxDyje9"
-        }
-      ],
-      "duration_ms": 187946,
-      "name": "Silbando",
-      "url": "https://open.spotify.com/track/5fel4W1fI1okSmp7GwRG0l"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Corazoncito Pum Pum",
         "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 207266,
       "name": "Como Decirte Adios",
       "url": "https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Silbando",
+        "url": "https://open.spotify.com/album/4AOhk71w9BIDc99SEKMj6W"
+      },
+      "artists": [
+        {
+          "name": "Los Ribere\u00f1os",
+          "url": "https://open.spotify.com/artist/5Aw9mb3RWFOmi0IqxDyje9"
+        }
+      ],
+      "duration_ms": 187946,
+      "name": "Silbando",
+      "url": "https://open.spotify.com/track/5fel4W1fI1okSmp7GwRG0l"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "15 Anos De Exitos",
-        "url": "https://open.spotify.com/album/5y8nVWoUWR774YYWRSdYEh"
-      },
-      "artists": [
-        {
-          "name": "La Luz Roja De San Marcos",
-          "url": "https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb"
-        }
-      ],
-      "duration_ms": 228571,
-      "name": "La Brujita",
-      "url": "https://open.spotify.com/track/6n8M4N16lQMUFeCHNtZIzJ"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Los Reyes de la Cumbia",
         "url": "https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw"
       },
@@ -1731,6 +1715,86 @@
       "duration_ms": 232493,
       "name": "Amor Sin Primavera",
       "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "No Te Voy A Perdonar, Volumen 4",
+        "url": "https://open.spotify.com/album/24V99ibPcTjI906jV1io1D"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 232756,
+      "name": "No Te Voy A Perdonar",
+      "url": "https://open.spotify.com/track/4LDJhbXkL9ckWAOBlBQJKG"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "15 Anos De Exitos",
+        "url": "https://open.spotify.com/album/5y8nVWoUWR774YYWRSdYEh"
+      },
+      "artists": [
+        {
+          "name": "La Luz Roja De San Marcos",
+          "url": "https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "La Brujita",
+      "url": "https://open.spotify.com/track/6n8M4N16lQMUFeCHNtZIzJ"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Guaracha Sabrosona",
+        "url": "https://open.spotify.com/album/2RmmHqe6EdibrcZfvRQkYk"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        }
+      ],
+      "duration_ms": 219088,
+      "name": "Guaracha Sabrosona",
+      "url": "https://open.spotify.com/track/1NF3HErcMkLOcyG5K1fGLL"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Los Reyes de la Cumbia",
+        "url": "https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 284160,
+      "name": "Rumba Cha Cha",
+      "url": "https://open.spotify.com/track/5OSUQtHDX5L0bW8MbLFlS7"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 228400,
+      "name": "Vida No Te Vayas",
+      "url": "https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1783,54 +1847,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Guaracha Sabrosona",
-        "url": "https://open.spotify.com/album/2RmmHqe6EdibrcZfvRQkYk"
-      },
-      "artists": [
-        {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
-        }
-      ],
-      "duration_ms": 219088,
-      "name": "Guaracha Sabrosona",
-      "url": "https://open.spotify.com/track/1NF3HErcMkLOcyG5K1fGLL"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 228400,
-      "name": "Vida No Te Vayas",
-      "url": "https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "No Te Voy A Perdonar, Volumen 4",
-        "url": "https://open.spotify.com/album/24V99ibPcTjI906jV1io1D"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 232756,
-      "name": "No Te Voy A Perdonar",
-      "url": "https://open.spotify.com/track/4LDJhbXkL9ckWAOBlBQJKG"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "El Disco de Oro para Equipos de Sonido, Vol. 2",
         "url": "https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v"
       },
@@ -1879,6 +1895,22 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/5KaHTwUkmynaHqs3GuDIVe"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
         "name": "Los A\u00f1os De Oro - La Orquesta De Siempre",
         "url": "https://open.spotify.com/album/4lxclNX6RVc7Fldg82i1tz"
       },
@@ -1911,18 +1943,18 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Los Reyes de la Cumbia",
-        "url": "https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw"
+        "name": "La Perla Colombiana 20 Exitos (Vol 1)",
+        "url": "https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu"
       },
       "artists": [
         {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+          "name": "Perla Colombiana",
+          "url": "https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14"
         }
       ],
-      "duration_ms": 284160,
-      "name": "Rumba Cha Cha",
-      "url": "https://open.spotify.com/track/5OSUQtHDX5L0bW8MbLFlS7"
+      "duration_ms": 218853,
+      "name": "Agua de vida",
+      "url": "https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1939,22 +1971,6 @@
       "duration_ms": 196573,
       "name": "Embrujo De Cumbia",
       "url": "https://open.spotify.com/track/3JmVaRxi2VpopAdImfnZLt"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "La Perla Colombiana 20 Exitos (Vol 1)",
-        "url": "https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu"
-      },
-      "artists": [
-        {
-          "name": "Perla Colombiana",
-          "url": "https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14"
-        }
-      ],
-      "duration_ms": 218853,
-      "name": "Agua de vida",
-      "url": "https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1991,6 +2007,22 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
+        "name": "Guarachando",
+        "url": "https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        }
+      ],
+      "duration_ms": 243457,
+      "name": "Coraz\u00f3n Solitario",
+      "url": "https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
         "name": "30 Mezcladitas de Oro para la Farra",
         "url": "https://open.spotify.com/album/5qEOiLqFFt7YYYDTlHbkks"
       },
@@ -2007,42 +2039,6 @@
       "duration_ms": 95360,
       "name": "La Pollera Color\u00e1",
       "url": "https://open.spotify.com/track/1tAUI1oiwjAioKJD91VgPi"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "Muy Tropical y Bailable",
-        "url": "https://open.spotify.com/album/2MFR4ywLd3BPvVDa8U52Us"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
-        }
-      ],
-      "duration_ms": 242918,
-      "name": "Tabaco y Ron",
-      "url": "https://open.spotify.com/track/5kyyzquBdNuJis2kVC4GmT"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "Pibe Cantina",
-      "url": "https://open.spotify.com/track/5KaHTwUkmynaHqs3GuDIVe"
     }
   ],
   "unique_name": "Cumbias Viejitas",

@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 11519,
+  "num_followers": 11522,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAAClcMPTD2bYDoNR5y5uyOB3",
+  "snapshot_id": "aewEAAAAAAD9xaJZWQwyFwLSmvfANrwq",
   "tracks": [
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 209893,
+      "name": "The Good",
+      "url": "https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If I Only Had A Brain",
         "url": "https://open.spotify.com/album/6WbJIiI28ywruLL8J6q1AI"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 190026,
       "name": "If I Only Had A Brain",
       "url": "https://open.spotify.com/track/1LE5di076Adc2XD45R90gJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 209893,
-      "name": "The Good",
-      "url": "https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 314765,
+      "name": "You\u2019re Not Here",
+      "url": "https://open.spotify.com/track/4kxDgHQrOP9EraTWTh3lwk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bobby Tarantino III",
         "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 140370,
       "name": "Inside (feat. Cynthia Erivo)",
       "url": "https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 314765,
-      "name": "You\u2019re Not Here",
-      "url": "https://open.spotify.com/track/4kxDgHQrOP9EraTWTh3lwk"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 212755,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Freedom - EP",
         "url": "https://open.spotify.com/album/32z9IUjENPdO1FZlgN0t8J"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 229053,
       "name": "Alright",
       "url": "https://open.spotify.com/track/6oFsUGtEpV7qZGyYpQGtJe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 212755,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI"
     },
     {
       "added_at": null,

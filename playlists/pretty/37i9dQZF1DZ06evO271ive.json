@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 30136,
+  "num_followers": 30142,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAACkJxZH1asYKcywmHdr8m/3",
+  "snapshot_id": "aewEAAAAAAB9GnLXehh7cVCh7lxnrXUA",
   "tracks": [
     {
       "added_at": null,
@@ -327,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Strips (Remix) (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/6ILm92QdF5a6w58j7xb7so"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 133659,
-      "name": "Blue Strips (feat. Sexyy Red) - Remix",
-      "url": "https://open.spotify.com/track/1GLJ9AZrhDpU32WQirWBzV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Embrace It (Remix) (feat. Sexyy Red, Flo Milli, RJ Pasin)",
         "url": "https://open.spotify.com/album/566dEBWNKAa9yh16I1GtrT"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 202434,
       "name": "Embrace It (feat. Sexyy Red, Flo Milli, RJ Pasin) - Remix",
       "url": "https://open.spotify.com/track/1KkeD458LJuw0KkU9AIfqo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Strips (Remix) (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/6ILm92QdF5a6w58j7xb7so"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 133659,
+      "name": "Blue Strips (feat. Sexyy Red) - Remix",
+      "url": "https://open.spotify.com/track/1GLJ9AZrhDpU32WQirWBzV"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 155317,
-      "name": "David Ruffin",
-      "url": "https://open.spotify.com/track/5qm8RDbGx8l6T87Y9K0Q7y"
+      "duration_ms": 169811,
+      "name": "It Bitches",
+      "url": "https://open.spotify.com/track/1QmTZzRri0uhYtXhUiAz06"
     },
     {
       "added_at": null,
@@ -712,29 +712,9 @@
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 169811,
-      "name": "It Bitches",
-      "url": "https://open.spotify.com/track/1QmTZzRri0uhYtXhUiAz06"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BOTH WAYS",
-        "url": "https://open.spotify.com/album/5takDjdhFUtCaKOX8w1McN"
-      },
-      "artists": [
-        {
-          "name": "PLUTO",
-          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "WHIM WHAMIEE (feat. Sexyy Red) [Remix]",
-      "url": "https://open.spotify.com/track/7hh2C7xVRXOCiljojwYITf"
+      "duration_ms": 155317,
+      "name": "David Ruffin",
+      "url": "https://open.spotify.com/track/5qm8RDbGx8l6T87Y9K0Q7y"
     },
     {
       "added_at": null,
@@ -755,6 +735,26 @@
       "duration_ms": 152157,
       "name": "I Like It (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/0pwd9beBkEIBrMbkRMlO35"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BOTH WAYS",
+        "url": "https://open.spotify.com/album/5takDjdhFUtCaKOX8w1McN"
+      },
+      "artists": [
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "WHIM WHAMIEE (feat. Sexyy Red) [Remix]",
+      "url": "https://open.spotify.com/track/7hh2C7xVRXOCiljojwYITf"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 
 
-847 songs - 2 day 4 hr 56 min
+849 songs - 2 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Hooked On A Feeling](https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd) | [Blue Swede](https://open.spotify.com/artist/0UpuH5U4nZ3UGGUJi0Zfbp), [Björn Skifs](https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF) | [Hooked On A Feeling](https://open.spotify.com/album/6fBMaH0IiymemwFKmn18Ze) | 2:52 | 2024-01-20 | 2025-11-30 |
 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 6:31 | 2024-03-23 | 2026-01-15 |
 | [House Of Cards](https://open.spotify.com/track/48X4D1FYOShPz2VF3YdfCF) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 5:28 | 2025-12-17 |  |
+| [How I Made My Millions](https://open.spotify.com/track/4OuUXis3HgBtLoSaYz3Brp) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [No Surprises](https://open.spotify.com/album/4IUjCg0H2fJknfSG2uGoTa) | 3:09 | 2026-04-27 |  |
 | [How Soon Is Now? \- 2011 Remaster](https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 6:48 | 2025-12-14 |  |
 | [How To Be Normal](https://open.spotify.com/track/4GzjHbMPbDwAlIZegdUkO3) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [How Are We Feeling?](https://open.spotify.com/album/7K4MJf0pCkZGoxGvYJebWD) | 4:33 | 2026-03-12 |  |
 | [How to Disappear Completely](https://open.spotify.com/track/2rtGaCAeYtmcIvuZsvgTf6) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 5:56 | 2026-03-08 |  |
@@ -511,6 +512,7 @@
 | [Over There](https://open.spotify.com/track/1RIx9psJ8CYFhP7EHevVsT) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [London 0 Hull 4](https://open.spotify.com/album/4BNELxLJPRYIEOiYGPAET9) | 2:57 | 2024-04-07 |  |
 | [Paint a Vulgar Picture \- 2011 Remaster](https://open.spotify.com/track/54RgmPfPMd9NsPqCSJNMex) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 5:36 | 2024-04-22 |  |
 | [Painted Lady](https://open.spotify.com/track/1jUFVoh8OYiKgk9EIOqOVA) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [How Are We Feeling?](https://open.spotify.com/album/7K4MJf0pCkZGoxGvYJebWD) | 3:57 | 2026-03-12 |  |
+| [Palo Alto](https://open.spotify.com/track/7obvmD1HzGaYGIURbzhvaE) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [No Surprises](https://open.spotify.com/album/4IUjCg0H2fJknfSG2uGoTa) | 3:43 | 2026-04-27 |  |
 | [Panic \- 2011 Remaster](https://open.spotify.com/track/64D3dzWyj0GpQT1AHx4kbK) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 2:20 | 2025-12-14 |  |
 | [Paranoid Android](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 6:27 | 2024-06-10 |  |
 | [Partners In Crime](https://open.spotify.com/track/2ncRH1zCER8iHXYhlHXyam) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:21 | 2024-05-11 |  |

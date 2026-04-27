@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "LVDR",
+        "url": "https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128520,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/7inZTYdMa0QXoyaIDxI612"
+    },
+    {
+      "album": {
         "name": "Entre nous",
         "url": "https://open.spotify.com/album/1LvrT5k4frdXaOy7sc66jl"
       },
@@ -1506,6 +1524,32 @@
       "duration_ms": 168813,
       "name": "Promets moi",
       "url": "https://open.spotify.com/track/6pgjSqpayCvO5PAGZTI5Eg"
+    },
+    {
+      "album": {
+        "name": "PANDEMONIUM RELOADED",
+        "url": "https://open.spotify.com/album/6KEJ0oydDeJvHiF0oq9t3J"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        },
+        {
+          "name": "Vladimir Cauchemar",
+          "url": "https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU"
+        },
+        {
+          "name": "Todiefor",
+          "url": "https://open.spotify.com/artist/55SWeOUhlJHrkcuih5J2pQ"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124615,
+      "name": "QUE DES PROBLEMES RELOADED",
+      "url": "https://open.spotify.com/track/2thUpCS5jb0UHXym10r8wE"
     },
     {
       "album": {

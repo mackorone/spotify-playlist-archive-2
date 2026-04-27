@@ -6039,6 +6039,24 @@
     },
     {
       "album": {
+        "name": "CUANDO FUERA GRANDE",
+        "url": "https://open.spotify.com/album/3Pdolcxjkl7m8M7JNE90Da"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219605,
+      "name": "CUANDO FUERA GRANDE",
+      "url": "https://open.spotify.com/track/7CB0RrvVDm3hLF7mElg6er"
+    },
+    {
+      "album": {
         "name": "Retro-Corridos, Vol. 2",
         "url": "https://open.spotify.com/album/0lzTVbPrR9DTpiX6LqJ9Gj"
       },
@@ -10145,6 +10163,28 @@
     },
     {
       "album": {
+        "name": "El De Las Artilladas 2.0",
+        "url": "https://open.spotify.com/album/6kusxkEiLLwy7l3j6ivD61"
+      },
+      "artists": [
+        {
+          "name": "Arley Perez",
+          "url": "https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ"
+        },
+        {
+          "name": "Grupo Aztteca",
+          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253954,
+      "name": "El De Las Artilladas 2.0",
+      "url": "https://open.spotify.com/track/5qfaqi8y2x6bP6ouycCmUs"
+    },
+    {
+      "album": {
         "name": "El De Las Mieles",
         "url": "https://open.spotify.com/album/4MJcGaPyYoGrZeovhjaixp"
       },
@@ -11122,6 +11162,24 @@
       "duration_ms": 143680,
       "name": "El Favorito (Chalo Araujo)",
       "url": "https://open.spotify.com/track/0gThcCWyJO0kiob48Peye5"
+    },
+    {
+      "album": {
+        "name": "El Federal De Caminos",
+        "url": "https://open.spotify.com/album/1VTxcABNEtNsJ8R4sYf2e6"
+      },
+      "artists": [
+        {
+          "name": "Sahir Montoya",
+          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "El Federal De Caminos",
+      "url": "https://open.spotify.com/track/3LICuqg5kjcNKUBsYgYWEM"
     },
     {
       "album": {
@@ -16744,6 +16802,24 @@
       "duration_ms": 230400,
       "name": "Estratega De Guerra - En Vivo",
       "url": "https://open.spotify.com/track/6Pe7zRsDX0NggD1WhnPoy2"
+    },
+    {
+      "album": {
+        "name": "10-4",
+        "url": "https://open.spotify.com/album/6lOyEI09qmGpLUL1jSb7Yp"
+      },
+      "artists": [
+        {
+          "name": "Moreno X4",
+          "url": "https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186474,
+      "name": "Estrategia",
+      "url": "https://open.spotify.com/track/1scr1n8CTdtZzwT54UY8MK"
     },
     {
       "album": {
@@ -23180,7 +23256,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 194181,
       "name": "Las Trincheras",
       "url": "https://open.spotify.com/track/0N40kKLumYgimjZtAbEpOQ"

@@ -728,7 +728,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 497606,
       "name": "Center",
       "url": "https://open.spotify.com/track/11zW4Z10CtSCzy9Wb0SFJN"
@@ -2194,7 +2194,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 325280,
       "name": "O Praise Him (All This For A King) - Live",
       "url": "https://open.spotify.com/track/2EVF3pxll6FplxIUyXGZOd"
@@ -2837,6 +2837,28 @@
     },
     {
       "album": {
+        "name": "Just That Good",
+        "url": "https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chidima",
+          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351978,
+      "name": "What A Worthy Name",
+      "url": "https://open.spotify.com/track/2lcqAh12uXNMwwQ50hpekn"
+    },
+    {
+      "album": {
         "name": "What A Worthy Name",
         "url": "https://open.spotify.com/album/3erIkPijGp3lIh2gASA55v"
       },
@@ -2852,7 +2874,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 351978,
       "name": "What A Worthy Name",
       "url": "https://open.spotify.com/track/7vDwGrFOYLFrSD213NFnr3"

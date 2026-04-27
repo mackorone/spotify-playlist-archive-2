@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,927 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,925 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 36 | [Nashville Dreaming](https://open.spotify.com/track/5kGwMLgKd2INKw2pIA52f6) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [Jan Tekstra](https://open.spotify.com/artist/1JRKQK9beR7EOaKlCetzTn) | [Nashville Dreaming](https://open.spotify.com/album/6G9a3scmgICG59VxLBj82P) | 3:54 |
 | 37 | [For Tomorrow's Sake](https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [For Tomorrow's Sake](https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi) | 3:24 |
 | 38 | [BP Love](https://open.spotify.com/track/7mDbzMJplzWKZxrula4ddy) | [Jessica Allossery](https://open.spotify.com/artist/40GxtoOMHs0ux7Wfs3C8Ob), [The Butterfly Room](https://open.spotify.com/artist/6iPsFW8Vx81G68wYEaioQA) | [BP Love](https://open.spotify.com/album/2DZbccCK8sWid5r8GCwtS2) | 2:06 |
-| 39 | [Wealthiest Man](https://open.spotify.com/track/0m5RI0qThyYnZ3QX9WQk2O) | [Erik Lindeman](https://open.spotify.com/artist/3n3KUrOk92Xm3ks9WYtrjH) | [Wealthiest Man](https://open.spotify.com/album/1SW1cbceHsjMJjHvyniK0s) | 4:53 |
-| 40 | [Granite Mills](https://open.spotify.com/track/42IDWgfyuArjYaJ8uPlLrH) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Arcadia](https://open.spotify.com/album/4S72Bm1ybpe6pwG2ni2wGH) | 3:40 |
+| 39 | [Granite Mills](https://open.spotify.com/track/42IDWgfyuArjYaJ8uPlLrH) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Arcadia](https://open.spotify.com/album/4S72Bm1ybpe6pwG2ni2wGH) | 3:40 |
+| 40 | [Wealthiest Man](https://open.spotify.com/track/0m5RI0qThyYnZ3QX9WQk2O) | [Erik Lindeman](https://open.spotify.com/artist/3n3KUrOk92Xm3ks9WYtrjH) | [Wealthiest Man](https://open.spotify.com/album/1SW1cbceHsjMJjHvyniK0s) | 4:53 |
 | 41 | [For Once](https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB) | [Aäron Koch](https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21) | [For Once](https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf) | 3:57 |
 | 42 | [Buckle Down](https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY) | [Melanie Ryan](https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4) | [Buckle Down](https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2) | 2:46 |
 | 43 | [Good Riddance & Goodbye](https://open.spotify.com/track/5qah0qyBq6iG8sRjtfPu7e) | [INA ROSE](https://open.spotify.com/artist/19ehJM5qKnIvJ1KXOnKddA) | [Good Riddance & Goodbye](https://open.spotify.com/album/4fJjNjrXI8Kg06UwA30ImI) | 3:07 |
-| 44 | [Good As Gone](https://open.spotify.com/track/3Q7e5lPNK6PJ5PqpqczWnf) | [Koen Vael](https://open.spotify.com/artist/3vLt2bP1seJHs2RGSSZ0jx) | [Good As Gone](https://open.spotify.com/album/5L7K0GaNwfTqHG5XRYjK50) | 3:45 |
-| 45 | [This Night's Alright](https://open.spotify.com/track/75Mp2Ww9Ni8GLRa8u69yYU) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Wanderings](https://open.spotify.com/album/5drfnFk0N0p4J4gN9spx5l) | 3:41 |
+| 44 | [This Night's Alright](https://open.spotify.com/track/75Mp2Ww9Ni8GLRa8u69yYU) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Wanderings](https://open.spotify.com/album/5drfnFk0N0p4J4gN9spx5l) | 3:41 |
+| 45 | [Good As Gone](https://open.spotify.com/track/3Q7e5lPNK6PJ5PqpqczWnf) | [Koen Vael](https://open.spotify.com/artist/3vLt2bP1seJHs2RGSSZ0jx) | [Good As Gone](https://open.spotify.com/album/5L7K0GaNwfTqHG5XRYjK50) | 3:45 |
 | 46 | [Let's Get This Over With](https://open.spotify.com/track/6aiq6a8jqsWwysFqq0j9IF) | [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ) | [Let's Get This Over With](https://open.spotify.com/album/5CT5iVWFtSxGf15tNMkr7j) | 2:47 |
 | 47 | [Dear Maria](https://open.spotify.com/track/474l0bzcgUT8Y6e8pul43i) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [May](https://open.spotify.com/album/0zL7IkhuOdQtIKp999gDv6) | 3:13 |
-| 48 | [Every Town](https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Every Town](https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q) | 3:53 |
-| 49 | [The Fire Inside](https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [The Fire Inside](https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp) | 3:35 |
-| 50 | [Stone Cold Sober](https://open.spotify.com/track/17E2m2bMA0Su7F2OioKA8H) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Stone Cold Sober](https://open.spotify.com/album/5aCaC8P8Oq7Oyszu1NWiK5) | 2:47 |
+| 48 | [By The Bay](https://open.spotify.com/track/5afcgRprK5Ind4L5Dk6ZuI) | [BAY](https://open.spotify.com/artist/1Abn5FOJHEdk52uZfcjpet), [Bobbie Wall](https://open.spotify.com/artist/6HW856GZA6qu5O5pmkXVsI), [aniika](https://open.spotify.com/artist/2wi4P025ZjQKNvhTpjncc3), [Yentl](https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE) | [By The Bay](https://open.spotify.com/album/7LtOrnQ2x5JQFzoSN2PZvC) | 3:24 |
+| 49 | [Every Town](https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Every Town](https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q) | 3:53 |
+| 50 | [The Fire Inside](https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [The Fire Inside](https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp) | 3:35 |
 
 Snapshot ID: `AAAAAJu18FPOjVDlIhk5Ckix4d8FBGHQ`

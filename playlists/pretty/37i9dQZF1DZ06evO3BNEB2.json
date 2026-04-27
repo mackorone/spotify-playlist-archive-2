@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40324,
+  "num_followers": 40327,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAACkcD6gqNxnOl9zkuaBV5Lp",
+  "snapshot_id": "aewEAAAAAAAVPA9waQ6MYbxdGhbu7785",
   "tracks": [
     {
       "added_at": null,
@@ -1015,30 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Attention Deficit (Explicit Version)",
-        "url": "https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Melanie Fiona",
-          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 304613,
-      "name": "Beautiful Bliss",
-      "url": "https://open.spotify.com/track/5Ys7Mcr0n8NBTFiwqbTR8m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Never Visit Me (feat. Wale & Enny)",
         "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
       },
@@ -1059,6 +1035,30 @@
       "duration_ms": 264000,
       "name": "You Never Visit Me (feat. Wale & Enny)",
       "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Attention Deficit (Explicit Version)",
+        "url": "https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Melanie Fiona",
+          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 304613,
+      "name": "Beautiful Bliss",
+      "url": "https://open.spotify.com/track/5Ys7Mcr0n8NBTFiwqbTR8m"
     }
   ],
   "unique_name": "This Is Wale",

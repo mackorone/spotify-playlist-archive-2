@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 23514,
+  "num_followers": 23523,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,26 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "Princess Hours (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu"
+      },
+      "artists": [
+        {
+          "name": "HowL",
+          "url": "https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad"
+        },
+        {
+          "name": "J.ae",
+          "url": "https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY"
+        }
+      ],
+      "duration_ms": 275342,
+      "name": "Perhaps Love",
+      "url": "https://open.spotify.com/track/73lwJ5P3ehRiqimOgWiwOE"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "A Year Out...In The Island",
         "url": "https://open.spotify.com/album/1dBnTVRHXXPUsDch7FIkV8"
       },
@@ -259,26 +279,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Princess Hours (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu"
-      },
-      "artists": [
-        {
-          "name": "HowL",
-          "url": "https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad"
-        },
-        {
-          "name": "J.ae",
-          "url": "https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY"
-        }
-      ],
-      "duration_ms": 275342,
-      "name": "Perhaps Love",
-      "url": "https://open.spotify.com/track/73lwJ5P3ehRiqimOgWiwOE"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Reply 1988 (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM"
       },
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\uc601\ubbfc",
-        "url": "https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF"
-      },
-      "artists": [
-        {
-          "name": "Tim",
-          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
-        }
-      ],
-      "duration_ms": 228946,
-      "name": "\uc0ac\ub791\ud569\ub2c8\ub2e4...",
-      "url": "https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "\ub354 \ub11b\uce20 1\uc9d1",
         "url": "https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 261630,
       "name": "\uc0ac\ub791\uc758 \ubc14\ubcf4",
       "url": "https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "\uc601\ubbfc",
+        "url": "https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF"
+      },
+      "artists": [
+        {
+          "name": "Tim",
+          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
+        }
+      ],
+      "duration_ms": 228946,
+      "name": "\uc0ac\ub791\ud569\ub2c8\ub2e4...",
+      "url": "https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "The 3rd Masterpiece",
+        "url": "https://open.spotify.com/album/78hxnlQlbAaIsaQxG3RonV"
+      },
+      "artists": [
+        {
+          "name": "SG Wannabe",
+          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
+        }
+      ],
+      "duration_ms": 298237,
+      "name": "Partner for Life",
+      "url": "https://open.spotify.com/track/1Ud6TKFPVyWIs0dmQhg5iL"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Stand Alone",
         "url": "https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i"
       },
@@ -879,38 +895,6 @@
       "duration_ms": 259213,
       "name": "\uadf8\ub140\ub97c \uc0ac\ub791\ud574\uc918\uc694",
       "url": "https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "\uc0b4\ub2e4\uac00",
-        "url": "https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe"
-      },
-      "artists": [
-        {
-          "name": "SG Wannabe",
-          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
-        }
-      ],
-      "duration_ms": 283786,
-      "name": "\uc0b4\ub2e4\uac00",
-      "url": "https://open.spotify.com/track/0qqHi5iyYkcbvCpnWwHKLl"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Pretty Girl (2nd Mini Album)",
-        "url": "https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -931,6 +915,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "Pretty Girl (2nd Mini Album)",
+        "url": "https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Traveling You",
         "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
       },
@@ -947,24 +947,8 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Like The Bible",
-        "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
-      },
-      "artists": [
-        {
-          "name": "BIG MAMA",
-          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
-        }
-      ],
-      "duration_ms": 299426,
-      "name": "\uccb4\ub150",
-      "url": "https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "The 3rd Masterpiece",
-        "url": "https://open.spotify.com/album/78hxnlQlbAaIsaQxG3RonV"
+        "name": "\uc0b4\ub2e4\uac00",
+        "url": "https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe"
       },
       "artists": [
         {
@@ -972,9 +956,9 @@
           "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
         }
       ],
-      "duration_ms": 298237,
-      "name": "Partner for Life",
-      "url": "https://open.spotify.com/track/1Ud6TKFPVyWIs0dmQhg5iL"
+      "duration_ms": 283786,
+      "name": "\uc0b4\ub2e4\uac00",
+      "url": "https://open.spotify.com/track/0qqHi5iyYkcbvCpnWwHKLl"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -991,6 +975,22 @@
       "duration_ms": 285234,
       "name": "\uac10\uc0ac",
       "url": "https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Like The Bible",
+        "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
+      },
+      "artists": [
+        {
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+        }
+      ],
+      "duration_ms": 299426,
+      "name": "\uccb4\ub150",
+      "url": "https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 265379,
-      "name": "\uc544\ub85c\ud558",
-      "url": "https://open.spotify.com/track/1uRB9bYGCSvLSsF4e65UYj"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "\uc0b4\ub2e4\uac00",
         "url": "https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 243026,
       "name": "\uc8c4\uc640 \ubc8c (\u7f6a\uc640 \u7f70)",
       "url": "https://open.spotify.com/track/2yfD1eKDVlNRxDUE5Q1n3Y"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 265379,
+      "name": "\uc544\ub85c\ud558",
+      "url": "https://open.spotify.com/track/1uRB9bYGCSvLSsF4e65UYj"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "Enter The Dragon",
+        "url": "https://open.spotify.com/album/1XhlvC8ZkjEu5gsUCtWRfR"
+      },
+      "artists": [
+        {
+          "name": "JTL",
+          "url": "https://open.spotify.com/artist/1QxDhdpQDAxevRaOWUDjPC"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "My Lecon",
+      "url": "https://open.spotify.com/track/3pVvsgtpCoSajYhDKavuXm"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "The Jadu 3",
         "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
       },
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Enter The Dragon",
-        "url": "https://open.spotify.com/album/1XhlvC8ZkjEu5gsUCtWRfR"
-      },
-      "artists": [
-        {
-          "name": "JTL",
-          "url": "https://open.spotify.com/artist/1QxDhdpQDAxevRaOWUDjPC"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "My Lecon",
-      "url": "https://open.spotify.com/track/3pVvsgtpCoSajYhDKavuXm"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Dropping the Tears",
         "url": "https://open.spotify.com/album/2LPszV62iNiLadCZ2J0kol"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 257226,
       "name": "Dropping the Tears",
       "url": "https://open.spotify.com/track/0WHzRzinRoUzW7vX7xhSLD"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "With L.O.V.E Brown Eyed Girls",
+        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "With L.O.V.E Brown Eyed Girls",
-        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
+        "name": "It's Different",
+        "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
       },
       "artists": [
         {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+          "name": "GUMMY",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 217626,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
+      "duration_ms": 271893,
+      "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
+      "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1203,22 +1219,6 @@
       "duration_ms": 216323,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "It's Different",
-        "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
-      },
-      "artists": [
-        {
-          "name": "GUMMY",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        }
-      ],
-      "duration_ms": 271893,
-      "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
-      "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1259,6 +1259,38 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq"
+      },
+      "artists": [
+        {
+          "name": "Tim",
+          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
+        }
+      ],
+      "duration_ms": 246613,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Like Them",
+        "url": "https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek"
+      },
+      "artists": [
+        {
+          "name": "GUMMY",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 281800,
+      "name": "We Should've Been Friends",
+      "url": "https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "\ud3ec\uc9c0\uc158 \uc2a4\ud398\uc15c I LOVE YOU",
         "url": "https://open.spotify.com/album/2KvPzTe2rEACWx6nlQEebv"
       },
@@ -1287,38 +1319,6 @@
       "duration_ms": 246333,
       "name": "Come Back To Me",
       "url": "https://open.spotify.com/track/4ezlt6ciGxes2ctqphnKVU"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Like Them",
-        "url": "https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek"
-      },
-      "artists": [
-        {
-          "name": "GUMMY",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        }
-      ],
-      "duration_ms": 281800,
-      "name": "We Should've Been Friends",
-      "url": "https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq"
-      },
-      "artists": [
-        {
-          "name": "Tim",
-          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
-        }
-      ],
-      "duration_ms": 246613,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Lovers in Paris (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0e2VSNZvj1vIOmthsh7Qii"
-      },
-      "artists": [
-        {
-          "name": "Jo Sung Mo",
-          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
-        }
-      ],
-      "duration_ms": 249352,
-      "name": "\ub108\uc758 \uacc1\uc73c\ub85c",
-      "url": "https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Comfort",
         "url": "https://open.spotify.com/album/63mXEu4xtlyEYDxBrs9EVP"
       },
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "Lovers in Paris (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0e2VSNZvj1vIOmthsh7Qii"
+      },
+      "artists": [
+        {
+          "name": "Jo Sung Mo",
+          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
+        }
+      ],
+      "duration_ms": 249352,
+      "name": "\ub108\uc758 \uacc1\uc73c\ub85c",
+      "url": "https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "BLAQ Style",
         "url": "https://open.spotify.com/album/7nEtGoI32qBOQ1VinD31VF"
       },
@@ -1403,22 +1403,6 @@
       "duration_ms": 200556,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0Q2uAamKg36f2KH0NSepT7"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Gugip: C.J.2002",
-        "url": "https://open.spotify.com/album/706OvChSHJpCoIeyfpZQEs"
-      },
-      "artists": [
-        {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
-        }
-      ],
-      "duration_ms": 260480,
-      "name": "Seulpun honjatmal",
-      "url": "https://open.spotify.com/track/0JRVGUATX7IKaKVwsgExmj"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1439,18 +1423,38 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d"
+        "name": "Gugip: C.J.2002",
+        "url": "https://open.spotify.com/album/706OvChSHJpCoIeyfpZQEs"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 260480,
+      "name": "Seulpun honjatmal",
+      "url": "https://open.spotify.com/track/0JRVGUATX7IKaKVwsgExmj"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Monologue",
+        "url": "https://open.spotify.com/album/2vdtU1KZ2owCBxjBC5WebE"
       },
       "artists": [
         {
           "name": "Kim Dong Ryul",
           "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+        },
+        {
+          "name": "ALEX",
+          "url": "https://open.spotify.com/artist/2nEKRTE6la5urCEnpNnMKZ"
         }
       ],
-      "duration_ms": 287741,
-      "name": "I say \"I love you\" again",
-      "url": "https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG"
+      "duration_ms": 213813,
+      "name": "Like A Child (feat. ALEX)",
+      "url": "https://open.spotify.com/track/6ANNMivJIkzYXzh8u76IsE"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1519,22 +1523,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Monologue",
-        "url": "https://open.spotify.com/album/2vdtU1KZ2owCBxjBC5WebE"
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d"
       },
       "artists": [
         {
           "name": "Kim Dong Ryul",
           "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
-        },
-        {
-          "name": "ALEX",
-          "url": "https://open.spotify.com/artist/2nEKRTE6la5urCEnpNnMKZ"
         }
       ],
-      "duration_ms": 213813,
-      "name": "Like A Child (feat. ALEX)",
-      "url": "https://open.spotify.com/track/6ANNMivJIkzYXzh8u76IsE"
+      "duration_ms": 287741,
+      "name": "I say \"I love you\" again",
+      "url": "https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Op. 4",
-        "url": "https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F"
-      },
-      "artists": [
-        {
-          "name": "Lena Park",
-          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
-        }
-      ],
-      "duration_ms": 337066,
-      "name": "In dreams",
-      "url": "https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Hug",
         "url": "https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 207426,
       "name": "Hi~",
       "url": "https://open.spotify.com/track/0uK6mPSkTMteghVWeMDMHG"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Op. 4",
+        "url": "https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F"
+      },
+      "artists": [
+        {
+          "name": "Lena Park",
+          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
+        }
+      ],
+      "duration_ms": 337066,
+      "name": "In dreams",
+      "url": "https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq"
     },
     {
       "added_at": "2024-08-05 16:59:31",

@@ -4,7 +4,7 @@
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-169 songs - 9 hr 41 min
+170 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Coffee Shop Boy](https://open.spotify.com/track/1iMItSsYpJoU0xzxwyNlXp) | [Zoe Hess](https://open.spotify.com/artist/3LGk1fSWkZLW6sCMGt8OJT) | [Coffee Shop Boy](https://open.spotify.com/album/3tOEPACvWdVTjBW170N7AZ) | 3:27 | 2025-06-27 | 2025-10-03 |
 | [Colourblind](https://open.spotify.com/track/290x9rCh2EWcJ9YKpfiI9z) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:29 | 2025-06-27 | 2026-04-21 |
 | [Company Store](https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Queen Of My Castle](https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM) | 2:59 | 2025-06-27 |  |
-| [Complicated](https://open.spotify.com/track/6hYqOeI5ooN5ZRnxDAnfiZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Complicated](https://open.spotify.com/album/2FnXCtCNVWMnLHgr43O1FD) | 2:41 | 2025-06-27 |  |
+| [Complicated](https://open.spotify.com/track/6hYqOeI5ooN5ZRnxDAnfiZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Complicated](https://open.spotify.com/album/2FnXCtCNVWMnLHgr43O1FD) | 2:41 | 2025-06-27 | 2026-04-27 |
 | [Conversation](https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Conversation](https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp) | 3:06 | 2026-03-30 |  |
 | [Count On Me](https://open.spotify.com/track/37t0GbjVpnXSvl1P4uyNfN) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Count On Me](https://open.spotify.com/album/11TcP4qnRQpaaP1zO6WgL2) | 3:28 | 2025-10-02 |  |
 | [Cruel Heart](https://open.spotify.com/track/4D7tOyEvUdzNvkDXuD0PQW) | [Novastar](https://open.spotify.com/artist/3r2qdoM2Ryp8aBb3S3qIG1) | [In The Cold Light of Monday](https://open.spotify.com/album/4dcllgpFwPz84zxxv0sC4i) | 2:51 | 2025-06-27 | 2025-09-04 |
@@ -175,6 +175,7 @@
 | [Woman](https://open.spotify.com/track/5q5bSQnrPsdxvmb17kAIxU) | [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Woman](https://open.spotify.com/album/3rd9u0gRWSDMCkO7UcF0jV) | 4:08 | 2026-04-20 |  |
 | [You](https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [You](https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs) | 3:00 | 2025-06-27 | 2025-10-03 |
 | [You Give Me Something \(Refreshed\)](https://open.spotify.com/track/6err1pHvebxSOOUQHVjNzH) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [You Give Me Something \(Refreshed\)](https://open.spotify.com/album/4YSlEXTbbqZW2BJZa7slKV) | 4:03 | 2025-06-27 | 2026-03-03 |
+| [You Got Me Hurt \- Acoustic](https://open.spotify.com/track/4AU7JPfolYuSGHpmCMyD3D) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [You Got Me Hurt \(Acoustic\)](https://open.spotify.com/album/6K8sqso55MSlz26PYW7yI3) | 3:34 | 2026-04-20 |  |
 | [Younger Days](https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Bungalow](https://open.spotify.com/album/4XhG9K7809PaC7aGN7nsE6) | 3:31 | 2025-10-31 |  |
 | [Your Spirit \- From "Team Spirit: Next Gen"](https://open.spotify.com/track/6WlW10QVG34BDyAZOCXL4N) | [OSKI](https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ) | [Your Spirit \(From "Team Spirit: Next Gen"\)](https://open.spotify.com/album/7KE4vswEm8fYEq3WKmQucw) | 3:31 | 2025-12-05 |  |
 

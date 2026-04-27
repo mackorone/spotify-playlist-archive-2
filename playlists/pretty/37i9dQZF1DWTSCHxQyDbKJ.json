@@ -1,6 +1,6 @@
 {
   "description": "Necessities from LGBTQIA+ artists. Cover: Honey Dijon",
-  "num_followers": 34166,
+  "num_followers": 34167,
   "original_name": "GLOW UK & Ireland ",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-04-13 23:00:26",
       "album": {
-        "name": "Recognise",
-        "url": "https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg"
-      },
-      "artists": [
-        {
-          "name": "Shura",
-          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
-        }
-      ],
-      "duration_ms": 269280,
-      "name": "Recognise",
-      "url": "https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h"
-    },
-    {
-      "added_at": "2026-04-13 23:00:26",
-      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 205293,
       "name": "Anything",
       "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
+    },
+    {
+      "added_at": "2026-04-13 23:00:26",
+      "album": {
+        "name": "Recognise",
+        "url": "https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg"
+      },
+      "artists": [
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        }
+      ],
+      "duration_ms": 269280,
+      "name": "Recognise",
+      "url": "https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h"
     },
     {
       "added_at": "2026-04-13 23:00:26",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-04-13 23:00:26",
       "album": {
-        "name": "In Limerence",
-        "url": "https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO"
-      },
-      "artists": [
-        {
-          "name": "Jacob Alon",
-          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
-        }
-      ],
-      "duration_ms": 272693,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/5dHinMVf9FlNrn7rTj3O5n"
-    },
-    {
-      "added_at": "2026-04-13 23:00:26",
-      "album": {
         "name": "PROCESS",
         "url": "https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5"
       },
@@ -1163,18 +1147,34 @@
     {
       "added_at": "2026-04-13 23:00:26",
       "album": {
-        "name": "I Wantchu",
-        "url": "https://open.spotify.com/album/0iMPteFFgQ5vdyayRjpIE6"
+        "name": "This World Fucking Sucks",
+        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
       },
       "artists": [
         {
-          "name": "Ray Laur\u00e9l",
-          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
         }
       ],
-      "duration_ms": 170549,
-      "name": "I Wantchu",
-      "url": "https://open.spotify.com/track/3N8xI9VR294kF43yVt1ANn"
+      "duration_ms": 65519,
+      "name": "Sex Metal",
+      "url": "https://open.spotify.com/track/5OVGnTQ1sQDnb00RmQWkBw"
+    },
+    {
+      "added_at": "2026-04-13 23:00:26",
+      "album": {
+        "name": "In Limerence",
+        "url": "https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 272693,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/5dHinMVf9FlNrn7rTj3O5n"
     },
     {
       "added_at": "2026-04-13 23:00:26",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2026-04-13 23:00:26",
       "album": {
-        "name": "This World Fucking Sucks",
-        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
+        "name": "I Wantchu",
+        "url": "https://open.spotify.com/album/0iMPteFFgQ5vdyayRjpIE6"
       },
       "artists": [
         {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
         }
       ],
-      "duration_ms": 65519,
-      "name": "Sex Metal",
-      "url": "https://open.spotify.com/track/5OVGnTQ1sQDnb00RmQWkBw"
+      "duration_ms": 170549,
+      "name": "I Wantchu",
+      "url": "https://open.spotify.com/track/3N8xI9VR294kF43yVt1ANn"
     },
     {
       "added_at": "2026-04-13 23:00:26",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2026-04-13 23:00:26",
       "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/6t0KIdBeZEvQrTtJoiCUCe"
+      },
+      "artists": [
+        {
+          "name": "Lucyvivor",
+          "url": "https://open.spotify.com/artist/1cEzgHSv07ZJvU2PtVa17g"
+        }
+      ],
+      "duration_ms": 171433,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/3DHMdOGskwcdXSSymYJoOn"
+    },
+    {
+      "added_at": "2026-04-13 23:00:26",
+      "album": {
         "name": "I Got Too Sad For My Friends",
         "url": "https://open.spotify.com/album/2PTF4EW8kJIeib3cQ87lJk"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 209417,
       "name": "69",
       "url": "https://open.spotify.com/track/7HThqZsl1l1YshgeZaoBRD"
-    },
-    {
-      "added_at": "2026-04-13 23:00:26",
-      "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/6t0KIdBeZEvQrTtJoiCUCe"
-      },
-      "artists": [
-        {
-          "name": "Lucyvivor",
-          "url": "https://open.spotify.com/artist/1cEzgHSv07ZJvU2PtVa17g"
-        }
-      ],
-      "duration_ms": 171433,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/3DHMdOGskwcdXSSymYJoOn"
     },
     {
       "added_at": "2026-04-13 23:00:26",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-04-13 23:00:26",
       "album": {
-        "name": "DONT MAKE THIS WEIRD",
-        "url": "https://open.spotify.com/album/4H0jM5yZsfEpdd9RBqUBbs"
-      },
-      "artists": [
-        {
-          "name": "DONT MAKE THIS WEIRD",
-          "url": "https://open.spotify.com/artist/66tkgyJ2o4lzRX8G2zlN1p"
-        }
-      ],
-      "duration_ms": 170905,
-      "name": "DONT MAKE THIS WEIRD",
-      "url": "https://open.spotify.com/track/1ehrv4HqEm5kqAGDcwSCzS"
-    },
-    {
-      "added_at": "2026-04-13 23:00:26",
-      "album": {
         "name": "Isn't he pretty",
         "url": "https://open.spotify.com/album/4qOvuUumGNpB3CYasKlXPF"
       },
@@ -1643,18 +1627,34 @@
     {
       "added_at": "2026-04-13 23:00:26",
       "album": {
-        "name": "go!",
-        "url": "https://open.spotify.com/album/1Jg6CxHmAxmkf4CE8b8x17"
+        "name": "DONT MAKE THIS WEIRD",
+        "url": "https://open.spotify.com/album/4H0jM5yZsfEpdd9RBqUBbs"
       },
       "artists": [
         {
-          "name": "Freddie Lewis",
-          "url": "https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y"
+          "name": "DONT MAKE THIS WEIRD",
+          "url": "https://open.spotify.com/artist/66tkgyJ2o4lzRX8G2zlN1p"
         }
       ],
-      "duration_ms": 211469,
-      "name": "go!",
-      "url": "https://open.spotify.com/track/7CkimUHw3vqjfJmxXcq2ka"
+      "duration_ms": 170905,
+      "name": "DONT MAKE THIS WEIRD",
+      "url": "https://open.spotify.com/track/1ehrv4HqEm5kqAGDcwSCzS"
+    },
+    {
+      "added_at": "2026-04-13 23:00:26",
+      "album": {
+        "name": "heaven/jealous",
+        "url": "https://open.spotify.com/album/3A3Kt4qO9NQL6gYuizHZdr"
+      },
+      "artists": [
+        {
+          "name": "Orchid",
+          "url": "https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV"
+        }
+      ],
+      "duration_ms": 176718,
+      "name": "heaven/jealous",
+      "url": "https://open.spotify.com/track/1esTX6gDLMuTfsCYp0AcjN"
     },
     {
       "added_at": "2026-04-13 23:00:26",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2026-04-13 23:00:26",
       "album": {
-        "name": "heaven/jealous",
-        "url": "https://open.spotify.com/album/3A3Kt4qO9NQL6gYuizHZdr"
+        "name": "go!",
+        "url": "https://open.spotify.com/album/1Jg6CxHmAxmkf4CE8b8x17"
       },
       "artists": [
         {
-          "name": "Orchid",
-          "url": "https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV"
+          "name": "Freddie Lewis",
+          "url": "https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y"
         }
       ],
-      "duration_ms": 176718,
-      "name": "heaven/jealous",
-      "url": "https://open.spotify.com/track/1esTX6gDLMuTfsCYp0AcjN"
+      "duration_ms": 211469,
+      "name": "go!",
+      "url": "https://open.spotify.com/track/7CkimUHw3vqjfJmxXcq2ka"
     },
     {
       "added_at": "2026-04-13 23:00:26",

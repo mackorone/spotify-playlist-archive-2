@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Willow Avalon",
-  "num_followers": 313331,
+  "num_followers": 313349,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-04-17 04:00:28",
       "album": {
+        "name": "Trail Of Flowers",
+        "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 160195,
+      "name": "Money Train",
+      "url": "https://open.spotify.com/track/115YPahM5rL48iEUqVRAuG"
+    },
+    {
+      "added_at": "2026-04-17 04:00:28",
+      "album": {
         "name": "Tumbleweeds and Chewing Gum",
         "url": "https://open.spotify.com/album/06POsA4cWPeLqwEZRg1rJl"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 159330,
       "name": "Tumbleweeds and Chewing Gum",
       "url": "https://open.spotify.com/track/6KvzXZ70HTT3sLd9iYxZJY"
-    },
-    {
-      "added_at": "2026-04-17 04:00:28",
-      "album": {
-        "name": "Trail Of Flowers",
-        "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 160195,
-      "name": "Money Train",
-      "url": "https://open.spotify.com/track/115YPahM5rL48iEUqVRAuG"
     },
     {
       "added_at": "2026-04-17 04:00:28",
@@ -583,38 +583,6 @@
     {
       "added_at": "2026-04-17 04:00:28",
       "album": {
-        "name": "You Make Sense To Me",
-        "url": "https://open.spotify.com/album/4WpCPGJZZfQACuLkCxtfAn"
-      },
-      "artists": [
-        {
-          "name": "Alex Lambert",
-          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
-        }
-      ],
-      "duration_ms": 235804,
-      "name": "You Make Sense To Me",
-      "url": "https://open.spotify.com/track/0H2E2WuQocHwRU7hHhZ1Sz"
-    },
-    {
-      "added_at": "2026-04-17 04:00:28",
-      "album": {
-        "name": "Welcome to Hard Times",
-        "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 185754,
-      "name": "Welcome to Hard Times",
-      "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
-    },
-    {
-      "added_at": "2026-04-17 04:00:28",
-      "album": {
         "name": "Lavender Cowboy",
         "url": "https://open.spotify.com/album/6zeA4GCl9aHODp1dB4yo8w"
       },
@@ -635,18 +603,34 @@
     {
       "added_at": "2026-04-17 04:00:28",
       "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+        "name": "Homemade Margaritas",
+        "url": "https://open.spotify.com/album/2PHPUs6EfIEsC5p3p23mPY"
       },
       "artists": [
         {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+          "name": "Thomas Csorba",
+          "url": "https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH"
         }
       ],
-      "duration_ms": 242493,
-      "name": "Mint Condition",
-      "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
+      "duration_ms": 191768,
+      "name": "Homemade Margaritas",
+      "url": "https://open.spotify.com/track/0p0z1o9ZZbzF99EdAhvXQ2"
+    },
+    {
+      "added_at": "2026-04-17 04:00:28",
+      "album": {
+        "name": "Welcome to Hard Times",
+        "url": "https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 185754,
+      "name": "Welcome to Hard Times",
+      "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
     },
     {
       "added_at": "2026-04-17 04:00:28",
@@ -667,18 +651,34 @@
     {
       "added_at": "2026-04-17 04:00:28",
       "album": {
-        "name": "Homemade Margaritas",
-        "url": "https://open.spotify.com/album/2PHPUs6EfIEsC5p3p23mPY"
+        "name": "You Make Sense To Me",
+        "url": "https://open.spotify.com/album/4WpCPGJZZfQACuLkCxtfAn"
       },
       "artists": [
         {
-          "name": "Thomas Csorba",
-          "url": "https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH"
+          "name": "Alex Lambert",
+          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
         }
       ],
-      "duration_ms": 191768,
-      "name": "Homemade Margaritas",
-      "url": "https://open.spotify.com/track/0p0z1o9ZZbzF99EdAhvXQ2"
+      "duration_ms": 235804,
+      "name": "You Make Sense To Me",
+      "url": "https://open.spotify.com/track/0H2E2WuQocHwRU7hHhZ1Sz"
+    },
+    {
+      "added_at": "2026-04-17 04:00:28",
+      "album": {
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 242493,
+      "name": "Mint Condition",
+      "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
     },
     {
       "added_at": "2026-04-17 04:00:28",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-04-17 04:00:28",
       "album": {
-        "name": "The Returner",
-        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 230920,
-      "name": "The Returner",
-      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
-    },
-    {
-      "added_at": "2026-04-17 04:00:28",
-      "album": {
         "name": "I Will Not Be Afraid",
         "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 195320,
       "name": "Blood on Your Bootheels",
       "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
+    },
+    {
+      "added_at": "2026-04-17 04:00:28",
+      "album": {
+        "name": "The Returner",
+        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 230920,
+      "name": "The Returner",
+      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
     },
     {
       "added_at": "2026-04-17 04:00:28",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-04-17 04:00:28",
       "album": {
+        "name": "Under You",
+        "url": "https://open.spotify.com/album/0fOqE6VqVqhnUBT0Ebkk86"
+      },
+      "artists": [
+        {
+          "name": "Andrew Sa",
+          "url": "https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07"
+        }
+      ],
+      "duration_ms": 228781,
+      "name": "Under You",
+      "url": "https://open.spotify.com/track/6tXqo7GYIZKkRw1FYYChk9"
+    },
+    {
+      "added_at": "2026-04-17 04:00:28",
+      "album": {
         "name": "Trophy",
         "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
       },
@@ -927,22 +943,6 @@
     {
       "added_at": "2026-04-17 04:00:28",
       "album": {
-        "name": "Lost in a Dream",
-        "url": "https://open.spotify.com/album/0lG1BLwuidgVuiAHmQYmJq"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Lewis",
-          "url": "https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw"
-        }
-      ],
-      "duration_ms": 287058,
-      "name": "Hold The Door",
-      "url": "https://open.spotify.com/track/2DRuowrzKYz6tmTmGPf97X"
-    },
-    {
-      "added_at": "2026-04-17 04:00:28",
-      "album": {
         "name": "With Me in the Summer",
         "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
       },
@@ -959,18 +959,18 @@
     {
       "added_at": "2026-04-17 04:00:28",
       "album": {
-        "name": "Riddy Arman",
-        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
+        "name": "Lost in a Dream",
+        "url": "https://open.spotify.com/album/0lG1BLwuidgVuiAHmQYmJq"
       },
       "artists": [
         {
-          "name": "Riddy Arman",
-          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
+          "name": "Cassandra Lewis",
+          "url": "https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw"
         }
       ],
-      "duration_ms": 194306,
-      "name": "Too Late to Write a Love Song",
-      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
+      "duration_ms": 287058,
+      "name": "Hold The Door",
+      "url": "https://open.spotify.com/track/2DRuowrzKYz6tmTmGPf97X"
     },
     {
       "added_at": "2026-04-17 04:00:28",
@@ -991,18 +991,18 @@
     {
       "added_at": "2026-04-17 04:00:28",
       "album": {
-        "name": "Under You",
-        "url": "https://open.spotify.com/album/0fOqE6VqVqhnUBT0Ebkk86"
+        "name": "Riddy Arman",
+        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
       },
       "artists": [
         {
-          "name": "Andrew Sa",
-          "url": "https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07"
+          "name": "Riddy Arman",
+          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
         }
       ],
-      "duration_ms": 228781,
-      "name": "Under You",
-      "url": "https://open.spotify.com/track/6tXqo7GYIZKkRw1FYYChk9"
+      "duration_ms": 194306,
+      "name": "Too Late to Write a Love Song",
+      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
     },
     {
       "added_at": "2026-04-17 04:00:28",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-04-17 04:00:28",
       "album": {
-        "name": "Bad Luck",
-        "url": "https://open.spotify.com/album/7hCI25fJEZKVNU0E2uF0Or"
-      },
-      "artists": [
-        {
-          "name": "Cactus Lee",
-          "url": "https://open.spotify.com/artist/6eAIPGye8l6QohTSNNVUD4"
-        }
-      ],
-      "duration_ms": 176117,
-      "name": "Bad Luck",
-      "url": "https://open.spotify.com/track/0ccPLt8AT7dmaapCRevKHP"
-    },
-    {
-      "added_at": "2026-04-17 04:00:28",
-      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
       },
@@ -1071,22 +1055,18 @@
     {
       "added_at": "2026-04-17 04:00:28",
       "album": {
-        "name": "Havin' A Talk",
-        "url": "https://open.spotify.com/album/2x4IrX8bcXcwZvj4BVQXUP"
+        "name": "The Lost Outlaw Album",
+        "url": "https://open.spotify.com/album/1L7I8uL1xroYdwUp2jxqGB"
       },
       "artists": [
         {
-          "name": "Melissa Carper",
-          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
-        },
-        {
-          "name": "Theo Lawrence",
-          "url": "https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2"
+          "name": "Hoover",
+          "url": "https://open.spotify.com/artist/4RXI4V3ta2nRbDoB5jvMED"
         }
       ],
-      "duration_ms": 206480,
-      "name": "The Last To Know",
-      "url": "https://open.spotify.com/track/65965vBWT1mhOGat6GodGa"
+      "duration_ms": 165088,
+      "name": "I'm the Loneliest Man I Ever Met",
+      "url": "https://open.spotify.com/track/3e7nvPSyIxNSlJ3icrKVfT"
     },
     {
       "added_at": "2026-04-17 04:00:28",
@@ -1111,18 +1091,38 @@
     {
       "added_at": "2026-04-17 04:00:28",
       "album": {
-        "name": "The Lost Outlaw Album",
-        "url": "https://open.spotify.com/album/1L7I8uL1xroYdwUp2jxqGB"
+        "name": "Havin' A Talk",
+        "url": "https://open.spotify.com/album/2x4IrX8bcXcwZvj4BVQXUP"
       },
       "artists": [
         {
-          "name": "Hoover",
-          "url": "https://open.spotify.com/artist/4RXI4V3ta2nRbDoB5jvMED"
+          "name": "Melissa Carper",
+          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
+        },
+        {
+          "name": "Theo Lawrence",
+          "url": "https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2"
         }
       ],
-      "duration_ms": 165088,
-      "name": "I'm the Loneliest Man I Ever Met",
-      "url": "https://open.spotify.com/track/3e7nvPSyIxNSlJ3icrKVfT"
+      "duration_ms": 206480,
+      "name": "The Last To Know",
+      "url": "https://open.spotify.com/track/65965vBWT1mhOGat6GodGa"
+    },
+    {
+      "added_at": "2026-04-17 04:00:28",
+      "album": {
+        "name": "Bad Luck",
+        "url": "https://open.spotify.com/album/7hCI25fJEZKVNU0E2uF0Or"
+      },
+      "artists": [
+        {
+          "name": "Cactus Lee",
+          "url": "https://open.spotify.com/artist/6eAIPGye8l6QohTSNNVUD4"
+        }
+      ],
+      "duration_ms": 176117,
+      "name": "Bad Luck",
+      "url": "https://open.spotify.com/track/0ccPLt8AT7dmaapCRevKHP"
     },
     {
       "added_at": "2026-04-17 04:00:28",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-04-17 04:00:28",
       "album": {
-        "name": "Tom Turkey (Alternate Version)",
-        "url": "https://open.spotify.com/album/19xJ5beC0Fmqc9pRl71Sfs"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 234656,
-      "name": "Tom Turkey - Alternate Version",
-      "url": "https://open.spotify.com/track/2dYWKTtBO7YxKNHJ6yFk05"
-    },
-    {
-      "added_at": "2026-04-17 04:00:28",
-      "album": {
         "name": "The Secret Sisters",
         "url": "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 143160,
       "name": "My Heart Skips A Beat",
       "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
+    },
+    {
+      "added_at": "2026-04-17 04:00:28",
+      "album": {
+        "name": "Tom Turkey (Alternate Version)",
+        "url": "https://open.spotify.com/album/19xJ5beC0Fmqc9pRl71Sfs"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 234656,
+      "name": "Tom Turkey - Alternate Version",
+      "url": "https://open.spotify.com/track/2dYWKTtBO7YxKNHJ6yFk05"
     },
     {
       "added_at": "2026-04-17 04:00:28",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-04-17 04:00:28",
       "album": {
+        "name": "Ramblin' Soul",
+        "url": "https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA"
+      },
+      "artists": [
+        {
+          "name": "Melissa Carper",
+          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "From What I Recall",
+      "url": "https://open.spotify.com/track/4vCu2i1WDukiV06xQUnCMj"
+    },
+    {
+      "added_at": "2026-04-17 04:00:28",
+      "album": {
         "name": "Cherie Vico",
         "url": "https://open.spotify.com/album/0LqNcJ3PKmf7oReNRLJ22I"
       },
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2026-04-17 04:00:28",
       "album": {
-        "name": "Ramblin' Soul",
-        "url": "https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA"
+        "name": "Fuck With Sad Girls",
+        "url": "https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni"
       },
       "artists": [
         {
-          "name": "Melissa Carper",
-          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
+          "name": "Bonnie Whitmore",
+          "url": "https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9"
         }
       ],
-      "duration_ms": 253080,
-      "name": "From What I Recall",
-      "url": "https://open.spotify.com/track/4vCu2i1WDukiV06xQUnCMj"
+      "duration_ms": 278546,
+      "name": "Fuck With Sad Girls",
+      "url": "https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV"
     },
     {
       "added_at": "2026-04-17 04:00:28",
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2026-04-17 04:00:28",
       "album": {
-        "name": "Fuck With Sad Girls",
-        "url": "https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni"
+        "name": "Runnin'",
+        "url": "https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv"
       },
       "artists": [
         {
-          "name": "Bonnie Whitmore",
-          "url": "https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9"
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
         }
       ],
-      "duration_ms": 278546,
-      "name": "Fuck With Sad Girls",
-      "url": "https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV"
+      "duration_ms": 237786,
+      "name": "Runnin'",
+      "url": "https://open.spotify.com/track/2EM8Ann4TIcFjnVtNpkT8D"
     },
     {
       "added_at": "2026-04-17 04:00:28",
@@ -1331,18 +1347,18 @@
     {
       "added_at": "2026-04-17 04:00:28",
       "album": {
-        "name": "Runnin'",
-        "url": "https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv"
+        "name": "En Los Shadows de San Antone",
+        "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
       },
       "artists": [
         {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+          "name": "Garrett T. Capps",
+          "url": "https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv"
         }
       ],
-      "duration_ms": 237786,
-      "name": "Runnin'",
-      "url": "https://open.spotify.com/track/2EM8Ann4TIcFjnVtNpkT8D"
+      "duration_ms": 185216,
+      "name": "Goodbye San Antonio, Hello Amsterdam",
+      "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
     },
     {
       "added_at": "2026-04-17 04:00:28",
@@ -1379,22 +1395,6 @@
       "duration_ms": 209880,
       "name": "Playing Old Games",
       "url": "https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1"
-    },
-    {
-      "added_at": "2026-04-17 04:00:28",
-      "album": {
-        "name": "En Los Shadows de San Antone",
-        "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
-      },
-      "artists": [
-        {
-          "name": "Garrett T. Capps",
-          "url": "https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv"
-        }
-      ],
-      "duration_ms": 185216,
-      "name": "Goodbye San Antonio, Hello Amsterdam",
-      "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
     },
     {
       "added_at": "2026-04-17 04:00:28",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-04-17 04:00:28",
       "album": {
-        "name": "Swimming Alone",
-        "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
-      },
-      "artists": [
-        {
-          "name": "Liz Rose",
-          "url": "https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT"
-        }
-      ],
-      "duration_ms": 199339,
-      "name": "Yellow Room",
-      "url": "https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0"
-    },
-    {
-      "added_at": "2026-04-17 04:00:28",
-      "album": {
         "name": "Margo",
         "url": "https://open.spotify.com/album/4tSX4JSEeC1bedmrv0KjJk"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 223713,
       "name": "Trouble Me Anytime",
       "url": "https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k"
+    },
+    {
+      "added_at": "2026-04-17 04:00:28",
+      "album": {
+        "name": "Swimming Alone",
+        "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
+      },
+      "artists": [
+        {
+          "name": "Liz Rose",
+          "url": "https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT"
+        }
+      ],
+      "duration_ms": 199339,
+      "name": "Yellow Room",
+      "url": "https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0"
     },
     {
       "added_at": "2026-04-17 04:00:28",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-04-17 04:00:28",
       "album": {
-        "name": "Every Single Star",
-        "url": "https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2"
-      },
-      "artists": [
-        {
-          "name": "Dori Freeman",
-          "url": "https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt"
-        }
-      ],
-      "duration_ms": 163906,
-      "name": "That's How I Feel",
-      "url": "https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U"
-    },
-    {
-      "added_at": "2026-04-17 04:00:28",
-      "album": {
         "name": "You Don't Own Me",
         "url": "https://open.spotify.com/album/7BOSDXG0al6FLZZyUqGIBe"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 168648,
       "name": "You Don't Own Me",
       "url": "https://open.spotify.com/track/6ZVCTPK8A83OogGsI0Dxjl"
+    },
+    {
+      "added_at": "2026-04-17 04:00:28",
+      "album": {
+        "name": "Every Single Star",
+        "url": "https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2"
+      },
+      "artists": [
+        {
+          "name": "Dori Freeman",
+          "url": "https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt"
+        }
+      ],
+      "duration_ms": 163906,
+      "name": "That's How I Feel",
+      "url": "https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U"
     },
     {
       "added_at": "2026-04-17 04:00:28",

@@ -304,7 +304,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 168960,
       "name": "Bessemer Bound Blues: 2",
       "url": "https://open.spotify.com/track/6hVsYp2nQGGZ3yg9IxXYlR"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 198280,
       "name": "Blues The World Forgot: Part 2",
       "url": "https://open.spotify.com/track/19eoK3mMcheeFyMrNWgz24"
@@ -852,6 +852,24 @@
       "duration_ms": 177720,
       "name": "Broken Soul Blues",
       "url": "https://open.spotify.com/track/2ksp6mKo6FtHqdjmkA6a7T"
+    },
+    {
+      "album": {
+        "name": "The Sweet Man",
+        "url": "https://open.spotify.com/album/5SbSOWhd7JAuecMB9AvgSU"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177720,
+      "name": "Broken Soul Blues",
+      "url": "https://open.spotify.com/track/7fcrBMsyfm0GoTH2lio0Vw"
     },
     {
       "album": {
@@ -2688,7 +2706,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 180610,
       "name": "Louisiana Hoo Doo Blues",
       "url": "https://open.spotify.com/track/2bc3uRL4ssJhw2QR3C8WWk"
@@ -2994,7 +3012,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 168973,
       "name": "Memphis Bound Blues",
       "url": "https://open.spotify.com/track/0ttaO8kb1rnLjIG90OhgSO"
@@ -3416,7 +3434,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 198413,
       "name": "Oh My Babe Blues",
       "url": "https://open.spotify.com/track/1pcBFcG7euODrwGtUQ39rQ"
@@ -4424,7 +4442,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 185281,
       "name": "Those All Night Blues - Take 1",
       "url": "https://open.spotify.com/track/2hAvLHftNUisa2OnkGjabF"
@@ -4568,7 +4586,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 161867,
       "name": "Titanic Man Blues: 2",
       "url": "https://open.spotify.com/track/3Wrz5GB9PDipMtuQ87z6Ro"

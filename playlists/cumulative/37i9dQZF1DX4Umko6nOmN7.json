@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Please Like Me",
+        "url": "https://open.spotify.com/album/0uB17I8AT9aGuQwO8X0aaC"
+      },
+      "artists": [
+        {
+          "name": "Rhys Frank",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "date_added": "2026-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209206,
+      "name": "Adam",
+      "url": "https://open.spotify.com/track/2uGBnu8TR4Lx8oxRCgYPd7"
+    },
+    {
+      "album": {
         "name": "Afloat",
         "url": "https://open.spotify.com/album/142If0cEhPJBeEWMstvsqe"
       },
@@ -668,7 +686,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 242695,
       "name": "Can You Afford To Lose Me?",
       "url": "https://open.spotify.com/track/3sP6EGqcYVmDy9UBStCnRR"
@@ -1148,7 +1166,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 208509,
       "name": "Flytta h\u00e4rifr\u00e5n",
       "url": "https://open.spotify.com/track/76jsbvUYLVT0RPHUJkHl8v"
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 222324,
       "name": "Happy",
       "url": "https://open.spotify.com/track/0aUvAHeO4GkWyAKYSz7JSx"

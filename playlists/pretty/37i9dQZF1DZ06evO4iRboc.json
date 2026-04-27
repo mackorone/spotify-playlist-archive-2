@@ -1,12 +1,12 @@
 {
   "description": "This is Laufey. The essential tracks, all in one playlist.",
-  "num_followers": 367656,
+  "num_followers": 367857,
   "original_name": "This Is Laufey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAABNoobt89ny+l8rWGZDd3X7",
+  "snapshot_id": "aewEAAAAAADJfDNNdMTVLmwBnaTJjRcI",
   "tracks": [
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "Seems Like Old Times",
+      "url": "https://open.spotify.com/track/3Ci1aN2eXmaPEwdaTe968z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Longest Goodbye (feat. Laufey)",
         "url": "https://open.spotify.com/album/1uRAile5YBcA689mkIGMnN"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 170213,
       "name": "The Longest Goodbye (feat. Laufey)",
       "url": "https://open.spotify.com/track/4QlcY3H7hRb74XacY3tJJQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Matter of Time: The Final Hour",
-        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "Seems Like Old Times",
-      "url": "https://open.spotify.com/track/3Ci1aN2eXmaPEwdaTe968z"
     },
     {
       "added_at": null,

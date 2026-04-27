@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,163 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,189 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 41 | [Thôi Em Đừng Đi](https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:53 |
 | 42 | [NO CHASE](https://open.spotify.com/track/1trcQKrQRIB5GlhhoHmiWN) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [Richie D\. ICY](https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA), [Kriss Ngo](https://open.spotify.com/artist/3tHHuAuhXiCc1HneD1iytJ) | [NO CHASE](https://open.spotify.com/album/0aNqRNUNwwkykPMwilPczl) | 2:55 |
 | 43 | [TETVOVEN](https://open.spotify.com/track/72ictTz6o0dusD2QpCn4bn) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Machiot](https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh) | [TETVOVEN](https://open.spotify.com/album/3jwSlUKUdfxcIuy3b2SCxc) | 3:17 |
-| 44 | [Panorama](https://open.spotify.com/track/6gmvd9Lld9MiNR9r6I9eFE) | [Richie D\. ICY](https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [Panorama](https://open.spotify.com/album/3Qsp8mywrgRP9hZ9cHe0xH) | 3:25 |
-| 45 | [Dân Chơi Sao Phải Khóc](https://open.spotify.com/track/0dBKcPEAsdxWJsqNDNHcPz) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [Dân Chơi Sao Phải Khóc](https://open.spotify.com/album/3INCvyLfaoojlTWtSLMHDa) | 3:30 |
-| 46 | [HOP ON DA SHOW](https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [HOP ON DA SHOW](https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb) | 2:55 |
-| 47 | [Hồng không gai](https://open.spotify.com/track/3PJbFJImi0QMxDCUKFBfbU) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [SpideyBoy](https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF) | [TO LOVE AND BE LOVED](https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ) | 3:44 |
+| 44 | [Dân Chơi Sao Phải Khóc](https://open.spotify.com/track/0dBKcPEAsdxWJsqNDNHcPz) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [Dân Chơi Sao Phải Khóc](https://open.spotify.com/album/3INCvyLfaoojlTWtSLMHDa) | 3:30 |
+| 45 | [Panorama](https://open.spotify.com/track/6gmvd9Lld9MiNR9r6I9eFE) | [Richie D\. ICY](https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [Panorama](https://open.spotify.com/album/3Qsp8mywrgRP9hZ9cHe0xH) | 3:25 |
+| 46 | [Hồng không gai](https://open.spotify.com/track/3PJbFJImi0QMxDCUKFBfbU) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [SpideyBoy](https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF) | [TO LOVE AND BE LOVED](https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ) | 3:44 |
+| 47 | [HOP ON DA SHOW](https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [HOP ON DA SHOW](https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb) | 2:55 |
 | 48 | [Badtrip](https://open.spotify.com/track/33SYx5viijwLGMqfl50FKI) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:38 |
 | 49 | [QUAY ĐI QUAY LẠI \(feat\. HIEUTHUHAI\)](https://open.spotify.com/track/07d8eaOuAWdC0DANq3tdPd) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [ANH TRAI "SAY HI", Chung Kết 1](https://open.spotify.com/album/4ZHaMUGP6WlG14jmk64Dln) | 3:30 |
-| 50 | [Đừng Để Tiền Rơi \(Special Version\)](https://open.spotify.com/track/6vRpcm8c6b8My9BCs14rHf) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Anh Phan](https://open.spotify.com/artist/6Zx90B1VRgR4TB01S87duQ) | [Đừng Để Tiền Rơi \(Special Version\)](https://open.spotify.com/album/49tSv7hKDXNgNB9fgR5WIR) | 3:45 |
+| 50 | [Thủ Đô Cypher \(RPT Phongkhin Remix\)](https://open.spotify.com/track/4A4Qdq6Jl4XilO2FS1sq2y) | [Rapital](https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df), [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [RZ Ma$](https://open.spotify.com/artist/2TUOlHV4KJEuy92UFEGhZb), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [RPT Phongkhin](https://open.spotify.com/artist/507GazaO91Ut3S2DSeCJwh) | [Thủ Đô Cypher \(RPT Phongkhin Remix\)](https://open.spotify.com/album/71FoWxY6Mf348aLrnA6dVz) | 3:13 |
 
 Snapshot ID: `AAAAAL+/wfZzNa1nCFDHui1Hd4TUbTpU`

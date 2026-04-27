@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 264273,
+  "num_followers": 264290,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAABKMxIOPkuGUQj1SUeqPV+0",
+  "snapshot_id": "aewEAAAAAABZ+1fx1UEBvuH9uIdXDLpE",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Tu Boca El Humo Me Sabe Mejor",
-        "url": "https://open.spotify.com/album/13v0zqnBRZqZT69JGUNgVl"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "DFZM",
-          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
-        }
-      ],
-      "duration_ms": 198957,
-      "name": "En Tu Boca El Humo Me Sabe Mejor",
-      "url": "https://open.spotify.com/track/53wSngFr6eC0yazPNJQmtg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canela",
         "url": "https://open.spotify.com/album/3Xc3k048w8xcsJLnTx4DY6"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 204629,
       "name": "Canela",
       "url": "https://open.spotify.com/track/592R1yDJZI1NUKHpjyLCua"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Tu Boca El Humo Me Sabe Mejor",
+        "url": "https://open.spotify.com/album/13v0zqnBRZqZT69JGUNgVl"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        }
+      ],
+      "duration_ms": 198957,
+      "name": "En Tu Boca El Humo Me Sabe Mejor",
+      "url": "https://open.spotify.com/track/53wSngFr6eC0yazPNJQmtg"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para terminar en nada",
-        "url": "https://open.spotify.com/album/6Sqnexw9tuOgEk8z0zT7UZ"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 165841,
-      "name": "Para terminar en nada",
-      "url": "https://open.spotify.com/track/3ZHF4Cvt5khSCrjOPOO7IM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AFROROCKSTAR",
         "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 183891,
       "name": "Mi Reina",
       "url": "https://open.spotify.com/track/4QuvjR6DLUuH1SqcfJN7gL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para terminar en nada",
+        "url": "https://open.spotify.com/album/6Sqnexw9tuOgEk8z0zT7UZ"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 165841,
+      "name": "Para terminar en nada",
+      "url": "https://open.spotify.com/track/3ZHF4Cvt5khSCrjOPOO7IM"
     },
     {
       "added_at": null,

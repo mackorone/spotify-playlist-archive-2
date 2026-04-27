@@ -833,6 +833,36 @@
     },
     {
       "album": {
+        "name": "Various Small Whistles and a Song",
+        "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Corey Smith",
+          "url": "https://open.spotify.com/artist/4mXo8uJElHGG96y1jHc14z"
+        },
+        {
+          "name": "Ellie Mej\u00eda",
+          "url": "https://open.spotify.com/artist/7Bogbj4POJNRi6WmxoWAqI"
+        },
+        {
+          "name": "Anna Fox",
+          "url": "https://open.spotify.com/artist/1ESraRVMrL8HHq3cTqa1hi"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Midewin National Tallgrass Prairie, Illinois",
+      "url": "https://open.spotify.com/track/5UF7kt5QPCQhN4Qs6MsSv1"
+    },
+    {
+      "album": {
         "name": "Too Small to be a Plain",
         "url": "https://open.spotify.com/album/2OVqLLrLSia0G7qRZBFC14"
       },
@@ -1030,7 +1060,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 172779,
       "name": "Scrimble-Scramble",
       "url": "https://open.spotify.com/track/1fac4qYqKoPCVWFW1lAsAa"
@@ -1140,7 +1170,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 145545,
       "name": "Song for Soft-Serve",
       "url": "https://open.spotify.com/track/1XylhcN6j3T4jZXGug2osW"
@@ -1392,7 +1422,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 60000,
       "name": "Walking Home, Chicago",
       "url": "https://open.spotify.com/track/0MU8drky1sdwT0JvoFzcB2"

@@ -6927,6 +6927,28 @@
     },
     {
       "album": {
+        "name": "Kukku",
+        "url": "https://open.spotify.com/album/6OTyI6hzeTaTrJxWYiemAt"
+      },
+      "artists": [
+        {
+          "name": "Kelithee",
+          "url": "https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg"
+        },
+        {
+          "name": "Adithya Sriram",
+          "url": "https://open.spotify.com/artist/0QkoNWJljkXVNcOwNooaQo"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175344,
+      "name": "Kukku",
+      "url": "https://open.spotify.com/track/03s9QjSSFetqBixnA1Hivl"
+    },
+    {
+      "album": {
         "name": "Kullama",
         "url": "https://open.spotify.com/album/6sS60GSdDnGxQPROVnZztc"
       },

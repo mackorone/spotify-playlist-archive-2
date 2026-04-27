@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > R&B and good vibe tracks for your current mood\. Cover: rjtheweirdo
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,189 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,193 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 99 | [favors](https://open.spotify.com/track/7a0auf1LJkhoIlDmjVEXii) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [favors](https://open.spotify.com/album/2JLwUEQIkgSwdC3ieZf5G0) | 3:48 |
 | 100 | [surreal](https://open.spotify.com/track/54IMTfDU6i36O6UO9u6Dj3) | [limr](https://open.spotify.com/artist/4TvkVmUuUpnJF309qPMlcj) | [surreal](https://open.spotify.com/album/4845UX1vYgiBy27Cltq54C) | 3:43 |
 
-Snapshot ID: `AAAAAB+bYzawO4czDaUfc/hziCCTslSB`
+Snapshot ID: `AAAAAPQEvetD6Jt5GHaiQF6bFJw86u1P`

@@ -4,7 +4,7 @@
 
 > Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Myshaan
 
-260 songs - 16 hr 0 min
+261 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Darling Angel](https://open.spotify.com/track/6hq4mlXQ4pLqOk2wQaTvhH) | [Rebel Souljahz](https://open.spotify.com/artist/6DW0QgM048WZ1eDJfq9ZhS) | [Nothing To Hide](https://open.spotify.com/album/7oRmTwj5o0FGN6TANyL4oX) | 4:05 | 2025-09-09 |  |
 | [Deja Vu](https://open.spotify.com/track/3oPE1YX2dgGqU7e0eJTqnG) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Deja Vu](https://open.spotify.com/album/6y305wH4wMtb2t1kJt6894) | 3:06 | 2023-11-28 | 2025-09-10 |
 | [Do Anything](https://open.spotify.com/track/1P4EedNF1QADcxSIeB0ixa) | [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Do Anything](https://open.spotify.com/album/32zKVSCtzv4uCk0EbMGr3a) | 2:57 | 2025-09-09 |  |
+| [Do That To Me One More Time](https://open.spotify.com/track/0fDcWl8ApNhQlqVk7aQNg0) | [Junior Soqeta](https://open.spotify.com/artist/1bJTmjgUdH1inz5cCpsOUA) | [Do That To Me One More Time](https://open.spotify.com/album/7DCPgwiy3QybrkirypwX2c) | 4:30 | 2025-09-09 |  |
 | [DO TO ME](https://open.spotify.com/track/1H2RD2WJU5V0S36XDwEFjh) | [Tree](https://open.spotify.com/artist/37wo7mJE2RpFgNSFhyvhqp) | [DO TO ME](https://open.spotify.com/album/0fZbF7d631ut6reo9BbatQ) | 2:16 | 2025-07-10 |  |
 | [Do You](https://open.spotify.com/track/2gi58Vz6hLN4uMfNin38cG) | [NOFO!](https://open.spotify.com/artist/2GZfV0JiEIxrjtAIRhfhSm), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Do You](https://open.spotify.com/album/4W6J91BwAVYh05KgONf572) | 3:41 | 2025-01-23 | 2025-09-10 |
 | [Don't Dream It's Over](https://open.spotify.com/track/3mhDQtwc0Q2UhtH88HLWjK) | [Three Houses Down](https://open.spotify.com/artist/0qWNlZpLfAYDbEVEHAAllv) | [Don't Dream It's Over](https://open.spotify.com/album/6nITmdxiLPHQm2o6jI368U) | 3:42 | 2024-02-07 | 2025-09-10 |
@@ -244,7 +245,7 @@
 | [That's The Way It Is](https://open.spotify.com/track/7KqpvPegNT530G3nAIfZ49) | [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA), [Folau](https://open.spotify.com/artist/0jj9Os8Krjis4OFaps08Km) | [That's The Way It Is](https://open.spotify.com/album/6pbOzrWNjX71ImAKpJSlvu) | 3:51 | 2025-09-09 |  |
 | [The Dream \(feat\. Fiji, Troy Kingi\)](https://open.spotify.com/track/74kk1a03zfu0tdnJdHXTug) | [Three Houses Down](https://open.spotify.com/artist/0qWNlZpLfAYDbEVEHAAllv), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [Troy Kingi](https://open.spotify.com/artist/5B3LZw3NTEg074irKeEAom) | [The Dream \(feat\. Fiji, Troy Kingi\)](https://open.spotify.com/album/4N6jIz4cCHG9nx2oyJ21u3) | 4:53 | 2023-11-28 | 2024-11-08 |
 | [There I Go](https://open.spotify.com/track/5maLNTxNa29qrB1qpBoh6y) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [There I Go](https://open.spotify.com/album/4UU8LUYdyjM3oa1UHwKhWI) | 3:22 | 2025-09-09 |  |
-| [They Don't Know](https://open.spotify.com/track/1KoUNUIASLygPUAboZ6rdv) | [Aaradhna](https://open.spotify.com/artist/4CeW2xghttvllIwy4AqNSg), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Treble & Reverb \(Deluxe Edition\)](https://open.spotify.com/album/77tgpOa06Z8hMeI8hDp3sw) | 3:59 | 2025-09-09 |  |
+| [They Don't Know](https://open.spotify.com/track/1KoUNUIASLygPUAboZ6rdv) | [Aaradhna](https://open.spotify.com/artist/4CeW2xghttvllIwy4AqNSg), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Treble & Reverb \(Deluxe Edition\)](https://open.spotify.com/album/77tgpOa06Z8hMeI8hDp3sw) | 3:59 | 2025-09-09 | 2026-04-27 |
 | [Thinking About You](https://open.spotify.com/track/01hdQfU8xCXA8aW59GnyWG) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Keep Rising](https://open.spotify.com/album/47FZKIfeX6vDAaUkrAqQbD) | 6:01 | 2025-09-09 |  |
 | [TOO LONG](https://open.spotify.com/track/6YIvNjBwtWtG5DNbArJ3DB) | [King George](https://open.spotify.com/artist/4da15R0o9ipD6vPVPqYz5D) | [TOO LONG](https://open.spotify.com/album/0PJvC81VkJ7fDyBjRhAHTR) | 4:09 | 2023-11-28 |  |
 | [Tuakiritanga](https://open.spotify.com/track/01jFFWR9o5nQbytklHWrJD) | [Origin Roots Aotearoa O.R.A](https://open.spotify.com/artist/4WykzeICsk5yiLrLUXjikI) | [Tuakiritanga](https://open.spotify.com/album/1kJQmi7Ot3SMEavjZ6vPIB) | 4:26 | 2024-03-21 | 2024-11-08 |

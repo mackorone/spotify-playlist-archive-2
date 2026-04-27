@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Pop bops for the saints!  Cover: Anna Golden
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,320 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,340 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 99 | [heart of heaven](https://open.spotify.com/track/5oYViuxzQmU2MSQxAXp36r) | [Tianna](https://open.spotify.com/artist/1jQllgFn8BtMLmn7vgmRyr) | [heart of heaven](https://open.spotify.com/album/7BZ3TiEPKZlz9kLD0xBYvI) | 4:03 |
 | 100 | [That's My Yahweh](https://open.spotify.com/track/6WaCSMumfofdh0l5O8cgEo) | [Alex Groh](https://open.spotify.com/artist/1dWWG0eXto2UPnwzarb2ma) | [That's My Yahweh](https://open.spotify.com/album/0w0hXz8sVCC7PlFOmLcORt) | 2:36 |
 
-Snapshot ID: `AAAAAIWf58UJfjtciDyIzpDLB6iVYAxb`
+Snapshot ID: `AAAAAGee+mNtELCmHz+bQXy0eFul+hhh`

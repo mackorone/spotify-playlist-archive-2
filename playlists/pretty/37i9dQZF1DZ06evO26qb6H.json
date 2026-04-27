@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAABzI/Psje/yoxRK/H20sDz7",
+  "snapshot_id": "aewEAAAAAADEbbLM4eWwCT/IPNG/9b1c",
   "tracks": [
     {
       "added_at": null,
@@ -391,26 +391,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRoCERIES",
-        "url": "https://open.spotify.com/album/4ukKkRaCiWcgJ3YZ3jmUfu"
+        "name": "Damn Shame",
+        "url": "https://open.spotify.com/album/4YYXAVoKwJoezmIh7KgYjG"
       },
       "artists": [
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Funk Flex",
+          "url": "https://open.spotify.com/artist/34ABXKUj0gzq7R8vXjCaNj"
         },
         {
-          "name": "TisaKorean",
-          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
         },
         {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 226845,
-      "name": "GRoCERIES",
-      "url": "https://open.spotify.com/track/2ZueZJriwJi7vFXD1UVEVj"
+      "duration_ms": 137938,
+      "name": "Damn Shame",
+      "url": "https://open.spotify.com/track/7ETKvvR97gJ28mAiOJoFD4"
     },
     {
       "added_at": null,
@@ -435,26 +435,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn Shame",
-        "url": "https://open.spotify.com/album/4YYXAVoKwJoezmIh7KgYjG"
+        "name": "GRoCERIES",
+        "url": "https://open.spotify.com/album/4ukKkRaCiWcgJ3YZ3jmUfu"
       },
       "artists": [
         {
-          "name": "Funk Flex",
-          "url": "https://open.spotify.com/artist/34ABXKUj0gzq7R8vXjCaNj"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Jadakiss",
-          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+          "name": "TisaKorean",
+          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
         },
         {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 137938,
-      "name": "Damn Shame",
-      "url": "https://open.spotify.com/track/7ETKvvR97gJ28mAiOJoFD4"
+      "duration_ms": 226845,
+      "name": "GRoCERIES",
+      "url": "https://open.spotify.com/track/2ZueZJriwJi7vFXD1UVEVj"
     },
     {
       "added_at": null,
@@ -499,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eat It Uh",
-        "url": "https://open.spotify.com/album/4uTwrDdiUyyYR8fNtp3jnr"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Zukenee",
-          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
-        }
-      ],
-      "duration_ms": 99428,
-      "name": "Eat It Uh",
-      "url": "https://open.spotify.com/track/61lsu3ZWd1JIoE4vUmusLa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Banana Split (with YNW Melly feat. Lil Durk)",
         "url": "https://open.spotify.com/album/3QWBKAttGO0ONYIcsDHBW4"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 192968,
       "name": "Banana Split (with YNW Melly feat. Lil Durk)",
       "url": "https://open.spotify.com/track/57Lw4YmOvpighLOnwqiuKr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eat It Uh",
+        "url": "https://open.spotify.com/album/4uTwrDdiUyyYR8fNtp3jnr"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Zukenee",
+          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
+        }
+      ],
+      "duration_ms": 99428,
+      "name": "Eat It Uh",
+      "url": "https://open.spotify.com/track/61lsu3ZWd1JIoE4vUmusLa"
     },
     {
       "added_at": null,
@@ -935,6 +935,30 @@
       "duration_ms": 222740,
       "name": "Raining (feat. Yung Bleu & Murda Beatz)",
       "url": "https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
+        "url": "https://open.spotify.com/album/71uxGkMDuq1nSSXfkpeqqZ"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Lil Pump",
+          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
+        },
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        }
+      ],
+      "duration_ms": 170523,
+      "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
+      "url": "https://open.spotify.com/track/7K3qxAZqTZEScGAEjVcUnJ"
     }
   ],
   "unique_name": "This Is Murda Beatz",

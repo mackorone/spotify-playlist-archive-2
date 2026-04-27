@@ -4,7 +4,7 @@
 
 > This is Kacey Musgraves\. The essential tracks, all in one playlist.
 
-94 songs - 5 hr 19 min
+95 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Apologize \(Acoustic Version\)](https://open.spotify.com/track/6QT53ohGZeLGoYktBPRePD) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Apologize + See You Again \(Acoustic\)](https://open.spotify.com/album/1JJftqO5YmyYuXXAvfIf1A) | 2:31 | 2024-03-09 | 2025-02-08 |
 | [Apologize \- Acoustic Version](https://open.spotify.com/track/3NSdgXx0p5mcQTjcs50n9C) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Apologize + See You Again \(Acoustic\)](https://open.spotify.com/album/74OL4hEPYhlA7k8iWOlcxF) | 2:31 | 2025-02-08 |  |
 | [Arm's Length](https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 3:58 | 2024-08-06 |  |
-| [Bells & Whistles \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/71uKhNSaUogUkjMRw5jiw7) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 2:55 | 2026-02-22 |  |
+| [Bells & Whistles \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/58swPNONsyiCKfjyzTSv22) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 2:55 | 2026-04-27 |  |
+| [Bells & Whistles \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/71uKhNSaUogUkjMRw5jiw7) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 2:55 | 2026-02-22 | 2026-04-27 |
 | [Biscuits](https://open.spotify.com/track/4vHVfwVi2CEc4r7P1Pr9iu) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 3:16 | 2024-03-09 |  |
 | [Blowin' Smoke](https://open.spotify.com/track/4oqD7zXh23uvf583rDkunI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:08 | 2024-03-09 |  |
 | [breadwinner](https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:20 | 2024-03-09 |  |

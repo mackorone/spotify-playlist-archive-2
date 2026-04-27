@@ -1,15 +1,31 @@
 {
   "description": "Playlist",
-  "num_followers": 18009,
+  "num_followers": 18011,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAMdHoXPuooTwkEEjgBjoGTOLIKr5su",
+  "snapshot_id": "AAAMeIxQk8UFy7HArlt2MpTPHsISuGdN",
   "tracks": [
     {
-      "added_at": "2026-04-10 08:30:55",
+      "added_at": "2026-04-26 09:55:47",
+      "album": {
+        "name": "Imperfect Love",
+        "url": "https://open.spotify.com/album/0seISL93oEzbKQFWVohX3W"
+      },
+      "artists": [
+        {
+          "name": "BROTHER SUN SISTER MOON",
+          "url": "https://open.spotify.com/artist/4jYamjqQ1wmOLS41qNiZ0i"
+        }
+      ],
+      "duration_ms": 192626,
+      "name": "Imperfect Love",
+      "url": "https://open.spotify.com/track/0bd2Bh2ctRgeSxCn9Dhor9"
+    },
+    {
+      "added_at": "2026-04-10 08:28:13",
       "album": {
         "name": "Laying in the Yard",
         "url": "https://open.spotify.com/album/2gdTqOi6J1ioGeyCRURI9Q"
@@ -10599,22 +10615,6 @@
       "duration_ms": 169879,
       "name": "Bye Dummy",
       "url": "https://open.spotify.com/track/13xRpimF9gtVsB5GM8Gyjz"
-    },
-    {
-      "added_at": "2026-04-10 08:28:13",
-      "album": {
-        "name": "Laying in the Yard",
-        "url": "https://open.spotify.com/album/2gdTqOi6J1ioGeyCRURI9Q"
-      },
-      "artists": [
-        {
-          "name": "Grayson Hamm",
-          "url": "https://open.spotify.com/artist/1zQbqJWYcdrVXef2iatspr"
-        }
-      ],
-      "duration_ms": 164615,
-      "name": "Laying in the Yard",
-      "url": "https://open.spotify.com/track/4synUl7lPkKyUxGTxi8SQY"
     }
   ],
   "unique_name": "Nice Guys | 24/7 Radio",

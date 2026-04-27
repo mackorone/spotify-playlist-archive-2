@@ -1,6 +1,6 @@
 {
   "description": "A legmen\u0151bb \u00e9s legtrendibb dalok egy helyen \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-  "num_followers": 32292,
+  "num_followers": 32296,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-04-21 13:28:41",
       "album": {
-        "name": "This Wasn't Meant For You Anyway",
-        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284066,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
-    },
-    {
-      "added_at": "2026-04-21 13:28:41",
-      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
+    },
+    {
+      "added_at": "2026-04-21 13:28:41",
+      "album": {
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284066,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
       "added_at": "2026-04-21 13:28:41",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-04-21 13:28:41",
       "album": {
-        "name": "Magyar Tenger Kal\u00f3zai",
-        "url": "https://open.spotify.com/album/7G03dGeUw7DdJ36QXJyekX"
-      },
-      "artists": [
-        {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
-        }
-      ],
-      "duration_ms": 191193,
-      "name": "\u00c1llamhaj\u00f3",
-      "url": "https://open.spotify.com/track/5eqbwJo1k5I9fHhgSTw06b"
-    },
-    {
-      "added_at": "2026-04-21 13:28:41",
-      "album": {
         "name": "Gyerekek",
         "url": "https://open.spotify.com/album/0oOywwZrjosDWVG95s9GBE"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 156678,
       "name": "Gyerekek",
       "url": "https://open.spotify.com/track/08na9p4pgKiHEoxZQwMdB2"
+    },
+    {
+      "added_at": "2026-04-21 13:28:41",
+      "album": {
+        "name": "Magyar Tenger Kal\u00f3zai",
+        "url": "https://open.spotify.com/album/7G03dGeUw7DdJ36QXJyekX"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "duration_ms": 191193,
+      "name": "\u00c1llamhaj\u00f3",
+      "url": "https://open.spotify.com/track/5eqbwJo1k5I9fHhgSTw06b"
     },
     {
       "added_at": "2026-04-21 13:28:41",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-04-21 13:28:41",
       "album": {
-        "name": "elterel\u00e9s",
-        "url": "https://open.spotify.com/album/3qmORfcKkMXuIEqm3b7BMc"
-      },
-      "artists": [
-        {
-          "name": "ByeAlex \u00e9s a Slepp",
-          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
-        }
-      ],
-      "duration_ms": 168953,
-      "name": "erotika",
-      "url": "https://open.spotify.com/track/6WsEsdHsrvxCW47qLE25fG"
-    },
-    {
-      "added_at": "2026-04-21 13:28:41",
-      "album": {
         "name": "Talpra cig\u00e1nyok",
         "url": "https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2026-04-21 13:28:41",
       "album": {
+        "name": "elterel\u00e9s",
+        "url": "https://open.spotify.com/album/3qmORfcKkMXuIEqm3b7BMc"
+      },
+      "artists": [
+        {
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        }
+      ],
+      "duration_ms": 168953,
+      "name": "erotika",
+      "url": "https://open.spotify.com/track/6WsEsdHsrvxCW47qLE25fG"
+    },
+    {
+      "added_at": "2026-04-21 13:28:41",
+      "album": {
         "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
         "url": "https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b"
       },
@@ -703,6 +703,26 @@
       "duration_ms": 174843,
       "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
       "url": "https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP"
+    },
+    {
+      "added_at": "2026-04-21 13:28:41",
+      "album": {
+        "name": "VINNER",
+        "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "duration_ms": 138097,
+      "name": "WAKE N BAKE",
+      "url": "https://open.spotify.com/track/1bnRSZisq4IX2DIvteVP9M"
     },
     {
       "added_at": "2026-04-21 13:28:41",
@@ -739,26 +759,6 @@
       "duration_ms": 215000,
       "name": "SZEPTEMBER V\u00c9G\u00c9N - STRESSZ",
       "url": "https://open.spotify.com/track/5uZSmno7ltepBaL9wJ8ZrF"
-    },
-    {
-      "added_at": "2026-04-21 13:28:41",
-      "album": {
-        "name": "VINNER",
-        "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
-      },
-      "artists": [
-        {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
-        },
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        }
-      ],
-      "duration_ms": 138097,
-      "name": "WAKE N BAKE",
-      "url": "https://open.spotify.com/track/1bnRSZisq4IX2DIvteVP9M"
     },
     {
       "added_at": "2026-04-21 13:28:41",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-04-21 13:28:41",
       "album": {
-        "name": "Magyar Tenger Kal\u00f3zai",
-        "url": "https://open.spotify.com/album/7G03dGeUw7DdJ36QXJyekX"
-      },
-      "artists": [
-        {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
-        }
-      ],
-      "duration_ms": 180042,
-      "name": "Kapit\u00e1ny",
-      "url": "https://open.spotify.com/track/0tey8bGlUjHlfVr0LFJYb6"
-    },
-    {
-      "added_at": "2026-04-21 13:28:41",
-      "album": {
         "name": "ICE SPICE",
         "url": "https://open.spotify.com/album/36MUGLrW6MAdW31yiUqlEy"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2026-04-21 13:28:41",
       "album": {
-        "name": "INTERREGNUM",
-        "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
+        "name": "Magyar Tenger Kal\u00f3zai",
+        "url": "https://open.spotify.com/album/7G03dGeUw7DdJ36QXJyekX"
       },
       "artists": [
         {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
         }
       ],
-      "duration_ms": 133636,
-      "name": "INTERREGNUM",
-      "url": "https://open.spotify.com/track/5fC9vYizLxqvDcT8kqB7Ma"
+      "duration_ms": 180042,
+      "name": "Kapit\u00e1ny",
+      "url": "https://open.spotify.com/track/0tey8bGlUjHlfVr0LFJYb6"
     },
     {
       "added_at": "2026-04-21 13:28:41",
@@ -1011,6 +995,22 @@
     {
       "added_at": "2026-04-21 13:28:41",
       "album": {
+        "name": "INTERREGNUM",
+        "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        }
+      ],
+      "duration_ms": 133636,
+      "name": "INTERREGNUM",
+      "url": "https://open.spotify.com/track/5fC9vYizLxqvDcT8kqB7Ma"
+    },
+    {
+      "added_at": "2026-04-21 13:28:41",
+      "album": {
         "name": "PLETYKA",
         "url": "https://open.spotify.com/album/7rUD24pfDqIb2ovCzeFXkj"
       },
@@ -1023,26 +1023,6 @@
       "duration_ms": 155121,
       "name": "PLETYKA",
       "url": "https://open.spotify.com/track/3PFA6nDgFmw51XBaB3kGMR"
-    },
-    {
-      "added_at": "2026-04-21 13:28:41",
-      "album": {
-        "name": "NU M\u0102 LAS\u0102",
-        "url": "https://open.spotify.com/album/53k7aEfUyjep2mkaviZRNl"
-      },
-      "artists": [
-        {
-          "name": "T\u00f3th Andi",
-          "url": "https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu"
-        },
-        {
-          "name": "BELANO",
-          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
-        }
-      ],
-      "duration_ms": 163478,
-      "name": "NU M\u0102 LAS\u0102",
-      "url": "https://open.spotify.com/track/4f7QJX2A3SK4aVSK9bh4r5"
     },
     {
       "added_at": "2026-04-21 13:28:41",
@@ -1063,6 +1043,26 @@
       "duration_ms": 142856,
       "name": "Hol volt\u00e1l?",
       "url": "https://open.spotify.com/track/3s2IsVmmuH4Fi3491W7TF5"
+    },
+    {
+      "added_at": "2026-04-21 13:28:41",
+      "album": {
+        "name": "NU M\u0102 LAS\u0102",
+        "url": "https://open.spotify.com/album/53k7aEfUyjep2mkaviZRNl"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3th Andi",
+          "url": "https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu"
+        },
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        }
+      ],
+      "duration_ms": 163478,
+      "name": "NU M\u0102 LAS\u0102",
+      "url": "https://open.spotify.com/track/4f7QJX2A3SK4aVSK9bh4r5"
     },
     {
       "added_at": "2026-04-21 13:28:41",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-04-21 13:28:41",
       "album": {
-        "name": "Megcsalok veled ak\u00e1rkit",
-        "url": "https://open.spotify.com/album/1DBXUt5xMsJA8KtP5JVLO6"
-      },
-      "artists": [
-        {
-          "name": "Marics Peti",
-          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
-        }
-      ],
-      "duration_ms": 144461,
-      "name": "Megcsalok veled ak\u00e1rkit",
-      "url": "https://open.spotify.com/track/0ZQ5xI0kFUJG4BbC0FGoU9"
-    },
-    {
-      "added_at": "2026-04-21 13:28:41",
-      "album": {
         "name": "EXT\u00c1ZIS",
         "url": "https://open.spotify.com/album/57tS8G2oP8FAFzuczfb1V5"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 184193,
       "name": "Beef",
       "url": "https://open.spotify.com/track/0aiD9jQDJOWzGoFlYOZVUe"
+    },
+    {
+      "added_at": "2026-04-21 13:28:41",
+      "album": {
+        "name": "Megcsalok veled ak\u00e1rkit",
+        "url": "https://open.spotify.com/album/1DBXUt5xMsJA8KtP5JVLO6"
+      },
+      "artists": [
+        {
+          "name": "Marics Peti",
+          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
+        }
+      ],
+      "duration_ms": 144461,
+      "name": "Megcsalok veled ak\u00e1rkit",
+      "url": "https://open.spotify.com/track/0ZQ5xI0kFUJG4BbC0FGoU9"
     },
     {
       "added_at": "2026-04-21 13:28:41",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2026-04-21 13:28:41",
       "album": {
-        "name": "SEHONNAI",
-        "url": "https://open.spotify.com/album/7frUrxm6049qQdd4eO3y5i"
-      },
-      "artists": [
-        {
-          "name": "Co Lee",
-          "url": "https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0"
-        },
-        {
-          "name": "don sea",
-          "url": "https://open.spotify.com/artist/36i8o4PQpcxmPCiGNPI99L"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "SEHONNAI",
-      "url": "https://open.spotify.com/track/2CN4SYlzQpx08P9HDZRYou"
-    },
-    {
-      "added_at": "2026-04-21 13:28:41",
-      "album": {
         "name": "Aranybula",
         "url": "https://open.spotify.com/album/5X7Ndo1wnRcKMEDWkt4Lp0"
       },
@@ -1367,22 +1347,22 @@
     {
       "added_at": "2026-04-21 13:28:41",
       "album": {
-        "name": "Kimarad\u00e1s",
-        "url": "https://open.spotify.com/album/06yuxkFSMGASGQOnQdSiBI"
+        "name": "SEHONNAI",
+        "url": "https://open.spotify.com/album/7frUrxm6049qQdd4eO3y5i"
       },
       "artists": [
         {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw"
+          "name": "Co Lee",
+          "url": "https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0"
         },
         {
-          "name": "Ferike",
-          "url": "https://open.spotify.com/artist/5jL6bZFXh0g5zists9pECZ"
+          "name": "don sea",
+          "url": "https://open.spotify.com/artist/36i8o4PQpcxmPCiGNPI99L"
         }
       ],
-      "duration_ms": 135000,
-      "name": "Kimarad\u00e1s",
-      "url": "https://open.spotify.com/track/6ij2MtTi05Tpghcvp4i64m"
+      "duration_ms": 169655,
+      "name": "SEHONNAI",
+      "url": "https://open.spotify.com/track/2CN4SYlzQpx08P9HDZRYou"
     },
     {
       "added_at": "2026-04-21 13:28:41",
@@ -1411,22 +1391,22 @@
     {
       "added_at": "2026-04-21 13:28:41",
       "album": {
-        "name": "vemzavr!",
-        "url": "https://open.spotify.com/album/3gA92ig8JUIowiMLKTJWx7"
+        "name": "Kimarad\u00e1s",
+        "url": "https://open.spotify.com/album/06yuxkFSMGASGQOnQdSiBI"
       },
       "artists": [
         {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw"
         },
         {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+          "name": "Ferike",
+          "url": "https://open.spotify.com/artist/5jL6bZFXh0g5zists9pECZ"
         }
       ],
-      "duration_ms": 183931,
-      "name": "vemzavr!",
-      "url": "https://open.spotify.com/track/5okl2XLawfPjOCZJ1mSdox"
+      "duration_ms": 135000,
+      "name": "Kimarad\u00e1s",
+      "url": "https://open.spotify.com/track/6ij2MtTi05Tpghcvp4i64m"
     },
     {
       "added_at": "2026-04-21 13:28:41",
@@ -1443,6 +1423,26 @@
       "duration_ms": 255294,
       "name": "21 R\u00f3zsasz\u00e1l",
       "url": "https://open.spotify.com/track/7L3baFE8EUbk7jbp2o4XB0"
+    },
+    {
+      "added_at": "2026-04-21 13:28:41",
+      "album": {
+        "name": "vemzavr!",
+        "url": "https://open.spotify.com/album/3gA92ig8JUIowiMLKTJWx7"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        }
+      ],
+      "duration_ms": 183931,
+      "name": "vemzavr!",
+      "url": "https://open.spotify.com/track/5okl2XLawfPjOCZJ1mSdox"
     }
   ],
   "unique_name": "Most Men\u0151",

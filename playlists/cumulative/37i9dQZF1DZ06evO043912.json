@@ -565,6 +565,24 @@
     },
     {
       "album": {
+        "name": "Od\u00f9",
+        "url": "https://open.spotify.com/album/7JKwYd8flm40rVT6vBkV5O"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362289,
+      "name": "Easy Motion Tourist",
+      "url": "https://open.spotify.com/track/5yHTv77ECb71F1iZgWqR5c"
+    },
+    {
+      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/1cG1ymzQ46sB8hpMxihedF"
       },

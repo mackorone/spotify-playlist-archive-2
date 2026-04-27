@@ -4,7 +4,7 @@
 
 > The perfect frequency for sleep or study – science tested, listener approved.
 
-638 songs - 1 day 8 hr 52 min
+640 songs - 1 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Pink Haze Field](https://open.spotify.com/track/3G5FxwFhC6cMsEy8GsmWac) | [Emberwaves](https://open.spotify.com/artist/56QSJQc6Jik15NGJDHk4UH) | [Pink Haze Field](https://open.spotify.com/album/3oM6bkUjZlriko6QiB9jtD) | 2:48 | 2026-03-31 |  |
 | [Pink Horizon](https://open.spotify.com/track/4XOqrPfTf7rxVNtUwrqBXm) | [Frequencie float](https://open.spotify.com/artist/6an3M3X9av3a8bZLPUsl6w) | [Pink Horizon](https://open.spotify.com/album/5jhlrLbMmZb3QJ2NOA63Aj) | 4:19 | 2026-03-31 |  |
 | [Pink Horizon Sleep](https://open.spotify.com/track/7yUM4IUr05sXsWmpFXGgLw) | [HemiPhase](https://open.spotify.com/artist/4gblQGZXbgoGn2iCTNGuyO) | [Pink Night Focus](https://open.spotify.com/album/0xmnDt79aJ755PAxCZ7UJb) | 2:27 | 2026-03-31 |  |
+| [Pink Horizon Sleep](https://open.spotify.com/track/3VGmGQhlfIVmo4idceXqhG) | [Veyra Calm](https://open.spotify.com/artist/6nVFPJqukSY3n0uTHVwHJg) | [Pink Gentle Focus](https://open.spotify.com/album/0OCcqFLtoytXIKAmio3J4m) | 2:42 | 2026-03-31 |  |
 | [Pink Horizons](https://open.spotify.com/track/3hi8IL7m0rQ9MYCHotezeA) | [1ST SND](https://open.spotify.com/artist/3nokdvjSAzN9ty9gDOspUl) | [Pink Horizons](https://open.spotify.com/album/7hj2WJjJEg4d7cqYSyp0bK) | 3:24 | 2023-03-16 | 2025-12-10 |
 | [Pink is the Sound](https://open.spotify.com/track/1n1RUZigPoAKAqvzITUa9O) | [Lavia 6](https://open.spotify.com/artist/1TaKbrkFRAq5YJoMieIMPR) | [Let There Be Pink Noise](https://open.spotify.com/album/4sliGaJWLjaovOHMPXw0xa) | 3:28 | 2023-03-16 | 2023-10-28 |
 | [Pink Lagoon](https://open.spotify.com/track/3GywEmNKXXWxZHSiNAcu5B) | [Mood Factory](https://open.spotify.com/artist/70PahNfWLqq5m8R8kJvg1o) | [Sleeping In Pink Noise](https://open.spotify.com/album/5d0HVEhTJjemsybCCeB21Y) | 2:50 | 2023-03-16 | 2025-12-10 |
@@ -325,6 +326,7 @@
 | [Pink Noise Baby](https://open.spotify.com/track/3MI108wJFsEDisc5niohYO) | [The BD Noise Maker](https://open.spotify.com/artist/5WPKIg5kP6Ov7DrSGCqj2H) | [Ambient Pink Noise](https://open.spotify.com/album/44ENOthyvj5V5GGLIdGsWx) | 2:08 | 2022-12-16 | 2023-03-18 |
 | [Pink Noise Balance](https://open.spotify.com/track/6RWo80soxwN9KIWJmZWB86) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [Pink Noise Balance](https://open.spotify.com/album/3C9YjJXau2NTktv3JNRxUQ) | 3:28 | 2023-03-16 |  |
 | [Pink Noise Beauty](https://open.spotify.com/track/0zBtJ2GILEjIdhnfsGBOIr) | [Pink Noise Traveler](https://open.spotify.com/artist/1NC629rjoeMtPM5WGgk1nD) | [Pink Noise Beauty](https://open.spotify.com/album/2RADMCLv0wqNp0vChBcSP6) | 3:36 | 2021-12-01 | 2023-03-18 |
+| [Pink Noise Bedtime](https://open.spotify.com/track/7r6ObA5gzPClUhDtP8X5SU) | [Fernlight](https://open.spotify.com/artist/0gzohBQTYAhTkkEhWbdnAK) | [Pink Noise for Deep Sleep](https://open.spotify.com/album/7GRt0kKUZ5dKKFkaEH4LFx) | 2:32 | 2026-03-31 |  |
 | [Pink Noise Better Sleep](https://open.spotify.com/track/6M4TXFK0ckVkQbIITMNd6s) | [True White](https://open.spotify.com/artist/5vhaG8WchlssMkNH1VefUl) | [Pink Noise Horizons](https://open.spotify.com/album/7GhyKWTqtqx8iOlcpH4V9m) | 3:06 | 2023-03-16 |  |
 | [Pink Noise Binary](https://open.spotify.com/track/71ePEcuRKQODDtsHtg2nFv) | [San Sebastiano](https://open.spotify.com/artist/7J6qda0ybtYiOFds9xKXc4) | [Zarata Arrosa](https://open.spotify.com/album/7EPl3Pl6Hm5e3sRCaLtO6K) | 2:50 | 2023-03-16 |  |
 | [Pink Noise Boulevard](https://open.spotify.com/track/4BbMZoi5wVpRKUmZr8AFwI) | [Vita Nova](https://open.spotify.com/artist/73NuuIXGeBU7AyknDXY5A2) | [Pink Noise Boulevard](https://open.spotify.com/album/4hfMjdg2gBTl1bVPcrmXI2) | 2:57 | 2023-03-16 |  |
@@ -413,7 +415,7 @@
 | [Pink Noise Loop](https://open.spotify.com/track/7mwI7pMEgyYWSYDgAlm781) | [White Noise Spa](https://open.spotify.com/artist/2v4Lbdw4AEnnNVVUHi9esf) | [Pink Noise 2017](https://open.spotify.com/album/1TarMiqXyN0uSwpN0rr35s) | 5:00 | 2021-12-01 | 2022-10-27 |
 | [Pink Noise Loopable Sleep Therapy](https://open.spotify.com/track/0SkfWdFxSr7KgIV9ljrrhy) | [Pink Noise](https://open.spotify.com/artist/3SwqynF0kqvqwKJX9EXEQ3) | [Pink Noise for Sleeping](https://open.spotify.com/album/20VDYEeMS9iB9XQ4M5Wrno) | 3:36 | 2021-12-01 | 2022-06-28 |
 | [Pink Noise LP 450](https://open.spotify.com/track/1DLaJN45902AaSCex3c14a) | [03.48Pink](https://open.spotify.com/artist/2chCn0N9UBN7eXrHgLsy7v) | [Focus Noise Vol\. 2](https://open.spotify.com/album/2KvmKYZUYyEPKpExfUF6t9) | 2:17 | 2022-03-08 | 2022-12-16 |
-| [Pink Noise Lullaby](https://open.spotify.com/track/41qLjb5rQLRU7OZUPSCGgD) | [Natural Samples](https://open.spotify.com/artist/47MfVCrL7T19D2H9T7C2Rs) | [Sleepy Pink Waves](https://open.spotify.com/album/51QLgHbrysGVILkhAfyaMp) | 2:39 | 2023-03-16 |  |
+| [Pink Noise Lullaby](https://open.spotify.com/track/41qLjb5rQLRU7OZUPSCGgD) | [Natural Samples](https://open.spotify.com/artist/47MfVCrL7T19D2H9T7C2Rs) | [Sleepy Pink Waves](https://open.spotify.com/album/51QLgHbrysGVILkhAfyaMp) | 2:39 | 2023-03-16 | 2026-04-27 |
 | [Pink Noise Medium Depth](https://open.spotify.com/track/6NLSUIoeVko931R0kLw3Dg) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Pink Noise Hz](https://open.spotify.com/album/5kw0eQ2Kt85ovdYPu35j3c) | 3:08 | 2023-03-16 |  |
 | [Pink Noise Mid\-Side](https://open.spotify.com/track/1P6VAf6LhegiamzxDEgzgq) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Pink Noise](https://open.spotify.com/album/2MSSDaUyS9X4F6RL0T6ME0) | 2:17 | 2021-12-01 | 2022-10-27 |
 | [Pink Noise Mind](https://open.spotify.com/track/6zF7bsijcJjNhZX6YN2MRO) | [Omnispherical](https://open.spotify.com/artist/4JVk8gc5inFzJpDG8kyyYm) | [Pink Noise Mind](https://open.spotify.com/album/7Itxh0DLqLdu0OkPd9gZqi) | 2:45 | 2023-10-27 |  |
@@ -603,7 +605,7 @@
 | [Soothing Pink Hum](https://open.spotify.com/track/2W1L3FaUAWGQSOFbQo08Cz) | [PXL PXL](https://open.spotify.com/artist/3VsfVLFVzGpyCwlMDpusSp) | [Sleepy Pink Noizzz](https://open.spotify.com/album/7olSXRkTlJ3s18lhdu2Nyy) | 3:52 | 2022-06-10 | 2023-03-18 |
 | [Soothing Pink Noise](https://open.spotify.com/track/05hcCX6rQmpnj91r0Pvnhr) | [BBVB](https://open.spotify.com/artist/1uMU5JVDiS1brp2XOicvPP) | [Pink Noise Sleep](https://open.spotify.com/album/5xLvyREx2BinFPw6fTJvH2) | 2:50 | 2023-03-16 |  |
 | [Soothing Pink Noise](https://open.spotify.com/track/5BcOxgSavUxOe3YgeHoc2I) | [Brown Pink White](https://open.spotify.com/artist/3KEv72uRV6dVwaxdeo0cdh) | [Soothing Pink Noise](https://open.spotify.com/album/6PpTn84QPTJOMZ8Oxxaguq) | 2:38 | 2022-10-26 | 2023-03-18 |
-| [Soothing Pink Noise](https://open.spotify.com/track/7fycWHqFaqWRzaKWlys4W0) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [Pink Noise Dreamscape](https://open.spotify.com/album/5WQ8yzLy303xPRsC3LaKhg) | 2:42 | 2023-03-16 |  |
+| [Soothing Pink Noise](https://open.spotify.com/track/7fycWHqFaqWRzaKWlys4W0) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [Pink Noise Dreamscape](https://open.spotify.com/album/5WQ8yzLy303xPRsC3LaKhg) | 2:42 | 2023-03-16 | 2026-04-27 |
 | [Soothing Pink Noise](https://open.spotify.com/track/6eKixzLGenf4ocaT2hBdwJ) | [New Lab](https://open.spotify.com/artist/2JERrrG5RDWd8oVOhpPl2F) | [Soothing Pink Noise](https://open.spotify.com/album/42ZawpnhtezBNnp8WX53fj) | 3:52 | 2022-10-26 | 2023-03-18 |
 | [Soothing Pink Noise for Dreaming](https://open.spotify.com/track/6nbJRpBrylJUNWTvDVsKvu) | [Pink Orbit](https://open.spotify.com/artist/1OcOohHo7T54wkzZhIs6KA) | [Soothing Pink Noise for Dreaming](https://open.spotify.com/album/4JZrZ1X8zjQdgD1AR4ZFxS) | 3:54 | 2022-10-26 | 2023-03-18 |
 | [SOS\-Pink Noise](https://open.spotify.com/track/2AoLitWjr9Fr249sjW4wXQ) | [San Sebastiano](https://open.spotify.com/artist/7J6qda0ybtYiOFds9xKXc4) | [Zarata Arrosa](https://open.spotify.com/album/7EPl3Pl6Hm5e3sRCaLtO6K) | 3:00 | 2023-03-16 |  |

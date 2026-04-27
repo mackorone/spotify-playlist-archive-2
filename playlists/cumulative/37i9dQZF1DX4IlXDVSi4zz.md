@@ -4,7 +4,7 @@
 
 > Dance the night away and just blame it on Tulum!
 
-318 songs - 19 hr 39 min
+319 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 | 2024-04-19 |  |
 | [AEIOU](https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [AEIOU](https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK) | 2:41 | 2022-06-27 | 2024-01-30 |
 | [Alameyo](https://open.spotify.com/track/42uAOnhBOaZ5hz1fjupFGJ) | [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH) | [Alameyo](https://open.spotify.com/album/4EqsGhVuaBaHndb3JzILFn) | 3:15 | 2025-10-24 |  |
+| [ALGO TÚ \- Shimza Remix](https://open.spotify.com/track/5j6ixxtMNVFLxkTzs6scjV) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [ALGO TÚ \(Shimza Remix\)](https://open.spotify.com/album/5s5oP0QaGU0s94niBLvPyG) | 3:34 | 2026-04-24 |  |
 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 | 2022-10-12 | 2025-09-27 |
 | [All the Way](https://open.spotify.com/track/5Zk4iUcotUIcyPeanblxS3) | [ÜNAM](https://open.spotify.com/artist/4BHKv1X2ldBdklzqRfLDFj) | [WAYU Various Artists, Vol\. 2](https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL) | 7:44 | 2022-04-24 | 2022-07-29 |
 | [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 | 2024-07-19 | 2025-12-06 |
@@ -264,7 +265,7 @@
 | [Si Te Portas Bonito](https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 5:01 | 2023-07-28 | 2025-08-16 |
 | [Sideways](https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 4:13 | 2024-07-26 |  |
 | [Simple Hit](https://open.spotify.com/track/0C3QADQBYFjcSeU8bY7Oex) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Simple Hit](https://open.spotify.com/album/4cNRNpj5a81e2iF5cIb1n5) | 3:39 | 2022-03-29 | 2022-04-29 |
-| [Simple Things](https://open.spotify.com/track/0Q1XK58PPN7VZIBK6a3DFf) | [VITO \(UK\)](https://open.spotify.com/artist/4ipu1Wi05H8ZdEkvULDaKI), [Marian \(BR\)](https://open.spotify.com/artist/5FCqRgK9PqJYyfnBJg4AeH) | [Simple Things](https://open.spotify.com/album/3bKOdCt0sT8z5bthYD2zfr) | 4:13 | 2026-03-20 |  |
+| [Simple Things](https://open.spotify.com/track/0Q1XK58PPN7VZIBK6a3DFf) | [VITO \(UK\)](https://open.spotify.com/artist/4ipu1Wi05H8ZdEkvULDaKI), [Marian \(BR\)](https://open.spotify.com/artist/5FCqRgK9PqJYyfnBJg4AeH) | [Simple Things](https://open.spotify.com/album/3bKOdCt0sT8z5bthYD2zfr) | 4:13 | 2026-03-20 | 2026-04-27 |
 | [Skywalking](https://open.spotify.com/track/0so587BGO1K3OU3fMqF25I) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Skywalking](https://open.spotify.com/album/0UbrZBSsBlWSNiUW9bRw5o) | 6:14 | 2022-03-29 | 2022-06-28 |
 | [So Fine](https://open.spotify.com/track/14qkKbAfG7tYYrgtlZXZFr) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [So Fine](https://open.spotify.com/album/7tcQHmLF5xdqM93umRMdt5) | 3:36 | 2022-03-29 | 2022-07-28 |
 | [SOFIA](https://open.spotify.com/track/1U40NYEnXxvbwdmDugvgjS) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:53 | 2024-07-26 | 2026-03-21 |

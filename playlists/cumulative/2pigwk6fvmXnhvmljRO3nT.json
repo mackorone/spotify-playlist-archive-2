@@ -151581,6 +151581,24 @@
     },
     {
       "album": {
+        "name": "\u30a4\u30d5/\u30d1\u30e9\u30bd\u30eb\u30b5\u30a4\u30c0\u30fc",
+        "url": "https://open.spotify.com/album/5M3QBrMhpHErgrpMkWEL4X"
+      },
+      "artists": [
+        {
+          "name": "MORE MORE JUMP!",
+          "url": "https://open.spotify.com/artist/1yorjq7rihYVC8Se7eRKps"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215466,
+      "name": "\u30a4\u30d5 (feat. \u82b1\u91cc\u307f\u306e\u308a&\u6850\u8c37\u9065&\u6843\u4e95\u611b\u8389&\u65e5\u91ce\u68ee\u96eb&\u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/3O9hXP63syyiV4wTURNmil"
+    },
+    {
+      "album": {
         "name": "BEST",
         "url": "https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx"
       },

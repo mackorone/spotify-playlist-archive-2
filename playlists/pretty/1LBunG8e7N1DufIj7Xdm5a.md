@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,377 songs - 9 day 16 hr 58 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,378 songs - 9 day 17 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4385,5 +4385,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4375 | [OPEN AND CLOSE YOURSELF](https://open.spotify.com/track/2FxLjv7GfqP0csK1Xc5Br3) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [YOGYETY & AI](https://open.spotify.com/album/4iXiqES3b6P7toYWq2ZCpd) | 3:59 |
 | 4376 | [Bless the Morning Train](https://open.spotify.com/track/4ZMJoKSQdonpU8UT2Gwr0d) | [Funeral Letters](https://open.spotify.com/artist/0cDgNx7GyU4qBNjuQ1Zy7H) | [Bless the Morning Train](https://open.spotify.com/album/1jGZQCB0ldwwsXisZYUDDC) | 3:15 |
 | 4377 | [Alba](https://open.spotify.com/track/10jU44SZcCkZ2CdX7sCTTu) | [Civico97](https://open.spotify.com/artist/4iS1xr1BJF12FN1QWb2A21) | [Alba](https://open.spotify.com/album/6TmifkwpRrtt0YwZi2AqLj) | 3:12 |
+| 4378 | [Todo Quedó En Silencio](https://open.spotify.com/track/4G1fHgE7RWTbLEHfudgFII) | [Luz Entre Ruinas](https://open.spotify.com/artist/6ihnEVCMt4Z0Of7gMA2K2f) | [Todo Quedó En Silencio](https://open.spotify.com/album/6THtI92FpueHEE21mYFr5H) | 3:33 |
 
-Snapshot ID: `AAAIb86kRQ4f/0iz3k9ciqj0K924Hgds`
+Snapshot ID: `AAAIcAYZ8AK9WGxS6k3OjG/9ST0TWPKM`

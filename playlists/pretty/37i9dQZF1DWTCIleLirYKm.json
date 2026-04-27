@@ -1,6 +1,6 @@
 {
   "description": "a state of mind. Cover: Charley Crockett",
-  "num_followers": 214295,
+  "num_followers": 214380,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-04-03 04:00:34",
       "album": {
+        "name": "Top Hat Crown & the Clapmaster's Son",
+        "url": "https://open.spotify.com/album/0JGmK6gTeDeca4ijGPEUaf"
+      },
+      "artists": [
+        {
+          "name": "The Band Of Heathens",
+          "url": "https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7"
+        }
+      ],
+      "duration_ms": 319227,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/3s5NrHgyTkuinl0TgHCHeK"
+    },
+    {
+      "added_at": "2026-04-03 04:00:34",
+      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -323,22 +339,6 @@
     {
       "added_at": "2026-04-03 04:00:34",
       "album": {
-        "name": "Top Hat Crown & the Clapmaster's Son",
-        "url": "https://open.spotify.com/album/0JGmK6gTeDeca4ijGPEUaf"
-      },
-      "artists": [
-        {
-          "name": "The Band Of Heathens",
-          "url": "https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7"
-        }
-      ],
-      "duration_ms": 319227,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/3s5NrHgyTkuinl0TgHCHeK"
-    },
-    {
-      "added_at": "2026-04-03 04:00:34",
-      "album": {
         "name": "Ol' Waylon",
         "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
       },
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-04-03 04:00:34",
       "album": {
-        "name": "With Heaven On Top",
-        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 147721,
-      "name": "If They Come Lookin'",
-      "url": "https://open.spotify.com/track/5TnEQex0PO8eVi1i6yDT7Q"
-    },
-    {
-      "added_at": "2026-04-03 04:00:34",
-      "album": {
         "name": "Firewater",
         "url": "https://open.spotify.com/album/304hLSMc8ZSHvMsh9YS4Jk"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 220186,
       "name": "Ballad of a Southern Man",
       "url": "https://open.spotify.com/track/0trWlSTCYcwc40ZH0PeUyd"
+    },
+    {
+      "added_at": "2026-04-03 04:00:34",
+      "album": {
+        "name": "With Heaven On Top",
+        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 147721,
+      "name": "If They Come Lookin'",
+      "url": "https://open.spotify.com/track/5TnEQex0PO8eVi1i6yDT7Q"
     },
     {
       "added_at": "2026-04-03 04:00:34",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-04-03 04:00:34",
       "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 247239,
-      "name": "Whiskey River",
-      "url": "https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5"
-    },
-    {
-      "added_at": "2026-04-03 04:00:34",
-      "album": {
         "name": "Good Godly Woman",
         "url": "https://open.spotify.com/album/7iYaPN9HmhLoEPCnptvOfw"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 147598,
       "name": "Good Godly Woman",
       "url": "https://open.spotify.com/track/6GWMddXRoGtOQRMwxItviV"
+    },
+    {
+      "added_at": "2026-04-03 04:00:34",
+      "album": {
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 247239,
+      "name": "Whiskey River",
+      "url": "https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5"
     },
     {
       "added_at": "2026-04-03 04:00:34",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-04-03 04:00:34",
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 335293,
-      "name": "Outlaw State Of Mind",
-      "url": "https://open.spotify.com/track/5WFJ17ke5ldHuM0X3J5ddz"
-    },
-    {
-      "added_at": "2026-04-03 04:00:34",
-      "album": {
         "name": "Shine On Rainy Day",
         "url": "https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg"
       },
@@ -663,6 +647,22 @@
     {
       "added_at": "2026-04-03 04:00:34",
       "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 335293,
+      "name": "Outlaw State Of Mind",
+      "url": "https://open.spotify.com/track/5WFJ17ke5ldHuM0X3J5ddz"
+    },
+    {
+      "added_at": "2026-04-03 04:00:34",
+      "album": {
         "name": "Trail Of Flowers",
         "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 216128,
       "name": "I Could Drive You Crazy",
       "url": "https://open.spotify.com/track/6xgCx5NI5sE0yQ7Of1rkFo"
-    },
-    {
-      "added_at": "2026-04-03 04:00:34",
-      "album": {
-        "name": "Metamodern Sounds in Country Music",
-        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 241320,
-      "name": "Long White Line",
-      "url": "https://open.spotify.com/track/40Xg69oisdpuP4C7xl3RkK"
     },
     {
       "added_at": "2026-04-03 04:00:34",
@@ -727,6 +711,22 @@
       "duration_ms": 287626,
       "name": "Pancho and Lefty",
       "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
+    },
+    {
+      "added_at": "2026-04-03 04:00:34",
+      "album": {
+        "name": "Metamodern Sounds in Country Music",
+        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 241320,
+      "name": "Long White Line",
+      "url": "https://open.spotify.com/track/40Xg69oisdpuP4C7xl3RkK"
     },
     {
       "added_at": "2026-04-03 04:00:34",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-04-03 04:00:34",
       "album": {
-        "name": "High Top Mountain",
-        "url": "https://open.spotify.com/album/59ElPFKCqmH5nLRdWjyopf"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 126466,
-      "name": "Life Ain't Fair and the World Is Mean",
-      "url": "https://open.spotify.com/track/3M97fwKZfzvQ8xppMoQ7a0"
-    },
-    {
-      "added_at": "2026-04-03 04:00:34",
-      "album": {
         "name": "Take This Job And Shove It",
         "url": "https://open.spotify.com/album/6XK1mI9IEtrn6HmhPV86HI"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2026-04-03 04:00:34",
       "album": {
-        "name": "The Late Great Townes Van Zandt",
-        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
+        "name": "High Top Mountain",
+        "url": "https://open.spotify.com/album/59ElPFKCqmH5nLRdWjyopf"
       },
       "artists": [
         {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 220573,
-      "name": "Poncho & Lefty",
-      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
+      "duration_ms": 126466,
+      "name": "Life Ain't Fair and the World Is Mean",
+      "url": "https://open.spotify.com/track/3M97fwKZfzvQ8xppMoQ7a0"
     },
     {
       "added_at": "2026-04-03 04:00:34",
@@ -891,6 +875,22 @@
       "duration_ms": 152426,
       "name": "Living on the Run",
       "url": "https://open.spotify.com/track/27Xzsz1vWsBn1Nq9PZy9hO"
+    },
+    {
+      "added_at": "2026-04-03 04:00:34",
+      "album": {
+        "name": "The Late Great Townes Van Zandt",
+        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Poncho & Lefty",
+      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
     },
     {
       "added_at": "2026-04-03 04:00:34",

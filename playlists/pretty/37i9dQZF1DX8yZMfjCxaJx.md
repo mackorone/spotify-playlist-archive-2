@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 
 > Las favoritas de los patrones\. LOS DOS DE TAMAULIPAS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,380 likes - 150 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,431 likes - 150 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 | 149 | [Lo Que Pesa Mi Palabra \(En Vivo\)](https://open.spotify.com/track/4012qfzGwiINFXrhaxXbEb) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [En Vivo Culiacan](https://open.spotify.com/album/1sEUQVniHftLraa9HD2IIe) | 2:48 |
 | 150 | [El Perfil del Muchacho](https://open.spotify.com/track/3yMck4yM2270VMx6NPynbT) | [Los Hijos De Hernández](https://open.spotify.com/artist/0xcs1RSih2SElPUcqOrYBo) | [El Perfil del Muchacho](https://open.spotify.com/album/5OX1uiyu8aYIuQs9oN8A8n) | 3:43 |
 
-Snapshot ID: `AAAAAKBqIgK85bLnMLaWhlyD48wmHNVg`
+Snapshot ID: `AAAAANMhBe2kwaEYWzFTVEhC4J8Vm9h5`

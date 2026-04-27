@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 2,995 songs - 6 day 10 hr 45 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 2,996 songs - 6 day 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3003,5 +3003,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2993 | [we build the hype](https://open.spotify.com/track/34l06X6vqBeKqITmvpuA3b) | [Bumloco](https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M) | [we build the hype](https://open.spotify.com/album/1efyMQK0J8ZjjtL8igznFf) | 2:11 |
 | 2994 | [FKN LOUD](https://open.spotify.com/track/6KefiS7DtDW4XGNrXzMhrk) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Manji](https://open.spotify.com/artist/3kKttmkT96hcdqjZUvlhmn) | [FKN LOUD](https://open.spotify.com/album/7jFH4LtFcNXSpBDB6sw4Bk) | 3:00 |
 | 2995 | [XXX](https://open.spotify.com/track/0e2iPB0QVIWYtJHEYSUmrt) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [XXX](https://open.spotify.com/album/0G6hIuCzEbHL8CaRKNcmB3) | 3:49 |
+| 2996 | [A New Religion](https://open.spotify.com/track/0g0Z5Xn9Feapap1eFIvqYE) | [Insuspect](https://open.spotify.com/artist/1NfB4JTkokC6dfFqKXyZEa), [Eternal Records](https://open.spotify.com/artist/18Ye7CcEFN7DXDXElQs57x) | [A New Religion](https://open.spotify.com/album/190xglUAKd8bHSBJSevgPF) | 2:59 |
 
-Snapshot ID: `AAAMDHrkggYpKp5/S/oTlNviZYET2pjV`
+Snapshot ID: `AAAMDWWhF1jWt2Om9FhJJqC3VcGrNKK+`

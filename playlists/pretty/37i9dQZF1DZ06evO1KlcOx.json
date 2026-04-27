@@ -1,12 +1,12 @@
 {
   "description": "This is Grouper. The essential tracks, all in one playlist.",
-  "num_followers": 7994,
+  "num_followers": 7998,
   "original_name": "This Is Grouper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAAAbF4jaBaKeTVmjaHH/n9PL",
+  "snapshot_id": "aewEAAAAAAD2AZ6MIL7VO3RGCyVlorB+",
   "tracks": [
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grid of Points",
-        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
+        "name": "Way Their Crept",
+        "url": "https://open.spotify.com/album/6faiJmDRFljT7N1R9lllDv"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Driving",
-      "url": "https://open.spotify.com/track/3Wgm9FhrruO71VDFA6kxgj"
+      "duration_ms": 235093,
+      "name": "Hold A Desert, Feel Its Hand",
+      "url": "https://open.spotify.com/track/1F39HVBjOSlrEM2SK98J2M"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Way Their Crept",
-        "url": "https://open.spotify.com/album/6faiJmDRFljT7N1R9lllDv"
+        "name": "Grid of Points",
+        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 235093,
-      "name": "Hold A Desert, Feel Its Hand",
-      "url": "https://open.spotify.com/track/1F39HVBjOSlrEM2SK98J2M"
+      "duration_ms": 228000,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/3Wgm9FhrruO71VDFA6kxgj"
     }
   ],
   "unique_name": "This Is Grouper",

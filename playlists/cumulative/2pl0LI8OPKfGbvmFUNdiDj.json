@@ -7641,6 +7641,24 @@
     },
     {
       "album": {
+        "name": "What we doin?",
+        "url": "https://open.spotify.com/album/6fESAUJA3sxTjbWnwoV79U"
+      },
+      "artists": [
+        {
+          "name": "Sw\u00edzzy",
+          "url": "https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178327,
+      "name": "What we doin?",
+      "url": "https://open.spotify.com/track/4ZyOh1Evg8rRy5Y95HXUeG"
+    },
+    {
+      "album": {
         "name": "Where Did The Time Go ?",
         "url": "https://open.spotify.com/album/5HsFc733bwG90PUlCPjPR4"
       },

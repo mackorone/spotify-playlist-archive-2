@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-519 songs - 1 day 0 hr 21 min
+520 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [First Light](https://open.spotify.com/track/08D80j5X4eSW10Usymcn2A) | [Cosmic Embrace](https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6) | [First Light](https://open.spotify.com/album/6nwwMi6ml0VWVfDAKLzqs8) | 2:28 | 2025-10-24 | 2026-03-17 |
 | [Floating Mountain](https://open.spotify.com/track/0GYK9ZvfI5WJr2CU4hINVJ) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Floating Mountain](https://open.spotify.com/album/08MtJbxollL4n9O3bKhw0T) | 2:24 | 2026-03-16 | 2026-04-04 |
 | [Flod](https://open.spotify.com/track/2WniKdcdwp2nsEz22BpsgM) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Flod](https://open.spotify.com/album/3X1AMeGSmFecsjCrPQasc5) | 2:42 | 2025-02-10 | 2026-03-17 |
+| [Floe](https://open.spotify.com/track/2mdsmyXRZGdzogMfDmTnf4) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Floe](https://open.spotify.com/album/7KeNkCZ64bAfBaRXgUa0IU) | 2:40 | 2026-04-17 |  |
 | [Flowing Calm](https://open.spotify.com/track/3FDcmnPJY1V39k54Fy6FxN) | [Joseph Rain](https://open.spotify.com/artist/1YHhB4lSX141uoyd58WoUc) | [Flowing Calm](https://open.spotify.com/album/4JoqWgNsmJ4NUE13A4FDKS) | 2:28 | 2023-09-01 | 2025-10-02 |
 | [Flowing Lines](https://open.spotify.com/track/1JHNvy3B6P6YDcVyNnGL7n) | [Miyklo](https://open.spotify.com/artist/2X3Invt8lYGm7czZvFUPCj) | [Flowing Lines](https://open.spotify.com/album/6po1RmrxEF1GvBjCkVgPyO) | 2:35 | 2025-03-14 |  |
 | [Flowing Peace](https://open.spotify.com/track/20WVH6sU3yjdZZqEdUrege) | [Orbit Of Zen](https://open.spotify.com/artist/75twMG8C6XM6AK3Q13MAFs) | [Flowing Peace](https://open.spotify.com/album/3m3tGNeHLbFZlx74OmP8Kb) | 2:34 | 2026-03-06 | 2026-04-04 |
@@ -410,7 +411,7 @@
 | [Seraphic Brook](https://open.spotify.com/track/6zhtszcM4EFDRoW0rBz4LV) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Seraphic Brook](https://open.spotify.com/album/5crrNZvkmjK7Hnj5jgYMIO) | 2:44 | 2026-03-06 |  |
 | [Seraphina Woods](https://open.spotify.com/track/1Lr6cJOM3mN15AsGox2k5I) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [Seraphina Woods](https://open.spotify.com/album/37Cby65UbMz5qWGaay3ABk) | 2:22 | 2025-03-14 |  |
 | [Seraphyne](https://open.spotify.com/track/7bbgZ5R0Uju35KTpXGDcuW) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Seraphyne](https://open.spotify.com/album/6WTzBM0MQ94K7gQXxZqbFK) | 3:21 | 2024-11-28 |  |
-| [Shallow Water](https://open.spotify.com/track/75tYEiKbrxBIyVo1azYqDm) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Shallow Water](https://open.spotify.com/album/4LW8rj1QIbDvp1BIzYiLNo) | 2:44 | 2023-10-26 |  |
+| [Shallow Water](https://open.spotify.com/track/75tYEiKbrxBIyVo1azYqDm) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Shallow Water](https://open.spotify.com/album/4LW8rj1QIbDvp1BIzYiLNo) | 2:44 | 2023-10-26 | 2026-04-27 |
 | [Shimmering Glades](https://open.spotify.com/track/1a8A0QsJGL0D3Qa7bPiac3) | [Arch](https://open.spotify.com/artist/3DeXMhW341Jkl4APFrFCmL) | [Shimmering Glades](https://open.spotify.com/album/0gN5bpSNczxAMDo8zH7O12) | 2:34 | 2026-03-16 | 2026-03-19 |
 | [Shine](https://open.spotify.com/track/0HoQL2kDebChTcE3x2e0Lz) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:10 | 2023-03-13 | 2025-12-24 |
 | [Shrine](https://open.spotify.com/track/4YWaQIwg9pXv7ttx0u33LM) | [Aveniós](https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1) | [Shrine](https://open.spotify.com/album/0aYrxe3w0YtIn0bBC61GfY) | 2:45 | 2026-03-16 | 2026-04-07 |

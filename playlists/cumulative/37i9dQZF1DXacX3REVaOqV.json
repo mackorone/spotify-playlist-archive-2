@@ -7053,6 +7053,24 @@
     },
     {
       "album": {
+        "name": "Love Feeling EP",
+        "url": "https://open.spotify.com/album/3ZoTr8w2O7U140diHfSvQw"
+      },
+      "artists": [
+        {
+          "name": "Michel De Hey",
+          "url": "https://open.spotify.com/artist/4BY4HaWussT44zj9RiCGzh"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196535,
+      "name": "I Got A Love Feeling",
+      "url": "https://open.spotify.com/track/7n52wRgdwscjTt7sxbxP2G"
+    },
+    {
+      "album": {
         "name": "I Got Nothing (Ferreck Dawn Mix)",
         "url": "https://open.spotify.com/album/2Rfodx3PPInqdZUplCNzjq"
       },
@@ -13880,7 +13898,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 325000,
       "name": "Swing My Way",
       "url": "https://open.spotify.com/track/2vAzu2lfBHmKhOSmhSG4re"

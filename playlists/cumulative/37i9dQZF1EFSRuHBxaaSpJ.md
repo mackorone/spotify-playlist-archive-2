@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-94 songs - 4 hr 57 min
+96 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Dis moi que tu m'aimes](https://open.spotify.com/track/1T9LhC0vlV95Q8HJRaNC1S) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 3:12 | 2025-09-28 |  |
 | [Dis\-moi que tu m'aimes](https://open.spotify.com/track/6rWZiuSrqHdgG62GIaXmZk) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Dis\-moi que tu m'aimes](https://open.spotify.com/album/5PSs4QyTRbUsv4aLyeXPwc) | 3:13 | 2025-07-26 | 2025-09-29 |
 | [Diviser pour mieux régner](https://open.spotify.com/track/2SyhVw4qt5p5PDIWkO1XE2) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 2:40 | 2024-06-07 |  |
+| [Empire](https://open.spotify.com/track/7inZTYdMa0QXoyaIDxI612) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 2:08 | 2026-04-26 |  |
 | [Entre nous](https://open.spotify.com/track/0CCuBJkOnLy09zFaQBSJ50) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Entre nous](https://open.spotify.com/album/1LvrT5k4frdXaOy7sc66jl) | 2:48 | 2024-06-07 |  |
 | [Essaie encore](https://open.spotify.com/track/792zA7PcYHPDtUoXnYrV5e) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 2:40 | 2024-06-07 |  |
 | [fade up](https://open.spotify.com/track/6VhmOw8lERbTRs1Al7iy2z) | [Eliias](https://open.spotify.com/artist/36hWlixqFk1ZWlJQYaB5To) | [march 29](https://open.spotify.com/album/1DpoTfAnZAEEIqJ4zqcpJG) | 6:32 | 2025-05-18 |  |
@@ -82,6 +83,7 @@
 | [Par hasard](https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Jukaï : Tome 1](https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7) | 2:15 | 2024-07-23 |  |
 | [Poursuite](https://open.spotify.com/track/1NNAd8UmD0qmWwykyRxNGC) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [The Last Race](https://open.spotify.com/album/7BhTEZolYdvJoxWB6ykCf8) | 3:27 | 2026-01-15 |  |
 | [Promets moi](https://open.spotify.com/track/6pgjSqpayCvO5PAGZTI5Eg) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:48 | 2024-06-07 |  |
+| [QUE DES PROBLEMES RELOADED](https://open.spotify.com/track/2thUpCS5jb0UHXym10r8wE) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js), [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU), [Todiefor](https://open.spotify.com/artist/55SWeOUhlJHrkcuih5J2pQ) | [PANDEMONIUM RELOADED](https://open.spotify.com/album/6KEJ0oydDeJvHiF0oq9t3J) | 2:04 | 2026-04-26 |  |
 | [Rebeulotte](https://open.spotify.com/track/2JtLww17GyDPCw51pelun9) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z) | [JesuispasséchezSo](https://open.spotify.com/album/0lhoVQfxS85IViefuzVTxl) | 3:02 | 2025-01-09 | 2025-04-12 |
 | [Regarde toi](https://open.spotify.com/track/3fd1m0WrUUkntWM2EnLS2Y) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 3:25 | 2024-06-07 |  |
 | [Rencontre](https://open.spotify.com/track/5O7pzlNIiolakEBeggkekJ) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 0:58 | 2024-06-07 |  |

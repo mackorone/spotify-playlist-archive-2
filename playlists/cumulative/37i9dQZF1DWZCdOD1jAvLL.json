@@ -328,7 +328,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 153750,
       "name": "A Milli - SIDEPIECE Remix",
       "url": "https://open.spotify.com/track/2jB8Y4OCA1azQrsIkva32z"
@@ -8922,7 +8922,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 155483,
       "name": "Howweroll",
       "url": "https://open.spotify.com/track/6SKKgLq9lnoDsWVBltoZ5f"
@@ -12617,6 +12617,32 @@
     },
     {
       "album": {
+        "name": "My Own Thang EP",
+        "url": "https://open.spotify.com/album/4oP18eb48EO1ogI15teHU1"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sophiegrophy",
+          "url": "https://open.spotify.com/artist/4VbLknkcJMhSninTvMZbfE"
+        },
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178153,
+      "name": "My Own Thang (To The Beat)",
+      "url": "https://open.spotify.com/track/4u6u4sdrJ0CPWHAzV8ygVd"
+    },
+    {
+      "album": {
         "name": "My Type",
         "url": "https://open.spotify.com/album/4MX5uRMMHGEt3QaMIdamoH"
       },
@@ -14224,7 +14250,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 204545,
       "name": "OUTSIDER",
       "url": "https://open.spotify.com/track/752jwWUjjewYUdkyXQbUMe"
@@ -15036,6 +15062,28 @@
       "duration_ms": 200857,
       "name": "Prayers",
       "url": "https://open.spotify.com/track/32AM51AZPlQ7NqpuGqK4rP"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/2W2vZJBEdyswIanzJUKuct"
+      },
+      "artists": [
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156176,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3vlN5TntxqeGFtx0YOYYBb"
     },
     {
       "album": {
@@ -16098,6 +16146,36 @@
       "duration_ms": 217749,
       "name": "Rizzla",
       "url": "https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v"
+    },
+    {
+      "album": {
+        "name": "Club Rompas, Vol. 2",
+        "url": "https://open.spotify.com/album/5TbqhCXehVUcD9htuxteQX"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        },
+        {
+          "name": "Richard Vission",
+          "url": "https://open.spotify.com/artist/3EBdhh05GoAX3lIqJSPVXt"
+        },
+        {
+          "name": "Static Revenger",
+          "url": "https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Rock the Rhythm (I Like That)",
+      "url": "https://open.spotify.com/track/5IH4qsWYYpC4o1SNm1aQX2"
     },
     {
       "album": {

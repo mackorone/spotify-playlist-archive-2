@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 256968,
+  "num_followers": 257015,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,26 @@
     {
       "added_at": "2026-04-23 23:01:07",
       "album": {
-        "name": "take me (to the sunrise)",
-        "url": "https://open.spotify.com/album/1ePQDyfS4ajFsU8zv1HQcF"
+        "name": "World Is Mine",
+        "url": "https://open.spotify.com/album/5rCuyoc0PgtgCb2hpoQqMZ"
       },
       "artists": [
         {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         },
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        },
+        {
+          "name": "BJOERN",
+          "url": "https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN"
         }
       ],
-      "duration_ms": 226829,
-      "name": "take me (to the sunrise)",
-      "url": "https://open.spotify.com/track/7xFd6J61nBu42RAlDVgQC3"
+      "duration_ms": 286080,
+      "name": "World Is Mine",
+      "url": "https://open.spotify.com/track/0IOtFlCwTsHdekpZsaK0Ua"
     },
     {
       "added_at": "2026-04-23 23:01:07",
@@ -483,6 +487,26 @@
       "duration_ms": 228099,
       "name": "Hide U",
       "url": "https://open.spotify.com/track/4V5CI7i0zZJxXUgwzfjuDI"
+    },
+    {
+      "added_at": "2026-04-23 23:01:07",
+      "album": {
+        "name": "take me (to the sunrise)",
+        "url": "https://open.spotify.com/album/1ePQDyfS4ajFsU8zv1HQcF"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 226829,
+      "name": "take me (to the sunrise)",
+      "url": "https://open.spotify.com/track/7xFd6J61nBu42RAlDVgQC3"
     },
     {
       "added_at": "2026-04-23 23:01:07",
@@ -627,26 +651,6 @@
     {
       "added_at": "2026-04-23 23:01:07",
       "album": {
-        "name": "Fast",
-        "url": "https://open.spotify.com/album/5JBVZcU7tXcXl8W8YIcqxf"
-      },
-      "artists": [
-        {
-          "name": "FUNFUN",
-          "url": "https://open.spotify.com/artist/0O4aXwpWk4Jy52PQwhbyV6"
-        },
-        {
-          "name": "Dallien",
-          "url": "https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ"
-        }
-      ],
-      "duration_ms": 198688,
-      "name": "Fast",
-      "url": "https://open.spotify.com/track/0ffGqnq8C2E2GdJjZLTg5I"
-    },
-    {
-      "added_at": "2026-04-23 23:01:07",
-      "album": {
         "name": "The Underground",
         "url": "https://open.spotify.com/album/1EVXcljYwqRs05PCzODyWB"
       },
@@ -687,6 +691,26 @@
     {
       "added_at": "2026-04-23 23:01:07",
       "album": {
+        "name": "Lighter",
+        "url": "https://open.spotify.com/album/50lrGLN2b1eO2t1rIuzc3h"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Darla Jade",
+          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
+        }
+      ],
+      "duration_ms": 187283,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/0LJeMisvD34COpkt7QFFIO"
+    },
+    {
+      "added_at": "2026-04-23 23:01:07",
+      "album": {
         "name": "Strange",
         "url": "https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY"
       },
@@ -699,6 +723,26 @@
       "duration_ms": 224731,
       "name": "Strange",
       "url": "https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6"
+    },
+    {
+      "added_at": "2026-04-23 23:01:07",
+      "album": {
+        "name": "Fast",
+        "url": "https://open.spotify.com/album/5JBVZcU7tXcXl8W8YIcqxf"
+      },
+      "artists": [
+        {
+          "name": "FUNFUN",
+          "url": "https://open.spotify.com/artist/0O4aXwpWk4Jy52PQwhbyV6"
+        },
+        {
+          "name": "Dallien",
+          "url": "https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ"
+        }
+      ],
+      "duration_ms": 198688,
+      "name": "Fast",
+      "url": "https://open.spotify.com/track/0ffGqnq8C2E2GdJjZLTg5I"
     },
     {
       "added_at": "2026-04-23 23:01:07",
@@ -719,26 +763,6 @@
       "duration_ms": 264614,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy"
-    },
-    {
-      "added_at": "2026-04-23 23:01:07",
-      "album": {
-        "name": "Lighter",
-        "url": "https://open.spotify.com/album/50lrGLN2b1eO2t1rIuzc3h"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "Darla Jade",
-          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
-        }
-      ],
-      "duration_ms": 187283,
-      "name": "Lighter",
-      "url": "https://open.spotify.com/track/0LJeMisvD34COpkt7QFFIO"
     },
     {
       "added_at": "2026-04-23 23:01:07",
@@ -903,6 +927,22 @@
     {
       "added_at": "2026-04-23 23:01:07",
       "album": {
+        "name": "Sewn",
+        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Sewn",
+      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
+    },
+    {
+      "added_at": "2026-04-23 23:01:07",
+      "album": {
         "name": "Beside You",
         "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
       },
@@ -931,22 +971,6 @@
       "duration_ms": 305235,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo"
-    },
-    {
-      "added_at": "2026-04-23 23:01:07",
-      "album": {
-        "name": "Sewn",
-        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Sewn",
-      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
     },
     {
       "added_at": "2026-04-23 23:01:07",
@@ -1139,18 +1163,22 @@
     {
       "added_at": "2026-04-23 23:01:07",
       "album": {
-        "name": "Sunlite",
-        "url": "https://open.spotify.com/album/6m6jc4Wxbnc3mVN7H19PRX"
+        "name": "Protected",
+        "url": "https://open.spotify.com/album/4MOIA5rcy0XfN7kRWmSukG"
       },
       "artists": [
         {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        },
+        {
+          "name": "Richard Walters",
+          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
         }
       ],
-      "duration_ms": 228199,
-      "name": "Sunlite",
-      "url": "https://open.spotify.com/track/6AOIB0Mc6ONZWcr9IxwRa6"
+      "duration_ms": 240000,
+      "name": "Protected",
+      "url": "https://open.spotify.com/track/1cRRIRrUiPnLOvsnWNhoH9"
     },
     {
       "added_at": "2026-04-23 23:01:07",
@@ -1175,22 +1203,6 @@
       "duration_ms": 258644,
       "name": "Control",
       "url": "https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL"
-    },
-    {
-      "added_at": "2026-04-23 23:01:07",
-      "album": {
-        "name": "I Never Want This To End EP",
-        "url": "https://open.spotify.com/album/1MUzPLuWVEHUBQo9O7i6Nw"
-      },
-      "artists": [
-        {
-          "name": "Amy Wiles",
-          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
-        }
-      ],
-      "duration_ms": 178793,
-      "name": "I Never Want This To End",
-      "url": "https://open.spotify.com/track/6UM6c1Ehi4AWYwJbuynuTe"
     }
   ],
   "unique_name": "Melodic & Euphoric",

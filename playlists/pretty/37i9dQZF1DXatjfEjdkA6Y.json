@@ -1,6 +1,6 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: ABBA",
-  "num_followers": 5861,
+  "num_followers": 5863,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Pure... France",
-        "url": "https://open.spotify.com/album/7qHQ8U2HlkyXsBoSfoidkr"
-      },
-      "artists": [
-        {
-          "name": "Alain Barri\u00e8re",
-          "url": "https://open.spotify.com/artist/0ZKY5JXrPqZ761rg10WqtW"
-        }
-      ],
-      "duration_ms": 177133,
-      "name": "Elle \u00e9tait si jolie",
-      "url": "https://open.spotify.com/track/6zExa9fc43F6uxNdaVmcUR"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Tommy K\u00f6rberg - Judy min v\u00e4n (Remastered 2011)",
         "url": "https://open.spotify.com/album/2hpjbMakww7UotrWJHsxkI"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 140053,
       "name": "Judy min v\u00e4n",
       "url": "https://open.spotify.com/track/1Z4zGDjmHURFmHAd0OAV2t"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Pure... France",
+        "url": "https://open.spotify.com/album/7qHQ8U2HlkyXsBoSfoidkr"
+      },
+      "artists": [
+        {
+          "name": "Alain Barri\u00e8re",
+          "url": "https://open.spotify.com/artist/0ZKY5JXrPqZ761rg10WqtW"
+        }
+      ],
+      "duration_ms": 177133,
+      "name": "Elle \u00e9tait si jolie",
+      "url": "https://open.spotify.com/track/6zExa9fc43F6uxNdaVmcUR"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -751,18 +751,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Universal Master",
-        "url": "https://open.spotify.com/album/7kg1lYWJkHb0GbJbRcvN3K"
+        "name": "Duetos - Diz-me Com Quem Cantas",
+        "url": "https://open.spotify.com/album/6PNhOIaCoi6f3gX18qXOzH"
       },
       "artists": [
         {
-          "name": "Mich\u00e8le Torr",
-          "url": "https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF"
+          "name": "Fernando Tordo",
+          "url": "https://open.spotify.com/artist/4riCL3Xog9vm4kIeQICGJL"
+        },
+        {
+          "name": "Capicua",
+          "url": "https://open.spotify.com/artist/58jMhidjL2mOrbEI3D0RTZ"
         }
       ],
-      "duration_ms": 173480,
-      "name": "Une petite fran\u00e7aise",
-      "url": "https://open.spotify.com/track/4OMWFiBrBlA11tnJmNhi7y"
+      "duration_ms": 237152,
+      "name": "Tourada",
+      "url": "https://open.spotify.com/track/5x4vPEqiO7mzrI2QG3S4YV"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -783,6 +787,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "Universal Master",
+        "url": "https://open.spotify.com/album/7kg1lYWJkHb0GbJbRcvN3K"
+      },
+      "artists": [
+        {
+          "name": "Mich\u00e8le Torr",
+          "url": "https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF"
+        }
+      ],
+      "duration_ms": 173480,
+      "name": "Une petite fran\u00e7aise",
+      "url": "https://open.spotify.com/track/4OMWFiBrBlA11tnJmNhi7y"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "Marion Rung",
         "url": "https://open.spotify.com/album/2KvulZCeNvldgfmORtL4IL"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 132400,
       "name": "Tipi-tii",
       "url": "https://open.spotify.com/track/7r0GgmwNre1NtsrRA00bMa"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "Duetos - Diz-me Com Quem Cantas",
-        "url": "https://open.spotify.com/album/6PNhOIaCoi6f3gX18qXOzH"
-      },
-      "artists": [
-        {
-          "name": "Fernando Tordo",
-          "url": "https://open.spotify.com/artist/4riCL3Xog9vm4kIeQICGJL"
-        },
-        {
-          "name": "Capicua",
-          "url": "https://open.spotify.com/artist/58jMhidjL2mOrbEI3D0RTZ"
-        }
-      ],
-      "duration_ms": 237152,
-      "name": "Tourada",
-      "url": "https://open.spotify.com/track/5x4vPEqiO7mzrI2QG3S4YV"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "A Festa da Vida",
-        "url": "https://open.spotify.com/album/0ZlWPHxyCHxo70SQBSYZGm"
-      },
-      "artists": [
-        {
-          "name": "Carlos Mendes",
-          "url": "https://open.spotify.com/artist/0rPo81L45W612Ke5Ezsqc4"
-        }
-      ],
-      "duration_ms": 160487,
-      "name": "Festa da Vida",
-      "url": "https://open.spotify.com/track/7wLYU9xbF3rGxN8ZYTy0NS"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Er steht im Tor - Ihre grossen Erfolge",
         "url": "https://open.spotify.com/album/705ZSYIGNPIkRTwRaA9igw"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Un banc, un arbre, une rue",
-        "url": "https://open.spotify.com/album/76wwuBCyDmEEKecAEkFkCg"
+        "name": "A Festa da Vida",
+        "url": "https://open.spotify.com/album/0ZlWPHxyCHxo70SQBSYZGm"
       },
       "artists": [
         {
-          "name": "Severine",
-          "url": "https://open.spotify.com/artist/3EUjn8x9dDqyi5yrZNj0iH"
+          "name": "Carlos Mendes",
+          "url": "https://open.spotify.com/artist/0rPo81L45W612Ke5Ezsqc4"
         }
       ],
-      "duration_ms": 181033,
-      "name": "Un banc, un arbre, une rue",
-      "url": "https://open.spotify.com/track/0OInqhDtfYPcSpEQNtJx3n"
+      "duration_ms": 160487,
+      "name": "Festa da Vida",
+      "url": "https://open.spotify.com/track/7wLYU9xbF3rGxN8ZYTy0NS"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -947,6 +931,22 @@
       "duration_ms": 171666,
       "name": "Hablemos del amor",
       "url": "https://open.spotify.com/track/1uG9IM78KZTIEBzcWEd2E8"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Un banc, un arbre, une rue",
+        "url": "https://open.spotify.com/album/76wwuBCyDmEEKecAEkFkCg"
+      },
+      "artists": [
+        {
+          "name": "Severine",
+          "url": "https://open.spotify.com/artist/3EUjn8x9dDqyi5yrZNj0iH"
+        }
+      ],
+      "duration_ms": 181033,
+      "name": "Un banc, un arbre, une rue",
+      "url": "https://open.spotify.com/track/0OInqhDtfYPcSpEQNtJx3n"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Tsarli Tsaplin",
-        "url": "https://open.spotify.com/album/6PQTUHJ7dqG3mz1Qzi0DXM"
-      },
-      "artists": [
-        {
-          "name": "Tania Tsanaklidou",
-          "url": "https://open.spotify.com/artist/2M0MfjN3wqrrvKHXohxTfw"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Tsarly Tsaplin",
-      "url": "https://open.spotify.com/track/2BcjzwGE9Nwoqe6rqplYxD"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Popp Songs",
         "url": "https://open.spotify.com/album/4wvER0DV3Av6iGOwfbeMsj"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 142552,
       "name": "Le chant de Mallory",
       "url": "https://open.spotify.com/track/5ATFYzJdCMISJUUVRDUHMA"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Tsarli Tsaplin",
+        "url": "https://open.spotify.com/album/6PQTUHJ7dqG3mz1Qzi0DXM"
+      },
+      "artists": [
+        {
+          "name": "Tania Tsanaklidou",
+          "url": "https://open.spotify.com/artist/2M0MfjN3wqrrvKHXohxTfw"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Tsarly Tsaplin",
+      "url": "https://open.spotify.com/track/2BcjzwGE9Nwoqe6rqplYxD"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Les 50 Plus Belles Chansons",
-        "url": "https://open.spotify.com/album/0jhZnOsf191o5d4pzt2qTu"
+        "name": "Reeling In The Decades",
+        "url": "https://open.spotify.com/album/4FLE3sQpCWW9zwB1HE7erQ"
       },
       "artists": [
         {
-          "name": "Serge Lama",
-          "url": "https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz"
+          "name": "The Swarbriggs",
+          "url": "https://open.spotify.com/artist/2lDzSLqo8rRCm5koxElxRb"
         }
       ],
-      "duration_ms": 187413,
-      "name": "Un jardin sur la Terre",
-      "url": "https://open.spotify.com/track/5qrnU9rQR0Vpoc4vI1zmYc"
+      "duration_ms": 173013,
+      "name": "That's What Friends Are For",
+      "url": "https://open.spotify.com/track/1rz4rSUxJmeIF4CuYarTnp"
     }
   ],
   "unique_name": "Eurovision Gold",

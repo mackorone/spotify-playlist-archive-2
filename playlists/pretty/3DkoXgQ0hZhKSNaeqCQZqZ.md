@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > FurryRadio.com, furry music for furs, by furs.
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,083 likes - 370 songs - 18 hr 48 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,084 likes - 370 songs - 18 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Never Feel Alone](https://open.spotify.com/track/11mf7BvMAcOuFodbkFnqLE) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K), [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [I Never Feel Alone](https://open.spotify.com/album/54gZFxZWc8Flx4hWmjYaoE) | 2:20 |
-| 2 | [The Air That You And I Breathe Is Not The Same \- ECLIPSED](https://open.spotify.com/track/46pdXv8YDVVPk558tchreU) | [Biscuit](https://open.spotify.com/artist/75RaPp7xp9Czh1CpzWyUUR) | [The Air That You And I Breathe Is Not The Same \(ECLIPSED\)](https://open.spotify.com/album/3I1KfgTO9cIaiV72Eigz1y) | 4:55 |
-| 3 | [EAT YOU UP! \- Ricco Harver Remix](https://open.spotify.com/track/75gCrv8FPUVshSw5w98NHp) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2), [Ricco Harver](https://open.spotify.com/artist/4Ztb8vJUtyHjWDSbOZ1GIn) | [RAVEPOP REMIXES \(Preview\)](https://open.spotify.com/album/62lFgUk9Wh4Uh17xqmf3uD) | 2:19 |
+| 2 | [EAT YOU UP! \- Ricco Harver Remix](https://open.spotify.com/track/75gCrv8FPUVshSw5w98NHp) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2), [Ricco Harver](https://open.spotify.com/artist/4Ztb8vJUtyHjWDSbOZ1GIn) | [RAVEPOP REMIXES \(Preview\)](https://open.spotify.com/album/62lFgUk9Wh4Uh17xqmf3uD) | 2:19 |
+| 3 | [The Air That You And I Breathe Is Not The Same \- ECLIPSED](https://open.spotify.com/track/46pdXv8YDVVPk558tchreU) | [Biscuit](https://open.spotify.com/artist/75RaPp7xp9Czh1CpzWyUUR) | [The Air That You And I Breathe Is Not The Same \(ECLIPSED\)](https://open.spotify.com/album/3I1KfgTO9cIaiV72Eigz1y) | 4:55 |
 | 4 | [should've died years ago](https://open.spotify.com/track/7ePJ6BcAdvmgHmP1s3aSyy) | [Flxffy\_](https://open.spotify.com/artist/6IMOszBMoTJWk1TUPTJlGD) | [should've died years ago](https://open.spotify.com/album/5sEnRmxYndenRP1yd6djsh) | 2:51 |
 | 5 | [When I Die](https://open.spotify.com/track/7FtoIzR0qkMHlbF6I7dF37) | [Pepper Coyote](https://open.spotify.com/artist/4BaRyymiAjO4Q0PPG1dai5) | [Muh](https://open.spotify.com/album/2dj86r4wOWGi6MPtGWbnPv) | 3:14 |
 | 6 | [HAVAGO](https://open.spotify.com/track/75uR1jODtXQ1OgTWArgwYc) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [HAVAGO](https://open.spotify.com/album/4vQupOFlFsPKyNpvC71CtL) | 2:25 |
@@ -379,4 +379,4 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 369 | [No Eternity](https://open.spotify.com/track/4QuiLRd0pznAAdBBxVh5Gq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [No Eternity](https://open.spotify.com/album/7fLZtXo4I8mDBQZCmf9GaN) | 3:17 |
 | 370 | [i don't wanna](https://open.spotify.com/track/6WpDJFIu49wWtpPViObMXv) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [i don't wanna](https://open.spotify.com/album/3d9cpBCj3cSiBaI1ErfsPv) | 2:06 |
 
-Snapshot ID: `AAAFQ2doCKKBYvrg/AFTHDqrIwNYo3im`
+Snapshot ID: `AAAFREmINHl/+Ega1nF3+QjQNHgGzdH7`

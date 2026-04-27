@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 36406,
+  "num_followers": 36422,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
@@ -447,8 +447,8 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
-        "name": "Puro Exitos",
-        "url": "https://open.spotify.com/album/42LKEb3ZUrsCTXtSvVX8W7"
+        "name": "Balabaa",
+        "url": "https://open.spotify.com/album/6X7kzkdTLV3Kqtm3kdnH3l"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
         }
       ],
-      "duration_ms": 255190,
-      "name": "Si Pudiera Yo",
-      "url": "https://open.spotify.com/track/7C0qwetoetcHa3Q4mCBCWz"
+      "duration_ms": 158062,
+      "name": "Balabaa",
+      "url": "https://open.spotify.com/track/6DYHFCm0nVsH5td5hYAXFe"
     },
     {
       "added_at": "2024-07-12 22:32:28",
@@ -543,8 +543,8 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
-        "name": "Banana",
-        "url": "https://open.spotify.com/album/4gcyP6xuH2Dz69J7gaNAeR"
+        "name": "Puro Exitos",
+        "url": "https://open.spotify.com/album/42LKEb3ZUrsCTXtSvVX8W7"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
         }
       ],
-      "duration_ms": 196676,
-      "name": "Banana",
-      "url": "https://open.spotify.com/track/61AxjjJ98vp7XOzUVutY3l"
+      "duration_ms": 255190,
+      "name": "Si Pudiera Yo",
+      "url": "https://open.spotify.com/track/7C0qwetoetcHa3Q4mCBCWz"
     },
     {
       "added_at": "2024-07-12 22:32:28",
@@ -623,18 +623,18 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
-        "name": "Punta Gold, Vol. 1",
-        "url": "https://open.spotify.com/album/6kN8KMWQJRLCKJtV06Rkdk"
+        "name": "Banana",
+        "url": "https://open.spotify.com/album/4gcyP6xuH2Dz69J7gaNAeR"
       },
       "artists": [
         {
-          "name": "Supa G",
-          "url": "https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB"
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
         }
       ],
-      "duration_ms": 193516,
-      "name": "Carolina (Club Mix)",
-      "url": "https://open.spotify.com/track/44vM0hGs6C6GMvoFrAJpGH"
+      "duration_ms": 196676,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/61AxjjJ98vp7XOzUVutY3l"
     }
   ],
   "unique_name": "Punta",

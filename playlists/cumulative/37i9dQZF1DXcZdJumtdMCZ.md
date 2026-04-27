@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Thamizh Aadhavan
 
-313 songs - 16 hr 34 min
+314 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Stable In The Game](https://open.spotify.com/track/516ahJ811GuLW1vgz1H0aB) | [NST](https://open.spotify.com/artist/2Wx5FlNIkierRtyOi1Arc5) | [Stable In The Game](https://open.spotify.com/album/41z6TiF47cBMfGdzEd9PBr) | 3:23 | 2024-12-29 | 2025-01-31 |
 | [STFUP](https://open.spotify.com/track/5s5Iyv81LvOC3gVDwxzxFC) | [Ess\-K](https://open.spotify.com/artist/5e0FCm0Oo1s5BEz2i1NPQN), [2puff](https://open.spotify.com/artist/5JoZGRsU5az5UXyI3OAt3L) | [STFUP](https://open.spotify.com/album/5t32im9JgdiMylv3uLufaC) | 2:20 | 2025-09-01 | 2026-03-27 |
 | [Straight From The Underground](https://open.spotify.com/track/7w9Pbf9XCspTKS6s94YUzB) | [Martin Jazz](https://open.spotify.com/artist/2tJOTx0kM4NyC4IY8xO9Cu), [Treple A](https://open.spotify.com/artist/0y1kNEwY0TQP6Nt9U5g0Qr), [Rapkid 02](https://open.spotify.com/artist/3ofhK23vIRn61FSQvP4TJA) | [Straight From The Underground](https://open.spotify.com/album/5xjLrLHY5onqJiPTJWkgRN) | 2:38 | 2026-01-16 |  |
+| [Street Culture \- From "Battle"](https://open.spotify.com/track/3wA9MeUMf7Aio7vSG3H3iq) | [Pragathish Pugazh](https://open.spotify.com/artist/6jHHXVPqgf4A5IHSHGd1AW), [Megas Raj](https://open.spotify.com/artist/5mv9YjItK1k1bWI7xZw5VI), [krypton](https://open.spotify.com/artist/4nhtYs8nSXzgBT0SrrKt1I), [Kebin Kenndey](https://open.spotify.com/artist/2t6DwCB5ZHyjM6cb7hA5Jf) | [Street Culture \(From "Battle"\)](https://open.spotify.com/album/7ezzsJWfqedrCmoDq4wTZW) | 2:38 | 2026-04-27 |  |
 | [Street Legacy](https://open.spotify.com/track/7DMq1u7CatXYDb8Q7NyXWr) | [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf) | [Street Legacy](https://open.spotify.com/album/7bF867tpUs8CHF9ON46Rhw) | 3:12 | 2025-12-13 |  |
 | [SUMMER SHOT](https://open.spotify.com/track/0V4SJS6mJas5o2Aafcpqf8) | [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf), [VENGAYO](https://open.spotify.com/artist/1P4oExIGGqxK4LYSjPxw01), [foxn](https://open.spotify.com/artist/2dbBX8wPRhL660FxN7MIDv) | [SUMMER SHOT](https://open.spotify.com/album/0NQQdfpsVuH1noFDDzrnB6) | 2:06 | 2025-07-22 | 2026-04-24 |
 | [Summer time](https://open.spotify.com/track/4pctI9qSCIrSigQSSHAdbS) | [Viibe](https://open.spotify.com/artist/6otU5m3h8UgQYne4d6VSLD), [Kathiravan](https://open.spotify.com/artist/2rLYw3q5r1WE4E9xLrVWIS) | [Summer time](https://open.spotify.com/album/4lxPp5kHNu8XWIAgjb2vob) | 2:28 | 2025-10-06 |  |

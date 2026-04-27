@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: La Corea\u00f1era \ud83d\udd25",
-  "num_followers": 580472,
+  "num_followers": 580464,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2026-04-24 06:00:59",
       "album": {
+        "name": "Su\u00e9ltame",
+        "url": "https://open.spotify.com/album/5O9G78noBvMvFu2KFEyW9t"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 148635,
+      "name": "Su\u00e9ltame",
+      "url": "https://open.spotify.com/track/05fAYvClGcc111aOPJdnlh"
+    },
+    {
+      "added_at": "2026-04-24 06:00:59",
+      "album": {
         "name": "Por Un Mal Amor",
         "url": "https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 193998,
       "name": "Por Un Mal Amor",
       "url": "https://open.spotify.com/track/4JGg4fltXFr17DmZWAtEv2"
-    },
-    {
-      "added_at": "2026-04-24 06:00:59",
-      "album": {
-        "name": "Su\u00e9ltame",
-        "url": "https://open.spotify.com/album/5O9G78noBvMvFu2KFEyW9t"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 148635,
-      "name": "Su\u00e9ltame",
-      "url": "https://open.spotify.com/track/05fAYvClGcc111aOPJdnlh"
     },
     {
       "added_at": "2026-04-24 06:00:59",
@@ -495,18 +495,42 @@
     {
       "added_at": "2026-04-24 06:00:59",
       "album": {
-        "name": "Coleccionando Corazones",
-        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
+        "name": "Malagradecido",
+        "url": "https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9"
       },
       "artists": [
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        },
+        {
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
         }
       ],
-      "duration_ms": 196766,
-      "name": "Se Me Va A Pasar",
-      "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
+      "duration_ms": 174133,
+      "name": "Malagradecido",
+      "url": "https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm"
+    },
+    {
+      "added_at": "2026-04-24 06:00:59",
+      "album": {
+        "name": "PLAKOZONA INVENTADA",
+        "url": "https://open.spotify.com/album/00Wa4Fi7zCjGgH6JyCDXru"
+      },
+      "artists": [
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        },
+        {
+          "name": "Sam Vazquez",
+          "url": "https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq"
+        }
+      ],
+      "duration_ms": 149027,
+      "name": "PLAKOZONA INVENTADA",
+      "url": "https://open.spotify.com/track/7n8en2dDawQ9flafWLoqPz"
     },
     {
       "added_at": "2026-04-24 06:00:59",
@@ -543,26 +567,6 @@
     {
       "added_at": "2026-04-24 06:00:59",
       "album": {
-        "name": "PLAKOZONA INVENTADA",
-        "url": "https://open.spotify.com/album/00Wa4Fi7zCjGgH6JyCDXru"
-      },
-      "artists": [
-        {
-          "name": "NXNNI",
-          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
-        },
-        {
-          "name": "Sam Vazquez",
-          "url": "https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq"
-        }
-      ],
-      "duration_ms": 149027,
-      "name": "PLAKOZONA INVENTADA",
-      "url": "https://open.spotify.com/track/7n8en2dDawQ9flafWLoqPz"
-    },
-    {
-      "added_at": "2026-04-24 06:00:59",
-      "album": {
         "name": "En Vivo Vol. 4",
         "url": "https://open.spotify.com/album/3lONYpxIuoizLReJU0KGTb"
       },
@@ -579,42 +583,18 @@
     {
       "added_at": "2026-04-24 06:00:59",
       "album": {
-        "name": "Malagradecido",
-        "url": "https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9"
+        "name": "Coleccionando Corazones",
+        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
       },
       "artists": [
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        },
-        {
-          "name": "Los Hor\u00f3scopos De Durango",
-          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
         }
       ],
-      "duration_ms": 174133,
-      "name": "Malagradecido",
-      "url": "https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm"
-    },
-    {
-      "added_at": "2026-04-24 06:00:59",
-      "album": {
-        "name": "La Competencia",
-        "url": "https://open.spotify.com/album/0H8nE43nDhqMZraIKli5BY"
-      },
-      "artists": [
-        {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "La Competencia",
-      "url": "https://open.spotify.com/track/2PtN8j46BwZtlbJxyZFamd"
+      "duration_ms": 196766,
+      "name": "Se Me Va A Pasar",
+      "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
     },
     {
       "added_at": "2026-04-24 06:00:59",
@@ -655,6 +635,26 @@
       "duration_ms": 316883,
       "name": "Y Nos Dieron Las 10",
       "url": "https://open.spotify.com/track/5VTTS6tweu30FEBcMhhz0P"
+    },
+    {
+      "added_at": "2026-04-24 06:00:59",
+      "album": {
+        "name": "La Competencia",
+        "url": "https://open.spotify.com/album/0H8nE43nDhqMZraIKli5BY"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "La Competencia",
+      "url": "https://open.spotify.com/track/2PtN8j46BwZtlbJxyZFamd"
     },
     {
       "added_at": "2026-04-24 06:00:59",
@@ -727,6 +727,26 @@
     {
       "added_at": "2026-04-24 06:00:59",
       "album": {
+        "name": "Coleccionando Heridas",
+        "url": "https://open.spotify.com/album/3cRD1iHJDCV1InslSYOz3P"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        },
+        {
+          "name": "Diana Reyes",
+          "url": "https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz"
+        }
+      ],
+      "duration_ms": 201340,
+      "name": "Coleccionando Heridas",
+      "url": "https://open.spotify.com/track/1Moi1EHc7X9cceNOk1TDZS"
+    },
+    {
+      "added_at": "2026-04-24 06:00:59",
+      "album": {
         "name": "18",
         "url": "https://open.spotify.com/album/2qvKHTgVmbWmP4ofcZ9r2M"
       },
@@ -779,42 +799,6 @@
     {
       "added_at": "2026-04-24 06:00:59",
       "album": {
-        "name": "Un Abrazo (Versi\u00f3n Regional)",
-        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "Un Abrazo - Versi\u00f3n Regional",
-      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
-    },
-    {
-      "added_at": "2026-04-24 06:00:59",
-      "album": {
-        "name": "Coleccionando Heridas",
-        "url": "https://open.spotify.com/album/3cRD1iHJDCV1InslSYOz3P"
-      },
-      "artists": [
-        {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
-        },
-        {
-          "name": "Diana Reyes",
-          "url": "https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz"
-        }
-      ],
-      "duration_ms": 201340,
-      "name": "Coleccionando Heridas",
-      "url": "https://open.spotify.com/track/1Moi1EHc7X9cceNOk1TDZS"
-    },
-    {
-      "added_at": "2026-04-24 06:00:59",
-      "album": {
         "name": "No Me Vengas A Decir",
         "url": "https://open.spotify.com/album/5QeSWUvRuC1V7yUrLw3p4r"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 187924,
       "name": "No Me Vengas A Decir",
       "url": "https://open.spotify.com/track/1kSBEtTMavEQsJuN9zoLgx"
+    },
+    {
+      "added_at": "2026-04-24 06:00:59",
+      "album": {
+        "name": "Un Abrazo (Versi\u00f3n Regional)",
+        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "Un Abrazo - Versi\u00f3n Regional",
+      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
     },
     {
       "added_at": "2026-04-24 06:00:59",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-04-24 06:00:59",
       "album": {
-        "name": "eres M\u00c1S",
-        "url": "https://open.spotify.com/album/3PtZ39Y1LiftVTJdouRP0Y"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 147101,
-      "name": "eres M\u00c1S",
-      "url": "https://open.spotify.com/track/5uZfq4zuU3Z12Szm7iLjMM"
-    },
-    {
-      "added_at": "2026-04-24 06:00:59",
-      "album": {
         "name": "Me Acost\u00e9 Con Otro",
         "url": "https://open.spotify.com/album/1syBSmGIPpAbMdmxjafVzW"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 200928,
       "name": "Me Acost\u00e9 Con Otro",
       "url": "https://open.spotify.com/track/1K9jcV0q1ptUH9FlPc8k4O"
+    },
+    {
+      "added_at": "2026-04-24 06:00:59",
+      "album": {
+        "name": "eres M\u00c1S",
+        "url": "https://open.spotify.com/album/3PtZ39Y1LiftVTJdouRP0Y"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 147101,
+      "name": "eres M\u00c1S",
+      "url": "https://open.spotify.com/track/5uZfq4zuU3Z12Szm7iLjMM"
     },
     {
       "added_at": "2026-04-24 06:00:59",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-04-24 06:00:59",
       "album": {
+        "name": "De Beso En Cuando",
+        "url": "https://open.spotify.com/album/6TVICULyTlgdXqhY06Ecuq"
+      },
+      "artists": [
+        {
+          "name": "Vilax",
+          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
+        }
+      ],
+      "duration_ms": 156013,
+      "name": "De Beso En Cuando",
+      "url": "https://open.spotify.com/track/2Djiqy1ptXFvlKizkaga2a"
+    },
+    {
+      "added_at": "2026-04-24 06:00:59",
+      "album": {
         "name": "MEXICANA VOL. 2",
         "url": "https://open.spotify.com/album/5TI6LSYMxe2Tl21NnUb8u4"
       },
@@ -1015,26 +1031,6 @@
     {
       "added_at": "2026-04-24 06:00:59",
       "album": {
-        "name": "Cuanto Te Amo",
-        "url": "https://open.spotify.com/album/2ILRR1XBqTsQcq0vkn4FQ1"
-      },
-      "artists": [
-        {
-          "name": "Sofi Saar",
-          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
-        },
-        {
-          "name": "Costumbre",
-          "url": "https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N"
-        }
-      ],
-      "duration_ms": 174552,
-      "name": "Cuanto Te Amo",
-      "url": "https://open.spotify.com/track/3H0TN0PotVH0SZVuxq34Gz"
-    },
-    {
-      "added_at": "2026-04-24 06:00:59",
-      "album": {
         "name": "Con Todo Y Mi Tristeza (En Vivo Desde Tenampa 100)",
         "url": "https://open.spotify.com/album/10l6d2kg8dxjPemNIfxbUW"
       },
@@ -1067,18 +1063,22 @@
     {
       "added_at": "2026-04-24 06:00:59",
       "album": {
-        "name": "De Beso En Cuando",
-        "url": "https://open.spotify.com/album/6TVICULyTlgdXqhY06Ecuq"
+        "name": "Cuanto Te Amo",
+        "url": "https://open.spotify.com/album/2ILRR1XBqTsQcq0vkn4FQ1"
       },
       "artists": [
         {
-          "name": "Vilax",
-          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        },
+        {
+          "name": "Costumbre",
+          "url": "https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N"
         }
       ],
-      "duration_ms": 156013,
-      "name": "De Beso En Cuando",
-      "url": "https://open.spotify.com/track/2Djiqy1ptXFvlKizkaga2a"
+      "duration_ms": 174552,
+      "name": "Cuanto Te Amo",
+      "url": "https://open.spotify.com/track/3H0TN0PotVH0SZVuxq34Gz"
     },
     {
       "added_at": "2026-04-24 06:00:59",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-04-24 06:00:59",
       "album": {
-        "name": "50/50 (cabr\u00f3n equivocado)",
-        "url": "https://open.spotify.com/album/12dChbZsYly1ihfYpm2rwK"
-      },
-      "artists": [
-        {
-          "name": "Sofi Saar",
-          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
-        }
-      ],
-      "duration_ms": 163187,
-      "name": "50/50 (cabr\u00f3n equivocado)",
-      "url": "https://open.spotify.com/track/1GOnk7Tab8c4XSmUyhpQib"
-    },
-    {
-      "added_at": "2026-04-24 06:00:59",
-      "album": {
         "name": "Caminos De Michoacan (En Vivo)",
         "url": "https://open.spotify.com/album/2onjf4QRJiGJWCwkXSDTxp"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 363264,
       "name": "Caminos De Michoacan (En Vivo)",
       "url": "https://open.spotify.com/track/1yaCfymfoO4c3bxCAWl3WD"
+    },
+    {
+      "added_at": "2026-04-24 06:00:59",
+      "album": {
+        "name": "Completamente Yo",
+        "url": "https://open.spotify.com/album/1QvzdccK49fZrHg171Albu"
+      },
+      "artists": [
+        {
+          "name": "Jacqie Rivera",
+          "url": "https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB"
+        }
+      ],
+      "duration_ms": 186203,
+      "name": "Completamente Yo",
+      "url": "https://open.spotify.com/track/2i4ip32pwwrL6J45ib1ZjN"
     },
     {
       "added_at": "2026-04-24 06:00:59",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2026-04-24 06:00:59",
       "album": {
-        "name": "Completamente Yo",
-        "url": "https://open.spotify.com/album/1QvzdccK49fZrHg171Albu"
+        "name": "50/50 (cabr\u00f3n equivocado)",
+        "url": "https://open.spotify.com/album/12dChbZsYly1ihfYpm2rwK"
       },
       "artists": [
         {
-          "name": "Jacqie Rivera",
-          "url": "https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB"
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
         }
       ],
-      "duration_ms": 186203,
-      "name": "Completamente Yo",
-      "url": "https://open.spotify.com/track/2i4ip32pwwrL6J45ib1ZjN"
+      "duration_ms": 163187,
+      "name": "50/50 (cabr\u00f3n equivocado)",
+      "url": "https://open.spotify.com/track/1GOnk7Tab8c4XSmUyhpQib"
     },
     {
       "added_at": "2026-04-24 06:00:59",
@@ -1191,22 +1191,6 @@
       "duration_ms": 266379,
       "name": "De Mi Enam\u00f3rate",
       "url": "https://open.spotify.com/track/5yV9MNJ54l58QaHqm5lrHP"
-    },
-    {
-      "added_at": "2026-04-24 06:00:59",
-      "album": {
-        "name": "All\u00e1 Donde Vayas",
-        "url": "https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn"
-      },
-      "artists": [
-        {
-          "name": "Angela Fonte",
-          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
-        }
-      ],
-      "duration_ms": 213316,
-      "name": "All\u00e1 Donde Vayas",
-      "url": "https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl"
     },
     {
       "added_at": "2026-04-24 06:00:59",
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2026-04-24 06:00:59",
       "album": {
+        "name": "All\u00e1 Donde Vayas",
+        "url": "https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn"
+      },
+      "artists": [
+        {
+          "name": "Angela Fonte",
+          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
+        }
+      ],
+      "duration_ms": 213316,
+      "name": "All\u00e1 Donde Vayas",
+      "url": "https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl"
+    },
+    {
+      "added_at": "2026-04-24 06:00:59",
+      "album": {
         "name": "\u00bfQui\u00e9n Es Usted?",
         "url": "https://open.spotify.com/album/5IcZe5B1FZzVRtKT8sNYgS"
       },
@@ -1255,22 +1255,6 @@
       "duration_ms": 195245,
       "name": "\u00bfQui\u00e9n Es Usted?",
       "url": "https://open.spotify.com/track/5KWvrJF3O2w5niGvaaZt9K"
-    },
-    {
-      "added_at": "2026-04-24 06:00:59",
-      "album": {
-        "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER (EN VIVO)",
-        "url": "https://open.spotify.com/album/4YnzTMA71h2DvfNSGhPk3w"
-      },
-      "artists": [
-        {
-          "name": "Liz Ocampo",
-          "url": "https://open.spotify.com/artist/41T07jnEGtuRN46wy778zx"
-        }
-      ],
-      "duration_ms": 233898,
-      "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER - EN VIVO",
-      "url": "https://open.spotify.com/track/0E2Nw0aA2F5cHRybVGHhNP"
     },
     {
       "added_at": "2026-04-24 06:00:59",
@@ -1319,6 +1303,22 @@
       "duration_ms": 219273,
       "name": "Regalame una Noche",
       "url": "https://open.spotify.com/track/3mJ7vdxAelGjfLxRAvk55a"
+    },
+    {
+      "added_at": "2026-04-24 06:00:59",
+      "album": {
+        "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER (EN VIVO)",
+        "url": "https://open.spotify.com/album/4YnzTMA71h2DvfNSGhPk3w"
+      },
+      "artists": [
+        {
+          "name": "Liz Ocampo",
+          "url": "https://open.spotify.com/artist/41T07jnEGtuRN46wy778zx"
+        }
+      ],
+      "duration_ms": 233898,
+      "name": "SI T\u00da ERES MI HOMBRE Y YO TU MUJER - EN VIVO",
+      "url": "https://open.spotify.com/track/0E2Nw0aA2F5cHRybVGHhNP"
     },
     {
       "added_at": "2026-04-24 06:00:59",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-04-24 06:00:59",
       "album": {
-        "name": "Amigos No Por Favor",
-        "url": "https://open.spotify.com/album/0InEKfmd3uDp6i7pyHsGJ0"
-      },
-      "artists": [
-        {
-          "name": "Decibel Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/2CADP4a67sWx3GN3lJ9Wgu"
-        }
-      ],
-      "duration_ms": 242076,
-      "name": "Amigos No Por Favor",
-      "url": "https://open.spotify.com/track/5n3LTNCeqa3MmZFsCzddZm"
-    },
-    {
-      "added_at": "2026-04-24 06:00:59",
-      "album": {
         "name": "Bandera Roja",
         "url": "https://open.spotify.com/album/1tFEgnkswmKs2NN5z7cLH1"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 169808,
       "name": "Bandera Roja",
       "url": "https://open.spotify.com/track/2bHHyIL9AX6EraJ3ESEqzW"
+    },
+    {
+      "added_at": "2026-04-24 06:00:59",
+      "album": {
+        "name": "Amigos No Por Favor",
+        "url": "https://open.spotify.com/album/0InEKfmd3uDp6i7pyHsGJ0"
+      },
+      "artists": [
+        {
+          "name": "Decibel Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/2CADP4a67sWx3GN3lJ9Wgu"
+        }
+      ],
+      "duration_ms": 242076,
+      "name": "Amigos No Por Favor",
+      "url": "https://open.spotify.com/track/5n3LTNCeqa3MmZFsCzddZm"
     },
     {
       "added_at": "2026-04-24 06:00:59",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-04-24 06:00:59",
       "album": {
-        "name": "Que Te Cambie La Suerte",
-        "url": "https://open.spotify.com/album/2duxFBKEQTlUXKLwqM3fpZ"
-      },
-      "artists": [
-        {
-          "name": "Briseyda Solis",
-          "url": "https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi"
-        }
-      ],
-      "duration_ms": 207614,
-      "name": "Que Te Cambie La Suerte",
-      "url": "https://open.spotify.com/track/6Nizs15mTJ4fpYmBW2MIV2"
-    },
-    {
-      "added_at": "2026-04-24 06:00:59",
-      "album": {
         "name": "Lo Tenia Chiquito",
         "url": "https://open.spotify.com/album/0Y4w5Jp6MvRHNkT2tzXqYN"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 131593,
       "name": "Lo Tenia Chiquito",
       "url": "https://open.spotify.com/track/3Tkxzqu2XjEf2fJS4EPRo3"
+    },
+    {
+      "added_at": "2026-04-24 06:00:59",
+      "album": {
+        "name": "Que Te Cambie La Suerte",
+        "url": "https://open.spotify.com/album/2duxFBKEQTlUXKLwqM3fpZ"
+      },
+      "artists": [
+        {
+          "name": "Briseyda Solis",
+          "url": "https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi"
+        }
+      ],
+      "duration_ms": 207614,
+      "name": "Que Te Cambie La Suerte",
+      "url": "https://open.spotify.com/track/6Nizs15mTJ4fpYmBW2MIV2"
     },
     {
       "added_at": "2026-04-24 06:00:59",

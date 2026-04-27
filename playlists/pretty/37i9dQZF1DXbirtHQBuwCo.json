@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: Olivia Marsh)",
-  "num_followers": 1095547,
+  "num_followers": 1095657,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-04-23 11:57:59",
       "album": {
-        "name": "Baby, Honey",
-        "url": "https://open.spotify.com/album/7jJCkk3TCopiXz3M2JF0tM"
-      },
-      "artists": [
-        {
-          "name": "HOSHI",
-          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Baby, Honey",
-      "url": "https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz"
-    },
-    {
-      "added_at": "2026-04-23 11:57:59",
-      "album": {
         "name": "To. X - The 5th Mini Album",
         "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 170386,
       "name": "To. X",
       "url": "https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8"
+    },
+    {
+      "added_at": "2026-04-23 11:57:59",
+      "album": {
+        "name": "Baby, Honey",
+        "url": "https://open.spotify.com/album/7jJCkk3TCopiXz3M2JF0tM"
+      },
+      "artists": [
+        {
+          "name": "HOSHI",
+          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Baby, Honey",
+      "url": "https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz"
     },
     {
       "added_at": "2026-04-23 11:57:59",
@@ -511,22 +511,6 @@
       "duration_ms": 177946,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
-    },
-    {
-      "added_at": "2026-04-23 11:57:59",
-      "album": {
-        "name": "MY WORLD - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "Thirsty",
-      "url": "https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa"
     },
     {
       "added_at": "2026-04-23 11:57:59",
@@ -591,6 +575,22 @@
     {
       "added_at": "2026-04-23 11:57:59",
       "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa"
+    },
+    {
+      "added_at": "2026-04-23 11:57:59",
+      "album": {
         "name": "Dear Insanity...",
         "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
       },
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-04-23 11:57:59",
       "album": {
-        "name": "ZONE",
-        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
-      },
-      "artists": [
-        {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "Killin\u2019 Me Good",
-      "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
-    },
-    {
-      "added_at": "2026-04-23 11:57:59",
-      "album": {
         "name": "Wait On Me - The 4th Mini Album",
         "url": "https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 193053,
       "name": "Wait On Me",
       "url": "https://open.spotify.com/track/2BoGqSfsf9z5T1exqHtW54"
+    },
+    {
+      "added_at": "2026-04-23 11:57:59",
+      "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Killin\u2019 Me Good",
+      "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
     },
     {
       "added_at": "2026-04-23 11:57:59",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-04-23 11:57:59",
       "album": {
-        "name": "Doctor! Doctor!",
-        "url": "https://open.spotify.com/album/3CNyLUNNW8lRWVHccyGokL"
-      },
-      "artists": [
-        {
-          "name": "ZEROBASEONE",
-          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "Doctor! Doctor!",
-      "url": "https://open.spotify.com/track/7en6ZODJ7STm2ocxqKoYZs"
-    },
-    {
-      "added_at": "2026-04-23 11:57:59",
-      "album": {
         "name": "love you twice",
         "url": "https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4"
       },
@@ -1047,18 +1031,34 @@
     {
       "added_at": "2026-04-23 11:57:59",
       "album": {
-        "name": "DEADLINE",
-        "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
+        "name": "Doctor! Doctor!",
+        "url": "https://open.spotify.com/album/3CNyLUNNW8lRWVHccyGokL"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
         }
       ],
-      "duration_ms": 187479,
-      "name": "Fxxxboy",
-      "url": "https://open.spotify.com/track/2YUoX58zywC6rqFPOUNOiq"
+      "duration_ms": 152137,
+      "name": "Doctor! Doctor!",
+      "url": "https://open.spotify.com/track/7en6ZODJ7STm2ocxqKoYZs"
+    },
+    {
+      "added_at": "2026-04-23 11:57:59",
+      "album": {
+        "name": "ETERNALT",
+        "url": "https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh"
+      },
+      "artists": [
+        {
+          "name": "CLOSE YOUR EYES",
+          "url": "https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5"
+        }
+      ],
+      "duration_ms": 215760,
+      "name": "All My Poetry",
+      "url": "https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0"
     },
     {
       "added_at": "2026-04-23 11:57:59",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2026-04-23 11:57:59",
       "album": {
-        "name": "ETERNALT",
-        "url": "https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh"
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
       },
       "artists": [
         {
-          "name": "CLOSE YOUR EYES",
-          "url": "https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 215760,
-      "name": "All My Poetry",
-      "url": "https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0"
+      "duration_ms": 187479,
+      "name": "Fxxxboy",
+      "url": "https://open.spotify.com/track/2YUoX58zywC6rqFPOUNOiq"
     },
     {
       "added_at": "2026-04-23 11:57:59",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-04-23 11:57:59",
       "album": {
-        "name": "AA (Alone Again)",
-        "url": "https://open.spotify.com/album/4smEwgoPp14In6lZdLLw1p"
-      },
-      "artists": [
-        {
-          "name": "Gemini",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
-        }
-      ],
-      "duration_ms": 170227,
-      "name": "AA (Alone Again)",
-      "url": "https://open.spotify.com/track/2kiycXeUux4Fmv7cV10Pls"
-    },
-    {
-      "added_at": "2026-04-23 11:57:59",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 205120,
       "name": "For You",
       "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
+    },
+    {
+      "added_at": "2026-04-23 11:57:59",
+      "album": {
+        "name": "AA (Alone Again)",
+        "url": "https://open.spotify.com/album/4smEwgoPp14In6lZdLLw1p"
+      },
+      "artists": [
+        {
+          "name": "Gemini",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        }
+      ],
+      "duration_ms": 170227,
+      "name": "AA (Alone Again)",
+      "url": "https://open.spotify.com/track/2kiycXeUux4Fmv7cV10Pls"
     },
     {
       "added_at": "2026-04-23 11:57:59",

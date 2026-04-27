@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 454135,
+  "num_followers": 454198,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "My Beat Goes",
-        "url": "https://open.spotify.com/album/7uAqY6dfLfP1IztL4x44QB"
-      },
-      "artists": [
-        {
-          "name": "Ummet Ozcan",
-          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "My Beat Goes",
-      "url": "https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Konye",
         "url": "https://open.spotify.com/album/5oFI4EwwA2PTziier9QY8z"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 164754,
       "name": "Konye",
       "url": "https://open.spotify.com/track/1jskS0QmpYtvf9yNcN9qzg"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "My Beat Goes",
+        "url": "https://open.spotify.com/album/7uAqY6dfLfP1IztL4x44QB"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "My Beat Goes",
+      "url": "https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Time To Say Goodbye",
-        "url": "https://open.spotify.com/album/7o6ZM1Yh51VBCjx0M6uo2X"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Time To Say Goodbye",
-      "url": "https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "MIRAGE",
         "url": "https://open.spotify.com/album/6Q4F5AMGnzaZz4vQblwwHb"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 165049,
       "name": "MIRAGE",
       "url": "https://open.spotify.com/track/3McrQoWYs6qGmuWEAVnRSJ"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Time To Say Goodbye",
+        "url": "https://open.spotify.com/album/7o6ZM1Yh51VBCjx0M6uo2X"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Time To Say Goodbye",
+      "url": "https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "What I Want",
-        "url": "https://open.spotify.com/album/0equCatWbHF6wgpR7Lxh0Q"
-      },
-      "artists": [
-        {
-          "name": "Gregor McMurray",
-          "url": "https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "What I Want",
-      "url": "https://open.spotify.com/track/77VtR2l9SUqNgN4mDRDEDt"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "DARK MATTER",
         "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 174044,
       "name": "P.I.M.P. - HEDEGAARD Remix",
       "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "What I Want",
+        "url": "https://open.spotify.com/album/0equCatWbHF6wgpR7Lxh0Q"
+      },
+      "artists": [
+        {
+          "name": "Gregor McMurray",
+          "url": "https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/77VtR2l9SUqNgN4mDRDEDt"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Fire To The Rain",
+        "url": "https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229"
+      },
+      "artists": [
+        {
+          "name": "TMW",
+          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
+        },
+        {
+          "name": "Caro van Ee",
+          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
+        }
+      ],
+      "duration_ms": 144935,
+      "name": "Fire To The Rain",
+      "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/0WOXfzinWC4ACoMv7L8KJa"
       },
@@ -1295,22 +1315,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Fire To The Rain",
-        "url": "https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229"
+        "name": "Stumblin' In (LUNAX Remix)",
+        "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
       },
       "artists": [
         {
-          "name": "TMW",
-          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
         },
         {
-          "name": "Caro van Ee",
-          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
         }
       ],
-      "duration_ms": 144935,
-      "name": "Fire To The Rain",
-      "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
+      "duration_ms": 180000,
+      "name": "Stumblin' In (LUNAX Remix)",
+      "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1335,26 +1355,6 @@
       "duration_ms": 153311,
       "name": "Come On Baddie Let's Go Party",
       "url": "https://open.spotify.com/track/5xC5CWiHAlUyVmkVfhMhQ5"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Stumblin' In (LUNAX Remix)",
-        "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Stumblin' In (LUNAX Remix)",
-      "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "duration_ms": 176914,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Day 'N' Nite",
         "url": "https://open.spotify.com/album/6dcsjHmG76mqILvU5tQVfa"
       },
@@ -1427,18 +1443,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
+        "name": "I Feel",
+        "url": "https://open.spotify.com/album/6ZaXuqLxGYtBJoKePPSnNb"
       },
       "artists": [
         {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+          "name": "ZAPRAVKA",
+          "url": "https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
         }
       ],
-      "duration_ms": 176914,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
+      "duration_ms": 140468,
+      "name": "I Feel",
+      "url": "https://open.spotify.com/track/03neM3HWo29PTZ4OVVUyv3"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1467,26 +1487,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "I Feel",
-        "url": "https://open.spotify.com/album/6ZaXuqLxGYtBJoKePPSnNb"
-      },
-      "artists": [
-        {
-          "name": "ZAPRAVKA",
-          "url": "https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 140468,
-      "name": "I Feel",
-      "url": "https://open.spotify.com/track/03neM3HWo29PTZ4OVVUyv3"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "King Of My Castle",
         "url": "https://open.spotify.com/album/3hjLM01JbuC0E74QVJgnMx"
       },
@@ -1503,26 +1503,6 @@
       "duration_ms": 116433,
       "name": "King Of My Castle",
       "url": "https://open.spotify.com/track/3gs60fPEJDaHKto1Bh0Erj"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Hellfire",
-        "url": "https://open.spotify.com/album/2mSXxOqVfVf855Yops9kAs"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Hellfire",
-      "url": "https://open.spotify.com/track/5qq6MmZYOHvU3fICNggSCW"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1551,6 +1531,26 @@
       "duration_ms": 159483,
       "name": "Pedro - W&W Remix",
       "url": "https://open.spotify.com/track/0gYuvKWHb91DODhZaERQ0a"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Hellfire",
+        "url": "https://open.spotify.com/album/2mSXxOqVfVf855Yops9kAs"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Hellfire",
+      "url": "https://open.spotify.com/track/5qq6MmZYOHvU3fICNggSCW"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Hit The Road Jack",
+        "url": "https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu"
+      },
+      "artists": [
+        {
+          "name": "Bisken",
+          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
+        },
+        {
+          "name": "Millows",
+          "url": "https://open.spotify.com/artist/5GQeYhFPfFWauYWJXMJ1BG"
+        }
+      ],
+      "duration_ms": 126428,
+      "name": "Hit The Road Jack",
+      "url": "https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
         "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
       },
@@ -1687,18 +1707,18 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
+        "name": "Bottle of Bubbly",
+        "url": "https://open.spotify.com/album/5OuijjUhxEXdaWjZNg7fZV"
       },
       "artists": [
         {
-          "name": "Bisken",
-          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
         }
       ],
-      "duration_ms": 134357,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
+      "duration_ms": 143984,
+      "name": "Bottle of Bubbly",
+      "url": "https://open.spotify.com/track/2lGZi6aHCxMBgDubEPst1C"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1715,22 +1735,6 @@
       "duration_ms": 112500,
       "name": "Bel Mercy - Techno",
       "url": "https://open.spotify.com/track/4OFnxq4XLc9aMLQRudehEC"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Bottle of Bubbly",
-        "url": "https://open.spotify.com/album/5OuijjUhxEXdaWjZNg7fZV"
-      },
-      "artists": [
-        {
-          "name": "CANCUN?",
-          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
-        }
-      ],
-      "duration_ms": 143984,
-      "name": "Bottle of Bubbly",
-      "url": "https://open.spotify.com/track/2lGZi6aHCxMBgDubEPst1C"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1759,6 +1763,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
+      },
+      "artists": [
+        {
+          "name": "Bisken",
+          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
+        }
+      ],
+      "duration_ms": 134357,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "My Body (feat. Y&M)",
         "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
       },
@@ -1775,26 +1795,6 @@
       "duration_ms": 160024,
       "name": "My Body (feat. Y&M)",
       "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Hit The Road Jack",
-        "url": "https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu"
-      },
-      "artists": [
-        {
-          "name": "Bisken",
-          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
-        },
-        {
-          "name": "Millows",
-          "url": "https://open.spotify.com/artist/5GQeYhFPfFWauYWJXMJ1BG"
-        }
-      ],
-      "duration_ms": 126428,
-      "name": "Hit The Road Jack",
-      "url": "https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV"
     },
     {
       "added_at": "2025-06-26 22:00:24",

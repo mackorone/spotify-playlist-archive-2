@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-260 songs - 20 hr 7 min
+261 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [I Was Doing All Right](https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD) | 4:06 | 2024-07-24 |  |
 | [I Won't Give up](https://open.spotify.com/track/0vHq82d5mXV1yD619IrbT9) | [Victoria Hart](https://open.spotify.com/artist/3URdRBdlpe3PPJ5iBNKqoS), [Atila](https://open.spotify.com/artist/1B7L0r1bwhOGEOuoIg4gaF) | [The Lost Gershwin](https://open.spotify.com/album/2nNWWKOyzmRFky8QpHcArS) | 3:13 | 2025-01-09 | 2025-04-12 |
 | [I'll Build a Stairway to Paradise](https://open.spotify.com/track/3Hezg6pbMg16P0ULWT27Ef) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Shifting Gears](https://open.spotify.com/album/11gcF1PJkyYAf0OoTshk7h) | 3:17 | 2025-06-27 |  |
+| [I'm a poached egg](https://open.spotify.com/track/2P4P55eCP2eBTYfQl6ncwk) | [Cassandra Charlick](https://open.spotify.com/artist/6vT9kqySnFplqB0FMkVfwQ), [The Southwest Quintet](https://open.spotify.com/artist/5vrQ57YwqhAsjelse0KMIg) | [Caves Road](https://open.spotify.com/album/5E9MILTdZtgxrLj8Lu9vgK) | 3:02 | 2026-04-26 |  |
 | [I've Got Beginner's Luck](https://open.spotify.com/track/3MMRJk3OyIvwnSiNsqjX0D) | [Robert Fairchild](https://open.spotify.com/artist/2bAuAlATbEfjAEoh852jSY) | [An American in Paris \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3YWaf7O1V2tZ7bQgw5LhpP) | 3:42 | 2024-07-24 | 2025-08-24 |
 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 | 2024-07-24 |  |
 | [Impromptu in Two Keys](https://open.spotify.com/track/1jvsvbfQfCwh6maXlLzsnV) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Public Domain](https://open.spotify.com/artist/4iFb0urZ0WBT8L4oWFeNvq), [Shai Wosner](https://open.spotify.com/artist/6gQUTKFY4X92FtgRfTqL2m) | [Impromptu](https://open.spotify.com/album/2UYasjewDpuyNVxO32ytnD) | 2:27 | 2024-07-24 |  |

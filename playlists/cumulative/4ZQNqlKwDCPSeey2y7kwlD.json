@@ -81,6 +81,40 @@
     },
     {
       "album": {
+        "name": "AHEAD BY A CENTURY",
+        "url": "https://open.spotify.com/album/1a73bXVGwFTlNCuL2Bqrwd"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        },
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        },
+        {
+          "name": "Canada Soccer",
+          "url": "https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez"
+        },
+        {
+          "name": "Boi-1da",
+          "url": "https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207557,
+      "name": "AHEAD BY A CENTURY",
+      "url": "https://open.spotify.com/track/7FVG3onyy9GbhysR3sREKy"
+    },
+    {
+      "album": {
         "name": "ALIVE AGAIN",
         "url": "https://open.spotify.com/album/2mVqLLTYlGzttYU3gKVGAN"
       },
@@ -258,7 +292,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 194346,
       "name": "Back in Love",
       "url": "https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP"
@@ -1715,6 +1749,24 @@
     },
     {
       "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231086,
+      "name": "Doors",
+      "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
+    },
+    {
+      "album": {
         "name": "Dreams Don\u2019t Die",
         "url": "https://open.spotify.com/album/0kS7VkeLcJrWUwLUIMfP7Z"
       },
@@ -1762,7 +1814,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 151000,
       "name": "DROWN",
       "url": "https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW"

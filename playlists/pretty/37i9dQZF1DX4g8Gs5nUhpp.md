@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở trên những khúc ca này\. Ảnh bìa: Hngle
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,928 likes - 52 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,939 likes - 52 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 51 | [Anh Đã Không Biết Cách Yêu Em](https://open.spotify.com/track/2daxUR0gVJr2dOmOtYvW8R) | [Quang Đăng Trần](https://open.spotify.com/artist/2LX2SKJhvZjyH4Z7XMptjd) | [Anh Đã Không Biết Cách Yêu Em](https://open.spotify.com/album/5W5zGLFhrRhu0W8eAv4lZN) | 4:05 |
 | 52 | [Sinh Ra Đã Là Thứ Đối Lập Nhau \(feat\. Badbies\)](https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9) | [Emcee L \(Da LAB\)](https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2), [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Badbies](https://open.spotify.com/artist/2ZjO6APYelcHcLd2pWMx8x) | [Sinh Ra Đã Là Thứ Đối Lập Nhau \(feat\. Badbies\)](https://open.spotify.com/album/5vJ5JDNypTPlAc5yv3du8s) | 3:54 |
 
-Snapshot ID: `AAAAANyxnKBDmDu8lvtBHXx537YXEt7h`
+Snapshot ID: `AAAAABuuKIKxyQa/3c+/jDtso6h6CAMT`

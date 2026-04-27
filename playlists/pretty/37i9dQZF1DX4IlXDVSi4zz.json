@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 1013816,
+  "num_followers": 1014017,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -279,26 +279,6 @@
     {
       "added_at": "2026-04-24 04:00:56",
       "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2026-04-24 04:00:56",
-      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 152250,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
+    },
+    {
+      "added_at": "2026-04-24 04:00:56",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
       "added_at": "2026-04-24 04:00:56",
@@ -459,26 +459,6 @@
     {
       "added_at": "2026-04-24 04:00:56",
       "album": {
-        "name": "Because You Move Me",
-        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        }
-      ],
-      "duration_ms": 196375,
-      "name": "Because You Move Me",
-      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
-    },
-    {
-      "added_at": "2026-04-24 04:00:56",
-      "album": {
         "name": "Loco Loco",
         "url": "https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 136666,
       "name": "Loco Loco",
       "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
+    },
+    {
+      "added_at": "2026-04-24 04:00:56",
+      "album": {
+        "name": "Because You Move Me",
+        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "duration_ms": 196375,
+      "name": "Because You Move Me",
+      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
     },
     {
       "added_at": "2026-04-24 04:00:56",
@@ -543,30 +543,6 @@
     {
       "added_at": "2026-04-24 04:00:56",
       "album": {
-        "name": "Promises (with Sam Smith)",
-        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 213309,
-      "name": "Promises (with Sam Smith)",
-      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
-    },
-    {
-      "added_at": "2026-04-24 04:00:56",
-      "album": {
         "name": "Move (feat. Camila Cabello & Malachiii)",
         "url": "https://open.spotify.com/album/1Jo5dOD8bFEWnPIXKlORVp"
       },
@@ -599,6 +575,30 @@
       "duration_ms": 180236,
       "name": "Move (feat. Camila Cabello & Malachiii)",
       "url": "https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG"
+    },
+    {
+      "added_at": "2026-04-24 04:00:56",
+      "album": {
+        "name": "Promises (with Sam Smith)",
+        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 213309,
+      "name": "Promises (with Sam Smith)",
+      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
     },
     {
       "added_at": "2026-04-24 04:00:56",
@@ -899,22 +899,22 @@
     {
       "added_at": "2026-04-24 04:00:56",
       "album": {
-        "name": "CHICA 305",
-        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
+        "name": "Gorah",
+        "url": "https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
         },
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
         }
       ],
-      "duration_ms": 188085,
-      "name": "CHICA 305",
-      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
+      "duration_ms": 246000,
+      "name": "Gorah",
+      "url": "https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj"
     },
     {
       "added_at": "2026-04-24 04:00:56",
@@ -935,22 +935,22 @@
     {
       "added_at": "2026-04-24 04:00:56",
       "album": {
-        "name": "Gorah",
-        "url": "https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1"
+        "name": "CHICA 305",
+        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
       },
       "artists": [
         {
-          "name": "Nitefreak",
-          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "Emmanuel Jal",
-          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Gorah",
-      "url": "https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj"
+      "duration_ms": 188085,
+      "name": "CHICA 305",
+      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
     },
     {
       "added_at": "2026-04-24 04:00:56",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-04-24 04:00:56",
       "album": {
-        "name": "DLUX",
-        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 140735,
-      "name": "HOUSE OF LUX",
-      "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
-    },
-    {
-      "added_at": "2026-04-24 04:00:56",
-      "album": {
         "name": "Ease My Mind",
         "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2026-04-24 04:00:56",
       "album": {
-        "name": "girl$",
-        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
       },
       "artists": [
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 209552,
-      "name": "girl$",
-      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
+      "duration_ms": 140735,
+      "name": "HOUSE OF LUX",
+      "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
     },
     {
       "added_at": "2026-04-24 04:00:56",
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2026-04-24 04:00:56",
       "album": {
+        "name": "girl$",
+        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 209552,
+      "name": "girl$",
+      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
+    },
+    {
+      "added_at": "2026-04-24 04:00:56",
+      "album": {
         "name": "Never Going Home",
         "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
       },
@@ -1211,30 +1211,6 @@
       "duration_ms": 169944,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
-    },
-    {
-      "added_at": "2026-04-24 04:00:56",
-      "album": {
-        "name": "Weak",
-        "url": "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        },
-        {
-          "name": "Tom Breu",
-          "url": "https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
     },
     {
       "added_at": "2026-04-24 04:00:56",
@@ -1263,6 +1239,30 @@
     {
       "added_at": "2026-04-24 04:00:56",
       "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        },
+        {
+          "name": "Tom Breu",
+          "url": "https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
+    },
+    {
+      "added_at": "2026-04-24 04:00:56",
+      "album": {
         "name": "Last Night",
         "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
       },
@@ -1275,30 +1275,6 @@
       "duration_ms": 169302,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
-    },
-    {
-      "added_at": "2026-04-24 04:00:56",
-      "album": {
-        "name": "Dancin (feat. Luvli) [Krono Remix]",
-        "url": "https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE"
-      },
-      "artists": [
-        {
-          "name": "Aaron Smith",
-          "url": "https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN"
-        },
-        {
-          "name": "Krono",
-          "url": "https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB"
-        },
-        {
-          "name": "Luvli",
-          "url": "https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Dancin (feat. Luvli) - Krono Remix",
-      "url": "https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM"
     },
     {
       "added_at": "2026-04-24 04:00:56",
@@ -1347,6 +1323,30 @@
     {
       "added_at": "2026-04-24 04:00:56",
       "album": {
+        "name": "Dancin (feat. Luvli) [Krono Remix]",
+        "url": "https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE"
+      },
+      "artists": [
+        {
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN"
+        },
+        {
+          "name": "Krono",
+          "url": "https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB"
+        },
+        {
+          "name": "Luvli",
+          "url": "https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "Dancin (feat. Luvli) - Krono Remix",
+      "url": "https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM"
+    },
+    {
+      "added_at": "2026-04-24 04:00:56",
+      "album": {
         "name": "This Is My Life (Bontan Remix)",
         "url": "https://open.spotify.com/album/280MVEV8ylL30zAvcIbegG"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-04-24 04:00:56",
       "album": {
-        "name": "Won't Forget You",
-        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 230945,
-      "name": "Won't Forget You (Edit)",
-      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
-    },
-    {
-      "added_at": "2026-04-24 04:00:56",
-      "album": {
         "name": "Lipstick",
         "url": "https://open.spotify.com/album/6f7dpXKC3gqsF0R02qKxhb"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 181500,
       "name": "Lipstick",
       "url": "https://open.spotify.com/track/5DeNvGYijFobt2ufPFGhsK"
+    },
+    {
+      "added_at": "2026-04-24 04:00:56",
+      "album": {
+        "name": "Won't Forget You",
+        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 230945,
+      "name": "Won't Forget You (Edit)",
+      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
     },
     {
       "added_at": "2026-04-24 04:00:56",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2026-04-24 04:00:56",
       "album": {
-        "name": "Sunrise (Remixes)",
-        "url": "https://open.spotify.com/album/3Im5438f9q5yyVSSYcqwO1"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        }
-      ],
-      "duration_ms": 228870,
-      "name": "Sunrise (Adam Ten Remix)",
-      "url": "https://open.spotify.com/track/4CrKKZuQtC5GgCSBRl1zpk"
-    },
-    {
-      "added_at": "2026-04-24 04:00:56",
-      "album": {
         "name": "Cola (ARTBAT Remix)",
         "url": "https://open.spotify.com/album/3iLdjCAbObHpiYqZCvdByJ"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 188160,
       "name": "Cola - ARTBAT Remix",
       "url": "https://open.spotify.com/track/58caScGqKTQIDDJQ7QnJU8"
+    },
+    {
+      "added_at": "2026-04-24 04:00:56",
+      "album": {
+        "name": "Sunrise (Remixes)",
+        "url": "https://open.spotify.com/album/3Im5438f9q5yyVSSYcqwO1"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        }
+      ],
+      "duration_ms": 228870,
+      "name": "Sunrise (Adam Ten Remix)",
+      "url": "https://open.spotify.com/track/4CrKKZuQtC5GgCSBRl1zpk"
     },
     {
       "added_at": "2026-04-24 04:00:56",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2026-04-24 04:00:56",
       "album": {
+        "name": "Be Without You",
+        "url": "https://open.spotify.com/album/0cJIafKRuQ84XkvfPk8Umo"
+      },
+      "artists": [
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 208181,
+      "name": "Be Without You",
+      "url": "https://open.spotify.com/track/7c5LEXTP5c1VVELPaNrQii"
+    },
+    {
+      "added_at": "2026-04-24 04:00:56",
+      "album": {
         "name": "Stephanie (HNTR Remix)",
         "url": "https://open.spotify.com/album/36ugkxRl0vThlv2ytPo1ZD"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 145467,
       "name": "Stephanie - HNTR Remix",
       "url": "https://open.spotify.com/track/4Ko4SzgkfEOw2aestyWDVn"
-    },
-    {
-      "added_at": "2026-04-24 04:00:56",
-      "album": {
-        "name": "Be Without You",
-        "url": "https://open.spotify.com/album/0cJIafKRuQ84XkvfPk8Umo"
-      },
-      "artists": [
-        {
-          "name": "SOSA",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 208181,
-      "name": "Be Without You",
-      "url": "https://open.spotify.com/track/7c5LEXTP5c1VVELPaNrQii"
     },
     {
       "added_at": "2026-04-24 04:00:56",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-04-24 04:00:56",
       "album": {
-        "name": "For The Soul",
-        "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
-      },
-      "artists": [
-        {
-          "name": "Tini Gessler",
-          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "For The Soul",
-      "url": "https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam"
-    },
-    {
-      "added_at": "2026-04-24 04:00:56",
-      "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/5MflkuFCNL0Uye0uy4OrrH"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 173637,
       "name": "Salam",
       "url": "https://open.spotify.com/track/2Q0Ulx1pR8gTJoCfxOOVCZ"
+    },
+    {
+      "added_at": "2026-04-24 04:00:56",
+      "album": {
+        "name": "For The Soul",
+        "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
+      },
+      "artists": [
+        {
+          "name": "Tini Gessler",
+          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "For The Soul",
+      "url": "https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam"
     },
     {
       "added_at": "2026-04-24 04:00:56",
@@ -1691,26 +1691,6 @@
       "duration_ms": 182472,
       "name": "Fara",
       "url": "https://open.spotify.com/track/0MSwEp1oqojExCixKd0xKu"
-    },
-    {
-      "added_at": "2026-04-24 04:00:56",
-      "album": {
-        "name": "Let's Go (Magalenha)",
-        "url": "https://open.spotify.com/album/4yIihHvohDQhwRV69DSFTU"
-      },
-      "artists": [
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        },
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 163019,
-      "name": "Let's Go (Magalenha)",
-      "url": "https://open.spotify.com/track/30Ca9XElifcBjngQrmg0yl"
     },
     {
       "added_at": "2026-04-24 04:00:56",
@@ -1751,6 +1731,26 @@
       "duration_ms": 157440,
       "name": "Asereje - Remix",
       "url": "https://open.spotify.com/track/7yiZOX1floHlpZEskbbZnk"
+    },
+    {
+      "added_at": "2026-04-24 04:00:56",
+      "album": {
+        "name": "Let's Go (Magalenha)",
+        "url": "https://open.spotify.com/album/4yIihHvohDQhwRV69DSFTU"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 163019,
+      "name": "Let's Go (Magalenha)",
+      "url": "https://open.spotify.com/track/30Ca9XElifcBjngQrmg0yl"
     },
     {
       "added_at": "2026-04-24 04:00:56",
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2026-04-24 04:00:56",
       "album": {
-        "name": "Horny",
-        "url": "https://open.spotify.com/album/06r7GDrgzhhO0uP6q0Fx9N"
-      },
-      "artists": [
-        {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
-        },
-        {
-          "name": "TOBEHONEST",
-          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
-        }
-      ],
-      "duration_ms": 182812,
-      "name": "Horny",
-      "url": "https://open.spotify.com/track/04GYAnoZJajIurWLcjTMIF"
-    },
-    {
-      "added_at": "2026-04-24 04:00:56",
-      "album": {
         "name": "Dancing Shoes",
         "url": "https://open.spotify.com/album/6lTtYYVqJCRxc28a6cUK73"
       },
@@ -1919,6 +1899,26 @@
       "duration_ms": 221339,
       "name": "COLLECT THE COMMAS",
       "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
+    },
+    {
+      "added_at": "2026-04-24 04:00:56",
+      "album": {
+        "name": "Horny",
+        "url": "https://open.spotify.com/album/06r7GDrgzhhO0uP6q0Fx9N"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        },
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        }
+      ],
+      "duration_ms": 182812,
+      "name": "Horny",
+      "url": "https://open.spotify.com/track/04GYAnoZJajIurWLcjTMIF"
     },
     {
       "added_at": "2026-04-24 04:00:56",
@@ -1959,6 +1959,30 @@
     {
       "added_at": "2026-04-24 04:00:56",
       "album": {
+        "name": "ALGO T\u00da (Shimza Remix)",
+        "url": "https://open.spotify.com/album/5s5oP0QaGU0s94niBLvPyG"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "ALGO T\u00da - Shimza Remix",
+      "url": "https://open.spotify.com/track/5j6ixxtMNVFLxkTzs6scjV"
+    },
+    {
+      "added_at": "2026-04-24 04:00:56",
+      "album": {
         "name": "Keep It Exciting",
         "url": "https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL"
       },
@@ -1983,8 +2007,8 @@
     {
       "added_at": "2026-04-24 04:00:56",
       "album": {
-        "name": "Que Calor, Que Calor",
-        "url": "https://open.spotify.com/album/30PS8JTib0xrnYojz7SDXU"
+        "name": "Spanish Chica",
+        "url": "https://open.spotify.com/album/04LUS5N9H4DIxFty3pUnTN"
       },
       "artists": [
         {
@@ -1992,29 +2016,9 @@
           "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
         }
       ],
-      "duration_ms": 199354,
-      "name": "Que Calor, Que Calor",
-      "url": "https://open.spotify.com/track/7x3EL6oSsGBoNjBRvwCAvU"
-    },
-    {
-      "added_at": "2026-04-24 04:00:56",
-      "album": {
-        "name": "Dame M\u00e1s (Gasolina)",
-        "url": "https://open.spotify.com/album/12dqk7lP9FQj2kteO6R0lf"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Juos",
-          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "Dame M\u00e1s (Gasolina)",
-      "url": "https://open.spotify.com/track/5wGwW2DK549Mg9vyNzBCnt"
+      "duration_ms": 244918,
+      "name": "Te Doy La Libertad",
+      "url": "https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp"
     },
     {
       "added_at": "2026-04-24 04:00:56",
@@ -2035,6 +2039,26 @@
       "duration_ms": 145853,
       "name": "Ricota",
       "url": "https://open.spotify.com/track/4uZh7m5a3DFqI1WCUniio6"
+    },
+    {
+      "added_at": "2026-04-24 04:00:56",
+      "album": {
+        "name": "Dame M\u00e1s (Gasolina)",
+        "url": "https://open.spotify.com/album/12dqk7lP9FQj2kteO6R0lf"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Juos",
+          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Dame M\u00e1s (Gasolina)",
+      "url": "https://open.spotify.com/track/5wGwW2DK549Mg9vyNzBCnt"
     },
     {
       "added_at": "2026-04-24 04:00:56",
@@ -2083,8 +2107,8 @@
     {
       "added_at": "2026-04-24 04:00:56",
       "album": {
-        "name": "Spanish Chica",
-        "url": "https://open.spotify.com/album/04LUS5N9H4DIxFty3pUnTN"
+        "name": "Que Calor, Que Calor",
+        "url": "https://open.spotify.com/album/30PS8JTib0xrnYojz7SDXU"
       },
       "artists": [
         {
@@ -2092,29 +2116,9 @@
           "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
         }
       ],
-      "duration_ms": 244918,
-      "name": "Te Doy La Libertad",
-      "url": "https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp"
-    },
-    {
-      "added_at": "2026-04-24 04:00:56",
-      "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/3bKOdCt0sT8z5bthYD2zfr"
-      },
-      "artists": [
-        {
-          "name": "VITO (UK)",
-          "url": "https://open.spotify.com/artist/4ipu1Wi05H8ZdEkvULDaKI"
-        },
-        {
-          "name": "Marian (BR)",
-          "url": "https://open.spotify.com/artist/5FCqRgK9PqJYyfnBJg4AeH"
-        }
-      ],
-      "duration_ms": 253395,
-      "name": "Simple Things",
-      "url": "https://open.spotify.com/track/0Q1XK58PPN7VZIBK6a3DFf"
+      "duration_ms": 199354,
+      "name": "Que Calor, Que Calor",
+      "url": "https://open.spotify.com/track/7x3EL6oSsGBoNjBRvwCAvU"
     }
   ],
   "unique_name": "Tulum Party",

@@ -550,7 +550,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 254346,
       "name": "Crazy Roulette",
       "url": "https://open.spotify.com/track/1dvGYKhpx7bmuYa09l1m74"
@@ -604,7 +604,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 298933,
       "name": "Dance in the Apocalypse",
       "url": "https://open.spotify.com/track/4ao9YSHAFBAZf4qtH9klK9"
@@ -1097,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "UNDEAD \u2715 \u7d05\u6708\u300cPERFECTLY-IMPERFECT\u300d \u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 FUSION UNIT SERIES 05",
+        "url": "https://open.spotify.com/album/31UVpdisEESvYUldPaL0Gq"
+      },
+      "artists": [
+        {
+          "name": "\u7d05\u6708/\u84ee\u5df3\u656c\u4eba(CV.\u6885\u539f\u88d5\u4e00\u90ce)\u3001\u9b3c\u9f8d\u7d05\u90ce(CV.\u795e\u5c3e\u664b\u4e00\u90ce)\u3001\u795e\u5d0e\u98af\u99ac(CV.\u795e\u6c38\u572d\u4f51)",
+          "url": "https://open.spotify.com/artist/2uqHLjgXdyv3XJhoeAespG"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229253,
+      "name": "FUSIONIC STARS!! - \u7d05\u6708 ver.",
+      "url": "https://open.spotify.com/track/6nOmotBDbniCJvByd5sWAO"
+    },
+    {
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba UNDEAD",
         "url": "https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR"
       },
@@ -1296,7 +1314,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 200266,
       "name": "Helter-Spider",
       "url": "https://open.spotify.com/track/5O0ATLOGx1KZvh0lMfHPcw"
@@ -1704,7 +1722,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 240066,
       "name": "Luminous Crown",
       "url": "https://open.spotify.com/track/0oG2TOqvMOb8R8XbSHTjlN"
@@ -2300,7 +2318,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 197533,
       "name": "Resurrection of Soul",
       "url": "https://open.spotify.com/track/0oRhF03OXQWZD0P2Ak2kp6"
@@ -2622,7 +2640,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 249933,
       "name": "Sunlit Smile!",
       "url": "https://open.spotify.com/track/48spUdSXNLwakQV7vpIc9m"
@@ -2778,7 +2796,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 248840,
       "name": "Trap For You",
       "url": "https://open.spotify.com/track/7GFQVeJfaM3zQ0CSAWiPXy"
@@ -4648,7 +4666,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 262120,
       "name": "\u767e\u82b1\u7e5a\u4e71\u3001\u7d05\u6708\u591c",
       "url": "https://open.spotify.com/track/2tU9EY1nufIeoOcbMWxBIN"
@@ -4728,7 +4746,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 243426,
       "name": "\u795d\u798f\u306eLibrary",
       "url": "https://open.spotify.com/track/7ql0h0LbkIgw8Dd45ERZMT"

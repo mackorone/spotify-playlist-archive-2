@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 33859,
+  "num_followers": 33861,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Jazz Argentino",
-        "url": "https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg"
-      },
-      "artists": [
-        {
-          "name": "Baby L\u00f3pez Furst",
-          "url": "https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7"
-        }
-      ],
-      "duration_ms": 303186,
-      "name": "Una Abeja Durmiente",
-      "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Cinemateca Finlandesa",
         "url": "https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 276640,
       "name": "Viernes 3AM",
       "url": "https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Jazz Argentino",
+        "url": "https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg"
+      },
+      "artists": [
+        {
+          "name": "Baby L\u00f3pez Furst",
+          "url": "https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7"
+        }
+      ],
+      "duration_ms": 303186,
+      "name": "Una Abeja Durmiente",
+      "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "All of Me",
-        "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
-      },
-      "artists": [
-        {
-          "name": "Walter Malosetti",
-          "url": "https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp"
-        }
-      ],
-      "duration_ms": 279640,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Studio 2",
         "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
       },
@@ -391,18 +375,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "En Las Afueras",
-        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
       },
       "artists": [
         {
-          "name": "Pat Nu\u00f1o",
-          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
+          "name": "Walter Malosetti",
+          "url": "https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp"
         }
       ],
-      "duration_ms": 230133,
-      "name": "Caminando Con Aud\u00edfonos",
-      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
+      "duration_ms": 279640,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -419,6 +403,22 @@
       "duration_ms": 395117,
       "name": "Chacafrik",
       "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "En Las Afueras",
+        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
+      },
+      "artists": [
+        {
+          "name": "Pat Nu\u00f1o",
+          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Caminando Con Aud\u00edfonos",
+      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -539,6 +539,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Essence of Wes Montgomery (Live in Thelonious Club, Buenos Aires, Argentina)",
+        "url": "https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH"
+      },
+      "artists": [
+        {
+          "name": "Valentino Jazz Bazar",
+          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
+        }
+      ],
+      "duration_ms": 286109,
+      "name": "Full House - Live",
+      "url": "https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "80 A\u00f1os - Jazztar\u00edaenbaterita",
         "url": "https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 413595,
       "name": "Equinox",
       "url": "https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Essence of Wes Montgomery (Live in Thelonious Club, Buenos Aires, Argentina)",
-        "url": "https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH"
-      },
-      "artists": [
-        {
-          "name": "Valentino Jazz Bazar",
-          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
-        }
-      ],
-      "duration_ms": 286109,
-      "name": "Full House - Live",
-      "url": "https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs"
-      },
-      "artists": [
-        {
-          "name": "Hern\u00e1n Merlo",
-          "url": "https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c"
-        }
-      ],
-      "duration_ms": 342480,
-      "name": "Comrade Conrad",
-      "url": "https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Cosa Panicosa",
         "url": "https://open.spotify.com/album/1ZrljHX2ziICBpnbADlIYm"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 388265,
       "name": "Cosa Panicosa",
       "url": "https://open.spotify.com/track/4Deax610yhq44o4ZMf3EB1"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs"
+      },
+      "artists": [
+        {
+          "name": "Hern\u00e1n Merlo",
+          "url": "https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c"
+        }
+      ],
+      "duration_ms": 342480,
+      "name": "Comrade Conrad",
+      "url": "https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1283,26 +1283,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Apal\u00e1p!",
-        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
+        "name": "A Bajo y Pa'fuera",
+        "url": "https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N"
       },
       "artists": [
         {
-          "name": "Oscar Giunta Supertr\u00edo!",
-          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
-        },
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        },
-        {
-          "name": "Flavio Romero",
-          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
+          "name": "Sebasti\u00e1n Tozzola",
+          "url": "https://open.spotify.com/artist/7jgPBkRiFn2bXumnpBWR1a"
         }
       ],
-      "duration_ms": 493933,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0"
+      "duration_ms": 146757,
+      "name": "A Bajo y Pa'fuera",
+      "url": "https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1339,18 +1331,26 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "A Bajo y Pa'fuera",
-        "url": "https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N"
+        "name": "Apal\u00e1p!",
+        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Tozzola",
-          "url": "https://open.spotify.com/artist/7jgPBkRiFn2bXumnpBWR1a"
+          "name": "Oscar Giunta Supertr\u00edo!",
+          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
+        },
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        },
+        {
+          "name": "Flavio Romero",
+          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
         }
       ],
-      "duration_ms": 146757,
-      "name": "A Bajo y Pa'fuera",
-      "url": "https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH"
+      "duration_ms": 493933,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0"
     },
     {
       "added_at": "2025-04-14 14:58:34",

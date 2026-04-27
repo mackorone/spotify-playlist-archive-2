@@ -1,12 +1,12 @@
 {
   "description": "This is Roberta Flack. The essential tracks, all in one playlist.",
-  "num_followers": 49510,
+  "num_followers": 49513,
   "original_name": "This Is Roberta Flack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAAAFnYruZ8dPDS5Yheq6/5eO",
+  "snapshot_id": "aewEAAAAAACAfbcmtkm+xZUgAoQuky4D",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peculiar Situation",
+        "url": "https://open.spotify.com/album/4N4cHRs7VQ0ugYGnzBv15s"
+      },
+      "artists": [
+        {
+          "name": "Earl Klugh",
+          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 274733,
+      "name": "Now and Again (feat. Roberta Flack)",
+      "url": "https://open.spotify.com/track/5LWIG3DpOh0mRWGamXlN84"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feel Like Makin' Love",
         "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 319893,
       "name": "Set the Night to Music (with Maxi Priest) - 2006 Remaster",
       "url": "https://open.spotify.com/track/2lwsF5lzIgTmlAhcpuD1py"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peculiar Situation",
-        "url": "https://open.spotify.com/album/4N4cHRs7VQ0ugYGnzBv15s"
-      },
-      "artists": [
-        {
-          "name": "Earl Klugh",
-          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
-        },
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 274733,
-      "name": "Now and Again (feat. Roberta Flack)",
-      "url": "https://open.spotify.com/track/5LWIG3DpOh0mRWGamXlN84"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chapter Two",
-        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "Until It's Time for You to Go",
-      "url": "https://open.spotify.com/track/0f3FOlNpyINc62ys6DfQHv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/79aJPgsmadfUyqd05d63o4"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 212840,
       "name": "And so It Goes",
       "url": "https://open.spotify.com/track/6XmplKK5FDXZKYxYzYRVCr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chapter Two",
+        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "Until It's Time for You to Go",
+      "url": "https://open.spotify.com/track/0f3FOlNpyINc62ys6DfQHv"
     },
     {
       "added_at": null,

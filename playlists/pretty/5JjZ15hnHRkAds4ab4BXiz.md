@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 709 songs - 1 day 20 hr 41 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 711 songs - 1 day 20 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -717,5 +717,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 707 | [Lazy Boy](https://open.spotify.com/track/5xXkyBtG1sNIhkpCIxF0Il) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 3:31 |
 | 708 | [Just A Man With A Job](https://open.spotify.com/track/6iozVvekYagwUXltruLmQN) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Monsieur Gainsbourg Revisited](https://open.spotify.com/album/0R0DwHyZlJKSUT7n3jh1Gm) | 2:50 |
 | 709 | [Damaged Goods](https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK) | 3:26 |
+| 710 | [How I Made My Millions](https://open.spotify.com/track/4OuUXis3HgBtLoSaYz3Brp) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [No Surprises](https://open.spotify.com/album/4IUjCg0H2fJknfSG2uGoTa) | 3:09 |
+| 711 | [Palo Alto](https://open.spotify.com/track/7obvmD1HzGaYGIURbzhvaE) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [No Surprises](https://open.spotify.com/album/4IUjCg0H2fJknfSG2uGoTa) | 3:43 |
 
-Snapshot ID: `AAAnoWbb3KjAyOzEFgxAuE80eLm/meOy`
+Snapshot ID: `AAAnowmPWTlsgS7AazgKP3V+f4bPxCG7`

@@ -2297,6 +2297,28 @@
     },
     {
       "album": {
+        "name": "Caves Road",
+        "url": "https://open.spotify.com/album/5E9MILTdZtgxrLj8Lu9vgK"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Charlick",
+          "url": "https://open.spotify.com/artist/6vT9kqySnFplqB0FMkVfwQ"
+        },
+        {
+          "name": "The Southwest Quintet",
+          "url": "https://open.spotify.com/artist/5vrQ57YwqhAsjelse0KMIg"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182200,
+      "name": "I'm a poached egg",
+      "url": "https://open.spotify.com/track/2P4P55eCP2eBTYfQl6ncwk"
+    },
+    {
+      "album": {
         "name": "An American in Paris (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/3YWaf7O1V2tZ7bQgw5LhpP"
       },

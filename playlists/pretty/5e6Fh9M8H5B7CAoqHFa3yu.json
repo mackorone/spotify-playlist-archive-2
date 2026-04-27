@@ -1,13 +1,29 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 309,
+  "num_followers": 310,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJWtd8fed4YMMxJ9/3Mrh0/1LiDhoN",
+  "snapshot_id": "AAAJXujN7E42fwp4HI1QaKhNHCjV/5Dv",
   "tracks": [
+    {
+      "added_at": "2026-04-26 18:12:16",
+      "album": {
+        "name": "Chau Dios",
+        "url": "https://open.spotify.com/album/0pma5SzdpBk6r47NH1RFTl"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Emilio Alvarez Parafita",
+          "url": "https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j"
+        }
+      ],
+      "duration_ms": 228159,
+      "name": "Chau Dios",
+      "url": "https://open.spotify.com/track/3oby8FKMeOdOrImV7ttBHb"
+    },
     {
       "added_at": "2026-04-23 14:40:23",
       "album": {
@@ -37843,6 +37859,62 @@
       "duration_ms": 140350,
       "name": "Vuelve a Ser Inevitable",
       "url": "https://open.spotify.com/track/1TPj2DlZJW30bIjJ9Iw8yu"
+    },
+    {
+      "added_at": "2026-04-26 08:43:51",
+      "album": {
+        "name": "High Times",
+        "url": "https://open.spotify.com/album/0RfTN5GrYmoUolw9p4LLNx"
+      },
+      "artists": [
+        {
+          "name": "middt lofi club",
+          "url": "https://open.spotify.com/artist/21CoJvCH8Sv5bPeGUGnGQQ"
+        }
+      ],
+      "duration_ms": 166333,
+      "name": "High Times",
+      "url": "https://open.spotify.com/track/0Dv1BREHXW9WpuTPzUQqKF"
+    },
+    {
+      "added_at": "2026-04-26 20:38:42",
+      "album": {
+        "name": "DE AIRE Y VIENTO",
+        "url": "https://open.spotify.com/album/6CXHERIensmaR5X5Py5mYH"
+      },
+      "artists": [
+        {
+          "name": "Pablo Despeyroux",
+          "url": "https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N"
+        },
+        {
+          "name": "Carlos Caro",
+          "url": "https://open.spotify.com/artist/4ibfK2HfqnMBNfoYzHVqZA"
+        },
+        {
+          "name": "Jorge Mesa Valle \"El Pirata\"",
+          "url": "https://open.spotify.com/artist/40k0L6m30y0wPEA2VTAclC"
+        }
+      ],
+      "duration_ms": 446013,
+      "name": "Siempre Asi",
+      "url": "https://open.spotify.com/track/3dLLimWacQ18jXzadTG3j3"
+    },
+    {
+      "added_at": "2026-04-27 01:58:10",
+      "album": {
+        "name": "Coffee in Barcelona",
+        "url": "https://open.spotify.com/album/1ykrKt162d6k4QYCYEUO58"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "duration_ms": 228818,
+      "name": "Coffee in Barcelona",
+      "url": "https://open.spotify.com/track/1p6AI4YeYuTnQdiGRj5G8i"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

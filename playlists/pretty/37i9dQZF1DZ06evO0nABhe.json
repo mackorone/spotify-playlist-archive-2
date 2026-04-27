@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAACbLCVlgv3cBGl56pS68FpB",
+  "snapshot_id": "aewEAAAAAAAcJGguvMHbYwkpcYXm8qAJ",
   "tracks": [
     {
       "added_at": null,
@@ -659,22 +659,6 @@
       "duration_ms": 223546,
       "name": "Holding On To You",
       "url": "https://open.spotify.com/track/4ZuRyACv6x2R1cWW93l7TA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 241663,
-      "name": "A Part of Me",
-      "url": "https://open.spotify.com/track/4tXuOhxMwPa2LlxxWf4OvL"
     },
     {
       "added_at": null,

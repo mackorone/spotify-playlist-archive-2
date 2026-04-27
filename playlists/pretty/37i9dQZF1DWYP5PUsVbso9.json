@@ -1,6 +1,6 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 315888,
+  "num_followers": 315916,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-02-03 18:46:39",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Tulsa Time",
-      "url": "https://open.spotify.com/track/5BTUfUNq9sa7OUbles1qvS"
-    },
-    {
-      "added_at": "2026-02-03 18:46:39",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4OQKkIIp50FJvUd69vT0B4"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 179586,
       "name": "Southern Nights",
       "url": "https://open.spotify.com/track/2sd8p89DvYBzJFWo97knsd"
+    },
+    {
+      "added_at": "2026-02-03 18:46:39",
+      "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Tulsa Time",
+      "url": "https://open.spotify.com/track/5BTUfUNq9sa7OUbles1qvS"
     },
     {
       "added_at": "2026-02-03 18:46:39",
@@ -1487,22 +1487,18 @@
     {
       "added_at": "2026-02-03 18:46:39",
       "album": {
-        "name": "Every Time Two Fools Collide",
-        "url": "https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL"
+        "name": "Anniversary (Ten Years Of Hits)",
+        "url": "https://open.spotify.com/album/03CmBZWedcwyCLKmypX5Lb"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        },
-        {
-          "name": "Dottie West",
-          "url": "https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 180906,
-      "name": "Every Time Two Fools Collide",
-      "url": "https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy"
+      "duration_ms": 138800,
+      "name": "Her Name Is...",
+      "url": "https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0"
     },
     {
       "added_at": "2026-02-03 18:46:39",
@@ -1523,18 +1519,22 @@
     {
       "added_at": "2026-02-03 18:46:39",
       "album": {
-        "name": "Anniversary (Ten Years Of Hits)",
-        "url": "https://open.spotify.com/album/03CmBZWedcwyCLKmypX5Lb"
+        "name": "Every Time Two Fools Collide",
+        "url": "https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        },
+        {
+          "name": "Dottie West",
+          "url": "https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB"
         }
       ],
-      "duration_ms": 138800,
-      "name": "Her Name Is...",
-      "url": "https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0"
+      "duration_ms": 180906,
+      "name": "Every Time Two Fools Collide",
+      "url": "https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy"
     },
     {
       "added_at": "2026-02-03 18:46:39",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2026-02-03 18:46:39",
       "album": {
-        "name": "The Best Of Billy \"Crash\" Craddock",
-        "url": "https://open.spotify.com/album/6GLL2DGK5Dw8P99pbUGkii"
+        "name": "Till The End",
+        "url": "https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F"
       },
       "artists": [
         {
-          "name": "Billy 'Crash' Craddock",
-          "url": "https://open.spotify.com/artist/4Se104PDIxemxBgtWynyIq"
+          "name": "Vern Gosdin",
+          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
         }
       ],
-      "duration_ms": 146800,
-      "name": "Rub It In",
-      "url": "https://open.spotify.com/track/6q014fQ3SqLy180KPuCTG1"
+      "duration_ms": 173853,
+      "name": "Mother Country Music",
+      "url": "https://open.spotify.com/track/06z1kxyyax5xkyJVWK0U3K"
     },
     {
       "added_at": "2026-02-03 18:46:39",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2026-02-03 18:46:39",
       "album": {
-        "name": "Till The End",
-        "url": "https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F"
+        "name": "The Best Of Billy \"Crash\" Craddock",
+        "url": "https://open.spotify.com/album/6GLL2DGK5Dw8P99pbUGkii"
       },
       "artists": [
         {
-          "name": "Vern Gosdin",
-          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
+          "name": "Billy 'Crash' Craddock",
+          "url": "https://open.spotify.com/artist/4Se104PDIxemxBgtWynyIq"
         }
       ],
-      "duration_ms": 173853,
-      "name": "Mother Country Music",
-      "url": "https://open.spotify.com/track/06z1kxyyax5xkyJVWK0U3K"
+      "duration_ms": 146800,
+      "name": "Rub It In",
+      "url": "https://open.spotify.com/track/6q014fQ3SqLy180KPuCTG1"
     },
     {
       "added_at": "2026-02-03 18:46:39",

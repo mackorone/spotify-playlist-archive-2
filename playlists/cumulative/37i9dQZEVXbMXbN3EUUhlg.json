@@ -320,7 +320,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 169929,
       "name": "2.0",
       "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
@@ -1670,7 +1670,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 175228,
       "name": "Admita - Ao Vivo",
       "url": "https://open.spotify.com/track/2YKc5o2kQ6e1Pch1DwpjkO"
@@ -4064,7 +4064,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -4952,7 +4952,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 247980,
       "name": "Beatriz",
       "url": "https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF"
@@ -5010,7 +5010,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -5726,7 +5726,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 189725,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
@@ -8524,7 +8524,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 195794,
       "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) - Ao Vivo",
       "url": "https://open.spotify.com/track/6Kyl2nFgU0J8WBlbBvDv6g"
@@ -8564,7 +8564,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 198144,
       "name": "Corpo Nu - Ao Vivo",
       "url": "https://open.spotify.com/track/2rryVhIBu2bvOz96BjViVV"
@@ -9768,7 +9768,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 170581,
       "name": "Desgra\u00e7a",
       "url": "https://open.spotify.com/track/7kLZlMAsV9Kx7RynqQaTiG"
@@ -10938,7 +10938,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 191154,
       "name": "Dois Gumes (Ao Vivo)",
       "url": "https://open.spotify.com/track/6Exec6nPRIwvAEu3N8pVnT"
@@ -16876,7 +16876,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
@@ -29889,6 +29889,24 @@
     },
     {
       "album": {
+        "name": "Voc\u00eas & Deus, Vol. 1 (Ao Vivo no Rio de Janeiro)",
+        "url": "https://open.spotify.com/album/1URfI21LdTBjIZoiVCV1rB"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183578,
+      "name": "Quase Todo Dia - Ao Vivo",
+      "url": "https://open.spotify.com/track/4KXzMDCXK7VM3jUGibJse5"
+    },
+    {
+      "album": {
         "name": "Que Del\u00edcia",
         "url": "https://open.spotify.com/album/5WeyrWSrGXzFHCYyLGvXvg"
       },
@@ -32208,7 +32226,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 192034,
       "name": "Seja Ex (Ao Vivo)",
       "url": "https://open.spotify.com/track/5jP9oqulg2Dz6yLwLYj5KO"
@@ -32874,7 +32892,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 129692,
       "name": "SEQU\u00caNCIA FEITICEIRA",
       "url": "https://open.spotify.com/track/1JUmsSEfVwhdJCVBG83XGU"

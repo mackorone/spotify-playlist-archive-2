@@ -294,7 +294,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 193750,
       "name": "Algo especial",
       "url": "https://open.spotify.com/track/3800qliKwzML9D2aoZ1Q3B"
@@ -5724,6 +5724,28 @@
       "duration_ms": 127500,
       "name": "Travesuras",
       "url": "https://open.spotify.com/track/21xJRnbHgHFMHvNqdmf73y"
+    },
+    {
+      "album": {
+        "name": "Treu-te el Bikini",
+        "url": "https://open.spotify.com/album/6WBDC7XQ01tRdEw2PPysRT"
+      },
+      "artists": [
+        {
+          "name": "FADES",
+          "url": "https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO"
+        },
+        {
+          "name": "FBOYZ",
+          "url": "https://open.spotify.com/artist/7Cf1fxSvBV92PkhYOUtmxO"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147113,
+      "name": "Treu-te el Bikini",
+      "url": "https://open.spotify.com/track/3aSniXUsdmFyrmWNJHO5FL"
     },
     {
       "album": {

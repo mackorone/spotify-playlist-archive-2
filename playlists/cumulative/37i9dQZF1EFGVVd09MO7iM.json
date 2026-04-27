@@ -924,7 +924,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 191693,
       "name": "Anything",
       "url": "https://open.spotify.com/track/5kiD3qnsuhV2YwH4bq93Yc"
@@ -5171,6 +5171,24 @@
     },
     {
       "album": {
+        "name": "MDNA World Tour (Live)",
+        "url": "https://open.spotify.com/album/6VXxOlZICmhnJzGpHiNrvQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2026-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280820,
+      "name": "Erotic Candy Shop - MDNA World Tour / Live 2012",
+      "url": "https://open.spotify.com/track/4F8UgxlYQ6rvaWhrilGQEN"
+    },
+    {
+      "album": {
         "name": "NO ONE EVER REALLY DIES",
         "url": "https://open.spotify.com/album/54OXaFd0PtGtAgauTmARkD"
       },
@@ -8408,7 +8426,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 207184,
       "name": "Hot Thing (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/3JxDy5oyoxfjDZQBcuQErB"
@@ -13584,7 +13602,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 259143,
       "name": "Objects in the Mirror",
       "url": "https://open.spotify.com/track/4zlfuYV39hjCa5RbgdhVCr"
@@ -13602,7 +13620,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-24",
+      "date_removed": null,
       "duration_ms": 259143,
       "name": "Objects in the Mirror",
       "url": "https://open.spotify.com/track/5Tvqb0G5ePEWiOB6Gh2o3d"

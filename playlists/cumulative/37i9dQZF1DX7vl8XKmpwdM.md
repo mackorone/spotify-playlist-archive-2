@@ -2,7 +2,7 @@
 
 ### [Latest Dance Tamil](https://open.spotify.com/playlist/37i9dQZF1DX7vl8XKmpwdM)
 
-> Dance Machi Dance<br/>Cover : Meesaya Murukku 2
+> Dance Machi Dance<br/>Cover : Karuppu
 
 280 songs - 16 hr 27 min
 

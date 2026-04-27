@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 178793,
       "name": "I Never Want This To End",
       "url": "https://open.spotify.com/track/6UM6c1Ehi4AWYwJbuynuTe"
@@ -5408,7 +5408,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Protected",
       "url": "https://open.spotify.com/track/1cRRIRrUiPnLOvsnWNhoH9"
@@ -6462,7 +6462,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-27",
       "duration_ms": 228199,
       "name": "Sunlite",
       "url": "https://open.spotify.com/track/6AOIB0Mc6ONZWcr9IxwRa6"
@@ -7658,6 +7658,32 @@
       "duration_ms": 232795,
       "name": "Won't Give Up",
       "url": "https://open.spotify.com/track/26jQz1uxGLamG6naDNzjD4"
+    },
+    {
+      "album": {
+        "name": "World Is Mine",
+        "url": "https://open.spotify.com/album/5rCuyoc0PgtgCb2hpoQqMZ"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        },
+        {
+          "name": "BJOERN",
+          "url": "https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286080,
+      "name": "World Is Mine",
+      "url": "https://open.spotify.com/track/0IOtFlCwTsHdekpZsaK0Ua"
     },
     {
       "album": {

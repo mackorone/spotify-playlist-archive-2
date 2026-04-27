@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-1,099 songs - 2 day 12 hr 8 min
+1,100 songs - 2 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Don't Let Me Down \(feat\. JVKE\)](https://open.spotify.com/track/046QZ0ociluzd0yjpY1tY4) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Don't Let Me Down \(feat\. JVKE\)](https://open.spotify.com/album/2m3RAFfpFPttHJIMBZKKCo) | 2:48 | 2024-02-29 | 2024-03-06 |
 | [Don't Make Me Wait](https://open.spotify.com/track/4VIXABWFOhdlF3ciF24O77) | [Vladimir Cetkar](https://open.spotify.com/artist/265stn1aAQWDK61IA5i9KG) | [Let Us Be](https://open.spotify.com/album/4uopvb71ZgL7DBPKg5piEP) | 4:12 | 2024-10-10 | 2024-10-18 |
 | [Donkey Song](https://open.spotify.com/track/07t6ciK5LXxrCoHfAQoaUj) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Donkey Song](https://open.spotify.com/album/0r8BiIoWJWUMliO4LUkKK0) | 3:35 | 2025-04-03 | 2025-05-23 |
+| [Doors](https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:51 | 2026-04-23 |  |
 | [Double Life \- From "Despicable Me 4"](https://open.spotify.com/track/07oO1U722crtVcavi6frX6) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Double Life \(From "Despicable Me 4"\)](https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4) | 3:10 | 2024-06-14 | 2024-08-03 |
 | [DREAM](https://open.spotify.com/track/0iwapo5J8OfpNWLZ2XBSkk) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [蝉ダンスフロア](https://open.spotify.com/album/3ewrQXeEG1sBfnyV3i0c5v) | 3:46 | 2023-07-13 | 2023-08-11 |
 | [Dream Come True](https://open.spotify.com/track/0kh3Vsiqf3LWNP7dIMxqYO) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn), [Malachi Barton](https://open.spotify.com/artist/3fknxSm9gKHsiN2C6lcRme), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES 4: Dawn of the Vampires \(Original Soundtrack\)](https://open.spotify.com/album/6Pbfaaiw90G9rK2mhmSd4Q) | 3:18 | 2025-07-10 | 2025-09-19 |
@@ -1091,7 +1092,7 @@
 | [舞台に立って](https://open.spotify.com/track/42lDvdAmBr7H5hLzvr882L) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [舞台に立って](https://open.spotify.com/album/3OId6Q1stp8y4QOnQUZ9ku) | 3:27 | 2024-07-26 | 2024-08-03 |
 | [花](https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw) | 4:06 | 2024-04-12 | 2026-01-29 |
 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 | 2024-01-04 |  |
-| [花占い](https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:27 | 2023-11-14 |  |
+| [花占い](https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:27 | 2023-11-14 | 2026-04-27 |
 | [芽吹け](https://open.spotify.com/track/4aeSypCiv2gSs34o7cbTkP) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD) | [Walkin' with a song](https://open.spotify.com/album/70A8uhhWCJpeKMpxJOwX5d) | 3:41 | 2023-08-22 | 2023-09-01 |
 | [蕾](https://open.spotify.com/track/02J918WUY2J6jBLux5ONUI) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [蕾](https://open.spotify.com/album/0PuGKOl8H5w8Ar0esB1f2V) | 3:13 | 2024-05-23 | 2024-07-05 |
 | [蜃気楼](https://open.spotify.com/track/1BtsD0IBNAdXVdSAVe6sih) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [蜃気楼](https://open.spotify.com/album/4ry8r9J343HddtLeezD5rS) | 3:29 | 2024-09-19 | 2024-09-27 |

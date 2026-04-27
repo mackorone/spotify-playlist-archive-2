@@ -4,7 +4,7 @@
 
 > 
 
-3,002 songs - 6 day 11 hr 9 min
+3,003 songs - 6 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [99 Luftballons](https://open.spotify.com/track/12yEap9JbOxwY1XI8ojhnH) | [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l) | [99 Luftballons](https://open.spotify.com/album/6WSWuALX4UBl91Hjb1q4h2) | 2:46 | 2023-06-17 |  |
 | [\[666\]](https://open.spotify.com/track/2ZDbRF73ckGEKHmWtP1qMz) | [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD), [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349) | [\[666\]](https://open.spotify.com/album/4lDMhxJ5ZLDXSpHGXD1XJx) | 2:01 | 2026-01-23 |  |
 | [A Dream Surprise \- Unproven Remix](https://open.spotify.com/track/7l20bzoF8UTueokSAvOQWr) | [Fade](https://open.spotify.com/artist/5TX4kK3FjQU9aJjK7KiL0f), [Banana Man](https://open.spotify.com/artist/37wRgQRWKVjf5nlFA4ckcK), [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI) | [A Dream Surprise \(Unproven Remix\)](https://open.spotify.com/album/2CIkMXMHtPkyc3H0w20iSz) | 3:26 | 2024-03-13 |  |
+| [A New Religion](https://open.spotify.com/track/0g0Z5Xn9Feapap1eFIvqYE) | [Insuspect](https://open.spotify.com/artist/1NfB4JTkokC6dfFqKXyZEa), [Eternal Records](https://open.spotify.com/artist/18Ye7CcEFN7DXDXElQs57x) | [A New Religion](https://open.spotify.com/album/190xglUAKd8bHSBJSevgPF) | 2:59 | 2026-04-27 |  |
 | [A WAY TO YOUR HEART](https://open.spotify.com/track/1sM8uxd2RUI5F91aWx14TX) | [Ixper](https://open.spotify.com/artist/4rP4FtB36MD5u3FgV3xlVN) | [ELECTRONIC UNIVERSE](https://open.spotify.com/album/7jgoChu3QvdSTfoaOmALU4) | 2:20 | 2024-08-11 |  |
 | [A.I.](https://open.spotify.com/track/1ZT1knxtMFC5G1OZJrrNds) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Artificial Intoxication](https://open.spotify.com/album/1UzOa746jQMejJtvImrB5O) | 3:41 | 2022-12-22 |  |
 | [Abracadabra](https://open.spotify.com/track/7AN2M6saYBVeWAAlx61aZf) | [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [IMHAPPY](https://open.spotify.com/artist/610Cl4EOB0UT1FSg8zjedB) | [Abracadabra](https://open.spotify.com/album/1hyuxtaosjemNRF72LIXQb) | 2:14 | 2026-04-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 256649,
+  "num_followers": 256659,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aeqygAAAAAA946z5eZ1rTfd//OI46O1v",
+  "snapshot_id": "aewEAAAAAAB+dUtcQVvmqcILk/B62VSf",
   "tracks": [
     {
       "added_at": null,
@@ -923,6 +923,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stamford Bridge",
+        "url": "https://open.spotify.com/album/3n0nCCkmMF2pzXbMvpeg0B"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Samg",
+          "url": "https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Stamford Bridge",
+      "url": "https://open.spotify.com/track/1zhQNQUBbZFaYmxhpOhyLC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "400 Estrellas",
         "url": "https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 223875,
       "name": "400 Estrellas",
       "url": "https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stamford Bridge",
-        "url": "https://open.spotify.com/album/3n0nCCkmMF2pzXbMvpeg0B"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Samg",
-          "url": "https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Stamford Bridge",
-      "url": "https://open.spotify.com/track/1zhQNQUBbZFaYmxhpOhyLC"
     },
     {
       "added_at": null,
