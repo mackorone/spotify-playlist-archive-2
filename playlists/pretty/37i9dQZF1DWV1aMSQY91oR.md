@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: Cadence Weapon & Junia\-T
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,826 likes - 49 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,840 likes - 49 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 24 | [Musical Chair](https://open.spotify.com/track/3BKm9QBDjVdEoVnZQbvdhu) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6), [Hardbody Jones](https://open.spotify.com/artist/2eSkpY6chWswQyjOuQ9pFl) | [Musical Chair](https://open.spotify.com/album/2qBfFgzPsWBfge4uCXLewA) | 2:18 |
 | 25 | [Bet it All](https://open.spotify.com/track/5aPjCwBAsj1yT89rIwqzMN) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9), [Chase Belly](https://open.spotify.com/artist/6tsYLksrBCYGx807tLtqcE) | [Bet it All](https://open.spotify.com/album/59LXNdhF38YWNCWpz5EnEt) | 3:22 |
 | 26 | [Yoppenheimer \- Remix](https://open.spotify.com/track/39tC2YIcSYKqA5kdpL5ZqP) | [Lelo](https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Yoppenheimer \(Remix\)](https://open.spotify.com/album/6elhoYIFHIWDx96tw7iY3K) | 2:46 |
-| 27 | [Mona Lisa](https://open.spotify.com/track/0scvePadrWWKptnSlHrRqG) | [LG Malique](https://open.spotify.com/artist/3AVhTymLXfDZtJ7EJybv4p), [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Mona Lisa](https://open.spotify.com/album/7siy79PkAD9PwucUiqbIEE) | 2:55 |
+| 27 | [Mona Lisa \(feat\. Dess Dior\)](https://open.spotify.com/track/0scvePadrWWKptnSlHrRqG) | [LG Malique](https://open.spotify.com/artist/3AVhTymLXfDZtJ7EJybv4p), [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Mona Lisa \(feat\. Dess Dior\)](https://open.spotify.com/album/7siy79PkAD9PwucUiqbIEE) | 2:55 |
 | 28 | [WOAH](https://open.spotify.com/track/7zO39XFeFtKWpFbYtDTh3Y) | [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [WOAH](https://open.spotify.com/album/1fFxMza5WpchuZFbIKRNFJ) | 2:36 |
 | 29 | [Spend Dat](https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Spend Dat](https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC) | 3:01 |
 | 30 | [600 Racks](https://open.spotify.com/track/4ss5dbCWS90LRINPRxDjE6) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [600 Racks](https://open.spotify.com/album/6rU9y9BYVGa7uA977pl0f5) | 3:04 |

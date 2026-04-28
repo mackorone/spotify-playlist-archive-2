@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Songs from LGBTQIA+ artists. Cover: Slayyyter",
+  "description": "Songs from LGBTQIA+ artists. Cover: Milune",
   "name": "GLOW",
   "tracks": [
     {
@@ -11372,7 +11372,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 151785,
       "name": "GOOD DAY",
       "url": "https://open.spotify.com/track/3TubRbPztEN9c3y09dItMb"
@@ -28126,6 +28126,24 @@
       "duration_ms": 178572,
       "name": "Swing of Things",
       "url": "https://open.spotify.com/track/57crzxYpDCaPcXx3cBSARW"
+    },
+    {
+      "album": {
+        "name": "SWITCH",
+        "url": "https://open.spotify.com/album/5m2RiG98LyHcsFaXmmafjn"
+      },
+      "artists": [
+        {
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161946,
+      "name": "SWITCH",
+      "url": "https://open.spotify.com/track/2WeWR36jTi4GKAYu36lPUb"
     },
     {
       "album": {

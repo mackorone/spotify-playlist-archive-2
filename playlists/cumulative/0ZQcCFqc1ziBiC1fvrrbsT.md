@@ -4,7 +4,7 @@
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-5,111 songs - 13 day 16 hr 50 min
+5,112 songs - 13 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3287,6 +3287,7 @@
 | [Out In The Fields](https://open.spotify.com/track/2NKBG5YGy83o1IL6ztXnc4) | [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Out In The Fields / Party Oven](https://open.spotify.com/album/6qWjEdbqZcGDQpl0w82Avk) | 4:00 | 2023-08-18 | 2023-08-26 |
 | [Out of Luck](https://open.spotify.com/track/4GztgCDwEDr7H0C7Fs0Luv) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 2:55 | 2023-10-27 | 2023-11-04 |
 | [Out Of Phase](https://open.spotify.com/track/2Heb851vgYM6Vz1JIQnF3G) | [Alexis Taylor](https://open.spotify.com/artist/6zclVXoEfp3nFq4dOgqgOX), [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Out Of Phase](https://open.spotify.com/album/5UFWGzfVo9CKSrEWsRG9li) | 4:45 | 2026-01-16 | 2026-01-24 |
+| [Out of Place](https://open.spotify.com/track/2lxUQi5kRn7dziJn7ea6JE) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Marta](https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7) | [Out of Place](https://open.spotify.com/album/35AF4IdvKWLEAWGrayJnj5) | 2:37 | 2026-04-27 |  |
 | [Out Of This World](https://open.spotify.com/track/4rTRi98KO1NFyvVQtdWTNi) | [Das Koolies](https://open.spotify.com/artist/5XNA9WK8AbbulZqLvWjKFf) | [Out Of This World](https://open.spotify.com/album/49bUYOFE3yYRXiU4WNPpXk) | 3:56 | 2023-08-25 | 2023-09-02 |
 | [Out On Our Own](https://open.spotify.com/track/024bg0skkRkZpI4vi36aTk) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [We Are Love](https://open.spotify.com/album/6NfDKhBNBIMR1HeStDZqs7) | 4:51 | 2025-10-31 | 2025-11-08 |
 | [Outdated Wallpaper](https://open.spotify.com/track/0M3Il7FYQjMODrvmYAwfPt) | [Record Setter](https://open.spotify.com/artist/5dAHI3WBHJFGRaAyDm5VHT) | [Outdated Wallpaper](https://open.spotify.com/album/0r4AYcStV4GY9IYoTJV24a) | 3:25 | 2023-05-12 | 2023-05-20 |

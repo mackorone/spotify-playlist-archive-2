@@ -1503,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Anytime You Like",
+        "url": "https://open.spotify.com/album/60NgbUDo1569G7Hrab1CJJ"
+      },
+      "artists": [
+        {
+          "name": "Kaan \u00c7elik",
+          "url": "https://open.spotify.com/artist/2heQOzLUmQAIkn11BeThGA"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Anytime You Like",
+      "url": "https://open.spotify.com/track/3LReK9APHNd1KNzAjjMqfb"
+    },
+    {
+      "album": {
         "name": "Ardiente",
         "url": "https://open.spotify.com/album/1xuLwXO1FXzZEkpheB7KdB"
       },
@@ -1856,7 +1874,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 342857,
       "name": "Baba",
       "url": "https://open.spotify.com/track/3RcTPKf2CKRipt3zMi1rID"
@@ -1892,7 +1910,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 320016,
       "name": "Back Again",
       "url": "https://open.spotify.com/track/1HdAiPnfkACZnDlCPCRIlG"
@@ -1922,6 +1940,28 @@
       "duration_ms": 213250,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/1FA0Adwe8FnRNpja1KYyT5"
+    },
+    {
+      "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/2hu793vBJWIMCb9pW85Uke"
+      },
+      "artists": [
+        {
+          "name": "Argento Dust",
+          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
+        },
+        {
+          "name": "\u00dcDOR\u0100",
+          "url": "https://open.spotify.com/artist/4opfpihhGD63A38XX6s9lq"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339000,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/5dS7IjDzZj5lb8K1rTx5nP"
     },
     {
       "album": {
@@ -3792,7 +3832,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 175357,
       "name": "Choli Ke Peeche",
       "url": "https://open.spotify.com/track/7mkg15ownMhaRY5OL6hprN"
@@ -7156,6 +7196,24 @@
       "duration_ms": 285000,
       "name": "Fool's Paradise - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/4SH7CUxlrgvN9vf3oWa05d"
+    },
+    {
+      "album": {
+        "name": "Forest",
+        "url": "https://open.spotify.com/album/3Fd2QkV19y7Cl2h7FdNOSI"
+      },
+      "artists": [
+        {
+          "name": "Ajna (BE)",
+          "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330561,
+      "name": "Forest",
+      "url": "https://open.spotify.com/track/6LlmLH7RIKJ1wfRTKmnmtK"
     },
     {
       "album": {
@@ -15119,6 +15177,28 @@
     },
     {
       "album": {
+        "name": "Ndaterera",
+        "url": "https://open.spotify.com/album/6wR14AAT0jvtYq1ecA5mxq"
+      },
+      "artists": [
+        {
+          "name": "Nettle DJ",
+          "url": "https://open.spotify.com/artist/5MwIVwLo9wKNJZ34OdCLph"
+        },
+        {
+          "name": "Audius",
+          "url": "https://open.spotify.com/artist/4tSISQMMvrkdPABVc3eGO3"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283125,
+      "name": "Ndaterera",
+      "url": "https://open.spotify.com/track/61EpBQutVCFmlZHQYeoOVT"
+    },
+    {
+      "album": {
         "name": "NDAU",
         "url": "https://open.spotify.com/album/4zZJW1MqO9NVaKzyAQQCed"
       },
@@ -15694,6 +15774,32 @@
       "duration_ms": 306131,
       "name": "Nipe Penzi (feat. BATUNDI)",
       "url": "https://open.spotify.com/track/1GnFzIi2u9M7t5jeeOYRAo"
+    },
+    {
+      "album": {
+        "name": "Nishike",
+        "url": "https://open.spotify.com/album/2VGRp829W3Bdb2buGdWf7E"
+      },
+      "artists": [
+        {
+          "name": "SOUNDS HUMAN",
+          "url": "https://open.spotify.com/artist/6WHYUrDNIYet9SahwHGa1G"
+        },
+        {
+          "name": "Christian Lena",
+          "url": "https://open.spotify.com/artist/3UfOURxGgIzN48KvqUV4c1"
+        },
+        {
+          "name": "Lucinia Karrey",
+          "url": "https://open.spotify.com/artist/61h4FsXpZcm4Ku28ElGET0"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Nishike",
+      "url": "https://open.spotify.com/track/6hDVURmifnKyNMuea8EDbn"
     },
     {
       "album": {
@@ -18248,7 +18354,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 334000,
       "name": "Release Your Pain",
       "url": "https://open.spotify.com/track/5yYecKiUHZc2O8C5AR2AmF"
@@ -24624,7 +24730,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 230000,
       "name": "White Lines",
       "url": "https://open.spotify.com/track/5r3QFIVxA6jqAuflL4cIP4"
@@ -24646,6 +24752,24 @@
       "duration_ms": 294244,
       "name": "White River",
       "url": "https://open.spotify.com/track/0J41ajVxXMXWOFvUVZmL3X"
+    },
+    {
+      "album": {
+        "name": "WHY 3",
+        "url": "https://open.spotify.com/album/3rYiZ4aN2BlcExzSNWyJYm"
+      },
+      "artists": [
+        {
+          "name": "DJEFF",
+          "url": "https://open.spotify.com/artist/7h1PMdIjUn3sZM2sNz0SD4"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465000,
+      "name": "WHY 3",
+      "url": "https://open.spotify.com/track/1mvJtCZIGY1RvFCzFZBkTB"
     },
     {
       "album": {
@@ -25392,7 +25516,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 156097,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/0sfXBVmMupngHnNW1hsuFj"

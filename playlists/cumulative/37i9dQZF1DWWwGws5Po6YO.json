@@ -709,6 +709,28 @@
     },
     {
       "album": {
+        "name": "Nested in Tangles (Deluxe)",
+        "url": "https://open.spotify.com/album/0v3bid5eeWmchf4wCNcxVE"
+      },
+      "artists": [
+        {
+          "name": "Hannah Frances",
+          "url": "https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz"
+        },
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284466,
+      "name": "Beholden to the Birds Murmuring Above",
+      "url": "https://open.spotify.com/track/4rJDJnOFLms2b4oFquIBFg"
+    },
+    {
+      "album": {
         "name": "The Man Who Died in His Boat",
         "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
       },
@@ -720,7 +742,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 285866,
       "name": "Being Her Shadow",
       "url": "https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh"
@@ -982,7 +1004,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 288693,
       "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
@@ -1094,7 +1116,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 80968,
       "name": "Circles",
       "url": "https://open.spotify.com/track/4fAEpM1T03i85vmAYtk6mM"
@@ -1138,7 +1160,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 187861,
       "name": "Cloudbreath",
       "url": "https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ"
@@ -2132,7 +2154,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 222167,
       "name": "Home",
       "url": "https://open.spotify.com/track/1mOygnZoGodamv4VcqSK3T"
@@ -2544,7 +2566,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 372430,
       "name": "Keep Pulling Me In",
       "url": "https://open.spotify.com/track/1HCKN6imCt9RujqIjFeO7X"
@@ -2772,7 +2794,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 250000,
       "name": "let\u2019s walk down to the swamp together",
       "url": "https://open.spotify.com/track/4IwCet2b9lJHU5UsXN1Zx5"
@@ -3460,7 +3482,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 522839,
       "name": "Oreison",
       "url": "https://open.spotify.com/track/3VBFITTlOsnEn8TqYsNxX8"
@@ -3562,7 +3584,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 384000,
       "name": "periferi",
       "url": "https://open.spotify.com/track/3ytorOvPTZGJr0padwLgLv"
@@ -3584,7 +3606,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 333147,
       "name": "Perpetual Adoration",
       "url": "https://open.spotify.com/track/57fbHs9sxFeV05fUz812uL"
@@ -4070,7 +4092,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 201012,
       "name": "So Sweet & Willing",
       "url": "https://open.spotify.com/track/2MvC4hbpRCofl44QX5fckC"

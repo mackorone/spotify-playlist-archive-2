@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-448 songs - 23 hr 1 min
+449 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [Vida Nova](https://open.spotify.com/track/23E61Q0ABWtFFvLnjLmdqO) | [Emin Nilsen](https://open.spotify.com/artist/59TVoD6bvD2JFs9xLZH9bX) | [Vida Nova](https://open.spotify.com/album/1HwnKFaOeS5dEpkmzrMc1Y) | 1:56 | 2024-04-25 | 2024-06-15 |
 | [Vienna](https://open.spotify.com/track/6Mb6rfn9rQkAKUIIo8ZtKU) | [James Mercy](https://open.spotify.com/artist/6RJbFqgnnHvQcq8TGdCIn2), [PhiloSofie](https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ) | [Vienna](https://open.spotify.com/album/1mP6fGKWD1xGXHA3kUR43N) | 3:33 | 2023-12-29 |  |
 | [Visions](https://open.spotify.com/track/6rf6y8M3qZDyFLBezkXZ2G) | [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn) | [Visions](https://open.spotify.com/album/63bnF1vs8NxwKZ7WjxLAcK) | 3:43 | 2023-03-24 | 2024-11-20 |
+| [Voyage](https://open.spotify.com/track/2y044w7FA1cRByq0lI6a43) | [Cyazon](https://open.spotify.com/artist/7yiGQoPOHVrr5LGKf5VwP8) | [Voyage](https://open.spotify.com/album/7EjVP4DSNhuwV83CYjJGTA) | 3:07 | 2026-04-27 |  |
 | [Voyage](https://open.spotify.com/track/0saZwRp7tEo7AiqmBhrnn4) | [Mendum](https://open.spotify.com/artist/3rq78lkE1laoELdsHHirtg), [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [DNAKM](https://open.spotify.com/artist/20N95on2Bu0e3AZyiEUMz1) | [Voyage](https://open.spotify.com/album/7FxFBjIT8RTKT23jHGUlSd) | 4:22 | 2022-02-03 | 2022-09-15 |
 | [Wait A While](https://open.spotify.com/track/0Dr0XdJ9OvXOUliU3mpHMn) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [LEOWI](https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y), [m els](https://open.spotify.com/artist/4AqQDC7iD1m7opRDm95GGD), [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Wait A While](https://open.spotify.com/album/493oxECc6D9qRDmOw5i5e4) | 2:55 | 2025-06-20 |  |
 | [Wait For Me](https://open.spotify.com/track/2hBW1iJavk57xEV9n6Nven) | [Doctor Neiman](https://open.spotify.com/artist/4O6KqCW3WUncBfaan8SYDe), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Wait For Me](https://open.spotify.com/album/0zECTjnRLcusNmXSFlP3vj) | 3:35 | 2023-08-10 |  |

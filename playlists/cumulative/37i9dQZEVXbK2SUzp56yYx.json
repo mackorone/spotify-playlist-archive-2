@@ -4059,6 +4059,24 @@
     },
     {
       "album": {
+        "name": "Satin Panthers",
+        "url": "https://open.spotify.com/album/7uKK7YRySFa1cXI5ICijFW"
+      },
+      "artists": [
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171720,
+      "name": "Cbat",
+      "url": "https://open.spotify.com/track/1JGGsCZ9zhgPJIsPy0pwt9"
+    },
+    {
+      "album": {
         "name": "KARMA",
         "url": "https://open.spotify.com/album/5ULZLn7Vv8TCeIpe0Uh2hO"
       },
@@ -6934,7 +6952,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -10971,6 +10989,24 @@
     },
     {
       "album": {
+        "name": "Fantasies",
+        "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286013,
+      "name": "Help I'm Alive",
+      "url": "https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi"
+    },
+    {
+      "album": {
         "name": "Royal Bastards",
         "url": "https://open.spotify.com/album/2PuUE6oBxsZFMtojQkWFPs"
       },
@@ -14130,7 +14166,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 134117,
       "name": "LEGACY",
       "url": "https://open.spotify.com/track/2jwpT2tPlP8HYVpFXfZMqM"
@@ -24726,7 +24762,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 212307,
       "name": "Studio54",
       "url": "https://open.spotify.com/track/0tAIN10sCvYnjQVx3KQdRP"
@@ -30375,6 +30411,24 @@
     },
     {
       "album": {
+        "name": "\u0430\u043d\u0433\u0435\u043b\u043e\u0447\u0435\u043a",
+        "url": "https://open.spotify.com/album/5uVXxuUSo6Cr9juxuIygkx"
+      },
+      "artists": [
+        {
+          "name": "onokami",
+          "url": "https://open.spotify.com/artist/3hRrb238EgRKmqP5xtXKdx"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104416,
+      "name": "\u0430\u043d\u0433\u0435\u043b\u043e\u0447\u0435\u043a (alternative version)",
+      "url": "https://open.spotify.com/track/37O3iMa9FdWiy9y35N1i0x"
+    },
+    {
+      "album": {
         "name": "\u0430\u043f\u0430\u0442\u0438\u044f",
         "url": "https://open.spotify.com/album/5J3RN2iKe0PBa62KhimD86"
       },
@@ -33798,7 +33852,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-20",
+      "date_removed": null,
       "duration_ms": 106450,
       "name": "\u0433\u0440\u0443\u0441\u0442\u0438\u043d\u043a\u0430",
       "url": "https://open.spotify.com/track/5DKNH9PdNi8ideCxyDY5M6"
@@ -37660,7 +37714,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 186003,
       "name": "\u041c\u0430\u043b\u0438\u043d\u043e\u0432\u044b\u0439 \u0417\u0430\u043a\u0430\u0442 \u041c\u0435\u0442\u0430\u043b\u043b",
       "url": "https://open.spotify.com/track/7tAVJH0fBj7LDJ1RkJWUMX"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Fatin
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,196 likes - 184 songs - 12 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,217 likes - 184 songs - 12 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,7 +144,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 | 134 | [Kasmaran](https://open.spotify.com/track/6rB2whUL8s2Kt3wIxsnCGf) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Kasmaran](https://open.spotify.com/album/2HR6Fg4E3PlzC2ZQ8dKIJu) | 4:02 |
 | 135 | [Karena Kucinta Kau](https://open.spotify.com/track/3OO0GMQomNOnhFli960HDz) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Hit Singles BCL And More](https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j) | 4:52 |
 | 136 | [Bukti](https://open.spotify.com/track/0O2GtSCle8Eujbc1Voh2VY) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Bukti](https://open.spotify.com/album/49ITgnRs2AEdr1p0s6tXXg) | 4:44 |
-| 137 | [Malaikat Juga Tahu](https://open.spotify.com/track/4F0zagZIjtGtZpFhqggW7P) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9), [The Bakucakar](https://open.spotify.com/artist/3j4yuzqVqHMg99jtnQnKGn) | [Luka Cinta & Merdeka](https://open.spotify.com/album/7xDITPT69DW3zhYUTwM50B) | 5:24 |
+| 137 | [Malaikat Juga Tahu](https://open.spotify.com/track/4F0zagZIjtGtZpFhqggW7P) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9), [The Bakuucakar](https://open.spotify.com/artist/3yJ1arup3yyqX2GbCs3PUs) | [Luka Cinta & Merdeka](https://open.spotify.com/album/7xDITPT69DW3zhYUTwM50B) | 5:24 |
 | 138 | [Lebih Indah](https://open.spotify.com/track/66V6QeI1Y9PQO4J7p7JGJO) | [Adera](https://open.spotify.com/artist/5puPe9ODwSfnmqy5cx90TC) | [Lebih Indah](https://open.spotify.com/album/0Gxnglx23wEe59QoWMux3x) | 4:18 |
 | 139 | [Untuk Perempuan Yang Sedang Di Pelukan](https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 5:42 |
 | 140 | [Siapkah Kau 'Tuk Jatuh Cinta Lagi](https://open.spotify.com/track/1SbpxkBg8DnkbTDgflkf6w) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Kereta Kencan](https://open.spotify.com/album/4JJsEIGWQzfjAgWiUEkuot) | 5:28 |

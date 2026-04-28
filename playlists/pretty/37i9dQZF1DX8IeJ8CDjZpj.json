@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a sudar la gota gorda al ritmo de la tuba y Los Recorditos! \ud83e\udd75\ud83d\udcaa\ud83c\udffd\ud83d\udd25",
-  "num_followers": 95115,
+  "num_followers": 95001,
   "original_name": "ZUMBANDA",
   "owner": {
     "name": "Spotify",
@@ -127,18 +127,18 @@
     {
       "added_at": "2026-04-24 06:00:31",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/401GeD9PATUU1PELNOD2MY"
+        "name": "Fiesta Mexicana Con La Banda",
+        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
       },
       "artists": [
         {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 197133,
-      "name": "Vanidosa",
-      "url": "https://open.spotify.com/track/4iN0LgZ4SwAIVJ7VRrsd27"
+      "duration_ms": 160626,
+      "name": "La ni\u00f1a fresa",
+      "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
     },
     {
       "added_at": "2026-04-24 06:00:31",
@@ -159,38 +159,18 @@
     {
       "added_at": "2026-04-24 06:00:31",
       "album": {
-        "name": "Fiesta Mexicana Con La Banda",
-        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/401GeD9PATUU1PELNOD2MY"
       },
       "artists": [
         {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 160626,
-      "name": "La ni\u00f1a fresa",
-      "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
-    },
-    {
-      "added_at": "2026-04-24 06:00:31",
-      "album": {
-        "name": "Borrachera Con Los Honorables (En Vivo)",
-        "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Los Honorables",
-          "url": "https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL"
-        }
-      ],
-      "duration_ms": 188429,
-      "name": "La Boda del Huitlacoche - En Vivo",
-      "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
+      "duration_ms": 197133,
+      "name": "Vanidosa",
+      "url": "https://open.spotify.com/track/4iN0LgZ4SwAIVJ7VRrsd27"
     },
     {
       "added_at": "2026-04-24 06:00:31",
@@ -227,8 +207,8 @@
     {
       "added_at": "2026-04-24 06:00:31",
       "album": {
-        "name": "Cahuates, Pistaches",
-        "url": "https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy"
+        "name": "Escuela De Rancho",
+        "url": "https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T"
       },
       "artists": [
         {
@@ -236,9 +216,29 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 177053,
-      "name": "Cahuates, Pistaches",
-      "url": "https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD"
+      "duration_ms": 139186,
+      "name": "El Mech\u00f3n",
+      "url": "https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU"
+    },
+    {
+      "added_at": "2026-04-24 06:00:31",
+      "album": {
+        "name": "Borrachera Con Los Honorables (En Vivo)",
+        "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Los Honorables",
+          "url": "https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL"
+        }
+      ],
+      "duration_ms": 188429,
+      "name": "La Boda del Huitlacoche - En Vivo",
+      "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
     },
     {
       "added_at": "2026-04-24 06:00:31",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-04-24 06:00:31",
       "album": {
+        "name": "Cahuates, Pistaches",
+        "url": "https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 177053,
+      "name": "Cahuates, Pistaches",
+      "url": "https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD"
+    },
+    {
+      "added_at": "2026-04-24 06:00:31",
+      "album": {
         "name": "Me Gustan Las Viejas Buenas",
         "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 159213,
       "name": "Tamarindo",
       "url": "https://open.spotify.com/track/57gZ0m6MfrQhJu1DwNyIE9"
-    },
-    {
-      "added_at": "2026-04-24 06:00:31",
-      "album": {
-        "name": "Escuela De Rancho",
-        "url": "https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 139186,
-      "name": "El Mech\u00f3n",
-      "url": "https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU"
     },
     {
       "added_at": "2026-04-24 06:00:31",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-04-24 06:00:31",
       "album": {
+        "name": "Corridos Arrolladores",
+        "url": "https://open.spotify.com/album/4lbqTdjiGgc9OGNIdSBW8c"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 145253,
+      "name": "La Suata",
+      "url": "https://open.spotify.com/track/0smVSDT780ZloqgsD9n6O8"
+    },
+    {
+      "added_at": "2026-04-24 06:00:31",
+      "album": {
         "name": "Me Gustan Las Viejas Buenas",
         "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
       },
@@ -391,18 +407,18 @@
     {
       "added_at": "2026-04-24 06:00:31",
       "album": {
-        "name": "Corridos Arrolladores",
-        "url": "https://open.spotify.com/album/4lbqTdjiGgc9OGNIdSBW8c"
+        "name": "Z\u00fambale",
+        "url": "https://open.spotify.com/album/2deDXXx93eQ9eZ4R8iEmh6"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 145253,
-      "name": "La Suata",
-      "url": "https://open.spotify.com/track/0smVSDT780ZloqgsD9n6O8"
+      "duration_ms": 176611,
+      "name": "Z\u00fambale",
+      "url": "https://open.spotify.com/track/64noYsIo4t4bZRmFshOvaF"
     },
     {
       "added_at": "2026-04-24 06:00:31",
@@ -475,22 +491,6 @@
     {
       "added_at": "2026-04-24 06:00:31",
       "album": {
-        "name": "Z\u00fambale",
-        "url": "https://open.spotify.com/album/2deDXXx93eQ9eZ4R8iEmh6"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 176611,
-      "name": "Z\u00fambale",
-      "url": "https://open.spotify.com/track/64noYsIo4t4bZRmFshOvaF"
-    },
-    {
-      "added_at": "2026-04-24 06:00:31",
-      "album": {
         "name": "Un D\u00eda Como Hoy",
         "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
       },
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-04-24 06:00:31",
       "album": {
+        "name": "S Cool...ito",
+        "url": "https://open.spotify.com/album/4w8BHpxUYiFrMnwlCyk6L1"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 148760,
+      "name": "S Cool...ito",
+      "url": "https://open.spotify.com/track/5Ru0MfnGGTxpSsLLLpG4mR"
+    },
+    {
+      "added_at": "2026-04-24 06:00:31",
+      "album": {
         "name": "COQUETO TAZO DORADO",
         "url": "https://open.spotify.com/album/0Tv8a7UNMKcvNXMCntg7fC"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 210720,
       "name": "COQUETO TAZO DORADO",
       "url": "https://open.spotify.com/track/3em90DscDPoispuwsdd2aT"
-    },
-    {
-      "added_at": "2026-04-24 06:00:31",
-      "album": {
-        "name": "Se Pronostican Borracheras",
-        "url": "https://open.spotify.com/album/2d1vtKw2auTTDRKYgnDMiW"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 136302,
-      "name": "Si Tu Boquita Fuera",
-      "url": "https://open.spotify.com/track/5HQ9HWg2T6ZWeQ2JeasHo0"
     },
     {
       "added_at": "2026-04-24 06:00:31",
@@ -595,8 +595,8 @@
     {
       "added_at": "2026-04-24 06:00:31",
       "album": {
-        "name": "S Cool...ito",
-        "url": "https://open.spotify.com/album/4w8BHpxUYiFrMnwlCyk6L1"
+        "name": "Se Pronostican Borracheras",
+        "url": "https://open.spotify.com/album/2d1vtKw2auTTDRKYgnDMiW"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 148760,
-      "name": "S Cool...ito",
-      "url": "https://open.spotify.com/track/5Ru0MfnGGTxpSsLLLpG4mR"
+      "duration_ms": 136302,
+      "name": "Si Tu Boquita Fuera",
+      "url": "https://open.spotify.com/track/5HQ9HWg2T6ZWeQ2JeasHo0"
     },
     {
       "added_at": "2026-04-24 06:00:31",

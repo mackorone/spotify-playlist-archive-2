@@ -45,6 +45,40 @@
     },
     {
       "album": {
+        "name": "Vaazha 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4FrW5hkwZcdlxIIfHNKxf0"
+      },
+      "artists": [
+        {
+          "name": "Rzee",
+          "url": "https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et"
+        },
+        {
+          "name": "Chinmayi Kiranlal",
+          "url": "https://open.spotify.com/artist/2i3mTDaZz7JPB07kenetXf"
+        },
+        {
+          "name": "Minya Panicker",
+          "url": "https://open.spotify.com/artist/3nQURhsYmFmJap50kBPVBH"
+        },
+        {
+          "name": "Nila Raj",
+          "url": "https://open.spotify.com/artist/4VexGwZW6B1MJZhS6g9KeT"
+        },
+        {
+          "name": "Heykarthii",
+          "url": "https://open.spotify.com/artist/63kT97v7dkMndQKpF3KUmX"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180148,
+      "name": "Ada Bommale",
+      "url": "https://open.spotify.com/track/4vq7KUT7qvqw9owOCtEyKx"
+    },
+    {
+      "album": {
         "name": "Alif",
         "url": "https://open.spotify.com/album/2OG7wgIZqAxzTiUBT4zVhU"
       },
@@ -2966,7 +3000,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 231478,
       "name": "Thani Lokah Murakkaari (From \"Lokah - Chapter 1: Chandra\")",
       "url": "https://open.spotify.com/track/7gX2JJVKndYEVApM5GRtqZ"

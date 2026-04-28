@@ -1,6 +1,6 @@
 {
   "description": "New morning mercies. \u2600\ufe0f",
-  "num_followers": 122572,
+  "num_followers": 122596,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
+        "name": "Day The Lord Has Made",
+        "url": "https://open.spotify.com/album/2TIPRkjEJij0dleJPPOFta"
+      },
+      "artists": [
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        }
+      ],
+      "duration_ms": 304800,
+      "name": "Day The Lord Has Made",
+      "url": "https://open.spotify.com/track/1CTTmuPgsgi6e0ZgOEPhel"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
         "name": "Morning Messenger",
         "url": "https://open.spotify.com/album/1S69EFkAQL6mSs0rAg8TWc"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 144000,
       "name": "Morning Messenger",
       "url": "https://open.spotify.com/track/2jPBKYZP0R7tUF1XWhwh97"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
-        "name": "Day The Lord Has Made",
-        "url": "https://open.spotify.com/album/2TIPRkjEJij0dleJPPOFta"
-      },
-      "artists": [
-        {
-          "name": "Jess Ray",
-          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
-        }
-      ],
-      "duration_ms": 304800,
-      "name": "Day The Lord Has Made",
-      "url": "https://open.spotify.com/track/1CTTmuPgsgi6e0ZgOEPhel"
     },
     {
       "added_at": "2026-04-17 07:08:56",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
-        "name": "Be Glad (Live)",
-        "url": "https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 533500,
-      "name": "Be Glad - Live",
-      "url": "https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
         "name": "Thank God I'm Free",
         "url": "https://open.spotify.com/album/5fqWCD1SxUfcvMkN7x2NN4"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 171670,
       "name": "Thank God I'm Free",
       "url": "https://open.spotify.com/track/2yolugG5vuEjiiDq7A47mE"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
+        "name": "Be Glad (Live)",
+        "url": "https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 533500,
+      "name": "Be Glad - Live",
+      "url": "https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn"
     },
     {
       "added_at": "2026-04-17 07:08:56",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
-        "name": "Good Morning (Live)",
-        "url": "https://open.spotify.com/album/35tgZxinl7ylrXq7LcgrFL"
-      },
-      "artists": [
-        {
-          "name": "William Murphy",
-          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
-        }
-      ],
-      "duration_ms": 286437,
-      "name": "Good Morning - Live",
-      "url": "https://open.spotify.com/track/6Ig52FtLA9NiOl1QmRdfdf"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 362346,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
+        "name": "Good Morning (Live)",
+        "url": "https://open.spotify.com/album/35tgZxinl7ylrXq7LcgrFL"
+      },
+      "artists": [
+        {
+          "name": "William Murphy",
+          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
+        }
+      ],
+      "duration_ms": 286437,
+      "name": "Good Morning - Live",
+      "url": "https://open.spotify.com/track/6Ig52FtLA9NiOl1QmRdfdf"
     },
     {
       "added_at": "2026-04-17 07:08:56",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
-        "name": "First Light / Last Word",
-        "url": "https://open.spotify.com/album/4PxxW2zfSOhoysKPLZMLII"
-      },
-      "artists": [
-        {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        },
-        {
-          "name": "Ben Cruse",
-          "url": "https://open.spotify.com/artist/3WOiJEhXDFffYyUDKo8isf"
-        }
-      ],
-      "duration_ms": 333367,
-      "name": "Morning Psalm (feat. Ben Cruse)",
-      "url": "https://open.spotify.com/track/3X1lam7uHad3F3sMuvFp0l"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
         "name": "Get Up: The Remixes",
         "url": "https://open.spotify.com/album/2B5gNl8mQt6LpqXTcBGsoe"
       },
@@ -1071,6 +1051,26 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
+        "name": "First Light / Last Word",
+        "url": "https://open.spotify.com/album/4PxxW2zfSOhoysKPLZMLII"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        },
+        {
+          "name": "Ben Cruse",
+          "url": "https://open.spotify.com/artist/3WOiJEhXDFffYyUDKo8isf"
+        }
+      ],
+      "duration_ms": 333367,
+      "name": "Morning Psalm (feat. Ben Cruse)",
+      "url": "https://open.spotify.com/track/3X1lam7uHad3F3sMuvFp0l"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
         "name": "Hallow",
         "url": "https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 158608,
       "name": "Hallow",
       "url": "https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
-        "name": "Good Morning",
-        "url": "https://open.spotify.com/album/40zAAE7p64axGUzonpLVc3"
-      },
-      "artists": [
-        {
-          "name": "Dillon Chase",
-          "url": "https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8"
-        }
-      ],
-      "duration_ms": 214615,
-      "name": "Good Morning",
-      "url": "https://open.spotify.com/track/6mNzOxAo1XXonb5JVrH8su"
     },
     {
       "added_at": "2026-04-17 07:08:56",
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/40zAAE7p64axGUzonpLVc3"
+      },
+      "artists": [
+        {
+          "name": "Dillon Chase",
+          "url": "https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8"
+        }
+      ],
+      "duration_ms": 214615,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/6mNzOxAo1XXonb5JVrH8su"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
         "name": "Hope Builds (Live)",
         "url": "https://open.spotify.com/album/7nqbKIBhttgx5EXg8BW5sD"
       },
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
-        "name": "Meditations",
-        "url": "https://open.spotify.com/album/7emwnr2wmTB84uXqIkMYxk"
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl"
       },
       "artists": [
         {
-          "name": "Naffymar",
-          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
         }
       ],
-      "duration_ms": 198058,
-      "name": "Power - Acoustic",
-      "url": "https://open.spotify.com/track/3XwxvufJ0ve4BdOOCJ5OEb"
+      "duration_ms": 275726,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C"
     },
     {
       "added_at": "2026-04-17 07:08:56",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl"
+        "name": "Meditations",
+        "url": "https://open.spotify.com/album/7emwnr2wmTB84uXqIkMYxk"
       },
       "artists": [
         {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
         }
       ],
-      "duration_ms": 275726,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C"
+      "duration_ms": 198058,
+      "name": "Power - Acoustic",
+      "url": "https://open.spotify.com/track/3XwxvufJ0ve4BdOOCJ5OEb"
     },
     {
       "added_at": "2026-04-17 07:08:56",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
-        "name": "Happy Again",
-        "url": "https://open.spotify.com/album/3qEVYXuGEN7eMSOBvM7vuS"
-      },
-      "artists": [
-        {
-          "name": "Adriel Cruz",
-          "url": "https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa"
-        }
-      ],
-      "duration_ms": 232887,
-      "name": "Happy Again",
-      "url": "https://open.spotify.com/track/4fYyuiKLTfzlTXMDawgCNu"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
         "name": "Seeking",
         "url": "https://open.spotify.com/album/4CR9mh2tbBq6OqCRPokdBf"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 214000,
       "name": "Seeking",
       "url": "https://open.spotify.com/track/1Od2rkHMK2AfGyZ0LgqGB8"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
+        "name": "Happy Again",
+        "url": "https://open.spotify.com/album/3qEVYXuGEN7eMSOBvM7vuS"
+      },
+      "artists": [
+        {
+          "name": "Adriel Cruz",
+          "url": "https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa"
+        }
+      ],
+      "duration_ms": 232887,
+      "name": "Happy Again",
+      "url": "https://open.spotify.com/track/4fYyuiKLTfzlTXMDawgCNu"
     }
   ],
   "unique_name": "GOoD Morning",

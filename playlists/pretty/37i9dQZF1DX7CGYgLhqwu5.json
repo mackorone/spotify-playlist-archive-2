@@ -1,6 +1,6 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 386128,
+  "num_followers": 386146,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "25 All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/5hoikUKrQZkKm8tspRhwTS"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "Send Me The Pillow You Dream On",
-      "url": "https://open.spotify.com/track/60LBZcuecM8zRwXmZm5bQs"
-    },
-    {
-      "added_at": "2026-02-17 04:47:51",
-      "album": {
         "name": "The Best Of The Best",
         "url": "https://open.spotify.com/album/6f44CyGa4zWTO5AD3NYsm8"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 149546,
       "name": "Misery Loves Company",
       "url": "https://open.spotify.com/track/1wBb03d9IaI6PHFeR438jP"
+    },
+    {
+      "added_at": "2026-02-17 04:47:51",
+      "album": {
+        "name": "25 All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/5hoikUKrQZkKm8tspRhwTS"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 173960,
+      "name": "Send Me The Pillow You Dream On",
+      "url": "https://open.spotify.com/track/60LBZcuecM8zRwXmZm5bQs"
     },
     {
       "added_at": "2026-02-17 04:47:51",

@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 102567,
+  "num_followers": 102589,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -283,18 +283,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Boogaloo Blues",
-        "url": "https://open.spotify.com/album/1ME1gBqz9bt3A0LXDQYHB4"
+        "name": "El Bestial Sonido de",
+        "url": "https://open.spotify.com/album/75SxVlMzxU5FADaYf12d6f"
       },
       "artists": [
         {
-          "name": "Johnny Colon",
-          "url": "https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm"
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+        },
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
         }
       ],
-      "duration_ms": 411680,
-      "name": "Boogaloo Blues",
-      "url": "https://open.spotify.com/track/48pCzNTXLLKneVT6Uel2oT"
+      "duration_ms": 323400,
+      "name": "Guaguanc\u00f3 Triste",
+      "url": "https://open.spotify.com/track/6S22eYfhiqVvlTYeSfZwDj"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -315,22 +319,18 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "El Bestial Sonido de",
-        "url": "https://open.spotify.com/album/75SxVlMzxU5FADaYf12d6f"
+        "name": "Boogaloo Blues",
+        "url": "https://open.spotify.com/album/1ME1gBqz9bt3A0LXDQYHB4"
       },
       "artists": [
         {
-          "name": "Bobby Cruz",
-          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
-        },
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+          "name": "Johnny Colon",
+          "url": "https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm"
         }
       ],
-      "duration_ms": 323400,
-      "name": "Guaguanc\u00f3 Triste",
-      "url": "https://open.spotify.com/track/6S22eYfhiqVvlTYeSfZwDj"
+      "duration_ms": 411680,
+      "name": "Boogaloo Blues",
+      "url": "https://open.spotify.com/track/48pCzNTXLLKneVT6Uel2oT"
     },
     {
       "added_at": "2024-07-18 20:57:58",

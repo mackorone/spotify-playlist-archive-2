@@ -15042,7 +15042,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 92109,
       "name": "COOOK PARDON",
       "url": "https://open.spotify.com/track/0P45YtqtAT6AkNDDX1lySE"
@@ -43306,7 +43306,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 462528,
       "name": "Make U Whole",
       "url": "https://open.spotify.com/track/7zsRLCjd7kxkfLw3s50hl0"
@@ -53746,7 +53746,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 200275,
       "name": "O JAK MI\u0141O",
       "url": "https://open.spotify.com/track/2Xt4PeBHH20FB2L6rOlyKd"
@@ -62584,7 +62584,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -73126,6 +73126,28 @@
     {
       "album": {
         "name": "the kill 2",
+        "url": "https://open.spotify.com/album/2bXAxRwdbZlT0mdIQlKQbn"
+      },
+      "artists": [
+        {
+          "name": "Lex Amarni",
+          "url": "https://open.spotify.com/artist/1GJLP5vEHWn08VOlzfR8ID"
+        },
+        {
+          "name": "2muchmotion",
+          "url": "https://open.spotify.com/artist/1DW3WjdUKh9hvg2bh89IVw"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121294,
+      "name": "the kill 2",
+      "url": "https://open.spotify.com/track/7MZyREIMPkgc7v5vzCGw87"
+    },
+    {
+      "album": {
+        "name": "the kill 2",
         "url": "https://open.spotify.com/album/7JlIZDHuFle3OVOiUaJF1U"
       },
       "artists": [
@@ -76317,6 +76339,28 @@
     },
     {
       "album": {
+        "name": "CHAOS",
+        "url": "https://open.spotify.com/album/3rON7Zgt7NCkwfpNHZV5Of"
+      },
+      "artists": [
+        {
+          "name": "ACE628",
+          "url": "https://open.spotify.com/artist/6PjBkilcBAc2yFovNztf36"
+        },
+        {
+          "name": "GIO628",
+          "url": "https://open.spotify.com/artist/0ao3jMj9OSyEK7D2Ii22ZX"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155207,
+      "name": "TY A J\u00c1",
+      "url": "https://open.spotify.com/track/2YQPHbNh76cG6E56usfk8Y"
+    },
+    {
+      "album": {
         "name": "Impostor syndrom",
         "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
       },
@@ -77680,10 +77724,28 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 195599,
       "name": "VALHALLA CALLING",
       "url": "https://open.spotify.com/track/0fMXHtOEGKJvMJiivwNqnx"
+    },
+    {
+      "album": {
+        "name": "VALHALLA CALLING",
+        "url": "https://open.spotify.com/album/7gRHT3FXod8KFhVacBnAzs"
+      },
+      "artists": [
+        {
+          "name": "Ragal Ironbull",
+          "url": "https://open.spotify.com/artist/3vDYGs9p4Y6GpfvxJDDhjx"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195605,
+      "name": "VALHALLA CALLING",
+      "url": "https://open.spotify.com/track/1m0jhovzoAyjsPZR9mty6R"
     },
     {
       "album": {

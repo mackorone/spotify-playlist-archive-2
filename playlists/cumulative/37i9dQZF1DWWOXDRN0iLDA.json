@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Moment Unfolding",
+        "url": "https://open.spotify.com/album/1oS4qfCYLICUnxL45BQo7E"
+      },
+      "artists": [
+        {
+          "name": "Eternal Meadows",
+          "url": "https://open.spotify.com/artist/0ADZFr36OypozKmbt7y0Bm"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "A Moment Unfolding (Morning Birdsong)",
+      "url": "https://open.spotify.com/track/73HOdre5zEzjrFcgow08uD"
+    },
+    {
+      "album": {
         "name": "A Moments Rest",
         "url": "https://open.spotify.com/album/0vakLKm6vIai7276TJhWFB"
       },
@@ -839,6 +857,24 @@
     },
     {
       "album": {
+        "name": "Restless Wind",
+        "url": "https://open.spotify.com/album/0F0Gv0WN6hWLAUkT3IUqLw"
+      },
+      "artists": [
+        {
+          "name": "Sorth",
+          "url": "https://open.spotify.com/artist/5r7HLWLaJMF1MsqUVWveyG"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133978,
+      "name": "Restless Wind",
+      "url": "https://open.spotify.com/track/6pNCTiTI01RrRR0VysqbAm"
+    },
+    {
+      "album": {
         "name": "Searching",
         "url": "https://open.spotify.com/album/4hRsLzpykyNTN2HhzpjSqZ"
       },
@@ -998,6 +1034,24 @@
       "duration_ms": 161000,
       "name": "Sparkles Between Trees",
       "url": "https://open.spotify.com/track/1KivTompzOiBdFec5jkS8E"
+    },
+    {
+      "album": {
+        "name": "What We Lost",
+        "url": "https://open.spotify.com/album/4OucqQdIyWceXDGLiMRNbK"
+      },
+      "artists": [
+        {
+          "name": "Hanan Townshend",
+          "url": "https://open.spotify.com/artist/4G8H1peJnT7swm4Ygtm80F"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437773,
+      "name": "The Birds",
+      "url": "https://open.spotify.com/track/3yJmL9I3nGSvx2wdFOQdIH"
     },
     {
       "album": {

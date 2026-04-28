@@ -657,6 +657,36 @@
     },
     {
       "album": {
+        "name": "Neighborhood (with Krayzie Bone & Prof)",
+        "url": "https://open.spotify.com/album/1FKJMAtB80EITlI5kxD9Y1"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        },
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Krayzie Bone",
+          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227137,
+      "name": "Neighborhood (with Krayzie Bone & Prof)",
+      "url": "https://open.spotify.com/track/0c8evdQNBWPtimiOrk15zB"
+    },
+    {
+      "album": {
         "name": "All The Colors",
         "url": "https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG"
       },
@@ -676,7 +706,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 227137,
       "name": "Neighborhood (with Krayzie Bone & Prof)",
       "url": "https://open.spotify.com/track/6cLk7MbP2eN80S0wbwbyl6"

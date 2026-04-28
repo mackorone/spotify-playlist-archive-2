@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 762 likes - 98 songs - 5 hr 28 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 771 likes - 104 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,5 +106,11 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 96 | [Libero](https://open.spotify.com/track/5hF1NTbssOdxNlq1gff94O) | [HIRUNDO](https://open.spotify.com/artist/07ZBrNvM8jzpBrKNV7F5jk) | [Libero](https://open.spotify.com/album/2Td6GhaGd2bLCjtPwgeJdj) | 2:57 |
 | 97 | [Meta](https://open.spotify.com/track/6bkUhClIp0aid5XGt3dA1e) | [HIRUNDO](https://open.spotify.com/artist/07ZBrNvM8jzpBrKNV7F5jk) | [Meta](https://open.spotify.com/album/5NkecLhbahD5w3xgFxYoH1) | 3:24 |
 | 98 | [What we doin?](https://open.spotify.com/track/4ZyOh1Evg8rRy5Y95HXUeG) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [What we doin?](https://open.spotify.com/album/6fESAUJA3sxTjbWnwoV79U) | 2:58 |
+| 99 | [WITHOUT A RUSH](https://open.spotify.com/track/5wERfkI6PVJx5TNLBHD9Gj) | [Twmmy](https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx) | [WITHOUT A RUSH](https://open.spotify.com/album/3mlm8T34g8ulynQ4JPbnok) | 4:24 |
+| 100 | [Maldito cobarde](https://open.spotify.com/track/1hc8sKJdvP6GfUv6dzwjN3) | [mediopelo](https://open.spotify.com/artist/0mbImR0KgeaYtvPoc7z6CU) | [Maldito cobarde](https://open.spotify.com/album/2pUYGwXDJtwaytUQhLJlUt) | 2:59 |
+| 101 | [Bed Made of Roses](https://open.spotify.com/track/2ScYDedLsFpnA5iTkzQGKP) | [Hellblazers](https://open.spotify.com/artist/0m5GEfgKoEyMG9FelU8Sdz) | [Welcome to the Devil's Room](https://open.spotify.com/album/7lv9XUyMSaGRBwT52oKaB5) | 2:20 |
+| 102 | [Too Late](https://open.spotify.com/track/5by8eIqSVBvlm9wMREqkFt) | [EMORY](https://open.spotify.com/artist/39EhSFtTCtf9fmvPiMTLan) | [Too Late](https://open.spotify.com/album/471rQ6QPYTNL74IcX8DkB5) | 2:35 |
+| 103 | [Enséñame](https://open.spotify.com/track/4FKBpzuDfY5W38nU1R9nAz) | [Kirke](https://open.spotify.com/artist/2DqLLxyfyxRUodLixvd306) | [Enséñame](https://open.spotify.com/album/2ZRX2YE4E5qB4q6fvrKTB9) | 3:27 |
+| 104 | [Heir To The Throne](https://open.spotify.com/track/3A0cKdejEnyr8wojgntQVH) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Heir To The Throne](https://open.spotify.com/album/3NekfNDmU7iDJbPqM5PzFB) | 4:09 |
 
-Snapshot ID: `AAADjlj6dkquZGJ9FJfQVAINztjPhusI`
+Snapshot ID: `AAADlDL33cWmRDgbHJw0BUKilxREtp6n`

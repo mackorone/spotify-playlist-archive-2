@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZuoVzKqkEZ.md) - [plain]
 
 > Get ready for the upcoming concert by listening to the artist's best songs! \(아티스트의 베스트곡을 들으며 다가오는 콘서트를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 193 likes - 20 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 197 likes - 20 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZuoVzKqkEZ.md) - [plain]
 | 19 | [Echoes of Glow](https://open.spotify.com/track/09NDAiR6hZgjefQORinXqI) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [YEOK SEONG](https://open.spotify.com/album/02SKwqYSENWwsZIZ9epjES) | 4:15 |
 | 20 | [An Ode to the Unseen Hearts](https://open.spotify.com/track/3riITfrltgSsMmNXWVeEfR) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [YEOK SEONG](https://open.spotify.com/album/02SKwqYSENWwsZIZ9epjES) | 6:16 |
 
-Snapshot ID: `AAAAAFeeuVFIGPqcoGU/josvC/0HrhVO`
+Snapshot ID: `AAAAAENrm4INE5Vg3ouDEb3F/fYd8I/x`

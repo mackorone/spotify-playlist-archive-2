@@ -1,36 +1,44 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Vaazha 2",
-  "num_followers": 659754,
+  "num_followers": 660428,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADop86tJAOMhREAslSSFUBjAniQd",
+  "snapshot_id": "AAAAAIqXPReXfA+yerlyF1U/IUTE9jdg",
   "tracks": [
     {
-      "added_at": "2026-04-13 07:23:30",
+      "added_at": "2026-04-27 08:02:00",
       "album": {
         "name": "Vaazha 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4FrW5hkwZcdlxIIfHNKxf0"
       },
       "artists": [
         {
-          "name": "Arcado",
-          "url": "https://open.spotify.com/artist/5zmWaSsrRerKIj3Fk8nGlq"
+          "name": "Rzee",
+          "url": "https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et"
         },
         {
-          "name": "Maalavika Sundar",
-          "url": "https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP"
+          "name": "Chinmayi Kiranlal",
+          "url": "https://open.spotify.com/artist/2i3mTDaZz7JPB07kenetXf"
         },
         {
-          "name": "Shabareesh Varma",
-          "url": "https://open.spotify.com/artist/7hSF5IJpSsH6PVSrqJfqki"
+          "name": "Minya Panicker",
+          "url": "https://open.spotify.com/artist/3nQURhsYmFmJap50kBPVBH"
+        },
+        {
+          "name": "Nila Raj",
+          "url": "https://open.spotify.com/artist/4VexGwZW6B1MJZhS6g9KeT"
+        },
+        {
+          "name": "Heykarthii",
+          "url": "https://open.spotify.com/artist/63kT97v7dkMndQKpF3KUmX"
         }
       ],
-      "duration_ms": 278750,
-      "name": "Thooki",
-      "url": "https://open.spotify.com/track/53Zl4vhN9gqxdF7NQ2zOzf"
+      "duration_ms": 180148,
+      "name": "Ada Bommale",
+      "url": "https://open.spotify.com/track/4vq7KUT7qvqw9owOCtEyKx"
     },
     {
       "added_at": "2026-04-13 10:22:55",
@@ -131,6 +139,30 @@
       "duration_ms": 247272,
       "name": "ZILL",
       "url": "https://open.spotify.com/track/12wlJpuAbgMv0OaYmY3r5x"
+    },
+    {
+      "added_at": "2026-04-13 07:23:30",
+      "album": {
+        "name": "Vaazha 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4FrW5hkwZcdlxIIfHNKxf0"
+      },
+      "artists": [
+        {
+          "name": "Arcado",
+          "url": "https://open.spotify.com/artist/5zmWaSsrRerKIj3Fk8nGlq"
+        },
+        {
+          "name": "Maalavika Sundar",
+          "url": "https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP"
+        },
+        {
+          "name": "Shabareesh Varma",
+          "url": "https://open.spotify.com/artist/7hSF5IJpSsH6PVSrqJfqki"
+        }
+      ],
+      "duration_ms": 278750,
+      "name": "Thooki",
+      "url": "https://open.spotify.com/track/53Zl4vhN9gqxdF7NQ2zOzf"
     },
     {
       "added_at": "2026-02-24 18:24:10",
@@ -823,34 +855,6 @@
       "duration_ms": 184800,
       "name": "Onam Mood (From \"Sahasam\")",
       "url": "https://open.spotify.com/track/3ayM2UERJjqknotVSPgJ0S"
-    },
-    {
-      "added_at": "2025-09-15 05:59:23",
-      "album": {
-        "name": "Thani Lokah Murakkaari (From \"Lokah - Chapter 1: Chandra\")",
-        "url": "https://open.spotify.com/album/3MqNFtmEnrwzmen3K91TsI"
-      },
-      "artists": [
-        {
-          "name": "Jakes Bejoy",
-          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
-        },
-        {
-          "name": "Jyoti Nooran",
-          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
-        },
-        {
-          "name": "Reble",
-          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
-        },
-        {
-          "name": "Mu.Ri",
-          "url": "https://open.spotify.com/artist/6XaKvCWc54LHjReFGiQBDm"
-        }
-      ],
-      "duration_ms": 231478,
-      "name": "Thani Lokah Murakkaari (From \"Lokah - Chapter 1: Chandra\")",
-      "url": "https://open.spotify.com/track/7gX2JJVKndYEVApM5GRtqZ"
     },
     {
       "added_at": "2025-09-10 12:45:54",

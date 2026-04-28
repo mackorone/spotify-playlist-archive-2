@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udd00 Hit shuffle &amp; meet new artists &amp; pop rock song. \u271a Each track also joins tailored playlists.  By @faceless.diversum \ud83d\udcf8 Insta. Follow, save &amp; share ! Submit here : ",
-  "num_followers": 1637,
+  "num_followers": 1635,
   "original_name": "Pop Rock | \u2260 ",
   "owner": {
     "name": "DIVERSUM WORLD",
     "url": "https://open.spotify.com/user/1163990293"
   },
-  "snapshot_id": "AAACgM0pnHSjQTUfX6pHWEq9f6yWxyD+",
+  "snapshot_id": "AAACgifocHao4ewcpXwDnsUg7zA6wUx4",
   "tracks": [
     {
       "added_at": "2025-09-24 22:16:32",
@@ -755,6 +755,38 @@
       "duration_ms": 262000,
       "name": "Higher than fear",
       "url": "https://open.spotify.com/track/1CQJ3Bt4XV8KnZqw86KX0N"
+    },
+    {
+      "added_at": "2026-04-27 18:14:52",
+      "album": {
+        "name": "Monday",
+        "url": "https://open.spotify.com/album/6SOqP4LGqlTb6wrmQf3b1r"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Vautour",
+          "url": "https://open.spotify.com/artist/6Xj8ajA4mlXygB3zzzUhyJ"
+        }
+      ],
+      "duration_ms": 275258,
+      "name": "Monday",
+      "url": "https://open.spotify.com/track/5ziIMaFf792wZZq6KEy9JL"
+    },
+    {
+      "added_at": "2026-04-27 18:28:14",
+      "album": {
+        "name": "Bilder i mitt hode",
+        "url": "https://open.spotify.com/album/0hydPfH9Vk7RSwauEMYYpX"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn-Ivar Davidsen",
+          "url": "https://open.spotify.com/artist/0hAIC7oOoD5Z3OTP8x7OS9"
+        }
+      ],
+      "duration_ms": 219373,
+      "name": "Her inne er det varmt",
+      "url": "https://open.spotify.com/track/1V90d44Q6zjSn5EhbJdT1O"
     }
   ],
   "unique_name": "Pop Rock | \u2260 ",

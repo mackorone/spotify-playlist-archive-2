@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto:CADU",
-  "num_followers": 54249,
+  "num_followers": 54254,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -428,12 +428,12 @@
           "url": "https://open.spotify.com/artist/7ylnIZOT3I0EdTMcWVTLud"
         },
         {
-          "name": "Horrid Mx",
-          "url": "https://open.spotify.com/artist/4cCrZCtMwCzFFvEXfHf1AK"
-        },
-        {
           "name": "XROOTZ",
           "url": "https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb"
+        },
+        {
+          "name": "Horrid Mx",
+          "url": "https://open.spotify.com/artist/4cCrZCtMwCzFFvEXfHf1AK"
         }
       ],
       "duration_ms": 222315,
@@ -627,26 +627,6 @@
     {
       "added_at": "2026-04-23 23:00:53",
       "album": {
-        "name": "FIM DA NOITE",
-        "url": "https://open.spotify.com/album/3CqyVBp2IjCB9ZbhqPv4a1"
-      },
-      "artists": [
-        {
-          "name": "Kappa Jotta",
-          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
-        },
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        }
-      ],
-      "duration_ms": 214065,
-      "name": "FIM DA NOITE",
-      "url": "https://open.spotify.com/track/31pd4crQES4hOaWHGIpzXI"
-    },
-    {
-      "added_at": "2026-04-23 23:00:53",
-      "album": {
         "name": "Chakras",
         "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 196384,
       "name": "Chakras",
       "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
+    },
+    {
+      "added_at": "2026-04-23 23:00:53",
+      "album": {
+        "name": "FIM DA NOITE",
+        "url": "https://open.spotify.com/album/3CqyVBp2IjCB9ZbhqPv4a1"
+      },
+      "artists": [
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        },
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "duration_ms": 214065,
+      "name": "FIM DA NOITE",
+      "url": "https://open.spotify.com/track/31pd4crQES4hOaWHGIpzXI"
     },
     {
       "added_at": "2026-04-23 23:00:53",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-04-23 23:00:53",
       "album": {
-        "name": "MDID",
-        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        }
-      ],
-      "duration_ms": 135160,
-      "name": "CABARET",
-      "url": "https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i"
-    },
-    {
-      "added_at": "2026-04-23 23:00:53",
-      "album": {
         "name": "Dama & Vagabundo",
         "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 313825,
       "name": "Dama & Vagabundo",
       "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
+    },
+    {
+      "added_at": "2026-04-23 23:00:53",
+      "album": {
+        "name": "MDID",
+        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "duration_ms": 135160,
+      "name": "CABARET",
+      "url": "https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i"
     },
     {
       "added_at": "2026-04-23 23:00:53",
@@ -891,30 +891,6 @@
     {
       "added_at": "2026-04-23 23:00:53",
       "album": {
-        "name": "Aguarela",
-        "url": "https://open.spotify.com/album/3xn6NxoK4rdQRyWndt4ylL"
-      },
-      "artists": [
-        {
-          "name": "Myles 6ix",
-          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
-        },
-        {
-          "name": "Teetwo",
-          "url": "https://open.spotify.com/artist/5VJa8cNehs0vBfqAEd92ar"
-        },
-        {
-          "name": "TeniTeach",
-          "url": "https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE"
-        }
-      ],
-      "duration_ms": 196912,
-      "name": "Aguarela",
-      "url": "https://open.spotify.com/track/7d0P02kHN2V2dD4LRFqF2S"
-    },
-    {
-      "added_at": "2026-04-23 23:00:53",
-      "album": {
         "name": "FIM DO NADA DELUXE",
         "url": "https://open.spotify.com/album/4IV29ZB0IT2qKAnbFze2KO"
       },
@@ -935,6 +911,30 @@
       "duration_ms": 240000,
       "name": "Fora do Normal (feat. Nenny & Chelsea Dinorath)",
       "url": "https://open.spotify.com/track/5l5yIu3BV9JFcS7lBDJGIU"
+    },
+    {
+      "added_at": "2026-04-23 23:00:53",
+      "album": {
+        "name": "Aguarela",
+        "url": "https://open.spotify.com/album/3xn6NxoK4rdQRyWndt4ylL"
+      },
+      "artists": [
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        },
+        {
+          "name": "Teetwo",
+          "url": "https://open.spotify.com/artist/5VJa8cNehs0vBfqAEd92ar"
+        },
+        {
+          "name": "TeniTeach",
+          "url": "https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE"
+        }
+      ],
+      "duration_ms": 196912,
+      "name": "Aguarela",
+      "url": "https://open.spotify.com/track/7d0P02kHN2V2dD4LRFqF2S"
     },
     {
       "added_at": "2026-04-23 23:00:53",
@@ -992,12 +992,12 @@
           "url": "https://open.spotify.com/artist/7ylnIZOT3I0EdTMcWVTLud"
         },
         {
-          "name": "Rafaell Dior",
-          "url": "https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla"
-        },
-        {
           "name": "XROOTZ",
           "url": "https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb"
+        },
+        {
+          "name": "Rafaell Dior",
+          "url": "https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla"
         }
       ],
       "duration_ms": 155044,
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2026-04-23 23:00:53",
       "album": {
-        "name": "Nossa Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/4ly1joTaalQ5wAP0rbwmPT"
-      },
-      "artists": [
-        {
-          "name": "Waze",
-          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
-        },
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 253085,
-      "name": "Nossa Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/7fTEgp9TRGwEPVgfCLVjSb"
-    },
-    {
-      "added_at": "2026-04-23 23:00:53",
-      "album": {
         "name": "Perfume (Ao Vivo)",
         "url": "https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 174428,
       "name": "Perfume - Ao Vivo",
       "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
+    },
+    {
+      "added_at": "2026-04-23 23:00:53",
+      "album": {
+        "name": "Nossa Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/4ly1joTaalQ5wAP0rbwmPT"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        },
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 253085,
+      "name": "Nossa Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/7fTEgp9TRGwEPVgfCLVjSb"
     },
     {
       "added_at": "2026-04-23 23:00:53",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-04-23 23:00:53",
       "album": {
-        "name": "Chama",
-        "url": "https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7"
-      },
-      "artists": [
-        {
-          "name": "CADU",
-          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
-        }
-      ],
-      "duration_ms": 153029,
-      "name": "Chama",
-      "url": "https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ"
-    },
-    {
-      "added_at": "2026-04-23 23:00:53",
-      "album": {
         "name": "Barco",
         "url": "https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 216556,
       "name": "Barco",
       "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
+    },
+    {
+      "added_at": "2026-04-23 23:00:53",
+      "album": {
+        "name": "Chama",
+        "url": "https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7"
+      },
+      "artists": [
+        {
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        }
+      ],
+      "duration_ms": 153029,
+      "name": "Chama",
+      "url": "https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ"
     },
     {
       "added_at": "2026-04-23 23:00:53",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2026-04-23 23:00:53",
       "album": {
-        "name": "Pequenos Gigantes",
-        "url": "https://open.spotify.com/album/4LtlaMrX1rb0KkAir2DUH3"
+        "name": "Amanheceu",
+        "url": "https://open.spotify.com/album/2esz1lg35mDAU8SrNlxrGr"
       },
       "artists": [
         {
-          "name": "Satiro",
-          "url": "https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM"
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Quem Tem O Teu <3",
-      "url": "https://open.spotify.com/track/43ncSBC0ZlkmPJqB8nfoZP"
+      "duration_ms": 161421,
+      "name": "Semana",
+      "url": "https://open.spotify.com/track/7LpBGg0rRw0TqQNhPN31Zc"
     }
   ],
   "unique_name": "Seda",

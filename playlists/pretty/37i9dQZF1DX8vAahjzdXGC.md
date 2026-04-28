@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Raim Laode,  Dipha Barus, Hindia, Keisya Levronka, CORTIS, Madonna dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,185 likes - 106 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,227 likes - 106 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 62 | [Nummer Eins](https://open.spotify.com/track/0luWd8pHj7q6PiwLCyMykf) | [Antoine Villoutreix](https://open.spotify.com/artist/1LeuN4Zsd04HulaBIIRYVb), [Sandhy Sondoro](https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu) | [Nummer Eins](https://open.spotify.com/album/5nuLpQxkdt6ZR3QPeJVgnn) | 3:00 |
 | 63 | [Dalila](https://open.spotify.com/track/5wyJTI9wtRimY67B0Nw5JN) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn) | [Dalila](https://open.spotify.com/album/0VFH7NwO1eguK4lj4L7QLn) | 3:53 |
 | 64 | [Mangoes](https://open.spotify.com/track/5vgYp3XPGGXk37i6qymmoR) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [Mangoes](https://open.spotify.com/album/28fXB4mhhQPVH3SGmAiLks) | 3:16 |
-| 65 | [Firasat, firasat](https://open.spotify.com/track/3wC1IzAsZ2oU3cBmWvoapV) | [Pertunjukan](https://open.spotify.com/artist/3LCVPJDhAuLXDGiNCb6Km4) | [Firasat, firasat](https://open.spotify.com/album/4WfuSM1TGebLfhHSIiCNyw) | 3:32 |
+| 65 | [Firasat, firasat](https://open.spotify.com/track/3wC1IzAsZ2oU3cBmWvoapV) | [Pertunjukan](https://open.spotify.com/artist/3LCVPJDhAuLXDGiNCb6Km4) | [Firasat, firasat](https://open.spotify.com/album/4WfuSM1TGebLfhHSIiCNyw) | 3:35 |
 | 66 | [Salah Kostum](https://open.spotify.com/track/64JQLPpK276q0f7pvfw8L5) | [Kathleen Ivanka](https://open.spotify.com/artist/5ExQXrBc4BWeoYrLDwKskF) | [Salah Kostum](https://open.spotify.com/album/7h22KAx3YKmdta47HYp9VU) | 4:44 |
 | 67 | [Pilihan](https://open.spotify.com/track/7napr066CJ0DxBZw4qCVtW) | [Tenri Abeng](https://open.spotify.com/artist/1wCBn39k2epiBOZs59KBCa) | [Pilihan](https://open.spotify.com/album/13BPd1cC8GZ0Q9ygOmVbQX) | 3:08 |
 | 68 | [Mantra Akar Kamboja](https://open.spotify.com/track/0ZOcLrOmP9oTgFLRDkuTAC) | [Yoko City Ghost](https://open.spotify.com/artist/6cD8bO5ylH8FlE3IGqDXfQ), [Tengku Ryo](https://open.spotify.com/artist/0V8sXvcJJAiE7dfgNwC7ke) | [Mantra Akar Kamboja](https://open.spotify.com/album/5yDEM5kPULRoJQBDUAooVo) | 4:48 |

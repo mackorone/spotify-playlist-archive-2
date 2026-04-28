@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "A Song For My Cat",
+        "url": "https://open.spotify.com/album/6w94sC2P9fIZ2fKbsz2BNb"
+      },
+      "artists": [
+        {
+          "name": "Aden",
+          "url": "https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "A Song For My Cat",
+      "url": "https://open.spotify.com/track/3UbERtoQkWDDe0LmTMy4Dp"
+    },
+    {
+      "album": {
         "name": "a song i like to sing",
         "url": "https://open.spotify.com/album/4rnDUUhsDdMgFFoeg5DrqT"
       },
@@ -3652,6 +3670,28 @@
       "duration_ms": 152204,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/5RB1G4jUB7sYCNsbRrRwJ5"
+    },
+    {
+      "album": {
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/5OZoXuYHdTbutzShXhsx5l"
+      },
+      "artists": [
+        {
+          "name": "He_eul",
+          "url": "https://open.spotify.com/artist/2wx6J4aRNCIg3294RBPLor"
+        },
+        {
+          "name": "Yeonwoo",
+          "url": "https://open.spotify.com/artist/1JhDrFaGBo6baiMOQ67guq"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179464,
+      "name": "Comma",
+      "url": "https://open.spotify.com/track/3gBs86VssqBzMq0QuAZEx1"
     },
     {
       "album": {
@@ -7766,7 +7806,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 227024,
       "name": "GOM",
       "url": "https://open.spotify.com/track/6vwYtXrVDgYHsAfqbpqt44"
@@ -8586,7 +8626,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 211581,
       "name": "HELP!",
       "url": "https://open.spotify.com/track/5pKnUr9JRnNU49YvKWqNDU"
@@ -20623,6 +20663,28 @@
     },
     {
       "album": {
+        "name": "The spring you never knew (with Yoojongkwon)",
+        "url": "https://open.spotify.com/album/0UJMPu7e4Kcepqp2KbecsS"
+      },
+      "artists": [
+        {
+          "name": "saevom",
+          "url": "https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca"
+        },
+        {
+          "name": "Yoo Jongkwon",
+          "url": "https://open.spotify.com/artist/4V8HlSuob367QsmOg11mfj"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213510,
+      "name": "The spring you never knew (with Yoojongkwon)",
+      "url": "https://open.spotify.com/track/6l8TVn5TPpQmIWJgIOrmQk"
+    },
+    {
+      "album": {
         "name": "theme park",
         "url": "https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i"
       },
@@ -21150,7 +21212,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 249382,
       "name": "Today, Today",
       "url": "https://open.spotify.com/track/2HOHvjZiZRInQXcy1SXkHD"

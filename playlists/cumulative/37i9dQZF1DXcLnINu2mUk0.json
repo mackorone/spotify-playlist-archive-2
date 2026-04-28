@@ -11474,12 +11474,12 @@
           "url": "https://open.spotify.com/artist/7ylnIZOT3I0EdTMcWVTLud"
         },
         {
-          "name": "Rafaell Dior",
-          "url": "https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla"
-        },
-        {
           "name": "XROOTZ",
           "url": "https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb"
+        },
+        {
+          "name": "Rafaell Dior",
+          "url": "https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla"
         }
       ],
       "date_added": "2026-03-06",
@@ -12868,7 +12868,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 164000,
       "name": "Quem Tem O Teu <3",
       "url": "https://open.spotify.com/track/43ncSBC0ZlkmPJqB8nfoZP"
@@ -14220,7 +14220,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 161421,
       "name": "Semana",
       "url": "https://open.spotify.com/track/7LpBGg0rRw0TqQNhPN31Zc"
@@ -15092,12 +15092,12 @@
           "url": "https://open.spotify.com/artist/7ylnIZOT3I0EdTMcWVTLud"
         },
         {
-          "name": "Horrid Mx",
-          "url": "https://open.spotify.com/artist/4cCrZCtMwCzFFvEXfHf1AK"
-        },
-        {
           "name": "XROOTZ",
           "url": "https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb"
+        },
+        {
+          "name": "Horrid Mx",
+          "url": "https://open.spotify.com/artist/4cCrZCtMwCzFFvEXfHf1AK"
         }
       ],
       "date_added": "2026-04-09",

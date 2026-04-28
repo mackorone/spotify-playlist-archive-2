@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alex Fern\u00e1ndez \ud83d\udcf8",
-  "num_followers": 367523,
+  "num_followers": 367528,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2026-04-24 06:00:58",
       "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i"
+      },
+      "artists": [
+        {
+          "name": "Marco Torres",
+          "url": "https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H"
+        }
+      ],
+      "duration_ms": 184167,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
+    },
+    {
+      "added_at": "2026-04-24 06:00:58",
+      "album": {
         "name": "Monumental (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
         "url": "https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 274696,
       "name": "Si No Piensas Cambiar - En Vivo Desde la Plaza de Toros la M\u00e9xico",
       "url": "https://open.spotify.com/track/3S2Ir1eoUXtNXtrlk0pgkp"
-    },
-    {
-      "added_at": "2026-04-24 06:00:58",
-      "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i"
-      },
-      "artists": [
-        {
-          "name": "Marco Torres",
-          "url": "https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H"
-        }
-      ],
-      "duration_ms": 184167,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
     },
     {
       "added_at": "2026-04-24 06:00:58",
@@ -491,18 +491,18 @@
     {
       "added_at": "2026-04-24 06:00:58",
       "album": {
-        "name": "El Hombre Que Yo Amo",
-        "url": "https://open.spotify.com/album/4ArEpA1Bc0YsOi4Z9buUaF"
+        "name": "MIL RAZONES",
+        "url": "https://open.spotify.com/album/6iYxOAcJG12yCBuNrNY27x"
       },
       "artists": [
         {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
         }
       ],
-      "duration_ms": 235338,
-      "name": "El Hombre Que Yo Amo",
-      "url": "https://open.spotify.com/track/1RNvvxEefsU6PmBJDVcT4I"
+      "duration_ms": 176597,
+      "name": "MIL RAZONES",
+      "url": "https://open.spotify.com/track/2Wa2x4jWNGIyWWSc1vg0oa"
     },
     {
       "added_at": "2026-04-24 06:00:58",
@@ -523,18 +523,18 @@
     {
       "added_at": "2026-04-24 06:00:58",
       "album": {
-        "name": "MIL RAZONES",
-        "url": "https://open.spotify.com/album/6iYxOAcJG12yCBuNrNY27x"
+        "name": "El Hombre Que Yo Amo",
+        "url": "https://open.spotify.com/album/4ArEpA1Bc0YsOi4Z9buUaF"
       },
       "artists": [
         {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
         }
       ],
-      "duration_ms": 176597,
-      "name": "MIL RAZONES",
-      "url": "https://open.spotify.com/track/2Wa2x4jWNGIyWWSc1vg0oa"
+      "duration_ms": 235338,
+      "name": "El Hombre Que Yo Amo",
+      "url": "https://open.spotify.com/track/1RNvvxEefsU6PmBJDVcT4I"
     },
     {
       "added_at": "2026-04-24 06:00:58",
@@ -551,6 +551,22 @@
       "duration_ms": 230802,
       "name": "100 Horas",
       "url": "https://open.spotify.com/track/4H6mswx8rA37krmNa0Q6JD"
+    },
+    {
+      "added_at": "2026-04-24 06:00:58",
+      "album": {
+        "name": "No soy para ti",
+        "url": "https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT"
+      },
+      "artists": [
+        {
+          "name": "Ivanna",
+          "url": "https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4"
+        }
+      ],
+      "duration_ms": 124785,
+      "name": "No soy para ti",
+      "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
     },
     {
       "added_at": "2026-04-24 06:00:58",
@@ -575,38 +591,6 @@
     {
       "added_at": "2026-04-24 06:00:58",
       "album": {
-        "name": "Caballero",
-        "url": "https://open.spotify.com/album/0uMwiQiHNtJcaofBMEobOj"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Internacional CHG De Gamaliel Contreras Huerta",
-          "url": "https://open.spotify.com/artist/4Z0ZWO0lp2z7HqhAs9kVSw"
-        }
-      ],
-      "duration_ms": 227338,
-      "name": "Caballero",
-      "url": "https://open.spotify.com/track/5Y5ruNeWwtOxIIPN9x2GAt"
-    },
-    {
-      "added_at": "2026-04-24 06:00:58",
-      "album": {
-        "name": "No soy para ti",
-        "url": "https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT"
-      },
-      "artists": [
-        {
-          "name": "Ivanna",
-          "url": "https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4"
-        }
-      ],
-      "duration_ms": 124785,
-      "name": "No soy para ti",
-      "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
-    },
-    {
-      "added_at": "2026-04-24 06:00:58",
-      "album": {
         "name": "La Nostalgia",
         "url": "https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 149569,
       "name": "\u2060Cuatro Caminos",
       "url": "https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp"
+    },
+    {
+      "added_at": "2026-04-24 06:00:58",
+      "album": {
+        "name": "Caballero",
+        "url": "https://open.spotify.com/album/0uMwiQiHNtJcaofBMEobOj"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Internacional CHG De Gamaliel Contreras Huerta",
+          "url": "https://open.spotify.com/artist/4Z0ZWO0lp2z7HqhAs9kVSw"
+        }
+      ],
+      "duration_ms": 227338,
+      "name": "Caballero",
+      "url": "https://open.spotify.com/track/5Y5ruNeWwtOxIIPN9x2GAt"
     },
     {
       "added_at": "2026-04-24 06:00:58",
@@ -675,22 +675,22 @@
     {
       "added_at": "2026-04-24 06:00:58",
       "album": {
-        "name": "Cuando Llegue el D\u00eda",
-        "url": "https://open.spotify.com/album/2J5YCv5iMrMXc9R47o92HC"
+        "name": "Diente De Le\u00f3n",
+        "url": "https://open.spotify.com/album/6tF3e4s4jH2JH2HYyoPexo"
       },
       "artists": [
         {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+          "name": "Rosal\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
         },
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Mariachi Romanza de Rodrigo Rodriguez",
+          "url": "https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL"
         }
       ],
-      "duration_ms": 238200,
-      "name": "Cuando Llegue el D\u00eda",
-      "url": "https://open.spotify.com/track/5O60WjoCD5egvktd0FK283"
+      "duration_ms": 219175,
+      "name": "Diente De Le\u00f3n",
+      "url": "https://open.spotify.com/track/0QnAR0S70keqrIMvfKBjzF"
     },
     {
       "added_at": "2026-04-24 06:00:58",
@@ -711,22 +711,22 @@
     {
       "added_at": "2026-04-24 06:00:58",
       "album": {
-        "name": "Diente De Le\u00f3n",
-        "url": "https://open.spotify.com/album/6tF3e4s4jH2JH2HYyoPexo"
+        "name": "Cuando Llegue el D\u00eda",
+        "url": "https://open.spotify.com/album/2J5YCv5iMrMXc9R47o92HC"
       },
       "artists": [
         {
-          "name": "Rosal\u00eda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
         },
         {
-          "name": "Mariachi Romanza de Rodrigo Rodriguez",
-          "url": "https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL"
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 219175,
-      "name": "Diente De Le\u00f3n",
-      "url": "https://open.spotify.com/track/0QnAR0S70keqrIMvfKBjzF"
+      "duration_ms": 238200,
+      "name": "Cuando Llegue el D\u00eda",
+      "url": "https://open.spotify.com/track/5O60WjoCD5egvktd0FK283"
     },
     {
       "added_at": "2026-04-24 06:00:58",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-04-24 06:00:58",
       "album": {
-        "name": "El Hielo Est\u00e1 Quemando",
-        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 189884,
-      "name": "El Hielo Est\u00e1 Quemando",
-      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
-    },
-    {
-      "added_at": "2026-04-24 06:00:58",
-      "album": {
         "name": "As\u00ed Son Las Cosas",
         "url": "https://open.spotify.com/album/3lKiOwzv44vFdJgkKLKRCv"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 171529,
       "name": "As\u00ed Son Las Cosas",
       "url": "https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm"
+    },
+    {
+      "added_at": "2026-04-24 06:00:58",
+      "album": {
+        "name": "Esa Perra Ya Me Mordi\u00f3",
+        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 210592,
+      "name": "Esa Perra Ya Me Mordi\u00f3",
+      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
     },
     {
       "added_at": "2026-04-24 06:00:58",
@@ -907,34 +907,22 @@
     {
       "added_at": "2026-04-24 06:00:58",
       "album": {
-        "name": "Pintando sue\u00f1os",
-        "url": "https://open.spotify.com/album/14V5KPb8H43N7f5ND1JF3x"
+        "name": "Pajarillo",
+        "url": "https://open.spotify.com/album/5jH8BDn3zQe2FQ0aZdson7"
       },
       "artists": [
         {
-          "name": "Mariacho Ay Ay Ay",
-          "url": "https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "Pintando sue\u00f1os",
-      "url": "https://open.spotify.com/track/4UKmYn5sjGpalQ30l1ixwG"
-    },
-    {
-      "added_at": "2026-04-24 06:00:58",
-      "album": {
-        "name": "Esa Perra Ya Me Mordi\u00f3",
-        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
-      },
-      "artists": [
+          "name": "Jos\u00e9 Maria Napole\u00f3n",
+          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
+        },
         {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
         }
       ],
-      "duration_ms": 210592,
-      "name": "Esa Perra Ya Me Mordi\u00f3",
-      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
+      "duration_ms": 229173,
+      "name": "Pajarillo",
+      "url": "https://open.spotify.com/track/0ZvSxLlYyF2qEs3PQj5X3w"
     },
     {
       "added_at": "2026-04-24 06:00:58",
@@ -959,22 +947,34 @@
     {
       "added_at": "2026-04-24 06:00:58",
       "album": {
-        "name": "Pajarillo",
-        "url": "https://open.spotify.com/album/5jH8BDn3zQe2FQ0aZdson7"
+        "name": "El Hielo Est\u00e1 Quemando",
+        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Maria Napole\u00f3n",
-          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
-        },
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
         }
       ],
-      "duration_ms": 229173,
-      "name": "Pajarillo",
-      "url": "https://open.spotify.com/track/0ZvSxLlYyF2qEs3PQj5X3w"
+      "duration_ms": 189884,
+      "name": "El Hielo Est\u00e1 Quemando",
+      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
+    },
+    {
+      "added_at": "2026-04-24 06:00:58",
+      "album": {
+        "name": "Pintando sue\u00f1os",
+        "url": "https://open.spotify.com/album/14V5KPb8H43N7f5ND1JF3x"
+      },
+      "artists": [
+        {
+          "name": "Mariacho Ay Ay Ay",
+          "url": "https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2"
+        }
+      ],
+      "duration_ms": 222080,
+      "name": "Pintando sue\u00f1os",
+      "url": "https://open.spotify.com/track/4UKmYn5sjGpalQ30l1ixwG"
     },
     {
       "added_at": "2026-04-24 06:00:58",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-04-24 06:00:58",
       "album": {
-        "name": "Despu\u00e9s de ti",
-        "url": "https://open.spotify.com/album/5W52gZ0j0XGg5S0dsOs9Vf"
-      },
-      "artists": [
-        {
-          "name": "Victor Rodhes",
-          "url": "https://open.spotify.com/artist/1EzmmoR7JjsuoBfojkT3Dk"
-        }
-      ],
-      "duration_ms": 222068,
-      "name": "Despu\u00e9s de ti",
-      "url": "https://open.spotify.com/track/2uRsNDeNZgY4DbZBNipqjC"
-    },
-    {
-      "added_at": "2026-04-24 06:00:58",
-      "album": {
         "name": "Playa Sola",
         "url": "https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW"
       },
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2026-04-24 06:00:58",
       "album": {
+        "name": "Despu\u00e9s de ti",
+        "url": "https://open.spotify.com/album/5W52gZ0j0XGg5S0dsOs9Vf"
+      },
+      "artists": [
+        {
+          "name": "Victor Rodhes",
+          "url": "https://open.spotify.com/artist/1EzmmoR7JjsuoBfojkT3Dk"
+        }
+      ],
+      "duration_ms": 222068,
+      "name": "Despu\u00e9s de ti",
+      "url": "https://open.spotify.com/track/2uRsNDeNZgY4DbZBNipqjC"
+    },
+    {
+      "added_at": "2026-04-24 06:00:58",
+      "album": {
         "name": "All\u00e1 Donde Vayas",
         "url": "https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-04-24 06:00:58",
       "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/5IcZe5B1FZzVRtKT8sNYgS"
-      },
-      "artists": [
-        {
-          "name": "Ximena Ocampo",
-          "url": "https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho"
-        }
-      ],
-      "duration_ms": 195245,
-      "name": "\u00bfQui\u00e9n Es Usted?",
-      "url": "https://open.spotify.com/track/5KWvrJF3O2w5niGvaaZt9K"
-    },
-    {
-      "added_at": "2026-04-24 06:00:58",
-      "album": {
         "name": "Ning\u00fan Color Tiene Due\u00f1o",
         "url": "https://open.spotify.com/album/4ZvbRsterGIXqMCZ9Rhbcu"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 205400,
       "name": "Ning\u00fan Color Tiene Due\u00f1o",
       "url": "https://open.spotify.com/track/54NEmG1rbxPHeNnX9JawCu"
+    },
+    {
+      "added_at": "2026-04-24 06:00:58",
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/5IcZe5B1FZzVRtKT8sNYgS"
+      },
+      "artists": [
+        {
+          "name": "Ximena Ocampo",
+          "url": "https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho"
+        }
+      ],
+      "duration_ms": 195245,
+      "name": "\u00bfQui\u00e9n Es Usted?",
+      "url": "https://open.spotify.com/track/5KWvrJF3O2w5niGvaaZt9K"
     },
     {
       "added_at": "2026-04-24 06:00:58",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-04-24 06:00:58",
       "album": {
-        "name": "Me Gustas",
-        "url": "https://open.spotify.com/album/6cYMpnl0sZOgF1XmjhzYwy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Triunfadores",
-          "url": "https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ"
-        }
-      ],
-      "duration_ms": 168622,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/5KpvlmpZ3UjGeIsNOvosiW"
-    },
-    {
-      "added_at": "2026-04-24 06:00:58",
-      "album": {
         "name": "Carita de Cielo",
         "url": "https://open.spotify.com/album/6BMtbEa12nF3mTxpAMSPFX"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 185000,
       "name": "Carita de Cielo",
       "url": "https://open.spotify.com/track/3mBqYBDWeI3FYstFu2IPtu"
+    },
+    {
+      "added_at": "2026-04-24 06:00:58",
+      "album": {
+        "name": "Me Gustas",
+        "url": "https://open.spotify.com/album/6cYMpnl0sZOgF1XmjhzYwy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Triunfadores",
+          "url": "https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ"
+        }
+      ],
+      "duration_ms": 168622,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/5KpvlmpZ3UjGeIsNOvosiW"
     },
     {
       "added_at": "2026-04-24 06:00:58",

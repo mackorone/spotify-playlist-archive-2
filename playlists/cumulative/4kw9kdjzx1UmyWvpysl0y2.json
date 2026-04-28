@@ -4265,6 +4265,28 @@
     },
     {
       "album": {
+        "name": "close your eyes",
+        "url": "https://open.spotify.com/album/1YuOYJ7WHrrX889nLy70Xb"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        {
+          "name": "Jazara",
+          "url": "https://open.spotify.com/artist/7didXxc5oXHa2VLDXPxNag"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "close your eyes",
+      "url": "https://open.spotify.com/track/0GY3VN7i3hElhqhIqSHKQi"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0lqnYWgBm6wxmvTPwwjduy"
       },

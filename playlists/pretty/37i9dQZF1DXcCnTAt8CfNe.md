@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 > Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,346 likes - 159 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,413 likes - 159 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 158 | [Calmide](https://open.spotify.com/track/0eeunnn5H9Z5ftKNRYL0MP) | [Eclectic Elements](https://open.spotify.com/artist/3xlagJKvA0REqZkIGa2sBr) | [Calmide](https://open.spotify.com/album/695DmgQgDDaajkKYULps0e) | 3:13 |
 | 159 | [Leaves](https://open.spotify.com/track/65TBuRMHuHeNrFBzddDsbU) | [Celestial Nora](https://open.spotify.com/artist/0v23idsWZW4xo9DUIKRA9b) | [Leaves](https://open.spotify.com/album/7xvxvpAgIznW3QXljlxkVR) | 2:45 |
 
-Snapshot ID: `AAAAANY7N5LrvjOapWpcpDYo0/7nWJQZ`
+Snapshot ID: `AAAAAHdJADh6E4HYUbCW6UcJ6snUOZrc`

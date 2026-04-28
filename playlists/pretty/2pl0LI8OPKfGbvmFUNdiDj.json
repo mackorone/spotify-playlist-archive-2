@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 762,
+  "num_followers": 771,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAADjlj6dkquZGJ9FJfQVAINztjPhusI",
+  "snapshot_id": "AAADlDL33cWmRDgbHJw0BUKilxREtp6n",
   "tracks": [
     {
       "added_at": "2026-04-25 18:25:55",
@@ -1603,6 +1603,102 @@
       "duration_ms": 178327,
       "name": "What we doin?",
       "url": "https://open.spotify.com/track/4ZyOh1Evg8rRy5Y95HXUeG"
+    },
+    {
+      "added_at": "2026-04-27 12:23:31",
+      "album": {
+        "name": "WITHOUT A RUSH",
+        "url": "https://open.spotify.com/album/3mlm8T34g8ulynQ4JPbnok"
+      },
+      "artists": [
+        {
+          "name": "Twmmy",
+          "url": "https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx"
+        }
+      ],
+      "duration_ms": 264047,
+      "name": "WITHOUT A RUSH",
+      "url": "https://open.spotify.com/track/5wERfkI6PVJx5TNLBHD9Gj"
+    },
+    {
+      "added_at": "2026-04-27 12:32:02",
+      "album": {
+        "name": "Maldito cobarde",
+        "url": "https://open.spotify.com/album/2pUYGwXDJtwaytUQhLJlUt"
+      },
+      "artists": [
+        {
+          "name": "mediopelo",
+          "url": "https://open.spotify.com/artist/0mbImR0KgeaYtvPoc7z6CU"
+        }
+      ],
+      "duration_ms": 179744,
+      "name": "Maldito cobarde",
+      "url": "https://open.spotify.com/track/1hc8sKJdvP6GfUv6dzwjN3"
+    },
+    {
+      "added_at": "2026-04-28 02:00:33",
+      "album": {
+        "name": "Welcome to the Devil's Room",
+        "url": "https://open.spotify.com/album/7lv9XUyMSaGRBwT52oKaB5"
+      },
+      "artists": [
+        {
+          "name": "Hellblazers",
+          "url": "https://open.spotify.com/artist/0m5GEfgKoEyMG9FelU8Sdz"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Bed Made of Roses",
+      "url": "https://open.spotify.com/track/2ScYDedLsFpnA5iTkzQGKP"
+    },
+    {
+      "added_at": "2026-04-28 02:02:03",
+      "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/471rQ6QPYTNL74IcX8DkB5"
+      },
+      "artists": [
+        {
+          "name": "EMORY",
+          "url": "https://open.spotify.com/artist/39EhSFtTCtf9fmvPiMTLan"
+        }
+      ],
+      "duration_ms": 155178,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/5by8eIqSVBvlm9wMREqkFt"
+    },
+    {
+      "added_at": "2026-04-28 02:03:53",
+      "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/2ZRX2YE4E5qB4q6fvrKTB9"
+      },
+      "artists": [
+        {
+          "name": "Kirke",
+          "url": "https://open.spotify.com/artist/2DqLLxyfyxRUodLixvd306"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "Ens\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/4FKBpzuDfY5W38nU1R9nAz"
+    },
+    {
+      "added_at": "2026-04-28 02:04:30",
+      "album": {
+        "name": "Heir To The Throne",
+        "url": "https://open.spotify.com/album/3NekfNDmU7iDJbPqM5PzFB"
+      },
+      "artists": [
+        {
+          "name": "Sweet Electric",
+          "url": "https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm"
+        }
+      ],
+      "duration_ms": 249270,
+      "name": "Heir To The Throne",
+      "url": "https://open.spotify.com/track/3A0cKdejEnyr8wojgntQVH"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

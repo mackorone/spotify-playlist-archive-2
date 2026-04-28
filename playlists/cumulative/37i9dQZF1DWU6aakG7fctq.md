@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie you should know\. Cover: Sparklmami
 
-1,155 songs - 2 day 15 hr 9 min
+1,156 songs - 2 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Cardenal Cisneros](https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Cardenal Cisneros](https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc) | 4:12 | 2023-11-24 | 2024-04-19 |
 | [CARDIO](https://open.spotify.com/track/1YLyCvXW50Jd7W4F3ZcAAY) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [CARDIO](https://open.spotify.com/album/4KI149spTqotwFjNUbrAl8) | 2:22 | 2023-06-02 | 2024-02-10 |
 | [Care For You](https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Care For You](https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk) | 2:36 | 2021-11-18 | 2022-10-28 |
-| [cariño](https://open.spotify.com/track/4R8grinJeW7qnUxpoMx3CI) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [consuelo](https://open.spotify.com/album/1J8b1nwZO4k1IkoKtZVoxh) | 3:02 | 2026-03-06 |  |
+| [cariño](https://open.spotify.com/track/4R8grinJeW7qnUxpoMx3CI) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [consuelo](https://open.spotify.com/album/1J8b1nwZO4k1IkoKtZVoxh) | 3:02 | 2026-03-06 | 2026-04-28 |
 | [Cariño](https://open.spotify.com/track/1wyc9pjAAtIaBceqts184d) | [Rudy De Anda](https://open.spotify.com/artist/4zAauwbGLs7vAEzfJEklGF) | [Tender Epoch](https://open.spotify.com/album/5WZSADIfCSEWZdeaiHjQ93) | 4:49 | 2022-01-10 | 2022-07-25 |
 | [cariño](https://open.spotify.com/track/0dQHCW83ZUOSo4n3bxnEfn) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [cariño](https://open.spotify.com/album/4upKb8eibwPX6VEa42g47s) | 3:07 | 2024-03-01 | 2024-04-08 |
 | [Carnaval](https://open.spotify.com/track/7Gy0XlNckHei9e84FVPWJP) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Fux Beat](https://open.spotify.com/artist/6hftbcqGKIFB01XfseVMN1) | [Carnaval](https://open.spotify.com/album/3Onr1NSF0zM8CSZxqpZ2ly) | 2:47 | 2025-02-07 | 2025-03-22 |
@@ -698,6 +698,7 @@
 | [Naufragar](https://open.spotify.com/track/405Z4PIE6QNiiRkC3eyBBD) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Naufragar](https://open.spotify.com/album/2B7X0lyAvSI8j5oZIOmMbc) | 4:03 | 2023-06-16 | 2024-02-10 |
 | [Naufragio](https://open.spotify.com/track/4XHKwr7C9fymzCCCAzDvW0) | [Hunters of the Alps](https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG) | [Naufragio](https://open.spotify.com/album/4BIuipyX7kFdiuwWpEVgWn) | 4:18 | 2024-08-23 | 2024-10-26 |
 | [Necesito Que Me Arranques De Ti](https://open.spotify.com/track/3Vf0KIbzv9tky7AUO9iPX1) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Necesito Que Me Arranques De Ti](https://open.spotify.com/album/5UfNLgBVSNX3x8ddeQz8ph) | 2:45 | 2025-02-28 | 2025-05-03 |
+| [Necio](https://open.spotify.com/track/0Amrqle3uLQh6daz8it0G6) | [Andy Daze](https://open.spotify.com/artist/3C9RghNMHKFDn4fxrOrrW8) | [Necio](https://open.spotify.com/album/1bHQO3Jsfu7jV3PgdPRaQ0) | 4:21 | 2026-04-27 |  |
 | [Nena, dime algo.](https://open.spotify.com/track/3arnuYBuNFads3xhmztypA) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Nena, dime algo.](https://open.spotify.com/album/4LNN7H1otfd8z5TFIlQCEY) | 2:36 | 2023-03-31 | 2024-01-27 |
 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 | 2024-08-23 | 2024-12-07 |
 | [Nivel](https://open.spotify.com/track/5BmNOexzDRn2tXrCurRVER) | [Sofia Lafuente](https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9) | [Nivel](https://open.spotify.com/album/4IfWx8i30bfH24J1wvpAl6) | 2:31 | 2024-04-12 | 2024-05-11 |

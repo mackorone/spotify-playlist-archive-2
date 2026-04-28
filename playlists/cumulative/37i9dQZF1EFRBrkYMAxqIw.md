@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-194 songs - 10 hr 18 min
+195 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,8 +95,9 @@
 | [Karma](https://open.spotify.com/track/2m9yuSBGTIR4rh0oWzIfck) | [Dara Rolins](https://open.spotify.com/artist/6Tv7lGZFGzalpRGE3aonac) | [Znova a zas](https://open.spotify.com/album/5PEAczWXGou79zP6b1CRLK) | 3:06 | 2025-11-13 |  |
 | [Karma](https://open.spotify.com/track/6Nct7w4ZHT0vJVkbrTkI7N) | [Dara Rolins](https://open.spotify.com/artist/6Tv7lGZFGzalpRGE3aonac) | [Znova a zas](https://open.spotify.com/album/31wkAriWa5RoZ9Wq6NGrKp) | 3:06 | 2025-11-05 | 2025-11-14 |
 | [Kilimanjaro](https://open.spotify.com/track/2sEZK5zMHECzHqd0TwpusQ) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Kilimanjaro](https://open.spotify.com/album/5HvTQ7QabtScNHn8jAJCZk) | 3:27 | 2023-04-19 |  |
-| [Last One On My Mind](https://open.spotify.com/track/49X0xXnEaD4QogX7wevj5s) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk) | [The Fifth Chapter](https://open.spotify.com/album/34zBuaI0qXuvCD9WrG0NbC) | 2:44 | 2023-12-13 |  |
+| [Last One On My Mind](https://open.spotify.com/track/49X0xXnEaD4QogX7wevj5s) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk) | [The Fifth Chapter](https://open.spotify.com/album/34zBuaI0qXuvCD9WrG0NbC) | 2:44 | 2023-12-13 | 2026-04-28 |
 | [Last One On My Mind](https://open.spotify.com/track/5GqXJIFLTN6cCSKojL326c) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk) | [Last One On My Mind](https://open.spotify.com/album/1Uy6JJzeVXvLJrIgiWjrjQ) | 2:44 | 2023-07-28 | 2023-12-14 |
+| [Last One On My Mind \(Moto Blanco Remix\)](https://open.spotify.com/track/4e1cXIQQPQoCFriDFRRowA) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk), [Moto Blanco](https://open.spotify.com/artist/2faLHCwToqDd4C53QiWIKj) | [Last One On My Mind \(Moto Blanco Remix\)](https://open.spotify.com/album/7yD1DbXMwoMXFu9k0lnLCm) | 3:07 | 2026-04-27 |  |
 | [Late Nights](https://open.spotify.com/track/3PyGywdOUEcgxdqEFdNhLB) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [Saint Wilder](https://open.spotify.com/artist/7egpYmPWaTX6xTFbZiAgmD) | [Late Nights](https://open.spotify.com/album/1S1c90JiNTVoO2VDPzhrhB) | 3:12 | 2025-02-10 |  |
 | [Late Nights \(feat\. Saint Wilder\)](https://open.spotify.com/track/1vgmZmpxJSEyx9TCp0mQhL) | [TCTS](https://open.spotify.com/artist/28t7ZclIGsXd7bDGDt72Ys), [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [Saint Wilder](https://open.spotify.com/artist/7egpYmPWaTX6xTFbZiAgmD) | [Late Nights \(feat\. Saint Wilder\)](https://open.spotify.com/album/57LaPoPp9JEyf01lA3dj3M) | 3:12 | 2022-05-25 | 2025-02-11 |
 | [Let There Be Drums](https://open.spotify.com/track/2DKoCWXpQlwjJcXt0TSqUI) | [Feder](https://open.spotify.com/artist/7Kkmzdy1hw29Gs6WMUGVhe), [UPSAHL](https://open.spotify.com/artist/59cH1U6jOnP1grnuo5XKjn) | [Let There Be Drums](https://open.spotify.com/album/4RLEBlVLqIAeccrY5ewOkx) | 3:21 | 2022-05-25 |  |

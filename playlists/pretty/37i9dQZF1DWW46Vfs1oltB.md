@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: BILL STAX\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,779 likes - 107 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,747 likes - 107 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

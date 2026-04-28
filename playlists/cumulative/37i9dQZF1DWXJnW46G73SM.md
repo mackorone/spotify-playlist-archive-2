@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: تووليت
 
-1,671 songs - 3 day 21 hr 2 min
+1,672 songs - 3 day 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1114,6 +1114,7 @@
 | [الجو ولع](https://open.spotify.com/track/0vzm1POq1H0JVHwSOaufio) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [الجو ولع](https://open.spotify.com/album/4fI2rUMGuMonjwntO2YgUW) | 3:34 | 2023-06-27 | 2023-07-28 |
 | [الحب](https://open.spotify.com/track/0EM7yBpi3yoA5Vf6HVScgP) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [الحب](https://open.spotify.com/album/4FDzVLy4DtsuetAHROxJFm) | 3:24 | 2023-06-14 | 2023-07-20 |
 | [الحب عيبنا](https://open.spotify.com/track/7wXCvrSJxHVH0uEAzyY1Ct) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [الحب عيبنا](https://open.spotify.com/album/7IVWERFu8EVQuPMCOXRMBU) | 3:56 | 2025-03-12 | 2025-06-10 |
+| [الحضن شوك](https://open.spotify.com/track/0IQH121iAc4jJAhPUol4Yf) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [الحضن شوك](https://open.spotify.com/album/26KryY32FLwZlGHNxmA7N7) | 3:45 | 2026-04-27 |  |
 | [الحلم الوردي](https://open.spotify.com/track/3DXQBnciOnrdIgGkgUbvwS) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [الحلم الوردي](https://open.spotify.com/album/0fLc1KQC2pDeTfcOh0ovZS) | 3:07 | 2024-06-13 | 2024-06-22 |
 | [الحمدلله](https://open.spotify.com/track/6SaiYvNlHIh2gdVfAyAQKD) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [الحمدلله](https://open.spotify.com/album/7vnRTngy32esACDIZdroyC) | 3:17 | 2024-04-18 | 2024-05-09 |
 | [الحنين والمعلم](https://open.spotify.com/track/4fcFD3cOSNnyDs1GH97rQS) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [الحنين والمعلم](https://open.spotify.com/album/4UuqcNEutgvA1kKMmh6uye) | 2:33 | 2023-05-11 | 2023-06-30 |
@@ -1479,7 +1480,7 @@
 | [كل يوم](https://open.spotify.com/track/6QqKLWS2sKSCWEAbK6vXpk) | [Ahmed Mashal](https://open.spotify.com/artist/5fKTVxUJTVu6uYin0ppPdf) | [كل يوم](https://open.spotify.com/album/6jpR5g3cI24zKNIGBl2TyA) | 3:18 | 2024-10-18 | 2024-12-06 |
 | [كلام فارغ](https://open.spotify.com/track/7nZync4cVWk7qP44aVpYy3) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [كلام فارغ](https://open.spotify.com/album/2t69m3YMhYT9girpfbWf3L) | 4:34 | 2025-06-07 | 2025-07-18 |
 | [كلام كبار](https://open.spotify.com/track/3hOPWTX0f8Slj25cBdsZTG) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd), [Ahmed Amer](https://open.spotify.com/artist/30rRZEkK9ZECZDSV8bIkV0) | [كلام كبار](https://open.spotify.com/album/4EJnHL42dS4JXcda5oFIIn) | 4:36 | 2023-02-09 | 2023-03-28 |
-| [كلكوا فله](https://open.spotify.com/track/6XE6ywXuV0tAa76a59w1VP) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [كلكوا فله](https://open.spotify.com/album/0oh75L2L6qQrs9NshlUXQ4) | 2:18 | 2025-10-30 |  |
+| [كلكوا فله](https://open.spotify.com/track/6XE6ywXuV0tAa76a59w1VP) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [كلكوا فله](https://open.spotify.com/album/0oh75L2L6qQrs9NshlUXQ4) | 2:18 | 2025-10-30 | 2026-04-28 |
 | [كلمة رجوعنا](https://open.spotify.com/track/57rNoEZbQ4KT8kyfrTLunG) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [كلمة رجوعنا](https://open.spotify.com/album/4DoX4XWbfVh88LRRXqqtGL) | 4:20 | 2024-01-02 | 2024-02-08 |
 | [كلمة سلام](https://open.spotify.com/track/6Uf9GESDYUb6PaFKb0X6b7) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [كلمة سلام](https://open.spotify.com/album/0i5uZH5qa0vmNWlzFymn9c) | 3:52 | 2023-05-10 | 2023-06-27 |
 | [كلمني عن نفسك](https://open.spotify.com/track/0Y52u3T0C9sroUFFtY0UQ1) | [Habiba](https://open.spotify.com/artist/1usUiq1yUVpqCOJWMaBNtG), [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [كلمني عن نفسك](https://open.spotify.com/album/1tg6iaoch6dNDoHJ3bBk1Z) | 2:36 | 2024-07-25 | 2024-09-13 |

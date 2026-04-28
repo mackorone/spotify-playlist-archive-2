@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Zed Yun Pavarotti
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,170 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,176 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 12 | [WEBCAM](https://open.spotify.com/track/7ioVtUe6IAiWvVohQJvcNH) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [WEBCAM](https://open.spotify.com/album/0syMRhO9MFSDutNxM6ZZwK) | 3:22 |
 | 13 | [NAN!](https://open.spotify.com/track/2RQcefK54hh6rydGm2JmHg) | [D'accord Simon](https://open.spotify.com/artist/6HBlOvzTZVt7yd5AUZxygo) | [NAN!](https://open.spotify.com/album/6jUzPRytNibaXwplCU3AJk) | 2:21 |
 | 14 | [Psycho](https://open.spotify.com/track/3WTRnRVdjj5RyddXkBkxQy) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [Psycho](https://open.spotify.com/album/1QNGHLkRa7T5ltfZbnFGdc) | 3:07 |
-| 15 | [internet](https://open.spotify.com/track/7aC0og0wGBisY87cUpEdXG) | [Mittyintranslation](https://open.spotify.com/artist/6Wo4zyufcc4V8ZM1TCxDxW) | [internet](https://open.spotify.com/album/4I7qdgWeMuzB2ME7LnZcsN) | 2:42 |
+| 15 | [internet](https://open.spotify.com/track/7aC0og0wGBisY87cUpEdXG) | [Mitty](https://open.spotify.com/artist/6Wo4zyufcc4V8ZM1TCxDxW) | [internet](https://open.spotify.com/album/4I7qdgWeMuzB2ME7LnZcsN) | 2:42 |
 | 16 | [J'aime](https://open.spotify.com/track/3zN3jMba9k9hMyI5szCahc) | [Samy](https://open.spotify.com/artist/3wKF1A1UV4AkRrzgnWOXEH) | [MY NAME IS LEGACY](https://open.spotify.com/album/4u8rdbMdeqSopRhY92X2Lb) | 2:08 |
 | 17 | [Y'a Quoi](https://open.spotify.com/track/1w6kUNvQFldF0bm4WSVVg2) | [Blaame](https://open.spotify.com/artist/40eNfkD7ZldjqnmTm4fbdl) | [Y'a Quoi](https://open.spotify.com/album/07R3fl5CTughBLkCiWsz3t) | 2:20 |
 | 18 | [Le monde en flou](https://open.spotify.com/track/1493ukr2188bfegBZccFGk) | [HORLA](https://open.spotify.com/artist/3rroBIgezFxcKXYw0MugUQ) | [Le monde en flou](https://open.spotify.com/album/69KSwEAcaUCtlTFIGH7oGy) | 3:09 |

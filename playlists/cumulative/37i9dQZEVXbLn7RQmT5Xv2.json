@@ -7423,6 +7423,24 @@
     },
     {
       "album": {
+        "name": "Kadaba",
+        "url": "https://open.spotify.com/album/4zHO9jEIa2yGuKR8Gxrjoi"
+      },
+      "artists": [
+        {
+          "name": "Karim Osama",
+          "url": "https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Kadaba",
+      "url": "https://open.spotify.com/track/5mmfDOkI4QqUrwEOBz4htQ"
+    },
+    {
+      "album": {
         "name": "Aqareb (Side B)",
         "url": "https://open.spotify.com/album/0N7f8HwliUbikVCIfogDgv"
       },
@@ -7788,7 +7806,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 255589,
       "name": "Khalina Zekra",
       "url": "https://open.spotify.com/track/5iqwTdNpHSMEj8KkkCBllY"
@@ -8566,7 +8584,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 160004,
       "name": "LEH",
       "url": "https://open.spotify.com/track/3S2UO7Oy97Zibylp8rMQuR"
@@ -16820,7 +16838,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 206112,
       "name": "\u0627\u0644\u0628\u062e\u062a",
       "url": "https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ"

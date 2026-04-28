@@ -1,12 +1,12 @@
 {
   "description": "A playlist of some of our favorite new songs, updated weekly. See our archived playlists for songs from previous weeks.",
-  "num_followers": 13293,
+  "num_followers": 13300,
   "original_name": "BrooklynVegan's Favorite Songs of the Week",
   "owner": {
     "name": "BrooklynVegan",
     "url": "https://open.spotify.com/user/brooklynvegan"
   },
-  "snapshot_id": "AAAYQGXRb35Q7yuSj1FLacl+VqFokhNn",
+  "snapshot_id": "AAAYQuYONq6bZMlD6qOguRAvoLisjzIC",
   "tracks": [
     {
       "added_at": "2026-04-24 22:43:08",
@@ -39,6 +39,26 @@
       "duration_ms": 297173,
       "name": "Fade to Black",
       "url": "https://open.spotify.com/track/34oCsA8rlPzoWPizKl83uQ"
+    },
+    {
+      "added_at": "2026-04-27 13:39:56",
+      "album": {
+        "name": "Out of Place",
+        "url": "https://open.spotify.com/album/35AF4IdvKWLEAWGrayJnj5"
+      },
+      "artists": [
+        {
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        },
+        {
+          "name": "Marta",
+          "url": "https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7"
+        }
+      ],
+      "duration_ms": 157601,
+      "name": "Out of Place",
+      "url": "https://open.spotify.com/track/2lxUQi5kRn7dziJn7ea6JE"
     },
     {
       "added_at": "2026-04-24 22:43:08",

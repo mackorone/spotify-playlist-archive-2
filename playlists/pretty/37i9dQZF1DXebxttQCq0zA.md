@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,254,620 likes - 220 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,254,880 likes - 220 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 41 | [Rainy Afternoon](https://open.spotify.com/track/0S0IzohIrXjqRSWqIc0TaA) | [Relax AF](https://open.spotify.com/artist/41QOw4HrudfICy0OqGkokO), [Tom Iansek](https://open.spotify.com/artist/5rSA8bm9qo9t5x8t8xXtwi) | [Rainy Afternoon](https://open.spotify.com/album/2vtFT6hD573N1VdJ0E1q9J) | 4:20 |
 | 42 | [One Earth](https://open.spotify.com/track/2RNpKcFoaAEWHnkAoQVzl4) | [Mountain Explorer](https://open.spotify.com/artist/0ZRFQvqH13ouWGPIR0ulSF) | [One Earth](https://open.spotify.com/album/1YDL1Qsy01jp1jS7ZJKTul) | 2:15 |
 | 43 | [Destination](https://open.spotify.com/track/5XQSxLSkl8PRxe7WvraQeL) | [Tristan Axvall](https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1) | [Destination](https://open.spotify.com/album/7ff9wd53b2sdigLDFKO2EY) | 2:57 |
-| 44 | [Blue Stream](https://open.spotify.com/track/5Qc6jip2Ue3WtCM0f3g6Wo) | [Mdore](https://open.spotify.com/artist/2GBSmxVMYNgmDG4ImYuVqg) | [Blue Stream](https://open.spotify.com/album/2wntzIRwzNYrKVYn6C1ca9) | 2:31 |
+| 44 | [Blue Stream](https://open.spotify.com/track/5Qc6jip2Ue3WtCM0f3g6Wo) | [Mdore](https://open.spotify.com/artist/2GBSmxVMYNgmDG4ImYuVqg), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Dreaming Phase](https://open.spotify.com/artist/5rfPDQ04f9uM3M0yNNY8qO) | [Blue Stream](https://open.spotify.com/album/2wntzIRwzNYrKVYn6C1ca9) | 2:31 |
 | 45 | [Inceptum](https://open.spotify.com/track/1PtNlpqHMwOQ93hh7pRizT) | [Amphose](https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz) | [Inceptum](https://open.spotify.com/album/2F9UiY6Cyay1nWd8OlyWZB) | 2:38 |
 | 46 | [Downtime](https://open.spotify.com/track/2zjkNtXNGJlYcbmfw6Teos) | [Koma](https://open.spotify.com/artist/74UZVMMnRA5yLeGJarnV49) | [Downtime](https://open.spotify.com/album/7qcDgWdGikjtmRXOMCPBJS) | 2:01 |
-| 47 | [Blend Into Mind](https://open.spotify.com/track/3sKLohmcFswZytAWumqLTC) | [Mdelo](https://open.spotify.com/artist/7JWUjEVch4pACMPtmnDCog) | [Blend Into Mind](https://open.spotify.com/album/6oUYcwGBCbXHFCao6ixKmD) | 2:44 |
+| 47 | [Blend Into Mind](https://open.spotify.com/track/3sKLohmcFswZytAWumqLTC) | [Mdelo](https://open.spotify.com/artist/7JWUjEVch4pACMPtmnDCog), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Gluvi](https://open.spotify.com/artist/0VZdU3u4J8It5A0BxKoJyi) | [Blend Into Mind](https://open.spotify.com/album/6oUYcwGBCbXHFCao6ixKmD) | 2:44 |
 | 48 | [Shifting Patterns](https://open.spotify.com/track/2SNN2h80xZBSKDJmP8AWVE) | [Eartharmonics](https://open.spotify.com/artist/28mf6WqvVAsOevoY6A2oB7) | [Shifting Patterns](https://open.spotify.com/album/6GMhEQRyHUclrnC6igyycx) | 2:47 |
 | 49 | [Beneath the Amber Sky](https://open.spotify.com/track/07RAPYcjMqzTEvNvsXmxx4) | [Kai Monroe](https://open.spotify.com/artist/1TLvs6pMDwN18Ziridx7Ht) | [Beneath the Amber Sky](https://open.spotify.com/album/2D4wR9BcvC09FuMMQFfLxR) | 2:10 |
 | 50 | [Abundance](https://open.spotify.com/track/3hW7VxAyX7ZniBQh98Eqpi) | [Calma Totalis](https://open.spotify.com/artist/1s9skrP96FBxQyrPC3mlVy) | [Abundance](https://open.spotify.com/album/6HYf3dJG4JxGXrSQC6enP9) | 2:52 |

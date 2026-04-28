@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 124397,
+  "num_followers": 124429,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-02-27 04:00:13",
       "album": {
+        "name": "Sacrifice & Isolation",
+        "url": "https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka"
+      },
+      "artists": [
+        {
+          "name": "Collapse Under The Empire",
+          "url": "https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY"
+        }
+      ],
+      "duration_ms": 311555,
+      "name": "What the Heart Craves For",
+      "url": "https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy"
+    },
+    {
+      "added_at": "2026-02-27 04:00:13",
+      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/1bGo7G5JOcy9jE8S4uNo0H"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 173705,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/2ttXU3cfx8unAngSRQ60CK"
-    },
-    {
-      "added_at": "2026-02-27 04:00:13",
-      "album": {
-        "name": "Sacrifice & Isolation",
-        "url": "https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka"
-      },
-      "artists": [
-        {
-          "name": "Collapse Under The Empire",
-          "url": "https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY"
-        }
-      ],
-      "duration_ms": 311555,
-      "name": "What the Heart Craves For",
-      "url": "https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy"
     },
     {
       "added_at": "2026-02-27 04:00:13",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-02-27 04:00:13",
       "album": {
-        "name": "Three Halves",
-        "url": "https://open.spotify.com/album/2MqLAyAYPpfnUPUbhNIvXz"
-      },
-      "artists": [
-        {
-          "name": "The Orielles",
-          "url": "https://open.spotify.com/artist/5JWEBEt8VxHHxYKFmpzjwD"
-        }
-      ],
-      "duration_ms": 262016,
-      "name": "Three Halves",
-      "url": "https://open.spotify.com/track/2d1phWQyfC2aTXEpu7MBNK"
-    },
-    {
-      "added_at": "2026-02-27 04:00:13",
-      "album": {
         "name": "Dusk/Dawn",
         "url": "https://open.spotify.com/album/3lnSqrokikM7TF5tIhnle0"
       },
@@ -851,22 +835,18 @@
     {
       "added_at": "2026-02-27 04:00:13",
       "album": {
-        "name": "Farewell, Stars (The American Dollar Rework)",
-        "url": "https://open.spotify.com/album/7MNXIkzZJo7oNOezVyDTXW"
+        "name": "Three Halves",
+        "url": "https://open.spotify.com/album/2MqLAyAYPpfnUPUbhNIvXz"
       },
       "artists": [
         {
-          "name": "Message To Bears",
-          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
-        },
-        {
-          "name": "The American Dollar",
-          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
+          "name": "The Orielles",
+          "url": "https://open.spotify.com/artist/5JWEBEt8VxHHxYKFmpzjwD"
         }
       ],
-      "duration_ms": 228973,
-      "name": "Farewell, Stars - The American Dollar Rework",
-      "url": "https://open.spotify.com/track/7oEKxSpVRJo4SgBMl6DAhR"
+      "duration_ms": 262016,
+      "name": "Three Halves",
+      "url": "https://open.spotify.com/track/2d1phWQyfC2aTXEpu7MBNK"
     },
     {
       "added_at": "2026-02-27 04:00:13",
@@ -887,18 +867,22 @@
     {
       "added_at": "2026-02-27 04:00:13",
       "album": {
-        "name": "Enfold",
-        "url": "https://open.spotify.com/album/3URn9GW2uXY7mTXLXs89oS"
+        "name": "Farewell, Stars (The American Dollar Rework)",
+        "url": "https://open.spotify.com/album/7MNXIkzZJo7oNOezVyDTXW"
       },
       "artists": [
         {
-          "name": "Soars",
-          "url": "https://open.spotify.com/artist/7iLGqGUSoPQtj8OH61HFwZ"
+          "name": "Message To Bears",
+          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
+        },
+        {
+          "name": "The American Dollar",
+          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
         }
       ],
-      "duration_ms": 226760,
-      "name": "Enfold",
-      "url": "https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq"
+      "duration_ms": 228973,
+      "name": "Farewell, Stars - The American Dollar Rework",
+      "url": "https://open.spotify.com/track/7oEKxSpVRJo4SgBMl6DAhR"
     },
     {
       "added_at": "2026-02-27 04:00:13",
@@ -939,22 +923,18 @@
     {
       "added_at": "2026-02-27 04:00:13",
       "album": {
-        "name": "Love is a Shelter",
-        "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
+        "name": "Enfold",
+        "url": "https://open.spotify.com/album/3URn9GW2uXY7mTXLXs89oS"
       },
       "artists": [
         {
-          "name": "All Stars Dying",
-          "url": "https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP"
-        },
-        {
-          "name": "Make Like A Tree",
-          "url": "https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk"
+          "name": "Soars",
+          "url": "https://open.spotify.com/artist/7iLGqGUSoPQtj8OH61HFwZ"
         }
       ],
-      "duration_ms": 360006,
-      "name": "Love is a Shelter",
-      "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
+      "duration_ms": 226760,
+      "name": "Enfold",
+      "url": "https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq"
     },
     {
       "added_at": "2026-02-27 04:00:13",
@@ -975,6 +955,26 @@
     {
       "added_at": "2026-02-27 04:00:13",
       "album": {
+        "name": "Love is a Shelter",
+        "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
+      },
+      "artists": [
+        {
+          "name": "All Stars Dying",
+          "url": "https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP"
+        },
+        {
+          "name": "Make Like A Tree",
+          "url": "https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk"
+        }
+      ],
+      "duration_ms": 360006,
+      "name": "Love is a Shelter",
+      "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
+    },
+    {
+      "added_at": "2026-02-27 04:00:13",
+      "album": {
         "name": "Blurring",
         "url": "https://open.spotify.com/album/1JvlqLOBMVJZm0jGSYM3WB"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 216237,
       "name": "Fog",
       "url": "https://open.spotify.com/track/6FuTWOqsTYwGvjRxqcwdEU"
-    },
-    {
-      "added_at": "2026-02-27 04:00:13",
-      "album": {
-        "name": "Meteor Shower",
-        "url": "https://open.spotify.com/album/14UMhTcpV3uhQoWzyOZ9GH"
-      },
-      "artists": [
-        {
-          "name": "Alyas",
-          "url": "https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Meteor Shower",
-      "url": "https://open.spotify.com/track/2hzgNLpTcKF81lhU6SJz4E"
     },
     {
       "added_at": "2026-02-27 04:00:13",
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2026-02-27 04:00:13",
       "album": {
+        "name": "Meteor Shower",
+        "url": "https://open.spotify.com/album/14UMhTcpV3uhQoWzyOZ9GH"
+      },
+      "artists": [
+        {
+          "name": "Alyas",
+          "url": "https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Meteor Shower",
+      "url": "https://open.spotify.com/track/2hzgNLpTcKF81lhU6SJz4E"
+    },
+    {
+      "added_at": "2026-02-27 04:00:13",
+      "album": {
         "name": "(not) alone",
         "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
       },
@@ -1035,22 +1035,6 @@
       "duration_ms": 279197,
       "name": "(not) alone",
       "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
-    },
-    {
-      "added_at": "2026-02-27 04:00:13",
-      "album": {
-        "name": "I Dreamt Our Whole City Burned",
-        "url": "https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN"
-      },
-      "artists": [
-        {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
-        }
-      ],
-      "duration_ms": 284076,
-      "name": "I Dreamt Our Whole City Burned",
-      "url": "https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6"
     },
     {
       "added_at": "2026-02-27 04:00:13",
@@ -1071,34 +1055,18 @@
     {
       "added_at": "2026-02-27 04:00:13",
       "album": {
-        "name": "Dusty Roads",
-        "url": "https://open.spotify.com/album/5Ympaz4YjPhfwm6Hw07YOr"
+        "name": "I Dreamt Our Whole City Burned",
+        "url": "https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN"
       },
       "artists": [
         {
-          "name": "J.F. Gloss",
-          "url": "https://open.spotify.com/artist/575vCZtoxOgmTE8zjoAEC1"
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
         }
       ],
-      "duration_ms": 176602,
-      "name": "Dusty Roads",
-      "url": "https://open.spotify.com/track/15EdvEEY3BBkKXhve298eY"
-    },
-    {
-      "added_at": "2026-02-27 04:00:13",
-      "album": {
-        "name": "The Skyline EP",
-        "url": "https://open.spotify.com/album/1ytb7WT8k3J4kNVlPWYtPB"
-      },
-      "artists": [
-        {
-          "name": "Stubbleman",
-          "url": "https://open.spotify.com/artist/0Fu1gmQ4PZ1S5anr0l2Cov"
-        }
-      ],
-      "duration_ms": 270962,
-      "name": "Skyline Drive",
-      "url": "https://open.spotify.com/track/4WQAWGhJB358e9g4wTS3pI"
+      "duration_ms": 284076,
+      "name": "I Dreamt Our Whole City Burned",
+      "url": "https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6"
     },
     {
       "added_at": "2026-02-27 04:00:13",
@@ -1123,22 +1091,34 @@
     {
       "added_at": "2026-02-27 04:00:13",
       "album": {
-        "name": "Lifelike",
-        "url": "https://open.spotify.com/album/3I0Vuo5qaEIKB5OL6KIIRL"
+        "name": "The Skyline EP",
+        "url": "https://open.spotify.com/album/1ytb7WT8k3J4kNVlPWYtPB"
       },
       "artists": [
         {
-          "name": "Amulets",
-          "url": "https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt"
-        },
-        {
-          "name": "Midwife",
-          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+          "name": "Stubbleman",
+          "url": "https://open.spotify.com/artist/0Fu1gmQ4PZ1S5anr0l2Cov"
         }
       ],
-      "duration_ms": 278067,
-      "name": "Lifelike",
-      "url": "https://open.spotify.com/track/0YODMi7BpALFBJFGeydCDN"
+      "duration_ms": 270962,
+      "name": "Skyline Drive",
+      "url": "https://open.spotify.com/track/4WQAWGhJB358e9g4wTS3pI"
+    },
+    {
+      "added_at": "2026-02-27 04:00:13",
+      "album": {
+        "name": "Dusty Roads",
+        "url": "https://open.spotify.com/album/5Ympaz4YjPhfwm6Hw07YOr"
+      },
+      "artists": [
+        {
+          "name": "J.F. Gloss",
+          "url": "https://open.spotify.com/artist/575vCZtoxOgmTE8zjoAEC1"
+        }
+      ],
+      "duration_ms": 176602,
+      "name": "Dusty Roads",
+      "url": "https://open.spotify.com/track/15EdvEEY3BBkKXhve298eY"
     },
     {
       "added_at": "2026-02-27 04:00:13",
@@ -1159,6 +1139,26 @@
     {
       "added_at": "2026-02-27 04:00:13",
       "album": {
+        "name": "Lifelike",
+        "url": "https://open.spotify.com/album/3I0Vuo5qaEIKB5OL6KIIRL"
+      },
+      "artists": [
+        {
+          "name": "Amulets",
+          "url": "https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt"
+        },
+        {
+          "name": "Midwife",
+          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+        }
+      ],
+      "duration_ms": 278067,
+      "name": "Lifelike",
+      "url": "https://open.spotify.com/track/0YODMi7BpALFBJFGeydCDN"
+    },
+    {
+      "added_at": "2026-02-27 04:00:13",
+      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-02-27 04:00:13",
       "album": {
-        "name": "The Blurred Horizon",
-        "url": "https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi"
-      },
-      "artists": [
-        {
-          "name": "Tuesday The Sky",
-          "url": "https://open.spotify.com/artist/2uRoyJPNj6VqsIYhRQSa6Q"
-        }
-      ],
-      "duration_ms": 236792,
-      "name": "The Blurred Horizon",
-      "url": "https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM"
-    },
-    {
-      "added_at": "2026-02-27 04:00:13",
-      "album": {
         "name": "Pearldiving",
         "url": "https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 152260,
       "name": "Les Amourettes",
       "url": "https://open.spotify.com/track/6eOmK8yn18IqGAHrNpXf9b"
+    },
+    {
+      "added_at": "2026-02-27 04:00:13",
+      "album": {
+        "name": "The Blurred Horizon",
+        "url": "https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi"
+      },
+      "artists": [
+        {
+          "name": "Tuesday The Sky",
+          "url": "https://open.spotify.com/artist/2uRoyJPNj6VqsIYhRQSa6Q"
+        }
+      ],
+      "duration_ms": 236792,
+      "name": "The Blurred Horizon",
+      "url": "https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM"
     },
     {
       "added_at": "2026-02-27 04:00:13",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-02-27 04:00:13",
       "album": {
-        "name": "Elsewhere",
-        "url": "https://open.spotify.com/album/47Mee9RWknn6UKGAuWVC2c"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 234160,
-      "name": "Elsewhere",
-      "url": "https://open.spotify.com/track/06TdEir7zUwTTCerC8JB6J"
-    },
-    {
-      "added_at": "2026-02-27 04:00:13",
-      "album": {
         "name": "Screen Time",
         "url": "https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 164453,
       "name": "The Station",
       "url": "https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k"
+    },
+    {
+      "added_at": "2026-02-27 04:00:13",
+      "album": {
+        "name": "Elsewhere",
+        "url": "https://open.spotify.com/album/47Mee9RWknn6UKGAuWVC2c"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 234160,
+      "name": "Elsewhere",
+      "url": "https://open.spotify.com/track/06TdEir7zUwTTCerC8JB6J"
     },
     {
       "added_at": "2026-02-27 04:00:13",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2026-02-27 04:00:13",
       "album": {
+        "name": "The World Is A House On Fire",
+        "url": "https://open.spotify.com/album/2AL66SHj3D8IZD6RrjHh2J"
+      },
+      "artists": [
+        {
+          "name": "Zelienople",
+          "url": "https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY"
+        }
+      ],
+      "duration_ms": 405400,
+      "name": "Out of It",
+      "url": "https://open.spotify.com/track/3BbU4k2CFvzpG7BNQlwnmR"
+    },
+    {
+      "added_at": "2026-02-27 04:00:13",
+      "album": {
         "name": "Sound Study Four",
         "url": "https://open.spotify.com/album/7k68DOmu9jG4RJvG0VveGu"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 438539,
       "name": "Sound Study Four",
       "url": "https://open.spotify.com/track/0d3XErjZJDoJr7XgjncNXr"
-    },
-    {
-      "added_at": "2026-02-27 04:00:13",
-      "album": {
-        "name": "The World Is A House On Fire",
-        "url": "https://open.spotify.com/album/2AL66SHj3D8IZD6RrjHh2J"
-      },
-      "artists": [
-        {
-          "name": "Zelienople",
-          "url": "https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY"
-        }
-      ],
-      "duration_ms": 405400,
-      "name": "Out of It",
-      "url": "https://open.spotify.com/track/3BbU4k2CFvzpG7BNQlwnmR"
     },
     {
       "added_at": "2026-02-27 04:00:13",

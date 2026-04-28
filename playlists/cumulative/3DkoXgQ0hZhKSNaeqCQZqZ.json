@@ -5531,6 +5531,28 @@
     },
     {
       "album": {
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/1L1ehou3twqD25Z5UNUFMA"
+      },
+      "artists": [
+        {
+          "name": "Cherry Locket",
+          "url": "https://open.spotify.com/artist/2nZkGHRrTXlpghhH3X27lr"
+        },
+        {
+          "name": "Zachz Winner",
+          "url": "https://open.spotify.com/artist/3eb6CZwogsXvGkmEUYa9XV"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166985,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/4l6jiTUeu5lzxfVNqIz49H"
+    },
+    {
+      "album": {
         "name": "My Future",
         "url": "https://open.spotify.com/album/79mIn0EK43ln8TJ3OSbOkv"
       },

@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "Analog",
+        "url": "https://open.spotify.com/album/10LHZgdI5Dj1esKEkiiKOM"
+      },
+      "artists": [
+        {
+          "name": "Delia",
+          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162194,
+      "name": "Analog",
+      "url": "https://open.spotify.com/track/7uP2yYhEtz8FGi6iDgIMAd"
+    },
+    {
+      "album": {
         "name": "Ancora",
         "url": "https://open.spotify.com/album/0jqONN6IGgRduCbg0Oyuan"
       },
@@ -688,7 +706,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 249302,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/2RMeldjCXW6xnd1ZeLycv7"
@@ -918,7 +936,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 214230,
       "name": "A\u0219 Fi Iubit-o",
       "url": "https://open.spotify.com/track/0flHTpfogKtmsMmMFCTnso"
@@ -2540,7 +2558,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 157693,
       "name": "Damelo",
       "url": "https://open.spotify.com/track/37h8o6hEV5jdmiNpZkFxRF"
@@ -2743,6 +2761,48 @@
     },
     {
       "album": {
+        "name": "Deuces Remix",
+        "url": "https://open.spotify.com/album/2hYWXzaTtPBHAhv2kLVhHG"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403786,
+      "name": "Deuces Remix (feat. Drake, T.I., Kanye West, Fabolous, Rick Ross & Andr\u00e9 3000)",
+      "url": "https://open.spotify.com/track/6EC5hHjYlwVmj8cpjSjJWA"
+    },
+    {
+      "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
       },
@@ -2894,7 +2954,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 148500,
       "name": "Doar La Ea, Ba La Ea",
       "url": "https://open.spotify.com/track/4loUiQ8a84Lu4Ar8KQlPb9"
@@ -3340,7 +3400,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 104418,
       "name": "Embrace It",
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
@@ -3724,7 +3784,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 178604,
       "name": "Gagica-ta - Golden Cypher",
       "url": "https://open.spotify.com/track/4Hk1JHeOxf7ScnVEvzMOtY"
@@ -4711,6 +4771,24 @@
     },
     {
       "album": {
+        "name": "Izabela",
+        "url": "https://open.spotify.com/album/7gGvvDd2j9GHeBn99YHLuR"
+      },
+      "artists": [
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "Izabela",
+      "url": "https://open.spotify.com/track/6TJF9CvKYwbgOC2GcHbLUp"
+    },
+    {
+      "album": {
         "name": "Jamaican (Bam Bam)",
         "url": "https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G"
       },
@@ -4984,6 +5062,24 @@
       "duration_ms": 166666,
       "name": "Las-o a\u0219a",
       "url": "https://open.spotify.com/track/0I0hHI96Gl0Q7xE3EWeZLG"
+    },
+    {
+      "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224216,
+      "name": "Legendary Lovers",
+      "url": "https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2"
     },
     {
       "album": {
@@ -5512,6 +5608,28 @@
       "duration_ms": 160800,
       "name": "Maria, Maria",
       "url": "https://open.spotify.com/track/4ut3pv8Po5KNXRrfKQ39IX"
+    },
+    {
+      "album": {
+        "name": "Marimea J-Lo",
+        "url": "https://open.spotify.com/album/5bc6Te2mWYbNxsYxXkaz8f"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        },
+        {
+          "name": "Ghita Adriano",
+          "url": "https://open.spotify.com/artist/6h2J0hfKs2Yy2Ag6HTqdsw"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142796,
+      "name": "Marimea J-Lo",
+      "url": "https://open.spotify.com/track/0JQQukgIdXIP6NzaXsRxVv"
     },
     {
       "album": {
@@ -6836,7 +6954,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 125294,
       "name": "Ponte Pa Mi",
       "url": "https://open.spotify.com/track/78uC56WFICXVzko7aBUXHJ"
@@ -7310,6 +7428,24 @@
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
+    },
+    {
+      "album": {
+        "name": "HOODCAGHY",
+        "url": "https://open.spotify.com/album/77wIGCwxVfmx0rGVr2nhjp"
+      },
+      "artists": [
+        {
+          "name": "LilCagula",
+          "url": "https://open.spotify.com/artist/3uR0BLXGAv5YciM8meWqmO"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109000,
+      "name": "SCARA",
+      "url": "https://open.spotify.com/track/26reRxSWDBWpz05hwyvjys"
     },
     {
       "album": {
@@ -7814,6 +7950,32 @@
       "duration_ms": 138348,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/5SttIhdC9DcJV0kMzvEX5e"
+    },
+    {
+      "album": {
+        "name": "SOLO TU",
+        "url": "https://open.spotify.com/album/0AAkLXd83dyoDbuy41xWLR"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw"
+        },
+        {
+          "name": "Adrian Saguna",
+          "url": "https://open.spotify.com/artist/3bz7f3qlG3GRUEYPLPTp4c"
+        },
+        {
+          "name": "Benzol",
+          "url": "https://open.spotify.com/artist/66i9LSrYmg7kz7yKMjjrSv"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196874,
+      "name": "SOLO TU",
+      "url": "https://open.spotify.com/track/2VfBwNlaw7CaWmMMNpGcwR"
     },
     {
       "album": {

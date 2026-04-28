@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "aster",
+        "url": "https://open.spotify.com/album/1skElZVVW7WJV9YwqZfrHw"
+      },
+      "artists": [
+        {
+          "name": "cherry pick",
+          "url": "https://open.spotify.com/artist/5yCDU2cbUX69GwblH65Et5"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152797,
+      "name": "aster",
+      "url": "https://open.spotify.com/track/4L8wzYfJpmzsiBGvhiCTSV"
+    },
+    {
+      "album": {
         "name": "Colourwaves",
         "url": "https://open.spotify.com/album/4Ostle1eqw1kYAmJ8PTp22"
       },
@@ -1346,7 +1364,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 164366,
       "name": "Big Think",
       "url": "https://open.spotify.com/track/6dHarIpfoSBGnP6I1jFHVU"
@@ -4914,7 +4932,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 141500,
       "name": "face.",
       "url": "https://open.spotify.com/track/0zX4S0PU6BG9UxHtaAx2jA"
@@ -5659,6 +5677,24 @@
     },
     {
       "album": {
+        "name": "Get To It",
+        "url": "https://open.spotify.com/album/501oPIRjZkYmnCqGrAp9aj"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164413,
+      "name": "Get To It",
+      "url": "https://open.spotify.com/track/46YHl5eDF9Ofn5sdiwbf0M"
+    },
+    {
+      "album": {
         "name": "Warmth // Ghost",
         "url": "https://open.spotify.com/album/2ojQavRkjdDT1WYU9F1zA7"
       },
@@ -5706,7 +5742,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 137686,
       "name": "Ghost of You",
       "url": "https://open.spotify.com/track/72PNLiIM3o0H8nwnQC5jrz"
@@ -6106,7 +6142,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 245750,
       "name": "Gradient",
       "url": "https://open.spotify.com/track/5YShlRQKMKKBvkhAFKi1SA"
@@ -6808,7 +6844,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 314630,
       "name": "Hole in Me",
       "url": "https://open.spotify.com/track/3zOT6ryFuKUm2sJKnmMpud"
@@ -7536,7 +7572,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 212577,
       "name": "infinite source",
       "url": "https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr"
@@ -9348,7 +9384,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 227982,
       "name": "Mother Falcon",
       "url": "https://open.spotify.com/track/5uy6YqrObrNLQTETcFllYT"
@@ -10169,6 +10205,24 @@
     },
     {
       "album": {
+        "name": "Ocd",
+        "url": "https://open.spotify.com/album/4t7S4yeLzxbD81H6PmA7qc"
+      },
+      "artists": [
+        {
+          "name": "Janelane",
+          "url": "https://open.spotify.com/artist/35N63pLgKzB0ZknLTrFVSA"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219787,
+      "name": "Ocd",
+      "url": "https://open.spotify.com/track/5vtDYL3nW4Wl6DjVCGfeZt"
+    },
+    {
+      "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/6xF3774il7mBjTAqfgIpeg"
       },
@@ -10436,6 +10490,24 @@
       "duration_ms": 194673,
       "name": "Over & Over",
       "url": "https://open.spotify.com/track/4PC40ChgiGuNEGBfwMFkv7"
+    },
+    {
+      "album": {
+        "name": "over anything",
+        "url": "https://open.spotify.com/album/2UFaO6xoNt2f9WE73hiE8D"
+      },
+      "artists": [
+        {
+          "name": "Midrift",
+          "url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158733,
+      "name": "over anything",
+      "url": "https://open.spotify.com/track/72NGcY2sSw6FFvmUymouC8"
     },
     {
       "album": {
@@ -11030,6 +11102,24 @@
       "duration_ms": 168631,
       "name": "Pushing Pins",
       "url": "https://open.spotify.com/track/7j26ZE6cddkHrdkWr13fw6"
+    },
+    {
+      "album": {
+        "name": "pylon",
+        "url": "https://open.spotify.com/album/1EmVyAK3OZFFLHqHekJHA7"
+      },
+      "artists": [
+        {
+          "name": "thistle.",
+          "url": "https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146762,
+      "name": "pylon",
+      "url": "https://open.spotify.com/track/13a44jgmdMKQ83q1qbWrXC"
     },
     {
       "album": {
@@ -12575,6 +12665,24 @@
     },
     {
       "album": {
+        "name": "srry i wasted yr time",
+        "url": "https://open.spotify.com/album/7785hl2XAZ631sSXA1bLIv"
+      },
+      "artists": [
+        {
+          "name": "Softly",
+          "url": "https://open.spotify.com/artist/1asVFyNIt8ILBV7Ae4Cjk8"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181590,
+      "name": "srry i wasted yr time",
+      "url": "https://open.spotify.com/track/098qlhIqhtHWNYcc2flCKh"
+    },
+    {
+      "album": {
         "name": "Stale Change",
         "url": "https://open.spotify.com/album/2aAHqcMLotpSFABXHwTb9P"
       },
@@ -13870,6 +13978,28 @@
       "duration_ms": 220862,
       "name": "The Perfume of Decay",
       "url": "https://open.spotify.com/track/7cGKdI3BvJOKYzs9dRdvFj"
+    },
+    {
+      "album": {
+        "name": "Location Lost",
+        "url": "https://open.spotify.com/album/3OpqRrIq96MmPqdcDuDIIu"
+      },
+      "artists": [
+        {
+          "name": "Failure",
+          "url": "https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272789,
+      "name": "The Rising Skyline",
+      "url": "https://open.spotify.com/track/6BMWQ6ElJI0vRcPClL2QGs"
     },
     {
       "album": {

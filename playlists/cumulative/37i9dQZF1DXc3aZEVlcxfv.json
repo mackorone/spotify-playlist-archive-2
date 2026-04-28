@@ -4949,6 +4949,24 @@
     },
     {
       "album": {
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147452,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
+    },
+    {
+      "album": {
         "name": "He Is Enough",
         "url": "https://open.spotify.com/album/3wh80jvwtIwEpPeXb0hgE8"
       },
@@ -4982,7 +5000,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 356901,
       "name": "He Will Provide",
       "url": "https://open.spotify.com/track/6Ej9JXSMgBATGtAwQq3HTb"
@@ -7870,6 +7888,32 @@
       "duration_ms": 170673,
       "name": "My Baby (For My Mind Refix)",
       "url": "https://open.spotify.com/track/4MmPfuXoclt5rnQ8pQY9lE"
+    },
+    {
+      "album": {
+        "name": "My Elshaddai",
+        "url": "https://open.spotify.com/album/38CdwH27OsQF185txvPw1z"
+      },
+      "artists": [
+        {
+          "name": "Evans Ogboi",
+          "url": "https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0"
+        },
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        },
+        {
+          "name": "Purist Ogboi",
+          "url": "https://open.spotify.com/artist/4XDbxHH7eeR8BTf0OnkMvE"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276083,
+      "name": "My Elshaddai",
+      "url": "https://open.spotify.com/track/7z81J8HgIVSpyeF2996zDy"
     },
     {
       "album": {
@@ -11694,7 +11738,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 188837,
       "name": "YAHWEH",
       "url": "https://open.spotify.com/track/5kcDXI5RsSfsM7HJCuOA74"

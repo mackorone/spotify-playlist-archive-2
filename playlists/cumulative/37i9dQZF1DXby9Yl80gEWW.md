@@ -4,7 +4,7 @@
 
 > A taste of today's best bluegrass instrumentals.
 
-323 songs - 19 hr 49 min
+324 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Crooked Mind](https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g) | [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh) | [Black Banjo](https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2) | 3:18 | 2022-05-13 |  |
 | [Crooked Mountain Top](https://open.spotify.com/track/3jJ7v2UW3tBmf4raOO4Wn6) | [Andy Hall](https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y) | [Songs from the Mountain](https://open.spotify.com/album/7vfHGZ43LKzvbnePYZ5ICZ) | 3:42 | 2025-02-07 | 2025-09-30 |
 | [Crossing the Junction / Deer River](https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL) | [Lonesome Ace Stringband](https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb) | [Crossing the Junction / Deer River](https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj) | 3:38 | 2023-08-11 |  |
+| [Crossville](https://open.spotify.com/track/47KcdqpGiAsNRJ9WWI0fGG) | [Andy Leftwich](https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa) | [Aced](https://open.spotify.com/album/7atKZ6vryzxB0lbhwlv5NW) | 3:22 | 2026-04-17 |  |
 | [Crowe River](https://open.spotify.com/track/6NBmpYvczviLnDzLlluZo0) | [Lonesome Ace Stringband](https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb), [John Showman](https://open.spotify.com/artist/7LcJJJFnWyr4LrudLL3fpN), [Chris Coole](https://open.spotify.com/artist/6FrFN8PoG2qUy8apsYeN8o) | [Crowe River](https://open.spotify.com/album/7B1ir2STaCkGcMw15M7NMZ) | 2:34 | 2025-02-14 |  |
 | [Cumberland Gap](https://open.spotify.com/track/3ZIl7Lmby6zGV9iAC4ZXMp) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF) | 1:08 | 2023-11-24 | 2024-04-19 |
 | [Cumberland Gap](https://open.spotify.com/track/6422IVV0bPOMsvTEIyW2cs) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Cumberland Gap](https://open.spotify.com/album/2kJ2mebmHglVZxIRfrOJGq) | 1:08 | 2022-07-15 | 2024-11-23 |
@@ -207,7 +208,7 @@
 | [No\. 444](https://open.spotify.com/track/62UxY8jTCQIOJglkZl2QuW) | [Wood Box Heroes](https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH) | [444](https://open.spotify.com/album/66W5KTdHyd7pCtULDT6VLB) | 3:06 | 2024-07-13 | 2026-04-04 |
 | [No\. 444](https://open.spotify.com/track/72Xjcfh50FRUeMaomktamF) | [Wood Box Heroes](https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH) | [Wood Box Heroes](https://open.spotify.com/album/0KMYFch1J5SGDL6Zz4if9f) | 3:07 | 2024-05-10 | 2025-02-08 |
 | [North Missouri Wagoner](https://open.spotify.com/track/0HIWU30PMWj7RdH24YvjWW) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9), [Michael Starkey](https://open.spotify.com/artist/0v5kYF6D2YsoToYXmEUhYk) | [North Missouri Wagoner](https://open.spotify.com/album/3IJaZbvZENYGvQSv225EOS) | 2:53 | 2022-06-25 | 2022-07-08 |
-| [Old Hickory](https://open.spotify.com/track/3F3Z9tXg4iCPWGgf31Nihv) | [Andy Leftwich](https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa) | [Old Hickory](https://open.spotify.com/album/2o0FmKRvx1KCTHsO2AqFVi) | 3:51 | 2025-11-21 |  |
+| [Old Hickory](https://open.spotify.com/track/3F3Z9tXg4iCPWGgf31Nihv) | [Andy Leftwich](https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa) | [Old Hickory](https://open.spotify.com/album/2o0FmKRvx1KCTHsO2AqFVi) | 3:51 | 2025-11-21 | 2026-04-28 |
 | [Old Joe Clark](https://open.spotify.com/track/6p54JGVQTiP2oT8UBnOW8L) | [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O), [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr) | [The Gasoline Brothers](https://open.spotify.com/album/19w0zikbLZgW8v7BKjyeTX) | 3:16 | 2022-11-18 | 2025-01-11 |
 | [Old Methuselah](https://open.spotify.com/track/2U6tR0Oc7Php3mqCvALKdr) | [Thomas Cassell](https://open.spotify.com/artist/1axMbkG5DNnNEoJNURK9OL) | [The Never\-Ending Years](https://open.spotify.com/album/3XiFs77S0SXAIewVRP2Ze8) | 3:20 | 2024-10-04 | 2025-02-08 |
 | [Once in a Thousand](https://open.spotify.com/track/4SyZE6yKsawGAlkks34FfX) | [Chandler Beavers](https://open.spotify.com/artist/0O4QuWDJqAFumy2JFr4Srv), [Caleb Cox](https://open.spotify.com/artist/0tnOQUxUsvtuOzlQjFxenc), [Chris Stockwell](https://open.spotify.com/artist/3UyfWIdlmw1ejsXy1h3owu), [Brendan Macie](https://open.spotify.com/artist/2lctN9BubZrESorwh3JGHT), [Lars Swanson](https://open.spotify.com/artist/43AjHzaUAjsoTmaOJWqqzQ) | [4:09](https://open.spotify.com/album/2KwAbI08WaxaEABYTgSPpJ) | 4:18 | 2023-06-23 | 2025-02-08 |

@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: Slayyyter
+> Songs from LGBTQIA+ artists\. Cover: Milune
 
-1,782 songs - 4 day 0 hr 35 min
+1,783 songs - 4 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,7 +608,7 @@
 | [God’s A Raver](https://open.spotify.com/track/6lq5ri17RyE8XBUf6d4SRX) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [God’s a Raver](https://open.spotify.com/album/4zV8oHv4IwjMFGTM5Bm5jf) | 2:51 | 2025-09-09 | 2025-12-04 |
 | [GONE](https://open.spotify.com/track/6kfL6OXIVc38IZLntUxIa8) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [GONE](https://open.spotify.com/album/2DGbNjWdCK5Mwu5WU7yFh9) | 2:57 | 2021-12-24 | 2021-12-26 |
 | [Gonna Go](https://open.spotify.com/track/4PZXDDm2BVEccltAEGHuJp) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Gonna Go](https://open.spotify.com/album/5v2xkxpLUFXjOkFBS5uHjv) | 2:57 | 2023-03-07 | 2023-04-01 |
-| [GOOD DAY](https://open.spotify.com/track/3TubRbPztEN9c3y09dItMb) | [ALÖW](https://open.spotify.com/artist/0pbSMcnKWHnNgCxbJOnx1z) | [GOOD DAY](https://open.spotify.com/album/2OHT0CKVeO6H64gSojHbZX) | 2:31 | 2026-03-24 |  |
+| [GOOD DAY](https://open.spotify.com/track/3TubRbPztEN9c3y09dItMb) | [ALÖW](https://open.spotify.com/artist/0pbSMcnKWHnNgCxbJOnx1z) | [GOOD DAY](https://open.spotify.com/album/2OHT0CKVeO6H64gSojHbZX) | 2:31 | 2026-03-24 | 2026-04-28 |
 | [Good Day \(feat\. MisterWives & Curtis Roach\)](https://open.spotify.com/track/6cZTY8gdphkmqXRKI8jBTt) | [Jax Anderson](https://open.spotify.com/artist/4Gh0D04oCEVbnsx63LXUmT), [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [Curtis Roach](https://open.spotify.com/artist/38KfCZGlEjHIJDKDwH132d) | [Good Day \(feat\. MisterWives & Curtis Roach\)](https://open.spotify.com/album/0LuAEXGmnQD1CenvT6DhsB) | 3:36 | 2021-12-17 | 2022-01-29 |
 | [Good Dream](https://open.spotify.com/track/1U4jlnas1vDAI9BNtpyohV) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [Good Dream / Stowaway](https://open.spotify.com/album/3nIJ6OwyVRrRaV3iynN5HE) | 3:03 | 2025-02-11 | 2025-06-05 |
 | [Good Dream](https://open.spotify.com/track/4GsuTxzqtKbhEBb2gFYa3A) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [I'm A TV](https://open.spotify.com/album/05BuE3SIGlbsHhGN1rBstS) | 3:03 | 2025-12-03 | 2026-02-11 |
@@ -1492,6 +1492,7 @@
 | [Sweet n' Low](https://open.spotify.com/track/1OG3R8TE8KMIIjXFQBxRic) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Sweet n' Low](https://open.spotify.com/album/20DAgaZMBGBBIbdUbfStci) | 2:57 | 2025-08-12 | 2026-01-17 |
 | [Sweet Talker](https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Sweet Talker](https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT) | 2:56 | 2021-12-17 | 2022-01-15 |
 | [Swing of Things](https://open.spotify.com/track/57crzxYpDCaPcXx3cBSARW) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Swing of Things](https://open.spotify.com/album/7xUFaD8ssuDYgx0IycGSdO) | 2:58 | 2021-12-17 | 2022-01-29 |
+| [SWITCH](https://open.spotify.com/track/2WeWR36jTi4GKAYu36lPUb) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [SWITCH](https://open.spotify.com/album/5m2RiG98LyHcsFaXmmafjn) | 2:41 | 2026-04-28 |  |
 | [Sympathy Is A Knife](https://open.spotify.com/track/3DwoBh7cAfEOrSVWRUtgOE) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn), [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Sympathy Is A Knife](https://open.spotify.com/album/74FsBdVP7714hvE7BOu9So) | 3:29 | 2026-03-10 | 2026-03-25 |
 | [System Collapse](https://open.spotify.com/track/0pbTfU1gQizQiMawII79vv) | [Javiera Luna Fantin](https://open.spotify.com/artist/5UaZW5vsM6iaHVnvF5TA1I) | [System Collapse](https://open.spotify.com/album/75B9XnvgNRxcKp1GPhRNJF) | 3:38 | 2023-03-31 | 2023-04-14 |
 | [szczerze, mega mocne](https://open.spotify.com/track/11kYDoSAlArh9NwUqYkH2v) | [Aleksander Kępka](https://open.spotify.com/artist/4G5MUSlOocInMqJAwe2A6x), [Ghosty](https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2) | [szczerze, mega mocne](https://open.spotify.com/album/1R2RIFqYopV7N0L6QlKARu) | 2:33 | 2025-11-11 | 2025-12-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: PJ Morton
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,282 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,324 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 99 | [WORTHY](https://open.spotify.com/track/01VqTmMt86wGlRVjvrhZ23) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [WORTHY](https://open.spotify.com/album/64aFpFjW3mtEzikvLGTWzW) | 3:56 |
 | 100 | [Masterpiece](https://open.spotify.com/track/31B4973cn2QBnl05li51z1) | [Aaron Sledge](https://open.spotify.com/artist/0CEz3mmGL98Lk35wsqGpf2), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Masterpiece](https://open.spotify.com/album/3ebVxd8MwhTTHYODQ7a4OK) | 3:36 |
 
-Snapshot ID: `AAAAAHiBpT1PuNVQIdtG8PiJOaC/uV+l`
+Snapshot ID: `AAAAAEcsd+gmHT3fwcA80TZargGwQCj+`

@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-1,404 songs - 3 day 6 hr 32 min
+1,410 songs - 3 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Control Z](https://open.spotify.com/track/2K819ghYZceYzCSKxACjCX) | [TREKHAAK.](https://open.spotify.com/artist/47EmVcbLry0jMkpqrirO2T) | [Burning The Horizon](https://open.spotify.com/album/2I1Eks5EGGvz6MRcQVWC6P) | 3:10 | 2025-12-04 | 2026-01-06 |
 | [Corriendo \(think about you\)](https://open.spotify.com/track/3G12ziypGl3GL9PL2uQ0ME) | [El Abuelo](https://open.spotify.com/artist/54DZYT3m4fOOnka59lH2HY) | [Corriendo \(think about you\)](https://open.spotify.com/album/0MluI6wYBnfjejhvD53V00) | 3:17 | 2025-12-16 | 2026-01-06 |
 | [Cosquilleo](https://open.spotify.com/track/0p7lNfxGLkLLw6mXqLjwJB) | [Hanz Ruiz](https://open.spotify.com/artist/492JvkAgPNolAHLI8QPXP8) | [Cosquilleo](https://open.spotify.com/album/08LkhNcZlKqlVCnprQVXo8) | 3:24 | 2026-04-17 |  |
+| [Country Star](https://open.spotify.com/track/1dR2pQ9BKMTzSGlThqVVfU) | [L.I.P.S.](https://open.spotify.com/artist/4KqtkNTJJRT6jlitwTwFVC) | [Country Star](https://open.spotify.com/album/760N7gCiK7WHeZnHL6Msnr) | 1:24 | 2026-04-27 |  |
 | [COUSINS](https://open.spotify.com/track/2QaOL88QSB8GoFxnD1KJQ7) | [Homesick](https://open.spotify.com/artist/4BugzXr3GBpFd1ZAPtmxLQ) | [EASY TO THE CORE](https://open.spotify.com/album/7rkdp03pYRUNOA1mdrjIyB) | 1:32 | 2026-03-31 | 2026-04-21 |
 | [Cowboy](https://open.spotify.com/track/7zKt2Ka1mwAqTB94dcEvM3) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Let's Get Weird](https://open.spotify.com/album/3KveBk3jR1fOlbyGzdTo0D) | 3:03 | 2025-08-03 |  |
 | [Crash Through The Quiet](https://open.spotify.com/track/3hyfRKo8ZK74EDLEsOjB7u) | [37L](https://open.spotify.com/artist/5MR7bZeoNaArfoAjmCkqzW) | [We Need To Talk](https://open.spotify.com/album/6QDJu1VD2aquhiL57kSX4P) | 4:11 | 2026-03-20 | 2026-04-11 |
@@ -642,6 +643,7 @@
 | [JOHN CENA](https://open.spotify.com/track/2UfX9JKkijN4EJscdv0Bty) | [HIDEOUS BEAST](https://open.spotify.com/artist/6GDBnNDYg8bQ3YTqLPhvOA) | [THE HIDEOUS BEAST EP](https://open.spotify.com/album/4wVgTj6dpGZCZQzBelC0Ov) | 1:37 | 2026-04-08 |  |
 | [Just A Normal Kid](https://open.spotify.com/track/2dTl4AJExRokk6n9Ne5gNx) | [The Borough](https://open.spotify.com/artist/4FyzVfbimb2frgwzpe3mJg) | [Contradictions](https://open.spotify.com/album/1HLDzOH302g8hagglm769G) | 4:10 | 2025-12-15 | 2026-01-22 |
 | [Just A Plate](https://open.spotify.com/track/4zUEj6yWl0rTvWb13MP1Cr) | [Not Old Memories Only Sound](https://open.spotify.com/artist/5GDg1Ud6FtW8kFUbiErvB2) | [Afterhours](https://open.spotify.com/album/2l3CQdp91kf21X0qP3OA5o) | 3:11 | 2026-03-11 | 2026-03-31 |
+| [Just Drive](https://open.spotify.com/track/4aFaTYrhZyh7CKEpl2VfAu) | [For What You Burn](https://open.spotify.com/artist/4QvZTSqwTEZ0YQZuOPOKI6) | [Just Drive](https://open.spotify.com/album/1ultJea91tVVf3uvqlavuG) | 3:13 | 2026-04-27 |  |
 | [Just Like My Cigarette](https://open.spotify.com/track/0We3cwg2ldHPYxi4pzZp1U) | [The Attached Outsiders](https://open.spotify.com/artist/2ODLB4yIO5qLuSD3H33nVs) | [Just Like My Cigarette](https://open.spotify.com/album/25UGBCpbNS7MZuRu7GXc8U) | 6:38 | 2025-11-23 | 2025-12-24 |
 | [Just like the sun](https://open.spotify.com/track/7k3gLYH5TVALDBHWRoBb2e) | [Me & Melancholy](https://open.spotify.com/artist/6ZZZwGgM356RFi7YH7uSOs) | [Just like the sun](https://open.spotify.com/album/3YFfdDiUb0Am1mJZSGA5Hf) | 3:06 | 2025-12-13 | 2026-01-06 |
 | [Just like the sun \- Remix](https://open.spotify.com/track/4pIAANMsTazzvk4iA85H27) | [Me & Melancholy](https://open.spotify.com/artist/6ZZZwGgM356RFi7YH7uSOs) | [Just like the sun \(Remix\)](https://open.spotify.com/album/2on7ibLkuhMMS4CicchrCD) | 4:00 | 2026-01-11 | 2026-02-03 |
@@ -649,6 +651,7 @@
 | [Just Wondering](https://open.spotify.com/track/0zRT9Lx8R0jmJKqLK5xKIy) | [Loser Points](https://open.spotify.com/artist/33HHP9FDGdlkd1wlqn5ioS) | [Just Wondering](https://open.spotify.com/album/2t0N806Jsef5D4VrVkO8m1) | 2:42 | 2025-12-19 | 2026-01-20 |
 | [K2](https://open.spotify.com/track/5nTv9pn1Zm4nHoONNvquDP) | [desakato](https://open.spotify.com/artist/7wazA5KFLeU7mzsJc0TMse) | [Chokofresa](https://open.spotify.com/album/0NctAbmRD841BP71SW2qY1) | 2:51 | 2025-11-27 | 2025-12-24 |
 | [Keep on Running](https://open.spotify.com/track/5W2RZqDpxq1NmulBL9E4Mh) | [The Mondays](https://open.spotify.com/artist/28myhZRVQ8kBkNLKKscJfb) | [Look How the Sky Turns Blue](https://open.spotify.com/album/3GQX0GkGCn4IUwjrlhWOiQ) | 2:37 | 2025-12-09 | 2026-01-06 |
+| [Key Party](https://open.spotify.com/track/2CsR8tQz9Q5h8ZwonYOumE) | [R\. Snider](https://open.spotify.com/artist/6owVK8Lb6IJZSgrRN8WCpi) | [Key Party](https://open.spotify.com/album/0dnniXOobUtK6Sw9svjohq) | 1:53 | 2026-04-27 |  |
 | [Kill the Messenger](https://open.spotify.com/track/0ckSiXO2wQUDSghsrAwjlv) | [LáGoon](https://open.spotify.com/artist/2A56TzrSVwM3FeQhmfnDvk) | [Kill the Messenger](https://open.spotify.com/album/2DBv3VFvYTi24KcUU6cNmy) | 3:54 | 2026-03-05 | 2026-04-06 |
 | [Killers](https://open.spotify.com/track/4Zro22fXDS05ypKWJOasZZ) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 4:10 | 2025-08-03 |  |
 | [KILLSWITCH](https://open.spotify.com/track/0mOBVJuESrpAECYC90CTPD) | [MADiSON ViOLETT](https://open.spotify.com/artist/0ODjHIp6tDWsXEG89ykLgZ) | [KILLSWITCH](https://open.spotify.com/album/6Ad9cAln8QitxkAwQIBLYN) | 3:49 | 2026-01-14 | 2026-02-03 |
@@ -716,7 +719,7 @@
 | [Mad People](https://open.spotify.com/track/3QVIGA3R10hucV3BTehZTU) | [Supersonic Boy](https://open.spotify.com/artist/6LnpFqRCx2Mmq6ceDatTj3) | [Mad People](https://open.spotify.com/album/3i5bIj8w0fzi5gvc7j1RMV) | 3:04 | 2026-01-15 | 2026-02-03 |
 | [Mad Puppies](https://open.spotify.com/track/1BCF3qP2Tm8YL9Lo1VmcHA) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Mad Puppies](https://open.spotify.com/album/08M39olgNPLTRMjpa6pf0u) | 2:08 | 2026-01-25 | 2026-02-24 |
 | [Madrid](https://open.spotify.com/track/07AqQxvXuIQummbZnMfDUg) | [Passing grade](https://open.spotify.com/artist/6cM6cbpILW8TfpfZCqAFls) | [Madrid](https://open.spotify.com/album/5uHj80vUAeSnbx92ddO9mL) | 3:00 | 2026-03-28 | 2026-04-17 |
-| [Magazines](https://open.spotify.com/track/6RERmuoi4zQ42gm5M7pSvC) | [Gardenia](https://open.spotify.com/artist/6CfgSJflgY2ETbB1RqH3ry) | [Gardenia](https://open.spotify.com/album/3kk1h4CujwsYtyzdFOUnlB) | 3:32 | 2026-03-27 |  |
+| [Magazines](https://open.spotify.com/track/6RERmuoi4zQ42gm5M7pSvC) | [Gardenia](https://open.spotify.com/artist/6CfgSJflgY2ETbB1RqH3ry) | [Gardenia](https://open.spotify.com/album/3kk1h4CujwsYtyzdFOUnlB) | 3:32 | 2026-03-27 | 2026-04-28 |
 | [Magic Dots](https://open.spotify.com/track/3yGrz2tZ6y8MwnD7lHaucI) | [Cupp](https://open.spotify.com/artist/0TUYzuNtOTqWXXW1xVGiB8) | [Magic Dots](https://open.spotify.com/album/2g8U7447dCSIWIZ4B0a2r2) | 2:49 | 2026-01-23 | 2026-02-12 |
 | [Magic Mushrooms](https://open.spotify.com/track/2IQj0X06eWU0bSrWe08eBg) | [Taifa Nia](https://open.spotify.com/artist/6kQwjkgPzAqHrx9YR96EMC) | [Invidia](https://open.spotify.com/album/2QcInOI9Ji6CYqRwLsfzw7) | 2:45 | 2026-04-08 |  |
 | [Magika](https://open.spotify.com/track/1AMefkhOd7ZVYfKH1IGuPu) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 3:25 | 2026-01-17 | 2026-02-06 |
@@ -809,6 +812,7 @@
 | [Nightshade](https://open.spotify.com/track/6Y4wVPUTaUwhfL4F0Bt8cz) | [The Operating Room](https://open.spotify.com/artist/4EvlkZr3kmmMH3w3cZ7yfP) | [Era Viscera](https://open.spotify.com/album/2mX5nj6KOCPU7akHs3LaSB) | 2:35 | 2026-04-23 |  |
 | [Nine Circles Deep](https://open.spotify.com/track/4dRnNyrpCKgYyoZkKrosAN) | [Lies We Sold](https://open.spotify.com/artist/1ZaXyPktPr1gpp3m3c7330) | [Nine Circles Deep](https://open.spotify.com/album/0N2HiAO3HuSd7b4G4cutQq) | 3:00 | 2025-12-15 | 2026-01-06 |
 | [No Angel Is Watching](https://open.spotify.com/track/3Cjct6UfADZsVdXdRHmOae) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [No Angel Is Watching](https://open.spotify.com/album/68XNOikZKxIdeg4OncW44B) | 2:55 | 2025-11-29 | 2025-12-24 |
+| [No Clip](https://open.spotify.com/track/13P6rlAj1n7P2J1aIyTZkB) | [Perilist](https://open.spotify.com/artist/3OVG2M8SfR4g4NzUUQVEYu) | [No Clip](https://open.spotify.com/album/41UousURaAFq50JCLTTQdr) | 5:39 | 2026-04-27 |  |
 | [No Escape](https://open.spotify.com/track/0K15Wt8Zr2lBihYjvRX315) | [This World Stands Still](https://open.spotify.com/artist/0ReYfibZzwQRGgNJEXas0t) | [Inconsistency](https://open.spotify.com/album/2TtVrIAvRehVZPLdVHXDrE) | 2:32 | 2026-04-21 |  |
 | [No Gods](https://open.spotify.com/track/4Bejk4T1EkgJFOMBruuZMQ) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [No Gods](https://open.spotify.com/album/1rSMvnaueBZxlXtPLFtsPH) | 2:59 | 2025-12-15 | 2026-01-06 |
 | [No Need to Wait](https://open.spotify.com/track/4XB1k8GJdXvQZ9YvkwNuOk) | [Brau](https://open.spotify.com/artist/4B1VpxLCj9TBzqbjN99fKQ) | [No Need to Wait](https://open.spotify.com/album/2tfynEzI16EdyoFGBIb76a) | 3:33 | 2026-02-27 | 2026-03-19 |
@@ -1163,6 +1167,7 @@
 | [Terra Firma](https://open.spotify.com/track/0msuAwC5xHYfjlJsHLPSD2) | [Overpower](https://open.spotify.com/artist/1JXEWwmUx8cvcUfRCV6i0W) | [Terra Firma](https://open.spotify.com/album/2PkrTomVNWeRryDy7eLa9w) | 3:37 | 2026-01-19 | 2026-02-20 |
 | [Texas](https://open.spotify.com/track/03ErqN95vW3Sb8b32UhSJ6) | [Limbo Baby](https://open.spotify.com/artist/6pY1kJ5GNaCMaKslOsh9of) | [The Camaraderie of Last Call](https://open.spotify.com/album/7MCxhiaNJyyIEpOQhYRICo) | 5:48 | 2026-03-27 | 2026-04-17 |
 | [Texas Queen](https://open.spotify.com/track/2WG9NtdSRyCpehQMwmbohh) | [Water Gun](https://open.spotify.com/artist/6XCFiFH42w2Epc27Rhhc7m) | [Texas Queen](https://open.spotify.com/album/2ZrKfYcR3IKa3X6yocYSRO) | 3:46 | 2026-03-13 | 2026-04-14 |
+| [Thanks, No Thanks](https://open.spotify.com/track/3r4fD8lzm7neojLh9ApuDV) | [Stella Marris](https://open.spotify.com/artist/7fShwUYcErNtrfzEYB2fgE) | [Thanks, No Thanks](https://open.spotify.com/album/1yEnpouH7Cdls9ya1GTApB) | 3:17 | 2026-04-27 |  |
 | [Thawed](https://open.spotify.com/track/6q71l9Mx84PHkBHKTNS1IG) | [ark.ost](https://open.spotify.com/artist/6Ny7TVQLyqJPsDQ8UShC85) | [This Is What We Call Home](https://open.spotify.com/album/1qXyGvQqzMK8aQcrN72oT3) | 3:08 | 2026-01-14 | 2026-02-03 |
 | [THE ANTI\-ANTHEM](https://open.spotify.com/track/4pUWpBODURGRRjixhxwWiX) | [AGGRESSICA](https://open.spotify.com/artist/0zHCZvTsGPPkqn1toQbvsX) | [THE ANTI\-ANTHEM](https://open.spotify.com/album/1HVQ6k9viqdvp8qacLFNdu) | 3:05 | 2026-04-20 |  |
 | [The Arsonist](https://open.spotify.com/track/2nEn9gOIn92OrVzf7Wr7p9) | [PIXELSDOMAIN](https://open.spotify.com/artist/27gCxh5V2VMRJfCPVflHSK), [BLVDbunny](https://open.spotify.com/artist/0Ru0fb48g38zMhT8vdTHE5) | [The Arsonist](https://open.spotify.com/album/4PoAY659KemmcYIrxZloif) | 1:42 | 2026-03-20 | 2026-04-17 |
@@ -1239,6 +1244,7 @@
 | [This Pain](https://open.spotify.com/track/1jHCYraEt2HLmrPTFiIdCl) | [Marie.B](https://open.spotify.com/artist/5nFwxzI5XI3qFry9TBOdn6) | [This Pain](https://open.spotify.com/album/0A4IIgGhPaqd0zIvGvq0gF) | 2:52 | 2026-04-20 |  |
 | [Three Cheers for War](https://open.spotify.com/track/1IzgYJDOJLUr3WpDosOWIM) | [Revelations Align Hope](https://open.spotify.com/artist/2HQo39t4GpRmOUtioBrAh1) | [Three Cheers for War](https://open.spotify.com/album/2sSIKVnorHtyS1OcBFxJmx) | 2:53 | 2026-04-08 |  |
 | [Through The Fallen Ashes](https://open.spotify.com/track/6Qnc9YhlHkd9NhIFIcQ1js) | [Approaching Autumn](https://open.spotify.com/artist/54qq77ZcaUyPqyE0nyFdD3) | [Homecoming](https://open.spotify.com/album/1nG4lXC5HsfdN8Jph8p5lg) | 3:17 | 2026-04-24 |  |
+| [TIED UP](https://open.spotify.com/track/3tggEoSWUYosNCUFeLkGNX) | [Yugs](https://open.spotify.com/artist/4GjfiH7lIFZp0X5SF3LbEP), [sunstoney](https://open.spotify.com/artist/3oLuCerqscBRek7Nw9mpqL) | [TIED UP](https://open.spotify.com/album/3gdD2lLCx8X0K1p3O6SYuZ) | 2:59 | 2026-04-27 |  |
 | [Time](https://open.spotify.com/track/2uUj58mbpiYpOIugioSG2c) | [Jake Vera](https://open.spotify.com/artist/0fugVpgpowLO9coAvpgRvP) | [Time](https://open.spotify.com/album/4wQ7eu9AMXfpyUnu0DU91J) | 2:25 | 2026-02-02 | 2026-02-27 |
 | [Time](https://open.spotify.com/track/2rHVVmB9ZmvHeLXIzApXsT) | [Rocketmonkey Lovemachine](https://open.spotify.com/artist/2de9uHlJsqASrZoofVPQAh) | [Rmlm](https://open.spotify.com/album/3yTDjfwFEPYFaZbSuPLQQa) | 3:03 | 2025-12-28 | 2026-01-22 |
 | [Time](https://open.spotify.com/track/1P4YBeUbkd1DdeBWx901uc) | [What Did You Expect?](https://open.spotify.com/artist/1zOBosfEV4TPD89YHBKpFd) | [Time](https://open.spotify.com/album/7CGISGGQsIBdlndQJUtuvC) | 2:52 | 2026-02-27 | 2026-03-30 |

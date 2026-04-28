@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,787 likes - 86 songs - 5 hr 45 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,794 likes - 93 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,5 +94,12 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 84 | [Montague](https://open.spotify.com/track/2RkLcTEFOMLxseVkpvNbNi) | [New Juliet](https://open.spotify.com/artist/7FMVmMH2AbtqrllpIhgi2K) | [Montague](https://open.spotify.com/album/2MwRWgs9OwTHvay6WFbP8V) | 3:46 |
 | 85 | [En tus ojos](https://open.spotify.com/track/5YFyngCxUk1kQhBBzuOMUC) | [Leandro Rebolini](https://open.spotify.com/artist/76nuTtg8t7JqzjcZ12NbPI) | [En tus ojos](https://open.spotify.com/album/5e1vAwbN5xGXOBallsu7cL) | 4:11 |
 | 86 | [Just Me and This Trans Am](https://open.spotify.com/track/17CDsz0QLtgXzdpdOZVBCT) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 3:35 |
+| 87 | [Halle klebt](https://open.spotify.com/track/3mL5eUXyowIDKW6hOTzgrf) | [NAPOCK](https://open.spotify.com/artist/77ED2nkxoyZuvzbrFqbjqG) | [Halle klebt](https://open.spotify.com/album/0FQX4LCBCuGwbVENoCEPz2) | 2:37 |
+| 88 | [Crimini e violenza](https://open.spotify.com/track/3mVOjo2V6Q9MepH5niV1JP) | [Gli Intrusi](https://open.spotify.com/artist/6GlgcfcuxlQVKi1OYnISWG) | [Crimini e violenza](https://open.spotify.com/album/7LCpxBa1j7WiBrC9DIaDMQ) | 4:13 |
+| 89 | [Hard Country](https://open.spotify.com/track/2L1KX6BpiWNkKNPT91Qqne) | [Backstrom](https://open.spotify.com/artist/31DB1gJNtSbXs06VuQgx8h) | [Hard Country](https://open.spotify.com/album/1iYZDKxioYiwrL07Zu1oHb) | 3:11 |
+| 90 | [Sonnenbrille im Club](https://open.spotify.com/track/5Jf9zLu8K5JYqFU9MK1bEW) | [ENFYS](https://open.spotify.com/artist/6mHsW7x3l8WQb2LQC1xAXd), [BrainDamage](https://open.spotify.com/artist/4SlcBG3iScSBYLtfoYpDDk) | [Sonnenbrille im Club](https://open.spotify.com/album/3C9W4naev7opKIi9mknkLJ) | 4:08 |
+| 91 | [Sunset](https://open.spotify.com/track/7CsKnmUslC5VMv8BrmqKGu) | [Foreignson and his Ghosts](https://open.spotify.com/artist/6mHpLUCFZ6U5aOY4Qmjy3h) | [Sunset](https://open.spotify.com/album/72RiC6OVViv5sf3Rrb1gyX) | 4:19 |
+| 92 | [Fingers Crossed](https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Fingers Crossed](https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q) | 3:48 |
+| 93 | [She's Not There \- Mono Remastered](https://open.spotify.com/track/5BATmTqGopeifUzHN2bE0f) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here \(Mono Remastered\)](https://open.spotify.com/album/1mn5LBTE4qewxKGILnX70v) | 2:25 |
 
-Snapshot ID: `AAALKZX0YIaCQtqUC3OwkZeKwhEfXY8v`
+Snapshot ID: `AAALMDFIzNg0qjjWU0BIbtx5iISOWs52`

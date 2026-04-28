@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Another Day Is Gone",
+        "url": "https://open.spotify.com/album/3xKkBJlx8QMc00eSanaZSN"
+      },
+      "artists": [
+        {
+          "name": "Dave Christen",
+          "url": "https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261439,
+      "name": "Another Day Is Gone",
+      "url": "https://open.spotify.com/track/0HS4fqcRazWuujB0aTdwiD"
+    },
+    {
+      "album": {
         "name": "Another Road",
         "url": "https://open.spotify.com/album/1ns78XX82aqpqIKgdLkxAB"
       },
@@ -7390,6 +7408,24 @@
       "duration_ms": 224976,
       "name": "To The Moon",
       "url": "https://open.spotify.com/track/6DVsYLEObwwI5j8TMbMecX"
+    },
+    {
+      "album": {
+        "name": "Tommy and Gina",
+        "url": "https://open.spotify.com/album/7mh2bvzLF1HlC7QWRTgOTz"
+      },
+      "artists": [
+        {
+          "name": "Golden Greyline",
+          "url": "https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204271,
+      "name": "Tommy and Gina",
+      "url": "https://open.spotify.com/track/1z9H58eKt42OUphDl0lcCV"
     },
     {
       "album": {

@@ -99,6 +99,28 @@
     },
     {
       "album": {
+        "name": "A Solitary Future",
+        "url": "https://open.spotify.com/album/5IsagTuQjJTnBcoI5cg2TK"
+      },
+      "artists": [
+        {
+          "name": "Liminal Sky",
+          "url": "https://open.spotify.com/artist/1zeUhhqXA168NE8SY9Mpoc"
+        },
+        {
+          "name": "Ulver",
+          "url": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291866,
+      "name": "A Solitary Future",
+      "url": "https://open.spotify.com/track/0ShB8rlcQF9yL01mUmAuLx"
+    },
+    {
+      "album": {
         "name": "A Way Through",
         "url": "https://open.spotify.com/album/4IS6OxGwNHCrc96hIXrdrY"
       },
@@ -146,7 +168,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 268000,
       "name": "Acid Lemon Sun",
       "url": "https://open.spotify.com/track/06FeoGENaSIpSKbK4mID6M"
@@ -666,7 +688,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 235739,
       "name": "Black and Blue",
       "url": "https://open.spotify.com/track/3I3FrHVuIPOjh80qMOLdDx"
@@ -936,7 +958,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 220375,
       "name": "Brother From Another Mother",
       "url": "https://open.spotify.com/track/790KFCjI2gjoyxsjSsp9Td"
@@ -1235,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "Close Is Just Another Word for Nothing",
+        "url": "https://open.spotify.com/album/18giivTfkR8nIwRUTpyWSG"
+      },
+      "artists": [
+        {
+          "name": "The Dogs",
+          "url": "https://open.spotify.com/artist/42LXKkD9d7JJlL7sy5ImDC"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353686,
+      "name": "Close Is Just Another Word for Nothing",
+      "url": "https://open.spotify.com/track/0nqIdGCOuf09bI5OII97cE"
+    },
+    {
+      "album": {
         "name": "Doba je zl\u00e1",
         "url": "https://open.spotify.com/album/1cWJKrsVYoXRaG5vGYL6oX"
       },
@@ -1372,7 +1412,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -1394,6 +1434,24 @@
       "duration_ms": 268510,
       "name": "Control",
       "url": "https://open.spotify.com/track/7DGsGpngDhy1kNi5ZHBNMl"
+    },
+    {
+      "album": {
+        "name": "Exist.",
+        "url": "https://open.spotify.com/album/5ye1p8h5jDeTAvivzbr18u"
+      },
+      "artists": [
+        {
+          "name": "Point Valaine",
+          "url": "https://open.spotify.com/artist/70YlGPLQUmMPIhSPIkNGj2"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243416,
+      "name": "Cooperate",
+      "url": "https://open.spotify.com/track/4reqRFMJOZ6RufNUzRPh22"
     },
     {
       "album": {
@@ -3568,7 +3626,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 228000,
       "name": "Have a Gray Day",
       "url": "https://open.spotify.com/track/4Ehz4xfWds0AZiqpy30Wca"
@@ -4444,7 +4502,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -4726,6 +4784,24 @@
       "duration_ms": 277896,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/2YwNJhQDI2xwexPaffRnBf"
+    },
+    {
+      "album": {
+        "name": "Liberationizing Light",
+        "url": "https://open.spotify.com/album/3KLg4osPkDP0mIbPdDnW32"
+      },
+      "artists": [
+        {
+          "name": "Project Chord Blast",
+          "url": "https://open.spotify.com/artist/0n0fir7jWVJraWZQTKWiyv"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256894,
+      "name": "Liberationizing Light",
+      "url": "https://open.spotify.com/track/4m1sgMzxFa2SvZUPdYYLPL"
     },
     {
       "album": {
@@ -5025,6 +5101,24 @@
     },
     {
       "album": {
+        "name": "Love You To Death",
+        "url": "https://open.spotify.com/album/66GJN6QZmXvTuLy9zRC2n8"
+      },
+      "artists": [
+        {
+          "name": "The Fright",
+          "url": "https://open.spotify.com/artist/1WlTUSzEuZaTwGZIrdbBoC"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357118,
+      "name": "Love You To Death",
+      "url": "https://open.spotify.com/track/7h4Oi7QL4NSyD35ziTMcdD"
+    },
+    {
+      "album": {
         "name": "Space, Rituals and Magick",
         "url": "https://open.spotify.com/album/6xEBqfIeLt41HoTu82HNha"
       },
@@ -5314,7 +5408,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 247994,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5TuY7LoTVng1mXt9yDYbZt"
@@ -5704,7 +5798,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 180250,
       "name": "Murci\u00e9lagos",
       "url": "https://open.spotify.com/track/7iHa188lPGmeEjffPgjUAR"
@@ -5834,7 +5928,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -6314,7 +6408,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 318026,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/5sXaPKfsLeA99AuetE8xHU"
@@ -6426,6 +6520,24 @@
       "duration_ms": 326675,
       "name": "One Kiss",
       "url": "https://open.spotify.com/track/3kWHAGguRokBUY6H1EduIF"
+    },
+    {
+      "album": {
+        "name": "Heartwood",
+        "url": "https://open.spotify.com/album/3tEilxPa7GlJgSQa4MJUTF"
+      },
+      "artists": [
+        {
+          "name": "Iterum Nata",
+          "url": "https://open.spotify.com/artist/2haCAnM4Yi8B2lhUTT0rbY"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304336,
+      "name": "Only Ash and Bones Remain",
+      "url": "https://open.spotify.com/track/1Y8yynZorrHu39AjqJnEtX"
     },
     {
       "album": {
@@ -7040,7 +7152,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 197696,
       "name": "Psychosis",
       "url": "https://open.spotify.com/track/5m3IIhS42ekHuyc3acP3nE"
@@ -7610,7 +7722,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 164829,
       "name": "Shadows of Tomorrow",
       "url": "https://open.spotify.com/track/6QIGBSPAtC2Bg6Ccl72TZy"
@@ -7646,7 +7758,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 175710,
       "name": "She's a Monster",
       "url": "https://open.spotify.com/track/7o51VO13qSZu11iVoVZzPC"
@@ -7736,7 +7848,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 390967,
       "name": "Skyward Bound",
       "url": "https://open.spotify.com/track/5fcBPscU64w3Q0wb6nTfZJ"
@@ -7992,6 +8104,24 @@
       "duration_ms": 251145,
       "name": "Sorry (In Bloom)",
       "url": "https://open.spotify.com/track/1CRjLq6UtODERxslpPHI4O"
+    },
+    {
+      "album": {
+        "name": "South Side",
+        "url": "https://open.spotify.com/album/5vrNA47J7GqdR3zkigf86V"
+      },
+      "artists": [
+        {
+          "name": "weapons of self destruction",
+          "url": "https://open.spotify.com/artist/6dYAQRwebnAQ38F0lQQjn3"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205292,
+      "name": "South Side",
+      "url": "https://open.spotify.com/track/17AidWwlWRcboOiWTdTGCK"
     },
     {
       "album": {
@@ -9024,7 +9154,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 237176,
       "name": "The Party Is Over",
       "url": "https://open.spotify.com/track/5O69OUizv8L6SElL2O7bjx"
@@ -9197,6 +9327,24 @@
     },
     {
       "album": {
+        "name": "Hollow Grounds",
+        "url": "https://open.spotify.com/album/3SMTpVzCeuh1600NSII3LB"
+      },
+      "artists": [
+        {
+          "name": "Underground Fire",
+          "url": "https://open.spotify.com/artist/58aTWpcVPsrJiQqT4hjYjE"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239999,
+      "name": "The Watch",
+      "url": "https://open.spotify.com/track/6BRoDKsvlWjjPxS4cJ7ESG"
+    },
+    {
+      "album": {
         "name": "The Weight (Barn Tapes 04)",
         "url": "https://open.spotify.com/album/4MuEQ9MtPxY5MMTsd9D4D1"
       },
@@ -9288,7 +9436,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -9694,7 +9842,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 243972,
       "name": "Traitor",
       "url": "https://open.spotify.com/track/3cJOKprFvZUYXjJ4no3eoN"
@@ -10076,7 +10224,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 282985,
       "name": "Verschworen",
       "url": "https://open.spotify.com/track/71a4a9s2PKSlVuxNhJnx3K"

@@ -960,7 +960,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 213108,
       "name": "Betrayal",
       "url": "https://open.spotify.com/track/7dST6nUksQ5kUZaDejsAqy"
@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 240968,
       "name": "Bridgit",
       "url": "https://open.spotify.com/track/2SFezc3ZdEZ6sihka3olW9"
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 156980,
       "name": "Calling the Rain",
       "url": "https://open.spotify.com/track/2zixwyPGq4YuqVUuPbWEa8"
@@ -1680,7 +1680,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 206868,
       "name": "castleclash",
       "url": "https://open.spotify.com/track/0qoqBR8nLn28KQTBqQcgco"
@@ -3518,7 +3518,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 276372,
       "name": "Family",
       "url": "https://open.spotify.com/track/23Sm5nJOPTD0uXvVE7xu0H"
@@ -4622,7 +4622,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 214418,
       "name": "Hiding Place",
       "url": "https://open.spotify.com/track/0eOKiRhonvHAeMXepxwatB"
@@ -4766,7 +4766,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 237461,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/2aQbmLjNcus1EkFPoGH3VT"
@@ -5884,7 +5884,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 172500,
       "name": "Layers",
       "url": "https://open.spotify.com/track/2w68LiCEisB0exE4UxEer2"
@@ -7558,7 +7558,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 220800,
       "name": "Oz",
       "url": "https://open.spotify.com/track/2G93cGHMAzVBvrOLFrdU7t"
@@ -8570,7 +8570,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 207719,
       "name": "Save Me From Myself",
       "url": "https://open.spotify.com/track/6b33R3VZm5QjqiKZ91z0cy"
@@ -9885,6 +9885,24 @@
     },
     {
       "album": {
+        "name": "Ride A Cock Horse (Remix 2026)",
+        "url": "https://open.spotify.com/album/5B7bqnNoOr3Ls1wdiISCQ0"
+      },
+      "artists": [
+        {
+          "name": "Queenadreena",
+          "url": "https://open.spotify.com/artist/0zYVtVMZPpfEaupL6jn0Zi"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208351,
+      "name": "Swim Into Me",
+      "url": "https://open.spotify.com/track/1Sh33oJF4jiNznWoS8eLeU"
+    },
+    {
+      "album": {
         "name": "Sword Like Me",
         "url": "https://open.spotify.com/album/54LK7epZ8u3VGNZcuijBuc"
       },
@@ -10414,6 +10432,24 @@
       "duration_ms": 208703,
       "name": "The Long Drive",
       "url": "https://open.spotify.com/track/0ViZJbt9VJiWMX6WDFIJsb"
+    },
+    {
+      "album": {
+        "name": "The Low",
+        "url": "https://open.spotify.com/album/20EBmW8UCDJ7VBCKCP4Bzx"
+      },
+      "artists": [
+        {
+          "name": "BERGET",
+          "url": "https://open.spotify.com/artist/5UUGn25tV0AesjkUV8wET4"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198504,
+      "name": "The low",
+      "url": "https://open.spotify.com/track/6plhzudEeMjal1cTj1MqaV"
     },
     {
       "album": {
@@ -11308,7 +11344,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 220081,
       "name": "Two People Running in the Rain",
       "url": "https://open.spotify.com/track/1UmiXfiSbQW6w8q0fbl3ps"
@@ -11996,6 +12032,24 @@
       "duration_ms": 171000,
       "name": "When You're Down",
       "url": "https://open.spotify.com/track/35eCarWbCxKpJD3im0JO65"
+    },
+    {
+      "album": {
+        "name": "Under My Umbrella",
+        "url": "https://open.spotify.com/album/35lW7IIDnvDaM2YDD7172M"
+      },
+      "artists": [
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "Where Is My Head",
+      "url": "https://open.spotify.com/track/7iPS23vxN3mgUyjXsPFfcM"
     },
     {
       "album": {

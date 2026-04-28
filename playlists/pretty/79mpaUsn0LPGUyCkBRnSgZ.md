@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 716 songs - 1 day 22 hr 29 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 715 songs - 1 day 22 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -717,12 +717,11 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 707 | [Air on a G String](https://open.spotify.com/track/5MV7OsDQMZGHDrdWnHim7O) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk](https://open.spotify.com/album/4Ru8u9idKX3t67U7xCf5QA) | 3:01 |
 | 708 | [Manifesto](https://open.spotify.com/track/5i2859ZJXGPOzDwdZSOMiH) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Manifesto](https://open.spotify.com/album/1LDD2nUQ17tm1WMchsevtp) | 5:29 |
 | 709 | [Light My Dart Up](https://open.spotify.com/track/367GA7wOCuScxnLH5SlAup) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Rainbow Valley](https://open.spotify.com/album/5k2ppB8SwrTTFyHUoqRzBW) | 3:59 |
-| 710 | [Dope Shit \(feat\. Maha Adachi Earth\)](https://open.spotify.com/track/2IkbYmNCtfC6tB1u6nd5Dn) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [Maha Adachi Earth](https://open.spotify.com/artist/5u0TvqNcTEFIhZq2iRkHrj) | [To Whom This May Concern](https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG) | 0:55 |
-| 711 | [Sevastopol](https://open.spotify.com/track/52wrDCbeWsiPwv8n5qatD1) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [URGH](https://open.spotify.com/album/2W2pytiTdjR0VArgmbQD3M) | 2:22 |
-| 712 | [Tilt](https://open.spotify.com/track/0ZV0aqU5aMLDDyAqfPf3dU) | [Free Range](https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP) | [Lost & Found](https://open.spotify.com/album/3vnvvODpAWJFZiQWjzeLyU) | 2:39 |
-| 713 | [back in action](https://open.spotify.com/track/7eFOG2217U6ooGeEv0fJ7e) | [Stickerbush](https://open.spotify.com/artist/2wMCljuDDzLrEjYCk10P7B), [heavensouls](https://open.spotify.com/artist/4H5ErCSnjrZpJYcwiJobCR) | [Darkskin Niggas with Lightskin Problems](https://open.spotify.com/album/64YHSa0VHmG7Mb2oONXYKB) | 4:46 |
-| 714 | [CIRCLE](https://open.spotify.com/track/1KDlkUvgWmRHe2E5DV9SCW) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [The Doober](https://open.spotify.com/album/0UpgnNkIkta5tDr8l8NQIS) | 1:41 |
-| 715 | [Bishop](https://open.spotify.com/track/2rokzbolW3350YqYejvmgV) | [Anna Butterss](https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA) | [Mighty Vertebrate](https://open.spotify.com/album/0lnAG8yZcln85SGhVzy9ru) | 3:14 |
-| 716 | [Guess](https://open.spotify.com/track/3u0CuoVA8qsqnRFrN6grPi) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Something Worth Waiting For](https://open.spotify.com/album/188WRkngMxrMTVmeWKp3yG) | 3:46 |
+| 710 | [Sevastopol](https://open.spotify.com/track/52wrDCbeWsiPwv8n5qatD1) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [URGH](https://open.spotify.com/album/2W2pytiTdjR0VArgmbQD3M) | 2:22 |
+| 711 | [Tilt](https://open.spotify.com/track/0ZV0aqU5aMLDDyAqfPf3dU) | [Free Range](https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP) | [Lost & Found](https://open.spotify.com/album/3vnvvODpAWJFZiQWjzeLyU) | 2:39 |
+| 712 | [back in action](https://open.spotify.com/track/7eFOG2217U6ooGeEv0fJ7e) | [Stickerbush](https://open.spotify.com/artist/2wMCljuDDzLrEjYCk10P7B), [heavensouls](https://open.spotify.com/artist/4H5ErCSnjrZpJYcwiJobCR) | [Darkskin Niggas with Lightskin Problems](https://open.spotify.com/album/64YHSa0VHmG7Mb2oONXYKB) | 4:46 |
+| 713 | [CIRCLE](https://open.spotify.com/track/1KDlkUvgWmRHe2E5DV9SCW) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [The Doober](https://open.spotify.com/album/0UpgnNkIkta5tDr8l8NQIS) | 1:41 |
+| 714 | [Bishop](https://open.spotify.com/track/2rokzbolW3350YqYejvmgV) | [Anna Butterss](https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA) | [Mighty Vertebrate](https://open.spotify.com/album/0lnAG8yZcln85SGhVzy9ru) | 3:14 |
+| 715 | [Guess](https://open.spotify.com/track/3u0CuoVA8qsqnRFrN6grPi) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Something Worth Waiting For](https://open.spotify.com/album/188WRkngMxrMTVmeWKp3yG) | 3:46 |
 
-Snapshot ID: `AAAI+7NI90ON3Ubt6bYzHwgz+aJlGfnq`
+Snapshot ID: `AAAI/H/rsIU+SCGgOR9MAVaxhWAsd93j`

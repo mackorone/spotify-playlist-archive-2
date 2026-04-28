@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1317,
+  "num_followers": 1319,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAOddfdy4V9u9ZqQ4bW1cdf2RYja2X7",
+  "snapshot_id": "AAAOfaNQYtulcjNKHEm9V94v5AHlvCwd",
   "tracks": [
     {
       "added_at": "2026-04-23 04:57:04",
@@ -159,6 +159,90 @@
       "duration_ms": 185777,
       "name": "Can't Get You Out of My Head - Audio Pulleys Remix",
       "url": "https://open.spotify.com/track/0TizK9mGVoFiRebj7JP3AP"
+    },
+    {
+      "added_at": "2026-04-27 14:30:17",
+      "album": {
+        "name": "TIED UP",
+        "url": "https://open.spotify.com/album/3gdD2lLCx8X0K1p3O6SYuZ"
+      },
+      "artists": [
+        {
+          "name": "Yugs",
+          "url": "https://open.spotify.com/artist/4GjfiH7lIFZp0X5SF3LbEP"
+        },
+        {
+          "name": "sunstoney",
+          "url": "https://open.spotify.com/artist/3oLuCerqscBRek7Nw9mpqL"
+        }
+      ],
+      "duration_ms": 179750,
+      "name": "TIED UP",
+      "url": "https://open.spotify.com/track/3tggEoSWUYosNCUFeLkGNX"
+    },
+    {
+      "added_at": "2026-04-27 11:52:39",
+      "album": {
+        "name": "Thanks, No Thanks",
+        "url": "https://open.spotify.com/album/1yEnpouH7Cdls9ya1GTApB"
+      },
+      "artists": [
+        {
+          "name": "Stella Marris",
+          "url": "https://open.spotify.com/artist/7fShwUYcErNtrfzEYB2fgE"
+        }
+      ],
+      "duration_ms": 197441,
+      "name": "Thanks, No Thanks",
+      "url": "https://open.spotify.com/track/3r4fD8lzm7neojLh9ApuDV"
+    },
+    {
+      "added_at": "2026-04-27 11:37:13",
+      "album": {
+        "name": "Key Party",
+        "url": "https://open.spotify.com/album/0dnniXOobUtK6Sw9svjohq"
+      },
+      "artists": [
+        {
+          "name": "R. Snider",
+          "url": "https://open.spotify.com/artist/6owVK8Lb6IJZSgrRN8WCpi"
+        }
+      ],
+      "duration_ms": 113877,
+      "name": "Key Party",
+      "url": "https://open.spotify.com/track/2CsR8tQz9Q5h8ZwonYOumE"
+    },
+    {
+      "added_at": "2026-04-27 11:31:59",
+      "album": {
+        "name": "Country Star",
+        "url": "https://open.spotify.com/album/760N7gCiK7WHeZnHL6Msnr"
+      },
+      "artists": [
+        {
+          "name": "L.I.P.S.",
+          "url": "https://open.spotify.com/artist/4KqtkNTJJRT6jlitwTwFVC"
+        }
+      ],
+      "duration_ms": 84000,
+      "name": "Country Star",
+      "url": "https://open.spotify.com/track/1dR2pQ9BKMTzSGlThqVVfU"
+    },
+    {
+      "added_at": "2026-04-27 11:15:29",
+      "album": {
+        "name": "Just Drive",
+        "url": "https://open.spotify.com/album/1ultJea91tVVf3uvqlavuG"
+      },
+      "artists": [
+        {
+          "name": "For What You Burn",
+          "url": "https://open.spotify.com/artist/4QvZTSqwTEZ0YQZuOPOKI6"
+        }
+      ],
+      "duration_ms": 193598,
+      "name": "Just Drive",
+      "url": "https://open.spotify.com/track/4aFaTYrhZyh7CKEpl2VfAu"
     },
     {
       "added_at": "2026-04-25 10:40:36",
@@ -1947,22 +2031,6 @@
       "duration_ms": 246383,
       "name": "30 Stories High",
       "url": "https://open.spotify.com/track/6fRvoLH2vKg4Ti4S02Z242"
-    },
-    {
-      "added_at": "2026-03-27 06:13:35",
-      "album": {
-        "name": "Gardenia",
-        "url": "https://open.spotify.com/album/3kk1h4CujwsYtyzdFOUnlB"
-      },
-      "artists": [
-        {
-          "name": "Gardenia",
-          "url": "https://open.spotify.com/artist/6CfgSJflgY2ETbB1RqH3ry"
-        }
-      ],
-      "duration_ms": 212301,
-      "name": "Magazines",
-      "url": "https://open.spotify.com/track/6RERmuoi4zQ42gm5M7pSvC"
     },
     {
       "added_at": "2025-08-03 07:15:47",
@@ -4659,6 +4727,22 @@
       "duration_ms": 162508,
       "name": "Got What You Wanted",
       "url": "https://open.spotify.com/track/3ror7WRrkgwHorcSy4n8v9"
+    },
+    {
+      "added_at": "2026-04-27 14:22:31",
+      "album": {
+        "name": "No Clip",
+        "url": "https://open.spotify.com/album/41UousURaAFq50JCLTTQdr"
+      },
+      "artists": [
+        {
+          "name": "Perilist",
+          "url": "https://open.spotify.com/artist/3OVG2M8SfR4g4NzUUQVEYu"
+        }
+      ],
+      "duration_ms": 339305,
+      "name": "No Clip",
+      "url": "https://open.spotify.com/track/13P6rlAj1n7P2J1aIyTZkB"
     }
   ],
   "unique_name": "Shuffle Roulette",

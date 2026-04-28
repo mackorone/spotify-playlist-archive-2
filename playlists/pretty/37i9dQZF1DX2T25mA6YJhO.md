@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Parquesvr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,895 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,897 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 16 | [Ahora lo entiendo](https://open.spotify.com/track/02bgvNU1qzfzKhDklJsyQm) | [Amor Líquido](https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc) | [Ahora lo entiendo](https://open.spotify.com/album/3R3eZWaVZDltaDsA2krR5g) | 2:22 |
 | 17 | [DEPRIMIDA PERO ALTERNATIVA](https://open.spotify.com/track/52zFhF23fcJ9nOsPTufKtg) | [TRONKAS!](https://open.spotify.com/artist/1L0Cp9n72dvWPY66JC0dmt) | [DEPRIMIDA PERO ALTERNATIVA](https://open.spotify.com/album/0heEVcwGbnziEE8tkMLbaC) | 2:49 |
 | 18 | [Culito](https://open.spotify.com/track/4eAsXihXH5D8P6P8dGVhmV) | [Emilia, Pardo y Bazán](https://open.spotify.com/artist/3Wu21kxlNyuHhyGbCndp7j) | [Culito](https://open.spotify.com/album/6Q0EC7euoemxVcubjbQdQV) | 3:12 |
-| 19 | [CUANDO TODO VAYA MAL](https://open.spotify.com/track/42JC9Y8yRZHNkEOqLqbRgk) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [CUANDO TODO VAYA MAL](https://open.spotify.com/album/2UNgIEHiwB0cfn2XskIwUR) | 4:32 |
+| 19 | [Cuando todo vaya mal](https://open.spotify.com/track/42JC9Y8yRZHNkEOqLqbRgk) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Cuando todo vaya mal](https://open.spotify.com/album/2UNgIEHiwB0cfn2XskIwUR) | 4:32 |
 | 20 | [AHORRO DE ENERGÍA](https://open.spotify.com/track/1d675JRJcYCu7w6kS4lc9w) | [TRONKAS!](https://open.spotify.com/artist/1L0Cp9n72dvWPY66JC0dmt) | [MUJERES AL BORDE DE UN ATAQUE DE TERCIOS](https://open.spotify.com/album/3i6kjslXu7JRs7ZQqcqE5C) | 2:54 |
 | 21 | [primera clase](https://open.spotify.com/track/4cg2lesjwza3wlwxF7r8eI) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g), [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [primera clase](https://open.spotify.com/album/6SiEcSRLpI7eWaYCzRnZx1) | 3:01 |
 | 22 | [Historias que contar](https://open.spotify.com/track/3taryJdWZSn8ucmFyqHlvR) | [rumbos](https://open.spotify.com/artist/7qNftOu0DUIDh1Gd6Gy8LQ) | [Historias que contar](https://open.spotify.com/album/0RJ13jWwbQkYByaYGIIYBv) | 3:29 |

@@ -791,6 +791,28 @@
     },
     {
       "album": {
+        "name": "Crash Landing",
+        "url": "https://open.spotify.com/album/33K82KXEzVkNyqCg8FzWUZ"
+      },
+      "artists": [
+        {
+          "name": "U-Jeen",
+          "url": "https://open.spotify.com/artist/0AFOtwiZNKRKPx7WlDXUWJ"
+        },
+        {
+          "name": "B_SAN",
+          "url": "https://open.spotify.com/artist/2r6UST0wWH7RdRqLqUvm8b"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203876,
+      "name": "Crash Landing",
+      "url": "https://open.spotify.com/track/4jxy5teSqBWmOFqrPH1VPi"
+    },
+    {
+      "album": {
         "name": "Cry (Just A Little)",
         "url": "https://open.spotify.com/album/3XnwQ88D5UqWNYXpRQw5ji"
       },
@@ -2176,6 +2198,28 @@
       "duration_ms": 290625,
       "name": "Illithid's March",
       "url": "https://open.spotify.com/track/7vsrgJA2nB9x0jM0SlHX9D"
+    },
+    {
+      "album": {
+        "name": "In Another Light",
+        "url": "https://open.spotify.com/album/38xFiPSAVfRG5FWUtURUUH"
+      },
+      "artists": [
+        {
+          "name": "Leon Lour",
+          "url": "https://open.spotify.com/artist/0nNnD1oc02hebmFdcJkyXw"
+        },
+        {
+          "name": "Madelynn",
+          "url": "https://open.spotify.com/artist/24rKWXYhCkelENiRspKoeb"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199687,
+      "name": "In Another Light",
+      "url": "https://open.spotify.com/track/6AylbWRKRh27HZHm3Cb2DT"
     },
     {
       "album": {

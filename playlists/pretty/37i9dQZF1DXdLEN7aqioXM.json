@@ -1,6 +1,6 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
-  "num_followers": 1097108,
+  "num_followers": 1097147,
   "original_name": "Retrowave // Outrun",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
+        "name": "Space Waves",
+        "url": "https://open.spotify.com/album/7zuSBEmYo1iPEdQkyZEroD"
+      },
+      "artists": [
+        {
+          "name": "Ben Elson",
+          "url": "https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa"
+        }
+      ],
+      "duration_ms": 168336,
+      "name": "UNIX 82",
+      "url": "https://open.spotify.com/track/2sMHHYFv6nOLVhQO5RKRpL"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
         "name": "A Sea of Stars (Miami Nights 1984 Remix)",
         "url": "https://open.spotify.com/album/7bnXNCT9BhCqYra8IT8OWq"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 211200,
       "name": "A Sea of Stars (Miami Nights 1984 Remix)",
       "url": "https://open.spotify.com/track/68GKHn1VXyM8RHG1rm4Ov1"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
-        "name": "Space Waves",
-        "url": "https://open.spotify.com/album/7zuSBEmYo1iPEdQkyZEroD"
-      },
-      "artists": [
-        {
-          "name": "Ben Elson",
-          "url": "https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa"
-        }
-      ],
-      "duration_ms": 168336,
-      "name": "UNIX 82",
-      "url": "https://open.spotify.com/track/2sMHHYFv6nOLVhQO5RKRpL"
     },
     {
       "added_at": "2025-12-09 19:15:38",
@@ -699,38 +699,6 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
-        "name": "2078",
-        "url": "https://open.spotify.com/album/2PvrElU6qbxUnA8Msn44IP"
-      },
-      "artists": [
-        {
-          "name": "Wice",
-          "url": "https://open.spotify.com/artist/3pPHLLecNGUHm0dqmJ6BRD"
-        }
-      ],
-      "duration_ms": 196487,
-      "name": "2078",
-      "url": "https://open.spotify.com/track/2zB4Vl40iS0FEnh87JAl1p"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
-        "name": "Dead Girls Don't Dance",
-        "url": "https://open.spotify.com/album/5tyDEynnOrGAnP1XlzuZPR"
-      },
-      "artists": [
-        {
-          "name": "Nightstop",
-          "url": "https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij"
-        }
-      ],
-      "duration_ms": 176248,
-      "name": "A Promise to Die",
-      "url": "https://open.spotify.com/track/3IfWaFt0d01TPU3dsy5Yw9"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1x7e6XjzMelvkqSJVMkQve"
       },
@@ -751,6 +719,38 @@
       "duration_ms": 299239,
       "name": "Closer",
       "url": "https://open.spotify.com/track/6pB59ef67FGX7zALUxATo4"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
+        "name": "Dead Girls Don't Dance",
+        "url": "https://open.spotify.com/album/5tyDEynnOrGAnP1XlzuZPR"
+      },
+      "artists": [
+        {
+          "name": "Nightstop",
+          "url": "https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij"
+        }
+      ],
+      "duration_ms": 176248,
+      "name": "A Promise to Die",
+      "url": "https://open.spotify.com/track/3IfWaFt0d01TPU3dsy5Yw9"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
+        "name": "2078",
+        "url": "https://open.spotify.com/album/2PvrElU6qbxUnA8Msn44IP"
+      },
+      "artists": [
+        {
+          "name": "Wice",
+          "url": "https://open.spotify.com/artist/3pPHLLecNGUHm0dqmJ6BRD"
+        }
+      ],
+      "duration_ms": 196487,
+      "name": "2078",
+      "url": "https://open.spotify.com/track/2zB4Vl40iS0FEnh87JAl1p"
     },
     {
       "added_at": "2025-12-09 19:15:38",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
+        "name": "Love on a Real Train",
+        "url": "https://open.spotify.com/album/15SKhD1mm3wnBltcNq1w1c"
+      },
+      "artists": [
+        {
+          "name": "Earmake",
+          "url": "https://open.spotify.com/artist/03wVieMf0FnJdDsHNVArlC"
+        }
+      ],
+      "duration_ms": 309817,
+      "name": "Love on a Real Train",
+      "url": "https://open.spotify.com/track/0BVnj2LR0fptLTOgKh63VV"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
         "name": "Out of Luck",
         "url": "https://open.spotify.com/album/6Ml0baIxoldVxxhRHILocv"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 181565,
       "name": "Out of Luck - Instrumental",
       "url": "https://open.spotify.com/track/6SjnM6fA2ZEVlaQzK04Tll"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
-        "name": "Love on a Real Train",
-        "url": "https://open.spotify.com/album/15SKhD1mm3wnBltcNq1w1c"
-      },
-      "artists": [
-        {
-          "name": "Earmake",
-          "url": "https://open.spotify.com/artist/03wVieMf0FnJdDsHNVArlC"
-        }
-      ],
-      "duration_ms": 309817,
-      "name": "Love on a Real Train",
-      "url": "https://open.spotify.com/track/0BVnj2LR0fptLTOgKh63VV"
     },
     {
       "added_at": "2025-12-09 19:15:38",
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
+        "name": "Midnight Rush",
+        "url": "https://open.spotify.com/album/2wATmdWSUWmfmPm1UxV72u"
+      },
+      "artists": [
+        {
+          "name": "Midnight Fury",
+          "url": "https://open.spotify.com/artist/7KtT9HksuZwyjNyarlG9CF"
+        }
+      ],
+      "duration_ms": 227478,
+      "name": "Midnight Rush",
+      "url": "https://open.spotify.com/track/3kJ3TGvlcGuTurW61yozSk"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/06xszmQDKX7RjtOt5Xq4Kv"
       },
@@ -919,18 +935,18 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
-        "name": "Midnight Rush",
-        "url": "https://open.spotify.com/album/2wATmdWSUWmfmPm1UxV72u"
+        "name": "Aether",
+        "url": "https://open.spotify.com/album/0ZoaBcqN3rGRFgMa2zwseP"
       },
       "artists": [
         {
-          "name": "Midnight Fury",
-          "url": "https://open.spotify.com/artist/7KtT9HksuZwyjNyarlG9CF"
+          "name": "Downtown Binary",
+          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
         }
       ],
-      "duration_ms": 227478,
-      "name": "Midnight Rush",
-      "url": "https://open.spotify.com/track/3kJ3TGvlcGuTurW61yozSk"
+      "duration_ms": 258941,
+      "name": "Aether",
+      "url": "https://open.spotify.com/track/5o9xd68vUYLlzlwj0GNYUP"
     },
     {
       "added_at": "2025-12-09 19:15:38",
@@ -955,22 +971,6 @@
       "duration_ms": 151991,
       "name": "hypercaste",
       "url": "https://open.spotify.com/track/7wSL7kdK3yXGOf9NDixcYb"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
-        "name": "Aether",
-        "url": "https://open.spotify.com/album/0ZoaBcqN3rGRFgMa2zwseP"
-      },
-      "artists": [
-        {
-          "name": "Downtown Binary",
-          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
-        }
-      ],
-      "duration_ms": 258941,
-      "name": "Aether",
-      "url": "https://open.spotify.com/track/5o9xd68vUYLlzlwj0GNYUP"
     },
     {
       "added_at": "2025-12-09 19:15:38",
@@ -1151,30 +1151,6 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
-        "name": "We Find Ourselves",
-        "url": "https://open.spotify.com/album/3dS5r7ExDztGYhuZMJ1SLJ"
-      },
-      "artists": [
-        {
-          "name": "JODA",
-          "url": "https://open.spotify.com/artist/5KS3RbR9m98HkNQzJy7dZJ"
-        },
-        {
-          "name": "Jono Grant",
-          "url": "https://open.spotify.com/artist/3Cs2Bm3Qwc9It4om0KVK8E"
-        },
-        {
-          "name": "Darren Tate",
-          "url": "https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI"
-        }
-      ],
-      "duration_ms": 219609,
-      "name": "We Find Ourselves - Edit",
-      "url": "https://open.spotify.com/track/2AXZRDQz6fC6KthbMytyi5"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
         "name": "Floating Point",
         "url": "https://open.spotify.com/album/5wjAYZF4Qns8OBlycPcccu"
       },
@@ -1211,6 +1187,30 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
+        "name": "We Find Ourselves",
+        "url": "https://open.spotify.com/album/3dS5r7ExDztGYhuZMJ1SLJ"
+      },
+      "artists": [
+        {
+          "name": "JODA",
+          "url": "https://open.spotify.com/artist/5KS3RbR9m98HkNQzJy7dZJ"
+        },
+        {
+          "name": "Jono Grant",
+          "url": "https://open.spotify.com/artist/3Cs2Bm3Qwc9It4om0KVK8E"
+        },
+        {
+          "name": "Darren Tate",
+          "url": "https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI"
+        }
+      ],
+      "duration_ms": 219609,
+      "name": "We Find Ourselves - Edit",
+      "url": "https://open.spotify.com/track/2AXZRDQz6fC6KthbMytyi5"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
         "name": "Shift",
         "url": "https://open.spotify.com/album/6GmUprnsv6t2ASxGndTjJ0"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 218666,
       "name": "Shift",
       "url": "https://open.spotify.com/track/0aBLmDTJtueByhtIZGBQWs"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
+        "name": "Ghost Conductor",
+        "url": "https://open.spotify.com/album/2xID96OgNoS354m8TxRpha"
+      },
+      "artists": [
+        {
+          "name": "Cassetter",
+          "url": "https://open.spotify.com/artist/6rzOP8pWzUuXlniCGCtrcE"
+        }
+      ],
+      "duration_ms": 230062,
+      "name": "Ghost Conductor",
+      "url": "https://open.spotify.com/track/6HmNnpw6jJM0kh4L3JLBXc"
     },
     {
       "added_at": "2025-12-09 19:15:38",
@@ -1255,22 +1271,6 @@
       "duration_ms": 301687,
       "name": "Above The Clouds",
       "url": "https://open.spotify.com/track/3AGsnf8fjX4vBsIybP3B8T"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
-        "name": "Ghost Conductor",
-        "url": "https://open.spotify.com/album/2xID96OgNoS354m8TxRpha"
-      },
-      "artists": [
-        {
-          "name": "Cassetter",
-          "url": "https://open.spotify.com/artist/6rzOP8pWzUuXlniCGCtrcE"
-        }
-      ],
-      "duration_ms": 230062,
-      "name": "Ghost Conductor",
-      "url": "https://open.spotify.com/track/6HmNnpw6jJM0kh4L3JLBXc"
     },
     {
       "added_at": "2025-12-09 19:15:38",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
+        "name": "Eleos",
+        "url": "https://open.spotify.com/album/1Z9YCKYva9IFskRxQMlgug"
+      },
+      "artists": [
+        {
+          "name": "Turbo Knight",
+          "url": "https://open.spotify.com/artist/7hsyLArBqyxYqQF2ODoT3c"
+        },
+        {
+          "name": "Edictum",
+          "url": "https://open.spotify.com/artist/11e1I6BUAcdUOAf7AJUXWd"
+        }
+      ],
+      "duration_ms": 394999,
+      "name": "Eleos",
+      "url": "https://open.spotify.com/track/0sW1K1i07EJfLn3FG4MG2k"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
         "name": "Fractal Forms",
         "url": "https://open.spotify.com/album/7yhSFo6FnhnmWjjJc98do6"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 235862,
       "name": "Fractal Forms",
       "url": "https://open.spotify.com/track/63ad26ATXX70Ra2GxCPvvx"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
-        "name": "Eleos",
-        "url": "https://open.spotify.com/album/1Z9YCKYva9IFskRxQMlgug"
-      },
-      "artists": [
-        {
-          "name": "Turbo Knight",
-          "url": "https://open.spotify.com/artist/7hsyLArBqyxYqQF2ODoT3c"
-        },
-        {
-          "name": "Edictum",
-          "url": "https://open.spotify.com/artist/11e1I6BUAcdUOAf7AJUXWd"
-        }
-      ],
-      "duration_ms": 394999,
-      "name": "Eleos",
-      "url": "https://open.spotify.com/track/0sW1K1i07EJfLn3FG4MG2k"
     },
     {
       "added_at": "2025-12-09 19:15:38",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
-        "name": "Machine Wired",
-        "url": "https://open.spotify.com/album/2XsHVM7MSv7Y65A0ktwpx4"
-      },
-      "artists": [
-        {
-          "name": "SelloRekt / LA Dreams",
-          "url": "https://open.spotify.com/artist/5I4GhQs6SMqW1aqvrtqFoa"
-        }
-      ],
-      "duration_ms": 243348,
-      "name": "Modern Touch",
-      "url": "https://open.spotify.com/track/7Ig8Rh7hEFdtkJmwMwBx55"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
         "name": "Teenage Dreams",
         "url": "https://open.spotify.com/album/5kXBWACLETvBqSSAPJk66T"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 208032,
       "name": "Teenage Dreams",
       "url": "https://open.spotify.com/track/5ieAZzAyXwaSnleRQgfz4z"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
+        "name": "Machine Wired",
+        "url": "https://open.spotify.com/album/2XsHVM7MSv7Y65A0ktwpx4"
+      },
+      "artists": [
+        {
+          "name": "SelloRekt / LA Dreams",
+          "url": "https://open.spotify.com/artist/5I4GhQs6SMqW1aqvrtqFoa"
+        }
+      ],
+      "duration_ms": 243348,
+      "name": "Modern Touch",
+      "url": "https://open.spotify.com/track/7Ig8Rh7hEFdtkJmwMwBx55"
     },
     {
       "added_at": "2025-12-09 19:15:38",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
-        "name": "F-zero",
-        "url": "https://open.spotify.com/album/4Ik5Q8sbb68GCKannWHxK1"
-      },
-      "artists": [
-        {
-          "name": "Mark Dee",
-          "url": "https://open.spotify.com/artist/0TxRxR3PKi6EeBqKa4mW2z"
-        }
-      ],
-      "duration_ms": 264827,
-      "name": "F-zero",
-      "url": "https://open.spotify.com/track/3wIPZzVdlQRJ7eToQqEEq6"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
         "name": "End",
         "url": "https://open.spotify.com/album/3Mk2cAyTC12pgzNtBXPPFq"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 180559,
       "name": "End",
       "url": "https://open.spotify.com/track/6A7iBgMQ0MEeJvn5q1mQe0"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
+        "name": "F-zero",
+        "url": "https://open.spotify.com/album/4Ik5Q8sbb68GCKannWHxK1"
+      },
+      "artists": [
+        {
+          "name": "Mark Dee",
+          "url": "https://open.spotify.com/artist/0TxRxR3PKi6EeBqKa4mW2z"
+        }
+      ],
+      "duration_ms": 264827,
+      "name": "F-zero",
+      "url": "https://open.spotify.com/track/3wIPZzVdlQRJ7eToQqEEq6"
     },
     {
       "added_at": "2025-12-09 19:15:38",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
-        "name": "Timewarp",
-        "url": "https://open.spotify.com/album/46yAHb7Pxl8S1jJh2m3r7C"
-      },
-      "artists": [
-        {
-          "name": "Rogue VHS",
-          "url": "https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5"
-        }
-      ],
-      "duration_ms": 247431,
-      "name": "Timewarp",
-      "url": "https://open.spotify.com/track/5pLEtE1TftgsWoDsY99ThL"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
         "name": "Power Light",
         "url": "https://open.spotify.com/album/4rCh8RUK2Me7KY7y6zafQg"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 261614,
       "name": "Power Light",
       "url": "https://open.spotify.com/track/2jyAfwmsqF6wynsf70zIUQ"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
+        "name": "Timewarp",
+        "url": "https://open.spotify.com/album/46yAHb7Pxl8S1jJh2m3r7C"
+      },
+      "artists": [
+        {
+          "name": "Rogue VHS",
+          "url": "https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5"
+        }
+      ],
+      "duration_ms": 247431,
+      "name": "Timewarp",
+      "url": "https://open.spotify.com/track/5pLEtE1TftgsWoDsY99ThL"
     },
     {
       "added_at": "2025-12-09 19:15:38",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
-        "name": "Memorie",
-        "url": "https://open.spotify.com/album/1EK85nz4MUvwAfQLAKvWOO"
-      },
-      "artists": [
-        {
-          "name": "Baldocaster",
-          "url": "https://open.spotify.com/artist/20e5120PlAttn4jofcH9uB"
-        }
-      ],
-      "duration_ms": 206593,
-      "name": "Persona",
-      "url": "https://open.spotify.com/track/1HXJiwsbj0afbCvmIZFCkE"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
         "name": "Synthtopia",
         "url": "https://open.spotify.com/album/69Iu2ZoWLdduBcOFmzi5Dc"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 160027,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/1UxbCY5cw2q3SM7N889OHs"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
+        "name": "Memorie",
+        "url": "https://open.spotify.com/album/1EK85nz4MUvwAfQLAKvWOO"
+      },
+      "artists": [
+        {
+          "name": "Baldocaster",
+          "url": "https://open.spotify.com/artist/20e5120PlAttn4jofcH9uB"
+        }
+      ],
+      "duration_ms": 206593,
+      "name": "Persona",
+      "url": "https://open.spotify.com/track/1HXJiwsbj0afbCvmIZFCkE"
     },
     {
       "added_at": "2025-12-09 19:15:38",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
-        "name": "Timeshift / Cronos",
-        "url": "https://open.spotify.com/album/3JGT90YgRLb62wTGhN4EOk"
-      },
-      "artists": [
-        {
-          "name": "Pfeffermouse",
-          "url": "https://open.spotify.com/artist/1Q9UujPcQ1fPaj6xnNI28q"
-        }
-      ],
-      "duration_ms": 313034,
-      "name": "Timeshift",
-      "url": "https://open.spotify.com/track/2ZEOISOM5pxvClnCtAKQCQ"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
         "name": "Missense",
         "url": "https://open.spotify.com/album/5bIiP1fm9HipstrA6ZK56u"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 207920,
       "name": "Missense",
       "url": "https://open.spotify.com/track/2MFdVPnEWRjXQIY96VgiGn"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
+        "name": "Timeshift / Cronos",
+        "url": "https://open.spotify.com/album/3JGT90YgRLb62wTGhN4EOk"
+      },
+      "artists": [
+        {
+          "name": "Pfeffermouse",
+          "url": "https://open.spotify.com/artist/1Q9UujPcQ1fPaj6xnNI28q"
+        }
+      ],
+      "duration_ms": 313034,
+      "name": "Timeshift",
+      "url": "https://open.spotify.com/track/2ZEOISOM5pxvClnCtAKQCQ"
     },
     {
       "added_at": "2025-12-09 19:15:38",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
-        "name": "Tan Lines and Fizzy Wine",
-        "url": "https://open.spotify.com/album/0hUVC3smHare27tVcN270U"
-      },
-      "artists": [
-        {
-          "name": "RSS Disco",
-          "url": "https://open.spotify.com/artist/2sgfNG93dC6iGZK8weLmtp"
-        }
-      ],
-      "duration_ms": 406704,
-      "name": "Tan Lines And Fizzy Wine",
-      "url": "https://open.spotify.com/track/30ymNUw28IrHmVGv4anY9G"
-    },
-    {
-      "added_at": "2025-12-09 19:15:38",
-      "album": {
         "name": "Far",
         "url": "https://open.spotify.com/album/4EUv4vgiwW4DxuvmLQqNnj"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 247417,
       "name": "Far",
       "url": "https://open.spotify.com/track/3B3HvJPPzoc2YUeq3TAPeO"
+    },
+    {
+      "added_at": "2025-12-09 19:15:38",
+      "album": {
+        "name": "Tan Lines and Fizzy Wine",
+        "url": "https://open.spotify.com/album/0hUVC3smHare27tVcN270U"
+      },
+      "artists": [
+        {
+          "name": "RSS Disco",
+          "url": "https://open.spotify.com/artist/2sgfNG93dC6iGZK8weLmtp"
+        }
+      ],
+      "duration_ms": 406704,
+      "name": "Tan Lines And Fizzy Wine",
+      "url": "https://open.spotify.com/track/30ymNUw28IrHmVGv4anY9G"
     },
     {
       "added_at": "2025-12-09 19:15:38",
@@ -2659,18 +2659,26 @@
     {
       "added_at": "2025-12-09 19:15:38",
       "album": {
-        "name": "Lost in the Cloud",
-        "url": "https://open.spotify.com/album/3Y71j9EecKvuSiU4zfmJhx"
+        "name": "Storm In A Teacup",
+        "url": "https://open.spotify.com/album/72nDsOVvnBjTeWLNBDDIBs"
       },
       "artists": [
         {
-          "name": "Waveshaper",
-          "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
+          "name": "BOP",
+          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
+        },
+        {
+          "name": "Subwave",
+          "url": "https://open.spotify.com/artist/19UDaks6aMVPdEp8qhO4T9"
+        },
+        {
+          "name": "Isaac Howlett",
+          "url": "https://open.spotify.com/artist/5o7ehDTnABXbhjnIbM2J6r"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Lost in the Cloud",
-      "url": "https://open.spotify.com/track/40JOgWqmM7B3RX76psrb8N"
+      "duration_ms": 268052,
+      "name": "Storm In A Teacup",
+      "url": "https://open.spotify.com/track/19URZSnu6hXOGLQ89dWMnY"
     }
   ],
   "unique_name": "Retrowave // Outrun",

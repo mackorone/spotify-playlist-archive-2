@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Sabaton\n",
-  "num_followers": 821306,
+  "num_followers": 821338,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -647,18 +647,18 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "A Thousand Anemones",
-        "url": "https://open.spotify.com/album/7LBjy0QhBtwr65cxFfo6JJ"
+        "name": "Sinners of the Seven Seas",
+        "url": "https://open.spotify.com/album/1kKbGYBoupZiV7HVOFymvP"
       },
       "artists": [
         {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
         }
       ],
-      "duration_ms": 253860,
-      "name": "A Thousand Anemones",
-      "url": "https://open.spotify.com/track/4Zzx5Xt2ud4nIcU6egxJ7a"
+      "duration_ms": 180930,
+      "name": "Sinners of the Seven Seas",
+      "url": "https://open.spotify.com/track/1INE4i2TuVEFHgj2Vtpz14"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -679,18 +679,18 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Sinners of the Seven Seas",
-        "url": "https://open.spotify.com/album/1kKbGYBoupZiV7HVOFymvP"
+        "name": "A Thousand Anemones",
+        "url": "https://open.spotify.com/album/7LBjy0QhBtwr65cxFfo6JJ"
       },
       "artists": [
         {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
         }
       ],
-      "duration_ms": 180930,
-      "name": "Sinners of the Seven Seas",
-      "url": "https://open.spotify.com/track/1INE4i2TuVEFHgj2Vtpz14"
+      "duration_ms": 253860,
+      "name": "A Thousand Anemones",
+      "url": "https://open.spotify.com/track/4Zzx5Xt2ud4nIcU6egxJ7a"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "East of the Sun",
-        "url": "https://open.spotify.com/album/23k3kBUenvakhulKLOrcE0"
-      },
-      "artists": [
-        {
-          "name": "Crystal Gates",
-          "url": "https://open.spotify.com/artist/250Dng1E4jK89iWvEwI24u"
-        }
-      ],
-      "duration_ms": 290341,
-      "name": "Wayfarer's Reverie",
-      "url": "https://open.spotify.com/track/2hCqhR7bYBRRBeHHGIh657"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Light And Shadow",
         "url": "https://open.spotify.com/album/6IGSMlmG6IsidEUEetpfwp"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 258146,
       "name": "Light And Shadow",
       "url": "https://open.spotify.com/track/1ZNNG5R3vubOwrUNuLRhmL"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "East of the Sun",
+        "url": "https://open.spotify.com/album/23k3kBUenvakhulKLOrcE0"
+      },
+      "artists": [
+        {
+          "name": "Crystal Gates",
+          "url": "https://open.spotify.com/artist/250Dng1E4jK89iWvEwI24u"
+        }
+      ],
+      "duration_ms": 290341,
+      "name": "Wayfarer's Reverie",
+      "url": "https://open.spotify.com/track/2hCqhR7bYBRRBeHHGIh657"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Natural Born Killer",
-        "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 205826,
-      "name": "Natural Born Killer",
-      "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/4OSwoYZStFewvoB9RYM3XO"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 261480,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/0dHrBbmoftbULEKvNawKSe"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Natural Born Killer",
+        "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "duration_ms": 205826,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Kings of Ragnar\u00f6k",
-        "url": "https://open.spotify.com/album/6G82fwitv9GPD2zoHyKDtw"
-      },
-      "artists": [
-        {
-          "name": "Warkings",
-          "url": "https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E"
-        }
-      ],
-      "duration_ms": 234560,
-      "name": "Kings of Ragnar\u00f6k",
-      "url": "https://open.spotify.com/track/3iPS8BKAhf2fWIxBMIT0CE"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "On the Sea",
         "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 233343,
       "name": "On the Sea",
       "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Kings of Ragnar\u00f6k",
+        "url": "https://open.spotify.com/album/6G82fwitv9GPD2zoHyKDtw"
+      },
+      "artists": [
+        {
+          "name": "Warkings",
+          "url": "https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "Kings of Ragnar\u00f6k",
+      "url": "https://open.spotify.com/track/3iPS8BKAhf2fWIxBMIT0CE"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Until the End",
-        "url": "https://open.spotify.com/album/2qGsmSyz7OTBTGF6lQDt8X"
-      },
-      "artists": [
-        {
-          "name": "Myrath",
-          "url": "https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl"
-        },
-        {
-          "name": "Elize Ryd",
-          "url": "https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55"
-        }
-      ],
-      "duration_ms": 242826,
-      "name": "Until the End",
-      "url": "https://open.spotify.com/track/0bd3NFnDVgFZi25ktPoHHO"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Pro Xristou",
         "url": "https://open.spotify.com/album/3oXblizhnWNqlsWJrpagaB"
       },
@@ -1275,22 +1255,6 @@
       "duration_ms": 301533,
       "name": "The Apostate",
       "url": "https://open.spotify.com/track/1vAb78bGwENFZmf3T79ABo"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
-        "name": "Song Of Darkness",
-        "url": "https://open.spotify.com/album/7EaXelAWA9A48KtbJBcNWk"
-      },
-      "artists": [
-        {
-          "name": "Leaves' Eyes",
-          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
-        }
-      ],
-      "duration_ms": 296383,
-      "name": "Hall Of The Brave",
-      "url": "https://open.spotify.com/track/3mSLiX28T94T85JtrAYpwv"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1315,6 +1279,42 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
+        "name": "Until the End",
+        "url": "https://open.spotify.com/album/2qGsmSyz7OTBTGF6lQDt8X"
+      },
+      "artists": [
+        {
+          "name": "Myrath",
+          "url": "https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl"
+        },
+        {
+          "name": "Elize Ryd",
+          "url": "https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55"
+        }
+      ],
+      "duration_ms": 242826,
+      "name": "Until the End",
+      "url": "https://open.spotify.com/track/0bd3NFnDVgFZi25ktPoHHO"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Song Of Darkness",
+        "url": "https://open.spotify.com/album/7EaXelAWA9A48KtbJBcNWk"
+      },
+      "artists": [
+        {
+          "name": "Leaves' Eyes",
+          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
+        }
+      ],
+      "duration_ms": 296383,
+      "name": "Hall Of The Brave",
+      "url": "https://open.spotify.com/track/3mSLiX28T94T85JtrAYpwv"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
         "name": "Can You Hear Me",
         "url": "https://open.spotify.com/album/1sPmGATnN4rdUUJyr7dLRT"
       },
@@ -1331,22 +1331,6 @@
       "duration_ms": 250541,
       "name": "Can You Hear Me",
       "url": "https://open.spotify.com/track/4sNfEL2D6Qgy370ajeldtJ"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
-        "name": "Guillotine Walk",
-        "url": "https://open.spotify.com/album/6HOYDjy4lO4gBiabpVLwpE"
-      },
-      "artists": [
-        {
-          "name": "Axel Rudi Pell",
-          "url": "https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl"
-        }
-      ],
-      "duration_ms": 278096,
-      "name": "Guillotine Walk",
-      "url": "https://open.spotify.com/track/1Uy1M28Xuf9SBNufDyXdm3"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
+        "name": "Guillotine Walk",
+        "url": "https://open.spotify.com/album/6HOYDjy4lO4gBiabpVLwpE"
+      },
+      "artists": [
+        {
+          "name": "Axel Rudi Pell",
+          "url": "https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl"
+        }
+      ],
+      "duration_ms": 278096,
+      "name": "Guillotine Walk",
+      "url": "https://open.spotify.com/track/1Uy1M28Xuf9SBNufDyXdm3"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/1q2nD6Ft2JwA6zTNrgezMj"
       },
@@ -1395,22 +1395,6 @@
       "duration_ms": 266000,
       "name": "World on Fire",
       "url": "https://open.spotify.com/track/4LyJfkFQTpMHRSj0rCBgdo"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
-        "name": "Brachio Bazooka Battalion",
-        "url": "https://open.spotify.com/album/5uKaQroYVI9xVsonCOJfBV"
-      },
-      "artists": [
-        {
-          "name": "Victorius",
-          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
-        }
-      ],
-      "duration_ms": 225577,
-      "name": "Brachio Bazooka Battalion",
-      "url": "https://open.spotify.com/track/6KuZRTwgoelmjLqAmNBv9V"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1443,6 +1427,22 @@
       "duration_ms": 312426,
       "name": "Winter Storm Vigilantes",
       "url": "https://open.spotify.com/track/7FBdViGNTaDNc2sl6MWGew"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Brachio Bazooka Battalion",
+        "url": "https://open.spotify.com/album/5uKaQroYVI9xVsonCOJfBV"
+      },
+      "artists": [
+        {
+          "name": "Victorius",
+          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
+        }
+      ],
+      "duration_ms": 225577,
+      "name": "Brachio Bazooka Battalion",
+      "url": "https://open.spotify.com/track/6KuZRTwgoelmjLqAmNBv9V"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Sapphire",
-        "url": "https://open.spotify.com/album/7j1sJdgfPIcW8Rx2RfllUH"
-      },
-      "artists": [
-        {
-          "name": "Nocturna",
-          "url": "https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX"
-        }
-      ],
-      "duration_ms": 234790,
-      "name": "Sapphire",
-      "url": "https://open.spotify.com/track/3kmcAMRPenmsQQscDK1sLO"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Dance with the Devil",
         "url": "https://open.spotify.com/album/6JL9byP3gmakaNLrWVZu5g"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 234775,
       "name": "Dance with the Devil",
       "url": "https://open.spotify.com/track/128HMhWqF74Fxk3DB0jllv"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/7j1sJdgfPIcW8Rx2RfllUH"
+      },
+      "artists": [
+        {
+          "name": "Nocturna",
+          "url": "https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX"
+        }
+      ],
+      "duration_ms": 234790,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/3kmcAMRPenmsQQscDK1sLO"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Stone by Stone",
-        "url": "https://open.spotify.com/album/35vuYT1ScU07cEQ5P750Oj"
-      },
-      "artists": [
-        {
-          "name": "Fabienne Erni",
-          "url": "https://open.spotify.com/artist/0q3kTmmx7D54or2e8HnluR"
-        }
-      ],
-      "duration_ms": 226396,
-      "name": "Stone by Stone",
-      "url": "https://open.spotify.com/track/5qvYnwye1IkzaldUrhfqDS"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "As Empires Fall",
         "url": "https://open.spotify.com/album/0ZUFNx8WwNfdIaFUUp1Wbk"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 183626,
       "name": "We Stand Tall",
       "url": "https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Stone by Stone",
+        "url": "https://open.spotify.com/album/35vuYT1ScU07cEQ5P750Oj"
+      },
+      "artists": [
+        {
+          "name": "Fabienne Erni",
+          "url": "https://open.spotify.com/artist/0q3kTmmx7D54or2e8HnluR"
+        }
+      ],
+      "duration_ms": 226396,
+      "name": "Stone by Stone",
+      "url": "https://open.spotify.com/track/5qvYnwye1IkzaldUrhfqDS"
     },
     {
       "added_at": "2026-03-22 01:56:31",

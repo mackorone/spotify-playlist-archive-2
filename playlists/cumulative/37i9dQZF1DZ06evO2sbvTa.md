@@ -4,7 +4,7 @@
 
 > This is Young Scooter\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 12 min
+73 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Columbia \(Dirty\)](https://open.spotify.com/track/20qSuLJ90dGjpIeTekNLEC) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Columbia](https://open.spotify.com/album/68CmqCHFatt5FppZEoRWxU) | 2:58 | 2025-04-01 |  |
 | [Columbia Remix \(Dirty\)](https://open.spotify.com/track/7in3GxNPphXDq1Mcm586el) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Birdman & Gucci Mane](https://open.spotify.com/artist/6338faVaZp7nENCOEpgrTe), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Columbia Remix](https://open.spotify.com/album/1pk75KjlNX0OPNslAAoGZQ) | 5:10 | 2025-04-01 |  |
 | [Come Eat Wit Us](https://open.spotify.com/track/7loTO2VOr9KxJRL7cJPkw4) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 2:56 | 2025-04-01 |  |
-| [Dead Man](https://open.spotify.com/track/5rIuTIDNTq1ey5DqTgg4Xz) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Trap God](https://open.spotify.com/album/1PdibECcUStPNmeTZxtoBY) | 3:53 | 2025-04-01 |  |
+| [Dead Man](https://open.spotify.com/track/5rIuTIDNTq1ey5DqTgg4Xz) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Trap God](https://open.spotify.com/album/1PdibECcUStPNmeTZxtoBY) | 3:53 | 2025-04-01 | 2026-04-28 |
 | [Do It Big \(feat\. Future\)](https://open.spotify.com/track/4WogORkwFHHvXGQLmLMwnB) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Trippple Cross](https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C) | 3:53 | 2025-04-01 |  |
 | [DOH DOH \(feat\. Young Scooter\)](https://open.spotify.com/track/0U06Yqe0nkkJlptlr7O4uO) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [BEASTMODE 2](https://open.spotify.com/album/6Ew52HWkgfbth9ihRAq2Xd) | 3:40 | 2025-04-01 |  |
 | [Doin Numbers](https://open.spotify.com/track/0TaphaE3VkrM9uVLfwYJCV) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Street Lottery 3](https://open.spotify.com/album/4qh11vmlKBV7PaWDI9vPpF) | 2:34 | 2025-09-12 | 2025-10-14 |
@@ -39,6 +39,7 @@
 | [How Can I Not \(feat\. Young Scooter\)](https://open.spotify.com/track/3LRdrJky4qhRp8HiyY9mWL) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 3:58 | 2025-04-01 |  |
 | [Hustlin'](https://open.spotify.com/track/5jc0Ksd56qSw6zZwVsvEtg) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Jugg King](https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk) | 4:07 | 2025-04-01 |  |
 | [Imma Ball Forever](https://open.spotify.com/track/5heBkfjqYt14ah0pFbBEYg) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Pledge Allegiance to the Trap, Vol\. 5](https://open.spotify.com/album/093j7UenxRyQ27vrlZrJ6d) | 3:05 | 2025-04-01 |  |
+| [INTRO](https://open.spotify.com/track/1VJw9q9T994bRUTWXmA7rM) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [The Recipe](https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE) | 1:51 | 2026-04-28 |  |
 | [Jet Lag \(feat\. Young Scooter\)](https://open.spotify.com/track/2OsDoAzo5SGq10qwmKSQBv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Future & Juice WRLD Present..\. WRLD ON DRUGS](https://open.spotify.com/album/6P9PZjWXoCRF5b66BafPKY) | 4:31 | 2025-04-01 |  |
 | [Jugg King](https://open.spotify.com/track/16sEtZx6F2InPzybZIn96X) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Jugg King](https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk) | 3:29 | 2025-04-01 |  |
 | [Julio](https://open.spotify.com/track/06mKlVJEJvUObtruuxQuKi) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Street Runnaz 71](https://open.spotify.com/album/0DUanaQOnLsiDiMnSN2dwh) | 3:14 | 2025-04-28 | 2025-05-10 |

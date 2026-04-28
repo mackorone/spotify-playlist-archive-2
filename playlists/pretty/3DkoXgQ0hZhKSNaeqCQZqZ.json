@@ -1,13 +1,33 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1084,
+  "num_followers": 1085,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFREmINHl/+Ega1nF3+QjQNHgGzdH7",
+  "snapshot_id": "AAAFRQgQkc8sKlhst04cMmHB9vtIHfId",
   "tracks": [
+    {
+      "added_at": "2026-04-27 23:05:49",
+      "album": {
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/1L1ehou3twqD25Z5UNUFMA"
+      },
+      "artists": [
+        {
+          "name": "Cherry Locket",
+          "url": "https://open.spotify.com/artist/2nZkGHRrTXlpghhH3X27lr"
+        },
+        {
+          "name": "Zachz Winner",
+          "url": "https://open.spotify.com/artist/3eb6CZwogsXvGkmEUYa9XV"
+        }
+      ],
+      "duration_ms": 166985,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/4l6jiTUeu5lzxfVNqIz49H"
+    },
     {
       "added_at": "2026-04-24 23:30:24",
       "album": {

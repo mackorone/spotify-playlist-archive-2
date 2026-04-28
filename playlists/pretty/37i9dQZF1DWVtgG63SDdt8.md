@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Terrian
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,829 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,859 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 66 | [UPSIDE DOWN](https://open.spotify.com/track/6jf8J3nSd3a19d8itjeDur) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Derek Ryan](https://open.spotify.com/artist/73082XnqLoO2xyCv8vzEed), [Spencer Boliou](https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx), [UPSIDE DOWN KINGDOMS](https://open.spotify.com/artist/77vVxW0MA0FCKCnZHFAQGq) | [UPSIDE DOWN KINGDOMS : ORIGINS](https://open.spotify.com/album/2zjdJha4OJ1by9Dmr4w2f1) | 2:10 |
 | 67 | [Save a Soul](https://open.spotify.com/track/3r5tHA58xRkAEwUoye5gIn) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [Save a Soul](https://open.spotify.com/album/2xJbAtW9Ziy4aLFdocVbFv) | 2:47 |
 | 68 | [King of Kings](https://open.spotify.com/track/226XMYPRISfQ8vy2odHAFN) | [JXYD3N](https://open.spotify.com/artist/0qEcjZr4Xrj9cDldpLCghO), [Jx.Zero](https://open.spotify.com/artist/3mMSaohBdsQgDKFmsJ5n2d) | [King of Kings](https://open.spotify.com/album/3Kh4fZJlrLnNcwfWe9Y0aE) | 3:22 |
-| 69 | [PARACHUTE](https://open.spotify.com/track/294c50U7Ahqir2nZEm23GY) | [Jayy Brown](https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [PARACHUTE](https://open.spotify.com/album/0oL8f1tmYBvpcYwH4xwNVn) | 2:26 |
+| 69 | [PARACHUTE](https://open.spotify.com/track/294c50U7Ahqir2nZEm23GY) | [Jayy Brown](https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE), [ScottyC](https://open.spotify.com/artist/6cHrcxfAgubFkPkorTOPoY), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [PARACHUTE](https://open.spotify.com/album/0oL8f1tmYBvpcYwH4xwNVn) | 2:26 |
 | 70 | [Moses](https://open.spotify.com/track/0qX3tQsKvV8HaPdHM1j217) | [KMO Shamaal](https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF) | [Moses](https://open.spotify.com/album/2r2Iq6A4DK0enoT524GNDG) | 2:35 |
 | 71 | [Losing Time](https://open.spotify.com/track/2z8s9MCxN8kd4MiT6HuCaq) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [JXHN PVUL](https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU) | [Losing Time](https://open.spotify.com/album/2bRzrEUFxeFOYSGHwtEGO9) | 2:27 |
 | 72 | [Heaven Sent](https://open.spotify.com/track/5AVUo47MLJBp5AQnYuKZi3) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU), [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [Heaven Sent](https://open.spotify.com/album/6OONXZvAkzl3b7vQ3NHZ7Y) | 2:52 |

@@ -2154,7 +2154,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 201250,
       "name": "CIDOLEM",
       "url": "https://open.spotify.com/track/1bXLLAAmMQMHk0dlGUIGSC"
@@ -11498,7 +11498,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 208107,
       "name": "Stay Awake",
       "url": "https://open.spotify.com/track/7f71BTXWubBCTIlbEqKeUi"
@@ -13963,6 +13963,32 @@
     },
     {
       "album": {
+        "name": "Where Have You Been",
+        "url": "https://open.spotify.com/album/2pfVvPhv9H05U3NYcyaxW8"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "Vikkstar",
+          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
+        },
+        {
+          "name": "Annie Schindel",
+          "url": "https://open.spotify.com/artist/4wSUq2vI7L0BzOQ9pTgozP"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209523,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/56vuQPpk63A5GUIKpTqwAp"
+    },
+    {
+      "album": {
         "name": "Where You Are",
         "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
       },
@@ -14220,7 +14246,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 213281,
       "name": "You",
       "url": "https://open.spotify.com/track/6srHm0yHwDO6bALuR253JJ"

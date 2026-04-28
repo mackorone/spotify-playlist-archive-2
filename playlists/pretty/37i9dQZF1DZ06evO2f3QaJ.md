@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 
 > This is Zudizilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,040 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,063 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 | 38 | [Se A Rua Fosse Minha](https://open.spotify.com/track/0u1dZJNZz7LYjbgbpqQGCa) | [Florence Lil Flowers](https://open.spotify.com/artist/2ZaGPYpUTu3nF9s4nivmt0), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Fp](https://open.spotify.com/artist/3sKBv3XM7BLvDxKeAstmcC) | [POPART](https://open.spotify.com/album/15vH1kpTorXLqa03fAQPMG) | 3:13 |
 | 39 | [Raio de Sol](https://open.spotify.com/track/1u7RX4YgssTUMne4VpbHRU) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Raio de Sol](https://open.spotify.com/album/61y0M6ss6NwQcBv52L7vpk) | 2:52 |
 | 40 | [SALVE](https://open.spotify.com/track/6fnzv6cH0aiqM6riOitTas) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT) | 4:08 |
-| 41 | [Blasé](https://open.spotify.com/track/1iPWKFLGwc4z6giG1JhnDq) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Le Fauve](https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm) | 2:55 |
+| 41 | [Nervos de Aço](https://open.spotify.com/track/3mmj5RI8x5RABwiYuA2xtE) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Le Fauve](https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm) | 3:00 |
 | 42 | [Lá Fora](https://open.spotify.com/track/6HkTq6DiKf78zkPbX5yPgC) | [Jonathan Ferr](https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG), [Coruja](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Lossio](https://open.spotify.com/artist/3AQxHBg7YeOuvqdvfzj95r) | [Lá Fora](https://open.spotify.com/album/3IUmoVhpfCpA2QMaAIgjXe) | 3:11 |
-| 43 | [Mão Direita / Amor](https://open.spotify.com/track/7jdSug6RCduaxVV8QCuIWx) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Kiai](https://open.spotify.com/artist/7JbQIFP81I6g4g6zXzvnB3) | [JazzKilla](https://open.spotify.com/album/70GXosZ4YgEnewsTrk3gnP) | 4:50 |
+| 43 | [Sem Distração](https://open.spotify.com/track/5aeCOJtsb0adjVAFLdeGL3) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Hip Hop Machine \#21](https://open.spotify.com/album/3UjPGDykHKIVQAgIDoHRvg) | 5:44 |
 | 44 | [RUMOS](https://open.spotify.com/track/1PXszikQeq33ZzKUjcSTuT) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Serginho Moah](https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT) | 3:03 |
-| 45 | [Nervos de Aço](https://open.spotify.com/track/3mmj5RI8x5RABwiYuA2xtE) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Le Fauve](https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm) | 3:00 |
-| 46 | [TUDO CULPA DO RNB](https://open.spotify.com/track/2nggP0zfWZb8QQf47LPv2z) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [TUDO CULPA DO RNB](https://open.spotify.com/album/0bgR6sQPc0DVcL7f0f60CX) | 4:19 |
-| 47 | [Sem Distração](https://open.spotify.com/track/5aeCOJtsb0adjVAFLdeGL3) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Hip Hop Machine \#21](https://open.spotify.com/album/3UjPGDykHKIVQAgIDoHRvg) | 5:44 |
+| 45 | [Blasé](https://open.spotify.com/track/1iPWKFLGwc4z6giG1JhnDq) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Le Fauve](https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm) | 2:55 |
+| 46 | [Mão Direita / Amor](https://open.spotify.com/track/7jdSug6RCduaxVV8QCuIWx) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Kiai](https://open.spotify.com/artist/7JbQIFP81I6g4g6zXzvnB3) | [JazzKilla](https://open.spotify.com/album/70GXosZ4YgEnewsTrk3gnP) | 4:50 |
+| 47 | [TUDO CULPA DO RNB](https://open.spotify.com/track/2nggP0zfWZb8QQf47LPv2z) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [TUDO CULPA DO RNB](https://open.spotify.com/album/0bgR6sQPc0DVcL7f0f60CX) | 4:19 |
 | 48 | [RA UN NEFER](https://open.spotify.com/track/3SsSlS4TJzjqzPsvmtODSP) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Cronista do Morro](https://open.spotify.com/artist/1JzzPEOH3NeaXCabX3GrSN) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT) | 5:05 |
 | 49 | [Um Pouco Mais](https://open.spotify.com/track/1cSnXmpnBWrYLeXXVTDiHY) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Le Fauve](https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm) | 2:53 |
 | 50 | [Raio De Sol](https://open.spotify.com/track/1A60gepW790C5S9JKATGQB) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Hip Hop Machine Temporada 2](https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI) | 5:48 |
 
-Snapshot ID: `aewEAAAAAAA+l7CQ45hVLpwVMDao/6Xt`
+Snapshot ID: `ae1VgAAAAADxauvFhnihX+MshqpQ5ZTm`

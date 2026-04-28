@@ -1,6 +1,6 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 143366,
+  "num_followers": 143356,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "The Christmas Tarte",
-        "url": "https://open.spotify.com/album/0amWZX4oYh5a7oJ9d486U9"
-      },
-      "artists": [
-        {
-          "name": "Dean St. Trio",
-          "url": "https://open.spotify.com/artist/52jln3hXT2MJVGtwDY8vq7"
-        }
-      ],
-      "duration_ms": 205298,
-      "name": "The Christmas Tarte",
-      "url": "https://open.spotify.com/track/6ze4VRALFSEHhXzSPBpYYh"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Jingle Bell Rock",
         "url": "https://open.spotify.com/album/7tgNFofwM5Vc81t3fF6m8r"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 154242,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/6Ii4dVFX3MyZiroqSHQjJf"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "The Christmas Tarte",
+        "url": "https://open.spotify.com/album/0amWZX4oYh5a7oJ9d486U9"
+      },
+      "artists": [
+        {
+          "name": "Dean St. Trio",
+          "url": "https://open.spotify.com/artist/52jln3hXT2MJVGtwDY8vq7"
+        }
+      ],
+      "duration_ms": 205298,
+      "name": "The Christmas Tarte",
+      "url": "https://open.spotify.com/track/6ze4VRALFSEHhXzSPBpYYh"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
+        "name": "The Boar's Head Carol",
+        "url": "https://open.spotify.com/album/6KMnu9pR2hmYwBP3kDClYb"
+      },
+      "artists": [
+        {
+          "name": "Trio Serena",
+          "url": "https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z"
+        }
+      ],
+      "duration_ms": 199315,
+      "name": "The Boar's Head Carol",
+      "url": "https://open.spotify.com/track/76MGFBv1q0lxsEE6p1Is7t"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
         "name": "Louis Wishes You a Cool Yule",
         "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 176699,
       "name": "Cool Yule",
       "url": "https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
-        "name": "The Boar's Head Carol",
-        "url": "https://open.spotify.com/album/6KMnu9pR2hmYwBP3kDClYb"
-      },
-      "artists": [
-        {
-          "name": "Trio Serena",
-          "url": "https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z"
-        }
-      ],
-      "duration_ms": 199315,
-      "name": "The Boar's Head Carol",
-      "url": "https://open.spotify.com/track/76MGFBv1q0lxsEE6p1Is7t"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "The North Pole Express",
-        "url": "https://open.spotify.com/album/1NbfF4vlT8Eq9rhi78B9S2"
-      },
-      "artists": [
-        {
-          "name": "Japari Park",
-          "url": "https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "The North Pole Express",
-      "url": "https://open.spotify.com/track/1WpxDIN7ccKey5xJm5wTen"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Misteltoe",
         "url": "https://open.spotify.com/album/6oVj4hoU09YwTQDLmo1e7K"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 142029,
       "name": "Misteltoe",
       "url": "https://open.spotify.com/track/6SJKiadklwqj969ihsTL06"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "The North Pole Express",
+        "url": "https://open.spotify.com/album/1NbfF4vlT8Eq9rhi78B9S2"
+      },
+      "artists": [
+        {
+          "name": "Japari Park",
+          "url": "https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "The North Pole Express",
+      "url": "https://open.spotify.com/track/1WpxDIN7ccKey5xJm5wTen"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -2050,15 +2050,11 @@
         {
           "name": "Diana Krall",
           "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        },
-        {
-          "name": "Clayton-Hamilton Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy"
         }
       ],
-      "duration_ms": 193586,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/7cbaFyvM1Cbl8xr4YT0qWw"
+      "duration_ms": 212880,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/5a0H5FJlnPdRt66TM6Kz9r"
     },
     {
       "added_at": "2025-12-19 14:00:54",

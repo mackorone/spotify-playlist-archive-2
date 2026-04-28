@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-520 songs - 1 day 0 hr 23 min
+521 songs - 1 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [As Time Passes By](https://open.spotify.com/track/7KojnmCNcvHP0uTbw3ZZ8Z) | [LUCCI](https://open.spotify.com/artist/7sOL3G4nJz0wDXnkOWKOEf) | [As Time Passes By](https://open.spotify.com/album/663yqKc7AQSnZuBhw1x2yi) | 2:50 | 2024-01-30 | 2026-01-23 |
 | [Ascension \(Sound Bath\)](https://open.spotify.com/track/5QhHxzGiHveCh5ul5UAz4Q) | [Eos Astraeus](https://open.spotify.com/artist/43of8eAodl6qI6YvBX6hkJ) | [Ascension \(Sound Bath\)](https://open.spotify.com/album/33vdk5V9T8Ag5WkBZzjowy) | 2:17 | 2023-04-14 | 2026-04-04 |
 | [Asterism \(Sound Bath\)](https://open.spotify.com/track/6JMS5jCsa1JZPovmshkeM4) | [Tristan Motuo](https://open.spotify.com/artist/3dmTIkKXnIpN7hUc46cyFi) | [Asterism \(Sound Bath\)](https://open.spotify.com/album/3bsC8W4XLLriOdb16UWEb9) | 2:26 | 2023-07-28 |  |
+| [Auralen](https://open.spotify.com/track/2gOA6HcLxjLjcwNmjDinkV) | [floating echoes](https://open.spotify.com/artist/1ai55OO2IZmkx2Eeze4bbe) | [Auralen](https://open.spotify.com/album/54ewdSbyx4aVHbDCrIt2Vz) | 3:30 | 2026-04-17 |  |
 | [Aurora Drift](https://open.spotify.com/track/5aXR2QnrHrjQ1xffArqr50) | [Enchanted Blossom](https://open.spotify.com/artist/1SELOJexR8XfdtwAkVP6GI) | [Aurora Drift](https://open.spotify.com/album/3xO488RLRjpxjiwUbZhtA4) | 2:43 | 2025-04-29 |  |
 | [Autonara](https://open.spotify.com/track/36oHfqmYAmD5hdvgXx4toZ) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Autonara](https://open.spotify.com/album/0QIEJuKkMKaikayK0gUarO) | 2:44 | 2026-04-03 |  |
 | [Azure Forest](https://open.spotify.com/track/1rvwqBmjavA93zziLEb2pP) | [Reitius Rex](https://open.spotify.com/artist/4dNsq3pEddyli2GElCpGdd) | [Azure Forest](https://open.spotify.com/album/49rSBvAzxJoHaZsyYZwzvT) | 2:04 | 2023-08-21 | 2025-10-26 |
@@ -64,7 +65,7 @@
 | [Botanical Creek](https://open.spotify.com/track/0yprfzL1FDEhQ2q0ez80o4) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Botanical Creek](https://open.spotify.com/album/1WVPOp90EnS4O7jVvHxatZ) | 2:54 | 2024-11-11 |  |
 | [Bowie \- Awakening](https://open.spotify.com/track/63zRRZhL8x0VA64o82uh2d) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Forest of Rain](https://open.spotify.com/album/2dgxGey8LAcliQjoGGuKID) | 3:06 | 2026-02-18 |  |
 | [Boy](https://open.spotify.com/track/6onnyQliInBgkmiKD01kzX) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 2:42 | 2023-01-24 | 2024-11-29 |
-| [Breath Work](https://open.spotify.com/track/7vd5m5le18O6Go6u8bGDrT) | [Tuiren](https://open.spotify.com/artist/16NpFw9d7RglZF6qA07Y1G) | [Breath Work](https://open.spotify.com/album/3shFhxKMLHC5mTfCOzRPTl) | 3:15 | 2025-12-18 |  |
+| [Breath Work](https://open.spotify.com/track/7vd5m5le18O6Go6u8bGDrT) | [Tuiren](https://open.spotify.com/artist/16NpFw9d7RglZF6qA07Y1G) | [Breath Work](https://open.spotify.com/album/3shFhxKMLHC5mTfCOzRPTl) | 3:15 | 2025-12-18 | 2026-04-28 |
 | [breeze](https://open.spotify.com/track/4dd6Kd9lOuAFvtnicFmopl) | [mistral bark](https://open.spotify.com/artist/19VIhs2q6YQ5J23OrTknU7) | [breeze](https://open.spotify.com/album/5mD3888H5sHSeIHm8ngWPA) | 3:08 | 2025-04-29 | 2026-03-17 |
 | [Bubbling Waters](https://open.spotify.com/track/1zaF9aOvpI9FXLY4vmqzSn) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Bubbling Waters](https://open.spotify.com/album/44zvhAbyyWLmQPlVaZAEFE) | 3:10 | 2024-03-05 |  |
 | [By the Creek](https://open.spotify.com/track/2wNyMwLskL0yAYyipYOdyI) | [Between Worlds](https://open.spotify.com/artist/0HBncYc0ljDrJAqog1F1Qi) | [By the Creek](https://open.spotify.com/album/3T9saIz1K5izcdTVJt3ohu) | 2:23 | 2025-04-29 | 2026-03-17 |
@@ -135,7 +136,7 @@
 | [Eileanan](https://open.spotify.com/track/0RF2PYLqYLIHhUXRBhj3rY) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Eileanan](https://open.spotify.com/album/61OZWMQSih7G253a5ediFD) | 2:34 | 2024-03-05 | 2026-02-24 |
 | [Ekatā / Unity](https://open.spotify.com/track/15VLZBdYtCBfzUStJDVAzm) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Unity](https://open.spotify.com/album/4ugwhuEqJTGi11swTislS2) | 2:57 | 2023-10-26 | 2026-03-17 |
 | [Emerald](https://open.spotify.com/track/4Zu4GsdQ99Ji9nrTOLFLWy) | [Lux Alba](https://open.spotify.com/artist/18NVPzP15IyNqKnkShIdVz) | [Emerald](https://open.spotify.com/album/0Qj3NmEMG2Q2KIshcah0eL) | 3:35 | 2025-10-01 | 2026-04-04 |
-| [Endless](https://open.spotify.com/track/0lyWURYgdUo2PB5xsDWctS) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Endless](https://open.spotify.com/album/42VPMfRzW2st3wxkRnXFkz) | 3:03 | 2026-03-16 | 2026-04-08 |
+| [Endless](https://open.spotify.com/track/0lyWURYgdUo2PB5xsDWctS) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Endless](https://open.spotify.com/album/42VPMfRzW2st3wxkRnXFkz) | 3:03 | 2026-03-16 |  |
 | [Endless Horizon](https://open.spotify.com/track/6zVDXYs5Jp1SI9Aro3A5cf) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Endless Horizon](https://open.spotify.com/album/6cOF3lmkr9yfcMZWdENcEt) | 2:59 | 2023-10-26 | 2026-04-17 |
 | [Enigmatic Horizons 432Hz](https://open.spotify.com/track/64bMWsrYB61C7X26uWNSSY) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Enigmatic Horizons 432Hz](https://open.spotify.com/album/7MNM11t6gpm5ozpA2iffcf) | 2:18 | 2024-08-22 | 2026-03-07 |
 | [Equanimity](https://open.spotify.com/track/7uAsCKp5rom7rVRKKGsraG) | [Hank Sky](https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI) | [Equanimity](https://open.spotify.com/album/3zuWS6ZgMkJQi6cRT8tvp7) | 2:26 | 2025-04-11 |  |
@@ -514,7 +515,7 @@
 | [Waking Peacefully \(by a Forest Stream\)](https://open.spotify.com/track/17rfyrqT5cHsqJ51qlO1gM) | [Forlorn Light](https://open.spotify.com/artist/1lh84CpK8jFmCG7TFFUSao) | [Gentle Caress & Waking Peacefully](https://open.spotify.com/album/6iPI6hMJ0ntaN15enndpNv) | 3:44 | 2024-08-22 | 2026-03-17 |
 | [Warm Mist](https://open.spotify.com/track/36CvZfRCWOtV0CnDfbvIbE) | [Aura Veil](https://open.spotify.com/artist/0N1zbTaCXUJXZBmAiILWl6) | [Warm Mist](https://open.spotify.com/album/26HZv5Pb4v5ISn6IET9T6w) | 2:49 | 2025-10-24 |  |
 | [WATERFALLS](https://open.spotify.com/track/6Y8AeQZTqpfDp3kynbzbBV) | [Keypling](https://open.spotify.com/artist/2V5UxuaY21iAxgMEqBBvFz) | [Cozy Cabin Piano Pieces](https://open.spotify.com/album/2szgUkYQvh2eYfiKtNxxNM) | 2:54 | 2023-01-24 | 2023-09-06 |
-| [Wayanad](https://open.spotify.com/track/5KzU3RczgJSImkXul9s3hm) | [Özone One](https://open.spotify.com/artist/4OCpAOPZviS8AW5gyBNn26) | [Wayanad](https://open.spotify.com/album/1QeAo6C6W5TPwj7cPqFbQn) | 3:01 | 2023-09-28 |  |
+| [Wayanad](https://open.spotify.com/track/5KzU3RczgJSImkXul9s3hm) | [Özone One](https://open.spotify.com/artist/4OCpAOPZviS8AW5gyBNn26) | [Wayanad](https://open.spotify.com/album/1QeAo6C6W5TPwj7cPqFbQn) | 3:01 | 2023-09-28 | 2026-04-28 |
 | [Welcome Home](https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Welcome Home](https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr) | 2:15 | 2023-01-24 | 2023-05-20 |
 | [What the Earth Holds Gently](https://open.spotify.com/track/1prYa2Re5n3jIHv7wENSv6) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [What the Earth Holds Gently](https://open.spotify.com/album/0wEa1vIK9tVnyg7bv24J2w) | 3:20 | 2026-03-16 | 2026-04-24 |
 | [Where the Rain Begins to Sing](https://open.spotify.com/track/12Yi9MWiPV33nFiccg7zzI) | [Lush Aura](https://open.spotify.com/artist/0rO9DA4in8mFpPhCTluEMW) | [Where the Rain Begins to Sing](https://open.spotify.com/album/4nA7eft1WMWMBNRqOLJsIR) | 3:20 | 2026-04-03 |  |

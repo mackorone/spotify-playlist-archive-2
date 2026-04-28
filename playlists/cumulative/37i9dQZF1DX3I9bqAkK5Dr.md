@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Anirudh Suswaram
 
-513 songs - 1 day 6 hr 45 min
+514 songs - 1 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Daari Maarina](https://open.spotify.com/track/6yQW6Ek4MgcqBgThopuhNX) | [Sanskari](https://open.spotify.com/artist/3aIui8O5th8gOzC0YRVN6R) | [Vinamrata](https://open.spotify.com/album/299tCSFgDlxGFYJN1E4LpC) | 4:17 | 2026-03-06 |  |
 | [Daawath](https://open.spotify.com/track/3Bv6Jghbq72NqEqWnkqUOj) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Daawath](https://open.spotify.com/album/2RGBGad3aW0SxVDuMZf4tV) | 4:05 | 2022-07-18 | 2023-10-05 |
 | [Dating](https://open.spotify.com/track/3t0HbbzwR3jw1nDMV7qhVR) | [Ranjith Govind](https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth) | [Dating](https://open.spotify.com/album/4ndscRMyf24KnLjdbsIyRg) | 2:57 | 2024-06-21 | 2024-10-04 |
+| [Deela Paddaane](https://open.spotify.com/track/5p9JV175zSaixDW2lMsnD4) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J), [Trigger C](https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES) | [Deela Paddaane](https://open.spotify.com/album/09aZTapQxNeDwFeElu72ZV) | 2:34 | 2026-04-27 |  |
 | [DEVARA\(The Thirst Trap\)](https://open.spotify.com/track/3REZ4XjWqKH0wHkkvM40gW) | [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk), [Stanley sajeev](https://open.spotify.com/artist/2sEdwo7xTdk62naoJmWTO3), [Sri Rag](https://open.spotify.com/artist/3hWpjI85HiSIclghXny1lJ) | [DEVARA\(The Thirst Trap\)](https://open.spotify.com/album/5tC7wcamLKOIFJ6gafzWKN) | 2:56 | 2024-08-13 | 2024-10-17 |
 | [Dhom Thana](https://open.spotify.com/track/0tSTu2qPEFmK2QBzKRLuxk) | [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Dhom Thana](https://open.spotify.com/album/2rrcsYWGUOZ6JxBLHPlXU4) | 3:38 | 2022-07-18 | 2023-05-23 |
 | [Dhoola Maya](https://open.spotify.com/track/1u8fCJz0quPl7Pnxbi49Q9) | [C Shor](https://open.spotify.com/artist/1yUQaaxSIq7Pkms4iMvWmR) | [Dhoola Maya](https://open.spotify.com/album/75O9mOTF1nmTzuCRaVClzz) | 3:08 | 2026-01-16 |  |

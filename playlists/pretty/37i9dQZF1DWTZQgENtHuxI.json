@@ -1,6 +1,6 @@
 {
   "description": "Sortez les pantalons pattes d\u2018eph et les chemises en satin !",
-  "num_followers": 141246,
+  "num_followers": 141241,
   "original_name": "Disco Club",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2025-08-29 16:41:35",
       "album": {
-        "name": "Ring My Bell",
-        "url": "https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV"
-      },
-      "artists": [
-        {
-          "name": "Anita Ward",
-          "url": "https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P"
-        }
-      ],
-      "duration_ms": 491933,
-      "name": "Ring My Bell",
-      "url": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd"
-    },
-    {
-      "added_at": "2025-08-29 16:41:35",
-      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 230269,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
+    },
+    {
+      "added_at": "2025-08-29 16:41:35",
+      "album": {
+        "name": "Ring My Bell",
+        "url": "https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV"
+      },
+      "artists": [
+        {
+          "name": "Anita Ward",
+          "url": "https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P"
+        }
+      ],
+      "duration_ms": 491933,
+      "name": "Ring My Bell",
+      "url": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd"
     },
     {
       "added_at": "2025-08-29 16:41:35",
@@ -239,18 +239,18 @@
     {
       "added_at": "2025-08-29 16:41:35",
       "album": {
-        "name": "Can't Stop the Music (Original Soundtrack 1980)",
-        "url": "https://open.spotify.com/album/4oIOg6AgN5cTIQPk00RAWS"
+        "name": "Disco Inferno",
+        "url": "https://open.spotify.com/album/4MgYPs5CBEwzmekSVNOiL3"
       },
       "artists": [
         {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+          "name": "The Trammps",
+          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
         }
       ],
-      "duration_ms": 202573,
-      "name": "YMCA",
-      "url": "https://open.spotify.com/track/3ypMsqUwfNFMiooMLVHfkp"
+      "duration_ms": 659000,
+      "name": "Disco Inferno",
+      "url": "https://open.spotify.com/track/5jUA1njy3h6ynHLvPdEVHt"
     },
     {
       "added_at": "2025-08-29 16:41:35",
@@ -271,18 +271,18 @@
     {
       "added_at": "2025-08-29 16:41:35",
       "album": {
-        "name": "Disco Inferno",
-        "url": "https://open.spotify.com/album/4MgYPs5CBEwzmekSVNOiL3"
+        "name": "Can't Stop the Music (Original Soundtrack 1980)",
+        "url": "https://open.spotify.com/album/4oIOg6AgN5cTIQPk00RAWS"
       },
       "artists": [
         {
-          "name": "The Trammps",
-          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
         }
       ],
-      "duration_ms": 659000,
-      "name": "Disco Inferno",
-      "url": "https://open.spotify.com/track/5jUA1njy3h6ynHLvPdEVHt"
+      "duration_ms": 202573,
+      "name": "YMCA",
+      "url": "https://open.spotify.com/track/3ypMsqUwfNFMiooMLVHfkp"
     },
     {
       "added_at": "2025-08-29 16:41:35",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-08-29 16:41:35",
       "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/79ZX48114T8NH36MnOTtl7"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/01iyCAUm8EvOFqVWYJ3dVX"
+    },
+    {
+      "added_at": "2025-08-29 16:41:35",
+      "album": {
         "name": "Number Ones",
         "url": "https://open.spotify.com/album/79F4jBcsI4qg66Xax1u4U8"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 285200,
       "name": "Stayin' Alive - Remastered Version",
       "url": "https://open.spotify.com/track/3LmpQiFNgFCnvAnhhvKUyI"
-    },
-    {
-      "added_at": "2025-08-29 16:41:35",
-      "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/57Y3UccJEJqT8w8RWkUAz0"
     }
   ],
   "unique_name": "Disco Club",

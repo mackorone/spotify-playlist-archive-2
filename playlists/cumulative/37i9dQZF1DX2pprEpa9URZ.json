@@ -1447,6 +1447,28 @@
     },
     {
       "album": {
+        "name": "Bianco Montana",
+        "url": "https://open.spotify.com/album/3xDbXRXSN8SMHiPEMmCQL9"
+      },
+      "artists": [
+        {
+          "name": "Lee Burridge",
+          "url": "https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h"
+        },
+        {
+          "name": "Sunora",
+          "url": "https://open.spotify.com/artist/33ZvLQZN3VvyxSGwlRaKfH"
+        }
+      ],
+      "date_added": "2026-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Bianco Montana",
+      "url": "https://open.spotify.com/track/3lgLSQeBW1pw4iuIVs6ZEu"
+    },
+    {
+      "album": {
         "name": "Bir G\u00fczel \u0130sterim (Avcio & Aspis Remix)",
         "url": "https://open.spotify.com/album/4pOE7JNE4nYaFBALysMiMk"
       },
@@ -7238,7 +7260,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 407804,
       "name": "On My Own - Bross (RO) Remix",
       "url": "https://open.spotify.com/track/38myjqkNALis6K4B48JEat"

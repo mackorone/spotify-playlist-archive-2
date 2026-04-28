@@ -2573,6 +2573,24 @@
     },
     {
       "album": {
+        "name": "People We Meet On Vacation (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6tvHOntZ4RvxUKEgFCCRD7"
+      },
+      "artists": [
+        {
+          "name": "Keegan DeWitt",
+          "url": "https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93998,
+      "name": "Alexander The Greatest",
+      "url": "https://open.spotify.com/track/3MJQQ9LFFLf0OuI9Vu82Ao"
+    },
+    {
+      "album": {
         "name": "Twiceyoung",
         "url": "https://open.spotify.com/album/59pT0Dou4MN90ganpREXMD"
       },
@@ -4313,6 +4331,28 @@
     },
     {
       "album": {
+        "name": "Anza Jam",
+        "url": "https://open.spotify.com/album/6ceJ4fZ59ZLEGG2MnxiI5R"
+      },
+      "artists": [
+        {
+          "name": "Julien Verschooris",
+          "url": "https://open.spotify.com/artist/0vJxBMqJnP2vbqFAxUWR9t"
+        },
+        {
+          "name": "Maya Eliza",
+          "url": "https://open.spotify.com/artist/3ypa1AKDFqSOP6Cg2GX53p"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151372,
+      "name": "Anza Jam",
+      "url": "https://open.spotify.com/track/3qiWw64adz8DdmHXcq0JWN"
+    },
+    {
+      "album": {
         "name": "Minecraft: Greek Mythology (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4k6gdbACiLwvkjiurjFnzA"
       },
@@ -4794,7 +4834,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 221274,
       "name": "Asphodel Meadows",
       "url": "https://open.spotify.com/track/77fPKAmJ5wBiPpjVDY3BLd"
@@ -5006,6 +5046,32 @@
       "duration_ms": 104800,
       "name": "Autumn 3 - 2012",
       "url": "https://open.spotify.com/track/3mlGh8Kfo8mtb4sTzuizNl"
+    },
+    {
+      "album": {
+        "name": "The New Four Seasons - Vivaldi Recomposed",
+        "url": "https://open.spotify.com/album/6J7CIQ4ReSZa611kZjCRkb"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Elena Urioste",
+          "url": "https://open.spotify.com/artist/1PMibp1HV8tdZaib2DXOdH"
+        },
+        {
+          "name": "Chineke! Orchestra",
+          "url": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92087,
+      "name": "Autumn 3 - 2022",
+      "url": "https://open.spotify.com/track/7wPPWL2wqsif8tsPG2WvlM"
     },
     {
       "album": {
@@ -7094,7 +7160,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 199638,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/6OOEX2vTBKMI89Iw0obyjg"
@@ -7192,6 +7258,24 @@
       "duration_ms": 225235,
       "name": "Blooming Amber | El Ambar Florece",
       "url": "https://open.spotify.com/track/7K1aZycPPqwr54pYfoVBqr"
+    },
+    {
+      "album": {
+        "name": "Emerge",
+        "url": "https://open.spotify.com/album/3yqZlf89MKUMWpKOxo0vg8"
+      },
+      "artists": [
+        {
+          "name": "Roary",
+          "url": "https://open.spotify.com/artist/1RLZPXW7wtkg92bfPZMKWd"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264689,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/1sO6d1CQQMc1gHtA4LBT0F"
     },
     {
       "album": {
@@ -7614,7 +7698,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-22",
+      "date_removed": null,
       "duration_ms": 185727,
       "name": "Bones - Instrumental",
       "url": "https://open.spotify.com/track/3cd5tzKp2Zk72rvqTBOuIz"
@@ -9576,7 +9660,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 112124,
       "name": "Catskill",
       "url": "https://open.spotify.com/track/1bg5Z9WulBD1qRSaj7ijQ1"
@@ -9660,6 +9744,24 @@
       "duration_ms": 110813,
       "name": "Caves",
       "url": "https://open.spotify.com/track/5n73vdJtv4Ke2BRY6Ilcji"
+    },
+    {
+      "album": {
+        "name": "Project Hail Mary (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/47Kmv7voPLipz2zbyD8v84"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127386,
+      "name": "Centrifuge - from \"Project Hail Mary\"",
+      "url": "https://open.spotify.com/track/6nxHWFFT4hasCvsDncAHbm"
     },
     {
       "album": {
@@ -11909,6 +12011,32 @@
     },
     {
       "album": {
+        "name": "Composites",
+        "url": "https://open.spotify.com/album/4cXbbhXyF7CW82c4a7zLcY"
+      },
+      "artists": [
+        {
+          "name": "Thrupence",
+          "url": "https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9"
+        },
+        {
+          "name": "Josh Hooke",
+          "url": "https://open.spotify.com/artist/1X0yIDVrFaFeYmAqp0ETUj"
+        },
+        {
+          "name": "Jack Vanzet",
+          "url": "https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223283,
+      "name": "Composite 03",
+      "url": "https://open.spotify.com/track/6WSmDwlRFDnYby18n6Bgor"
+    },
+    {
+      "album": {
         "name": "Concerning Hobbits",
         "url": "https://open.spotify.com/album/4KlENSqFvWnqzWnvwpyw4N"
       },
@@ -12017,6 +12145,24 @@
     },
     {
       "album": {
+        "name": "Peter Gregson",
+        "url": "https://open.spotify.com/album/2gjmSThMoQbhYHmnw73iXX"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302090,
+      "name": "Constellation",
+      "url": "https://open.spotify.com/track/2dDdqvGvf6uJUDoSwHOkoZ"
+    },
+    {
+      "album": {
         "name": "Canyon",
         "url": "https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ"
       },
@@ -12046,7 +12192,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 180271,
       "name": "Constellations",
       "url": "https://open.spotify.com/track/12tStCSDB42OcYdY4rWUz8"
@@ -12798,7 +12944,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 132080,
       "name": "Dad & Darts",
       "url": "https://open.spotify.com/track/2OqEvGkERXnwe4hghMyltD"
@@ -13892,7 +14038,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 236521,
       "name": "Daytime Sentimentalism",
       "url": "https://open.spotify.com/track/0RO3CcWmBv9vQrcT6yvGVo"
@@ -15657,6 +15803,28 @@
     },
     {
       "album": {
+        "name": "Dreaming in Color",
+        "url": "https://open.spotify.com/album/3eGIRdmQDbKcNuViZN2ELm"
+      },
+      "artists": [
+        {
+          "name": "Judah Earl",
+          "url": "https://open.spotify.com/artist/0lpe8GmqY2RVE54SdQRPmj"
+        },
+        {
+          "name": "Laura Brehm",
+          "url": "https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247411,
+      "name": "Dreaming in Color",
+      "url": "https://open.spotify.com/track/2CYzpVgRZLgY6He9em2cmO"
+    },
+    {
+      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
       },
@@ -15672,6 +15840,24 @@
       "duration_ms": 203492,
       "name": "Dreamland",
       "url": "https://open.spotify.com/track/2LiDZmGERLzjrtBTCofj2G"
+    },
+    {
+      "album": {
+        "name": "Getting Closer",
+        "url": "https://open.spotify.com/album/6njssu7kb8cyISzu9jEOoO"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Bamberger",
+          "url": "https://open.spotify.com/artist/5TLTbfaEnLRIEcNADIUpjc"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Dreamlike Ride",
+      "url": "https://open.spotify.com/track/3IYuimegXziL1uPX8anDUG"
     },
     {
       "album": {
@@ -16380,6 +16566,24 @@
       "duration_ms": 190630,
       "name": "Either",
       "url": "https://open.spotify.com/track/2eXRgdwREO1B8jt5k2n2cW"
+    },
+    {
+      "album": {
+        "name": "re:member",
+        "url": "https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281500,
+      "name": "ekki hugsa",
+      "url": "https://open.spotify.com/track/7fRvTEbngyFprSPRvRDyM8"
     },
     {
       "album": {
@@ -17152,7 +17356,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 209826,
       "name": "Epiphany",
       "url": "https://open.spotify.com/track/7yZD5llgTsm48wz802Pkda"
@@ -18756,7 +18960,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 177333,
       "name": "Feather Fletching",
       "url": "https://open.spotify.com/track/73ORwLQP51JRTix1PWANlw"
@@ -18800,6 +19004,24 @@
       "duration_ms": 230813,
       "name": "Featherweight",
       "url": "https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3"
+    },
+    {
+      "album": {
+        "name": "February Nights",
+        "url": "https://open.spotify.com/album/3XFxEmzrrmScUhAGhHfdMf"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gialanella",
+          "url": "https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132757,
+      "name": "February Nights",
+      "url": "https://open.spotify.com/track/5mEAdrReiKyBl9hKecKdpT"
     },
     {
       "album": {
@@ -19930,7 +20152,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 144240,
       "name": "Flourish",
       "url": "https://open.spotify.com/track/52jesE5DI9hZB5cKtXQUOU"
@@ -20310,6 +20532,24 @@
       "duration_ms": 194750,
       "name": "for her (rec 77)",
       "url": "https://open.spotify.com/track/5X4JxXPta5cfp33aMvlys6"
+    },
+    {
+      "album": {
+        "name": "Miles & Years",
+        "url": "https://open.spotify.com/album/7jtuyEUzLytmklXL5KRoYh"
+      },
+      "artists": [
+        {
+          "name": "Allie Paige",
+          "url": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "For Jaime (In D)",
+      "url": "https://open.spotify.com/track/1C5rlsRt9DXcqM3RIyJB6Y"
     },
     {
       "album": {
@@ -20864,6 +21104,24 @@
       "duration_ms": 214400,
       "name": "Friday I'm in Love",
       "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
+    },
+    {
+      "album": {
+        "name": "Little Women (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94453,
+      "name": "Friedrich Dances with Jo - from \"Little Women\" Soundtrack",
+      "url": "https://open.spotify.com/track/7GCd2343jBECRPDYOAFI9c"
     },
     {
       "album": {
@@ -24482,7 +24740,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 135923,
       "name": "Heidi",
       "url": "https://open.spotify.com/track/6jD0HLCbadPZkkAVEGl15y"
@@ -25450,6 +25708,24 @@
       "duration_ms": 201250,
       "name": "Holding You Close",
       "url": "https://open.spotify.com/track/05Fz8BncZJdkUVD6R3lWFC"
+    },
+    {
+      "album": {
+        "name": "Hinterlands",
+        "url": "https://open.spotify.com/album/0BnBIbsBaTBHTbssJhZca0"
+      },
+      "artists": [
+        {
+          "name": "Paul Alan Morris",
+          "url": "https://open.spotify.com/artist/1TNiz4tR70en7oaBGZ2L9M"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143218,
+      "name": "Hole in the Hawthorn",
+      "url": "https://open.spotify.com/track/1n0kUPcJvSn0gamSmeSX4k"
     },
     {
       "album": {
@@ -26707,6 +26983,24 @@
     },
     {
       "album": {
+        "name": "!",
+        "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289210,
+      "name": "hundred00",
+      "url": "https://open.spotify.com/track/2AJCmjfc8xpwkSjF35JmWM"
+    },
+    {
+      "album": {
         "name": "Songs for the Night",
         "url": "https://open.spotify.com/album/60Xwl0rRChGO4lmgCtlEeT"
       },
@@ -27821,6 +28115,24 @@
     },
     {
       "album": {
+        "name": "I Saw a Condor Once",
+        "url": "https://open.spotify.com/album/5kC03Q8DHpuRoPaCNcVZ8E"
+      },
+      "artists": [
+        {
+          "name": "Murr",
+          "url": "https://open.spotify.com/artist/3GMY6RVmh6Ud1aKHqKt9Fn"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "I Saw a Condor Once",
+      "url": "https://open.spotify.com/track/1HyTNPzkTHiSiYWaUMvnen"
+    },
+    {
+      "album": {
         "name": "COLOR",
         "url": "https://open.spotify.com/album/6orUTuao3d0g5kRnrbWd5b"
       },
@@ -28574,7 +28886,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 133746,
       "name": "Ice Skating - from \"Little Women\" Soundtrack",
       "url": "https://open.spotify.com/track/5r8sUP2WOJgUskeHK4z7or"
@@ -29144,7 +29456,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 225452,
       "name": "Impressions",
       "url": "https://open.spotify.com/track/326d9BacIYWjGCdVp9PVyK"
@@ -31726,7 +32038,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-05",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "Kindred",
       "url": "https://open.spotify.com/track/4rc8Ufdhz9t3T80tqxYxZ3"
@@ -31778,7 +32090,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 172986,
       "name": "King's Cross, After Dark",
       "url": "https://open.spotify.com/track/05uaqsUlTotv0OR9TRpmdz"
@@ -33202,7 +33514,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-17",
+      "date_removed": null,
       "duration_ms": 181849,
       "name": "Lei\u00f0in a\u00f0 hjarta \u00fe\u00ednu",
       "url": "https://open.spotify.com/track/1igZIDsbriwKZ581jU6Ub2"
@@ -40550,7 +40862,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 118227,
       "name": "Next Winter",
       "url": "https://open.spotify.com/track/71xlpCPnnoHB0X5jL7RjMP"
@@ -41293,6 +41605,24 @@
     },
     {
       "album": {
+        "name": "The Personal History of David Copperfield (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5b1HuHbpxKSfnjmuHFhFVW"
+      },
+      "artists": [
+        {
+          "name": "Christopher Willis",
+          "url": "https://open.spotify.com/artist/1Qu6r22G2M8Xqz0GawYv8P"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94266,
+      "name": "Notes and Impressions",
+      "url": "https://open.spotify.com/track/7aGwiDaLHrs97j9FfBsUeg"
+    },
+    {
+      "album": {
         "name": "Nothing Else",
         "url": "https://open.spotify.com/album/17ZG9du6NifqeFLMREoSg1"
       },
@@ -41868,7 +42198,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 203624,
       "name": "Oc\u00e9an",
       "url": "https://open.spotify.com/track/0GOkD1khAigdkz9YfpZ45b"
@@ -42442,7 +42772,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 381106,
       "name": "On the Nature of Daylight (Arr. Mackay)",
       "url": "https://open.spotify.com/track/22CFQhbgkhw1xncP7AgytV"
@@ -42991,6 +43321,28 @@
     },
     {
       "album": {
+        "name": "Open Fields",
+        "url": "https://open.spotify.com/album/1IfnpujaNJg9p3KyysasWP"
+      },
+      "artists": [
+        {
+          "name": "Adrien de la Salle",
+          "url": "https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN"
+        },
+        {
+          "name": "Francois Mathian",
+          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261609,
+      "name": "Open Fields",
+      "url": "https://open.spotify.com/track/6l0FhdyFpIEc7JTvfZEfP3"
+    },
+    {
+      "album": {
         "name": "Open Season",
         "url": "https://open.spotify.com/album/3vyA5G1a5ISREXX0A4D2Iv"
       },
@@ -43038,7 +43390,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 147174,
       "name": "Openness",
       "url": "https://open.spotify.com/track/3calJO0etN6xEgrOthNFyT"
@@ -43176,6 +43528,24 @@
       "duration_ms": 197900,
       "name": "Orpheus",
       "url": "https://open.spotify.com/track/2oyFkgt5lh7bQWBo5XQ4V4"
+    },
+    {
+      "album": {
+        "name": "aubades",
+        "url": "https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235480,
+      "name": "ouessant",
+      "url": "https://open.spotify.com/track/3W8kGdwFrLeZtPoLMdkHcW"
     },
     {
       "album": {
@@ -43564,6 +43934,24 @@
       "duration_ms": 181000,
       "name": "Overture (L\u00e1szl\u00f3)",
       "url": "https://open.spotify.com/track/1pmxbdk9YwoF3OuOleSxlM"
+    },
+    {
+      "album": {
+        "name": "Owl's Friend",
+        "url": "https://open.spotify.com/album/1T53I9Yd0sq9w3znSOqyiM"
+      },
+      "artists": [
+        {
+          "name": "Alan Gogoll",
+          "url": "https://open.spotify.com/artist/7MOxmVjcx5HWoEu9pBWXT3"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221507,
+      "name": "Owl's Friend",
+      "url": "https://open.spotify.com/track/2apaHpDvrUw1N0OFqgtHbF"
     },
     {
       "album": {
@@ -45286,7 +45674,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 191430,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/1oLJ9VtUnBYuc16GlKvAjw"
@@ -45438,7 +45826,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 187988,
       "name": "Preliminary Art Form",
       "url": "https://open.spotify.com/track/3b0R8FSaSFnxtkAdWz6krp"
@@ -45800,7 +46188,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 120129,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/0mvgFpL8y8gU7a03Dkghht"
@@ -46627,6 +47015,24 @@
     },
     {
       "album": {
+        "name": "Walking With Ghosts",
+        "url": "https://open.spotify.com/album/64rmZu0eAuaBkLf6qmqC9a"
+      },
+      "artists": [
+        {
+          "name": "Thom Robson",
+          "url": "https://open.spotify.com/artist/6dSKrqQgsG1AI65KmkJ3lk"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234473,
+      "name": "Remembering",
+      "url": "https://open.spotify.com/track/2RHW2VL9lzT70oVA4PvNaE"
+    },
+    {
+      "album": {
         "name": "Tangled Country",
         "url": "https://open.spotify.com/album/2HrPFeV2pa2SuwmcP4Ba9J"
       },
@@ -46704,7 +47110,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 117937,
       "name": "Renewal",
       "url": "https://open.spotify.com/track/71IQ3bdQYRma69RYqpHgkY"
@@ -47980,7 +48386,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 267333,
       "name": "Sad Heart of Mine",
       "url": "https://open.spotify.com/track/3e66nnkSbIvBHD8TFzh1mw"
@@ -48456,7 +48862,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 189708,
       "name": "Satie: Gymnop\u00e9die No. 1 - Cinthya Garcia Rework",
       "url": "https://open.spotify.com/track/7uTDKxNigQH0hsPE7duTvd"
@@ -49780,7 +50186,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 218360,
       "name": "Shine You No More",
       "url": "https://open.spotify.com/track/7ioUQRMN18iIUMF7hxsTuT"
@@ -52364,7 +52770,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 161500,
       "name": "Spring",
       "url": "https://open.spotify.com/track/5mlCM4cV2pgGSV177kL5hB"
@@ -53888,6 +54294,24 @@
       "duration_ms": 212062,
       "name": "Sugar, You",
       "url": "https://open.spotify.com/track/5TRxRgfNBFHkMdc4G80D7H"
+    },
+    {
+      "album": {
+        "name": "Stardew Valley (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0swXkrnGm7RP1BIHiqV8Jk"
+      },
+      "artists": [
+        {
+          "name": "ConcernedApe",
+          "url": "https://open.spotify.com/artist/2PqkSKtPxs112KDZdRXGO2"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218225,
+      "name": "Summer (The Sun Can Bend an Orange Sky)",
+      "url": "https://open.spotify.com/track/2uKkYCiGW09gxyNFxX9HTj"
     },
     {
       "album": {
@@ -55702,6 +56126,24 @@
       "duration_ms": 213381,
       "name": "Teach Me to Dance",
       "url": "https://open.spotify.com/track/6iFXuHUZIp4MTqUaDlX40y"
+    },
+    {
+      "album": {
+        "name": "A Beautiful Mind (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4LMSN7t3x1EWxDOQ6Edwii"
+      },
+      "artists": [
+        {
+          "name": "James Horner",
+          "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196266,
+      "name": "Teaching Mathematics Again",
+      "url": "https://open.spotify.com/track/1PDQ8QQ7bFbMBWqf5WnWvF"
     },
     {
       "album": {
@@ -58024,7 +58466,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 213333,
       "name": "The Message - from \"Project Hail Mary\"",
       "url": "https://open.spotify.com/track/4lahc0vPseD0pJWPSEAtan"
@@ -59000,7 +59442,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 161448,
       "name": "the shape of your smile",
       "url": "https://open.spotify.com/track/7vc3VAnRRrQzQk2HXQR5a8"
@@ -59163,6 +59605,24 @@
     },
     {
       "album": {
+        "name": "Songs from Rainbow Hill",
+        "url": "https://open.spotify.com/album/6neF6BqyI0l2mXMZ9KJGDX"
+      },
+      "artists": [
+        {
+          "name": "Ben Crosland",
+          "url": "https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178329,
+      "name": "The Snow is Melting",
+      "url": "https://open.spotify.com/track/4YAf3S3Qe8zLcZJnxLz362"
+    },
+    {
+      "album": {
         "name": "Gregory Alan Isakov with the Colorado Symphony",
         "url": "https://open.spotify.com/album/6fXCZozPfQBH8nrpZjaY6W"
       },
@@ -59204,6 +59664,24 @@
       "duration_ms": 297955,
       "name": "The Sting of Loss",
       "url": "https://open.spotify.com/track/6HlOD2ICoysyDOyMgqPb0S"
+    },
+    {
+      "album": {
+        "name": "Moneyball (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3l4qPqECm6fywG03Rwke6r"
+      },
+      "artists": [
+        {
+          "name": "Mychael Danna",
+          "url": "https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183840,
+      "name": "The Streak",
+      "url": "https://open.spotify.com/track/0vNY5T9ovcOxqA8B6QOATk"
     },
     {
       "album": {
@@ -61839,6 +62317,24 @@
     },
     {
       "album": {
+        "name": "Munich Session",
+        "url": "https://open.spotify.com/album/5Dp1VpNlgHhyXoLVU3xUEC"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cipa",
+          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Today and it\u2019s gone (Munich Session)",
+      "url": "https://open.spotify.com/track/2w2ILZhs6v4kAEPD8GLIJj"
+    },
+    {
+      "album": {
         "name": "Today, I Fell in Love (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3W9uh0lbe29nVSQ30jureQ"
       },
@@ -62164,7 +62660,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 188476,
       "name": "Transform",
       "url": "https://open.spotify.com/track/3qMDa03spxolAdk0C5gDHZ"
@@ -62396,7 +62892,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 225480,
       "name": "Truth - Helios Remix",
       "url": "https://open.spotify.com/track/49b9CdGP7y1vG3ArUQh75p"
@@ -63064,7 +63560,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 137968,
       "name": "Unfinished Story",
       "url": "https://open.spotify.com/track/0pdWIu5FMVfPECxtZIV1Py"
@@ -64438,6 +64934,24 @@
       "duration_ms": 98000,
       "name": "Want Life",
       "url": "https://open.spotify.com/track/5eHAjgN5wqucx16dIXfR4j"
+    },
+    {
+      "album": {
+        "name": "The Boy and the Heron - Original Soundtrack",
+        "url": "https://open.spotify.com/album/6oXCKKghd9Shmz2iU7ebbW"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109266,
+      "name": "Warawara",
+      "url": "https://open.spotify.com/track/4G8LP8aX27jJsdkGcUUg3q"
     },
     {
       "album": {

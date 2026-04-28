@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,175 songs - 3 day 14 hr 21 min
+1,177 songs - 3 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -677,7 +677,7 @@
 | [Neo \(Tiger Lou Remix\)](https://open.spotify.com/track/7s1WxIDmQ9OsFqApFLj6E3) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Tiger Lou](https://open.spotify.com/artist/7Jr7XgWFnKQ3mUgbhrVNlx) | [Mare Reworks](https://open.spotify.com/album/5bYn4Wb0pXW3NVh0eSlgh4) | 3:49 | 2019-06-19\* | 2022-04-21 |
 | [Neon Light](https://open.spotify.com/track/52ID6pQUnptVQlg7WbLx7x) | [Bituke](https://open.spotify.com/artist/3VCEbWGFkgN6oLTMvkhl2M) | [Neon Light](https://open.spotify.com/album/1WgdVyRz3le2abd7xudewz) | 3:44 | 2019-06-19\* | 2020-10-21 |
 | [Nest of Giants](https://open.spotify.com/track/6pd7pIrouxyluNYOq9mIa8) | [Moonfish](https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T), [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb), [Riccardo Chiaberta](https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1) | [Nest of Giants](https://open.spotify.com/album/2r8KQa48qb51Dmsd6HFmh7) | 2:36 | 2023-07-17 |  |
-| [NEVER LOOK DOWN](https://open.spotify.com/track/6GbngWsWlNtJbYMxHPif76) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [NEVER LOOK DOWN](https://open.spotify.com/album/630r50kjEHiZ0hftZtjn5k) | 4:04 | 2024-04-26 |  |
+| [NEVER LOOK DOWN](https://open.spotify.com/track/6GbngWsWlNtJbYMxHPif76) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [NEVER LOOK DOWN](https://open.spotify.com/album/630r50kjEHiZ0hftZtjn5k) | 4:04 | 2024-04-26 | 2026-04-28 |
 | [Never Lost](https://open.spotify.com/track/5gFYPS2iyiiQMMvzBlF4a5) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [1987](https://open.spotify.com/album/1mWQKczLANctDIiOKYc4IM) | 6:46 | 2019-06-19\* | 2020-08-26 |
 | [New Beginnings](https://open.spotify.com/track/2dIbIbzsIhjxYGyUELbNjM) | [Daydreamer](https://open.spotify.com/artist/7pcwfhcdyYJqkCV098EgYl) | [Senses](https://open.spotify.com/album/0ALxr1bwap4ptl8rjpLNop) | 2:54 | 2019-05-26\* | 2020-10-22 |
 | [New Lands](https://open.spotify.com/track/5Ti70Fpvrhm4VLo6yE4BlX) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 3:35 | 2019-06-19\* | 2022-04-14 |
@@ -725,6 +725,7 @@
 | [One Step Forward](https://open.spotify.com/track/5Xo1kp4UljShBuvV5PZfLj) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Trust In Me](https://open.spotify.com/album/1PXbhHNw3nz8hhYXyICbpA) | 3:19 | 2022-09-09 | 2024-04-19 |
 | [Oneness \- Ouhana Remix](https://open.spotify.com/track/4iqNvncs9sSJ89exI8t2rC) | [Belau](https://open.spotify.com/artist/3P6lDrnBON2Q48dZHQO0ya), [Ouhana](https://open.spotify.com/artist/3tVHTq8WIDFyayynQFPKo1) | [Apriori \(Deluxe Edition\)](https://open.spotify.com/album/6uwNoWtWAp4OHHRNSCrfaq) | 3:57 | 2024-10-07 | 2025-09-19 |
 | [Only In My Dreams](https://open.spotify.com/track/3ob0c8nlB7C6HdfEQLhdV4) | [Notaker](https://open.spotify.com/artist/0I7HgbIetYEIweWq7nD6En) | [PATH.FINDER](https://open.spotify.com/album/5wUNp46OQcNgYbjXSNYjYy) | 4:42 | 2019-06-19\* | 2020-10-22 |
+| [Only One](https://open.spotify.com/track/60Saa9MewzDID4AlFjn1vF) | [Next To Blue](https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco) | [Only One](https://open.spotify.com/album/6JTKA7BjgVRCeiZjxs6KzY) | 4:54 | 2026-04-16 |  |
 | [Open](https://open.spotify.com/track/2rExrHfNjFgSuAZnrcuCqL) | [Gelka](https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF), [Sam Brookes](https://open.spotify.com/artist/2QfiISy54lQqFOiZV5f1Zh) | [Café del Mar ChillWave 3](https://open.spotify.com/album/1DdsNCQ32Zoc8RtYB3sdPq) | 4:24 | 2019-06-19 | 2020-10-22 |
 | [Open Doors](https://open.spotify.com/track/7q42RrxgVbwqHrFUIj6w4E) | [dBridge](https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y) | [Inhibited LP](https://open.spotify.com/album/0WXEIsq4MYVxkK7Ap3YIfM) | 3:23 | 2020-08-26 | 2022-04-20 |
 | [Opening Act](https://open.spotify.com/track/00wwQihZ4rdkjkfukNhuQj) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8) | [If It Were You, We'd Never Leave \(Bonus Track Version\)](https://open.spotify.com/album/5lR2OH2Mw2L1dwIBpM16GD) | 3:34 | 2019-06-21 | 2020-10-22 |
@@ -859,6 +860,7 @@
 | [Scythe Master](https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Eat Your Own Ears Recordings EP 1](https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx) | 8:00 | 2022-07-15 | 2023-07-29 |
 | [Sea Of Voices](https://open.spotify.com/track/2lNFWUrxuNaQsf5I1pDTPr) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 4:58 | 2019-05-26\* | 2020-10-22 |
 | [Seasick](https://open.spotify.com/track/2uqfupZS1yPIS1wVo6EMA6) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [The North Water \(Original Score\)](https://open.spotify.com/album/1X5zkSYbZkIgmmJkMklgCh) | 4:40 | 2021-09-10 | 2022-07-27 |
+| [Seduction](https://open.spotify.com/track/0mEVAXbjfanF5Xetns8pPV) | [Intrusion](https://open.spotify.com/artist/3CWQ6k34DbG3G2UJpo8W1U) | [The Seduction of Silence](https://open.spotify.com/album/0B5zNMsNTnaaXQVlfNA0Wd) | 8:16 | 2026-04-16 |  |
 | [See Out Loud](https://open.spotify.com/track/7j7Nf0friRoOV82W4k0CGd) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq) | [Origins](https://open.spotify.com/album/6WKtIzf5m5Gw8YVuXIph4v) | 4:04 | 2024-06-07 | 2024-06-10 |
 | [Seek & Expand](https://open.spotify.com/track/6cuVOpIDJIuBxLbDFRDB17) | [Keeno](https://open.spotify.com/artist/6r54QO0889i9vqaeuruUSn), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK) | [Futurist](https://open.spotify.com/album/0N6wNVcGYMUcGpgomjMQj9) | 5:30 | 2019-06-19\* | 2022-04-20 |
 | [self\-love](https://open.spotify.com/track/20Qufms0u6e9mHprf81SzX) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [The Trip EP](https://open.spotify.com/album/0OVyWmEdWlSrG2EcbkXjt4) | 2:23 | 2019-06-19\* | 2021-03-09 |
@@ -1057,7 +1059,7 @@
 | [Tides](https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Tides](https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV) | 3:36 | 2024-01-16 |  |
 | [Tides](https://open.spotify.com/track/3kE3j0x9BMdyFExd2ZOq5z) | [Louf](https://open.spotify.com/artist/6FuiYA7qfyWvCzyWxepEjy) | [Kilopascal EP](https://open.spotify.com/album/4RRbT9V4De1XeIybWemoDI) | 5:31 | 2021-08-27 | 2022-07-29 |
 | [Time After Time](https://open.spotify.com/track/2TGqlWRA87pIBfdeEMmEoo) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [Late Night Tales presents Sasha: Scene Delete](https://open.spotify.com/album/5WiIPyir7oowZr5iGSu4l6) | 4:52 | 2019-07-25 | 2022-04-17 |
-| [Time Capsule](https://open.spotify.com/track/02ht7aTttJ0zbbHQh6jKlL) | [Nick Beman](https://open.spotify.com/artist/7ow15x0a0qAhy4ZK6xJKGx) | [Time Capsule](https://open.spotify.com/album/1uGLfESQqsa5TwO5YQSCRI) | 3:10 | 2020-04-23 |  |
+| [Time Capsule](https://open.spotify.com/track/02ht7aTttJ0zbbHQh6jKlL) | [Nick Beman](https://open.spotify.com/artist/7ow15x0a0qAhy4ZK6xJKGx) | [Time Capsule](https://open.spotify.com/album/1uGLfESQqsa5TwO5YQSCRI) | 3:10 | 2020-04-23 | 2026-04-28 |
 | [Time Has Come](https://open.spotify.com/track/6p6uByaFRKLblH2deQQN1R) | [Commix](https://open.spotify.com/artist/6B7hlHWFBeEw2LGfcDM7OR) | [Commix Presents Dusted](https://open.spotify.com/album/0z4Pqp1L8W4gHLduuwiynx) | 5:46 | 2019-06-22 | 2020-10-22 |
 | [Tiny Foldable Cities](https://open.spotify.com/track/2SXltUBZedk6WmygiYpwTB) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Tiny Foldable Cities](https://open.spotify.com/album/0Zdizuu59JYEQJ4ONzPrxW) | 5:44 | 2019-06-21 | 2020-08-26 |
 | [Tiny Foldable Cities \- Edit](https://open.spotify.com/track/4vmNRQQJZcQaJByRjJgCXy) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Tiny Foldable Cities](https://open.spotify.com/album/0Zdizuu59JYEQJ4ONzPrxW) | 3:39 | 2019-06-19\* | 2020-08-26 |

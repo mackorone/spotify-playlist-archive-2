@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Jugo Djarot
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,689 likes - 115 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,692 likes - 115 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 2 | [Stay](https://open.spotify.com/track/1Mk7OXg1AxopGOWsPL5GQf) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [Stay](https://open.spotify.com/album/1oA3WqpcTfAGsYzMixuToO) | 4:02 |
 | 3 | [Jika Semua Mudah, Mungkin Ku Tak Berdoa](https://open.spotify.com/track/67tGwy66utxSPDPyRAQb2q) | [Man Osman](https://open.spotify.com/artist/1kNneMUxusIQh9onXFoADF) | [Habis Gelap Terbitlah Senang](https://open.spotify.com/album/0sjQHHB2aigGEiFwZqqhCz) | 3:52 |
 | 4 | [Salah Kostum](https://open.spotify.com/track/64JQLPpK276q0f7pvfw8L5) | [Kathleen Ivanka](https://open.spotify.com/artist/5ExQXrBc4BWeoYrLDwKskF) | [Salah Kostum](https://open.spotify.com/album/7h22KAx3YKmdta47HYp9VU) | 4:44 |
-| 5 | [Firasat, firasat](https://open.spotify.com/track/3wC1IzAsZ2oU3cBmWvoapV) | [Pertunjukan](https://open.spotify.com/artist/3LCVPJDhAuLXDGiNCb6Km4) | [Firasat, firasat](https://open.spotify.com/album/4WfuSM1TGebLfhHSIiCNyw) | 3:32 |
+| 5 | [Firasat, firasat](https://open.spotify.com/track/3wC1IzAsZ2oU3cBmWvoapV) | [Pertunjukan](https://open.spotify.com/artist/3LCVPJDhAuLXDGiNCb6Km4) | [Firasat, firasat](https://open.spotify.com/album/4WfuSM1TGebLfhHSIiCNyw) | 3:35 |
 | 6 | [Mangoes](https://open.spotify.com/track/5vgYp3XPGGXk37i6qymmoR) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [Mangoes](https://open.spotify.com/album/28fXB4mhhQPVH3SGmAiLks) | 3:16 |
 | 7 | [Local Wisdumb](https://open.spotify.com/track/2XCvkqpaTqjqlVTXrTipco) | [Aldy Amis](https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V) | [Local Wisdumb](https://open.spotify.com/album/4EfSZ4WZVkAUwmi0Ur7C5C) | 2:30 |
 | 8 | [Tentang Dunia dan Masa Muda](https://open.spotify.com/track/4gHRbKrk17CxWEEvEMLNpV) | [Turbokidz](https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum) | [Tentang Dunia dan Masa Muda](https://open.spotify.com/album/6OIxujlnQ7BUq9q1J4zEqJ) | 4:15 |

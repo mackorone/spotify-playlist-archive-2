@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,241 songs - 4 day 20 hr 23 min
+2,243 songs - 4 day 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [24 Hours](https://open.spotify.com/track/58uUDYcy9U1dqS84ykFTFD) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [24 Hours](https://open.spotify.com/album/6eoDeTDawu6tl2CgNL2RDS) | 4:01 | 2021-12-16 | 2022-02-27 |
 | [24/7](https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [24/7](https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5) | 2:12 | 2025-08-14 | 2025-10-31 |
 | [27](https://open.spotify.com/track/7AP2A4pegrgeUgUBNCyGiP) | [Albin Tingwall](https://open.spotify.com/artist/3lcVkEoGO0JFaJBUCGQw2H) | [27](https://open.spotify.com/album/0o8gzkpjUijflo4ZddajDu) | 3:17 | 2024-06-06 | 2024-08-09 |
+| [27000](https://open.spotify.com/track/7r4ZIpRRYg0yMQOGigY1Rh) | [Tom River](https://open.spotify.com/artist/6vrVGkC0yApJHtA66iXyTs), [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [27000](https://open.spotify.com/album/4LyKFOCRcEpU9NQ7124XME) | 3:00 | 2026-04-23 |  |
 | [29 days](https://open.spotify.com/track/1DQ4r02CKWjK0Y4XEgiHl2) | [Cazzi Opeia](https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee), [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [29 days](https://open.spotify.com/album/20FGoymgA5kKqKUMOvZU5R) | 3:34 | 2025-01-30 | 2025-05-23 |
 | [2U](https://open.spotify.com/track/1ooZsaGgmQI9CIbHxwexbb) | [Youso](https://open.spotify.com/artist/06bgm6DvMlm9ciPIJWW0gh) | [2U](https://open.spotify.com/album/6JE4kCzhXEQEEuKaaL93qf) | 2:42 | 2022-01-13 | 2022-03-31 |
 | [30 grader](https://open.spotify.com/track/5vgXUNzWWxOFSWM93PapZ3) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P), [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX) | [30 grader](https://open.spotify.com/album/6S62IAftQnUL2tVp27xJzK) | 3:03 | 2024-06-27 | 2025-01-19 |
@@ -305,7 +306,7 @@
 | [Caroline](https://open.spotify.com/track/4xEB86BXrfF5qQ3M3YQni6) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Caroline](https://open.spotify.com/album/7DKecCGcWi5oAzFs3KCb3V) | 3:13 | 2026-02-12 |  |
 | [Carpe Diem](https://open.spotify.com/track/1LJFTgkr5UeYU2vUX4MAvp) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Carpe Diem](https://open.spotify.com/album/5iRT4669x6nim2INHF7wyI) | 3:12 | 2025-05-08 | 2025-10-17 |
 | [Cast Away](https://open.spotify.com/track/60tNQTn6gG8IeBI1YsDVhf) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Cast Away](https://open.spotify.com/album/3cBGqMdAh3xBtU9oCjixpA) | 3:14 | 2025-08-08 | 2025-10-26 |
-| [Catch & Release](https://open.spotify.com/track/0LgiKGRnK1IMk1bAOgrBcY) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Catch & Release](https://open.spotify.com/album/05x5NLjET5auVPaXvvuQcg) | 2:57 | 2026-01-08 |  |
+| [Catch & Release](https://open.spotify.com/track/0LgiKGRnK1IMk1bAOgrBcY) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Catch & Release](https://open.spotify.com/album/05x5NLjET5auVPaXvvuQcg) | 2:57 | 2026-01-08 | 2026-04-28 |
 | [Cause In The End You Know That Everybody Dies](https://open.spotify.com/track/2KnhQusDtv6RVE9iJXiYyE) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Cause In The End You Know That Everybody Dies](https://open.spotify.com/album/59Qf8zRZswDDDscEQhwSWM) | 3:33 | 2022-02-17 | 2022-09-16 |
 | [Celebration](https://open.spotify.com/track/0vCi2lbJVGrAguXQG6ZYmp) | [Mack Beats](https://open.spotify.com/artist/3GulSpXnCkqwVDg45tyly4), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Celebration](https://open.spotify.com/album/66sGKAAlomqdxcL1ybFuRx) | 3:27 | 2024-05-16 | 2024-06-14 |
 | [Champagne](https://open.spotify.com/track/2lIwPTpd2fhRq31jtFNBq1) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Champagne](https://open.spotify.com/album/0ph8WJ9gZSGnimj8QVkf6k) | 3:30 | 2022-04-22 | 2023-05-08 |
@@ -1589,6 +1590,7 @@
 | [Rosor & champagne](https://open.spotify.com/track/19s1sITOZWsUyCBva6mVs8) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Neutronstjärnan](https://open.spotify.com/album/1HObi9uMTxl0DmKdaDWgwx) | 4:08 | 2023-09-21 | 2024-01-19 |
 | [Rude Girl](https://open.spotify.com/track/5BIKxh0EVJnEQdP7Cn7XH6) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Rude Girl](https://open.spotify.com/album/5nalPhFowgImnYG9rvHhQs) | 3:04 | 2022-05-05 | 2022-07-05 |
 | [Ruff Tuff](https://open.spotify.com/track/7i3MKC9GHUqpnbM4DLhRGp) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Babydolls](https://open.spotify.com/album/6HORbSOngRfgyMEqkBkqCi) | 3:07 | 2022-05-30 | 2022-07-29 |
+| [Ruin & Reason](https://open.spotify.com/track/4axbfS64t1fReQG7IuXUsd) | [Ingrid](https://open.spotify.com/artist/3BdrVMEizhOoxjo2tWSiM6) | [Ruin & Reason](https://open.spotify.com/album/6BB9PVPYDlAi5U2zjPnlFX) | 2:56 | 2026-04-23 |  |
 | [Rule the World](https://open.spotify.com/track/3wegijGUPhF7eHGCIST2Rz) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [A Letter from the Universe](https://open.spotify.com/album/1KVlwAn0aLqaqxzgU5zItL) | 2:59 | 2022-04-01 | 2022-04-21 |
 | [Rules](https://open.spotify.com/track/5L4eBTgKImJ38Il24RNfKw) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [Bloom](https://open.spotify.com/album/3m7WDstzCDmAvvXFEfamyj) | 2:46 | 2022-12-22 | 2023-03-10 |
 | [Rulla eftertexten](https://open.spotify.com/track/32DulelwqqHmiNS3k9Wyxn) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Alla gör slut](https://open.spotify.com/album/4NqV0pKjmtudnuZ7SArHtG) | 3:26 | 2021-12-16 | 2022-03-11 |
@@ -2051,7 +2053,7 @@
 | [Utan Dig](https://open.spotify.com/track/2jV21oJdO1ELrpaJAQlYqn) | [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl) | [Utan Dig](https://open.spotify.com/album/6zzngklO5O8m6fWzoGf3hT) | 3:05 | 2024-06-06 | 2024-08-09 |
 | [Utan Dig \(oh nej\)](https://open.spotify.com/track/7prmKt30TMo28aiaMSPsbe) | [Laura Toth](https://open.spotify.com/artist/7je1BJ0ktL1zQbQSJhMU22), [Albin Loán](https://open.spotify.com/artist/6n8c8YMCqNbs0veQjYdYga) | [Utan Dig \(oh nej\)](https://open.spotify.com/album/4IuvDIuuhzpP2Vaa6sn7lv) | 2:37 | 2024-06-20 | 2024-08-30 |
 | [Utan dina andetag \- Spotify Singles](https://open.spotify.com/track/4bLVAX1N6G8e3Lpq7rwIFm) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Utan dina andetag \- Spotify Singles](https://open.spotify.com/album/3x3NE0VAzGPbsPuqqVQhmI) | 3:24 | 2024-05-02 | 2024-06-01 |
-| [VA INTE DUM](https://open.spotify.com/track/4yyRBOlD1qXPUYBasj7QK3) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E) | [VA INTE DUM](https://open.spotify.com/album/5ZtelQnle9AlgEz22V53bo) | 3:10 | 2026-01-22 |  |
+| [VA INTE DUM](https://open.spotify.com/track/4yyRBOlD1qXPUYBasj7QK3) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E) | [VA INTE DUM](https://open.spotify.com/album/5ZtelQnle9AlgEz22V53bo) | 3:10 | 2026-01-22 | 2026-04-28 |
 | [Vacay](https://open.spotify.com/track/4j5Wacxdpt9lIVJTx1g9QE) | [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [call dad](https://open.spotify.com/album/5tf1pWgqK4PTvkH1B4xynA) | 4:18 | 2022-03-24 | 2022-04-20 |
 | [Vacker sommarkväll](https://open.spotify.com/track/5lKHzV3tYHWHgkVGuwemlh) | [Daniel Bentzen](https://open.spotify.com/artist/5ylehJsTesa76T0hzJ88RY), [Albin Loán](https://open.spotify.com/artist/6n8c8YMCqNbs0veQjYdYga) | [Vacker sommarkväll](https://open.spotify.com/album/3UKfZlwZTf8AQkB1EHkiSw) | 1:58 | 2024-05-16 | 2024-06-14 |
 | [Vad Dom Sa](https://open.spotify.com/track/1g1YkPsarGn8O0XaUqKJkf) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Vad Dom Sa](https://open.spotify.com/album/2GXmmJ3Pa4263uiMUGVSJe) | 2:47 | 2024-09-26 | 2024-12-30 |

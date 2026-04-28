@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Mifz3ChtcR.md) - [plain]
 
 > Calming  ambient soundscapes to soothe your little friend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,731 likes - 200 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,802 likes - 200 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Mifz3ChtcR.md) - [plain]
 | 25 | [New pathways](https://open.spotify.com/track/7zumRMNxiOKZfWfFQAGvKv) | [Escape Velocity](https://open.spotify.com/artist/2tb72keD7ZfOudHYldg84Z) | [New pathways](https://open.spotify.com/album/0brXpfWDDbJPmTTUiFI8ao) | 2:46 |
 | 26 | [Little Stars](https://open.spotify.com/track/5xsVlgjH2ynxMoA2aZGncF) | [Slumber Boy](https://open.spotify.com/artist/5C6uOkvMPOZjPLDLwLga7n) | [Little Stars](https://open.spotify.com/album/0EeDRti0i2g1aned9Y0wyG) | 2:21 |
 | 27 | [Rainy Afternoon](https://open.spotify.com/track/0S0IzohIrXjqRSWqIc0TaA) | [Relax AF](https://open.spotify.com/artist/41QOw4HrudfICy0OqGkokO), [Tom Iansek](https://open.spotify.com/artist/5rSA8bm9qo9t5x8t8xXtwi) | [Rainy Afternoon](https://open.spotify.com/album/2vtFT6hD573N1VdJ0E1q9J) | 4:20 |
-| 28 | [Blue Stream](https://open.spotify.com/track/5Qc6jip2Ue3WtCM0f3g6Wo) | [Mdore](https://open.spotify.com/artist/2GBSmxVMYNgmDG4ImYuVqg) | [Blue Stream](https://open.spotify.com/album/2wntzIRwzNYrKVYn6C1ca9) | 2:31 |
-| 29 | [Blend Into Mind](https://open.spotify.com/track/3sKLohmcFswZytAWumqLTC) | [Mdelo](https://open.spotify.com/artist/7JWUjEVch4pACMPtmnDCog) | [Blend Into Mind](https://open.spotify.com/album/6oUYcwGBCbXHFCao6ixKmD) | 2:44 |
+| 28 | [Blue Stream](https://open.spotify.com/track/5Qc6jip2Ue3WtCM0f3g6Wo) | [Mdore](https://open.spotify.com/artist/2GBSmxVMYNgmDG4ImYuVqg), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Dreaming Phase](https://open.spotify.com/artist/5rfPDQ04f9uM3M0yNNY8qO) | [Blue Stream](https://open.spotify.com/album/2wntzIRwzNYrKVYn6C1ca9) | 2:31 |
+| 29 | [Blend Into Mind](https://open.spotify.com/track/3sKLohmcFswZytAWumqLTC) | [Mdelo](https://open.spotify.com/artist/7JWUjEVch4pACMPtmnDCog), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Gluvi](https://open.spotify.com/artist/0VZdU3u4J8It5A0BxKoJyi) | [Blend Into Mind](https://open.spotify.com/album/6oUYcwGBCbXHFCao6ixKmD) | 2:44 |
 | 30 | [All](https://open.spotify.com/track/1z0ViNyO1azQQXHPLi0AI4) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [All](https://open.spotify.com/album/6iBPX6L0MNHD57U77jUXnI) | 2:50 |
 | 31 | [Spreadlights](https://open.spotify.com/track/0qTDEkTUs2DW0yxQdJU6fN) | [Moonlace](https://open.spotify.com/artist/5rWVqF1S6rQFrpha9UU4ip) | [Spreadlights](https://open.spotify.com/album/5K2TpyZrQHyyYkUwJ8uDQ0) | 2:47 |
 | 32 | [Soothe Your Mind](https://open.spotify.com/track/51F5DVc29FBcUm82T7RqoD) | [Zen Anani](https://open.spotify.com/artist/5urqRIieWuxva363YmJoU2) | [Soothe Your Mind](https://open.spotify.com/album/2X8j8c4CZQY2sQ69yp0BWx) | 2:22 |

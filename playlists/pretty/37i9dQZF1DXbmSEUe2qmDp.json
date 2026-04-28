@@ -63,22 +63,6 @@
     {
       "added_at": "2026-04-24 03:01:36",
       "album": {
-        "name": "Loucura ou Calmaria",
-        "url": "https://open.spotify.com/album/5uRPgpF1xTj7SNO144kJTn"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Sales",
-          "url": "https://open.spotify.com/artist/6tcNRB3rCmYF41qZo5UXkL"
-        }
-      ],
-      "duration_ms": 186428,
-      "name": "Loucura ou Calmaria",
-      "url": "https://open.spotify.com/track/5D74e7MiHeiI7OUfCzfjZ4"
-    },
-    {
-      "added_at": "2026-04-24 03:01:36",
-      "album": {
         "name": "Cora\u00e7\u00f5es Ego\u00edstas (Ao Vivo)",
         "url": "https://open.spotify.com/album/5EJ3gqKytGFbpTcCqa2i1d"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 200446,
       "name": "Cora\u00e7\u00f5es Ego\u00edstas - Ao Vivo",
       "url": "https://open.spotify.com/track/2qkQepMIeGGSJJUMpADU4T"
+    },
+    {
+      "added_at": "2026-04-24 03:01:36",
+      "album": {
+        "name": "Loucura ou Calmaria",
+        "url": "https://open.spotify.com/album/5uRPgpF1xTj7SNO144kJTn"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Sales",
+          "url": "https://open.spotify.com/artist/6tcNRB3rCmYF41qZo5UXkL"
+        }
+      ],
+      "duration_ms": 186428,
+      "name": "Loucura ou Calmaria",
+      "url": "https://open.spotify.com/track/5D74e7MiHeiI7OUfCzfjZ4"
     },
     {
       "added_at": "2026-04-24 03:01:36",
@@ -147,6 +147,26 @@
     {
       "added_at": "2026-04-24 03:01:36",
       "album": {
+        "name": "N\u00famero Chato (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1eHpcJfss839hxB07LtRfu"
+      },
+      "artists": [
+        {
+          "name": "Leo Balbinotti",
+          "url": "https://open.spotify.com/artist/4d6z6mxq6eHpFojPtbYIkx"
+        },
+        {
+          "name": "Danilo e Davi",
+          "url": "https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u"
+        }
+      ],
+      "duration_ms": 194459,
+      "name": "N\u00famero Chato - Ao Vivo",
+      "url": "https://open.spotify.com/track/6AOBP3LgN0y8DgqwqD7913"
+    },
+    {
+      "added_at": "2026-04-24 03:01:36",
+      "album": {
         "name": "Barzin, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig"
       },
@@ -175,6 +195,26 @@
       "duration_ms": 125970,
       "name": "Cadeado No Dedo",
       "url": "https://open.spotify.com/track/54PL6YkAOs5jXF8mHajii0"
+    },
+    {
+      "added_at": "2026-04-24 03:01:36",
+      "album": {
+        "name": "Conte\u00fado Abusivo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2U3WV15ARM57gJBQCYL4oG"
+      },
+      "artists": [
+        {
+          "name": "EMY",
+          "url": "https://open.spotify.com/artist/13fMx723suUQcpO78PPD8W"
+        },
+        {
+          "name": "Mariana Fagundes",
+          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
+        }
+      ],
+      "duration_ms": 165481,
+      "name": "Conte\u00fado Abusivo - Ao Vivo",
+      "url": "https://open.spotify.com/track/64WaTsz7QqYEXPYv0uidA7"
     },
     {
       "added_at": "2026-04-24 03:01:36",
@@ -211,26 +251,6 @@
       "duration_ms": 174698,
       "name": "Brincadeira Gostosa - Ao Vivo",
       "url": "https://open.spotify.com/track/5o1cSr6a6qhooelaFTXP05"
-    },
-    {
-      "added_at": "2026-04-24 03:01:36",
-      "album": {
-        "name": "Conte\u00fado Abusivo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2U3WV15ARM57gJBQCYL4oG"
-      },
-      "artists": [
-        {
-          "name": "EMY",
-          "url": "https://open.spotify.com/artist/13fMx723suUQcpO78PPD8W"
-        },
-        {
-          "name": "Mariana Fagundes",
-          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
-        }
-      ],
-      "duration_ms": 165481,
-      "name": "Conte\u00fado Abusivo - Ao Vivo",
-      "url": "https://open.spotify.com/track/64WaTsz7QqYEXPYv0uidA7"
     },
     {
       "added_at": "2026-04-24 03:01:36",
@@ -331,6 +351,22 @@
     {
       "added_at": "2026-04-24 03:01:36",
       "album": {
+        "name": "Nando Moreno na Cavalgada, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/08fgG5VnLebtUQvFqb8pYQ"
+      },
+      "artists": [
+        {
+          "name": "Nando Moreno",
+          "url": "https://open.spotify.com/artist/5Ej65Fc57FkxAlzXPZ2Z8t"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Tanto Faz - Ao Vivo",
+      "url": "https://open.spotify.com/track/4QZXIh65DLZLnaJ0D4uSOr"
+    },
+    {
+      "added_at": "2026-04-24 03:01:36",
+      "album": {
         "name": "Ela Me Largou (Ao Vivo)",
         "url": "https://open.spotify.com/album/6zpPc3DcMnC2SxXa6NOCuS"
       },
@@ -351,22 +387,18 @@
     {
       "added_at": "2026-04-24 03:01:36",
       "album": {
-        "name": "N\u00famero Chato (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1eHpcJfss839hxB07LtRfu"
+        "name": "Foi Bom Enquanto Durou",
+        "url": "https://open.spotify.com/album/5RI01jpaxEc9gQQl0d29rH"
       },
       "artists": [
         {
-          "name": "Leo Balbinotti",
-          "url": "https://open.spotify.com/artist/4d6z6mxq6eHpFojPtbYIkx"
-        },
-        {
-          "name": "Danilo e Davi",
-          "url": "https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u"
+          "name": "Jennifer Scheffer",
+          "url": "https://open.spotify.com/artist/5pUunA7YSNnIdMv8qN92yN"
         }
       ],
-      "duration_ms": 194459,
-      "name": "N\u00famero Chato - Ao Vivo",
-      "url": "https://open.spotify.com/track/6AOBP3LgN0y8DgqwqD7913"
+      "duration_ms": 157175,
+      "name": "Foi Bom Enquanto Durou",
+      "url": "https://open.spotify.com/track/3MdpSA1MiG3QvwqPW216OX"
     },
     {
       "added_at": "2026-04-24 03:01:36",
@@ -391,38 +423,6 @@
     {
       "added_at": "2026-04-24 03:01:36",
       "album": {
-        "name": "Nando Moreno na Cavalgada, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/08fgG5VnLebtUQvFqb8pYQ"
-      },
-      "artists": [
-        {
-          "name": "Nando Moreno",
-          "url": "https://open.spotify.com/artist/5Ej65Fc57FkxAlzXPZ2Z8t"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Tanto Faz - Ao Vivo",
-      "url": "https://open.spotify.com/track/4QZXIh65DLZLnaJ0D4uSOr"
-    },
-    {
-      "added_at": "2026-04-24 03:01:36",
-      "album": {
-        "name": "Foi Bom Enquanto Durou",
-        "url": "https://open.spotify.com/album/5RI01jpaxEc9gQQl0d29rH"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Scheffer",
-          "url": "https://open.spotify.com/artist/5pUunA7YSNnIdMv8qN92yN"
-        }
-      ],
-      "duration_ms": 157175,
-      "name": "Foi Bom Enquanto Durou",
-      "url": "https://open.spotify.com/track/3MdpSA1MiG3QvwqPW216OX"
-    },
-    {
-      "added_at": "2026-04-24 03:01:36",
-      "album": {
         "name": "Um Novo Horizonte, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1QrAebRIqS4gL3IL6qY4dl"
       },
@@ -435,22 +435,6 @@
       "duration_ms": 208924,
       "name": "N\u00e3o Tem Cora\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/46OvpQBI6USXfd3cBmRpt2"
-    },
-    {
-      "added_at": "2026-04-24 03:01:36",
-      "album": {
-        "name": "Melhor Que Nada",
-        "url": "https://open.spotify.com/album/6bngCBIIs1owLd2AqaiEmx"
-      },
-      "artists": [
-        {
-          "name": "William Couto e Adriano",
-          "url": "https://open.spotify.com/artist/69s330fe8iNBuwivcPadWY"
-        }
-      ],
-      "duration_ms": 131277,
-      "name": "Melhor Que Nada",
-      "url": "https://open.spotify.com/track/3AO9yY4VXDs0lXkqjhUCVh"
     },
     {
       "added_at": "2026-04-24 03:01:36",
@@ -475,6 +459,22 @@
       "duration_ms": 174339,
       "name": "Cumprindo Agenda",
       "url": "https://open.spotify.com/track/7nyaCSoLzDz6VDr3nKjxc7"
+    },
+    {
+      "added_at": "2026-04-24 03:01:36",
+      "album": {
+        "name": "Melhor Que Nada",
+        "url": "https://open.spotify.com/album/6bngCBIIs1owLd2AqaiEmx"
+      },
+      "artists": [
+        {
+          "name": "William Couto e Adriano",
+          "url": "https://open.spotify.com/artist/69s330fe8iNBuwivcPadWY"
+        }
+      ],
+      "duration_ms": 131277,
+      "name": "Melhor Que Nada",
+      "url": "https://open.spotify.com/track/3AO9yY4VXDs0lXkqjhUCVh"
     },
     {
       "added_at": "2026-04-24 03:01:36",
@@ -535,26 +535,6 @@
     {
       "added_at": "2026-04-24 03:01:36",
       "album": {
-        "name": "Desce \u00c1lcool",
-        "url": "https://open.spotify.com/album/3rcKvg4eioRnsf2x8ltth5"
-      },
-      "artists": [
-        {
-          "name": "Ricco Montana",
-          "url": "https://open.spotify.com/artist/4MBeBh9z2p0bpbD79Lrqu7"
-        },
-        {
-          "name": "Pedro Paulo & Alex",
-          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
-        }
-      ],
-      "duration_ms": 132291,
-      "name": "Desce \u00c1lcool",
-      "url": "https://open.spotify.com/track/3nTHxfQNhlmCsWoR7TPJ2M"
-    },
-    {
-      "added_at": "2026-04-24 03:01:36",
-      "album": {
         "name": "Ao Vivo no Studio Bar, Vol.1",
         "url": "https://open.spotify.com/album/2P3xr478xr9eUnpOsfIUQo"
       },
@@ -579,18 +559,22 @@
     {
       "added_at": "2026-04-24 03:01:36",
       "album": {
-        "name": "Rastros",
-        "url": "https://open.spotify.com/album/4kNt9qMV9sqePGrj9uUKD9"
+        "name": "Desce \u00c1lcool",
+        "url": "https://open.spotify.com/album/3rcKvg4eioRnsf2x8ltth5"
       },
       "artists": [
         {
-          "name": "Breno & Caio Cesar",
-          "url": "https://open.spotify.com/artist/0qzIE6qGhz0erJe0Fy8RHt"
+          "name": "Ricco Montana",
+          "url": "https://open.spotify.com/artist/4MBeBh9z2p0bpbD79Lrqu7"
+        },
+        {
+          "name": "Pedro Paulo & Alex",
+          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
         }
       ],
-      "duration_ms": 171684,
-      "name": "Rastros",
-      "url": "https://open.spotify.com/track/25X7VcSsx26elZFaso3vQv"
+      "duration_ms": 132291,
+      "name": "Desce \u00c1lcool",
+      "url": "https://open.spotify.com/track/3nTHxfQNhlmCsWoR7TPJ2M"
     },
     {
       "added_at": "2026-04-24 03:01:36",
@@ -615,22 +599,18 @@
     {
       "added_at": "2026-04-24 03:01:36",
       "album": {
-        "name": "A\u00ed \u00c9 Loucura, Ep. 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5NsyRGDgr4Qep8JEgc7YuM"
+        "name": "Rastros",
+        "url": "https://open.spotify.com/album/4kNt9qMV9sqePGrj9uUKD9"
       },
       "artists": [
         {
-          "name": "Borges & Dedeu",
-          "url": "https://open.spotify.com/artist/0OhKWG75cikvQc8iUNeo8D"
-        },
-        {
-          "name": "MJ Records",
-          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+          "name": "Breno & Caio Cesar",
+          "url": "https://open.spotify.com/artist/0qzIE6qGhz0erJe0Fy8RHt"
         }
       ],
-      "duration_ms": 242316,
-      "name": "Seu Astral / Enquanto Houver Raz\u00f5es - Ao Vivo",
-      "url": "https://open.spotify.com/track/5s5thQ6XDeYzFf2MGjQ4yx"
+      "duration_ms": 171684,
+      "name": "Rastros",
+      "url": "https://open.spotify.com/track/25X7VcSsx26elZFaso3vQv"
     },
     {
       "added_at": "2026-04-24 03:01:36",
@@ -651,18 +631,22 @@
     {
       "added_at": "2026-04-24 03:01:36",
       "album": {
-        "name": "Da Boca Pra Fora",
-        "url": "https://open.spotify.com/album/6HnNWhAj8UtVGeuldwh9qm"
+        "name": "A\u00ed \u00c9 Loucura, Ep. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5NsyRGDgr4Qep8JEgc7YuM"
       },
       "artists": [
         {
-          "name": "Jennifer e Stephany",
-          "url": "https://open.spotify.com/artist/01C18y2QWahmooYkwKs0UP"
+          "name": "Borges & Dedeu",
+          "url": "https://open.spotify.com/artist/0OhKWG75cikvQc8iUNeo8D"
+        },
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
         }
       ],
-      "duration_ms": 201679,
-      "name": "Da Boca Pra Fora",
-      "url": "https://open.spotify.com/track/6N9jEV2oY4i7FTRsC9GFNw"
+      "duration_ms": 242316,
+      "name": "Seu Astral / Enquanto Houver Raz\u00f5es - Ao Vivo",
+      "url": "https://open.spotify.com/track/5s5thQ6XDeYzFf2MGjQ4yx"
     },
     {
       "added_at": "2026-04-24 03:01:36",
@@ -679,6 +663,22 @@
       "duration_ms": 152138,
       "name": "Eu Lembro",
       "url": "https://open.spotify.com/track/4R8yX5JJdTIrUcseN9mNcE"
+    },
+    {
+      "added_at": "2026-04-24 03:01:36",
+      "album": {
+        "name": "Da Boca Pra Fora",
+        "url": "https://open.spotify.com/album/6HnNWhAj8UtVGeuldwh9qm"
+      },
+      "artists": [
+        {
+          "name": "Jennifer e Stephany",
+          "url": "https://open.spotify.com/artist/01C18y2QWahmooYkwKs0UP"
+        }
+      ],
+      "duration_ms": 201679,
+      "name": "Da Boca Pra Fora",
+      "url": "https://open.spotify.com/track/6N9jEV2oY4i7FTRsC9GFNw"
     },
     {
       "added_at": "2026-04-24 03:01:36",
@@ -763,6 +763,26 @@
     {
       "added_at": "2026-04-24 03:01:36",
       "album": {
+        "name": "Atitude (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0TcCxLMXhOJmANZu0gnIUK"
+      },
+      "artists": [
+        {
+          "name": "Renan e Ray",
+          "url": "https://open.spotify.com/artist/0CMhks6EQXEKjZvL0iF2zJ"
+        },
+        {
+          "name": "Val\u00e9ria Barros",
+          "url": "https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv"
+        }
+      ],
+      "duration_ms": 193891,
+      "name": "Atitude - Ao Vivo",
+      "url": "https://open.spotify.com/track/0TwG7f7nOry9EVTHdPwhqc"
+    },
+    {
+      "added_at": "2026-04-24 03:01:36",
+      "album": {
         "name": "Prefiro Te Perder - 25 Anos Ao Vivo",
         "url": "https://open.spotify.com/album/0zv7uC8Q753lJiDmPYkkYB"
       },
@@ -799,22 +819,18 @@
     {
       "added_at": "2026-04-24 03:01:36",
       "album": {
-        "name": "Atitude (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0TcCxLMXhOJmANZu0gnIUK"
+        "name": "Primeira L\u00e1grima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1zGNZUtaIZmHUYvuLQjXFk"
       },
       "artists": [
         {
-          "name": "Renan e Ray",
-          "url": "https://open.spotify.com/artist/0CMhks6EQXEKjZvL0iF2zJ"
-        },
-        {
-          "name": "Val\u00e9ria Barros",
-          "url": "https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv"
+          "name": "Arielly Dara",
+          "url": "https://open.spotify.com/artist/1lfMHE6e3gIrEvzUeLGUD7"
         }
       ],
-      "duration_ms": 193891,
-      "name": "Atitude - Ao Vivo",
-      "url": "https://open.spotify.com/track/0TwG7f7nOry9EVTHdPwhqc"
+      "duration_ms": 163448,
+      "name": "Primeira L\u00e1grima - Ao Vivo",
+      "url": "https://open.spotify.com/track/0K6l2wZRSwHIIyiQF7Ttzn"
     },
     {
       "added_at": "2026-04-24 03:01:36",
@@ -831,22 +847,6 @@
       "duration_ms": 161747,
       "name": "Suor de Ontem - Ao Vivo",
       "url": "https://open.spotify.com/track/1d8JQJ2Rjd8faYHhzsECQh"
-    },
-    {
-      "added_at": "2026-04-24 03:01:36",
-      "album": {
-        "name": "Primeira L\u00e1grima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1zGNZUtaIZmHUYvuLQjXFk"
-      },
-      "artists": [
-        {
-          "name": "Arielly Dara",
-          "url": "https://open.spotify.com/artist/1lfMHE6e3gIrEvzUeLGUD7"
-        }
-      ],
-      "duration_ms": 163448,
-      "name": "Primeira L\u00e1grima - Ao Vivo",
-      "url": "https://open.spotify.com/track/0K6l2wZRSwHIIyiQF7Ttzn"
     },
     {
       "added_at": "2026-04-24 03:01:36",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-04-24 03:01:36",
       "album": {
-        "name": "Voc\u00ea \u00e9 Voc\u00ea",
-        "url": "https://open.spotify.com/album/3BIGSJIEc6qEJuXw2hzej0"
-      },
-      "artists": [
-        {
-          "name": "May e Gabi",
-          "url": "https://open.spotify.com/artist/7Hp5amK5MrJdUFx1r9QrVq"
-        }
-      ],
-      "duration_ms": 171834,
-      "name": "Voc\u00ea \u00e9 Voc\u00ea",
-      "url": "https://open.spotify.com/track/0PCpcj9LfR988741kQXCAB"
-    },
-    {
-      "added_at": "2026-04-24 03:01:36",
-      "album": {
         "name": "Resenha das Braba",
         "url": "https://open.spotify.com/album/3wwcnDA29ACJXXCm3cJ2qA"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 149909,
       "name": "Nunca \u00e9 Demais",
       "url": "https://open.spotify.com/track/4IMlU0sY3X6lgvQwJWwmws"
+    },
+    {
+      "added_at": "2026-04-24 03:01:36",
+      "album": {
+        "name": "Voc\u00ea \u00e9 Voc\u00ea",
+        "url": "https://open.spotify.com/album/3BIGSJIEc6qEJuXw2hzej0"
+      },
+      "artists": [
+        {
+          "name": "May e Gabi",
+          "url": "https://open.spotify.com/artist/7Hp5amK5MrJdUFx1r9QrVq"
+        }
+      ],
+      "duration_ms": 171834,
+      "name": "Voc\u00ea \u00e9 Voc\u00ea",
+      "url": "https://open.spotify.com/track/0PCpcj9LfR988741kQXCAB"
     },
     {
       "added_at": "2026-04-24 03:01:36",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-04-24 03:01:36",
       "album": {
+        "name": "M\u00e3os Juntas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7sckhZS1n1hp0ucF9muWTK"
+      },
+      "artists": [
+        {
+          "name": "S\u00e2mi Rico",
+          "url": "https://open.spotify.com/artist/6glVyoyoX2Rt180V8BzE0k"
+        }
+      ],
+      "duration_ms": 214571,
+      "name": "M\u00e3os Juntas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1cd046aQyr3pb0jzsOPkRE"
+    },
+    {
+      "added_at": "2026-04-24 03:01:36",
+      "album": {
         "name": "N\u00e3o \u00e9 por acaso",
         "url": "https://open.spotify.com/album/5sIVd7DRDwkUax423EhiHT"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2026-04-24 03:01:36",
       "album": {
-        "name": "M\u00e3os Juntas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7sckhZS1n1hp0ucF9muWTK"
+        "name": "Hist\u00f3rico de Trai\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1UQiTjTiE8pUWjyYtophZJ"
       },
       "artists": [
         {
-          "name": "S\u00e2mi Rico",
-          "url": "https://open.spotify.com/artist/6glVyoyoX2Rt180V8BzE0k"
+          "name": "Matheus e Turelli",
+          "url": "https://open.spotify.com/artist/5MPzeoZaH4CcqyHnGrTgjd"
         }
       ],
-      "duration_ms": 214571,
-      "name": "M\u00e3os Juntas - Ao Vivo",
-      "url": "https://open.spotify.com/track/1cd046aQyr3pb0jzsOPkRE"
+      "duration_ms": 164746,
+      "name": "Hist\u00f3rico de Trai\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/78FtKsMjLYpliAWk6uoSGl"
     },
     {
       "added_at": "2026-04-24 03:01:36",
@@ -1195,18 +1211,18 @@
     {
       "added_at": "2026-04-24 03:01:36",
       "album": {
-        "name": "Hist\u00f3rico de Trai\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1UQiTjTiE8pUWjyYtophZJ"
+        "name": "Tampa da Silverado",
+        "url": "https://open.spotify.com/album/6KU7uc58KPi2VIXtjY0rxj"
       },
       "artists": [
         {
-          "name": "Matheus e Turelli",
-          "url": "https://open.spotify.com/artist/5MPzeoZaH4CcqyHnGrTgjd"
+          "name": "May e Gabi",
+          "url": "https://open.spotify.com/artist/7Hp5amK5MrJdUFx1r9QrVq"
         }
       ],
-      "duration_ms": 164746,
-      "name": "Hist\u00f3rico de Trai\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/78FtKsMjLYpliAWk6uoSGl"
+      "duration_ms": 142558,
+      "name": "Tampa da Silverado",
+      "url": "https://open.spotify.com/track/3AmUBqYceSmsF7wfE3pkDa"
     },
     {
       "added_at": "2026-04-24 03:01:36",
@@ -1243,22 +1259,6 @@
       "duration_ms": 162837,
       "name": "N\u00e3o Tenho Advogado - Ao Vivo",
       "url": "https://open.spotify.com/track/5UThpd6uiIEi9cJWmNpKe6"
-    },
-    {
-      "added_at": "2026-04-24 03:01:36",
-      "album": {
-        "name": "Tampa da Silverado",
-        "url": "https://open.spotify.com/album/6KU7uc58KPi2VIXtjY0rxj"
-      },
-      "artists": [
-        {
-          "name": "May e Gabi",
-          "url": "https://open.spotify.com/artist/7Hp5amK5MrJdUFx1r9QrVq"
-        }
-      ],
-      "duration_ms": 142558,
-      "name": "Tampa da Silverado",
-      "url": "https://open.spotify.com/track/3AmUBqYceSmsF7wfE3pkDa"
     }
   ],
   "unique_name": "Gera\u00e7\u00e3o Sertaneja",

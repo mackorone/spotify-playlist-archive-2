@@ -2784,7 +2784,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 182608,
       "name": "meow",
       "url": "https://open.spotify.com/track/3mgNcwbzUEcef2YkErCf4r"
@@ -2806,7 +2806,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 167999,
       "name": "Microhabitat (feat. Kim gyeol)",
       "url": "https://open.spotify.com/track/5LiVDw69xDemUK2MytNo3r"
@@ -3156,6 +3156,24 @@
       "duration_ms": 210555,
       "name": "Notting Hill",
       "url": "https://open.spotify.com/track/5nuHas0chnay1eVNwpox1p"
+    },
+    {
+      "album": {
+        "name": "Don't Call Me Ma'am (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/6OS0R1y5cBfxW3FMWLIAzN"
+      },
+      "artists": [
+        {
+          "name": "Jo eunsae",
+          "url": "https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Now, everything's okay",
+      "url": "https://open.spotify.com/track/5MT37pOYuP5FXlnuDsA7ab"
     },
     {
       "album": {
@@ -4056,6 +4074,24 @@
       "duration_ms": 180000,
       "name": "Summer Light",
       "url": "https://open.spotify.com/track/0qVuFvG0cSQgsPt9AxqKYk"
+    },
+    {
+      "album": {
+        "name": "Summer Night",
+        "url": "https://open.spotify.com/album/7EZ0yfwDMbBOGXenawEyrN"
+      },
+      "artists": [
+        {
+          "name": "Eunbyeol",
+          "url": "https://open.spotify.com/artist/6w4yTmsjdEcvc2nKuQo6gJ"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187203,
+      "name": "Summer Night",
+      "url": "https://open.spotify.com/track/2OPjYrfRluQbGJdol3EZkS"
     },
     {
       "album": {

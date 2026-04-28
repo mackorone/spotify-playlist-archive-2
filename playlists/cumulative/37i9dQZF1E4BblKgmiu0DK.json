@@ -560,7 +560,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 194500,
       "name": "Bad Fit",
       "url": "https://open.spotify.com/track/4vCgUOSK4Netdnut3HJbWX"
@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Erika Rodriguz",
+        "url": "https://open.spotify.com/album/4AoFlECPLN5XpLj2kMDWuV"
+      },
+      "artists": [
+        {
+          "name": "Erika Rodriguz",
+          "url": "https://open.spotify.com/artist/1Fo14ULgioqGrfSfBjQYUd"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "Become a Star",
+      "url": "https://open.spotify.com/track/0AkU8bq2NoY9ykLlTCeq1m"
+    },
+    {
+      "album": {
         "name": "Before Dawn",
         "url": "https://open.spotify.com/album/28E2vbBulGfEKD0auVn1Oz"
       },
@@ -708,6 +726,28 @@
       "duration_ms": 129690,
       "name": "Before Dawn",
       "url": "https://open.spotify.com/track/15mITOWRU2Ff3CVT5lowQ7"
+    },
+    {
+      "album": {
+        "name": "Below Average",
+        "url": "https://open.spotify.com/album/4jV84gTRJ7OOZ4GYAubuJ4"
+      },
+      "artists": [
+        {
+          "name": "Meg Rilley",
+          "url": "https://open.spotify.com/artist/2qxe2DPc6UjVIEupBqeSsY"
+        },
+        {
+          "name": "Meg & The Boys",
+          "url": "https://open.spotify.com/artist/0GRFitz471oseey4rPJAwV"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248376,
+      "name": "Below Average",
+      "url": "https://open.spotify.com/track/3wtRTHG1jcec4PCWhuuhdd"
     },
     {
       "album": {
@@ -1086,6 +1126,24 @@
       "duration_ms": 181853,
       "name": "Brilliant Something",
       "url": "https://open.spotify.com/track/1J64Vpk715e2N2dcT3Ophc"
+    },
+    {
+      "album": {
+        "name": "Broken heart",
+        "url": "https://open.spotify.com/album/3w3GWxs8EDcMgfzkCD3qBq"
+      },
+      "artists": [
+        {
+          "name": "Ery'kah Sumiko Cunningham JR",
+          "url": "https://open.spotify.com/artist/0X4AV6rhg6iTmR3gYGwxUT"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148300,
+      "name": "Broken heart",
+      "url": "https://open.spotify.com/track/0yZpKqu7qYtOY3tSBKKdrt"
     },
     {
       "album": {
@@ -2054,7 +2112,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 202840,
       "name": "Fall Behind Me",
       "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
@@ -2108,7 +2166,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 278528,
       "name": "Feast On Scraps",
       "url": "https://open.spotify.com/track/3cz5frNekuhEuyrEe9XPgJ"
@@ -2404,7 +2462,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 232621,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/6jzw4EEnXgI2nrpYRrz6qG"
@@ -2530,7 +2588,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 156683,
       "name": "Funeral Of A Good Grrl",
       "url": "https://open.spotify.com/track/2UOEWzQIGIwxxBdT64ZV8J"
@@ -2818,7 +2876,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 173440,
       "name": "Have You No Pride",
       "url": "https://open.spotify.com/track/6hyawvI37HZdXkvDbAKLjv"
@@ -2890,7 +2948,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 168855,
       "name": "Hell and Everything Between",
       "url": "https://open.spotify.com/track/48CWlDiqiNvbq2Uouin6FG"
@@ -2944,7 +3002,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 174236,
       "name": "Here For The Party",
       "url": "https://open.spotify.com/track/25aLYsdkEkwRIKWGUE6q6w"
@@ -2962,7 +3020,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 209386,
       "name": "Hey School Boy",
       "url": "https://open.spotify.com/track/6nuLMQ9g3NAObKgdZ9YLbu"
@@ -3074,7 +3132,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 161013,
       "name": "Hot Tonight",
       "url": "https://open.spotify.com/track/6DJ7CDYlN9XcWuUUf71ZDT"
@@ -3326,7 +3384,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 162124,
       "name": "I Can't",
       "url": "https://open.spotify.com/track/3LE634W6PeNFqwztYMpnpQ"
@@ -3680,7 +3738,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -3914,7 +3972,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 193587,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
@@ -3968,7 +4026,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 169230,
       "name": "Last Life",
       "url": "https://open.spotify.com/track/7tXv1zympQDmUL8eDqfvTn"
@@ -5118,7 +5176,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 193732,
       "name": "Occupied",
       "url": "https://open.spotify.com/track/3igxx0rlxRJcUIe8vu12E8"
@@ -5176,6 +5234,24 @@
       "duration_ms": 254040,
       "name": "On The Prowl",
       "url": "https://open.spotify.com/track/4gYJI8dIrw2nbU80TccOGc"
+    },
+    {
+      "album": {
+        "name": "ON/OFF",
+        "url": "https://open.spotify.com/album/5ruNuHxOn7N8rCjg7wyotj"
+      },
+      "artists": [
+        {
+          "name": "K M E",
+          "url": "https://open.spotify.com/artist/0bONMZI3vF3ngjk3ehTisG"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294034,
+      "name": "ON/OFF",
+      "url": "https://open.spotify.com/track/2oi4hWFRdINGh5LHdKumhU"
     },
     {
       "album": {
@@ -5413,6 +5489,24 @@
     },
     {
       "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/7G6Jpd2xYWKagEymPCN6Nr"
+      },
+      "artists": [
+        {
+          "name": "Volition Bloom",
+          "url": "https://open.spotify.com/artist/6b1jDiTK2FPOwAG4rqpuki"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210752,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/0vwybhwApSr7yDIA35l7J1"
+    },
+    {
+      "album": {
         "name": "Part Of You",
         "url": "https://open.spotify.com/album/2e23K1xaWlNc7ChGWGanxC"
       },
@@ -5496,7 +5590,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 87433,
       "name": "Plugged in Riot",
       "url": "https://open.spotify.com/track/3DnirJo3W10Zq2lERV2FvK"
@@ -6130,7 +6224,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 191880,
       "name": "Slow And Easy",
       "url": "https://open.spotify.com/track/5fFgkMWnahtrpSIWsBpxz8"
@@ -6436,7 +6530,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 208266,
       "name": "Sweet Temptation (Hollow)",
       "url": "https://open.spotify.com/track/0P4Ne1Nzvf7wtcW5kdGuFF"
@@ -6656,7 +6750,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -6772,6 +6866,24 @@
       "duration_ms": 202160,
       "name": "Think Like A Man",
       "url": "https://open.spotify.com/track/6AaBX9BWwQTjDtuqjoHELM"
+    },
+    {
+      "album": {
+        "name": "Believe (International Version)",
+        "url": "https://open.spotify.com/album/4ps9d2RTyOhEOjRBwHhFYH"
+      },
+      "artists": [
+        {
+          "name": "Orianthi",
+          "url": "https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Think Like A Man",
+      "url": "https://open.spotify.com/track/2nLcGjxoSbVrgdUwtMcJxs"
     },
     {
       "album": {
@@ -7096,7 +7208,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 74239,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/10SC9NmZ3umGmZc3AErkSS"
@@ -7366,7 +7478,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 169173,
       "name": "What's It Gonna Be",
       "url": "https://open.spotify.com/track/5DDd2Gq55LpJYmmoRYLqqe"
@@ -7640,7 +7752,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 160666,
       "name": "\u201cO\u201d (Naked New Mix)",
       "url": "https://open.spotify.com/track/5PWCnRjBrSWusvduDFIt9f"

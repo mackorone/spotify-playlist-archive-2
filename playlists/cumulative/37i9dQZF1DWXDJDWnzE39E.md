@@ -4,7 +4,7 @@
 
 > A salute to all of the women who open up the pit\. Cover: Amy Lee of Evanescence, Poppy & Courtney LaPlante of Spiritbox
 
-453 songs - 1 day 4 hr 53 min
+454 songs - 1 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [Taxi](https://open.spotify.com/track/5tmteF0p600KTdfsBvOvZg) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Who Are The Girls?](https://open.spotify.com/album/3TlUu9X2Bs4ngvLkad88HQ) | 3:21 | 2021-10-02 | 2022-09-11 |
 | [Taxicab Messiah](https://open.spotify.com/track/6rYkjMNtpybnXa1ZmNgg3c) | [Kidneythieves](https://open.spotify.com/artist/40Mez3T0kn5OLe0dN1xUJj) | [Trickstereprocess](https://open.spotify.com/album/04FtzH0LUUCyAhiG2kTMhf) | 4:20 | 2024-07-19 |  |
 | [Tears in Rain](https://open.spotify.com/track/5yg9o93xZLdNRzCLTTSfEi) | [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc) | [Tears in Rain](https://open.spotify.com/album/13BTr1scGXFxgkJ6BkjvwO) | 4:28 | 2020-12-07\* | 2021-05-15 |
+| [The Call of the Mountains](https://open.spotify.com/track/0vTEksNDRuJxDMLOOgn0fA) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Origins](https://open.spotify.com/album/5hY8AfvL9ZoJPkluEvee9w) | 4:13 | 2026-04-27 |  |
 | [The Day Of...](https://open.spotify.com/track/5BaDnS9olEIZSXZNdgraMs) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 4:33 | 2026-03-02 |  |
 | [The Devil & Lovers](https://open.spotify.com/track/3MjW2y688aHRGJwqHg8z1C) | [Vicious Rain](https://open.spotify.com/artist/5gMc4HiJRY9g63KiaulaBp), [Future Static](https://open.spotify.com/artist/00IwRuoCtg1U25AGQxDleF) | [The Devil & Lovers](https://open.spotify.com/album/4egK79rZFlnZgBfcDaFIzP) | 4:06 | 2025-03-07 | 2025-03-30 |
 | [The Final Theory \(Demo\)](https://open.spotify.com/track/51xmR73DF3JviQZfPRpvBA) | [Helion Prime](https://open.spotify.com/artist/2lUdzoPUHo1zpRGDXTipi5) | [The Final Theory \(Demo\)](https://open.spotify.com/album/7MhvVSqmUtWNAUu3tHnV95) | 4:22 | 2020-12-07\* | 2021-05-29 |
@@ -410,7 +411,7 @@
 | [The Witch of the North](https://open.spotify.com/track/4Bsaetsm0Ov8D7RvmFckVy) | [Burning Witches](https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8) | [The Witch of the North](https://open.spotify.com/album/6SQ4rGkdF2xqaBfLWj78Nn) | 5:29 | 2021-05-15 | 2022-07-28 |
 | [they’re all around us](https://open.spotify.com/track/27g7prKPpfUtaPOBjO1hQ1) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [they’re all around us](https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj) | 3:24 | 2024-09-20 | 2025-03-08 |
 | [This Is the End](https://open.spotify.com/track/1EjkGol5hmZXC0ac5SI62l) | [Dust in Mind](https://open.spotify.com/artist/6i49PLA6jBtxQhb1nxGhM7) | [This Is the End](https://open.spotify.com/album/0cB3Pi8DpvNGbdpgHfc4b0) | 4:21 | 2020-12-07\* | 2020-12-11 |
-| [Thorn In My Side](https://open.spotify.com/track/7jDhrmsTOZ6TeT9LcC14OF) | [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3) | [Thorn In My Side](https://open.spotify.com/album/1c8liuYJUzptwOiOubrKRh) | 3:45 | 2025-03-07 |  |
+| [Thorn In My Side](https://open.spotify.com/track/7jDhrmsTOZ6TeT9LcC14OF) | [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3) | [Thorn In My Side](https://open.spotify.com/album/1c8liuYJUzptwOiOubrKRh) | 3:45 | 2025-03-07 | 2026-04-28 |
 | [Throne](https://open.spotify.com/track/3FrBWZ5A44JTlowzHrydLa) | [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Throne](https://open.spotify.com/album/5qlC51M6oE1JXumk2noo7r) | 2:59 | 2020-12-07\* | 2020-12-11 |
 | [Throne Of Want](https://open.spotify.com/track/3Hrdh8vuUbeCK6bFkd4HZX) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Throne Of Want](https://open.spotify.com/album/0xt9zIEWpL563lgwEgFE0x) | 5:53 | 2026-03-02 |  |
 | [Till the End](https://open.spotify.com/track/4mGrLbuibhtaUS5McNoUxi) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Till the End](https://open.spotify.com/album/3tGBWNAS5szJEllpKrgyX5) | 3:28 | 2020-12-07\* | 2022-07-29 |

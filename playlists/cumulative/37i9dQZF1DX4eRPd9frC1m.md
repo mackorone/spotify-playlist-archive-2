@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>
 
-476 songs - 1 day 1 hr 25 min
+477 songs - 1 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Dream State](https://open.spotify.com/track/1UjKSiQCcL6j4pvLBJDjXn) | [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [Dream State](https://open.spotify.com/album/2enXCPdEfvakhOYgXoRrFK) | 3:22 | 2021-11-19 | 2022-01-08 |
 | [Drown](https://open.spotify.com/track/3oh96zFJQ3wDLW9hv0pDKQ) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Drown](https://open.spotify.com/album/36rLDnmL9b3aCdKv1aixd8) | 2:40 | 2025-03-07 | 2025-07-11 |
 | [Duel of the Fates](https://open.spotify.com/track/03oLnmuFIM4ABv68TAcizp) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN) | [Duel of the Fates](https://open.spotify.com/album/5S9MaLGpGVqKqzGcct4Fxa) | 3:22 | 2025-05-16 |  |
+| [Earthquake](https://open.spotify.com/track/4xBQW0iZhjl7mSpse69gn5) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [Earthquake](https://open.spotify.com/album/6KWKY20MFMllfE0B65JCha) | 1:59 | 2026-04-24 |  |
 | [Ecstasy Of Soul](https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Ecstasy Of Soul](https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8) | 3:58 | 2023-02-24 |  |
 | [Emergence](https://open.spotify.com/track/5NM99r8sRxJ1vbVlAopATe) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [LLLLNNNN](https://open.spotify.com/artist/5EnVoD5aCLkfAkZR6hFrSR) | [Emergence](https://open.spotify.com/album/1ZdDg0Y5tTFYMGlGMN0VJd) | 2:56 | 2022-01-07 | 2022-07-21 |
 | [Eternity](https://open.spotify.com/track/1apKTl69lh4dXHcUOZer8l) | [NOIXES](https://open.spotify.com/artist/4YeITwoqeIks45gELm488B) | [Eternity](https://open.spotify.com/album/3zUXUyx9kx2Pp7ANoLtzxV) | 3:01 | 2021-11-19 | 2022-01-08 |
@@ -318,7 +319,7 @@
 | [Pump It Up](https://open.spotify.com/track/753rbQGinx1824G2x3k5HM) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Are We Dreaming?](https://open.spotify.com/album/5SLXmClA3IiEXxT9Nykfaq) | 3:39 | 2026-01-23 |  |
 | [Purple Lamborghini \(with Rick Ross\)](https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Purple Lamborghini \(with Rick Ross\)](https://open.spotify.com/album/3W6iNTF9ajh2btsyxslpCY) | 3:35 | 2022-07-22 | 2022-12-03 |
 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 | 2024-05-24 |  |
-| [PUSHINN](https://open.spotify.com/track/3afe2BTqwgrwrLoOatjxFi) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [PUSHINN](https://open.spotify.com/album/2umT6tMDBC2DDbjCEckF3v) | 2:19 | 2025-08-29 |  |
+| [PUSHINN](https://open.spotify.com/track/3afe2BTqwgrwrLoOatjxFi) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [PUSHINN](https://open.spotify.com/album/2umT6tMDBC2DDbjCEckF3v) | 2:19 | 2025-08-29 | 2026-04-28 |
 | [Puzzle Box](https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Puzzle Box](https://open.spotify.com/album/3z3dPd3xRiO8cGESr2aF6M) | 3:32 | 2022-03-11 |  |
 | [RACKS](https://open.spotify.com/track/5xLtwPMec1Mx2haACjN3Tm) | [INF1N1TE](https://open.spotify.com/artist/3TbFfHyWvQdppfL0TpWufG), [Empty Stomach](https://open.spotify.com/artist/5VqEkhYn9XMiLfRfiFa2Vu) | [RACKS](https://open.spotify.com/album/3lZBbIZtdU2H5owmWNF701) | 3:44 | 2022-01-07 | 2022-04-21 |
 | [Ragnarok](https://open.spotify.com/track/5n5d39gcjEstUpM6kadJYF) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [Ragnarok](https://open.spotify.com/album/263NdHDN0i3w7CNrfDFh6P) | 4:09 | 2022-04-08 | 2022-07-29 |

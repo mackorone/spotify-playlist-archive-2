@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Tommy Phillips
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,894 likes - 113 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,883 likes - 113 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

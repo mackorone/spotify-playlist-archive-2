@@ -857,6 +857,28 @@
     },
     {
       "album": {
+        "name": "Actias Aliena",
+        "url": "https://open.spotify.com/album/5JQC61s5vWb33Dm9N8Tute"
+      },
+      "artists": [
+        {
+          "name": "Yoal",
+          "url": "https://open.spotify.com/artist/7JcXV3u7gL2lqjvV5wyE6r"
+        },
+        {
+          "name": "Satomimagae",
+          "url": "https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235500,
+      "name": "Actias Aliena",
+      "url": "https://open.spotify.com/track/2F8XnwYww02OMlpN8bUPh0"
+    },
+    {
+      "album": {
         "name": "Aesthetic Paradox",
         "url": "https://open.spotify.com/album/4zqYpdv0VzMup3gy35Lajl"
       },
@@ -1204,7 +1226,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 188093,
       "name": "And Then",
       "url": "https://open.spotify.com/track/3jD4FYNB7LVpY3l8497P7P"
@@ -3118,7 +3140,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 313682,
       "name": "Coastline (Fragments)",
       "url": "https://open.spotify.com/track/1MqmBzBeS4i4DKcgpvy6Nr"
@@ -3721,6 +3743,24 @@
     },
     {
       "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/2hcCytV87eg6irX0MfuR6A"
+      },
+      "artists": [
+        {
+          "name": "Akisai",
+          "url": "https://open.spotify.com/artist/1XY5waae0wXhCO7Nuz3SF5"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Daydream Session1",
+      "url": "https://open.spotify.com/track/7ImYYYczLk3OFkIgUSyjkn"
+    },
+    {
+      "album": {
         "name": "Extra Stars",
         "url": "https://open.spotify.com/album/1tv1QA1RnLjex9udvtL77e"
       },
@@ -3758,6 +3798,24 @@
       "duration_ms": 130280,
       "name": "Dear - Haruhisa Tanaka Remix",
       "url": "https://open.spotify.com/track/2ywToZCo1xMtpjNiajUN15"
+    },
+    {
+      "album": {
+        "name": "Sepia",
+        "url": "https://open.spotify.com/album/1NcA4ducN3BDt1ZVGvNG1Z"
+      },
+      "artists": [
+        {
+          "name": "Black Boboi",
+          "url": "https://open.spotify.com/artist/1d0tqPDaL5aLB0Ep2Zjcgn"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272795,
+      "name": "Dear,",
+      "url": "https://open.spotify.com/track/1uuGrUDBU1DcncwBBMsRX9"
     },
     {
       "album": {
@@ -4035,6 +4093,24 @@
     },
     {
       "album": {
+        "name": "Double Moon",
+        "url": "https://open.spotify.com/album/4HQF4jl7OnwYBUslOWJPbA"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143198,
+      "name": "Double Moon",
+      "url": "https://open.spotify.com/track/1XVWwG1CS3wV89rVEualNq"
+    },
+    {
+      "album": {
         "name": "Shuta Hasunuma",
         "url": "https://open.spotify.com/album/6rL1VAbKNhA0rzW0mZaTVR"
       },
@@ -4118,7 +4194,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 154000,
       "name": "Dream Temperature",
       "url": "https://open.spotify.com/track/7aGiE0Ie0bRXMb8SoSbzeQ"
@@ -4144,6 +4220,24 @@
       "duration_ms": 239000,
       "name": "Dreamers",
       "url": "https://open.spotify.com/track/6nBlbZBSMEgawmi7nF7H1Y"
+    },
+    {
+      "album": {
+        "name": "Dreymir Aftur / All These Years (Fragments)",
+        "url": "https://open.spotify.com/album/2XBWUCW76odZmOpES7OQGX"
+      },
+      "artists": [
+        {
+          "name": "Elskavon",
+          "url": "https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135772,
+      "name": "Dreymir Aftur (Fragments)",
+      "url": "https://open.spotify.com/track/5oDQTieqf7TZrTP8gTvwsB"
     },
     {
       "album": {
@@ -5672,7 +5766,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 346016,
       "name": "Gloaming Western Ocean",
       "url": "https://open.spotify.com/track/0n1J0D839rQLnOiU0Z8KQF"
@@ -5796,6 +5890,24 @@
       "duration_ms": 97866,
       "name": "Going To The Sea",
       "url": "https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI"
+    },
+    {
+      "album": {
+        "name": "GRACE",
+        "url": "https://open.spotify.com/album/2WdQzlITSlmY3teVxC6vjC"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161733,
+      "name": "GRACE",
+      "url": "https://open.spotify.com/track/0VS1QrsaaJRpxGLqsafbqE"
     },
     {
       "album": {
@@ -8056,7 +8168,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 112000,
       "name": "la circulation silencieuse",
       "url": "https://open.spotify.com/track/3E3va6hFvGt05VGGgI9XRt"
@@ -8189,6 +8301,24 @@
     },
     {
       "album": {
+        "name": "le silence sous les doigts",
+        "url": "https://open.spotify.com/album/0mrHd77ch09aZaCZqLY3So"
+      },
+      "artists": [
+        {
+          "name": "attic",
+          "url": "https://open.spotify.com/artist/51VqZtvqCcpFPdEPN1X1Ku"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137112,
+      "name": "le silence sous les doigts",
+      "url": "https://open.spotify.com/track/4hv94WBABYnYw7IjYoCBwy"
+    },
+    {
+      "album": {
         "name": "Leaving",
         "url": "https://open.spotify.com/album/1DyDhZGMs0ta4AFDPgJGTT"
       },
@@ -8280,6 +8410,24 @@
       "duration_ms": 250321,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/7EMteO0dlSLubgeYbTplsO"
+    },
+    {
+      "album": {
+        "name": "Ley",
+        "url": "https://open.spotify.com/album/2PATaU6gBhiovCPZriSexq"
+      },
+      "artists": [
+        {
+          "name": "Yasutaka Okada",
+          "url": "https://open.spotify.com/artist/0zusZBbK9iV4XdhC77Ai8S"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291818,
+      "name": "Ley",
+      "url": "https://open.spotify.com/track/6KY33JhZ06PP1gyuDdXGRM"
     },
     {
       "album": {
@@ -8561,6 +8709,28 @@
     },
     {
       "album": {
+        "name": "London-Hackney",
+        "url": "https://open.spotify.com/album/0wIZeF8zsxf7pl6ePJyFeJ"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389171,
+      "name": "London-Hackney",
+      "url": "https://open.spotify.com/track/3hcbaTBF1ji4Pshici2L8t"
+    },
+    {
+      "album": {
         "name": "londonderry air",
         "url": "https://open.spotify.com/album/6eIWDpw9ILjf5JtsUCedFj"
       },
@@ -8670,6 +8840,24 @@
       "duration_ms": 285000,
       "name": "Loss",
       "url": "https://open.spotify.com/track/0bmMVu560qMkZEovy1OZR2"
+    },
+    {
+      "album": {
+        "name": "life of mu",
+        "url": "https://open.spotify.com/album/1b09PxhpiNit55Eb4Ut7bC"
+      },
+      "artists": [
+        {
+          "name": "mu tate",
+          "url": "https://open.spotify.com/artist/3vFTZMsaFnLOcqvjxCofTP"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167524,
+      "name": "lost in translation",
+      "url": "https://open.spotify.com/track/1Xjwr8k8wO43MuQYO1Ex1F"
     },
     {
       "album": {
@@ -10644,7 +10832,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 213103,
       "name": "Ohayo",
       "url": "https://open.spotify.com/track/1WZuaaKHnZ14GH62H30lMd"
@@ -11721,6 +11909,24 @@
     },
     {
       "album": {
+        "name": "Rain Breathing Through Concrete",
+        "url": "https://open.spotify.com/album/2n9IPMC2NTNJ7zof6GctM0"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Psychedelic Orchestra",
+          "url": "https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154824,
+      "name": "Rain Breathing Through Concrete",
+      "url": "https://open.spotify.com/track/7cBrW61v199iFGtTzNGvPD"
+    },
+    {
+      "album": {
         "name": "Rainbow Kingfisher",
         "url": "https://open.spotify.com/album/5hV9TcNhCxbStkcMeMwpID"
       },
@@ -11982,6 +12188,24 @@
       "duration_ms": 151000,
       "name": "Regret",
       "url": "https://open.spotify.com/track/0Lni2Ik6J0VaJFrNYNFE7S"
+    },
+    {
+      "album": {
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/7Bu4ufT6EhAFuxmwriChX1"
+      },
+      "artists": [
+        {
+          "name": "ord minami",
+          "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/0Q92HaY1vwlN9Ipn48AKcg"
     },
     {
       "album": {
@@ -16347,6 +16571,24 @@
     },
     {
       "album": {
+        "name": "Tongue",
+        "url": "https://open.spotify.com/album/6P3Y3QYw5GiJy9E4eSApTl"
+      },
+      "artists": [
+        {
+          "name": "Anenon",
+          "url": "https://open.spotify.com/artist/1nDzzoDVAeT9c5PkreI1yI"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316500,
+      "name": "Two For C",
+      "url": "https://open.spotify.com/track/4LDniMMswFyhNrliLUa44y"
+    },
+    {
+      "album": {
         "name": "Minor Planet",
         "url": "https://open.spotify.com/album/2w9oe23evWlt31fPXYjkHa"
       },
@@ -16420,6 +16662,24 @@
       "duration_ms": 72146,
       "name": "Umi No Sunatsubu",
       "url": "https://open.spotify.com/track/64IcvG8Hba5MWv4C3IPUlF"
+    },
+    {
+      "album": {
+        "name": "Unconscious Silence",
+        "url": "https://open.spotify.com/album/6vJO58AVrITXCeGp01No1L"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384363,
+      "name": "Unconscious Silence I",
+      "url": "https://open.spotify.com/track/2e9cPVh48Ncio5p6J9blDd"
     },
     {
       "album": {
@@ -17209,6 +17469,24 @@
     },
     {
       "album": {
+        "name": "When the Planets Align2040 To the next future",
+        "url": "https://open.spotify.com/album/2JEFR4wer5OWZOCPMFNd7U"
+      },
+      "artists": [
+        {
+          "name": "I.P.U",
+          "url": "https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181880,
+      "name": "When the Planets Align2040 To the next future",
+      "url": "https://open.spotify.com/track/0XEfObHLoTTHWSw5hGzcZs"
+    },
+    {
+      "album": {
         "name": "Silver Shadow",
         "url": "https://open.spotify.com/album/77D07PWUVtGQXMW2nBStG2"
       },
@@ -17397,6 +17675,24 @@
     },
     {
       "album": {
+        "name": "YASE",
+        "url": "https://open.spotify.com/album/4nNF4QVWfKHNYv3tFyjPV8"
+      },
+      "artists": [
+        {
+          "name": "HIMI",
+          "url": "https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "YASE",
+      "url": "https://open.spotify.com/track/7gXZTMjQDyn6jNEBxMTKsV"
+    },
+    {
+      "album": {
         "name": "NONAGE",
         "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
       },
@@ -17466,6 +17762,24 @@
       "duration_ms": 291120,
       "name": "yorumayoi",
       "url": "https://open.spotify.com/track/4a4q1cEaV4AqfXtdHKk2jH"
+    },
+    {
+      "album": {
+        "name": "Blue Era Odyssey",
+        "url": "https://open.spotify.com/album/6w6QY3aPEmWljiiJ4z38Td"
+      },
+      "artists": [
+        {
+          "name": "TOMC",
+          "url": "https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207763,
+      "name": "You Are Balearic",
+      "url": "https://open.spotify.com/track/0Y3qL0462qk0IcRcZELBt4"
     },
     {
       "album": {
@@ -17873,6 +18187,24 @@
     },
     {
       "album": {
+        "name": "\u4e09\u6708",
+        "url": "https://open.spotify.com/album/1CpvLTjyPW34nHNHx8NUFO"
+      },
+      "artists": [
+        {
+          "name": "katakamuii",
+          "url": "https://open.spotify.com/artist/6dYkFtAYEaiIu1F28eXv49"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431720,
+      "name": "\u4e09\u6708",
+      "url": "https://open.spotify.com/track/5N76joDHerQGb5DmP71TTk"
+    },
+    {
+      "album": {
         "name": "\u4e95\u6238(well)",
         "url": "https://open.spotify.com/album/7F3WWTU0p7O4OyCzXmi02C"
       },
@@ -18082,7 +18414,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 387500,
       "name": "\u65b0\u548c\u874b\u71ed",
       "url": "https://open.spotify.com/track/0LGYE0yYO36eLgumHD4Qoh"

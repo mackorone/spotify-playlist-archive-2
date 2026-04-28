@@ -4,7 +4,7 @@
 
 > For those who like a little bit of coffee with their Jesus.
 
-433 songs - 1 day 3 hr 41 min
+434 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Blessed](https://open.spotify.com/track/4hgsprxbmyXRHnF8c7RmBb) | [Joshua Leventhal](https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5) | [Blessed](https://open.spotify.com/album/7LMpbQ5ueSxchC5gDXavhJ) | 4:37 | 2025-08-06 | 2025-10-11 |
 | [Boundary Lines](https://open.spotify.com/track/27vnMIb0AssMDUiNWexbz9) | [Kate Gurren](https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL) | [Boundary Lines](https://open.spotify.com/album/0xCVuzODTPP23VgIYoCwI9) | 4:03 | 2026-03-23 |  |
 | [Bread of Life \(John 6\)](https://open.spotify.com/track/0hBKxdCN03JCMX4Svnr47V) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Mattea Bret](https://open.spotify.com/artist/6fNpEj8qIBOiH0UpkdlaWK) | [Bread of Life \(John 6\)](https://open.spotify.com/album/2Zg88VYwRmOEkv7mZNW8aU) | 3:53 | 2025-12-12 | 2026-04-10 |
+| [breakups with best friends](https://open.spotify.com/track/7lFGWkqlouBpadg5ylbh7u) | [Zoe Levert](https://open.spotify.com/artist/0f7KVpp4sPg1v2EzCwTmD8) | [breakups with best friends](https://open.spotify.com/album/2v7fckBFQ46D4UeuwQsKMu) | 3:22 | 2026-04-17 |  |
 | [Breathe](https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Note To Self](https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw) | 2:52 | 2024-06-23 | 2025-08-07 |
 | [Bridges](https://open.spotify.com/track/7nkKHByyonJIPEx8OxgoZR) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Bridges](https://open.spotify.com/album/5lx5uNnvFxSiruId2vTS1a) | 3:36 | 2020-08-31 | 2024-06-24 |
 | [Brighter Days \- New Day Edition](https://open.spotify.com/track/04Hzyc0EwQxRcDpoYP0yct) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days \(New Day Edition\)](https://open.spotify.com/album/1PdlFt6ydY874VcFSz3ZlL) | 3:05 | 2026-03-23 |  |
@@ -216,7 +217,7 @@
 | [King Of Kings \- Live](https://open.spotify.com/track/5fShaoGs6VDmBOE7YVbS39) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [King Of Kings \(Live\)](https://open.spotify.com/album/56szTr38sq2s6lfDseP3jm) | 4:51 | 2020-08-31 | 2023-07-13 |
 | [KMFTF](https://open.spotify.com/track/2A6tZQNqhjNXu6adGokOut) | [Austin Koukal](https://open.spotify.com/artist/47e5G9UHhlQ2O39lG7aBJy), [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1) | [KMFTF](https://open.spotify.com/album/0shzlmMAakU3u2PBfJkCVX) | 4:40 | 2024-06-23 | 2024-08-03 |
 | [KNOWN](https://open.spotify.com/track/1h58D20BA2O5WIXmpRGGvH) | [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [KNOWN](https://open.spotify.com/album/1rhLqLdT3MO4dQGRgmaqiS) | 3:48 | 2026-04-17 |  |
-| [KOKORO](https://open.spotify.com/track/3Pln8paCZTrsAAWzt91R0Z) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [Eben](https://open.spotify.com/artist/0RiFbgEIISn8DwOutzHis1) | [KOKORO](https://open.spotify.com/album/4efSUE9hlWysKFjH3fnO2E) | 2:53 | 2026-03-23 |  |
+| [KOKORO](https://open.spotify.com/track/3Pln8paCZTrsAAWzt91R0Z) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [Eben](https://open.spotify.com/artist/0RiFbgEIISn8DwOutzHis1) | [KOKORO](https://open.spotify.com/album/4efSUE9hlWysKFjH3fnO2E) | 2:53 | 2026-03-23 | 2026-04-28 |
 | [L E P E R S](https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7) | [Joshua Leventhal](https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5), [Atmos One](https://open.spotify.com/artist/2hUBrOilKr0a6llHEBvuSu) | [L E P E R S](https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg) | 4:10 | 2020-08-31 | 2025-10-11 |
 | [Leaning on the Everlasting Arms](https://open.spotify.com/track/0Zs4yEcEo9AIiGZcCiZM7n) | [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [MATIN: Rest](https://open.spotify.com/album/12cExcrLvFwR8xc7TjyIwG) | 5:29 | 2024-06-23 |  |
 | [Let Go](https://open.spotify.com/track/569CqUlVdNPKC5FOfiXiwJ) | [Faith Rose](https://open.spotify.com/artist/364y53omHupjImsnsOJkpp) | [Let Go](https://open.spotify.com/album/1gQS21Tf0ahs1o0jhX7Fbz) | 3:49 | 2020-08-31 | 2025-10-11 |

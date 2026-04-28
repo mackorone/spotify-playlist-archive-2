@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-768 songs - 2 day 17 hr 53 min
+769 songs - 2 day 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Hallelujah](https://open.spotify.com/track/61PIo9nn1kF5hhRoAAanEF) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [JOY](https://open.spotify.com/album/4JcVpJAsnqCcif2idBqpVY) | 2:29 | 2026-01-30 |  |
 | [Hallelujah](https://open.spotify.com/track/6PPdWf0sxUPYMXfSFUp2n6) | [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx) | [Jesus Revealed](https://open.spotify.com/album/3d97x6Hs23v9l95AeQyxCt) | 6:29 | 2026-04-10 |  |
 | [Hallelujah](https://open.spotify.com/track/5edBgYe6nAPm24nNmitptV) | [Tamará](https://open.spotify.com/artist/5yWup2QHnXNBHR418cQl0m) | [Hallelujah](https://open.spotify.com/album/3yOxLm70FSd2aCA9MtO3NR) | 4:16 | 2025-05-30 | 2025-10-17 |
-| [Hallelujah \- Live](https://open.spotify.com/track/53Vs8PsI3FEGr08i3f23mM) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [The Live Experience](https://open.spotify.com/album/62uXkHtrX8KDil8lEDSr7m) | 8:16 | 2026-01-30 |  |
+| [Hallelujah \- Live](https://open.spotify.com/track/53Vs8PsI3FEGr08i3f23mM) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [The Live Experience](https://open.spotify.com/album/62uXkHtrX8KDil8lEDSr7m) | 8:16 | 2026-01-30 | 2026-04-28 |
 | [Hallelujah Forever \- \(Cover\)](https://open.spotify.com/track/33eIgt8omW6hwG9cWtf3RW) | [Gloreysings](https://open.spotify.com/artist/76D34AFU39hprElLWR448w) | [Echoes of Glory](https://open.spotify.com/album/2MH293MDOC6i2oLpgnIq1J) | 4:54 | 2025-06-20 | 2025-06-27 |
 | [Hallelujah Highest Name](https://open.spotify.com/track/4LZ4OPBbBoRWQ4OlHvuGzW) | [Tres Dei](https://open.spotify.com/artist/0QxXcWpb9kKHHbx10pIVcC) | [Hallelujah Highest Name](https://open.spotify.com/album/07JX8kBXODKbbKJK18IQ0k) | 4:18 | 2025-06-06 | 2025-07-29 |
 | [HALLOWED \(THE ONE WHO ANSWERS PRAYERS\)](https://open.spotify.com/track/67K6tlpK5geck7OLZd5js9) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [HALLOWED \(THE ONE WHO ANSWERS PRAYERS\)](https://open.spotify.com/album/0PmiXhRIA1vUUSjHOKn1sq) | 2:28 | 2025-02-28 | 2025-05-09 |
@@ -743,6 +743,7 @@
 | [WORTHY](https://open.spotify.com/track/01VqTmMt86wGlRVjvrhZ23) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [WORTHY](https://open.spotify.com/album/64aFpFjW3mtEzikvLGTWzW) | 3:56 | 2025-08-29 |  |
 | [Worthy](https://open.spotify.com/track/7A9tLnXKOViEouTjNuAPpS) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D), [Kolawole Bekes](https://open.spotify.com/artist/7tLyiCHrnIe6aEsEDoAybu), [YYC Worship](https://open.spotify.com/artist/4Kd2x5UzbYmB9icNKsYIzc) | [Worthy](https://open.spotify.com/album/1Ye2PTve8bZ4ooIkiPTy6S) | 12:02 | 2026-04-03 |  |
 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 | 2024-04-26 | 2025-06-27 |
+| [Yahweh](https://open.spotify.com/track/7keSeJsCKZCTGq2bv03jnN) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d), [Hyeladi](https://open.spotify.com/artist/57cJyeJhMFEY7Uln3Pdn20) | [Yahweh](https://open.spotify.com/album/2KDz1ryzGCPtWX3WQae5Oj) | 14:16 | 2026-04-03 |  |
 | [Yahweh](https://open.spotify.com/track/0rCqiszNjjmwidpPGp8bW6) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Yahweh](https://open.spotify.com/album/4FTzomnXkLei8TG5sWYKTu) | 5:15 | 2025-07-04 | 2025-10-18 |
 | [Yahweh](https://open.spotify.com/track/0wlZMHkTTTHjUMudVOO3PZ) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Yahweh](https://open.spotify.com/album/1hvBhzoIX98bfsaSWkr8FV) | 4:02 | 2025-06-20 | 2025-08-30 |
 | [Yahweh](https://open.spotify.com/track/6XlilInIhEvmmM7eNRRKYx) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [Yahweh](https://open.spotify.com/album/1Thgoac8jU5Wjyfd682JTE) | 6:03 | 2025-07-18 | 2026-02-23 |

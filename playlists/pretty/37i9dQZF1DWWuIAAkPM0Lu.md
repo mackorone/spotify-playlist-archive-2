@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag, ny musik fra Artigeardit, Lukas Graham, Karoline Mousing og maaange flere  ❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,025 likes - 102 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,023 likes - 102 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 85 | [collide](https://open.spotify.com/track/0A8g9LveqMvaf0In4AVRnm) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [collide](https://open.spotify.com/album/6Bx0PwEOgOrfo7BaSTq6V0) | 3:43 |
 | 86 | [FIX UR FACE \(with Fred Durst\)](https://open.spotify.com/track/0zcU626JV9kV61raS5sGu4) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [FIX UR FACE \(with Fred Durst\)](https://open.spotify.com/album/5V2DOzyXq1zx7yRgebZZIv) | 3:19 |
 | 87 | [Jeg vil gerne se dig](https://open.spotify.com/track/2VlK0PpUBkh1SxcODQcvSD) | [Signal](https://open.spotify.com/artist/5YzXquPvZtnnLKzZLpjvrz) | [Jeg vil gerne se dig](https://open.spotify.com/album/5hAmJDrCr2RciquwigDP7C) | 3:32 |
-| 88 | [Indtil Du Svæver](https://open.spotify.com/track/13OFQuPG2UJYnaNx8xLYHg) | [LIEBRA](https://open.spotify.com/artist/6E45msyEtwU0Do6bX1VYqZ) | [Indtil Du Svæver](https://open.spotify.com/album/4n2YqwjxIAi5OirpWjcdBS) | 3:23 |
+| 88 | [indtil du svæver](https://open.spotify.com/track/13OFQuPG2UJYnaNx8xLYHg) | [LIEBRA](https://open.spotify.com/artist/6E45msyEtwU0Do6bX1VYqZ) | [indtil du svæver](https://open.spotify.com/album/4n2YqwjxIAi5OirpWjcdBS) | 3:23 |
 | 89 | [27000](https://open.spotify.com/track/7r4ZIpRRYg0yMQOGigY1Rh) | [Tom River](https://open.spotify.com/artist/6vrVGkC0yApJHtA66iXyTs), [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [27000](https://open.spotify.com/album/4LyKFOCRcEpU9NQ7124XME) | 3:00 |
 | 90 | [Over](https://open.spotify.com/track/2LE78eBACgoZ7sPDiI5Baa) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Over](https://open.spotify.com/album/52ELpJ7bgF9bKBjHlk1uhL) | 3:01 |
 | 91 | [Be The One](https://open.spotify.com/track/4gDKviRLkpZowZhcnRPqqE) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Be The One](https://open.spotify.com/album/4qnDtActtsWu2i8VH9wkmE) | 3:25 |

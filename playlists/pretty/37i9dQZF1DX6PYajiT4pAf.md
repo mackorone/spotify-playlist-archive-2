@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Quevedo, Rauw Alejandro, KAROL G, Melendi, Guitarricadelafuente, Gara Durán con Natalia Lacunza y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,520 likes - 82 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,535 likes - 82 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

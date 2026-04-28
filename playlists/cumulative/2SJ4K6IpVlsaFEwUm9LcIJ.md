@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-981 songs - 2 day 11 hr 27 min
+983 songs - 2 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,6 +715,7 @@
 | [Run...Run / Mama Your Son Done Gone](https://open.spotify.com/track/3NdsxlnJJGD87KGNs9LysS) | [Elizabeth Cotten](https://open.spotify.com/artist/1eTZGzLkukATM7FoGltyFs) | [Freight Train and Other North Carolina Folk Songs and Tunes](https://open.spotify.com/album/37QSIS1QNLCfRvC3OUcqgd) | 2:19 | 2025-09-25 | 2025-11-15 |
 | [Sad Eyes \- Studio Outtake \- 1990](https://open.spotify.com/track/29b70iOlgRkYQ8ZzINZXph) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks](https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2) | 3:47 | 2024-05-16 | 2024-07-12 |
 | [Safari](https://open.spotify.com/track/38K4MzpzkLyirD5nJNSfYS) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI) | [My Dear Life](https://open.spotify.com/album/1S82OiBWv9ozsRalgCSI6l) | 7:08 | 2024-11-21 | 2025-01-12 |
+| [Sam](https://open.spotify.com/track/1noqZSKYEKBgtu9iRFdwVX) | [The Castaways](https://open.spotify.com/artist/3PbCnPQUMUHJXAI9g2Ld7V) | [Liar Liar](https://open.spotify.com/album/1mW4KWw5bJ5cNE8e2po9is) | 2:33 | 2026-04-27 |  |
 | [Sambinha](https://open.spotify.com/track/2EHXd5o9sBnGRhgSxULQYJ) | [Tenorio Jr.](https://open.spotify.com/artist/5RYHqDtvrm4QLsvcoOHmR9) | [Embalo](https://open.spotify.com/album/6nSnQ6vyh0glT2MqpLQmsO) | 2:44 | 2025-06-25 | 2025-07-04 |
 | [SAME THING](https://open.spotify.com/track/5z3s5KcMf7rIItfjGJoWqF) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [SAME THING](https://open.spotify.com/album/11Fi8BwZJ7bb9U5a37VM6x) | 1:49 | 2024-06-24 | 2024-07-12 |
 | [Sandhills](https://open.spotify.com/track/6dBkJ5LGEm5oaR3CxAR7yg) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:15 | 2024-04-27 | 2024-05-16 |
@@ -931,6 +932,7 @@
 | [We Share The Same Breath](https://open.spotify.com/track/1SlN5pwqGU5M8DECxEamCt) | [Torus](https://open.spotify.com/artist/4YlNFCrxoTfxFtZwPoGjLW) | [Summer of Love](https://open.spotify.com/album/5Ye7qabYgs7yFnHTzFsptN) | 4:32 | 2025-10-01 | 2025-11-15 |
 | [We're Never Coming Home](https://open.spotify.com/track/41ExyRHV6Yib5ZsqIroFMn) | [Molly Nilsson](https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw) | [These Things Take Time](https://open.spotify.com/album/3BRCtUxoDikSSrOFyCvT7q) | 3:47 | 2026-02-22 | 2026-03-13 |
 | [We're Thinking the Same Thing](https://open.spotify.com/track/3zaztO9QEefcS7MBZNs9vP) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 2:47 | 2025-12-07 | 2026-01-15 |
+| [Weep No More](https://open.spotify.com/track/5gskcAhnBeAsGXf7iPNYFa) | [Dale Hawkins](https://open.spotify.com/artist/7kcPzHlsyJm5tDv7JMcr6T) | [Daredevil](https://open.spotify.com/album/47GBkmfpMMyBvbvkGXaEyR) | 2:48 | 2026-04-28 |  |
 | [Welcome](https://open.spotify.com/track/7osJbibTOoiCtenXBcPvJO) | [Eric Watson](https://open.spotify.com/artist/5yDZkbiu4ER9hiE5pbqmYn) | [Listen To The Night](https://open.spotify.com/album/0Ww8x93fX5bU4lu39JnIOZ) | 3:32 | 2026-01-08 | 2026-03-13 |
 | [Welcome to My World](https://open.spotify.com/track/1GWNIRq2QFmVuIpwVONWhY) | [Curly Chalker](https://open.spotify.com/artist/4KBTL6pJ0paCrhVG3kUxM7) | [Big Hits on Big Steel](https://open.spotify.com/album/2ASp6kSw8vM2bwg9lazZZU) | 2:30 | 2025-06-16 | 2025-07-04 |
 | [Well I Know You're Shy](https://open.spotify.com/track/2t1PBeyHtPyGaHvxh3lLoY) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 3:29 | 2025-02-16 | 2025-03-02 |

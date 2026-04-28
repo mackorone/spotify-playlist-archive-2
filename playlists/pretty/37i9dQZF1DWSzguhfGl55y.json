@@ -1,6 +1,6 @@
 {
   "description": "In Gedenken an XATAR \ud83e\udd0d",
-  "num_followers": 663205,
+  "num_followers": 663222,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
@@ -339,26 +339,6 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
-        "name": "ALLES ODER NIX",
-        "url": "https://open.spotify.com/album/5bhD7Kl3zfhdbnJiVVUXgx"
-      },
-      "artists": [
-        {
-          "name": "XATAR",
-          "url": "https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8"
-        },
-        {
-          "name": "SSIO",
-          "url": "https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2"
-        }
-      ],
-      "duration_ms": 220786,
-      "name": "Ich will alles",
-      "url": "https://open.spotify.com/track/3GsD3Dzap9dZrGGU9I3h0S"
-    },
-    {
-      "added_at": "2025-12-19 20:12:08",
-      "album": {
         "name": "New Dubby Conquerors",
         "url": "https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 284906,
       "name": "Dickes B (feat. Black Kappa)",
       "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
+    },
+    {
+      "added_at": "2025-12-19 20:12:08",
+      "album": {
+        "name": "ALLES ODER NIX",
+        "url": "https://open.spotify.com/album/5bhD7Kl3zfhdbnJiVVUXgx"
+      },
+      "artists": [
+        {
+          "name": "XATAR",
+          "url": "https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8"
+        },
+        {
+          "name": "SSIO",
+          "url": "https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2"
+        }
+      ],
+      "duration_ms": 220786,
+      "name": "Ich will alles",
+      "url": "https://open.spotify.com/track/3GsD3Dzap9dZrGGU9I3h0S"
     },
     {
       "added_at": "2025-12-19 20:12:08",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
+        "name": "Viel - Jubil\u00e4ums-Edition",
+        "url": "https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY"
+      },
+      "artists": [
+        {
+          "name": "Die Fantastischen Vier",
+          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
+        }
+      ],
+      "duration_ms": 269840,
+      "name": "Troy",
+      "url": "https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2"
+    },
+    {
+      "added_at": "2025-12-19 20:12:08",
+      "album": {
         "name": "Carlo Cokxxx Nutten II (Saad)",
         "url": "https://open.spotify.com/album/4cVaHKd2EkTU8hBwoGvNto"
       },
@@ -495,6 +511,22 @@
       "duration_ms": 242360,
       "name": "Nie ein Rapper",
       "url": "https://open.spotify.com/track/6VPYcW1lFyIF12YDP4S9zJ"
+    },
+    {
+      "added_at": "2025-12-19 20:12:08",
+      "album": {
+        "name": "Hinterland",
+        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        }
+      ],
+      "duration_ms": 299026,
+      "name": "Im Ascheregen",
+      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
     },
     {
       "added_at": "2025-12-19 20:12:08",
@@ -519,38 +551,6 @@
       "duration_ms": 323253,
       "name": "Neuruppin",
       "url": "https://open.spotify.com/track/6REiDLAJKtYGoZsPVgNdiH"
-    },
-    {
-      "added_at": "2025-12-19 20:12:08",
-      "album": {
-        "name": "Hinterland",
-        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
-      },
-      "artists": [
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        }
-      ],
-      "duration_ms": 299026,
-      "name": "Im Ascheregen",
-      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
-    },
-    {
-      "added_at": "2025-12-19 20:12:08",
-      "album": {
-        "name": "Viel - Jubil\u00e4ums-Edition",
-        "url": "https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY"
-      },
-      "artists": [
-        {
-          "name": "Die Fantastischen Vier",
-          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
-        }
-      ],
-      "duration_ms": 269840,
-      "name": "Troy",
-      "url": "https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2"
     },
     {
       "added_at": "2025-12-19 20:12:08",
@@ -903,22 +903,18 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
-        "name": "Ich bin jung und brauche das Geld",
-        "url": "https://open.spotify.com/album/0NP5dQgW9QSWDRHRoHYZxV"
+        "name": "\u00dcberfall",
+        "url": "https://open.spotify.com/album/1VYFFp5JBhO9Cp8oNfCIdP"
       },
       "artists": [
         {
-          "name": "Eko Fresh",
-          "url": "https://open.spotify.com/artist/7GaMopkesD4KK9dNbgyO5D"
-        },
-        {
-          "name": "G-Style",
-          "url": "https://open.spotify.com/artist/1lrKKCgkhEG5hY0ogEifVs"
+          "name": "Massive T\u00f6ne",
+          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
         }
       ],
-      "duration_ms": 266573,
-      "name": "Ich bin jung und brauche das Geld (feat. G-Style)",
-      "url": "https://open.spotify.com/track/1ImJQbsJLoHj0YueZO21OT"
+      "duration_ms": 228360,
+      "name": "Chartbreaker (Einmal Star und zur\u00fcck)",
+      "url": "https://open.spotify.com/track/6qorcL5WbegRPijl53BVCl"
     },
     {
       "added_at": "2025-12-19 20:12:08",

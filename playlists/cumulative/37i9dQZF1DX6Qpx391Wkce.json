@@ -584,7 +584,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 240000,
       "name": "Arkana",
       "url": "https://open.spotify.com/track/6P1qLgnVEQEd5tD7dysqqO"
@@ -1046,6 +1046,24 @@
       "duration_ms": 154954,
       "name": "Berghain - Remix",
       "url": "https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw"
+    },
+    {
+      "album": {
+        "name": "Bigman Riddim",
+        "url": "https://open.spotify.com/album/0MgUENpuhvA9yWRp5zVElu"
+      },
+      "artists": [
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213913,
+      "name": "Bigman Riddim",
+      "url": "https://open.spotify.com/track/41gjJqga5nG4AG8clNzEiq"
     },
     {
       "album": {
@@ -3663,6 +3681,28 @@
     },
     {
       "album": {
+        "name": "Being Alerted",
+        "url": "https://open.spotify.com/album/10uqVZ1XxNG9FcBeLJqmub"
+      },
+      "artists": [
+        {
+          "name": "UMEK",
+          "url": "https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt"
+        },
+        {
+          "name": "Polyvinyl",
+          "url": "https://open.spotify.com/artist/4Naj4m0biSwM7WZ4IKtCa9"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303250,
+      "name": "Frequency Divine - Original Mix",
+      "url": "https://open.spotify.com/track/6IqUvv6mETIoAaUKjzuM7F"
+    },
+    {
+      "album": {
         "name": "Magma EP",
         "url": "https://open.spotify.com/album/6u9AjW7jugh02So5qxPrcZ"
       },
@@ -4617,6 +4657,24 @@
     },
     {
       "album": {
+        "name": "Hyena",
+        "url": "https://open.spotify.com/album/1KHqG6A2WRfndcDEuQnRRZ"
+      },
+      "artists": [
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247741,
+      "name": "Hyena",
+      "url": "https://open.spotify.com/track/1EzOivYJkAM3yJmnKffEJ9"
+    },
+    {
+      "album": {
         "name": "Charlotte de Witte",
         "url": "https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a"
       },
@@ -4808,6 +4866,24 @@
       "duration_ms": 245454,
       "name": "I Want to See",
       "url": "https://open.spotify.com/track/6sA8RRNRRZ5Ok1510vWNTy"
+    },
+    {
+      "album": {
+        "name": "I Wish I Had Met You Earlier",
+        "url": "https://open.spotify.com/album/5dCyiZHWandHEyktwPt0tv"
+      },
+      "artists": [
+        {
+          "name": "Juliane Wolf",
+          "url": "https://open.spotify.com/artist/6ZW2TzV8Dke8s7I7CYCvhP"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244007,
+      "name": "I Wish I Had Met You Earlier - Radio-Edit",
+      "url": "https://open.spotify.com/track/3OW1EDGYIQD4kDbS56UJOE"
     },
     {
       "album": {
@@ -5224,6 +5300,32 @@
       "duration_ms": 301714,
       "name": "John Doe",
       "url": "https://open.spotify.com/track/69ezmblTwQnwVoA4oAuoJU"
+    },
+    {
+      "album": {
+        "name": "Joya (Remixes)",
+        "url": "https://open.spotify.com/album/5QT3wbfnDHfuZOQ6RiCH1q"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283777,
+      "name": "Joya - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/4Fqs0vsYMwzenwRroxw2Wt"
     },
     {
       "album": {
@@ -6534,7 +6636,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 190652,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/2SVvycM3A5XdT6leTr30mv"
@@ -6889,6 +6991,24 @@
     },
     {
       "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/0TmAvoXHWAGgzteBGHGVob"
+      },
+      "artists": [
+        {
+          "name": "Anna Reusch",
+          "url": "https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228387,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/1XyO7zz6B4zMtUzVrP5G1C"
+    },
+    {
+      "album": {
         "name": "Move Up",
         "url": "https://open.spotify.com/album/5K4TpfUwASOiSN86V0nzFM"
       },
@@ -7042,7 +7162,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 430730,
       "name": "My Palazzo - Masters of Disaster Remix",
       "url": "https://open.spotify.com/track/2HrxuIQLaHHaDV74oPq0oB"
@@ -7680,7 +7800,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 467050,
       "name": "Order In Chaos - Reactive Mix",
       "url": "https://open.spotify.com/track/742YGl0HOzL7nUfcireyBu"
@@ -8707,6 +8827,24 @@
     },
     {
       "album": {
+        "name": "Reflex",
+        "url": "https://open.spotify.com/album/2eOceXzjQHMyuTa5nAIpLe"
+      },
+      "artists": [
+        {
+          "name": "Tao Andra",
+          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216444,
+      "name": "Reflex",
+      "url": "https://open.spotify.com/track/3vAj1bE7xK1BfDB2DdkcCf"
+    },
+    {
+      "album": {
         "name": "Relax Shiva",
         "url": "https://open.spotify.com/album/0Qp3gmNLo5zqYutS7F0wDe"
       },
@@ -9348,7 +9486,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 269032,
       "name": "Schall - A.D.H.S. Remix",
       "url": "https://open.spotify.com/track/1VVD0EmqdYmIcgEjoAwtGA"
@@ -9432,6 +9570,28 @@
       "duration_ms": 376939,
       "name": "Scorpio",
       "url": "https://open.spotify.com/track/3mi6n3JAIZmacRverAt6zx"
+    },
+    {
+      "album": {
+        "name": "Scorpio (HNGT Remix)",
+        "url": "https://open.spotify.com/album/2lIvPvMnInpGzNR0AzCOu0"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "HNGT",
+          "url": "https://open.spotify.com/artist/1LMZAwKQsYL6iIyAx7VuLK"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354626,
+      "name": "Scorpio - HNGT Remix",
+      "url": "https://open.spotify.com/track/1L7jvrxk3JyldKkQdJV0E6"
     },
     {
       "album": {
@@ -9613,6 +9773,24 @@
     },
     {
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/38MBdNMbf3lra9AWJkqmZG"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365689,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/340fN3ZYdRrcc7ybSYNglo"
+    },
+    {
+      "album": {
         "name": "Nostalgie und Traurigkeit (Deluxe)",
         "url": "https://open.spotify.com/album/2kcUhQkrJmntQZgbDviH3o"
       },
@@ -9624,7 +9802,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 162917,
       "name": "Silent Chills",
       "url": "https://open.spotify.com/track/4qzNbx48h2KEqDtWfte9VQ"
@@ -11102,7 +11280,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 176470,
       "name": "The Unknown",
       "url": "https://open.spotify.com/track/1lEUxnBbvrbCRyVn0tpKwp"
@@ -12118,6 +12296,24 @@
       "duration_ms": 417666,
       "name": "What Was - Chris Liebing Remix",
       "url": "https://open.spotify.com/track/5M81BMStSdjIL0UBlFr9be"
+    },
+    {
+      "album": {
+        "name": "whatever you do",
+        "url": "https://open.spotify.com/album/332Ale8JZU0KaSGjoL3aXY"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210014,
+      "name": "whatever you do",
+      "url": "https://open.spotify.com/track/7tYkpOOHN2YB5RhFkLPs6R"
     },
     {
       "album": {

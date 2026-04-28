@@ -205,6 +205,28 @@
     },
     {
       "album": {
+        "name": "Aye Ole",
+        "url": "https://open.spotify.com/album/2U0IrWZICHozN3wdBzaPqy"
+      },
+      "artists": [
+        {
+          "name": "Ucious Music",
+          "url": "https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa"
+        },
+        {
+          "name": "Abbey Ojomu",
+          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1380000,
+      "name": "Aye Ole",
+      "url": "https://open.spotify.com/track/6XJ4mWDH46We0Mgr1cuHK1"
+    },
+    {
+      "album": {
         "name": "Strings of Glory (Prayer Chant)",
         "url": "https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb"
       },
@@ -2062,7 +2084,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 478664,
       "name": "Yeshua Hamashiach (Overture)",
       "url": "https://open.spotify.com/track/3hbjwNtFbsRjjPA08oeSLS"

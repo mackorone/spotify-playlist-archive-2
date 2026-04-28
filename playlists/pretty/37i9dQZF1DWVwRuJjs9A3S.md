@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Kape Yeel
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,139 likes - 312 songs - 17 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,136 likes - 312 songs - 17 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SUPERVILLAIN](https://open.spotify.com/track/1zMJ040MrRczDREAdsJQYI) | [Kape Yeel](https://open.spotify.com/artist/4FKoVIKo6n8CqYJ9SlTmsH) | [SUPERVILLAIN](https://open.spotify.com/album/2c1py1rEGjkPhOPglkmhuk) | 2:54 |
-| 2 | [För nära solen](https://open.spotify.com/track/6J71OcLTKjZIIH9AlYu0LW) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [För nära solen](https://open.spotify.com/album/2p4nOd5AP57bPjXXennG1E) | 3:36 |
-| 3 | [Lust](https://open.spotify.com/track/52Gd1OK0WZS13KZgPleUiD) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1) | [Lust // Tigeröga](https://open.spotify.com/album/2Q1C8ASSUHdI7si0nSFy1w) | 3:57 |
-| 4 | [Blue](https://open.spotify.com/track/1CIaLezlXbGQH53ywJRp4V) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Blue](https://open.spotify.com/album/5uQErs3CETeVzk5joQW1hA) | 3:50 |
-| 5 | [Fån](https://open.spotify.com/track/0spugCJJhgr8ueya3xHyST) | [crescenterna](https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh) | [Fån](https://open.spotify.com/album/69dlkLrXfQfTp416MpzCt3) | 3:53 |
-| 6 | [Ember](https://open.spotify.com/track/7jdLVBEhoDxGKdhfBEulzY) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Ember](https://open.spotify.com/album/7v39mio0wBEBfW44yf39bE) | 3:25 |
-| 7 | [Suitcase](https://open.spotify.com/track/7BsIaHIkXI3lnr2wchQfa3) | [Calby](https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa) | [Suitcase](https://open.spotify.com/album/1BMLsxU5zEqhdeYs2hXwlF) | 3:17 |
-| 8 | [Florence](https://open.spotify.com/track/4vNf1qqBHno9dM6PcgVBHj) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [Florence](https://open.spotify.com/album/0GAuzNrkQcaZyNezFjNDSB) | 4:31 |
-| 9 | [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 |
+| 1 | [Blue](https://open.spotify.com/track/1CIaLezlXbGQH53ywJRp4V) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Blue](https://open.spotify.com/album/5uQErs3CETeVzk5joQW1hA) | 3:50 |
+| 2 | [SUPERVILLAIN](https://open.spotify.com/track/1zMJ040MrRczDREAdsJQYI) | [Kape Yeel](https://open.spotify.com/artist/4FKoVIKo6n8CqYJ9SlTmsH) | [SUPERVILLAIN](https://open.spotify.com/album/2c1py1rEGjkPhOPglkmhuk) | 2:54 |
+| 3 | [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 |
+| 4 | [För nära solen](https://open.spotify.com/track/6J71OcLTKjZIIH9AlYu0LW) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [För nära solen](https://open.spotify.com/album/2p4nOd5AP57bPjXXennG1E) | 3:36 |
+| 5 | [Lust](https://open.spotify.com/track/52Gd1OK0WZS13KZgPleUiD) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1) | [Lust // Tigeröga](https://open.spotify.com/album/2Q1C8ASSUHdI7si0nSFy1w) | 3:57 |
+| 6 | [Fån](https://open.spotify.com/track/0spugCJJhgr8ueya3xHyST) | [crescenterna](https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh) | [Fån](https://open.spotify.com/album/69dlkLrXfQfTp416MpzCt3) | 3:53 |
+| 7 | [Ember](https://open.spotify.com/track/7jdLVBEhoDxGKdhfBEulzY) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Ember](https://open.spotify.com/album/7v39mio0wBEBfW44yf39bE) | 3:25 |
+| 8 | [Suitcase](https://open.spotify.com/track/7BsIaHIkXI3lnr2wchQfa3) | [Calby](https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa) | [Suitcase](https://open.spotify.com/album/1BMLsxU5zEqhdeYs2hXwlF) | 3:17 |
+| 9 | [Florence](https://open.spotify.com/track/4vNf1qqBHno9dM6PcgVBHj) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [Florence](https://open.spotify.com/album/0GAuzNrkQcaZyNezFjNDSB) | 4:31 |
 | 10 | [Venus in the Zinnia](https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG), [H\. Hawkline](https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht) | [Venus in the Zinnia](https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9) | 3:17 |
 | 11 | [Ride It Out](https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Ride It Out](https://open.spotify.com/album/6vMuk0DhZDM1wClWe6ZjIA) | 3:29 |
 | 12 | [Adam](https://open.spotify.com/track/2uGBnu8TR4Lx8oxRCgYPd7) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Please Like Me](https://open.spotify.com/album/0uB17I8AT9aGuQwO8X0aaC) | 3:29 |
@@ -321,4 +321,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 311 | [Jaime](https://open.spotify.com/track/2PV9DHHBVKWfwOEM7H0mwf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Girl Violence](https://open.spotify.com/album/4aAqSQJ69OruOHDlQ9B5ki) | 2:23 |
 | 312 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 |
 
-Snapshot ID: `AAAAAJKS8NhekQRziZ+fbgZTNWMrqrJY`
+Snapshot ID: `AAAAAMdVE4Q+Qc7nDCQgFT9i5mcjvjJw`

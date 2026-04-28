@@ -310,7 +310,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 234316,
       "name": "Christmas Memory Is",
       "url": "https://open.spotify.com/track/0EspSZ6lFo75KmPfxvtxlh"
@@ -2112,6 +2112,24 @@
       "duration_ms": 169500,
       "name": "Perhaps here",
       "url": "https://open.spotify.com/track/7DyJ2hn51jaHlmEm3ik5rQ"
+    },
+    {
+      "album": {
+        "name": "Someone, Somewhere",
+        "url": "https://open.spotify.com/album/6v1BwjXp6lnaFW6ySWIKdJ"
+      },
+      "artists": [
+        {
+          "name": "Lucid Fall",
+          "url": "https://open.spotify.com/artist/4uKVLCvDKjjNM58cXtKitT"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304023,
+      "name": "Pluto",
+      "url": "https://open.spotify.com/track/40xNbP616mtelipZLdhSsc"
     },
     {
       "album": {

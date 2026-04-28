@@ -3499,6 +3499,24 @@
     },
     {
       "album": {
+        "name": "armastus on pime",
+        "url": "https://open.spotify.com/album/1yIqoTgpVzItDHl6sFyXJt"
+      },
+      "artists": [
+        {
+          "name": "Grete Paia",
+          "url": "https://open.spotify.com/artist/5hihfLAlypybwPFgjzLJiX"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "armastus on pime",
+      "url": "https://open.spotify.com/track/7F42WBZOTURlQGsofVvVjB"
+    },
+    {
+      "album": {
         "name": "Armed and Loaded",
         "url": "https://open.spotify.com/album/6YIrcUY7LSYlTX96SU5C4K"
       },
@@ -5272,6 +5290,24 @@
       "duration_ms": 191033,
       "name": "Beast Mode",
       "url": "https://open.spotify.com/track/51hI2oHLYe4Bau43tGb4Nz"
+    },
+    {
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258296,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
     },
     {
       "album": {
@@ -26302,7 +26338,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 163822,
       "name": "KUHU KADUS STEN?",
       "url": "https://open.spotify.com/track/63YH4W1jfTXbuS9LNSCTXB"
@@ -28346,7 +28382,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 173142,
       "name": "Lihtsalt kaaslane",
       "url": "https://open.spotify.com/track/0StAgispgjih4elmadtyRY"
@@ -34858,7 +34894,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 235738,
       "name": "M\u00fcnt",
       "url": "https://open.spotify.com/track/6UoVyn8YeCaHoYvigwqqaJ"
@@ -55944,7 +55980,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"

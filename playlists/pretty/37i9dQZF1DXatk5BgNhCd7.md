@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo de música tropical 📸 Thalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,694 likes - 78 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,710 likes - 78 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 77 | [Querencias](https://open.spotify.com/track/0T8EQ8NH4c9SAubss5s6dH) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Querencias](https://open.spotify.com/album/4QUinfXsGNfjnb1KfIO0mi) | 3:02 |
 | 78 | [Llorar Lloviendo](https://open.spotify.com/track/0GCG1NBYjJV0TWHDwmJwUL) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt), [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Llorar Lloviendo](https://open.spotify.com/album/2PGMAVdlbAkn7X8pZB5D9d) | 3:31 |
 
-Snapshot ID: `AAAAAPB3R8Kf3JUOs/38SzYoGrghVmFb`
+Snapshot ID: `AAAAAIa4Q0iNfDvoCej+a/dIFMsX92Nk`

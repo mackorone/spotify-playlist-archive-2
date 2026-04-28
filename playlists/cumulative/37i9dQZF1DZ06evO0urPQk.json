@@ -1341,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "POP MASTER",
+        "url": "https://open.spotify.com/album/5yNAlfpRUPwD26kBaeY3eS"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283413,
+      "name": "POP MASTER",
+      "url": "https://open.spotify.com/track/3LoTXVMPog4NjKZn8ByPVy"
+    },
+    {
+      "album": {
         "name": "POWER GATE",
         "url": "https://open.spotify.com/album/36mh2dAHzkn6kebVw3PXPJ"
       },
@@ -2382,7 +2400,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 278973,
       "name": "\u5c11\u5e74",
       "url": "https://open.spotify.com/track/5w20BfLMEAdemPI5Bd6Eu0"

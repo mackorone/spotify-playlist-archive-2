@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,393 likes - 113 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,378 likes - 113 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [My House](https://open.spotify.com/track/5PRkEy2WzT2fYeWo65u9Yx) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7), [Sleiken](https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v) | [My House](https://open.spotify.com/album/1igBUnHek3kjOoc3KjAJTr) | 2:08 |
+| 1 | [Ja Eller Nej](https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [Ja Eller Nej](https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS) | 2:32 |
 | 2 | [På en tur \(Eller hur?\)](https://open.spotify.com/track/1QbyGkRBxMWNL0u50HVgkk) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl) | [På en tur \(Eller hur?\)](https://open.spotify.com/album/44yp9vkgl3qF3R7UEdqrYL) | 1:49 |
-| 3 | [Ja Eller Nej](https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [Ja Eller Nej](https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS) | 2:32 |
-| 4 | [TAPPAT ALLT](https://open.spotify.com/track/2iIC5CEW9v4nFNGvJp3XL5) | [Emil Assergård](https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm) | [TAPPAT ALLT](https://open.spotify.com/album/3CYZw8AwUc1Ffdu1TfoQtl) | 2:41 |
-| 5 | [Autobahn](https://open.spotify.com/track/69omUBf5OpVyjhXKcPevoF) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Autobahn](https://open.spotify.com/album/3sUdzCjeHR5mI5nuHtfQKm) | 2:33 |
-| 6 | [Far](https://open.spotify.com/track/5Fg1ecVcWgzrAV7IkVjuLC) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Far](https://open.spotify.com/album/4uBudhdPJ0Qq6irWpmZrrH) | 2:21 |
+| 3 | [Far](https://open.spotify.com/track/5Fg1ecVcWgzrAV7IkVjuLC) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Far](https://open.spotify.com/album/4uBudhdPJ0Qq6irWpmZrrH) | 2:21 |
+| 4 | [My House](https://open.spotify.com/track/5PRkEy2WzT2fYeWo65u9Yx) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7), [Sleiken](https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v) | [My House](https://open.spotify.com/album/1igBUnHek3kjOoc3KjAJTr) | 2:08 |
+| 5 | [TAPPAT ALLT](https://open.spotify.com/track/2iIC5CEW9v4nFNGvJp3XL5) | [Emil Assergård](https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm) | [TAPPAT ALLT](https://open.spotify.com/album/3CYZw8AwUc1Ffdu1TfoQtl) | 2:41 |
+| 6 | [Autobahn](https://open.spotify.com/track/69omUBf5OpVyjhXKcPevoF) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Autobahn](https://open.spotify.com/album/3sUdzCjeHR5mI5nuHtfQKm) | 2:33 |
 | 7 | [FAKK MITT EX](https://open.spotify.com/track/6RXBmjvRX1XWZyS8jF416I) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [KLIKK](https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69) | [FAKK MITT EX](https://open.spotify.com/album/72QDi4ww9Hn3zz6V1A0oBK) | 2:54 |
 | 8 | [Sommarkatt](https://open.spotify.com/track/06SBaFS25FItwI86Euk05d) | [KaptenX](https://open.spotify.com/artist/5m1kkyZcYNKkjeAh6o9XLp) | [Sommarkatt](https://open.spotify.com/album/0CT043iJqTjICBNuQKcMsn) | 1:58 |
 | 9 | [Reprise](https://open.spotify.com/track/7d2tJclfNpsh7M3YULPHFz) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Reprise](https://open.spotify.com/album/3tef4W5a0SrCkQS42q1Anb) | 2:10 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 112 | [FUCK MITT EX](https://open.spotify.com/track/5uZbNtwrtQKOCkXFoVOGxX) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl) | [FUCK MITT EX](https://open.spotify.com/album/1FzUlKjvO9lEdKj5XUcrvU) | 2:50 |
 | 113 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 |
 
-Snapshot ID: `AAAAABh7uxp6A8lDls+JYIN2xIt6dN9r`
+Snapshot ID: `AAAAALUXUnlyLlEjomO9HdJHxvdkiRnp`

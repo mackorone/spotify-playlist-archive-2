@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33925,
+  "num_followers": 33924,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2026-04-24 12:46:33",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 197116,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
+    },
+    {
+      "added_at": "2026-04-24 12:46:33",
+      "album": {
         "name": "Six O'Clock News",
         "url": "https://open.spotify.com/album/0djxhi0YKtQhZrRHXhlBLl"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 272722,
       "name": "Six O'Clock News",
       "url": "https://open.spotify.com/track/3kbSNJhl1oRRjgX8PBKYAE"
-    },
-    {
-      "added_at": "2026-04-24 12:46:33",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 197116,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
     },
     {
       "added_at": "2026-04-24 12:46:33",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-04-24 12:46:33",
       "album": {
-        "name": "Field Song.",
-        "url": "https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 139530,
-      "name": "Field Song.",
-      "url": "https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R"
-    },
-    {
-      "added_at": "2026-04-24 12:46:33",
-      "album": {
         "name": "New Country (feat. Blake Shelton)",
         "url": "https://open.spotify.com/album/71i26TrPiwqS2VQ0gTxbX8"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 198760,
       "name": "New Country (feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/3zgZgaTkhrEhP8isvTw4Fr"
+    },
+    {
+      "added_at": "2026-04-24 12:46:33",
+      "album": {
+        "name": "Field Song.",
+        "url": "https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "duration_ms": 139530,
+      "name": "Field Song.",
+      "url": "https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R"
     },
     {
       "added_at": "2026-04-24 12:46:33",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-04-24 12:46:33",
       "album": {
-        "name": "Good Riddance & Goodbye",
-        "url": "https://open.spotify.com/album/4fJjNjrXI8Kg06UwA30ImI"
-      },
-      "artists": [
-        {
-          "name": "INA ROSE",
-          "url": "https://open.spotify.com/artist/19ehJM5qKnIvJ1KXOnKddA"
-        }
-      ],
-      "duration_ms": 187980,
-      "name": "Good Riddance & Goodbye",
-      "url": "https://open.spotify.com/track/5qah0qyBq6iG8sRjtfPu7e"
-    },
-    {
-      "added_at": "2026-04-24 12:46:33",
-      "album": {
         "name": "Wanderings",
         "url": "https://open.spotify.com/album/5drfnFk0N0p4J4gN9spx5l"
       },
@@ -779,6 +763,50 @@
       "duration_ms": 221080,
       "name": "This Night's Alright",
       "url": "https://open.spotify.com/track/75Mp2Ww9Ni8GLRa8u69yYU"
+    },
+    {
+      "added_at": "2026-04-24 12:46:33",
+      "album": {
+        "name": "By The Bay",
+        "url": "https://open.spotify.com/album/7LtOrnQ2x5JQFzoSN2PZvC"
+      },
+      "artists": [
+        {
+          "name": "BAY",
+          "url": "https://open.spotify.com/artist/1Abn5FOJHEdk52uZfcjpet"
+        },
+        {
+          "name": "Bobbie Wall",
+          "url": "https://open.spotify.com/artist/6HW856GZA6qu5O5pmkXVsI"
+        },
+        {
+          "name": "aniika",
+          "url": "https://open.spotify.com/artist/2wi4P025ZjQKNvhTpjncc3"
+        },
+        {
+          "name": "Yentl",
+          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
+        }
+      ],
+      "duration_ms": 204328,
+      "name": "By The Bay",
+      "url": "https://open.spotify.com/track/5afcgRprK5Ind4L5Dk6ZuI"
+    },
+    {
+      "added_at": "2026-04-24 12:46:33",
+      "album": {
+        "name": "Good Riddance & Goodbye",
+        "url": "https://open.spotify.com/album/4fJjNjrXI8Kg06UwA30ImI"
+      },
+      "artists": [
+        {
+          "name": "INA ROSE",
+          "url": "https://open.spotify.com/artist/19ehJM5qKnIvJ1KXOnKddA"
+        }
+      ],
+      "duration_ms": 187980,
+      "name": "Good Riddance & Goodbye",
+      "url": "https://open.spotify.com/track/5qah0qyBq6iG8sRjtfPu7e"
     },
     {
       "added_at": "2026-04-24 12:46:33",
@@ -827,34 +855,6 @@
       "duration_ms": 193101,
       "name": "Dear Maria",
       "url": "https://open.spotify.com/track/474l0bzcgUT8Y6e8pul43i"
-    },
-    {
-      "added_at": "2026-04-24 12:46:33",
-      "album": {
-        "name": "By The Bay",
-        "url": "https://open.spotify.com/album/7LtOrnQ2x5JQFzoSN2PZvC"
-      },
-      "artists": [
-        {
-          "name": "BAY",
-          "url": "https://open.spotify.com/artist/1Abn5FOJHEdk52uZfcjpet"
-        },
-        {
-          "name": "Bobbie Wall",
-          "url": "https://open.spotify.com/artist/6HW856GZA6qu5O5pmkXVsI"
-        },
-        {
-          "name": "aniika",
-          "url": "https://open.spotify.com/artist/2wi4P025ZjQKNvhTpjncc3"
-        },
-        {
-          "name": "Yentl",
-          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
-        }
-      ],
-      "duration_ms": 204328,
-      "name": "By The Bay",
-      "url": "https://open.spotify.com/track/5afcgRprK5Ind4L5Dk6ZuI"
     },
     {
       "added_at": "2026-04-24 12:46:33",

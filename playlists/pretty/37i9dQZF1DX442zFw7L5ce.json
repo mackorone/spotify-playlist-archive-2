@@ -1,12 +1,12 @@
 {
   "description": "Get ready to these songs that'll make you feel like you're the QUEEEEN! \nCover : Sreeleela",
-  "num_followers": 60603,
+  "num_followers": 60630,
   "original_name": "#GRWM Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFGZj5Lj87shWDkSv6N3JX1kaN0Z",
+  "snapshot_id": "AAAAAPw4zc53tJDbmQtjnMLmaXfC/PDF",
   "tracks": [
     {
       "added_at": "2026-04-01 13:34:11",
@@ -95,6 +95,34 @@
       "duration_ms": 275439,
       "name": "Ammayi",
       "url": "https://open.spotify.com/track/4kVsV4GhcNpHSDs6siioM0"
+    },
+    {
+      "added_at": "2026-04-27 07:01:19",
+      "album": {
+        "name": "Thassadiya (From \"Maa Inti Bangaaram\")",
+        "url": "https://open.spotify.com/album/09SGjIK2DZCYmYBBn7a8mJ"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Punya Selva",
+          "url": "https://open.spotify.com/artist/6uvIzuYq1gO5Q4AkLwSIgw"
+        },
+        {
+          "name": "Rehman",
+          "url": "https://open.spotify.com/artist/7bWwpkumEXBbHWcc0k1OI7"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Thassadiya - From \"Maa Inti Bangaaram\"",
+      "url": "https://open.spotify.com/track/544e9hW6ojayi4ir5DufOK"
     },
     {
       "added_at": "2021-10-21 04:58:47",
@@ -405,22 +433,6 @@
       "url": "https://open.spotify.com/track/3fiN8y8c2EvwCNNvVAERbx"
     },
     {
-      "added_at": "2023-01-30 09:32:12",
-      "album": {
-        "name": "Bharateeyudu",
-        "url": "https://open.spotify.com/album/5wbNqlJ4LukhEsQcqty9Po"
-      },
-      "artists": [
-        {
-          "name": "Swarnalatha",
-          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
-        }
-      ],
-      "duration_ms": 351560,
-      "name": "Adireti",
-      "url": "https://open.spotify.com/track/5lsstDSoCsN8SRh5NxwGcK"
-    },
-    {
       "added_at": "2022-10-13 05:39:22",
       "album": {
         "name": "Anukokunda Oka Roju (Original Motion Picture Soundtrack)",
@@ -435,6 +447,22 @@
       "duration_ms": 195133,
       "name": "Evaraina Chustuntara",
       "url": "https://open.spotify.com/track/7vHmN4UodN2EGwQJMIvTe0"
+    },
+    {
+      "added_at": "2023-01-30 09:32:12",
+      "album": {
+        "name": "Bharateeyudu",
+        "url": "https://open.spotify.com/album/5wbNqlJ4LukhEsQcqty9Po"
+      },
+      "artists": [
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        }
+      ],
+      "duration_ms": 351560,
+      "name": "Adireti",
+      "url": "https://open.spotify.com/track/5lsstDSoCsN8SRh5NxwGcK"
     },
     {
       "added_at": "2024-02-13 09:38:02",
@@ -623,26 +651,6 @@
       "duration_ms": 291188,
       "name": "Akasam Ammayaithe",
       "url": "https://open.spotify.com/track/14I31bbtEZVADFi1uCcxcu"
-    },
-    {
-      "added_at": "2022-10-13 05:39:22",
-      "album": {
-        "name": "Oye",
-        "url": "https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8"
-      },
-      "artists": [
-        {
-          "name": "Siddharth",
-          "url": "https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P"
-        },
-        {
-          "name": "Prasanthini",
-          "url": "https://open.spotify.com/artist/1EAoBVsvTYarQhO6i9zAG9"
-        }
-      ],
-      "duration_ms": 282426,
-      "name": "Oy..Oy..",
-      "url": "https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx"
     },
     {
       "added_at": "2022-10-13 05:39:22",

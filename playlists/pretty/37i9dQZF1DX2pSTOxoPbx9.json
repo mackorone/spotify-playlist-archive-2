@@ -1,6 +1,6 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 860749,
+  "num_followers": 860791,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
@@ -531,26 +531,6 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "Stolen Valor / Leash",
-        "url": "https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0"
-      },
-      "artists": [
-        {
-          "name": "Hudson Freeman",
-          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
-        },
-        {
-          "name": "The Bedroomer",
-          "url": "https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Stolen Valor",
-      "url": "https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
         "name": "Noonday Dream",
         "url": "https://open.spotify.com/album/6astw05cTiXEc2OvyByaPs"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 196613,
       "name": "The Only Thing Worth Fighting For - From The HBO Series True Detective",
       "url": "https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
+        "name": "Stolen Valor / Leash",
+        "url": "https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        },
+        {
+          "name": "The Bedroomer",
+          "url": "https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Stolen Valor",
+      "url": "https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "Until",
-        "url": "https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH"
-      },
-      "artists": [
-        {
-          "name": "Lotte Kestner",
-          "url": "https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI"
-        }
-      ],
-      "duration_ms": 317026,
-      "name": "Bell Under Water",
-      "url": "https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
         "name": "Tomorrow Is My Turn",
         "url": "https://open.spotify.com/album/2dHKdmxoivYnUBg01aPGDg"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 272720,
       "name": "O Love Is Teasin'",
       "url": "https://open.spotify.com/track/0cxkhoKLZ38gxql3fd37kw"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
+        "name": "Until",
+        "url": "https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH"
+      },
+      "artists": [
+        {
+          "name": "Lotte Kestner",
+          "url": "https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI"
+        }
+      ],
+      "duration_ms": 317026,
+      "name": "Bell Under Water",
+      "url": "https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -1555,6 +1555,74 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
+        "name": "Highwomen / Redesigning Women / Crowded Table",
+        "url": "https://open.spotify.com/album/0Uwv4WEMv2lX0QDkVLGWg1"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        },
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 212480,
+      "name": "Highwomen",
+      "url": "https://open.spotify.com/track/7aGpNpXbk0gIfZUe1mWoKK"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
+        "name": "The System Only Dreams in Total Darkness",
+        "url": "https://open.spotify.com/album/3pAiwtyDr7ovW1k9WVLqu9"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "The System Only Dreams in Total Darkness",
+      "url": "https://open.spotify.com/track/5t8OscU60DLybml2sjwhri"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/71K84GjeSWMtFT3sKv3Poz"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 311025,
+      "name": "Stakes",
+      "url": "https://open.spotify.com/track/0MrCHY7OM8VjnsfwT3DSsw"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
         "name": "Marked for Death",
         "url": "https://open.spotify.com/album/6e5Hr71kvlsrTaNoiuqWu4"
       },
@@ -1567,54 +1635,6 @@
       "duration_ms": 219760,
       "name": "Marked for Death",
       "url": "https://open.spotify.com/track/1fLOvLE1XRpvHpLkRHzSym"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
-        "name": "Notion",
-        "url": "https://open.spotify.com/album/295QySTXTwWvjhah3XVHvg"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Notion",
-      "url": "https://open.spotify.com/track/2DkRjzvzTxzeijk0pjSNBD"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
-        "name": "Berlin EP",
-        "url": "https://open.spotify.com/album/2d90pcby1VFHjXUGYJNBJc"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 170551,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/123W7snVRuONLwn2uMdJB3"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/2xXupTEc3wDkMcfp8zDwd4"
-      },
-      "artists": [
-        {
-          "name": "Fleurie",
-          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
-        }
-      ],
-      "duration_ms": 266277,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/31fhJR9Lop1IScpn1B86k6"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -1643,18 +1663,18 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "Absolute Zero",
-        "url": "https://open.spotify.com/album/0FSlXUD9lWwWP1NkfiNmQH"
+        "name": "Notion",
+        "url": "https://open.spotify.com/album/295QySTXTwWvjhah3XVHvg"
       },
       "artists": [
         {
-          "name": "Little Green Cars",
-          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
         }
       ],
-      "duration_ms": 300960,
-      "name": "My Love Took Me Down To The River To Silence Me",
-      "url": "https://open.spotify.com/track/0x1mjEve6LgDbFqBO36p0X"
+      "duration_ms": 341000,
+      "name": "Notion",
+      "url": "https://open.spotify.com/track/2DkRjzvzTxzeijk0pjSNBD"
     }
   ],
   "unique_name": "Dark & Stormy",

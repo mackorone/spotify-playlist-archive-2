@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: bambi",
-  "num_followers": 1041415,
+  "num_followers": 1041304,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-04-24 04:00:41",
       "album": {
+        "name": "Cruel World",
+        "url": "https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 225985,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/0rjGD5jVtVbj131wDsfbJG"
+    },
+    {
+      "added_at": "2026-04-24 04:00:41",
+      "album": {
         "name": "Kakaibabe",
         "url": "https://open.spotify.com/album/30ij1ycDprez5OaTt812l1"
       },
@@ -615,18 +631,18 @@
     {
       "added_at": "2026-04-24 04:00:41",
       "album": {
-        "name": "Cruel World",
-        "url": "https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU"
+        "name": "Need For Speed",
+        "url": "https://open.spotify.com/album/6SBOaYOprgqWNIMA5vN22n"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 225985,
-      "name": "White Noise",
-      "url": "https://open.spotify.com/track/0rjGD5jVtVbj131wDsfbJG"
+      "duration_ms": 195154,
+      "name": "Need For Speed",
+      "url": "https://open.spotify.com/track/1b104gnwd0zxCIhZPNLyf8"
     },
     {
       "added_at": "2026-04-24 04:00:41",
@@ -727,22 +743,6 @@
       "duration_ms": 204786,
       "name": "Ako Na Lang",
       "url": "https://open.spotify.com/track/0HEgpKfIPNUNzDsrBt3o3l"
-    },
-    {
-      "added_at": "2026-04-24 04:00:41",
-      "album": {
-        "name": "Need For Speed",
-        "url": "https://open.spotify.com/album/6SBOaYOprgqWNIMA5vN22n"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 195154,
-      "name": "Need For Speed",
-      "url": "https://open.spotify.com/track/1b104gnwd0zxCIhZPNLyf8"
     },
     {
       "added_at": "2026-04-24 04:00:41",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-04-24 04:00:41",
       "album": {
+        "name": "IS IT FUN OR IS IT OVER?",
+        "url": "https://open.spotify.com/album/74WPtnFgpaweZt8wSqcfQd"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 154131,
+      "name": "Kiss Me Better",
+      "url": "https://open.spotify.com/track/1NxInf8oAuifXyT8Umkblf"
+    },
+    {
+      "added_at": "2026-04-24 04:00:41",
+      "album": {
         "name": "Kahit Na",
         "url": "https://open.spotify.com/album/08HIYYuRaIsmFpnI1YGXAp"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 198320,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/3I6q7b1keDmi75xjPT2RIs"
-    },
-    {
-      "added_at": "2026-04-24 04:00:41",
-      "album": {
-        "name": "IS IT FUN OR IS IT OVER?",
-        "url": "https://open.spotify.com/album/74WPtnFgpaweZt8wSqcfQd"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 154131,
-      "name": "Kiss Me Better",
-      "url": "https://open.spotify.com/track/1NxInf8oAuifXyT8Umkblf"
     },
     {
       "added_at": "2026-04-24 04:00:41",

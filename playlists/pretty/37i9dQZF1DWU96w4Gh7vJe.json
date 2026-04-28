@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local OPM and R&B sounds.",
-  "num_followers": 576795,
+  "num_followers": 576773,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2026-04-14 07:02:35",
       "album": {
+        "name": "Andalucia",
+        "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
+      },
+      "artists": [
+        {
+          "name": "IV OF SPADES",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "duration_ms": 207920,
+      "name": "Kabisado",
+      "url": "https://open.spotify.com/track/4z928BtE4j1bjhcX9RU44M"
+    },
+    {
+      "added_at": "2026-04-14 07:02:35",
+      "album": {
         "name": "Sa Susunod Na Lang",
         "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 214606,
       "name": "Sa Susunod Na Lang",
       "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
-    },
-    {
-      "added_at": "2026-04-14 07:02:35",
-      "album": {
-        "name": "Andalucia",
-        "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
-      },
-      "artists": [
-        {
-          "name": "IV OF SPADES",
-          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
-        }
-      ],
-      "duration_ms": 207920,
-      "name": "Kabisado",
-      "url": "https://open.spotify.com/track/4z928BtE4j1bjhcX9RU44M"
     },
     {
       "added_at": "2026-04-14 07:02:35",
@@ -655,18 +655,18 @@
     {
       "added_at": "2026-04-14 07:02:35",
       "album": {
-        "name": "Sumpa",
-        "url": "https://open.spotify.com/album/7xbollYnpZJ5iMSFhWrbI1"
+        "name": "Panata",
+        "url": "https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u"
       },
       "artists": [
         {
-          "name": "fitterkarma",
-          "url": "https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr"
+          "name": "Tothapi",
+          "url": "https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Sumpa",
-      "url": "https://open.spotify.com/track/53TEymid26RSQwfL3UrYru"
+      "duration_ms": 275893,
+      "name": "Panata",
+      "url": "https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ"
     },
     {
       "added_at": "2026-04-14 07:02:35",
@@ -687,18 +687,18 @@
     {
       "added_at": "2026-04-14 07:02:35",
       "album": {
-        "name": "Panata",
-        "url": "https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u"
+        "name": "Sumpa",
+        "url": "https://open.spotify.com/album/7xbollYnpZJ5iMSFhWrbI1"
       },
       "artists": [
         {
-          "name": "Tothapi",
-          "url": "https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F"
+          "name": "fitterkarma",
+          "url": "https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr"
         }
       ],
-      "duration_ms": 275893,
-      "name": "Panata",
-      "url": "https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ"
+      "duration_ms": 214000,
+      "name": "Sumpa",
+      "url": "https://open.spotify.com/track/53TEymid26RSQwfL3UrYru"
     },
     {
       "added_at": "2026-04-14 07:02:35",
@@ -735,26 +735,6 @@
     {
       "added_at": "2026-04-14 07:02:35",
       "album": {
-        "name": "Hoodie (feat. Alisson Shore)",
-        "url": "https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK"
-      },
-      "artists": [
-        {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        },
-        {
-          "name": "Alisson Shore",
-          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
-        }
-      ],
-      "duration_ms": 170895,
-      "name": "Hoodie (feat. Alisson Shore)",
-      "url": "https://open.spotify.com/track/617TML0prwU24bJPd7uESm"
-    },
-    {
-      "added_at": "2026-04-14 07:02:35",
-      "album": {
         "name": "Episode III",
         "url": "https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX"
       },
@@ -771,34 +751,22 @@
     {
       "added_at": "2026-04-14 07:02:35",
       "album": {
-        "name": "Weak",
-        "url": "https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed"
+        "name": "Hoodie (feat. Alisson Shore)",
+        "url": "https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK"
       },
       "artists": [
         {
-          "name": "Khel Pangilinan",
-          "url": "https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3"
-    },
-    {
-      "added_at": "2026-04-14 07:02:35",
-      "album": {
-        "name": "Di Na",
-        "url": "https://open.spotify.com/album/0yGfCICYBpXM0sBfYj1TlI"
-      },
-      "artists": [
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        },
         {
-          "name": "Earl Agustin",
-          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+          "name": "Alisson Shore",
+          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
         }
       ],
-      "duration_ms": 247413,
-      "name": "Di Na",
-      "url": "https://open.spotify.com/track/1ETxEgB0R48fOF3mIajPyF"
+      "duration_ms": 170895,
+      "name": "Hoodie (feat. Alisson Shore)",
+      "url": "https://open.spotify.com/track/617TML0prwU24bJPd7uESm"
     },
     {
       "added_at": "2026-04-14 07:02:35",
@@ -851,6 +819,38 @@
       "duration_ms": 281296,
       "name": "tila tala",
       "url": "https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2"
+    },
+    {
+      "added_at": "2026-04-14 07:02:35",
+      "album": {
+        "name": "Di Na",
+        "url": "https://open.spotify.com/album/0yGfCICYBpXM0sBfYj1TlI"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "duration_ms": 247413,
+      "name": "Di Na",
+      "url": "https://open.spotify.com/track/1ETxEgB0R48fOF3mIajPyF"
+    },
+    {
+      "added_at": "2026-04-14 07:02:35",
+      "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed"
+      },
+      "artists": [
+        {
+          "name": "Khel Pangilinan",
+          "url": "https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3"
     },
     {
       "added_at": "2026-04-14 07:02:35",

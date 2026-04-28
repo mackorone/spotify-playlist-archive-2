@@ -4,11 +4,12 @@
 
 > soft ambient + bird song for spring study sessions 🦜🌿 🌷
 
-68 songs - 3 hr 8 min
+71 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [40Hz Sound Of Nature](https://open.spotify.com/track/3nwx8hPz31dVTuNMlybFzn) | [Alex Zenum](https://open.spotify.com/artist/1R7IPqmjjDOWrp2vH7xspV) | [40Hz Sound Of Nature](https://open.spotify.com/album/1MgH6LgiOlhtYVPygkFr0F) | 2:56 | 2026-04-03 |  |
+| [A Moment Unfolding \(Morning Birdsong\)](https://open.spotify.com/track/73HOdre5zEzjrFcgow08uD) | [Eternal Meadows](https://open.spotify.com/artist/0ADZFr36OypozKmbt7y0Bm) | [A Moment Unfolding](https://open.spotify.com/album/1oS4qfCYLICUnxL45BQo7E) | 2:40 | 2026-04-27 |  |
 | [A Moments Rest](https://open.spotify.com/track/7dl0jdG4uhw4XOM60QOr0E) | [Knot Released](https://open.spotify.com/artist/6uS1WmBHW9aJl8NkxoNaZY) | [A Moments Rest](https://open.spotify.com/album/0vakLKm6vIai7276TJhWFB) | 2:33 | 2026-04-03 |  |
 | [and finally, we reach the summit](https://open.spotify.com/track/5H3eECDA7nMacVuqr5At31) | [rhubiqs](https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT), [Good Weather For An Airstrike](https://open.spotify.com/artist/1LcsFT5fwJajcpAqmlitHX) | [AV // TH](https://open.spotify.com/album/452uPYouELxWeqwyap8Dyj) | 3:47 | 2026-04-03 |  |
 | [Appalachia](https://open.spotify.com/track/2SINvQlELjLEpCxVZHjvrU) | [Divine Vibration](https://open.spotify.com/artist/0A4kwgSztRzeUGBrY8jR9c) | [Appalachia](https://open.spotify.com/album/261Bceoliberg12FO8LrNb) | 2:18 | 2026-04-03 |  |
@@ -53,6 +54,7 @@
 | [Recovery](https://open.spotify.com/track/6kB7GQOem87z4FAbJ2Yqcf) | [Ortio](https://open.spotify.com/artist/3DZCw9pq9uA8YvordxZa4i) | [Recovery](https://open.spotify.com/album/0hphWrYN58ODywl7l9rVkk) | 2:36 | 2026-04-03 |  |
 | [Remains](https://open.spotify.com/track/28RxgtMOVactas2AQJHzWv) | [Kharma Initiative](https://open.spotify.com/artist/7BKXObCKvCeZw5tWOFYWe7) | [Remains](https://open.spotify.com/album/0YBXHee7J6d8CjHX2LtnvV) | 2:23 | 2026-04-03 |  |
 | [Restart](https://open.spotify.com/track/7bUtYZp5Nx93HaPPyzk64o) | [Marc Westfield](https://open.spotify.com/artist/5GbWQkreLZ1Q0anHtK93UJ) | [Restart](https://open.spotify.com/album/4owhXLeFbrS6TxGAIWF3uJ) | 2:37 | 2026-04-03 |  |
+| [Restless Wind](https://open.spotify.com/track/6pNCTiTI01RrRR0VysqbAm) | [Sorth](https://open.spotify.com/artist/5r7HLWLaJMF1MsqUVWveyG) | [Restless Wind](https://open.spotify.com/album/0F0Gv0WN6hWLAUkT3IUqLw) | 2:13 | 2026-04-27 |  |
 | [Searching](https://open.spotify.com/track/3XXlcpXxipgbGjHgL0lVIc) | [Faux Moon](https://open.spotify.com/artist/6nDHxcxzE1HEYG9PYmuVQW) | [Searching](https://open.spotify.com/album/4hRsLzpykyNTN2HhzpjSqZ) | 2:32 | 2026-04-03 |  |
 | [Second Bloom](https://open.spotify.com/track/0ixuiRpBn1pTiMeUVTkv5V) | [Brian Stiroh](https://open.spotify.com/artist/5aUFo1R5haVq3g8Sq7msfS) | [Second Bloom](https://open.spotify.com/album/1Gezg5ewcx0RjhifpKk35t) | 2:17 | 2026-04-20 |  |
 | [Sequoia](https://open.spotify.com/track/7v42x72ly33YQ8SqOPdU3j) | [Andrea Accorsi](https://open.spotify.com/artist/3qJhX4vt6z2W7C2SsDHiAK) | [Lost Forest](https://open.spotify.com/album/03ojvd5w41b0GS99JP59ki) | 2:51 | 2026-04-03 |  |
@@ -62,6 +64,7 @@
 | [Sound Of Morning](https://open.spotify.com/track/1Q2DZ6TvsmuZtsOvuqpLnJ) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Sound of Morning](https://open.spotify.com/album/2KH6p1kYs3ThudS0qpyr4u) | 2:51 | 2026-04-03 |  |
 | [Space 1](https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 4:08 | 2026-04-03 |  |
 | [Sparkles Between Trees](https://open.spotify.com/track/1KivTompzOiBdFec5jkS8E) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Sparkles Between Trees](https://open.spotify.com/album/3lnKB5L6PHUGkFUCc3rskG) | 2:41 | 2026-04-03 |  |
+| [The Birds](https://open.spotify.com/track/3yJmL9I3nGSvx2wdFOQdIH) | [Hanan Townshend](https://open.spotify.com/artist/4G8H1peJnT7swm4Ygtm80F) | [What We Lost](https://open.spotify.com/album/4OucqQdIyWceXDGLiMRNbK) | 7:17 | 2026-04-27 |  |
 | [The Golden Path](https://open.spotify.com/track/1n6RWCdlR1noijUCeoU1bn) | [Salome Azul](https://open.spotify.com/artist/0ukN1ypDmoKy71vfx6xw1j) | [The Golden Path](https://open.spotify.com/album/2gFNaNjUKztfUjenabaluq) | 2:14 | 2026-04-03 |  |
 | [The Ground Beneath](https://open.spotify.com/track/0DLDgts6WSS6c7JW9fpDWk) | [Aurelin](https://open.spotify.com/artist/4WxaQLOx5d0XXzj20fTd4X) | [The Ground Beneath](https://open.spotify.com/album/78rNE8rWFyf7Nv5o29c6xS) | 3:01 | 2026-04-03 |  |
 | [Thoughts Outside My Window](https://open.spotify.com/track/0nM5PzquYJRtbWEwnc0q2t) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Thoughts Outside My Window](https://open.spotify.com/album/4pOfZ2daBo1XvcUucRYtyc) | 2:27 | 2026-04-03 |  |

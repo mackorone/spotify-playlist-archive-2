@@ -4335,6 +4335,24 @@
     },
     {
       "album": {
+        "name": "Country Star",
+        "url": "https://open.spotify.com/album/760N7gCiK7WHeZnHL6Msnr"
+      },
+      "artists": [
+        {
+          "name": "L.I.P.S.",
+          "url": "https://open.spotify.com/artist/4KqtkNTJJRT6jlitwTwFVC"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84000,
+      "name": "Country Star",
+      "url": "https://open.spotify.com/track/1dR2pQ9BKMTzSGlThqVVfU"
+    },
+    {
+      "album": {
         "name": "EASY TO THE CORE",
         "url": "https://open.spotify.com/album/7rkdp03pYRUNOA1mdrjIyB"
       },
@@ -11573,6 +11591,24 @@
     },
     {
       "album": {
+        "name": "Just Drive",
+        "url": "https://open.spotify.com/album/1ultJea91tVVf3uvqlavuG"
+      },
+      "artists": [
+        {
+          "name": "For What You Burn",
+          "url": "https://open.spotify.com/artist/4QvZTSqwTEZ0YQZuOPOKI6"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193598,
+      "name": "Just Drive",
+      "url": "https://open.spotify.com/track/4aFaTYrhZyh7CKEpl2VfAu"
+    },
+    {
+      "album": {
         "name": "Just Like My Cigarette",
         "url": "https://open.spotify.com/album/25UGBCpbNS7MZuRu7GXc8U"
       },
@@ -11696,6 +11732,24 @@
       "duration_ms": 157555,
       "name": "Keep on Running",
       "url": "https://open.spotify.com/track/5W2RZqDpxq1NmulBL9E4Mh"
+    },
+    {
+      "album": {
+        "name": "Key Party",
+        "url": "https://open.spotify.com/album/0dnniXOobUtK6Sw9svjohq"
+      },
+      "artists": [
+        {
+          "name": "R. Snider",
+          "url": "https://open.spotify.com/artist/6owVK8Lb6IJZSgrRN8WCpi"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113877,
+      "name": "Key Party",
+      "url": "https://open.spotify.com/track/2CsR8tQz9Q5h8ZwonYOumE"
     },
     {
       "album": {
@@ -12944,7 +12998,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 212301,
       "name": "Magazines",
       "url": "https://open.spotify.com/track/6RERmuoi4zQ42gm5M7pSvC"
@@ -14632,6 +14686,24 @@
       "duration_ms": 175146,
       "name": "No Angel Is Watching",
       "url": "https://open.spotify.com/track/3Cjct6UfADZsVdXdRHmOae"
+    },
+    {
+      "album": {
+        "name": "No Clip",
+        "url": "https://open.spotify.com/album/41UousURaAFq50JCLTTQdr"
+      },
+      "artists": [
+        {
+          "name": "Perilist",
+          "url": "https://open.spotify.com/artist/3OVG2M8SfR4g4NzUUQVEYu"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339305,
+      "name": "No Clip",
+      "url": "https://open.spotify.com/track/13P6rlAj1n7P2J1aIyTZkB"
     },
     {
       "album": {
@@ -21099,6 +21171,24 @@
     },
     {
       "album": {
+        "name": "Thanks, No Thanks",
+        "url": "https://open.spotify.com/album/1yEnpouH7Cdls9ya1GTApB"
+      },
+      "artists": [
+        {
+          "name": "Stella Marris",
+          "url": "https://open.spotify.com/artist/7fShwUYcErNtrfzEYB2fgE"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197441,
+      "name": "Thanks, No Thanks",
+      "url": "https://open.spotify.com/track/3r4fD8lzm7neojLh9ApuDV"
+    },
+    {
+      "album": {
         "name": "This Is What We Call Home",
         "url": "https://open.spotify.com/album/1qXyGvQqzMK8aQcrN72oT3"
       },
@@ -22496,6 +22586,28 @@
       "duration_ms": 197486,
       "name": "Through The Fallen Ashes",
       "url": "https://open.spotify.com/track/6Qnc9YhlHkd9NhIFIcQ1js"
+    },
+    {
+      "album": {
+        "name": "TIED UP",
+        "url": "https://open.spotify.com/album/3gdD2lLCx8X0K1p3O6SYuZ"
+      },
+      "artists": [
+        {
+          "name": "Yugs",
+          "url": "https://open.spotify.com/artist/4GjfiH7lIFZp0X5SF3LbEP"
+        },
+        {
+          "name": "sunstoney",
+          "url": "https://open.spotify.com/artist/3oLuCerqscBRek7Nw9mpqL"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179750,
+      "name": "TIED UP",
+      "url": "https://open.spotify.com/track/3tggEoSWUYosNCUFeLkGNX"
     },
     {
       "album": {

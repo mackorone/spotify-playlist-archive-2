@@ -2,9 +2,9 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى تراكات الهيب هوب في مصر\. الغلاف: مروان بابلو
+> أقوى تراكات الهيب هوب في مصر\. الغلاف: ويجز
 
-456 songs - 22 hr 10 min
+457 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [Mafesh Mane3](https://open.spotify.com/track/3oE8bLxqY4L14n7GPLSRR3) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Mafesh Mane3](https://open.spotify.com/album/3pkXXciOn1FgsroRvaR9Lj) | 3:40 | 2023-08-08 | 2023-08-18 |
 | [MAGANEEN](https://open.spotify.com/track/128stPZbUIBhJU6cYiyNrU) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51) | [MAGANEEN](https://open.spotify.com/album/7qDjmgVN6jRPH2Kue0njD8) | 4:00 | 2023-09-09 | 2023-10-01 |
 | [Maged El Masry](https://open.spotify.com/track/29AFznq7V8b5C5w5fAaQTx) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ras Shitan](https://open.spotify.com/album/5xs1hPBH7vjLHf8UY7TxDY) | 3:38 | 2022-07-06 | 2022-10-11 |
-| [MAGHOOL](https://open.spotify.com/track/1gFRKxEsz8WalxCfNJkPic) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [MAGHOOL](https://open.spotify.com/album/5yX9hssUUeRlHmaQ8EGvaN) | 3:53 | 2023-08-24 |  |
+| [MAGHOOL](https://open.spotify.com/track/1gFRKxEsz8WalxCfNJkPic) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [MAGHOOL](https://open.spotify.com/album/5yX9hssUUeRlHmaQ8EGvaN) | 3:53 | 2023-08-24 | 2026-04-28 |
 | [Malak?](https://open.spotify.com/track/2gq2s70XJpq2BMJAv9zXWf) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [EL MOQABLA](https://open.spotify.com/album/1mkhL6uNagvQRfa6vrkpcy) | 2:24 | 2025-08-12 | 2025-08-31 |
 | [Malaksh Da3wa](https://open.spotify.com/track/4RlYNdvL0xebVFp3YrxtSK) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [El Hob Ebn Wes5a](https://open.spotify.com/album/1ihjowlX2eqrd1SakZzqqu) | 3:15 | 2022-05-10 | 2022-09-15 |
 | [Maleesh Zay](https://open.spotify.com/track/6hR4F00fwdG8QFGV4bQDwt) | [Lil Noby](https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [Falta](https://open.spotify.com/album/5JuZlR6i3oxUFEfVewws68) | 3:28 | 2022-12-22 | 2023-01-17 |
@@ -303,6 +303,7 @@
 | [NOS EZAZA ROOSY](https://open.spotify.com/track/46xn73rGNJWgywDdljrrwL) | [Omar Gangster](https://open.spotify.com/artist/5T50n4CJ00M0hleMaUVCcQ), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Ebn El Mansoura V1](https://open.spotify.com/album/4tzDnNVLxC2GnJaYhUBhDf) | 3:11 | 2024-08-19 | 2024-09-12 |
 | [NUMERO UNO](https://open.spotify.com/track/0IfQacRgsaeQPaO9KPkV9W) | [Begad](https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl) | [WELAD EL 7ARA](https://open.spotify.com/album/5yLjH6Uc23QR4W0FsMfCri) | 3:29 | 2024-06-25 | 2024-08-13 |
 | [Oghnya OldSchool Gdeda](https://open.spotify.com/track/5XM88BvsRPBqg5dgCueIT7) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Oghnya OldSchool Gdeda](https://open.spotify.com/album/3AFOSy3rF2dxso0lImNmIu) | 3:30 | 2023-03-06 | 2023-05-12 |
+| [OGRA](https://open.spotify.com/track/5wQbMKn21YLtviGNWFmhpV) | [Xander Ghost](https://open.spotify.com/artist/0YnJWGYVKBAi4eKFyoMpVC), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [OGRA](https://open.spotify.com/album/6xMAfYQQXEuQNFEosi9Y6x) | 3:33 | 2026-04-27 |  |
 | [OGRA](https://open.spotify.com/track/3rUyiFJIBHLuDj62O0IDwF) | [Xander Ghost](https://open.spotify.com/artist/0YnJWGYVKBAi4eKFyoMpVC), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [FAYADAN](https://open.spotify.com/album/5s8hUlmO9exajp6IxL2Nm4) | 3:33 | 2023-06-15 | 2023-11-27 |
 | [OK](https://open.spotify.com/track/6R4KDVj2wQfGWkqmYa9pzh) | [Budgy](https://open.spotify.com/artist/73ShI69rb4GNM1sbHfuLDk), [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [OK](https://open.spotify.com/album/5BVlixDJAb8ud51gE6lSpE) | 2:30 | 2022-12-29 | 2023-03-16 |
 | [OPPS](https://open.spotify.com/track/1UTRr55P3GJIk6A9V4p4Ad) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [OPPS](https://open.spotify.com/album/6zc7KGo3ghbc7Mn5WE8ght) | 2:12 | 2023-01-26 | 2023-05-12 |

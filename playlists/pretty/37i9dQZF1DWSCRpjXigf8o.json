@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88941,
+  "num_followers": 88943,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
+        "url": "https://open.spotify.com/album/6c7E6ubEWrIQ2BVH3dsOc9"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 221339,
+      "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
+      "url": "https://open.spotify.com/track/3Uic3fYiF1ZvjiRyv9ovj2"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "jones",
         "url": "https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs"
       },
@@ -931,18 +947,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
-        "url": "https://open.spotify.com/album/6c7E6ubEWrIQ2BVH3dsOc9"
+        "name": "\u7a7a\u306f\u307e\u308b\u3067",
+        "url": "https://open.spotify.com/album/3IoDRMDTRFh4HqmhRIrGOJ"
       },
       "artists": [
         {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+          "name": "Monkey Majik",
+          "url": "https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG"
         }
       ],
-      "duration_ms": 221339,
-      "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
-      "url": "https://open.spotify.com/track/3Uic3fYiF1ZvjiRyv9ovj2"
+      "duration_ms": 195586,
+      "name": "\u5149\u671d",
+      "url": "https://open.spotify.com/track/09tkV5i4lWmAVSumsJIsEE"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -963,22 +979,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Caterpillar",
-        "url": "https://open.spotify.com/album/4S1zoniwS9PvDJ6n2GJW8i"
-      },
-      "artists": [
-        {
-          "name": "Fiji Blue",
-          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
-        }
-      ],
-      "duration_ms": 169172,
-      "name": "Caterpillar",
-      "url": "https://open.spotify.com/track/4Er5MHdgvsfc2zvqOMQRyI"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "\u30ab\u30e9\u30bf\u30c1\u306e\u5922",
         "url": "https://open.spotify.com/album/2fSTHMm7zKp834JHdcGcY4"
       },
@@ -995,18 +995,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u7a7a\u306f\u307e\u308b\u3067",
-        "url": "https://open.spotify.com/album/3IoDRMDTRFh4HqmhRIrGOJ"
+        "name": "Caterpillar",
+        "url": "https://open.spotify.com/album/4S1zoniwS9PvDJ6n2GJW8i"
       },
       "artists": [
         {
-          "name": "Monkey Majik",
-          "url": "https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG"
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
         }
       ],
-      "duration_ms": 195586,
-      "name": "\u5149\u671d",
-      "url": "https://open.spotify.com/track/09tkV5i4lWmAVSumsJIsEE"
+      "duration_ms": 169172,
+      "name": "Caterpillar",
+      "url": "https://open.spotify.com/track/4Er5MHdgvsfc2zvqOMQRyI"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "lovlaine (The Deluxe Album)",
-        "url": "https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na"
-      },
-      "artists": [
-        {
-          "name": "lovlaine",
-          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
-        }
-      ],
-      "duration_ms": 218513,
-      "name": "all my perfects",
-      "url": "https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Apple",
         "url": "https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 248000,
       "name": "Apple",
       "url": "https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "lovlaine (The Deluxe Album)",
+        "url": "https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na"
+      },
+      "artists": [
+        {
+          "name": "lovlaine",
+          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
+        }
+      ],
+      "duration_ms": 218513,
+      "name": "all my perfects",
+      "url": "https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Place Your Hands",
-        "url": "https://open.spotify.com/album/30sRu1LqGjOL28ocUx6TPh"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Place Your Hands",
-      "url": "https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "MY\u5922\u4e2d",
         "url": "https://open.spotify.com/album/4aDn3y7PU3lAMdGE9C62Ka"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 249000,
       "name": "MY\u5922\u4e2d",
       "url": "https://open.spotify.com/track/02EC8p59zsfwJmyHzXXDGw"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Place Your Hands",
+        "url": "https://open.spotify.com/album/30sRu1LqGjOL28ocUx6TPh"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Place Your Hands",
+      "url": "https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "LIGHTHOUSE",
-        "url": "https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD"
+        "name": "\u30e6\u30e1\u306e\u306f\u3058\u307e\u308a\u3002",
+        "url": "https://open.spotify.com/album/3b3WoVqAc6zcXApOjchHvj"
       },
       "artists": [
         {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Responder (Live Session)",
-      "url": "https://open.spotify.com/track/4VYZuxJh4HwZgvWiPmcvSV"
+      "duration_ms": 245680,
+      "name": "\u30e6\u30e1\u306e\u306f\u3058\u307e\u308a\u3002",
+      "url": "https://open.spotify.com/track/66oYFwtVhj0zSayFxcNaSj"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u30e6\u30e1\u306e\u306f\u3058\u307e\u308a\u3002",
-        "url": "https://open.spotify.com/album/3b3WoVqAc6zcXApOjchHvj"
-      },
-      "artists": [
-        {
-          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
-          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
-        }
-      ],
-      "duration_ms": 245680,
-      "name": "\u30e6\u30e1\u306e\u306f\u3058\u307e\u308a\u3002",
-      "url": "https://open.spotify.com/track/66oYFwtVhj0zSayFxcNaSj"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Here with me",
         "url": "https://open.spotify.com/album/5MFOtHKYiQaxG9Ge3M26Zi"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 243600,
       "name": "Here with me",
       "url": "https://open.spotify.com/track/3mjO7GpUGG8ltpmxm8JsL1"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Responder (Live Session)",
+      "url": "https://open.spotify.com/track/4VYZuxJh4HwZgvWiPmcvSV"
     },
     {
       "added_at": "2026-02-19 15:16:11",

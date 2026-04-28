@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,218 songs - 2 day 19 hr 48 min
+1,219 songs - 2 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Cirrus](https://open.spotify.com/track/5ckFfWq62GHZVuhQiilShT) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA) | [Nimbus](https://open.spotify.com/album/48HBe77kw2NQ0s5ohCCRyx) | 3:24 | 2022-11-14 | 2022-11-16 |
 | [Cityscape](https://open.spotify.com/track/3djes6FzZxMlssxLbMCdVx) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [Cityscape](https://open.spotify.com/album/0Q5hFiuIYsMw6nwNrln6xP) | 2:47 | 2024-11-12 | 2025-02-21 |
 | [Climb](https://open.spotify.com/track/4lmXPPcu9I1XNkCLVKCxdl) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu) | [Climb](https://open.spotify.com/album/07nrhJ5PlKOAi2mKIhYZsO) | 2:37 | 2026-02-05 |  |
+| [close your eyes](https://open.spotify.com/track/0GY3VN7i3hElhqhIqSHKQi) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Jazara](https://open.spotify.com/artist/7didXxc5oXHa2VLDXPxNag) | [close your eyes](https://open.spotify.com/album/1YuOYJ7WHrrX889nLy70Xb) | 3:54 | 2026-04-27 |  |
 | [Closer](https://open.spotify.com/track/0dl1KPentnYfyXSQnK1eUD) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Closer](https://open.spotify.com/album/0lqnYWgBm6wxmvTPwwjduy) | 3:38 | 2021-11-19 | 2022-02-16 |
 | [Coast](https://open.spotify.com/track/5Fcr8cxJhB5lzigrAO6zy3) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [miksklim](https://open.spotify.com/artist/1PQT3gGx4JUciQyvvJUeVz) | [Coast / Together](https://open.spotify.com/album/7k8M4tm1mp1DfdVTcTtItQ) | 3:32 | 2022-08-26 | 2022-11-01 |
 | [CODES](https://open.spotify.com/track/7HNsbDFhZhs2qhEjC2W3om) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Macntaj](https://open.spotify.com/artist/0erl2oe9fDqYo37ueBiG8K) | [CODES](https://open.spotify.com/album/1VNGWcGNCBkUGFyFiC0Kdj) | 2:31 | 2022-11-03 | 2023-01-27 |

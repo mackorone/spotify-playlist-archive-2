@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 115153,
+  "num_followers": 115158,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
+        "name": "Lugar Mais Alto",
+        "url": "https://open.spotify.com/album/4MwD9JVQ5rjY79jrO2ak9G"
+      },
+      "artists": [
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 276456,
+      "name": "Era Voc\u00ea",
+      "url": "https://open.spotify.com/track/2pBNf05NfW1nrQqblf8VO0"
+    },
+    {
+      "added_at": "2026-04-22 17:29:06",
+      "album": {
         "name": "Mais (Studio Session)",
         "url": "https://open.spotify.com/album/4jSX0OJw7dzgzvT3GSWleW"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 250416,
       "name": "Mais - Studio Session",
       "url": "https://open.spotify.com/track/0o6nEehnkqsyy1J4pMvoEZ"
-    },
-    {
-      "added_at": "2026-04-22 17:29:06",
-      "album": {
-        "name": "Lugar Mais Alto",
-        "url": "https://open.spotify.com/album/4MwD9JVQ5rjY79jrO2ak9G"
-      },
-      "artists": [
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 276456,
-      "name": "Era Voc\u00ea",
-      "url": "https://open.spotify.com/track/2pBNf05NfW1nrQqblf8VO0"
     },
     {
       "added_at": "2026-04-22 17:29:06",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
-        "name": "Aline Barros - Som Gospel",
-        "url": "https://open.spotify.com/album/3IJpPRPjIDDkNVgdrwvuoe"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 282308,
-      "name": "Meu Eterno Namorado",
-      "url": "https://open.spotify.com/track/6fCkIEUDpl8mBQKkQe5h9O"
-    },
-    {
-      "added_at": "2026-04-22 17:29:06",
-      "album": {
         "name": "Wilian Nascimento Falando de Amor",
         "url": "https://open.spotify.com/album/66cFFmk9f3pqGsvVVYaDXj"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 261085,
       "name": "Beijo no Altar",
       "url": "https://open.spotify.com/track/2WOezAtyBM1RupEiU70bpp"
+    },
+    {
+      "added_at": "2026-04-22 17:29:06",
+      "album": {
+        "name": "Aline Barros - Som Gospel",
+        "url": "https://open.spotify.com/album/3IJpPRPjIDDkNVgdrwvuoe"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 282308,
+      "name": "Meu Eterno Namorado",
+      "url": "https://open.spotify.com/track/6fCkIEUDpl8mBQKkQe5h9O"
     },
     {
       "added_at": "2026-04-22 17:29:06",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
-        "name": "Amo Voc\u00ea Vol. 17",
-        "url": "https://open.spotify.com/album/1TrtJ1uPEolNGRW4tC2QzM"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla e Anderson Freire",
-          "url": "https://open.spotify.com/artist/6atbugoUErn0KuLPnAvvi0"
-        }
-      ],
-      "duration_ms": 220357,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4ri0UC7hws6BdVYyrKMSCg"
-    },
-    {
-      "added_at": "2026-04-22 17:29:06",
-      "album": {
         "name": "Wilian Nascimento Falando de Amor",
         "url": "https://open.spotify.com/album/66cFFmk9f3pqGsvVVYaDXj"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 207818,
       "name": "Don Juan",
       "url": "https://open.spotify.com/track/1y3SxHr9aDEcy69mabuDBE"
+    },
+    {
+      "added_at": "2026-04-22 17:29:06",
+      "album": {
+        "name": "Amo Voc\u00ea Vol. 17",
+        "url": "https://open.spotify.com/album/1TrtJ1uPEolNGRW4tC2QzM"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla e Anderson Freire",
+          "url": "https://open.spotify.com/artist/6atbugoUErn0KuLPnAvvi0"
+        }
+      ],
+      "duration_ms": 220357,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4ri0UC7hws6BdVYyrKMSCg"
     },
     {
       "added_at": "2026-04-22 17:29:06",
@@ -383,26 +383,6 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
-        "name": "O Jeito Que Voc\u00ea Me Olha",
-        "url": "https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF"
-      },
-      "artists": [
-        {
-          "name": "Daniel L\u00fcdtke",
-          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
-        },
-        {
-          "name": "Marla L\u00fcdtke",
-          "url": "https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd"
-        }
-      ],
-      "duration_ms": 198067,
-      "name": "O Jeito Que Voc\u00ea Me Olha",
-      "url": "https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj"
-    },
-    {
-      "added_at": "2026-04-22 17:29:06",
-      "album": {
         "name": "Cantando o Amor Vol. 2",
         "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 232710,
       "name": "Isso \u00e9 Amor",
       "url": "https://open.spotify.com/track/4zmStTJkuik7l8IJA0BeaM"
+    },
+    {
+      "added_at": "2026-04-22 17:29:06",
+      "album": {
+        "name": "O Jeito Que Voc\u00ea Me Olha",
+        "url": "https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF"
+      },
+      "artists": [
+        {
+          "name": "Daniel L\u00fcdtke",
+          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
+        },
+        {
+          "name": "Marla L\u00fcdtke",
+          "url": "https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd"
+        }
+      ],
+      "duration_ms": 198067,
+      "name": "O Jeito Que Voc\u00ea Me Olha",
+      "url": "https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj"
     },
     {
       "added_at": "2026-04-22 17:29:06",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
-        "name": "S\u00f3 Voc\u00ea",
-        "url": "https://open.spotify.com/album/1DidIBN9aVQUIU46UqxohJ"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aguiar",
-          "url": "https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/2feCY4xsBplBAsiTmqVt4o"
-    },
-    {
-      "added_at": "2026-04-22 17:29:06",
-      "album": {
         "name": "Encontrar Voc\u00ea",
         "url": "https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 235373,
       "name": "Encontrar Voc\u00ea",
       "url": "https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4"
+    },
+    {
+      "added_at": "2026-04-22 17:29:06",
+      "album": {
+        "name": "S\u00f3 Voc\u00ea",
+        "url": "https://open.spotify.com/album/1DidIBN9aVQUIU46UqxohJ"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aguiar",
+          "url": "https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/2feCY4xsBplBAsiTmqVt4o"
     },
     {
       "added_at": "2026-04-22 17:29:06",
@@ -679,6 +679,26 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
+        "name": "Onde Est\u00e1 Voc\u00ea",
+        "url": "https://open.spotify.com/album/7BXoXN8TRG0pZf9Q5FmtrW"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Magnani",
+          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
+        },
+        {
+          "name": "Sarah Renata",
+          "url": "https://open.spotify.com/artist/03KBnCXOAIMKBJhpadTkNY"
+        }
+      ],
+      "duration_ms": 246444,
+      "name": "Onde Est\u00e1 Voc\u00ea",
+      "url": "https://open.spotify.com/track/0bk0A00Y3pw4u0oQPpkrQL"
+    },
+    {
+      "added_at": "2026-04-22 17:29:06",
+      "album": {
         "name": "M\u00fasica Favorita (\u00c1gua)",
         "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 253636,
       "name": "M\u00fasica Favorita \u267e",
       "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
-    },
-    {
-      "added_at": "2026-04-22 17:29:06",
-      "album": {
-        "name": "Onde Est\u00e1 Voc\u00ea",
-        "url": "https://open.spotify.com/album/7BXoXN8TRG0pZf9Q5FmtrW"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Magnani",
-          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
-        },
-        {
-          "name": "Sarah Renata",
-          "url": "https://open.spotify.com/artist/03KBnCXOAIMKBJhpadTkNY"
-        }
-      ],
-      "duration_ms": 246444,
-      "name": "Onde Est\u00e1 Voc\u00ea",
-      "url": "https://open.spotify.com/track/0bk0A00Y3pw4u0oQPpkrQL"
     },
     {
       "added_at": "2026-04-22 17:29:06",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
+        "name": "Amar e Perdoar",
+        "url": "https://open.spotify.com/album/3Z1fceQgyz4oMxnOrPRooJ"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 230310,
+      "name": "Por N\u00f3s",
+      "url": "https://open.spotify.com/track/2BSlxEYxjBdTefmzs5COfA"
+    },
+    {
+      "added_at": "2026-04-22 17:29:06",
+      "album": {
         "name": "25 de fevereiro",
         "url": "https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
-        "name": "Amar e Perdoar",
-        "url": "https://open.spotify.com/album/3Z1fceQgyz4oMxnOrPRooJ"
+        "name": "Deus Voc\u00ea e Eu",
+        "url": "https://open.spotify.com/album/4inEuKybNiqEcL2loSpBZU"
       },
       "artists": [
         {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+          "name": "Hellen Caroline",
+          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
         }
       ],
-      "duration_ms": 230310,
-      "name": "Por N\u00f3s",
-      "url": "https://open.spotify.com/track/2BSlxEYxjBdTefmzs5COfA"
+      "duration_ms": 219440,
+      "name": "Deus Voc\u00ea e Eu",
+      "url": "https://open.spotify.com/track/2IhDivniBs1oALzgMIoP2G"
     },
     {
       "added_at": "2026-04-22 17:29:06",
@@ -839,18 +855,18 @@
     {
       "added_at": "2026-04-22 17:29:06",
       "album": {
-        "name": "Deus Voc\u00ea e Eu",
-        "url": "https://open.spotify.com/album/4inEuKybNiqEcL2loSpBZU"
+        "name": "Te Amaria Outra Vez / Amar Voc\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0UxVlLy7ryHUWDSBoMaRPe"
       },
       "artists": [
         {
-          "name": "Hellen Caroline",
-          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 219440,
-      "name": "Deus Voc\u00ea e Eu",
-      "url": "https://open.spotify.com/track/2IhDivniBs1oALzgMIoP2G"
+      "duration_ms": 249763,
+      "name": "Te Amaria Outra Vez / Amar Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/5G4HETtoTa5bkDcZRruHFr"
     },
     {
       "added_at": "2026-04-22 17:29:06",
@@ -867,22 +883,6 @@
       "duration_ms": 172288,
       "name": "Prometo",
       "url": "https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx"
-    },
-    {
-      "added_at": "2026-04-22 17:29:06",
-      "album": {
-        "name": "Te Amaria Outra Vez / Amar Voc\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0UxVlLy7ryHUWDSBoMaRPe"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 249763,
-      "name": "Te Amaria Outra Vez / Amar Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/5G4HETtoTa5bkDcZRruHFr"
     },
     {
       "added_at": "2026-04-22 17:29:06",

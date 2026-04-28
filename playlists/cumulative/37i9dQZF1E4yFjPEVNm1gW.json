@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-29",
-  "description": "With Cuo Zay, Yeat, Autumn! and more",
+  "description": "With Yeat, Cuo Zay, Autumn! and more",
   "name": "Taewitdak Radio",
   "tracks": [
     {
@@ -398,7 +398,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 122483,
       "name": "BIG 3",
       "url": "https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs"
@@ -594,7 +594,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 97012,
       "name": "can i get a kiss?",
       "url": "https://open.spotify.com/track/1zwiH0mNMsGXUAPAHc9bij"
@@ -1758,7 +1758,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 126315,
       "name": "its coo",
       "url": "https://open.spotify.com/track/4YPr8NRp3P9mRlESfiVsLv"
@@ -2226,7 +2226,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 109652,
       "name": "MORDERMAND",
       "url": "https://open.spotify.com/track/6necwqqASlZrchrUAUI02Y"
@@ -2656,7 +2656,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 122298,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U"
@@ -2772,7 +2772,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 161075,
       "name": "Price I Pay",
       "url": "https://open.spotify.com/track/6PKAfJPbZMOk2Zz9D8g0w4"
@@ -2790,7 +2790,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 194594,
       "name": "Pub Sub",
       "url": "https://open.spotify.com/track/0vtfVaApMNkfJr5yhEmnX4"
@@ -3758,6 +3758,24 @@
       "duration_ms": 217685,
       "name": "vibe",
       "url": "https://open.spotify.com/track/5xOizHnjd92FNm6ruDUYSD"
+    },
+    {
+      "album": {
+        "name": "NBR (No Bap Rap)",
+        "url": "https://open.spotify.com/album/1f3yjQUAU2qG6HWT67Ct79"
+      },
+      "artists": [
+        {
+          "name": "Jc32Baby",
+          "url": "https://open.spotify.com/artist/0UIxpEFKo3useaZ9dUeStw"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145920,
+      "name": "Vikings",
+      "url": "https://open.spotify.com/track/3el1BydkPjW2hTJdhive6G"
     },
     {
       "album": {

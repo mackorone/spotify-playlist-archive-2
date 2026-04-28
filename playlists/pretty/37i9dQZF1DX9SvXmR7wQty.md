@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du franco! Roxane Bruneau, Jay Scott, SHAH Frank, Thierry Larose, et plus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,964 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,970 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 38 | [Vivre avec celui qu'on aime](https://open.spotify.com/track/4bnO2CdNQVwizYiT3sUzy2) | [Marie\-Chantal Toupin](https://open.spotify.com/artist/5uMfnmb3ObrjAIi7pNySQe) | [Vivre avec celui qu'on aime](https://open.spotify.com/album/2LaffsCYT3ZHW8HbX3E5WV) | 3:48 |
 | 39 | [ET Si DEMAiN \(feat\. TDH\)](https://open.spotify.com/track/3iQt9CJrNgD71YFsq0GdhC) | [ENOMIS](https://open.spotify.com/artist/7EBKk7SrOTPGHaLDh9nsiB), [TDH](https://open.spotify.com/artist/1pFYAdXD5dgTdJBa68uHfq) | [BULLE](https://open.spotify.com/album/7Jg9w3OAg6D3IAl3FYqWWq) | 3:31 |
 | 40 | [le port des gens mal\-aimés](https://open.spotify.com/track/3bTlKuRgB2WqmpVTTdws55) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [spleen\. social club](https://open.spotify.com/album/6zfiNo6nUuPrVoawomWkEK) | 2:38 |
-| 41 | [ON NE REVIENDRAIT PLUS JAMAIS](https://open.spotify.com/track/4bdM17vSfqpAvtz7YOrRYk) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC) | [ON NE REVIENDRAIT PLUS JAMAIS](https://open.spotify.com/album/5drozBXtI9E3vm7woO5yxV) | 2:49 |
+| 41 | [On ne reviendrait plus jamais](https://open.spotify.com/track/4bdM17vSfqpAvtz7YOrRYk) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC) | [On ne reviendrait plus jamais](https://open.spotify.com/album/5drozBXtI9E3vm7woO5yxV) | 2:49 |
 | 42 | [Rien à carrer](https://open.spotify.com/track/2Z6pOBVtqEktMXd4jyLvHi) | [Lenaïg](https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb) | [Rien à carrer](https://open.spotify.com/album/23UB058w8VPfTSZRvx1Z6A) | 2:48 |
 | 43 | [AU BON ENDROIT](https://open.spotify.com/track/5uK21s4ujRqMs8b7nlSzow) | [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [AU BON ENDROIT](https://open.spotify.com/album/5knmlkyFiIW7nKn68WLfeS) | 2:34 |
 | 44 | [Sa musique préférée](https://open.spotify.com/track/3MOjw2NvdXvNkgCkcLdLvf) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [Sa musique préférée](https://open.spotify.com/album/3zs8IOYRdbsP4O1wWS2Ivf) | 2:31 |

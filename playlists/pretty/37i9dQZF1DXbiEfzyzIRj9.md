@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Human Movement
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,753 likes - 124 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,769 likes - 124 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

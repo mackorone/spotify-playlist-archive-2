@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1506359,
+  "num_followers": 1506305,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Bar\u00e3o Pra Sempre",
-        "url": "https://open.spotify.com/album/4iBQN73xgA56iyWf7DfZmK"
-      },
-      "artists": [
-        {
-          "name": "Bar\u00e3o Vermelho",
-          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
-        }
-      ],
-      "duration_ms": 202474,
-      "name": "Por Voc\u00ea - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0228dbbfbyvjsjKus9KAS5"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "J\u00fapiter (Ao Vivo)",
         "url": "https://open.spotify.com/album/2wfBHHWPIKP2P2gZAgGYmf"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 136208,
       "name": "J\u00fapiter - Ao Vivo",
       "url": "https://open.spotify.com/track/5NMbXBzFfavfYSMY7LBRsP"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Bar\u00e3o Pra Sempre",
+        "url": "https://open.spotify.com/album/4iBQN73xgA56iyWf7DfZmK"
+      },
+      "artists": [
+        {
+          "name": "Bar\u00e3o Vermelho",
+          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
+        }
+      ],
+      "duration_ms": 202474,
+      "name": "Por Voc\u00ea - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0228dbbfbyvjsjKus9KAS5"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "S\u00f3 Penso Nela (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2MOI0fpiNZhgJUJk4QvUT0"
+      },
+      "artists": [
+        {
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+        }
+      ],
+      "duration_ms": 148669,
+      "name": "S\u00f3 Penso Nela (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/3kMHVWe0BSWGVByMeYKAHu"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Fica",
         "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 184267,
       "name": "Fica",
       "url": "https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "S\u00f3 Penso Nela (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2MOI0fpiNZhgJUJk4QvUT0"
-      },
-      "artists": [
-        {
-          "name": "26:15",
-          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
-        }
-      ],
-      "duration_ms": 148669,
-      "name": "S\u00f3 Penso Nela (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/3kMHVWe0BSWGVByMeYKAHu"
     },
     {
       "added_at": "2024-08-02 18:37:00",

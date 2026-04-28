@@ -4,7 +4,7 @@
 
 > Celebrate Super Mario Bros\. 40th Anniversary ©Nintendo
 
-129 songs - 3 hr 54 min
+130 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [星の赤ちゃん](https://open.spotify.com/track/0OMeyMT960BSsIIZVHEuuR) | [スーパーマリオギャラクシー](https://open.spotify.com/artist/5Ti5KEwE1Xi17uMbxvOYJz) | [スーパーマリオギャラクシー](https://open.spotify.com/album/669b6fv8J3mUzBvVMalDEG) | 0:48 | 2026-04-24 |  |
 | [星船はゆく](https://open.spotify.com/track/0BgV1TTn7PBs90uhqHzsAW) | [スーパーマリオギャラクシー](https://open.spotify.com/artist/5Ti5KEwE1Xi17uMbxvOYJz) | [スーパーマリオギャラクシー 2](https://open.spotify.com/album/4EpfiRJt2aCGOONvSseDSX) | 2:15 | 2026-04-24 |  |
 | [星船マリオ、発進！](https://open.spotify.com/track/0DK7YD52x9g7ASRFEfIHqL) | [スーパーマリオギャラクシー](https://open.spotify.com/artist/5Ti5KEwE1Xi17uMbxvOYJz) | [スーパーマリオギャラクシー 2](https://open.spotify.com/album/4EpfiRJt2aCGOONvSseDSX) | 1:27 | 2026-04-24 |  |
+| [星船マリオ１](https://open.spotify.com/track/4DUzIPlNuB3ZV5vZ7XP9Tg) | [スーパーマリオギャラクシー](https://open.spotify.com/artist/5Ti5KEwE1Xi17uMbxvOYJz) | [スーパーマリオギャラクシー 2](https://open.spotify.com/album/4EpfiRJt2aCGOONvSseDSX) | 2:05 | 2026-04-27 |  |
 | [星船マリオ２](https://open.spotify.com/track/5sb6Cl63Namhg4jfxsfqBQ) | [スーパーマリオギャラクシー](https://open.spotify.com/artist/5Ti5KEwE1Xi17uMbxvOYJz) | [スーパーマリオギャラクシー 2](https://open.spotify.com/album/4EpfiRJt2aCGOONvSseDSX) | 2:06 | 2026-04-24 |  |
 | [星船マリオ３](https://open.spotify.com/track/7oqpBD4njxNgzSK1bf5ZF5) | [スーパーマリオギャラクシー](https://open.spotify.com/artist/5Ti5KEwE1Xi17uMbxvOYJz) | [スーパーマリオギャラクシー 2](https://open.spotify.com/album/4EpfiRJt2aCGOONvSseDSX) | 2:06 | 2026-04-24 |  |
 | [星船登場](https://open.spotify.com/track/624qQX94fa4JOsdN3m8BRO) | [スーパーマリオギャラクシー](https://open.spotify.com/artist/5Ti5KEwE1Xi17uMbxvOYJz) | [スーパーマリオギャラクシー 2](https://open.spotify.com/album/4EpfiRJt2aCGOONvSseDSX) | 0:40 | 2026-04-24 |  |

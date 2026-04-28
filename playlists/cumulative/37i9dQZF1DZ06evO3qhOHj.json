@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 261385,
       "name": "She's All Coming Back To Me Now",
       "url": "https://open.spotify.com/track/2feNXHDGrehg9fiNpnTTLN"
@@ -1244,6 +1244,24 @@
       "duration_ms": 226706,
       "name": "The Chain",
       "url": "https://open.spotify.com/track/4z0gMSL3Z1pIdt8Psi2P6D"
+    },
+    {
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/3HA5is8uSDPpJcfZnBGkU9"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236481,
+      "name": "The Frame",
+      "url": "https://open.spotify.com/track/14Cn2Hu9CJvI4FomISSlkw"
     },
     {
       "album": {

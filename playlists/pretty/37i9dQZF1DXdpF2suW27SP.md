@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > LZ & Julinho Ksd entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,112 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,111 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 24 | [PREÇO CERTO](https://open.spotify.com/track/42E4oNpbl32FOqwcjkKVDe) | [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE), [Kroa](https://open.spotify.com/artist/2cBkZING16JqKkEN7KEDBC), [YeezYuri](https://open.spotify.com/artist/7cM8f3lRgDVn4SUo0DLLeo) | [PREÇO CERTO](https://open.spotify.com/album/1C9yjmSpA8qwtdgY3sSQAr) | 2:56 |
 | 25 | [Amazónia](https://open.spotify.com/track/7yeAc1eiLyJaZ1QvX2ApyJ) | [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv) | [Opressionismo](https://open.spotify.com/album/0fERphbYeqR6hYAeTzyfuo) | 2:31 |
 | 26 | [Quero Mais](https://open.spotify.com/track/7CB9LLXcyxbEHSo5S6xBGd) | [Phedilson](https://open.spotify.com/artist/0Hl3YB8bwQ8anDJkvXo6he), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [T\-Djay](https://open.spotify.com/artist/6eb4lpF8hX2lH4UUA6LlIc) | [Quero Mais](https://open.spotify.com/album/4SVXMilFlBH0lGUA6JZ0n8) | 3:48 |
-| 27 | [SUPER](https://open.spotify.com/track/7G4Icmrbwe5jQTVMOQ5NbV) | [LZ](https://open.spotify.com/artist/7ylnIZOT3I0EdTMcWVTLud), [Horrid Mx](https://open.spotify.com/artist/4cCrZCtMwCzFFvEXfHf1AK), [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb) | [SUPER](https://open.spotify.com/album/4eTP8dIvGNdgYAf0D1ixNJ) | 3:42 |
+| 27 | [SUPER](https://open.spotify.com/track/7G4Icmrbwe5jQTVMOQ5NbV) | [LZ](https://open.spotify.com/artist/7ylnIZOT3I0EdTMcWVTLud), [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb), [Horrid Mx](https://open.spotify.com/artist/4cCrZCtMwCzFFvEXfHf1AK) | [SUPER](https://open.spotify.com/album/4eTP8dIvGNdgYAf0D1ixNJ) | 3:42 |
 | 28 | [Essência](https://open.spotify.com/track/1to7ZLCTvWvIHUlPaPTviL) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC), [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I) | [Essência](https://open.spotify.com/album/2RFxYjqS6fsv0rbhzl1h39) | 2:18 |
 | 29 | [EVERESTE](https://open.spotify.com/track/5y9CWZurQSSHA3EG1bAG4g) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [EVERESTE](https://open.spotify.com/album/6AjfCNBmdrhdLAHosk6wV5) | 2:48 |
 | 30 | [PREDESTINADO](https://open.spotify.com/track/3LeHyNkhgNHllY4T56dVfx) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [PREDESTINADO](https://open.spotify.com/album/7ywq5NfAhbz7tWEgMv6OpL) | 2:38 |

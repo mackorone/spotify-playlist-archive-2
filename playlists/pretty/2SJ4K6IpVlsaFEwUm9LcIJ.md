@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,303 likes - 53 songs - 3 hr 31 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,306 likes - 55 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,5 +61,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 51 | [Abraham, Martin And John](https://open.spotify.com/track/41tl6xfIKib7fexaHudvV0) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Dion](https://open.spotify.com/album/323GIk4Y4kaO9XcEPNlBq6) | 3:20 |
 | 52 | [Jagger the Dagger](https://open.spotify.com/track/2reLffYiqlc8aF9c6tRFZ1) | [Eugene McDaniels](https://open.spotify.com/artist/4k6kxW9Xv4kVbTblyLfygN) | [Headless Heroes of the Apocalypse](https://open.spotify.com/album/3d6r8XuRKejXiqXisnMNoi) | 6:03 |
 | 53 | [To Dream Tomorrow](https://open.spotify.com/track/6gI5mzlCl8xTuwrs7X84nC) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Lee Herschberg](https://open.spotify.com/artist/7GDDpChEAyRCUfb5On65Vr) | [Sanctuary / Suite for Late Summer](https://open.spotify.com/album/3H9maZhJjSMi2C2YM65gZ0) | 2:41 |
+| 54 | [Sam](https://open.spotify.com/track/1noqZSKYEKBgtu9iRFdwVX) | [The Castaways](https://open.spotify.com/artist/3PbCnPQUMUHJXAI9g2Ld7V) | [Liar Liar](https://open.spotify.com/album/1mW4KWw5bJ5cNE8e2po9is) | 2:33 |
+| 55 | [Weep No More](https://open.spotify.com/track/5gskcAhnBeAsGXf7iPNYFa) | [Dale Hawkins](https://open.spotify.com/artist/7kcPzHlsyJm5tDv7JMcr6T) | [Daredevil](https://open.spotify.com/album/47GBkmfpMMyBvbvkGXaEyR) | 2:48 |
 
-Snapshot ID: `AAAONc+uMYtgXlttYKSz6saZYWl4R8vZ`
+Snapshot ID: `AAAON9pyK5UDNIoMmsk0MKHS0/tOkQDg`

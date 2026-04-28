@@ -4,7 +4,7 @@
 
 > This is Engel Montaz\. The essential tracks, all in one playlist.
 
-126 songs - 6 hr 37 min
+127 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Olvidando el pasado](https://open.spotify.com/track/4W4GNgS2O0YbrkXsTdkBVa) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg) | [Olvidando el pasado](https://open.spotify.com/album/44f7j8TXQoWm9msEgyAFRI) | 3:18 | 2025-04-08 |  |
 | [Otra Vez](https://open.spotify.com/track/0Awux5kOOKf5HG9zgIaWmm) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec) | 2:53 | 2025-07-21 | 2025-10-14 |
 | [Otra Vez](https://open.spotify.com/track/6NxJLNvSZgFf1ffadqWtqm) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 2:53 | 2024-07-12 | 2024-09-30 |
-| [Otra Vez](https://open.spotify.com/track/3rjZVcZafP4A7RJbueCDHO) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire \(Deluxe\)](https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy) | 2:53 | 2026-03-31 |  |
+| [Otra Vez](https://open.spotify.com/track/3rjZVcZafP4A7RJbueCDHO) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire \(Deluxe\)](https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy) | 2:53 | 2026-03-31 | 2026-04-28 |
 | [Party Prendio](https://open.spotify.com/track/4ebWwTC1dGpc6ONcb2PrOb) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec) | 1:42 | 2025-05-11 | 2026-04-10 |
 | [Party Prendio](https://open.spotify.com/track/7kysxhCfP7fFebn7iZU8Av) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 1:42 | 2024-07-12 | 2025-04-23 |
 | [Party Prendio \- Discoteca](https://open.spotify.com/track/5NLNoGJ2NLgvjdqPMbv8bY) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Dj Ivan](https://open.spotify.com/artist/3sjqEMHMmT86N4Cj29Zl8e), [Dj Mc Gregor](https://open.spotify.com/artist/6U2oJjDvY0Sr61dgh9kSGD) | [Party Prendio \(Discoteca\)](https://open.spotify.com/album/4YaxWWEHKpViRmltgrFv6z) | 1:34 | 2025-06-10 | 2025-06-24 |
@@ -133,6 +133,7 @@
 | [Una Noche Tranquila \- Version Discoteca](https://open.spotify.com/track/3svW0Wq31tR9dDzDlPMmD0) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Una Noche Tranquila \(Version Discoteca\)](https://open.spotify.com/album/46GOunIlxWaUlFbbhlkHOe) | 3:02 | 2025-05-07 |  |
 | [Vamono Lejos](https://open.spotify.com/track/4xdl8WUxPsgG0gZdIP4yS8) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Sacra Mr Melody](https://open.spotify.com/artist/03A4rAqMAxVwjkRIPZxZ9Y) | [Vamono Lejos](https://open.spotify.com/album/2XJ0HDrDyFqGuzGP4vQbGg) | 3:07 | 2024-06-19 |  |
 | [Vibrador](https://open.spotify.com/track/4h3i4yz7mkw1H9XG9VMkjQ) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:06 | 2024-07-12 | 2025-06-23 |
-| [Vibrador](https://open.spotify.com/track/5BbXK5VJCA09fU2A7ZdCSX) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec) | 3:06 | 2025-06-23 |  |
+| [Vibrador](https://open.spotify.com/track/3ufzAfK6nd0geAJ7nAavce) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire \(Deluxe\)](https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy) | 3:06 | 2026-04-28 |  |
+| [Vibrador](https://open.spotify.com/track/5BbXK5VJCA09fU2A7ZdCSX) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec) | 3:06 | 2025-06-23 | 2026-04-28 |
 
 \*This playlist was first scraped on 2024-06-19. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \ud718\uc778 (Whee In)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: QWER) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -2819,6 +2819,24 @@
     },
     {
       "album": {
+        "name": "4th Mini Album 'CEREMONY'",
+        "url": "https://open.spotify.com/album/22TsuaiFzj7i9cIKFwKdyI"
+      },
+      "artists": [
+        {
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196607,
+      "name": "CEREMONY",
+      "url": "https://open.spotify.com/track/7CoEOvI85tbkhdgJRd8XfC"
+    },
+    {
+      "album": {
         "name": "Lord of Heroes OST Part 1",
         "url": "https://open.spotify.com/album/75ZMTjX52zVKPRXnHbwNve"
       },
@@ -2978,7 +2996,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "CINEMA",
       "url": "https://open.spotify.com/track/1AO9dgVC6GL4ILlh1RpBnC"
@@ -5060,7 +5078,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 300786,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
@@ -5662,7 +5680,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 184000,
       "name": "Flowering",
       "url": "https://open.spotify.com/track/0xy1eGLBSa6SFxyEzg9gtn"
@@ -9248,7 +9266,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 197626,
       "name": "I\u2019ll Be There",
       "url": "https://open.spotify.com/track/7rjEBs5JvSrZK09MihMBFQ"
@@ -13330,7 +13348,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 167912,
       "name": "Paper Chase",
       "url": "https://open.spotify.com/track/4lUs1YqwoJ4hKYlfYWZkA3"
@@ -16841,6 +16859,24 @@
     },
     {
       "album": {
+        "name": "We Are All Trying Here (Original Soundtrack) Part.2",
+        "url": "https://open.spotify.com/album/1hMSVMqy0UfHX83ZGKtRHE"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/4eR6sf32ufPbsieCdI7epb"
+    },
+    {
+      "album": {
         "name": "STARLIGHT",
         "url": "https://open.spotify.com/album/4N390LmaD2YwNebjT1Zmoa"
       },
@@ -17738,7 +17774,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 223026,
       "name": "The 6th Summer",
       "url": "https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2"
@@ -18318,7 +18354,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 312486,
       "name": "Thirty Winds",
       "url": "https://open.spotify.com/track/4cLzacU5UURBgc3VfTm9Us"
@@ -19224,7 +19260,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 234520,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/5P3ai9DW0SVnQoVmYQj6EM"
@@ -19884,7 +19920,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 201533,
       "name": "when the rain stops",
       "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
@@ -21508,7 +21544,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 168026,
       "name": "\uc0ac\ub791\ubcd1\ub3d9 Highs and Lows",
       "url": "https://open.spotify.com/track/2fzdKqLRPuCHd6SUI6ypJY"

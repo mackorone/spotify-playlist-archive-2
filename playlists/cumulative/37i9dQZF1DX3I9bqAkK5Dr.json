@@ -1497,6 +1497,28 @@
     },
     {
       "album": {
+        "name": "Deela Paddaane",
+        "url": "https://open.spotify.com/album/09aZTapQxNeDwFeElu72ZV"
+      },
+      "artists": [
+        {
+          "name": "Akshi",
+          "url": "https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J"
+        },
+        {
+          "name": "Trigger C",
+          "url": "https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154830,
+      "name": "Deela Paddaane",
+      "url": "https://open.spotify.com/track/5p9JV175zSaixDW2lMsnD4"
+    },
+    {
+      "album": {
         "name": "DEVARA(The Thirst Trap)",
         "url": "https://open.spotify.com/album/5tC7wcamLKOIFJ6gafzWKN"
       },

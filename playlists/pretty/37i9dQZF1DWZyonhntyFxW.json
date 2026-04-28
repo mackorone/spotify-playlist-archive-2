@@ -1,13 +1,29 @@
 {
-  "description": " \u0623\u0642\u0648\u0649 \u062a\u0631\u0627\u0643\u0627\u062a \u0627\u0644\u0647\u064a\u0628 \u0647\u0648\u0628 \u0641\u064a \u0645\u0635\u0631. \u0627\u0644\u063a\u0644\u0627\u0641: \u0645\u0631\u0648\u0627\u0646 \u0628\u0627\u0628\u0644\u0648",
-  "num_followers": 421851,
+  "description": " \u0623\u0642\u0648\u0649 \u062a\u0631\u0627\u0643\u0627\u062a \u0627\u0644\u0647\u064a\u0628 \u0647\u0648\u0628 \u0641\u064a \u0645\u0635\u0631. \u0627\u0644\u063a\u0644\u0627\u0641: \u0648\u064a\u062c\u0632",
+  "num_followers": 421885,
   "original_name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO9M/Foz8SvNSj+SMWoyl4plcVwB",
+  "snapshot_id": "AAAAAM9RE4tjHlpgN7r1jfWso1ucsflA",
   "tracks": [
+    {
+      "added_at": "2026-04-22 11:38:31",
+      "album": {
+        "name": "Aqareb",
+        "url": "https://open.spotify.com/album/0GaffqvjUTs1g9vDLAKFeV"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        }
+      ],
+      "duration_ms": 154124,
+      "name": "El Ayam",
+      "url": "https://open.spotify.com/track/0trJ6hrLHHHaXZYMe1JLnb"
+    },
     {
       "added_at": "2026-04-22 11:38:31",
       "album": {
@@ -23,26 +39,6 @@
       "duration_ms": 93140,
       "name": "FLEXIN",
       "url": "https://open.spotify.com/track/4hilPZuJldFY5ACcNRAzQv"
-    },
-    {
-      "added_at": "2026-04-22 11:38:31",
-      "album": {
-        "name": "Aqareb (Side B)",
-        "url": "https://open.spotify.com/album/0N7f8HwliUbikVCIfogDgv"
-      },
-      "artists": [
-        {
-          "name": "Wegz",
-          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
-        },
-        {
-          "name": "\u062f\u062d\u0648\u0645 \u0627\u0644\u0637\u0644\u0627\u0633\u064a",
-          "url": "https://open.spotify.com/artist/1oqdsH0De57FaORaUIF9gC"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "B.B. King (feat. Dhom Altlasy)",
-      "url": "https://open.spotify.com/track/3foWJiDgHfG2OJfoiB6W9i"
     },
     {
       "added_at": "2026-04-22 11:38:31",
@@ -75,6 +71,26 @@
       "duration_ms": 194181,
       "name": "Msh Batghayar",
       "url": "https://open.spotify.com/track/4RR4R4a7kL1XNZgjBEP6Sg"
+    },
+    {
+      "added_at": "2026-04-27 14:00:04",
+      "album": {
+        "name": "OGRA",
+        "url": "https://open.spotify.com/album/6xMAfYQQXEuQNFEosi9Y6x"
+      },
+      "artists": [
+        {
+          "name": "Xander Ghost",
+          "url": "https://open.spotify.com/artist/0YnJWGYVKBAi4eKFyoMpVC"
+        },
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "duration_ms": 213158,
+      "name": "OGRA",
+      "url": "https://open.spotify.com/track/5wQbMKn21YLtviGNWFmhpV"
     },
     {
       "added_at": "2026-04-22 11:38:31",
@@ -115,18 +131,22 @@
     {
       "added_at": "2026-04-22 11:38:31",
       "album": {
-        "name": "\u0622\u062e\u0631 \u0642\u0637\u0639\u0629 \u0641\u0646\u064a\u0629",
-        "url": "https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS"
+        "name": "Aqareb (Side B)",
+        "url": "https://open.spotify.com/album/0N7f8HwliUbikVCIfogDgv"
       },
       "artists": [
         {
-          "name": "Marwan Pablo",
-          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        },
+        {
+          "name": "\u062f\u062d\u0648\u0645 \u0627\u0644\u0637\u0644\u0627\u0633\u064a",
+          "url": "https://open.spotify.com/artist/1oqdsH0De57FaORaUIF9gC"
         }
       ],
-      "duration_ms": 158586,
-      "name": "El Mabda2",
-      "url": "https://open.spotify.com/track/6m8vcn1JPflk8xBoFsaPDP"
+      "duration_ms": 192000,
+      "name": "B.B. King (feat. Dhom Altlasy)",
+      "url": "https://open.spotify.com/track/3foWJiDgHfG2OJfoiB6W9i"
     },
     {
       "added_at": "2026-04-22 11:38:31",
@@ -179,6 +199,22 @@
     {
       "added_at": "2026-04-22 11:38:31",
       "album": {
+        "name": "\u0622\u062e\u0631 \u0642\u0637\u0639\u0629 \u0641\u0646\u064a\u0629",
+        "url": "https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS"
+      },
+      "artists": [
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "duration_ms": 158586,
+      "name": "El Mabda2",
+      "url": "https://open.spotify.com/track/6m8vcn1JPflk8xBoFsaPDP"
+    },
+    {
+      "added_at": "2026-04-22 11:38:31",
+      "album": {
         "name": "\u0627\u0644\u0631\u062c\u0644 \u0627\u0644\u0630\u064a \u0641\u0642\u062f \u0642\u0644\u0628\u0647",
         "url": "https://open.spotify.com/album/05d95d67XSA7hIaijdy6HZ"
       },
@@ -195,22 +231,6 @@
       "duration_ms": 159533,
       "name": "KALEMENY BELEL",
       "url": "https://open.spotify.com/track/7IqxOQ0Wjb4JcsIoY5I1hF"
-    },
-    {
-      "added_at": "2026-04-22 11:38:31",
-      "album": {
-        "name": "Aqareb",
-        "url": "https://open.spotify.com/album/0GaffqvjUTs1g9vDLAKFeV"
-      },
-      "artists": [
-        {
-          "name": "Wegz",
-          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
-        }
-      ],
-      "duration_ms": 154124,
-      "name": "El Ayam",
-      "url": "https://open.spotify.com/track/0trJ6hrLHHHaXZYMe1JLnb"
     },
     {
       "added_at": "2026-04-22 11:38:31",
@@ -679,22 +699,6 @@
       "duration_ms": 118695,
       "name": "Wala Yehemak",
       "url": "https://open.spotify.com/track/7FeflOB46MGCh7Wzj1JuOW"
-    },
-    {
-      "added_at": "2026-04-22 11:38:31",
-      "album": {
-        "name": "MAGHOOL",
-        "url": "https://open.spotify.com/album/5yX9hssUUeRlHmaQ8EGvaN"
-      },
-      "artists": [
-        {
-          "name": "TUL8TE",
-          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
-        }
-      ],
-      "duration_ms": 233888,
-      "name": "MAGHOOL",
-      "url": "https://open.spotify.com/track/1gFRKxEsz8WalxCfNJkPic"
     }
   ],
   "unique_name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",

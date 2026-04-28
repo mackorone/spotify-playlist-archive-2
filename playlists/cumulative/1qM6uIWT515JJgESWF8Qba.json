@@ -1377,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "Fire of Your Soul",
+        "url": "https://open.spotify.com/album/2fN64WOVPjOdRNWXKIwMmI"
+      },
+      "artists": [
+        {
+          "name": "O KANENAS",
+          "url": "https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141066,
+      "name": "Fire of Your Soul",
+      "url": "https://open.spotify.com/track/1wrsHTXXtBOHDUl8358ed7"
+    },
+    {
+      "album": {
         "name": "INFINITY WARS",
         "url": "https://open.spotify.com/album/1GATZuf4mUVmik7eFpPK5y"
       },
@@ -2512,6 +2530,24 @@
       "duration_ms": 160500,
       "name": "Night Crawls",
       "url": "https://open.spotify.com/track/1nhRmnr2vlqzE6B1rqChJx"
+    },
+    {
+      "album": {
+        "name": "No Angel Is Watching",
+        "url": "https://open.spotify.com/album/68XNOikZKxIdeg4OncW44B"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Jonsson",
+          "url": "https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175146,
+      "name": "No Angel Is Watching",
+      "url": "https://open.spotify.com/track/3Cjct6UfADZsVdXdRHmOae"
     },
     {
       "album": {

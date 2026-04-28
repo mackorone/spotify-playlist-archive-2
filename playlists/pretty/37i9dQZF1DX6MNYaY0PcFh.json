@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: Eliza Rose",
-  "num_followers": 104838,
+  "num_followers": 104854,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -611,26 +611,6 @@
     {
       "added_at": "2026-04-23 23:01:16",
       "album": {
-        "name": "Super High",
-        "url": "https://open.spotify.com/album/0G55G4W6Nyy2smxthRaWrv"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        },
-        {
-          "name": "EV",
-          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
-        }
-      ],
-      "duration_ms": 194096,
-      "name": "Super High",
-      "url": "https://open.spotify.com/track/3UiyKjrGdNhnP1jbSf4JZH"
-    },
-    {
-      "added_at": "2026-04-23 23:01:16",
-      "album": {
         "name": "EUPHORIA",
         "url": "https://open.spotify.com/album/6VR8RfG0xsWxZHGFpb0PVL"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 149666,
       "name": "EUPHORIA",
       "url": "https://open.spotify.com/track/2Amw5K5ZE64ak7Mkdx97BN"
+    },
+    {
+      "added_at": "2026-04-23 23:01:16",
+      "album": {
+        "name": "Super High",
+        "url": "https://open.spotify.com/album/0G55G4W6Nyy2smxthRaWrv"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "EV",
+          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+        }
+      ],
+      "duration_ms": 194096,
+      "name": "Super High",
+      "url": "https://open.spotify.com/track/3UiyKjrGdNhnP1jbSf4JZH"
     },
     {
       "added_at": "2026-04-23 23:01:16",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-04-23 23:01:16",
       "album": {
+        "name": "What's A Girl To Do (feat. DRIIA)",
+        "url": "https://open.spotify.com/album/3XRAWTnyUDiIA3LSfgxBfi"
+      },
+      "artists": [
+        {
+          "name": "IsGwan",
+          "url": "https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz"
+        }
+      ],
+      "duration_ms": 221642,
+      "name": "What's A Girl To Do",
+      "url": "https://open.spotify.com/track/189M4F08qXZh02rjz8Qsdy"
+    },
+    {
+      "added_at": "2026-04-23 23:01:16",
+      "album": {
         "name": "XTZY",
         "url": "https://open.spotify.com/album/6tRhAkDXXNQgHUpy00cGZo"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 167492,
       "name": "XTZY",
       "url": "https://open.spotify.com/track/7vpT5MttwN5SRk0eTqECQr"
-    },
-    {
-      "added_at": "2026-04-23 23:01:16",
-      "album": {
-        "name": "What's A Girl To Do (feat. DRIIA)",
-        "url": "https://open.spotify.com/album/3XRAWTnyUDiIA3LSfgxBfi"
-      },
-      "artists": [
-        {
-          "name": "IsGwan",
-          "url": "https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz"
-        }
-      ],
-      "duration_ms": 221642,
-      "name": "What's A Girl To Do",
-      "url": "https://open.spotify.com/track/189M4F08qXZh02rjz8Qsdy"
     },
     {
       "added_at": "2026-04-23 23:01:16",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-04-23 23:01:16",
       "album": {
+        "name": "Talking Nonsense",
+        "url": "https://open.spotify.com/album/4kzIIARfEc7NdB7U0evxBy"
+      },
+      "artists": [
+        {
+          "name": "Soul Mass Transit System",
+          "url": "https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC"
+        }
+      ],
+      "duration_ms": 339663,
+      "name": "Talking Nonsense",
+      "url": "https://open.spotify.com/track/0UzqPZC6D8DAuuX11XPRwV"
+    },
+    {
+      "added_at": "2026-04-23 23:01:16",
+      "album": {
         "name": "Picking Up The Pace",
         "url": "https://open.spotify.com/album/3V7NkyfVDcZQQ2rFMbh547"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 181357,
       "name": "Dot Dot (feat. Interplanetary Criminal & Flowdan)",
       "url": "https://open.spotify.com/track/7vePS1uTLA4iENtOldQVLt"
-    },
-    {
-      "added_at": "2026-04-23 23:01:16",
-      "album": {
-        "name": "Talking Nonsense",
-        "url": "https://open.spotify.com/album/4kzIIARfEc7NdB7U0evxBy"
-      },
-      "artists": [
-        {
-          "name": "Soul Mass Transit System",
-          "url": "https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC"
-        }
-      ],
-      "duration_ms": 339663,
-      "name": "Talking Nonsense",
-      "url": "https://open.spotify.com/track/0UzqPZC6D8DAuuX11XPRwV"
     },
     {
       "added_at": "2026-04-23 23:01:16",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-04-23 23:01:16",
       "album": {
+        "name": "In Dreams (its just the rhythm)",
+        "url": "https://open.spotify.com/album/3wYPkWlblcXyOZujQCXLvM"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "duration_ms": 202816,
+      "name": "In Dreams (its just the rhythm)",
+      "url": "https://open.spotify.com/track/6JRZnxpx5BlUOeWGgtSzqS"
+    },
+    {
+      "added_at": "2026-04-23 23:01:16",
+      "album": {
         "name": "Motion Sickness",
         "url": "https://open.spotify.com/album/0WfMQgxZsTquXJbqmj4Nj8"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 200571,
       "name": "Motion Sickness",
       "url": "https://open.spotify.com/track/1XWmqyDgC9pZfAjkgMmj18"
-    },
-    {
-      "added_at": "2026-04-23 23:01:16",
-      "album": {
-        "name": "In Dreams (its just the rhythm)",
-        "url": "https://open.spotify.com/album/3wYPkWlblcXyOZujQCXLvM"
-      },
-      "artists": [
-        {
-          "name": "Model Man",
-          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
-        }
-      ],
-      "duration_ms": 202816,
-      "name": "In Dreams (its just the rhythm)",
-      "url": "https://open.spotify.com/track/6JRZnxpx5BlUOeWGgtSzqS"
     },
     {
       "added_at": "2026-04-23 23:01:16",

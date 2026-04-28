@@ -139,6 +139,28 @@
     },
     {
       "album": {
+        "name": "Catching Feelings (feat. Leon Thomas) [Remix]",
+        "url": "https://open.spotify.com/album/4XwwREVubuF8cJFJ7U9rIS"
+      },
+      "artists": [
+        {
+          "name": "Annie Tracy",
+          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224001,
+      "name": "Catching Feelings (feat. Leon Thomas) - Remix",
+      "url": "https://open.spotify.com/track/2CTvSuX8S3XhbIYZ2SRiZ4"
+    },
+    {
+      "album": {
         "name": "Electric Dusk",
         "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
       },

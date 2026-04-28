@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Thamizh Aadhavan
 
-314 songs - 16 hr 37 min
+315 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Porattam \- From "Vendhu Thanindhathu Kaadu"](https://open.spotify.com/track/7CcxIeSvx9NE2X8EumKGJL) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Neeraj Madhav](https://open.spotify.com/artist/2LATypZ1Z4YnoVZ7K8BhVI) | [Porattam \(From "Vendhu Thanindhathu Kaadu"\)](https://open.spotify.com/album/4eXKztxH4xyhB5z2DzOSou) | 2:02 | 2022-09-30 | 2025-03-14 |
 | [Porkkalam \- Tamil Rap](https://open.spotify.com/track/5iv6lZAIguXWYW4Zaz5zvY) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Aadukalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0czPRsN8uZZ5o3J8usUHbR) | 4:20 | 2022-02-08 | 2025-01-10 |
 | [Power \(From "Jai Bhim"\)](https://open.spotify.com/track/03EWeCL6DT7g5725PB6Yvv) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Power \(From "Jai Bhim"\)](https://open.spotify.com/album/0enZQ3uBeFAATgU3yQh6xz) | 3:38 | 2022-02-08 | 2023-05-13 |
+| [Psilo Vibin](https://open.spotify.com/track/2ALVcPPNaLzXcF4mbTp0Qs) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [foxn](https://open.spotify.com/artist/2dbBX8wPRhL660FxN7MIDv) | [Psilo Vibin](https://open.spotify.com/album/6pHShQTxGMqXkKEO1WCSCT) | 2:23 | 2026-04-27 |  |
 | [Pulikal Arambam](https://open.spotify.com/track/3ybMzrE3I9vSFdYPHFgAPb) | [B&K Vibrant Vibes](https://open.spotify.com/artist/0JDNwkCqILNOuohFogImCR) | [Roar of the Veeran: The Tiger Chronicles](https://open.spotify.com/album/2aJK22DHqp7xtPIxioPZV2) | 2:49 | 2025-05-30 | 2025-07-29 |
 | [Raayan Rumble \(From "Raayan"\)](https://open.spotify.com/track/47yvxC80llSgqVhMWBZeLd) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Raayan Rumble \(From "Raayan"\)](https://open.spotify.com/album/1FVH2D7UkI5LNhim5CshPS) | 3:30 | 2024-07-05 | 2025-10-10 |
 | [Ragala](https://open.spotify.com/track/0fDzTuuyKa2NJ8eKXUaAIL) | [Kalinga](https://open.spotify.com/artist/4J3aBoqDLMWIPe8R6qTDJd), [MR NURA](https://open.spotify.com/artist/5h6hA70JGpFtJg4zn35wxS) | [Ragala](https://open.spotify.com/album/7jrBG0baoXN3VhI7su68Bb) | 3:22 | 2026-03-26 |  |

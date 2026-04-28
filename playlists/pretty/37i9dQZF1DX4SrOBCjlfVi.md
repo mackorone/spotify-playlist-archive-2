@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Shoreline Mafia, Latto, Luh Tyler and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,396 likes - 68 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,435 likes - 68 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 17 | [No Shirt](https://open.spotify.com/track/0bld7LM5Tb5A8n829rI2J1) | [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5) | [MAD DOGG: The Mixtape, Vol\. 1 — Hosted by Justin Credible](https://open.spotify.com/album/25dstom0NtrwAZOCvRyIUl) | 2:19 |
 | 18 | [Posed To Be An Intro](https://open.spotify.com/track/7FUrcWzo7AQ1bekPLSTMKz) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Posed To Be An Intro](https://open.spotify.com/album/0We5NCgvF3JxqAb1dGOpV7) | 2:36 |
 | 19 | [Drugs Talkin'](https://open.spotify.com/track/736yvMjEoSfsnxPzZkBu3m) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [Drugs Talkin'](https://open.spotify.com/album/38grtd2nRRsyL4PCBW38id) | 2:03 |
-| 20 | [Mona Lisa](https://open.spotify.com/track/0scvePadrWWKptnSlHrRqG) | [LG Malique](https://open.spotify.com/artist/3AVhTymLXfDZtJ7EJybv4p), [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Mona Lisa](https://open.spotify.com/album/7siy79PkAD9PwucUiqbIEE) | 2:55 |
+| 20 | [Mona Lisa \(feat\. Dess Dior\)](https://open.spotify.com/track/0scvePadrWWKptnSlHrRqG) | [LG Malique](https://open.spotify.com/artist/3AVhTymLXfDZtJ7EJybv4p), [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Mona Lisa \(feat\. Dess Dior\)](https://open.spotify.com/album/7siy79PkAD9PwucUiqbIEE) | 2:55 |
 | 21 | [Motion \(feat\. G Herbo\)](https://open.spotify.com/track/2VXh0JUDiwbgpuAOvS8kqZ) | [Montana 700](https://open.spotify.com/artist/0KpToBdtK9KP6TZPFK2zbw), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Sadetra Son](https://open.spotify.com/album/6EA0460EzIdx2eNP6qmmvL) | 2:51 |
 | 22 | [Homicide](https://open.spotify.com/track/6YPtERS01n8sSL33Go31IK) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Homicide](https://open.spotify.com/album/0AMarMYefOp4rFJEPLBttW) | 2:12 |
 | 23 | [FIGHT BACK](https://open.spotify.com/track/4EupdwMHQTlZCyNyclV2X4) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [LOST TAPES 3](https://open.spotify.com/album/3Lu5nVPbXle1rln1ZH8ZmQ) | 4:11 |

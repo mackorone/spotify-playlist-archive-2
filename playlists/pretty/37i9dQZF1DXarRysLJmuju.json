@@ -1,12 +1,12 @@
 {
   "description": "Today\u2019s pop, plugged into the culture. Cover: MICO",
-  "num_followers": 548938,
+  "num_followers": 548903,
   "original_name": "Pop All Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANQp4tQqySjl7gvvg1tCpZdpRuBU",
+  "snapshot_id": "AAAAAJsyxkIxgepBne+pd+jzqt1mLM/t",
   "tracks": [
     {
       "added_at": "2026-04-24 04:04:37",
@@ -143,6 +143,22 @@
       "duration_ms": 225870,
       "name": "Running From Nothing",
       "url": "https://open.spotify.com/track/5xYGysFGDhSt2775wubs6Z"
+    },
+    {
+      "added_at": "2026-04-27 15:57:38",
+      "album": {
+        "name": "Kingdom of Fear",
+        "url": "https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 161075,
+      "name": "Kingdom of Fear",
+      "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
     },
     {
       "added_at": "2026-04-24 04:04:37",
@@ -911,22 +927,6 @@
       "duration_ms": 227294,
       "name": "Ironic ('Mile End Kicks' - Music Inspired by the Motion Picture)",
       "url": "https://open.spotify.com/track/4rDuaj3XJe0SXSWFwQbWM6"
-    },
-    {
-      "added_at": "2026-04-24 04:04:37",
-      "album": {
-        "name": "Love Letter",
-        "url": "https://open.spotify.com/album/11koFUb2flCfP4dELQ388y"
-      },
-      "artists": [
-        {
-          "name": "Mulaa Joans",
-          "url": "https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs"
-        }
-      ],
-      "duration_ms": 176887,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa"
     },
     {
       "added_at": "2026-04-24 04:04:37",

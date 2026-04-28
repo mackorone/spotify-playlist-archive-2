@@ -2229,6 +2229,24 @@
     },
     {
       "album": {
+        "name": "AGATE",
+        "url": "https://open.spotify.com/album/1aKgkW4UDBKdFxdHK3uYOc"
+      },
+      "artists": [
+        {
+          "name": "MEITEI",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353000,
+      "name": "HA\u014c",
+      "url": "https://open.spotify.com/track/1eqGDIj6A7wEouPBIIJcsS"
+    },
+    {
+      "album": {
         "name": "Hanazono",
         "url": "https://open.spotify.com/album/4zKmJT7y0HpIUZiW5E8UPy"
       },
@@ -6404,7 +6422,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 471864,
       "name": "Wanderer",
       "url": "https://open.spotify.com/track/7d3AfivASmxXlmF93jFegO"

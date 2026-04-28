@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "valiz",
+        "url": "https://open.spotify.com/album/2NuUVdCdwgNBS3YeEFmMb7"
+      },
+      "artists": [
+        {
+          "name": "Yung Ouzo",
+          "url": "https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119172,
+      "name": "#i\u015fbirli\u011fi",
+      "url": "https://open.spotify.com/track/7pY0EgXq4SAl0dHjtkxdUe"
+    },
+    {
+      "album": {
         "name": "#PHONKFREESTYLE",
         "url": "https://open.spotify.com/album/0OYDRhRornVSIIeHrjvScc"
       },
@@ -11895,6 +11913,28 @@
     },
     {
       "album": {
+        "name": "Mavi Yans\u0131malar",
+        "url": "https://open.spotify.com/album/1rKwKwaMTR6TdIonWRwHwN"
+      },
+      "artists": [
+        {
+          "name": "Hidra",
+          "url": "https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m"
+        },
+        {
+          "name": "Ay\u015feg\u00fcl F\u0131rat",
+          "url": "https://open.spotify.com/artist/3aZLRgF2LBYwgFM0VbHNbm"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193180,
+      "name": "Mavi Yans\u0131malar",
+      "url": "https://open.spotify.com/track/5Viz9LTpprt1hANVjhfNSl"
+    },
+    {
+      "album": {
         "name": "Maytap",
         "url": "https://open.spotify.com/album/2ZlM5KbWVZMHHvIcyUSF44"
       },
@@ -13468,7 +13508,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 192897,
       "name": "Ou",
       "url": "https://open.spotify.com/track/78k5J6sk3N1dBmWXGovrxV"
@@ -15260,6 +15300,10 @@
       },
       "artists": [
         {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        },
+        {
           "name": "ASLAR",
           "url": "https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA"
         },
@@ -15270,10 +15314,6 @@
         {
           "name": "Astral",
           "url": "https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD"
-        },
-        {
-          "name": "AKDO",
-          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
         }
       ],
       "date_added": "2026-04-16",
@@ -16254,7 +16294,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 150000,
       "name": "SONBAHAR",
       "url": "https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf"

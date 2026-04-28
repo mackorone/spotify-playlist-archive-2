@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-515 songs - 1 day 3 hr 15 min
+516 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [MONSTER \- Single Version](https://open.spotify.com/track/3hNR5SxXH0UYEwWSOpJMcB) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ), [Shwabadi](https://open.spotify.com/artist/7CCLirH6tIf750hgYn1Y4X) | [MONSTER](https://open.spotify.com/album/6QRvEFKB3oihHwzaeUxmVK) | 3:45 | 2023-12-10 |  |
 | [Move Into The Light](https://open.spotify.com/track/7bbxdxLgGRrfaReqjfr2ts) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Move Into The Light](https://open.spotify.com/album/01P6ougy0DG5kYtE7fSuaa) | 4:28 | 2024-06-22 |  |
 | [Mt Gael](https://open.spotify.com/track/0VF8Dzogq3YQ8ZMGmRbB9k) | [Anthemics](https://open.spotify.com/artist/5Resf7AxjXHnKIYgsDgPlv) | [Hiraeth](https://open.spotify.com/album/6adnvm6S8BEKBn6AsyHWd5) | 5:14 | 2023-12-15 |  |
+| [My Darling](https://open.spotify.com/track/4l6jiTUeu5lzxfVNqIz49H) | [Cherry Locket](https://open.spotify.com/artist/2nZkGHRrTXlpghhH3X27lr), [Zachz Winner](https://open.spotify.com/artist/3eb6CZwogsXvGkmEUYa9XV) | [My Darling](https://open.spotify.com/album/1L1ehou3twqD25Z5UNUFMA) | 2:46 | 2026-04-27 |  |
 | [My Future](https://open.spotify.com/track/2XdlvoezoK7qp94SLmIkmW) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [My Future](https://open.spotify.com/album/79mIn0EK43ln8TJ3OSbOkv) | 2:13 | 2023-06-14 |  |
 | [my love](https://open.spotify.com/track/1g2cDX0MK9QuVlKQeR2YWq) | [TWYLIGHT](https://open.spotify.com/artist/4T0Dnr9Bf9u7Pg8Kd4QtnO) | [my love](https://open.spotify.com/album/2BOhD08DhC2tnQDLgX5FQU) | 3:48 | 2025-02-28 | 2026-03-01 |
 | [My Love is a Quickscope](https://open.spotify.com/track/7hBjYecLIxghERxBAH02Fz) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [My Love is a Quickscope](https://open.spotify.com/album/2fm2HpEwNWqdsqLcCE4D0H) | 3:47 | 2025-06-27 |  |

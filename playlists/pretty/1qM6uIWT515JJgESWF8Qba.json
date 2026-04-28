@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 413,
+  "num_followers": 414,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAABhrJzCQ3y+dTpgclMP4+T87uGGZQl",
+  "snapshot_id": "AAABiKVW4MSj3WOUYECJWt7DEqaBiL7c",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1375,6 +1375,38 @@
       "duration_ms": 261133,
       "name": "Broken Wings",
       "url": "https://open.spotify.com/track/5AxJgG2erlDiiwqPaRizts"
+    },
+    {
+      "added_at": "2026-04-27 18:53:12",
+      "album": {
+        "name": "No Angel Is Watching",
+        "url": "https://open.spotify.com/album/68XNOikZKxIdeg4OncW44B"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Jonsson",
+          "url": "https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx"
+        }
+      ],
+      "duration_ms": 175146,
+      "name": "No Angel Is Watching",
+      "url": "https://open.spotify.com/track/3Cjct6UfADZsVdXdRHmOae"
+    },
+    {
+      "added_at": "2026-04-27 19:13:50",
+      "album": {
+        "name": "Fire of Your Soul",
+        "url": "https://open.spotify.com/album/2fN64WOVPjOdRNWXKIwMmI"
+      },
+      "artists": [
+        {
+          "name": "O KANENAS",
+          "url": "https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa"
+        }
+      ],
+      "duration_ms": 141066,
+      "name": "Fire of Your Soul",
+      "url": "https://open.spotify.com/track/1wrsHTXXtBOHDUl8358ed7"
     }
   ],
   "unique_name": "Local Rock Bands",

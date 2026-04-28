@@ -57043,6 +57043,28 @@
     },
     {
       "album": {
+        "name": "Location Lost",
+        "url": "https://open.spotify.com/album/3OpqRrIq96MmPqdcDuDIIu"
+      },
+      "artists": [
+        {
+          "name": "Failure",
+          "url": "https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272789,
+      "name": "The Rising Skyline",
+      "url": "https://open.spotify.com/track/6BMWQ6ElJI0vRcPClL2QGs"
+    },
+    {
+      "album": {
         "name": "The River",
         "url": "https://open.spotify.com/album/6nH1Skb7fmYGc27ZHMV4QE"
       },

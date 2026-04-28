@@ -1,13 +1,33 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Anirudh Suswaram",
-  "num_followers": 43939,
+  "num_followers": 43942,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADydW4v7OTjstlJsMG4xkAVBexA3",
+  "snapshot_id": "AAAAAO+QZbPeMWzOuMdvtiIJR63eteO8",
   "tracks": [
+    {
+      "added_at": "2026-04-27 06:05:24",
+      "album": {
+        "name": "Deela Paddaane",
+        "url": "https://open.spotify.com/album/09aZTapQxNeDwFeElu72ZV"
+      },
+      "artists": [
+        {
+          "name": "Akshi",
+          "url": "https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J"
+        },
+        {
+          "name": "Trigger C",
+          "url": "https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES"
+        }
+      ],
+      "duration_ms": 154830,
+      "name": "Deela Paddaane",
+      "url": "https://open.spotify.com/track/5p9JV175zSaixDW2lMsnD4"
+    },
     {
       "added_at": "2026-03-12 14:20:28",
       "album": {

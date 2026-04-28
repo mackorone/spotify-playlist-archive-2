@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,296 likes - 148 songs - 8 hr 22 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,296 likes - 157 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,5 +156,14 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 146 | [Maybe This Time](https://open.spotify.com/track/0Btok8fuH53WscccgEnav6) | [Denny Haze](https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1) | [Maybe This Time](https://open.spotify.com/album/66VMQdFAOE1xjVEEWfipaT) | 3:29 |
 | 147 | [Iza Bella](https://open.spotify.com/track/2m33TemOMBEDzRpw1TsLhd) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 3:24 |
 | 148 | [Under The Setting Sun](https://open.spotify.com/track/3Tta528CNQqfOlHREFb7SD) | [A Better Life](https://open.spotify.com/artist/6fSSDJG0JfyXJ09oUJA5xd), [Holly Taymar](https://open.spotify.com/artist/472GSvPP0MaDH3SKZQOuvx) | [The Light](https://open.spotify.com/album/7DJn6wAfxd2QpFnWx4o7OA) | 4:32 |
+| 149 | [Blind Spots](https://open.spotify.com/track/36bHS8wNHBoj3EcBFNQqHr) | [Burton Badman](https://open.spotify.com/artist/1kSiVL0AysDQHiEFuhk3dm) | [Crazy Chemistry](https://open.spotify.com/album/0J23Fv2L7xHyQ8TyKJamHc) | 4:46 |
+| 150 | [The First Note Of Me](https://open.spotify.com/track/3Aq5J3TPP6lPGlPqdVaJ78) | [Zaara](https://open.spotify.com/artist/0QuY5zWGOpvYWNTPltuTDd) | [Clock Won't Fix Us](https://open.spotify.com/album/54XyWhtJqkO2ihmc9VrXMK) | 2:48 |
+| 151 | [The Cost of Loving](https://open.spotify.com/track/0fRBek48j5RIUzwKvk6H8Q) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [The Cost of Loving](https://open.spotify.com/album/5FlWpk5S3NoKwAk0Q5TIBQ) | 3:25 |
+| 152 | [Should I have said hello](https://open.spotify.com/track/76S02LgBBCBwEiY8lH2AZT) | [NYROS RAY](https://open.spotify.com/artist/04yVrTH59bbO6VJXQvpdZv) | [Should I have said hello](https://open.spotify.com/album/33LXVslfjxyguGWpsuj71f) | 2:48 |
+| 153 | [Your Side \(feat\. Elaskia\)](https://open.spotify.com/track/0jkehRAMta65tVTpDyWGDi) | [Lachie Gill](https://open.spotify.com/artist/3Zzo9G7beienFXgXl0N3IJ), [Elaskia](https://open.spotify.com/artist/6Q2uOBVYTPgtPnSFaBPUvV) | [Your Side \(feat\. Elaskia\)](https://open.spotify.com/album/5kOrh8DFflJtcOWbp0MZHi) | 2:42 |
+| 154 | [9AM](https://open.spotify.com/track/0QS2YFcXYWyi8EEHf7U1w5) | [SERGIO KRABI](https://open.spotify.com/artist/0TNLAbNZehQw12JUYypCjg) | [9AM](https://open.spotify.com/album/2aA7ojpOHYLFcnFCaMs6BQ) | 3:00 |
+| 155 | [Centrale nucleare di Hanul](https://open.spotify.com/track/2mGN4pEO1AHFq0zigfuCSM) | [Depa](https://open.spotify.com/artist/4x43pEZCm3mKW7gBBScLs3) | [Centrale nucleare di Hanul](https://open.spotify.com/album/4izN0xiPRgVbjtoetRy1Yu) | 5:52 |
+| 156 | [Maahiya](https://open.spotify.com/track/25uMgmAxc9Bx9WrIUPosuo) | [Ankur\-Bableen](https://open.spotify.com/artist/0jplyfxiH9d5WpKNgLYeIZ), [Ankur Singh](https://open.spotify.com/artist/2mCGeqLI6P7najhDAoDZP2), [Bableen Kaur](https://open.spotify.com/artist/57EquV0qe1SLyaXb2jqdZJ) | [Maahiya](https://open.spotify.com/album/34TFKnpP2ozm3f3buR5IVA) | 3:37 |
+| 157 | [Perdidos e Achados](https://open.spotify.com/track/4Tg4kLk0wjv5lgZhfcvyn0) | [Pedro Santos Oliveira](https://open.spotify.com/artist/6ipu3U0iZEkAiULeIr8JCQ) | [Perdidos e Achados](https://open.spotify.com/album/78pXXwgrlRJwiKWKM6DVKb) | 3:18 |
 
-Snapshot ID: `AAATeFYyXxjTLxNT488B6hb/z2HVMawB`
+Snapshot ID: `AAATgVKeXTVFHFj7Y0JDT97FFROfw3H/`

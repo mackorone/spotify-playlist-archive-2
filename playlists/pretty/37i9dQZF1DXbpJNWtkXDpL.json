@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm",
-  "num_followers": 92292,
+  "num_followers": 92293,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-04-26 02:06:14",
       "album": {
-        "name": "se subio alatorre",
-        "url": "https://open.spotify.com/album/4EGiASz5bZ4SbtYdn7r6Zt"
-      },
-      "artists": [
-        {
-          "name": "Jose Alatorre",
-          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
-        }
-      ],
-      "duration_ms": 133827,
-      "name": "se subio alatorre",
-      "url": "https://open.spotify.com/track/4mXUJK3d4hb1LSXab1vjqm"
-    },
-    {
-      "added_at": "2026-04-26 02:06:14",
-      "album": {
         "name": "mirar adentro",
         "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
       },
@@ -335,6 +319,46 @@
       "duration_ms": 148051,
       "name": "ME VEIA BIEN",
       "url": "https://open.spotify.com/track/7wGR4HVmHjH6ezMxp7h4SS"
+    },
+    {
+      "added_at": "2026-04-26 02:06:14",
+      "album": {
+        "name": "se subio alatorre",
+        "url": "https://open.spotify.com/album/4EGiASz5bZ4SbtYdn7r6Zt"
+      },
+      "artists": [
+        {
+          "name": "Jose Alatorre",
+          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
+        }
+      ],
+      "duration_ms": 133827,
+      "name": "se subio alatorre",
+      "url": "https://open.spotify.com/track/4mXUJK3d4hb1LSXab1vjqm"
+    },
+    {
+      "added_at": "2026-04-26 02:06:14",
+      "album": {
+        "name": "Me Ilumin\u00e9",
+        "url": "https://open.spotify.com/album/0M9tAy51bRMeT7xGdPJGP5"
+      },
+      "artists": [
+        {
+          "name": "Rivs",
+          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 138720,
+      "name": "Me Ilumin\u00e9",
+      "url": "https://open.spotify.com/track/62jHLKgkJtuuJUmCidGUEo"
     },
     {
       "added_at": "2026-04-26 02:06:14",
@@ -379,30 +403,6 @@
       "duration_ms": 107437,
       "name": "DRAMATIKA!",
       "url": "https://open.spotify.com/track/4snjC5yjWPQlodLW6iN2o9"
-    },
-    {
-      "added_at": "2026-04-26 02:06:14",
-      "album": {
-        "name": "Me Ilumin\u00e9",
-        "url": "https://open.spotify.com/album/0M9tAy51bRMeT7xGdPJGP5"
-      },
-      "artists": [
-        {
-          "name": "Rivs",
-          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 138720,
-      "name": "Me Ilumin\u00e9",
-      "url": "https://open.spotify.com/track/62jHLKgkJtuuJUmCidGUEo"
     },
     {
       "added_at": "2026-04-26 02:06:14",
@@ -543,26 +543,6 @@
     {
       "added_at": "2026-04-26 02:06:14",
       "album": {
-        "name": "Se Va Se Va",
-        "url": "https://open.spotify.com/album/4ZfqMbCFTpljyPoVxDQseE"
-      },
-      "artists": [
-        {
-          "name": "Dylan Coronel",
-          "url": "https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j"
-        },
-        {
-          "name": "8Uno",
-          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
-        }
-      ],
-      "duration_ms": 195103,
-      "name": "Se Va Se Va",
-      "url": "https://open.spotify.com/track/7A3vj4M64VDkcxzPkziR5s"
-    },
-    {
-      "added_at": "2026-04-26 02:06:14",
-      "album": {
         "name": "PEKORITAS VOL.1",
         "url": "https://open.spotify.com/album/62NyBs8dQmOtKYZUmdex6A"
       },
@@ -583,22 +563,22 @@
     {
       "added_at": "2026-04-26 02:06:14",
       "album": {
-        "name": "buttermilk 2",
-        "url": "https://open.spotify.com/album/0GccnfPFtt5X1bmGlKUNZR"
+        "name": "Se Va Se Va",
+        "url": "https://open.spotify.com/album/4ZfqMbCFTpljyPoVxDQseE"
       },
       "artists": [
         {
-          "name": "GRLS",
-          "url": "https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam"
+          "name": "Dylan Coronel",
+          "url": "https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j"
         },
         {
-          "name": "RIVVAA",
-          "url": "https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5"
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
         }
       ],
-      "duration_ms": 210258,
-      "name": "buttermilk 2",
-      "url": "https://open.spotify.com/track/6SQgtVsmwZMIluNxdFICeM"
+      "duration_ms": 195103,
+      "name": "Se Va Se Va",
+      "url": "https://open.spotify.com/track/7A3vj4M64VDkcxzPkziR5s"
     },
     {
       "added_at": "2026-04-26 02:06:14",
@@ -615,6 +595,26 @@
       "duration_ms": 217473,
       "name": "Cuenta mis pasos",
       "url": "https://open.spotify.com/track/7HrVWuwDDCbOk5tTryM3tE"
+    },
+    {
+      "added_at": "2026-04-26 02:06:14",
+      "album": {
+        "name": "buttermilk 2",
+        "url": "https://open.spotify.com/album/0GccnfPFtt5X1bmGlKUNZR"
+      },
+      "artists": [
+        {
+          "name": "GRLS",
+          "url": "https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam"
+        },
+        {
+          "name": "RIVVAA",
+          "url": "https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5"
+        }
+      ],
+      "duration_ms": 210258,
+      "name": "buttermilk 2",
+      "url": "https://open.spotify.com/track/6SQgtVsmwZMIluNxdFICeM"
     },
     {
       "added_at": "2026-04-26 02:06:14",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-04-26 02:06:14",
       "album": {
+        "name": "QUE SE JODAN SI NO PUEDEN ASUMIR UNA BROMA",
+        "url": "https://open.spotify.com/album/1jf7Es2JD1smxFfXjH1X2f"
+      },
+      "artists": [
+        {
+          "name": "Gloory Hole",
+          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
+        }
+      ],
+      "duration_ms": 213753,
+      "name": "CADENAS",
+      "url": "https://open.spotify.com/track/349Ydk9bqg7hrbQHgJRTUF"
+    },
+    {
+      "added_at": "2026-04-26 02:06:14",
+      "album": {
         "name": "MBAPPE",
         "url": "https://open.spotify.com/album/6Lm5fhix3PtnS9dseMeYbM"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 144496,
       "name": "MBAPPE",
       "url": "https://open.spotify.com/track/13PnQ2i53c540Ai5o0vY77"
-    },
-    {
-      "added_at": "2026-04-26 02:06:14",
-      "album": {
-        "name": "QUE SE JODAN SI NO PUEDEN ASUMIR UNA BROMA",
-        "url": "https://open.spotify.com/album/1jf7Es2JD1smxFfXjH1X2f"
-      },
-      "artists": [
-        {
-          "name": "Gloory Hole",
-          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
-        }
-      ],
-      "duration_ms": 213753,
-      "name": "CADENAS",
-      "url": "https://open.spotify.com/track/349Ydk9bqg7hrbQHgJRTUF"
     },
     {
       "added_at": "2026-04-26 02:06:14",

@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur des ann\u00e9es 80 en 80 titres.",
-  "num_followers": 804540,
+  "num_followers": 804580,
   "original_name": "Ann\u00e9es 80",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "Words",
-        "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
-      },
-      "artists": [
-        {
-          "name": "F.R. David",
-          "url": "https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Words - Original Version 1983",
-      "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
         "name": "Business As Usual",
         "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 201293,
       "name": "Who Can It Be Now?",
       "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
+        "name": "Words",
+        "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
+      },
+      "artists": [
+        {
+          "name": "F.R. David",
+          "url": "https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Words - Original Version 1983",
+      "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
     },
     {
       "added_at": "2026-03-19 15:24:01",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "The George Benson Collection",
-        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Give Me the Night",
-      "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
         "name": "The Essential Kenny Loggins",
         "url": "https://open.spotify.com/album/68ZonGoyvksZu4sqqNXect"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 226293,
       "name": "Footloose - From \"Footloose\" Soundtrack",
       "url": "https://open.spotify.com/track/4YR6Dextuoc3I8nJ0XgzKI"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
+        "name": "The George Benson Collection",
+        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Give Me the Night",
+      "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
     },
     {
       "added_at": "2026-03-19 15:24:01",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "Comeblack",
-        "url": "https://open.spotify.com/album/18pd7kQMiCqyz0001xg4xV"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 403453,
-      "name": "Still Loving You",
-      "url": "https://open.spotify.com/track/0qlZQGo9f7Ea24PPLnXq2R"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
         "name": "Libert\u00e9",
         "url": "https://open.spotify.com/album/7Jsx6b2L9AshOKrTFkrNQu"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 246826,
       "name": "On va s'aimer",
       "url": "https://open.spotify.com/track/7MFWYTlrC81IGpb0Jwgdu7"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
+        "name": "Comeblack",
+        "url": "https://open.spotify.com/album/18pd7kQMiCqyz0001xg4xV"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 403453,
+      "name": "Still Loving You",
+      "url": "https://open.spotify.com/track/0qlZQGo9f7Ea24PPLnXq2R"
     },
     {
       "added_at": "2026-03-19 15:24:01",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "Macumba",
-        "url": "https://open.spotify.com/album/3eCBdjnw41nMqz89Kno8H8"
-      },
-      "artists": [
-        {
-          "name": "Jean-Pierre Mader",
-          "url": "https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI"
-        }
-      ],
-      "duration_ms": 219835,
-      "name": "Macumba",
-      "url": "https://open.spotify.com/track/6tgOsCso6nMCRg5EtgixZ2"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
         "name": "Dure limite (Remasteris\u00e9 en 2015)",
         "url": "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 268560,
       "name": "\u00c7a (c'est vraiment toi) - Remasteris\u00e9 en 2015",
       "url": "https://open.spotify.com/track/7p5Na4GvFzP6M7i1ti2YRJ"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
+        "name": "Macumba",
+        "url": "https://open.spotify.com/album/3eCBdjnw41nMqz89Kno8H8"
+      },
+      "artists": [
+        {
+          "name": "Jean-Pierre Mader",
+          "url": "https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI"
+        }
+      ],
+      "duration_ms": 219835,
+      "name": "Macumba",
+      "url": "https://open.spotify.com/track/6tgOsCso6nMCRg5EtgixZ2"
     },
     {
       "added_at": "2026-03-19 15:24:01",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "True Colors: The Best Of Cyndi Lauper",
-        "url": "https://open.spotify.com/album/3ob0XVPoKBjrOjg0mf3zN3"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 236293,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/459EpH5UZgE6fMNPMLOgMF"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
         "name": "Le coup de folie",
         "url": "https://open.spotify.com/album/1PzNZnVIDlvl4GDtCb6E3K"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 217135,
       "name": "Le coup de folie",
       "url": "https://open.spotify.com/track/7nWMVmzfodNQ5Ezj29yJ3S"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
+        "name": "True Colors: The Best Of Cyndi Lauper",
+        "url": "https://open.spotify.com/album/3ob0XVPoKBjrOjg0mf3zN3"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 236293,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/459EpH5UZgE6fMNPMLOgMF"
     },
     {
       "added_at": "2026-03-19 15:24:01",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "Ainsi Soit Je",
-        "url": "https://open.spotify.com/album/2Y4MGWQ2mCJ9Fr7gcEd8S0"
-      },
-      "artists": [
-        {
-          "name": "Myl\u00e8ne Farmer",
-          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
-        }
-      ],
-      "duration_ms": 246546,
-      "name": "Sans contrefa\u00e7on",
-      "url": "https://open.spotify.com/track/2WT5SeljRZ4zBP5Inc6Gs9"
-    },
-    {
-      "added_at": "2026-03-19 15:24:01",
-      "album": {
         "name": "Best of Bibi Flash Collector (Le meilleur des ann\u00e9es 80)",
         "url": "https://open.spotify.com/album/5sGSZA5uBz4a8JZy5fhfJg"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2026-03-19 15:24:01",
       "album": {
-        "name": "Best of Rose Laurens",
-        "url": "https://open.spotify.com/album/6pUqfX67nw1tfhexViqAjF"
+        "name": "Ainsi Soit Je",
+        "url": "https://open.spotify.com/album/2Y4MGWQ2mCJ9Fr7gcEd8S0"
       },
       "artists": [
         {
-          "name": "Rose Laurens",
-          "url": "https://open.spotify.com/artist/5yHrAQeiQbwIqGHInzdYWM"
+          "name": "Myl\u00e8ne Farmer",
+          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
         }
       ],
-      "duration_ms": 216125,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/57MunCijhIhsiwxaWMPskb"
+      "duration_ms": 246546,
+      "name": "Sans contrefa\u00e7on",
+      "url": "https://open.spotify.com/track/2WT5SeljRZ4zBP5Inc6Gs9"
     },
     {
       "added_at": "2026-03-19 15:24:01",
@@ -1291,6 +1275,22 @@
       "duration_ms": 273906,
       "name": "She Works Hard For The Money - Single Version",
       "url": "https://open.spotify.com/track/0WfSc8grEKeHrgxo3stsat"
+    },
+    {
+      "added_at": "2026-03-19 15:24:01",
+      "album": {
+        "name": "Best of Rose Laurens",
+        "url": "https://open.spotify.com/album/6pUqfX67nw1tfhexViqAjF"
+      },
+      "artists": [
+        {
+          "name": "Rose Laurens",
+          "url": "https://open.spotify.com/artist/5yHrAQeiQbwIqGHInzdYWM"
+        }
+      ],
+      "duration_ms": 216125,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/57MunCijhIhsiwxaWMPskb"
     },
     {
       "added_at": "2026-03-19 15:24:01",

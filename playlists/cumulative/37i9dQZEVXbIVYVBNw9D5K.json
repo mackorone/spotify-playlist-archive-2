@@ -23208,6 +23208,10 @@
       },
       "artists": [
         {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        },
+        {
           "name": "ASLAR",
           "url": "https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA"
         },
@@ -23218,10 +23222,6 @@
         {
           "name": "Astral",
           "url": "https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD"
-        },
-        {
-          "name": "AKDO",
-          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
         }
       ],
       "date_added": "2026-04-18",

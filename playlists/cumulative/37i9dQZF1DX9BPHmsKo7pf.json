@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: Lazy Ed, JO",
+  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: Connect-R",
   "name": "Hot Hits Rom\u00e2nia",
   "tracks": [
     {
@@ -765,6 +765,28 @@
     },
     {
       "album": {
+        "name": "BANI",
+        "url": "https://open.spotify.com/album/79KZPsFWGYMZnGHVze8JZq"
+      },
+      "artists": [
+        {
+          "name": "Bianca Stoian",
+          "url": "https://open.spotify.com/artist/46UYuOtJMxstwsMGMthEsH"
+        },
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177087,
+      "name": "BANI",
+      "url": "https://open.spotify.com/track/6FzUYYKruUXMeBYBBT4kHV"
+    },
+    {
+      "album": {
         "name": "BEAST MODE +",
         "url": "https://open.spotify.com/album/6zIcb842Cw4ve0UMNsmSFg"
       },
@@ -1286,7 +1308,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 126937,
       "name": "Ce Motor",
       "url": "https://open.spotify.com/track/0D5akM6cy8rXkd0BLSiJAA"
@@ -2116,7 +2138,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -2904,6 +2926,24 @@
       "duration_ms": 149647,
       "name": "Iubire in Rate",
       "url": "https://open.spotify.com/track/2C2G5bh0reFJh7FgBz9dIP"
+    },
+    {
+      "album": {
+        "name": "Izabela",
+        "url": "https://open.spotify.com/album/7gGvvDd2j9GHeBn99YHLuR"
+      },
+      "artists": [
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "Izabela",
+      "url": "https://open.spotify.com/track/6TJF9CvKYwbgOC2GcHbLUp"
     },
     {
       "album": {
@@ -3948,10 +3988,28 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 177687,
       "name": "NICIODAT\u0102",
       "url": "https://open.spotify.com/track/02nkL2m6ajnKlENmQWi5aD"
+    },
+    {
+      "album": {
+        "name": "Noaptea",
+        "url": "https://open.spotify.com/album/0UmWqIkPaJp3vmURbUY45n"
+      },
+      "artists": [
+        {
+          "name": "EMAA",
+          "url": "https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166487,
+      "name": "Noaptea",
+      "url": "https://open.spotify.com/track/3oXWlk7N7M6pOq2BkMBUZc"
     },
     {
       "album": {
@@ -4288,7 +4346,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 159742,
       "name": "Pijamale",
       "url": "https://open.spotify.com/track/58MLHya54TwTyzkfWasuIT"
@@ -4830,7 +4888,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 142000,
       "name": "sexyZ",
       "url": "https://open.spotify.com/track/2G7zweQ25yC9xHNIGEuvcb"
@@ -4940,6 +4998,32 @@
       "duration_ms": 138348,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/5SttIhdC9DcJV0kMzvEX5e"
+    },
+    {
+      "album": {
+        "name": "SOLO TU",
+        "url": "https://open.spotify.com/album/0AAkLXd83dyoDbuy41xWLR"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw"
+        },
+        {
+          "name": "Adrian Saguna",
+          "url": "https://open.spotify.com/artist/3bz7f3qlG3GRUEYPLPTp4c"
+        },
+        {
+          "name": "Benzol",
+          "url": "https://open.spotify.com/artist/66i9LSrYmg7kz7yKMjjrSv"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196874,
+      "name": "SOLO TU",
+      "url": "https://open.spotify.com/track/2VfBwNlaw7CaWmMMNpGcwR"
     },
     {
       "album": {
@@ -5616,6 +5700,32 @@
       "duration_ms": 126986,
       "name": "TORE UP",
       "url": "https://open.spotify.com/track/6oTZCn2Wp55AbjcmhkiOfk"
+    },
+    {
+      "album": {
+        "name": "M\u00e2ine Nu-i Promis",
+        "url": "https://open.spotify.com/album/5PgDbz2k4T4F0gceXaLibH"
+      },
+      "artists": [
+        {
+          "name": "Grasu XXL",
+          "url": "https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG"
+        },
+        {
+          "name": "Guess Who",
+          "url": "https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221981,
+      "name": "Tot Ce E Frumos",
+      "url": "https://open.spotify.com/track/1uzp0dlT8GjBalvJhVGREv"
     },
     {
       "album": {

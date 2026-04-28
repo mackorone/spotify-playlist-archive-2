@@ -1,6 +1,6 @@
 {
   "description": "\u0917\u093e\u0901\u0935-\u0918\u0930 \u0915\u0940 \u0936\u093e\u0926\u093f\u092f\u094b\u0902 \u0915\u093e \u0905\u0938\u0932\u0940 \u0938\u0902\u0917\u0940\u0924 '\u092d\u094b\u091c\u092a\u0941\u0930\u0940 \u0935\u093f\u0935\u093e\u0939 \u0917\u0940\u0924'.",
-  "num_followers": 11578,
+  "num_followers": 11577,
   "original_name": "Bhojpuri Vivah Geet",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2026-03-23 13:34:43",
       "album": {
+        "name": "Shubh Vivah",
+        "url": "https://open.spotify.com/album/06jcgv8eOu0PzIwJhUOJJe"
+      },
+      "artists": [
+        {
+          "name": "Sharda Sinha",
+          "url": "https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2"
+        }
+      ],
+      "duration_ms": 367420,
+      "name": "Hardi Hardiya (Haldi)",
+      "url": "https://open.spotify.com/track/67pYYX5V8SpyaaGRjSRY6u"
+    },
+    {
+      "added_at": "2026-03-23 13:34:43",
+      "album": {
         "name": "Hardi Chumawan Hota Ho (From \"Shubh Vivah\")",
         "url": "https://open.spotify.com/album/1frKKhRfy3mA3OpyrFYryC"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 242393,
       "name": "Hardi Chumawan Hota Ho - From \"Shubh Vivah\"",
       "url": "https://open.spotify.com/track/4JL0IuQxU2QigBnLXKCjD8"
-    },
-    {
-      "added_at": "2026-03-23 13:34:43",
-      "album": {
-        "name": "Shubh Vivah",
-        "url": "https://open.spotify.com/album/06jcgv8eOu0PzIwJhUOJJe"
-      },
-      "artists": [
-        {
-          "name": "Sharda Sinha",
-          "url": "https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2"
-        }
-      ],
-      "duration_ms": 367420,
-      "name": "Hardi Hardiya (Haldi)",
-      "url": "https://open.spotify.com/track/67pYYX5V8SpyaaGRjSRY6u"
     },
     {
       "added_at": "2026-03-23 13:34:43",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-03-23 13:34:43",
       "album": {
-        "name": "Aaj Hamar Pyar Ke Shadi Ba",
-        "url": "https://open.spotify.com/album/75HvUXEGVqZELGskMSWmCi"
-      },
-      "artists": [
-        {
-          "name": "Indu Sonali",
-          "url": "https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho"
-        }
-      ],
-      "duration_ms": 176070,
-      "name": "Matkor",
-      "url": "https://open.spotify.com/track/1ATvLTbYClJlx8dTebRMHB"
-    },
-    {
-      "added_at": "2026-03-23 13:34:43",
-      "album": {
         "name": "Dulhin",
         "url": "https://open.spotify.com/album/6NM2PNbNHlENPjstKMqZHP"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 248543,
       "name": "Chal Jayie Sasural",
       "url": "https://open.spotify.com/track/5kfAtenoVSfYjavPReU68R"
+    },
+    {
+      "added_at": "2026-03-23 13:34:43",
+      "album": {
+        "name": "Aaj Hamar Pyar Ke Shadi Ba",
+        "url": "https://open.spotify.com/album/75HvUXEGVqZELGskMSWmCi"
+      },
+      "artists": [
+        {
+          "name": "Indu Sonali",
+          "url": "https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho"
+        }
+      ],
+      "duration_ms": 176070,
+      "name": "Matkor",
+      "url": "https://open.spotify.com/track/1ATvLTbYClJlx8dTebRMHB"
     },
     {
       "added_at": "2026-03-23 13:34:43",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-03-23 13:34:43",
       "album": {
-        "name": "Jehne Kishori Mori",
-        "url": "https://open.spotify.com/album/3vQJ42HlP9D2MK9rOrpEvF"
-      },
-      "artists": [
-        {
-          "name": "Indu Sonali",
-          "url": "https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho"
-        }
-      ],
-      "duration_ms": 281379,
-      "name": "Jehne Kishori Mori",
-      "url": "https://open.spotify.com/track/5NAhU7NpZHDVTY9xUmkiYr"
-    },
-    {
-      "added_at": "2026-03-23 13:34:43",
-      "album": {
         "name": "Shubh Vivah",
         "url": "https://open.spotify.com/album/06jcgv8eOu0PzIwJhUOJJe"
       },
@@ -447,6 +431,22 @@
     {
       "added_at": "2026-03-23 13:34:43",
       "album": {
+        "name": "Jehne Kishori Mori",
+        "url": "https://open.spotify.com/album/3vQJ42HlP9D2MK9rOrpEvF"
+      },
+      "artists": [
+        {
+          "name": "Indu Sonali",
+          "url": "https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho"
+        }
+      ],
+      "duration_ms": 281379,
+      "name": "Jehne Kishori Mori",
+      "url": "https://open.spotify.com/track/5NAhU7NpZHDVTY9xUmkiYr"
+    },
+    {
+      "added_at": "2026-03-23 13:34:43",
+      "album": {
         "name": "Aaju Mithila Nagariya Nihal Sakhiya",
         "url": "https://open.spotify.com/album/6aqVG83R2RghR1RlyJP3om"
       },
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-03-23 13:34:43",
       "album": {
-        "name": "Mahua Tapke Chunariya Mein",
-        "url": "https://open.spotify.com/album/2VWRUMn67nilfhkyIu02nQ"
-      },
-      "artists": [
-        {
-          "name": "Kalpana Patowary",
-          "url": "https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1"
-        }
-      ],
-      "duration_ms": 449306,
-      "name": "Aaja Balam Leke Doli",
-      "url": "https://open.spotify.com/track/6sUq0TupQApUTQySwfBWR2"
-    },
-    {
-      "added_at": "2026-03-23 13:34:43",
-      "album": {
         "name": "Shubh Vivah",
         "url": "https://open.spotify.com/album/06jcgv8eOu0PzIwJhUOJJe"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 249173,
       "name": "Suna Ho Paahun (Lava Chhitaai)",
       "url": "https://open.spotify.com/track/3bvjW7Cdx4plONJLiDpcfK"
+    },
+    {
+      "added_at": "2026-03-23 13:34:43",
+      "album": {
+        "name": "Mahua Tapke Chunariya Mein",
+        "url": "https://open.spotify.com/album/2VWRUMn67nilfhkyIu02nQ"
+      },
+      "artists": [
+        {
+          "name": "Kalpana Patowary",
+          "url": "https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1"
+        }
+      ],
+      "duration_ms": 449306,
+      "name": "Aaja Balam Leke Doli",
+      "url": "https://open.spotify.com/track/6sUq0TupQApUTQySwfBWR2"
     },
     {
       "added_at": "2026-03-23 13:34:43",
@@ -648,26 +648,6 @@
       },
       "artists": [
         {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Indu Sonali",
-          "url": "https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho"
-        }
-      ],
-      "duration_ms": 293856,
-      "name": "Aaiye Swagat Barat Mein Sarkaar Raur (From \"Pyar Karela Himmat Chaahi\")",
-      "url": "https://open.spotify.com/track/2GeGEtoM8FlXTS5G1fuMU0"
-    },
-    {
-      "added_at": "2026-03-23 13:34:43",
-      "album": {
-        "name": "Bhojpuri Vivah Geet",
-        "url": "https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV"
-      },
-      "artists": [
-        {
           "name": "Rajnish Mishra",
           "url": "https://open.spotify.com/artist/6CwN1T7GObQ3G0mZJzuLwO"
         },
@@ -679,6 +659,26 @@
       "duration_ms": 271694,
       "name": "Baliya Baraat Jaai (From \"Nirhua Rikshawala\")",
       "url": "https://open.spotify.com/track/0BygvN78MZMLGIBwJBrZmD"
+    },
+    {
+      "added_at": "2026-03-23 13:34:43",
+      "album": {
+        "name": "Bhojpuri Vivah Geet",
+        "url": "https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Indu Sonali",
+          "url": "https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho"
+        }
+      ],
+      "duration_ms": 293856,
+      "name": "Aaiye Swagat Barat Mein Sarkaar Raur (From \"Pyar Karela Himmat Chaahi\")",
+      "url": "https://open.spotify.com/track/2GeGEtoM8FlXTS5G1fuMU0"
     },
     {
       "added_at": "2026-03-23 13:34:43",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-03-23 13:34:43",
       "album": {
-        "name": "Mangal Gariya He",
-        "url": "https://open.spotify.com/album/74IL4qtE7Zo3qn6CRQqpdy"
-      },
-      "artists": [
-        {
-          "name": "Adarsh Aadee",
-          "url": "https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt"
-        }
-      ],
-      "duration_ms": 355393,
-      "name": "Mangal Gariya He",
-      "url": "https://open.spotify.com/track/4ThM0yxqeDrWK0RBMfwg64"
-    },
-    {
-      "added_at": "2026-03-23 13:34:43",
-      "album": {
         "name": "Shubh Vivah",
         "url": "https://open.spotify.com/album/42FFkrYRo42VtNFN1ClXEA"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 778125,
       "name": "Shubh Vivah",
       "url": "https://open.spotify.com/track/4P0iD4tryb0xaRJR9GKZDQ"
+    },
+    {
+      "added_at": "2026-03-23 13:34:43",
+      "album": {
+        "name": "Mangal Gariya He",
+        "url": "https://open.spotify.com/album/74IL4qtE7Zo3qn6CRQqpdy"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Aadee",
+          "url": "https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt"
+        }
+      ],
+      "duration_ms": 355393,
+      "name": "Mangal Gariya He",
+      "url": "https://open.spotify.com/track/4ThM0yxqeDrWK0RBMfwg64"
     },
     {
       "added_at": "2026-03-23 13:34:43",

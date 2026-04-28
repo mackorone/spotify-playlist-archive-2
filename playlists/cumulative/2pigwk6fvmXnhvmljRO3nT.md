@@ -4,7 +4,7 @@
 
 > 
 
-8,610 songs - 21 day 22 hr 37 min
+8,611 songs - 21 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7459,6 +7459,7 @@
 | [Z4L \(with Bari & Jay2\)](https://open.spotify.com/track/3X6YJcqTinaNraRvojF62K) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Young Pink](https://open.spotify.com/artist/3IrrjuvOPa1KFxq0Kk8pvN), [Jay2](https://open.spotify.com/artist/5RoJ70jcjGUibtNjye7DwO) | [NOIR](https://open.spotify.com/album/5rVlqi2fHOmWB764N8PsWF) | 2:42 | 2025-01-15 |  |
 | [Zanzo no Sketch](https://open.spotify.com/track/56GQ7rDihrWw8sNWvi8daO) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Yume](https://open.spotify.com/album/0snrpSOntTb03Sd8XDPn78) | 4:19 | 2025-01-03 |  |
 | [Zatoichi](https://open.spotify.com/track/5X0g53vyHrrU6sY17Rs50g) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Melt My Eyez See Your Future \(The Extended Edition\)](https://open.spotify.com/album/5eXL40WFKPjdCw0NZrRcJI) | 3:30 | 2025-01-03 |  |
+| [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/track/7jn0ATNNqtWgDk8wLYa3gw) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 3:30 | 2026-04-27 |  |
 | [Zenith](https://open.spotify.com/track/67T0J1IDGgRwNMp3vWYaVb) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Imperial](https://open.spotify.com/album/42fyKPanos0Q3woi848ktg) | 4:02 | 2025-01-03 |  |
 | [Zephyr of the Violet Garden](https://open.spotify.com/track/6HBcf4WPcGYVgfwg1VYGuo) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Footprints of the Traveler \(Original Game Soundtrack\)](https://open.spotify.com/album/6GEWGyHgEn7lGPXXiYJAmF) | 2:41 | 2025-07-28 |  |
 | [Zero](https://open.spotify.com/track/7ddCej9llJ7YRo1uGvM0uk) | [Melt\-Banana](https://open.spotify.com/artist/1aDpQ3bo57IlYWmsG5sdlp) | [Fetch](https://open.spotify.com/album/4C8VqFE4h4KWIsbAViqIby) | 3:45 | 2026-02-25 |  |

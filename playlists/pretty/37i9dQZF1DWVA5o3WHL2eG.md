@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Josi
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,708 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,705 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 11 | [Fremd](https://open.spotify.com/track/2nO5coy49PLMExXkZMaO7J) | [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [Fremd](https://open.spotify.com/album/4wn8wYiiArI6VieflDylSr) | 3:07 |
 | 12 | [atmen](https://open.spotify.com/track/08aWwk8EzNgWC8ZlZ8ojD8) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [atmen](https://open.spotify.com/album/1TPzs9tiwqdMAoZh3X3obP) | 2:59 |
 | 13 | [Dunkel](https://open.spotify.com/track/2UCO6MiyQaUz0ZNAmFppnO) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ) | [Dunkel](https://open.spotify.com/album/4VV2sUq22alaFYBTLL68Us) | 2:18 |
-| 14 | [Dog Bite](https://open.spotify.com/track/4oMfYG01Heyeqkdxfq9Z3D) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Virgin Lake](https://open.spotify.com/album/5hjXrxckG7e4f8IDw8Czcs) | 4:25 |
+| 14 | [It\-girl](https://open.spotify.com/track/6UJ71rHZh9EfgrAuFRR1q0) | [Mieze](https://open.spotify.com/artist/7M4NzPON3JqwE3GRfdg7eU) | [It\-girl](https://open.spotify.com/album/0vmb9sVh34aVdNL1UVyfo7) | 2:04 |
 | 15 | [YOU&ME](https://open.spotify.com/track/5Lsf972OLKx5LbJyvyoXJ2) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [DON'T STOP](https://open.spotify.com/album/75d1zgNLvFKDRx6uwNBwZ2) | 2:04 |
-| 16 | [GEN Z LUV](https://open.spotify.com/track/0HLqEQQmoWswlR2sxYQlCI) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [GEN Z LUV](https://open.spotify.com/album/2Lg8iJMdSJOa3jlo0nMMvQ) | 1:48 |
-| 17 | [It\-girl](https://open.spotify.com/track/6UJ71rHZh9EfgrAuFRR1q0) | [Mieze](https://open.spotify.com/artist/7M4NzPON3JqwE3GRfdg7eU) | [It\-girl](https://open.spotify.com/album/0vmb9sVh34aVdNL1UVyfo7) | 2:04 |
+| 16 | [Dog Bite](https://open.spotify.com/track/4oMfYG01Heyeqkdxfq9Z3D) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Virgin Lake](https://open.spotify.com/album/5hjXrxckG7e4f8IDw8Czcs) | 4:25 |
+| 17 | [GEN Z LUV](https://open.spotify.com/track/0HLqEQQmoWswlR2sxYQlCI) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [GEN Z LUV](https://open.spotify.com/album/2Lg8iJMdSJOa3jlo0nMMvQ) | 1:48 |
 | 18 | [wasserfarben](https://open.spotify.com/track/1VlhIy2S6cqPXMIlTxkkXb) | [Caro Schaeffler](https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB) | [wasserfarben](https://open.spotify.com/album/5anq9Pq1u3YXlbpi94VF3N) | 3:05 |
 | 19 | [sommerwind](https://open.spotify.com/track/3puY290XhaYRHxebmg9NvN) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [sommerwind](https://open.spotify.com/album/1h0xn8lP2tnxtUm8HitWbz) | 2:48 |
 | 20 | [Beiss mich fest](https://open.spotify.com/track/4qBd4iG9kqOIiRNS56r125) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Beiss mich fest](https://open.spotify.com/album/6OQaolEPGCprA6DZeckT2f) | 2:00 |
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 34 | [Jenny](https://open.spotify.com/track/1MJV6Q7cYQEOEwwgNwRcJ7) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [Jenny](https://open.spotify.com/album/3BQWnI0Gg22LnYTsN2ksJp) | 4:33 |
 | 35 | [wieviele Tage](https://open.spotify.com/track/3AfgaomsUEosFavo59d5Ki) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [wieviele Tage](https://open.spotify.com/album/6SaXHsxV1SFbQgULjEfUmw) | 2:24 |
 | 36 | [BEBII](https://open.spotify.com/track/6YocybQAUDMGdSgU9d2pXp) | [Miss Marla](https://open.spotify.com/artist/3MtJzCQCzp6r1oEqAifuDJ), [Prod Gordon](https://open.spotify.com/artist/0xj2xEx3aLor6lFSGgP0iv) | [YOUNG BARBIE LIFE](https://open.spotify.com/album/0mFfkucO2ccQ40IvOoGyCo) | 1:54 |
-| 37 | [double L](https://open.spotify.com/track/7jAX6V6DdTRETOP4Zekrby) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN) | [double L](https://open.spotify.com/album/2NffmfK2kiciEDLg7JY71Z) | 3:32 |
-| 38 | [Primapulsa](https://open.spotify.com/track/5TJjKFnwFmnejKyzDLdUoq) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [Primapulsa](https://open.spotify.com/album/6yK3S6RhA6tSIef0epie7D) | 2:27 |
-| 39 | [Little Me](https://open.spotify.com/track/2tczW8Sc81tavxVcpxSC87) | [Mira Taylor](https://open.spotify.com/artist/4gjxiBSKlUuAJwltoX1v2r) | [Little Me](https://open.spotify.com/album/4n6YwmEsm6ZSee8sGR8ygb) | 3:12 |
-| 40 | [Ein bisschen schlimmer](https://open.spotify.com/track/79vd8o1WAgxSbUA0qsdwtj) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [Ein bisschen schlimmer](https://open.spotify.com/album/36iSVmVCaBLwnJSYKtGBv3) | 3:15 |
+| 37 | [Primapulsa](https://open.spotify.com/track/5TJjKFnwFmnejKyzDLdUoq) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [Primapulsa](https://open.spotify.com/album/6yK3S6RhA6tSIef0epie7D) | 2:27 |
+| 38 | [double L](https://open.spotify.com/track/7jAX6V6DdTRETOP4Zekrby) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN) | [double L](https://open.spotify.com/album/2NffmfK2kiciEDLg7JY71Z) | 3:32 |
+| 39 | [Ein bisschen schlimmer](https://open.spotify.com/track/79vd8o1WAgxSbUA0qsdwtj) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [Ein bisschen schlimmer](https://open.spotify.com/album/36iSVmVCaBLwnJSYKtGBv3) | 3:15 |
+| 40 | [Little Me](https://open.spotify.com/track/2tczW8Sc81tavxVcpxSC87) | [Mira Taylor](https://open.spotify.com/artist/4gjxiBSKlUuAJwltoX1v2r) | [Little Me](https://open.spotify.com/album/4n6YwmEsm6ZSee8sGR8ygb) | 3:12 |
 | 41 | [Mitte März](https://open.spotify.com/track/55wceeG8waWoG6db0o7xul) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Hinter Meiner Zunge](https://open.spotify.com/album/6kaF0hoHAMefyi7izKy6TH) | 2:38 |
 | 42 | [Lesbisch](https://open.spotify.com/track/51OO2j8mgN8XvrNnft5EDL) | [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Lesbisch](https://open.spotify.com/album/5lRfrBB7to4PYgdAImQsw9) | 2:07 |
 | 43 | [Lovers](https://open.spotify.com/track/3RyPjY4LSckFzV0VstzTQD) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Lovers](https://open.spotify.com/album/570kqavY51UzlC6nYTOKo4) | 2:56 |

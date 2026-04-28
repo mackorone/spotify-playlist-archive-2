@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124017,
+  "num_followers": 124016,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVV3hXMTbone4hthYrMPJZiFT1Sovs",
+  "snapshot_id": "AAAVWMA5S011Qhe4ClsvXMKFUCFPNha/",
   "tracks": [
+    {
+      "added_at": "2026-04-27 15:21:20",
+      "album": {
+        "name": "close your eyes",
+        "url": "https://open.spotify.com/album/1YuOYJ7WHrrX889nLy70Xb"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        {
+          "name": "Jazara",
+          "url": "https://open.spotify.com/artist/7didXxc5oXHa2VLDXPxNag"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "close your eyes",
+      "url": "https://open.spotify.com/track/0GY3VN7i3hElhqhIqSHKQi"
+    },
     {
       "added_at": "2026-04-24 17:16:59",
       "album": {

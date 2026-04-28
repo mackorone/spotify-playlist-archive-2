@@ -295,6 +295,24 @@
     },
     {
       "album": {
+        "name": "9AM",
+        "url": "https://open.spotify.com/album/2aA7ojpOHYLFcnFCaMs6BQ"
+      },
+      "artists": [
+        {
+          "name": "SERGIO KRABI",
+          "url": "https://open.spotify.com/artist/0TNLAbNZehQw12JUYypCjg"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180604,
+      "name": "9AM",
+      "url": "https://open.spotify.com/track/0QS2YFcXYWyi8EEHf7U1w5"
+    },
+    {
+      "album": {
         "name": "A Bad Place To Be Born",
         "url": "https://open.spotify.com/album/1UFJUNLMyBZcwM37LTvqHK"
       },
@@ -2025,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "Crazy Chemistry",
+        "url": "https://open.spotify.com/album/0J23Fv2L7xHyQ8TyKJamHc"
+      },
+      "artists": [
+        {
+          "name": "Burton Badman",
+          "url": "https://open.spotify.com/artist/1kSiVL0AysDQHiEFuhk3dm"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286140,
+      "name": "Blind Spots",
+      "url": "https://open.spotify.com/track/36bHS8wNHBoj3EcBFNQqHr"
+    },
+    {
+      "album": {
         "name": "Itching Through the Permafrost",
         "url": "https://open.spotify.com/album/21aFPA1VXrE7OtKVCBNPyY"
       },
@@ -2654,6 +2690,24 @@
       "duration_ms": 207500,
       "name": "Celina",
       "url": "https://open.spotify.com/track/2T9R2VTHmJsP5T9LQy8XVz"
+    },
+    {
+      "album": {
+        "name": "Centrale nucleare di Hanul",
+        "url": "https://open.spotify.com/album/4izN0xiPRgVbjtoetRy1Yu"
+      },
+      "artists": [
+        {
+          "name": "Depa",
+          "url": "https://open.spotify.com/artist/4x43pEZCm3mKW7gBBScLs3"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352026,
+      "name": "Centrale nucleare di Hanul",
+      "url": "https://open.spotify.com/track/2mGN4pEO1AHFq0zigfuCSM"
     },
     {
       "album": {
@@ -9483,6 +9537,32 @@
     },
     {
       "album": {
+        "name": "Maahiya",
+        "url": "https://open.spotify.com/album/34TFKnpP2ozm3f3buR5IVA"
+      },
+      "artists": [
+        {
+          "name": "Ankur-Bableen",
+          "url": "https://open.spotify.com/artist/0jplyfxiH9d5WpKNgLYeIZ"
+        },
+        {
+          "name": "Ankur Singh",
+          "url": "https://open.spotify.com/artist/2mCGeqLI6P7najhDAoDZP2"
+        },
+        {
+          "name": "Bableen Kaur",
+          "url": "https://open.spotify.com/artist/57EquV0qe1SLyaXb2jqdZJ"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217692,
+      "name": "Maahiya",
+      "url": "https://open.spotify.com/track/25uMgmAxc9Bx9WrIUPosuo"
+    },
+    {
+      "album": {
         "name": "MAAHIYA",
         "url": "https://open.spotify.com/album/1TgaFnep4G94S2xlfmlsfX"
       },
@@ -12183,6 +12263,24 @@
     },
     {
       "album": {
+        "name": "Perdidos e Achados",
+        "url": "https://open.spotify.com/album/78pXXwgrlRJwiKWKM6DVKb"
+      },
+      "artists": [
+        {
+          "name": "Pedro Santos Oliveira",
+          "url": "https://open.spotify.com/artist/6ipu3U0iZEkAiULeIr8JCQ"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Perdidos e Achados",
+      "url": "https://open.spotify.com/track/4Tg4kLk0wjv5lgZhfcvyn0"
+    },
+    {
+      "album": {
         "name": "Phantom Weight",
         "url": "https://open.spotify.com/album/17J9feK1my3d9695vldjVq"
       },
@@ -13780,6 +13878,24 @@
       "duration_ms": 185861,
       "name": "Shakin'",
       "url": "https://open.spotify.com/track/60YO17Cz85qfjJgkkplEnj"
+    },
+    {
+      "album": {
+        "name": "Should I have said hello",
+        "url": "https://open.spotify.com/album/33LXVslfjxyguGWpsuj71f"
+      },
+      "artists": [
+        {
+          "name": "NYROS RAY",
+          "url": "https://open.spotify.com/artist/04yVrTH59bbO6VJXQvpdZv"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168575,
+      "name": "Should I have said hello",
+      "url": "https://open.spotify.com/track/76S02LgBBCBwEiY8lH2AZT"
     },
     {
       "album": {
@@ -15647,6 +15763,24 @@
     },
     {
       "album": {
+        "name": "The Cost of Loving",
+        "url": "https://open.spotify.com/album/5FlWpk5S3NoKwAk0Q5TIBQ"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bawden",
+          "url": "https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205909,
+      "name": "The Cost of Loving",
+      "url": "https://open.spotify.com/track/0fRBek48j5RIUzwKvk6H8Q"
+    },
+    {
+      "album": {
         "name": "The Crow",
         "url": "https://open.spotify.com/album/4ANC5ONS6tRUkZJHRON4E9"
       },
@@ -15796,6 +15930,24 @@
       "duration_ms": 187799,
       "name": "The Feeling Is Real",
       "url": "https://open.spotify.com/track/1mqZtnhJeteblSxTYcGTM9"
+    },
+    {
+      "album": {
+        "name": "Clock Won't Fix Us",
+        "url": "https://open.spotify.com/album/54XyWhtJqkO2ihmc9VrXMK"
+      },
+      "artists": [
+        {
+          "name": "Zaara",
+          "url": "https://open.spotify.com/artist/0QuY5zWGOpvYWNTPltuTDd"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168239,
+      "name": "The First Note Of Me",
+      "url": "https://open.spotify.com/track/3Aq5J3TPP6lPGlPqdVaJ78"
     },
     {
       "album": {
@@ -18804,6 +18956,28 @@
       "duration_ms": 244040,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/5DbdTIaGqtHnZPHbTTyFdG"
+    },
+    {
+      "album": {
+        "name": "Your Side (feat. Elaskia)",
+        "url": "https://open.spotify.com/album/5kOrh8DFflJtcOWbp0MZHi"
+      },
+      "artists": [
+        {
+          "name": "Lachie Gill",
+          "url": "https://open.spotify.com/artist/3Zzo9G7beienFXgXl0N3IJ"
+        },
+        {
+          "name": "Elaskia",
+          "url": "https://open.spotify.com/artist/6Q2uOBVYTPgtPnSFaBPUvV"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162463,
+      "name": "Your Side (feat. Elaskia)",
+      "url": "https://open.spotify.com/track/0jkehRAMta65tVTpDyWGDi"
     },
     {
       "album": {

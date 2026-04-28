@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & The Night Sweats",
-  "num_followers": 477233,
+  "num_followers": 477206,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -123,18 +123,18 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Sad Hunk",
-        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
+        "name": "Animals With Religion",
+        "url": "https://open.spotify.com/album/1tgxoOZbeY2AlmqFOmdImr"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+          "name": "Bee Caves",
+          "url": "https://open.spotify.com/artist/28rNZfNFHhZt6yYOmUzYVK"
         }
       ],
-      "duration_ms": 204453,
-      "name": "Trick To Happy",
-      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
+      "duration_ms": 235264,
+      "name": "Running Home to You",
+      "url": "https://open.spotify.com/track/6SC9DUmZnaNyrmARkM0wu5"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -171,18 +171,18 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Animals With Religion",
-        "url": "https://open.spotify.com/album/1tgxoOZbeY2AlmqFOmdImr"
+        "name": "Sad Hunk",
+        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
       },
       "artists": [
         {
-          "name": "Bee Caves",
-          "url": "https://open.spotify.com/artist/28rNZfNFHhZt6yYOmUzYVK"
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
         }
       ],
-      "duration_ms": 235264,
-      "name": "Running Home to You",
-      "url": "https://open.spotify.com/track/6SC9DUmZnaNyrmARkM0wu5"
+      "duration_ms": 204453,
+      "name": "Trick To Happy",
+      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -403,6 +403,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 291826,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "Passage Du Desir",
         "url": "https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 317333,
       "name": "Right Kind of Dream",
       "url": "https://open.spotify.com/track/4bvsXc61sKgQ8eqrb6Mqhr"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 291826,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Signs of Life",
-        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 300800,
-      "name": "Signs of Life",
-      "url": "https://open.spotify.com/track/15ZSEpaU6Q8YJLcld0hEqt"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Weathervanes",
         "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 374834,
       "name": "This Ain't It",
       "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Signs of Life",
+        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 300800,
+      "name": "Signs of Life",
+      "url": "https://open.spotify.com/track/15ZSEpaU6Q8YJLcld0hEqt"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Galacticana",
-        "url": "https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg"
-      },
-      "artists": [
-        {
-          "name": "Strand of Oaks",
-          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
-        }
-      ],
-      "duration_ms": 240733,
-      "name": "Galacticana",
-      "url": "https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "It's Been a While",
         "url": "https://open.spotify.com/album/2hXnzYHalL5s1lcRvIicCf"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 246840,
       "name": "It's Been a While",
       "url": "https://open.spotify.com/track/72tyEYz2P2KJgA7DYAMj1t"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Galacticana",
+        "url": "https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg"
+      },
+      "artists": [
+        {
+          "name": "Strand of Oaks",
+          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
+        }
+      ],
+      "duration_ms": 240733,
+      "name": "Galacticana",
+      "url": "https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 193897,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 215759,
       "name": "Circles",
       "url": "https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 193897,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Set the World on Fire",
-        "url": "https://open.spotify.com/album/7C6GRyldUPFVCh4QfoqNiP"
-      },
-      "artists": [
-        {
-          "name": "Early Morning Rebel",
-          "url": "https://open.spotify.com/artist/0EY2klOFCGNWO2gc3k9AhQ"
-        }
-      ],
-      "duration_ms": 165531,
-      "name": "Set the World on Fire",
-      "url": "https://open.spotify.com/track/5mbcjmw6eqXlSSRHGxEjkG"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "River Wider",
         "url": "https://open.spotify.com/album/4NBpqEDUdimWGmSu3q6zWD"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 219320,
       "name": "Looking for Love",
       "url": "https://open.spotify.com/track/3s3NKsV3p6hCAh23j1H4W7"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Set the World on Fire",
+        "url": "https://open.spotify.com/album/7C6GRyldUPFVCh4QfoqNiP"
+      },
+      "artists": [
+        {
+          "name": "Early Morning Rebel",
+          "url": "https://open.spotify.com/artist/0EY2klOFCGNWO2gc3k9AhQ"
+        }
+      ],
+      "duration_ms": 165531,
+      "name": "Set the World on Fire",
+      "url": "https://open.spotify.com/track/5mbcjmw6eqXlSSRHGxEjkG"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "Are You Listening?",
+        "url": "https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O"
+      },
+      "artists": [
+        {
+          "name": "Lera Lynn",
+          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
+        }
+      ],
+      "duration_ms": 198120,
+      "name": "Are You Listening?",
+      "url": "https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "Soul In Mind",
         "url": "https://open.spotify.com/album/77hh6fk09R9oh9OFGAeCrS"
       },
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Are You Listening?",
-        "url": "https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O"
+        "name": "Holster",
+        "url": "https://open.spotify.com/album/3btLo0lAX8kaCTrQoJ6ZLs"
       },
       "artists": [
         {
-          "name": "Lera Lynn",
-          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
         }
       ],
-      "duration_ms": 198120,
-      "name": "Are You Listening?",
-      "url": "https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7"
+      "duration_ms": 180925,
+      "name": "Holster",
+      "url": "https://open.spotify.com/track/6b3FnGkuvdpaZoWjN3Fo74"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1191,22 +1207,6 @@
       "duration_ms": 214944,
       "name": "Down in the Country",
       "url": "https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "Holster",
-        "url": "https://open.spotify.com/album/3btLo0lAX8kaCTrQoJ6ZLs"
-      },
-      "artists": [
-        {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
-        }
-      ],
-      "duration_ms": 180925,
-      "name": "Holster",
-      "url": "https://open.spotify.com/track/6b3FnGkuvdpaZoWjN3Fo74"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Never Makes a Sound",
-        "url": "https://open.spotify.com/album/1oG3x0lHgddWOoJ3UhzWXY"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Terrell",
-          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
-        }
-      ],
-      "duration_ms": 240260,
-      "name": "Never Makes a Sound",
-      "url": "https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "In Unison",
         "url": "https://open.spotify.com/album/35YFuoRW7wt1QDMqLzxL4w"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 197400,
       "name": "Proximity",
       "url": "https://open.spotify.com/track/4BrcmD7xqfdwLbso6xZI3P"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Never Makes a Sound",
+        "url": "https://open.spotify.com/album/1oG3x0lHgddWOoJ3UhzWXY"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Terrell",
+          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
+        }
+      ],
+      "duration_ms": 240260,
+      "name": "Never Makes a Sound",
+      "url": "https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "Home Truths",
+        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
+      },
+      "artists": [
+        {
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Home Truths",
+      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/1wUPDxnbQCUh3zv6SiAFhI"
       },
@@ -1391,18 +1407,18 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Home Truths",
-        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
+        "name": "Pain Shifter",
+        "url": "https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt"
       },
       "artists": [
         {
-          "name": "Lucie Silvas",
-          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+          "name": "W. B. Wooten",
+          "url": "https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk"
         }
       ],
-      "duration_ms": 217400,
-      "name": "Home Truths",
-      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
+      "duration_ms": 224000,
+      "name": "Pain Shifter",
+      "url": "https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1419,22 +1435,6 @@
       "duration_ms": 243706,
       "name": "I'm Not There",
       "url": "https://open.spotify.com/track/1PK8ZPESB5bNx0jhkXIDek"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "Pain Shifter",
-        "url": "https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt"
-      },
-      "artists": [
-        {
-          "name": "W. B. Wooten",
-          "url": "https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Pain Shifter",
-      "url": "https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Lifted",
-        "url": "https://open.spotify.com/album/4bKSp2BMGakhm0wEEZ3Ovq"
-      },
-      "artists": [
-        {
-          "name": "Israel Nash",
-          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
-        }
-      ],
-      "duration_ms": 235263,
-      "name": "Lucky Ones",
-      "url": "https://open.spotify.com/track/4Bggim4UBtfueGEfGeSequ"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Cleopatra",
         "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 160097,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/4bKSp2BMGakhm0wEEZ3Ovq"
+      },
+      "artists": [
+        {
+          "name": "Israel Nash",
+          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
+        }
+      ],
+      "duration_ms": 235263,
+      "name": "Lucky Ones",
+      "url": "https://open.spotify.com/track/4Bggim4UBtfueGEfGeSequ"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Topaz",
-        "url": "https://open.spotify.com/album/37SsOnUA2MVaJDLybuNDzz"
-      },
-      "artists": [
-        {
-          "name": "Israel Nash",
-          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
-        }
-      ],
-      "duration_ms": 231341,
-      "name": "Canyonheart",
-      "url": "https://open.spotify.com/track/4QzlIwRtqYBReMUWv65b8A"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 216120,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Topaz",
+        "url": "https://open.spotify.com/album/37SsOnUA2MVaJDLybuNDzz"
+      },
+      "artists": [
+        {
+          "name": "Israel Nash",
+          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
+        }
+      ],
+      "duration_ms": 231341,
+      "name": "Canyonheart",
+      "url": "https://open.spotify.com/track/4QzlIwRtqYBReMUWv65b8A"
     }
   ],
   "unique_name": "Folk Rock Favorites",

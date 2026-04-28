@@ -4,7 +4,7 @@
 
 > Ruido blanco para ayudarte a dormir.
 
-386 songs - 17 hr 26 min
+387 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Basic White Noise Part 2](https://open.spotify.com/track/0O5vkNyf8VcsKKaK5r4Jfw) | [Aska Mill](https://open.spotify.com/artist/3mkmnTAqRXg1NysbtuFS5P) | [White Noise Basic](https://open.spotify.com/album/3zctzZ79rSG5GQnq9D6E92) | 2:26 | 2023-04-12 | 2026-03-27 |
 | [Bed Time Noise](https://open.spotify.com/track/6qf8bXC9jUy1BvAYvZ9blO) | [Historic Site](https://open.spotify.com/artist/2b6lrSLIjDIaFN8hd7py6a) | [Noise Zone](https://open.spotify.com/album/2TGWB7qK1w8z8kCbCky0bj) | 2:28 | 2023-03-09 | 2023-04-13 |
 | [Beneath The Surface](https://open.spotify.com/track/48X2dWdhT84ZS6lj6ZDjoD) | [Sleeping Ocean](https://open.spotify.com/artist/49PiZXcGBtgO9CwPC0SUGw) | [Beneath The Surface](https://open.spotify.com/album/78i64SMc5sjTETYK3RuWYh) | 3:11 | 2023-04-12 |  |
+| [Blanco Universal – Ruido para Dormir](https://open.spotify.com/track/3vPMDiRP08WutKAW5iSNnZ) | [Universal Waves](https://open.spotify.com/artist/1J9iGTlSe1UKgzNbILBnL8) | [Blanco Universal](https://open.spotify.com/album/6aDeeW1wHIeH64t4PqLwrE) | 2:41 | 2026-03-31 |  |
 | [Blue White Noise](https://open.spotify.com/track/0X97bKfDQg76Abx5LDfs8g) | [Libronics](https://open.spotify.com/artist/3aRPewMsLWgCfDyogfVWja) | [The Focus Noise](https://open.spotify.com/album/1KLlCt51zibJJVuvcdo2lz) | 2:32 | 2023-03-09 | 2023-04-13 |
 | [Breathe Easy](https://open.spotify.com/track/7LnDKGTwMoLv3XSgxOnj83) | [High Res Lo Fi](https://open.spotify.com/artist/2EHYuRVxkX0f9VsvoOSCI1) | [Weekly White Noise](https://open.spotify.com/album/1HMBbQKH4GveqLBuITbvWf) | 2:35 | 2023-04-12 |  |
 | [Bright Sound](https://open.spotify.com/track/1tK5k6HSQDKd46LpreI55I) | [Only Noise Machine](https://open.spotify.com/artist/7cdo1ksUSETbrK7XFZ90Xh) | [Bright Sound](https://open.spotify.com/album/7mzk5MEmi4P31ln34bZsAD) | 2:12 | 2023-04-12 |  |
@@ -93,7 +94,7 @@
 | [Feathery White Noise](https://open.spotify.com/track/13esgv6hjAXqOBvncP0sQx) | [The Clear Mind](https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs) | [Feathery White Noise](https://open.spotify.com/album/6NQ2xo1YFIXcN4nM05BWM1) | 2:53 | 2023-03-09 |  |
 | [Flowy White Noise](https://open.spotify.com/track/7qJL93l2CXjAYOHtyH05Ep) | [The Art of Nature](https://open.spotify.com/artist/1O9LwphbHD5aIvUVGxQqbR) | [Relax In Noise](https://open.spotify.com/album/1xkuWJZVCKAMWMXRADvb1Q) | 2:18 | 2023-03-09 | 2023-04-13 |
 | [Flujo De Ruido](https://open.spotify.com/track/0H7AdLmbt8cB8tiGiQThDr) | [Tiempo Discreto](https://open.spotify.com/artist/0Pz9iAW7D7jzpx0DkXap7U) | [Ruido De Vuelo](https://open.spotify.com/album/5cF6tBiZ2CExYwTBxIrgix) | 1:49 | 2023-04-12 | 2023-06-29 |
-| [Focus Noise](https://open.spotify.com/track/0ONrfTPB8dvQf8ZcQCSHTm) | [Likko Sol](https://open.spotify.com/artist/2Or8PQp1nSscZ2gnIkx17E) | [Focus White Noise](https://open.spotify.com/album/6qx7NHPPTW8eZWL2hTjHx3) | 2:38 | 2023-04-12 |  |
+| [Focus Noise](https://open.spotify.com/track/0ONrfTPB8dvQf8ZcQCSHTm) | [Likko Sol](https://open.spotify.com/artist/2Or8PQp1nSscZ2gnIkx17E) | [Focus White Noise](https://open.spotify.com/album/6qx7NHPPTW8eZWL2hTjHx3) | 2:38 | 2023-04-12 | 2026-04-28 |
 | [Focus On Noise](https://open.spotify.com/track/01MV13Hg9sfFNtgcMidjgE) | [Historic Site](https://open.spotify.com/artist/2b6lrSLIjDIaFN8hd7py6a) | [Lean Noise](https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg) | 1:39 | 2023-04-12 |  |
 | [Focus Waves](https://open.spotify.com/track/3x0EoMEp16dyEcraUR1beL) | [Gamma Ism](https://open.spotify.com/artist/13WXoLsp6BS82T8AWnnRHi) | [Focus Waves](https://open.spotify.com/album/3phP2ItswTCo5Zc1NV07rw) | 2:24 | 2023-03-09 | 2026-04-01 |
 | [Forces Within](https://open.spotify.com/track/5fVkkLrE7t9OTceS8IiQQz) | [Ambernois](https://open.spotify.com/artist/7bENpLRUNVijAdBIKLdYu1) | [Quantum](https://open.spotify.com/album/39cUKayVtjxZc6wZJ9ELbu) | 4:46 | 2023-03-09 | 2023-04-13 |

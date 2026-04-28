@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112820,
+  "num_followers": 112817,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
+        "name": "Szeroko\u015bci!",
+        "url": "https://open.spotify.com/album/2SIVV4JMG2Yfc8ZAo96nZU"
+      },
+      "artists": [
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "duration_ms": 157607,
+      "name": "Szeroko\u015bci!",
+      "url": "https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8"
+    },
+    {
+      "added_at": "2026-04-17 15:06:15",
+      "album": {
         "name": "TOKSYNA",
         "url": "https://open.spotify.com/album/18b8YnPhpv0CDkFPLIR3sF"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 216398,
       "name": "TOKSYNA",
       "url": "https://open.spotify.com/track/2eJnIhTFimR9GSXQIeXqRZ"
-    },
-    {
-      "added_at": "2026-04-17 15:06:15",
-      "album": {
-        "name": "Szeroko\u015bci!",
-        "url": "https://open.spotify.com/album/2SIVV4JMG2Yfc8ZAo96nZU"
-      },
-      "artists": [
-        {
-          "name": "Nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
-        }
-      ],
-      "duration_ms": 157607,
-      "name": "Szeroko\u015bci!",
-      "url": "https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8"
     },
     {
       "added_at": "2026-04-17 15:06:15",
@@ -995,26 +995,6 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
-        "name": "Jak to jest",
-        "url": "https://open.spotify.com/album/0azwKn7dzVNHDTtc8P60uO"
-      },
-      "artists": [
-        {
-          "name": "Zuza Jab\u0142o\u0144ska",
-          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
-        },
-        {
-          "name": "Micha\u0142 Szczygie\u0142",
-          "url": "https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z"
-        }
-      ],
-      "duration_ms": 212419,
-      "name": "Jak to jest",
-      "url": "https://open.spotify.com/track/3b3XIBnhmU4zAt9vddjVvh"
-    },
-    {
-      "added_at": "2026-04-17 15:06:15",
-      "album": {
         "name": "Wi\u0119cej nas",
         "url": "https://open.spotify.com/album/6f0unjJ3i3i2jCOoCvsIvx"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 181090,
       "name": "Wi\u0119cej nas",
       "url": "https://open.spotify.com/track/0pN5F4nvvnB2ZYb9AhKMJ4"
+    },
+    {
+      "added_at": "2026-04-17 15:06:15",
+      "album": {
+        "name": "Jak to jest",
+        "url": "https://open.spotify.com/album/0azwKn7dzVNHDTtc8P60uO"
+      },
+      "artists": [
+        {
+          "name": "Zuza Jab\u0142o\u0144ska",
+          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
+        },
+        {
+          "name": "Micha\u0142 Szczygie\u0142",
+          "url": "https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z"
+        }
+      ],
+      "duration_ms": 212419,
+      "name": "Jak to jest",
+      "url": "https://open.spotify.com/track/3b3XIBnhmU4zAt9vddjVvh"
     },
     {
       "added_at": "2026-04-17 15:06:15",

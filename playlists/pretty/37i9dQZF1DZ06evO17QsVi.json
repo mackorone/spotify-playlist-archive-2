@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1231700,
+  "num_followers": 1231762,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aewEAAAAAADkby4DWtsKZ7WV5GPuMxOo",
+  "snapshot_id": "ae1VgAAAAAAIedpn/Ikpan2vqfAyxx1t",
   "tracks": [
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 272626,
+      "name": "To Live & Die In L.A.",
+      "url": "https://open.spotify.com/track/3ivJymJnoceuUUe7wTP6m4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Big Picture",
         "url": "https://open.spotify.com/album/36zI393OZQaRFC8dTi2XII"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 152373,
       "name": "Deadly Combination (feat. 2Pac)",
       "url": "https://open.spotify.com/track/3FWTGnS0F6wm2HhIkI8rVW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 272626,
-      "name": "To Live & Die In L.A.",
-      "url": "https://open.spotify.com/track/3ivJymJnoceuUUe7wTP6m4"
     },
     {
       "added_at": null,

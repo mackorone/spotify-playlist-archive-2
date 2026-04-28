@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a Maria Beth\u00e2nia e mais mulheres incr\u00edveis no volume m\u00e1ximo! Co-curado por <a href=\"spotify:artist:3f5VCwd57gZsqMad28jyLV\">Maria Beth\u00e2nia</a>.",
-  "num_followers": 193081,
+  "num_followers": 193107,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
+        "name": "Meus Momentos",
+        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 261733,
+      "name": "Canto Das Tr\u00eas Ra\u00e7as",
+      "url": "https://open.spotify.com/track/5AW3HoWc711G1pSflzX9nb"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
         "name": "Peito Aberto",
         "url": "https://open.spotify.com/album/3GeFk3NWlnaxB7oj4M8j0w"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 191392,
       "name": "Peito Aberto",
       "url": "https://open.spotify.com/track/7AmemK0iLDwBt1o0nmmxdw"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
-        "name": "Meus Momentos",
-        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 261733,
-      "name": "Canto Das Tr\u00eas Ra\u00e7as",
-      "url": "https://open.spotify.com/track/5AW3HoWc711G1pSflzX9nb"
     },
     {
       "added_at": "2026-04-01 03:00:06",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "Miucha canta Vin\u00edcius & Vin\u00edcius",
-        "url": "https://open.spotify.com/album/7kliSLW5Nxb9pZuh5mFPwj"
-      },
-      "artists": [
-        {
-          "name": "Mi\u00facha",
-          "url": "https://open.spotify.com/artist/24ZP6P1JgCo65CEJsk2OQ2"
-        }
-      ],
-      "duration_ms": 197693,
-      "name": "Ai, Quem Me Dera",
-      "url": "https://open.spotify.com/track/3LCNCC9hJxcRslqQDvaoun"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
         "name": "Grossas Nuvens De Amor",
         "url": "https://open.spotify.com/album/3ity1YDXey1PBfyNRden12"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 165373,
       "name": "H\u00e1 Um Deus",
       "url": "https://open.spotify.com/track/1TdEwIEm1vXjws74SWjyr6"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
+        "name": "Miucha canta Vin\u00edcius & Vin\u00edcius",
+        "url": "https://open.spotify.com/album/7kliSLW5Nxb9pZuh5mFPwj"
+      },
+      "artists": [
+        {
+          "name": "Mi\u00facha",
+          "url": "https://open.spotify.com/artist/24ZP6P1JgCo65CEJsk2OQ2"
+        }
+      ],
+      "duration_ms": 197693,
+      "name": "Ai, Quem Me Dera",
+      "url": "https://open.spotify.com/track/3LCNCC9hJxcRslqQDvaoun"
     },
     {
       "added_at": "2026-04-01 03:00:06",

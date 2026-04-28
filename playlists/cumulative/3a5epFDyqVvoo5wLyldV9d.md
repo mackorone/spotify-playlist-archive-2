@@ -4,7 +4,7 @@
 
 > 
 
-908 songs - 2 day 23 hr 27 min
+912 songs - 2 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Fogo do Sol](https://open.spotify.com/track/3p9UNNwbezi22pNknFKQMK) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 3:45 | 2020-12-22 |  |
 | [Forever And Ever](https://open.spotify.com/track/7pD1NHvfB5W5L4bGBPBQtd) | [Demis Roussos](https://open.spotify.com/artist/0J9mbwg4BquN4XlHzdMK3X) | [Forever And Ever](https://open.spotify.com/album/1x58IoWBz7t0RuTOlWaRog) | 3:41 | 2025-08-31 |  |
 | [Força Bruta](https://open.spotify.com/track/2ZUszKpDYEPvNWFrxewx94) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Força Bruta](https://open.spotify.com/album/4e9GNzfj6z4LvijhimWXo3) | 5:09 | 2020-10-14 |  |
+| [Free](https://open.spotify.com/track/2xCJahhxt4oL7PTZyZy662) | [チャクラ](https://open.spotify.com/artist/5hHb94E46OuMyLRva54HYk) | [さてこそ](https://open.spotify.com/album/58dOZiwZn13FqtCkN4hOix) | 3:36 | 2026-04-28 |  |
 | [Free Blow \- Dub Version](https://open.spotify.com/track/0euDP2BUvPMXNoFrjaJm34) | [Tony Benn Feghaly](https://open.spotify.com/artist/63f72ydS3ABU4EnwhGoa3d) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/2QTAwOmV0lj1S1zGTuipFg) | 5:11 | 2022-04-26 |  |
 | [Frivole de nuit](https://open.spotify.com/track/5Q2yV1wgKENv1XsCTB7nma) | [Laurie Destal](https://open.spotify.com/artist/5w8zUn6bCJGjtxuMJyOdxR) | [Vidal Benjamin présente Disco Sympathie](https://open.spotify.com/album/0DM8soBOZE46omYT1xPJDt) | 8:08 | 2021-03-12 |  |
 | [Fshatarja Ime](https://open.spotify.com/track/6wDhH6ItVhgtrI2SMtscI4) | [Sabri Fejzullahu](https://open.spotify.com/artist/01kw1JZlojs7jcsMHnfyVr) | [Merrma Shiun E Prishtinës](https://open.spotify.com/album/279nOOpIU7dSF3pXCudidz) | 4:20 | 2024-07-27 |  |
@@ -474,6 +475,7 @@
 | [Mas, Que Nada!](https://open.spotify.com/track/6U03Orwr5Dxt8jahLnQpYV) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Samba Esquema Novo](https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy) | 2:59 | 2019-12-15 |  |
 | [Massanga Mama](https://open.spotify.com/track/7B2NuKn5X9J47c637k8klN) | [Os Apolos](https://open.spotify.com/artist/5Pr5Gu9t2yP6ewfgTyeqFe) | [Recordação](https://open.spotify.com/album/3cjbKRVdF8C8jXOvfkA2Ao) | 4:59 | 2023-02-23 |  |
 | [Massu](https://open.spotify.com/track/0TiLo5EdvgqhZTXndNfCeW) | [Franco](https://open.spotify.com/artist/5v8gMYxBo6dhVr0ktS8CX4), [Simaro](https://open.spotify.com/artist/6tJIwagoyyfDSs1Uz0RSiD), [Jolie Detta](https://open.spotify.com/artist/6rHzWSvDaEfYvWLJ3bjbon), [TPOK Jazz](https://open.spotify.com/artist/26oIizmJ4rFTYV3DLA0NdS) | [1986 \- 1987 \- 1988](https://open.spotify.com/album/5dJtCaCetrykGK0q1RpoBu) | 9:11 | 2021-01-16 |  |
+| [Maternité \(Bonus Track\)](https://open.spotify.com/track/3SosfRXL1CQ4kH4x5VtcBr) | [MAM](https://open.spotify.com/artist/3QVmmVYe4MFul8hYTAi2Z0) | [Look: Nederlands!](https://open.spotify.com/album/4LWS3nupiTbCRN7rGPV5Sw) | 4:32 | 2026-04-28 |  |
 | [Matrouhsh](https://open.spotify.com/track/0Uqv9WsK3zpN6YmjHZCvfv) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Matrouhsh](https://open.spotify.com/album/2f5x6mpKNLRD13lAX86BCf) | 5:59 | 2023-08-27 |  |
 | [Mavi Boncuk](https://open.spotify.com/track/69xtWpMzF2H3RonEjRpWXh) | [Emel Sayın](https://open.spotify.com/artist/7KVIZplHlqnvESsbuFQOnM) | [Başrolde](https://open.spotify.com/album/3W5OpY7osdI2xpeglVU6dI) | 3:03 | 2019-09-04 |  |
 | [Mayolye \- Nik Weston Official Mukatsuku Edit](https://open.spotify.com/track/1ZaLJ45e82J8hUFfcEI1w7) | [Ondeno](https://open.spotify.com/artist/3eWR8PiHtRFRTbvusT3aHm), [Nik Weston](https://open.spotify.com/artist/4jXyOGqK5jQXhf6Lx9KKHt) | [Mayolye](https://open.spotify.com/album/3ibxlikE2FxhfuFxfkirGv) | 5:26 | 2021-05-27 |  |
@@ -552,6 +554,7 @@
 | [No te aguanto más](https://open.spotify.com/track/1x8Hbu1mx6LHNVEdiyLrtw) | [Objetivo Birmania](https://open.spotify.com/artist/6d88kdF9N4XWda5sc2yzul) | [Tormenta A Las Diez](https://open.spotify.com/album/4043IeeEKdbTGbrSJNHlm0) | 3:38 | 2022-09-23 |  |
 | [Noche de Ronda](https://open.spotify.com/track/68wE8jzo7TjQVpuO0dovNR) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 3:18 | 2022-01-08 |  |
 | [Nomalizo](https://open.spotify.com/track/6gB3NJQ9dF5xoqUBKGX6Uz) | [Letta Mbulu](https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0) | [Greatest Hits](https://open.spotify.com/album/3lptmTh9SD224S4ZKKgCgv) | 5:08 | 2020-07-28 |  |
+| [NOON](https://open.spotify.com/track/6eARFQPz5wy27CnpTSByXx) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [CAN I SING?](https://open.spotify.com/album/5zJwFReaJObnoIeIpN4ciI) | 3:05 | 2026-04-28 |  |
 | [Nos Historia](https://open.spotify.com/track/0RE6esZU0heJ6dclUIU2cy) | [Amilcar Cabral](https://open.spotify.com/artist/26hbL3ffZ1MTBpi0GUzB5T) | [No Folclore Cabo Verdiano \(Cape Verde\)](https://open.spotify.com/album/6GW0fsLJVE4wd1vPOPGmkm) | 6:10 | 2023-02-19 |  |
 | [Nos Magia](https://open.spotify.com/track/3GgOexrjNxpgfevOirYrAS) | [Arp Frique](https://open.spotify.com/artist/2Rm5Fw56mWmB0Pz0JPcOyb), [Americo Brito](https://open.spotify.com/artist/6tPm41AO7hY1Z4ERznxJzT) | [Welcome To The Colorful World Of Arp Frique](https://open.spotify.com/album/3yLm0P8bsYQaEobF2hGRM7) | 3:32 | 2021-07-13 |  |
 | [Nosotros](https://open.spotify.com/track/5l2lkNFAnc1caHIuQLgvE7) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:44 | 2022-01-08 |  |
@@ -913,6 +916,7 @@
 | [死にませんが?](https://open.spotify.com/track/7shvz3T0nTrOtdt9G9y5qI) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [できれば愛を](https://open.spotify.com/album/3X5gFWP8oPzmi5E40vSvsd) | 4:03 | 2019-11-23 |  |
 | [海上划来一条船](https://open.spotify.com/track/3pGBGuan7FZdOKDju9sHNE) | [成方圆](https://open.spotify.com/artist/2kYb1XK8Xtntj3f3F4qog0) | [我告诉你](https://open.spotify.com/album/7hzyhe1qHo8RxNKOOkRChI) | 3:30 | 2020-05-02 |  |
 | [薔薇と野獣 \- New ver.](https://open.spotify.com/track/5IVQP4Z15i5sXFEIryGQpE) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [HOCHONO HOUSE](https://open.spotify.com/album/4ev1jnaai6e8LXrdYOgjwP) | 4:16 | 2019-11-23 |  |
+| [輕輕嘆](https://open.spotify.com/track/0n7bbgVj5ZgzkycZtMKkzk) | [Deanie Ip](https://open.spotify.com/artist/4fgSPILePGaLs90nNtal3X) | [星照夜空精選](https://open.spotify.com/album/1kErXVzF93PacIgKItch9X) | 3:33 | 2026-04-27 |  |
 | [그대와 단둘이서](https://open.spotify.com/track/2oI3jwkViwaERvhJ5JyCGJ) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 3집](https://open.spotify.com/album/2kdSTc3C8HDnhRYu2U2B1x) | 3:41 | 2022-10-31 |  |
 | [늦기전에](https://open.spotify.com/track/7EzA0tSoWKCpOCpFHw3jUF) | [KIM CHOO JA](https://open.spotify.com/artist/568Af2a3USDRQUXgYJnRKT) | [김추자 베스트 20](https://open.spotify.com/album/4FtLcx1wo35wEAFSCTwTRL) | 3:57 | 2020-07-28 |  |
 | [빗속의 여인](https://open.spotify.com/track/5jrao2ymEIlf6tYUtl2sYQ) | [장현](https://open.spotify.com/artist/5eqVocUofFgrA3MM3baRmH) | [장현 베스트](https://open.spotify.com/album/43oXa2TUXHJpUgMomZd7TX) | 2:25 | 2020-07-28 |  |

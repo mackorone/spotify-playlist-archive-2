@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover: Tony Boy",
-  "num_followers": 129386,
+  "num_followers": 129389,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -475,30 +475,6 @@
     {
       "added_at": "2026-04-24 07:44:21",
       "album": {
-        "name": "Going Hard 3",
-        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        },
-        {
-          "name": "Frah Quintale",
-          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 214588,
-      "name": "Non mi basta mai (feat. Frah Quintale, Capo Plaza)",
-      "url": "https://open.spotify.com/track/0HiHVL8iC1Z1kAjV6vZdIo"
-    },
-    {
-      "added_at": "2026-04-24 07:44:21",
-      "album": {
         "name": "M' Manc (con Geolier & Sfera Ebbasta)",
         "url": "https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm"
       },
@@ -519,6 +495,30 @@
       "duration_ms": 180000,
       "name": "M' Manc (con Geolier & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9"
+    },
+    {
+      "added_at": "2026-04-24 07:44:21",
+      "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Frah Quintale",
+          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 214588,
+      "name": "Non mi basta mai (feat. Frah Quintale, Capo Plaza)",
+      "url": "https://open.spotify.com/track/0HiHVL8iC1Z1kAjV6vZdIo"
     },
     {
       "added_at": "2026-04-24 07:44:21",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-04-24 07:44:21",
       "album": {
-        "name": "TRAUMA",
-        "url": "https://open.spotify.com/album/09xCJhx72yNShO44mjQgF9"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "Chicchi di caff\u00e8",
-      "url": "https://open.spotify.com/track/4fW3I4ROMQShlXGxdSQN42"
-    },
-    {
-      "added_at": "2026-04-24 07:44:21",
-      "album": {
         "name": "LA BELLAVITA",
         "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 169256,
       "name": "TU",
       "url": "https://open.spotify.com/track/5iQFM9o3ndzSMd8r5n11AU"
+    },
+    {
+      "added_at": "2026-04-24 07:44:21",
+      "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/09xCJhx72yNShO44mjQgF9"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "Chicchi di caff\u00e8",
+      "url": "https://open.spotify.com/track/4fW3I4ROMQShlXGxdSQN42"
     },
     {
       "added_at": "2026-04-24 07:44:21",
@@ -927,6 +927,26 @@
     {
       "added_at": "2026-04-24 07:44:21",
       "album": {
+        "name": "HOTEL MONTANA",
+        "url": "https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG"
+      },
+      "artists": [
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Kiss You (F**k You) [feat. Geolier]",
+      "url": "https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1"
+    },
+    {
+      "added_at": "2026-04-24 07:44:21",
+      "album": {
         "name": "Gi\u00f9",
         "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
       },
@@ -963,26 +983,6 @@
     {
       "added_at": "2026-04-24 07:44:21",
       "album": {
-        "name": "HOTEL MONTANA",
-        "url": "https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG"
-      },
-      "artists": [
-        {
-          "name": "Yung Snapp",
-          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Kiss You (F**k You) [feat. Geolier]",
-      "url": "https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1"
-    },
-    {
-      "added_at": "2026-04-24 07:44:21",
-      "album": {
         "name": "LE PAROLE CHE NON TI HO DETTO",
         "url": "https://open.spotify.com/album/15xgyu9TDje9YVbKwvillq"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 132000,
       "name": "LE PAROLE CHE NON TI HO DETTO",
       "url": "https://open.spotify.com/track/4lFkZOGYndTJt4uwThq3se"
+    },
+    {
+      "added_at": "2026-04-24 07:44:21",
+      "album": {
+        "name": "Emanuele",
+        "url": "https://open.spotify.com/album/0ezPP4vUJkMXitFq8oWxyl"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 185426,
+      "name": "Vogl Sul A Te",
+      "url": "https://open.spotify.com/track/4JajIgqHJAV0Neboj76fqG"
     },
     {
       "added_at": "2026-04-24 07:44:21",
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2026-04-24 07:44:21",
       "album": {
-        "name": "Emanuele",
-        "url": "https://open.spotify.com/album/0ezPP4vUJkMXitFq8oWxyl"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 185426,
-      "name": "Vogl Sul A Te",
-      "url": "https://open.spotify.com/track/4JajIgqHJAV0Neboj76fqG"
-    },
-    {
-      "added_at": "2026-04-24 07:44:21",
-      "album": {
         "name": "SOLO TUTTO",
         "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
       },
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-04-24 07:44:21",
       "album": {
-        "name": "PER SOLDI E PER AMORE",
-        "url": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 176584,
-      "name": "IL GIOCO DEL SILENZIO",
-      "url": "https://open.spotify.com/track/4d2d57V0NYORXRGylmLY7R"
-    },
-    {
-      "added_at": "2026-04-24 07:44:21",
-      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2026-04-24 07:44:21",
       "album": {
-        "name": "Il mio lato peggiore",
-        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+        "name": "PER SOLDI E PER AMORE",
+        "url": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y"
       },
       "artists": [
         {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
         }
       ],
-      "duration_ms": 223834,
-      "name": "Nessuna",
-      "url": "https://open.spotify.com/track/5bhYjElbPmm2FyB0PxP8Wd"
+      "duration_ms": 176584,
+      "name": "IL GIOCO DEL SILENZIO",
+      "url": "https://open.spotify.com/track/4d2d57V0NYORXRGylmLY7R"
     },
     {
       "added_at": "2026-04-24 07:44:21",
@@ -1167,22 +1151,18 @@
     {
       "added_at": "2026-04-24 07:44:21",
       "album": {
-        "name": "MORENDO AD OCCHI APERTI",
-        "url": "https://open.spotify.com/album/0FR8xNZ062P4lWYFLya43C"
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
       },
       "artists": [
         {
-          "name": "Promessa",
-          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
-        },
-        {
-          "name": "IDUA",
-          "url": "https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         }
       ],
-      "duration_ms": 152727,
-      "name": "9 FEBBRAIO",
-      "url": "https://open.spotify.com/track/5K8HIXj7NB8PPfvWeaeEc0"
+      "duration_ms": 223834,
+      "name": "Nessuna",
+      "url": "https://open.spotify.com/track/5bhYjElbPmm2FyB0PxP8Wd"
     },
     {
       "added_at": "2026-04-24 07:44:21",
@@ -1203,26 +1183,22 @@
     {
       "added_at": "2026-04-24 07:44:21",
       "album": {
-        "name": "Latte in Polvere",
-        "url": "https://open.spotify.com/album/1RjEbi0mbq9x7oUDMWq159"
+        "name": "MORENDO AD OCCHI APERTI",
+        "url": "https://open.spotify.com/album/0FR8xNZ062P4lWYFLya43C"
       },
       "artists": [
         {
-          "name": "Papa V",
-          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
         },
         {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        },
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+          "name": "IDUA",
+          "url": "https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof"
         }
       ],
-      "duration_ms": 145960,
-      "name": "Tu Mi Piaci (feat. Artie 5ive)",
-      "url": "https://open.spotify.com/track/5O5yM8JaaL0erqrP9h7bR2"
+      "duration_ms": 152727,
+      "name": "9 FEBBRAIO",
+      "url": "https://open.spotify.com/track/5K8HIXj7NB8PPfvWeaeEc0"
     },
     {
       "added_at": "2026-04-24 07:44:21",
@@ -1263,6 +1239,30 @@
       "duration_ms": 179210,
       "name": "Tu ed io (feat. thasup, Finesse)",
       "url": "https://open.spotify.com/track/4JFt4pwBLb2Zsy44QRBG88"
+    },
+    {
+      "added_at": "2026-04-24 07:44:21",
+      "album": {
+        "name": "Latte in Polvere",
+        "url": "https://open.spotify.com/album/1RjEbi0mbq9x7oUDMWq159"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 145960,
+      "name": "Tu Mi Piaci (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/5O5yM8JaaL0erqrP9h7bR2"
     },
     {
       "added_at": "2026-04-24 07:44:21",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-04-24 07:44:21",
       "album": {
-        "name": "SIRIO",
-        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 178051,
-      "name": "ALIBI",
-      "url": "https://open.spotify.com/track/1zfszqoisdKWCIfFToaMHi"
-    },
-    {
-      "added_at": "2026-04-24 07:44:21",
-      "album": {
         "name": "Tu mi Fai",
         "url": "https://open.spotify.com/album/2ZthohZoAlS5pJ0YBQHYcG"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 161657,
       "name": "Tu mi Fai",
       "url": "https://open.spotify.com/track/2D3FslngNUdbeynfwSecP0"
+    },
+    {
+      "added_at": "2026-04-24 07:44:21",
+      "album": {
+        "name": "SIRIO",
+        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 178051,
+      "name": "ALIBI",
+      "url": "https://open.spotify.com/track/1zfszqoisdKWCIfFToaMHi"
     },
     {
       "added_at": "2026-04-24 07:44:21",
@@ -1535,8 +1535,8 @@
     {
       "added_at": "2026-04-24 07:44:21",
       "album": {
-        "name": "Musica Triste",
-        "url": "https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN"
+        "name": "Mercurio",
+        "url": "https://open.spotify.com/album/3pXSt0UQJINOx5GP6NORLj"
       },
       "artists": [
         {
@@ -1544,9 +1544,9 @@
           "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
         }
       ],
-      "duration_ms": 184186,
-      "name": "SOGNI SPORCHI",
-      "url": "https://open.spotify.com/track/0TF3HpySQc7lV4tleKPFAY"
+      "duration_ms": 205720,
+      "name": "Soli (Assieme)",
+      "url": "https://open.spotify.com/track/2opjdnFzcgsp5wt8IYj8oN"
     },
     {
       "added_at": "2026-04-24 07:44:21",

@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Agnes Nunes",
-  "num_followers": 435188,
+  "num_followers": 435172,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-04-24 20:18:33",
       "album": {
-        "name": "O que \u00e9 amar?",
-        "url": "https://open.spotify.com/album/6ix2yOXCFignb31HY3YeUV"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        }
-      ],
-      "duration_ms": 212541,
-      "name": "O que \u00e9 amar?",
-      "url": "https://open.spotify.com/track/1Wkd4yWRVcAGjohl81ngYt"
-    },
-    {
-      "added_at": "2026-04-24 20:18:33",
-      "album": {
         "name": "Emaranhei",
         "url": "https://open.spotify.com/album/75Q84Fp94DPjOYcxTtKUTR"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 171692,
       "name": "Emaranhei",
       "url": "https://open.spotify.com/track/4cN88WMuH5CAVg6YhnBCIP"
+    },
+    {
+      "added_at": "2026-04-24 20:18:33",
+      "album": {
+        "name": "O que \u00e9 amar?",
+        "url": "https://open.spotify.com/album/6ix2yOXCFignb31HY3YeUV"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "duration_ms": 212541,
+      "name": "O que \u00e9 amar?",
+      "url": "https://open.spotify.com/track/1Wkd4yWRVcAGjohl81ngYt"
     },
     {
       "added_at": "2026-04-24 20:18:33",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-04-24 20:18:33",
       "album": {
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
+    },
+    {
+      "added_at": "2026-04-24 20:18:33",
+      "album": {
         "name": "Enquanto os Distra\u00eddos Amam",
         "url": "https://open.spotify.com/album/3N4OoUAXeAcFFib8lcxll9"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 168097,
       "name": "Amor Inteiro",
       "url": "https://open.spotify.com/track/7mD5TzCDcGgm2yDbfECu7t"
-    },
-    {
-      "added_at": "2026-04-24 20:18:33",
-      "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-04-24 20:18:33",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-04-24 20:18:33",
       "album": {
-        "name": "Manh\u00e3 de Sol",
-        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Manh\u00e3 de Sol",
-      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
-    },
-    {
-      "added_at": "2026-04-24 20:18:33",
-      "album": {
         "name": "Raio de Sol",
         "url": "https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp"
       },
@@ -655,6 +639,22 @@
     {
       "added_at": "2026-04-24 20:18:33",
       "album": {
+        "name": "Manh\u00e3 de Sol",
+        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Manh\u00e3 de Sol",
+      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
+    },
+    {
+      "added_at": "2026-04-24 20:18:33",
+      "album": {
         "name": "no seu tempo",
         "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 158922,
       "name": "no seu tempo",
       "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
-    },
-    {
-      "added_at": "2026-04-24 20:18:33",
-      "album": {
-        "name": "MINHA J\u00d3IA",
-        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        }
-      ],
-      "duration_ms": 221961,
-      "name": "MINHA J\u00d3IA",
-      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
     },
     {
       "added_at": "2026-04-24 20:18:33",
@@ -703,6 +687,22 @@
       "duration_ms": 145306,
       "name": "Fica De Dengo",
       "url": "https://open.spotify.com/track/7uADts4eeQrXABdaueoNrx"
+    },
+    {
+      "added_at": "2026-04-24 20:18:33",
+      "album": {
+        "name": "MINHA J\u00d3IA",
+        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        }
+      ],
+      "duration_ms": 221961,
+      "name": "MINHA J\u00d3IA",
+      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
     },
     {
       "added_at": "2026-04-24 20:18:33",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-04-24 20:18:33",
       "album": {
-        "name": "sofrer por voc\u00ea",
-        "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 174139,
-      "name": "sofrer por voc\u00ea",
-      "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
-    },
-    {
-      "added_at": "2026-04-24 20:18:33",
-      "album": {
         "name": "Intimidade",
         "url": "https://open.spotify.com/album/2ZbZTUDInvYRtNH51sWomj"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 179541,
       "name": "Intimidade",
       "url": "https://open.spotify.com/track/0sn0gJGcSzdDSHuNUkRFlm"
+    },
+    {
+      "added_at": "2026-04-24 20:18:33",
+      "album": {
+        "name": "sofrer por voc\u00ea",
+        "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 174139,
+      "name": "sofrer por voc\u00ea",
+      "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
     },
     {
       "added_at": "2026-04-24 20:18:33",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-04-24 20:18:33",
       "album": {
-        "name": "C\u00e9u Rosa",
-        "url": "https://open.spotify.com/album/3MUN2uBzh5zB1REgdFZInK"
-      },
-      "artists": [
-        {
-          "name": "Luana Berti",
-          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
-        }
-      ],
-      "duration_ms": 150383,
-      "name": "C\u00e9u Rosa",
-      "url": "https://open.spotify.com/track/4LnFAmujdsNMroW3qwmTeN"
-    },
-    {
-      "added_at": "2026-04-24 20:18:33",
-      "album": {
         "name": "Aventura",
         "url": "https://open.spotify.com/album/6lL0eADSuVdFVOJU1MqnUj"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 164522,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/4QGKXCioYPLw98pJ8Tmoi6"
+    },
+    {
+      "added_at": "2026-04-24 20:18:33",
+      "album": {
+        "name": "C\u00e9u Rosa",
+        "url": "https://open.spotify.com/album/3MUN2uBzh5zB1REgdFZInK"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        }
+      ],
+      "duration_ms": 150383,
+      "name": "C\u00e9u Rosa",
+      "url": "https://open.spotify.com/track/4LnFAmujdsNMroW3qwmTeN"
     },
     {
       "added_at": "2026-04-24 20:18:33",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-04-24 20:18:33",
       "album": {
-        "name": "Meu Corpo Pede",
-        "url": "https://open.spotify.com/album/6GyMWHsdiT8h6G6olgh1Iu"
-      },
-      "artists": [
-        {
-          "name": "Estev\u00e3o F\u00e9lix",
-          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
-        }
-      ],
-      "duration_ms": 173365,
-      "name": "Meu corpo pede",
-      "url": "https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u"
-    },
-    {
-      "added_at": "2026-04-24 20:18:33",
-      "album": {
         "name": "MACIA BAHIA",
         "url": "https://open.spotify.com/album/2izmFvNA5URpZJ7eiAm1ac"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 178348,
       "name": "MACIA BAHIA",
       "url": "https://open.spotify.com/track/0KPEzIU5YmI3vG1iC8gKIT"
+    },
+    {
+      "added_at": "2026-04-24 20:18:33",
+      "album": {
+        "name": "Meu Corpo Pede",
+        "url": "https://open.spotify.com/album/6GyMWHsdiT8h6G6olgh1Iu"
+      },
+      "artists": [
+        {
+          "name": "Estev\u00e3o F\u00e9lix",
+          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
+        }
+      ],
+      "duration_ms": 173365,
+      "name": "Meu corpo pede",
+      "url": "https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u"
     },
     {
       "added_at": "2026-04-24 20:18:33",

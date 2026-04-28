@@ -3874,7 +3874,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 185440,
       "name": "DUH!",
       "url": "https://open.spotify.com/track/6Ts5zvNORCcfLG7K5etvuA"
@@ -5316,6 +5316,24 @@
       "duration_ms": 207053,
       "name": "Glitch Mode",
       "url": "https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm"
+    },
+    {
+      "album": {
+        "name": "Glow - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0ynqAxPR0GtSUMf1uMWFIT"
+      },
+      "artists": [
+        {
+          "name": "XngHan&Xoul",
+          "url": "https://open.spotify.com/artist/4nhoBfffvyboGLLrIsP2lb"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/0Tb03kTDMdEl0a4QEtvKuQ"
     },
     {
       "album": {
@@ -9065,6 +9083,24 @@
     },
     {
       "album": {
+        "name": "Mmchk",
+        "url": "https://open.spotify.com/album/71X6uVcs0JOlENKqx5k2dO"
+      },
+      "artists": [
+        {
+          "name": "NEXZ",
+          "url": "https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158813,
+      "name": "Mmchk",
+      "url": "https://open.spotify.com/track/0ASTfHpDkFpD4aWqj9T5F6"
+    },
+    {
+      "album": {
         "name": "THE FIRST STEP : CHAPTER THREE",
         "url": "https://open.spotify.com/album/3dfrKjXXIsZ8ftwen5v40w"
       },
@@ -10578,7 +10614,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 150470,
       "name": "POSE",
       "url": "https://open.spotify.com/track/7LRaCfIHEdDSdDJkTO2l2A"
@@ -15253,6 +15289,24 @@
     },
     {
       "album": {
+        "name": "TWS 5th Mini Album \u2018NO TRAGEDY\u2019",
+        "url": "https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "You, You",
+      "url": "https://open.spotify.com/track/2X9RbCpuBRR6ztXn83AK5U"
+    },
+    {
+      "album": {
         "name": "YOUNG & LOUD",
         "url": "https://open.spotify.com/album/7qDi4wRQ15BfoZ5ovlaQbX"
       },
@@ -15504,7 +15558,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 168026,
       "name": "\uc0ac\ub791\ubcd1\ub3d9 Highs and Lows",
       "url": "https://open.spotify.com/track/2fzdKqLRPuCHd6SUI6ypJY"

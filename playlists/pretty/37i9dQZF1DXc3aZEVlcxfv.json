@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 21379,
+  "num_followers": 21385,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/4jRaM74PxaKqtnjfT8Ba01"
     },
     {
-      "added_at": "2024-09-30 14:25:52",
-      "album": {
-        "name": "Names of God",
-        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 511207,
-      "name": "Adonai",
-      "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
-    },
-    {
       "added_at": "2026-02-20 00:01:25",
       "album": {
         "name": "Your Love II",
@@ -803,6 +787,22 @@
       "duration_ms": 220235,
       "name": "Your Love II",
       "url": "https://open.spotify.com/track/1sc1pQKdOvTJfNAcqci9Xv"
+    },
+    {
+      "added_at": "2024-09-30 14:25:52",
+      "album": {
+        "name": "Names of God",
+        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 511207,
+      "name": "Adonai",
+      "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
     },
     {
       "added_at": "2026-02-20 00:01:25",
@@ -825,26 +825,6 @@
       "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"
     },
     {
-      "added_at": "2026-03-20 00:01:38",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/6keem9E7SyTfokxcZozuB3"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
-        },
-        {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/1CEJTnMr4DoPrYvbNbdAmS"
-    },
-    {
       "added_at": "2025-10-17 00:01:26",
       "album": {
         "name": "Benefit",
@@ -863,6 +843,22 @@
       "duration_ms": 419027,
       "name": "Benefit",
       "url": "https://open.spotify.com/track/36sznNt2BniOB8BWYpWYmP"
+    },
+    {
+      "added_at": "2026-01-30 00:01:25",
+      "album": {
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/4JcVpJAsnqCcif2idBqpVY"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 149906,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/61PIo9nn1kF5hhRoAAanEF"
     },
     {
       "added_at": "2025-02-28 00:01:33",
@@ -885,20 +881,24 @@
       "url": "https://open.spotify.com/track/1hhgSr6jl97R9znizeUrM0"
     },
     {
-      "added_at": "2026-01-30 00:01:25",
+      "added_at": "2026-03-20 00:01:38",
       "album": {
-        "name": "JOY",
-        "url": "https://open.spotify.com/album/4JcVpJAsnqCcif2idBqpVY"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/6keem9E7SyTfokxcZozuB3"
       },
       "artists": [
         {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
         }
       ],
-      "duration_ms": 149906,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/61PIo9nn1kF5hhRoAAanEF"
+      "duration_ms": 133333,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1CEJTnMr4DoPrYvbNbdAmS"
     },
     {
       "added_at": "2026-03-06 00:01:07",
@@ -1001,38 +1001,6 @@
       "url": "https://open.spotify.com/track/4X0PisJrHln2RXT72UYXGR"
     },
     {
-      "added_at": "2026-03-13 00:01:18",
-      "album": {
-        "name": "Your Name (Jehovah)",
-        "url": "https://open.spotify.com/album/3pGUVEyrGU4ZdOsV4K7DRX"
-      },
-      "artists": [
-        {
-          "name": "Sarah Wonders",
-          "url": "https://open.spotify.com/artist/2bOXO4BvexpbMOFjEAxddo"
-        }
-      ],
-      "duration_ms": 261600,
-      "name": "Your Name (Jehovah)",
-      "url": "https://open.spotify.com/track/1aXDzj3j8C7vz5hlSUgUWZ"
-    },
-    {
-      "added_at": "2026-04-10 00:01:38",
-      "album": {
-        "name": "Yielded",
-        "url": "https://open.spotify.com/album/7qr1dZ2t1xVpv8vcgotE5D"
-      },
-      "artists": [
-        {
-          "name": "Peterson Okopi",
-          "url": "https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz"
-        }
-      ],
-      "duration_ms": 446730,
-      "name": "Enough for Me",
-      "url": "https://open.spotify.com/track/0GRCnJ6SC7BKP2GfNt0SkQ"
-    },
-    {
       "added_at": "2026-04-17 00:01:26",
       "album": {
         "name": "Wait On You",
@@ -1053,6 +1021,38 @@
       "url": "https://open.spotify.com/track/7yErAxvmSIVzWb0BFH0U4n"
     },
     {
+      "added_at": "2026-04-10 00:01:38",
+      "album": {
+        "name": "Yielded",
+        "url": "https://open.spotify.com/album/7qr1dZ2t1xVpv8vcgotE5D"
+      },
+      "artists": [
+        {
+          "name": "Peterson Okopi",
+          "url": "https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz"
+        }
+      ],
+      "duration_ms": 446730,
+      "name": "Enough for Me",
+      "url": "https://open.spotify.com/track/0GRCnJ6SC7BKP2GfNt0SkQ"
+    },
+    {
+      "added_at": "2026-03-13 00:01:18",
+      "album": {
+        "name": "Your Name (Jehovah)",
+        "url": "https://open.spotify.com/album/3pGUVEyrGU4ZdOsV4K7DRX"
+      },
+      "artists": [
+        {
+          "name": "Sarah Wonders",
+          "url": "https://open.spotify.com/artist/2bOXO4BvexpbMOFjEAxddo"
+        }
+      ],
+      "duration_ms": 261600,
+      "name": "Your Name (Jehovah)",
+      "url": "https://open.spotify.com/track/1aXDzj3j8C7vz5hlSUgUWZ"
+    },
+    {
       "added_at": "2026-03-13 00:01:18",
       "album": {
         "name": "Miracle Walking (Radio Edit)",
@@ -1067,6 +1067,30 @@
       "duration_ms": 217333,
       "name": "Miracle Walking - Radio Edit",
       "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
+    },
+    {
+      "added_at": "2026-04-24 00:01:08",
+      "album": {
+        "name": "My Elshaddai",
+        "url": "https://open.spotify.com/album/38CdwH27OsQF185txvPw1z"
+      },
+      "artists": [
+        {
+          "name": "Evans Ogboi",
+          "url": "https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0"
+        },
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        },
+        {
+          "name": "Purist Ogboi",
+          "url": "https://open.spotify.com/artist/4XDbxHH7eeR8BTf0OnkMvE"
+        }
+      ],
+      "duration_ms": 276083,
+      "name": "My Elshaddai",
+      "url": "https://open.spotify.com/track/7z81J8HgIVSpyeF2996zDy"
     },
     {
       "added_at": "2026-03-13 00:01:18",
@@ -1105,22 +1129,6 @@
       "url": "https://open.spotify.com/track/1SWHsd94dvBz0FTTZCUP2G"
     },
     {
-      "added_at": "2026-03-27 00:01:13",
-      "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/3nt3ueERVM16Vgrc7whDDM"
-      },
-      "artists": [
-        {
-          "name": "Brenique Adams",
-          "url": "https://open.spotify.com/artist/3HiexeKs4pF7jho1Oaay8a"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Doer of Your Word",
-      "url": "https://open.spotify.com/track/6m6U03At6TApfJSV6EFlH6"
-    },
-    {
       "added_at": "2026-03-06 00:01:07",
       "album": {
         "name": "Overflow",
@@ -1139,6 +1147,22 @@
       "duration_ms": 130285,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/3tlvLZKwCJ5OHGqnWzroLt"
+    },
+    {
+      "added_at": "2026-03-27 00:01:13",
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/3nt3ueERVM16Vgrc7whDDM"
+      },
+      "artists": [
+        {
+          "name": "Brenique Adams",
+          "url": "https://open.spotify.com/artist/3HiexeKs4pF7jho1Oaay8a"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Doer of Your Word",
+      "url": "https://open.spotify.com/track/6m6U03At6TApfJSV6EFlH6"
     },
     {
       "added_at": "2026-03-13 00:01:18",
@@ -1245,6 +1269,22 @@
       "url": "https://open.spotify.com/track/1FBv0lVe3a99N6tlaqxTA3"
     },
     {
+      "added_at": "2025-11-28 00:01:15",
+      "album": {
+        "name": "Rooted",
+        "url": "https://open.spotify.com/album/7nO3M1Sty4NSZVpW4b2p1A"
+      },
+      "artists": [
+        {
+          "name": "BunjoVille Ug",
+          "url": "https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT"
+        }
+      ],
+      "duration_ms": 312407,
+      "name": "Rooted",
+      "url": "https://open.spotify.com/track/06T6Pl96e1I83rtCFJYah9"
+    },
+    {
       "added_at": "2026-03-20 00:01:38",
       "album": {
         "name": "Orun Si",
@@ -1283,22 +1323,6 @@
       "duration_ms": 443614,
       "name": "Lifter Of Men - Higher",
       "url": "https://open.spotify.com/track/01m5OjBL4EFhWWd14nC6aZ"
-    },
-    {
-      "added_at": "2025-11-28 00:01:15",
-      "album": {
-        "name": "Rooted",
-        "url": "https://open.spotify.com/album/7nO3M1Sty4NSZVpW4b2p1A"
-      },
-      "artists": [
-        {
-          "name": "BunjoVille Ug",
-          "url": "https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT"
-        }
-      ],
-      "duration_ms": 312407,
-      "name": "Rooted",
-      "url": "https://open.spotify.com/track/06T6Pl96e1I83rtCFJYah9"
     },
     {
       "added_at": "2026-03-06 00:01:07",
@@ -1401,6 +1425,22 @@
       "url": "https://open.spotify.com/track/3Gs6YU18uwHoN72sMVJxI8"
     },
     {
+      "added_at": "2026-04-24 00:01:08",
+      "album": {
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "duration_ms": 147452,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
+    },
+    {
       "added_at": "2026-04-10 00:01:38",
       "album": {
         "name": "PHEZULU",
@@ -1441,6 +1481,22 @@
       "url": "https://open.spotify.com/track/6CMNOeLoFrtoLJ0tOyqjD4"
     },
     {
+      "added_at": "2026-04-17 00:01:26",
+      "album": {
+        "name": "Like Fire",
+        "url": "https://open.spotify.com/album/3hVb3G3HXrhCY0KgIV6YCu"
+      },
+      "artists": [
+        {
+          "name": "Danad",
+          "url": "https://open.spotify.com/artist/1Uu4BnExPhV44clNfpOh2J"
+        }
+      ],
+      "duration_ms": 149454,
+      "name": "Like Fire",
+      "url": "https://open.spotify.com/track/5zdpJyBSFvecdK7Zt5QaMb"
+    },
+    {
       "added_at": "2026-03-02 12:03:39",
       "album": {
         "name": "Jesu Ni",
@@ -1475,62 +1531,6 @@
       "duration_ms": 267679,
       "name": "UZWAZO ME",
       "url": "https://open.spotify.com/track/2QnLiyTitKVp7HUJTewKwz"
-    },
-    {
-      "added_at": "2026-04-17 00:01:26",
-      "album": {
-        "name": "Like Fire",
-        "url": "https://open.spotify.com/album/3hVb3G3HXrhCY0KgIV6YCu"
-      },
-      "artists": [
-        {
-          "name": "Danad",
-          "url": "https://open.spotify.com/artist/1Uu4BnExPhV44clNfpOh2J"
-        }
-      ],
-      "duration_ms": 149454,
-      "name": "Like Fire",
-      "url": "https://open.spotify.com/track/5zdpJyBSFvecdK7Zt5QaMb"
-    },
-    {
-      "added_at": "2026-01-09 00:01:29",
-      "album": {
-        "name": "He Will Provide",
-        "url": "https://open.spotify.com/album/4uMDmd8DPzOkSKMP3CgBuo"
-      },
-      "artists": [
-        {
-          "name": "Daniel Ojo",
-          "url": "https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r"
-        },
-        {
-          "name": "David Dam",
-          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
-        }
-      ],
-      "duration_ms": 356901,
-      "name": "He Will Provide",
-      "url": "https://open.spotify.com/track/6Ej9JXSMgBATGtAwQq3HTb"
-    },
-    {
-      "added_at": "2026-02-06 00:01:26",
-      "album": {
-        "name": "YAHWEH",
-        "url": "https://open.spotify.com/album/7mDWa4ymMUOUCXDv7pP5cR"
-      },
-      "artists": [
-        {
-          "name": "Gideon MOG",
-          "url": "https://open.spotify.com/artist/0tHJJtTUpS1MyDCVAeMiO6"
-        },
-        {
-          "name": "Chuks Paschal",
-          "url": "https://open.spotify.com/artist/3pUYC0FslPFdR87XdMggxE"
-        }
-      ],
-      "duration_ms": 188837,
-      "name": "YAHWEH",
-      "url": "https://open.spotify.com/track/5kcDXI5RsSfsM7HJCuOA74"
     }
   ],
   "unique_name": "Blessed",

@@ -3150,7 +3150,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 182000,
       "name": "cari\u00f1o",
       "url": "https://open.spotify.com/track/4R8grinJeW7qnUxpoMx3CI"
@@ -13266,6 +13266,24 @@
       "duration_ms": 165000,
       "name": "Necesito Que Me Arranques De Ti",
       "url": "https://open.spotify.com/track/3Vf0KIbzv9tky7AUO9iPX1"
+    },
+    {
+      "album": {
+        "name": "Necio",
+        "url": "https://open.spotify.com/album/1bHQO3Jsfu7jV3PgdPRaQ0"
+      },
+      "artists": [
+        {
+          "name": "Andy Daze",
+          "url": "https://open.spotify.com/artist/3C9RghNMHKFDn4fxrOrrW8"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261809,
+      "name": "Necio",
+      "url": "https://open.spotify.com/track/0Amrqle3uLQh6daz8it0G6"
     },
     {
       "album": {

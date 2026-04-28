@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Rhineland, The Wild Wind, Laureline and more
+> With Rhineland, The Wild Wind, VICTORS and more
 
 1,438 songs - 3 day 20 hr 11 min
 
@@ -91,7 +91,7 @@
 | [Always You](https://open.spotify.com/track/1a9SCQmc4Eq4uwAVOfktIZ) | [Dave Thomas Junior](https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7) | [Always You](https://open.spotify.com/album/5zJk9EXxxTl8teh253lDld) | 4:19 | 2022-06-03 | 2023-07-04 |
 | [Amelia, Virginia](https://open.spotify.com/track/2hN8eyxucCwGP81xHupSrQ) | [Rhineland](https://open.spotify.com/artist/4vMdQrvTXjEPjscJjTnp0a) | [Amelia, Virginia](https://open.spotify.com/album/6MGOE5K6dZ4BMyE8JQKqZC) | 3:05 | 2025-06-30 | 2025-07-01 |
 | [American Dream](https://open.spotify.com/track/0M8fDs18QIQTM2zWb62zdD) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [American Dream](https://open.spotify.com/album/0iwsBgZZ0btY4CDOTpZfAk) | 3:24 | 2024-10-02 | 2024-10-07 |
-| [American Dream](https://open.spotify.com/track/6u1HWxWAVGYb3FDkyMeLsy) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [A Dream Through Open Eyes](https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ) | 3:24 | 2024-10-27 | 2026-04-25 |
+| [American Dream](https://open.spotify.com/track/6u1HWxWAVGYb3FDkyMeLsy) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [A Dream Through Open Eyes](https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ) | 3:24 | 2024-10-27 |  |
 | [American Dream Come True](https://open.spotify.com/track/516H4IMc7VwxkoThXrbXT1) | [Young Mister](https://open.spotify.com/artist/4NuiDXtUaaclXGNEPQYBBx) | [Young Mister](https://open.spotify.com/album/0S5aw61RjWIoRCeeDuPdp4) | 3:19 | 2022-04-01 | 2022-11-12 |
 | [American Sweetheart](https://open.spotify.com/track/2egkOSoVtJdIEJfcf6VAQD) | [Allan Miles](https://open.spotify.com/artist/0m836cYaaRUTZejijONnAO) | [American Sweetheart](https://open.spotify.com/album/5x01fcoPcmOA5tUdLtTjD6) | 3:39 | 2022-05-20 | 2022-06-18 |
 | [Anew](https://open.spotify.com/track/1irbTMG2ULyD9mmr3fpSk5) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Moments](https://open.spotify.com/album/1AdV0dbxTNI6ihLCJYyE96) | 5:13 | 2022-10-10 | 2024-04-11 |
@@ -486,7 +486,7 @@
 | [Get You Out](https://open.spotify.com/track/3fdSUF8i5E6rWIqBjNqJ6F) | [Antigon](https://open.spotify.com/artist/3YPPVZi2rGfFGvd0YS5nwA) | [Get You Out](https://open.spotify.com/album/4pCLAH44OAcqoMC0Pq26N4) | 3:12 | 2022-04-13 | 2022-04-14 |
 | [Ghost](https://open.spotify.com/track/1VYXQ5Zi9M9bhDOi91hcAu) | [By The Coast](https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm) | [Ghost](https://open.spotify.com/album/3d8K4PoodSlqGcQxq21s2x) | 4:10 | 2022-05-03 | 2022-05-04 |
 | [Ghost Hotel](https://open.spotify.com/track/2K3GO3EUiNtMEgvbBlU9MU) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Night Traveler, Vol\. 1](https://open.spotify.com/album/3vUaX4cWihJEy1WxjLMQL6) | 3:39 | 2021-12-01\* | 2024-04-26 |
-| [Ghost Hotel](https://open.spotify.com/track/6Bgy71MzE99kjyqWRKWpKh) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Night Traveler, Vol\. 1](https://open.spotify.com/album/1PqJtKKARY9XSoR9527Teu) | 3:39 | 2024-04-27 |  |
+| [Ghost Hotel](https://open.spotify.com/track/6Bgy71MzE99kjyqWRKWpKh) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Night Traveler, Vol\. 1](https://open.spotify.com/album/1PqJtKKARY9XSoR9527Teu) | 3:39 | 2024-04-27 | 2026-04-28 |
 | [Ghosts of my Hometown](https://open.spotify.com/track/0pKYQ2U4RnhIKS2gz2KFi3) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [Faint of Heart](https://open.spotify.com/album/3Sm362TyQy9CmZ1DVhmlYF) | 3:33 | 2021-12-07 | 2022-03-02 |
 | [Girl, Say](https://open.spotify.com/track/2YMVlnf2RsgVrQpi2g6KWI) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Girl, Say](https://open.spotify.com/album/56xuqlRm2ssGeFIwrsHCJY) | 4:02 | 2022-04-30 | 2024-04-15 |
 | [Girl, Say](https://open.spotify.com/track/4inpAv8q2lf5PNyUcGEgxf) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Girl, Say](https://open.spotify.com/album/6OULq1kw253Md9qTBy2f4W) | 4:02 | 2022-04-16 | 2022-04-17 |
@@ -548,7 +548,7 @@
 | [Hey Carolina](https://open.spotify.com/track/5O46BpWmJNF6HL3sowDLuj) | [Yøuth](https://open.spotify.com/artist/26fAgSvQl82rjfl9yP4uqH) | [Blame](https://open.spotify.com/album/4izScx5MWR1sWCIo0gm6au) | 3:50 | 2022-03-09 | 2022-10-05 |
 | [Hey Virginia](https://open.spotify.com/track/3uM990IarzbCmalKV5LAOH) | [Dudl3y](https://open.spotify.com/artist/428WsCPZce3b6nn7qpkaqV) | [Uppers & Downers](https://open.spotify.com/album/6AoNQGAKuMBMdOaPqB7XcC) | 3:57 | 2022-04-03 | 2022-04-07 |
 | [hey, u up?](https://open.spotify.com/track/1QrSb4jtviL0fLxIW13fSa) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [III](https://open.spotify.com/album/1R5Dyfrb7j6YpOu23jaGkB) | 4:12 | 2022-10-12 | 2022-10-15 |
-| [hey, u up?](https://open.spotify.com/track/26tfWIJV39o1MXBnGCqKt1) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [III](https://open.spotify.com/album/2uo26B9q3QJwI6ihiQDJvm) | 4:12 | 2024-04-19 | 2026-04-27 |
+| [hey, u up?](https://open.spotify.com/track/26tfWIJV39o1MXBnGCqKt1) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [III](https://open.spotify.com/album/2uo26B9q3QJwI6ihiQDJvm) | 4:12 | 2024-04-19 |  |
 | [Hi G](https://open.spotify.com/track/4J9zX5SEL4GBnoOeHyT4FP) | [Neova](https://open.spotify.com/artist/79yIl5eBPMfpjUZ63gkAXP) | [Hi G](https://open.spotify.com/album/5zcN7uV1PnPsGpnbma5lNP) | 4:33 | 2022-04-29 | 2022-11-11 |
 | [High School](https://open.spotify.com/track/5LpcRat8db3T8rMGVqiK5N) | [90's Kids](https://open.spotify.com/artist/6vPr4VCSFC3nJMw0mEBsn0) | [High School](https://open.spotify.com/album/2oDQfsKmIBMesRkJOQWhHY) | 3:00 | 2021-12-01\* | 2022-03-03 |
 | [HLYTW](https://open.spotify.com/track/4wbe7z56dPMnPr36yCWkG2) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [HLYTW](https://open.spotify.com/album/5jqnnvVT2ETofdjd0qD7mz) | 3:03 | 2024-11-12 | 2024-11-22 |
@@ -712,7 +712,7 @@
 | [Killer](https://open.spotify.com/track/42I9tq6REnLRlb92sSQg5m) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Dreams You Don't Forget](https://open.spotify.com/album/3PJe5CI9HcvQaQtDvCZmS4) | 5:18 | 2021-12-01\* | 2024-04-15 |
 | [King of Nowhere](https://open.spotify.com/track/4J3qOMsP5dhswUWKa0tAxy) | [The Dirty Habit](https://open.spotify.com/artist/07r7yw9PnFUA9h57AhQMes) | [King of Nowhere](https://open.spotify.com/album/6Uzbcd2L9LRIb2cLrDvyin) | 3:33 | 2022-05-19 | 2022-06-10 |
 | [Kiss Me, Kill Me](https://open.spotify.com/track/3qNUnRoxy02gAbBaQQUsEN) | [La Bouquet](https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs), [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7) | [Heavy Sunshine](https://open.spotify.com/album/3JRMAxyr1L8YEACfr9nQ34) | 4:06 | 2021-12-01\* | 2024-04-19 |
-| [Kissing Slowly](https://open.spotify.com/track/0lwvhzjVdByuRWMz2f7Sfl) | [Recent Rumors](https://open.spotify.com/artist/4qdxWWLnahrzUknTg3uPQn) | [Heart Baby](https://open.spotify.com/album/5Hub95rVF5waxlr8LWgTFq) | 3:06 | 2022-03-12 |  |
+| [Kissing Slowly](https://open.spotify.com/track/0lwvhzjVdByuRWMz2f7Sfl) | [Recent Rumors](https://open.spotify.com/artist/4qdxWWLnahrzUknTg3uPQn) | [Heart Baby](https://open.spotify.com/album/5Hub95rVF5waxlr8LWgTFq) | 3:06 | 2022-03-12 | 2026-04-28 |
 | [Kitchen Floor](https://open.spotify.com/track/3BNwveuNuiiBgQOjhEdxio) | [All the Rest](https://open.spotify.com/artist/0jPw7eDzfyS83287e4nrDf) | [Kitchen Floor](https://open.spotify.com/album/4TwcdzZNqe5PdZxSDkskge) | 3:51 | 2024-03-28 | 2024-03-29 |
 | [Know Me](https://open.spotify.com/track/1j3O7s4DjSNPHUoMZBFJs3) | [Eighty Ninety](https://open.spotify.com/artist/3Fg3y3Gx6hwdzb9sEOWHEW) | [The Night Sky](https://open.spotify.com/album/1HwEQlbpwLc25ii4RYswAq) | 2:57 | 2022-08-05 | 2022-08-06 |
 | [Know Your Heart](https://open.spotify.com/track/49jXLsbAFrLA5iEzUpxpzF) | [Wanderer](https://open.spotify.com/artist/4wRTp2nXTcEpbJy9MQh0GX) | [Songs for the Night](https://open.spotify.com/album/60Xwl0rRChGO4lmgCtlEeT) | 4:11 | 2022-03-15 | 2022-09-13 |
@@ -781,7 +781,7 @@
 | [Love Is Complicated](https://open.spotify.com/track/6dQg3OLEiASbxmN0p5ryid) | [Drive!Drive!](https://open.spotify.com/artist/2MMiWw6zFACcD3LhbZktKb) | [Love is Complicated](https://open.spotify.com/album/6Tfulm7bKzePnNBUZrzGRt) | 2:43 | 2022-06-12 | 2024-02-20 |
 | [love is so hard!](https://open.spotify.com/track/0Yu6DQYBpvztT117wT37aR) | [The Millennial Club](https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H) | [love is so hard!](https://open.spotify.com/album/5AHsddOw41Op3yc0Q3Fzv9) | 4:27 | 2021-12-04 | 2022-06-29 |
 | [Love Like You Care](https://open.spotify.com/track/06SkmyDvn2fg85eCWL6zXn) | [Perlo](https://open.spotify.com/artist/7HoyQiwbj67vedZeOSFQSJ) | [Day by Day](https://open.spotify.com/album/3qq5vTW7xGBgSD9YHrc84B) | 3:13 | 2021-12-21 | 2022-10-08 |
-| [Love Nobody Else](https://open.spotify.com/track/7tVFTOxeUuuxrmiyTfazde) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Hotspot](https://open.spotify.com/album/1FsDnLmWzOKywQlZv45GPX) | 4:19 | 2024-11-04 | 2026-04-25 |
+| [Love Nobody Else](https://open.spotify.com/track/7tVFTOxeUuuxrmiyTfazde) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Hotspot](https://open.spotify.com/album/1FsDnLmWzOKywQlZv45GPX) | 4:19 | 2024-11-04 |  |
 | [Love Somebody](https://open.spotify.com/track/0X6bCalV2gGsvj53F9VdTb) | [The Catalina](https://open.spotify.com/artist/28QCTLI7HSNPNm6b217Pjj) | [Love Somebody](https://open.spotify.com/album/05igczQwZbM4wL5f9lT5ng) | 3:41 | 2022-03-15 | 2023-11-11 |
 | [Love Somebody](https://open.spotify.com/track/0NAFffKymnvpwgj6spex4Z) | [The Motion Epic](https://open.spotify.com/artist/2maV9w4OlFpfWlMX3URDuN) | [Boardwalk Arcadia](https://open.spotify.com/album/1zKFKJPx8NIYkhAcQMWC1h) | 4:07 | 2022-05-11 | 2022-10-17 |
 | [love somebody like you](https://open.spotify.com/track/0ltO5bci13M68sTnEctBxR) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [love somebody like you](https://open.spotify.com/album/13NYDkzyuRQC8aQLCcyl54) | 3:47 | 2022-02-19 | 2022-10-17 |
@@ -1029,7 +1029,7 @@
 | [Ready To Fall](https://open.spotify.com/track/1eOMqCzmXUG3lORc3PzPqo) | [Boundary Run](https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8) | [Ruminations](https://open.spotify.com/album/3ywsSe0AcPuKJQCVxEmX8P) | 2:54 | 2023-12-22 | 2024-04-09 |
 | [Real Thing](https://open.spotify.com/track/7E8P2emV16uBuPzaWPL1YI) | [LeBrock](https://open.spotify.com/artist/461TaZqofVfcQo2wtMwnQJ) | [Real Thing](https://open.spotify.com/album/4S3jQEdof1oA2ONsd8ROS0) | 5:05 | 2022-10-09 | 2022-10-10 |
 | [Rearview](https://open.spotify.com/track/0xl44WcbjRXYGz1rV0oAY5) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Rearview](https://open.spotify.com/album/3f6DvjqGkMsTnVRn8s0udM) | 3:42 | 2023-06-04 | 2024-04-05 |
-| [Reckless](https://open.spotify.com/track/3rkgDAgshJ6qDBFHEOMRvs) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [A Dream Through Open Eyes](https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ) | 3:37 | 2024-11-10 |  |
+| [Reckless](https://open.spotify.com/track/3rkgDAgshJ6qDBFHEOMRvs) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [A Dream Through Open Eyes](https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ) | 3:37 | 2024-11-10 | 2026-04-28 |
 | [Reckless Lover](https://open.spotify.com/track/4GaFm87ain13qtg3CkWR8b) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Welcome Back](https://open.spotify.com/album/5eLr7pwuHAUEnCCRyc9J7V) | 4:10 | 2022-03-17 | 2022-06-17 |
 | [Reckless Lover \- Acoustic](https://open.spotify.com/track/3cmcy7BwekXhIzysIdhLng) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Reckless Lover \(Acoustic\)](https://open.spotify.com/album/20cMOMSw2TBjDcY1QYJmqX) | 4:00 | 2021-12-01\* | 2024-04-02 |
 | [Redeye](https://open.spotify.com/track/0dOhHUYXDhNzKWtsvaNv3R) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [Redeye](https://open.spotify.com/album/3bMCftnYUVKzKd1QuJUV4m) | 3:51 | 2022-08-03 | 2024-01-21 |

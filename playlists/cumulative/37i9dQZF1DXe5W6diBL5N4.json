@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: NCT WISH) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: TWS) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -35684,7 +35684,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 182448,
       "name": "Bubee (Korean Ver.)",
       "url": "https://open.spotify.com/track/3FgR1MXFjpkL5HTDRrrFUE"
@@ -41522,6 +41522,24 @@
       "duration_ms": 212360,
       "name": "Ceremony",
       "url": "https://open.spotify.com/track/5YRxqekM8SPnLRaY4DClAf"
+    },
+    {
+      "album": {
+        "name": "4th Mini Album 'CEREMONY'",
+        "url": "https://open.spotify.com/album/22TsuaiFzj7i9cIKFwKdyI"
+      },
+      "artists": [
+        {
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196607,
+      "name": "CEREMONY",
+      "url": "https://open.spotify.com/track/7CoEOvI85tbkhdgJRd8XfC"
     },
     {
       "album": {
@@ -55526,6 +55544,24 @@
       "duration_ms": 178846,
       "name": "Dear Santa",
       "url": "https://open.spotify.com/track/16dHKie0ClnIM6jHfRlk8j"
+    },
+    {
+      "album": {
+        "name": "Dear Tomorrow",
+        "url": "https://open.spotify.com/album/1FfbXlKPCJFL6HZem7jRLI"
+      },
+      "artists": [
+        {
+          "name": "HUI",
+          "url": "https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Dear Tomorrow",
+      "url": "https://open.spotify.com/track/7Ce8b6kuPSUbktYw9jrxqR"
     },
     {
       "album": {
@@ -77404,7 +77440,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 209000,
       "name": "Feel Me",
       "url": "https://open.spotify.com/track/2psEOi0dDz19G9BljUiL2v"
@@ -81278,7 +81314,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 184000,
       "name": "Flowering",
       "url": "https://open.spotify.com/track/0xy1eGLBSa6SFxyEzg9gtn"
@@ -83614,6 +83650,24 @@
       "duration_ms": 220573,
       "name": "Forever & Forever (Again Spring)",
       "url": "https://open.spotify.com/track/5aVmTnOPJROJHQqgVqTMhP"
+    },
+    {
+      "album": {
+        "name": "Forever (2026)",
+        "url": "https://open.spotify.com/album/3MbzjaIKIJoISbWUyjuEVJ"
+      },
+      "artists": [
+        {
+          "name": "Kim Yuna",
+          "url": "https://open.spotify.com/artist/74UiZwRnkEE56JLvKhNGCB"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Forever (2026)",
+      "url": "https://open.spotify.com/track/7r7RwEvE7fI6vkxDC4TO67"
     },
     {
       "album": {
@@ -86922,7 +86976,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 197000,
       "name": "GAME OVER ?",
       "url": "https://open.spotify.com/track/3Ce7m66BjXf97IDrvUVGbP"
@@ -89592,6 +89646,24 @@
       "duration_ms": 197479,
       "name": "GLOW",
       "url": "https://open.spotify.com/track/36jmkXxrE7DJF9OtkJBGwQ"
+    },
+    {
+      "album": {
+        "name": "Glow - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0ynqAxPR0GtSUMf1uMWFIT"
+      },
+      "artists": [
+        {
+          "name": "XngHan&Xoul",
+          "url": "https://open.spotify.com/artist/4nhoBfffvyboGLLrIsP2lb"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/0Tb03kTDMdEl0a4QEtvKuQ"
     },
     {
       "album": {
@@ -98504,7 +98576,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 170865,
       "name": "Hazy (Daisy)",
       "url": "https://open.spotify.com/track/2PBOyq9hBSuR6K5rQ8UTdP"
@@ -119033,6 +119105,28 @@
     },
     {
       "album": {
+        "name": "If I Could Go Back",
+        "url": "https://open.spotify.com/album/3GCaJeBEbp9lRuBhI5VuMm"
+      },
+      "artists": [
+        {
+          "name": "Kim Dongha",
+          "url": "https://open.spotify.com/artist/7i1M3MrnIlJItCyi3egp5E"
+        },
+        {
+          "name": "Shin Hyun Woo",
+          "url": "https://open.spotify.com/artist/3HDvjWBZO7L6wQ0ExZ7muK"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219743,
+      "name": "If I Could Go Back",
+      "url": "https://open.spotify.com/track/7bOQA2kDz5ZZ7L5F9xq469"
+    },
+    {
+      "album": {
         "name": "If I could Imagine a bit of your heart (Come travel with me, Mom? X HEN) (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7t10OVDYTiQUgWZ9V2Pmdd"
       },
@@ -129014,7 +129108,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 276920,
       "name": "Joy, Sorrow, A Beautiful Heart",
       "url": "https://open.spotify.com/track/3yKUJbZjAWlteUSjnNv3UK"
@@ -140928,6 +141022,28 @@
       "duration_ms": 210266,
       "name": "Like that day it rained (Feat. Yoon Myoung)",
       "url": "https://open.spotify.com/track/2Ee2Aj1QwFrn1axyc50E08"
+    },
+    {
+      "album": {
+        "name": "Like That First Day",
+        "url": "https://open.spotify.com/album/0rFFWNMwvM58p7qyvCXQBe"
+      },
+      "artists": [
+        {
+          "name": "J-Cera",
+          "url": "https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ"
+        },
+        {
+          "name": "\uc544\uc774\ub7f0",
+          "url": "https://open.spotify.com/artist/0wlhhpr12pME5gGHM4Fyv0"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221362,
+      "name": "Like That First Day",
+      "url": "https://open.spotify.com/track/1i262XqY86cbdf3vpHtBMR"
     },
     {
       "album": {
@@ -161075,6 +161191,24 @@
     },
     {
       "album": {
+        "name": "Mmchk",
+        "url": "https://open.spotify.com/album/71X6uVcs0JOlENKqx5k2dO"
+      },
+      "artists": [
+        {
+          "name": "NEXZ",
+          "url": "https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158813,
+      "name": "Mmchk",
+      "url": "https://open.spotify.com/track/0ASTfHpDkFpD4aWqj9T5F6"
+    },
+    {
+      "album": {
         "name": "(Me)moir",
         "url": "https://open.spotify.com/album/1KixiCbpzXKydBJqWiA9kB"
       },
@@ -172024,6 +172158,24 @@
       "duration_ms": 232000,
       "name": "Night View",
       "url": "https://open.spotify.com/track/5ikI8psesN1ZFPR3w5W1Jy"
+    },
+    {
+      "album": {
+        "name": "@night",
+        "url": "https://open.spotify.com/album/3FugEwXQYw6LKm3pLaIko0"
+      },
+      "artists": [
+        {
+          "name": "Odee",
+          "url": "https://open.spotify.com/artist/6cXolDFPOgf0wuRe5kMPxo"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169032,
+      "name": "night vision",
+      "url": "https://open.spotify.com/track/4hCp3GnZhLHg9eJ9zBrHq5"
     },
     {
       "album": {
@@ -228052,7 +228204,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 153954,
       "name": "Stick With You",
       "url": "https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk"
@@ -236118,7 +236270,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 124736,
       "name": "swipe_feat_lou_garcia_v1.mp3",
       "url": "https://open.spotify.com/track/4zsxh0FkRntWV1vA7ckhHQ"
@@ -273698,7 +273850,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 159000,
       "name": "Who is she",
       "url": "https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw"
@@ -279090,6 +279242,24 @@
       "duration_ms": 255920,
       "name": "Words Unsaid",
       "url": "https://open.spotify.com/track/13IiS4KDlSGRJ6ONwzZDiO"
+    },
+    {
+      "album": {
+        "name": "Words, words, words",
+        "url": "https://open.spotify.com/album/1TwnnOWGbBN0q0RH79KvHG"
+      },
+      "artists": [
+        {
+          "name": "The Jadu",
+          "url": "https://open.spotify.com/artist/4dcZ1yyRMwduO7LNG38ATh"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Words, words, words",
+      "url": "https://open.spotify.com/track/37D1szlVkYj7QT7lkoZbdU"
     },
     {
       "album": {
@@ -284842,6 +285012,24 @@
       "duration_ms": 207281,
       "name": "You, Me and Namyangju",
       "url": "https://open.spotify.com/track/41bq2K81AQh9Sydl2qDa0m"
+    },
+    {
+      "album": {
+        "name": "TWS 5th Mini Album \u2018NO TRAGEDY\u2019",
+        "url": "https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "You, You",
+      "url": "https://open.spotify.com/track/2X9RbCpuBRR6ztXn83AK5U"
     },
     {
       "album": {
@@ -298438,7 +298626,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-28",
       "duration_ms": 244000,
       "name": "\uc774\uc81c\uc57c \uc0ac\ub791\uc774 \ubcf4\uc774\ub124",
       "url": "https://open.spotify.com/track/7ojKhprnV0Z7efNXEUv4Tl"

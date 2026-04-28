@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,424 songs - 3 day 8 hr 36 min
+1,425 songs - 3 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 | 2021-05-23 | 2021-06-25 |
 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2021-03-27\* | 2021-05-23 |
 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-04-18 | 2026-04-23 |
+| [drop dead](https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead \(taken that eurostar to france video\)](https://open.spotify.com/album/6yWUYijJvHyjvcw43abyWD) | 3:44 | 2026-04-27 |  |
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-19 | 2026-04-07 |
 | [Due Vite](https://open.spotify.com/track/4eI0ncpnZuv4A3ssTJRSDY) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [MATERIA \(PELLE\)](https://open.spotify.com/album/6tgLnr7amiuRBK9LjO0pWG) | 3:45 | 2023-05-15 | 2023-05-19 |
 | [DXB to TLV](https://open.spotify.com/track/1huEeoVeYDxX6XEF640FfM) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [סוף העולם](https://open.spotify.com/album/1wkBFAYxB3n1hriR7rAZlT) | 2:55 | 2023-06-03 | 2023-08-21 |
@@ -625,7 +626,7 @@
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2021-05-25 | 2021-06-13 |
 | [Évidemment](https://open.spotify.com/track/18ZX6YaDSOopXPRvfIh8DM) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Évidemment](https://open.spotify.com/album/1V6nmlYGcUbCOfzfhofGPI) | 3:01 | 2023-05-15 | 2023-05-19 |
 | [אבא](https://open.spotify.com/track/3PqHflY0wAwmSAt0pIZRT7) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [לילה כיום יאיר](https://open.spotify.com/album/6MTaG6ouyHqSauq4Xks8E7) | 4:29 | 2023-04-26 | 2023-04-28 |
-| [אבא](https://open.spotify.com/track/3DTHsQnfuQVESYAYv0fybQ) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [אבא](https://open.spotify.com/album/3zdvjrkYyFilN9XdVwJvYZ) | 3:22 | 2024-10-07 | 2026-04-27 |
+| [אבא](https://open.spotify.com/track/3DTHsQnfuQVESYAYv0fybQ) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [אבא](https://open.spotify.com/album/3zdvjrkYyFilN9XdVwJvYZ) | 3:22 | 2024-10-07 |  |
 | [אבא אבא אבא](https://open.spotify.com/track/3ywRHRZM1OHj57zehAYnz0) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חלק מהנצח](https://open.spotify.com/album/0jcuylGpmKfQxQFirBkN6F) | 2:44 | 2026-02-20 | 2026-02-28 |
 | [אבות ובנים](https://open.spotify.com/track/0LAPb9g7pvLmHgiVVmzyME) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [אביתר בנאי](https://open.spotify.com/album/3b7OPwVWZgm4ifO1iRW5Nk) | 3:52 | 2022-05-05 | 2023-04-28 |
 | [אבות ובנים](https://open.spotify.com/track/1Nq92xyQrCzhHGuZSRtAcO) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [אביתר בנאי](https://open.spotify.com/album/1uiw4JLkam9MJiHN7U12Z2) | 4:20 | 2021-04-16 | 2021-04-17 |
@@ -777,7 +778,7 @@
 | [בימים ההם](https://open.spotify.com/track/6n0Rajp2KbX5X7HeJrAyrH) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בימים ההם](https://open.spotify.com/album/3kyru2X7jEoQuScV2KmJVO) | 2:58 | 2022-07-19 | 2022-07-27 |
 | [בין אלבארח ליאליום](https://open.spotify.com/track/5J5Fd4keZNNKtf997gjcSM) | [Lehakat Sfataim](https://open.spotify.com/artist/6kzEO8SiWJlbaMoGnnih7R) | [איש וכינור](https://open.spotify.com/album/1DCDMIX37gG2VuPuZxvnl7) | 4:25 | 2025-04-20 | 2026-04-11 |
 | [בין העיר לפרדס](https://open.spotify.com/track/5rqeYyQ1EpbEJKkH4cgncs) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [בין העיר לפרדס](https://open.spotify.com/album/3hWlgKqZUnCC38e1FuGZSU) | 3:52 | 2024-03-30 | 2024-04-28 |
-| [בית ביפו](https://open.spotify.com/track/6xjgjdunz6KkVOGgW81FEd) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [אי](https://open.spotify.com/album/6YybfSBM6MRZRNHlTe3tCw) | 3:16 | 2026-04-26 |  |
+| [בית ביפו](https://open.spotify.com/track/6xjgjdunz6KkVOGgW81FEd) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [אי](https://open.spotify.com/album/6YybfSBM6MRZRNHlTe3tCw) | 3:16 | 2026-04-26 | 2026-04-28 |
 | [בית מזכוכית](https://open.spotify.com/track/1cAVtw64dnLHV6WYQiRFqg) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [בית מזכוכית](https://open.spotify.com/album/0crsmrq13oLGMIdUX6meI0) | 3:20 | 2026-03-20 | 2026-04-04 |
 | [בית מזכוכית](https://open.spotify.com/track/6jDEgEonMe0G9ysCeJH5eh) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [30 \- חלק ג'](https://open.spotify.com/album/609trRWI08zPu1XE8Cz0lL) | 3:20 | 2026-04-03 |  |
 | [בית משוגעים](https://open.spotify.com/track/66iaD8MCoVnBtqUhuzdglT) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [בית משוגעים](https://open.spotify.com/album/569icpNOeFw5zZDePlrwJR) | 2:49 | 2021-03-27\* | 2022-09-13 |
@@ -1046,7 +1047,7 @@
 | [לילה טוב שון](https://open.spotify.com/track/4VRz32kfvdKWZGzOUcJQkV) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [לילה טוב שון](https://open.spotify.com/album/3pt1jc8qYiHcVyQtB0OKvK) | 3:15 | 2022-05-05 | 2023-04-28 |
 | [לילה מעדן](https://open.spotify.com/track/0VNXir4ftFjNOImLvsO9fR) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) | [לילה מעדן](https://open.spotify.com/album/44okB4A8LuWSPaVxYQsuci) | 2:16 | 2021-08-11 | 2021-09-15 |
 | [לילה מעדן](https://open.spotify.com/track/2uclMNfRqdoU5BJXUhHyNL) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) | [לילה מעדן](https://open.spotify.com/album/253Y1dAIszh0O8by4oa9dL) | 2:16 | 2021-08-08 | 2021-08-11 |
-| [לילות וקללות](https://open.spotify.com/track/4dELL8S6XVMibwBkjJACF1) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חמישה לילות](https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs) | 3:24 | 2024-03-22 |  |
+| [לילות וקללות](https://open.spotify.com/track/4dELL8S6XVMibwBkjJACF1) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חמישה לילות](https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs) | 3:24 | 2024-03-22 | 2026-04-28 |
 | [לילות וקללות](https://open.spotify.com/track/0bSlaaneF4lLymoMouvxfH) | [הכוכב הבא](https://open.spotify.com/artist/5vzETUgvElb2xfKJ1e0VHN), [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn) | [הכוכב הבא לאירוויזיון 2026 \- פרק 26](https://open.spotify.com/album/34LLlV4PIiia903zHPoA0M) | 3:50 | 2026-01-22 | 2026-01-30 |
 | [לילות יפים](https://open.spotify.com/track/66yefnmjUf8GOqIwhfbpCk) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Gal Adam](https://open.spotify.com/artist/5sbVEFMCfdQ0T3vCqXax1K), [רואי אדם](https://open.spotify.com/artist/0UaHRQkfX3cJ90fsXYvjjG) | [חלק מהנצח](https://open.spotify.com/album/0jcuylGpmKfQxQFirBkN6F) | 2:44 | 2026-02-20 |  |
 | [ליצן קטן נחמד](https://open.spotify.com/track/4IFQD1thQ2rgSgt5rXXqqp) | [Ruchama Raz](https://open.spotify.com/artist/0kxMDgFDfRYyqs91HfrXIk) | [אני פורים \(30 שירי פורים לילדים\)](https://open.spotify.com/album/5fOyUcc2jBKDeBF21l6c2I) | 0:56 | 2022-03-16 | 2024-03-25 |

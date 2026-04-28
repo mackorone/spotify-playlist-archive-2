@@ -4925,6 +4925,28 @@
     },
     {
       "album": {
+        "name": "Psilo Vibin",
+        "url": "https://open.spotify.com/album/6pHShQTxGMqXkKEO1WCSCT"
+      },
+      "artists": [
+        {
+          "name": "Paal Dabba",
+          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
+        },
+        {
+          "name": "foxn",
+          "url": "https://open.spotify.com/artist/2dbBX8wPRhL660FxN7MIDv"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143505,
+      "name": "Psilo Vibin",
+      "url": "https://open.spotify.com/track/2ALVcPPNaLzXcF4mbTp0Qs"
+    },
+    {
+      "album": {
         "name": "Roar of the Veeran: The Tiger Chronicles",
         "url": "https://open.spotify.com/album/2aJK22DHqp7xtPIxioPZV2"
       },
