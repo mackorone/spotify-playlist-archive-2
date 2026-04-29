@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u751f\u307e\u308c\u305f\u30b5\u30a6\u30f3\u30c9\u306e\u8a18\u9332\u3002A collection of sounds shaped by internet culture. \nCover: Empty old City",
+  "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u751f\u307e\u308c\u305f\u30b5\u30a6\u30f3\u30c9\u306e\u8a18\u9332\u3002A collection of sounds shaped by internet culture. \nCover: \u83c5\u539f\u572d",
   "name": "Cloud Archive\uff5c\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
   "tracks": [
     {
@@ -1878,6 +1878,24 @@
       "duration_ms": 216204,
       "name": "can't say",
       "url": "https://open.spotify.com/track/5zU11rGz9E06aZRUO8E3rm"
+    },
+    {
+      "album": {
+        "name": "cappuccino",
+        "url": "https://open.spotify.com/album/2BvQS0zGZ4CRCVTbIsIi9A"
+      },
+      "artists": [
+        {
+          "name": "kakizaki yuta",
+          "url": "https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151034,
+      "name": "cappuccino",
+      "url": "https://open.spotify.com/track/0fOrNEpaPcnJ9unDn4xZTf"
     },
     {
       "album": {
@@ -5896,7 +5914,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 189000,
       "name": "LaLaLa",
       "url": "https://open.spotify.com/track/3A7POR4Hvt7VYhih9fj8IU"
@@ -6138,7 +6156,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 202300,
       "name": "Looma",
       "url": "https://open.spotify.com/track/5jS5tw81DLLEaVRaTGP0O8"
@@ -7626,6 +7644,28 @@
       "duration_ms": 183303,
       "name": "Orpheus",
       "url": "https://open.spotify.com/track/5tROXAnQQpTJNkC44M2F8c"
+    },
+    {
+      "album": {
+        "name": "OSHIOSHIOSHIOSHI / MONEYMONEYMONEYMONEY",
+        "url": "https://open.spotify.com/album/7Bm0fQryzCnm3Klw8HezYk"
+      },
+      "artists": [
+        {
+          "name": "Kikuo",
+          "url": "https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu"
+        },
+        {
+          "name": "Mea Kagura",
+          "url": "https://open.spotify.com/artist/4QShzZnalW0NL6eHrsB4GE"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "OSHIOSHIOSHIOSHI / MONEYMONEYMONEYMONEY",
+      "url": "https://open.spotify.com/track/6MBcDG3fMFal9cLtYX5xZj"
     },
     {
       "album": {
@@ -10194,7 +10234,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 186741,
       "name": "T+ 1000",
       "url": "https://open.spotify.com/track/4N4RJZl9GAPClLQQBTIv1F"
@@ -10430,6 +10470,24 @@
       "duration_ms": 226000,
       "name": "Think Think Think",
       "url": "https://open.spotify.com/track/4fTajvmqOWnHPsIpbcebna"
+    },
+    {
+      "album": {
+        "name": "Through the World",
+        "url": "https://open.spotify.com/album/3RFekK9PMbFEuLsMUU3yJy"
+      },
+      "artists": [
+        {
+          "name": "Tsukuyomi",
+          "url": "https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Through the World",
+      "url": "https://open.spotify.com/track/7jslUqQ9rnT9kdykX0pZi4"
     },
     {
       "album": {
@@ -13498,7 +13556,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 205000,
       "name": "\u3067\u3059\u304b\u3089\u3001\u707c\u3051\u307e\u3057\u305f",
       "url": "https://open.spotify.com/track/1yyC2WI7a9JLj8Q5r1o0dW"
@@ -15850,7 +15908,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 192866,
       "name": "\u30a8\u30e9\u30fc\u30bd\u30f3\u30b0",
       "url": "https://open.spotify.com/track/54fbEKyMukssrjkU0BGS9i"
@@ -19131,6 +19189,24 @@
     },
     {
       "album": {
+        "name": "B.G.M.",
+        "url": "https://open.spotify.com/album/0kr1JL5urhQ3XG8EUdiOCt"
+      },
+      "artists": [
+        {
+          "name": "Kei Sugawara",
+          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182040,
+      "name": "\u30cf\u30a4\u30bb\u30f3\u30b9\uff1d\u30ca\u30f3\u30bb\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/11JPVASzRw6bHemz5FAqwX"
+    },
+    {
+      "album": {
         "name": "\u30cf\u30b6\u30fc\u30c9\u30b7\u30f3\u30dc\u30eb",
         "url": "https://open.spotify.com/album/5jGBOSamaOfCPJ2R7Dfr4l"
       },
@@ -19236,7 +19312,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 189933,
       "name": "\u30cf\u30fc\u30c8\u306e\u672c\u97f3",
       "url": "https://open.spotify.com/track/2GCRVedQoWyNmivNGuTV0Q"
@@ -26124,7 +26200,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 252000,
       "name": "\u611b\u3057\u3066 \u611b\u3057\u3066 \u611b\u3057\u3066",
       "url": "https://open.spotify.com/track/3ty4jnVIJ9My8ZnXFMc0Fg"
@@ -26335,6 +26411,28 @@
     },
     {
       "album": {
+        "name": "CULTURE DRUG ORCHESTRA",
+        "url": "https://open.spotify.com/album/2ioUq1md32nccnkPYDogWc"
+      },
+      "artists": [
+        {
+          "name": "\u7b39\u5ddd\u771f\u751f",
+          "url": "https://open.spotify.com/artist/4S3tEYMH3Mjdbn4mkBvqi0"
+        },
+        {
+          "name": "\u5e73\u585a\u7d17\u4f9d",
+          "url": "https://open.spotify.com/artist/4DI1zqy80eTUd7Oknjn0aN"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233012,
+      "name": "\u61d0\u53e4\u4e3b\u7fa9\u308f\u305f\u3057",
+      "url": "https://open.spotify.com/track/3sDXtCWoXLKfm6HW5ZGwLi"
+    },
+    {
+      "album": {
         "name": "\u6226\u5834\u306e\u83ef",
         "url": "https://open.spotify.com/album/4P6jLBYmtDTJidPlNQi18n"
       },
@@ -26484,6 +26582,28 @@
       "duration_ms": 217265,
       "name": "\u653e\u6d6a",
       "url": "https://open.spotify.com/track/6TgiTbz90SeTTR3W7uvc5p"
+    },
+    {
+      "album": {
+        "name": "\u653e\u8ab2\u5f8c\u30dc\u30fc\u30c0\u30fc\u30e9\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/0wDUN74503SHFIDSW3srbf"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u8b5c",
+          "url": "https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4"
+        },
+        {
+          "name": "Shinsei Kamattechan",
+          "url": "https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267066,
+      "name": "\u653e\u8ab2\u5f8c\u30dc\u30fc\u30c0\u30fc\u30e9\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/4IFflYu7VHz6xxVnyvOlb8"
     },
     {
       "album": {
@@ -30494,6 +30614,24 @@
       "duration_ms": 237833,
       "name": "\u86f9",
       "url": "https://open.spotify.com/track/6JQJKJbDiBPrqfuDv7yZxH"
+    },
+    {
+      "album": {
+        "name": "\u8703\u6c17\u697c",
+        "url": "https://open.spotify.com/album/66q2SqJ2CZ4VwSxkUzlbHO"
+      },
+      "artists": [
+        {
+          "name": "tayori",
+          "url": "https://open.spotify.com/artist/0XqIQi5z2qmlxlcUwlJPe2"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212170,
+      "name": "\u8703\u6c17\u697c",
+      "url": "https://open.spotify.com/track/5vRVHWwXBPPcdtnrrQtzIo"
     },
     {
       "album": {

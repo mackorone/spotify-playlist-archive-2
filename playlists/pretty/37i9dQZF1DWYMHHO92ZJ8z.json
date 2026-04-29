@@ -1,18 +1,18 @@
 {
   "description": "Francis Mercier's favorite tracks. Updated regularly. Curated by Francis Mercier. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 21792,
+  "num_followers": 21822,
   "original_name": "Francis Mercier's Track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAInyRQq1OuUvPC0Z4qp8n9mfO1U",
+  "snapshot_id": "AAAAANgme8lXRfFJR8kwsC+1iL8BppfI",
   "tracks": [
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
-        "name": "Unjust",
-        "url": "https://open.spotify.com/album/4TkMSfIK0rOsSoAgRJOifr"
+        "name": "Believe In Us",
+        "url": "https://open.spotify.com/album/6EYNnyT5alWlKspslbOGnN"
       },
       "artists": [
         {
@@ -20,20 +20,24 @@
           "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
         },
         {
-          "name": "Madmix",
-          "url": "https://open.spotify.com/artist/33CPdnBb3lDoa1adNWa6Zt"
+          "name": "Jawora",
+          "url": "https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg"
         },
         {
-          "name": "Toshi",
-          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
+          "name": "Neyl",
+          "url": "https://open.spotify.com/artist/6uFQgdqzvkfjP51vdwvCSD"
+        },
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
         }
       ],
-      "duration_ms": 227213,
-      "name": "Unjust",
-      "url": "https://open.spotify.com/track/7qHc4dGw5Bnfaa6RkGOFu0"
+      "duration_ms": 188852,
+      "name": "Believe In Us",
+      "url": "https://open.spotify.com/track/62O2Y6iQE3apMyrpEFpmPA"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "N Yaa Yere La (MASSALA Remix)",
         "url": "https://open.spotify.com/album/2P4GEMyMDitAMjfgs8EECs"
@@ -53,7 +57,23 @@
       "url": "https://open.spotify.com/track/2ATiBqg9DAtziVqXjDLymn"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
+      "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/5WWwx9ofZYK1NwagUTcXFG"
+      },
+      "artists": [
+        {
+          "name": "Choujaa",
+          "url": "https://open.spotify.com/artist/0QWgPFVQStHSDmN0Jq67qY"
+        }
+      ],
+      "duration_ms": 190819,
+      "name": "Can't Slow Down",
+      "url": "https://open.spotify.com/track/5kU0vd9onuQvaYKOBpgDX5"
+    },
+    {
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/41e91XrUiRNfYvQJaA0X68"
@@ -69,7 +89,7 @@
       "url": "https://open.spotify.com/track/7cCYXwe0HnQjVIHKX9IBdg"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Dogs On Acid",
         "url": "https://open.spotify.com/album/5mdBMJaZ55vFXtYEepadkj"
@@ -89,7 +109,7 @@
       "url": "https://open.spotify.com/track/02LoLobuHXoVrQdPN8XBGr"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Allez Allez",
         "url": "https://open.spotify.com/album/3Eii8QpEInZeVPTRtVVM6m"
@@ -113,7 +133,23 @@
       "url": "https://open.spotify.com/track/66XTHBZEYAiJGLh9gwVaBu"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
+      "album": {
+        "name": "Shinjuku",
+        "url": "https://open.spotify.com/album/5HiGwQ6NJl5XuXD2ugSFMz"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 167905,
+      "name": "Shinjuku",
+      "url": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
+    },
+    {
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Noba Yintoni",
         "url": "https://open.spotify.com/album/6ORZ0mQT9z8mXYenOSCqbe"
@@ -137,7 +173,7 @@
       "url": "https://open.spotify.com/track/6f1ME9xr9Ukg4Rf4U2W78x"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Africana",
         "url": "https://open.spotify.com/album/3ry96ckFS0j6TY8PC6XU3z"
@@ -153,7 +189,31 @@
       "url": "https://open.spotify.com/track/0WVd2t1xquANGQpMsjKpBY"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
+      "album": {
+        "name": "Selebuka",
+        "url": "https://open.spotify.com/album/1M1umAOJlNoTr5VdHFxeO7"
+      },
+      "artists": [
+        {
+          "name": "Aytiwan",
+          "url": "https://open.spotify.com/artist/1uL2FZKW1ImI6oHVJ5gnn3"
+        },
+        {
+          "name": "keby flavour",
+          "url": "https://open.spotify.com/artist/6M92uBF6OOzVyFd9WzU3S2"
+        },
+        {
+          "name": "Leo Nicky",
+          "url": "https://open.spotify.com/artist/4O4Rn5jGE626nCsll3Qtdh"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Selebuka",
+      "url": "https://open.spotify.com/track/7C43iGZp5Ui4s9NQPnniZb"
+    },
+    {
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Day Dreamers",
         "url": "https://open.spotify.com/album/5GKdCRSV8lgjST4IfY8lbP"
@@ -169,27 +229,59 @@
       "url": "https://open.spotify.com/track/1Kr540EJdQ9ynPIxZP2A81"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
-        "name": "Call My Name (ARYM\u00c9 Remix)",
-        "url": "https://open.spotify.com/album/4CPsCmCy2OssJ9nHBjjNWO"
+        "name": "Far Away Place (ARYM\u00c9 Remix)",
+        "url": "https://open.spotify.com/album/1slLcsFCfoHIgeHj22EUIk"
       },
       "artists": [
         {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
         },
         {
           "name": "ARYM\u00c9",
           "url": "https://open.spotify.com/artist/5zdOlKWTERNvDJXkwMYRX6"
+        },
+        {
+          "name": "Vaarwell",
+          "url": "https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG"
         }
       ],
-      "duration_ms": 212459,
-      "name": "Call My Name - ARYM\u00c9 Remix",
-      "url": "https://open.spotify.com/track/5d5RLIRMotQlUBjP3En6hN"
+      "duration_ms": 202992,
+      "name": "Far Away Place - ARYM\u00c9 Remix",
+      "url": "https://open.spotify.com/track/3hhX4E5OQU6KIsNagxB3e3"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
+      "album": {
+        "name": "Halala",
+        "url": "https://open.spotify.com/album/7qZKlqtzoB3qJ7aC2x7n6F"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        },
+        {
+          "name": "Neyl",
+          "url": "https://open.spotify.com/artist/6uFQgdqzvkfjP51vdwvCSD"
+        },
+        {
+          "name": "Nadrums",
+          "url": "https://open.spotify.com/artist/3W6v2xM1RVw0kg4ZZ4NBle"
+        }
+      ],
+      "duration_ms": 176674,
+      "name": "Halala",
+      "url": "https://open.spotify.com/track/5QNp6b2qsOo1EGHwMi1q0A"
+    },
+    {
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/7IJR2yGp24lLi20dJtU6fT"
@@ -205,7 +297,7 @@
       "url": "https://open.spotify.com/track/1cLAigiTFnvVsbY99tk2zZ"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Zaya",
         "url": "https://open.spotify.com/album/31WLM1lVSpA5nn2HTeh72j"
@@ -225,7 +317,23 @@
       "url": "https://open.spotify.com/track/0QBSUWfddnwtBSY5p6Fsxt"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
+      "album": {
+        "name": "Vamo L\u00e1",
+        "url": "https://open.spotify.com/album/2XwFG69XELIW08c4vn4gUh"
+      },
+      "artists": [
+        {
+          "name": "Sky White",
+          "url": "https://open.spotify.com/artist/4m7HkFAznOJoQUGeeAN92a"
+        }
+      ],
+      "duration_ms": 224536,
+      "name": "Vamo L\u00e1",
+      "url": "https://open.spotify.com/track/0SjN5sSNCOrtFbcfa7OzS2"
+    },
+    {
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Teke (Francis Mercier Remix)",
         "url": "https://open.spotify.com/album/5Sftz6HP8abxBxo9NiYMJA"
@@ -245,7 +353,7 @@
       "url": "https://open.spotify.com/track/187lxGNXIujJN1AF26MaCj"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Kumeleli",
         "url": "https://open.spotify.com/album/3PzAVIACspi26h0XBo6L3Z"
@@ -269,7 +377,7 @@
       "url": "https://open.spotify.com/track/5KSuwgDnzR9t7ld4cFMgyb"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Hamileh",
         "url": "https://open.spotify.com/album/5emk5n6J1ValmrczJZn82C"
@@ -289,7 +397,7 @@
       "url": "https://open.spotify.com/track/3ual4nA6P2RthevpcCuIdb"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Gatluak (Miishu & MASSALA Remix)",
         "url": "https://open.spotify.com/album/3QCmEYzvUVUOxlMDstvPaB"
@@ -317,7 +425,7 @@
       "url": "https://open.spotify.com/track/7CTxQltN03O7HkpxB3y5Cv"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "SHO!",
         "url": "https://open.spotify.com/album/7C9dcKJ1oH2flHLb0jWiCk"
@@ -333,7 +441,7 @@
       "url": "https://open.spotify.com/track/5OPONV5C8sgv8Sh49gbXIP"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Headlights",
         "url": "https://open.spotify.com/album/0FbxHeI81YACRdbECnJL1R"
@@ -357,7 +465,7 @@
       "url": "https://open.spotify.com/track/20WhHetIupHtLExwogpK32"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "I Gave You the Sky feat. JAW",
         "url": "https://open.spotify.com/album/4HXlB0HJb1fKyl3C4PJN0P"
@@ -377,7 +485,7 @@
       "url": "https://open.spotify.com/track/1hsaCWfjxr5JfrN08L8Qg0"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Que Rico",
         "url": "https://open.spotify.com/album/0WFglVHx0NvVTeyWl41Bsd"
@@ -393,7 +501,31 @@
       "url": "https://open.spotify.com/track/0qKHpiXu8bjQ9TCW5XEBkl"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
+      "album": {
+        "name": "Unjust",
+        "url": "https://open.spotify.com/album/4TkMSfIK0rOsSoAgRJOifr"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Madmix",
+          "url": "https://open.spotify.com/artist/33CPdnBb3lDoa1adNWa6Zt"
+        },
+        {
+          "name": "Toshi",
+          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
+        }
+      ],
+      "duration_ms": 227213,
+      "name": "Unjust",
+      "url": "https://open.spotify.com/track/7qHc4dGw5Bnfaa6RkGOFu0"
+    },
+    {
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Lelah",
         "url": "https://open.spotify.com/album/41qfMxNXdFO8zVTWd533nE"
@@ -417,7 +549,7 @@
       "url": "https://open.spotify.com/track/7j8Ddav5ehSDAQfvwDpnxi"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Move That Body",
         "url": "https://open.spotify.com/album/73Hv7HgyhIQpsRnJXmXfZr"
@@ -433,7 +565,7 @@
       "url": "https://open.spotify.com/track/6eomXO77TdLSM9M5NWiUlZ"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "No Shape Without You",
         "url": "https://open.spotify.com/album/3vrD2T9rErhaCbc4wV1UYf"
@@ -453,7 +585,7 @@
       "url": "https://open.spotify.com/track/61z9JuSmy3ojIWoVhGHQAE"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "DiscoBall",
         "url": "https://open.spotify.com/album/2lWipXlEyQ1nov0Ao9lepu"
@@ -473,7 +605,7 @@
       "url": "https://open.spotify.com/track/1V9UjxJ1Rl9JFXYbfLFFKm"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Hear Me Now",
         "url": "https://open.spotify.com/album/0mufMT29MozcY0IKtV9IxA"
@@ -493,7 +625,7 @@
       "url": "https://open.spotify.com/track/0VMCk3j0xFk1P64GyVPY1d"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Jamaican (Bam Bam)",
         "url": "https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G"
@@ -513,27 +645,27 @@
       "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/4v7sdSDS2iMcdSCHPY62TG"
+        "name": "The Sun Never Sets In Dakar",
+        "url": "https://open.spotify.com/album/00deGZJVH6lbi2AKHWgker"
       },
       "artists": [
         {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+          "name": "Dee Cee",
+          "url": "https://open.spotify.com/artist/4rVjLPF02DFPN3mSBMgPdt"
         },
         {
-          "name": "Mark Borino",
-          "url": "https://open.spotify.com/artist/3bI0TiF0GpCbG9oBZqbX6U"
+          "name": "SOMMERS (UK)",
+          "url": "https://open.spotify.com/artist/6cmL8CNoQQKRMGHpuSqXcv"
         }
       ],
-      "duration_ms": 207804,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/0fFRFFCiaZaExkXRfQyCJE"
+      "duration_ms": 249250,
+      "name": "The Sun Never Sets In Dakar",
+      "url": "https://open.spotify.com/track/2swtC2Q4Lw96mVosfWO91g"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Whoop",
         "url": "https://open.spotify.com/album/5vW5OcejX5Q51CU8gICRg3"
@@ -549,7 +681,7 @@
       "url": "https://open.spotify.com/track/5YkmdLvb5eKiNCQoJBCjEs"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Dawsha",
         "url": "https://open.spotify.com/album/2AbIfkSGKB2jHXgzub9dqS"
@@ -565,7 +697,7 @@
       "url": "https://open.spotify.com/track/0Y7rAv8pK8uAlGkt8awj2u"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Umthandazo",
         "url": "https://open.spotify.com/album/7h06Hga09xGJ9pOB0U7L3o"
@@ -585,7 +717,7 @@
       "url": "https://open.spotify.com/track/2m8dHIdoSjmTHiab2hb2UR"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "U Dont Know",
         "url": "https://open.spotify.com/album/2YlaW3YBgs6vtuI53v35Cy"
@@ -609,7 +741,27 @@
       "url": "https://open.spotify.com/track/32iYu79CYbVaZpvIqLigi1"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/4v7sdSDS2iMcdSCHPY62TG"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Mark Borino",
+          "url": "https://open.spotify.com/artist/3bI0TiF0GpCbG9oBZqbX6U"
+        }
+      ],
+      "duration_ms": 207804,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/0fFRFFCiaZaExkXRfQyCJE"
+    },
+    {
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Hold On, Let Go",
         "url": "https://open.spotify.com/album/73diRAl84rievVIadGPsoc"
@@ -633,7 +785,7 @@
       "url": "https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Phunk",
         "url": "https://open.spotify.com/album/1bx8EuMKG8ROYhMl3JjnKr"
@@ -653,7 +805,7 @@
       "url": "https://open.spotify.com/track/5p6rh4jZyyET4jbD1CJQa6"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Isdakwa (feat. Still Nitro & Solo Thato)",
         "url": "https://open.spotify.com/album/4LePH5u9gCKlpo5DdDKCAp"
@@ -685,7 +837,51 @@
       "url": "https://open.spotify.com/track/6Mlx2HIZNvWKVNpBZ1HHZ2"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
+      "album": {
+        "name": "Amalanga (Club Mix)",
+        "url": "https://open.spotify.com/album/06aVMW0HConOKrdZVP72ij"
+      },
+      "artists": [
+        {
+          "name": "BVLLISH",
+          "url": "https://open.spotify.com/artist/6YCQsbx5oArnRI5FeySKDA"
+        },
+        {
+          "name": "Bukeka",
+          "url": "https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV"
+        },
+        {
+          "name": "Dan Bay",
+          "url": "https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw"
+        }
+      ],
+      "duration_ms": 226356,
+      "name": "Amalanga - Club Mix",
+      "url": "https://open.spotify.com/track/01SzHbmFxPZd57tmA8G90J"
+    },
+    {
+      "added_at": "2026-04-28 06:43:28",
+      "album": {
+        "name": "House of Love",
+        "url": "https://open.spotify.com/album/3WBiQ5bKjJTH31DdSnD4Qf"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        },
+        {
+          "name": "Pieces Of Life",
+          "url": "https://open.spotify.com/artist/0iZFcLvPZQPPZH3Z5sTHfY"
+        }
+      ],
+      "duration_ms": 364619,
+      "name": "House of Love",
+      "url": "https://open.spotify.com/track/538yMQYXTiMwwPW9hcMOhE"
+    },
+    {
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Edge of Desire",
         "url": "https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i"
@@ -705,7 +901,7 @@
       "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Onda (Remix)",
         "url": "https://open.spotify.com/album/4y4Q3DZPqWbeNlbVYbcvhe"
@@ -733,7 +929,7 @@
       "url": "https://open.spotify.com/track/4P3zUKzswfwSUmoFh5eNa0"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/46U5yGeTP1Gl406GQLJ2dT"
@@ -753,7 +949,7 @@
       "url": "https://open.spotify.com/track/0j17YePnS81vgykhzZuz1B"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Maria",
         "url": "https://open.spotify.com/album/4VRVJXA0Ke5OZGGWxfJaR7"
@@ -777,7 +973,7 @@
       "url": "https://open.spotify.com/track/2Ai0T0CJszxSvSc4la9TXA"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Love Language (Kususa Remix)",
         "url": "https://open.spotify.com/album/1aXksEDKZQlVK3E0sZnSGA"
@@ -805,7 +1001,7 @@
       "url": "https://open.spotify.com/track/5Pkb4Z7QStrmxdC5mhTvgF"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Burning",
         "url": "https://open.spotify.com/album/36ci7zwlIO5QFn7M72kM5o"
@@ -821,7 +1017,7 @@
       "url": "https://open.spotify.com/track/52mYUoBRIi8ETtNY93XuZi"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Kiveti (Tefo Foxx Remix)",
         "url": "https://open.spotify.com/album/3qFoGXCg0q7l99LJkHUJyD"
@@ -845,7 +1041,7 @@
       "url": "https://open.spotify.com/track/1elJM7cko9obdm2ZwNXqCd"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Get Em Up",
         "url": "https://open.spotify.com/album/2uncGLIWm6bUSOhjPelzjk"
@@ -865,7 +1061,7 @@
       "url": "https://open.spotify.com/track/3Z3Jnwm6NzBe21j9XSpSA3"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/0WXwW00YjVdZ4K3MbPcr45"
@@ -881,7 +1077,7 @@
       "url": "https://open.spotify.com/track/5kDIMLB7olCK5fIkWZohF9"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Baian\u00e1 (Boa Noite)",
         "url": "https://open.spotify.com/album/0Xu7TN9uxfemlly1T7SJs7"
@@ -901,7 +1097,23 @@
       "url": "https://open.spotify.com/track/0NHGXHQmePSle25VYMKSfT"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
+      "album": {
+        "name": "MANDUKU",
+        "url": "https://open.spotify.com/album/544cwayS3rzIIaJa2QvzOX"
+      },
+      "artists": [
+        {
+          "name": "Danny Boy",
+          "url": "https://open.spotify.com/artist/3giIr9iWEl1y5CI6KgJ9IC"
+        }
+      ],
+      "duration_ms": 469663,
+      "name": "MANDUKU",
+      "url": "https://open.spotify.com/track/7jX5GPFVFQbW6NU5o0yJ1p"
+    },
+    {
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Mulalo",
         "url": "https://open.spotify.com/album/4xWjt3o0s8X3L61UHleJYZ"
@@ -925,27 +1137,7 @@
       "url": "https://open.spotify.com/track/7oVcS6Ki7M2VjRa2765chw"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
-      "album": {
-        "name": "Come With Me (feat. Jorja Smith)",
-        "url": "https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26"
-      },
-      "artists": [
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 214886,
-      "name": "Come With Me (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH"
-    },
-    {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Timbuktu EP",
         "url": "https://open.spotify.com/album/2PiQ4WJ6MNrqo6sKXasGYs"
@@ -961,7 +1153,7 @@
       "url": "https://open.spotify.com/track/2hYgRLIVXKMqdoAhSkzClS"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Tsa Ma Ndebele (Remixes)",
         "url": "https://open.spotify.com/album/2uqCO2u43jEGizgq0SUyCH"
@@ -985,7 +1177,7 @@
       "url": "https://open.spotify.com/track/3BgxZicwqNSsZOaZYL2XtH"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "JEJE",
         "url": "https://open.spotify.com/album/4yGqbe1fHlz4jd7ekUeWsY"
@@ -1001,27 +1193,7 @@
       "url": "https://open.spotify.com/track/5tqVTItXbPPRSra7Mw9zzy"
     },
     {
-      "added_at": "2026-03-09 07:21:45",
-      "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/2C74sO3IjfXbiEPKD6kjQo"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/6cBs0IiuiBT0172vOcc7GE"
-    },
-    {
-      "added_at": "2026-03-09 07:21:45",
+      "added_at": "2026-04-28 06:43:28",
       "album": {
         "name": "Kanga Mutu (El Cl\u00e0sico Remix)",
         "url": "https://open.spotify.com/album/5rzjeBgTR4fBebI2SclaXC"
@@ -1047,30 +1219,6 @@
       "duration_ms": 388710,
       "name": "Kanga Mutu - El Cl\u00e0sico Remix",
       "url": "https://open.spotify.com/track/50BZnlirZvVb6hY3TsxNbS"
-    },
-    {
-      "added_at": "2026-03-09 07:21:45",
-      "album": {
-        "name": "Amalanga (Club Mix)",
-        "url": "https://open.spotify.com/album/06aVMW0HConOKrdZVP72ij"
-      },
-      "artists": [
-        {
-          "name": "BVLLISH",
-          "url": "https://open.spotify.com/artist/6YCQsbx5oArnRI5FeySKDA"
-        },
-        {
-          "name": "Bukeka",
-          "url": "https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV"
-        },
-        {
-          "name": "Dan Bay",
-          "url": "https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw"
-        }
-      ],
-      "duration_ms": 226356,
-      "name": "Amalanga - Club Mix",
-      "url": "https://open.spotify.com/track/01SzHbmFxPZd57tmA8G90J"
     }
   ],
   "unique_name": "Francis Mercier's Track IDs",

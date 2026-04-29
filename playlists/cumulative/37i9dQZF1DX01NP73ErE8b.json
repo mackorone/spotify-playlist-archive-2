@@ -8509,6 +8509,24 @@
     },
     {
       "album": {
+        "name": "QUESTA INSENSATA VOGLIA DI TE",
+        "url": "https://open.spotify.com/album/6v8Dh5jr3ykfLoBPvZKrmj"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208626,
+      "name": "QUESTA INSENSATA VOGLIA DI TE",
+      "url": "https://open.spotify.com/track/3M5e1yWYMKQPE0IUePwdBt"
+    },
+    {
+      "album": {
         "name": "QUI CON ME",
         "url": "https://open.spotify.com/album/4Uj5BnPpLHuF7VOaN71fr5"
       },

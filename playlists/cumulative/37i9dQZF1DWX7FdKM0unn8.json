@@ -59,6 +59,42 @@
     },
     {
       "album": {
+        "name": "B.C 603",
+        "url": "https://open.spotify.com/album/5NySygZgi6F7cBkjuFTBTa"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG HWAN",
+          "url": "https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249493,
+      "name": "Days of Waiting, Days of Fading",
+      "url": "https://open.spotify.com/track/3ZCIaxNcu1rtqBJAckJkvs"
+    },
+    {
+      "album": {
+        "name": "B.C 603",
+        "url": "https://open.spotify.com/album/5NySygZgi6F7cBkjuFTBTa"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG HWAN",
+          "url": "https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249893,
+      "name": "Empty Heart",
+      "url": "https://open.spotify.com/track/4KiYPYpm4ultIp247ftPlI"
+    },
+    {
+      "album": {
         "name": "Golden Best",
         "url": "https://open.spotify.com/album/4qYudcauy6OergWMZN7rL0"
       },
@@ -590,24 +626,6 @@
       "duration_ms": 227533,
       "name": "\uadf8\uc800 \ubc14\ub77c\ubcfc \uc218\ub9cc \uc788\uc5b4\ub3c4",
       "url": "https://open.spotify.com/track/1ZEWbgub8FJ1mmYMzB89IA"
-    },
-    {
-      "album": {
-        "name": "B.C 603",
-        "url": "https://open.spotify.com/album/5NySygZgi6F7cBkjuFTBTa"
-      },
-      "artists": [
-        {
-          "name": "LEE SEUNG HWAN",
-          "url": "https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY"
-        }
-      ],
-      "date_added": "2021-08-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 249493,
-      "name": "\uae30\ub2e4\ub9b0 \ub0a0\ub3c4 \uc9c0\uc6cc\uc9c8 \ub0a0\ub3c4 Days Of Longing, Days To Be Forgotten",
-      "url": "https://open.spotify.com/track/3ZCIaxNcu1rtqBJAckJkvs"
     },
     {
       "album": {
@@ -2740,24 +2758,6 @@
       "duration_ms": 167418,
       "name": "\uce74\ud398\uc5d0\uc11c",
       "url": "https://open.spotify.com/track/3cSpvBYVWzZTYpVP3WNu3y"
-    },
-    {
-      "album": {
-        "name": "B.C 603",
-        "url": "https://open.spotify.com/album/5NySygZgi6F7cBkjuFTBTa"
-      },
-      "artists": [
-        {
-          "name": "LEE SEUNG HWAN",
-          "url": "https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY"
-        }
-      ],
-      "date_added": "2021-08-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 249893,
-      "name": "\ud145 \ube48 \ub9c8\uc74c Empty Heart",
-      "url": "https://open.spotify.com/track/4KiYPYpm4ultIp247ftPlI"
     },
     {
       "album": {

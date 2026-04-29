@@ -1,12 +1,12 @@
 {
   "description": "This is Bo Bundy. The essential tracks, all in one playlist.",
-  "num_followers": 1399,
+  "num_followers": 1400,
   "original_name": "This Is Bo Bundy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae1VgAAAAAAaT6CiyyfIJh1d1d43BCl+",
+  "snapshot_id": "ae6nAAAAAACvfZHATbHEmFCuaNyIbz+H",
   "tracks": [
     {
       "added_at": null,
@@ -43,26 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ramon Ayala (feat. Bo Bundy)",
-        "url": "https://open.spotify.com/album/3vnDhhtNSKthBW9tdgpRps"
-      },
-      "artists": [
-        {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 167766,
-      "name": "Ramon Ayala (feat. Bo Bundy)",
-      "url": "https://open.spotify.com/track/0jvWZVacv8dIM8KOXCGocz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Melon (feat. Kap G, Sauce Walka & Bo Bundy)",
         "url": "https://open.spotify.com/album/4BhYHWaOSkZym58KurOiPI"
       },
@@ -91,6 +71,26 @@
       "duration_ms": 246000,
       "name": "Melon (feat. Kap G, Sauce Walka & Bo Bundy)",
       "url": "https://open.spotify.com/track/5wT9U3AVV5VPIU6IH7tX0S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ramon Ayala (feat. Bo Bundy)",
+        "url": "https://open.spotify.com/album/3vnDhhtNSKthBW9tdgpRps"
+      },
+      "artists": [
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 167766,
+      "name": "Ramon Ayala (feat. Bo Bundy)",
+      "url": "https://open.spotify.com/track/0jvWZVacv8dIM8KOXCGocz"
     },
     {
       "added_at": null,

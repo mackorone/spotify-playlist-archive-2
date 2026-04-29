@@ -3769,6 +3769,24 @@
     },
     {
       "album": {
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/2EJUBIUDDBmmJm0qqN8eTJ"
+      },
+      "artists": [
+        {
+          "name": "Altered Edge",
+          "url": "https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194338,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/0goHckNxy52mUUqaSqJ0gN"
+    },
+    {
+      "album": {
         "name": "We're Not Lovers",
         "url": "https://open.spotify.com/album/7nh45cg3SuPxaXAJFDVTZz"
       },

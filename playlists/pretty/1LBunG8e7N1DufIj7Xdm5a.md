@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,378 songs - 9 day 17 hr 1 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,381 songs - 9 day 17 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4386,5 +4386,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4376 | [Bless the Morning Train](https://open.spotify.com/track/4ZMJoKSQdonpU8UT2Gwr0d) | [Funeral Letters](https://open.spotify.com/artist/0cDgNx7GyU4qBNjuQ1Zy7H) | [Bless the Morning Train](https://open.spotify.com/album/1jGZQCB0ldwwsXisZYUDDC) | 3:15 |
 | 4377 | [Alba](https://open.spotify.com/track/10jU44SZcCkZ2CdX7sCTTu) | [Civico97](https://open.spotify.com/artist/4iS1xr1BJF12FN1QWb2A21) | [Alba](https://open.spotify.com/album/6TmifkwpRrtt0YwZi2AqLj) | 3:12 |
 | 4378 | [Todo Quedó En Silencio](https://open.spotify.com/track/4G1fHgE7RWTbLEHfudgFII) | [Luz Entre Ruinas](https://open.spotify.com/artist/6ihnEVCMt4Z0Of7gMA2K2f) | [Todo Quedó En Silencio](https://open.spotify.com/album/6THtI92FpueHEE21mYFr5H) | 3:33 |
+| 4379 | [Perreo Sucio](https://open.spotify.com/track/1PiPXkHkzMZeuVAa6XFUSt) | [Dany Melki](https://open.spotify.com/artist/037AeZZVeAnTNITCescluf) | [Perreo Sucio](https://open.spotify.com/album/2AbmHbcHOHeJX0YUSmYjhd) | 2:28 |
+| 4380 | [And I Suffer](https://open.spotify.com/track/3QTQTBdspOT9ZLAutxwZ2Z) | [Highroad No\. 28](https://open.spotify.com/artist/2Rd79D7pa2uM72yzgHLaGQ) | [Stumbling To Divinity](https://open.spotify.com/album/1uzp6GmGDa2i7SPfM86z1A) | 4:37 |
+| 4381 | [ME CANSE DE INSISTIR](https://open.spotify.com/track/4WBzWs8FZRp5IQhPzDrKan) | [Lyrian D](https://open.spotify.com/artist/0qAWWEFFUvubUk2O481Dw0) | [ME CANSE DE INSISTIR](https://open.spotify.com/album/4ZetqQJP4lGO10wXdVh9qc) | 3:10 |
 
-Snapshot ID: `AAAIcAYZ8AK9WGxS6k3OjG/9ST0TWPKM`
+Snapshot ID: `AAAIc5swSDmI+b6hNLnewkxcp+nxJgPJ`

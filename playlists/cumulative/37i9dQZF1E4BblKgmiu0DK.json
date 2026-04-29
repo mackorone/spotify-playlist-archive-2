@@ -560,7 +560,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 194500,
       "name": "Bad Fit",
       "url": "https://open.spotify.com/track/4vCgUOSK4Netdnut3HJbWX"
@@ -614,7 +614,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 209600,
       "name": "Bad Medicine",
       "url": "https://open.spotify.com/track/1PQbJ1dzfFfN8tOYKj3KsO"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 230480,
       "name": "Become a Star",
       "url": "https://open.spotify.com/track/0AkU8bq2NoY9ykLlTCeq1m"
@@ -744,7 +744,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 248376,
       "name": "Below Average",
       "url": "https://open.spotify.com/track/3wtRTHG1jcec4PCWhuuhdd"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 148300,
       "name": "Broken heart",
       "url": "https://open.spotify.com/track/0yZpKqu7qYtOY3tSBKKdrt"
@@ -1234,6 +1234,24 @@
       "duration_ms": 191999,
       "name": "Caffeine and Chaos",
       "url": "https://open.spotify.com/track/1gW5d9T0AuhgmckycjCaCt"
+    },
+    {
+      "album": {
+        "name": "Cake",
+        "url": "https://open.spotify.com/album/6ff3VYwTYs4GngQXPkuLO4"
+      },
+      "artists": [
+        {
+          "name": "Mila Smith",
+          "url": "https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Cake",
+      "url": "https://open.spotify.com/track/2R4QvWH7WESPMHkrUXsB5j"
     },
     {
       "album": {
@@ -2112,7 +2130,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 202840,
       "name": "Fall Behind Me",
       "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
@@ -2166,7 +2184,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 278528,
       "name": "Feast On Scraps",
       "url": "https://open.spotify.com/track/3cz5frNekuhEuyrEe9XPgJ"
@@ -2876,7 +2894,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 173440,
       "name": "Have You No Pride",
       "url": "https://open.spotify.com/track/6hyawvI37HZdXkvDbAKLjv"
@@ -2894,7 +2912,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 216693,
       "name": "Headstone",
       "url": "https://open.spotify.com/track/3bQncwb8OmzEnY94GiqJB9"
@@ -2948,7 +2966,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 168855,
       "name": "Hell and Everything Between",
       "url": "https://open.spotify.com/track/48CWlDiqiNvbq2Uouin6FG"
@@ -3002,7 +3020,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 174236,
       "name": "Here For The Party",
       "url": "https://open.spotify.com/track/25aLYsdkEkwRIKWGUE6q6w"
@@ -3020,7 +3038,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 209386,
       "name": "Hey School Boy",
       "url": "https://open.spotify.com/track/6nuLMQ9g3NAObKgdZ9YLbu"
@@ -3132,7 +3150,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 161013,
       "name": "Hot Tonight",
       "url": "https://open.spotify.com/track/6DJ7CDYlN9XcWuUUf71ZDT"
@@ -3738,10 +3756,28 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
+    },
+    {
+      "album": {
+        "name": "Not The End Of The World",
+        "url": "https://open.spotify.com/album/5R60KSP6KteDQOmbUfmrA4"
+      },
+      "artists": [
+        {
+          "name": "Cilver",
+          "url": "https://open.spotify.com/artist/5fpD3Iuy3RvPzcbWiekX7h"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219266,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/4NtZFmh1EST9OMwgfXaMwU"
     },
     {
       "album": {
@@ -3918,7 +3954,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 153653,
       "name": "Killer Life",
       "url": "https://open.spotify.com/track/6mWZ1gqO4e2BMBnPUUREOJ"
@@ -3972,7 +4008,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 193587,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
@@ -4740,7 +4776,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 180022,
       "name": "Mistake",
       "url": "https://open.spotify.com/track/5XVGaEkX15Rza4c9L6p2GN"
@@ -4830,7 +4866,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 230480,
       "name": "Mr. Freakshow",
       "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
@@ -5248,7 +5284,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 294034,
       "name": "ON/OFF",
       "url": "https://open.spotify.com/track/2oi4hWFRdINGh5LHdKumhU"
@@ -5500,7 +5536,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 210752,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/0vwybhwApSr7yDIA35l7J1"
@@ -6224,7 +6260,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 191880,
       "name": "Slow And Easy",
       "url": "https://open.spotify.com/track/5fFgkMWnahtrpSIWsBpxz8"
@@ -6368,7 +6404,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 198778,
       "name": "Step Outside",
       "url": "https://open.spotify.com/track/3EbZm1kpZC2b0mwPMbGWL3"
@@ -6880,7 +6916,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 217000,
       "name": "Think Like A Man",
       "url": "https://open.spotify.com/track/2nLcGjxoSbVrgdUwtMcJxs"
@@ -7208,7 +7244,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 74239,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/10SC9NmZ3umGmZc3AErkSS"

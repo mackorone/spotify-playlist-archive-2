@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Gabriela Bee
 
-1,069 songs - 2 day 9 hr 35 min
+1,070 songs - 2 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,6 +731,7 @@
 | [People Who Love People](https://open.spotify.com/track/3ph60eaOkjFlIBVNqbGuJS) | [Lauren Wallace](https://open.spotify.com/artist/6kQlU9z8SfhsepmwhQhQCu) | [Salt Stained Lungs](https://open.spotify.com/album/29lRw042Sd7EqT5BS6aNA2) | 3:34 | 2025-07-04 | 2025-09-27 |
 | [Peppermint Sky](https://open.spotify.com/track/2jabv3amUzqPxqWInOQEHK) | [Abi Carter](https://open.spotify.com/artist/6ryJRp2gIl77hK36D8tz2m) | [Peppermint Sky](https://open.spotify.com/album/2qRdKjU7UL9ozU9AX2iCNR) | 2:49 | 2024-07-26 | 2025-02-18 |
 | [Phoebe Told Me](https://open.spotify.com/track/6ZkrNW7ER27c4TtFckZ7xg) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Phoebe Told Me](https://open.spotify.com/album/3uGP2UKICbNUs08mUe55yo) | 3:56 | 2022-03-04 | 2022-06-04 |
+| [picking petals](https://open.spotify.com/track/0VekjqDttKaEwQ1XowzE7B) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [picking petals](https://open.spotify.com/album/7nEq3wBHWyXjhi80GE6cEf) | 3:48 | 2026-04-29 |  |
 | [Pictures Of You](https://open.spotify.com/track/6Q1i73OuBudnyvDLyxdyMJ) | [Myya's Diary](https://open.spotify.com/artist/34InewAqwTV9yX2PCK3y77) | [Pictures Of You](https://open.spotify.com/album/4gxmr0oHbHJQ9cve16vfve) | 2:22 | 2025-01-24 | 2025-06-07 |
 | [Pindrop](https://open.spotify.com/track/7jUlxlPNnFxkkeKefbBSaI) | [Ruby Plume](https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84) | [Pindrop](https://open.spotify.com/album/6Evr4r8MxqnoEb1ttAVskr) | 2:48 | 2025-10-10 | 2026-03-28 |
 | [placeholder](https://open.spotify.com/track/0P81XsLbHOGPMzTwMtmxfP) | [Julia Minichiello](https://open.spotify.com/artist/48P7q8BbOWyafkQNqGXLmS) | [placeholder](https://open.spotify.com/album/5wIu0AYkYEuZ1tKg9PFsUd) | 3:35 | 2025-04-11 | 2025-07-19 |
@@ -982,7 +983,7 @@
 | [U\-Turn](https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [U\-Turn](https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz) | 3:26 | 2025-09-26 | 2026-02-28 |
 | [Uncomfortable](https://open.spotify.com/track/0JDLR0RGTSw0KDkn6r4oEz) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [SEND HELP](https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt) | 2:54 | 2022-09-09 | 2022-12-24 |
 | [Understood](https://open.spotify.com/track/1U1oiy0gG7yqhzJ8duuzMd) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Understood](https://open.spotify.com/album/7f7tuG3YU6KszNajcLEmpy) | 2:11 | 2023-02-17 | 2023-04-09 |
-| [Underworld](https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ) | 3:20 | 2025-10-31 |  |
+| [Underworld](https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ) | 3:20 | 2025-10-31 | 2026-04-29 |
 | [Unfinished Business](https://open.spotify.com/track/51Es7m0L8xBEthyJna04so) | [Liv Miraldi](https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY) | [Unfinished Business](https://open.spotify.com/album/4EgBAIKvsEgr9JZXd28G6K) | 3:56 | 2024-08-23 | 2025-01-18 |
 | [Universe](https://open.spotify.com/track/6Cm5uLnM47WzZUZifIqMgM) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Universe](https://open.spotify.com/album/6UI2kIBhFmj2LRcfRzjnQl) | 3:55 | 2022-03-25 | 2022-09-28 |
 | [Unrecognizable](https://open.spotify.com/track/3GxQ8j3v80oVBVEozR5iKm) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 2: The Shedding](https://open.spotify.com/album/4ud34EAx7gghmzMVlgikuZ) | 3:36 | 2022-01-14 | 2022-03-05 |

@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Rhineland, The Wild Wind, VICTORS and more
+> With Rhineland, VICTORS, The Wild Wind and more
 
 1,438 songs - 3 day 20 hr 11 min
 

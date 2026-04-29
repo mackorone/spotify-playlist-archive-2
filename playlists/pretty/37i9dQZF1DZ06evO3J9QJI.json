@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae1VgAAAAAA3WVvua+NvJf6sg++Nt+zW",
+  "snapshot_id": "ae6nAAAAAACQLatLR/oRxwTKaKqKmIU/",
   "tracks": [
     {
       "added_at": null,
@@ -290,11 +290,19 @@
         {
           "name": "Caddillac Tah",
           "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
         }
       ],
-      "duration_ms": 229333,
-      "name": "Poverlous",
-      "url": "https://open.spotify.com/track/71xeqdNfrcUdBMAOA2YdRX"
+      "duration_ms": 269906,
+      "name": "Come-N-Go",
+      "url": "https://open.spotify.com/track/2vjRhzgzI2yOykIDLKnJ7b"
     },
     {
       "added_at": null,
@@ -310,19 +318,11 @@
         {
           "name": "Caddillac Tah",
           "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
-        },
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
         }
       ],
-      "duration_ms": 269906,
-      "name": "Come-N-Go",
-      "url": "https://open.spotify.com/track/2vjRhzgzI2yOykIDLKnJ7b"
+      "duration_ms": 229333,
+      "name": "Poverlous",
+      "url": "https://open.spotify.com/track/71xeqdNfrcUdBMAOA2YdRX"
     },
     {
       "added_at": null,

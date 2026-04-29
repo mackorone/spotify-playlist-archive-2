@@ -2,9 +2,9 @@
 
 ### [Sora Ambient](https://open.spotify.com/playlist/37i9dQZF1DWZqNqPemiefM)
 
-> The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: Meitei
+> The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: Black Boboi
 
-999 songs - 3 day 3 hr 23 min
+1,000 songs - 3 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -706,6 +706,7 @@
 | [Selves](https://open.spotify.com/track/2IgnQvtHY5HD2YDnlbhejy) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Selves](https://open.spotify.com/album/3hVHSI29kCGkipLRUfaily) | 4:58 | 2023-03-23 | 2023-07-06 |
 | [Selves](https://open.spotify.com/track/5pkvDUPmXkTuzE5eH52dxI) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [unpeople](https://open.spotify.com/album/1Ot0Gz2lPVgWSKK0ErnCxI) | 4:59 | 2023-10-05 | 2023-11-24 |
 | [sen no hikari](https://open.spotify.com/track/4WDB7Tp4DeisyWa8OgUIyr) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [sen no hikari](https://open.spotify.com/album/1WATQU72oeUUFSuTiHFh6y) | 6:24 | 2024-05-09 | 2024-05-24 |
+| [Sepia](https://open.spotify.com/track/6scgP1jNEy8IVcrbtWo8zh) | [Black Boboi](https://open.spotify.com/artist/1d0tqPDaL5aLB0Ep2Zjcgn) | [Sepia](https://open.spotify.com/album/1NcA4ducN3BDt1ZVGvNG1Z) | 4:28 | 2026-04-28 |  |
 | [Sepia Tone](https://open.spotify.com/track/0STwHoXTxqI4ESr3jsPGBH) | [M\-Koda](https://open.spotify.com/artist/6dut1BTL7lPjehxMgA9865) | [External Reference](https://open.spotify.com/album/4C1D3Iiz8Ftpsg4pSlAetA) | 2:38 | 2022-03-31 | 2022-04-03 |
 | [sequence\_03](https://open.spotify.com/track/5NVo3uIs3ovNFSxA3mvOXV) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB), [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [暗やみの色 Colors of the Dark](https://open.spotify.com/album/6UkBkE4Xtw80cdd3JV8DRu) | 4:04 | 2022-03-31 | 2022-07-27 |
 | [Sequoia Suns](https://open.spotify.com/track/75MKoZvlGCpHDCF5u1xQLf) | [Dianna Lopez](https://open.spotify.com/artist/5C7POGyWtwj98P9yaabh4T) | [Earth Expressions](https://open.spotify.com/album/4NuG2YFq2u1jcawenqnPTi) | 2:31 | 2026-04-07 |  |

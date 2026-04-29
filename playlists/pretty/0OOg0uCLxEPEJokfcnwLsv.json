@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 945,
+  "num_followers": 955,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAF2xFC9/xGgrlTBFu+mzaKeRK3ttLy",
+  "snapshot_id": "AAAF3p8nLUDD0hf8cwlU++Ho2SVXXOCz",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1731,6 +1731,54 @@
       "duration_ms": 261439,
       "name": "Another Day Is Gone",
       "url": "https://open.spotify.com/track/0HS4fqcRazWuujB0aTdwiD"
+    },
+    {
+      "added_at": "2026-04-28 14:20:02",
+      "album": {
+        "name": "Ghost Inside",
+        "url": "https://open.spotify.com/album/43IxBBYFLt7aODOmnuVMtQ"
+      },
+      "artists": [
+        {
+          "name": "Magacadabra",
+          "url": "https://open.spotify.com/artist/2jSMVZ9eXDVIHDtk3ulfxs"
+        }
+      ],
+      "duration_ms": 196082,
+      "name": "Ghost Inside",
+      "url": "https://open.spotify.com/track/4SHiHRp5IWJJdwwZdSv0RV"
+    },
+    {
+      "added_at": "2026-04-28 21:01:41",
+      "album": {
+        "name": "\u00c4ngste",
+        "url": "https://open.spotify.com/album/3zYyBFxpDBZ2S9nLu72FA3"
+      },
+      "artists": [
+        {
+          "name": "Seelenpein",
+          "url": "https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV"
+        }
+      ],
+      "duration_ms": 197284,
+      "name": "\u00c4ngste",
+      "url": "https://open.spotify.com/track/5uWyW8ndF4m6Q56T3RhUke"
+    },
+    {
+      "added_at": "2026-04-28 21:29:37",
+      "album": {
+        "name": "SHARPEN",
+        "url": "https://open.spotify.com/album/7xghrLC6yKsigFWWGsjUcx"
+      },
+      "artists": [
+        {
+          "name": "RedMoon",
+          "url": "https://open.spotify.com/artist/1tRFUNiUD1F6JEUTa2aQAo"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "SHARPEN",
+      "url": "https://open.spotify.com/track/2Dfv6jg3y2YChiyeGXTOby"
     }
   ],
   "unique_name": "Unsigned Rock",

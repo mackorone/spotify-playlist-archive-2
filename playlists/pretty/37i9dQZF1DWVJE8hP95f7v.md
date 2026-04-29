@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Liniker
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,331 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,352 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 74 | [Luzes e Flashes](https://open.spotify.com/track/3KdtQeQ70qqCijTLlpbiBv) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [Luzes e Flashes](https://open.spotify.com/album/06NOcxlBI6V5SkuRdQGItH) | 3:31 |
 | 75 | [São Paulo High Society \- Remix](https://open.spotify.com/track/0ZX7KT4d4iDPCVadpcj0kn) | [Almir Ricardi](https://open.spotify.com/artist/6LycV8XSGC3KMwcLF08kxb), [Luísa Viscardi](https://open.spotify.com/artist/5crcFRnnfwZTcGybeH6OH3), [Shaka](https://open.spotify.com/artist/6C2JXtWjH9WXUdC7T8ViU4), [Afterclapp](https://open.spotify.com/artist/6SOIDTPmPScMiJYBm75gRC) | [São Paulo High Society \(Remix\)](https://open.spotify.com/album/3n8EMWGqqovL4THs4lx1w9) | 3:35 |
 
-Snapshot ID: `AAAAANve+P1FsbFX/l4ztljoWOSBhf+A`
+Snapshot ID: `AAAAAA5FB/tR+uVjH9z6Z92wjXv1labh`

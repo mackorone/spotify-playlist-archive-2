@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Jai'len Josey
 
-5,433 songs - 11 day 19 hr 27 min
+5,433 songs - 11 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4149,7 +4149,7 @@
 | [Since We Ain't Together](https://open.spotify.com/track/7eB3zMEk2I77BCMx7a5fXD) | [Nia Chennai](https://open.spotify.com/artist/0iHJWiuW0rtMwtlLr0sPtR) | [Since We Ain't Together](https://open.spotify.com/album/49Lod646QQQAiS0pCeHucW) | 3:16 | 2023-01-27 | 2023-03-18 |
 | [Since You've Been Gone](https://open.spotify.com/track/0xm6AATpiaDaVQce6DecIZ) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh), [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Since You've Been Gone](https://open.spotify.com/album/1SC9B04nmP42O8ckTuelR8) | 3:46 | 2023-04-28 | 2023-07-01 |
 | [SINCERITY](https://open.spotify.com/track/6vsviYXBwZkX3LUdXcnxC1) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [SINCERITY](https://open.spotify.com/album/6hQ3ZgQh0JAaNDP2GOwBOQ) | 2:47 | 2025-04-25 | 2025-06-14 |
-| [Single For Life](https://open.spotify.com/track/61P4SSSQcz4POuUGcTK96g) | [Renee Harmoni](https://open.spotify.com/artist/5wrgRZFLPBu9VnIdljwS4m) | [Single For Life](https://open.spotify.com/album/7hWJovep8pgS0DS6DHMan5) | 3:46 | 2026-04-24 |  |
+| [Single For Life](https://open.spotify.com/track/61P4SSSQcz4POuUGcTK96g) | [Renee Harmoni](https://open.spotify.com/artist/5wrgRZFLPBu9VnIdljwS4m) | [Single For Life](https://open.spotify.com/album/7hWJovep8pgS0DS6DHMan5) | 2:44 | 2026-04-24 |  |
 | [Single Friends](https://open.spotify.com/track/743OL1CbU68ZEVEp3qp2Bk) | [Devvon Terrell](https://open.spotify.com/artist/4WcJL1x8azi1Qkv4jc6fhH) | [Single Friends](https://open.spotify.com/album/43ZO98ptK0zSicLDZFyKcb) | 2:06 | 2023-05-12 | 2023-06-10 |
 | [Sink In](https://open.spotify.com/track/6OiQNUMCLXJtJxOmUsoyFA) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sink In](https://open.spotify.com/album/6q5HmSWBX2lbGH3SCSZOIe) | 2:16 | 2024-10-25 | 2025-01-18 |
 | [sink or swim](https://open.spotify.com/track/7cSzfId9hyN4CjdFKKKojm) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [sink or swim](https://open.spotify.com/album/5dk6DPvWnVfKNBhJQBXcsx) | 3:12 | 2023-04-07 | 2023-06-10 |
@@ -5291,7 +5291,7 @@
 | [WIDE AWAKE](https://open.spotify.com/track/3QpokHQgkv6c1W0cGQGR0t) | [N'shai Iman](https://open.spotify.com/artist/2AZ9f5iFR5YiuZFOFFR8BI) | [N'SHAI IMAN](https://open.spotify.com/album/6MASAy6CNdpnLSqj0SJBTs) | 2:55 | 2026-04-03 |  |
 | [WIFI](https://open.spotify.com/track/7pRkL5hRCevJyQqvPbiHgR) | [Nick LaVelle](https://open.spotify.com/artist/7eM6Y3ZI50LsZVTOTHK570), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [WIFI](https://open.spotify.com/album/2Shwub004iSYpjZZflBbdj) | 2:53 | 2023-12-01 | 2024-01-27 |
 | [wild horses](https://open.spotify.com/track/32f9jlQeaRl1362WmCdGpm) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [wild horses](https://open.spotify.com/album/7k4dnCbTDEXY74f3Z1UXpI) | 3:15 | 2022-02-11 | 2022-03-26 |
-| [Wild Ride](https://open.spotify.com/track/41X89JT5axSqQYozs2op40) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Wild Ride](https://open.spotify.com/album/3QjRU4e65hcwIBUYyX8zHY) | 3:41 | 2026-03-20 |  |
+| [Wild Ride](https://open.spotify.com/track/41X89JT5axSqQYozs2op40) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Wild Ride](https://open.spotify.com/album/3QjRU4e65hcwIBUYyX8zHY) | 4:02 | 2026-03-20 |  |
 | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR) | 2:42 | 2023-10-27 | 2023-12-16 |
 | [Wildfire](https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:11 | 2026-04-03 |  |
 | [Wildflower](https://open.spotify.com/track/4Q8j42ptbYUdEm2HqGJBew) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Wildflower](https://open.spotify.com/album/1GEEiVfa1u61UayWyXUkFE) | 6:26 | 2024-08-30 | 2024-11-16 |

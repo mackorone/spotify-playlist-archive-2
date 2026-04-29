@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-31",
-  "description": "The artisanal ambient and alternative sounds make you float in the air. / \u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af cover: Meitei",
+  "description": "The artisanal ambient and alternative sounds make you float in the air. / \u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af cover: Black Boboi",
   "name": "Sora Ambient",
   "tracks": [
     {
@@ -13206,6 +13206,24 @@
       "duration_ms": 384000,
       "name": "sen no hikari",
       "url": "https://open.spotify.com/track/4WDB7Tp4DeisyWa8OgUIyr"
+    },
+    {
+      "album": {
+        "name": "Sepia",
+        "url": "https://open.spotify.com/album/1NcA4ducN3BDt1ZVGvNG1Z"
+      },
+      "artists": [
+        {
+          "name": "Black Boboi",
+          "url": "https://open.spotify.com/artist/1d0tqPDaL5aLB0Ep2Zjcgn"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268938,
+      "name": "Sepia",
+      "url": "https://open.spotify.com/track/6scgP1jNEy8IVcrbtWo8zh"
     },
     {
       "album": {

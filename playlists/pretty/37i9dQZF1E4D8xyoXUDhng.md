@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Kurt Carr & The Kurt Carr Singers, Marvin Winans, Donald Lawrence & The Tri\-City Singers and more
+> With Vanessa Bell Armstrong, Donald Lawrence & The Tri\-City Singers, Douglas Miller and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 359 likes - 50 songs - 4 hr 48 min
 

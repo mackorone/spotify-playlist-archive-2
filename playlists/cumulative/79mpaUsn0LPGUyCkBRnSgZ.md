@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,122 songs - 3 day 0 hr 43 min
+1,123 songs - 3 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [MC Moose](https://open.spotify.com/artist/0xKEnflICsX9GtyjQdkv1O) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 | 2024-01-05 |  |
 | [Gospel For A New Century](https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO) | 3:18 | 2023-11-22 | 2024-04-10 |
 | [Gostar do Mundo](https://open.spotify.com/track/4JFbDXnpgNLxX83jJytV15) | [Sessa](https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ) | [Estrela Acesa](https://open.spotify.com/album/6INpt0l0lIDYZKAKO8vIC5) | 2:21 | 2024-07-25 |  |
+| [Gotta Start Somewhere](https://open.spotify.com/track/6XwgWvXy9k2eEymsdO0TOR) | [Jon Brion](https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP) | [Meaningless](https://open.spotify.com/album/7ldLryq64OYeDuu4rUTjfH) | 4:13 | 2026-04-28 |  |
 | [Graveyard Shift](https://open.spotify.com/track/4GGvLe0rAVoqGIg7aZnxBC) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [No Depression](https://open.spotify.com/album/4khnycwIKJXlo2ToImlQCf) | 4:43 | 2025-06-20 | 2025-07-25 |
 | [Great No One](https://open.spotify.com/track/4c03SdScyZkFELVKv70fna) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Future Me Hates Me](https://open.spotify.com/album/3tEbzW0ERmSIPNVekmeYOl) | 3:22 | 2022-12-09 | 2024-04-09 |
 | [Grog](https://open.spotify.com/track/2MgrfiUgqkS4s6l5Cem0SY) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [GROG](https://open.spotify.com/album/1TEMvDFgL8AGNszROlwxOE) | 0:21 | 2025-02-14 | 2025-11-19 |

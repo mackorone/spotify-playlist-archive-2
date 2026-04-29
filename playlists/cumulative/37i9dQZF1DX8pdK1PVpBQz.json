@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: LUBBY",
+  "description": "The best new music by independent artists and labels. Cover: DRIZZZ",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -20440,7 +20440,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 182436,
       "name": "Dream",
       "url": "https://open.spotify.com/track/3A1bMgsYhRWBgWy9E0tgOo"
@@ -37959,6 +37959,24 @@
     },
     {
       "album": {
+        "name": "Infected",
+        "url": "https://open.spotify.com/album/76Z3GpMpeCwXAiIF1RRhCd"
+      },
+      "artists": [
+        {
+          "name": "Ex-Citizen!",
+          "url": "https://open.spotify.com/artist/5Z0VGSaEJNTWoSzpMPSygg"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257242,
+      "name": "Infected",
+      "url": "https://open.spotify.com/track/0GtZ6QVU4xuQXXGlE6ZA3s"
+    },
+    {
+      "album": {
         "name": "infinite money glitch",
         "url": "https://open.spotify.com/album/3gFMu1LNaNQlyi5wzTwgj9"
       },
@@ -48146,7 +48164,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 125989,
       "name": "Moral Compass",
       "url": "https://open.spotify.com/track/4RbtHpN1lEWeSkiR81Lf3b"
@@ -48392,6 +48410,28 @@
       "duration_ms": 111141,
       "name": "Moses",
       "url": "https://open.spotify.com/track/3dS4MedLzfFe9s16HEMn72"
+    },
+    {
+      "album": {
+        "name": "Mosquito Bite",
+        "url": "https://open.spotify.com/album/2fKY6xy9wZ0dR8mQEmgNk1"
+      },
+      "artists": [
+        {
+          "name": "Olana",
+          "url": "https://open.spotify.com/artist/5RSYUHJZOGckUL0J4w9kYy"
+        },
+        {
+          "name": "Swick",
+          "url": "https://open.spotify.com/artist/5VNkkC3qDvK5k5qtfEaEID"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158627,
+      "name": "Mosquito Bite",
+      "url": "https://open.spotify.com/track/3yr4qcTZMSMUuZB99hsI5M"
     },
     {
       "album": {
@@ -57956,7 +57996,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 174560,
       "name": "Preacher",
       "url": "https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK"
@@ -58868,6 +58908,24 @@
       "duration_ms": 114514,
       "name": "Push Start",
       "url": "https://open.spotify.com/track/0AWWq2PcKq64cQCjOHpqai"
+    },
+    {
+      "album": {
+        "name": "Push Through",
+        "url": "https://open.spotify.com/album/5qjCjTSrAtjzIvnOr7L7eZ"
+      },
+      "artists": [
+        {
+          "name": "Darcy Lane",
+          "url": "https://open.spotify.com/artist/2Jp7AC0nIPSgOFOeX6N4Uh"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170635,
+      "name": "Push Through",
+      "url": "https://open.spotify.com/track/1WcGvyxLZYr3TVxKgOLakR"
     },
     {
       "album": {
@@ -65422,7 +65480,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 131312,
       "name": "skins",
       "url": "https://open.spotify.com/track/59JLmPHHjlpHZv9vIZeoIk"
@@ -77924,7 +77982,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 209253,
       "name": "urs",
       "url": "https://open.spotify.com/track/1NjlNuflT8KSeCOWeyY1II"
@@ -78184,6 +78242,24 @@
       "duration_ms": 239434,
       "name": "Venice In Vegas",
       "url": "https://open.spotify.com/track/4e3SbftWWthMLLC2NiLxsR"
+    },
+    {
+      "album": {
+        "name": "VENTIN",
+        "url": "https://open.spotify.com/album/0JF8GljcODXnuuCNp8bKdZ"
+      },
+      "artists": [
+        {
+          "name": "DRIZZZ",
+          "url": "https://open.spotify.com/artist/1cr4aKJ1SFmSVZBbmukJB0"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126811,
+      "name": "VENTIN",
+      "url": "https://open.spotify.com/track/2NMa13i7VhlDEwiwM4Hwgk"
     },
     {
       "album": {
@@ -78700,6 +78776,28 @@
       "duration_ms": 170889,
       "name": "Waiting On You",
       "url": "https://open.spotify.com/track/7htqT7oKhLs8GAgRjI0avD"
+    },
+    {
+      "album": {
+        "name": "Gap Creek Falls",
+        "url": "https://open.spotify.com/album/53z6QTbgJcoTidi8HLg5pw"
+      },
+      "artists": [
+        {
+          "name": "Hag",
+          "url": "https://open.spotify.com/artist/0sfOldQlfT7CjziiNZbLxP"
+        },
+        {
+          "name": "Hati",
+          "url": "https://open.spotify.com/artist/3CGJ7eC4KINcfIpFZCgLvP"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166775,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/6LE83kMa6t2lF26XWRHefs"
     },
     {
       "album": {

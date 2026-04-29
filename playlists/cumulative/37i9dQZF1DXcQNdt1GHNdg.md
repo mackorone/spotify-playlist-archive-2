@@ -2,9 +2,9 @@
 
 ### [Punjabi Pump](https://open.spotify.com/playlist/37i9dQZF1DXcQNdt1GHNdg)
 
-> Pump up your adrenaline with Punjabi hits!
+> Pump up your adrenaline with Sidhu Moosewala & more!
 
-334 songs - 16 hr 1 min
+335 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Behja Behja](https://open.spotify.com/track/0uBZBeRrBsUuJTepslamCJ) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Abbu](https://open.spotify.com/artist/2g8fHIiFYVaCtpilQR5YTv) | [Another Level](https://open.spotify.com/album/6GYai5E5mBTnottHe72eXm) | 2:27 | 2023-07-18 | 2024-01-31 |
 | [Bhasudi \- From "Raduaa Returns"](https://open.spotify.com/track/3j3S4kIbYbv18Sx5X6jfn2) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Ullumanati](https://open.spotify.com/artist/4lYNRgHw7avPnT7pK1mehz) | [Bhasudi \(From "Raduaa Returns"\)](https://open.spotify.com/album/1Pr4LQoCZsoyorOCByrC97) | 3:00 | 2024-11-18 | 2024-11-29 |
 | [Bhau Flow](https://open.spotify.com/track/0CfXLJr9A4qrcRkABEJM04) | [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Manu](https://open.spotify.com/artist/3IKpHWEZQ8pPp4PEsGuT28) | [Bhau Flow](https://open.spotify.com/album/6pTLQrkzuIstrgimGY4SRD) | 2:05 | 2025-11-14 | 2026-02-13 |
-| [Big Shot](https://open.spotify.com/track/5JRWkbK0vvCP50ow1QfF3A) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [YAADA](https://open.spotify.com/artist/2dU9wpbCMJYxx6FvM4jBON) | [Big Shot](https://open.spotify.com/album/5maqmL5k0QvRf2RRsqwd9J) | 2:57 | 2026-03-19 |  |
+| [Big Shot](https://open.spotify.com/track/5JRWkbK0vvCP50ow1QfF3A) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [YAADA](https://open.spotify.com/artist/2dU9wpbCMJYxx6FvM4jBON) | [Big Shot](https://open.spotify.com/album/5maqmL5k0QvRf2RRsqwd9J) | 2:57 | 2026-03-19 | 2026-04-29 |
 | [Big Things](https://open.spotify.com/track/2aCK04kzCID5znbfYOaH9n) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [FYI \(For Your Information\)](https://open.spotify.com/album/5vIvwhpEXU5SeIFhNM9phf) | 2:18 | 2025-07-30 |  |
 | [Bitch I'm Back](https://open.spotify.com/track/2mKvEIvd912eg3FZ8WamMS) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:50 | 2023-07-18 | 2025-02-04 |
 | [Blackberry Sap](https://open.spotify.com/track/2MajsZJ85B49Rt1KWhu4P7) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 4:52 | 2024-04-06 | 2024-08-27 |
@@ -115,6 +115,7 @@
 | [Elevated](https://open.spotify.com/track/2AilvPt1AQ8PixlCKqkjfj) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Elevated](https://open.spotify.com/album/1XNS0VIWnEKteOv1fa0okk) | 3:20 | 2023-07-18 | 2024-04-19 |
 | [ELEVATED](https://open.spotify.com/track/6btas8Eignhw8yKp4VJvGi) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [ELEVATED](https://open.spotify.com/album/7tK9pQYQGTEduNW5i6V24t) | 3:20 | 2024-04-06 | 2025-02-19 |
 | [Excited](https://open.spotify.com/track/1DqKLJLywjvmLDNwINeAFG) | [Angad Aliwal](https://open.spotify.com/artist/5aT1z6vnIsnwgpl26WXq4A), [Dreamboydb](https://open.spotify.com/artist/6IpzfSDLqXLQeAofLCI16u) | [Excited](https://open.spotify.com/album/2NZw0g2hxs9pVp3TSGBnMh) | 2:28 | 2024-09-09 | 2024-10-05 |
+| [Eyes on Me](https://open.spotify.com/track/041jCU9PMkrksVubpD0p1A) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Eyes on Me](https://open.spotify.com/album/2kjlMkUMIX8WvRSEH5ZNzW) | 2:34 | 2026-04-28 |  |
 | [FACE OFF](https://open.spotify.com/track/7qkgvMJnsiRKal9xwUNY2u) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [FACE OFF](https://open.spotify.com/album/4KDsmt9DK3uFdOxJoAFUjU) | 2:31 | 2025-04-14 | 2025-05-07 |
 | [Famous Enough](https://open.spotify.com/track/5HzPjMMntmDxCvHBhrzKrY) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Paper Before Money](https://open.spotify.com/album/1W8xXVyN2UEJWhaQAtrHcC) | 4:00 | 2024-06-03 | 2024-09-11 |
 | [Faraar](https://open.spotify.com/track/72H6G8v9xyuwdRBaTkoT5G) | [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Faraar](https://open.spotify.com/album/1HFaZl1hPmSnvdTQxshVQe) | 2:10 | 2023-07-18 | 2025-04-05 |

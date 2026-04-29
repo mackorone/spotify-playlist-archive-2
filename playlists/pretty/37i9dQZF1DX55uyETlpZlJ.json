@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Vasuki Vaibhav",
-  "num_followers": 26821,
+  "num_followers": 26826,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFnduPcTH7BuwOd6r9KOoDWfIo3M",
+  "snapshot_id": "AAAAADVu9n5T6bBX8D9zGjDaBFUsoQop",
   "tracks": [
     {
       "added_at": "2026-04-13 07:13:28",
@@ -39,6 +39,38 @@
       "duration_ms": 218500,
       "name": "Seetha Kalyana",
       "url": "https://open.spotify.com/track/58XLGj0o2jt9gkcFf0Xves"
+    },
+    {
+      "added_at": "2026-04-28 07:02:27",
+      "album": {
+        "name": "Bhasavagide",
+        "url": "https://open.spotify.com/album/5ygSD8XlsBdDIWF7A9J4GC"
+      },
+      "artists": [
+        {
+          "name": "Narayan Sharma",
+          "url": "https://open.spotify.com/artist/3bLpM0uZQGjGyxtXgJa8hP"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Bhasavagide",
+      "url": "https://open.spotify.com/track/75hEkJDOSNvGTPGLiB7Ti5"
+    },
+    {
+      "added_at": "2026-04-28 08:45:44",
+      "album": {
+        "name": "Ninnane Bayaside",
+        "url": "https://open.spotify.com/album/33GQPFDfTN8Hg4mCZF74wo"
+      },
+      "artists": [
+        {
+          "name": "Satvik C S",
+          "url": "https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR"
+        }
+      ],
+      "duration_ms": 172312,
+      "name": "Ninnane Bayaside",
+      "url": "https://open.spotify.com/track/5x2OL1p8B5qsYb13kzps5e"
     },
     {
       "added_at": "2026-03-26 09:52:14",
@@ -1315,50 +1347,6 @@
       "duration_ms": 235027,
       "name": "Nanna Jagavu Neenu (From \"Gani B.Com Pass 2\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/4kNC9ADIumIMZVi1xLlCnx"
-    },
-    {
-      "added_at": "2025-11-06 11:32:04",
-      "album": {
-        "name": "Ninnale Kaledodenaa",
-        "url": "https://open.spotify.com/album/5yWTnUa6Ilvj3H6Xmq8BJJ"
-      },
-      "artists": [
-        {
-          "name": "Kalyan Manjunath",
-          "url": "https://open.spotify.com/artist/35Wzhm2uv7DeqM1xRQwcU6"
-        },
-        {
-          "name": "Kishore Vishwakarma",
-          "url": "https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ"
-        },
-        {
-          "name": "Bharat Jain",
-          "url": "https://open.spotify.com/artist/2Axgtr4RXPBmnJW3vd6l0d"
-        }
-      ],
-      "duration_ms": 154170,
-      "name": "Ninnale Kaledodenaa",
-      "url": "https://open.spotify.com/track/76qkjYTaUP0Y2OmzKmAT1h"
-    },
-    {
-      "added_at": "2025-10-22 09:46:29",
-      "album": {
-        "name": "Life Is Casino",
-        "url": "https://open.spotify.com/album/5SVm1UvQuDgoJVburb1lmv"
-      },
-      "artists": [
-        {
-          "name": "Chandan Shetty",
-          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
-        },
-        {
-          "name": "Chris Gayle (UniverseBoss)",
-          "url": "https://open.spotify.com/artist/5mK0ENhGjR5aGlUYeoBt5V"
-        }
-      ],
-      "duration_ms": 214241,
-      "name": "Life Is Casino",
-      "url": "https://open.spotify.com/track/7Hxk8pCTMLbznT45Pe14Vi"
     },
     {
       "added_at": "2025-11-03 08:25:21",

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain](/playlists/plain/0HYrV7yGRYO79oVRILcrqr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0HYrV7yGRYO79oVRILcrqr)
 
-### [🎸 Rock 'n Blues   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues \(R&B\), Soul](https://open.spotify.com/playlist/0HYrV7yGRYO79oVRILcrqr)
+### [🎸 Rock Music Hits   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues \(R&B\), So](https://open.spotify.com/playlist/0HYrV7yGRYO79oVRILcrqr)
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,794 likes - 93 songs - 6 hr 10 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,794 likes - 94 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,5 +101,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 91 | [Sunset](https://open.spotify.com/track/7CsKnmUslC5VMv8BrmqKGu) | [Foreignson and his Ghosts](https://open.spotify.com/artist/6mHpLUCFZ6U5aOY4Qmjy3h) | [Sunset](https://open.spotify.com/album/72RiC6OVViv5sf3Rrb1gyX) | 4:19 |
 | 92 | [Fingers Crossed](https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Fingers Crossed](https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q) | 3:48 |
 | 93 | [She's Not There \- Mono Remastered](https://open.spotify.com/track/5BATmTqGopeifUzHN2bE0f) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here \(Mono Remastered\)](https://open.spotify.com/album/1mn5LBTE4qewxKGILnX70v) | 2:25 |
+| 94 | [Half\-Life of a Heartbeat](https://open.spotify.com/track/2P9XNblTIpL9ioNcCbQymA) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Ink and Amber](https://open.spotify.com/album/7FvBEOcjFPjcma46YjY8XL) | 3:48 |
 
-Snapshot ID: `AAALMDFIzNg0qjjWU0BIbtx5iISOWs52`
+Snapshot ID: `AAALMtBZSuEJYgkWVPOWCG5bl9VaglYp`

@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "The Winter Sloths",
+        "url": "https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr"
+      },
+      "artists": [
+        {
+          "name": "The Winter Sloths",
+          "url": "https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202121,
+      "name": "Closer and Closer",
+      "url": "https://open.spotify.com/track/1KXdZfYypUjsYI6EaDK9Rn"
+    },
+    {
+      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/0kK3HC6RY9nFjnWeQtiy2k"
       },
@@ -2222,6 +2240,28 @@
       "duration_ms": 254545,
       "name": "Howl",
       "url": "https://open.spotify.com/track/33oOuVkCvF8GDgQrGv5Ro0"
+    },
+    {
+      "album": {
+        "name": "I can never say goodbye",
+        "url": "https://open.spotify.com/album/3FnOhzdk1L2NoiTxpDrGfy"
+      },
+      "artists": [
+        {
+          "name": "Julian Phelps",
+          "url": "https://open.spotify.com/artist/5SWUppAbeDxzYJYvjthlMZ"
+        },
+        {
+          "name": "Finn Marley",
+          "url": "https://open.spotify.com/artist/4h8orojRb1n2nOdw3VLbQp"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195543,
+      "name": "I can never say goodbye",
+      "url": "https://open.spotify.com/track/5Qo2AgUCYhrKlE63XHuXyB"
     },
     {
       "album": {
@@ -4284,6 +4324,24 @@
       "duration_ms": 192964,
       "name": "Shame",
       "url": "https://open.spotify.com/track/2fQOgFbGu8J4yq32HP4864"
+    },
+    {
+      "album": {
+        "name": "SHARPEN",
+        "url": "https://open.spotify.com/album/7xghrLC6yKsigFWWGsjUcx"
+      },
+      "artists": [
+        {
+          "name": "RedMoon",
+          "url": "https://open.spotify.com/artist/1tRFUNiUD1F6JEUTa2aQAo"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191946,
+      "name": "SHARPEN",
+      "url": "https://open.spotify.com/track/2Dfv6jg3y2YChiyeGXTOby"
     },
     {
       "album": {

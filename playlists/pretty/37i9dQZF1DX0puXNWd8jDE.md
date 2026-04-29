@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 
 > 偷練不是罪、抖音無所謂、最新曲目讓你全台包廂任意走跳！
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,795 likes - 65 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,805 likes - 65 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [天使借的溫柔](https://open.spotify.com/track/3ITUmRLMjxf3ZqCPSDD2gk) | [艾薇 Ivy Ivy](https://open.spotify.com/artist/5XlSZBfXu3E6f0X4lr0wAf) | [天使借的溫柔](https://open.spotify.com/album/12zyWwLiTBobJgGvPw462K) | 3:28 |
+| 1 | [天使借的溫柔](https://open.spotify.com/track/3ITUmRLMjxf3ZqCPSDD2gk) | [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [天使借的溫柔](https://open.spotify.com/album/12zyWwLiTBobJgGvPw462K) | 3:28 |
 | 2 | [看着我的眼睛说](https://open.spotify.com/track/5cOXSOo4olhVLVSpQBvQaP) | [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [看着我的眼睛说](https://open.spotify.com/album/1QNyyhTWQ72AGuv88AJqOj) | 4:20 |
 | 3 | [你會來看我嗎？](https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [你會來看我嗎？](https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC) | 3:41 |
 | 4 | [租购](https://open.spotify.com/track/7og3eChrp5sxdq1cGv5uW7) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [守村人](https://open.spotify.com/album/1RX2tyaz1jzogEirNZw82n) | 4:30 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 | 25 | [陪你](https://open.spotify.com/track/1RHbT8tSxXtRuFJ6tNjpat) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [STUPID POP SONGS](https://open.spotify.com/album/1fAgIlU3bhxZgqnvCN14kb) | 5:04 |
 | 26 | [危险派对](https://open.spotify.com/track/14j7XauWcIavtILfhmmQpp) | [Yitai Wang](https://open.spotify.com/artist/3FpGegUfBRYiws8Ww49Y1j), [刘至佳](https://open.spotify.com/artist/60m8v8VLraph1iw4tiSyIf) | [危险派对](https://open.spotify.com/album/3nbVdP1yZRl8lTlsk324vR) | 3:00 |
 | 27 | [淚橋](https://open.spotify.com/track/0NAcDn6U2GB2Arhspmh38S) | [Wu Bai](https://open.spotify.com/artist/5H8TJITZE1sPjVR2ACzXNS) | [淚橋](https://open.spotify.com/album/1fftoYj9WigATga9iinkqr) | 3:45 |
-| 28 | [零距离的思念](https://open.spotify.com/track/0nrODNJGv21FkJN7hHAS3e) | [泰尼](https://open.spotify.com/artist/2AqlBSSd6ga8KEBuAJbZna) | [Chose one me](https://open.spotify.com/album/1kWEJnpHB53FdwhXI4qr1z) | 3:06 |
+| 28 | [零距离的思念](https://open.spotify.com/track/0nrODNJGv21FkJN7hHAS3e) | [TINY7](https://open.spotify.com/artist/3JW89fjQqHiuoBStxNHskw) | [Chose one me](https://open.spotify.com/album/1kWEJnpHB53FdwhXI4qr1z) | 3:06 |
 | 29 | [倒帶](https://open.spotify.com/track/4XipvtwRgtUrGb2j2l0wNG) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [城堡](https://open.spotify.com/album/6OeSMtENnJV8FpGb1eZheV) | 4:25 |
 | 30 | [三年後的大雪](https://open.spotify.com/track/2GWsJMjoIj1HMOxvuG8wSb) | [宋德鶴](https://open.spotify.com/artist/6jRVqBhXHlT61Nr3j3H9eI) | [三年後的大雪](https://open.spotify.com/album/2NH93cdczzQxZuiMelaNtP) | 3:46 |
 | 31 | [愛情的大壞蛋](https://open.spotify.com/track/5HVq8nS0pbM6G7YK8M7DY4) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI) | [Amazing Show同名專輯](https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau) | 3:07 |

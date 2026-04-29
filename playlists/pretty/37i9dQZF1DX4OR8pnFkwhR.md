@@ -2,31 +2,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 ### [RADAR: Early Noise ](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> Spotifyが注目するニューカマー・プレイリスト。 Cover: Lavt
+> Spotifyが注目するニューカマー・プレイリスト。 Cover: luv
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,213 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,212 likes - 59 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [サイレン](https://open.spotify.com/track/3eUiKQbxK0wknnKodmvOlA) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [サイレン](https://open.spotify.com/album/67i9p8iI1wU1tszaQjM0lM) | 3:23 |
-| 2 | [bye<3](https://open.spotify.com/track/6LrOegJFrpML859y73HkpS) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [bye<3](https://open.spotify.com/album/62l6WIYBl2b17KWP3H4qZd) | 3:35 |
-| 3 | [ハイライト](https://open.spotify.com/track/4XIbe2uZ8nc9L4h8Ku29mI) | [スーパー登山部](https://open.spotify.com/artist/5evTVfgO40erEFI5qBxtQ9) | [ハイライト](https://open.spotify.com/album/3t7RXDW58rlxgYVkzCsqIe) | 3:13 |
-| 4 | [ReTake](https://open.spotify.com/track/5PaYPElNsEDOwnSj45pcHa) | [OSHIKIKEIGO](https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw) | [ReTake](https://open.spotify.com/album/1Nv9mMQS5u5gRYP9iNmcLu) | 4:56 |
-| 5 | [higher](https://open.spotify.com/track/2hZGOVMoWYSFHvjRV4CEhh) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [higher](https://open.spotify.com/album/0504f7x1t4XpJMWfNnQL5N) | 3:34 |
-| 6 | [Kodoku ni Toku](https://open.spotify.com/track/3FTRoyrGwcuy4HRmFPS8lw) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [Kodoku ni Toku](https://open.spotify.com/album/5R9HmGynmbrVKJJFDMLNtK) | 3:10 |
-| 7 | [ギューアグ](https://open.spotify.com/track/4VkVKgNyTFS3hRR3QldFUV) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ギューアグ](https://open.spotify.com/album/7eWBDcemeEcPROAmKHlYMJ) | 3:08 |
-| 8 | [Elevated](https://open.spotify.com/track/0auzTKGIHtSIQmtzMLTPPM) | [望月ヒナタ](https://open.spotify.com/artist/4VGKxbTlK8S2rHhrR6oLh9) | [Elevated](https://open.spotify.com/album/779N1kw7wTUE33EuZug3rr) | 3:09 |
-| 9 | [Shinitakunattara Ainikite](https://open.spotify.com/track/6gB9xHmdj8mM7B2jY2zKX3) | [Blue Mash](https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07) | [Nakuna, Seishun](https://open.spotify.com/album/4VgISolUUFSj4I8CIccYMp) | 2:58 |
-| 10 | [Tell me](https://open.spotify.com/track/6hk1BBFv4FehBkrkgwCExJ) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Tell me](https://open.spotify.com/album/0rIcateMjkrV6XnCbaXt2T) | 4:20 |
-| 11 | [one room](https://open.spotify.com/track/6R7o41YWDfh6p7xRcYVo4t) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [1626](https://open.spotify.com/album/32mHbRLxvd8DC5jTWYnsg4) | 3:26 |
-| 12 | [世界](https://open.spotify.com/track/5VAgszLmn23XAqWkP6qwt9) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [世界](https://open.spotify.com/album/09EAPlkRPeRdxJSBEE4PPl) | 4:24 |
-| 13 | [My Fan](https://open.spotify.com/track/6J4Jgnx5PxCeyrJxDmBAG1) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [My Fan](https://open.spotify.com/album/2koHYjVXuawGbr10SRozrX) | 2:45 |
-| 14 | [Revival](https://open.spotify.com/track/6vWrFTC5PrDDgMQNhoWoE7) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [Revival](https://open.spotify.com/album/4fhp7mvFmve4P2m2oBYEqt) | 3:32 |
-| 15 | [savior](https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [savior](https://open.spotify.com/album/2JP5Mp4SKK352Jeb4mLrUa) | 2:43 |
+| 1 | [bye<3](https://open.spotify.com/track/6LrOegJFrpML859y73HkpS) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [bye<3](https://open.spotify.com/album/62l6WIYBl2b17KWP3H4qZd) | 3:35 |
+| 2 | [Boy](https://open.spotify.com/track/3eFUpyUIWFMSQ3RvUpxZXu) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [Boy](https://open.spotify.com/album/78wMwOnARAhRxBv7Q37XOl) | 3:06 |
+| 3 | [サイレン](https://open.spotify.com/track/3eUiKQbxK0wknnKodmvOlA) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [サイレン](https://open.spotify.com/album/67i9p8iI1wU1tszaQjM0lM) | 3:23 |
+| 4 | [ハイライト](https://open.spotify.com/track/4XIbe2uZ8nc9L4h8Ku29mI) | [スーパー登山部](https://open.spotify.com/artist/5evTVfgO40erEFI5qBxtQ9) | [ハイライト](https://open.spotify.com/album/3t7RXDW58rlxgYVkzCsqIe) | 3:13 |
+| 5 | [ReTake](https://open.spotify.com/track/5PaYPElNsEDOwnSj45pcHa) | [OSHIKIKEIGO](https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw) | [ReTake](https://open.spotify.com/album/1Nv9mMQS5u5gRYP9iNmcLu) | 4:56 |
+| 6 | [higher](https://open.spotify.com/track/2hZGOVMoWYSFHvjRV4CEhh) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [higher](https://open.spotify.com/album/0504f7x1t4XpJMWfNnQL5N) | 3:34 |
+| 7 | [Kodoku ni Toku](https://open.spotify.com/track/3FTRoyrGwcuy4HRmFPS8lw) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [Kodoku ni Toku](https://open.spotify.com/album/5R9HmGynmbrVKJJFDMLNtK) | 3:10 |
+| 8 | [ギューアグ](https://open.spotify.com/track/4VkVKgNyTFS3hRR3QldFUV) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ギューアグ](https://open.spotify.com/album/7eWBDcemeEcPROAmKHlYMJ) | 3:08 |
+| 9 | [Elevated](https://open.spotify.com/track/0auzTKGIHtSIQmtzMLTPPM) | [望月ヒナタ](https://open.spotify.com/artist/4VGKxbTlK8S2rHhrR6oLh9) | [Elevated](https://open.spotify.com/album/779N1kw7wTUE33EuZug3rr) | 3:09 |
+| 10 | [Shinitakunattara Ainikite](https://open.spotify.com/track/6gB9xHmdj8mM7B2jY2zKX3) | [Blue Mash](https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07) | [Nakuna, Seishun](https://open.spotify.com/album/4VgISolUUFSj4I8CIccYMp) | 2:58 |
+| 11 | [Tell me](https://open.spotify.com/track/6hk1BBFv4FehBkrkgwCExJ) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Tell me](https://open.spotify.com/album/0rIcateMjkrV6XnCbaXt2T) | 4:20 |
+| 12 | [one room](https://open.spotify.com/track/6R7o41YWDfh6p7xRcYVo4t) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [1626](https://open.spotify.com/album/32mHbRLxvd8DC5jTWYnsg4) | 3:26 |
+| 13 | [世界](https://open.spotify.com/track/5VAgszLmn23XAqWkP6qwt9) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [世界](https://open.spotify.com/album/09EAPlkRPeRdxJSBEE4PPl) | 4:24 |
+| 14 | [My Fan](https://open.spotify.com/track/6J4Jgnx5PxCeyrJxDmBAG1) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [My Fan](https://open.spotify.com/album/2koHYjVXuawGbr10SRozrX) | 2:45 |
+| 15 | [Revival](https://open.spotify.com/track/6vWrFTC5PrDDgMQNhoWoE7) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [Revival](https://open.spotify.com/album/4fhp7mvFmve4P2m2oBYEqt) | 3:32 |
 | 16 | [獏](https://open.spotify.com/track/1b3wqxuGJUAMboYp9BEMDc) | [まおた](https://open.spotify.com/artist/6IhcIUsBfU3iBMB87ShNTT) | [獏](https://open.spotify.com/album/6xwoSRnPMCN6OpAYLjFHPT) | 3:36 |
 | 17 | [NEVER END](https://open.spotify.com/track/0mPhko4sWuzPIuTthJX3kX) | [JIJIM](https://open.spotify.com/artist/19bbi8caiWMuBlqhv6ZOgA) | [NEVER END](https://open.spotify.com/album/48XBc5IR2OQlSFxNpzko1X) | 3:21 |
-| 18 | [カフネ](https://open.spotify.com/track/3m1VmNRR7D7YpTAU9AzKIm) | [中島 寂](https://open.spotify.com/artist/3XJ7WCAaSoiqWePVw9qZdL) | [カフネ](https://open.spotify.com/album/512DKo6puDkLtGVXIECuKF) | 4:01 |
-| 19 | [僕のかわい子ちゃん](https://open.spotify.com/track/5Q6tUDmj1vipuU2geX6no7) | [MON7A](https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi) | [僕のかわい子ちゃん](https://open.spotify.com/album/23mtg8QL60f69786FLmFMp) | 4:09 |
+| 18 | [とめないで](https://open.spotify.com/track/4AD05UAxxTu4k4HAzWYDpH) | [MON7A](https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi) | [とめないで](https://open.spotify.com/album/3FLh3E5KxogIMOP34EyuN6) | 3:53 |
+| 19 | [カフネ](https://open.spotify.com/track/3m1VmNRR7D7YpTAU9AzKIm) | [中島 寂](https://open.spotify.com/artist/3XJ7WCAaSoiqWePVw9qZdL) | [カフネ](https://open.spotify.com/album/512DKo6puDkLtGVXIECuKF) | 4:01 |
 | 20 | [MEMAI](https://open.spotify.com/track/12cNWd1f1pDKc8P7nMbRw9) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [MEMAI](https://open.spotify.com/album/6lbQdUiAUPxcOT3fSAaIBA) | 3:17 |
 | 21 | [Life goes on](https://open.spotify.com/track/7dPXbOgc30MVKvvYk9cNLA) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [Life goes on](https://open.spotify.com/album/2tzUecbd0cnbrvZhxYVZxn) | 3:42 |
 | 22 | [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:58 |
@@ -67,6 +67,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 57 | [温度と一部](https://open.spotify.com/track/0HNUvAmscgfyIMyQfsZn5x) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ghost walk e.p.](https://open.spotify.com/album/5TJTOPc0NuRLPCNs9fBuqj) | 3:57 |
 | 58 | [HAZY \(Prod\. A.G.O\)](https://open.spotify.com/track/0UTXzsR3yu5wRmphb8dzla) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Grown tag](https://open.spotify.com/album/4kIFM6rj487OXIrYqYAxMU) | 3:19 |
 | 59 | [惑星都市](https://open.spotify.com/track/6jlWkEmC43BYnAhI4z5D0A) | [HALVES](https://open.spotify.com/artist/3r8vtmXnlIHTb6DnGAxppK) | [惑星都市](https://open.spotify.com/album/1GEPuiJ6Ruso5VMmy2z25f) | 3:46 |
-| 60 | [赤いワインに涙が・・・](https://open.spotify.com/track/48N4QmxXPEzt3J9nDMaGP0) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [赤いワインに涙が・・・](https://open.spotify.com/album/3bsUrgtonRDuRrwKbdDBtx) | 3:59 |
 
-Snapshot ID: `AAAAAD3XPg+v8PuNb6qZNnAVWn8atjxj`
+Snapshot ID: `AAAAAJOoXMSRU5+TBYLUTfOX2DJzZ5Od`

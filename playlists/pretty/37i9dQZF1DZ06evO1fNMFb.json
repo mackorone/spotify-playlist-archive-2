@@ -6,28 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae1VgAAAAABDJYSMn8uAFOgY/Z1XzO3f",
+  "snapshot_id": "ae6nAAAAAAAUB9gqAt90t/Ocz06CpVpG",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "GOAT (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg"
-      },
-      "artists": [
-        {
-          "name": "KOLE",
-          "url": "https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8"
-        },
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 152325,
-      "name": "World Go Round",
-      "url": "https://open.spotify.com/track/2ReI2xfSzQ31zxNHcMDSPP"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 164819,
       "name": "Kissing Mouths",
       "url": "https://open.spotify.com/track/2ahVlPHe8XlXKFjL2zZLPD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GOAT (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg"
+      },
+      "artists": [
+        {
+          "name": "KOLE",
+          "url": "https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8"
+        },
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 152325,
+      "name": "World Go Round",
+      "url": "https://open.spotify.com/track/2ReI2xfSzQ31zxNHcMDSPP"
     },
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pick It Up",
+        "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 146924,
+      "name": "Pick It Up",
+      "url": "https://open.spotify.com/track/6NwCRGuQvKoYfUdmnzxGZw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mumbai Magic (feat. Natania, Subhi & Shalmali Kholgade)",
         "url": "https://open.spotify.com/album/7IbdA8FbaxVlJWdbttU4kE"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 154900,
       "name": "Mumbai Magic (feat. Natania, Subhi & Shalmali Kholgade)",
       "url": "https://open.spotify.com/track/07jwBjAFkTaUz4FMwoQISV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pick It Up",
-        "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 146924,
-      "name": "Pick It Up",
-      "url": "https://open.spotify.com/track/6NwCRGuQvKoYfUdmnzxGZw"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Talking",
+        "url": "https://open.spotify.com/album/5GRJMxiasbJCbqANAKBlSY"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 184080,
+      "name": "Talking",
+      "url": "https://open.spotify.com/track/7DH7GCOG8SKKKp6LKkKaYz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm a Nykaa Everyday (feat. Dee MC)",
         "url": "https://open.spotify.com/album/5f6EBNOJfn5jSnUEw0Xdg1"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can I Be Ur Friend?",
-        "url": "https://open.spotify.com/album/5RZiAE8EKz0giwhhgJYVDr"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 217699,
-      "name": "Can I Be Ur Friend?",
-      "url": "https://open.spotify.com/track/2enudDsKGps4ZGh8CVg4u0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Winning",
         "url": "https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG"
       },
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking",
-        "url": "https://open.spotify.com/album/5GRJMxiasbJCbqANAKBlSY"
+        "name": "Can I Be Ur Friend?",
+        "url": "https://open.spotify.com/album/5RZiAE8EKz0giwhhgJYVDr"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 184080,
-      "name": "Talking",
-      "url": "https://open.spotify.com/track/7DH7GCOG8SKKKp6LKkKaYz"
+      "duration_ms": 217699,
+      "name": "Can I Be Ur Friend?",
+      "url": "https://open.spotify.com/track/2enudDsKGps4ZGh8CVg4u0"
     },
     {
       "added_at": null,

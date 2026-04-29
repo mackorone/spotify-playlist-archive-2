@@ -1431,6 +1431,28 @@
     },
     {
       "album": {
+        "name": "Abre Las Puertas (Live)",
+        "url": "https://open.spotify.com/album/1ig5LarX8KP4PJU9W3f61e"
+      },
+      "artists": [
+        {
+          "name": "Nico Cabrera",
+          "url": "https://open.spotify.com/artist/5wxATPJa84XY8v3jEfrZOF"
+        },
+        {
+          "name": "Javier Portela",
+          "url": "https://open.spotify.com/artist/39HWmzeoxeHJITyCK5orph"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248960,
+      "name": "Abre Las Puertas - Live",
+      "url": "https://open.spotify.com/track/3diSqW2uvLP3Lx4DBktcHd"
+    },
+    {
+      "album": {
         "name": "Efecto EMC",
         "url": "https://open.spotify.com/album/2ePQmfIRBYKi31EPsYRIg0"
       },
@@ -1494,28 +1516,6 @@
       "duration_ms": 218073,
       "name": "Abre Tus Ojos",
       "url": "https://open.spotify.com/track/7A6aqwr3G2NWBGhJi39oBG"
-    },
-    {
-      "album": {
-        "name": "Abres Las Puertas (Live)",
-        "url": "https://open.spotify.com/album/1ig5LarX8KP4PJU9W3f61e"
-      },
-      "artists": [
-        {
-          "name": "Nico Cabrera",
-          "url": "https://open.spotify.com/artist/5wxATPJa84XY8v3jEfrZOF"
-        },
-        {
-          "name": "Javier Portela",
-          "url": "https://open.spotify.com/artist/39HWmzeoxeHJITyCK5orph"
-        }
-      ],
-      "date_added": "2026-04-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 248960,
-      "name": "Abres Las Puertas - Live",
-      "url": "https://open.spotify.com/track/3diSqW2uvLP3Lx4DBktcHd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmJixlyx0rj.md) - [plain]
 
 > New & best K\-Electronic music is here\. \(Cover: Yves\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,159 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,172 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmJixlyx0rj.md) - [plain]
 | 99 | [wo ai ni](https://open.spotify.com/track/5FJtLMs3dkq0K28v69lbRb) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [wo ai ni / break it even](https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6) | 3:31 |
 | 100 | [SET ME FREE \(Lindgren Remix\)](https://open.spotify.com/track/5wNQXN45nL1BM6fuSZolVn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Lindgren](https://open.spotify.com/artist/0vk7Ds4u6waswHkzrfACVg) | [SET ME FREE \(Remixes\)](https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD) | 3:31 |
 
-Snapshot ID: `AAAAACsiXk3OGMYxzjMfdDQBjtR7bZZJ`
+Snapshot ID: `AAAAAGWxsM/XYviZUhjdMh/RGcjt7+PF`

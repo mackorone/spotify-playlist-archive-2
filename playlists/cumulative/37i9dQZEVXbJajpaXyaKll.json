@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "PUERTA ABIERTA",
+        "url": "https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185728,
+      "name": "A La Ni\u00f1a Que Fui",
+      "url": "https://open.spotify.com/track/1QOIgb4mC4s5nYc6cWNWI0"
+    },
+    {
+      "album": {
         "name": "A Medio Vivir",
         "url": "https://open.spotify.com/album/0DyrDEUuaMhUJ4ebJoAm4H"
       },
@@ -1462,7 +1480,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 165434,
       "name": "Adoramus - Radio edit",
       "url": "https://open.spotify.com/track/0Qfxqmlo3h19ujS8nkbv0S"
@@ -2434,7 +2452,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 239263,
       "name": "Ante la duda, baila",
       "url": "https://open.spotify.com/track/62Uy13sEgOOhfCBUKKuO1w"
@@ -3774,6 +3792,28 @@
       "duration_ms": 180000,
       "name": "Backslide",
       "url": "https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn"
+    },
+    {
+      "album": {
+        "name": "Bad Angel (with LISA)",
+        "url": "https://open.spotify.com/album/4RyojhEO0VsnNacY6C3te7"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153281,
+      "name": "Bad Angel (with LISA)",
+      "url": "https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ"
     },
     {
       "album": {
@@ -7821,6 +7861,32 @@
     },
     {
       "album": {
+        "name": "cielo dibujado",
+        "url": "https://open.spotify.com/album/7ohLZ7xfFBx2t31elvc6H5"
+      },
+      "artists": [
+        {
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/2YW2jsqJMVaxPgeETV2Ttl"
+        },
+        {
+          "name": "Talk",
+          "url": "https://open.spotify.com/artist/6voaqo0lc315kfr4kaIpVA"
+        },
+        {
+          "name": "Chiru!",
+          "url": "https://open.spotify.com/artist/2Qf0usS04iqLqxsPFhXGoO"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132961,
+      "name": "cielo dibujado",
+      "url": "https://open.spotify.com/track/4kVAU3kxZAfJkStlZeRyGM"
+    },
+    {
+      "album": {
         "name": "Cierre Rkt",
         "url": "https://open.spotify.com/album/5ZFFrfRXB0esjxL87DTqWd"
       },
@@ -7986,7 +8052,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 180923,
       "name": "CITADEL",
       "url": "https://open.spotify.com/track/2Lg8XngFhqwS3ROntccz7e"
@@ -10138,6 +10204,24 @@
       "duration_ms": 300373,
       "name": "De La Nada - Remix",
       "url": "https://open.spotify.com/track/2OfBHBXUv6G3PYFaiFYEEM"
+    },
+    {
+      "album": {
+        "name": "De Lejitos",
+        "url": "https://open.spotify.com/album/4LsQOT9fxqBpZLVLV9Ib55"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "De Lejitos",
+      "url": "https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8"
     },
     {
       "album": {
@@ -12390,7 +12474,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 254273,
       "name": "El Grano De Mostaza - Padre Guilherme & KYD3N Remix (Radio Edit)",
       "url": "https://open.spotify.com/track/1To4t2R0Kd71XJEGYjgbQO"
@@ -17578,7 +17662,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 223409,
       "name": "Hambre De Triunfo",
       "url": "https://open.spotify.com/track/0lGI3MKNiJEe9nLHJcYYsm"
@@ -24721,6 +24805,24 @@
     },
     {
       "album": {
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239333,
+      "name": "Madwoman",
+      "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
+    },
+    {
+      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/09HBh8LHnAjxwMPWmIWgDb"
       },
@@ -24888,6 +24990,28 @@
       "duration_ms": 215250,
       "name": "malibU",
       "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
+    },
+    {
+      "album": {
+        "name": "AMOR FIADO",
+        "url": "https://open.spotify.com/album/6EPWuQUeAaRp61S8qG0fri"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "MALPARIDO",
+      "url": "https://open.spotify.com/track/4wjIqViyNbifMldqFsdZk2"
     },
     {
       "album": {
@@ -25696,6 +25820,24 @@
       "duration_ms": 157979,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/2grcaP2t5eJpDv4YhOuMWn"
+    },
+    {
+      "album": {
+        "name": "Me Haces Da\u00f1o",
+        "url": "https://open.spotify.com/album/5UGTuD68mGnDmEOs3b3VbM"
+      },
+      "artists": [
+        {
+          "name": "salas flaco",
+          "url": "https://open.spotify.com/artist/35DjUjNHUUlFxsEPS3kF6a"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102564,
+      "name": "Me Haces Da\u00f1o",
+      "url": "https://open.spotify.com/track/6JmXluHpCP1zqCoakt1O5E"
     },
     {
       "album": {
@@ -33727,6 +33869,24 @@
     },
     {
       "album": {
+        "name": "PINKY UP",
+        "url": "https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131437,
+      "name": "PINKY UP",
+      "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
+    },
+    {
+      "album": {
         "name": "Fatty Masedo / Pipupipu",
         "url": "https://open.spotify.com/album/75TqNqUMQOO0oxmlXOpgSM"
       },
@@ -34670,7 +34830,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 252939,
       "name": "Prot\u00e9geme Se\u00f1or - Padre Guilherme & KYD3N Remix (Radio Edit)",
       "url": "https://open.spotify.com/track/5BRYPW75U6FYWbDpoMZ77U"
@@ -36820,7 +36980,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -38730,6 +38890,36 @@
       "duration_ms": 217490,
       "name": "SINVERG\u00dcENZA - con Angela Torres",
       "url": "https://open.spotify.com/track/2xbH0CuDbid800YW5nMPzR"
+    },
+    {
+      "album": {
+        "name": "Six Seven",
+        "url": "https://open.spotify.com/album/7yXhf4bGlGkjA9mfJy5gPg"
+      },
+      "artists": [
+        {
+          "name": "Laurinha Costa",
+          "url": "https://open.spotify.com/artist/2gHai7NC9sxohnDRREYWMf"
+        },
+        {
+          "name": "Dj Cabello",
+          "url": "https://open.spotify.com/artist/5DIxbeHID0GVBPT07FHZC0"
+        },
+        {
+          "name": "Dj Tchouzen",
+          "url": "https://open.spotify.com/artist/2nRKgPUikjmFOJ1UBmh8Fy"
+        },
+        {
+          "name": "SoundMusic Original",
+          "url": "https://open.spotify.com/artist/7l3VDav1Nb5OZWUxMFiSqW"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100162,
+      "name": "Six Seven",
+      "url": "https://open.spotify.com/track/1tApKPSsMXfJf528fR1o93"
     },
     {
       "album": {
@@ -41840,7 +42030,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 190003,
       "name": "Te llevo tatuada",
       "url": "https://open.spotify.com/track/2i5QOIGSKHw8TP5ljZJg5w"
@@ -47046,7 +47236,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 211386,
       "name": "We Want Peace - Radio edit",
       "url": "https://open.spotify.com/track/55vUWriBx5QqVFTDadRaxs"

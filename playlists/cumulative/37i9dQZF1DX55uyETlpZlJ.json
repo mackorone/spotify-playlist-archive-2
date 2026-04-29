@@ -1789,6 +1789,24 @@
     },
     {
       "album": {
+        "name": "Bhasavagide",
+        "url": "https://open.spotify.com/album/5ygSD8XlsBdDIWF7A9J4GC"
+      },
+      "artists": [
+        {
+          "name": "Narayan Sharma",
+          "url": "https://open.spotify.com/artist/3bLpM0uZQGjGyxtXgJa8hP"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232800,
+      "name": "Bhasavagide",
+      "url": "https://open.spotify.com/track/75hEkJDOSNvGTPGLiB7Ti5"
+    },
+    {
+      "album": {
         "name": "Bhavanegalu",
         "url": "https://open.spotify.com/album/1qk0d5mYA3z9QIRzDvxlug"
       },
@@ -6558,7 +6576,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 214241,
       "name": "Life Is Casino",
       "url": "https://open.spotify.com/track/7Hxk8pCTMLbznT45Pe14Vi"
@@ -9970,7 +9988,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 154170,
       "name": "Ninnale Kaledodenaa",
       "url": "https://open.spotify.com/track/76qkjYTaUP0Y2OmzKmAT1h"
@@ -10014,6 +10032,24 @@
       "duration_ms": 172312,
       "name": "Ninnane Bayaside",
       "url": "https://open.spotify.com/track/2gVeV88YIQzA5zO0rTiyzu"
+    },
+    {
+      "album": {
+        "name": "Ninnane Bayaside",
+        "url": "https://open.spotify.com/album/33GQPFDfTN8Hg4mCZF74wo"
+      },
+      "artists": [
+        {
+          "name": "Satvik C S",
+          "url": "https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172312,
+      "name": "Ninnane Bayaside",
+      "url": "https://open.spotify.com/track/5x2OL1p8B5qsYb13kzps5e"
     },
     {
       "album": {

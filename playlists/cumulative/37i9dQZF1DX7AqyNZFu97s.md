@@ -2,9 +2,9 @@
 
 ### [Fresh Finds UK & IE](https://open.spotify.com/playlist/37i9dQZF1DX7AqyNZFu97s)
 
-> The best new music from independent artists in the UK and Ireland\. Cover: sbk
+> The best new music from independent artists in the UK and Ireland\. Cover: Storm Mollison
 
-3,575 songs - 7 day 20 hr 30 min
+3,577 songs - 7 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,7 +451,7 @@
 | [break it off](https://open.spotify.com/track/6nULBINH6n5k08KtCV0PUJ) | [David Armada](https://open.spotify.com/artist/0NCZoJwqMYvBpYFRnKnAMh) | [break it off](https://open.spotify.com/album/4DhfVjUYj6CozR5putYP3A) | 3:17 | 2024-04-16 | 2024-05-22 |
 | [Break My Fall](https://open.spotify.com/track/1gXAMvvtm8oJjtq4zNf7SV) | [Haquin](https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb) | [Head Hurts](https://open.spotify.com/album/7dRcYhcCUSXdYjztJSdEh9) | 2:35 | 2024-01-24 | 2024-02-21 |
 | [Break My Fall](https://open.spotify.com/track/1kZSbPBW1Kb6UISJ7II4Z6) | [Haquin](https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb) | [Break My Fall](https://open.spotify.com/album/75EtEodh4Ph5LrUTkZeRNF) | 2:35 | 2024-01-10 | 2024-01-26 |
-| [BREAK THE LAW](https://open.spotify.com/track/0xdq4uF7HUgQIr4NhRomQw) | [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De) | [NEW BRITANNICA](https://open.spotify.com/album/3s8ieBtNTOL1wk8CYn3jFB) | 1:59 | 2026-02-11 |  |
+| [BREAK THE LAW](https://open.spotify.com/track/0xdq4uF7HUgQIr4NhRomQw) | [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De) | [NEW BRITANNICA](https://open.spotify.com/album/3s8ieBtNTOL1wk8CYn3jFB) | 1:59 | 2026-02-11 | 2026-04-29 |
 | [break your own heart](https://open.spotify.com/track/03w3rXukAjqDavSVdJPlNB) | [Harvey Brittain](https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP) | [break your own heart](https://open.spotify.com/album/2lWESgqq7i1Xll8nDCOQED) | 3:14 | 2026-02-11 | 2026-04-08 |
 | [Breaking Free](https://open.spotify.com/track/0cZ4BShI8IHnRD6XUIt3WA) | [Sopë](https://open.spotify.com/artist/5diPI995kqlDFSFirYLZHB) | [Breaking Free](https://open.spotify.com/album/3MboLhQvNWH4KRQwcqKsGa) | 2:52 | 2023-05-24 | 2024-01-03 |
 | [Brick Phone](https://open.spotify.com/track/7oZKdKYkNL13uZ6bQfZa2j) | [Causier](https://open.spotify.com/artist/1qkumKhqyNt9jlyDoaLFcu) | [Brick Phone](https://open.spotify.com/album/0dLYraWUlJml3Isy4Ta7Iw) | 3:38 | 2022-07-20 | 2022-09-01 |
@@ -853,6 +853,7 @@
 | [Don't Get it](https://open.spotify.com/track/5cGn202xPyiS9bedsReTIe) | [Amber Jules](https://open.spotify.com/artist/0DdvKnnlzOkyfKAb0aEpm0) | [Don't Get it](https://open.spotify.com/album/5NsBotREGcSQfjuwffHTTN) | 3:49 | 2025-04-02 | 2025-04-30 |
 | [don't get too close](https://open.spotify.com/track/3uKtisBOg1TsWbiG8t0tvi) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF), [Apollo Vizion](https://open.spotify.com/artist/1b9Use0UJOSFmfYHIdAmCr) | [kintsugi](https://open.spotify.com/album/2COdDiiRXsmxJ1L3dOANd0) | 2:59 | 2025-10-07 | 2025-11-26 |
 | [Don't Give Up](https://open.spotify.com/track/3VLC9OBGZr4aRSJFbZpPHg) | [LDYA](https://open.spotify.com/artist/7LvlgYvN2krtIsRQK7vs1c) | [Home](https://open.spotify.com/album/7EyCL21T1fqLhWNxMzSzXD) | 2:58 | 2025-04-30 | 2025-06-11 |
+| [Don't Kill the Vibe](https://open.spotify.com/track/3ZiHHaMuZ2cQXLtjxgiGUd) | [Jordan Joy](https://open.spotify.com/artist/4SpTLCaS4bSWUFgN7AapHv) | [Don't Kill the Vibe](https://open.spotify.com/album/4tYBaS0xN0eYmFSGHJ1C7N) | 4:22 | 2026-04-28 |  |
 | [don't message.](https://open.spotify.com/track/77xLHOgrkmBf8HD3YuLC0g) | [Kwákz](https://open.spotify.com/artist/2ZNbtfRwBDKN2k8drx3BrX) | [don't message.](https://open.spotify.com/album/50P89HfLxbFt6iVlrgFMbs) | 2:55 | 2023-05-17 | 2023-06-14 |
 | [don't panic!](https://open.spotify.com/track/4pVuQyND47U5lvDVUlkxiF) | [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud) | [don't panic!](https://open.spotify.com/album/3HHLjBScsUPkMK70ZK2fhC) | 1:49 | 2025-10-07 | 2025-11-19 |
 | [Don't Rush](https://open.spotify.com/track/64h4VxiD7jCJpXJJwyK37L) | [Salamay](https://open.spotify.com/artist/6IAMyGk690Lb56glwkxTx0), [Chi\-chi](https://open.spotify.com/artist/0K6RidDQWBqLafRTP2GeMV) | [Don't Rush](https://open.spotify.com/album/32OPaZroLXHPY7orBxHmnD) | 4:02 | 2025-02-26 | 2025-04-02 |
@@ -2195,7 +2196,7 @@
 | [Need You](https://open.spotify.com/track/1uf1n3dQbgLHlH5BaCmbkd) | [Siân Owen](https://open.spotify.com/artist/3V078Un8f8Q8RPfCM78wA1), [Tayá](https://open.spotify.com/artist/0QHXPsTQVqvNPfK6edjInM) | [Need You](https://open.spotify.com/album/5UFxCAEBlb1SAUiEf7lam1) | 2:30 | 2025-10-15 | 2025-11-26 |
 | [Neek Mills](https://open.spotify.com/track/7Hdt9UPd1aoa5DgmXd3aio) | [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [Neek Mills](https://open.spotify.com/album/6Kb5tZStM4e4Bx9mm3yFzr) | 2:36 | 2024-10-30 | 2024-12-05 |
 | [Neon In The Dark](https://open.spotify.com/track/3CBGEOSgIf71iZjGccbveE) | [common goldfish](https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F) | [Neon In The Dark](https://open.spotify.com/album/2jw9I8sO6Nrosf26xvIZPM) | 3:33 | 2024-01-03 | 2024-02-07 |
-| [Neptune Girl](https://open.spotify.com/track/5OLQKfOEmxAa9qVNhQygra) | [Modern Woman](https://open.spotify.com/artist/4OW8KZOncmml2hRSXdhfO9) | [Neptune Girl](https://open.spotify.com/album/4P2TRk9nZgQIRxrQVx3dD8) | 2:56 | 2026-03-04 |  |
+| [Neptune Girl](https://open.spotify.com/track/5OLQKfOEmxAa9qVNhQygra) | [Modern Woman](https://open.spotify.com/artist/4OW8KZOncmml2hRSXdhfO9) | [Neptune Girl](https://open.spotify.com/album/4P2TRk9nZgQIRxrQVx3dD8) | 2:56 | 2026-03-04 | 2026-04-29 |
 | [Nevagonna](https://open.spotify.com/track/0xAZva9E2vELq4DKF0mtpO) | [congratulations](https://open.spotify.com/artist/3Zd0jI43rmogm8qVt2QAdq) | [Join Hands](https://open.spotify.com/album/737OJLS2wQGbtapbSHX9fi) | 4:41 | 2026-03-18 |  |
 | [Never 4Get](https://open.spotify.com/track/6GABILhlWp5CXxhnc5nkRV) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR), [WEN](https://open.spotify.com/artist/1EJ6H4Wh3qAfi24c1RgE3B) | [VITD005](https://open.spotify.com/album/2kYljBbJIa292Vmi63V1Hw) | 5:44 | 2022-10-12 | 2022-11-03 |
 | [Never Be Like Her](https://open.spotify.com/track/2TeqvSi7fq2VmvIDbYzDXj) | [Maya Lane](https://open.spotify.com/artist/0lJErEVo2bXW4P2nsOmf25) | [Diary Of An Overthinker](https://open.spotify.com/album/3jZnXSTSIgI0HzUGtLZ0Yy) | 3:02 | 2024-06-04 | 2024-07-10 |
@@ -3528,6 +3529,7 @@
 | [Wonderman](https://open.spotify.com/track/5ZpnADPNlG0FLBiIP2sr5a) | [Reek0](https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD) | [Wonderman](https://open.spotify.com/album/2kEdmVE6lgTcG9EatJtZZc) | 4:38 | 2025-09-16 | 2025-10-16 |
 | [wonton rice](https://open.spotify.com/track/4fGBlr1k2tplUIhJ4ad5oh) | [oskar](https://open.spotify.com/artist/4QeTw7fXnyznlegiojOHhf) | [wonton rice](https://open.spotify.com/album/7HA2l81enn24dDM5KB4YQA) | 2:06 | 2026-02-11 | 2026-03-25 |
 | [Work It Out](https://open.spotify.com/track/4qnUMf12GKpBS9WKX7BuJp) | [Rachel Mae Hannon](https://open.spotify.com/artist/4rwzqtDRqtNiXyoUuNl8Fc) | [Work It Out](https://open.spotify.com/album/2IDy4wIcWkYJvzo8jkpMoJ) | 3:06 | 2022-05-11 | 2022-06-01 |
+| [Workin'](https://open.spotify.com/track/35Dj515Ju4vvsGFVQ4YXPW) | [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [A.L.T.](https://open.spotify.com/album/1exLcroSoMKCdQ6NCohGJ0) | 3:56 | 2026-04-28 |  |
 | [worm](https://open.spotify.com/track/2mHLkoaZN8uEjGH9QHTQoX) | [bedbugz](https://open.spotify.com/artist/6xJNxUyZUIaEsIS2LL9t6U) | [all hail the goblin king](https://open.spotify.com/album/1mLH9fjLiAjB2daczIKP9m) | 2:16 | 2023-01-04 | 2023-04-13 |
 | [Worry About](https://open.spotify.com/track/01npwSsn0lPEJuchMUf6MH) | [Alfie Indra](https://open.spotify.com/artist/6iLEBUFSlFyOzHnMtpqYuN) | [Worry About](https://open.spotify.com/album/0egp7qjRgCftCMqlVzmATb) | 2:05 | 2025-08-05 | 2025-09-10 |
 | [worst best thing](https://open.spotify.com/track/0O98iIEPlZv29R1JAJec0W) | [Harvey Brittain](https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP) | [worst best thing](https://open.spotify.com/album/0WppTsuhSlM3gBkhnmB2q9) | 2:52 | 2025-01-22 | 2025-02-26 |

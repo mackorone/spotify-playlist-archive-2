@@ -2,7 +2,7 @@
 
 ### [Top Christian Worship 2026](https://open.spotify.com/playlist/61xuizm8At6DCwGHJZTmB7)
 
-> Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! 2016 \| Winter storm \| snow storm 2026 \| GRAMMYs 2026 Christian
+> Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! Soaking worship music \| Jelly Roll gospel songs \. teddy swims gospel songs jelly roll christian
 
 748 songs - 2 day 23 hr 59 min
 
@@ -706,7 +706,7 @@
 | [We Want More \- Live](https://open.spotify.com/track/0ZoW7ausPTO7jXJbB6j11Z) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC), [Canaan Baca](https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q) | [We Want More \(Live\)](https://open.spotify.com/album/2ZZ6xJ91TUuzOLN6CbX7ji) | 6:58 | 2025-03-07 | 2025-03-21 |
 | [What A Beautiful Name](https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2) | 3:58 | 2022-02-17 | 2025-03-21 |
 | [What a friend](https://open.spotify.com/track/0w6iogAZgWyfVcC4MpG4zs) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [What a friend](https://open.spotify.com/album/4fORMR5R4m2ZMNUf4KTb6G) | 4:11 | 2024-05-17 | 2025-03-21 |
-| [What A God](https://open.spotify.com/track/0sVpTd7gK4YUIL0xTdYsVn) | [Legacy Nashville](https://open.spotify.com/artist/0z4zqQUZicpUdBmnLRvFje), [Jasmin Foreman](https://open.spotify.com/artist/16kiLoWN3jY8WslXMC08Sy), [Todd Mendez](https://open.spotify.com/artist/5IhNGJe6UhMRDJtqllQC3q) | [What A God](https://open.spotify.com/album/6Ca1cly2h2TeJyOLjRwhtR) | 5:25 | 2025-07-18 | 2026-02-07 |
+| [What A God](https://open.spotify.com/track/0sVpTd7gK4YUIL0xTdYsVn) | [Legacy Nashville](https://open.spotify.com/artist/0z4zqQUZicpUdBmnLRvFje), [Jasmin Foreman](https://open.spotify.com/artist/16kiLoWN3jY8WslXMC08Sy), [Todd Mendez](https://open.spotify.com/artist/5IhNGJe6UhMRDJtqllQC3q) | [What A God](https://open.spotify.com/album/6Ca1cly2h2TeJyOLjRwhtR) | 5:25 | 2025-07-18 |  |
 | [What A Good God](https://open.spotify.com/track/2655uqZtu3w2O1ffwE9srv) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [What A Good God](https://open.spotify.com/album/305Kh1fWNtsNJdd9TxM6L0) | 3:10 | 2022-02-17 | 2022-07-14 |
 | [What A Life \- Live](https://open.spotify.com/track/4l9ILkQtnoGmYkEri6LPN6) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [What A Life \(Live\)](https://open.spotify.com/album/6zIH9RSZIw8jYK9bQGQx0e) | 3:46 | 2023-07-18 | 2023-07-22 |
 | [What A Worthy Name](https://open.spotify.com/track/7vDwGrFOYLFrSD213NFnr3) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a) | [What A Worthy Name](https://open.spotify.com/album/3erIkPijGp3lIh2gASA55v) | 5:51 | 2026-02-13 |  |

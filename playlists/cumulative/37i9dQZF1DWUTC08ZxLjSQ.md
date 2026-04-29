@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Salim Webz\. Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: El Nashmy\. Artwork: Isu Kim
 
-514 songs - 1 day 2 hr 57 min
+515 songs - 1 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [DONYA](https://open.spotify.com/track/4W4cXk5mSDHx0mo2bApZmw) | [ZAF](https://open.spotify.com/artist/0HuChNNYu7zlI19O9ncr6f) | [DONYA](https://open.spotify.com/album/6yEYt57146HAo5yskSJ5dr) | 1:11 | 2024-08-13 | 2024-11-07 |
 | [Dream Merchant](https://open.spotify.com/track/12lCB896GPVWOTIAq0JAiY) | [Tac](https://open.spotify.com/artist/1IEcJewQlzlvd07P8wzG40) | [Dream Merchant](https://open.spotify.com/album/2C0705Y1tvu30snlIOE1yT) | 2:57 | 2023-06-06 | 2023-09-07 |
 | [Eclipse](https://open.spotify.com/track/6PLlafCH5IqQkJHX3pBllr) | [Ryukk](https://open.spotify.com/artist/6W3wT7AX1kxceaifuk54iP) | [Eclipse](https://open.spotify.com/album/26do3rDYRpKSptiGGBEKPy) | 3:45 | 2025-06-17 |  |
+| [Eh El Kalam](https://open.spotify.com/track/4YO4We8kDddlQB1KXF5hKr) | [DAL!A](https://open.spotify.com/artist/08EnT3I7K1Z8P6knbWaDt7) | [Eh El Kalam](https://open.spotify.com/album/6rJieMMnrDfp57u4OBEG8d) | 2:36 | 2026-04-28 |  |
 | [El 3elba](https://open.spotify.com/track/3HMGWElTSffEE4MAZi8s9l) | [Ma\-Beyn](https://open.spotify.com/artist/56BacvMJfiNke5Sb6VOcQR), [Kamikazem](https://open.spotify.com/artist/0FAbIDfnnY3RRlj97zPj6h), [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [El 3elba](https://open.spotify.com/album/40rnzvnxdna70I5ENxUABY) | 3:29 | 2022-09-20 | 2022-11-09 |
 | [El 3ks](https://open.spotify.com/track/65R0EmcHSnr2dCLdEaol9C) | [Shadi Oskar](https://open.spotify.com/artist/4o7krFiVVz5QONfNTS28wX) | [El 3ks](https://open.spotify.com/album/7AfAzjjLeyR9UmbZHI4peJ) | 2:50 | 2026-04-01 |  |
 | [El Beit \- البيت](https://open.spotify.com/track/0qLQsLK8HRChdTdCvO8tRn) | [Hadi Birajakli](https://open.spotify.com/artist/6KsP0EBpYgQ4hlex3c1Zmm) | [El Beit \- البيت](https://open.spotify.com/album/0UmUPQJ69Tk0wKWTMNnTaU) | 2:52 | 2024-08-13 | 2024-11-27 |
@@ -308,7 +309,7 @@
 | [Nar](https://open.spotify.com/track/7gs9WRNPeTdpcXb9j3zp0V) | [Bint il Sham](https://open.spotify.com/artist/5hLgy51EKPgpdGfySINkNa) | [Nar](https://open.spotify.com/album/6BcqHihuVsFSs4m0YCqNzE) | 2:51 | 2024-10-30 | 2025-05-16 |
 | [Nar w Rosas](https://open.spotify.com/track/7L3TurwY1wZQuBAGlGP43V) | [Lagham](https://open.spotify.com/artist/3sy97UUvGVuFTNEwl6H409) | [Nar w Rosas](https://open.spotify.com/album/4vLQRhlcPxEbtA5q7Uv677) | 5:01 | 2022-11-08 | 2023-03-22 |
 | [NBGHIK ANA](https://open.spotify.com/track/5jFbKiWzP1ee66vj7H7gEX) | [OUMS](https://open.spotify.com/artist/5xtomtNZU5z0p5eJOqtUKd) | [NBGHIK ANA](https://open.spotify.com/album/344G3WpJ82LHVasV8RYF4m) | 3:04 | 2024-09-11 | 2024-11-27 |
-| [NDOOR](https://open.spotify.com/track/3fnUy8PxiIXubLQBS3aFei) | [DAL!A](https://open.spotify.com/artist/08EnT3I7K1Z8P6knbWaDt7) | [EL BA7R EL A3ZAM](https://open.spotify.com/album/2apOaSX0WSlo1k6HP9rOsv) | 3:00 | 2026-04-01 |  |
+| [NDOOR](https://open.spotify.com/track/3fnUy8PxiIXubLQBS3aFei) | [DAL!A](https://open.spotify.com/artist/08EnT3I7K1Z8P6knbWaDt7) | [EL BA7R EL A3ZAM](https://open.spotify.com/album/2apOaSX0WSlo1k6HP9rOsv) | 3:00 | 2026-04-01 | 2026-04-29 |
 | [NDOOR](https://open.spotify.com/track/5VvyfodDsYCGVOh3bexgOZ) | [DAL!A](https://open.spotify.com/artist/08EnT3I7K1Z8P6knbWaDt7) | [NDOOR](https://open.spotify.com/album/1Cvl5RXMUg3bPCZjenPKT0) | 3:00 | 2025-05-16 | 2025-12-18 |
 | [Nechtik](https://open.spotify.com/track/3QCreUjeYR1Vot6dJO7PIc) | [Yulyo](https://open.spotify.com/artist/6EiHFsxnn99AATJ0bpLPK9), [OSTAR OFFICIAL](https://open.spotify.com/artist/484KAzc1DrK9bEQSre9h7a) | [Nechtik](https://open.spotify.com/album/4oOT6TLJCCkiqdScvH1qIt) | 2:13 | 2025-12-24 | 2026-02-11 |
 | [Needless](https://open.spotify.com/track/0jg7Ae67TGs8uDFhsW6Xri) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [Needless](https://open.spotify.com/album/2VwLQ9E20MkOMiPFY7DruA) | 2:16 | 2023-09-06 | 2024-05-01 |

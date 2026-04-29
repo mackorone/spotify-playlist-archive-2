@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,325 likes - 215 songs - 15 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,333 likes - 215 songs - 15 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,7 +160,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 150 | [체념](https://open.spotify.com/track/5xWiXwC6q5YQ9JaHB5ItLt) | [발라드 킹](https://open.spotify.com/artist/1UtCxV3b9LdwGZpF8GHfBM) | [발라드 인기 가요 베스트 1집](https://open.spotify.com/album/3uXVbrYyd9FhM0GwDvdxMs) | 4:56 |
 | 151 | [the moon of Seoul](https://open.spotify.com/track/33q2T6Bt6N1JKGQ4lSYjPm) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Be Like…](https://open.spotify.com/album/0MmooZaQHSHgGD0bH3p6CH) | 3:43 |
 | 152 | [I'm sorry](https://open.spotify.com/track/1QR3xt4FeHEqESaZylDAoY) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [\#007 Another Days…](https://open.spotify.com/album/0QMnDxAi0gDANQrGJMuxeq) | 4:38 |
-| 153 | [천일동안 For Thousand Days](https://open.spotify.com/track/3oXJNPCYKt60akwfakMuo2) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY) | [Human](https://open.spotify.com/album/2OeoptxuV78QJmHKHm5ISf) | 5:52 |
+| 153 | [For a Thousand Days](https://open.spotify.com/track/3oXJNPCYKt60akwfakMuo2) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY) | [Human](https://open.spotify.com/album/2OeoptxuV78QJmHKHm5ISf) | 5:52 |
 | 154 | [선물](https://open.spotify.com/track/50v7kJct6JL1Sm9nxml41L) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [Traveling You](https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2) | 4:25 |
 | 155 | [사랑아](https://open.spotify.com/track/5TAzrlwHcjsqTtPSBcpL39) | [The One](https://open.spotify.com/artist/3eAsBHDYXtCSn67Zynq3Qd) | [나는 가수다 2 2012 가왕전 개막제](https://open.spotify.com/album/2Wz7LaK00NEFJBIu6GZTBM) | 4:50 |
 | 156 | [만약에 말야](https://open.spotify.com/track/2XKuRwspIG5xIKZYVCNbty) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [K팝 스타 시즌4 TOP2 Pt\. 1](https://open.spotify.com/album/54qz9V33c5PDRbgyYaUBxP) | 3:03 |

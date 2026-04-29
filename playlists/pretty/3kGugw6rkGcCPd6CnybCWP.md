@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 86 songs - 5 hr 0 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,173 likes - 91 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,5 +94,10 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 84 | [the edge](https://open.spotify.com/track/1qap8YYPjmzGLAIV4oeDm1) | [gracyn blu](https://open.spotify.com/artist/6u9vFlNKeUTJQcHCwJX8qN) | [the edge](https://open.spotify.com/album/2jf4GbLG7k8pYmq7uwB6N3) | 3:11 |
 | 85 | [Bruise \- made of glass version](https://open.spotify.com/track/1ViyTiiu8JELEBdkq9Ki7W) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Bruise \(made of glass version\)](https://open.spotify.com/album/5TfTDGWMnOpeyN2PK236fD) | 3:38 |
 | 86 | [Hoochie Coochie Man](https://open.spotify.com/track/1opCG28oAY864tTGjZB2je) | [The Blue Mules](https://open.spotify.com/artist/07uYlW7XK9oTaN2itp1M6e) | [Out to Pasture](https://open.spotify.com/album/4ACsBAnhKaZvgvhNKuZRms) | 5:46 |
+| 87 | [Disconnected](https://open.spotify.com/track/719IcOlLBbnW1HMreex6aA) | [Dante](https://open.spotify.com/artist/0wg680NQmdJpNhFzhSxZGF) | [Disconnected](https://open.spotify.com/album/7xoJK59B89gXpOkSRG34fP) | 4:02 |
+| 88 | [Summer Dress](https://open.spotify.com/track/4i57V23JryEC7pnoKZKIen) | [AquaMurmur](https://open.spotify.com/artist/4nOb0as29UdEisnxctze0t) | [Summer Dress](https://open.spotify.com/album/3nopFbwOBVknaAUjLc8iln) | 3:58 |
+| 89 | [Son](https://open.spotify.com/track/1sZL6rANV38pXvRQsKsCKZ) | [Pien](https://open.spotify.com/artist/0M3W0VPiLEjryaAfMEoP8z) | [Son](https://open.spotify.com/album/1zR2k48nl1O1EAsJnBZaif) | 2:53 |
+| 90 | [Offsides](https://open.spotify.com/track/2bZPTbLabDiobYOcOsAtYS) | [Hey Again](https://open.spotify.com/artist/1DdU2OIgRTefByXP3yjTNI) | [Trial Run](https://open.spotify.com/album/42I6e9JHOr7Wo52OwdkIUI) | 1:54 |
+| 91 | [Collectable](https://open.spotify.com/track/0qAsgNlx10l0k8Xaj4acwd) | [Håvard Øieroset](https://open.spotify.com/artist/4j1XvtR2UwrQi3DrUWfFJe) | [Clean Sheets](https://open.spotify.com/album/373bH6IhZTA6sDbW5q7nMl) | 2:25 |
 
-Snapshot ID: `AAAOoD2bLPh/W5BQd2vT0JCyGIsJ4ST2`
+Snapshot ID: `AAAOpT5/TyOF1a/Xy+EIaEMym43TKpH+`

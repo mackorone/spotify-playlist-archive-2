@@ -4,7 +4,7 @@
 
 > The hottest UK rap, drill, grime and hip\-hop right now\. Featuring the biggest names and rising stars shaping the UK scene, including Nemzzz, EsDeeKid, KidWild and more\. Cover: Nemzzz.
 
-140 songs - 6 hr 29 min
+141 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Entrapreneur](https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Entrapreneur](https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh) | 2:24 | 2025-10-03 | 2026-03-14 |
 | [Fancy \(feat\. Chow Lee\)](https://open.spotify.com/track/4cMsSuziecXIO8Tjr4yD0W) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [Fancy \(feat\. Chow Lee\)](https://open.spotify.com/album/4D7voPeO3xQSInmGHv4QWx) | 2:04 | 2025-10-03 |  |
 | [FIRST CLASS LANDING.](https://open.spotify.com/track/3wS3axElohYztqGgvwxJX3) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [FIRST CLASS LANDING.](https://open.spotify.com/album/4a22dfdSjqIJ9fw9M8cLO0) | 3:01 | 2026-03-13 |  |
-| [FIRST CLASS LANDING.](https://open.spotify.com/track/6kHUc2tLdulIbPuOB3SFGu) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [We Live.](https://open.spotify.com/album/0xecMwhgNinkh1Z82HGQ0x) | 3:01 | 2026-03-13 |  |
+| [FIRST CLASS LANDING.](https://open.spotify.com/track/6kHUc2tLdulIbPuOB3SFGu) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [We Live.](https://open.spotify.com/album/0xecMwhgNinkh1Z82HGQ0x) | 3:01 | 2026-03-13 | 2026-04-29 |
 | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ) | 2:35 | 2025-10-03 |  |
 | [Function Riddim](https://open.spotify.com/track/5f3fH5Z93flDP8pi9EjAyb) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT) | [Function Riddim](https://open.spotify.com/album/4DouXtmG9Cu6jyD9XhVjYo) | 2:59 | 2025-10-03 | 2026-03-14 |
 | [Gas Me Up \(Diligent\)](https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Gas Me Up \(Diligent\)](https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn) | 2:51 | 2025-10-03 |  |
@@ -142,6 +142,7 @@
 | [We Won](https://open.spotify.com/track/0rLGYykaXj89TBOXq6Aief) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [We Won](https://open.spotify.com/album/55nxNL1bRIIN6oHM2Jb5c7) | 2:46 | 2025-10-03 | 2026-03-14 |
 | [WIDE AWAKE](https://open.spotify.com/track/6VhPOYMWWuuXCiEs50vdru) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [WIDE AWAKE](https://open.spotify.com/album/5SzpXBNjQZMQ3JlGeHOd3C) | 2:48 | 2025-10-03 |  |
 | [Wifey Riddim 4](https://open.spotify.com/track/6tbHckupN0s7pM7w2ifq12) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Wifey Riddim 4](https://open.spotify.com/album/6DYAAqIERXoKZxUymEq1S3) | 3:03 | 2025-10-03 | 2026-03-14 |
+| [Wizard Of Oz](https://open.spotify.com/track/4WUmgsEZZZx5aJqb5DE9Ta) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Wizard Of Oz](https://open.spotify.com/album/3ogwVPzWAxYZjROwu0MidL) | 2:33 | 2026-04-28 |  |
 | [Won't Stop Callin'](https://open.spotify.com/track/7evSOpdDVdSA7yX94wtDPz) | [deed0t](https://open.spotify.com/artist/6FKQHCg6j9fZ76nB91B80N) | [Won't Stop Callin'](https://open.spotify.com/album/4JGKktGbDd0NVAbXHh2789) | 2:30 | 2025-10-03 | 2026-03-14 |
 | [Wotless](https://open.spotify.com/track/1PqcpsMU7YYdHY66CkgE3y) | [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6), [Frass](https://open.spotify.com/artist/5inezMw3h5IDViUvrwxB4U) | [Wotless](https://open.spotify.com/album/7AyxjneugGi8AWIrXIdgIt) | 2:55 | 2025-10-03 |  |
 | [WOW](https://open.spotify.com/track/7ezqWiO4OTxHg5EJmdFnWm) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [WOW](https://open.spotify.com/album/2rfzTU6eD889ohkn7XEtXv) | 2:32 | 2025-10-03 | 2026-03-14 |

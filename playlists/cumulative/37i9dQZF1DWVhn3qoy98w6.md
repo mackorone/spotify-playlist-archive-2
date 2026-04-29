@@ -2,9 +2,9 @@
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Todos los miércoles, lo nuevo de la escena independiente española\. Foto: st\. PAVLO.
+> Todos los miércoles, lo nuevo de la escena independiente española\. Foto: mariagrep, Mundo Prestigio.
 
-8,451 songs - 17 day 22 hr 28 min
+8,453 songs - 17 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [ABURRIDO](https://open.spotify.com/track/3WnCRpE3m8NwWrUuvTTdgK) | [VALENTINO](https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0), [mxren](https://open.spotify.com/artist/7lQK81nWNEGGNMrXmmA7TI) | [ABURRIDO](https://open.spotify.com/album/6xA3dP51JivWpX6iMxGsc6) | 2:42 | 2025-04-29 | 2025-05-07 |
 | [Acapulco](https://open.spotify.com/track/0RkmCeinDlQYldD8h9eVxE) | [Pacosan](https://open.spotify.com/artist/0YPY3Gvsmn1GXYIbuf7SSD) | [Marcos Cuadrado](https://open.spotify.com/album/2OWe7g2nsonQxgQCcTy3eZ) | 3:43 | 2024-11-12 | 2024-11-20 |
 | [Acaso esto é un crime](https://open.spotify.com/track/20kL0SF8a6goWEjYiBymEm) | [Boyanka Kostova](https://open.spotify.com/artist/1t9FF9ollviXoPRU4aMi4B) | [Acaso esto é un crime](https://open.spotify.com/album/23uhDd2BTdoUeEiidQLPn6) | 2:42 | 2026-03-03 | 2026-03-25 |
+| [Acaso esto é un crime](https://open.spotify.com/track/5Qz5kV7tWI5Qyy1rVVA2Yt) | [Boyanka Kostova](https://open.spotify.com/artist/1t9FF9ollviXoPRU4aMi4B) | [X](https://open.spotify.com/album/24jtIyXNRlNMd3Jaw5VNEy) | 2:42 | 2026-04-28 |  |
 | [Aceituna](https://open.spotify.com/track/3KNFuYy5M25ezlVIqZFodU) | [El vecino de la luna](https://open.spotify.com/artist/0djfMal3VEOhwQiwvOFz56), [El Niño de la Hipoteca](https://open.spotify.com/artist/3Znu3IpegNZzamLA9vRsE0) | [Aceituna](https://open.spotify.com/album/4vTzi9th6x061oL4AqtBsq) | 3:29 | 2024-02-06 | 2024-02-14 |
 | [ACELERA](https://open.spotify.com/track/7jGTl9s52JqUNIFQ7HaMIm) | [Ali Abellán](https://open.spotify.com/artist/0a18ktjMgJiky88B6D4ToL), [Salazar](https://open.spotify.com/artist/73X4fppU5NABqeJgfX8nnf) | [ACELERA](https://open.spotify.com/album/3gCzwwXRL2J05jt0SfqeaK) | 2:24 | 2025-03-18 | 2025-03-26 |
 | [Acelera /// Crash](https://open.spotify.com/track/24a9k4s6Fxw6HtQFyZabOw) | [Basilisque](https://open.spotify.com/artist/6N3CTwgOF1agOVSk44o9um) | [Acelera /// Crash](https://open.spotify.com/album/4tCrOlQ5Cmci6RLLI9JetZ) | 3:52 | 2022-06-21 | 2022-06-30 |
@@ -770,7 +771,7 @@
 | [Autocrítica](https://open.spotify.com/track/0Yd1BOfJOFQf0cwzUuhb38) | [Celia Becks](https://open.spotify.com/artist/50WyUnAV5BUImbldUlW5e1) | [Autocrítica](https://open.spotify.com/album/1purOOhdB6RXeflrizMTWw) | 3:04 | 2024-06-25 | 2024-07-03 |
 | [autodefentsa](https://open.spotify.com/track/5C95715EBexJw211ENENUg) | [Aiert](https://open.spotify.com/artist/63Lba8xvofDjBfIOjvTb4W), [Olatz Salvador](https://open.spotify.com/artist/7cV8rrm23yUOT1ZRJFxZxk) | [autodefentsa](https://open.spotify.com/album/5wYxu92MBHTaWnbCMSsX94) | 3:24 | 2024-11-19 | 2024-11-27 |
 | [AUTODESTRUCCIÓN](https://open.spotify.com/track/4WkwOBPjvbXCDyl1fT7R8O) | [marinadorciud](https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW), [Lil Ella](https://open.spotify.com/artist/4z8DAc9ysHE4RMmrT1YiaG) | [AUTODESTRUCCIÓN](https://open.spotify.com/album/50XBKG5g9HAu32IPZvuXc1) | 3:12 | 2023-10-24 | 2023-11-08 |
-| [Automático](https://open.spotify.com/track/7iv25P41VsajQpage2feI7) | [amanda](https://open.spotify.com/artist/0v47CRZ3m7BDxHGzbI4Be3) | [Automático](https://open.spotify.com/album/4YCEneE806WEEZa5a6FGzG) | 2:36 | 2026-03-17 |  |
+| [Automático](https://open.spotify.com/track/7iv25P41VsajQpage2feI7) | [amanda](https://open.spotify.com/artist/0v47CRZ3m7BDxHGzbI4Be3) | [Automático](https://open.spotify.com/album/4YCEneE806WEEZa5a6FGzG) | 2:36 | 2026-03-17 | 2026-04-29 |
 | [Autosabotaje](https://open.spotify.com/track/6zVngdq1MF7E0QwHMEzE23) | [Paralelo 40](https://open.spotify.com/artist/5nhodPVLcHhwLLTKylL2rp) | [Autosabotaje](https://open.spotify.com/album/0fg8yN1kADrG6NPk3ib9WX) | 2:35 | 2024-05-28 | 2024-06-05 |
 | [Autostop](https://open.spotify.com/track/1GKikZgdJliKOTAdkYm09d) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Autostop](https://open.spotify.com/album/5gq24maZQ3liS0IROVFOEf) | 3:16 | 2025-10-21 | 2025-10-29 |
 | [autotunelove](https://open.spotify.com/track/1vfvPClqGUQ5JNlBeykslo) | [Azuleja](https://open.spotify.com/artist/4HUGSxQ2lu31jm5BsQjksX) | [autotunelove](https://open.spotify.com/album/3XbSvhirzKFwx39P5f2B5e) | 2:39 | 2023-06-06 | 2024-01-03 |
@@ -4563,6 +4564,7 @@
 | [MAÑANA](https://open.spotify.com/track/35PMLtgl6E2J3cWeiZPh6O) | [Yagø](https://open.spotify.com/artist/2wQAVEN5QyWXhDbqlN55jq) | [MAÑANA](https://open.spotify.com/album/1SDQGLCBnHeu5UzoXQh4GG) | 2:24 | 2024-07-23 | 2024-07-31 |
 | [Mañana es Lunes](https://open.spotify.com/track/2XhuanjdFurqh5syKL0DAG) | [Vosotras Veréis](https://open.spotify.com/artist/2aBHCc3JRmzbNxCSvl6jfu) | [Mañana es Lunes](https://open.spotify.com/album/0iSWwR1JMMuR6Rf1LJwo67) | 3:20 | 2024-05-08 | 2024-05-15 |
 | [Mañana es Martes](https://open.spotify.com/track/4oTXt7NBDxhrytywc306d5) | [Wet Iguanas](https://open.spotify.com/artist/5Nh9UxAQ4Pf2e68ZPZHQHC) | [Mañana es Martes](https://open.spotify.com/album/3fRufOiCliueXGUMAWVx2f) | 3:01 | 2025-07-01 | 2026-01-15 |
+| [Mañana más](https://open.spotify.com/track/3BxumdSbGvlkrrlCXdTmb8) | [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy), [Mundo Prestigio](https://open.spotify.com/artist/440S5SUBOxAKr28buL99Xw) | [Voy a pensar en ti](https://open.spotify.com/album/5O5U9NiREQzAKpGESoDwwi) | 4:06 | 2026-04-28 |  |
 | [Mañaneo](https://open.spotify.com/track/5FeU1WiFukJIPs7mKdRie4) | [Mediapunta](https://open.spotify.com/artist/5xY6SlOCuhGk2SW4Zx2dkx) | [Mañaneo](https://open.spotify.com/album/4yb6K36BxYyDB6vUHi4qgd) | 2:20 | 2022-05-24 | 2022-06-01 |
 | [ME <3 EN MADRID](https://open.spotify.com/track/7n6QqbxGxoBr4SSdRBYexo) | [Laskaar](https://open.spotify.com/artist/2dR0oV49jNebqozvLZ8wci) | [ME <3 EN MADRID](https://open.spotify.com/album/7nwFTdr7KeAaodW7GDK3Ll) | 2:52 | 2025-05-06 | 2025-05-14 |
 | [Me aburre](https://open.spotify.com/track/0vvh9gflJzNp6D88plBUXT) | [piti y me voy](https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx) | [Me aburre](https://open.spotify.com/album/7ITbAX8Oxp7kXyCtHaYUiu) | 3:05 | 2025-02-05 | 2025-02-12 |
@@ -7139,7 +7141,7 @@
 | [Spanish Doobie \#FastBaked](https://open.spotify.com/track/05krpFSRoHBtt7TJw8czIF) | [Candela Cuore](https://open.spotify.com/artist/1elJVm5Tn3gpRvSVCHEh5f), [Salvia](https://open.spotify.com/artist/5n2PuAaCNAQG3RV11T3npZ) | [Spanish Doobie \#FastBaked](https://open.spotify.com/album/6eWJ35YyXrHsgb1xCFWSoR) | 1:51 | 2022-09-06 | 2022-09-15 |
 | [spanishpill](https://open.spotify.com/track/61P1OUWQtYxvGCSOe6xBey) | [Dellachaouen](https://open.spotify.com/artist/42KvInQHbbKzmb8rsimvwv), [Jay Cas](https://open.spotify.com/artist/5CC3QHWWfDGEIbEMlOgh6z) | [spanishpill](https://open.spotify.com/album/7IIYQuKzsTJHO8uwaZ6DZY) | 2:42 | 2022-01-18 | 2022-02-02 |
 | [Speaking Boabdil](https://open.spotify.com/track/4QRLPMljJU1JZeWxROZb9Z) | [Dellachaouen](https://open.spotify.com/artist/42KvInQHbbKzmb8rsimvwv) | [Speaking Boabdil](https://open.spotify.com/album/5nZMt8OMkX29towjRDOirz) | 3:37 | 2024-09-17 | 2024-09-25 |
-| [Spiderman 2](https://open.spotify.com/track/7EAGK8G7EBYSdGeAOWXj8s) | [Comic Sans](https://open.spotify.com/artist/6iO5VUOZokpteF1zYVuWiJ) | [Todas las cosas que nos salieron mal](https://open.spotify.com/album/5HETtiHLKZ8BennMkPzXsw) | 2:27 | 2026-03-17 |  |
+| [Spiderman 2](https://open.spotify.com/track/7EAGK8G7EBYSdGeAOWXj8s) | [Comic Sans](https://open.spotify.com/artist/6iO5VUOZokpteF1zYVuWiJ) | [Todas las cosas que nos salieron mal](https://open.spotify.com/album/5HETtiHLKZ8BennMkPzXsw) | 2:27 | 2026-03-17 | 2026-04-29 |
 | [Spoiler](https://open.spotify.com/track/6kgGK7L2GH3S0c3Dzi4qz0) | [Seo Jaleo](https://open.spotify.com/artist/0wUAR1OTy7vzf5yUddtc5r), [Shama](https://open.spotify.com/artist/4paX5a2On2c6qn6V1l6c11) | [Spoiler](https://open.spotify.com/album/3Hc2JpUfIkFywfejguZj64) | 2:29 | 2025-04-29 | 2025-05-07 |
 | [Spyro](https://open.spotify.com/track/76kvXrlKSu5XF8pIoPnIWC) | [Lux Vimdor](https://open.spotify.com/artist/5MSARlILztDOl23Gc3mqI8) | [Spyro](https://open.spotify.com/album/0dvRm9ckOfG1EQ1CgrZnMx) | 3:07 | 2023-01-17 | 2023-01-25 |
 | [Spyro](https://open.spotify.com/track/1fsxhgSHp0tX5rXz6iOWyG) | [Pando](https://open.spotify.com/artist/4QUtJ3NGYtgFyGDLeTjyTe) | [Spyro](https://open.spotify.com/album/4G3cvdIhfVST4zZzGfS2WB) | 2:30 | 2024-05-08 | 2024-05-15 |

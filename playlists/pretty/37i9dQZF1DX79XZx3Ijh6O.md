@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 
 ### [Fresh Finds Україна](https://open.spotify.com/playlist/37i9dQZF1DX79XZx3Ijh6O)
 
-> Найліпша музика від українських артистів\-початківців\. Обкладинка: SPIVOCHA & Blockbaby
+> Найліпша музика від українських артистів\-початківців\. Обкладинка: ОНІСУКА ТАЙГЕР
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,683 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,709 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Пелюстки](https://open.spotify.com/track/0CFSGhvUovYFx36z9Tx6bK) | [SPIVOCHA](https://open.spotify.com/artist/1I5PwzJVh2y2AWxbPCwZkb), [Blockbaby](https://open.spotify.com/artist/4WNzMiptlfMfG17Da3TlXD) | [Пелюстки](https://open.spotify.com/album/4c2RxF71TgjPuux1tu59bE) | 2:43 |
-| 2 | [ЗАНАДТО ГАРЯЧА](https://open.spotify.com/track/0AjPcZse7pTYwqC8nVUhIt) | [ОНІСУКА ТАЙГЕР](https://open.spotify.com/artist/77mZBnU5El6iexxLv2qhWM) | [ЗАНАДТО ГАРЯЧА](https://open.spotify.com/album/6CIvOVdKMOwe5QQ2IPx0Q2) | 5:02 |
+| 1 | [ЗАНАДТО ГАРЯЧА](https://open.spotify.com/track/0AjPcZse7pTYwqC8nVUhIt) | [ОНІСУКА ТАЙГЕР](https://open.spotify.com/artist/77mZBnU5El6iexxLv2qhWM) | [ЗАНАДТО ГАРЯЧА](https://open.spotify.com/album/6CIvOVdKMOwe5QQ2IPx0Q2) | 5:02 |
+| 2 | [Пелюстки](https://open.spotify.com/track/0CFSGhvUovYFx36z9Tx6bK) | [SPIVOCHA](https://open.spotify.com/artist/1I5PwzJVh2y2AWxbPCwZkb), [Blockbaby](https://open.spotify.com/artist/4WNzMiptlfMfG17Da3TlXD) | [Пелюстки](https://open.spotify.com/album/4c2RxF71TgjPuux1tu59bE) | 2:43 |
 | 3 | [В п'янім танці](https://open.spotify.com/track/5e1SW7PqfIEjdox1Q31VpB) | [Dianic](https://open.spotify.com/artist/77GSVYMHWoZydSugWAN4BN) | [В п'янім танці](https://open.spotify.com/album/5urVCp1k8L1PJUOvcXUeIe) | 2:27 |
 | 4 | [іній](https://open.spotify.com/track/5iHHQ57Z3ffRxbpg2xoLFw) | [JASE51](https://open.spotify.com/artist/4p0zdj463b929YZnJ5PcJg), [NANA SOLIS](https://open.spotify.com/artist/5nqfEPmgH1HtrcPJeIt51G) | [іній](https://open.spotify.com/album/2or0Df3MOQY9g3UJz5J6eW) | 2:48 |
 | 5 | [динаміт](https://open.spotify.com/track/5Zlm5vrlnJ6rMRdcesyk8T) | [лабрадора сум](https://open.spotify.com/artist/1AWnqE9sJEoYxQBzLFVLU5) | [динаміт](https://open.spotify.com/album/2Z63quOpTO4B347thhsOq0) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 | 49 | [НІЧ](https://open.spotify.com/track/7uQiv7GIXFaGhTDtJEFHZA) | [SKOMOROH](https://open.spotify.com/artist/73CYRkd8EILLY467piZcxv) | [НІЧ](https://open.spotify.com/album/7ku7ugf5rR0gEG48jZHlxR) | 2:41 |
 | 50 | [Secret Life](https://open.spotify.com/track/6PQtZW5UsdKmKwimxqMWZP) | [Ready In LED](https://open.spotify.com/artist/6VfpeLTukyuFbKMgQdeNkZ) | [Secret Life](https://open.spotify.com/album/0eGTBT1Wj4Z7xMCMiZlr8K) | 4:56 |
 
-Snapshot ID: `AAAAAGP+aiF+1amYjak4V10doDhtk5Cd`
+Snapshot ID: `AAAAAH6Ah0QmLpnn8xU7VLt0h0FwKXAa`

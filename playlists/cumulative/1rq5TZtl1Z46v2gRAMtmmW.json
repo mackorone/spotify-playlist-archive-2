@@ -4197,6 +4197,24 @@
     },
     {
       "album": {
+        "name": "Her Eyes",
+        "url": "https://open.spotify.com/album/1NGSNi1qumOz2ioRd4pvni"
+      },
+      "artists": [
+        {
+          "name": "ZAINAB",
+          "url": "https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185266,
+      "name": "Her Eyes",
+      "url": "https://open.spotify.com/track/2GVil5jFuIJAIrGgVXJnN7"
+    },
+    {
+      "album": {
         "name": "Here With You",
         "url": "https://open.spotify.com/album/2pH84ArPiWnEspgkiBsTN6"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Quevedo, Rauw Alejandro, KAROL G, Melendi, Guitarricadelafuente, Gara Durán con Natalia Lacunza y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,535 likes - 82 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,551 likes - 82 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 22 | [Sorry Papi](https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Sorry Papi](https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk) | 2:50 |
 | 23 | [Catharina](https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Catharina](https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc) | 3:27 |
 | 24 | [Fantasy \(ft\. Cobrah\)](https://open.spotify.com/track/6CwBTCg35UfkyjJ7BB6c9U) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [It's Not That Deep \(Unless You Want It To Be\)](https://open.spotify.com/album/5tfhBGn7x0cYn9VMYhSnph) | 2:21 |
-| 25 | [The Great Divide](https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N) | 5:17 |
+| 25 | [Doors](https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:51 |
 | 26 | [Rosas y Violetas](https://open.spotify.com/track/1xgFFfq57iwooURNFpz4Z3) | [Gemeliers](https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw), [Julio Benavente](https://open.spotify.com/artist/3QfsFYUOQfTKQaIeOEKJai) | [Rosas y Violetas](https://open.spotify.com/album/0Gn8rmMDlXk3fYubpLcM0d) | 3:15 |
 | 27 | [Pasajera](https://open.spotify.com/track/0egWeHUhqCov0N3PnSuikc) | [Flowtiago](https://open.spotify.com/artist/51U0VfysnTpUUDwXgDjdfi) | [Pasajera](https://open.spotify.com/album/0SBn3uT9k683SR5zD3VxAR) | 2:12 |
 | 28 | [Otros Besos](https://open.spotify.com/track/1Kpby4fYLDcCKGyBr6psLA) | [María José Llergo](https://open.spotify.com/artist/70GBRlKEGjfueop2lfdQ4Q) | [Otros Besos](https://open.spotify.com/album/3CSRdQ6nb5kojGQ00UDxyR) | 3:34 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 81 | [Els amics](https://open.spotify.com/track/2K8AIWQ8Rdv5DF9227o1YK) | [Dan Peralbo i El Comboi](https://open.spotify.com/artist/3FYUDIpmulHS4rb5xpP9iN) | [QUIN GOIG](https://open.spotify.com/album/5VzAjSxWdiMwiKk6lUrLNZ) | 2:32 |
 | 82 | [La Trinidad No Paga Traidores](https://open.spotify.com/track/1pPDwSfFzRJCjL9xrOcOMC) | [La Trinidad](https://open.spotify.com/artist/15KUuOUuBqWGiInJr8dZah) | [La Trinidad No Paga Traidores](https://open.spotify.com/album/1BoXNKQyGWzZYCu3j1myIT) | 4:03 |
 
-Snapshot ID: `AAAAALnXzpRyn/MdyUkDjFkWwEe4LS2O`
+Snapshot ID: `AAAAAKngL08LOyKyTPFOITxdmTyVlaYu`

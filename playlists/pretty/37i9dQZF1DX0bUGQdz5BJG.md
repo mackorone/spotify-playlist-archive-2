@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Brooke Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,161 likes - 215 songs - 11 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,196 likes - 215 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 214 | [Walking Contradiction](https://open.spotify.com/track/3shCfA0NSDuKW1W95IYi7B) | [Zoe Clark](https://open.spotify.com/artist/1JLf53adsPkYiAQPir2Fn3) | [Walking Contradiction](https://open.spotify.com/album/06ogBxB9mIslCaXsRp4K2H) | 2:42 |
 | 215 | [GOOD DAMN](https://open.spotify.com/track/2V9EhQkeYq5roocczdtTCO) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [GOOD DAMN](https://open.spotify.com/album/20y2zchsx7WSEkpXx9BFB7) | 3:03 |
 
-Snapshot ID: `AAAAABWq85TEtTA8ymY/vLuCOedtNwr6`
+Snapshot ID: `AAAAAKsg/t3FaPmcuKJV/XIEo7gTZoLe`

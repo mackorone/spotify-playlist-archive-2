@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-1,410 songs - 3 day 6 hr 50 min
+1,415 songs - 3 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Autumn in the Storm](https://open.spotify.com/track/0tB90dlegD2EegT7EE2Bii) | [Breathing Tales](https://open.spotify.com/artist/2ZFi7bp6R1cFiPxT0Q7P0I) | [Autumn in the Storm](https://open.spotify.com/album/0PEP2Y4dCNhnc71M1SC8zo) | 2:32 | 2026-01-05 | 2026-01-29 |
 | [Avoidant](https://open.spotify.com/track/1fWwlZVec79sMQ4rMNngII) | [choline](https://open.spotify.com/artist/0oIJkLO0Wbca0flyK0nvfT) | [Avoidant](https://open.spotify.com/album/1W4Z4uVk0FJ2FhEhtMmCMo) | 4:25 | 2025-12-23 | 2026-01-15 |
 | [Awake](https://open.spotify.com/track/5Am6CIarSZhrRekBzNgONx) | [Bear Jr](https://open.spotify.com/artist/0O8rk33EP9v7d6NNjziFEx) | [Every Little Thing](https://open.spotify.com/album/5c2ptgyReOkQlsbJIpcW9a) | 3:42 | 2026-01-08 | 2026-01-29 |
+| [Away](https://open.spotify.com/track/6dRI3AWvG4A4zLEW9FGnqQ) | [Eastblood](https://open.spotify.com/artist/04e22jaQSCPAF7Ze8Bdx7D) | [Away](https://open.spotify.com/album/4fFzDO806PTiXxRKZKQdDw) | 3:29 | 2026-04-28 |  |
 | [B\-Side](https://open.spotify.com/track/7Ce01nMprYbN30R5InTTBh) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Feber EP](https://open.spotify.com/album/27sODt7CxuhqDLDZDNAP9f) | 0:57 | 2025-08-03 |  |
 | [Bab L’bhair \(Puerta del mar\)](https://open.spotify.com/track/1bTFBacpVR1OGMsK6moVPK) | [Sarazz](https://open.spotify.com/artist/1E3Ptvael5tKlq98Ff7BA7) | [Bab L’bhair \(Puerta del mar\)](https://open.spotify.com/album/39fnbXVwub66D8oNuw4FUz) | 3:05 | 2026-04-07 |  |
 | [BABY](https://open.spotify.com/track/0FXolQSTuBnZI98CC1N01P) | [Arranque 22](https://open.spotify.com/artist/2dqWiumN7x0FmbWDTzGpiZ) | [BABY](https://open.spotify.com/album/65KCy7vFtkLH38PuhPBwiV) | 1:36 | 2026-03-12 | 2026-03-31 |
@@ -362,6 +363,7 @@
 | [Echo Chambers](https://open.spotify.com/track/0QPdGdupsEmBguX9QSOQYA) | [Universe 25](https://open.spotify.com/artist/61MdTyU5sZjonNarb3DhMW) | [Echo Chambers](https://open.spotify.com/album/1UnXilvdjhrObk9GajzhCU) | 5:33 | 2025-08-03 |  |
 | [Echo Chambers \- Radio Edit](https://open.spotify.com/track/7io4vhWULhZDLHmPBcnrPi) | [Universe 25](https://open.spotify.com/artist/61MdTyU5sZjonNarb3DhMW) | [Cleopatra Does The Nasty](https://open.spotify.com/album/6MFW4hr1KMuHHi1CFZUcSa) | 3:38 | 2026-01-08 | 2026-01-17 |
 | [Echoes of a Scream](https://open.spotify.com/track/0wu7MRbBXcUDgYsfLfc9aT) | [The Ginger Twins](https://open.spotify.com/artist/2gjKEs7JL8SZxFCyDWWQiV) | [Echoes of a Scream](https://open.spotify.com/album/1Fn5k5nnwikeYzzQZFPizS) | 3:42 | 2026-01-27 | 2026-02-24 |
+| [Echoes of Her](https://open.spotify.com/track/6KJFnqGgznmrITqVtuc14A) | [Tea Service](https://open.spotify.com/artist/5qtEBo5UCdkuzl8NzvI6cK) | [Echoes of Her](https://open.spotify.com/album/3YkuLRVEWYDGjsGB4izfno) | 3:38 | 2026-04-28 |  |
 | [Echoes Of Nowhere](https://open.spotify.com/track/3SzGqxO8yV08UiST2L49ZY) | [Desert Lily](https://open.spotify.com/artist/4PhaxISQScCigU6Tt33Rdd) | [How Did We Get Here](https://open.spotify.com/album/1P5hKWwxb4NHb8X8PwChSp) | 3:16 | 2025-11-16 | 2025-12-10 |
 | [Echoes Of You](https://open.spotify.com/track/6DRXwiD7YcA7lQnnAd8rc6) | [Static Echoes](https://open.spotify.com/artist/4qx5CnX8jGV49bqPKbatO7) | [Echoes Of You](https://open.spotify.com/album/4d6HH23KiNUAKrNHfNujyY) | 3:39 | 2026-04-19 |  |
 | [eden](https://open.spotify.com/track/3Pwpo5dOtreAEuGyTe3TSL) | [Soul Nest](https://open.spotify.com/artist/2zx41XZ2O2HFprarro4d8z) | [eden](https://open.spotify.com/album/6b2qqZj53HbBjhIx9ASTc3) | 3:54 | 2026-02-26 | 2026-03-17 |
@@ -718,6 +720,7 @@
 | [Lykkeland](https://open.spotify.com/track/65VqFJa0WStL5umZ3k0Mmw) | [Lysne](https://open.spotify.com/artist/4RsfxkBO6jZw4qHNEJp5xm) | [Lykkeland](https://open.spotify.com/album/4Ew3xeUtj2zLVJyq2IKioi) | 2:14 | 2026-01-14 | 2026-02-03 |
 | [Mad People](https://open.spotify.com/track/3QVIGA3R10hucV3BTehZTU) | [Supersonic Boy](https://open.spotify.com/artist/6LnpFqRCx2Mmq6ceDatTj3) | [Mad People](https://open.spotify.com/album/3i5bIj8w0fzi5gvc7j1RMV) | 3:04 | 2026-01-15 | 2026-02-03 |
 | [Mad Puppies](https://open.spotify.com/track/1BCF3qP2Tm8YL9Lo1VmcHA) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Mad Puppies](https://open.spotify.com/album/08M39olgNPLTRMjpa6pf0u) | 2:08 | 2026-01-25 | 2026-02-24 |
+| [Mad, Mad, Mad \(Sweet Salvation\)](https://open.spotify.com/track/7CUfSkJKHGF4mhZP8s9L8d) | [Trapper Schoepp](https://open.spotify.com/artist/1FC9UcdlFDyATpXi1IFvLS) | [Osborne](https://open.spotify.com/album/5SYqIWrKL299SmgNaf43gM) | 3:50 | 2026-04-28 |  |
 | [Madrid](https://open.spotify.com/track/07AqQxvXuIQummbZnMfDUg) | [Passing grade](https://open.spotify.com/artist/6cM6cbpILW8TfpfZCqAFls) | [Madrid](https://open.spotify.com/album/5uHj80vUAeSnbx92ddO9mL) | 3:00 | 2026-03-28 | 2026-04-17 |
 | [Magazines](https://open.spotify.com/track/6RERmuoi4zQ42gm5M7pSvC) | [Gardenia](https://open.spotify.com/artist/6CfgSJflgY2ETbB1RqH3ry) | [Gardenia](https://open.spotify.com/album/3kk1h4CujwsYtyzdFOUnlB) | 3:32 | 2026-03-27 | 2026-04-28 |
 | [Magic Dots](https://open.spotify.com/track/3yGrz2tZ6y8MwnD7lHaucI) | [Cupp](https://open.spotify.com/artist/0TUYzuNtOTqWXXW1xVGiB8) | [Magic Dots](https://open.spotify.com/album/2g8U7447dCSIWIZ4B0a2r2) | 2:49 | 2026-01-23 | 2026-02-12 |
@@ -870,6 +873,7 @@
 | [Out of Sight](https://open.spotify.com/track/2ZWhP6xzlkiPXxvk6aap1a) | [Casual Drag](https://open.spotify.com/artist/3z9XFpIci19AIOf8QdK07N) | [Revolution Will Eat Itself](https://open.spotify.com/album/5N4MJy0un9XlNiUpv0wT8D) | 3:57 | 2026-01-28 | 2026-03-01 |
 | [Outcast](https://open.spotify.com/track/0bANwo9DVN8mKM0VoPM3LC) | [Cutloose](https://open.spotify.com/artist/0edvqWPit6C1EuyWZSCTd4) | [Outcast](https://open.spotify.com/album/5iZuZfaqkDIeYe6v3JnjSl) | 3:03 | 2025-12-15 | 2026-01-21 |
 | [over you](https://open.spotify.com/track/4v8of4HI3TgV8ssm2DzUic) | [Darro](https://open.spotify.com/artist/3X2AuZv4fn9OPLwy464PgG) | [over you](https://open.spotify.com/album/71UV6jFNDCAiDsJpK0qhNE) | 2:57 | 2026-03-31 |  |
+| [Overdose](https://open.spotify.com/track/64z8MJOjjUkuYK5EGqfPkH) | [Drexl Bowie](https://open.spotify.com/artist/42gYTrrgVcmssefJRBi2Je) | [Overdose](https://open.spotify.com/album/6JQRMV9HN4NHzdMuZEHg8Q) | 2:47 | 2026-04-28 |  |
 | [Pale Face](https://open.spotify.com/track/0JhnzPFQMiU9rX6KF6b6B9) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Pale Face](https://open.spotify.com/album/46VywIGGdZzTVNta5HTcy5) | 4:22 | 2025-12-19 | 2026-01-15 |
 | [Palestina](https://open.spotify.com/track/3YorwdZxIXL0Q6ZeZ3sems) | [Lo Que Nunca Fuimos](https://open.spotify.com/artist/6fjRwIsTHVRTAELwXewKBI) | [Paloma](https://open.spotify.com/album/1D3LUKlCurWpO7LlWovGIL) | 1:48 | 2026-03-21 | 2026-04-17 |
 | [Paloma](https://open.spotify.com/track/2olsbUwBbE9MHbUjGoXNTu) | [Lo Que Nunca Fuimos](https://open.spotify.com/artist/6fjRwIsTHVRTAELwXewKBI) | [Paloma](https://open.spotify.com/album/1D3LUKlCurWpO7LlWovGIL) | 1:55 | 2026-03-30 | 2026-04-21 |
@@ -1033,6 +1037,7 @@
 | [she](https://open.spotify.com/track/1T2F8xiWV4L3Py6Y76WhkZ) | [paul delamour](https://open.spotify.com/artist/0aBLkf0fmrwxzHQmdafK1c) | [a wound without a scar](https://open.spotify.com/album/4javgifMz83rbGNLdg5Xgs) | 1:30 | 2026-01-23 | 2026-02-12 |
 | [She](https://open.spotify.com/track/4D3PrNYtV7Il9QOQsX2nYK) | [TV Screams](https://open.spotify.com/artist/00mAGDlNPbLOc8Bugv6iz4) | [She](https://open.spotify.com/album/0bAZFkJk4WmmttHvTwGoOb) | 2:21 | 2026-04-04 | 2026-04-24 |
 | [She's My Witch](https://open.spotify.com/track/0dvGMQOonbH4ZvEiOYYWKQ) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [She's My Witch](https://open.spotify.com/album/514yIpEXXdJmn2lPXrhOcu) | 2:26 | 2025-12-08 | 2026-01-06 |
+| [Sheared to the Bone](https://open.spotify.com/track/0wJGPSOCHvKDgyvYc9NRx6) | [Scalise Family Sheep Farm LLC](https://open.spotify.com/artist/3zmrjlVE43VuCVaCsrc6LB) | [Sheared to the Bone](https://open.spotify.com/album/6f5uibI5fAPSNf8M5wOJXu) | 3:29 | 2026-04-28 |  |
 | [shelter](https://open.spotify.com/track/6dXYDYLlVYDspOFQwmLh7J) | [low\-key](https://open.spotify.com/artist/3o3u93T1lwwuCWE4ib3yKF) | [shelter](https://open.spotify.com/album/588P7hv9WwdhUAb4sfqYBb) | 5:41 | 2025-12-29 | 2026-01-22 |
 | [Shifted](https://open.spotify.com/track/0bP7lkXSA4qDxXoiIoHAMf) | [Just Arrogant Animals](https://open.spotify.com/artist/5nNS162iNQSZVgyNdV0Egf) | [Shifted](https://open.spotify.com/album/3bsBnN1Zc0Ki8NpAKgI5Or) | 3:45 | 2026-04-19 |  |
 | [Shine](https://open.spotify.com/track/4Z4XWCv7Kamr8YWMjwWY1g) | [In The Blind](https://open.spotify.com/artist/4K8sERQcjuHdGq692MMb01) | [Sulphur Moon](https://open.spotify.com/album/2MGtiDm0n79VzZhCqXZ8wF) | 4:19 | 2025-12-08 | 2026-01-06 |

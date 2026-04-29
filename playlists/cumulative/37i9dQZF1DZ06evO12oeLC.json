@@ -457,6 +457,24 @@
     },
     {
       "album": {
+        "name": "MENTAL",
+        "url": "https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "CUTE",
+      "url": "https://open.spotify.com/track/7MrH3OjcIy8FPRaKlZWvFx"
+    },
+    {
+      "album": {
         "name": "Diego",
         "url": "https://open.spotify.com/album/47HrvjLdnDwEmSVFGenON2"
       },
@@ -592,7 +610,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 133416,
       "name": "GAR\u00c7ON",
       "url": "https://open.spotify.com/track/0YjTyG0j3FfeUH84ZWBAfp"

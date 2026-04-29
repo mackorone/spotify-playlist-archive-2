@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,635 likes - 48 songs - 2 hr 50 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,636 likes - 49 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,6 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 46 | [Higher than fear](https://open.spotify.com/track/1CQJ3Bt4XV8KnZqw86KX0N) | [Neverfold](https://open.spotify.com/artist/0wPkHL9GwZEu6F7S2sznR7) | [Higher than fear](https://open.spotify.com/album/3bLk3opMkqg8EnakCiKZfS) | 4:22 |
 | 47 | [Monday](https://open.spotify.com/track/5ziIMaFf792wZZq6KEy9JL) | [Jonathan Vautour](https://open.spotify.com/artist/6Xj8ajA4mlXygB3zzzUhyJ) | [Monday](https://open.spotify.com/album/6SOqP4LGqlTb6wrmQf3b1r) | 4:35 |
 | 48 | [Her inne er det varmt](https://open.spotify.com/track/1V90d44Q6zjSn5EhbJdT1O) | [Bjørn\-Ivar Davidsen](https://open.spotify.com/artist/0hAIC7oOoD5Z3OTP8x7OS9) | [Bilder i mitt hode](https://open.spotify.com/album/0hydPfH9Vk7RSwauEMYYpX) | 3:39 |
+| 49 | [Dime Hoy](https://open.spotify.com/track/2VbBUTrOTTtjEWtsUHpaCn) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 3:29 |
 
-Snapshot ID: `AAACgifocHao4ewcpXwDnsUg7zA6wUx4`
+Snapshot ID: `AAACgyLaPx1DKMX7e2ur+bfRq1li7eF5`

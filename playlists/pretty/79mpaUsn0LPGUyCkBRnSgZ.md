@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 715 songs - 1 day 22 hr 28 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 716 songs - 1 day 22 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -723,5 +723,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 713 | [CIRCLE](https://open.spotify.com/track/1KDlkUvgWmRHe2E5DV9SCW) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [The Doober](https://open.spotify.com/album/0UpgnNkIkta5tDr8l8NQIS) | 1:41 |
 | 714 | [Bishop](https://open.spotify.com/track/2rokzbolW3350YqYejvmgV) | [Anna Butterss](https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA) | [Mighty Vertebrate](https://open.spotify.com/album/0lnAG8yZcln85SGhVzy9ru) | 3:14 |
 | 715 | [Guess](https://open.spotify.com/track/3u0CuoVA8qsqnRFrN6grPi) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Something Worth Waiting For](https://open.spotify.com/album/188WRkngMxrMTVmeWKp3yG) | 3:46 |
+| 716 | [Gotta Start Somewhere](https://open.spotify.com/track/6XwgWvXy9k2eEymsdO0TOR) | [Jon Brion](https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP) | [Meaningless](https://open.spotify.com/album/7ldLryq64OYeDuu4rUTjfH) | 4:13 |
 
-Snapshot ID: `AAAI/H/rsIU+SCGgOR9MAVaxhWAsd93j`
+Snapshot ID: `AAAI/hd4gbzwyWg/zbXwkK6cvb9MmK3W`

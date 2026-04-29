@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Sons of Legion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,746 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,748 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 27 | [In The Pines](https://open.spotify.com/track/5HTRW7oVRwE0ZxYkYfQ6Vo) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [In The Pines](https://open.spotify.com/album/1OzEgLG6ww4gtGzIwkNvp8) | 3:30 |
 | 28 | [You Hear Georgia](https://open.spotify.com/track/3v5hpjKoF63Lr9vLIKOpL8) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [You Hear Georgia](https://open.spotify.com/album/0zPQpAPYM2YG3G0pzuLiey) | 4:05 |
 | 29 | [Roots & Wings](https://open.spotify.com/track/7eGKkTJGAjTHckLuIEsmjG) | [Amani Burnham](https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD) | [Roots & Wings](https://open.spotify.com/album/31VSvPpkcluGFzHwBWP9uL) | 3:46 |
-| 30 | [Madame President](https://open.spotify.com/track/43VObA0RahYQ9dP9Sr3IRP) | [Grace Bowers & The Hodge Podge](https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx) | [Wine On Venus](https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB) | 2:26 |
+| 30 | [Madame President](https://open.spotify.com/track/43VObA0RahYQ9dP9Sr3IRP) | [The Hodge Podge](https://open.spotify.com/artist/04XDYU4soG9QoUx5VkgpIU) | [Wine On Venus](https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB) | 2:26 |
 | 31 | [Make It All Work Out](https://open.spotify.com/track/19FzdCwxA7hIsbmF8DLac5) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Make It All Work Out](https://open.spotify.com/album/1yp2fTsVvwlrI65in48hWX) | 3:05 |
 | 32 | [Twist Your Arm](https://open.spotify.com/track/69p1PZzleCCgTMDISqhibX) | [Roll Mega](https://open.spotify.com/artist/11XwVlYO6mULu84YZCNPj1), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Roll Mega](https://open.spotify.com/album/1LliP2A3k2e090yvBJcE5l) | 4:42 |
 | 33 | [13 Years](https://open.spotify.com/track/5qAZiFTk5rLhJmrOZVYgx1) | [Marc A Ridge](https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn) | [13 Years](https://open.spotify.com/album/4NIJG4kamBBJqjonUtmqZG) | 6:42 |

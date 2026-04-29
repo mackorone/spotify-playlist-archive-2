@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "EQUINOCCIO",
+        "url": "https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw"
+      },
+      "artists": [
+        {
+          "name": "Rodeo Manhattan",
+          "url": "https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209280,
+      "name": "Dime Hoy",
+      "url": "https://open.spotify.com/track/2VbBUTrOTTtjEWtsUHpaCn"
+    },
+    {
+      "album": {
         "name": "Do you tell",
         "url": "https://open.spotify.com/album/7FTkRYhJGYUKMNw5Tc0Yfj"
       },

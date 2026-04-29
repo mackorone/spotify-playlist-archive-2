@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-189 songs - 10 hr 34 min
+190 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Life Letters](https://open.spotify.com/track/29VdNzgJIxzlIDkIYjFQqS) | [Never Get Used To People](https://open.spotify.com/artist/0j5kVHxvTgUN4nBIPKCLRJ) | [Life Letters](https://open.spotify.com/album/2f5voeeirzSQBRR4ovCNnD) | 2:28 | 2022-12-11 |  |
 | [Like A Boss \- Original Mix](https://open.spotify.com/track/3ltDZTEcRMZdh5Sr4JLiA2) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ) | [Like A Boss EP](https://open.spotify.com/album/2BZeGuJndNSVO0jZ6Qampx) | 4:34 | 2018-12-23 |  |
 | [Little Too Close](https://open.spotify.com/track/4FJQhrYrmnUnmbQyKlyHfq) | [WRLD](https://open.spotify.com/artist/4VqBNQRr0nDN0trNUOn0co), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Chase It](https://open.spotify.com/album/7GtZPupXbxCbzZ2VHZzBKL) | 4:04 | 2019-11-30 |  |
+| [Lobby music 80's edition](https://open.spotify.com/track/36wdusACrHJeVsvimrwLt0) | [Kahoot!](https://open.spotify.com/artist/7ADPwlOqNnCqFtqIV5TKCX) | [Lobby music 80's edition](https://open.spotify.com/album/6HRAA8rdmArMT50561cklK) | 1:34 | 2026-04-29 |  |
 | [Lone Digger](https://open.spotify.com/track/0ZG7CssB5lM2ILgJhMGNVE) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<I°\_°I>](https://open.spotify.com/album/3LBVVeFs1R0VJobVUzNSdx) | 3:49 | 2018-12-06 |  |
 | [Loser, Baby](https://open.spotify.com/track/6zJjw0iXY0aMBEUyCG1NsA) | [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Hazbin Hotel](https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 2:55 | 2024-12-03 |  |
 | [Lost In The Rhythm](https://open.spotify.com/track/35nsl8YiBIYw1YdNmkmhnk) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Octavia Rose](https://open.spotify.com/artist/3jT2Zl57kYDK5qI8fkl1L9) | [Lost In The Rhythm](https://open.spotify.com/album/7rKr9KQYB6yL64A5WRUXhH) | 3:06 | 2019-05-27 |  |

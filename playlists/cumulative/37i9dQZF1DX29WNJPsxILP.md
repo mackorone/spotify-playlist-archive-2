@@ -4,7 +4,7 @@
 
 > Best of Hindi Hip\-Hop! Cover: Karan Kanchan, Raga & Ikka
 
-318 songs - 16 hr 6 min
+319 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Blessed](https://open.spotify.com/track/4GivXw16d9aVeLbZgrEkIJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Blessed](https://open.spotify.com/album/23IYMJYNH8OYpk8C7kb9zy) | 3:02 | 2025-03-21 | 2025-07-12 |
 | [Blowing Up](https://open.spotify.com/track/3Oh2FwWbnKIAyUE2gToFYu) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Blowing Up](https://open.spotify.com/album/0nzNYneCXJhO6OZQLHROri) | 4:07 | 2023-03-10 | 2024-10-01 |
 | [BLOWUP](https://open.spotify.com/track/5Oys598jBje9v92awHRXzZ) | [vichaar](https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5) | [VVVV VOL\. 2](https://open.spotify.com/album/1m2FkAT18SmqCJEzKnYzIW) | 2:23 | 2026-03-08 |  |
+| [Boom Shaka](https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Boom Shaka](https://open.spotify.com/album/30WCmigi6kMczGUKjmtqxb) | 3:38 | 2026-04-28 |  |
 | [Brahamachari](https://open.spotify.com/track/71Rp11WbiT4jNFsvsVTULU) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [GhAatak](https://open.spotify.com/artist/27OuoF6QLsNbENNBDLyvQt) | [Kshama](https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08) | 3:34 | 2024-12-14 | 2025-02-01 |
 | [Brown Baddie](https://open.spotify.com/track/3igllAJHaHreqjwdfDxbrj) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Hashbass](https://open.spotify.com/artist/0SFvkCtMeB2DSxgIPX6lzO) | [Brown Baddie](https://open.spotify.com/album/7CCCMWbQH2fYhsqxEteXNj) | 2:36 | 2025-07-11 | 2025-12-20 |
 | [Bt Ho Gayi](https://open.spotify.com/track/1guV4vXt4fnnwALAdxy5hq) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:36 | 2023-05-18 | 2024-04-19 |
@@ -186,7 +187,7 @@
 | [Maa Ka Call](https://open.spotify.com/track/30J1YSP7njH6AqPpGTNQuW) | [Bekhauf](https://open.spotify.com/artist/11TNfhP5pMAgWbDwPhvdg0), [THOUGHT](https://open.spotify.com/artist/5GZklBtmZD8WZsLGVbHQqC) | [Maa Ka Call](https://open.spotify.com/album/0ao10oa3mdiFfPfRhS5rrH) | 2:52 | 2024-10-23 | 2025-01-07 |
 | [Maar Kaat](https://open.spotify.com/track/4pEGr8rZ6w5NplICrHxcOh) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Hurricane](https://open.spotify.com/artist/6OvPeLnrLk4v7X7tmjnOiO), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE), [Lil Bhavi](https://open.spotify.com/artist/1IbSPJLkIqkDmIoyysS3Vn) | [DL91 FM](https://open.spotify.com/album/2Jc0evKv7asNZMx32rQHrF) | 1:04 | 2025-05-16 | 2026-03-14 |
 | [Machayenge 4](https://open.spotify.com/track/71VXewVKFs0HcwEom489zH) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Machayenge 4](https://open.spotify.com/album/75500cJSqQKQafI8VAKxO2) | 6:38 | 2023-03-10 | 2024-10-01 |
-| [Mafia](https://open.spotify.com/track/0Z8kwhMDaj9lAlukRDNfXV) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:22 | 2025-09-26 |  |
+| [Mafia](https://open.spotify.com/track/0Z8kwhMDaj9lAlukRDNfXV) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:22 | 2025-09-26 | 2026-04-29 |
 | [Main Sochi Jaavan](https://open.spotify.com/track/2s17eFnO0RayQYOitJj2xQ) | [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G) | [Mtv Hustle 03 Represent Episode 3](https://open.spotify.com/album/5U4uel42AQiVrBGKmijYNA) | 3:57 | 2023-11-08 | 2023-12-07 |
 | [Mashooka](https://open.spotify.com/track/78iOfBb1DWPhKzihpDGZf5) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Mashooka](https://open.spotify.com/album/5YIfNbv6RRMIdjP2hvF1Nc) | 2:28 | 2023-10-06 | 2025-01-07 |
 | [Mast](https://open.spotify.com/track/5o3STtBAtkeqPBw69ZUZWs) | [J Trix](https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf), [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl) | [Mast](https://open.spotify.com/album/3FfJhcVHUd5lZJjOE5wi37) | 2:35 | 2025-01-06 |  |

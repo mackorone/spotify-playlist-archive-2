@@ -2,9 +2,9 @@
 
 ### [Women's Voice](https://open.spotify.com/playlist/37i9dQZF1DWTD6tHjIApT3)
 
-> 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 望月ヒナタ
+> 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: MoMo
 
-3,769 songs - 10 day 0 hr 4 min
+3,770 songs - 10 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Blue age](https://open.spotify.com/track/6ntXvzVRFfhIglEbNcv1a7) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Blue age](https://open.spotify.com/album/33wwg7H07B9wa1JSKywbW2) | 4:09 | 2025-09-16 | 2025-11-19 |
 | [Blue Bird \(feat\. Maika Loubté\)](https://open.spotify.com/track/6KJW2wfW3iKbOinXZTbf3v) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Blue Bird \(feat\. Maika Loubté\)](https://open.spotify.com/album/65rWyGlUaqsWQwYwOLFxIH) | 3:50 | 2023-06-06 | 2023-06-28 |
 | [Blue boat](https://open.spotify.com/track/3zMeD36TpLGKtRlXvNLR4G) | [好芻](https://open.spotify.com/artist/2qeDcLCQcUBQWkit80w0aK) | [Blue boat](https://open.spotify.com/album/0xk0DCPK1OzikB6cMKX9Ja) | 3:48 | 2022-07-12 | 2022-07-20 |
+| [BLUE DREAM \(feat\. reina\)](https://open.spotify.com/track/4N5SbzQgqi0m0xUbPlWHhd) | [MoMo](https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW), [Osamu Fukuzawa](https://open.spotify.com/artist/7FumP227z8vPxFVjYWe80F), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [BLUE DREAM](https://open.spotify.com/album/4uQCN0lN6YsPVTuMnyNXTx) | 3:47 | 2026-04-28 |  |
 | [Blue Hawaii](https://open.spotify.com/track/72ElUNJsPAoVPBzaJ1sDKF) | [Tota](https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F) | [Blue Hawaii](https://open.spotify.com/album/2q3X7QPG8bwJH6PWTnkYR6) | 3:38 | 2022-08-05 | 2022-08-24 |
 | [blue hour](https://open.spotify.com/track/2VezAeFgaa9IFRChV9wEPf) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [blue hour](https://open.spotify.com/album/1rUvBCJ8zqcXa2S2QbYfHN) | 3:03 | 2026-04-14 |  |
 | [Blue Hour](https://open.spotify.com/track/04Y1toJrL4LDUEnMrD9An5) | [moumoon](https://open.spotify.com/artist/2lXdBKdqczUqxZlQxqTaFF) | [FELT SENSE](https://open.spotify.com/album/5MFXYkQqLCe3EPZAx6nxHQ) | 4:02 | 2023-07-25 | 2023-08-02 |
@@ -1583,7 +1584,7 @@
 | [S.S.S.](https://open.spotify.com/track/48f0KSnaKBBM4v5Uo3NWKN) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [S.S.S.](https://open.spotify.com/album/6r7gBmCDMCHc0C61Jgm74X) | 3:21 | 2022-08-02 | 2022-10-26 |
 | [Sabishii no Iro](https://open.spotify.com/track/3ORQBi71IuctVeUf93l7le) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [Sabishii no Iro](https://open.spotify.com/album/6OQMBijqwcgC2vBcDcuKUE) | 3:58 | 2023-07-25 | 2023-08-02 |
 | [Saigo ni Hitotsu](https://open.spotify.com/track/2BfJdiTXqI44lnGqDFejKc) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Miseisenjo](https://open.spotify.com/album/4UMbQQ1A6zjnWzu4Kzr7tl) | 4:04 | 2024-01-23 | 2024-02-14 |
-| [Saigo no Bento](https://open.spotify.com/track/6vaAaKaz0Qy3XTiuhdH8bZ) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [Saigo no Bento](https://open.spotify.com/album/02mqWuosg5iGsbFKQHiseS) | 3:27 | 2026-03-17 |  |
+| [Saigo no Bento](https://open.spotify.com/track/6vaAaKaz0Qy3XTiuhdH8bZ) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [Saigo no Bento](https://open.spotify.com/album/02mqWuosg5iGsbFKQHiseS) | 3:27 | 2026-03-17 | 2026-04-29 |
 | [Sailing](https://open.spotify.com/track/5bkb0z3NyoyOokKRrsIsua) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Sailing](https://open.spotify.com/album/1aiaI6bjMi0gOEBPzS9yCl) | 5:49 | 2022-06-02 | 2022-07-27 |
 | [Sakura](https://open.spotify.com/track/1TmEGOLV7bvCvdDaEpLPuT) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [Sakura](https://open.spotify.com/album/4JRwoJggRt23Xl2Jj7IeCr) | 3:31 | 2025-04-08 | 2025-04-29 |
 | [Sakura](https://open.spotify.com/track/0PKRLhHMFebyoFt14S51lz) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [Sakura](https://open.spotify.com/album/7hqw3MFOFRzvGWiXHfzHvk) | 5:13 | 2025-02-18 | 2025-02-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 
 > All Coke Studio Pakistan tracks in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,376 likes - 150 songs - 15 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,369 likes - 150 songs - 15 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 | 26 | [Muaziz Saarif](https://open.spotify.com/track/3tDoe3YGIltxR9zv5AkWqi) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [Muaziz Saarif](https://open.spotify.com/album/1TpkynqQUmK6bTwMotcx1L) | 4:41 |
 | 27 | [Mundiya \(feat\. Quratulain Balouch\)](https://open.spotify.com/track/2hREXzC8fpy2Fu0gYlxy8c) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Mundiya \(feat\. Quratulain Balouch\)](https://open.spotify.com/album/7EsJ1gzSjvgrhejwvGSe1X) | 4:58 |
 | 28 | [Aayi Aayi](https://open.spotify.com/track/6eeinYVA4kc7ZkN7irTmzK) | [Noman Ali Rajper](https://open.spotify.com/artist/0C5woxKQWlOaYpJc1X7FXF), [Babar Mangi](https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv), [Marvi\-Sahiban](https://open.spotify.com/artist/7pxPWe5e97S33DsFfdyz7R) | [Aayi Aayi](https://open.spotify.com/album/0PKYVXoodEp9XOtXdjt8QQ) | 4:49 |
-| 29 | [Naina Moray](https://open.spotify.com/track/1xCkdxvD6gwJmeVpu5I1kN) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Akbar Ali](https://open.spotify.com/artist/3vUoKEc04Us6vNrZjDHHs2), [Aamir Zaki](https://open.spotify.com/artist/56QuYTrWM1DQmmwy1npwrr) | [Coke Studio Season 10: Episode 4](https://open.spotify.com/album/47IayN7LlLIu6A2RuzhbrX) | 9:51 |
+| 29 | [Naina Moray](https://open.spotify.com/track/1xCkdxvD6gwJmeVpu5I1kN) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Akbar Ali](https://open.spotify.com/artist/2gSKEcwiRau9vlGjkvLd7Z), [Aamir Zaki](https://open.spotify.com/artist/56QuYTrWM1DQmmwy1npwrr) | [Coke Studio Season 10: Episode 4](https://open.spotify.com/album/47IayN7LlLIu6A2RuzhbrX) | 9:51 |
 | 30 | [Beparwah](https://open.spotify.com/track/1BkYDk1hrLKkPi10OVSrhR) | [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Beparwah](https://open.spotify.com/album/5AntNs7eAxvw6zn9YZeP6J) | 4:32 |
 | 31 | [Tum Naraz Ho](https://open.spotify.com/track/7od22pmztVH9YfpzZ0205R) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 5:55 |
 | 32 | [Gulon Main Rang](https://open.spotify.com/track/7J4UCQmUq4T5vzMmvE2NAq) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Gulon Main Rang](https://open.spotify.com/album/0Rbfm35fV1a5uCjVK7pgjs) | 6:19 |

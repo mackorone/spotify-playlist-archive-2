@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > L’alternatif québécois à plein volume\. Photo: Klô Pelgag
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,162 likes - 102 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,180 likes - 102 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

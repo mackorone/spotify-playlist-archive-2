@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: Foo Fighters
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,930 likes - 102 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,931 likes - 102 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 42 | [ALWAYS LET YOU DOWN \(feat\. A Day To Remember\)](https://open.spotify.com/track/2QkboO9FsC9Z2ogQPjDb30) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89), [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [ALWAYS LET YOU DOWN \(feat\. A Day To Remember\)](https://open.spotify.com/album/11qgjRUBFe0yAR47559uaU) | 3:04 |
 | 43 | [An Ending In Itself](https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [An Ending In Itself](https://open.spotify.com/album/2KY8x9VYNQK8163vDBxdcr) | 3:36 |
 | 44 | [PSYCHO](https://open.spotify.com/track/2QPpUnKgsC1aeP5UgI6vBG) | [Kami Kehoe](https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR) | [PSYCHO](https://open.spotify.com/album/1jueNnrVDWN48p7HGjSMds) | 2:18 |
-| 45 | [ENEMY](https://open.spotify.com/track/1VIcfFO1tnpfoSxaGaLzeW) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [ENEMY](https://open.spotify.com/album/74o5SNrc5oqx67sWhrBqt4) | 3:09 |
+| 45 | [ENEMY \(with blackbear\)](https://open.spotify.com/track/1VIcfFO1tnpfoSxaGaLzeW) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [ENEMY \(with blackbear\)](https://open.spotify.com/album/74o5SNrc5oqx67sWhrBqt4) | 3:09 |
 | 46 | [BLINDFOLD](https://open.spotify.com/track/14CHUiA5TOvpYvIl63TSI6) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [IT CALLS ME BY NAME](https://open.spotify.com/album/0dGjNVNmtc3ZkrK6YgwjLL) | 3:14 |
 | 47 | [Afraid Of The Dark](https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Afraid Of The Dark](https://open.spotify.com/album/7e9ka8itzOI5qCIKXIyCy2) | 4:38 |
 | 48 | [PROWLER](https://open.spotify.com/track/5fD5ikfL6P5NZkbQYCfXa7) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [PROWLER](https://open.spotify.com/album/4o8ibLshDMD2wTrG9s2GwO) | 2:45 |

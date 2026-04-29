@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: UNCHILD)",
+  "description": "Future K-Pop hits! (Cover: 82MAJOR)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -4148,7 +4148,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 171000,
       "name": "Butterfly Doors",
       "url": "https://open.spotify.com/track/1U7iwruAyuD1lnsTzuYfY3"
@@ -4666,7 +4666,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 180000,
       "name": "Catch Catch",
       "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
@@ -4706,6 +4706,24 @@
       "duration_ms": 195546,
       "name": "Celebrity",
       "url": "https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4"
+    },
+    {
+      "album": {
+        "name": "4th Mini Album 'CEREMONY'",
+        "url": "https://open.spotify.com/album/22TsuaiFzj7i9cIKFwKdyI"
+      },
+      "artists": [
+        {
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196607,
+      "name": "CEREMONY",
+      "url": "https://open.spotify.com/track/7CoEOvI85tbkhdgJRd8XfC"
     },
     {
       "album": {
@@ -6628,7 +6646,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 151867,
       "name": "DEAD MAN WALKING",
       "url": "https://open.spotify.com/track/523i3lvg9ih2bgsMZZCLSX"
@@ -10614,6 +10632,24 @@
       "duration_ms": 224837,
       "name": "Glitch",
       "url": "https://open.spotify.com/track/3Xzyta15TXF33ggEjA5FxN"
+    },
+    {
+      "album": {
+        "name": "Glow - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0ynqAxPR0GtSUMf1uMWFIT"
+      },
+      "artists": [
+        {
+          "name": "XngHan&Xoul",
+          "url": "https://open.spotify.com/artist/4nhoBfffvyboGLLrIsP2lb"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/0Tb03kTDMdEl0a4QEtvKuQ"
     },
     {
       "album": {
@@ -17635,6 +17671,24 @@
     },
     {
       "album": {
+        "name": "Mmchk",
+        "url": "https://open.spotify.com/album/5YHLQZd6OjbaP5hMVts8Y7"
+      },
+      "artists": [
+        {
+          "name": "NEXZ",
+          "url": "https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158813,
+      "name": "Mmchk",
+      "url": "https://open.spotify.com/track/5zwbPkrAUdR95cNStyBe82"
+    },
+    {
+      "album": {
         "name": "THE FIRST STEP : CHAPTER THREE",
         "url": "https://open.spotify.com/album/3dfrKjXXIsZ8ftwen5v40w"
       },
@@ -23562,7 +23616,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 184477,
       "name": "Shapeshifter",
       "url": "https://open.spotify.com/track/0kkqkpgbkLFpopZqPAH1CO"
@@ -23844,6 +23898,24 @@
       "duration_ms": 179555,
       "name": "Side By Side - Korean Version",
       "url": "https://open.spotify.com/track/4FXKLGkXw4v5Kw3pEWCTYV"
+    },
+    {
+      "album": {
+        "name": "FEELM",
+        "url": "https://open.spotify.com/album/0U8OEGNR5aYwlY3TLXGVYS"
+      },
+      "artists": [
+        {
+          "name": "82MAJOR",
+          "url": "https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169039,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/29WdT0CvbaVoN5pbke3hXX"
     },
     {
       "album": {
@@ -25874,6 +25946,24 @@
       "duration_ms": 184000,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/1qXkDZzrLYZDer71tT9nYG"
+    },
+    {
+      "album": {
+        "name": "Absolute Value of Romance OST Part 2",
+        "url": "https://open.spotify.com/album/6wOkUWVosU5aIi7NZqfU08"
+      },
+      "artists": [
+        {
+          "name": "SAY MY NAME",
+          "url": "https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204229,
+      "name": "Sweet & Sour",
+      "url": "https://open.spotify.com/track/2XtHZDeNTUvOEsnHAI8HGo"
     },
     {
       "album": {
@@ -28174,7 +28264,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 172000,
       "name": "UNIQUE",
       "url": "https://open.spotify.com/track/2UcWuaUqRrKRL8iTA92ELO"
@@ -30984,6 +31074,24 @@
       "duration_ms": 235175,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/6Ca2C9ycBna1WXfL5cB6Gn"
+    },
+    {
+      "album": {
+        "name": "TWS 5th Mini Album \u2018NO TRAGEDY\u2019",
+        "url": "https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "You, You",
+      "url": "https://open.spotify.com/track/2X9RbCpuBRR6ztXn83AK5U"
     },
     {
       "album": {

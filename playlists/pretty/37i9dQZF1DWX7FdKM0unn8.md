@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 
 > 70\-80년대를 수 놓았던 노래들을 즐겨보세요! \(Listen Korea's classic & old songs from 70's to 80's.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,725 likes - 105 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,729 likes - 105 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 6 | [슬픈 인연](https://open.spotify.com/track/0EIaR2py9XXUW4DMLx4BNk) | [NAMI](https://open.spotify.com/artist/41UwSuVCpnYFARIqfKoEG5) | [A Long Winter](https://open.spotify.com/album/2DdP0Cgsc1hYozWTgB7ajy) | 4:34 |
 | 7 | [당신은 모르실꺼야](https://open.spotify.com/track/1QFfbUtNS0BpWmUVZqHhbu) | [혜은이](https://open.spotify.com/artist/0wpePehw25BtABst49wTMa) | [오리지날 가요 베스트 Vol.3](https://open.spotify.com/album/0f1NbeSXquER4WndPwiCQB) | 3:16 |
 | 8 | [사랑일기](https://open.spotify.com/track/5NA0wgvnUinGTFdT3p5tnD) | [Towner & Town Chief](https://open.spotify.com/artist/3Qm5uwdUYz6Bz64XOqsiYD) | [푸른 돛](https://open.spotify.com/album/5ka1jbuOzofnAJUs5p02SQ) | 4:30 |
-| 9 | [텅 빈 마음 Empty Heart](https://open.spotify.com/track/4KiYPYpm4ultIp247ftPlI) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY) | [B.C 603](https://open.spotify.com/album/5NySygZgi6F7cBkjuFTBTa) | 4:09 |
+| 9 | [Empty Heart](https://open.spotify.com/track/4KiYPYpm4ultIp247ftPlI) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY) | [B.C 603](https://open.spotify.com/album/5NySygZgi6F7cBkjuFTBTa) | 4:09 |
 | 10 | [매일 그대와](https://open.spotify.com/track/29WHJi4NkO3pRw5x3Ptfnl) | [Deul Guk Hwa](https://open.spotify.com/artist/1sgkTCF42JGJUIaBP68n6H) | [들국화 1집 행진/사랑일 뿐야](https://open.spotify.com/album/1xiw5yg4K5TAaGEt56pR2K) | 3:30 |
 | 11 | [깊은 밤을 날아서](https://open.spotify.com/track/3Al8ZAfFrZshzgTI6IPeF1) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [이문세 4집](https://open.spotify.com/album/0otsHhxK7ZdzjsL2roT3VY) | 3:02 |
 | 12 | [On Those Days](https://open.spotify.com/track/0ACRegRh3QSjCGgWw7xtGV) | [어떤날](https://open.spotify.com/artist/1DfZ34LYlp8Q1VWSgDietf) | [oneday II](https://open.spotify.com/album/2LUhNhSyrYyrkJoJUiiusi) | 4:00 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 52 | [그대와 단둘이서](https://open.spotify.com/track/2oI3jwkViwaERvhJ5JyCGJ) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 3집](https://open.spotify.com/album/2kdSTc3C8HDnhRYu2U2B1x) | 3:41 |
 | 53 | [잊어야 한다는 마음으로](https://open.spotify.com/track/5PRFMb0iu0Ji3P9CNPeDpp) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 '나의 노래' BOX SET \(Remastered\)](https://open.spotify.com/album/3Gc1VEAlKtrlZqVeBUNor9) | 4:17 |
 | 54 | [지금 그대로의 모습으로](https://open.spotify.com/track/2jfxNjEWEem2EwKsXZY1Bp) | [Yoo Yeol](https://open.spotify.com/artist/1gyFAghLz2y5KIFA32vtwl) | [대학가요제 Golden Best](https://open.spotify.com/album/3mE5epmT3xV1qY8yeeVq6X) | 4:49 |
-| 55 | [기다린 날도 지워질 날도 Days Of Longing, Days To Be Forgotten](https://open.spotify.com/track/3ZCIaxNcu1rtqBJAckJkvs) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY) | [B.C 603](https://open.spotify.com/album/5NySygZgi6F7cBkjuFTBTa) | 4:09 |
+| 55 | [Days of Waiting, Days of Fading](https://open.spotify.com/track/3ZCIaxNcu1rtqBJAckJkvs) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY) | [B.C 603](https://open.spotify.com/album/5NySygZgi6F7cBkjuFTBTa) | 4:09 |
 | 56 | [그 때 그 사람](https://open.spotify.com/track/17tVPvWGq0JmxxUY5uOgs0) | [심수봉](https://open.spotify.com/artist/7xcj5TEoeAUmtYRPjspjf9) | [대학가요제 Golden Best](https://open.spotify.com/album/3mE5epmT3xV1qY8yeeVq6X) | 3:28 |
 | 57 | [날 찾지 말아요](https://open.spotify.com/track/47Y2w2OqMvqQ93nAA6DdcI) | [지예](https://open.spotify.com/artist/4EjKK0MdFQpp3lToa1m5c6) | [장덕 추모 앨범\(하얀날 하얗게 떠난 친구에게\)](https://open.spotify.com/album/5fxtuJkfiB0xYZCFztnwuh) | 3:46 |
 | 58 | [보고싶은 마음](https://open.spotify.com/track/5I69xkBlJoa7v8T3saqcLN) | [Yang Hee Eun](https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb) | [골든 베스트 18 \(Best\)](https://open.spotify.com/album/6jNFqYhHW83hDVcO9zDQ8I) | 4:06 |

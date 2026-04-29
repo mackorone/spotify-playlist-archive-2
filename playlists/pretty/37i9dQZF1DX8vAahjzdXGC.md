@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Raim Laode,  Dipha Barus, Hindia, Keisya Levronka, CORTIS, Madonna dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,227 likes - 106 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,246 likes - 106 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

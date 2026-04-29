@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Foo Fighters
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,940 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,926 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 67 | [Hive Mind \(feat\. Denzel Curry\)](https://open.spotify.com/track/4jfzIzQiUabe8PDNo0O66j) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Hive Mind \(feat\. Denzel Curry\)](https://open.spotify.com/album/6eNCE2Inl49H7U8L0YaaRg) | 3:26 |
 | 68 | [Of All People](https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Of All People](https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn) | 2:34 |
 | 69 | [Shine Again](https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Shine Again](https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153) | 4:05 |
-| 70 | [ENEMY](https://open.spotify.com/track/1VIcfFO1tnpfoSxaGaLzeW) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [ENEMY](https://open.spotify.com/album/74o5SNrc5oqx67sWhrBqt4) | 3:09 |
+| 70 | [ENEMY \(with blackbear\)](https://open.spotify.com/track/1VIcfFO1tnpfoSxaGaLzeW) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [ENEMY \(with blackbear\)](https://open.spotify.com/album/74o5SNrc5oqx67sWhrBqt4) | 3:09 |
 | 71 | [Song For Hal](https://open.spotify.com/track/2VVWTCKDdJYxrF7TZtyUAH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:38 |
 | 72 | [Starting Over Again](https://open.spotify.com/track/34VjbHxkXXjl7iv7df3rDt) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Starting Over Again](https://open.spotify.com/album/6KsGdacJiG8uv9F6o2bmfL) | 3:56 |
 | 73 | [Caught In The Echo](https://open.spotify.com/track/0B6cG6HOupKy2GaWOgfeOH) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Caught In The Echo](https://open.spotify.com/album/6swKsHBLuNUekcQcW2SOYK) | 4:02 |

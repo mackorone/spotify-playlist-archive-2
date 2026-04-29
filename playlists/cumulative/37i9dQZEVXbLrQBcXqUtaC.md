@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 
-1,902 songs - 4 day 13 hr 7 min
+1,903 songs - 4 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1183,7 +1183,7 @@
 | [Rich & Boasy](https://open.spotify.com/track/2WVHW2kntMtXH2FwZxGqgM) | [Aysah Forever](https://open.spotify.com/artist/1T7yiPW6PCcmrXVGpyDkHU) | [Rich & Boasy](https://open.spotify.com/album/3ZfY2r0PixYEZsqi8qeHgG) | 2:22 | 2024-03-05 | 2024-03-07 |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-05 | 2023-03-01 |
 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 | 2022-05-14 | 2022-05-18 |
-| [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-03-03 |  |
+| [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-03-03 | 2026-04-29 |
 | [Road To The Riches](https://open.spotify.com/track/2V7BGxa9Bso5xoL1l7hitV) | [Kool G Rap](https://open.spotify.com/artist/099tLNCZZvtjC7myKD0mFp), [DJ Polo](https://open.spotify.com/artist/4WvLVxw1N375OetRwt2HRK) | [Road To The Riches](https://open.spotify.com/album/1J4VGPOpsMoIStSQGRpbh7) | 5:16 | 2021-11-14 | 2021-11-14 |
 | [Rock That Body](https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:28 | 2025-06-21 | 2025-07-12 |
 | [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 | 2025-06-19 | 2025-07-14 |
@@ -1437,7 +1437,8 @@
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2023-11-13 | 2025-02-20 |
 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 | 2024-04-18 | 2026-01-15 |
 | [The Night We Met](https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/0Rfqw98N7kZ4qVPGWvt8Gn) | 3:28 | 2025-09-29 | 2026-01-06 |
-| [The One That Got Away](https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2026-04-27 |  |
+| [The One That Got Away](https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM) | 3:47 | 2026-04-28 |  |
+| [The One That Got Away](https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2026-04-27 | 2026-04-29 |
 | [The Planet](https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Planet](https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5) | 2:58 | 2023-05-13 | 2023-06-12 |
 | [The Real Slim Shady](https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:44 | 2023-12-01 | 2023-12-12 |
 | [The Smallest Man Who Ever Lived](https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:05 | 2024-04-20 | 2024-04-24 |
@@ -1778,7 +1779,7 @@
 | [شدي ولدك](https://open.spotify.com/track/70TWDAkB1EIRFKlwdHhpLZ) | [Astknan Maghribi](https://open.spotify.com/artist/3j2RV0vrjqFRwKVrV2aWr7) | [مغربيات استكنان](https://open.spotify.com/album/4RLC98kTOfWorlkVuyS6Jk) | 3:15 | 2024-08-30 | 2024-10-26 |
 | [شفت النجوم](https://open.spotify.com/track/2GQB3Xe1J9D2sK90AtHfhI) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [شفت النجوم](https://open.spotify.com/album/7150HyQxphdEnrai0PoxAc) | 3:50 | 2022-05-04 | 2022-08-02 |
 | [شفتها وعقلي راسا طار](https://open.spotify.com/track/0Iec0EoLzYGNZch9xIeq0g) | [Ghaith Sabah](https://open.spotify.com/artist/7ktjzPxDqpXT76PMmIHIyT) | [شفتها وعقلي راسا طار](https://open.spotify.com/album/3f3hpcCJVUs0vFGVYzt08r) | 1:45 | 2022-03-02 | 2022-03-15 |
-| [شلون بية](https://open.spotify.com/track/4QlbWOnT3ZoR2mTsyg362u) | [Aws Al Saber](https://open.spotify.com/artist/5cLIxAVjEMmvPOZviDlhO4) | [شلون بية](https://open.spotify.com/album/0J0RqERed7yk2EIcnJlX9P) | 6:00 | 2024-06-09 | 2026-04-28 |
+| [شلون بية](https://open.spotify.com/track/4QlbWOnT3ZoR2mTsyg362u) | [Aws Al Saber](https://open.spotify.com/artist/5cLIxAVjEMmvPOZviDlhO4) | [شلون بية](https://open.spotify.com/album/0J0RqERed7yk2EIcnJlX9P) | 6:00 | 2024-06-09 |  |
 | [شيل البيض](https://open.spotify.com/track/7hu2FeFvzmrNWe6ldX8iqy) | [Barry](https://open.spotify.com/artist/0BatFhnuo1dJ632u37igwo) | [شيل البيض](https://open.spotify.com/album/4FMEXLgMhppDoErouUXwPX) | 2:41 | 2021-03-27\* | 2021-11-16 |
 | [شيلة طرب حماسية](https://open.spotify.com/track/67pgW0LyrChcjli8XyjT9U) | [غنوة](https://open.spotify.com/artist/1y6JGih3jxrhp8z6EEiefh) | [شيلة طرب حماسية](https://open.spotify.com/album/4fxLhDr7vudKUMgMsjUmDk) | 4:01 | 2021-04-08 | 2022-04-25 |
 | [صاملً مافيه حيله](https://open.spotify.com/track/1VD19t068aAYBDx3jAVeh0) | [محمد ال نجم المري](https://open.spotify.com/artist/2TkDT3pmW3dv7avlGjAAuy) | [مرحبا بك ياهلا](https://open.spotify.com/album/29azwTntzqRx0fBxu1pqKt) | 4:27 | 2022-07-31 | 2022-08-11 |

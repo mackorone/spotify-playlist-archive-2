@@ -1,13 +1,33 @@
 {
   "description": "Trending songs from Tollywood! \nCover: The Paradise",
-  "num_followers": 587835,
+  "num_followers": 588622,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALpn2GOb5NN+JzYtG2MQ0LdYX97T",
+  "snapshot_id": "AAAAAORLm8L37lz68qNQFrtSPWtIxzXO",
   "tracks": [
+    {
+      "added_at": "2026-04-28 13:16:45",
+      "album": {
+        "name": "Love Insurance Kompany (Telugu) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/1amMxIOiRmuujw24rXrCq0"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Sri Sai Kiran",
+          "url": "https://open.spotify.com/artist/5qGB4a7ofOTfizCOQX5U5b"
+        }
+      ],
+      "duration_ms": 235102,
+      "name": "Dheema",
+      "url": "https://open.spotify.com/track/2zQREkxHQql1oW7NvMCaZk"
+    },
     {
       "added_at": "2026-02-25 10:32:25",
       "album": {
@@ -35,6 +55,30 @@
       "duration_ms": 286917,
       "name": "Aaya Sher (From \"The Paradise\") (Telugu)",
       "url": "https://open.spotify.com/track/4kV0ugCwyF7OAb3huIdThG"
+    },
+    {
+      "added_at": "2026-04-28 13:16:45",
+      "album": {
+        "name": "Rara Dheevara (From \"Swayambhu\")",
+        "url": "https://open.spotify.com/album/4dh21VndXD7cqk0hVY7WEf"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 227332,
+      "name": "Rara Dheevara (From \"Swayambhu\")",
+      "url": "https://open.spotify.com/track/5O6YxRH7EMpyXvpeMwVwPh"
     },
     {
       "added_at": "2025-08-05 05:27:55",
@@ -127,6 +171,30 @@
       "duration_ms": 266760,
       "name": "Idhedho Bagundhe",
       "url": "https://open.spotify.com/track/7eTIs4iPvHTaf5KHXw4SOv"
+    },
+    {
+      "added_at": "2026-04-28 13:16:45",
+      "album": {
+        "name": "Yetta Yetta (From \"Lenin\")",
+        "url": "https://open.spotify.com/album/3j9dRlUxSullTEIPx4vtSw"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Sri Krishna",
+          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
+        },
+        {
+          "name": "Bhaskarabhatla",
+          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
+        }
+      ],
+      "duration_ms": 203138,
+      "name": "Yetta Yetta (From \"Lenin\")",
+      "url": "https://open.spotify.com/track/31b5VAlGdyvuKbqrvAEwXs"
     },
     {
       "added_at": "2026-03-23 09:56:42",
@@ -225,6 +293,50 @@
       "url": "https://open.spotify.com/track/2Zu9jBaVw9WsjCfQszpeh7"
     },
     {
+      "added_at": "2026-04-28 13:16:45",
+      "album": {
+        "name": "Kamsahamnida (From \"Korean Kanakaraju\")",
+        "url": "https://open.spotify.com/album/0dPSyFZAgD9WtDVIHujBc5"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "duration_ms": 193269,
+      "name": "Kamsahamnida (From \"Korean Kanakaraju\")",
+      "url": "https://open.spotify.com/track/2VxTKPJ2yyK1u1YzvxQkS9"
+    },
+    {
+      "added_at": "2026-04-28 13:16:45",
+      "album": {
+        "name": "Rajubhai",
+        "url": "https://open.spotify.com/album/4XVi4JV2Ylbyk4nkCZ8BQc"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Harris Raghavendra",
+          "url": "https://open.spotify.com/artist/6idXEVWzD0fDOLDse4OKmZ"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Evare Nuvvu",
+      "url": "https://open.spotify.com/track/1QEfLSWJEhcLtSIHVYeWLt"
+    },
+    {
       "added_at": "2026-02-16 13:08:30",
       "album": {
         "name": "Ishq",
@@ -311,30 +423,6 @@
       "duration_ms": 232666,
       "name": "Koyila",
       "url": "https://open.spotify.com/track/7qi2RGLDPwx2aXfknysYLw"
-    },
-    {
-      "added_at": "2026-03-05 09:28:47",
-      "album": {
-        "name": "Dhruva",
-        "url": "https://open.spotify.com/album/62PdjrKXa5qgUsKPXuaP2Q"
-      },
-      "artists": [
-        {
-          "name": "Hiphop Tamizha",
-          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
-        },
-        {
-          "name": "Padmalatha",
-          "url": "https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk"
-        },
-        {
-          "name": "Vishnupriya Ravi",
-          "url": "https://open.spotify.com/artist/0znqmX3tzZ55FFTmlffAlv"
-        }
-      ],
-      "duration_ms": 193179,
-      "name": "Pareshanura",
-      "url": "https://open.spotify.com/track/7e12zIsEJu1gqebs2HEFvL"
     },
     {
       "added_at": "2026-02-16 13:08:30",
@@ -451,34 +539,6 @@
       "duration_ms": 315493,
       "name": "Inka Edho",
       "url": "https://open.spotify.com/track/0WM0NpFIZg6JhgneUyU5tl"
-    },
-    {
-      "added_at": "2026-04-06 11:03:28",
-      "album": {
-        "name": "Race Gurram",
-        "url": "https://open.spotify.com/album/2iatIf3DsNyjb5FgNNzGSD"
-      },
-      "artists": [
-        {
-          "name": "Siddharth Mahadevan",
-          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
-        },
-        {
-          "name": "Rabbit Mac",
-          "url": "https://open.spotify.com/artist/6XswDHNrF5xRBwCs0eNVC7"
-        },
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Varikuppala Yadagiri",
-          "url": "https://open.spotify.com/artist/3cycJl75lhSFTnSYNaMbqN"
-        }
-      ],
-      "duration_ms": 265283,
-      "name": "Sweety",
-      "url": "https://open.spotify.com/track/6BpxNBiP443NaB9ui6zyQf"
     },
     {
       "added_at": "2026-04-09 09:26:01",
@@ -769,34 +829,6 @@
       "url": "https://open.spotify.com/track/61fXT6uwJ2THPkbmxa65OI"
     },
     {
-      "added_at": "2025-05-09 09:56:17",
-      "album": {
-        "name": "Prema Velluva (From \"Hit - 3\") (Telugu)",
-        "url": "https://open.spotify.com/album/16RtrmpjjZwfRBdSlAebTG"
-      },
-      "artists": [
-        {
-          "name": "Mickey J. Meyer",
-          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Nutana Mohan",
-          "url": "https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H"
-        },
-        {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Prema Velluva (From \"Hit - 3\") (Telugu)",
-      "url": "https://open.spotify.com/track/0iLgVMCi8KCTF9e6QbKvSl"
-    },
-    {
       "added_at": "2025-08-04 05:46:30",
       "album": {
         "name": "Firestorm (From \"They Call Him OG\")",
@@ -895,50 +927,6 @@
       "duration_ms": 78597,
       "name": "Dacoit Kannepettaro Mix (From \"Dacoit\")",
       "url": "https://open.spotify.com/track/3AaowXAOVVhw5o5sXSZUHg"
-    },
-    {
-      "added_at": "2025-08-22 07:23:49",
-      "album": {
-        "name": "Mallika Gandha (From \"Telusu Kada\")",
-        "url": "https://open.spotify.com/album/6Gm0qQ2kYWsGfaaYaV69hP"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
-        }
-      ],
-      "duration_ms": 261133,
-      "name": "Mallika Gandha (From \"Telusu Kada\")",
-      "url": "https://open.spotify.com/track/1xiqTTENpd5SVPhWe4Mha0"
-    },
-    {
-      "added_at": "2026-03-26 09:49:13",
-      "album": {
-        "name": "Sancharame (From \"EPIC - First Semester\")",
-        "url": "https://open.spotify.com/album/4Mi4d6kEBHDETuZ1DMUODE"
-      },
-      "artists": [
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        },
-        {
-          "name": "Gorati Venkanna",
-          "url": "https://open.spotify.com/artist/44kFHSzysWdNgR3KwXE226"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Sancharame (From \"EPIC - First Semester\")",
-      "url": "https://open.spotify.com/track/4Vb7NZ0NGXQpDDHxQ3AMBv"
     },
     {
       "added_at": "2026-04-06 11:03:28",

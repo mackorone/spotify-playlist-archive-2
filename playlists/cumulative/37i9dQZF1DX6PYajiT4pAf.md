@@ -4,7 +4,7 @@
 
 > Quevedo, Rauw Alejandro, KAROL G, Melendi, Guitarricadelafuente, Gara Durán con Natalia Lacunza y el resto de novedades de la semana.
 
-5,305 songs - 11 day 7 hr 56 min
+5,306 songs - 11 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1328,6 +1328,7 @@
 | [DONDE VAYAS](https://open.spotify.com/track/3qH6PNivEcx5o7PrQPwto2) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g) | [DONDE VAYAS](https://open.spotify.com/album/2WVziEMG6WQZR9Ga8Vn5qf) | 2:23 | 2025-05-01 | 2025-05-09 |
 | [DONT TALK TO ME](https://open.spotify.com/track/2dkJPbAWJRRWBEnNyR0uKC) | [WEST DUBAI](https://open.spotify.com/artist/0ThxHJx0ElqLD8h2Compyq), [SKICHI](https://open.spotify.com/artist/2M8f9O42ST7uUKON6q0FUY) | [DONT TALK TO ME](https://open.spotify.com/album/7GcKIMHw8r84e7K2O8J79G) | 1:36 | 2026-03-26 | 2026-04-03 |
 | [Don’t Click Play](https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 2:28 | 2025-08-21 | 2025-08-29 |
+| [Doors](https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:51 | 2026-04-28 |  |
 | [DOPAMINA](https://open.spotify.com/track/3rkD6XlOQJczI2pC5ySEnP) | [Atyat](https://open.spotify.com/artist/233BqqYpP8h5wKpYR8t2Ct) | [DOPAMINA](https://open.spotify.com/album/6folzYrIJTAmZKPXoJznBu) | 2:57 | 2025-12-18 | 2026-01-02 |
 | [dopamina](https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [DINASTÍA](https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a) | 3:05 | 2026-01-01 | 2026-01-15 |
 | [Dopamina](https://open.spotify.com/track/3sZaV88xmZahYJbDQrBLC5) | [Raule](https://open.spotify.com/artist/73wnjjUNhCetX7NE4FvxjL) | [Dopamina](https://open.spotify.com/album/6ofSYWdTfYq0ywW3pJCRnR) | 3:11 | 2025-03-20 | 2025-03-28 |
@@ -4630,7 +4631,7 @@
 | [The Girl in the Bubble](https://open.spotify.com/track/6Wxn79EwKPQvYerlctheGx) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: For Good – The Soundtrack](https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk) | 3:40 | 2025-11-20 | 2025-11-28 |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-13 | 2025-03-21 |
 | [The God of Lying \(feat\. IDLES\)](https://open.spotify.com/track/0eUO2hEBOyZXDgqKSpXd98) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [The God Of Lying \(feat\. IDLES\)](https://open.spotify.com/album/7LZaMXfUwm5ECr6MUyd5ho) | 3:09 | 2025-11-06 | 2025-11-14 |
-| [The Great Divide](https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N) | 5:17 | 2026-01-29 |  |
+| [The Great Divide](https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N) | 5:17 | 2026-01-29 | 2026-04-29 |
 | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF) | 4:44 | 2025-09-11 | 2025-09-19 |
 | [The Karate Kid](https://open.spotify.com/track/0cZEkGxb0V9MbpzHzpKp9F) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music \(Full Moon Edition\)](https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI) | 2:55 | 2024-10-11 | 2024-10-18 |
 | [The Manifesto \(feat\. Trueno and Proof\)](https://open.spotify.com/track/1pgl5ntthebzHaqJVI1n6B) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Proof](https://open.spotify.com/artist/1W7G3vXPeISR3Oi9ggVfyE) | [The Manifesto \(feat\. Trueno and Proof\)](https://open.spotify.com/album/5XT5XzzSOys3UnnQ4jBNwo) | 7:19 | 2025-10-09 | 2025-10-17 |

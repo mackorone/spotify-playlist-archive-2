@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Kehlani, Noah Kahan, Ella Langley, Metric, Meghan Trainor and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,881 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,886 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 68 | [BACK IN MY ARMS](https://open.spotify.com/track/7wRTxFb9tIWH9SCyrEQdZI) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [BACK IN MY ARMS](https://open.spotify.com/album/7aeSVs5NhejLtWfuLgZkJd) | 3:43 |
 | 69 | [i heard it in a dream](https://open.spotify.com/track/68i9bTnHq29lY7KpRcfhoo) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [i heard it in a dream](https://open.spotify.com/album/0LLmt3v2ESSZqzza9gEEB3) | 3:41 |
 | 70 | [Xanadu](https://open.spotify.com/track/0ZitMEQNQt770vVMzlsNSz) | [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [Xanadu](https://open.spotify.com/album/6oTDseQRNwVzdjg1l3RyC0) | 2:47 |
-| 71 | [On est toute pareils \(feat\. King Melrose, Marc Dupré\)](https://open.spotify.com/track/7nR7C9APStACbghBNx6ITX) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx), [King Melrose](https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91) | [On est toute pareils](https://open.spotify.com/album/0PXh4i9KEnomQ5IV1QJ7Vp) | 2:48 |
+| 71 | [On est toute pareils \(feat\. King Melrose, Marc Dupré\)](https://open.spotify.com/track/7nR7C9APStACbghBNx6ITX) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx), [King Melrose](https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91) | [On est toute pareils](https://open.spotify.com/album/0PXh4i9KEnomQ5IV1QJ7Vp) | 2:48 |
 | 72 | [Blackstar](https://open.spotify.com/track/4g9Qnsq4aApSqktyvoLMoA) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Blackstar](https://open.spotify.com/album/0fQBHW4NVklQIAfUEDzSLm) | 4:01 |
 | 73 | [boy that's loving you](https://open.spotify.com/track/3zuhn8OqdMQFjrQdlZJ5Hw) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [boy that's loving you](https://open.spotify.com/album/1wjkQnmMpbXyNkMJjmmLgW) | 3:04 |
 | 74 | [where's your girlfriend](https://open.spotify.com/track/3a660Cnhydjs5O5g0yQ1ME) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [where's your girlfriend](https://open.spotify.com/album/4allJNrFZH7Ob9jO98TofS) | 3:33 |

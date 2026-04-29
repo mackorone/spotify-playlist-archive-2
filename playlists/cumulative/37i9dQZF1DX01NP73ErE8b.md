@@ -4,7 +4,7 @@
 
 > I brani italiani di cui siamo ossessionati 🎧 Frah Quintale in cover
 
-588 songs - 1 day 6 hr 23 min
+589 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [Quelli come me](https://open.spotify.com/track/0rpUylGGF9tPRgilGzvgSK) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Quelli come me](https://open.spotify.com/album/6Stq5rzanrAivV37ueldaS) | 3:20 | 2026-03-19 | 2026-04-24 |
 | [Quello che deve essere sarà](https://open.spotify.com/track/44DeJ53Lv0420Up1u96Jpt) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Quello che deve essere sarà](https://open.spotify.com/album/1euAp2jMAv333KhYkw5X2A) | 3:40 | 2025-11-20 |  |
 | [Questa domenica](https://open.spotify.com/track/1OzmC9yrffo4samDgOzg27) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Questa domenica](https://open.spotify.com/album/2MAslE3CpEJAIvLG8EW1Gh) | 3:36 | 2025-08-28 |  |
+| [QUESTA INSENSATA VOGLIA DI TE](https://open.spotify.com/track/3M5e1yWYMKQPE0IUePwdBt) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [QUESTA INSENSATA VOGLIA DI TE](https://open.spotify.com/album/6v8Dh5jr3ykfLoBPvZKrmj) | 3:28 | 2026-04-28 |  |
 | [QUI CON ME](https://open.spotify.com/track/6zngwmDraHGVczoCzj7rHb) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [QUI CON ME](https://open.spotify.com/album/4Uj5BnPpLHuF7VOaN71fr5) | 3:16 | 2026-02-25 | 2026-03-27 |
 | [RA TA TA](https://open.spotify.com/track/4EGLoafrxloaEWTscMYARN) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [RA TA TA](https://open.spotify.com/album/2ECNBxFFxeMlOC3obWaoNw) | 2:32 | 2024-07-01 | 2024-12-06 |
 | [Radio Erotika](https://open.spotify.com/track/59IeMCaIqZczzhLEKzijWU) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [Radio Erotika](https://open.spotify.com/album/2neQ86CxCxsq2JbfJrV4Wv) | 2:35 | 2025-11-11 | 2025-12-12 |

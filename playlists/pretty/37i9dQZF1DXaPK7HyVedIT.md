@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: KVSH
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,193,982 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,193,831 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 17 | [Keeper](https://open.spotify.com/track/5FXXTHsic6gGowjoF4orSR) | [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ) | [Keeper](https://open.spotify.com/album/0xnYaryHsLs1q6BLjVN6ET) | 4:29 |
 | 18 | [Astralis](https://open.spotify.com/track/1jaA1jV5jzNnmhxqmo2VrO) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Astralis](https://open.spotify.com/album/22EWXSvxyPvbGHqh7Qfi93) | 3:42 |
 | 19 | [Firme Forte e Fiel](https://open.spotify.com/track/7gjdw7zbEnF9gdlpl1IKxO) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [RUBY](https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1) | [Firme Forte e Fiel](https://open.spotify.com/album/0fYFC3erF1QvqIRtFz1zgu) | 3:46 |
-| 20 | [Discoteca](https://open.spotify.com/track/5WKcAFV79qEy6X0nO5LR0c) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [DEPARTAMENTO](https://open.spotify.com/artist/3Cu5XeR4o1V8atLssDZUl1) | [Discoteca](https://open.spotify.com/album/7tIAvslj952cLo668DGrW0) | 3:16 |
+| 20 | [Discoteca](https://open.spotify.com/track/5WKcAFV79qEy6X0nO5LR0c) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [DEPARTAMENTO](https://open.spotify.com/artist/3Cu5XeR4o1V8atLssDZUl1), [Exchpoptrue](https://open.spotify.com/artist/5iXQbGQTOGZZVpi1Uos32S) | [Discoteca](https://open.spotify.com/album/7tIAvslj952cLo668DGrW0) | 3:16 |
 | 21 | [Trajadão](https://open.spotify.com/track/3DNROV85RpzdQP7E1Erpa0) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Trajadão / Everybody](https://open.spotify.com/album/5vXC2kXKghDQeXT33Sv3Au) | 3:08 |
 | 22 | [Euro Trash Girl](https://open.spotify.com/track/43ZAGtIx5RA54MMJ3mQ1B9) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Euro Trash Girl](https://open.spotify.com/album/6SbRp1bzplKnL9jaXfi83O) | 4:13 |
 | 23 | [Time \(Party Alarm\)](https://open.spotify.com/track/48tNZZ9KN2VCW3kW7ncsRD) | [Juicce](https://open.spotify.com/artist/63arbh8ZF2mvGFINe50Byi) | [Time \(Party Alarm\)](https://open.spotify.com/album/4ITRu0RQy4jy0BZ3boPguU) | 2:27 |

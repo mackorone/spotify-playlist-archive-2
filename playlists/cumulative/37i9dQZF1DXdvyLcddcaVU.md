@@ -4,7 +4,7 @@
 
 > \#fyp
 
-1,082 songs - 2 day 7 hr 59 min
+1,083 songs - 2 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-30 | 2024-11-28 |
 | [Big Guy \- from "The SpongeBob Movie: Search for SquarePants”](https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Big Guy \(from "The SpongeBob Movie: Search for SquarePants”\)](https://open.spotify.com/album/7aQIxnvryoIKLMZ8wsydpz) | 2:30 | 2026-01-16 | 2026-03-28 |
 | [Big mama](https://open.spotify.com/track/1TXuor1bUOZQnWrksFoccd) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Jeunesse Dorée](https://open.spotify.com/album/2W8FV0Qcb6DsyZWFWPVTD3) | 2:24 | 2025-10-13 | 2026-01-15 |
+| [Billie Jean](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:53 | 2026-04-28 |  |
 | [Bisous Mwa](https://open.spotify.com/track/4vcZL3UwIGaycYYGWkRgAH) | [Misu Na Misu](https://open.spotify.com/artist/5ZB7FUPkLGJMGqtltU3DjA), [Yaskaa D Yaskii](https://open.spotify.com/artist/1YQAmcZH6kZBaMb7IySYTD), [Djemso](https://open.spotify.com/artist/6Q2cBl4ImaizPVB4qRWbRX) | [Bisous Mwa](https://open.spotify.com/album/2xvTPloz0AfVqfNT1IzHaX) | 2:47 | 2025-02-21 | 2025-05-03 |
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-26 | 2024-02-17 |
 | [BLOQUÉ](https://open.spotify.com/track/4eGoCBOGEAQty5nfWRC0VD) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [BLOQUÉ](https://open.spotify.com/album/5HZSEWInouI6tWp1C3ousL) | 3:21 | 2025-12-12 | 2026-03-28 |
@@ -943,7 +944,7 @@
 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-01-30 | 2026-02-14 |
 | [Stay](https://open.spotify.com/track/1nZmAL8g00JnkTyKDkdwSy) | [Misdemeanor](https://open.spotify.com/artist/6ohc4257tcIwK3UDZEQZeu) | [Stay](https://open.spotify.com/album/7BZkRaAID4BE5UYine6H5W) | 3:14 | 2025-07-11 | 2025-08-24 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-08 | 2023-12-31 |
-| [STREET PLANT](https://open.spotify.com/track/6kH5188yKMm8ymTG6zdwiq) | [Lagui](https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4) | [En attendant En Croix](https://open.spotify.com/album/5ydmahT8HXbCXBN20OtPOo) | 2:56 | 2026-03-27 |  |
+| [STREET PLANT](https://open.spotify.com/track/6kH5188yKMm8ymTG6zdwiq) | [Lagui](https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4) | [En attendant En Croix](https://open.spotify.com/album/5ydmahT8HXbCXBN20OtPOo) | 2:56 | 2026-03-27 | 2026-04-29 |
 | [Sucré Salé](https://open.spotify.com/track/7Ms9RTHY835cvJUgS0uqMp) | [Logobi GT](https://open.spotify.com/artist/5biR6qJnO0BP9sfwqZWfCP) | [Sucré Salé \- Single](https://open.spotify.com/album/5Ywx5loWggddircEjOM8SP) | 4:05 | 2025-09-19 | 2026-01-31 |
 | [Sugar Baklava](https://open.spotify.com/track/6CWDiUqCVoqJSvPXAsAr7z) | [Bolswan](https://open.spotify.com/artist/5GZjmoKusiiMLL5WvAN9NV) | [Sugar Baklava](https://open.spotify.com/album/2VM6hff4fCuFnMsxfaifPi) | 2:09 | 2026-03-27 |  |
 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 | 2025-09-26 | 2025-12-24 |

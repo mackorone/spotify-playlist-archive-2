@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/2b5YPqWMEx2WyASIUvVn9R?si=M\-vOQldiS7Sbx2XrndnW\-g">Vyroota</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH?si=8Tf9hIrBSW\-FrG6f9oxfYA">Hoodboyz</a>\. Artwork: Isu Kim.
 
-1,460 songs - 3 day 0 hr 55 min
+1,461 songs - 3 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -612,6 +612,7 @@
 | [Infinity](https://open.spotify.com/track/1Ss0B3AuWkqqpdz8bLU9mn) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Infinity](https://open.spotify.com/album/2ho4rd64wGodDKv3nKojlU) | 2:39 | 2023-10-25 | 2023-11-30 |
 | [Influencers](https://open.spotify.com/track/24CzwpqRbv6BOFDsyVd020) | [Sgi\_Magalela](https://open.spotify.com/artist/4SEe2uJQ5IIJvpyTbtIfAE) | [Influencers](https://open.spotify.com/album/7v70ggyLGpt9PGWRyYFGY8) | 2:43 | 2023-06-27 | 2024-02-07 |
 | [Infrared](https://open.spotify.com/track/3xxi5TsXAXbUolqCVzJZnz) | [VtheVowel](https://open.spotify.com/artist/1Bas48Gj8Q0nKgrx4Dm25X), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu) | [Infrared](https://open.spotify.com/album/0ZyahY5BHdxVILmfEULG9O) | 3:35 | 2024-05-01 | 2024-06-05 |
+| [Ingine Ama](https://open.spotify.com/track/0cWC0krHwSeX53BNGF4vt1) | [HOOD BOYZ](https://open.spotify.com/artist/1yONcOLoE5kSfTqTHmqrdR) | [Ingine Ama](https://open.spotify.com/album/1BryXhNuC0abK1AMltFLYs) | 2:30 | 2026-04-28 |  |
 | [INNER FIRE](https://open.spotify.com/track/0yPWb3iVQ5Pq0O4RX5wsas) | [Phoebe Thestor](https://open.spotify.com/artist/14Pns33TGKYoRZlxi2sN1I) | [INNER FIRE](https://open.spotify.com/album/56oPHNOMl71nppEXrXQLZA) | 3:24 | 2024-02-06 | 2024-03-06 |
 | [INSIDE YOUR HEAD](https://open.spotify.com/track/3D9MGLPOC3PnfoXBM5OLrQ) | [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq) | [WAVES: Vol\. 1](https://open.spotify.com/album/408oJGEwEhyIXOInWdRTcn) | 3:45 | 2024-11-06 | 2024-12-05 |
 | [Instagram](https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Instagram](https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S) | 2:20 | 2024-12-04 | 2025-01-24 |
@@ -1238,7 +1239,7 @@
 | [Stick With You \(feat\. Nana Atta & Rhea Blek\)](https://open.spotify.com/track/2U3qc1MebhRjkXu2mmaAFF) | [Jazzy June](https://open.spotify.com/artist/0gqConrlPUKRpk6C6BuTtI), [TeabagCC](https://open.spotify.com/artist/6sW4QFrM1ffIRAQRHC4wZy), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq), [Rhea Blek](https://open.spotify.com/artist/58yGlR6nBYMqbJUypZD5E4) | [Starting V](https://open.spotify.com/album/6mrRJOqPqptakFX2UOICAs) | 3:15 | 2025-04-10 | 2025-11-06 |
 | [Still Cry](https://open.spotify.com/track/2JHgKuL2bP45CNahKcgeHM) | [Nanseera](https://open.spotify.com/artist/5KEsDti0HVhEbRBPP7qZR0) | [Still Cry](https://open.spotify.com/album/3SYHEQwOLLRL07yv5JqaaF) | 3:27 | 2025-05-27 | 2025-07-03 |
 | [Still Here](https://open.spotify.com/track/4ZMfMBVgAVORPp8kGm45tQ) | [The SandBox Ug](https://open.spotify.com/artist/5xPuytk2jpNmbWUL63FOj0), [Annie Joy.](https://open.spotify.com/artist/7eMxLWtNN3xyHzaBNs2fqD) | [Still Here](https://open.spotify.com/album/2oqMs5q5a8xH8E0A7N8UPP) | 3:29 | 2024-07-03 | 2024-08-08 |
-| [Still I Shine](https://open.spotify.com/track/5q4fvEhTbYw4a2lolAD3Hm) | [Amara](https://open.spotify.com/artist/7KQyGCLgWoO7IDu4I8Votk) | [Still I Shine](https://open.spotify.com/album/3UoMhwvsM0iN095JOdKLhM) | 1:29 | 2026-01-14 |  |
+| [Still I Shine](https://open.spotify.com/track/5q4fvEhTbYw4a2lolAD3Hm) | [Amara](https://open.spotify.com/artist/7KQyGCLgWoO7IDu4I8Votk) | [Still I Shine](https://open.spotify.com/album/3UoMhwvsM0iN095JOdKLhM) | 1:29 | 2026-01-14 | 2026-04-29 |
 | [Story](https://open.spotify.com/track/1mEWlhbBMmWRpSLd1tIWpy) | [Network](https://open.spotify.com/artist/6ne1yu1GhSotnJdnKLaNGL) | [Story](https://open.spotify.com/album/1WmACwN6aaeKajORrFKKYC) | 3:43 | 2022-09-30 | 2022-10-29 |
 | [Stressed](https://open.spotify.com/track/06Cs78QmpxMgqaogs4S5p4) | [Deesick](https://open.spotify.com/artist/1dSyrzQvTnasROaRGXGGJ1), [ATS](https://open.spotify.com/artist/6Xd34tsiEiQ9Zn5JiDaFmk) | [Sickness SZN, Vol\. 3](https://open.spotify.com/album/78tDr0Ufx5ndSs6QEdWhqD) | 1:20 | 2022-09-02 | 2022-10-01 |
 | [stubborn](https://open.spotify.com/track/2rTMWzycOUHyAVfZkh3Okk) | [Jemapelle James](https://open.spotify.com/artist/3j7tJ1MrdVZR6gLm0Xg0Zj) | [Stubborn](https://open.spotify.com/album/7t00kEQzFRXDx2KXF6IuQj) | 2:44 | 2024-06-04 | 2024-07-03 |

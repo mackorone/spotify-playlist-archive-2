@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Tuğba Yurt x İkilem ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,879 likes - 148 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,862 likes - 148 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

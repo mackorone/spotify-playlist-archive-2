@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,576 likes - 580 songs - 1 day 16 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,908 likes - 580 songs - 1 day 16 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -462,8 +462,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 452 | [I Could Be Good for You](https://open.spotify.com/track/10sLmZoJbXFdR0nwczkHfM) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Soul Dancing \(Expanded Edition\)](https://open.spotify.com/album/2Z1SUk5Jo7clpF4ZWqlGmc) | 4:25 |
 | 453 | [I Want Some Of That](https://open.spotify.com/track/66gBh757nMrkE6olNFRNR7) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Key To My Soul](https://open.spotify.com/album/375Syme7dvdaRZsqauSEbd) | 3:50 |
 | 454 | [In a Heart Beat](https://open.spotify.com/track/1RA4Mt2feSah7BiLWprjRp) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Time Takes Time](https://open.spotify.com/album/3MoLlCEQ0QmJZQ6KQ9y9iY) | 4:30 |
-| 455 | [There You'll Be \- From "Pearl Harbour"](https://open.spotify.com/track/6JZWBa78AxXXv2gEAQWUby) | [Soundtrack Orchestra](https://open.spotify.com/artist/59fmHoaOxOnODm09irzD8H) | [Film Oscar, Vol\. 1](https://open.spotify.com/album/3jqXgMaFw1ROLDJepvcEUQ) | 4:00 |
-| 456 | [You're the Story of My Life](https://open.spotify.com/track/5srPNy3C5r0mW13xt26msH) | [Desmond Child](https://open.spotify.com/artist/7KgW65389e5w4xWzaVOuCg) | [Discipline](https://open.spotify.com/album/7hYpyujW1Wj6KaVDwBZZK2) | 4:58 |
+| 455 | [You're the Story of My Life](https://open.spotify.com/track/5srPNy3C5r0mW13xt26msH) | [Desmond Child](https://open.spotify.com/artist/7KgW65389e5w4xWzaVOuCg) | [Discipline](https://open.spotify.com/album/7hYpyujW1Wj6KaVDwBZZK2) | 4:58 |
+| 456 | [There You'll Be \- From "Pearl Harbour"](https://open.spotify.com/track/6JZWBa78AxXXv2gEAQWUby) | [Soundtrack Orchestra](https://open.spotify.com/artist/59fmHoaOxOnODm09irzD8H) | [Film Oscar, Vol\. 1](https://open.spotify.com/album/3jqXgMaFw1ROLDJepvcEUQ) | 4:00 |
 | 457 | [Pray For The Love](https://open.spotify.com/track/1N9hQc4dOwszaH1fX49Ckx) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK), [Matt Dunkley](https://open.spotify.com/artist/44glcpJysgIbUkrbHy152q), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Amore Musica](https://open.spotify.com/album/6EVHFDafgJHsXAKJMxYn6K) | 4:54 |
 | 458 | [Riivinrautahumppa](https://open.spotify.com/track/47scnIyEs3O95JVO8cLmlV) | [Eläkeläiset](https://open.spotify.com/artist/3HKoyHD86fikvLBdecyl5j) | [Humpan kuninkaan hovissa](https://open.spotify.com/album/7gz76r9FtfbPseiuLbXRGA) | 2:06 |
 | 459 | [Much Too Much](https://open.spotify.com/track/4LCX83dSdKakjhmCgko1l1) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Friends Can Be Lovers](https://open.spotify.com/album/6kgvNUbpx187PBV8fuWpog) | 4:30 |
@@ -589,4 +589,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 579 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 580 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcQAngAAAADLkRkF5f97JKAUHnlEMjw4`
+Snapshot ID: `AcQGZgAAAABLAaRJ1GcX8WElMeflmwe8`

@@ -1,12 +1,12 @@
 {
   "description": "This is Alaina Castillo. The essential tracks, all in one playlist.",
-  "num_followers": 4761,
+  "num_followers": 4762,
   "original_name": "This Is Alaina Castillo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae1VgAAAAABE9+AiKD/kHBMa+PftJsUa",
+  "snapshot_id": "ae6nAAAAAAC2g+WyxMSwjLjmW7gAK7LE",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "used to",
-        "url": "https://open.spotify.com/album/0BA0bcHBG0vW0KxunR9Wv8"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "used to",
-      "url": "https://open.spotify.com/track/3efgVA2yxnPiMqfT3y04Rd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "no vuelvas a mirar atr\u00e1s",
         "url": "https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 245945,
       "name": "pass you by",
       "url": "https://open.spotify.com/track/6idG4unPt6ROA9BSusQ9Me"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "used to",
+        "url": "https://open.spotify.com/album/0BA0bcHBG0vW0KxunR9Wv8"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "used to",
+      "url": "https://open.spotify.com/track/3efgVA2yxnPiMqfT3y04Rd"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ocean waves",
-        "url": "https://open.spotify.com/album/5LoZ3scFKYTRKeMB4gOBTT"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 220235,
-      "name": "ocean waves",
-      "url": "https://open.spotify.com/track/46IbTqaHrikVVcvgUBbLyJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "call me when ur lonely",
         "url": "https://open.spotify.com/album/3rpFlyhQrnZ55pJnsG1ICK"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 159906,
       "name": "call me when ur lonely",
       "url": "https://open.spotify.com/track/5J9KqprFnG4M82Nx8fmScr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ocean waves",
+        "url": "https://open.spotify.com/album/5LoZ3scFKYTRKeMB4gOBTT"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 220235,
+      "name": "ocean waves",
+      "url": "https://open.spotify.com/track/46IbTqaHrikVVcvgUBbLyJ"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "antisocial butterfly",
-        "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
+        "name": "starz",
+        "url": "https://open.spotify.com/album/07z1Ps5aZnKj0uBVD5uRKf"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 152851,
-      "name": "no importa",
-      "url": "https://open.spotify.com/track/3HxPAaHSRhO87TxolC3LfO"
+      "duration_ms": 209800,
+      "name": "starz",
+      "url": "https://open.spotify.com/track/1cE3qIWMrHbHlpDyfRrOGY"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "starz",
-        "url": "https://open.spotify.com/album/07z1Ps5aZnKj0uBVD5uRKf"
+        "name": "antisocial butterfly",
+        "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 209800,
-      "name": "starz",
-      "url": "https://open.spotify.com/track/1cE3qIWMrHbHlpDyfRrOGY"
+      "duration_ms": 152851,
+      "name": "no importa",
+      "url": "https://open.spotify.com/track/3HxPAaHSRhO87TxolC3LfO"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "mensajes de voz",
-        "url": "https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 185681,
-      "name": "un ni\u00f1o",
-      "url": "https://open.spotify.com/track/7KvT052XdKMsVvHfqeYqP9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "wish you were here",
         "url": "https://open.spotify.com/album/4HLnnflwmy0nklqam1JvxJ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 202706,
       "name": "wish you were here",
       "url": "https://open.spotify.com/track/6KtJt7GzE8W5V29xgVGC0K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "mensajes de voz",
+        "url": "https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 185681,
+      "name": "un ni\u00f1o",
+      "url": "https://open.spotify.com/track/7KvT052XdKMsVvHfqeYqP9"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "luna de miel",
-        "url": "https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 155017,
-      "name": "luna de miel",
-      "url": "https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "lips (Original Music from The L Word: Generation Q)",
         "url": "https://open.spotify.com/album/6inpQzVk0xceOKGckmQ0hx"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 235480,
       "name": "sad girl",
       "url": "https://open.spotify.com/track/7ib0T2MIS6ewqgoCbKs93q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "luna de miel",
+        "url": "https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 155017,
+      "name": "luna de miel",
+      "url": "https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr"
     },
     {
       "added_at": null,

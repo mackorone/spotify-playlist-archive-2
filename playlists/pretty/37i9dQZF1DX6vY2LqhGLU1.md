@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,905 likes - 150 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,900 likes - 150 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 | 121 | [Go Tell](https://open.spotify.com/track/4sDRKpcBYlquxgTmVXU0kd) | [Fresh Life Worship](https://open.spotify.com/artist/3lspjc5pri1bNeok8vsG5E), [Solo Ray](https://open.spotify.com/artist/1pbOEtWFBO3bPTxUmDgBCd) | [Go Tell](https://open.spotify.com/album/6p21VNODi0gRsTKw6kE8YL) | 2:30 |
 | 122 | [O Holy Night](https://open.spotify.com/track/2TmHy0zXCglnqZiTNpmsQk) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [Christmas Music](https://open.spotify.com/album/1bBfEbeWu4hYkm0WDHmoD0) | 5:43 |
 | 123 | [Prince of Peace](https://open.spotify.com/track/62XXY4qeQMOhpakL3dtM5s) | [Cross Point Music](https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P), [Abby Vaughn](https://open.spotify.com/artist/4km5sv7zwBA6fsuOnPsEJn) | [Advent: Here Now](https://open.spotify.com/album/6GC8erhaX8WtwXaROtsuan) | 4:19 |
-| 124 | [O Holy Night \- Live](https://open.spotify.com/track/0UrKPs28Pte1NZ4ZvcYXJA) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72), [Melinda Watts](https://open.spotify.com/artist/0GCLncgrzKk95NwdvHjxw7) | [A Weary World Rejoices](https://open.spotify.com/album/27a2ATZGDNSYlwO5CpAo5z) | 6:24 |
+| 124 | [O Holy Night \- Live](https://open.spotify.com/track/0UrKPs28Pte1NZ4ZvcYXJA) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72), [Melinda Watts](https://open.spotify.com/artist/5Mo0qcsIlDzmNli75afKB0) | [A Weary World Rejoices](https://open.spotify.com/album/27a2ATZGDNSYlwO5CpAo5z) | 6:24 |
 | 125 | [O Holy Night](https://open.spotify.com/track/0nkezeQsDA5Owpul6PxRSJ) | [Cimorelli](https://open.spotify.com/artist/4988ULVP4X7nco6pLh1PA2) | [O Holy Night](https://open.spotify.com/album/25qGXXBtKj4DeBFg0BUmz8) | 3:43 |
 | 126 | [Mary Was The First One To Carry The Gospel](https://open.spotify.com/track/3GdoDVNfc732wPoMQ3ovBx) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Mary Was The First One To Carry The Gospel](https://open.spotify.com/album/3OW9iY1xb1YZgAc98v0bZP) | 4:47 |
 | 127 | [O Come All Ye Faithful \- Live](https://open.spotify.com/track/08r6V6XZhUDOg4uiPXQHVL) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [John Marc Kohl](https://open.spotify.com/artist/1VB1PYfo6aOs53Vs65t4hA) | [O Come All Ye Faithful \(Live\)](https://open.spotify.com/album/4XIV8Lc2D3xKO8Vp3JB4i2) | 4:18 |

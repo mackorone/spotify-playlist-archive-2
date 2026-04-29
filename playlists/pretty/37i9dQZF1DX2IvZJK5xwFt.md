@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 ### [Just Rock!](https://open.spotify.com/playlist/37i9dQZF1DX2IvZJK5xwFt)
 
-> Only the best rock in the world\. Cover: Linkin Park
+> Only the best rock in the world\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,392 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,451 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 26 | [Burning Down The Curtains](https://open.spotify.com/track/0dvAk9oM4wIyEJjpre6mcQ) | [Those Without](https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy) | [Burning Down The Curtains](https://open.spotify.com/album/1hI3UL0YtFzMY4WCcRPCXf) | 2:42 |
 | 27 | [Dominate](https://open.spotify.com/track/5R0uszDwzrAEtxMgTwoIbt) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Dominate](https://open.spotify.com/album/17qRjBxoYcA3joNL4d6EzZ) | 3:14 |
 | 28 | [Outlaw](https://open.spotify.com/track/3y8Tr7Bv18p6cZlf1Ombpy) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Outlaw](https://open.spotify.com/album/01uAt6BlE8cXEIZcxVfd9O) | 3:35 |
-| 29 | [ENEMY](https://open.spotify.com/track/1VIcfFO1tnpfoSxaGaLzeW) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [ENEMY](https://open.spotify.com/album/74o5SNrc5oqx67sWhrBqt4) | 3:09 |
+| 29 | [ENEMY \(with blackbear\)](https://open.spotify.com/track/1VIcfFO1tnpfoSxaGaLzeW) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [ENEMY \(with blackbear\)](https://open.spotify.com/album/74o5SNrc5oqx67sWhrBqt4) | 3:09 |
 | 30 | [Already There](https://open.spotify.com/track/0cU0j0Qh3op4FxO7Ai310h) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Already There](https://open.spotify.com/album/7sM8cK4wMWZBvZaPPfNw1b) | 3:50 |
 | 31 | [Eat You Alive](https://open.spotify.com/track/6Ovon17zVIzfrM1yocYFCq) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Eat You Alive](https://open.spotify.com/album/4hRbLo7BrpBh462vErwNuk) | 3:07 |
 | 32 | [Staring at Empty Faces](https://open.spotify.com/track/1vHE9icL1v0hteKmCpDDfN) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Lost on You](https://open.spotify.com/album/7cK2pTXJcIC0j12IqTSip2) | 3:30 |

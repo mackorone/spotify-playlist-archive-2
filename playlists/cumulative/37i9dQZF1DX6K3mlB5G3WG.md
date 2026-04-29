@@ -4,7 +4,7 @@
 
 > Olivia Rodrigo in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-3,043 songs - 6 day 13 hr 13 min
+3,044 songs - 6 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2151,6 +2151,7 @@
 | [Questa domenica](https://open.spotify.com/track/1OzmC9yrffo4samDgOzg27) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Questa domenica](https://open.spotify.com/album/2MAslE3CpEJAIvLG8EW1Gh) | 3:36 | 2025-08-28 | 2025-09-26 |
 | [Questa Felicità](https://open.spotify.com/track/2F5vE2e3CjLpk0C7B9gdss) | [Nina Zilli](https://open.spotify.com/artist/5zRmtoBOCk7JaYHI78Y5b5) | [Questa Felicità](https://open.spotify.com/album/6IUeIUHAXzTIL5GXD2o6PX) | 2:42 | 2024-10-17 | 2024-11-15 |
 | [Questa fretta ci fotte](https://open.spotify.com/track/18iUlpqoCK0CTecz34vh2g) | [Amanda Roberts](https://open.spotify.com/artist/56kQLgmlLN7mPjKa4yQyJD) | [Questa fretta ci fotte](https://open.spotify.com/album/7IBjgClTNk8O89DCx9cpDj) | 2:44 | 2026-03-26 | 2026-04-24 |
+| [QUESTA INSENSATA VOGLIA DI TE](https://open.spotify.com/track/3M5e1yWYMKQPE0IUePwdBt) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [QUESTA INSENSATA VOGLIA DI TE](https://open.spotify.com/album/6v8Dh5jr3ykfLoBPvZKrmj) | 3:28 | 2026-04-28 |  |
 | [Questa vita](https://open.spotify.com/track/5N9xqmDryi4qcWMU8y698b) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Volevo essere un duro](https://open.spotify.com/album/4ezcDzdWP6orRlN3ft2eCs) | 2:52 | 2025-03-20 | 2025-04-11 |
 | [QUI CON ME](https://open.spotify.com/track/6zngwmDraHGVczoCzj7rHb) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [QUI CON ME](https://open.spotify.com/album/4Uj5BnPpLHuF7VOaN71fr5) | 3:16 | 2026-02-25 | 2026-03-20 |
 | [Qué Pasaría...](https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:11 | 2024-11-15 | 2024-12-13 |

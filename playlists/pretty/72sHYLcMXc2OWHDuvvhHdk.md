@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 567 likes - 2,549 songs - 6 day 4 hr 52 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 568 likes - 2,570 songs - 6 day 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2557,5 +2557,26 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2547 | [Takeoff](https://open.spotify.com/track/0rCFOJiWC4CtyllWN1FzTI) | [Deep Shoq](https://open.spotify.com/artist/7vdWVGhRjWiT8VHuS9D9a5) | [Libra](https://open.spotify.com/album/4vlThC8yGepna19qTYL9fK) | 3:29 |
 | 2548 | [There'll be a Sunrise](https://open.spotify.com/track/0uxCeYS2LVTzEInl1IhJ9I) | [Nathaniel Hayes](https://open.spotify.com/artist/1c8SsGyGAeOkEwJ3jn8z6L) | [There'll be a Sunrise](https://open.spotify.com/album/3JIjMJuYNZe4Ihkix1mRL4) | 2:06 |
 | 2549 | [Fireworks Fall](https://open.spotify.com/track/2LmF5dQhaxFNnTpnFOn8z2) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Fireworks Fall](https://open.spotify.com/album/1a2GSekjvduf484J6N71yx) | 3:31 |
+| 2550 | [Pan De Igualdad](https://open.spotify.com/track/6krj19wmxAsy4NFIQXWQp6) | [cantos católicos y litúrgicos](https://open.spotify.com/artist/20vMTL7sBxR7GjEaQUnNcP) | [Cuaresma](https://open.spotify.com/album/7nbUkqjSFzY21uR2yRAvHG) | 2:58 |
+| 2551 | [FIND A WAY TO YOU](https://open.spotify.com/track/00qwDl5A6KQDTjFDbkOytC) | [Octane](https://open.spotify.com/artist/13rU3v00eWoB0U4YbS7Y4Y) | [A Blessing In Disguise \(Deluxe\)](https://open.spotify.com/album/4jDYYo3MCeNYC17EuOmkQR) | 2:22 |
+| 2552 | [Freewheelin' Again](https://open.spotify.com/track/2VIwl2hLLT1MH96XfybOpW) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Freewheelin' Again](https://open.spotify.com/album/0YK6HU8qmu90s9u0QFMD5H) | 3:11 |
+| 2553 | [Quiero Vivir Una Vez Mas](https://open.spotify.com/track/0z0KcNkyTqImQ1VctIELrB) | [cantos católicos y litúrgicos](https://open.spotify.com/artist/20vMTL7sBxR7GjEaQUnNcP) | [Cantos Para Misa Y Reflexion](https://open.spotify.com/album/6g5WYvZzhKlTtmk96UYye5) | 2:13 |
+| 2554 | [Renacer](https://open.spotify.com/track/6fqrEDjLulEmKM2enFtTlM) | [LuxMusik](https://open.spotify.com/artist/43LUen9CySWTTmF4PyMuCj) | [Luminus](https://open.spotify.com/album/7belTXFkfrgBRp5i9fyrkM) | 6:04 |
+| 2555 | [Multiversi Tattici](https://open.spotify.com/track/4dbklZZDMtStU7DuAt1TjB) | [Denny Frassante](https://open.spotify.com/artist/4HXiZPMzhuTDGt12isEchM) | [Multiversi Tattici](https://open.spotify.com/album/7AfSvcdWNO95Z86iQZR18t) | 2:40 |
+| 2556 | [Coffee Song \(Radio Edit\)](https://open.spotify.com/track/3cPkmswoOXbmQZ6NpHwfT0) | [The Summer Fruits](https://open.spotify.com/artist/28x9gjrLuZt7qXjgjNOh0w) | [Coffee Song \(Radio Edit\)](https://open.spotify.com/album/4FwJ4UR6fQ5dP2Y19UbcXf) | 1:56 |
+| 2557 | [Cherry Wine](https://open.spotify.com/track/0bNsre3voeNutKYyhRpdiA) | [Ain't no Ducks](https://open.spotify.com/artist/6gpSt6r2hIoVRHzOcNxF6U) | [Cherry Wine](https://open.spotify.com/album/0VzEK8ziTsdwXszlm2QvDq) | 2:50 |
+| 2558 | [Things Won't Be The Same](https://open.spotify.com/track/6hZM4lUIc7x72NIaDn59l3) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [Things Won't Be The Same](https://open.spotify.com/album/3d0nPUL8AjoeHdqFaOAgj1) | 3:21 |
+| 2559 | [Stand For the Silent](https://open.spotify.com/track/3Os0fVzizxsQF7uKM8M8Ye) | [David Allan](https://open.spotify.com/artist/1yqEP9m1PzomA4buwMlEoQ) | [Stand For the Silent](https://open.spotify.com/album/66Kr3zj0XwOhp55GYN0kQG) | 4:36 |
+| 2560 | [Just Another Sun Going Down](https://open.spotify.com/track/0opwEDW1ipm3aGgCawAyye) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons in Exile](https://open.spotify.com/album/2JpF6zKefRMIsMZIWEjk0c) | 3:42 |
+| 2561 | [ドラゴンの夢](https://open.spotify.com/track/5juWWwiiV8y3kE3ulOEpCG) | [Akajon](https://open.spotify.com/artist/1BjpSJSLfcThOqOJP5m8O3), [akayama joao](https://open.spotify.com/artist/6A5QcwzvKrjllstEJnADfg) | [ドラゴンの夢](https://open.spotify.com/album/68ydb1njc9zcqxNupEVxkh) | 3:00 |
+| 2562 | [Quiet Sea](https://open.spotify.com/track/0Fjz4OBg7HRi1L0nHlE0cu) | [Bledi Telha](https://open.spotify.com/artist/08tnj6N05HhRpdGhMSbNxx) | [Quiet Sea](https://open.spotify.com/album/1E2DYII7a5GmWDqT5dT32o) | 3:06 |
+| 2563 | [Evidence](https://open.spotify.com/track/7zckgxoZZDVdFPuZ7JJJzr) | [Igła](https://open.spotify.com/artist/374zxRgrWQVVjAoDcMIRNY) | [Evidence](https://open.spotify.com/album/2wkdIujiY0JBdpGtINm0Xm) | 5:34 |
+| 2564 | [Cycles](https://open.spotify.com/track/5aWrgZoG41abbitzBsQFB3) | [JianHere](https://open.spotify.com/artist/5HYA4GxRfxcT8hlzGOA6uY) | [Cycles](https://open.spotify.com/album/2m4Eh2pP10mB7bRGK2Epyd) | 3:50 |
+| 2565 | [Makes Me Happy](https://open.spotify.com/track/2RuYgdEBxV2exf6GsHzlJ0) | [Paul Louis Villani](https://open.spotify.com/artist/34d63lSdZvsG2w63yzIFBn) | [Makes Me Happy](https://open.spotify.com/album/74a0SSWcCSIXPRBh3TjA2x) | 2:49 |
+| 2566 | [Inside](https://open.spotify.com/track/2Sv2Tyo70BZ1uemN8V3jaS) | [Kaspar Bakken](https://open.spotify.com/artist/73aB9IUwHBom7J4GdONOky) | [Inside](https://open.spotify.com/album/5qppCqeUrlxDrHaP7RRWMw) | 2:58 |
+| 2567 | [The Third Pill](https://open.spotify.com/track/6IDfASgA4RKwMSx6vrA5Fz) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ), [Acid.Prof](https://open.spotify.com/artist/1fgWlAeVGsyJYk05RQK72H) | [The Third Pill](https://open.spotify.com/album/03dUhJsfcFP0k03noYf42i) | 3:50 |
+| 2568 | [Last Ride 2.0](https://open.spotify.com/track/2F7DT6sVaUjClYXVq2Sru8) | [Outlaw Rail](https://open.spotify.com/artist/6xtNNB2nXYFM9NUP7d6gFn) | [Last Ride 2.0](https://open.spotify.com/album/2enHGutQ1YH2zeBrKRoHEA) | 4:44 |
+| 2569 | [Good Vibes Only](https://open.spotify.com/track/1b4Y64x4mq8KQOUzmVg0y9) | [Tha Third I](https://open.spotify.com/artist/2vZ7xxfNdyh4EFtVOKUim2) | [Good Vibes Only](https://open.spotify.com/album/2hX2T4dSRTCvnSC1e8A72S) | 2:24 |
+| 2570 | [Tem Que Ter o Dom](https://open.spotify.com/track/0qerjpA8nNmAchTv4ZusVa) | [Buba Nobeat](https://open.spotify.com/artist/720uxiEQL3J7OmSqIRTKQ7), [Flow Jhow](https://open.spotify.com/artist/0oKArOUFmwtokkOdwMqSsG), [Boni Mc](https://open.spotify.com/artist/31uO6NZzQGZlV86CCnInFO) | [Tem Que Ter o Dom](https://open.spotify.com/album/2T5ep6SsbZguQWgTJSs4UI) | 4:07 |
 
-Snapshot ID: `AAAKjn9vai9nhfKD/oTAJb5uT8o4Md1K`
+Snapshot ID: `AAAKozk0Nzeq62zuFlspK1s6/RZ3zdRP`

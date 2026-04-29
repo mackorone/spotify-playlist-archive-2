@@ -2917,6 +2917,32 @@
     },
     {
       "album": {
+        "name": "Karuppa Kooda Va (From \"Karuppu\")",
+        "url": "https://open.spotify.com/album/2T6mZSjguTXBprOgA21JPO"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "V.M. Mahalingam",
+          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
+        },
+        {
+          "name": "Pa. Vijay",
+          "url": "https://open.spotify.com/artist/1dg4azP3LshEhi3moXgJQv"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Karuppa Kooda Va - From \"Karuppu\"",
+      "url": "https://open.spotify.com/track/2QAUV5OUidTbSCEo4NToEG"
+    },
+    {
+      "album": {
         "name": "Katchi Sera (From \"Think Indie\")",
         "url": "https://open.spotify.com/album/1kqsloJJsGKKKiWhinel6F"
       },
@@ -3760,7 +3786,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 217627,
       "name": "Monica (From \"Coolie\") (Tamil)",
       "url": "https://open.spotify.com/track/2t1pEpxPz91KldW7C0FyZv"

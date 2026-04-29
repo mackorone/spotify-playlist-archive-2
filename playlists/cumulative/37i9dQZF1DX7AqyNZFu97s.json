@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: sbk",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Storm Mollison",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -8266,7 +8266,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 119250,
       "name": "BREAK THE LAW",
       "url": "https://open.spotify.com/track/0xdq4uF7HUgQIr4NhRomQw"
@@ -15660,6 +15660,24 @@
       "duration_ms": 178410,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/3VLC9OBGZr4aRSJFbZpPHg"
+    },
+    {
+      "album": {
+        "name": "Don't Kill the Vibe",
+        "url": "https://open.spotify.com/album/4tYBaS0xN0eYmFSGHJ1C7N"
+      },
+      "artists": [
+        {
+          "name": "Jordan Joy",
+          "url": "https://open.spotify.com/artist/4SpTLCaS4bSWUFgN7AapHv"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262459,
+      "name": "Don't Kill the Vibe",
+      "url": "https://open.spotify.com/track/3ZiHHaMuZ2cQXLtjxgiGUd"
     },
     {
       "album": {
@@ -40578,7 +40596,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 176768,
       "name": "Neptune Girl",
       "url": "https://open.spotify.com/track/5OLQKfOEmxAa9qVNhQygra"
@@ -65298,6 +65316,24 @@
       "duration_ms": 186397,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/4qnUMf12GKpBS9WKX7BuJp"
+    },
+    {
+      "album": {
+        "name": "A.L.T.",
+        "url": "https://open.spotify.com/album/1exLcroSoMKCdQ6NCohGJ0"
+      },
+      "artists": [
+        {
+          "name": "Storm Mollison",
+          "url": "https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236718,
+      "name": "Workin'",
+      "url": "https://open.spotify.com/track/35Dj515Ju4vvsGFVQ4YXPW"
     },
     {
       "album": {

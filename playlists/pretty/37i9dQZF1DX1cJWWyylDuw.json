@@ -1,12 +1,12 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: FIt For An Autopsy",
-  "num_followers": 291644,
+  "num_followers": 291748,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOHidKuq9wBf1H+8ysjk6e9mZQS5",
+  "snapshot_id": "AAAAAABtgtHEIt/wXg8Sx2mTy74QNinp",
   "tracks": [
     {
       "added_at": "2026-03-22 01:11:05",
@@ -419,18 +419,18 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Premonitions",
-        "url": "https://open.spotify.com/album/3AbL2Y4cGSi3ntGQUO4si4"
+        "name": "Welcome To Shell Town",
+        "url": "https://open.spotify.com/album/5kGVhCZPsvy5cVbKnBMGT4"
       },
       "artists": [
         {
-          "name": "Synestia",
-          "url": "https://open.spotify.com/artist/5q6QQFwE4elu0q1HA10HTb"
+          "name": "Filth",
+          "url": "https://open.spotify.com/artist/4v3LXseeTJyL6GVDS2N8oY"
         }
       ],
-      "duration_ms": 235612,
-      "name": "The Wretched King and his Hollow Throne",
-      "url": "https://open.spotify.com/track/04fyBcct3BHl12xoctDxzH"
+      "duration_ms": 187285,
+      "name": "Not Around Here",
+      "url": "https://open.spotify.com/track/35bJ5DdjnAx5Zg69aw8geM"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -495,6 +495,22 @@
       "duration_ms": 161559,
       "name": "I Am Endless",
       "url": "https://open.spotify.com/track/41xt8tleUDd0V6mLs8Z557"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Premonitions",
+        "url": "https://open.spotify.com/album/3AbL2Y4cGSi3ntGQUO4si4"
+      },
+      "artists": [
+        {
+          "name": "Synestia",
+          "url": "https://open.spotify.com/artist/5q6QQFwE4elu0q1HA10HTb"
+        }
+      ],
+      "duration_ms": 235612,
+      "name": "The Wretched King and his Hollow Throne",
+      "url": "https://open.spotify.com/track/04fyBcct3BHl12xoctDxzH"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -611,6 +627,26 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
+        "name": "Autistimus Prime",
+        "url": "https://open.spotify.com/album/5WXeg1ytgcl5vx6vXFano8"
+      },
+      "artists": [
+        {
+          "name": "PeelingFlesh",
+          "url": "https://open.spotify.com/artist/40DbKvYvADTiks7hZIUPHG"
+        },
+        {
+          "name": "Embryectomy",
+          "url": "https://open.spotify.com/artist/3evF1GEgvfreI27KR4mKow"
+        }
+      ],
+      "duration_ms": 107652,
+      "name": "Autistimus Prime",
+      "url": "https://open.spotify.com/track/7MJ3EHsp2W1zy5xPMuykgy"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
         "name": "Heritage",
         "url": "https://open.spotify.com/album/1h9z9pV2EyrY4oUmvFnGOt"
       },
@@ -635,26 +671,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Autistimus Prime",
-        "url": "https://open.spotify.com/album/5WXeg1ytgcl5vx6vXFano8"
-      },
-      "artists": [
-        {
-          "name": "PeelingFlesh",
-          "url": "https://open.spotify.com/artist/40DbKvYvADTiks7hZIUPHG"
-        },
-        {
-          "name": "Embryectomy",
-          "url": "https://open.spotify.com/artist/3evF1GEgvfreI27KR4mKow"
-        }
-      ],
-      "duration_ms": 107652,
-      "name": "Autistimus Prime",
-      "url": "https://open.spotify.com/track/7MJ3EHsp2W1zy5xPMuykgy"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Southern Hostility",
         "url": "https://open.spotify.com/album/5NGFaarv4KxVYH9LvaMLso"
       },
@@ -667,26 +683,6 @@
       "duration_ms": 207398,
       "name": "All Pride No Pain",
       "url": "https://open.spotify.com/track/35qULvfVsRGHE2u4OkNzI0"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
-        "name": "Recreant",
-        "url": "https://open.spotify.com/album/16TWclehxfP4ECui5fnt7w"
-      },
-      "artists": [
-        {
-          "name": "Will Ramos",
-          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
-        },
-        {
-          "name": "Nik Nocturnal",
-          "url": "https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q"
-        }
-      ],
-      "duration_ms": 268871,
-      "name": "Recreant",
-      "url": "https://open.spotify.com/track/1r20sYN6fO8SeQaCzc4S5r"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -727,6 +723,26 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
+        "name": "Recreant",
+        "url": "https://open.spotify.com/album/16TWclehxfP4ECui5fnt7w"
+      },
+      "artists": [
+        {
+          "name": "Will Ramos",
+          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
+        },
+        {
+          "name": "Nik Nocturnal",
+          "url": "https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q"
+        }
+      ],
+      "duration_ms": 268871,
+      "name": "Recreant",
+      "url": "https://open.spotify.com/track/1r20sYN6fO8SeQaCzc4S5r"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
         "name": "The Maker",
         "url": "https://open.spotify.com/album/3INCg86OumH3EymmO3Ytpz"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "It Comes For You",
-        "url": "https://open.spotify.com/album/50teRCEaNpo7gWCnQ74yVU"
-      },
-      "artists": [
-        {
-          "name": "Fit For An Autopsy",
-          "url": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
-        }
-      ],
-      "duration_ms": 234902,
-      "name": "It Comes For You",
-      "url": "https://open.spotify.com/track/1EPlAlZXGb1JO3s1DpH3rD"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Ether",
         "url": "https://open.spotify.com/album/1f5Vitdv9u9B4ot0ao8615"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 185768,
       "name": "Ether",
       "url": "https://open.spotify.com/track/7nd1HbUlmmqV0Szg9unUnZ"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "It Comes For You",
+        "url": "https://open.spotify.com/album/50teRCEaNpo7gWCnQ74yVU"
+      },
+      "artists": [
+        {
+          "name": "Fit For An Autopsy",
+          "url": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
+        }
+      ],
+      "duration_ms": 234902,
+      "name": "It Comes For You",
+      "url": "https://open.spotify.com/track/1EPlAlZXGb1JO3s1DpH3rD"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -2571,22 +2587,6 @@
       "duration_ms": 233946,
       "name": "Vessel",
       "url": "https://open.spotify.com/track/5w8NdHj2G4Q0RPhd9F0Ozf"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
-        "name": "Exit Wounds",
-        "url": "https://open.spotify.com/album/39q3NuRHTAQmPTBZRRhoRB"
-      },
-      "artists": [
-        {
-          "name": "Tactosa",
-          "url": "https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI"
-        }
-      ],
-      "duration_ms": 191909,
-      "name": "Dead Pacifist",
-      "url": "https://open.spotify.com/track/6XQwdcU1l90Q57jPbOMyhb"
     }
   ],
   "unique_name": "Deathcore",

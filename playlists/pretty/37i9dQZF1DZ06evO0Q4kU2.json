@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae1VgAAAAADhNSz9njTwhYheNXiYx1dr",
+  "snapshot_id": "ae6nAAAAAAA+ATswsnjc8eWRpwz88Ll0",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Absent Minded",
-        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 278693,
-      "name": "Absent Minded",
-      "url": "https://open.spotify.com/track/7HhupveMg6OAHHpQUBqSWk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T\u00fandra",
         "url": "https://open.spotify.com/album/7wZskJqToFDU8RmWXLzUXi"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 143667,
       "name": "T\u00fandra",
       "url": "https://open.spotify.com/track/7l4zfFpyo8a1zKNsevVcDT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Absent Minded",
+        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "Absent Minded",
+      "url": "https://open.spotify.com/track/7HhupveMg6OAHHpQUBqSWk"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The True Meaning Of Forever",
-        "url": "https://open.spotify.com/album/3reUPH5qmw9PJ3HwQyA0ED"
+        "name": "Polar: Abyss",
+        "url": "https://open.spotify.com/album/2a4WPp12TfPTIhzqFcpRaa"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 173927,
-      "name": "Coda",
-      "url": "https://open.spotify.com/track/64JOnjcWwrS4y1i5RsZb4o"
+      "duration_ms": 164199,
+      "name": "Vestige",
+      "url": "https://open.spotify.com/track/5LnDh3txdYyfnQ1PtDjLHd"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polar: Abyss",
-        "url": "https://open.spotify.com/album/2a4WPp12TfPTIhzqFcpRaa"
+        "name": "The True Meaning Of Forever",
+        "url": "https://open.spotify.com/album/3reUPH5qmw9PJ3HwQyA0ED"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 164199,
-      "name": "Vestige",
-      "url": "https://open.spotify.com/track/5LnDh3txdYyfnQ1PtDjLHd"
+      "duration_ms": 173927,
+      "name": "Coda",
+      "url": "https://open.spotify.com/track/64JOnjcWwrS4y1i5RsZb4o"
     },
     {
       "added_at": null,

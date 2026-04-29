@@ -5422,7 +5422,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 131200,
       "name": "Bici Please",
       "url": "https://open.spotify.com/track/7647uDi2058q6iWAdZ55JO"
@@ -6584,7 +6584,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 158400,
       "name": "Brasileiro",
       "url": "https://open.spotify.com/track/5QxrwYi8HokaPKgApOhoDN"
@@ -9784,7 +9784,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 248146,
       "name": "Confident - Single Version",
       "url": "https://open.spotify.com/track/6czM6UMQD9qE5GAUp68oud"
@@ -10378,7 +10378,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 190857,
       "name": "CUBA",
       "url": "https://open.spotify.com/track/2LPxsYSkDeSeLgb70iR5O7"
@@ -12298,7 +12298,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 203182,
       "name": "Din Corason",
       "url": "https://open.spotify.com/track/0y2dfDgJaRckH48vI1YIVH"
@@ -15476,7 +15476,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 174375,
       "name": "FATA DIN FAVELA",
       "url": "https://open.spotify.com/track/6nj14fIUcALDS3EadVnQHC"
@@ -21194,7 +21194,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 215406,
       "name": "Ia-Ma-N Brate Viata Mea",
       "url": "https://open.spotify.com/track/50uGTcLtiBufWxONgDYM2X"
@@ -26893,6 +26893,28 @@
     },
     {
       "album": {
+        "name": "Marimea J-Lo",
+        "url": "https://open.spotify.com/album/5bc6Te2mWYbNxsYxXkaz8f"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        },
+        {
+          "name": "Ghita Adriano",
+          "url": "https://open.spotify.com/artist/6h2J0hfKs2Yy2Ag6HTqdsw"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142796,
+      "name": "Marimea J-Lo",
+      "url": "https://open.spotify.com/track/0JQQukgIdXIP6NzaXsRxVv"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -29499,6 +29521,28 @@
     },
     {
       "album": {
+        "name": "Nebunatica",
+        "url": "https://open.spotify.com/album/2CWzc9zgG3R4iOk3Kfcmzz"
+      },
+      "artists": [
+        {
+          "name": "MADATORRICELLI",
+          "url": "https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ"
+        },
+        {
+          "name": "LiToo The Purp",
+          "url": "https://open.spotify.com/artist/06fgskAr7fPSrBKJhp9p19"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149677,
+      "name": "Nebunatica",
+      "url": "https://open.spotify.com/track/78g749RHeyfqGl1KUZ2ugK"
+    },
+    {
+      "album": {
         "name": "Nebunia lui Babasha",
         "url": "https://open.spotify.com/album/2dsOrPXut5OgnIqeymk1Or"
       },
@@ -29988,7 +30032,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 198720,
       "name": "Nikki Beach - Live",
       "url": "https://open.spotify.com/track/66aYG7OmvJIKZswacsI3qV"
@@ -33916,7 +33960,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 125294,
       "name": "Ponte Pa Mi",
       "url": "https://open.spotify.com/track/78uC56WFICXVzko7aBUXHJ"
@@ -38720,7 +38764,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 142000,
       "name": "sexyZ",
       "url": "https://open.spotify.com/track/2G7zweQ25yC9xHNIGEuvcb"
@@ -43120,7 +43164,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 163764,
       "name": "Te plac, te pup",
       "url": "https://open.spotify.com/track/57UeZZXteJZVp22stEyS4a"
@@ -47950,7 +47994,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 160731,
       "name": "Walla Eh",
       "url": "https://open.spotify.com/track/30Qx8p1Fr1qIZCY7Rp83sG"

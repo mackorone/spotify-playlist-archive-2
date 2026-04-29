@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-205 songs - 12 hr 42 min
+206 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Apricot Tree](https://open.spotify.com/track/25BqmDMjXSxGAgY6UHCDiv) | [Myshkin's Ruby Warblers](https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF) | [Choice Blooms](https://open.spotify.com/album/6plVIfUeOqZvVUjWSgova4) | 3:30 | 2026-02-08 | 2026-02-27 |
 | [Are You Satisfied?](https://open.spotify.com/track/3D9Dbubc334fzEbcu2h1pi) | [Mixed Signals](https://open.spotify.com/artist/63fTqiDjAtUbSkGYkiv1Ts) | [Are You Satisfied?](https://open.spotify.com/album/6k0grUQD7y9UxumSaX0pp7) | 4:21 | 2026-02-01 | 2026-02-09 |
 | [Ariel Angelo](https://open.spotify.com/track/34iRrsao8eXZSQ41HqfM4L) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Myshkin](https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM) | [Econoline](https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf) | 3:01 | 2025-12-14 |  |
+| [Arise](https://open.spotify.com/track/2rFqanqkIiwRQipv7cPrch) | [Helicon](https://open.spotify.com/artist/7iVHHjl4pxhEHFkmsRBAwd), [Al Lover](https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A) | [Arise](https://open.spotify.com/album/1VN8yZ9r3bxaK6ggOznZPh) | 3:39 | 2026-04-28 |  |
 | [At Nathan's House](https://open.spotify.com/track/41etUdAj7MZz7x7s7VP3DS) | [Clay Rings](https://open.spotify.com/artist/3tr227jMYMc1Qygz3A4Unp) | [At Nathan's House](https://open.spotify.com/album/2cOtM6OudVEX5xJe9ooAEO) | 3:49 | 2025-12-26 |  |
 | [Baby I've Got It](https://open.spotify.com/track/1HtjINsvc7zbq8HbYdGPp5) | [Florence Jack](https://open.spotify.com/artist/4pmpDqVKHxD5w8lCH7vCvv) | [Love Heist](https://open.spotify.com/album/74WfiAauEFf8nMY6WAeARN) | 3:39 | 2025-11-30 |  |
 | [Bad Habits](https://open.spotify.com/track/3Xa8IgwILvTWDkgukI8qJm) | [Oceanless](https://open.spotify.com/artist/4yqBdaK0VWZGdwhwHHEBk8) | [JADED](https://open.spotify.com/album/3bFIkrKtLvf8UqGnvuzKDB) | 4:55 | 2025-11-16 | 2025-11-24 |

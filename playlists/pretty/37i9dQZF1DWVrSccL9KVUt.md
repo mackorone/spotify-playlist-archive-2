@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Meagan Tibbits
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,800 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,820 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 87 | [Unraveled](https://open.spotify.com/track/3gmMSv0H6mBXqZLalNY7ve) | [Baily Hager](https://open.spotify.com/artist/20o7eBmsXpjnNqWVvwp9sb) | [Unraveled](https://open.spotify.com/album/1t8D2jmaMU9ny9lBJkCr1I) | 2:34 |
 | 88 | [Hope's Gonna Find You \(with Franni Cash\)](https://open.spotify.com/track/1a6szj3r3ng4BwzOqgMCVi) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs), [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Hope's Gonna Find You \(with Franni Cash\)](https://open.spotify.com/album/1xKo457LHtDbMYpTp0rIA3) | 3:51 |
 | 89 | [Testimony](https://open.spotify.com/track/4I01JiotzjG0twezQt1xqX) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Testimony](https://open.spotify.com/album/1JgiUpuR8UgX1TzTCQ7J9h) | 4:02 |
-| 90 | [Big Girl Big God Remix \(feat\. Porsha Love, Tylynn, Anike & TuKool Tiff\) \- Remix](https://open.spotify.com/track/5aE5ps63kX9JTpx9BaYx7D) | [LANELL GRANT](https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Tukool Tiff](https://open.spotify.com/artist/31fWgNrRCySK9fxRmOWeqs) | [Big Girl Big God Remix \(feat\. Porsha Love, Tylynn, TuKool Tiff & Anike\)](https://open.spotify.com/album/6J4T4mOPxNcHcaWoRwS0xl) | 4:49 |
+| 90 | [Big Girl Big God Remix \- Remix](https://open.spotify.com/track/5aE5ps63kX9JTpx9BaYx7D) | [LANELL GRANT](https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Tukool Tiff](https://open.spotify.com/artist/31fWgNrRCySK9fxRmOWeqs) | [Big Girl Big God Remix](https://open.spotify.com/album/6J4T4mOPxNcHcaWoRwS0xl) | 4:49 |
 | 91 | [i need you.](https://open.spotify.com/track/5ta5EHb6HIOOfNNLiGNHZJ) | [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [i need you.](https://open.spotify.com/album/6bVwSpecmS2MuQqmVxEEII) | 2:54 |
 | 92 | [Find My Way Back](https://open.spotify.com/track/7iDH7KhxWHGSUmOZHvM0Dr) | [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [Find My Way Back](https://open.spotify.com/album/7D4pULZd24AwY40F8DJaLo) | 3:50 |
 | 93 | [God Is With Her!](https://open.spotify.com/track/7g6OjzMJn1v6Eilf4kDs3z) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [HOLY GIRL X HLY GRL](https://open.spotify.com/artist/2TE8gW7sPrfsioHuohzF4Y) | [Good News, No Gossip](https://open.spotify.com/album/4FM7SRpo3iyLOo6YEMPdYK) | 2:44 |

@@ -2,9 +2,9 @@
 
 ### [VOCALOID now](https://open.spotify.com/playlist/37i9dQZF1DX4OQqDGyEiDU)
 
-> Explore the current wave of VOCALOID culture\. Cover: Amala
+> Explore the current wave of VOCALOID culture\. Cover: Kikuo
 
-711 songs - 1 day 15 hr 46 min
+713 songs - 1 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [God sees all](https://open.spotify.com/track/1MES6o0hVfvTcoK0JYDQq6) | [Ethyria](https://open.spotify.com/artist/1FUCVcTXn8jXmPTS3vV9xy) | [God sees all](https://open.spotify.com/album/2UvWMD9DOfJxpJaSwNtqFU) | 3:16 | 2022-06-09 | 2023-01-13 |
 | [God\-ish](https://open.spotify.com/track/206UWNKXURTnN4zf9vmXUV) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [God\-ish](https://open.spotify.com/album/5MEXGTej0dxa5MbXZCJJyk) | 3:23 | 2022-07-26 | 2023-05-20 |
 | [God\-ish](https://open.spotify.com/track/08Th6KDn0ESaxZis89HxRo) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/4iBwkssXTjrecC7MBKVJ6a) | 3:25 | 2023-05-18 | 2024-04-19 |
+| [gONE](https://open.spotify.com/track/6J7TyJPpibB6wQeGNVzFlZ) | [Utsu\-P](https://open.spotify.com/artist/3Zo5u5IljPxQEfbNY2OgsX) | [gONE](https://open.spotify.com/album/52ROe33baeAGdxT202IyqX) | 3:47 | 2026-04-28 |  |
 | [Good\-bye Declaration](https://open.spotify.com/track/6TJnkjQL9Ar8JQVrGiBhVf) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [Good\-bye Declaration](https://open.spotify.com/album/0HdeiaHzPCeF543SeBwL7q) | 2:52 | 2022-11-08 | 2022-11-13 |
 | [good\-bye declaration](https://open.spotify.com/track/6SYj9vjjVTwKn08iKZR11m) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [The Deluge](https://open.spotify.com/album/0XVzhmnx7nQ1TYxUGKBmXx) | 2:52 | 2023-01-12 | 2024-04-19 |
 | [GURU](https://open.spotify.com/track/44bhs2HUL9FLVB3hdYCF2x) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [GURU](https://open.spotify.com/album/7yd2EeJwKUL5mdU3B3DLVe) | 3:10 | 2022-08-16 | 2022-08-24 |
@@ -159,6 +160,7 @@
 | [OMAJINAI](https://open.spotify.com/track/15BRu3pGx0AHvID3pBZV6J) | [NAKISO](https://open.spotify.com/artist/7e0etbPYy2kovCgnbT1g2Y) | [OMAJINAI](https://open.spotify.com/album/1nTMOMjRFsNKKXkvU53OJW) | 1:57 | 2023-02-16 | 2023-03-22 |
 | [on the rocks](https://open.spotify.com/track/5oUBjW4Bc69fcYBak14CyO) | [OSTER project](https://open.spotify.com/artist/4OFuKxuZg7eKcAj9Bg5off) | [Attractive Museum](https://open.spotify.com/album/2P5aNv8rCe3ySUNqAP0cpm) | 4:25 | 2022-06-28 | 2022-07-28 |
 | [Online Game Addicts Sprechchor feat.Hatsune Miku](https://open.spotify.com/track/5UX2XYxGf9s10kmkSObPpA) | [satuki ga tenkomori](https://open.spotify.com/artist/3sXACuwBSj6GE8XUbYff9J), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Jinchikumugai Satsuki ga Tenkomori feat.Hatsune Miku](https://open.spotify.com/album/4ChriIFZHY2BtIjzyTU1Jq) | 4:51 | 2022-06-09 | 2022-07-26 |
+| [OSHIOSHIOSHIOSHI / MONEYMONEYMONEYMONEY \(Vocaloid ver.\)](https://open.spotify.com/track/3yCKJlbaX60oX6K4mgurgz) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [OSHIOSHIOSHIOSHI / MONEYMONEYMONEYMONEY](https://open.spotify.com/album/7Bm0fQryzCnm3Klw8HezYk) | 2:19 | 2026-04-28 |  |
 | [Override](https://open.spotify.com/track/5ZeTXi7uJgTlZJVqljyqHY) | [Yoshida Yasei](https://open.spotify.com/artist/40dkMslN1IMcKknT4eTjNE) | [Override](https://open.spotify.com/album/0DxpTpSwUiOKLDelTQW0Gp) | 2:18 | 2024-01-18 | 2024-04-19 |
 | [oyasumi mode](https://open.spotify.com/track/6BbPE7yMOG2LvAfVlxuO2z) | [picco](https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM), [NEXTLIGHT](https://open.spotify.com/artist/3TB8FogU3YjuUQa8osr0cY) | [oyasumi mode](https://open.spotify.com/album/3wfictgWVFJZIqFCcLF4Sb) | 2:47 | 2025-02-18 | 2025-02-28 |
 | [Packaged](https://open.spotify.com/track/0obMtFToN1SPx622t440ai) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Re:Package](https://open.spotify.com/album/6r0fa0rS05G0y0IQqYXxIu) | 4:54 | 2026-03-24 | 2026-04-10 |
@@ -550,7 +552,7 @@
 | [不純なベンガラ](https://open.spotify.com/track/3xN6bAYDya63j0tuaTIXXJ) | [REISAI](https://open.spotify.com/artist/43y4C3MKdOnurkfODdJE2P) | [不純なベンガラ](https://open.spotify.com/album/43eiB8sDKy4v5spvmTTZdr) | 2:39 | 2022-06-30 | 2022-07-05 |
 | [乙女解剖](https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:43 | 2022-06-09 | 2024-02-03 |
 | [人が歌う曲じゃない](https://open.spotify.com/track/4dOWyhJA2QK2JHsTuEzPgz) | [SajEst](https://open.spotify.com/artist/4w5OjwRCUqwdyNT1wFGp03) | [人が歌う曲じゃない](https://open.spotify.com/album/1WCpiyvA0OxQQM9awKLLhS) | 3:37 | 2022-06-30 | 2022-07-13 |
-| [人マニア](https://open.spotify.com/track/4H89WUjBaQMIiqcnMSVX1j) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [人マニア](https://open.spotify.com/album/0oUGAS1qyR8O5jbNe71uKn) | 2:07 | 2024-04-18 |  |
+| [人マニア](https://open.spotify.com/track/4H89WUjBaQMIiqcnMSVX1j) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [人マニア](https://open.spotify.com/album/0oUGAS1qyR8O5jbNe71uKn) | 2:07 | 2024-04-18 | 2026-04-29 |
 | [仮定した夏](https://open.spotify.com/track/3sZaa7Ia4pGRtDncfD3deL) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [幻影EP\-Envy Phantom\-](https://open.spotify.com/album/5fzbipqPBcovgsJTdZHs9K) | 3:06 | 2022-06-23 | 2022-07-19 |
 | [個々々々々々人](https://open.spotify.com/track/1QPzvGlrRXbv3KVH2lgyJv) | [Sohbana](https://open.spotify.com/artist/1wdjWyhvXFyP3gBWVGZiS5) | [個々々々々々人](https://open.spotify.com/album/3x8GCTGhjM1RYH5Ij1woET) | 3:00 | 2026-04-09 |  |
 | [働かずに食う \(feat\. IA\) \- IA Ver.](https://open.spotify.com/track/2cQTx2ULjSKn4Y5QB091pi) | [KOHH](https://open.spotify.com/artist/3MUcTGmdb4on8WHhIhPkzK), [IA](https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX) | [働かずに食う［IA Ver.］ \(feat\. IA\)](https://open.spotify.com/album/01R38a6xhJdl32sh210Ev3) | 4:05 | 2026-03-24 | 2026-04-10 |
@@ -572,7 +574,7 @@
 | [君が生きてなくてよかった](https://open.spotify.com/track/2CNKxSQ5HrP6tEZXUH6Q06) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [零号](https://open.spotify.com/album/1td6420oV2v558v9rQhgrq) | 4:24 | 2022-06-09 | 2026-03-25 |
 | [君の神様になりたい](https://open.spotify.com/track/0SaFvT8yBgA3d7wJsQbvLT) | [カンザキイオリ](https://open.spotify.com/artist/54CcLaFcLnAElSbnjKGCm6) | [白紙](https://open.spotify.com/album/0XPTOGQ7kNbRvJy2Hv5evk) | 4:15 | 2022-06-14 | 2022-07-10 |
 | [君色に染まる](https://open.spotify.com/track/3ukTSowrOwM3zjXR1BpX7w) | [TOKOTOKO](https://open.spotify.com/artist/4D6R9IkfxEFHtLrm7D2LUH) | [また同じ夢を見てる](https://open.spotify.com/album/6uusJRVTzkRWHSXk8LkRz0) | 3:12 | 2022-06-14 | 2022-07-10 |
-| [告白](https://open.spotify.com/track/3PwqBFAzwCxFLznnK6hKzp) | [内緒のピアス](https://open.spotify.com/artist/7qBT0UgBDfLt3ZpKLUzFBL) | [告白](https://open.spotify.com/album/4HWA2M7hqFKW1mLytoNNuP) | 2:52 | 2026-04-21 |  |
+| [告白](https://open.spotify.com/track/3PwqBFAzwCxFLznnK6hKzp) | [内緒のピアス](https://open.spotify.com/artist/7qBT0UgBDfLt3ZpKLUzFBL) | [告白](https://open.spotify.com/album/4HWA2M7hqFKW1mLytoNNuP) | 2:52 | 2026-04-21 | 2026-04-29 |
 | [命ばっかり](https://open.spotify.com/track/0yEvK14lJzaw4UcvZh12du) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [plotoplan](https://open.spotify.com/album/5GhRicRw19hWj6PeZJQfW9) | 4:12 | 2022-06-14 | 2022-07-27 |
 | [命辛辛](https://open.spotify.com/track/7BbI4VpHjLDeUSS1AM81Vl) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [命辛辛](https://open.spotify.com/album/6hkLdF8Zli5BXtokRXbGEz) | 3:39 | 2023-02-09 | 2023-02-17 |
 | [嗤うマネキン](https://open.spotify.com/track/5rlufCxBIuIJEmsfJgYVZ8) | [MI8k](https://open.spotify.com/artist/4AzUadV5RIk4CrjWdxL4Uj), [GUMI](https://open.spotify.com/artist/2XEx6N3gknSmtshM0PVuxu) | [Cupid Power](https://open.spotify.com/album/2DBjbysv0IIu5xeCBUDbk4) | 3:30 | 2022-06-09 | 2022-07-17 |

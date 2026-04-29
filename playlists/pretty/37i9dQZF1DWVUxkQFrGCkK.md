@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: oskar med k
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,792 likes - 449 songs - 1 day 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,820 likes - 449 songs - 1 day 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,7 +194,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 184 | [ZAAZAA \- GINO LE NOIR Remix](https://open.spotify.com/track/1eZ6XgUreA1SbIV0KPB5wE) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [GINO LE NOIR](https://open.spotify.com/artist/0t5ayWBqZtXuen7CssD4Iu) | [REMIX PACK](https://open.spotify.com/album/1r7s5anqKnYFUZDgHFyH38) | 4:12 |
 | 185 | [FOR REAL](https://open.spotify.com/track/5yjCIVDZzRFEe9xOiKz6vU) | [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR) | [FOR REAL](https://open.spotify.com/album/5NcX7tpr66Qkj9mILZm3kD) | 3:59 |
 | 186 | [All Hearts Beat](https://open.spotify.com/track/0398YEQ9aQ8AlPHkG8PEB1) | [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [All Hearts Beat](https://open.spotify.com/album/7g7WPnrCEAnpvEVVriZRh5) | 5:41 |
-| 187 | [Wait So Long \(Why Do I Have To\) \- REMIND Remix](https://open.spotify.com/track/0yZjFgJYHJwnMMBhzEBP7J) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [RE\\MIND](https://open.spotify.com/artist/3V9dIUKIoVArPUrt30P4XX) | [Wait So Long \(Why Do I Have To\) \[REMIND Remix\]](https://open.spotify.com/album/26xNafbC2ESdSmzYMsr0S0) | 4:49 |
+| 187 | [Wait So Long \(Why Do I Have To\) \- RE\\MIND Remix](https://open.spotify.com/track/0yZjFgJYHJwnMMBhzEBP7J) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [RE\\MIND](https://open.spotify.com/artist/3V9dIUKIoVArPUrt30P4XX) | [Wait So Long \(Why Do I Have To\) \[RE\\MIND Remix\]](https://open.spotify.com/album/26xNafbC2ESdSmzYMsr0S0) | 4:49 |
 | 188 | [FAYA \- LOYZA REMIX](https://open.spotify.com/track/1pvRow1MupFqi7CkiraZIw) | [LOYZA](https://open.spotify.com/artist/11urKp2IS76C3wUiVGKm87), [Khaney](https://open.spotify.com/artist/0PxPREVwFHTaFJaKWbmxgY), [Meaku](https://open.spotify.com/artist/2zD28cZO766exrIWQBDFEJ), [Denzel Wilson](https://open.spotify.com/artist/3EFqjj8k2v3N9NaxOrN18I) | [FAYA \(LOYZA REMIX\)](https://open.spotify.com/album/2TtLLYhUm1C9tDbiBPt0Il) | 3:14 |
 | 189 | [La Candelaria](https://open.spotify.com/track/5tz0s6t6V9ElCAvGCu4Ldi) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [La Candelaria](https://open.spotify.com/album/5UVhKMAsDDWhKL0sEwfssk) | 3:50 |
 | 190 | [Jackie B](https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Jackie B](https://open.spotify.com/album/6bl2DvR8JpxauHqG7PjOmg) | 3:37 |

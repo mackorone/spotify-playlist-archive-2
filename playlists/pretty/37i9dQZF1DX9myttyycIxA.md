@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Accessory
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,932 likes - 114 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,949 likes - 114 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 113 | [Sentry](https://open.spotify.com/track/5SFwml6SjVbEvDWm0gh2me) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Electric Hour](https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF) | 3:54 |
 | 114 | [Strawberry](https://open.spotify.com/track/7I1uAxTOm7pbSncfMMI1Nt) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Strawberry](https://open.spotify.com/album/4HwBZ2vn1kF7ba0PdZTsOW) | 2:51 |
 
-Snapshot ID: `AAAAAFplE/FdbbhP5oUFPURUn1XLRvD6`
+Snapshot ID: `AAAAAPUuz6KSehgXdlXUjcVys7h0UOjq`

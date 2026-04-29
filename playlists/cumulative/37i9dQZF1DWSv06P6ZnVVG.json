@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "\u00a1Pa' toda la raza carnavalera!",
-  "name": "Banda Carnavalera",
+  "description": "El mundo cabr\u00f3n de las bandas. ",
+  "name": "Rinc\u00f3n Bandero",
   "tracks": [
     {
       "album": {
@@ -16,10 +16,28 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 276540,
       "name": "A Gozar",
       "url": "https://open.spotify.com/track/6PVeZNxyYK1ta2qmbJJRaT"
+    },
+    {
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/5wYKEaPFkaOey3E4JKb4cB"
+      },
+      "artists": [
+        {
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207466,
+      "name": "A Mover el Guay\u00edn",
+      "url": "https://open.spotify.com/track/67PWNHJBLTiAvvPxwXEB3e"
     },
     {
       "album": {
@@ -38,6 +56,24 @@
       "duration_ms": 136752,
       "name": "A Qui\u00e9n No Le Gusta Eso",
       "url": "https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt"
+    },
+    {
+      "album": {
+        "name": "Africanos Al Ataque",
+        "url": "https://open.spotify.com/album/05W649wdes7jKusqma34Gn"
+      },
+      "artists": [
+        {
+          "name": "Banda Torera Del Valle",
+          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210082,
+      "name": "Africanos Al Ataque",
+      "url": "https://open.spotify.com/track/7AsLLV0vJivORqH3rdPnzp"
     },
     {
       "album": {
@@ -70,10 +106,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 160357,
       "name": "Ag\u00fcita de Coco",
       "url": "https://open.spotify.com/track/3xlaFYf5BxqZfeJjiEqeZQ"
+    },
+    {
+      "album": {
+        "name": "Ahora Por Idea",
+        "url": "https://open.spotify.com/album/1ZwlcvaR5y9g6cSwn1FUke"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Santa Rosa",
+          "url": "https://open.spotify.com/artist/5ZiP7QnmyzZhbfvzSCOB2o"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Ahora Por Idea",
+      "url": "https://open.spotify.com/track/0gBHBjCxPEGuSg4atihHhq"
     },
     {
       "album": {
@@ -88,7 +142,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 264693,
       "name": "Al Estilo Potos\u00ed: El Pistolero / Orde\u00f1ando la Vaca / Cuando los Frijoles Bailan",
       "url": "https://open.spotify.com/track/1nyMsdNsF6t7Ar88vnudFE"
@@ -113,6 +167,78 @@
     },
     {
       "album": {
+        "name": "Alma De Acero",
+        "url": "https://open.spotify.com/album/1By7PI8hLMjEWx0yKiXzEP"
+      },
+      "artists": [
+        {
+          "name": "Banda San Jose De Mesillas",
+          "url": "https://open.spotify.com/artist/3YGCC3e19tclOUN2vLq78o"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124133,
+      "name": "Alma De Acero",
+      "url": "https://open.spotify.com/track/5ddiP5aauQEXiqt5rLbuGh"
+    },
+    {
+      "album": {
+        "name": "Nuestra Historia Musical (Volumen 1)",
+        "url": "https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r"
+      },
+      "artists": [
+        {
+          "name": "Banda Ola Azul de Zirahuen",
+          "url": "https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173293,
+      "name": "Amarte Es un Castigo",
+      "url": "https://open.spotify.com/track/1CDWVc748LxSEleXYkU1xN"
+    },
+    {
+      "album": {
+        "name": "La Consentida de Jerez",
+        "url": "https://open.spotify.com/album/6JuzcdryixBqTpWhJiS152"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Escamilla, La Consentida De Jerez",
+          "url": "https://open.spotify.com/artist/04OQj8XuAlsDeOXpN3nnXt"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160448,
+      "name": "Ambici\u00f3n de Quererte",
+      "url": "https://open.spotify.com/track/45FQtnQMD8lUKJJHYRdOgT"
+    },
+    {
+      "album": {
+        "name": "Celebrando a Malverde",
+        "url": "https://open.spotify.com/album/0Xob3sO72HbvudhzYmLhBm"
+      },
+      "artists": [
+        {
+          "name": "Banda 3 Rios",
+          "url": "https://open.spotify.com/artist/4z83zwAK572NpPQFQu7Jgv"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135893,
+      "name": "Amor A La Ligera",
+      "url": "https://open.spotify.com/track/5shEQ8dVbwh6L34GaRtsGj"
+    },
+    {
+      "album": {
         "name": "Puras de Viento, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/28mc6PwouKVxKjoKlsmEtm"
       },
@@ -124,7 +250,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 205080,
       "name": "Amores de Julia (En Vivo)",
       "url": "https://open.spotify.com/track/05yWQdfjN7vuJOwMUhpFq9"
@@ -142,10 +268,28 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 217208,
       "name": "Amores de monta\u00f1a",
       "url": "https://open.spotify.com/track/05rLt8OUdyNlDMLOHBhixw"
+    },
+    {
+      "album": {
+        "name": "El Angel De La Noche",
+        "url": "https://open.spotify.com/album/3tkY4I8KxtH01tzveayN1o"
+      },
+      "artists": [
+        {
+          "name": "Banda Astilleros",
+          "url": "https://open.spotify.com/artist/74Ce3QQ4v5ShuF268P2bd9"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167012,
+      "name": "Angel De La Noche",
+      "url": "https://open.spotify.com/track/1Hc4PjVo786LWDwJiJ6TtV"
     },
     {
       "album": {
@@ -178,7 +322,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 191266,
       "name": "Arriba la Pedota",
       "url": "https://open.spotify.com/track/3tvC5zYqKvyhDjL6neTPOx"
@@ -214,7 +358,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 145103,
       "name": "Arriba Pichataro - En Vivo",
       "url": "https://open.spotify.com/track/7zB01FOcB5PzeuPKv8XPIb"
@@ -239,6 +383,78 @@
     },
     {
       "album": {
+        "name": "Aunque Sea a Escondidas",
+        "url": "https://open.spotify.com/album/2wEdrir73i5Tewe3aWHshc"
+      },
+      "artists": [
+        {
+          "name": "Banda San Jose De Mesillas",
+          "url": "https://open.spotify.com/artist/3YGCC3e19tclOUN2vLq78o"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246579,
+      "name": "Aunque Sea a Escondidas",
+      "url": "https://open.spotify.com/track/4ZwxzACxOXdxoHkjVt56Kj"
+    },
+    {
+      "album": {
+        "name": "El o Yo, Con Cual de los Dos",
+        "url": "https://open.spotify.com/album/1SJ9M1PvbA0DreHfRnL742"
+      },
+      "artists": [
+        {
+          "name": "La Unica Flor De Chirimoyo",
+          "url": "https://open.spotify.com/artist/7H68WnqkPEXWadoCUkXKD9"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166008,
+      "name": "Aunque Te Enamores",
+      "url": "https://open.spotify.com/track/5I3XYM5MzSZfcFfyWxjtfb"
+    },
+    {
+      "album": {
+        "name": "Banda La Pirinola",
+        "url": "https://open.spotify.com/album/2B1eN4sLg3mjruRkO0X5G5"
+      },
+      "artists": [
+        {
+          "name": "Banda La Pirinola",
+          "url": "https://open.spotify.com/artist/5PTt3pmQAnQwYOBVEAFU0Y"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207632,
+      "name": "Aventurero Y Loco",
+      "url": "https://open.spotify.com/track/5lF5XniaT9e3EJMnDmSUsA"
+    },
+    {
+      "album": {
+        "name": "Desde Hoy",
+        "url": "https://open.spotify.com/album/3ZqEFhGLCxijMCkOX4B9Vm"
+      },
+      "artists": [
+        {
+          "name": "Banda El Limoncito de Sotero Rodriguez A.",
+          "url": "https://open.spotify.com/artist/28emUlYrT1F2xErwZXJlwz"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182308,
+      "name": "Ay\u00fadame a Olvidar",
+      "url": "https://open.spotify.com/track/1WSDCjvUDEAUaWjJtmBfBZ"
+    },
+    {
+      "album": {
         "name": "Banda Puro Oaxaca",
         "url": "https://open.spotify.com/album/3uok7YRpwvLLcNCn6cJPrA"
       },
@@ -250,7 +466,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 151902,
       "name": "Bailando En La Muerteada",
       "url": "https://open.spotify.com/track/6Qn52y83EwnHFqguVOK3XF"
@@ -268,10 +484,46 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 201471,
       "name": "Bella Ciao",
       "url": "https://open.spotify.com/track/3P2IWCIwF6rslPxuEXHQHg"
+    },
+    {
+      "album": {
+        "name": "Pa' el Rancho",
+        "url": "https://open.spotify.com/album/6YdVEVEX0vh29MTdNak7WI"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Escamilla, La Consentida De Jerez",
+          "url": "https://open.spotify.com/artist/04OQj8XuAlsDeOXpN3nnXt"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124921,
+      "name": "Bonita Finca de Adobe",
+      "url": "https://open.spotify.com/track/2eRE57o8wn9YnhdvRKthTW"
+    },
+    {
+      "album": {
+        "name": "Borracho Morir\u00e9",
+        "url": "https://open.spotify.com/album/1Y9UJgmzXcYS2Eq3jOFhJu"
+      },
+      "artists": [
+        {
+          "name": "La Incontenible Banda Astilleros",
+          "url": "https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203280,
+      "name": "Borracho Morir\u00e9",
+      "url": "https://open.spotify.com/track/2VQrfYqMxukVnzi47VVozS"
     },
     {
       "album": {
@@ -329,6 +581,42 @@
     },
     {
       "album": {
+        "name": "La Consentida de Jerez",
+        "url": "https://open.spotify.com/album/6JuzcdryixBqTpWhJiS152"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Escamilla, La Consentida De Jerez",
+          "url": "https://open.spotify.com/artist/04OQj8XuAlsDeOXpN3nnXt"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145030,
+      "name": "Canta, Canta, Canta",
+      "url": "https://open.spotify.com/track/0ZasYXX2kS02gzyUOi9icv"
+    },
+    {
+      "album": {
+        "name": "Fuiste Mala",
+        "url": "https://open.spotify.com/album/4W75juK5G8OQ7Ge5KfgyIA"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra de Juarez",
+          "url": "https://open.spotify.com/artist/4NYzT76CszgQ6Hc9Q5GMwq"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173200,
+      "name": "Caricatura",
+      "url": "https://open.spotify.com/track/5L9oO1dkaJhfskVaa0Vmjy"
+    },
+    {
+      "album": {
         "name": "Desqu\u00edtate Conmigo",
         "url": "https://open.spotify.com/album/7wNje8mmxGfKSEom6IkrLH"
       },
@@ -340,7 +628,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 213368,
       "name": "Carnaval Putleco",
       "url": "https://open.spotify.com/track/2QwIDN49lurhdnRcEutzKL"
@@ -376,7 +664,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 345933,
       "name": "Carnavaleando",
       "url": "https://open.spotify.com/track/2J0zZ1yfeibAX3LCdJe8j9"
@@ -412,7 +700,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 156995,
       "name": "Carnavalerita",
       "url": "https://open.spotify.com/track/42V7eMUdvI9i8VVHJGZYK5"
@@ -448,10 +736,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 214674,
       "name": "Carnavalezco",
       "url": "https://open.spotify.com/track/5CNjJU98GK1VsN4LC9aLfm"
+    },
+    {
+      "album": {
+        "name": "Un Sue\u00f1o Hecho Realidad",
+        "url": "https://open.spotify.com/album/6dvw2yoDvVBYTtoxqAfXG9"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Mendoza",
+          "url": "https://open.spotify.com/artist/5Ihzx2NafZh3IfIWrvakpW"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178834,
+      "name": "Cartas Marcadas",
+      "url": "https://open.spotify.com/track/1PKXHeXMAR7KMAhN2hT5bw"
     },
     {
       "album": {
@@ -466,7 +772,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 182800,
       "name": "Chilito Piqu\u00edn",
       "url": "https://open.spotify.com/track/3G2XzPwN7mi16UTqJ1S5rA"
@@ -484,7 +790,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 151291,
       "name": "Chilito Piqu\u00edn",
       "url": "https://open.spotify.com/track/7zyDCmEJ4j8yq3QKkkfj62"
@@ -502,7 +808,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 261573,
       "name": "Chineleando",
       "url": "https://open.spotify.com/track/1VlgSW0BissXc660YW5Yi4"
@@ -560,7 +866,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 125457,
       "name": "Chocolate Ol\u00e9",
       "url": "https://open.spotify.com/track/02ncC6OvkiakpPtWXkPe8f"
@@ -578,7 +884,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 231833,
       "name": "Chuntaro Style",
       "url": "https://open.spotify.com/track/542j75yrfItpfsW3UfpjNH"
@@ -618,7 +924,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 166269,
       "name": "Cinco Trancazos",
       "url": "https://open.spotify.com/track/1MX5rdoOWTuned116iNSIF"
@@ -636,7 +942,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 203671,
       "name": "Cintura y Cadera",
       "url": "https://open.spotify.com/track/0qRSVXpKaxaLP8tWxIGXOi"
@@ -654,10 +960,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 588878,
       "name": "Cl\u00e1sico Muertero",
       "url": "https://open.spotify.com/track/2J0AiXSBQCtiOYbgAS69NA"
+    },
+    {
+      "album": {
+        "name": "Sin Barreras",
+        "url": "https://open.spotify.com/album/3t9gGUih3jNkooH9Gvik3f"
+      },
+      "artists": [
+        {
+          "name": "Banda El Cerrito",
+          "url": "https://open.spotify.com/artist/6Jif2ZLT9goRk2yXn9kbWf"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132293,
+      "name": "Con Cartitas",
+      "url": "https://open.spotify.com/track/3Gmb1e9yLR5jRzu4vNhGHa"
     },
     {
       "album": {
@@ -672,7 +996,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 190171,
       "name": "Conga Conguita",
       "url": "https://open.spotify.com/track/0AgBnsp7cn4wHu2csOpw7l"
@@ -708,7 +1032,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 213951,
       "name": "Corazon De Texas",
       "url": "https://open.spotify.com/track/2QOpqX6wuf0wZhJto3jWKY"
@@ -730,7 +1054,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 195419,
       "name": "Corazon Part\u00edo",
       "url": "https://open.spotify.com/track/7fnbzVAKgomkmSvSAV6Du5"
@@ -748,10 +1072,46 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 195480,
       "name": "Coraz\u00f3n Chinelero",
       "url": "https://open.spotify.com/track/4gG0VRdYznTf4ugRnuA0ve"
+    },
+    {
+      "album": {
+        "name": "Acu\u00e9rdate de Mi",
+        "url": "https://open.spotify.com/album/0PcL1sQMunNBJB1hCbj1zY"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153216,
+      "name": "Coraz\u00f3n Malherido",
+      "url": "https://open.spotify.com/track/2tiLzYF3CDM60NaXIvOawH"
+    },
+    {
+      "album": {
+        "name": "El o Yo, Con Cual de los Dos",
+        "url": "https://open.spotify.com/album/1SJ9M1PvbA0DreHfRnL742"
+      },
+      "artists": [
+        {
+          "name": "La Unica Flor De Chirimoyo",
+          "url": "https://open.spotify.com/artist/7H68WnqkPEXWadoCUkXKD9"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215301,
+      "name": "Coraz\u00f3n Part\u00edo",
+      "url": "https://open.spotify.com/track/2BsE8HMUV6Szml3b9Y0USZ"
     },
     {
       "album": {
@@ -766,7 +1126,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 188496,
       "name": "Coyuca de Catalan",
       "url": "https://open.spotify.com/track/1VJp6EdzffMfSpX6jHfRNB"
@@ -784,7 +1144,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 201325,
       "name": "Cumbia Torera - Remix",
       "url": "https://open.spotify.com/track/7sSNR1FqVKunESVbZcsNuF"
@@ -809,6 +1169,42 @@
     },
     {
       "album": {
+        "name": "Nos Pertenecemos",
+        "url": "https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4"
+      },
+      "artists": [
+        {
+          "name": "Banda Torera Del Valle",
+          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235554,
+      "name": "C\u00f3mo Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/67CMw3dhM3fsSeNxXgFqcL"
+    },
+    {
+      "album": {
+        "name": "Despertando en Otra Cama",
+        "url": "https://open.spotify.com/album/2903uoOB75PaKj2wEMtEWe"
+      },
+      "artists": [
+        {
+          "name": "Banda Triguera",
+          "url": "https://open.spotify.com/artist/6oplYwZu7KstmZojn1KoB8"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181373,
+      "name": "Danza Coyote",
+      "url": "https://open.spotify.com/track/2Pu4fTzKf5JIFeQTi7FG2G"
+    },
+    {
+      "album": {
         "name": "Despertando en Otra Cama",
         "url": "https://open.spotify.com/album/6oUZxWfzHKd0ozQ98eHJlR"
       },
@@ -820,7 +1216,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 181373,
       "name": "Danza Coyote",
       "url": "https://open.spotify.com/track/77TJcXnNzisfGyG9QQvEk0"
@@ -838,7 +1234,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 172917,
       "name": "Danza de los Diablos",
       "url": "https://open.spotify.com/track/5VIdB9FQHEHukxn8bIsT0I"
@@ -863,6 +1259,78 @@
     },
     {
       "album": {
+        "name": "Pa' el Rancho",
+        "url": "https://open.spotify.com/album/6YdVEVEX0vh29MTdNak7WI"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Escamilla, La Consentida De Jerez",
+          "url": "https://open.spotify.com/artist/04OQj8XuAlsDeOXpN3nnXt"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133141,
+      "name": "De un Rancho a Otro",
+      "url": "https://open.spotify.com/track/1cYmpHqkXXT5EuwTZeMOHx"
+    },
+    {
+      "album": {
+        "name": "Despertando en Otra Cama",
+        "url": "https://open.spotify.com/album/2903uoOB75PaKj2wEMtEWe"
+      },
+      "artists": [
+        {
+          "name": "Banda Triguera",
+          "url": "https://open.spotify.com/artist/6oplYwZu7KstmZojn1KoB8"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205385,
+      "name": "Despertando en Otra Cama",
+      "url": "https://open.spotify.com/track/0jGpvMea5DagdKV6mXXi82"
+    },
+    {
+      "album": {
+        "name": "Gold Collection, Vol.2",
+        "url": "https://open.spotify.com/album/4YuvubHUXDuVMl429UROvV"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196253,
+      "name": "Detenerla Ya",
+      "url": "https://open.spotify.com/track/5XDgRg4Kzd75h03SJ56whi"
+    },
+    {
+      "album": {
+        "name": "Postrado A Tus Pies",
+        "url": "https://open.spotify.com/album/78tTrHml784gmwEJM0VlY0"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246426,
+      "name": "Dime Qui\u00e9n Es",
+      "url": "https://open.spotify.com/track/4f5gY8aQVtRMrJCPmt9Y51"
+    },
+    {
+      "album": {
         "name": "Dios Nunca Muere",
         "url": "https://open.spotify.com/album/4nMlhbvnCMpaFakPXPrjDB"
       },
@@ -874,10 +1342,46 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 266092,
       "name": "Dios Nunca Muere",
       "url": "https://open.spotify.com/track/4gnGNjlnjG6ImQ50blog3R"
+    },
+    {
+      "album": {
+        "name": "\u00c9chame a M\u00ed la Culpa",
+        "url": "https://open.spotify.com/album/3CJawHzU1aC496bwesxn4g"
+      },
+      "artists": [
+        {
+          "name": "Banda El Cerrito",
+          "url": "https://open.spotify.com/artist/6Jif2ZLT9goRk2yXn9kbWf"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183040,
+      "name": "Dos Abriles",
+      "url": "https://open.spotify.com/track/32DLE8PZgef1ICbmvqjNgG"
+    },
+    {
+      "album": {
+        "name": "Puras De Tierra Caliente, Vol.1",
+        "url": "https://open.spotify.com/album/7AWj3tBWz88OOw9lc9qmAH"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89941,
+      "name": "Dos De La Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/482laAlJWn77MnoV2gCm4Z"
     },
     {
       "album": {
@@ -892,7 +1396,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 214146,
       "name": "El Ahualoca",
       "url": "https://open.spotify.com/track/5roQj5olcQiTqXCi8cHGoK"
@@ -917,6 +1421,60 @@
     },
     {
       "album": {
+        "name": "Tu Destino",
+        "url": "https://open.spotify.com/album/7gcIpOcpiKtTwYxFMQujGv"
+      },
+      "artists": [
+        {
+          "name": "Banda San Jose De Mesillas",
+          "url": "https://open.spotify.com/artist/3YGCC3e19tclOUN2vLq78o"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165560,
+      "name": "El Amor No Se Vende",
+      "url": "https://open.spotify.com/track/1pa4o1DZ6xDKCIh5jPxps7"
+    },
+    {
+      "album": {
+        "name": "Borracho Morir\u00e9",
+        "url": "https://open.spotify.com/album/1Y9UJgmzXcYS2Eq3jOFhJu"
+      },
+      "artists": [
+        {
+          "name": "La Incontenible Banda Astilleros",
+          "url": "https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149346,
+      "name": "El An\u00f3nimo",
+      "url": "https://open.spotify.com/track/1lHWO3zuDdyi1pXYFGaQmS"
+    },
+    {
+      "album": {
+        "name": "Vivir\u00e1s",
+        "url": "https://open.spotify.com/album/1MzspegJwr4vMaStKHokfA"
+      },
+      "artists": [
+        {
+          "name": "Banda Karembe",
+          "url": "https://open.spotify.com/artist/3Xda7rhPDdaISHJ783JnTb"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159146,
+      "name": "El Aparatito",
+      "url": "https://open.spotify.com/track/1IlIr3GeFCMJ9JeZaPNotF"
+    },
+    {
+      "album": {
         "name": "El Atracador",
         "url": "https://open.spotify.com/album/6HG6cX5PUUhgbH9pW99TGX"
       },
@@ -928,7 +1486,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 222683,
       "name": "El Atracador",
       "url": "https://open.spotify.com/track/3vHX4ITiUV7L73mNHfYpkV"
@@ -946,7 +1504,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 149556,
       "name": "El Avisp\u00f3n Verde",
       "url": "https://open.spotify.com/track/0yvbz6wVjuHzGOJnRM4dCC"
@@ -1036,7 +1594,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 227485,
       "name": "El borrachito",
       "url": "https://open.spotify.com/track/1LvBelM7SmGwCakgKsuiWg"
@@ -1054,7 +1612,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 199079,
       "name": "El Burro Loco",
       "url": "https://open.spotify.com/track/570EXmH9ADUNVi2CXhCtyY"
@@ -1072,7 +1630,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 153066,
       "name": "El Cable",
       "url": "https://open.spotify.com/track/4ZAlcWmmzIyN7Fm73SvhZV"
@@ -1108,7 +1666,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 268460,
       "name": "El Cable/La Estereof\u00f3nica",
       "url": "https://open.spotify.com/track/3JovUJ70O17SAg0uLjRgAD"
@@ -1126,10 +1684,50 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 159997,
       "name": "El Caderazo",
       "url": "https://open.spotify.com/track/1SXDWNflKOX6tAKftbuhVV"
+    },
+    {
+      "album": {
+        "name": "Puras De Tierra Caliente, Vol.1",
+        "url": "https://open.spotify.com/album/7AWj3tBWz88OOw9lc9qmAH"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223300,
+      "name": "El Caminante",
+      "url": "https://open.spotify.com/track/6KX8LC31bb1eOEZG9QomGe"
+    },
+    {
+      "album": {
+        "name": "Las Que Duelen",
+        "url": "https://open.spotify.com/album/6h1X73eFAV87FEy4A0JYLf"
+      },
+      "artists": [
+        {
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+        },
+        {
+          "name": "Banda La Fregona",
+          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203547,
+      "name": "EL CARICATURA",
+      "url": "https://open.spotify.com/track/7rjrDgcCGNOluzCZOn1Oia"
     },
     {
       "album": {
@@ -1144,7 +1742,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 253015,
       "name": "El Carretero",
       "url": "https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw"
@@ -1162,7 +1760,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 166876,
       "name": "El Chavo del Ocho (The Elephant Never Forgets)",
       "url": "https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02"
@@ -1180,7 +1778,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 228750,
       "name": "El Colibr\u00ed",
       "url": "https://open.spotify.com/track/2OhS3LM0iZnr55gpv78q8R"
@@ -1198,7 +1796,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 219200,
       "name": "El Condor Pasa",
       "url": "https://open.spotify.com/track/5wmZVCE7vxFr6Gzl6H4fOg"
@@ -1216,10 +1814,46 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 224554,
       "name": "El Cumbanchero",
       "url": "https://open.spotify.com/track/0F6qf56WUqRACC33Lv0JXX"
+    },
+    {
+      "album": {
+        "name": "Vivir\u00e1s",
+        "url": "https://open.spotify.com/album/1MzspegJwr4vMaStKHokfA"
+      },
+      "artists": [
+        {
+          "name": "Banda Karembe",
+          "url": "https://open.spotify.com/artist/3Xda7rhPDdaISHJ783JnTb"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162146,
+      "name": "El Derecho De Amarla",
+      "url": "https://open.spotify.com/track/0CWjLJbWkWFqo5xeQIzybO"
+    },
+    {
+      "album": {
+        "name": "El Rey De Los Coleaderos",
+        "url": "https://open.spotify.com/album/2KhFlDzt77frAazmQOguEv"
+      },
+      "artists": [
+        {
+          "name": "El Nono y Su Banda Reina de Jerez",
+          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198373,
+      "name": "El Dia Que Puedas",
+      "url": "https://open.spotify.com/track/0i5tDiUiJhALsYbgJOyFFO"
     },
     {
       "album": {
@@ -1234,7 +1868,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 172355,
       "name": "El Domador",
       "url": "https://open.spotify.com/track/29Q2ZveSbT6zQZunaojY5C"
@@ -1252,7 +1886,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 198500,
       "name": "El Fantasma de la Opera",
       "url": "https://open.spotify.com/track/2VIQA86vnHIw4ZChKVwnSb"
@@ -1270,7 +1904,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 199413,
       "name": "El Gallo Viejo",
       "url": "https://open.spotify.com/track/14Lk9P3ydsHaWcVUu7Odo6"
@@ -1288,10 +1922,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 193488,
       "name": "El Gato y Yo",
       "url": "https://open.spotify.com/track/2KpByPwmCIHtIwgEIA546I"
+    },
+    {
+      "album": {
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186618,
+      "name": "El Guapo",
+      "url": "https://open.spotify.com/track/3AhaXfZ5yQIlFWrsE0Roz0"
     },
     {
       "album": {
@@ -1306,7 +1958,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 208266,
       "name": "El Guateque",
       "url": "https://open.spotify.com/track/68jj5roQ7KgqCAnpWNnsEU"
@@ -1324,7 +1976,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 212522,
       "name": "El Gusano Mezcalero",
       "url": "https://open.spotify.com/track/7fJlBKeYRXFjB8I77VSOke"
@@ -1342,7 +1994,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 187680,
       "name": "El Huitzuque\u00f1o",
       "url": "https://open.spotify.com/track/1VUAqtSRzjiJ5jRne66ERd"
@@ -1378,7 +2030,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 185688,
       "name": "El Malabarista",
       "url": "https://open.spotify.com/track/34scGIUhmOGdXPLdopUXTv"
@@ -1414,7 +2066,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 158066,
       "name": "El Muchacho Alegre - En vivo",
       "url": "https://open.spotify.com/track/63qh4DcwvmVYTcbDHBSRHd"
@@ -1432,7 +2084,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 186597,
       "name": "El Muertero",
       "url": "https://open.spotify.com/track/5PA9rujZ2qwgwids8kNkHK"
@@ -1450,7 +2102,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 277796,
       "name": "El Novillo Despuntado / Toro Pinto",
       "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
@@ -1486,7 +2138,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 325346,
       "name": "El Pato Asado, El Ahualulco - En Vivo",
       "url": "https://open.spotify.com/track/2Nat0Cc2ddJVkkRqKlRN0M"
@@ -1504,7 +2156,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 236471,
       "name": "El Payaso",
       "url": "https://open.spotify.com/track/6snPO18aK3AKNx3XhEXJcI"
@@ -1522,7 +2174,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 180757,
       "name": "El periquito",
       "url": "https://open.spotify.com/track/7FhcpkWayQCJiWohuD7rQT"
@@ -1558,7 +2210,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 239257,
       "name": "El Pirata",
       "url": "https://open.spotify.com/track/6e9wRhKqmE8jIOGMd93iMd"
@@ -1576,7 +2228,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 166054,
       "name": "El Pistolero",
       "url": "https://open.spotify.com/track/1vMbMyhS9bA1Abrgg0ZpPL"
@@ -1594,7 +2246,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 218893,
       "name": "El Pistolero - Son, Huapangobanda",
       "url": "https://open.spotify.com/track/3M7XEXe5lVM1jHgGrNTkUz"
@@ -1612,7 +2264,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 199523,
       "name": "El P\u00e1jaro Chogui",
       "url": "https://open.spotify.com/track/5nHwoROBQ2UD9TcvFrcEMe"
@@ -1630,7 +2282,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 154337,
       "name": "El Quita Penas",
       "url": "https://open.spotify.com/track/1sf6Ffn8feU5jWNHbywH41"
@@ -1648,10 +2300,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 447551,
       "name": "El Ranchero Chido/La Brujita/la Burrita",
       "url": "https://open.spotify.com/track/4KPSJm6rL77vMh9fsV4y3u"
+    },
+    {
+      "album": {
+        "name": "El Rey De Los Coleaderos",
+        "url": "https://open.spotify.com/album/2KhFlDzt77frAazmQOguEv"
+      },
+      "artists": [
+        {
+          "name": "El Nono y Su Banda Reina de Jerez",
+          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185880,
+      "name": "El Rey De Los Coleaderos",
+      "url": "https://open.spotify.com/track/73Y7E1RiTt1DGsaIi7BSkw"
     },
     {
       "album": {
@@ -1673,6 +2343,24 @@
     },
     {
       "album": {
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191320,
+      "name": "El Sandwich",
+      "url": "https://open.spotify.com/track/1vlOczxjsSVdW0OkUHaqTr"
+    },
+    {
+      "album": {
         "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
         "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
       },
@@ -1684,7 +2372,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 135146,
       "name": "El Sauce y la Palma",
       "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
@@ -1724,7 +2412,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 167644,
       "name": "El Sol No Regresa",
       "url": "https://open.spotify.com/track/23GdHSGtKCs7vxxVpBjiho"
@@ -1760,7 +2448,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 159661,
       "name": "El Son de la Ro\u00f1a",
       "url": "https://open.spotify.com/track/2oPzvd6vxrJtufQgnTzbQT"
@@ -1778,7 +2466,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 171740,
       "name": "El Son de la Tambora",
       "url": "https://open.spotify.com/track/5ZThyGO1Bj0fe1IZuyomad"
@@ -1796,7 +2484,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 209191,
       "name": "El Son de la Torre",
       "url": "https://open.spotify.com/track/5Rk9h7AVaIrlcEl4k3BnKS"
@@ -1832,7 +2520,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 156055,
       "name": "El son del pulquito",
       "url": "https://open.spotify.com/track/55KFCjTpj0yTvfPbfBt911"
@@ -1850,7 +2538,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 219500,
       "name": "El Son Del Tlacololero",
       "url": "https://open.spotify.com/track/1NYzgJlrTeZspmrCEoAHjf"
@@ -1868,7 +2556,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 162328,
       "name": "El Son Del Toro",
       "url": "https://open.spotify.com/track/1hkW3I5IYhPfskOedNULud"
@@ -1886,7 +2574,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 252107,
       "name": "El Son Del Veneno",
       "url": "https://open.spotify.com/track/4cqHYRCRyS4e1KHgLgxQmH"
@@ -1904,7 +2592,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 169575,
       "name": "El Son Revolucionario",
       "url": "https://open.spotify.com/track/1XlgfWjeo6oARScDMGIEpL"
@@ -1922,7 +2610,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 261712,
       "name": "El Sonao",
       "url": "https://open.spotify.com/track/6dSReOEVUQqBgXGYQyWSZw"
@@ -1994,7 +2682,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 138640,
       "name": "El Tiliche",
       "url": "https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ"
@@ -2012,7 +2700,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 161840,
       "name": "El Tololoche - La Tuba Chicoteada",
       "url": "https://open.spotify.com/track/6v0cboH1Qxb4Alx751Do8f"
@@ -2030,7 +2718,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 175340,
       "name": "El Torito",
       "url": "https://open.spotify.com/track/3DRsdgiHMKlL82TfRjcAeR"
@@ -2048,7 +2736,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 244680,
       "name": "El Torito de Petate - La Fiesta del Carnaval",
       "url": "https://open.spotify.com/track/3gnPTcrVXDY0fN3gjMCCB2"
@@ -2066,7 +2754,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 119807,
       "name": "El Toro De Once - En Vivo",
       "url": "https://open.spotify.com/track/4jAO429cfLZ4ctSM0QqYOZ"
@@ -2084,7 +2772,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 216320,
       "name": "El Toro Mambo",
       "url": "https://open.spotify.com/track/4IMnHiK4j5yY0XWC9XmOcz"
@@ -2102,7 +2790,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 289691,
       "name": "El Toro Pinto",
       "url": "https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB"
@@ -2120,7 +2808,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 211426,
       "name": "El Toro Requeson",
       "url": "https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD"
@@ -2138,10 +2826,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 175746,
       "name": "El Toro Viejo - En Vivo",
       "url": "https://open.spotify.com/track/6QioT6DTnKoThg07hs36xQ"
+    },
+    {
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/5wYKEaPFkaOey3E4JKb4cB"
+      },
+      "artists": [
+        {
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184653,
+      "name": "El Uca Uca",
+      "url": "https://open.spotify.com/track/3kU6elsXMkpgYDEdwhpEUg"
     },
     {
       "album": {
@@ -2156,7 +2862,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 221682,
       "name": "El Vaquero",
       "url": "https://open.spotify.com/track/3K5acPZvmIJ83EOpTtQET6"
@@ -2174,7 +2880,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 190608,
       "name": "El Venao",
       "url": "https://open.spotify.com/track/56zitbdxspp8itb0sZjdkp"
@@ -2192,7 +2898,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 157036,
       "name": "El Vuelo del Abejorro",
       "url": "https://open.spotify.com/track/6hH8LV9WAv1HMwO0EzB2Bk"
@@ -2228,10 +2934,46 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 191875,
       "name": "Encuentro",
       "url": "https://open.spotify.com/track/3ulKtKzqVmuGBXXirMkQ96"
+    },
+    {
+      "album": {
+        "name": "Solo Traigo Mi Ritmo",
+        "url": "https://open.spotify.com/album/3uJEKvNW0ESA46IxhaACfr"
+      },
+      "artists": [
+        {
+          "name": "Banda La Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Jr6dl5qdP5GEVh3lF9Lsh"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172413,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/4M5rRnDAX4sKu6y4pMzTNO"
+    },
+    {
+      "album": {
+        "name": "Hasta el Cielo",
+        "url": "https://open.spotify.com/album/5q78FD8gPEfEm8EF6ElStg"
+      },
+      "artists": [
+        {
+          "name": "Banda Saucillos",
+          "url": "https://open.spotify.com/artist/7GYiK9mf189oBct9fTjleK"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148909,
+      "name": "Eres todo todo",
+      "url": "https://open.spotify.com/track/0tnsymLTCdr5EmNhgpNNL2"
     },
     {
       "album": {
@@ -2264,7 +3006,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 166200,
       "name": "Esos Bajos",
       "url": "https://open.spotify.com/track/1kHnwfySjiTmwc5aPpwhgK"
@@ -2282,10 +3024,64 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 172044,
       "name": "Espectro",
       "url": "https://open.spotify.com/track/4pxsCfbKn9FNO8ismIT6Kj"
+    },
+    {
+      "album": {
+        "name": "Por Qu\u00e9 Tuvo Que Ser As\u00ed",
+        "url": "https://open.spotify.com/album/1e74AMslLcHxco2sSGlHWa"
+      },
+      "artists": [
+        {
+          "name": "La Dominante Banda El Cerrito",
+          "url": "https://open.spotify.com/artist/28l8bvu5chmKFGgOFahiTJ"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199035,
+      "name": "Esta Despedida",
+      "url": "https://open.spotify.com/track/2fhVfyAVNJk3LpNJH2M9BY"
+    },
+    {
+      "album": {
+        "name": "Puras De Tierra Caliente, Vol.1",
+        "url": "https://open.spotify.com/album/7AWj3tBWz88OOw9lc9qmAH"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177250,
+      "name": "Esta Llorando MI Corazon",
+      "url": "https://open.spotify.com/track/2JK6C90KGuygPO8ghKJMXr"
+    },
+    {
+      "album": {
+        "name": "El Rey De La Banda",
+        "url": "https://open.spotify.com/album/576JTORTbS0jSnJMtmRZ99"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Liz\u00e1rraga y Su Banda Estrellas De Sinaloa",
+          "url": "https://open.spotify.com/artist/0KoGbH9aGFl1wpahAOb3co"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177560,
+      "name": "Estoy Sufriendo",
+      "url": "https://open.spotify.com/track/1w0gxvttBYAG6CdMgHfJpf"
     },
     {
       "album": {
@@ -2343,6 +3139,42 @@
     },
     {
       "album": {
+        "name": "Si T\u00fa Te Fueras",
+        "url": "https://open.spotify.com/album/4aHrb7r3VaAkbb6USjbinh"
+      },
+      "artists": [
+        {
+          "name": "Banda Marinos",
+          "url": "https://open.spotify.com/artist/3tBspFP0ns4g9FNpbjPk3H"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132013,
+      "name": "Flor de Lim\u00f3n",
+      "url": "https://open.spotify.com/track/4cuhLCyHdorRx2i6uiCelX"
+    },
+    {
+      "album": {
+        "name": "Carnavaleando con la Tierra Mojada",
+        "url": "https://open.spotify.com/album/6KKlI8jVjqQxFk7ur1RsY7"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224722,
+      "name": "Flor de Pi\u00f1a",
+      "url": "https://open.spotify.com/track/4Y1uslNu7s4gbDyjwtanaQ"
+    },
+    {
+      "album": {
         "name": "Carnavaleando con la Tierra Mojada",
         "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
       },
@@ -2354,7 +3186,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 224722,
       "name": "Flor de Pi\u00f1a",
       "url": "https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO"
@@ -2372,10 +3204,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 385320,
       "name": "Fr\u00edo de Muertos",
       "url": "https://open.spotify.com/track/1eS79c9q3NlPuhvNggLT5Y"
+    },
+    {
+      "album": {
+        "name": "Fuiste Mala",
+        "url": "https://open.spotify.com/album/4W75juK5G8OQ7Ge5KfgyIA"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra de Juarez",
+          "url": "https://open.spotify.com/artist/4NYzT76CszgQ6Hc9Q5GMwq"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174026,
+      "name": "Fuiste Mala",
+      "url": "https://open.spotify.com/track/5CVMfn9hADmyzYunSSi3aR"
     },
     {
       "album": {
@@ -2390,10 +3240,46 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 236054,
       "name": "Granada",
       "url": "https://open.spotify.com/track/05G8MU80XOs6saEPnC022D"
+    },
+    {
+      "album": {
+        "name": "Hasta las Chanclas",
+        "url": "https://open.spotify.com/album/5dQYfy6Ofuj3Y2of0nlBZW"
+      },
+      "artists": [
+        {
+          "name": "Banda Triguera",
+          "url": "https://open.spotify.com/artist/6oplYwZu7KstmZojn1KoB8"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165986,
+      "name": "Hasta las Chanclas",
+      "url": "https://open.spotify.com/track/0fiYosczH7AkLgagNLfsky"
+    },
+    {
+      "album": {
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/0RceP0FDPLhcrgZr9RLH1T"
+      },
+      "artists": [
+        {
+          "name": "Banda Saucillos",
+          "url": "https://open.spotify.com/artist/7GYiK9mf189oBct9fTjleK"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180604,
+      "name": "Hazme Olvidarla",
+      "url": "https://open.spotify.com/track/4EjidCKvduaUPs5bDthW3D"
     },
     {
       "album": {
@@ -2426,7 +3312,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 200305,
       "name": "Huapango el Pistolero",
       "url": "https://open.spotify.com/track/0U6yUSlqYTCTfdKkF6dDnZ"
@@ -2451,6 +3337,78 @@
     },
     {
       "album": {
+        "name": "Como Burro Sin Mecate",
+        "url": "https://open.spotify.com/album/7BRFJ2bJow1REP2KMGaWuA"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153213,
+      "name": "Imagen De Malverde",
+      "url": "https://open.spotify.com/track/27DRCqgF8OhzAmGTGZ5SYK"
+    },
+    {
+      "album": {
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/0RceP0FDPLhcrgZr9RLH1T"
+      },
+      "artists": [
+        {
+          "name": "Banda Saucillos",
+          "url": "https://open.spotify.com/artist/7GYiK9mf189oBct9fTjleK"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227694,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/5uRuDu6OBtqOnnb6Px2JPM"
+    },
+    {
+      "album": {
+        "name": "\u00a1\u00a1La Explosiva!!",
+        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
+          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240573,
+      "name": "Isi",
+      "url": "https://open.spotify.com/track/1L9q7JMYlTsX9Dtf31Lnc1"
+    },
+    {
+      "album": {
+        "name": "Dame Amor",
+        "url": "https://open.spotify.com/album/04bIaCVm2uC9sTnbUcdrOd"
+      },
+      "artists": [
+        {
+          "name": "Banda La Pirinola",
+          "url": "https://open.spotify.com/artist/5PTt3pmQAnQwYOBVEAFU0Y"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180268,
+      "name": "Jacarandosa",
+      "url": "https://open.spotify.com/track/2iIyMd8LZj6HmHyEnIb7nf"
+    },
+    {
+      "album": {
         "name": "Carnavaleando con la Tierra Mojada",
         "url": "https://open.spotify.com/album/2zrLWXZeEcQhJUMVpjEvZx"
       },
@@ -2462,10 +3420,46 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 235315,
       "name": "Jarabe del Valle",
       "url": "https://open.spotify.com/track/0WHDJAPyuQJLuaq7dWJCYF"
+    },
+    {
+      "album": {
+        "name": "Volvamos a Empezar",
+        "url": "https://open.spotify.com/album/2JKD2BdqayTpjetiYFVsDN"
+      },
+      "artists": [
+        {
+          "name": "Banda La Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Jr6dl5qdP5GEVh3lF9Lsh"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155840,
+      "name": "Jard\u00edn Olvidado",
+      "url": "https://open.spotify.com/track/5mpvs77cZTyafzc0AYpyD0"
+    },
+    {
+      "album": {
+        "name": "Desqu\u00edtate Conmigo",
+        "url": "https://open.spotify.com/album/5FtfMOPjGBFkMk74Z2Dp6I"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210910,
+      "name": "Jinetes en el Cielo",
+      "url": "https://open.spotify.com/track/0ENHgFkrwqOrfmvpac2mxV"
     },
     {
       "album": {
@@ -2498,7 +3492,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 210910,
       "name": "Jinetes en el Cielo",
       "url": "https://open.spotify.com/track/4kX33clweUkkNYVEQVHi9w"
@@ -2516,7 +3510,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 244819,
       "name": "Jinetes en el Cielo - En vivo",
       "url": "https://open.spotify.com/track/2R07IBAtmbZ1xw8UJlS2Yv"
@@ -2552,7 +3546,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 253325,
       "name": "Kraken",
       "url": "https://open.spotify.com/track/09L9pzE5wVrNEbbtQ9Tv0N"
@@ -2570,10 +3564,32 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 164229,
       "name": "La Ardilla",
       "url": "https://open.spotify.com/track/1bhgkbzzfIxxInt7Hzs2et"
+    },
+    {
+      "album": {
+        "name": "Tu Pirata Soy Yo",
+        "url": "https://open.spotify.com/album/3amZ4jwzwHYsBxLmovAnIL"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        },
+        {
+          "name": "Salvador Ya\u00f1ez",
+          "url": "https://open.spotify.com/artist/1ER7kw9u3miriELlOluY3e"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186293,
+      "name": "La Boda",
+      "url": "https://open.spotify.com/track/6dEkBV8zxRQO9FOXqadQJS"
     },
     {
       "album": {
@@ -2596,6 +3612,24 @@
       "duration_ms": 188429,
       "name": "La Boda del Huitlacoche - En Vivo",
       "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
+    },
+    {
+      "album": {
+        "name": "Borracho Morir\u00e9",
+        "url": "https://open.spotify.com/album/1Y9UJgmzXcYS2Eq3jOFhJu"
+      },
+      "artists": [
+        {
+          "name": "La Incontenible Banda Astilleros",
+          "url": "https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184906,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/1lpJD21URCVcRLAPHpse2d"
     },
     {
       "album": {
@@ -2632,7 +3666,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 164087,
       "name": "La Burra Orejona",
       "url": "https://open.spotify.com/track/4g9S6u0oMzIsRrHvubAyXt"
@@ -2650,7 +3684,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 230453,
       "name": "La Calandria / El Correcaminos",
       "url": "https://open.spotify.com/track/0dZ5hWtQiZoWt3mP6cg9ce"
@@ -2668,7 +3702,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 186951,
       "name": "La Calavera",
       "url": "https://open.spotify.com/track/6XSE1eekc6qwDUfBroMu15"
@@ -2686,7 +3720,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 176471,
       "name": "La Charamusca",
       "url": "https://open.spotify.com/track/7CXpdyuciQZdFNPNy1O3vJ"
@@ -2704,7 +3738,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 131328,
       "name": "La Chiclanera",
       "url": "https://open.spotify.com/track/5LyKsB6bm885BC0NkddszI"
@@ -2722,7 +3756,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 130348,
       "name": "La Chucha",
       "url": "https://open.spotify.com/track/4D0nMy6ertx5YXsmBWux5p"
@@ -2740,7 +3774,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 190680,
       "name": "La Conga Roja",
       "url": "https://open.spotify.com/track/1VxJLubkHBxqEte73PBDpq"
@@ -2758,7 +3792,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 175934,
       "name": "La Conga Roja - En Vivo",
       "url": "https://open.spotify.com/track/4KdUaKzkre2iDLqR8N6W3I"
@@ -2794,7 +3828,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 120240,
       "name": "La Cuichi",
       "url": "https://open.spotify.com/track/5MJWoHFH5pOemxZuObv42p"
@@ -2812,7 +3846,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 126426,
       "name": "La Cuichi",
       "url": "https://open.spotify.com/track/7IHWPffyCzlFnljNOwZvDr"
@@ -2830,7 +3864,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 148599,
       "name": "La Cuichi - En Vivo",
       "url": "https://open.spotify.com/track/5kuTaAtUzmq8LeG3UlaSbf"
@@ -2848,7 +3882,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 356253,
       "name": "La Cumbia del Rio, la Cusinela, la Fiebre Tropical - En Vivo",
       "url": "https://open.spotify.com/track/5xIFQUNjIDOs89UsTKSQu9"
@@ -2866,7 +3900,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 222527,
       "name": "La Danza de la Chiva",
       "url": "https://open.spotify.com/track/1a7SVYugXzffvi5cUPeset"
@@ -2902,7 +3936,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 163213,
       "name": "La Danza de las Marmotas",
       "url": "https://open.spotify.com/track/3TA5nHwprHcjhYdfa8Bdn2"
@@ -2920,7 +3954,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 164701,
       "name": "La Danza del Coyote",
       "url": "https://open.spotify.com/track/4bBm56e1sbVs3yXKDAF5Mb"
@@ -2938,10 +3972,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 467494,
       "name": "La Danza Del Coyote / Cinco De T\u00e9 / La Tabaquera (Virtual) (En Vivo)",
       "url": "https://open.spotify.com/track/56m3c8312lWJNdWfrf347y"
+    },
+    {
+      "album": {
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164205,
+      "name": "La Dieta",
+      "url": "https://open.spotify.com/track/4WIKeVqB17mcYrWE5NWWoN"
     },
     {
       "album": {
@@ -2963,6 +4015,24 @@
     },
     {
       "album": {
+        "name": "Cada Amanecer",
+        "url": "https://open.spotify.com/album/71OF2FGR7cCkrrwvHrOZmf"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212533,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/1aJGcMTtfH9luDxbSk9Arz"
+    },
+    {
+      "album": {
         "name": "Las Alegres de los Infinitos",
         "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
       },
@@ -2974,10 +4044,46 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 161946,
       "name": "La Feria de Cali",
       "url": "https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos: La Gitanilla",
+        "url": "https://open.spotify.com/album/5gQgeFFwWSvpMIEJN1dvIl"
+      },
+      "artists": [
+        {
+          "name": "Banda La Caminera",
+          "url": "https://open.spotify.com/artist/2xOt8IryZyGdnIu3IxTh8U"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178133,
+      "name": "La Gitanilla",
+      "url": "https://open.spotify.com/track/1UHV1ses71FkETC7GBu5IA"
+    },
+    {
+      "album": {
+        "name": "Acu\u00e9rdate de Mi",
+        "url": "https://open.spotify.com/album/0PcL1sQMunNBJB1hCbj1zY"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193935,
+      "name": "La Guarecita",
+      "url": "https://open.spotify.com/track/1iZkruStn62olwQqsGjBMh"
     },
     {
       "album": {
@@ -2992,10 +4098,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 189799,
       "name": "La Iguana",
       "url": "https://open.spotify.com/track/389QAl0pdPZVoHYRI0YXzx"
+    },
+    {
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/72A7aGvsBk4adMbTjJxGkY"
+      },
+      "artists": [
+        {
+          "name": "Banda Perla De Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2ensvIDANP7J8Y81kmno84"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147876,
+      "name": "La L\u00e1mpara",
+      "url": "https://open.spotify.com/track/1rWLsPHuaDl4Ohy2MITM8z"
     },
     {
       "album": {
@@ -3014,7 +4138,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 198665,
       "name": "La Mariquita",
       "url": "https://open.spotify.com/track/1YIYdQ8yVTH2ER7Dko6n1j"
@@ -3050,7 +4174,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 192893,
       "name": "La Muertera",
       "url": "https://open.spotify.com/track/0Xpd2iKXRHWP4x7woBCnDi"
@@ -3068,7 +4192,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 208875,
       "name": "La Mujer del Pelotero",
       "url": "https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1"
@@ -3086,7 +4210,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 292000,
       "name": "La Mu\u00f1eca",
       "url": "https://open.spotify.com/track/01mSDU5Ii1sh3P3WNdCbGh"
@@ -3144,7 +4268,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 175532,
       "name": "La Nena",
       "url": "https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC"
@@ -3162,7 +4286,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 351059,
       "name": "La Pedota - En vivo",
       "url": "https://open.spotify.com/track/2GpN5tFwNATbCvTc1zUeLA"
@@ -3180,7 +4304,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 360280,
       "name": "La Pedota/Testarudos/El Huitzuque\u00f1o",
       "url": "https://open.spotify.com/track/7pI2jMjqiHF5WtGDZphPJZ"
@@ -3198,7 +4322,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 177533,
       "name": "La P\u00e1jara Pinta",
       "url": "https://open.spotify.com/track/5tLSuIEzbPHrUWczhv54qk"
@@ -3234,7 +4358,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 193880,
       "name": "La Rabia",
       "url": "https://open.spotify.com/track/71DHSZHV31SnXXwDu96k5N"
@@ -3252,7 +4376,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 199546,
       "name": "La Rana",
       "url": "https://open.spotify.com/track/3Q4HkwuyW2qLGLRC7hoKu4"
@@ -3288,10 +4412,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 162423,
       "name": "La Secretaria",
       "url": "https://open.spotify.com/track/5dKonMYDeAQnfC47oIm4Si"
+    },
+    {
+      "album": {
+        "name": "Como Burro Sin Mecate",
+        "url": "https://open.spotify.com/album/7BRFJ2bJow1REP2KMGaWuA"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183293,
+      "name": "La Tabla Del 1",
+      "url": "https://open.spotify.com/track/4mzqMrRSKLr2pccw37z63y"
     },
     {
       "album": {
@@ -3306,7 +4448,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 134074,
       "name": "La Tuba Gedionda",
       "url": "https://open.spotify.com/track/1Hlt7NtxSWwHiCHBD0zloR"
@@ -3324,7 +4466,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 134074,
       "name": "La Tuba Gedionda",
       "url": "https://open.spotify.com/track/7dqeR3FPX1JH8wwZiEvC6w"
@@ -3342,7 +4484,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 182391,
       "name": "Lagrimas de Escarcha",
       "url": "https://open.spotify.com/track/336F2P6mGBHi36mwELsjzw"
@@ -3360,10 +4502,32 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 128224,
       "name": "Las Calandrias",
       "url": "https://open.spotify.com/track/7hrnVefqSjCAcTpS02KiG3"
+    },
+    {
+      "album": {
+        "name": "Tu Pirata Soy Yo",
+        "url": "https://open.spotify.com/album/3amZ4jwzwHYsBxLmovAnIL"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        },
+        {
+          "name": "Salvador Ya\u00f1ez",
+          "url": "https://open.spotify.com/artist/1ER7kw9u3miriELlOluY3e"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293253,
+      "name": "Las Consentidas de Joan Sebast\u00edan: El Viejo Naranjo / Lo Dijo el Cura / En la Barra / El Peor de Tus Anotojos",
+      "url": "https://open.spotify.com/track/0np3OC10td4yH7nwlX16AJ"
     },
     {
       "album": {
@@ -3378,7 +4542,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 461333,
       "name": "Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Pi\u00f1a - En Vivo",
       "url": "https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA"
@@ -3396,7 +4560,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 181440,
       "name": "Las G\u00fcilotas",
       "url": "https://open.spotify.com/track/2bCsFEdKi0EXK8GWSkNClD"
@@ -3414,7 +4578,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 188879,
       "name": "Las Marmotas",
       "url": "https://open.spotify.com/track/0eBOsUxQtl5XxGdMP7Td0d"
@@ -3432,7 +4596,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 188879,
       "name": "Las Marmotas",
       "url": "https://open.spotify.com/track/73G2UHTqcfpP9nckESeA7D"
@@ -3468,7 +4632,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 196800,
       "name": "Las mujeres quieren bailar",
       "url": "https://open.spotify.com/track/5wJOv7x0ObqV024IhCruVF"
@@ -3522,7 +4686,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 195600,
       "name": "Las Pataditas (Son)",
       "url": "https://open.spotify.com/track/6FdLZGRSpiJG80h4HX2hTW"
@@ -3540,10 +4704,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 511586,
       "name": "Leyendas",
       "url": "https://open.spotify.com/track/6WYWgNDmZ2vxWXp0KLMMJs"
+    },
+    {
+      "album": {
+        "name": "Como Burro Sin Mecate",
+        "url": "https://open.spotify.com/album/7BRFJ2bJow1REP2KMGaWuA"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150173,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/1U9hpH4bYKAJkWqECeAQoW"
     },
     {
       "album": {
@@ -3562,7 +4744,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 167100,
       "name": "Los Colorados (feat. Banda los Escamilla)",
       "url": "https://open.spotify.com/track/5xLUgaS5V8x2cDfvdwH4Je"
@@ -3580,7 +4762,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 243825,
       "name": "Los Cuches",
       "url": "https://open.spotify.com/track/3c0Fmek5Efo3mB8OAoqZzs"
@@ -3598,7 +4780,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 244500,
       "name": "Los Duendes",
       "url": "https://open.spotify.com/track/0v96T9zjwT4qrwN0Igg7Lu"
@@ -3616,7 +4798,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 229338,
       "name": "Los elefantes",
       "url": "https://open.spotify.com/track/6OkrXMuLtT417yv4hPDpj0"
@@ -3652,7 +4834,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 214000,
       "name": "Los Espartanos",
       "url": "https://open.spotify.com/track/7BaWx5AU93Xw9Bx1ZS9p10"
@@ -3670,7 +4852,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 242912,
       "name": "Los Fuegos",
       "url": "https://open.spotify.com/track/4d9sAhCPvMmOkX72YkjZkz"
@@ -3688,7 +4870,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 242920,
       "name": "Los Fuegos",
       "url": "https://open.spotify.com/track/4AdlIFiWxXuH89BDtiNypP"
@@ -3706,7 +4888,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 234954,
       "name": "Los Ixtlahuaca",
       "url": "https://open.spotify.com/track/5RdrrkGOo9RjFqpKX0qD2I"
@@ -3724,7 +4906,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 200296,
       "name": "Los Marrucos",
       "url": "https://open.spotify.com/track/5ShKGqVshuemC2xz2qvRmF"
@@ -3742,7 +4924,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 192989,
       "name": "Los Mayeles - Sones para Jaripeo",
       "url": "https://open.spotify.com/track/6wpAMs81FDzTKIbrFtQWEN"
@@ -3760,7 +4942,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 195324,
       "name": "Los Reyes",
       "url": "https://open.spotify.com/track/03rfXJs9kRRP21HAjveV87"
@@ -3778,7 +4960,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 187200,
       "name": "Los Ticiclos",
       "url": "https://open.spotify.com/track/2X87JTFrO14BpxO6Br1GPr"
@@ -3796,7 +4978,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 113815,
       "name": "Los Tiliches",
       "url": "https://open.spotify.com/track/1U2jTpekjFgnXyiveocesL"
@@ -3839,6 +5021,24 @@
     },
     {
       "album": {
+        "name": "Nuestra Historia Musical, Vol. 2",
+        "url": "https://open.spotify.com/album/0Yhgl9hx6MrIS22dQgA72v"
+      },
+      "artists": [
+        {
+          "name": "Banda Ola Azul de Zirahuen",
+          "url": "https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187106,
+      "name": "L\u00e1grimas de Escarcha",
+      "url": "https://open.spotify.com/track/1pBUzaDnzFR50iT3To1YDs"
+    },
+    {
+      "album": {
         "name": "En Vivo (En vivo)",
         "url": "https://open.spotify.com/album/7re0ATJHhan7KHhNdy4a8V"
       },
@@ -3850,7 +5050,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 448261,
       "name": "L\u00e1grimas de Escarcha, Popurr\u00ed Peque\u00f1os - En vivo",
       "url": "https://open.spotify.com/track/4VkoWLVmZaGEq5TSPJ4jtk"
@@ -3886,10 +5086,64 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 218031,
       "name": "Mambo el Taconazo",
       "url": "https://open.spotify.com/track/2s3K5lkeQ2fbJkEXtBabPP"
+    },
+    {
+      "album": {
+        "name": "S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/56TpgQgxNfqtcLdtLBTDtc"
+      },
+      "artists": [
+        {
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240053,
+      "name": "Mar de Emociones",
+      "url": "https://open.spotify.com/track/6r4QWFwsnbXspVGycvUshM"
+    },
+    {
+      "album": {
+        "name": "Algo Diferente",
+        "url": "https://open.spotify.com/album/6DUPPsecgsYaufT8fgd1x4"
+      },
+      "artists": [
+        {
+          "name": "Banda La Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Jr6dl5qdP5GEVh3lF9Lsh"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195760,
+      "name": "Ma\u00f1ana Que Ya No Este",
+      "url": "https://open.spotify.com/track/6kiOi2oCqu3doAVFDaHvcp"
+    },
+    {
+      "album": {
+        "name": "Vamonos De Parranda",
+        "url": "https://open.spotify.com/album/7rBKdkXeIhVNE9aPxqaCWA"
+      },
+      "artists": [
+        {
+          "name": "Banda San Miguel",
+          "url": "https://open.spotify.com/artist/3t9TbuyBScRR9dOG4Yo7CG"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169440,
+      "name": "Media Vida",
+      "url": "https://open.spotify.com/track/6zETq3nWqwKYMi1phnNpck"
     },
     {
       "album": {
@@ -3904,7 +5158,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 441000,
       "name": "Medley: El Olotito / El Toro Viejo / El Sinaloense / La Imagen De Malverde - En Vivo",
       "url": "https://open.spotify.com/track/4QaZC2yYRWx60342ibZBsT"
@@ -3922,10 +5176,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 210051,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/1Gu1w9QIpbUBGslO1SQf0x"
+    },
+    {
+      "album": {
+        "name": "Un Sue\u00f1o Hecho Realidad",
+        "url": "https://open.spotify.com/album/6dvw2yoDvVBYTtoxqAfXG9"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Mendoza",
+          "url": "https://open.spotify.com/artist/5Ihzx2NafZh3IfIWrvakpW"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196620,
+      "name": "Mejor Que Sea Para T\u00ed",
+      "url": "https://open.spotify.com/track/5AdGihj4PqdfpRaveq5rTn"
     },
     {
       "album": {
@@ -3944,10 +5216,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 214660,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/7KO71cWh7nLpr2jZouUMH2"
+    },
+    {
+      "album": {
+        "name": "A Fuego Lento",
+        "url": "https://open.spotify.com/album/4xOd9BPF7QpEeLdodGm65G"
+      },
+      "artists": [
+        {
+          "name": "La Inolvidable Banda Agua De La Llave",
+          "url": "https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204706,
+      "name": "Mi Fantas\u00eda",
+      "url": "https://open.spotify.com/track/0HrC4HFpejgJtrUlQrN33W"
     },
     {
       "album": {
@@ -3962,10 +5252,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 456568,
       "name": "Mi Gusto Es, el Sauce y la Palma, el Sinaloense - En vivo",
       "url": "https://open.spotify.com/track/6o6YGtJboieJkXU0vOrvqM"
+    },
+    {
+      "album": {
+        "name": "\u00a1\u00a1La Explosiva!!",
+        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
+          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249400,
+      "name": "Mi Historia Entre Tus Dedos",
+      "url": "https://open.spotify.com/track/1MxaCsMrTM64R4bd1KYCld"
     },
     {
       "album": {
@@ -3980,10 +5288,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 162051,
       "name": "Micaela",
       "url": "https://open.spotify.com/track/0bqEZKCvN08vkoFYHZFIs0"
+    },
+    {
+      "album": {
+        "name": "Tu Destino",
+        "url": "https://open.spotify.com/album/7gcIpOcpiKtTwYxFMQujGv"
+      },
+      "artists": [
+        {
+          "name": "Banda San Jose De Mesillas",
+          "url": "https://open.spotify.com/artist/3YGCC3e19tclOUN2vLq78o"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172640,
+      "name": "Mirando las Estrellas",
+      "url": "https://open.spotify.com/track/5HyFl1KMsKnwuczivMoVKH"
     },
     {
       "album": {
@@ -3998,7 +5324,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 202213,
       "name": "Molinos de Viento",
       "url": "https://open.spotify.com/track/2BuoQBZjRyURbV30s5e8B6"
@@ -4034,7 +5360,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 204225,
       "name": "Muchacha Triste",
       "url": "https://open.spotify.com/track/1UdfT4VxUvsUrElRrC5bUZ"
@@ -4052,7 +5378,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 464222,
       "name": "Muertero Alpha",
       "url": "https://open.spotify.com/track/1zDrlVhJ2OtoR2IcLbnwMR"
@@ -4070,7 +5396,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 200736,
       "name": "Muevelo",
       "url": "https://open.spotify.com/track/79Lp5cDx7sWQOCJnqOkKZT"
@@ -4092,7 +5418,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 217894,
       "name": "Mujer Alegre",
       "url": "https://open.spotify.com/track/7eKL6KLXRYboZ74w0138qx"
@@ -4110,7 +5436,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 160011,
       "name": "Mujer Interesada",
       "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
@@ -4132,6 +5458,42 @@
       "duration_ms": 241382,
       "name": "No Bailes De Caballito",
       "url": "https://open.spotify.com/track/1yOLrH7nF0R7MWDuuva6va"
+    },
+    {
+      "album": {
+        "name": "Lo Dejar\u00eda Todo",
+        "url": "https://open.spotify.com/album/1wCQwyB4zWv8aeKKEmX7RP"
+      },
+      "artists": [
+        {
+          "name": "La Incontenible Banda Astilleros",
+          "url": "https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182439,
+      "name": "No Me Dejes Tan Solo",
+      "url": "https://open.spotify.com/track/0FDCMtJNlmnkR1L3Svh0MI"
+    },
+    {
+      "album": {
+        "name": "Vamonos De Parranda",
+        "url": "https://open.spotify.com/album/7rBKdkXeIhVNE9aPxqaCWA"
+      },
+      "artists": [
+        {
+          "name": "Banda San Miguel",
+          "url": "https://open.spotify.com/artist/3t9TbuyBScRR9dOG4Yo7CG"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160583,
+      "name": "No Me Hagas Menos",
+      "url": "https://open.spotify.com/track/5Y8bTZOwq8f37WgB4mJw9Z"
     },
     {
       "album": {
@@ -4171,6 +5533,24 @@
     },
     {
       "album": {
+        "name": "50 Aniversario",
+        "url": "https://open.spotify.com/album/2x3cai6jUrOvoM7zHK3dIw"
+      },
+      "artists": [
+        {
+          "name": "Banda Joroches la Grande",
+          "url": "https://open.spotify.com/artist/2fummoqyKMvR2Qp5zHdtZS"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201587,
+      "name": "No Podras",
+      "url": "https://open.spotify.com/track/67GehMrHZ2Czx8ekkqrrok"
+    },
+    {
+      "album": {
         "name": "Exitos De Banda M-1",
         "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
       },
@@ -4207,6 +5587,24 @@
     },
     {
       "album": {
+        "name": "Por Siempre te Amar\u00e9",
+        "url": "https://open.spotify.com/album/6BPyJaUpC3fr9LEugsaRyt"
+      },
+      "artists": [
+        {
+          "name": "Banda Tarasque\u00f1a",
+          "url": "https://open.spotify.com/artist/0TM4GEPsXkNdX6YyjHk1ap"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162925,
+      "name": "Nomas las mujeres quedan",
+      "url": "https://open.spotify.com/track/64G7duqBTw2xLrzs2JrtEM"
+    },
+    {
+      "album": {
         "name": "Maldito Amor",
         "url": "https://open.spotify.com/album/5SIISu6xVN5wSgd81gsU8A"
       },
@@ -4236,7 +5634,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 205896,
       "name": "Olvidarte Nunca",
       "url": "https://open.spotify.com/track/7tWICPm8yuw1omLZvZgKiT"
@@ -4254,7 +5652,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 228090,
       "name": "Ombligo Muertero",
       "url": "https://open.spotify.com/track/7Fzc7PWW5a6xAsicr6r4GZ"
@@ -4290,7 +5688,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 168600,
       "name": "Orde\u00f1ando la Vaca",
       "url": "https://open.spotify.com/track/0zfzPt18qFfK0FV6L4AYYB"
@@ -4356,10 +5754,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 293149,
       "name": "Pachanga Muertera",
       "url": "https://open.spotify.com/track/0xGGdD10nHxj2tFX4r5yDC"
+    },
+    {
+      "album": {
+        "name": "Seguimos Caminando",
+        "url": "https://open.spotify.com/album/7dFXCaJtimLghY9jzInLCE"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Santa Rosa",
+          "url": "https://open.spotify.com/artist/5ZiP7QnmyzZhbfvzSCOB2o"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233173,
+      "name": "Pajarillo",
+      "url": "https://open.spotify.com/track/7dt0V7eUO9v9PHrakuwIxz"
     },
     {
       "album": {
@@ -4374,10 +5790,32 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 152400,
       "name": "Palillos Chinos - En Vivo",
       "url": "https://open.spotify.com/track/4INNovqJJ4umIRINUqQTRJ"
+    },
+    {
+      "album": {
+        "name": "Tu Pirata Soy Yo",
+        "url": "https://open.spotify.com/album/3amZ4jwzwHYsBxLmovAnIL"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        },
+        {
+          "name": "Salvador Ya\u00f1ez",
+          "url": "https://open.spotify.com/artist/1ER7kw9u3miriELlOluY3e"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141226,
+      "name": "Papalotito",
+      "url": "https://open.spotify.com/track/3HhRc6Adpn1kiLv8G6ayhq"
     },
     {
       "album": {
@@ -4392,7 +5830,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 164186,
       "name": "Pavido Navido",
       "url": "https://open.spotify.com/track/4TCyAMh1wveeFD1lFVAvIY"
@@ -4410,10 +5848,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 197160,
       "name": "Payaso De Rodeo",
       "url": "https://open.spotify.com/track/5kHvFLCs3CCohm5x1uUXLe"
+    },
+    {
+      "album": {
+        "name": "Fuiste Mala",
+        "url": "https://open.spotify.com/album/4W75juK5G8OQ7Ge5KfgyIA"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra de Juarez",
+          "url": "https://open.spotify.com/artist/4NYzT76CszgQ6Hc9Q5GMwq"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170986,
+      "name": "Pedida y Dada",
+      "url": "https://open.spotify.com/track/3FV2LcSXDx7NdveU5ctgxP"
     },
     {
       "album": {
@@ -4428,7 +5884,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 196736,
       "name": "Pelea De Gallos - En Vivo",
       "url": "https://open.spotify.com/track/0Ytws5SI0vLt2uPWvkgsj0"
@@ -4446,7 +5902,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 461557,
       "name": "Pelea de Gallos/Nacidos Para Ser Salvajes/El Pistolero",
       "url": "https://open.spotify.com/track/3OvdJxMQQw1FY3HzlZ2zyz"
@@ -4471,6 +5927,24 @@
     },
     {
       "album": {
+        "name": "Banda Perla Sinaloense de Pino Ch\u00e1vez \u00a1\u00a1los Reyes del Pacifico!! 20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5vyuu9TueifSmjsM530UNz"
+      },
+      "artists": [
+        {
+          "name": "Banda Perla Sinaloense",
+          "url": "https://open.spotify.com/artist/2Ysj731OPZwYQq4LvFEKCN"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179969,
+      "name": "Peque\u00f1a de Ojos Brujos",
+      "url": "https://open.spotify.com/track/4ks2HZOwWoEepiIo0lOMQS"
+    },
+    {
+      "album": {
         "name": "Se Les Pel\u00f3 Baltazar",
         "url": "https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX"
       },
@@ -4482,7 +5956,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 185560,
       "name": "Peque\u00f1a de Ojos Brujos",
       "url": "https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u"
@@ -4518,7 +5992,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 204400,
       "name": "Peque\u00f1a de Ojos Brujos - En Vivo",
       "url": "https://open.spotify.com/track/0S9xEykYHXkCCknD6DSyvf"
@@ -4536,7 +6010,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 178590,
       "name": "Peque\u00f1a Orgullosa",
       "url": "https://open.spotify.com/track/01Ql3SAvnNIXQRO4Ajjwyl"
@@ -4558,10 +6032,46 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 277261,
       "name": "PERFECTA",
       "url": "https://open.spotify.com/track/18xpMU3wWfTOf99P2iO9rW"
+    },
+    {
+      "album": {
+        "name": "Las 16 Grandes De Cuisillos",
+        "url": "https://open.spotify.com/album/0tjaVM27EuuzWlgGfHR7pV"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195613,
+      "name": "Perro Aguayo",
+      "url": "https://open.spotify.com/track/672abP2L1VRaqVK6G3hFZK"
+    },
+    {
+      "album": {
+        "name": "Puras Carnavaleras, Vol. 1",
+        "url": "https://open.spotify.com/album/0Bj9gYecHspcizWQ7JaEvn"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118186,
+      "name": "Pica Perica",
+      "url": "https://open.spotify.com/track/0DsQSFHjzyjKlF0jjjPobe"
     },
     {
       "album": {
@@ -4576,7 +6086,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 130634,
       "name": "Pica Perica",
       "url": "https://open.spotify.com/track/3o9Hwlv4ED9L9MNzT4XJEP"
@@ -4594,7 +6104,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 156373,
       "name": "Pica Perica - En Vivo Desde El Rancho",
       "url": "https://open.spotify.com/track/3rRsyxWKh1znG601xHefUN"
@@ -4612,7 +6122,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 286850,
       "name": "Popurri Banda El Mexicano (Que Le Pasa A Lupita, Feliz Feliz,Ramito De Violetas)",
       "url": "https://open.spotify.com/track/6zbLGCjIPY4U4jQzpcq32H"
@@ -4630,7 +6140,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 325035,
       "name": "Popurri Coste\u00f1o: Pinotepa / San Marque\u00f1a / Son Coste\u00f1o",
       "url": "https://open.spotify.com/track/38dVZC4WrDThcgunQLD8Mg"
@@ -4666,10 +6176,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 251933,
       "name": "Popurri Fregon: Carnaval, El Buey De La Barranca, Serian Las Dos, La Mariguana",
       "url": "https://open.spotify.com/track/5Kv8b5skMVvucgC4Ca6lHD"
+    },
+    {
+      "album": {
+        "name": "Locos Y Enamorados",
+        "url": "https://open.spotify.com/album/3qe7jtt2fYkreLI5fncfGt"
+      },
+      "artists": [
+        {
+          "name": "Banda El Terre De Jerez",
+          "url": "https://open.spotify.com/artist/2zop35FJ6EO4BO4fUzaBx1"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223533,
+      "name": "Popurri Los Chinelos",
+      "url": "https://open.spotify.com/track/7cxpRBF8RGFQzKnRnMK2Wn"
     },
     {
       "album": {
@@ -4684,10 +6212,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 386008,
       "name": "Popurri Majestuoso",
       "url": "https://open.spotify.com/track/3VzHdyc3YlFE8vZDzggbXi"
+    },
+    {
+      "album": {
+        "name": "Puros Popurris De Sones",
+        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199706,
+      "name": "Popurri Michoacano ... El Son Del P\u00e1lomino / El Son Del Gallito / El Zapatazo / Cara De Pingo",
+      "url": "https://open.spotify.com/track/7mwhO5vDMaFn9kuRSdamQU"
     },
     {
       "album": {
@@ -4702,7 +6248,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 284508,
       "name": "Popurri Muertero",
       "url": "https://open.spotify.com/track/4Gb5M3mRdEJ6o1PRShy37z"
@@ -4738,10 +6284,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 272973,
       "name": "Popurri: El Sinaloense, El Pavido Navido, Loba Del Mal - En Vivo",
       "url": "https://open.spotify.com/track/0Y7HPyhueTL2Vk78FqhINF"
+    },
+    {
+      "album": {
+        "name": "Pa' el Rancho",
+        "url": "https://open.spotify.com/album/6YdVEVEX0vh29MTdNak7WI"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Escamilla, La Consentida De Jerez",
+          "url": "https://open.spotify.com/artist/04OQj8XuAlsDeOXpN3nnXt"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217570,
+      "name": "Popurr\u00ed - Instrumental",
+      "url": "https://open.spotify.com/track/63aj9W62Wmj7F4HLWKokJ1"
     },
     {
       "album": {
@@ -4756,10 +6320,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 283610,
       "name": "Popurr\u00ed Arriba Guerrero Cochos (En Vivo)",
       "url": "https://open.spotify.com/track/6pyIvSQXU7Sp8AFU8soz1H"
+    },
+    {
+      "album": {
+        "name": "Y Si Lloro \u00bfQu\u00e9?",
+        "url": "https://open.spotify.com/album/6ZEW8eKA3azRoOIXpgse4q"
+      },
+      "artists": [
+        {
+          "name": "La Unica Flor De Chirimoyo",
+          "url": "https://open.spotify.com/artist/7H68WnqkPEXWadoCUkXKD9"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218618,
+      "name": "Popurr\u00ed Chalino Sanchez: Alma Enamorada/Florita del Alma/Prenda del Alma",
+      "url": "https://open.spotify.com/track/46abDfJPSEfV23d3XtjDoL"
     },
     {
       "album": {
@@ -4774,7 +6356,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 333255,
       "name": "Popurr\u00ed Chinelos - Live",
       "url": "https://open.spotify.com/track/06gp28M86wRG1vwCVlqwiU"
@@ -4810,7 +6392,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 260160,
       "name": "Popurr\u00ed Cumbias: La Yaquecita / La Cumbia Bonita / El Aparatito",
       "url": "https://open.spotify.com/track/4Y9RNuHmJXcQhnPFt3DVcM"
@@ -4828,7 +6410,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 622257,
       "name": "Popurr\u00ed de Chilenas: Las Amarillas / El Barco / La Divina Garza - En Vivo",
       "url": "https://open.spotify.com/track/7381wc2gJaYWHPBzxkVWhL"
@@ -4846,7 +6428,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 296489,
       "name": "Popurr\u00ed de Merengues: Quien Linda Eres / Que Levanten las Manos / La Pachanga",
       "url": "https://open.spotify.com/track/47pRkq0uO2vFBcm8ZamkNc"
@@ -4864,10 +6446,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 244128,
       "name": "Popurr\u00ed Inolvidable",
       "url": "https://open.spotify.com/track/1fLcVVg30LRIGhRbm8GSiC"
+    },
+    {
+      "album": {
+        "name": "Te Empec\u00e9 a Extra\u00f1ar",
+        "url": "https://open.spotify.com/album/1bceThzg8e9C1EheOvusuA"
+      },
+      "artists": [
+        {
+          "name": "Banda Marinos",
+          "url": "https://open.spotify.com/artist/3tBspFP0ns4g9FNpbjPk3H"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254026,
+      "name": "Popurr\u00ed Invasores: Playa Sola/Aguanta Coraz\u00f3n/Eslab\u00f3n por Eslab\u00f3n",
+      "url": "https://open.spotify.com/track/1pPCjnjLVwIugREBhcrp3v"
     },
     {
       "album": {
@@ -4904,7 +6504,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 268277,
       "name": "Popurr\u00ed Oaxaque\u00f1o",
       "url": "https://open.spotify.com/track/5mvrqajA6O1mMS8WTG1ldj"
@@ -4922,7 +6522,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 364848,
       "name": "Popurr\u00ed sentimiento muertero",
       "url": "https://open.spotify.com/track/1svRIlt1sL0UfakQkYjQ6u"
@@ -4947,6 +6547,24 @@
     },
     {
       "album": {
+        "name": "Tengo Ganas",
+        "url": "https://open.spotify.com/album/06yZnYEl0BME5oUvYEKpPV"
+      },
+      "artists": [
+        {
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184146,
+      "name": "Popurr\u00ed: La Ventana S\u00f3nica / El Pavido Navido",
+      "url": "https://open.spotify.com/track/4sSnBOu3Psqvgyr2vUZqfh"
+    },
+    {
+      "album": {
         "name": "Me Hac\u00edan Falta Huevos",
         "url": "https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI"
       },
@@ -4962,10 +6580,50 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 509826,
       "name": "Popurr\u00ed: Las Vaquillas Cabronas",
       "url": "https://open.spotify.com/track/0mFUqKd7VxTNNMfHefoxwS"
+    },
+    {
+      "album": {
+        "name": "Por Azares Del Destino",
+        "url": "https://open.spotify.com/album/1awzdblHgfLODzhbegOYVf"
+      },
+      "artists": [
+        {
+          "name": "Chuyin Barajas",
+          "url": "https://open.spotify.com/artist/6Hpd51SWB7Uyhk9fejRhgv"
+        },
+        {
+          "name": "Mariano Barba",
+          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301533,
+      "name": "Por Azares Del Destino",
+      "url": "https://open.spotify.com/track/1aCHg0OKSAapxOLViPgMjP"
+    },
+    {
+      "album": {
+        "name": "Por Qu\u00e9 Tuvo Que Ser As\u00ed",
+        "url": "https://open.spotify.com/album/1e74AMslLcHxco2sSGlHWa"
+      },
+      "artists": [
+        {
+          "name": "La Dominante Banda El Cerrito",
+          "url": "https://open.spotify.com/artist/28l8bvu5chmKFGgOFahiTJ"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251193,
+      "name": "Por Qu\u00e9 Tuvo Que Ser As\u00ed",
+      "url": "https://open.spotify.com/track/0d2StOcgqUUrPwDU8If4kN"
     },
     {
       "album": {
@@ -5002,7 +6660,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 178677,
       "name": "Primero De Noviembre",
       "url": "https://open.spotify.com/track/2hFOf9kvOU5JXtSY7TPkg5"
@@ -5020,7 +6678,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 164836,
       "name": "Provocame",
       "url": "https://open.spotify.com/track/7D80SmsIul0qbxOGr0U1ao"
@@ -5038,10 +6696,46 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 180106,
       "name": "Prov\u00f3came",
       "url": "https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs"
+    },
+    {
+      "album": {
+        "name": "Junto Al Mar",
+        "url": "https://open.spotify.com/album/63t6D4VvWmKjesaa9rfywF"
+      },
+      "artists": [
+        {
+          "name": "Banda Cana Verde",
+          "url": "https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177706,
+      "name": "Que Bonito",
+      "url": "https://open.spotify.com/track/35Z9JAZSJ4RfeoqZ17nC9F"
+    },
+    {
+      "album": {
+        "name": "Puras De Tierra Caliente, Vol.1",
+        "url": "https://open.spotify.com/album/7AWj3tBWz88OOw9lc9qmAH"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171119,
+      "name": "Que Chulos Ojos",
+      "url": "https://open.spotify.com/track/0zALRf2e60IrUBcwbOpEgN"
     },
     {
       "album": {
@@ -5056,7 +6750,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 118108,
       "name": "Que Siga la Danza",
       "url": "https://open.spotify.com/track/7nN45Pr3OjJh7xFsCr4YjG"
@@ -5082,10 +6776,46 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 305812,
       "name": "Que Siga La Pachanga",
       "url": "https://open.spotify.com/track/7j3cl0TJaGIYUALltN0SE4"
+    },
+    {
+      "album": {
+        "name": "A Toda Banda",
+        "url": "https://open.spotify.com/album/7jyz55KBdeCwif2pq9gjTG"
+      },
+      "artists": [
+        {
+          "name": "Banda 3 Rios",
+          "url": "https://open.spotify.com/artist/4z83zwAK572NpPQFQu7Jgv"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166920,
+      "name": "Querete Jamas",
+      "url": "https://open.spotify.com/track/7h6TuzNNCWk26XqK9YwtKU"
+    },
+    {
+      "album": {
+        "name": "Siento Lastima por Mi",
+        "url": "https://open.spotify.com/album/4egegXPyT5dVjG6TQDXORa"
+      },
+      "artists": [
+        {
+          "name": "Chuyin Barajas Y Su Banda Azucarada",
+          "url": "https://open.spotify.com/artist/32GESgDl1eMq7mE829KCST"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204066,
+      "name": "Quiereme Como Te Quiero",
+      "url": "https://open.spotify.com/track/3dkn97OeaMFq59oEeaOn24"
     },
     {
       "album": {
@@ -5100,7 +6830,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 137106,
       "name": "Quincho Barrilete",
       "url": "https://open.spotify.com/track/2BvyP0pGJXJE1GnpotRNZq"
@@ -5118,7 +6848,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 198133,
       "name": "Qu\u00edtate El Zapato",
       "url": "https://open.spotify.com/track/0NSg3mf1Zjvf4PafCQCB2Q"
@@ -5136,7 +6866,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 224850,
       "name": "Ramito de Violetas",
       "url": "https://open.spotify.com/track/1hrjNAO6n6MROONedlyW0v"
@@ -5154,7 +6884,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 203250,
       "name": "Rango",
       "url": "https://open.spotify.com/track/14MqJ2WwUb4paICqDNxnf2"
@@ -5172,7 +6902,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 203250,
       "name": "Rango",
       "url": "https://open.spotify.com/track/55Ei2ZddpgUZEtynGfgANt"
@@ -5190,7 +6920,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 237818,
       "name": "Rango - En vivo",
       "url": "https://open.spotify.com/track/2qjAGhDr1Awp53u86bpAFY"
@@ -5208,10 +6938,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 188264,
       "name": "Ritmo Mejor",
       "url": "https://open.spotify.com/track/6zhA0paztfQohNcqgOxL3K"
+    },
+    {
+      "album": {
+        "name": "Un Sue\u00f1o Hecho Realidad",
+        "url": "https://open.spotify.com/album/6dvw2yoDvVBYTtoxqAfXG9"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Mendoza",
+          "url": "https://open.spotify.com/artist/5Ihzx2NafZh3IfIWrvakpW"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140094,
+      "name": "Rosa Rosita",
+      "url": "https://open.spotify.com/track/2hpqsqou6JUenpVHHCZsyi"
     },
     {
       "album": {
@@ -5226,7 +6974,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 211121,
       "name": "Rumbo A La Canada",
       "url": "https://open.spotify.com/track/6VZzJ19D47BGoZua2Ht7yD"
@@ -5298,10 +7046,46 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 180337,
       "name": "Sangoloteadito",
       "url": "https://open.spotify.com/track/2s678Tz6mme5OV9DfTUUoD"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jate Llevar",
+        "url": "https://open.spotify.com/album/0vlUHJGLk5Jov2Tgc64biB"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121991,
+      "name": "Sentimiento De Dolor",
+      "url": "https://open.spotify.com/track/3B0Wqqv6N7BSERdjncqnOe"
+    },
+    {
+      "album": {
+        "name": "12 Temas",
+        "url": "https://open.spotify.com/album/6hPxsthWCeH7mBBbGHnylX"
+      },
+      "artists": [
+        {
+          "name": "Banda Perla De Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2ensvIDANP7J8Y81kmno84"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Sera Porque Te Amo",
+      "url": "https://open.spotify.com/track/6aVNDcT9xLJ9DwXsr4TWZt"
     },
     {
       "album": {
@@ -5341,6 +7125,24 @@
     },
     {
       "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/7oofCuAPjsgKh3RYLuc2T8"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Santa Rosa",
+          "url": "https://open.spotify.com/artist/5ZiP7QnmyzZhbfvzSCOB2o"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198813,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/4JfMdJ3nqAW2GwVtGkeICm"
+    },
+    {
+      "album": {
         "name": "Sin Miedo Al Toro",
         "url": "https://open.spotify.com/album/2X4uzJ9nJhpjwRyB795jar"
       },
@@ -5352,10 +7154,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 199420,
       "name": "Sin Miedo Al Toro",
       "url": "https://open.spotify.com/track/5B1R4vTA5UdFDPpcy0PckR"
+    },
+    {
+      "album": {
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221857,
+      "name": "Solo T\u00fa",
+      "url": "https://open.spotify.com/track/7cA72Gk1dqN6w5j0azVHYR"
     },
     {
       "album": {
@@ -5370,7 +7190,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 186250,
       "name": "Somos Abaje\u00f1os",
       "url": "https://open.spotify.com/track/4HMUiCpvm2ZJnkqqVvPtUn"
@@ -5388,7 +7208,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 186250,
       "name": "Somos Abaje\u00f1os - Versi\u00f3n Muerteada",
       "url": "https://open.spotify.com/track/5tlF5t8d0dEq0drOAKoG6y"
@@ -5410,7 +7230,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 194609,
       "name": "Somos Arribe\u00f1os",
       "url": "https://open.spotify.com/track/5Lznp4li3oBwngmwK1ZDpF"
@@ -5428,7 +7248,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 203034,
       "name": "Son Chirimitero",
       "url": "https://open.spotify.com/track/5IViXs5ZmfMIAMB5ErtM91"
@@ -5446,7 +7266,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 167746,
       "name": "Son de la Cotorra",
       "url": "https://open.spotify.com/track/58Giumsuoa58XMfSUca4pF"
@@ -5482,7 +7302,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 306746,
       "name": "Son de los Enanos / La Loba / El Son de la Chiclanera",
       "url": "https://open.spotify.com/track/5BHkIfsEOJCCBvxWAGjtBC"
@@ -5500,10 +7320,28 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 193866,
       "name": "Son del Zanate",
       "url": "https://open.spotify.com/track/5m0dabl9IL1bPZ2aYwzIRm"
+    },
+    {
+      "album": {
+        "name": "15 Aniversario",
+        "url": "https://open.spotify.com/album/5nIe1Rb2LZHb0knEt8fHLJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Tecateando",
+          "url": "https://open.spotify.com/artist/2uWjEIYCwEoNTL37llzsfe"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242207,
+      "name": "Sones Tecateando",
+      "url": "https://open.spotify.com/track/0UrHzYYNOXu4i6SQxPjyLh"
     },
     {
       "album": {
@@ -5525,6 +7363,96 @@
     },
     {
       "album": {
+        "name": "Por Siempre te Amar\u00e9",
+        "url": "https://open.spotify.com/album/6BPyJaUpC3fr9LEugsaRyt"
+      },
+      "artists": [
+        {
+          "name": "Banda Tarasque\u00f1a",
+          "url": "https://open.spotify.com/artist/0TM4GEPsXkNdX6YyjHk1ap"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191947,
+      "name": "Suerte he Tenido",
+      "url": "https://open.spotify.com/track/2wVRK5JxWxmFfhkdfKDxW7"
+    },
+    {
+      "album": {
+        "name": "Cada Amanecer",
+        "url": "https://open.spotify.com/album/71OF2FGR7cCkrrwvHrOZmf"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179573,
+      "name": "Sufriendo Por Ti",
+      "url": "https://open.spotify.com/track/41zxFE1IROf6He43b0RwUd"
+    },
+    {
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/0n4f0enYF1I4Ct3z4blIIw"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175185,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/7f2o7SPRczU0LryE4dRXEP"
+    },
+    {
+      "album": {
+        "name": "Como Poder Olvidarte",
+        "url": "https://open.spotify.com/album/2AGLHQZZxdjubRK5u4flkY"
+      },
+      "artists": [
+        {
+          "name": "Banda Cana Verde",
+          "url": "https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Te Llevaste Lo Mejor",
+      "url": "https://open.spotify.com/track/3PlCV1s0pcRabHlwaG3qgQ"
+    },
+    {
+      "album": {
+        "name": "Te Lo Pido",
+        "url": "https://open.spotify.com/album/6QuKviXVXMDplJfiUbTTXf"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Liz\u00e1rraga y Su Banda Estrellas De Sinaloa",
+          "url": "https://open.spotify.com/artist/0KoGbH9aGFl1wpahAOb3co"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174986,
+      "name": "Te Lo Pido",
+      "url": "https://open.spotify.com/track/5snf5Fl2ly9i9Rwel8w53W"
+    },
+    {
+      "album": {
         "name": "Testarudos",
         "url": "https://open.spotify.com/album/4PEQR2ymBFQM52KKrMHo4o"
       },
@@ -5536,7 +7464,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 224161,
       "name": "Testarudos",
       "url": "https://open.spotify.com/track/1WcdX8El1ef8n1ZLJhhqKb"
@@ -5554,7 +7482,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 381570,
       "name": "Tiene Espinas el Rosal, I Love Baby - En vivo",
       "url": "https://open.spotify.com/track/2gaXIjuQ2asmQVgSrXHtpj"
@@ -5579,6 +7507,24 @@
     },
     {
       "album": {
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/0RceP0FDPLhcrgZr9RLH1T"
+      },
+      "artists": [
+        {
+          "name": "Banda Saucillos",
+          "url": "https://open.spotify.com/artist/7GYiK9mf189oBct9fTjleK"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163375,
+      "name": "Traficante de Besos",
+      "url": "https://open.spotify.com/track/0h03vNBwPLmcbwA40tZhcA"
+    },
+    {
+      "album": {
         "name": "Trakareyna",
         "url": "https://open.spotify.com/album/6g6pTkGqXHPETrOH8zTpr3"
       },
@@ -5594,10 +7540,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 204870,
       "name": "Trakareyna",
       "url": "https://open.spotify.com/track/4qd5dEcytoS0QpuUSSH9hd"
+    },
+    {
+      "album": {
+        "name": "Por Azares Del Destino",
+        "url": "https://open.spotify.com/album/1awzdblHgfLODzhbegOYVf"
+      },
+      "artists": [
+        {
+          "name": "Chuyin Barajas",
+          "url": "https://open.spotify.com/artist/6Hpd51SWB7Uyhk9fejRhgv"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204266,
+      "name": "Tu Bendito Amor",
+      "url": "https://open.spotify.com/track/5EsR4osYnNaBZuHV9LO2HT"
     },
     {
       "album": {
@@ -5612,10 +7576,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 598339,
       "name": "Tu Legado",
       "url": "https://open.spotify.com/track/6SLgGwCg577WxNm2CSZIgd"
+    },
+    {
+      "album": {
+        "name": "Voy Navegando",
+        "url": "https://open.spotify.com/album/4xFqpNFQ9rIpPN8DkGzU1i"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169960,
+      "name": "Tu Loco Enamorado",
+      "url": "https://open.spotify.com/track/2ZqlBJsKKqmq7UGyGf20Y1"
     },
     {
       "album": {
@@ -5630,10 +7612,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 300486,
       "name": "Tumba Tumba/La Danza Del Coyote/la Viejita",
       "url": "https://open.spotify.com/track/5YQfIbj3nzx8ptpKsO5xdk"
+    },
+    {
+      "album": {
+        "name": "\u00c9chame a M\u00ed la Culpa",
+        "url": "https://open.spotify.com/album/3CJawHzU1aC496bwesxn4g"
+      },
+      "artists": [
+        {
+          "name": "Banda El Cerrito",
+          "url": "https://open.spotify.com/artist/6Jif2ZLT9goRk2yXn9kbWf"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178973,
+      "name": "T\u00fa Qu\u00e9 Dijiste",
+      "url": "https://open.spotify.com/track/5cdKDPs88la202n66nQVuw"
     },
     {
       "album": {
@@ -5670,6 +7670,24 @@
       "duration_ms": 197133,
       "name": "Vanidosa",
       "url": "https://open.spotify.com/track/4iN0LgZ4SwAIVJ7VRrsd27"
+    },
+    {
+      "album": {
+        "name": "Desde Hoy",
+        "url": "https://open.spotify.com/album/3ZqEFhGLCxijMCkOX4B9Vm"
+      },
+      "artists": [
+        {
+          "name": "Banda El Limoncito de Sotero Rodriguez A.",
+          "url": "https://open.spotify.com/artist/28emUlYrT1F2xErwZXJlwz"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167444,
+      "name": "Vestida de Color de Rosa",
+      "url": "https://open.spotify.com/track/2oSzQHpznJMlkSEq4v0iCw"
     },
     {
       "album": {
@@ -5720,7 +7738,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 153270,
       "name": "Vive la Fiesta",
       "url": "https://open.spotify.com/track/21gkWaWfC2vRxBqWeHBaCh"
@@ -5738,10 +7756,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 211354,
       "name": "Volver\u00e9",
       "url": "https://open.spotify.com/track/7haCcc2HGLxpVY7Mkth9Ht"
+    },
+    {
+      "album": {
+        "name": "Voy Navegando",
+        "url": "https://open.spotify.com/album/4xFqpNFQ9rIpPN8DkGzU1i"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128466,
+      "name": "Voy Navegando",
+      "url": "https://open.spotify.com/track/2zVLuZ0m8UJxNOgn0V3QlH"
     },
     {
       "album": {
@@ -5756,10 +7792,28 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 176880,
       "name": "Vuela Vuela",
       "url": "https://open.spotify.com/track/2ewBTrXZYTPzwvx5KGYYIe"
+    },
+    {
+      "album": {
+        "name": "Por Qu\u00e9 Tuvo Que Ser As\u00ed",
+        "url": "https://open.spotify.com/album/1e74AMslLcHxco2sSGlHWa"
+      },
+      "artists": [
+        {
+          "name": "La Dominante Banda El Cerrito",
+          "url": "https://open.spotify.com/artist/28l8bvu5chmKFGgOFahiTJ"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212810,
+      "name": "Vuelve Mi Amor",
+      "url": "https://open.spotify.com/track/6DLPZShath7PjBNLRSPNbN"
     },
     {
       "album": {
@@ -5774,7 +7828,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 192592,
       "name": "Xooj Teem (Bellota)",
       "url": "https://open.spotify.com/track/6VUJxofOaZOuyyayL2mDYe"
@@ -5792,10 +7846,46 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 246903,
       "name": "Y Claro Que Se Puede - Sones para Jaripeo",
       "url": "https://open.spotify.com/track/5HH3ziXLVxqXYnDk7mJkLf"
+    },
+    {
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/3l1WYYy8xMhV5rHrho4Zg0"
+      },
+      "artists": [
+        {
+          "name": "Banda Karembe",
+          "url": "https://open.spotify.com/artist/3Xda7rhPDdaISHJ783JnTb"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193306,
+      "name": "Ya No Llores M\u00e1s",
+      "url": "https://open.spotify.com/track/00TxzMdXAUeizfEowzFxWv"
+    },
+    {
+      "album": {
+        "name": "Alma De Acero",
+        "url": "https://open.spotify.com/album/1By7PI8hLMjEWx0yKiXzEP"
+      },
+      "artists": [
+        {
+          "name": "Banda San Jose De Mesillas",
+          "url": "https://open.spotify.com/artist/3YGCC3e19tclOUN2vLq78o"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208226,
+      "name": "Yo Si Me Enamore",
+      "url": "https://open.spotify.com/track/3ba5VX6BakZhKWE8sEsqRg"
     },
     {
       "album": {
@@ -5810,7 +7900,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 154266,
       "name": "Zapateando Con La Banda",
       "url": "https://open.spotify.com/track/6lDjvoyKmgHhmKbLqtqoji"
@@ -5832,10 +7922,64 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 254226,
       "name": "Zombie Monstruoso",
       "url": "https://open.spotify.com/track/05jC1vdPfz79vk9HwXVcJX"
+    },
+    {
+      "album": {
+        "name": "El o Yo, Con Cual de los Dos",
+        "url": "https://open.spotify.com/album/1SJ9M1PvbA0DreHfRnL742"
+      },
+      "artists": [
+        {
+          "name": "La Unica Flor De Chirimoyo",
+          "url": "https://open.spotify.com/artist/7H68WnqkPEXWadoCUkXKD9"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205374,
+      "name": "\u00bfCon Cu\u00e1l de los Dos?",
+      "url": "https://open.spotify.com/track/5xRIoTvSA5pyjGLxHyYsuM"
+    },
+    {
+      "album": {
+        "name": "Te Empec\u00e9 a Extra\u00f1ar",
+        "url": "https://open.spotify.com/album/1bceThzg8e9C1EheOvusuA"
+      },
+      "artists": [
+        {
+          "name": "Banda Marinos",
+          "url": "https://open.spotify.com/artist/3tBspFP0ns4g9FNpbjPk3H"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168160,
+      "name": "\u00bfC\u00f3mo Est\u00e1s T\u00fa?",
+      "url": "https://open.spotify.com/track/41xt3AWYwR02hy45WRONGm"
+    },
+    {
+      "album": {
+        "name": "Banda La Pirinola",
+        "url": "https://open.spotify.com/album/2B1eN4sLg3mjruRkO0X5G5"
+      },
+      "artists": [
+        {
+          "name": "Banda La Pirinola",
+          "url": "https://open.spotify.com/artist/5PTt3pmQAnQwYOBVEAFU0Y"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190124,
+      "name": "\u00c9l",
+      "url": "https://open.spotify.com/track/239lPf098ZiH5n3rJi09rG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSv06P6ZnVVG"

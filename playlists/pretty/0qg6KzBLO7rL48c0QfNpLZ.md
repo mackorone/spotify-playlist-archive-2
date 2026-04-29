@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 107,003 likes - 83 songs - 3 hr 49 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 106,993 likes - 84 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,5 +91,6 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 81 | [Honest](https://open.spotify.com/track/0LWPhTRMJfWF5AipqXDPFX) | [just here.](https://open.spotify.com/artist/3e8DK3HacvVTlhoYlQOIAx), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Honest](https://open.spotify.com/album/3tuHwCcTGNeiBZaIOEKppT) | 2:33 |
 | 82 | [Alicante](https://open.spotify.com/track/4NfuYShHpqVocwgQ6IcZVe) | [Solara](https://open.spotify.com/artist/1M7CohuwV1Mgim4czMhWRe) | [Alicante](https://open.spotify.com/album/5WQsfObVbx023rGrM6JQrh) | 2:17 |
 | 83 | [Morning Sun](https://open.spotify.com/track/2x3oNXRXqn79zuGIeKRkkS) | [sûr faire](https://open.spotify.com/artist/20einaeE0SdJZVBGpPaQP2) | [Morning Sun](https://open.spotify.com/album/5YTzcSdg8SRUiSKieVB9aC) | 3:04 |
+| 84 | [No Me Canso \- Radio Mix](https://open.spotify.com/track/0boGSpPJPJy6Ugvu6a9n9K) | [SOMOS \(CH\)](https://open.spotify.com/artist/3CpCDugRWHfnYiufWFVtKD) | [No Me Canso](https://open.spotify.com/album/2IhpOEsTpdcO9XiiTccfTC) | 3:52 |
 
-Snapshot ID: `AAAkZmg5ha8MCqui4zkjq1PaHJ0wr9MO`
+Snapshot ID: `AAAkZ9751YssBdDbQHrWNjuXTEkxIS+w`

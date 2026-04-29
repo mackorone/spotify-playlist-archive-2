@@ -978,7 +978,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 189333,
       "name": "Ankhen Na Churao",
       "url": "https://open.spotify.com/track/0fZsiXFpZqsMvlhDQCaO1V"
@@ -1000,6 +1000,28 @@
       "duration_ms": 187317,
       "name": "Ankhiyan Nigodi",
       "url": "https://open.spotify.com/track/2gXCEGUg2zmQODJLfAVJmu"
+    },
+    {
+      "album": {
+        "name": "Ankhiyan Roye",
+        "url": "https://open.spotify.com/album/28jr23QVPgioV3LcXCkr7M"
+      },
+      "artists": [
+        {
+          "name": "Palak Muchhal",
+          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
+        },
+        {
+          "name": "Uddipan Sharma",
+          "url": "https://open.spotify.com/artist/0NFh0I6PVc02IebwluGscm"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195789,
+      "name": "Ankhiyan Roye",
+      "url": "https://open.spotify.com/track/4gjSfkLdSKAxsDZ4aj0RXb"
     },
     {
       "album": {
@@ -14492,7 +14514,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 194640,
       "name": "Tum Mere Na Huye - From \u201cThamma\u201d",
       "url": "https://open.spotify.com/track/1YbEjKKjS790uQkR0XCQ95"
@@ -15020,6 +15042,24 @@
       "duration_ms": 211205,
       "name": "Waah Sajna",
       "url": "https://open.spotify.com/track/1W09KnUmN919i5upuJXD2S"
+    },
+    {
+      "album": {
+        "name": "Want Me Now",
+        "url": "https://open.spotify.com/album/3NGHVxHZhA1wHEOfW5ZE3L"
+      },
+      "artists": [
+        {
+          "name": "Shai",
+          "url": "https://open.spotify.com/artist/4fXKzFtrAGS3gGyM0BKoKq"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113250,
+      "name": "Want Me Now",
+      "url": "https://open.spotify.com/track/3gMBt5IhScRORLg2XKNFyU"
     },
     {
       "album": {

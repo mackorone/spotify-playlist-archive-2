@@ -8381,6 +8381,24 @@
     },
     {
       "album": {
+        "name": "RGH",
+        "url": "https://open.spotify.com/album/2mJKHlDMoGq03Sqr91UaU4"
+      },
+      "artists": [
+        {
+          "name": "DNCR",
+          "url": "https://open.spotify.com/artist/5vtbcOgk8iFe6LF2paSK2u"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170279,
+      "name": "RGH",
+      "url": "https://open.spotify.com/track/55liuh0Oi1wNPwIJlBDwbu"
+    },
+    {
+      "album": {
         "name": "Right Hand Blue",
         "url": "https://open.spotify.com/album/6ruOu55fVOaJhxSOcwmJWc"
       },

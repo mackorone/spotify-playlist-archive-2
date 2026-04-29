@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "J-Rock acts who have broken the border and are making global impact.   Cover: \u6771\u4eac\u9152\u5410\u5ea7(Tokyo Shoegazer)",
+  "description": "J-Rock acts who have broken the border and are making global impact.   Cover: [Alexandros]",
   "name": "Rock Strike Japan",
   "tracks": [
     {
@@ -1867,6 +1867,24 @@
     },
     {
       "album": {
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/78wMwOnARAhRxBv7Q37XOl"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186285,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/3eFUpyUIWFMSQ3RvUpxZXu"
+    },
+    {
+      "album": {
         "name": "BOY 2022",
         "url": "https://open.spotify.com/album/3PGIfAOfGxRg5jTvZRXC8s"
       },
@@ -2242,7 +2260,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 231250,
       "name": "Burning",
       "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
@@ -3552,7 +3570,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 207000,
       "name": "Dreamer(PGR Ver.)",
       "url": "https://open.spotify.com/track/6SgkXBLwSENc1PsJQ9eOUx"
@@ -5531,6 +5549,24 @@
     },
     {
       "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/4LwP7u8UtMIJalMgZtu5EP"
+      },
+      "artists": [
+        {
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3aCu4VabG9Bynysh1jx3EK"
+    },
+    {
+      "album": {
         "name": "Hana Ni Nare (Ryu-Take 2023 ver.)",
         "url": "https://open.spotify.com/album/4ceieoHaWzTbiyJ1cuU5BN"
       },
@@ -6072,7 +6108,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 64733,
       "name": "I Don't Need To Be In Your Strike Zone",
       "url": "https://open.spotify.com/track/6pfgiW3ugfx2gSv1H9WY5W"
@@ -7216,7 +7252,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 200539,
       "name": "Kinetic",
       "url": "https://open.spotify.com/track/5tRuxhSW4ENtZI1sr63Xwg"
@@ -7416,7 +7452,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 324000,
       "name": "KUCHUBURANKO",
       "url": "https://open.spotify.com/track/1c2CyIh5XLIxbJv0s3z8MI"
@@ -10723,6 +10759,24 @@
     },
     {
       "album": {
+        "name": "Overwrite",
+        "url": "https://open.spotify.com/album/02SenfX2oLB1v4x4m0vtL1"
+      },
+      "artists": [
+        {
+          "name": "Fear, and Loathing in Las Vegas",
+          "url": "https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161399,
+      "name": "Overwrite",
+      "url": "https://open.spotify.com/track/5kEqMEdZRuzfXyxgMvkSYq"
+    },
+    {
+      "album": {
         "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
         "url": "https://open.spotify.com/album/3dGJibXKM0J2axOfKP9wmA"
       },
@@ -12258,7 +12312,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 323946,
       "name": "SAIKAI",
       "url": "https://open.spotify.com/track/1TmMyrEWgX3WILJsOD0IBp"
@@ -12656,6 +12710,24 @@
       "duration_ms": 220001,
       "name": "Secret Ceremony",
       "url": "https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV"
+    },
+    {
+      "album": {
+        "name": "Secret Dance Floor",
+        "url": "https://open.spotify.com/album/5X0jVOZlNSzFstItoXLK8D"
+      },
+      "artists": [
+        {
+          "name": "The Muddies",
+          "url": "https://open.spotify.com/artist/2zFsxadjvDk8KJz1lgxwXS"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147950,
+      "name": "Secret Dance Floor",
+      "url": "https://open.spotify.com/track/50TNSYBQdfpUvZn5k7Lfvb"
     },
     {
       "album": {
@@ -20060,7 +20132,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 193301,
       "name": "\u30a6\u30ef\u30b5\u306e\u3042\u306e\u5b50",
       "url": "https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u"
@@ -20438,7 +20510,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 240823,
       "name": "\u30af\u30a8\u30b9\u30c1\u30e7\u30f3",
       "url": "https://open.spotify.com/track/1Ix4GixUfVe2hJKZoY7H2n"

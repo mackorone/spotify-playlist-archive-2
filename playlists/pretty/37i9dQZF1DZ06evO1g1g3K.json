@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7049,
+  "num_followers": 7054,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae1VgAAAAAAtVsz2PE4FQZEpFf2bNLZ5",
+  "snapshot_id": "ae6nAAAAAAAYonZWfQa0XgkM4EQ1rql3",
   "tracks": [
     {
       "added_at": null,
@@ -176,7 +176,7 @@
           "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
         }
       ],
-      "duration_ms": 221400,
+      "duration_ms": 242875,
       "name": "Wild Ride",
       "url": "https://open.spotify.com/track/41X89JT5axSqQYozs2op40"
     },
@@ -280,7 +280,7 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 217987,
+      "duration_ms": 217662,
       "name": "AM I OKAY?!",
       "url": "https://open.spotify.com/track/7acblFUsVC2haLFRkHqlQZ"
     },
@@ -539,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sound Check",
-        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
+        "name": "Humo en la Trampa 3",
+        "url": "https://open.spotify.com/album/5q8hNRlU7Bzo0WOui0hbci"
       },
       "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
+      "duration_ms": 161929,
+      "name": "Get Paid (feat. Durand Bernarr)",
+      "url": "https://open.spotify.com/track/06YScHhrQUlW4suDU7mslP"
     },
     {
       "added_at": null,
@@ -571,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Humo en la Trampa 3",
-        "url": "https://open.spotify.com/album/5q8hNRlU7Bzo0WOui0hbci"
+        "name": "Sound Check",
+        "url": "https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn"
       },
       "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 161929,
-      "name": "Get Paid (feat. Durand Bernarr)",
-      "url": "https://open.spotify.com/track/06YScHhrQUlW4suDU7mslP"
+      "duration_ms": 222000,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 171460,
+      "name": "Processing...",
+      "url": "https://open.spotify.com/track/2E5OshuXUdcR43yStOifJ7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hip 2 Hip Hypnosis",
         "url": "https://open.spotify.com/album/7wweXc51MLp0BLoGMNCjJR"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 193880,
       "name": "Hip 2 Hip Hypnosis",
       "url": "https://open.spotify.com/track/4qqfI2my7ydYntn6T82fUZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Route",
-        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 171460,
-      "name": "Processing...",
-      "url": "https://open.spotify.com/track/2E5OshuXUdcR43yStOifJ7"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "B-Boys Blues (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 173605,
+      "name": "Homage",
+      "url": "https://open.spotify.com/track/4jCwxj1GpM7MTSNy6i2ihs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1988",
         "url": "https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 268668,
       "name": "minding_my business",
       "url": "https://open.spotify.com/track/4E3AUfhHzDg0xD12mzcCNu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B-Boys Blues (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 173605,
-      "name": "Homage",
-      "url": "https://open.spotify.com/track/4jCwxj1GpM7MTSNy6i2ihs"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "B-Boys Blues (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 196582,
+      "name": "Hangin'",
+      "url": "https://open.spotify.com/track/0RFkym8XWbLBd6VJUY4aae"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If I Fail Are We Still Cool?",
         "url": "https://open.spotify.com/album/4dNMPTG96R8kLnZQ37yOIB"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 229558,
       "name": "Whisper (Want My Luv)",
       "url": "https://open.spotify.com/track/5yFnawMLEJyxzRlbMZeSPS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B-Boys Blues (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/26uTBBw7ZHAggZpOFP0ANQ"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 196582,
-      "name": "Hangin'",
-      "url": "https://open.spotify.com/track/0RFkym8XWbLBd6VJUY4aae"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > A celebration of lesbian voices across the Universal Music family\. 🌈 For Lesbian Visibility Week, this playlist brings together artists who are shaping culture, telling their stories, and creating space through their music across genres and generations \(curated by The Pride Network\)
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 112,225 likes - 15 songs - 52 min 29 sec
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 112,197 likes - 15 songs - 52 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

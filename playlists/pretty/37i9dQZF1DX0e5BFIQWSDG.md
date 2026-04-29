@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: FLY LO
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,072 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,081 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 29 | [An Mia Mera](https://open.spotify.com/track/4I1x69jDnmCmCeGkPC1HcA) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Giorgos Orfanidis](https://open.spotify.com/artist/6V6g5uJVLdrOUO9LLqMawh) | [Kingpin 2](https://open.spotify.com/album/0WMnNM1kfwzu2fU5FTYc3O) | 2:28 |
 | 30 | [MARADONA](https://open.spotify.com/track/2iA0GsIJ8htppyhTtnmti7) | [Bres](https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr), [SOLO](https://open.spotify.com/artist/3qed23BFf5AfvaRV0h8YX8), [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [MARADONA](https://open.spotify.com/album/4yaMYBULwLgBe3ztaMqlXb) | 3:09 |
 | 31 | [To Vals Ton Oniron](https://open.spotify.com/track/1qjoWfwVtNqH5VBEkGorzg) | [Mariana Katsimicha](https://open.spotify.com/artist/3UiDrccF5BtDQWf2JYkzPY), [Dimitris Bakoulis](https://open.spotify.com/artist/4bwUniaSvto71vogPnv6zz), [Dimitris Karras](https://open.spotify.com/artist/4EA4ArgDUPo09DdUIs49LK) | [To Soundtrack tou Ellinikou Gia ton Alki Alkaio](https://open.spotify.com/album/4XwkXTXrCuqreKXVzGdSbR) | 3:25 |
-| 32 | [Plati](https://open.spotify.com/track/4UJdWyF20InwrXuwJQtOio) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT), [Sfera 102.2](https://open.spotify.com/artist/0eCQu0SIutiqVJzqkSxFmu) | [Apo To Xthes Sto Simera \(Part 2\)](https://open.spotify.com/album/2vQAu03RgOqg5ljSPm1fG3) | 3:35 |
+| 32 | [Plati](https://open.spotify.com/track/4UJdWyF20InwrXuwJQtOio) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT), [Giorgos Theofanous](https://open.spotify.com/artist/7MNlLYZdxYlO1WyyiZdAaE), [Sfera 102.2](https://open.spotify.com/artist/0eCQu0SIutiqVJzqkSxFmu) | [Apo To Xthes Sto Simera \(Part 2\)](https://open.spotify.com/album/2vQAu03RgOqg5ljSPm1fG3) | 3:35 |
 | 33 | [Eipes](https://open.spotify.com/track/1w8p0vuFJ8PZBJka6jS6oA) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [Eipes](https://open.spotify.com/album/0MrlOOB8R7ACMmnTjlVEAB) | 4:03 |
 | 34 | [DIO KARDIES](https://open.spotify.com/track/6aWGBnKRmgH7pBpEhRMnPy) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Michalis Karagkounis](https://open.spotify.com/artist/2pyJFxIC4rry7PluWUSiBD), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [DIO KARDIES](https://open.spotify.com/album/6IhmTZhE9F91ozgvQULr6Z) | 3:20 |
 | 35 | [AGAINST ALL](https://open.spotify.com/track/3klqwu80XOZBszq7TS214C) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [SKEZ](https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH), [HermesHermes](https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY), [LOSHA](https://open.spotify.com/artist/5kZFsM5GvvDM9J8soKtyqB) | [WHY ALWAYS ME?](https://open.spotify.com/album/0hkVhoK0vtaJhRoxBQ6Xca) | 2:52 |

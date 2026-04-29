@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/0HYrV7yGRYO79oVRILcrqr.md) - cumulative - [plain](/playlists/plain/0HYrV7yGRYO79oVRILcrqr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0HYrV7yGRYO79oVRILcrqr)
 
-### [🎸 Rock 'n Blues   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues \(R&B\), Soul](https://open.spotify.com/playlist/0HYrV7yGRYO79oVRILcrqr)
+### [🎸 Rock Music Hits   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues \(R&B\), So](https://open.spotify.com/playlist/0HYrV7yGRYO79oVRILcrqr)
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-454 songs - 1 day 4 hr 25 min
+455 songs - 1 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Green Giants March](https://open.spotify.com/track/6EfCto1xF9NLpZt8469sbX) | [Jaxx.13](https://open.spotify.com/artist/1pV2GA9n5xplcSgg58F3Xn), [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Alex.13](https://open.spotify.com/artist/74kwMd6oJzppv5s1b6RhVV) | [Green Giants March](https://open.spotify.com/album/0ZXdBFVaPAfzZNrleHHvIM) | 2:30 | 2026-01-06 | 2026-03-18 |
 | [Grinder Minder](https://open.spotify.com/track/7nmyUuAJDJ0O9VRF7Lv8NR) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Grinder Minder](https://open.spotify.com/album/1SperF6SKGWOeLHv3kG5gl) | 3:06 | 2026-01-29 | 2026-03-18 |
 | [Guerrero](https://open.spotify.com/track/4WcNVDm7F46de4XaCZiO5B) | [Wilson Ramírez](https://open.spotify.com/artist/7lPZcZVYj28uttO8cLsJ3Z) | [Guerrero](https://open.spotify.com/album/025nIW94c2Tsf5xx1Fbhp7) | 4:34 | 2025-09-21 |  |
+| [Half\-Life of a Heartbeat](https://open.spotify.com/track/2P9XNblTIpL9ioNcCbQymA) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Ink and Amber](https://open.spotify.com/album/7FvBEOcjFPjcma46YjY8XL) | 3:48 | 2026-04-28 |  |
 | [Halfway Down The Road](https://open.spotify.com/track/5lkJZmsHA2dTQLNUB4Otka) | [Lark](https://open.spotify.com/artist/7IkbUEUIzEVuwxLo42da5n) | [Halfway Down The Road](https://open.spotify.com/album/6ZIyRpkF61BJtdLSSP7nIq) | 4:39 | 2026-02-22 |  |
 | [Halle klebt](https://open.spotify.com/track/3mL5eUXyowIDKW6hOTzgrf) | [NAPOCK](https://open.spotify.com/artist/77ED2nkxoyZuvzbrFqbjqG) | [Halle klebt](https://open.spotify.com/album/0FQX4LCBCuGwbVENoCEPz2) | 2:37 | 2026-04-27 |  |
 | [Hangover](https://open.spotify.com/track/1AAetcgV5lmgLM07i3gxDW) | [Rollin Bee](https://open.spotify.com/artist/1SzjCvXYlJ3gW3WsivnYFR) | [First Sting](https://open.spotify.com/album/2KtYi2vu5RqNIhU50G9bMm) | 3:14 | 2025-09-26 | 2025-12-17 |

@@ -45301,6 +45301,24 @@
     },
     {
       "album": {
+        "name": "Les nouveaux soleils",
+        "url": "https://open.spotify.com/album/4uCKWYMoIEfOGjTDxYOj8z"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238453,
+      "name": "Les nouveaux soleils - Single Version",
+      "url": "https://open.spotify.com/track/1Rt2B1x76Vguf3gCxqnxdl"
+    },
+    {
+      "album": {
         "name": "Les n\u00e9ons du last call",
         "url": "https://open.spotify.com/album/50lQnyYobMFj0kQLpi154F"
       },
@@ -56366,6 +56384,22 @@
         {
           "name": "Classe Moyenne",
           "url": "https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        },
+        {
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+        },
+        {
+          "name": "Phil Rxcket",
+          "url": "https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt"
+        },
+        {
+          "name": "Zach Chico",
+          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
         },
         {
           "name": "Marc Dupr\u00e9",

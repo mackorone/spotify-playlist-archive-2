@@ -1,12 +1,12 @@
 {
   "description": "This is Bon Iver. The essential tracks, all in one playlist.",
-  "num_followers": 289858,
+  "num_followers": 289878,
   "original_name": "This Is Bon Iver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae1VgAAAAADVj833Ul+DdWvmFw7M14rF",
+  "snapshot_id": "ae6nAAAAAAA0863lAHRBkonteQ92JNNa",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Bank",
-        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 160093,
-      "name": "Beach Baby",
-      "url": "https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boys Of Faith (feat. Bon Iver)",
         "url": "https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 170824,
       "name": "Boys Of Faith (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 160093,
+      "name": "Beach Baby",
+      "url": "https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB"
     },
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 191935,
-      "name": "P.D.L.I.F. - Red Hill Auditorium, Perth, AU. Feb 26 2023",
-      "url": "https://open.spotify.com/track/32nTYsGFIChgjkv2zmOCG7"
+      "duration_ms": 223987,
+      "name": "A SATISFIED MIND - State Theatre, Portland, ME. Dec 08 2017",
+      "url": "https://open.spotify.com/track/4QCrTOG3MBSPlP8iXdEU7C"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 223987,
-      "name": "A SATISFIED MIND - State Theatre, Portland, ME. Dec 08 2017",
-      "url": "https://open.spotify.com/track/4QCrTOG3MBSPlP8iXdEU7C"
+      "duration_ms": 191935,
+      "name": "P.D.L.I.F. - Red Hill Auditorium, Perth, AU. Feb 26 2023",
+      "url": "https://open.spotify.com/track/32nTYsGFIChgjkv2zmOCG7"
     },
     {
       "added_at": null,

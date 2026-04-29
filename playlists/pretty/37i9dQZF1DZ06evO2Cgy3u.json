@@ -1,12 +1,12 @@
 {
   "description": "This is The Raincoats. The essential tracks, all in one playlist.",
-  "num_followers": 987,
+  "num_followers": 988,
   "original_name": "This Is The Raincoats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae1VgAAAAADBoz2HwbFOaoE+/8ToaZfj",
+  "snapshot_id": "ae6nAAAAAAC18YI+3zlchxltisLmCvD6",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
         }
       ],
-      "duration_ms": 259720,
-      "name": "Balloonacy",
-      "url": "https://open.spotify.com/track/1ouNCaEmKfphN0PVubmLIq"
+      "duration_ms": 197066,
+      "name": "Oh Oh La La La",
+      "url": "https://open.spotify.com/track/7gLgP6dxtCQcR50nfhFm0h"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
         }
       ],
-      "duration_ms": 197066,
-      "name": "Oh Oh La La La",
-      "url": "https://open.spotify.com/track/7gLgP6dxtCQcR50nfhFm0h"
+      "duration_ms": 259720,
+      "name": "Balloonacy",
+      "url": "https://open.spotify.com/track/1ouNCaEmKfphN0PVubmLIq"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
         }
       ],
-      "duration_ms": 331560,
-      "name": "57 Ways to End It All",
-      "url": "https://open.spotify.com/track/4BbaVYdC0oR3z0erCzaK1u"
+      "duration_ms": 216240,
+      "name": "Forgotten Words",
+      "url": "https://open.spotify.com/track/4xkv53vFS5SInaHXW9E81H"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
         }
       ],
-      "duration_ms": 305693,
-      "name": "Babydog",
-      "url": "https://open.spotify.com/track/7xeeZ3Gpr2hF8Nq9fTEXy0"
+      "duration_ms": 252800,
+      "name": "So Damn Early",
+      "url": "https://open.spotify.com/track/5NFH77uZfbIZ5BZGGJ208b"
     }
   ],
   "unique_name": "This Is The Raincoats",

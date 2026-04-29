@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 569,722 likes - 80 songs - 4 hr 31 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 569,921 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 75 | [Santa \(A Real Nice Guy\)](https://open.spotify.com/track/3qPoi1oxhCMDIszhyurCtl) | [Alyla Wild](https://open.spotify.com/artist/2UUo6RCAGdLoV9GM4anh73) | [Santa \(A Real Nice Guy\)](https://open.spotify.com/album/1ofhkfLY10uMb6LU8R0TOZ) | 4:06 |
 | 76 | [Revenge](https://open.spotify.com/track/3vCfa7j3pfLmpUdryMz2mc) | [Soty Pepple](https://open.spotify.com/artist/5V52UzDxrSvGIy3kqRKtnF) | [Revenge](https://open.spotify.com/album/1XC9pzpD8IwTzddZyfZyHQ) | 2:08 |
 | 77 | [Helicopter](https://open.spotify.com/track/3tc4iAQSFGZcqoPqtTQ4ep) | [Fake Trainer](https://open.spotify.com/artist/6IlIC6fHnyt6MRlxCQGOYd) | [Helicopter](https://open.spotify.com/album/3ut5t0FLj8AeqsVrPpy1kw) | 2:19 |
-| 78 | [Hello Dolly](https://open.spotify.com/track/44r08dDIR2olg13NwK3ndz) | [Edward beverly](https://open.spotify.com/artist/2Nuc6Iw4R0HmgXMgfa9coQ) | [Wafaring Stranger](https://open.spotify.com/album/4rCVC95KkuC0OAGzfpfjBE) | 3:14 |
+| 78 | [Hello Dolly](https://open.spotify.com/track/44r08dDIR2olg13NwK3ndz) | [Edward Beverly](https://open.spotify.com/artist/0xcgjtZJ2lyJg3VHNkNPvq) | [Wafaring Stranger](https://open.spotify.com/album/4rCVC95KkuC0OAGzfpfjBE) | 3:14 |
 | 79 | [Dale Sin Miedo](https://open.spotify.com/track/4Fl0klrJIlAJ19pVdIyfzf) | [Los Digitónicos](https://open.spotify.com/artist/5GA5VbFwwqpjpSq5hEC3fq) | [Dale Sin Miedo](https://open.spotify.com/album/5ZTOXxzFCA21SpuVdkGbG0) | 3:06 |
 | 80 | [Kasten Bier am Bett](https://open.spotify.com/track/4GnByKA6dsSeHg9Qh2BcIS) | [Oida!](https://open.spotify.com/artist/3cp65LBtCByKd8KvqA8Ugu) | [Kasten Bier am Bett](https://open.spotify.com/album/6T00l8N9NkmZeFk8kEFwLi) | 3:21 |
 

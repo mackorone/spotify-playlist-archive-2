@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Kape Yeel
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,136 likes - 312 songs - 17 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,130 likes - 312 songs - 17 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

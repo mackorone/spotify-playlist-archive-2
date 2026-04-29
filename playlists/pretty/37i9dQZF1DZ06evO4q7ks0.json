@@ -1,33 +1,13 @@
 {
   "description": "This is The Cranberries. The essential tracks, all in one playlist.",
-  "num_followers": 518027,
+  "num_followers": 518096,
   "original_name": "This Is The Cranberries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae1VgAAAAADk+nW03xkfUWSliEdMcW4Z",
+  "snapshot_id": "ae6nAAAAAADqhKh4UPKGoAq5TUE0OcPy",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Linger [Spanish Mix (2026)]",
-        "url": "https://open.spotify.com/album/3tQd63g2Ydd2pNr08b4mAg"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 225216,
-      "name": "Linger - Spanish Mix (2026)",
-      "url": "https://open.spotify.com/track/34HvVFUB2RDNhsf71SiF5X"
-    },
     {
       "added_at": null,
       "album": {
@@ -239,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Need To Argue (2025 Remastered)",
-        "url": "https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX"
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL"
       },
       "artists": [
         {
@@ -248,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 187560,
-      "name": "I Can't Be With You - 2025 Remastered",
-      "url": "https://open.spotify.com/track/2JNllfsg7fMN18EJB9VrLT"
+      "duration_ms": 295866,
+      "name": "Linger - Acoustic Version",
+      "url": "https://open.spotify.com/track/1nxebACXgKGhpB2DPs3qP0"
     },
     {
       "added_at": null,
@@ -271,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "To The Faithful Departed (The Complete Sessions 1996-1997)",
-        "url": "https://open.spotify.com/album/6re8Qh8GMzxH92LO1xj2jU"
+        "name": "No Need To Argue (2025 Remastered)",
+        "url": "https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX"
       },
       "artists": [
         {
@@ -280,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 241960,
-      "name": "Go Your Own Way",
-      "url": "https://open.spotify.com/track/0VuhdSYkAOmhASbt5vnkdO"
+      "duration_ms": 187560,
+      "name": "I Can't Be With You - 2025 Remastered",
+      "url": "https://open.spotify.com/track/2JNllfsg7fMN18EJB9VrLT"
     },
     {
       "added_at": null,
@@ -303,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Need To Argue (2025 Remastered)",
-        "url": "https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX"
+        "name": "To The Faithful Departed (The Complete Sessions 1996-1997)",
+        "url": "https://open.spotify.com/album/6re8Qh8GMzxH92LO1xj2jU"
       },
       "artists": [
         {
@@ -312,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 187813,
-      "name": "Twenty One - 2025 Remastered",
-      "url": "https://open.spotify.com/track/6XKcZYMX7TObdA8pdRt8k5"
+      "duration_ms": 241960,
+      "name": "Go Your Own Way",
+      "url": "https://open.spotify.com/track/0VuhdSYkAOmhASbt5vnkdO"
     },
     {
       "added_at": null,
@@ -335,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "To The Faithful Departed",
-        "url": "https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu"
+        "name": "No Need To Argue (2025 Remastered)",
+        "url": "https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX"
       },
       "artists": [
         {
@@ -344,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 265066,
-      "name": "Free To Decide",
-      "url": "https://open.spotify.com/track/42e1QfTyPYWuoddr0ghc0i"
+      "duration_ms": 187813,
+      "name": "Twenty One - 2025 Remastered",
+      "url": "https://open.spotify.com/track/6XKcZYMX7TObdA8pdRt8k5"
     },
     {
       "added_at": null,
@@ -367,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Need To Argue (2025 Remastered)",
-        "url": "https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX"
+        "name": "To The Faithful Departed",
+        "url": "https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu"
       },
       "artists": [
         {
@@ -376,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 271906,
-      "name": "Ridiculous Thoughts - 2025 Remastered",
-      "url": "https://open.spotify.com/track/0s5hFVQIEpNGAChxCbypmb"
+      "duration_ms": 265066,
+      "name": "Free To Decide",
+      "url": "https://open.spotify.com/track/42e1QfTyPYWuoddr0ghc0i"
     },
     {
       "added_at": null,
@@ -395,6 +375,22 @@
       "duration_ms": 176880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/4hckTii6dURNqlfS9JNjjK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Need To Argue (2025 Remastered)",
+        "url": "https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 271906,
+      "name": "Ridiculous Thoughts - 2025 Remastered",
+      "url": "https://open.spotify.com/track/0s5hFVQIEpNGAChxCbypmb"
     },
     {
       "added_at": null,
@@ -431,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Need To Argue (2025 Remastered)",
-        "url": "https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 216040,
-      "name": "Dreaming My Dreams - 2025 Remastered",
-      "url": "https://open.spotify.com/track/6SzinxBESFiRPbkRfnYuTo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bury The Hatchet",
         "url": "https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e"
       },
@@ -459,6 +439,22 @@
       "duration_ms": 222200,
       "name": "Shattered",
       "url": "https://open.spotify.com/track/155I1ffphVdq7fCeMH597u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Need To Argue (2025 Remastered)",
+        "url": "https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "Dreaming My Dreams - 2025 Remastered",
+      "url": "https://open.spotify.com/track/6SzinxBESFiRPbkRfnYuTo"
     },
     {
       "added_at": null,
@@ -495,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00cdosa",
-        "url": "https://open.spotify.com/album/1HJXIxvS7UsHQWcXS34u48"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 248546,
-      "name": "\u00cdosa",
-      "url": "https://open.spotify.com/track/7nDnFw9CmNnxgnY1C7vozN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bury The Hatchet",
         "url": "https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e"
       },
@@ -523,6 +503,22 @@
       "duration_ms": 165026,
       "name": "Loud And Clear",
       "url": "https://open.spotify.com/track/5r8skcDoiyjfagGCwQLKsQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00cdosa",
+        "url": "https://open.spotify.com/album/1HJXIxvS7UsHQWcXS34u48"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 248546,
+      "name": "\u00cdosa",
+      "url": "https://open.spotify.com/track/7nDnFw9CmNnxgnY1C7vozN"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Sufian Suhaimi, Aina, Yuna, CORTIS, Aina Abdul, Madonna, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,283 likes - 125 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,274 likes - 125 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 47 | [Run Like Strangers](https://open.spotify.com/track/2W3i0eXSjXR9MmzzW0NA3T) | [DEON](https://open.spotify.com/artist/2m3AQebiU86qWsrwG9Y6gN), [Brielle Kaga](https://open.spotify.com/artist/5YPzo8kOw6lRwE2COt9awu) | [Run Like Strangers](https://open.spotify.com/album/2ntL42Ldpmed2VVt0muium) | 3:52 |
 | 48 | [RESTLESS](https://open.spotify.com/track/3KJIOsD0gpWXy0x4NhZxNr) | [229](https://open.spotify.com/artist/5SVcLUjUDGoJQQmzBbYuVq), [B.LEO](https://open.spotify.com/artist/7xSziEKgpFtmY9a2S18nxL), [Haneri](https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7) | [RESTLESS](https://open.spotify.com/album/23xBP9x5zWTAz8l9AG6rsI) | 2:44 |
 | 49 | [nü me](https://open.spotify.com/track/4lRSrsvsic4nUV4iHdpR9x) | [Bitty](https://open.spotify.com/artist/1I6fZDt9lA1IKxyQaLbdL7), [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [nü me](https://open.spotify.com/album/2xhw9PNaZ2gNG6kCa2tQ8H) | 2:16 |
-| 50 | [一線兩點](https://open.spotify.com/track/04ByTJCWeCUGnzvZQTg1Yn) | [PPlin 林芃逸](https://open.spotify.com/artist/6w4UFdB9juoTUzWhBJeOlw), [Aioz](https://open.spotify.com/artist/5EMjv6vDJAEcksJoCfOZC9) | [一線兩點](https://open.spotify.com/album/4lkKhQX14ficVn1nDjx43W) | 2:43 |
+| 50 | [一線兩點](https://open.spotify.com/track/04ByTJCWeCUGnzvZQTg1Yn) | [PPlin 林芃逸](https://open.spotify.com/artist/6w4UFdB9juoTUzWhBJeOlw), [Aioz](https://open.spotify.com/artist/5EMjv6vDJAEcksJoCfOZC9) | [一線兩點](https://open.spotify.com/album/4lkKhQX14ficVn1nDjx43W) | 2:45 |
 | 51 | [票房毒藥 \(feat\. 王ADEN\)](https://open.spotify.com/track/3tq5HXMwbpxYRSoSSwh7eP) | [艾蜜莉AMILI](https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup), [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [悲劇演員](https://open.spotify.com/album/2yWLcgYJvZTdkf8u05wFB9) | 3:41 |
 | 52 | [今天明天](https://open.spotify.com/track/3f7DmCEPxewzaHA3oZlhWk) | [公館青少年 GGteens](https://open.spotify.com/artist/70tzNPv1y3Ft17QI4KLdSp) | [今天明天](https://open.spotify.com/album/1Fs6PqQFvSh8ovcWbeMOaq) | 3:14 |
 | 53 | [水泥の愛\(水泥的愛\)](https://open.spotify.com/track/51QoTd5Sms1Lh2tGDVQ2Mi) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [水泥の愛\(水泥的愛\)](https://open.spotify.com/album/0NkpmunXDQb0XLQCyAuJqX) | 2:49 |

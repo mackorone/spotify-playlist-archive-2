@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 945 likes - 107 songs - 6 hr 41 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 955 likes - 110 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,5 +115,8 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 105 | [188](https://open.spotify.com/track/51Pl4eyuqbLv74w3caC21w) | [Hag Roast](https://open.spotify.com/artist/7FN51i8wVHCTx72xQEOzEQ) | [188](https://open.spotify.com/album/5ZRSJkWE8UrXFkiy5S93Zx) | 3:09 |
 | 106 | [Tommy and Gina](https://open.spotify.com/track/1z9H58eKt42OUphDl0lcCV) | [Golden Greyline](https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l) | [Tommy and Gina](https://open.spotify.com/album/7mh2bvzLF1HlC7QWRTgOTz) | 3:24 |
 | 107 | [Another Day Is Gone](https://open.spotify.com/track/0HS4fqcRazWuujB0aTdwiD) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Another Day Is Gone](https://open.spotify.com/album/3xKkBJlx8QMc00eSanaZSN) | 4:21 |
+| 108 | [Ghost Inside](https://open.spotify.com/track/4SHiHRp5IWJJdwwZdSv0RV) | [Magacadabra](https://open.spotify.com/artist/2jSMVZ9eXDVIHDtk3ulfxs) | [Ghost Inside](https://open.spotify.com/album/43IxBBYFLt7aODOmnuVMtQ) | 3:16 |
+| 109 | [Ängste](https://open.spotify.com/track/5uWyW8ndF4m6Q56T3RhUke) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV) | [Ängste](https://open.spotify.com/album/3zYyBFxpDBZ2S9nLu72FA3) | 3:17 |
+| 110 | [SHARPEN](https://open.spotify.com/track/2Dfv6jg3y2YChiyeGXTOby) | [RedMoon](https://open.spotify.com/artist/1tRFUNiUD1F6JEUTa2aQAo) | [SHARPEN](https://open.spotify.com/album/7xghrLC6yKsigFWWGsjUcx) | 3:11 |
 
-Snapshot ID: `AAAF2xFC9/xGgrlTBFu+mzaKeRK3ttLy`
+Snapshot ID: `AAAF3p8nLUDD0hf8cwlU++Ho2SVXXOCz`

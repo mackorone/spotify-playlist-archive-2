@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Rey Quinto, L Prince, Xavi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 981,356 likes - 79 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 981,303 likes - 79 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 78 | [entumido](https://open.spotify.com/track/7ngrs6wiAUia51zYKLIm4V) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [entumido](https://open.spotify.com/album/2d6928zyKOiTYFgE73kXsp) | 2:56 |
 | 79 | [Dubai](https://open.spotify.com/track/2U0sUcniWnEnHxeaiIyCPM) | [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6) | [Dubai](https://open.spotify.com/album/2MqZQNioC44UFCOuga63AQ) | 2:54 |
 
-Snapshot ID: `AAAAANnFuPkMUILZtPqmr2Xc7hAddIo+`
+Snapshot ID: `AAAAAJH54REFBIjqQDIElUjwEz/uqnWx`

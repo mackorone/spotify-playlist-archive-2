@@ -4,7 +4,7 @@
 
 > You don't want to miss these episodes from creators you want to keep on your RADAR
 
-63 songs - 2 day 14 hr 16 min
+63 songs - 2 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Does The NBA Have A Scoring Problem?](https://open.spotify.com/episode/1tDjmo2fqz4XWKkggGogkz) | [Small Ball with Kenny Beecham](https://open.spotify.com/show/6eTEBCz1PHcQ4wg0yhi6RF) | [Small Ball with Kenny Beecham](https://open.spotify.com/album/6eTEBCz1PHcQ4wg0yhi6RF) | 54:32 | 2024-10-03 | 2025-10-15 |
 | [Don’t date “successful” people.](https://open.spotify.com/episode/0zD3h3vvBFKfsnrMfmFJUR) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/show/0sJAtVorz8TsYDzzyM04cq) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/album/0sJAtVorz8TsYDzzyM04cq) | 51:55 | 2024-10-03 | 2025-10-15 |
 | [EARLY NBA All Star Selections](https://open.spotify.com/episode/1dOjPLfdlN7M2hP8FkFZsw) | [Small Ball with Kenny Beecham](https://open.spotify.com/show/6eTEBCz1PHcQ4wg0yhi6RF) | [Small Ball with Kenny Beecham](https://open.spotify.com/album/6eTEBCz1PHcQ4wg0yhi6RF) | 1:12:33 | 2024-12-09 | 2025-10-15 |
-| [Episode 240.5: Listener Stories \#39 \(DEMON TALES\)](https://open.spotify.com/episode/50YN2KQJpl6mMPb6LEFB4b) | [Let's Get Haunted](https://open.spotify.com/show/0Aw3LuTZqL6i4tRptbZPJv) | [Let's Get Haunted](https://open.spotify.com/album/0Aw3LuTZqL6i4tRptbZPJv) | 1:53:53 | 2025-11-17 |  |
+| [Episode 240.5: Listener Stories \#39 \(DEMON TALES\)](https://open.spotify.com/episode/50YN2KQJpl6mMPb6LEFB4b) | [Let's Get Haunted](https://open.spotify.com/show/0Aw3LuTZqL6i4tRptbZPJv) | [Let's Get Haunted](https://open.spotify.com/album/0Aw3LuTZqL6i4tRptbZPJv) | 1:48:57 | 2025-11-17 |  |
 | [Episode 243: Cold Christmas, England's Most Haunted Hamlet](https://open.spotify.com/episode/2BzLPfkb9at9ByPwRDMyew) | [Let's Get Haunted](https://open.spotify.com/show/0Aw3LuTZqL6i4tRptbZPJv) | [Let's Get Haunted](https://open.spotify.com/album/0Aw3LuTZqL6i4tRptbZPJv) | 1:31:17 | 2025-12-16 |  |
 | [Episode 245: The Hauntings of the Drake Passage \(Ghost Ships, Drowned Spirits, & Sea Monsters\)](https://open.spotify.com/episode/7ItQXuKU9I5YZs6QkGqfpY) | [Let's Get Haunted](https://open.spotify.com/show/0Aw3LuTZqL6i4tRptbZPJv) | [Let's Get Haunted](https://open.spotify.com/album/0Aw3LuTZqL6i4tRptbZPJv) | 1:34:46 | 2026-01-14 |  |
 | [Halle Bailey Is Entering a New Era](https://open.spotify.com/episode/74AxdNsDxbxX78IGA7Uxw2) | [House Guest](https://open.spotify.com/show/04A7siemGWqKh1ihsl6Due) | [House Guest](https://open.spotify.com/album/04A7siemGWqKh1ihsl6Due) | 41:38 | 2025-11-17 |  |

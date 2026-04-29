@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5wPUMOWXlhmk9XmGO4RtKz.md) - [plain]
 
 > Some nice little jams to make the ride smooth\. To quote Dom Kennedy &quot;Pleeze Make It Home Safe&quot; \(also closing song\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,384 likes - 40 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,382 likes - 40 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/5wPUMOWXlhmk9XmGO4RtKz.md) - [plain]
 | 16 | [My Way \(feat\. Monty\)](https://open.spotify.com/track/7zpZQzTwWBN0eOsmb4WPH3) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Monty](https://open.spotify.com/artist/1Wnfj5qZsp8nPsGBBRRa4W) | [My Way \(feat\. Monty\)](https://open.spotify.com/album/2gMravky8u8fFJ6FWQPWgr) | 3:33 |
 | 17 | [Locked Away \(feat\. Adam Levine\)](https://open.spotify.com/track/0sQLhT32E9ZG2zn5iYR6nN) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Locked Away \(feat\. Adam Levine\)](https://open.spotify.com/album/0iGMQyIMXpYm0N5IcRVq4Z) | 3:47 |
 | 18 | [2 On \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/3jVtllWS5CFFWLQng8sKsr) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Aquarius](https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L) | 3:47 |
-| 19 | [Walkin' On The Moon](https://open.spotify.com/track/4mIwoDxYxRJ2off7985qJC) | [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Love Vs Money](https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw) | 4:14 |
+| 19 | [Walkin' On The Moon](https://open.spotify.com/track/4mIwoDxYxRJ2off7985qJC) | [THE\-DREAM](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Love Vs Money](https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw) | 4:14 |
 | 20 | [One Man Can Change The World](https://open.spotify.com/track/18D76X9ZPtxGuzPl3PjZgt) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [One Man Can Change The World](https://open.spotify.com/album/3hVYeN5FHqH52v2TvqNjDT) | 4:14 |
 | 21 | [Fragile](https://open.spotify.com/track/7L3YDa0Fd8pmzpAyu6EKOS) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [¡MAYDAY!](https://open.spotify.com/artist/71WhWdsVNTLxsnfe8M3Peh), [Kendall Morgan](https://open.spotify.com/artist/31T99HEreO5nDrKT4H84Gl) | [Something Else](https://open.spotify.com/album/0V2ApMkgurWGcF0sc0u17w) | 3:56 |
 | 22 | [No Role Modelz](https://open.spotify.com/track/62vpWI1CHwFy7tMIcSStl8) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/7viNUmZZ8ztn2UB4XB3jIL) | 4:52 |

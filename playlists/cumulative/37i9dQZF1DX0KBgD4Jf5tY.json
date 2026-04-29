@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:2COZ1UNN4kWa65mYMVH1JZ\">SCAR</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:20LOUqAbkWCYwND5CarWCR\">marzo</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -2846,7 +2846,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 203916,
       "name": "anedonia",
       "url": "https://open.spotify.com/track/0bs9DFxBrKvOd6VEsC2p6W"
@@ -3010,7 +3010,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 160774,
       "name": "Anna nelle banlieue",
       "url": "https://open.spotify.com/track/2LENQKO87Z9pGQymyWHT8J"
@@ -13355,6 +13355,24 @@
     },
     {
       "album": {
+        "name": "Forget Me",
+        "url": "https://open.spotify.com/album/0SlT3dEJlr4EOhoeEooSiI"
+      },
+      "artists": [
+        {
+          "name": "FUCK!LACR\u00c8ME",
+          "url": "https://open.spotify.com/artist/6ORtqnmzscfjstI402S8tc"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230040,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/4dLcBSla3iDJFuwBc7eu0V"
+    },
+    {
+      "album": {
         "name": "Formato tascabile",
         "url": "https://open.spotify.com/album/59ltmDbYN3c54HblKLXc63"
       },
@@ -18557,6 +18575,24 @@
     },
     {
       "album": {
+        "name": "la Mia paura",
+        "url": "https://open.spotify.com/album/48aXrrDxJG80pPvgPpaXjE"
+      },
+      "artists": [
+        {
+          "name": "@gabriele",
+          "url": "https://open.spotify.com/artist/6RyYnt3Q1ebcbLxYOtE9bb"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180454,
+      "name": "la Mia paura",
+      "url": "https://open.spotify.com/track/51jCHYRmZDj9ZPi2Fw55Xl"
+    },
+    {
+      "album": {
         "name": "La mia rotta",
         "url": "https://open.spotify.com/album/3AQeqScxxa2TrRUNvtGR01"
       },
@@ -19208,6 +19244,24 @@
       "duration_ms": 210408,
       "name": "LE D\u00c8LIRE",
       "url": "https://open.spotify.com/track/48q2j9cxSJlygyWD3Do6L4"
+    },
+    {
+      "album": {
+        "name": "Psoriasi",
+        "url": "https://open.spotify.com/album/11plBD4BPtgAsAt31Baobi"
+      },
+      "artists": [
+        {
+          "name": "Amarene",
+          "url": "https://open.spotify.com/artist/0I5i5STx7P8Dp0HyGck9qF"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167719,
+      "name": "Le Ferie",
+      "url": "https://open.spotify.com/track/3FBWZtqpvQE2azDjfGhOL5"
     },
     {
       "album": {
@@ -23239,6 +23293,24 @@
     },
     {
       "album": {
+        "name": "Muffaillusione",
+        "url": "https://open.spotify.com/album/6dhLYR2I5SQJiOwU56mDU5"
+      },
+      "artists": [
+        {
+          "name": "Valucre",
+          "url": "https://open.spotify.com/artist/6Aw7jZkZ38TArxniZ04Sma"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Muffaillusione",
+      "url": "https://open.spotify.com/track/3lVameTy8anlgrx7mqgO6v"
+    },
+    {
+      "album": {
         "name": "multa",
         "url": "https://open.spotify.com/album/02v7LA7wO1rOF4jMnbbrvT"
       },
@@ -23812,7 +23884,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 212459,
       "name": "Nen\u00e8",
       "url": "https://open.spotify.com/track/65UY8dcWKmyuOilr3KYede"
@@ -25626,6 +25698,24 @@
       "duration_ms": 132286,
       "name": "nostalgia3000",
       "url": "https://open.spotify.com/track/67Y8CZzT6wykyO5l5Uq6Ex"
+    },
+    {
+      "album": {
+        "name": "Not a boy, not a girl",
+        "url": "https://open.spotify.com/album/5yZU14N8dW7TiCSVuzvTTM"
+      },
+      "artists": [
+        {
+          "name": "Sleap-e",
+          "url": "https://open.spotify.com/artist/0zaHskaZiKsAmGMPWp0iNS"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "Not a boy, not a girl",
+      "url": "https://open.spotify.com/track/0lY6xEMwUGgrYsFh6I7STV"
     },
     {
       "album": {
@@ -33663,6 +33753,24 @@
     },
     {
       "album": {
+        "name": "So",
+        "url": "https://open.spotify.com/album/3BFw4nu743hg3NE3BkuJ1n"
+      },
+      "artists": [
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189850,
+      "name": "So",
+      "url": "https://open.spotify.com/track/3Meh830NxXhLpEFD9GMnDR"
+    },
+    {
+      "album": {
         "name": "Soaked in Starlight",
         "url": "https://open.spotify.com/album/17wIMR1HPFqeKGmjiVPHhL"
       },
@@ -33986,7 +34094,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 141176,
       "name": "Solo",
       "url": "https://open.spotify.com/track/22zdrRCq9fpzvdtTi4IXk3"
@@ -36186,7 +36294,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 186104,
       "name": "Tapis Roulant",
       "url": "https://open.spotify.com/track/1RTn2Qh4cLW0gPoOn6aY8q"
@@ -37090,7 +37198,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 182711,
       "name": "Timu",
       "url": "https://open.spotify.com/track/0MnilMV2J6GIFC4UFwosAy"

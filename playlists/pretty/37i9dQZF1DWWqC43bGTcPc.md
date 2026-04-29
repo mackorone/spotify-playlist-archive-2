@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 周杰倫
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,482 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,493 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 14 | [有我你就幸福](https://open.spotify.com/track/4O2FMLItCsuInv9CIpJLuL) | [Kew 蕎](https://open.spotify.com/artist/4zfI392alaVaMOh5zqyucJ) | [有我你就幸福](https://open.spotify.com/album/7sSeI5w80WrpjKz2u7pyNp) | 3:00 |
 | 15 | [太陽與地球](https://open.spotify.com/track/0bQSWXtpau3VkNI1ZcXTQA) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [HeartBreakFast 傷心早餐店](https://open.spotify.com/album/3B4ldF0a4F6FXi2SB94m4U) | 4:22 |
 | 16 | [左轉燈 \(1000 Times+1\)](https://open.spotify.com/track/3P6hXhSXC85qbaO9o9SaTz) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [mac ova seas](https://open.spotify.com/artist/1a3bTQmBNmgiY3U7sMh9pf) | [左轉燈 \(1000 Times+1\)](https://open.spotify.com/album/4s8LVjyZg1PpZdTTuu41Ts) | 3:17 |
-| 17 | [天使借的溫柔](https://open.spotify.com/track/3ITUmRLMjxf3ZqCPSDD2gk) | [艾薇 Ivy Ivy](https://open.spotify.com/artist/5XlSZBfXu3E6f0X4lr0wAf) | [天使借的溫柔](https://open.spotify.com/album/12zyWwLiTBobJgGvPw462K) | 3:28 |
+| 17 | [天使借的溫柔](https://open.spotify.com/track/3ITUmRLMjxf3ZqCPSDD2gk) | [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [天使借的溫柔](https://open.spotify.com/album/12zyWwLiTBobJgGvPw462K) | 3:28 |
 | 18 | [你沒等我去的舊金山](https://open.spotify.com/track/7xAxAHpkCfd6WG1lpKJFeS) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [你沒等我去的舊金山](https://open.spotify.com/album/5qCkFMavsFt9DbLxjk8snd) | 3:49 |
 | 19 | [想要保護的 \- 電影《功夫》主題曲](https://open.spotify.com/track/3j0l0O8haMn4QsktFn9MMx) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK), [徐暐翔](https://open.spotify.com/artist/2xZkWvVTxC65o3dqETdfPm) | [想要保護的 \(電影《功夫》主題曲\)](https://open.spotify.com/album/6ji6MIrhkYlM2MfoBepuUM) | 4:15 |
 | 20 | [清清如我 \(影视剧《逐玉》抒情主题曲\)](https://open.spotify.com/track/5efxFEdG46hIOqQm9mZNGH) | [郁可唯](https://open.spotify.com/artist/4XOgZBMcpRQqKHbE8L9zW1) | [《逐玉》 影视原声带](https://open.spotify.com/album/2k86NBEelfaj8iqDZ9ppqa) | 3:24 |

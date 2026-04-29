@@ -1,12 +1,12 @@
 {
   "description": "Warm, inspirational pop, that's good at heart.  Cover: Alex Warren ",
-  "num_followers": 57003,
+  "num_followers": 57036,
   "original_name": "shine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOyk3cyayHIvhny8rUauDpzF1wiG",
+  "snapshot_id": "AAAAAKn1sPgTyYGCGoJAAYb7eKyMMLSc",
   "tracks": [
     {
       "added_at": "2026-03-25 18:13:31",
@@ -55,6 +55,22 @@
       "duration_ms": 253342,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
+    },
+    {
+      "added_at": "2026-04-29 01:58:39",
+      "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/3l26FLLhl6vxHnkCRf5EOl"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 248902,
+      "name": "EVERYTHING HALLELUJAH",
+      "url": "https://open.spotify.com/track/3fP2e200UqmrZaE9xhDwJ5"
     },
     {
       "added_at": "2026-03-25 18:13:31",
@@ -319,22 +335,6 @@
       "duration_ms": 224506,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM"
-    },
-    {
-      "added_at": "2026-03-25 18:13:31",
-      "album": {
-        "name": "My Empire",
-        "url": "https://open.spotify.com/album/0DGTlvusRCwOPfBy1MlopK"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 220956,
-      "name": "My Empire",
-      "url": "https://open.spotify.com/track/2TOIyy0CYudM0YMwT7gPE3"
     },
     {
       "added_at": "2026-03-25 18:13:31",

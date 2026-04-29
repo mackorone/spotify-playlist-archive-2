@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,254,880 likes - 220 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,255,160 likes - 220 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 26 | [Abstract](https://open.spotify.com/track/2atYdA1mqxutdbwdP8ebK3) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Abstract](https://open.spotify.com/album/33NYDwzLQKuSig5PBOm75x) | 2:52 |
 | 27 | [Echoverse](https://open.spotify.com/track/1DkiIMiXZEAAOnUuCOq9mY) | [Sir Dejvid](https://open.spotify.com/artist/0pwSi22Ps7HUNFmaAQHTJF) | [Echoverse](https://open.spotify.com/album/4l7uSq29fsvEaldNaTuNMe) | 2:46 |
 | 28 | [Oblivion](https://open.spotify.com/track/5txXnz3ogokxbfkmi6Xkaf) | [Oblivion](https://open.spotify.com/artist/5bay23a7lnykOEQWt7FVnQ) | [Oblivion](https://open.spotify.com/album/3Dsoto9MjRsLcMccrslwLR) | 2:26 |
-| 29 | [Internal Calm](https://open.spotify.com/track/76s1ovipCRhv8T4JhcHDgI) | [Starstrum](https://open.spotify.com/artist/2bQQLr54fcQpvQi5AOWCwD) | [Internal Calm](https://open.spotify.com/album/7s5xapqqOlF9W2jk8GwhPM) | 2:11 |
+| 29 | [Internal Calm](https://open.spotify.com/track/76s1ovipCRhv8T4JhcHDgI) | [Starstrum](https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3) | [Internal Calm](https://open.spotify.com/album/7s5xapqqOlF9W2jk8GwhPM) | 2:11 |
 | 30 | [Serene](https://open.spotify.com/track/4TQrUzjlx4AEeanWcb8UIt) | [The Inner Room](https://open.spotify.com/artist/6WmBCblpdv77KDcPD0e8KP) | [Serene](https://open.spotify.com/album/3v05K7oOsIvGTBeKZkGqNi) | 2:30 |
 | 31 | [Aetheric](https://open.spotify.com/track/7tFPCzqbbvQdwqAz521gPB) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Aetheric](https://open.spotify.com/album/4tgH69aH9Arxn9e4vE0eky) | 2:48 |
 | 32 | [Quiet Alignment](https://open.spotify.com/track/7LiXbJSQ9ZLQjJ13I50NSD) | [Solen Taylor](https://open.spotify.com/artist/4p9by6GGMfgVGEBqiYhXqB) | [Quiet Alignment](https://open.spotify.com/album/67ThjEN7YRfAnAbZnuN3wV) | 2:21 |

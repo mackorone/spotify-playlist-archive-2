@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 250809,
+  "num_followers": 250825,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae1VgAAAAABshGz+A+zJD6UjPqxL76Uv",
+  "snapshot_id": "ae6nAAAAAAARv9GOMQUNxUcGhg0iDAba",
   "tracks": [
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 185073,
-      "name": "OMDB",
-      "url": "https://open.spotify.com/track/7Aece36KsB5z5EskkAoFp4"
+      "duration_ms": 178853,
+      "name": "What's Love??",
+      "url": "https://open.spotify.com/track/4NWJN6qnlOwHmMfOhrC5qZ"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 178853,
-      "name": "What's Love??",
-      "url": "https://open.spotify.com/track/4NWJN6qnlOwHmMfOhrC5qZ"
+      "duration_ms": 185073,
+      "name": "OMDB",
+      "url": "https://open.spotify.com/track/7Aece36KsB5z5EskkAoFp4"
     },
     {
       "added_at": null,

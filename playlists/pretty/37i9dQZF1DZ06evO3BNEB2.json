@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40333,
+  "num_followers": 40338,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae1VgAAAAADIj8mup5ag6Bn1ZaKmv8u9",
+  "snapshot_id": "ae6nAAAAAACFayUqy4m+fWvjZHmoAtkK",
   "tracks": [
     {
       "added_at": null,
@@ -1039,26 +1039,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Attention Deficit (Explicit Version)",
-        "url": "https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI"
+        "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
+        "url": "https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY"
       },
       "artists": [
         {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Melanie Fiona",
-          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 304613,
-      "name": "Beautiful Bliss",
-      "url": "https://open.spotify.com/track/5Ys7Mcr0n8NBTFiwqbTR8m"
+      "duration_ms": 222068,
+      "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
+      "url": "https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo"
     }
   ],
   "unique_name": "This Is Wale",

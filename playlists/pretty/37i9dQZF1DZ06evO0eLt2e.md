@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 
 > This is Kris Kristofferson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,876 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,877 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 | 49 | [The Lonely Night \- Reprise Version](https://open.spotify.com/track/6g7BOAGapOkrpCfSLgvaUv) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Lonely Night \(Reprise Version\)](https://open.spotify.com/album/6tFLaFzsYAWNv0VctKguZk) | 5:42 |
 | 50 | [Nobody Wins](https://open.spotify.com/track/7FpRYdpA3Qg3c0Q1ZXN905) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Austin Sessions](https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA) | 4:06 |
 
-Snapshot ID: `ae1VgAAAAADf+RSo/pVf0vslAky+4OlF`
+Snapshot ID: `ae6nAAAAAAAGxLz/lsfPsHvvt3OlyOxc`

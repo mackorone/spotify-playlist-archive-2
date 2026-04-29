@@ -1,12 +1,12 @@
 {
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
-  "num_followers": 715620,
+  "num_followers": 715583,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "AAAZsaaOFS+9dY6wnWvWLqmgX02Tvq8M",
+  "snapshot_id": "AAAZs0ZVb1HKApAQxsOnchVRj1KLV+s+",
   "tracks": [
     {
       "added_at": "2026-02-05 13:19:40",
@@ -59,6 +59,30 @@
       "duration_ms": 125596,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/7ABiV1u97UfeyzC0lg5H0V"
+    },
+    {
+      "added_at": "2026-04-28 09:20:27",
+      "album": {
+        "name": "Back2u!",
+        "url": "https://open.spotify.com/album/71UtFr5ynmlfaDzCorPb7M"
+      },
+      "artists": [
+        {
+          "name": "Postcard",
+          "url": "https://open.spotify.com/artist/5QpG84gIU4qExcd06OgLkw"
+        },
+        {
+          "name": "MNTRL",
+          "url": "https://open.spotify.com/artist/5PafLxTRvveezuTtlfU0Rz"
+        },
+        {
+          "name": "Sara Benyo",
+          "url": "https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Back2u!",
+      "url": "https://open.spotify.com/track/1fJ851VI1oJXjHxaDCqpa9"
     },
     {
       "added_at": "2026-04-14 10:56:33",

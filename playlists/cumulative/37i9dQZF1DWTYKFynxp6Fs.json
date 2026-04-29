@@ -79,6 +79,36 @@
     },
     {
       "album": {
+        "name": "Akale",
+        "url": "https://open.spotify.com/album/2LQhZkamcL2YklCE2W9PdB"
+      },
+      "artists": [
+        {
+          "name": "Nevin Thomas",
+          "url": "https://open.spotify.com/artist/29t7mv5S6lSSOlVhPAFP2y"
+        },
+        {
+          "name": "Akhil Jifroom",
+          "url": "https://open.spotify.com/artist/75plEvjt52hf70SHFUfEQs"
+        },
+        {
+          "name": "Deepu Antony",
+          "url": "https://open.spotify.com/artist/1j4dHqdR16uFyGMyb3ecpT"
+        },
+        {
+          "name": "Irine ann",
+          "url": "https://open.spotify.com/artist/2cE6hK8CmfY2pnh7f3w00h"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "Akale",
+      "url": "https://open.spotify.com/track/7sNZfck5oFf1Rt1e8MCVIa"
+    },
+    {
+      "album": {
         "name": "Alif",
         "url": "https://open.spotify.com/album/2OG7wgIZqAxzTiUBT4zVhU"
       },
@@ -294,7 +324,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 222000,
       "name": "Barakallah",
       "url": "https://open.spotify.com/track/34e7QY2XDUvmSra1H12ath"

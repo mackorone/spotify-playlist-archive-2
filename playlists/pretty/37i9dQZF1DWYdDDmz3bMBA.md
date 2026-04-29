@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdDDmz3bMBA.md) - [plain]
 
 > You don't want to miss these episodes from creators you want to keep on your RADAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,245 likes - 25 songs - 1 day 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,246 likes - 25 songs - 1 day 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdDDmz3bMBA.md) - [plain]
 | 10 | [Which NBA teams should trade their stars?](https://open.spotify.com/episode/5UzXFsbpPrwvjcSFKqIFkO) | [T'd Up with Pierre Andresen](https://open.spotify.com/show/7kydwMSRbw9fEFkAgiWj1Q) | [T'd Up with Pierre Andresen](https://open.spotify.com/album/7kydwMSRbw9fEFkAgiWj1Q) | 50:10 |
 | 11 | [I Interviewed Bruce Springsteen And What He Said Surprised Everyone \(Ep\. 31\)](https://open.spotify.com/episode/1Yr2KLrsiSGCkZAKGLTke5) | [Behind The Wall](https://open.spotify.com/show/5VjSRHdISZZnT9WkZC4xBb) | [Behind The Wall](https://open.spotify.com/album/5VjSRHdISZZnT9WkZC4xBb) | 41:08 |
 | 12 | [How to Talk About Money With Your Partner](https://open.spotify.com/episode/1UDK7wiwDFL4MjQytlDRLP) | [Tiger Sisters](https://open.spotify.com/show/05r0jVSXGGAs8niZ1VsdzF) | [Tiger Sisters](https://open.spotify.com/album/05r0jVSXGGAs8niZ1VsdzF) | 37:05 |
-| 13 | [Episode 240.5: Listener Stories \#39 \(DEMON TALES\)](https://open.spotify.com/episode/50YN2KQJpl6mMPb6LEFB4b) | [Let's Get Haunted](https://open.spotify.com/show/0Aw3LuTZqL6i4tRptbZPJv) | [Let's Get Haunted](https://open.spotify.com/album/0Aw3LuTZqL6i4tRptbZPJv) | 1:53:53 |
+| 13 | [Episode 240.5: Listener Stories \#39 \(DEMON TALES\)](https://open.spotify.com/episode/50YN2KQJpl6mMPb6LEFB4b) | [Let's Get Haunted](https://open.spotify.com/show/0Aw3LuTZqL6i4tRptbZPJv) | [Let's Get Haunted](https://open.spotify.com/album/0Aw3LuTZqL6i4tRptbZPJv) | 1:48:57 |
 | 14 | [Halle Bailey Is Entering a New Era](https://open.spotify.com/episode/74AxdNsDxbxX78IGA7Uxw2) | [House Guest](https://open.spotify.com/show/04A7siemGWqKh1ihsl6Due) | [House Guest](https://open.spotify.com/album/04A7siemGWqKh1ihsl6Due) | 41:38 |
 | 15 | [Players I’m ENJOYING, Players I need MORE from, PLUS MVP talk w/ Combo!](https://open.spotify.com/episode/0gaBNQog9y8LIxyjTRv5h6) | [T'd Up with Pierre Andresen](https://open.spotify.com/show/7kydwMSRbw9fEFkAgiWj1Q) | [T'd Up with Pierre Andresen](https://open.spotify.com/album/7kydwMSRbw9fEFkAgiWj1Q) | 50:10 |
 | 16 | [House Party Begins! Tabitha Brown, KevOnStage & Amber Riley Pull Up](https://open.spotify.com/episode/6JnLUEVoYOQSnoAt9NMS1k) | [House Guest](https://open.spotify.com/show/04A7siemGWqKh1ihsl6Due) | [House Guest](https://open.spotify.com/album/04A7siemGWqKh1ihsl6Due) | 1:23:26 |

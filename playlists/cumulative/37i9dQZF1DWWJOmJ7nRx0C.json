@@ -9595,7 +9595,25 @@
     },
     {
       "album": {
-        "name": "ENEMY",
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/4AZCeQb0Lo4JAkLr5jVA4C"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-09",
+      "duration_ms": 220000,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/7uaiPrc6DpJpLXcvVSW32M"
+    },
+    {
+      "album": {
+        "name": "ENEMY (with blackbear)",
         "url": "https://open.spotify.com/album/74o5SNrc5oqx67sWhrBqt4"
       },
       "artists": [
@@ -9612,26 +9630,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189390,
-      "name": "ENEMY",
+      "name": "ENEMY (with blackbear)",
       "url": "https://open.spotify.com/track/1VIcfFO1tnpfoSxaGaLzeW"
-    },
-    {
-      "album": {
-        "name": "Enemy",
-        "url": "https://open.spotify.com/album/4AZCeQb0Lo4JAkLr5jVA4C"
-      },
-      "artists": [
-        {
-          "name": "The Plot In You",
-          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
-        }
-      ],
-      "date_added": "2021-08-27",
-      "date_added_asterisk": false,
-      "date_removed": "2022-04-09",
-      "duration_ms": 220000,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/7uaiPrc6DpJpLXcvVSW32M"
     },
     {
       "album": {

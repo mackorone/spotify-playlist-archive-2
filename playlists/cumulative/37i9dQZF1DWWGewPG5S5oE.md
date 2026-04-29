@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: Fried Banana Shop
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 挾間美帆
 
-511 songs - 1 day 17 hr 34 min
+513 songs - 1 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Rhizome Changes](https://open.spotify.com/track/5ed2reDZh99JGolP1p8AXc) | [壷阪健登](https://open.spotify.com/artist/2fTo5V5D3gAogcZuVKIpdQ) | [Lines](https://open.spotify.com/album/2p4PWeYlcUFGCRKZfge8Fe) | 5:13 | 2026-02-17 |  |
 | [Ri:ng](https://open.spotify.com/track/0Kv39zmy409KWK8xZ3xpVs) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Ri:ng](https://open.spotify.com/album/310atXDhjjKBNxP5rTVt8U) | 4:24 | 2025-05-20 | 2025-07-02 |
 | [Rolling Tales](https://open.spotify.com/track/4NaRqeO0MJdnbyy71k4l4Y) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Rolling Tales](https://open.spotify.com/album/4uB6UBAFUAg5HyUyk2mpeS) | 5:41 | 2025-12-16 | 2026-02-10 |
+| [Rondo](https://open.spotify.com/track/2sZ3Fa7Y4w0qlQdEWAfI8v) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV), [The Danish Radio Big Band](https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE) | [Frames](https://open.spotify.com/album/7tDTqHUZiN1exzi6bhrsI5) | 8:57 | 2026-04-28 |  |
 | [Run&Gun](https://open.spotify.com/track/0BouwM0LLXksQIeoNxHUbr) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Run&Gun](https://open.spotify.com/album/3iHVZqJeO5pzwTK00S8tTT) | 3:00 | 2022-12-20 | 2023-01-18 |
 | [S.K.O.](https://open.spotify.com/track/0aT0RypXmcyq56WDJ50nTh) | [4Aces](https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL) | [4Aces](https://open.spotify.com/album/5Oo8yuKWgsWDufeEiolwSN) | 5:26 | 2023-04-25 | 2024-02-07 |
 | [S.Y.P.T\. \(Show Your PentaTonic\)](https://open.spotify.com/track/0gFKed5Y8BJrJ8EB34SNT4) | [4Aces](https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL) | [TAPES of ACES \- Side A](https://open.spotify.com/album/1yjAcsYQJsIV0clinEa7XC) | 6:49 | 2024-02-06 | 2025-01-15 |
@@ -336,6 +337,7 @@
 | [Sir](https://open.spotify.com/track/3zMU30DtSrXzDj4rFuYZqN) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [WAVE](https://open.spotify.com/album/3jwfV14vK1VHSanxI3VXZY) | 3:36 | 2023-06-20 | 2023-08-30 |
 | [Sky](https://open.spotify.com/track/4A1h2n04lHikwFW2y6wQBS) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Sky](https://open.spotify.com/album/6p8sF3aFRqLzasMfcMpjoz) | 3:40 | 2023-05-02 | 2023-07-17 |
 | [Skyscrapers](https://open.spotify.com/track/00E0F6S41u75kegMAnTiXd) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Skyscrapers / Another World](https://open.spotify.com/album/2shCDrFWKMqzL4ZnE08Pus) | 3:59 | 2022-09-06 | 2022-09-13 |
+| [Sleeping Giant](https://open.spotify.com/track/7EuPou4Xsee5MjH8HScM3r) | [SLAK](https://open.spotify.com/artist/0axatT20L7PAw25ZyCnbJ0) | [SLAK](https://open.spotify.com/album/77SwPn3bUUba2blV2wxT5c) | 5:32 | 2026-04-28 |  |
 | [SMILE](https://open.spotify.com/track/7gIJ23wc4OAoJAEr8PKl1P) | [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr) | [SMILE](https://open.spotify.com/album/0kIBnznQgEMiBqF5C6RKtg) | 5:05 | 2023-08-01 | 2023-09-18 |
 | [So Tender](https://open.spotify.com/track/6SGFjRU5INlp6dBTLWfr4O) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Today Is Another Day](https://open.spotify.com/album/1rfz7JSqXPVU4w2gxm49Yf) | 6:16 | 2023-01-17 | 2023-01-25 |
 | [Some Other Time](https://open.spotify.com/track/2s8Eg9LjyhozDr2S35OKf2) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [Some Other Time](https://open.spotify.com/album/6m40BVddWchwMRAUkm2lYx) | 6:29 | 2022-12-20 | 2023-04-19 |
@@ -373,7 +375,7 @@
 | [Thanks For Emily](https://open.spotify.com/track/5pXuqemHKZqtHMTAbFRVFK) | [Fumika Asari](https://open.spotify.com/artist/0XhLhf8Kv1Ox6l7Y2l9gtK) | [Thanks For Emily](https://open.spotify.com/album/6SnmxEiNhgy8qvJGOsUOb8) | 5:39 | 2023-04-18 | 2023-05-17 |
 | [That's All](https://open.spotify.com/track/0Q4zuXMdTNhbALgnt0o9rN) | [矢崎恵理](https://open.spotify.com/artist/5u29jSzmiMAB7bfz8kroxU) | [That's All](https://open.spotify.com/album/2a6qGH7sR2pvBNhOnMxeJw) | 4:31 | 2024-07-09 | 2024-07-24 |
 | [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 | 2022-10-25 | 2024-12-18 |
-| [The Pioneer's Quest](https://open.spotify.com/track/2sslnI7fe966od8Ji9OSvR) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV), [The Danish Radio Big Band](https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE) | [The Pioneer's Quest](https://open.spotify.com/album/1HxnLmi7JSJNQS1TFkik25) | 7:06 | 2026-04-07 |  |
+| [The Pioneer's Quest](https://open.spotify.com/track/2sslnI7fe966od8Ji9OSvR) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV), [The Danish Radio Big Band](https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE) | [The Pioneer's Quest](https://open.spotify.com/album/1HxnLmi7JSJNQS1TFkik25) | 7:06 | 2026-04-07 | 2026-04-29 |
 | [The qante](https://open.spotify.com/track/4mdrdhKGAhrFBpPpIXsDDC) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b), [Kojoe](https://open.spotify.com/artist/3yP8JwasYIrAxRT2Dw1xZu) | [Lims](https://open.spotify.com/album/3UFsV7eEi8jztQlKV3D3uw) | 4:29 | 2026-02-17 |  |
 | [THE REASON](https://open.spotify.com/track/5xfX9hGoqTrtf8CKRooKDJ) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [THE REASON](https://open.spotify.com/album/4B2QFm17k16m1nokbJbieB) | 4:50 | 2023-02-28 | 2023-03-29 |
 | [The reasoning \- Session 03](https://open.spotify.com/track/4fm26UJ7Bufev5ZMmFFX7c) | [Yield Painting Further](https://open.spotify.com/artist/49FgSxPahFQMVJPAuJl6LB), [Tabu Zombie](https://open.spotify.com/artist/3Vp0jjkPKrwvBWfYCXyDRC) | [1617](https://open.spotify.com/album/4BKC37GM2VDp9fDFtopqTE) | 4:07 | 2024-05-23 | 2024-05-29 |
@@ -424,7 +426,7 @@
 | [Vortex](https://open.spotify.com/track/5Zb07tmlMx9yh0g3F0HCLI) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Vortex](https://open.spotify.com/album/2OQ9XYdCoTsjcSrieOQfEI) | 2:53 | 2024-11-27 | 2025-01-13 |
 | [WAKABA](https://open.spotify.com/track/4bTr3UbZjM8inclL0gPq2r) | [Soundtype](https://open.spotify.com/artist/0IDzcMfdL7OKZNhFjjH4Te) | [WAKABA](https://open.spotify.com/album/1J09jgpvTOR0djVbAOHlmy) | 2:50 | 2025-09-30 | 2025-11-05 |
 | [Wander from place to place](https://open.spotify.com/track/23XzSHqcxpAjh0VFQ4Dmea) | [Morphine Desert \-trio acoustic\-](https://open.spotify.com/artist/4qNCHyjKwuZwKJucdokJ33) | [Tales Of the Desert](https://open.spotify.com/album/3JN76A0m4MiRxZexsmUDbQ) | 5:45 | 2022-12-06 | 2023-03-08 |
-| [Wanted](https://open.spotify.com/track/5MJzxfOe8hmqJDn6NEFO98) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/56y2AKjPkkMxCLGurbRco3) | 7:12 | 2023-09-05 |  |
+| [Wanted](https://open.spotify.com/track/5MJzxfOe8hmqJDn6NEFO98) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/56y2AKjPkkMxCLGurbRco3) | 7:12 | 2023-09-05 | 2026-04-29 |
 | [Wanted](https://open.spotify.com/track/5v0Nftz5zbMK2CZhpJWiND) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/4AwRYl2kRyCYaAkxHAklZ8) | 7:12 | 2023-10-03 | 2024-01-31 |
 | [water melon](https://open.spotify.com/track/1MoCrRPl7VmLqkuVPBuc8n) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [water melon](https://open.spotify.com/album/17xOXntWM5dpQPmNCl5y9A) | 3:51 | 2022-11-15 | 2023-01-11 |
 | [water of goddess](https://open.spotify.com/track/6yoA5AMvxjNd1RoykmbnAZ) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [water of goddess](https://open.spotify.com/album/6xN8qW4onF9aYvqZTx2XDt) | 3:38 | 2023-01-10 | 2023-02-28 |

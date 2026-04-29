@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-997 songs - 2 day 10 hr 17 min
+1,000 songs - 2 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,6 +476,7 @@
 | [Lifespan](https://open.spotify.com/track/061iJoemR1JeGwFZa0339j) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Lifespan](https://open.spotify.com/album/3wOlsRSBN05i4lfp9zYhBy) | 2:22 | 2025-10-17 | 2026-01-15 |
 | [Like a Seagull](https://open.spotify.com/track/2wojO6FmZRzE56UBDJ35ms) | [Eden Rose](https://open.spotify.com/artist/5SOfWUcNGehU0c0foyXQjl) | [Like a Seagull](https://open.spotify.com/album/23Mh0bl7UsPtNhK4fo0CNb) | 3:19 | 2026-02-09 | 2026-03-07 |
 | [Like Pulling A Push Door](https://open.spotify.com/track/0mrTVSHYd6kRWZtQLbhqGp) | [Denny Haze](https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1) | [Like Pulling A Push Door](https://open.spotify.com/album/6kUbqWznpOf8umUS1EHmSq) | 3:24 | 2026-04-15 |  |
+| [Lilac Oil](https://open.spotify.com/track/2SckxctBDFyfpZbgpsKwJN) | [Cameron Esther](https://open.spotify.com/artist/1xTdRNp6vqtCup5YoVSfWE) | [Lilac Oil](https://open.spotify.com/album/3zZDJbH4uW4KA0kbdPTDxF) | 4:25 | 2026-04-28 |  |
 | [Liminal](https://open.spotify.com/track/1vHbFf4vScIbvOqdlUTmIU) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Liminal](https://open.spotify.com/album/0eMFhVV9J64pfUouzj7wAs) | 2:40 | 2026-03-30 |  |
 | [Limérence](https://open.spotify.com/track/2bHWqW5Z7yI8D8FgyJ3mgU) | [UDU](https://open.spotify.com/artist/55mFwxCAjmt3l6nmFtP6jp) | [Tabarden](https://open.spotify.com/album/20V1o95entpLF5IsVZkE2t) | 3:45 | 2025-12-17 | 2026-01-15 |
 | [Little Wonders](https://open.spotify.com/track/0uEZXhpxqigo36E5NMQETt) | [Jasmin Ahrent](https://open.spotify.com/artist/2ZkozTiOfdofrlkZVWK3WM) | [Little Wonders](https://open.spotify.com/album/4mVtkDM3Bf02KEege14QMx) | 3:38 | 2026-04-21 |  |
@@ -591,6 +592,7 @@
 | [Nina the Dressmaker](https://open.spotify.com/track/753qgf9vKNuImbtcpt46qn) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [Nina the Dressmaker](https://open.spotify.com/album/0yo32cNHcbKaDZms79YdOO) | 4:40 | 2023-04-20 | 2025-11-29 |
 | [Nina the Dressmaker \(alt\. Vers\)](https://open.spotify.com/track/5KpF9K5ey1hJ8t07zKD42G) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [Ma sister jumps through fire: a jazz drama](https://open.spotify.com/album/5FW6ouGwJts0HD8PfUFti9) | 4:49 | 2023-04-27 | 2025-11-29 |
 | [No Es para Ti](https://open.spotify.com/track/3KzdyeLHY03BGaflizEsUO) | [MDN](https://open.spotify.com/artist/6M7T1w0kGNqLrOdXbWZoNT), [mdn.beats](https://open.spotify.com/artist/1VFNIHRiKBm7BkpQdF2qUD) | [No Es para Ti](https://open.spotify.com/album/1VdO2ivmFAg6QyUo155F7N) | 3:10 | 2026-04-11 |  |
+| [No Fear](https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [No Fear](https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr) | 3:23 | 2026-04-28 |  |
 | [No Kings](https://open.spotify.com/track/15E5RPanamaDv4eW8nmkPl) | [Hariyono](https://open.spotify.com/artist/1mX3tMoN3V0gl2mUk79o5T) | [No Kings](https://open.spotify.com/album/5BOKRHvfad5v80hpna7T43) | 2:14 | 2026-04-10 |  |
 | [No More Chains to Hold Us \(From "Unliked"\)](https://open.spotify.com/track/52rXrALwA36lCsqEyjjwAc) | [Gonçal Perales](https://open.spotify.com/artist/66mfK9wH1pGIyiHG29aLtv), [Alex Flores](https://open.spotify.com/artist/6x1uNga2exZAAlQxMVHNUK) | [Short Films, Vol\. 3](https://open.spotify.com/album/08YDzbe8bNIgXORZt73VUB) | 2:29 | 2026-04-20 |  |
 | [No Time](https://open.spotify.com/track/5vCvWmImr0Vr7YH0C0AyX2) | [Samuel y los Rezagados](https://open.spotify.com/artist/2x8GEMtyjX8bnJhNcNsJrW), [enma alvear](https://open.spotify.com/artist/6xvChSW0aFmkQ7WDjsKmne) | [Back In Business](https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ) | 4:48 | 2026-03-02 | 2026-03-25 |
@@ -744,6 +746,7 @@
 | [Silhouette](https://open.spotify.com/track/3PXC71Anog78H0WlzANi49) | [Maxine Louise](https://open.spotify.com/artist/3vOuuR55nZMwjEluo4Su6d) | [Silhouette](https://open.spotify.com/album/4fFxum7G5Pm3RD94GHk2VY) | 3:04 | 2026-04-23 |  |
 | [silver moon](https://open.spotify.com/track/1wHgGm0nW3CXVJsp6drLMa) | [Rob Linx](https://open.spotify.com/artist/0HjB27915ai70JyDebH1x8) | [silver moon](https://open.spotify.com/album/3u5KpY0cPdWb71SSOHCq0b) | 3:23 | 2026-02-04 | 2026-03-07 |
 | [Simulation 1](https://open.spotify.com/track/41xuNZSih3uCTs0hpk1AEg) | [Rian KF](https://open.spotify.com/artist/12Dx6feH6TLh2qjXnxT5mu), [Holly Lee Jones](https://open.spotify.com/artist/1lhYuMgpOjrG7D1iBWD9Co) | [Simulation 1](https://open.spotify.com/album/5uVyeKGwTwVCaRBiKhJ7Rt) | 3:53 | 2025-12-22 | 2026-01-24 |
+| [Sinestesia](https://open.spotify.com/track/22ZInNn8F0DLbvrSuEGVwN) | [Décum](https://open.spotify.com/artist/2nlYRGKyaJpzquLbtpCguk) | [Sinestesia](https://open.spotify.com/album/04kHKXMzCbtWplYIeJXaV8) | 3:16 | 2026-04-28 |  |
 | [Sister Jump!](https://open.spotify.com/track/7LohvYSmaSusHptw1k5zjX) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [Sister Jump!](https://open.spotify.com/album/0INugDX8i5DKES8W55FIEh) | 5:43 | 2023-04-27 | 2025-11-29 |
 | [Situazione complicata](https://open.spotify.com/track/08UX2BEhPxVX2TFBl1igwE) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Situazione complicata](https://open.spotify.com/album/6yKjEIz2nxP8dpTOfwwoZ9) | 3:42 | 2026-01-04 | 2026-02-03 |
 | [Six Years](https://open.spotify.com/track/2oKwFFkRhsqN2Ja8BZ0io7) | [hateclay](https://open.spotify.com/artist/3NQb1iQBV5F8gf03zwRfPX), [Clay Winters](https://open.spotify.com/artist/5dMclDZPP5Ng2HVspxz3ip) | [Repeat](https://open.spotify.com/album/2VI3dPgXtGqWbEvWmRcvwL) | 2:18 | 2026-03-09 | 2026-04-12 |

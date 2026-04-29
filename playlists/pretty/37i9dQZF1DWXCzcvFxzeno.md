@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,815 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,071 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 22 | [SCANDAL ANTHEM](https://open.spotify.com/track/08DchrgnFXBD6H142l4tvY) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy), [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [SCANDAL ANTHEM](https://open.spotify.com/album/1KGIRYw9xdet38N9JKZp7l) | 4:04 |
 | 23 | [4am In A Rave \(feat\. rhys from the sticks\)](https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [4am In A Rave / Speed Is A Deed](https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ) | 2:27 |
 | 24 | [NEVER SAY](https://open.spotify.com/track/2PEk8dGYY3VFfZzGkBEzh8) | [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [NEVER SAY](https://open.spotify.com/album/3jLuTS96m3kSKxXoXmH4yN) | 3:07 |
-| 25 | [Cry Baby](https://open.spotify.com/track/1HT4dUq8tpvwBqV4CzIn7q) | [Rebekah](https://open.spotify.com/artist/7rmuxvt1D8dIU920lNcR67), [Hardkar](https://open.spotify.com/artist/4GX89KSypavWMidXuOA321) | [Cry Baby](https://open.spotify.com/album/5F8ut8M7prcwQUG3yF4Dzc) | 3:44 |
+| 25 | [Cry Baby](https://open.spotify.com/track/1HT4dUq8tpvwBqV4CzIn7q) | [Rebekah](https://open.spotify.com/artist/7rmuxvt1D8dIU920lNcR67), [HARDKAR](https://open.spotify.com/artist/4GX89KSypavWMidXuOA321) | [Cry Baby](https://open.spotify.com/album/5F8ut8M7prcwQUG3yF4Dzc) | 3:44 |
 | 26 | [See Me Coming](https://open.spotify.com/track/2h7C1TrUOKCqI5DTM3XW3m) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [See Me Coming](https://open.spotify.com/album/0AKiFtkKreaYXCJ5v1I5DY) | 4:16 |
 | 27 | [Legacy](https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Legacy](https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b) | 6:49 |
 | 28 | [SCHREI NACH LIEBE](https://open.spotify.com/track/3QNc1m52Gwrow7nAZf3raw) | [Michael Klotz](https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh) | [SCHREI NACH LIEBE](https://open.spotify.com/album/5QIaC3d8OLlygvDAANvgHu) | 2:29 |

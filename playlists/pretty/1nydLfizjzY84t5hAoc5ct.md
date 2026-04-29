@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,350 likes - 135 songs - 8 hr 43 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,350 likes - 136 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,5 +143,6 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 133 | [ALL THORNS NO ROSES](https://open.spotify.com/track/4zAsrsEnRA3JwsTPDibT58) | [FAEDA](https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru) | [ALL THORNS NO ROSES](https://open.spotify.com/album/7whk2qSdvWEqv7zO4FX4HH) | 3:43 |
 | 134 | [Look Me In The Eye](https://open.spotify.com/track/4V6D8bxGBhhqFhe6pTWbHg) | [FAEDA](https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru) | [Look Me In The Eye](https://open.spotify.com/album/122QcOvBCwlu4MUQ7Pq1N0) | 3:33 |
 | 135 | [Mrs McPherson's Reel \- Gibston](https://open.spotify.com/track/6ytS9ji0orpQamdc6F7NYb) | [Alice Allen](https://open.spotify.com/artist/5EhYBIoWiClQb9d8lPBnlC), [Patsy Reid](https://open.spotify.com/artist/1lqXI4ay0Qy7Sx210Yihko) | [Strathspey Queens II](https://open.spotify.com/album/6mwsv1qk0D9S35n1zdfTGG) | 1:54 |
+| 136 | [Arise](https://open.spotify.com/track/2rFqanqkIiwRQipv7cPrch) | [Helicon](https://open.spotify.com/artist/7iVHHjl4pxhEHFkmsRBAwd), [Al Lover](https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A) | [Arise](https://open.spotify.com/album/1VN8yZ9r3bxaK6ggOznZPh) | 3:39 |
 
-Snapshot ID: `AAB3lpumV3Rzrs4kPcv7X5VdCh++d3Xx`
+Snapshot ID: `AAB3l06vbuuD20jck7iur5WFt7PQd7Ws`

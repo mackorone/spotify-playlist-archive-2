@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Na9FTYame5.md) - [plain]
 
 > Deutschrap für die emotions\. Cover: Alies, Zuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,582 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,544 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Benzin](https://open.spotify.com/track/3BjFI5GwXcgZHtW0n9bdrZ) | [Mucco](https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y) | [Benzin](https://open.spotify.com/album/3PBuFvcyS2PPcOPc17P0AT) | 2:36 |
-| 2 | [HAUS MIT BOOT](https://open.spotify.com/track/5LhlFA9WBKwAVWHd6bdpsQ) | [Cave](https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9) | [Haus mit Boot](https://open.spotify.com/album/1jVb7l0YvazooEGMOn5YpQ) | 2:35 |
+| 2 | [HAUS MIT BOOT](https://open.spotify.com/track/5LhlFA9WBKwAVWHd6bdpsQ) | [Cave](https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9) | [HAUS MIT BOOT](https://open.spotify.com/album/1jVb7l0YvazooEGMOn5YpQ) | 2:35 |
 | 3 | [Nie wieder](https://open.spotify.com/track/6HENsmG5BVQpVaewDUTlqq) | [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e), [Alies](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4) | [Nie wieder](https://open.spotify.com/album/4n17pN1bg08cqAMnogswkY) | 2:36 |
 | 4 | [Blessed](https://open.spotify.com/track/32bZCHZS1dx4Tab16TVy2B) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Blessed](https://open.spotify.com/album/1fu1KcaqGJUP8BjVLtQtC7) | 2:34 |
 | 5 | [Schweden](https://open.spotify.com/track/0xkmPYJQX9KDl4pTd7UvI5) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Ich wünschte, es würd' mich kümmern](https://open.spotify.com/album/0N5tvHsq4LEOH7snMpeRbW) | 4:45 |

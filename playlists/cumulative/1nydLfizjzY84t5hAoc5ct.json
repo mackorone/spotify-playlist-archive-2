@@ -193,6 +193,28 @@
     },
     {
       "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/1VN8yZ9r3bxaK6ggOznZPh"
+      },
+      "artists": [
+        {
+          "name": "Helicon",
+          "url": "https://open.spotify.com/artist/7iVHHjl4pxhEHFkmsRBAwd"
+        },
+        {
+          "name": "Al Lover",
+          "url": "https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219250,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/2rFqanqkIiwRQipv7cPrch"
+    },
+    {
+      "album": {
         "name": "At Nathan's House",
         "url": "https://open.spotify.com/album/2cOtM6OudVEX5xJe9ooAEO"
       },

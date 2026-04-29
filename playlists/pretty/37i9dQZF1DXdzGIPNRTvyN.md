@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,036 likes - 195 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,369 likes - 195 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 194 | [Forest Channel](https://open.spotify.com/track/21kHvsjYwW7vE8yRJGCHGr) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Forest Channel](https://open.spotify.com/album/43XL6Q7IOeJkvX2gC1fwQx) | 2:37 |
 | 195 | [Bubbling Waters](https://open.spotify.com/track/1zaF9aOvpI9FXLY4vmqzSn) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Bubbling Waters](https://open.spotify.com/album/44zvhAbyyWLmQPlVaZAEFE) | 3:10 |
 
-Snapshot ID: `AAAAAHwfbctwmkDDvFvxLiWkkKhQua1i`
+Snapshot ID: `AAAAAGluzkwirtUmzmgQGBr7NYHfU0LS`

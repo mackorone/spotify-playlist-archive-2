@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Explore the current wave of VOCALOID culture. Cover: Amala",
+  "description": "Explore the current wave of VOCALOID culture. Cover: Kikuo",
   "name": "VOCALOID now",
   "tracks": [
     {
@@ -1460,6 +1460,24 @@
       "duration_ms": 205092,
       "name": "God-ish",
       "url": "https://open.spotify.com/track/08Th6KDn0ESaxZis89HxRo"
+    },
+    {
+      "album": {
+        "name": "gONE",
+        "url": "https://open.spotify.com/album/52ROe33baeAGdxT202IyqX"
+      },
+      "artists": [
+        {
+          "name": "Utsu-P",
+          "url": "https://open.spotify.com/artist/3Zo5u5IljPxQEfbNY2OgsX"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227700,
+      "name": "gONE",
+      "url": "https://open.spotify.com/track/6J7TyJPpibB6wQeGNVzFlZ"
     },
     {
       "album": {
@@ -2944,6 +2962,24 @@
       "duration_ms": 291693,
       "name": "Online Game Addicts Sprechchor feat.Hatsune Miku",
       "url": "https://open.spotify.com/track/5UX2XYxGf9s10kmkSObPpA"
+    },
+    {
+      "album": {
+        "name": "OSHIOSHIOSHIOSHI / MONEYMONEYMONEYMONEY",
+        "url": "https://open.spotify.com/album/7Bm0fQryzCnm3Klw8HezYk"
+      },
+      "artists": [
+        {
+          "name": "Kikuo",
+          "url": "https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "OSHIOSHIOSHIOSHI / MONEYMONEYMONEYMONEY (Vocaloid ver.)",
+      "url": "https://open.spotify.com/track/3yCKJlbaX60oX6K4mgurgz"
     },
     {
       "album": {
@@ -10424,7 +10460,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 127200,
       "name": "\u4eba\u30de\u30cb\u30a2",
       "url": "https://open.spotify.com/track/4H89WUjBaQMIiqcnMSVX1j"
@@ -10840,7 +10876,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 172000,
       "name": "\u544a\u767d",
       "url": "https://open.spotify.com/track/3PwqBFAzwCxFLznnK6hKzp"

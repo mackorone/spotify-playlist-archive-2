@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover: Hulvey
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,629 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,666 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 11 | [peace at last](https://open.spotify.com/track/3GU1NnT6gLvNrkTNnmo2Lh) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [peace at last](https://open.spotify.com/album/0NUDgYkJXkkI6e0LfuvTs0) | 2:34 |
 | 12 | [CHOSEN](https://open.spotify.com/track/4iIcEBdkPvbr17YttcTOAW) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [CHOSEN](https://open.spotify.com/album/0afpI85zO7cNvtzDPf79mB) | 2:19 |
 | 13 | [Falling Down](https://open.spotify.com/track/5eKAniFz34K9SCl2sCNs3i) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Falling Down](https://open.spotify.com/album/5v2wM972i4zaGtkISEy9nb) | 4:04 |
-| 14 | [Big Girl Big God Remix \(feat\. Porsha Love, Tylynn, Anike & TuKool Tiff\) \- Remix](https://open.spotify.com/track/5aE5ps63kX9JTpx9BaYx7D) | [LANELL GRANT](https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Tukool Tiff](https://open.spotify.com/artist/31fWgNrRCySK9fxRmOWeqs) | [Big Girl Big God Remix \(feat\. Porsha Love, Tylynn, TuKool Tiff & Anike\)](https://open.spotify.com/album/6J4T4mOPxNcHcaWoRwS0xl) | 4:49 |
+| 14 | [Big Girl Big God Remix \- Remix](https://open.spotify.com/track/5aE5ps63kX9JTpx9BaYx7D) | [LANELL GRANT](https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Tukool Tiff](https://open.spotify.com/artist/31fWgNrRCySK9fxRmOWeqs) | [Big Girl Big God Remix](https://open.spotify.com/album/6J4T4mOPxNcHcaWoRwS0xl) | 4:49 |
 | 15 | [ALPHA OMEGA](https://open.spotify.com/track/5YPscbKN2dnhwWBFc0CEfL) | [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl) | [MAC](https://open.spotify.com/album/2bOFrOLf6CMDWHYOJ5tLC9) | 2:51 |
 | 16 | [He Can](https://open.spotify.com/track/3En8bMeRZ8s3HkYCDAX75P) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [He Can](https://open.spotify.com/album/1zMaAbWlOY7x7YbC4eROar) | 3:09 |
 | 17 | [AUTOMATIC](https://open.spotify.com/track/1iHAGNjy0Nj9f92AXHxIeC) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [AUTOMATIC](https://open.spotify.com/album/4ZFTys5yabsYmedawVN4Q0) | 2:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 74 | [Aretha](https://open.spotify.com/track/0Clatxwq8QuhcTTRQgxS7z) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Aretha](https://open.spotify.com/album/7JXd9Aqk4jPIX6wgIZVuYd) | 2:15 |
 | 75 | [take the wheel](https://open.spotify.com/track/2H6Xw9IKbZirY1camQHot3) | [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G) | [take the wheel](https://open.spotify.com/album/7sWUex3pzMhcKIvx5Kx3Ig) | 2:17 |
 
-Snapshot ID: `AAAAAHkYgmW0/PzR/Xdd/3xfPEnepG01`
+Snapshot ID: `AAAAAC5YNW93JermS9YrxiI+EP5pZlaY`

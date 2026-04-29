@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Diggo, Léo Santana e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,672 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,646 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 16 | [PENSANDO EM MIM](https://open.spotify.com/track/5irWao94uuCfkiMyttfFJ0) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X), [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV) | [ZERO BALA](https://open.spotify.com/album/7MujiaQZnoo6AQ3CNZEJja) | 3:39 |
 | 17 | [EU SEI QUE NÃO É VERDADE](https://open.spotify.com/track/7BFHyreoRx5ZJclWmyYkWW) | [Dnovaees](https://open.spotify.com/artist/7DHre7bKPEWr38qMcFiwk3), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [GEXIS](https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU) | [EU SEI QUE NÃO É VERDADE](https://open.spotify.com/album/6wp5YPmGAp8kWOTZZZWAMA) | 2:37 |
 | 18 | [Coração e Cadeado](https://open.spotify.com/track/1wAVmlw4xUyXaP0xjfyP4T) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Coração e Cadeado](https://open.spotify.com/album/2LSHuwKeQtODeI2NKqbf7c) | 3:09 |
-| 19 | [Bloco dos Apaixonados](https://open.spotify.com/track/68xXgMubo2U5MEGCtJFxzC) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN) | [Até o Próximo Carnaval, Vol\. 3](https://open.spotify.com/album/6k9jVRNVQRkPrqrT8PGpGI) | 2:42 |
+| 19 | [Bloco dos Apaixonados](https://open.spotify.com/track/68xXgMubo2U5MEGCtJFxzC) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Até o Próximo Carnaval, Vol\. 3](https://open.spotify.com/album/6k9jVRNVQRkPrqrT8PGpGI) | 2:42 |
 | 20 | [Eu Sei Bem](https://open.spotify.com/track/3DWVL0m6uvSt6nxOYJUnY0) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [A Cara do Enquadro](https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn) | 2:33 |
 | 21 | [100% MOLHO](https://open.spotify.com/track/6PMFRImayWVHs9rXA7bOsu) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4) | [ISSO É TRAP](https://open.spotify.com/album/1OFfFTFjfF5NLcbJTgLXLC) | 4:51 |
 | 22 | [Em Qualquer Cama \- Ao Vivo](https://open.spotify.com/track/24MjRkHlHue1Qw3dC61Ypk) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Em Qualquer Cama \(Ao Vivo\)](https://open.spotify.com/album/3NQPcnfCEwZkRQJEoRr7Bn) | 2:50 |

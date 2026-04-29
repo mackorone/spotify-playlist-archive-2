@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: I'm With Her
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,327 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,325 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 23 | [Sweet Child O' Mine](https://open.spotify.com/track/28LJVZ5PfkIboFoW0J4GgE) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [The Bluegrass Tribute to Guns n' Roses](https://open.spotify.com/album/1H1Flaszhxw2xhynLotNCN) | 4:01 |
 | 24 | [Senor \(Tales Of Yankee Power\)](https://open.spotify.com/track/1ABTia5xv1oYxqL5EFbf43) | [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM) | [Red On Blonde](https://open.spotify.com/album/1g1SmW9O61u6tKktYfYcrj) | 4:02 |
 | 25 | [Come On In My Kitchen](https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 4:59 |
-| 26 | [Going To California](https://open.spotify.com/track/1GreApnsVuQ45DwAaTTDgH) | [Grace Bowers & The Hodge Podge](https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx), [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju), [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y), [SistaStrings](https://open.spotify.com/artist/4XCzC4PAZ8KyL7wzqU6z8g), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Going to California](https://open.spotify.com/album/3UCiAPojwoDuxzbawjPyCQ) | 4:10 |
+| 26 | [Going To California](https://open.spotify.com/track/1GreApnsVuQ45DwAaTTDgH) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju), [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y), [The Hodge Podge](https://open.spotify.com/artist/04XDYU4soG9QoUx5VkgpIU), [SistaStrings](https://open.spotify.com/artist/4XCzC4PAZ8KyL7wzqU6z8g), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Going To California](https://open.spotify.com/album/3UCiAPojwoDuxzbawjPyCQ) | 4:10 |
 | 27 | [Stuck in the Middle With You](https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [Stuck in the Middle With You](https://open.spotify.com/album/5lS3mzx7dLrsbjVBwG2YTH) | 3:56 |
 | 28 | [Enter Sandman](https://open.spotify.com/track/7GXfXVnuqATxCs6EQoDcVS) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [Fade To Bluegrass: The Bluegrass Tribute To Metallica](https://open.spotify.com/album/4z8QBQBG513nlZrgDWsuqg) | 4:21 |
 | 29 | [Take Me Home Country Roads](https://open.spotify.com/track/4pVJqLoz3kSFL2Oe1UaHgt) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Destinations and Fun Places](https://open.spotify.com/album/3Gj5Gbm8U9ce2FwW9kdBKl) | 4:16 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 154471,
+  "num_followers": 154495,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae1VgAAAAABqtaHaAsBbClZ7xCGHuwzQ",
+  "snapshot_id": "ae6nAAAAAADBX18GPXAv6Uz4soOq6eng",
   "tracks": [
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pagan Poetry",
+        "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 146200,
+      "name": "Batabid",
+      "url": "https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/6hzx9KNhXkTTcJxnSTeqtY"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 321440,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/6HvnX712Cvf3UMGgbQx5D4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pagan Poetry",
-        "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 146200,
-      "name": "Batabid",
-      "url": "https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Med\u00falla",
-        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "Who Is It (Carry My Joy On The Left, Carry My Pain On The Right)",
-      "url": "https://open.spotify.com/track/7nG7rmmtnAliibLwklkLkb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ex:el",
         "url": "https://open.spotify.com/album/5q3FCcPTqLUT0UkrqMb45z"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 282013,
       "name": "Ooops",
       "url": "https://open.spotify.com/track/1RvhTbg8D5p4dUZSPKA4pK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Med\u00falla",
+        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "Who Is It (Carry My Joy On The Left, Carry My Pain On The Right)",
+      "url": "https://open.spotify.com/track/7nG7rmmtnAliibLwklkLkb"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,904 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,906 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 99 | [Flowers](https://open.spotify.com/track/5DZQlseBlIL18VLqFklHLC) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Flowers](https://open.spotify.com/album/5YFn9uTuVwi7jvsXaMkYVM) | 3:02 |
 | 100 | [The Sea](https://open.spotify.com/track/4kPPj8k1gBxVeC5KxzZvta) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Sea](https://open.spotify.com/album/1UsGJY24SYBJDXRDJe73VP) | 2:45 |
 
-Snapshot ID: `AAAAAMBnY/gZlQPOXf7MIy+0cSk3VOgB`
+Snapshot ID: `AAAAABFaSQwtx7OccqIMkMvpanu1Je8A`

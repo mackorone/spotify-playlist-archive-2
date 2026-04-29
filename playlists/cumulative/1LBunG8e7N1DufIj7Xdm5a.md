@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,312 songs - 9 day 13 hr 38 min
+4,315 songs - 9 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Analog Addiction](https://open.spotify.com/track/4xBmh5nlVyvOEzicADkRd7) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Tape'n roll](https://open.spotify.com/album/6yfNduDodOKYVRsLkl2Awp) | 2:54 | 2025-09-19 |  |
 | [Anarchy Reloaded](https://open.spotify.com/track/7oj6VXKiwNEeuBv5XuNvQJ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Old school punk](https://open.spotify.com/album/7HRvEw1JJpUpB1CmseoZZQ) | 2:14 | 2025-09-19 |  |
 | [ancora](https://open.spotify.com/track/6Han0gQ1Mu9c7DVyWVerzx) | [Holyroh](https://open.spotify.com/artist/0LPwMpSScA73gR7VENCleQ) | [ancora](https://open.spotify.com/album/5U4uERTv47xnVshlh2Qd1O) | 3:00 | 2026-02-13 |  |
+| [And I Suffer](https://open.spotify.com/track/3QTQTBdspOT9ZLAutxwZ2Z) | [Highroad No\. 28](https://open.spotify.com/artist/2Rd79D7pa2uM72yzgHLaGQ) | [Stumbling To Divinity](https://open.spotify.com/album/1uzp6GmGDa2i7SPfM86z1A) | 4:37 | 2026-04-28 |  |
 | [Andiamo al mare](https://open.spotify.com/track/5xrURaUynsj4G50mw1NuKw) | [Alan](https://open.spotify.com/artist/4pCnnAarSOFMmTPeVlEEHC) | [Andiamo al mare](https://open.spotify.com/album/3mwasNRGdtBZadhCq69Fwn) | 4:00 | 2025-05-27 |  |
 | [anfang März](https://open.spotify.com/track/5FZPb8xxF5SXZwEcMkw4Gs) | [T\-Jay](https://open.spotify.com/artist/1bzNvfIBg2TF644EixbESM) | [anfang März](https://open.spotify.com/album/52vaGjmUA3EIroopzhBbGP) | 2:33 | 2025-08-02 |  |
 | [Angel](https://open.spotify.com/track/3xArylDcACBtA8cgBZrijo) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Angel](https://open.spotify.com/album/2MOj4rJYRgcWbWS7yFShb6) | 3:12 | 2023-05-19 |  |
@@ -2313,6 +2314,7 @@
 | [ME](https://open.spotify.com/track/0pYTdFxjFihaOIYcw5rtn6) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [404 Love Not Found](https://open.spotify.com/album/6W1kWmXKLg6sKQPvzfjfLK) | 3:13 | 2025-08-28 |  |
 | [Me](https://open.spotify.com/track/3CTmMCUyAI5OrlTCyhXCaf) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [R&B music album](https://open.spotify.com/album/0cTefedcGjVOy0QYnpq33N) | 3:52 | 2025-09-20 |  |
 | [Me](https://open.spotify.com/track/1x9os7V76PbeskTgo25YkE) | [Mirror Vain](https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7) | [Me](https://open.spotify.com/album/3xQKo4WKYsPDzNWneFEht1) | 2:42 | 2025-11-23 |  |
+| [ME CANSE DE INSISTIR](https://open.spotify.com/track/4WBzWs8FZRp5IQhPzDrKan) | [Lyrian D](https://open.spotify.com/artist/0qAWWEFFUvubUk2O481Dw0) | [ME CANSE DE INSISTIR](https://open.spotify.com/album/4ZetqQJP4lGO10wXdVh9qc) | 3:10 | 2026-04-28 |  |
 | [Me gustas a capela](https://open.spotify.com/track/3u0YSPKFiAazFCpk5bgTLs) | [El vecino de la luna](https://open.spotify.com/artist/0djfMal3VEOhwQiwvOFz56) | [Rozando el suelo](https://open.spotify.com/album/2QHWOyGuzxsRNu6kwb1zea) | 3:33 | 2025-06-13 |  |
 | [Medusa in Fractal \- Radio Edit](https://open.spotify.com/track/5TCBnKiwraSZO6mtm9akQ7) | [Juan Pablo Vitali](https://open.spotify.com/artist/0U0rAvWfvb3NUwiROiUgis), [Orquesta del Living](https://open.spotify.com/artist/1TL57HrpRSi2cCEBhErl18) | [Al Planeta sin el Mundo \(Radio Edit\)](https://open.spotify.com/album/3JAGc3aqeEQ0Ut0BtL1mFi) | 4:47 | 2025-09-25 |  |
 | [Megaloner](https://open.spotify.com/track/09tK0uxKhPE7HWNz27bYNY) | [Circuit des Yeux](https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI) | [Halo On The Inside](https://open.spotify.com/album/1a5FMhDC5UFBhkirhJD72b) | 4:14 | 2025-12-04 |  |
@@ -2852,6 +2854,7 @@
 | [Perfect score](https://open.spotify.com/track/0jgQU8xlIESx3GZn0qlldW) | [Cess](https://open.spotify.com/artist/19eEmlPdBf0H2B2IrnRK2Y) | [Perfect score](https://open.spotify.com/album/4twebpmlfFjkSrSR9EqUln) | 2:20 | 2025-12-04 |  |
 | [Peri](https://open.spotify.com/track/3k1pgfxcmHrZSE7VXnN8Av) | [Satu](https://open.spotify.com/artist/3fMssBRfsHoa6nskqry2mI) | [Persembahan](https://open.spotify.com/album/6RTcLu0zcvBPaVViWgiaMD) | 4:34 | 2025-09-22 |  |
 | [Pericolo giallo](https://open.spotify.com/track/2HvyzMmiFEvjmQyyfkLeYx) | [Giorgio Canali](https://open.spotify.com/artist/5Q1J5NzWPdZcj26K5DqIDQ), [Rossofuoco](https://open.spotify.com/artist/1KZdpVFl5PG1xZ213r7aFO) | [Pericolo giallo](https://open.spotify.com/album/0NTgMryPXL9i5HOTRhACv7) | 2:55 | 2025-11-12 |  |
+| [Perreo Sucio](https://open.spotify.com/track/1PiPXkHkzMZeuVAa6XFUSt) | [Dany Melki](https://open.spotify.com/artist/037AeZZVeAnTNITCescluf) | [Perreo Sucio](https://open.spotify.com/album/2AbmHbcHOHeJX0YUSmYjhd) | 2:28 | 2026-04-28 |  |
 | [Persi nel Ritmo](https://open.spotify.com/track/69iIP2OpNaWHvz4uQEe4Jq) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Playlist Italia 2025](https://open.spotify.com/album/6DUX6UOq97rQeTwOKXGzKM) | 2:08 | 2025-09-12 |  |
 | [Personne n’est comme toi](https://open.spotify.com/track/3e9ZUp2zCG7rIjydxxU0fB) | [Carlo Furii](https://open.spotify.com/artist/79WFeSImI8x1pypmrMxTZM), [François Clavel](https://open.spotify.com/artist/6sbqnTkiftUTU1OxZ0PSGa) | [Personne n’est comme toi](https://open.spotify.com/album/3bgSwm3MR8gM2OWnGM5z4G) | 3:51 | 2025-07-01 |  |
 | [Petrol Fumes](https://open.spotify.com/track/66BBf7Uf3UpyhLFrpnCAmk) | [Billy Nomates](https://open.spotify.com/artist/0QJaBD8Piha8IEwKtNpBOB) | [Emergency Telephone](https://open.spotify.com/album/5lbnFvJgYtqN9UPCVPQu2U) | 4:10 | 2025-11-05 |  |

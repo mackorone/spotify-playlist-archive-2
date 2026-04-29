@@ -2233,6 +2233,24 @@
     },
     {
       "album": {
+        "name": "Renacido Tour 2023",
+        "url": "https://open.spotify.com/album/6cFN69KXbmuwXqmJSRXn7X"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381851,
+      "name": "Popurr\u00ed Kumbia Kings (En Vivo). Na Na Na (Dulce Ni\u00f1a)/ Chiquilla",
+      "url": "https://open.spotify.com/track/42SZjpJpPf5ATDn7PeOqAb"
+    },
+    {
+      "album": {
         "name": "En Vivo Desde Los Mochis",
         "url": "https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W"
       },
@@ -2526,7 +2544,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 131285,
       "name": "Siempre Trabajando",
       "url": "https://open.spotify.com/track/7nK9RJn7XNg5RaRE6v2eQm"

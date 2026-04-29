@@ -4,7 +4,7 @@
 
 > This is Neto Peña\. The essential tracks, all in one playlist.
 
-101 songs - 6 hr 29 min
+102 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,9 +28,10 @@
 | [Callao](https://open.spotify.com/track/5fuvCWDj2za5aKWOBLcxMN) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Callao](https://open.spotify.com/album/7kpAL8ZD2SBimDslL39b2L) | 2:58 | 2023-11-10 | 2025-06-07 |
 | [Calor y Frío](https://open.spotify.com/track/6CVbA3wsSldLVlYMUJq1t3) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Calor y Frío](https://open.spotify.com/album/4Uvg3yVPi2lMMkm36mhbS2) | 3:35 | 2023-11-10 | 2024-10-13 |
 | [Caricatura](https://open.spotify.com/track/3FRHFTC7xJqezSrNIhHySg) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Caricatura](https://open.spotify.com/album/3kB9EDW0zOZz0Lns1enMTb) | 3:21 | 2025-10-23 |  |
-| [Carita de Santa](https://open.spotify.com/track/4eYKV4x82gEFKkZy6leFIB) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Carita de Santa](https://open.spotify.com/album/6mm90NxozSRb53D9Pmw9QN) | 2:21 | 2023-11-10 |  |
+| [Carita de Santa](https://open.spotify.com/track/4eYKV4x82gEFKkZy6leFIB) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Carita de Santa](https://open.spotify.com/album/6mm90NxozSRb53D9Pmw9QN) | 2:21 | 2023-11-10 | 2026-04-29 |
 | [Chamaquito](https://open.spotify.com/track/6uARD0mOA6zjXexD11Mpgs) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Chamaquito](https://open.spotify.com/album/05xOvNfOYaYAtXNfHafE73) | 3:52 | 2025-03-22 | 2025-06-17 |
 | [Cholo en un Low](https://open.spotify.com/track/4Orw6MjT2VFgwGH9YI9ATY) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Fobia](https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq) | 3:20 | 2023-11-10 |  |
+| [Compas X Vida](https://open.spotify.com/track/6UU8pebY7jf2F6n52bqnui) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Compas X Vida](https://open.spotify.com/album/0UKBcgFTj9tQvzQBmX7l7m) | 3:56 | 2026-04-29 |  |
 | [Creo En Mi](https://open.spotify.com/track/6n6sZz85ncrEiOaNNrjs4c) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Creo En Mi](https://open.spotify.com/album/0hgY2SAqUIOT10A3q9Qxj9) | 3:08 | 2023-12-16 | 2024-03-08 |
 | [Cumbia del Cuervo](https://open.spotify.com/track/5cDpywcL0lHVlo8eB0lJbt) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Cumbia del Cuervo](https://open.spotify.com/album/0ks54Ba22mwrpfwfDkjj49) | 3:33 | 2026-01-18 | 2026-02-15 |
 | [Cypher](https://open.spotify.com/track/0M8HCM6ztBgsF150J7oCBt) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Toser One](https://open.spotify.com/artist/7rpKb1IlFFPINHXghluWTr) | [Cypher](https://open.spotify.com/album/74MnBAt8ADj9XZjmUiro9f) | 8:02 | 2023-11-10 |  |

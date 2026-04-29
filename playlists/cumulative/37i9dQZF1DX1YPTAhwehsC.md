@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: 41
 
-2,007 songs - 3 day 19 hr 13 min
+2,008 songs - 3 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Caliente](https://open.spotify.com/track/2b5AQ3wsfAmmYid7lkAtTX) | [27Delly](https://open.spotify.com/artist/17Y9T6RYbruDp0XDIMB6xT), [Jaasu](https://open.spotify.com/artist/3Yu4x0xYvBtdk5ZzwqdykZ), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Thank U, New York \(Deluxe\)](https://open.spotify.com/album/65bpOpvxM4OWVTEYEWQ7Nl) | 2:18 | 2025-02-28 | 2025-03-22 |
 | [Call Me \(feat\. Sheff G\)](https://open.spotify.com/track/24lqEkAEZTGCyp1uq5LBVS) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Read This When You Wake Up](https://open.spotify.com/album/12jOMUVgZAPZefVHeivVrL) | 2:07 | 2024-12-13 | 2025-03-15 |
 | [Calm 3](https://open.spotify.com/track/7KtysXZ01Msd5W0k1BtLQl) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Calm 3](https://open.spotify.com/album/09foLjIsNzSc06T2bIWhEr) | 1:50 | 2025-07-25 |  |
+| [Camden Bop](https://open.spotify.com/track/03yOTCuxZijVjUewFxKKUz) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Camden Bop](https://open.spotify.com/album/71sIu669GFjhtk0E4NiXu3) | 1:31 | 2026-04-28 |  |
 | [Can't Change](https://open.spotify.com/track/1XYaYonYoSaeD0yYf14kuj) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Can't Change](https://open.spotify.com/album/6P8dcMZvwR4BgcLMA3RzPX) | 3:04 | 2026-01-30 | 2026-03-21 |
 | [Can't Come Back](https://open.spotify.com/track/4iB93144GBYUfBuNmIkoCX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Can't Come Back](https://open.spotify.com/album/6J7wuzk1peBKgaohiSCuN6) | 2:34 | 2024-04-26 | 2024-05-03 |
 | [Can't Get Rid Of Me \(feat\. Fergie Baby\)](https://open.spotify.com/track/2EoSee89OYP7n6mwxCHSlq) | [HDBeenDope](https://open.spotify.com/artist/7nE3HHVn8oM8s3kA6cbL8O), [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa) | [Can't Get Rid Of Me \(feat\. Fergie Baby\)](https://open.spotify.com/album/5HsEj4CtAE03sm0H76uPhe) | 2:30 | 2023-05-26 | 2023-07-22 |
@@ -397,7 +398,7 @@
 | [Clingy \(with NAV\)](https://open.spotify.com/track/4JCl8i3zSsm7quRfFr6mAm) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Trendsetter](https://open.spotify.com/album/6B6TNpcbfLYdBweoByc1vi) | 3:26 | 2022-04-08 | 2022-04-16 |
 | [Clocking U](https://open.spotify.com/track/4hNdFY5XiWlcdVY8zBoE8b) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Pretty Girls Love Slizzy](https://open.spotify.com/album/7rQOwlPx5Ma7u6PVRrljVO) | 2:56 | 2023-09-15 | 2024-03-23 |
 | [Close To Me / Active](https://open.spotify.com/track/2jud9pEXGNIedccObMnMTu) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Close To Me / Active](https://open.spotify.com/album/0LLTJSobm3YdnJVzcfIz1q) | 3:37 | 2022-08-19 | 2022-11-19 |
-| [Close Your Eyes](https://open.spotify.com/track/2Pd7T7wbAXEQQazKgTjFVB) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Roofless Records For Drop Tops: Disc 1](https://open.spotify.com/album/3ciu1mV52dlREyJdoetHMr) | 3:37 | 2026-04-03 |  |
+| [Close Your Eyes](https://open.spotify.com/track/2Pd7T7wbAXEQQazKgTjFVB) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Roofless Records For Drop Tops: Disc 1](https://open.spotify.com/album/3ciu1mV52dlREyJdoetHMr) | 3:37 | 2026-04-03 | 2026-04-29 |
 | [Closure \(with Cash Cobain\)](https://open.spotify.com/track/5RXnHx69EemG0EXsmhtfki) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Closure](https://open.spotify.com/album/4nDtOJHPxI43ZaBoWRHSx6) | 2:58 | 2024-10-25 | 2025-01-18 |
 | [CLOVER](https://open.spotify.com/track/0ceAnr7yV1CO6Hseca0vrB) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [CLOVER](https://open.spotify.com/album/5Qd57v5SWaP70VXJBzmu1j) | 3:10 | 2025-03-21 | 2025-07-12 |
 | [Coal](https://open.spotify.com/track/6C8QkuZhwVknE18TvGD0iR) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Coal](https://open.spotify.com/album/4pljXbOadkliUMb3mOuWJc) | 3:49 | 2022-12-02 | 2023-03-25 |

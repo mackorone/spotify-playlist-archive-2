@@ -3242,7 +3242,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 223000,
       "name": "FML - City Sessions, Vol. 2 (Side A)",
       "url": "https://open.spotify.com/track/5r5fuoBAtYhHOnaUHXw4ok"
@@ -10704,6 +10704,28 @@
       "duration_ms": 191627,
       "name": "Tera Intezaar",
       "url": "https://open.spotify.com/track/0c3dZF8M9Hl7tBU0dm4Dp9"
+    },
+    {
+      "album": {
+        "name": "Tera Mera Safar",
+        "url": "https://open.spotify.com/album/4TTNrWM34bhBJ4q6HETYjc"
+      },
+      "artists": [
+        {
+          "name": "Goldie Sohel",
+          "url": "https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186247,
+      "name": "Tera Mera Safar",
+      "url": "https://open.spotify.com/track/0qFjQbh21ZcyDCbcMqqK9V"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596 likes - 162 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 597 likes - 162 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 91 | [Sutton Place](https://open.spotify.com/track/5dZzGFR6iAepOQhaEImAVe) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Gershwin Rhapsody](https://open.spotify.com/album/4H3sICPKEhVcepYaIdb4LD) | 1:25 |
 | 92 | [Prelude](https://open.spotify.com/track/7GzKLmkKBoMgPdr7B9UNRy) | [Larry Goldings](https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Perpetual Pendulum](https://open.spotify.com/album/6t3zbrEc2zc8cSAs9YF9Vf) | 5:28 |
 | 93 | [How Long Has This Been Going On \(12\)](https://open.spotify.com/track/7gb1OisMzANSBw19eBt0WM) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [Chris Connor Sings Lullabys For Lovers \(Remastered 2013\)](https://open.spotify.com/album/2pOmEoxRZ4VdWgpz6IWGfe) | 2:33 |
-| 94 | [Swiss Miss](https://open.spotify.com/track/4V1vagqTpBkTfNqoYwWLOX) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Maurizio Zaccaria](https://open.spotify.com/artist/4fXE8DJVfCK0NjmUIGYVtQ) | [Gershwin: Complete Piano Works](https://open.spotify.com/album/3MVZO9aE7crs8CzjydpD4h) | 2:46 |
+| 94 | [Swiss Miss](https://open.spotify.com/track/5nLXpCGPpzQ8V7FYyLoe1p) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Maurizio Zaccaria](https://open.spotify.com/artist/4fXE8DJVfCK0NjmUIGYVtQ) | [Gershwin: Complete Piano Works](https://open.spotify.com/album/1gJzN8zJ3Lw1pvifbSSaAL) | 2:46 |
 | 95 | [Requiem](https://open.spotify.com/track/3VAOvjPQeaNucFJ7bg38JO) | [Rejuvination](https://open.spotify.com/artist/6P497fZ9wbb6QZVoIxXRo1) | [Introduction](https://open.spotify.com/album/4XCqLiEXH9tmrMotzH6Lkq) | 7:04 |
 | 96 | [Porgy and Bess Suite](https://open.spotify.com/track/7DQLwRs9tBbNoCaalJwzIT) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [New Zealand Symphony Orchestra](https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM), [James Judd](https://open.spotify.com/artist/3bRgHXc5F81fdXrdh5jpz5) | [Gershwin: An American in Paris \- Porgy and Bess Suite](https://open.spotify.com/album/5xKfqBJYj8DKvXnGNNJtav) | 25:08 |
 | 97 | [Ask Me Again](https://open.spotify.com/track/1Up7pdThtA1QQuAOyjDxJm) | [Nancy LaMott](https://open.spotify.com/artist/14py4lZp4X3cYUSlXym7Du) | [Ask Me Again](https://open.spotify.com/album/6PhICOUGGEzqAtMCfKQlyc) | 3:18 |
@@ -168,7 +168,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 158 | [Mary, Queen Of Scots](https://open.spotify.com/track/5CSSuStXPBgDlh9zpWiVI6) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Primrose](https://open.spotify.com/album/3vzbMJ8Ft5sE4y8pzNv782) | 3:40 |
 | 159 | [Oh the Train Is at the Station](https://open.spotify.com/track/5zJs9aamF3W922XtZaLxqo) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:47 |
 | 160 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
-| 161 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
-| 162 | [Beautiful](https://open.spotify.com/track/6RrNAmDgINN1Rlh4f4ZlME) | [Savanna Echo](https://open.spotify.com/artist/14X6fQ0syFLzFPEVw9hRiF) | [Popular Love](https://open.spotify.com/album/7JiHCf987tGaQP6FRyDWAz) | 4:43 |
+| 161 | [Beautiful](https://open.spotify.com/track/6RrNAmDgINN1Rlh4f4ZlME) | [Savanna Echo](https://open.spotify.com/artist/14X6fQ0syFLzFPEVw9hRiF) | [Popular Love](https://open.spotify.com/album/7JiHCf987tGaQP6FRyDWAz) | 4:43 |
+| 162 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 
-Snapshot ID: `AcQAxgAAAACB8ChhnSi7XV5C68WQo88Z`
+Snapshot ID: `AcQGZgAAAADCPIcjlykBiFnxYItf1V59`

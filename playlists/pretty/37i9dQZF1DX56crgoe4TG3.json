@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285327,
+  "num_followers": 285325,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -447,14 +447,10 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Going to California",
+        "name": "Going To California",
         "url": "https://open.spotify.com/album/3UCiAPojwoDuxzbawjPyCQ"
       },
       "artists": [
-        {
-          "name": "Grace Bowers & The Hodge Podge",
-          "url": "https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx"
-        },
         {
           "name": "Lucie Silvas",
           "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
@@ -462,6 +458,10 @@
         {
           "name": "Caroline Jones",
           "url": "https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y"
+        },
+        {
+          "name": "The Hodge Podge",
+          "url": "https://open.spotify.com/artist/04XDYU4soG9QoUx5VkgpIU"
         },
         {
           "name": "SistaStrings",

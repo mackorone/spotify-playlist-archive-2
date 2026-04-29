@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 414 likes - 87 songs - 5 hr 34 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 417 likes - 88 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,5 +95,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 85 | [Broken Wings](https://open.spotify.com/track/5AxJgG2erlDiiwqPaRizts) | [Deully](https://open.spotify.com/artist/1tttcmDgOPmadXhAVQZLyr) | [Broken Wings](https://open.spotify.com/album/2Mz0dXbN2s0tRdOTujMPCT) | 4:21 |
 | 86 | [No Angel Is Watching](https://open.spotify.com/track/3Cjct6UfADZsVdXdRHmOae) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [No Angel Is Watching](https://open.spotify.com/album/68XNOikZKxIdeg4OncW44B) | 2:55 |
 | 87 | [Fire of Your Soul](https://open.spotify.com/track/1wrsHTXXtBOHDUl8358ed7) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Fire of Your Soul](https://open.spotify.com/album/2fN64WOVPjOdRNWXKIwMmI) | 2:21 |
+| 88 | [Walk Away](https://open.spotify.com/track/0goHckNxy52mUUqaSqJ0gN) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [Walk Away](https://open.spotify.com/album/2EJUBIUDDBmmJm0qqN8eTJ) | 3:14 |
 
-Snapshot ID: `AAABiKVW4MSj3WOUYECJWt7DEqaBiL7c`
+Snapshot ID: `AAABiZf0oq9hvOF3nzq1m5xtpJGnBpWy`

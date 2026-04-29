@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Vaazha 2",
-  "num_followers": 660428,
+  "num_followers": 661135,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIqXPReXfA+yerlyF1U/IUTE9jdg",
+  "snapshot_id": "AAAAAILcHkYrv/vblnICT9hSLnzAwlkN",
   "tracks": [
     {
       "added_at": "2026-04-27 08:02:00",
@@ -221,6 +221,34 @@
       "url": "https://open.spotify.com/track/0Dt5EqEckM8jcfMYEdlx2Z"
     },
     {
+      "added_at": "2026-04-28 09:22:03",
+      "album": {
+        "name": "Akale",
+        "url": "https://open.spotify.com/album/2LQhZkamcL2YklCE2W9PdB"
+      },
+      "artists": [
+        {
+          "name": "Nevin Thomas",
+          "url": "https://open.spotify.com/artist/29t7mv5S6lSSOlVhPAFP2y"
+        },
+        {
+          "name": "Akhil Jifroom",
+          "url": "https://open.spotify.com/artist/75plEvjt52hf70SHFUfEQs"
+        },
+        {
+          "name": "Deepu Antony",
+          "url": "https://open.spotify.com/artist/1j4dHqdR16uFyGMyb3ecpT"
+        },
+        {
+          "name": "Irine ann",
+          "url": "https://open.spotify.com/artist/2cE6hK8CmfY2pnh7f3w00h"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Akale",
+      "url": "https://open.spotify.com/track/7sNZfck5oFf1Rt1e8MCVIa"
+    },
+    {
       "added_at": "2026-03-31 05:14:52",
       "album": {
         "name": "Chorkk",
@@ -411,30 +439,6 @@
       "duration_ms": 161413,
       "name": "Cringe Paattu",
       "url": "https://open.spotify.com/track/4bcOWgsod1G0ZBwaxty2sk"
-    },
-    {
-      "added_at": "2026-02-26 10:08:13",
-      "album": {
-        "name": "Haal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2TCgcD0kzPASO874pZU9q0"
-      },
-      "artists": [
-        {
-          "name": "Nandhagopan V",
-          "url": "https://open.spotify.com/artist/1IwTb8dG4dLNCd6yfHW25y"
-        },
-        {
-          "name": "Ramya Nambessan",
-          "url": "https://open.spotify.com/artist/2jLNoI1JBkPjnIa0qCWLVa"
-        },
-        {
-          "name": "Muthu",
-          "url": "https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Barakallah",
-      "url": "https://open.spotify.com/track/34e7QY2XDUvmSra1H12ath"
     },
     {
       "added_at": "2026-02-17 06:27:53",

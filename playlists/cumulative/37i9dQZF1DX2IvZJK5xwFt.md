@@ -2,7 +2,7 @@
 
 ### [Just Rock!](https://open.spotify.com/playlist/37i9dQZF1DX2IvZJK5xwFt)
 
-> Only the best rock in the world\. Cover: Linkin Park
+> Only the best rock in the world\. Cover: Måneskin
 
 1,098 songs - 2 day 19 hr 50 min
 
@@ -291,7 +291,7 @@
 | [EMPTY](https://open.spotify.com/track/1lU1D4ay1tarkjkyEhxiSN) | [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [EMPTY](https://open.spotify.com/album/539efTuyDDvj6njVfILi0G) | 3:12 | 2023-01-16 | 2023-01-27 |
 | [End of You](https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [End of You](https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1) | 3:12 | 2025-09-04 | 2026-02-28 |
 | [End The Transmission](https://open.spotify.com/track/7icbQ9Y2IQbI8CgXQCzA8c) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 3:42 | 2023-02-09 | 2023-04-21 |
-| [ENEMY](https://open.spotify.com/track/1VIcfFO1tnpfoSxaGaLzeW) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [ENEMY](https://open.spotify.com/album/74o5SNrc5oqx67sWhrBqt4) | 3:09 | 2026-04-03 |  |
+| [ENEMY \(with blackbear\)](https://open.spotify.com/track/1VIcfFO1tnpfoSxaGaLzeW) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [ENEMY \(with blackbear\)](https://open.spotify.com/album/74o5SNrc5oqx67sWhrBqt4) | 3:09 | 2026-04-03 |  |
 | [Enough Is Enough](https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Enough Is Enough](https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ) | 2:49 | 2025-04-04 | 2025-04-26 |
 | [Enter Sandman](https://open.spotify.com/track/5wTtMsguqbZ1T2wPx0Yx34) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Enter Sandman](https://open.spotify.com/album/6G11fV7vuHS1WAhOs1eVNG) | 5:34 | 2022-05-06 | 2022-05-27 |
 | [Epiphany](https://open.spotify.com/track/0emdRqRyhNmIVyHiTeEt7w) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth WVH](https://open.spotify.com/album/1mjQTSatmR9q3FW2q7yNmw) | 4:28 | 2022-05-06 | 2022-07-29 |

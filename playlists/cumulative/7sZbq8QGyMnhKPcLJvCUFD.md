@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-849 songs - 1 day 18 hr 6 min
+850 songs - 1 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Back on Dash](https://open.spotify.com/track/66i7MyCc1Tq4iGZxxHOCej) | [DJVI](https://open.spotify.com/artist/5rn3BUzOWjGGWkCSHQsADZ) | [Back on Dash](https://open.spotify.com/album/3uOH80WiPsBfObjNAzXm32) | 3:06 | 2024-11-08 |  |
 | [Back To Default](https://open.spotify.com/track/1NwoE3fQro8s73N9Afkw2n) | [Immy Odon](https://open.spotify.com/artist/01QdfMidctuieFa8ERASX4) | [Back To Default](https://open.spotify.com/album/0oyjf4QTdlY3R3Xawwt6Y8) | 3:23 | 2025-03-10 |  |
 | [Back To You](https://open.spotify.com/track/40ZIBWog1tqU5eaQH4Efdc) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Back To You](https://open.spotify.com/album/4oDFDTpIp2CQorDXd4nFsz) | 3:29 | 2022-11-25 | 2023-08-10 |
+| [Back2u!](https://open.spotify.com/track/1fJ851VI1oJXjHxaDCqpa9) | [Postcard](https://open.spotify.com/artist/5QpG84gIU4qExcd06OgLkw), [MNTRL](https://open.spotify.com/artist/5PafLxTRvveezuTtlfU0Rz), [Sara Benyo](https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M) | [Back2u!](https://open.spotify.com/album/71UtFr5ynmlfaDzCorPb7M) | 4:06 | 2026-04-28 |  |
 | [Backstreet Boy](https://open.spotify.com/track/6j3JSY4y4r4yMyoE3vBiYo) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Backstreet Boy](https://open.spotify.com/album/2pHO3gJwfCCnB9xcHJkJQA) | 3:28 | 2025-01-03 |  |
 | [Bad Girl](https://open.spotify.com/track/6qmT8OZHUbYvwv1hKRK6Sl) | [LAADS](https://open.spotify.com/artist/4NBJ1qcdssZZRKNiVa1vKP) | [Bad Girl](https://open.spotify.com/album/1250FDbX6wRSmfM8wJk9Wv) | 2:44 | 2023-12-13 | 2024-04-17 |
 | [Bad Habit](https://open.spotify.com/track/39LleyvGIy48hCibZROiWD) | [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Zaug](https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1) | [Bad Habit](https://open.spotify.com/album/3lq84tIwKgWOnx0GNg2w1B) | 2:27 | 2023-03-24 | 2023-08-10 |

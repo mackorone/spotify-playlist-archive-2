@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Crookes. The essential tracks, all in one playlist.",
-  "num_followers": 34953,
+  "num_followers": 34960,
   "original_name": "This Is Joy Crookes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae1VgAAAAACE1wXVKep75ymPEI3EPzo0",
+  "snapshot_id": "ae6nAAAAAAAEsdgFdbZRNfOFGxj7VGkX",
   "tracks": [
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Since I Left You (Demo)",
-        "url": "https://open.spotify.com/album/7Mz7zqY2K51W7tyKl2G7rv"
+        "name": "Juniper (Deluxe)",
+        "url": "https://open.spotify.com/album/3gyiTXUQVrz2zqMjZSR6st"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 207048,
-      "name": "Since I Left You - Demo",
-      "url": "https://open.spotify.com/track/1W5ZEYctMAWShvwKEPNbbu"
+      "duration_ms": 378943,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/1EyTkSC9oW5Bl8dZp8dSks"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juniper (Deluxe)",
-        "url": "https://open.spotify.com/album/3gyiTXUQVrz2zqMjZSR6st"
+        "name": "Since I Left You (Demo)",
+        "url": "https://open.spotify.com/album/7Mz7zqY2K51W7tyKl2G7rv"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 378943,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/1EyTkSC9oW5Bl8dZp8dSks"
+      "duration_ms": 207048,
+      "name": "Since I Left You - Demo",
+      "url": "https://open.spotify.com/track/1W5ZEYctMAWShvwKEPNbbu"
     },
     {
       "added_at": null,

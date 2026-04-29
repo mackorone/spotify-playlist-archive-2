@@ -1,12 +1,12 @@
 {
   "description": "Du neuf, du bon, du franco! Roxane Bruneau, Jay Scott, SHAH Frank, Thierry Larose, et plus.",
-  "num_followers": 47970,
+  "num_followers": 47985,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADIYAV5ZE0CMYGot8VOUwmqKC21b",
+  "snapshot_id": "AAAAANwrG5E/qBczTtK8v5lqwduYlibn",
   "tracks": [
     {
       "added_at": "2026-04-24 04:04:51",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm"
     },
     {
+      "added_at": "2026-04-28 19:24:42",
+      "album": {
+        "name": "Les nouveaux soleils",
+        "url": "https://open.spotify.com/album/4uCKWYMoIEfOGjTDxYOj8z"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 238453,
+      "name": "Les nouveaux soleils - Single Version",
+      "url": "https://open.spotify.com/track/1Rt2B1x76Vguf3gCxqnxdl"
+    },
+    {
       "added_at": "2026-04-24 04:04:51",
       "album": {
         "name": "Buzz\u00e9 Pack",
@@ -70,6 +86,22 @@
         {
           "name": "Classe Moyenne",
           "url": "https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        },
+        {
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+        },
+        {
+          "name": "Phil Rxcket",
+          "url": "https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt"
+        },
+        {
+          "name": "Zach Chico",
+          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
         },
         {
           "name": "Marc Dupr\u00e9",

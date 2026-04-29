@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54YRIeLlleD.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Josh Hart
 
-[Spotify](https://open.spotify.com/user/spotify) - 561 likes - 55 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 565 likes - 55 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54YRIeLlleD.md) - [plain]
 | 40 | [Oh \(feat\. Ludacris\)](https://open.spotify.com/track/7i7UIbm5E0DD7aSOYvwp2v) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 4:16 |
 | 41 | [On the Hotline](https://open.spotify.com/track/3bsoEOP4NHEoeVbAAYdbaU) | [Pretty Ricky](https://open.spotify.com/artist/6XwcepfAsPhrvwziGxhwju) | [Late Night Special](https://open.spotify.com/album/0xbRSFuLwoNrRurfUXkN09) | 4:02 |
 | 42 | [Lovers And Friends](https://open.spotify.com/track/41PWz0hAiU9FqsmjR9Wh62) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Crunk Juice](https://open.spotify.com/album/0hk2hXNB5d65F400dhcdcV) | 4:20 |
-| 43 | [Throw It In The Bag](https://open.spotify.com/track/6c0GmyBsE7mQtrVvxJaWc3) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Loso's Way](https://open.spotify.com/album/6umODQfij1WhoGDhc7UCL8) | 3:51 |
+| 43 | [Throw It In The Bag](https://open.spotify.com/track/6c0GmyBsE7mQtrVvxJaWc3) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [THE\-DREAM](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Loso's Way](https://open.spotify.com/album/6umODQfij1WhoGDhc7UCL8) | 3:51 |
 | 44 | [Into You \(feat\. Tamia\) \- Main Mix](https://open.spotify.com/track/1Jm1I3APcmVz3MqPr5vfTx) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Street Dreams](https://open.spotify.com/album/4zJlHiU3px1lNEsAkoInIh) | 4:53 |
 | 45 | [Put It On Me](https://open.spotify.com/track/7jbrOHIOlYd68e4UA2aRwr) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Vita](https://open.spotify.com/artist/3ot6fEzKvRrCnWy5BWlnxU) | [Rule 3:36](https://open.spotify.com/album/64PjDN73OLJk7tAUbaeH3V) | 4:22 |
 | 46 | [Make Me Better](https://open.spotify.com/track/0YkJU6TjjwzsVXUPRIO0DB) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [From Nothin' To Somethin' \(Bonus Track Version\)](https://open.spotify.com/album/6t5g3iBwXlDWXhSZbDonrJ) | 4:13 |

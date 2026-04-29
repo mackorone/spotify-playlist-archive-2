@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiPIcTLFcMC.md) - [plain]
 
 > Listen to the soundtracks of Crushology 101\. \(바니와 오빠들의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,355 likes - 31 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,361 likes - 31 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiPIcTLFcMC.md) - [plain]
 | 25 | [Curated by Cho Jun young](https://open.spotify.com/track/75IgCU8RhuAKPeSjveIECu) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Crushology 101 Curation Liners](https://open.spotify.com/album/4ryhQXwvNHwTQssLxW6Ct9) | 0:30 |
 | 26 | [You pour down on me](https://open.spotify.com/track/6JByP5H4cLlSfhxVezPGvm) | [Dragon Pony](https://open.spotify.com/artist/2aRhzujDfJ1mVe2XdddXYL) | [You pour down on me \(Crushology 101 OST Part.6\)](https://open.spotify.com/album/3feWfZ0aIFH2C7PoRkHGZc) | 3:59 |
 | 27 | [No Longer](https://open.spotify.com/track/629NRMzA7LTXSuzwG7R1Ag) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regular\-Irregular \- The 1st Album](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) | 4:57 |
-| 28 | [How Love Is](https://open.spotify.com/track/4vL1PIqzQeMw3vZTp8gexx) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY) | [Hwantastic](https://open.spotify.com/album/7kQ4akQelMoA0CKdifLuMg) | 4:55 |
+| 28 | [How Can Love Be like That](https://open.spotify.com/track/4vL1PIqzQeMw3vZTp8gexx) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY) | [Hwantastic](https://open.spotify.com/album/7kQ4akQelMoA0CKdifLuMg) | 4:55 |
 | 29 | [A Beautiful Farewell](https://open.spotify.com/track/4uYt1qSWwaXnPttPgDdEfZ) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Kim Gun Mo 3](https://open.spotify.com/album/7MC1rUuYaRivDt9xHwxyPO) | 4:10 |
 | 30 | [Always Remember Us This Way](https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:30 |
 | 31 | [You Are The Reason](https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 3:24 |

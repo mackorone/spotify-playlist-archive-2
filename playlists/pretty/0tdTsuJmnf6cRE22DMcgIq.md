@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0tdTsuJmnf6cRE22DMcgIq.md) - [plain]
 
 > The American Music Awards is the world’s biggest fan\-voted award show\. This year, hosts Gigi Hadid and Jay Pharoah will share the stage with performers Bruno Mars, Twenty One Pilots, The Chainsmokers, and many more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,238 likes - 35 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,237 likes - 35 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/0tdTsuJmnf6cRE22DMcgIq.md) - [plain]
 | 20 | [False Alarm](https://open.spotify.com/track/6zeGrGo9LKCSVl1xeKv1ar) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [False Alarm](https://open.spotify.com/album/0tedXN4kQ3Ky9t2gL2RQbX) | 3:51 |
 | 21 | [Sex With Me](https://open.spotify.com/track/6WAxKNbZoGNzQTIvdMqkFs) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/19O3rXe4nDu9YDcc2tOQVn) | 3:26 |
 | 22 | [Mercy](https://open.spotify.com/track/7evPpWWu01Klxi0KlPxR17) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/2AJaA0is5qbaqFy77tPl7B) | 3:28 |
-| 23 | [All We Know](https://open.spotify.com/track/2rizacJSyD9S1IQUxUxnsK) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [All We Know](https://open.spotify.com/album/0xmaV6EtJ4M3ebZUPRnhyb) | 3:14 |
+| 23 | [All We Know \(feat\. Phoebe Ryan\)](https://open.spotify.com/track/2rizacJSyD9S1IQUxUxnsK) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [All We Know \(feat\. Phoebe Ryan\)](https://open.spotify.com/album/0xmaV6EtJ4M3ebZUPRnhyb) | 3:14 |
 | 24 | [PILLOWTALK](https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Mind Of Mine \(Deluxe Edition\)](https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0) | 3:22 |
 | 25 | [Needed Me](https://open.spotify.com/track/1Tt4sE4pXi57mTD1GCzsqm) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI](https://open.spotify.com/album/3Q149ZH46Z0f3oDR7vlDYV) | 3:11 |
 | 26 | [Scars To Your Beautiful](https://open.spotify.com/track/0prNGof3XqfTvNDxHonvdK) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/3rDbA12I5duZnlwakqDdZa) | 3:50 |

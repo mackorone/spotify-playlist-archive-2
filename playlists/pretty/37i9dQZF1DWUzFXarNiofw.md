@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Jai'len Josey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,117,536 likes - 250 songs - 12 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,117,560 likes - 250 songs - 12 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 30 | [Heaven](https://open.spotify.com/track/77Gp8fTcbS0kWaQsWCitz3) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Heaven](https://open.spotify.com/album/5rDOO34fYOYtGORXMBZh4D) | 3:01 |
 | 31 | [Ordinary Low](https://open.spotify.com/track/27NQndLNjoFUPKlIpG6zV1) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Jessica Jolia](https://open.spotify.com/artist/3FXmhQqMYygN6kbNicUufx) | [Ordinary Low](https://open.spotify.com/album/5uZl9oK6t4EtAZjlQoFSZa) | 3:41 |
 | 32 | [April Shower](https://open.spotify.com/track/4UAiEIEI0y4wE8kD2y4LTD) | [Saburnia](https://open.spotify.com/artist/3uW5Tz5SFAZuae3LdWSfhQ) | [April Shower](https://open.spotify.com/album/2Fm7JBMe94G5cWRZkXCRSe) | 3:39 |
-| 33 | [Single For Life](https://open.spotify.com/track/61P4SSSQcz4POuUGcTK96g) | [Renee Harmoni](https://open.spotify.com/artist/5wrgRZFLPBu9VnIdljwS4m) | [Single For Life](https://open.spotify.com/album/7hWJovep8pgS0DS6DHMan5) | 3:46 |
+| 33 | [Single For Life](https://open.spotify.com/track/61P4SSSQcz4POuUGcTK96g) | [Renee Harmoni](https://open.spotify.com/artist/5wrgRZFLPBu9VnIdljwS4m) | [Single For Life](https://open.spotify.com/album/7hWJovep8pgS0DS6DHMan5) | 2:44 |
 | 34 | [sandcastle](https://open.spotify.com/track/09kGuqdWjUPWg9K1uckgqC) | [SALOMEA](https://open.spotify.com/artist/4AZjwjj65fmJ3MenJaCxel) | [sandcastle](https://open.spotify.com/album/0RwdktmH8GTVxIocpjknp7) | 3:19 |
 | 35 | [Angel](https://open.spotify.com/track/0lLWJe0idCPLEQwJI2wLD5) | [Dani Offline](https://open.spotify.com/artist/3JPVuuVHTbNiK8OZBCcmm5) | [Angel](https://open.spotify.com/album/56mDUvgaBogi6qWY7Qy1Wh) | 2:39 |
 | 36 | [Sunday Again \(with 2 Chainz\)](https://open.spotify.com/track/0jqIclUdaqiwYEi4FLUBOc) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Sunday Again \(with 2 Chainz\)](https://open.spotify.com/album/1b3dLmOwWOyyqsUtT0NrBv) | 3:40 |
@@ -180,7 +180,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 170 | [Running Away](https://open.spotify.com/track/0IznhhB9YTn9yJXUDxlVYc) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Running Away](https://open.spotify.com/album/50KvY9BPgMUPYFoduyNQv9) | 2:25 |
 | 171 | [DARLING](https://open.spotify.com/track/2zq3pwi2tlf96KbnZqDYvq) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [DARLING](https://open.spotify.com/album/0HJRLdzJ0Y6phDRCBg6i7u) | 3:15 |
 | 172 | [Smile](https://open.spotify.com/track/0vNzk7XIW58X32LohF8v5l) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Smile](https://open.spotify.com/album/7vNkmFZ3dGxlAkW8Z7277E) | 3:04 |
-| 173 | [Wild Ride](https://open.spotify.com/track/41X89JT5axSqQYozs2op40) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Wild Ride](https://open.spotify.com/album/3QjRU4e65hcwIBUYyX8zHY) | 3:41 |
+| 173 | [Wild Ride](https://open.spotify.com/track/41X89JT5axSqQYozs2op40) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Wild Ride](https://open.spotify.com/album/3QjRU4e65hcwIBUYyX8zHY) | 4:02 |
 | 174 | [Maybe Again](https://open.spotify.com/track/4gBywkTx4P6ieTplo0euFO) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [When The City Sleeps](https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj) | 3:29 |
 | 175 | [Bird Flu](https://open.spotify.com/track/3qzYpnWOvJKRAqN6QBZRro) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Bird Flu](https://open.spotify.com/album/145a1ojISZfWgj9NZwDpLi) | 2:58 |
 | 176 | [Leak It](https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Leak It](https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K) | 3:03 |

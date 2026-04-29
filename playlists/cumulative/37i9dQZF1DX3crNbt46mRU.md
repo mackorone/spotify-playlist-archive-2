@@ -4,7 +4,7 @@
 
 > This week's top new releases, including Lune, Kim Petras, Rauw Alejandro, Keinemusik & many more!
 
-22,264 songs - 46 day 1 hr 53 min
+22,265 songs - 46 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15126,6 +15126,7 @@
 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 | 2023-05-11 | 2023-05-19 |
 | [Peggio del diavolo \(con Gianluca Grignani\)](https://open.spotify.com/track/0xAhJXHWSxwb6yMy9iOUnO) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Ma'](https://open.spotify.com/album/2dSL2X3K3YoVwaKty2JYcE) | 3:08 | 2026-04-02 | 2026-04-11 |
 | [Peinlich](https://open.spotify.com/track/3RV9IOeFMcKqY4Xmd9019o) | [ENYA BOBAN](https://open.spotify.com/artist/6coyoepdk8cngGloJADii6) | [Ich hoff du bist da](https://open.spotify.com/album/3H2Z9AVO0nVfNkDqWKHkYM) | 1:58 | 2024-08-15 | 2024-08-23 |
+| [PELELE](https://open.spotify.com/track/2fgkY8Ffg7aGooiYwz0OpQ) | [WIXO & LA2S](https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN) | [PELELE](https://open.spotify.com/album/3uo4C6Q0yQVQZwfNglnT5C) | 2:07 | 2026-04-24 |  |
 | [Peligrosa](https://open.spotify.com/track/51fq2czsk5tMwmkUwYtaku) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Peligrosa](https://open.spotify.com/album/31aBr7HMKGOtunez31gnOw) | 2:25 | 2023-04-27 | 2023-05-05 |
 | [Pelé](https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Pelé](https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC) | 2:13 | 2023-03-16 | 2023-03-25 |
 | [Penelope](https://open.spotify.com/track/4qXCzGbyq8OlFIGfcQF17O) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Penelope](https://open.spotify.com/album/050HmQfqXtCNROZE6lgOCb) | 2:45 | 2023-09-21 | 2023-09-29 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,856 songs - 4 day 1 hr 25 min
+1,857 songs - 4 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Amnézia](https://open.spotify.com/track/5Iw5AQzzhLxbMYnbuPsNNn) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Megáll Az Idő](https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg) | 1:12 | 2023-03-02 | 2023-03-18 |
 | [ANGYAL](https://open.spotify.com/track/0nKzWWRcRiPdgvhJCkHTj9) | [Beatrick](https://open.spotify.com/artist/55rifkob7SsDI6BMWqOV5m), [Co Lee](https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0), [Miller David](https://open.spotify.com/artist/5xtng3g0tqSa7rCATgm1Cu) | [ANGYAL](https://open.spotify.com/album/55BQ99xY1uBAUQ3KVYzCiN) | 2:52 | 2023-05-20 | 2023-05-23 |
 | [Angyal](https://open.spotify.com/track/77Qqu0UujsDZUp0vl1B0S3) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [Magyar Tenger Kalózai](https://open.spotify.com/album/7G03dGeUw7DdJ36QXJyekX) | 4:19 | 2026-03-14 | 2026-03-20 |
-| [ANGYALOK](https://open.spotify.com/track/24EifBPkwBMG3ohCeA7AUh) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [INTERREGNUM](https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD) | 3:31 | 2026-02-21 | 2026-04-26 |
+| [ANGYALOK](https://open.spotify.com/track/24EifBPkwBMG3ohCeA7AUh) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [INTERREGNUM](https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD) | 3:31 | 2026-02-21 |  |
 | [ANGYALOK](https://open.spotify.com/track/5VzhASm2474qyIwDbDQjFw) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [ANGYALOK](https://open.spotify.com/album/7El982ts9FR1auscPCNLr6) | 3:31 | 2025-06-17 | 2025-12-01 |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2021-04-14 | 2023-02-22 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2022-11-27 |
@@ -212,6 +212,7 @@
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-06-29 | 2023-01-17 |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-04-18 | 2024-06-08 |
 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 | 2022-01-08 | 2022-01-10 |
+| [Beszívom](https://open.spotify.com/track/76rWiHUfPWXAxgWVVP5lyi) | [Follow The Flow](https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC) | [Beszívom](https://open.spotify.com/album/4yAG1pxLUJ6MVVjfWvCAeb) | 2:56 | 2026-04-28 |  |
 | [BETON.HOF1](https://open.spotify.com/track/4eBj6JtbOR8kQ3Lcx2YKxO) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [INTERREGNUM](https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD) | 2:42 | 2026-02-21 | 2026-03-23 |
 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-08 | 2024-09-19 |
 | [Big Poe \(feat\. Sk8brd\)](https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:02 | 2025-07-22 | 2025-07-24 |
@@ -356,7 +357,7 @@
 | [Csirió](https://open.spotify.com/track/0jJVsraMUoXKk8SCiE5fQz) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [AZ ALBUM](https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN) | 2:28 | 2023-02-24 | 2023-04-09 |
 | [Csirió](https://open.spotify.com/track/6OP0vGVuzlr50nFFAEDhlN) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Csirió](https://open.spotify.com/album/0CF7rMETFQHiS26Vp4se5v) | 2:28 | 2023-02-07 | 2023-02-25 |
 | [Csokko](https://open.spotify.com/track/38qhsm0c4QVk6BMhtvZFWv) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [Csokko](https://open.spotify.com/album/72PNr1fXIAE9PXpbMaIT7o) | 2:42 | 2023-04-21 | 2023-09-03 |
-| [Csurran, cseppen](https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T) | [Majka](https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB) | [Csurran, cseppen](https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM) | 4:10 | 2025-01-23 |  |
+| [Csurran, cseppen](https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T) | [Majka](https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB) | [Csurran, cseppen](https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM) | 4:10 | 2025-01-23 | 2026-04-29 |
 | [CSÓKKIRÁLY](https://open.spotify.com/track/5MMKAHHmZKn0IFUNDMSmEz) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [CSÓKKIRÁLY](https://open.spotify.com/album/2ADDMNZHEq4uhKngvB48RT) | 2:40 | 2023-08-01 | 2023-08-26 |
 | [Csússz le](https://open.spotify.com/track/2aWeyLCeCpburBwF0uI7Ls) | [Analog Balaton](https://open.spotify.com/artist/0IUu1vSCfCZJrLHUOgHNWJ), [6363](https://open.spotify.com/artist/6dglJzfnBc11OgGSZE0SVl) | [Csússz le](https://open.spotify.com/album/01HMWLFq2qZgWTPWlI2KTt) | 4:55 | 2022-10-21 | 2022-10-23 |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2023-01-01 | 2023-01-03 |
@@ -936,7 +937,7 @@
 | [Lucid Dreams](https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 3:59 | 2021-05-31 | 2021-06-01 |
 | [LUCYD](https://open.spotify.com/track/1gmRmL0I6z0yT84VV1c5rM) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [toldyuuso](https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 2:45 | 2024-03-09 | 2024-03-14 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-18 | 2024-07-05 |
-| [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 | 2025-12-19 |  |
+| [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 | 2025-12-19 | 2026-04-29 |
 | [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 | 2024-11-24 | 2025-03-01 |
 | [lánc](https://open.spotify.com/track/4gmKiblmETOzpLtFIaxCyb) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [lánc](https://open.spotify.com/album/09BkttRkb1DswriD8v2MO3) | 2:39 | 2024-07-27 | 2025-10-04 |
 | [Lángoló Szívek](https://open.spotify.com/track/5roMxZTmVB76tzEPXRCmdx) | [AKC Misi](https://open.spotify.com/artist/4pWRro00gdnq90CwBmSCtv), [AKC Kretta](https://open.spotify.com/artist/3NuMiSIG3kYlW4dGwljerz) | [Holdvilág Club Hotel & Casino](https://open.spotify.com/album/2jCvGyvuawW2wxDgfiDJUS) | 2:02 | 2022-04-23 | 2022-04-25 |

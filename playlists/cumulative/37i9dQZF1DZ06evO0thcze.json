@@ -544,7 +544,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 141136,
       "name": "Carita de Santa",
       "url": "https://open.spotify.com/track/4eYKV4x82gEFKkZy6leFIB"
@@ -584,6 +584,36 @@
       "duration_ms": 200000,
       "name": "Cholo en un Low",
       "url": "https://open.spotify.com/track/4Orw6MjT2VFgwGH9YI9ATY"
+    },
+    {
+      "album": {
+        "name": "Compas X Vida",
+        "url": "https://open.spotify.com/album/0UKBcgFTj9tQvzQBmX7l7m"
+      },
+      "artists": [
+        {
+          "name": "Alzada",
+          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "Compas X Vida",
+      "url": "https://open.spotify.com/track/6UU8pebY7jf2F6n52bqnui"
     },
     {
       "album": {

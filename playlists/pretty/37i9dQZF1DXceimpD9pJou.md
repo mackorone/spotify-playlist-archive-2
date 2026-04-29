@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Rubinsky Rbk y Apache
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,632 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,642 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 41 | [Mi Necesidad \- Live](https://open.spotify.com/track/4ax8W4nFT6r5QfK1hxnXRj) | [Cales Louima](https://open.spotify.com/artist/5n47pUB4lGWnSuxGkX0UpP), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Mi Necesidad \(Live\)](https://open.spotify.com/album/3AG8OFmIegy0XtJsyptbFZ) | 10:16 |
 | 42 | [Aleluya / Te Adoramos](https://open.spotify.com/track/32Rk1Yv52cp4tGbQNwJ1qf) | [YADAH](https://open.spotify.com/artist/3Ah5V56kXoarxe5HfnRUl1), [Tony Pérez](https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ) | [Aleluya / Te Adoramos](https://open.spotify.com/album/2nrTuvzvCnvFhvFwFpheV1) | 2:58 |
 | 43 | [Tu Reino Se Manifieste \- Edición Especial](https://open.spotify.com/track/0yd6gyWYY7wtWyleUDqrSb) | [Guillermo Manzanares](https://open.spotify.com/artist/56vIPePcfnJJI0JgBQB9vj) | [Tu Reino Se Manifieste \(Edición Especial\)](https://open.spotify.com/album/7aRYI9AhppjY9JQ4utothg) | 5:33 |
-| 44 | [Abres Las Puertas \- Live](https://open.spotify.com/track/3diSqW2uvLP3Lx4DBktcHd) | [Nico Cabrera](https://open.spotify.com/artist/5wxATPJa84XY8v3jEfrZOF), [Javier Portela](https://open.spotify.com/artist/39HWmzeoxeHJITyCK5orph) | [Abres Las Puertas \(Live\)](https://open.spotify.com/album/1ig5LarX8KP4PJU9W3f61e) | 4:08 |
+| 44 | [Abre Las Puertas \- Live](https://open.spotify.com/track/3diSqW2uvLP3Lx4DBktcHd) | [Nico Cabrera](https://open.spotify.com/artist/5wxATPJa84XY8v3jEfrZOF), [Javier Portela](https://open.spotify.com/artist/39HWmzeoxeHJITyCK5orph) | [Abre Las Puertas \(Live\)](https://open.spotify.com/album/1ig5LarX8KP4PJU9W3f61e) | 4:08 |
 | 45 | [Me Gozare](https://open.spotify.com/track/1kRLBDQPN00w2SXCvTmAdd) | [Kabed](https://open.spotify.com/artist/5SF3bDnF19ZbOnrR1l6p3g) | [Uso Honorable \(Live\)](https://open.spotify.com/album/5h2qPSaXiMTagYxWy9R3av) | 5:18 |
 | 46 | [Que todos puedan ver](https://open.spotify.com/track/1gwtwDPULtNEcvZJfRiQpv) | [Jan Earle](https://open.spotify.com/artist/6O1gkriLfZg5mnBrTlBq1N) | [Home Session \(Panamá\)](https://open.spotify.com/album/3RxGozpU5ELjo7QUdbUcgD) | 5:35 |
 | 47 | [Jesús \- Live](https://open.spotify.com/track/3zDxeptNG2B664xnoS3zdM) | [Yadah](https://open.spotify.com/artist/0Mlie91CFtq7dZceNEyZAP), [Grupo Grace](https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb) | [Jesús \(Live\)](https://open.spotify.com/album/48GDeHE3bHnibiLcE3ISZD) | 10:03 |

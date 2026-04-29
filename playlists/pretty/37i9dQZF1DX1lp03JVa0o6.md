@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest dance hits! Cover: Dom Dolla
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,943 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,949 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 38 | [Stay Blessed](https://open.spotify.com/track/6I2J6iwtx4DpuFF5YX1Tav) | [Hellcat Speedracer](https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Stay Blessed](https://open.spotify.com/album/1xMdQvYKJovlIwMroBAYkE) | 3:23 |
 | 39 | [Alive \- Alok Remix](https://open.spotify.com/track/2Pe2GeYteFLUHrCPTihWmE) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Alive \(Alok Remix\)](https://open.spotify.com/album/6n8PLpI64QEpSJLJFVqmvh) | 2:41 |
 | 40 | [Stay Blessed](https://open.spotify.com/track/0BNV8qChVecUDgWV8xAmWl) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Stay Blessed](https://open.spotify.com/album/41RuCkxLwXxcDe04TFuiXC) | 2:44 |
-| 41 | [Discoteca](https://open.spotify.com/track/5WKcAFV79qEy6X0nO5LR0c) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [DEPARTAMENTO](https://open.spotify.com/artist/3Cu5XeR4o1V8atLssDZUl1) | [Discoteca](https://open.spotify.com/album/7tIAvslj952cLo668DGrW0) | 3:16 |
+| 41 | [Discoteca](https://open.spotify.com/track/5WKcAFV79qEy6X0nO5LR0c) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [DEPARTAMENTO](https://open.spotify.com/artist/3Cu5XeR4o1V8atLssDZUl1), [Exchpoptrue](https://open.spotify.com/artist/5iXQbGQTOGZZVpi1Uos32S) | [Discoteca](https://open.spotify.com/album/7tIAvslj952cLo668DGrW0) | 3:16 |
 | 42 | [Medicine](https://open.spotify.com/track/0ITEeroRO4pP8KIvQtpv28) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Medicine](https://open.spotify.com/album/5qXvRI1hccJKz8cKDNu1SO) | 2:34 |
 | 43 | [Wicked Game](https://open.spotify.com/track/1nTIzrBPl6PLG6SokJ89lP) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Wicked Game](https://open.spotify.com/album/3tljDywU5DOVRM3J9bZWoO) | 3:51 |
 | 44 | [Rollin](https://open.spotify.com/track/0byV24r3mAPFKqU4ZCvpQL) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Rollin](https://open.spotify.com/album/7AHHVt5bV0J8C3gkdDB3Se) | 2:05 |

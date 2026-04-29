@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-10",
-  "description": "The best new music by independent artists in the Nordics. Cover: miaw. Artwork: Isu Kim",
+  "description": "The best new music by independent artists in the Nordics. Cover: eee gee. Artwork: Isu Kim",
   "name": "Fresh Finds Nordics",
   "tracks": [
     {
@@ -202,6 +202,28 @@
       "duration_ms": 163265,
       "name": "25",
       "url": "https://open.spotify.com/track/1JhnFt8s8U69X4Mz0oV0uP"
+    },
+    {
+      "album": {
+        "name": "POINT 23",
+        "url": "https://open.spotify.com/album/2bsj0qo3zY2lY6vYPOogmX"
+      },
+      "artists": [
+        {
+          "name": "alma",
+          "url": "https://open.spotify.com/artist/12ohBmDYK1nr9HyfpxE6RF"
+        },
+        {
+          "name": "TANTAN",
+          "url": "https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170332,
+      "name": "3 days",
+      "url": "https://open.spotify.com/track/76hFGJEkcSdG1PhO6QSD0e"
     },
     {
       "album": {
@@ -998,6 +1020,24 @@
       "duration_ms": 223000,
       "name": "ALL OVER",
       "url": "https://open.spotify.com/track/1FR6MeJQQctGXtLyGifRqh"
+    },
+    {
+      "album": {
+        "name": "All Over It",
+        "url": "https://open.spotify.com/album/0KcuEXUSIJhmMWr4lQJAYf"
+      },
+      "artists": [
+        {
+          "name": "OK Alva",
+          "url": "https://open.spotify.com/artist/1I9TAA6WtYLMN4kn4XuCr2"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168592,
+      "name": "All Over It",
+      "url": "https://open.spotify.com/track/4bYdCaoSdIMwDCyE4IqUnr"
     },
     {
       "album": {
@@ -2537,6 +2577,24 @@
     },
     {
       "album": {
+        "name": "Dancing x Fighting",
+        "url": "https://open.spotify.com/album/46LBWCrmaqTt4wkySpOvih"
+      },
+      "artists": [
+        {
+          "name": "Ida Fiona",
+          "url": "https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168557,
+      "name": "Better Than Me",
+      "url": "https://open.spotify.com/track/2aFTwiRhQf2MuNXnnaSPuC"
+    },
+    {
+      "album": {
         "name": "Better Than You",
         "url": "https://open.spotify.com/album/29FjXzAovGClDNEvQZnODO"
       },
@@ -2570,6 +2628,24 @@
       "duration_ms": 143267,
       "name": "bieber songs",
       "url": "https://open.spotify.com/track/1AsEVeon121BaMBDFy62h2"
+    },
+    {
+      "album": {
+        "name": "Big Mistake",
+        "url": "https://open.spotify.com/album/6Hvh4GrjdaKUQWkIpXmjnU"
+      },
+      "artists": [
+        {
+          "name": "eee gee",
+          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215078,
+      "name": "Big Mistake",
+      "url": "https://open.spotify.com/track/24nUZ74vZNof2v7wkK6JV3"
     },
     {
       "album": {
@@ -9434,7 +9510,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 178775,
       "name": "garden green eyes",
       "url": "https://open.spotify.com/track/76ubvikrOTzDV73Wvi4mkA"
@@ -17776,7 +17852,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 195004,
       "name": "Never Be Over",
       "url": "https://open.spotify.com/track/7co3hAzTZT3HbdITNnyywZ"
@@ -18026,7 +18102,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 171248,
       "name": "New Year's Eve",
       "url": "https://open.spotify.com/track/53hEGYyUpj3FYvQOCHVdo7"
@@ -25280,7 +25356,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 155688,
       "name": "superFREAK",
       "url": "https://open.spotify.com/track/6eGJSaWUSwGzbv9mZYBaI5"
@@ -25338,6 +25414,24 @@
       "duration_ms": 151626,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/2MTRtuB5vV8q15F67cAjNE"
+    },
+    {
+      "album": {
+        "name": "SUPERVILLAIN",
+        "url": "https://open.spotify.com/album/2c1py1rEGjkPhOPglkmhuk"
+      },
+      "artists": [
+        {
+          "name": "Kape Yeel",
+          "url": "https://open.spotify.com/artist/4FKoVIKo6n8CqYJ9SlTmsH"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174120,
+      "name": "SUPERVILLAIN",
+      "url": "https://open.spotify.com/track/1zMJ040MrRczDREAdsJQYI"
     },
     {
       "album": {
@@ -29672,7 +29766,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 189913,
       "name": "You Always Liked Me Better When I Was Stoned",
       "url": "https://open.spotify.com/track/31Zd47aEZP29ZoGQkp45VN"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥 featuring GHENGAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,580 likes - 200 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,599 likes - 200 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: Tom Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,692 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,725 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 99 | [Talk About It](https://open.spotify.com/track/6hjATuYdJpRSoPaJgjBIIp) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN) | [Talk About It](https://open.spotify.com/album/1HUGGTSeBZXBr2GsbD3qqF) | 2:19 |
 | 100 | [Are You Gonna Find It](https://open.spotify.com/track/40JMY9lsbHd3UXIsrALDDQ) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Are You Gonna Find It](https://open.spotify.com/album/6zwboIYLz6IaKYCrfom8lR) | 4:46 |
 
-Snapshot ID: `AAAAAEL5GIe9B2CUCNZ/B7OYm93OKVyp`
+Snapshot ID: `AAAAAAqNfUydUrhY3Y9HYozQpDrbGg6T`

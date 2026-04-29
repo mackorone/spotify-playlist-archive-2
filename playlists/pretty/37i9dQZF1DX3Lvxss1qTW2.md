@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: TAR1Q
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,914 likes - 65 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,963 likes - 65 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 43 | [Aimoye](https://open.spotify.com/track/5MGEkr3Mv7JgjqZ1Sr4sES) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Aimoye](https://open.spotify.com/album/2ds9ErusnGKd2t6ySVaMMf) | 2:14 |
 | 44 | [Run Come](https://open.spotify.com/track/6bEbkwhV5OzOMfmoHb1EcE) | [siicie](https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa) | [Run Come](https://open.spotify.com/album/2I0NuFOCyZD02VpnrFfkQL) | 2:22 |
 | 45 | [BLESSINGS](https://open.spotify.com/track/5M4HVMVavBqmAhYGswnF0N) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [BLESSINGS](https://open.spotify.com/album/52sSjWwlbeZtecpHnN4C0f) | 2:36 |
-| 46 | [Scenes](https://open.spotify.com/track/0Pdp2f6EmVtuaDciWeg32N) | [Dapper](https://open.spotify.com/artist/4IKVSEkZ9IT013SNvUaMlq), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI) | [Scenes](https://open.spotify.com/album/7g9b1do5f5rJOybiCgCbBN) | 3:17 |
+| 46 | [Scenes](https://open.spotify.com/track/0Pdp2f6EmVtuaDciWeg32N) | [Dapper](https://open.spotify.com/artist/4IKVSEkZ9IT013SNvUaMlq), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI) | [Scenes](https://open.spotify.com/album/7g9b1do5f5rJOybiCgCbBN) | 3:22 |
 | 47 | [No Wam](https://open.spotify.com/track/75zPBCVt8sd2PzJfinv3Jl) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [No Wam](https://open.spotify.com/album/4cNDitclT2Y3sKEQxDzbuR) | 2:29 |
 | 48 | [FL STUDIO II](https://open.spotify.com/track/1A2MQMzE9on8FqI2vc984w) | [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx), [R33NZO](https://open.spotify.com/artist/2w34rjWGumCU3vOiCVd3J6), [Champz](https://open.spotify.com/artist/2fZXMOwo3wPF5TcA48sKKs) | [FL STUDIO II](https://open.spotify.com/album/4sp6D3AC6VpUXNqoqZ7D7E) | 2:00 |
 | 49 | [Akonuche](https://open.spotify.com/track/0MZxm2o1pedxNPD0ORiwgg) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [Akonuche](https://open.spotify.com/album/5KvfDcy4EmReJrJYEdsUBI) | 2:16 |

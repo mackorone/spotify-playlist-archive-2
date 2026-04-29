@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 873,864 likes - 195 songs - 11 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 873,919 likes - 195 songs - 11 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 31 | [Catch A Fire](https://open.spotify.com/track/7r43gqBcINKb1o1NQ43Wcu) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Catch A Fire](https://open.spotify.com/album/22nOFO4lMgF0nEpm0lNCPQ) | 3:13 |
 | 32 | [White Flag](https://open.spotify.com/track/1Lk4rIjW0TcZ0KGTClWsPE) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [White Flag](https://open.spotify.com/album/2uB5nyQCsFejw9e0cpzlVm) | 2:51 |
 | 33 | [Eastern Time](https://open.spotify.com/track/6VlOKgkfQQDytXIj8uZUzi) | [Zach Seabaugh](https://open.spotify.com/artist/3bmlmoASHg6ycjrKV05CP2) | [Eastern Time](https://open.spotify.com/album/7219GK59ut1GptItHdsERG) | 3:18 |
-| 34 | [Death Grip](https://open.spotify.com/track/3qtqyrxRDuG0ORWZ1BoIUv) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE), [HAFFWAY](https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH) | [Death Grip](https://open.spotify.com/album/1llv8Op2jSF1108gJmw8lh) | 2:57 |
+| 34 | [Death Grip \- with HAFFWAY](https://open.spotify.com/track/3qtqyrxRDuG0ORWZ1BoIUv) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE), [HAFFWAY](https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH) | [Death Grip](https://open.spotify.com/album/1llv8Op2jSF1108gJmw8lh) | 2:57 |
 | 35 | [Taylor](https://open.spotify.com/track/49Ya4VAhgiUgABC0XnDhOE) | [Hayden Everett](https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc) | [So The Sun Can Pour](https://open.spotify.com/album/2FJNdtergBuQ1q2qOo5IBe) | 4:15 |
 | 36 | [Are We Famous](https://open.spotify.com/track/5j65rqnKB9XsI5e8ddCvwF) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [Are We Famous](https://open.spotify.com/album/2wenx7l4XGj2Dst6F1zm6H) | 3:33 |
 | 37 | [Finish Line](https://open.spotify.com/track/4tGVYB2GmhidTUN7hv6Rwt) | [Sean Solomon](https://open.spotify.com/artist/2rIEFpPW3NjFRA6llfnOq3) | [Finish Line](https://open.spotify.com/album/69yBujeTPGK2rC2qFcdS9X) | 3:20 |

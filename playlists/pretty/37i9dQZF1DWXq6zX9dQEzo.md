@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,411 likes - 150 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,574 likes - 150 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 117 | [DOM](https://open.spotify.com/track/3whka1SkX931zDruLXOTh1) | [Swaizy](https://open.spotify.com/artist/2dMkqn8YOKg6IwN85zo7gL) | [DOM](https://open.spotify.com/album/4VVWzBdCD20sdkoaA8V21J) | 2:07 |
 | 118 | [RIGHT BACK](https://open.spotify.com/track/6JIOSVd7S3A8D5jtArZy0o) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl), [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p), [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [RIGHT BACK](https://open.spotify.com/album/1pIDvBTzC2X9DKZ6wlns8k) | 3:03 |
 | 119 | [Lingo](https://open.spotify.com/track/5TIbBRcXEDgA9GPjCbZDsn) | [DEON](https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [Lingo](https://open.spotify.com/album/6AU75ydBlyMdcyarDVJjfu) | 1:55 |
-| 120 | [Big Girl Big God Remix \(feat\. Porsha Love, Tylynn, Anike & TuKool Tiff\) \- Remix](https://open.spotify.com/track/5aE5ps63kX9JTpx9BaYx7D) | [LANELL GRANT](https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Tukool Tiff](https://open.spotify.com/artist/31fWgNrRCySK9fxRmOWeqs) | [Big Girl Big God Remix \(feat\. Porsha Love, Tylynn, TuKool Tiff & Anike\)](https://open.spotify.com/album/6J4T4mOPxNcHcaWoRwS0xl) | 4:49 |
+| 120 | [Big Girl Big God Remix \- Remix](https://open.spotify.com/track/5aE5ps63kX9JTpx9BaYx7D) | [LANELL GRANT](https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Tukool Tiff](https://open.spotify.com/artist/31fWgNrRCySK9fxRmOWeqs) | [Big Girl Big God Remix](https://open.spotify.com/album/6J4T4mOPxNcHcaWoRwS0xl) | 4:49 |
 | 121 | [Calling My Name](https://open.spotify.com/track/6pzWAV0CjM025DvrUSR6uE) | [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE) | [Calling My Name](https://open.spotify.com/album/4IeX9q85ep83QsXB1LpN6j) | 2:48 |
 | 122 | [Gotta Tell Somebody](https://open.spotify.com/track/02cMuUDsAIyywK22jz1M1L) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Gotta Tell Somebody](https://open.spotify.com/album/7oQcqGM0utW9oIy4uEJNt9) | 2:22 |
 | 123 | [Woah](https://open.spotify.com/track/5yYvlsIAdu4KbBS7rpQNlw) | [KMO Shamaal](https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF) | [Woah](https://open.spotify.com/album/2KxaZaOSWh1VPR0Sms9GnH) | 2:30 |

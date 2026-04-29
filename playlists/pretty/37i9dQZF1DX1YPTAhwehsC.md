@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: 41
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,656 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,657 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 17 | [First Time](https://open.spotify.com/track/2M2nFPekII4HlqqqFaBlhO) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [First Time](https://open.spotify.com/album/04gzrhGZmATf4ESdUoh4qZ) | 2:33 |
 | 18 | [Free 40 \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/1J8nt6eE4WFkvK5EFCYIpK) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Free 40 \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/1E59HHkpcInNEG5FUKvWLa) | 3:12 |
 | 19 | [Whatever](https://open.spotify.com/track/0YcZT9SjPgmylWUfJSFtm3) | [Bri3](https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H) | [Whatever](https://open.spotify.com/album/5x83UB3DpZleH2mUFJwOa8) | 2:29 |
-| 20 | [Close Your Eyes](https://open.spotify.com/track/2Pd7T7wbAXEQQazKgTjFVB) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Roofless Records For Drop Tops: Disc 1](https://open.spotify.com/album/3ciu1mV52dlREyJdoetHMr) | 3:37 |
+| 20 | [Camden Bop](https://open.spotify.com/track/03yOTCuxZijVjUewFxKKUz) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Camden Bop](https://open.spotify.com/album/71sIu669GFjhtk0E4NiXu3) | 1:31 |
 | 21 | [What About Us?](https://open.spotify.com/track/667ehol5fppRiKG0bfifN1) | [Ohthatsmizz](https://open.spotify.com/artist/77zq5iaCosWolNf1IRdTjJ), [Sturdyyoungin](https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs) | [What About Us?](https://open.spotify.com/album/2DRiQ39RpkyUjjlujjnF1p) | 2:24 |
 | 22 | [Him](https://open.spotify.com/track/76GaSF8c4ZJG0OSKU015ET) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Him](https://open.spotify.com/album/1vIUKYiqrwHJoyuVnlCRwy) | 2:07 |
 | 23 | [Better Than Yours \(feat\. Youngboy Never Broke Again\)](https://open.spotify.com/track/7Cu72sNXv5n9vbHcXbSmgp) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Better Than Yours \(feat\. Youngboy Never Broke Again\)](https://open.spotify.com/album/47ILgvAKy8xB5Cmuo0iQlN) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [TRIPPIN](https://open.spotify.com/track/7LRxsdzPgpbu4EYVbqo2A6) | [Sturdyyoungin](https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs), [Ohthatsmizz](https://open.spotify.com/artist/77zq5iaCosWolNf1IRdTjJ), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [TRIPPIN](https://open.spotify.com/album/5HcOiZtNwL6AMrMdw0qJ8Q) | 2:05 |
 | 100 | [Bout My Money \(feat\. Bossman Dlow\)](https://open.spotify.com/track/4HzMo8F6xAYOZGYy72CUjX) | [OT7 Quanny](https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Bout My Money \(feat\. Bossman Dlow\)](https://open.spotify.com/album/06hD4ATITFcIPIrwwGboAi) | 3:11 |
 
-Snapshot ID: `AAAAAIFYH9qLlzAf8afjEHNw9OR6j7re`
+Snapshot ID: `AAAAAEu6GiMH/WG/l5Th19uWWQK5/jFs`

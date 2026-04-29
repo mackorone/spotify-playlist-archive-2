@@ -1,12 +1,12 @@
 {
   "description": "This is Siouxsie and the Banshees. The essential tracks, all in one playlist.",
-  "num_followers": 50609,
+  "num_followers": 50614,
   "original_name": "This Is Siouxsie and the Banshees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae1VgAAAAAB556Wuy/MrfIQ/UlpjzWIo",
+  "snapshot_id": "ae6nAAAAAABl2K86641AzVz1QCV5Sv2l",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tinderbox",
-        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 362800,
-      "name": "92\u00b0",
-      "url": "https://open.spotify.com/track/6is813aEOH9u4BzdpzLuQu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peepshow (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 305973,
       "name": "Scarecrow",
       "url": "https://open.spotify.com/track/65re6qznNOVAK65YZWayAQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tinderbox",
+        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 362800,
+      "name": "92\u00b0",
+      "url": "https://open.spotify.com/track/6is813aEOH9u4BzdpzLuQu"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tinderbox",
-        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Cannons",
-      "url": "https://open.spotify.com/track/1sO7AFRF0DG9TFsjGL0Zmt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peepshow (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 245146,
       "name": "The Killing Jar",
       "url": "https://open.spotify.com/track/1j0UWLVjMbBEQdqfI1CSQf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tinderbox",
+        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Cannons",
+      "url": "https://open.spotify.com/track/1sO7AFRF0DG9TFsjGL0Zmt"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of...",
-        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
+        "name": "A Kiss In The Dreamhouse",
+        "url": "https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 190253,
-      "name": "Dizzy",
-      "url": "https://open.spotify.com/track/3cm2QfZeXa9Kk1au1tYgKH"
+      "duration_ms": 270200,
+      "name": "Fireworks - 12\" Version",
+      "url": "https://open.spotify.com/track/7MyA3s6o5MnoneWELTjW9J"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Kiss In The Dreamhouse",
-        "url": "https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1"
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 270200,
-      "name": "Fireworks - 12\" Version",
-      "url": "https://open.spotify.com/track/7MyA3s6o5MnoneWELTjW9J"
+      "duration_ms": 190253,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/3cm2QfZeXa9Kk1au1tYgKH"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of...",
-        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
+        "name": "Hyaena (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 342800,
-      "name": "This Wheel's On Fire",
-      "url": "https://open.spotify.com/track/1JRDjdUYViUZPGDue1CENL"
+      "duration_ms": 244360,
+      "name": "Swimming Horses",
+      "url": "https://open.spotify.com/track/7IbyGtg6Ujai5JXAK2Arlj"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hyaena (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 244360,
-      "name": "Swimming Horses",
-      "url": "https://open.spotify.com/track/7IbyGtg6Ujai5JXAK2Arlj"
+      "duration_ms": 342800,
+      "name": "This Wheel's On Fire",
+      "url": "https://open.spotify.com/track/1JRDjdUYViUZPGDue1CENL"
     },
     {
       "added_at": null,

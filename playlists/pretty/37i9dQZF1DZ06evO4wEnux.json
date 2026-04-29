@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae1VgAAAAACcBVUj9N9ATbdBEc51B2HU",
+  "snapshot_id": "ae6nAAAAAADCUBuoHIHg4oqHwCpdzZVx",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 297828,
-      "name": "James",
-      "url": "https://open.spotify.com/track/2gyUKRywqkiAVP0X3rUj2b"
+      "duration_ms": 180680,
+      "name": "Mine for Me",
+      "url": "https://open.spotify.com/track/34ibYVScp6xv9YmBvI4r99"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 180680,
-      "name": "Mine for Me",
-      "url": "https://open.spotify.com/track/34ibYVScp6xv9YmBvI4r99"
+      "duration_ms": 297828,
+      "name": "James",
+      "url": "https://open.spotify.com/track/2gyUKRywqkiAVP0X3rUj2b"
     },
     {
       "added_at": null,

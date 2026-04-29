@@ -2424,7 +2424,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 157931,
       "name": "Birha",
       "url": "https://open.spotify.com/track/34qQefRo1gvABSijPg2v9G"
@@ -8509,6 +8509,32 @@
     },
     {
       "album": {
+        "name": "GLORY (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1uX3ViFpG09nXhrzUWGZvs"
+      },
+      "artists": [
+        {
+          "name": "Gauranga-Bixal",
+          "url": "https://open.spotify.com/artist/3zx60NTAU1piynTYN5yBag"
+        },
+        {
+          "name": "Arun Dev Yadav",
+          "url": "https://open.spotify.com/artist/0RCdoxFQ7avFn6Hw0XUDVb"
+        },
+        {
+          "name": "Sanjeev Pundir",
+          "url": "https://open.spotify.com/artist/3V5XOkzWSot9lFSbT0DTJA"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214244,
+      "name": "Laadli Roothe Na",
+      "url": "https://open.spotify.com/track/3ZZ7wG5bw2Cuj52v82bHcB"
+    },
+    {
+      "album": {
         "name": "Lage Na Jiya",
         "url": "https://open.spotify.com/album/15R3w0bGRtvNdp4aMCsF1B"
       },
@@ -11758,7 +11784,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 202143,
       "name": "Promise",
       "url": "https://open.spotify.com/track/1QLtC4Tk6POoueI3wrntEF"
@@ -14652,6 +14678,28 @@
       "duration_ms": 242500,
       "name": "Tera Mera Saath (From \"Do Deewane Seher Mein\")",
       "url": "https://open.spotify.com/track/2NjlLOzv5XzDkmrMWgtTpI"
+    },
+    {
+      "album": {
+        "name": "Tera Mera Safar",
+        "url": "https://open.spotify.com/album/4TTNrWM34bhBJ4q6HETYjc"
+      },
+      "artists": [
+        {
+          "name": "Goldie Sohel",
+          "url": "https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186247,
+      "name": "Tera Mera Safar",
+      "url": "https://open.spotify.com/track/0qFjQbh21ZcyDCbcMqqK9V"
     },
     {
       "album": {

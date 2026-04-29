@@ -830,7 +830,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 709666,
       "name": "Fratres (Version for 12 Cellos) - For 12 Celli",
       "url": "https://open.spotify.com/track/3yb6Pn8xeTANmqTPTHpwRI"
@@ -1334,10 +1334,36 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 432666,
       "name": "Kanon Pokajanen: Ode VII",
       "url": "https://open.spotify.com/track/3nBLChfUk2sjbGdDgwHcO9"
+    },
+    {
+      "album": {
+        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
+        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 524159,
+      "name": "Kanon Pokajanen: Ode VIII",
+      "url": "https://open.spotify.com/track/1xBnalCrc62gQObQCkcJyq"
     },
     {
       "album": {
@@ -2398,7 +2424,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 43093,
       "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 1, Der gestiefelte Kater",
       "url": "https://open.spotify.com/track/36pkX1bhz1EApdfbgQot2T"

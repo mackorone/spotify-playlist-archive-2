@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL1iJRmGqdtT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1uYXu9L0vzo1lcJk7SjgCT">Brittany "Chi" Coney</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,398 likes - 115 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,399 likes - 115 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL1iJRmGqdtT.md) - [plain]
 | 62 | [Concrete](https://open.spotify.com/track/6iPcQsbFAYGsmCb13NL9QL) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 3:57 |
 | 63 | [Call Me Queen](https://open.spotify.com/track/36t0yXv8WYdtuksM3IPBom) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [Call Me Queen \(Frank Pole Remix\)](https://open.spotify.com/album/0xhky4wKaoKH4mrTbIVmux) | 2:47 |
 | 64 | [Y](https://open.spotify.com/track/0vVyVjDpFCqoCVTbrOLBmz) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [Y](https://open.spotify.com/album/1hitaARMzwzugYS9W0mUks) | 3:29 |
-| 65 | [Let Me Live](https://open.spotify.com/track/6wTwZNfyB47O4JfhHR0v2k) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [A Wrinkle in Time \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0YgJxL6c6nh0izOMRDKypq) | 3:16 |
-| 66 | [Come Back To Me \(feat\. Junie & Rick Ross\)](https://open.spotify.com/track/7783Uq4sZEDJkmFxvsV9xD) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Junie Shumpert](https://open.spotify.com/artist/3k87hEcqFS6oq7hfxM0RnE), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 4:09 |
+| 65 | [Come Back To Me \(feat\. Junie & Rick Ross\)](https://open.spotify.com/track/7783Uq4sZEDJkmFxvsV9xD) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Junie Shumpert](https://open.spotify.com/artist/3k87hEcqFS6oq7hfxM0RnE), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 4:09 |
+| 66 | [Let Me Live](https://open.spotify.com/track/6wTwZNfyB47O4JfhHR0v2k) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [A Wrinkle in Time \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0YgJxL6c6nh0izOMRDKypq) | 3:16 |
 | 67 | [Still](https://open.spotify.com/track/3IaZZj2USNXAvWQIH4z79y) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Restoration](https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H) | 2:55 |
 | 68 | [YIPPEE\-KI\-YAY.](https://open.spotify.com/track/6giKRen4zuRmLBqPhCrt3y) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [.](https://open.spotify.com/album/0kjnLvCvaGwRDJ53kvdqi9) | 2:37 |
 | 69 | [Champion \(feat\. Tia Ray\) \- The Official 2019 FIBA Basketball World Cup™ Song](https://open.spotify.com/track/2HQ1u66IjSnMRLuCnpNEhQ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [Champion \(feat\. Tia Ray\) \[The Official 2019 FIBA Basketball World Cup™ Song\]](https://open.spotify.com/album/0tJXzmUqNkN6eUSRBXfp7z) | 2:54 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL1iJRmGqdtT.md) - [plain]
 | 90 | [Break Up](https://open.spotify.com/track/6kwBcC7U9RwISZWEnkaP7R) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [CLIQUE](https://open.spotify.com/album/1FlLNVRnsUIIDy7all4UTg) | 3:34 |
 | 91 | [Feel Me Cry](https://open.spotify.com/track/62TXU49KuTA9oGH5nRrUPd) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 3:29 |
 | 92 | [Be Yourself](https://open.spotify.com/track/60V16rkc0r73IjVIoyfqg6) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 2:48 |
-| 93 | [Boots On The Ground Remix](https://open.spotify.com/track/0TN29ikYiEcQrX2gtrRGnI) | [803Fresh](https://open.spotify.com/artist/32ftls4i17bxMoq6eEt6kp), [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Boots On The Ground Remix](https://open.spotify.com/album/2ElCL4nxiyPqqo4ODv1z1q) | 3:27 |
-| 94 | [bad](https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [bad](https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO) | 2:44 |
+| 93 | [bad](https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [bad](https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO) | 2:44 |
+| 94 | [Boots On The Ground Remix](https://open.spotify.com/track/0TN29ikYiEcQrX2gtrRGnI) | [803Fresh](https://open.spotify.com/artist/32ftls4i17bxMoq6eEt6kp), [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Boots On The Ground Remix](https://open.spotify.com/album/2ElCL4nxiyPqqo4ODv1z1q) | 3:27 |
 | 95 | [Keep It Movin’](https://open.spotify.com/track/2IWvs7NUJ54EeZuosgnmM9) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx), [Phylicia Pearl Mpasi](https://open.spotify.com/artist/4sgoLI8KFagQQt3wiIMcHC) | [The Color Purple \(Music From And Inspired By\)](https://open.spotify.com/album/3OWJJ98IlTcnSKKrbgeCT5) | 3:52 |
 | 96 | [Me + You](https://open.spotify.com/track/1ZVHmwgdfGjFe01SaqXm3J) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Me + You](https://open.spotify.com/album/2vtMfH5f2TCeTvc7fi63ce) | 3:34 |
 | 97 | [Finally \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/3WZn98ifY0D3WmnZWlVZRw) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Finally \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/3xQ8XKfiCYGewk8b3oBFNe) | 4:09 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL1iJRmGqdtT.md) - [plain]
 | 114 | [Tattoo \(feat\. Jeremih\)](https://open.spotify.com/track/2A6ToOoGwznmWMhTM64Gud) | [Gillie Da Kid](https://open.spotify.com/artist/467NioAq9fvSiEnANCOGzE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Welcome To Gilladelphia](https://open.spotify.com/album/0AH03qFsdih3raMGNMEpF2) | 3:36 |
 | 115 | [Luv Hug](https://open.spotify.com/track/7AfipMJ54S6m004iJ3DvM9) | [Shunda K](https://open.spotify.com/artist/25EMx35978LX76CR9xPBhH), [Brittany Coney](https://open.spotify.com/artist/0jxdssOxFO2Z612ZOMbN1T) | [The Most Wanted](https://open.spotify.com/album/1T5GaDlXrcvs3UP1KBkQ0Q) | 3:44 |
 
-Snapshot ID: `AcQAxgAAAAAF04waBGo9HHeDrSYn45F5`
+Snapshot ID: `AcQGZgAAAAA3bCduQIt4s478KTXtoqHg`

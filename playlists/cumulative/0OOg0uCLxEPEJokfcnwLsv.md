@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-464 songs - 1 day 4 hr 51 min
+467 songs - 1 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Genie](https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 6:55 | 2026-03-26 | 2026-04-20 |
 | [Get Down](https://open.spotify.com/track/0hxmmV26stWU0p7nMENjt5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Get Down](https://open.spotify.com/album/1fjOQHmwo9bT3RImgkOSEm) | 2:24 | 2025-12-03 | 2025-12-28 |
 | [Get Off Of My Cloud](https://open.spotify.com/track/5N3VxvgdJmlSyiV9flCXui) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Old, New, Borrowed II](https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi) | 3:18 | 2026-01-05 | 2026-02-02 |
+| [Ghost Inside](https://open.spotify.com/track/4SHiHRp5IWJJdwwZdSv0RV) | [Magacadabra](https://open.spotify.com/artist/2jSMVZ9eXDVIHDtk3ulfxs) | [Ghost Inside](https://open.spotify.com/album/43IxBBYFLt7aODOmnuVMtQ) | 3:16 | 2026-04-28 |  |
 | [Ghosts](https://open.spotify.com/track/3bUg0pzC285GlYNIiwR5uP) | [Auchenflower](https://open.spotify.com/artist/3BaeOXKRaGaAzoNPxLG4Lg) | [Ghosts](https://open.spotify.com/album/3bwTQlkZFOEkIkFBWPZcJf) | 3:45 | 2025-11-13 | 2025-12-12 |
 | [GIGACHUD](https://open.spotify.com/track/5AbUAbLQ0OwGMKUZJbZBIx) | [BLABSCAM!](https://open.spotify.com/artist/1dgobA4FiBSFA4QRWLs6ok) | [GIGACHUD](https://open.spotify.com/album/6mB0mqrpStENY1wcycOV0A) | 3:38 | 2026-04-07 |  |
 | [Girl in the sky](https://open.spotify.com/track/1cG8dKgKpi4q51qYPkUfIW) | [The Larlocks](https://open.spotify.com/artist/3ZoHqGfiZBctXNyEUhj51u) | [Girl in the sky](https://open.spotify.com/album/2ED0TomZXJLUNusgKIgqSA) | 4:32 | 2026-01-31 | 2026-02-23 |
@@ -336,6 +337,7 @@
 | [Shake Your Body](https://open.spotify.com/track/6a9Nre6t2EiVCnhKesVRNW) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Shake Your Body](https://open.spotify.com/album/2HGiAwhii8Rs0IhVP54bTD) | 3:56 | 2026-04-06 |  |
 | [Shallow Woman](https://open.spotify.com/track/16rXPUm2ZLmfw4awRZajCp) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 4:28 | 2026-01-15 | 2026-02-18 |
 | [Shame](https://open.spotify.com/track/2fQOgFbGu8J4yq32HP4864) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Shame](https://open.spotify.com/album/4iKDad2F2gQyFU49uZ9not) | 3:12 | 2025-12-12 | 2026-01-05 |
+| [SHARPEN](https://open.spotify.com/track/2Dfv6jg3y2YChiyeGXTOby) | [RedMoon](https://open.spotify.com/artist/1tRFUNiUD1F6JEUTa2aQAo) | [SHARPEN](https://open.spotify.com/album/7xghrLC6yKsigFWWGsjUcx) | 3:11 | 2026-04-28 |  |
 | [She's My Witch](https://open.spotify.com/track/0dvGMQOonbH4ZvEiOYYWKQ) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [She's My Witch](https://open.spotify.com/album/514yIpEXXdJmn2lPXrhOcu) | 2:26 | 2026-01-22 | 2026-02-18 |
 | [She's the Devil](https://open.spotify.com/track/6O55FZgVKWB06M14sfFEeT) | [The Carousers](https://open.spotify.com/artist/2s4NR91XrdMwNDzp5aspSr) | [The Carousers \(Deluxe Edition\)](https://open.spotify.com/album/0TwX70LuXPrxmA4smODxAR) | 2:05 | 2026-02-20 |  |
 | [Shine Your Shoes](https://open.spotify.com/track/6Ro4y2BWJt4KlUZfXxfokk) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Donatello Soul](https://open.spotify.com/album/2sdIfhH5l2fGNsX2fHHqe8) | 3:20 | 2026-02-13 | 2026-03-04 |
@@ -468,6 +470,7 @@
 | [You Make Me Feel](https://open.spotify.com/track/0bqIWe0gXVy222fYhUlsrd) | [Gary.D.Pearson and the Distance](https://open.spotify.com/artist/6OSDFdZOodz0A77i9QbSXd) | [You Make Me Feel](https://open.spotify.com/album/63wp42Wp0TYwyKtqACYONM) | 3:59 | 2025-12-31 | 2026-01-21 |
 | [You See Me as an Artist](https://open.spotify.com/track/2Ctm2lgIDtj7O1xwIvVZ9s) | [Sarah Hedger](https://open.spotify.com/artist/2CQDj93K4SEEYoQf96TjIy) | [You See Me as an Artist](https://open.spotify.com/album/0PjyoYmAqYGlL26PcijTeK) | 2:23 | 2025-12-01 | 2025-12-28 |
 | [Young Women Infected with Jezebel Spirits \- Live](https://open.spotify.com/track/7lrT63Fla8L2qXzp5EVCFk) | [Giant DeNiro](https://open.spotify.com/artist/5lWLKEOgc6ZW7sliDPAPdY) | [Giant DeNiro \(Live\)](https://open.spotify.com/album/0QkYALhuOncbbnnsjMhGV8) | 2:54 | 2026-01-29 | 2026-02-18 |
+| [Ängste](https://open.spotify.com/track/5uWyW8ndF4m6Q56T3RhUke) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV) | [Ängste](https://open.spotify.com/album/3zYyBFxpDBZ2S9nLu72FA3) | 3:17 | 2026-04-28 |  |
 | [Два серця](https://open.spotify.com/track/1pkfxxopKZB7QVOvzjTjP7) | [ЛЮТА](https://open.spotify.com/artist/5XFjkWAijGDE0j4yAF4ftC) | [Два серця](https://open.spotify.com/album/5J6MYfGrjHdIIiSQ4Ium49) | 2:45 | 2026-03-03 |  |
 | [Забуте небо](https://open.spotify.com/track/2Qeo0ZXBDY5sFUFxLfNhWu) | [ЛЮТА](https://open.spotify.com/artist/5XFjkWAijGDE0j4yAF4ftC) | [Забуте небо](https://open.spotify.com/album/1urbhkBMZ55FmqDkfAGJUd) | 2:59 | 2026-03-21 |  |
 | [Рыжая девочка\-осень \(acoustic version\)](https://open.spotify.com/track/2ekAbtabAM8qao1YjQyeoz) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Рыжая девочка\-осень \(acoustic version\)](https://open.spotify.com/album/0AKOCae4zWQSLUcVdWsI2T) | 2:50 | 2025-12-23 | 2026-01-21 |

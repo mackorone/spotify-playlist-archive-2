@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/  Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: Prompts",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/  Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: Fear, and Loathing in Las Vegas",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 196199,
       "name": "DO THE DANCE",
       "url": "https://open.spotify.com/track/0eCjxBaTwjCNksbytKPlqh"
@@ -2654,6 +2654,28 @@
       "duration_ms": 224960,
       "name": "Hunter or Prey",
       "url": "https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V"
+    },
+    {
+      "album": {
+        "name": "HYPER AIR (feat.\u30c6\u30fc\u30af\u30a8\u30e0)",
+        "url": "https://open.spotify.com/album/33EFzBgMTw0eIQrOcscUyQ"
+      },
+      "artists": [
+        {
+          "name": "SPARK!!SOUND!!SHOW!!",
+          "url": "https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU"
+        },
+        {
+          "name": "TAKE-M",
+          "url": "https://open.spotify.com/artist/2MyIIGdQqHZBcKt9PoG0QL"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159076,
+      "name": "HYPER AIR - feat.\u30c6\u30fc\u30af\u30a8\u30e0",
+      "url": "https://open.spotify.com/track/3R4uTOAVLYsOLvBEIHOX66"
     },
     {
       "album": {
@@ -4641,6 +4663,24 @@
     },
     {
       "album": {
+        "name": "Overwrite",
+        "url": "https://open.spotify.com/album/02SenfX2oLB1v4x4m0vtL1"
+      },
+      "artists": [
+        {
+          "name": "Fear, and Loathing in Las Vegas",
+          "url": "https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161399,
+      "name": "Overwrite",
+      "url": "https://open.spotify.com/track/5kEqMEdZRuzfXyxgMvkSYq"
+    },
+    {
+      "album": {
         "name": "O\uff65TA\uff65KU\u30e9\u30d6\u30ea\u30fc\u4f1d\u8aac",
         "url": "https://open.spotify.com/album/7BBa5Q3EcrambON0lW4xQb"
       },
@@ -5924,7 +5964,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 237813,
       "name": "Something New",
       "url": "https://open.spotify.com/track/0vA9uNpBSTnwDLaetS4DFT"

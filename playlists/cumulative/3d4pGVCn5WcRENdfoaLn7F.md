@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-324 songs - 19 hr 44 min
+327 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Ciclos](https://open.spotify.com/track/4oIDPzkzzlZSWo2IKn6YfR) | [Peyote](https://open.spotify.com/artist/2jlDdJ58pw1y20cCSrmbPF) | [Ciclos](https://open.spotify.com/album/3XL3e4KxuMu0ty0nj8HW2F) | 3:57 | 2025-12-03 | 2026-01-05 |
 | [Cigarette](https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [Cigarette](https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt) | 2:23 | 2025-12-03 | 2026-01-05 |
 | [Cindy Lee, Forever](https://open.spotify.com/track/1vu2V0n5tuSKODQWwzIJwv) | [Ernest Graves](https://open.spotify.com/artist/3S0CAgGVPhrk1V4CzGKJFB) | [Cindy Lee, Forever](https://open.spotify.com/album/0a9aFMSqP2he9f66pY6iFy) | 3:02 | 2025-11-26 | 2025-12-28 |
+| [Closer and Closer](https://open.spotify.com/track/1KXdZfYypUjsYI6EaDK9Rn) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:22 | 2026-04-28 |  |
 | [Cold](https://open.spotify.com/track/6mZP2DP0b0iI2HYrPduDaE) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Cold](https://open.spotify.com/album/0kK3HC6RY9nFjnWeQtiy2k) | 2:53 | 2025-09-21 |  |
 | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/track/0oXSnN7pVn3sXtGld1eS7b) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Riccardo Morello](https://open.spotify.com/artist/5ffJmWfw31UII0CriZhsP3) | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/album/3RURHXjT0MKCp7gW4ZovwM) | 4:18 | 2026-02-04 | 2026-02-25 |
 | [Coming Home \(UNITED\)](https://open.spotify.com/track/0P1maWD1FUQR8TojElnfpW) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [UNITED](https://open.spotify.com/album/1iueiJNJ0gqeItdChNLCls) | 3:44 | 2025-12-01 | 2025-12-28 |
@@ -130,6 +131,7 @@
 | [Hopeless](https://open.spotify.com/track/38kwkqMeKqAnJh8ObitN3r) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Hopeless](https://open.spotify.com/album/2Ftm7kCGOpuiovVEx2Fgxx) | 3:16 | 2025-11-04 | 2025-12-06 |
 | [Hover](https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH) | [Jenine](https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3) | [Hover](https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE) | 2:52 | 2025-12-13 | 2026-02-25 |
 | [Howl](https://open.spotify.com/track/33oOuVkCvF8GDgQrGv5Ro0) | [Mrs Bubbles](https://open.spotify.com/artist/2tad4HrJ9d9e0eXB04VIuF) | [Refracted](https://open.spotify.com/album/6bBMlHF44Z1NRUbjlbuQij) | 4:14 | 2025-11-09 | 2025-12-06 |
+| [I can never say goodbye](https://open.spotify.com/track/5Qo2AgUCYhrKlE63XHuXyB) | [Julian Phelps](https://open.spotify.com/artist/5SWUppAbeDxzYJYvjthlMZ), [Finn Marley](https://open.spotify.com/artist/4h8orojRb1n2nOdw3VLbQp) | [I can never say goodbye](https://open.spotify.com/album/3FnOhzdk1L2NoiTxpDrGfy) | 3:15 | 2026-04-28 |  |
 | [I Have Learned](https://open.spotify.com/track/44TsdKXUVju1RowqBAnMSh) | [Eddie Wrevlonne](https://open.spotify.com/artist/040oRqmHKhgWDabtyQBiqa) | [I Have Learned](https://open.spotify.com/album/0RKoZpaC5p3giTz43S8bjZ) | 3:28 | 2025-09-19 |  |
 | [I knew for the first time](https://open.spotify.com/track/02Sp5xLnuv0Fz8r8XKmriq) | [Indie Indie](https://open.spotify.com/artist/4E6AE9M4PlKLPrnHhfGQYa) | [Fading Silhouette](https://open.spotify.com/album/5gRuEkrNfmEqhFfXkDfzsk) | 4:06 | 2026-01-22 | 2026-02-19 |
 | [I Need Moderator](https://open.spotify.com/track/5HlJirGiaJmI14CC6CyDxH) | [Piglets DDeep Forest](https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY) | [DDeep in Time](https://open.spotify.com/album/3ISyHB9bfXhvk5f8pwAxgo) | 5:27 | 2025-11-11 | 2025-12-06 |
@@ -243,6 +245,7 @@
 | [sela](https://open.spotify.com/track/6tjqn0snHDfmNcUiidheUa) | [The Links](https://open.spotify.com/artist/2TFSpXVPNjJAFyFbzitt3c) | [sela](https://open.spotify.com/album/4KP0bhanb1yZNRinZkd65I) | 3:22 | 2026-01-07 | 2026-02-02 |
 | [Shaded](https://open.spotify.com/track/5I2qMnYYV31dyVq3cJWRQo) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Shaded](https://open.spotify.com/album/0ZvjH20hMVPiJXIln6SVKk) | 4:19 | 2026-02-07 | 2026-03-05 |
 | [Shame](https://open.spotify.com/track/2fQOgFbGu8J4yq32HP4864) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Shame](https://open.spotify.com/album/4iKDad2F2gQyFU49uZ9not) | 3:12 | 2025-11-09 | 2025-12-06 |
+| [SHARPEN](https://open.spotify.com/track/2Dfv6jg3y2YChiyeGXTOby) | [RedMoon](https://open.spotify.com/artist/1tRFUNiUD1F6JEUTa2aQAo) | [SHARPEN](https://open.spotify.com/album/7xghrLC6yKsigFWWGsjUcx) | 3:11 | 2026-04-28 |  |
 | [She the one](https://open.spotify.com/track/6DGqfNHb3QvSfT8jv514QB) | [Revelt](https://open.spotify.com/artist/0HOgIPjusdkjsU4nbX4sYk) | [She the one](https://open.spotify.com/album/3ll9ABkMvViACUlOVULySz) | 3:33 | 2026-03-21 | 2026-04-15 |
 | [SHIT](https://open.spotify.com/track/6qxZ2hn2HlvmJkQrQwo59t) | [k0vn](https://open.spotify.com/artist/7B2CuYxTrTolxU6z1exymy), [thekid.ACE](https://open.spotify.com/artist/4GqTDpyDAWrxQ9bVCtWIDM) | [SHIT / you only miss me when im empty](https://open.spotify.com/album/7z0iHOJ2wlWhooEOHYCptP) | 2:33 | 2025-11-12 | 2025-12-06 |
 | [Si todo sale bien](https://open.spotify.com/track/1Gn9ykSzLlZvaCa1pukJnj) | [Los flashbacks](https://open.spotify.com/artist/7nTHQqaADpTSns4HYfMw1Y) | [Extraños](https://open.spotify.com/album/63KyCcPToU4kF3w03sSZMB) | 2:39 | 2026-04-21 |  |

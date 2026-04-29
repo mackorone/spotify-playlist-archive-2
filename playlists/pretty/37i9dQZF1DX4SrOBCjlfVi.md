@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Shoreline Mafia, Latto, Luh Tyler and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,435 likes - 68 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,472 likes - 68 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

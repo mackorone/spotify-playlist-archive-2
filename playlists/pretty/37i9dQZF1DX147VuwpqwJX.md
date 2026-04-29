@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,783 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,790 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 7 | [IN N OUT](https://open.spotify.com/track/026I1hB5wan5wdQv20AEEZ) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN), [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [SEX DEMON](https://open.spotify.com/album/75zv3Qzx7XhFgS1mDywH7E) | 2:42 |
 | 8 | [CUNTY](https://open.spotify.com/track/1M5aCbVoMHf8YP4cD5awuR) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [CUNTY](https://open.spotify.com/album/2HigWRrk3rgkkkuA5ToKsl) | 3:52 |
 | 9 | [The Two Houses \- Original Mix](https://open.spotify.com/track/21y39VstjGZrY5ZlXqXSVo) | [GIDEÖN](https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5), [Rush Davis](https://open.spotify.com/artist/5ewyLdYTllvsWnsJN5IUSn) | [The Two Houses EP](https://open.spotify.com/album/69RSr2jx0v039aZys6NlyY) | 8:53 |
-| 10 | [35mm](https://open.spotify.com/track/19u2oRqyuvib863dxpDWam) | [Moretti](https://open.spotify.com/artist/3ktQgk9MvFpkUTLIC9QYra), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [OPUS: The Moretti EP](https://open.spotify.com/album/0sQ6SIFkUL0q6uWqwt6PeG) | 3:28 |
+| 10 | [35mm](https://open.spotify.com/track/19u2oRqyuvib863dxpDWam) | [Moretti](https://open.spotify.com/artist/3ktQgk9MvFpkUTLIC9QYra), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [THE\-DREAM](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [OPUS: The Moretti EP](https://open.spotify.com/album/0sQ6SIFkUL0q6uWqwt6PeG) | 3:28 |
 | 11 | [Real Hot n Naughty](https://open.spotify.com/track/1hPBJwV6CK6d8IgC9OUmqW) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Felix Mufti](https://open.spotify.com/artist/1N4X5hZ0hEXhhFdg1q0AlN) | [Real Hot n Naughty](https://open.spotify.com/album/1AUPiPnIbLT7FkOgEfaPGa) | 3:34 |
 | 12 | [Oh The Glamour](https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Oh The Glamour](https://open.spotify.com/album/57lGyWWdxqvvC9uxEeX62j) | 3:21 |
 | 13 | [Darkskin Queen \- Edit](https://open.spotify.com/track/1wgJZsFX3FBcmyGYPw1XmM) | [Karnage Kills](https://open.spotify.com/artist/6Ngn318kVpmd89bZ0E7b3f), [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg) | [Darkskin Queen](https://open.spotify.com/album/5f82wZZ02LOj20GTvfEBGZ) | 3:12 |

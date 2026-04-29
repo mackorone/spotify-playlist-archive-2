@@ -25399,6 +25399,24 @@
     },
     {
       "album": {
+        "name": "@night",
+        "url": "https://open.spotify.com/album/3FugEwXQYw6LKm3pLaIko0"
+      },
+      "artists": [
+        {
+          "name": "Odee",
+          "url": "https://open.spotify.com/artist/6cXolDFPOgf0wuRe5kMPxo"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169032,
+      "name": "night vision",
+      "url": "https://open.spotify.com/track/4hCp3GnZhLHg9eJ9zBrHq5"
+    },
+    {
+      "album": {
         "name": "24:26 (5th Anniversary Remaster Edition)",
         "url": "https://open.spotify.com/album/6GzOG46xmgSfB0PQdsnMDU"
       },
@@ -38250,6 +38268,28 @@
       "duration_ms": 116906,
       "name": "Voice",
       "url": "https://open.spotify.com/track/6ppmBAKbIkivD5vBsTiCT3"
+    },
+    {
+      "album": {
+        "name": "Voo Doo",
+        "url": "https://open.spotify.com/album/0WLXVMb723CuVEy5bRE7j6"
+      },
+      "artists": [
+        {
+          "name": "Marv",
+          "url": "https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW"
+        },
+        {
+          "name": "PAAK",
+          "url": "https://open.spotify.com/artist/03sYskre0oa1U6nuso7EEL"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108564,
+      "name": "Voo Doo",
+      "url": "https://open.spotify.com/track/3JTVUamx5mpm1mjq6T9ARS"
     },
     {
       "album": {

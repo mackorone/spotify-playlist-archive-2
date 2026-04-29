@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u671b\u6708\u30d2\u30ca\u30bf",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: MoMo",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -4924,6 +4924,32 @@
       "duration_ms": 228417,
       "name": "Blue boat",
       "url": "https://open.spotify.com/track/3zMeD36TpLGKtRlXvNLR4G"
+    },
+    {
+      "album": {
+        "name": "BLUE DREAM",
+        "url": "https://open.spotify.com/album/4uQCN0lN6YsPVTuMnyNXTx"
+      },
+      "artists": [
+        {
+          "name": "MoMo",
+          "url": "https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW"
+        },
+        {
+          "name": "Osamu Fukuzawa",
+          "url": "https://open.spotify.com/artist/7FumP227z8vPxFVjYWe80F"
+        },
+        {
+          "name": "reina",
+          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227173,
+      "name": "BLUE DREAM (feat. reina)",
+      "url": "https://open.spotify.com/track/4N5SbzQgqi0m0xUbPlWHhd"
     },
     {
       "album": {
@@ -29894,7 +29920,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 207706,
       "name": "Saigo no Bento",
       "url": "https://open.spotify.com/track/6vaAaKaz0Qy3XTiuhdH8bZ"

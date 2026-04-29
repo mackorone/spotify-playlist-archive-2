@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: st. PAVLO.",
+  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: mariagrep, Mundo Prestigio.",
   "name": "Fresh Finds Espa\u00f1a",
   "tracks": [
     {
@@ -5026,6 +5026,24 @@
       "duration_ms": 162596,
       "name": "Acaso esto \u00e9 un crime",
       "url": "https://open.spotify.com/track/20kL0SF8a6goWEjYiBymEm"
+    },
+    {
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/24jtIyXNRlNMd3Jaw5VNEy"
+      },
+      "artists": [
+        {
+          "name": "Boyanka Kostova",
+          "url": "https://open.spotify.com/artist/1t9FF9ollviXoPRU4aMi4B"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162596,
+      "name": "Acaso esto \u00e9 un crime",
+      "url": "https://open.spotify.com/track/5Qz5kV7tWI5Qyy1rVVA2Yt"
     },
     {
       "album": {
@@ -14572,7 +14590,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 156052,
       "name": "Autom\u00e1tico",
       "url": "https://open.spotify.com/track/7iv25P41VsajQpage2feI7"
@@ -86463,6 +86481,28 @@
     },
     {
       "album": {
+        "name": "Voy a pensar en ti",
+        "url": "https://open.spotify.com/album/5O5U9NiREQzAKpGESoDwwi"
+      },
+      "artists": [
+        {
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+        },
+        {
+          "name": "Mundo Prestigio",
+          "url": "https://open.spotify.com/artist/440S5SUBOxAKr28buL99Xw"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246546,
+      "name": "Ma\u00f1ana m\u00e1s",
+      "url": "https://open.spotify.com/track/3BxumdSbGvlkrrlCXdTmb8"
+    },
+    {
+      "album": {
         "name": "Ma\u00f1aneo",
         "url": "https://open.spotify.com/album/4yb6K36BxYyDB6vUHi4qgd"
       },
@@ -135630,7 +135670,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-29",
       "duration_ms": 147381,
       "name": "Spiderman 2",
       "url": "https://open.spotify.com/track/7EAGK8G7EBYSdGeAOWXj8s"

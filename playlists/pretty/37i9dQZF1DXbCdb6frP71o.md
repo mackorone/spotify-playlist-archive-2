@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCdb6frP71o.md) - [plain]
 
 > Devotional tracks for an immersive Ramadan\. Cover: Ali Zafar
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,187 likes - 54 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,190 likes - 54 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

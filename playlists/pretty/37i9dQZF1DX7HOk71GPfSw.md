@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > the party is where u.r.
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,688 likes - 125 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,755 likes - 125 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [no alternative](https://open.spotify.com/track/7BS39Y3RRp4PJRr53Xdk0q) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5), [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [the party is where u.r.](https://open.spotify.com/album/38eEn74m041DEzCWT3eTDf) | 4:01 |
+| 1 | [no alternative](https://open.spotify.com/track/7BS39Y3RRp4PJRr53Xdk0q) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5), [Petit](https://open.spotify.com/artist/6oRiu0bfsqGiMV63TDJV2h) | [the party is where u.r.](https://open.spotify.com/album/38eEn74m041DEzCWT3eTDf) | 4:01 |
 | 2 | [SAME LA](https://open.spotify.com/track/6dycPSQglCA4tZEU2UdLf8) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [SAME LA](https://open.spotify.com/album/196LXZ6rQkJEwMrysIbSms) | 3:44 |
 | 3 | [prototype](https://open.spotify.com/track/7qgqbZW6SeqV1iEYTRP4nS) | [pnkdrco](https://open.spotify.com/artist/54ui5N3fVlyC2imsAakAhI) | [prototype](https://open.spotify.com/album/0xRNPryFtPD67496idfDsO) | 1:39 |
 | 4 | [i still think about the band](https://open.spotify.com/track/4Mv8QtELCZwHTTdocAELYD) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [i still think about the band](https://open.spotify.com/album/0Usmnnq3L7lLSNUc0dy4LW) | 2:59 |

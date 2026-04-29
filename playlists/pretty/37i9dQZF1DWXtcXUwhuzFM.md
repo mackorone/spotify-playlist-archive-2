@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat BESS, Axel Kala ja Ares, Käärijä..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,619 likes - 107 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,618 likes - 107 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

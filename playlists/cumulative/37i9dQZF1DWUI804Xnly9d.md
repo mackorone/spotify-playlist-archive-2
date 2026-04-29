@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-627 songs - 1 day 11 hr 8 min
+628 songs - 1 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Fidaa](https://open.spotify.com/track/2F4GxzCqfv0DAcnbWtr3Tk) | [Shubhranshu Tiwari](https://open.spotify.com/artist/1Zb6oNpoIxy7EelAwdpICD) | [Fidaa](https://open.spotify.com/album/57WGS0aqObOSiCOJhhWgRR) | 2:08 | 2024-01-08 | 2024-03-15 |
 | [Fikhar](https://open.spotify.com/track/7mUHIGHf5T9b8sUhhF2viD) | [Nandhagopan V](https://open.spotify.com/artist/1IwTb8dG4dLNCd6yfHW25y) | [Fikhar](https://open.spotify.com/album/3kNZbWLbx6SJ0E2ENLE5wE) | 5:10 | 2025-11-07 | 2026-01-17 |
 | [Fly Fly Away \(Reprise\)](https://open.spotify.com/track/76MZxG3G1KFr6FGIJ9OGAp) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Shivam\-Anuj](https://open.spotify.com/artist/42IqpkdFAQHbi23kCD6cBg) | [Garuudaa On The Terrace \- Season 1](https://open.spotify.com/album/5IPTiG6QY5rjrki3MR4S3x) | 2:49 | 2024-05-28 | 2025-03-08 |
-| [FML \- City Sessions, Vol\. 2 \(Side A\)](https://open.spotify.com/track/5r5fuoBAtYhHOnaUHXw4ok) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Taab](https://open.spotify.com/artist/2zDvtopPWBRwNBkH4KNowY) | [City Sessions, Vol\. 2 \(Side A\)](https://open.spotify.com/album/5PWT6nirwVvZ62TM1rsi7F) | 3:43 | 2025-09-12 |  |
+| [FML \- City Sessions, Vol\. 2 \(Side A\)](https://open.spotify.com/track/5r5fuoBAtYhHOnaUHXw4ok) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Taab](https://open.spotify.com/artist/2zDvtopPWBRwNBkH4KNowY) | [City Sessions, Vol\. 2 \(Side A\)](https://open.spotify.com/album/5PWT6nirwVvZ62TM1rsi7F) | 3:43 | 2025-09-12 | 2026-04-29 |
 | [Fursat](https://open.spotify.com/track/0rRN8GUnQXMzn5IC2f9JDF) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Fursat](https://open.spotify.com/album/6EwhEZsAIyWebuoLUBhlzL) | 4:07 | 2024-09-20 | 2024-10-24 |
 | [Gehraiyaan \- Unplugged](https://open.spotify.com/track/4cFTI9GC52rZo29rAQ2Af2) | [Aditya Narayan](https://open.spotify.com/artist/4Z0t0LHjOjFRiv0mjBw206), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Gehraiyaan \(Unplugged\)](https://open.spotify.com/album/1UOwKdUWpadVuUZBbrxC3V) | 3:07 | 2025-08-11 | 2025-08-30 |
 | [Ghar](https://open.spotify.com/track/7sTRZjGMAffIs5M2pk3JH2) | [Abhimanyu\-Pragya](https://open.spotify.com/artist/1seJPM2gF3Bqhnr3T8yqPr) | [Ghar](https://open.spotify.com/album/5mlwIwCNFVgrNXstZEjioq) | 2:43 | 2025-02-12 | 2025-06-21 |
@@ -525,6 +525,7 @@
 | [Tera Asar](https://open.spotify.com/track/2EJa6A72ki9Y4VWz92614c) | [Kshitij Vishwakarma](https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi) | [Tera Asar](https://open.spotify.com/album/01heUCTqHfWIHj3MooPIsX) | 3:07 | 2025-01-23 | 2025-05-10 |
 | [Tera Hi Intezaar Hai](https://open.spotify.com/track/3CUOhQONkaHfyEbJ9o6eFY) | [Rrajeev Sharma](https://open.spotify.com/artist/64zDyqa34wJUmIUr5iXKLv), [Harshit Shrivastava](https://open.spotify.com/artist/5eYHTsRSjK7Kqo7KDxEtSA) | [Tera Hi Intezaar Hai](https://open.spotify.com/album/7xju3kOHcr5VUiH2Au4FaA) | 3:06 | 2023-11-17 | 2023-12-02 |
 | [Tera Intezaar](https://open.spotify.com/track/0c3dZF8M9Hl7tBU0dm4Dp9) | [Ajayank Singh](https://open.spotify.com/artist/6Ru6vD6eHEsxgMe9U8qnGM) | [Tera Intezaar](https://open.spotify.com/album/5uH86ypy1NNHHjaseF79ZG) | 3:11 | 2025-05-30 | 2025-06-27 |
+| [Tera Mera Safar](https://open.spotify.com/track/0qFjQbh21ZcyDCbcMqqK9V) | [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Tera Mera Safar](https://open.spotify.com/album/4TTNrWM34bhBJ4q6HETYjc) | 3:06 | 2026-04-28 |  |
 | [Tera Rahoon](https://open.spotify.com/track/2trVpKomYRJZP15P8Ya2JU) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Tera Rahoon](https://open.spotify.com/album/1tMApkXGbpx9ZmL9Q0pTEJ) | 2:52 | 2024-08-23 | 2025-06-17 |
 | [Tera Saath](https://open.spotify.com/track/1fINFWBFzNNU2k5TVWgFoa) | [Rishabh Shah](https://open.spotify.com/artist/1BVz5IvR4oVIdg5OiieDo8), [Bhaven Dhanak](https://open.spotify.com/artist/3HI3NpSJpafnCHuiKKhJ9D) | [Tera Saath](https://open.spotify.com/album/4GLNPcFEMzcLOoIcyy4nxQ) | 2:54 | 2023-06-20 | 2023-09-22 |
 | [Tera Zikr](https://open.spotify.com/track/6its6Ryep04lYSz6HUt4Q5) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1), [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK) | [Tera Zikr](https://open.spotify.com/album/65S76v3alkgK2msh40A2Yv) | 4:07 | 2025-02-12 |  |

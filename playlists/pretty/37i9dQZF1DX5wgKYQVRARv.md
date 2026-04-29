@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > New and recent favorites of Prog Metal\. Cover: Karnivool
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,666 likes - 150 songs - 13 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,689 likes - 150 songs - 13 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

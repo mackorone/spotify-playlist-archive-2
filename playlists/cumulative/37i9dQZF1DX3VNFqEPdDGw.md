@@ -2,9 +2,9 @@
 
 ### [Bhangra Bangers](https://open.spotify.com/playlist/37i9dQZF1DX3VNFqEPdDGw)
 
-> Bhangra is our pride, Bhangra is our culture\. Cover: Ranjit Bawa
+> Bhangra is our pride, Bhangra is our culture\. Cover: Diljit Dosanjh
 
-411 songs - 21 hr 3 min
+412 songs - 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Miss Kaur](https://open.spotify.com/track/32FS8jYFQ9JWOVjnXYUBW3) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Miss Kaur](https://open.spotify.com/album/2Cs3UBpzzDfXVisd0Mblfn) | 4:12 | 2025-03-24 | 2025-06-24 |
 | [Mitra Ne Dil Mangeya](https://open.spotify.com/track/0wa9U4paFYblyxZZfjYpCk) | [Rajvir Jawanda](https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG) | [Mitra Ne Dil Mangeya](https://open.spotify.com/album/7DRxW3DYyxUzAeRX2D2Hg9) | 2:42 | 2025-01-08 | 2026-01-21 |
 | [More Beautiful](https://open.spotify.com/track/76aY5JVqZLomyY4jT063KD) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs) | [More Beautiful](https://open.spotify.com/album/17wwh3rnGOdUH26BuarvrO) | 2:30 | 2025-06-24 | 2025-08-06 |
+| [Morni](https://open.spotify.com/track/6dfkZxJZnj8lhDkSgl2H6j) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp) | [The Call of Panjab](https://open.spotify.com/album/58nSQhJ6jxFam34jgoZyul) | 3:25 | 2026-04-28 |  |
 | [Morni](https://open.spotify.com/track/1VOgz5axYh26Nh3oS6hkXj) | [Jimmy Kaler](https://open.spotify.com/artist/2IAyVsAofx5cXN3NKetayj), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Morni](https://open.spotify.com/album/0naDyG2uWzFfuy6bwkbo8C) | 3:30 | 2021-12-18 | 2022-01-11 |
 | [Morni](https://open.spotify.com/track/4lUh8Xvfn8RHquoEHTK1U3) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Renaissance](https://open.spotify.com/album/2KvGFSmZajbcsUm5uVyx53) | 3:20 | 2025-07-10 |  |
 | [Morniya’n](https://open.spotify.com/track/0hpjnu8OTuOb6Nru1tvphM) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX) | [Nostalgia](https://open.spotify.com/album/3ypK4QMoFBgFrW2Z6PGqXm) | 4:12 | 2025-05-06 | 2025-05-30 |
@@ -362,7 +363,7 @@
 | [Sunke](https://open.spotify.com/track/5G0seszeGo0yaWF4UlnVTq) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Sunke](https://open.spotify.com/album/29tL8p9u0WlMEFaaArdBq4) | 2:39 | 2024-11-20 | 2025-07-17 |
 | [Super Flow](https://open.spotify.com/track/3D3lcpe88aFfGe7k7e4hhe) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Super Flow](https://open.spotify.com/album/3AkgWnjFsCbesG1CXU1Qub) | 1:54 | 2025-03-11 | 2025-05-19 |
 | [SUPREME](https://open.spotify.com/track/5nUAZKw9lVbhKfWvWc5hFm) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [XPENSIVE](https://open.spotify.com/album/6uYJ79s2t3NPe3Mkyb33oZ) | 2:50 | 2025-01-08 | 2026-04-16 |
-| [Surma](https://open.spotify.com/track/0fjxdmPuNO05PUQPOUCUif) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Surma](https://open.spotify.com/album/0a4usykYKqRRnqPBok3n68) | 3:25 | 2025-08-02 |  |
+| [Surma](https://open.spotify.com/track/0fjxdmPuNO05PUQPOUCUif) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Surma](https://open.spotify.com/album/0a4usykYKqRRnqPBok3n68) | 3:25 | 2025-08-02 | 2026-04-29 |
 | [Surma](https://open.spotify.com/track/2EKPi0tqWGoCMRUm0OimC1) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N), [Raj Shoker](https://open.spotify.com/artist/1Na1S8hKokfgUHipxLLx59) | [Surma](https://open.spotify.com/album/0mynneCJOCqAWYEW8Eg6JM) | 3:38 | 2021-12-18 | 2022-01-11 |
 | [Surrey Connection](https://open.spotify.com/track/4Pe5HvYcEE9ce0faCSNvOU) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Prem Lata](https://open.spotify.com/artist/3ufBSdoViRPzJXqGPVy8rH), [JSL Singh](https://open.spotify.com/artist/1411qE3e3uMmyj0XQ2CeoA) | [WITHOUT PREJUDICE](https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi) | 2:45 | 2025-03-28 | 2025-04-09 |
 | [Taakre](https://open.spotify.com/track/0m5jRWkermmIbOqa2zMNZX) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd) | [Taakre](https://open.spotify.com/album/4slikRkZVKvFlydYn8Sor7) | 4:18 | 2025-07-03 | 2025-07-16 |

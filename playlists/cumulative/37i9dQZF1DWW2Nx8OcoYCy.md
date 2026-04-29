@@ -4,7 +4,7 @@
 
 > The upcoming artists performing at Jazz Cafe, London\. <a href="https://thejazzcafe.com/whats\-on/?">Discover the lineup.</a>
 
-559 songs - 1 day 13 hr 22 min
+559 songs - 1 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -546,7 +546,7 @@
 | [Where You Find Me](https://open.spotify.com/track/6XIVWcT54EccjyZNDJLQ9R) | [Verb T](https://open.spotify.com/artist/2zW15LxDEcrbOkLUgvyp8i) | [Morning Process](https://open.spotify.com/album/5t1Zq3FKJcVUiIiLvWfjTp) | 3:12 | 2025-11-12 | 2026-03-17 |
 | [Where's Jack the Ripper?](https://open.spotify.com/track/1TKyvONyKHY9ocmld1FsMk) | [Grooverider](https://open.spotify.com/artist/65g8RO3JqCUTigI7YR3dAw) | [Mysteries Of Funk](https://open.spotify.com/album/3nRwK51mY2KmREEMjvyDDT) | 9:14 | 2026-01-21 | 2026-02-20 |
 | [Wild Irish Roses](https://open.spotify.com/track/6efkcs2aUBMFKxl0cl2JWQ) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [blkswn](https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs) | 2:49 | 2026-04-09 |  |
-| [Wild Ride](https://open.spotify.com/track/41X89JT5axSqQYozs2op40) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Wild Ride](https://open.spotify.com/album/3QjRU4e65hcwIBUYyX8zHY) | 3:41 | 2026-04-09 |  |
+| [Wild Ride](https://open.spotify.com/track/41X89JT5axSqQYozs2op40) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Wild Ride](https://open.spotify.com/album/3QjRU4e65hcwIBUYyX8zHY) | 4:02 | 2026-04-09 |  |
 | [Woke up in Japan](https://open.spotify.com/track/4h8ZyCqGdaDoyrXbO3mKGj) | [friqtao](https://open.spotify.com/artist/0ymxw4Lz288DvWVu6EkOVP) | [Lifestream](https://open.spotify.com/album/2ZNfnu3FxssHcv8voZtcoN) | 2:42 | 2026-01-21 | 2026-02-05 |
 | [World's Famous](https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7) | [DJ KOCO aka SHIMOKITA](https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR), [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [World's Famous](https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW) | 3:11 | 2026-03-16 | 2026-04-10 |
 | [Woyaya](https://open.spotify.com/track/2vZVwIN7w5k46zc7s8sSYt) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [The Very Best Of](https://open.spotify.com/album/0SnESeWkUaLxQOzXUAJeX6) | 4:28 | 2026-04-09 |  |
