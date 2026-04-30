@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > bands and tracks on the rise in heavy music\. Cover: Castle Rat
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,175 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,232 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 48 | [EVERYTHING FEELS WRONG](https://open.spotify.com/track/11TBGRASPQpovktpxqfwaV) | [MAIASAURA](https://open.spotify.com/artist/62mm8csnxeh1rBGa9fBrRX) | [EVERYTHING FEELS WRONG](https://open.spotify.com/album/2HE7Qb8TpVymGs1UKrSTh2) | 2:44 |
 | 49 | [You Know I Love the Pain](https://open.spotify.com/track/2aSG31VoxU0eSxhHCQbsZq) | [The Brave](https://open.spotify.com/artist/07nyrtO9X26aBUAl6Odu3M) | [You Know I Love the Pain](https://open.spotify.com/album/4Ivh85pVyC99qYY9ItTXgH) | 3:57 |
 | 50 | [Tarnished](https://open.spotify.com/track/3fqo4doDvEd6sItAmpfZVA) | [Asleep At The Helm](https://open.spotify.com/artist/52KDgZWodiRXEWhGBODF3C) | [Tarnished](https://open.spotify.com/album/25raEkyFZf9PzsVZBSXENk) | 3:43 |
-| 51 | [Modern Fashion](https://open.spotify.com/track/1jBCfOiKLgEaoS6YDa91o9) | [The Barbarians of California](https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO) | [Modern Fashion](https://open.spotify.com/album/77uS44J5JgA5uhnZjtrF8x) | 2:22 |
+| 51 | [MODERN FASHION](https://open.spotify.com/track/1jBCfOiKLgEaoS6YDa91o9) | [The Barbarians of California](https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO) | [MODERN FASHION](https://open.spotify.com/album/77uS44J5JgA5uhnZjtrF8x) | 2:22 |
 | 52 | [Serpent Script](https://open.spotify.com/track/7wK3sYkuFBIa7lXnnZqkyR) | [Lucyvivor](https://open.spotify.com/artist/1cEzgHSv07ZJvU2PtVa17g), [n0trixx](https://open.spotify.com/artist/4YsqBmE9rJRgxRUxMGY4VE) | [Serpent Script](https://open.spotify.com/album/1DHprZgpCfbCVe7LacKkvU) | 2:49 |
 | 53 | [The Sun Of Another World](https://open.spotify.com/track/6fcLbhHIb0f0DpXig48AFN) | [Caution Thieves](https://open.spotify.com/artist/0IZfNjNXbYfr3r0l4keSff) | [The Sun Of Another World](https://open.spotify.com/album/5etyDYIjTCNLy89d80vxnD) | 3:53 |
 | 54 | [Elated](https://open.spotify.com/track/4pHlVnvaYF6P5Mrj1yDKLn) | [Sienna Skies](https://open.spotify.com/artist/4BwB9qh4daa8ecVPY9Qlo3) | [Elated](https://open.spotify.com/album/2inbqm5YYvaHUE0qYDvhqs) | 4:02 |

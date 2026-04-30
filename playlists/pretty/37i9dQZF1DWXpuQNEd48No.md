@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Best of Haryanvi Hip\-Hop! Cover: Rawme Hooda
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,596 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,609 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 56 | [DINOSAUR](https://open.spotify.com/track/7E39PKJyPRbwnzmFI1h8ur) | [Krish Rao](https://open.spotify.com/artist/0iwEynjG3vgrTK0dj5QHxl), [ICon](https://open.spotify.com/artist/5nVC0lWDXqCHm0WX9BgjXg) | [DINOSAUR](https://open.spotify.com/album/6rA0EdOuLyA1DpOBYj7Wvf) | 2:21 |
 | 57 | [Chill Baby \- From "Mine Forever"](https://open.spotify.com/track/2mhcqKsdH8vuqkgzVX6W8v) | [Viruss](https://open.spotify.com/artist/6sfh0P8S3lNQ8saqj0bc7q), [Ullumanati](https://open.spotify.com/artist/4lYNRgHw7avPnT7pK1mehz), [Chann Angrez](https://open.spotify.com/artist/0MLdGAgigACEcBszJgvnua) | [Chill Baby \(From "Mine Forever"\)](https://open.spotify.com/album/7aGHAl0nUgIaeEJCuqNmi7) | 2:49 |
 | 58 | [In Famous](https://open.spotify.com/track/5qJMde5gPPR5dWUdySAlYX) | [AKM](https://open.spotify.com/artist/6I9V31CkSd3D582e1v71Le), [Kavleen](https://open.spotify.com/artist/2oNSJK1qgcuoIkyr4XCmyV), [Legacy](https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI) | [Vendetta](https://open.spotify.com/album/3yYB4AxRF3rBr2yK2Fz8dL) | 3:25 |
-| 59 | [Haryana Zone](https://open.spotify.com/track/2VuW3jjvVYpA4H6RfIPMeP) | [Sinta Bhai](https://open.spotify.com/artist/5Tjcx2u1QHdkVArO0ayf1P), [Riyaazi](https://open.spotify.com/artist/5LN6cFuEopifixZsRarBri) | [Haryana Zone](https://open.spotify.com/album/4e1PVvyjf5qLMPRJ8PDq8P) | 2:33 |
+| 59 | [Haryana Zone](https://open.spotify.com/track/2VuW3jjvVYpA4H6RfIPMeP) | [Sintaa](https://open.spotify.com/artist/1bqg31w0YtAKbMLO2701Gv), [Riyaazi](https://open.spotify.com/artist/5LN6cFuEopifixZsRarBri) | [Haryana Zone](https://open.spotify.com/album/4e1PVvyjf5qLMPRJ8PDq8P) | 2:33 |
 | 60 | [Gang Violence](https://open.spotify.com/track/1ui3qYkCeozdVwf7q97cTf) | [Kuhad](https://open.spotify.com/artist/2YusRqnuLAKGIS4IwFUqin), [AC](https://open.spotify.com/artist/6JQTxqgYLrwPFQ721u9VQ9), [Bunny Beats](https://open.spotify.com/artist/16FYhIBIBDW43AIviL9T4A) | [Gang Violence](https://open.spotify.com/album/2aFUrfDrDEKTsHE6wXIjW1) | 2:51 |
 | 61 | [Rao Sahab Drill](https://open.spotify.com/track/0iiX5o434i4xb49x4LluyR) | [Vkey](https://open.spotify.com/artist/1BY7PxVLvuV63Ds9iPVXss), [SDEE](https://open.spotify.com/artist/302ztHnZGveCVIu1cW9awZ) | [Rao Sahab Drill](https://open.spotify.com/album/2ojtH1aQvxc6UEiDzlHejo) | 3:31 |
 | 62 | [kasai](https://open.spotify.com/track/0EbGK2QO1o7goHuq3FIcof) | [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn), [Scammy](https://open.spotify.com/artist/4mYOfU13vBwCMG1fjHBkXZ) | [kasai](https://open.spotify.com/album/0bS21rolJNLmApu4EsI02X) | 2:25 |

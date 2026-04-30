@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-122 songs - 7 hr 7 min
+123 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Copies](https://open.spotify.com/track/3ZfXF6vUNS9229TSoNXUCA) | [Mat Partridge](https://open.spotify.com/artist/4PFTJXMdTx6k7qPUVfv6jy) | [Destroying Is Easy](https://open.spotify.com/album/5SBt9G3F3IIoEr3whAzM5w) | 4:55 | 2026-04-08 |  |
 | [Crash Out](https://open.spotify.com/track/3kVUVbCU7gVR6EQU0BCT9v) | [Scilence](https://open.spotify.com/artist/2TXsHSIhrbcGHL0sWUzdnp) | [Crash Out](https://open.spotify.com/album/1JbvNRdQMbIdaOOyTwF3oA) | 4:12 | 2026-01-25 | 2026-02-22 |
 | [Dakota](https://open.spotify.com/track/3qaSqrrevBrb84xl5JlptU) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Language.Sex.Violence.Other?](https://open.spotify.com/album/1DwcGY8AK9RS0IgmozyvyP) | 4:57 | 2021-03-29 |  |
+| [Deeper](https://open.spotify.com/track/13qCoS5QuZEbWjfw7C9H5F) | [Mala Society](https://open.spotify.com/artist/4yOEkIaQ0rUqahInm6UNzj) | [iGen](https://open.spotify.com/album/2oThbbHnamtEqLnzo7ZwIP) | 2:20 | 2026-04-29 |  |
 | [Diamond Heart](https://open.spotify.com/track/37KoS6sJSBBMFa5trmgnAB) | [Savannah Strand](https://open.spotify.com/artist/68FlWXB4GVJsD920sPw1Lv) | [Diamond Heart](https://open.spotify.com/album/4ujXStmyOUakTcn9XlXUVp) | 2:55 | 2025-12-08 | 2025-12-28 |
 | [Distorted Light Beam](https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Distorted Light Beam](https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz) | 2:57 | 2021-07-26 |  |
 | [Don't Speak](https://open.spotify.com/track/6JGQ98So2ik5GVI9ydQ2Yh) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Singles Collection](https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2) | 4:22 | 2021-03-29 |  |

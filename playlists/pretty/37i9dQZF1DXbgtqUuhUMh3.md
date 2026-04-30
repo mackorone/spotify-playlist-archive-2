@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 
 > Listen to women, at full volume\. Emel is co\-curating EQUAL Arabia this month.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,322 likes - 64 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,325 likes - 64 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

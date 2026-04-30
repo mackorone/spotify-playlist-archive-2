@@ -959,6 +959,28 @@
     },
     {
       "album": {
+        "name": "Where Do We Go (Peggy Gou Remix)",
+        "url": "https://open.spotify.com/album/4uehWsaRaI59i4vZgQKQOB"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315659,
+      "name": "Where Do We Go - Peggy Gou Remix",
+      "url": "https://open.spotify.com/track/7icTQjIbMxfkOU71InqarB"
+    },
+    {
+      "album": {
         "name": "I Hear You",
         "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
       },

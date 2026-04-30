@@ -4,7 +4,7 @@
 
 > the best &amp; new rock\. all the beloved tracks &amp; artists
 
-226 songs - 14 hr 2 min
+227 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Mr\. Knowitall](https://open.spotify.com/track/1YBVTjPhQvV4ClQ6bOVqzV) | [RAYGO BLOOM](https://open.spotify.com/artist/7hiQzOxAkDjm7EAItzAgpZ) | [Hangin' Off The Coat\-Tails](https://open.spotify.com/album/4ru5DJHIX05sZ0h31Zkz2f) | 3:06 | 2025-09-01 |  |
 | [Must Be Lonely](https://open.spotify.com/track/26H0lWxlIvfmyBLx73kMbv) | [Glen Haze](https://open.spotify.com/artist/412hdqOshBEKPliqKYU4K9) | [Must Be Lonely](https://open.spotify.com/album/7fmkTGpteURdCAV710opf7) | 4:02 | 2025-08-03 |  |
 | [my soul](https://open.spotify.com/track/7lasFt6aFOALpZ6llHMD0Y) | [Romain DBE](https://open.spotify.com/artist/4cvvsI2TrktTqseIwetjMI) | [Hide This World 2: Red Moon](https://open.spotify.com/album/7csiRtW5azYuzH1r7TcYVG) | 3:07 | 2024-10-31 |  |
+| [Neon Death](https://open.spotify.com/track/5dNgOQlPImxEsVOFGYbcTf) | [La Taiga](https://open.spotify.com/artist/3y78WeFsEhP8lZRjdhmpPz) | [Neon Death](https://open.spotify.com/album/7bu95i9T6uzU0Aj9sZDEew) | 3:14 | 2026-04-29 |  |
 | [Nerve \- Single Version](https://open.spotify.com/track/3rNW8pTDmzfSMRt3IarImv) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [Nerve](https://open.spotify.com/album/6kaUvOoFMUX2IHd2RXUIYF) | 2:41 | 2025-09-08 |  |
 | [Never Ever](https://open.spotify.com/track/4677ZUyfKxnP4Tqc9ZkQsU) | [Who's Amber?](https://open.spotify.com/artist/1k1JkZDYdPfGr7sMhuzReV) | [Never Ever](https://open.spotify.com/album/0k7GVxYJp1THnNu1BFmALP) | 3:43 | 2025-07-07 |  |
 | [never had](https://open.spotify.com/track/2A04GiO3Q9SgIekKJMaNkI) | [Seizasaurus](https://open.spotify.com/artist/4BhN3lGopQueYDuXg57CVf) | [never had](https://open.spotify.com/album/3ZgFCCaOkyjzbphbDQnl2D) | 2:54 | 2025-09-08 |  |

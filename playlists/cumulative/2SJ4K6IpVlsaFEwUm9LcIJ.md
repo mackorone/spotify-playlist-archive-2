@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-983 songs - 2 day 11 hr 32 min
+984 songs - 2 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Amy](https://open.spotify.com/track/5FOqsNZyuYIw13eZtNeKwN) | [knitting](https://open.spotify.com/artist/2eRDm8pl8MFrZv1gsfqUtj) | [Some Kind Of Heaven](https://open.spotify.com/album/6SSGkBbWRgwGTOteOz2HXM) | 2:40 | 2024-09-28 | 2024-11-14 |
 | [Anagrama](https://open.spotify.com/track/6oAaNmhulECiyJQD5g0HZ1) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Anagrama \(Syr 1\)](https://open.spotify.com/album/5VmsN3lsZbtOBhbFiByV3C) | 9:31 | 2026-01-09 | 2026-03-13 |
 | [And So It Goes](https://open.spotify.com/track/1u7kQUb3lQcpHaYRfia13A) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 3:40 | 2025-12-25 | 2026-03-13 |
+| [Andromeda Memories](https://open.spotify.com/track/2kn2qInHsJpYB5RGfYceNc) | [Kyle Gann](https://open.spotify.com/artist/3rMlFoNMznQsgxDW65g5Vi) | [Hyperchromatica](https://open.spotify.com/album/6ypBOzBduhEANZ1FvkPTxk) | 8:23 | 2026-04-29 |  |
 | [Anemometer](https://open.spotify.com/track/19jvdt6NQVFQNwGpS300LJ) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 12:44 | 2024-10-11 | 2024-11-14 |
 | [Angel in Disguise](https://open.spotify.com/track/6PQTUESsPMNcDAg2LEmxh7) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:48 | 2025-04-23 | 2025-05-09 |
 | [Angel Style](https://open.spotify.com/track/1Wtl3WGuBQNghBQGajv87L) | [Hooky](https://open.spotify.com/artist/17eGQ5SRFwIv2c8FsrQf8f) | [Mirage](https://open.spotify.com/album/7uk0LH3pI5mDgFBiwbyLvO) | 1:58 | 2024-02-27 | 2024-03-10 |
@@ -217,7 +218,7 @@
 | [Don't Hang Up Your Dancing Shoes](https://open.spotify.com/track/5TPurU8g9R2iPcpC0twyrO) | [Iain Matthews](https://open.spotify.com/artist/30yVqa41V5oNH00p6CBWB9) | [Stealin' Home](https://open.spotify.com/album/017MmvDfLWlDqGkSIxTuwn) | 3:01 | 2025-04-28 | 2025-05-09 |
 | [Don't Interrupt the Sorrow](https://open.spotify.com/track/3r0Tk9ibA2KT1KiLGIuKXA) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Hissing of Summer Lawns](https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj) | 4:04 | 2025-02-21 | 2025-03-02 |
 | [Don't Let This Feeling](https://open.spotify.com/track/2W6Xyj96U9ujqDPgzNMKBM) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [café LIFE](https://open.spotify.com/album/0vbzPGDQWtxOroyhwC3rck) | 2:52 | 2025-04-29 | 2025-05-09 |
-| [Don't Look Back \- feat\. Van Morrison](https://open.spotify.com/track/7CTBrlgx4l9JXfJellaBOE) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Don't Look Back](https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7) | 6:44 | 2026-04-18 |  |
+| [Don't Look Back \- feat\. Van Morrison](https://open.spotify.com/track/7CTBrlgx4l9JXfJellaBOE) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Don't Look Back](https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7) | 6:44 | 2026-04-18 | 2026-04-30 |
 | [donatt gonatt](https://open.spotify.com/track/1KTUanjuON1WRpdAm7K0q6) | [Otis Sandsjö](https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Dan Nicholls](https://open.spotify.com/artist/3jPACp3hjJoZE4amLccrTW) | [Y\-OTIS TRE](https://open.spotify.com/album/5Ft7Z5wGzds53aw1ivIPAS) | 2:18 | 2025-01-21 | 2025-01-23 |
 | [Doubt](https://open.spotify.com/track/2dexrJhfT8hQEvH7uqNpRf) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 4:00 | 2025-09-26 | 2025-11-15 |
 | [Doubt](https://open.spotify.com/track/6fFSq7gqYd1IyidV7tIBCI) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Escho 15 år: Burgers for my new life](https://open.spotify.com/album/0DyC815neW8HCVwn9SEp09) | 4:00 | 2025-02-10 | 2025-03-02 |
@@ -397,7 +398,7 @@
 | [I Wish That We Were Married](https://open.spotify.com/track/2G3QuwTpQOe4i0JyMu47N3) | [Ronnie And The Hi\-Lites](https://open.spotify.com/artist/64NBWzoBYRleutVJjDfpkT) | [I Wish That We Were Married](https://open.spotify.com/album/3RbuK4PlaTUDNjWHhD1X3u) | 2:52 | 2026-02-20 |  |
 | [I Won't Share You \- 2011 Remaster](https://open.spotify.com/track/3kLE2Jsxeb3W2bhx82bPlb) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 2:53 | 2024-10-26 | 2024-11-14 |
 | [I'd Rather You Leave Me](https://open.spotify.com/track/7loaQK9Jd9RVYVj3iN4Xms) | [The Choir](https://open.spotify.com/artist/1CBHzR63n8JTqYNiGwgeqO) | [I'd Rather You Leave Me](https://open.spotify.com/album/1h3zASfdILrqQDjxhpOQls) | 2:02 | 2024-01-05 | 2024-03-10 |
-| [I'm Going Home](https://open.spotify.com/track/1g2AbdCDCKyRZkafuRgOom) | [Arlo Guthrie](https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw) | [Alice's Restaurant](https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm) | 3:18 | 2026-04-18 |  |
+| [I'm Going Home](https://open.spotify.com/track/1g2AbdCDCKyRZkafuRgOom) | [Arlo Guthrie](https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw) | [Alice's Restaurant](https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm) | 3:18 | 2026-04-18 | 2026-04-30 |
 | [I'm Really Flagging \(or I Trusted U\)](https://open.spotify.com/track/52RQcaMJ3DdN3Uyfs4a19r) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e), [Ben Vince](https://open.spotify.com/artist/2EWVX9WDwCaDHdsoTFWSPV) | [Belly Up](https://open.spotify.com/album/0ONmkhgJogbSp5Y76aNIfa) | 3:02 | 2025-05-19 | 2025-07-04 |
 | [I'm So Happy I Can't Stop Crying](https://open.spotify.com/track/5sU3gFFE3K28cWgC8NfERu) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Mercury Falling](https://open.spotify.com/album/1Z4RIxVodiz0V9x8veQ9Rr) | 3:57 | 2025-07-22 | 2025-07-30 |
 | [I'm So Serious](https://open.spotify.com/track/6JKbThcH863nxdmTtzbCLr) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [I'm So Serious](https://open.spotify.com/album/5m2uYclmYUb6UScDXXfosC) | 3:42 | 2024-09-10 | 2024-11-14 |

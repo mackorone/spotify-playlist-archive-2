@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-685 songs - 1 day 12 hr 51 min
+686 songs - 1 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -641,7 +641,8 @@
 | [Which?](https://open.spotify.com/track/315WTwPNY1X0M2gNXeUqHw) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:41 | 2024-07-24 |  |
 | [Who Knows? \- Rudy Van Gelder 24\-Bit Mastering / 2001 Digital Remaster](https://open.spotify.com/track/4pSr4ktE1m9GINTwpYLGqz) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Genius Of Modern Music \(Vol.1, Expanded Edition\)](https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL) | 2:45 | 2024-07-24 |  |
 | [Who Said Gay Paree?](https://open.spotify.com/track/6ZlC37ukvbBzVn3KFaFnUm) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 3:31 | 2024-07-24 |  |
-| [Who Wants To Be A Millionaire? \(From High Society\)](https://open.spotify.com/track/2KhgbKTMXMXSHjwCnnHgU7) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Songs Volume III](https://open.spotify.com/album/5l4cUEnIGO24lxPwTkHAza) | 2:07 | 2025-06-27 |  |
+| [Who Wants To Be A Millionaire](https://open.spotify.com/track/6OMMZBlodSQh14cyBxSNZ3) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Celeste Holm](https://open.spotify.com/artist/6hDtmqaHJfVhDj48VTtWeb) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 2:07 | 2026-04-29 |  |
+| [Who Wants To Be A Millionaire? \(From High Society\)](https://open.spotify.com/track/2KhgbKTMXMXSHjwCnnHgU7) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Songs Volume III](https://open.spotify.com/album/5l4cUEnIGO24lxPwTkHAza) | 2:07 | 2025-06-27 | 2026-04-30 |
 | [Why Am I So Gone](https://open.spotify.com/track/6PYFmCNsu3UAvp753mWPxV) | [Gene Kelly](https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk) | [Gene Kelly: Collection Belle Époque, Vol\. 1](https://open.spotify.com/album/2DqryaFRKApyuA12IiC6to) | 4:36 | 2025-05-31 |  |
 | [Why Am I So Gone About That Gal](https://open.spotify.com/track/2GQWbSdThi6IkHsFty3w4T) | [Gene Kelly](https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk) | [Gene](https://open.spotify.com/album/0OOIgQ1Eq97p2QNoS8TMSB) | 4:37 | 2024-07-24 |  |
 | [Why Can't You Behave](https://open.spotify.com/track/7rDyy6uckdMINsOPfIRdS6) | [Ann Miller](https://open.spotify.com/artist/23l24ONKq0y3feuY9qXOmz) | [Kiss Me Kate \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6eyHv9M34UDbjUqNyU3jJ3) | 4:02 | 2025-06-27 | 2025-07-10 |

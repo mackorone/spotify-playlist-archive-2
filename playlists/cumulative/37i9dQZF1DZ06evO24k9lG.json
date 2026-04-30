@@ -543,7 +543,7 @@
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 297299,
+      "duration_ms": 273263,
       "name": "Lejos De Ti",
       "url": "https://open.spotify.com/track/4RdZtnUWiuSPTsirLtZxIz"
     },
@@ -838,24 +838,6 @@
     {
       "album": {
         "name": "2.000",
-        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "date_added": "2022-12-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 304117,
-      "name": "Olv\u00eddala",
-      "url": "https://open.spotify.com/track/3QorC3YeHA1zuGHwGCmBja"
-    },
-    {
-      "album": {
-        "name": "2.000",
         "url": "https://open.spotify.com/album/2fYRNfiFD6ZxvpzF2EykRV"
       },
       "artists": [
@@ -870,6 +852,24 @@
       "duration_ms": 304222,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/3HRyO1rUpfegp52HN6ZSyw"
+    },
+    {
+      "album": {
+        "name": "2.000",
+        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304390,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/3QorC3YeHA1zuGHwGCmBja"
     },
     {
       "album": {
@@ -1152,24 +1152,6 @@
     {
       "album": {
         "name": "2.000",
-        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "date_added": "2022-12-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 301531,
-      "name": "Un Camino Lejano",
-      "url": "https://open.spotify.com/track/34dXtfHp5Zf8TV4dwqXGGg"
-    },
-    {
-      "album": {
-        "name": "2.000",
         "url": "https://open.spotify.com/album/2fYRNfiFD6ZxvpzF2EykRV"
       },
       "artists": [
@@ -1184,6 +1166,24 @@
       "duration_ms": 301635,
       "name": "Un Camino Lejano",
       "url": "https://open.spotify.com/track/3FU7rhspVAi3vDuN2FQtVc"
+    },
+    {
+      "album": {
+        "name": "2.000",
+        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302416,
+      "name": "Un Camino Lejano",
+      "url": "https://open.spotify.com/track/34dXtfHp5Zf8TV4dwqXGGg"
     },
     {
       "album": {
@@ -1217,7 +1217,7 @@
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 289724,
+      "duration_ms": 289715,
       "name": "Un Osito Dormil\u00f3n",
       "url": "https://open.spotify.com/track/2kfy5uzINhvThNfTqgXNPt"
     },

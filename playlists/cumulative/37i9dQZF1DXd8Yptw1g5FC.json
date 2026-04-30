@@ -113665,6 +113665,24 @@
     },
     {
       "album": {
+        "name": "Tan\u0131mam",
+        "url": "https://open.spotify.com/album/3xKSUStLiUu0eqr7LVgyoq"
+      },
+      "artists": [
+        {
+          "name": "Serkan Kaya",
+          "url": "https://open.spotify.com/artist/56x1jJZ4DrXu3NXMfHpolC"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217196,
+      "name": "Tan\u0131mam",
+      "url": "https://open.spotify.com/track/3w5E2DA92vDnMBS2JCz0Eu"
+    },
+    {
+      "album": {
         "name": "Tan\u0131r Beni Ellerin",
         "url": "https://open.spotify.com/album/4K6BJhAGYoQBZycjCUZfw9"
       },

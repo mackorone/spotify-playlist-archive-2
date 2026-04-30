@@ -635,6 +635,28 @@
     },
     {
       "album": {
+        "name": "BOGO Bodega",
+        "url": "https://open.spotify.com/album/37SByWcngj4Iu3IaJzXmEo"
+      },
+      "artists": [
+        {
+          "name": "dummy co.",
+          "url": "https://open.spotify.com/artist/6r4qoWqXf8eQXCPHawb3RF"
+        },
+        {
+          "name": "Kool Karlo",
+          "url": "https://open.spotify.com/artist/3dHzT8qGSboKwYhi7SMQUb"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198947,
+      "name": "BOGO Bodega",
+      "url": "https://open.spotify.com/track/3TepkxGAUbD2KgxeePeSjP"
+    },
+    {
+      "album": {
         "name": "Acid Viking",
         "url": "https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz"
       },

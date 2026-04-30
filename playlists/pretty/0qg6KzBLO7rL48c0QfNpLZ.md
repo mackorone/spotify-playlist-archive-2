@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 106,993 likes - 84 songs - 3 hr 53 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 106,983 likes - 84 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,16 +81,16 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 71 | [On You Tonight](https://open.spotify.com/track/74W5fZ6oXGfOkEsBnJGoF6) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY) | [On You Tonight](https://open.spotify.com/album/5rVcIzH1pDaK6tGkoGH8MI) | 2:17 |
 | 72 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 73 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 |
-| 74 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 |
-| 75 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 |
-| 76 | [Be Somewhere](https://open.spotify.com/track/7IddP0tIBe0Hh9oCYdtuyX) | [CLÜE](https://open.spotify.com/artist/3Su0ARjycouuBn1jXKPgQv) | [Be Somewhere](https://open.spotify.com/album/19MWoDnXbNGz6hg1RL4Kuw) | 2:38 |
-| 77 | [Autumn's End](https://open.spotify.com/track/0mzt5RJDfGnPM9ik7gULaV) | [dusk:dawn](https://open.spotify.com/artist/0ovM12PnBmC1MvVXRVeIIe) | [Autumn's End](https://open.spotify.com/album/67OufTMiO7kYZiFfsHUyye) | 2:41 |
-| 78 | [Hold You Close](https://open.spotify.com/track/77PdeNPpdJgGQXQLUnZVJf) | [Avira](https://open.spotify.com/artist/1wytsm0cwx7Vw9kIVyyWWI) | [Hold You Close](https://open.spotify.com/album/5BziIKXmHxarHwFVVJsFTS) | 2:37 |
-| 79 | [There For You](https://open.spotify.com/track/3TPYOpX9qaLUv2mVWYkhBD) | [Willow](https://open.spotify.com/artist/4YH3yvWJyMhJdmZTumulrb) | [There For You](https://open.spotify.com/album/7m7TiLJUQeSys6WE9rwcRI) | 2:54 |
-| 80 | [Another Place](https://open.spotify.com/track/7wKvAAhR98Dc5Miwi28eHN) | [just here.](https://open.spotify.com/artist/3e8DK3HacvVTlhoYlQOIAx) | [Another Place](https://open.spotify.com/album/1l2HIPSbkBObLh8a84erLC) | 2:29 |
-| 81 | [Honest](https://open.spotify.com/track/0LWPhTRMJfWF5AipqXDPFX) | [just here.](https://open.spotify.com/artist/3e8DK3HacvVTlhoYlQOIAx), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Honest](https://open.spotify.com/album/3tuHwCcTGNeiBZaIOEKppT) | 2:33 |
-| 82 | [Alicante](https://open.spotify.com/track/4NfuYShHpqVocwgQ6IcZVe) | [Solara](https://open.spotify.com/artist/1M7CohuwV1Mgim4czMhWRe) | [Alicante](https://open.spotify.com/album/5WQsfObVbx023rGrM6JQrh) | 2:17 |
-| 83 | [Morning Sun](https://open.spotify.com/track/2x3oNXRXqn79zuGIeKRkkS) | [sûr faire](https://open.spotify.com/artist/20einaeE0SdJZVBGpPaQP2) | [Morning Sun](https://open.spotify.com/album/5YTzcSdg8SRUiSKieVB9aC) | 3:04 |
-| 84 | [No Me Canso \- Radio Mix](https://open.spotify.com/track/0boGSpPJPJy6Ugvu6a9n9K) | [SOMOS \(CH\)](https://open.spotify.com/artist/3CpCDugRWHfnYiufWFVtKD) | [No Me Canso](https://open.spotify.com/album/2IhpOEsTpdcO9XiiTccfTC) | 3:52 |
+| 74 | [No Me Canso \- Radio Mix](https://open.spotify.com/track/0boGSpPJPJy6Ugvu6a9n9K) | [SOMOS \(CH\)](https://open.spotify.com/artist/3CpCDugRWHfnYiufWFVtKD) | [No Me Canso](https://open.spotify.com/album/2IhpOEsTpdcO9XiiTccfTC) | 3:52 |
+| 75 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 |
+| 76 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 |
+| 77 | [Be Somewhere](https://open.spotify.com/track/7IddP0tIBe0Hh9oCYdtuyX) | [CLÜE](https://open.spotify.com/artist/3Su0ARjycouuBn1jXKPgQv) | [Be Somewhere](https://open.spotify.com/album/19MWoDnXbNGz6hg1RL4Kuw) | 2:38 |
+| 78 | [Autumn's End](https://open.spotify.com/track/0mzt5RJDfGnPM9ik7gULaV) | [dusk:dawn](https://open.spotify.com/artist/0ovM12PnBmC1MvVXRVeIIe) | [Autumn's End](https://open.spotify.com/album/67OufTMiO7kYZiFfsHUyye) | 2:41 |
+| 79 | [Hold You Close](https://open.spotify.com/track/77PdeNPpdJgGQXQLUnZVJf) | [Avira](https://open.spotify.com/artist/1wytsm0cwx7Vw9kIVyyWWI) | [Hold You Close](https://open.spotify.com/album/5BziIKXmHxarHwFVVJsFTS) | 2:37 |
+| 80 | [There For You](https://open.spotify.com/track/3TPYOpX9qaLUv2mVWYkhBD) | [Willow](https://open.spotify.com/artist/4YH3yvWJyMhJdmZTumulrb) | [There For You](https://open.spotify.com/album/7m7TiLJUQeSys6WE9rwcRI) | 2:54 |
+| 81 | [Another Place](https://open.spotify.com/track/7wKvAAhR98Dc5Miwi28eHN) | [just here.](https://open.spotify.com/artist/3e8DK3HacvVTlhoYlQOIAx) | [Another Place](https://open.spotify.com/album/1l2HIPSbkBObLh8a84erLC) | 2:29 |
+| 82 | [Honest](https://open.spotify.com/track/0LWPhTRMJfWF5AipqXDPFX) | [just here.](https://open.spotify.com/artist/3e8DK3HacvVTlhoYlQOIAx), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Honest](https://open.spotify.com/album/3tuHwCcTGNeiBZaIOEKppT) | 2:33 |
+| 83 | [Alicante](https://open.spotify.com/track/4NfuYShHpqVocwgQ6IcZVe) | [Solara](https://open.spotify.com/artist/1M7CohuwV1Mgim4czMhWRe) | [Alicante](https://open.spotify.com/album/5WQsfObVbx023rGrM6JQrh) | 2:17 |
+| 84 | [Morning Sun](https://open.spotify.com/track/2x3oNXRXqn79zuGIeKRkkS) | [sûr faire](https://open.spotify.com/artist/20einaeE0SdJZVBGpPaQP2) | [Morning Sun](https://open.spotify.com/album/5YTzcSdg8SRUiSKieVB9aC) | 3:04 |
 
-Snapshot ID: `AAAkZ9751YssBdDbQHrWNjuXTEkxIS+w`
+Snapshot ID: `AAAkaLOKlvH9i7A5q0uQAQfzbKoxcetZ`

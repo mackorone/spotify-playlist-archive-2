@@ -1,6 +1,6 @@
 {
   "description": "eles barulharam nessa sess\u00e3o hein \ud83d\udc40",
-  "num_followers": 1449863,
+  "num_followers": 1449784,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,30 @@
     {
       "added_at": "2026-04-24 19:14:06",
       "album": {
+        "name": "A Vida \u00e9 Um Freestyle",
+        "url": "https://open.spotify.com/album/4H28oDneeI0Q0yY297UB71"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "duration_ms": 200409,
+      "name": "Falsos Profetas",
+      "url": "https://open.spotify.com/track/5PMhAIXjGZaj6SBqOIXmsJ"
+    },
+    {
+      "added_at": "2026-04-24 19:14:06",
+      "album": {
         "name": "THE BOX MEDLEY 11",
         "url": "https://open.spotify.com/album/2eZxNKX7vVsdh9OV3USOdW"
       },
@@ -871,30 +895,6 @@
     {
       "added_at": "2026-04-24 19:14:06",
       "album": {
-        "name": "A Vida \u00e9 Um Freestyle",
-        "url": "https://open.spotify.com/album/4H28oDneeI0Q0yY297UB71"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "LPT Zlatan",
-          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        }
-      ],
-      "duration_ms": 200409,
-      "name": "Falsos Profetas",
-      "url": "https://open.spotify.com/track/5PMhAIXjGZaj6SBqOIXmsJ"
-    },
-    {
-      "added_at": "2026-04-24 19:14:06",
-      "album": {
         "name": "Vagabundo",
         "url": "https://open.spotify.com/album/3NeFKJipmZQHAYGhvm6Ogr"
       },
@@ -915,34 +915,6 @@
       "duration_ms": 159634,
       "name": "Solo Paulista",
       "url": "https://open.spotify.com/track/6LeKnFXj99E6pdlq7rz0x7"
-    },
-    {
-      "added_at": "2026-04-24 19:14:06",
-      "album": {
-        "name": "DOIS Quebrada Inteligente Pro Max",
-        "url": "https://open.spotify.com/album/34MMvlqKZuvbCzJcv1FMwz"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Mc Larisson",
-          "url": "https://open.spotify.com/artist/5NKSnEPwnQ6s7muiQE4EsK"
-        }
-      ],
-      "duration_ms": 237456,
-      "name": "PRINCESA MANDRAKA.",
-      "url": "https://open.spotify.com/track/20BRVZEog9m5rZGSv2UIGf"
     },
     {
       "added_at": "2026-04-24 19:14:06",
@@ -971,26 +943,30 @@
     {
       "added_at": "2026-04-24 19:14:06",
       "album": {
-        "name": "M.P.B",
-        "url": "https://open.spotify.com/album/7y1FJ9AGymKo3qbLKpVM4p"
+        "name": "DOIS Quebrada Inteligente Pro Max",
+        "url": "https://open.spotify.com/album/34MMvlqKZuvbCzJcv1FMwz"
       },
       "artists": [
         {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
         },
         {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
         },
         {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Mc Larisson",
+          "url": "https://open.spotify.com/artist/5NKSnEPwnQ6s7muiQE4EsK"
         }
       ],
-      "duration_ms": 178317,
-      "name": "M.P.B",
-      "url": "https://open.spotify.com/track/6BZT61t4kVGC9lL5931vZv"
+      "duration_ms": 237456,
+      "name": "PRINCESA MANDRAKA.",
+      "url": "https://open.spotify.com/track/20BRVZEog9m5rZGSv2UIGf"
     },
     {
       "added_at": "2026-04-24 19:14:06",
@@ -1059,6 +1035,30 @@
       "duration_ms": 297692,
       "name": "THE BOX MEDLEY FUNK 11",
       "url": "https://open.spotify.com/track/0oulB5Nhs4Ur3zgvC6WqWz"
+    },
+    {
+      "added_at": "2026-04-24 19:14:06",
+      "album": {
+        "name": "M.P.B",
+        "url": "https://open.spotify.com/album/7y1FJ9AGymKo3qbLKpVM4p"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "duration_ms": 178317,
+      "name": "M.P.B",
+      "url": "https://open.spotify.com/track/6BZT61t4kVGC9lL5931vZv"
     },
     {
       "added_at": "2026-04-24 19:14:06",
@@ -1355,22 +1355,34 @@
     {
       "added_at": "2026-04-24 19:14:06",
       "album": {
-        "name": "Lovebombing / Seu Telefone",
-        "url": "https://open.spotify.com/album/22fD8mavDvlPf8BQftRw5D"
+        "name": "BASE: Melodia$",
+        "url": "https://open.spotify.com/album/7i9kGN3cc5CbNqaL36VxKy"
       },
       "artists": [
         {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
         },
         {
-          "name": "CL FEZ O BEAT",
-          "url": "https://open.spotify.com/artist/2So8OpBawO4DEcHETTaXV8"
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "KayG",
+          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Isis Orbelli",
+          "url": "https://open.spotify.com/artist/4rflqymMDgNe10ldH5lGCY"
         }
       ],
-      "duration_ms": 164250,
-      "name": "Lovebombing",
-      "url": "https://open.spotify.com/track/1qpumVwIo1NMZmw0RcIHb9"
+      "duration_ms": 214128,
+      "name": "Ela quer de 100",
+      "url": "https://open.spotify.com/track/3MiVY2AKcWWNDfkd1cOgkA"
     },
     {
       "added_at": "2026-04-24 19:14:06",
@@ -1423,34 +1435,22 @@
     {
       "added_at": "2026-04-24 19:14:06",
       "album": {
-        "name": "BASE: Melodia$",
-        "url": "https://open.spotify.com/album/7i9kGN3cc5CbNqaL36VxKy"
+        "name": "Lovebombing / Seu Telefone",
+        "url": "https://open.spotify.com/album/22fD8mavDvlPf8BQftRw5D"
       },
       "artists": [
         {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
         },
         {
-          "name": "MC Leozinho ZS",
-          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
-        },
-        {
-          "name": "KayG",
-          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "Isis Orbelli",
-          "url": "https://open.spotify.com/artist/4rflqymMDgNe10ldH5lGCY"
+          "name": "CL FEZ O BEAT",
+          "url": "https://open.spotify.com/artist/2So8OpBawO4DEcHETTaXV8"
         }
       ],
-      "duration_ms": 214128,
-      "name": "Ela quer de 100",
-      "url": "https://open.spotify.com/track/3MiVY2AKcWWNDfkd1cOgkA"
+      "duration_ms": 164250,
+      "name": "Lovebombing",
+      "url": "https://open.spotify.com/track/1qpumVwIo1NMZmw0RcIHb9"
     },
     {
       "added_at": "2026-04-24 19:14:06",
@@ -1507,34 +1507,6 @@
     {
       "added_at": "2026-04-24 19:14:06",
       "album": {
-        "name": "DIXAVANDO",
-        "url": "https://open.spotify.com/album/30x1jnVXq7O1hZm13CssCA"
-      },
-      "artists": [
-        {
-          "name": "Fahel",
-          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
-        },
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        },
-        {
-          "name": "Pluck D",
-          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
-        },
-        {
-          "name": "Analogic",
-          "url": "https://open.spotify.com/artist/5w7rdQm98KK3C5U6zrnenv"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "DIXAVANDO",
-      "url": "https://open.spotify.com/track/6slTSnYginVYk9Ubi90K3H"
-    },
-    {
-      "added_at": "2026-04-24 19:14:06",
-      "album": {
         "name": "Quando a Noite Cai",
         "url": "https://open.spotify.com/album/53hTJfz6XKo7fCM4vs401v"
       },
@@ -1567,6 +1539,34 @@
       "duration_ms": 193488,
       "name": "Quando a Noite Cai",
       "url": "https://open.spotify.com/track/5XuZIr6kEhjORF3Am6769h"
+    },
+    {
+      "added_at": "2026-04-24 19:14:06",
+      "album": {
+        "name": "DIXAVANDO",
+        "url": "https://open.spotify.com/album/30x1jnVXq7O1hZm13CssCA"
+      },
+      "artists": [
+        {
+          "name": "Fahel",
+          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "Pluck D",
+          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
+        },
+        {
+          "name": "Analogic",
+          "url": "https://open.spotify.com/artist/5w7rdQm98KK3C5U6zrnenv"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "DIXAVANDO",
+      "url": "https://open.spotify.com/track/6slTSnYginVYk9Ubi90K3H"
     },
     {
       "added_at": "2026-04-24 19:14:06",

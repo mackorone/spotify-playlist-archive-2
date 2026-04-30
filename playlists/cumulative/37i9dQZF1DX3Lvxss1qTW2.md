@@ -4,7 +4,7 @@
 
 > The future hits of today\. Up Next: TAR1Q
 
-715 songs - 1 day 9 hr 8 min
+716 songs - 1 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [CHISOM \(We Dem Boyz\)](https://open.spotify.com/track/68Urq9BWEfDCAU10njCU0a) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [CHISOM \(We Dem Boyz\)](https://open.spotify.com/album/7554y1U2CikUTRafTXj29N) | 3:01 | 2025-01-17 | 2025-05-09 |
 | [Chocolate & Caramel](https://open.spotify.com/track/3I0OL1oZUCYbI4GW4sVjWA) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhad Boi](https://open.spotify.com/album/2JrMvVPza1zRBAuz3eDufm) | 2:41 | 2025-01-17 | 2025-05-09 |
 | [CLOUD 9 \(GUCCI BBY\)](https://open.spotify.com/track/0s0HKUEoB3vmZqzM90GOJK) | [WAVE$TAR](https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ) | [GUCCI & LV](https://open.spotify.com/album/6VFErC5TrSgbttDKc4LJJx) | 2:49 | 2026-04-10 |  |
-| [Coco Samba](https://open.spotify.com/track/45IGXOKiOxfOQJdd2Ln4Pg) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Coco Samba](https://open.spotify.com/album/5GbY5lmHh4YecUZZx07Ed5) | 3:09 | 2025-12-19 |  |
+| [Coco Samba](https://open.spotify.com/track/45IGXOKiOxfOQJdd2Ln4Pg) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Coco Samba](https://open.spotify.com/album/5GbY5lmHh4YecUZZx07Ed5) | 3:09 | 2025-12-19 | 2026-04-30 |
 | [Cocoa Butter](https://open.spotify.com/track/7jvBgwYzMd3SHzG2F0Isez) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [The Majeek](https://open.spotify.com/artist/7DEAydHZRSI5lVqy85n5V8) | [Cocoa Butter](https://open.spotify.com/album/001nCniJ4S5BUHXeB2kKMZ) | 1:53 | 2024-10-04 | 2025-03-07 |
 | [Coconut Cream](https://open.spotify.com/track/7kR5jVONjEK3MOlf0RV6AH) | [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Coconut Cream](https://open.spotify.com/album/7i1yZ6WL8S8ORA1MqVmm0e) | 3:08 | 2026-02-13 | 2026-04-03 |
 | [COLD OUTSIDE](https://open.spotify.com/track/2w5sflB3yU87VPmyfHhhN8) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [COLD OUTSIDE](https://open.spotify.com/album/1V9JGN8fMNMtFJvpJmFYWR) | 2:50 | 2026-04-24 |  |
@@ -542,6 +542,7 @@
 | [Risk](https://open.spotify.com/track/3CbYtoJFEmPAMkKhEjPdOE) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Rage / Risk](https://open.spotify.com/album/4kABlRYtKlyLbpz82oGHcu) | 2:12 | 2024-06-28 | 2024-08-09 |
 | [Roadman](https://open.spotify.com/track/1vAvrkdedqfcFVm6cLfZBe) | [Ink Boy](https://open.spotify.com/artist/5h08861M7tKrIOmO3aZnCt) | [Roadman](https://open.spotify.com/album/6rKbU1FqqhFtgr3N0l7Y8g) | 3:31 | 2024-11-29 | 2025-03-29 |
 | [Roma](https://open.spotify.com/track/0tYVKrdMhSACnQTlCBzKAi) | [Runda](https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x) | [Behind Closed Doors](https://open.spotify.com/album/7IcAWl0SNTImQwHcG8w98o) | 2:28 | 2025-05-30 | 2025-06-10 |
+| [Romeo and juliet](https://open.spotify.com/track/5qtqBs37uoil2KurOjGGni) | [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl) | [Romeo and juliet](https://open.spotify.com/album/0wMbgIjbepQQTZelXX9v2S) | 2:31 | 2026-04-29 |  |
 | [ronju](https://open.spotify.com/track/26LNp0rYhFNLNh1I2fpaEA) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Black Culture](https://open.spotify.com/artist/2331I1TOUrGnlIbG8Vs1gp), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [INÓ](https://open.spotify.com/album/5dKIhVTuAY4nhSDXroKMbw) | 3:18 | 2024-11-08 | 2024-11-29 |
 | [Rover](https://open.spotify.com/track/6z3msNjyaN5nY0kDt7XCgs) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Rover](https://open.spotify.com/album/4TcZrHap6VtZGDRs3gVlha) | 2:34 | 2025-10-03 | 2026-01-29 |
 | [Run am ASAP](https://open.spotify.com/track/2fBzzTpsouicnbnkQYyDYj) | [ASAPtheDJ](https://open.spotify.com/artist/0On72ZC3ETA5VgAqzGwA4P), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Run am ASAP](https://open.spotify.com/album/3Kc9RdfIzsxYvwcfM2g0AL) | 2:49 | 2025-09-19 | 2026-01-29 |

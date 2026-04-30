@@ -1,6 +1,6 @@
 {
   "description": "Christian & Gospel songs for the whole family.",
-  "num_followers": 148348,
+  "num_followers": 148380,
   "original_name": "Christian & Gospel Kids",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2026-03-23 15:10:22",
       "album": {
-        "name": "Sing: Spring Songs",
-        "url": "https://open.spotify.com/album/7i2nlqerXQ3KhZzXzcY1cR"
-      },
-      "artists": [
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Christ The Lord Is Risen Today",
-      "url": "https://open.spotify.com/track/5uQTIFIqXyx17f99UbPSKX"
-    },
-    {
-      "added_at": "2026-03-23 15:10:22",
-      "album": {
         "name": "10,000 Reasons Kids Worship",
         "url": "https://open.spotify.com/album/07DP9kppRYFnU34nQYiqO7"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 338000,
       "name": "10,000 Reasons (Bless The Lord)",
       "url": "https://open.spotify.com/track/7iNaSqWO7ytcFnDfTlRBPi"
+    },
+    {
+      "added_at": "2026-03-23 15:10:22",
+      "album": {
+        "name": "Sing: Spring Songs",
+        "url": "https://open.spotify.com/album/7i2nlqerXQ3KhZzXzcY1cR"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Christ The Lord Is Risen Today",
+      "url": "https://open.spotify.com/track/5uQTIFIqXyx17f99UbPSKX"
     },
     {
       "added_at": "2026-03-23 15:10:22",
@@ -607,18 +607,18 @@
     {
       "added_at": "2026-03-23 15:10:22",
       "album": {
-        "name": "Kids Worship",
-        "url": "https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc"
+        "name": "Thank You Jesus",
+        "url": "https://open.spotify.com/album/1JB2VmkBVE3SQOKPj6Z4uh"
       },
       "artists": [
         {
-          "name": "Kids Worship Performers",
-          "url": "https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I"
+          "name": "Hillsong Kids",
+          "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
         }
       ],
-      "duration_ms": 246320,
-      "name": "I Could Sing Of Your Love Forever",
-      "url": "https://open.spotify.com/track/5DitwE7RJ4424F09PUe2xq"
+      "duration_ms": 161466,
+      "name": "God Is So Good",
+      "url": "https://open.spotify.com/track/75Bunn94DbQP7xgwdfXzu8"
     },
     {
       "added_at": "2026-03-23 15:10:22",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-03-23 15:10:22",
       "album": {
+        "name": "Kids Worship",
+        "url": "https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc"
+      },
+      "artists": [
+        {
+          "name": "Kids Worship Performers",
+          "url": "https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "I Could Sing Of Your Love Forever",
+      "url": "https://open.spotify.com/track/5DitwE7RJ4424F09PUe2xq"
+    },
+    {
+      "added_at": "2026-03-23 15:10:22",
+      "album": {
         "name": "Prayed for This Day",
         "url": "https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 198093,
       "name": "Prayed for This Day",
       "url": "https://open.spotify.com/track/2GZK4aAvR7QYTPuQOoJCVN"
-    },
-    {
-      "added_at": "2026-03-23 15:10:22",
-      "album": {
-        "name": "Thank You Jesus",
-        "url": "https://open.spotify.com/album/1JB2VmkBVE3SQOKPj6Z4uh"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Kids",
-          "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
-        }
-      ],
-      "duration_ms": 161466,
-      "name": "God Is So Good",
-      "url": "https://open.spotify.com/track/75Bunn94DbQP7xgwdfXzu8"
     },
     {
       "added_at": "2026-03-23 15:10:22",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-03-23 15:10:22",
       "album": {
-        "name": "I Could Sing Of Your Love Forever Kids",
-        "url": "https://open.spotify.com/album/6M5aMxSlZFxbJtIz2wqzxj"
-      },
-      "artists": [
-        {
-          "name": "I Could Sing Kids Performers",
-          "url": "https://open.spotify.com/artist/13sPKIaXpiW7mFr3cgCb02"
-        }
-      ],
-      "duration_ms": 257333,
-      "name": "You're Worthy Of My Praise",
-      "url": "https://open.spotify.com/track/18u6SPiW95kfpWTg4zfYvZ"
-    },
-    {
-      "added_at": "2026-03-23 15:10:22",
-      "album": {
         "name": "Worship in the Word, Vol. 3 (Live)",
         "url": "https://open.spotify.com/album/2xj1Lu3FycIfZQNkZhmS9n"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 263187,
       "name": "Don't Forget (Psalm 103) - Live",
       "url": "https://open.spotify.com/track/0vby1DkoToYD05zGRLeoWA"
+    },
+    {
+      "added_at": "2026-03-23 15:10:22",
+      "album": {
+        "name": "I Could Sing Of Your Love Forever Kids",
+        "url": "https://open.spotify.com/album/6M5aMxSlZFxbJtIz2wqzxj"
+      },
+      "artists": [
+        {
+          "name": "I Could Sing Kids Performers",
+          "url": "https://open.spotify.com/artist/13sPKIaXpiW7mFr3cgCb02"
+        }
+      ],
+      "duration_ms": 257333,
+      "name": "You're Worthy Of My Praise",
+      "url": "https://open.spotify.com/track/18u6SPiW95kfpWTg4zfYvZ"
     },
     {
       "added_at": "2026-03-23 15:10:22",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-03-23 15:10:22",
       "album": {
-        "name": "Remember Jesus",
-        "url": "https://open.spotify.com/album/1bWISFisYx7KhH65dvJRGn"
-      },
-      "artists": [
-        {
-          "name": "Slugs and Bugs",
-          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
-        }
-      ],
-      "duration_ms": 209210,
-      "name": "Remember Jesus",
-      "url": "https://open.spotify.com/track/5lz1U2fW0ACCZYZwMDMcZk"
-    },
-    {
-      "added_at": "2026-03-23 15:10:22",
-      "album": {
         "name": "Let My Light Shine",
         "url": "https://open.spotify.com/album/6YTSa6nh81zLwXc7SIFIHI"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2026-03-23 15:10:22",
       "album": {
+        "name": "Praise Songs for Kids",
+        "url": "https://open.spotify.com/album/7iZulFdEIYZRQ9gXCYlaYJ"
+      },
+      "artists": [
+        {
+          "name": "Kids Sing Praise",
+          "url": "https://open.spotify.com/artist/2naj1WalUXZdDxG61MODFm"
+        }
+      ],
+      "duration_ms": 284479,
+      "name": "This Is Amazing Grace",
+      "url": "https://open.spotify.com/track/416g5ZwpOBOmfRt44SJzJg"
+    },
+    {
+      "added_at": "2026-03-23 15:10:22",
+      "album": {
         "name": "100 Songs from the Bible",
         "url": "https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky"
       },
@@ -995,18 +995,18 @@
     {
       "added_at": "2026-03-23 15:10:22",
       "album": {
-        "name": "Praise Songs for Kids",
-        "url": "https://open.spotify.com/album/7iZulFdEIYZRQ9gXCYlaYJ"
+        "name": "Remember Jesus",
+        "url": "https://open.spotify.com/album/1bWISFisYx7KhH65dvJRGn"
       },
       "artists": [
         {
-          "name": "Kids Sing Praise",
-          "url": "https://open.spotify.com/artist/2naj1WalUXZdDxG61MODFm"
+          "name": "Slugs and Bugs",
+          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
         }
       ],
-      "duration_ms": 284479,
-      "name": "This Is Amazing Grace",
-      "url": "https://open.spotify.com/track/416g5ZwpOBOmfRt44SJzJg"
+      "duration_ms": 209210,
+      "name": "Remember Jesus",
+      "url": "https://open.spotify.com/track/5lz1U2fW0ACCZYZwMDMcZk"
     },
     {
       "added_at": "2026-03-23 15:10:22",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-03-23 15:10:22",
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0mFjaLCkfyQ6WQPSanvDJQ"
-      },
-      "artists": [
-        {
-          "name": "Kids Sing Praise",
-          "url": "https://open.spotify.com/artist/2naj1WalUXZdDxG61MODFm"
-        }
-      ],
-      "duration_ms": 290980,
-      "name": "Gratitude",
-      "url": "https://open.spotify.com/track/6nzJgJ3w3qGEoAz9vp7TrC"
-    },
-    {
-      "added_at": "2026-03-23 15:10:22",
-      "album": {
         "name": "The First Sunday Singalong",
         "url": "https://open.spotify.com/album/3ZSxL7JnNVTWi9yyNFuTHa"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 95560,
       "name": "Heaven Is A Wonderful Place/When I Get To Heaven",
       "url": "https://open.spotify.com/track/6iINEWo79e3Ao1MYoHGg7n"
+    },
+    {
+      "added_at": "2026-03-23 15:10:22",
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0mFjaLCkfyQ6WQPSanvDJQ"
+      },
+      "artists": [
+        {
+          "name": "Kids Sing Praise",
+          "url": "https://open.spotify.com/artist/2naj1WalUXZdDxG61MODFm"
+        }
+      ],
+      "duration_ms": 290980,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/6nzJgJ3w3qGEoAz9vp7TrC"
     },
     {
       "added_at": "2026-03-23 15:10:22",

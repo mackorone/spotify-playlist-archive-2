@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,381 songs - 9 day 17 hr 12 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,401 songs - 9 day 18 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4389,5 +4389,25 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4379 | [Perreo Sucio](https://open.spotify.com/track/1PiPXkHkzMZeuVAa6XFUSt) | [Dany Melki](https://open.spotify.com/artist/037AeZZVeAnTNITCescluf) | [Perreo Sucio](https://open.spotify.com/album/2AbmHbcHOHeJX0YUSmYjhd) | 2:28 |
 | 4380 | [And I Suffer](https://open.spotify.com/track/3QTQTBdspOT9ZLAutxwZ2Z) | [Highroad No\. 28](https://open.spotify.com/artist/2Rd79D7pa2uM72yzgHLaGQ) | [Stumbling To Divinity](https://open.spotify.com/album/1uzp6GmGDa2i7SPfM86z1A) | 4:37 |
 | 4381 | [ME CANSE DE INSISTIR](https://open.spotify.com/track/4WBzWs8FZRp5IQhPzDrKan) | [Lyrian D](https://open.spotify.com/artist/0qAWWEFFUvubUk2O481Dw0) | [ME CANSE DE INSISTIR](https://open.spotify.com/album/4ZetqQJP4lGO10wXdVh9qc) | 3:10 |
+| 4382 | [Tera Naam Le Ke](https://open.spotify.com/track/7pBhg5NmWtOBPDApUhLZhn) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Tera Naam Le Ke](https://open.spotify.com/album/4kAcdiaFhqUQ0h4DayLBdj) | 4:16 |
+| 4383 | [hello](https://open.spotify.com/track/5JUw6DpaNvb1BRf0q6XHJ5) | [sage archive](https://open.spotify.com/artist/01nW0iYcg0NGbfZYgbuvfh) | [Riotti](https://open.spotify.com/album/0QHCeUqW5y9MXDNFKNnRH9) | 1:40 |
+| 4384 | [Thank You, Stars](https://open.spotify.com/track/42N7EX8uc41OePTIlncCvO) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 4:36 |
+| 4385 | [Morning Grace](https://open.spotify.com/track/5vvwZbxgHbHr78J9LoJwQj) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 4:38 |
+| 4386 | [Amen to That \(Every Single Time\)](https://open.spotify.com/track/6uyZHdWMZCocDmadnIPnUE) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 4:19 |
+| 4387 | [Dance Like Nobody's Watchin' \(But God Is\)](https://open.spotify.com/track/2CBrxL5z3neh0EmyhQI1xh) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 4:00 |
+| 4388 | [Joyride](https://open.spotify.com/track/7tvPfjqHzCFuy9GDWZ6sF7) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 3:24 |
+| 4389 | [Cosmic Connection](https://open.spotify.com/track/0gdnO5z2rOwJleoFEpiCiv) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 5:39 |
+| 4390 | [Quietly Grateful \(Piano Ballad\)](https://open.spotify.com/track/1mG0fAko8dkopygHmCe9Sd) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 5:10 |
+| 4391 | [The Blessing of the Ordinary](https://open.spotify.com/track/79q6PAxsadDWuEENTTrBng) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 4:50 |
+| 4392 | [My GPS Knows the Way \(Even When I Don't\)](https://open.spotify.com/track/6TqlCE5TvteTNAPFoAMLDX) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 3:14 |
+| 4393 | [Front Porch Wisdom \(And a Cup of Tea\)](https://open.spotify.com/track/1jVR4lpiQPQz8ArITeH5Dy) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 4:54 |
+| 4394 | [Cosmic Connection \(rocky\)](https://open.spotify.com/track/6gEYhazwHEDUl9Uo7v75PY) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 5:09 |
+| 4395 | [Amen to That \(rocky Every Single Time\)](https://open.spotify.com/track/5PmRnUKQAiYyBwhdHcT6ia) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 3:22 |
+| 4396 | [Dance Like Nobody's Watchin' \(But God Is\) rocksoulfully](https://open.spotify.com/track/5BnGIwg58Ls9pa7RFFqXGO) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 4:14 |
+| 4397 | [Joyride rocksoulfully](https://open.spotify.com/track/3cdVmpkCkqcy1uIVO08qWD) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 4:07 |
+| 4398 | [Quietly Grateful \(Piano Ballad\) ana's loveone](https://open.spotify.com/track/79Jkv8rYadCAueiQjZCoTf) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 5:18 |
+| 4399 | [Good Morning Grace](https://open.spotify.com/track/7HPfzLhsxRuScQgOIVIYkY) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 3:51 |
+| 4400 | [The Blessing of the Ordinary love](https://open.spotify.com/track/2f6kRiGomo0eL2ezhBVV4R) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 5:07 |
+| 4401 | [Thank You God for the Stars](https://open.spotify.com/track/3IONN7D7JMLQEEBoFyWdT9) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 5:14 |
 
-Snapshot ID: `AAAIc5swSDmI+b6hNLnewkxcp+nxJgPJ`
+Snapshot ID: `AAAIdgunKQiSmyrLL9arM+lHEEJnAyni`

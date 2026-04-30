@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Paradox, Garvit\-Priyansh, Hansika Pareek and other exciting artists.
 
-1,426 songs - 3 day 6 hr 11 min
+1,427 songs - 3 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,6 +618,7 @@
 | [kaise bahaane](https://open.spotify.com/track/54UL5di3rk78fihnHdAlKt) | [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [kaise bahaane](https://open.spotify.com/album/2sxRG9J7vVO3TS23iy77uE) | 2:05 | 2025-10-03 | 2025-10-11 |
 | [Kaise Banu](https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Kaise Banu](https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF) | 2:54 | 2023-08-25 | 2023-10-07 |
 | [Kaise Ho Tum](https://open.spotify.com/track/3Uwok7aLLQyXhfqNlekSim) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Likhari](https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15) | [Kaise Ho Tum](https://open.spotify.com/album/6AnZMvLRQAA3WNH5OXC4ZJ) | 2:43 | 2025-06-13 | 2025-10-03 |
+| [Kaise Jaane Du](https://open.spotify.com/track/0ewiFESew5xDF9bHEI3mYQ) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Kaise Jaane Du](https://open.spotify.com/album/1waQSPrgavD9PrAx6HUFDV) | 2:36 | 2026-04-24 |  |
 | [Kaise Kahun](https://open.spotify.com/track/1DLjYfDBS2bwdpcUyb2sHq) | [Abhin Joshi](https://open.spotify.com/artist/3JpbtSxoGcENGrjtZPWbtq), [Abhi Solanki](https://open.spotify.com/artist/3tC0KUr3YwXIhJ2l6mJ8ob) | [Ek Kamre Ki Zindagi](https://open.spotify.com/album/6OEnEcgbGhOONF4urn8xPU) | 3:38 | 2025-05-30 | 2025-07-13 |
 | [Kaise Kahun](https://open.spotify.com/track/62G02vRbhqMZsqUGFPe5QQ) | [Keshav Anand](https://open.spotify.com/artist/7LkdtgIhOIz0JRoigs3O3K), [Shruti Shukla](https://open.spotify.com/artist/7mvIMEb1n9wNBSz26wgPXm) | [Kaise Kahun](https://open.spotify.com/album/1Ar46yVgvT11Melb0llLhz) | 3:43 | 2025-06-06 | 2025-06-14 |
 | [Kaise Kaise](https://open.spotify.com/track/7F1aZ5Nx8wR3sSamjEDVDD) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Kaise Kaise](https://open.spotify.com/album/5yyLJLEC2aWdqv9e7iAROe) | 2:52 | 2024-06-14 | 2024-10-12 |
@@ -1205,7 +1206,7 @@
 | [Sunny](https://open.spotify.com/track/02c8V8Gx8JTbWuktQ3EanF) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Shrey Gupta](https://open.spotify.com/artist/34yBDo2076Osgm0GmlnzF7), [Hashbass](https://open.spotify.com/artist/0SFvkCtMeB2DSxgIPX6lzO) | [Home Session](https://open.spotify.com/album/3VdOS1TsIJojJH8yKBgu39) | 2:20 | 2025-04-18 | 2025-05-03 |
 | [Suno](https://open.spotify.com/track/0G33qJceMH9qfcfLmKcrni) | [Rishi Kumar](https://open.spotify.com/artist/3F5SVEzUMD5JVZ0K9Q4XZW), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Anshul Mathur](https://open.spotify.com/artist/6DU9rNtAevlHMYBNnkI2LX) | [Suno](https://open.spotify.com/album/2OMcCcamzvnP3828mMgNWq) | 3:01 | 2023-07-14 | 2023-08-19 |
 | [Supposed To Be](https://open.spotify.com/track/796aAkkYSInz43RBF53i39) | [ISHAN](https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm), [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS) | [Supposed To Be](https://open.spotify.com/album/3ulhL2KKIBzSDBizHJmJiO) | 3:07 | 2024-12-06 | 2025-03-15 |
-| [Surmayi](https://open.spotify.com/track/6LHM3JiAOUPo82o4kXegVi) | [Nzr](https://open.spotify.com/artist/50JFweSXQIH4BPwU8LVb1i), [Samr8](https://open.spotify.com/artist/24cMAQnBCM7X2ZRskGKooV), [Aakash](https://open.spotify.com/artist/653sM1qZZJOZepwQQYDGF4) | [Surmayi](https://open.spotify.com/album/2wRxjzBUCLXucEjE7qUprO) | 2:56 | 2026-04-24 |  |
+| [Surmayi](https://open.spotify.com/track/6LHM3JiAOUPo82o4kXegVi) | [Nzr](https://open.spotify.com/artist/50JFweSXQIH4BPwU8LVb1i), [Samr8](https://open.spotify.com/artist/24cMAQnBCM7X2ZRskGKooV), [Aakash](https://open.spotify.com/artist/653sM1qZZJOZepwQQYDGF4) | [Surmayi](https://open.spotify.com/album/2wRxjzBUCLXucEjE7qUprO) | 2:56 | 2026-04-24 | 2026-04-30 |
 | [sushi song](https://open.spotify.com/track/5scUVb02Ea6aph7XAb2I7X) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [sushi song](https://open.spotify.com/album/1qByDrxTPVZoultbc0HNyp) | 2:34 | 2023-04-14 | 2023-06-17 |
 | [Taaley](https://open.spotify.com/track/60hLo4SHBK4X74nOl8p2M8) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Taaley](https://open.spotify.com/album/0psikiLw7Yr7cks3uImtEs) | 2:11 | 2024-10-18 | 2025-01-18 |
 | [Taareyan Toh Puch](https://open.spotify.com/track/6RkZeLJlIOGpjWwnMqQjJ3) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4) | [Taareyan Toh Puch](https://open.spotify.com/album/4u6e3vVbivKZ3VurCr3dZj) | 2:43 | 2024-03-29 | 2024-05-11 |

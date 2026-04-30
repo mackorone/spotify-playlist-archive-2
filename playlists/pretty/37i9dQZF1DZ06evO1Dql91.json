@@ -1,12 +1,12 @@
 {
   "description": "This is Infinity Song. The essential tracks, all in one playlist.",
-  "num_followers": 2526,
+  "num_followers": 2539,
   "original_name": "This Is Infinity Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae6nAAAAAADRmfhujJwxZNKowYw5dcLW",
+  "snapshot_id": "ae/4gAAAAADF1YYpRDgor5mnImr+1TQW",
   "tracks": [
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinity's Song",
-        "url": "https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI"
+        "name": "Hater's Anthem (Sped Up)",
+        "url": "https://open.spotify.com/album/7Jm3OI7cJLCCn22qe43lw9"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 234404,
-      "name": "His Eye Is On the Sparrow",
-      "url": "https://open.spotify.com/track/77ZMZHK7GSY19wbxxOHZ36"
+      "duration_ms": 155971,
+      "name": "Hater's Anthem - Sped Up",
+      "url": "https://open.spotify.com/track/7IfFgAh3A3mUBgbo6Lx2Rk"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hater's Anthem (Sped Up)",
-        "url": "https://open.spotify.com/album/7Jm3OI7cJLCCn22qe43lw9"
+        "name": "Infinity's Song",
+        "url": "https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 155971,
-      "name": "Hater's Anthem - Sped Up",
-      "url": "https://open.spotify.com/track/7IfFgAh3A3mUBgbo6Lx2Rk"
+      "duration_ms": 234404,
+      "name": "His Eye Is On the Sparrow",
+      "url": "https://open.spotify.com/track/77ZMZHK7GSY19wbxxOHZ36"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 269909,
-      "name": "Love Is Watching",
-      "url": "https://open.spotify.com/track/65xhNReVnrQevKNnC3xgbm"
+      "duration_ms": 245133,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/2fOE0me07CZIsqLwS8cdK5"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 245133,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/2fOE0me07CZIsqLwS8cdK5"
+      "duration_ms": 269909,
+      "name": "Love Is Watching",
+      "url": "https://open.spotify.com/track/65xhNReVnrQevKNnC3xgbm"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The hottest and recent Ghana party starters\. Cover: RCEE
 
-639 songs - 1 day 8 hr 43 min
+640 songs - 1 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Araba](https://open.spotify.com/track/3j2DRJtmWdcDjzipkdTzPa) | [Ibee Melody](https://open.spotify.com/artist/7d6hM6gmUmtaM0hFd7uJbM), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Araba](https://open.spotify.com/album/1IO0WOLyXlzd932Yju5EZL) | 2:43 | 2026-02-13 | 2026-03-06 |
 | [ARIBA](https://open.spotify.com/track/6JP5zXwPYK7Bd3gOv3d4NH) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [ARIBA](https://open.spotify.com/album/7pSHIub0eGuShEh9SsZAJO) | 3:46 | 2022-11-04 | 2023-01-28 |
 | [Asabone](https://open.spotify.com/track/0d5L2bTyEj8ARJTwqueDLS) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [Supa Gaeta](https://open.spotify.com/artist/7icmABGIHlSbuTXU206Obz), [Shaker](https://open.spotify.com/artist/5I1G1MSxXh3zrZsVZCPzZj) | [Asabone](https://open.spotify.com/album/6xiCRjzQXNwQDPJWGA0Ch8) | 2:11 | 2025-08-01 | 2025-08-09 |
+| [ASANA](https://open.spotify.com/track/3unkTgCb5VBehD5EBcNgB5) | [Mr Blayy](https://open.spotify.com/artist/2wmlFVbnzQl8344TDxdAiZ), [Fahim Dumba](https://open.spotify.com/artist/3rQMvcltVUru8FC92uY56R) | [ASANA](https://open.spotify.com/album/1IX1PCNExmr3K5ExB8faqK) | 1:29 | 2026-04-29 |  |
 | [Asantewaa](https://open.spotify.com/track/5EKoM6kwZ5LJdco2iVQ5OA) | [Epixode](https://open.spotify.com/artist/4W5GvdMaNMlr78lbnaW2P3) | [Asantewaa](https://open.spotify.com/album/05C09QwD1DOhF5K9NdTc7s) | 3:56 | 2023-11-24 | 2023-12-02 |
 | [Ase3](https://open.spotify.com/track/7jUk655LJ9EjvykHZdCoxl) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Ase3](https://open.spotify.com/album/166W3lpTGfcrfMFFvX57kG) | 3:00 | 2024-01-26 | 2025-04-12 |
 | [Aseda](https://open.spotify.com/track/6oNuASyQEzd7Z6VsF1hKNG) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Aseda](https://open.spotify.com/album/5uw6BvKCIK8nlIlQFOP5v9) | 3:00 | 2024-04-03 | 2025-10-24 |
@@ -463,7 +464,7 @@
 | [Playman](https://open.spotify.com/track/2X4gf2v1AMcHPDfYdxcTNX) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Playman](https://open.spotify.com/album/45CPYCWCa66IajSsnjdHur) | 3:04 | 2024-08-29 | 2025-09-26 |
 | [Plenty Evil](https://open.spotify.com/track/0QgGGSo6ygXcDKjk5s2aER) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [Plenty Evil](https://open.spotify.com/album/4LGC4uOB6sSUIirDU0w5GS) | 3:09 | 2023-09-21 | 2024-04-19 |
 | [PopStar](https://open.spotify.com/track/2LO82nA2HMBbwqs0KNUeMx) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [PopStar](https://open.spotify.com/album/7KZIeyxwBz47w5bWbAF7XL) | 2:36 | 2026-03-27 |  |
-| [Pose For Me](https://open.spotify.com/track/5XrBsLb4knRy2EsbJziAOB) | [Asomacy](https://open.spotify.com/artist/6qqOGbYKXBzVUf1tbK3zRX) | [Pose For Me](https://open.spotify.com/album/3PL581m8VyrJWTpHphJClj) | 2:30 | 2026-04-10 |  |
+| [Pose For Me](https://open.spotify.com/track/5XrBsLb4knRy2EsbJziAOB) | [Asomacy](https://open.spotify.com/artist/6qqOGbYKXBzVUf1tbK3zRX) | [Pose For Me](https://open.spotify.com/album/3PL581m8VyrJWTpHphJClj) | 2:30 | 2026-04-10 | 2026-04-30 |
 | [PRACTICE](https://open.spotify.com/track/0P1T4HQzeG598FX3UVFtxs) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [BillyDray](https://open.spotify.com/artist/059ZQRZt9SXMbrzJcyxM5k) | [PRACTICE](https://open.spotify.com/album/4X9lqbIDMJ2AQB9kF2rlYY) | 2:22 | 2023-12-01 | 2024-06-21 |
 | [Praise](https://open.spotify.com/track/6vuItm60bi4U9UOgvYanSp) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Praise](https://open.spotify.com/album/6Q59aB1v3sjwKWddsaLt9K) | 3:22 | 2022-11-04 | 2024-02-09 |
 | [Pressure](https://open.spotify.com/track/4R6CUDujx3BU6bzKksg191) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Pressure](https://open.spotify.com/album/3h5WutoKmXdjQ1SZqVtqPt) | 2:38 | 2022-11-25 | 2023-01-28 |

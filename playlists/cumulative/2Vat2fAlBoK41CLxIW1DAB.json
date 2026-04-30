@@ -4543,6 +4543,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9lier",
+        "url": "https://open.spotify.com/album/35eSA6VdPI7DpqMIj1Eej1"
+      },
+      "artists": [
+        {
+          "name": "enfant rouge",
+          "url": "https://open.spotify.com/artist/1WjiPjIL6QbBdk1GnhFqEe"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284306,
+      "name": "Eux",
+      "url": "https://open.spotify.com/track/6prUfw8XnnNVxCWGutQpFk"
+    },
+    {
+      "album": {
         "name": "Eventually",
         "url": "https://open.spotify.com/album/6KfI43tOFkCFywjp6G9UoK"
       },
@@ -6286,6 +6304,24 @@
       "duration_ms": 317738,
       "name": "Human Touch",
       "url": "https://open.spotify.com/track/6a8WOjBWaNkbnuCWjPHOOE"
+    },
+    {
+      "album": {
+        "name": "Hymn",
+        "url": "https://open.spotify.com/album/3sYDwzhZKYeqrz1sejuBN6"
+      },
+      "artists": [
+        {
+          "name": "Of House",
+          "url": "https://open.spotify.com/artist/00ZfMOYl0RhH41iOFfbl3u"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 494003,
+      "name": "Hymn",
+      "url": "https://open.spotify.com/track/0F7851FGHF79bzgJ65HpyC"
     },
     {
       "album": {
@@ -14182,6 +14218,24 @@
       "duration_ms": 210494,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/4LvxUGM0wBXq6gkD0CALK4"
+    },
+    {
+      "album": {
+        "name": "Surprise, Surprise",
+        "url": "https://open.spotify.com/album/048i5QNlRLzkftGQH6rCYk"
+      },
+      "artists": [
+        {
+          "name": "Friends With Boats",
+          "url": "https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184309,
+      "name": "Surprise, Surprise",
+      "url": "https://open.spotify.com/track/5gHlEgM8AilWq9xQfAp0Lo"
     },
     {
       "album": {

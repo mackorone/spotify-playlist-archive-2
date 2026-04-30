@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: kouth
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,143 likes - 74 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,135 likes - 74 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 73 | [Cara a Cara](https://open.spotify.com/track/1dKfl0GKorejyhX1FyapUI) | [Gald](https://open.spotify.com/artist/3008VhSYXXnYDv6hZ6E8w9), [L\. Abner](https://open.spotify.com/artist/79RdzpkbsduCXP2eeCQxXL), [Ckzin](https://open.spotify.com/artist/1SHMA4jxjtF97jFERazZ7A) | [Cara a Cara](https://open.spotify.com/album/08Ro8qxzIPK1V7kvTkTAuX) | 2:08 |
 | 74 | [Lavando Dinheiro 2](https://open.spotify.com/track/1e4Tuj7TG6L4AmsiEfybII) | [gabss](https://open.spotify.com/artist/50eJSWy0PG43JLWFkIXR4E), [Melt77](https://open.spotify.com/artist/4blEXHFmoAIonpnLwxSsxX) | [Lavando Dinheiro 2](https://open.spotify.com/album/6xFzn1QZRUK7j6l9MpoAf8) | 2:13 |
 
-Snapshot ID: `AAAAAJWz9Fng8OU461tNvq+i9JrmP9xP`
+Snapshot ID: `AAAAAOXDK0GyfnqL+E0WaIdV+7jSPuay`

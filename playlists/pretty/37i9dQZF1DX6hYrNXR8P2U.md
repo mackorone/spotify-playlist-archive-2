@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nos Relojean](https://open.spotify.com/track/1tbJP63ftEPVJKn8TFfB1u) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Soffia Philo](https://open.spotify.com/artist/5o1ARHZ2fhll5jILdQp84X), [Maxi Prieto](https://open.spotify.com/artist/7k4sBYY4ict7ilJdWo5DnW) | [Nos Relojean](https://open.spotify.com/album/7zDAxwrWDrPJsr2OX5GTge) | 3:05 |
+| 1 | [NOS RELOJEAN](https://open.spotify.com/track/1tbJP63ftEPVJKn8TFfB1u) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Soffia Philo](https://open.spotify.com/artist/5o1ARHZ2fhll5jILdQp84X), [Maxi Prieto](https://open.spotify.com/artist/7k4sBYY4ict7ilJdWo5DnW) | [NOS RELOJEAN](https://open.spotify.com/album/7zDAxwrWDrPJsr2OX5GTge) | 3:05 |
 | 2 | [FANTÁSTICA!](https://open.spotify.com/track/0WsjfsIfu6RbKYmcLikerR) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [TANYA EN EL CRUCERO](https://open.spotify.com/album/42MVsY9vouxT320bB7CwxW) | 3:31 |
 | 3 | [Infiel](https://open.spotify.com/track/4bReU9TJ826COOz6LPXJJe) | [143leti](https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr), [Roxxee](https://open.spotify.com/artist/7gnbAa5mL68nImWWYqHmDg) | [Infiel](https://open.spotify.com/album/10Lj8JISMjnoZOZ3T5zHbh) | 2:06 |
 | 4 | [PUMAS](https://open.spotify.com/track/5Iu46UfunYa0I5CFGAW59y) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [TURR4ZO](https://open.spotify.com/album/5nUfysd9pD76m2nxU0qHmU) | 3:28 |

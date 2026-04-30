@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 45 songs - 2 hr 57 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 46 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,5 +53,6 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 43 | [Love \- Acoustic](https://open.spotify.com/track/2FTY7R6ej2pDK6Zn3IIoLx) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Xellay Acoustic](https://open.spotify.com/album/1EvK4l0At1nk7POZjevTyX) | 3:31 |
 | 44 | [Second Chance](https://open.spotify.com/track/49D2hBnLk5rqQzPUEsS0zS) | [Ryandexbull](https://open.spotify.com/artist/6xcOyB1OapzUvFSR8d6R4M) | [Second Chance](https://open.spotify.com/album/74CnigfnvWZeyglwZYzMcO) | 3:03 |
 | 45 | [Everything Goes On](https://open.spotify.com/track/2rllct6mqneQYoMt66qsTp) | [asobou](https://open.spotify.com/artist/0pWmm42KlgcRUX2qOOBf32) | [Everything Goes On](https://open.spotify.com/album/5DqyUfB2BhWXWvrrio3Hn5) | 3:26 |
+| 46 | [Deeper](https://open.spotify.com/track/13qCoS5QuZEbWjfw7C9H5F) | [Mala Society](https://open.spotify.com/artist/4yOEkIaQ0rUqahInm6UNzj) | [iGen](https://open.spotify.com/album/2oThbbHnamtEqLnzo7ZwIP) | 2:20 |
 
-Snapshot ID: `AAAkMtystLmnlKvewKassw6rVra44PCL`
+Snapshot ID: `AAAkMzcaG4MVE+p+3TbjosTIeYBXqQz7`

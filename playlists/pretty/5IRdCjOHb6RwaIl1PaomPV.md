@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new cuts from Major Lazer, Thaiboy Digital, Safety Trance,  Glayden + more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,406 likes - 102 songs - 5 hr 23 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,404 likes - 102 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

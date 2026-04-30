@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > indie folk latino de estación\. Foto: Ine Güemes
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,852 likes - 95 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,860 likes - 95 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 14 | [Ana María](https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [TÁ](https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03) | 2:20 |
 | 15 | [Por el Bien de los Dos](https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 2:39 |
 | 16 | [Las Cosas Simples](https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Las Cosas Simples](https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz) | 4:07 |
-| 17 | [Ojos Viejos](https://open.spotify.com/track/331jpq4eMaLd5bw7oM2ZIm) | [Clara Ballestero](https://open.spotify.com/artist/3BpPBrcj89LCkZJykqXrRL), [David Bensimon](https://open.spotify.com/artist/618xJLHv3QguoWJighQJJH) | [Ojos Viejos](https://open.spotify.com/album/6m1fsCTrBhLDPCsWce3jCZ) | 4:57 |
-| 18 | [Es Broma, En Serio](https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Es Broma, En Serio](https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc) | 4:52 |
+| 17 | [Es Broma, En Serio](https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Es Broma, En Serio](https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc) | 4:52 |
+| 18 | [Ojos Viejos](https://open.spotify.com/track/331jpq4eMaLd5bw7oM2ZIm) | [Clara Ballestero](https://open.spotify.com/artist/3BpPBrcj89LCkZJykqXrRL), [David Bensimon](https://open.spotify.com/artist/618xJLHv3QguoWJighQJJH) | [Ojos Viejos](https://open.spotify.com/album/6m1fsCTrBhLDPCsWce3jCZ) | 4:57 |
 | 19 | [el film \- Versión Acústica](https://open.spotify.com/track/7wCAh65r75ZHqyCJL4ZgZn) | [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [Acústico](https://open.spotify.com/album/0eyeF19njYTKXXGLOmY4G5) | 2:49 |
 | 20 | [Si Sabes Regresar](https://open.spotify.com/track/2rliXcqi1OZ7xhaPUUeh1x) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Si Sabes Regresar](https://open.spotify.com/album/6bQRPUxBERpv9A0Yd461ZN) | 2:38 |
 | 21 | [Pétalo de sal](https://open.spotify.com/track/1caOzwrLNlGpB2EmHKFAZL) | [Dos Más Uno](https://open.spotify.com/artist/7MhvLP9XRGrcNo167nTZWh) | [Las canciones más lindas del mundo, Vol\. 2](https://open.spotify.com/album/3cwIE8jEoB626Z1Sj3J1Fm) | 2:55 |
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 25 | [Si bien fue poco](https://open.spotify.com/track/5UCnTmxuBMCZpIPtrHZS6v) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Si bien fue poco](https://open.spotify.com/album/4oHu1P0JdQ5ZWYqHQa4uEj) | 4:06 |
 | 26 | [Velocidad Crucero](https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Velocidad Crucero](https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1) | 3:52 |
 | 27 | [Vendría Bien](https://open.spotify.com/track/52D0EPonWx8Ziuj0rJWwNE) | [LAIA](https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Vendría Bien](https://open.spotify.com/album/4fdsVneCGTQvqaDD3bDRDt) | 3:21 |
-| 28 | [Track Track](https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [Track](https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL) | 3:24 |
-| 29 | [Reminiscencia](https://open.spotify.com/track/0bk8u1GOiuSJyIhvmzvQ10) | [Lu Ferreyra](https://open.spotify.com/artist/723edx2BuJb3sprVI7DDyO) | [Reminiscencia](https://open.spotify.com/album/2YYYKlbq15SgyHOzyTqLvu) | 3:40 |
-| 30 | [Último Ritual](https://open.spotify.com/track/6RbGBrDpyZNup77t5ekWDQ) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [Último Ritual](https://open.spotify.com/album/0jrUjBftHGzdyzqON203h3) | 3:27 |
-| 31 | [Como una Ola](https://open.spotify.com/track/3Vf1VfLg0RbY7pXF6s6tdL) | [Inbal Comedi](https://open.spotify.com/artist/3TXSj7UeT47TDTYwnr9RnV) | [Como una Ola](https://open.spotify.com/album/4nYNOMkB5h9IkZE2qOywHL) | 3:52 |
-| 32 | [el gil](https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7) | [Camarú](https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z) | [el gil](https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD) | 4:32 |
-| 33 | [Porque](https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [Quemarropa](https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9) | 3:00 |
-| 34 | [Música de Computadora](https://open.spotify.com/track/3URE4Okm8FmExP0AcyqrMI) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Paraíso Corazón](https://open.spotify.com/album/2fPlyQwOTDnwE0nnpxzWuZ) | 3:26 |
+| 28 | [Reminiscencia](https://open.spotify.com/track/0bk8u1GOiuSJyIhvmzvQ10) | [Lu Ferreyra](https://open.spotify.com/artist/723edx2BuJb3sprVI7DDyO) | [Reminiscencia](https://open.spotify.com/album/2YYYKlbq15SgyHOzyTqLvu) | 3:40 |
+| 29 | [Track Track](https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [Track](https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL) | 3:24 |
+| 30 | [el gil](https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7) | [Camarú](https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z) | [el gil](https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD) | 4:32 |
+| 31 | [Porque](https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [Quemarropa](https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9) | 3:00 |
+| 32 | [Música de Computadora](https://open.spotify.com/track/3URE4Okm8FmExP0AcyqrMI) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Paraíso Corazón](https://open.spotify.com/album/2fPlyQwOTDnwE0nnpxzWuZ) | 3:26 |
+| 33 | [Como una Ola](https://open.spotify.com/track/3Vf1VfLg0RbY7pXF6s6tdL) | [Inbal Comedi](https://open.spotify.com/artist/3TXSj7UeT47TDTYwnr9RnV) | [Como una Ola](https://open.spotify.com/album/4nYNOMkB5h9IkZE2qOywHL) | 3:52 |
+| 34 | [Último Ritual](https://open.spotify.com/track/6RbGBrDpyZNup77t5ekWDQ) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [Último Ritual](https://open.spotify.com/album/0jrUjBftHGzdyzqON203h3) | 3:27 |
 | 35 | [Suerte para mí](https://open.spotify.com/track/464idwypVzujFVCo6XdgeI) | [Roki Fernandez](https://open.spotify.com/artist/2MCfICN62faLf6aDJZhlx6), [Mailen Pankonin](https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5) | [Suerte para mí](https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX) | 3:03 |
 | 36 | [verte mejor](https://open.spotify.com/track/4NGoMoDYIe5133L7QQrbyu) | [Josearmen](https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf) | [verte mejor](https://open.spotify.com/album/5T29CRzNVmjgQWkvDJcJQx) | 2:26 |
 | 37 | [Vapor](https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Vapor](https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e) | 3:02 |

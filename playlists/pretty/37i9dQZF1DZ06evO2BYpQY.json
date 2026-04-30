@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 81138,
+  "num_followers": 81143,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae6nAAAAAAD9wJJcFIpKKQGMl6qMJDuf",
+  "snapshot_id": "ae/4gAAAAAAiqqUlVb8Jb8tSn6PXUN5P",
   "tracks": [
     {
       "added_at": null,
@@ -267,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Chieftains",
-        "url": "https://open.spotify.com/album/5Wmh21wtNNPzv7ZxB9Vi8G"
-      },
-      "artists": [
-        {
-          "name": "The Chieftains",
-          "url": "https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL"
-        },
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 320773,
-      "name": "The Foggy Dew (with Sin\u00e9ad O'Connor)",
-      "url": "https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Wall - Live In Berlin",
         "url": "https://open.spotify.com/album/5VH40XjW17Z2y8EuyOajYR"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 397000,
       "name": "Mother - Live In Berlin",
       "url": "https://open.spotify.com/track/1QW6ISVXmDO1sRWjx6xuMx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Chieftains",
+        "url": "https://open.spotify.com/album/5Wmh21wtNNPzv7ZxB9Vi8G"
+      },
+      "artists": [
+        {
+          "name": "The Chieftains",
+          "url": "https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL"
+        },
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 320773,
+      "name": "The Foggy Dew (with Sin\u00e9ad O'Connor)",
+      "url": "https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith and Courage",
-        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/2nC2C0GNE78vi2v3ZPeJWy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Conjure One",
         "url": "https://open.spotify.com/album/0oUVb36vRs7xH3M6Gu2OUB"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 351693,
       "name": "Empire",
       "url": "https://open.spotify.com/track/7rU9Lk1rF17EeQnr4clnm6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith and Courage",
+        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 255586,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/2nC2C0GNE78vi2v3ZPeJWy"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 266640,
-      "name": "Scorn Not His Simplicity",
-      "url": "https://open.spotify.com/track/3t9k5C5AO49ca0IqBWj26y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Across The Borderline",
         "url": "https://open.spotify.com/album/1muFplXWqYYvymuFr3AExp"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 418226,
       "name": "Don't Give Up (feat. Sin\u00e9ad O'Connor)",
       "url": "https://open.spotify.com/track/2mpoL077tfqBaEKZkPUOsM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 266640,
+      "name": "Scorn Not His Simplicity",
+      "url": "https://open.spotify.com/track/3t9k5C5AO49ca0IqBWj26y"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 332226,
-      "name": "John I Love You",
-      "url": "https://open.spotify.com/track/3eMc70GKuvKw1asbNv0paq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Captive Original Soundtrack",
         "url": "https://open.spotify.com/album/1QOrpKGCLYMPfXT2mTaEeT"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 267106,
       "name": "Heroine",
       "url": "https://open.spotify.com/track/4i0bvDu2J8KOOxTzPs5qpc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 332226,
+      "name": "John I Love You",
+      "url": "https://open.spotify.com/track/3eMc70GKuvKw1asbNv0paq"
     },
     {
       "added_at": null,

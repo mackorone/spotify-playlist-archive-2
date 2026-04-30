@@ -1331,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Healing Raga",
+        "url": "https://open.spotify.com/album/2qtKimdiG1gJKcGWmL1Wsp"
+      },
+      "artists": [
+        {
+          "name": "Cautious Voice",
+          "url": "https://open.spotify.com/artist/4hARNYdi1hdngkpAAGEWCG"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226690,
+      "name": "Healing Raga",
+      "url": "https://open.spotify.com/track/3U2CoFQ5CtrSRNZHDpNTtb"
+    },
+    {
+      "album": {
         "name": "Healing State (528 Hz)",
         "url": "https://open.spotify.com/album/0cOMbJ1RBe4rhgwFkxnnDt"
       },
@@ -3292,6 +3310,24 @@
       "duration_ms": 156000,
       "name": "States of Mind - Sacred Flute",
       "url": "https://open.spotify.com/track/3SBgkf5aFtRsE0JlwhRh46"
+    },
+    {
+      "album": {
+        "name": "Step to the Unknown",
+        "url": "https://open.spotify.com/album/1t219zNkQW2nHHNFtKpsdD"
+      },
+      "artists": [
+        {
+          "name": "Dumana",
+          "url": "https://open.spotify.com/artist/0iy3C2nhr2vwG93xt0VIDn"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141573,
+      "name": "Step to the Unknown",
+      "url": "https://open.spotify.com/track/4a5DhFfTk4yKRJIiXbWw5y"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae6nAAAAAACTGcMX1s263wNvBAFFy/sI",
+  "snapshot_id": "ae/4gAAAAADj1XT3lvrft30YPwUhWryq",
   "tracks": [
     {
       "added_at": null,
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 153783,
-      "name": "Fire / Earth",
-      "url": "https://open.spotify.com/track/7Kqi570gTIl6oxQQXpwzCd"
+      "duration_ms": 258000,
+      "name": "Air / Water",
+      "url": "https://open.spotify.com/track/0lYFtSLs42bCRf8tN7T7u8"
     },
     {
       "added_at": null,
@@ -192,74 +192,6 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 198620,
-      "name": "12:55 PM",
-      "url": "https://open.spotify.com/track/2q3F6iTCazDYB4tLqNWUIP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect Conditions",
-        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Air / Water",
-      "url": "https://open.spotify.com/track/0lYFtSLs42bCRf8tN7T7u8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unexpected Music II",
-        "url": "https://open.spotify.com/album/39OUhtfrInkdjDWezSaH1b"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        },
-        {
-          "name": "Evan Shornstein",
-          "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
-        }
-      ],
-      "duration_ms": 438000,
-      "name": "Dense Dusk",
-      "url": "https://open.spotify.com/track/2gwAB3X1wUtn3qPfP5hGeN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2nd Draft",
-        "url": "https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 31816,
-      "name": "First Sustain",
-      "url": "https://open.spotify.com/track/5QN78sb8FUoWJffvxiuOKE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Timekeeper",
-        "url": "https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
       "duration_ms": 97000,
       "name": "6:33 AM",
       "url": "https://open.spotify.com/track/0yeDAJ4yH08Y4Cf3SKPn8s"
@@ -296,9 +228,9 @@
           "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
         }
       ],
-      "duration_ms": 276266,
-      "name": "Shadow Spots",
-      "url": "https://open.spotify.com/track/79WiybZ6Ul4FaSBx1Q0sah"
+      "duration_ms": 438000,
+      "name": "Dense Dusk",
+      "url": "https://open.spotify.com/track/2gwAB3X1wUtn3qPfP5hGeN"
     },
     {
       "added_at": null,
@@ -328,9 +260,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 178250,
-      "name": "4:36 PM",
-      "url": "https://open.spotify.com/track/6BcXA332jXYmK0xC1SGk7E"
+      "duration_ms": 198620,
+      "name": "12:55 PM",
+      "url": "https://open.spotify.com/track/2q3F6iTCazDYB4tLqNWUIP"
     },
     {
       "added_at": null,
@@ -344,9 +276,77 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 209700,
-      "name": "Water / Earth",
-      "url": "https://open.spotify.com/track/1pnZHkdiCLlsIQ7Tb9KuUr"
+      "duration_ms": 153783,
+      "name": "Fire / Earth",
+      "url": "https://open.spotify.com/track/7Kqi570gTIl6oxQQXpwzCd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unexpected Music II",
+        "url": "https://open.spotify.com/album/39OUhtfrInkdjDWezSaH1b"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        },
+        {
+          "name": "Evan Shornstein",
+          "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
+        }
+      ],
+      "duration_ms": 276266,
+      "name": "Shadow Spots",
+      "url": "https://open.spotify.com/track/79WiybZ6Ul4FaSBx1Q0sah"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2nd Draft",
+        "url": "https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 31816,
+      "name": "First Sustain",
+      "url": "https://open.spotify.com/track/5QN78sb8FUoWJffvxiuOKE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Timekeeper",
+        "url": "https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 74000,
+      "name": "1:23 AM",
+      "url": "https://open.spotify.com/track/12hd2wt0VMJuurnKaCdALe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Conditions",
+        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 172421,
+      "name": "Water / Water",
+      "url": "https://open.spotify.com/track/3cZZ4DUMZ8VKuGxWPtgGH7"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 74000,
-      "name": "1:23 AM",
-      "url": "https://open.spotify.com/track/12hd2wt0VMJuurnKaCdALe"
+      "duration_ms": 178250,
+      "name": "4:36 PM",
+      "url": "https://open.spotify.com/track/6BcXA332jXYmK0xC1SGk7E"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 172421,
-      "name": "Water / Water",
-      "url": "https://open.spotify.com/track/3cZZ4DUMZ8VKuGxWPtgGH7"
+      "duration_ms": 182454,
+      "name": "Fire / Water",
+      "url": "https://open.spotify.com/track/6HlU5CCc6mav55VydY7ApD"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 114551,
-      "name": "Water / Fire",
-      "url": "https://open.spotify.com/track/0z1HLe2IOp8rGwfeQgkIKy"
+      "duration_ms": 155294,
+      "name": "Earth / Air",
+      "url": "https://open.spotify.com/track/7jKsMSQHza9Pt7FVf4RkcK"
     },
     {
       "added_at": null,

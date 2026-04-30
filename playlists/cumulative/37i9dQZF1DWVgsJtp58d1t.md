@@ -2,7 +2,7 @@
 
 ### [This Is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> The best in Black music! Cover: <a href="spotify:artist:3y2cIKLjiOlp1Np37WiUdH">Shaboozey</a>
+> The best in Black music! Now featuring our Frequency Zine cover star <a href="spotify:artist:3a1tBryiczPAZpgoZN9Rzg">Asake</a>
 
 5,971 songs - 12 day 14 hr 49 min
 

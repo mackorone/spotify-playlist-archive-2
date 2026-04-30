@@ -2,7 +2,7 @@
 
 ### [ Mollywood Gold ](https://open.spotify.com/playlist/37i9dQZF1DXaDDXaHNhJDD)
 
-> Finest collection of Malayalam Music from the past 10 years Cover : Aashaan
+> Finest collection of Malayalam Music from the past 10 years Cover : Pallichattambi
 
 218 songs - 14 hr 24 min
 

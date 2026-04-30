@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Le Makeup
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,140 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,165 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 3](https://open.spotify.com/track/3lFeBQyafTkN70nIv5KAaM) | [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc) | [The Crying Xpress](https://open.spotify.com/album/0GdSUTV7AnaWKQPWYTrqLN) | 0:00 |
+| 1 | [hold on](https://open.spotify.com/track/3lFeBQyafTkN70nIv5KAaM) | [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc) | [The Crying Xpress](https://open.spotify.com/album/0GdSUTV7AnaWKQPWYTrqLN) | 3:53 |
 | 2 | [Secret Dance Floor](https://open.spotify.com/track/50TNSYBQdfpUvZn5k7Lfvb) | [The Muddies](https://open.spotify.com/artist/2zFsxadjvDk8KJz1lgxwXS) | [Secret Dance Floor](https://open.spotify.com/album/5X0jVOZlNSzFstItoXLK8D) | 2:27 |
 | 3 | [Hanagasa Ondo](https://open.spotify.com/track/4X0RMkxgKiWmGYY1UrXLkS) | [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG), [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Hanagasa Ondo](https://open.spotify.com/album/63YP3W4F5lV4ecyBAK8jOn) | 4:24 |
 | 4 | [Boy](https://open.spotify.com/track/3eFUpyUIWFMSQ3RvUpxZXu) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [Boy](https://open.spotify.com/album/78wMwOnARAhRxBv7Q37XOl) | 3:06 |

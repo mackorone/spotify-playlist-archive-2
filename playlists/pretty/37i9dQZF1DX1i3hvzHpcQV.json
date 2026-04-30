@@ -1,12 +1,12 @@
 {
   "description": "Tune into the Hottest tracks of Kollywood!\nCover : Youth",
-  "num_followers": 1081686,
+  "num_followers": 1081868,
   "original_name": "Hot Hits Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO9cN6SvAYXbTKIYJpAj9GfoN2DV",
+  "snapshot_id": "AAAAAC3tb3kGCfZ3Z8ic/5ye1Uc1lz4/",
   "tracks": [
     {
       "added_at": "2026-02-18 16:03:52",
@@ -47,30 +47,6 @@
       "duration_ms": 129251,
       "name": "Aura 10/10 (From \"Meesaya Murukku 2\")",
       "url": "https://open.spotify.com/track/0xYYUicaDPp0VPyL0z7xzB"
-    },
-    {
-      "added_at": "2026-03-20 16:10:02",
-      "album": {
-        "name": "With Love (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4o1kT6L2yEINJ1OR2o4phN"
-      },
-      "artists": [
-        {
-          "name": "Sean Roldan",
-          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
-        },
-        {
-          "name": "Vijaynarain",
-          "url": "https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi"
-        },
-        {
-          "name": "Mohan Rajan",
-          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
-        }
-      ],
-      "duration_ms": 206065,
-      "name": "Aiyo Kadhaley",
-      "url": "https://open.spotify.com/track/6PgUh29KzuIcI5QhK452Mb"
     },
     {
       "added_at": "2026-03-17 06:06:13",
@@ -127,6 +103,30 @@
       "duration_ms": 194314,
       "name": "Adaavadi",
       "url": "https://open.spotify.com/track/1eebSj055Majk9EiQ8Jinn"
+    },
+    {
+      "added_at": "2026-04-29 07:05:50",
+      "album": {
+        "name": "God Mode (From \"Karuppu\")",
+        "url": "https://open.spotify.com/album/2otqmzy8iRSHbeE4atgUY9"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Gana Muthu",
+          "url": "https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx"
+        },
+        {
+          "name": "Vishnu Edavan",
+          "url": "https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T"
+        }
+      ],
+      "duration_ms": 240264,
+      "name": "God Mode - From \"Karuppu\"",
+      "url": "https://open.spotify.com/track/1KT8UcTXHJVOLuRFZmRxtA"
     },
     {
       "added_at": "2025-10-23 10:09:30",
@@ -213,6 +213,54 @@
       "url": "https://open.spotify.com/track/0pxE2MKJnBMR9c0giy7v5J"
     },
     {
+      "added_at": "2026-04-29 07:05:50",
+      "album": {
+        "name": "Verappa (From \"Karuppu\")",
+        "url": "https://open.spotify.com/album/6iVvpTmL1btiBTQVw9yf7b"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        },
+        {
+          "name": "Arun Srinivasan",
+          "url": "https://open.spotify.com/artist/6zk7r7UylV6GHjWmhCDw9K"
+        }
+      ],
+      "duration_ms": 100291,
+      "name": "Verappa - From \"Karuppu\"",
+      "url": "https://open.spotify.com/track/3watEGWsGyrEgd6GxkeGSI"
+    },
+    {
+      "added_at": "2026-03-20 16:10:02",
+      "album": {
+        "name": "With Love (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4o1kT6L2yEINJ1OR2o4phN"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Vijaynarain",
+          "url": "https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "duration_ms": 206065,
+      "name": "Aiyo Kadhaley",
+      "url": "https://open.spotify.com/track/6PgUh29KzuIcI5QhK452Mb"
+    },
+    {
       "added_at": "2026-04-28 06:55:17",
       "album": {
         "name": "Love Insurance Kompany (Original Motion Picture Soundtrack)",
@@ -259,6 +307,34 @@
       "duration_ms": 217627,
       "name": "Monica (From \"Coolie\") (Tamil)",
       "url": "https://open.spotify.com/track/2t1pEpxPz91KldW7C0FyZv"
+    },
+    {
+      "added_at": "2026-04-29 07:05:50",
+      "album": {
+        "name": "Naanga Naalu Peru (From \"Karuppu\")",
+        "url": "https://open.spotify.com/album/02t9ugo9AEOmp8uVpnpAOh"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Silambarasan TR",
+          "url": "https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS"
+        },
+        {
+          "name": "Asal Kolaar",
+          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
+        },
+        {
+          "name": "Arun Srinivasan",
+          "url": "https://open.spotify.com/artist/6zk7r7UylV6GHjWmhCDw9K"
+        }
+      ],
+      "duration_ms": 197086,
+      "name": "Naanga Naalu Peru - From \"Karuppu\"",
+      "url": "https://open.spotify.com/track/7CwyWNQk0qRzFhDj111SLi"
     },
     {
       "added_at": "2026-03-05 09:39:42",
@@ -1113,66 +1189,6 @@
       "url": "https://open.spotify.com/track/2g9aiiRu6dteue5VD4DoOF"
     },
     {
-      "added_at": "2024-08-20 07:30:07",
-      "album": {
-        "name": "Water Packet (From \"Raayan\")",
-        "url": "https://open.spotify.com/album/7JFHHTttxtJtGG9S2lAfob"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        },
-        {
-          "name": "Gana Kadhar",
-          "url": "https://open.spotify.com/artist/0T487EE91kx2O8oGPO8Krh"
-        }
-      ],
-      "duration_ms": 246002,
-      "name": "Water Packet (From \"Raayan\")",
-      "url": "https://open.spotify.com/track/1hHrBEkN0JIaeFPegy4Xak"
-    },
-    {
-      "added_at": "2024-09-09 05:32:13",
-      "album": {
-        "name": "The Greatest Of All Time",
-        "url": "https://open.spotify.com/album/7qziZGdxIycvh71Oqjkpqo"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Shenbagaraj",
-          "url": "https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI"
-        },
-        {
-          "name": "Velu",
-          "url": "https://open.spotify.com/artist/2RSkJy7tN23yEXfx1DkbI4"
-        },
-        {
-          "name": "Sam",
-          "url": "https://open.spotify.com/artist/5LTCGDYmszZxu2ybzDfb05"
-        },
-        {
-          "name": "Narayanan Ravishankar",
-          "url": "https://open.spotify.com/artist/2eJunkotmRUe8mLJmqW8HD"
-        }
-      ],
-      "duration_ms": 212090,
-      "name": "Matta",
-      "url": "https://open.spotify.com/track/2hBFfxMw0RtEI5KsCJ7knh"
-    },
-    {
       "added_at": "2024-12-20 12:52:38",
       "album": {
         "name": "Beer Song (From \"Diesel\")",
@@ -1195,30 +1211,6 @@
       "duration_ms": 196431,
       "name": "Beer Song - From \"Diesel\"",
       "url": "https://open.spotify.com/track/6uHuw5ynf6PFpJ2adWprxu"
-    },
-    {
-      "added_at": "2024-08-31 13:18:57",
-      "album": {
-        "name": "Thangalaan (Original Motion Picture Soundtrack) (Tamil)",
-        "url": "https://open.spotify.com/album/7BQyrySqccnKrr1dfxTW7R"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Sinduri Vishal",
-          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
-        },
-        {
-          "name": "Uma Devi",
-          "url": "https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Minikki Minikki",
-      "url": "https://open.spotify.com/track/48SUyK7lpQElCnhFjP3qPc"
     },
     {
       "added_at": "2024-12-18 09:36:44",

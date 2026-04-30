@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Men I Trust
 
-1,028 songs - 2 day 5 hr 16 min
+1,029 songs - 2 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 | 2021-10-08 |  |
 | [Amtrak](https://open.spotify.com/track/5F6ekGcdu623mkhTVgk64Z) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Looking Back](https://open.spotify.com/album/7dPHUYbBBUfMj6LDD2Ui7Z) | 2:56 | 2021-05-01 | 2022-12-15 |
 | [Amtrak](https://open.spotify.com/track/5qAfSmdzTbYQmFUQUN2scR) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Amtrak](https://open.spotify.com/album/55UJtm6GzBNM9wjR6twP5g) | 2:56 | 2021-05-01 | 2022-04-17 |
-| [angel like u](https://open.spotify.com/track/7c5nT959gFGPDnNRIUG0FO) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [angel like u](https://open.spotify.com/album/3AFpn9twmzqjSy1mfXSMmK) | 2:52 | 2024-11-15 |  |
+| [angel like u](https://open.spotify.com/track/7c5nT959gFGPDnNRIUG0FO) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [angel like u](https://open.spotify.com/album/3AFpn9twmzqjSy1mfXSMmK) | 2:52 | 2024-11-15 | 2026-04-30 |
 | [another day](https://open.spotify.com/track/3GiaKFUtnd9N6SMaP5wOK6) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [another day](https://open.spotify.com/album/5uzyKEN1OSVCSAk1xTRcym) | 2:09 | 2023-09-08 | 2024-10-19 |
 | [Another Life \(Feat\. Bryant Barnes\)](https://open.spotify.com/track/76vnbFYXLxoaJq6ee2Q5VM) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH), [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Another Life \(Feat\. Bryant Barnes\)](https://open.spotify.com/album/7hk8631rjWBCtXKvjl06sJ) | 2:49 | 2026-02-27 |  |
 | [Another Moment \(That Hurt Me More Than Any Moment\)](https://open.spotify.com/track/42AsCRWwmQ1jNFwc7umFkR) | [Billy Uomo](https://open.spotify.com/artist/5sy7urwVs9FG9U82yvwmkY) | [All Trash No Love](https://open.spotify.com/album/3n619cmyhuoWFVwhTmRmDf) | 3:49 | 2019-09-18 | 2021-05-23 |
@@ -682,6 +682,7 @@
 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 | 2022-12-14 |  |
 | [pending](https://open.spotify.com/track/7E0ujGThqMNLeZwSBNFikr) | [Palmertrees](https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho) | [pending](https://open.spotify.com/album/0kpMsYLAuFtRnZVgZOEB3z) | 2:41 | 2021-06-25 | 2022-04-21 |
 | [People Need People](https://open.spotify.com/track/1hya0KkB4N71gtH5pg1wtl) | [JOBA](https://open.spotify.com/artist/3vKT7DifMxpG9CWR7c8eC8) | [People Need People](https://open.spotify.com/album/7rgbbPHQj4XNYh22XBmit6) | 2:31 | 2024-08-30 | 2024-10-13 |
+| [Peppermint Halo](https://open.spotify.com/track/5ZWUrad3rXeK08HY8EN458) | [Chic Chameleon](https://open.spotify.com/artist/5lktVcGmBRNYbI7janrAeB) | [Peppermint Halo](https://open.spotify.com/album/4VDeMhjfg6RrXuu0Ht9pqX) | 3:38 | 2026-03-27 |  |
 | [Perks of Being a Sunflower](https://open.spotify.com/track/6CCgo4BGBNpsUFUm1PngK9) | [Soft Glas](https://open.spotify.com/artist/64YO6kjOrspjCGA2GQwsT0) | [Orange Earth](https://open.spotify.com/album/7baGumqw9hgkjYIrizNnK8) | 2:57 | 2019-07-31 | 2021-08-28 |
 | [Personal Branding](https://open.spotify.com/track/4TpM8w0OZgRBGoXRKp6XRh) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Personal Branding](https://open.spotify.com/album/7jeJz3WYBZiAxlGOKVdAGL) | 3:19 | 2021-06-25 | 2022-04-21 |
 | [Petrichor](https://open.spotify.com/track/3NtZN06GD0xEbjDO95qyL8) | [V!ctoria](https://open.spotify.com/artist/1TIGLYKA8kApefnVSPuhWS) | [Petrichor](https://open.spotify.com/album/3iAe4ODQa4WmFQLA9oDwP8) | 3:00 | 2021-06-25 | 2022-04-21 |

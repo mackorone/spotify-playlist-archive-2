@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Noah Kahan, Kehlani, Foo Fighters and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,468 likes - 104 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,445 likes - 104 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

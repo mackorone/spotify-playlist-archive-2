@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: TWS
 
-979 songs - 2 day 5 hr 19 min
+980 songs - 2 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Asymmetry](https://open.spotify.com/track/4sGEup106ElpyxtGf1E2xG) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [Asymmetry / Black Nightmare](https://open.spotify.com/album/4C3unjsV19S8ecEwys19hs) | 4:05 | 2025-09-09 | 2025-10-15 |
 | [ATAMI](https://open.spotify.com/track/3ajXAg7HBTYXylCWh9PSkT) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅱ](https://open.spotify.com/album/14nvfkvkYheGoYCbhLL5ZE) | 2:37 | 2025-09-21 | 2025-11-05 |
 | [Attention](https://open.spotify.com/track/7DFVius346ZQvS0pHP0Ikb) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [Attention](https://open.spotify.com/album/3cQpHAvc9rGSraAxsDPX8t) | 2:55 | 2025-05-06 | 2025-05-28 |
+| [AWAKE](https://open.spotify.com/track/0roHd2LRFRPs9QE6bf4Tzi) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [ReDeFINE](https://open.spotify.com/album/2yTbiWOgajiIzxxn04qPsL) | 2:36 | 2026-04-28 |  |
 | [Awakening Light](https://open.spotify.com/track/3jOrPlMZacOQY4KFaJJlSl) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [Awakening Light](https://open.spotify.com/album/3Kps4YJFy6c9njCQ9IMoU5) | 3:31 | 2023-11-23 | 2024-01-16 |
 | [B.A.D\(Breaking All Destinations\)](https://open.spotify.com/track/6EO38NaQkdWAKwa7YwH83e) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [JET BOY](https://open.spotify.com/album/2GRXjgMP9EFKteSdwahJvp) | 3:34 | 2025-02-04 | 2025-02-19 |
 | [B.B.Q.](https://open.spotify.com/track/5ljEkovVPVXW5ICW6ysRjm) | [杉本琢弥](https://open.spotify.com/artist/0cskwVqF25J07PVLTB2cuq) | [B.B.Q.](https://open.spotify.com/album/6ZBiNtsIBZHyxUM8BO6b3f) | 3:42 | 2024-04-16 | 2024-04-24 |

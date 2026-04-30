@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 783808,
+  "num_followers": 784074,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "The Xpander E.P.",
-        "url": "https://open.spotify.com/album/2xnwMwLUMQOquTnjLOuh6Q"
-      },
-      "artists": [
-        {
-          "name": "Sasha",
-          "url": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Xpander - Edit",
-      "url": "https://open.spotify.com/track/75653mwqn2ikumvrHuhEKf"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Diving Faces",
         "url": "https://open.spotify.com/album/5Axm2YhkSXmlxqiZcBSpyZ"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 220173,
       "name": "Diving Faces - Radio Cut",
       "url": "https://open.spotify.com/track/1TUUq8BSzn0zMc8OqXa7oU"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "The Xpander E.P.",
+        "url": "https://open.spotify.com/album/2xnwMwLUMQOquTnjLOuh6Q"
+      },
+      "artists": [
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Xpander - Edit",
+      "url": "https://open.spotify.com/track/75653mwqn2ikumvrHuhEKf"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -711,26 +711,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Carte Blanche (Ilan Bluestone Remix)",
-        "url": "https://open.spotify.com/album/295n2liNroUB9gpP6tsNAE"
-      },
-      "artists": [
-        {
-          "name": "Veracocha",
-          "url": "https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd"
-        },
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 204396,
-      "name": "Carte Blanche - FM Edit",
-      "url": "https://open.spotify.com/track/5yTN79Mgt4licL40oassM3"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/0ZtQgsteaWjFMPwGQm2B6c"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 209653,
       "name": "Satellite - Above & Beyond Mix (Edit)",
       "url": "https://open.spotify.com/track/29xhHp7I079jDveVcoShIk"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Carte Blanche (Ilan Bluestone Remix)",
+        "url": "https://open.spotify.com/album/295n2liNroUB9gpP6tsNAE"
+      },
+      "artists": [
+        {
+          "name": "Veracocha",
+          "url": "https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "duration_ms": 204396,
+      "name": "Carte Blanche - FM Edit",
+      "url": "https://open.spotify.com/track/5yTN79Mgt4licL40oassM3"
     },
     {
       "added_at": "2024-07-23 09:55:55",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Korn
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,832 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,898 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Reward the Scars](https://open.spotify.com/track/4oZFqhv200v5rOCPHfwIec) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Reward the Scars](https://open.spotify.com/album/3BXffIPyB5ihJw0Zu7uWYl) | 3:35 |
 | 2 | [All Souls Rising](https://open.spotify.com/track/4sNPIf8I1vk8f6zB0NwUAz) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [The Cloud Of Unknowing](https://open.spotify.com/album/0WFz9rFwPbjU8omow6P8yQ) | 3:35 |
-| 3 | [Sonic Salvation \(feat\. Jamie Hails\)](https://open.spotify.com/track/7au6WtRcJBcjaGPS2RIYmG) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Jamie Hails](https://open.spotify.com/artist/5SgewWRodwpwqqHETw16q2) | [Sonic Salvation \(feat\. Jamie Hails\)](https://open.spotify.com/album/7vzWA8SDKYVeHUplyL3Eht) | 4:13 |
+| 3 | [Sonic Salvation \(feat\. Jamie Hails\)](https://open.spotify.com/track/7au6WtRcJBcjaGPS2RIYmG) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Sonic Salvation \(feat\. Jamie Hails\)](https://open.spotify.com/album/7vzWA8SDKYVeHUplyL3Eht) | 4:13 |
 | 4 | [Forever/Always](https://open.spotify.com/track/1MoRo6wa0WcfjlOcutsnui) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Forever/Always](https://open.spotify.com/album/1mNFIIEOv5zRkhlBfSYqSt) | 3:42 |
 | 5 | [Kickboxer](https://open.spotify.com/track/08Q6bcPGaSSeBttJjToFJN) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [House of Cards](https://open.spotify.com/album/5V0ZWdLXKyHg9Ry1tRhVv5) | 2:46 |
 | 6 | [Everyone Dies Alone](https://open.spotify.com/track/4suU2hfS3Qt3ps8iO81WmE) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Everyone Dies Alone](https://open.spotify.com/album/2YUWCXdqFufUZYTrm9UHpj) | 4:35 |

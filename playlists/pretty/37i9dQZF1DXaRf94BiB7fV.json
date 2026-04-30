@@ -1,28 +1,72 @@
 {
-  "description": "The best new music by independent artists and labels in India. Cover - JBABE",
-  "num_followers": 61319,
+  "description": "The best new music by independent artists and labels in India. Cover - Yugm",
+  "num_followers": 61347,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANVHRGhXUNsxsZ0dRx71DVW1Rm1g",
+  "snapshot_id": "AAAAAMjZ7p69E4s7i2a378BCJK9eL7M6",
   "tracks": [
     {
-      "added_at": "2026-04-22 07:30:09",
+      "added_at": "2026-04-29 07:30:03",
       "album": {
-        "name": "Phantom Baby",
-        "url": "https://open.spotify.com/album/2TPVo4DPP8kA6yosp9lpIa"
+        "name": "Kinara",
+        "url": "https://open.spotify.com/album/3GyBkcTdhjU7khLnJ7HeVb"
       },
       "artists": [
         {
-          "name": "JBABE",
-          "url": "https://open.spotify.com/artist/3c31TRttHfPOdHHVfijaby"
+          "name": "Yugm",
+          "url": "https://open.spotify.com/artist/43uEANXUn0eOJrYKfjq2DL"
+        },
+        {
+          "name": "The Aahvaan Project",
+          "url": "https://open.spotify.com/artist/7JpzLv0XjhqSet8epgf7qF"
         }
       ],
-      "duration_ms": 212333,
-      "name": "Phantom Baby",
-      "url": "https://open.spotify.com/track/1CN05iiInwzi0XzNXB6WIZ"
+      "duration_ms": 405838,
+      "name": "Kinara",
+      "url": "https://open.spotify.com/track/7nMpGwEuY6hAPPCMBR157E"
+    },
+    {
+      "added_at": "2026-04-29 07:30:03",
+      "album": {
+        "name": "Neer Bharan",
+        "url": "https://open.spotify.com/album/4hYwar8PBO70C4eAbrACtw"
+      },
+      "artists": [
+        {
+          "name": "Tanmay Deochake",
+          "url": "https://open.spotify.com/artist/4ujl0vIPR8pYIPAHCPl7OR"
+        },
+        {
+          "name": "Radhika Bhide",
+          "url": "https://open.spotify.com/artist/4OMlEVryNzCNImKNGoZ22c"
+        }
+      ],
+      "duration_ms": 348000,
+      "name": "Neer Bharan",
+      "url": "https://open.spotify.com/track/6bfKZYgAaMgRLZYTxK0T9f"
+    },
+    {
+      "added_at": "2026-04-15 07:30:21",
+      "album": {
+        "name": "Khwabon Ka Sheher",
+        "url": "https://open.spotify.com/album/7f7nvIbOzA9mIsz7llqphg"
+      },
+      "artists": [
+        {
+          "name": "Tuhin Handique",
+          "url": "https://open.spotify.com/artist/6nySCJ1ZsWj9bq5b5l6J1E"
+        },
+        {
+          "name": "tav",
+          "url": "https://open.spotify.com/artist/0vBZXvMTqOaXp3oKnrpvoy"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "Khwabon Ka Sheher",
+      "url": "https://open.spotify.com/track/5ZTfCBOy7dWKgNLCVHjvRq"
     },
     {
       "added_at": "2026-04-22 07:30:09",
@@ -57,6 +101,22 @@
       "url": "https://open.spotify.com/track/1h6lqLrGAqjBekqf38n03m"
     },
     {
+      "added_at": "2026-04-22 07:30:09",
+      "album": {
+        "name": "Phantom Baby",
+        "url": "https://open.spotify.com/album/2TPVo4DPP8kA6yosp9lpIa"
+      },
+      "artists": [
+        {
+          "name": "JBABE",
+          "url": "https://open.spotify.com/artist/3c31TRttHfPOdHHVfijaby"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "Phantom Baby",
+      "url": "https://open.spotify.com/track/1CN05iiInwzi0XzNXB6WIZ"
+    },
+    {
       "added_at": "2026-04-15 07:30:21",
       "album": {
         "name": "Ambwa Talay",
@@ -77,44 +137,20 @@
       "url": "https://open.spotify.com/track/1CyLBIdvwHLXTrDm7PD8TY"
     },
     {
-      "added_at": "2026-04-15 07:30:21",
-      "album": {
-        "name": "Khwabon Ka Sheher",
-        "url": "https://open.spotify.com/album/7f7nvIbOzA9mIsz7llqphg"
-      },
-      "artists": [
-        {
-          "name": "Tuhin Handique",
-          "url": "https://open.spotify.com/artist/6nySCJ1ZsWj9bq5b5l6J1E"
-        },
-        {
-          "name": "tav",
-          "url": "https://open.spotify.com/artist/0vBZXvMTqOaXp3oKnrpvoy"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "Khwabon Ka Sheher",
-      "url": "https://open.spotify.com/track/5ZTfCBOy7dWKgNLCVHjvRq"
-    },
-    {
       "added_at": "2026-04-08 07:30:06",
       "album": {
-        "name": "Chauliye",
-        "url": "https://open.spotify.com/album/0z7UsLZXOBnlkMD00O3upi"
+        "name": "Jaaniya",
+        "url": "https://open.spotify.com/album/7HPZ2WrPdrkazDg80hgQ90"
       },
       "artists": [
         {
-          "name": "Anjali Bansal",
-          "url": "https://open.spotify.com/artist/5JgRavNRJv5cUetrSWb25t"
-        },
-        {
-          "name": "Aditya Bansal",
-          "url": "https://open.spotify.com/artist/2Jh2DwaTKsCM2ggWsQL2jK"
+          "name": "Deeksha Toor",
+          "url": "https://open.spotify.com/artist/1vtqfNWgqE0nTEGXHr8dph"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Chauliye",
-      "url": "https://open.spotify.com/track/15ApCH6ec35pzXzPUiPTUQ"
+      "duration_ms": 176575,
+      "name": "Jaaniya",
+      "url": "https://open.spotify.com/track/66Q5kgobCnwLd4i43fjWIW"
     },
     {
       "added_at": "2026-04-15 07:30:21",
@@ -135,18 +171,22 @@
     {
       "added_at": "2026-04-08 07:30:06",
       "album": {
-        "name": "Jaaniya",
-        "url": "https://open.spotify.com/album/7HPZ2WrPdrkazDg80hgQ90"
+        "name": "Chauliye",
+        "url": "https://open.spotify.com/album/0z7UsLZXOBnlkMD00O3upi"
       },
       "artists": [
         {
-          "name": "Deeksha Toor",
-          "url": "https://open.spotify.com/artist/1vtqfNWgqE0nTEGXHr8dph"
+          "name": "Anjali Bansal",
+          "url": "https://open.spotify.com/artist/5JgRavNRJv5cUetrSWb25t"
+        },
+        {
+          "name": "Aditya Bansal",
+          "url": "https://open.spotify.com/artist/2Jh2DwaTKsCM2ggWsQL2jK"
         }
       ],
-      "duration_ms": 176575,
-      "name": "Jaaniya",
-      "url": "https://open.spotify.com/track/66Q5kgobCnwLd4i43fjWIW"
+      "duration_ms": 172000,
+      "name": "Chauliye",
+      "url": "https://open.spotify.com/track/15ApCH6ec35pzXzPUiPTUQ"
     },
     {
       "added_at": "2026-04-08 07:30:06",
@@ -743,22 +783,6 @@
     {
       "added_at": "2026-04-08 07:30:06",
       "album": {
-        "name": "AAKHRI BAAR",
-        "url": "https://open.spotify.com/album/5Oeh2cwyWa7R790fn2apu4"
-      },
-      "artists": [
-        {
-          "name": "Ket Meth",
-          "url": "https://open.spotify.com/artist/63Tnzo5oOz0O2GrpOSfXdh"
-        }
-      ],
-      "duration_ms": 169961,
-      "name": "AAKHRI BAAR",
-      "url": "https://open.spotify.com/track/4PgMWF1Yj7hSLSlqQJJBug"
-    },
-    {
-      "added_at": "2026-04-08 07:30:06",
-      "album": {
         "name": "Kaagaz",
         "url": "https://open.spotify.com/album/3uouFVYNGxw8sxCmFdRHwA"
       },
@@ -787,22 +811,6 @@
       "duration_ms": 345789,
       "name": "Dastoor",
       "url": "https://open.spotify.com/track/6dL6CvrPOBjVEs0FVVe8MN"
-    },
-    {
-      "added_at": "2026-04-08 07:30:06",
-      "album": {
-        "name": "The Dhanan Project",
-        "url": "https://open.spotify.com/album/2KF5k5VS2tQLA3JxchinwP"
-      },
-      "artists": [
-        {
-          "name": "The Dhanan Project",
-          "url": "https://open.spotify.com/artist/6HgvMROWuDTF0PNYaicEGb"
-        }
-      ],
-      "duration_ms": 222821,
-      "name": "Dil Ki Baat",
-      "url": "https://open.spotify.com/track/79aYlXjo1tLou3oWO2Izas"
     },
     {
       "added_at": "2026-04-08 07:30:06",

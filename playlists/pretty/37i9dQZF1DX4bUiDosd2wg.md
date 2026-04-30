@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,333 likes - 215 songs - 15 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,344 likes - 215 songs - 15 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 52 | [인형의 꿈 Doll's Dream](https://open.spotify.com/track/3fZdbXanQjqwjU4kmaMvk5) | [Loveholic](https://open.spotify.com/artist/7gSVTyMFvcvwb6JUAJzLb2) | [Dramatic & Cinematic](https://open.spotify.com/album/0Me3zmq1ZnDqmdDBJL8P9b) | 4:40 |
 | 53 | [P.S\. I Love You](https://open.spotify.com/track/2lMPtp9AVY3LkKreXg38gm) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Piece](https://open.spotify.com/album/4za0GMxinuMP0B1B504Qyv) | 3:54 |
 | 54 | [내사랑 내곁에](https://open.spotify.com/track/7oG6pyDbYEY3U9dmdnJw3g) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [나는 가수다 \- 호주 특별 공연](https://open.spotify.com/album/6Y1cCI04Wnqp0LmiWQYVXB) | 4:38 |
-| 55 | [비와 당신](https://open.spotify.com/track/48GrSZUXWeeqidJWx2ukjW) | [Byun Jin Sub](https://open.spotify.com/artist/0dObhuOnglaQI9BjMhNtJm) | [나는 가수다 2 8월 B조 경연](https://open.spotify.com/album/6BLoTi6WzXaqeO2FvDGAbx) | 4:29 |
+| 55 | [비와 당신](https://open.spotify.com/track/48GrSZUXWeeqidJWx2ukjW) | [변진섭](https://open.spotify.com/artist/5Moz0OfOqFgmg4JpQNdyQm) | [나는 가수다 2 8월 B조 경연](https://open.spotify.com/album/6BLoTi6WzXaqeO2FvDGAbx) | 4:29 |
 | 56 | [중독된 사랑](https://open.spotify.com/track/5tfQhC0rCWYCQ4FmPFJuVm) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [나는 가수다 2 10월 A조 경연](https://open.spotify.com/album/6M0EJuFx2vJ06SO30jlZWK) | 4:31 |
 | 57 | [Break Away](https://open.spotify.com/track/5ATvoknDsccpChhBIuWb10) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [YG 10th Anniversary](https://open.spotify.com/album/4SqXG1zGw3SFaQGvpjPWRd) | 4:20 |
 | 58 | [그랬나봐](https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz) | [김형중](https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp) | [Kim Hyung Joong](https://open.spotify.com/album/2PqgCecKYA280VFveIfHCN) | 4:29 |
@@ -140,7 +140,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 130 | [가시](https://open.spotify.com/track/7BHijuU3OSoh4WnLfmZfU5) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Buzz Effect](https://open.spotify.com/album/3pax3J1b9jlG8GHdPQ8QU9) | 4:01 |
 | 131 | [Missing you](https://open.spotify.com/track/3hvWpX7wY89END0v5M0XJX) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Missing you](https://open.spotify.com/album/2EJYbNNYlVxB1fWOw9Aj4N) | 4:17 |
 | 132 | [Druken Truth](https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw) | [Exhibition](https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE) | [Exhibition 2](https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t) | 5:20 |
-| 133 | [서쪽하늘 \(여심도둑 괴도루팡\)](https://open.spotify.com/track/7A51xRwUHXZDuOx7O7MjIg) | [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4) | [Mask Singer 106th \(Live Version\)](https://open.spotify.com/album/5ve1qRKiahwjoK4kzwtiUv) | 4:31 |
+| 133 | [서쪽하늘 \(여심도둑 괴도루팡\)](https://open.spotify.com/track/7A51xRwUHXZDuOx7O7MjIg) | [Lee Hong Gi](https://open.spotify.com/artist/5qozfapWbbyt0JJEVwiwLz) | [Mask Singer 106th \(Live Version\)](https://open.spotify.com/album/5ve1qRKiahwjoK4kzwtiUv) | 4:31 |
 | 134 | [천년의 사랑](https://open.spotify.com/track/36HpeuZMRWKAyVaRO8mePe) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB) | [천년지애 \(天年之愛\)](https://open.spotify.com/album/3tP5zqC8xHT6R748b2hhYV) | 4:25 |
 | 135 | [가질 수 없는 너 \(화생방실 클레오파트라\) \- Bonus Track Version](https://open.spotify.com/track/3dWa7UqLOWwew2zuPmdXoe) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Mask Singer 14th \(Live Version\)](https://open.spotify.com/album/0rJFjRJkxSp4SBlldulQnp) | 3:56 |
 | 136 | [Jasmine \- Live](https://open.spotify.com/track/3UnALAO5wJmtjyROBGScOX) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [Lee Seung Chul: The Best Live \(World Tour\)](https://open.spotify.com/album/71QDFQa50alfsb3iGWOtjM) | 4:32 |

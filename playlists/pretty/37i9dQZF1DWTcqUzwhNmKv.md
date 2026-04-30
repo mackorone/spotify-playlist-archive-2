@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > The Amity Affliction are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,643,623 likes - 80 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,643,698 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 10 | [In Your Name](https://open.spotify.com/track/5MC8y7w5E0DUEqii0sP4Fm) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [In Your Name](https://open.spotify.com/album/5z3UBg2HZS5tqNyzRZ7wAD) | 4:42 |
 | 11 | [Drag Me](https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Drag Me](https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj) | 3:06 |
 | 12 | [split](https://open.spotify.com/track/5Sl5nxwOOREn5pBoZyPomu) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [split](https://open.spotify.com/album/2qpK5gD7V8q1GPtfSWWM8m) | 2:11 |
-| 13 | [Sonic Salvation \(feat\. Jamie Hails\)](https://open.spotify.com/track/7au6WtRcJBcjaGPS2RIYmG) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Jamie Hails](https://open.spotify.com/artist/5SgewWRodwpwqqHETw16q2) | [Sonic Salvation \(feat\. Jamie Hails\)](https://open.spotify.com/album/7vzWA8SDKYVeHUplyL3Eht) | 4:13 |
+| 13 | [Sonic Salvation \(feat\. Jamie Hails\)](https://open.spotify.com/track/7au6WtRcJBcjaGPS2RIYmG) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Sonic Salvation \(feat\. Jamie Hails\)](https://open.spotify.com/album/7vzWA8SDKYVeHUplyL3Eht) | 4:13 |
 | 14 | [Everyone Dies Alone](https://open.spotify.com/track/4suU2hfS3Qt3ps8iO81WmE) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Everyone Dies Alone](https://open.spotify.com/album/2YUWCXdqFufUZYTrm9UHpj) | 4:35 |
 | 15 | [Hive Mind \(feat\. Denzel Curry\)](https://open.spotify.com/track/4jfzIzQiUabe8PDNo0O66j) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Hive Mind \(feat\. Denzel Curry\)](https://open.spotify.com/album/6eNCE2Inl49H7U8L0YaaRg) | 3:26 |
 | 16 | [Killshot](https://open.spotify.com/track/3F8Bjx90CZMEWADfHSImPN) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Killshot](https://open.spotify.com/album/6RLzKueY42p7BlSIRgOpVC) | 2:32 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 201695,
+  "num_followers": 201732,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae6nAAAAAADR6SoRMBLTFo7BK7ENG/Xq",
+  "snapshot_id": "ae/4gAAAAADe6ARbGzvvmUUmZIf4HaVs",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Coraz\u00f3n Necio",
-        "url": "https://open.spotify.com/album/241zeaTWbZCSlFEXWFeLp8"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "Coraz\u00f3n Necio",
-      "url": "https://open.spotify.com/track/5LGssqcE15JZMRlDtvMGPG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor De Unas Horas",
         "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 174480,
       "name": "Y Como Es El",
       "url": "https://open.spotify.com/track/1pQPpSRZ0cUYX0tsZNSBwz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Coraz\u00f3n Necio",
+        "url": "https://open.spotify.com/album/241zeaTWbZCSlFEXWFeLp8"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Coraz\u00f3n Necio",
+      "url": "https://open.spotify.com/track/5LGssqcE15JZMRlDtvMGPG"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Las Damas",
-        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
+        "name": "Con Canciones Y Tequila",
+        "url": "https://open.spotify.com/album/4ZpXhH9DPhBw0KR7Mv2fYi"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 186306,
-      "name": "Y Es Que Te Quiero De Tal Forma",
-      "url": "https://open.spotify.com/track/6gvXjXn0bnrVFG1JJcrohG"
+      "duration_ms": 179786,
+      "name": "No Te Imaginas",
+      "url": "https://open.spotify.com/track/2UP8Fg5RsgmsJeF00SXJtB"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Las Damas",
+        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "Y Es Que Te Quiero De Tal Forma",
+      "url": "https://open.spotify.com/track/6gvXjXn0bnrVFG1JJcrohG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Historia Contin\u00faa",
         "url": "https://open.spotify.com/album/1y96jqrtZbBZsmuNe1Nfvv"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 191000,
       "name": "Sorpr\u00e9ndeme",
       "url": "https://open.spotify.com/track/4V8B14tV0m8VDRrmJzKoWy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Canciones Y Tequila",
-        "url": "https://open.spotify.com/album/4ZpXhH9DPhBw0KR7Mv2fYi"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 179786,
-      "name": "No Te Imaginas",
-      "url": "https://open.spotify.com/track/2UP8Fg5RsgmsJeF00SXJtB"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Muchas Ganas",
-        "url": "https://open.spotify.com/album/2MOExkDSqVzW1ahSYTBU3V"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 180546,
-      "name": "No Puedo Mas",
-      "url": "https://open.spotify.com/track/0g9Rjljak6cAUeR0he3oo9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde el Sur Hasta el Norte",
         "url": "https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 211080,
       "name": "M\u00eda",
       "url": "https://open.spotify.com/track/78y0q35fwtH6nLW7X7gxqS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Muchas Ganas",
+        "url": "https://open.spotify.com/album/2MOExkDSqVzW1ahSYTBU3V"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 180546,
+      "name": "No Puedo Mas",
+      "url": "https://open.spotify.com/track/0g9Rjljak6cAUeR0he3oo9"
     },
     {
       "added_at": null,

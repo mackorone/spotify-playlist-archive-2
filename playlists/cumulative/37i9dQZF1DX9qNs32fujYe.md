@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Sepultura
 
-1,206 songs - 3 day 15 hr 41 min
+1,207 songs - 3 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [Highway Star \- Remastered 2012](https://open.spotify.com/track/3uMmllZo1AfoEnVT4ENCD3) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 6:06 | 2024-04-05 |  |
 | [Hin helga kvöl](https://open.spotify.com/track/4Al63sF8CtNkAegXTLcwKM) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Hin helga kvöl](https://open.spotify.com/album/5X0eZLojAXvGHXpFZEzLRo) | 5:42 | 2024-07-12 | 2024-11-05 |
 | [Hip To Be Scared \[Feat\. Jacoby Shaddix\]](https://open.spotify.com/track/1tBghD5Z8rBeN7eHDXLamy) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [Welcome To Horrorwood: The Silver Scream 2](https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx) | 3:23 | 2022-07-13 | 2023-12-07 |
+| [Hit a Moonshot](https://open.spotify.com/track/7hz68eote8mT2y9F1poEDX) | [Armored Saint](https://open.spotify.com/artist/4ug41UGuMZzlV2hJOrOqHN) | [Hit a Moonshot](https://open.spotify.com/album/4srarjGvNTtPGNoKEyiuJ8) | 4:34 | 2026-04-27 |  |
 | [Hivemind \(feat\. Mental Cruelty\)](https://open.spotify.com/track/68m6nXeQLEUYDdlvikMdHU) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC), [Mental Cruelty](https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9) | [Hivemind \(feat\. Mental Cruelty\)](https://open.spotify.com/album/340YpLo1eaYz1Gxbd6LTjU) | 6:24 | 2024-01-26 | 2024-08-24 |
 | [Holy Diver](https://open.spotify.com/track/54yLLvpezvPO1lA3GspiZj) | [Dio](https://open.spotify.com/artist/3UyoMrj8FAQDE8DrNbTju6) | [Holy Diver](https://open.spotify.com/album/1QJmLRcuIMMjZ49elafR3K) | 5:40 | 2024-04-05 |  |
 | [Holy Diver](https://open.spotify.com/track/57fqmDaokbxZ3TaB0jp39q) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Holy Diver](https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3) | 5:53 | 2022-08-19 | 2024-04-19 |
@@ -714,7 +715,7 @@
 | [Obsolete](https://open.spotify.com/track/0FCY8j3JRrZ2ynRUdMK9pS) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd) | 4:25 | 2022-12-16 |  |
 | [Obsolete](https://open.spotify.com/track/4d8iN5Re3A6UOYVxZAbJ7v) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Obsolete](https://open.spotify.com/album/2hiPqMWbwko9fxKd1JWUI1) | 4:25 | 2022-07-13 | 2022-12-17 |
 | [ObZen \- 15th Anniversary 2023 Remastered Edition](https://open.spotify.com/track/793kfIPUvMqqbpuG3xPxiH) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [ObZen \(15th Anniversary Remastered Edition\)](https://open.spotify.com/album/7FEtkDhMVgM7vD1rIrixB5) | 4:24 | 2023-03-10 | 2023-05-06 |
-| [OCEANS OF BLOOD](https://open.spotify.com/track/2ucTGJowY17QrbxiLhPcRl) | [Pro\-Pain](https://open.spotify.com/artist/56F64pmwSSCcmS1CxAnPk8) | [OCEANS OF BLOOD](https://open.spotify.com/album/2sKbBiW9vMdMCJa0wWmW8a) | 3:37 | 2026-02-27 |  |
+| [OCEANS OF BLOOD](https://open.spotify.com/track/2ucTGJowY17QrbxiLhPcRl) | [Pro\-Pain](https://open.spotify.com/artist/56F64pmwSSCcmS1CxAnPk8) | [OCEANS OF BLOOD](https://open.spotify.com/album/2sKbBiW9vMdMCJa0wWmW8a) | 3:37 | 2026-02-27 | 2026-04-30 |
 | [Odin's Sons \(feat\. The Queen of the Damned\)](https://open.spotify.com/track/4oTHNttJRsIC6pr205Ld8Y) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E), [The Queen Of The Damned](https://open.spotify.com/artist/6tetPxHdTuzbSwzaluKVMI) | [Odin's Sons \(feat\. The Queen of the Damned\)](https://open.spotify.com/album/4fRKJfYPKCNKk7wfhVxTYi) | 4:29 | 2021-12-17 | 2022-07-27 |
 | [Of Course I Still Love You](https://open.spotify.com/track/6R0CR57ZXuavpJ0DsOT8Nu) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [How's The Heart?](https://open.spotify.com/album/2jpIYGOmQAMdH3jmT4x7bJ) | 3:58 | 2023-10-27 | 2024-05-07 |
 | [Offering to the Void](https://open.spotify.com/track/645e2PzMglhBceqVpQOSoI) | [Lords of the Trident](https://open.spotify.com/artist/1C11hnl3RZ7hadyMv5g5gm) | [The Offering](https://open.spotify.com/album/5ua43Gmyv5TaewII4LnmGZ) | 4:32 | 2022-04-01 | 2022-04-28 |
@@ -918,7 +919,7 @@
 | [Song 3](https://open.spotify.com/track/7eDUTBIo76AMC5UYqkkzDL) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Song 3](https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias) | 3:34 | 2025-05-30 | 2025-08-23 |
 | [SONG OF THE SWAMP](https://open.spotify.com/track/3nImaje8npYkUGZG4AQlc4) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [SONG OF THE SWAMP](https://open.spotify.com/album/7jx0RyYXimNfJDm7ohjIUN) | 3:18 | 2026-02-27 |  |
 | [Song to Say Goodbye](https://open.spotify.com/track/1x9jqnd7tU7qRS2Uwt5PIx) | [Harakiri for the Sky](https://open.spotify.com/artist/58KBq6qkQnfWYRqCjffQQq) | [Mære](https://open.spotify.com/album/4c32wkJFuLUKHueu8YlldK) | 5:24 | 2022-07-13 |  |
-| [Sonic Salvation \(feat\. Jamie Hails\)](https://open.spotify.com/track/7au6WtRcJBcjaGPS2RIYmG) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Jamie Hails](https://open.spotify.com/artist/5SgewWRodwpwqqHETw16q2) | [Sonic Salvation \(feat\. Jamie Hails\)](https://open.spotify.com/album/7vzWA8SDKYVeHUplyL3Eht) | 4:13 | 2026-04-24 |  |
+| [Sonic Salvation \(feat\. Jamie Hails\)](https://open.spotify.com/track/7au6WtRcJBcjaGPS2RIYmG) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Sonic Salvation \(feat\. Jamie Hails\)](https://open.spotify.com/album/7vzWA8SDKYVeHUplyL3Eht) | 4:13 | 2026-04-24 |  |
 | [Sorcerer's Fate](https://open.spotify.com/track/3dg5pL4eoNNzuWMYrSYcK1) | [Spirit Adrift](https://open.spotify.com/artist/5sW5eR9g4kNibasfrlw4EN) | [Sorcerer's Fate](https://open.spotify.com/album/5aucqaGKQlvoLPkJRQuPj5) | 5:33 | 2022-06-10 | 2022-06-29 |
 | [Soul Eater](https://open.spotify.com/track/2OjXaTHll2lwCNJhHXgaWv) | [Burning Witches](https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8) | [Soul Eater](https://open.spotify.com/album/3pGNq1bngRYUReMVFs8bv9) | 4:06 | 2025-08-22 | 2025-09-27 |
 | [Souleater](https://open.spotify.com/track/7KWCzqPg2WrritNTlYuQ4t) | [Iron Savior](https://open.spotify.com/artist/6COmyouHXwCeIGS1IFd1PA) | [Souleater](https://open.spotify.com/album/0odSFBZLUN9TLasYMArCU6) | 4:56 | 2021-12-17 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-2,886 songs - 6 day 4 hr 18 min
+2,887 songs - 6 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1000,6 +1000,7 @@
 | [Hakayet](https://open.spotify.com/track/3PyRt7gpih7EPvV0fMWEom) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/2p3ns7RThAsCEkBf6Py5cO) | 2:38 | 2024-06-14 | 2024-07-17 |
 | [Hala Madrid \- 2025 Edition](https://open.spotify.com/track/2CWotPY8sl5ASLKJ5SqgcE) | [BAD NOVA](https://open.spotify.com/artist/2gFUXTtTNFzZ6f5cYwijXp) | [Hala Madrid \(2025 Edition\)](https://open.spotify.com/album/6FZSmGG9sv5BA4lcJG2YjZ) | 4:00 | 2024-11-25 | 2024-12-04 |
 | [Hala Madrid ...y nada más](https://open.spotify.com/track/5pIy4qzGJmEElPppFxSN8W) | [Real Madrid](https://open.spotify.com/artist/52tiVHeB0x2XvFAyajG1BZ), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Hala Madrid ...y nada más](https://open.spotify.com/album/1yk9VTzQ0NWy1kDIOsxaLw) | 2:57 | 2024-06-03 | 2024-06-10 |
+| [halal cash](https://open.spotify.com/track/7ehyb6QFYJl4LiRsl68rAo) | [Willylancien](https://open.spotify.com/artist/3gzMRa6kszVHxXUiTpHFWb) | [demain c'est vide](https://open.spotify.com/album/2Xplm0aq0Z7CfW41rQZ62H) | 2:12 | 2026-04-29 |  |
 | [Half of forever](https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Half of forever](https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc) | 2:33 | 2024-02-05 | 2024-02-07 |
 | [Halloween](https://open.spotify.com/track/5VHW9u2VoMjKmNlX0L6RFC) | [M\-Kids](https://open.spotify.com/artist/4mNwryO7qTpiXHyoxTfAup) | [Cool](https://open.spotify.com/album/692MsllJlwgLsGtx3Hus7v) | 3:12 | 2024-11-01 | 2025-11-09 |
 | [Halloween Horror Scary Sounds – Haunted House](https://open.spotify.com/track/30hGmXdLCEB41qFJ2khEkv) | [Ultimate Horror Sounds](https://open.spotify.com/artist/3w0FUCvc48JK1flIET73sd) | [Halloween Horror \- Scary Sounds and Music](https://open.spotify.com/album/6sDiBgRUyHHIbjZNiAQZmi) | 6:00 | 2025-11-01 | 2025-11-08 |
@@ -1733,7 +1734,7 @@
 | [Movmënt](https://open.spotify.com/track/6MerLCpygAMCXiEJuVlbVn) | [MANARËM](https://open.spotify.com/artist/5BQdp2NlYGiwVgnCJB3gyX) | [Movmënt](https://open.spotify.com/album/1Ml6zZ95fV2AzO263UgpnG) | 4:19 | 2025-06-09 | 2025-06-11 |
 | [Moët Dat Nou](https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE) | [Moët Dat Nou](https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze) | 2:34 | 2026-01-27 | 2026-02-04 |
 | [Mr\. Crowley](https://open.spotify.com/track/2ov8L95QD25TLpZAZPYWXL) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 5:02 | 2025-07-24 | 2025-08-01 |
-| [Mr\. Know It All](https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1) | 3:18 | 2026-04-28 |  |
+| [Mr\. Know It All](https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1) | 3:18 | 2026-04-28 | 2026-04-30 |
 | [Ms\. Whitman](https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e) | [Ms\. Whitman](https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw) | 2:06 | 2025-03-11 | 2025-03-29 |
 | [MTG \- RITMO ZELDA \- Super Slowed](https://open.spotify.com/track/5XwNsUvJxk38263zeXrfXI) | [JXM](https://open.spotify.com/artist/2nGwC9QG6Hpw4fSDgNpn5n), [Polaris](https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs) | [MTG \- RITMO ZELDA](https://open.spotify.com/album/62R2H85ZiKLp0lYHPprQWV) | 1:47 | 2025-03-13 | 2025-03-19 |
 | [MTG DA SIA \- ANGEL BY THE WINGS](https://open.spotify.com/track/0K5Wbzan94w91ImAKQcjsw) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [MC Matheuzim](https://open.spotify.com/artist/1oXymTbsxIYd9cP8u9yfGo) | [MTG DA SIA \- ANGEL BY THE WINGS](https://open.spotify.com/album/7KYLDnvpL3yGcLLxRYgFfu) | 2:03 | 2024-11-02 | 2024-12-04 |

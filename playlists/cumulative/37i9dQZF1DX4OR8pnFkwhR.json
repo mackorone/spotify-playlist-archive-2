@@ -27128,6 +27128,24 @@
     {
       "album": {
         "name": "\u3082\u3046\u3044\u3089\u306a\u3044",
+        "url": "https://open.spotify.com/album/206ZAfWibaoGfkQ6sJwoSa"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185364,
+      "name": "\u3082\u3046\u3044\u3089\u306a\u3044",
+      "url": "https://open.spotify.com/track/6OCA8XsHPechSuoniPVw2R"
+    },
+    {
+      "album": {
+        "name": "\u3082\u3046\u3044\u3089\u306a\u3044",
         "url": "https://open.spotify.com/album/7xZFgZa8BvTmMddFmXNu9K"
       },
       "artists": [

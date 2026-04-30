@@ -4,7 +4,7 @@
 
 > Raise a voice and testify the goodness of God\.  Cover: Sinach
 
-550 songs - 1 day 19 hr 37 min
+551 songs - 1 day 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [Nothing](https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Nothing](https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h) | 3:36 | 2023-06-02 | 2023-09-15 |
 | [Now I See](https://open.spotify.com/track/0G0KrOjEhoBrcOCvFSCpn0) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao), [Mr\. DDavid](https://open.spotify.com/artist/7KIz93vDXB1hM19nB5vEvC) | [Now I See](https://open.spotify.com/album/5c3xz82NykD7mtk1lIVvu9) | 3:11 | 2023-05-26 | 2023-06-23 |
 | [Nwachinemelu](https://open.spotify.com/track/4TKB7cAwgWwkVQ3KJxl7s8) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Nwachinemelu](https://open.spotify.com/album/2JKnfrfl4fuSOybUMxjjYL) | 3:06 | 2025-04-25 | 2025-05-16 |
-| [Obinasom](https://open.spotify.com/track/0zffPG1MN1yCiWkJBM4zjC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 5:00 | 2023-04-07 |  |
+| [Obinasom](https://open.spotify.com/track/0zffPG1MN1yCiWkJBM4zjC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 5:00 | 2023-04-07 | 2026-04-30 |
 | [Odimafo \(Defender\)](https://open.spotify.com/track/3tpJBR2KkjeXIJ3I8Bs35P) | [Morris Singz](https://open.spotify.com/artist/3X3TVlZ7n0RSp3eVaM9nnP), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Odimafo \(Defender\)](https://open.spotify.com/album/1IlSu6Awaq4xaZOYNN7i2L) | 2:35 | 2026-01-30 | 2026-04-03 |
 | [Oghene Do](https://open.spotify.com/track/5XCC5Ht7wNIKGPSlpJg3Ww) | [The Good Wine](https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj) | [Oghene Do](https://open.spotify.com/album/4OMOfEjqFKN0rvpqDnWOyf) | 2:54 | 2025-03-28 | 2025-04-04 |
 | [Oghene Doh](https://open.spotify.com/track/1nQ8q7jsrcmzexCi5eGUUK) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Oghene Doh](https://open.spotify.com/album/2eiepZSsPBPYugqKudqfG1) | 3:59 | 2024-04-12 | 2024-05-24 |
@@ -459,6 +459,7 @@
 | [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 | 2023-09-15 | 2023-10-23 |
 | [Talk N Do](https://open.spotify.com/track/6X2jbH1M9sA8x2B2e37TKH) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [ThisIsPrinx](https://open.spotify.com/album/5pqNbCEWRERViZjzrJS76h) | 2:16 | 2023-12-05 | 2023-12-13 |
 | [TAMUNO](https://open.spotify.com/track/28TXLB9iqk5d0c5omSr0dh) | [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [TAMUNO](https://open.spotify.com/album/3Hx2cSmvKNliegyB4Ok0O1) | 2:36 | 2026-02-27 | 2026-03-13 |
+| [Tamuno](https://open.spotify.com/track/1b2OEF1P8G4REnrQKrH7Ad) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV) | [Tamuno](https://open.spotify.com/album/6lVo8S6mZASvu5k9L8wUTs) | 4:16 | 2025-10-10 |  |
 | [Teach Me](https://open.spotify.com/track/37vfiHVsdmfJ9YYpvQn7w8) | [Tamará](https://open.spotify.com/artist/5yWup2QHnXNBHR418cQl0m) | [Rays Of Tamara](https://open.spotify.com/album/31Ph0MBb9Y85Q8VqwA0Moi) | 3:08 | 2026-03-13 | 2026-03-27 |
 | [Tender Love](https://open.spotify.com/track/5V2JjuDMDPSensCHBTNXZr) | [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX) | [Tender Love](https://open.spotify.com/album/3A4hndO1mMtdSTtzzFcZRu) | 2:14 | 2025-05-23 | 2025-06-06 |
 | [Testify](https://open.spotify.com/track/03B6wjiG0kuJlWCv3neYcg) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Testify](https://open.spotify.com/album/0YnszxnoNksutwA8iVijVt) | 2:34 | 2025-05-30 | 2025-06-13 |

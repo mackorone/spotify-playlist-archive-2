@@ -1950,7 +1950,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 279441,
       "name": "Siguiendo la Luna",
       "url": "https://open.spotify.com/track/1zW0pOzZmq4TjEbIDZiPed"
@@ -2308,6 +2308,24 @@
       "duration_ms": 224946,
       "name": "Ya Pas\u00f3",
       "url": "https://open.spotify.com/track/4VYM9hLG6qOy3X59llsSwQ"
+    },
+    {
+      "album": {
+        "name": "Historias Perdidas",
+        "url": "https://open.spotify.com/album/4QWS9kxQIVo6eHtuYaBfnX"
+      },
+      "artists": [
+        {
+          "name": "El Bordo",
+          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223979,
+      "name": "\u00bfA d\u00f3nde vas?",
+      "url": "https://open.spotify.com/track/0T28vJFKjxSscEEavTeR4R"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc1fXOgOgW7C"

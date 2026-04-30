@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 104240,
+  "num_followers": 104243,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae6nAAAAAAB7jBaInDVxhbDIHXZoyeJT",
+  "snapshot_id": "ae/4gAAAAACZVaw3iOjzhyPRDk6a8xW9",
   "tracks": [
     {
       "added_at": null,
@@ -687,26 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Woman Trouble",
-        "url": "https://open.spotify.com/album/703bvqPWD8igZVVGjQqorA"
+        "name": "The Story Goes...",
+        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
       },
       "artists": [
-        {
-          "name": "Artful Dodger",
-          "url": "https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT"
-        },
-        {
-          "name": "Robbie Craig",
-          "url": "https://open.spotify.com/artist/1vYFivuR3a1Xzivqb1ztGd"
-        },
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 423250,
-      "name": "Woman Trouble (Full Length Version)",
-      "url": "https://open.spotify.com/track/4JrZTTJbSzuy7IUM8tzRLr"
+      "duration_ms": 242173,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/07oVDSwqKCbF5ZmUqPeqvn"
     },
     {
       "added_at": null,
@@ -727,18 +719,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story Goes...",
-        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
+        "name": "Woman Trouble",
+        "url": "https://open.spotify.com/album/703bvqPWD8igZVVGjQqorA"
       },
       "artists": [
+        {
+          "name": "Artful Dodger",
+          "url": "https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT"
+        },
+        {
+          "name": "Robbie Craig",
+          "url": "https://open.spotify.com/artist/1vYFivuR3a1Xzivqb1ztGd"
+        },
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 242173,
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/07oVDSwqKCbF5ZmUqPeqvn"
+      "duration_ms": 423250,
+      "name": "Woman Trouble (Full Length Version)",
+      "url": "https://open.spotify.com/track/4JrZTTJbSzuy7IUM8tzRLr"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop tracks from independent artists & labels. Cover: <a href=\"spotify:artist:1MPNKNARfonIxUk1GXsEKx\">Shaudie Man</a> ",
+  "description": "The best new hip-hop tracks from independent artists & labels. Cover: <a href=\"spotify:artist:5MwvbPn9LtALRZDrMKxKnM\">oksurf</a> ",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -5016,7 +5016,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 100466,
       "name": "BETTER DUCK",
       "url": "https://open.spotify.com/track/1cFQFtMNGRyhsT57ngtK3R"
@@ -8408,7 +8408,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 126246,
       "name": "COLDEST PROPHET",
       "url": "https://open.spotify.com/track/6E2AtVQ0sMIs0YfQMGB8mT"
@@ -8818,7 +8818,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 167692,
       "name": "Crash",
       "url": "https://open.spotify.com/track/6tMZTuIm1N7jrhO0tf8SWx"
@@ -12164,7 +12164,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 112000,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/0yYDa9Zuu7qM9MZO2cbK4Y"
@@ -15843,6 +15843,24 @@
     },
     {
       "album": {
+        "name": "Go Get Some Money ( GGSM )",
+        "url": "https://open.spotify.com/album/4mL2oUsid5qWnsmFYLOWpe"
+      },
+      "artists": [
+        {
+          "name": "oksurf",
+          "url": "https://open.spotify.com/artist/5MwvbPn9LtALRZDrMKxKnM"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "Go Get Some Money ( GGSM )",
+      "url": "https://open.spotify.com/track/3Zswafjaed0TW5FZkgQvc8"
+    },
+    {
+      "album": {
         "name": "TEN TOES & TESTIMONIES",
         "url": "https://open.spotify.com/album/5NIl0HX7PvIT6LFzYGjBFq"
       },
@@ -16634,6 +16652,28 @@
       "duration_ms": 107635,
       "name": "Handle It",
       "url": "https://open.spotify.com/track/0rDUsFBFDAw46MiEM0SbYg"
+    },
+    {
+      "album": {
+        "name": "HANDOUT (Remix)",
+        "url": "https://open.spotify.com/album/59b5LfWbZ7e9N1KfFCeTny"
+      },
+      "artists": [
+        {
+          "name": "saveHXPE",
+          "url": "https://open.spotify.com/artist/1WkniaxGgj7PkhhA45z6fp"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194736,
+      "name": "HANDOUT - Remix",
+      "url": "https://open.spotify.com/track/0YYiKtYpWLa4FPtkzjqEQ1"
     },
     {
       "album": {
@@ -17732,6 +17772,24 @@
       "duration_ms": 185714,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/4ILToTEZmod5vI05AzJjYV"
+    },
+    {
+      "album": {
+        "name": "holon?",
+        "url": "https://open.spotify.com/album/2mbDefdJbbdCxP7DGDfkBp"
+      },
+      "artists": [
+        {
+          "name": "saveaj",
+          "url": "https://open.spotify.com/artist/3D0dxmpnWREvNCxjsY1Bjv"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124545,
+      "name": "holon?",
+      "url": "https://open.spotify.com/track/2Po44AeaMfcBhb0vJQTouh"
     },
     {
       "album": {
@@ -22853,6 +22911,24 @@
     },
     {
       "album": {
+        "name": "Locked In",
+        "url": "https://open.spotify.com/album/3TUyrzPFZVYseRl3VkSaJm"
+      },
+      "artists": [
+        {
+          "name": "Jay Montana",
+          "url": "https://open.spotify.com/artist/0VZ8xEb6CWeTe3swY7qcxw"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Locked In",
+      "url": "https://open.spotify.com/track/5nTmbg1nqM1WEofQJPHl9E"
+    },
+    {
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/28GFwSyuLN9cNuETXtx35s"
       },
@@ -24422,6 +24498,24 @@
       "duration_ms": 121858,
       "name": "Megaman X",
       "url": "https://open.spotify.com/track/1goAab9fNcVRGla9Jrt4sh"
+    },
+    {
+      "album": {
+        "name": "Melanate It",
+        "url": "https://open.spotify.com/album/4RCBlsHkBdAjiHFnZHjmy9"
+      },
+      "artists": [
+        {
+          "name": "La Reezy",
+          "url": "https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178490,
+      "name": "Melanate It",
+      "url": "https://open.spotify.com/track/6SrgpLmms2vKh3IOHyGuOM"
     },
     {
       "album": {
@@ -28678,6 +28772,24 @@
       "duration_ms": 158117,
       "name": "Octane",
       "url": "https://open.spotify.com/track/0fg8hVhheExnE6bkVu1C9e"
+    },
+    {
+      "album": {
+        "name": "OH",
+        "url": "https://open.spotify.com/album/2cagDANf723xW5ORlIghw5"
+      },
+      "artists": [
+        {
+          "name": "Kromow",
+          "url": "https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127804,
+      "name": "OH",
+      "url": "https://open.spotify.com/track/3BK0DfyqsvHbgsaempT8Bq"
     },
     {
       "album": {
@@ -34800,7 +34912,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 135604,
       "name": "Shoe Box",
       "url": "https://open.spotify.com/track/4CXPGLT5vcQ9Fl5yH0Mw4Z"
@@ -40614,7 +40726,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 115200,
       "name": "Tryna Get Sum Mo",
       "url": "https://open.spotify.com/track/4o0HJaSUWgyLVP4EBfk3CR"
@@ -43403,6 +43515,24 @@
     },
     {
       "album": {
+        "name": "WINNER CIRCLE",
+        "url": "https://open.spotify.com/album/5XOIMuuXz3sFwK5aI2fgdW"
+      },
+      "artists": [
+        {
+          "name": "Shady Blu",
+          "url": "https://open.spotify.com/artist/0n23tjBSiGh9chOSKpgoqa"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74783,
+      "name": "WINNER CIRCLE",
+      "url": "https://open.spotify.com/track/6a8fEhBzykQDCAkzopfjEH"
+    },
+    {
+      "album": {
         "name": "BLEU",
         "url": "https://open.spotify.com/album/4sALn5TfzV3CJXVUE6kX6L"
       },
@@ -43937,6 +44067,28 @@
     },
     {
       "album": {
+        "name": "Q2",
+        "url": "https://open.spotify.com/album/18TjpfnQFI7BMgCdqEfwZo"
+      },
+      "artists": [
+        {
+          "name": "EthoSuave",
+          "url": "https://open.spotify.com/artist/69YFeZMpPzgB1Tskd2Tj64"
+        },
+        {
+          "name": "M Row",
+          "url": "https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152739,
+      "name": "WTMM",
+      "url": "https://open.spotify.com/track/3pYlzGqEAmDfnhovt8uM73"
+    },
+    {
+      "album": {
         "name": "WWIT",
         "url": "https://open.spotify.com/album/39hN8RI5xb654u43ljlOfo"
       },
@@ -44224,7 +44376,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 130343,
       "name": "YES",
       "url": "https://open.spotify.com/track/0xVsHY8kfNxEUm8Qi4Xby0"
@@ -44688,7 +44840,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 171177,
       "name": "YSL Sweats",
       "url": "https://open.spotify.com/track/1Vla18zl8sK8gMWdWvpYpg"

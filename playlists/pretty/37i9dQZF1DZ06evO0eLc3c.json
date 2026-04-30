@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 54195,
+  "num_followers": 54231,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae6nAAAAAABpfqeV2Lr7EkcXpdxKbTDI",
+  "snapshot_id": "ae/4gAAAAAD4eFcTxWwnRn+9A/SlQ5+x",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Revenge",
-      "url": "https://open.spotify.com/track/00QrHgrVlYOsleK3Vb62OJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Twelve",
         "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 377240,
       "name": "Everybody Hurts",
       "url": "https://open.spotify.com/track/33iQ7flnKWXFKyRW9QF7WZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/00QrHgrVlYOsleK3Vb62OJ"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gone Again",
-        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 235810,
-      "name": "Farewell Reel",
-      "url": "https://open.spotify.com/track/7AkwMCk98VbcsYqy9EzlG6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace & Noise",
         "url": "https://open.spotify.com/album/3ZsYwM93Semk99fceeRz2r"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 238546,
       "name": "1959",
       "url": "https://open.spotify.com/track/6E1y6W1ZTojaBdtHGKDbGK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gone Again",
+        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 235810,
+      "name": "Farewell Reel",
+      "url": "https://open.spotify.com/track/7AkwMCk98VbcsYqy9EzlG6"
     },
     {
       "added_at": null,

@@ -154,6 +154,28 @@
     {
       "album": {
         "name": "AGONIA",
+        "url": "https://open.spotify.com/album/5tAyEByAlMkhYvWBMMT03U"
+      },
+      "artists": [
+        {
+          "name": "Kayfex",
+          "url": "https://open.spotify.com/artist/1q5Pr05duW9ClrbnBlu4Jb"
+        },
+        {
+          "name": "Isabela Merced",
+          "url": "https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224818,
+      "name": "AGONIA",
+      "url": "https://open.spotify.com/track/3PrlKVJLKKqg57pSxALQF4"
+    },
+    {
+      "album": {
+        "name": "AGONIA",
         "url": "https://open.spotify.com/album/3yai1RNgc2aaBrGwa0D09T"
       },
       "artists": [
@@ -168,7 +190,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 224818,
       "name": "AGONIA",
       "url": "https://open.spotify.com/track/4uuyY7ENKhsKlO83KT4BFF"
@@ -1576,7 +1598,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 228360,
       "name": "Centuries",
       "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"

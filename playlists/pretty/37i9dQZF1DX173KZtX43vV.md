@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,796 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,799 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 41 | [Save My Time](https://open.spotify.com/track/21pwm56tB8PTqEPQbKVllE) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [BLUEBOY](https://open.spotify.com/album/2NVOpcr50Ltvk7eOnG9CGi) | 2:30 |
 | 42 | [thirty degrees.](https://open.spotify.com/track/2JkHcevzr1noJyFSSgA6me) | [Floetic](https://open.spotify.com/artist/65DpzULsU41SimkMyFx72v), [db.](https://open.spotify.com/artist/1G0EC1iC9XLhQ03JyKEFSW) | [thirty degrees.](https://open.spotify.com/album/5YScMSTEjAYVJAg6KuOcR1) | 1:52 |
 | 43 | [Too Bait \- Music Inspired by the Original Series "Bait"](https://open.spotify.com/track/6e7eop8x4gRcuZAG3vBYc1) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa) | [Too Bait \(Music Inspired by the Original Series "Bait"\)](https://open.spotify.com/album/4BmzCIIdjOBlYmvfpaig5S) | 3:06 |
-| 44 | [Wizard Of Oz](https://open.spotify.com/track/4WUmgsEZZZx5aJqb5DE9Ta) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Wizard Of Oz](https://open.spotify.com/album/3ogwVPzWAxYZjROwu0MidL) | 2:33 |
+| 44 | [WIZARD OF OZ](https://open.spotify.com/track/4WUmgsEZZZx5aJqb5DE9Ta) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [WIZARD OF OZ](https://open.spotify.com/album/3ogwVPzWAxYZjROwu0MidL) | 2:33 |
 | 45 | [caught up](https://open.spotify.com/track/3ItBDVIrb7rwSy1v4aLuQD) | [nikhil](https://open.spotify.com/artist/21Nhs4mlXS9iS4wR1VV6Sp), [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [caught up](https://open.spotify.com/album/37CZe90UUBmPPedcTo6cc6) | 2:40 |
 | 46 | [Blackthorne](https://open.spotify.com/track/4pBdATXkkPg1ndil2EXzWc) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Blackthorne](https://open.spotify.com/album/4tWbvCe00k8GYALI8YKNfX) | 3:17 |
 | 47 | [Alive](https://open.spotify.com/track/1Vdt5HO84vJr6hGui1rGie) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx) | [Alive](https://open.spotify.com/album/5Dj7KRmVUnjxz1MdNfgSMH) | 3:29 |

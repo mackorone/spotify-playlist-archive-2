@@ -4,7 +4,7 @@
 
 > 
 
-977 songs - 2 day 13 hr 27 min
+980 songs - 2 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Eternal](https://open.spotify.com/track/0iK89IRmP3zbE71hTglRdZ) | [Wrongler](https://open.spotify.com/artist/2FQODaYjskfIeykD9dDF8Y) | [Eternal](https://open.spotify.com/album/5jjPCsZCVDs8wRLTc9VQXo) | 3:43 | 2025-03-18 |  |
 | [Eternal Bloodbath](https://open.spotify.com/track/5qJoWdRn4lKJkCTwRpledr) | [ToxicBomber](https://open.spotify.com/artist/1RpTk8LvpA3Kidts8OfF8t) | [Eternal Bloodbath](https://open.spotify.com/album/62AhZVnlsTqQw36DYmYXkO) | 4:00 | 2024-11-30 |  |
 | [Eu Sei Como É Chorar e Quase Morrer](https://open.spotify.com/track/1tl5h5SDJFxbRIXxjx5XpX) | [Allan Fontes](https://open.spotify.com/artist/1SoCnTztxzCxvqVuPwEamz) | [Eu Sei Como É Chorar e Quase Morrer](https://open.spotify.com/album/0aDoV49g3z1dfEM9cNcdYo) | 2:30 | 2024-12-20 |  |
+| [Eux](https://open.spotify.com/track/6prUfw8XnnNVxCWGutQpFk) | [enfant rouge](https://open.spotify.com/artist/1WjiPjIL6QbBdk1GnhFqEe) | [Délier](https://open.spotify.com/album/35eSA6VdPI7DpqMIj1Eej1) | 4:44 | 2026-04-29 |  |
 | [Eventually](https://open.spotify.com/track/5680FlKynCoKjDo31JHJky) | [Cut the Act](https://open.spotify.com/artist/0g7nNFwjJAtvz57ISMYuad) | [Eventually](https://open.spotify.com/album/6KfI43tOFkCFywjp6G9UoK) | 4:43 | 2025-01-15 |  |
 | [Ever Fallen in Love \(with Someone You Shouldn't've\)](https://open.spotify.com/track/68CNnixO7Io2sjRSyUlksb) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [Ever Fallen in Love \(with Someone You Shouldn't've\)](https://open.spotify.com/album/3TUhtUlAyjTrUZm4UQz9Vj) | 2:32 | 2025-02-07 |  |
 | [Everything](https://open.spotify.com/track/6m9DaJ2fIGQ4JK8cDd0l6y) | [Pretty Suspect](https://open.spotify.com/artist/0ssvQU443YviUpQPkQDWj2) | [Surviving The Fire](https://open.spotify.com/album/5EMuRwLphaML2yiFP21dVT) | 3:07 | 2025-02-07 |  |
@@ -348,6 +349,7 @@
 | [How to Cope](https://open.spotify.com/track/4f0e0HwGfVab0t45F760lE) | [Fortune Teller](https://open.spotify.com/artist/6xllSn5EskHUgWGzc7cAsm) | [How to Cope](https://open.spotify.com/album/6zgb6pK9LP0mHpq85IbBNg) | 3:41 | 2026-02-19 |  |
 | [Howler](https://open.spotify.com/track/2h5RpF0qZfi7O5BdYJCReP) | [sleepingbagzzz](https://open.spotify.com/artist/1illHVPAUojDCwd2Po8GV3) | [Howler](https://open.spotify.com/album/7yruOAWGHJ7qswWn97d52u) | 3:29 | 2025-06-26 |  |
 | [Human Touch](https://open.spotify.com/track/6a8WOjBWaNkbnuCWjPHOOE) | [huch79](https://open.spotify.com/artist/6fMQ33yPUv5a6CHDEGKhd8) | [Human Touch](https://open.spotify.com/album/1GvLfzrvVI3ueu5ZEM8DjL) | 5:17 | 2026-02-07 |  |
+| [Hymn](https://open.spotify.com/track/0F7851FGHF79bzgJ65HpyC) | [Of House](https://open.spotify.com/artist/00ZfMOYl0RhH41iOFfbl3u) | [Hymn](https://open.spotify.com/album/3sYDwzhZKYeqrz1sejuBN6) | 8:14 | 2026-04-29 |  |
 | [I Almost Stayed](https://open.spotify.com/track/0Wou1SWFH4bpIGycvAw1cn) | [Eduardo Mendes](https://open.spotify.com/artist/6zFDDWxcLKsKBMUwQhvZkL) | [I Almost Stayed](https://open.spotify.com/album/6BRvwwyjvNOvBp1XEAEKrn) | 3:34 | 2026-03-21 |  |
 | [I Am Glow](https://open.spotify.com/track/3i8ecpPBllwZgk6SAj5RN2) | [Dute](https://open.spotify.com/artist/4JVDpPwTXaLhNcXMXz6NJV), [Lukky Sparxx](https://open.spotify.com/artist/7FFdx96MiyEDRkKZz62MCN) | [I Am Glow](https://open.spotify.com/album/4lEjcnMWiJgH7Op5Chh8Kk) | 4:23 | 2026-04-12 |  |
 | [I Fell in Love With Princess Peach](https://open.spotify.com/track/55dAQezxrdU5nyxhTU0n1V) | [The Opposite Of Falling](https://open.spotify.com/artist/09WpOH3MuSzBPgKWLsocbo) | [I Fell in Love With Princess Peach](https://open.spotify.com/album/2R5pOvnzxjHbGvTz46mAmG) | 2:32 | 2025-05-15 |  |
@@ -774,6 +776,7 @@
 | [Sunk into Deception](https://open.spotify.com/track/72jMRmzFgR6NrT9LYYZNpl) | [The Black Phantom Thunder](https://open.spotify.com/artist/7eldSqY8I0pFAdEW6K7vYr) | [Sunk into Deception](https://open.spotify.com/album/7y2VIAUU0MNQRUmplDnT2w) | 4:08 | 2025-09-18 |  |
 | [Sunset](https://open.spotify.com/track/4nnPI53bdXirg1v6EUJTyI) | [Joints N' Oranges](https://open.spotify.com/artist/5dIlk2Q8kGARDHQVRPI8fc) | [Sunset](https://open.spotify.com/album/29Pea3KGnupq5bb71sPPc6) | 2:04 | 2024-12-20 |  |
 | [Sunshine](https://open.spotify.com/track/4LvxUGM0wBXq6gkD0CALK4) | [Priddice Brothers Band](https://open.spotify.com/artist/2K8S5b9EBD9mv0MzCi6uV1) | [Sunshine](https://open.spotify.com/album/4nXa4z9Np9N9f6hzjOzxSe) | 3:30 | 2026-02-19 |  |
+| [Surprise, Surprise](https://open.spotify.com/track/5gHlEgM8AilWq9xQfAp0Lo) | [Friends With Boats](https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc) | [Surprise, Surprise](https://open.spotify.com/album/048i5QNlRLzkftGQH6rCYk) | 3:04 | 2026-04-29 |  |
 | [Sweet Dreams](https://open.spotify.com/track/0CHH5T7yvnr8kxdzeXvL03) | [Modern Joey](https://open.spotify.com/artist/51j096tm8y3ZReV3HrqZvw) | [Hello Sunbeam](https://open.spotify.com/album/2xudE36Ak285NDqaTc1RDx) | 5:22 | 2025-09-19 |  |
 | [Sympathy Symphony](https://open.spotify.com/track/3Nzkk8D4IliwOwW7w7C6X1) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Corporation P.O.P](https://open.spotify.com/album/435pXp0hwIVwJFoJy6xePr) | 4:11 | 2025-07-02 |  |
 | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:32 | 2024-11-12 |  |

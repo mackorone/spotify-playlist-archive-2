@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Trueno
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,132 likes - 76 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,029 likes - 76 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 65 | [Riviera Maya](https://open.spotify.com/track/3MrwF35BW4JHKqDFLSQdse) | [Erick Brian](https://open.spotify.com/artist/4tSDK2ySq41vxwERzxVRZH) | [Destiempo](https://open.spotify.com/album/0aQ9TjUGaZfOszed6hWfcr) | 2:59 |
 | 66 | [FÉRIAS](https://open.spotify.com/track/73ohZqUr2gQbLsWowG5Bsr) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW) | [ADULTO IDEAL VOL.2](https://open.spotify.com/album/1WiZeCpdkrdWhldOhUduPz) | 2:46 |
 | 67 | [Rosa Maria](https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Rosa Maria](https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT) | 3:52 |
-| 68 | [Nos Relojean](https://open.spotify.com/track/1tbJP63ftEPVJKn8TFfB1u) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Soffia Philo](https://open.spotify.com/artist/5o1ARHZ2fhll5jILdQp84X), [Maxi Prieto](https://open.spotify.com/artist/7k4sBYY4ict7ilJdWo5DnW) | [Nos Relojean](https://open.spotify.com/album/7zDAxwrWDrPJsr2OX5GTge) | 3:05 |
+| 68 | [NOS RELOJEAN](https://open.spotify.com/track/1tbJP63ftEPVJKn8TFfB1u) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Soffia Philo](https://open.spotify.com/artist/5o1ARHZ2fhll5jILdQp84X), [Maxi Prieto](https://open.spotify.com/artist/7k4sBYY4ict7ilJdWo5DnW) | [NOS RELOJEAN](https://open.spotify.com/album/7zDAxwrWDrPJsr2OX5GTge) | 3:05 |
 | 69 | [Primera Generación](https://open.spotify.com/track/3fOq3pfMkNEMQyFwQgKYdp) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe), [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W) | [Primera Generación](https://open.spotify.com/album/6yiZ5l31KVxsgeH7g9fr6C) | 3:13 |
 | 70 | [Hanagasa Ondo](https://open.spotify.com/track/4X0RMkxgKiWmGYY1UrXLkS) | [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG), [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Hanagasa Ondo](https://open.spotify.com/album/63YP3W4F5lV4ecyBAK8jOn) | 4:24 |
 | 71 | [Días Perfectos](https://open.spotify.com/track/4YJqajgA8lpqJv9mxhtV0Z) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Días Perfectos](https://open.spotify.com/album/37vhqFEwv3280Z3EoOzNwJ) | 5:36 |

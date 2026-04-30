@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 ### [ Mollywood Gold ](https://open.spotify.com/playlist/37i9dQZF1DXaDDXaHNhJDD)
 
-> Finest collection of Malayalam Music from the past 10 years Cover : Aashaan
+> Finest collection of Malayalam Music from the past 10 years Cover : Pallichattambi
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,627 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,704 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kunjikkavil Meghame \(From "Aashaan"\)](https://open.spotify.com/track/1QjXwGvMfjlFdGCnBSfTcD) | [Johnpaul George](https://open.spotify.com/artist/3odIxuvJWJpYybFS0fDI4X), [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Kunjikkavil Meghame \(From "Aashaan"\)](https://open.spotify.com/album/2KhiAM5udaWOv0ohiipVBS) | 4:44 |
-| 2 | [Kaattuchembakam](https://open.spotify.com/track/7czB3FGFR1aZeTVN6vXtHO) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Aavani Malhar](https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG), [Kaithapram](https://open.spotify.com/artist/755XJ9EAGeezpOuX87TlbF) | [Pallichattambi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/01UrMORJHZ5AUvPSdwNXhM) | 4:36 |
+| 1 | [Kaattuchembakam](https://open.spotify.com/track/7czB3FGFR1aZeTVN6vXtHO) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Aavani Malhar](https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG), [Kaithapram](https://open.spotify.com/artist/755XJ9EAGeezpOuX87TlbF) | [Pallichattambi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/01UrMORJHZ5AUvPSdwNXhM) | 4:36 |
+| 2 | [Kunjikkavil Meghame \(From "Aashaan"\)](https://open.spotify.com/track/1QjXwGvMfjlFdGCnBSfTcD) | [Johnpaul George](https://open.spotify.com/artist/3odIxuvJWJpYybFS0fDI4X), [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Kunjikkavil Meghame \(From "Aashaan"\)](https://open.spotify.com/album/2KhiAM5udaWOv0ohiipVBS) | 4:44 |
 | 3 | [Minnalvala \(From "Narivetta"\)](https://open.spotify.com/track/5yAfCVJwa3r9wAQSOfawqm) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Minnalvala \(From "Narivetta"\)](https://open.spotify.com/album/2TGMDuoU4JVIrFOFH77GGH) | 4:59 |
 | 4 | [Ilakozhiye](https://open.spotify.com/track/2Qkr0RTvw2DSMToTChKoyN) | [electronic kili](https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX), [Rakhooo](https://open.spotify.com/artist/4taC6D2Loslf6n6YBTWjzd), [iSai](https://open.spotify.com/artist/43j2RldsisSwS11vMFLNOX), [Muthu](https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q) | [Thalavara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7D5muU673GHLplT6iCt423) | 3:48 |
 | 5 | [Jaalakaari \- From "Balti"](https://open.spotify.com/track/0aMi5DHyTwYrlOcxp1AM3v) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Jaalakaari \(From "Balti"\)](https://open.spotify.com/album/5zyr4y12Rn3B204mU2aamV) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 49 | [Nilapakshi Happy Version](https://open.spotify.com/track/6BvRT4pR5sr3jHgrTYAtbp) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH), [Tarun Bhattacharya](https://open.spotify.com/artist/75pVYyeJxeZZMforYr50pA) | [Maradona \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xW8gYFnuIbWoWhnluumNo) | 3:48 |
 | 50 | [Darshana \- From "Hridayam"](https://open.spotify.com/track/4BBwON1XG02S4cpYrV10u2) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Darshana Rajendran](https://open.spotify.com/artist/5nfZOPYU4aFJii2PCGALu2), [Arun Alat](https://open.spotify.com/artist/5OlyzvlgJPRnzj4nZSgSwW) | [Darshana \(From "Hridayam"\)](https://open.spotify.com/album/6yvdx4kNq4Ui9gmD6guGfe) | 3:46 |
 
-Snapshot ID: `AAAAAAaUAT20MlsoR6ST0Tcm2z48JQYk`
+Snapshot ID: `AAAAADLbwIQM07tRqntKnxXhWzS91tY8`

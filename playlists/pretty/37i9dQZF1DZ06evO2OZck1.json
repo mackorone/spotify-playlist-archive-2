@@ -1,12 +1,12 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 55036,
+  "num_followers": 55038,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae6nAAAAAACYPhdHY23y1NyOZb7DM3m/",
+  "snapshot_id": "ae/4gAAAAACqLeT4ZvEcPNCdSzPpU7T2",
   "tracks": [
     {
       "added_at": null,
@@ -195,18 +195,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Go Wild / Miyao",
-        "url": "https://open.spotify.com/album/2yyNpA4jsXUoVatcIBuI7W"
+        "name": "Narani Narani (feat. ATARASHII GAKKO!)",
+        "url": "https://open.spotify.com/album/35sSZefnCfHDR4rGtKj9yw"
       },
       "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        },
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 164267,
-      "name": "Go Wild",
-      "url": "https://open.spotify.com/track/7k0S7glb0p9AX7jj4a6w0J"
+      "duration_ms": 224297,
+      "name": "Narani Narani (feat. ATARASHII GAKKO!)",
+      "url": "https://open.spotify.com/track/1g528rQTLYwfqtVtl2uyOJ"
     },
     {
       "added_at": null,
@@ -243,22 +247,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Narani Narani (feat. ATARASHII GAKKO!)",
-        "url": "https://open.spotify.com/album/35sSZefnCfHDR4rGtKj9yw"
+        "name": "Go Wild / Miyao",
+        "url": "https://open.spotify.com/album/2yyNpA4jsXUoVatcIBuI7W"
       },
       "artists": [
-        {
-          "name": "Balming Tiger",
-          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
-        },
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 224297,
-      "name": "Narani Narani (feat. ATARASHII GAKKO!)",
-      "url": "https://open.spotify.com/track/1g528rQTLYwfqtVtl2uyOJ"
+      "duration_ms": 164267,
+      "name": "Go Wild",
+      "url": "https://open.spotify.com/track/7k0S7glb0p9AX7jj4a6w0J"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KOIBUMI",
-        "url": "https://open.spotify.com/album/2zI6Rce9bvVZtXgazjhD6D"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 240285,
-      "name": "KOIBUMI",
-      "url": "https://open.spotify.com/track/1aT8DhQBZcLIMLTBaFIwi6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Go Wild / Miyao",
         "url": "https://open.spotify.com/album/2yyNpA4jsXUoVatcIBuI7W"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 251840,
       "name": "Miyao - 10th Anniversary Version",
       "url": "https://open.spotify.com/track/0nrGBAKiFYqvPgEvlyEIDI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KOIBUMI",
+        "url": "https://open.spotify.com/album/2zI6Rce9bvVZtXgazjhD6D"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 240285,
+      "name": "KOIBUMI",
+      "url": "https://open.spotify.com/track/1aT8DhQBZcLIMLTBaFIwi6"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SNACKTIME",
-        "url": "https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 177450,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/5RWkakv9Kg0MtYnXdQUHWm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "wakage ga itaru",
         "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 261866,
       "name": "mayoeba toutoshi",
       "url": "https://open.spotify.com/track/73kbULxbsaqjhjTMonGHIV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SNACKTIME",
+        "url": "https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 177450,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/5RWkakv9Kg0MtYnXdQUHWm"
     },
     {
       "added_at": null,

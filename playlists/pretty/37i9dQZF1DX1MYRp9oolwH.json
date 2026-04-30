@@ -1,13 +1,37 @@
 {
-  "description": "Bringing out the best of latest love tracks\nCover : Lenin",
-  "num_followers": 169832,
+  "description": "Bringing out the best of latest love tracks\nCover : Srinivasa Mangapuram",
+  "num_followers": 169839,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ3EB/gMyDL+OVdQ43t0i9LUghOj",
+  "snapshot_id": "AAAAAGE1BXQKyAY+g/GArL/tS5UpvIzg",
   "tracks": [
+    {
+      "added_at": "2026-04-29 07:47:32",
+      "album": {
+        "name": "Allele Alelle (From \"Srinivasa Mangapuram\")",
+        "url": "https://open.spotify.com/album/4xxZdEC0x4axxcjJdfXYCk"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Haripriya",
+          "url": "https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h"
+        },
+        {
+          "name": "Sreemani",
+          "url": "https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza"
+        }
+      ],
+      "duration_ms": 335081,
+      "name": "Allele Alelle (From \"Srinivasa Mangapuram\")",
+      "url": "https://open.spotify.com/track/6rVMR3awPMSRoyYEtAKeAh"
+    },
     {
       "added_at": "2026-01-08 07:24:18",
       "album": {
@@ -35,6 +59,62 @@
       "duration_ms": 190083,
       "name": "Vaarevaa Vaarevaa (From \"Lenin\")",
       "url": "https://open.spotify.com/track/5SSYMRye4sfUYk5yjMdvWV"
+    },
+    {
+      "added_at": "2026-04-29 07:47:32",
+      "album": {
+        "name": "Krishnavataram - Part 1: The Heart (Hridayam) (Telugu)",
+        "url": "https://open.spotify.com/album/1Gh24RQ8Oac5IgXIgeFHdw"
+      },
+      "artists": [
+        {
+          "name": "Pavithra Chari",
+          "url": "https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG"
+        },
+        {
+          "name": "Shibi Srinivasan",
+          "url": "https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5"
+        },
+        {
+          "name": "Sireesha Bhagavatula",
+          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
+        },
+        {
+          "name": "Prasad S",
+          "url": "https://open.spotify.com/artist/1bC9tQ3AM7JQfK6VfzfZLI"
+        },
+        {
+          "name": "Swaradish Dr Bharat Balvalli",
+          "url": "https://open.spotify.com/artist/5XetFidz3lBNinSu2krac1"
+        }
+      ],
+      "duration_ms": 281198,
+      "name": "Prema Leela",
+      "url": "https://open.spotify.com/track/07YBAV1GeHB5U8UAhI0KVH"
+    },
+    {
+      "added_at": "2026-04-29 07:47:32",
+      "album": {
+        "name": "With Love (Telugu) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/7MnwQqeT6sNmGV58bgjs2O"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Sanare",
+          "url": "https://open.spotify.com/artist/5OBBWXv2u5ZODe8odcEHbl"
+        }
+      ],
+      "duration_ms": 205081,
+      "name": "Ayyo Kadhaley - Female Version",
+      "url": "https://open.spotify.com/track/2GnuaiGx2Eig8xkrQV8c4o"
     },
     {
       "added_at": "2025-11-11 05:35:55",
@@ -605,30 +685,6 @@
       "url": "https://open.spotify.com/track/4HzhEvOCzOBDGRcsnpwG9z"
     },
     {
-      "added_at": "2026-01-08 07:30:43",
-      "album": {
-        "name": "Bhalle Bhalle (From \"Nari Nari Naduma Murari\") (Telugu)",
-        "url": "https://open.spotify.com/album/4fUeGMIYVi22stROdyMxEr"
-      },
-      "artists": [
-        {
-          "name": "Vishal Chandrashekhar",
-          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
-        },
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Bhalle Bhalle (From \"Nari Nari Naduma Murari\") (Telugu)",
-      "url": "https://open.spotify.com/track/7oPSWYvSHoC8UA8WVUngq4"
-    },
-    {
       "added_at": "2026-04-16 13:17:45",
       "album": {
         "name": "Yetta Yetta (From \"Lenin\")",
@@ -679,30 +735,6 @@
       "duration_ms": 249947,
       "name": "Madhuram - From \"Sathi Leelavathi\"",
       "url": "https://open.spotify.com/track/7fqU95VNxjSV1J8kSkmIOE"
-    },
-    {
-      "added_at": "2025-12-16 06:29:21",
-      "album": {
-        "name": "Dhum Thakum (From \"Psych Siddhartha\")",
-        "url": "https://open.spotify.com/album/4U74fjabNK8LyAX9gFYjOA"
-      },
-      "artists": [
-        {
-          "name": "Jassie Gift",
-          "url": "https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl"
-        },
-        {
-          "name": "Smaran",
-          "url": "https://open.spotify.com/artist/7hVRxcFAqVLMLBRCu6FR3C"
-        },
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 236152,
-      "name": "Dhum Thakum (From \"Psych Siddhartha\")",
-      "url": "https://open.spotify.com/track/7DFaNgMboQuV8nrVisLrd0"
     },
     {
       "added_at": "2026-02-16 10:27:02",
@@ -1055,34 +1087,6 @@
       "duration_ms": 224271,
       "name": "Anaga Anaga America (From \"VISA - Vintara Saradaga\")",
       "url": "https://open.spotify.com/track/3ExH4zj7A8VdNsQ9XtKwfo"
-    },
-    {
-      "added_at": "2025-12-09 07:35:19",
-      "album": {
-        "name": "Thakathayya (From \"Vinara O Vema\")",
-        "url": "https://open.spotify.com/album/19rD3pNoLSkx4XeQyZ0w57"
-      },
-      "artists": [
-        {
-          "name": "Pavan Kalyan",
-          "url": "https://open.spotify.com/artist/0gpmv3FkE6npT2OWGPrJvi"
-        },
-        {
-          "name": "Jhansi",
-          "url": "https://open.spotify.com/artist/6yDcSbCLPOpgp9geGCzbNg"
-        },
-        {
-          "name": "Tarun Rana Pratap",
-          "url": "https://open.spotify.com/artist/5t6AoOfo5QPxp555JSTxoK"
-        },
-        {
-          "name": "Prabhath",
-          "url": "https://open.spotify.com/artist/2289Y7PfjWzJMtcQ7G4LSk"
-        }
-      ],
-      "duration_ms": 202222,
-      "name": "Thakathayya (From \"Vinara O Vema\")",
-      "url": "https://open.spotify.com/track/7l3jagYM4OZGu80smj1evC"
     },
     {
       "added_at": "2026-02-20 09:35:48",

@@ -1,37 +1,13 @@
 {
-  "description": "Finest collection of Malayalam Music from the past 10 years Cover : Aashaan",
-  "num_followers": 220627,
+  "description": "Finest collection of Malayalam Music from the past 10 years Cover : Pallichattambi",
+  "num_followers": 220704,
   "original_name": " Mollywood Gold ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAaUAT20MlsoR6ST0Tcm2z48JQYk",
+  "snapshot_id": "AAAAADLbwIQM07tRqntKnxXhWzS91tY8",
   "tracks": [
-    {
-      "added_at": "2026-02-27 11:39:28",
-      "album": {
-        "name": "Kunjikkavil Meghame (From \"Aashaan\")",
-        "url": "https://open.spotify.com/album/2KhiAM5udaWOv0ohiipVBS"
-      },
-      "artists": [
-        {
-          "name": "Johnpaul George",
-          "url": "https://open.spotify.com/artist/3odIxuvJWJpYybFS0fDI4X"
-        },
-        {
-          "name": "Sooraj Santhosh",
-          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
-        },
-        {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
-        }
-      ],
-      "duration_ms": 284210,
-      "name": "Kunjikkavil Meghame (From \"Aashaan\")",
-      "url": "https://open.spotify.com/track/1QjXwGvMfjlFdGCnBSfTcD"
-    },
     {
       "added_at": "2026-04-14 08:19:30",
       "album": {
@@ -59,6 +35,30 @@
       "duration_ms": 276461,
       "name": "Kaattuchembakam",
       "url": "https://open.spotify.com/track/7czB3FGFR1aZeTVN6vXtHO"
+    },
+    {
+      "added_at": "2026-02-27 11:39:28",
+      "album": {
+        "name": "Kunjikkavil Meghame (From \"Aashaan\")",
+        "url": "https://open.spotify.com/album/2KhiAM5udaWOv0ohiipVBS"
+      },
+      "artists": [
+        {
+          "name": "Johnpaul George",
+          "url": "https://open.spotify.com/artist/3odIxuvJWJpYybFS0fDI4X"
+        },
+        {
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "duration_ms": 284210,
+      "name": "Kunjikkavil Meghame (From \"Aashaan\")",
+      "url": "https://open.spotify.com/track/1QjXwGvMfjlFdGCnBSfTcD"
     },
     {
       "added_at": "2025-06-03 08:06:05",

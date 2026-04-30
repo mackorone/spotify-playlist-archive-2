@@ -603,6 +603,28 @@
     },
     {
       "album": {
+        "name": "Da Pacem Domine",
+        "url": "https://open.spotify.com/album/4HJCUjOnYOriKHCxZ1n1XD"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Cello Octet Amsterdam",
+          "url": "https://open.spotify.com/artist/114TP69VjPUQpzdkNXEMrS"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263526,
+      "name": "Da Pacem Domine",
+      "url": "https://open.spotify.com/track/3CXCkiFwq1vg2r6rdwRpDg"
+    },
+    {
+      "album": {
         "name": "Arvo P\u00e4rt: In Principio",
         "url": "https://open.spotify.com/album/5u4qMT1veM8e7AT1Kbx8YM"
       },
@@ -830,7 +852,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 709666,
       "name": "Fratres (Version for 12 Cellos) - For 12 Celli",
       "url": "https://open.spotify.com/track/3yb6Pn8xeTANmqTPTHpwRI"
@@ -1360,7 +1382,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 524159,
       "name": "Kanon Pokajanen: Ode VIII",
       "url": "https://open.spotify.com/track/1xBnalCrc62gQObQCkcJyq"
@@ -2253,6 +2275,24 @@
     },
     {
       "album": {
+        "name": "Silentium",
+        "url": "https://open.spotify.com/album/0yy8tXDKjL8JG9AD99MDwQ"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Variationen zur Gesundung von Arinuschka",
+      "url": "https://open.spotify.com/track/0NGejSeoxOb402Keb0scyq"
+    },
+    {
+      "album": {
         "name": "Arvo P\u00e4rt: Variations for the Healing of Arinushka",
         "url": "https://open.spotify.com/album/4eK49eNmA8bukN050hy5HY"
       },
@@ -2424,7 +2464,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 43093,
       "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 1, Der gestiefelte Kater",
       "url": "https://open.spotify.com/track/36pkX1bhz1EApdfbgQot2T"
@@ -2446,7 +2486,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 105973,
       "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 2, Rotk\u00e4ppchen",
       "url": "https://open.spotify.com/track/4V7MrRNDrlco73oxU09tgz"

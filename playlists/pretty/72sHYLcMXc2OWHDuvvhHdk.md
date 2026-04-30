@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 568 likes - 2,570 songs - 6 day 6 hr 5 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 568 likes - 2,579 songs - 6 day 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2578,5 +2578,14 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2568 | [Last Ride 2.0](https://open.spotify.com/track/2F7DT6sVaUjClYXVq2Sru8) | [Outlaw Rail](https://open.spotify.com/artist/6xtNNB2nXYFM9NUP7d6gFn) | [Last Ride 2.0](https://open.spotify.com/album/2enHGutQ1YH2zeBrKRoHEA) | 4:44 |
 | 2569 | [Good Vibes Only](https://open.spotify.com/track/1b4Y64x4mq8KQOUzmVg0y9) | [Tha Third I](https://open.spotify.com/artist/2vZ7xxfNdyh4EFtVOKUim2) | [Good Vibes Only](https://open.spotify.com/album/2hX2T4dSRTCvnSC1e8A72S) | 2:24 |
 | 2570 | [Tem Que Ter o Dom](https://open.spotify.com/track/0qerjpA8nNmAchTv4ZusVa) | [Buba Nobeat](https://open.spotify.com/artist/720uxiEQL3J7OmSqIRTKQ7), [Flow Jhow](https://open.spotify.com/artist/0oKArOUFmwtokkOdwMqSsG), [Boni Mc](https://open.spotify.com/artist/31uO6NZzQGZlV86CCnInFO) | [Tem Que Ter o Dom](https://open.spotify.com/album/2T5ep6SsbZguQWgTJSs4UI) | 4:07 |
+| 2571 | [Alles Dreht Sich](https://open.spotify.com/track/5ga0FQzUiQVfsPmRxOWrQc) | [Oliver](https://open.spotify.com/artist/78p3BQNxLeOiovq6kIYrNB) | [Alles Dreht Sich](https://open.spotify.com/album/1JT6m26Oha2fpzCRE8e2i3) | 2:20 |
+| 2572 | [Yellowstone Cowboys](https://open.spotify.com/track/10Sjg3u6wVE0qQGRmvw4Wf) | [Ed maynard](https://open.spotify.com/artist/0hjbR4k5Vni76rKTwDhdwh) | [Yellowstone Cowboys](https://open.spotify.com/album/4lq25VE9sBg8nmAxVVJDfI) | 3:39 |
+| 2573 | [El Cigarrillo \- Ana Gabriel Versión](https://open.spotify.com/track/05bCu74Hidry6YiMD2Qpg6) | [Tobi Rabat](https://open.spotify.com/artist/3rAw85LiCiT61QHQhxHyn4) | [El Cigarrillo \(Ana Gabriel Versión\)](https://open.spotify.com/album/6FVEuRBR0TZGctKl5zvpVU) | 3:14 |
+| 2574 | [Don't Let Me Down](https://open.spotify.com/track/6kH1KGFlD5EQwl3QdUwtgn) | [TriniPrince](https://open.spotify.com/artist/6WPYob9LKVO2vFN2ZCZkZl) | [Don't Let Me Down](https://open.spotify.com/album/6a9nMqBFWp7FnAJiy5N2PQ) | 2:10 |
+| 2575 | [Real Life](https://open.spotify.com/track/3FojwWjjrD3z7WBHG10Nxu) | [Only\_Good\_Wave](https://open.spotify.com/artist/64Hco66Bw7tF4KJnbbmnne) | [Real Life](https://open.spotify.com/album/1XqBDeeBp35hdNhYGOcyoa) | 2:24 |
+| 2576 | [Never Fold](https://open.spotify.com/track/4GxNLMX2vMC7ZHzoskgWZm) | [Fixmane](https://open.spotify.com/artist/4WDafIuLZa9d51BqHxvqIp) | [Never Fold](https://open.spotify.com/album/7davxvlphJw3aVP53r0Hu5) | 3:23 |
+| 2577 | [Nosebleed, Skinned Knees](https://open.spotify.com/track/24pmvgNvto2Xed5Dcbwwgd) | [you](https://open.spotify.com/artist/0kLi0duqyWyoRkfqBv4lja) | [Nosebleed, Skinned Knees](https://open.spotify.com/album/5HAMfPYtA7SxJYx65ua1Vf) | 4:43 |
+| 2578 | [Getting Better](https://open.spotify.com/track/51TnoMTgxnby8krQ5naJMp) | [MARIÁN](https://open.spotify.com/artist/2H1Jbja6SX4flZDRbhPIRY) | [Esperta, muller salvaxe](https://open.spotify.com/album/4a9uxwU0G2hlIdJGeuxPlJ) | 3:21 |
+| 2579 | [Swamp Mother](https://open.spotify.com/track/5AMxT1InHsOVuaxW8qYaVF) | [Live Oak Sunburst](https://open.spotify.com/artist/4QHJTuyBl6eDWAikRZaAmB) | [Swamp Mother](https://open.spotify.com/album/7ncJaA6HNWg3GSFEa1abAc) | 3:42 |
 
-Snapshot ID: `AAAKozk0Nzeq62zuFlspK1s6/RZ3zdRP`
+Snapshot ID: `AAAKrKbmXDLEsqpDCw/Uajxx8e/MQUiz`

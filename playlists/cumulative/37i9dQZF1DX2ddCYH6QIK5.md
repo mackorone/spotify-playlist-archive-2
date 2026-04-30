@@ -2,9 +2,9 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: vilo, Artwork: Isu Kim
+> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: JAY, Artwork: Isu Kim
 
-1,646 songs - 3 day 19 hr 33 min
+1,649 songs - 3 day 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [alles leichter als sonst](https://open.spotify.com/track/1HzBLC1sqAOv245pwX46nO) | [Nico Onur](https://open.spotify.com/artist/1HCkDfRlNOYkLntyxtwyDI) | [alles leichter als sonst](https://open.spotify.com/album/5VIPUfRKdz4D1uFgwOAFMd) | 2:27 | 2025-07-16 | 2025-08-14 |
 | [Alles Lügen](https://open.spotify.com/track/1dEv8UGoLqEibkymEN4Xhi) | [borlinghaus](https://open.spotify.com/artist/3kqhYAQ1mEfwasJhwXhgiG) | [Alles Lügen](https://open.spotify.com/album/4b6TlCw6vUG2puyFjennBs) | 2:39 | 2025-05-21 | 2025-06-13 |
 | [Alles Scheisse](https://open.spotify.com/track/3H1zM1uFstYvyEy8l0bisr) | [SERPENTIN](https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF) | [Alles Scheisse](https://open.spotify.com/album/2WVwilXGM4HrUAfZVVAg6J) | 2:57 | 2022-07-27 | 2023-01-05 |
+| [Alles so schön aufgebaut](https://open.spotify.com/track/3i63QWWzM1hBGXopqzHpxL) | [Katharina Merker](https://open.spotify.com/artist/4ftKWF7vLI7aCYPhUfEicy) | [Alles so schön aufgebaut](https://open.spotify.com/album/2D99zXqMEYebREzUY7DQWF) | 2:43 | 2026-04-29 |  |
 | [alles/nichts](https://open.spotify.com/track/0MJIjeTV8IZOVoJQfkYsPa) | [taal](https://open.spotify.com/artist/7njUAoCB1JJsEGHc7UoHKs) | [alles/nichts](https://open.spotify.com/album/78TpHDvI3ih7Qspr5fIOg7) | 3:38 | 2025-03-05 | 2026-01-15 |
 | [Allies](https://open.spotify.com/track/5Wjlo4PRuPOgc6NGvyfavZ) | [ernie g](https://open.spotify.com/artist/4Eh6xH6uL3yvW9IsQERQJ0) | [Allies](https://open.spotify.com/album/6Zad2FhZp9sqHiUn2y8ct1) | 2:35 | 2025-06-04 | 2025-07-03 |
 | [Almost](https://open.spotify.com/track/6KGCfq4NWeRuU2wnT1Cr7F) | [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN), [Feral Garden](https://open.spotify.com/artist/6C3Yrg93t2fro8ikPATMfK) | [Almost](https://open.spotify.com/album/4laJoI4wRtF1SJpIR2mjrr) | 5:43 | 2023-04-05 | 2023-08-24 |
@@ -163,7 +164,7 @@
 | [Big Smiles](https://open.spotify.com/track/0oYHjBnblrVITXHndUsG22) | [Between Owls](https://open.spotify.com/artist/3ZyKtqDXmUlEwgGt3iipTq) | [Big Smiles](https://open.spotify.com/album/6hZLyGemCjYPHSKLmNbu8H) | 3:18 | 2024-06-26 | 2024-09-26 |
 | [Bird's Life](https://open.spotify.com/track/3MLnJNgMdhx5chY6OSDEXY) | [Albertine Sarges](https://open.spotify.com/artist/1bo2PjIgDEptAlEzxyOIuX) | [Bird's Life](https://open.spotify.com/album/2vpSULG9uMwpHsQ2KXHbuR) | 4:09 | 2022-01-19 | 2022-03-08 |
 | [Birthright](https://open.spotify.com/track/4htu3kehjV7tkdDuhMpyAb) | [NOVICE](https://open.spotify.com/artist/7dYD2ZuUovdINEl9XRTiwY) | [Birthright](https://open.spotify.com/album/3chG1LGMe8XoOBXjrX03OY) | 3:41 | 2025-09-24 | 2025-11-27 |
-| [Bis ins Grab](https://open.spotify.com/track/14LsSpFqUqM9bG7s4MxKzV) | [KAYA](https://open.spotify.com/artist/20LuuLvBFY0WxpQZw7Ie59) | [Bis ins Grab](https://open.spotify.com/album/697bTnk0Cojw3YysrWjQNl) | 2:14 | 2026-03-18 |  |
+| [Bis ins Grab](https://open.spotify.com/track/14LsSpFqUqM9bG7s4MxKzV) | [KAYA](https://open.spotify.com/artist/20LuuLvBFY0WxpQZw7Ie59) | [Bis ins Grab](https://open.spotify.com/album/697bTnk0Cojw3YysrWjQNl) | 2:14 | 2026-03-18 | 2026-04-30 |
 | [bisschen fantasie](https://open.spotify.com/track/0o6VX1qMvMMbFNb2CPZt9a) | [jaydee](https://open.spotify.com/artist/1cNaJ7b5yqUMmJeHKSBK8v) | [bisschen fantasie](https://open.spotify.com/album/7Gn50XMyb2YWzASppHbOUm) | 2:30 | 2025-07-16 | 2026-01-15 |
 | [bist der grund](https://open.spotify.com/track/4iaRsFj5EfX9nTiQsQ5V19) | [Honeylicious](https://open.spotify.com/artist/0bWfnK9W6xTS7zfXdEFNRI) | [bist der grund](https://open.spotify.com/album/1gMsqkYlM7X6nj6ELRmCXB) | 2:14 | 2024-07-16 | 2025-05-01 |
 | [Bist du verliebt?](https://open.spotify.com/track/5UTxeElkgEQWC6jMoOU4Nx) | [Nosi](https://open.spotify.com/artist/0mv36XaXX6I1mWH6tLdhIN), [Average](https://open.spotify.com/artist/7aue9NOP9WSoWfLbbd8JGp) | [Bist du verliebt?](https://open.spotify.com/album/1BsVAEUvrS6xAk1Q5377GY) | 2:36 | 2023-07-19 | 2023-10-26 |
@@ -657,6 +658,7 @@
 | [Hide and Peak](https://open.spotify.com/track/10pnX71sFeDJZpBQvD83CW) | [MATONDO](https://open.spotify.com/artist/4wLcJ0gkSmc381jcHAEjxt) | [COMPLEX I](https://open.spotify.com/album/0VyoeAVms2S9Z2DTQlkntt) | 1:40 | 2023-06-28 | 2024-01-04 |
 | [Hide And Seek](https://open.spotify.com/track/3O7p4Q0e63OjkpD4dU7sjp) | [DIMILA](https://open.spotify.com/artist/1X7kdGnTbsIDXSDMYYpXI7) | [Hide And Seek](https://open.spotify.com/album/1KHPuMuMIVVXtJalNjkaVi) | 3:17 | 2023-04-05 | 2023-06-29 |
 | [Hide And Seek](https://open.spotify.com/track/3dmroJ1MVOD4JzVOzf1oxe) | [Josh Byrd](https://open.spotify.com/artist/03xvSzcyf45LgRL1j7ldBJ) | [Hide And Seek](https://open.spotify.com/album/0N20M3CmqLdf1ohsDJriWn) | 3:28 | 2023-03-08 | 2024-01-04 |
+| [Hide and Seek](https://open.spotify.com/track/4TnVMfyaAHPdKQH4BW7RPo) | [Neil Vine](https://open.spotify.com/artist/0syXXJljGnFbjMubQqHlXt) | [Hide and Seek](https://open.spotify.com/album/34XIsVeEvtiKq6et8Kieoe) | 4:50 | 2026-04-29 |  |
 | [Hier mit dir](https://open.spotify.com/track/5pC41zL2OyU6ajPbT5Cja4) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb) | [Hier mit dir](https://open.spotify.com/album/6YB6YVneRmgx2zzAtXz5FB) | 2:58 | 2025-11-12 | 2026-03-12 |
 | [High Again](https://open.spotify.com/track/6suMLfjKlzmYgPb5SiV0Rs) | [Coucou Babe](https://open.spotify.com/artist/64oYZ9wab5dkE4IrGVwPz0) | [High Again](https://open.spotify.com/album/4eLCLiwRIQGAqMUk1VRafi) | 3:29 | 2023-01-04 | 2024-01-04 |
 | [High Expectations](https://open.spotify.com/track/6Itg1Mx1mNAUVaSS7Q3LmS) | [Mimi](https://open.spotify.com/artist/1L2ghKGdjCxlemka3gOyif) | [High Expectations](https://open.spotify.com/album/22du9HwMI8OBYb30fGFiRJ) | 2:49 | 2023-11-22 | 2024-02-15 |
@@ -1197,6 +1199,7 @@
 | [Rosenkohl](https://open.spotify.com/track/2cJYzrox3QphJpiwqAVwis) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Rosenkohl](https://open.spotify.com/album/3NQOMc1QfESj79ZSzfA0C5) | 2:42 | 2023-09-27 | 2024-03-09 |
 | [Rosenkohl](https://open.spotify.com/track/5imD5rZGzUiekhPFNy87m7) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Rosenkohl](https://open.spotify.com/album/5srSpRi5eecnIzIWU3dxlQ) | 2:42 | 2024-02-21 | 2024-03-28 |
 | [rot](https://open.spotify.com/track/1SgZsKhdUZMfzlDn0m2Zxp) | [yuice](https://open.spotify.com/artist/3HzRdBRqO4fYCxe50wLXx7), [THANI](https://open.spotify.com/artist/5jHALRUt9wOCZcJVyLPdRh) | [rot](https://open.spotify.com/album/3VXcIEL0dPR7GIiw6hqRMp) | 2:30 | 2025-11-12 | 2026-04-16 |
+| [rote augen](https://open.spotify.com/track/05rLYOXgp7FhUjtiIv2ywI) | [JAY](https://open.spotify.com/artist/4QtAqd6KkuysCHWw96R9pe) | [rote augen](https://open.spotify.com/album/2nJX5vtDUHJFPLK5FbGmQy) | 3:02 | 2026-04-29 |  |
 | [Roter Panda](https://open.spotify.com/track/5o0eyaSST2DOLTklv4wbi1) | [puni.](https://open.spotify.com/artist/7HdTH40abg8Vzc6b1paN6a) | [Roter Panda](https://open.spotify.com/album/7m98nn7oSdKbFUdKaflITi) | 2:21 | 2024-03-20 | 2024-04-11 |
 | [Rough](https://open.spotify.com/track/6BoJLaVyVxyVRuUOqnTaYt) | [TONI MOR](https://open.spotify.com/artist/42BwyMTFHszNwXEnPc8gIJ) | [Rough](https://open.spotify.com/album/0DWhVS9ANfq3s1g6rMaDg0) | 2:34 | 2026-02-18 |  |
 | [Round Around](https://open.spotify.com/track/1zPssv4lqLQEm1AawunhoS) | [JA:CK](https://open.spotify.com/artist/33roiDwMgXEydzvBwn9NR7) | [Round Around](https://open.spotify.com/album/5zimKf9QPGPHWY6bpz4CDp) | 7:40 | 2023-02-08 | 2023-03-23 |
@@ -1578,7 +1581,7 @@
 | [Whats on Your Mind](https://open.spotify.com/track/40dkjQM7ddC172gEwXHOIV) | [PIA](https://open.spotify.com/artist/6bs3OpCmbpOfU5eEW9QvdB) | [Whats on Your Mind](https://open.spotify.com/album/4P1hYqdBH3Vq5i1eRVTP8I) | 3:05 | 2026-04-22 |  |
 | [when all is still the same](https://open.spotify.com/track/3j6FAiwDRMJsnS0r8Pi20A) | [Karo Lynn](https://open.spotify.com/artist/6kTgqFXtx6GogRc1rp81W7) | [when all is still the same](https://open.spotify.com/album/2AXUDxMSQiKMmdAWLZtLAB) | 3:34 | 2022-08-31 | 2022-12-01 |
 | [When I Was Born](https://open.spotify.com/track/0FRodw2mg6dJJ44fzhjJrn) | [Ala Cya](https://open.spotify.com/artist/3TLd5f667Tonr2UxbSnaWV) | [When I Was Born](https://open.spotify.com/album/1cdqQIS7uKk3mRK1lyCDPo) | 2:36 | 2022-01-05 | 2022-01-20 |
-| [WHEN I WAS SIX](https://open.spotify.com/track/44JXawv2ZPm9oX8qvb85Lx) | [PURPLE](https://open.spotify.com/artist/4Ipvi1vK7lMhA5E5i3WjKr) | [WHEN I WAS SIX](https://open.spotify.com/album/2EX5IqmZDcI8Tmyi8aKjvn) | 3:13 | 2026-03-04 |  |
+| [WHEN I WAS SIX](https://open.spotify.com/track/44JXawv2ZPm9oX8qvb85Lx) | [PURPLE](https://open.spotify.com/artist/4Ipvi1vK7lMhA5E5i3WjKr) | [WHEN I WAS SIX](https://open.spotify.com/album/2EX5IqmZDcI8Tmyi8aKjvn) | 3:13 | 2026-03-04 | 2026-04-30 |
 | [When I'm With You](https://open.spotify.com/track/7C8VN4OpII4ZnnaoxkgzBc) | [filt](https://open.spotify.com/artist/5oTw2ED95kOO25K6njQDNL) | [On My Windowsill](https://open.spotify.com/album/2gd7Mm7HJwItWwTixHpEpe) | 3:25 | 2023-11-15 | 2024-01-11 |
 | [When It Hits Me](https://open.spotify.com/track/027tgJp4xdyRUWAXDxmbqe) | [Lanie's Willow](https://open.spotify.com/artist/79inB1a5ZcMTdNonzPonTx) | [When It Hits Me](https://open.spotify.com/album/1uZktpNb5wLQYdBesDCrP3) | 3:31 | 2022-07-27 | 2022-08-18 |
 | [Where Are We Going](https://open.spotify.com/track/0efaZ3dCcrSjhyvGhxjJIM) | [BLINDT](https://open.spotify.com/artist/7oKx6QToQHykXv1Q6948OX) | [Where Are We Going](https://open.spotify.com/album/4PU3P8VVbqdlIJHeUwiwGX) | 2:43 | 2022-06-29 | 2022-07-14 |
@@ -1621,7 +1624,7 @@
 | [Worth It](https://open.spotify.com/track/48g5nJtoHS4nwoJAXJYN5Q) | [Miss Sophy](https://open.spotify.com/artist/0eWBXmmeiJ0Z2Ue7HPmk1d) | [Naked](https://open.spotify.com/album/4jBzQ1FPyCESGbjygOnHer) | 3:16 | 2022-07-06 | 2022-07-28 |
 | [wozu](https://open.spotify.com/track/0IotItWNpsM4iuKqxPcJBo) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [wozu](https://open.spotify.com/album/6xLt2KL3QAY3gn92kpswz2) | 3:22 | 2023-07-05 | 2023-11-30 |
 | [Wrong With It](https://open.spotify.com/track/6OgIq8VLvlv9lJlu8eK8ug) | [Kirmont](https://open.spotify.com/artist/0ksAJkCLiR6U4wVFTAnUqn) | [Wrong With It](https://open.spotify.com/album/1JDHCXjrCfge13QEWmW720) | 3:26 | 2023-07-19 | 2023-09-14 |
-| [Wunsch im All](https://open.spotify.com/track/21ju4u7fJbdzRXDSfO9F21) | [Kresse 3](https://open.spotify.com/artist/57GQk5c7JIa9ABP097bOiZ) | [Wunsch im All](https://open.spotify.com/album/7hTu5KUsu0Zx6GPUgEcg21) | 4:13 | 2026-03-11 |  |
+| [Wunsch im All](https://open.spotify.com/track/21ju4u7fJbdzRXDSfO9F21) | [Kresse 3](https://open.spotify.com/artist/57GQk5c7JIa9ABP097bOiZ) | [Wunsch im All](https://open.spotify.com/album/7hTu5KUsu0Zx6GPUgEcg21) | 4:13 | 2026-03-11 | 2026-04-30 |
 | [www she hot](https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [www she hot](https://open.spotify.com/album/1gOGatI2LhhVtiMpAspFFm) | 4:14 | 2023-09-13 | 2024-01-04 |
 | [Xari](https://open.spotify.com/track/5qaqvD5nZtGxtny6qOVIbz) | [Sumo](https://open.spotify.com/artist/0kXNezohhv8UjG1hIzAPmr), [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Xari](https://open.spotify.com/album/5os47ea7Ti24JiWWKx2f3x) | 2:35 | 2022-09-21 | 2023-01-26 |
 | [Yellow Day](https://open.spotify.com/track/4dNJSviHhgKm24XieDLb8Z) | [Osta Love](https://open.spotify.com/artist/5CFXAItA9r3FHci6SsFFGf) | [Yellow Day](https://open.spotify.com/album/0iHYEKMtVnenb5vNjlBFNi) | 3:52 | 2024-05-08 | 2024-11-14 |

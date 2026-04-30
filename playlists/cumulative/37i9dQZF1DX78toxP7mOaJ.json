@@ -5920,7 +5920,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 187066,
       "name": "C.L.U.T.T.E.R.",
       "url": "https://open.spotify.com/track/5072nQ1LV3RIMf2BaHfEIz"
@@ -7630,7 +7630,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 141906,
       "name": "Cold",
       "url": "https://open.spotify.com/track/0DvHH9RfqnYdwdse9q2k65"
@@ -9558,7 +9558,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 257216,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/6t6J3bUrnxFAiqZXTG7E7S"
@@ -18648,7 +18648,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 214304,
       "name": "I Know!",
       "url": "https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t"
@@ -20739,6 +20739,24 @@
     },
     {
       "album": {
+        "name": "JUMPER",
+        "url": "https://open.spotify.com/album/0gTynOdimhUGM0gVSdigjT"
+      },
+      "artists": [
+        {
+          "name": "casi",
+          "url": "https://open.spotify.com/artist/08KCycW58Ksyv5y5QaTyXH"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182160,
+      "name": "JUMPER",
+      "url": "https://open.spotify.com/track/1FhHMqeJKNd20Gz0K1EimY"
+    },
+    {
+      "album": {
         "name": "Juniper Street",
         "url": "https://open.spotify.com/album/2TgrGVUOAuStONkQcJKNY6"
       },
@@ -21348,7 +21366,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 201360,
       "name": "Kitchen Sink",
       "url": "https://open.spotify.com/track/2CswjaH1pCgKpogjYnY5HS"
@@ -26175,6 +26193,24 @@
     },
     {
       "album": {
+        "name": "No Lock, No Prayer",
+        "url": "https://open.spotify.com/album/7AiLvbYmoHveZmeRaTsTvX"
+      },
+      "artists": [
+        {
+          "name": "Snarls",
+          "url": "https://open.spotify.com/artist/3yZV7kMGClXfw0xaPAlImS"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141016,
+      "name": "No Lock, No Prayer",
+      "url": "https://open.spotify.com/track/5jbUTMJKGtUGdLqrlMdYpK"
+    },
+    {
+      "album": {
         "name": "TV Movie/No Love",
         "url": "https://open.spotify.com/album/5aF47JUfFoGCAzPypjKpAW"
       },
@@ -30784,7 +30820,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 254753,
       "name": "Rule 31",
       "url": "https://open.spotify.com/track/7pAfFtGxND5IaeRzOuPHcJ"
@@ -31415,6 +31451,24 @@
     },
     {
       "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb"
+      },
+      "artists": [
+        {
+          "name": "Swapmeet",
+          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204202,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL"
+    },
+    {
+      "album": {
         "name": "Sandcastle",
         "url": "https://open.spotify.com/album/2PPyaxI6VYNSGJZM8XaVlT"
       },
@@ -31538,6 +31592,24 @@
       "duration_ms": 199009,
       "name": "Say It",
       "url": "https://open.spotify.com/track/5ede29LU651zKq5FLOJrZ9"
+    },
+    {
+      "album": {
+        "name": "Say It Again",
+        "url": "https://open.spotify.com/album/6C0RCTNW6U16bg1sPVwtGl"
+      },
+      "artists": [
+        {
+          "name": "untitled",
+          "url": "https://open.spotify.com/artist/1y7Pp7kmnCxZ61qjiLzzYx"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190267,
+      "name": "Say It Again",
+      "url": "https://open.spotify.com/track/1HKTS1MCtokxqYbPUAYMzt"
     },
     {
       "album": {
@@ -33906,6 +33978,24 @@
       "duration_ms": 108346,
       "name": "Space/Smile",
       "url": "https://open.spotify.com/track/7K6SmF9YCz6cuW6vUyPQWs"
+    },
+    {
+      "album": {
+        "name": "Spacey",
+        "url": "https://open.spotify.com/album/364ms6awqRPNolPlw7Pf8p"
+      },
+      "artists": [
+        {
+          "name": "The Rose Hips",
+          "url": "https://open.spotify.com/artist/6RYLjdFZYkGUP2BjaJHAsX"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189642,
+      "name": "Spacey",
+      "url": "https://open.spotify.com/track/0iIvDVbTgFV8a06FiVSjxO"
     },
     {
       "album": {
@@ -36776,6 +36866,24 @@
       "duration_ms": 156816,
       "name": "The End",
       "url": "https://open.spotify.com/track/7M4BBBTsQULD9tlcl54IpD"
+    },
+    {
+      "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx"
+      },
+      "artists": [
+        {
+          "name": "THEATRE",
+          "url": "https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259053,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT"
     },
     {
       "album": {

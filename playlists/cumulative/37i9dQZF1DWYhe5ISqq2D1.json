@@ -4493,6 +4493,24 @@
     },
     {
       "album": {
+        "name": "The Crying Xpress",
+        "url": "https://open.spotify.com/album/0GdSUTV7AnaWKQPWYTrqLN"
+      },
+      "artists": [
+        {
+          "name": "Le Makeup",
+          "url": "https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233266,
+      "name": "hold on",
+      "url": "https://open.spotify.com/track/3lFeBQyafTkN70nIv5KAaM"
+    },
+    {
+      "album": {
         "name": "For Life",
         "url": "https://open.spotify.com/album/3q0k8fPXOh4Up1zGcwErJK"
       },
@@ -10520,24 +10538,6 @@
       "duration_ms": 139836,
       "name": "Toxic Luv",
       "url": "https://open.spotify.com/track/3mi4Gwmur1Wejivzohm3xS"
-    },
-    {
-      "album": {
-        "name": "The Crying Xpress",
-        "url": "https://open.spotify.com/album/0GdSUTV7AnaWKQPWYTrqLN"
-      },
-      "artists": [
-        {
-          "name": "Le Makeup",
-          "url": "https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc"
-        }
-      ],
-      "date_added": "2026-04-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/3lFeBQyafTkN70nIv5KAaM"
     },
     {
       "album": {

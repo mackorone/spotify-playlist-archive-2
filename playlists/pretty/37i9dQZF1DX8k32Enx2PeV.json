@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 16368,
+  "num_followers": 16379,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -691,18 +691,22 @@
     {
       "added_at": "2026-04-24 04:59:23",
       "album": {
-        "name": "Alas Rotas",
-        "url": "https://open.spotify.com/album/1gldREJ19wR9LsbMCosp3w"
+        "name": "Pedacito de Playa (Remix)",
+        "url": "https://open.spotify.com/album/0imbRSXYfskLHqDOQ50E61"
       },
       "artists": [
         {
-          "name": "Miguel Bueno",
-          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Arg\u00fcello",
+          "url": "https://open.spotify.com/artist/6igd1VAlbbrTDCMFLXfcwy"
         }
       ],
-      "duration_ms": 160882,
-      "name": "Alas Rotas",
-      "url": "https://open.spotify.com/track/6Aqqjb3HuSNlLLd6gCdAqv"
+      "duration_ms": 197294,
+      "name": "Pedacito de Playa - Remix",
+      "url": "https://open.spotify.com/track/6tMkEfwBSGx32v2Pe04o7q"
     },
     {
       "added_at": "2026-04-24 04:59:23",
@@ -723,22 +727,18 @@
     {
       "added_at": "2026-04-24 04:59:23",
       "album": {
-        "name": "Pedacito de Playa (Remix)",
-        "url": "https://open.spotify.com/album/0imbRSXYfskLHqDOQ50E61"
+        "name": "Alas Rotas",
+        "url": "https://open.spotify.com/album/1gldREJ19wR9LsbMCosp3w"
       },
       "artists": [
         {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        },
-        {
-          "name": "Arg\u00fcello",
-          "url": "https://open.spotify.com/artist/6igd1VAlbbrTDCMFLXfcwy"
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
         }
       ],
-      "duration_ms": 197294,
-      "name": "Pedacito de Playa - Remix",
-      "url": "https://open.spotify.com/track/6tMkEfwBSGx32v2Pe04o7q"
+      "duration_ms": 160882,
+      "name": "Alas Rotas",
+      "url": "https://open.spotify.com/track/6Aqqjb3HuSNlLLd6gCdAqv"
     },
     {
       "added_at": "2026-04-24 04:59:23",
@@ -863,22 +863,18 @@
     {
       "added_at": "2026-04-24 04:59:23",
       "album": {
-        "name": "Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/2B8V0BWHYqDKaBgzfoGc4v"
+        "name": "Playita",
+        "url": "https://open.spotify.com/album/1Abywyg2e2Vr8P1pPZUwzZ"
       },
       "artists": [
         {
-          "name": "10 QUI",
-          "url": "https://open.spotify.com/artist/7IdLxoTRYCmshnnFh8V6Fq"
-        },
-        {
-          "name": "Esteban Rojas",
-          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
         }
       ],
-      "duration_ms": 180652,
-      "name": "Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/3HtgDkkz75AuFIPA8Pfw6X"
+      "duration_ms": 150588,
+      "name": "Playita",
+      "url": "https://open.spotify.com/track/2WowKsE6B5QEXiYTVCHogG"
     },
     {
       "added_at": "2026-04-24 04:59:23",
@@ -899,18 +895,22 @@
     {
       "added_at": "2026-04-24 04:59:23",
       "album": {
-        "name": "Playita",
-        "url": "https://open.spotify.com/album/1Abywyg2e2Vr8P1pPZUwzZ"
+        "name": "Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/2B8V0BWHYqDKaBgzfoGc4v"
       },
       "artists": [
         {
-          "name": "Barboza",
-          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+          "name": "10 QUI",
+          "url": "https://open.spotify.com/artist/7IdLxoTRYCmshnnFh8V6Fq"
+        },
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
         }
       ],
-      "duration_ms": 150588,
-      "name": "Playita",
-      "url": "https://open.spotify.com/track/2WowKsE6B5QEXiYTVCHogG"
+      "duration_ms": 180652,
+      "name": "Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3HtgDkkz75AuFIPA8Pfw6X"
     },
     {
       "added_at": "2026-04-24 04:59:23",

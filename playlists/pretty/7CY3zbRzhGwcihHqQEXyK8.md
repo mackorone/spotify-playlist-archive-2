@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 likes - 746 songs - 1 day 13 hr 32 min
+[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 likes - 755 songs - 1 day 13 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -754,5 +754,14 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 | 744 | [Tryna Do](https://open.spotify.com/track/2DQ63DEphAwNF8Bti0DkHg) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey), [senxual](https://open.spotify.com/artist/7be95mEeb9oARgZWBfg1BF) | [Fur&B](https://open.spotify.com/album/3x3NS9c8Unk5Lsz5iHBWM5) | 2:36 |
 | 745 | [Baddie](https://open.spotify.com/track/3mdvRHoij9c39IUYGmqLXc) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey), [senxual](https://open.spotify.com/artist/7be95mEeb9oARgZWBfg1BF) | [Fur&B](https://open.spotify.com/album/3x3NS9c8Unk5Lsz5iHBWM5) | 2:09 |
 | 746 | [Furry Princess](https://open.spotify.com/track/7H0jX1NIimAGyKBpbSxr4Z) | [vemaol](https://open.spotify.com/artist/4tKFG6Ty5mlKc8SH8Szuey), [senxual](https://open.spotify.com/artist/7be95mEeb9oARgZWBfg1BF) | [Fur&B](https://open.spotify.com/album/3x3NS9c8Unk5Lsz5iHBWM5) | 2:34 |
+| 747 | [Memories](https://open.spotify.com/track/0JsEEg70TfU4AZg4eMr3VE) | [NyxTheShield](https://open.spotify.com/artist/45Thh01bYz4UDmEFjU4tvT) | [Glitchtale: LOVE Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGFEkmnatJh9PPIQsIWPK) | 1:26 |
+| 748 | [By My Side](https://open.spotify.com/track/652JUcthRwrbKmuEq7Or4j) | [NyxTheShield](https://open.spotify.com/artist/45Thh01bYz4UDmEFjU4tvT) | [Glitchtale: LOVE Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGFEkmnatJh9PPIQsIWPK) | 0:40 |
+| 749 | [A Familiar Theme](https://open.spotify.com/track/7xR66BqWNEepfkJRlhh1Hf) | [NyxTheShield](https://open.spotify.com/artist/45Thh01bYz4UDmEFjU4tvT) | [Glitchtale: LOVE Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGFEkmnatJh9PPIQsIWPK) | 1:10 |
+| 750 | [Powerless](https://open.spotify.com/track/3b1dAvkyrZNH9nFa7sJ2xt) | [NyxTheShield](https://open.spotify.com/artist/45Thh01bYz4UDmEFjU4tvT) | [Glitchtale: LOVE Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGFEkmnatJh9PPIQsIWPK) | 1:53 |
+| 751 | [A Message](https://open.spotify.com/track/2VLTogzU6AEyegGHsg95Oz) | [NyxTheShield](https://open.spotify.com/artist/45Thh01bYz4UDmEFjU4tvT) | [Glitchtale: LOVE Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGFEkmnatJh9PPIQsIWPK) | 1:35 |
+| 752 | [Regrets](https://open.spotify.com/track/2EQwFWurrvmjX2OYcooNFd) | [NyxTheShield](https://open.spotify.com/artist/45Thh01bYz4UDmEFjU4tvT) | [Glitchtale: LOVE Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGFEkmnatJh9PPIQsIWPK) | 1:54 |
+| 753 | [Unmasked Emotions](https://open.spotify.com/track/3jXN0VoTdkaLToxG8mEjgd) | [NyxTheShield](https://open.spotify.com/artist/45Thh01bYz4UDmEFjU4tvT) | [Glitchtale: LOVE Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGFEkmnatJh9PPIQsIWPK) | 1:35 |
+| 754 | [Love?](https://open.spotify.com/track/2K7zRud1XevQe5NOyk1APz) | [NyxTheShield](https://open.spotify.com/artist/45Thh01bYz4UDmEFjU4tvT) | [Glitchtale: LOVE Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGFEkmnatJh9PPIQsIWPK) | 7:40 |
+| 755 | [The Undying](https://open.spotify.com/track/1zbaRXsfoRGAvzlASLsujq) | [NyxTheShield](https://open.spotify.com/artist/45Thh01bYz4UDmEFjU4tvT) | [Glitchtale: LOVE Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGFEkmnatJh9PPIQsIWPK) | 4:02 |
 
-Snapshot ID: `AAABtNQt/iYl5RRyYs+jx5UVCuiU79pe`
+Snapshot ID: `AAABte7Kw9m7J9BbfKUiAMdeQFGXzR0w`

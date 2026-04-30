@@ -1,6 +1,6 @@
 {
   "description": "Le sommeil, c'est la sant\u00e9, alors laissez-vous bercer. Photo : Alain Roche",
-  "num_followers": 33271,
+  "num_followers": 33297,
   "original_name": "Douce nuit",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-03-18 14:58:07",
       "album": {
-        "name": "Pines and Cedars",
-        "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
-      },
-      "artists": [
-        {
-          "name": "Logan Jameison",
-          "url": "https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt"
-        }
-      ],
-      "duration_ms": 150898,
-      "name": "Pines and Cedars",
-      "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
-    },
-    {
-      "added_at": "2026-03-18 14:58:07",
-      "album": {
         "name": "Mystic Rivers",
         "url": "https://open.spotify.com/album/2J5LFFXdwIVXxLSmm3wxej"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 191250,
       "name": "Mystic Rivers",
       "url": "https://open.spotify.com/track/24qUwzHcqj4x9JIJ5FP5JO"
+    },
+    {
+      "added_at": "2026-03-18 14:58:07",
+      "album": {
+        "name": "Pines and Cedars",
+        "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
+      },
+      "artists": [
+        {
+          "name": "Logan Jameison",
+          "url": "https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt"
+        }
+      ],
+      "duration_ms": 150898,
+      "name": "Pines and Cedars",
+      "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
     },
     {
       "added_at": "2026-03-18 14:58:07",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-03-18 14:58:07",
       "album": {
-        "name": "Silent Among Strangers",
-        "url": "https://open.spotify.com/album/6O8w2goMMDonSZnugTW4kL"
-      },
-      "artists": [
-        {
-          "name": "Yeer Ifinies",
-          "url": "https://open.spotify.com/artist/3GOZgVR0H4p50c5LaZ8kQx"
-        }
-      ],
-      "duration_ms": 150180,
-      "name": "Silent Among Strangers",
-      "url": "https://open.spotify.com/track/0QesMtYIzZ8yLPbSNYXqW1"
-    },
-    {
-      "added_at": "2026-03-18 14:58:07",
-      "album": {
         "name": "Mare Nostrum",
         "url": "https://open.spotify.com/album/0ZMMkZ9tnJNTQZf66cHlp7"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 195416,
       "name": "Mare Nostrum",
       "url": "https://open.spotify.com/track/08NywOqVYmiuQ8mLpQaUeG"
+    },
+    {
+      "added_at": "2026-03-18 14:58:07",
+      "album": {
+        "name": "Silent Among Strangers",
+        "url": "https://open.spotify.com/album/6O8w2goMMDonSZnugTW4kL"
+      },
+      "artists": [
+        {
+          "name": "Yeer Ifinies",
+          "url": "https://open.spotify.com/artist/3GOZgVR0H4p50c5LaZ8kQx"
+        }
+      ],
+      "duration_ms": 150180,
+      "name": "Silent Among Strangers",
+      "url": "https://open.spotify.com/track/0QesMtYIzZ8yLPbSNYXqW1"
     },
     {
       "added_at": "2026-03-18 14:58:07",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-03-18 14:58:07",
       "album": {
-        "name": "Testimony (EP)",
-        "url": "https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Melton",
-          "url": "https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5"
-    },
-    {
-      "added_at": "2026-03-18 14:58:07",
-      "album": {
         "name": "Quiet Moments",
         "url": "https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 120418,
       "name": "Quiet Moments",
       "url": "https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc"
+    },
+    {
+      "added_at": "2026-03-18 14:58:07",
+      "album": {
+        "name": "Testimony (EP)",
+        "url": "https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Melton",
+          "url": "https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5"
     },
     {
       "added_at": "2026-03-18 14:58:07",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-03-18 14:58:07",
       "album": {
-        "name": "Stoevsky",
-        "url": "https://open.spotify.com/album/1XoVZDc6TPnu1OOAP5Wvjb"
-      },
-      "artists": [
-        {
-          "name": "Ledetraad",
-          "url": "https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Stoevsky",
-      "url": "https://open.spotify.com/track/41s0GDVHUXD0F7uKLAdJFD"
-    },
-    {
-      "added_at": "2026-03-18 14:58:07",
-      "album": {
         "name": "Lupi",
         "url": "https://open.spotify.com/album/5NMoaa8SgFEwrCKK3gJN68"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 172482,
       "name": "Blue Skies Are Coming",
       "url": "https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv"
+    },
+    {
+      "added_at": "2026-03-18 14:58:07",
+      "album": {
+        "name": "Stoevsky",
+        "url": "https://open.spotify.com/album/1XoVZDc6TPnu1OOAP5Wvjb"
+      },
+      "artists": [
+        {
+          "name": "Ledetraad",
+          "url": "https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Stoevsky",
+      "url": "https://open.spotify.com/track/41s0GDVHUXD0F7uKLAdJFD"
     },
     {
       "added_at": "2026-03-18 14:58:07",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-03-18 14:58:07",
       "album": {
-        "name": "Sibylline",
-        "url": "https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ"
-      },
-      "artists": [
-        {
-          "name": "Corinne Blanchard",
-          "url": "https://open.spotify.com/artist/2zDTFnpiqFdhI2VhxBryyG"
-        }
-      ],
-      "duration_ms": 131400,
-      "name": "Sibylline",
-      "url": "https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P"
-    },
-    {
-      "added_at": "2026-03-18 14:58:07",
-      "album": {
         "name": "Romanze",
         "url": "https://open.spotify.com/album/5h6IMQWryeG5cqZepQdKSn"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 131146,
       "name": "Romanze",
       "url": "https://open.spotify.com/track/3voEoccU1Hg1QdE0j4qxw1"
+    },
+    {
+      "added_at": "2026-03-18 14:58:07",
+      "album": {
+        "name": "Sibylline",
+        "url": "https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ"
+      },
+      "artists": [
+        {
+          "name": "Corinne Blanchard",
+          "url": "https://open.spotify.com/artist/2zDTFnpiqFdhI2VhxBryyG"
+        }
+      ],
+      "duration_ms": 131400,
+      "name": "Sibylline",
+      "url": "https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P"
     },
     {
       "added_at": "2026-03-18 14:58:07",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-03-18 14:58:07",
       "album": {
-        "name": "Taciturn",
-        "url": "https://open.spotify.com/album/5xnqoJGg61x04VqCJjBeG0"
-      },
-      "artists": [
-        {
-          "name": "Julius Cuvier",
-          "url": "https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ"
-        }
-      ],
-      "duration_ms": 179181,
-      "name": "Taciturn",
-      "url": "https://open.spotify.com/track/6k4vTbYOi9pLZHaJYhBRu1"
-    },
-    {
-      "added_at": "2026-03-18 14:58:07",
-      "album": {
         "name": "Chuchotement",
         "url": "https://open.spotify.com/album/291s2oBqqd2yA0AmII2KTy"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 134466,
       "name": "Chuchotement",
       "url": "https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi"
+    },
+    {
+      "added_at": "2026-03-18 14:58:07",
+      "album": {
+        "name": "Taciturn",
+        "url": "https://open.spotify.com/album/5xnqoJGg61x04VqCJjBeG0"
+      },
+      "artists": [
+        {
+          "name": "Julius Cuvier",
+          "url": "https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ"
+        }
+      ],
+      "duration_ms": 179181,
+      "name": "Taciturn",
+      "url": "https://open.spotify.com/track/6k4vTbYOi9pLZHaJYhBRu1"
     },
     {
       "added_at": "2026-03-18 14:58:07",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-03-18 14:58:07",
       "album": {
-        "name": "Sequences",
-        "url": "https://open.spotify.com/album/3eSV3Kevxi5cSiFyNmkiFD"
-      },
-      "artists": [
-        {
-          "name": "M\u00f3ret Labino",
-          "url": "https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Sequences",
-      "url": "https://open.spotify.com/track/26TCO6nueNbCvXPvQs7Dma"
-    },
-    {
-      "added_at": "2026-03-18 14:58:07",
-      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 155704,
       "name": "Distance",
       "url": "https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX"
+    },
+    {
+      "added_at": "2026-03-18 14:58:07",
+      "album": {
+        "name": "Sequences",
+        "url": "https://open.spotify.com/album/3eSV3Kevxi5cSiFyNmkiFD"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3ret Labino",
+          "url": "https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Sequences",
+      "url": "https://open.spotify.com/track/26TCO6nueNbCvXPvQs7Dma"
     },
     {
       "added_at": "2026-03-18 14:58:07",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2026-03-18 14:58:07",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD"
+        "name": "Act Of Reconciling",
+        "url": "https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS"
       },
       "artists": [
         {
-          "name": "Carl Moir",
-          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
+          "name": "Herbe Matin",
+          "url": "https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5"
+      "duration_ms": 143400,
+      "name": "Act Of Reconciling",
+      "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
     },
     {
       "added_at": "2026-03-18 14:58:07",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2026-03-18 14:58:07",
       "album": {
-        "name": "Act Of Reconciling",
-        "url": "https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS"
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD"
       },
       "artists": [
         {
-          "name": "Herbe Matin",
-          "url": "https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv"
+          "name": "Carl Moir",
+          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
         }
       ],
-      "duration_ms": 143400,
-      "name": "Act Of Reconciling",
-      "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
+      "duration_ms": 196000,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5"
     },
     {
       "added_at": "2026-03-18 14:58:07",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-03-18 14:58:07",
       "album": {
+        "name": "Beyond The Horizon",
+        "url": "https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn"
+      },
+      "artists": [
+        {
+          "name": "Hakone",
+          "url": "https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "New Moon",
+      "url": "https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT"
+    },
+    {
+      "added_at": "2026-03-18 14:58:07",
+      "album": {
         "name": "Heavens Night",
         "url": "https://open.spotify.com/album/16wm0WGGZlJbAWqOrAraRF"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 138797,
       "name": "Heavens Night",
       "url": "https://open.spotify.com/track/3Tk6k58gIMjQln4tDhVPQV"
-    },
-    {
-      "added_at": "2026-03-18 14:58:07",
-      "album": {
-        "name": "The Toska",
-        "url": "https://open.spotify.com/album/3jyhzzpsA1ijejYGA3N3V2"
-      },
-      "artists": [
-        {
-          "name": "Lennon McKenna",
-          "url": "https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i"
-        }
-      ],
-      "duration_ms": 155107,
-      "name": "The Toska",
-      "url": "https://open.spotify.com/track/3B00y1wVSCix4zUW7tDCZx"
     },
     {
       "added_at": "2026-03-18 14:58:07",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2026-03-18 14:58:07",
       "album": {
-        "name": "Beyond The Horizon",
-        "url": "https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn"
+        "name": "The Toska",
+        "url": "https://open.spotify.com/album/3jyhzzpsA1ijejYGA3N3V2"
       },
       "artists": [
         {
-          "name": "Hakone",
-          "url": "https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI"
+          "name": "Lennon McKenna",
+          "url": "https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i"
         }
       ],
-      "duration_ms": 180000,
-      "name": "New Moon",
-      "url": "https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT"
+      "duration_ms": 155107,
+      "name": "The Toska",
+      "url": "https://open.spotify.com/track/3B00y1wVSCix4zUW7tDCZx"
     },
     {
       "added_at": "2026-03-18 14:58:07",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-03-18 14:58:07",
       "album": {
-        "name": "Glance Out A Casement Window",
-        "url": "https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L"
-      },
-      "artists": [
-        {
-          "name": "Janet Redger",
-          "url": "https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL"
-        }
-      ],
-      "duration_ms": 130164,
-      "name": "Glance Out A Casement Window",
-      "url": "https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J"
-    },
-    {
-      "added_at": "2026-03-18 14:58:07",
-      "album": {
         "name": "Mercurio",
         "url": "https://open.spotify.com/album/23r263kaH1Ph9D8vUTgY09"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 134650,
       "name": "Mercurio",
       "url": "https://open.spotify.com/track/4ZmKxpk6LQQkhW8mwWiIPP"
+    },
+    {
+      "added_at": "2026-03-18 14:58:07",
+      "album": {
+        "name": "Glance Out A Casement Window",
+        "url": "https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L"
+      },
+      "artists": [
+        {
+          "name": "Janet Redger",
+          "url": "https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL"
+        }
+      ],
+      "duration_ms": 130164,
+      "name": "Glance Out A Casement Window",
+      "url": "https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J"
     },
     {
       "added_at": "2026-03-18 14:58:07",
@@ -1435,86 +1435,6 @@
     {
       "added_at": "2026-03-18 14:58:07",
       "album": {
-        "name": "Hymn",
-        "url": "https://open.spotify.com/album/0Qy2yQC2LvEBpEDC8PMr89"
-      },
-      "artists": [
-        {
-          "name": "Matt Lingus",
-          "url": "https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5"
-        }
-      ],
-      "duration_ms": 177705,
-      "name": "Hymn",
-      "url": "https://open.spotify.com/track/1fyzSisXLaQ552QD31P4ot"
-    },
-    {
-      "added_at": "2026-03-18 14:58:07",
-      "album": {
-        "name": "Four Days With You",
-        "url": "https://open.spotify.com/album/2829sYIZlhdcS0VZ4oNin2"
-      },
-      "artists": [
-        {
-          "name": "Nina Fiadh",
-          "url": "https://open.spotify.com/artist/4nN747xiBnX6REwmnzlDfJ"
-        }
-      ],
-      "duration_ms": 172849,
-      "name": "Four Days With You",
-      "url": "https://open.spotify.com/track/7dGuSEYGWw0BJpjbe9nzZL"
-    },
-    {
-      "added_at": "2026-03-18 14:58:07",
-      "album": {
-        "name": "Laredo",
-        "url": "https://open.spotify.com/album/1bQGsaI0TyfTeZrg8JW3dq"
-      },
-      "artists": [
-        {
-          "name": "Davignon",
-          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Laredo",
-      "url": "https://open.spotify.com/track/4T9ej7a6gtJyQ5yFRO1vXc"
-    },
-    {
-      "added_at": "2026-03-18 14:58:07",
-      "album": {
-        "name": "Frozen Cloud",
-        "url": "https://open.spotify.com/album/7Au4LzrZg2bOzvIjJPYNtU"
-      },
-      "artists": [
-        {
-          "name": "IA Landon",
-          "url": "https://open.spotify.com/artist/26eN1lvWB6W7lyoPnGT4I2"
-        }
-      ],
-      "duration_ms": 136259,
-      "name": "3 A.M.",
-      "url": "https://open.spotify.com/track/2Ns0FbBGsOVhnr6hnJckbU"
-    },
-    {
-      "added_at": "2026-03-18 14:58:07",
-      "album": {
-        "name": "A Heap Of Broken Images",
-        "url": "https://open.spotify.com/album/4IJjuk9izSUymkjfhc9ZG1"
-      },
-      "artists": [
-        {
-          "name": "Kevin Lloyd",
-          "url": "https://open.spotify.com/artist/2rxmb9Wqs2GFwtlCeaJkHx"
-        }
-      ],
-      "duration_ms": 188735,
-      "name": "A Heap Of Broken Images",
-      "url": "https://open.spotify.com/track/6BwKf64Z6sOKV0sF94jQZL"
-    },
-    {
-      "added_at": "2026-03-18 14:58:07",
-      "album": {
         "name": "Les Arbres Parlent",
         "url": "https://open.spotify.com/album/2E1scdnYHnHAuYvJ30MGnr"
       },
@@ -1547,22 +1467,82 @@
     {
       "added_at": "2026-03-18 14:58:07",
       "album": {
-        "name": "Now and Then",
-        "url": "https://open.spotify.com/album/36lDqENCszoOFIp063zOH7"
+        "name": "Four Days With You",
+        "url": "https://open.spotify.com/album/2829sYIZlhdcS0VZ4oNin2"
       },
       "artists": [
         {
-          "name": "Elliott Jack Sansom",
-          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
-        },
-        {
-          "name": "Jacob David",
-          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+          "name": "Nina Fiadh",
+          "url": "https://open.spotify.com/artist/4nN747xiBnX6REwmnzlDfJ"
         }
       ],
-      "duration_ms": 141013,
-      "name": "Now and Then",
-      "url": "https://open.spotify.com/track/1U8o73TurMXghX2kqF99EG"
+      "duration_ms": 172849,
+      "name": "Four Days With You",
+      "url": "https://open.spotify.com/track/7dGuSEYGWw0BJpjbe9nzZL"
+    },
+    {
+      "added_at": "2026-03-18 14:58:07",
+      "album": {
+        "name": "Hymn",
+        "url": "https://open.spotify.com/album/0Qy2yQC2LvEBpEDC8PMr89"
+      },
+      "artists": [
+        {
+          "name": "Matt Lingus",
+          "url": "https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5"
+        }
+      ],
+      "duration_ms": 177705,
+      "name": "Hymn",
+      "url": "https://open.spotify.com/track/1fyzSisXLaQ552QD31P4ot"
+    },
+    {
+      "added_at": "2026-03-18 14:58:07",
+      "album": {
+        "name": "Frozen Cloud",
+        "url": "https://open.spotify.com/album/7Au4LzrZg2bOzvIjJPYNtU"
+      },
+      "artists": [
+        {
+          "name": "IA Landon",
+          "url": "https://open.spotify.com/artist/26eN1lvWB6W7lyoPnGT4I2"
+        }
+      ],
+      "duration_ms": 136259,
+      "name": "3 A.M.",
+      "url": "https://open.spotify.com/track/2Ns0FbBGsOVhnr6hnJckbU"
+    },
+    {
+      "added_at": "2026-03-18 14:58:07",
+      "album": {
+        "name": "Laredo",
+        "url": "https://open.spotify.com/album/1bQGsaI0TyfTeZrg8JW3dq"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Laredo",
+      "url": "https://open.spotify.com/track/4T9ej7a6gtJyQ5yFRO1vXc"
+    },
+    {
+      "added_at": "2026-03-18 14:58:07",
+      "album": {
+        "name": "A Heap Of Broken Images",
+        "url": "https://open.spotify.com/album/4IJjuk9izSUymkjfhc9ZG1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Lloyd",
+          "url": "https://open.spotify.com/artist/2rxmb9Wqs2GFwtlCeaJkHx"
+        }
+      ],
+      "duration_ms": 188735,
+      "name": "A Heap Of Broken Images",
+      "url": "https://open.spotify.com/track/6BwKf64Z6sOKV0sF94jQZL"
     },
     {
       "added_at": "2026-03-18 14:58:07",
@@ -1615,6 +1595,26 @@
       "duration_ms": 182500,
       "name": "Strosande",
       "url": "https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ"
+    },
+    {
+      "added_at": "2026-03-18 14:58:07",
+      "album": {
+        "name": "Now and Then",
+        "url": "https://open.spotify.com/album/36lDqENCszoOFIp063zOH7"
+      },
+      "artists": [
+        {
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        },
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        }
+      ],
+      "duration_ms": 141013,
+      "name": "Now and Then",
+      "url": "https://open.spotify.com/track/1U8o73TurMXghX2kqF99EG"
     },
     {
       "added_at": "2026-03-18 14:58:07",

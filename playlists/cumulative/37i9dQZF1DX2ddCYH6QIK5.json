@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: vilo, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: JAY, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -1138,6 +1138,24 @@
       "duration_ms": 177464,
       "name": "Alles Scheisse",
       "url": "https://open.spotify.com/track/3H1zM1uFstYvyEy8l0bisr"
+    },
+    {
+      "album": {
+        "name": "Alles so sch\u00f6n aufgebaut",
+        "url": "https://open.spotify.com/album/2D99zXqMEYebREzUY7DQWF"
+      },
+      "artists": [
+        {
+          "name": "Katharina Merker",
+          "url": "https://open.spotify.com/artist/4ftKWF7vLI7aCYPhUfEicy"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163803,
+      "name": "Alles so sch\u00f6n aufgebaut",
+      "url": "https://open.spotify.com/track/3i63QWWzM1hBGXopqzHpxL"
     },
     {
       "album": {
@@ -2850,7 +2868,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 134202,
       "name": "Bis ins Grab",
       "url": "https://open.spotify.com/track/14LsSpFqUqM9bG7s4MxKzV"
@@ -11988,6 +12006,24 @@
       "duration_ms": 208658,
       "name": "Hide And Seek",
       "url": "https://open.spotify.com/track/3dmroJ1MVOD4JzVOzf1oxe"
+    },
+    {
+      "album": {
+        "name": "Hide and Seek",
+        "url": "https://open.spotify.com/album/34XIsVeEvtiKq6et8Kieoe"
+      },
+      "artists": [
+        {
+          "name": "Neil Vine",
+          "url": "https://open.spotify.com/artist/0syXXJljGnFbjMubQqHlXt"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290625,
+      "name": "Hide and Seek",
+      "url": "https://open.spotify.com/track/4TnVMfyaAHPdKQH4BW7RPo"
     },
     {
       "album": {
@@ -21923,6 +21959,24 @@
     },
     {
       "album": {
+        "name": "rote augen",
+        "url": "https://open.spotify.com/album/2nJX5vtDUHJFPLK5FbGmQy"
+      },
+      "artists": [
+        {
+          "name": "JAY",
+          "url": "https://open.spotify.com/artist/4QtAqd6KkuysCHWw96R9pe"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182250,
+      "name": "rote augen",
+      "url": "https://open.spotify.com/track/05rLYOXgp7FhUjtiIv2ywI"
+    },
+    {
+      "album": {
         "name": "Roter Panda",
         "url": "https://open.spotify.com/album/7m98nn7oSdKbFUdKaflITi"
       },
@@ -28948,7 +29002,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 193000,
       "name": "WHEN I WAS SIX",
       "url": "https://open.spotify.com/track/44JXawv2ZPm9oX8qvb85Lx"
@@ -29734,7 +29788,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 253513,
       "name": "Wunsch im All",
       "url": "https://open.spotify.com/track/21ju4u7fJbdzRXDSfO9F21"

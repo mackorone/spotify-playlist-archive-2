@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Featuring, Blxst &amp; Big Sad 1900, Money Man &amp; more.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 33,742 likes - 121 songs - 5 hr 34 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 33,738 likes - 121 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

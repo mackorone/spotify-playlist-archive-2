@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: LE SSERAFIM (\ub974\uc138\ub77c\ud54c))",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: YUJU (\uc720\uc8fc))",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -1860,7 +1860,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 169073,
       "name": "CLIK CLAK",
       "url": "https://open.spotify.com/track/0Rq9lIn9fl4wiW9Tg72ifr"
@@ -3340,6 +3340,24 @@
       "duration_ms": 212280,
       "name": "FIRST",
       "url": "https://open.spotify.com/track/021L6LlBBtr34BmFRHd9Ic"
+    },
+    {
+      "album": {
+        "name": "First Love Is a Curse",
+        "url": "https://open.spotify.com/album/2iENz685ly97rfApjgS1cy"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "First Love Is a Curse",
+      "url": "https://open.spotify.com/track/6TW9ACpiJzS27WqiTQNN2T"
     },
     {
       "album": {
@@ -5329,6 +5347,24 @@
     },
     {
       "album": {
+        "name": "Key Beats",
+        "url": "https://open.spotify.com/album/0kBBaam9McJndyPBpfkWOK"
+      },
+      "artists": [
+        {
+          "name": "Keyveatz",
+          "url": "https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Key Beats",
+      "url": "https://open.spotify.com/track/78LggIu7ieohPUuP91SmBI"
+    },
+    {
+      "album": {
         "name": "Kill This Love",
         "url": "https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO"
       },
@@ -5376,7 +5412,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 176000,
       "name": "KILLA (Face the other me)",
       "url": "https://open.spotify.com/track/38LzWFA6AtLVoln4d4SI2S"

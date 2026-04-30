@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 214 songs - 13 hr 18 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 216 songs - 13 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,5 +222,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 212 | [How To Fish \[feat\. Reach\]](https://open.spotify.com/track/643DoQg4WfSiU4voJBdpEW) | [Dela](https://open.spotify.com/artist/3ZNUlWnJXhcuBaTJGnOO8O) | [Atmosphere Airlines Vol.1](https://open.spotify.com/album/1zcezEmMRB9zI8OPyFeVF4) | 3:08 |
 | 213 | [Earth Angel](https://open.spotify.com/track/2zcHqgikAH6wnSCdJbxDuF) | [Marcus D](https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV), [Cise Star](https://open.spotify.com/artist/36qxuXSQ41wS4jluKnDoWr) | [The Lone Wolf LP](https://open.spotify.com/album/68qY8sXCeiSwowYoAAkRTT) | 4:16 |
 | 214 | [Unstoppable](https://open.spotify.com/track/2l6PxsUHSZPbJyRr7AAWLg) | [Godfather Don](https://open.spotify.com/artist/7j91LXmuyKBXTykkvYfrQ2), [Jazz Spastiks](https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S) | [Writer's Delight](https://open.spotify.com/album/5hEhkAO8TIegcEk8hNHS36) | 3:37 |
+| 215 | [Cut Back](https://open.spotify.com/track/72R3P7eRAsJQpiaS9rV4XX) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Mental Trillness 2](https://open.spotify.com/album/4jKe82uh1vvZHkd2WuN1WG) | 2:27 |
+| 216 | [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 |
 
-Snapshot ID: `AAAgLsCOxg6ppwBKic3h2ZsDgbPfeAS9`
+Snapshot ID: `AAAgMLOo3zq8+4NKxAfTQ55OXjIQgtLn`

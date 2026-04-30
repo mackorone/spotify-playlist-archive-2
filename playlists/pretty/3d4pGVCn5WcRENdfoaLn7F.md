@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 647 likes - 96 songs - 5 hr 36 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 647 likes - 97 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,5 +104,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 94 | [SHARPEN](https://open.spotify.com/track/2Dfv6jg3y2YChiyeGXTOby) | [RedMoon](https://open.spotify.com/artist/1tRFUNiUD1F6JEUTa2aQAo) | [SHARPEN](https://open.spotify.com/album/7xghrLC6yKsigFWWGsjUcx) | 3:11 |
 | 95 | [Closer and Closer](https://open.spotify.com/track/1KXdZfYypUjsYI6EaDK9Rn) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:22 |
 | 96 | [I can never say goodbye](https://open.spotify.com/track/5Qo2AgUCYhrKlE63XHuXyB) | [Julian Phelps](https://open.spotify.com/artist/5SWUppAbeDxzYJYvjthlMZ), [Finn Marley](https://open.spotify.com/artist/4h8orojRb1n2nOdw3VLbQp) | [I can never say goodbye](https://open.spotify.com/album/3FnOhzdk1L2NoiTxpDrGfy) | 3:15 |
+| 97 | [BOGO Bodega](https://open.spotify.com/track/3TepkxGAUbD2KgxeePeSjP) | [dummy co.](https://open.spotify.com/artist/6r4qoWqXf8eQXCPHawb3RF), [Kool Karlo](https://open.spotify.com/artist/3dHzT8qGSboKwYhi7SMQUb) | [BOGO Bodega](https://open.spotify.com/album/37SByWcngj4Iu3IaJzXmEo) | 3:18 |
 
-Snapshot ID: `AAADW4vVWbwviTNZ46pz0ff02q8mxeLf`
+Snapshot ID: `AAADXN/7I8t6hpwETruheDNuS0UtaKKx`

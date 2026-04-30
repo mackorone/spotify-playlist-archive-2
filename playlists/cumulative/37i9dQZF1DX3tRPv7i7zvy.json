@@ -119,6 +119,28 @@
     },
     {
       "album": {
+        "name": "ASANA",
+        "url": "https://open.spotify.com/album/1IX1PCNExmr3K5ExB8faqK"
+      },
+      "artists": [
+        {
+          "name": "Mr Blayy",
+          "url": "https://open.spotify.com/artist/2wmlFVbnzQl8344TDxdAiZ"
+        },
+        {
+          "name": "Fahim Dumba",
+          "url": "https://open.spotify.com/artist/3rQMvcltVUru8FC92uY56R"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89620,
+      "name": "ASANA",
+      "url": "https://open.spotify.com/track/3unkTgCb5VBehD5EBcNgB5"
+    },
+    {
+      "album": {
         "name": "Aseda",
         "url": "https://open.spotify.com/album/5uw6BvKCIK8nlIlQFOP5v9"
       },
@@ -1150,7 +1172,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 176000,
       "name": "Monica",
       "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
@@ -1852,7 +1874,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 226809,
       "name": "TSOOBI (AKONOBA)",
       "url": "https://open.spotify.com/track/4jGGlJ79PIT8MA85gfCMSR"
@@ -1992,6 +2014,24 @@
       "duration_ms": 150000,
       "name": "Xtra Cool",
       "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
+    },
+    {
+      "album": {
+        "name": "Redemption Valley",
+        "url": "https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165981,
+      "name": "Yawa (Hosanna)",
+      "url": "https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP"
     },
     {
       "album": {

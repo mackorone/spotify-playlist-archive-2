@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 191200,
       "name": "Shoestrings",
       "url": "https://open.spotify.com/track/0QvqrTGC7FSolbg8rQbHGa"
@@ -1530,6 +1530,32 @@
       "duration_ms": 161200,
       "name": "Thiskidsnotalright",
       "url": "https://open.spotify.com/track/0dGPGavyiPtOdAGGi11pt3"
+    },
+    {
+      "album": {
+        "name": "And Now I'm Just Gnashing My Teeth",
+        "url": "https://open.spotify.com/album/6YLHjXokWtPT8ADt6F9bn4"
+      },
+      "artists": [
+        {
+          "name": "The Barbarians of California",
+          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
+        },
+        {
+          "name": "Tim McIlrath",
+          "url": "https://open.spotify.com/artist/1ha9OccsctLTOMCFWTpC9Z"
+        },
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215093,
+      "name": "Three Letters",
+      "url": "https://open.spotify.com/track/6s0l1IVuV120GoqteaEOod"
     },
     {
       "album": {

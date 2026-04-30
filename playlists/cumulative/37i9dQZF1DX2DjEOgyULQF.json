@@ -722,7 +722,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 151578,
       "name": "Blurred Valley",
       "url": "https://open.spotify.com/track/57f9MmWo5Vy8nUT4Hhwd4O"
@@ -7392,6 +7392,24 @@
       "duration_ms": 157200,
       "name": "Verdancy",
       "url": "https://open.spotify.com/track/3mBcz9IUFbbZOWPBRcqSVQ"
+    },
+    {
+      "album": {
+        "name": "Verdant Breath",
+        "url": "https://open.spotify.com/album/0AGD1E4F8e2GOAnZ48kFx9"
+      },
+      "artists": [
+        {
+          "name": "Miaquirele",
+          "url": "https://open.spotify.com/artist/3pmTNYkFYBysqyG5MzRujA"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157812,
+      "name": "Verdant Breath",
+      "url": "https://open.spotify.com/track/1ELwtIRAPr3gLgprbWjsmm"
     },
     {
       "album": {

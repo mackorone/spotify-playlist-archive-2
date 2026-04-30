@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 
 > 
 
-[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,552 likes - 553 songs - 1 day 12 hr 6 min
+[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,554 likes - 555 songs - 1 day 12 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -561,5 +561,7 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 | 551 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
 | 552 | [A Little Messed Up](https://open.spotify.com/track/5iDaEbPX8Lq2evx3ZpAgQU) | [june](https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X) | [A Little Messed Up](https://open.spotify.com/album/0Cb0KcevtzRaH7hmYxoeny) | 2:48 |
 | 553 | [Bite Marks](https://open.spotify.com/track/5EgvIjKtyop4T8afkuMiv6) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI) | [Welcome to Noxus \(Original Soundtrack from League of Legends\)](https://open.spotify.com/album/7oCUh77MwNd0x12QjA7F5K) | 3:10 |
+| 554 | [STFU](https://open.spotify.com/track/1RtOV5HTGBKiSpIOU8qU1b) | [Pixl Girl](https://open.spotify.com/artist/0fRpdVBiTK1PayMdFIMqmp), [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [STFU](https://open.spotify.com/album/3VQfA3XGJyC0XM9Gu3HsOF) | 1:55 |
+| 555 | [Papercut](https://open.spotify.com/track/3fjv1YnPIn2UDiGkMKvAFM) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Papercut](https://open.spotify.com/album/51ZkMRNlpeT4hRFCtRg2Xf) | 3:13 |
 
-Snapshot ID: `AAABbJi8elhCBQKmI//wfjABFh2W9yH0`
+Snapshot ID: `AAABbqlDWgVlvf+hrlaU1Xn6Z5UKl2Ff`

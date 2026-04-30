@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: Rol3ert *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/345643\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: Rol3ert *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/345797\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
   "name": "New Music Wednesday",
   "tracks": [
     {
@@ -3998,6 +3998,24 @@
       "duration_ms": 1739894,
       "name": "2026/4/22 Kan Sano\u306e\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u304c\u5230\u7740\uff01LANA\u306e\u65b0\u66f2\u3001\u5947\u5999\u793c\u592a\u90ce\u306e\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3082\uff01\u6771\u4eac\u9152\u5410\u5ea7\uff08Tokyo Shoegazer\uff09\u306e\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3001\u53f0\u6e7e\u306eWendy Wander\u3068\u3001JABBERLOOP\u306b\u3088\u308b\u30b3\u30e9\u30dc\u66f2\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01Lucky Kilimanjaro\u306e\u718a\u6728\u5e78\u4e38\u306e\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc\u3082\uff01",
       "url": "https://open.spotify.com/episode/5Mo986elFrtk6fad2hQfXW"
+    },
+    {
+      "album": {
+        "name": "New Music Wednesday [Podcast Edition]",
+        "url": "https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E"
+      },
+      "artists": [
+        {
+          "name": "New Music Wednesday [Podcast Edition]",
+          "url": "https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1333963,
+      "name": "2026/4/29 Rol3ert\u304c\u65b0\u66f2\u3092\u30ea\u30ea\u30fc\u30b9\uff01Mrs. GREEN APPLE\u306e\u5927\u68ee\u5143\u8cb4\u304c\u30bd\u30ed\u65b0\u66f2\u3092\u30ea\u30ea\u30fc\u30b9\uff01 Mall Boyz & Elle Teresa\u306e\u30b3\u30e9\u30dc\u66f2\u3001\u5343\u8449\u96c4\u559c & BABYWOODROSE\u306e\u30b3\u30e9\u30dc\u30a2\u30eb\u30d0\u30e0\u3001\u83c5\u539f\u572d\u306e\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01\uff01",
+      "url": "https://open.spotify.com/episode/0nUlcoiIiwk9h1bic7bn8O"
     },
     {
       "album": {
@@ -71743,6 +71761,24 @@
     },
     {
       "album": {
+        "name": "The Crying Xpress",
+        "url": "https://open.spotify.com/album/0GdSUTV7AnaWKQPWYTrqLN"
+      },
+      "artists": [
+        {
+          "name": "Le Makeup",
+          "url": "https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233266,
+      "name": "hold on",
+      "url": "https://open.spotify.com/track/3lFeBQyafTkN70nIv5KAaM"
+    },
+    {
+      "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/0WSFViphXCkNPkHwSiTuO3"
       },
@@ -72209,7 +72245,7 @@
     },
     {
       "album": {
-        "name": "home",
+        "name": "Home",
         "url": "https://open.spotify.com/album/0fvJD9PAXx2PUq5UDwBfq9"
       },
       "artists": [
@@ -72222,7 +72258,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 235501,
-      "name": "home",
+      "name": "Home",
       "url": "https://open.spotify.com/track/4BfX9oCLlrcCdcZHE4ftDV"
     },
     {
@@ -169451,24 +169487,6 @@
     },
     {
       "album": {
-        "name": "The Crying Xpress",
-        "url": "https://open.spotify.com/album/0GdSUTV7AnaWKQPWYTrqLN"
-      },
-      "artists": [
-        {
-          "name": "Le Makeup",
-          "url": "https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc"
-        }
-      ],
-      "date_added": "2026-04-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/3lFeBQyafTkN70nIv5KAaM"
-    },
-    {
-      "album": {
         "name": "Debugging",
         "url": "https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz"
       },
@@ -201780,6 +201798,24 @@
       "duration_ms": 326266,
       "name": "\u3082\u3046\u3044\u3061\u3069\u751f\u307e\u308c\u308b",
       "url": "https://open.spotify.com/track/6o9KWIl2RvWm17VXiZDdOQ"
+    },
+    {
+      "album": {
+        "name": "\u3082\u3046\u3044\u3089\u306a\u3044",
+        "url": "https://open.spotify.com/album/206ZAfWibaoGfkQ6sJwoSa"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185364,
+      "name": "\u3082\u3046\u3044\u3089\u306a\u3044",
+      "url": "https://open.spotify.com/track/6OCA8XsHPechSuoniPVw2R"
     },
     {
       "album": {

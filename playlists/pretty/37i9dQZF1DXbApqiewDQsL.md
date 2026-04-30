@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Grupo Ajedrez
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,315 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,332 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 49 | [Cero Compromiso](https://open.spotify.com/track/6OnJ5oEvTDFn4lhWYDhvCX) | [Fer Villarreal](https://open.spotify.com/artist/7bF6f3RXGqn7w6PaKVJ7vX) | [Lo Que No Sirve Estorba](https://open.spotify.com/album/082MmanG89tmj2GJUjkfrW) | 3:00 |
 | 50 | [Wockesha](https://open.spotify.com/track/7az77OXM7O08RsEvtmQSRd) | [Khris Guzman](https://open.spotify.com/artist/75BN8g4JzXFiUiLAz21zDx) | [Wockesha](https://open.spotify.com/album/5k1fjLwMSsuetWNrafhiOr) | 2:32 |
 
-Snapshot ID: `AAAAANot95LobFp2i80myB07If7VsEw+`
+Snapshot ID: `AAAAAN+We9icq0waO+fqCWzYada1Tp9Q`

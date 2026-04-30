@@ -251,6 +251,28 @@
     },
     {
       "album": {
+        "name": "Antologia Pessoal: Ch\u00e3o",
+        "url": "https://open.spotify.com/album/3VvsuxZWoo6zaj95ZjAbY6"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rio L\u00facio",
+          "url": "https://open.spotify.com/artist/0l0E5CN1nDzWU8hwwareoI"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287306,
+      "name": "Ami Xintadu",
+      "url": "https://open.spotify.com/track/1rNlsdyWuTqopVdo9OM9Rz"
+    },
+    {
+      "album": {
         "name": "Independance",
         "url": "https://open.spotify.com/album/35E7iZTJC9CBJ4tG4Rg5kT"
       },
@@ -2236,7 +2258,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 291760,
       "name": "Paris je t'aime d'amour",
       "url": "https://open.spotify.com/track/7oZFAuYYr3xunpjhphC5sl"

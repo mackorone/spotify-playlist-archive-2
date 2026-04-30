@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5v6MaLqxxiqzxlVKg0gUBg">Julia Church</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-111 songs - 6 hr 46 min
+112 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Satellite](https://open.spotify.com/track/0QVeYbIchvBmCRnBGGuWoD) | [Dan Whitlam](https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Satellite](https://open.spotify.com/album/7xAO8dJkj6XEuagSP6RZAc) | 3:25 | 2025-12-15 |  |
 | [Set Me Free](https://open.spotify.com/track/67burVkJvjrT5U5dnWR3IU) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Midnight Mass](https://open.spotify.com/album/6Fphuv16AxAhxJcUYPWzV9) | 3:10 | 2026-02-20 |  |
 | [seven\-twenty\-four](https://open.spotify.com/track/3agJXAf7NRv8VQ8owdwszX) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW) | [seven\-twenty\-four](https://open.spotify.com/album/5QUmgjGrLcwkWO48NEi0Xs) | 4:18 | 2026-02-20 |  |
+| [SHADES OF BLUE](https://open.spotify.com/track/6Pr51Pbeeu9PXskLUBfaBf) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [CTRL ESCAPE](https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e) | 3:23 | 2026-04-29 |  |
 | [Shiloh](https://open.spotify.com/track/074G9Vb4bqkOVjFbj6BSUN) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Shiloh](https://open.spotify.com/album/4d3u3SjzcgJlBy6GxSEkys) | 3:17 | 2025-10-27 |  |
 | [Slide Away](https://open.spotify.com/track/3DNXr10ZQJOPuvAu7OU9GQ) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Make Me Forget](https://open.spotify.com/album/4Ck1avXyxBjpB5wwsqxIB4) | 3:08 | 2026-02-20 |  |
 | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/5IWPuBgM37NYQzh6ShIyqz) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Cold Enough For Snow](https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi) | 4:24 | 2025-10-27 |  |

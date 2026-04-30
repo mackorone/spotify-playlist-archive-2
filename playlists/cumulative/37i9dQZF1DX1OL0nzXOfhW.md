@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2026 RADAR登場！持續發掘香港未來新聲！Cover: CONSTANCE
+> 2026 RADAR登場！持續發掘香港未來新聲！Cover: inablankat
 
-335 songs - 19 hr 28 min
+337 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Time Machine](https://open.spotify.com/track/027JnuX0aYpMqWjIzXAOVf) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR), [DatBaddie](https://open.spotify.com/artist/49Dro0WxMu6uazK7ucMFnZ) | [Time Machine](https://open.spotify.com/album/4Ypx5o8FVNnIxhalsO0jrV) | 3:21 | 2024-03-28 | 2025-03-28 |
 | [Titian](https://open.spotify.com/track/5HswInmXBZO675KkSymocx) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [Titian](https://open.spotify.com/album/0pZdmmaW2lSaNrH01SlNCV) | 7:39 | 2025-04-24 | 2026-04-07 |
 | [To be continued](https://open.spotify.com/track/3PFwHgVhnT3TxGnjCr8mYv) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [premiere](https://open.spotify.com/album/5gOWqjfQsYNXSSkxooHfwu) | 3:23 | 2024-02-01 | 2025-03-28 |
+| [Track 1](https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [Unveilings](https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5) | 0:00 | 2026-04-29 |  |
 | [TRIPPIN](https://open.spotify.com/track/3w45N7JMqsnYqko8VmQ9DS) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [TRIPPIN](https://open.spotify.com/album/0r9CWKeNllgadGS079yej4) | 3:17 | 2023-09-29 | 2025-03-28 |
 | [twentyone](https://open.spotify.com/track/3CuSZNQMOfutttNqxeUunT) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [twentyone](https://open.spotify.com/album/4aSaLC8d1BhE18tLtfLs5c) | 3:31 | 2022-08-18 | 2023-04-14 |
 | [Voodoo](https://open.spotify.com/track/4FXyCbM9p5MG7W77fx8aoP) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw), [Eric Sisco](https://open.spotify.com/artist/3CrVovDwDm5J4T5Ql8ludA), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu) | [Voodoo](https://open.spotify.com/album/7H9iqUhpuBNriCSnYi1yp9) | 2:43 | 2024-10-10 | 2025-03-28 |
@@ -321,6 +322,7 @@
 | [莊](https://open.spotify.com/track/3EzQ6PZT9eMDKUxsxwFDVt) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 2:50 | 2022-12-29 | 2023-04-14 |
 | [蒲公英](https://open.spotify.com/track/2S0sJRxltYnCSTy0KSg13U) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [蒲公英](https://open.spotify.com/album/7dKHoxpKBtF1uzrE4Gulki) | 2:51 | 2025-11-06 | 2026-04-07 |
 | [蝦餃](https://open.spotify.com/track/1uMWzyraEQ8VUSydUGinRg) | [Arvin曾傲棐](https://open.spotify.com/artist/06kAsAUZR07oLpezOyAC1h) | [蝦餃](https://open.spotify.com/album/6AlEjUxrtWT94hu7WVDLFj) | 3:58 | 2025-11-13 | 2026-04-07 |
+| [要還](https://open.spotify.com/track/0htSMEYzCEqaVedtTUYuCt) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [要還](https://open.spotify.com/album/0VuUCTaVoxR1HWIfRQLBai) | 3:34 | 2026-04-29 |  |
 | [角度 \(feat\. ZAIN\)](https://open.spotify.com/track/1fEOejvs3lGYCkdTmicb8s) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [ZAIN](https://open.spotify.com/artist/4hrSnopounpvRQy7EfH2eY) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 4:29 | 2022-12-29 | 2023-04-14 |
 | [記錄抹煞](https://open.spotify.com/track/1GDjTboNanc5XvtopYWKXE) | [Rover](https://open.spotify.com/artist/7chGhfZr3Es6GiMqJ55bcB) | [記錄抹煞](https://open.spotify.com/album/6Nfko3JCMNzALtuKtQzde9) | 4:25 | 2025-03-27 | 2026-04-07 |
 | [講給我聽聽](https://open.spotify.com/track/1KGb3xBc6LHfUeFzXLG4jw) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [Based On True Stories](https://open.spotify.com/album/0nvkolp7jXcubRKImPEHML) | 3:03 | 2026-04-06 |  |

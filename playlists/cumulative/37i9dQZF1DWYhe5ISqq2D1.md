@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Cover: 大橋ちっぽけ
 
-1,375 songs - 3 day 14 hr 41 min
+1,375 songs - 3 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [High Love](https://open.spotify.com/track/0BiEJZbK16o6Zaj4x1IkAR) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Knightclub](https://open.spotify.com/album/4Nh1wrox3ruzwPThq4xKKR) | 3:17 | 2024-09-03 | 2024-09-18 |
 | [HIGHER](https://open.spotify.com/track/0QWBklVLaqcclSbq8ute6b) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [HIGHER](https://open.spotify.com/album/4i6xzOWdqfyvQqIhHMBYhx) | 3:10 | 2026-01-14 | 2026-03-18 |
 | [Hiya!](https://open.spotify.com/track/1foxOAzkIeYEIc7zgf8kUD) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Hiya!](https://open.spotify.com/album/3EOd3QnAd2yT4H0CkT75zS) | 2:43 | 2025-11-25 | 2025-12-03 |
+| [hold on](https://open.spotify.com/track/3lFeBQyafTkN70nIv5KAaM) | [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc) | [The Crying Xpress](https://open.spotify.com/album/0GdSUTV7AnaWKQPWYTrqLN) | 3:53 | 2026-04-28 |  |
 | [Holiday](https://open.spotify.com/track/4tL1BupkC47E9VYcy6nhmJ) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [For Life](https://open.spotify.com/album/3q0k8fPXOh4Up1zGcwErJK) | 3:28 | 2024-12-24 | 2025-02-01 |
 | [Home](https://open.spotify.com/track/7e6KJKiBKREoQia1cNN4eF) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Home](https://open.spotify.com/album/7eRv6YyyEe9Zoyr1kj3g2s) | 3:10 | 2026-03-24 | 2026-04-15 |
 | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/album/3jIzQAsO6agpgpWRMOO8uF) | 3:44 | 2026-03-10 |  |
@@ -585,7 +586,6 @@
 | [tomato](https://open.spotify.com/track/0fvg4lNtdROo83CGCfgyNF) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [tomato](https://open.spotify.com/album/7wRw76TSgb16kQfeGvGtal) | 4:40 | 2025-06-11 | 2025-10-22 |
 | [TONGO \- Feat.松重豊](https://open.spotify.com/track/3lsNooWcDZtv5IqLBIpYqH) | [saccharin](https://open.spotify.com/artist/5X06dtFcjyvVvBrKXGhXkI), [松重豊](https://open.spotify.com/artist/3pHwaIplhKgtrVqaW16o50) | [TONGO \(Feat.松重豊\)](https://open.spotify.com/album/4JHpBsNaT4m35TipUmpvyr) | 3:23 | 2025-11-04 | 2025-11-12 |
 | [Toxic Luv](https://open.spotify.com/track/3mi4Gwmur1Wejivzohm3xS) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [Toxic Luv](https://open.spotify.com/album/29tAiHG6vz4qsZhAw22Pkb) | 2:19 | 2025-08-12 | 2025-08-20 |
-| [Track 3](https://open.spotify.com/track/3lFeBQyafTkN70nIv5KAaM) | [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc) | [The Crying Xpress](https://open.spotify.com/album/0GdSUTV7AnaWKQPWYTrqLN) | 0:00 | 2026-04-28 |  |
 | [traveling \- Re\-Recording](https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [SCIENCE FICTION](https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW) | 5:08 | 2024-07-02 | 2024-12-25 |
 | [Trésor](https://open.spotify.com/track/22rjO66CqqLJcJ0m0Gks9Z) | [Kenny](https://open.spotify.com/artist/3i0SazQig71kiRdJLBkq9p) | [Trésor / Yesterday Once More](https://open.spotify.com/album/44WwN6a4AF7Xbs7bUI4kXH) | 4:32 | 2024-07-26 | 2024-07-31 |
 | [Tsubasa](https://open.spotify.com/track/7K2HP1SXZZ31yrJjbHtZRt) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Tsubasa](https://open.spotify.com/album/3GjF80YwlbsgjIcYLvH8k2) | 3:00 | 2025-04-29 | 2025-05-24 |

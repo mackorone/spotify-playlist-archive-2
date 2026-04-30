@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Clavish
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,402,978 likes - 80 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,402,954 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 2 | [Greatest Rapper Alive](https://open.spotify.com/track/7FaOYLeWDVpNxF86A5PBEL) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Greatest Rapper Alive](https://open.spotify.com/album/7CvFn3e9wZBrNQUnRvbrCq) | 5:11 |
 | 3 | [Chapter 16 \(feat\. Kano\)](https://open.spotify.com/track/1Vn4C8zBO7b2pZPQ8L0oZO) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 6:20 |
 | 4 | [WAGWAN](https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ALL ROADS LEAD HOME](https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID) | 2:07 |
-| 5 | [Wizard Of Oz](https://open.spotify.com/track/4WUmgsEZZZx5aJqb5DE9Ta) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Wizard Of Oz](https://open.spotify.com/album/3ogwVPzWAxYZjROwu0MidL) | 2:33 |
+| 5 | [WIZARD OF OZ](https://open.spotify.com/track/4WUmgsEZZZx5aJqb5DE9Ta) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [WIZARD OF OZ](https://open.spotify.com/album/3ogwVPzWAxYZjROwu0MidL) | 2:33 |
 | 6 | [Too Bait \- Music Inspired by the Original Series "Bait"](https://open.spotify.com/track/6e7eop8x4gRcuZAG3vBYc1) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa) | [Too Bait \(Music Inspired by the Original Series "Bait"\)](https://open.spotify.com/album/4BmzCIIdjOBlYmvfpaig5S) | 3:06 |
 | 7 | [DEM MAN](https://open.spotify.com/track/1oHfbYJxiJ87kidsNiuBmY) | [TR Gobrazy](https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C) | [DEM MAN](https://open.spotify.com/album/2tbTYKRjQigIvWaAZAXoge) | 1:58 |
 | 8 | [Dope Boyz](https://open.spotify.com/track/0UjqnurLhsm2jf9aUJDfxk) | [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o), [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Dope Boyz](https://open.spotify.com/album/4QdUOiBbK2FXMhYw6NhJwK) | 2:21 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 54 | [Pressure](https://open.spotify.com/track/1s8of3zPu47Y4EtrNtaU4F) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [NO SLEEP](https://open.spotify.com/album/1evD0H6RJNYExzhw0DzDAc) | 2:11 |
 | 55 | [Citrus](https://open.spotify.com/track/2C4vHzE0k8sLh3CqMffZMF) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [Citrus](https://open.spotify.com/album/6L0LzVtCdS9dtkzPkeaxuY) | 2:01 |
 | 56 | [matcha bros](https://open.spotify.com/track/6j039F1GAbxnO4un1630wK) | [Taifunds](https://open.spotify.com/artist/1C76b7OjUUW3Jqqk4PMkMr), [00ab](https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo) | [matcha bros](https://open.spotify.com/album/6wdFukaniwdxTSZp6cnfGg) | 2:20 |
-| 57 | [Championship](https://open.spotify.com/track/5oBW8J1xSX50w6yKWQGRql) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Championship](https://open.spotify.com/album/5J8utB63Rkul1ziqsgjK2q) | 2:02 |
+| 57 | [CHAMPIONSHIP](https://open.spotify.com/track/5oBW8J1xSX50w6yKWQGRql) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [CHAMPIONSHIP](https://open.spotify.com/album/5J8utB63Rkul1ziqsgjK2q) | 2:02 |
 | 58 | [Straight Drop X6](https://open.spotify.com/track/1glsTkHUf9IOL3XwlVCtLv) | [Asco](https://open.spotify.com/artist/78tb5IXVdgoNDphZXWMN0r) | [Straight Drop X6](https://open.spotify.com/album/0DF8xP8yf2e8qkp28LdWjM) | 3:00 |
 | 59 | [Booga](https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Booga](https://open.spotify.com/album/0E1xU9Ab5UPMzHL7AehdBx) | 1:52 |
 | 60 | [BREAK THE LAW](https://open.spotify.com/track/0xdq4uF7HUgQIr4NhRomQw) | [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De) | [NEW BRITANNICA](https://open.spotify.com/album/3s8ieBtNTOL1wk8CYn3jFB) | 1:59 |

@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Big Up",
-  "num_followers": 291189,
+  "num_followers": 291175,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -247,38 +247,6 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
-        "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
-        "url": "https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u"
-      },
-      "artists": [
-        {
-          "name": "Maip\u00ea",
-          "url": "https://open.spotify.com/artist/29TGZb5S8iVFN9HzowvnPV"
-        },
-        {
-          "name": "Fabio Brazza",
-          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
-        },
-        {
-          "name": "Fabinho K",
-          "url": "https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT"
-        },
-        {
-          "name": "Pedro Schin",
-          "url": "https://open.spotify.com/artist/02nGZOh81jqa9Oh4VfMn9P"
-        },
-        {
-          "name": "Dias Bruno",
-          "url": "https://open.spotify.com/artist/6o3M6GcnvbFlrZaEEmUOGk"
-        }
-      ],
-      "duration_ms": 158293,
-      "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
-      "url": "https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
         "name": "Ladeira da Vida",
         "url": "https://open.spotify.com/album/2gjNuzeCoJy6YMU3udbhHw"
       },
@@ -311,6 +279,38 @@
       "duration_ms": 291166,
       "name": "Ladeira da Vida",
       "url": "https://open.spotify.com/track/6xKnsvZ0O06BvQcT2Prt2A"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
+        "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
+        "url": "https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u"
+      },
+      "artists": [
+        {
+          "name": "Maip\u00ea",
+          "url": "https://open.spotify.com/artist/29TGZb5S8iVFN9HzowvnPV"
+        },
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "Fabinho K",
+          "url": "https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT"
+        },
+        {
+          "name": "Pedro Schin",
+          "url": "https://open.spotify.com/artist/02nGZOh81jqa9Oh4VfMn9P"
+        },
+        {
+          "name": "Dias Bruno",
+          "url": "https://open.spotify.com/artist/6o3M6GcnvbFlrZaEEmUOGk"
+        }
+      ],
+      "duration_ms": 158293,
+      "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
+      "url": "https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO"
     },
     {
       "added_at": "2026-02-23 14:14:13",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
-        "name": "M\u00edstico",
-        "url": "https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX"
-      },
-      "artists": [
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        }
-      ],
-      "duration_ms": 187459,
-      "name": "M\u00edstico",
-      "url": "https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
         "name": "Flor de Maio",
         "url": "https://open.spotify.com/album/18jhTVeRNyNOTkM1YeOYZt"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 154105,
       "name": "O Despertar",
       "url": "https://open.spotify.com/track/33wlhom1u9DpjP28vbjj1u"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
+        "name": "M\u00edstico",
+        "url": "https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX"
+      },
+      "artists": [
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        }
+      ],
+      "duration_ms": 187459,
+      "name": "M\u00edstico",
+      "url": "https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv"
     },
     {
       "added_at": "2026-02-23 14:14:13",
@@ -919,30 +919,6 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
-        "name": "Meus Olhos",
-        "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 188548,
-      "name": "Meus Olhos",
-      "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
         "name": "Toda Mal\u00e9vola",
         "url": "https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD"
       },
@@ -971,22 +947,26 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
-        "name": "Summer Groove",
-        "url": "https://open.spotify.com/album/2PV7rqE4GaBBboe739T1m5"
+        "name": "Meus Olhos",
+        "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
       },
       "artists": [
         {
-          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
-          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "Rico Dalasam",
-          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         }
       ],
-      "duration_ms": 162985,
-      "name": "Qual \u00c9",
-      "url": "https://open.spotify.com/track/6CHhx9h0q9aJZAD4hNfhgf"
+      "duration_ms": 188548,
+      "name": "Meus Olhos",
+      "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
     },
     {
       "added_at": "2026-02-23 14:14:13",
@@ -1011,6 +991,26 @@
       "duration_ms": 167741,
       "name": "OLHAR HD",
       "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
+        "name": "Summer Groove",
+        "url": "https://open.spotify.com/album/2PV7rqE4GaBBboe739T1m5"
+      },
+      "artists": [
+        {
+          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
+          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
+        },
+        {
+          "name": "Rico Dalasam",
+          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
+        }
+      ],
+      "duration_ms": 162985,
+      "name": "Qual \u00c9",
+      "url": "https://open.spotify.com/track/6CHhx9h0q9aJZAD4hNfhgf"
     },
     {
       "added_at": "2026-02-23 14:14:13",

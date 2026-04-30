@@ -8323,6 +8323,24 @@
     },
     {
       "album": {
+        "name": "Hit a Moonshot",
+        "url": "https://open.spotify.com/album/4srarjGvNTtPGNoKEyiuJ8"
+      },
+      "artists": [
+        {
+          "name": "Armored Saint",
+          "url": "https://open.spotify.com/artist/4ug41UGuMZzlV2hJOrOqHN"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274843,
+      "name": "Hit a Moonshot",
+      "url": "https://open.spotify.com/track/7hz68eote8mT2y9F1poEDX"
+    },
+    {
+      "album": {
         "name": "Hivemind (feat. Mental Cruelty)",
         "url": "https://open.spotify.com/album/340YpLo1eaYz1Gxbd6LTjU"
       },
@@ -13040,7 +13058,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 217986,
       "name": "OCEANS OF BLOOD",
       "url": "https://open.spotify.com/track/2ucTGJowY17QrbxiLhPcRl"
@@ -16810,8 +16828,8 @@
           "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
         },
         {
-          "name": "Jamie Hails",
-          "url": "https://open.spotify.com/artist/5SgewWRodwpwqqHETw16q2"
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
         }
       ],
       "date_added": "2026-04-24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang wajib ada dalam playlist\. Cover: Aufahanie
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,914 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,896 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Bila](https://open.spotify.com/track/5vUHyNdyf058fWhnUY5nIr) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Bila](https://open.spotify.com/album/0rTZJbjUYarAtLGkV2NejN) | 2:32 |
 | 50 | [Ingin Kumiliki](https://open.spotify.com/track/6sOwmyHQWPZeD6RMmGAhRu) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN), [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Ingin Kumiliki](https://open.spotify.com/album/33ecjCZaCJ4r7qf372LIbA) | 5:14 |
 
-Snapshot ID: `AAAAAOAk2gP+qbP0esWkfO5ImUiqsSV0`
+Snapshot ID: `AAAAAOIDNH84pzM9pLwj1MeM/DTfCpwY`

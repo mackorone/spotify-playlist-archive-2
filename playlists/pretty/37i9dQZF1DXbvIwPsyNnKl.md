@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 ### [KALYE](https://open.spotify.com/playlist/37i9dQZF1DXbvIwPsyNnKl)
 
-> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Kartell'em
+> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: SCOOP DOGG, Daarth
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,497,440 likes - 58 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,497,712 likes - 58 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 | 57 | [Baby Girl](https://open.spotify.com/track/7IA3kgXFupu6eke77kd93n) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Baby Girl](https://open.spotify.com/album/3P0dIqUcznPkh3KXtIZioC) | 2:57 |
 | 58 | [2G](https://open.spotify.com/track/2Ok7fybrV9UE0jOn6adOpU) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [2G](https://open.spotify.com/album/0oIicRHOSYtAZ2UeR1POdi) | 3:44 |
 
-Snapshot ID: `AAAAAOgLfAtmaOKuwRoSaHmN5O+BlphY`
+Snapshot ID: `AAAAAGkWHC9PbyFSZ7PZ8pm8nfzVdLdj`

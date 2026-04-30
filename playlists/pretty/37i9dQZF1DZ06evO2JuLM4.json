@@ -1,12 +1,12 @@
 {
   "description": "This is The White Stripes. The essential tracks, all in one playlist.",
-  "num_followers": 122875,
+  "num_followers": 122886,
   "original_name": "This Is The White Stripes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae6nAAAAAAB8qfLvAOCwTt9MHUTJbx7f",
+  "snapshot_id": "ae/4gAAAAABXSejUg+I5gJoVqbwlJy8D",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Offend In Every Way",
-      "url": "https://open.spotify.com/track/1nO9QTV0ifjpleS2NDypin"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The White Stripes",
         "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 144266,
       "name": "St. James Infirmary Blues",
       "url": "https://open.spotify.com/track/0ujFmyKkSXQnlVMBz4plMM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Offend In Every Way",
+      "url": "https://open.spotify.com/track/1nO9QTV0ifjpleS2NDypin"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 114360,
-      "name": "When I Hear My Name",
-      "url": "https://open.spotify.com/track/6MIo2NS5cx125JqauDiFvP"
+      "duration_ms": 151009,
+      "name": "Cannon",
+      "url": "https://open.spotify.com/track/7npKbWXEH9hapuitQa03ch"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 151009,
-      "name": "Cannon",
-      "url": "https://open.spotify.com/track/7npKbWXEH9hapuitQa03ch"
+      "duration_ms": 114360,
+      "name": "When I Hear My Name",
+      "url": "https://open.spotify.com/track/6MIo2NS5cx125JqauDiFvP"
     },
     {
       "added_at": null,

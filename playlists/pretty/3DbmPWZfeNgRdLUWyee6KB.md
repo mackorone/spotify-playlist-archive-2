@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,297 likes - 160 songs - 9 hr 5 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,297 likes - 163 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,5 +168,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 158 | [Perdidos e Achados](https://open.spotify.com/track/4Tg4kLk0wjv5lgZhfcvyn0) | [Pedro Santos Oliveira](https://open.spotify.com/artist/6ipu3U0iZEkAiULeIr8JCQ) | [Perdidos e Achados](https://open.spotify.com/album/78pXXwgrlRJwiKWKM6DVKb) | 3:18 |
 | 159 | [No Fear](https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [No Fear](https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr) | 3:23 |
 | 160 | [Lilac Oil](https://open.spotify.com/track/2SckxctBDFyfpZbgpsKwJN) | [Cameron Esther](https://open.spotify.com/artist/1xTdRNp6vqtCup5YoVSfWE) | [Lilac Oil](https://open.spotify.com/album/3zZDJbH4uW4KA0kbdPTDxF) | 4:25 |
+| 161 | [Show Must Go On](https://open.spotify.com/track/2M1zEJMy2pxdJZHbeIjCdO) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Show Must Go On](https://open.spotify.com/album/5JOKTzUqHL63Xr3OJ8YZO3) | 3:28 |
+| 162 | [Sono Un Miracolo](https://open.spotify.com/track/4yVD1mtrh1Qd99PJhgLxud) | [DIEGO SPICE](https://open.spotify.com/artist/4tTpREbU5DTxYItQPsSvjZ) | [Sono Un Miracolo](https://open.spotify.com/album/63clVpXhw1tsh2BByiGCFV) | 3:15 |
+| 163 | [Cornerstone](https://open.spotify.com/track/2qk4lvUK6ZUkZasxRuDRSm) | [Hertz Division](https://open.spotify.com/artist/1HzfE16q8XS5zRUvH2hav3) | [Cornerstone](https://open.spotify.com/album/24PJkdgfhDFkICS8YKQ1ml) | 9:39 |
 
-Snapshot ID: `AAAThj3zmwhKMhVtKvN25Uk3ar0hjAnz`
+Snapshot ID: `AAATiZUs/Zx9mt2+idtshsJ5NutiC/V2`

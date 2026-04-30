@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe?si=Kv7lyJUvTb61i7XZSH8h9w">Khal!l</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,172 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,212 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

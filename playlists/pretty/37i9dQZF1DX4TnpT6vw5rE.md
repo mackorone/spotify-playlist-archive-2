@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 736,952 likes - 120 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 736,927 likes - 120 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,21 +112,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 102 | [Dormandie](https://open.spotify.com/track/6mZjfVhBFzErtyYEX2sEbL) | [Stellarscopees](https://open.spotify.com/artist/663VphTY3ZpSam1nra3WG6) | [Dormandie](https://open.spotify.com/album/01faQGyJDZB7NbQovatqEu) | 2:42 |
 | 103 | [Fyren](https://open.spotify.com/track/2KCp2Xd95ZVecI6MTWFSGq) | [Erelin Hjerta](https://open.spotify.com/artist/3SKcC6zzCqvKJUfkqNGJi5) | [Fyren](https://open.spotify.com/album/2XHfzMCfudqecjDp13bAfn) | 3:06 |
 | 104 | [Exit Narrow](https://open.spotify.com/track/0bttAu2hy4YKpB9ZHiDPlx) | [Slumberland Dreams](https://open.spotify.com/artist/3PY9lWIIIysDVnJ7i83N2k) | [Exit Narrow](https://open.spotify.com/album/7HlFMsm111LrBgsUAWnWCA) | 3:07 |
-| 105 | [Peaceful Mind](https://open.spotify.com/track/0t971nk22Z8LHCPp2XksxA) | [Karbona](https://open.spotify.com/artist/4yoDbJBznZifpfMUyD2yPa) | [Peaceful Mind](https://open.spotify.com/album/14Op3aFcvpjw8K93nEjNbc) | 3:04 |
-| 106 | [Lantern Lights](https://open.spotify.com/track/1Fah8jgJ9Y6cUxKDfKg4Km) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Brush the Dust & Lantern Lights](https://open.spotify.com/album/0eGEob2VqeMUJ6WOPhBGIY) | 3:49 |
-| 107 | [Ancient Lake](https://open.spotify.com/track/6S4qh9AoXkRMHI9pdi4nXO) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Relic](https://open.spotify.com/album/5vjyNIDjEBv4QQGCzySxnf) | 2:58 |
-| 108 | [Astralis Novum](https://open.spotify.com/track/473rxPBgRjE8JZAfCWPoQy) | [Ephermal Nights](https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV) | [Astralis Novum](https://open.spotify.com/album/6h6QS75JA46a42bwkiMKKq) | 3:12 |
-| 109 | [A Mirror Appears](https://open.spotify.com/track/6ncThVkW6xywHK9FxZbcYD) | [Ramel Alloy](https://open.spotify.com/artist/6cpOQo8qfc2RKZRRvZ5Hkc) | [A Mirror Appears](https://open.spotify.com/album/0BXsVbsUex0bzk8NklyN7I) | 2:03 |
-| 110 | [climbing](https://open.spotify.com/track/05bXLSRcvUBWiHS5nw6MPj) | [Cosy Kittens](https://open.spotify.com/artist/3Qhm77fx1BlSuwusIYpYxY) | [climbing](https://open.spotify.com/album/1MvnFkJitq1T7Tgnihwagq) | 2:05 |
-| 111 | [Entering The Clockwork Halls](https://open.spotify.com/track/0zMVJBjdegDLhwhG0Iu9nS) | [Enchanted Candlestick](https://open.spotify.com/artist/3jAFYmyMpB3O7LD8zRiRae) | [Gale](https://open.spotify.com/album/3f8gwakpBwYXt6bIt8YTvR) | 2:18 |
+| 105 | [Lantern Lights](https://open.spotify.com/track/1Fah8jgJ9Y6cUxKDfKg4Km) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Brush the Dust & Lantern Lights](https://open.spotify.com/album/0eGEob2VqeMUJ6WOPhBGIY) | 3:49 |
+| 106 | [Peaceful Mind](https://open.spotify.com/track/0t971nk22Z8LHCPp2XksxA) | [Karbona](https://open.spotify.com/artist/4yoDbJBznZifpfMUyD2yPa) | [Peaceful Mind](https://open.spotify.com/album/14Op3aFcvpjw8K93nEjNbc) | 3:04 |
+| 107 | [climbing](https://open.spotify.com/track/05bXLSRcvUBWiHS5nw6MPj) | [Cosy Kittens](https://open.spotify.com/artist/3Qhm77fx1BlSuwusIYpYxY) | [climbing](https://open.spotify.com/album/1MvnFkJitq1T7Tgnihwagq) | 2:05 |
+| 108 | [A Mirror Appears](https://open.spotify.com/track/6ncThVkW6xywHK9FxZbcYD) | [Ramel Alloy](https://open.spotify.com/artist/6cpOQo8qfc2RKZRRvZ5Hkc) | [A Mirror Appears](https://open.spotify.com/album/0BXsVbsUex0bzk8NklyN7I) | 2:03 |
+| 109 | [Ancient Lake](https://open.spotify.com/track/6S4qh9AoXkRMHI9pdi4nXO) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Relic](https://open.spotify.com/album/5vjyNIDjEBv4QQGCzySxnf) | 2:58 |
+| 110 | [Entering The Clockwork Halls](https://open.spotify.com/track/0zMVJBjdegDLhwhG0Iu9nS) | [Enchanted Candlestick](https://open.spotify.com/artist/3jAFYmyMpB3O7LD8zRiRae) | [Gale](https://open.spotify.com/album/3f8gwakpBwYXt6bIt8YTvR) | 2:18 |
+| 111 | [Astralis Novum](https://open.spotify.com/track/473rxPBgRjE8JZAfCWPoQy) | [Ephermal Nights](https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV) | [Astralis Novum](https://open.spotify.com/album/6h6QS75JA46a42bwkiMKKq) | 3:12 |
 | 112 | [Oak](https://open.spotify.com/track/7Lo7jDbapcmXpebXRyp9Oy) | [Weep Year](https://open.spotify.com/artist/2dY44RNmNsg8vrWHiP7PPq) | [Oak](https://open.spotify.com/album/1pqBzqkR97qhMriPbovhPw) | 3:19 |
 | 113 | [Conception](https://open.spotify.com/track/24zHMJlukUkCZDYMHtdsmH) | [Sunstone Peaks](https://open.spotify.com/artist/4vJrDzGliiXij2qOHiMdqk) | [Conception](https://open.spotify.com/album/6JY6AYRDVvnIPkTzYpvLQf) | 2:58 |
 | 114 | [Sleep Spirits](https://open.spotify.com/track/2LW5RfktXIpGmLcnQq8HLM) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Drifting Away \(Music for Sleeping\)](https://open.spotify.com/album/7cSb5DZKXtXwQETmj2p58s) | 2:40 |
 | 115 | [Slow Wave](https://open.spotify.com/track/04Hu59S0AzFUtE7nr6FA3H) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Deep Noni](https://open.spotify.com/album/3uzrsVs8I8PxMm4GGdokcP) | 3:52 |
-| 116 | [Albatross](https://open.spotify.com/track/4QdpiEwT4Sv6tfXNqhpGgc) | [Andrew Smithson](https://open.spotify.com/artist/4kggOuRjP15k8ivONO4B2L) | [Zenith](https://open.spotify.com/album/5dLy8zTm6myjl5ZorBXw5D) | 2:26 |
-| 117 | [way of form](https://open.spotify.com/track/6GYmiaM2r76K3k0sdp6gFL) | [Astrama](https://open.spotify.com/artist/4afZNKvxr3g0kxXDx58At1) | [way of form](https://open.spotify.com/album/6uXIpxafwnsXtciS4v93Zl) | 3:12 |
-| 118 | [Enchanted Lakes](https://open.spotify.com/track/5rF6ZCev458A3utp4XC36X) | [Yuddhapoot](https://open.spotify.com/artist/36ZKzVYdFd6bTpTOm94bcH) | [Enchanted Lakes](https://open.spotify.com/album/4W2qw0HykU5XyZ4GQKjMvR) | 3:15 |
-| 119 | [Clockwork](https://open.spotify.com/track/1Mkp2QNd6KR24DTf1xlcm1) | [Skycloud](https://open.spotify.com/artist/3M5lh5Ie2gqnN7LkXvojX5) | [Endless](https://open.spotify.com/album/6dvEovpXNRaNhx7fp86frH) | 3:10 |
-| 120 | [Water Jewel](https://open.spotify.com/track/2GKxE4qFT0kUaYveDnFcVt) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Two Jewels](https://open.spotify.com/album/6uESTKXHQ490eo7x83I9bi) | 4:07 |
+| 116 | [way of form](https://open.spotify.com/track/6GYmiaM2r76K3k0sdp6gFL) | [Astrama](https://open.spotify.com/artist/4afZNKvxr3g0kxXDx58At1) | [way of form](https://open.spotify.com/album/6uXIpxafwnsXtciS4v93Zl) | 3:12 |
+| 117 | [Clockwork](https://open.spotify.com/track/1Mkp2QNd6KR24DTf1xlcm1) | [Skycloud](https://open.spotify.com/artist/3M5lh5Ie2gqnN7LkXvojX5) | [Endless](https://open.spotify.com/album/6dvEovpXNRaNhx7fp86frH) | 3:10 |
+| 118 | [Albatross](https://open.spotify.com/track/4QdpiEwT4Sv6tfXNqhpGgc) | [Andrew Smithson](https://open.spotify.com/artist/4kggOuRjP15k8ivONO4B2L) | [Zenith](https://open.spotify.com/album/5dLy8zTm6myjl5ZorBXw5D) | 2:26 |
+| 119 | [Water Jewel](https://open.spotify.com/track/2GKxE4qFT0kUaYveDnFcVt) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Two Jewels](https://open.spotify.com/album/6uESTKXHQ490eo7x83I9bi) | 4:07 |
+| 120 | [Together Alone](https://open.spotify.com/track/0bpNA6uoDL3a2JYY5pQfpG) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Underground Rainbow](https://open.spotify.com/album/0jN15gQ2W0ll9DYj1ejEMc) | 2:53 |
 
 Snapshot ID: `AAAAAHn0I2qAYvj+IS9lfwhD78EFnBW2`

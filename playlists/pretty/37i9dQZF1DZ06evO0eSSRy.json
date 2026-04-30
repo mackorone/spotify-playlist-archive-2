@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae6nAAAAAAA2MRO0r+Q1Gc+GdYy/TH82",
+  "snapshot_id": "ae/4gAAAAAD8cdtqODucX9Ca7e74xJWe",
   "tracks": [
     {
       "added_at": null,
@@ -164,70 +164,6 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 211274,
-      "name": "I got Punched in the Face, What's your Excuse",
-      "url": "https://open.spotify.com/track/0KDFtrVZ3Wv4Tw3YQKkgBe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fixed It All",
-        "url": "https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 218334,
-      "name": "Water Doctor",
-      "url": "https://open.spotify.com/track/0dXhvuHICapK14lW6huwO3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stick to Silence",
-        "url": "https://open.spotify.com/album/7wSeCh7X6Ff29Tr5Loxhy8"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 226456,
-      "name": "Stick to Silence",
-      "url": "https://open.spotify.com/track/2p8TppNxlaaQM6Qo0IdcfS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You're in both dreams (and you're scared)",
-        "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 244767,
-      "name": "Houses of American Style",
-      "url": "https://open.spotify.com/track/6eDw8rZ9bJWCkoaFtLDh6P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Semi Finalists",
-        "url": "https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
       "duration_ms": 223946,
       "name": "Semi Finalists",
       "url": "https://open.spotify.com/track/6Qu0iz1FNYPaCMaR8iBPTO"
@@ -251,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marcel and the Prince",
-        "url": "https://open.spotify.com/album/0GswR3L2aBUkWskZlBezhl"
+        "name": "Stick to Silence",
+        "url": "https://open.spotify.com/album/7wSeCh7X6Ff29Tr5Loxhy8"
       },
       "artists": [
         {
@@ -260,9 +196,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 207750,
-      "name": "Marcel and the Prince",
-      "url": "https://open.spotify.com/track/6zZwvuzLs6Zc1lsOMkfXa8"
+      "duration_ms": 226456,
+      "name": "Stick to Silence",
+      "url": "https://open.spotify.com/track/2p8TppNxlaaQM6Qo0IdcfS"
     },
     {
       "added_at": null,
@@ -308,9 +244,25 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 241920,
-      "name": "Mike + Susan",
-      "url": "https://open.spotify.com/track/14iRhVzDOc9EKuRIbzsczQ"
+      "duration_ms": 218334,
+      "name": "Water Doctor",
+      "url": "https://open.spotify.com/track/0dXhvuHICapK14lW6huwO3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marcel and the Prince",
+        "url": "https://open.spotify.com/album/0GswR3L2aBUkWskZlBezhl"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 207750,
+      "name": "Marcel and the Prince",
+      "url": "https://open.spotify.com/track/6zZwvuzLs6Zc1lsOMkfXa8"
     },
     {
       "added_at": null,
@@ -324,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 276424,
-      "name": "Sequoia",
-      "url": "https://open.spotify.com/track/6VPhuhPsapwZIU2EP6QceW"
+      "duration_ms": 244767,
+      "name": "Houses of American Style",
+      "url": "https://open.spotify.com/track/6eDw8rZ9bJWCkoaFtLDh6P"
     },
     {
       "added_at": null,
@@ -359,6 +311,54 @@
       "duration_ms": 228372,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/6fMKpyPjmKzqirsMNRu8SD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 276424,
+      "name": "Sequoia",
+      "url": "https://open.spotify.com/track/6VPhuhPsapwZIU2EP6QceW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 211274,
+      "name": "I got Punched in the Face, What's your Excuse",
+      "url": "https://open.spotify.com/track/0KDFtrVZ3Wv4Tw3YQKkgBe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 241920,
+      "name": "Mike + Susan",
+      "url": "https://open.spotify.com/track/14iRhVzDOc9EKuRIbzsczQ"
     }
   ],
   "unique_name": "This Is P\u00c6RISH",

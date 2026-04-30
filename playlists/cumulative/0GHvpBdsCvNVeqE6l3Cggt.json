@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "iGen",
+        "url": "https://open.spotify.com/album/2oThbbHnamtEqLnzo7ZwIP"
+      },
+      "artists": [
+        {
+          "name": "Mala Society",
+          "url": "https://open.spotify.com/artist/4yOEkIaQ0rUqahInm6UNzj"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140142,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/13qCoS5QuZEbWjfw7C9H5F"
+    },
+    {
+      "album": {
         "name": "Diamond Heart",
         "url": "https://open.spotify.com/album/4ujXStmyOUakTcn9XlXUVp"
       },

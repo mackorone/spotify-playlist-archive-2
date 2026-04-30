@@ -2,7 +2,7 @@
 
 ### [KALYE](https://open.spotify.com/playlist/37i9dQZF1DXbvIwPsyNnKl)
 
-> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Kartell'em
+> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: SCOOP DOGG, Daarth
 
 405 songs - 22 hr 21 min
 

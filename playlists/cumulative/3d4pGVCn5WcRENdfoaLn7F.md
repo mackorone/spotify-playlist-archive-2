@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-327 songs - 19 hr 53 min
+328 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Blood Full of Metal](https://open.spotify.com/track/248ljP84krXywsN09x4F4E) | [The PennyPound](https://open.spotify.com/artist/2QhZfUGvvm4AA07JNVY4SS) | [Blood Full of Metal](https://open.spotify.com/album/2mIC9Fjg06dzZpcHiDFngB) | 3:12 | 2025-11-19 | 2026-02-19 |
 | [Blood on the Wall](https://open.spotify.com/track/0JHHM2XMXcMREVStlNDLKS) | [David Larosa](https://open.spotify.com/artist/6LJggCdTMxlzs5iRq0MsND) | [Liminal Space](https://open.spotify.com/album/7DL03disLL5FCb8UhwOHwZ) | 2:49 | 2025-11-13 | 2025-12-06 |
 | [body of water](https://open.spotify.com/track/5wP9DYz49ksiTGp3R3lOu0) | [SIKADE](https://open.spotify.com/artist/2DrSLniejh3OLn1XnU6lCY) | [body of water](https://open.spotify.com/album/0O28yb82DrLDnp9isurKNa) | 2:11 | 2025-11-01 | 2025-12-06 |
+| [BOGO Bodega](https://open.spotify.com/track/3TepkxGAUbD2KgxeePeSjP) | [dummy co.](https://open.spotify.com/artist/6r4qoWqXf8eQXCPHawb3RF), [Kool Karlo](https://open.spotify.com/artist/3dHzT8qGSboKwYhi7SMQUb) | [BOGO Bodega](https://open.spotify.com/album/37SByWcngj4Iu3IaJzXmEo) | 3:18 | 2026-04-29 |  |
 | [BOOM](https://open.spotify.com/track/4bEFJ0CJwDkPHiuoykc3Wm) | [Lady Owl](https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO) | [Acid Viking](https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz) | 3:11 | 2026-01-11 | 2026-02-02 |
 | [Breathless](https://open.spotify.com/track/6G3GnqwWphPPJoB33JCddF) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [The Clone](https://open.spotify.com/album/1FxRojzhFPsMqXMPagDBBs) | 3:47 | 2025-10-04 | 2026-01-05 |
 | [Broken \(Goodbye\)](https://open.spotify.com/track/22r1gUmB2NNu88vNv1Cqc0) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Broken \(Goodbye\)](https://open.spotify.com/album/724YnXwsn0WHxmRZjia31B) | 3:45 | 2026-04-07 |  |

@@ -140,7 +140,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 140587,
       "name": "1/1",
       "url": "https://open.spotify.com/track/16CgEHkJE7g4l6NDcnP3Yo"
@@ -6242,7 +6242,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 122363,
       "name": "Chica Baila",
       "url": "https://open.spotify.com/track/0ayDGpeamuHKkx4H8qhJcX"
@@ -7293,6 +7293,50 @@
     },
     {
       "album": {
+        "name": "Contando Hasta Diez",
+        "url": "https://open.spotify.com/album/25qbloNrsF0s5UlIRA6ODy"
+      },
+      "artists": [
+        {
+          "name": "KIDS STUDIO",
+          "url": "https://open.spotify.com/artist/5BoXFoHBleCW72i51nUwPC"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84959,
+      "name": "Contando Hasta Diez",
+      "url": "https://open.spotify.com/track/6WaR01lbsa8y0rV8kXPvHG"
+    },
+    {
+      "album": {
+        "name": "Contando Juntos",
+        "url": "https://open.spotify.com/album/7Jim5Ixvh6WJtpyEmiYmWv"
+      },
+      "artists": [
+        {
+          "name": "KIDS STUDIO",
+          "url": "https://open.spotify.com/artist/5BoXFoHBleCW72i51nUwPC"
+        },
+        {
+          "name": "Randy Crenshaw",
+          "url": "https://open.spotify.com/artist/6lmrwy2spxWoS6uwdlMuaw"
+        },
+        {
+          "name": "Barney Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/0oZUbJY1hf8lrOIFIMA55H"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114759,
+      "name": "Contando Juntos",
+      "url": "https://open.spotify.com/track/3QYjFu5RxkGu7nVforQbuj"
+    },
+    {
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/6pbVsKe69AMnOYIT8cZpmG"
       },
@@ -7678,6 +7722,24 @@
       "duration_ms": 118412,
       "name": "Cua Cua",
       "url": "https://open.spotify.com/track/3Kvulmj8KcGhbnOhqHFEht"
+    },
+    {
+      "album": {
+        "name": "Cualto x Pila",
+        "url": "https://open.spotify.com/album/41SOpOHcR13yA5uIrlfyzW"
+      },
+      "artists": [
+        {
+          "name": "Btw Gang",
+          "url": "https://open.spotify.com/artist/46MZ95ceqaXCqQoX5q6YGP"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126216,
+      "name": "Cualto x Pila",
+      "url": "https://open.spotify.com/track/0PCDwAeEgmO4of2YXzfyvR"
     },
     {
       "album": {
@@ -11022,7 +11084,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 81578,
       "name": "Doble Cara",
       "url": "https://open.spotify.com/track/19uTZiUsjbvSpZZeHLGMAz"
@@ -19854,7 +19916,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 163018,
       "name": "LA MUJER QUE ME PARIO",
       "url": "https://open.spotify.com/track/2T96W9QC9r8zsOiha8U92I"
@@ -33830,7 +33892,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 146823,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/3m8S31BMGE9Hck6heXw10X"

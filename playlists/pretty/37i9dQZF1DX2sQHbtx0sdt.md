@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > Our picks for the best global hip\-hop songs this year\. Cover: Central Cee 🇬🇧
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,274 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,397 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 66 | [Who I Am](https://open.spotify.com/track/5uOaLP83AIlPC4YJNRXn25) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Wataru](https://open.spotify.com/album/6gfdpeoCwQlU5zrGaJ9mMx) | 1:18 |
 | 67 | [Tumo Weto](https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Ukanigbe](https://open.spotify.com/album/5XaW0jZyPkJg3A85nxX0dA) | 2:49 |
 | 68 | [fml .](https://open.spotify.com/track/4mVZ9cv6pGt36VNjm6CTue) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [The Boy who cried Terrified .](https://open.spotify.com/album/2hDITFU9UORQlTBKz6vj3o) | 2:40 |
-| 69 | [Championship](https://open.spotify.com/track/5oBW8J1xSX50w6yKWQGRql) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Championship](https://open.spotify.com/album/5J8utB63Rkul1ziqsgjK2q) | 2:02 |
+| 69 | [CHAMPIONSHIP](https://open.spotify.com/track/5oBW8J1xSX50w6yKWQGRql) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [CHAMPIONSHIP](https://open.spotify.com/album/5J8utB63Rkul1ziqsgjK2q) | 2:02 |
 | 70 | [SAME TIMBS](https://open.spotify.com/track/5ODVyCNMcfAn38zZ8d653k) | [Gonaboy](https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s) | [SAME TIMBS](https://open.spotify.com/album/2iKg4Sr6zf2JsQn3czM4AL) | 2:21 |
 | 71 | [CHIEF KEEF \(feat\. Sfera Ebbasta & Skillibeng\)](https://open.spotify.com/track/6wp73WIgt66WS4e9PPGSV1) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [CHIEF KEEF \(feat\. Sfera Ebbasta & Skillibeng\)](https://open.spotify.com/album/5arcR9CXQpOJZ5FgoEfrC0) | 3:28 |
 | 72 | [She Said](https://open.spotify.com/track/13FoVXNngsRooEvUvUNy4v) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [She Said](https://open.spotify.com/album/3fZ891A7PhKjBUO7fz7vYE) | 3:03 |

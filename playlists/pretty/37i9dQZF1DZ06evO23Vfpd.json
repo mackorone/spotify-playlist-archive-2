@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 65107,
+  "num_followers": 65159,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae6nAAAAAADkRNhjh68FAa/ehB+HHAUu",
+  "snapshot_id": "ae/4gAAAAAAitP7bUH8zlVdfrFCWhO8T",
   "tracks": [
     {
       "added_at": null,
@@ -80,17 +80,21 @@
       "added_at": null,
       "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
       },
       "artists": [
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
         }
       ],
-      "duration_ms": 224264,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/2lcJpkoLQqeSvZDKk27pEA"
+      "duration_ms": 201463,
+      "name": "Last Of My Kind (feat. Paul Cauthen)",
+      "url": "https://open.spotify.com/track/5BmmDKMuVvqENYA6g750OX"
     },
     {
       "added_at": null,
@@ -152,21 +156,17 @@
       "added_at": null,
       "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+        "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
       },
       "artists": [
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
         }
       ],
-      "duration_ms": 201463,
-      "name": "Last Of My Kind (feat. Paul Cauthen)",
-      "url": "https://open.spotify.com/track/5BmmDKMuVvqENYA6g750OX"
+      "duration_ms": 224264,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/2lcJpkoLQqeSvZDKk27pEA"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 177773,
-      "name": "Golden Child",
-      "url": "https://open.spotify.com/track/04QWC97Dvd9g0IEDoyUDBX"
+      "duration_ms": 219693,
+      "name": "Faithfully",
+      "url": "https://open.spotify.com/track/3HD3JJPE7iWKLV0zf86ShQ"
     },
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 219693,
-      "name": "Faithfully",
-      "url": "https://open.spotify.com/track/3HD3JJPE7iWKLV0zf86ShQ"
+      "duration_ms": 177773,
+      "name": "Golden Child",
+      "url": "https://open.spotify.com/track/04QWC97Dvd9g0IEDoyUDBX"
     },
     {
       "added_at": null,

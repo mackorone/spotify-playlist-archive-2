@@ -43592,7 +43592,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 173134,
       "name": "FLOWER",
       "url": "https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s"
@@ -80347,7 +80347,7 @@
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 256261,
+      "duration_ms": 256200,
       "name": "Magic Castle",
       "url": "https://open.spotify.com/track/5etLppBCjFDzR186kpvSsg"
     },
@@ -87123,7 +87123,7 @@
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 269218,
+      "duration_ms": 269066,
       "name": "My Heart for You",
       "url": "https://open.spotify.com/track/1aOkExmr4NkIFuKRNIX59f"
     },
@@ -91672,7 +91672,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 168280,
       "name": "NOSAE NOSAE",
       "url": "https://open.spotify.com/track/2SBnYX6QFYotZEeVgxr0nv"
@@ -157555,6 +157555,24 @@
     },
     {
       "album": {
+        "name": "\u9b54\u6cd5\u4f7f\u3044\u306e\u591c \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5BAI5mFLd5S9YdevUCnOrd"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Fukasawa",
+          "url": "https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144853,
+      "name": "\u5348\u5f8c\u306e\u7720\u308a",
+      "url": "https://open.spotify.com/track/2XnI5n569R4tAb9QvI0wkF"
+    },
+    {
+      "album": {
         "name": "\u5352\u696d\u8a3c\u66f8",
         "url": "https://open.spotify.com/album/7M8mokoPuWZXU1jrXNoHJH"
       },
@@ -158791,6 +158809,24 @@
     },
     {
       "album": {
+        "name": "\u9b54\u6cd5\u4f7f\u3044\u306e\u591c \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5BAI5mFLd5S9YdevUCnOrd"
+      },
+      "artists": [
+        {
+          "name": "KATE",
+          "url": "https://open.spotify.com/artist/1kHLKBFBmwip3x5aAiKBeq"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150040,
+      "name": "\u5bc6\u8ac7",
+      "url": "https://open.spotify.com/track/4gmptn5Y3TmAXpEgJIRvHX"
+    },
+    {
+      "album": {
         "name": "MESSAGE",
         "url": "https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2"
       },
@@ -159058,6 +159094,24 @@
       "duration_ms": 219234,
       "name": "\u5efb\u5efb\u5947\u8b5a",
       "url": "https://open.spotify.com/track/2gSkvrwfCXCgqeugzezn97"
+    },
+    {
+      "album": {
+        "name": "\u9b54\u6cd5\u4f7f\u3044\u306e\u591c \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5BAI5mFLd5S9YdevUCnOrd"
+      },
+      "artists": [
+        {
+          "name": "James Harris",
+          "url": "https://open.spotify.com/artist/1ZBnCfsXaG6RXRbStIbRSt"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131866,
+      "name": "\u5f85\u3061\u7126\u304c\u308c\u308b",
+      "url": "https://open.spotify.com/track/0cTAyiyvLnctzulMKPBh8l"
     },
     {
       "album": {
@@ -162903,6 +162957,24 @@
     },
     {
       "album": {
+        "name": "\u9b54\u6cd5\u4f7f\u3044\u306e\u591c \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5BAI5mFLd5S9YdevUCnOrd"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Fukasawa",
+          "url": "https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208693,
+      "name": "\u9375\u76e4\u306f\u8e8d\u308b",
+      "url": "https://open.spotify.com/track/7cEHnfDAIOsqLafENSAsG5"
+    },
+    {
+      "album": {
         "name": "\u30b9\u30dd\u30fc\u30c4",
         "url": "https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU"
       },
@@ -165071,7 +165143,7 @@
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 269767,
+      "duration_ms": 269733,
       "name": "\ub0b4\uac00 \ub108\uc758 \uacc1\uc5d0 \uc7a0\uc2dc \uc0b4\uc558\ub2e4\ub294 \uac78",
       "url": "https://open.spotify.com/track/7Hw4emqR6556dfMhmvcuIp"
     },
@@ -165935,7 +166007,7 @@
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 257986,
+      "duration_ms": 257933,
       "name": "\ub9c8\ubc95\uc758 \uc131",
       "url": "https://open.spotify.com/track/4bCIRxMLXCwHlBQfH1y9Qo"
     },

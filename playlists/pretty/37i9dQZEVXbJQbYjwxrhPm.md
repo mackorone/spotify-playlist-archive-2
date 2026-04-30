@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,634 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,636 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Па\-Па\-Па](https://open.spotify.com/track/2ppKa7AjDeUDQp1DlArXQj) | [Sasha SANDRA](https://open.spotify.com/artist/1W5trZX8YL2XnhQHGGOxyG) | [Па\-Па\-Па](https://open.spotify.com/album/1AbFcZyfjpnkvhlis41DwY) | 2:56 |
 | 50 | [Ще ме търсиш](https://open.spotify.com/track/4DxdsSAzo1IVE2PRg0WsG8) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Ще ме търсиш](https://open.spotify.com/album/07jRWauI3LME1RONMB6kLI) | 3:10 |
 
-Snapshot ID: `MYQk+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MYV2eAAAAAAAAAAAAAAAAAAAAAAAAGVu`

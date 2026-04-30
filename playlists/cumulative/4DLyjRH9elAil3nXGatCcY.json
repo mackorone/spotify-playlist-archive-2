@@ -6599,6 +6599,28 @@
     },
     {
       "album": {
+        "name": "Papercut",
+        "url": "https://open.spotify.com/album/51ZkMRNlpeT4hRFCtRg2Xf"
+      },
+      "artists": [
+        {
+          "name": "bennytheghost",
+          "url": "https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2"
+        },
+        {
+          "name": "Calica",
+          "url": "https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193447,
+      "name": "Papercut",
+      "url": "https://open.spotify.com/track/3fjv1YnPIn2UDiGkMKvAFM"
+    },
+    {
+      "album": {
         "name": "Songs About People Including Myself (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6fobonORNgQ7qPTGdCOkEC"
       },
@@ -8608,6 +8630,28 @@
       "duration_ms": 249244,
       "name": "Stereo Love",
       "url": "https://open.spotify.com/track/6QXlF22pQad6kPEtO3xMAW"
+    },
+    {
+      "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/3VQfA3XGJyC0XM9Gu3HsOF"
+      },
+      "artists": [
+        {
+          "name": "Pixl Girl",
+          "url": "https://open.spotify.com/artist/0fRpdVBiTK1PayMdFIMqmp"
+        },
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115545,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/1RtOV5HTGBKiSpIOU8qU1b"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 30151,
+  "num_followers": 30165,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae6nAAAAAAATu9vTqVsSFbeerjCcVUUX",
+  "snapshot_id": "ae/4gAAAAABnmNhXZSllxA9zMiGb/fQv",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bow Bow Bow (F My Baby Daddy Freestyle)",
-        "url": "https://open.spotify.com/album/68hjCuAod6dhaeLvNnYS7l"
+        "name": "Love Is Like (Deluxe)",
+        "url": "https://open.spotify.com/album/4hnzOo44FfNzkAjtywCvBL"
       },
       "artists": [
         {
-          "name": "Bhad Bhabie",
-          "url": "https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         },
         {
           "name": "Sexyy Red",
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 81802,
-      "name": "Bow Bow Bow - F My Baby Daddy Freestyle",
-      "url": "https://open.spotify.com/track/6jxSWts4DsWiC8w48A1Yri"
+      "duration_ms": 152157,
+      "name": "I Like It (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/0pwd9beBkEIBrMbkRMlO35"
     },
     {
       "added_at": null,
@@ -719,22 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is Like (Deluxe)",
-        "url": "https://open.spotify.com/album/4hnzOo44FfNzkAjtywCvBL"
+        "name": "Bow Bow Bow (F My Baby Daddy Freestyle)",
+        "url": "https://open.spotify.com/album/68hjCuAod6dhaeLvNnYS7l"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Bhad Bhabie",
+          "url": "https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e"
         },
         {
           "name": "Sexyy Red",
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 152157,
-      "name": "I Like It (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/0pwd9beBkEIBrMbkRMlO35"
+      "duration_ms": 81802,
+      "name": "Bow Bow Bow - F My Baby Daddy Freestyle",
+      "url": "https://open.spotify.com/track/6jxSWts4DsWiC8w48A1Yri"
     },
     {
       "added_at": null,
@@ -866,15 +866,11 @@
         {
           "name": "Sexyy Red",
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "DJ Holiday",
-          "url": "https://open.spotify.com/artist/6Q4MFlysvdbBeEhoKgAUbY"
         }
       ],
-      "duration_ms": 181117,
-      "name": "Her Her Her (feat. DJ Holiday)",
-      "url": "https://open.spotify.com/track/2eRRo7gznC0swKmvyiZRAO"
+      "duration_ms": 117325,
+      "name": "Top Notch",
+      "url": "https://open.spotify.com/track/2IjJlpakhh6HgZ9avNbkl3"
     },
     {
       "added_at": null,
@@ -950,11 +946,15 @@
         {
           "name": "Sexyy Red",
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "DJ Holiday",
+          "url": "https://open.spotify.com/artist/6Q4MFlysvdbBeEhoKgAUbY"
         }
       ],
-      "duration_ms": 117325,
-      "name": "Top Notch",
-      "url": "https://open.spotify.com/track/2IjJlpakhh6HgZ9avNbkl3"
+      "duration_ms": 181117,
+      "name": "Her Her Her (feat. DJ Holiday)",
+      "url": "https://open.spotify.com/track/2eRRo7gznC0swKmvyiZRAO"
     },
     {
       "added_at": null,

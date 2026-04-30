@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa Olivia Rodrigo.",
-  "num_followers": 26763,
+  "num_followers": 26761,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 311733,
-      "name": "Aperture",
-      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
         "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 213241,
       "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 204233,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
         "name": "Drive Safe",
         "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 201000,
       "name": "Drive Safe",
       "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
-        "name": "First Light",
-        "url": "https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 204233,
-      "name": "First Light",
-      "url": "https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
+        "name": "White Feather Hawk Tail Deer Hunter",
+        "url": "https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 234049,
+      "name": "White Feather Hawk Tail Deer Hunter",
+      "url": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
         "name": "Liekinheitin",
         "url": "https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 180479,
       "name": "Liekinheitin",
       "url": "https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
-        "name": "White Feather Hawk Tail Deer Hunter",
-        "url": "https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 234049,
-      "name": "White Feather Hawk Tail Deer Hunter",
-      "url": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -747,6 +747,26 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
+        "name": "Ja Eller Nej",
+        "url": "https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        },
+        {
+          "name": "Basshunter",
+          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
+        }
+      ],
+      "duration_ms": 152691,
+      "name": "Ja Eller Nej",
+      "url": "https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
         "name": "No Haav No Love",
         "url": "https://open.spotify.com/album/06SWD7zsvxo9yJHy50sk2q"
       },
@@ -763,22 +783,6 @@
       "duration_ms": 277174,
       "name": "Monsteri (feat. Rajaton)",
       "url": "https://open.spotify.com/track/0l9pXT5uurCBaUBjiCSwnr"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
-        "name": "Syd\u00e4n on rikki",
-        "url": "https://open.spotify.com/album/5jcfKaqf0aEMasIpDoxpp2"
-      },
-      "artists": [
-        {
-          "name": "Aliisa Syrj\u00e4",
-          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
-        }
-      ],
-      "duration_ms": 181360,
-      "name": "Syd\u00e4n on rikki",
-      "url": "https://open.spotify.com/track/4ekyr5DV8ZUBQjA25ux0co"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -803,26 +807,6 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
-        "name": "Ja Eller Nej",
-        "url": "https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS"
-      },
-      "artists": [
-        {
-          "name": "K\u00e4\u00e4rij\u00e4",
-          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
-        },
-        {
-          "name": "Basshunter",
-          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
-        }
-      ],
-      "duration_ms": 152691,
-      "name": "Ja Eller Nej",
-      "url": "https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
         "name": "CEO (Rich Man)",
         "url": "https://open.spotify.com/album/5WNtdO6Oog8CfGcAkh4aRy"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 149634,
       "name": "CEO (Rich Man)",
       "url": "https://open.spotify.com/track/5zedIU1wMTkKLbHky1Twg1"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
+        "name": "Syd\u00e4n on rikki",
+        "url": "https://open.spotify.com/album/5jcfKaqf0aEMasIpDoxpp2"
+      },
+      "artists": [
+        {
+          "name": "Aliisa Syrj\u00e4",
+          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
+        }
+      ],
+      "duration_ms": 181360,
+      "name": "Syd\u00e4n on rikki",
+      "url": "https://open.spotify.com/track/4ekyr5DV8ZUBQjA25ux0co"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -955,26 +955,6 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
-        "name": "KATULAPSI",
-        "url": "https://open.spotify.com/album/5lroKDiW0qQOrLDJDC3YUW"
-      },
-      "artists": [
-        {
-          "name": "VJ",
-          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
-        },
-        {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
-        }
-      ],
-      "duration_ms": 159300,
-      "name": "Naamat",
-      "url": "https://open.spotify.com/track/7fk4XZFhP99KgWUIF5soxf"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
         "name": "SHOTIT",
         "url": "https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ"
       },
@@ -1007,6 +987,26 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
+        "name": "KATULAPSI",
+        "url": "https://open.spotify.com/album/5lroKDiW0qQOrLDJDC3YUW"
+      },
+      "artists": [
+        {
+          "name": "VJ",
+          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "duration_ms": 159300,
+      "name": "Naamat",
+      "url": "https://open.spotify.com/track/7fk4XZFhP99KgWUIF5soxf"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
         "name": "Kun tulee pimee",
         "url": "https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 165269,
       "name": "Kun tulee pimee",
       "url": "https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
+        "name": "\u00c4l\u00e4 sano sua rumaksi",
+        "url": "https://open.spotify.com/album/6Dq6bC1xg4O3awxY3xAKJc"
+      },
+      "artists": [
+        {
+          "name": "ELLIMEI",
+          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
+        }
+      ],
+      "duration_ms": 153135,
+      "name": "\u00c4l\u00e4 sano sua rumaksi",
+      "url": "https://open.spotify.com/track/6pV8EIckMcd64Fwz0bsu6b"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -1071,22 +1087,6 @@
       "duration_ms": 233322,
       "name": "Sonic Youth (feat. Bizi)",
       "url": "https://open.spotify.com/track/6cSV49YiVXKNvwCbRo4Rd7"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
-        "name": "\u00c4l\u00e4 sano sua rumaksi",
-        "url": "https://open.spotify.com/album/6Dq6bC1xg4O3awxY3xAKJc"
-      },
-      "artists": [
-        {
-          "name": "ELLIMEI",
-          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
-        }
-      ],
-      "duration_ms": 153135,
-      "name": "\u00c4l\u00e4 sano sua rumaksi",
-      "url": "https://open.spotify.com/track/6pV8EIckMcd64Fwz0bsu6b"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
-        "name": "Mik\u00e4 ois pahinta, mit\u00e4 vois tapahtua?",
-        "url": "https://open.spotify.com/album/4ckLpU4UAOuT4JDGEIi2QT"
-      },
-      "artists": [
-        {
-          "name": "Edicti",
-          "url": "https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS"
-        }
-      ],
-      "duration_ms": 207244,
-      "name": "Mik\u00e4 ois pahinta, mit\u00e4 vois tapahtua?",
-      "url": "https://open.spotify.com/track/7COQtkAMfAK1S0yfvKkglW"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
         "name": "Sunder",
         "url": "https://open.spotify.com/album/1ciRPgX96Ye9UEHESfM908"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 171000,
       "name": "Tower",
       "url": "https://open.spotify.com/track/59pskAsUrYQJOjN6Lt6wCr"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
+        "name": "Mik\u00e4 ois pahinta, mit\u00e4 vois tapahtua?",
+        "url": "https://open.spotify.com/album/4ckLpU4UAOuT4JDGEIi2QT"
+      },
+      "artists": [
+        {
+          "name": "Edicti",
+          "url": "https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS"
+        }
+      ],
+      "duration_ms": 207244,
+      "name": "Mik\u00e4 ois pahinta, mit\u00e4 vois tapahtua?",
+      "url": "https://open.spotify.com/track/7COQtkAMfAK1S0yfvKkglW"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
+        "name": "Yhteysvikoja",
+        "url": "https://open.spotify.com/album/5q6WD4dR25MUPLewM5SD0Z"
+      },
+      "artists": [
+        {
+          "name": "yaya",
+          "url": "https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z"
+        }
+      ],
+      "duration_ms": 139137,
+      "name": "Yhteysvikoja",
+      "url": "https://open.spotify.com/track/2LjvFtrvepZG394zVmGTqJ"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
         "name": "Pieni exit",
         "url": "https://open.spotify.com/album/6QGvxY1eZHa2aL1en4Pi7f"
       },
@@ -1287,38 +1303,6 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
-        "name": "Yhteysvikoja",
-        "url": "https://open.spotify.com/album/5q6WD4dR25MUPLewM5SD0Z"
-      },
-      "artists": [
-        {
-          "name": "yaya",
-          "url": "https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z"
-        }
-      ],
-      "duration_ms": 139137,
-      "name": "Yhteysvikoja",
-      "url": "https://open.spotify.com/track/2LjvFtrvepZG394zVmGTqJ"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
-        "name": "Hapentuhlaaja",
-        "url": "https://open.spotify.com/album/6TMeO2tK5MdNro4q7G0DNR"
-      },
-      "artists": [
-        {
-          "name": "Maustetyt\u00f6t",
-          "url": "https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I"
-        }
-      ],
-      "duration_ms": 276520,
-      "name": "Hapentuhlaaja",
-      "url": "https://open.spotify.com/track/1Kf9dXKBgADl0e1ykqqVnP"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
         "name": "\u00c4mp\u00e4ri",
         "url": "https://open.spotify.com/album/3f5aCCzFnZ3O83dZvblJIz"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 167112,
       "name": "\u00c4mp\u00e4ri",
       "url": "https://open.spotify.com/track/33NLtvVYYVtUNVwkytDzRh"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
+        "name": "Hapentuhlaaja",
+        "url": "https://open.spotify.com/album/6TMeO2tK5MdNro4q7G0DNR"
+      },
+      "artists": [
+        {
+          "name": "Maustetyt\u00f6t",
+          "url": "https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I"
+        }
+      ],
+      "duration_ms": 276520,
+      "name": "Hapentuhlaaja",
+      "url": "https://open.spotify.com/track/1Kf9dXKBgADl0e1ykqqVnP"
     },
     {
       "added_at": "2026-04-23 21:00:04",

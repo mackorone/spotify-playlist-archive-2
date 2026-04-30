@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Yorkk & ARTSALGHUL
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,482 likes - 73 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,489 likes - 73 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

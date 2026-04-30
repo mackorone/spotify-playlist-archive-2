@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 
 > อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Whal & Dolph
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,211 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,221 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 | 49 | [คนเดียวบนโลก\(U\)](https://open.spotify.com/track/2rcDi4sIkOPg102RWc3dmy) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [คนเดียวบนโลก\(U\)](https://open.spotify.com/album/2wmjvtFbwS4sWKuSYqnJqN) | 4:08 |
 | 50 | [ด้วยความไม่จริงใจ](https://open.spotify.com/track/0uq8rOoqymhkbRrd676hmd) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [ด้วยความไม่จริงใจ](https://open.spotify.com/album/4hjAPx4hSv4NGsgpsNtl6X) | 3:49 |
 
-Snapshot ID: `AAAAAIcOOhuoCqnnyWdziKvhkMPion2M`
+Snapshot ID: `AAAAAAYg+SeOiqdfhodfCDLDm+MNoJ1J`

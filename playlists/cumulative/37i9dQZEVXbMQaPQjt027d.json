@@ -700,7 +700,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 207960,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/3qEIPo5myrEaICoN54a3cq"
@@ -12197,6 +12197,24 @@
     },
     {
       "album": {
+        "name": "Make You Whole",
+        "url": "https://open.spotify.com/album/7sW3nmiVWACLkfNMexZz9G"
+      },
+      "artists": [
+        {
+          "name": "Andronicus",
+          "url": "https://open.spotify.com/artist/2KIqJZqSkPp1fHrMKu7s0r"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212168,
+      "name": "Make You Whole (Radio Edit)",
+      "url": "https://open.spotify.com/track/2WpRJJJzf2WM6IP0zr5aaB"
+    },
+    {
+      "album": {
         "name": "Making Love to Morgan Wallen",
         "url": "https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM"
       },
@@ -12686,7 +12704,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 90149,
       "name": "Melody of World (Revealer Live Edit) - Short Version",
       "url": "https://open.spotify.com/track/14An1WlCtlfOIVShCUDh2v"
@@ -13200,10 +13218,32 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 154691,
       "name": "Mo\u00ebt Dat Nou",
       "url": "https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8"
+    },
+    {
+      "album": {
+        "name": "Mo\u00ebt Dat Nou",
+        "url": "https://open.spotify.com/album/4ZyMlYf37sAmPgKGfGWuNt"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154691,
+      "name": "Mo\u00ebt Dat Nou",
+      "url": "https://open.spotify.com/track/36upiDje3dJaWgqEAkvWdV"
     },
     {
       "album": {
@@ -17122,6 +17162,36 @@
       "duration_ms": 158284,
       "name": "Sitting Down Here (feat. Lilly Ahlberg)",
       "url": "https://open.spotify.com/track/7vu6ybPQYHIKfrqg73ZI2d"
+    },
+    {
+      "album": {
+        "name": "Six Seven",
+        "url": "https://open.spotify.com/album/7yXhf4bGlGkjA9mfJy5gPg"
+      },
+      "artists": [
+        {
+          "name": "Laurinha Costa",
+          "url": "https://open.spotify.com/artist/2gHai7NC9sxohnDRREYWMf"
+        },
+        {
+          "name": "Dj Cabello",
+          "url": "https://open.spotify.com/artist/5DIxbeHID0GVBPT07FHZC0"
+        },
+        {
+          "name": "Dj Tchouzen",
+          "url": "https://open.spotify.com/artist/2nRKgPUikjmFOJ1UBmh8Fy"
+        },
+        {
+          "name": "SoundMusic Original",
+          "url": "https://open.spotify.com/artist/7l3VDav1Nb5OZWUxMFiSqW"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100162,
+      "name": "Six Seven",
+      "url": "https://open.spotify.com/track/1tApKPSsMXfJf528fR1o93"
     },
     {
       "album": {

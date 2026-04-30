@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Oblivion's Mighty Trash, Mañas Rufino y The Colombians en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,047 likes - 49 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,051 likes - 49 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 5 | [Get This Money](https://open.spotify.com/track/2ocfalOJGX8lmNSRccFOZX) | [Nash](https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3), [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Moha The B](https://open.spotify.com/artist/4E44IDMuWVpcKurInIgtco), [Maggic](https://open.spotify.com/artist/1ItNVcT1VXX8JcgBtS6C54) | [Get This Money](https://open.spotify.com/album/08ywbGTA4BApL5JblNNn47) | 3:43 |
 | 6 | [Tio Armando](https://open.spotify.com/track/3GqAS2IZTCV3HkeoQQMznK) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Tio Armando](https://open.spotify.com/album/6c5pVnugrsTkB1ywAep3d5) | 2:40 |
 | 7 | [Como Le Hago](https://open.spotify.com/track/1c0ED1rYND2AMg5qEitaV5) | [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Doble P Ache Ene](https://open.spotify.com/artist/5yh17UV0XSFV1lzzFC39XR), [Danny Brasco](https://open.spotify.com/artist/05BlA7vN6o1m2dsGOgaODY) | [Como Le Hago](https://open.spotify.com/album/6zQFENRJ8Vh3wwQAJee13j) | 2:43 |
-| 8 | [Nos Relojean](https://open.spotify.com/track/1tbJP63ftEPVJKn8TFfB1u) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Soffia Philo](https://open.spotify.com/artist/5o1ARHZ2fhll5jILdQp84X), [Maxi Prieto](https://open.spotify.com/artist/7k4sBYY4ict7ilJdWo5DnW) | [Nos Relojean](https://open.spotify.com/album/7zDAxwrWDrPJsr2OX5GTge) | 3:05 |
+| 8 | [NOS RELOJEAN](https://open.spotify.com/track/1tbJP63ftEPVJKn8TFfB1u) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Soffia Philo](https://open.spotify.com/artist/5o1ARHZ2fhll5jILdQp84X), [Maxi Prieto](https://open.spotify.com/artist/7k4sBYY4ict7ilJdWo5DnW) | [NOS RELOJEAN](https://open.spotify.com/album/7zDAxwrWDrPJsr2OX5GTge) | 3:05 |
 | 9 | [Primera Generación](https://open.spotify.com/track/3fOq3pfMkNEMQyFwQgKYdp) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe), [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W) | [Primera Generación](https://open.spotify.com/album/6yiZ5l31KVxsgeH7g9fr6C) | 3:13 |
 | 10 | [Mi Destino](https://open.spotify.com/track/0y9cK9FllNveJFMYrBVk18) | [Soul AM](https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA), [Komba](https://open.spotify.com/artist/45GCCsbyU6F1K5qMciA4tc), [DEADCRW](https://open.spotify.com/artist/42dUm3sxVAI2xU99obvyQm) | [Mi Destino](https://open.spotify.com/album/4abANThXUtocAOU2z3ec6T) | 3:16 |
 | 11 | [100K DE AURA](https://open.spotify.com/track/2TBYdb2cToPtTPCTnPgMTZ) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [NOSTALGIA CITY](https://open.spotify.com/album/74G3R14n7Lt4a3YrEJxgZi) | 2:58 |

@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 93405,
+  "num_followers": 93409,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae6nAAAAAAA+UZy1kB/+M8y5jAtxfcKu",
+  "snapshot_id": "ae/4gAAAAAA3VDrW7irSjDUn15NBfCUu",
   "tracks": [
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "White Trash, Two Heebs and a Bean",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 166373,
+      "name": "Soul Doubt",
+      "url": "https://open.spotify.com/track/3TYC9jm4RXCPomDD4V3KRD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NINE LIVES",
         "url": "https://open.spotify.com/album/4UEpTKPsOwn4OVroUZa7Sq"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 151820,
       "name": "THE PUNISHER (feat. El Hefe of NOFX)",
       "url": "https://open.spotify.com/track/6eDJGOPWshWzPiWbSiWwdD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "White Trash, Two Heebs and a Bean",
-        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 166373,
-      "name": "Soul Doubt",
-      "url": "https://open.spotify.com/track/3TYC9jm4RXCPomDD4V3KRD"
     },
     {
       "added_at": null,

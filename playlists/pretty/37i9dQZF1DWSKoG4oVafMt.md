@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,384 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,532 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 99 | [WITH YOU \(feat\. Sync\)](https://open.spotify.com/track/5YpjkbI4Go4r4V0qwdOSJB) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP), [SYNC](https://open.spotify.com/artist/2AgkVvon5F9e3XEBveFe5K) | [WITH YOU \(feat\. Sync\)](https://open.spotify.com/album/1UVL3i2zcyW3MoOPVNRuOm) | 2:43 |
 | 100 | [Tere Layi](https://open.spotify.com/track/58rlJQKF6RyDfkAxiCqVEO) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Tere Layi](https://open.spotify.com/album/3FMJraUH21tY0jTbNdlHP9) | 6:40 |
 
-Snapshot ID: `AAAAAPt0lsxj64jQ6OnNP1tiq5uek1Z6`
+Snapshot ID: `AAAAAD7Xzp0nZKXY9n5eQzUSFwSg/0tn`

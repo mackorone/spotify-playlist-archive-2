@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Budd. The essential tracks, all in one playlist.",
-  "num_followers": 5884,
+  "num_followers": 5885,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae6nAAAAAADHAbvxcOhptxeMbip6QHPu",
+  "snapshot_id": "ae/4gAAAAAD6OPr3XOjxVY2A3qAjzPM9",
   "tracks": [
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 204680,
-      "name": "Among Fields Of Crystal - Remastered 2004",
-      "url": "https://open.spotify.com/track/1Z2OQ4XtLwrhQKGS9BA4wi"
+      "duration_ms": 389133,
+      "name": "An Arc Of Doves - Remastered 2004",
+      "url": "https://open.spotify.com/track/244AfRQzVwSOzkkRHGPWge"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 389133,
-      "name": "An Arc Of Doves - Remastered 2004",
-      "url": "https://open.spotify.com/track/244AfRQzVwSOzkkRHGPWge"
+      "duration_ms": 204680,
+      "name": "Among Fields Of Crystal - Remastered 2004",
+      "url": "https://open.spotify.com/track/1Z2OQ4XtLwrhQKGS9BA4wi"
     },
     {
       "added_at": null,
@@ -399,22 +399,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moon and the Melodies",
-        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
+        "name": "Jane 1-11",
+        "url": "https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft"
       },
       "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        },
         {
           "name": "Harold Budd",
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 133200,
-      "name": "Bloody And Blunt",
-      "url": "https://open.spotify.com/track/1uHFzwXv5h4O8pFbo6LFhB"
+      "duration_ms": 296800,
+      "name": "Jane 2",
+      "url": "https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb"
     },
     {
       "added_at": null,
@@ -459,18 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jane 1-11",
-        "url": "https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft"
+        "name": "The Moon and the Melodies",
+        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
       },
       "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
         {
           "name": "Harold Budd",
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 296800,
-      "name": "Jane 2",
-      "url": "https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb"
+      "duration_ms": 133200,
+      "name": "Bloody And Blunt",
+      "url": "https://open.spotify.com/track/1uHFzwXv5h4O8pFbo6LFhB"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Budd Box (Spotify Only)",
+        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "The Kiss",
+      "url": "https://open.spotify.com/track/56jrNmzTvsGi7geeFTaW11"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Moon and the Melodies",
         "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 221280,
       "name": "Ooze Out And Away, Onehow",
       "url": "https://open.spotify.com/track/157RVHlboS0mum8aCu0WBp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Budd Box (Spotify Only)",
-        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "The Kiss",
-      "url": "https://open.spotify.com/track/56jrNmzTvsGi7geeFTaW11"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
       "duration_ms": 1107266,
       "name": "Bismillahi 'Rrahmani 'Rrahim",
       "url": "https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jane 12-21",
-        "url": "https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 204960,
-      "name": "Jane 16 (For Pale Saints)",
-      "url": "https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9"
     },
     {
       "added_at": null,
@@ -648,9 +632,41 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 183880,
-      "name": "Adult",
-      "url": "https://open.spotify.com/track/1orKNWYlGLs3EofDZCGY5s"
+      "duration_ms": 195186,
+      "name": "Sunlit Silhouette",
+      "url": "https://open.spotify.com/track/4QkV3lZCbf9SoQXbYjefMR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jane 12-21",
+        "url": "https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 204960,
+      "name": "Jane 16 (For Pale Saints)",
+      "url": "https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lovely Thunder",
+        "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Ice Floes In Eden",
+      "url": "https://open.spotify.com/track/5C0DGc7M86XqwMRPeusb8r"
     },
     {
       "added_at": null,
@@ -675,18 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lovely Thunder",
-        "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
       },
       "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
         {
           "name": "Harold Budd",
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 208133,
-      "name": "Ice Floes In Eden",
-      "url": "https://open.spotify.com/track/5C0DGc7M86XqwMRPeusb8r"
+      "duration_ms": 183880,
+      "name": "Adult",
+      "url": "https://open.spotify.com/track/1orKNWYlGLs3EofDZCGY5s"
     },
     {
       "added_at": null,
@@ -703,26 +723,6 @@
       "duration_ms": 500026,
       "name": "Juno",
       "url": "https://open.spotify.com/track/2H96z4OFcMTTopEgIX49ci"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Translucence + Drift Music",
-        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
-      },
-      "artists": [
-        {
-          "name": "John Foxx",
-          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 195186,
-      "name": "Sunlit Silhouette",
-      "url": "https://open.spotify.com/track/4QkV3lZCbf9SoQXbYjefMR"
     },
     {
       "added_at": null,
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before the Day Breaks",
-        "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 321226,
-      "name": "A Minute, a Day, No More",
-      "url": "https://open.spotify.com/track/77GNj1dewpFsGfzkhujB0u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Translucence + Drift Music",
         "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
       },
@@ -799,6 +779,22 @@
       "duration_ms": 380453,
       "name": "Spoken Roses",
       "url": "https://open.spotify.com/track/5WaczsEWb6yzXlN7N61xBA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Know This Much Is True (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/4ttO0PJTuNrFLklwzRKPO0"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 202550,
+      "name": "The Twins",
+      "url": "https://open.spotify.com/track/47RWsoF3FM9NPzyHPjlyth"
     },
     {
       "added_at": null,
@@ -839,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After The Night Falls",
-        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
+        "name": "Before the Day Breaks",
+        "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
       },
       "artists": [
         {
@@ -852,9 +848,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 243506,
-      "name": "How Distant Your Heart",
-      "url": "https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6"
+      "duration_ms": 321226,
+      "name": "A Minute, a Day, No More",
+      "url": "https://open.spotify.com/track/77GNj1dewpFsGfzkhujB0u"
     },
     {
       "added_at": null,
@@ -879,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Know This Much Is True (Music From The HBO Series)",
-        "url": "https://open.spotify.com/album/4ttO0PJTuNrFLklwzRKPO0"
+        "name": "Avalon Sutra (2013 Remaster)",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
       },
       "artists": [
         {
@@ -888,9 +884,29 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 202550,
-      "name": "The Twins",
-      "url": "https://open.spotify.com/track/47RWsoF3FM9NPzyHPjlyth"
+      "duration_ms": 323733,
+      "name": "Rue Casimir Delavigne (For Daniel Lentz) - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2VviNEVTRzsA8La6QA0ryg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After The Night Falls",
+        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "How Distant Your Heart",
+      "url": "https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6"
     },
     {
       "added_at": null,
@@ -911,24 +927,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avalon Sutra (2013 Remaster)",
-        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 118746,
-      "name": "Chrysalis Nu (To Barney's Memory) - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5p0efF4TnD6DKtiTsxcaUv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After The Night Falls",
-        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
+        "name": "Before the Day Breaks",
+        "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 210706,
-      "name": "And Then I Turned Away",
-      "url": "https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI"
+      "duration_ms": 265453,
+      "name": "Outside, Silence",
+      "url": "https://open.spotify.com/track/2xmeoUL5olt2NVgrKeTey9"
     }
   ],
   "unique_name": "This Is Harold Budd",

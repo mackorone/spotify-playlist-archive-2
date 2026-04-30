@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Sexyy Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,757 likes - 101 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,773 likes - 101 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 11 | [To My Name](https://open.spotify.com/track/6RWUYP5WLOqwLlBms7oBL1) | [NASAAN](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz) | [Method Acting](https://open.spotify.com/album/7gxOr34oxF5QkbHINYYJ9b) | 2:51 |
 | 12 | [West to East \(feat\. 42 Dugg\)](https://open.spotify.com/track/7wbEwA6nnbdZA2QESPFdea) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [West to East \(feat\. 42 Dugg\)](https://open.spotify.com/album/3mbPS36EkFbEXWhIXCGqWa) | 2:17 |
 | 13 | [THIS A MUST](https://open.spotify.com/track/41e8XO5tcG6Uesk2FhdsWm) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 1:26 |
-| 14 | [Gucci](https://open.spotify.com/track/24vvHba3Zn87fMUMQ5l058) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB) | [SCOOMSDAY](https://open.spotify.com/album/5tq50dEe3rTnyMlMp0Ob6C) | 1:34 |
+| 14 | [Gucci](https://open.spotify.com/track/24vvHba3Zn87fMUMQ5l058) | [MAF Teeski](https://open.spotify.com/artist/0k8EpountGv9inziuVNqEm) | [SCOOMSDAY](https://open.spotify.com/album/5tq50dEe3rTnyMlMp0Ob6C) | 1:34 |
 | 15 | [HIPSTER ENCORE](https://open.spotify.com/track/2qa3alSm2Giio802ntz1tO) | [Thirteendegrees °](https://open.spotify.com/artist/2fZrEBAl5NNZCCl3KUOYsi) | [HIPSTER ENCORE](https://open.spotify.com/album/3oTt1OqMF8N52EmSrlBJPj) | 2:31 |
 | 16 | [Lamb Chop](https://open.spotify.com/track/5XrmCMLpTflQPvYjnEZXEh) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [Lamb Chop](https://open.spotify.com/album/6AR5H4vMm728Q6zDy3CS1I) | 2:03 |
 | 17 | [I Cant Feel My Face](https://open.spotify.com/track/5Mk5XJFLgQfWg84J9Vvi9o) | [Warhol.SS](https://open.spotify.com/artist/3O7mUqVuHmLJqHXbFiQY62), [B6](https://open.spotify.com/artist/6MVeUEtni8vBYtIs9jy2ZK) | [I Can't Feel My Face](https://open.spotify.com/album/18yBKA1Eb5UIchEAD5TKW4) | 2:37 |

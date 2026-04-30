@@ -230,6 +230,24 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233433,
+      "name": "Decay",
+      "url": "https://open.spotify.com/track/51owOM1QNjD2YNrm9jUNQQ"
+    },
+    {
+      "album": {
+        "name": "MONSTER / \u7d75\u7a7a\u4e8b",
+        "url": "https://open.spotify.com/album/2LyeCsCc3N4qH0u6AwCdRu"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -1244,7 +1262,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 266786,
       "name": "\u30d5\u30a7\u30a4\u30b9\u30ec\u30b9",
       "url": "https://open.spotify.com/track/7nshgkx5EE57GFPKu89x4y"

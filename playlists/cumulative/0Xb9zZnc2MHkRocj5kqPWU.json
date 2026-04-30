@@ -1093,6 +1093,28 @@
     },
     {
       "album": {
+        "name": "Avant la suite",
+        "url": "https://open.spotify.com/album/0TdulPsHLP3fq97XGbnyE0"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        },
+        {
+          "name": "Anastasia Kobekina",
+          "url": "https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217288,
+      "name": "Avant la suite",
+      "url": "https://open.spotify.com/track/0ZEQiY8Hdz3GzheX22C9Bh"
+    },
+    {
+      "album": {
         "name": "MozartReworked",
         "url": "https://open.spotify.com/album/0iscfEvEjrQFkNTV7Hitgb"
       },
@@ -1714,6 +1736,50 @@
       "duration_ms": 208480,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/32q8GrkqQotlZjWLJMHyF8"
+    },
+    {
+      "album": {
+        "name": "Cadence in Blue",
+        "url": "https://open.spotify.com/album/2ODpSlZc08sx9qPN758uIV"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186626,
+      "name": "Cadence in Blue",
+      "url": "https://open.spotify.com/track/0IonPVfqOyHT2EPvcIyvGE"
+    },
+    {
+      "album": {
+        "name": "Can't Help Falling in Love",
+        "url": "https://open.spotify.com/album/02wWehqmAzISzsLasUlAn7"
+      },
+      "artists": [
+        {
+          "name": "Jan Vogler",
+          "url": "https://open.spotify.com/artist/3LcP8zEKaPiCG1s5MlMWJA"
+        },
+        {
+          "name": "Moritzburg Ensemble",
+          "url": "https://open.spotify.com/artist/0cfPipoXojPaJ5deRb7oGa"
+        },
+        {
+          "name": "Julien Quentin",
+          "url": "https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182333,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/3Lm8K2LMclY8dWNo6375aH"
     },
     {
       "album": {
@@ -5432,6 +5498,28 @@
       "duration_ms": 129000,
       "name": "NEEVE - ASMR VERSION",
       "url": "https://open.spotify.com/track/4Qx2yThlMvDlWKIzOihyFq"
+    },
+    {
+      "album": {
+        "name": "Nessun Dorma Piano Variation (After Turandot, SC 91, Act III, No. 34: Nessun Dorma)",
+        "url": "https://open.spotify.com/album/3lNUZWQSSMTUe3vCXjxm6w"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Gabriele Bagnati",
+          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81920,
+      "name": "Nessun Dorma Piano Variation (After Turandot, SC 91, Act III, No. 34: Nessun Dorma)",
+      "url": "https://open.spotify.com/track/2qmeWrreaVDxNcLqHU3FGQ"
     },
     {
       "album": {

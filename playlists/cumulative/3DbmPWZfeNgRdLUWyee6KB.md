@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,000 songs - 2 day 10 hr 28 min
+1,003 songs - 2 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Cool Breeze](https://open.spotify.com/track/0uX7UsvCZzbjbJsFyqbdUR) | [Ben Carringer](https://open.spotify.com/artist/5Xs7la5VzfvqDJD2KfVhL6) | [Cool Breeze](https://open.spotify.com/album/5mcOE9xiQGH9rvaAW1H8Op) | 3:35 | 2026-03-03 | 2026-03-25 |
 | [Copper](https://open.spotify.com/track/5WKo5MJKoepRrmXYN5pzGY) | [John Pronto](https://open.spotify.com/artist/5QtUYAAvpQfIFojICPFZuq) | [For the Birds](https://open.spotify.com/album/03ME7K35Ti1du3NWt02j5t) | 3:56 | 2026-03-30 |  |
 | [Corações em Flamas](https://open.spotify.com/track/6fLR45wa3pKdrP5WcAnxXK) | [De Santtis](https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN) | [Corações em Flamas](https://open.spotify.com/album/45A7R9um3ebUebMzYigDMa) | 3:46 | 2026-03-23 |  |
+| [Cornerstone](https://open.spotify.com/track/2qk4lvUK6ZUkZasxRuDRSm) | [Hertz Division](https://open.spotify.com/artist/1HzfE16q8XS5zRUvH2hav3) | [Cornerstone](https://open.spotify.com/album/24PJkdgfhDFkICS8YKQ1ml) | 9:39 | 2026-04-29 |  |
 | [Could It Be Love](https://open.spotify.com/track/0lfjkpY9AZq0Qs2Bwn09tu) | [James A\. Rocco](https://open.spotify.com/artist/6smo6fpEJijfZN27dFbaoL), [Heidi Karol Johnson](https://open.spotify.com/artist/4ySm3RS7l7jOfxpLZ3UPN0) | [Could It Be Love](https://open.spotify.com/album/4ddfDIzblId9xdTm0oK3Oz) | 3:57 | 2026-02-27 | 2026-03-25 |
 | [Country Girl Stomp](https://open.spotify.com/track/7vWRJxZfm7fwLRoTJZhDhT) | [J\. Lee Bone](https://open.spotify.com/artist/6gGiDRa5txAU73w00S1zXs) | [Boots in the City](https://open.spotify.com/album/5dbWKfGkd1vwPEeBhNIPIi) | 3:09 | 2026-03-20 | 2026-04-22 |
 | [Covenant](https://open.spotify.com/track/1BHqn3D5VSRVyNOXwMkmtw) | [Kristina Lynn](https://open.spotify.com/artist/1EDIKX5hJdPKg4RhNLTIwK) | [Covenant](https://open.spotify.com/album/2M9EF4AdUt5ybVzaGJ0DXA) | 4:17 | 2026-02-03 | 2026-03-07 |
@@ -735,6 +736,7 @@
 | [Shadow](https://open.spotify.com/track/3tDLdShqj7TznUapECPj1R) | [Nick McKerl](https://open.spotify.com/artist/0CC7zycAVnJGnQgj3jPIeR) | [Shadow](https://open.spotify.com/album/2zF7oQgZ12NPariEMMRupj) | 3:00 | 2025-11-24 | 2026-01-05 |
 | [Shakin'](https://open.spotify.com/track/60YO17Cz85qfjJgkkplEnj) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Shakin'](https://open.spotify.com/album/24jIAykL2F0SzJZrRMnjhQ) | 3:05 | 2026-04-21 |  |
 | [Should I have said hello](https://open.spotify.com/track/76S02LgBBCBwEiY8lH2AZT) | [NYROS RAY](https://open.spotify.com/artist/04yVrTH59bbO6VJXQvpdZv) | [Should I have said hello](https://open.spotify.com/album/33LXVslfjxyguGWpsuj71f) | 2:48 | 2026-04-27 |  |
+| [Show Must Go On](https://open.spotify.com/track/2M1zEJMy2pxdJZHbeIjCdO) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Show Must Go On](https://open.spotify.com/album/5JOKTzUqHL63Xr3OJ8YZO3) | 3:28 | 2026-04-29 |  |
 | [Show the money](https://open.spotify.com/track/6GpoqbpzjLMIl5DLfpreU3) | [Renato Genestra](https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4) | [Show the money](https://open.spotify.com/album/5HzSVKP4s4VJHm2lP11Ctd) | 3:37 | 2023-10-26 | 2025-11-29 |
 | [Showers Bring Flowers](https://open.spotify.com/track/0iVmUQRJOeOLgnYkpMbhyh) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:58 | 2026-01-25 | 2026-02-20 |
 | [Si Loin](https://open.spotify.com/track/1SpBAk7WSEgWTAwuHS7ahH) | [Dominique Daumann](https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6) | [La parade des loups\-garous](https://open.spotify.com/album/4EYMdV25eZul4vWVEQ9I98) | 3:32 | 2025-11-21 | 2026-01-05 |
@@ -767,6 +769,7 @@
 | [Sonate au clair obscur](https://open.spotify.com/track/7aSzxYDBU6wcyzkrhIl4PB) | [Gabriel Keller](https://open.spotify.com/artist/0zOlM82GNeyKLBca65OwuG), [Clement Barou](https://open.spotify.com/artist/4t9AWxfHIRSxRSJESJsn2J) | [Clair obscur](https://open.spotify.com/album/7F7Vn59sz760AfHNmbyM9t) | 6:42 | 2025-12-15 | 2026-01-15 |
 | [Song for my father](https://open.spotify.com/track/6o2gylXPLJCbeuzX9nLpWT) | [Mary Ann Palermo](https://open.spotify.com/artist/1P5DDkoBymMyNn52dmMeoL), [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [The Jazz Voyager Project](https://open.spotify.com/artist/0rRZUb7er3EHVa65UujtMt), [Alfredo Posillipo](https://open.spotify.com/artist/7t7CJWtF302EBxxrIefxC0), [Gianluca Urbano](https://open.spotify.com/artist/7bqtO6GVyE8cx9hWVsjnZG) | [Song for my father](https://open.spotify.com/album/5JMDNH5yazJfU4EZaFIjpe) | 3:51 | 2023-06-29 | 2025-11-29 |
 | [Sonny Boy](https://open.spotify.com/track/6ZPqAryP0o7cqbPJNhzzf5) | [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK), [Mediterranean Jazz Project](https://open.spotify.com/artist/2igMKABeT1z573MU6j9fXT) | [Sonny Boy](https://open.spotify.com/album/3DuxwwvSBxYqN7TOB1ce3l) | 3:35 | 2024-03-28 | 2025-12-28 |
+| [Sono Un Miracolo](https://open.spotify.com/track/4yVD1mtrh1Qd99PJhgLxud) | [DIEGO SPICE](https://open.spotify.com/artist/4tTpREbU5DTxYItQPsSvjZ) | [Sono Un Miracolo](https://open.spotify.com/album/63clVpXhw1tsh2BByiGCFV) | 3:15 | 2026-04-29 |  |
 | [Sothu](https://open.spotify.com/track/0NJ2LQIXckdyBXQo1OIDvm) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1qPbBhNU3F8FyL9iV7Zd3A), [A Shreyas](https://open.spotify.com/artist/0r7iBMzsdaH9KpxOj4bWhG) | [Sothu](https://open.spotify.com/album/3wrt0lv7o44oqYfjp4rKv3) | 6:52 | 2025-12-20 | 2026-01-15 |
 | [Soul Eyes](https://open.spotify.com/track/5Duv8ycOqvC1Sq1F9EWPMj) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Roberto Pentassuglia](https://open.spotify.com/artist/0s4A17TXOJbIEmrg1jtI6t), [Maurizio Perrone](https://open.spotify.com/artist/2PICoEK7lgXMhdL89xvvKr) | [Soul Eyes](https://open.spotify.com/album/2IQZqJCPDHtENORCq4Hw6s) | 3:47 | 2025-09-19 | 2026-01-05 |
 | [Southern Winds](https://open.spotify.com/track/4TYbRmKD5RMrZ60AQwnlRU) | [Andaluz](https://open.spotify.com/artist/1fVpy9sfYVCnGSDG8EyrQo), [Ruben Van Rompaey](https://open.spotify.com/artist/2cNjCwdbpnREFPJvVmIdol) | [The Sky Silk Road](https://open.spotify.com/album/2egcGjuz3oX770IVcxZDiX) | 4:47 | 2023-04-20 | 2025-11-29 |

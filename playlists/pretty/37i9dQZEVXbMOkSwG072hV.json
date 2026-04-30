@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 352871,
+  "num_followers": 352862,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MYQk+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MYV2eAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "O \u00daLTIMO HORIZONTE",
         "url": "https://open.spotify.com/album/3DCp8vBSLj88VMo10GOYbZ"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2z6TdiUmVauU4vAcy0fZnx"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Filho da F\u00e9",
         "url": "https://open.spotify.com/album/2MGxf9lsiANjI9heMmir4h"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/36VthlqTx549xJS3BWn3rc"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Eu Vou Testemunhar",
         "url": "https://open.spotify.com/album/2ExtMX4SdJleL8X91gOJsT"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/3J9SuHCapMvXAjKzmxktgr"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Six Seven",
         "url": "https://open.spotify.com/album/7yXhf4bGlGkjA9mfJy5gPg"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/1tApKPSsMXfJf528fR1o93"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Eu J\u00e1 Sabia Quem Me Guardava",
         "url": "https://open.spotify.com/album/0nVtHdj4g7orDgg1z2erT7"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/5wY6t6j5IoykTlW697vXc5"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Freakin\u2019 Out",
         "url": "https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf"
@@ -117,7 +117,23 @@
       "url": "https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "O peso do Silencio",
         "url": "https://open.spotify.com/album/2K6QyCZoYKxKpuN3FpZaY7"
@@ -133,7 +149,7 @@
       "url": "https://open.spotify.com/track/4mW88OMpiyuPesGLUqHmSV"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Resenha do Cabral (Ao Vivo)",
         "url": "https://open.spotify.com/album/5VV3PEsxdSkbhojw5hQnkL"
@@ -181,39 +197,7 @@
       "url": "https://open.spotify.com/track/0UbftifCuaos8xnNT1K8Us"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
-      },
-      "artists": [
-        {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
-    },
-    {
-      "added_at": "2026-04-28 19:46:49",
-      "album": {
-        "name": "CONEX\u00c3O",
-        "url": "https://open.spotify.com/album/05VaK2NqUsfSKjmsppvemA"
-      },
-      "artists": [
-        {
-          "name": "O APAIXONADO",
-          "url": "https://open.spotify.com/artist/5OeWKDkypGHFwfNW9x1Ccb"
-        }
-      ],
-      "duration_ms": 311840,
-      "name": "CONEX\u00c3O",
-      "url": "https://open.spotify.com/track/3Qwh7wT2c3o6nrFpj3c74k"
-    },
-    {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Cuida dos meus filhos",
         "url": "https://open.spotify.com/album/7FgO2gV5CWMqYyRZ85835D"
@@ -229,7 +213,23 @@
       "url": "https://open.spotify.com/track/5zJoOIcZZHp1hUsjYFoWJS"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
+      "album": {
+        "name": "CONEX\u00c3O",
+        "url": "https://open.spotify.com/album/05VaK2NqUsfSKjmsppvemA"
+      },
+      "artists": [
+        {
+          "name": "O APAIXONADO",
+          "url": "https://open.spotify.com/artist/5OeWKDkypGHFwfNW9x1Ccb"
+        }
+      ],
+      "duration_ms": 311840,
+      "name": "CONEX\u00c3O",
+      "url": "https://open.spotify.com/track/3Qwh7wT2c3o6nrFpj3c74k"
+    },
+    {
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Pra N\u00e3o Esquecer De Mim",
         "url": "https://open.spotify.com/album/0Kb7GeuzMK4sS45zb3O06h"
@@ -257,23 +257,7 @@
       "url": "https://open.spotify.com/track/7dLw4FM0rYgwJEzkbwRVr1"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
-      "album": {
-        "name": "Sina de ofeli",
-        "url": "https://open.spotify.com/album/6VZ4HkbvwNgiZBmppo6UKv"
-      },
-      "artists": [
-        {
-          "name": "Wemersson costta",
-          "url": "https://open.spotify.com/artist/33Xz0ZMD2pE5q28tIuZxtZ"
-        }
-      ],
-      "duration_ms": 150308,
-      "name": "Sina de ofeli",
-      "url": "https://open.spotify.com/track/48kahYPCyekJHZs4U0mPN8"
-    },
-    {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "M\u00caLO DE POUCAS IDEIAS/ TOQUE DEZ AO VIVO",
         "url": "https://open.spotify.com/album/3c1H1idLksA2L2i6LxjARu"
@@ -289,7 +273,39 @@
       "url": "https://open.spotify.com/track/7JODccjjSaocrFMYPChZ7t"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
+      "album": {
+        "name": "Sina de ofeli",
+        "url": "https://open.spotify.com/album/6VZ4HkbvwNgiZBmppo6UKv"
+      },
+      "artists": [
+        {
+          "name": "Wemersson costta",
+          "url": "https://open.spotify.com/artist/33Xz0ZMD2pE5q28tIuZxtZ"
+        }
+      ],
+      "duration_ms": 150308,
+      "name": "Sina de ofeli",
+      "url": "https://open.spotify.com/track/48kahYPCyekJHZs4U0mPN8"
+    },
+    {
+      "added_at": "2026-04-29 14:21:50",
+      "album": {
+        "name": "Sina de Of\u00e9lia",
+        "url": "https://open.spotify.com/album/1pt3iz8edLcNuk61eozHeG"
+      },
+      "artists": [
+        {
+          "name": "Heitor Santos",
+          "url": "https://open.spotify.com/artist/2FQg4JX9rAIDnakUJb8hgj"
+        }
+      ],
+      "duration_ms": 150204,
+      "name": "Sina de Of\u00e9lia",
+      "url": "https://open.spotify.com/track/2NB3fpuHCFsJ1vuaZkRhp5"
+    },
+    {
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "she goes by. (KayArchon Remix)",
         "url": "https://open.spotify.com/album/0TpEOGT2tvqUyRav6P1E9O"
@@ -309,39 +325,7 @@
       "url": "https://open.spotify.com/track/19B3TNRuCRqz8SC4yd58LQ"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
-      "album": {
-        "name": "Sina de Of\u00e9lia",
-        "url": "https://open.spotify.com/album/1pt3iz8edLcNuk61eozHeG"
-      },
-      "artists": [
-        {
-          "name": "Heitor Santos",
-          "url": "https://open.spotify.com/artist/2FQg4JX9rAIDnakUJb8hgj"
-        }
-      ],
-      "duration_ms": 150204,
-      "name": "Sina de Of\u00e9lia",
-      "url": "https://open.spotify.com/track/2NB3fpuHCFsJ1vuaZkRhp5"
-    },
-    {
-      "added_at": "2026-04-28 19:46:49",
-      "album": {
-        "name": "Jane!",
-        "url": "https://open.spotify.com/album/03HZu3A0gz8fPjrGfDKAsu"
-      },
-      "artists": [
-        {
-          "name": "The Long Faces",
-          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "Jane!",
-      "url": "https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5"
-    },
-    {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Se Saudade Sentir (Se Prepara 3)",
         "url": "https://open.spotify.com/album/5APsVdTA5JWdzyGT9pmWKi"
@@ -369,7 +353,23 @@
       "url": "https://open.spotify.com/track/3lJMJl6alsAqw5OiXOOdVi"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
+      "album": {
+        "name": "Jane!",
+        "url": "https://open.spotify.com/album/03HZu3A0gz8fPjrGfDKAsu"
+      },
+      "artists": [
+        {
+          "name": "The Long Faces",
+          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "Jane!",
+      "url": "https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5"
+    },
+    {
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Ela Quer Viver No Pantanal",
         "url": "https://open.spotify.com/album/08iHgLAUGm5f9x8ZfaCNp4"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/6Jal5aUvxKmglaFcCsIVxT"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "For\u00e7a Invis\u00edvel",
         "url": "https://open.spotify.com/album/0wApVpo9RSGxW57G6EbM2T"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/1VBbHBzbcQ6QXBCy3NEbpq"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Voc\u00eas & Deus, Vol. 1 (Ao Vivo no Rio de Janeiro)",
         "url": "https://open.spotify.com/album/1URfI21LdTBjIZoiVCV1rB"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/7gx504HCEsTgxmyPNov5Lh"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "White Trails (Expanded)",
         "url": "https://open.spotify.com/album/4ZCCd0IZB5RizC5sz5IguU"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "BRUTAL PARA\u00cdSO",
         "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
@@ -453,23 +453,7 @@
       "url": "https://open.spotify.com/track/3rngEXOOvLepn9qganbhjp"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
-      "album": {
-        "name": "Estilo R'S",
-        "url": "https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J"
-      },
-      "artists": [
-        {
-          "name": "El De Las R's",
-          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
-        }
-      ],
-      "duration_ms": 133564,
-      "name": "Beretta (De Los Cerros La Escuela)",
-      "url": "https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG"
-    },
-    {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Agonia do Hs - Sabor Ver\u00e3o",
         "url": "https://open.spotify.com/album/1iWutfw36hTpdlTEg9Dr74"
@@ -485,7 +469,7 @@
       "url": "https://open.spotify.com/track/62CPwwW9jdEfA1f0RoTGW1"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Yuzak \u00e9 Muito Sagaz",
         "url": "https://open.spotify.com/album/5w6mf7xrc8zwhKqoGIX1Qh"
@@ -505,7 +489,7 @@
       "url": "https://open.spotify.com/track/516CPbRzYIg0dAHq3a3EnM"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Sweet Boy",
         "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
@@ -521,7 +505,7 @@
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Beatriz",
         "url": "https://open.spotify.com/album/4ShDsc9HALU5W3i0l8rLup"
@@ -545,7 +529,23 @@
       "url": "https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
+      "album": {
+        "name": "Estilo R'S",
+        "url": "https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        }
+      ],
+      "duration_ms": 133564,
+      "name": "Beretta (De Los Cerros La Escuela)",
+      "url": "https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG"
+    },
+    {
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Voc\u00eas & Deus, Vol. 1 (Ao Vivo no Rio de Janeiro)",
         "url": "https://open.spotify.com/album/1URfI21LdTBjIZoiVCV1rB"
@@ -561,27 +561,7 @@
       "url": "https://open.spotify.com/track/4KXzMDCXK7VM3jUGibJse5"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
-      "album": {
-        "name": "Bad Angel (with LISA)",
-        "url": "https://open.spotify.com/album/4RyojhEO0VsnNacY6C3te7"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 153281,
-      "name": "Bad Angel (with LISA)",
-      "url": "https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ"
-    },
-    {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "worry (ultra slowed)",
         "url": "https://open.spotify.com/album/0xd4fBjTXCHxOrRCs9r6UU"
@@ -601,7 +581,7 @@
       "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "TOMA NO CU (Maria Gasolina)",
         "url": "https://open.spotify.com/album/4BbzXZrZxvRxcyB0MZzGiB"
@@ -621,23 +601,7 @@
       "url": "https://open.spotify.com/track/6xi41eSOTp4o5N84iIyUs8"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
-      "album": {
-        "name": "PINKY UP",
-        "url": "https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 131437,
-      "name": "PINKY UP",
-      "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
-    },
-    {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Pouca ideia toque dezz",
         "url": "https://open.spotify.com/album/4s7j4fJdzHVl1lgM0OnDhT"
@@ -653,7 +617,43 @@
       "url": "https://open.spotify.com/track/38YU548wIKcTnofznY9p6x"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
+      "album": {
+        "name": "Bad Angel (with LISA)",
+        "url": "https://open.spotify.com/album/4RyojhEO0VsnNacY6C3te7"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 153281,
+      "name": "Bad Angel (with LISA)",
+      "url": "https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ"
+    },
+    {
+      "added_at": "2026-04-29 14:21:50",
+      "album": {
+        "name": "PINKY UP",
+        "url": "https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 131437,
+      "name": "PINKY UP",
+      "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
+    },
+    {
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Pe\u00e3o Todo Tatuado",
         "url": "https://open.spotify.com/album/1K4G4HwbkRTxwhlEOy9HWL"
@@ -673,91 +673,7 @@
       "url": "https://open.spotify.com/track/1wrA9K1P177mkPNt9BB2OZ"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
-      "album": {
-        "name": "SE EU LARGAR O FREIO",
-        "url": "https://open.spotify.com/album/7eiNDCNA6qxx7BAttsG5fk"
-      },
-      "artists": [
-        {
-          "name": "BOLOLO",
-          "url": "https://open.spotify.com/artist/68Gf4LVSovX3eT0MVuuDMb"
-        }
-      ],
-      "duration_ms": 168298,
-      "name": "SE EU LARGAR O FREIO",
-      "url": "https://open.spotify.com/track/3WBypfS1LhjbYRknLLX2Vq"
-    },
-    {
-      "added_at": "2026-04-28 19:46:49",
-      "album": {
-        "name": "Peter, Paul and Mary",
-        "url": "https://open.spotify.com/album/1cRbbPxFMpHFeYIkLqqzBo"
-      },
-      "artists": [
-        {
-          "name": "Peter, Paul and Mary",
-          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
-        }
-      ],
-      "duration_ms": 162933,
-      "name": "500 Miles",
-      "url": "https://open.spotify.com/track/6oMZhY0f1ReI6AJDDYfuSb"
-    },
-    {
-      "added_at": "2026-04-28 19:46:49",
-      "album": {
-        "name": "No Dogs Allowed",
-        "url": "https://open.spotify.com/album/7mXf592qrnsQ7qAvV7Aluz"
-      },
-      "artists": [
-        {
-          "name": "Sidney Gish",
-          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
-        }
-      ],
-      "duration_ms": 294260,
-      "name": "Impostor Syndrome",
-      "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
-    },
-    {
-      "added_at": "2026-04-28 19:46:49",
-      "album": {
-        "name": "The Boy Who Played the Harp",
-        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 219743,
-      "name": "Raindance (feat. Tems)",
-      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
-    },
-    {
-      "added_at": "2026-04-28 19:46:49",
-      "album": {
-        "name": "O peso do Silencio",
-        "url": "https://open.spotify.com/album/2K6QyCZoYKxKpuN3FpZaY7"
-      },
-      "artists": [
-        {
-          "name": "Sertanejo Play",
-          "url": "https://open.spotify.com/artist/1wb384gThJiHolfyfxjCOS"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "O peso do Silencio",
-      "url": "https://open.spotify.com/track/76mQzP8vH5vRPcvIXPRXmD"
-    },
-    {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "ZERO BALA",
         "url": "https://open.spotify.com/album/7MujiaQZnoo6AQ3CNZEJja"
@@ -777,7 +693,55 @@
       "url": "https://open.spotify.com/track/5irWao94uuCfkiMyttfFJ0"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
+      "album": {
+        "name": "Peter, Paul and Mary",
+        "url": "https://open.spotify.com/album/1cRbbPxFMpHFeYIkLqqzBo"
+      },
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+        }
+      ],
+      "duration_ms": 162933,
+      "name": "500 Miles",
+      "url": "https://open.spotify.com/track/6oMZhY0f1ReI6AJDDYfuSb"
+    },
+    {
+      "added_at": "2026-04-29 14:21:50",
+      "album": {
+        "name": "No Dogs Allowed",
+        "url": "https://open.spotify.com/album/7mXf592qrnsQ7qAvV7Aluz"
+      },
+      "artists": [
+        {
+          "name": "Sidney Gish",
+          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
+        }
+      ],
+      "duration_ms": 294260,
+      "name": "Impostor Syndrome",
+      "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
+    },
+    {
+      "added_at": "2026-04-29 14:21:50",
+      "album": {
+        "name": "O peso do Silencio",
+        "url": "https://open.spotify.com/album/2K6QyCZoYKxKpuN3FpZaY7"
+      },
+      "artists": [
+        {
+          "name": "Sertanejo Play",
+          "url": "https://open.spotify.com/artist/1wb384gThJiHolfyfxjCOS"
+        }
+      ],
+      "duration_ms": 221720,
+      "name": "O peso do Silencio",
+      "url": "https://open.spotify.com/track/76mQzP8vH5vRPcvIXPRXmD"
+    },
+    {
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Tem Dias Que o Mundo Pesa",
         "url": "https://open.spotify.com/album/2HJla3GVnPUlHXXkOICo4W"
@@ -793,51 +757,87 @@
       "url": "https://open.spotify.com/track/1ZW94rgBwpPc1WNSSQt55v"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
-        "name": "Famoso \u00cdm\u00e3 | O poderoso chat\u00e3o",
-        "url": "https://open.spotify.com/album/1nJFHpaSmVAKbLMrzWOdwz"
+        "name": "MEGA DO COQUEIRO",
+        "url": "https://open.spotify.com/album/2YP83W3FJJBNSxO4nGyaUo"
       },
       "artists": [
         {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+          "name": "DJ SC",
+          "url": "https://open.spotify.com/artist/3c45GAZr4BVS8dFcyQCkO7"
         },
         {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "MC Leozinho ZS",
-          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
-        },
-        {
-          "name": "DJ GORDINHO DA VF",
-          "url": "https://open.spotify.com/artist/2isWi9fP3idxCaGPPEelEQ"
+          "name": "Mc Lek\u00e3o",
+          "url": "https://open.spotify.com/artist/19yiaMgl4Z5TFhUNp7R1JJ"
         }
       ],
-      "duration_ms": 217845,
-      "name": "Famoso \u00cdm\u00e3 | O poderoso chat\u00e3o",
-      "url": "https://open.spotify.com/track/22bl3LPkCHQSBhCAdw8Jwk"
+      "duration_ms": 149538,
+      "name": "MEGA DO COQUEIRO",
+      "url": "https://open.spotify.com/track/2jxa0nJSol9eSTil3SB13o"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
+      "album": {
+        "name": "99 Ovelhas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1pp27ngl1GUN5SwXAGJQxX"
+      },
+      "artists": [
+        {
+          "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
+          "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
+        }
+      ],
+      "duration_ms": 376731,
+      "name": "99 Ovelhas - Ao Vivo",
+      "url": "https://open.spotify.com/track/74vQyxa6Q7Pmxps3fY0u2I"
+    },
+    {
+      "added_at": "2026-04-29 14:21:50",
+      "album": {
+        "name": "Meu Mestre",
+        "url": "https://open.spotify.com/album/0pgRI4TKSJmgYA8TMkM0fn"
+      },
+      "artists": [
+        {
+          "name": "Get Worship",
+          "url": "https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp"
+        },
+        {
+          "name": "Get Records",
+          "url": "https://open.spotify.com/artist/1CYUWfGfCUbH4AfbK6NG67"
+        },
+        {
+          "name": "Vinicius Cruz",
+          "url": "https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V"
+        }
+      ],
+      "duration_ms": 364104,
+      "name": "Meu Mestre",
+      "url": "https://open.spotify.com/track/04bK600xontKmxPDo5HYRb"
+    },
+    {
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Resenha do Cabral (Ao Vivo)",
         "url": "https://open.spotify.com/album/5VV3PEsxdSkbhojw5hQnkL"
@@ -885,23 +885,7 @@
       "url": "https://open.spotify.com/track/2eSNfty3pjAa3HAM03sGU4"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
-      "album": {
-        "name": "99 Ovelhas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1pp27ngl1GUN5SwXAGJQxX"
-      },
-      "artists": [
-        {
-          "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
-          "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
-        }
-      ],
-      "duration_ms": 376731,
-      "name": "99 Ovelhas - Ao Vivo",
-      "url": "https://open.spotify.com/track/74vQyxa6Q7Pmxps3fY0u2I"
-    },
-    {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Reliquia do 2T",
         "url": "https://open.spotify.com/album/6ecRUuOdAsn1ROohWK7D2Z"
@@ -937,7 +921,7 @@
       "url": "https://open.spotify.com/track/6n9JMoXkXu4lDOu1k6MRpy"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Leak It",
         "url": "https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K"
@@ -953,7 +937,51 @@
       "url": "https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ"
     },
     {
-      "added_at": "2026-04-28 19:46:49",
+      "added_at": "2026-04-29 14:21:50",
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": "2026-04-29 14:21:50",
+      "album": {
+        "name": "Famoso \u00cdm\u00e3 | O poderoso chat\u00e3o",
+        "url": "https://open.spotify.com/album/1nJFHpaSmVAKbLMrzWOdwz"
+      },
+      "artists": [
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "DJ GORDINHO DA VF",
+          "url": "https://open.spotify.com/artist/2isWi9fP3idxCaGPPEelEQ"
+        }
+      ],
+      "duration_ms": 217845,
+      "name": "Famoso \u00cdm\u00e3 | O poderoso chat\u00e3o",
+      "url": "https://open.spotify.com/track/22bl3LPkCHQSBhCAdw8Jwk"
+    },
+    {
+      "added_at": "2026-04-29 14:21:50",
       "album": {
         "name": "Catch Catch (Chinese Ver.)",
         "url": "https://open.spotify.com/album/1AI7g5WoesGtM3c5BROUoQ"
@@ -967,22 +995,6 @@
       "duration_ms": 180000,
       "name": "Catch Catch (Chinese Ver.)",
       "url": "https://open.spotify.com/track/29rzWFatC5WwBw2YypQEzC"
-    },
-    {
-      "added_at": "2026-04-28 19:46:49",
-      "album": {
-        "name": "Amor De Jasmim",
-        "url": "https://open.spotify.com/album/0xEuGbM0VyjUqtrifon0H7"
-      },
-      "artists": [
-        {
-          "name": "T\u00edcia Rebecca",
-          "url": "https://open.spotify.com/artist/5zcsWX4FLo9MMyLWMDEXrz"
-        }
-      ],
-      "duration_ms": 139533,
-      "name": "Amor De Jasmim",
-      "url": "https://open.spotify.com/track/44ohKGEXVpPd7kO1QyVVRE"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

@@ -124,7 +124,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 163079,
       "name": "3Am",
       "url": "https://open.spotify.com/track/031WPypJkBuErqOYNmBCgw"
@@ -760,7 +760,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 155999,
       "name": "After the Fire",
       "url": "https://open.spotify.com/track/7nEH0mWFUp6JanvTPml3VY"
@@ -1916,7 +1916,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 189072,
       "name": "Atrophy (here's to you, my narcissist)",
       "url": "https://open.spotify.com/track/4VW2G9yGYpwpsju2lN6cxa"
@@ -2926,7 +2926,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 157125,
       "name": "Before It's Too Late",
       "url": "https://open.spotify.com/track/4GO3VfKtQPOzXRcijkSVA2"
@@ -4002,7 +4002,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 204000,
       "name": "Broken Souls",
       "url": "https://open.spotify.com/track/7n7ZCoTMHrngc0dYlTrzEQ"
@@ -6421,6 +6421,24 @@
     },
     {
       "album": {
+        "name": "Dead Planet",
+        "url": "https://open.spotify.com/album/2MKebxGUIdwIFW8czsJjeZ"
+      },
+      "artists": [
+        {
+          "name": "Harrison Jay",
+          "url": "https://open.spotify.com/artist/1IP2JOtGneRPhNZEJTo4TG"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135713,
+      "name": "Dead Planet",
+      "url": "https://open.spotify.com/track/5Aa7JWBD51tQlWerC1rC6c"
+    },
+    {
+      "album": {
         "name": "11 songs Plus 4 Bonus songs",
         "url": "https://open.spotify.com/album/7DAKx9ycYQwffRhKRIU6PU"
       },
@@ -6695,6 +6713,24 @@
     },
     {
       "album": {
+        "name": "Devil in a Red T-Shirt",
+        "url": "https://open.spotify.com/album/6mefiK97Qkk6uYWAYczOBx"
+      },
+      "artists": [
+        {
+          "name": "Evan Fahey",
+          "url": "https://open.spotify.com/artist/5UQEmHxArWrbjMM94TFVFi"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Devil in a Red T-Shirt",
+      "url": "https://open.spotify.com/track/3zsBtu7XSlCFEC2wVc5Uva"
+    },
+    {
+      "album": {
         "name": "Devil Stole (My Baby's Ring)",
         "url": "https://open.spotify.com/album/24wOb0vPvgKXSxmwxZCyLQ"
       },
@@ -6760,7 +6796,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 232806,
       "name": "diffusione",
       "url": "https://open.spotify.com/track/0nySMINqN73j5ANpdjrEQJ"
@@ -6940,7 +6976,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 177632,
       "name": "Do It - Do It",
       "url": "https://open.spotify.com/track/6kZjZ79S9RrsstFQkybGpj"
@@ -7144,6 +7180,24 @@
       "duration_ms": 173115,
       "name": "Don't ever go",
       "url": "https://open.spotify.com/track/4ffjbEFePaJNXLDrKUwqTg"
+    },
+    {
+      "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/3umy5P5Z8lc168eDWQwuS0"
+      },
+      "artists": [
+        {
+          "name": "Retro~Genesis",
+          "url": "https://open.spotify.com/artist/0spJVl6JjiIh484jjlScHL"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238139,
+      "name": "Don't Forget Me",
+      "url": "https://open.spotify.com/track/1RwNwMXERLZ3B7IBdkscv8"
     },
     {
       "album": {
@@ -8022,7 +8076,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 260843,
       "name": "Electric Dawn",
       "url": "https://open.spotify.com/track/0BO5LdObXi2MGkEIum2AFr"
@@ -11504,7 +11558,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 86159,
       "name": "Halfway to Nowhere",
       "url": "https://open.spotify.com/track/3EMR9qvOCpUdgaWWo1akpb"
@@ -11826,6 +11880,24 @@
       "duration_ms": 181855,
       "name": "Heal You Slowly",
       "url": "https://open.spotify.com/track/6JbIAdldJegtntaoPAKNbu"
+    },
+    {
+      "album": {
+        "name": "Hear you in the silence",
+        "url": "https://open.spotify.com/album/1iuaowL63kbzi6VuWXDWYV"
+      },
+      "artists": [
+        {
+          "name": "Funeral Letters",
+          "url": "https://open.spotify.com/artist/0cDgNx7GyU4qBNjuQ1Zy7H"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113960,
+      "name": "Hear you in the silence",
+      "url": "https://open.spotify.com/track/7C48kdbcSroFS3LQgvd9cb"
     },
     {
       "album": {
@@ -12468,7 +12540,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 123870,
       "name": "Holding On To Hope",
       "url": "https://open.spotify.com/track/4LxrjQxc1NYX59uT1hUhe8"
@@ -17923,6 +17995,28 @@
     },
     {
       "album": {
+        "name": "Meant To Be",
+        "url": "https://open.spotify.com/album/69LI8nJ1dtsvxYnQ3PmvOU"
+      },
+      "artists": [
+        {
+          "name": "Back In Time",
+          "url": "https://open.spotify.com/artist/5Y6JvZL30qZTqKVfRIvpof"
+        },
+        {
+          "name": "Scarlett",
+          "url": "https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179512,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/119I7wxKgqAsqbgkuxsy8X"
+    },
+    {
+      "album": {
         "name": "In Between The Covers",
         "url": "https://open.spotify.com/album/4jzadU8rESME36eS6U7bx3"
       },
@@ -18744,6 +18838,24 @@
       "duration_ms": 173339,
       "name": "Movin On",
       "url": "https://open.spotify.com/track/2Nr5sqgOtW5xG1xA8IoFAo"
+    },
+    {
+      "album": {
+        "name": "MOVING IS MOVING",
+        "url": "https://open.spotify.com/album/3AyURosRU6goRdRqqcK7Ic"
+      },
+      "artists": [
+        {
+          "name": "Kozmazuul",
+          "url": "https://open.spotify.com/artist/0dCUy3xHD30sy2p9Ab9Ucc"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169541,
+      "name": "MOVING IS MOVING",
+      "url": "https://open.spotify.com/track/4SRL8SgBglenFUFsfdPkuc"
     },
     {
       "album": {
@@ -21747,6 +21859,24 @@
     },
     {
       "album": {
+        "name": "Pavement",
+        "url": "https://open.spotify.com/album/7BDSYbKPHNeYcEFTFWPcm4"
+      },
+      "artists": [
+        {
+          "name": "Avell",
+          "url": "https://open.spotify.com/artist/5tztkMYN5plpPa9vrLoAax"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146181,
+      "name": "Pavement",
+      "url": "https://open.spotify.com/track/6Cvi9oBHhDBoxl4DSrxAzM"
+    },
+    {
+      "album": {
         "name": "Doomsday Play",
         "url": "https://open.spotify.com/album/4tdrdlT1zWjyXlvO477F0n"
       },
@@ -22668,6 +22798,24 @@
       "duration_ms": 87679,
       "name": "Pull Me Under",
       "url": "https://open.spotify.com/track/3qofBEBPBmYsr0h0g7ZxA8"
+    },
+    {
+      "album": {
+        "name": "Line 1",
+        "url": "https://open.spotify.com/album/7hfFL1T5p0vYoCmNaabST5"
+      },
+      "artists": [
+        {
+          "name": "Strathearn",
+          "url": "https://open.spotify.com/artist/5ai6TUTcjUUXmB3WfeFqW4"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325861,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/7s2KVLvcukEffhFNvWnjhO"
     },
     {
       "album": {
@@ -27942,6 +28090,10 @@
         {
           "name": "Keriah",
           "url": "https://open.spotify.com/artist/4bZ6zPZqyysVBP5lRQfgXy"
+        },
+        {
+          "name": "Fe Malefiz",
+          "url": "https://open.spotify.com/artist/2xkvTt1eyxzTNDWRao0Dcd"
         }
       ],
       "date_added": "2026-04-24",
@@ -29309,6 +29461,24 @@
     },
     {
       "album": {
+        "name": "This Means War",
+        "url": "https://open.spotify.com/album/400tvXN7UQW4xrqB5YopYE"
+      },
+      "artists": [
+        {
+          "name": "Jake Wilder",
+          "url": "https://open.spotify.com/artist/0hO22fdqBromLmGqmt1Bku"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167786,
+      "name": "This Means War",
+      "url": "https://open.spotify.com/track/4qOUXzSVcYOh65O2KozgXO"
+    },
+    {
+      "album": {
         "name": "Thought",
         "url": "https://open.spotify.com/album/0VddMn6aynC0g9LBlyyj8c"
       },
@@ -29468,7 +29638,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 175999,
       "name": "Till We Become One",
       "url": "https://open.spotify.com/track/57mysSRVsAV9cipfunyJ6X"
@@ -32405,6 +32575,24 @@
     },
     {
       "album": {
+        "name": "Wired The Same",
+        "url": "https://open.spotify.com/album/0mtpMLz3D114ISLzUis3sW"
+      },
+      "artists": [
+        {
+          "name": "Twin Phase",
+          "url": "https://open.spotify.com/artist/1BpwY5HfzBzkRnmcLZNk1q"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208524,
+      "name": "Wired The Same",
+      "url": "https://open.spotify.com/track/4ZSVq9Gd11AYYekV55lZe1"
+    },
+    {
+      "album": {
         "name": "Soundgarden II",
         "url": "https://open.spotify.com/album/2SP3YOEI5q4dEdoRFnPcYA"
       },
@@ -32542,7 +32730,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 174929,
       "name": "Wlw",
       "url": "https://open.spotify.com/track/4MxQHuGIOeoRWrNEArWFHf"
@@ -32914,6 +33102,24 @@
       "duration_ms": 188653,
       "name": "You",
       "url": "https://open.spotify.com/track/7Fm3Cnqtf4WU13I8Q9mkJW"
+    },
+    {
+      "album": {
+        "name": "Eternal Love",
+        "url": "https://open.spotify.com/album/49ofnYEcHHFiNJamMPHukV"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d2RALYN",
+          "url": "https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206940,
+      "name": "You",
+      "url": "https://open.spotify.com/track/3ousqN37OnAYJfqtvwjp50"
     },
     {
       "album": {
@@ -33592,6 +33798,24 @@
       "duration_ms": 201000,
       "name": "ZenHealing I",
       "url": "https://open.spotify.com/track/5SPxILI9siid4Q2ltugTbc"
+    },
+    {
+      "album": {
+        "name": "Quartzo Rosa",
+        "url": "https://open.spotify.com/album/1FuL9Lsf48JnyB1i1i07Ta"
+      },
+      "artists": [
+        {
+          "name": "Cust\u00f3dio Rezende",
+          "url": "https://open.spotify.com/artist/5HIRp9osuBwibxJi1ovlRQ"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392009,
+      "name": "\u00c1gua Viva",
+      "url": "https://open.spotify.com/track/2GGf3fne4G1MZB8WlZaRri"
     },
     {
       "album": {

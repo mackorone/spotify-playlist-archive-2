@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Brooke Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,196 likes - 215 songs - 11 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,234 likes - 215 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

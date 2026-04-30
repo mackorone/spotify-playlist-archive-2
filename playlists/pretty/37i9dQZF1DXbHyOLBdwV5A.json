@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 132865,
+  "num_followers": 132867,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Eu Voltei",
-        "url": "https://open.spotify.com/album/0ODwJ0peFEa3k3axaltglD"
-      },
-      "artists": [
-        {
-          "name": "Leandro Alencar",
-          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
-        },
-        {
-          "name": "Eliezer Rezende",
-          "url": "https://open.spotify.com/artist/46R0MX2uXNqCdIPeUo3xFh"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Eu Voltei",
-      "url": "https://open.spotify.com/track/6Pd2FCXWEomUTcUraqadp2"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "Vamo Com Tudo",
         "url": "https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 179527,
       "name": "Vamo Com Tudo",
       "url": "https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "Eu Voltei",
+        "url": "https://open.spotify.com/album/0ODwJ0peFEa3k3axaltglD"
+      },
+      "artists": [
+        {
+          "name": "Leandro Alencar",
+          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
+        },
+        {
+          "name": "Eliezer Rezende",
+          "url": "https://open.spotify.com/artist/46R0MX2uXNqCdIPeUo3xFh"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Eu Voltei",
+      "url": "https://open.spotify.com/track/6Pd2FCXWEomUTcUraqadp2"
     },
     {
       "added_at": "2025-08-29 03:01:05",

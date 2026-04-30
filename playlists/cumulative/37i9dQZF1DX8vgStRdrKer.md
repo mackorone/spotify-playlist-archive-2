@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-769 songs - 2 day 18 hr 7 min
+770 songs - 2 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [DAY OF THE LORD](https://open.spotify.com/track/2PZNojC4NNmMM4l3790LJC) | [REFUGE WRSHP](https://open.spotify.com/artist/6tF26GNNvbuamuugTTBiGE) | [DAY OF THE LORD](https://open.spotify.com/album/28sHaz4Rcsy7grBT9OkARL) | 7:07 | 2024-04-26 | 2024-05-16 |
 | [Decided](https://open.spotify.com/track/24bnanTc0X1wQIxbFojZgc) | [DJ Samtop](https://open.spotify.com/artist/1QO8Ftp8j6Tlo9PJiB73Mi), [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7), [Richard Lovings](https://open.spotify.com/artist/1sTC6qMc09R7PzvpNNKtPs) | [Decided](https://open.spotify.com/album/5dQRwhDlZIYeX1bCwwp7OJ) | 3:20 | 2025-09-19 | 2025-11-01 |
 | [Deliverance](https://open.spotify.com/track/2J8OaxMbjG25WPenQNWv5s) | [Jesse Frohling](https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY), [Kenzie Frohling](https://open.spotify.com/artist/6BhByg1qlepPSo2RPtlC0y), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR) | [Deliverance](https://open.spotify.com/album/3U1eMnUPBQwb3UOQBmgsPw) | 3:44 | 2024-03-01 | 2024-05-04 |
-| [Deliverer \- Live](https://open.spotify.com/track/5c3CsPaBPhYcJb8N4UEv03) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Deliverer \(Live\)](https://open.spotify.com/album/13zjMXCQDasfVRhh4CXDsS) | 6:07 | 2025-09-26 |  |
+| [Deliverer \- Live](https://open.spotify.com/track/5c3CsPaBPhYcJb8N4UEv03) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Deliverer \(Live\)](https://open.spotify.com/album/13zjMXCQDasfVRhh4CXDsS) | 6:07 | 2025-09-26 | 2026-04-30 |
 | [Dependable GOD](https://open.spotify.com/track/0qdQ2M4VEq6Yr7VvcK0UqJ) | [Thombee](https://open.spotify.com/artist/0KF8JaRrXlN4Bs9BH6KtNp) | [Dependable GOD](https://open.spotify.com/album/0grDM7MZdF5t8nqJxCeiCl) | 3:36 | 2025-07-04 | 2025-07-11 |
 | [Devotion](https://open.spotify.com/track/633CYHYMJgB8nSfR5HfSaL) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [DEVOTION](https://open.spotify.com/album/06NDllV67evIX6wBSJSKLX) | 5:32 | 2025-06-20 | 2025-08-20 |
 | [Devour](https://open.spotify.com/track/6nvtrRljnxm11qz4l4VvP7) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jlinez](https://open.spotify.com/artist/1IG4PSCy1OokQbRYILUrnN), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [Devour](https://open.spotify.com/album/1bZKLu4bThEhXWFJdpgNcN) | 1:48 | 2025-06-27 | 2025-08-08 |
@@ -189,6 +189,7 @@
 | [Emmanuel Reloaded](https://open.spotify.com/track/6AsF3FYa3dpc31GwRPUjnF) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx), [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx), [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz) | [Emmanuel Reloaded](https://open.spotify.com/album/2xbcCQD5ATKq4Z6AYl6RfB) | 9:19 | 2025-06-06 | 2025-06-27 |
 | [Emperor of the Universe](https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Emperor of the Universe](https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK) | 16:05 | 2024-02-02 | 2025-06-20 |
 | [En Toi](https://open.spotify.com/track/4ibKrcsCo0UPAjrvffTuUB) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [En Toi](https://open.spotify.com/album/7HLBaJFJPFrOcqEcNVoJMh) | 3:13 | 2024-04-12 | 2024-05-24 |
+| [Enough for Me](https://open.spotify.com/track/0GRCnJ6SC7BKP2GfNt0SkQ) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Yielded](https://open.spotify.com/album/7qr1dZ2t1xVpv8vcgotE5D) | 7:26 | 2026-04-10 |  |
 | [ENOUGH FOR ME](https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [ENOUGH FOR ME](https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj) | 9:40 | 2026-01-23 |  |
 | [EPHPHATHA](https://open.spotify.com/track/6VMUu3ZzyZ0JWxebwGHNrL) | [Deborah Ajayi](https://open.spotify.com/artist/5BSaqURPjcHhZCV7wgOYSA) | [EPHPHATHA](https://open.spotify.com/album/3rHMJcx5EM67HGJspt7Cy1) | 9:43 | 2025-07-04 | 2025-07-29 |
 | [Ephphatha](https://open.spotify.com/track/7ny949XutTsiuf3nHSQ30g) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Ephphatha](https://open.spotify.com/album/7conlllzLwMtLnBndRiF29) | 3:52 | 2024-01-26 | 2024-02-16 |

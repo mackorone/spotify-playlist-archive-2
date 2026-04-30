@@ -4,7 +4,7 @@
 
 > This is Peggy Gou\. The essential tracks, all in one playlist.
 
-50 songs - 4 hr 6 min
+51 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Troop \- Original Mix](https://open.spotify.com/track/3RSkg1KZTTjBcVx1hAspxq) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art Of War EP](https://open.spotify.com/album/5qATchUQ9T0fAMPUZZ3Uk6) | 5:53 | 2023-05-02 | 2023-12-14 |
 | [When Round, They Go \- Terekke Remix](https://open.spotify.com/track/0J79qvZLfVAABZ77mCVRPu) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Terekke](https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu) | [Art Of War \(Part II\) EP](https://open.spotify.com/album/1awGHXEnKEn40VYbXFoE16) | 6:27 | 2023-05-02 | 2023-12-14 |
 | [When Round, They Go \- Terekke Remix](https://open.spotify.com/track/2jcLXice4V8TNsvwE76498) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Terekke](https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu) | [Art of War \(Pt\. II\) EP](https://open.spotify.com/album/5wKpkXfZE8R4jQzlszOplp) | 6:27 | 2023-12-13 |  |
+| [Where Do We Go \- Peggy Gou Remix](https://open.spotify.com/track/7icTQjIbMxfkOU71InqarB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Where Do We Go \(Peggy Gou Remix\)](https://open.spotify.com/album/4uehWsaRaI59i4vZgQKQOB) | 5:15 | 2026-04-30 |  |
 | [Your Art](https://open.spotify.com/track/3xSdEXX2d1A02U1jaLmGwl) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 1:57 | 2024-06-09 |  |
 
 \*This playlist was first scraped on 2023-05-03. Prior content cannot be recovered.

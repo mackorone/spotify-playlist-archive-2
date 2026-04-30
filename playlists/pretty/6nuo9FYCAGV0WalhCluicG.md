@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/6nuo9FYCAGV0WalhCluicG.md) - [plain]
 
 > The hottest UK rap, drill, grime and hip\-hop right now\. Featuring the biggest names and rising stars shaping the UK scene, including Nemzzz, EsDeeKid, KidWild and more\. Cover: Nemzzz.
 
-[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 71,088 likes - 70 songs - 3 hr 10 min
+[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 71,086 likes - 70 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wizard Of Oz](https://open.spotify.com/track/4WUmgsEZZZx5aJqb5DE9Ta) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Wizard Of Oz](https://open.spotify.com/album/3ogwVPzWAxYZjROwu0MidL) | 2:33 |
+| 1 | [WIZARD OF OZ](https://open.spotify.com/track/4WUmgsEZZZx5aJqb5DE9Ta) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [WIZARD OF OZ](https://open.spotify.com/album/3ogwVPzWAxYZjROwu0MidL) | 2:33 |
 | 2 | [ONE HIT WONDER](https://open.spotify.com/track/1kAfNwXFY6GvuvNAm1HA6U) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO) | [ONE HIT WONDER](https://open.spotify.com/album/0esMTM0ix53P0vQRvsEEK1) | 1:42 |
 | 3 | [Dope Boyz](https://open.spotify.com/track/0UjqnurLhsm2jf9aUJDfxk) | [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o), [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Dope Boyz](https://open.spotify.com/album/4QdUOiBbK2FXMhYw6NhJwK) | 2:21 |
 | 4 | [COLD](https://open.spotify.com/track/7H5CsjEafNygkvcm69RevN) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [RENT'S DUE \(DELUXE\)](https://open.spotify.com/album/0tbWPYGZ1f6vnOEP1ZxaGI) | 2:23 |

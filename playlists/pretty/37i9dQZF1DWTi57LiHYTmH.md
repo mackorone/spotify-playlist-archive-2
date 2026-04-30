@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 
 > A calm and cosy classical soundtrack to all activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,924 likes - 180 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,029 likes - 180 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 | 12 | [Six Pieces, Op\. 51, TH 143: VI\. Valse sentimentale\. Tempo di Valse](https://open.spotify.com/track/1BbQIyPnuhVIlJEqPcY3Ug) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Daniel Lozakovich](https://open.spotify.com/artist/6NYeMhiOjcNVSXwvkllyTe), [Stanislav Soloviev](https://open.spotify.com/artist/0CTjvv9ntiE7kSYxcIIEwE) | [None but the Lonely Heart](https://open.spotify.com/album/5yjely805RPC9bhGjh4Hc2) | 2:21 |
 | 13 | [12 Songs, Op\. 21: V\. Lilacs \(Transcr\. Rachmaninoff for Solo Piano\)](https://open.spotify.com/track/4ObQ0m7VUtrgdEwpFeCKua) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Sergei Babayan](https://open.spotify.com/artist/79gBfLMlUJNdcXv1nc33oK) | [Rachmaninoff: Préludes; Études\-Tableaux; Moments musicaux](https://open.spotify.com/album/5952RUol8Nl7Ihk1zcaUb4) | 3:01 |
 | 14 | [Spiegel im spiegel](https://open.spotify.com/track/7zHd9LxIZB8WKosSWN9Umj) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Angèle Dubeau](https://open.spotify.com/artist/3aKoUd44IrrqOa6Rzn9Ybq), [La Pietà](https://open.spotify.com/artist/3ZiiIxwcdE60xHzCQ35ewj) | [Arvo Pärt: Portrait](https://open.spotify.com/album/5lSNHTsXwVA7wLlplt92HH) | 8:23 |
-| 15 | [Rêverie, L\. 68: Rêverie](https://open.spotify.com/track/3YJrnXT1UNpRgnc7lcgXSF) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Debussy: Complete Works for Solo Piano, Vol.1](https://open.spotify.com/album/0cfusqtz8FdhjN03BUAS0l) | 4:17 |
+| 15 | [Rêverie, CD 76](https://open.spotify.com/track/3YJrnXT1UNpRgnc7lcgXSF) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Debussy: Complete Works for Solo Piano, Vol.1](https://open.spotify.com/album/0cfusqtz8FdhjN03BUAS0l) | 4:17 |
 | 16 | [I Giorni](https://open.spotify.com/track/0VLascXUZ2Ze2u5kUD5J1f) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Islands \- Essential Einaudi](https://open.spotify.com/album/7k1Ki5pYinGM3lME2Tv3AM) | 6:51 |
 | 17 | [En rêve, Nocturne, S\. 207](https://open.spotify.com/track/6PFVI2TGMfDEAzDsx9KKln) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Marc\-André Hamelin](https://open.spotify.com/artist/0pm0LWiklLtNXUP2GVwdqY) | [Hamelin Plays Liszt: Hungarian Rhapsodies Nos\. 2, 10 & 13; Un sospiro; Nuages gris etc.](https://open.spotify.com/album/5FV5T6BMPTJvDoPKGtVnE1) | 2:32 |
 | 18 | [Lyric Pieces, Book 5, Op\. 54: Nocturne](https://open.spotify.com/track/2GJFu2G9fhaYFrOoX9bejs) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Alessio Bax](https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur) | [Lullabies for Mila](https://open.spotify.com/album/7DfeNcn4aBR5eimaq9imOx) | 3:40 |

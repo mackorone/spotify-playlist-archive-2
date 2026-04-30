@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Baileyrp",
-  "num_followers": 255911,
+  "num_followers": 255918,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJwMOGjBusuajDfCRmHuZ7NJu+cT",
+  "snapshot_id": "AAAAAOVrWlCdsXYdN+Tbx9uAlnL/QCIL",
   "tracks": [
     {
       "added_at": "2026-04-22 16:16:37",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/6sbDwoTxXJ2AdIE2UIZHye"
     },
     {
+      "added_at": "2026-04-29 18:30:29",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/5iMuYMgn6229IR2g1221Vs"
+      },
+      "artists": [
+        {
+          "name": "Alana Markel",
+          "url": "https://open.spotify.com/artist/6PC5HPcQCXiidE2DKTAwoY"
+        }
+      ],
+      "duration_ms": 170330,
+      "name": "Place Like Home",
+      "url": "https://open.spotify.com/track/5mQqlb1fRJ2pt3NKocO2cQ"
+    },
+    {
       "added_at": "2026-04-22 16:16:37",
       "album": {
         "name": "sad song",
@@ -41,20 +57,56 @@
       "url": "https://open.spotify.com/track/550U3xKjOwcHU36I47JX5P"
     },
     {
-      "added_at": "2026-04-22 16:16:37",
+      "added_at": "2026-04-29 18:30:29",
       "album": {
-        "name": "Sun after rain",
-        "url": "https://open.spotify.com/album/0KDmZawPnFYKTYL2PbSkT9"
+        "name": "Barrons Hotel/Yellow Bones",
+        "url": "https://open.spotify.com/album/4DiYXaIgNZZBKHwWBjXr6Y"
       },
       "artists": [
         {
-          "name": "ZK king",
-          "url": "https://open.spotify.com/artist/0mXeqEE6ZBHM6B9CPpB9PS"
+          "name": "Purelink",
+          "url": "https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ"
+        },
+        {
+          "name": "Rainy Miller",
+          "url": "https://open.spotify.com/artist/53LAWIqLkYE3N2UFod80A3"
         }
       ],
-      "duration_ms": 237600,
-      "name": "Sun after rain",
-      "url": "https://open.spotify.com/track/1uoeixxLW14fGVBt6e3vQ1"
+      "duration_ms": 354461,
+      "name": "Barrons Hotel (I, To, Thee.)",
+      "url": "https://open.spotify.com/track/0eeyCEOLKsVVWxfZP0zA8k"
+    },
+    {
+      "added_at": "2026-04-29 18:35:08",
+      "album": {
+        "name": "Blue Angel Sparkling Silver 2",
+        "url": "https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor"
+      },
+      "artists": [
+        {
+          "name": "Quiet Light",
+          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
+        }
+      ],
+      "duration_ms": 186446,
+      "name": "You Say I Love You",
+      "url": "https://open.spotify.com/track/2kv2epe0oiyQs8msJXbn9w"
+    },
+    {
+      "added_at": "2026-04-29 18:30:29",
+      "album": {
+        "name": "Above n Beyond (Weather Man)",
+        "url": "https://open.spotify.com/album/6XQq8NaETTv1V0qbwIP7Yv"
+      },
+      "artists": [
+        {
+          "name": "mykel",
+          "url": "https://open.spotify.com/artist/0dVSaGML9lVavgOvyV1PVD"
+        }
+      ],
+      "duration_ms": 111784,
+      "name": "Above n Beyond (Weather Man)",
+      "url": "https://open.spotify.com/track/1JPLwvtprzZh3J7FFmzBfS"
     },
     {
       "added_at": "2026-04-08 16:00:06",
@@ -73,20 +125,20 @@
       "url": "https://open.spotify.com/track/1etY8R5Z0rXhBKlqkUkkwN"
     },
     {
-      "added_at": "2026-04-22 16:16:37",
+      "added_at": "2026-04-29 18:30:29",
       "album": {
-        "name": "Little Miss Sunshine",
-        "url": "https://open.spotify.com/album/5HfhKhEHJiRv1UknjlocfF"
+        "name": "Nothing to be Bitter About",
+        "url": "https://open.spotify.com/album/6eGAg30P7vdKPzjB2t7yan"
       },
       "artists": [
         {
-          "name": "Eaves Wilder",
-          "url": "https://open.spotify.com/artist/41NfVLegTOApdhejdXt4jQ"
+          "name": "Alann8h",
+          "url": "https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We"
         }
       ],
-      "duration_ms": 289650,
-      "name": "The Great Plains",
-      "url": "https://open.spotify.com/track/6c8Uo1Oxh8voqJqA1O5Jgz"
+      "duration_ms": 189600,
+      "name": "Nothing to be Bitter About",
+      "url": "https://open.spotify.com/track/5u54LDMrRJ5ciBDpakE5wU"
     },
     {
       "added_at": "2026-04-08 16:00:06",
@@ -103,6 +155,134 @@
       "duration_ms": 160616,
       "name": "Better Angels",
       "url": "https://open.spotify.com/track/4dVmB6Y60E2U5tK79G2dhK"
+    },
+    {
+      "added_at": "2026-04-29 18:30:29",
+      "album": {
+        "name": "Mean Girl",
+        "url": "https://open.spotify.com/album/5dzFw2ll8liIK17jSCHi2z"
+      },
+      "artists": [
+        {
+          "name": "TOAST CLUB",
+          "url": "https://open.spotify.com/artist/7Fxkd4fNZApzhdE10tlixG"
+        }
+      ],
+      "duration_ms": 331713,
+      "name": "Mean Girl",
+      "url": "https://open.spotify.com/track/2THJMekCUeQDK7VQ8FoRSp"
+    },
+    {
+      "added_at": "2026-04-29 18:30:29",
+      "album": {
+        "name": "Criminal Kissing",
+        "url": "https://open.spotify.com/album/5rLPF3X7izZap4WFPav7Yb"
+      },
+      "artists": [
+        {
+          "name": "IAN SWEET",
+          "url": "https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Criminal Kissing",
+      "url": "https://open.spotify.com/track/1rQtRwgx4vB2reixMAoHsR"
+    },
+    {
+      "added_at": "2026-04-22 16:16:37",
+      "album": {
+        "name": "Sun after rain",
+        "url": "https://open.spotify.com/album/0KDmZawPnFYKTYL2PbSkT9"
+      },
+      "artists": [
+        {
+          "name": "ZK king",
+          "url": "https://open.spotify.com/artist/0mXeqEE6ZBHM6B9CPpB9PS"
+        }
+      ],
+      "duration_ms": 237600,
+      "name": "Sun after rain",
+      "url": "https://open.spotify.com/track/1uoeixxLW14fGVBt6e3vQ1"
+    },
+    {
+      "added_at": "2026-04-29 18:30:29",
+      "album": {
+        "name": "there's an atm inside",
+        "url": "https://open.spotify.com/album/73jAMZpl5U6duG0wrw83jZ"
+      },
+      "artists": [
+        {
+          "name": "ps goner",
+          "url": "https://open.spotify.com/artist/2NvW7opzLcyUzwUCpYEacp"
+        }
+      ],
+      "duration_ms": 265387,
+      "name": "broken dream",
+      "url": "https://open.spotify.com/track/3z2lxgazaDUONf4CISarud"
+    },
+    {
+      "added_at": "2026-04-29 18:30:29",
+      "album": {
+        "name": "SUEDE",
+        "url": "https://open.spotify.com/album/0E7McFVupFPcGrtULqE5ny"
+      },
+      "artists": [
+        {
+          "name": "Alex Banin",
+          "url": "https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "SUEDE",
+      "url": "https://open.spotify.com/track/2YdZ5tObXI4c5AXOwzK0PJ"
+    },
+    {
+      "added_at": "2026-04-29 19:25:30",
+      "album": {
+        "name": "Don't Kill the Vibe",
+        "url": "https://open.spotify.com/album/4tYBaS0xN0eYmFSGHJ1C7N"
+      },
+      "artists": [
+        {
+          "name": "Jordan Joy",
+          "url": "https://open.spotify.com/artist/4SpTLCaS4bSWUFgN7AapHv"
+        }
+      ],
+      "duration_ms": 262459,
+      "name": "Don't Kill the Vibe",
+      "url": "https://open.spotify.com/track/3ZiHHaMuZ2cQXLtjxgiGUd"
+    },
+    {
+      "added_at": "2026-04-15 17:14:31",
+      "album": {
+        "name": "Lizzie mcguire",
+        "url": "https://open.spotify.com/album/20wDkNu6JhtpZUwVFS4gg6"
+      },
+      "artists": [
+        {
+          "name": "Nara's Room",
+          "url": "https://open.spotify.com/artist/3HZtXP2NFVOKB6aNLCmpwW"
+        }
+      ],
+      "duration_ms": 260296,
+      "name": "Lizzie mcguire",
+      "url": "https://open.spotify.com/track/7kNqAfUxLmrETcwvBTQCkg"
+    },
+    {
+      "added_at": "2026-04-22 16:16:37",
+      "album": {
+        "name": "Little Miss Sunshine",
+        "url": "https://open.spotify.com/album/5HfhKhEHJiRv1UknjlocfF"
+      },
+      "artists": [
+        {
+          "name": "Eaves Wilder",
+          "url": "https://open.spotify.com/artist/41NfVLegTOApdhejdXt4jQ"
+        }
+      ],
+      "duration_ms": 289650,
+      "name": "The Great Plains",
+      "url": "https://open.spotify.com/track/6c8Uo1Oxh8voqJqA1O5Jgz"
     },
     {
       "added_at": "2026-04-15 17:14:31",
@@ -215,22 +395,6 @@
       "duration_ms": 202117,
       "name": "Generic Actress",
       "url": "https://open.spotify.com/track/6B5UyhbPKCXvmF3FOfud0K"
-    },
-    {
-      "added_at": "2026-04-15 17:14:31",
-      "album": {
-        "name": "Lizzie mcguire",
-        "url": "https://open.spotify.com/album/20wDkNu6JhtpZUwVFS4gg6"
-      },
-      "artists": [
-        {
-          "name": "Nara's Room",
-          "url": "https://open.spotify.com/artist/3HZtXP2NFVOKB6aNLCmpwW"
-        }
-      ],
-      "duration_ms": 260296,
-      "name": "Lizzie mcguire",
-      "url": "https://open.spotify.com/track/7kNqAfUxLmrETcwvBTQCkg"
     },
     {
       "added_at": "2026-04-15 17:14:31",
@@ -411,22 +575,6 @@
       "duration_ms": 203312,
       "name": "Tethered",
       "url": "https://open.spotify.com/track/0r3lhQvFpzXSgm86156k1w"
-    },
-    {
-      "added_at": "2026-04-08 16:00:06",
-      "album": {
-        "name": "Restart",
-        "url": "https://open.spotify.com/album/4whtYd1azyX3WMI0CR8biu"
-      },
-      "artists": [
-        {
-          "name": "Alana Markel",
-          "url": "https://open.spotify.com/artist/6PC5HPcQCXiidE2DKTAwoY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Restart",
-      "url": "https://open.spotify.com/track/2xbN36IbgTx5iNzwAQi0Th"
     },
     {
       "added_at": "2026-03-11 17:52:17",
@@ -1059,138 +1207,6 @@
       "duration_ms": 181566,
       "name": "1 plus 1",
       "url": "https://open.spotify.com/track/10Vy8sTZEt4gAYs3DTKKon"
-    },
-    {
-      "added_at": "2026-02-18 17:00:06",
-      "album": {
-        "name": "almost normal",
-        "url": "https://open.spotify.com/album/6TjhZBF4MKIPszmD0mzbf0"
-      },
-      "artists": [
-        {
-          "name": "bedrumor",
-          "url": "https://open.spotify.com/artist/7xQaQxlrXaBtgGcq4rsrHI"
-        }
-      ],
-      "duration_ms": 222890,
-      "name": "moon and i",
-      "url": "https://open.spotify.com/track/3XHTgJgsrG7bEhhz8z4RAY"
-    },
-    {
-      "added_at": "2026-02-18 17:00:06",
-      "album": {
-        "name": "undercover",
-        "url": "https://open.spotify.com/album/5dNIJy4DxK00eVtb0SYPnX"
-      },
-      "artists": [
-        {
-          "name": "isobel",
-          "url": "https://open.spotify.com/artist/2qWWux0rPt1TL9UsygIpCA"
-        }
-      ],
-      "duration_ms": 238571,
-      "name": "undercover",
-      "url": "https://open.spotify.com/track/18PlUq2qne2iZRJt91wsgV"
-    },
-    {
-      "added_at": "2026-02-18 17:00:06",
-      "album": {
-        "name": "Repeat Offender",
-        "url": "https://open.spotify.com/album/2YMTdAOI5Tv0fwOiV2OzMt"
-      },
-      "artists": [
-        {
-          "name": "yeemz",
-          "url": "https://open.spotify.com/artist/3esOPpGsiTP1Rc5lS1Jr6a"
-        }
-      ],
-      "duration_ms": 153733,
-      "name": "Repeat Offender",
-      "url": "https://open.spotify.com/track/4yqaNXhRmycJUJoX1BZAhG"
-    },
-    {
-      "added_at": "2026-02-18 17:00:06",
-      "album": {
-        "name": "Rock Candy",
-        "url": "https://open.spotify.com/album/6An9Rzzsvht8ewXVhulBf8"
-      },
-      "artists": [
-        {
-          "name": "Mackeeper",
-          "url": "https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX"
-        }
-      ],
-      "duration_ms": 110320,
-      "name": "Pop",
-      "url": "https://open.spotify.com/track/6VRRHGNt3ewRm8oRlXnyJO"
-    },
-    {
-      "added_at": "2026-02-04 17:00:09",
-      "album": {
-        "name": "What Do They See",
-        "url": "https://open.spotify.com/album/1zOVu4GpQZdDwEPrfoapgW"
-      },
-      "artists": [
-        {
-          "name": "Yes Ma'am",
-          "url": "https://open.spotify.com/artist/5mVfHZc8vQGl1r5p2QDNuD"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Watching",
-      "url": "https://open.spotify.com/track/35NqFBeUgIcB651JQ22PYU"
-    },
-    {
-      "added_at": "2026-02-04 17:00:09",
-      "album": {
-        "name": "Even",
-        "url": "https://open.spotify.com/album/2MHR4XQoRSY0palnrOdMWr"
-      },
-      "artists": [
-        {
-          "name": "Saburnia",
-          "url": "https://open.spotify.com/artist/3uW5Tz5SFAZuae3LdWSfhQ"
-        }
-      ],
-      "duration_ms": 165629,
-      "name": "Even",
-      "url": "https://open.spotify.com/track/36vGZ3MJUeXWHgmLT99w48"
-    },
-    {
-      "added_at": "2026-01-14 17:37:13",
-      "album": {
-        "name": "Pants on fire",
-        "url": "https://open.spotify.com/album/0ninOohrgxxcpkCKfozNjc"
-      },
-      "artists": [
-        {
-          "name": "the sound chalk makes",
-          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
-        }
-      ],
-      "duration_ms": 97500,
-      "name": "4wheelpharmacy",
-      "url": "https://open.spotify.com/track/0LMlZRkPE804SQSQDCHyz1"
-    },
-    {
-      "added_at": "2026-01-14 17:37:13",
-      "album": {
-        "name": "Body (ft. Jia*)",
-        "url": "https://open.spotify.com/album/0eZvJ7SWUQREAWNkZb14kv"
-      },
-      "artists": [
-        {
-          "name": "mer marcum",
-          "url": "https://open.spotify.com/artist/1hD768RDip7WrExOXS5pLN"
-        },
-        {
-          "name": "Jia*",
-          "url": "https://open.spotify.com/artist/23B8icZGpSGzcedCDa2Cjy"
-        }
-      ],
-      "duration_ms": 198570,
-      "name": "Body (ft. Jia*)",
-      "url": "https://open.spotify.com/track/31f0sfaJA5145zx2JZhROI"
     }
   ],
   "unique_name": "Fresh Finds Indie",

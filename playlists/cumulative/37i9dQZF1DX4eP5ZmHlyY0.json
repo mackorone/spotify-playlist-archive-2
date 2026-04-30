@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "ReDeFINE",
+        "url": "https://open.spotify.com/album/2yTbiWOgajiIzxxn04qPsL"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "AWAKE",
+      "url": "https://open.spotify.com/track/0roHd2LRFRPs9QE6bf4Tzi"
+    },
+    {
+      "album": {
         "name": "Awakening Light",
         "url": "https://open.spotify.com/album/3Kps4YJFy6c9njCQ9IMoU5"
       },

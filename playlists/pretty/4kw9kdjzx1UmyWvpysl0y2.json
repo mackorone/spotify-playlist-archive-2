@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124010,
+  "num_followers": 124004,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVWMA5S011Qhe4ClsvXMKFUCFPNha/",
+  "snapshot_id": "AAAVWQnhjdHG9RWOWTB91pboMC9rR0k1",
   "tracks": [
+    {
+      "added_at": "2026-04-29 12:53:34",
+      "album": {
+        "name": "Secret For You",
+        "url": "https://open.spotify.com/album/5LTh8DfneuDw0kuA4gWzDz"
+      },
+      "artists": [
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        },
+        {
+          "name": "Molly Morgan",
+          "url": "https://open.spotify.com/artist/41tjMmR8CEbGeTGA4t7kZh"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Secret For You",
+      "url": "https://open.spotify.com/track/1P1CCxAlgAI2ugYphI7P36"
+    },
     {
       "added_at": "2026-04-27 15:21:20",
       "album": {

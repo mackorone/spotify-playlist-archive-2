@@ -4,7 +4,7 @@
 
 > 
 
-8,611 songs - 21 day 22 hr 41 min
+8,615 songs - 21 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2186,7 +2186,7 @@
 | [Floor Seats](https://open.spotify.com/track/6AomCkEOQUODCYzQwH4SWC) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Floor Seats](https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97) | 2:37 | 2025-01-17 |  |
 | [Flow Experience](https://open.spotify.com/track/7clA4NZUwdx6hoVXIdYLL0) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg), [王可鑫](https://open.spotify.com/artist/5PUiSXEwTWuOWBoy6j5uXx) | [Honkai: Star Rail \- Out of Control \(Original Game Soundtrack\)](https://open.spotify.com/album/6sIFNh8l8p7cAYvW2RJrTM) | 1:30 | 2025-09-28 |  |
 | [Flow of Mildness](https://open.spotify.com/track/2hI5tToSrWSBRJUfsrvetx) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Jade Moon Upon a Sea of Clouds \(Original Game Soundtrack\)](https://open.spotify.com/album/22jmHd52fUk6hDe8S3Et0T) | 1:19 | 2025-11-29 |  |
-| [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2025-04-11 |  |
+| [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2025-04-11 | 2026-04-30 |
 | [flower](https://open.spotify.com/track/1BymrzeFs03QuOyC8nO3w7) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [True](https://open.spotify.com/album/1GnrW9Luba7DskLyeEqhqS) | 4:58 | 2026-02-09 |  |
 | [flower](https://open.spotify.com/track/2w8RI0AYT5Hlc49olvZMIB) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [True](https://open.spotify.com/album/6NNW5jnGEIkFZeYHpGgAlo) | 4:58 | 2025-01-03 |  |
 | [Flowers Rise](https://open.spotify.com/track/7HWVAVAwsuXrMjXvHhQega) | [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [Gods Father](https://open.spotify.com/album/2pWiCJOBqxq4jtmuvdQG4J) | 2:21 | 2025-01-03 |  |
@@ -4608,7 +4608,7 @@
 | [Nonviolent Communication \(Metro Boomin & James Blake, A$AP Rocky, 21 Savage\)](https://open.spotify.com/track/3xMnPIvsaWwzHzqqzaihEX) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:29 | 2025-01-04 |  |
 | [Noodle Soup](https://open.spotify.com/track/1yAGvQwKfr9hZF8qlaEhEO) | [Four80East](https://open.spotify.com/artist/2xiHxT5QkkxHVhljrRGbW9) | [En Route](https://open.spotify.com/album/6D5cW8oLf25u0F4PdW0Quj) | 4:14 | 2025-01-21 |  |
 | [Normal Girl](https://open.spotify.com/track/5fQBa4wkmq28xpSLOQ202K) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:13 | 2025-01-15 |  |
-| [NOSAE NOSAE](https://open.spotify.com/track/2SBnYX6QFYotZEeVgxr0nv) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [YAINS](https://open.spotify.com/album/2sdAsii9EScLqXidDLmMg5) | 2:48 | 2025-01-03 |  |
+| [NOSAE NOSAE](https://open.spotify.com/track/2SBnYX6QFYotZEeVgxr0nv) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [YAINS](https://open.spotify.com/album/2sdAsii9EScLqXidDLmMg5) | 2:48 | 2025-01-03 | 2026-04-30 |
 | [Nosetalgia](https://open.spotify.com/track/7aK5rlTVxSgcqShPMI1TTH) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [My Name Is My Name](https://open.spotify.com/album/42oQv8fbI5CbeuAasf2ILC) | 3:36 | 2025-01-15 |  |
 | [Nostalgia](https://open.spotify.com/track/6Ntuk2d5uKOqjkQvcFiv4C) | [Chill Aqua](https://open.spotify.com/artist/4sgWFzT0ptklnjTpTlQUk0) | [Nostalgia](https://open.spotify.com/album/4bhVu8aLgW2TEPByex4reA) | 1:43 | 2024-12-14 |  |
 | [Nostalgia](https://open.spotify.com/track/5YOZ8dmRoBvdmtWcm74xKK) | [Votabias](https://open.spotify.com/artist/6zzwsRuoaNV98DzIekp59M) | [Nostalgia](https://open.spotify.com/album/7IlffKtA9n50dRcdqueD6p) | 1:43 | 2025-03-08 |  |
@@ -7923,6 +7923,7 @@
 | [勝手にひとりでドキドキすんなよ](https://open.spotify.com/track/2uI59rwix0XOlYnUdvtoXr) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [ライカ \(Special Edition\)](https://open.spotify.com/album/3KSkxrfrvDqPwNiAYBahUn) | 4:46 | 2024-12-14 |  |
 | [勿忘](https://open.spotify.com/track/0XZyF9lv6diMt4bxThOL0h) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Grower](https://open.spotify.com/album/4TapnJaH5MhqK5Jn7jt3eS) | 4:11 | 2024-12-07 |  |
 | [午夜の待ち合わせ](https://open.spotify.com/track/0MGQHJPSWR2e2fj8VTNLYF) | [Hello Sleepwalkers](https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm) | [Masked Monkey Awakening](https://open.spotify.com/album/0HhmEc6Zg5jIeELq7Ookfp) | 2:50 | 2025-01-03 |  |
+| [午後の眠り](https://open.spotify.com/track/2XnI5n569R4tAb9QvI0wkF) | [Hideyuki Fukasawa](https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu) | [魔法使いの夜 オリジナルサウンドトラック](https://open.spotify.com/album/5BAI5mFLd5S9YdevUCnOrd) | 2:24 | 2026-04-30 |  |
 | [卒業証書](https://open.spotify.com/track/2IbsFcA4QHMFoL3lJlPY9l) | [Shion Miyawaki](https://open.spotify.com/artist/3iNmysCq0FJrHxpqUUagn2) | [卒業証書](https://open.spotify.com/album/7M8mokoPuWZXU1jrXNoHJH) | 4:58 | 2025-03-31 |  |
 | [名前のない日々へ](https://open.spotify.com/track/50Bpk00qoU0kibpHNWgPjP) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [名前のない日々へ](https://open.spotify.com/album/3JdoGesd5RkeiraCoNgroP) | 3:36 | 2025-01-15 |  |
 | [名前は片想い](https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [名前は片想い](https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9) | 3:36 | 2025-01-03 |  |
@@ -7991,6 +7992,7 @@
 | [宝島](https://open.spotify.com/track/2UMEQB9WSLIYkh7fkg3FiJ) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [S・P・O・R・T・S](https://open.spotify.com/album/0NOekKHFqDhfySuxdd94vQ) | 5:02 | 2025-01-20 |  |
 | [寄り酔い](https://open.spotify.com/track/7Hj7PMdrx3bKse1hhL7qv4) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [青二才](https://open.spotify.com/album/2Tv54fqQpFKlykCpAECxI8) | 3:39 | 2025-01-15 |  |
 | [密やかに](https://open.spotify.com/track/1vH0VkHWjdFkh0R2hhBh6n) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 2:53 | 2025-01-03 |  |
+| [密談](https://open.spotify.com/track/4gmptn5Y3TmAXpEgJIRvHX) | [KATE](https://open.spotify.com/artist/1kHLKBFBmwip3x5aAiKBeq) | [魔法使いの夜 オリジナルサウンドトラック](https://open.spotify.com/album/5BAI5mFLd5S9YdevUCnOrd) | 2:30 | 2026-04-30 |  |
 | [小さな恋のうた](https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:42 | 2026-02-20 |  |
 | [小さな恋のうた](https://open.spotify.com/track/3rysOpH29UDtPpv5W2pzWZ) | [高木さん\(CV:高橋李依\)](https://open.spotify.com/artist/1R0fW14xdvdhRIJs7WPIGP) | [からかい上手の高木さん Cover song collection](https://open.spotify.com/album/6G6yyzmoEPUpacTNxTjnaO) | 4:07 | 2026-02-20 |  |
 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 | 2025-01-03 |  |
@@ -8006,6 +8008,7 @@
 | [平行線](https://open.spotify.com/track/206gqT4spFnIoGwuCpwR79) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [ミカヅキの航海](https://open.spotify.com/album/15eNAwfeREX3xNlBSN28wK) | 4:58 | 2026-02-20 |  |
 | [幸福なわがまま](https://open.spotify.com/track/2XoCcqvw16xg6friJ5c3oH) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [幸福なわがまま](https://open.spotify.com/album/0KWQU3eMOwB0toCezj0QOM) | 3:47 | 2025-01-15 |  |
 | [廻廻奇譚](https://open.spotify.com/track/2gSkvrwfCXCgqeugzezn97) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻廻奇譚](https://open.spotify.com/album/6f35hoWi8xaqBaJUKMszct) | 3:39 | 2025-01-03 |  |
+| [待ち焦がれる](https://open.spotify.com/track/0cTAyiyvLnctzulMKPBh8l) | [James Harris](https://open.spotify.com/artist/1ZBnCfsXaG6RXRbStIbRSt) | [魔法使いの夜 オリジナルサウンドトラック](https://open.spotify.com/album/5BAI5mFLd5S9YdevUCnOrd) | 2:11 | 2026-04-30 |  |
 | [心のチャイム\(2012 Version\)](https://open.spotify.com/track/0ldEDw9Zl9rhVfdbhk6AvP) | [hil](https://open.spotify.com/artist/2MbbIrdBoyD0U6tUfqDRKF) | [Fate/stay night \[Realta Nua\] Soundtrack Reproduction](https://open.spotify.com/album/5EfoCdBxPfGkXwmnMiZ3Xf) | 3:06 | 2025-08-10 |  |
 | [心予報](https://open.spotify.com/track/4KcTqk3YtbJNVhvbhBDVw2) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Smile](https://open.spotify.com/album/1bDIYo22A8sSV0ySqc4pcS) | 3:19 | 2025-01-03 |  |
 | [心予報 \(feat\. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク\)](https://open.spotify.com/track/3NxmPorT172gaqyGiOE3bT) | [MORE MORE JUMP!](https://open.spotify.com/artist/1yorjq7rihYVC8Se7eRKps) | [MORE MORE JUMP！ SEKAI ALBUM vol.2](https://open.spotify.com/album/4doaLuipD5WN88a47Zzdv9) | 3:21 | 2025-12-27 |  |
@@ -8217,6 +8220,7 @@
 | [通り恋](https://open.spotify.com/track/72lrebaqFNOZt8GMS32gvZ) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [濡れゆく私小説](https://open.spotify.com/album/7fWU9HyW6Ukh8ajJNJAuOI) | 3:55 | 2025-01-03 |  |
 | [金木犀 \(feat\. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音レン\)](https://open.spotify.com/track/45NEwW3OoBymHXoL6CNwxn) | [Vivid BAD SQUAD](https://open.spotify.com/artist/6mEgpqXA4yzhhncW4cBHlh) | [Vivid BAD SQUAD SEKAI ALBUM vol.3](https://open.spotify.com/album/3TZPSylPSelxKLmxRlLYmb) | 2:19 | 2025-12-08 |  |
 | [金木犀の夜](https://open.spotify.com/track/27udJcfu06TvbbOpgfxIlw) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [タイム・ラプス](https://open.spotify.com/album/3g010J7Tee9KgJEjzBb2TX) | 4:05 | 2025-01-03 |  |
+| [鍵盤は躍る](https://open.spotify.com/track/7cEHnfDAIOsqLafENSAsG5) | [Hideyuki Fukasawa](https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu) | [魔法使いの夜 オリジナルサウンドトラック](https://open.spotify.com/album/5BAI5mFLd5S9YdevUCnOrd) | 3:28 | 2026-04-30 |  |
 | [閃光少女](https://open.spotify.com/track/6bsQqsm2EAztXE6kk6hR2s) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [スポーツ](https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU) | 2:57 | 2025-01-15 |  |
 | [闇夜](https://open.spotify.com/track/7vtM2vTsBAIE3sXzmIrmkz) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Smile](https://open.spotify.com/album/1bDIYo22A8sSV0ySqc4pcS) | 3:50 | 2025-01-03 |  |
 | [限りなく灰色へ](https://open.spotify.com/track/4JqO5DZY4QsEQ5fzUA5NYK) | [東雲絵名](https://open.spotify.com/artist/7aFsPOlM4a8W7ViZ8lnUjW) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 4:34 | 2025-10-03 |  |

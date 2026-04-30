@@ -1,12 +1,12 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1086,
+  "num_followers": 1088,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFRQgQkc8sKlhst04cMmHB9vtIHfId",
+  "snapshot_id": "AAAFR4IL7B6350fIJcl0xLgywSsHDZub",
   "tracks": [
     {
       "added_at": "2026-04-27 23:05:49",
@@ -69,20 +69,20 @@
       "url": "https://open.spotify.com/track/75gCrv8FPUVshSw5w98NHp"
     },
     {
-      "added_at": "2026-04-23 22:00:47",
+      "added_at": "2026-04-20 23:27:25",
       "album": {
-        "name": "The Air That You And I Breathe Is Not The Same (ECLIPSED)",
-        "url": "https://open.spotify.com/album/3I1KfgTO9cIaiV72Eigz1y"
+        "name": "Gonarch's Lair",
+        "url": "https://open.spotify.com/album/7ggH0DYZKT1p5l9U2j1z3y"
       },
       "artists": [
         {
-          "name": "Biscuit",
-          "url": "https://open.spotify.com/artist/75RaPp7xp9Czh1CpzWyUUR"
+          "name": "Vylet Pony",
+          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
         }
       ],
-      "duration_ms": 295636,
-      "name": "The Air That You And I Breathe Is Not The Same - ECLIPSED",
-      "url": "https://open.spotify.com/track/46pdXv8YDVVPk558tchreU"
+      "duration_ms": 205500,
+      "name": "SNARL AT YOUR FRIENDS!!!",
+      "url": "https://open.spotify.com/track/4MtrLEGZjii0FEGb4R302B"
     },
     {
       "added_at": "2026-04-15 18:25:06",
@@ -99,6 +99,22 @@
       "duration_ms": 171654,
       "name": "should've died years ago",
       "url": "https://open.spotify.com/track/7ePJ6BcAdvmgHmP1s3aSyy"
+    },
+    {
+      "added_at": "2026-04-23 22:00:47",
+      "album": {
+        "name": "The Air That You And I Breathe Is Not The Same (ECLIPSED)",
+        "url": "https://open.spotify.com/album/3I1KfgTO9cIaiV72Eigz1y"
+      },
+      "artists": [
+        {
+          "name": "Biscuit",
+          "url": "https://open.spotify.com/artist/75RaPp7xp9Czh1CpzWyUUR"
+        }
+      ],
+      "duration_ms": 295636,
+      "name": "The Air That You And I Breathe Is Not The Same - ECLIPSED",
+      "url": "https://open.spotify.com/track/46pdXv8YDVVPk558tchreU"
     },
     {
       "added_at": "2026-04-15 18:21:06",
@@ -179,22 +195,6 @@
       "duration_ms": 200930,
       "name": "CREDIT CARD",
       "url": "https://open.spotify.com/track/5P1LnQvlvZmhWvdieCyMoO"
-    },
-    {
-      "added_at": "2026-04-20 23:27:25",
-      "album": {
-        "name": "Gonarch's Lair",
-        "url": "https://open.spotify.com/album/7ggH0DYZKT1p5l9U2j1z3y"
-      },
-      "artists": [
-        {
-          "name": "Vylet Pony",
-          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "SNARL AT YOUR FRIENDS!!!",
-      "url": "https://open.spotify.com/track/4MtrLEGZjii0FEGb4R302B"
     },
     {
       "added_at": "2026-03-05 04:42:47",

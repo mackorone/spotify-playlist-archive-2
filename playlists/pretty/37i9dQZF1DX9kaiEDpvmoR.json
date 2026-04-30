@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93879,
+  "num_followers": 93876,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-04-23 22:01:15",
       "album": {
+        "name": "Your Favorite Toy",
+        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/1N8fvq9XcxxpRdGydlSqC1"
+    },
+    {
+      "added_at": "2026-04-23 22:01:15",
+      "album": {
         "name": "Iconic",
         "url": "https://open.spotify.com/album/0HgLE4fEcT5oFPbMRF4Ej3"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 273906,
       "name": "In A Life",
       "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
-    },
-    {
-      "added_at": "2026-04-23 22:01:15",
-      "album": {
-        "name": "Your Favorite Toy",
-        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/1N8fvq9XcxxpRdGydlSqC1"
     },
     {
       "added_at": "2026-04-23 22:01:15",
@@ -143,18 +143,18 @@
     {
       "added_at": "2026-04-23 22:01:15",
       "album": {
-        "name": "Honey Honey",
-        "url": "https://open.spotify.com/album/4mC9GZ6gSoSBDZ9ApAvqkO"
+        "name": "Of All People",
+        "url": "https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn"
       },
       "artists": [
         {
-          "name": "Robin Bengtsson",
-          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 179444,
-      "name": "Honey Honey",
-      "url": "https://open.spotify.com/track/0QcDwx1r5HXsxyMstgvHSm"
+      "duration_ms": 154293,
+      "name": "Of All People",
+      "url": "https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc"
     },
     {
       "added_at": "2026-04-23 22:01:15",
@@ -175,18 +175,18 @@
     {
       "added_at": "2026-04-23 22:01:15",
       "album": {
-        "name": "Of All People",
-        "url": "https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn"
+        "name": "Honey Honey",
+        "url": "https://open.spotify.com/album/4mC9GZ6gSoSBDZ9ApAvqkO"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
         }
       ],
-      "duration_ms": 154293,
-      "name": "Of All People",
-      "url": "https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc"
+      "duration_ms": 179444,
+      "name": "Honey Honey",
+      "url": "https://open.spotify.com/track/0QcDwx1r5HXsxyMstgvHSm"
     },
     {
       "added_at": "2026-04-23 22:01:15",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-04-23 22:01:15",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/2n1wJFqBY1KUprIEKnD0tt"
-      },
-      "artists": [
-        {
-          "name": "Robert Pettersson",
-          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
-        }
-      ],
-      "duration_ms": 288020,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0FPUZqLL86z0eGXKgf9J5M"
-    },
-    {
-      "added_at": "2026-04-23 22:01:15",
-      "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/1yz0XQiokSATLkqDCqgBnO"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 233026,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/3E1R7Y8GnRHJcLPelaiiWI"
+    },
+    {
+      "added_at": "2026-04-23 22:01:15",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/2n1wJFqBY1KUprIEKnD0tt"
+      },
+      "artists": [
+        {
+          "name": "Robert Pettersson",
+          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
+        }
+      ],
+      "duration_ms": 288020,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0FPUZqLL86z0eGXKgf9J5M"
     },
     {
       "added_at": "2026-04-23 22:01:15",
@@ -527,6 +527,22 @@
     {
       "added_at": "2026-04-23 22:01:15",
       "album": {
+        "name": "Din S\u00e5ng",
+        "url": "https://open.spotify.com/album/64vTKNWTHScWdFu6eG4LJr"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 236479,
+      "name": "Din S\u00e5ng",
+      "url": "https://open.spotify.com/track/7z9yS76hKaktbg1cJieHQC"
+    },
+    {
+      "added_at": "2026-04-23 22:01:15",
+      "album": {
         "name": "Sciura",
         "url": "https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 228561,
       "name": "G\u00f6teborg",
       "url": "https://open.spotify.com/track/5wCwRorgVytF1HnOw9IwF9"
-    },
-    {
-      "added_at": "2026-04-23 22:01:15",
-      "album": {
-        "name": "All These Years",
-        "url": "https://open.spotify.com/album/6GLddY1ROJ42TaJ3z8Unm1"
-      },
-      "artists": [
-        {
-          "name": "Robert Pettersson",
-          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
-        }
-      ],
-      "duration_ms": 228482,
-      "name": "All These Years",
-      "url": "https://open.spotify.com/track/79SPu1VplDqde3ONfxvS4w"
     },
     {
       "added_at": "2026-04-23 22:01:15",
@@ -607,18 +607,18 @@
     {
       "added_at": "2026-04-23 22:01:15",
       "album": {
-        "name": "Din S\u00e5ng",
-        "url": "https://open.spotify.com/album/64vTKNWTHScWdFu6eG4LJr"
+        "name": "All These Years",
+        "url": "https://open.spotify.com/album/6GLddY1ROJ42TaJ3z8Unm1"
       },
       "artists": [
         {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+          "name": "Robert Pettersson",
+          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
         }
       ],
-      "duration_ms": 236479,
-      "name": "Din S\u00e5ng",
-      "url": "https://open.spotify.com/track/7z9yS76hKaktbg1cJieHQC"
+      "duration_ms": 228482,
+      "name": "All These Years",
+      "url": "https://open.spotify.com/track/79SPu1VplDqde3ONfxvS4w"
     },
     {
       "added_at": "2026-04-23 22:01:15",
@@ -635,22 +635,6 @@
       "duration_ms": 166511,
       "name": "Valborg hela veckan",
       "url": "https://open.spotify.com/track/4ofntrRzWXBr9eT0aSnR3c"
-    },
-    {
-      "added_at": "2026-04-23 22:01:15",
-      "album": {
-        "name": "About Nothing",
-        "url": "https://open.spotify.com/album/69JvVDyuNFI6dPONVjlW7z"
-      },
-      "artists": [
-        {
-          "name": "Robert Pettersson",
-          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
-        }
-      ],
-      "duration_ms": 193433,
-      "name": "About Nothing",
-      "url": "https://open.spotify.com/track/076zcqaNjJIOxXNUeMCYv2"
     },
     {
       "added_at": "2026-04-23 22:01:15",
@@ -703,6 +687,22 @@
     {
       "added_at": "2026-04-23 22:01:15",
       "album": {
+        "name": "About Nothing",
+        "url": "https://open.spotify.com/album/69JvVDyuNFI6dPONVjlW7z"
+      },
+      "artists": [
+        {
+          "name": "Robert Pettersson",
+          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
+        }
+      ],
+      "duration_ms": 193433,
+      "name": "About Nothing",
+      "url": "https://open.spotify.com/track/076zcqaNjJIOxXNUeMCYv2"
+    },
+    {
+      "added_at": "2026-04-23 22:01:15",
+      "album": {
         "name": "Gullmar Gospel",
         "url": "https://open.spotify.com/album/70FLBezfgY07tPfguRRhq9"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-04-23 22:01:15",
       "album": {
-        "name": "Just to Make You Laugh",
-        "url": "https://open.spotify.com/album/61RBQcj4nLu3fuPEJexpHF"
-      },
-      "artists": [
-        {
-          "name": "Robert Pettersson",
-          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
-        }
-      ],
-      "duration_ms": 188488,
-      "name": "Just to Make You Laugh",
-      "url": "https://open.spotify.com/track/0WFDKbJBDv64fqiT8ulDyD"
-    },
-    {
-      "added_at": "2026-04-23 22:01:15",
-      "album": {
         "name": "Greczula",
         "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 166451,
       "name": "All The Things That I Am",
       "url": "https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ"
+    },
+    {
+      "added_at": "2026-04-23 22:01:15",
+      "album": {
+        "name": "Just to Make You Laugh",
+        "url": "https://open.spotify.com/album/61RBQcj4nLu3fuPEJexpHF"
+      },
+      "artists": [
+        {
+          "name": "Robert Pettersson",
+          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
+        }
+      ],
+      "duration_ms": 188488,
+      "name": "Just to Make You Laugh",
+      "url": "https://open.spotify.com/track/0WFDKbJBDv64fqiT8ulDyD"
     },
     {
       "added_at": "2026-04-23 22:01:15",
@@ -883,26 +883,6 @@
     {
       "added_at": "2026-04-23 22:01:15",
       "album": {
-        "name": "Show Me Your Heart",
-        "url": "https://open.spotify.com/album/1i9Gi892Z4rD4GCKr0Dadp"
-      },
-      "artists": [
-        {
-          "name": "Petra Marklund",
-          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
-        },
-        {
-          "name": "Tingsek",
-          "url": "https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE"
-        }
-      ],
-      "duration_ms": 197417,
-      "name": "Show Me Your Heart",
-      "url": "https://open.spotify.com/track/4Fe0BVxBWsHG8LfHCYq6kp"
-    },
-    {
-      "added_at": "2026-04-23 22:01:15",
-      "album": {
         "name": "Jag \u00c4r",
         "url": "https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB"
       },
@@ -915,22 +895,6 @@
       "duration_ms": 183160,
       "name": "Magk\u00e4nsla",
       "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
-    },
-    {
-      "added_at": "2026-04-23 22:01:15",
-      "album": {
-        "name": "Stronger Than",
-        "url": "https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo"
-      },
-      "artists": [
-        {
-          "name": "The Ark",
-          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "Stronger Than",
-      "url": "https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo"
     },
     {
       "added_at": "2026-04-23 22:01:15",
@@ -951,6 +915,42 @@
     {
       "added_at": "2026-04-23 22:01:15",
       "album": {
+        "name": "Stronger Than",
+        "url": "https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo"
+      },
+      "artists": [
+        {
+          "name": "The Ark",
+          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "Stronger Than",
+      "url": "https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo"
+    },
+    {
+      "added_at": "2026-04-23 22:01:15",
+      "album": {
+        "name": "Show Me Your Heart",
+        "url": "https://open.spotify.com/album/1i9Gi892Z4rD4GCKr0Dadp"
+      },
+      "artists": [
+        {
+          "name": "Petra Marklund",
+          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
+        },
+        {
+          "name": "Tingsek",
+          "url": "https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE"
+        }
+      ],
+      "duration_ms": 197417,
+      "name": "Show Me Your Heart",
+      "url": "https://open.spotify.com/track/4Fe0BVxBWsHG8LfHCYq6kp"
+    },
+    {
+      "added_at": "2026-04-23 22:01:15",
+      "album": {
         "name": "Margaretas s\u00e5ng",
         "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
       },
@@ -967,22 +967,18 @@
     {
       "added_at": "2026-04-23 22:01:15",
       "album": {
-        "name": "Can't Frame the Moonlight",
-        "url": "https://open.spotify.com/album/6D3Pzr2mWkMoMVSBf0RUWP"
+        "name": "Bara trummor kvar",
+        "url": "https://open.spotify.com/album/6gs9deX2HzLigPK9WDIzSd"
       },
       "artists": [
         {
-          "name": "Petra Marklund",
-          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
-        },
-        {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+          "name": "Eva Dahlgren",
+          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
         }
       ],
-      "duration_ms": 205896,
-      "name": "Can't Frame the Moonlight",
-      "url": "https://open.spotify.com/track/0o7TU4ysA7q39FChpwVv0G"
+      "duration_ms": 218622,
+      "name": "Bara trummor kvar",
+      "url": "https://open.spotify.com/track/65R6XBsGQwS86rwzgybHH4"
     },
     {
       "added_at": "2026-04-23 22:01:15",
@@ -1023,6 +1019,26 @@
       "duration_ms": 182567,
       "name": "T\u00e5rar",
       "url": "https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV"
+    },
+    {
+      "added_at": "2026-04-23 22:01:15",
+      "album": {
+        "name": "Can't Frame the Moonlight",
+        "url": "https://open.spotify.com/album/6D3Pzr2mWkMoMVSBf0RUWP"
+      },
+      "artists": [
+        {
+          "name": "Petra Marklund",
+          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
+        },
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 205896,
+      "name": "Can't Frame the Moonlight",
+      "url": "https://open.spotify.com/track/0o7TU4ysA7q39FChpwVv0G"
     },
     {
       "added_at": "2026-04-23 22:01:15",
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2026-04-23 22:01:15",
       "album": {
-        "name": "Bara trummor kvar",
-        "url": "https://open.spotify.com/album/6gs9deX2HzLigPK9WDIzSd"
-      },
-      "artists": [
-        {
-          "name": "Eva Dahlgren",
-          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
-        }
-      ],
-      "duration_ms": 218622,
-      "name": "Bara trummor kvar",
-      "url": "https://open.spotify.com/track/65R6XBsGQwS86rwzgybHH4"
-    },
-    {
-      "added_at": "2026-04-23 22:01:15",
-      "album": {
         "name": "Hemland",
         "url": "https://open.spotify.com/album/7Mwl7nb4iMLxfsDOoqqbPw"
       },
@@ -1183,38 +1183,6 @@
     {
       "added_at": "2026-04-23 22:01:15",
       "album": {
-        "name": "H\u00f6kvind",
-        "url": "https://open.spotify.com/album/7cVQz9yUVtm6RGhFkd7rQe"
-      },
-      "artists": [
-        {
-          "name": "Les Big Byrd",
-          "url": "https://open.spotify.com/artist/3g2slv6elrXxGnXqy7Q2ap"
-        }
-      ],
-      "duration_ms": 430892,
-      "name": "H\u00f6kvind",
-      "url": "https://open.spotify.com/track/6EjYa0k1UBaSx6lMg6kZBB"
-    },
-    {
-      "added_at": "2026-04-23 22:01:15",
-      "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/7DRFNRjkaogUa1mhqJ3plw"
-      },
-      "artists": [
-        {
-          "name": "Pernilla Andersson",
-          "url": "https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy"
-        }
-      ],
-      "duration_ms": 224168,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/5gnFxT1AG2yiT9qmLR2Udb"
-    },
-    {
-      "added_at": "2026-04-23 22:01:15",
-      "album": {
         "name": "N\u00e5nting \u00e4r off",
         "url": "https://open.spotify.com/album/7pxlFUyNZZrvJVyQm1xSQK"
       },
@@ -1231,6 +1199,22 @@
     {
       "added_at": "2026-04-23 22:01:15",
       "album": {
+        "name": "H\u00f6kvind",
+        "url": "https://open.spotify.com/album/7cVQz9yUVtm6RGhFkd7rQe"
+      },
+      "artists": [
+        {
+          "name": "Les Big Byrd",
+          "url": "https://open.spotify.com/artist/3g2slv6elrXxGnXqy7Q2ap"
+        }
+      ],
+      "duration_ms": 430892,
+      "name": "H\u00f6kvind",
+      "url": "https://open.spotify.com/track/6EjYa0k1UBaSx6lMg6kZBB"
+    },
+    {
+      "added_at": "2026-04-23 22:01:15",
+      "album": {
         "name": "Sunday Love",
         "url": "https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 316373,
       "name": "Sunday Love",
       "url": "https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz"
+    },
+    {
+      "added_at": "2026-04-23 22:01:15",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/7DRFNRjkaogUa1mhqJ3plw"
+      },
+      "artists": [
+        {
+          "name": "Pernilla Andersson",
+          "url": "https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy"
+        }
+      ],
+      "duration_ms": 224168,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/5gnFxT1AG2yiT9qmLR2Udb"
     },
     {
       "added_at": "2026-04-23 22:01:15",
@@ -1299,8 +1299,24 @@
     {
       "added_at": "2026-04-23 22:01:15",
       "album": {
-        "name": "F\u00f6rnedrade",
-        "url": "https://open.spotify.com/album/5w0UciRA5WWcg5InQNFhtg"
+        "name": "Last To Know",
+        "url": "https://open.spotify.com/album/04oxKh21TCYMX17XlDHptZ"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Tears",
+          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Last To Know",
+      "url": "https://open.spotify.com/track/2k12MDDJTqKYaHcucYbTWv"
+    },
+    {
+      "added_at": "2026-04-23 22:01:15",
+      "album": {
+        "name": "United States av Sverige",
+        "url": "https://open.spotify.com/album/3DJxpqeGvH4FQcC2tjivhy"
       },
       "artists": [
         {
@@ -1308,25 +1324,9 @@
           "url": "https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ"
         }
       ],
-      "duration_ms": 178973,
-      "name": "F\u00f6rnedrade",
-      "url": "https://open.spotify.com/track/64kDhj57KC1UoduD3qOroE"
-    },
-    {
-      "added_at": "2026-04-23 22:01:15",
-      "album": {
-        "name": "Andra landskap 50",
-        "url": "https://open.spotify.com/album/37soTgKPaXkx18KpIQUyR0"
-      },
-      "artists": [
-        {
-          "name": "Ulf Lundell",
-          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
-        }
-      ],
-      "duration_ms": 295520,
-      "name": "\u00d6stra Svealand (2025)",
-      "url": "https://open.spotify.com/track/2nz8qoJdE6sqKtKRaqpjHa"
+      "duration_ms": 361133,
+      "name": "Hall\u00e5",
+      "url": "https://open.spotify.com/track/19WsngrJerknIMRablf6Zl"
     },
     {
       "added_at": "2026-04-23 22:01:15",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2026-04-23 22:01:15",
       "album": {
-        "name": "Nannes samlade schlagerhits",
-        "url": "https://open.spotify.com/album/4Qyk5xifiGrGIUlanUgbyJ"
+        "name": "Andra landskap 50",
+        "url": "https://open.spotify.com/album/37soTgKPaXkx18KpIQUyR0"
       },
       "artists": [
         {
-          "name": "Nanne",
-          "url": "https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi"
+          "name": "Ulf Lundell",
+          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
         }
       ],
-      "duration_ms": 246826,
-      "name": "Avundsjuk",
-      "url": "https://open.spotify.com/track/2ZG0nGXSl8YLFOGPhSlmY2"
+      "duration_ms": 295520,
+      "name": "\u00d6stra Svealand (2025)",
+      "url": "https://open.spotify.com/track/2nz8qoJdE6sqKtKRaqpjHa"
     },
     {
       "added_at": "2026-04-23 22:01:15",
@@ -1379,6 +1379,38 @@
     {
       "added_at": "2026-04-23 22:01:15",
       "album": {
+        "name": "Nannes samlade schlagerhits",
+        "url": "https://open.spotify.com/album/4Qyk5xifiGrGIUlanUgbyJ"
+      },
+      "artists": [
+        {
+          "name": "Nanne",
+          "url": "https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi"
+        }
+      ],
+      "duration_ms": 246826,
+      "name": "Avundsjuk",
+      "url": "https://open.spotify.com/track/2ZG0nGXSl8YLFOGPhSlmY2"
+    },
+    {
+      "added_at": "2026-04-23 22:01:15",
+      "album": {
+        "name": "F\u00f6rnedrade",
+        "url": "https://open.spotify.com/album/5w0UciRA5WWcg5InQNFhtg"
+      },
+      "artists": [
+        {
+          "name": "Avantgardet",
+          "url": "https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "F\u00f6rnedrade",
+      "url": "https://open.spotify.com/track/64kDhj57KC1UoduD3qOroE"
+    },
+    {
+      "added_at": "2026-04-23 22:01:15",
+      "album": {
         "name": "Skebokvarnsv. 209 (Deluxe Version)",
         "url": "https://open.spotify.com/album/7xvyIn38X0tWtD0OIHdvdd"
       },
@@ -1391,22 +1423,6 @@
       "duration_ms": 213115,
       "name": "Bara om min \u00e4lskade v\u00e4ntar - Akustiskversion Dust",
       "url": "https://open.spotify.com/track/6A9oBk2A0KDpnK4ledt7yD"
-    },
-    {
-      "added_at": "2026-04-23 22:01:15",
-      "album": {
-        "name": "Give and Take",
-        "url": "https://open.spotify.com/album/4rwAgXIiQgSausvqcxTckO"
-      },
-      "artists": [
-        {
-          "name": "The Ark",
-          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
-        }
-      ],
-      "duration_ms": 202453,
-      "name": "Give and Take",
-      "url": "https://open.spotify.com/track/7vfRnx1IvMPBjL0EqRGaGk"
     },
     {
       "added_at": "2026-04-23 22:01:15",
@@ -1431,34 +1447,18 @@
     {
       "added_at": "2026-04-23 22:01:15",
       "album": {
-        "name": "United States av Sverige",
-        "url": "https://open.spotify.com/album/3DJxpqeGvH4FQcC2tjivhy"
+        "name": "Give and Take",
+        "url": "https://open.spotify.com/album/4rwAgXIiQgSausvqcxTckO"
       },
       "artists": [
         {
-          "name": "Avantgardet",
-          "url": "https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ"
+          "name": "The Ark",
+          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
         }
       ],
-      "duration_ms": 361133,
-      "name": "Hall\u00e5",
-      "url": "https://open.spotify.com/track/19WsngrJerknIMRablf6Zl"
-    },
-    {
-      "added_at": "2026-04-23 22:01:15",
-      "album": {
-        "name": "Last To Know",
-        "url": "https://open.spotify.com/album/04oxKh21TCYMX17XlDHptZ"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Tears",
-          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Last To Know",
-      "url": "https://open.spotify.com/track/2k12MDDJTqKYaHcucYbTWv"
+      "duration_ms": 202453,
+      "name": "Give and Take",
+      "url": "https://open.spotify.com/track/7vfRnx1IvMPBjL0EqRGaGk"
     },
     {
       "added_at": "2026-04-23 22:01:15",

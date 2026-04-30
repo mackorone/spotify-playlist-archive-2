@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: 大森元貴
 
-3,195 songs - 8 day 7 hr 18 min
+3,196 songs - 8 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1906,6 +1906,7 @@
 | [むしのいどころ](https://open.spotify.com/track/6hYYHpV3FCfx4uShmEkXFk) | [すてぃぎもろく](https://open.spotify.com/artist/3maOtCevILAXRauVeWhJ2D) | [むしのいどころ](https://open.spotify.com/album/196tSHWIJFiCpIPjhndGqW) | 3:03 | 2026-03-17 | 2026-03-25 |
 | [めちゃくちゃ好きな人を愛すように世界を愛して！](https://open.spotify.com/track/7HjTKFuYlYHeteUGxUaVY3) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [めちゃくちゃ好きな人を愛すように世界を愛して！](https://open.spotify.com/album/3dW78okSq9qPIB3tX1JivC) | 3:41 | 2024-03-19 | 2024-05-29 |
 | [もういちど生まれる](https://open.spotify.com/track/6o9KWIl2RvWm17VXiZDdOQ) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [もういちど生まれる](https://open.spotify.com/album/2A0pOYUT0mWFIpSighZv6S) | 5:26 | 2023-03-07 | 2023-03-15 |
+| [もういらない](https://open.spotify.com/track/6OCA8XsHPechSuoniPVw2R) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [もういらない](https://open.spotify.com/album/206ZAfWibaoGfkQ6sJwoSa) | 3:05 | 2026-04-28 |  |
 | [もしも](https://open.spotify.com/track/6tpFVVdWxMNYQhHyHf5ZLe) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [もしも](https://open.spotify.com/album/3uxVOiyaxYD0V6mQXxsHtd) | 3:13 | 2026-02-03 | 2026-02-11 |
 | [もっと](https://open.spotify.com/track/14scjle0gHsjlujD10AliV) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [もっと](https://open.spotify.com/album/6cNBLzQoV9126uS2B0sPRB) | 4:09 | 2024-01-30 | 2024-02-28 |
 | [やまない愛はある](https://open.spotify.com/track/6r7l212tTfMruKNXL476tj) | [ammo](https://open.spotify.com/artist/3482dVicMV9A5tThd1ufSx) | [re:想\-EP](https://open.spotify.com/album/6RjcrhJWPFVH8qKyeB08oC) | 4:16 | 2024-05-09 | 2024-05-22 |

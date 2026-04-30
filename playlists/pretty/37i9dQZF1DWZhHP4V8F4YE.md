@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,787 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,842 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Bengicela \(feat\. JAZZWRLD\)](https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz) | [Bengicela \(feat\. JAZZWRLD\)](https://open.spotify.com/album/2hQeaUm6h4P4qgf45IToZ6) | 5:58 |
 | 50 | [Ngbambe Duze \(feat\. MFR Souls & Dj Maphorisa\)](https://open.spotify.com/track/0vwdMP1LbBDQCaICUHsxgU) | [Maero](https://open.spotify.com/artist/1T4ZmeiZPhtjCJsMs7yUC9), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4), [Last Born](https://open.spotify.com/artist/3wK0eXR6qOs9PyRUxnoECN), [Mfr Souls](https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [Ngbambe Duze \(feat\. MFR Souls & Dj Maphorisa\)](https://open.spotify.com/album/3zAMXs1BFvWDwst6mTIK1h) | 8:04 |
 
-Snapshot ID: `AAAAAKjM7ez+Zg44GqO6tYKb2EE1tRlu`
+Snapshot ID: `AAAAAFJ82BBMrkmUp2Sa3998Z6DydgU2`

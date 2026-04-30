@@ -1,13 +1,29 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 212951,
+  "num_followers": 212974,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae6nAAAAAADwMrFGEebBoW9DyShfNFkq",
+  "snapshot_id": "ae/4gAAAAAAuv2nSqfCq+j+aaV4JCk0J",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Aire De Tu Casa",
+        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Me Dice Que Me Ama",
+      "url": "https://open.spotify.com/track/5Q175erZOZJZHKaZzJFYDN"
+    },
     {
       "added_at": null,
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 214773,
       "name": "Dame Tus Ojos",
       "url": "https://open.spotify.com/track/3HZCMyuazaSOLgXexcMASl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Aire De Tu Casa",
-        "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 241933,
-      "name": "Me Dice Que Me Ama",
-      "url": "https://open.spotify.com/track/5Q175erZOZJZHKaZzJFYDN"
     },
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soplando Vida",
-        "url": "https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 201946,
-      "name": "Te Dejo Ganar",
-      "url": "https://open.spotify.com/track/4wrq8qLtW8fhIq6agng9Mv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Aire De Tu Casa",
         "url": "https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 289200,
       "name": "Que Ser\u00eda De Mi - En Vivo",
       "url": "https://open.spotify.com/track/6765SHKbINOPj3EJFnBGMs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soplando Vida",
+        "url": "https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 201946,
+      "name": "Te Dejo Ganar",
+      "url": "https://open.spotify.com/track/4wrq8qLtW8fhIq6agng9Mv"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Manos Vac\u00edas",
-        "url": "https://open.spotify.com/album/30QghMKwlQCC7t1rqpMJWO"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 426506,
-      "name": "Con Manos Vac\u00edas - En Vivo",
-      "url": "https://open.spotify.com/track/0nccFtjnIIL9biS2EpUoFr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Brillo De Mis Ojos (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 202973,
       "name": "Eras T\u00fa",
       "url": "https://open.spotify.com/track/3nhnIxheZTQaRDk0s650sa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Manos Vac\u00edas",
+        "url": "https://open.spotify.com/album/30QghMKwlQCC7t1rqpMJWO"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 426506,
+      "name": "Con Manos Vac\u00edas - En Vivo",
+      "url": "https://open.spotify.com/track/0nccFtjnIIL9biS2EpUoFr"
     },
     {
       "added_at": null,
@@ -787,22 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encontrarme Contigo",
-        "url": "https://open.spotify.com/album/4vFri5t3ea2FpongVjqXql"
+        "name": "Colecci\u00f3n Duetos",
+        "url": "https://open.spotify.com/album/0tflYRKYYx7KJScUmcYZ8u"
       },
       "artists": [
         {
-          "name": "Sat\u00e9lite",
-          "url": "https://open.spotify.com/artist/64Hft9NLW8RfpDzegOZJum"
-        },
-        {
           "name": "Jes\u00fas Adri\u00e1n Romero",
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        },
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
         }
       ],
-      "duration_ms": 255960,
-      "name": "Vuelve (feat. Jes\u00fas Adri\u00e1n Romero)",
-      "url": "https://open.spotify.com/track/7u3BNHXrIdT3oKykbwtc6u"
+      "duration_ms": 369000,
+      "name": "Ven, Te Necesito - En Vivo",
+      "url": "https://open.spotify.com/track/3osNQddwrMYWQ1bCvsew62"
     },
     {
       "added_at": null,
@@ -827,22 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colecci\u00f3n Duetos",
-        "url": "https://open.spotify.com/album/0tflYRKYYx7KJScUmcYZ8u"
+        "name": "Encontrarme Contigo",
+        "url": "https://open.spotify.com/album/4vFri5t3ea2FpongVjqXql"
       },
       "artists": [
         {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+          "name": "Sat\u00e9lite",
+          "url": "https://open.spotify.com/artist/64Hft9NLW8RfpDzegOZJum"
         },
         {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 369000,
-      "name": "Ven, Te Necesito - En Vivo",
-      "url": "https://open.spotify.com/track/3osNQddwrMYWQ1bCvsew62"
+      "duration_ms": 255960,
+      "name": "Vuelve (feat. Jes\u00fas Adri\u00e1n Romero)",
+      "url": "https://open.spotify.com/track/7u3BNHXrIdT3oKykbwtc6u"
     },
     {
       "added_at": null,

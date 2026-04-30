@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 7552,
+  "num_followers": 7554,
   "original_name": "Projekt Melody Official Playlist",
   "owner": {
     "name": "Melody",
     "url": "https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih"
   },
-  "snapshot_id": "AAABbJi8elhCBQKmI//wfjABFh2W9yH0",
+  "snapshot_id": "AAABbqlDWgVlvf+hrlaU1Xn6Z5UKl2Ff",
   "tracks": [
     {
       "added_at": "2020-03-11 15:33:22",
@@ -9823,6 +9823,46 @@
       "duration_ms": 190138,
       "name": "Bite Marks",
       "url": "https://open.spotify.com/track/5EgvIjKtyop4T8afkuMiv6"
+    },
+    {
+      "added_at": "2026-04-30 02:53:36",
+      "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/3VQfA3XGJyC0XM9Gu3HsOF"
+      },
+      "artists": [
+        {
+          "name": "Pixl Girl",
+          "url": "https://open.spotify.com/artist/0fRpdVBiTK1PayMdFIMqmp"
+        },
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "duration_ms": 115545,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/1RtOV5HTGBKiSpIOU8qU1b"
+    },
+    {
+      "added_at": "2026-04-30 02:56:36",
+      "album": {
+        "name": "Papercut",
+        "url": "https://open.spotify.com/album/51ZkMRNlpeT4hRFCtRg2Xf"
+      },
+      "artists": [
+        {
+          "name": "bennytheghost",
+          "url": "https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2"
+        },
+        {
+          "name": "Calica",
+          "url": "https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG"
+        }
+      ],
+      "duration_ms": 193447,
+      "name": "Papercut",
+      "url": "https://open.spotify.com/track/3fjv1YnPIn2UDiGkMKvAFM"
     }
   ],
   "unique_name": "Projekt Melody Official Playlist",

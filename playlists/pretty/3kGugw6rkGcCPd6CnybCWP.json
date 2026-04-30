@@ -1,12 +1,12 @@
 {
   "description": "Celebrating individuality within independent music",
-  "num_followers": 1173,
+  "num_followers": 1172,
   "original_name": "INDI(E)VIDUAL",
   "owner": {
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAOpT5/TyOF1a/Xy+EIaEMym43TKpH+",
+  "snapshot_id": "AAAOrL7mksMbz7FaZP+RmUKcJKt17M62",
   "tracks": [
     {
       "added_at": "2026-04-15 23:19:40",
@@ -41,30 +41,6 @@
       "url": "https://open.spotify.com/track/01L6rxptIyVvYm6epPJ00m"
     },
     {
-      "added_at": "2026-03-31 12:00:09",
-      "album": {
-        "name": "Wicked Wicked Ways",
-        "url": "https://open.spotify.com/album/1te5ThMkLbxy4Vht0rSOlm"
-      },
-      "artists": [
-        {
-          "name": "DELREI",
-          "url": "https://open.spotify.com/artist/77Xku7f5rq7hfoooTiv5jW"
-        },
-        {
-          "name": "Collin Hegna",
-          "url": "https://open.spotify.com/artist/0cZ4bVVf2bWEON39U2kPab"
-        },
-        {
-          "name": "Federale",
-          "url": "https://open.spotify.com/artist/6KdkzNXhRBjPQxCSYgRxpH"
-        }
-      ],
-      "duration_ms": 224249,
-      "name": "Wicked Wicked Ways",
-      "url": "https://open.spotify.com/track/4kBbTTOEJYymlnLIFMAAxf"
-    },
-    {
       "added_at": "2026-04-15 23:03:28",
       "album": {
         "name": "The Squeeze",
@@ -79,22 +55,6 @@
       "duration_ms": 241586,
       "name": "The Squeeze",
       "url": "https://open.spotify.com/track/1AiZNx29fEFlk7iWNBg6wt"
-    },
-    {
-      "added_at": "2026-03-28 10:09:49",
-      "album": {
-        "name": "Raise the Flag",
-        "url": "https://open.spotify.com/album/4IIemHPTrZXD5qStydTv7d"
-      },
-      "artists": [
-        {
-          "name": "M.E.109",
-          "url": "https://open.spotify.com/artist/5O7bcW05QzF1Ixl3uS442D"
-        }
-      ],
-      "duration_ms": 220368,
-      "name": "Raise the Flag",
-      "url": "https://open.spotify.com/track/3FPJOKXbHLeHbD82qHGDG5"
     },
     {
       "added_at": "2026-04-20 13:10:05",
@@ -115,38 +75,6 @@
       "duration_ms": 236787,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/0NovACJ6dEiMAGkNswOFkm"
-    },
-    {
-      "added_at": "2026-03-29 17:51:47",
-      "album": {
-        "name": "Pushing Forty",
-        "url": "https://open.spotify.com/album/1quolef4XxUGcY2DWhtSCm"
-      },
-      "artists": [
-        {
-          "name": "Ellie Heath",
-          "url": "https://open.spotify.com/artist/4jDhGLOdqlN8casEgCnnjW"
-        }
-      ],
-      "duration_ms": 188204,
-      "name": "Pushing Forty",
-      "url": "https://open.spotify.com/track/5KSUDblE2pIpmRatGwptbP"
-    },
-    {
-      "added_at": "2026-03-29 22:34:42",
-      "album": {
-        "name": "Spiked Mike & His Blue Dog",
-        "url": "https://open.spotify.com/album/28020YcAnH2zblFJ7EzfVd"
-      },
-      "artists": [
-        {
-          "name": "The Westside",
-          "url": "https://open.spotify.com/artist/7zqIGGncTa8QJFEvxtTAC0"
-        }
-      ],
-      "duration_ms": 222953,
-      "name": "Why Are You Always Late?",
-      "url": "https://open.spotify.com/track/1pVb0ycW2iq78WiUZ4K6OW"
     },
     {
       "added_at": "2026-03-31 08:44:00",
@@ -1507,6 +1435,54 @@
       "duration_ms": 145766,
       "name": "Collectable",
       "url": "https://open.spotify.com/track/0qAsgNlx10l0k8Xaj4acwd"
+    },
+    {
+      "added_at": "2026-04-29 09:27:33",
+      "album": {
+        "name": "I, Don't Know Why",
+        "url": "https://open.spotify.com/album/6bUr168LqeASvCmUTI0pGn"
+      },
+      "artists": [
+        {
+          "name": "Fiery Gizzard",
+          "url": "https://open.spotify.com/artist/3xtv6gkHJzD5OIw1X3Km0Q"
+        }
+      ],
+      "duration_ms": 211301,
+      "name": "I, Don't Know Why",
+      "url": "https://open.spotify.com/track/5poyluS47FR5zWxUOsAuud"
+    },
+    {
+      "added_at": "2026-04-29 09:28:17",
+      "album": {
+        "name": "In Design We Trust",
+        "url": "https://open.spotify.com/album/3wvdhTnOUZpgYSTSqk94hQ"
+      },
+      "artists": [
+        {
+          "name": "P1nk Revolver",
+          "url": "https://open.spotify.com/artist/5trY6ajCGzjdL36utbymIv"
+        }
+      ],
+      "duration_ms": 145403,
+      "name": "I Cry",
+      "url": "https://open.spotify.com/track/3vGxu5l9dKyhwhqCQPtUXR"
+    },
+    {
+      "added_at": "2026-04-29 09:28:37",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/1bAebW2AS0ShcgUX7QKtQm"
+      },
+      "artists": [
+        {
+          "name": "Salad Slush",
+          "url": "https://open.spotify.com/artist/3RlKnZ8ITYDL1Yqq4lkx0Z"
+        }
+      ],
+      "duration_ms": 202339,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/3uWbd2PbEScUsakim9ChzO"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

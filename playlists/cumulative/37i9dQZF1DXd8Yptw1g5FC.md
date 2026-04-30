@@ -4,7 +4,7 @@
 
 > Tuğba Yurt x İkilem ve haftanın en iyi çıkışları!
 
-7,290 songs - 15 day 13 hr 10 min
+7,291 songs - 15 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5902,6 +5902,7 @@
 | [Tanrım](https://open.spotify.com/track/02eScQSk5BvXhvEN6ruj1l) | [Hidayet Bozkurt](https://open.spotify.com/artist/7aVsEw0NsfoF8StzKWmd0E) | [Tanrım](https://open.spotify.com/album/57eftT9SrMIyh2bUINwKz2) | 2:48 | 2025-11-27 | 2025-12-05 |
 | [Tanrıçam](https://open.spotify.com/track/0w53fz5Di0GUTPyErMYDXY) | [Ayris](https://open.spotify.com/artist/79OaYBcw0fW7vCdqrYXC1k) | [Tanrıçam](https://open.spotify.com/album/2Ky8qfFaJOyiUVE5KBqXih) | 4:02 | 2025-08-07 | 2025-08-15 |
 | [Tantana Yapma](https://open.spotify.com/track/0zHPBBjDqYoIP0GZVqdlqJ) | [CEYLO](https://open.spotify.com/artist/7M4Jj0tEpVA8jED8u57HE4) | [Tantana Yapma](https://open.spotify.com/album/11fZNPluUrIPHjWZM8bu4a) | 1:35 | 2025-10-23 | 2025-10-31 |
+| [Tanımam](https://open.spotify.com/track/3w5E2DA92vDnMBS2JCz0Eu) | [Serkan Kaya](https://open.spotify.com/artist/56x1jJZ4DrXu3NXMfHpolC) | [Tanımam](https://open.spotify.com/album/3xKSUStLiUu0eqr7LVgyoq) | 3:37 | 2026-04-23 |  |
 | [Tanır Beni Ellerin](https://open.spotify.com/track/1lBzFyUoQuGO7lmOLko03Z) | [Erkan Süzgün](https://open.spotify.com/artist/1C0OO2lLxH0X9Urmw7cs2x) | [Tanır Beni Ellerin](https://open.spotify.com/album/4K6BJhAGYoQBZycjCUZfw9) | 4:22 | 2026-01-08 | 2026-01-16 |
 | [TAPE](https://open.spotify.com/track/28Kbe0egvzvZFwKPJAwhmU) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr), [VONN](https://open.spotify.com/artist/4pjd7yxYQD79BfEiph7RH2), [7even](https://open.spotify.com/artist/6mR3EoEEZBZct6ZZMyeUGt), [GROZA](https://open.spotify.com/artist/3gddZ4PEy4Q7rC2dy2rJp7) | [TAPE](https://open.spotify.com/album/1RhMvjXbZquckW24yPdtZv) | 2:09 | 2026-04-23 |  |
 | [Tapıyorum Sana Ben](https://open.spotify.com/track/0ZrYpUV2F81s0Md7gYrTTF) | [Gülden Karaböcek](https://open.spotify.com/artist/2wioAsnSZ6JmA6I7Y7PDkc) | [Tapıyorum Sana Ben](https://open.spotify.com/album/55jZs4xLkCVIz4eDl1Qjas) | 4:34 | 2025-12-25 | 2026-01-15 |

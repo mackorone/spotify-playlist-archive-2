@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: El Cuarteto de Nos
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,926 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,939 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 99 | [Música Del Alma \- En Vivo](https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Música del Alma \(En Vivo\)](https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X) | 4:11 |
 | 100 | [Niño Abuelo \- Vivo en Obras 20/12/2024](https://open.spotify.com/track/4Lk0Y7rY5tlE5C89aBpK56) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Niño Abuelo \(Vivo en Obras 20/12/2024\)](https://open.spotify.com/album/3CaxPS84kJiMTUWuK2GYiC) | 4:40 |
 
-Snapshot ID: `AAAAAMdTV7GERPHHxAKaeCjZQ5cZQPk+`
+Snapshot ID: `AAAAAD688/8Z7PeR3UMFTTNR6TKN9TVm`

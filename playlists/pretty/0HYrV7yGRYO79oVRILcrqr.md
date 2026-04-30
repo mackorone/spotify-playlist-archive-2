@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,794 likes - 94 songs - 6 hr 13 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,800 likes - 99 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,5 +102,10 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 92 | [Fingers Crossed](https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Fingers Crossed](https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q) | 3:48 |
 | 93 | [She's Not There \- Mono Remastered](https://open.spotify.com/track/5BATmTqGopeifUzHN2bE0f) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here \(Mono Remastered\)](https://open.spotify.com/album/1mn5LBTE4qewxKGILnX70v) | 2:25 |
 | 94 | [Half\-Life of a Heartbeat](https://open.spotify.com/track/2P9XNblTIpL9ioNcCbQymA) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Ink and Amber](https://open.spotify.com/album/7FvBEOcjFPjcma46YjY8XL) | 3:48 |
+| 95 | [Pensaba Que Sería Diferente \(No He Dormido Nada\)](https://open.spotify.com/track/1YJacsXaAoNjMY7Go0aFV9) | [Velx](https://open.spotify.com/artist/4rGwpY6x2VsXxZ1iAevcGw) | [Pensaba Que Sería Diferente \(No He Dormido Nada\)](https://open.spotify.com/album/3IS1AGOhP0597gFM1UGiy8) | 3:21 |
+| 96 | [SELF\-ABSOLUTION](https://open.spotify.com/track/47uOpInGUoZmIop6bgs5PT) | [OTA3D3](https://open.spotify.com/artist/7zTt9AcgJTtOgkIjs45qnp) | [THE ROAR](https://open.spotify.com/album/1dR1Jr4m8CYfA6G4XFwj2t) | 1:42 |
+| 97 | [Bendito Cordeiro](https://open.spotify.com/track/3H9TRT0NyJjJUL8WuiCveG) | [Sergio Sampaio](https://open.spotify.com/artist/7GpP0myxq1RPbCFNFefMuo) | [Bendito Cordeiro](https://open.spotify.com/album/4SarQR2GYrWQl7vcDLQysr) | 3:34 |
+| 98 | [Swamp Mother](https://open.spotify.com/track/5AMxT1InHsOVuaxW8qYaVF) | [Live Oak Sunburst](https://open.spotify.com/artist/4QHJTuyBl6eDWAikRZaAmB) | [Swamp Mother](https://open.spotify.com/album/7ncJaA6HNWg3GSFEa1abAc) | 3:42 |
+| 99 | [The Power of My Story \- Blues Rock Mix](https://open.spotify.com/track/3gQgx3NawULgk7MN09P7b8) | [In The Shadow](https://open.spotify.com/artist/6x6mfS5opin69p2aEGbJmT) | [A Devotional Worship Project V.1](https://open.spotify.com/album/1pebEPS01Uovvx5xVlKJ3E) | 3:32 |
 
-Snapshot ID: `AAALMtBZSuEJYgkWVPOWCG5bl9VaglYp`
+Snapshot ID: `AAALNwB2GshzCE1vZfAGTxeB7Tw8vkJO`

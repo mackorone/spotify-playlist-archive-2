@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,595 likes - 977 songs - 2 day 13 hr 27 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,595 likes - 980 songs - 2 day 13 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -985,5 +985,8 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 975 | [The Perfect Buzz](https://open.spotify.com/track/4nIbtAyxR6yeBxgONwdtda) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [The Perfect Buzz](https://open.spotify.com/album/2kPgxCfeUcADkJSxT0jBtG) | 2:46 |
 | 976 | [We're Over \(Til Friday Night\)](https://open.spotify.com/track/3OqYtVlE8eP1hBTwxfmHG9) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [We're Over \(Til Friday Night\)](https://open.spotify.com/album/478mrtMoTEOSKZtbNBDQjs) | 3:13 |
 | 977 | [All Hands on Deck](https://open.spotify.com/track/5iYowUhG9CCkiPZStPbOUz) | [The Groggy Dogs](https://open.spotify.com/artist/29SKyg5bJTAExMKaOY30vk) | [No Grog No Glory](https://open.spotify.com/album/7wYvKsmA82cZsP0SdMHu0z) | 4:12 |
+| 978 | [Hymn](https://open.spotify.com/track/0F7851FGHF79bzgJ65HpyC) | [Of House](https://open.spotify.com/artist/00ZfMOYl0RhH41iOFfbl3u) | [Hymn](https://open.spotify.com/album/3sYDwzhZKYeqrz1sejuBN6) | 8:14 |
+| 979 | [Surprise, Surprise](https://open.spotify.com/track/5gHlEgM8AilWq9xQfAp0Lo) | [Friends With Boats](https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc) | [Surprise, Surprise](https://open.spotify.com/album/048i5QNlRLzkftGQH6rCYk) | 3:04 |
+| 980 | [Eux](https://open.spotify.com/track/6prUfw8XnnNVxCWGutQpFk) | [enfant rouge](https://open.spotify.com/artist/1WjiPjIL6QbBdk1GnhFqEe) | [Délier](https://open.spotify.com/album/35eSA6VdPI7DpqMIj1Eej1) | 4:44 |
 
-Snapshot ID: `AAAD9OVPMlCA++3hjGUW/vL5Ibs/2ftC`
+Snapshot ID: `AAAD94IJ+qqrsEsmv3ATIjTlY9hvi9HD`

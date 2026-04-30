@@ -4,7 +4,7 @@
 
 > Intersection of R&B and afrobeats\. Cover:  Amma
 
-552 songs - 1 day 4 hr 57 min
+553 songs - 1 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [It Aint Me](https://open.spotify.com/track/74NvwSDJtsFGBPqcgodmMT) | [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf), [Chaise William](https://open.spotify.com/artist/2nYUNL1u2iruJZ80oPy5Rx) | [It Ain't Me](https://open.spotify.com/album/0q7MlqQeZu1eCvtUcuFMot) | 3:08 | 2024-06-28 | 2025-07-18 |
 | [It's a Game](https://open.spotify.com/track/6qLJYOBiUJbKNHQLmL5a79) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [I am the Blueprint](https://open.spotify.com/album/6NgdgRdxc6spifVLe8KXRM) | 2:55 | 2025-01-31 | 2026-03-20 |
 | [IYD](https://open.spotify.com/track/4y6dllKXayYv9qGKWHkSyg) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [GANGSTER ROMANTIC](https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G) | 2:55 | 2023-03-03 | 2024-04-19 |
+| [J'étais pas prêt](https://open.spotify.com/track/15MXarDbGn1T4szDcsRX7P) | [Singuila](https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [J'étais pas prêt](https://open.spotify.com/album/0HUp5e1bfRXSQ2Y5DxrM6y) | 2:25 | 2026-04-29 |  |
 | [Jah](https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Jah](https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd) | 2:27 | 2023-06-16 | 2023-07-28 |
 | [Jaro](https://open.spotify.com/track/4lvGec6nR7TDvub75PtEpC) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Jaro](https://open.spotify.com/album/6i3bpjjJTQPZhB6ovD4HZi) | 2:50 | 2022-06-30 | 2022-07-23 |
 | [Jeje de Whine](https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:56 | 2021-02-12 | 2023-05-26 |

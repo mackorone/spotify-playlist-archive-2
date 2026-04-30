@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae6nAAAAAABoIuZwC8RU0Vp+2Yqk1kDH",
+  "snapshot_id": "ae/4gAAAAACxZTNfBNcpMpC0I6gNMyUf",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Ride",
-        "url": "https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 165693,
-      "name": "American Ride",
-      "url": "https://open.spotify.com/track/0gjqyr5z7poniYymKRwsCN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Do You Like Me Now?!",
         "url": "https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y"
       },
@@ -223,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+        "name": "American Ride",
+        "url": "https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV"
       },
       "artists": [
         {
@@ -232,9 +216,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 184533,
-      "name": "He Ain't Worth Missing",
-      "url": "https://open.spotify.com/track/21O5QoGEqBTZgnWb3yDlZa"
+      "duration_ms": 165693,
+      "name": "American Ride",
+      "url": "https://open.spotify.com/track/0gjqyr5z7poniYymKRwsCN"
     },
     {
       "added_at": null,
@@ -251,6 +235,22 @@
       "duration_ms": 239533,
       "name": "Whiskey Girl",
       "url": "https://open.spotify.com/track/2CaxgnHBHuiOYIGIyvMbCl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "He Ain't Worth Missing",
+      "url": "https://open.spotify.com/track/21O5QoGEqBTZgnWb3yDlZa"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Walkin'",
-        "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 237160,
-      "name": "Dream Walkin'",
-      "url": "https://open.spotify.com/track/2N4Lw4tS3KBx0PMJ7ZJXiy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shock 'N Y'all",
         "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 263333,
       "name": "American Soldier",
       "url": "https://open.spotify.com/track/0oVWPlnK5eAqnJCVB0FvpP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream Walkin'",
+        "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 237160,
+      "name": "Dream Walkin'",
+      "url": "https://open.spotify.com/track/2N4Lw4tS3KBx0PMJ7ZJXiy"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Honkytonk University",
+        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 214920,
+      "name": "Honkytonk U",
+      "url": "https://open.spotify.com/track/0pCc4FyfMBheq3ZgXj3oz6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "35 mph Town",
         "url": "https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 188413,
       "name": "Sailboat for Sale",
       "url": "https://open.spotify.com/track/2wT3VvoiJm0LFZyQrfkQYz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Honkytonk University",
-        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 214920,
-      "name": "Honkytonk U",
-      "url": "https://open.spotify.com/track/0pCc4FyfMBheq3ZgXj3oz6"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toby Keith 35 Biggest Hits",
+        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Stays In Mexico",
+      "url": "https://open.spotify.com/track/3EaUpHrrmoupWICI0uf6Y0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "License to Chill",
         "url": "https://open.spotify.com/album/2NXJVffjFFrlAKHQtoUXmg"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 183293,
       "name": "Hey Good Lookin'",
       "url": "https://open.spotify.com/track/2TSc7ee1OQPb4tuXsi2X7W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toby Keith 35 Biggest Hits",
-        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Stays In Mexico",
-      "url": "https://open.spotify.com/track/3EaUpHrrmoupWICI0uf6Y0"
     },
     {
       "added_at": null,
@@ -883,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boomtown",
-        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "Big Ol' Truck",
-      "url": "https://open.spotify.com/track/6eNCl3TFPlvO8n9I4CooTq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Ride",
         "url": "https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 285506,
       "name": "Cryin' for Me (Wayman's Song)",
       "url": "https://open.spotify.com/track/5D2Sr7fTxeVfO4cYniJG7X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boomtown",
+        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Big Ol' Truck",
+      "url": "https://open.spotify.com/track/6eNCl3TFPlvO8n9I4CooTq"
     },
     {
       "added_at": null,

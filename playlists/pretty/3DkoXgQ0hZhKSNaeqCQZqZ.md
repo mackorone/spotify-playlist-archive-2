@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > FurryRadio.com, furry music for furs, by furs.
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,086 likes - 371 songs - 18 hr 51 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,088 likes - 371 songs - 18 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [My Darling](https://open.spotify.com/track/4l6jiTUeu5lzxfVNqIz49H) | [Cherry Locket](https://open.spotify.com/artist/2nZkGHRrTXlpghhH3X27lr), [Zachz Winner](https://open.spotify.com/artist/3eb6CZwogsXvGkmEUYa9XV) | [My Darling](https://open.spotify.com/album/1L1ehou3twqD25Z5UNUFMA) | 2:46 |
 | 2 | [I Never Feel Alone](https://open.spotify.com/track/11mf7BvMAcOuFodbkFnqLE) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K), [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [I Never Feel Alone](https://open.spotify.com/album/54gZFxZWc8Flx4hWmjYaoE) | 2:20 |
 | 3 | [EAT YOU UP! \- Ricco Harver Remix](https://open.spotify.com/track/75gCrv8FPUVshSw5w98NHp) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2), [Ricco Harver](https://open.spotify.com/artist/4Ztb8vJUtyHjWDSbOZ1GIn) | [RAVEPOP REMIXES \(Preview\)](https://open.spotify.com/album/62lFgUk9Wh4Uh17xqmf3uD) | 2:19 |
-| 4 | [The Air That You And I Breathe Is Not The Same \- ECLIPSED](https://open.spotify.com/track/46pdXv8YDVVPk558tchreU) | [Biscuit](https://open.spotify.com/artist/75RaPp7xp9Czh1CpzWyUUR) | [The Air That You And I Breathe Is Not The Same \(ECLIPSED\)](https://open.spotify.com/album/3I1KfgTO9cIaiV72Eigz1y) | 4:55 |
+| 4 | [SNARL AT YOUR FRIENDS!!!](https://open.spotify.com/track/4MtrLEGZjii0FEGb4R302B) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [Gonarch's Lair](https://open.spotify.com/album/7ggH0DYZKT1p5l9U2j1z3y) | 3:25 |
 | 5 | [should've died years ago](https://open.spotify.com/track/7ePJ6BcAdvmgHmP1s3aSyy) | [Flxffy\_](https://open.spotify.com/artist/6IMOszBMoTJWk1TUPTJlGD) | [should've died years ago](https://open.spotify.com/album/5sEnRmxYndenRP1yd6djsh) | 2:51 |
-| 6 | [When I Die](https://open.spotify.com/track/7FtoIzR0qkMHlbF6I7dF37) | [Pepper Coyote](https://open.spotify.com/artist/4BaRyymiAjO4Q0PPG1dai5) | [Muh](https://open.spotify.com/album/2dj86r4wOWGi6MPtGWbnPv) | 3:14 |
-| 7 | [HAVAGO](https://open.spotify.com/track/75uR1jODtXQ1OgTWArgwYc) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [HAVAGO](https://open.spotify.com/album/4vQupOFlFsPKyNpvC71CtL) | 2:25 |
-| 8 | [so easy](https://open.spotify.com/track/61uQSk7Sgr2J5vnO3U83Gj) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [so easy](https://open.spotify.com/album/0Qn3SgnRl4lTD3HjnTSP0a) | 2:03 |
-| 9 | [LIMITLESS](https://open.spotify.com/track/7iDr0MSWRPd5CCvoLkpZdn) | [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [LIMITLESS](https://open.spotify.com/album/7dcAsHSzowpNp2oicBzeD6) | 3:03 |
-| 10 | [CREDIT CARD](https://open.spotify.com/track/5P1LnQvlvZmhWvdieCyMoO) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [PASSENGERPRINCESS](https://open.spotify.com/album/6Sm7ZO5A4G1gVWqUJXeut9) | 3:20 |
-| 11 | [SNARL AT YOUR FRIENDS!!!](https://open.spotify.com/track/4MtrLEGZjii0FEGb4R302B) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [Gonarch's Lair](https://open.spotify.com/album/7ggH0DYZKT1p5l9U2j1z3y) | 3:25 |
+| 6 | [The Air That You And I Breathe Is Not The Same \- ECLIPSED](https://open.spotify.com/track/46pdXv8YDVVPk558tchreU) | [Biscuit](https://open.spotify.com/artist/75RaPp7xp9Czh1CpzWyUUR) | [The Air That You And I Breathe Is Not The Same \(ECLIPSED\)](https://open.spotify.com/album/3I1KfgTO9cIaiV72Eigz1y) | 4:55 |
+| 7 | [When I Die](https://open.spotify.com/track/7FtoIzR0qkMHlbF6I7dF37) | [Pepper Coyote](https://open.spotify.com/artist/4BaRyymiAjO4Q0PPG1dai5) | [Muh](https://open.spotify.com/album/2dj86r4wOWGi6MPtGWbnPv) | 3:14 |
+| 8 | [HAVAGO](https://open.spotify.com/track/75uR1jODtXQ1OgTWArgwYc) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [HAVAGO](https://open.spotify.com/album/4vQupOFlFsPKyNpvC71CtL) | 2:25 |
+| 9 | [so easy](https://open.spotify.com/track/61uQSk7Sgr2J5vnO3U83Gj) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [so easy](https://open.spotify.com/album/0Qn3SgnRl4lTD3HjnTSP0a) | 2:03 |
+| 10 | [LIMITLESS](https://open.spotify.com/track/7iDr0MSWRPd5CCvoLkpZdn) | [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [LIMITLESS](https://open.spotify.com/album/7dcAsHSzowpNp2oicBzeD6) | 3:03 |
+| 11 | [CREDIT CARD](https://open.spotify.com/track/5P1LnQvlvZmhWvdieCyMoO) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [PASSENGERPRINCESS](https://open.spotify.com/album/6Sm7ZO5A4G1gVWqUJXeut9) | 3:20 |
 | 12 | [April's Fool](https://open.spotify.com/track/16MZjQqrS1Dvni4IxKrJh4) | [Far Below Perfect](https://open.spotify.com/artist/2AFyXKmMqK5wo0657AvyJw) | [Don't Waste Good Names on an EP](https://open.spotify.com/album/2ShEAf3Yx2jb6fSzjp5S6D) | 3:22 |
 | 13 | [EAT SHIT AND DIE](https://open.spotify.com/track/3HdBABZV9a6A5B2xgpEVKj) | [Kookie](https://open.spotify.com/artist/4lXLshdg09Wxh0oPdSNNwW) | [seriuos eepy](https://open.spotify.com/album/0KYLMTi4r39uNgMMC8NiaP) | 2:51 |
 | 14 | [Too Late](https://open.spotify.com/track/3aZiG45CNmjjKrBisc8hEg) | [WORLDWIDEWOLF](https://open.spotify.com/artist/0PT2yAXwZHB4q6eMBGM4kV) | [When I'm With You / Too Late](https://open.spotify.com/album/6nBMymUlBdMQXGO36H6RcW) | 4:50 |
@@ -380,4 +380,4 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 370 | [No Eternity](https://open.spotify.com/track/4QuiLRd0pznAAdBBxVh5Gq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [No Eternity](https://open.spotify.com/album/7fLZtXo4I8mDBQZCmf9GaN) | 3:17 |
 | 371 | [i don't wanna](https://open.spotify.com/track/6WpDJFIu49wWtpPViObMXv) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [i don't wanna](https://open.spotify.com/album/3d9cpBCj3cSiBaI1ErfsPv) | 2:06 |
 
-Snapshot ID: `AAAFRQgQkc8sKlhst04cMmHB9vtIHfId`
+Snapshot ID: `AAAFR4IL7B6350fIJcl0xLgywSsHDZub`

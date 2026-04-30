@@ -3222,7 +3222,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 169429,
       "name": "Ave Maria - Radio edit",
       "url": "https://open.spotify.com/track/2eGjnnBr1MNFbIa6aH031h"
@@ -3426,7 +3426,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 143280,
       "name": "Ayer Hable Con Dios",
       "url": "https://open.spotify.com/track/7yWF9ZtqzTKsxKUPVg4efu"
@@ -3462,7 +3462,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 143300,
       "name": "Ayer Hable Con Dios",
       "url": "https://open.spotify.com/track/59JHSgCS2nbh0GqusOLQjS"
@@ -3810,7 +3810,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 153281,
       "name": "Bad Angel (with LISA)",
       "url": "https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ"
@@ -9936,7 +9936,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
@@ -11816,7 +11816,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -21728,7 +21728,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 258826,
       "name": "La Noche Sin T\u00ed",
       "url": "https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5"
@@ -24282,7 +24282,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 404213,
       "name": "Lover, You Should've Come Over",
       "url": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"
@@ -24816,7 +24816,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 239333,
       "name": "Madwoman",
       "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
@@ -34435,6 +34435,32 @@
     },
     {
       "album": {
+        "name": "Por si ma\u00f1ana no estoy (cumbia)",
+        "url": "https://open.spotify.com/album/3Dv4EVIG1XiNHV34vuEyfP"
+      },
+      "artists": [
+        {
+          "name": "xz!!",
+          "url": "https://open.spotify.com/artist/1UKUIpbcOskT25TmWJkDrQ"
+        },
+        {
+          "name": "Fede Keys",
+          "url": "https://open.spotify.com/artist/5B0fXCNZtqZSAyySITmuT5"
+        },
+        {
+          "name": "Tiago Usandivaras",
+          "url": "https://open.spotify.com/artist/2VxsKDSbdkHuO52GPnOsgW"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200118,
+      "name": "Por si ma\u00f1ana no estoy - cumbia",
+      "url": "https://open.spotify.com/track/7d2ju8N1cTAPkf0NWJLaSJ"
+    },
+    {
+      "album": {
         "name": "PARA QUIEN TRABAJAS Vol. I",
         "url": "https://open.spotify.com/album/40Nq78LYEHEtCKd0tuOmy2"
       },
@@ -42187,6 +42213,24 @@
     },
     {
       "album": {
+        "name": "Te Queda Bonito",
+        "url": "https://open.spotify.com/album/3ILCK72uKph88pEX1nS46D"
+      },
+      "artists": [
+        {
+          "name": "OnMusic",
+          "url": "https://open.spotify.com/artist/5DlbOBe9kXAA8o1RXFAuBJ"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124032,
+      "name": "Te Queda Bonito",
+      "url": "https://open.spotify.com/track/1z6rqCTdKSwBVxKny3zA95"
+    },
+    {
+      "album": {
         "name": "Te Quer\u00eda Ver",
         "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
       },
@@ -43624,6 +43668,24 @@
       "duration_ms": 232408,
       "name": "Todavia Respiro",
       "url": "https://open.spotify.com/track/0yQ73gnR2tRVrezhwoSBWP"
+    },
+    {
+      "album": {
+        "name": "Todavia Respiro",
+        "url": "https://open.spotify.com/album/7LrKCoE7hKGYDgaRNvW9IE"
+      },
+      "artists": [
+        {
+          "name": "Ruby Black",
+          "url": "https://open.spotify.com/artist/0FP5sTSkC1VJzgggZiLdyI"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232408,
+      "name": "Todavia Respiro",
+      "url": "https://open.spotify.com/track/3xNE2HoSw2Mb9K3mDCZ8Nz"
     },
     {
       "album": {

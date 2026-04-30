@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Genesis Owusu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,213,694 likes - 126 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,213,715 likes - 126 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

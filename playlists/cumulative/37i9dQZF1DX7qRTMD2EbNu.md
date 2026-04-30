@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: Jay Bahd
 
-923 songs - 1 day 22 hr 23 min
+924 songs - 1 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,7 +644,7 @@
 | [PLENTY WAHALA](https://open.spotify.com/track/6Q8VMpuINAzI3CKcb0Mr3i) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [PLENTY WAHALA](https://open.spotify.com/album/1Ao4ScnHoXMMo0SuH3AMfH) | 2:47 | 2026-04-17 |  |
 | [PopStar](https://open.spotify.com/track/2LO82nA2HMBbwqs0KNUeMx) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [PopStar](https://open.spotify.com/album/7KZIeyxwBz47w5bWbAF7XL) | 2:36 | 2026-03-27 |  |
 | [Power](https://open.spotify.com/track/6E6SVPcYjEZ9OIpJta0TAn) | [KooKusi](https://open.spotify.com/artist/1qRBRlrxzn5JgCwLGKWz8p), [R.B.D.](https://open.spotify.com/artist/5YPzHb8dVwxsEjSbdOU8We) | [Power](https://open.spotify.com/album/1krR6T2Cjea4iwIJqamHwX) | 3:29 | 2023-11-24 | 2024-01-05 |
-| [Power](https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX) | [Kwartengg](https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE) | [Power](https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc) | 2:45 | 2025-12-19 |  |
+| [Power](https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX) | [Kwartengg](https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE) | [Power](https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc) | 2:45 | 2025-12-19 | 2026-04-30 |
 | [Pray](https://open.spotify.com/track/0Vg2l0VwOW1EBlsGcZWic3) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc), [Essumann](https://open.spotify.com/artist/5bIgrR7520MmcNA4gMGPc1) | [Pray](https://open.spotify.com/album/6eGmjdwXDmrnguYXw7yqeH) | 2:22 | 2024-05-10 | 2024-05-24 |
 | [Pray For Me](https://open.spotify.com/track/4XM2KilXlDb2siMTkCGBPI) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg) | [Pray For Me](https://open.spotify.com/album/1brnCFqF8lOK2AiUcHtmf4) | 3:19 | 2024-06-07 | 2024-06-28 |
 | [Prayed Up](https://open.spotify.com/track/2NnTgv3KgB4YhbFzxHuK4q) | [Essilfie](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA) | [Prayed Up](https://open.spotify.com/album/60fjJwS5uH6QA7EU6u8yHB) | 2:48 | 2023-08-03 | 2023-08-25 |
@@ -895,6 +895,7 @@
 | [Wossop](https://open.spotify.com/track/6QvgQtIQzYy48w68M4iFhL) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [KWW](https://open.spotify.com/artist/0oXCDYFtjdq5ruPQuz7NbP), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go), [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 3:50 | 2023-09-29 | 2024-01-05 |
 | [Wotowei](https://open.spotify.com/track/5WogbNJtB9CgpD4T0zGpmj) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Wotowei](https://open.spotify.com/album/07CaU9TdU8Yl3mRkwLH1w4) | 3:27 | 2024-04-26 | 2025-03-21 |
 | [WOTOWOTO SEASONING \(feat\. Black Sherif\)](https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [EZIOKWU \(UNCUT\)](https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW) | 2:51 | 2024-01-05 |  |
+| [WOY3 GUY???](https://open.spotify.com/track/0iMxuPH4nmrT9gTPKf7mjb) | [YOUTH GOD](https://open.spotify.com/artist/4Rg7gXC9aHEn9WYcZNqAXj), [SARKISTY](https://open.spotify.com/artist/3Rb5nSZ1yBAOJG32MpZboL), [Pinto Black](https://open.spotify.com/artist/7qf1WOQbmOpgcClYQpnCeR), [Ypee](https://open.spotify.com/artist/2RtM65fYc9Jws8FVw1CWNZ), [VILITO](https://open.spotify.com/artist/016LvjaaZmlMIhdR3b5naj), [LAMI JNR](https://open.spotify.com/artist/3adhRf955zpR5POXzPb3Jn), [DROPLORD SAS](https://open.spotify.com/artist/4NbwcGP63d1lO7RgDo7vIE), [BBIG NOVA](https://open.spotify.com/artist/3vc4AKf4JGB2cZ3ySO6XTo) | [WOY3 GUY???](https://open.spotify.com/album/1Vu3sVLhd5P3Jboe3xRLEw) | 4:12 | 2026-04-29 |  |
 | [Wtf](https://open.spotify.com/track/3ThTiHF9tHbJ8W9gF9hIJD) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T) | [Wtf](https://open.spotify.com/album/7aRyXcDMsV7Y7rHGMZhLtZ) | 3:23 | 2022-11-18 | 2023-09-29 |
 | [Wura](https://open.spotify.com/track/3k2460qzwd0ArtDOIoN5ik) | [Itz Tiffany](https://open.spotify.com/artist/1Owom9d3JLOlczXBorsQeW) | [Wura](https://open.spotify.com/album/4srT7DvvfQCiDyDcVRvdRD) | 3:15 | 2026-03-20 | 2026-04-03 |
 | [Wɔnnkɔ](https://open.spotify.com/track/71jGGoe17WAeIz3jHXmSq1) | [Kojo Trip](https://open.spotify.com/artist/30YL6ZmUsHXN07Z6Y9SrHT) | [Ride Along](https://open.spotify.com/album/19NnnqmjYpkpPidgGzdNLE) | 3:31 | 2024-06-07 | 2024-06-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 > This is Morocco right now\. Cover: Dave & Tems
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,380 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,368 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 | 39 | [Tout donner](https://open.spotify.com/track/6a5pKXuDODMRubAW7aXYOO) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Dégât](https://open.spotify.com/album/3fshOF9fI7Z5P1GSPKvcZ4) | 2:25 |
 | 40 | [TA3AL](https://open.spotify.com/track/1EACavreLWxuxCd6Xzdaxj) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [TA3AL](https://open.spotify.com/album/4NUYyvXa1Qm8S9CQfK1ERB) | 2:19 |
 
-Snapshot ID: `AAAAAOub1hMafb4hmIRT1hyhoP/w/GFn`
+Snapshot ID: `AAAAAAFrtZVllPVuDAwwDh1GSeKw8x6i`

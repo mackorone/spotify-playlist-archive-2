@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Kid Milli\(키드밀리\)\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,937 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,962 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CAMO\_TrenChill K\-Hip Hop](https://open.spotify.com/track/6Ma87EYYI8jXtjdm8KllXT) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [TrenChill K\-Hip Hop Audio Liner](https://open.spotify.com/album/14yjVbmRBeAQ30Ptoa4Dll) | 0:03 |
 | 2 | [TORO \(feat\. Crush\)](https://open.spotify.com/track/0ljaG5dzwQG1E8j9sURWcB) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [LOVESICK](https://open.spotify.com/album/3CHydLWaSOXR2aM4q8Hqqr) | 3:59 |
-| 3 | [You're So Fine](https://open.spotify.com/track/5WxYKs3nb6TGa8kThH4eAJ) | [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [LIVE FAST DIE SKRT](https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR) | 3:45 |
+| 3 | [You're So Fine](https://open.spotify.com/track/5WxYKs3nb6TGa8kThH4eAJ) | [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [LIVE FAST DIE SKRT](https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR) | 3:47 |
 | 4 | [Tell Me](https://open.spotify.com/track/7zfAThc6oj1bgtmOMHqmwO) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Tell Me](https://open.spotify.com/album/16QHs3OYA5E2dsccDgXAMz) | 2:24 |
 | 5 | [Villain](https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q) | [1ANDON](https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf), [Kim Feelsun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih), [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Phantom Pain](https://open.spotify.com/album/1UHtWE0ml91fMJkFHfsupS) | 3:15 |
 | 6 | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 | 99 | [Rendezvous](https://open.spotify.com/track/7nZtIL9QXhhPnc6IkeIxuG) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Flip](https://open.spotify.com/album/4iN6CGkZIP3iewrrr3xEDJ) | 3:05 |
 | 100 | [미쳐버리겠다 \(MAD\)](https://open.spotify.com/track/7n1yuwnzs5jTEitJ7eecS8) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [미쳐버리겠다 \(MAD\)](https://open.spotify.com/album/1CdiLd2ENEFje7ux0G23KT) | 3:17 |
 
-Snapshot ID: `AAAAAJB6CsPISPS5gDRlshu+38RR05nr`
+Snapshot ID: `AAAAAG055QyBmFwXpMDj9kORWFQz5WIR`

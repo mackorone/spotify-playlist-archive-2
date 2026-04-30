@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: mra. Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Julia Campbell. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 136392,
       "name": ".5 OF ME",
       "url": "https://open.spotify.com/track/3lmznpzLjYggvFY9cVMzbh"
@@ -3081,6 +3081,24 @@
     },
     {
       "album": {
+        "name": "All Over It",
+        "url": "https://open.spotify.com/album/0KcuEXUSIJhmMWr4lQJAYf"
+      },
+      "artists": [
+        {
+          "name": "OK Alva",
+          "url": "https://open.spotify.com/artist/1I9TAA6WtYLMN4kn4XuCr2"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168592,
+      "name": "All Over It",
+      "url": "https://open.spotify.com/track/4bYdCaoSdIMwDCyE4IqUnr"
+    },
+    {
+      "album": {
         "name": "all over the world",
         "url": "https://open.spotify.com/album/0SF0d7rdOmP6dCfR1NCHlM"
       },
@@ -5380,7 +5398,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 175870,
       "name": "Babyface",
       "url": "https://open.spotify.com/track/6MhtEgjlNy4QK41DwhHyVn"
@@ -5654,6 +5672,24 @@
       "duration_ms": 187083,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/4VrnJv9vwURz9jHOePqDKu"
+    },
+    {
+      "album": {
+        "name": "Sick of Staying",
+        "url": "https://open.spotify.com/album/65a1oTXKKKPfOCyy2V7jFU"
+      },
+      "artists": [
+        {
+          "name": "Julia Campbell",
+          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206470,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4"
     },
     {
       "album": {
@@ -11168,7 +11204,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 196466,
       "name": "Burning House",
       "url": "https://open.spotify.com/track/6lxqJv00CG2e30NEYRuCAC"
@@ -14108,6 +14144,24 @@
       "duration_ms": 220973,
       "name": "Coffee Shop",
       "url": "https://open.spotify.com/track/5dSzSQOImlYFqZ80ZqYHqN"
+    },
+    {
+      "album": {
+        "name": "COFFIN",
+        "url": "https://open.spotify.com/album/7iPZF4ZwH9KNOsH8hwLJM9"
+      },
+      "artists": [
+        {
+          "name": "herCULES",
+          "url": "https://open.spotify.com/artist/4iyOHW8Bcc3JakQFGw8H0S"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176010,
+      "name": "COFFIN",
+      "url": "https://open.spotify.com/track/3aSsof0lLNU2N4EW9FDpN9"
     },
     {
       "album": {
@@ -33720,7 +33774,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 246381,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/08CqKcpOvCSQ4PZsS9OJwG"
@@ -35988,6 +36042,24 @@
       "duration_ms": 158250,
       "name": "I'd Be Down",
       "url": "https://open.spotify.com/track/2zkkZ242HZVe3zYM6bMJ78"
+    },
+    {
+      "album": {
+        "name": "I'd Do Anything",
+        "url": "https://open.spotify.com/album/6I7Cscx9NaCR5LjDQeEZcv"
+      },
+      "artists": [
+        {
+          "name": "Ruby Roberts",
+          "url": "https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224980,
+      "name": "I'd Do Anything",
+      "url": "https://open.spotify.com/track/1Ff8iIGVvs5EMzoOYYI197"
     },
     {
       "album": {
@@ -38334,7 +38406,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 160020,
       "name": "Is It Fun Or Is It Over?",
       "url": "https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6"
@@ -39932,6 +40004,24 @@
       "duration_ms": 174620,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/4pgLx6O7JYblZJGXxPJmUv"
+    },
+    {
+      "album": {
+        "name": "IS IT FUN OR IS IT OVER?",
+        "url": "https://open.spotify.com/album/74WPtnFgpaweZt8wSqcfQd"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154131,
+      "name": "Kiss Me Better",
+      "url": "https://open.spotify.com/track/1NxInf8oAuifXyT8Umkblf"
     },
     {
       "album": {
@@ -44228,7 +44318,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 194251,
       "name": "Love Is Easy Chaos",
       "url": "https://open.spotify.com/track/7w8MAjzHIK1nNlbkEzbia6"
@@ -50274,7 +50364,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 171248,
       "name": "New Year's Eve",
       "url": "https://open.spotify.com/track/53hEGYyUpj3FYvQOCHVdo7"
@@ -54417,6 +54507,24 @@
     },
     {
       "album": {
+        "name": "papercut",
+        "url": "https://open.spotify.com/album/1fIkrh2MTVQs928bBy8AQK"
+      },
+      "artists": [
+        {
+          "name": "ENNA",
+          "url": "https://open.spotify.com/artist/1TbnLBzj5rSZeoM522CwhS"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183543,
+      "name": "papercut",
+      "url": "https://open.spotify.com/track/4f3O9Ws3QdyaCUmye01Rmk"
+    },
+    {
+      "album": {
         "name": "Papercuts",
         "url": "https://open.spotify.com/album/7wps4tNNOWDpLBiD9in4JI"
       },
@@ -55402,7 +55510,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 213281,
       "name": "Picket Fences",
       "url": "https://open.spotify.com/track/5VuwRqPog2d52uXN5CZx7w"
@@ -55460,6 +55568,24 @@
       "duration_ms": 148085,
       "name": "Picture Perfect Standard",
       "url": "https://open.spotify.com/track/4gasg8PCUY1myPy5twWEgh"
+    },
+    {
+      "album": {
+        "name": "Songs I Wrote Since She Left",
+        "url": "https://open.spotify.com/album/3aNf0dE1084J6qV0NvLbQP"
+      },
+      "artists": [
+        {
+          "name": "GRESLEY",
+          "url": "https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205225,
+      "name": "Piece of Your Love",
+      "url": "https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp"
     },
     {
       "album": {
@@ -59907,6 +60033,24 @@
     },
     {
       "album": {
+        "name": "rollercoaster",
+        "url": "https://open.spotify.com/album/4iXlTnAz2lAS2oXsm8xAKY"
+      },
+      "artists": [
+        {
+          "name": "s\u00f8ftbleach",
+          "url": "https://open.spotify.com/artist/6dKuAS35mJiyRGAjOtSS17"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151265,
+      "name": "rollercoaster",
+      "url": "https://open.spotify.com/track/2Gx7vUqoi6u6nHiYUMrrH0"
+    },
+    {
+      "album": {
         "name": "Rollin'",
         "url": "https://open.spotify.com/album/56DTbmd634A2LOzjsGIWBK"
       },
@@ -61768,6 +61912,24 @@
       "duration_ms": 189609,
       "name": "See",
       "url": "https://open.spotify.com/track/1hVuBmPr5DULVQULC93lWx"
+    },
+    {
+      "album": {
+        "name": "See It In Your Eyes",
+        "url": "https://open.spotify.com/album/6tqnddT8kXjFv3URyusjiP"
+      },
+      "artists": [
+        {
+          "name": "Sabina",
+          "url": "https://open.spotify.com/artist/4pdOJ0BGnP5kN8aeuCV6p7"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261151,
+      "name": "See It In Your Eyes",
+      "url": "https://open.spotify.com/track/4GET941SSmrEcmArGbvxhI"
     },
     {
       "album": {
@@ -71815,6 +71977,24 @@
     },
     {
       "album": {
+        "name": "The Veil Has Spoken",
+        "url": "https://open.spotify.com/album/1pqPeNCujl1SXnwqvNkPww"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hu",
+          "url": "https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226336,
+      "name": "The Veil Has Spoken",
+      "url": "https://open.spotify.com/track/1eFqwDpU50nWuctwSdv4XU"
+    },
+    {
+      "album": {
         "name": "The View",
         "url": "https://open.spotify.com/album/6Vw14J3VDDSeYDEUv1Fery"
       },
@@ -73642,7 +73822,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 134505,
       "name": "Touch and Go",
       "url": "https://open.spotify.com/track/6aflRG0cCmnoHzrtrz4w85"
@@ -76646,7 +76826,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 234266,
       "name": "Wandering Star",
       "url": "https://open.spotify.com/track/2S7iFa8MX5f9CgDxGoxzzy"

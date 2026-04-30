@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 85525,
+  "num_followers": 85542,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae6nAAAAAAA+DUHYjzlzLDSpZGWkZhF0",
+  "snapshot_id": "ae/4gAAAAAB9yt8OvQSPSWkKpwczMIT+",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Maps of Hell (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/48QpNk2Ubidb2gZyKymSUA"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 167946,
-      "name": "New Dark Ages",
-      "url": "https://open.spotify.com/track/5eNHe2dlIgKGe9SIwu90Va"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Control",
         "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 106693,
       "name": "No Control",
       "url": "https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Maps of Hell (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/48QpNk2Ubidb2gZyKymSUA"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 167946,
+      "name": "New Dark Ages",
+      "url": "https://open.spotify.com/track/5eNHe2dlIgKGe9SIwu90Va"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age Of Unreason",
-        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
+        "name": "True North",
+        "url": "https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 178449,
-      "name": "My Sanity",
-      "url": "https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx"
+      "duration_ms": 115826,
+      "name": "True North",
+      "url": "https://open.spotify.com/track/58lZHE1P9WuNtoKJl9EoC7"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True North",
-        "url": "https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z"
+        "name": "Age Of Unreason",
+        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 115826,
-      "name": "True North",
-      "url": "https://open.spotify.com/track/58lZHE1P9WuNtoKJl9EoC7"
+      "duration_ms": 178449,
+      "name": "My Sanity",
+      "url": "https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 55306,
-      "name": "Change Of Ideas",
-      "url": "https://open.spotify.com/track/5xesgknt9epKNcaMq6irot"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Process Of Belief",
         "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 106586,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/24Z9YNvIlWNjYraAqyUgSh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 55306,
+      "name": "Change Of Ideas",
+      "url": "https://open.spotify.com/track/5xesgknt9epKNcaMq6irot"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 100693,
-      "name": "Automatic Man",
-      "url": "https://open.spotify.com/track/2W852Ax2YYdzFMJVXaG45G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suffer",
         "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 95697,
       "name": "1000 More Fools",
       "url": "https://open.spotify.com/track/1pSGzkQRKnZLzfEYvOgNTB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 100693,
+      "name": "Automatic Man",
+      "url": "https://open.spotify.com/track/2W852Ax2YYdzFMJVXaG45G"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 95875,
-      "name": "Along The Way",
-      "url": "https://open.spotify.com/track/0jl2DpwuQ2ZDBsUI4blDhr"
+      "duration_ms": 168773,
+      "name": "Fuck Armageddon...This Is Hell",
+      "url": "https://open.spotify.com/track/2WUJDRIoViFs5RYclM6gT0"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 168773,
-      "name": "Fuck Armageddon...This Is Hell",
-      "url": "https://open.spotify.com/track/2WUJDRIoViFs5RYclM6gT0"
+      "duration_ms": 95875,
+      "name": "Along The Way",
+      "url": "https://open.spotify.com/track/0jl2DpwuQ2ZDBsUI4blDhr"
     },
     {
       "added_at": null,

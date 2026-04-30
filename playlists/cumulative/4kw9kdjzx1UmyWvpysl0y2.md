@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,219 songs - 2 day 19 hr 52 min
+1,220 songs - 2 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -923,6 +923,7 @@
 | [Sealine](https://open.spotify.com/track/0jCAeHT5CiaesKQDeqZwlJ) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc) | [Sealine](https://open.spotify.com/album/77Wa67n3DdWnSU7pQCzzcl) | 3:03 | 2024-09-24 | 2024-12-19 |
 | [Searchlight](https://open.spotify.com/track/5uvTLiE8me3c4rW3mlVQbL) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Searchlight](https://open.spotify.com/album/6VhsXwh4KOtMPyXJSLnIm5) | 3:37 | 2022-02-09 | 2022-04-20 |
 | [Second Chance](https://open.spotify.com/track/5yv9mtTQgznL1USOVXU2Yp) | [Angara](https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3), [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [Second Chance](https://open.spotify.com/album/3nQzX1oyna97eYIjZ6U4PW) | 3:10 | 2024-07-30 | 2024-10-22 |
+| [Secret For You](https://open.spotify.com/track/1P1CCxAlgAI2ugYphI7P36) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp), [Molly Morgan](https://open.spotify.com/artist/41tjMmR8CEbGeTGA4t7kZh) | [Secret For You](https://open.spotify.com/album/5LTh8DfneuDw0kuA4gWzDz) | 2:50 | 2026-04-29 |  |
 | [Secrets](https://open.spotify.com/track/6rA8aGJkFECLPm6UKfPFdW) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ) | [Secrets](https://open.spotify.com/album/37sG0du7RSmjM8VMg9E6NR) | 4:00 | 2021-11-26 | 2022-03-03 |
 | [see str8](https://open.spotify.com/track/3COeRgwnfUYpJN9AV8koIz) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [see str8](https://open.spotify.com/album/15afkTcJmSdZc8b3rkpQzo) | 4:00 | 2022-07-19 | 2022-10-01 |
 | [See What I See](https://open.spotify.com/track/2J7Gdy5GzfdbPoHvpl3qfB) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9), [DEXTER KING](https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO) | [See What I See](https://open.spotify.com/album/2GEx2Zurd4rpelQlu0iCH7) | 2:26 | 2024-07-08 | 2024-10-01 |

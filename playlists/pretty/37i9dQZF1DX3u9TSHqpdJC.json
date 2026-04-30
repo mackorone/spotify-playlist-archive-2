@@ -1,13 +1,221 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: mra. Artwork by Paola Saliby",
-  "num_followers": 239450,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Julia Campbell. Artwork by Paola Saliby",
+  "num_followers": 239466,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGBVxZ/DaEW1QIuYWaI/vUumJiv/",
+  "snapshot_id": "AAAAABiX5pchENqy1UBcVDArF2K0KdTL",
   "tracks": [
+    {
+      "added_at": "2026-04-29 04:00:30",
+      "album": {
+        "name": "Sick of Staying",
+        "url": "https://open.spotify.com/album/65a1oTXKKKPfOCyy2V7jFU"
+      },
+      "artists": [
+        {
+          "name": "Julia Campbell",
+          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
+        }
+      ],
+      "duration_ms": 206470,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4"
+    },
+    {
+      "added_at": "2026-04-29 04:00:30",
+      "album": {
+        "name": "See It In Your Eyes",
+        "url": "https://open.spotify.com/album/6tqnddT8kXjFv3URyusjiP"
+      },
+      "artists": [
+        {
+          "name": "Sabina",
+          "url": "https://open.spotify.com/artist/4pdOJ0BGnP5kN8aeuCV6p7"
+        }
+      ],
+      "duration_ms": 261151,
+      "name": "See It In Your Eyes",
+      "url": "https://open.spotify.com/track/4GET941SSmrEcmArGbvxhI"
+    },
+    {
+      "added_at": "2026-04-29 04:00:30",
+      "album": {
+        "name": "Songs I Wrote Since She Left",
+        "url": "https://open.spotify.com/album/3aNf0dE1084J6qV0NvLbQP"
+      },
+      "artists": [
+        {
+          "name": "GRESLEY",
+          "url": "https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf"
+        }
+      ],
+      "duration_ms": 205225,
+      "name": "Piece of Your Love",
+      "url": "https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp"
+    },
+    {
+      "added_at": "2026-04-29 04:00:30",
+      "album": {
+        "name": "IS IT FUN OR IS IT OVER?",
+        "url": "https://open.spotify.com/album/74WPtnFgpaweZt8wSqcfQd"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 154131,
+      "name": "Kiss Me Better",
+      "url": "https://open.spotify.com/track/1NxInf8oAuifXyT8Umkblf"
+    },
+    {
+      "added_at": "2026-04-29 04:00:30",
+      "album": {
+        "name": "The Veil Has Spoken",
+        "url": "https://open.spotify.com/album/1pqPeNCujl1SXnwqvNkPww"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hu",
+          "url": "https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl"
+        }
+      ],
+      "duration_ms": 226336,
+      "name": "The Veil Has Spoken",
+      "url": "https://open.spotify.com/track/1eFqwDpU50nWuctwSdv4XU"
+    },
+    {
+      "added_at": "2026-04-29 04:00:30",
+      "album": {
+        "name": "I'd Do Anything",
+        "url": "https://open.spotify.com/album/6I7Cscx9NaCR5LjDQeEZcv"
+      },
+      "artists": [
+        {
+          "name": "Ruby Roberts",
+          "url": "https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD"
+        }
+      ],
+      "duration_ms": 224980,
+      "name": "I'd Do Anything",
+      "url": "https://open.spotify.com/track/1Ff8iIGVvs5EMzoOYYI197"
+    },
+    {
+      "added_at": "2026-04-29 04:00:30",
+      "album": {
+        "name": "All Over It",
+        "url": "https://open.spotify.com/album/0KcuEXUSIJhmMWr4lQJAYf"
+      },
+      "artists": [
+        {
+          "name": "OK Alva",
+          "url": "https://open.spotify.com/artist/1I9TAA6WtYLMN4kn4XuCr2"
+        }
+      ],
+      "duration_ms": 168592,
+      "name": "All Over It",
+      "url": "https://open.spotify.com/track/4bYdCaoSdIMwDCyE4IqUnr"
+    },
+    {
+      "added_at": "2026-04-29 04:00:30",
+      "album": {
+        "name": "rollercoaster",
+        "url": "https://open.spotify.com/album/4iXlTnAz2lAS2oXsm8xAKY"
+      },
+      "artists": [
+        {
+          "name": "s\u00f8ftbleach",
+          "url": "https://open.spotify.com/artist/6dKuAS35mJiyRGAjOtSS17"
+        }
+      ],
+      "duration_ms": 151265,
+      "name": "rollercoaster",
+      "url": "https://open.spotify.com/track/2Gx7vUqoi6u6nHiYUMrrH0"
+    },
+    {
+      "added_at": "2026-04-29 04:00:30",
+      "album": {
+        "name": "COFFIN",
+        "url": "https://open.spotify.com/album/7iPZF4ZwH9KNOsH8hwLJM9"
+      },
+      "artists": [
+        {
+          "name": "herCULES",
+          "url": "https://open.spotify.com/artist/4iyOHW8Bcc3JakQFGw8H0S"
+        }
+      ],
+      "duration_ms": 176010,
+      "name": "COFFIN",
+      "url": "https://open.spotify.com/track/3aSsof0lLNU2N4EW9FDpN9"
+    },
+    {
+      "added_at": "2026-04-29 04:00:30",
+      "album": {
+        "name": "papercut",
+        "url": "https://open.spotify.com/album/1fIkrh2MTVQs928bBy8AQK"
+      },
+      "artists": [
+        {
+          "name": "ENNA",
+          "url": "https://open.spotify.com/artist/1TbnLBzj5rSZeoM522CwhS"
+        }
+      ],
+      "duration_ms": 183543,
+      "name": "papercut",
+      "url": "https://open.spotify.com/track/4f3O9Ws3QdyaCUmye01Rmk"
+    },
+    {
+      "added_at": "2026-04-15 04:00:17",
+      "album": {
+        "name": "stay with me",
+        "url": "https://open.spotify.com/album/1szkuMBPAlxjThr7K8PVxv"
+      },
+      "artists": [
+        {
+          "name": "d\u00f3ttir.x",
+          "url": "https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0"
+        }
+      ],
+      "duration_ms": 179320,
+      "name": "stay with me",
+      "url": "https://open.spotify.com/track/3ohtc0JIOXUIjZVy5DCSBI"
+    },
+    {
+      "added_at": "2026-04-08 04:00:32",
+      "album": {
+        "name": "Smile More",
+        "url": "https://open.spotify.com/album/641fN8nipBqleoXvyebEYl"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "duration_ms": 228488,
+      "name": "Smile More",
+      "url": "https://open.spotify.com/track/3cvxnOEMYkOWKKi3yJbZ1Y"
+    },
+    {
+      "added_at": "2026-03-04 05:00:33",
+      "album": {
+        "name": "Aren't You Curious?",
+        "url": "https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA"
+      },
+      "artists": [
+        {
+          "name": "Emyrson Flora",
+          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
+        }
+      ],
+      "duration_ms": 184294,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
+    },
     {
       "added_at": "2026-04-22 04:00:09",
       "album": {
@@ -139,22 +347,6 @@
     {
       "added_at": "2026-04-15 04:00:17",
       "album": {
-        "name": "stay with me",
-        "url": "https://open.spotify.com/album/1szkuMBPAlxjThr7K8PVxv"
-      },
-      "artists": [
-        {
-          "name": "d\u00f3ttir.x",
-          "url": "https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0"
-        }
-      ],
-      "duration_ms": 179320,
-      "name": "stay with me",
-      "url": "https://open.spotify.com/track/3ohtc0JIOXUIjZVy5DCSBI"
-    },
-    {
-      "added_at": "2026-04-15 04:00:17",
-      "album": {
         "name": "From My Side",
         "url": "https://open.spotify.com/album/5vmJ1xWkA9gU8IBSn6gAck"
       },
@@ -215,22 +407,6 @@
       "duration_ms": 205483,
       "name": "batman",
       "url": "https://open.spotify.com/track/5LvQwR4I2HHqIhuxCuitDY"
-    },
-    {
-      "added_at": "2026-04-08 04:00:32",
-      "album": {
-        "name": "Smile More",
-        "url": "https://open.spotify.com/album/641fN8nipBqleoXvyebEYl"
-      },
-      "artists": [
-        {
-          "name": "Emelie Trahan",
-          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
-        }
-      ],
-      "duration_ms": 228488,
-      "name": "Smile More",
-      "url": "https://open.spotify.com/track/3cvxnOEMYkOWKKi3yJbZ1Y"
     },
     {
       "added_at": "2026-04-08 04:00:32",
@@ -345,22 +521,6 @@
       "url": "https://open.spotify.com/track/636MsYocCcRKzJxGWmhQ4Z"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
-      "album": {
-        "name": "Aren't You Curious?",
-        "url": "https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA"
-      },
-      "artists": [
-        {
-          "name": "Emyrson Flora",
-          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
-        }
-      ],
-      "duration_ms": 184294,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
-    },
-    {
       "added_at": "2026-03-25 04:00:19",
       "album": {
         "name": "Fort",
@@ -393,22 +553,6 @@
       "url": "https://open.spotify.com/track/0yGXheydoHP4EKZpfAs9zk"
     },
     {
-      "added_at": "2026-03-25 04:00:19",
-      "album": {
-        "name": "Burning House",
-        "url": "https://open.spotify.com/album/21BkNmEUShxqfQq8OFZewA"
-      },
-      "artists": [
-        {
-          "name": "Julia Campbell",
-          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Burning House",
-      "url": "https://open.spotify.com/track/6lxqJv00CG2e30NEYRuCAC"
-    },
-    {
       "added_at": "2026-04-01 04:00:18",
       "album": {
         "name": "Ladder",
@@ -423,22 +567,6 @@
       "duration_ms": 194895,
       "name": "Ladder",
       "url": "https://open.spotify.com/track/3vRVeGYoJGYSkbka121cx2"
-    },
-    {
-      "added_at": "2026-03-25 04:00:19",
-      "album": {
-        "name": "Is It Fun Or Is It Over?",
-        "url": "https://open.spotify.com/album/54N4dAkractT6mUBC0a48b"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 160020,
-      "name": "Is It Fun Or Is It Over?",
-      "url": "https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6"
     },
     {
       "added_at": "2026-04-01 04:00:18",
@@ -811,22 +939,6 @@
     {
       "added_at": "2026-03-11 04:00:22",
       "album": {
-        "name": "Wandering Star",
-        "url": "https://open.spotify.com/album/3gW6hS14LkeCAoUzvtjokf"
-      },
-      "artists": [
-        {
-          "name": "Haylie Davis",
-          "url": "https://open.spotify.com/artist/0Q2pP2uTgpT8UsuGvB3wH3"
-        }
-      ],
-      "duration_ms": 234266,
-      "name": "Wandering Star",
-      "url": "https://open.spotify.com/track/2S7iFa8MX5f9CgDxGoxzzy"
-    },
-    {
-      "added_at": "2026-03-11 04:00:22",
-      "album": {
         "name": "Tears Ago",
         "url": "https://open.spotify.com/album/3FcduBIdAeYXLTBmHl7iId"
       },
@@ -855,22 +967,6 @@
       "duration_ms": 296628,
       "name": "How Cruel",
       "url": "https://open.spotify.com/track/2mo9hZxNhmnNmYejBFUnie"
-    },
-    {
-      "added_at": "2026-03-11 04:00:22",
-      "album": {
-        "name": "Babyface",
-        "url": "https://open.spotify.com/album/35D1U5fSg6cq8eSK1N9SJg"
-      },
-      "artists": [
-        {
-          "name": "GRESLEY",
-          "url": "https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf"
-        }
-      ],
-      "duration_ms": 175870,
-      "name": "Babyface",
-      "url": "https://open.spotify.com/track/6MhtEgjlNy4QK41DwhHyVn"
     },
     {
       "added_at": "2026-03-11 04:00:22",
@@ -905,38 +1001,6 @@
       "url": "https://open.spotify.com/track/5oY98SqmKXxz1fE4cu1REt"
     },
     {
-      "added_at": "2026-03-11 04:00:22",
-      "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/6hdw9sZF3fYwWo9BCEXFpT"
-      },
-      "artists": [
-        {
-          "name": "Gracen Wynn",
-          "url": "https://open.spotify.com/artist/3NCmH47qjEsBarjmxGcyvR"
-        }
-      ],
-      "duration_ms": 246381,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/08CqKcpOvCSQ4PZsS9OJwG"
-    },
-    {
-      "added_at": "2026-03-11 04:00:22",
-      "album": {
-        "name": "Touch and Go",
-        "url": "https://open.spotify.com/album/7K1xooUllD7hhNb3GrzwQJ"
-      },
-      "artists": [
-        {
-          "name": "Maeve",
-          "url": "https://open.spotify.com/artist/3L2wM9IcPsk8BRRGkMk5tI"
-        }
-      ],
-      "duration_ms": 134505,
-      "name": "Touch and Go",
-      "url": "https://open.spotify.com/track/6aflRG0cCmnoHzrtrz4w85"
-    },
-    {
       "added_at": "2026-02-25 05:00:10",
       "album": {
         "name": "Fine",
@@ -969,22 +1033,6 @@
       "url": "https://open.spotify.com/track/1Ii1Yq2CpoRkP9elQsUpl2"
     },
     {
-      "added_at": "2026-03-04 05:00:33",
-      "album": {
-        "name": "Picket Fences",
-        "url": "https://open.spotify.com/album/3b02NVev87rWqepTDG8avL"
-      },
-      "artists": [
-        {
-          "name": "Ocean Tisdall",
-          "url": "https://open.spotify.com/artist/0khASnsotcq7HSvuUEaWkg"
-        }
-      ],
-      "duration_ms": 213281,
-      "name": "Picket Fences",
-      "url": "https://open.spotify.com/track/5VuwRqPog2d52uXN5CZx7w"
-    },
-    {
       "added_at": "2026-02-25 05:00:10",
       "album": {
         "name": "Leaving Me Lonely",
@@ -999,38 +1047,6 @@
       "duration_ms": 192954,
       "name": "Leaving Me Lonely",
       "url": "https://open.spotify.com/track/2BhjFbZKCY6GqJfCOuiQWf"
-    },
-    {
-      "added_at": "2026-02-25 05:00:10",
-      "album": {
-        "name": "New Year's Eve",
-        "url": "https://open.spotify.com/album/2wcAjapN7Lyie2OpbLwBrw"
-      },
-      "artists": [
-        {
-          "name": "Ida Fiona",
-          "url": "https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm"
-        }
-      ],
-      "duration_ms": 171248,
-      "name": "New Year's Eve",
-      "url": "https://open.spotify.com/track/53hEGYyUpj3FYvQOCHVdo7"
-    },
-    {
-      "added_at": "2026-02-25 05:00:10",
-      "album": {
-        "name": ".5 OF ME",
-        "url": "https://open.spotify.com/album/1KPk8XuaL0CXd2Houf9iIJ"
-      },
-      "artists": [
-        {
-          "name": "Juliet Daniel",
-          "url": "https://open.spotify.com/artist/4zdPlubDFPnv9nUjXWK6au"
-        }
-      ],
-      "duration_ms": 136392,
-      "name": ".5 OF ME",
-      "url": "https://open.spotify.com/track/3lmznpzLjYggvFY9cVMzbh"
     },
     {
       "added_at": "2026-02-18 18:23:36",
@@ -1095,22 +1111,6 @@
       "duration_ms": 194583,
       "name": "break your own heart",
       "url": "https://open.spotify.com/track/03w3rXukAjqDavSVdJPlNB"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "Love Is Easy Chaos",
-        "url": "https://open.spotify.com/album/3R8mythb76engSdmuKvSZD"
-      },
-      "artists": [
-        {
-          "name": "Hannah Hu",
-          "url": "https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl"
-        }
-      ],
-      "duration_ms": 194251,
-      "name": "Love Is Easy Chaos",
-      "url": "https://open.spotify.com/track/7w8MAjzHIK1nNlbkEzbia6"
     },
     {
       "added_at": "2026-01-28 15:08:44",

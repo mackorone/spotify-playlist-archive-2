@@ -1,13 +1,61 @@
 {
-  "description": "2026 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u9999\u6e2f\u672a\u4f86\u65b0\u8072\uff01Cover: CONSTANCE",
-  "num_followers": 8791,
+  "description": "2026 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u9999\u6e2f\u672a\u4f86\u65b0\u8072\uff01Cover: inablankat",
+  "num_followers": 8803,
   "original_name": "RADAR HK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC5vgKmmjG17QhUkQMyTnluaP+LW",
+  "snapshot_id": "AAAAADaEEvypErj63yFPkworJN+6U0K3",
   "tracks": [
+    {
+      "added_at": "2026-04-29 08:48:32",
+      "album": {
+        "name": "Unveilings",
+        "url": "https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5"
+      },
+      "artists": [
+        {
+          "name": "Amy Lo",
+          "url": "https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6"
+    },
+    {
+      "added_at": "2026-04-24 14:07:40",
+      "album": {
+        "name": "\u53d6\u6d88\u8ffd\u8e64",
+        "url": "https://open.spotify.com/album/524TeR4HcUHBCCNiOdQK9j"
+      },
+      "artists": [
+        {
+          "name": "REGENT \u6797\u6690\u7ae3",
+          "url": "https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp"
+        }
+      ],
+      "duration_ms": 251274,
+      "name": "\u53d6\u6d88\u8ffd\u8e64",
+      "url": "https://open.spotify.com/track/7zRtyJIbpVGtIviihExl42"
+    },
+    {
+      "added_at": "2026-04-29 08:48:32",
+      "album": {
+        "name": "\u8981\u9084",
+        "url": "https://open.spotify.com/album/0VuUCTaVoxR1HWIfRQLBai"
+      },
+      "artists": [
+        {
+          "name": "CONSTANCE",
+          "url": "https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "\u8981\u9084",
+      "url": "https://open.spotify.com/track/0htSMEYzCEqaVedtTUYuCt"
+    },
     {
       "added_at": "2026-04-24 14:07:40",
       "album": {
@@ -611,22 +659,6 @@
       "duration_ms": 228494,
       "name": "nahnah",
       "url": "https://open.spotify.com/track/65kMPWR0eQ2EZJUkhEd4if"
-    },
-    {
-      "added_at": "2026-04-24 14:07:40",
-      "album": {
-        "name": "\u53d6\u6d88\u8ffd\u8e64",
-        "url": "https://open.spotify.com/album/524TeR4HcUHBCCNiOdQK9j"
-      },
-      "artists": [
-        {
-          "name": "REGENT \u6797\u6690\u7ae3",
-          "url": "https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp"
-        }
-      ],
-      "duration_ms": 251274,
-      "name": "\u53d6\u6d88\u8ffd\u8e64",
-      "url": "https://open.spotify.com/track/7zRtyJIbpVGtIviihExl42"
     },
     {
       "added_at": "2026-04-24 14:07:40",

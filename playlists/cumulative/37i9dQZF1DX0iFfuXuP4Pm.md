@@ -4,7 +4,7 @@
 
 > Mga nangunguna sa mundo ng OPM\. Cover: IV OF SPADES
 
-539 songs - 1 day 9 hr 31 min
+542 songs - 1 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Alanganin](https://open.spotify.com/track/10PRIQDXTzY4uK8X5UD348) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Alanganin](https://open.spotify.com/album/2FnFVTIOU8qDIMxyEvaWyp) | 3:57 | 2026-02-18 |  |
 | [Alipin](https://open.spotify.com/track/4m9p3fGGkutMcvjgVTu1QN) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [BANDROOM SESSIONS EPISODE 1](https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2) | 3:54 | 2025-08-20 | 2025-10-07 |
 | [All These Ladies](https://open.spotify.com/track/4IziPWd0KztwFIRzPw1Ahy) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [All These Ladies](https://open.spotify.com/album/0ZJrY2IPQAJdqPDaTPsEpQ) | 3:47 | 2025-08-13 | 2025-10-16 |
+| [alon](https://open.spotify.com/track/1we7ejeeUYN2E3bau8DMkj) | [Kevin Montillano](https://open.spotify.com/artist/7Ef2aO3yFTcUnkv3Se81Ju) | [alon](https://open.spotify.com/album/1lp9u4tz7NfolKsKR2HvOU) | 3:31 | 2026-04-29 |  |
 | [Amihan](https://open.spotify.com/track/4pAKl9n4gAbNgkQwcbLrH6) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Amihan](https://open.spotify.com/album/2XmESRJ4uSzoQE4KMHvOkT) | 4:40 | 2025-10-15 | 2025-11-27 |
 | [Ang Himala Ay Nasa Puso \- From "Isang Himala"](https://open.spotify.com/track/7okKzmRUYkKliDRs1x7vXl) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Ang Himala Ay Nasa Puso \(From "Isang Himala"\)](https://open.spotify.com/album/0jy2q8JkmnbNtQoz2n5FSb) | 4:00 | 2025-01-15 | 2025-03-06 |
 | [Ang Pag\-Ibig Kong Ito](https://open.spotify.com/track/2M4fBSlTOSsMjkSON97mZR) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Ang Pag\-Ibig Kong Ito](https://open.spotify.com/album/6C1RCcjUmBB9NSkGzgip9V) | 3:45 | 2026-01-21 |  |
@@ -232,7 +233,7 @@
 | [Konsensya](https://open.spotify.com/track/3ilfK8uTk4VB50GKtfKHTL) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Konsensya](https://open.spotify.com/album/3Gwpshb9YLl9oLss4dVPot) | 3:33 | 2025-09-17 | 2025-12-03 |
 | [Kulimlim](https://open.spotify.com/track/7otcJuVUk3fEbvJ5tNO4af) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [Kulimlim](https://open.spotify.com/album/6OhYBRH3PE4wH9t1Yfljpq) | 3:30 | 2024-10-23 | 2025-02-28 |
 | [Kunan Mong Pic](https://open.spotify.com/track/6q07OiEEt6Tz2SkGuwCCGo) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [BRGR](https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Kunan Mong Pic](https://open.spotify.com/album/2yo2p2KkXVyYNV5Lo8XxwN) | 3:15 | 2024-05-24 | 2024-07-25 |
-| [Kung Akin Ang Mundo](https://open.spotify.com/track/7zIPM8WTLP6tvMIYFB8T0U) | [Kyle Echarri](https://open.spotify.com/artist/53qa1XIZ6pZuhrGDetCGew) | [Kung Akin Ang Mundo](https://open.spotify.com/album/5uewl2UEDN0rwr53owlNrI) | 3:26 | 2026-02-25 |  |
+| [Kung Akin Ang Mundo](https://open.spotify.com/track/7zIPM8WTLP6tvMIYFB8T0U) | [Kyle Echarri](https://open.spotify.com/artist/53qa1XIZ6pZuhrGDetCGew) | [Kung Akin Ang Mundo](https://open.spotify.com/album/5uewl2UEDN0rwr53owlNrI) | 3:26 | 2026-02-25 | 2026-04-30 |
 | [kung para sa 'yo](https://open.spotify.com/track/78n4nnldHAH1GawfHlvy2m) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [kung para sa 'yo](https://open.spotify.com/album/1wHubkZiZKfoBqKEgB3nOM) | 4:39 | 2026-01-21 | 2026-04-03 |
 | [Kung Uulitin](https://open.spotify.com/track/3pWGn9BsoCVXW9z3glZ9f4) | [Yeng Constantino](https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ) | [Kung Uulitin](https://open.spotify.com/album/1eGV9y6yf9hgW0QN1xRl0P) | 4:42 | 2024-02-07 | 2024-03-07 |
 | [Kupido](https://open.spotify.com/track/2ORqUATcWTPab0J6a0cEya) | [The Red Strings](https://open.spotify.com/artist/1OReprh6WpboerPxNxuQjO) | [Kupido](https://open.spotify.com/album/31qHI9HuPqfVpvTPhvjZy5) | 3:03 | 2026-03-25 |  |
@@ -326,7 +327,7 @@
 | [Nang Tahimik](https://open.spotify.com/track/2ZvnsAhdcPO0P6pM4JWmKs) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [Nang Tahimik](https://open.spotify.com/album/5gC6gRRQB40oSPOoyPMDdA) | 5:34 | 2025-01-08 | 2025-04-03 |
 | [Napagod Na](https://open.spotify.com/track/4UZdLLW8Pn5xPrvNdnZJQ4) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Napagod Na](https://open.spotify.com/album/5JMLaYvckd8WSXZnC2uLeN) | 2:27 | 2024-04-10 | 2024-06-06 |
 | [Nasan Na Ba Ako?](https://open.spotify.com/track/71wEGMZkYzllZd7P8u2FES) | [SSUNN](https://open.spotify.com/artist/1GkXuyf7W9WnQhHuBov71K) | [Nasan Na Ba Ako?](https://open.spotify.com/album/4hxtD2eFMJH1rSQXXwH4YN) | 4:50 | 2025-08-20 | 2025-10-16 |
-| [Natataranta](https://open.spotify.com/track/3FAqMtZkIWCznRfhTN9Ff3) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Natataranta](https://open.spotify.com/album/5qECO3XndNcZrfYB3MyIQF) | 3:14 | 2026-02-18 |  |
+| [Natataranta](https://open.spotify.com/track/3FAqMtZkIWCznRfhTN9Ff3) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Natataranta](https://open.spotify.com/album/5qECO3XndNcZrfYB3MyIQF) | 3:14 | 2026-02-18 | 2026-04-30 |
 | [Natotorpe](https://open.spotify.com/track/2TEDnJFFfIk9iHufD1ZAHZ) | [Andi Chang](https://open.spotify.com/artist/1pypIBvwxLU7yfd7tiAHVq) | [Natotorpe](https://open.spotify.com/album/7ERXnnVNTe56dlugtcrXWl) | 2:59 | 2025-11-12 | 2025-12-10 |
 | [Nene](https://open.spotify.com/track/5d7Ymd1AVlmflKF2Sp780l) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Nene](https://open.spotify.com/album/3fNsuXJpYe0wEXB0Ept0pV) | 3:18 | 2024-03-27 | 2024-05-15 |
 | [Never Be Alone.](https://open.spotify.com/track/7IfZwCYzZUzF5bhnzpbe5o) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Never Be Alone.](https://open.spotify.com/album/14RDdFHxwkBRXk2lpKqJlE) | 3:04 | 2025-11-27 | 2025-12-03 |
@@ -376,6 +377,7 @@
 | [Panaginip](https://open.spotify.com/track/6wcjLOGIdmw8BUaRho4c9L) | [nicole](https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp) | [Panaginip](https://open.spotify.com/album/0LQNdoYar00bkYYmKZxwQI) | 5:17 | 2025-12-10 |  |
 | [Panaginip Ko](https://open.spotify.com/track/1xZwIbyfN6WXouzprW4CqR) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Panaginip Ko](https://open.spotify.com/album/1yULhjvIedMHjzbgGpSGQD) | 3:42 | 2024-05-29 | 2024-06-21 |
 | [panalangin](https://open.spotify.com/track/68doFzNBmManicbD9yfRoA) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [panalangin](https://open.spotify.com/album/662zfB0NP7XjMNIiup69jj) | 2:42 | 2024-07-24 | 2024-11-07 |
+| [Panatag](https://open.spotify.com/track/5obkQ3qSb30bFrda9rgtd7) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Panatag](https://open.spotify.com/album/038xoGzKvVvU5DgGvbqRMh) | 3:49 | 2026-04-29 |  |
 | [Panatag](https://open.spotify.com/track/3vU2mrdIZdJuVjLq9LhTOF) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN), [Barbie Almalbis](https://open.spotify.com/artist/6XMiJRtSvw0PYHOBSBEsMg) | [Panatag](https://open.spotify.com/album/65QGhrDwDsrJEv94Ltqixh) | 3:47 | 2024-11-28 | 2025-01-09 |
 | [pano tayo \(?\)](https://open.spotify.com/track/1qMLxOAzVNEqA6ibD4BHXW) | [Zach x Zeph](https://open.spotify.com/artist/4CYeHT9n7RrHjp3SGS455I) | [pano tayo \(?\)](https://open.spotify.com/album/5M9rV3VTkXYt1ErBFpHMZ2) | 4:09 | 2025-12-10 | 2026-01-30 |
 | [Pantropiko](https://open.spotify.com/track/6Csrqur3IfnVp0EtHskjMw) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Pantropiko](https://open.spotify.com/album/3NYOeU6Uwj2FP1Zz1rWVz8) | 3:45 | 2024-02-28 | 2024-07-25 |
@@ -384,7 +386,8 @@
 | [Para Pilitin Ka](https://open.spotify.com/track/69U6iomvHuKP2m27XRD0Ct) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Para Pilitin Ka](https://open.spotify.com/album/4KcovszCGgDit0iyhwuQ9u) | 3:16 | 2025-03-26 | 2025-05-22 |
 | [Para Sa Akin](https://open.spotify.com/track/5v5dlsJYrw9xiB36GELIUV) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Para Sa Akin](https://open.spotify.com/album/1qtZrt2G6Yr3RP3ZfMGxwU) | 3:17 | 2024-01-24 | 2024-05-09 |
 | [Paraiso](https://open.spotify.com/track/4WgKPgWj629H3bnTEQQuEH) | [JetNekko](https://open.spotify.com/artist/2Zz4iF0WqUSduXhnJFos5o) | [Paraiso](https://open.spotify.com/album/5nEVhJoyzg7K9S8DRwO3xy) | 5:01 | 2025-12-17 | 2026-02-19 |
-| [Paralisado](https://open.spotify.com/track/0uLaVOitbCPo8xOnFbYcfD) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Paralisado](https://open.spotify.com/album/6GXZDnJ5Z5J9gIrh5COODE) | 4:36 | 2026-02-18 |  |
+| [Paralisado](https://open.spotify.com/track/0uLaVOitbCPo8xOnFbYcfD) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Paralisado](https://open.spotify.com/album/6GXZDnJ5Z5J9gIrh5COODE) | 4:36 | 2026-02-18 | 2026-04-30 |
+| [Parang](https://open.spotify.com/track/1KPwYzNfA3J7JN7o2JE8AK) | [figvres](https://open.spotify.com/artist/4ShxxebL6hOdEveQSOVZkV), [Kyla Miel](https://open.spotify.com/artist/2biYWNaH3ixEcbqA8rajv5) | [Parang](https://open.spotify.com/album/5sDKeWFuWxy199YWo63RdL) | 4:08 | 2026-04-29 |  |
 | [Paraya](https://open.spotify.com/track/5DDS1hu1GcEZppuArUcfUA) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Paraya](https://open.spotify.com/album/6Rlp7gO2NJv8YEDuCkBRWX) | 4:12 | 2024-09-11 | 2024-10-30 |
 | [PAREHAS TAYO](https://open.spotify.com/track/6KDLUcxVRvXIXMexgf9x9b) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [PAREHAS TAYO](https://open.spotify.com/album/3as5iLN6ugZO7Kz4xVaHdk) | 4:16 | 2024-01-24 | 2024-04-04 |
 | [Pasado](https://open.spotify.com/track/6CnRHAc2wQxd1q4MyQU2lr) | [It All Started In May](https://open.spotify.com/artist/1qWLxocXl9bpeqejuQ8zJX) | [Pasado](https://open.spotify.com/album/44PsVipyfXXv1s3jDG4TwE) | 3:37 | 2025-07-02 | 2025-10-16 |

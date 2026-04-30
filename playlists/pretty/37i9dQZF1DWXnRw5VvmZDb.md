@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnRw5VvmZDb.md) - [plain]
 
 > Inspired by the arts and his own vivid imagination, Debussy defined a new era of musical impressionism\. Discover his dreamlike preludes, suites and songs right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,722 likes - 58 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,764 likes - 58 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Suite bergamasque, CD 82: III\. Clair de lune \- Recorded 2017](https://open.spotify.com/track/26KykHLogeIep4OrurliDS) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Debussy: Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/album/0y0G5l8ObushJUnTvlgj1O) | 4:23 |
-| 2 | [Rêverie, L\. 68: Rêverie](https://open.spotify.com/track/43bSKCMWHIuBsUVmQcDX1J) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Debussy Piano Edition](https://open.spotify.com/album/7qdNpLxZ5eazTHCYu0Ssxz) | 4:17 |
+| 2 | [Rêverie, CD 76](https://open.spotify.com/track/43bSKCMWHIuBsUVmQcDX1J) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Debussy Piano Edition](https://open.spotify.com/album/7qdNpLxZ5eazTHCYu0Ssxz) | 4:17 |
 | 3 | [Dances for Harp and Orchestra, L\. 103: 2\. Danse profane](https://open.spotify.com/track/3qzNMOAMWvzMtl3aPv9rOB) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp), [Amsterdam Sinfonietta](https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD) | [Voyage](https://open.spotify.com/album/6Y5xtNCiofbRSa3E4nDQxi) | 4:39 |
 | 4 | [Beau soir, L\. 84](https://open.spotify.com/track/79lfP9yzZVYHn11E5leXZ9) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR) | [Beau soir, L\. 84](https://open.spotify.com/album/0ZLEQ01gvClyFVkxmIaiHi) | 2:41 |
 | 5 | [Symphony in B Minor: II\. Un poco lento, cantabile \(Arr\. T\. Finno for orchestra\)](https://open.spotify.com/track/0YNY0I3Hkspqe2NlhuWAQu) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Orchestre National De Lyon](https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo), [Jun Markl](https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd) | [Debussy: Orchestral Works, Vol\. 6](https://open.spotify.com/album/2PSLGmdwrMnLIJuYxfYuQ0) | 2:45 |

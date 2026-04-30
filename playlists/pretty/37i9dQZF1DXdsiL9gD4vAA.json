@@ -1,6 +1,6 @@
 {
   "description": "Ghazals for the rapture and passion of intense love and longing. Cover - Jagjit Singh",
-  "num_followers": 140434,
+  "num_followers": 140456,
   "original_name": "Golden Ghazals",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,30 @@
     {
       "added_at": "2026-04-10 09:59:22",
       "album": {
+        "name": "Dil Ke Chhaale",
+        "url": "https://open.spotify.com/album/13Lq2RJ7uLtN0NOpSg6aEt"
+      },
+      "artists": [
+        {
+          "name": "Prithvi Gandharv",
+          "url": "https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+        },
+        {
+          "name": "Shahab Hussain",
+          "url": "https://open.spotify.com/artist/4bBGi3ViY36psd55ThPkDv"
+        }
+      ],
+      "duration_ms": 322554,
+      "name": "Dil Ke Chhaale",
+      "url": "https://open.spotify.com/track/50704i9WQZM3Nco78XBLLo"
+    },
+    {
+      "added_at": "2026-04-10 09:59:22",
+      "album": {
         "name": "Ghazal Lounge",
         "url": "https://open.spotify.com/album/0650SIztpEIyUkoQUIFflW"
       },
@@ -243,26 +267,6 @@
       "duration_ms": 400720,
       "name": "Aaj Jaane Ki Zid Na Karo",
       "url": "https://open.spotify.com/track/2KYqJSqEcFKtFmcSf5574E"
-    },
-    {
-      "added_at": "2026-04-10 09:59:22",
-      "album": {
-        "name": "Wo Baat Kahan",
-        "url": "https://open.spotify.com/album/2slESqhptAlh3jIB9KtExS"
-      },
-      "artists": [
-        {
-          "name": "Arhaan Hussain",
-          "url": "https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa"
-        },
-        {
-          "name": "Mahendra Dhirajlal Kamdar",
-          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Wo Baat Kahan",
-      "url": "https://open.spotify.com/track/4P2ye5Ocy41bUThs9r96Kz"
     },
     {
       "added_at": "2026-04-10 09:59:22",
@@ -311,26 +315,22 @@
     {
       "added_at": "2026-04-10 09:59:22",
       "album": {
-        "name": "Dil Ke Chhaale",
-        "url": "https://open.spotify.com/album/13Lq2RJ7uLtN0NOpSg6aEt"
+        "name": "Wo Baat Kahan",
+        "url": "https://open.spotify.com/album/2slESqhptAlh3jIB9KtExS"
       },
       "artists": [
         {
-          "name": "Prithvi Gandharv",
-          "url": "https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs"
+          "name": "Arhaan Hussain",
+          "url": "https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa"
         },
         {
           "name": "Mahendra Dhirajlal Kamdar",
           "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
-        },
-        {
-          "name": "Shahab Hussain",
-          "url": "https://open.spotify.com/artist/4bBGi3ViY36psd55ThPkDv"
         }
       ],
-      "duration_ms": 322554,
-      "name": "Dil Ke Chhaale",
-      "url": "https://open.spotify.com/track/50704i9WQZM3Nco78XBLLo"
+      "duration_ms": 297000,
+      "name": "Wo Baat Kahan",
+      "url": "https://open.spotify.com/track/4P2ye5Ocy41bUThs9r96Kz"
     },
     {
       "added_at": "2026-04-10 09:59:22",
@@ -431,26 +431,18 @@
     {
       "added_at": "2026-04-10 09:59:22",
       "album": {
-        "name": "Bekhudi Ishq Ki",
-        "url": "https://open.spotify.com/album/4G1jCHowIxMGm1Qeg3wRex"
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/06K2HzhX1eoUo9pVUFpYc3"
       },
       "artists": [
         {
-          "name": "Jazim Sharma",
-          "url": "https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB"
-        },
-        {
-          "name": "Mahendra Dhirajlal Kamdar",
-          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
-        },
-        {
-          "name": "Sagnik Kolay",
-          "url": "https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc"
+          "name": "Pankaj Udhas",
+          "url": "https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw"
         }
       ],
-      "duration_ms": 291956,
-      "name": "Bekhudi Ishq Ki",
-      "url": "https://open.spotify.com/track/24BHj41vxRhHfxo5Zfa7Rq"
+      "duration_ms": 402053,
+      "name": "Chandi Jaisa Rang - Live In India",
+      "url": "https://open.spotify.com/track/4lNIbr9cjYnk1W1CppnqUQ"
     },
     {
       "added_at": "2026-04-10 09:59:22",
@@ -475,18 +467,26 @@
     {
       "added_at": "2026-04-10 09:59:22",
       "album": {
-        "name": "Icon",
-        "url": "https://open.spotify.com/album/06K2HzhX1eoUo9pVUFpYc3"
+        "name": "Bekhudi Ishq Ki",
+        "url": "https://open.spotify.com/album/4G1jCHowIxMGm1Qeg3wRex"
       },
       "artists": [
         {
-          "name": "Pankaj Udhas",
-          "url": "https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw"
+          "name": "Jazim Sharma",
+          "url": "https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+        },
+        {
+          "name": "Sagnik Kolay",
+          "url": "https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc"
         }
       ],
-      "duration_ms": 402053,
-      "name": "Chandi Jaisa Rang - Live In India",
-      "url": "https://open.spotify.com/track/4lNIbr9cjYnk1W1CppnqUQ"
+      "duration_ms": 291956,
+      "name": "Bekhudi Ishq Ki",
+      "url": "https://open.spotify.com/track/24BHj41vxRhHfxo5Zfa7Rq"
     },
     {
       "added_at": "2026-04-10 09:59:22",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-04-10 09:59:22",
       "album": {
-        "name": "Hamara Dil",
-        "url": "https://open.spotify.com/album/7lDXRXTGVhKXHbQUmPsx6q"
-      },
-      "artists": [
-        {
-          "name": "Talat Aziz",
-          "url": "https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Hamara Dil",
-      "url": "https://open.spotify.com/track/4MYjT0f53X3XW3Qcwj2085"
-    },
-    {
-      "added_at": "2026-04-10 09:59:22",
-      "album": {
         "name": "Marasim",
         "url": "https://open.spotify.com/album/1LDrTnu0ogosWf5UyVpnlz"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 46293,
       "name": "Gulzar Speaks - Tarkieb",
       "url": "https://open.spotify.com/track/5OsYSM0LuBtYxJk2DqpZPn"
+    },
+    {
+      "added_at": "2026-04-10 09:59:22",
+      "album": {
+        "name": "Hamara Dil",
+        "url": "https://open.spotify.com/album/7lDXRXTGVhKXHbQUmPsx6q"
+      },
+      "artists": [
+        {
+          "name": "Talat Aziz",
+          "url": "https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Hamara Dil",
+      "url": "https://open.spotify.com/track/4MYjT0f53X3XW3Qcwj2085"
     },
     {
       "added_at": "2026-04-10 09:59:22",

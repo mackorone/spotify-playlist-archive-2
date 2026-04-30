@@ -323,6 +323,28 @@
     },
     {
       "album": {
+        "name": "Nested in Tangles (Deluxe)",
+        "url": "https://open.spotify.com/album/0v3bid5eeWmchf4wCNcxVE"
+      },
+      "artists": [
+        {
+          "name": "Hannah Frances",
+          "url": "https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz"
+        },
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284466,
+      "name": "Beholden to the Birds Murmuring Above",
+      "url": "https://open.spotify.com/track/4rJDJnOFLms2b4oFquIBFg"
+    },
+    {
+      "album": {
         "name": "Black Eyed Susan",
         "url": "https://open.spotify.com/album/0JJyu6jluatrwYKbEXGHjC"
       },
@@ -1854,6 +1876,24 @@
       "duration_ms": 250176,
       "name": "Ursa Major",
       "url": "https://open.spotify.com/track/7jMmgzKA33wNfqwW99it4P"
+    },
+    {
+      "album": {
+        "name": "SOLITO CINEMA",
+        "url": "https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD"
+      },
+      "artists": [
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258831,
+      "name": "Vertigine",
+      "url": "https://open.spotify.com/track/3aeIeSpxvODmUthmSmkFDF"
     },
     {
       "album": {

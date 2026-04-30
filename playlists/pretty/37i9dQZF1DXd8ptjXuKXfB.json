@@ -1,6 +1,6 @@
 {
   "description": "A legmen\u0151bb \u00e9s legtrendibb dalok egy helyen \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-  "num_followers": 32298,
+  "num_followers": 32291,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,26 @@
     {
       "added_at": "2026-04-27 13:18:06",
       "album": {
+        "name": "VINNER DELUXE",
+        "url": "https://open.spotify.com/album/3dj07tLV6pPxW4YGzF21Ni"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "Sofi",
+          "url": "https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK"
+        }
+      ],
+      "duration_ms": 145950,
+      "name": "EX N GO",
+      "url": "https://open.spotify.com/track/6nvDIhdi3Dcet4sIZR5qDk"
+    },
+    {
+      "added_at": "2026-04-27 13:18:06",
+      "album": {
         "name": "Gyerekek",
         "url": "https://open.spotify.com/album/0oOywwZrjosDWVG95s9GBE"
       },
@@ -595,22 +615,6 @@
     {
       "added_at": "2026-04-27 13:18:06",
       "album": {
-        "name": "Magyar Tenger Kal\u00f3zai",
-        "url": "https://open.spotify.com/album/7G03dGeUw7DdJ36QXJyekX"
-      },
-      "artists": [
-        {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
-        }
-      ],
-      "duration_ms": 191193,
-      "name": "\u00c1llamhaj\u00f3",
-      "url": "https://open.spotify.com/track/5eqbwJo1k5I9fHhgSTw06b"
-    },
-    {
-      "added_at": "2026-04-27 13:18:06",
-      "album": {
         "name": "SZAR AZ \u00c9LET",
         "url": "https://open.spotify.com/album/1dQ7jejuPoZHDusPiG2vhc"
       },
@@ -631,6 +635,22 @@
       "duration_ms": 191707,
       "name": "SZAR AZ \u00c9LET",
       "url": "https://open.spotify.com/track/3jsbWC8B4zKp45oeXiUnLP"
+    },
+    {
+      "added_at": "2026-04-27 13:18:06",
+      "album": {
+        "name": "Magyar Tenger Kal\u00f3zai",
+        "url": "https://open.spotify.com/album/7G03dGeUw7DdJ36QXJyekX"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "duration_ms": 191193,
+      "name": "\u00c1llamhaj\u00f3",
+      "url": "https://open.spotify.com/track/5eqbwJo1k5I9fHhgSTw06b"
     },
     {
       "added_at": "2026-04-27 13:18:06",
@@ -667,26 +687,6 @@
     {
       "added_at": "2026-04-27 13:18:06",
       "album": {
-        "name": "VINNER DELUXE",
-        "url": "https://open.spotify.com/album/3dj07tLV6pPxW4YGzF21Ni"
-      },
-      "artists": [
-        {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
-        },
-        {
-          "name": "Sofi",
-          "url": "https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK"
-        }
-      ],
-      "duration_ms": 145950,
-      "name": "EX N GO",
-      "url": "https://open.spotify.com/track/6nvDIhdi3Dcet4sIZR5qDk"
-    },
-    {
-      "added_at": "2026-04-27 13:18:06",
-      "album": {
         "name": "Talpra cig\u00e1nyok",
         "url": "https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU"
       },
@@ -715,6 +715,26 @@
       "duration_ms": 168953,
       "name": "erotika",
       "url": "https://open.spotify.com/track/6WsEsdHsrvxCW47qLE25fG"
+    },
+    {
+      "added_at": "2026-04-27 13:18:06",
+      "album": {
+        "name": "VINNER",
+        "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "duration_ms": 138097,
+      "name": "WAKE N BAKE",
+      "url": "https://open.spotify.com/track/1bnRSZisq4IX2DIvteVP9M"
     },
     {
       "added_at": "2026-04-27 13:18:06",
@@ -755,26 +775,6 @@
     {
       "added_at": "2026-04-27 13:18:06",
       "album": {
-        "name": "VINNER",
-        "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
-      },
-      "artists": [
-        {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
-        },
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        }
-      ],
-      "duration_ms": 138097,
-      "name": "WAKE N BAKE",
-      "url": "https://open.spotify.com/track/1bnRSZisq4IX2DIvteVP9M"
-    },
-    {
-      "added_at": "2026-04-27 13:18:06",
-      "album": {
         "name": "SZEPTEMBER V\u00c9G\u00c9N (STRESSZ)",
         "url": "https://open.spotify.com/album/2qQIcOMqoiYMTxbBEcwdi4"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-04-27 13:18:06",
       "album": {
-        "name": "BE VAGYOK Z\u00c1RVA",
-        "url": "https://open.spotify.com/album/7EUW3MZBp2wgcUQYuPnHb5"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        }
-      ],
-      "duration_ms": 131779,
-      "name": "BE VAGYOK Z\u00c1RVA",
-      "url": "https://open.spotify.com/track/7ovp4mzdzQJHTrRiTyaaAY"
-    },
-    {
-      "added_at": "2026-04-27 13:18:06",
-      "album": {
         "name": "S\u00d6T\u00c9T",
         "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 144203,
       "name": "S\u00d6T\u00c9T",
       "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
+    },
+    {
+      "added_at": "2026-04-27 13:18:06",
+      "album": {
+        "name": "BE VAGYOK Z\u00c1RVA",
+        "url": "https://open.spotify.com/album/7EUW3MZBp2wgcUQYuPnHb5"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        }
+      ],
+      "duration_ms": 131779,
+      "name": "BE VAGYOK Z\u00c1RVA",
+      "url": "https://open.spotify.com/track/7ovp4mzdzQJHTrRiTyaaAY"
     },
     {
       "added_at": "2026-04-27 13:18:06",
@@ -875,6 +875,30 @@
     {
       "added_at": "2026-04-27 13:18:06",
       "album": {
+        "name": "Midnight (The Hanging Tree)",
+        "url": "https://open.spotify.com/album/6YzV3Syw4CNX3R9IaTfnSh"
+      },
+      "artists": [
+        {
+          "name": "HOSH",
+          "url": "https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs"
+        },
+        {
+          "name": "1979",
+          "url": "https://open.spotify.com/artist/0L4gqdrMNbRIbNKzgcBXG6"
+        },
+        {
+          "name": "Jalja",
+          "url": "https://open.spotify.com/artist/2KgiNo5JQEyIQdGv2Wyh4R"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "Midnight (The Hanging Tree)",
+      "url": "https://open.spotify.com/track/38MbUy2C0FLv6exayPlImu"
+    },
+    {
+      "added_at": "2026-04-27 13:18:06",
+      "album": {
         "name": "INTERREGNUM",
         "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
       },
@@ -903,30 +927,6 @@
       "duration_ms": 132812,
       "name": "COLD",
       "url": "https://open.spotify.com/track/17AsJZ1jvgJtfYqVd7xPua"
-    },
-    {
-      "added_at": "2026-04-27 13:18:06",
-      "album": {
-        "name": "Midnight (The Hanging Tree)",
-        "url": "https://open.spotify.com/album/6YzV3Syw4CNX3R9IaTfnSh"
-      },
-      "artists": [
-        {
-          "name": "HOSH",
-          "url": "https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs"
-        },
-        {
-          "name": "1979",
-          "url": "https://open.spotify.com/artist/0L4gqdrMNbRIbNKzgcBXG6"
-        },
-        {
-          "name": "Jalja",
-          "url": "https://open.spotify.com/artist/2KgiNo5JQEyIQdGv2Wyh4R"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "Midnight (The Hanging Tree)",
-      "url": "https://open.spotify.com/track/38MbUy2C0FLv6exayPlImu"
     },
     {
       "added_at": "2026-04-27 13:18:06",
@@ -1003,6 +1003,38 @@
     {
       "added_at": "2026-04-27 13:18:06",
       "album": {
+        "name": "PLETYKA",
+        "url": "https://open.spotify.com/album/7rUD24pfDqIb2ovCzeFXkj"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "duration_ms": 155121,
+      "name": "PLETYKA",
+      "url": "https://open.spotify.com/track/3PFA6nDgFmw51XBaB3kGMR"
+    },
+    {
+      "added_at": "2026-04-27 13:18:06",
+      "album": {
+        "name": "ICE SPICE",
+        "url": "https://open.spotify.com/album/36MUGLrW6MAdW31yiUqlEy"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 121121,
+      "name": "ICE SPICE",
+      "url": "https://open.spotify.com/track/1TWN7SgqSXiaHuH8LoIXZN"
+    },
+    {
+      "added_at": "2026-04-27 13:18:06",
+      "album": {
         "name": "SeanPaul",
         "url": "https://open.spotify.com/album/5DA2IM6GgkiaZ0uCPQmRiK"
       },
@@ -1035,22 +1067,6 @@
     {
       "added_at": "2026-04-27 13:18:06",
       "album": {
-        "name": "ICE SPICE",
-        "url": "https://open.spotify.com/album/36MUGLrW6MAdW31yiUqlEy"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 121121,
-      "name": "ICE SPICE",
-      "url": "https://open.spotify.com/track/1TWN7SgqSXiaHuH8LoIXZN"
-    },
-    {
-      "added_at": "2026-04-27 13:18:06",
-      "album": {
         "name": "Magyar Tenger Kal\u00f3zai",
         "url": "https://open.spotify.com/album/7G03dGeUw7DdJ36QXJyekX"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 180042,
       "name": "Kapit\u00e1ny",
       "url": "https://open.spotify.com/track/0tey8bGlUjHlfVr0LFJYb6"
-    },
-    {
-      "added_at": "2026-04-27 13:18:06",
-      "album": {
-        "name": "PLETYKA",
-        "url": "https://open.spotify.com/album/7rUD24pfDqIb2ovCzeFXkj"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        }
-      ],
-      "duration_ms": 155121,
-      "name": "PLETYKA",
-      "url": "https://open.spotify.com/track/3PFA6nDgFmw51XBaB3kGMR"
     },
     {
       "added_at": "2026-04-27 13:18:06",
@@ -1115,6 +1115,22 @@
       "duration_ms": 142856,
       "name": "Hol volt\u00e1l?",
       "url": "https://open.spotify.com/track/3s2IsVmmuH4Fi3491W7TF5"
+    },
+    {
+      "added_at": "2026-04-27 13:18:06",
+      "album": {
+        "name": "hungarian mambo",
+        "url": "https://open.spotify.com/album/4y2M44GwVTymRDOryRkyXe"
+      },
+      "artists": [
+        {
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        }
+      ],
+      "duration_ms": 195111,
+      "name": "hungarian mambo",
+      "url": "https://open.spotify.com/track/5sTAUXDj9tEQXMBqrA8HH9"
     },
     {
       "added_at": "2026-04-27 13:18:06",
@@ -1159,22 +1175,6 @@
       "duration_ms": 163636,
       "name": "Brazil F\u00e1nk",
       "url": "https://open.spotify.com/track/5rkw0Vg3RkYsAERJj1ivsr"
-    },
-    {
-      "added_at": "2026-04-27 13:18:06",
-      "album": {
-        "name": "hungarian mambo",
-        "url": "https://open.spotify.com/album/4y2M44GwVTymRDOryRkyXe"
-      },
-      "artists": [
-        {
-          "name": "ByeAlex \u00e9s a Slepp",
-          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
-        }
-      ],
-      "duration_ms": 195111,
-      "name": "hungarian mambo",
-      "url": "https://open.spotify.com/track/5sTAUXDj9tEQXMBqrA8HH9"
     },
     {
       "added_at": "2026-04-27 13:18:06",
@@ -1419,22 +1419,18 @@
     {
       "added_at": "2026-04-27 13:18:06",
       "album": {
-        "name": "SEHONNAI",
-        "url": "https://open.spotify.com/album/7frUrxm6049qQdd4eO3y5i"
+        "name": "TRANSFORMANIA",
+        "url": "https://open.spotify.com/album/43q2bqCPhvFRjIC6p64VtO"
       },
       "artists": [
         {
-          "name": "Co Lee",
-          "url": "https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0"
-        },
-        {
-          "name": "don sea",
-          "url": "https://open.spotify.com/artist/36i8o4PQpcxmPCiGNPI99L"
+          "name": "Csinszka",
+          "url": "https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6"
         }
       ],
-      "duration_ms": 169655,
-      "name": "SEHONNAI",
-      "url": "https://open.spotify.com/track/2CN4SYlzQpx08P9HDZRYou"
+      "duration_ms": 187951,
+      "name": "Fels\u00fct\u00f6tt a napsug\u00e1ra",
+      "url": "https://open.spotify.com/track/5o2pkld9SvipWLP46lBbeJ"
     },
     {
       "added_at": "2026-04-27 13:18:06",

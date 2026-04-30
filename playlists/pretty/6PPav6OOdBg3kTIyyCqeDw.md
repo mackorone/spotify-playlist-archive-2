@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6PPav6OOdBg3kTIyyCqeDw.md) - [plain]
 
 > Using one of the largest archives in the world at Universal Music Group, we have gone through tens of thousands of tracks to curate a playlist of the best dance music\. Find classics, rarities and undiscovered gems from artists that shaped the scene as we know it\. RE:VERSAL \- roots in the past, fruit
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 98 likes - 87 songs - 10 hr 3 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 99 likes - 87 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/6PPav6OOdBg3kTIyyCqeDw.md) - [plain]
 | 33 | [Bruce Lee \- Micronauts Remix](https://open.spotify.com/track/6DYEKi6tnGakib6G4vVbDj) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa), [The Micronauts](https://open.spotify.com/artist/119opyy80eY0fCemuyxg7v) | [Beaucoup Fish \(Remastered / Super Deluxe\)](https://open.spotify.com/album/4aDQW29Xvaa7jhyMGDS1Yj) | 8:56 |
 | 34 | [If You Kling To Me I'll Klong To You](https://open.spotify.com/track/3R1cmMEh82Zf993QKEhKuN) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Life Is Sweet](https://open.spotify.com/album/3jmskN3iAuf03HQmj2xZbg) | 5:23 |
 | 35 | [Fatalism \- Ryuchi Sakamoto & Yukihiro Takahashi Remix](https://open.spotify.com/track/28koK0b9NRDZ8Jo5mJy5Za) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Guy Garvey](https://open.spotify.com/artist/2j3K3e7Jnnmd2KwlFgCC5u), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Yukihiro Takahashi](https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5) | [Heligoland](https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt) | 4:54 |
-| 36 | [Breathe Me \- Four Tet Remix](https://open.spotify.com/track/43dMWfotNr2JrW64vWqzlp) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One \(Deluxe Edition\)](https://open.spotify.com/album/5ywlzsK6ga8Drc8RbSI0KX) | 5:01 |
+| 36 | [Breathe Me \- Four Tet Remix](https://open.spotify.com/track/43dMWfotNr2JrW64vWqzlp) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Colour The Small One \(Deluxe Edition\)](https://open.spotify.com/album/5ywlzsK6ga8Drc8RbSI0KX) | 5:01 |
 | 37 | [Banstyle / Sappys Curry \- Remastered](https://open.spotify.com/track/2S1NjcFBUTEG4pK3Kydb5c) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Second Toughest In The Infants \(Remastered\)](https://open.spotify.com/album/2L4lA4O95iu8bvq5Nzo6aI) | 15:22 |
 | 38 | [Oich Oich \- Remastered](https://open.spotify.com/track/50oCDUAMUW3wlLxN3oIWGO) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Second Toughest In The Infants \(Deluxe / Remastered\)](https://open.spotify.com/album/6bowhByaAMoqWnRQGnffo9) | 8:34 |
 | 39 | [Cha Cha Slide \- Club](https://open.spotify.com/track/3h1jNdqSjjT4UkcNxP0yhw) | [DJ Casper](https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s) | [Cha Cha Slide](https://open.spotify.com/album/7Hn2C8QRMdpQXcHunLe58K) | 7:44 |

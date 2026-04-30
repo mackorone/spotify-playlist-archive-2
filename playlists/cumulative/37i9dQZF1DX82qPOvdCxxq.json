@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Madalyn Rae",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Bella Santander",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -158,6 +158,24 @@
       "duration_ms": 101105,
       "name": "7pm in Abeokuta",
       "url": "https://open.spotify.com/track/5IxhpKP0HuhbhVI89RcZV4"
+    },
+    {
+      "album": {
+        "name": "A Little Proof",
+        "url": "https://open.spotify.com/album/3kib8dhAPY3YlTzXNBBLbs"
+      },
+      "artists": [
+        {
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187428,
+      "name": "A Little Proof",
+      "url": "https://open.spotify.com/track/1WhCbxots0LKs51pD1pjxU"
     },
     {
       "album": {
@@ -916,6 +934,24 @@
       "duration_ms": 197647,
       "name": "Always There",
       "url": "https://open.spotify.com/track/1FzfVGmQMbsknD5v2wpAVJ"
+    },
+    {
+      "album": {
+        "name": "Always There",
+        "url": "https://open.spotify.com/album/4aF7AZh7iB1qyA8yyPuUOf"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Danos",
+          "url": "https://open.spotify.com/artist/7GmgBosrGTp3T3mSQsUjJV"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159441,
+      "name": "Always There",
+      "url": "https://open.spotify.com/track/1d2SBptoBq4LrCVEdL0N1j"
     },
     {
       "album": {
@@ -1806,6 +1842,24 @@
       "duration_ms": 165529,
       "name": "Bendici\u00f3n",
       "url": "https://open.spotify.com/track/5sCAYbVqMzoo92kln5zfdq"
+    },
+    {
+      "album": {
+        "name": "Beso Tus Pies (Te Amo)",
+        "url": "https://open.spotify.com/album/09c8ET0rsrVBBOavVUD0gg"
+      },
+      "artists": [
+        {
+          "name": "Bella Grimaldos",
+          "url": "https://open.spotify.com/artist/1U806d4n1mJ9jF8WNpdaFv"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272626,
+      "name": "Beso Tus Pies - Te Amo",
+      "url": "https://open.spotify.com/track/3DhFQJb5mU6kQTdDeOc99d"
     },
     {
       "album": {
@@ -6856,7 +6910,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 151361,
       "name": "GOD'S HANDS",
       "url": "https://open.spotify.com/track/42nAjWvLw5ENbpWIKzP16z"
@@ -9910,7 +9964,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 170000,
       "name": "jealous",
       "url": "https://open.spotify.com/track/03FP4prFvPGqLUbeECGgju"
@@ -11728,7 +11782,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 158663,
       "name": "luv in motion",
       "url": "https://open.spotify.com/track/7EkXI95V6LBbmrzFH7PwVD"
@@ -14081,6 +14135,28 @@
     },
     {
       "album": {
+        "name": "Help Me Try (Acoustic Versions)",
+        "url": "https://open.spotify.com/album/4uXsPyBoc9uEWxNNZUtMoJ"
+      },
+      "artists": [
+        {
+          "name": "Tyler Corbin",
+          "url": "https://open.spotify.com/artist/0Gk9udEVydWQ94pRvk7sKV"
+        },
+        {
+          "name": "Blake Lacy",
+          "url": "https://open.spotify.com/artist/7C4Uh1pNVlCZOG19LPu5ZA"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216111,
+      "name": "Our Bread - Acoustic Version",
+      "url": "https://open.spotify.com/track/7lLrhPJ83ThM2GN8Zau2N3"
+    },
+    {
+      "album": {
         "name": "Out Of Touch",
         "url": "https://open.spotify.com/album/0MkbRC8bibouKkeo4PFolh"
       },
@@ -14164,7 +14240,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 215730,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/3o0ASteEuzlvOEENMtCZO1"
@@ -14298,7 +14374,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 154016,
       "name": "PEACE OF MIND",
       "url": "https://open.spotify.com/track/2G3fpPjR6eThehljDfcc74"
@@ -16243,6 +16319,24 @@
     },
     {
       "album": {
+        "name": "Search Me",
+        "url": "https://open.spotify.com/album/7wIL8xN5iChP0BS8frxGdN"
+      },
+      "artists": [
+        {
+          "name": "Bella Santander",
+          "url": "https://open.spotify.com/artist/0bfrEX3n3YcThb70c84Kgm"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195402,
+      "name": "Search Me",
+      "url": "https://open.spotify.com/track/4GPdKzcuQ5KC2Z4pjIdLdH"
+    },
+    {
+      "album": {
         "name": "Search My Heart",
         "url": "https://open.spotify.com/album/7bMPlanp2FevsM0ChuiXOX"
       },
@@ -17357,6 +17451,24 @@
     },
     {
       "album": {
+        "name": "Stepping Stones",
+        "url": "https://open.spotify.com/album/6CuGzIA3rlnf7bRJN9RfzG"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/6RjfGS17GuzkVfMJoxEtlf"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228792,
+      "name": "Stepping Stones",
+      "url": "https://open.spotify.com/track/2jTjS9jnWfNb5dYmwNqL5Y"
+    },
+    {
+      "album": {
         "name": "Sticks & Stones",
         "url": "https://open.spotify.com/album/4y0S2B7k2vOzWZTf17ue7s"
       },
@@ -17502,7 +17614,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 138123,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/4KV9gLtYKaRshRS7wjrazJ"

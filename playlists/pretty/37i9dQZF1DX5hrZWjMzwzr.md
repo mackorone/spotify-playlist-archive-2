@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj zwycięzców i  nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,832 likes - 79 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,828 likes - 79 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 16 | [300 BANIEK](https://open.spotify.com/track/4laCtGHEZEupZ7uEDQH2Ae) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [OKI](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [TTHE GRIND \(DELUXE\)](https://open.spotify.com/album/6kWghktaGeQtwLswCTSacE) | 2:37 |
 | 17 | [1DAY IN LA](https://open.spotify.com/track/1KbyOU3mlUN9UiXU2kPso9) | [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [OKI](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd) | [1DAY IN LA](https://open.spotify.com/album/00J4FpVxEoll7mtaxUye1N) | 2:24 |
 | 18 | [COWABONGA](https://open.spotify.com/track/5gdYiLyMA2Q4sD4S8gCmVk) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft) | [HOLLYWOOD SMILE](https://open.spotify.com/album/65YwHhQRZeKgPr5voJAgFx) | 3:03 |
-| 19 | [Sentymenty](https://open.spotify.com/track/4TbDlszXA0QfSHHYVT39xG) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [Sentymenty](https://open.spotify.com/album/647wZqwIFPEUxVJh9eNniL) | 2:34 |
-| 20 | [NIENAWIDZĘ BYĆ W KLUBIE](https://open.spotify.com/track/126sCXH3zr18kbHlKit0sX) | [GOMBAO 33](https://open.spotify.com/artist/52vstSwpIEImkm06cG6kJD), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Wyguś](https://open.spotify.com/artist/0wOt8jeUJ5usZySUWYa1KZ), [Tadeo](https://open.spotify.com/artist/6EFSZTPDOBeFxoznzL0aTb), [Szczepan](https://open.spotify.com/artist/5beSF8YlCK4dml6zRZOHN7) | [NIENAWIDZĘ BYĆ W KLUBIE](https://open.spotify.com/album/2zeFY1lBaN1pm0FIQ5sQEk) | 2:44 |
+| 19 | [NIENAWIDZĘ BYĆ W KLUBIE](https://open.spotify.com/track/126sCXH3zr18kbHlKit0sX) | [GOMBAO 33](https://open.spotify.com/artist/52vstSwpIEImkm06cG6kJD), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Wyguś](https://open.spotify.com/artist/0wOt8jeUJ5usZySUWYa1KZ), [Tadeo](https://open.spotify.com/artist/6EFSZTPDOBeFxoznzL0aTb), [Szczepan](https://open.spotify.com/artist/5beSF8YlCK4dml6zRZOHN7) | [NIENAWIDZĘ BYĆ W KLUBIE](https://open.spotify.com/album/2zeFY1lBaN1pm0FIQ5sQEk) | 2:44 |
+| 20 | [Sentymenty](https://open.spotify.com/track/4TbDlszXA0QfSHHYVT39xG) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [Sentymenty](https://open.spotify.com/album/647wZqwIFPEUxVJh9eNniL) | 2:34 |
 | 21 | [POKOLOROWANA](https://open.spotify.com/track/6mPLPjlONvnJTPtQo6ia8u) | [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [POKOLOROWANA](https://open.spotify.com/album/4jt1eGcqa1i36BAlXN8Dm1) | 3:11 |
 | 22 | [BIERZ TO NA WOLNO](https://open.spotify.com/track/36WITNXdHFk6LaSeS4fJJp) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v) | [BIERZ TO NA WOLNO](https://open.spotify.com/album/5brKAfr2gB7n3NHEmjLHvK) | 3:33 |
 | 23 | [Mini Man](https://open.spotify.com/track/1dQZRwFJzUIT1mqoXMMUkV) | [Okekel](https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3), [Champion](https://open.spotify.com/artist/0emslMBqEZSCRupMRVzyPe) | [Zwolnij?](https://open.spotify.com/album/4DwwDAVVbbJgzCNMQOyL3y) | 2:28 |

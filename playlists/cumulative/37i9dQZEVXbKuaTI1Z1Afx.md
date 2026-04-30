@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-5,062 songs - 11 day 9 hr 2 min
+5,063 songs - 11 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2420,7 +2420,7 @@
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-08-18 | 2022-10-06 |
 | [Ku\-Ku Jodel](https://open.spotify.com/track/37Fepha6V96wzsNaSVjm7P) | [Oesch's die Dritten](https://open.spotify.com/artist/11ZDT1yZkvlXwv7RVqvUWe) | [Jodelzauber](https://open.spotify.com/album/5W6SGx6TXHMHojSsvwI6rj) | 2:31 | 2024-04-02 | 2024-04-10 |
 | [Kwik Trip](https://open.spotify.com/track/4jfeUVYjK2dVGEy8uiIXG7) | [apoloqy](https://open.spotify.com/artist/77xuC6u0R673wSjwJhSOnt) | [Kwik Trip](https://open.spotify.com/album/5yANhcVKfXbv0iHOzrKczZ) | 3:25 | 2026-04-25 | 2026-04-29 |
-| [Kwik Trip](https://open.spotify.com/track/411AGut9V5DrTKE4cwOsbZ) | [Lightris](https://open.spotify.com/artist/1BTzfMY27qhCFQpTeTUbCi), [sero](https://open.spotify.com/artist/2xGz6oQCMhoh3gMJSq0vDE) | [Kwik Trip](https://open.spotify.com/album/5fz7Qr7WHQriqWIfo2ZIwI) | 3:25 | 2026-04-28 |  |
+| [Kwik Trip](https://open.spotify.com/track/411AGut9V5DrTKE4cwOsbZ) | [Lightris](https://open.spotify.com/artist/1BTzfMY27qhCFQpTeTUbCi), [sero](https://open.spotify.com/artist/2xGz6oQCMhoh3gMJSq0vDE) | [Kwik Trip](https://open.spotify.com/album/5fz7Qr7WHQriqWIfo2ZIwI) | 3:25 | 2026-04-28 | 2026-04-30 |
 | [Kwik Trip](https://open.spotify.com/track/4A3WcbBuUQMpcBIgmUzLBY) | [Lightris](https://open.spotify.com/artist/1BTzfMY27qhCFQpTeTUbCi), [sero](https://open.spotify.com/artist/2xGz6oQCMhoh3gMJSq0vDE) | [Kwik Trip](https://open.spotify.com/album/2OTLmSlcjFarrF4ipPWLp4) | 3:25 | 2026-03-25 | 2026-04-08 |
 | [Kwik Trip](https://open.spotify.com/track/4ld1mZYWYFLsrUvUEvyVUo) | [Lightris](https://open.spotify.com/artist/1BTzfMY27qhCFQpTeTUbCi), [sero](https://open.spotify.com/artist/2xGz6oQCMhoh3gMJSq0vDE) | [Kwik Trip](https://open.spotify.com/album/2FRQpcm9YZwdFJ6W5iDYER) | 3:25 | 2026-04-07 | 2026-04-26 |
 | [L o s e M y M i n d](https://open.spotify.com/track/7mrFGO24hccC48c2hQzyEC) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:03 | 2024-04-30 | 2024-05-06 |
@@ -3700,6 +3700,7 @@
 | [Running Up That Hill](https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC) | [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running Up That Hill](https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq) | 4:23 | 2022-06-04 | 2022-06-22 |
 | [Running Up That Hill](https://open.spotify.com/track/6RHHbAbyIcPpvS1dP3KUGq) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Covers](https://open.spotify.com/album/42LvsxgKnHYVu7PQRXmURw) | 4:57 | 2022-06-03 | 2022-06-22 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-29 | 2022-08-10 |
+| [RUNWAY](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [RUNWAY](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 | 2026-04-29 |  |
 | [Rush](https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:05 | 2023-01-16 | 2023-02-22 |
 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-08-08 | 2023-08-19 |
 | [Rushmere](https://open.spotify.com/track/0rPHsDRiWwPfR6HG7JLj1K) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Rushmere](https://open.spotify.com/album/1ozQDYIyCeM7YKhHotVdny) | 3:12 | 2025-02-04 | 2025-02-07 |

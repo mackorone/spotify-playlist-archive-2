@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 377254,
+  "num_followers": 377308,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-03-27 19:13:13",
       "album": {
+        "name": "Aparecida",
+        "url": "https://open.spotify.com/album/1PwZ4VdOiutXpHW36p3Ix8"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 293248,
+      "name": "Aparecida",
+      "url": "https://open.spotify.com/track/7vOHQz29ONEhBzd4bid09H"
+    },
+    {
+      "added_at": "2026-03-27 19:13:13",
+      "album": {
         "name": "Nossa Senhora",
         "url": "https://open.spotify.com/album/4DdEkdjWAmKerPxe3Iirmt"
       },
@@ -415,22 +431,6 @@
     {
       "added_at": "2026-03-27 19:13:13",
       "album": {
-        "name": "Aparecida",
-        "url": "https://open.spotify.com/album/1PwZ4VdOiutXpHW36p3Ix8"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 293248,
-      "name": "Aparecida",
-      "url": "https://open.spotify.com/track/7vOHQz29ONEhBzd4bid09H"
-    },
-    {
-      "added_at": "2026-03-27 19:13:13",
-      "album": {
         "name": "Todo Joelho Se Dobre",
         "url": "https://open.spotify.com/album/61KY5rzUEmwr38Wd9ty8kN"
       },
@@ -443,22 +443,6 @@
       "duration_ms": 283444,
       "name": "Todo Joelho Se Dobre",
       "url": "https://open.spotify.com/track/0FU75RxlZRgZBW76RjSBDZ"
-    },
-    {
-      "added_at": "2026-03-27 19:13:13",
-      "album": {
-        "name": "Eu Descansarei",
-        "url": "https://open.spotify.com/album/1IAT7y3IzCd9qLl8xHILuZ"
-      },
-      "artists": [
-        {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
-        }
-      ],
-      "duration_ms": 378461,
-      "name": "Eu Descansarei",
-      "url": "https://open.spotify.com/track/6vdp0WC4KPTSYMAg6bcBi0"
     },
     {
       "added_at": "2026-03-27 19:13:13",
@@ -483,22 +467,18 @@
     {
       "added_at": "2026-03-27 19:13:13",
       "album": {
-        "name": "Serei Tudo",
-        "url": "https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms"
+        "name": "Eu Descansarei",
+        "url": "https://open.spotify.com/album/1IAT7y3IzCd9qLl8xHILuZ"
       },
       "artists": [
         {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        },
-        {
-          "name": "Laura Salvador",
-          "url": "https://open.spotify.com/artist/61ebYZYHMe4kwhxnA3Evh3"
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
         }
       ],
-      "duration_ms": 264566,
-      "name": "Serei Tudo",
-      "url": "https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh"
+      "duration_ms": 378461,
+      "name": "Eu Descansarei",
+      "url": "https://open.spotify.com/track/6vdp0WC4KPTSYMAg6bcBi0"
     },
     {
       "added_at": "2026-03-27 19:13:13",
@@ -519,6 +499,26 @@
     {
       "added_at": "2026-03-27 19:13:13",
       "album": {
+        "name": "Serei Tudo",
+        "url": "https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        },
+        {
+          "name": "Laura Salvador",
+          "url": "https://open.spotify.com/artist/61ebYZYHMe4kwhxnA3Evh3"
+        }
+      ],
+      "duration_ms": 264566,
+      "name": "Serei Tudo",
+      "url": "https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh"
+    },
+    {
+      "added_at": "2026-03-27 19:13:13",
+      "album": {
         "name": "N\u00e3o Vou Desistir",
         "url": "https://open.spotify.com/album/4wSxDhTezDWQ1kEGmy5zrf"
       },
@@ -531,26 +531,6 @@
       "duration_ms": 334000,
       "name": "Muito Mais pra Mim",
       "url": "https://open.spotify.com/track/3QnxAvMEX7d2clCxJPH2pc"
-    },
-    {
-      "added_at": "2026-03-27 19:13:13",
-      "album": {
-        "name": "Em Sil\u00eancio",
-        "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
-      },
-      "artists": [
-        {
-          "name": "Fernando Vinhote",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
-        },
-        {
-          "name": "Padre Denis-Ricard",
-          "url": "https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb"
-        }
-      ],
-      "duration_ms": 228125,
-      "name": "Em Sil\u00eancio",
-      "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
     },
     {
       "added_at": "2026-03-27 19:13:13",
@@ -575,6 +555,26 @@
       "duration_ms": 303527,
       "name": "Eis-Me Aqui - Ao Vivo",
       "url": "https://open.spotify.com/track/5y8WchxRNJ4WmvZuhKXIjA"
+    },
+    {
+      "added_at": "2026-03-27 19:13:13",
+      "album": {
+        "name": "Em Sil\u00eancio",
+        "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
+      },
+      "artists": [
+        {
+          "name": "Fernando Vinhote",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+        },
+        {
+          "name": "Padre Denis-Ricard",
+          "url": "https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb"
+        }
+      ],
+      "duration_ms": 228125,
+      "name": "Em Sil\u00eancio",
+      "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
     },
     {
       "added_at": "2026-03-27 19:13:13",
@@ -703,6 +703,26 @@
     {
       "added_at": "2026-03-27 19:13:13",
       "album": {
+        "name": "Gba Stage, Vol. 5",
+        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Gil Monteiro",
+          "url": "https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy"
+        }
+      ],
+      "duration_ms": 173272,
+      "name": "Como \u00c9s Lindo",
+      "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
+    },
+    {
+      "added_at": "2026-03-27 19:13:13",
+      "album": {
         "name": "Mostra a Tua Gl\u00f3ria",
         "url": "https://open.spotify.com/album/4EDskVT9iohrgRN3Lvu2CN"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 247792,
       "name": "Mostra a Tua Gl\u00f3ria",
       "url": "https://open.spotify.com/track/5XlC1vepKohkbVmuCw3heD"
-    },
-    {
-      "added_at": "2026-03-27 19:13:13",
-      "album": {
-        "name": "Gba Stage, Vol. 5",
-        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Gil Monteiro",
-          "url": "https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy"
-        }
-      ],
-      "duration_ms": 173272,
-      "name": "Como \u00c9s Lindo",
-      "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
     },
     {
       "added_at": "2026-03-27 19:13:13",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-03-27 19:13:13",
       "album": {
-        "name": "Msh ao Teu Lado 2026",
-        "url": "https://open.spotify.com/album/1TTKprWxOR3LeOC30P8y6M"
-      },
-      "artists": [
-        {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
-        },
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        }
-      ],
-      "duration_ms": 298155,
-      "name": "Cora\u00e7\u00e3o Ferido",
-      "url": "https://open.spotify.com/track/4dRpyB80k0HVhW5NVuTDmP"
-    },
-    {
-      "added_at": "2026-03-27 19:13:13",
-      "album": {
         "name": "Studio Can\u00e7\u00e3o Nova | Ac\u00fastico",
         "url": "https://open.spotify.com/album/1NnRJ4HNnZaUllXu2pVpEO"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 229067,
       "name": "Teu Amor N\u00e3o Sabe",
       "url": "https://open.spotify.com/track/4CE9PRPrZF9wfB9qNwbYJz"
+    },
+    {
+      "added_at": "2026-03-27 19:13:13",
+      "album": {
+        "name": "Msh ao Teu Lado 2026",
+        "url": "https://open.spotify.com/album/1TTKprWxOR3LeOC30P8y6M"
+      },
+      "artists": [
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        }
+      ],
+      "duration_ms": 298155,
+      "name": "Cora\u00e7\u00e3o Ferido",
+      "url": "https://open.spotify.com/track/4dRpyB80k0HVhW5NVuTDmP"
     },
     {
       "added_at": "2026-03-27 19:13:13",

@@ -4,7 +4,7 @@
 
 > 
 
-552 songs - 1 day 12 hr 1 min
+554 songs - 1 day 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Out Of Town](https://open.spotify.com/track/4MiF5T5dWo9iEPf76ugXA1) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 4:48 | 2025-10-15 |  |
 | [Outrun This!](https://open.spotify.com/track/0VxIcxjv4XaJvq8dBR49iT) | [Arcade High](https://open.spotify.com/artist/7fVPo8qWQK1quywHw9kMdI) | [Pixel Passion](https://open.spotify.com/album/7wWAb4uAjdLRcdzN8IWtwy) | 4:09 | 2025-10-15 |  |
 | [Overtime](https://open.spotify.com/track/2CVWc2gNM8YCTMdFXJI8Wg) | [KNOWER](https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ) | [Life](https://open.spotify.com/album/4SVxz8yqIymDrdiX2YBeQe) | 4:28 | 2020-07-11 |  |
+| [Papercut](https://open.spotify.com/track/3fjv1YnPIn2UDiGkMKvAFM) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Papercut](https://open.spotify.com/album/51ZkMRNlpeT4hRFCtRg2Xf) | 3:13 | 2026-04-30 |  |
 | [Part Time God](https://open.spotify.com/track/14juitXdt9JqvBQAQP3i5L) | [The Bad Dreamers](https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY) | [Songs About People Including Myself \(Deluxe Edition\)](https://open.spotify.com/album/6fobonORNgQ7qPTGdCOkEC) | 3:37 | 2024-10-04 |  |
 | [People](https://open.spotify.com/track/3EdTCvjlwK141nxrjPXeTt) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [D\-Sides \[Special Edition\]](https://open.spotify.com/album/2w4tLG1JH25BysuILfkI0x) | 3:28 | 2022-05-09 |  |
 | [PettyWap](https://open.spotify.com/track/76pUKeKLQuxjFFfbXJ5dif) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 2:56 | 2022-05-09 |  |
@@ -443,6 +444,7 @@
 | [Stay \- drop the Poptart Edit](https://open.spotify.com/track/14xA3DQVsfeekQV2hxwggo) | [Colleen D'agostino](https://open.spotify.com/artist/1QURUQjhi5b4mntALhEhoQ), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Collide](https://open.spotify.com/album/4K8D1NK1T7TNRCOwQURBb8) | 9:07 | 2020-03-11 |  |
 | [STEEZ](https://open.spotify.com/track/4gv9Ei37EFqV7AWft2aRHi) | [ACE TEE](https://open.spotify.com/artist/3sqdh5sW8Cc1j1jdbmRJRm) | [STEEZ](https://open.spotify.com/album/3cD3z9eehRTxUmpJRVLP2u) | 2:13 | 2022-05-09 |  |
 | [Stereo Love](https://open.spotify.com/track/6QXlF22pQad6kPEtO3xMAW) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Just Dance 2011](https://open.spotify.com/album/3W1wmWg2ytCqleZ49I6Z50) | 4:09 | 2022-05-09 |  |
+| [STFU](https://open.spotify.com/track/1RtOV5HTGBKiSpIOU8qU1b) | [Pixl Girl](https://open.spotify.com/artist/0fRpdVBiTK1PayMdFIMqmp), [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [STFU](https://open.spotify.com/album/3VQfA3XGJyC0XM9Gu3HsOF) | 1:55 | 2026-04-30 |  |
 | [Still Bored](https://open.spotify.com/track/2Ygf158cn1zXZanjnpk9Js) | [Pheeno](https://open.spotify.com/artist/4C1Mbwae9oliXTKjl8vzbD) | [How It Is EP](https://open.spotify.com/album/5ie20Z6oTSPJRVXiwKqa2e) | 3:19 | 2020-03-11 |  |
 | [Still Think](https://open.spotify.com/track/3lBmRItELTgJjFMgI76Onm) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Chrome Sparks](https://open.spotify.com/album/5Y0yPA0zZetcpimqsegK1i) | 5:35 | 2025-10-15 |  |
 | [STONEFIST](https://open.spotify.com/track/7uL9Q8h4hzzCuGTZ3Yttmv) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [DEATH MAGIC](https://open.spotify.com/album/2a5KZ4rwrXIm28LvcyjYz5) | 3:24 | 2025-10-15 |  |

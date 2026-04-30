@@ -1,6 +1,6 @@
 {
   "description": "Diggo, L\u00e9o Santana e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 443646,
+  "num_followers": 443621,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-04-10 03:01:31",
       "album": {
-        "name": "Cora\u00e7\u00e3o e Cadeado",
-        "url": "https://open.spotify.com/album/2LSHuwKeQtODeI2NKqbf7c"
-      },
-      "artists": [
-        {
-          "name": "Pixote",
-          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
-        }
-      ],
-      "duration_ms": 189436,
-      "name": "Cora\u00e7\u00e3o e Cadeado",
-      "url": "https://open.spotify.com/track/1wAVmlw4xUyXaP0xjfyP4T"
-    },
-    {
-      "added_at": "2026-04-10 03:01:31",
-      "album": {
         "name": "At\u00e9 o Pr\u00f3ximo Carnaval, Vol. 3",
         "url": "https://open.spotify.com/album/6k9jVRNVQRkPrqrT8PGpGI"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 162507,
       "name": "Bloco dos Apaixonados",
       "url": "https://open.spotify.com/track/68xXgMubo2U5MEGCtJFxzC"
+    },
+    {
+      "added_at": "2026-04-10 03:01:31",
+      "album": {
+        "name": "Cora\u00e7\u00e3o e Cadeado",
+        "url": "https://open.spotify.com/album/2LSHuwKeQtODeI2NKqbf7c"
+      },
+      "artists": [
+        {
+          "name": "Pixote",
+          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
+        }
+      ],
+      "duration_ms": 189436,
+      "name": "Cora\u00e7\u00e3o e Cadeado",
+      "url": "https://open.spotify.com/track/1wAVmlw4xUyXaP0xjfyP4T"
     },
     {
       "added_at": "2026-04-10 03:01:31",
@@ -487,26 +487,6 @@
     {
       "added_at": "2026-04-10 03:01:31",
       "album": {
-        "name": "Em Qualquer Cama (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3NQPcnfCEwZkRQJEoRr7Bn"
-      },
-      "artists": [
-        {
-          "name": "Mumuzinho",
-          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 170562,
-      "name": "Em Qualquer Cama - Ao Vivo",
-      "url": "https://open.spotify.com/track/24MjRkHlHue1Qw3dC61Ypk"
-    },
-    {
-      "added_at": "2026-04-10 03:01:31",
-      "album": {
         "name": "Novo Testamento",
         "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
       },
@@ -527,18 +507,42 @@
     {
       "added_at": "2026-04-10 03:01:31",
       "album": {
-        "name": "Pagodyando",
-        "url": "https://open.spotify.com/album/3mDO0IegPEimurbyQ8slYK"
+        "name": "KM2",
+        "url": "https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD"
       },
       "artists": [
         {
-          "name": "Yan",
-          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
         }
       ],
-      "duration_ms": 301760,
-      "name": "Trajet\u00f3ria / Caminho Sem Amor / Ela",
-      "url": "https://open.spotify.com/track/1QHFOp0tKVrbAfLHfjeqLZ"
+      "duration_ms": 139914,
+      "name": "KIA",
+      "url": "https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx"
+    },
+    {
+      "added_at": "2026-04-10 03:01:31",
+      "album": {
+        "name": "Em Qualquer Cama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3NQPcnfCEwZkRQJEoRr7Bn"
+      },
+      "artists": [
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 170562,
+      "name": "Em Qualquer Cama - Ao Vivo",
+      "url": "https://open.spotify.com/track/24MjRkHlHue1Qw3dC61Ypk"
     },
     {
       "added_at": "2026-04-10 03:01:31",
@@ -563,22 +567,18 @@
     {
       "added_at": "2026-04-10 03:01:31",
       "album": {
-        "name": "KM2",
-        "url": "https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD"
+        "name": "Pagodyando",
+        "url": "https://open.spotify.com/album/3mDO0IegPEimurbyQ8slYK"
       },
       "artists": [
         {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+          "name": "Yan",
+          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
         }
       ],
-      "duration_ms": 139914,
-      "name": "KIA",
-      "url": "https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx"
+      "duration_ms": 301760,
+      "name": "Trajet\u00f3ria / Caminho Sem Amor / Ela",
+      "url": "https://open.spotify.com/track/1QHFOp0tKVrbAfLHfjeqLZ"
     },
     {
       "added_at": "2026-04-10 03:01:31",
@@ -659,26 +659,18 @@
     {
       "added_at": "2026-04-10 03:01:31",
       "album": {
-        "name": "SPAM",
-        "url": "https://open.spotify.com/album/2jiU7JZpfeB1ywY7cGTo59"
+        "name": "KM2",
+        "url": "https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD"
       },
       "artists": [
         {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Klisman",
-          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
-        },
-        {
-          "name": "DougBeats",
-          "url": "https://open.spotify.com/artist/3HyxA4BGfaxNsT9aFf9D5w"
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         }
       ],
-      "duration_ms": 169924,
-      "name": "BRENDA",
-      "url": "https://open.spotify.com/track/4M45L0XC2m2UDbKxCZY7IN"
+      "duration_ms": 162797,
+      "name": "Gin Com Suco De Laranja",
+      "url": "https://open.spotify.com/track/5SUAeZK4t0cgV4xf7ZK6QM"
     },
     {
       "added_at": "2026-04-10 03:01:31",
@@ -703,18 +695,26 @@
     {
       "added_at": "2026-04-10 03:01:31",
       "album": {
-        "name": "KM2",
-        "url": "https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD"
+        "name": "SPAM",
+        "url": "https://open.spotify.com/album/2jiU7JZpfeB1ywY7cGTo59"
       },
       "artists": [
         {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        },
+        {
+          "name": "DougBeats",
+          "url": "https://open.spotify.com/artist/3HyxA4BGfaxNsT9aFf9D5w"
         }
       ],
-      "duration_ms": 162797,
-      "name": "Gin Com Suco De Laranja",
-      "url": "https://open.spotify.com/track/5SUAeZK4t0cgV4xf7ZK6QM"
+      "duration_ms": 169924,
+      "name": "BRENDA",
+      "url": "https://open.spotify.com/track/4M45L0XC2m2UDbKxCZY7IN"
     },
     {
       "added_at": "2026-04-10 03:01:31",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-04-10 03:01:31",
       "album": {
-        "name": "Fragmentos",
-        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 165249,
-      "name": "Whiskey Com \u00c1gua de Choro",
-      "url": "https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E"
-    },
-    {
-      "added_at": "2026-04-10 03:01:31",
-      "album": {
         "name": "Novo Testamento",
         "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
       },
@@ -1059,6 +1043,50 @@
       "duration_ms": 156374,
       "name": "Sob a luz do seu olhar",
       "url": "https://open.spotify.com/track/68SClB1WYtJnapn6I7Spmk"
+    },
+    {
+      "added_at": "2026-04-10 03:01:31",
+      "album": {
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 165249,
+      "name": "Whiskey Com \u00c1gua de Choro",
+      "url": "https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E"
+    },
+    {
+      "added_at": "2026-04-10 03:01:31",
+      "album": {
+        "name": "Quando Voc\u00ea Ligou",
+        "url": "https://open.spotify.com/album/0QPNCXbWTQqLXSSOZqp2dh"
+      },
+      "artists": [
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        },
+        {
+          "name": "DJ Yago",
+          "url": "https://open.spotify.com/artist/4tdmp3YXtKZU6mk91K9yJb"
+        }
+      ],
+      "duration_ms": 189268,
+      "name": "Quando Voc\u00ea Ligou",
+      "url": "https://open.spotify.com/track/2kbSMgvj7H2cqnDXvDAfZS"
     },
     {
       "added_at": "2026-04-10 03:01:31",
@@ -1107,34 +1135,6 @@
       "duration_ms": 197650,
       "name": "Teu Jeitinho - Spotify Singles",
       "url": "https://open.spotify.com/track/5yg8FJ7qIHq2TfzLzmxfTs"
-    },
-    {
-      "added_at": "2026-04-10 03:01:31",
-      "album": {
-        "name": "Quando Voc\u00ea Ligou",
-        "url": "https://open.spotify.com/album/0QPNCXbWTQqLXSSOZqp2dh"
-      },
-      "artists": [
-        {
-          "name": "Mc Neg\u00e3o Original",
-          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "DJ Guh Mix",
-          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
-        },
-        {
-          "name": "DJ Yago",
-          "url": "https://open.spotify.com/artist/4tdmp3YXtKZU6mk91K9yJb"
-        }
-      ],
-      "duration_ms": 189268,
-      "name": "Quando Voc\u00ea Ligou",
-      "url": "https://open.spotify.com/track/2kbSMgvj7H2cqnDXvDAfZS"
     },
     {
       "added_at": "2026-04-10 03:01:31",

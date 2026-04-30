@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: NOVARA NYX",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: PINKNOISE",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -634,7 +634,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 207692,
       "name": "APOLOGY!",
       "url": "https://open.spotify.com/track/44q6Yni4KIb8mi0Tn9Cmao"
@@ -1902,7 +1902,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 77197,
       "name": "Bukakkracy",
       "url": "https://open.spotify.com/track/4kwRaFXh69D7Zd7aXWhULx"
@@ -4048,7 +4048,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 187546,
       "name": "Dumb Luck",
       "url": "https://open.spotify.com/track/1OwROWAf1P7VzgETtowT5A"
@@ -5519,6 +5519,24 @@
     },
     {
       "album": {
+        "name": "fvck.me.up",
+        "url": "https://open.spotify.com/album/6GVOmFnj8AkiHenTGWff1K"
+      },
+      "artists": [
+        {
+          "name": "Glasswaves",
+          "url": "https://open.spotify.com/artist/6dTPsW2GddlLDEuuj8Jj4P"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181132,
+      "name": "fvck.me.up",
+      "url": "https://open.spotify.com/track/7JIeOuq85aVF75x3GfgVLZ"
+    },
+    {
+      "album": {
         "name": "PINTGLASS",
         "url": "https://open.spotify.com/album/1xJVhQPCoeDsbgtWV4dSTh"
       },
@@ -5610,7 +5628,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 307693,
       "name": "Ghost In Flesh",
       "url": "https://open.spotify.com/track/6ZmTPEHx539ea8dbx8qaSj"
@@ -6845,6 +6863,24 @@
     },
     {
       "album": {
+        "name": "I Thought I Could Hide But You Caught Me",
+        "url": "https://open.spotify.com/album/3XrjRCydo3E8TqwgNnClw8"
+      },
+      "artists": [
+        {
+          "name": "LOVELOST",
+          "url": "https://open.spotify.com/artist/4Ty1GcAd0AQ6xwuE6P9Zi6"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227897,
+      "name": "I Thought I Could Hide But You Caught Me",
+      "url": "https://open.spotify.com/track/6pji5EIeAjw7gdoFPJO8tK"
+    },
+    {
+      "album": {
         "name": "Arctis",
         "url": "https://open.spotify.com/album/0dEhAHwtBRfkm3kFvlA4de"
       },
@@ -7430,7 +7466,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 198800,
       "name": "Journey",
       "url": "https://open.spotify.com/track/1pRVJFsmMQfr4ihhJESXZE"
@@ -8746,7 +8782,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 296157,
       "name": "Modern Affliction",
       "url": "https://open.spotify.com/track/0FgDM9IMI0vk0sAGk5Ztqx"
@@ -10677,6 +10713,28 @@
     },
     {
       "album": {
+        "name": "Raisaris",
+        "url": "https://open.spotify.com/album/0vgDSbPdcF1u5nxj5Y3PiF"
+      },
+      "artists": [
+        {
+          "name": "Thorr",
+          "url": "https://open.spotify.com/artist/0Iya8LminBqbPLY0bISqZ8"
+        },
+        {
+          "name": "Bryant Lowry",
+          "url": "https://open.spotify.com/artist/4Ed0qH67z8yKCQl1KpTied"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202547,
+      "name": "Raisaris",
+      "url": "https://open.spotify.com/track/24WKVzbhUF5JNZNGCNXVap"
+    },
+    {
+      "album": {
         "name": "Attitude Adjustment",
         "url": "https://open.spotify.com/album/5JFRxJVM7962wgdWyT6ic8"
       },
@@ -12185,6 +12243,24 @@
     },
     {
       "album": {
+        "name": "Starless",
+        "url": "https://open.spotify.com/album/1lxoaqYe9BA1fiIWn97lL3"
+      },
+      "artists": [
+        {
+          "name": "Your Spirit Dies",
+          "url": "https://open.spotify.com/artist/0iLA9qNrXngiyQqZjcnwxt"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159670,
+      "name": "Starless",
+      "url": "https://open.spotify.com/track/1WXm0f8OCIKsz3doSo5tZk"
+    },
+    {
+      "album": {
         "name": "UTB",
         "url": "https://open.spotify.com/album/11Jit2U7AAiPTB7lcoMhZB"
       },
@@ -13141,6 +13217,24 @@
     },
     {
       "album": {
+        "name": "FLESH AND BONE",
+        "url": "https://open.spotify.com/album/5ohRxjEVRRPrXup0SoE5ef"
+      },
+      "artists": [
+        {
+          "name": "PINKNOISE",
+          "url": "https://open.spotify.com/artist/2USllv850CGVjxqji1jxcd"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "THE FUTURE IS PINK",
+      "url": "https://open.spotify.com/track/4YOcZsDaUvewm9fahuGXxW"
+    },
+    {
+      "album": {
         "name": "The Great Attractor",
         "url": "https://open.spotify.com/album/0jegoX0kueF0NQwWr2XK4Y"
       },
@@ -13644,6 +13738,24 @@
       "duration_ms": 168733,
       "name": "THROWN AWAY",
       "url": "https://open.spotify.com/track/1oolgcW4ELixTGziuCeiQA"
+    },
+    {
+      "album": {
+        "name": "Tired",
+        "url": "https://open.spotify.com/album/4MimnmhxMrnkLOSv6hdz0G"
+      },
+      "artists": [
+        {
+          "name": "ChuggaBoom",
+          "url": "https://open.spotify.com/artist/5DBs1IDEsrY2W92Rfl5qI3"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/7d8btb5iJHN2vVBf6uNE3A"
     },
     {
       "album": {
@@ -14189,7 +14301,7 @@
     },
     {
       "album": {
-        "name": "Vanilla Latte",
+        "name": "VANILLA LATTE",
         "url": "https://open.spotify.com/album/01Kui9a3rkdckJen3duPvC"
       },
       "artists": [
@@ -14202,7 +14314,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 144973,
-      "name": "Vanilla Latte",
+      "name": "VANILLA LATTE",
       "url": "https://open.spotify.com/track/07pkzqGG7U0NXnVlBokdmW"
     },
     {

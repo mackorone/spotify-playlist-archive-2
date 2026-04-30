@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 377997,
+  "num_followers": 378066,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae6nAAAAAABR20qDV42FUZBOK+QrFeeN",
+  "snapshot_id": "ae/4gAAAAAD/72nzLhLAOXMrdckscujq",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 149052,
+      "name": "La Invitaci\u00f3n",
+      "url": "https://open.spotify.com/track/5i2u1LN3LOhhKyd5nBKBK0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Una Nada M\u00e1s",
         "url": "https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 169640,
       "name": "Una Nada M\u00e1s",
       "url": "https://open.spotify.com/track/42QSyOOPV5ZoV7xST6X4jn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 149052,
-      "name": "La Invitaci\u00f3n",
-      "url": "https://open.spotify.com/track/5i2u1LN3LOhhKyd5nBKBK0"
     },
     {
       "added_at": null,
@@ -422,15 +422,11 @@
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
         }
       ],
-      "duration_ms": 158518,
-      "name": "Kitty",
-      "url": "https://open.spotify.com/track/5N7MQvvccl5Hu01j9dUtPe"
+      "duration_ms": 130220,
+      "name": "Tortura",
+      "url": "https://open.spotify.com/track/675DR08jG1zTyPjNoSUTY7"
     },
     {
       "added_at": null,
@@ -490,11 +486,15 @@
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
         }
       ],
-      "duration_ms": 130220,
-      "name": "Tortura",
-      "url": "https://open.spotify.com/track/675DR08jG1zTyPjNoSUTY7"
+      "duration_ms": 158518,
+      "name": "Kitty",
+      "url": "https://open.spotify.com/track/5N7MQvvccl5Hu01j9dUtPe"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Boy! (feat. Kenia OS)",
-        "url": "https://open.spotify.com/album/2Bv78Sp64rF7Gh0ALptmFJ"
-      },
-      "artists": [
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 165963,
-      "name": "Bad Boy! - feat. Kenia OS",
-      "url": "https://open.spotify.com/track/26EXLk5OgybKFDvnV9Bj9x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siempre Que Lo Beso",
         "url": "https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 153674,
       "name": "Siempre Que Lo Beso",
       "url": "https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Boy! (feat. Kenia OS)",
+        "url": "https://open.spotify.com/album/2Bv78Sp64rF7Gh0ALptmFJ"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 165963,
+      "name": "Bad Boy! - feat. Kenia OS",
+      "url": "https://open.spotify.com/track/26EXLk5OgybKFDvnV9Bj9x"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
       "duration_ms": 130784,
       "name": "ARRUINAME LA VIDA",
       "url": "https://open.spotify.com/track/0slYOI5BLJPxK7uBSywVLv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Bezito",
-        "url": "https://open.spotify.com/album/73ak0lB4a1hE6glj88jp9b"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "Un Bezito",
-      "url": "https://open.spotify.com/track/1SQfMaCmPULmazsql39NTb"
     },
     {
       "added_at": null,

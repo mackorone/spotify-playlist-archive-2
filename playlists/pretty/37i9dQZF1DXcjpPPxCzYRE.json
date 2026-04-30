@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 440752,
+  "num_followers": 440830,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,18 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "ThunderWave",
-        "url": "https://open.spotify.com/album/6X04Gtu90ik0MFHv09TOIL"
+        "name": "I Had a Dream She Took My Hand",
+        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
       },
       "artists": [
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 194040,
-      "name": "ThunderWave",
-      "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
+      "duration_ms": 220291,
+      "name": "I Had a Dream She Took My Hand",
+      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -547,18 +543,22 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "I Had a Dream She Took My Hand",
-        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
+        "name": "ThunderWave",
+        "url": "https://open.spotify.com/album/6X04Gtu90ik0MFHv09TOIL"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 220291,
-      "name": "I Had a Dream She Took My Hand",
-      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
+      "duration_ms": 194040,
+      "name": "ThunderWave",
+      "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
+        "name": "Collar",
+        "url": "https://open.spotify.com/album/1RrDIJxt64MMRhJ6c2uPIb"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ares",
+          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
+        }
+      ],
+      "duration_ms": 346500,
+      "name": "Collar",
+      "url": "https://open.spotify.com/track/2pTybbfIVMwtgQNArFb1ca"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
         "name": "T'estimo tant",
         "url": "https://open.spotify.com/album/5jeVqyBskdQV0FAY82QDxt"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 183231,
       "name": "T'estimo tant",
       "url": "https://open.spotify.com/track/0jZcdLFYg3XDFqQaqzGlaQ"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
-        "name": "Collar",
-        "url": "https://open.spotify.com/album/1RrDIJxt64MMRhJ6c2uPIb"
-      },
-      "artists": [
-        {
-          "name": "Carlos Ares",
-          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
-        }
-      ],
-      "duration_ms": 346500,
-      "name": "Collar",
-      "url": "https://open.spotify.com/track/2pTybbfIVMwtgQNArFb1ca"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 224813,
-      "name": "Need The Sun To Break",
-      "url": "https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
         "name": "Fading Forward",
         "url": "https://open.spotify.com/album/6nTysmAKuGBgaaHj8hfMy7"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 186178,
       "name": "Close My Eyes",
       "url": "https://open.spotify.com/track/6NOUlMbo6c3XXFC5kmuHIw"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 224813,
+      "name": "Need The Sun To Break",
+      "url": "https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "Fuegos Artificiales",
-        "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
+        "name": "La quiero a morir",
+        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
       },
       "artists": [
         {
-          "name": "Ire",
-          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
+          "name": "Laura Durand",
+          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
         }
       ],
-      "duration_ms": 178434,
-      "name": "Fuegos Artificiales",
-      "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
+      "duration_ms": 255096,
+      "name": "La quiero a morir",
+      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1407,6 +1407,22 @@
       "duration_ms": 164956,
       "name": "Sanadoras Voluntades",
       "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
+        "name": "Fuegos Artificiales",
+        "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
+      },
+      "artists": [
+        {
+          "name": "Ire",
+          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
+        }
+      ],
+      "duration_ms": 178434,
+      "name": "Fuegos Artificiales",
+      "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1447,22 +1463,6 @@
       "duration_ms": 176288,
       "name": "em plou a dins",
       "url": "https://open.spotify.com/track/5kSmltnJRvLfQzvVDhizsA"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
-        "name": "La quiero a morir",
-        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
-      },
-      "artists": [
-        {
-          "name": "Laura Durand",
-          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
-        }
-      ],
-      "duration_ms": 255096,
-      "name": "La quiero a morir",
-      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
+        "name": "Misma Liga",
+        "url": "https://open.spotify.com/album/44Wotv6bcdehfOEZjWXvQs"
+      },
+      "artists": [
+        {
+          "name": "Hnos Munoz",
+          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
+        }
+      ],
+      "duration_ms": 167750,
+      "name": "Misma Liga",
+      "url": "https://open.spotify.com/track/6pnKysbThfUJQgJQot20iv"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
         "name": "I Feel Good",
         "url": "https://open.spotify.com/album/7mYKEJW5dQ8iqyZDhufS68"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 229253,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/6aMm2SYEO1TQru1qk8iyzT"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
-        "name": "Misma Liga",
-        "url": "https://open.spotify.com/album/44Wotv6bcdehfOEZjWXvQs"
-      },
-      "artists": [
-        {
-          "name": "Hnos Munoz",
-          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
-        }
-      ],
-      "duration_ms": 167750,
-      "name": "Misma Liga",
-      "url": "https://open.spotify.com/track/6pnKysbThfUJQgJQot20iv"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "Tan brillant",
-        "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
-      },
-      "artists": [
-        {
-          "name": "Renaldo & Clara",
-          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "Tan brillant",
-      "url": "https://open.spotify.com/track/2OTuWGelABOCooV0bT4WL5"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
         "name": "Ada Road",
         "url": "https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 200560,
       "name": "Te perd\u00ed",
       "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
+        "name": "Tan brillant",
+        "url": "https://open.spotify.com/album/0U6Jp1cDodFRjv8VhRxyGW"
+      },
+      "artists": [
+        {
+          "name": "Renaldo & Clara",
+          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "Tan brillant",
+      "url": "https://open.spotify.com/track/2OTuWGelABOCooV0bT4WL5"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "Todav\u00eda",
-        "url": "https://open.spotify.com/album/4pknWOYZ5TNA0ikGrTolxG"
-      },
-      "artists": [
-        {
-          "name": "VVV [Trippin'you]",
-          "url": "https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Todav\u00eda",
-      "url": "https://open.spotify.com/track/5M1C2wqiSk9OqEjZcJEYKe"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
         "name": "Kevin",
         "url": "https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 203003,
       "name": "Kevin",
       "url": "https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
+        "name": "Todav\u00eda",
+        "url": "https://open.spotify.com/album/4pknWOYZ5TNA0ikGrTolxG"
+      },
+      "artists": [
+        {
+          "name": "VVV [Trippin'you]",
+          "url": "https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/5M1C2wqiSk9OqEjZcJEYKe"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/5xML2DTGRbTcNjW4olh8js"
+      },
+      "artists": [
+        {
+          "name": "Juana Everett",
+          "url": "https://open.spotify.com/artist/56V8sxFutXjwp1FfPdfkpx"
+        }
+      ],
+      "duration_ms": 176434,
+      "name": "Free As a Bird",
+      "url": "https://open.spotify.com/track/7rMmsVOPCgSERkeSKAhNBM"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
         "name": "DeSAFINADO",
         "url": "https://open.spotify.com/album/2FdMgZJD8hglucdGdPPT6a"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 173333,
       "name": "DeSAFINADO",
       "url": "https://open.spotify.com/track/20xGxEyPI86xc8oCSjs82w"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
-        "name": "Move On",
-        "url": "https://open.spotify.com/album/5xML2DTGRbTcNjW4olh8js"
-      },
-      "artists": [
-        {
-          "name": "Juana Everett",
-          "url": "https://open.spotify.com/artist/56V8sxFutXjwp1FfPdfkpx"
-        }
-      ],
-      "duration_ms": 176434,
-      "name": "Free As a Bird",
-      "url": "https://open.spotify.com/track/7rMmsVOPCgSERkeSKAhNBM"
     },
     {
       "added_at": "2026-04-09 22:02:19",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2026-04-09 22:02:19",
       "album": {
-        "name": "TRES",
-        "url": "https://open.spotify.com/album/1gBxtmX08ZwNWBXH8a3qX6"
-      },
-      "artists": [
-        {
-          "name": "Calequi y Las Panteras",
-          "url": "https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u"
-        }
-      ],
-      "duration_ms": 212958,
-      "name": "La herida que prefiero",
-      "url": "https://open.spotify.com/track/4OEpTmPCpKZpYneJoyhV2k"
-    },
-    {
-      "added_at": "2026-04-09 22:02:19",
-      "album": {
         "name": "Aprend\u00ed a Vivir Sin Ti",
         "url": "https://open.spotify.com/album/26xAu3VGO6eGITdaMnqEJm"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 162857,
       "name": "Aprend\u00ed a Vivir Sin Ti",
       "url": "https://open.spotify.com/track/0mj3UYxVRsWMNf2kXizk5p"
+    },
+    {
+      "added_at": "2026-04-09 22:02:19",
+      "album": {
+        "name": "TRES",
+        "url": "https://open.spotify.com/album/1gBxtmX08ZwNWBXH8a3qX6"
+      },
+      "artists": [
+        {
+          "name": "Calequi y Las Panteras",
+          "url": "https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u"
+        }
+      ],
+      "duration_ms": 212958,
+      "name": "La herida que prefiero",
+      "url": "https://open.spotify.com/track/4OEpTmPCpKZpYneJoyhV2k"
     }
   ],
   "unique_name": "Relax en casa",

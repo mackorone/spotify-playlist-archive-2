@@ -8327,6 +8327,28 @@
     },
     {
       "album": {
+        "name": "Hypercharged",
+        "url": "https://open.spotify.com/album/4EXOQLNSqXnWcvjaBfiGSX"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        },
+        {
+          "name": "Brawl Stars",
+          "url": "https://open.spotify.com/artist/6uqbI01HHuIVZ2LcZoDGlG"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186372,
+      "name": "Hypercharged",
+      "url": "https://open.spotify.com/track/4abYbJ5cjx1j4ZAHRpdoj2"
+    },
+    {
+      "album": {
         "name": "Hypnocurrency",
         "url": "https://open.spotify.com/album/28WW07Sx0IrAXAb1xDDnD3"
       },
@@ -10754,7 +10776,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 88641,
       "name": "LUA NA PRA\u00c7A",
       "url": "https://open.spotify.com/track/4iRGOPSFgEFOphkqY6ryCC"

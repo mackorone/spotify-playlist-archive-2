@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > quiet light album hallelujah 🩵🪽✨  <a href="https://docs.google.com/forms/d/e/1FAIpQLScMF3Bk85sf0Q8EtivfX\-sCFgsgIpORHNyGB28r1NujobZdmw/viewform?usp=header ">talk to us about music<3 </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,631 likes - 141 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,622 likes - 141 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

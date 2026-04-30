@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Bien Argento 📸 Deyco & JCKC
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,887 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,880 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 63 | [Ya fue](https://open.spotify.com/track/2s2AOvjCxGgaanYks5O8Hq) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt), [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Ya fue](https://open.spotify.com/album/6uMCHr2Sqa6tkhI9W84Cky) | 3:10 |
 | 64 | [DOS CON HIELO](https://open.spotify.com/track/1qdtlS6GULnBDPbagxmxBy) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [THROW UP SESSION \#5](https://open.spotify.com/album/2GZ53qJQI2dVzGBu4truua) | 2:42 |
 | 65 | [SAQUEO](https://open.spotify.com/track/1ZsHJXzeZQCM01cdo6Bh84) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Manu Calmet](https://open.spotify.com/artist/0B9JhFd1gL8bpf6FnaggJU) | [SAQUEO](https://open.spotify.com/album/2KoMsNODRkwMViWG3sKl0I) | 2:05 |
-| 66 | [Estelar](https://open.spotify.com/track/1Ccx2VM7NS3xcvNHURwu3s) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Estelar](https://open.spotify.com/album/6eEgsYg1waSowUMQG0ABTv) | 2:21 |
+| 66 | [ESTELAR](https://open.spotify.com/track/1Ccx2VM7NS3xcvNHURwu3s) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [ESTELAR](https://open.spotify.com/album/6eEgsYg1waSowUMQG0ABTv) | 2:21 |
 | 67 | [Villa Jardín \- Capítulo 1](https://open.spotify.com/track/50R0UtXQqArFhD5a6Hvy7B) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Villa Jardín \- Capítulo 1](https://open.spotify.com/album/3SnQqRuqgTBtjamG9wqmBc) | 2:34 |
 | 68 | [Horóscopo \- 21:00](https://open.spotify.com/track/6PvgO4pyoIVEwjaW2E0K2x) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt), [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [14 de FEBRERO](https://open.spotify.com/album/6nCJn4xe5G7snMEG2ihBS1) | 3:21 |
 | 69 | [La Sal Y El Sabor](https://open.spotify.com/track/6Z51lFUDQB2lnhonvpDnRt) | [Malandro](https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL), [Doly Flackko](https://open.spotify.com/artist/6Mo5LUenVqXbaxeWw91lAH) | [La Sal Y El Sabor](https://open.spotify.com/album/3Z0yojBukgv5mkCkF4vVbl) | 3:01 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 96 | [Escape \#2 "Pandora" \- En Vivo](https://open.spotify.com/track/6vvm3Mbo83lJUlnYUzi26O) | [MACO](https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm) | [Escape \#2 "Pandora" \(En Vivo\)](https://open.spotify.com/album/2X3GyQsnDVH97DIOGQJJti) | 3:25 |
 | 97 | [PERDIDO EN BAIRES](https://open.spotify.com/track/3pztjaZmAfUPpxDYFJPZ6x) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [PERDIDO EN BAIRES](https://open.spotify.com/album/29x7ChiCxh4pSN96j4Tdkf) | 2:17 |
 | 98 | [Gatita Under](https://open.spotify.com/track/62Fr9rBVEj3CYMtFoSM5R0) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Malapraxxis](https://open.spotify.com/artist/7oVL05pJCDuTxYtD0bLNPx), [Mozart Muzik](https://open.spotify.com/artist/2wCROATzLTy6FpYVkE9OH8) | [Gatita Under](https://open.spotify.com/album/1u5Er8FnAGtT6AvumopTbo) | 2:37 |
-| 99 | [Nos Relojean](https://open.spotify.com/track/1tbJP63ftEPVJKn8TFfB1u) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Soffia Philo](https://open.spotify.com/artist/5o1ARHZ2fhll5jILdQp84X), [Maxi Prieto](https://open.spotify.com/artist/7k4sBYY4ict7ilJdWo5DnW) | [Nos Relojean](https://open.spotify.com/album/7zDAxwrWDrPJsr2OX5GTge) | 3:05 |
+| 99 | [NOS RELOJEAN](https://open.spotify.com/track/1tbJP63ftEPVJKn8TFfB1u) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Soffia Philo](https://open.spotify.com/artist/5o1ARHZ2fhll5jILdQp84X), [Maxi Prieto](https://open.spotify.com/artist/7k4sBYY4ict7ilJdWo5DnW) | [NOS RELOJEAN](https://open.spotify.com/album/7zDAxwrWDrPJsr2OX5GTge) | 3:05 |
 | 100 | [Total 90](https://open.spotify.com/track/5mfr3sACx8Yl0yBklYKCIP) | [Tot3ro](https://open.spotify.com/artist/4RdJOOCWkH8TyHsYTqreUp), [DobleMc](https://open.spotify.com/artist/7DWC9TotHwkStkKSupHljb) | [Total 90](https://open.spotify.com/album/4PxQT3JG3BzAdTp5MYOYIW) | 3:16 |
 
 Snapshot ID: `AAAAAH4pVoHyHWjjoJeelp5RlVOauZEW`

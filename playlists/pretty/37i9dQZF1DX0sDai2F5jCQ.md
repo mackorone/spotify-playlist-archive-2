@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Hooligan Hefs
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,605 likes - 79 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,600 likes - 79 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

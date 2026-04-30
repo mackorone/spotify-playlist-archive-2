@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 
 > Set the scene for romance with beautiful classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,694 likes - 63 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,701 likes - 63 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 | 41 | [Sarabande](https://open.spotify.com/track/2iHfxxA58scvsi5P0L1B4i) | [Robert de Visée](https://open.spotify.com/artist/4br5HVmW3Xed5Zvffl0RSU), [Toby Carr](https://open.spotify.com/artist/5zNhfoSYfBlwIffqIExoB3) | [Sarabande](https://open.spotify.com/album/7pTnWPUbgVoojmLt3mwZRR) | 2:12 |
 | 42 | [Suite in B\-Flat Major, HWV 434: IV\. Menuet](https://open.spotify.com/track/6jZj45D2jdR6fMEb58TlSc) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Motherland](https://open.spotify.com/album/1QlwdrB0YycnoWOH1JqCqh) | 3:50 |
 | 43 | [Pavane pour une infante défunte, M\. 19](https://open.spotify.com/track/7MjEk3ha3TdVVfeYryOIAq) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Ravel: Intégrale de l'œuvre pour piano](https://open.spotify.com/album/1PGV2mCrXJKpNl7onDJ6Yx) | 5:42 |
-| 44 | [Rêverie, L\. 68: Rêverie](https://open.spotify.com/track/3YJrnXT1UNpRgnc7lcgXSF) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Debussy: Complete Works for Solo Piano, Vol.1](https://open.spotify.com/album/0cfusqtz8FdhjN03BUAS0l) | 4:17 |
+| 44 | [Rêverie, CD 76](https://open.spotify.com/track/3YJrnXT1UNpRgnc7lcgXSF) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Debussy: Complete Works for Solo Piano, Vol.1](https://open.spotify.com/album/0cfusqtz8FdhjN03BUAS0l) | 4:17 |
 | 45 | [Images I, CD 105: I\. Reflets dans l'eau](https://open.spotify.com/track/7x9RJr7KDa1ZKcOokOZbsb) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Marc\-André Hamelin](https://open.spotify.com/artist/0pm0LWiklLtNXUP2GVwdqY) | [Debussy: Images & Préludes, Book 2](https://open.spotify.com/album/24gxtZuRII8ldeL4oYTnLK) | 5:19 |
 | 46 | [Rinaldo, HWV 7: Lascia ch'io pianga \(Arr\. for Piano\)](https://open.spotify.com/track/0dfAHJmRg7JtCbitsageQG) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Handel Variations](https://open.spotify.com/album/21lcyOutL6OClPcldmOP3Q) | 4:28 |
 | 47 | [Les berceaux, Op\. 23, No\. 1](https://open.spotify.com/track/7pN1FnWdKOx3GAciqfVVf7) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Mischa Maisky](https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I), [Daria Hovora](https://open.spotify.com/artist/6ulWeJt8KSzeGBlrzEDELv) | [Romantic Vol.2](https://open.spotify.com/album/7HDbyWdmbycapNALazpM4i) | 3:07 |

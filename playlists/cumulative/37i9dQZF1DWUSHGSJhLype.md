@@ -4,7 +4,7 @@
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Léo Santana
 
-572 songs - 1 day 3 hr 33 min
+573 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Apagar \(Fundo Raso\)](https://open.spotify.com/track/1MUK1YtogJl1f3SF3APmyL) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Apagar \(Fundo Raso\)](https://open.spotify.com/album/05WlbzO3TLzH0Qp6Wudg6f) | 3:28 | 2025-07-18 | 2025-08-23 |
 | [Aposta](https://open.spotify.com/track/3oCLB6gOcmO3n5vM0XwXip) | [Tony Salles](https://open.spotify.com/artist/65wb6r9GvL7JUySeWfDD9q) | [A Minha História](https://open.spotify.com/album/7FI9dTZTCWzpMOjLf9Eqhk) | 2:34 | 2024-12-13 | 2024-12-27 |
 | [APOSTAR EM VOCÊ \- Ao Vivo](https://open.spotify.com/track/45vUvne5AOyx71Dkw7rXZW) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z) | [APOSTAR EM VOCÊ \(Ao Vivo\)](https://open.spotify.com/album/0pfWT0vBOULwuy2C0BvPbP) | 2:33 | 2025-07-04 | 2025-07-12 |
+| [Aproveita Que Eu Tô Brigado \- Ao Vivo](https://open.spotify.com/track/6bpIrlJ06Fb6amL5M9djmi) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Paredão do Nattan \(Ao Vivo Em Fortaleza\)](https://open.spotify.com/album/42CsFg3kxKccXG5YONxcaS) | 2:36 | 2026-04-30 |  |
 | [Aquecimento Senta Senta Suave](https://open.spotify.com/track/5WsM6qhZzRSD3oKbtorxzD) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [BUARQUE](https://open.spotify.com/artist/20MbZeDJcbXxkcZWumh9rC) | [Tamborzão Raiz](https://open.spotify.com/album/7qwJFRvShWMVg39UKWafzW) | 2:32 | 2023-05-15 | 2023-09-16 |
 | [Aquele Love](https://open.spotify.com/track/4AcwJhodfCcIymJL8ZjeUV) | [US Agroboy](https://open.spotify.com/artist/7gXnv2nAoF9X0XJQ3AMp7d), [GREGO](https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X) | [Aquele Love](https://open.spotify.com/album/7veHxl8PHbSiJV374QsCdt) | 2:54 | 2023-12-08 | 2024-11-20 |
 | [Aquele Lugar \- Ao Vivo](https://open.spotify.com/track/0pGsxpkJC9IwK93fmqEYXn) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/4oMmPinXoUPTK2snpCWxAy) | 2:47 | 2025-05-15 |  |

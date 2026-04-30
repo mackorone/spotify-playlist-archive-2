@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Paolo Banchero and Cade Cunningham
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Jalen Brunson
 
 905 songs - 1 day 22 hr 4 min
 

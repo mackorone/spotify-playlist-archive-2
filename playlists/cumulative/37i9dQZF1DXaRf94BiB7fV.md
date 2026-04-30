@@ -2,9 +2,9 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels in India\. Cover \- JBABE
+> The best new music by independent artists and labels in India\. Cover \- Yugm
 
-1,923 songs - 4 day 14 hr 58 min
+1,925 songs - 4 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Aaina](https://open.spotify.com/track/6Nw3fPyruYsRwtJk41OpDQ) | [Shriyash Sahu](https://open.spotify.com/artist/7C8q7GkDrPUPCHdAzpP8sQ) | [Aaina](https://open.spotify.com/album/3bk9LnUlyejSQTEbGTkfqc) | 4:21 | 2022-04-20 | 2022-05-26 |
 | [Aaine Mein](https://open.spotify.com/track/6WdsPvrRjjLyNi0kB9vDgB) | [Rí An Yush](https://open.spotify.com/artist/3tUJu7taiI9vjSgYyT1Roj) | [Aaine Mein](https://open.spotify.com/album/4IEzWwqGIuLAG3Sj93xaEr) | 3:43 | 2024-03-20 | 2024-05-09 |
 | [Aaja](https://open.spotify.com/track/6fauGspZOfBb5REA6GBsLZ) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Aaja](https://open.spotify.com/album/15oUhgmxpbbIVt3M2t3tAP) | 4:13 | 2023-06-28 | 2023-10-05 |
-| [AAKHRI BAAR](https://open.spotify.com/track/4PgMWF1Yj7hSLSlqQJJBug) | [Ket Meth](https://open.spotify.com/artist/63Tnzo5oOz0O2GrpOSfXdh) | [AAKHRI BAAR](https://open.spotify.com/album/5Oeh2cwyWa7R790fn2apu4) | 2:49 | 2026-02-18 |  |
+| [AAKHRI BAAR](https://open.spotify.com/track/4PgMWF1Yj7hSLSlqQJJBug) | [Ket Meth](https://open.spotify.com/artist/63Tnzo5oOz0O2GrpOSfXdh) | [AAKHRI BAAR](https://open.spotify.com/album/5Oeh2cwyWa7R790fn2apu4) | 2:49 | 2026-02-18 | 2026-04-30 |
 | [Aakhri Manzil](https://open.spotify.com/track/1WoswTeeU1sYPT6Ryub1sR) | [Vishal Kumar](https://open.spotify.com/artist/63hWLKVUPbT0yJdr1CfzHW) | [Aakhri Manzil](https://open.spotify.com/album/2E78vEc480F80QfqbownqU) | 4:53 | 2025-06-18 | 2025-08-14 |
 | [Aan Baan](https://open.spotify.com/track/0vbuZoirhPmK8NyJIGuvwQ) | [Avanti Patel](https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf), [Rutuja Lad](https://open.spotify.com/artist/6dcj7PFzG1ybNHHJyMUS3m) | [Aan Baan](https://open.spotify.com/album/0WjHJZqInHSNBjVGBN5WXq) | 4:57 | 2025-08-06 | 2025-11-13 |
 | [Aana Na Tu](https://open.spotify.com/track/2q6LTElfNENh92sxiPa7nD) | [Ekansh Mamgai](https://open.spotify.com/artist/1oMcWeHQ2Gz1iJpSoZBX5T) | [Aana Na Tu](https://open.spotify.com/album/6MOBjenHZeB2VmUnx8XuVQ) | 2:55 | 2024-08-28 | 2025-02-27 |
@@ -387,7 +387,7 @@
 | [Dil Khuda Tu](https://open.spotify.com/track/39wfLOxVKYy5n8SnScagR9) | [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR) | [Dil Khuda Tu](https://open.spotify.com/album/0CClNhVaYM415ArYUq2Y9t) | 3:16 | 2022-10-19 | 2023-03-09 |
 | [Dil Ki Awaaz](https://open.spotify.com/track/7FwePJkfFs71NGX2slDLWB) | [Vipin Singh](https://open.spotify.com/artist/3TGlt6sJbS4hMPy5MDcDQp) | [Dil Ki Awaaz](https://open.spotify.com/album/60kKK17oBuauTAQe3T9XKD) | 3:37 | 2025-03-26 | 2025-06-12 |
 | [Dil Ki Baat](https://open.spotify.com/track/4y9zpfPPxxdYewg6nem0lE) | [Liquid Lake](https://open.spotify.com/artist/59tEU0jAjUkuKWhzElmD8r), [ACHINX](https://open.spotify.com/artist/3SEsONpgPHbW9KXBWWabgm), [Gulbis Khan](https://open.spotify.com/artist/1BfNgRnl08Cf0SXoqAXKx3) | [Dil Ki Baat](https://open.spotify.com/album/72Gqg2UNf8ebPoqMGtuOUW) | 1:37 | 2024-06-05 | 2024-08-15 |
-| [Dil Ki Baat](https://open.spotify.com/track/79aYlXjo1tLou3oWO2Izas) | [The Dhanan Project](https://open.spotify.com/artist/6HgvMROWuDTF0PNYaicEGb) | [The Dhanan Project](https://open.spotify.com/album/2KF5k5VS2tQLA3JxchinwP) | 3:42 | 2026-02-11 |  |
+| [Dil Ki Baat](https://open.spotify.com/track/79aYlXjo1tLou3oWO2Izas) | [The Dhanan Project](https://open.spotify.com/artist/6HgvMROWuDTF0PNYaicEGb) | [The Dhanan Project](https://open.spotify.com/album/2KF5k5VS2tQLA3JxchinwP) | 3:42 | 2026-02-11 | 2026-04-30 |
 | [Dil ki Baatein](https://open.spotify.com/track/3ih8nvUkVNBMp7jVZ1Ms1y) | [Nikhil Pawar Music](https://open.spotify.com/artist/1wZDI0EEb9RnZBkn8s1fck), [Antaraa Bhataacharya](https://open.spotify.com/artist/0ZssWexyE6l7emmKmsUeCL) | [Dil ki Baatein](https://open.spotify.com/album/4lji1Y9oevdiEM8zqKr5QX) | 3:39 | 2023-05-24 | 2023-08-17 |
 | [Dil Ki Dastan](https://open.spotify.com/track/3S0kZyO86KTfKae540RV3I) | [Sahil Ahuja](https://open.spotify.com/artist/4em8pFjqZmKcflPQgobF6L) | [Dil Ki Dastan](https://open.spotify.com/album/0uFbi2fi8kPeVxFBSmpIJi) | 3:44 | 2023-10-25 | 2024-02-08 |
 | [Dil Ki Pukar](https://open.spotify.com/track/7J3fsn6luVRcezP3a8I2nW) | [Supratik Das](https://open.spotify.com/artist/4NwftYPRUGSTZycjGcL0Yw) | [Dil Ki Pukar](https://open.spotify.com/album/2np2QEPB7O16nmXZ8rq02g) | 4:18 | 2024-09-11 | 2024-10-24 |
@@ -935,6 +935,7 @@
 | [Khwaish](https://open.spotify.com/track/3jPYJEaFhNEsO3rjHSnnJe) | [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Escaé](https://open.spotify.com/artist/7ulacShwtBIL9flLO6EmUI), [Vikram Edke](https://open.spotify.com/artist/2EhKnxfRSueWrjFkYTVRTu), [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1) | [Khwaish](https://open.spotify.com/album/6sjkjg8yGKk1gzf6JLBVB3) | 3:26 | 2025-07-30 | 2025-11-06 |
 | [Khwaishein](https://open.spotify.com/track/5395Uz3H0nABxiJ3p5oNen) | [Shallum Lama](https://open.spotify.com/artist/4ufyGQgkJxP92QPasJAmMv) | [Manjari](https://open.spotify.com/album/65AH9sHOWbt7v47DJnkV6c) | 3:45 | 2024-10-16 | 2025-05-08 |
 | [KINA KHAAS](https://open.spotify.com/track/4uNL66m32hCv2kWfUfZiof) | [Azadd](https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA) | [KINA KHAAS](https://open.spotify.com/album/4aLvFBICXv2FjZoz3Cq3pR) | 3:07 | 2024-01-17 | 2024-03-28 |
+| [Kinara](https://open.spotify.com/track/7nMpGwEuY6hAPPCMBR157E) | [Yugm](https://open.spotify.com/artist/43uEANXUn0eOJrYKfjq2DL), [The Aahvaan Project](https://open.spotify.com/artist/7JpzLv0XjhqSet8epgf7qF) | [Kinara](https://open.spotify.com/album/3GyBkcTdhjU7khLnJ7HeVb) | 6:45 | 2026-04-29 |  |
 | [Kiran](https://open.spotify.com/track/3cPDGhfU49Q3deykmayjDb) | [Ruhaan79](https://open.spotify.com/artist/5SF0jmBaNgXoDE7VuUypTL), [ATHRV](https://open.spotify.com/artist/1Qdg9IrqdbU1J2TG7ORCHx), [Palaq](https://open.spotify.com/artist/4iFnBgFGTFdnxiD73QqTxE) | [Kiran](https://open.spotify.com/album/4WyQLzCrO2GFzlUqrnsKoF) | 3:27 | 2024-01-24 | 2024-02-01 |
 | [Kiske Liye](https://open.spotify.com/track/6ALz5MWfAnHLEuGUlVN4Ms) | [Ronit Vohra](https://open.spotify.com/artist/5jOD38xgCfgiGT7z6eWxw0) | [Kiske Liye](https://open.spotify.com/album/4XHF1sFzPETXrSR7EvZ9JS) | 3:26 | 2024-04-24 | 2024-05-16 |
 | [Kiski Khata](https://open.spotify.com/track/2s5f7ouN7DtFZXGmNFb9tJ) | [Aishwarya](https://open.spotify.com/artist/7mTJZY7jhvN2QEzWqwXdKP), [Saurabh Trivedi](https://open.spotify.com/artist/3bz6ZRvw3t4k0Oz72baGrk), [Rishita Malkania](https://open.spotify.com/artist/2iYRleECSrB0io7EdpIWFz), [Eric Wink](https://open.spotify.com/artist/7k2dC4sHlKjN52VppZRxUP) | [Kiski Khata](https://open.spotify.com/album/14CbMFfLo7xOa4X2560AfW) | 3:12 | 2026-03-11 |  |
@@ -1225,6 +1226,7 @@
 | [Neelay](https://open.spotify.com/track/6ZPaQqzRwPcPmsha5bxMwt) | [Dizlaw](https://open.spotify.com/artist/1UCR3l3JEC7O3XMS5I8dUU) | [Neelay](https://open.spotify.com/album/5bFYU75fdfUP3b9r1G0xuh) | 2:49 | 2025-07-09 | 2026-01-22 |
 | [Neelima](https://open.spotify.com/track/4lMvmVxpaXoQ5JSY1t5DO3) | [Rohit Joshi](https://open.spotify.com/artist/5CPDuIrCivzWPfwr6fry9c) | [Neelima](https://open.spotify.com/album/2GhgU3zSbFJu0smH7QAXq8) | 2:55 | 2024-05-08 | 2024-07-25 |
 | [Neend](https://open.spotify.com/track/1pdpAeTL7y48EbijYXEa4i) | [Aman Moroney](https://open.spotify.com/artist/2IEODkvsAXxCrYi308ictx), [Shaurya Saxena](https://open.spotify.com/artist/15YoAoQ9jr1YyDSgcTQXsf), [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ) | [Neend](https://open.spotify.com/album/7vKMHK89d10djKgor7oP1s) | 4:05 | 2025-04-23 | 2026-01-15 |
+| [Neer Bharan](https://open.spotify.com/track/6bfKZYgAaMgRLZYTxK0T9f) | [Tanmay Deochake](https://open.spotify.com/artist/4ujl0vIPR8pYIPAHCPl7OR), [Radhika Bhide](https://open.spotify.com/artist/4OMlEVryNzCNImKNGoZ22c) | [Neer Bharan](https://open.spotify.com/album/4hYwar8PBO70C4eAbrACtw) | 5:48 | 2026-04-29 |  |
 | [Nemesis \- Piano Version](https://open.spotify.com/track/1jMp50DxGbTxSfT6TmE6J1) | [Atul Gupta](https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k), [Tiyasha Biswas](https://open.spotify.com/artist/7FkdnltvTpv8g1eLFJb4BJ) | [Nemesis \(Piano Version\)](https://open.spotify.com/album/7Ci2rAr21IuxtuExCmBhr8) | 3:27 | 2022-01-12 | 2022-03-10 |
 | [Nightwing](https://open.spotify.com/track/75So2ytT6ICCxWINug6MCV) | [779B](https://open.spotify.com/artist/16tHKvo6EZ9BmmWMPOZ3yM) | [Nightwing](https://open.spotify.com/album/5IdOORX9JPQ4ovAuQMWQFQ) | 5:09 | 2022-01-12 | 2022-01-14 |
 | [Nishaani](https://open.spotify.com/track/5G79CwW6bfDpVFONmjiSO3) | [Ajayank Singh](https://open.spotify.com/artist/6Ru6vD6eHEsxgMe9U8qnGM), [Ana Khan](https://open.spotify.com/artist/0i0yZ1eUzu2zQSpS1eyeSo) | [Nishaani](https://open.spotify.com/album/6QjsvM7dpohwGofretSi86) | 3:26 | 2022-06-15 | 2022-09-15 |

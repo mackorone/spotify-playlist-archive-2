@@ -12982,7 +12982,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -22820,7 +22820,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 183237,
       "name": "iloveitiloveitiloveit",
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
@@ -25312,6 +25312,28 @@
       "duration_ms": 143531,
       "name": "katus alla",
       "url": "https://open.spotify.com/track/3DOIIBEgNRylZG7OXobdaE"
+    },
+    {
+      "album": {
+        "name": "kaugemaks j\u00e4\u00e4d",
+        "url": "https://open.spotify.com/album/05oagn1lZ7SDXqXvkFWVxy"
+      },
+      "artists": [
+        {
+          "name": "Karl Killing",
+          "url": "https://open.spotify.com/artist/586Rqc4ZLh7QPaMkIx1zEN"
+        },
+        {
+          "name": "Emily J",
+          "url": "https://open.spotify.com/artist/5ChprbFpHquoq5pkUUdY0v"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "kaugemaks j\u00e4\u00e4d",
+      "url": "https://open.spotify.com/track/4moYdKN7wXxZilcJ3I1akw"
     },
     {
       "album": {
@@ -57090,7 +57112,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"

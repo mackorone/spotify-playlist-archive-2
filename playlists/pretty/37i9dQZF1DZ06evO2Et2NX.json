@@ -1,12 +1,12 @@
 {
   "description": "This is Sleater-Kinney. The essential tracks, all in one playlist.",
-  "num_followers": 8862,
+  "num_followers": 8867,
   "original_name": "This Is Sleater-Kinney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae6nAAAAAADZVpAscHLoaUojHxLoypCa",
+  "snapshot_id": "ae/4gAAAAACeaZ9rNoPlKuUBWhr7LTNx",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Cities to Love",
-        "url": "https://open.spotify.com/album/7HDcY3h70X3zLjceUO874A"
+        "name": "The Center Won't Hold",
+        "url": "https://open.spotify.com/album/1572ze92PysstxyxM8nFh3"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 218533,
-      "name": "A New Wave",
-      "url": "https://open.spotify.com/track/3tRiDTK0QTP0IfwbxG4jus"
+      "duration_ms": 210943,
+      "name": "Can I Go On",
+      "url": "https://open.spotify.com/track/1krtlGy6LlyMpgz4RkVGwS"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Center Won't Hold",
-        "url": "https://open.spotify.com/album/1572ze92PysstxyxM8nFh3"
+        "name": "No Cities to Love",
+        "url": "https://open.spotify.com/album/7HDcY3h70X3zLjceUO874A"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 210943,
-      "name": "Can I Go On",
-      "url": "https://open.spotify.com/track/1krtlGy6LlyMpgz4RkVGwS"
+      "duration_ms": 218533,
+      "name": "A New Wave",
+      "url": "https://open.spotify.com/track/3tRiDTK0QTP0IfwbxG4jus"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Hands on the Bad One (Remastered)",
-        "url": "https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s"
+        "name": "The Woods",
+        "url": "https://open.spotify.com/album/73ctstwnbNifu5U902X2zL"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 177400,
-      "name": "All Hands on the Bad One",
-      "url": "https://open.spotify.com/track/0ja5aZwGxpdDT1sKNL67t7"
+      "duration_ms": 204853,
+      "name": "The Fox",
+      "url": "https://open.spotify.com/track/39PIkbnRTKCbnnOadVu47k"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Woods",
-        "url": "https://open.spotify.com/album/73ctstwnbNifu5U902X2zL"
+        "name": "All Hands on the Bad One (Remastered)",
+        "url": "https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 204853,
-      "name": "The Fox",
-      "url": "https://open.spotify.com/track/39PIkbnRTKCbnnOadVu47k"
+      "duration_ms": 177400,
+      "name": "All Hands on the Bad One",
+      "url": "https://open.spotify.com/track/0ja5aZwGxpdDT1sKNL67t7"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Woods",
+        "url": "https://open.spotify.com/album/73ctstwnbNifu5U902X2zL"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 298146,
+      "name": "What's Mine Is Yours",
+      "url": "https://open.spotify.com/track/223VJtlBkIoeIqVMQ8Dc47"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Hot Rock (Remastered)",
         "url": "https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 241426,
       "name": "A Quarter to Three",
       "url": "https://open.spotify.com/track/4r5Z9l5cZE1qVSj3j4Hv8G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Woods",
-        "url": "https://open.spotify.com/album/73ctstwnbNifu5U902X2zL"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Wilderness",
-      "url": "https://open.spotify.com/track/3EVA7xy8HhfFzeyPq3MB7t"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Woods",
+        "url": "https://open.spotify.com/album/73ctstwnbNifu5U902X2zL"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Wilderness",
+      "url": "https://open.spotify.com/track/3EVA7xy8HhfFzeyPq3MB7t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Hands on the Bad One (Remastered)",
         "url": "https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 154146,
       "name": "Ironclad",
       "url": "https://open.spotify.com/track/2TZyIB2eXDtRTNfMj3TrE9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Woods",
-        "url": "https://open.spotify.com/album/73ctstwnbNifu5U902X2zL"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 298146,
-      "name": "What's Mine Is Yours",
-      "url": "https://open.spotify.com/track/223VJtlBkIoeIqVMQ8Dc47"
     },
     {
       "added_at": null,
@@ -708,25 +708,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 200840,
-      "name": "The End of You",
-      "url": "https://open.spotify.com/track/2nXozfA3QYdeUqX6TAVbYD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Beat (Remastered)",
-        "url": "https://open.spotify.com/album/6rLlfZB9OWMPHzXL04DusD"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 167480,
-      "name": "Funeral Song",
-      "url": "https://open.spotify.com/track/4599gPXYzgwfSXwBjoGb6S"
+      "duration_ms": 191986,
+      "name": "The Size of Our Love",
+      "url": "https://open.spotify.com/track/0ZUQDCwaQdq3JzzdOBS9Ng"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 168208,
       "name": "Hurry On Home",
       "url": "https://open.spotify.com/track/2m3YK65b88DBDmSceFT8HD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Beat (Remastered)",
+        "url": "https://open.spotify.com/album/6rLlfZB9OWMPHzXL04DusD"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 255613,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/71MqcI9yBZ4uZEQC9RXCgm"
     },
     {
       "added_at": null,
@@ -772,25 +772,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 191986,
-      "name": "The Size of Our Love",
-      "url": "https://open.spotify.com/track/0ZUQDCwaQdq3JzzdOBS9Ng"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Beat (Remastered)",
-        "url": "https://open.spotify.com/album/6rLlfZB9OWMPHzXL04DusD"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 255613,
-      "name": "Sympathy",
-      "url": "https://open.spotify.com/track/71MqcI9yBZ4uZEQC9RXCgm"
+      "duration_ms": 200840,
+      "name": "The End of You",
+      "url": "https://open.spotify.com/track/2nXozfA3QYdeUqX6TAVbYD"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 193516,
       "name": "Hell",
       "url": "https://open.spotify.com/track/44cwcFNclhaQm29UTexzDg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Beat (Remastered)",
+        "url": "https://open.spotify.com/album/6rLlfZB9OWMPHzXL04DusD"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 167480,
+      "name": "Funeral Song",
+      "url": "https://open.spotify.com/track/4599gPXYzgwfSXwBjoGb6S"
     }
   ],
   "unique_name": "This Is Sleater-Kinney",

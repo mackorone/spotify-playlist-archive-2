@@ -1,12 +1,12 @@
 {
-  "description": "New Music from Kollywood.\nCover : Meesaya Murukku 2",
-  "num_followers": 746670,
+  "description": "New Music from Kollywood.\nCover : Karuppu",
+  "num_followers": 746738,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIMHAoOCTCP8e87F6ZIUSNjsyEBN",
+  "snapshot_id": "AAAAAB1sWEt5Zo7BsQ+Y6fokmGzMNF73",
   "tracks": [
     {
       "added_at": "2026-04-28 15:54:34",
@@ -157,6 +157,30 @@
       "url": "https://open.spotify.com/track/1eebSj055Majk9EiQ8Jinn"
     },
     {
+      "added_at": "2026-04-29 13:16:30",
+      "album": {
+        "name": "Verappa (From \"Karuppu\")",
+        "url": "https://open.spotify.com/album/6iVvpTmL1btiBTQVw9yf7b"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        },
+        {
+          "name": "Arun Srinivasan",
+          "url": "https://open.spotify.com/artist/6zk7r7UylV6GHjWmhCDw9K"
+        }
+      ],
+      "duration_ms": 100291,
+      "name": "Verappa - From \"Karuppu\"",
+      "url": "https://open.spotify.com/track/3watEGWsGyrEgd6GxkeGSI"
+    },
+    {
       "added_at": "2026-04-09 08:53:02",
       "album": {
         "name": "Pappali Pazhamey (From \"Meesaya Murukku 2\")",
@@ -305,6 +329,30 @@
       "url": "https://open.spotify.com/track/4lGLdCZSzH7A4Ue9kmVbfh"
     },
     {
+      "added_at": "2026-04-29 07:01:53",
+      "album": {
+        "name": "God Mode (From \"Karuppu\")",
+        "url": "https://open.spotify.com/album/2otqmzy8iRSHbeE4atgUY9"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Gana Muthu",
+          "url": "https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx"
+        },
+        {
+          "name": "Vishnu Edavan",
+          "url": "https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T"
+        }
+      ],
+      "duration_ms": 240264,
+      "name": "God Mode - From \"Karuppu\"",
+      "url": "https://open.spotify.com/track/1KT8UcTXHJVOLuRFZmRxtA"
+    },
+    {
       "added_at": "2026-04-07 10:53:42",
       "album": {
         "name": "Love Insurance Kompany (Original Motion Picture Soundtrack)",
@@ -367,6 +415,34 @@
       "duration_ms": 195097,
       "name": "Come On Kaali (From \"KD\") - Tamil Version",
       "url": "https://open.spotify.com/track/1tpyETWUm6c6mJGk7m0hYi"
+    },
+    {
+      "added_at": "2026-03-24 07:12:29",
+      "album": {
+        "name": "Naanga Naalu Peru (From \"Karuppu\")",
+        "url": "https://open.spotify.com/album/02t9ugo9AEOmp8uVpnpAOh"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Silambarasan TR",
+          "url": "https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS"
+        },
+        {
+          "name": "Asal Kolaar",
+          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
+        },
+        {
+          "name": "Arun Srinivasan",
+          "url": "https://open.spotify.com/artist/6zk7r7UylV6GHjWmhCDw9K"
+        }
+      ],
+      "duration_ms": 197086,
+      "name": "Naanga Naalu Peru - From \"Karuppu\"",
+      "url": "https://open.spotify.com/track/7CwyWNQk0qRzFhDj111SLi"
     },
     {
       "added_at": "2026-04-20 05:47:25",
@@ -761,34 +837,6 @@
       "url": "https://open.spotify.com/track/3OpKTXgL4R9ogWWjMTQY4u"
     },
     {
-      "added_at": "2026-03-24 07:12:29",
-      "album": {
-        "name": "Naanga Naalu Peru (From \"Karuppu\")",
-        "url": "https://open.spotify.com/album/02t9ugo9AEOmp8uVpnpAOh"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "Silambarasan TR",
-          "url": "https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS"
-        },
-        {
-          "name": "Asal Kolaar",
-          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
-        },
-        {
-          "name": "Arun Srinivasan",
-          "url": "https://open.spotify.com/artist/6zk7r7UylV6GHjWmhCDw9K"
-        }
-      ],
-      "duration_ms": 197086,
-      "name": "Naanga Naalu Peru - From \"Karuppu\"",
-      "url": "https://open.spotify.com/track/7CwyWNQk0qRzFhDj111SLi"
-    },
-    {
       "added_at": "2026-04-15 13:08:53",
       "album": {
         "name": "Idhayam Thudikiradhu (From \"Breakfast - Tamil\")",
@@ -855,30 +903,6 @@
       "duration_ms": 201696,
       "name": "Thuru Thuru Mazhaiye",
       "url": "https://open.spotify.com/track/23BffhPnXmv6tlG9bTT9yX"
-    },
-    {
-      "added_at": "2026-04-07 11:28:14",
-      "album": {
-        "name": "Kulkanth Kumar (From \"TN 2026 Thanga Natchathiram\")",
-        "url": "https://open.spotify.com/album/1iGImyeKIgDcowXUbtZl0G"
-      },
-      "artists": [
-        {
-          "name": "Darbuka Siva",
-          "url": "https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9"
-        },
-        {
-          "name": "Premgi Amaren",
-          "url": "https://open.spotify.com/artist/4GxNKj50amLne9azxcrqK2"
-        },
-        {
-          "name": "Mohan Rajan",
-          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Kulkanth Kumar (From \"TN 2026 Thanga Natchathiram\")",
-      "url": "https://open.spotify.com/track/5zzStZKrrzCiyDQwLsAG2U"
     },
     {
       "added_at": "2026-04-20 05:47:25",
@@ -1643,46 +1667,6 @@
       "duration_ms": 79207,
       "name": "Yedhayya Saami (Special Surprise) [From \"Ranabaali\"]",
       "url": "https://open.spotify.com/track/3wEMaceLUQwNxFsamPKXAA"
-    },
-    {
-      "added_at": "2026-03-09 12:00:48",
-      "album": {
-        "name": "Kadhal Reset Repeat",
-        "url": "https://open.spotify.com/album/1tnFsP2k3kbPzSs4VdFJKD"
-      },
-      "artists": [
-        {
-          "name": "Harris Jayaraj",
-          "url": "https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l"
-        },
-        {
-          "name": "Asal Kolar",
-          "url": "https://open.spotify.com/artist/4uN7BZV1gttGLJL2YXtxxi"
-        },
-        {
-          "name": "Suchith Suresh",
-          "url": "https://open.spotify.com/artist/455TJHsW1YpUT3ERcqJAMb"
-        },
-        {
-          "name": "Senthil Dass",
-          "url": "https://open.spotify.com/artist/4TTs2WcxJN7SHkit06rSMg"
-        },
-        {
-          "name": "Tamizh Adhavan",
-          "url": "https://open.spotify.com/artist/4pHLpyoK0PlzvHRoddMdZe"
-        },
-        {
-          "name": "Madan Karky",
-          "url": "https://open.spotify.com/artist/6EtLhQRslM09DO6EQLzodI"
-        },
-        {
-          "name": "Arcus Aryian",
-          "url": "https://open.spotify.com/artist/1FxIcBfjDuzMHpyFkmq1D0"
-        }
-      ],
-      "duration_ms": 231199,
-      "name": "Yamma Ghajini",
-      "url": "https://open.spotify.com/track/3SUZCfLeWOokGjx1RbkjNf"
     },
     {
       "added_at": "2026-03-09 12:13:16",

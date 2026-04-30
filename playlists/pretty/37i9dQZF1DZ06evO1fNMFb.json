@@ -6,28 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae6nAAAAAAAUB9gqAt90t/Ocz06CpVpG",
+  "snapshot_id": "ae/4gAAAAADCJ8v/TrWQcjtDhiQ8K5ia",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kissing Mouths",
-        "url": "https://open.spotify.com/album/3yROkD3HX0bwrEkVtHcPzJ"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        },
-        {
-          "name": "Not Famous",
-          "url": "https://open.spotify.com/artist/2iKfppgaY3Er8HpZWh4rBt"
-        }
-      ],
-      "duration_ms": 164819,
-      "name": "Kissing Mouths",
-      "url": "https://open.spotify.com/track/2ahVlPHe8XlXKFjL2zZLPD"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 152325,
       "name": "World Go Round",
       "url": "https://open.spotify.com/track/2ReI2xfSzQ31zxNHcMDSPP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kissing Mouths",
+        "url": "https://open.spotify.com/album/3yROkD3HX0bwrEkVtHcPzJ"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        },
+        {
+          "name": "Not Famous",
+          "url": "https://open.spotify.com/artist/2iKfppgaY3Er8HpZWh4rBt"
+        }
+      ],
+      "duration_ms": 164819,
+      "name": "Kissing Mouths",
+      "url": "https://open.spotify.com/track/2ahVlPHe8XlXKFjL2zZLPD"
     },
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nautanki",
+        "url": "https://open.spotify.com/album/2K5wWX8prJG98gdA5fgITA"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 161993,
+      "name": "Nautanki",
+      "url": "https://open.spotify.com/track/7Fvcb6tJ3SDyi8KNCa9cRC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wedding Season (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/3SXe7OIHWx0VnxugqYMiFv"
       },
@@ -283,18 +299,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nautanki",
-        "url": "https://open.spotify.com/album/2K5wWX8prJG98gdA5fgITA"
+        "name": "Four More Shots Please! (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/5tPTepsnKKIx3wFoqX3dxt"
       },
       "artists": [
+        {
+          "name": "Pinky Maidasani",
+          "url": "https://open.spotify.com/artist/2umaOFeLVYvdsDfmhhlmuf"
+        },
         {
           "name": "Natania",
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 161993,
-      "name": "Nautanki",
-      "url": "https://open.spotify.com/track/7Fvcb6tJ3SDyi8KNCa9cRC"
+      "duration_ms": 127142,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/0j4LCT2EV0rDKBE9Qp34o2"
     },
     {
       "added_at": null,
@@ -331,26 +351,6 @@
       "duration_ms": 173222,
       "name": "Senti",
       "url": "https://open.spotify.com/track/6xaOFO19zFLxW4KUFz28qa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Four More Shots Please! (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/5tPTepsnKKIx3wFoqX3dxt"
-      },
-      "artists": [
-        {
-          "name": "Pinky Maidasani",
-          "url": "https://open.spotify.com/artist/2umaOFeLVYvdsDfmhhlmuf"
-        },
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 127142,
-      "name": "Turn It Up",
-      "url": "https://open.spotify.com/track/0j4LCT2EV0rDKBE9Qp34o2"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Know It All",
-        "url": "https://open.spotify.com/album/7LNpTOGheoilpLN4ZwfLEU"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 263575,
-      "name": "Know It All",
-      "url": "https://open.spotify.com/track/3Cz2bZfizFW0U8cx6t1wvh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sad",
         "url": "https://open.spotify.com/album/1X3TTW5hNV7A0gJaBGzpMB"
       },
@@ -703,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pick It Up",
-        "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
+        "name": "Know It All",
+        "url": "https://open.spotify.com/album/7LNpTOGheoilpLN4ZwfLEU"
       },
       "artists": [
         {
@@ -712,9 +696,29 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 147967,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/6IHFvyAoX5nOOYXM4UgJw4"
+      "duration_ms": 263575,
+      "name": "Know It All",
+      "url": "https://open.spotify.com/track/3Cz2bZfizFW0U8cx6t1wvh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "King Of The Jungle",
+        "url": "https://open.spotify.com/album/1johgvxYoiec7sJ2fJfAkb"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        },
+        {
+          "name": "David Arkwright",
+          "url": "https://open.spotify.com/artist/6tycTl3BdncKN9ubgueSeu"
+        }
+      ],
+      "duration_ms": 160434,
+      "name": "King Of The Jungle",
+      "url": "https://open.spotify.com/track/4wIf7JumiBvOO6ovqXd1oZ"
     },
     {
       "added_at": null,
@@ -747,42 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/0WvjvqCSR2kLQPRm7q6lDw"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/0FY8cOuPMXEjys4gyapW1Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "King Of The Jungle",
-        "url": "https://open.spotify.com/album/1johgvxYoiec7sJ2fJfAkb"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        },
-        {
-          "name": "David Arkwright",
-          "url": "https://open.spotify.com/artist/6tycTl3BdncKN9ubgueSeu"
-        }
-      ],
-      "duration_ms": 160434,
-      "name": "King Of The Jungle",
-      "url": "https://open.spotify.com/track/4wIf7JumiBvOO6ovqXd1oZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Talking",
         "url": "https://open.spotify.com/album/5GRJMxiasbJCbqANAKBlSY"
       },
@@ -795,6 +763,38 @@
       "duration_ms": 184080,
       "name": "Talking",
       "url": "https://open.spotify.com/track/7DH7GCOG8SKKKp6LKkKaYz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pick It Up",
+        "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 147967,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/6IHFvyAoX5nOOYXM4UgJw4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/0WvjvqCSR2kLQPRm7q6lDw"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/0FY8cOuPMXEjys4gyapW1Q"
     },
     {
       "added_at": null,
@@ -911,22 +911,6 @@
       "duration_ms": 156686,
       "name": "Get Together",
       "url": "https://open.spotify.com/track/4koHShRkiVWXavKjkSyxXQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 179224,
-      "name": "Yay Yay Yay",
-      "url": "https://open.spotify.com/track/4XcHes4yJeduDIh6ndkHq6"
     }
   ],
   "unique_name": "This Is Natania",

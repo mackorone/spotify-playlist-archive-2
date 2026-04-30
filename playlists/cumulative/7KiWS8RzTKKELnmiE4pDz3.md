@@ -4,7 +4,7 @@
 
 > 
 
-1,443 songs - 3 day 4 hr 45 min
+1,444 songs - 3 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Crunch Time](https://open.spotify.com/track/3xnbJVx4QqsOYip8Cn6OrN) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Crunch Time](https://open.spotify.com/album/6ONa9tLkPc0Unfj273RsAW) | 3:53 | 2023-02-06 | 2023-04-12 |
 | [Crushed Up](https://open.spotify.com/track/7wcyO1rrH3Ru4t659IjG41) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:29 | 2024-12-11 | 2025-05-21 |
 | [Cup Fulla Beetlejuice](https://open.spotify.com/track/1LtUQEcqGcoRRBT4XCpNM6) | [Lil Ugly Mane](https://open.spotify.com/artist/2gPLG9mGaU67woC5L0luYA) | [Mista Thug Isolation](https://open.spotify.com/album/6VNXIYzXocTyZMNDLG88Gb) | 3:30 | 2026-02-17 |  |
+| [Cut Back](https://open.spotify.com/track/72R3P7eRAsJQpiaS9rV4XX) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Mental Trillness 2](https://open.spotify.com/album/4jKe82uh1vvZHkd2WuN1WG) | 2:27 | 2026-04-30 |  |
 | [Cut the Check \(feat\. Chief Keef\)](https://open.spotify.com/track/6U1ueRYXTjFHuJ9Ld2LBIW) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 2:50 | 2025-01-29 | 2026-02-08 |
 | [Da Graveyard](https://open.spotify.com/track/04Rz403IY7QUqgfrTWX6OU) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM) | [Lifestylez Ov Da Poor & Dangerous](https://open.spotify.com/album/7xvBUHu5jJ7X0wdRHudLFD) | 5:23 | 2025-12-03 | 2026-03-08 |
 | [Daddy Kane \(feat\. Action Bronson\)](https://open.spotify.com/track/5e6EI6FnKVBvM3i8mZsLRU) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [The Elephant Man's Bones](https://open.spotify.com/album/3Kkrsa5dgEgl2fYyO51EEf) | 2:54 | 2026-02-07 |  |
@@ -1373,7 +1374,7 @@
 | [Wake Up](https://open.spotify.com/track/5rfMpJorQrwpvCOfDM7Q5L) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Wake Up](https://open.spotify.com/album/0A94MKet60d5HhzN0vSGDm) | 1:52 | 2023-04-05 | 2025-05-21 |
 | [Walk In Faith](https://open.spotify.com/track/6DmE1MkutuNgNZN72bF4Px) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [GOLDFISH](https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g) | 2:43 | 2026-03-07 | 2026-03-18 |
 | [Walk On By](https://open.spotify.com/track/6fkL9CjWmjeV6vfDxTp9OZ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:19 | 2024-05-23 | 2025-05-21 |
-| [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 | 2022-06-26 | 2024-11-06 |
+| [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 | 2022-06-26 |  |
 | [Walnut Grove](https://open.spotify.com/track/2WHhenw4jhle7mtCGK0WWy) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Criminally Attached](https://open.spotify.com/album/1StqUa5W8ZyphBT3GHQBHs) | 2:51 | 2026-03-05 |  |
 | [Wanderer \(feat\. Tay Walker\)](https://open.spotify.com/track/7KoX0myQwA6dc6yCX8R1wS) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [Tay Walker](https://open.spotify.com/artist/31RaitnNW0bVhYgLl01rRw) | [Genesis](https://open.spotify.com/album/3mhZHDmHvIUAeAYH7MrXBW) | 2:54 | 2023-10-26 | 2024-04-24 |
 | [Wanna Be The Goat](https://open.spotify.com/track/1wYjNgCPqF1Ze5v8MfUtUc) | [Izaya Tiji Archive](https://open.spotify.com/artist/6f84QAdro9etUHHnUWgvAL) | [Wanna Be The Goat](https://open.spotify.com/album/3o6EBePKAZjyr774l0ioC3) | 3:05 | 2023-02-09 | 2023-05-09 |

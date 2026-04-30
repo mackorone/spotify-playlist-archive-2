@@ -2,9 +2,9 @@
 
 ### [She Rocks](https://open.spotify.com/playlist/37i9dQZF1DX59CyY8YTix2)
 
-> 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: Sundae May Club
+> 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ブランデー戦記
 
-2,031 songs - 5 day 5 hr 46 min
+2,033 songs - 5 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1028,7 +1028,7 @@
 | [あの笑み \(feat\. ano\)](https://open.spotify.com/track/3ZV2Ikfk9eGJbPZLqLjgQy) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [あの笑み \(feat\. ano\)](https://open.spotify.com/album/1QuHCYOQRcHOfCROj1FrkV) | 4:50 | 2022-06-21 | 2022-06-29 |
 | [あばよ、](https://open.spotify.com/track/2EmNn0bH0C8YN0e6Hei0nT) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [日日爛漫](https://open.spotify.com/album/45sqLJokVzE6iKntXyfHxM) | 4:23 | 2022-06-02 | 2022-06-19 |
 | [あふれる](https://open.spotify.com/track/02f1DFPiEj3FGwv1YgAPSF) | [the pullovers](https://open.spotify.com/artist/4DD2vjKX6FOZPgE0WbedXu) | [あふれる](https://open.spotify.com/album/1dSOQeJTUPMvqXhM3jNvAG) | 5:15 | 2022-06-30 | 2022-07-03 |
-| [あむりた](https://open.spotify.com/track/1A1kuWhja283UavUrcwc4l) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [あむりた](https://open.spotify.com/album/2qaI39PDmsIbE4p62Tl3eC) | 4:00 | 2026-02-10 |  |
+| [あむりた](https://open.spotify.com/track/1A1kuWhja283UavUrcwc4l) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [あむりた](https://open.spotify.com/album/2qaI39PDmsIbE4p62Tl3eC) | 4:00 | 2026-02-10 | 2026-04-30 |
 | [ある夏の記録](https://open.spotify.com/track/2cRAbQKSmwpDBWk1k6iCzU) | [kittone](https://open.spotify.com/artist/39TN8EVF4BTFRW6tSN38js) | [ある夏の記録](https://open.spotify.com/album/2flAmkwxY2hg2mZ6elCFhE) | 3:03 | 2023-09-05 | 2023-09-13 |
 | [ある夏の記録](https://open.spotify.com/track/5s5uO2dBoYA8MiFAYmNtJJ) | [kittone](https://open.spotify.com/artist/39TN8EVF4BTFRW6tSN38js) | [ある夏の記録](https://open.spotify.com/album/4qINgkQDfjk1a9SNffeh7M) | 3:03 | 2023-09-05 | 2023-09-07 |
 | [いいことばっかじゃない世界](https://open.spotify.com/track/1sJ4u2Y4LIJXee7KVpZmlK) | [やましたりな](https://open.spotify.com/artist/1O235Li0262kkP7gfP6B5W) | [ね。](https://open.spotify.com/album/5ckW9J8cmXzEWv2gzPEdrQ) | 4:31 | 2023-12-12 | 2023-12-14 |
@@ -1145,6 +1145,7 @@
 | [め](https://open.spotify.com/track/0i5XBuAgDeGOH69pStboEW) | [ニューヤナセ](https://open.spotify.com/artist/4JyYJ2F9QIGXEE0j8bWepn) | [め](https://open.spotify.com/album/155FtxCoW6Go9Dl3NywQ6L) | 4:12 | 2022-06-07 | 2022-07-12 |
 | [めちゃポップ](https://open.spotify.com/track/52PMjLS9Em5sHsqklGPyzs) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [めちゃポップ](https://open.spotify.com/album/7p84GlLOFRtbcK3kxL4t4C) | 3:03 | 2022-05-26 | 2022-07-21 |
 | [めっちゃ走れ！リンネ](https://open.spotify.com/track/7ot1zXqjNccKV3whRINMPd) | [輪廻](https://open.spotify.com/artist/3KePD29FOQughZmXqHlt0v) | [めっちゃ走れ！リンネ](https://open.spotify.com/album/3e9yIJBmK8QdYDazSVw1qV) | 1:34 | 2023-10-19 | 2023-10-25 |
+| [もういらない](https://open.spotify.com/track/6OCA8XsHPechSuoniPVw2R) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [もういらない](https://open.spotify.com/album/206ZAfWibaoGfkQ6sJwoSa) | 3:05 | 2026-04-29 |  |
 | [もしも](https://open.spotify.com/track/6xjv5IO0w8RI0WxuyLgXTT) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [かけがえなくなりたい](https://open.spotify.com/album/3CXoNGReKnWAudiXJwKALd) | 5:40 | 2022-06-14 | 2022-07-12 |
 | [もっと](https://open.spotify.com/track/14scjle0gHsjlujD10AliV) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [もっと](https://open.spotify.com/album/6cNBLzQoV9126uS2B0sPRB) | 4:09 | 2024-01-31 | 2024-02-28 |
 | [やさしい怪物 feat\. 泣き虫](https://open.spotify.com/track/57RVe3PQDsOZHAIzVmwB3G) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3), [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [やさしい怪物 feat\. 泣き虫](https://open.spotify.com/album/3vggBvyxFXRR6xCnkRxmRR) | 3:05 | 2022-05-31 | 2022-08-18 |
@@ -1886,6 +1887,7 @@
 | [神様](https://open.spotify.com/track/4I2UHDCZ6zLFWZibJ4mJyU) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [神様](https://open.spotify.com/album/2NuDontJsYWA564Lf7xixc) | 3:27 | 2024-05-14 | 2024-07-10 |
 | [祥月](https://open.spotify.com/track/7pw4Ae2KKbwo86OPbrm7i8) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [祥月](https://open.spotify.com/album/65J8BQK0PRT8qmqZdz53Hz) | 4:17 | 2022-06-02 | 2022-06-28 |
 | [私たちってかわいそう?](https://open.spotify.com/track/2fpBndy4bPFRPTJxBmmQ7l) | [ゆ～すほすてる](https://open.spotify.com/artist/3EI9Wy1WFeNy9dbZofQeKW) | [私たちってかわいそう?](https://open.spotify.com/album/1RNTBlSFkj1JAcS4GOY4Bj) | 3:58 | 2022-06-14 | 2022-06-29 |
+| [私のせい](https://open.spotify.com/track/2rkhSjcltiu3GJbCXjzn9R) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [私のせい](https://open.spotify.com/album/04N019PUCHhACgfNRby6tg) | 3:05 | 2026-04-29 |  |
 | [私のままで](https://open.spotify.com/track/5yd9B49JLpmQls6NZmvXaI) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [私のままで](https://open.spotify.com/album/1Z9No1qDbse2a6n5rCAl7B) | 4:15 | 2023-10-12 | 2024-08-19 |
 | [私の真心](https://open.spotify.com/track/5ZZzoCTdBPAMog1IyljHac) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [私の真心](https://open.spotify.com/album/0MGw3b3E2012pYRo0Rh94F) | 7:01 | 2022-06-07 | 2022-07-25 |
 | [私はパイロット](https://open.spotify.com/track/19AD6qG2w2Q1F3o9mSYWUr) | [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM) | [私はパイロット](https://open.spotify.com/album/6rL4ryT45soK6lZVw4BCaw) | 4:17 | 2024-04-09 | 2024-04-24 |
@@ -2037,7 +2039,7 @@
 | [魔王様](https://open.spotify.com/track/66DYdcpqt9M0HStiJDMR2V) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [DOKI](https://open.spotify.com/album/7p0YAxcwl70MPrzlraOSE5) | 3:25 | 2024-02-13 | 2024-02-15 |
 | [魚を追いかけて](https://open.spotify.com/track/3rOmeh2KOIvbEGGBQKm15W) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [魚を追いかけて](https://open.spotify.com/album/0BIQ7RwLDzgYhpWNMc0we2) | 3:58 | 2024-01-16 | 2024-02-28 |
 | [鴉](https://open.spotify.com/track/0rHkKHRpSiaXf2VYoToWOE) | [epi frag beater](https://open.spotify.com/artist/4wD8Ve8rKZfQKeAp9OVqvq), [Auver Ride](https://open.spotify.com/artist/3u2aMivIT0Drja3c81CWgb) | [epi frag beater](https://open.spotify.com/album/3heXw8x4LVyEHHVyCdGIHD) | 3:52 | 2024-06-12 | 2024-06-19 |
-| [黄色い](https://open.spotify.com/track/2Pzo1bYmtWfAVcPHUD6Ypm) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [なんてHAPPY LUCKY](https://open.spotify.com/album/1NTvfq8M9U8vEBmY0rQwo3) | 2:14 | 2026-04-21 |  |
+| [黄色い](https://open.spotify.com/track/2Pzo1bYmtWfAVcPHUD6Ypm) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [なんてHAPPY LUCKY](https://open.spotify.com/album/1NTvfq8M9U8vEBmY0rQwo3) | 2:14 | 2026-04-21 | 2026-04-30 |
 | [２〇４５](https://open.spotify.com/track/6DsWs6Mx0A4LiT4GGqbvrk) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [２〇４５](https://open.spotify.com/album/3kAV4Hr5QkeWMWgcq2U6pU) | 3:41 | 2023-05-18 | 2024-01-10 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

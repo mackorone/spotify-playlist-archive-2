@@ -19087,6 +19087,28 @@
     },
     {
       "album": {
+        "name": "Secret For You",
+        "url": "https://open.spotify.com/album/5LTh8DfneuDw0kuA4gWzDz"
+      },
+      "artists": [
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        },
+        {
+          "name": "Molly Morgan",
+          "url": "https://open.spotify.com/artist/41tjMmR8CEbGeTGA4t7kZh"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "Secret For You",
+      "url": "https://open.spotify.com/track/1P1CCxAlgAI2ugYphI7P36"
+    },
+    {
+      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/37sG0du7RSmjM8VMg9E6NR"
       },

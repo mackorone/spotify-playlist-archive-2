@@ -1,6 +1,6 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 811807,
+  "num_followers": 811863,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
+        "name": "Salt For Salt",
+        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 198132,
+      "name": "Chairkickers",
+      "url": "https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
         "name": "Six Shades of Grey",
         "url": "https://open.spotify.com/album/2gZyv5yJdXHkZppvO6k8l9"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 180253,
       "name": "Moving",
       "url": "https://open.spotify.com/track/5HAfUxI8HS1V3cvuiEBSyc"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
-        "name": "Salt For Salt",
-        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 198132,
-      "name": "Chairkickers",
-      "url": "https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Devil Don't You Fool Me",
-        "url": "https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY"
-      },
-      "artists": [
-        {
-          "name": "Josh Farrow",
-          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
-        }
-      ],
-      "duration_ms": 170985,
-      "name": "Devil Don't You Fool Me",
-      "url": "https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "Nothing But The Water",
         "url": "https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
+        "name": "Devil Don't You Fool Me",
+        "url": "https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY"
+      },
+      "artists": [
+        {
+          "name": "Josh Farrow",
+          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
+        }
+      ],
+      "duration_ms": 170985,
+      "name": "Devil Don't You Fool Me",
+      "url": "https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
         "name": "Magnolia Blues",
         "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
       },
@@ -827,18 +827,18 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Lungs",
-        "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
+        "name": "Crisscross Way",
+        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
       },
       "artists": [
         {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+          "name": "ggwendolyn",
+          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
         }
       ],
-      "duration_ms": 177359,
-      "name": "Lungs",
-      "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
+      "duration_ms": 164344,
+      "name": "Crisscross Way",
+      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -855,6 +855,22 @@
       "duration_ms": 190946,
       "name": "Get What You Give",
       "url": "https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "Lungs",
+        "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "duration_ms": 177359,
+      "name": "Lungs",
+      "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -887,22 +903,6 @@
       "duration_ms": 220626,
       "name": "Psalms",
       "url": "https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
-        "name": "Crisscross Way",
-        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
-      },
-      "artists": [
-        {
-          "name": "ggwendolyn",
-          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
-        }
-      ],
-      "duration_ms": 164344,
-      "name": "Crisscross Way",
-      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
-        "name": "Black Dog Sin",
-        "url": "https://open.spotify.com/album/1nRFcm0e5wDmejKX2HgQhB"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Black Dog Sin",
-      "url": "https://open.spotify.com/track/7h0TNtloK2rFT1DwErSbYn"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
         "name": "Underneath the Blood Moon",
         "url": "https://open.spotify.com/album/0wSfaQBd6ihGGQjGNCza3B"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 270733,
       "name": "Underneath the Blood Moon",
       "url": "https://open.spotify.com/track/76JVAMWG968qRkbccq6ziq"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
+        "name": "Black Dog Sin",
+        "url": "https://open.spotify.com/album/1nRFcm0e5wDmejKX2HgQhB"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Black Dog Sin",
+      "url": "https://open.spotify.com/track/7h0TNtloK2rFT1DwErSbYn"
     },
     {
       "added_at": "2026-03-27 00:00:34",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-03-27 00:00:34",
       "album": {
+        "name": "Elizabeth",
+        "url": "https://open.spotify.com/album/3SiCJvdGlxuWbmTsbOVqCU"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+        }
+      ],
+      "duration_ms": 241225,
+      "name": "Elizabeth",
+      "url": "https://open.spotify.com/track/2j8wfpQL2zw7oTSVU9kQT9"
+    },
+    {
+      "added_at": "2026-03-27 00:00:34",
+      "album": {
         "name": "Daughter, Daughter",
         "url": "https://open.spotify.com/album/0OaUiE3t8fSKBr0yJva0vw"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 203546,
       "name": "Country Blues",
       "url": "https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk"
-    },
-    {
-      "added_at": "2026-03-27 00:00:34",
-      "album": {
-        "name": "Elizabeth",
-        "url": "https://open.spotify.com/album/3SiCJvdGlxuWbmTsbOVqCU"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Dakota Rogers",
-          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
-        }
-      ],
-      "duration_ms": 241225,
-      "name": "Elizabeth",
-      "url": "https://open.spotify.com/track/2j8wfpQL2zw7oTSVU9kQT9"
     },
     {
       "added_at": "2026-03-27 00:00:34",

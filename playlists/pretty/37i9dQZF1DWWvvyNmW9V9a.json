@@ -1,13 +1,29 @@
 {
   "description": "all the girls are girling ",
-  "num_followers": 2093636,
+  "num_followers": 2093491,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA0CvuxH4hEVbpFVbd6e9uBfG7uZ",
+  "snapshot_id": "AAAAABWvh5CvAaeTvtVKGkuIsCUDW79Y",
   "tracks": [
+    {
+      "added_at": "2026-04-29 18:14:47",
+      "album": {
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231475,
+      "name": "High Infidelity",
+      "url": "https://open.spotify.com/track/5kiZGSxgqPdv6rbqL9THdd"
+    },
     {
       "added_at": "2026-04-17 04:03:18",
       "album": {

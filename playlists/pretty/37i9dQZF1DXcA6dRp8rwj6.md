@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Sexyy Red\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,681 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,684 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 8 | [All Or Nothing](https://open.spotify.com/track/6uCgKChOCSxUBaF7fDClCm) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [ii Deluxe](https://open.spotify.com/album/5tkk6blswX94OQAHrhIePj) | 1:27 |
 | 9 | [FATHER \(feat\. Travis Scott\)](https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 2:49 |
 | 10 | [TEACH YOU HOW TO LUH ME](https://open.spotify.com/track/6AwyXLzD18HptZPpbhrssp) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [TEACH YOU HOW TO LUH ME](https://open.spotify.com/album/7DQF3OuLxkjvqDvzS1tBM5) | 4:00 |
-| 11 | [You're So Fine](https://open.spotify.com/track/5WxYKs3nb6TGa8kThH4eAJ) | [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [LIVE FAST DIE SKRT](https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR) | 3:45 |
+| 11 | [You're So Fine](https://open.spotify.com/track/5WxYKs3nb6TGa8kThH4eAJ) | [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [LIVE FAST DIE SKRT](https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR) | 3:47 |
 | 12 | [Members](https://open.spotify.com/track/0dNbwNi4BO93dZ6hpAOvXn) | [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Twoske](https://open.spotify.com/artist/2Uklp9BLUx4cJokqYUwCOr) | [Cheat Code](https://open.spotify.com/album/6By6odNPMnLytSBQOIIwXj) | 3:07 |
 | 13 | [Drugs Talkin'](https://open.spotify.com/track/736yvMjEoSfsnxPzZkBu3m) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [Drugs Talkin'](https://open.spotify.com/album/38grtd2nRRsyL4PCBW38id) | 2:03 |
 | 14 | [アニョハセヨ \- BLASÉ Remix](https://open.spotify.com/track/2dtTmml5dKH1ynlfrSOjuj) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [アニョハセヨ \(BLASÉ Remix\)](https://open.spotify.com/album/6mGx3nXpDX7bWAEqjF5n0E) | 1:56 |

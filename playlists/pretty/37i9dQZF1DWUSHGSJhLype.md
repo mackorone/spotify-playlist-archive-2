@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Léo Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,477 likes - 84 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,459 likes - 85 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 80 | [QUERO VER SE VOCÊ TEM ATITUDE](https://open.spotify.com/track/4PDw1XpsurgUnN7YSZmh1Q) | [Dj Luan Gomes](https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS) | [QUERO VER SE VOCÊ TEM ATITUDE](https://open.spotify.com/album/7ouR6mhMMrCZuv5qCv6ooT) | 1:57 |
 | 81 | [Queria Ser Tu / Interfone \- Ao Vivo](https://open.spotify.com/track/1XX75jl3CKMTnKhq1nyngg) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi) | 3:15 |
 | 82 | [Minha Mãe Que É Minha Mãe \- Ao Vivo](https://open.spotify.com/track/4kYeziQCH1nZasBMEVJVDF) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Nattan In Vegas \(Ao Vivo\)](https://open.spotify.com/album/37XQXzkEdlJ8Tr8FjQv4hW) | 2:12 |
-| 83 | [Tarde Demais / Mágica / Oh! Chuva \- Ao Vivo](https://open.spotify.com/track/6ES4FEVuh4Fpj67wrFF8VC) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/3BWsyPjsCct9aqTtuu09dS) | 4:26 |
-| 84 | [Champanhe \- Ao Vivo](https://open.spotify.com/track/5v747rXdm2NzkchPoMjb2U) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/3UPm3oi5dO7mFqjpMCMk8Y) | 2:27 |
+| 83 | [Aproveita Que Eu Tô Brigado \- Ao Vivo](https://open.spotify.com/track/6bpIrlJ06Fb6amL5M9djmi) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Paredão do Nattan \(Ao Vivo Em Fortaleza\)](https://open.spotify.com/album/42CsFg3kxKccXG5YONxcaS) | 2:36 |
+| 84 | [Tarde Demais / Mágica / Oh! Chuva \- Ao Vivo](https://open.spotify.com/track/6ES4FEVuh4Fpj67wrFF8VC) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/3BWsyPjsCct9aqTtuu09dS) | 4:26 |
+| 85 | [Champanhe \- Ao Vivo](https://open.spotify.com/track/5v747rXdm2NzkchPoMjb2U) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/3UPm3oi5dO7mFqjpMCMk8Y) | 2:27 |
 
-Snapshot ID: `AAAAAJslhB7qZSJWlv5Lo5D4pSjrd5Bd`
+Snapshot ID: `AAAAAFhVl6Tvr+8TFOVTGwhwWLxLJDpB`

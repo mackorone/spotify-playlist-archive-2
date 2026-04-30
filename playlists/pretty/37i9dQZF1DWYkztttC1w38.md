@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 
 > Soothing classical music to help you relax while you read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,759 likes - 86 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,812 likes - 86 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 | 24 | [Mélancolie, FP 105](https://open.spotify.com/track/3bIVr7XTn1qmYmXNoBh9oA) | [Francis Poulenc](https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY), [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | [Stephen Hough's French Album](https://open.spotify.com/album/5A7UWQE4NG1cv0tT14uVS4) | 5:40 |
 | 25 | [Plus tôt \(String Quartet Version\) \- Spotify Singles](https://open.spotify.com/track/6ZysJ6PE8La1gj5LXh6DJw) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Spotify Singles](https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI) | 3:53 |
 | 26 | [Limu, limu, lima \(Arr\. Schindler for Piano\)](https://open.spotify.com/track/1ZpnptUG5sISwRx6fJQrXN) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 5:35 |
-| 27 | [Rêverie, L\. 68: Rêverie](https://open.spotify.com/track/43bSKCMWHIuBsUVmQcDX1J) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Debussy Piano Edition](https://open.spotify.com/album/7qdNpLxZ5eazTHCYu0Ssxz) | 4:17 |
+| 27 | [Rêverie, CD 76](https://open.spotify.com/track/43bSKCMWHIuBsUVmQcDX1J) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Debussy Piano Edition](https://open.spotify.com/album/7qdNpLxZ5eazTHCYu0Ssxz) | 4:17 |
 | 28 | [The Turning Year](https://open.spotify.com/track/53sR7EKIy3Yc2a3xPXMz9h) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Scoring Berlin](https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke) | [The Turning Year](https://open.spotify.com/album/7qIBorzIVw58P2LWsSVqLX) | 2:40 |
 | 29 | [An die Musik, D\. 547 \(Arr\. Moore\)](https://open.spotify.com/track/5UkZhecCO5hmKz2KsiiIg0) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Angela Hewitt](https://open.spotify.com/artist/3KtQFp8FUbQMx3bLNKCw3R) | [Love Songs \- Piano Transcriptions Without Words](https://open.spotify.com/album/16zfntcR7VAJWn9Ovooo1w) | 2:44 |
 | 30 | [Dances for Harp and Orchestra, L\. 103: 2\. Danse profane](https://open.spotify.com/track/3qzNMOAMWvzMtl3aPv9rOB) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp), [Amsterdam Sinfonietta](https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD) | [Voyage](https://open.spotify.com/album/6Y5xtNCiofbRSa3E4nDQxi) | 4:39 |

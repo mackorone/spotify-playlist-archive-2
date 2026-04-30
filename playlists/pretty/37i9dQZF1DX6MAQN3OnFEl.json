@@ -1,6 +1,6 @@
 {
   "description": "On October 3rd he asked me what day it was",
-  "num_followers": 611031,
+  "num_followers": 611166,
   "original_name": "y2k",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "The Emancipation of Mimi",
-        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "We Belong Together",
-      "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "Jackpot",
         "url": "https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 250746,
       "name": "Right Thurr",
       "url": "https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "The Emancipation of Mimi",
+        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/2zfZe8P8jg53kZaAfCdBYs"
+        "name": "Greetings From Imrie House (U.S. Version)",
+        "url": "https://open.spotify.com/album/7gZilZGYr8M7UwEeYvdAKZ"
       },
       "artists": [
         {
-          "name": "Hilary Duff",
-          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+          "name": "The Click Five",
+          "url": "https://open.spotify.com/artist/01lz5VBfkMFDteSA9pKJuP"
         }
       ],
-      "duration_ms": 215333,
-      "name": "So Yesterday",
-      "url": "https://open.spotify.com/track/0J1Wfjo9H3R62yaCuuNDZX"
+      "duration_ms": 234146,
+      "name": "Just the Girl",
+      "url": "https://open.spotify.com/track/1JURww012QnWAw0zZXi6Aa"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Greetings From Imrie House (U.S. Version)",
-        "url": "https://open.spotify.com/album/7gZilZGYr8M7UwEeYvdAKZ"
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/2zfZe8P8jg53kZaAfCdBYs"
       },
       "artists": [
         {
-          "name": "The Click Five",
-          "url": "https://open.spotify.com/artist/01lz5VBfkMFDteSA9pKJuP"
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
         }
       ],
-      "duration_ms": 234146,
-      "name": "Just the Girl",
-      "url": "https://open.spotify.com/track/1JURww012QnWAw0zZXi6Aa"
+      "duration_ms": 215333,
+      "name": "So Yesterday",
+      "url": "https://open.spotify.com/track/0J1Wfjo9H3R62yaCuuNDZX"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Release Therapy",
-        "url": "https://open.spotify.com/album/77u9Ndnhi4raBZfnl22Jzg"
-      },
-      "artists": [
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 230613,
-      "name": "Money Maker",
-      "url": "https://open.spotify.com/track/2JpUkUR0OsOlUUfm6iS8ic"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "Rock Steady (Expanded Edition)",
         "url": "https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 207040,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/2QsoVMTKj5m5kgztTOep98"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "Release Therapy",
+        "url": "https://open.spotify.com/album/77u9Ndnhi4raBZfnl22Jzg"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 230613,
+      "name": "Money Maker",
+      "url": "https://open.spotify.com/track/2JpUkUR0OsOlUUfm6iS8ic"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Celebrity",
-        "url": "https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 238426,
-      "name": "Pop",
-      "url": "https://open.spotify.com/track/0Jc8qF1mUPo1A96HE9QxZz"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "Fever (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2QDWFfsBr3EngvBwPtxoIY"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 230640,
       "name": "Can't Get You out of My Head",
       "url": "https://open.spotify.com/track/7MoKXLQeI0Bh2QodCjDO4K"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "Celebrity",
+        "url": "https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 238426,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/0Jc8qF1mUPo1A96HE9QxZz"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "S Club",
-        "url": "https://open.spotify.com/album/6Aw5MrjWmWcjECqpsp1Fz5"
-      },
-      "artists": [
-        {
-          "name": "S Club",
-          "url": "https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "S Club Party",
-      "url": "https://open.spotify.com/track/21ixeD8mGouF993kgb4MER"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "Legally Blonde",
         "url": "https://open.spotify.com/album/4ahahKSnwRkqMcJrC8uguE"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 206666,
       "name": "Perfect Day - Chris Lord Alge Mix",
       "url": "https://open.spotify.com/track/0frKt739Ov9vvKS3JRu5Vi"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "S Club",
+        "url": "https://open.spotify.com/album/6Aw5MrjWmWcjECqpsp1Fz5"
+      },
+      "artists": [
+        {
+          "name": "S Club",
+          "url": "https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "S Club Party",
+      "url": "https://open.spotify.com/track/21ixeD8mGouF993kgb4MER"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "3LW",
-        "url": "https://open.spotify.com/album/7l1ra4zaCXyfr4yTby63t7"
-      },
-      "artists": [
-        {
-          "name": "3LW",
-          "url": "https://open.spotify.com/artist/2lFHVcUeJ9Gq6AZiU3ZAOa"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "No More (Baby I'ma Do Right)",
-      "url": "https://open.spotify.com/track/5zn1hpm9N0ylKB7kOtpCw2"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "Planet Pop",
         "url": "https://open.spotify.com/album/42VmhABPuAF8lb26CHUFIl"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 215506,
       "name": "Around the World (La La La La La)",
       "url": "https://open.spotify.com/track/6inVHhmG2qEhwFR2eiWXjH"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "3LW",
+        "url": "https://open.spotify.com/album/7l1ra4zaCXyfr4yTby63t7"
+      },
+      "artists": [
+        {
+          "name": "3LW",
+          "url": "https://open.spotify.com/artist/2lFHVcUeJ9Gq6AZiU3ZAOa"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "No More (Baby I'ma Do Right)",
+      "url": "https://open.spotify.com/track/5zn1hpm9N0ylKB7kOtpCw2"
     },
     {
       "added_at": "2024-07-12 21:13:59",

@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c9liane Radigue. The essential tracks, all in one playlist.",
-  "num_followers": 395,
+  "num_followers": 394,
   "original_name": "This Is \u00c9liane Radigue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae6nAAAAAAC/wm2OuS+DzjYoMsf+ym/K",
+  "snapshot_id": "ae/4gAAAAADLeXkSqeScOFZY69yDVmLK",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 58000,
-      "name": "Perception par l'auditeur",
-      "url": "https://open.spotify.com/track/5E215k1evgzekQVh0nCiBA"
+      "duration_ms": 100019,
+      "name": "Le reflet",
+      "url": "https://open.spotify.com/track/6DxYjk3VnYEKOzNgyi7cXc"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 100019,
-      "name": "Le reflet",
-      "url": "https://open.spotify.com/track/6DxYjk3VnYEKOzNgyi7cXc"
+      "duration_ms": 58000,
+      "name": "Perception par l'auditeur",
+      "url": "https://open.spotify.com/track/5E215k1evgzekQVh0nCiBA"
     },
     {
       "added_at": null,

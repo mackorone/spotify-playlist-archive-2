@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a> 🌗 featuring Fabian Mazur & Snavs
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,511 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,526 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 45 | [Thru My Mind](https://open.spotify.com/track/2IOkHMQbAuAxcH6SqCqm1w) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Thru My Mind](https://open.spotify.com/album/2wn0WWrngnyfe5e0vy0h7D) | 2:31 |
 | 46 | [Free](https://open.spotify.com/track/1eGJxyyyQn4s8NVLLtkNkm) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [ZOHARA](https://open.spotify.com/artist/2JfoFQs5wPHgLz8wnJ4wL2) | [Free](https://open.spotify.com/album/1zVywztGQJXkOlWgmLNrsl) | 3:56 |
 | 47 | [2 u](https://open.spotify.com/track/5bx9sEQYEJ1thvxHhq7uLB) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [2 u](https://open.spotify.com/album/2cqdDAdGDlpBV2guQtg9Bw) | 2:16 |
-| 48 | [Where's My Mind](https://open.spotify.com/track/04EWrxHR0sAUyVZkWoHTH1) | [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Where's My Mind](https://open.spotify.com/album/4zaxvkGuzJ7VqrHZBLY1wj) | 2:16 |
+| 48 | [Where's My Mind](https://open.spotify.com/track/04EWrxHR0sAUyVZkWoHTH1) | [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa), [GGL Music Group](https://open.spotify.com/artist/4FBtwaYlP86hGtmJ7nDldP) | [Where's My Mind](https://open.spotify.com/album/4zaxvkGuzJ7VqrHZBLY1wj) | 2:16 |
 | 49 | [GET WHAT I WANT](https://open.spotify.com/track/4g5eIUBlJu0kDKoczE8fsW) | [MAYV](https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt) | [GET WHAT I WANT](https://open.spotify.com/album/1KsJR6P8hrNrGgHcs0sFql) | 2:12 |
 | 50 | [Fidget](https://open.spotify.com/track/4SCJ7RAdDPJTmekms0Pvl0) | [Neumonic](https://open.spotify.com/artist/2vmS0sFSxIZccEf510Xb52) | [Fidget](https://open.spotify.com/album/7tSptfAre0cq5ZSYTo82tb) | 3:04 |
 | 51 | [Born Again](https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Born Again](https://open.spotify.com/album/1pwBeGAONzyEHFJyFdWUv7) | 2:38 |

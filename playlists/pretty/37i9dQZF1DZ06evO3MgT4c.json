@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 439710,
+  "num_followers": 439724,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae6nAAAAAACkhcQ4bnlnlAEzkdjKcbDs",
+  "snapshot_id": "ae/4gAAAAACm8+k5AV5T4D1ryfNbjw1m",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quality Control: Control The Streets Volume 1",
-        "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
+        "name": "Racks 2 Skinny",
+        "url": "https://open.spotify.com/album/3PASWLvNfvfMF68dDznEgK"
       },
       "artists": [
-        {
-          "name": "Quality Control",
-          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
-        },
         {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "duration_ms": 241505,
-      "name": "Bosses Don't Speak",
-      "url": "https://open.spotify.com/track/1C8yDcVIhBObN58cSS8oX9"
+      "duration_ms": 178024,
+      "name": "Racks 2 Skinny",
+      "url": "https://open.spotify.com/track/568OIKgeHyGRD3uWR44JbO"
     },
     {
       "added_at": null,
@@ -495,18 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Racks 2 Skinny",
-        "url": "https://open.spotify.com/album/3PASWLvNfvfMF68dDznEgK"
+        "name": "Quality Control: Control The Streets Volume 1",
+        "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
       "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
         {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "duration_ms": 178024,
-      "name": "Racks 2 Skinny",
-      "url": "https://open.spotify.com/track/568OIKgeHyGRD3uWR44JbO"
+      "duration_ms": 241505,
+      "name": "Bosses Don't Speak",
+      "url": "https://open.spotify.com/track/1C8yDcVIhBObN58cSS8oX9"
     },
     {
       "added_at": null,
@@ -523,30 +523,6 @@
       "duration_ms": 181318,
       "name": "Gang Gang",
       "url": "https://open.spotify.com/track/6RKkHI2fkmgZq7uQPPav8f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quality Control: Control The Streets Volume 1",
-        "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
-      },
-      "artists": [
-        {
-          "name": "Quality Control",
-          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Eurielle",
-          "url": "https://open.spotify.com/artist/7F1l2kTBvOPGd8sF8nBEtv"
-        }
-      ],
-      "duration_ms": 295997,
-      "name": "Too Hotty",
-      "url": "https://open.spotify.com/track/3hWUIMNBwLNug1O8o2PPRW"
     },
     {
       "added_at": null,
@@ -583,6 +559,30 @@
       "duration_ms": 214586,
       "name": "Danger (with Migos & Marshmello)",
       "url": "https://open.spotify.com/track/0nhVrTiCGiGRCoZOJiWzm1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quality Control: Control The Streets Volume 1",
+        "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Eurielle",
+          "url": "https://open.spotify.com/artist/7F1l2kTBvOPGd8sF8nBEtv"
+        }
+      ],
+      "duration_ms": 295997,
+      "name": "Too Hotty",
+      "url": "https://open.spotify.com/track/3hWUIMNBwLNug1O8o2PPRW"
     },
     {
       "added_at": null,
@@ -831,6 +831,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ransom 2",
+        "url": "https://open.spotify.com/album/0jqcY0azNzkluuC8hxNGlw"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 274846,
+      "name": "Gucci On My (feat. 21 Savage, YG & Migos)",
+      "url": "https://open.spotify.com/track/3IHZc2GclRu5nJpTqty7MY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIRK",
         "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
       },
@@ -863,34 +891,6 @@
       "duration_ms": 222424,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/13Vs4lw2XisMw76z5ZV5Za"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ransom 2",
-        "url": "https://open.spotify.com/album/0jqcY0azNzkluuC8hxNGlw"
-      },
-      "artists": [
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 274846,
-      "name": "Gucci On My (feat. 21 Savage, YG & Migos)",
-      "url": "https://open.spotify.com/track/3IHZc2GclRu5nJpTqty7MY"
     },
     {
       "added_at": null,

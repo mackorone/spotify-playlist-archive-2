@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - JBABE",
+  "description": "The best new music by independent artists and labels in India. Cover - Yugm",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -522,7 +522,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 169961,
       "name": "AAKHRI BAAR",
       "url": "https://open.spotify.com/track/4PgMWF1Yj7hSLSlqQJJBug"
@@ -7626,7 +7626,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 222821,
       "name": "Dil Ki Baat",
       "url": "https://open.spotify.com/track/79aYlXjo1tLou3oWO2Izas"
@@ -18571,6 +18571,28 @@
     },
     {
       "album": {
+        "name": "Kinara",
+        "url": "https://open.spotify.com/album/3GyBkcTdhjU7khLnJ7HeVb"
+      },
+      "artists": [
+        {
+          "name": "Yugm",
+          "url": "https://open.spotify.com/artist/43uEANXUn0eOJrYKfjq2DL"
+        },
+        {
+          "name": "The Aahvaan Project",
+          "url": "https://open.spotify.com/artist/7JpzLv0XjhqSet8epgf7qF"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405838,
+      "name": "Kinara",
+      "url": "https://open.spotify.com/track/7nMpGwEuY6hAPPCMBR157E"
+    },
+    {
+      "album": {
         "name": "Kiran",
         "url": "https://open.spotify.com/album/4WyQLzCrO2GFzlUqrnsKoF"
       },
@@ -24376,6 +24398,28 @@
       "duration_ms": 245706,
       "name": "Neend",
       "url": "https://open.spotify.com/track/1pdpAeTL7y48EbijYXEa4i"
+    },
+    {
+      "album": {
+        "name": "Neer Bharan",
+        "url": "https://open.spotify.com/album/4hYwar8PBO70C4eAbrACtw"
+      },
+      "artists": [
+        {
+          "name": "Tanmay Deochake",
+          "url": "https://open.spotify.com/artist/4ujl0vIPR8pYIPAHCPl7OR"
+        },
+        {
+          "name": "Radhika Bhide",
+          "url": "https://open.spotify.com/artist/4OMlEVryNzCNImKNGoZ22c"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348000,
+      "name": "Neer Bharan",
+      "url": "https://open.spotify.com/track/6bfKZYgAaMgRLZYTxK0T9f"
     },
     {
       "album": {

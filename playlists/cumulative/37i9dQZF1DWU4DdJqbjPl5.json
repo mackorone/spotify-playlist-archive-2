@@ -4955,6 +4955,28 @@
     },
     {
       "album": {
+        "name": "J'\u00e9tais pas pr\u00eat",
+        "url": "https://open.spotify.com/album/0HUp5e1bfRXSQ2Y5DxrM6y"
+      },
+      "artists": [
+        {
+          "name": "Singuila",
+          "url": "https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf"
+        },
+        {
+          "name": "Monsieur Nov",
+          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145139,
+      "name": "J'\u00e9tais pas pr\u00eat",
+      "url": "https://open.spotify.com/track/15MXarDbGn1T4szDcsRX7P"
+    },
+    {
+      "album": {
         "name": "Jah",
         "url": "https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd"
       },

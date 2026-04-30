@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,831 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,828 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 59 | [Primeira Vez \(Studio Rec \#8\)](https://open.spotify.com/track/4LPI2efmQjL8xGA1YnIpo1) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Trem Caro](https://open.spotify.com/artist/5wiDkXNXNdlohPMVqIAYI1) | [Primeira Vez \(Studio Rec \#8\)](https://open.spotify.com/album/5dnrS9JpNujiPMZrodx1K8) | 2:43 |
 | 60 | [Certo pra Você](https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9) | [Certo pra Você](https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv) | 3:31 |
 
-Snapshot ID: `AAAAAMe4xsojk5D8oxVFBqfTf1tcl4yZ`
+Snapshot ID: `AAAAAFL1sGrzJ45eSkjKdipMgqLZ444B`

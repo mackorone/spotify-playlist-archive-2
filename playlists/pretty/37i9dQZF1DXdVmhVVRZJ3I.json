@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 350264,
+  "num_followers": 350323,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -403,30 +403,6 @@
     {
       "added_at": "2026-04-17 16:22:13",
       "album": {
-        "name": "Devotion (2020 Remix)",
-        "url": "https://open.spotify.com/album/7IEKWKox1xVi1tlUyWnHHk"
-      },
-      "artists": [
-        {
-          "name": "Bingo Players",
-          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
-        },
-        {
-          "name": "Felguk",
-          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
-        },
-        {
-          "name": "Fafaq",
-          "url": "https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V"
-        }
-      ],
-      "duration_ms": 152131,
-      "name": "Devotion - 2020 Remix",
-      "url": "https://open.spotify.com/track/039VxfSo5FErqE65169VZL"
-    },
-    {
-      "added_at": "2026-04-17 16:22:13",
-      "album": {
         "name": "It Don\u2019t Matter - Spotify Singles",
         "url": "https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc"
       },
@@ -447,6 +423,30 @@
       "duration_ms": 173742,
       "name": "It Don\u2019t Matter - Spotify Singles",
       "url": "https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s"
+    },
+    {
+      "added_at": "2026-04-17 16:22:13",
+      "album": {
+        "name": "Devotion (2020 Remix)",
+        "url": "https://open.spotify.com/album/7IEKWKox1xVi1tlUyWnHHk"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Felguk",
+          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
+        },
+        {
+          "name": "Fafaq",
+          "url": "https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V"
+        }
+      ],
+      "duration_ms": 152131,
+      "name": "Devotion - 2020 Remix",
+      "url": "https://open.spotify.com/track/039VxfSo5FErqE65169VZL"
     },
     {
       "added_at": "2026-04-17 16:22:13",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-04-17 16:22:13",
       "album": {
+        "name": "Night Taking Over",
+        "url": "https://open.spotify.com/album/3ktfqOPwFbxIJnTR8pkcDc"
+      },
+      "artists": [
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 128859,
+      "name": "Night Taking Over",
+      "url": "https://open.spotify.com/track/6dVJQ4bMyrtm1D7BHy5TU8"
+    },
+    {
+      "added_at": "2026-04-17 16:22:13",
+      "album": {
         "name": "My City (feat. Katy Tiz)",
         "url": "https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2026-04-17 16:22:13",
       "album": {
-        "name": "Night Taking Over",
-        "url": "https://open.spotify.com/album/3ktfqOPwFbxIJnTR8pkcDc"
-      },
-      "artists": [
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 128859,
-      "name": "Night Taking Over",
-      "url": "https://open.spotify.com/track/6dVJQ4bMyrtm1D7BHy5TU8"
-    },
-    {
-      "added_at": "2026-04-17 16:22:13",
-      "album": {
         "name": "Dali",
         "url": "https://open.spotify.com/album/6UDVIUlB7nvJ4KDNTymxxv"
       },
@@ -927,26 +927,6 @@
     {
       "added_at": "2026-04-17 16:22:13",
       "album": {
-        "name": "Tomorrow (feat. 433)",
-        "url": "https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "433",
-          "url": "https://open.spotify.com/artist/2MT1u0GqGp2d8XLjY3F8ln"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Tomorrow (feat. 433)",
-      "url": "https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7"
-    },
-    {
-      "added_at": "2026-04-17 16:22:13",
-      "album": {
         "name": "The Age of Love 2022",
         "url": "https://open.spotify.com/album/2SFKqoZuBpOzhu4zcG9ATE"
       },
@@ -967,6 +947,42 @@
       "duration_ms": 189561,
       "name": "The Age of Love 2022",
       "url": "https://open.spotify.com/track/6KvYwiJbPUzmBw7Wif2aMX"
+    },
+    {
+      "added_at": "2026-04-17 16:22:13",
+      "album": {
+        "name": "Tomorrow (feat. 433)",
+        "url": "https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "433",
+          "url": "https://open.spotify.com/artist/2MT1u0GqGp2d8XLjY3F8ln"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Tomorrow (feat. 433)",
+      "url": "https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7"
+    },
+    {
+      "added_at": "2026-04-17 16:22:13",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/2B4IUOCFFe0TSeFqYNKF9J"
+      },
+      "artists": [
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 133500,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1LkS4sqxIIbBwB0Rmn85Q1"
     },
     {
       "added_at": "2026-04-17 16:22:13",
@@ -1007,22 +1023,6 @@
       "duration_ms": 165519,
       "name": "Terremoto",
       "url": "https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv"
-    },
-    {
-      "added_at": "2026-04-17 16:22:13",
-      "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/2B4IUOCFFe0TSeFqYNKF9J"
-      },
-      "artists": [
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 133500,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1LkS4sqxIIbBwB0Rmn85Q1"
     },
     {
       "added_at": "2026-04-17 16:22:13",

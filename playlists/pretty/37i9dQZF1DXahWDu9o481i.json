@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Iceage",
-  "num_followers": 88550,
+  "num_followers": 88572,
   "original_name": "Editors' Picks: Best Songs of March",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-04-02 14:51:09",
       "album": {
-        "name": "barquito (bonus track)",
-        "url": "https://open.spotify.com/album/6vyb0NaK9u3StlgRlYxFuZ"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 204974,
-      "name": "barquito - bonus track",
-      "url": "https://open.spotify.com/track/2W7HbOnu7ivBFXGrcdcwDB"
-    },
-    {
-      "added_at": "2026-04-02 14:51:09",
-      "album": {
         "name": "How It Feels",
         "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
       },
@@ -415,6 +399,22 @@
     {
       "added_at": "2026-04-02 14:51:09",
       "album": {
+        "name": "barquito (bonus track)",
+        "url": "https://open.spotify.com/album/6vyb0NaK9u3StlgRlYxFuZ"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 204974,
+      "name": "barquito - bonus track",
+      "url": "https://open.spotify.com/track/2W7HbOnu7ivBFXGrcdcwDB"
+    },
+    {
+      "added_at": "2026-04-02 14:51:09",
+      "album": {
         "name": "Doctrine of Love",
         "url": "https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 200573,
       "name": "Doctrine of Love",
       "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
+    },
+    {
+      "added_at": "2026-04-02 14:51:09",
+      "album": {
+        "name": "Aren't You Curious?",
+        "url": "https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA"
+      },
+      "artists": [
+        {
+          "name": "Emyrson Flora",
+          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
+        }
+      ],
+      "duration_ms": 184294,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
     },
     {
       "added_at": "2026-04-02 14:51:09",
@@ -467,18 +483,18 @@
     {
       "added_at": "2026-04-02 14:51:09",
       "album": {
-        "name": "Aren't You Curious?",
-        "url": "https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA"
+        "name": "Losing Streak",
+        "url": "https://open.spotify.com/album/53R2ayL23t6b6oPJWFyGnV"
       },
       "artists": [
         {
-          "name": "Emyrson Flora",
-          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
+          "name": "Avery Cochrane",
+          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
         }
       ],
-      "duration_ms": 184294,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
+      "duration_ms": 218140,
+      "name": "Losing Streak",
+      "url": "https://open.spotify.com/track/3OTN972oOsFGjHvjRbdSnU"
     },
     {
       "added_at": "2026-04-02 14:51:09",
@@ -499,22 +515,6 @@
     {
       "added_at": "2026-04-02 14:51:09",
       "album": {
-        "name": "Losing Streak",
-        "url": "https://open.spotify.com/album/53R2ayL23t6b6oPJWFyGnV"
-      },
-      "artists": [
-        {
-          "name": "Avery Cochrane",
-          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
-        }
-      ],
-      "duration_ms": 218140,
-      "name": "Losing Streak",
-      "url": "https://open.spotify.com/track/3OTN972oOsFGjHvjRbdSnU"
-    },
-    {
-      "added_at": "2026-04-02 14:51:09",
-      "album": {
         "name": "NOISE",
         "url": "https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj"
       },
@@ -527,26 +527,6 @@
       "duration_ms": 162760,
       "name": "NOISE",
       "url": "https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC"
-    },
-    {
-      "added_at": "2026-04-02 14:51:09",
-      "album": {
-        "name": "HELP(2)",
-        "url": "https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa"
-      },
-      "artists": [
-        {
-          "name": "Cameron Winter",
-          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
-        },
-        {
-          "name": "War Child Records",
-          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
-        }
-      ],
-      "duration_ms": 272196,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/0RVh6eHyE6wxV0MSl3KYep"
     },
     {
       "added_at": "2026-04-02 14:51:09",
@@ -583,6 +563,26 @@
       "duration_ms": 143908,
       "name": "Max Payne",
       "url": "https://open.spotify.com/track/4wcB0hfse716EJV75lx0ja"
+    },
+    {
+      "added_at": "2026-04-02 14:51:09",
+      "album": {
+        "name": "HELP(2)",
+        "url": "https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa"
+      },
+      "artists": [
+        {
+          "name": "Cameron Winter",
+          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "duration_ms": 272196,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/0RVh6eHyE6wxV0MSl3KYep"
     },
     {
       "added_at": "2026-04-02 14:51:09",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-04-02 14:51:09",
       "album": {
-        "name": "Light as a Feather",
-        "url": "https://open.spotify.com/album/2Bd7Z2Gpsgje6AeP3iAeCy"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 216637,
-      "name": "Light as a Feather",
-      "url": "https://open.spotify.com/track/7pucKxQeLhLzu84oZLnkHf"
-    },
-    {
-      "added_at": "2026-04-02 14:51:09",
-      "album": {
         "name": "Big Disgrace",
         "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 114992,
       "name": "Sweet Surrender",
       "url": "https://open.spotify.com/track/0GYC0TTILK7gGBNUdt5Erj"
+    },
+    {
+      "added_at": "2026-04-02 14:51:09",
+      "album": {
+        "name": "Light as a Feather",
+        "url": "https://open.spotify.com/album/2Bd7Z2Gpsgje6AeP3iAeCy"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 216637,
+      "name": "Light as a Feather",
+      "url": "https://open.spotify.com/track/7pucKxQeLhLzu84oZLnkHf"
     },
     {
       "added_at": "2026-04-02 14:51:09",

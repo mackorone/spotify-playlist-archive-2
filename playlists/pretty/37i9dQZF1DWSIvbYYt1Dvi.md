@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > pretona, responsa, do corre \- pergunta da luanna pra sua namorada \(!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,143,704 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,143,650 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 13 | [NEM ERA PRA EU TÁ AQUI \(Deus Que Me Escolheu\)](https://open.spotify.com/track/5JYIcuUNEVhy57xY8M1eHh) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo) | [INFRAÇÃO \- 1º ATO](https://open.spotify.com/album/0d1H9Ibh2JL1JauWYcNI5g) | 3:22 |
 | 14 | [MELHOR QUE ONTEM](https://open.spotify.com/track/7kwjhB3KqfvjVrQPBawEmq) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Los Hermanos](https://open.spotify.com/artist/7Brxri4l1ATShikyHXsEr6), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [Quanto Mais Eu Como, Mais Fome Eu Sinto !](https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG) | 3:30 |
 | 15 | [Cacos De Vidro \(sample: Esperar pra Ver\)](https://open.spotify.com/track/0arxXBXzv96Q449DK1SmiX) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Kolo](https://open.spotify.com/artist/1rsA71w7RvNFRojjnFzHcG), [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu) | 2:29 |
-| 16 | [Bloco dos Apaixonados](https://open.spotify.com/track/68xXgMubo2U5MEGCtJFxzC) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN) | [Até o Próximo Carnaval, Vol\. 3](https://open.spotify.com/album/6k9jVRNVQRkPrqrT8PGpGI) | 2:42 |
+| 16 | [Bloco dos Apaixonados](https://open.spotify.com/track/68xXgMubo2U5MEGCtJFxzC) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Até o Próximo Carnaval, Vol\. 3](https://open.spotify.com/album/6k9jVRNVQRkPrqrT8PGpGI) | 2:42 |
 | 17 | [Normal](https://open.spotify.com/track/33iOAKRA2RmRPz8VjbHUib) | [Crônicas de um Babaca](https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV), [brandu](https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0) | [Normal](https://open.spotify.com/album/5ag8g1wUpfwNGb3npSb4jx) | 2:56 |
 | 18 | [Poesia e Fundamento](https://open.spotify.com/track/20OsPgZSMc65MOzFTWkXRZ) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW) | [Poesia e Fundamento](https://open.spotify.com/album/2DBVbXHRCwsMEnYXA4Oz1l) | 4:03 |
 | 19 | [Maldito Papel](https://open.spotify.com/track/7wTdWHYMM8YLLTCEWTtpyR) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Dj KLJay](https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV) | [A Cara do Enquadro](https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn) | 2:57 |

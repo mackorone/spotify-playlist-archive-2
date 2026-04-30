@@ -4,7 +4,7 @@
 
 > roots run deep with Kacey Musgraves
 
-443 songs - 1 day 2 hr 24 min
+444 songs - 1 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Outlaw \(feat\. Ben Burgess\)](https://open.spotify.com/track/2NK6dtSujGIyilnEgbw8MX) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:49 | 2023-03-17 | 2023-12-09 |
 | [Over You, Over It](https://open.spotify.com/track/15jL5Xmk1loFvXvXyeQEmY) | [Bottomland](https://open.spotify.com/artist/3EKcCd93FzyKhPBqgdzAH4) | [Over You, Over It](https://open.spotify.com/album/4lItbNzoikirbG0mhfv5ak) | 4:37 | 2025-03-28 |  |
 | [Pearson Road](https://open.spotify.com/track/1S5yRRnXYlNTp5x7Dipfdd) | [Austin Upchurch](https://open.spotify.com/artist/6shtDekLyD0Qw691reWyg0) | [Pearson Road](https://open.spotify.com/album/4ZabshU4G6mQyqWkHOPDTp) | 3:32 | 2023-02-24 | 2023-03-25 |
+| [picking petals](https://open.spotify.com/track/0VekjqDttKaEwQ1XowzE7B) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [picking petals](https://open.spotify.com/album/7nEq3wBHWyXjhi80GE6cEf) | 3:48 | 2026-04-29 |  |
 | [Pieces](https://open.spotify.com/track/73rxH6rYJQZtwfjKNb4mwZ) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Turn Back Time](https://open.spotify.com/album/1YTUy55SBqVmOTSJHJ8ken) | 3:16 | 2024-01-31 |  |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-05-24 | 2026-03-07 |
 | [Pitchin' fits](https://open.spotify.com/track/2m4Rz3Pn5tN7MFth0kHgSL) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [A Hard up Life](https://open.spotify.com/album/4hxny6RxCa9kJjdXkpXlPi) | 3:47 | 2023-08-20 | 2026-01-17 |

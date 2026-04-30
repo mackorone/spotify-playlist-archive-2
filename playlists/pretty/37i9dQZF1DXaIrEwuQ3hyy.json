@@ -1,6 +1,6 @@
 {
   "description": "wenn du mal kurz durchatmen musst \ud83c\udf3b",
-  "num_followers": 1098353,
+  "num_followers": 1098363,
   "original_name": "Fr\u00fchlings Chillout",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2026-04-23 22:00:46",
       "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "added_at": "2026-04-23 22:00:46",
+      "album": {
         "name": "All I Did Was Dream of You (feat. The Mar\u00edas)",
         "url": "https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 223788,
       "name": "All I Did Was Dream of You (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH"
-    },
-    {
-      "added_at": "2026-04-23 22:00:46",
-      "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
       "added_at": "2026-04-23 22:00:46",
@@ -339,26 +339,6 @@
     {
       "added_at": "2026-04-23 22:00:46",
       "album": {
-        "name": "Patadas de Ahogado",
-        "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        },
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 224835,
-      "name": "Patadas de Ahogado",
-      "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
-    },
-    {
-      "added_at": "2026-04-23 22:00:46",
-      "album": {
         "name": "Snooze (Acoustic) (feat. Justin Bieber)",
         "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 190464,
       "name": "Snooze (Acoustic) (feat. Justin Bieber)",
       "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
+    },
+    {
+      "added_at": "2026-04-23 22:00:46",
+      "album": {
+        "name": "Patadas de Ahogado",
+        "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 224835,
+      "name": "Patadas de Ahogado",
+      "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
     },
     {
       "added_at": "2026-04-23 22:00:46",
@@ -655,22 +655,18 @@
     {
       "added_at": "2026-04-23 22:00:46",
       "album": {
-        "name": "Moon",
-        "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
+        "name": "doing my best",
+        "url": "https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 317000,
-      "name": "Moon (Feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
+      "duration_ms": 182733,
+      "name": "doing my best",
+      "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
     },
     {
       "added_at": "2026-04-23 22:00:46",
@@ -691,34 +687,22 @@
     {
       "added_at": "2026-04-23 22:00:46",
       "album": {
-        "name": "doing my best",
-        "url": "https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC"
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 182733,
-      "name": "doing my best",
-      "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
-    },
-    {
-      "added_at": "2026-04-23 22:00:46",
-      "album": {
-        "name": "Claw Marks",
-        "url": "https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I"
-      },
-      "artists": [
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
         {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 155528,
-      "name": "Claw Marks",
-      "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
+      "duration_ms": 317000,
+      "name": "Moon (Feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
     },
     {
       "added_at": "2026-04-23 22:00:46",
@@ -735,6 +719,22 @@
       "duration_ms": 215265,
       "name": "Ozean",
       "url": "https://open.spotify.com/track/7ED8m8m3QJvDCnYFOi6VXB"
+    },
+    {
+      "added_at": "2026-04-23 22:00:46",
+      "album": {
+        "name": "Claw Marks",
+        "url": "https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "duration_ms": 155528,
+      "name": "Claw Marks",
+      "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
     },
     {
       "added_at": "2026-04-23 22:00:46",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-04-23 22:00:46",
       "album": {
-        "name": "Into You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1J5EJwA0fSnOBOHkrIe6vM"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 246901,
-      "name": "Into You - Spotify Singles",
-      "url": "https://open.spotify.com/track/4smI43J9NuIJpRT76fCLX6"
-    },
-    {
-      "added_at": "2026-04-23 22:00:46",
-      "album": {
         "name": "Feeling Fine",
         "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 168461,
       "name": "Feeling Fine",
       "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
+    },
+    {
+      "added_at": "2026-04-23 22:00:46",
+      "album": {
+        "name": "Into You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1J5EJwA0fSnOBOHkrIe6vM"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 246901,
+      "name": "Into You - Spotify Singles",
+      "url": "https://open.spotify.com/track/4smI43J9NuIJpRT76fCLX6"
     },
     {
       "added_at": "2026-04-23 22:00:46",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-04-23 22:00:46",
       "album": {
-        "name": "when i close my eyes",
-        "url": "https://open.spotify.com/album/6he3WZdBgT2Qpqc3uvOYgb"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        }
-      ],
-      "duration_ms": 226117,
-      "name": "when i close my eyes",
-      "url": "https://open.spotify.com/track/2Az9qnorhkpbvkwA0nu8hY"
-    },
-    {
-      "added_at": "2026-04-23 22:00:46",
-      "album": {
         "name": "Caramel",
         "url": "https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 270315,
       "name": "Little Life",
       "url": "https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM"
+    },
+    {
+      "added_at": "2026-04-23 22:00:46",
+      "album": {
+        "name": "when i close my eyes",
+        "url": "https://open.spotify.com/album/6he3WZdBgT2Qpqc3uvOYgb"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 226117,
+      "name": "when i close my eyes",
+      "url": "https://open.spotify.com/track/2Az9qnorhkpbvkwA0nu8hY"
     },
     {
       "added_at": "2026-04-23 22:00:46",
@@ -1203,30 +1203,6 @@
     {
       "added_at": "2026-04-23 22:00:46",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/4dTauHF2YOIwiHCoP8vk1O"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        },
-        {
-          "name": "Booshle G.",
-          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
-        },
-        {
-          "name": "Tatum Tides",
-          "url": "https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY"
-        }
-      ],
-      "duration_ms": 140952,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/1seToxjaUog9m1scdsu4yP"
-    },
-    {
-      "added_at": "2026-04-23 22:00:46",
-      "album": {
         "name": "Am Ende des Tages",
         "url": "https://open.spotify.com/album/52JSitmvGlUJFlJMVidPNL"
       },
@@ -1259,6 +1235,30 @@
       "duration_ms": 206808,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe"
+    },
+    {
+      "added_at": "2026-04-23 22:00:46",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/4dTauHF2YOIwiHCoP8vk1O"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        },
+        {
+          "name": "Booshle G.",
+          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
+        },
+        {
+          "name": "Tatum Tides",
+          "url": "https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1seToxjaUog9m1scdsu4yP"
     },
     {
       "added_at": "2026-04-23 22:00:46",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-04-23 22:00:46",
       "album": {
-        "name": "Catch You",
-        "url": "https://open.spotify.com/album/5wZFv1zlIVCsda4SsvQTo8"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 197129,
-      "name": "Catch You",
-      "url": "https://open.spotify.com/track/6ikOvPfy40gVDVt34WkoHk"
-    },
-    {
-      "added_at": "2026-04-23 22:00:46",
-      "album": {
         "name": "Iman",
         "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
       },
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2026-04-23 22:00:46",
       "album": {
+        "name": "Catch You",
+        "url": "https://open.spotify.com/album/5wZFv1zlIVCsda4SsvQTo8"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 197129,
+      "name": "Catch You",
+      "url": "https://open.spotify.com/track/6ikOvPfy40gVDVt34WkoHk"
+    },
+    {
+      "added_at": "2026-04-23 22:00:46",
+      "album": {
         "name": "Weit weg",
         "url": "https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv"
       },
@@ -1375,22 +1375,6 @@
       "duration_ms": 161787,
       "name": "Weit weg",
       "url": "https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD"
-    },
-    {
-      "added_at": "2026-04-23 22:00:46",
-      "album": {
-        "name": "Same Vibes",
-        "url": "https://open.spotify.com/album/0m8atgFEMGDQy6FHBF9ypO"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 181787,
-      "name": "Same Vibes",
-      "url": "https://open.spotify.com/track/5TCkEIJWaKr0UzMGPVtWTM"
     },
     {
       "added_at": "2026-04-23 22:00:46",
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2026-04-23 22:00:46",
       "album": {
+        "name": "Same Vibes",
+        "url": "https://open.spotify.com/album/0m8atgFEMGDQy6FHBF9ypO"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 181787,
+      "name": "Same Vibes",
+      "url": "https://open.spotify.com/track/5TCkEIJWaKr0UzMGPVtWTM"
+    },
+    {
+      "added_at": "2026-04-23 22:00:46",
+      "album": {
         "name": "Know the Night",
         "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
       },
@@ -1423,22 +1423,6 @@
       "duration_ms": 190266,
       "name": "Know the Night",
       "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
-    },
-    {
-      "added_at": "2026-04-23 22:00:46",
-      "album": {
-        "name": "eat some pasta",
-        "url": "https://open.spotify.com/album/2sPuR1EOOWzQ4c6xsMR0OQ"
-      },
-      "artists": [
-        {
-          "name": "Ma\u00ebl & Jonas",
-          "url": "https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp"
-        }
-      ],
-      "duration_ms": 141762,
-      "name": "eat some pasta",
-      "url": "https://open.spotify.com/track/3s6zhTUjtgbqlWR89Em1DR"
     },
     {
       "added_at": "2026-04-23 22:00:46",
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2026-04-23 22:00:46",
       "album": {
-        "name": "Anywhere & Everywhere EP",
-        "url": "https://open.spotify.com/album/6gZ5gFFMlGGBt3YZzuR8oP"
+        "name": "eat some pasta",
+        "url": "https://open.spotify.com/album/2sPuR1EOOWzQ4c6xsMR0OQ"
       },
       "artists": [
         {
-          "name": "Max Allais",
-          "url": "https://open.spotify.com/artist/1q6Erwlg8yTeH3XgngViVn"
+          "name": "Ma\u00ebl & Jonas",
+          "url": "https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp"
         }
       ],
-      "duration_ms": 149007,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/1FiSZZWBeDNKcPqtS9dkh3"
+      "duration_ms": 141762,
+      "name": "eat some pasta",
+      "url": "https://open.spotify.com/track/3s6zhTUjtgbqlWR89Em1DR"
     },
     {
       "added_at": "2026-04-23 22:00:46",
@@ -1499,6 +1483,22 @@
       "duration_ms": 216093,
       "name": "Bau mich auseinander (Piano Version)",
       "url": "https://open.spotify.com/track/0Ok8KfWfiI84vEYHbtX4TE"
+    },
+    {
+      "added_at": "2026-04-23 22:00:46",
+      "album": {
+        "name": "Anywhere & Everywhere EP",
+        "url": "https://open.spotify.com/album/6gZ5gFFMlGGBt3YZzuR8oP"
+      },
+      "artists": [
+        {
+          "name": "Max Allais",
+          "url": "https://open.spotify.com/artist/1q6Erwlg8yTeH3XgngViVn"
+        }
+      ],
+      "duration_ms": 149007,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/1FiSZZWBeDNKcPqtS9dkh3"
     },
     {
       "added_at": "2026-04-23 22:00:46",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-04-23 22:00:46",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/24j6IoQ8Junn1mIXfgijU4"
-      },
-      "artists": [
-        {
-          "name": "Wallners",
-          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
-        }
-      ],
-      "duration_ms": 267100,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4LIRPQO4jzel3t4aN5J8PN"
-    },
-    {
-      "added_at": "2026-04-23 22:00:46",
-      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 213400,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg"
+    },
+    {
+      "added_at": "2026-04-23 22:00:46",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/24j6IoQ8Junn1mIXfgijU4"
+      },
+      "artists": [
+        {
+          "name": "Wallners",
+          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
+        }
+      ],
+      "duration_ms": 267100,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4LIRPQO4jzel3t4aN5J8PN"
     },
     {
       "added_at": "2026-04-23 22:00:46",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2026-04-23 22:00:46",
       "album": {
+        "name": "Make me think of you",
+        "url": "https://open.spotify.com/album/1LCyjbwY18GGpobrSlv8ZJ"
+      },
+      "artists": [
+        {
+          "name": "ELIS NOA",
+          "url": "https://open.spotify.com/artist/6jLDzjrANnkIEhgdEL8gZf"
+        }
+      ],
+      "duration_ms": 199006,
+      "name": "Make me think of you",
+      "url": "https://open.spotify.com/track/2VAjQDNPTToTFUVrjFy7Mw"
+    },
+    {
+      "added_at": "2026-04-23 22:00:46",
+      "album": {
         "name": "Slow It Down",
         "url": "https://open.spotify.com/album/5xeGFga33wKgIuTcef2wKn"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 218786,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/3BCA5KOKE7RRcrx0tK7kDK"
-    },
-    {
-      "added_at": "2026-04-23 22:00:46",
-      "album": {
-        "name": "Make me think of you",
-        "url": "https://open.spotify.com/album/1LCyjbwY18GGpobrSlv8ZJ"
-      },
-      "artists": [
-        {
-          "name": "ELIS NOA",
-          "url": "https://open.spotify.com/artist/6jLDzjrANnkIEhgdEL8gZf"
-        }
-      ],
-      "duration_ms": 199006,
-      "name": "Make me think of you",
-      "url": "https://open.spotify.com/track/2VAjQDNPTToTFUVrjFy7Mw"
     },
     {
       "added_at": "2026-04-23 22:00:46",

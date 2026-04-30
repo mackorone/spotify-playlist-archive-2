@@ -3701,6 +3701,24 @@
     },
     {
       "album": {
+        "name": "St.Arnaud",
+        "url": "https://open.spotify.com/album/2YdWz8Pzqj2f8jNS3EjIVV"
+      },
+      "artists": [
+        {
+          "name": "St.Arnaud",
+          "url": "https://open.spotify.com/artist/320bGhRu3ZAem1ZWjXmRA5"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263169,
+      "name": "It's Cool",
+      "url": "https://open.spotify.com/track/33gvSmXDDYTWGn3Y25GW0x"
+    },
+    {
+      "album": {
         "name": "Jaded Son",
         "url": "https://open.spotify.com/album/4ynwas1gNy3V0ydmgvIBEg"
       },

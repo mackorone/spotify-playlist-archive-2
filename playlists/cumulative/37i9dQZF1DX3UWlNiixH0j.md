@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Le Makeup
 
-3,332 songs - 8 day 18 hr 16 min
+3,332 songs - 8 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -760,6 +760,7 @@
 | [Hitsujigumo](https://open.spotify.com/track/2YSybXboavdEVDBF4ysw2g) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [Hitsujigumo](https://open.spotify.com/album/3OfcxKGFYgAbaUP5o8JpEg) | 3:37 | 2024-04-02 | 2024-04-10 |
 | [HOLD ME](https://open.spotify.com/track/3MopLcp26NisMAwZVl1CcE) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [HOLD ME](https://open.spotify.com/album/68Wp95hv2qIBTSnRoavZ8Y) | 3:12 | 2025-01-09 | 2026-01-15 |
 | [Hold Me Tight](https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Hold Me Tight](https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X) | 3:08 | 2025-09-09 | 2026-02-04 |
+| [hold on](https://open.spotify.com/track/3lFeBQyafTkN70nIv5KAaM) | [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc) | [The Crying Xpress](https://open.spotify.com/album/0GdSUTV7AnaWKQPWYTrqLN) | 3:53 | 2026-04-28 |  |
 | [Hold You Again](https://open.spotify.com/track/0yIURdQDYHRZLQWJV30dUq) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Hold You Again](https://open.spotify.com/album/7xS5YfJ1KFEMuYmon2ziX3) | 3:40 | 2024-01-23 | 2024-01-31 |
 | [Holic](https://open.spotify.com/track/0yD7CVCNUyZGwzX32Q0bTg) | [QUINCAMPOIX](https://open.spotify.com/artist/66CZGKffXQ5OrJQLeOX1oR) | [Holic](https://open.spotify.com/album/4C39wXQDkfEVrnsIDdeTey) | 3:12 | 2025-06-11 | 2025-06-18 |
 | [Holiday Coffee](https://open.spotify.com/track/1t657PdwYCNvJ9BqIt7imn) | [Dreamcast](https://open.spotify.com/artist/7l0f04RlI76FMqgXTOIJWI), [Koichiro Toyoda](https://open.spotify.com/artist/6fvMrUiC0ToUVL7BqZU8H1) | [Holiday Coffee](https://open.spotify.com/album/4cJxiAuV9TiBNwJuEDozUf) | 3:55 | 2023-01-12 | 2023-01-18 |
@@ -1958,7 +1959,6 @@
 | [Town](https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Town e.p](https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO) | 3:53 | 2025-10-14 | 2026-02-04 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-19 | 2023-09-27 |
 | [TOY](https://open.spotify.com/track/2NcL3BcH9PwVJsYD1s5n9c) | [カブトムシ](https://open.spotify.com/artist/3ceBUhYjqv2J3TbIBXdZSa) | [Panorama Pig](https://open.spotify.com/album/47QCclBzhV8FRhcsEfFRZ4) | 4:18 | 2026-03-24 | 2026-04-01 |
-| [Track 3](https://open.spotify.com/track/3lFeBQyafTkN70nIv5KAaM) | [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc) | [The Crying Xpress](https://open.spotify.com/album/0GdSUTV7AnaWKQPWYTrqLN) | 0:00 | 2026-04-28 |  |
 | [Tragedy \(feat\. Chara\)](https://open.spotify.com/track/7EevhKZpfpdBsTa1SH1XXK) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK), [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Tragedy \(feat\. Chara\)](https://open.spotify.com/album/5gzGABgxD4wfYSY20OHfgQ) | 3:27 | 2024-10-01 | 2024-10-28 |
 | [TRAIN SONG](https://open.spotify.com/track/6QspHcDs2LV4GCX9UIH0H3) | [Have a Nice Day!](https://open.spotify.com/artist/3OQMlq2KOx38J3D9v6aw93) | [DYSTOPIA ROMANCE 5.0](https://open.spotify.com/album/4CgJ5LCT4Or4gf5KYgGLKP) | 3:55 | 2025-04-08 | 2025-04-16 |
 | [trance train](https://open.spotify.com/track/2zGJlbSribLuRKuxN9sPhM) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [44th Dimension](https://open.spotify.com/album/0ITDLzVqGFgMWmQeFnmOAN) | 2:58 | 2025-01-28 | 2025-03-17 |

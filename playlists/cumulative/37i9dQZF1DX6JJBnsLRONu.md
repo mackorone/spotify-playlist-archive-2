@@ -4,7 +4,7 @@
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-109 songs - 7 hr 20 min
+111 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [As We Remember](https://open.spotify.com/track/6JPoGBYmQNMYkMTZvSSb5i) | [Rebecca Mardal](https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V) | [As We Remember](https://open.spotify.com/album/34lx6PhG4bw9PEplGgCepC) | 2:51 | 2023-12-01 |  |
 | [At the Edge of the World](https://open.spotify.com/track/1HNy9IZDRBBWOc2HYUSIJw) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW), [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [At the Edge of the World](https://open.spotify.com/album/3pPEotWlGwWvmZfiMJvn8R) | 6:16 | 2022-02-10 |  |
 | [Basements](https://open.spotify.com/track/3LoD8YTXOM87GUWU7IhesV) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Basements](https://open.spotify.com/album/7f2B4dwq8gyPtytN6zFcNs) | 3:43 | 2023-09-15 |  |
+| [Beholden to the Birds Murmuring Above](https://open.spotify.com/track/4rJDJnOFLms2b4oFquIBFg) | [Hannah Frances](https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz), [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Nested in Tangles \(Deluxe\)](https://open.spotify.com/album/0v3bid5eeWmchf4wCNcxVE) | 4:44 | 2026-04-29 |  |
 | [Black Eyed Susan](https://open.spotify.com/track/4O6qHINcYgFcyK5jj6GcRH) | [Shane Parish](https://open.spotify.com/artist/3cvqyc36Wu2EbRd2Wf8dgr) | [Black Eyed Susan](https://open.spotify.com/album/0JJyu6jluatrwYKbEXGHjC) | 6:20 | 2022-02-10 |  |
 | [Bowsprit](https://open.spotify.com/track/04Fcjafu59OwzIYYVXJjbU) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Constellations](https://open.spotify.com/album/5nlIENUVFPbOEobbADbJZV) | 5:17 | 2022-04-22 | 2024-04-19 |
 | [Bowsprit](https://open.spotify.com/track/5C9PbNlsVJAkMdHuaMiwd6) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Constellations](https://open.spotify.com/album/2U4JqMKKozPS4U219KAJ5c) | 5:17 | 2022-02-10 |  |
@@ -108,6 +109,7 @@
 | [Urban legends](https://open.spotify.com/track/2x4K624CyAI8DQShtVIypD) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Urban legends](https://open.spotify.com/album/3KXstkEWsSKCtwFKhaYyzo) | 2:36 | 2023-12-01 |  |
 | [Ursa Major](https://open.spotify.com/track/3BJnhpM9ItAefdMZGdGf1d) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [High Line](https://open.spotify.com/album/5htTq0mezBLjTr0pja5jGK) | 4:10 | 2023-04-14 | 2024-04-19 |
 | [Ursa Major](https://open.spotify.com/track/7jMmgzKA33wNfqwW99it4P) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [High Line](https://open.spotify.com/album/4p5LlAKeW83lehTf5sUCUo) | 4:10 | 2022-02-10 |  |
+| [Vertigine](https://open.spotify.com/track/3aeIeSpxvODmUthmSmkFDF) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [SOLITO CINEMA](https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD) | 4:18 | 2026-04-29 |  |
 | [View of the Park](https://open.spotify.com/track/61RiC53XYBjZmyW6u081HC) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Letting the Light In](https://open.spotify.com/album/1eGxXdtkKb0os4MUacj89J) | 3:14 | 2023-12-01 |  |
 | [What Does It Matter Now?](https://open.spotify.com/track/4DpNmLojUrA9RqvdGLTr2M) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [What Does It Matter Now?](https://open.spotify.com/album/6MoxDbETwqsHJHg0T3GTmR) | 4:35 | 2022-11-18 |  |
 | [What Must Be Done](https://open.spotify.com/track/3buV0hT4g8GOIa8l2OJIJN) | [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p), [Warren Ellis](https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu) | [The Assassination of Jesse James By the Coward Robert Ford](https://open.spotify.com/album/6RzRjlvdLSDwkx8bMHyPLs) | 1:57 | 2022-02-10 |  |

@@ -1007,6 +1007,28 @@
     },
     {
       "album": {
+        "name": "Pared\u00e3o do Nattan (Ao Vivo Em Fortaleza)",
+        "url": "https://open.spotify.com/album/42CsFg3kxKccXG5YONxcaS"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156579,
+      "name": "Aproveita Que Eu T\u00f4 Brigado - Ao Vivo",
+      "url": "https://open.spotify.com/track/6bpIrlJ06Fb6amL5M9djmi"
+    },
+    {
+      "album": {
         "name": "Tamborz\u00e3o Raiz",
         "url": "https://open.spotify.com/album/7qwJFRvShWMVg39UKWafzW"
       },

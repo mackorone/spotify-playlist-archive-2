@@ -1,6 +1,6 @@
 {
   "description": "Soul for the blues. Cover: Otis Redding.",
-  "num_followers": 352092,
+  "num_followers": 352271,
   "original_name": "Sad Soul",
   "owner": {
     "name": "Spotify",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/2LXiYNPKSYtppqaH1JBob3"
     },
     {
-      "added_at": "2022-09-08 14:58:04",
-      "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
-      },
-      "artists": [
-        {
-          "name": "Darondo",
-          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "Didn't I",
-      "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
-    },
-    {
       "added_at": "2021-11-11 14:02:18",
       "album": {
         "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
@@ -645,6 +629,22 @@
       "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
     },
     {
+      "added_at": "2022-09-08 14:58:04",
+      "album": {
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
+      },
+      "artists": [
+        {
+          "name": "Darondo",
+          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Didn't I",
+      "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
+    },
+    {
       "added_at": "2021-11-11 14:02:18",
       "album": {
         "name": "The Best of Sam & Dave",
@@ -663,18 +663,18 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
-        "name": "The Jones Girls",
-        "url": "https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD"
+        "name": "You'll Lose A Good Thing",
+        "url": "https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ"
       },
       "artists": [
         {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+          "name": "Barbara Lynn",
+          "url": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
         }
       ],
-      "duration_ms": 210986,
-      "name": "This Feeling's Killing Me",
-      "url": "https://open.spotify.com/track/5gAMkPxCW7pB61JchjPKTd"
+      "duration_ms": 148493,
+      "name": "What I Need Is Love",
+      "url": "https://open.spotify.com/track/46zfaRtWBbR8nd5myuH6JQ"
     }
   ],
   "unique_name": "Sad Soul",

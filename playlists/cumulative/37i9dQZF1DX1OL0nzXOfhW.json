@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "2026 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u9999\u6e2f\u672a\u4f86\u65b0\u8072\uff01Cover: CONSTANCE",
+  "description": "2026 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u9999\u6e2f\u672a\u4f86\u65b0\u8072\uff01Cover: inablankat",
   "name": "RADAR HK",
   "tracks": [
     {
@@ -2944,6 +2944,24 @@
       "duration_ms": 203248,
       "name": "To be continued",
       "url": "https://open.spotify.com/track/3PFwHgVhnT3TxGnjCr8mYv"
+    },
+    {
+      "album": {
+        "name": "Unveilings",
+        "url": "https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5"
+      },
+      "artists": [
+        {
+          "name": "Amy Lo",
+          "url": "https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6"
     },
     {
       "album": {
@@ -5968,6 +5986,24 @@
       "duration_ms": 238710,
       "name": "\u8766\u9903",
       "url": "https://open.spotify.com/track/1uMWzyraEQ8VUSydUGinRg"
+    },
+    {
+      "album": {
+        "name": "\u8981\u9084",
+        "url": "https://open.spotify.com/album/0VuUCTaVoxR1HWIfRQLBai"
+      },
+      "artists": [
+        {
+          "name": "CONSTANCE",
+          "url": "https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214120,
+      "name": "\u8981\u9084",
+      "url": "https://open.spotify.com/track/0htSMEYzCEqaVedtTUYuCt"
     },
     {
       "album": {

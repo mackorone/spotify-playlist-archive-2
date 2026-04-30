@@ -4988,7 +4988,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 139533,
       "name": "Amor De Jasmim",
       "url": "https://open.spotify.com/track/44ohKGEXVpPd7kO1QyVVRE"
@@ -49138,7 +49138,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 149538,
       "name": "MEGA DO COQUEIRO",
       "url": "https://open.spotify.com/track/2jxa0nJSol9eSTil3SB13o"
@@ -50884,6 +50884,32 @@
       "duration_ms": 480008,
       "name": "Meu Melhor Amigo",
       "url": "https://open.spotify.com/track/07uNqcEHOjdSeWungdyKnq"
+    },
+    {
+      "album": {
+        "name": "Meu Mestre",
+        "url": "https://open.spotify.com/album/0pgRI4TKSJmgYA8TMkM0fn"
+      },
+      "artists": [
+        {
+          "name": "Get Worship",
+          "url": "https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp"
+        },
+        {
+          "name": "Get Records",
+          "url": "https://open.spotify.com/artist/1CYUWfGfCUbH4AfbK6NG67"
+        },
+        {
+          "name": "Vinicius Cruz",
+          "url": "https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V"
+        }
+      ],
+      "date_added": "2026-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364104,
+      "name": "Meu Mestre",
+      "url": "https://open.spotify.com/track/04bK600xontKmxPDo5HYRb"
     },
     {
       "album": {
@@ -75012,7 +75038,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-04-30",
       "duration_ms": 168298,
       "name": "SE EU LARGAR O FREIO",
       "url": "https://open.spotify.com/track/3WBypfS1LhjbYRknLLX2Vq"

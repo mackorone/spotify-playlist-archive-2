@@ -1,12 +1,12 @@
 {
   "description": "This is Addison Rae. The essential tracks, all in one playlist.",
-  "num_followers": 11059,
+  "num_followers": 11072,
   "original_name": "This Is Addison Rae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae6nAAAAAACPusTFZ3PJUuWumjQ7Uh5v",
+  "snapshot_id": "ae/4gAAAAAAp7v/7cByCbSFee1fdqqnN",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
         }
       ],
-      "duration_ms": 198172,
-      "name": "High Fashion",
-      "url": "https://open.spotify.com/track/7KwPWmB1gA9zRubseJ7OB2"
+      "duration_ms": 122579,
+      "name": "Money is Everything",
+      "url": "https://open.spotify.com/track/0yKuz6SU0TN3ViDaydV9ti"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
         }
       ],
-      "duration_ms": 122579,
-      "name": "Money is Everything",
-      "url": "https://open.spotify.com/track/0yKuz6SU0TN3ViDaydV9ti"
+      "duration_ms": 198172,
+      "name": "High Fashion",
+      "url": "https://open.spotify.com/track/7KwPWmB1gA9zRubseJ7OB2"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-448 songs - 1 day 1 hr 4 min
+449 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Interest Free](https://open.spotify.com/track/04oLfpOdFBPSM7GJmwmGX4) | [Lost Trends](https://open.spotify.com/artist/6kZpNXyeuRmP1DkYDiNSbV) | [Interest Free](https://open.spotify.com/album/1aPNhzmMkxcFpppkxtKWqZ) | 2:37 | 2026-02-14 |  |
 | [It's Been a While \- Remastered](https://open.spotify.com/track/3DF5kTTZ9zsy45hhTqzbXH) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [It's Been a While \(Remastered\)](https://open.spotify.com/album/4VELm0GmTzKMDVgvxBNdA2) | 4:15 | 2026-03-28 |  |
 | [It's Been a While \- Remastered](https://open.spotify.com/track/53xso5Bn6tTx1hwMKu5ia0) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [It's Been a While \(Remastered\)](https://open.spotify.com/album/4yc260le0YppXs9MOv48Wh) | 4:15 | 2026-02-20 |  |
+| [It's Cool](https://open.spotify.com/track/33gvSmXDDYTWGn3Y25GW0x) | [St.Arnaud](https://open.spotify.com/artist/320bGhRu3ZAem1ZWjXmRA5) | [St.Arnaud](https://open.spotify.com/album/2YdWz8Pzqj2f8jNS3EjIVV) | 4:23 | 2026-04-29 |  |
 | [Jaded Son](https://open.spotify.com/track/7Bbg46bDdlb4wmbmRiKWfJ) | [Bandana Sons](https://open.spotify.com/artist/5ZtCpzKBvWl7hr0RijnrUH) | [Jaded Son](https://open.spotify.com/album/4ynwas1gNy3V0ydmgvIBEg) | 5:10 | 2025-12-23 | 2026-01-15 |
 | [Jiggy Jiggy](https://open.spotify.com/track/2aFDHNti4Cu6r7TRF1ewpm) | [JAO](https://open.spotify.com/artist/21f6qfptoiJRqqRbRgepjb), [Smasher GMC](https://open.spotify.com/artist/2J1zUfRo32V3n1Bj9WqnFm) | [Jiggy Jiggy](https://open.spotify.com/album/7IlPPAik9r0YzmfqUNvQHz) | 2:30 | 2025-12-03 | 2026-01-05 |
 | [Johnny Drago](https://open.spotify.com/track/7JymuwXjghHmMRVZTXZvaA) | [Tha Reason Bars](https://open.spotify.com/artist/272hEekCAPlTWpqM4Mv6D1) | [Time Trials](https://open.spotify.com/album/3KNPBIJpxFh4uh1dYkKwcx) | 3:10 | 2025-11-17 | 2026-01-05 |

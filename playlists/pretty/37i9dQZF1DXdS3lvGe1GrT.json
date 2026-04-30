@@ -1,12 +1,12 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Sean Solomon",
-  "num_followers": 97134,
+  "num_followers": 97145,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHqPxe2+RBiAWMMrNIKD3JYEoqJ7",
+  "snapshot_id": "AAAAADxnEtfZA9WPfCxz9WNcZ/zbQXqx",
   "tracks": [
     {
       "added_at": "2026-04-22 16:18:30",
@@ -23,6 +23,54 @@
       "duration_ms": 211106,
       "name": "Malvern Star",
       "url": "https://open.spotify.com/track/4fE7Ddf94LW0d3svuj4W8E"
+    },
+    {
+      "added_at": "2026-04-29 18:31:34",
+      "album": {
+        "name": "We Swallowed The Sky",
+        "url": "https://open.spotify.com/album/2FTn24fXfckKGHhyt8R1ij"
+      },
+      "artists": [
+        {
+          "name": "Beatrix",
+          "url": "https://open.spotify.com/artist/70GG0H4aMaTD5kBzqUfSlh"
+        }
+      ],
+      "duration_ms": 231117,
+      "name": "Upstate",
+      "url": "https://open.spotify.com/track/6Swl911DmwTVxG8FtcVa25"
+    },
+    {
+      "added_at": "2026-04-29 18:31:34",
+      "album": {
+        "name": "oh child",
+        "url": "https://open.spotify.com/album/3Bs14xWCEsIEpYm03C7vQM"
+      },
+      "artists": [
+        {
+          "name": "kai devega",
+          "url": "https://open.spotify.com/artist/7LY06C4u9cUzboEkDvq5AY"
+        }
+      ],
+      "duration_ms": 122833,
+      "name": "oh child",
+      "url": "https://open.spotify.com/track/1vKojl7j8BBAZkNwXrBk7j"
+    },
+    {
+      "added_at": "2026-04-29 18:31:34",
+      "album": {
+        "name": "Nook",
+        "url": "https://open.spotify.com/album/09RHtXum96j7naqG60VJJ0"
+      },
+      "artists": [
+        {
+          "name": "Betty",
+          "url": "https://open.spotify.com/artist/4dzpD5GedidkVBhvGGEpGs"
+        }
+      ],
+      "duration_ms": 294370,
+      "name": "Nook",
+      "url": "https://open.spotify.com/track/5Awkgzj016bUr6v9TeZ5QH"
     },
     {
       "added_at": "2026-04-15 17:14:04",
@@ -55,6 +103,54 @@
       "duration_ms": 260464,
       "name": "Pearl Cloud Song",
       "url": "https://open.spotify.com/track/2GOC8SnvzxwJS66nKVNaBC"
+    },
+    {
+      "added_at": "2026-04-29 18:31:34",
+      "album": {
+        "name": "When You Turn Around",
+        "url": "https://open.spotify.com/album/6JL74yOq6MXK9oRRM6c4X8"
+      },
+      "artists": [
+        {
+          "name": "Leonie Biney",
+          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/3vDjuLWIztKBycG5gxHibt"
+    },
+    {
+      "added_at": "2026-04-29 18:31:34",
+      "album": {
+        "name": "picking petals",
+        "url": "https://open.spotify.com/album/7nEq3wBHWyXjhi80GE6cEf"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Grace",
+          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
+        }
+      ],
+      "duration_ms": 228942,
+      "name": "picking petals",
+      "url": "https://open.spotify.com/track/0VekjqDttKaEwQ1XowzE7B"
+    },
+    {
+      "added_at": "2026-04-29 18:31:34",
+      "album": {
+        "name": "Bonnie",
+        "url": "https://open.spotify.com/album/1A5qFIzy9Ixg2r973UrcmU"
+      },
+      "artists": [
+        {
+          "name": "Stepford Wives",
+          "url": "https://open.spotify.com/artist/7thGGaBpXKyyCsmHD5kYXL"
+        }
+      ],
+      "duration_ms": 232833,
+      "name": "After Red 40",
+      "url": "https://open.spotify.com/track/2xiCC6Dy8FeWWz7Z98lxSO"
     },
     {
       "added_at": "2026-04-15 17:14:04",
@@ -537,22 +633,6 @@
       "url": "https://open.spotify.com/track/6g3kLS87owY6Lc0k9YjanE"
     },
     {
-      "added_at": "2026-04-01 16:00:36",
-      "album": {
-        "name": "My Angel",
-        "url": "https://open.spotify.com/album/6Y45MFRuiNCeHDybUsvm8F"
-      },
-      "artists": [
-        {
-          "name": "Beatrix",
-          "url": "https://open.spotify.com/artist/70GG0H4aMaTD5kBzqUfSlh"
-        }
-      ],
-      "duration_ms": 318260,
-      "name": "My Angel",
-      "url": "https://open.spotify.com/track/3y8Qy6oBLaxl02VnOK6SPx"
-    },
-    {
       "added_at": "2026-03-25 16:00:36",
       "album": {
         "name": "Mama, My Heart Is Achin'",
@@ -921,22 +1001,6 @@
       "url": "https://open.spotify.com/track/3DmmwbEuH8kwlT6XdXrzXu"
     },
     {
-      "added_at": "2026-02-25 17:25:45",
-      "album": {
-        "name": "Class Reunion",
-        "url": "https://open.spotify.com/album/7kMUf9GrFRtMWXLY1Rtd9p"
-      },
-      "artists": [
-        {
-          "name": "Beatrix",
-          "url": "https://open.spotify.com/artist/70GG0H4aMaTD5kBzqUfSlh"
-        }
-      ],
-      "duration_ms": 251619,
-      "name": "Class Reunion",
-      "url": "https://open.spotify.com/track/7jFx42obhvJXv83rH2ZpKj"
-    },
-    {
       "added_at": "2026-02-11 17:00:28",
       "album": {
         "name": "Blue Body",
@@ -1143,70 +1207,6 @@
       "duration_ms": 215513,
       "name": "(easily) moved",
       "url": "https://open.spotify.com/track/6wK8WtrJBXGVEk0sXX6XZG"
-    },
-    {
-      "added_at": "2026-01-14 17:00:23",
-      "album": {
-        "name": "the Blade",
-        "url": "https://open.spotify.com/album/4rDsRmHSnMeSo8NbRWKR9l"
-      },
-      "artists": [
-        {
-          "name": "earth 2 tiffany",
-          "url": "https://open.spotify.com/artist/49Kb8axpqkIvmmYbL5Y4Qi"
-        }
-      ],
-      "duration_ms": 167418,
-      "name": "the Blade",
-      "url": "https://open.spotify.com/track/3xt9FMbT8XKaaz53AaRgXS"
-    },
-    {
-      "added_at": "2026-01-21 17:00:04",
-      "album": {
-        "name": "Snug Barber",
-        "url": "https://open.spotify.com/album/1yBqLhjTJF67wXAmfuGzCw"
-      },
-      "artists": [
-        {
-          "name": "Any Young Mechanic",
-          "url": "https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf"
-        }
-      ],
-      "duration_ms": 118000,
-      "name": "Snug Barber",
-      "url": "https://open.spotify.com/track/5qBqLgIPUf2fyBYgZ8GeKv"
-    },
-    {
-      "added_at": "2026-01-14 22:20:18",
-      "album": {
-        "name": "Bells",
-        "url": "https://open.spotify.com/album/6iE5LCKvjqU261DHW2yCZl"
-      },
-      "artists": [
-        {
-          "name": "Wulfer",
-          "url": "https://open.spotify.com/artist/0YBx9RunjSU2iPXSgj4GiN"
-        }
-      ],
-      "duration_ms": 166445,
-      "name": "Bells",
-      "url": "https://open.spotify.com/track/23gMLwhrD3EBd6ZA72sxHq"
-    },
-    {
-      "added_at": "2026-01-14 17:00:23",
-      "album": {
-        "name": "Anywhere Else",
-        "url": "https://open.spotify.com/album/2zX9wmpRJ0GeVktkE8T1Sg"
-      },
-      "artists": [
-        {
-          "name": "Alice Costelloe",
-          "url": "https://open.spotify.com/artist/1xbZZl0gYutFPyiUAXuJLy"
-        }
-      ],
-      "duration_ms": 285972,
-      "name": "Anywhere Else",
-      "url": "https://open.spotify.com/track/0fL6S8ciI1B7klHk7oTIFf"
     }
   ],
   "unique_name": "Fresh Finds Folk",
